@@ -15,3 +15,16 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://floresbenavides.com/feed/?cuac=zero"
+
+  update-readme-with-news:
+    name: Update this repo's README with latest news from media
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in tech feeds
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/tag/javascript,http://lifehacker.com/index.xml,http://www.thecrazyprogrammer.com/feeds/posts/default"
+          max_post_count: "40"
+          comment_tag_name: "TECH-POSTS"
