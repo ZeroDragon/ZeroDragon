@@ -19,6 +19,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [React JS create App. Part 1 of 10: Layout](https://dev.to/101samovar/react-js-create-app-part-1-of-10-layout-12on)
 - [Understanding the .valueOf&lpar;&rpar; method &lpar;Currying anyone?&rpar;](https://dev.to/ec_rilo/understanding-the-valueof-method-currying-anyone-21cb)
 - [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
@@ -26,7 +27,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [How to build a Contact form with Formik in Next JS and TypeScript](https://dev.to/ixartz/how-to-build-a-contact-form-with-formik-in-next-js-and-typescript-1173)
 - [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
 - [Creating Primitive Motion Design System Hooks Using Framer Motion](https://dev.to/michaelmangial1/creating-primitive-motion-design-system-hooks-using-framer-motion-83a)
-- [Anbody working with MERN? I have error.](https://dev.to/ivkemilioner/anbody-working-with-mern-i-have-error-16pk)
 - [Title](https://dev.to/japananh/title-1i32)
 - [40 of Our Best Android Hacks of 2021](https://lifehacker.com/40-of-our-best-android-hacks-of-2021-1848246417)
 - [Uni Localization on web components with absolute customization. Works on any website &lpar;Vue, React, Angular and even WordPress&rpar;](https://dev.to/uiwebkit/uni-localization-on-web-components-with-absolute-customization-works-on-any-website-vue-react-angular-and-even-wordpress-504g)
@@ -35,6 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Building a Flow NFT pet store : Part 1](https://dev.to/pancy/building-a-flow-nft-pet-store-part-1-4bn9)
 - [Create Clock progress bar style Clock using html css javascript](https://dev.to/codewith_random/create-clock-progress-bar-style-clock-using-html-css-javascript-3g0g)
 - [Introducing pkg.land &lpar;beta&rpar; - find similar packages on npm 📦](https://dev.to/pkgland/introducing-pkgland-beta-find-similar-packages-on-npm-25ah)
+- [JWT Authentication Tutorial with Node JS](https://dev.to/harsha/jwt-authentication-tutorial-with-node-js-3bgo)
 - [You Can Make Ultra-Impressive Party Food Without Spending a Fortune](https://lifehacker.com/you-can-make-ultra-impressive-party-food-without-spendi-1848250408)
 - [Don&#39;t Make These Doomed &#39;Health&#39; Resolutions &lpar;and What to Strive for Instead&rpar;](https://lifehacker.com/dont-make-these-doomed-health-resolutions-and-what-to-1848216356)
 - [19 of the Most Confusing Things We Explained to You in 2021](https://lifehacker.com/19-of-the-most-confusing-things-we-explained-to-you-in-1848260303)
@@ -55,7 +56,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [20 Short-Term, Medium-Term, and Long-Term Financial Goals You Can Set for 2022](https://lifehacker.com/20-short-term-medium-term-and-long-term-financial-goa-1848204617)
 - [10 Free Apps and Games to Play on Your New VR Headset](https://lifehacker.com/10-free-apps-and-games-to-play-on-your-new-vr-headset-1848134201)
 - [How to Throw a Party Like a Real Goddamn Adult](https://lifehacker.com/how-to-throw-a-party-like-a-real-goddamn-adult-1848249862)
-- [How to Care for High-Humidity Houseplants Without Killing Them](https://lifehacker.com/how-to-care-for-high-humidity-houseplants-without-killi-1848271786)
+- [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
+- [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
+- [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)
 <!-- TECH-POSTS:END -->
 
 
