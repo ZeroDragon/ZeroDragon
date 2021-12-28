@@ -17,7 +17,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ➡️ [Más cosas en mi blog...](https://floresbenavides.com)
 
-### 📕 Noticias random de tecnología
+### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [React JS create App. Part 1 of 10: Layout](https://dev.to/101samovar/react-js-create-app-part-1-of-10-layout-12on)
 - [Understanding the .valueOf&lpar;&rpar; method &lpar;Currying anyone?&rpar;](https://dev.to/ec_rilo/understanding-the-valueof-method-currying-anyone-21cb)
