@@ -67,13 +67,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ---
 
-### Gracias a los Patrons
-[<img src="https://avatars.githubusercontent.com/u/243380?v=4" alt="Iván Zenteno" width="50px">](https://github.com/k001) [<img src="https://avatars.githubusercontent.com/u/19955639?v=4" alt="Álvaro Lizama" width="50px">](https://github.com/alvarolizama) [<img src="https://avatars.githubusercontent.com/u/2718753?v=4" alt="Juan Carlos Ruiz" width="50px">](https://github.com/JuanCrg90) [<img src="https://avatars.githubusercontent.com/u/37025?v=4" alt="Jorge Medrano" width="50px">](https://github.com/h1pp1e) 
-
-[Suscríbanse](https://www.patreon.com/zerodragon) y hagámos cosas chidas
-
----
-
 ### 🎵 Now Playing
 <a href="https://spotify-now-playing-dun.vercel.app/now-playing?open"><img src="https://spotify-now-playing-dun.vercel.app/now-playing" width="540" height="64"></a>
 
@@ -81,3 +74,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <a href="https://spotify-now-playing-dun.vercel.app/top-tracks?i=1&open"><img src="https://spotify-now-playing-dun.vercel.app/top-tracks?i=1" width="540" height="64"></a>
 <a href="https://spotify-now-playing-dun.vercel.app/top-tracks?i=2&open"><img src="https://spotify-now-playing-dun.vercel.app/top-tracks?i=2" width="540" height="64"></a>
 <a href="https://spotify-now-playing-dun.vercel.app/top-tracks?i=3&open"><img src="https://spotify-now-playing-dun.vercel.app/top-tracks?i=3" width="540" height="64"></a>
+
+---
+
+### Gracias a los Patrons
+[<img src="https://avatars.githubusercontent.com/u/243380?v=4" alt="Iván Zenteno" width="50px">](https://github.com/k001) [<img src="https://avatars.githubusercontent.com/u/19955639?v=4" alt="Álvaro Lizama" width="50px">](https://github.com/alvarolizama) [<img src="https://avatars.githubusercontent.com/u/2718753?v=4" alt="Juan Carlos Ruiz" width="50px">](https://github.com/JuanCrg90) [<img src="https://avatars.githubusercontent.com/u/37025?v=4" alt="Jorge Medrano" width="50px">](https://github.com/h1pp1e) 
+
+[Suscríbanse](https://www.patreon.com/zerodragon) y hagámos cosas chidas
