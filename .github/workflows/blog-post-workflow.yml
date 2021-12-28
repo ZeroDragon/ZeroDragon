@@ -29,4 +29,4 @@ jobs:
           feed_names: "Dev.to/JS,Lifehacker,Crazy Programmer"
           max_post_count: "40"
           comment_tag_name: "TECH-POSTS"
-          template: "$newline- [$feedName] [$title]($url)$newline"
+          template: "$newline- [$feedName] [$title]($url)"
