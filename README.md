@@ -16,3 +16,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Más cosas en mi blog...](https://floresbenavides.com)
+
+### 📕 Noticias random de tecnología
+<!-- TECH-POSTS:START -->
+<!-- TECH-POSTS:END -->
