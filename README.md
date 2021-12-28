@@ -56,4 +56,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [10 Free Apps and Games to Play on Your New VR Headset](https://lifehacker.com/10-free-apps-and-games-to-play-on-your-new-vr-headset-1848134201)
 - [How to Throw a Party Like a Real Goddamn Adult](https://lifehacker.com/how-to-throw-a-party-like-a-real-goddamn-adult-1848249862)
 - [How to Care for High-Humidity Houseplants Without Killing Them](https://lifehacker.com/how-to-care-for-high-humidity-houseplants-without-killi-1848271786)
+- [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
+- [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
+- [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)
 <!-- TECH-POSTS:END -->
