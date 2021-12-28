@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Learn Javascript Functions](https://dev.to/zahab/learn-javascript-functions-2f2g)
+- [convert website to windows app and android app in a few minutes for free](https://dev.to/amreldessouki/convert-website-to-windows-app-and-android-app-in-a-few-minutes-by-link-306c)
 - [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [React JS create App. Part 1 of 10: Layout](https://dev.to/101samovar/react-js-create-app-part-1-of-10-layout-12on)
 - [Understanding the .valueOf&lpar;&rpar; method &lpar;Currying anyone?&rpar;](https://dev.to/ec_rilo/understanding-the-valueof-method-currying-anyone-21cb)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [🚨 More Feedback = More Features 🚨](https://dev.to/wundergraph/more-feedback-more-features-1ip)
 - [Building a Flow NFT pet store : Part 1](https://dev.to/pancy/building-a-flow-nft-pet-store-part-1-4bn9)
 - [Create Clock progress bar style Clock using html css javascript](https://dev.to/codewith_random/create-clock-progress-bar-style-clock-using-html-css-javascript-3g0g)
-- [Introducing pkg.land &lpar;beta&rpar; - find similar packages on npm 📦](https://dev.to/pkgland/introducing-pkgland-beta-find-similar-packages-on-npm-25ah)
-- [JWT Authentication Tutorial with Node JS](https://dev.to/harsha/jwt-authentication-tutorial-with-node-js-3bgo)
 - [You Can Make Ultra-Impressive Party Food Without Spending a Fortune](https://lifehacker.com/you-can-make-ultra-impressive-party-food-without-spendi-1848250408)
 - [Don&#39;t Make These Doomed &#39;Health&#39; Resolutions &lpar;and What to Strive for Instead&rpar;](https://lifehacker.com/dont-make-these-doomed-health-resolutions-and-what-to-1848216356)
 - [19 of the Most Confusing Things We Explained to You in 2021](https://lifehacker.com/19-of-the-most-confusing-things-we-explained-to-you-in-1848260303)
