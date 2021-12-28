@@ -57,3 +57,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [How to Throw a Party Like a Real Goddamn Adult](https://lifehacker.com/how-to-throw-a-party-like-a-real-goddamn-adult-1848249862)
 - [How to Care for High-Humidity Houseplants Without Killing Them](https://lifehacker.com/how-to-care-for-high-humidity-houseplants-without-killi-1848271786)
 <!-- TECH-POSTS:END -->
+
+
+### Gracias a los Patrons
+[<img src="https://avatars.githubusercontent.com/u/243380?v=4" alt="Iván Zenteno" width="50px">](https://github.com/k001) [<img src="https://avatars.githubusercontent.com/u/19955639?v=4" alt="Álvaro Lizama" width="50px">](https://github.com/alvarolizama) [<img src="https://avatars.githubusercontent.com/u/2718753?v=4" alt="Juan Carlos Ruiz" width="50px">](https://github.com/JuanCrg90) [<img src="https://avatars.githubusercontent.com/u/37025?v=4" alt="Jorge Medrano" width="50px">](https://github.com/h1pp1e) 
+
+[Suscríbanse](https://www.patreon.com/zerodragon) y hagámos cosas chidas
