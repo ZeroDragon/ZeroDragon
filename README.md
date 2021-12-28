@@ -6,6 +6,8 @@ Me gusta crear cosas y experimentar con tecnología que no entiendo.
 Actualmente trabajo en [ResuelveTuDeuda](http://github.com/resuelve) donde soy Tech Manager.
 Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
+---
+
 ### 📕 Últimas entradas en mi blog
 <!-- BLOG-POST-LIST:START -->
 - [Dicen que el espacio es infinito y que se está expandiendo…](https://floresbenavides.com/dicen-que-el-espacio-es-infinito-y-que-se-esta-expandiendo/)
@@ -16,6 +18,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Más cosas en mi blog...](https://floresbenavides.com)
+
+---
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
@@ -61,8 +65,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)
 <!-- TECH-POSTS:END -->
 
+---
 
 ### Gracias a los Patrons
 [<img src="https://avatars.githubusercontent.com/u/243380?v=4" alt="Iván Zenteno" width="50px">](https://github.com/k001) [<img src="https://avatars.githubusercontent.com/u/19955639?v=4" alt="Álvaro Lizama" width="50px">](https://github.com/alvarolizama) [<img src="https://avatars.githubusercontent.com/u/2718753?v=4" alt="Juan Carlos Ruiz" width="50px">](https://github.com/JuanCrg90) [<img src="https://avatars.githubusercontent.com/u/37025?v=4" alt="Jorge Medrano" width="50px">](https://github.com/h1pp1e) 
 
 [Suscríbanse](https://www.patreon.com/zerodragon) y hagámos cosas chidas
+
+---
+
+### 🎵 Now Playing
+<a href="https://spotify-now-playing-dun.vercel.app/now-playing?open"><img src="https://spotify-now-playing-dun.vercel.app/now-playing" width="540" height="64"></a>
+
+### 📈 Top Tracks
+<a href="https://spotify-now-playing-dun.vercel.app/top-tracks?i=1&open"><img src="https://spotify-now-playing-dun.vercel.app/top-tracks?i=1" width="540" height="64"></a>
+<a href="https://spotify-now-playing-dun.vercel.app/top-tracks?i=2&open"><img src="https://spotify-now-playing-dun.vercel.app/top-tracks?i=2" width="540" height="64"></a>
+<a href="https://spotify-now-playing-dun.vercel.app/top-tracks?i=3&open"><img src="https://spotify-now-playing-dun.vercel.app/top-tracks?i=3" width="540" height="64"></a>
