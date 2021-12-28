@@ -4,6 +4,11 @@
 
 ### 📕 Últimas entradas en mi blog
 <!-- BLOG-POST-LIST:START -->
+- [Dicen que el espacio es infinito y que se está expandiendo…](https://floresbenavides.com/dicen-que-el-espacio-es-infinito-y-que-se-esta-expandiendo/)
+- [Salir de promesas sin el try/catch](https://floresbenavides.com/salir-de-promesas-sin-el-try-catch/)
+- [Acciones en Github](https://floresbenavides.com/acciones-en-github/)
+- [Neni Maker](https://floresbenavides.com/neni-maker/)
+- [Otro ticker para criptomonedas](https://floresbenavides.com/otro-ticker-para-criptomonedas/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Más cosas en mi blog...](https://floresbenavides.com)
