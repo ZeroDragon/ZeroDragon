@@ -22,45 +22,85 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ---
 
 ### 👨‍💻 Noticias random de tecnología
-<!-- TECH-POSTS:START -->- [Dev.to/JS] [Explanation of JavaScript &quot;this&quot; keyword](https://dev.to/feroj7/explanation-of-javascript-this-keyword-578j)
+<!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explanation of JavaScript &quot;this&quot; keyword](https://dev.to/feroj7/explanation-of-javascript-this-keyword-578j)
+
 - [Dev.to/JS] [Learn Javascript Functions](https://dev.to/zahab/learn-javascript-functions-2f2g)
+
 - [Dev.to/JS] [convert website to windows app and android app in a few minutes for free](https://dev.to/amreldessouki/convert-website-to-windows-app-and-android-app-in-a-few-minutes-by-link-306c)
+
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
+
 - [Dev.to/JS] [React JS create App. Part 1 of 10: Layout](https://dev.to/101samovar/react-js-create-app-part-1-of-10-layout-12on)
+
 - [Dev.to/JS] [Understanding the .valueOf&lpar;&rpar; method &lpar;Currying anyone?&rpar;](https://dev.to/ec_rilo/understanding-the-valueof-method-currying-anyone-21cb)
+
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
+
 - [Dev.to/JS] [Time-boxing model : A complete guide to time management](https://dev.to/achuthhadnoor/time-boxing-model-a-complete-guide-to-time-management-38jk)
+
 - [Dev.to/JS] [How to build a Contact form with Formik in Next JS and TypeScript](https://dev.to/ixartz/how-to-build-a-contact-form-with-formik-in-next-js-and-typescript-1173)
+
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
+
 - [Dev.to/JS] [Creating Primitive Motion Design System Hooks Using Framer Motion](https://dev.to/michaelmangial1/creating-primitive-motion-design-system-hooks-using-framer-motion-83a)
+
 - [Dev.to/JS] [Title](https://dev.to/japananh/title-1i32)
+
 - [Lifehacker] [40 of Our Best Android Hacks of 2021](https://lifehacker.com/40-of-our-best-android-hacks-of-2021-1848246417)
+
 - [Dev.to/JS] [Uni Localization on web components with absolute customization. Works on any website &lpar;Vue, React, Angular and even WordPress&rpar;](https://dev.to/uiwebkit/uni-localization-on-web-components-with-absolute-customization-works-on-any-website-vue-react-angular-and-even-wordpress-504g)
+
 - [Lifehacker] [12 of Our Best Vegetarian Hacks of 2021](https://lifehacker.com/12-of-our-best-vegetarian-hacks-of-2021-1848234925)
+
 - [Dev.to/JS] [🚨 More Feedback = More Features 🚨](https://dev.to/wundergraph/more-feedback-more-features-1ip)
+
 - [Dev.to/JS] [Building a Flow NFT pet store : Part 1](https://dev.to/pancy/building-a-flow-nft-pet-store-part-1-4bn9)
+
 - [Lifehacker] [You Can Make Ultra-Impressive Party Food Without Spending a Fortune](https://lifehacker.com/you-can-make-ultra-impressive-party-food-without-spendi-1848250408)
+
 - [Lifehacker] [Don&#39;t Make These Doomed &#39;Health&#39; Resolutions &lpar;and What to Strive for Instead&rpar;](https://lifehacker.com/dont-make-these-doomed-health-resolutions-and-what-to-1848216356)
+
 - [Lifehacker] [19 of the Most Confusing Things We Explained to You in 2021](https://lifehacker.com/19-of-the-most-confusing-things-we-explained-to-you-in-1848260303)
+
 - [Lifehacker] [Why You Should Replace Your New Year&#39;s Journal With a Spreadsheet](https://lifehacker.com/why-you-should-replace-your-new-years-journal-with-a-sp-1848117995)
+
 - [Lifehacker] [How to Make Stretching Less Boring so You’ll Actually Do It](https://lifehacker.com/how-to-make-stretching-less-boring-so-you-ll-actually-d-1848132760)
+
 - [Lifehacker] [How to &lpar;Remotely&rpar; Help Your Family Members With Their New Tech](https://lifehacker.com/how-to-remotely-help-your-family-members-with-their-n-1848133025)
+
 - [Lifehacker] [20 of Our Best Mac Hacks of 2021](https://lifehacker.com/20-of-our-best-mac-hacks-of-2021-1848214870)
+
 - [Lifehacker] [Why It&#39;s Smart to Be 10 Years Behind in Gaming](https://lifehacker.com/why-its-smart-to-be-10-years-behind-in-gaming-1848226775)
+
 - [Lifehacker] [16 of the Most Pervasive Fitness Myths We Busted in 2021](https://lifehacker.com/16-of-the-most-pervasive-fitness-myths-we-busted-in-202-1848175977)
+
 - [Lifehacker] [Avoid These Renovations That Can Hurt Your Home&#39;s Value](https://lifehacker.com/avoid-these-renovations-that-can-hurt-your-homes-value-1848271792)
+
 - [Lifehacker] [Never Donate These Books to Little Free Libraries &lpar;or Anywhere Else&rpar;](https://lifehacker.com/no-one-wants-that-y2k-survival-guide-and-other-things-1848222017)
+
 - [Lifehacker] [Never Charge a Device That Has Just Been in Below Freezing Temps](https://lifehacker.com/never-charge-a-device-that-has-just-been-in-below-freez-1848221259)
+
 - [Lifehacker] [11 Lessons My Grill Taught Me in 2021](https://lifehacker.com/11-lessons-my-grill-taught-me-in-2021-1848209645)
+
 - [Lifehacker] [Hand These Home Maintenance Projects Over to Your Kids](https://lifehacker.com/hand-these-home-maintenance-projects-over-to-your-kids-1848243494)
+
 - [Lifehacker] [10 of the Best Movies We Discovered for the First Time in 2021](https://lifehacker.com/10-of-the-best-movies-we-discovered-for-the-first-time-1848254559)
+
 - [Lifehacker] [Everything You Shouldn&#39;t Do When Using a Space Heater](https://lifehacker.com/everything-you-shouldnt-do-when-using-a-space-heater-1848237212)
+
 - [Lifehacker] [Avoid These Common New Year&#39;s Resolution Pitfalls](https://lifehacker.com/avoid-these-common-new-years-resolution-pitfalls-1848206410)
+
 - [Lifehacker] [20 Short-Term, Medium-Term, and Long-Term Financial Goals You Can Set for 2022](https://lifehacker.com/20-short-term-medium-term-and-long-term-financial-goa-1848204617)
+
 - [Lifehacker] [10 Free Apps and Games to Play on Your New VR Headset](https://lifehacker.com/10-free-apps-and-games-to-play-on-your-new-vr-headset-1848134201)
+
 - [Lifehacker] [How to Throw a Party Like a Real Goddamn Adult](https://lifehacker.com/how-to-throw-a-party-like-a-real-goddamn-adult-1848249862)
+
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
+
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
+
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)
 <!-- TECH-POSTS:END -->
 
