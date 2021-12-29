@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hyperscript - the hidden language of React](https://dev.to/fromaline/hyperscript-the-hidden-language-of-react-3d1f)
+- [Dev.to/JS] [How to use Javascript to auto-update the year of publication on your website](https://dev.to/ameizt/how-to-use-javascript-to-auto-update-the-year-of-publication-on-your-website-4i02)
+- [Dev.to/JS] [Exceptions vs error values](https://dev.to/sargalias/exceptions-vs-error-values-2hp9)
 - [Dev.to/JS] [Counting phrase in string.](https://dev.to/ivkemilioner/counting-phrase-in-string-4p60)
 - [Dev.to/JS] [use-context-selector demystified](https://dev.to/romaintrotard/use-context-selector-demystified-4f8e)
 - [Dev.to/JS] [Easily Engage Customers with Personalized Real-time Sportsbook Data](https://dev.to/push_technology/easily-engage-customers-with-personalized-real-time-sportsbook-data-13eh)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I host my Next.js side projects for free](https://dev.to/dmuraco3/how-i-host-my-nextjs-side-projects-for-free-4bla)
 - [Dev.to/JS] [I Did It...I Joined A Bootcamp](https://dev.to/jacobwachtel/i-did-iti-joined-a-bootcamp-16pj)
 - [Dev.to/JS] [Polyfills can make developer life easier](https://dev.to/volker_schukai/polyfills-can-make-developer-life-easier-424p)
-- [Dev.to/JS] [Quantum Computing with Javascript using Q.js](https://dev.to/codesphere/quantum-computing-with-javascript-using-qjs-31k0)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
-- [Dev.to/JS] [JavaScript Scoping](https://dev.to/ohdylan/javascript-scoping-3adl)
-- [Dev.to/JS] [I have trouble with my own logic and expectation in javascript](https://dev.to/jabach3/i-have-trouble-with-my-own-logic-and-expectation-in-javascript-ln2)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
