@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stop using Array.map&lpar;&rpar; everywhere 🥵](https://dev.to/suprabhasupi/stop-using-arraymap-everywhere-57lf)
 - [Dev.to/JS] [8 Projects Beginners can build to learn React.js in 2022](https://dev.to/javinpaul/8-projects-beginners-can-build-to-learn-reactjs-in-2022-1e3i)
 - [Dev.to/JS] [Simple React Concept](https://dev.to/mdhasanali/simple-react-concept-3kf8)
 - [Dev.to/JS] [How to use Node.js to backup your personal files &lpar;and learn some webdev skills along the way&rpar;](https://dev.to/alexeagleson/how-to-use-nodejs-to-backup-your-personal-files-and-learn-some-webdev-skills-along-the-way-541a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML-Form 📝](https://dev.to/itsahsanmangal/html-form-1k56)
 - [Dev.to/JS] [LeetCode WalkThru: &#39;First Unique Character in a String&#39;](https://dev.to/am20dipi/leetcode-walkthru-first-unique-character-in-a-string-1lh5)
 - [Dev.to/JS] [Explanation of JavaScript &quot;this&quot; keyword](https://dev.to/feroj7/explanation-of-javascript-this-keyword-578j)
-- [Dev.to/JS] [JavaScript Runtime](https://dev.to/ejjraifihamza/javascript-runtime-22c1)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
