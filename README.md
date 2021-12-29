@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Syntax Highlighter Javascript Libraries](https://dev.to/haycuoilennao19/8-syntax-highlighter-javascript-libraries-2hp1)
+- [Dev.to/JS] [Video Background HTML5 For Website](https://dev.to/haycuoilennao19/video-background-html5-for-website-ini)
 - [Dev.to/JS] [Award-Winning Website Development Consultant in California, USA](https://dev.to/ace_infoway/award-winning-website-development-consultant-in-california-usa-3cel)
 - [Dev.to/JS] [20 HTML Input Password For Web Design](https://dev.to/haycuoilennao19/20-html-input-password-for-web-design-43lo)
 - [Dev.to/JS] [Blur Animation: CSS Transition](https://dev.to/riktar/blur-animation-css-transition-2ndc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drawing app that records your actions](https://dev.to/sebcodestheweb/drawing-app-that-records-your-actions-62p)
 - [Dev.to/JS] [How to add image preloading animation to a react native component using reanimated2](https://dev.to/uwemisrael/how-to-add-image-preloading-animation-to-a-react-native-component-using-reanimated2-39ce)
 - [Dev.to/JS] [FAQ In Tailwind css and JavaScript](https://dev.to/w3hubs/faq-in-tailwind-css-and-javascript-36af)
-- [Dev.to/JS] [Use NodeJS v16 as runtime for JavaScript actions](https://dev.to/kengotoda/use-nodejs-v16-as-runtime-for-javascript-actions-me5)
-- [Dev.to/JS] [What is the difference between TypeScript and PropTypes](https://dev.to/nitsancohen770/what-is-the-difference-between-typescript-and-proptypes-11g8)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
