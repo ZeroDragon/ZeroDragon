@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetalmol.js, preguntas de entrevistas laborales para JavaScript 😎](https://dev.to/duxtech/paracetalmoljs-preguntas-de-entrevistas-laborales-para-javascript-3ilm)
+- [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
+- [Dev.to/JS] [Center Text in just Two Lines of CSS](https://dev.to/snowbit/center-text-in-just-two-lines-of-css-4f88)
 - [Dev.to/JS] [10 Syntax Highlighter Javascript Libraries](https://dev.to/haycuoilennao19/8-syntax-highlighter-javascript-libraries-2hp1)
 - [Dev.to/JS] [Video Background HTML5 For Website](https://dev.to/haycuoilennao19/video-background-html5-for-website-ini)
 - [Dev.to/JS] [Award-Winning Website Development Consultant in California, USA](https://dev.to/ace_infoway/award-winning-website-development-consultant-in-california-usa-3cel)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React JS create App. Part 2 of 10: Icon button](https://dev.to/101samovar/react-js-create-app-part-2-of-10-icon-button-3p7p)
 - [Dev.to/JS] [Conditional rendering in React](https://dev.to/sam_lukaa/conditional-rendering-in-react-2cjb)
 - [Dev.to/JS] [Drawing app that records your actions](https://dev.to/sebcodestheweb/drawing-app-that-records-your-actions-62p)
-- [Dev.to/JS] [How to add image preloading animation to a react native component using reanimated2](https://dev.to/uwemisrael/how-to-add-image-preloading-animation-to-a-react-native-component-using-reanimated2-39ce)
-- [Dev.to/JS] [FAQ In Tailwind css and JavaScript](https://dev.to/w3hubs/faq-in-tailwind-css-and-javascript-36af)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Common New Year&#39;s Resolution Pitfalls](https://lifehacker.com/avoid-these-common-new-years-resolution-pitfalls-1848206410)
 - [Lifehacker] [20 Short-Term, Medium-Term, and Long-Term Financial Goals You Can Set for 2022](https://lifehacker.com/20-short-term-medium-term-and-long-term-financial-goa-1848204617)
 - [Lifehacker] [10 Free Apps and Games to Play on Your New VR Headset](https://lifehacker.com/10-free-apps-and-games-to-play-on-your-new-vr-headset-1848134201)
-- [Lifehacker] [How to Throw a Party Like a Real Goddamn Adult](https://lifehacker.com/how-to-throw-a-party-like-a-real-goddamn-adult-1848249862)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
