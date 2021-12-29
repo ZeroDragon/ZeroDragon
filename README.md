@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quantum Computing with Javascript using Q.js](https://dev.to/codesphere/quantum-computing-with-javascript-using-qjs-31k0)
+- [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
+- [Dev.to/JS] [JavaScript Scoping](https://dev.to/ohdylan/javascript-scoping-3adl)
+- [Dev.to/JS] [I have trouble with my own logic and expectation in javascript](https://dev.to/jabach3/i-have-trouble-with-my-own-logic-and-expectation-in-javascript-ln2)
+- [Dev.to/JS] [5 Articles every WebDev should read about performance &lpar;#1&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-about-performance-1-55an)
+- [Dev.to/JS] [The Curious case of res.render](https://dev.to/vipulbhj/the-curious-case-of-resrender-4k08)
 - [Dev.to/JS] [Find bottlenecks in Node.js apps with Clinic Flame](https://dev.to/mpangrazzi/find-bottlenecks-in-nodejs-apps-with-clinic-flame-3i0h)
 - [Dev.to/JS] [NodeJs CURD Operation](https://dev.to/mdriyajulkabir/nodejs-curd-operation-1423)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
@@ -31,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VS Code debugging for web developer](https://dev.to/achuthhadnoor/vs-code-debugging-for-web-developer-i39)
 - [Dev.to/JS] [Callbacks &amp; Higher Order Functions in JavaScript](https://dev.to/oalbacha/callbacks-higher-order-functions-in-javascript-2iee)
 - [Dev.to/JS] [tsParticles 1.38.0 Released](https://dev.to/matteobruni/tsparticles-1380-released-61a)
-- [Dev.to/JS] [Paracetalmol.js, preguntas de entrevistas laborales para JavaScript 😎](https://dev.to/duxtech/paracetalmoljs-preguntas-de-entrevistas-laborales-para-javascript-3ilm)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
-- [Dev.to/JS] [10 Syntax Highlighter Javascript Libraries](https://dev.to/haycuoilennao19/8-syntax-highlighter-javascript-libraries-2hp1)
-- [Dev.to/JS] [Video Background HTML5 For Website](https://dev.to/haycuoilennao19/video-background-html5-for-website-ini)
-- [Dev.to/JS] [Award-Winning Website Development Consultant in California, USA](https://dev.to/ace_infoway/award-winning-website-development-consultant-in-california-usa-3cel)
-- [Dev.to/JS] [20 HTML Input Password For Web Design](https://dev.to/haycuoilennao19/20-html-input-password-for-web-design-43lo)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Movies We Discovered for the First Time in 2021](https://lifehacker.com/10-of-the-best-movies-we-discovered-for-the-first-time-1848254559)
 - [Lifehacker] [Everything You Shouldn&#39;t Do When Using a Space Heater](https://lifehacker.com/everything-you-shouldnt-do-when-using-a-space-heater-1848237212)
 - [Lifehacker] [Avoid These Common New Year&#39;s Resolution Pitfalls](https://lifehacker.com/avoid-these-common-new-years-resolution-pitfalls-1848206410)
-- [Lifehacker] [20 Short-Term, Medium-Term, and Long-Term Financial Goals You Can Set for 2022](https://lifehacker.com/20-short-term-medium-term-and-long-term-financial-goa-1848204617)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
