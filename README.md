@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML-Form 📝](https://dev.to/itsahsanmangal/html-form-1k56)
 - [Dev.to/JS] [LeetCode WalkThru: &#39;First Unique Character in a String&#39;](https://dev.to/am20dipi/leetcode-walkthru-first-unique-character-in-a-string-1lh5)
 - [Dev.to/JS] [Explanation of JavaScript &quot;this&quot; keyword](https://dev.to/feroj7/explanation-of-javascript-this-keyword-578j)
+- [Dev.to/JS] [JavaScript Runtime](https://dev.to/ejjraifihamza/javascript-runtime-22c1)
 - [Dev.to/JS] [Learn Javascript Functions](https://dev.to/zahab/learn-javascript-functions-2f2g)
 - [Dev.to/JS] [convert website to windows app and android app in a few minutes for free](https://dev.to/amreldessouki/convert-website-to-windows-app-and-android-app-in-a-few-minutes-by-link-306c)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Primitive Motion Design System Hooks Using Framer Motion](https://dev.to/michaelmangial1/creating-primitive-motion-design-system-hooks-using-framer-motion-83a)
 - [Dev.to/JS] [Title](https://dev.to/japananh/title-1i32)
 - [Lifehacker] [40 of Our Best Android Hacks of 2021](https://lifehacker.com/40-of-our-best-android-hacks-of-2021-1848246417)
-- [Dev.to/JS] [Uni Localization on web components with absolute customization. Works on any website &lpar;Vue, React, Angular and even WordPress&rpar;](https://dev.to/uiwebkit/uni-localization-on-web-components-with-absolute-customization-works-on-any-website-vue-react-angular-and-even-wordpress-504g)
 - [Lifehacker] [12 of Our Best Vegetarian Hacks of 2021](https://lifehacker.com/12-of-our-best-vegetarian-hacks-of-2021-1848234925)
-- [Dev.to/JS] [🚨 More Feedback = More Features 🚨](https://dev.to/wundergraph/more-feedback-more-features-1ip)
 - [Lifehacker] [You Can Make Ultra-Impressive Party Food Without Spending a Fortune](https://lifehacker.com/you-can-make-ultra-impressive-party-food-without-spendi-1848250408)
 - [Lifehacker] [Don&#39;t Make These Doomed &#39;Health&#39; Resolutions &lpar;and What to Strive for Instead&rpar;](https://lifehacker.com/dont-make-these-doomed-health-resolutions-and-what-to-1848216356)
 - [Lifehacker] [19 of the Most Confusing Things We Explained to You in 2021](https://lifehacker.com/19-of-the-most-confusing-things-we-explained-to-you-in-1848260303)
