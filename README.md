@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functions in Js and its types!!! &lpar;Part 1&rpar;](https://dev.to/himanshupal0001/functions-in-js-and-its-types-part-1-1aj0)
+- [Dev.to/JS] [How to handle loading progress flicker](https://dev.to/kouts/how-to-handle-loading-progress-flicker-11ne)
+- [Dev.to/JS] [Public Solving: Let it snow](https://dev.to/dailydevtips1/public-solving-let-it-snow-29ik)
+- [Dev.to/JS] [Best Cat Illustration Pack 2022](https://dev.to/fahmi42/best-cat-illustration-pack-2022-3ogp)
 - [Dev.to/JS] [Stop using Array.map&lpar;&rpar; everywhere 🥵](https://dev.to/suprabhasupi/stop-using-arraymap-everywhere-57lf)
 - [Dev.to/JS] [8 Projects Beginners can build to learn React.js in 2022](https://dev.to/javinpaul/8-projects-beginners-can-build-to-learn-reactjs-in-2022-1e3i)
 - [Dev.to/JS] [Simple React Concept](https://dev.to/mdhasanali/simple-react-concept-3kf8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Chapter Published!!](https://dev.to/subhransuindia/new-chapter-published-3oep)
 - [Dev.to/JS] [Point-Free Programming](https://dev.to/brewsterbhg/point-free-programming-53n)
 - [Dev.to/JS] [Tips And Tricks Web Design #01 Navbar Animation](https://dev.to/adityamputra27/tips-and-tricks-web-design-01-navbar-animation-3e2i)
-- [Dev.to/JS] [Cara membuat proxy middleware untuk cross API.](https://dev.to/suryatech/cara-membuat-proxy-middleware-untuk-cross-api-4c87)
-- [Dev.to/JS] [HTML-Form 📝](https://dev.to/itsahsanmangal/html-form-1k56)
-- [Dev.to/JS] [LeetCode WalkThru: &#39;First Unique Character in a String&#39;](https://dev.to/am20dipi/leetcode-walkthru-first-unique-character-in-a-string-1lh5)
-- [Dev.to/JS] [Explanation of JavaScript &quot;this&quot; keyword](https://dev.to/feroj7/explanation-of-javascript-this-keyword-578j)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
