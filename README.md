@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8 Ways To Drastically Boost Your Developer Productivity](https://dev.to/robbiecahill/8-ways-to-drastically-boost-your-developer-productivity-1l0b)
+- [Dev.to/JS] [Highlighting: sync-contribution-graph](https://dev.to/mtfoley/highlighting-sync-contribution-graph-6o8)
 - [Dev.to/JS] [The Best Collected Details on the GraphQL Specification – Overview &amp; Language](https://dev.to/adron/the-best-collected-details-on-the-graphql-specification-overview-language-3e88)
-- [Dev.to/JS] [My YouTube Journey as a Web Developer. Will I quit YouTube in 2022?](https://dev.to/chaoocharles/my-youtube-journey-as-a-web-developer-will-i-quit-youtube-in-2022-4764)
 - [Dev.to/JS] [Form Lib 1.10 released](https://dev.to/schukai/form-lib-110-released-3ng)
 - [Dev.to/JS] [Memorization in Recursion &lpar;JS&rpar;](https://dev.to/umashankar_s/memorization-in-recursion-281b)
 - [Dev.to/JS] [Monster 1.29 released](https://dev.to/schukai/monster-129-released-1o2n)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Counting phrase in string.](https://dev.to/ivkemilioner/counting-phrase-in-string-4p60)
 - [Dev.to/JS] [use-context-selector demystified](https://dev.to/romaintrotard/use-context-selector-demystified-4f8e)
 - [Dev.to/JS] [Easily Engage Customers with Personalized Real-time Sportsbook Data](https://dev.to/push_technology/easily-engage-customers-with-personalized-real-time-sportsbook-data-13eh)
-- [Dev.to/JS] [Variables and constants in JS](https://dev.to/sumitsaurabh927/variables-and-constants-in-js-4854)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
