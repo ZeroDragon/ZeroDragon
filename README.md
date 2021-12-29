@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Counting phrase in string.](https://dev.to/ivkemilioner/counting-phrase-in-string-4p60)
+- [Dev.to/JS] [use-context-selector demystified](https://dev.to/romaintrotard/use-context-selector-demystified-4f8e)
+- [Dev.to/JS] [Easily Engage Customers with Personalized Real-time Sportsbook Data](https://dev.to/push_technology/easily-engage-customers-with-personalized-real-time-sportsbook-data-13eh)
+- [Dev.to/JS] [Variables and constants in JS](https://dev.to/sumitsaurabh927/variables-and-constants-in-js-4854)
 - [Dev.to/JS] [Flash of Undefined Custom Elements &lpar;FOUCE&rpar;](https://dev.to/claviska/flash-of-undefined-custom-elements-fouce-3bp4)
 - [Dev.to/JS] [Console in JS other than console.log&lpar;&rpar;](https://dev.to/neel_dedhia/console-in-js-other-than-consolelog-32nf)
 - [Dev.to/JS] [How I host my Next.js side projects for free](https://dev.to/dmuraco3/how-i-host-my-nextjs-side-projects-for-free-4bla)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Dev.to/JS] [JavaScript Scoping](https://dev.to/ohdylan/javascript-scoping-3adl)
 - [Dev.to/JS] [I have trouble with my own logic and expectation in javascript](https://dev.to/jabach3/i-have-trouble-with-my-own-logic-and-expectation-in-javascript-ln2)
-- [Dev.to/JS] [5 Articles every WebDev should read about performance &lpar;#1&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-about-performance-1-55an)
-- [Dev.to/JS] [The Curious case of res.render](https://dev.to/vipulbhj/the-curious-case-of-resrender-4k08)
-- [Dev.to/JS] [Find bottlenecks in Node.js apps with Clinic Flame](https://dev.to/mpangrazzi/find-bottlenecks-in-nodejs-apps-with-clinic-flame-3i0h)
-- [Dev.to/JS] [NodeJs CURD Operation](https://dev.to/mdriyajulkabir/nodejs-curd-operation-1423)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
