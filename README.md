@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Award-Winning Website Development Consultant in California, USA](https://dev.to/ace_infoway/award-winning-website-development-consultant-in-california-usa-3cel)
+- [Dev.to/JS] [20 HTML Input Password For Web Design](https://dev.to/haycuoilennao19/20-html-input-password-for-web-design-43lo)
+- [Dev.to/JS] [Blur Animation: CSS Transition](https://dev.to/riktar/blur-animation-css-transition-2ndc)
+- [Dev.to/JS] [How to create a styled custom Icon components in MUI v5?](https://dev.to/hajhosein/how-to-create-a-styled-custom-icon-components-in-mui-v5-4onc)
 - [Dev.to/JS] [Tweet Hunter- The Ecosystem to Tweet &amp; Make Money.](https://dev.to/tyaga001/tweet-hunter-the-ecosystem-to-tweet-make-money-567j)
 - [Dev.to/JS] [React JS create App. Part 2 of 10: Icon button](https://dev.to/101samovar/react-js-create-app-part-2-of-10-icon-button-3p7p)
 - [Dev.to/JS] [Conditional rendering in React](https://dev.to/sam_lukaa/conditional-rendering-in-react-2cjb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FAQ In Tailwind css and JavaScript](https://dev.to/w3hubs/faq-in-tailwind-css-and-javascript-36af)
 - [Dev.to/JS] [Use NodeJS v16 as runtime for JavaScript actions](https://dev.to/kengotoda/use-nodejs-v16-as-runtime-for-javascript-actions-me5)
 - [Dev.to/JS] [What is the difference between TypeScript and PropTypes](https://dev.to/nitsancohen770/what-is-the-difference-between-typescript-and-proptypes-11g8)
-- [Dev.to/JS] [5 WEB UX LAWS EVERY DEVELOPER SHOULD KNOW](https://dev.to/visualway/5-web-ux-laws-every-developer-should-know-f6h)
-- [Dev.to/JS] [Functions in Js and its types!!! &lpar;Part 1&rpar;](https://dev.to/himanshupal0001/functions-in-js-and-its-types-part-1-1aj0)
-- [Dev.to/JS] [How to handle loading progress flicker](https://dev.to/kouts/how-to-handle-loading-progress-flicker-11ne)
-- [Dev.to/JS] [Public Solving: Let it snow](https://dev.to/dailydevtips1/public-solving-let-it-snow-29ik)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
