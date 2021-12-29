@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Best Collected Details on the GraphQL Specification – Overview &amp; Language](https://dev.to/adron/the-best-collected-details-on-the-graphql-specification-overview-language-3e88)
+- [Dev.to/JS] [My YouTube Journey as a Web Developer. Will I quit YouTube in 2022?](https://dev.to/chaoocharles/my-youtube-journey-as-a-web-developer-will-i-quit-youtube-in-2022-4764)
+- [Dev.to/JS] [Form Lib 1.10 released](https://dev.to/schukai/form-lib-110-released-3ng)
+- [Dev.to/JS] [Memorization in Recursion &lpar;JS&rpar;](https://dev.to/umashankar_s/memorization-in-recursion-281b)
+- [Dev.to/JS] [Monster 1.29 released](https://dev.to/schukai/monster-129-released-1o2n)
 - [Dev.to/JS] [Hyperscript - the hidden language of React](https://dev.to/fromaline/hyperscript-the-hidden-language-of-react-3d1f)
 - [Dev.to/JS] [How to use Javascript to auto-update the year of publication on your website](https://dev.to/ameizt/how-to-use-javascript-to-auto-update-the-year-of-publication-on-your-website-4i02)
 - [Dev.to/JS] [Exceptions vs error values](https://dev.to/sargalias/exceptions-vs-error-values-2hp9)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [use-context-selector demystified](https://dev.to/romaintrotard/use-context-selector-demystified-4f8e)
 - [Dev.to/JS] [Easily Engage Customers with Personalized Real-time Sportsbook Data](https://dev.to/push_technology/easily-engage-customers-with-personalized-real-time-sportsbook-data-13eh)
 - [Dev.to/JS] [Variables and constants in JS](https://dev.to/sumitsaurabh927/variables-and-constants-in-js-4854)
-- [Dev.to/JS] [Flash of Undefined Custom Elements &lpar;FOUCE&rpar;](https://dev.to/claviska/flash-of-undefined-custom-elements-fouce-3bp4)
-- [Dev.to/JS] [Console in JS other than console.log&lpar;&rpar;](https://dev.to/neel_dedhia/console-in-js-other-than-consolelog-32nf)
-- [Dev.to/JS] [How I host my Next.js side projects for free](https://dev.to/dmuraco3/how-i-host-my-nextjs-side-projects-for-free-4bla)
-- [Dev.to/JS] [I Did It...I Joined A Bootcamp](https://dev.to/jacobwachtel/i-did-iti-joined-a-bootcamp-16pj)
-- [Dev.to/JS] [Polyfills can make developer life easier](https://dev.to/volker_schukai/polyfills-can-make-developer-life-easier-424p)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
