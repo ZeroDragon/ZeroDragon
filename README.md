@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Point-Free Programming](https://dev.to/brewsterbhg/point-free-programming-53n)
 - [Dev.to/JS] [Tips And Tricks Web Design #01 Navbar Animation](https://dev.to/adityamputra27/tips-and-tricks-web-design-01-navbar-animation-3e2i)
 - [Dev.to/JS] [Cara membuat proxy middleware untuk cross API.](https://dev.to/suryatech/cara-membuat-proxy-middleware-untuk-cross-api-4c87)
 - [Dev.to/JS] [HTML-Form 📝](https://dev.to/itsahsanmangal/html-form-1k56)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the .valueOf&lpar;&rpar; method &lpar;Currying anyone?&rpar;](https://dev.to/ec_rilo/understanding-the-valueof-method-currying-anyone-21cb)
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Dev.to/JS] [Time-boxing model : A complete guide to time management](https://dev.to/achuthhadnoor/time-boxing-model-a-complete-guide-to-time-management-38jk)
-- [Dev.to/JS] [How to build a Contact form with Formik in Next JS and TypeScript](https://dev.to/ixartz/how-to-build-a-contact-form-with-formik-in-next-js-and-typescript-1173)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
 - [Lifehacker] [40 of Our Best Android Hacks of 2021](https://lifehacker.com/40-of-our-best-android-hacks-of-2021-1848246417)
 - [Lifehacker] [12 of Our Best Vegetarian Hacks of 2021](https://lifehacker.com/12-of-our-best-vegetarian-hacks-of-2021-1848234925)
