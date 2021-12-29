@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Drawing app that records your actions](https://dev.to/sebcodestheweb/drawing-app-that-records-your-actions-62p)
+- [Dev.to/JS] [How to add image preloading animation to a react native component using reanimated2](https://dev.to/uwemisrael/how-to-add-image-preloading-animation-to-a-react-native-component-using-reanimated2-39ce)
+- [Dev.to/JS] [FAQ In Tailwind css and JavaScript](https://dev.to/w3hubs/faq-in-tailwind-css-and-javascript-36af)
 - [Dev.to/JS] [Use NodeJS v16 as runtime for JavaScript actions](https://dev.to/kengotoda/use-nodejs-v16-as-runtime-for-javascript-actions-me5)
 - [Dev.to/JS] [What is the difference between TypeScript and PropTypes](https://dev.to/nitsancohen770/what-is-the-difference-between-typescript-and-proptypes-11g8)
 - [Dev.to/JS] [5 WEB UX LAWS EVERY DEVELOPER SHOULD KNOW](https://dev.to/visualway/5-web-ux-laws-every-developer-should-know-f6h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Cat Illustration Pack 2022](https://dev.to/fahmi42/best-cat-illustration-pack-2022-3ogp)
 - [Dev.to/JS] [Stop using Array.map&lpar;&rpar; everywhere 🥵](https://dev.to/suprabhasupi/stop-using-arraymap-everywhere-57lf)
 - [Dev.to/JS] [8 Projects Beginners can build to learn React.js in 2022](https://dev.to/javinpaul/8-projects-beginners-can-build-to-learn-reactjs-in-2022-1e3i)
-- [Dev.to/JS] [Simple React Concept](https://dev.to/mdhasanali/simple-react-concept-3kf8)
-- [Dev.to/JS] [How to use Node.js to backup your personal files &lpar;and learn some webdev skills along the way&rpar;](https://dev.to/alexeagleson/how-to-use-nodejs-to-backup-your-personal-files-and-learn-some-webdev-skills-along-the-way-541a)
-- [Dev.to/JS] [A Quick Guide To: jQuery](https://dev.to/am20dipi/a-quick-guide-to-jquery-44l8)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
