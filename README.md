@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tips And Tricks Web Design #01 Navbar Animation](https://dev.to/adityamputra27/tips-and-tricks-web-design-01-navbar-animation-3e2i)
 - [Dev.to/JS] [Cara membuat proxy middleware untuk cross API.](https://dev.to/suryatech/cara-membuat-proxy-middleware-untuk-cross-api-4c87)
 - [Dev.to/JS] [HTML-Form 📝](https://dev.to/itsahsanmangal/html-form-1k56)
 - [Dev.to/JS] [LeetCode WalkThru: &#39;First Unique Character in a String&#39;](https://dev.to/am20dipi/leetcode-walkthru-first-unique-character-in-a-string-1lh5)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Time-boxing model : A complete guide to time management](https://dev.to/achuthhadnoor/time-boxing-model-a-complete-guide-to-time-management-38jk)
 - [Dev.to/JS] [How to build a Contact form with Formik in Next JS and TypeScript](https://dev.to/ixartz/how-to-build-a-contact-form-with-formik-in-next-js-and-typescript-1173)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
-- [Dev.to/JS] [Creating Primitive Motion Design System Hooks Using Framer Motion](https://dev.to/michaelmangial1/creating-primitive-motion-design-system-hooks-using-framer-motion-83a)
 - [Lifehacker] [40 of Our Best Android Hacks of 2021](https://lifehacker.com/40-of-our-best-android-hacks-of-2021-1848246417)
 - [Lifehacker] [12 of Our Best Vegetarian Hacks of 2021](https://lifehacker.com/12-of-our-best-vegetarian-hacks-of-2021-1848234925)
 - [Lifehacker] [You Can Make Ultra-Impressive Party Food Without Spending a Fortune](https://lifehacker.com/you-can-make-ultra-impressive-party-food-without-spendi-1848250408)
