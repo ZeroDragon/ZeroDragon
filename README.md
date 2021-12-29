@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tweet Hunter- The Ecosystem to Tweet &amp; Make Money.](https://dev.to/tyaga001/tweet-hunter-the-ecosystem-to-tweet-make-money-567j)
+- [Dev.to/JS] [React JS create App. Part 2 of 10: Icon button](https://dev.to/101samovar/react-js-create-app-part-2-of-10-icon-button-3p7p)
+- [Dev.to/JS] [Conditional rendering in React](https://dev.to/sam_lukaa/conditional-rendering-in-react-2cjb)
 - [Dev.to/JS] [Drawing app that records your actions](https://dev.to/sebcodestheweb/drawing-app-that-records-your-actions-62p)
 - [Dev.to/JS] [How to add image preloading animation to a react native component using reanimated2](https://dev.to/uwemisrael/how-to-add-image-preloading-animation-to-a-react-native-component-using-reanimated2-39ce)
 - [Dev.to/JS] [FAQ In Tailwind css and JavaScript](https://dev.to/w3hubs/faq-in-tailwind-css-and-javascript-36af)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functions in Js and its types!!! &lpar;Part 1&rpar;](https://dev.to/himanshupal0001/functions-in-js-and-its-types-part-1-1aj0)
 - [Dev.to/JS] [How to handle loading progress flicker](https://dev.to/kouts/how-to-handle-loading-progress-flicker-11ne)
 - [Dev.to/JS] [Public Solving: Let it snow](https://dev.to/dailydevtips1/public-solving-let-it-snow-29ik)
-- [Dev.to/JS] [Best Cat Illustration Pack 2022](https://dev.to/fahmi42/best-cat-illustration-pack-2022-3ogp)
-- [Dev.to/JS] [Stop using Array.map&lpar;&rpar; everywhere 🥵](https://dev.to/suprabhasupi/stop-using-arraymap-everywhere-57lf)
-- [Dev.to/JS] [8 Projects Beginners can build to learn React.js in 2022](https://dev.to/javinpaul/8-projects-beginners-can-build-to-learn-reactjs-in-2022-1e3i)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
