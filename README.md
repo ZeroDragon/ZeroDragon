@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use NodeJS v16 as runtime for JavaScript actions](https://dev.to/kengotoda/use-nodejs-v16-as-runtime-for-javascript-actions-me5)
+- [Dev.to/JS] [What is the difference between TypeScript and PropTypes](https://dev.to/nitsancohen770/what-is-the-difference-between-typescript-and-proptypes-11g8)
+- [Dev.to/JS] [5 WEB UX LAWS EVERY DEVELOPER SHOULD KNOW](https://dev.to/visualway/5-web-ux-laws-every-developer-should-know-f6h)
 - [Dev.to/JS] [Functions in Js and its types!!! &lpar;Part 1&rpar;](https://dev.to/himanshupal0001/functions-in-js-and-its-types-part-1-1aj0)
 - [Dev.to/JS] [How to handle loading progress flicker](https://dev.to/kouts/how-to-handle-loading-progress-flicker-11ne)
 - [Dev.to/JS] [Public Solving: Let it snow](https://dev.to/dailydevtips1/public-solving-let-it-snow-29ik)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple React Concept](https://dev.to/mdhasanali/simple-react-concept-3kf8)
 - [Dev.to/JS] [How to use Node.js to backup your personal files &lpar;and learn some webdev skills along the way&rpar;](https://dev.to/alexeagleson/how-to-use-nodejs-to-backup-your-personal-files-and-learn-some-webdev-skills-along-the-way-541a)
 - [Dev.to/JS] [A Quick Guide To: jQuery](https://dev.to/am20dipi/a-quick-guide-to-jquery-44l8)
-- [Dev.to/JS] [New Chapter Published!!](https://dev.to/subhransuindia/new-chapter-published-3oep)
-- [Dev.to/JS] [Point-Free Programming](https://dev.to/brewsterbhg/point-free-programming-53n)
-- [Dev.to/JS] [Tips And Tricks Web Design #01 Navbar Animation](https://dev.to/adityamputra27/tips-and-tricks-web-design-01-navbar-animation-3e2i)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
