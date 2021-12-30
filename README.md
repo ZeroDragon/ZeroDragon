@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Visual studio Theme](https://dev.to/vermaprince123/my-visual-studio-theme-58bg)
 - [Dev.to/JS] [JavaScript The Hard Parts-Part 1](https://dev.to/osamamammar/javascript-the-hard-parts-part-1-210a)
 - [Dev.to/JS] [JavaScript String](https://dev.to/simantabarua/javascript-string-3582)
 - [Dev.to/JS] [Getting started with NodeJS](https://dev.to/rekastudios/getting-started-with-nodejs-3g9a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stringify global objects – debugging helpers](https://dev.to/projektorius96/stringify-global-objects-debugging-helpers-1aeo)
 - [Dev.to/JS] [Buildspace Project: Build a web 3 app … My notes](https://dev.to/kidme/buildspace-project-build-a-web-3-app-my-notes-3le0)
 - [Dev.to/JS] [Topic: JS Array Methods and their differences- forEach vs map vs filter vs find vs reduce vs slice vs splice](https://dev.to/zahidulislam144/topic-js-array-methods-and-their-differences-foreach-vs-map-vs-filter-vs-find-vs-reduce-3k6l)
-- [Dev.to/JS] [Why we used Docker for testing](https://dev.to/nitzanhen/why-we-used-docker-for-testing-p1d)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
