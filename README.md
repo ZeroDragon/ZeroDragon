@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s Prisma Time - Insert](https://dev.to/this-is-learning/its-prisma-time-insert-fc2)
+- [Dev.to/JS] [Create React App. Part 3 of 10: Routing](https://dev.to/101samovar/create-react-app-part-3-of-10-routing-gap)
+- [Dev.to/JS] [groupBy on an array of objects in javascript](https://dev.to/dezforb/groupby-on-an-array-of-objects-in-javascript-3n0)
+- [Dev.to/JS] [How Can You Easily Optimize MQTT Performance?](https://dev.to/push_technology/how-can-you-easily-optimize-mqtt-performance-2pj7)
+- [Dev.to/JS] [Do you know how a single mobile application helps you in your business?](https://dev.to/codeepsiloncs/do-you-know-how-a-single-mobile-application-helps-you-in-your-business-2e8i)
 - [Dev.to/JS] [Ree Drummond CBD Gummies | {Tested 2021}  Price, Reaction Before Buy!](https://dev.to/drummondgummies/ree-drummond-cbd-gummies-tested-2021-price-reaction-before-buy-ek5)
 - [Dev.to/JS] [How To Event Stream Data From Your Eleventy Site To Google Analytics Using RudderStack](https://dev.to/rudderstack/how-to-event-stream-data-from-your-eleventy-site-to-google-analytics-using-rudderstack-1694)
 - [Dev.to/JS] [Trajectus](https://dev.to/trajectus/trajectus-24l9)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript The Hard Parts-Part 1](https://dev.to/osamamammar/javascript-the-hard-parts-part-1-210a)
 - [Dev.to/JS] [JavaScript String](https://dev.to/simantabarua/javascript-string-3582)
 - [Dev.to/JS] [Getting started with NodeJS](https://dev.to/rekastudios/getting-started-with-nodejs-3g9a)
-- [Dev.to/JS] [Handling form input in React&lpar;including drop-down and checkbox&rpar;](https://dev.to/sam_lukaa/handling-form-input-in-reactincluding-drop-down-and-checkbox-47h8)
-- [Dev.to/JS] [Robotic Process Automation and How Bots Can Make Everything Easier:](https://dev.to/leobdev/robotic-process-automation-and-how-bots-can-make-everything-easier-8i8)
-- [Dev.to/JS] [Recreating lodash partition method](https://dev.to/_ab_del_/recreating-lodash-partition-method-3a31)
-- [Dev.to/JS] [🤔 How should I build my Frontend for a huge project?](https://dev.to/williammcgonagle/how-would-you-connect-a-frontend-and-backend-3p30)
-- [Dev.to/JS] [JS Types to Avoid Polyfilling](https://dev.to/cerchie/js-types-to-avoid-polyfilling-2pli)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
