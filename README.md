@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a personal Blog in .NET 6](https://dev.to/zangassis/creating-a-personal-blog-in-net-6-3k1g)
+- [Dev.to/JS] [JS in Kotlin/JS](https://dev.to/mpetuska/js-in-kotlinjs-c4g)
+- [Dev.to/JS] [Moving to React-Router-Dom v6 from v5 or below](https://dev.to/daveson217/moving-to-react-router-dom-v6-from-v5-or-below-22l1)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
-- [Dev.to/JS] [A11y Testing: Automating ScreenReaders](https://dev.to/craigmorten/a11y-testing-automating-screenreaders-1a3n)
 - [Dev.to/JS] [React-Navigation :  Navigate with Stack](https://dev.to/iamrajshekhar/react-navigation-navigate-with-stack-3k5e)
 - [Dev.to/JS] [Advanced typescript for React developers - discriminated unions](https://dev.to/adevnadia/advanced-typescript-for-react-developers-discriminated-unions-28ec)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Show and Hide Password Using jQuery](https://dev.to/shantanu_jana/show-and-hide-password-using-jquery-1ajm)
 - [Lifehacker] [Our 13 Most Motivating Fitness Posts of 2021](https://lifehacker.com/our-13-most-motivating-fitness-posts-of-2021-1848180023)
 - [Dev.to/JS] [An In-Depth Look at the React Lifecycle Methods](https://dev.to/shafia/an-in-depth-look-at-the-react-lifecycle-methods-1i20)
-- [Dev.to/JS] [What is your testing approach when working on fast-pace projects?](https://dev.to/chrisczopp/what-is-your-testing-approach-when-working-on-fast-pace-projects-465e)
-- [Dev.to/JS] [How to Access Object&#39;s Keys, Values, and Entries in JavaScript](https://dev.to/dezforb/how-to-access-objects-keys-values-and-entries-in-javascript-4okb)
 - [Lifehacker] [Why You Should ‘Resolve’ to Only Make Tiny Self-Care Changes This Year](https://lifehacker.com/why-you-should-resolve-to-only-make-tiny-self-care-ch-1848179783)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
