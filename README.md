@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
+- [Dev.to/JS] [A11y Testing: Automating ScreenReaders](https://dev.to/craigmorten/a11y-testing-automating-screenreaders-1a3n)
+- [Dev.to/JS] [React-Navigation :  Navigate with Stack](https://dev.to/iamrajshekhar/react-navigation-navigate-with-stack-3k5e)
+- [Dev.to/JS] [Advanced typescript for React developers - discriminated unions](https://dev.to/adevnadia/advanced-typescript-for-react-developers-discriminated-unions-28ec)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Dev.to/JS] [Learn How to Make Colorful Fireworks in JavaScript](https://dev.to/flowforfrank/learn-how-to-make-colorful-fireworks-in-javascript-1j1e)
 - [Dev.to/JS] [Cómo crear un marketplace](https://dev.to/turupawn/como-crear-un-marketplace-5d1p)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is your testing approach when working on fast-pace projects?](https://dev.to/chrisczopp/what-is-your-testing-approach-when-working-on-fast-pace-projects-465e)
 - [Dev.to/JS] [How to Access Object&#39;s Keys, Values, and Entries in JavaScript](https://dev.to/dezforb/how-to-access-objects-keys-values-and-entries-in-javascript-4okb)
 - [Lifehacker] [Why You Should ‘Resolve’ to Only Make Tiny Self-Care Changes This Year](https://lifehacker.com/why-you-should-resolve-to-only-make-tiny-self-care-ch-1848179783)
-- [Dev.to/JS] [leetcode 55. Jump Game](https://dev.to/siambillah/leetcode-55-jump-game-1b1g)
-- [Dev.to/JS] [Create QR code generator using javascript](https://dev.to/codewith_random/create-qr-code-generator-using-javascript-5bg9)
-- [Dev.to/JS] [Leetcode  673. Number of Longest Increasing Subsequence](https://dev.to/siambillah/leetcode-673-number-of-longest-increasing-subsequence-3560)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Renovations That Can Hurt Your Home&#39;s Value](https://lifehacker.com/avoid-these-renovations-that-can-hurt-your-homes-value-1848271792)
 - [Lifehacker] [Never Donate These Books to Little Free Libraries &lpar;or Anywhere Else&rpar;](https://lifehacker.com/no-one-wants-that-y2k-survival-guide-and-other-things-1848222017)
 - [Lifehacker] [Never Charge a Device That Has Just Been in Below Freezing Temps](https://lifehacker.com/never-charge-a-device-that-has-just-been-in-below-freez-1848221259)
-- [Lifehacker] [11 Lessons My Grill Taught Me in 2021](https://lifehacker.com/11-lessons-my-grill-taught-me-in-2021-1848209645)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
