@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9 Best Coursera Courses + Projects for Web Developers](https://dev.to/javinpaul/9-best-coursera-courses-projects-for-web-developers-1l62)
+- [Dev.to/JS] [Angular Vs React: Which JS Framework Choose for Your Business?](https://dev.to/herbertj/angular-vs-react-which-js-framework-choose-for-your-business-3fe3)
+- [Dev.to/JS] [5 Websites To Get Free Icons For Web Development](https://dev.to/shoyeb001/5-websites-to-get-free-icons-for-web-development-nk6)
 - [Dev.to/JS] [How To Convert Audio from 2D to 3D](https://dev.to/shirely/how-to-convert-audio-from-2d-to-3d-3amn)
 - [Dev.to/JS] [Using Constraints and Pipelines for a more intuitive JavaScript web-apps](https://dev.to/bacloud14/using-constraints-and-pipelines-for-a-more-intuitive-javascript-web-apps-43ag)
 - [Dev.to/JS] [🛑 Stop Use Of Javascript Like This.](https://dev.to/ctenlive/stop-use-of-javascript-like-this-oi9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create React App. Part 3 of 10: Routing](https://dev.to/101samovar/create-react-app-part-3-of-10-routing-gap)
 - [Dev.to/JS] [groupBy on an array of objects in javascript](https://dev.to/dezforb/groupby-on-an-array-of-objects-in-javascript-3n0)
 - [Dev.to/JS] [How Can You Easily Optimize MQTT Performance?](https://dev.to/push_technology/how-can-you-easily-optimize-mqtt-performance-2pj7)
-- [Dev.to/JS] [Do you know how a single mobile application helps you in your business?](https://dev.to/codeepsiloncs/do-you-know-how-a-single-mobile-application-helps-you-in-your-business-2e8i)
-- [Dev.to/JS] [Ree Drummond CBD Gummies | {Tested 2021}  Price, Reaction Before Buy!](https://dev.to/drummondgummies/ree-drummond-cbd-gummies-tested-2021-price-reaction-before-buy-ek5)
-- [Dev.to/JS] [How To Event Stream Data From Your Eleventy Site To Google Analytics Using RudderStack](https://dev.to/rudderstack/how-to-event-stream-data-from-your-eleventy-site-to-google-analytics-using-rudderstack-1694)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
