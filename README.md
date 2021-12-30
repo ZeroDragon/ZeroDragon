@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should ‘Resolve’ to Only Make Tiny Self-Care Changes This Year](https://lifehacker.com/why-you-should-resolve-to-only-make-tiny-self-care-ch-1848179783)
+- [Dev.to/JS] [Leetcode  673. Number of Longest Increasing Subsequence](https://dev.to/siambillah/leetcode-673-number-of-longest-increasing-subsequence-3560)
+- [Dev.to/JS] [15 Free Hosting For Front-end Developers](https://dev.to/haycuoilennao19/15-free-hosting-for-front-end-developers-1286)
+- [Dev.to/JS] [GeoIP NodeJS](https://dev.to/kaixinn/geoip-nodejs-5dmn)
+- [Dev.to/JS] [Leetcode 937. Reorder Data in Log Files](https://dev.to/ahmedsiam72/leetcode-937-reorder-data-in-log-files-1hkg)
+- [Dev.to/JS] [Authme 3.0.0 released!](https://dev.to/levminer/authme-300-released-49a5)
 - [Dev.to/JS] [Ultimate list of JavaScript Learning Resource &lpar;Free&rpar;](https://dev.to/officialkamran/ultimate-list-of-javascript-learning-resource-free-3kef)
 - [Dev.to/JS] [Leetcode 1089 Best Solution](https://dev.to/siambillah/leetcode-1089-best-solution-4fjg)
 - [Dev.to/JS] [Leetcode 718 Best Soluton](https://dev.to/siambillah/leetcode-718-best-soluton-3gam)
 - [Dev.to/JS] [Leetcode 241 Best Solution](https://dev.to/siambillah/leetcode-241-best-solution-4l4g)
-- [Dev.to/JS] [Best CSS Frameworks for 2022](https://dev.to/samlan/best-css-frameworks-for-2022-1afm)
 - [Dev.to/JS] [Drag and Drop with React &lpar;with no libraries&rpar; part 2](https://dev.to/wolfmath/drag-and-drop-with-react-519m)
 - [Dev.to/JS] [Happy New Year Illustration Pack For 2022](https://dev.to/fahmi42/happy-new-year-illustration-pack-for-2022-3p19)
 - [Dev.to/JS] [All About Arrow Functions](https://dev.to/aravsanj/all-about-arrow-functions-8eo)
-- [Dev.to/JS] [Type Assertions in TypeScript - why not?](https://dev.to/this-is-learning/type-assertions-in-typescript-why-not-2jc3)
-- [Dev.to/JS] [Leetcode 110 Balanced Binary Tree](https://dev.to/qureshiabraham/leetcode-110-balanced-binary-tree-5464)
-- [Dev.to/JS] [React-questions-answers-page](https://dev.to/ddelrio95/react-questions-answers-page-2dfa)
-- [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #112](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-112-38o)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hand These Home Maintenance Projects Over to Your Kids](https://lifehacker.com/hand-these-home-maintenance-projects-over-to-your-kids-1848243494)
 - [Lifehacker] [10 of the Best Movies We Discovered for the First Time in 2021](https://lifehacker.com/10-of-the-best-movies-we-discovered-for-the-first-time-1848254559)
 - [Lifehacker] [Everything You Shouldn&#39;t Do When Using a Space Heater](https://lifehacker.com/everything-you-shouldnt-do-when-using-a-space-heater-1848237212)
-- [Lifehacker] [Avoid These Common New Year&#39;s Resolution Pitfalls](https://lifehacker.com/avoid-these-common-new-years-resolution-pitfalls-1848206410)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
