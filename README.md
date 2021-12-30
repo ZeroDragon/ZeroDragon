@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vaccinater | vaccine notification](https://dev.to/mayukh/vaccinater-vaccine-notification-2lhb)
+- [Dev.to/JS] [BIT Mesra Lead | Learn By Doing](https://dev.to/mayukh/bit-mesra-lead-learn-by-doing-405)
+- [Dev.to/JS] [The material design framework you have all been waiting for](https://dev.to/posandu/the-material-design-framework-you-have-all-been-waiting-for-1f66)
 - [Dev.to/JS] [9 Best Coursera Courses + Projects for Web Developers](https://dev.to/javinpaul/9-best-coursera-courses-projects-for-web-developers-1l62)
 - [Dev.to/JS] [Angular Vs React: Which JS Framework Choose for Your Business?](https://dev.to/herbertj/angular-vs-react-which-js-framework-choose-for-your-business-3fe3)
 - [Dev.to/JS] [5 Websites To Get Free Icons For Web Development](https://dev.to/shoyeb001/5-websites-to-get-free-icons-for-web-development-nk6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tiny-replace-files](https://dev.to/rabbitzzc/tiny-replace-files-fc3)
 - [Dev.to/JS] [Introduction to a stateful &amp; maintainable React Local Storage hook](https://dev.to/prakash_chokalingam/introduction-to-a-stateful-maintainable-react-local-storage-hook-31ie)
 - [Dev.to/JS] [It&#39;s Prisma Time - Insert](https://dev.to/this-is-learning/its-prisma-time-insert-fc2)
-- [Dev.to/JS] [Create React App. Part 3 of 10: Routing](https://dev.to/101samovar/create-react-app-part-3-of-10-routing-gap)
-- [Dev.to/JS] [groupBy on an array of objects in javascript](https://dev.to/dezforb/groupby-on-an-array-of-objects-in-javascript-3n0)
-- [Dev.to/JS] [How Can You Easily Optimize MQTT Performance?](https://dev.to/push_technology/how-can-you-easily-optimize-mqtt-performance-2pj7)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
