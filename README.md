@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a blog using Next.js and Markdown/MDX](https://dev.to/usedevjet/create-a-blog-using-nextjs-and-markdownmdx-4pem)
+- [Dev.to/JS] [🤬 What’s your opinion on Linters, Testers, and Prettiers?](https://dev.to/williammcgonagle/whats-your-opinion-on-linters-testers-and-prettiers-3f1j)
+- [Dev.to/JS] [#1 - Codewars 100 days challenge](https://dev.to/cesardlr/1-codewars-100-days-challenge-59f8)
+- [Dev.to/JS] [ES2022 Preview: 10 Exciting JavaScript Language Features From 2021](https://dev.to/p42/es2022-preview-10-exciting-javascript-language-features-from-2021-4imc)
+- [Dev.to/JS] [Debouncing in Javascript using a custom function or Lodash library.](https://dev.to/codepapi/debouncing-in-javascript-using-a-custom-function-or-lodash-library-lah)
 - [Dev.to/JS] [Ok, now I&#39;m begging in JavaScript. Pray for me.](https://dev.to/carluchox/ok-now-im-begging-in-javascript-pray-for-me-129o)
 - [Dev.to/JS] [Learning about OOP in JavaScript](https://dev.to/martinandersongraham/learning-about-oop-in-javascript-5gj6)
 - [Dev.to/JS] [1 package to solve all your frontend web3 problems](https://dev.to/musabshakeel/1-package-to-solve-all-your-frontend-web3-problems-15jd)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Factorial Trailing Zeroes](https://dev.to/_alkesh26/leetcode-factorial-trailing-zeroes-1f5a)
 - [Dev.to/JS] [Creating a personal Blog in .NET 6](https://dev.to/zangassis/creating-a-personal-blog-in-net-6-3k1g)
 - [Dev.to/JS] [JS in Kotlin/JS](https://dev.to/mpetuska/js-in-kotlinjs-c4g)
-- [Dev.to/JS] [Moving to React-Router-Dom v6 from v5 or below](https://dev.to/daveson217/moving-to-react-router-dom-v6-from-v5-or-below-22l1)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
-- [Dev.to/JS] [React-Navigation :  Navigate with Stack](https://dev.to/iamrajshekhar/react-navigation-navigate-with-stack-3k5e)
-- [Dev.to/JS] [Advanced typescript for React developers - discriminated unions](https://dev.to/adevnadia/advanced-typescript-for-react-developers-discriminated-unions-28ec)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
-- [Dev.to/JS] [Learn How to Make Colorful Fireworks in JavaScript](https://dev.to/flowforfrank/learn-how-to-make-colorful-fireworks-in-javascript-1j1e)
-- [Dev.to/JS] [Cómo crear un marketplace](https://dev.to/turupawn/como-crear-un-marketplace-5d1p)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
 - [Lifehacker] [Our 13 Most Motivating Fitness Posts of 2021](https://lifehacker.com/our-13-most-motivating-fitness-posts-of-2021-1848180023)
 - [Lifehacker] [Why You Should ‘Resolve’ to Only Make Tiny Self-Care Changes This Year](https://lifehacker.com/why-you-should-resolve-to-only-make-tiny-self-care-ch-1848179783)
