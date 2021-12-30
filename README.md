@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Topic: JS Promise vs Async await](https://dev.to/zahidulislam144/topic-js-promise-vs-async-await-3dp1)
+- [Dev.to/JS] [Next.js latest version – What’s New in Next.JS 12?](https://dev.to/linearloop/nextjs-latest-version-whats-new-in-nextjs-12-4ad4)
+- [Dev.to/JS] [Flow control, short-circuit expressions and functional programming in JavaScript](https://dev.to/daslaf/flow-control-short-circuit-expressions-and-functional-programming-in-javascript-31ln)
+- [Dev.to/JS] [I am a Digital Marketing Head](https://dev.to/belladesk2021/i-am-a-digital-marketing-head-4kk9)
+- [Dev.to/JS] [Basic concepts of JSX and Virtual DOM every React JS developer should know](https://dev.to/sisrafilss/basic-concepts-of-jsx-and-virtual-dom-every-react-js-developer-should-know-cb0)
 - [Dev.to/JS] [My experience in re-writing a simple library 3 times in 2 years](https://dev.to/sametweb/my-experience-in-re-writing-a-simple-library-3-times-in-2-years-3n7k)
 - [Dev.to/JS] [Latest JavaScript News and Updates of 2021](https://dev.to/plazarev/latest-javascript-news-and-updates-of-2021-41ei)
 - [Dev.to/JS] [Reducing nodes in Dom using Fragment - React js](https://dev.to/sam_lukaa/reducing-nodes-in-dom-using-fragment-react-js-49c2)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Public Solving: Checking the sleighs automatically](https://dev.to/dailydevtips1/public-solving-checking-the-sleighs-automatically-3d5j)
 - [Dev.to/JS] [Guess The Die : Javascript Game](https://dev.to/fidalmathew/guess-the-die-javascript-game-3g8j)
 - [Dev.to/JS] [Redux vs. Recoil](https://dev.to/nitsancohen770/redux-vs-recoil-423a)
-- [Dev.to/JS] [Javascript deobfuscation](https://dev.to/rixtrayker/javascript-deobfuscation-3e5n)
-- [Dev.to/JS] [Vaccinater | vaccine notification](https://dev.to/mayukh/vaccinater-vaccine-notification-2lhb)
-- [Dev.to/JS] [BIT Mesra Lead | Learn By Doing](https://dev.to/mayukh/bit-mesra-lead-learn-by-doing-405)
-- [Dev.to/JS] [The material design framework you have all been waiting for](https://dev.to/posandu/the-material-design-framework-you-have-all-been-waiting-for-1f66)
-- [Dev.to/JS] [9 Best Coursera Courses + Projects for Web Developers](https://dev.to/javinpaul/9-best-coursera-courses-projects-for-web-developers-1l62)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
