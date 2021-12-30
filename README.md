@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
+- [Dev.to/JS] [Persisting Pokémon API data in local PostgreSQL | Node.js Tutorial](https://dev.to/coder4_life/persisting-pokemon-api-data-in-local-postgresql-nodejs-tutorial-j81)
+- [Dev.to/JS] [Implement Depth-First Search in a Binary Search Tree with JavaScript](https://dev.to/mattdclarke/implement-depth-first-search-in-a-binary-search-tree-with-javascript-1p96)
+- [Dev.to/JS] [Show and Hide Password Using jQuery](https://dev.to/shantanu_jana/show-and-hide-password-using-jquery-1ajm)
 - [Lifehacker] [Our 13 Most Motivating Fitness Posts of 2021](https://lifehacker.com/our-13-most-motivating-fitness-posts-of-2021-1848180023)
 - [Dev.to/JS] [An In-Depth Look at the React Lifecycle Methods](https://dev.to/shafia/an-in-depth-look-at-the-react-lifecycle-methods-1i20)
 - [Dev.to/JS] [What is your testing approach when working on fast-pace projects?](https://dev.to/chrisczopp/what-is-your-testing-approach-when-working-on-fast-pace-projects-465e)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [15 Free Hosting For Front-end Developers](https://dev.to/haycuoilennao19/15-free-hosting-for-front-end-developers-1286)
 - [Dev.to/JS] [GeoIP NodeJS](https://dev.to/kaixinn/geoip-nodejs-5dmn)
 - [Dev.to/JS] [Leetcode 937. Reorder Data in Log Files](https://dev.to/ahmedsiam72/leetcode-937-reorder-data-in-log-files-1hkg)
-- [Dev.to/JS] [Authme 3.0.0 released!](https://dev.to/levminer/authme-300-released-49a5)
-- [Dev.to/JS] [Ultimate list of JavaScript Learning Resource &lpar;Free&rpar;](https://dev.to/officialkamran/ultimate-list-of-javascript-learning-resource-free-3kef)
-- [Dev.to/JS] [Leetcode 1089 Best Solution](https://dev.to/siambillah/leetcode-1089-best-solution-4fjg)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Charge a Device That Has Just Been in Below Freezing Temps](https://lifehacker.com/never-charge-a-device-that-has-just-been-in-below-freez-1848221259)
 - [Lifehacker] [11 Lessons My Grill Taught Me in 2021](https://lifehacker.com/11-lessons-my-grill-taught-me-in-2021-1848209645)
 - [Lifehacker] [Hand These Home Maintenance Projects Over to Your Kids](https://lifehacker.com/hand-these-home-maintenance-projects-over-to-your-kids-1848243494)
-- [Lifehacker] [10 of the Best Movies We Discovered for the First Time in 2021](https://lifehacker.com/10-of-the-best-movies-we-discovered-for-the-first-time-1848254559)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
