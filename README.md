@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript The Hard Parts-Part 1](https://dev.to/osamamammar/javascript-the-hard-parts-part-1-210a)
+- [Dev.to/JS] [JavaScript String](https://dev.to/simantabarua/javascript-string-3582)
 - [Dev.to/JS] [Getting started with NodeJS](https://dev.to/rekastudios/getting-started-with-nodejs-3g9a)
 - [Dev.to/JS] [Handling form input in React&lpar;including drop-down and checkbox&rpar;](https://dev.to/sam_lukaa/handling-form-input-in-reactincluding-drop-down-and-checkbox-47h8)
 - [Dev.to/JS] [Robotic Process Automation and How Bots Can Make Everything Easier:](https://dev.to/leobdev/robotic-process-automation-and-how-bots-can-make-everything-easier-8i8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buildspace Project: Build a web 3 app … My notes](https://dev.to/kidme/buildspace-project-build-a-web-3-app-my-notes-3le0)
 - [Dev.to/JS] [Topic: JS Array Methods and their differences- forEach vs map vs filter vs find vs reduce vs slice vs splice](https://dev.to/zahidulislam144/topic-js-array-methods-and-their-differences-foreach-vs-map-vs-filter-vs-find-vs-reduce-3k6l)
 - [Dev.to/JS] [Why we used Docker for testing](https://dev.to/nitzanhen/why-we-used-docker-for-testing-p1d)
-- [Dev.to/JS] [8 Ways To Drastically Boost Your Developer Productivity](https://dev.to/robbiecahill/8-ways-to-drastically-boost-your-developer-productivity-1l0b)
-- [Dev.to/JS] [Highlighting: sync-contribution-graph](https://dev.to/mtfoley/highlighting-sync-contribution-graph-6o8)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
