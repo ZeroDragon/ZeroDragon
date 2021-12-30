@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Do Not Know Object Oriented Programming!](https://dev.to/resourcefulmind/i-do-not-know-object-oriented-programming-1bim)
+- [Dev.to/JS] [LeetCode - Factorial Trailing Zeroes](https://dev.to/_alkesh26/leetcode-factorial-trailing-zeroes-1f5a)
 - [Dev.to/JS] [Creating a personal Blog in .NET 6](https://dev.to/zangassis/creating-a-personal-blog-in-net-6-3k1g)
 - [Dev.to/JS] [JS in Kotlin/JS](https://dev.to/mpetuska/js-in-kotlinjs-c4g)
 - [Dev.to/JS] [Moving to React-Router-Dom v6 from v5 or below](https://dev.to/daveson217/moving-to-react-router-dom-v6-from-v5-or-below-22l1)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
 - [Dev.to/JS] [Persisting Pokémon API data in local PostgreSQL | Node.js Tutorial](https://dev.to/coder4_life/persisting-pokemon-api-data-in-local-postgresql-nodejs-tutorial-j81)
 - [Dev.to/JS] [Implement Depth-First Search in a Binary Search Tree with JavaScript](https://dev.to/mattdclarke/implement-depth-first-search-in-a-binary-search-tree-with-javascript-1p96)
-- [Dev.to/JS] [Show and Hide Password Using jQuery](https://dev.to/shantanu_jana/show-and-hide-password-using-jquery-1ajm)
 - [Lifehacker] [Our 13 Most Motivating Fitness Posts of 2021](https://lifehacker.com/our-13-most-motivating-fitness-posts-of-2021-1848180023)
-- [Dev.to/JS] [An In-Depth Look at the React Lifecycle Methods](https://dev.to/shafia/an-in-depth-look-at-the-react-lifecycle-methods-1i20)
 - [Lifehacker] [Why You Should ‘Resolve’ to Only Make Tiny Self-Care Changes This Year](https://lifehacker.com/why-you-should-resolve-to-only-make-tiny-self-care-ch-1848179783)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
