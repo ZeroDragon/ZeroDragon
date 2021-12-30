@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ree Drummond CBD Gummies | {Tested 2021}  Price, Reaction Before Buy!](https://dev.to/drummondgummies/ree-drummond-cbd-gummies-tested-2021-price-reaction-before-buy-ek5)
+- [Dev.to/JS] [How To Event Stream Data From Your Eleventy Site To Google Analytics Using RudderStack](https://dev.to/rudderstack/how-to-event-stream-data-from-your-eleventy-site-to-google-analytics-using-rudderstack-1694)
+- [Dev.to/JS] [Trajectus](https://dev.to/trajectus/trajectus-24l9)
 - [Dev.to/JS] [My Visual studio Theme](https://dev.to/vermaprince123/my-visual-studio-theme-58bg)
 - [Dev.to/JS] [JavaScript The Hard Parts-Part 1](https://dev.to/osamamammar/javascript-the-hard-parts-part-1-210a)
 - [Dev.to/JS] [JavaScript String](https://dev.to/simantabarua/javascript-string-3582)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recreating lodash partition method](https://dev.to/_ab_del_/recreating-lodash-partition-method-3a31)
 - [Dev.to/JS] [🤔 How should I build my Frontend for a huge project?](https://dev.to/williammcgonagle/how-would-you-connect-a-frontend-and-backend-3p30)
 - [Dev.to/JS] [JS Types to Avoid Polyfilling](https://dev.to/cerchie/js-types-to-avoid-polyfilling-2pli)
-- [Dev.to/JS] [Stringify global objects – debugging helpers](https://dev.to/projektorius96/stringify-global-objects-debugging-helpers-1aeo)
-- [Dev.to/JS] [Buildspace Project: Build a web 3 app … My notes](https://dev.to/kidme/buildspace-project-build-a-web-3-app-my-notes-3le0)
-- [Dev.to/JS] [Topic: JS Array Methods and their differences- forEach vs map vs filter vs find vs reduce vs slice vs splice](https://dev.to/zahidulislam144/topic-js-array-methods-and-their-differences-foreach-vs-map-vs-filter-vs-find-vs-reduce-3k6l)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
