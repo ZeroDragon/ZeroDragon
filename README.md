@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with NodeJS](https://dev.to/rekastudios/getting-started-with-nodejs-3g9a)
 - [Dev.to/JS] [Handling form input in React&lpar;including drop-down and checkbox&rpar;](https://dev.to/sam_lukaa/handling-form-input-in-reactincluding-drop-down-and-checkbox-47h8)
 - [Dev.to/JS] [Robotic Process Automation and How Bots Can Make Everything Easier:](https://dev.to/leobdev/robotic-process-automation-and-how-bots-can-make-everything-easier-8i8)
 - [Dev.to/JS] [Recreating lodash partition method](https://dev.to/_ab_del_/recreating-lodash-partition-method-3a31)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why we used Docker for testing](https://dev.to/nitzanhen/why-we-used-docker-for-testing-p1d)
 - [Dev.to/JS] [8 Ways To Drastically Boost Your Developer Productivity](https://dev.to/robbiecahill/8-ways-to-drastically-boost-your-developer-productivity-1l0b)
 - [Dev.to/JS] [Highlighting: sync-contribution-graph](https://dev.to/mtfoley/highlighting-sync-contribution-graph-6o8)
-- [Dev.to/JS] [The Best Collected Details on the GraphQL Specification – Overview &amp; Language](https://dev.to/adron/the-best-collected-details-on-the-graphql-specification-overview-language-3e88)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
