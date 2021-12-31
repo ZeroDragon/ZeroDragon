@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [62 &lpar;Yes, 62&rpar; of Our Favorite iPhone Hacks and Explainers of 2021](https://lifehacker.com/62-yes-62-of-our-favorite-iphone-hacks-and-explainer-1848260080)
+- [Dev.to/JS] [How I center a div](https://dev.to/davidfrempong/how-i-center-a-div-2ijb)
+- [Dev.to/JS] [New year countdown](https://dev.to/vasanths/new-year-countdown-2c0i)
+- [Dev.to/JS] [Design tip from Apple&#39;s Website](https://dev.to/davidfrempong/design-tip-from-apples-website-3524)
+- [Dev.to/JS] [Caesar&#39;s Cipher &lpar;FreeCode Camp Solution&rpar;](https://dev.to/k96white/caesars-cipher-freecode-camp-solution-3a8a)
 - [Lifehacker] [How to Watch New Year&#39;s Eve Celebrations Around the World, If You&#39;re Bored of the Ball Drop](https://lifehacker.com/how-to-watch-new-years-eve-celebrations-around-the-worl-1848288156)
 - [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 31st December 2021](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-31st-december-2021-46c6)
 - [Dev.to/JS] [Get started with ES6 JavaScript for writing Node.js using Express](https://dev.to/geekygeeky/get-started-with-es6-javascript-for-writing-nodejs-using-express-544h)
 - [Dev.to/JS] [Feature Flags with Next.js and GrowthBook](https://dev.to/jdorn/feature-flags-with-nextjs-and-growthbook-4ide)
+- [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #113](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-113-17fg)
 - [Dev.to/JS] [Create an Image modal with JavaScript!](https://dev.to/salehmubashar/create-an-image-modal-with-javascript-2lf3)
 - [Dev.to/JS] [Happy New Year! &lpar;with p5.js&rpar;](https://dev.to/ashwinscode/happy-new-year-2n3c)
 - [Dev.to/JS] [Static vs. Singleton in JavaScript](https://dev.to/projektorius96/static-vs-singleton-in-javascript-4ki9)
 - [Dev.to/JS] [Angular Template form control in separate reusable component](https://dev.to/gaurangdhorda/angular-template-form-control-in-separate-reusable-component-1c9h)
-- [Dev.to/JS] [Be Part Of The Crypto Sphere With A Cryptocurrency Exchange Script](https://dev.to/carar_austin1/be-part-of-the-crypto-sphere-with-a-cryptocurrency-exchange-script-1be8)
-- [Dev.to/JS] [How to Use Observables with Vanilla JavaScript](https://dev.to/ahmedtarekhasan/how-to-use-observables-with-vanilla-javascript-p6l)
-- [Dev.to/JS] [Aggregating Unit Test Coverage for All Monorepo’s Packages](https://dev.to/mbarzeev/aggregating-unit-test-coverage-for-all-monorepos-packages-20c6)
-- [Dev.to/JS] [Create React App. Part 4 of 10: Repository](https://dev.to/101samovar/create-react-app-part-4-of-10-repository-3lfk)
-- [Dev.to/JS] [7 front-end interview processes I did in December 2021](https://dev.to/anabella/7-front-end-interview-processes-i-did-in-december-2021-5484)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why It&#39;s Smart to Be 10 Years Behind in Gaming](https://lifehacker.com/why-its-smart-to-be-10-years-behind-in-gaming-1848226775)
 - [Lifehacker] [16 of the Most Pervasive Fitness Myths We Busted in 2021](https://lifehacker.com/16-of-the-most-pervasive-fitness-myths-we-busted-in-202-1848175977)
 - [Lifehacker] [Avoid These Renovations That Can Hurt Your Home&#39;s Value](https://lifehacker.com/avoid-these-renovations-that-can-hurt-your-homes-value-1848271792)
-- [Lifehacker] [Never Donate These Books to Little Free Libraries &lpar;or Anywhere Else&rpar;](https://lifehacker.com/no-one-wants-that-y2k-survival-guide-and-other-things-1848222017)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
