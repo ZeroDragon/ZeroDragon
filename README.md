@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Be Part Of The Crypto Sphere With A Cryptocurrency Exchange Script](https://dev.to/carar_austin1/be-part-of-the-crypto-sphere-with-a-cryptocurrency-exchange-script-1be8)
+- [Dev.to/JS] [How to Use Observables with Vanilla JavaScript](https://dev.to/ahmedtarekhasan/how-to-use-observables-with-vanilla-javascript-p6l)
+- [Dev.to/JS] [Aggregating Unit Test Coverage for All Monorepo’s Packages](https://dev.to/mbarzeev/aggregating-unit-test-coverage-for-all-monorepos-packages-20c6)
+- [Dev.to/JS] [Create React App. Part 4 of 10: Repository](https://dev.to/101samovar/create-react-app-part-4-of-10-repository-3lfk)
+- [Dev.to/JS] [7 front-end interview processes I did in December 2021](https://dev.to/anabella/7-front-end-interview-processes-i-did-in-december-2021-5484)
 - [Dev.to/JS] [happy new year](https://dev.to/technocraft27/happy-new-year-1ip7)
 - [Dev.to/JS] [How I teach her javascript to a 9 years child](https://dev.to/jaguarjs/how-i-teach-her-javascript-to-a-9-years-child-46id)
 - [Dev.to/JS] [How they made controls at Github?](https://dev.to/kiranmantha/how-they-made-controls-at-github-1h18)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Good Bye console.log,no console.log in 2022](https://dev.to/imshivanshpatel/good-bye-consolelogno-consolelog-in-2022-1foc)
 - [Dev.to/JS] [MERN-How Add rows dynamically and store it it mongodb](https://dev.to/cocodisme/mern-how-add-rows-dynamically-and-store-it-it-mongodb-5f0p)
 - [Dev.to/JS] [HELM Cheatsheet: For Beginners](https://dev.to/aashiya123/helm-cheatsheet-for-beginners-1cb3)
-- [Dev.to/JS] [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
-- [Dev.to/JS] [Build an Equipment Checkout App for the Admin Team at Your Company](https://dev.to/appsmith/build-an-equipment-checkout-app-for-the-admin-team-at-your-company-1mhg)
-- [Dev.to/JS] [Developing a 3D game which runs on your browser](https://dev.to/rishavmz/developing-a-3d-game-which-runs-on-your-browser-1g7i)
-- [Dev.to/JS] [Public Solving: Creating a song with JavaScript](https://dev.to/dailydevtips1/public-solving-creating-a-song-with-javascript-10cb)
-- [Dev.to/JS] [newly started](https://dev.to/nipunsanjula/newly-started-1a4k)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
