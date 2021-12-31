@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scrimba: JavaScriptmas 2021 - Issue 4](https://dev.to/michaellarocca/scrimba-javascriptmas-2021-issue-4-2hmf)
 - [Dev.to/JS] [Image Slider with Vanila JS](https://dev.to/j471n/image-slider-with-vanila-js-22bf)
 - [Dev.to/JS] [Building a Prisma Schema](https://dev.to/sabinthedev/building-a-prisma-schema-61b)
 - [Dev.to/JS] [currentTarget vs. target](https://dev.to/mailauki/currenttarget-vs-target-3427)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Studio Ghibli Watch List](https://dev.to/mailauki/studio-ghibli-watch-list-449p)
 - [Dev.to/JS] [A subtle error I made with constructors](https://dev.to/martinandersongraham/a-subtle-error-i-made-with-constructors-3kc7)
 - [Dev.to/JS] [How we integrate a booking platform in a Shopify store &lpar;not just an Iframe&rpar;](https://dev.to/iliashaddad3/how-we-integrate-a-booking-platform-in-a-shopify-store-not-just-an-iframe-49c8)
-- [Dev.to/JS] [Create a blog using Next.js and Markdown/MDX](https://dev.to/usedevjet/create-a-blog-using-nextjs-and-markdownmdx-4pem)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
