@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
+- [Dev.to/JS] [New Worktree? No problem!](https://dev.to/wh1ter4bb1tjs/new-worktree-no-problem-hg1)
+- [Dev.to/JS] [Why is npx create-react-app name-of-app so slow?](https://dev.to/cristoferk/why-is-npx-create-react-app-name-of-app-so-slow-2g0i)
+- [Dev.to/JS] [Making Weather App using Tailwind CSS using OpenWeatherMap.org in JavaScript](https://dev.to/ashutoshdash/making-weather-app-using-tailwind-css-using-openweathermaporg-in-javascript-4ifj)
+- [Dev.to/JS] [Image Search App in 10 MINUTES Challenge - Unsplash Api and CSS grid](https://dev.to/sebcodestheweb/image-search-app-in-10-minutes-challenge-unsplash-api-and-css-grid-ako)
+- [Dev.to/JS] [My Top 5 Full-stack Frameworks for 2022](https://dev.to/muneebhdeveloper/my-top-5-full-stack-frameworks-for-2022-2i4a)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Dev.to/JS] [🎬How To Create Website With Auto Typing Text Effect Using HTML CSS JavaScript🙌](https://dev.to/robsonmuniz16/how-to-create-website-with-auto-typing-text-effect-using-html-css-javascript-22ng)
 - [Dev.to/JS] [Just recently created my Chrome Extension! Any tips?](https://dev.to/allaboutishaan/just-recently-created-my-chrome-extension-any-tips-55lm)
@@ -34,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [62 &lpar;Yes, 62&rpar; of Our Favorite iPhone Hacks and Explainers of 2021](https://lifehacker.com/62-yes-62-of-our-favorite-iphone-hacks-and-explainer-1848260080)
 - [Dev.to/JS] [How I center a div](https://dev.to/davidfrempong/how-i-center-a-div-2ijb)
 - [Dev.to/JS] [New year countdown](https://dev.to/vasanths/new-year-countdown-2c0i)
-- [Dev.to/JS] [Design tip from Apple&#39;s Website](https://dev.to/davidfrempong/design-tip-from-apples-website-3524)
-- [Dev.to/JS] [Caesar&#39;s Cipher &lpar;FreeCode Camp Solution&rpar;](https://dev.to/k96white/caesars-cipher-freecode-camp-solution-3a8a)
 - [Lifehacker] [How to Watch New Year&#39;s Eve Celebrations Around the World, If You&#39;re Bored of the Ball Drop](https://lifehacker.com/how-to-watch-new-years-eve-celebrations-around-the-worl-1848288156)
-- [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 31st December 2021](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-31st-december-2021-46c6)
-- [Dev.to/JS] [Get started with ES6 JavaScript for writing Node.js using Express](https://dev.to/geekygeeky/get-started-with-es6-javascript-for-writing-nodejs-using-express-544h)
-- [Dev.to/JS] [Feature Flags with Next.js and GrowthBook](https://dev.to/jdorn/feature-flags-with-nextjs-and-growthbook-4ide)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Replace Your New Year&#39;s Journal With a Spreadsheet](https://lifehacker.com/why-you-should-replace-your-new-years-journal-with-a-sp-1848117995)
 - [Lifehacker] [How to Make Stretching Less Boring so You’ll Actually Do It](https://lifehacker.com/how-to-make-stretching-less-boring-so-you-ll-actually-d-1848132760)
 - [Lifehacker] [How to &lpar;Remotely&rpar; Help Your Family Members With Their New Tech](https://lifehacker.com/how-to-remotely-help-your-family-members-with-their-n-1848133025)
-- [Lifehacker] [20 of Our Best Mac Hacks of 2021](https://lifehacker.com/20-of-our-best-mac-hacks-of-2021-1848214870)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
