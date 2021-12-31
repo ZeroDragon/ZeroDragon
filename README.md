@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Watch New Year&#39;s Eve Celebrations Around the World, If You&#39;re Bored of the Ball Drop](https://lifehacker.com/how-to-watch-new-years-eve-celebrations-around-the-worl-1848288156)
 - [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 31st December 2021](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-31st-december-2021-46c6)
 - [Dev.to/JS] [Get started with ES6 JavaScript for writing Node.js using Express](https://dev.to/geekygeeky/get-started-with-es6-javascript-for-writing-nodejs-using-express-544h)
 - [Dev.to/JS] [Feature Flags with Next.js and GrowthBook](https://dev.to/jdorn/feature-flags-with-nextjs-and-growthbook-4ide)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 of the Most Pervasive Fitness Myths We Busted in 2021](https://lifehacker.com/16-of-the-most-pervasive-fitness-myths-we-busted-in-202-1848175977)
 - [Lifehacker] [Avoid These Renovations That Can Hurt Your Home&#39;s Value](https://lifehacker.com/avoid-these-renovations-that-can-hurt-your-homes-value-1848271792)
 - [Lifehacker] [Never Donate These Books to Little Free Libraries &lpar;or Anywhere Else&rpar;](https://lifehacker.com/no-one-wants-that-y2k-survival-guide-and-other-things-1848222017)
-- [Lifehacker] [Never Charge a Device That Has Just Been in Below Freezing Temps](https://lifehacker.com/never-charge-a-device-that-has-just-been-in-below-freez-1848221259)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
