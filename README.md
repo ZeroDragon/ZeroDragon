@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [happy new year](https://dev.to/technocraft27/happy-new-year-1ip7)
+- [Dev.to/JS] [How I teach her javascript to a 9 years child](https://dev.to/jaguarjs/how-i-teach-her-javascript-to-a-9-years-child-46id)
 - [Dev.to/JS] [How they made controls at Github?](https://dev.to/kiranmantha/how-they-made-controls-at-github-1h18)
 - [Dev.to/JS] [Instagram Phising](https://dev.to/kaixinn/instagram-phising-49gk)
 - [Dev.to/JS] [Good Bye console.log,no console.log in 2022](https://dev.to/imshivanshpatel/good-bye-consolelogno-consolelog-in-2022-1foc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Developing a 3D game which runs on your browser](https://dev.to/rishavmz/developing-a-3d-game-which-runs-on-your-browser-1g7i)
 - [Dev.to/JS] [Public Solving: Creating a song with JavaScript](https://dev.to/dailydevtips1/public-solving-creating-a-song-with-javascript-10cb)
 - [Dev.to/JS] [newly started](https://dev.to/nipunsanjula/newly-started-1a4k)
-- [Dev.to/JS] [Scrimba: JavaScriptmas 2021 - Issue 4](https://dev.to/michaellarocca/scrimba-javascriptmas-2021-issue-4-2hmf)
-- [Dev.to/JS] [Image Slider with Vanila JS](https://dev.to/j471n/image-slider-with-vanila-js-22bf)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
