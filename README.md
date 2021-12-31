@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Java? A simple guide for Beginners](https://dev.to/ltcbuzy/what-is-java-a-simple-guide-for-beginners-1lh2)
+- [Dev.to/JS] [build a tic tac toe game | react | tailwind css | next js](https://dev.to/shatud/build-a-tic-tac-toe-game-react-tailwind-css-next-js-hjh)
+- [Dev.to/JS] [Day 1 of Learning React](https://dev.to/developerioweb/day-1-of-learning-react-32o6)
+- [Dev.to/JS] [Implementing SQS Fifo Queue with lambda in AWS Amplify using Cloudformation.](https://dev.to/wahmd/implementing-sqs-fifo-queue-with-lambda-in-aws-amplify-using-cloudformation-32k3)
 - [Dev.to/JS] [Client-side Rendering, Server-side Rendering, and SSG in Plain English](https://dev.to/heymich/client-side-rendering-server-side-rendering-and-ssg-in-plain-english-5h3b)
 - [Dev.to/JS] [PickBetterPack is now open source!](https://dev.to/felladrin/pickbetterpack-is-now-open-source-4cl2)
 - [Dev.to/JS] [Dictionary App using Javascript](https://dev.to/codewith_random/dictionary-app-using-javascript-hd)
@@ -32,13 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why is npx create-react-app name-of-app so slow?](https://dev.to/cristoferk/why-is-npx-create-react-app-name-of-app-so-slow-2g0i)
 - [Dev.to/JS] [Making Weather App using Tailwind CSS using OpenWeatherMap.org in JavaScript](https://dev.to/ashutoshdash/making-weather-app-using-tailwind-css-using-openweathermaporg-in-javascript-4ifj)
 - [Dev.to/JS] [Image Search App in 10 MINUTES Challenge - Unsplash Api and CSS grid](https://dev.to/sebcodestheweb/image-search-app-in-10-minutes-challenge-unsplash-api-and-css-grid-ako)
-- [Dev.to/JS] [My Top 5 Full-stack Frameworks for 2022](https://dev.to/muneebhdeveloper/my-top-5-full-stack-frameworks-for-2022-2i4a)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
-- [Dev.to/JS] [🎬How To Create Website With Auto Typing Text Effect Using HTML CSS JavaScript🙌](https://dev.to/robsonmuniz16/how-to-create-website-with-auto-typing-text-effect-using-html-css-javascript-22ng)
-- [Dev.to/JS] [Just recently created my Chrome Extension! Any tips?](https://dev.to/allaboutishaan/just-recently-created-my-chrome-extension-any-tips-55lm)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
 - [Lifehacker] [How to Clean a Ceiling Fan &lpar;And Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-clean-a-ceiling-fan-and-why-its-important-1848288165)
-- [Dev.to/JS] [Test post](https://dev.to/viji/test-post-4lp4)
 - [Lifehacker] [62 &lpar;Yes, 62&rpar; of Our Favorite iPhone Hacks and Explainers of 2021](https://lifehacker.com/62-yes-62-of-our-favorite-iphone-hacks-and-explainer-1848260080)
 - [Lifehacker] [How to Watch New Year&#39;s Eve Celebrations Around the World, If You&#39;re Bored of the Ball Drop](https://lifehacker.com/how-to-watch-new-years-eve-celebrations-around-the-worl-1848288156)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
