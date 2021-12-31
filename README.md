@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Just recently created my Chrome Extension! Any tips?](https://dev.to/allaboutishaan/just-recently-created-my-chrome-extension-any-tips-55lm)
+- [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
+- [Lifehacker] [How to Clean a Ceiling Fan &lpar;And Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-clean-a-ceiling-fan-and-why-its-important-1848288165)
+- [Dev.to/JS] [Test post](https://dev.to/viji/test-post-4lp4)
+- [Dev.to/JS] [Show and Hide Password Using jQuery](https://dev.to/shantanu_jana/show-and-hide-password-using-jquery-2201)
+- [Dev.to/JS] [How to style console.log&lpar;&rpar;;](https://dev.to/snowbit/how-to-style-consolelog-3g2o)
 - [Lifehacker] [62 &lpar;Yes, 62&rpar; of Our Favorite iPhone Hacks and Explainers of 2021](https://lifehacker.com/62-yes-62-of-our-favorite-iphone-hacks-and-explainer-1848260080)
 - [Dev.to/JS] [How I center a div](https://dev.to/davidfrempong/how-i-center-a-div-2ijb)
 - [Dev.to/JS] [New year countdown](https://dev.to/vasanths/new-year-countdown-2c0i)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get started with ES6 JavaScript for writing Node.js using Express](https://dev.to/geekygeeky/get-started-with-es6-javascript-for-writing-nodejs-using-express-544h)
 - [Dev.to/JS] [Feature Flags with Next.js and GrowthBook](https://dev.to/jdorn/feature-flags-with-nextjs-and-growthbook-4ide)
 - [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #113](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-113-17fg)
-- [Dev.to/JS] [Create an Image modal with JavaScript!](https://dev.to/salehmubashar/create-an-image-modal-with-javascript-2lf3)
-- [Dev.to/JS] [Happy New Year! &lpar;with p5.js&rpar;](https://dev.to/ashwinscode/happy-new-year-2n3c)
-- [Dev.to/JS] [Static vs. Singleton in JavaScript](https://dev.to/projektorius96/static-vs-singleton-in-javascript-4ki9)
-- [Dev.to/JS] [Angular Template form control in separate reusable component](https://dev.to/gaurangdhorda/angular-template-form-control-in-separate-reusable-component-1c9h)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to &lpar;Remotely&rpar; Help Your Family Members With Their New Tech](https://lifehacker.com/how-to-remotely-help-your-family-members-with-their-n-1848133025)
 - [Lifehacker] [20 of Our Best Mac Hacks of 2021](https://lifehacker.com/20-of-our-best-mac-hacks-of-2021-1848214870)
 - [Lifehacker] [Why It&#39;s Smart to Be 10 Years Behind in Gaming](https://lifehacker.com/why-its-smart-to-be-10-years-behind-in-gaming-1848226775)
-- [Lifehacker] [16 of the Most Pervasive Fitness Myths We Busted in 2021](https://lifehacker.com/16-of-the-most-pervasive-fitness-myths-we-busted-in-202-1848175977)
-- [Lifehacker] [Avoid These Renovations That Can Hurt Your Home&#39;s Value](https://lifehacker.com/avoid-these-renovations-that-can-hurt-your-homes-value-1848271792)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
