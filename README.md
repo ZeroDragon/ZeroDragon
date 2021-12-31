@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How they made controls at Github?](https://dev.to/kiranmantha/how-they-made-controls-at-github-1h18)
+- [Dev.to/JS] [Instagram Phising](https://dev.to/kaixinn/instagram-phising-49gk)
+- [Dev.to/JS] [Good Bye console.log,no console.log in 2022](https://dev.to/imshivanshpatel/good-bye-consolelogno-consolelog-in-2022-1foc)
+- [Dev.to/JS] [MERN-How Add rows dynamically and store it it mongodb](https://dev.to/cocodisme/mern-how-add-rows-dynamically-and-store-it-it-mongodb-5f0p)
 - [Dev.to/JS] [HELM Cheatsheet: For Beginners](https://dev.to/aashiya123/helm-cheatsheet-for-beginners-1cb3)
 - [Dev.to/JS] [How I Sync Daily LeetCoding Challenge to Todoist](https://dev.to/jerrynsh/how-i-sync-daily-leetcoding-challenge-to-todoist-4d9a)
 - [Dev.to/JS] [Build an Equipment Checkout App for the Admin Team at Your Company](https://dev.to/appsmith/build-an-equipment-checkout-app-for-the-admin-team-at-your-company-1mhg)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [newly started](https://dev.to/nipunsanjula/newly-started-1a4k)
 - [Dev.to/JS] [Scrimba: JavaScriptmas 2021 - Issue 4](https://dev.to/michaellarocca/scrimba-javascriptmas-2021-issue-4-2hmf)
 - [Dev.to/JS] [Image Slider with Vanila JS](https://dev.to/j471n/image-slider-with-vanila-js-22bf)
-- [Dev.to/JS] [Building a Prisma Schema](https://dev.to/sabinthedev/building-a-prisma-schema-61b)
-- [Dev.to/JS] [currentTarget vs. target](https://dev.to/mailauki/currenttarget-vs-target-3427)
-- [Dev.to/JS] [Build Authentication with NextJS and NextAuth v4](https://dev.to/przpiw/build-authentication-with-react-and-nextauth-v4-2edc)
-- [Dev.to/JS] [teste](https://dev.to/leomoraes32/teste-2ba4)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
