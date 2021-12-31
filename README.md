@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
+- [Dev.to/JS] [🎬How To Create Website With Auto Typing Text Effect Using HTML CSS JavaScript🙌](https://dev.to/robsonmuniz16/how-to-create-website-with-auto-typing-text-effect-using-html-css-javascript-22ng)
 - [Dev.to/JS] [Just recently created my Chrome Extension! Any tips?](https://dev.to/allaboutishaan/just-recently-created-my-chrome-extension-any-tips-55lm)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
 - [Lifehacker] [How to Clean a Ceiling Fan &lpar;And Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-clean-a-ceiling-fan-and-why-its-important-1848288165)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 31st December 2021](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-31st-december-2021-46c6)
 - [Dev.to/JS] [Get started with ES6 JavaScript for writing Node.js using Express](https://dev.to/geekygeeky/get-started-with-es6-javascript-for-writing-nodejs-using-express-544h)
 - [Dev.to/JS] [Feature Flags with Next.js and GrowthBook](https://dev.to/jdorn/feature-flags-with-nextjs-and-growthbook-4ide)
-- [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #113](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-113-17fg)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Stretching Less Boring so You’ll Actually Do It](https://lifehacker.com/how-to-make-stretching-less-boring-so-you-ll-actually-d-1848132760)
 - [Lifehacker] [How to &lpar;Remotely&rpar; Help Your Family Members With Their New Tech](https://lifehacker.com/how-to-remotely-help-your-family-members-with-their-n-1848133025)
 - [Lifehacker] [20 of Our Best Mac Hacks of 2021](https://lifehacker.com/20-of-our-best-mac-hacks-of-2021-1848214870)
-- [Lifehacker] [Why It&#39;s Smart to Be 10 Years Behind in Gaming](https://lifehacker.com/why-its-smart-to-be-10-years-behind-in-gaming-1848226775)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
