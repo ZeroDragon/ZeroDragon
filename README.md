@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [i just coded and commited a little something..](https://dev.to/valbuena/i-just-coded-and-commited-a-little-something-30j1)
 - [Dev.to/JS] [What is Java? A simple guide for Beginners](https://dev.to/ltcbuzy/what-is-java-a-simple-guide-for-beginners-1lh2)
 - [Dev.to/JS] [build a tic tac toe game | react | tailwind css | next js](https://dev.to/shatud/build-a-tic-tac-toe-game-react-tailwind-css-next-js-hjh)
 - [Dev.to/JS] [Day 1 of Learning React](https://dev.to/developerioweb/day-1-of-learning-react-32o6)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Worktree? No problem!](https://dev.to/wh1ter4bb1tjs/new-worktree-no-problem-hg1)
 - [Dev.to/JS] [Why is npx create-react-app name-of-app so slow?](https://dev.to/cristoferk/why-is-npx-create-react-app-name-of-app-so-slow-2g0i)
 - [Dev.to/JS] [Making Weather App using Tailwind CSS using OpenWeatherMap.org in JavaScript](https://dev.to/ashutoshdash/making-weather-app-using-tailwind-css-using-openweathermaporg-in-javascript-4ifj)
-- [Dev.to/JS] [Image Search App in 10 MINUTES Challenge - Unsplash Api and CSS grid](https://dev.to/sebcodestheweb/image-search-app-in-10-minutes-challenge-unsplash-api-and-css-grid-ako)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
 - [Lifehacker] [How to Clean a Ceiling Fan &lpar;And Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-clean-a-ceiling-fan-and-why-its-important-1848288165)
