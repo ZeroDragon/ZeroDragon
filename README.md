@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Template form control in separate reusable component](https://dev.to/gaurangdhorda/angular-template-form-control-in-separate-reusable-component-1c9h)
 - [Dev.to/JS] [Be Part Of The Crypto Sphere With A Cryptocurrency Exchange Script](https://dev.to/carar_austin1/be-part-of-the-crypto-sphere-with-a-cryptocurrency-exchange-script-1be8)
 - [Dev.to/JS] [How to Use Observables with Vanilla JavaScript](https://dev.to/ahmedtarekhasan/how-to-use-observables-with-vanilla-javascript-p6l)
 - [Dev.to/JS] [Aggregating Unit Test Coverage for All Monorepo’s Packages](https://dev.to/mbarzeev/aggregating-unit-test-coverage-for-all-monorepos-packages-20c6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Instagram Phising](https://dev.to/kaixinn/instagram-phising-49gk)
 - [Dev.to/JS] [Good Bye console.log,no console.log in 2022](https://dev.to/imshivanshpatel/good-bye-consolelogno-consolelog-in-2022-1foc)
 - [Dev.to/JS] [MERN-How Add rows dynamically and store it it mongodb](https://dev.to/cocodisme/mern-how-add-rows-dynamically-and-store-it-it-mongodb-5f0p)
-- [Dev.to/JS] [HELM Cheatsheet: For Beginners](https://dev.to/aashiya123/helm-cheatsheet-for-beginners-1cb3)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
