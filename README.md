@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beautiful Functions: Compose](https://dev.to/jethrolarson/beautiful-functions-compose-4ce3)
 - [Dev.to/JS] [Getting started with gatsby cloud](https://dev.to/kumarkalyan/getting-started-with-gatsby-cloud-119b)
 - [Dev.to/JS] [Need a React project with complete description](https://dev.to/praff_bhardwaj/need-a-react-project-with-complete-description-3fij)
 - [Dev.to/JS] [Studio Ghibli Watch List](https://dev.to/mailauki/studio-ghibli-watch-list-449p)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ES2022 Preview: 10 Exciting JavaScript Language Features From 2021](https://dev.to/p42/es2022-preview-10-exciting-javascript-language-features-from-2021-4imc)
 - [Dev.to/JS] [Debouncing in Javascript using a custom function or Lodash library.](https://dev.to/codepapi/debouncing-in-javascript-using-a-custom-function-or-lodash-library-lah)
 - [Dev.to/JS] [Ok, now I&#39;m begging in JavaScript. Pray for me.](https://dev.to/carluchox/ok-now-im-begging-in-javascript-pray-for-me-129o)
-- [Dev.to/JS] [Learning about OOP in JavaScript](https://dev.to/martinandersongraham/learning-about-oop-in-javascript-5gj6)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
