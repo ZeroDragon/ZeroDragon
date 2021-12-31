@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Client-side Rendering, Server-side Rendering, and SSG in Plain English](https://dev.to/heymich/client-side-rendering-server-side-rendering-and-ssg-in-plain-english-5h3b)
+- [Dev.to/JS] [PickBetterPack is now open source!](https://dev.to/felladrin/pickbetterpack-is-now-open-source-4cl2)
+- [Dev.to/JS] [Dictionary App using Javascript](https://dev.to/codewith_random/dictionary-app-using-javascript-hd)
+- [Dev.to/JS] [My YouTube Journey as a Web Developer. Will I quit YouTube in 2022?](https://dev.to/chaoocharles/my-tough-youtube-journey-as-a-web-developer-will-i-quit-youtube-in-2022-2el0)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Dev.to/JS] [New Worktree? No problem!](https://dev.to/wh1ter4bb1tjs/new-worktree-no-problem-hg1)
 - [Dev.to/JS] [Why is npx create-react-app name-of-app so slow?](https://dev.to/cristoferk/why-is-npx-create-react-app-name-of-app-so-slow-2g0i)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
 - [Lifehacker] [How to Clean a Ceiling Fan &lpar;And Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-clean-a-ceiling-fan-and-why-its-important-1848288165)
 - [Dev.to/JS] [Test post](https://dev.to/viji/test-post-4lp4)
-- [Dev.to/JS] [Show and Hide Password Using jQuery](https://dev.to/shantanu_jana/show-and-hide-password-using-jquery-2201)
-- [Dev.to/JS] [How to style console.log&lpar;&rpar;;](https://dev.to/snowbit/how-to-style-consolelog-3g2o)
 - [Lifehacker] [62 &lpar;Yes, 62&rpar; of Our Favorite iPhone Hacks and Explainers of 2021](https://lifehacker.com/62-yes-62-of-our-favorite-iphone-hacks-and-explainer-1848260080)
-- [Dev.to/JS] [How I center a div](https://dev.to/davidfrempong/how-i-center-a-div-2ijb)
-- [Dev.to/JS] [New year countdown](https://dev.to/vasanths/new-year-countdown-2c0i)
 - [Lifehacker] [How to Watch New Year&#39;s Eve Celebrations Around the World, If You&#39;re Bored of the Ball Drop](https://lifehacker.com/how-to-watch-new-years-eve-celebrations-around-the-worl-1848288156)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
