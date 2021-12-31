@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create an Image modal with JavaScript!](https://dev.to/salehmubashar/create-an-image-modal-with-javascript-2lf3)
+- [Dev.to/JS] [Happy New Year! &lpar;with p5.js&rpar;](https://dev.to/ashwinscode/happy-new-year-2n3c)
+- [Dev.to/JS] [Static vs. Singleton in JavaScript](https://dev.to/projektorius96/static-vs-singleton-in-javascript-4ki9)
 - [Dev.to/JS] [Angular Template form control in separate reusable component](https://dev.to/gaurangdhorda/angular-template-form-control-in-separate-reusable-component-1c9h)
 - [Dev.to/JS] [Be Part Of The Crypto Sphere With A Cryptocurrency Exchange Script](https://dev.to/carar_austin1/be-part-of-the-crypto-sphere-with-a-cryptocurrency-exchange-script-1be8)
 - [Dev.to/JS] [How to Use Observables with Vanilla JavaScript](https://dev.to/ahmedtarekhasan/how-to-use-observables-with-vanilla-javascript-p6l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [happy new year](https://dev.to/technocraft27/happy-new-year-1ip7)
 - [Dev.to/JS] [How I teach her javascript to a 9 years child](https://dev.to/jaguarjs/how-i-teach-her-javascript-to-a-9-years-child-46id)
 - [Dev.to/JS] [How they made controls at Github?](https://dev.to/kiranmantha/how-they-made-controls-at-github-1h18)
-- [Dev.to/JS] [Instagram Phising](https://dev.to/kaixinn/instagram-phising-49gk)
-- [Dev.to/JS] [Good Bye console.log,no console.log in 2022](https://dev.to/imshivanshpatel/good-bye-consolelogno-consolelog-in-2022-1foc)
-- [Dev.to/JS] [MERN-How Add rows dynamically and store it it mongodb](https://dev.to/cocodisme/mern-how-add-rows-dynamically-and-store-it-it-mongodb-5f0p)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
