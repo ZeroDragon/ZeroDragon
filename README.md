@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Call Stack](https://dev.to/ejjraifihamza/javascript-call-stack-4e1c)
 - [Dev.to/JS] [🤪 How should I build a duplicate detection system?](https://dev.to/williammcgonagle/how-should-i-build-a-duplicate-detection-system-22le)
 - [Dev.to/JS] [An Intro to Recursion](https://dev.to/zachinjapan/an-intro-to-recursion-1k0)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Dev.to/JS] [Node.js fulfill abstraction example.](https://dev.to/abhishekdhapare9392/nodejs-fulfill-abstraction-example-4176)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
-- [Dev.to/JS] [Hacking together a web-scraping enrollment app](https://dev.to/nandanv2702/hacking-together-a-web-scraping-enrollment-app-3eb6)
 - [Lifehacker] [How to Keep an Outdoor Faucet or Spigot From Freezing](https://lifehacker.com/how-to-keep-an-outdoor-faucet-or-spigot-from-freezing-1848289562)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
