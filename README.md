@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Js roadmap - 2022](https://dev.to/sam_lukaa/react-js-roadmap-2022-4p96)
+- [Dev.to/JS] [What am I posting?](https://dev.to/cesar__dlr/what-am-i-posting-i38)
+- [Dev.to/JS] [Variabels Declaration || ES6](https://dev.to/syafiq1331/variabels-declaration-es6-4efb)
+- [Dev.to/JS] [#2 - Hamming Distance CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/2-hamming-distance-codewars-kata-6-kyu-18gl)
 - [Dev.to/JS] [Lessons Learned from Advent of Code &lpar;in JavaScript and Haskell&rpar;](https://dev.to/sethcalebweeks/lessons-learned-from-aoc-2021-2b3b)
 - [Dev.to/JS] [React Local State and Redux State &lpar;Without Hooks&rpar;](https://dev.to/chdev/react-local-state-and-redux-state-without-hooks-25f2)
 - [Dev.to/JS] [Classes Under the Hood](https://dev.to/pitypec/classes-under-the-hood-5go7)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Java? A simple guide for Beginners](https://dev.to/ltcbuzy/what-is-java-a-simple-guide-for-beginners-1lh2)
 - [Dev.to/JS] [build a tic tac toe game | react | tailwind css | next js](https://dev.to/shatud/build-a-tic-tac-toe-game-react-tailwind-css-next-js-hjh)
 - [Dev.to/JS] [Day 1 of Learning React](https://dev.to/developerioweb/day-1-of-learning-react-32o6)
-- [Dev.to/JS] [Implementing SQS Fifo Queue with lambda in AWS Amplify using Cloudformation.](https://dev.to/wahmd/implementing-sqs-fifo-queue-with-lambda-in-aws-amplify-using-cloudformation-32k3)
-- [Dev.to/JS] [Client-side Rendering, Server-side Rendering, and SSG in Plain English](https://dev.to/heymich/client-side-rendering-server-side-rendering-and-ssg-in-plain-english-5h3b)
-- [Dev.to/JS] [PickBetterPack is now open source!](https://dev.to/felladrin/pickbetterpack-is-now-open-source-4cl2)
-- [Dev.to/JS] [Dictionary App using Javascript](https://dev.to/codewith_random/dictionary-app-using-javascript-hd)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
