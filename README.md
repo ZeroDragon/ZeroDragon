@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How many of you like JavaScript and TypeScript?](https://dev.to/jusmanak09/how-many-of-you-like-javascript-and-typescript-knn)
+- [Dev.to/JS] [Create Image slider using Js and CSS](https://dev.to/anomaly3108/create-image-slider-using-js-and-css-48l3)
+- [Dev.to/JS] [Upload multiple images and rename them using drag &amp; drop UI using dropzone.js](https://dev.to/sahilkashyap64/upload-multiple-images-and-rename-them-using-drag-drop-ui-using-dropzonejs-3e0j)
+- [Dev.to/JS] [Is Angular still relevant in 2022?](https://dev.to/tomaszs2/is-angular-still-relevant-in-2022-3efg)
 - [Dev.to/JS] [In JavaScript Console Other Than Console.log&lpar;&rpar;](https://dev.to/officialkamran/in-javascript-console-other-than-consolelog-5222)
 - [Dev.to/JS] [Day 67 of 100 Days of Code &amp; Scrum: Back From Holiday Break!](https://dev.to/rammina/day-67-of-100-days-of-code-scrum-back-from-holiday-break-5hh4)
 - [Dev.to/JS] [Set Up Tailwind Css With create-react-app and yarn](https://dev.to/ashirbadgudu/set-up-tailwind-css-with-create-react-app-and-yarn-pio)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Accountability makes you stay on top of your goals](https://dev.to/achuthhadnoor/accountability-makes-you-stay-on-top-of-your-goals-2anb)
 - [Dev.to/JS] [Best 5 Udemy Coding Bootcamps In 2022](https://dev.to/devdevshow50/best-5-udemy-coding-bootcamps-in-2022-3a9j)
 - [Dev.to/JS] [Socket.io Use as Real Time Application like Chatting Gamming in React ,Or Any Application in Express](https://dev.to/deepakjaiswal/socketio-use-as-real-time-application-like-chatting-gamming-in-react-or-any-application-in-express-3720)
-- [Dev.to/JS] [React Native App using Realm Database](https://dev.to/shyammanek/react-native-app-using-realm-database-36d4)
-- [Dev.to/JS] [Why are some frameworks so popular?](https://dev.to/shubhampatilsd/why-are-some-frameworks-so-popular-3g58)
-- [Dev.to/JS] [Top 5 Programming Languages in 2022 You Should Learn](https://dev.to/virendebro/top-5-programming-languages-in-2022-you-should-learn-14kp)
-- [Dev.to/JS] [5 Best Data Structure and Algorithms Courses for JavaScript Developers](https://dev.to/javinpaul/5-best-data-structure-and-algorithms-courses-for-javascript-developers-2hbd)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
