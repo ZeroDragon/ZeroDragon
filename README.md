@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My javascript / tech / web development newsletter for 2022-01-01 is out!](https://dev.to/mjgs/my-javascript-tech-web-development-newsletter-for-2022-01-01-is-out-4gl5)
+- [Dev.to/JS] [You&#39;ve Gotta Check Out SnowPack...](https://dev.to/lucidmach/youve-gotta-check-out-snowpack-15a3)
+- [Dev.to/JS] [Accountability makes you stay on top of your goals](https://dev.to/achuthhadnoor/accountability-makes-you-stay-on-top-of-your-goals-2anb)
+- [Dev.to/JS] [Best 5 Udemy Coding Bootcamps In 2022](https://dev.to/devdevshow50/best-5-udemy-coding-bootcamps-in-2022-3a9j)
 - [Dev.to/JS] [Socket.io Use as Real Time Application like Chatting Gamming in React ,Or Any Application in Express](https://dev.to/deepakjaiswal/socketio-use-as-real-time-application-like-chatting-gamming-in-react-or-any-application-in-express-3720)
 - [Dev.to/JS] [React Native App using Realm Database](https://dev.to/shyammanek/react-native-app-using-realm-database-36d4)
 - [Dev.to/JS] [Why are some frameworks so popular?](https://dev.to/shubhampatilsd/why-are-some-frameworks-so-popular-3g58)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CSS tips on Images you need to know](https://dev.to/fidalmathew/css-tips-on-images-you-need-to-know-33b1)
 - [Dev.to/JS] [5 Coding Tips to follow in 2022](https://dev.to/thenomadevel/5-tips-to-follow-in-2022-23nj)
 - [Dev.to/JS] [React Js roadmap - 2022](https://dev.to/sam_lukaa/react-js-roadmap-2022-4p96)
-- [Dev.to/JS] [What am I posting?](https://dev.to/cesar__dlr/what-am-i-posting-i38)
-- [Dev.to/JS] [Variabels Declaration || ES6](https://dev.to/syafiq1331/variabels-declaration-es6-4efb)
-- [Dev.to/JS] [#2 - Hamming Distance CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/2-hamming-distance-codewars-kata-6-kyu-18gl)
-- [Dev.to/JS] [Lessons Learned from Advent of Code &lpar;in JavaScript and Haskell&rpar;](https://dev.to/sethcalebweeks/lessons-learned-from-aoc-2021-2b3b)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
