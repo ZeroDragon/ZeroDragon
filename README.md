@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep an Outdoor Faucet or Spigot From Freezing](https://lifehacker.com/how-to-keep-an-outdoor-faucet-or-spigot-from-freezing-1848289562)
+- [Dev.to/JS] [How to make a robust form validation in react with material ui fields.](https://dev.to/omardiaa48/how-to-make-a-robust-form-validation-in-react-with-material-ui-fields-1kb0)
+- [Dev.to/JS] [People disable javascript in their browser? 😱  Give &#39;em something to cry about!](https://dev.to/ironcladdev/people-disable-javascript-in-their-browser-give-em-something-to-cry-about-4mif)
 - [Dev.to/JS] [Create React App - Mind Map. Part 5 of 10: Home](https://dev.to/101samovar/create-react-app-mind-map-part-5-of-10-home-1dhn)
 - [Dev.to/JS] [Getting started with Unit testing in React Native](https://dev.to/binitgurzu/getting-started-with-unit-testing-in-react-native-3c7l)
 - [Dev.to/JS] [Add some effects to text using JavaScript](https://dev.to/mohamedfrindi/add-some-effects-to-text-using-javascript-1nk5)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is Angular still relevant in 2022?](https://dev.to/tomaszs2/is-angular-still-relevant-in-2022-3efg)
 - [Dev.to/JS] [In JavaScript Console Other Than Console.log&lpar;&rpar;](https://dev.to/officialkamran/in-javascript-console-other-than-consolelog-5222)
 - [Dev.to/JS] [Day 67 of 100 Days of Code &amp; Scrum: Back From Holiday Break!](https://dev.to/rammina/day-67-of-100-days-of-code-scrum-back-from-holiday-break-5hh4)
-- [Dev.to/JS] [Set Up Tailwind Css With create-react-app and yarn](https://dev.to/ashirbadgudu/set-up-tailwind-css-with-create-react-app-and-yarn-pio)
-- [Dev.to/JS] [My javascript / tech / web development newsletter for 2022-01-01 is out!](https://dev.to/mjgs/my-javascript-tech-web-development-newsletter-for-2022-01-01-is-out-4gl5)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [19 of the Most Confusing Things We Explained to You in 2021](https://lifehacker.com/19-of-the-most-confusing-things-we-explained-to-you-in-1848260303)
 - [Lifehacker] [Why You Should Replace Your New Year&#39;s Journal With a Spreadsheet](https://lifehacker.com/why-you-should-replace-your-new-years-journal-with-a-sp-1848117995)
 - [Lifehacker] [How to Make Stretching Less Boring so You’ll Actually Do It](https://lifehacker.com/how-to-make-stretching-less-boring-so-you-ll-actually-d-1848132760)
-- [Lifehacker] [How to &lpar;Remotely&rpar; Help Your Family Members With Their New Tech](https://lifehacker.com/how-to-remotely-help-your-family-members-with-their-n-1848133025)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
 - [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
 - [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
