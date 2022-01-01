@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Curtains and Drapes, And Why it Matters](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
+- [Dev.to/JS] [Node.js fulfill abstraction example.](https://dev.to/abhishekdhapare9392/nodejs-fulfill-abstraction-example-4176)
+- [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
+- [Dev.to/JS] [Hacking together a web-scraping enrollment app](https://dev.to/nandanv2702/hacking-together-a-web-scraping-enrollment-app-3eb6)
+- [Dev.to/JS] [What is new in React Router V6?](https://dev.to/sahinur/what-is-new-in-react-router-v6-1ofl)
+- [Dev.to/JS] [Semantic HTML in React with zero new ideas](https://dev.to/merri/semantic-html-in-react-with-zero-new-ideas-2gh9)
 - [Dev.to/JS] [My First React Frontend Project using Sass!](https://dev.to/harshitg14/my-first-react-frontend-project-using-sass-3ieg)
 - [Dev.to/JS] [The Full-Stack Developer Vocabulary&lpar;The Full List!&rpar;](https://dev.to/code_jedi/the-full-stack-developer-vocabularythe-full-list-4n5d)
 - [Dev.to/JS] [My 2022 Goals](https://dev.to/cyberfred/my-2022-goals-4i0c)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get DOM element text value in cypress](https://dev.to/amirsohel007/how-to-get-dom-element-text-value-in-cypress-30gn)
 - [Dev.to/JS] [Build Chrome Extension in 15 Minutes](https://dev.to/rohankiratsata/build-chrome-extension-in-15-minutes-4bgd)
 - [Lifehacker] [How to Keep an Outdoor Faucet or Spigot From Freezing](https://lifehacker.com/how-to-keep-an-outdoor-faucet-or-spigot-from-freezing-1848289562)
-- [Dev.to/JS] [How to make a robust form validation in react with material ui fields.](https://dev.to/omardiaa48/how-to-make-a-robust-form-validation-in-react-with-material-ui-fields-1kb0)
-- [Dev.to/JS] [People disable javascript in their browser? 😱  Give &#39;em something to cry about!](https://dev.to/ironcladdev/people-disable-javascript-in-their-browser-give-em-something-to-cry-about-4mif)
-- [Dev.to/JS] [Create React App - Mind Map. Part 5 of 10: Home](https://dev.to/101samovar/create-react-app-mind-map-part-5-of-10-home-1dhn)
-- [Dev.to/JS] [Getting started with Unit testing in React Native](https://dev.to/binitgurzu/getting-started-with-unit-testing-in-react-native-3c7l)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
@@ -59,10 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Make These Doomed &#39;Health&#39; Resolutions &lpar;and What to Strive for Instead&rpar;](https://lifehacker.com/dont-make-these-doomed-health-resolutions-and-what-to-1848216356)
 - [Lifehacker] [19 of the Most Confusing Things We Explained to You in 2021](https://lifehacker.com/19-of-the-most-confusing-things-we-explained-to-you-in-1848260303)
 - [Lifehacker] [Why You Should Replace Your New Year&#39;s Journal With a Spreadsheet](https://lifehacker.com/why-you-should-replace-your-new-years-journal-with-a-sp-1848117995)
-- [Lifehacker] [How to Make Stretching Less Boring so You’ll Actually Do It](https://lifehacker.com/how-to-make-stretching-less-boring-so-you-ll-actually-d-1848132760)
-- [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)
-- [Crazy Programmer] [9 Best Games for Programmers to Improve Programming Skills](https://www.thecrazyprogrammer.com/2021/12/games-for-programmers.html)
-- [Crazy Programmer] [Different Types of Attributes in DBMS](https://www.thecrazyprogrammer.com/2021/12/types-of-attributes-in-dbms.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
+- [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
 ---
 
