@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Event Loop](https://dev.to/ejjraifihamza/javascript-event-loop-3kd4)
+- [Dev.to/JS] [2021 pnpm recap](https://dev.to/pnpm/2021-pnpm-recap-43a3)
+- [Dev.to/JS] [JavaScript prototype demystified once and forever](https://dev.to/projektorius96/javascript-prototype-demystified-once-and-forever-44lo)
 - [Dev.to/JS] [JavaScript Call Stack](https://dev.to/ejjraifihamza/javascript-call-stack-4e1c)
 - [Dev.to/JS] [🤪 How should I build a duplicate detection system?](https://dev.to/williammcgonagle/how-should-i-build-a-duplicate-detection-system-22le)
 - [Dev.to/JS] [An Intro to Recursion](https://dev.to/zachinjapan/an-intro-to-recursion-1k0)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to JSX | Day 2](https://dev.to/developerioweb/introduction-to-jsx-day-2-58kc)
 - [Dev.to/JS] [What is the difference between 2 callbacks?](https://dev.to/zohidjon/what-is-the-difference-between-2-callbacks-3k2f)
 - [Dev.to/JS] [A beginners guide to AWS Amplify Studio](https://dev.to/aws-builders/a-beginners-guide-to-aws-amplify-studio-391)
-- [Dev.to/JS] [How to Create Bank Landing Page HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-create-bank-landing-page-html-css-javascript-44n5)
-- [Dev.to/JS] [Navigation Bar using CSS and JavaScript](https://dev.to/kiranrajvjd/some-navigation-bar-using-css-and-javascript-5049)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
-- [Dev.to/JS] [Node.js fulfill abstraction example.](https://dev.to/abhishekdhapare9392/nodejs-fulfill-abstraction-example-4176)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
 - [Lifehacker] [How to Keep an Outdoor Faucet or Spigot From Freezing](https://lifehacker.com/how-to-keep-an-outdoor-faucet-or-spigot-from-freezing-1848289562)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
