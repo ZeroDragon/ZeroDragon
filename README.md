@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Give some advice](https://dev.to/zohidjon/give-some-advice-43f0)
+- [Dev.to/JS] [Introduction to JSX | Day 2](https://dev.to/developerioweb/introduction-to-jsx-day-2-58kc)
+- [Dev.to/JS] [What is the difference between 2 callbacks?](https://dev.to/zohidjon/what-is-the-difference-between-2-callbacks-3k2f)
+- [Dev.to/JS] [A beginners guide to AWS Amplify Studio](https://dev.to/aws-builders/a-beginners-guide-to-aws-amplify-studio-391)
+- [Dev.to/JS] [How to Create Bank Landing Page HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-create-bank-landing-page-html-css-javascript-44n5)
+- [Dev.to/JS] [Navigation Bar using CSS and JavaScript](https://dev.to/kiranrajvjd/some-navigation-bar-using-css-and-javascript-5049)
 - [Lifehacker] [The Difference Between Curtains and Drapes, And Why it Matters](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Dev.to/JS] [Node.js fulfill abstraction example.](https://dev.to/abhishekdhapare9392/nodejs-fulfill-abstraction-example-4176)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
@@ -31,12 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Semantic HTML in React with zero new ideas](https://dev.to/merri/semantic-html-in-react-with-zero-new-ideas-2gh9)
 - [Dev.to/JS] [My First React Frontend Project using Sass!](https://dev.to/harshitg14/my-first-react-frontend-project-using-sass-3ieg)
 - [Dev.to/JS] [The Full-Stack Developer Vocabulary&lpar;The Full List!&rpar;](https://dev.to/code_jedi/the-full-stack-developer-vocabularythe-full-list-4n5d)
-- [Dev.to/JS] [My 2022 Goals](https://dev.to/cyberfred/my-2022-goals-4i0c)
-- [Dev.to/JS] [JavaScript current year with getFullYear&lpar;&rpar;](https://dev.to/nickfrosty/javascript-current-year-with-getfullyear-h1c)
-- [Dev.to/JS] [Nulls and null checks - How to work safely with nulls in any codebase](https://dev.to/sargalias/nulls-and-null-checks-how-to-work-safely-with-nulls-in-any-codebase-1oeh)
-- [Dev.to/JS] [Demystifying working of a JavaScript program!](https://dev.to/shrushti23/demystifying-working-of-a-javascript-program-9og)
-- [Dev.to/JS] [How to get DOM element text value in cypress](https://dev.to/amirsohel007/how-to-get-dom-element-text-value-in-cypress-30gn)
-- [Dev.to/JS] [Build Chrome Extension in 15 Minutes](https://dev.to/rohankiratsata/build-chrome-extension-in-15-minutes-4bgd)
 - [Lifehacker] [How to Keep an Outdoor Faucet or Spigot From Freezing](https://lifehacker.com/how-to-keep-an-outdoor-faucet-or-spigot-from-freezing-1848289562)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
