@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Socket.io Use as Real Time Application like Chatting Gamming in React ,Or Any Application in Express](https://dev.to/deepakjaiswal/socketio-use-as-real-time-application-like-chatting-gamming-in-react-or-any-application-in-express-3720)
+- [Dev.to/JS] [React Native App using Realm Database](https://dev.to/shyammanek/react-native-app-using-realm-database-36d4)
 - [Dev.to/JS] [Why are some frameworks so popular?](https://dev.to/shubhampatilsd/why-are-some-frameworks-so-popular-3g58)
 - [Dev.to/JS] [Top 5 Programming Languages in 2022 You Should Learn](https://dev.to/virendebro/top-5-programming-languages-in-2022-you-should-learn-14kp)
 - [Dev.to/JS] [5 Best Data Structure and Algorithms Courses for JavaScript Developers](https://dev.to/javinpaul/5-best-data-structure-and-algorithms-courses-for-javascript-developers-2hbd)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variabels Declaration || ES6](https://dev.to/syafiq1331/variabels-declaration-es6-4efb)
 - [Dev.to/JS] [#2 - Hamming Distance CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/2-hamming-distance-codewars-kata-6-kyu-18gl)
 - [Dev.to/JS] [Lessons Learned from Advent of Code &lpar;in JavaScript and Haskell&rpar;](https://dev.to/sethcalebweeks/lessons-learned-from-aoc-2021-2b3b)
-- [Dev.to/JS] [React Local State and Redux State &lpar;Without Hooks&rpar;](https://dev.to/chdev/react-local-state-and-redux-state-without-hooks-25f2)
-- [Dev.to/JS] [Classes Under the Hood](https://dev.to/pitypec/classes-under-the-hood-5go7)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
