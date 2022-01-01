@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [In JavaScript Console Other Than Console.log&lpar;&rpar;](https://dev.to/officialkamran/in-javascript-console-other-than-consolelog-5222)
+- [Dev.to/JS] [Day 67 of 100 Days of Code &amp; Scrum: Back From Holiday Break!](https://dev.to/rammina/day-67-of-100-days-of-code-scrum-back-from-holiday-break-5hh4)
+- [Dev.to/JS] [Set Up Tailwind Css With create-react-app and yarn](https://dev.to/ashirbadgudu/set-up-tailwind-css-with-create-react-app-and-yarn-pio)
 - [Dev.to/JS] [My javascript / tech / web development newsletter for 2022-01-01 is out!](https://dev.to/mjgs/my-javascript-tech-web-development-newsletter-for-2022-01-01-is-out-4gl5)
 - [Dev.to/JS] [You&#39;ve Gotta Check Out SnowPack...](https://dev.to/lucidmach/youve-gotta-check-out-snowpack-15a3)
 - [Dev.to/JS] [Accountability makes you stay on top of your goals](https://dev.to/achuthhadnoor/accountability-makes-you-stay-on-top-of-your-goals-2anb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why are some frameworks so popular?](https://dev.to/shubhampatilsd/why-are-some-frameworks-so-popular-3g58)
 - [Dev.to/JS] [Top 5 Programming Languages in 2022 You Should Learn](https://dev.to/virendebro/top-5-programming-languages-in-2022-you-should-learn-14kp)
 - [Dev.to/JS] [5 Best Data Structure and Algorithms Courses for JavaScript Developers](https://dev.to/javinpaul/5-best-data-structure-and-algorithms-courses-for-javascript-developers-2hbd)
-- [Dev.to/JS] [CSS tips on Images you need to know](https://dev.to/fidalmathew/css-tips-on-images-you-need-to-know-33b1)
-- [Dev.to/JS] [5 Coding Tips to follow in 2022](https://dev.to/thenomadevel/5-tips-to-follow-in-2022-23nj)
-- [Dev.to/JS] [React Js roadmap - 2022](https://dev.to/sam_lukaa/react-js-roadmap-2022-4p96)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
