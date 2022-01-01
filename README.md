@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [5 Tips to follow in 2022](https://dev.to/thenomadevel/5-tips-to-follow-in-2022-23nj)
+- [Dev.to/JS] [CSS tips on Images you need to know](https://dev.to/fidalmathew/css-tips-on-images-you-need-to-know-33b1)
+- [Dev.to/JS] [5 Coding Tips to follow in 2022](https://dev.to/thenomadevel/5-tips-to-follow-in-2022-23nj)
 - [Dev.to/JS] [React Js roadmap - 2022](https://dev.to/sam_lukaa/react-js-roadmap-2022-4p96)
 - [Dev.to/JS] [What am I posting?](https://dev.to/cesar__dlr/what-am-i-posting-i38)
 - [Dev.to/JS] [Variabels Declaration || ES6](https://dev.to/syafiq1331/variabels-declaration-es6-4efb)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make a Nuxt.Js application SEO friendly](https://dev.to/davidemaye/how-to-make-a-nuxtjs-application-seo-friendly-132a)
 - [Dev.to/JS] [i coded a fancy cursor component with vue 3](https://dev.to/valbuena/i-just-coded-and-commited-a-little-something-30j1)
 - [Dev.to/JS] [What is Java? A simple guide for Beginners](https://dev.to/ltcbuzy/what-is-java-a-simple-guide-for-beginners-1lh2)
-- [Dev.to/JS] [build a tic tac toe game | react | tailwind css | next js](https://dev.to/shatud/build-a-tic-tac-toe-game-react-tailwind-css-next-js-hjh)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
