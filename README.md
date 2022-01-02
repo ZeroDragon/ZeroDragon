@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best way &lpar;one liner&rpar; to sort an array by string alphabetically](https://dev.to/shivamjjha/best-way-one-liner-to-sort-an-array-by-string-alphabetically-568g)
+- [Dev.to/JS] [Day 68 of 100 Days of Code &amp; Scrum: Back to Being Productive](https://dev.to/rammina/day-68-of-100-days-of-code-scrum-back-to-being-productive-3g3g)
 - [Dev.to/JS] [GraphQL API Requests with Typescript, React Query&amp; GraphQL Code Generator](https://dev.to/annysah/graphql-api-requests-with-typescript-react-query-graphql-code-generator-16fa)
 - [Dev.to/JS] [Drag and drop SVG elements](https://dev.to/101samovar/drag-and-drop-svg-elements-3oif)
 - [Dev.to/JS] [React Native - Beautiful Horoscope App](https://dev.to/wenlong12345/react-native-beautiful-horoscope-app-341n)
-- [Dev.to/JS] [¿Serán estas las 5 principales tendencias del desarrollo de software 2021?](https://dev.to/leifermendez/seran-estas-las-5-principales-tendencias-del-desarrollo-de-software-2021-369)
+- [Dev.to/JS] [¿Serán estas las 5 principales tendencias del desarrollo de software 2022?](https://dev.to/leifermendez/seran-estas-las-5-principales-tendencias-del-desarrollo-de-software-2021-369)
 - [Dev.to/JS] [ReactJS](https://dev.to/lizardkinglk/reactjs-2ghl)
 - [Dev.to/JS] [Do you really know TypeScript? &lpar;3&rpar;: Types and interfaces](https://dev.to/alexmenor/do-you-really-know-typescript-3-types-and-interfaces-13k3)
 - [Dev.to/JS] [Create React App - Mind Map. Part 6 of 10: Map](https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-map-mhp)
 - [Dev.to/JS] [pnpm - The Best Package Manager](https://dev.to/nitsancohen770/pnpm-the-best-package-manager-57fj)
 - [Dev.to/JS] [Hi my new post](https://dev.to/ridhoanshory/hi-my-new-post-51g0)
 - [Dev.to/JS] [沒有處方箋必利勁哪裡買？正品必利勁哪裡買？](https://dev.to/liii/mei-you-chu-fang-jian-bi-li-jing-na-li-mai-zheng-pin-bi-li-jing-na-li-mai--15je)
-- [Dev.to/JS] [How to create a portfolio using HTML](https://dev.to/posandu/how-to-create-a-portfolio-using-html-3425)
-- [Dev.to/JS] [Udemy Syllabus Scraper Released](https://dev.to/effylh/udemy-syllabus-scraper-released-5f4d)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
