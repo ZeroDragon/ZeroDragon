@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dictionary App using  Javascript](https://dev.to/codewith_random/dictionary-app-using-javascript-4dcc)
+- [Dev.to/JS] [The Simple Guide to Seo For Your Application](https://dev.to/sachinchaurasiya/the-simple-guide-to-seo-for-your-application-39lg)
+- [Dev.to/JS] [Props and More | Day 3](https://dev.to/developerioweb/props-and-more-day-3-4897)
+- [Dev.to/JS] [LeetCode - House Robber](https://dev.to/_alkesh26/leetcode-house-robber-53em)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Dev.to/JS] [Solved: Module not found: Error: Can&#39;t resolve &#39;sass-loader&#39;](https://dev.to/cyebukayire/solved-module-not-found-error-cant-resolve-sass-loader-50l7)
 - [Dev.to/JS] [Weekly Digest 52/2021](https://dev.to/marcobiedermann/weekly-digest-522021-5hdf)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React and Redux: Part 1](https://dev.to/rthefounding/react-and-redux-part-1-2lo7)
 - [Dev.to/JS] [Paracetamol.js #1: ¿Cuales son los presentes tipos de datos de JavaScript?](https://dev.to/duxtech/paracetamoljs-1-cuales-son-los-presentes-tipos-de-datos-de-javascript-5eo7)
 - [Dev.to/JS] [IT Company SECURE FTP HOSTING SERVICE](https://dev.to/akkhan/it-company-secure-ftp-hosting-service-44ia)
-- [Dev.to/JS] [KeyboardAvoidingView: controle a posição do teclado no React-Native](https://dev.to/tsugami/keyboardavoidingview-controle-a-posicao-do-teclado-no-react-native-14e6)
-- [Dev.to/JS] [How to upload multiple images with preview using Laravel and Vue](https://dev.to/simodev/how-to-upload-multiple-images-with-preview-using-laravel-and-vue-282j)
-- [Dev.to/JS] [How to add and remove class in html elements using JS.](https://dev.to/shubhamtiwari909/how-to-add-and-remove-class-in-html-elements-using-js-3p6i)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
-- [Dev.to/JS] [Best way &lpar;one liner&rpar; to sort an array by string alphabetically](https://dev.to/shivamjjha/best-way-one-liner-to-sort-an-array-by-string-alphabetically-568g)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
