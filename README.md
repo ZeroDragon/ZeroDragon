@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [After 1 YEAR of hard work my NEW Ultimate Web Desktop Environment is ready for launch!!!!! 🎉🎉](https://dev.to/dustinbrett/after-1-year-of-hard-work-my-new-ultimate-web-desktop-environment-is-ready-for-launch-2dnd)
+- [Dev.to/JS] [dfasdfasfsafsadf](https://dev.to/numanhussainweb/dfasdfasfsafsadf-44eh)
+- [Dev.to/JS] [Desestruturação para variáveis já existentes](https://dev.to/ebdonato/desestruturacao-para-variaveis-ja-existentes-28je)
+- [Dev.to/JS] [Fetching GitHub repository Traffic data using API v3](https://dev.to/ashutosh1919/fetching-github-repository-traffic-data-using-api-v3-c57)
+- [Dev.to/JS] [Contents for 2022](https://dev.to/kevin_odongo35/contents-for-2022-2cib)
+- [Dev.to/JS] [Use an object instead of a switch](https://dev.to/guigacodes/use-an-object-instead-of-a-switch-1e55)
 - [Dev.to/JS] [Dictionary App using  Javascript](https://dev.to/codewith_random/dictionary-app-using-javascript-4dcc)
 - [Dev.to/JS] [The Simple Guide to Seo For Your Application](https://dev.to/sachinchaurasiya/the-simple-guide-to-seo-for-your-application-39lg)
 - [Dev.to/JS] [Props and More | Day 3](https://dev.to/developerioweb/props-and-more-day-3-4897)
@@ -30,13 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Dev.to/JS] [Solved: Module not found: Error: Can&#39;t resolve &#39;sass-loader&#39;](https://dev.to/cyebukayire/solved-module-not-found-error-cant-resolve-sass-loader-50l7)
 - [Dev.to/JS] [Weekly Digest 52/2021](https://dev.to/marcobiedermann/weekly-digest-522021-5hdf)
-- [Dev.to/JS] [My journey to becoming a frontend software developer - The Plan](https://dev.to/catevee/my-journey-to-becoming-a-frontend-software-developer-the-plan-1619)
-- [Dev.to/JS] [Dealing with asynchronous data in Javascript : Episode 0](https://dev.to/swasdev4511/dealing-with-asynchronous-data-in-javascript-episode-01-500a)
-- [Dev.to/JS] [Javascript Hoisting](https://dev.to/nate_sfteng/javascript-hoisting-5192)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
-- [Dev.to/JS] [React and Redux: Part 1](https://dev.to/rthefounding/react-and-redux-part-1-2lo7)
-- [Dev.to/JS] [Paracetamol.js #1: ¿Cuales son los presentes tipos de datos de JavaScript?](https://dev.to/duxtech/paracetamoljs-1-cuales-son-los-presentes-tipos-de-datos-de-javascript-5eo7)
-- [Dev.to/JS] [IT Company SECURE FTP HOSTING SERVICE](https://dev.to/akkhan/it-company-secure-ftp-hosting-service-44ia)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
@@ -47,6 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
 - [Lifehacker] [How to Clean a Ceiling Fan &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-clean-a-ceiling-fan-and-why-its-important-1848288165)
 - [Lifehacker] [62 &lpar;Yes, 62&rpar; of Our Favorite iPhone Hacks and Explainers of 2021](https://lifehacker.com/62-yes-62-of-our-favorite-iphone-hacks-and-explainer-1848260080)
+- [Lifehacker] [10 of the Best Ways We hacked Each Others&#39; Lives in 2021](https://lifehacker.com/10-of-the-best-ways-we-hacked-each-others-lives-in-2021-1848264584)
 - [Lifehacker] [How to Watch New Year&#39;s Eve Celebrations Around the World, If You&#39;re Bored of the Ball Drop](https://lifehacker.com/how-to-watch-new-years-eve-celebrations-around-the-worl-1848288156)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
 - [Lifehacker] [40 of Our Best Android Hacks of 2021](https://lifehacker.com/40-of-our-best-android-hacks-of-2021-1848246417)
-- [Lifehacker] [12 of Our Best Vegetarian Hacks of 2021](https://lifehacker.com/12-of-our-best-vegetarian-hacks-of-2021-1848234925)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
