@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Hoisting](https://dev.to/nate_sfteng/javascript-hoisting-5192)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Dev.to/JS] [React and Redux: Part 1](https://dev.to/rthefounding/react-and-redux-part-1-2lo7)
 - [Dev.to/JS] [Paracetamol.js #1: ¿Cuales son los presentes tipos de datos de JavaScript?](https://dev.to/duxtech/paracetamoljs-1-cuales-son-los-presentes-tipos-de-datos-de-javascript-5eo7)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GraphQL API Requests with Typescript, React Query&amp; GraphQL Code Generator](https://dev.to/annysah/graphql-api-requests-with-typescript-react-query-graphql-code-generator-16fa)
 - [Dev.to/JS] [Drag and drop SVG elements](https://dev.to/101samovar/drag-and-drop-svg-elements-3oif)
 - [Dev.to/JS] [React Native - Beautiful Horoscope App](https://dev.to/wenlong12345/react-native-beautiful-horoscope-app-341n)
-- [Dev.to/JS] [¿Serán estas las 5 principales tendencias del desarrollo de software 2022?](https://dev.to/leifermendez/seran-estas-las-5-principales-tendencias-del-desarrollo-de-software-2021-369)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
