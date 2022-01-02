@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
 - [Dev.to/JS] [Best way &lpar;one liner&rpar; to sort an array by string alphabetically](https://dev.to/shivamjjha/best-way-one-liner-to-sort-an-array-by-string-alphabetically-568g)
 - [Dev.to/JS] [Day 68 of 100 Days of Code &amp; Scrum: Back to Being Productive](https://dev.to/rammina/day-68-of-100-days-of-code-scrum-back-to-being-productive-3g3g)
 - [Dev.to/JS] [GraphQL API Requests with Typescript, React Query&amp; GraphQL Code Generator](https://dev.to/annysah/graphql-api-requests-with-typescript-react-query-graphql-code-generator-16fa)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of Our Best Vegetarian Hacks of 2021](https://lifehacker.com/12-of-our-best-vegetarian-hacks-of-2021-1848234925)
 - [Lifehacker] [You Can Make Ultra-Impressive Party Food Without Spending a Fortune](https://lifehacker.com/you-can-make-ultra-impressive-party-food-without-spendi-1848250408)
 - [Lifehacker] [Don&#39;t Make These Doomed &#39;Health&#39; Resolutions &lpar;and What to Strive for Instead&rpar;](https://lifehacker.com/dont-make-these-doomed-health-resolutions-and-what-to-1848216356)
-- [Lifehacker] [19 of the Most Confusing Things We Explained to You in 2021](https://lifehacker.com/19-of-the-most-confusing-things-we-explained-to-you-in-1848260303)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
