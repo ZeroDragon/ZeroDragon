@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Most Popular Backend Framework for 2022](https://dev.to/virendebro/top-5-most-popular-backend-framework-for-2022-4g6e)
+- [Dev.to/JS] [No way did Github Copilot just Rickroll me!](https://dev.to/virejdasani/no-way-did-github-copilot-just-rickroll-me-4g02)
+- [Dev.to/JS] [Implementing tables using reactjs](https://dev.to/marcosrjjunior/implementing-tables-using-reactjs-3d73)
+- [Dev.to/JS] [Implementing a theme switcher using javascript](https://dev.to/marcosrjjunior/implementing-a-theme-switcher-using-javascript-347d)
+- [Dev.to/JS] [Public Solving: Caesar decipher in JavaScript](https://dev.to/dailydevtips1/public-solving-caesar-decipher-in-javascript-4n7i)
 - [Dev.to/JS] [5 Awesome Libraries To Use In Your Next ReactJs Project](https://dev.to/sachinchaurasiya/5-awesome-libraries-to-use-in-your-next-reactjs-project-3p31)
 - [Dev.to/JS] [Resources to Kickstart Your Newsletter](https://dev.to/surajondev/resources-to-kickstart-your-newsletter-30kk)
 - [Dev.to/JS] [Making forms easier with react-hook-form](https://dev.to/ayaz/making-forms-easier-with-react-hook-form-o49)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [¿Qué es MGPanel?](https://dev.to/eloymanuelch/que-es-mgpanel-3e0d)
 - [Dev.to/JS] [Web-Security for Developers: Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/ceblakely/web-security-for-developers-cross-site-scripting-xss-1hh9)
 - [Dev.to/JS] [Useful JavaScript Code Snippets](https://dev.to/kiranrajvjd/useful-javascript-code-snippets-4lki)
-- [Dev.to/JS] [Start Using JavaScript to Automate Excel](https://dev.to/eaallen/start-using-javascript-to-automate-excel-3om5)
-- [Dev.to/JS] [i coded and published a fancy cursor component](https://dev.to/valbuena/i-coded-and-published-a-fancy-cursor-component-3i62)
-- [Dev.to/JS] [How to get a start in a software developer job, how to learn and what to know.](https://dev.to/ngamsomset/how-to-get-a-start-in-a-software-developer-job-how-to-learn-and-what-to-know-23mh)
-- [Dev.to/JS] [Building the fastest object and array differ](https://dev.to/asyncbanana/building-the-fastest-object-and-array-differ-2l6f)
-- [Dev.to/JS] [State of the Web: WebAssembly](https://dev.to/asyncbanana/state-of-the-web-webassembly-m1j)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
