@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Heroicons blade component using javascript](https://dev.to/tajidyakub/heroicons-blade-component-using-javascript-488p)
+- [Dev.to/JS] [this is fine!](https://dev.to/danpadilla/this-is-fine-4e88)
+- [Dev.to/JS] [Setup React and Webpack manually](https://dev.to/danko_simunovic/setup-react-and-webpack-manually-hpc)
+- [Dev.to/JS] [Streaming data from AWS S3 using NodeJS Stream API and Typescript](https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0)
 - [Dev.to/JS] [After 1 YEAR of hard work my NEW Ultimate Web Desktop Environment is ready for launch!!!!! 🎉🎉](https://dev.to/dustinbrett/after-1-year-of-hard-work-my-new-ultimate-web-desktop-environment-is-ready-for-launch-2dnd)
 - [Dev.to/JS] [dfasdfasfsafsadf](https://dev.to/numanhussainweb/dfasdfasfsafsadf-44eh)
 - [Dev.to/JS] [Desestruturação para variáveis já existentes](https://dev.to/ebdonato/desestruturacao-para-variaveis-ja-existentes-28je)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use an object instead of a switch](https://dev.to/guigacodes/use-an-object-instead-of-a-switch-1e55)
 - [Dev.to/JS] [Dictionary App using  Javascript](https://dev.to/codewith_random/dictionary-app-using-javascript-4dcc)
 - [Dev.to/JS] [The Simple Guide to Seo For Your Application](https://dev.to/sachinchaurasiya/the-simple-guide-to-seo-for-your-application-39lg)
-- [Dev.to/JS] [Props and More | Day 3](https://dev.to/developerioweb/props-and-more-day-3-4897)
-- [Dev.to/JS] [LeetCode - House Robber](https://dev.to/_alkesh26/leetcode-house-robber-53em)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
-- [Dev.to/JS] [Solved: Module not found: Error: Can&#39;t resolve &#39;sass-loader&#39;](https://dev.to/cyebukayire/solved-module-not-found-error-cant-resolve-sass-loader-50l7)
-- [Dev.to/JS] [Weekly Digest 52/2021](https://dev.to/marcobiedermann/weekly-digest-522021-5hdf)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
