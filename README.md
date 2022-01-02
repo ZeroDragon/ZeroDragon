@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [沒有處方箋必利勁哪裡買？正品必利勁哪裡買？](https://dev.to/liii/mei-you-chu-fang-jian-bi-li-jing-na-li-mai-zheng-pin-bi-li-jing-na-li-mai--15je)
+- [Dev.to/JS] [How to create a portfolio using HTML](https://dev.to/posandu/how-to-create-a-portfolio-using-html-3425)
+- [Dev.to/JS] [Udemy Syllabus Scraper Released](https://dev.to/effylh/udemy-syllabus-scraper-released-5f4d)
+- [Dev.to/JS] [Media Tuner Browser Extension](https://dev.to/rabist/media-tuner-browser-extension-379j)
 - [Dev.to/JS] [3 Full Stack Web Development Project Ideas For Final Year Project &amp; Resume](https://dev.to/shoyeb001/3-full-stack-web-development-project-ideas-for-final-year-project-resume-2e4p)
 - [Dev.to/JS] [Generic list of dev features required to bootstrap a great frontend project](https://dev.to/itzsrikanth/generic-list-of-dev-features-required-to-bootstrap-a-great-frontend-project-12op)
 - [Dev.to/JS] [How to handle in forms in Svelte?](https://dev.to/akuks/how-to-handle-in-forms-in-svelte-4078)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Project 90 of 100 - React Native Starter](https://dev.to/jwhubert91/project-90-of-100-react-native-starter-19g0)
 - [Dev.to/JS] [Top 5 Most Popular Backend Framework for 2022](https://dev.to/virendebro/top-5-most-popular-backend-framework-for-2022-4g6e)
 - [Dev.to/JS] [No way did Github Copilot just Rickroll me!](https://dev.to/virejdasani/no-way-did-github-copilot-just-rickroll-me-4g02)
-- [Dev.to/JS] [Implementing tables using reactjs](https://dev.to/marcosrjjunior/implementing-tables-using-reactjs-3d73)
-- [Dev.to/JS] [Implementing a theme switcher using javascript](https://dev.to/marcosrjjunior/implementing-a-theme-switcher-using-javascript-347d)
-- [Dev.to/JS] [Public Solving: Caesar decipher in JavaScript](https://dev.to/dailydevtips1/public-solving-caesar-decipher-in-javascript-4n7i)
-- [Dev.to/JS] [5 Awesome Libraries To Use In Your Next ReactJs Project](https://dev.to/sachinchaurasiya/5-awesome-libraries-to-use-in-your-next-reactjs-project-3p31)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
