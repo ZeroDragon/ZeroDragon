@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Generic list of dev features required to bootstrap a great frontend project](https://dev.to/itzsrikanth/generic-list-of-dev-features-required-to-bootstrap-a-great-frontend-project-12op)
+- [Dev.to/JS] [How to handle in forms in Svelte?](https://dev.to/akuks/how-to-handle-in-forms-in-svelte-4078)
+- [Dev.to/JS] [Build a NextJS Blog with MDX and Tailwind.](https://dev.to/shaan_alam/build-a-nextjs-blog-with-mdx-and-tailwind-1il1)
 - [Dev.to/JS] [Login Without Email and Password | JavaScript](https://dev.to/rajeshj3/login-without-email-and-password-javascript-38le)
 - [Dev.to/JS] [Project 90 of 100 - React Native Starter](https://dev.to/jwhubert91/project-90-of-100-react-native-starter-19g0)
 - [Dev.to/JS] [Top 5 Most Popular Backend Framework for 2022](https://dev.to/virendebro/top-5-most-popular-backend-framework-for-2022-4g6e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Public Solving: Caesar decipher in JavaScript](https://dev.to/dailydevtips1/public-solving-caesar-decipher-in-javascript-4n7i)
 - [Dev.to/JS] [5 Awesome Libraries To Use In Your Next ReactJs Project](https://dev.to/sachinchaurasiya/5-awesome-libraries-to-use-in-your-next-reactjs-project-3p31)
 - [Dev.to/JS] [Resources to Kickstart Your Newsletter](https://dev.to/surajondev/resources-to-kickstart-your-newsletter-30kk)
-- [Dev.to/JS] [Making forms easier with react-hook-form](https://dev.to/ayaz/making-forms-easier-with-react-hook-form-o49)
-- [Dev.to/JS] [😋🙂🙈 Beware of Emoji in JS! 😈](https://dev.to/mistval/beware-of-emoji-in-js-144o)
-- [Dev.to/JS] [¿Qué es MGPanel?](https://dev.to/eloymanuelch/que-es-mgpanel-3e0d)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
