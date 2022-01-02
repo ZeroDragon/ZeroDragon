@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [KeyboardAvoidingView: controle a posição do teclado no React-Native](https://dev.to/tsugami/keyboardavoidingview-controle-a-posicao-do-teclado-no-react-native-14e6)
+- [Dev.to/JS] [How to upload multiple images with preview using Laravel and Vue?](https://dev.to/simodev/how-to-upload-multiple-images-with-preview-using-laravel-and-vue-282j)
+- [Dev.to/JS] [How to add and remove class in html elements using JS.](https://dev.to/shubhamtiwari909/how-to-add-and-remove-class-in-html-elements-using-js-3p6i)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
 - [Dev.to/JS] [Best way &lpar;one liner&rpar; to sort an array by string alphabetically](https://dev.to/shivamjjha/best-way-one-liner-to-sort-an-array-by-string-alphabetically-568g)
 - [Dev.to/JS] [Day 68 of 100 Days of Code &amp; Scrum: Back to Being Productive](https://dev.to/rammina/day-68-of-100-days-of-code-scrum-back-to-being-productive-3g3g)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ReactJS](https://dev.to/lizardkinglk/reactjs-2ghl)
 - [Dev.to/JS] [Do you really know TypeScript? &lpar;3&rpar;: Types and interfaces](https://dev.to/alexmenor/do-you-really-know-typescript-3-types-and-interfaces-13k3)
 - [Dev.to/JS] [Create React App - Mind Map. Part 6 of 10: Map](https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-map-mhp)
-- [Dev.to/JS] [pnpm - The Best Package Manager](https://dev.to/nitsancohen770/pnpm-the-best-package-manager-57fj)
-- [Dev.to/JS] [Hi my new post](https://dev.to/ridhoanshory/hi-my-new-post-51g0)
-- [Dev.to/JS] [沒有處方箋必利勁哪裡買？正品必利勁哪裡買？](https://dev.to/liii/mei-you-chu-fang-jian-bi-li-jing-na-li-mai-zheng-pin-bi-li-jing-na-li-mai--15je)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
