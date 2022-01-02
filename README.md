@@ -23,20 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
+- [Dev.to/JS] [Solved: Module not found: Error: Can&#39;t resolve &#39;sass-loader&#39;](https://dev.to/cyebukayire/solved-module-not-found-error-cant-resolve-sass-loader-50l7)
+- [Dev.to/JS] [Weekly Digest 52/2021](https://dev.to/marcobiedermann/weekly-digest-522021-5hdf)
+- [Dev.to/JS] [My journey to becoming a frontend software developer - The Plan](https://dev.to/catevee/my-journey-to-becoming-a-frontend-software-developer-the-plan-1619)
+- [Dev.to/JS] [Dealing with asynchronous data in Javascript : Episode 0](https://dev.to/swasdev4511/dealing-with-asynchronous-data-in-javascript-episode-01-500a)
 - [Dev.to/JS] [Javascript Hoisting](https://dev.to/nate_sfteng/javascript-hoisting-5192)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Dev.to/JS] [React and Redux: Part 1](https://dev.to/rthefounding/react-and-redux-part-1-2lo7)
 - [Dev.to/JS] [Paracetamol.js #1: ¿Cuales son los presentes tipos de datos de JavaScript?](https://dev.to/duxtech/paracetamoljs-1-cuales-son-los-presentes-tipos-de-datos-de-javascript-5eo7)
 - [Dev.to/JS] [IT Company SECURE FTP HOSTING SERVICE](https://dev.to/akkhan/it-company-secure-ftp-hosting-service-44ia)
 - [Dev.to/JS] [KeyboardAvoidingView: controle a posição do teclado no React-Native](https://dev.to/tsugami/keyboardavoidingview-controle-a-posicao-do-teclado-no-react-native-14e6)
-- [Dev.to/JS] [How to upload multiple images with preview using Laravel and Vue?](https://dev.to/simodev/how-to-upload-multiple-images-with-preview-using-laravel-and-vue-282j)
+- [Dev.to/JS] [How to upload multiple images with preview using Laravel and Vue](https://dev.to/simodev/how-to-upload-multiple-images-with-preview-using-laravel-and-vue-282j)
 - [Dev.to/JS] [How to add and remove class in html elements using JS.](https://dev.to/shubhamtiwari909/how-to-add-and-remove-class-in-html-elements-using-js-3p6i)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
 - [Dev.to/JS] [Best way &lpar;one liner&rpar; to sort an array by string alphabetically](https://dev.to/shivamjjha/best-way-one-liner-to-sort-an-array-by-string-alphabetically-568g)
-- [Dev.to/JS] [Day 68 of 100 Days of Code &amp; Scrum: Back to Being Productive](https://dev.to/rammina/day-68-of-100-days-of-code-scrum-back-to-being-productive-3g3g)
-- [Dev.to/JS] [GraphQL API Requests with Typescript, React Query&amp; GraphQL Code Generator](https://dev.to/annysah/graphql-api-requests-with-typescript-react-query-graphql-code-generator-16fa)
-- [Dev.to/JS] [Drag and drop SVG elements](https://dev.to/101samovar/drag-and-drop-svg-elements-3oif)
-- [Dev.to/JS] [React Native - Beautiful Horoscope App](https://dev.to/wenlong12345/react-native-beautiful-horoscope-app-341n)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
 - [Lifehacker] [40 of Our Best Android Hacks of 2021](https://lifehacker.com/40-of-our-best-android-hacks-of-2021-1848246417)
 - [Lifehacker] [12 of Our Best Vegetarian Hacks of 2021](https://lifehacker.com/12-of-our-best-vegetarian-hacks-of-2021-1848234925)
-- [Lifehacker] [You Can Make Ultra-Impressive Party Food Without Spending a Fortune](https://lifehacker.com/you-can-make-ultra-impressive-party-food-without-spendi-1848250408)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
