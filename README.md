@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
+- [Dev.to/JS] [React and Redux: Part 1](https://dev.to/rthefounding/react-and-redux-part-1-2lo7)
+- [Dev.to/JS] [Paracetamol.js #1: ¿Cuales son los presentes tipos de datos de JavaScript?](https://dev.to/duxtech/paracetamoljs-1-cuales-son-los-presentes-tipos-de-datos-de-javascript-5eo7)
+- [Dev.to/JS] [IT Company SECURE FTP HOSTING SERVICE](https://dev.to/akkhan/it-company-secure-ftp-hosting-service-44ia)
 - [Dev.to/JS] [KeyboardAvoidingView: controle a posição do teclado no React-Native](https://dev.to/tsugami/keyboardavoidingview-controle-a-posicao-do-teclado-no-react-native-14e6)
 - [Dev.to/JS] [How to upload multiple images with preview using Laravel and Vue?](https://dev.to/simodev/how-to-upload-multiple-images-with-preview-using-laravel-and-vue-282j)
 - [Dev.to/JS] [How to add and remove class in html elements using JS.](https://dev.to/shubhamtiwari909/how-to-add-and-remove-class-in-html-elements-using-js-3p6i)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drag and drop SVG elements](https://dev.to/101samovar/drag-and-drop-svg-elements-3oif)
 - [Dev.to/JS] [React Native - Beautiful Horoscope App](https://dev.to/wenlong12345/react-native-beautiful-horoscope-app-341n)
 - [Dev.to/JS] [¿Serán estas las 5 principales tendencias del desarrollo de software 2022?](https://dev.to/leifermendez/seran-estas-las-5-principales-tendencias-del-desarrollo-de-software-2021-369)
-- [Dev.to/JS] [ReactJS](https://dev.to/lizardkinglk/reactjs-2ghl)
-- [Dev.to/JS] [Do you really know TypeScript? &lpar;3&rpar;: Types and interfaces](https://dev.to/alexmenor/do-you-really-know-typescript-3-types-and-interfaces-13k3)
-- [Dev.to/JS] [Create React App - Mind Map. Part 6 of 10: Map](https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-map-mhp)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [40 of Our Best Android Hacks of 2021](https://lifehacker.com/40-of-our-best-android-hacks-of-2021-1848246417)
 - [Lifehacker] [12 of Our Best Vegetarian Hacks of 2021](https://lifehacker.com/12-of-our-best-vegetarian-hacks-of-2021-1848234925)
 - [Lifehacker] [You Can Make Ultra-Impressive Party Food Without Spending a Fortune](https://lifehacker.com/you-can-make-ultra-impressive-party-food-without-spendi-1848250408)
-- [Lifehacker] [Don&#39;t Make These Doomed &#39;Health&#39; Resolutions &lpar;and What to Strive for Instead&rpar;](https://lifehacker.com/dont-make-these-doomed-health-resolutions-and-what-to-1848216356)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
