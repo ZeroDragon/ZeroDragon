@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Serán estas las 5 principales tendencias del desarrollo de software 2021?](https://dev.to/leifermendez/seran-estas-las-5-principales-tendencias-del-desarrollo-de-software-2021-369)
+- [Dev.to/JS] [ReactJS](https://dev.to/lizardkinglk/reactjs-2ghl)
+- [Dev.to/JS] [Do you really know TypeScript? &lpar;3&rpar;: Types and interfaces](https://dev.to/alexmenor/do-you-really-know-typescript-3-types-and-interfaces-13k3)
+- [Dev.to/JS] [Create React App - Mind Map. Part 6 of 10: Map](https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-map-mhp)
 - [Dev.to/JS] [pnpm - The Best Package Manager](https://dev.to/nitsancohen770/pnpm-the-best-package-manager-57fj)
 - [Dev.to/JS] [Hi my new post](https://dev.to/ridhoanshory/hi-my-new-post-51g0)
 - [Dev.to/JS] [沒有處方箋必利勁哪裡買？正品必利勁哪裡買？](https://dev.to/liii/mei-you-chu-fang-jian-bi-li-jing-na-li-mai-zheng-pin-bi-li-jing-na-li-mai--15je)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Media Tuner Browser Extension](https://dev.to/rabist/media-tuner-browser-extension-379j)
 - [Dev.to/JS] [3 Full Stack Web Development Project Ideas For Final Year Project &amp; Resume](https://dev.to/shoyeb001/3-full-stack-web-development-project-ideas-for-final-year-project-resume-2e4p)
 - [Dev.to/JS] [Generic list of dev features required to bootstrap a great frontend project](https://dev.to/itzsrikanth/generic-list-of-dev-features-required-to-bootstrap-a-great-frontend-project-12op)
-- [Dev.to/JS] [How to handle in forms in Svelte?](https://dev.to/akuks/how-to-handle-in-forms-in-svelte-4078)
-- [Dev.to/JS] [Build a NextJS Blog with MDX and Tailwind.](https://dev.to/shaan_alam/build-a-nextjs-blog-with-mdx-and-tailwind-1il1)
-- [Dev.to/JS] [Login Without Email and Password | JavaScript](https://dev.to/rajeshj3/login-without-email-and-password-javascript-38le)
-- [Dev.to/JS] [Project 90 of 100 - React Native Starter](https://dev.to/jwhubert91/project-90-of-100-react-native-starter-19g0)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
