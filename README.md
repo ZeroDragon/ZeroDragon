@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Login Without Email and Password | JavaScript](https://dev.to/rajeshj3/login-without-email-and-password-javascript-38le)
+- [Dev.to/JS] [Project 90 of 100 - React Native Starter](https://dev.to/jwhubert91/project-90-of-100-react-native-starter-19g0)
 - [Dev.to/JS] [Top 5 Most Popular Backend Framework for 2022](https://dev.to/virendebro/top-5-most-popular-backend-framework-for-2022-4g6e)
 - [Dev.to/JS] [No way did Github Copilot just Rickroll me!](https://dev.to/virejdasani/no-way-did-github-copilot-just-rickroll-me-4g02)
 - [Dev.to/JS] [Implementing tables using reactjs](https://dev.to/marcosrjjunior/implementing-tables-using-reactjs-3d73)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making forms easier with react-hook-form](https://dev.to/ayaz/making-forms-easier-with-react-hook-form-o49)
 - [Dev.to/JS] [😋🙂🙈 Beware of Emoji in JS! 😈](https://dev.to/mistval/beware-of-emoji-in-js-144o)
 - [Dev.to/JS] [¿Qué es MGPanel?](https://dev.to/eloymanuelch/que-es-mgpanel-3e0d)
-- [Dev.to/JS] [Web-Security for Developers: Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/ceblakely/web-security-for-developers-cross-site-scripting-xss-1hh9)
-- [Dev.to/JS] [Useful JavaScript Code Snippets](https://dev.to/kiranrajvjd/useful-javascript-code-snippets-4lki)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
