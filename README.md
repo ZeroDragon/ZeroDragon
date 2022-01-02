@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Awesome Libraries To Use In Your Next ReactJs Project](https://dev.to/sachinchaurasiya/5-awesome-libraries-to-use-in-your-next-reactjs-project-3p31)
+- [Dev.to/JS] [Resources to Kickstart Your Newsletter](https://dev.to/surajondev/resources-to-kickstart-your-newsletter-30kk)
+- [Dev.to/JS] [Making forms easier with react-hook-form](https://dev.to/ayaz/making-forms-easier-with-react-hook-form-o49)
+- [Dev.to/JS] [😋🙂🙈 Beware of Emoji in JS! 😈](https://dev.to/mistval/beware-of-emoji-in-js-144o)
+- [Dev.to/JS] [¿Qué es MGPanel?](https://dev.to/eloymanuelch/que-es-mgpanel-3e0d)
 - [Dev.to/JS] [Web-Security for Developers: Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/ceblakely/web-security-for-developers-cross-site-scripting-xss-1hh9)
 - [Dev.to/JS] [Useful JavaScript Code Snippets](https://dev.to/kiranrajvjd/useful-javascript-code-snippets-4lki)
 - [Dev.to/JS] [Start Using JavaScript to Automate Excel](https://dev.to/eaallen/start-using-javascript-to-automate-excel-3om5)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get a start in a software developer job, how to learn and what to know.](https://dev.to/ngamsomset/how-to-get-a-start-in-a-software-developer-job-how-to-learn-and-what-to-know-23mh)
 - [Dev.to/JS] [Building the fastest object and array differ](https://dev.to/asyncbanana/building-the-fastest-object-and-array-differ-2l6f)
 - [Dev.to/JS] [State of the Web: WebAssembly](https://dev.to/asyncbanana/state-of-the-web-webassembly-m1j)
-- [Dev.to/JS] [Convert images to mosaics in p5.js](https://dev.to/andyhaskell/convert-images-to-mosaics-in-p5js-2dlc)
-- [Dev.to/JS] [JavaScript Event Loop](https://dev.to/ejjraifihamza/javascript-event-loop-3kd4)
-- [Dev.to/JS] [2021 pnpm recap](https://dev.to/pnpm/2021-pnpm-recap-43a3)
-- [Dev.to/JS] [JavaScript prototype demystified once and forever](https://dev.to/projektorius96/javascript-prototype-demystified-once-and-forever-44lo)
-- [Dev.to/JS] [JavaScript Call Stack](https://dev.to/ejjraifihamza/javascript-call-stack-4e1c)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
