@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [pnpm - The Best Package Manager](https://dev.to/nitsancohen770/pnpm-the-best-package-manager-57fj)
+- [Dev.to/JS] [Hi my new post](https://dev.to/ridhoanshory/hi-my-new-post-51g0)
 - [Dev.to/JS] [沒有處方箋必利勁哪裡買？正品必利勁哪裡買？](https://dev.to/liii/mei-you-chu-fang-jian-bi-li-jing-na-li-mai-zheng-pin-bi-li-jing-na-li-mai--15je)
 - [Dev.to/JS] [How to create a portfolio using HTML](https://dev.to/posandu/how-to-create-a-portfolio-using-html-3425)
 - [Dev.to/JS] [Udemy Syllabus Scraper Released](https://dev.to/effylh/udemy-syllabus-scraper-released-5f4d)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a NextJS Blog with MDX and Tailwind.](https://dev.to/shaan_alam/build-a-nextjs-blog-with-mdx-and-tailwind-1il1)
 - [Dev.to/JS] [Login Without Email and Password | JavaScript](https://dev.to/rajeshj3/login-without-email-and-password-javascript-38le)
 - [Dev.to/JS] [Project 90 of 100 - React Native Starter](https://dev.to/jwhubert91/project-90-of-100-react-native-starter-19g0)
-- [Dev.to/JS] [Top 5 Most Popular Backend Framework for 2022](https://dev.to/virendebro/top-5-most-popular-backend-framework-for-2022-4g6e)
-- [Dev.to/JS] [No way did Github Copilot just Rickroll me!](https://dev.to/virejdasani/no-way-did-github-copilot-just-rickroll-me-4g02)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
