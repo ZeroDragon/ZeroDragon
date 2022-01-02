@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web-Security for Developers: Cross-Site Scripting &lpar;XSS&rpar;](https://dev.to/ceblakely/web-security-for-developers-cross-site-scripting-xss-1hh9)
+- [Dev.to/JS] [Useful JavaScript Code Snippets](https://dev.to/kiranrajvjd/useful-javascript-code-snippets-4lki)
+- [Dev.to/JS] [Start Using JavaScript to Automate Excel](https://dev.to/eaallen/start-using-javascript-to-automate-excel-3om5)
 - [Dev.to/JS] [i coded and published a fancy cursor component](https://dev.to/valbuena/i-coded-and-published-a-fancy-cursor-component-3i62)
 - [Dev.to/JS] [How to get a start in a software developer job, how to learn and what to know.](https://dev.to/ngamsomset/how-to-get-a-start-in-a-software-developer-job-how-to-learn-and-what-to-know-23mh)
 - [Dev.to/JS] [Building the fastest object and array differ](https://dev.to/asyncbanana/building-the-fastest-object-and-array-differ-2l6f)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2021 pnpm recap](https://dev.to/pnpm/2021-pnpm-recap-43a3)
 - [Dev.to/JS] [JavaScript prototype demystified once and forever](https://dev.to/projektorius96/javascript-prototype-demystified-once-and-forever-44lo)
 - [Dev.to/JS] [JavaScript Call Stack](https://dev.to/ejjraifihamza/javascript-call-stack-4e1c)
-- [Dev.to/JS] [🤪 Tell me how to build a duplicate detection system!](https://dev.to/williammcgonagle/how-should-i-build-a-duplicate-detection-system-22le)
-- [Dev.to/JS] [An Intro to Recursion](https://dev.to/zachinjapan/an-intro-to-recursion-1k0)
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
-- [Dev.to/JS] [target=&quot;_blank&quot; is a security risk?](https://dev.to/thehassantahir/targetblank-is-a-security-risk-1ee4)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
 - [Lifehacker] [How to Keep an Outdoor Faucet or Spigot From Freezing](https://lifehacker.com/how-to-keep-an-outdoor-faucet-or-spigot-from-freezing-1848289562)
