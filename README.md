@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Exicution Context](https://dev.to/mahin678/javascript-exicution-context-1die)
+- [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
+- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#01&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-01-29bi)
+- [Dev.to/JS] [A Brief Introduction to Hotwire](https://dev.to/software_writer/a-brief-introduction-to-hotwire-5fja)
+- [Dev.to/JS] [Create New Project Using NPM package](https://dev.to/maithanhdanh/create-new-project-using-npm-package-1cgf)
 - [Dev.to/JS] [DevObserver - App You Should Have!](https://dev.to/iamfrntdv/devobserver-app-you-should-have-this-app-3df0)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
 - [Lifehacker] [How to Force Bulbs Indoors During the Winter](https://lifehacker.com/how-to-force-bulbs-indoors-during-the-winter-1848295110)
@@ -34,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Force Restart a Frozen Apple Watch](https://lifehacker.com/how-to-force-restart-a-frozen-apple-watch-1848275654)
 - [Dev.to/JS] [How to Build a Slack App with Low-Code &lpar;and get $20K&rpar;](https://dev.to/matthew_busel/how-to-build-a-slack-app-with-low-code-and-get-20k-1a1g)
 - [Dev.to/JS] [Search Bar in React JS!](https://dev.to/salehmubashar/search-bar-in-react-js-545l)
-- [Dev.to/JS] [10x Developer Mentoring Program](https://dev.to/tomaszs2/10x-developer-mentoring-program-3978)
-- [Dev.to/JS] [How to build a Tesla clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/how-to-build-a-tesla-clone-with-vanilla-html-css-and-javascript-8em)
-- [Dev.to/JS] [what is composer, NPM and PIP?](https://dev.to/codesushil/what-is-composer-npm-and-pip-5cc5)
 - [Lifehacker] [How to Beat the Post-Holiday Blues](https://lifehacker.com/how-to-beat-the-post-holiday-blues-1848260673)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Types of Flooring If You Have a Dog](https://lifehacker.com/the-best-and-worst-types-of-flooring-if-you-have-a-do-1848295122)
-- [Dev.to/JS] [Loops in JS](https://dev.to/whitehatdevv/loops-in-js-286g)
 - [Lifehacker] [20 of the Best ‘Hangout’ Movies to Help You Chill the Hell Out](https://lifehacker.com/20-of-the-best-hangout-movies-to-help-you-chill-the-h-1848242867)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
 - [Lifehacker] [Our 13 Most Motivating Fitness Posts of 2021](https://lifehacker.com/our-13-most-motivating-fitness-posts-of-2021-1848180023)
 - [Lifehacker] [Why You Should ‘Resolve’ to Only Make Tiny Self-Care Changes This Year](https://lifehacker.com/why-you-should-resolve-to-only-make-tiny-self-care-ch-1848179783)
-- [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
