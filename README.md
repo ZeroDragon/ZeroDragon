@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to start a software business and make money with your skills](https://dev.to/diegooliveirasanchez/how-to-start-a-software-business-and-make-money-with-your-skills-195e)
+- [Dev.to/JS] [Asynchronous loops in Javascript - using forEach vs map vs for loop](https://dev.to/anshuman_bhardwaj/asynchronous-loops-in-javascript-using-foreach-vs-map-vs-for-loop-5020)
+- [Dev.to/JS] [Create React App - Mind Map. Part 7 of 10: Chart](https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-chart-1cbf)
 - [Dev.to/JS] [React Component Testing](https://dev.to/ohdylan/react-component-testing-54ie)
 - [Dev.to/JS] [Declarative Optional.Js](https://dev.to/muthuishere/declarative-optionaljs-eek)
 - [Dev.to/JS] [Public Solving: Find the missing presents](https://dev.to/dailydevtips1/public-solving-find-the-missing-presents-4k5e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to update PHP in WordPress?](https://dev.to/aashiya123/how-to-update-php-in-wordpress-5cnc)
 - [Dev.to/JS] [My first challenge : 100 Days of Code](https://dev.to/blackthor/my-first-challenge-100-days-of-code-jg9)
 - [Dev.to/JS] [WebDev Help](https://dev.to/azlan_syed/webdev-help-4813)
-- [Dev.to/JS] [Integrating PayMongo API in Next.js - Part 2](https://dev.to/xunylpay/integrating-paymongo-api-in-nextjs-part-2-3o5f)
-- [Dev.to/JS] [What is binary search in data structure?](https://dev.to/helpmestudy/what-is-binary-search-in-data-structure-426m)
-- [Dev.to/JS] [My Chrome Extension](https://dev.to/vermaprince123/my-chrome-extension-546)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
