@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Complete 2022 Web Development Bootcamp](https://dev.to/freecourseonline/the-complete-2022-web-development-bootcamp-52o4)
+- [Dev.to/JS] [JS ENGINE for a kid](https://dev.to/hardikganatra/js-engine-for-a-kid-4oe)
+- [Dev.to/JS] [Cem Karaca Telegram Bot](https://dev.to/lucifer25x/cem-karaca-telegram-bot-1gf6)
+- [Dev.to/JS] [How to Secure your NodeJs Express JavaScript Application - part 1](https://dev.to/smartscanner/how-to-secure-your-nodejs-express-javascript-application-part-1-4l26)
 - [Dev.to/JS] [Discord.js v13 Command Handler &lpar;Slash Cmds and Legacy Cmds&rpar;](https://dev.to/edwinsanjo/discordjs-v13-command-handler-slash-cmds-and-legacy-cmds-3831)
 - [Dev.to/JS] [Basics of Redux Toolkit](https://dev.to/javascriptcentric/basics-of-redux-toolkit-a28)
 - [Dev.to/JS] [How to start a software business and make money with your skills](https://dev.to/diegooliveirasanchez/how-to-start-a-software-business-and-make-money-with-your-skills-195e)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Component Testing](https://dev.to/ohdylan/react-component-testing-54ie)
 - [Dev.to/JS] [Declarative Optional.Js](https://dev.to/muthuishere/declarative-optionaljs-eek)
 - [Dev.to/JS] [Public Solving: Find the missing presents](https://dev.to/dailydevtips1/public-solving-find-the-missing-presents-4k5e)
-- [Dev.to/JS] [Use TypeScript Generics to enhance your React components and make them reusable](https://dev.to/nitsancohen770/use-typescript-generics-to-enhance-your-react-components-and-make-them-reusable-431f)
-- [Dev.to/JS] [Top 3 Automation Testing Tools for 2022](https://dev.to/dheeyankapriya/top-3-automation-testing-tools-for-2022-1dpe)
-- [Dev.to/JS] [Project 91 of 100 - Build a Grocery List in React Native with &lt;FlatList /&gt;](https://dev.to/jwhubert91/project-91-of-100-build-a-grocery-list-in-react-native-with-18n1)
-- [Dev.to/JS] [How to update PHP in WordPress?](https://dev.to/aashiya123/how-to-update-php-in-wordpress-5cnc)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
