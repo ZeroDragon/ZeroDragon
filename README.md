@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [what is composer, NPM and PIP?](https://dev.to/codesushil/what-is-composer-npm-and-pip-5cc5)
+- [Lifehacker] [How to Beat the Post-Holiday Blues](https://lifehacker.com/how-to-beat-the-post-holiday-blues-1848260673)
+- [Lifehacker] [The Best &lpar;and Worst&rpar; Types of Flooring If You Have a Dog](https://lifehacker.com/the-best-and-worst-types-of-flooring-if-you-have-a-do-1848295122)
+- [Dev.to/JS] [Loops in JS](https://dev.to/whitehatdevv/loops-in-js-286g)
+- [Lifehacker] [20 of the Best ‘Hangout’ Movies to Help You Chill the Hell Out](https://lifehacker.com/20-of-the-best-hangout-movies-to-help-you-chill-the-h-1848242867)
+- [Dev.to/JS] [Which programming language you should learn?](https://dev.to/prashik/which-programming-language-you-should-learn-ope)
+- [Dev.to/JS] [Create an outstanding personal website with a simple 3D animation](https://dev.to/ioannisnoukakis/create-an-outstanding-personal-website-with-a-simple-3d-animation-513c)
 - [Dev.to/JS] [How to create a React tree view component.](https://dev.to/taiwobello/how-to-create-a-react-tree-view-component-3ch2)
 - [Dev.to/JS] [How to create usable and maintainable npm packages](https://dev.to/yakovlev_alexey/how-to-create-usable-and-maintainable-npm-packages-4m53)
 - [Dev.to/JS] [How To Customize Super Tokens APIs.](https://dev.to/tyaga001/how-to-customize-super-tokens-apis-1gm6)
 - [Dev.to/JS] [Quasar admin CRM with Quasar 2!](https://dev.to/mayank091193/quasar-admin-crm-with-quasar-2-5c78)
+- [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #116](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-116-2366)
 - [Dev.to/JS] [Let&#39;s Build a Final Fantasy Style Browser Game With rpg.js! – Episode 1](https://dev.to/timo_ernst/lets-build-a-final-fantasy-style-browser-game-with-rpgjs-episode-1-2588)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💋.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-37og)
 - [Dev.to/JS] [The Complete 2022 Web Development Bootcamp](https://dev.to/freecourseonline/the-complete-2022-web-development-bootcamp-52o4)
-- [Dev.to/JS] [JS ENGINE for a kid](https://dev.to/hardikganatra/js-engine-for-a-kid-4oe)
-- [Dev.to/JS] [Cem Karaca Telegram Bot](https://dev.to/lucifer25x/cem-karaca-telegram-bot-1gf6)
-- [Dev.to/JS] [How to Secure your NodeJs Express JavaScript Application - part 1](https://dev.to/smartscanner/how-to-secure-your-nodejs-express-javascript-application-part-1-4l26)
-- [Dev.to/JS] [Discord.js v13 Command Handler &lpar;Slash Cmds and Legacy Cmds&rpar;](https://dev.to/edwinsanjo/discordjs-v13-command-handler-slash-cmds-and-legacy-cmds-3831)
-- [Dev.to/JS] [Basics of Redux Toolkit](https://dev.to/javascriptcentric/basics-of-redux-toolkit-a28)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
 - [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
-- [Lifehacker] [What to Know About the CDC’s New, Shorter Isolation Guidelines](https://lifehacker.com/what-to-know-about-the-cdc-s-new-shorter-isolation-gui-1848275978)
-- [Lifehacker] [9 of Our Favorite Apps of 2021](https://lifehacker.com/9-of-our-favorite-apps-of-2021-1848253254)
-- [Lifehacker] [40 of Our Best Android Hacks of 2021](https://lifehacker.com/40-of-our-best-android-hacks-of-2021-1848246417)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
