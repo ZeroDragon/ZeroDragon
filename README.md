@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Error Boundaries in Svelte](https://dev.to/khromov/error-boundaries-in-svelte-1b95)
+- [Dev.to/JS] [8 techniques to write cleaner  JavaScript code](https://dev.to/muhd_ahsanayaz/8-techniques-to-write-cleaner-javascript-code-369e)
+- [Dev.to/JS] [JavaScript Dev Learning Journey - Leap Year!](https://dev.to/aliofonzy43/javascript-dev-learning-journey-leap-year-287o)
 - [Dev.to/JS] [Longest Word Algorithm](https://dev.to/stuxnat/longest-word-algorithm-2j14)
 - [Dev.to/JS] [You don&#39;t need null](https://dev.to/vangware/you-dont-need-null-3m4n)
 - [Dev.to/JS] [Heroicons blade component using javascript](https://dev.to/tajidyakub/heroicons-blade-component-using-javascript-488p)
 - [Dev.to/JS] [this is fine!](https://dev.to/danpadilla/this-is-fine-4e88)
 - [Dev.to/JS] [Setup React and Webpack manually](https://dev.to/danko_simunovic/setup-react-and-webpack-manually-hpc)
-- [Dev.to/JS] [Streaming files from AWS S3 using NodeJS Stream API in Typescript](https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0)
+- [Dev.to/JS] [Streaming files from AWS S3 using NodeJS Stream API with Typescript](https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0)
 - [Dev.to/JS] [After 1 YEAR of hard work my NEW Ultimate Web Desktop Environment is ready for launch!!!!! 🎉🎉](https://dev.to/dustinbrett/after-1-year-of-hard-work-my-new-ultimate-web-desktop-environment-is-ready-for-launch-2dnd)
 - [Dev.to/JS] [Desestruturação para variáveis já existentes](https://dev.to/ebdonato/desestruturacao-para-variaveis-ja-existentes-28je)
 - [Dev.to/JS] [Fetching GitHub repository Traffic data using API v3](https://dev.to/ashutosh1919/fetching-github-repository-traffic-data-using-api-v3-c57)
-- [Dev.to/JS] [Contents for 2022](https://dev.to/kevin_odongo35/contents-for-2022-2cib)
-- [Dev.to/JS] [Use an object instead of a switch](https://dev.to/guigacodes/use-an-object-instead-of-a-switch-1e55)
-- [Dev.to/JS] [Dictionary App using  Javascript](https://dev.to/codewith_random/dictionary-app-using-javascript-4dcc)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
