@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DevObserver - App You Should Have!](https://dev.to/iamfrntdv/devobserver-app-you-should-have-this-app-3df0)
+- [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
+- [Lifehacker] [How to Force Bulbs Indoors During the Winter](https://lifehacker.com/how-to-force-bulbs-indoors-during-the-winter-1848295110)
+- [Dev.to/JS] [Managing the Costs of JavaScript Frameworks: Is it Really that Bad?](https://dev.to/jignesh_simform/managing-the-costs-of-javascript-frameworks-is-it-really-that-bad-34oh)
+- [Dev.to/JS] [Create React App | Day 4](https://dev.to/developerioweb/create-react-app-day-4-2ldh)
+- [Dev.to/JS] [Keyfessor](https://dev.to/mfimia/keyfessor-4pkb)
+- [Dev.to/JS] [Hybrid App Development: Comparison among React Native, Ionic and Flutter](https://dev.to/shivams136/hybrid-app-development-comparison-among-react-native-ionic-and-flutter-1lb)
+- [Dev.to/JS] [Rasoi - An eCommerce store](https://dev.to/siddhantk232/rasoi-an-ecommerce-store-43eo)
 - [Lifehacker] [How to Force Restart a Frozen Apple Watch](https://lifehacker.com/how-to-force-restart-a-frozen-apple-watch-1848275654)
 - [Dev.to/JS] [How to Build a Slack App with Low-Code &lpar;and get $20K&rpar;](https://dev.to/matthew_busel/how-to-build-a-slack-app-with-low-code-and-get-20k-1a1g)
 - [Dev.to/JS] [Search Bar in React JS!](https://dev.to/salehmubashar/search-bar-in-react-js-545l)
@@ -33,12 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Types of Flooring If You Have a Dog](https://lifehacker.com/the-best-and-worst-types-of-flooring-if-you-have-a-do-1848295122)
 - [Dev.to/JS] [Loops in JS](https://dev.to/whitehatdevv/loops-in-js-286g)
 - [Lifehacker] [20 of the Best ‘Hangout’ Movies to Help You Chill the Hell Out](https://lifehacker.com/20-of-the-best-hangout-movies-to-help-you-chill-the-h-1848242867)
-- [Dev.to/JS] [Which programming language you should learn?](https://dev.to/prashik/which-programming-language-you-should-learn-ope)
-- [Dev.to/JS] [Create an outstanding personal website with a simple 3D animation](https://dev.to/ioannisnoukakis/create-an-outstanding-personal-website-with-a-simple-3d-animation-513c)
-- [Dev.to/JS] [How to create a React tree view component.](https://dev.to/taiwobello/how-to-create-a-react-tree-view-component-3ch2)
-- [Dev.to/JS] [How to create usable and maintainable npm packages](https://dev.to/yakovlev_alexey/how-to-create-usable-and-maintainable-npm-packages-4m53)
-- [Dev.to/JS] [How To Customize Super Tokens APIs.](https://dev.to/tyaga001/how-to-customize-super-tokens-apis-1gm6)
-- [Dev.to/JS] [Quasar admin CRM with Quasar 2!](https://dev.to/mayank091193/quasar-admin-crm-with-quasar-2-5c78)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Our 13 Most Motivating Fitness Posts of 2021](https://lifehacker.com/our-13-most-motivating-fitness-posts-of-2021-1848180023)
 - [Lifehacker] [Why You Should ‘Resolve’ to Only Make Tiny Self-Care Changes This Year](https://lifehacker.com/why-you-should-resolve-to-only-make-tiny-self-care-ch-1848179783)
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
-- [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
-- [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
