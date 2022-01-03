@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quasar admin CRM with Quasar 2!](https://dev.to/mayank091193/quasar-admin-crm-with-quasar-2-5c78)
+- [Dev.to/JS] [Let&#39;s Build a Final Fantasy Style Browser Game With rpg.js! – Episode 1](https://dev.to/timo_ernst/lets-build-a-final-fantasy-style-browser-game-with-rpgjs-episode-1-2588)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💋.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-37og)
 - [Dev.to/JS] [The Complete 2022 Web Development Bootcamp](https://dev.to/freecourseonline/the-complete-2022-web-development-bootcamp-52o4)
 - [Dev.to/JS] [JS ENGINE for a kid](https://dev.to/hardikganatra/js-engine-for-a-kid-4oe)
 - [Dev.to/JS] [Cem Karaca Telegram Bot](https://dev.to/lucifer25x/cem-karaca-telegram-bot-1gf6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to start a software business and make money with your skills](https://dev.to/diegooliveirasanchez/how-to-start-a-software-business-and-make-money-with-your-skills-195e)
 - [Dev.to/JS] [Asynchronous loops in Javascript - using forEach vs map vs for loop](https://dev.to/anshuman_bhardwaj/asynchronous-loops-in-javascript-using-foreach-vs-map-vs-for-loop-5020)
 - [Dev.to/JS] [Create React App - Mind Map. Part 7 of 10: Chart](https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-chart-1cbf)
-- [Dev.to/JS] [React Component Testing](https://dev.to/ohdylan/react-component-testing-54ie)
-- [Dev.to/JS] [Declarative Optional.Js](https://dev.to/muthuishere/declarative-optionaljs-eek)
-- [Dev.to/JS] [Public Solving: Find the missing presents](https://dev.to/dailydevtips1/public-solving-find-the-missing-presents-4k5e)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
