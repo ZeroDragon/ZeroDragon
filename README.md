@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Force Restart a Frozen Apple Watch](https://lifehacker.com/how-to-force-restart-a-frozen-apple-watch-1848275654)
+- [Dev.to/JS] [How to Build a Slack App with Low-Code &lpar;and get $20K&rpar;](https://dev.to/matthew_busel/how-to-build-a-slack-app-with-low-code-and-get-20k-1a1g)
+- [Dev.to/JS] [Search Bar in React JS!](https://dev.to/salehmubashar/search-bar-in-react-js-545l)
+- [Dev.to/JS] [10x Developer Mentoring Program](https://dev.to/tomaszs2/10x-developer-mentoring-program-3978)
+- [Dev.to/JS] [How to build a Tesla clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/how-to-build-a-tesla-clone-with-vanilla-html-css-and-javascript-8em)
 - [Dev.to/JS] [what is composer, NPM and PIP?](https://dev.to/codesushil/what-is-composer-npm-and-pip-5cc5)
 - [Lifehacker] [How to Beat the Post-Holiday Blues](https://lifehacker.com/how-to-beat-the-post-holiday-blues-1848260673)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Types of Flooring If You Have a Dog](https://lifehacker.com/the-best-and-worst-types-of-flooring-if-you-have-a-do-1848295122)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create usable and maintainable npm packages](https://dev.to/yakovlev_alexey/how-to-create-usable-and-maintainable-npm-packages-4m53)
 - [Dev.to/JS] [How To Customize Super Tokens APIs.](https://dev.to/tyaga001/how-to-customize-super-tokens-apis-1gm6)
 - [Dev.to/JS] [Quasar admin CRM with Quasar 2!](https://dev.to/mayank091193/quasar-admin-crm-with-quasar-2-5c78)
-- [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #116](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-116-2366)
-- [Dev.to/JS] [Let&#39;s Build a Final Fantasy Style Browser Game With rpg.js! – Episode 1](https://dev.to/timo_ernst/lets-build-a-final-fantasy-style-browser-game-with-rpgjs-episode-1-2588)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💋.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-37og)
-- [Dev.to/JS] [The Complete 2022 Web Development Bootcamp](https://dev.to/freecourseonline/the-complete-2022-web-development-bootcamp-52o4)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Throw Out These Listeria-Ridden Salads, FDA Says](https://lifehacker.com/throw-out-these-listeria-ridden-salads-fda-says-1848280969)
 - [Lifehacker] [10 Things We Told You to Stop Doing in 2021](https://lifehacker.com/10-things-we-told-you-to-stop-doing-in-2021-1848169246)
 - [Lifehacker] [15 Impressive Fitness Goals to Strive for That Aren&#39;t Weight Loss](https://lifehacker.com/15-impressive-fitness-goals-to-strive-for-that-arent-we-1848089302)
-- [Lifehacker] [How to Store Your Christmas Decorations Like a Responsible Grownup](https://lifehacker.com/how-to-store-your-christmas-decorations-like-a-responsi-1848256836)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
