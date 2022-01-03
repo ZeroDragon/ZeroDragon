@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Two Pointer Technique](https://dev.to/seth_king/the-two-pointer-technique-1b62)
+- [Dev.to/JS] [Serverless search with Meilisearch and Google Cloud Run](https://dev.to/simonireilly/serverless-search-with-meilisearch-and-google-cloud-run-hdg)
 - [Dev.to/JS] [Building a Mobile Document Scanner with Zero Dependencies: The Hough Transform](https://dev.to/101arrowz/building-a-mobile-document-scanner-with-zero-dependencies-the-hough-transform-4dfd)
+- [Dev.to/JS] [Gremlins testing with puppeteer](https://dev.to/przemyslawjanpietrzak/gremlins-testing-with-puppeteer-40il)
 - [Dev.to/JS] [What was your greatest &quot;aha&quot; moment as a JavaScript developer?](https://dev.to/sherrydays/what-was-your-greatest-aha-moment-as-a-developer-1cpj)
 - [Dev.to/JS] [Building an Accessible Recursive Menu System](https://dev.to/drewclem/building-an-accessible-recursive-menu-system-48je)
 - [Dev.to/JS] [snake  game | canvas | html | css | vanilla javascript](https://dev.to/shatud/snake-game-canvas-html-css-vanilla-javascript-3ilp)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To: Build A Linked List in JavaScript](https://dev.to/am20dipi/how-to-build-a-linked-list-in-javascript-4kn1)
 - [Dev.to/JS] [JavaScript Error: Parcel Won&#39;t Stop Rebuilding in Dev Mode](https://dev.to/dani8439/error-parcel-wont-stop-rebuilding-in-dev-mode-226)
 - [Dev.to/JS] [Some of the highlights of Ant Media in 2021](https://dev.to/hamitdemir/some-of-the-highlights-of-ant-media-in-2021-4659)
-- [Dev.to/JS] [How Much Money I Made in 2021](https://dev.to/the_greatbonnie/how-much-money-i-made-in-2021-4lo3)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
-- [Dev.to/JS] [Baloonza IT newsletters weekly digest #18](https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-18-1ib)
-- [Dev.to/JS] [Say Bye About Hoisting Concept](https://dev.to/mahin678/say-bye-about-hoisting-concept-53a3)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
 - [Lifehacker] [How to Force Bulbs Indoors During the Winter](https://lifehacker.com/how-to-force-bulbs-indoors-during-the-winter-1848295110)
