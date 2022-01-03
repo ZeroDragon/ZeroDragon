@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Cypress Cucumber: Part 1 - Intro and adding to an existing project](https://dev.to/daneharnett/learn-cypress-cucumber-part-1-intro-and-adding-to-an-existing-project-2k7p)
+- [Dev.to/JS] [I Accidently build a start-up for Gamers 😬 | Azuuk](https://dev.to/rajeshj3/i-accidently-build-a-start-up-for-gamers-azuuk-2enk)
+- [Dev.to/JS] [My FrontEnd Stack](https://dev.to/knitesh/my-frontend-stack-kf3)
 - [Dev.to/JS] [Handling errors with Error Boundaries in Svelte](https://dev.to/khromov/error-boundaries-in-svelte-1b95)
 - [Dev.to/JS] [8 techniques to write cleaner  JavaScript code](https://dev.to/muhd_ahsanayaz/8-techniques-to-write-cleaner-javascript-code-369e)
 - [Dev.to/JS] [JavaScript Dev Learning Journey - Leap Year!](https://dev.to/aliofonzy43/javascript-dev-learning-journey-leap-year-287o)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [this is fine!](https://dev.to/danpadilla/this-is-fine-4e88)
 - [Dev.to/JS] [Setup React and Webpack manually](https://dev.to/danko_simunovic/setup-react-and-webpack-manually-hpc)
 - [Dev.to/JS] [Streaming files from AWS S3 using NodeJS Stream API with Typescript](https://dev.to/about14sheep/streaming-data-from-aws-s3-using-nodejs-stream-api-and-typescript-3dj0)
-- [Dev.to/JS] [After 1 YEAR of hard work my NEW Ultimate Web Desktop Environment is ready for launch!!!!! 🎉🎉](https://dev.to/dustinbrett/after-1-year-of-hard-work-my-new-ultimate-web-desktop-environment-is-ready-for-launch-2dnd)
-- [Dev.to/JS] [Desestruturação para variáveis já existentes](https://dev.to/ebdonato/desestruturacao-para-variaveis-ja-existentes-28je)
-- [Dev.to/JS] [Fetching GitHub repository Traffic data using API v3](https://dev.to/ashutosh1919/fetching-github-repository-traffic-data-using-api-v3-c57)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
