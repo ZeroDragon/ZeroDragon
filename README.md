@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Component Testing](https://dev.to/ohdylan/react-component-testing-54ie)
+- [Dev.to/JS] [Declarative Optional.Js](https://dev.to/muthuishere/declarative-optionaljs-eek)
+- [Dev.to/JS] [Public Solving: Find the missing presents](https://dev.to/dailydevtips1/public-solving-find-the-missing-presents-4k5e)
 - [Dev.to/JS] [Use TypeScript Generics to enhance your React components and make them reusable](https://dev.to/nitsancohen770/use-typescript-generics-to-enhance-your-react-components-and-make-them-reusable-431f)
 - [Dev.to/JS] [Top 3 Automation Testing Tools for 2022](https://dev.to/dheeyankapriya/top-3-automation-testing-tools-for-2022-1dpe)
 - [Dev.to/JS] [Project 91 of 100 - Build a Grocery List in React Native with &lt;FlatList /&gt;](https://dev.to/jwhubert91/project-91-of-100-build-a-grocery-list-in-react-native-with-18n1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating PayMongo API in Next.js - Part 2](https://dev.to/xunylpay/integrating-paymongo-api-in-nextjs-part-2-3o5f)
 - [Dev.to/JS] [What is binary search in data structure?](https://dev.to/helpmestudy/what-is-binary-search-in-data-structure-426m)
 - [Dev.to/JS] [My Chrome Extension](https://dev.to/vermaprince123/my-chrome-extension-546)
-- [Dev.to/JS] [JavaScript Function Composition: What is Composition Function?](https://dev.to/ogeobubu/javascript-function-composition-what-is-composition-function-4ppo)
-- [Dev.to/JS] [Learn Cypress Cucumber: Part 1 - Intro and adding to an existing project](https://dev.to/daneharnett/learn-cypress-cucumber-part-1-intro-and-adding-to-an-existing-project-2k7p)
-- [Dev.to/JS] [I Accidently build a start-up for Gamers 😬 | Azuuk](https://dev.to/rajeshj3/i-accidently-build-a-start-up-for-gamers-azuuk-2enk)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
