@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Mobile Document Scanner with Zero Dependencies: The Hough Transform](https://dev.to/101arrowz/building-a-mobile-document-scanner-with-zero-dependencies-the-hough-transform-4dfd)
+- [Dev.to/JS] [What was your greatest &quot;aha&quot; moment as a JavaScript developer?](https://dev.to/sherrydays/what-was-your-greatest-aha-moment-as-a-developer-1cpj)
+- [Dev.to/JS] [Building an Accessible Recursive Menu System](https://dev.to/drewclem/building-an-accessible-recursive-menu-system-48je)
+- [Dev.to/JS] [snake  game | canvas | html | css | vanilla javascript](https://dev.to/shatud/snake-game-canvas-html-css-vanilla-javascript-3ilp)
 - [Dev.to/JS] [[week1] Days 1](https://dev.to/blackthor/week1-days-1-49fj)
 - [Dev.to/JS] [Cashing out from web development - React](https://dev.to/sam_lukaa/cashing-out-from-web-development-react-4gpo)
 - [Dev.to/JS] [How To: Build A Linked List in JavaScript](https://dev.to/am20dipi/how-to-build-a-linked-list-in-javascript-4kn1)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Dev.to/JS] [Baloonza IT newsletters weekly digest #18](https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-18-1ib)
 - [Dev.to/JS] [Say Bye About Hoisting Concept](https://dev.to/mahin678/say-bye-about-hoisting-concept-53a3)
-- [Dev.to/JS] [Form Lib 1.11 released](https://dev.to/schukai/form-lib-111-released-co4)
-- [Dev.to/JS] [Javascript Exicution Context](https://dev.to/mahin678/javascript-exicution-context-1die)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
-- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#01&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-01-29bi)
-- [Dev.to/JS] [A Brief Introduction to Hotwire](https://dev.to/software_writer/a-brief-introduction-to-hotwire-5fja)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
 - [Lifehacker] [How to Force Bulbs Indoors During the Winter](https://lifehacker.com/how-to-force-bulbs-indoors-during-the-winter-1848295110)
 - [Lifehacker] [How to Force Restart a Frozen Apple Watch](https://lifehacker.com/how-to-force-restart-a-frozen-apple-watch-1848275654)
