@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Error Boundaries in Svelte](https://dev.to/khromov/error-boundaries-in-svelte-1b95)
+- [Dev.to/JS] [Handling errors with Error Boundaries in Svelte](https://dev.to/khromov/error-boundaries-in-svelte-1b95)
 - [Dev.to/JS] [8 techniques to write cleaner  JavaScript code](https://dev.to/muhd_ahsanayaz/8-techniques-to-write-cleaner-javascript-code-369e)
 - [Dev.to/JS] [JavaScript Dev Learning Journey - Leap Year!](https://dev.to/aliofonzy43/javascript-dev-learning-journey-leap-year-287o)
 - [Dev.to/JS] [Longest Word Algorithm](https://dev.to/stuxnat/longest-word-algorithm-2j14)
