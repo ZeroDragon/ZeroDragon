@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Discord.js v13 Command Handler &lpar;Slash Cmds and Legacy Cmds&rpar;](https://dev.to/edwinsanjo/discordjs-v13-command-handler-slash-cmds-and-legacy-cmds-3831)
+- [Dev.to/JS] [Basics of Redux Toolkit](https://dev.to/javascriptcentric/basics-of-redux-toolkit-a28)
 - [Dev.to/JS] [How to start a software business and make money with your skills](https://dev.to/diegooliveirasanchez/how-to-start-a-software-business-and-make-money-with-your-skills-195e)
 - [Dev.to/JS] [Asynchronous loops in Javascript - using forEach vs map vs for loop](https://dev.to/anshuman_bhardwaj/asynchronous-loops-in-javascript-using-foreach-vs-map-vs-for-loop-5020)
 - [Dev.to/JS] [Create React App - Mind Map. Part 7 of 10: Chart](https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-chart-1cbf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 3 Automation Testing Tools for 2022](https://dev.to/dheeyankapriya/top-3-automation-testing-tools-for-2022-1dpe)
 - [Dev.to/JS] [Project 91 of 100 - Build a Grocery List in React Native with &lt;FlatList /&gt;](https://dev.to/jwhubert91/project-91-of-100-build-a-grocery-list-in-react-native-with-18n1)
 - [Dev.to/JS] [How to update PHP in WordPress?](https://dev.to/aashiya123/how-to-update-php-in-wordpress-5cnc)
-- [Dev.to/JS] [My first challenge : 100 Days of Code](https://dev.to/blackthor/my-first-challenge-100-days-of-code-jg9)
-- [Dev.to/JS] [WebDev Help](https://dev.to/azlan_syed/webdev-help-4813)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
