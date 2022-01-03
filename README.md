@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a React tree view component.](https://dev.to/taiwobello/how-to-create-a-react-tree-view-component-3ch2)
+- [Dev.to/JS] [How to create usable and maintainable npm packages](https://dev.to/yakovlev_alexey/how-to-create-usable-and-maintainable-npm-packages-4m53)
+- [Dev.to/JS] [How To Customize Super Tokens APIs.](https://dev.to/tyaga001/how-to-customize-super-tokens-apis-1gm6)
 - [Dev.to/JS] [Quasar admin CRM with Quasar 2!](https://dev.to/mayank091193/quasar-admin-crm-with-quasar-2-5c78)
 - [Dev.to/JS] [Let&#39;s Build a Final Fantasy Style Browser Game With rpg.js! – Episode 1](https://dev.to/timo_ernst/lets-build-a-final-fantasy-style-browser-game-with-rpgjs-episode-1-2588)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💋.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-37og)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Secure your NodeJs Express JavaScript Application - part 1](https://dev.to/smartscanner/how-to-secure-your-nodejs-express-javascript-application-part-1-4l26)
 - [Dev.to/JS] [Discord.js v13 Command Handler &lpar;Slash Cmds and Legacy Cmds&rpar;](https://dev.to/edwinsanjo/discordjs-v13-command-handler-slash-cmds-and-legacy-cmds-3831)
 - [Dev.to/JS] [Basics of Redux Toolkit](https://dev.to/javascriptcentric/basics-of-redux-toolkit-a28)
-- [Dev.to/JS] [How to start a software business and make money with your skills](https://dev.to/diegooliveirasanchez/how-to-start-a-software-business-and-make-money-with-your-skills-195e)
-- [Dev.to/JS] [Asynchronous loops in Javascript - using forEach vs map vs for loop](https://dev.to/anshuman_bhardwaj/asynchronous-loops-in-javascript-using-foreach-vs-map-vs-for-loop-5020)
-- [Dev.to/JS] [Create React App - Mind Map. Part 7 of 10: Chart](https://dev.to/101samovar/create-react-app-mind-map-part-6-of-10-chart-1cbf)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
