@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Error: Parcel Won&#39;t Stop Rebuilding in Dev Mode](https://dev.to/dani8439/error-parcel-wont-stop-rebuilding-in-dev-mode-226)
+- [Dev.to/JS] [Some of the highlights of Ant Media in 2021](https://dev.to/hamitdemir/some-of-the-highlights-of-ant-media-in-2021-4659)
+- [Dev.to/JS] [How Much Money I Made in 2021](https://dev.to/the_greatbonnie/how-much-money-i-made-in-2021-4lo3)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Dev.to/JS] [Baloonza IT newsletters weekly digest #18](https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-18-1ib)
 - [Dev.to/JS] [Say Bye About Hoisting Concept](https://dev.to/mahin678/say-bye-about-hoisting-concept-53a3)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
 - [Lifehacker] [How to Force Bulbs Indoors During the Winter](https://lifehacker.com/how-to-force-bulbs-indoors-during-the-winter-1848295110)
 - [Dev.to/JS] [Managing the Costs of JavaScript Frameworks: Is it Really that Bad?](https://dev.to/jignesh_simform/managing-the-costs-of-javascript-frameworks-is-it-really-that-bad-34oh)
-- [Dev.to/JS] [Create React App | Day 4](https://dev.to/developerioweb/create-react-app-day-4-2ldh)
-- [Dev.to/JS] [Keyfessor](https://dev.to/mfimia/keyfessor-4pkb)
-- [Dev.to/JS] [Hybrid App Development: Comparison among React Native, Ionic and Flutter](https://dev.to/shivams136/hybrid-app-development-comparison-among-react-native-ionic-and-flutter-1lb)
 - [Lifehacker] [How to Force Restart a Frozen Apple Watch](https://lifehacker.com/how-to-force-restart-a-frozen-apple-watch-1848275654)
 - [Lifehacker] [How to Beat the Post-Holiday Blues](https://lifehacker.com/how-to-beat-the-post-holiday-blues-1848260673)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Types of Flooring If You Have a Dog](https://lifehacker.com/the-best-and-worst-types-of-flooring-if-you-have-a-do-1848295122)
