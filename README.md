@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[week1] Days 1](https://dev.to/blackthor/week1-days-1-49fj)
+- [Dev.to/JS] [Cashing out from web development - React](https://dev.to/sam_lukaa/cashing-out-from-web-development-react-4gpo)
+- [Dev.to/JS] [How To: Build A Linked List in JavaScript](https://dev.to/am20dipi/how-to-build-a-linked-list-in-javascript-4kn1)
 - [Dev.to/JS] [JavaScript Error: Parcel Won&#39;t Stop Rebuilding in Dev Mode](https://dev.to/dani8439/error-parcel-wont-stop-rebuilding-in-dev-mode-226)
 - [Dev.to/JS] [Some of the highlights of Ant Media in 2021](https://dev.to/hamitdemir/some-of-the-highlights-of-ant-media-in-2021-4659)
 - [Dev.to/JS] [How Much Money I Made in 2021](https://dev.to/the_greatbonnie/how-much-money-i-made-in-2021-4lo3)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#01&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-01-29bi)
 - [Dev.to/JS] [A Brief Introduction to Hotwire](https://dev.to/software_writer/a-brief-introduction-to-hotwire-5fja)
-- [Dev.to/JS] [Create New Project Using NPM package](https://dev.to/maithanhdanh/create-new-project-using-npm-package-1cgf)
-- [Dev.to/JS] [DevObserver - App You Should Have!](https://dev.to/iamfrntdv/devobserver-app-you-should-have-this-app-3df0)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
 - [Lifehacker] [How to Force Bulbs Indoors During the Winter](https://lifehacker.com/how-to-force-bulbs-indoors-during-the-winter-1848295110)
-- [Dev.to/JS] [Managing the Costs of JavaScript Frameworks: Is it Really that Bad?](https://dev.to/jignesh_simform/managing-the-costs-of-javascript-frameworks-is-it-really-that-bad-34oh)
 - [Lifehacker] [How to Force Restart a Frozen Apple Watch](https://lifehacker.com/how-to-force-restart-a-frozen-apple-watch-1848275654)
 - [Lifehacker] [How to Beat the Post-Holiday Blues](https://lifehacker.com/how-to-beat-the-post-holiday-blues-1848260673)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Types of Flooring If You Have a Dog](https://lifehacker.com/the-best-and-worst-types-of-flooring-if-you-have-a-do-1848295122)
