@@ -23,22 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [React](https://dev.to/seerarama/react-2efg)
+- [Dev.to/JS] [Render a pdf in react app](https://dev.to/aishanipach/render-a-pdf-in-react-app-3aeo)
+- [Dev.to/JS] [🙌 How to get rid of vulnerabilities with just NPM 👀](https://dev.to/luisvonmuller/how-to-auto-fix-vulnerabilities-with-npm-47fa)
+- [Dev.to/JS] [Delete data from IndexedDB](https://dev.to/pandresdev/delete-data-from-indexeddb-3231)
+- [Dev.to/JS] [Add data to IndexedDB](https://dev.to/pandresdev/add-data-to-indexeddb-4e6o)
+- [Lifehacker] [How to Stop Wasting Your Gift Cards](https://lifehacker.com/how-to-stop-wasting-your-gift-cards-1848300565)
 - [Dev.to/JS] [Create a database with IndexedBD](https://dev.to/pandresdev/create-a-database-with-indexedbd-1f1j)
 - [Dev.to/JS] [¿Por qué  jQuery no ha muerto? 🤔](https://dev.to/danpadilla/por-que-jquery-no-ha-muerto-2f1f)
-- [Dev.to/JS] [6+ Next JS Template Tailwind CSS for 2022](https://dev.to/ixartz/6-next-js-template-tailwind-css-for-2022-2069)
+- [Dev.to/JS] [6+ Next JS Templates Tailwind CSS for 2022](https://dev.to/ixartz/6-next-js-template-tailwind-css-for-2022-2069)
 - [Lifehacker] [Chrome 97 Can Erase Stored Data on Every Website You Visit](https://lifehacker.com/chrome-97-can-erase-stored-data-on-every-website-you-vi-1848300443)
 - [Dev.to/JS] [0.12 Migration Notes](https://dev.to/appwrite/appwrite-012-migration-post-3cha)
-- [Dev.to/JS] [WHY IS A CUSTOM SOFTWARE SOLUTION THE BEST OPTION FOR FINTECH DEVELOPMENT?](https://dev.to/upplabs/why-is-a-custom-software-solution-the-best-option-for-fintech-development-34hk)
 - [Dev.to/JS] [Build Test Report Dashboard using MERN stack](https://dev.to/akshayca/build-test-report-dashboard-using-mern-stack-29c)
 - [Lifehacker] [Stop Wearing Cloth Masks](https://lifehacker.com/stop-wearing-cloth-masks-1848300414)
 - [Dev.to/JS] [How to use .map&lpar;&rpar; in javascript? React](https://dev.to/lausuarez02/how-to-use-map-in-javascript-react-clo)
 - [Lifehacker] [9 Ways to Make Your &#39;Dry January&#39; a Lot Less Grim &lpar;Aside From Giving Up&rpar;](https://lifehacker.com/9-ways-to-make-dry-january-less-grim-1846045392)
 - [Dev.to/JS] [IndexedDB: Step by step](https://dev.to/pandresdev/indexeddb-step-by-step-2475)
 - [Dev.to/JS] [Our favorite javascript one-liners](https://dev.to/everlyhealth/our-favorite-javascript-one-liners-3l7n)
-- [Dev.to/JS] [How to Create A Beautiful Navbar Using NEXTJS &amp; Tailwind CSS like STRIPE.COM.](https://dev.to/unshift/how-to-create-a-beautiful-navbar-using-nextjs-tailwind-css-like-stripecom-33le)
 - [Lifehacker] [10 of the Best Long-Awaited Sequels That Aren’t ‘The Matrix Resurrections’](https://lifehacker.com/10-of-the-best-long-awaited-sequels-that-aren-t-the-ma-1848284228)
-- [Dev.to/JS] [Host a NodeJS app with Firebase Functions](https://dev.to/lachouri/host-a-nodejs-app-with-firebase-functions-lgg)
 - [Lifehacker] [12 of the Best Satirical Movies That Aren&#39;t &#39;Don&#39;t Look Up&#39;](https://lifehacker.com/12-of-the-best-satirical-movies-that-arent-dont-look-up-1848288972)
 - [Lifehacker] [How to Unclog a Toilet With a Garbage Bag](https://lifehacker.com/how-to-unclog-a-toilet-with-a-garbage-bag-1848286627)
 - [Lifehacker] [The Basic Used Essentials That Every Shed Should Have](https://lifehacker.com/the-basic-used-essentials-that-every-shed-should-have-1848218210)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
 - [Lifehacker] [How to Keep an Outdoor Faucet or Spigot From Freezing](https://lifehacker.com/how-to-keep-an-outdoor-faucet-or-spigot-from-freezing-1848289562)
 - [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
-- [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
