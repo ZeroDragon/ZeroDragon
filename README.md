@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GroGenix XL Reviews &lpar;Scam or Legit&rpar; - Does GroGenix XL Really Work?](https://dev.to/grogenixxlreviews/grogenix-xl-reviews-scam-or-legit-does-grogenix-xl-really-work-po3)
 - [Dev.to/JS] [CMD tricks](https://dev.to/i_am_empty/cmd-tricks-44gp)
 - [Dev.to/JS] [Dark Mode Using React](https://dev.to/lrth06/dark-mode-using-react-279p)
 - [Dev.to/JS] [¿Cómo configurar las posiciones en MGPanel al momento de crear un sitio web?](https://dev.to/eloymanuelch/como-configurar-las-posiciones-en-mgpanel-al-momento-de-crear-un-sitio-web-3ah0)
@@ -35,7 +36,6 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/5-people-in-the-bus-c
 - [Dev.to/JS] [Monorepos and Workspaces - an introduction](https://dev.to/bmpickford/monorepos-and-workspaces-an-introduction-59l6)
 - [Dev.to/JS] [Eliminando datos de la BD](https://dev.to/pandresdev/eliminando-datos-de-la-bd-3lk)
 - [Dev.to/JS] [Agregando datos a la BD](https://dev.to/pandresdev/agregando-datos-a-la-bd-1386)
-- [Dev.to/JS] [Crear una base de datos con IndexedBD](https://dev.to/pandresdev/crear-una-base-de-datos-con-indexedbd-2f97)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
