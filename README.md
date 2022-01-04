@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 of the Best Satirical Movies That Aren&#39;t &#39;Don&#39;t Look Up&#39;](https://lifehacker.com/12-of-the-best-satirical-movies-that-arent-dont-look-up-1848288972)
+- [Dev.to/JS] [Create a Simple 🤓 yet Powerful 🚀 Server with Python 🐍](https://dev.to/rajeshj3/create-a-simple-yet-powerful-server-with-python-2pkp)
+- [Dev.to/JS] [Build a Twitter Followers Counter using Next.js, NextAuth and Tailwind](https://dev.to/nilanth/build-a-twitter-followers-counter-using-nextjs-nextauth-and-tailwind-58po)
+- [Dev.to/JS] [Stubs vs Mocks in JS](https://dev.to/cerchie/stubs-vs-mocks-in-js-3fp2)
+- [Lifehacker] [How to Unclog a Toilet With a Garbage Bag](https://lifehacker.com/how-to-unclog-a-toilet-with-a-garbage-bag-1848286627)
+- [Dev.to/JS] [Solidity Basics for JavaScript Devs Part 3](https://dev.to/fllstck/solidity-basics-for-javascript-devs-part-3-585)
+- [Dev.to/JS] [Using Array.reduce With Objects](https://dev.to/redbit/using-arrayreduce-with-objects-50jp)
 - [Dev.to/JS] [Are you using Array.map correctly?](https://dev.to/redbit/are-you-using-arraymap-correctly-716)
 - [Lifehacker] [The Basic Used Essentials That Every Shed Should Have](https://lifehacker.com/the-basic-used-essentials-that-every-shed-should-have-1848218210)
 - [Dev.to/JS] [References vs Values in JavaScript](https://dev.to/vaishnav/references-vs-values-in-javascript-5bgo)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wrapping up 2021 and what&#39;s in store for 2022](https://dev.to/medusajs/wrapping-up-2021-and-whats-in-store-for-2022-22i5)
 - [Dev.to/JS] [Implementing Infinite scroll using NextJS, Prima, and React-Query](https://dev.to/sairaj2119/implementing-infinite-scroll-using-nextjs-prima-and-react-query-4om0)
 - [Dev.to/JS] [Hello Post](https://dev.to/programingschool/hello-post-26g1)
-- [Dev.to/JS] [How to build a CLI using NodeJS 💻](https://dev.to/kira272921/how-to-build-a-cli-using-nodejs-4bl2)
-- [Dev.to/JS] [Day 70 of 100 Days of Code &amp; Scrum: Polishing My Company Website](https://dev.to/rammina/day-70-of-100-days-of-code-scrum-polishing-my-company-website-28o6)
-- [Dev.to/JS] [Leetcode diary: 1561 -  Maximum Number of Coins You Can Get](https://dev.to/kevin074/leetcode-diary-1561-maximum-number-of-coins-you-can-get-2ji5)
-- [Dev.to/JS] [Why you should learn JavaScript and Python in 2022](https://dev.to/andrewbaisden/why-you-should-learn-javascript-and-python-in-2022-3719)
-- [Dev.to/JS] [Create beautiful highlights cover for Instagram](https://dev.to/coverhighlights/create-beautiful-highlights-cover-for-instagram-18ne)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean a Ceiling Fan &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-clean-a-ceiling-fan-and-why-its-important-1848288165)
 - [Lifehacker] [62 &lpar;Yes, 62&rpar; of Our Favorite iPhone Hacks and Explainers of 2021](https://lifehacker.com/62-yes-62-of-our-favorite-iphone-hacks-and-explainer-1848260080)
 - [Lifehacker] [10 of the Best Ways We hacked Each Others&#39; Lives in 2021](https://lifehacker.com/10-of-the-best-ways-we-hacked-each-others-lives-in-2021-1848264584)
-- [Lifehacker] [How to Watch New Year&#39;s Eve Celebrations Around the World, If You&#39;re Bored of the Ball Drop](https://lifehacker.com/how-to-watch-new-years-eve-celebrations-around-the-worl-1848288156)
-- [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
