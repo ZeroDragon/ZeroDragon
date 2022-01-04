@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Are you using Array.map correctly?](https://dev.to/redbit/are-you-using-arraymap-correctly-716)
+- [Lifehacker] [The Basic Used Essentials That Every Shed Should Have](https://lifehacker.com/the-basic-used-essentials-that-every-shed-should-have-1848218210)
+- [Dev.to/JS] [References vs Values in JavaScript](https://dev.to/vaishnav/references-vs-values-in-javascript-5bgo)
+- [Dev.to/JS] [React Function Components: Testable Code Patterns](https://dev.to/redbit/react-function-components-testable-code-patterns-3c61)
+- [Lifehacker] [The First Thing You Should Do When You Get a New Guitar](https://lifehacker.com/the-first-thing-you-should-do-when-you-get-a-new-guitar-1848277732)
 - [Dev.to/JS] [Tensorflow.js for beginners - image classification](https://dev.to/mohsenkamrani/tensorflowjs-for-beginners-image-classification-4aaj)
+- [Lifehacker] [Start Your Year With This Deep, Sensual Freezer Reorganization](https://lifehacker.com/start-your-year-with-this-deep-sensual-freezer-reorgan-1848292095)
 - [Dev.to/JS] [Wrapping up 2021 and what&#39;s in store for 2022](https://dev.to/medusajs/wrapping-up-2021-and-whats-in-store-for-2022-22i5)
 - [Dev.to/JS] [Implementing Infinite scroll using NextJS, Prima, and React-Query](https://dev.to/sairaj2119/implementing-infinite-scroll-using-nextjs-prima-and-react-query-4om0)
 - [Dev.to/JS] [Hello Post](https://dev.to/programingschool/hello-post-26g1)
@@ -32,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leetcode diary: 1561 -  Maximum Number of Coins You Can Get](https://dev.to/kevin074/leetcode-diary-1561-maximum-number-of-coins-you-can-get-2ji5)
 - [Dev.to/JS] [Why you should learn JavaScript and Python in 2022](https://dev.to/andrewbaisden/why-you-should-learn-javascript-and-python-in-2022-3719)
 - [Dev.to/JS] [Create beautiful highlights cover for Instagram](https://dev.to/coverhighlights/create-beautiful-highlights-cover-for-instagram-18ne)
-- [Dev.to/JS] [How Does JavaScript Even Work? Things Which 90% of JavaScript Developers Don&#39;t Know! &lpar;Part 1&rpar;](https://dev.to/saiteja13427/how-does-javascript-even-work-things-which-90-of-javascript-developers-dont-know-part-1-145b)
-- [Dev.to/JS] [Using the Cloud DB JavaScript Server SDK in Cloud Functions](https://dev.to/devwithzachary/using-the-cloud-db-javascript-server-sdk-in-cloud-functions-5b2i)
-- [Dev.to/JS] [Portfolio template using React](https://dev.to/saverio683/portfolio-template-using-react-10n8)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Ways We hacked Each Others&#39; Lives in 2021](https://lifehacker.com/10-of-the-best-ways-we-hacked-each-others-lives-in-2021-1848264584)
 - [Lifehacker] [How to Watch New Year&#39;s Eve Celebrations Around the World, If You&#39;re Bored of the Ball Drop](https://lifehacker.com/how-to-watch-new-years-eve-celebrations-around-the-worl-1848288156)
 - [Lifehacker] [13 of the Best TV Show Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/13-of-the-best-tv-show-episodes-of-2021-according-to-t-1848255534)
-- [Lifehacker] [9 Things to Avoid Unless You Want to Be &#39;That Person&#39; at the Gym](https://lifehacker.com/9-things-to-avoid-unless-you-want-to-be-that-person-at-1848213192)
-- [Lifehacker] [10 of Our Best Pieces of Workout Etiquette Advice of 2021](https://lifehacker.com/10-of-our-best-pieces-of-workout-etiquette-advice-of-20-1848175214)
-- [Lifehacker] [Our 13 Most Motivating Fitness Posts of 2021](https://lifehacker.com/our-13-most-motivating-fitness-posts-of-2021-1848180023)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
