@@ -23,19 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Viewsad Paperless Branding and promotion](https://dev.to/viewsad9/viewsad-paperless-branding-and-promotion-42l2)
+- [Dev.to/JS] [React Table Server Side Pagination with Sorting and Search Filters](https://dev.to/inimist/react-table-server-side-pagination-with-sorting-and-search-3163)
+- [Dev.to/JS] [What is the Role of Asp.net in Web Development?](https://dev.to/bhaviksadhu/what-is-the-role-of-aspnet-in-web-development-398m)
+- [Dev.to/JS] [would like to render the infoPage.js when the user clicks to handleClick function in react. Help Appreciated?](https://dev.to/amrit853200/would-like-to-render-the-infopagejs-when-the-user-clicks-to-handleclick-function-in-react-help-appreciated-h42)
+- [Dev.to/JS] [shadow box](https://dev.to/anwarmalik007/shadow-box-4j38)
+- [Dev.to/JS] [Cryptocurrency Exchange Script | White Label Bitcoin Exchange Script](https://dev.to/appticz/cryptocurrency-exchange-script-white-label-bitcoin-exchange-script-30p8)
 - [Dev.to/JS] [GroGenix XL Reviews &lpar;Scam or Legit&rpar; - Does GroGenix XL Really Work?](https://dev.to/grogenixxlreviews/grogenix-xl-reviews-scam-or-legit-does-grogenix-xl-really-work-po3)
 - [Dev.to/JS] [CMD tricks](https://dev.to/i_am_empty/cmd-tricks-44gp)
 - [Dev.to/JS] [Dark Mode Using React](https://dev.to/lrth06/dark-mode-using-react-279p)
 - [Dev.to/JS] [¿Cómo configurar las posiciones en MGPanel al momento de crear un sitio web?](https://dev.to/eloymanuelch/como-configurar-las-posiciones-en-mgpanel-al-momento-de-crear-un-sitio-web-3ah0)
 - [Dev.to/JS] [Bitwise Operations](https://dev.to/badams92/bitwise-operations-1ad0)
 - [Dev.to/JS] [Frontend com KVision](https://dev.to/kotlinautas/frontend-com-kvision-2p0d)
-- [Dev.to/JS] [Actualizando datos de la BD](https://dev.to/pandresdev/actualizando-datos-de-la-bd-121h)
-- [Dev.to/JS] [Obtener datos de la BD](https://dev.to/pandresdev/obtener-datos-de-la-bd-2e16)
-- [Dev.to/JS] [#5 - People in the Bus                    
-CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/5-people-in-the-bus-codewars-kata-6-kyu-5bl8)
-- [Dev.to/JS] [Monorepos and Workspaces - an introduction](https://dev.to/bmpickford/monorepos-and-workspaces-an-introduction-59l6)
-- [Dev.to/JS] [Eliminando datos de la BD](https://dev.to/pandresdev/eliminando-datos-de-la-bd-3lk)
-- [Dev.to/JS] [Agregando datos a la BD](https://dev.to/pandresdev/agregando-datos-a-la-bd-1386)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
