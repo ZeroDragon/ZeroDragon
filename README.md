@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy way two double values in Array](https://dev.to/snowbit/easy-way-two-double-values-in-array-43pk)
+- [Dev.to/JS] [Leetcode diary: 1561 -  Maximum Number of Coins You Can Get](https://dev.to/kevin074/leetcode-diary-1561-maximum-number-of-coins-you-can-get-2ji5)
+- [Dev.to/JS] [Why you should learn JavaScript and Python in 2022](https://dev.to/andrewbaisden/why-you-should-learn-javascript-and-python-in-2022-3719)
+- [Dev.to/JS] [Create beautiful highlights cover for Instagram](https://dev.to/coverhighlights/create-beautiful-highlights-cover-for-instagram-18ne)
+- [Dev.to/JS] [How Does JavaScript Even Work? Things Which 90% of JavaScript Developers Don&#39;t Know! &lpar;Part 1&rpar;](https://dev.to/saiteja13427/how-does-javascript-even-work-things-which-90-of-javascript-developers-dont-know-part-1-145b)
 - [Dev.to/JS] [Using the Cloud DB JavaScript Server SDK in Cloud Functions](https://dev.to/devwithzachary/using-the-cloud-db-javascript-server-sdk-in-cloud-functions-5b2i)
 - [Dev.to/JS] [Portfolio template using React](https://dev.to/saverio683/portfolio-template-using-react-10n8)
 - [Dev.to/JS] [Best React UI Framework?](https://dev.to/tuncayofficial/best-react-ui-framework-57on)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closure in JavaScript](https://dev.to/rakesh_patel/closure-in-javascript-5gmc)
 - [Dev.to/JS] [Create React App - Mind Map. Part 8 of 10: Next Level](https://dev.to/101samovar/create-react-app-mind-map-part-8-of-10-next-level-4mlp)
 - [Dev.to/JS] [Understanding toFixed and toPrecision number methods in Javascript](https://dev.to/sairaj2119/understanding-tofixed-and-toprecision-number-methods-in-javascript-2m1l)
-- [Dev.to/JS] [Day 69 of 100 Days of Code &amp; Scrum: I&#39;m Now a Professional Scrumbag!](https://dev.to/rammina/day-69-of-100-days-of-code-scrum-im-now-a-professional-scrumbag-220j)
-- [Dev.to/JS] [Alpine.js simple counter](https://dev.to/mohsenkamrani/alpinejs-simple-counter-28li)
-- [Dev.to/JS] [5 cool JavaScript features that most developers don&#39;t know about](https://dev.to/ra1nbow1/5-cool-javascript-features-that-most-developers-dont-know-about-5b7f)
-- [Dev.to/JS] [Leetcode diary: 1630 - Arithmetic Subarrays](https://dev.to/kevin074/leetcode-diary-1630-arithmetic-subarrays-ghp)
-- [Dev.to/JS] [Angular - Working with components hierarchy](https://dev.to/josec/angular-working-with-components-hierarchy-54mp)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
