@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MERN developers to create a random project for the portfolio.](https://dev.to/carelessasado/mern-developers-to-create-a-random-project-for-the-portfolio-4k0e)
+- [Lifehacker] [How Understanding &#39;Density&#39; Can Help You Avoid Overtraining](https://lifehacker.com/how-understanding-density-can-help-you-avoid-overtraini-1848265299)
+- [Dev.to/JS] [Shout out to next-auth](https://dev.to/larsonnn/shout-out-to-next-auth-25b5)
+- [Dev.to/JS] [Callback Function](https://dev.to/mahin678/callback-function-2245)
+- [Dev.to/JS] [Update data from IndexedDB](https://dev.to/pandresdev/update-data-from-indexeddb-31pb)
+- [Lifehacker] [Other Foods You Should Dry in a Salad Spinner](https://lifehacker.com/other-foods-you-should-dry-in-a-salad-spinner-1848301307)
+- [Dev.to/JS] [Get data from IndexedDB](https://dev.to/pandresdev/get-data-from-indexeddb-7hg)
 - [Dev.to/JS] [Render a pdf in react app](https://dev.to/aishanipach/render-a-pdf-in-react-app-3aeo)
 - [Dev.to/JS] [🙌 How to get rid of vulnerabilities with just NPM 👀](https://dev.to/luisvonmuller/how-to-auto-fix-vulnerabilities-with-npm-47fa)
 - [Dev.to/JS] [Delete data from IndexedDB](https://dev.to/pandresdev/delete-data-from-indexeddb-3231)
@@ -32,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [¿Por qué  jQuery no ha muerto? 🤔](https://dev.to/danpadilla/por-que-jquery-no-ha-muerto-2f1f)
 - [Dev.to/JS] [6+ Next JS Templates Tailwind CSS for 2022](https://dev.to/ixartz/6-next-js-template-tailwind-css-for-2022-2069)
 - [Lifehacker] [Chrome 97 Can Erase Stored Data on Every Website You Visit](https://lifehacker.com/chrome-97-can-erase-stored-data-on-every-website-you-vi-1848300443)
-- [Dev.to/JS] [0.12 Migration Notes](https://dev.to/appwrite/appwrite-012-migration-post-3cha)
-- [Dev.to/JS] [Build Test Report Dashboard using MERN stack](https://dev.to/akshayca/build-test-report-dashboard-using-mern-stack-29c)
 - [Lifehacker] [Stop Wearing Cloth Masks](https://lifehacker.com/stop-wearing-cloth-masks-1848300414)
-- [Dev.to/JS] [How to use .map&lpar;&rpar; in javascript? React](https://dev.to/lausuarez02/how-to-use-map-in-javascript-react-clo)
 - [Lifehacker] [9 Ways to Make Your &#39;Dry January&#39; a Lot Less Grim &lpar;Aside From Giving Up&rpar;](https://lifehacker.com/9-ways-to-make-dry-january-less-grim-1846045392)
-- [Dev.to/JS] [IndexedDB: Step by step](https://dev.to/pandresdev/indexeddb-step-by-step-2475)
-- [Dev.to/JS] [Our favorite javascript one-liners](https://dev.to/everlyhealth/our-favorite-javascript-one-liners-3l7n)
 - [Lifehacker] [10 of the Best Long-Awaited Sequels That Aren’t ‘The Matrix Resurrections’](https://lifehacker.com/10-of-the-best-long-awaited-sequels-that-aren-t-the-ma-1848284228)
 - [Lifehacker] [12 of the Best Satirical Movies That Aren&#39;t &#39;Don&#39;t Look Up&#39;](https://lifehacker.com/12-of-the-best-satirical-movies-that-arent-dont-look-up-1848288972)
 - [Lifehacker] [How to Unclog a Toilet With a Garbage Bag](https://lifehacker.com/how-to-unclog-a-toilet-with-a-garbage-bag-1848286627)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Free Printable Spice Jar Labels to Keep Your Kitchen Organized](https://lifehacker.com/use-these-free-printable-spice-jar-labels-to-keep-your-1848291030)
 - [Lifehacker] [The Difference Between Curtains and Drapes](https://lifehacker.com/the-difference-between-curtains-and-drapes-and-why-it-1848291024)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
-- [Lifehacker] [How to Keep an Outdoor Faucet or Spigot From Freezing](https://lifehacker.com/how-to-keep-an-outdoor-faucet-or-spigot-from-freezing-1848289562)
-- [Lifehacker] [How to Fix a Sagging Mattress When Replacing It Isn&#39;t an Option](https://lifehacker.com/how-to-fix-a-sagging-mattress-when-replacing-it-isnt-an-1848289369)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
