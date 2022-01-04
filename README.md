@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Actualizando datos de la BD](https://dev.to/pandresdev/actualizando-datos-de-la-bd-121h)
+- [Dev.to/JS] [Obtener datos de la BD](https://dev.to/pandresdev/obtener-datos-de-la-bd-2e16)
+- [Dev.to/JS] [#5 - People in the Bus                    
+CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/5-people-in-the-bus-codewars-kata-6-kyu-5bl8)
+- [Dev.to/JS] [Monorepos and Workspaces - an introduction](https://dev.to/bmpickford/monorepos-and-workspaces-an-introduction-59l6)
 - [Dev.to/JS] [Eliminando datos de la BD](https://dev.to/pandresdev/eliminando-datos-de-la-bd-3lk)
 - [Dev.to/JS] [Agregando datos a la BD](https://dev.to/pandresdev/agregando-datos-a-la-bd-1386)
 - [Dev.to/JS] [Crear una base de datos con IndexedBD](https://dev.to/pandresdev/crear-una-base-de-datos-con-indexedbd-2f97)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 Most Popular JavaScript Frameworks for 2022](https://dev.to/virendebro/top-10-most-popular-javascript-frameworks-for-2022-51b5)
 - [Dev.to/JS] [Testing Interactions with other Smart Contracts](https://dev.to/focusedlabs/testing-interactions-with-other-smart-contracts-2m7c)
 - [Dev.to/JS] [I created a blog post from a photo. Here is how...](https://dev.to/gokhandemirhan/i-created-a-blog-post-from-a-photo-here-is-how-23pb)
-- [Dev.to/JS] [Visual Explanation and Comparison of CSR, SSR, SSG and ISR](https://dev.to/pahanperera/visual-explanation-and-comparison-of-csr-ssr-ssg-and-isr-34ea)
-- [Dev.to/JS] [I created SmartContract UI - A quick and easy way to interact with blockchain&#39;s data](https://dev.to/martinpham/i-created-smartcontract-ui-a-quick-and-easy-way-to-interact-with-blockchains-data-2ihb)
-- [Dev.to/JS] [Advanced JavaScript Series - Part 1: Execution Context and Call Stack](https://dev.to/pranav016/advanced-javascript-series-part-1-execution-context-and-call-stack-l1o)
-- [Dev.to/JS] [On-Chain SVG Generation - Part 1](https://dev.to/0xmojo7/on-chain-svg-generation-part-1-2678)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
