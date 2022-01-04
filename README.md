@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introdução ao Redux](https://dev.to/gabrielhsilvestre/introducao-ao-redux-2l02)
+- [Dev.to/JS] [Redux com React](https://dev.to/gabrielhsilvestre/redux-com-react-3m8n)
+- [Dev.to/JS] [Scraping Instagram in 2022](https://dev.to/socialscrape/scraping-instagram-in-2022-d6l)
+- [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
+- [Dev.to/JS] [must use vs code extensions for JavaScript Developers 2022](https://dev.to/kumarkalyan/must-use-vs-code-extensions-for-javascript-developers-2022-56bm)
+- [Dev.to/JS] [[week1] Days 2  - Regex  !](https://dev.to/blackthor/week1-days-2-regex--4kjk)
+- [Dev.to/JS] [A Comprehensive Guide To Error Handling In Node.js](https://dev.to/honeybadger/a-comprehensive-guide-to-error-handling-in-nodejs-15cn)
 - [Dev.to/JS] [5 ways of creating an Array in JavaScript](https://dev.to/marcostl/5-ways-of-creating-an-array-in-javascript-hk9)
 - [Dev.to/JS] [Creating A Hash Table](https://dev.to/davidnnussbaum/creating-a-hash-table-50hl)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
@@ -31,14 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
 - [Dev.to/JS] [JavaScript preventDefault&lpar;&rpar; - Does it work as its name suggests?](https://dev.to/mkday/javascript-preventdefault-does-it-work-as-its-name-suggests-gen)
 - [Dev.to/JS] [Checkout my new Portfolio Page](https://dev.to/rajesh6161/checkout-my-new-portfolio-page-4a63)
-- [Dev.to/JS] [MERN developers to create a random project for the portfolio.](https://dev.to/carelessasado/mern-developers-to-create-a-random-project-for-the-portfolio-4k0e)
 - [Lifehacker] [How Understanding &#39;Density&#39; Can Help You Avoid Overtraining](https://lifehacker.com/how-understanding-density-can-help-you-avoid-overtraini-1848265299)
-- [Dev.to/JS] [Shout out to next-auth](https://dev.to/larsonnn/shout-out-to-next-auth-25b5)
-- [Dev.to/JS] [Callback Function](https://dev.to/mahin678/callback-function-2245)
-- [Dev.to/JS] [Update data from IndexedDB](https://dev.to/pandresdev/update-data-from-indexeddb-31pb)
 - [Lifehacker] [Other Foods You Should Dry in a Salad Spinner](https://lifehacker.com/other-foods-you-should-dry-in-a-salad-spinner-1848301307)
-- [Dev.to/JS] [Get data from IndexedDB](https://dev.to/pandresdev/get-data-from-indexeddb-7hg)
-- [Dev.to/JS] [Render a pdf in react app](https://dev.to/aishanipach/render-a-pdf-in-react-app-3aeo)
 - [Lifehacker] [How to Stop Wasting Your Gift Cards](https://lifehacker.com/how-to-stop-wasting-your-gift-cards-1848300565)
 - [Lifehacker] [Chrome 97 Can Erase Stored Data on Every Website You Visit](https://lifehacker.com/chrome-97-can-erase-stored-data-on-every-website-you-vi-1848300443)
 - [Lifehacker] [Stop Wearing Cloth Masks](https://lifehacker.com/stop-wearing-cloth-masks-1848300414)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 of the Best ‘Hangout’ Movies to Help You Chill the Hell Out](https://lifehacker.com/20-of-the-best-hangout-movies-to-help-you-chill-the-h-1848242867)
 - [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
 - [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
-- [Lifehacker] [How to Use Muriatic Acid Safely &lpar;and Where You Should&rpar;](https://lifehacker.com/how-to-use-muriatic-acid-safely-and-where-you-should-1848293239)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
