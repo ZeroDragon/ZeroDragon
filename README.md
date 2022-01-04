@@ -23,8 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Ways to Make Your &#39;Dry January&#39; a Lot Less Grim &lpar;Aside From Giving Up&rpar;](https://lifehacker.com/9-ways-to-make-dry-january-less-grim-1846045392)
+- [Dev.to/JS] [IndexedDB: Step by step](https://dev.to/pandresdev/indexeddb-step-by-step-2475)
+- [Dev.to/JS] [Our favorite javascript one-liners](https://dev.to/everlyhealth/our-favorite-javascript-one-liners-3l7n)
+- [Dev.to/JS] [How to Create A Beautiful Navbar Using NEXTJS &amp; Tailwind CSS like STRIPE.COM.](https://dev.to/unshift/how-to-create-a-beautiful-navbar-using-nextjs-tailwind-css-like-stripecom-33le)
+- [Lifehacker] [10 of the Best Long-Awaited Sequels That Aren’t ‘The Matrix Resurrections’](https://lifehacker.com/10-of-the-best-long-awaited-sequels-that-aren-t-the-ma-1848284228)
+- [Dev.to/JS] [Host a NodeJS app with Firebase Functions](https://dev.to/lachouri/host-a-nodejs-app-with-firebase-functions-lgg)
+- [Dev.to/JS] [Tab Bar | Navigation Menu Bar | Phone  Navigation Tab bar Using - HTML, CSS](https://dev.to/sreeju7733/tab-bar-navigation-menu-bar-phone-navigation-tab-bar-using-html-css-1li4)
 - [Lifehacker] [12 of the Best Satirical Movies That Aren&#39;t &#39;Don&#39;t Look Up&#39;](https://lifehacker.com/12-of-the-best-satirical-movies-that-arent-dont-look-up-1848288972)
-- [Dev.to/JS] [Create a Simple 🤓 yet Powerful 🚀 Server with Python 🐍](https://dev.to/rajeshj3/create-a-simple-yet-powerful-server-with-python-2pkp)
+- [Dev.to/JS] [A Simple 🤓 yet Powerful 🚀 Server with Python 🐍](https://dev.to/rajeshj3/create-a-simple-yet-powerful-server-with-python-2pkp)
 - [Dev.to/JS] [Build a Twitter Followers Counter using Next.js, NextAuth and Tailwind](https://dev.to/nilanth/build-a-twitter-followers-counter-using-nextjs-nextauth-and-tailwind-58po)
 - [Dev.to/JS] [Stubs vs Mocks in JS](https://dev.to/cerchie/stubs-vs-mocks-in-js-3fp2)
 - [Lifehacker] [How to Unclog a Toilet With a Garbage Bag](https://lifehacker.com/how-to-unclog-a-toilet-with-a-garbage-bag-1848286627)
@@ -33,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Are you using Array.map correctly?](https://dev.to/redbit/are-you-using-arraymap-correctly-716)
 - [Lifehacker] [The Basic Used Essentials That Every Shed Should Have](https://lifehacker.com/the-basic-used-essentials-that-every-shed-should-have-1848218210)
 - [Dev.to/JS] [References vs Values in JavaScript](https://dev.to/vaishnav/references-vs-values-in-javascript-5bgo)
-- [Dev.to/JS] [React Function Components: Testable Code Patterns](https://dev.to/redbit/react-function-components-testable-code-patterns-3c61)
 - [Lifehacker] [The First Thing You Should Do When You Get a New Guitar](https://lifehacker.com/the-first-thing-you-should-do-when-you-get-a-new-guitar-1848277732)
-- [Dev.to/JS] [Tensorflow.js for beginners - image classification](https://dev.to/mohsenkamrani/tensorflowjs-for-beginners-image-classification-4aaj)
 - [Lifehacker] [Start Your Year With This Deep, Sensual Freezer Reorganization](https://lifehacker.com/start-your-year-with-this-deep-sensual-freezer-reorgan-1848292095)
-- [Dev.to/JS] [Wrapping up 2021 and what&#39;s in store for 2022](https://dev.to/medusajs/wrapping-up-2021-and-whats-in-store-for-2022-22i5)
-- [Dev.to/JS] [Implementing Infinite scroll using NextJS, Prima, and React-Query](https://dev.to/sairaj2119/implementing-infinite-scroll-using-nextjs-prima-and-react-query-4om0)
-- [Dev.to/JS] [Hello Post](https://dev.to/programingschool/hello-post-26g1)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Podcast Episodes of 2021, According to the Lifehacker Staff](https://lifehacker.com/10-of-the-best-podcast-episodes-of-2021-according-to-t-1848247320)
 - [Lifehacker] [9 Lessons We Learned From Lifehacker&#39;s 2021 Fitness Challenges](https://lifehacker.com/9-lessons-we-learned-from-lifehackers-2021-fitness-chal-1848221707)
 - [Lifehacker] [How to Clean a Ceiling Fan &lpar;and Why It&#39;s Important&rpar;](https://lifehacker.com/how-to-clean-a-ceiling-fan-and-why-its-important-1848288165)
-- [Lifehacker] [62 &lpar;Yes, 62&rpar; of Our Favorite iPhone Hacks and Explainers of 2021](https://lifehacker.com/62-yes-62-of-our-favorite-iphone-hacks-and-explainer-1848260080)
-- [Lifehacker] [10 of the Best Ways We hacked Each Others&#39; Lives in 2021](https://lifehacker.com/10-of-the-best-ways-we-hacked-each-others-lives-in-2021-1848264584)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
 
