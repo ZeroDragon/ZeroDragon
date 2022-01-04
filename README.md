@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tensorflow.js for beginners - image classification](https://dev.to/mohsenkamrani/tensorflowjs-for-beginners-image-classification-4aaj)
+- [Dev.to/JS] [Wrapping up 2021 and what&#39;s in store for 2022](https://dev.to/medusajs/wrapping-up-2021-and-whats-in-store-for-2022-22i5)
+- [Dev.to/JS] [Implementing Infinite scroll using NextJS, Prima, and React-Query](https://dev.to/sairaj2119/implementing-infinite-scroll-using-nextjs-prima-and-react-query-4om0)
+- [Dev.to/JS] [Hello Post](https://dev.to/programingschool/hello-post-26g1)
 - [Dev.to/JS] [How to build a CLI using NodeJS 💻](https://dev.to/kira272921/how-to-build-a-cli-using-nodejs-4bl2)
 - [Dev.to/JS] [Day 70 of 100 Days of Code &amp; Scrum: Polishing My Company Website](https://dev.to/rammina/day-70-of-100-days-of-code-scrum-polishing-my-company-website-28o6)
 - [Dev.to/JS] [Leetcode diary: 1561 -  Maximum Number of Coins You Can Get](https://dev.to/kevin074/leetcode-diary-1561-maximum-number-of-coins-you-can-get-2ji5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Does JavaScript Even Work? Things Which 90% of JavaScript Developers Don&#39;t Know! &lpar;Part 1&rpar;](https://dev.to/saiteja13427/how-does-javascript-even-work-things-which-90-of-javascript-developers-dont-know-part-1-145b)
 - [Dev.to/JS] [Using the Cloud DB JavaScript Server SDK in Cloud Functions](https://dev.to/devwithzachary/using-the-cloud-db-javascript-server-sdk-in-cloud-functions-5b2i)
 - [Dev.to/JS] [Portfolio template using React](https://dev.to/saverio683/portfolio-template-using-react-10n8)
-- [Dev.to/JS] [Best React UI Framework?](https://dev.to/tuncayofficial/best-react-ui-framework-57on)
-- [Dev.to/JS] [Npm trick in 2022](https://dev.to/pickerman/npm-trick-3eap)
-- [Dev.to/JS] [Closure in JavaScript](https://dev.to/rakesh_patel/closure-in-javascript-5gmc)
-- [Dev.to/JS] [Create React App - Mind Map. Part 8 of 10: Next Level](https://dev.to/101samovar/create-react-app-mind-map-part-8-of-10-next-level-4mlp)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
