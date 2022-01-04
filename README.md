@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 ways of creating an Array in JavaScript](https://dev.to/marcostl/5-ways-of-creating-an-array-in-javascript-hk9)
 - [Dev.to/JS] [Creating A Hash Table](https://dev.to/davidnnussbaum/creating-a-hash-table-50hl)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Dev.to/JS] [#6 - Incrementer  CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/6-44g1)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Other Foods You Should Dry in a Salad Spinner](https://lifehacker.com/other-foods-you-should-dry-in-a-salad-spinner-1848301307)
 - [Dev.to/JS] [Get data from IndexedDB](https://dev.to/pandresdev/get-data-from-indexeddb-7hg)
 - [Dev.to/JS] [Render a pdf in react app](https://dev.to/aishanipach/render-a-pdf-in-react-app-3aeo)
-- [Dev.to/JS] [🙌 How to get rid of vulnerabilities with just NPM 👀](https://dev.to/luisvonmuller/how-to-auto-fix-vulnerabilities-with-npm-47fa)
 - [Lifehacker] [How to Stop Wasting Your Gift Cards](https://lifehacker.com/how-to-stop-wasting-your-gift-cards-1848300565)
 - [Lifehacker] [Chrome 97 Can Erase Stored Data on Every Website You Visit](https://lifehacker.com/chrome-97-can-erase-stored-data-on-every-website-you-vi-1848300443)
 - [Lifehacker] [Stop Wearing Cloth Masks](https://lifehacker.com/stop-wearing-cloth-masks-1848300414)
