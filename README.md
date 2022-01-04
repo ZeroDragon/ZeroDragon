@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I created SmartContract UI - A quick and easy way to interact with blockchain&#39;s data](https://dev.to/martinpham/i-created-smartcontract-ui-a-quick-and-easy-way-to-interact-with-blockchains-data-2ihb)
+- [Dev.to/JS] [Advanced JavaScript Series - Part 1: Execution Context and Call Stack](https://dev.to/pranav016/advanced-javascript-series-part-1-execution-context-and-call-stack-l1o)
+- [Dev.to/JS] [On-Chain SVG Generation - Part 1](https://dev.to/0xmojo7/on-chain-svg-generation-part-1-2678)
+- [Dev.to/JS] [How I built a Full Stack Web3 App on the Cloud](https://dev.to/banjtheman/how-i-built-a-full-stack-web3-app-on-the-cloud-574j)
 - [Dev.to/JS] [The Two Pointer Technique](https://dev.to/seth_king/the-two-pointer-technique-1b62)
 - [Dev.to/JS] [Serverless search with Meilisearch and Google Cloud Run](https://dev.to/simonireilly/serverless-search-with-meilisearch-and-google-cloud-run-hdg)
 - [Dev.to/JS] [Building a Mobile Document Scanner with Zero Dependencies: The Hough Transform](https://dev.to/101arrowz/building-a-mobile-document-scanner-with-zero-dependencies-the-hough-transform-4dfd)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an Accessible Recursive Menu System](https://dev.to/drewclem/building-an-accessible-recursive-menu-system-48je)
 - [Dev.to/JS] [snake  game | canvas | html | css | vanilla javascript](https://dev.to/shatud/snake-game-canvas-html-css-vanilla-javascript-3ilp)
 - [Dev.to/JS] [[week1] Days 1](https://dev.to/blackthor/week1-days-1-49fj)
-- [Dev.to/JS] [Cashing out from web development - React](https://dev.to/sam_lukaa/cashing-out-from-web-development-react-4gpo)
-- [Dev.to/JS] [How To: Build A Linked List in JavaScript](https://dev.to/am20dipi/how-to-build-a-linked-list-in-javascript-4kn1)
-- [Dev.to/JS] [JavaScript Error: Parcel Won&#39;t Stop Rebuilding in Dev Mode](https://dev.to/dani8439/error-parcel-wont-stop-rebuilding-in-dev-mode-226)
-- [Dev.to/JS] [Some of the highlights of Ant Media in 2021](https://dev.to/hamitdemir/some-of-the-highlights-of-ant-media-in-2021-4659)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
