@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using React&#39;s useState Hook for Sorting](https://dev.to/marcivallario/using-reacts-usestate-hook-for-sorting-9oe)
 - [Dev.to/JS] [Introdução ao Redux](https://dev.to/gabrielhsilvestre/introducao-ao-redux-2l02)
 - [Dev.to/JS] [Redux com React](https://dev.to/gabrielhsilvestre/redux-com-react-3m8n)
 - [Dev.to/JS] [Scraping Instagram in 2022](https://dev.to/socialscrape/scraping-instagram-in-2022-d6l)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Function Expression vs Arrow Function Expression](https://dev.to/cleveroscar/function-expression-vs-arrow-function-expression-362b)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
 - [Dev.to/JS] [JavaScript preventDefault&lpar;&rpar; - Does it work as its name suggests?](https://dev.to/mkday/javascript-preventdefault-does-it-work-as-its-name-suggests-gen)
-- [Dev.to/JS] [Checkout my new Portfolio Page](https://dev.to/rajesh6161/checkout-my-new-portfolio-page-4a63)
 - [Lifehacker] [How Understanding &#39;Density&#39; Can Help You Avoid Overtraining](https://lifehacker.com/how-understanding-density-can-help-you-avoid-overtraini-1848265299)
 - [Lifehacker] [Other Foods You Should Dry in a Salad Spinner](https://lifehacker.com/other-foods-you-should-dry-in-a-salad-spinner-1848301307)
 - [Lifehacker] [How to Stop Wasting Your Gift Cards](https://lifehacker.com/how-to-stop-wasting-your-gift-cards-1848300565)
