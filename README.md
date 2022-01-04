@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dark Mode Using React](https://dev.to/lrth06/dark-mode-using-react-279p)
+- [Dev.to/JS] [¿Cómo configurar las posiciones en MGPanel al momento de crear un sitio web?](https://dev.to/eloymanuelch/como-configurar-las-posiciones-en-mgpanel-al-momento-de-crear-un-sitio-web-3ah0)
+- [Dev.to/JS] [Bitwise Operations](https://dev.to/badams92/bitwise-operations-1ad0)
 - [Dev.to/JS] [Frontend com KVision](https://dev.to/kotlinautas/frontend-com-kvision-2p0d)
 - [Dev.to/JS] [Actualizando datos de la BD](https://dev.to/pandresdev/actualizando-datos-de-la-bd-121h)
 - [Dev.to/JS] [Obtener datos de la BD](https://dev.to/pandresdev/obtener-datos-de-la-bd-2e16)
@@ -33,9 +36,6 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/5-people-in-the-bus-c
 - [Dev.to/JS] [Agregando datos a la BD](https://dev.to/pandresdev/agregando-datos-a-la-bd-1386)
 - [Dev.to/JS] [Crear una base de datos con IndexedBD](https://dev.to/pandresdev/crear-una-base-de-datos-con-indexedbd-2f97)
 - [Dev.to/JS] [IndexedDB paso a paso](https://dev.to/pandresdev/indexeddb-paso-a-paso-3i50)
-- [Dev.to/JS] [Hello World with TensorFlow.js](https://dev.to/mohsenkamrani/hello-world-with-tensorflowjs-1jon)
-- [Dev.to/JS] [Top 10 Most Popular JavaScript Frameworks for 2022](https://dev.to/virendebro/top-10-most-popular-javascript-frameworks-for-2022-51b5)
-- [Dev.to/JS] [Testing Interactions with other Smart Contracts](https://dev.to/focusedlabs/testing-interactions-with-other-smart-contracts-2m7c)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
