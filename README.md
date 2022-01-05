@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Azure Blob Storage with JavaScript](https://dev.to/nelsoncode/azure-blob-storage-with-javascript-foo)
 - [Dev.to/JS] [Leetcode diary: 950. Reveal Cards In Increasing Order](https://dev.to/kevin074/leetcode-diary-950-reveal-cards-in-increasing-order-4fll)
 - [Dev.to/JS] [Building Dynamic Breadcrumbs in NextJS](https://dev.to/dan_starner/building-dynamic-breadcrumbs-in-nextjs-17oa)
 - [Dev.to/JS] [Package your NodeJS Lambda functions individually with esbuild for faster cold-start times](https://dev.to/chrisarmstrong/package-your-nodejs-lambda-functions-individually-with-esbuild-for-faster-cold-start-times-4ijj)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Dev.to/JS] [must use vs code extensions for JavaScript Developers 2022](https://dev.to/kumarkalyan/must-use-vs-code-extensions-for-javascript-developers-2022-56bm)
 - [Dev.to/JS] [[week1] Days 2  - Regex  !](https://dev.to/blackthor/week1-days-2-regex--4kjk)
-- [Dev.to/JS] [A Comprehensive Guide To Error Handling In Node.js](https://dev.to/honeybadger/a-comprehensive-guide-to-error-handling-in-nodejs-15cn)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
 - [Lifehacker] [How Understanding &#39;Density&#39; Can Help You Avoid Overtraining](https://lifehacker.com/how-understanding-density-can-help-you-avoid-overtraini-1848265299)
