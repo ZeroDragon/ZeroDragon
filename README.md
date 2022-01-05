@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Twitter Followers Tracker using Next.js, NextAuth and TailwindCSS](https://dev.to/nilanth/twitter-followers-tracker-using-nextjs-nextauth-and-tailwindcss-1em7)
+- [Dev.to/JS] [How to add sass to your create-react-app in 2022](https://dev.to/jlargs64/how-to-add-sass-to-your-create-react-app-in-2022-4c8e)
 - [Dev.to/JS] [Using the Spotify API with Next.js](https://dev.to/harryholland/using-the-spotify-api-with-nextjs-4a75)
 - [Dev.to/JS] [Create a Dynamic Sitemap with Next.js](https://dev.to/harryholland/create-a-dynamic-sitemap-with-nextjs-1opk)
 - [Dev.to/JS] [Azure Blob Storage with JavaScript](https://dev.to/nelsoncode/azure-blob-storage-with-javascript-foo)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing a robust Singleton Promise handler](https://dev.to/bmarotta/writing-a-robust-singleton-promise-handler-43if)
 - [Dev.to/JS] [Using React&#39;s useState Hook for Sorting](https://dev.to/marcivallario/using-reacts-usestate-hook-for-sorting-9oe)
 - [Dev.to/JS] [Introdução ao Redux](https://dev.to/gabrielhsilvestre/introducao-ao-redux-2l02)
-- [Dev.to/JS] [Redux com React](https://dev.to/gabrielhsilvestre/redux-com-react-3m8n)
-- [Dev.to/JS] [Scraping Instagram in 2022](https://dev.to/socialscrape/scraping-instagram-in-2022-d6l)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
