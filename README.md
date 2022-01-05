@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Do You Get a Kid to Like You?](https://lifehacker.com/how-do-you-get-a-kid-to-like-you-1848306414)
+- [Dev.to/JS] [Everything You Need To Know To Get Started With ReactJS.](https://dev.to/the_greatbonnie/everything-you-need-to-know-to-get-started-with-reactjs-1oma)
+- [Dev.to/JS] [🎄 CodeCast&#39;s Coding Advent: Day Twenty-Six 🎄](https://dev.to/codecast/codecasts-coding-advent-day-twenty-six-23ia)
+- [Dev.to/JS] [✨ CodeCast Coding Advent: Day Twenty-Four ✨](https://dev.to/codecast/codecast-coding-advent-day-twenty-four-k5m)
+- [Lifehacker] [3 Small Tips For Keeping Your New Year&#39;s Resolutions](https://lifehacker.com/3-small-tips-for-keeping-your-new-years-resolutions-1848307339)
+- [Dev.to/JS] [Intro to Remix 💿](https://dev.to/shafspecs/intro-to-remix-41l7)
 - [Dev.to/JS] [Free AWS + React ebook 👇](https://dev.to/manitej/free-aws-react-ebook-3n10)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
 - [Lifehacker] [Should You Swab Your Throat for a Rapid COVID Test?](https://lifehacker.com/should-you-swab-your-throat-for-a-rapid-covid-test-1848306928)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Best Diet&#39; Lists Are All BS](https://lifehacker.com/there-is-no-best-diet-1845385562)
 - [Dev.to/JS] [React and Redux: Part 2](https://dev.to/rthefounding/react-and-redux-part-2-bkk)
 - [Dev.to/JS] [Website Developing](https://dev.to/zytha/website-developing-1o0p)
-- [Dev.to/JS] [How Serverless Saved Money on My Heating Bill](https://dev.to/camchenry/how-serverless-saved-money-on-my-heating-bill-2m4o)
 - [Lifehacker] [The Best Ways to Filth Up Your Dirty Martini](https://lifehacker.com/the-best-ways-to-filth-up-your-dirty-martini-1848304038)
 - [Lifehacker] [Why You Still Need a Booster, Even After a Breakthrough COVID Case](https://lifehacker.com/why-you-still-need-a-booster-even-after-a-breakthrough-1848300059)
-- [Dev.to/JS] [How to detect which element is the scrolling element in charge of scrolling the viewport](https://dev.to/vborodulin/how-to-detect-which-element-is-the-scrolling-element-in-charge-of-scrolling-the-viewport-eae)
-- [Dev.to/JS] [Why Unity 3D Game Engine for Your Next Game Project?](https://dev.to/niharbhavsar/why-unity-3d-game-engine-for-your-next-game-project-424k)
-- [Dev.to/JS] [How take a screenshot with Puppeteer](https://dev.to/krasun/how-take-a-screenshot-with-puppeteer-39eg)
 - [Lifehacker] [How to Find All the Old Product Icons Apple Has Hidden in macOS](https://lifehacker.com/how-to-find-all-the-old-product-icons-apple-has-hidden-1848301929)
 - [Lifehacker] [When It&#39;s OK to Cook Dry Pasta Directly in Your Sauce, and When It Isn&#39;t](https://lifehacker.com/when-its-ok-to-cook-dry-pasta-directly-in-your-sauce-a-1848301506)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Basic Used Essentials That Every Shed Should Have](https://lifehacker.com/the-basic-used-essentials-that-every-shed-should-have-1848218210)
 - [Lifehacker] [The First Thing You Should Do When You Get a New Guitar](https://lifehacker.com/the-first-thing-you-should-do-when-you-get-a-new-guitar-1848277732)
 - [Lifehacker] [Start Your Year With This Deep, Sensual Freezer Reorganization](https://lifehacker.com/start-your-year-with-this-deep-sensual-freezer-reorgan-1848292095)
-- [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
-- [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
