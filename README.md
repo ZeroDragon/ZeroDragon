@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Free AWS + React ebook 👇](https://dev.to/manitej/free-aws-react-ebook-3n10)
+- [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
+- [Lifehacker] [Should You Swab Your Throat for a Rapid COVID Test?](https://lifehacker.com/should-you-swab-your-throat-for-a-rapid-covid-test-1848306928)
+- [Dev.to/JS] [🔥 Serverless boilerplate with TypeScript and Express [Open Source] 🚀](https://dev.to/ixartz/serverless-boilerplate-with-typescript-and-express-open-source-3h0l)
+- [Lifehacker] [23 of Betty White’s Finest and Funniest Performances](https://lifehacker.com/23-of-betty-white-s-finest-and-funniest-performances-1848300929)
+- [Dev.to/JS] [1 line of code: How to convert tabs to spaces](https://dev.to/martinkr/1-line-of-code-how-to-convert-tabs-to-spaces-529p)
 - [Lifehacker] [How to Lose Weight Without Buying Into Diet Culture](https://lifehacker.com/how-to-lose-weight-without-buying-into-any-more-diet-bu-1847818364)
 - [Dev.to/JS] [Building a parser combinator: the parser class.](https://dev.to/0xc0der/building-a-parser-combinator-the-parser-class-28o1)
 - [Dev.to/JS] [What happens when Amazon accidentally sends all of their support traffic your way?](https://dev.to/tevko/what-happens-when-amazon-accidentally-sends-all-of-their-support-traffic-your-way-3bhg)
@@ -37,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Unity 3D Game Engine for Your Next Game Project?](https://dev.to/niharbhavsar/why-unity-3d-game-engine-for-your-next-game-project-424k)
 - [Dev.to/JS] [How take a screenshot with Puppeteer](https://dev.to/krasun/how-take-a-screenshot-with-puppeteer-39eg)
 - [Lifehacker] [How to Find All the Old Product Icons Apple Has Hidden in macOS](https://lifehacker.com/how-to-find-all-the-old-product-icons-apple-has-hidden-1848301929)
-- [Dev.to/JS] [How to record your web camera only with JavaScript](https://dev.to/eneaslari/how-to-record-your-web-camera-only-with-javascript-531g)
 - [Lifehacker] [When It&#39;s OK to Cook Dry Pasta Directly in Your Sauce, and When It Isn&#39;t](https://lifehacker.com/when-its-ok-to-cook-dry-pasta-directly-in-your-sauce-a-1848301506)
-- [Dev.to/JS] [AppSignal’s Top 5 JavaScript Posts in 2021](https://dev.to/appsignal/appsignals-top-5-javascript-posts-in-2021-3mm8)
-- [Dev.to/JS] [React Fragments: What and Why](https://dev.to/saranshk/react-fragments-what-and-why-30h4)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
@@ -58,11 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Start Your Year With This Deep, Sensual Freezer Reorganization](https://lifehacker.com/start-your-year-with-this-deep-sensual-freezer-reorgan-1848292095)
 - [Lifehacker] [How to Minimize the Effects of Caffeine Withdrawal](https://lifehacker.com/how-to-minimize-the-effects-of-caffeine-withdrawal-1848295118)
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
-- [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
-- [Lifehacker] [How to Force Bulbs Indoors During the Winter](https://lifehacker.com/how-to-force-bulbs-indoors-during-the-winter-1848295110)
-- [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
-- [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
-- [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
+- [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
 ---
 
