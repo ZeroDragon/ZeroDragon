@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ultimate List Of Javascript Learning Resources [Free]](https://dev.to/chetan_atrawalkar/ultimate-list-of-javascript-learning-resources-free-37c2)
+- [Dev.to/JS] [Project 93 of 100 - Counter App in React Native](https://dev.to/jwhubert91/project-93-of-100-counter-app-in-react-native-277k)
+- [Dev.to/JS] [5 mistakes most dev&#39;s do when starting out on Linux!](https://dev.to/thenomadevel/5-mistakes-most-devs-do-when-starting-out-on-linux-4de5)
+- [Dev.to/JS] [What is Nodejs used for?](https://dev.to/deveshtiwari/what-is-nodejs-used-for-49m)
+- [Dev.to/JS] [How they made controls at Github? Modal dialog](https://dev.to/kiranmantha/how-they-made-controls-at-github-modal-dialog-2pgi)
 - [Dev.to/JS] [Unique APIs to use in 2022](https://dev.to/snowbit/unique-apis-to-use-in-2022-2p6o)
 - [Dev.to/JS] [Leetcode diary: 1079 - Letter Tile Possibilities](https://dev.to/kevin074/leetcode-diary-1079-letter-tile-possibilities-4bpg)
 - [Dev.to/JS] [Manga Dogs Apk 2022 Review](https://dev.to/selinasigourney/manga-dogs-apk-2022-review-4k1l)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everything you need to know about var, let and const.](https://dev.to/emmanuelonah/everything-you-need-to-know-about-var-let-and-const-56a5)
 - [Dev.to/JS] [Github repositories from large enterprises for every javascript developer](https://dev.to/mohsenkamrani/github-repositories-from-large-enterprises-for-every-javascript-developer-57na)
 - [Dev.to/JS] [Deep Copy vs Shallow Copy in JavaScript](https://dev.to/ahtrahdis7/deep-copy-vs-shallow-copy-in-javascript-d02)
-- [Dev.to/JS] [New Redux 😱 is just 🔥](https://dev.to/rajeshj3/new-redux-is-just-3mle)
-- [Dev.to/JS] [100 Days of Learning - Days 2 and 3](https://dev.to/lfosgett/100-days-of-learning-days-2-and-3-40fm)
-- [Dev.to/JS] [Twitter Followers Tracker using Next.js, NextAuth and TailwindCSS](https://dev.to/nilanth/twitter-followers-tracker-using-nextjs-nextauth-and-tailwindcss-1em7)
-- [Dev.to/JS] [How to add sass to your create-react-app in 2022](https://dev.to/jlargs64/how-to-add-sass-to-your-create-react-app-in-2022-4c8e)
-- [Dev.to/JS] [Using the Spotify API with Next.js](https://dev.to/harryholland/using-the-spotify-api-with-nextjs-4a75)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
