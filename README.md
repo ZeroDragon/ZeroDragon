@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🔴What Is Data Science Course Really Allabout?](https://dev.to/nathanmartin97/what-is-data-science-course-really-allabout-a76)
+- [Dev.to/JS] [Monitoring HTML Elements For Change](https://dev.to/thumbone/monitoring-html-elements-for-change-336a)
+- [Dev.to/JS] [Higher Order Function Reduce com Objetos](https://dev.to/paolofullone/higher-order-function-reduce-com-objetos-5gc)
+- [Dev.to/JS] [Webpack5 + vue3](https://dev.to/vadim/webpack5-vue3-g0n)
 - [Dev.to/JS] [Simple Calculator with Dark Mode](https://dev.to/harshitkhaladk1/simple-calculator-with-dark-mode-5gpp)
 - [Dev.to/JS] [What way should I choose React Native or Flutter](https://dev.to/zenkoders/what-way-should-i-choose-react-native-or-flutter-4h5e)
 - [Dev.to/JS] [Angular App From Scratch - Complete Guide Design to Deploy 100% Free](https://dev.to/asma921208/angular-app-from-scratch-complete-guide-design-to-deploy-100-free-3g9i)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WebRTC Example in React Native!](https://dev.to/gurcharanathwal/webrtc-example-in-react-native-1a5d)
 - [Dev.to/JS] [Advanced JavaScript Series - Part 1: Behind the scenes &lpar;JavaScript Engine, ATS, Hidden Classes, Garbage Collection&rpar;](https://dev.to/pranav016/advanced-javascript-series-part-1-behind-the-scenes-javascript-engine-ats-hidden-classes-garbage-collection-3ajj)
 - [Dev.to/JS] [10 Popular Programming Languages for Mobile App Development](https://dev.to/fireartd/10-popular-programming-languages-for-mobile-app-development-24hm)
-- [Dev.to/JS] [How to make POST Requests in Express](https://dev.to/naftalimurgor/how-to-make-post-requests-in-express-2be6)
-- [Dev.to/JS] [My React and Styled Components Course is now Available for Free 🎉](https://dev.to/chaoocharles/my-react-and-styled-components-course-is-now-available-for-free-548k)
-- [Dev.to/JS] [React Native App Development - Complete Guide 2022](https://dev.to/bhaviksadhu/react-native-app-development-complete-guide-2022-3jde)
-- [Dev.to/JS] [Build Your Expense Tracker using chart.js - PART-1](https://dev.to/kirtisingh3008/build-your-expense-tracker-using-chartjs-part-1-3118)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
