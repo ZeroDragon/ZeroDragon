@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Lose Weight Without Buying Into Diet Culture](https://lifehacker.com/how-to-lose-weight-without-buying-into-any-more-diet-bu-1847818364)
+- [Dev.to/JS] [Building a parser combinator: the parser class.](https://dev.to/0xc0der/building-a-parser-combinator-the-parser-class-28o1)
+- [Dev.to/JS] [What happens when Amazon accidentally sends all of their support traffic your way?](https://dev.to/tevko/what-happens-when-amazon-accidentally-sends-all-of-their-support-traffic-your-way-3bhg)
+- [Dev.to/JS] [Penjelasan sederhana metode reduce pada Javascript](https://dev.to/frullah/penjelasan-sederhana-metode-reduce-pada-javascript-di9)
+- [Lifehacker] [&#39;Best Diet&#39; Lists Are All BS](https://lifehacker.com/there-is-no-best-diet-1845385562)
+- [Dev.to/JS] [React and Redux: Part 2](https://dev.to/rthefounding/react-and-redux-part-2-bkk)
+- [Dev.to/JS] [Website Developing](https://dev.to/zytha/website-developing-1o0p)
 - [Dev.to/JS] [How Serverless Saved Money on My Heating Bill](https://dev.to/camchenry/how-serverless-saved-money-on-my-heating-bill-2m4o)
 - [Lifehacker] [The Best Ways to Filth Up Your Dirty Martini](https://lifehacker.com/the-best-ways-to-filth-up-your-dirty-martini-1848304038)
 - [Lifehacker] [Why You Still Need a Booster, Even After a Breakthrough COVID Case](https://lifehacker.com/why-you-still-need-a-booster-even-after-a-breakthrough-1848300059)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When It&#39;s OK to Cook Dry Pasta Directly in Your Sauce, and When It Isn&#39;t](https://lifehacker.com/when-its-ok-to-cook-dry-pasta-directly-in-your-sauce-a-1848301506)
 - [Dev.to/JS] [AppSignal’s Top 5 JavaScript Posts in 2021](https://dev.to/appsignal/appsignals-top-5-javascript-posts-in-2021-3mm8)
 - [Dev.to/JS] [React Fragments: What and Why](https://dev.to/saranshk/react-fragments-what-and-why-30h4)
-- [Dev.to/JS] [🔴What Is Data Science Course Really Allabout?](https://dev.to/nathanmartin97/what-is-data-science-course-really-allabout-a76)
-- [Dev.to/JS] [Monitoring HTML Elements For Change](https://dev.to/thumbone/monitoring-html-elements-for-change-336a)
-- [Dev.to/JS] [Higher Order Function Reduce com Objetos](https://dev.to/paolofullone/higher-order-function-reduce-com-objetos-5gc)
-- [Dev.to/JS] [Webpack5 + vue3](https://dev.to/vadim/webpack5-vue3-g0n)
-- [Dev.to/JS] [Simple Calculator with Dark Mode](https://dev.to/harshitkhaladk1/simple-calculator-with-dark-mode-5gpp)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix Those Oversized App Icons on Your Mac’s Dock](https://lifehacker.com/how-to-fix-those-oversized-app-icons-on-your-mac-s-dock-1848275938)
 - [Lifehacker] [The Safety Tools You Really Should Keep in Your Car, But Probably Don’t](https://lifehacker.com/the-safety-tools-you-really-should-keep-in-your-car-bu-1848243605)
 - [Lifehacker] [How to Force Bulbs Indoors During the Winter](https://lifehacker.com/how-to-force-bulbs-indoors-during-the-winter-1848295110)
-- [Lifehacker] [How to Force Restart a Frozen Apple Watch](https://lifehacker.com/how-to-force-restart-a-frozen-apple-watch-1848275654)
-- [Lifehacker] [How to Beat the Post-Holiday Blues](https://lifehacker.com/how-to-beat-the-post-holiday-blues-1848260673)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
