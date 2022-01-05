@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I built a dropdown cart modal in JavaScript](https://dev.to/davidfrempong/how-i-built-a-dropdown-cart-modal-in-javascript-1i22)
+- [Dev.to/JS] [Using setInterval&lpar;&rpar; in Javascript](https://dev.to/velcruza/using-setinterval-in-javascript-3cai)
+- [Dev.to/JS] [Explore Seattle City Bikes trips](https://dev.to/duranbe/explore-and-predict-seattle-city-bikes-trips-cac)
+- [Lifehacker] [Why Do Retro Games Look Better on Old TVs?](https://lifehacker.com/why-do-retro-games-look-better-on-old-tvs-1848306958)
+- [Dev.to/JS] [Recursion in JavaScript](https://dev.to/michaellobman/recursion-in-javascript-oib)
 - [Lifehacker] [All the Ways You Didn&#39;t Know You Were Ruining Your Mattress](https://lifehacker.com/all-the-ways-you-didnt-know-you-were-ruining-your-mattr-1848307051)
 - [Dev.to/JS] [How Make Text-Formatter with Download functionality with JS](https://dev.to/masudursourav/how-make-text-formatter-with-download-functionality-with-js-408l)
 - [Dev.to/JS] [Aprende a depurar código JavaScript con Chrome DevTools](https://dev.to/samuelnarciso28/aprende-a-depurar-codigo-javascript-con-chrome-devtools-1bpa)
@@ -38,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Swab Your Throat for a Rapid COVID Test?](https://lifehacker.com/should-you-swab-your-throat-for-a-rapid-covid-test-1848306928)
 - [Dev.to/JS] [🔥 Serverless boilerplate with TypeScript and Express [Open Source] 🚀](https://dev.to/ixartz/serverless-boilerplate-with-typescript-and-express-open-source-3h0l)
 - [Lifehacker] [23 of Betty White’s Finest and Funniest Performances](https://lifehacker.com/23-of-betty-white-s-finest-and-funniest-performances-1848300929)
-- [Dev.to/JS] [1 line of code: How to convert tabs to spaces](https://dev.to/martinkr/1-line-of-code-how-to-convert-tabs-to-spaces-529p)
 - [Lifehacker] [How to Lose Weight Without Buying Into Diet Culture](https://lifehacker.com/how-to-lose-weight-without-buying-into-any-more-diet-bu-1847818364)
-- [Dev.to/JS] [Building a parser combinator: the parser class.](https://dev.to/0xc0der/building-a-parser-combinator-the-parser-class-28o1)
-- [Dev.to/JS] [What happens when Amazon accidentally sends all of their support traffic your way?](https://dev.to/tevko/what-happens-when-amazon-accidentally-sends-all-of-their-support-traffic-your-way-3bhg)
-- [Dev.to/JS] [Penjelasan sederhana metode reduce pada Javascript](https://dev.to/frullah/penjelasan-sederhana-metode-reduce-pada-javascript-di9)
 - [Lifehacker] [&#39;Best Diet&#39; Lists Are All BS](https://lifehacker.com/there-is-no-best-diet-1845385562)
 - [Lifehacker] [The Best Ways to Filth Up Your Dirty Martini](https://lifehacker.com/the-best-ways-to-filth-up-your-dirty-martini-1848304038)
 - [Lifehacker] [Why You Still Need a Booster, Even After a Breakthrough COVID Case](https://lifehacker.com/why-you-still-need-a-booster-even-after-a-breakthrough-1848300059)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Long-Awaited Sequels That Aren’t ‘The Matrix Resurrections’](https://lifehacker.com/10-of-the-best-long-awaited-sequels-that-aren-t-the-ma-1848284228)
 - [Lifehacker] [12 of the Best Satirical Movies That Aren&#39;t &#39;Don&#39;t Look Up&#39;](https://lifehacker.com/12-of-the-best-satirical-movies-that-arent-dont-look-up-1848288972)
 - [Lifehacker] [How to Unclog a Toilet With a Garbage Bag](https://lifehacker.com/how-to-unclog-a-toilet-with-a-garbage-bag-1848286627)
-- [Lifehacker] [The Basic Used Essentials That Every Shed Should Have](https://lifehacker.com/the-basic-used-essentials-that-every-shed-should-have-1848218210)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
