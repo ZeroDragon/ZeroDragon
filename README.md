@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways You Didn&#39;t Know You Were Ruining Your Mattress](https://lifehacker.com/all-the-ways-you-didnt-know-you-were-ruining-your-mattr-1848307051)
+- [Dev.to/JS] [How Make Text-Formatter with Download functionality with JS](https://dev.to/masudursourav/how-make-text-formatter-with-download-functionality-with-js-408l)
+- [Dev.to/JS] [Aprende a depurar código JavaScript con Chrome DevTools](https://dev.to/samuelnarciso28/aprende-a-depurar-codigo-javascript-con-chrome-devtools-1bpa)
+- [Lifehacker] [Should You Stop Smoking for a Relationship?](https://lifehacker.com/should-you-stop-smoking-for-a-relationship-1848306318)
 - [Lifehacker] [How Do You Get a Kid to Like You?](https://lifehacker.com/how-do-you-get-a-kid-to-like-you-1848306414)
 - [Dev.to/JS] [Everything You Need To Know To Get Started With ReactJS.](https://dev.to/the_greatbonnie/everything-you-need-to-know-to-get-started-with-reactjs-1oma)
 - [Dev.to/JS] [🎄 CodeCast&#39;s Coding Advent: Day Twenty-Six 🎄](https://dev.to/codecast/codecasts-coding-advent-day-twenty-six-23ia)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What happens when Amazon accidentally sends all of their support traffic your way?](https://dev.to/tevko/what-happens-when-amazon-accidentally-sends-all-of-their-support-traffic-your-way-3bhg)
 - [Dev.to/JS] [Penjelasan sederhana metode reduce pada Javascript](https://dev.to/frullah/penjelasan-sederhana-metode-reduce-pada-javascript-di9)
 - [Lifehacker] [&#39;Best Diet&#39; Lists Are All BS](https://lifehacker.com/there-is-no-best-diet-1845385562)
-- [Dev.to/JS] [React and Redux: Part 2](https://dev.to/rthefounding/react-and-redux-part-2-bkk)
-- [Dev.to/JS] [Website Developing](https://dev.to/zytha/website-developing-1o0p)
 - [Lifehacker] [The Best Ways to Filth Up Your Dirty Martini](https://lifehacker.com/the-best-ways-to-filth-up-your-dirty-martini-1848304038)
 - [Lifehacker] [Why You Still Need a Booster, Even After a Breakthrough COVID Case](https://lifehacker.com/why-you-still-need-a-booster-even-after-a-breakthrough-1848300059)
 - [Lifehacker] [How to Find All the Old Product Icons Apple Has Hidden in macOS](https://lifehacker.com/how-to-find-all-the-old-product-icons-apple-has-hidden-1848301929)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Best Satirical Movies That Aren&#39;t &#39;Don&#39;t Look Up&#39;](https://lifehacker.com/12-of-the-best-satirical-movies-that-arent-dont-look-up-1848288972)
 - [Lifehacker] [How to Unclog a Toilet With a Garbage Bag](https://lifehacker.com/how-to-unclog-a-toilet-with-a-garbage-bag-1848286627)
 - [Lifehacker] [The Basic Used Essentials That Every Shed Should Have](https://lifehacker.com/the-basic-used-essentials-that-every-shed-should-have-1848218210)
-- [Lifehacker] [The First Thing You Should Do When You Get a New Guitar](https://lifehacker.com/the-first-thing-you-should-do-when-you-get-a-new-guitar-1848277732)
-- [Lifehacker] [Start Your Year With This Deep, Sensual Freezer Reorganization](https://lifehacker.com/start-your-year-with-this-deep-sensual-freezer-reorgan-1848292095)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
