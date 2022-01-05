@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AppSignal’s Top 5 JavaScript Posts in 2021](https://dev.to/appsignal/appsignals-top-5-javascript-posts-in-2021-3mm8)
+- [Dev.to/JS] [React Fragments: What and Why](https://dev.to/saranshk/react-fragments-what-and-why-30h4)
 - [Dev.to/JS] [🔴What Is Data Science Course Really Allabout?](https://dev.to/nathanmartin97/what-is-data-science-course-really-allabout-a76)
 - [Dev.to/JS] [Monitoring HTML Elements For Change](https://dev.to/thumbone/monitoring-html-elements-for-change-336a)
 - [Dev.to/JS] [Higher Order Function Reduce com Objetos](https://dev.to/paolofullone/higher-order-function-reduce-com-objetos-5gc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [It&#39;s Here! Announcing the Release of Appwrite 0.12!](https://dev.to/appwrite/its-here-announcing-the-release-of-appwrite-012-5c8b)
 - [Dev.to/JS] [It&#39;s Not You, It&#39;s The Stupid Machine&lpar;&rpar;](https://dev.to/abderraouf/its-not-you-its-the-stupid-machine-2o65)
 - [Dev.to/JS] [WebRTC Example in React Native!](https://dev.to/gurcharanathwal/webrtc-example-in-react-native-1a5d)
-- [Dev.to/JS] [Advanced JavaScript Series - Part 1: Behind the scenes &lpar;JavaScript Engine, ATS, Hidden Classes, Garbage Collection&rpar;](https://dev.to/pranav016/advanced-javascript-series-part-1-behind-the-scenes-javascript-engine-ats-hidden-classes-garbage-collection-3ajj)
-- [Dev.to/JS] [10 Popular Programming Languages for Mobile App Development](https://dev.to/fireartd/10-popular-programming-languages-for-mobile-app-development-24hm)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
