@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Live If You Want a Pet Lion](https://lifehacker.com/where-to-live-if-you-want-a-pet-lion-1848309048)
+- [Dev.to/JS] [[week1] Days 3 - Regex ! part 2](https://dev.to/blackthor/week1-days-2-regex-part-2-98)
+- [Dev.to/JS] [Getting rid of NgModule in Angular. Javascript](https://dev.to/antmik/getting-rid-of-ngmodule-in-angular-javascript-2gcc)
+- [Dev.to/JS] [WordPress themes - new generation](https://dev.to/hamo-studio/wordpress-themes-new-generation-1f1e)
 - [Dev.to/JS] [How I built a dropdown cart modal in JavaScript](https://dev.to/davidfrempong/how-i-built-a-dropdown-cart-modal-in-javascript-1i22)
 - [Dev.to/JS] [Using setInterval&lpar;&rpar; in Javascript](https://dev.to/velcruza/using-setinterval-in-javascript-3cai)
 - [Dev.to/JS] [Explore Seattle City Bikes trips](https://dev.to/duranbe/explore-and-predict-seattle-city-bikes-trips-cac)
@@ -37,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎄 CodeCast&#39;s Coding Advent: Day Twenty-Six 🎄](https://dev.to/codecast/codecasts-coding-advent-day-twenty-six-23ia)
 - [Dev.to/JS] [✨ CodeCast Coding Advent: Day Twenty-Four ✨](https://dev.to/codecast/codecast-coding-advent-day-twenty-four-k5m)
 - [Lifehacker] [3 Small Tips For Keeping Your New Year&#39;s Resolutions](https://lifehacker.com/3-small-tips-for-keeping-your-new-years-resolutions-1848307339)
-- [Dev.to/JS] [Intro to Remix 💿](https://dev.to/shafspecs/intro-to-remix-41l7)
-- [Dev.to/JS] [Free AWS + React ebook 👇](https://dev.to/manitej/free-aws-react-ebook-3n10)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
 - [Lifehacker] [Should You Swab Your Throat for a Rapid COVID Test?](https://lifehacker.com/should-you-swab-your-throat-for-a-rapid-covid-test-1848306928)
-- [Dev.to/JS] [🔥 Serverless boilerplate with TypeScript and Express [Open Source] 🚀](https://dev.to/ixartz/serverless-boilerplate-with-typescript-and-express-open-source-3h0l)
 - [Lifehacker] [23 of Betty White’s Finest and Funniest Performances](https://lifehacker.com/23-of-betty-white-s-finest-and-funniest-performances-1848300929)
 - [Lifehacker] [How to Lose Weight Without Buying Into Diet Culture](https://lifehacker.com/how-to-lose-weight-without-buying-into-any-more-diet-bu-1847818364)
 - [Lifehacker] [&#39;Best Diet&#39; Lists Are All BS](https://lifehacker.com/there-is-no-best-diet-1845385562)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Ways to Make Your &#39;Dry January&#39; a Lot Less Grim &lpar;Aside From Giving Up&rpar;](https://lifehacker.com/9-ways-to-make-dry-january-less-grim-1846045392)
 - [Lifehacker] [10 of the Best Long-Awaited Sequels That Aren’t ‘The Matrix Resurrections’](https://lifehacker.com/10-of-the-best-long-awaited-sequels-that-aren-t-the-ma-1848284228)
 - [Lifehacker] [12 of the Best Satirical Movies That Aren&#39;t &#39;Don&#39;t Look Up&#39;](https://lifehacker.com/12-of-the-best-satirical-movies-that-arent-dont-look-up-1848288972)
-- [Lifehacker] [How to Unclog a Toilet With a Garbage Bag](https://lifehacker.com/how-to-unclog-a-toilet-with-a-garbage-bag-1848286627)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
