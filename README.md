@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Is the Difference in Thinking Model Between Programmers and Normal Persons?](https://dev.to/bytefish/what-is-the-difference-in-thinking-model-between-programmers-and-normal-persons-4c6m)
+- [Dev.to/JS] [How to create a null-filled array without [], comma, or the word “Array”](https://dev.to/lionelrowe/how-to-create-a-null-filled-array-without-comma-or-the-word-array-1g6p)
+- [Dev.to/JS] [It&#39;s Prisma Time - Delete](https://dev.to/this-is-learning/its-prisma-time-delete-4036)
+- [Dev.to/JS] [What exactly is Web 3.0?](https://dev.to/dev_elie/what-exactly-is-web-30-18cp)
 - [Dev.to/JS] [How To Use HarperDB Custom Functions With Your React App.](https://dev.to/tyaga001/how-to-use-harperdb-custom-functions-with-your-react-app-2c43)
 - [Dev.to/JS] [Ultimate List Of Javascript Learning Resources [Free]](https://dev.to/chetan_atrawalkar/ultimate-list-of-javascript-learning-resources-free-37c2)
 - [Dev.to/JS] [Project 93 of 100 - Counter App in React Native](https://dev.to/jwhubert91/project-93-of-100-counter-app-in-react-native-277k)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How they made controls at Github? Modal dialog](https://dev.to/kiranmantha/how-they-made-controls-at-github-modal-dialog-2pgi)
 - [Dev.to/JS] [Unique APIs to use in 2022](https://dev.to/snowbit/unique-apis-to-use-in-2022-2p6o)
 - [Dev.to/JS] [Leetcode diary: 1079 - Letter Tile Possibilities](https://dev.to/kevin074/leetcode-diary-1079-letter-tile-possibilities-4bpg)
-- [Dev.to/JS] [Manga Dogs Apk 2022 Review](https://dev.to/selinasigourney/manga-dogs-apk-2022-review-4k1l)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 0](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-10l6)
-- [Dev.to/JS] [Everything you need to know about var, let and const.](https://dev.to/emmanuelonah/everything-you-need-to-know-about-var-let-and-const-56a5)
-- [Dev.to/JS] [Github repositories from large enterprises for every javascript developer](https://dev.to/mohsenkamrani/github-repositories-from-large-enterprises-for-every-javascript-developer-57na)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
