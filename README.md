@@ -23,10 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
+- [Dev.to/JS] [Preact Async Rendering](https://dev.to/cagdas_ucar/preact-async-rendering-51p2)
+- [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
+- [Dev.to/JS] [Formify | Hassle-free HTML Form Endpoints](https://dev.to/tarunfy/formify-hassle-free-html-form-endpoints-5gi0)
+- [Dev.to/JS] [Customer Portal - handle upgrades and downgrades differently?](https://dev.to/edub008/customer-portal-handle-upgrades-and-downgrades-differently-13j)
+- [Dev.to/JS] [JAVASCRIPT Please Help](https://dev.to/aftab5544/javascript-2253)
 - [Lifehacker] [Where to Live If You Want a Pet Lion](https://lifehacker.com/where-to-live-if-you-want-a-pet-lion-1848309048)
 - [Dev.to/JS] [[week1] Days 3 - Regex ! part 2](https://dev.to/blackthor/week1-days-2-regex-part-2-98)
 - [Dev.to/JS] [Getting rid of NgModule in Angular. Javascript](https://dev.to/antmik/getting-rid-of-ngmodule-in-angular-javascript-2gcc)
-- [Dev.to/JS] [WordPress themes - new generation](https://dev.to/hamo-studio/wordpress-themes-new-generation-1f1e)
 - [Dev.to/JS] [How I built a dropdown cart modal in JavaScript](https://dev.to/davidfrempong/how-i-built-a-dropdown-cart-modal-in-javascript-1i22)
 - [Dev.to/JS] [Using setInterval&lpar;&rpar; in Javascript](https://dev.to/velcruza/using-setinterval-in-javascript-3cai)
 - [Dev.to/JS] [Explore Seattle City Bikes trips](https://dev.to/duranbe/explore-and-predict-seattle-city-bikes-trips-cac)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Aprende a depurar código JavaScript con Chrome DevTools](https://dev.to/samuelnarciso28/aprende-a-depurar-codigo-javascript-con-chrome-devtools-1bpa)
 - [Lifehacker] [Should You Stop Smoking for a Relationship?](https://lifehacker.com/should-you-stop-smoking-for-a-relationship-1848306318)
 - [Lifehacker] [How Do You Get a Kid to Like You?](https://lifehacker.com/how-do-you-get-a-kid-to-like-you-1848306414)
-- [Dev.to/JS] [Everything You Need To Know To Get Started With ReactJS.](https://dev.to/the_greatbonnie/everything-you-need-to-know-to-get-started-with-reactjs-1oma)
-- [Dev.to/JS] [🎄 CodeCast&#39;s Coding Advent: Day Twenty-Six 🎄](https://dev.to/codecast/codecasts-coding-advent-day-twenty-six-23ia)
-- [Dev.to/JS] [✨ CodeCast Coding Advent: Day Twenty-Four ✨](https://dev.to/codecast/codecast-coding-advent-day-twenty-four-k5m)
 - [Lifehacker] [3 Small Tips For Keeping Your New Year&#39;s Resolutions](https://lifehacker.com/3-small-tips-for-keeping-your-new-years-resolutions-1848307339)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
 - [Lifehacker] [Should You Swab Your Throat for a Rapid COVID Test?](https://lifehacker.com/should-you-swab-your-throat-for-a-rapid-covid-test-1848306928)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Chrome 97 Can Erase Stored Data on Every Website You Visit](https://lifehacker.com/chrome-97-can-erase-stored-data-on-every-website-you-vi-1848300443)
 - [Lifehacker] [Stop Wearing Cloth Masks](https://lifehacker.com/stop-wearing-cloth-masks-1848300414)
 - [Lifehacker] [9 Ways to Make Your &#39;Dry January&#39; a Lot Less Grim &lpar;Aside From Giving Up&rpar;](https://lifehacker.com/9-ways-to-make-dry-january-less-grim-1846045392)
-- [Lifehacker] [10 of the Best Long-Awaited Sequels That Aren’t ‘The Matrix Resurrections’](https://lifehacker.com/10-of-the-best-long-awaited-sequels-that-aren-t-the-ma-1848284228)
-- [Lifehacker] [12 of the Best Satirical Movies That Aren&#39;t &#39;Don&#39;t Look Up&#39;](https://lifehacker.com/12-of-the-best-satirical-movies-that-arent-dont-look-up-1848288972)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
