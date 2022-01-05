@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Use HarperDB Custom Functions With Your React App.](https://dev.to/tyaga001/how-to-use-harperdb-custom-functions-with-your-react-app-2c43)
 - [Dev.to/JS] [Ultimate List Of Javascript Learning Resources [Free]](https://dev.to/chetan_atrawalkar/ultimate-list-of-javascript-learning-resources-free-37c2)
 - [Dev.to/JS] [Project 93 of 100 - Counter App in React Native](https://dev.to/jwhubert91/project-93-of-100-counter-app-in-react-native-277k)
 - [Dev.to/JS] [5 mistakes most dev&#39;s do when starting out on Linux!](https://dev.to/thenomadevel/5-mistakes-most-devs-do-when-starting-out-on-linux-4de5)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 0](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-10l6)
 - [Dev.to/JS] [Everything you need to know about var, let and const.](https://dev.to/emmanuelonah/everything-you-need-to-know-about-var-let-and-const-56a5)
 - [Dev.to/JS] [Github repositories from large enterprises for every javascript developer](https://dev.to/mohsenkamrani/github-repositories-from-large-enterprises-for-every-javascript-developer-57na)
-- [Dev.to/JS] [Deep Copy vs Shallow Copy in JavaScript](https://dev.to/ahtrahdis7/deep-copy-vs-shallow-copy-in-javascript-d02)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
