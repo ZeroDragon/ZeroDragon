@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Find All the Old Product Icons Apple Has Hidden in macOS](https://lifehacker.com/how-to-find-all-the-old-product-icons-apple-has-hidden-1848301929)
+- [Dev.to/JS] [How to record your web camera only with JavaScript](https://dev.to/eneaslari/how-to-record-your-web-camera-only-with-javascript-531g)
+- [Lifehacker] [When It&#39;s OK to Cook Dry Pasta Directly in Your Sauce, and When It Isn&#39;t](https://lifehacker.com/when-its-ok-to-cook-dry-pasta-directly-in-your-sauce-a-1848301506)
 - [Dev.to/JS] [AppSignal’s Top 5 JavaScript Posts in 2021](https://dev.to/appsignal/appsignals-top-5-javascript-posts-in-2021-3mm8)
 - [Dev.to/JS] [React Fragments: What and Why](https://dev.to/saranshk/react-fragments-what-and-why-30h4)
 - [Dev.to/JS] [🔴What Is Data Science Course Really Allabout?](https://dev.to/nathanmartin97/what-is-data-science-course-really-allabout-a76)
@@ -34,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular App From Scratch - Complete Guide Design to Deploy 100% Free](https://dev.to/asma921208/angular-app-from-scratch-complete-guide-design-to-deploy-100-free-3g9i)
 - [Dev.to/JS] [It&#39;s Here! Announcing the Release of Appwrite 0.12!](https://dev.to/appwrite/its-here-announcing-the-release-of-appwrite-012-5c8b)
 - [Dev.to/JS] [It&#39;s Not You, It&#39;s The Stupid Machine&lpar;&rpar;](https://dev.to/abderraouf/its-not-you-its-the-stupid-machine-2o65)
-- [Dev.to/JS] [WebRTC Example in React Native!](https://dev.to/gurcharanathwal/webrtc-example-in-react-native-1a5d)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Beat the Post-Holiday Blues](https://lifehacker.com/how-to-beat-the-post-holiday-blues-1848260673)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Types of Flooring If You Have a Dog](https://lifehacker.com/the-best-and-worst-types-of-flooring-if-you-have-a-do-1848295122)
 - [Lifehacker] [20 of the Best ‘Hangout’ Movies to Help You Chill the Hell Out](https://lifehacker.com/20-of-the-best-hangout-movies-to-help-you-chill-the-h-1848242867)
-- [Lifehacker] [How to Test &lpar;and Increase&rpar; Your Attention Span](https://lifehacker.com/how-to-test-and-increase-your-attention-span-1848293245)
-- [Lifehacker] [How to Avoid the TSA Bothering You When Traveling With Prescription Medications](https://lifehacker.com/how-to-avoid-the-tsa-bothering-you-when-traveling-with-1848288175)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
