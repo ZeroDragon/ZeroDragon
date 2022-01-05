@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Serverless Saved Money on My Heating Bill](https://dev.to/camchenry/how-serverless-saved-money-on-my-heating-bill-2m4o)
+- [Lifehacker] [The Best Ways to Filth Up Your Dirty Martini](https://lifehacker.com/the-best-ways-to-filth-up-your-dirty-martini-1848304038)
+- [Lifehacker] [Why You Still Need a Booster, Even After a Breakthrough COVID Case](https://lifehacker.com/why-you-still-need-a-booster-even-after-a-breakthrough-1848300059)
+- [Dev.to/JS] [How to detect which element is the scrolling element in charge of scrolling the viewport](https://dev.to/vborodulin/how-to-detect-which-element-is-the-scrolling-element-in-charge-of-scrolling-the-viewport-eae)
+- [Dev.to/JS] [Why Unity 3D Game Engine for Your Next Game Project?](https://dev.to/niharbhavsar/why-unity-3d-game-engine-for-your-next-game-project-424k)
+- [Dev.to/JS] [How take a screenshot with Puppeteer](https://dev.to/krasun/how-take-a-screenshot-with-puppeteer-39eg)
 - [Lifehacker] [How to Find All the Old Product Icons Apple Has Hidden in macOS](https://lifehacker.com/how-to-find-all-the-old-product-icons-apple-has-hidden-1848301929)
 - [Dev.to/JS] [How to record your web camera only with JavaScript](https://dev.to/eneaslari/how-to-record-your-web-camera-only-with-javascript-531g)
 - [Lifehacker] [When It&#39;s OK to Cook Dry Pasta Directly in Your Sauce, and When It Isn&#39;t](https://lifehacker.com/when-its-ok-to-cook-dry-pasta-directly-in-your-sauce-a-1848301506)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Higher Order Function Reduce com Objetos](https://dev.to/paolofullone/higher-order-function-reduce-com-objetos-5gc)
 - [Dev.to/JS] [Webpack5 + vue3](https://dev.to/vadim/webpack5-vue3-g0n)
 - [Dev.to/JS] [Simple Calculator with Dark Mode](https://dev.to/harshitkhaladk1/simple-calculator-with-dark-mode-5gpp)
-- [Dev.to/JS] [What way should I choose React Native or Flutter](https://dev.to/zenkoders/what-way-should-i-choose-react-native-or-flutter-4h5e)
-- [Dev.to/JS] [Angular App From Scratch - Complete Guide Design to Deploy 100% Free](https://dev.to/asma921208/angular-app-from-scratch-complete-guide-design-to-deploy-100-free-3g9i)
-- [Dev.to/JS] [It&#39;s Here! Announcing the Release of Appwrite 0.12!](https://dev.to/appwrite/its-here-announcing-the-release-of-appwrite-012-5c8b)
-- [Dev.to/JS] [It&#39;s Not You, It&#39;s The Stupid Machine&lpar;&rpar;](https://dev.to/abderraouf/its-not-you-its-the-stupid-machine-2o65)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Force Bulbs Indoors During the Winter](https://lifehacker.com/how-to-force-bulbs-indoors-during-the-winter-1848295110)
 - [Lifehacker] [How to Force Restart a Frozen Apple Watch](https://lifehacker.com/how-to-force-restart-a-frozen-apple-watch-1848275654)
 - [Lifehacker] [How to Beat the Post-Holiday Blues](https://lifehacker.com/how-to-beat-the-post-holiday-blues-1848260673)
-- [Lifehacker] [The Best &lpar;and Worst&rpar; Types of Flooring If You Have a Dog](https://lifehacker.com/the-best-and-worst-types-of-flooring-if-you-have-a-do-1848295122)
-- [Lifehacker] [20 of the Best ‘Hangout’ Movies to Help You Chill the Hell Out](https://lifehacker.com/20-of-the-best-hangout-movies-to-help-you-chill-the-h-1848242867)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)
 - [Crazy Programmer] [Provisioning in Cloud Computing – Types, Benefits, Tools, Challenges](https://www.thecrazyprogrammer.com/2021/12/provisioning-in-cloud-computing.html)
 - [Crazy Programmer] [Can Artificial Intelligence Replace Human Intelligence?](https://www.thecrazyprogrammer.com/2021/12/can-artificial-intelligence-replace-human-intelligence.html)<!-- TECH-POSTS:END -->
