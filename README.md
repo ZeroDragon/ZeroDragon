@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Json Server](https://dev.to/drsimplegraffiti/json-server-a1b)
+- [Dev.to/JS] [tiny-replace-files](https://dev.to/rabbitzzc/tiny-replace-files-5199)
+- [Dev.to/JS] [Leetcode diary: 1261. Find Elements in a Contaminated Binary Tree](https://dev.to/kevin074/leetcode-diary-1261-find-elements-in-a-contaminated-binary-tree-301i)
+- [Dev.to/JS] [Leetcode diary: 890. Find and Replace Pattern](https://dev.to/kevin074/leetcode-diary-890-find-and-replace-pattern-561b)
 - [Dev.to/JS] [What Is the Difference in Thinking Model Between Programmers and Normal Persons?](https://dev.to/bytefish/what-is-the-difference-in-thinking-model-between-programmers-and-normal-persons-4c6m)
 - [Dev.to/JS] [How to create a null-filled array without [], comma, or the word “Array”](https://dev.to/lionelrowe/how-to-create-a-null-filled-array-without-comma-or-the-word-array-1g6p)
 - [Dev.to/JS] [It&#39;s Prisma Time - Delete](https://dev.to/this-is-learning/its-prisma-time-delete-4036)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ultimate List Of Javascript Learning Resources [Free]](https://dev.to/chetan_atrawalkar/ultimate-list-of-javascript-learning-resources-free-37c2)
 - [Dev.to/JS] [Project 93 of 100 - Counter App in React Native](https://dev.to/jwhubert91/project-93-of-100-counter-app-in-react-native-277k)
 - [Dev.to/JS] [5 mistakes most dev&#39;s do when starting out on Linux!](https://dev.to/thenomadevel/5-mistakes-most-devs-do-when-starting-out-on-linux-4de5)
-- [Dev.to/JS] [What is Nodejs used for?](https://dev.to/deveshtiwari/what-is-nodejs-used-for-49m)
-- [Dev.to/JS] [How they made controls at Github? Modal dialog](https://dev.to/kiranmantha/how-they-made-controls-at-github-modal-dialog-2pgi)
-- [Dev.to/JS] [Unique APIs to use in 2022](https://dev.to/snowbit/unique-apis-to-use-in-2022-2p6o)
-- [Dev.to/JS] [Leetcode diary: 1079 - Letter Tile Possibilities](https://dev.to/kevin074/leetcode-diary-1079-letter-tile-possibilities-4bpg)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
