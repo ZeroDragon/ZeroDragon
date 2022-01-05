@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using the Spotify API with Next.js](https://dev.to/harryholland/using-the-spotify-api-with-nextjs-4a75)
+- [Dev.to/JS] [Create a Dynamic Sitemap with Next.js](https://dev.to/harryholland/create-a-dynamic-sitemap-with-nextjs-1opk)
 - [Dev.to/JS] [Azure Blob Storage with JavaScript](https://dev.to/nelsoncode/azure-blob-storage-with-javascript-foo)
 - [Dev.to/JS] [Leetcode diary: 950. Reveal Cards In Increasing Order](https://dev.to/kevin074/leetcode-diary-950-reveal-cards-in-increasing-order-4fll)
 - [Dev.to/JS] [Building Dynamic Breadcrumbs in NextJS](https://dev.to/dan_starner/building-dynamic-breadcrumbs-in-nextjs-17oa)
 - [Dev.to/JS] [Package your NodeJS Lambda functions individually with esbuild for faster cold-start times](https://dev.to/chrisarmstrong/package-your-nodejs-lambda-functions-individually-with-esbuild-for-faster-cold-start-times-4ijj)
-- [Dev.to/JS] [10 ReactJS Coding Exercises &lpar; Exercise and Solution 💥&rpar;](https://dev.to/frontendengineer/10-reactjs-coding-exercises-with-codepen-exercise-and-solution--22k7)
+- [Dev.to/JS] [10 ReactJS Coding Challenge &lpar; Exercise and Solution 💥&rpar;](https://dev.to/frontendengineer/10-reactjs-coding-exercises-with-codepen-exercise-and-solution--22k7)
 - [Dev.to/JS] [Writing a robust Singleton Promise handler](https://dev.to/bmarotta/writing-a-robust-singleton-promise-handler-43if)
 - [Dev.to/JS] [Using React&#39;s useState Hook for Sorting](https://dev.to/marcivallario/using-reacts-usestate-hook-for-sorting-9oe)
 - [Dev.to/JS] [Introdução ao Redux](https://dev.to/gabrielhsilvestre/introducao-ao-redux-2l02)
 - [Dev.to/JS] [Redux com React](https://dev.to/gabrielhsilvestre/redux-com-react-3m8n)
 - [Dev.to/JS] [Scraping Instagram in 2022](https://dev.to/socialscrape/scraping-instagram-in-2022-d6l)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
-- [Dev.to/JS] [must use vs code extensions for JavaScript Developers 2022](https://dev.to/kumarkalyan/must-use-vs-code-extensions-for-javascript-developers-2022-56bm)
-- [Dev.to/JS] [[week1] Days 2  - Regex  !](https://dev.to/blackthor/week1-days-2-regex--4kjk)
 - [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
 - [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
 - [Lifehacker] [How Understanding &#39;Density&#39; Can Help You Avoid Overtraining](https://lifehacker.com/how-understanding-density-can-help-you-avoid-overtraini-1848265299)
