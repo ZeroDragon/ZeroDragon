@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to change the app name in react-native&lpar;in android and IOS&rpar;:](https://dev.to/zenkoders/how-to-change-the-app-name-in-react-nativein-android-and-ios-573i)
+- [Dev.to/JS] [Intersection Observer in JavaScript | Infinite Scrolling | Lazy Loading](https://dev.to/dasaradhanimmala/intersection-observer-in-javascript-infinite-scrolling-lazy-loading-3h50)
+- [Dev.to/JS] [What is Webpack? In simple words.](https://dev.to/nitsancohen770/what-is-webpack-in-simple-words-31fe)
+- [Dev.to/JS] [An Introduction to Asynchronous Programming in JavaScript](https://dev.to/biswarup35/an-introduction-to-asynchronous-programming-in-javascript-4o01)
+- [Dev.to/JS] [Template Literals || ES6](https://dev.to/syafiq1331/template-literals-es6-154c)
 - [Dev.to/JS] [Make notes sharing app with React and Firebase](https://dev.to/snowbit/make-notes-sharing-app-with-react-and-firebase-5dle)
 - [Dev.to/JS] [Workshift - The all-in-one application for organisations](https://dev.to/arnu515/workshift-the-all-in-one-application-for-organisations-59aj)
 - [Dev.to/JS] [Node Scalable Architecture](https://dev.to/ahtrahdis7/node-scalable-architecture-384b)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Selection Sort - Typescript](https://dev.to/manthanbhatt/selection-sort-typescript-3j14)
 - [Dev.to/JS] [Dynamic content rendering in Alpine.js](https://dev.to/mohsenkamrani/dynamic-content-rendering-in-alpinejs-3b6l)
 - [Dev.to/JS] [Fancy Progress Bar On Page Scroll](https://dev.to/sameer8saini/fancy-progress-bar-on-page-scroll-1633)
-- [Dev.to/JS] [Why a PWA app icon shouldn&#39;t have a purpose set to &#39;any maskable&#39;](https://dev.to/progressier/why-a-pwa-app-icon-shouldnt-have-a-purpose-set-to-any-maskable-4c78)
-- [Dev.to/JS] [Learn How Docker Volumes Can Be Used on Diffusion server, without the need for a Dockerfile](https://dev.to/push_technology/learn-how-docker-volumes-can-be-used-on-diffusion-server-without-the-need-for-a-dockerfile-4m7n)
-- [Dev.to/JS] [Java Development Methodologies For Your Application](https://dev.to/narolainfotechllp/java-development-methodologies-for-your-application-1a9f)
-- [Dev.to/JS] [A primer on WebAssembly](https://dev.to/divyamohan0209/a-primer-on-webassembly-36dj)
-- [Dev.to/JS] [ACE77 Bandar Situs Judi Online Terbesar](https://dev.to/situsace77/ace77-bandar-situs-judi-online-terbesar-3e0f)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
 - [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
 - [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
