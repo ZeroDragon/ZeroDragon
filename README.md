@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Complete NestJs JWT Authentication Example with Integration and End-to-End tests!](https://dev.to/vladwulf/complete-nestjs-jwt-authentication-example-with-integration-and-end-to-end-tests-326d)
+- [Dev.to/JS] [How to Create Modal Box Using CSS and JS](https://dev.to/softcodeon/how-to-create-modal-box-using-css-and-js-3hj)
+- [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)
+- [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848310718)
+- [Dev.to/JS] [Fat Functions are an Anti-Pattern](https://dev.to/begin/fat-functions-are-an-anti-pattern-11lf)
 - [Lifehacker] [Where to Find the Best Local Gardening, Home Repair, or Woodworking Workshops](https://lifehacker.com/where-to-find-the-best-local-gardening-home-repair-or-1848312050)
 - [Lifehacker] [How to Find Anyone on the Internet for Free](https://lifehacker.com/how-to-find-anyone-on-the-internet-for-free-1848312948)
 - [Lifehacker] [Your Apple Music Needs &#39;Smart&#39; Playlists](https://lifehacker.com/your-apple-music-needs-smart-playlists-1848312556)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [11ty: Inject SVG code using Shortcodes](https://dev.to/extrabright/11ty-inject-svg-code-using-shortcodes-3l4m)
 - [Lifehacker] [How to Feel Warmer If You&#39;re Always Cold](https://lifehacker.com/how-to-feel-warmer-if-youre-always-cold-1848310457)
 - [Lifehacker] [How to Master &lpar;or Cheat at&rpar; Wordle, the Internet&#39;s Favorite Word Game of 2022](https://lifehacker.com/how-to-master-or-cheat-at-wordle-the-internets-favor-1848312354)
-- [Dev.to/JS] [🎬Top 10 CSS &amp; JavaScript Projects🙌](https://dev.to/robsonmuniz16/top-10-css-javascript-projects-1jk7)
-- [Dev.to/JS] [Creating a workout tracking app with React Native and Fauna](https://dev.to/wernancheta/creating-a-workout-tracking-app-with-react-native-and-fauna-5dbo)
-- [Dev.to/JS] [Create Nested Tree View with Only One Query.](https://dev.to/burhanahmeed/create-nested-tree-view-with-only-one-query-ikj)
 - [Lifehacker] [How to Stream the 2022 CES Conference](https://lifehacker.com/how-to-stream-the-2022-ces-conference-1848310180)
 - [Lifehacker] [‘Cage-Free’ Is Basically Meaningless, and Other Lies Your Egg Carton Is Telling You](https://lifehacker.com/cage-free-is-basically-meaningless-and-other-lies-yo-1848308957)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Filth Up Your Dirty Martini](https://lifehacker.com/the-best-ways-to-filth-up-your-dirty-martini-1848304038)
 - [Lifehacker] [Why You Still Need a Booster, Even After a Breakthrough COVID Case](https://lifehacker.com/why-you-still-need-a-booster-even-after-a-breakthrough-1848300059)
 - [Lifehacker] [How to Find All the Old Product Icons Apple Has Hidden in macOS](https://lifehacker.com/how-to-find-all-the-old-product-icons-apple-has-hidden-1848301929)
-- [Lifehacker] [When It&#39;s OK to Cook Dry Pasta Directly in Your Sauce, and When It Isn&#39;t](https://lifehacker.com/when-its-ok-to-cook-dry-pasta-directly-in-your-sauce-a-1848301506)
-- [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
