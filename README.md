@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Somebody can help me with React.js issue?](https://dev.to/michaeljav/somebody-can-help-me-with-reactjs-issue-396h)
+- [Dev.to/JS] [Hello World](https://dev.to/zytha/hello-world-4cb3)
+- [Dev.to/JS] [Bringing it all together: Copy With Style](https://dev.to/thumbone/bringing-it-all-together-copy-with-style-2h91)
+- [Dev.to/JS] [My journey through Scrimba 
+ JS course!](https://dev.to/mohammedmookhy/my-journey-through-scrimba-js-course-4159)
+- [Dev.to/JS] [🤔 What Would You Change About this Website?](https://dev.to/williammcgonagle/what-would-you-change-about-this-website-48cj)
 - [Dev.to/JS] [Experimenting with Data Visualization Using Vega Lite](https://dev.to/crrojas88/experimenting-with-data-visualization-using-vega-lite-2kli)
 - [Dev.to/JS] [Day 71 of 100 Days of Code &amp; Scrum: Coding Something I Won&#39;t Use](https://dev.to/rammina/day-71-of-100-days-of-code-scrum-coding-something-i-wont-use-4aef)
 - [Dev.to/JS] [Need your opinion for leboncoin](https://dev.to/leboncoin/need-your-opinion-for-leboncoin-30pl)
@@ -31,14 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Preact Async Rendering: Solution to Initial Render Blocking](https://dev.to/cagdas_ucar/preact-async-rendering-51p2)
 - [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
 - [Dev.to/JS] [Formify | Hassle-free HTML Form Endpoints](https://dev.to/tarunfy/formify-hassle-free-html-form-endpoints-5gi0)
-- [Dev.to/JS] [Customer Portal - handle upgrades and downgrades differently?](https://dev.to/edub008/customer-portal-handle-upgrades-and-downgrades-differently-13j)
 - [Dev.to/JS] [JAVASCRIPT Please Help](https://dev.to/aftab5544/javascript-2253)
 - [Lifehacker] [Where to Live If You Want a Pet Lion](https://lifehacker.com/where-to-live-if-you-want-a-pet-lion-1848309048)
 - [Dev.to/JS] [[week1] Days 3 - Regex ! part 2](https://dev.to/blackthor/week1-days-2-regex-part-2-98)
-- [Dev.to/JS] [Getting rid of NgModule in Angular. Javascript](https://dev.to/antmik/getting-rid-of-ngmodule-in-angular-javascript-2gcc)
-- [Dev.to/JS] [How I built a dropdown cart modal in JavaScript](https://dev.to/davidfrempong/how-i-built-a-dropdown-cart-modal-in-javascript-1i22)
-- [Dev.to/JS] [Using setInterval&lpar;&rpar; in Javascript](https://dev.to/velcruza/using-setinterval-in-javascript-3cai)
-- [Dev.to/JS] [Explore Seattle City Bikes trips](https://dev.to/duranbe/explore-and-predict-seattle-city-bikes-trips-cac)
 - [Lifehacker] [Why Do Retro Games Look Better on Old TVs?](https://lifehacker.com/why-do-retro-games-look-better-on-old-tvs-1848306958)
 - [Lifehacker] [All the Ways You Didn&#39;t Know You Were Ruining Your Mattress](https://lifehacker.com/all-the-ways-you-didnt-know-you-were-ruining-your-mattr-1848307051)
 - [Lifehacker] [Should You Stop Smoking for a Relationship?](https://lifehacker.com/should-you-stop-smoking-for-a-relationship-1848306318)
