@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here’s When to Get Your Older Kids Their Booster Shot](https://lifehacker.com/here-s-when-to-get-your-older-kids-their-booster-shot-1848313883)
+- [Dev.to/JS] [How I decided which language I should learn](https://dev.to/yuridevat/how-i-decided-which-language-i-should-learn-2lk4)
+- [Lifehacker] [The Right Way to Use a Scale to Track What You Eat](https://lifehacker.com/the-right-way-to-use-a-scale-to-track-what-you-eat-1848314496)
+- [Dev.to/JS] [CRUD with NodeJs &amp; ReactJs](https://dev.to/shuvrobaset/crud-with-nodejs-reactjs-173h)
+- [Dev.to/JS] [Do you really know TypeScript? &lpar;4&rpar;: Type assertions](https://dev.to/alexmenor/do-you-really-know-typescript-4-type-assertions-2644)
 - [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)
 - [Dev.to/JS] [[week1] Days 4 - Mini project around js and regex](https://dev.to/blackthor/week1-days-4-mini-project-around-js-and-regex-4di8)
 - [Dev.to/JS] [Redux no React - Assíncrono](https://dev.to/gabrielhsilvestre/redux-no-react-assincrono-2eb0)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Apple Music Needs &#39;Smart&#39; Playlists](https://lifehacker.com/your-apple-music-needs-smart-playlists-1848312556)
 - [Dev.to/JS] [MeteorJs : Delivering your CSS/JS/Public assets through a CDN &lpar;Cloudfront&rpar;](https://dev.to/revolin/meteorjs-delivering-your-cssjspublic-assets-through-a-cdn-cloudfront-187o)
 - [Dev.to/JS] [JavaScript Roadmap 2022](https://dev.to/ravics09/javascript-roadmap-2022-24g9)
-- [Dev.to/JS] [Social Network App Built with ReactJS, Java Spring Boot and MongoDB](https://dev.to/linhtch90/social-network-app-built-with-reactjs-java-spring-boot-and-mongodb-47h1)
-- [Dev.to/JS] [Un ejemplo del uso de la coerción y ES6.](https://dev.to/gghgaby/un-ejemplo-del-uso-de-la-coercion-y-es6-150p)
-- [Dev.to/JS] [21+ Super DevTools you may have not heard of](https://dev.to/devdefinitive/21-super-devtools-you-may-have-not-heard-of-3d9c)
 - [Lifehacker] [How to Feel Warmer If You&#39;re Always Cold](https://lifehacker.com/how-to-feel-warmer-if-youre-always-cold-1848310457)
 - [Lifehacker] [How to Master &lpar;or Cheat at&rpar; Wordle, the Internet&#39;s Favorite Word Game of 2022](https://lifehacker.com/how-to-master-or-cheat-at-wordle-the-internets-favor-1848312354)
 - [Lifehacker] [How to Stream the 2022 CES Conference](https://lifehacker.com/how-to-stream-the-2022-ces-conference-1848310180)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Swab Your Throat for a Rapid COVID Test?](https://lifehacker.com/should-you-swab-your-throat-for-a-rapid-covid-test-1848306928)
 - [Lifehacker] [23 of Betty White’s Finest and Funniest Performances](https://lifehacker.com/23-of-betty-white-s-finest-and-funniest-performances-1848300929)
 - [Lifehacker] [How to Lose Weight Without Buying Into Diet Culture](https://lifehacker.com/how-to-lose-weight-without-buying-into-any-more-diet-bu-1847818364)
-- [Lifehacker] [&#39;Best Diet&#39; Lists Are All BS](https://lifehacker.com/there-is-no-best-diet-1845385562)
-- [Lifehacker] [The Best Ways to Filth Up Your Dirty Martini](https://lifehacker.com/the-best-ways-to-filth-up-your-dirty-martini-1848304038)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
