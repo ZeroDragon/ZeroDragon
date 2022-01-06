@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Experimenting with Data Visualization Using Vega Lite](https://dev.to/crrojas88/experimenting-with-data-visualization-using-vega-lite-2kli)
 - [Dev.to/JS] [Day 71 of 100 Days of Code &amp; Scrum: Coding Something I Won&#39;t Use](https://dev.to/rammina/day-71-of-100-days-of-code-scrum-coding-something-i-wont-use-4aef)
 - [Dev.to/JS] [Need your opinion for leboncoin](https://dev.to/leboncoin/need-your-opinion-for-leboncoin-30pl)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using setInterval&lpar;&rpar; in Javascript](https://dev.to/velcruza/using-setinterval-in-javascript-3cai)
 - [Dev.to/JS] [Explore Seattle City Bikes trips](https://dev.to/duranbe/explore-and-predict-seattle-city-bikes-trips-cac)
 - [Lifehacker] [Why Do Retro Games Look Better on Old TVs?](https://lifehacker.com/why-do-retro-games-look-better-on-old-tvs-1848306958)
-- [Dev.to/JS] [Recursion in JavaScript](https://dev.to/michaellobman/recursion-in-javascript-oib)
 - [Lifehacker] [All the Ways You Didn&#39;t Know You Were Ruining Your Mattress](https://lifehacker.com/all-the-ways-you-didnt-know-you-were-ruining-your-mattr-1848307051)
 - [Lifehacker] [Should You Stop Smoking for a Relationship?](https://lifehacker.com/should-you-stop-smoking-for-a-relationship-1848306318)
 - [Lifehacker] [How Do You Get a Kid to Like You?](https://lifehacker.com/how-do-you-get-a-kid-to-like-you-1848306414)
