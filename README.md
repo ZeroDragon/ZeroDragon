@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
+- [Dev.to/JS] [Creating an npx Command](https://dev.to/deepgram/creating-an-npx-command-3jn2)
+- [Dev.to/JS] [Connecting Redux to Your React Application](https://dev.to/atcarter/connecting-redux-to-your-react-application-2n52)
+- [Dev.to/JS] [Understanding JavaScript Primitive vrs Reference Values](https://dev.to/efkumah/understanding-javascript-primitive-vrs-reference-values-4ipj)
+- [Dev.to/JS] [Star Rating](https://dev.to/sonu_sharma/star-rating-31hj)
 - [Dev.to/JS] [Rendering: Half-Full or Half-Empty?](https://dev.to/lorenmichael/rendering-half-full-or-half-empty-581n)
 - [Dev.to/JS] [My First React Project &amp; React State | Day 5 &amp; 6](https://dev.to/developerioweb/my-first-react-project-react-state-day-5-6-4b21)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)
 - [Dev.to/JS] [[week1] Days 4 - Mini project around js and regex](https://dev.to/blackthor/week1-days-4-mini-project-around-js-and-regex-4di8)
 - [Dev.to/JS] [Redux no React - Assíncrono](https://dev.to/gabrielhsilvestre/redux-no-react-assincrono-2eb0)
-- [Dev.to/JS] [Virtual DOM, diffing- algorithm, Context API](https://dev.to/shuvrobaset/virtual-dom-diffing-algorithm-context-api-56ig)
 - [Lifehacker] [Don&#39;t Give Up Your Right to Sue Google](https://lifehacker.com/dont-give-up-your-right-to-sue-google-1848313515)
-- [Dev.to/JS] [How to Create this React Library Myself?](https://dev.to/danialdezfouli/how-to-create-this-react-library-myself-29k3)
-- [Dev.to/JS] [Complete NestJs JWT Authentication Example with Integration and End-to-End tests!](https://dev.to/vladwulf/complete-nestjs-jwt-authentication-example-with-integration-and-end-to-end-tests-326d)
-- [Dev.to/JS] [How to Create Modal Box Using CSS and JS](https://dev.to/softcodeon/how-to-create-modal-box-using-css-and-js-3hj)
 - [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)
 - [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848310718)
 - [Lifehacker] [Where to Find the Best Local Gardening, Home Repair, or Woodworking Workshops](https://lifehacker.com/where-to-find-the-best-local-gardening-home-repair-or-1848312050)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Do You Get a Kid to Like You?](https://lifehacker.com/how-do-you-get-a-kid-to-like-you-1848306414)
 - [Lifehacker] [3 Small Tips For Keeping Your New Year&#39;s Resolutions](https://lifehacker.com/3-small-tips-for-keeping-your-new-years-resolutions-1848307339)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
-- [Lifehacker] [Should You Swab Your Throat for a Rapid COVID Test?](https://lifehacker.com/should-you-swab-your-throat-for-a-rapid-covid-test-1848306928)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
