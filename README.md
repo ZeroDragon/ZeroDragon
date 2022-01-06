@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 71 of 100 Days of Code &amp; Scrum: Coding Something I Won&#39;t Use](https://dev.to/rammina/day-71-of-100-days-of-code-scrum-coding-something-i-wont-use-4aef)
+- [Dev.to/JS] [Need your opinion for leboncoin](https://dev.to/leboncoin/need-your-opinion-for-leboncoin-30pl)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
 - [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
 - [Dev.to/JS] [Preact Async Rendering: Solution to Initial Render Blocking](https://dev.to/cagdas_ucar/preact-async-rendering-51p2)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Do Retro Games Look Better on Old TVs?](https://lifehacker.com/why-do-retro-games-look-better-on-old-tvs-1848306958)
 - [Dev.to/JS] [Recursion in JavaScript](https://dev.to/michaellobman/recursion-in-javascript-oib)
 - [Lifehacker] [All the Ways You Didn&#39;t Know You Were Ruining Your Mattress](https://lifehacker.com/all-the-ways-you-didnt-know-you-were-ruining-your-mattr-1848307051)
-- [Dev.to/JS] [How Make Text-Formatter with Download functionality with JS](https://dev.to/masudursourav/how-make-text-formatter-with-download-functionality-with-js-408l)
-- [Dev.to/JS] [Aprende a depurar código JavaScript con Chrome DevTools](https://dev.to/samuelnarciso28/aprende-a-depurar-codigo-javascript-con-chrome-devtools-1bpa)
 - [Lifehacker] [Should You Stop Smoking for a Relationship?](https://lifehacker.com/should-you-stop-smoking-for-a-relationship-1848306318)
 - [Lifehacker] [How Do You Get a Kid to Like You?](https://lifehacker.com/how-do-you-get-a-kid-to-like-you-1848306414)
 - [Lifehacker] [3 Small Tips For Keeping Your New Year&#39;s Resolutions](https://lifehacker.com/3-small-tips-for-keeping-your-new-years-resolutions-1848307339)
