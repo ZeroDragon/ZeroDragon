@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Have you heard about Recursion functions in JavaScript](https://dev.to/codewithsnowbit/have-you-heard-about-recursion-functions-in-javascript-4nm4)
+- [Dev.to/JS] [How to build powerful tables in React using the React Table package](https://dev.to/andrewbaisden/how-to-build-powerful-tables-in-react-using-the-react-table-package-3gn7)
 - [Dev.to/JS] [Application Scenarios of Pylon CLI —— A Client Tool that Controls the Dev Environment Locally](https://dev.to/trystancocolatte/application-scenarios-of-pylon-cli-a-client-tool-that-controls-the-dev-environment-locally-28ak)
 - [Dev.to/JS] [Why Is Website Performance Important And Tricks To Improve Front End Performance](https://dev.to/sharma2288/why-is-website-performance-important-and-tricks-to-improve-front-end-performance-f09)
 - [Dev.to/JS] [Create React App - Mind Map. Part 10 of 10: Final Tips](https://dev.to/101samovar/create-react-app-mind-map-part-9-of-10-resize-2e48)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create schedule trigger in MongoDB Atlas](https://dev.to/zainbinfurqan/how-to-create-schedule-trigger-in-mongodb-atlas-1af8)
 - [Dev.to/JS] [Crypto price tracker with JS](https://dev.to/devrohit0/crypto-price-tracker-with-js-57d7)
 - [Dev.to/JS] [The best features added to JavaScript from 2016 to 2021](https://dev.to/realattila/the-best-features-added-to-javascript-from-2016-to-2021-5803)
-- [Dev.to/JS] [WooCommerce Magento 2 Integration](https://dev.to/ashutoshsonker786/woocommerce-magento-2-integration-f51)
-- [Dev.to/JS] [How to change the app name in react-native&lpar;in android and IOS&rpar;:](https://dev.to/zenkoders/how-to-change-the-app-name-in-react-nativein-android-and-ios-573i)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
 - [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
 - [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
