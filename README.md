@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Design Pattern in Node JS](https://dev.to/sibaspage/design-pattern-in-node-js-bkl)
+- [Dev.to/JS] [Introduction to HTTP &amp; REST API](https://dev.to/valeriavg/introduction-to-http-rest-api-2470)
+- [Dev.to/JS] [Why Remix 💿?](https://dev.to/shafspecs/why-remix--5cm5)
+- [Dev.to/JS] [Technical Writer](https://dev.to/vaishnaviappsmith/technical-writer-8c5)
+- [Dev.to/JS] [Day 2 #Javascript30 challenge](https://dev.to/leedd87/day-2-javascript30-challenge-4c8f)
 - [Dev.to/JS] [Have you heard about Recursion functions in JavaScript](https://dev.to/codewithsnowbit/have-you-heard-about-recursion-functions-in-javascript-4nm4)
 - [Dev.to/JS] [How to build powerful tables in React using the React Table package](https://dev.to/andrewbaisden/how-to-build-powerful-tables-in-react-using-the-react-table-package-3gn7)
 - [Dev.to/JS] [Application Scenarios of Pylon CLI —— A Client Tool that Controls the Dev Environment Locally](https://dev.to/trystancocolatte/application-scenarios-of-pylon-cli-a-client-tool-that-controls-the-dev-environment-locally-28ak)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create React App - Mind Map. Part 10 of 10: Final Tips](https://dev.to/101samovar/create-react-app-mind-map-part-9-of-10-resize-2e48)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 1](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-1-3efn)
 - [Dev.to/JS] [Cómo utilizar los módulos nativos de ES](https://dev.to/conoce-dev/como-utilizar-los-modulos-nativos-de-es-214i)
-- [Dev.to/JS] [Create a Modal with Tabs in React using Reach UI](https://dev.to/coder4_life/create-a-modal-with-tabs-in-react-using-reach-ui-22nc)
-- [Dev.to/JS] [JavaScript](https://dev.to/shamimzz/javascript-3ka6)
-- [Dev.to/JS] [How to create schedule trigger in MongoDB Atlas](https://dev.to/zainbinfurqan/how-to-create-schedule-trigger-in-mongodb-atlas-1af8)
-- [Dev.to/JS] [Crypto price tracker with JS](https://dev.to/devrohit0/crypto-price-tracker-with-js-57d7)
-- [Dev.to/JS] [The best features added to JavaScript from 2016 to 2021](https://dev.to/realattila/the-best-features-added-to-javascript-from-2016-to-2021-5803)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
 - [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
 - [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
