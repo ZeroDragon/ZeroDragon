@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rendering: Half-Full or Half-Empty?](https://dev.to/lorenmichael/rendering-half-full-or-half-empty-581n)
+- [Dev.to/JS] [My First React Project &amp; React State | Day 5 &amp; 6](https://dev.to/developerioweb/my-first-react-project-react-state-day-5-6-4b21)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
 - [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)
 - [Dev.to/JS] [LeetCode - Search in Rotated Sorted Array](https://dev.to/_alkesh26/leetcode-search-in-rotated-sorted-array-4bgi)
@@ -41,11 +43,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create Modal Box Using CSS and JS](https://dev.to/softcodeon/how-to-create-modal-box-using-css-and-js-3hj)
 - [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)
 - [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848310718)
-- [Dev.to/JS] [Fat Functions are an Anti-Pattern](https://dev.to/begin/fat-functions-are-an-anti-pattern-11lf)
 - [Lifehacker] [Where to Find the Best Local Gardening, Home Repair, or Woodworking Workshops](https://lifehacker.com/where-to-find-the-best-local-gardening-home-repair-or-1848312050)
 - [Lifehacker] [How to Find Anyone on the Internet for Free](https://lifehacker.com/how-to-find-anyone-on-the-internet-for-free-1848312948)
 - [Lifehacker] [Your Apple Music Needs &#39;Smart&#39; Playlists](https://lifehacker.com/your-apple-music-needs-smart-playlists-1848312556)
-- [Dev.to/JS] [Delivering your Meteor CSS/JS bundles and Public assets through a CDN &lpar;Cloudfront&rpar;](https://dev.to/revolin/meteorjs-delivering-your-cssjspublic-assets-through-a-cdn-cloudfront-187o)
 - [Lifehacker] [How to Feel Warmer If You&#39;re Always Cold](https://lifehacker.com/how-to-feel-warmer-if-youre-always-cold-1848310457)
 - [Lifehacker] [How to Master &lpar;or Cheat at&rpar; Wordle, the Internet&#39;s Favorite Word Game of 2022](https://lifehacker.com/how-to-master-or-cheat-at-wordle-the-internets-favor-1848312354)
 - [Lifehacker] [How to Stream the 2022 CES Conference](https://lifehacker.com/how-to-stream-the-2022-ces-conference-1848310180)
