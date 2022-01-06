@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup NGINX For Load Balancer](https://dev.to/ilhamsabir/setup-nginx-for-load-balancer-4iih)
 - [Dev.to/JS] [Somebody can help me with React.js issue?](https://dev.to/michaeljav/somebody-can-help-me-with-reactjs-issue-396h)
 - [Dev.to/JS] [Hello World](https://dev.to/zytha/hello-world-4cb3)
 - [Dev.to/JS] [Bringing it all together: Copy With Style](https://dev.to/thumbone/bringing-it-all-together-copy-with-style-2h91)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Formify | Hassle-free HTML Form Endpoints](https://dev.to/tarunfy/formify-hassle-free-html-form-endpoints-5gi0)
 - [Dev.to/JS] [JAVASCRIPT Please Help](https://dev.to/aftab5544/javascript-2253)
 - [Lifehacker] [Where to Live If You Want a Pet Lion](https://lifehacker.com/where-to-live-if-you-want-a-pet-lion-1848309048)
-- [Dev.to/JS] [[week1] Days 3 - Regex ! part 2](https://dev.to/blackthor/week1-days-2-regex-part-2-98)
 - [Lifehacker] [Why Do Retro Games Look Better on Old TVs?](https://lifehacker.com/why-do-retro-games-look-better-on-old-tvs-1848306958)
 - [Lifehacker] [All the Ways You Didn&#39;t Know You Were Ruining Your Mattress](https://lifehacker.com/all-the-ways-you-didnt-know-you-were-ruining-your-mattr-1848307051)
 - [Lifehacker] [Should You Stop Smoking for a Relationship?](https://lifehacker.com/should-you-stop-smoking-for-a-relationship-1848306318)
