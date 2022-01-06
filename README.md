@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make notes sharing app with React and Firebase](https://dev.to/snowbit/make-notes-sharing-app-with-react-and-firebase-5dle)
+- [Dev.to/JS] [Workshift - The all-in-one application for organisations](https://dev.to/arnu515/workshift-the-all-in-one-application-for-organisations-59aj)
 - [Dev.to/JS] [Node Scalable Architecture](https://dev.to/ahtrahdis7/node-scalable-architecture-384b)
 - [Dev.to/JS] [Build a Serverless REST API on AWS in under 5 minutes!](https://dev.to/manitej/build-a-serverless-rest-api-on-aws-in-under-5-minutes-144j)
 - [Dev.to/JS] [Selection Sort - Typescript](https://dev.to/manthanbhatt/selection-sort-typescript-3j14)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Java Development Methodologies For Your Application](https://dev.to/narolainfotechllp/java-development-methodologies-for-your-application-1a9f)
 - [Dev.to/JS] [A primer on WebAssembly](https://dev.to/divyamohan0209/a-primer-on-webassembly-36dj)
 - [Dev.to/JS] [ACE77 Bandar Situs Judi Online Terbesar](https://dev.to/situsace77/ace77-bandar-situs-judi-online-terbesar-3e0f)
-- [Dev.to/JS] [#7 - Closest and Smallest  CodeWars Kata &lpar;5 kyu&rpar;](https://dev.to/cesar__dlr/7-closest-and-smallest-codewars-kata-5-kyu-3o66)
-- [Dev.to/JS] [Social Network App Built with ReactJS, Java Spring Boot and MongoDB](https://dev.to/linhtch90/social-network-app-built-with-reactjs-java-spring-boot-and-mongodb-3al2)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
 - [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
 - [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
