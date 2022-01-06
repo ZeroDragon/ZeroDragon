@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Dev.to/JS] [Creating an npx Command](https://dev.to/deepgram/creating-an-npx-command-3jn2)
 - [Dev.to/JS] [Connecting Redux to Your React Application](https://dev.to/atcarter/connecting-redux-to-your-react-application-2n52)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Didn&#39;t Know You Were Ruining Your Mattress](https://lifehacker.com/all-the-ways-you-didnt-know-you-were-ruining-your-mattr-1848307051)
 - [Lifehacker] [Should You Stop Smoking for a Relationship?](https://lifehacker.com/should-you-stop-smoking-for-a-relationship-1848306318)
 - [Lifehacker] [How Do You Get a Kid to Like You?](https://lifehacker.com/how-do-you-get-a-kid-to-like-you-1848306414)
-- [Lifehacker] [3 Small Tips For Keeping Your New Year&#39;s Resolutions](https://lifehacker.com/3-small-tips-for-keeping-your-new-years-resolutions-1848307339)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
