@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node Scalable Architecture](https://dev.to/ahtrahdis7/node-scalable-architecture-384b)
+- [Dev.to/JS] [Build a Serverless REST API on AWS in under 5 minutes!](https://dev.to/manitej/build-a-serverless-rest-api-on-aws-in-under-5-minutes-144j)
+- [Dev.to/JS] [Selection Sort - Typescript](https://dev.to/manthanbhatt/selection-sort-typescript-3j14)
 - [Dev.to/JS] [Dynamic content rendering in Alpine.js](https://dev.to/mohsenkamrani/dynamic-content-rendering-in-alpinejs-3b6l)
 - [Dev.to/JS] [Fancy Progress Bar On Page Scroll](https://dev.to/sameer8saini/fancy-progress-bar-on-page-scroll-1633)
 - [Dev.to/JS] [Why a PWA app icon shouldn&#39;t have a purpose set to &#39;any maskable&#39;](https://dev.to/progressier/why-a-pwa-app-icon-shouldnt-have-a-purpose-set-to-any-maskable-4c78)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ACE77 Bandar Situs Judi Online Terbesar](https://dev.to/situsace77/ace77-bandar-situs-judi-online-terbesar-3e0f)
 - [Dev.to/JS] [#7 - Closest and Smallest  CodeWars Kata &lpar;5 kyu&rpar;](https://dev.to/cesar__dlr/7-closest-and-smallest-codewars-kata-5-kyu-3o66)
 - [Dev.to/JS] [Social Network App Built with ReactJS, Java Spring Boot and MongoDB](https://dev.to/linhtch90/social-network-app-built-with-reactjs-java-spring-boot-and-mongodb-3al2)
-- [Dev.to/JS] [Setup NGINX For Load Balancer](https://dev.to/ilhamsabir/setup-nginx-for-load-balancer-4iih)
-- [Dev.to/JS] [Somebody can help me with React.js issue?](https://dev.to/michaeljav/somebody-can-help-me-with-reactjs-issue-396h)
-- [Dev.to/JS] [Hello World](https://dev.to/zytha/hello-world-4cb3)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
 - [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
 - [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
