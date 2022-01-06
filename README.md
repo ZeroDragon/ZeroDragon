@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Find the Best Local Gardening, Home Repair, or Woodworking Workshops](https://lifehacker.com/where-to-find-the-best-local-gardening-home-repair-or-1848312050)
+- [Lifehacker] [How to Find Anyone on the Internet for Free](https://lifehacker.com/how-to-find-anyone-on-the-internet-for-free-1848312948)
 - [Lifehacker] [Your Apple Music Needs &#39;Smart&#39; Playlists](https://lifehacker.com/your-apple-music-needs-smart-playlists-1848312556)
 - [Dev.to/JS] [MeteorJs : Delivering your CSS/JS/Public assets through a CDN &lpar;Cloudfront&rpar;](https://dev.to/revolin/meteorjs-delivering-your-cssjspublic-assets-through-a-cdn-cloudfront-187o)
 - [Dev.to/JS] [JavaScript Roadmap 2022](https://dev.to/ravics09/javascript-roadmap-2022-24g9)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find All the Old Product Icons Apple Has Hidden in macOS](https://lifehacker.com/how-to-find-all-the-old-product-icons-apple-has-hidden-1848301929)
 - [Lifehacker] [When It&#39;s OK to Cook Dry Pasta Directly in Your Sauce, and When It Isn&#39;t](https://lifehacker.com/when-its-ok-to-cook-dry-pasta-directly-in-your-sauce-a-1848301506)
 - [Lifehacker] [How to Fold Towels Like You&#39;re at the Goddamn Spa](https://lifehacker.com/how-to-fold-towels-like-youre-at-the-goddamn-spa-1848302512)
-- [Lifehacker] [What Is Powerlifting, and How Do You Get Into It?](https://lifehacker.com/what-is-powerlifting-and-how-do-you-get-into-it-1848301232)
-- [Lifehacker] [When to See the Wolf Moon in January](https://lifehacker.com/when-to-see-the-wolf-moon-in-january-1848301029)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
