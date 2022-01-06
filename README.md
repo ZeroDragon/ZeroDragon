@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)
+- [Dev.to/JS] [[week1] Days 4 - Mini project around js and regex](https://dev.to/blackthor/week1-days-4-mini-project-around-js-and-regex-4di8)
+- [Dev.to/JS] [Redux no React - Assíncrono](https://dev.to/gabrielhsilvestre/redux-no-react-assincrono-2eb0)
+- [Dev.to/JS] [Virtual DOM, diffing- algorithm, Context API](https://dev.to/shuvrobaset/virtual-dom-diffing-algorithm-context-api-56ig)
+- [Lifehacker] [Don&#39;t Give Up Your Right to Sue Google](https://lifehacker.com/dont-give-up-your-right-to-sue-google-1848313515)
+- [Dev.to/JS] [How to Create this React Library Myself?](https://dev.to/danialdezfouli/how-to-create-this-react-library-myself-29k3)
 - [Dev.to/JS] [Complete NestJs JWT Authentication Example with Integration and End-to-End tests!](https://dev.to/vladwulf/complete-nestjs-jwt-authentication-example-with-integration-and-end-to-end-tests-326d)
 - [Dev.to/JS] [How to Create Modal Box Using CSS and JS](https://dev.to/softcodeon/how-to-create-modal-box-using-css-and-js-3hj)
 - [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Social Network App Built with ReactJS, Java Spring Boot and MongoDB](https://dev.to/linhtch90/social-network-app-built-with-reactjs-java-spring-boot-and-mongodb-47h1)
 - [Dev.to/JS] [Un ejemplo del uso de la coerción y ES6.](https://dev.to/gghgaby/un-ejemplo-del-uso-de-la-coercion-y-es6-150p)
 - [Dev.to/JS] [21+ Super DevTools you may have not heard of](https://dev.to/devdefinitive/21-super-devtools-you-may-have-not-heard-of-3d9c)
-- [Dev.to/JS] [Koa vs Express](https://dev.to/web2033/koa-vs-express-3em1)
-- [Dev.to/JS] [December Round-up: Docked Property Pane, Switch Group, Document Viewer Widgets, Admin Page Settings!](https://dev.to/appsmith/december-round-up-docked-property-pane-switch-group-document-viewer-widgets-admin-page-settings-ah5)
-- [Dev.to/JS] [NFT Marketplace Development - Things You Need To Know Before Launching It](https://dev.to/jacobpaul/nft-marketplace-things-you-need-to-know-before-launching-it-2bkc)
-- [Dev.to/JS] [11ty: Inject SVG code using Shortcodes](https://dev.to/extrabright/11ty-inject-svg-code-using-shortcodes-3l4m)
 - [Lifehacker] [How to Feel Warmer If You&#39;re Always Cold](https://lifehacker.com/how-to-feel-warmer-if-youre-always-cold-1848310457)
 - [Lifehacker] [How to Master &lpar;or Cheat at&rpar; Wordle, the Internet&#39;s Favorite Word Game of 2022](https://lifehacker.com/how-to-master-or-cheat-at-wordle-the-internets-favor-1848312354)
 - [Lifehacker] [How to Stream the 2022 CES Conference](https://lifehacker.com/how-to-stream-the-2022-ces-conference-1848310180)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Lose Weight Without Buying Into Diet Culture](https://lifehacker.com/how-to-lose-weight-without-buying-into-any-more-diet-bu-1847818364)
 - [Lifehacker] [&#39;Best Diet&#39; Lists Are All BS](https://lifehacker.com/there-is-no-best-diet-1845385562)
 - [Lifehacker] [The Best Ways to Filth Up Your Dirty Martini](https://lifehacker.com/the-best-ways-to-filth-up-your-dirty-martini-1848304038)
-- [Lifehacker] [Why You Still Need a Booster, Even After a Breakthrough COVID Case](https://lifehacker.com/why-you-still-need-a-booster-even-after-a-breakthrough-1848300059)
-- [Lifehacker] [How to Find All the Old Product Icons Apple Has Hidden in macOS](https://lifehacker.com/how-to-find-all-the-old-product-icons-apple-has-hidden-1848301929)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
