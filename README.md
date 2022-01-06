@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
+- [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)
+- [Dev.to/JS] [LeetCode - Search in Rotated Sorted Array](https://dev.to/_alkesh26/leetcode-search-in-rotated-sorted-array-4bgi)
 - [Lifehacker] [Here’s When to Get Your Older Kids Their Booster Shot](https://lifehacker.com/here-s-when-to-get-your-older-kids-their-booster-shot-1848313883)
 - [Dev.to/JS] [How I decided which language I should learn](https://dev.to/yuridevat/how-i-decided-which-language-i-should-learn-2lk4)
 - [Lifehacker] [The Right Way to Use a Scale to Track What You Eat](https://lifehacker.com/the-right-way-to-use-a-scale-to-track-what-you-eat-1848314496)
@@ -42,8 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Find the Best Local Gardening, Home Repair, or Woodworking Workshops](https://lifehacker.com/where-to-find-the-best-local-gardening-home-repair-or-1848312050)
 - [Lifehacker] [How to Find Anyone on the Internet for Free](https://lifehacker.com/how-to-find-anyone-on-the-internet-for-free-1848312948)
 - [Lifehacker] [Your Apple Music Needs &#39;Smart&#39; Playlists](https://lifehacker.com/your-apple-music-needs-smart-playlists-1848312556)
-- [Dev.to/JS] [MeteorJs : Delivering your CSS/JS/Public assets through a CDN &lpar;Cloudfront&rpar;](https://dev.to/revolin/meteorjs-delivering-your-cssjspublic-assets-through-a-cdn-cloudfront-187o)
-- [Dev.to/JS] [JavaScript Roadmap 2022](https://dev.to/ravics09/javascript-roadmap-2022-24g9)
+- [Dev.to/JS] [Delivering your Meteor CSS/JS bundles and Public assets through a CDN &lpar;Cloudfront&rpar;](https://dev.to/revolin/meteorjs-delivering-your-cssjspublic-assets-through-a-cdn-cloudfront-187o)
 - [Lifehacker] [How to Feel Warmer If You&#39;re Always Cold](https://lifehacker.com/how-to-feel-warmer-if-youre-always-cold-1848310457)
 - [Lifehacker] [How to Master &lpar;or Cheat at&rpar; Wordle, the Internet&#39;s Favorite Word Game of 2022](https://lifehacker.com/how-to-master-or-cheat-at-wordle-the-internets-favor-1848312354)
 - [Lifehacker] [How to Stream the 2022 CES Conference](https://lifehacker.com/how-to-stream-the-2022-ces-conference-1848310180)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [3 Small Tips For Keeping Your New Year&#39;s Resolutions](https://lifehacker.com/3-small-tips-for-keeping-your-new-years-resolutions-1848307339)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
 - [Lifehacker] [Should You Swab Your Throat for a Rapid COVID Test?](https://lifehacker.com/should-you-swab-your-throat-for-a-rapid-covid-test-1848306928)
-- [Lifehacker] [23 of Betty White’s Finest and Funniest Performances](https://lifehacker.com/23-of-betty-white-s-finest-and-funniest-performances-1848300929)
-- [Lifehacker] [How to Lose Weight Without Buying Into Diet Culture](https://lifehacker.com/how-to-lose-weight-without-buying-into-any-more-diet-bu-1847818364)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
