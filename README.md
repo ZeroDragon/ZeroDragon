@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Nested Tree View with Only One Query.](https://dev.to/burhanahmeed/create-nested-tree-view-with-only-one-query-ikj)
+- [Dev.to/JS] [6 Valuable Skills for Novice Front-end Developers in 2022](https://dev.to/flutter_hub/6-valuable-skills-for-novice-front-end-developers-in-2022-3002)
+- [Dev.to/JS] [Fixing Next.js router query param returning undefined on initial render](https://dev.to/deepcodes/fixing-nextjs-router-query-param-returning-undefined-on-initial-render-5f80)
+- [Dev.to/JS] [Migrating Helmet for Express.js from v4.x to v5.x](https://dev.to/darkmavis1980/migrating-helmet-for-expressjs-from-v4x-to-v5x-45ac)
+- [Dev.to/JS] [Build a video call app with Svelte in an afternoon](https://dev.to/trydaily/build-a-video-call-app-with-svelte-in-an-afternoon-4h7b)
+- [Dev.to/JS] [5 Programming Languages To Learn In 2022](https://dev.to/karthikbhandary2/5-programming-languages-to-learn-in-2022-5edn)
+- [Lifehacker] [How to Stream the 2022 CES Conference](https://lifehacker.com/how-to-stream-the-2022-ces-conference-1848310180)
+- [Dev.to/JS] [ES6 and Modern JavaScript](https://dev.to/naftalimurgor/es6-and-modern-javascript-4nje)
 - [Dev.to/JS] [This keyword in Javascript](https://dev.to/mdimran1409036/this-keyword-in-javascript-3039)
 - [Dev.to/JS] [What Would You Like To Change in This Website?](https://dev.to/apidev234/what-would-you-like-to-change-in-this-website-3m26)
 - [Dev.to/JS] [COVID Tracker App in  JS || 50 JS Project Challenge #3](https://dev.to/vector3studio/covid-tracker-app-in-js-50-js-project-challenge-3-14bh)
+- [Lifehacker] [‘Cage-Free’ Is Basically Meaningless, and Other Lies Your Egg Carton Is Telling You](https://lifehacker.com/cage-free-is-basically-meaningless-and-other-lies-yo-1848308957)
 - [Dev.to/JS] [A better way to show alerts in your next projects](https://dev.to/codewithsnowbit/a-better-way-to-show-alerts-in-your-next-projects-3h32)
 - [Dev.to/JS] [How to use the RxJS partition function](https://dev.to/tevpro/how-to-use-the-rxjs-partition-function-372c)
-- [Dev.to/JS] [Day 72 of 100 Days of Code &amp; Scrum: Making a Page for Portfolio Project Details](https://dev.to/rammina/day-72-of-100-days-of-code-scrum-making-a-page-for-portfolio-project-details-31dj)
-- [Dev.to/JS] [Should I ever have a role=&quot;button&quot;?](https://dev.to/merri/should-i-ever-have-a-rolebutton-4f3c)
-- [Dev.to/JS] [Why is redux state immutable?](https://dev.to/supertokens/why-is-redux-state-immutable-5359)
-- [Dev.to/JS] [Design Pattern in Node JS](https://dev.to/sibaspage/design-pattern-in-node-js-bkl)
-- [Dev.to/JS] [Why Remix 💿?](https://dev.to/shafspecs/why-remix--5cm5)
-- [Dev.to/JS] [Technical Writer](https://dev.to/vaishnaviappsmith/technical-writer-8c5)
-- [Dev.to/JS] [Day 2 #Javascript30 challenge](https://dev.to/leedd87/day-2-javascript30-challenge-4c8f)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
 - [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
 - [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Understanding &#39;Density&#39; Can Help You Avoid Overtraining](https://lifehacker.com/how-understanding-density-can-help-you-avoid-overtraini-1848265299)
 - [Lifehacker] [Other Foods You Should Dry in a Salad Spinner](https://lifehacker.com/other-foods-you-should-dry-in-a-salad-spinner-1848301307)
 - [Lifehacker] [How to Stop Wasting Your Gift Cards](https://lifehacker.com/how-to-stop-wasting-your-gift-cards-1848300565)
-- [Lifehacker] [Chrome 97 Can Erase Stored Data on Every Website You Visit](https://lifehacker.com/chrome-97-can-erase-stored-data-on-every-website-you-vi-1848300443)
-- [Lifehacker] [Stop Wearing Cloth Masks](https://lifehacker.com/stop-wearing-cloth-masks-1848300414)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
 - [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
 
