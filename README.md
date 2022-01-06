@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create schedule trigger in MongoDB Atlas](https://dev.to/zainbinfurqan/how-to-create-schedule-trigger-in-mongodb-atlas-1af8)
+- [Dev.to/JS] [Crypto price tracker with JS](https://dev.to/devrohit0/crypto-price-tracker-with-js-57d7)
+- [Dev.to/JS] [The best features added to JavaScript from 2016 to 2021](https://dev.to/realattila/the-best-features-added-to-javascript-from-2016-to-2021-5803)
+- [Dev.to/JS] [WooCommerce Magento 2 Integration](https://dev.to/ashutoshsonker786/woocommerce-magento-2-integration-f51)
 - [Dev.to/JS] [How to change the app name in react-native&lpar;in android and IOS&rpar;:](https://dev.to/zenkoders/how-to-change-the-app-name-in-react-nativein-android-and-ios-573i)
 - [Dev.to/JS] [Intersection Observer in JavaScript | Infinite Scrolling | Lazy Loading](https://dev.to/dasaradhanimmala/intersection-observer-in-javascript-infinite-scrolling-lazy-loading-3h50)
 - [Dev.to/JS] [What is Webpack? In simple words.](https://dev.to/nitsancohen770/what-is-webpack-in-simple-words-31fe)
 - [Dev.to/JS] [An Introduction to Asynchronous Programming in JavaScript](https://dev.to/biswarup35/an-introduction-to-asynchronous-programming-in-javascript-4o01)
 - [Dev.to/JS] [Template Literals || ES6](https://dev.to/syafiq1331/template-literals-es6-154c)
-- [Dev.to/JS] [Make notes sharing app with React and Firebase](https://dev.to/snowbit/make-notes-sharing-app-with-react-and-firebase-5dle)
+- [Dev.to/JS] [Make notes sharing app with React and Firebase](https://dev.to/codewithsnowbit/make-notes-sharing-app-with-react-and-firebase-5dle)
 - [Dev.to/JS] [Workshift - The all-in-one application for organisations](https://dev.to/arnu515/workshift-the-all-in-one-application-for-organisations-59aj)
 - [Dev.to/JS] [Node Scalable Architecture](https://dev.to/ahtrahdis7/node-scalable-architecture-384b)
-- [Dev.to/JS] [Build a Serverless REST API on AWS in under 5 minutes!](https://dev.to/manitej/build-a-serverless-rest-api-on-aws-in-under-5-minutes-144j)
-- [Dev.to/JS] [Selection Sort - Typescript](https://dev.to/manthanbhatt/selection-sort-typescript-3j14)
-- [Dev.to/JS] [Dynamic content rendering in Alpine.js](https://dev.to/mohsenkamrani/dynamic-content-rendering-in-alpinejs-3b6l)
-- [Dev.to/JS] [Fancy Progress Bar On Page Scroll](https://dev.to/sameer8saini/fancy-progress-bar-on-page-scroll-1633)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
 - [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
 - [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
