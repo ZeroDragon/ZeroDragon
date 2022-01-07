@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 6 Features to Consider Before Developing On-Demand Tutor App](https://dev.to/william31286374/top-6-features-to-consider-before-developing-on-demand-tutor-app-98e)
+- [Dev.to/JS] [Advanced JavaScript Series - Part 3: Weird JS behavior, Strict Mode and Hoisting](https://dev.to/pranav016/advanced-javascript-series-part-3-weird-js-behavior-strict-mode-and-hoisting-26a3)
+- [Dev.to/JS] [The Story of NPM and Left-pad](https://dev.to/legaciespanda/the-story-of-npm-and-left-pad-1la8)
+- [Dev.to/JS] [ES2020, and what it brings to the table.](https://dev.to/grover_sumrit/es2020-and-what-it-brings-to-the-table-41bf)
+- [Dev.to/JS] [Como eu inicio um projeto com NextJS, TypeScript e TailwindCSS!](https://dev.to/miguel5g/como-eu-inicio-um-projeto-com-nextjs-typescript-e-tailwindcss-4p4c)
 - [Dev.to/JS] [Project 95 of 100 - React Native Party Invites List](https://dev.to/jwhubert91/project-95-of-100-react-native-party-invites-list-392a)
 - [Dev.to/JS] [Angular material table remove element by index with paginator](https://dev.to/pantpapasavvas/angular-material-table-remove-element-by-index-with-paginator-449a)
 - [Dev.to/JS] [Upgrading a create-react-app game to React 18](https://dev.to/mbarzeev/upgrading-a-create-react-app-game-to-react-18-4d5p)
@@ -30,12 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Inspired by the future: Vision UI Dashboard React PRO](https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-pro-5ei0)
 - [Dev.to/JS] [5 Ways to Add Breakpoints on Chrome Devtools](https://dev.to/bytefish/5-ways-to-add-breakpoints-on-chrome-devtools-f28)
 - [Dev.to/JS] [Rails 7.0 demo with Hotwire and Tailwind](https://dev.to/aquadrehz/rails-70-demo-with-hotwire-and-tailwind-4b3d)
-- [Dev.to/JS] [Building a Fastify NodeJS server](https://dev.to/dailydevtips1/building-a-fastify-nodejs-server-296g)
-- [Dev.to/JS] [Why does angular run change detection Checks after a component is detached from the view?](https://dev.to/vaz_len/why-does-angular-run-change-detection-checks-after-a-component-is-detached-from-the-view-4bp8)
-- [Dev.to/JS] [Leetcode diary: dynamic programming beginners](https://dev.to/kevin074/leetcode-diary-dynamic-programming-beginners-20d9)
-- [Dev.to/JS] [#8 - Simple remove duplicates             
-CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/8-simple-remove-duplicates-codewars-kata-7-kyu-15dn)
-- [Dev.to/JS] [Build a social network with ReactJS, Spring Boot and MongoDB](https://dev.to/linhtch90/build-a-social-network-with-reactjs-spring-boot-and-mongodb-3315)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
