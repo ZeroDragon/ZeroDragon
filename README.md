@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setting up an Angular Project](https://dev.to/inchukwudi/setting-up-an-angular-project-4nl)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Dev.to/JS] [Beautiful Functions: Psi](https://dev.to/jethrolarson/beautiful-functions-psi-lcb)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is TypeScript?](https://dev.to/ameerrah9/what-is-typescript-1ol8)
 - [Dev.to/JS] [a](https://dev.to/odonml/a-87e)
 - [Dev.to/JS] [CINERANT - A movie rant WebSite Project.](https://dev.to/imnotgon/cinerant-a-movie-rant-website-project-1mn3)
-- [Dev.to/JS] [three.js responsive starter template:](https://dev.to/dharmi/threejs-responsive-starter-template-41db)
 - [Lifehacker] [11 Facts That Will Curb Your Fear of Flying, Once and for All](https://lifehacker.com/11-facts-that-will-curb-your-fear-of-flying-once-and-f-1848320513)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Why Is Twee Back in Fashion?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-tw-1848318777)
 - [Lifehacker] [16 Movies About Climbing Back From Rock Bottom](https://lifehacker.com/16-movies-about-climbing-back-from-rock-bottom-1848277465)
