@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testing Async Redux Actions menggunakan Jest](https://dev.to/ridhopamungkas/testing-async-redux-actions-menggunakan-jest-28b1)
+- [Dev.to/JS] [What&#39;s Difference Between Unit Test and Integration Test](https://dev.to/lazypro/whats-difference-between-unit-test-and-integration-test-l2p)
+- [Dev.to/JS] [Hello world in Vue.js](https://dev.to/mohsenkamrani/hello-world-in-vuejs-3l1)
 - [Dev.to/JS] [The Value of a Pick&lt;&gt;](https://dev.to/brianeyster/the-value-of-a-pick-9g8)
 - [Dev.to/JS] [O framework Javascript simples](https://dev.to/denis_power/o-framework-javascript-simples-4n72)
 - [Dev.to/JS] [flappy bird game | javascipt | canvas |html |css](https://dev.to/shatud/flappy-bird-game-javascipt-canvas-html-css-40ii)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My First React Project &amp; React State | Day 5 &amp; 6](https://dev.to/developerioweb/my-first-react-project-react-state-day-5-6-4b21)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
 - [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)
-- [Dev.to/JS] [LeetCode - Search in Rotated Sorted Array](https://dev.to/_alkesh26/leetcode-search-in-rotated-sorted-array-4bgi)
 - [Lifehacker] [Here’s When to Get Your Older Kids Their Booster Shot](https://lifehacker.com/here-s-when-to-get-your-older-kids-their-booster-shot-1848313883)
-- [Dev.to/JS] [How I decided which language I should learn](https://dev.to/yuridevat/how-i-decided-which-language-i-should-learn-2lk4)
 - [Lifehacker] [The Right Way to Use a Scale to Track What You Eat](https://lifehacker.com/the-right-way-to-use-a-scale-to-track-what-you-eat-1848314496)
-- [Dev.to/JS] [CRUD with NodeJs &amp; ReactJs](https://dev.to/shuvrobaset/crud-with-nodejs-reactjs-173h)
 - [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)
 - [Lifehacker] [Don&#39;t Give Up Your Right to Sue Google](https://lifehacker.com/dont-give-up-your-right-to-sue-google-1848313515)
 - [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)
