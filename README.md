@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dev Log[0]](https://dev.to/ccolesv/dev-log0-52hf)
 - [Dev.to/JS] [Top YouTube channels to follow for 2022, to be a better software engineer, not just a coder.](https://dev.to/iwashiding/top-youtube-channels-to-follow-for-2022-to-be-a-better-software-engineer-not-just-a-coder-52md)
 - [Dev.to/JS] [Testing Async Redux Actions menggunakan Jest](https://dev.to/ridhopamungkas/testing-async-redux-actions-menggunakan-jest-28b1)
 - [Dev.to/JS] [What&#39;s Difference Between Unit Test and Integration Test](https://dev.to/lazypro/whats-difference-between-unit-test-and-integration-test-l2p)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Connecting Redux to Your React Application](https://dev.to/atcarter/connecting-redux-to-your-react-application-2n52)
 - [Dev.to/JS] [Understanding JavaScript Primitive vrs Reference Values](https://dev.to/efkumah/understanding-javascript-primitive-vrs-reference-values-4ipj)
 - [Dev.to/JS] [Star Rating](https://dev.to/sonu_sharma/star-rating-31hj)
-- [Dev.to/JS] [Rendering: Half-Full or Half-Empty?](https://dev.to/lorenmichael/rendering-half-full-or-half-empty-581n)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
 - [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)
 - [Lifehacker] [Here’s When to Get Your Older Kids Their Booster Shot](https://lifehacker.com/here-s-when-to-get-your-older-kids-their-booster-shot-1848313883)
