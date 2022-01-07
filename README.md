@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode diary: dynamic programming beginners](https://dev.to/kevin074/leetcode-diary-dynamic-programming-beginners-20d9)
+- [Dev.to/JS] [#8 - Simple remove duplicates             
+CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/8-simple-remove-duplicates-codewars-kata-7-kyu-15dn)
+- [Dev.to/JS] [Build a social network with ReactJS, Spring Boot and MongoDB](https://dev.to/linhtch90/build-a-social-network-with-reactjs-spring-boot-and-mongodb-3315)
 - [Dev.to/JS] [Progressively Adding Fable to JS Projects](https://dev.to/tunaxor/progressively-adding-fable-to-js-projects-2f7m)
 - [Dev.to/JS] [Hello World](https://dev.to/javascriptdesigner/hello-world-3n9m)
 - [Dev.to/JS] [Dev Log[0]](https://dev.to/ccolesv/dev-log0-52hf)
@@ -32,11 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello world in Vue.js](https://dev.to/mohsenkamrani/hello-world-in-vuejs-3l1)
 - [Dev.to/JS] [The Value of a Pick&lt;&gt;](https://dev.to/brianeyster/the-value-of-a-pick-9g8)
 - [Dev.to/JS] [O framework Javascript simples](https://dev.to/denis_power/o-framework-javascript-simples-4n72)
-- [Dev.to/JS] [flappy bird game | javascipt | canvas |html |css](https://dev.to/shatud/flappy-bird-game-javascipt-canvas-html-css-40ii)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
-- [Dev.to/JS] [Creating an npx Command](https://dev.to/deepgram/creating-an-npx-command-3jn2)
-- [Dev.to/JS] [Connecting Redux to Your React Application](https://dev.to/atcarter/connecting-redux-to-your-react-application-2n52)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
 - [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)
 - [Lifehacker] [Here’s When to Get Your Older Kids Their Booster Shot](https://lifehacker.com/here-s-when-to-get-your-older-kids-their-booster-shot-1848313883)
