@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Finder Won&#39;t Let You Eject Disk Images &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-finder-wont-let-you-eject-disk-images-and-how-to-f-1848320523)
+- [Lifehacker] [You Can Finally Stream All of the Olympics Without a Cable Subscription](https://lifehacker.com/you-can-finally-stream-all-of-the-olympics-without-a-ca-1848321129)
+- [Dev.to/JS] [What is TypeScript?](https://dev.to/ameerrah9/what-is-typescript-1ol8)
+- [Dev.to/JS] [a](https://dev.to/odonml/a-87e)
 - [Dev.to/JS] [CINERANT - A movie rant WebSite Project.](https://dev.to/imnotgon/cinerant-a-movie-rant-website-project-1mn3)
 - [Dev.to/JS] [three.js responsive starter template:](https://dev.to/dharmi/threejs-responsive-starter-template-41db)
 - [Lifehacker] [11 Facts That Will Curb Your Fear of Flying, Once and for All](https://lifehacker.com/11-facts-that-will-curb-your-fear-of-flying-once-and-f-1848320513)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple code is different from simplistic code: Elm vs JavaScript](https://dev.to/marciofrayze/simple-code-is-different-from-simplistic-code-elm-vs-javascript-1pp)
 - [Dev.to/JS] [How to generate random color with JavaScript](https://dev.to/zougari47/how-to-generate-random-color-with-javascript-4ama)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Why Is Twee Back in Fashion?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-tw-1848318777)
-- [Dev.to/JS] [AdonisJS Refresh Command](https://dev.to/mattkenefick/adonisjs-refresh-command-1j58)
-- [Dev.to/JS] [Scope Basis &lpar;Life span of a code&rpar;](https://dev.to/biochris/scope-basis-life-span-of-a-code-2ik5)
 - [Lifehacker] [16 Movies About Climbing Back From Rock Bottom](https://lifehacker.com/16-movies-about-climbing-back-from-rock-bottom-1848277465)
 - [Lifehacker] [Use This App to Solve the Biggest Problem With Apple Reminders](https://lifehacker.com/use-this-app-to-solve-the-biggest-problem-with-apple-re-1848319244)
 - [Lifehacker] [How to Keep Inflation From Ruining Your Home Improvement Plans](https://lifehacker.com/how-to-keep-inflation-from-ruining-your-home-improvemen-1848319022)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Feel Warmer If You&#39;re Always Cold](https://lifehacker.com/how-to-feel-warmer-if-youre-always-cold-1848310457)
 - [Lifehacker] [How to Master &lpar;or Cheat at&rpar; Wordle, the Internet&#39;s Favorite Word Game of 2022](https://lifehacker.com/how-to-master-or-cheat-at-wordle-the-internets-favor-1848312354)
 - [Lifehacker] [How to Stream the 2022 CES Conference](https://lifehacker.com/how-to-stream-the-2022-ces-conference-1848310180)
-- [Lifehacker] [‘Cage-Free’ Is Basically Meaningless, and Other Lies Your Egg Carton Is Telling You](https://lifehacker.com/cage-free-is-basically-meaningless-and-other-lies-yo-1848308957)
-- [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)<!-- TECH-POSTS:END -->
 
