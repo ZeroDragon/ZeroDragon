@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Project 95 of 100 - React Native Party Invites List](https://dev.to/jwhubert91/project-95-of-100-react-native-party-invites-list-392a)
+- [Dev.to/JS] [Angular material table remove element by index with paginator](https://dev.to/pantpapasavvas/angular-material-table-remove-element-by-index-with-paginator-449a)
+- [Dev.to/JS] [Upgrading a create-react-app game to React 18](https://dev.to/mbarzeev/upgrading-a-create-react-app-game-to-react-18-4d5p)
 - [Dev.to/JS] [It&#39;s Prisma Time - Update](https://dev.to/this-is-learning/its-prisma-time-update-1mmi)
 - [Dev.to/JS] [Inspired by the future: Vision UI Dashboard React PRO](https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-pro-5ei0)
 - [Dev.to/JS] [5 Ways to Add Breakpoints on Chrome Devtools](https://dev.to/bytefish/5-ways-to-add-breakpoints-on-chrome-devtools-f28)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#8 - Simple remove duplicates             
 CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/8-simple-remove-duplicates-codewars-kata-7-kyu-15dn)
 - [Dev.to/JS] [Build a social network with ReactJS, Spring Boot and MongoDB](https://dev.to/linhtch90/build-a-social-network-with-reactjs-spring-boot-and-mongodb-3315)
-- [Dev.to/JS] [Progressively Adding Fable to JS Projects](https://dev.to/tunaxor/progressively-adding-fable-to-js-projects-2f7m)
-- [Dev.to/JS] [Hello World](https://dev.to/javascriptdesigner/hello-world-3n9m)
-- [Dev.to/JS] [Dev Log[0]](https://dev.to/ccolesv/dev-log0-52hf)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
