@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use This App to Solve the Biggest Problem With Apple Reminders](https://lifehacker.com/use-this-app-to-solve-the-biggest-problem-with-apple-re-1848319244)
+- [Dev.to/JS] [Next.JS - the production ready react on steroids framework](https://dev.to/atordvairn/nextjs-the-production-ready-react-on-steroids-framework-3mkj)
+- [Dev.to/JS] [Customizing the Apostrophe Admin UI](https://dev.to/apostrophecms/customizing-the-apostrophe-admin-ui-4dai)
+- [Dev.to/JS] [How to Create Modal Box Using CSS and JS](https://dev.to/elinabey/how-to-create-modal-box-using-css-and-js-3bjj)
+- [Lifehacker] [How to Keep Inflation From Ruining Your Home Improvement Plans](https://lifehacker.com/how-to-keep-inflation-from-ruining-your-home-improvemen-1848319022)
+- [Dev.to/JS] [next-export-i18n v1.3.0: respecing the user&#39;s default language](https://dev.to/martinkr/next-export-i18n-v130-respecing-the-users-default-language-48h4)
+- [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 7th January 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-7th-january-2022-c9i)
 - [Lifehacker] [The Most Popular Places on Zillow to Fantasize About a Home You Can&#39;t Afford](https://lifehacker.com/the-most-popular-places-on-zillow-to-fantasize-about-a-1848317022)
 - [Dev.to/JS] [How to Add Custom JavaScript and CSS in WordPress](https://dev.to/raman_sata_99/how-to-add-custom-javascript-and-css-in-wordpress-258c)
 - [Dev.to/JS] [AngularJs or ReactJS? what do you prefer and why?](https://dev.to/knkhayam/welcome-everyone-1fik)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 3 #Javascript30 challenge](https://dev.to/leedd87/day-3-javascript30-challenge-2bgg)
 - [Dev.to/JS] [Intro to FlatifyCSS - Modern flat design framework for the web](https://dev.to/amir2mi/intro-to-flatifycss-modern-flat-design-framework-for-the-web-11pm)
 - [Dev.to/JS] [Configure Axios interceptor in few minutes...](https://dev.to/sheikhfahad67/configure-axios-interceptor-in-few-minutes-2chk)
-- [Dev.to/JS] [🔴Here&#39;s everything you need to know about Python](https://dev.to/nathanmartin97/heres-everything-you-need-to-know-about-python-4af3)
-- [Dev.to/JS] [🔵Master Python In Just A Few Hours!](https://dev.to/nathanmartin97/master-python-in-just-a-few-hours-6o4)
-- [Dev.to/JS] [Top 6 Features to Consider Before Developing On-Demand Tutor App](https://dev.to/william31286374/top-6-features-to-consider-before-developing-on-demand-tutor-app-98e)
-- [Dev.to/JS] [Advanced JavaScript Series - Part 3: Weird JS behavior, Strict Mode and Hoisting](https://dev.to/pranav016/advanced-javascript-series-part-3-weird-js-behavior-strict-mode-and-hoisting-26a3)
-- [Dev.to/JS] [The Story of NPM and Left-pad](https://dev.to/legaciespanda/the-story-of-npm-and-left-pad-1la8)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
 - [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
 - [Lifehacker] [Where to Live If You Want a Pet Lion](https://lifehacker.com/where-to-live-if-you-want-a-pet-lion-1848309048)
-- [Lifehacker] [Why Do Retro Games Look Better on Old TVs?](https://lifehacker.com/why-do-retro-games-look-better-on-old-tvs-1848306958)
-- [Lifehacker] [All the Ways You Didn&#39;t Know You Were Ruining Your Mattress](https://lifehacker.com/all-the-ways-you-didnt-know-you-were-ruining-your-mattr-1848307051)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)<!-- TECH-POSTS:END -->
 
