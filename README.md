@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s Prisma Time - Update](https://dev.to/this-is-learning/its-prisma-time-update-1mmi)
+- [Dev.to/JS] [Inspired by the future: Vision UI Dashboard React PRO](https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-pro-5ei0)
+- [Dev.to/JS] [5 Ways to Add Breakpoints on Chrome Devtools](https://dev.to/bytefish/5-ways-to-add-breakpoints-on-chrome-devtools-f28)
+- [Dev.to/JS] [Rails 7.0 demo with Hotwire and Tailwind](https://dev.to/aquadrehz/rails-70-demo-with-hotwire-and-tailwind-4b3d)
+- [Dev.to/JS] [Building a Fastify NodeJS server](https://dev.to/dailydevtips1/building-a-fastify-nodejs-server-296g)
+- [Dev.to/JS] [Why does angular run change detection Checks after a component is detached from the view?](https://dev.to/vaz_len/why-does-angular-run-change-detection-checks-after-a-component-is-detached-from-the-view-4bp8)
 - [Dev.to/JS] [Leetcode diary: dynamic programming beginners](https://dev.to/kevin074/leetcode-diary-dynamic-programming-beginners-20d9)
 - [Dev.to/JS] [#8 - Simple remove duplicates             
 CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/8-simple-remove-duplicates-codewars-kata-7-kyu-15dn)
@@ -30,12 +36,6 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/8-simple-remove-dupli
 - [Dev.to/JS] [Progressively Adding Fable to JS Projects](https://dev.to/tunaxor/progressively-adding-fable-to-js-projects-2f7m)
 - [Dev.to/JS] [Hello World](https://dev.to/javascriptdesigner/hello-world-3n9m)
 - [Dev.to/JS] [Dev Log[0]](https://dev.to/ccolesv/dev-log0-52hf)
-- [Dev.to/JS] [Top YouTube channels to follow for 2022, to be a better software engineer, not just a coder.](https://dev.to/iwashiding/top-youtube-channels-to-follow-for-2022-to-be-a-better-software-engineer-not-just-a-coder-52md)
-- [Dev.to/JS] [Testing Async Redux Actions menggunakan Jest](https://dev.to/ridhopamungkas/testing-async-redux-actions-menggunakan-jest-28b1)
-- [Dev.to/JS] [What&#39;s Difference Between Unit Test and Integration Test](https://dev.to/lazypro/whats-difference-between-unit-test-and-integration-test-l2p)
-- [Dev.to/JS] [Hello world in Vue.js](https://dev.to/mohsenkamrani/hello-world-in-vuejs-3l1)
-- [Dev.to/JS] [The Value of a Pick&lt;&gt;](https://dev.to/brianeyster/the-value-of-a-pick-9g8)
-- [Dev.to/JS] [O framework Javascript simples](https://dev.to/denis_power/o-framework-javascript-simples-4n72)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
