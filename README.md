@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Value of a Pick&lt;&gt;](https://dev.to/brianeyster/the-value-of-a-pick-9g8)
+- [Dev.to/JS] [O framework Javascript simples](https://dev.to/denis_power/o-framework-javascript-simples-4n72)
+- [Dev.to/JS] [flappy bird game | javascipt | canvas |html |css](https://dev.to/shatud/flappy-bird-game-javascipt-canvas-html-css-40ii)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Dev.to/JS] [Creating an npx Command](https://dev.to/deepgram/creating-an-npx-command-3jn2)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I decided which language I should learn](https://dev.to/yuridevat/how-i-decided-which-language-i-should-learn-2lk4)
 - [Lifehacker] [The Right Way to Use a Scale to Track What You Eat](https://lifehacker.com/the-right-way-to-use-a-scale-to-track-what-you-eat-1848314496)
 - [Dev.to/JS] [CRUD with NodeJs &amp; ReactJs](https://dev.to/shuvrobaset/crud-with-nodejs-reactjs-173h)
-- [Dev.to/JS] [Do you really know TypeScript? &lpar;4&rpar;: Type assertions](https://dev.to/alexmenor/do-you-really-know-typescript-4-type-assertions-2644)
 - [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)
-- [Dev.to/JS] [[week1] Days 4 - Mini project around js and regex](https://dev.to/blackthor/week1-days-4-mini-project-around-js-and-regex-4di8)
-- [Dev.to/JS] [Redux no React - Assíncrono](https://dev.to/gabrielhsilvestre/redux-no-react-assincrono-2eb0)
 - [Lifehacker] [Don&#39;t Give Up Your Right to Sue Google](https://lifehacker.com/dont-give-up-your-right-to-sue-google-1848313515)
 - [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)
 - [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848310718)
