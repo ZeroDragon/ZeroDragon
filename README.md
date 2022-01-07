@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most Popular Places on Zillow to Fantasize About a Home You Can&#39;t Afford](https://lifehacker.com/the-most-popular-places-on-zillow-to-fantasize-about-a-1848317022)
+- [Dev.to/JS] [How to Add Custom JavaScript and CSS in WordPress](https://dev.to/raman_sata_99/how-to-add-custom-javascript-and-css-in-wordpress-258c)
+- [Dev.to/JS] [AngularJs or ReactJS? what do you prefer and why?](https://dev.to/knkhayam/welcome-everyone-1fik)
+- [Dev.to/JS] [13 Ultimate UI/UX website inspiration for Designers and Developers](https://dev.to/devdefinitive/13-ultimate-uiux-website-inspiration-for-designers-and-developers-36kd)
+- [Lifehacker] [Why You Should Prep Your Garnishes Before You Start Cooking](https://lifehacker.com/why-you-should-prep-your-garnishes-before-you-start-coo-1848315688)
 - [Dev.to/JS] [How to Start Using Typescript](https://dev.to/codesphere/how-to-start-using-typescript-3ki0)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)
 - [Dev.to/JS] [Day 3 #Javascript30 challenge](https://dev.to/leedd87/day-3-javascript30-challenge-2bgg)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 6 Features to Consider Before Developing On-Demand Tutor App](https://dev.to/william31286374/top-6-features-to-consider-before-developing-on-demand-tutor-app-98e)
 - [Dev.to/JS] [Advanced JavaScript Series - Part 3: Weird JS behavior, Strict Mode and Hoisting](https://dev.to/pranav016/advanced-javascript-series-part-3-weird-js-behavior-strict-mode-and-hoisting-26a3)
 - [Dev.to/JS] [The Story of NPM and Left-pad](https://dev.to/legaciespanda/the-story-of-npm-and-left-pad-1la8)
-- [Dev.to/JS] [ES2020, and what it brings to the table.](https://dev.to/grover_sumrit/es2020-and-what-it-brings-to-the-table-41bf)
-- [Dev.to/JS] [Como eu inicio um projeto com NextJS, TypeScript e TailwindCSS!](https://dev.to/miguel5g/como-eu-inicio-um-projeto-com-nextjs-typescript-e-tailwindcss-4p4c)
-- [Dev.to/JS] [Project 95 of 100 - React Native Party Invites List](https://dev.to/jwhubert91/project-95-of-100-react-native-party-invites-list-392a)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Live If You Want a Pet Lion](https://lifehacker.com/where-to-live-if-you-want-a-pet-lion-1848309048)
 - [Lifehacker] [Why Do Retro Games Look Better on Old TVs?](https://lifehacker.com/why-do-retro-games-look-better-on-old-tvs-1848306958)
 - [Lifehacker] [All the Ways You Didn&#39;t Know You Were Ruining Your Mattress](https://lifehacker.com/all-the-ways-you-didnt-know-you-were-ruining-your-mattr-1848307051)
-- [Lifehacker] [Should You Stop Smoking for a Relationship?](https://lifehacker.com/should-you-stop-smoking-for-a-relationship-1848306318)
-- [Lifehacker] [How Do You Get a Kid to Like You?](https://lifehacker.com/how-do-you-get-a-kid-to-like-you-1848306414)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)<!-- TECH-POSTS:END -->
 
