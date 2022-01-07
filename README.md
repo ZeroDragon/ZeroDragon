@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Why Is Twee Back in Fashion?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-tw-1848318777)
+- [Dev.to/JS] [AdonisJS Refresh Command](https://dev.to/mattkenefick/adonisjs-refresh-command-1j58)
+- [Dev.to/JS] [Scope Basis &lpar;Life span of a code&rpar;](https://dev.to/biochris/scope-basis-life-span-of-a-code-2ik5)
+- [Lifehacker] [16 Movies About Climbing Back From Rock Bottom](https://lifehacker.com/16-movies-about-climbing-back-from-rock-bottom-1848277465)
+- [Dev.to/JS] [Search Component gotcha in ReactJS](https://dev.to/gauravbasti2006/search-component-gotcha-in-reactjs-4me)
+- [Dev.to/JS] [DEV Book store](https://dev.to/codewithpom/dev-book-store-c6l)
+- [Dev.to/JS] [Android.js - build android apps from nodejs](https://dev.to/atordvairn/androidjs-build-android-apps-from-nodejs-1056)
+- [Dev.to/JS] [react native- JavaScript is everywhere](https://dev.to/atordvairn/react-native-javascript-is-everywhere-15ie)
 - [Lifehacker] [Use This App to Solve the Biggest Problem With Apple Reminders](https://lifehacker.com/use-this-app-to-solve-the-biggest-problem-with-apple-re-1848319244)
 - [Dev.to/JS] [Next.JS - the production ready react on steroids framework](https://dev.to/atordvairn/nextjs-the-production-ready-react-on-steroids-framework-3mkj)
 - [Dev.to/JS] [Customizing the Apostrophe Admin UI](https://dev.to/apostrophecms/customizing-the-apostrophe-admin-ui-4dai)
@@ -32,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 7th January 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-7th-january-2022-c9i)
 - [Lifehacker] [The Most Popular Places on Zillow to Fantasize About a Home You Can&#39;t Afford](https://lifehacker.com/the-most-popular-places-on-zillow-to-fantasize-about-a-1848317022)
 - [Dev.to/JS] [How to Add Custom JavaScript and CSS in WordPress](https://dev.to/raman_sata_99/how-to-add-custom-javascript-and-css-in-wordpress-258c)
-- [Dev.to/JS] [AngularJs or ReactJS? what do you prefer and why?](https://dev.to/knkhayam/welcome-everyone-1fik)
-- [Dev.to/JS] [13 Ultimate UI/UX website inspiration for Designers and Developers](https://dev.to/devdefinitive/13-ultimate-uiux-website-inspiration-for-designers-and-developers-36kd)
 - [Lifehacker] [Why You Should Prep Your Garnishes Before You Start Cooking](https://lifehacker.com/why-you-should-prep-your-garnishes-before-you-start-coo-1848315688)
-- [Dev.to/JS] [How to Start Using Typescript](https://dev.to/codesphere/how-to-start-using-typescript-3ki0)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)
-- [Dev.to/JS] [Day 3 #Javascript30 challenge](https://dev.to/leedd87/day-3-javascript30-challenge-2bgg)
-- [Dev.to/JS] [Intro to FlatifyCSS - Modern flat design framework for the web](https://dev.to/amir2mi/intro-to-flatifycss-modern-flat-design-framework-for-the-web-11pm)
-- [Dev.to/JS] [Configure Axios interceptor in few minutes...](https://dev.to/sheikhfahad67/configure-axios-interceptor-in-few-minutes-2chk)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Cage-Free’ Is Basically Meaningless, and Other Lies Your Egg Carton Is Telling You](https://lifehacker.com/cage-free-is-basically-meaningless-and-other-lies-yo-1848308957)
 - [Lifehacker] [How to Keep Mice From Hiding in Your Oven](https://lifehacker.com/how-to-keep-mice-from-hiding-in-your-oven-1848309633)
 - [Lifehacker] [Which Direction Do You Face in the Squat Rack?](https://lifehacker.com/which-direction-do-you-face-in-the-squat-rack-1848309954)
-- [Lifehacker] [How to Spot Undercover Cops and Unmarked Police Cars](https://lifehacker.com/how-to-spot-undercover-cops-and-unmarked-police-cars-1848309745)
-- [Lifehacker] [Where to Live If You Want a Pet Lion](https://lifehacker.com/where-to-live-if-you-want-a-pet-lion-1848309048)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
 - [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)<!-- TECH-POSTS:END -->
 
