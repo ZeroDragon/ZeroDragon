@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 3 #Javascript30 challenge](https://dev.to/leedd87/day-3-javascript30-challenge-2bgg)
+- [Dev.to/JS] [Intro to FlatifyCSS - Modern flat design framework for the web](https://dev.to/amir2mi/intro-to-flatifycss-modern-flat-design-framework-for-the-web-11pm)
+- [Dev.to/JS] [Configure Axios interceptor in few minutes...](https://dev.to/sheikhfahad67/configure-axios-interceptor-in-few-minutes-2chk)
 - [Dev.to/JS] [🔴Here&#39;s everything you need to know about Python](https://dev.to/nathanmartin97/heres-everything-you-need-to-know-about-python-4af3)
 - [Dev.to/JS] [🔵Master Python In Just A Few Hours!](https://dev.to/nathanmartin97/master-python-in-just-a-few-hours-6o4)
 - [Dev.to/JS] [Top 6 Features to Consider Before Developing On-Demand Tutor App](https://dev.to/william31286374/top-6-features-to-consider-before-developing-on-demand-tutor-app-98e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Como eu inicio um projeto com NextJS, TypeScript e TailwindCSS!](https://dev.to/miguel5g/como-eu-inicio-um-projeto-com-nextjs-typescript-e-tailwindcss-4p4c)
 - [Dev.to/JS] [Project 95 of 100 - React Native Party Invites List](https://dev.to/jwhubert91/project-95-of-100-react-native-party-invites-list-392a)
 - [Dev.to/JS] [Angular material table remove element by index with paginator](https://dev.to/pantpapasavvas/angular-material-table-remove-element-by-index-with-paginator-449a)
-- [Dev.to/JS] [Upgrading a create-react-app game to React 18](https://dev.to/mbarzeev/upgrading-a-create-react-app-game-to-react-18-4d5p)
-- [Dev.to/JS] [It&#39;s Prisma Time - Update](https://dev.to/this-is-learning/its-prisma-time-update-1mmi)
-- [Dev.to/JS] [Inspired by the future: Vision UI Dashboard React PRO](https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-pro-5ei0)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
