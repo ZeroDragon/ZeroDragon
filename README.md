@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testing a Button Component](https://dev.to/debs_obrien/testing-a-button-component-2pan)
+- [Dev.to/JS] [Building an Nx Prisma Generator](https://dev.to/sabinthedev/nx-prisma-generator-af3)
+- [Dev.to/JS] [Date Format In Mysql](https://dev.to/dev_laravel1/date-format-in-mysql-k4n)
+- [Dev.to/JS] [Hello World In JavaScript](https://dev.to/kalashin1/hello-world-in-javascript-36il)
 - [Lifehacker] [Why Finder Won&#39;t Let You Eject Disk Images &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-finder-wont-let-you-eject-disk-images-and-how-to-f-1848320523)
 - [Lifehacker] [You Can Finally Stream All of the Olympics Without a Cable Subscription](https://lifehacker.com/you-can-finally-stream-all-of-the-olympics-without-a-ca-1848321129)
 - [Dev.to/JS] [What is TypeScript?](https://dev.to/ameerrah9/what-is-typescript-1ol8)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating the webpack required for three.js](https://dev.to/dharmi/creating-the-webpack-required-for-threejs-42fi)
 - [Dev.to/JS] [React Query](https://dev.to/ponikar/react-query-3h25)
 - [Dev.to/JS] [Web Development 2022](https://dev.to/ganeshpatil386386/web-development-2022-5h4m)
-- [Dev.to/JS] [Using npm workspaces with ReactJS&lpar;Typescript&rpar; and .NET](https://dev.to/bazenteklehaymanot/using-npm-workspaces-with-reactjstypescript-and-net-10me)
-- [Dev.to/JS] [Next.js Custom Link Attributes](https://dev.to/shanesc/nextjs-custom-link-attributes-7ck)
-- [Dev.to/JS] [Simple code is different from simplistic code: Elm vs JavaScript](https://dev.to/marciofrayze/simple-code-is-different-from-simplistic-code-elm-vs-javascript-1pp)
-- [Dev.to/JS] [How to generate random color with JavaScript](https://dev.to/zougari47/how-to-generate-random-color-with-javascript-4ama)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Why Is Twee Back in Fashion?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-tw-1848318777)
 - [Lifehacker] [16 Movies About Climbing Back From Rock Bottom](https://lifehacker.com/16-movies-about-climbing-back-from-rock-bottom-1848277465)
 - [Lifehacker] [Use This App to Solve the Biggest Problem With Apple Reminders](https://lifehacker.com/use-this-app-to-solve-the-biggest-problem-with-apple-re-1848319244)
