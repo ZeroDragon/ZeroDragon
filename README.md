@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Start Using Typescript](https://dev.to/codesphere/how-to-start-using-typescript-3ki0)
+- [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)
 - [Dev.to/JS] [Day 3 #Javascript30 challenge](https://dev.to/leedd87/day-3-javascript30-challenge-2bgg)
 - [Dev.to/JS] [Intro to FlatifyCSS - Modern flat design framework for the web](https://dev.to/amir2mi/intro-to-flatifycss-modern-flat-design-framework-for-the-web-11pm)
 - [Dev.to/JS] [Configure Axios interceptor in few minutes...](https://dev.to/sheikhfahad67/configure-axios-interceptor-in-few-minutes-2chk)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ES2020, and what it brings to the table.](https://dev.to/grover_sumrit/es2020-and-what-it-brings-to-the-table-41bf)
 - [Dev.to/JS] [Como eu inicio um projeto com NextJS, TypeScript e TailwindCSS!](https://dev.to/miguel5g/como-eu-inicio-um-projeto-com-nextjs-typescript-e-tailwindcss-4p4c)
 - [Dev.to/JS] [Project 95 of 100 - React Native Party Invites List](https://dev.to/jwhubert91/project-95-of-100-react-native-party-invites-list-392a)
-- [Dev.to/JS] [Angular material table remove element by index with paginator](https://dev.to/pantpapasavvas/angular-material-table-remove-element-by-index-with-paginator-449a)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Stop Smoking for a Relationship?](https://lifehacker.com/should-you-stop-smoking-for-a-relationship-1848306318)
 - [Lifehacker] [How Do You Get a Kid to Like You?](https://lifehacker.com/how-do-you-get-a-kid-to-like-you-1848306414)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
-- [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)
-- [Crazy Programmer] [Log4J Vulnerability &lpar;Log4Shell&rpar; Explained](https://www.thecrazyprogrammer.com/2022/01/log4j-vulnerability.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)<!-- TECH-POSTS:END -->
 
 ---
 
