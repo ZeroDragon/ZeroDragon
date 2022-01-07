@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Progressively Adding Fable to JS Projects](https://dev.to/tunaxor/progressively-adding-fable-to-js-projects-2f7m)
 - [Dev.to/JS] [Hello World](https://dev.to/javascriptdesigner/hello-world-3n9m)
 - [Dev.to/JS] [Dev Log[0]](https://dev.to/ccolesv/dev-log0-52hf)
 - [Dev.to/JS] [Top YouTube channels to follow for 2022, to be a better software engineer, not just a coder.](https://dev.to/iwashiding/top-youtube-channels-to-follow-for-2022-to-be-a-better-software-engineer-not-just-a-coder-52md)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Dev.to/JS] [Creating an npx Command](https://dev.to/deepgram/creating-an-npx-command-3jn2)
 - [Dev.to/JS] [Connecting Redux to Your React Application](https://dev.to/atcarter/connecting-redux-to-your-react-application-2n52)
-- [Dev.to/JS] [Understanding JavaScript Primitive vrs Reference Values](https://dev.to/efkumah/understanding-javascript-primitive-vrs-reference-values-4ipj)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
 - [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)
 - [Lifehacker] [Here’s When to Get Your Older Kids Their Booster Shot](https://lifehacker.com/here-s-when-to-get-your-older-kids-their-booster-shot-1848313883)
