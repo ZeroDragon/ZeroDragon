@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
+- [Dev.to/JS] [Thoughts on find-in-page with custom accordion elements.](https://dev.to/anuraghazra/thoughts-on-find-in-page-with-custom-accordion-elements-5573)
+- [Dev.to/JS] [Yet Another Notify Lib](https://dev.to/schukai/yet-another-notify-lib-4a6a)
+- [Dev.to/JS] [Digital Clock using Vue 3 Composition API](https://dev.to/snehalk/digital-clock-using-vue-3-composition-api-5cmc)
 - [Dev.to/JS] [Introduction to TypeScript](https://dev.to/ianfelix/introduction-to-typescript-48df)
 - [Dev.to/JS] [The difference between NPM and Yarn](https://dev.to/samithawijesekara/the-difference-between-npm-and-yarn-2j3p)
 - [Dev.to/JS] [Laravel Custom Login Validation with Ajax](https://dev.to/iamadeyemiadex/laravel-custom-login-validation-with-ajax-3155)
@@ -34,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Your Own Live Streaming Application](https://dev.to/videosdk/build-your-own-live-streaming-application-4hb)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Dev.to/JS] [Daily JavaScript Tips #1](https://dev.to/codewithsnowbit/daily-javascript-tips-1-3a9l)
-- [Dev.to/JS] [Who am I ?](https://dev.to/gulomjonbakirov/who-am-i--3bdf)
-- [Dev.to/JS] [How I built my second brain using Next.JS](https://dev.to/shaan_alam/how-i-built-my-second-brain-using-nextjs-56e7)
 - [Lifehacker] [How to Take Winter Photos That Aren&#39;t White and Blurry &lpar;Unless That&#39;s the Point&rpar;](https://lifehacker.com/how-to-take-winter-photos-that-arent-white-and-blurry-1848322056)
-- [Dev.to/JS] [🔥 Amazing fullstack e- commerce website using HTML, CSS and JS | Part 01](https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)
 - [Lifehacker] [Don&#39;t Give Up Your Right to Sue Google](https://lifehacker.com/dont-give-up-your-right-to-sue-google-1848313515)
 - [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)
-- [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848310718)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)<!-- TECH-POSTS:END -->
 
 ---
