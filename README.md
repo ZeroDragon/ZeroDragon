@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Spotify HomePage Clone](https://dev.to/ammyy9908/spotify-homepage-clone-1ip2)
+- [Dev.to/JS] [JSON to HTML code in javascript](https://dev.to/robert00/json-to-html-code-in-javascript-2k2p)
+- [Dev.to/JS] [What are React Class Components?](https://dev.to/seek4samurai/what-are-react-class-components-323b)
 - [Dev.to/JS] [Maintaining FakerJS - Blaver](https://dev.to/luciferreeves/maintaining-fakerjs-blaver-1i4g)
 - [Dev.to/JS] [Getter &amp; Setter in JavaScript](https://dev.to/rakesh_patel/getter-setter-in-javascript-3jd3)
 - [Dev.to/JS] [Build the organizational chart with Angular](https://dev.to/101samovar/build-the-organizational-chart-with-angular-5bae)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 2](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-2-1bma)
 - [Dev.to/JS] [Inspired by the future: Vision UI Dashboard React &lpar;Open Source Version&rpar;](https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-open-source-version-5aj6)
 - [Dev.to/JS] [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
-- [Dev.to/JS] [Reconciliation and Virtual DOM in React](https://dev.to/amitthakur11/reconciliation-and-virtual-dom-in-react-h69)
-- [Dev.to/JS] [Animation on scroll using HTML CSS and JavaScript without any pre-build libraries](https://dev.to/harshkain/animation-on-scroll-using-html-css-and-javascript-without-any-pre-build-libraries-9jo)
-- [Dev.to/JS] [Close browser when button click](https://dev.to/aamien97/close-browser-when-button-click-5cgd)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
