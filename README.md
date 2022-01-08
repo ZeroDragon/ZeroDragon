@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript generator functions simplified](https://dev.to/mohsenkamrani/javascript-generator-functions-simplified-3ld6)
 - [Dev.to/JS] [tsParticles 1.39.0 Released](https://dev.to/matteobruni/tsparticles-1390-released-2111)
 - [Dev.to/JS] [100 días de código: 51, avances obtenidos en vacaciones... Aunque se supone que eran vacaciones.](https://dev.to/darito/100-dias-de-codigo-51-avances-obtenidos-en-vacaciones-aunque-se-supone-que-eran-vacaciones-l13)
 - [Dev.to/JS] [Some Thoughts on Server State in Remix](https://dev.to/zachtylr21/some-thoughts-on-server-state-in-remix-1fe5)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to &#39;Come Out&#39; As an Atheist Without Destroying Your Relationships](https://lifehacker.com/how-to-come-out-as-an-atheist-without-destroying-your-r-1848313516)
 - [Dev.to/JS] [Testing a Button Component](https://dev.to/debs_obrien/testing-a-button-component-2pan)
 - [Dev.to/JS] [Building an Nx Prisma Generator](https://dev.to/sabinthedev/nx-prisma-generator-af3)
-- [Dev.to/JS] [Date Format In Mysql](https://dev.to/dev_laravel1/date-format-in-mysql-k4n)
 - [Lifehacker] [Why Finder Won&#39;t Let You Eject Disk Images &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-finder-wont-let-you-eject-disk-images-and-how-to-f-1848320523)
 - [Lifehacker] [You Can Finally Stream All of the Olympics Without a Cable Subscription](https://lifehacker.com/you-can-finally-stream-all-of-the-olympics-without-a-ca-1848321129)
 - [Lifehacker] [11 Facts That Will Curb Your Fear of Flying, Once and for All](https://lifehacker.com/11-facts-that-will-curb-your-fear-of-flying-once-and-f-1848320513)
