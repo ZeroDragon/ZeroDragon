@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
+- [Dev.to/JS] [breakout game | javascript | html | css | oop](https://dev.to/shatud/breakout-game-javascript-html-css-oop-2mhh)
+- [Dev.to/JS] [Test](https://dev.to/trungjamin/test-16ke)
+- [Dev.to/JS] [Top 5 Demanding Tech in 2022](https://dev.to/ganeshpatil386386/top-5-demanding-tech-in-2022-4m2g)
+- [Dev.to/JS] [In catalogue tại TPHCM IN5GVN](https://dev.to/in5gcataloguehcm/in-catalogue-tai-tphcm-in5gvn-4m1p)
 - [Dev.to/JS] [Build Your Own Live Streaming Application](https://dev.to/videosdk/build-your-own-live-streaming-application-4hb)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Dev.to/JS] [Daily JavaScript Tips #1](https://dev.to/codewithsnowbit/daily-javascript-tips-1-3a9l)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s the hype about JavaScript?](https://dev.to/deeprof/whats-the-hype-about-javascript-588n)
 - [Dev.to/JS] [5 ways to use microforntends](https://dev.to/adelhamad/5-ways-to-use-microforntends-2b9l)
 - [Dev.to/JS] [💡 7 Tips for Successful Freelancing Career](https://dev.to/mrdanishsaleem/7-tips-for-successful-freelancing-career-7e8)
-- [Dev.to/JS] [Day 4 #Javascript30 challenge](https://dev.to/leedd87/day-4-javascript30-challenge-2g20)
-- [Dev.to/JS] [Spotify HomePage Clone](https://dev.to/ammyy9908/spotify-homepage-clone-1ip2)
-- [Dev.to/JS] [JSON to HTML code in javascript](https://dev.to/robert00/json-to-html-code-in-javascript-2k2p)
-- [Dev.to/JS] [What are React Class Components?](https://dev.to/seek4samurai/what-are-react-class-components-323b)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Give Up Your Right to Sue Google](https://lifehacker.com/dont-give-up-your-right-to-sue-google-1848313515)
 - [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)
 - [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848310718)
-- [Lifehacker] [Where to Find the Best Local Gardening, Home Repair, or Woodworking Workshops](https://lifehacker.com/where-to-find-the-best-local-gardening-home-repair-or-1848312050)
 - [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)<!-- TECH-POSTS:END -->
 
 ---
