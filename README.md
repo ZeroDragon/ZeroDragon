@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comparing libraries](https://dev.to/vadim/comparing-libraries-3m58)
 - [Dev.to/JS] [Introduction to Functional Programming in JavaScript](https://dev.to/guigacodes/introduction-to-functional-programming-in-javascript-oo7)
 - [Dev.to/JS] [Unified component structure for my EmberJS projects](https://dev.to/michalbryxi/unified-component-structure-for-my-emberjs-projects-31jb)
 - [Dev.to/JS] [👻The Nightmarishly Dangerous Default Behavior of setInterval&lpar;&rpar;](https://dev.to/mistval/the-nightmarishly-dangerous-default-behavior-of-setinterval-1bng)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Dev.to/JS] [breakout game | javascript | html | css | oop](https://dev.to/shatud/breakout-game-javascript-html-css-oop-2mhh)
 - [Dev.to/JS] [Test](https://dev.to/trungjamin/test-16ke)
-- [Dev.to/JS] [Top 5 Demanding Tech in 2022](https://dev.to/ganeshpatil386386/top-5-demanding-tech-in-2022-4m2g)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Lifehacker] [How to Take Winter Photos That Aren&#39;t White and Blurry &lpar;Unless That&#39;s the Point&rpar;](https://lifehacker.com/how-to-take-winter-photos-that-arent-white-and-blurry-1848322056)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
