@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Star Rating part 2](https://dev.to/sonu_sharma/star-rating-part-2-19p3)
+- [Dev.to/JS] [Day 73 of 100 Days of Code &amp; Scrum: Project Page for My Portfolio](https://dev.to/rammina/day-73-of-100-days-of-code-scrum-project-page-for-my-portfolio-30hf)
+- [Dev.to/JS] [React Responsive Webiste with Animations](https://dev.to/koolkishan/react-responsive-webiste-with-animations-7kc)
 - [Dev.to/JS] [Dev Log[1] - Front End Parts Put Simply](https://dev.to/ccolesv/dev-log1-front-end-parts-put-simply-3cif)
 - [Dev.to/JS] [Project 96 - React Native Star Wars App](https://dev.to/jwhubert91/project-96-react-native-star-wars-app-28l1)
 - [Dev.to/JS] [Storing User Preferences in React](https://dev.to/lrth06/storing-user-preferences-in-react-2g4i)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to implement NestJS Passport Authentication using Local Strategy?](https://dev.to/dashsaurabh/how-to-implement-nestjs-passport-authentication-using-local-strategy-3p24)
 - [Dev.to/JS] [How I made Instagram Content Fetching API in Node.js](https://dev.to/theviralboy/how-i-made-instagram-content-fetching-api-in-nodejs-2ml6)
 - [Dev.to/JS] [Javascript generator functions simplified](https://dev.to/mohsenkamrani/javascript-generator-functions-simplified-3ld6)
-- [Dev.to/JS] [tsParticles 1.39.0 Released](https://dev.to/matteobruni/tsparticles-1390-released-2111)
-- [Dev.to/JS] [100 días de código: 51, avances obtenidos en vacaciones... Aunque se supone que eran vacaciones.](https://dev.to/darito/100-dias-de-codigo-51-avances-obtenidos-en-vacaciones-aunque-se-supone-que-eran-vacaciones-l13)
-- [Dev.to/JS] [Some Thoughts on Server State in Remix](https://dev.to/zachtylr21/some-thoughts-on-server-state-in-remix-1fe5)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
