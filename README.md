@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How they made controls at Github? Hamburger menu](https://dev.to/kiranmantha/how-they-made-controls-at-github-hamburger-menu-20k)
+- [Dev.to/JS] [How to implement NestJS Passport Authentication using Local Strategy?](https://dev.to/dashsaurabh/how-to-implement-nestjs-passport-authentication-using-local-strategy-3p24)
+- [Dev.to/JS] [How I made Instagram Content Fetching API in Node.js](https://dev.to/theviralboy/how-i-made-instagram-content-fetching-api-in-nodejs-2ml6)
 - [Dev.to/JS] [Javascript generator functions simplified](https://dev.to/mohsenkamrani/javascript-generator-functions-simplified-3ld6)
 - [Dev.to/JS] [tsParticles 1.39.0 Released](https://dev.to/matteobruni/tsparticles-1390-released-2111)
 - [Dev.to/JS] [100 días de código: 51, avances obtenidos en vacaciones... Aunque se supone que eran vacaciones.](https://dev.to/darito/100-dias-de-codigo-51-avances-obtenidos-en-vacaciones-aunque-se-supone-que-eran-vacaciones-l13)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Dev.to/JS] [How To: Create A Random Number Generator w. JavaScript](https://dev.to/amyoulton/how-to-create-a-random-number-generator-w-javascript-4ikf)
 - [Dev.to/JS] [Hello guys -&gt;Spring boot-Java](https://dev.to/mohammedsamour/hello-guys-spring-boot-java-2phg)
-- [Dev.to/JS] [Any suggestion for a new react library ?](https://dev.to/abodmicheal/any-suggestion-for-a-new-react-library--1lc8)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
 - [Lifehacker] [How to &#39;Come Out&#39; As an Atheist Without Destroying Your Relationships](https://lifehacker.com/how-to-come-out-as-an-atheist-without-destroying-your-r-1848313516)
-- [Dev.to/JS] [Testing a Button Component](https://dev.to/debs_obrien/testing-a-button-component-2pan)
-- [Dev.to/JS] [Building an Nx Prisma Generator](https://dev.to/sabinthedev/nx-prisma-generator-af3)
 - [Lifehacker] [Why Finder Won&#39;t Let You Eject Disk Images &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-finder-wont-let-you-eject-disk-images-and-how-to-f-1848320523)
 - [Lifehacker] [You Can Finally Stream All of the Olympics Without a Cable Subscription](https://lifehacker.com/you-can-finally-stream-all-of-the-olympics-without-a-ca-1848321129)
 - [Lifehacker] [11 Facts That Will Curb Your Fear of Flying, Once and for All](https://lifehacker.com/11-facts-that-will-curb-your-fear-of-flying-once-and-f-1848320513)
