@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Single-File JavaScript Modules](https://dev.to/tythos/single-file-javascript-modules-7aj)
+- [Dev.to/JS] [Angular Newbies V](https://dev.to/mhbaando/angular-newbies-v-5ad6)
+- [Dev.to/JS] [Closure in Javascript](https://dev.to/elukuro/closure-in-javascript-2c3f)
 - [Dev.to/JS] [Star Rating part 2](https://dev.to/sonu_sharma/star-rating-part-2-19p3)
 - [Dev.to/JS] [Day 73 of 100 Days of Code &amp; Scrum: Project Page for My Portfolio](https://dev.to/rammina/day-73-of-100-days-of-code-scrum-project-page-for-my-portfolio-30hf)
 - [Dev.to/JS] [React Responsive Webiste with Animations](https://dev.to/koolkishan/react-responsive-webiste-with-animations-7kc)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [video calling App in React JS using Simple Peer](https://dev.to/deepakjaiswal/video-calling-app-in-react-js-using-simple-peer-4anh)
 - [Dev.to/JS] [Conditionals and loops in Vue.js](https://dev.to/mohsenkamrani/conditionals-and-loops-in-vuejs-imn)
 - [Dev.to/JS] [How they made controls at Github? Hamburger menu](https://dev.to/kiranmantha/how-they-made-controls-at-github-hamburger-menu-20k)
-- [Dev.to/JS] [How to implement NestJS Passport Authentication using Local Strategy?](https://dev.to/dashsaurabh/how-to-implement-nestjs-passport-authentication-using-local-strategy-3p24)
-- [Dev.to/JS] [How I made Instagram Content Fetching API in Node.js](https://dev.to/theviralboy/how-i-made-instagram-content-fetching-api-in-nodejs-2ml6)
-- [Dev.to/JS] [Javascript generator functions simplified](https://dev.to/mohsenkamrani/javascript-generator-functions-simplified-3ld6)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
