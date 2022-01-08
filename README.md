@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Managing JS and CSS Assets in Rails 7](https://dev.to/cristiano/managing-js-and-css-assets-in-rails-7-1n0e)
+- [Dev.to/JS] [The EndGame - Fakerjs](https://dev.to/cyril_ogoh/the-endgame-fakerjs-5g0m)
+- [Dev.to/JS] [Seat Selection of a Movie Theater 🎥](https://dev.to/itsahsanmangal/seat-selection-of-a-movie-theater-479n)
+- [Dev.to/JS] [Simple way to do device fingerprinting](https://dev.to/adelhamad/simple-way-for-device-fingerprinting-4hm2)
+- [Dev.to/JS] [Se prepare para a próxima entrevista &lpar;versão PROGRAMADORES&rpar;](https://dev.to/davecosta/se-prepare-para-a-proxima-entrevista-versao-programadores-19d1)
 - [Dev.to/JS] [Comparing libraries](https://dev.to/vadim/comparing-libraries-3m58)
 - [Dev.to/JS] [Introduction to Functional Programming in JavaScript](https://dev.to/guigacodes/introduction-to-functional-programming-in-javascript-oo7)
 - [Dev.to/JS] [Unified component structure for my EmberJS projects](https://dev.to/michalbryxi/unified-component-structure-for-my-emberjs-projects-31jb)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Thoughts on find-in-page with custom accordion elements.](https://dev.to/anuraghazra/thoughts-on-find-in-page-with-custom-accordion-elements-5573)
 - [Dev.to/JS] [Yet Another Notify Lib](https://dev.to/schukai/yet-another-notify-lib-4a6a)
 - [Dev.to/JS] [Digital Clock using Vue 3 Composition API](https://dev.to/snehalk/digital-clock-using-vue-3-composition-api-5cmc)
-- [Dev.to/JS] [Introduction to TypeScript](https://dev.to/ianfelix/introduction-to-typescript-48df)
-- [Dev.to/JS] [The difference between NPM and Yarn](https://dev.to/samithawijesekara/the-difference-between-npm-and-yarn-2j3p)
-- [Dev.to/JS] [Laravel Custom Login Validation with Ajax](https://dev.to/iamadeyemiadex/laravel-custom-login-validation-with-ajax-3155)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
-- [Dev.to/JS] [breakout game | javascript | html | css | oop](https://dev.to/shatud/breakout-game-javascript-html-css-oop-2mhh)
-- [Dev.to/JS] [Test](https://dev.to/trungjamin/test-16ke)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Lifehacker] [How to Take Winter Photos That Aren&#39;t White and Blurry &lpar;Unless That&#39;s the Point&rpar;](https://lifehacker.com/how-to-take-winter-photos-that-arent-white-and-blurry-1848322056)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
