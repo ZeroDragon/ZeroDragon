@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Functional Programming in JavaScript](https://dev.to/guigacodes/introduction-to-functional-programming-in-javascript-oo7)
+- [Dev.to/JS] [Unified component structure for my EmberJS projects](https://dev.to/michalbryxi/unified-component-structure-for-my-emberjs-projects-31jb)
+- [Dev.to/JS] [👻The Nightmarishly Dangerous Default Behavior of setInterval&lpar;&rpar;](https://dev.to/mistval/the-nightmarishly-dangerous-default-behavior-of-setinterval-1bng)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Dev.to/JS] [Thoughts on find-in-page with custom accordion elements.](https://dev.to/anuraghazra/thoughts-on-find-in-page-with-custom-accordion-elements-5573)
 - [Dev.to/JS] [Yet Another Notify Lib](https://dev.to/schukai/yet-another-notify-lib-4a6a)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [breakout game | javascript | html | css | oop](https://dev.to/shatud/breakout-game-javascript-html-css-oop-2mhh)
 - [Dev.to/JS] [Test](https://dev.to/trungjamin/test-16ke)
 - [Dev.to/JS] [Top 5 Demanding Tech in 2022](https://dev.to/ganeshpatil386386/top-5-demanding-tech-in-2022-4m2g)
-- [Dev.to/JS] [In catalogue tại TPHCM IN5GVN](https://dev.to/in5gcataloguehcm/in-catalogue-tai-tphcm-in5gvn-4m1p)
-- [Dev.to/JS] [Build Your Own Live Streaming Application](https://dev.to/videosdk/build-your-own-live-streaming-application-4hb)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
-- [Dev.to/JS] [Daily JavaScript Tips #1](https://dev.to/codewithsnowbit/daily-javascript-tips-1-3a9l)
 - [Lifehacker] [How to Take Winter Photos That Aren&#39;t White and Blurry &lpar;Unless That&#39;s the Point&rpar;](https://lifehacker.com/how-to-take-winter-photos-that-arent-white-and-blurry-1848322056)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
