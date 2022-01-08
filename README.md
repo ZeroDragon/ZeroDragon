@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 good reasons to use Nuxt.js](https://dev.to/daoodaba975/5-good-reasons-to-use-nuxtjs-3fp2)
 - [Dev.to/JS] [Velo by Wix: Query selector for child elements](https://dev.to/shoonia/velo-by-wix-query-selector-for-child-elements-2ifb)
 - [Dev.to/JS] [Self-built Tic-tac-toe AIs vs Human - The ultimate showdown in five rounds 🥊🏆](https://dev.to/thormeier/self-built-tic-tac-toe-ais-vs-human-the-ultimate-showdown-in-five-rounds-48m0)
 - [Dev.to/JS] [Modern JS Engine Workflow](https://dev.to/moreshwar/modern-js-engine-workflow-35g5)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comparing libraries](https://dev.to/vadim/comparing-libraries-3m58)
 - [Dev.to/JS] [Introduction to Functional Programming in JavaScript](https://dev.to/guigacodes/introduction-to-functional-programming-in-javascript-oo7)
 - [Dev.to/JS] [Unified component structure for my EmberJS projects](https://dev.to/michalbryxi/unified-component-structure-for-my-emberjs-projects-31jb)
-- [Dev.to/JS] [👻The Nightmarishly Dangerous Default Behavior of setInterval&lpar;&rpar;](https://dev.to/mistval/the-nightmarishly-dangerous-default-behavior-of-setinterval-1bng)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
