@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Maintaining FakerJS - Blaver](https://dev.to/luciferreeves/maintaining-fakerjs-blaver-1i4g)
+- [Dev.to/JS] [Getter &amp; Setter in JavaScript](https://dev.to/rakesh_patel/getter-setter-in-javascript-3jd3)
 - [Dev.to/JS] [Build the organizational chart with Angular](https://dev.to/101samovar/build-the-organizational-chart-with-angular-5bae)
 - [Dev.to/JS] [Learn useState In 7 Minutes - React Hooks Explained](https://dev.to/gargkunal/learn-usestate-in-7-minutes-react-hooks-explained-30c5)
 - [Dev.to/JS] [Memory Leaks, How to avoid them in a React App.](https://dev.to/jeremiahjacinth13/memory-leaks-how-to-avoid-them-in-a-react-app-1g5e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reconciliation and Virtual DOM in React](https://dev.to/amitthakur11/reconciliation-and-virtual-dom-in-react-h69)
 - [Dev.to/JS] [Animation on scroll using HTML CSS and JavaScript without any pre-build libraries](https://dev.to/harshkain/animation-on-scroll-using-html-css-and-javascript-without-any-pre-build-libraries-9jo)
 - [Dev.to/JS] [Close browser when button click](https://dev.to/aamien97/close-browser-when-button-click-5cgd)
-- [Dev.to/JS] [DOM guide for beginners  #1](https://dev.to/himanshupal0001/dom-guide-for-beginners-1-2k63)
-- [Dev.to/JS] [How to use mouse coordinates to make an image button with React.](https://dev.to/sirdigo/how-to-use-mouse-coordinates-to-make-an-image-button-with-react-5fmb)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
