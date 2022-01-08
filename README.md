@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to TypeScript](https://dev.to/ianfelix/introduction-to-typescript-48df)
+- [Dev.to/JS] [The difference between NPM and Yarn](https://dev.to/samithawijesekara/the-difference-between-npm-and-yarn-2j3p)
+- [Dev.to/JS] [Laravel Custom Login Validation with Ajax](https://dev.to/iamadeyemiadex/laravel-custom-login-validation-with-ajax-3155)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Dev.to/JS] [breakout game | javascript | html | css | oop](https://dev.to/shatud/breakout-game-javascript-html-css-oop-2mhh)
 - [Dev.to/JS] [Test](https://dev.to/trungjamin/test-16ke)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Who am I ?](https://dev.to/gulomjonbakirov/who-am-i--3bdf)
 - [Dev.to/JS] [How I built my second brain using Next.JS](https://dev.to/shaan_alam/how-i-built-my-second-brain-using-nextjs-56e7)
 - [Lifehacker] [How to Take Winter Photos That Aren&#39;t White and Blurry &lpar;Unless That&#39;s the Point&rpar;](https://lifehacker.com/how-to-take-winter-photos-that-arent-white-and-blurry-1848322056)
-- [Dev.to/JS] [How to make fullstack e- commerce website using HTML, CSS and JS | Part 01](https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h)
-- [Dev.to/JS] [What&#39;s the hype about JavaScript?](https://dev.to/deeprof/whats-the-hype-about-javascript-588n)
-- [Dev.to/JS] [5 ways to use microforntends](https://dev.to/adelhamad/5-ways-to-use-microforntends-2b9l)
-- [Dev.to/JS] [💡 7 Tips for Successful Freelancing Career](https://dev.to/mrdanishsaleem/7-tips-for-successful-freelancing-career-7e8)
+- [Dev.to/JS] [🔥 Amazing fullstack e- commerce website using HTML, CSS and JS | Part 01](https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
