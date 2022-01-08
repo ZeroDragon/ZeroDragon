@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Your Own Live Streaming Application](https://dev.to/videosdk/build-your-own-live-streaming-application-4hb)
+- [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
+- [Dev.to/JS] [Daily JavaScript Tips #1](https://dev.to/codewithsnowbit/daily-javascript-tips-1-3a9l)
+- [Dev.to/JS] [Who am I ?](https://dev.to/gulomjonbakirov/who-am-i--3bdf)
+- [Dev.to/JS] [How I built my second brain using Next.JS](https://dev.to/shaan_alam/how-i-built-my-second-brain-using-nextjs-56e7)
 - [Lifehacker] [How to Take Winter Photos That Aren&#39;t White and Blurry &lpar;Unless That&#39;s the Point&rpar;](https://lifehacker.com/how-to-take-winter-photos-that-arent-white-and-blurry-1848322056)
-- [Dev.to/JS] [How to make an e-commerce website with HTML, CSS and JS - 01](https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h)
+- [Dev.to/JS] [How to make fullstack e- commerce website using HTML, CSS and JS | Part 01](https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h)
 - [Dev.to/JS] [What&#39;s the hype about JavaScript?](https://dev.to/deeprof/whats-the-hype-about-javascript-588n)
 - [Dev.to/JS] [5 ways to use microforntends](https://dev.to/adelhamad/5-ways-to-use-microforntends-2b9l)
 - [Dev.to/JS] [💡 7 Tips for Successful Freelancing Career](https://dev.to/mrdanishsaleem/7-tips-for-successful-freelancing-career-7e8)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Spotify HomePage Clone](https://dev.to/ammyy9908/spotify-homepage-clone-1ip2)
 - [Dev.to/JS] [JSON to HTML code in javascript](https://dev.to/robert00/json-to-html-code-in-javascript-2k2p)
 - [Dev.to/JS] [What are React Class Components?](https://dev.to/seek4samurai/what-are-react-class-components-323b)
-- [Dev.to/JS] [Maintaining FakerJS - Blaver](https://dev.to/luciferreeves/maintaining-fakerjs-blaver-1i4g)
-- [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #121](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-121-4lmf)
-- [Dev.to/JS] [Getter &amp; Setter in JavaScript](https://dev.to/rakesh_patel/getter-setter-in-javascript-3jd3)
-- [Dev.to/JS] [Build the organizational chart with Angular](https://dev.to/101samovar/build-the-organizational-chart-with-angular-5bae)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)
 - [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848310718)
 - [Lifehacker] [Where to Find the Best Local Gardening, Home Repair, or Woodworking Workshops](https://lifehacker.com/where-to-find-the-best-local-gardening-home-repair-or-1848312050)
-- [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)
-- [Crazy Programmer] [Resource Pooling in Cloud Computing – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/resource-pooling-in-cloud-computing.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)<!-- TECH-POSTS:END -->
 
 ---
 
