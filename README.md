@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Memory Leaks, How to avoid them in a React App.](https://dev.to/jeremiahjacinth13/memory-leaks-how-to-avoid-them-in-a-react-app-1g5e)
+- [Dev.to/JS] [How to set-up Rails Hotwire  live reload](https://dev.to/thomasvanholder/how-to-set-up-rails-hotwire-live-reload-38i9)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 2](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-2-1bma)
 - [Dev.to/JS] [Inspired by the future: Vision UI Dashboard React &lpar;Open Source Version&rpar;](https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-open-source-version-5aj6)
 - [Dev.to/JS] [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use mouse coordinates to make an image button with React.](https://dev.to/sirdigo/how-to-use-mouse-coordinates-to-make-an-image-button-with-react-5fmb)
 - [Dev.to/JS] [Making Sustainable Websites](https://dev.to/sharma2288/making-sustainable-websites-4h21)
 - [Dev.to/JS] [Creating a Discord slash command bot](https://dev.to/dailydevtips1/creating-a-discord-slash-command-bot-1g7i)
-- [Dev.to/JS] [The Better Way of Sending Data to the Backend](https://dev.to/manas_dev/the-better-way-of-sending-data-to-the-backend-bdp)
-- [Dev.to/JS] [Single-File JavaScript Modules](https://dev.to/tythos/single-file-javascript-modules-7aj)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
