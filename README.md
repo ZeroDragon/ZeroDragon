@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 2](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-2-1bma)
+- [Dev.to/JS] [Inspired by the future: Vision UI Dashboard React &lpar;Open Source Version&rpar;](https://dev.to/fredy/inspired-by-the-future-vision-ui-dashboard-react-open-source-version-5aj6)
+- [Dev.to/JS] [I Built My Own TinyURL. Here’s How I Did It](https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah)
+- [Dev.to/JS] [Reconciliation and Virtual DOM in React](https://dev.to/amitthakur11/reconciliation-and-virtual-dom-in-react-h69)
+- [Dev.to/JS] [Animation on scroll using HTML CSS and JavaScript without any pre-build libraries](https://dev.to/harshkain/animation-on-scroll-using-html-css-and-javascript-without-any-pre-build-libraries-9jo)
 - [Dev.to/JS] [Close browser when button click](https://dev.to/aamien97/close-browser-when-button-click-5cgd)
 - [Dev.to/JS] [DOM guide for beginners  #1](https://dev.to/himanshupal0001/dom-guide-for-beginners-1-2k63)
 - [Dev.to/JS] [How to use mouse coordinates to make an image button with React.](https://dev.to/sirdigo/how-to-use-mouse-coordinates-to-make-an-image-button-with-react-5fmb)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Discord slash command bot](https://dev.to/dailydevtips1/creating-a-discord-slash-command-bot-1g7i)
 - [Dev.to/JS] [The Better Way of Sending Data to the Backend](https://dev.to/manas_dev/the-better-way-of-sending-data-to-the-backend-bdp)
 - [Dev.to/JS] [Single-File JavaScript Modules](https://dev.to/tythos/single-file-javascript-modules-7aj)
-- [Dev.to/JS] [Angular Newbies V](https://dev.to/mhbaando/angular-newbies-v-5ad6)
-- [Dev.to/JS] [Closure in Javascript](https://dev.to/elukuro/closure-in-javascript-2c3f)
-- [Dev.to/JS] [Star Rating part 2](https://dev.to/sonu_sharma/star-rating-part-2-19p3)
-- [Dev.to/JS] [Day 73 of 100 Days of Code &amp; Scrum: Project Page for My Portfolio](https://dev.to/rammina/day-73-of-100-days-of-code-scrum-project-page-for-my-portfolio-30hf)
-- [Dev.to/JS] [React Responsive Webiste with Animations](https://dev.to/koolkishan/react-responsive-webiste-with-animations-7kc)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
