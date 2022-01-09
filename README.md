@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CREATIVE CODING](https://dev.to/siddharthmallappa/creative-coding-4b0g)
+- [Dev.to/JS] [Reverse Stack using Javascript](https://dev.to/ajayv1/reverse-stack-using-javascript-4fmm)
+- [Dev.to/JS] [TypeScript: Types of Types](https://dev.to/ponikar/typescript-types-of-types-39ie)
+- [Dev.to/JS] [Question 1](https://dev.to/vermaprince123/question-1-1h1h)
 - [Dev.to/JS] [binding &quot;this&quot;](https://dev.to/mdimran1409036/binding-this-3db4)
 - [Dev.to/JS] [Menampilkan Raw Html Di Vue](https://dev.to/medan_in_code/menampilkan-raw-html-di-vue-3jka)
 - [Dev.to/JS] [React Conditional rendering](https://dev.to/101samovar/react-conditional-rendering-5a44)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Extending Native Elements](https://dev.to/danieldekel/extending-native-elements-4h31)
 - [Dev.to/JS] [Create react components at the speed of light](https://dev.to/ivanms1/create-react-components-at-the-speed-of-light-26l4)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 3](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-3-i47)
-- [Dev.to/JS] [Elm: ushering in a new era of web development](https://dev.to/benjamonnguyen/elm-ushering-in-a-new-era-of-web-development-295d)
-- [Dev.to/JS] [Build your own WYSIWYG editor &lpar;HTML, CSS &amp; pure JavaScript&rpar;](https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm)
-- [Dev.to/JS] [Functions in JavaScript](https://dev.to/vanshsh/functions-in-javascript-5eda)
-- [Dev.to/JS] [🌞 Toggle theme 🌑 in React with MUI v5 and Redux 🚀](https://dev.to/rajeshj3/toggle-theme-in-react-with-mui-v5-and-redux-4h4b)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
