@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What Scope says about Variable in JavaScript?](https://dev.to/lawanu/what-scope-says-about-variable-in-javascript-1jo6)
+- [Dev.to/JS] [How to build an awesome slide based full page scrolling landing page with Fullpage.js | Html | CSS | JS](https://dev.to/thatanjan/build-an-awesome-slide-based-full-page-scrolling-landing-page-with-fullpagejs-html-css-js-2242)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Dev.to/JS] [Animated Counter](https://dev.to/sarmunbustillo/animated-counter-fjo)
 - [Dev.to/JS] [Discuss: Would you have one style sheet for all or make a style sheet for each page when making a basic website?](https://dev.to/cesscode/would-you-have-one-style-sheet-for-all-or-make-a-style-sheet-for-each-page-when-making-a-basic-website-34e1)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Night Owls](https://dev.to/santoshor42/night-owls-56bj)
 - [Dev.to/JS] [How to use faker.js after its &quot;endgame&quot;](https://dev.to/unzor/how-to-use-fakerjs-after-its-endgame-36a5)
 - [Dev.to/JS] [[week1] Days 7 - first week complete](https://dev.to/blackthor/week1-days-6-2l7n)
-- [Dev.to/JS] [LeetCode - Valid Sudoku](https://dev.to/_alkesh26/leetcode-valid-sudoku-4m4b)
-- [Dev.to/JS] [How to make HTTP requests using &quot;fetch&quot;](https://dev.to/codewithsnowbit/how-to-make-http-requests-using-fetch-1hj8)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
