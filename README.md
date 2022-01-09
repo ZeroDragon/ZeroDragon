@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Elm: ushering in a new era of web development](https://dev.to/benjamonnguyen/elm-ushering-in-a-new-era-of-web-development-295d)
+- [Dev.to/JS] [Program your own WYSIWYG editor – with HTML, CSS &amp; pure JavaScript](https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm)
+- [Dev.to/JS] [Functions in JavaScript](https://dev.to/vanshsh/functions-in-javascript-5eda)
+- [Dev.to/JS] [🌞 Toggle theme 🌑 in React with MUI v5 and Redux 🚀](https://dev.to/rajeshj3/toggle-theme-in-react-with-mui-v5-and-redux-4h4b)
 - [Dev.to/JS] [Web vitals automation using github actions](https://dev.to/achuthhadnoor/web-vitals-automation-using-github-actions-413a)
 - [Dev.to/JS] [Use Ternary Operators - Daily JavaScript Tips #2](https://dev.to/codewithsnowbit/use-ternary-operators-daily-javascript-tips-2-3oa5)
 - [Dev.to/JS] [Earn money online in Pakistan](https://dev.to/bilal3456code/earn-money-online-in-pakistan-a2m)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 74 of 100 Days of Code &amp; Scrum: Tenth Weekly Retrospective](https://dev.to/rammina/day-74-of-100-days-of-code-scrum-tenth-weekly-retrospective-4me3)
 - [Dev.to/JS] [Deep dive into React codebase [EP1: Prerequisites]](https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak)
 - [Dev.to/JS] [Show and hide a header based on scroll direction](https://dev.to/dailydevtips1/show-and-hide-a-header-based-on-scroll-direction-19fa)
-- [Dev.to/JS] [I published My new Chapter](https://dev.to/subhransuindia/i-created-my-new-portfolio-hpa)
-- [Dev.to/JS] [5 JavaScript Features Beginner Can Learn in 2022](https://dev.to/javinpaul/5-javascript-features-beginner-can-learn-in-2022-49fi)
-- [Dev.to/JS] [The Technology Upskill Mess For Application Developers](https://dev.to/techpackets/the-technology-upskill-mess-for-application-developers-g5)
-- [Dev.to/JS] [My First Post 💖](https://dev.to/sh20raj/my-first-post-52gc)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
