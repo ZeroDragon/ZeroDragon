@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React - Passing ref from Child to Parent?](https://dev.to/jr_web_dev/react-passing-ref-from-child-to-parent-2ac5)
+- [Dev.to/JS] [How to Show a Delete Confirmation Dialog in Rails Using Stimulus](https://dev.to/software_writer/how-to-show-a-delete-confirmation-dialog-in-rails-using-stimulus-17i)
+- [Dev.to/JS] [Project 97 - React Native Color Customizer](https://dev.to/jwhubert91/project-97-react-native-color-customizer-dfk)
 - [Dev.to/JS] [Dev note 8JAN2021](https://dev.to/kipackjeong/dev-note-8jan2021-47km)
 - [Dev.to/JS] [&lpar;question&rpar; Dev Dependency or Dependency?](https://dev.to/webdev03/question-dev-dependency-or-dependency-51c0)
 - [Dev.to/JS] [REACT -&gt; HOOKS!](https://dev.to/bigbitdev/react-hooks-35ll)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add Search to Hugo Static Sites](https://dev.to/anthonyjdella/how-to-add-search-to-hugo-static-sites-58ke)
 - [Dev.to/JS] [Let&#39;s Code a Final Fantasy Style Browser Game With rpg.js! | Map- and Character Creation | Episode 2](https://dev.to/timo_ernst/lets-code-a-final-fantasy-style-browser-game-with-rpgjs-map-and-character-creation-episode-2-8ia)
 - [Dev.to/JS] [How to use JavaScript  Comments](https://dev.to/adesleem/how-to-use-javascript-comments-nf0)
-- [Dev.to/JS] [How to Implement CORS and Authentication in NodeJS](https://dev.to/olanetsoft/how-to-implement-cors-and-authentication-in-nodejs-214c)
-- [Dev.to/JS] [React.js : debouncing and throttling](https://dev.to/ridhamz/reactjs-debouncing-and-throttling-ccm)
-- [Dev.to/JS] [5 good reasons to use Nuxt.js](https://dev.to/daoodaba975/5-good-reasons-to-use-nuxtjs-3fp2)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
