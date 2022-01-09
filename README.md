@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [REACT -&gt; HOOKS!](https://dev.to/bigbitdev/react-hooks-35ll)
+- [Dev.to/JS] [How to Connect a React App to a Notion Database](https://dev.to/alexeagleson/how-to-connect-a-react-app-to-a-notion-database-51mc)
+- [Dev.to/JS] [Why React Freeze Children in DEV mode?](https://dev.to/radinvafaei/why-react-freeze-children-in-dev-mode-3lcc)
 - [Dev.to/JS] [Oh now we&#39;re talkin&#39;](https://dev.to/lostoneway/oh-now-were-talkin-2bi3)
 - [Dev.to/JS] [How to Add Search to Hugo Static Sites](https://dev.to/anthonyjdella/how-to-add-search-to-hugo-static-sites-58ke)
 - [Dev.to/JS] [Let&#39;s Code a Final Fantasy Style Browser Game With rpg.js! | Map- and Character Creation | Episode 2](https://dev.to/timo_ernst/lets-code-a-final-fantasy-style-browser-game-with-rpgjs-map-and-character-creation-episode-2-8ia)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 good reasons to use Nuxt.js](https://dev.to/daoodaba975/5-good-reasons-to-use-nuxtjs-3fp2)
 - [Dev.to/JS] [Velo by Wix: Query selector for child elements](https://dev.to/shoonia/velo-by-wix-query-selector-for-child-elements-2ifb)
 - [Dev.to/JS] [Self-built Tic-tac-toe AIs vs Human - The ultimate showdown in five rounds 🥊🏆](https://dev.to/thormeier/self-built-tic-tac-toe-ais-vs-human-the-ultimate-showdown-in-five-rounds-48m0)
-- [Dev.to/JS] [Modern JS Engine Workflow](https://dev.to/moreshwar/modern-js-engine-workflow-35g5)
-- [Dev.to/JS] [Managing JS and CSS Assets in Rails 7](https://dev.to/cristiano/managing-js-and-css-assets-in-rails-7-1n0e)
-- [Dev.to/JS] [The EndGame - Fakerjs](https://dev.to/cyril_ogoh/the-endgame-fakerjs-5g0m)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
