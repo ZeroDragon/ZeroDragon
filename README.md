@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [binding &quot;this&quot;](https://dev.to/mdimran1409036/binding-this-3db4)
+- [Dev.to/JS] [Menampilkan Raw Html Di Vue](https://dev.to/medan_in_code/menampilkan-raw-html-di-vue-3jka)
+- [Dev.to/JS] [React Conditional rendering](https://dev.to/101samovar/react-conditional-rendering-5a44)
 - [Dev.to/JS] [Leetcode diary: 1641. Count Sorted Vowel Strings [DP problem]](https://dev.to/kevin074/leetcode-diary-1641-count-sorted-vowel-strings-dp-problem-33k1)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Dev.to/JS] [The best JS build tool - Parcel 2](https://dev.to/amjadmh73/the-best-js-build-tool-parcel-2-34kg)
@@ -30,12 +33,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create react components at the speed of light](https://dev.to/ivanms1/create-react-components-at-the-speed-of-light-26l4)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 3](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-3-i47)
 - [Dev.to/JS] [Elm: ushering in a new era of web development](https://dev.to/benjamonnguyen/elm-ushering-in-a-new-era-of-web-development-295d)
-- [Dev.to/JS] [Program your own WYSIWYG editor – with HTML, CSS &amp; pure JavaScript](https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm)
+- [Dev.to/JS] [Build your own WYSIWYG editor &lpar;HTML, CSS &amp; pure JavaScript&rpar;](https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/vanshsh/functions-in-javascript-5eda)
 - [Dev.to/JS] [🌞 Toggle theme 🌑 in React with MUI v5 and Redux 🚀](https://dev.to/rajeshj3/toggle-theme-in-react-with-mui-v5-and-redux-4h4b)
-- [Dev.to/JS] [Web vitals automation using github actions](https://dev.to/achuthhadnoor/web-vitals-automation-using-github-actions-413a)
-- [Dev.to/JS] [Use Ternary Operators - Daily JavaScript Tips #2](https://dev.to/codewithsnowbit/use-ternary-operators-daily-javascript-tips-2-3oa5)
-- [Dev.to/JS] [Earn money online in Pakistan](https://dev.to/bilal3456code/earn-money-online-in-pakistan-a2m)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
