@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Earn money online in Pakistan](https://dev.to/bilal3456code/earn-money-online-in-pakistan-a2m)
+- [Dev.to/JS] [Where to Learn React.JS in 2022 - A List of Resources for New Developers](https://dev.to/asayerio_techblog/where-to-learn-reactjs-in-2022-a-list-of-resources-for-new-developers-1iln)
+- [Dev.to/JS] [Narrow Down Types With Typescript Generic Constraints](https://dev.to/frendyguo/narrow-down-types-with-typescript-generic-constraints-2plk)
+- [Dev.to/JS] [Day 74 of 100 Days of Code &amp; Scrum: Tenth Weekly Retrospective](https://dev.to/rammina/day-74-of-100-days-of-code-scrum-tenth-weekly-retrospective-4me3)
 - [Dev.to/JS] [Deep dive into React codebase [EP1: Prerequisites]](https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak)
 - [Dev.to/JS] [Show and hide a header based on scroll direction](https://dev.to/dailydevtips1/show-and-hide-a-header-based-on-scroll-direction-19fa)
 - [Dev.to/JS] [I published My new Chapter](https://dev.to/subhransuindia/i-created-my-new-portfolio-hpa)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My First Post 💖](https://dev.to/sh20raj/my-first-post-52gc)
 - [Dev.to/JS] [React - Passing ref from Child to Parent?](https://dev.to/jr_web_dev/react-passing-ref-from-child-to-parent-2ac5)
 - [Dev.to/JS] [How to Show a Delete Confirmation Dialog in Rails Using Stimulus](https://dev.to/software_writer/how-to-show-a-delete-confirmation-dialog-in-rails-using-stimulus-17i)
-- [Dev.to/JS] [Project 97 - React Native Color Customizer](https://dev.to/jwhubert91/project-97-react-native-color-customizer-dfk)
-- [Dev.to/JS] [Dev note 8JAN2021](https://dev.to/kipackjeong/dev-note-8jan2021-47km)
-- [Dev.to/JS] [&lpar;question&rpar; Dev Dependency or Dependency?](https://dev.to/webdev03/question-dev-dependency-or-dependency-51c0)
-- [Dev.to/JS] [REACT -&gt; HOOKS!](https://dev.to/bigbitdev/react-hooks-35ll)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
