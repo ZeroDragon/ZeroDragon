@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Weekly Digest 01/2022](https://dev.to/marcobiedermann/weekly-digest-012022-1eol)
+- [Dev.to/JS] [Night Owls](https://dev.to/santoshor42/night-owls-56bj)
+- [Dev.to/JS] [How to use faker.js after its &quot;endgame&quot;](https://dev.to/unzor/how-to-use-fakerjs-after-its-endgame-36a5)
+- [Dev.to/JS] [[week1] Days 7 - first week complete](https://dev.to/blackthor/week1-days-6-2l7n)
+- [Dev.to/JS] [LeetCode - Valid Sudoku](https://dev.to/_alkesh26/leetcode-valid-sudoku-4m4b)
+- [Dev.to/JS] [How to make HTTP requests using &quot;fetch&quot;](https://dev.to/codewithsnowbit/how-to-make-http-requests-using-fetch-1hj8)
+- [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Dev.to/JS] [5 Projects to Get You to Your First Web Dev Job in 2022](https://dev.to/aditya_developer/5-projects-to-get-you-to-your-first-web-dev-job-in-2022-1gle)
 - [Dev.to/JS] [Example social network developed with ReactJS, Spring Boot and MongoDB](https://dev.to/linhtch90/example-social-network-developed-with-reactjs-spring-boot-and-mongodb-pgk)
 - [Dev.to/JS] [React Native Roadmap 2022](https://dev.to/ravics09/react-native-roadmap-2022-119)
 - [Dev.to/JS] [React &amp; PDF Rendering](https://dev.to/przpiw/react-pdf-rendering-4g7b)
 - [Dev.to/JS] [Make SVG follow cursor using CSS and JS](https://dev.to/anomaly3108/make-svg-follow-cursor-using-css-and-js-2okp)
 - [Dev.to/JS] [Array Methods — Destructive vs Nondestructive](https://dev.to/abbeybercher/array-methods-destructive-vs-nondestructive-4neg)
-- [Dev.to/JS] [JavaScript Loan Calculator With HTML &amp; CSS](https://dev.to/shantanu_jana/javascript-loan-calculator-with-html-css-4kpg)
-- [Dev.to/JS] [30 JavaScript Libraries to use in your Projects](https://dev.to/devdefinitive/30-javascript-libraries-to-use-in-your-projects-1gd3)
-- [Dev.to/JS] [What is React JS?](https://dev.to/yasin440/what-is-react-js-what-to-learn-in-react-js-1c52)
-- [Dev.to/JS] [How to view HTML Code online?](https://dev.to/goonlinetools/how-to-view-html-code-online-29p4)
-- [Dev.to/JS] [AJAX - Calling JSON api using XML in CodePen](https://dev.to/muhammad_asif/ajax-calling-json-api-using-xml-in-codepen-4p6e)
-- [Dev.to/JS] [Keto Diet Lib - a collection of food info and helpful tools for ketogenic patients](https://dev.to/netervati/keto-diet-lib-a-collection-of-food-info-and-helpful-tools-for-ketogenic-patients-26of)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)
 - [Lifehacker] [Here’s When to Get Your Older Kids Their Booster Shot](https://lifehacker.com/here-s-when-to-get-your-older-kids-their-booster-shot-1848313883)
 - [Lifehacker] [The Right Way to Use a Scale to Track What You Eat](https://lifehacker.com/the-right-way-to-use-a-scale-to-track-what-you-eat-1848314496)
-- [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)
-- [Lifehacker] [Don&#39;t Give Up Your Right to Sue Google](https://lifehacker.com/dont-give-up-your-right-to-sue-google-1848313515)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)<!-- TECH-POSTS:END -->
 
 ---
 
