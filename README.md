@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode diary: 1641. Count Sorted Vowel Strings [DP problem]](https://dev.to/kevin074/leetcode-diary-1641-count-sorted-vowel-strings-dp-problem-33k1)
+- [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
+- [Dev.to/JS] [The best JS build tool - Parcel 2](https://dev.to/amjadmh73/the-best-js-build-tool-parcel-2-34kg)
+- [Dev.to/JS] [Extending Native Elements](https://dev.to/danieldekel/extending-native-elements-4h31)
+- [Dev.to/JS] [Create react components at the speed of light](https://dev.to/ivanms1/create-react-components-at-the-speed-of-light-26l4)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 3](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-3-i47)
 - [Dev.to/JS] [Elm: ushering in a new era of web development](https://dev.to/benjamonnguyen/elm-ushering-in-a-new-era-of-web-development-295d)
 - [Dev.to/JS] [Program your own WYSIWYG editor – with HTML, CSS &amp; pure JavaScript](https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/vanshsh/functions-in-javascript-5eda)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web vitals automation using github actions](https://dev.to/achuthhadnoor/web-vitals-automation-using-github-actions-413a)
 - [Dev.to/JS] [Use Ternary Operators - Daily JavaScript Tips #2](https://dev.to/codewithsnowbit/use-ternary-operators-daily-javascript-tips-2-3oa5)
 - [Dev.to/JS] [Earn money online in Pakistan](https://dev.to/bilal3456code/earn-money-online-in-pakistan-a2m)
-- [Dev.to/JS] [Where to Learn React.JS in 2022 - A List of Resources for New Developers](https://dev.to/asayerio_techblog/where-to-learn-reactjs-in-2022-a-list-of-resources-for-new-developers-1iln)
-- [Dev.to/JS] [Narrow Down Types With Typescript Generic Constraints](https://dev.to/frendyguo/narrow-down-types-with-typescript-generic-constraints-2plk)
-- [Dev.to/JS] [Day 74 of 100 Days of Code &amp; Scrum: Tenth Weekly Retrospective](https://dev.to/rammina/day-74-of-100-days-of-code-scrum-tenth-weekly-retrospective-4me3)
-- [Dev.to/JS] [Deep dive into React codebase [EP1: Prerequisites]](https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak)
-- [Dev.to/JS] [Show and hide a header based on scroll direction](https://dev.to/dailydevtips1/show-and-hide-a-header-based-on-scroll-direction-19fa)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Right Way to Use a Scale to Track What You Eat](https://lifehacker.com/the-right-way-to-use-a-scale-to-track-what-you-eat-1848314496)
 - [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)
 - [Lifehacker] [Don&#39;t Give Up Your Right to Sue Google](https://lifehacker.com/dont-give-up-your-right-to-sue-google-1848313515)
-- [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)
-- [Crazy Programmer] [Ask Us Anything: 10 Answers to Your Questions about HTML Editors](https://www.thecrazyprogrammer.com/2022/01/10-answers-to-your-questions-about-html-editors.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)<!-- TECH-POSTS:END -->
 
 ---
 
