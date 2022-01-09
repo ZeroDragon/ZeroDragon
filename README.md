@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Oh now we&#39;re talkin&#39;](https://dev.to/lostoneway/oh-now-were-talkin-2bi3)
 - [Dev.to/JS] [How to Add Search to Hugo Static Sites](https://dev.to/anthonyjdella/how-to-add-search-to-hugo-static-sites-58ke)
 - [Dev.to/JS] [Let&#39;s Code a Final Fantasy Style Browser Game With rpg.js! | Map- and Character Creation | Episode 2](https://dev.to/timo_ernst/lets-code-a-final-fantasy-style-browser-game-with-rpgjs-map-and-character-creation-episode-2-8ia)
 - [Dev.to/JS] [How to use JavaScript  Comments](https://dev.to/adesleem/how-to-use-javascript-comments-nf0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modern JS Engine Workflow](https://dev.to/moreshwar/modern-js-engine-workflow-35g5)
 - [Dev.to/JS] [Managing JS and CSS Assets in Rails 7](https://dev.to/cristiano/managing-js-and-css-assets-in-rails-7-1n0e)
 - [Dev.to/JS] [The EndGame - Fakerjs](https://dev.to/cyril_ogoh/the-endgame-fakerjs-5g0m)
-- [Dev.to/JS] [Seat Selection of a Movie Theater 🎥](https://dev.to/itsahsanmangal/seat-selection-of-a-movie-theater-479n)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
