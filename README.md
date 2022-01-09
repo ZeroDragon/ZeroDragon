@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Schema based validation using express-validator in Node.js](https://dev.to/jayeshchoudhary/schema-based-validation-using-express-validator-in-nodejs-5ck0)
+- [Dev.to/JS] [Path Aliases in Next.js](https://dev.to/rhammy/path-aliases-in-nextjs-2fnc)
 - [Dev.to/JS] [What is performance optimization: network optimization and render optimization?](https://dev.to/heritio/what-is-performance-optimization-network-optimization-and-render-optimization-14n)
 - [Dev.to/JS] [Sync and Async for dummies or cooking chefs](https://dev.to/luizcalaca/sync-and-async-for-dummies-or-cooking-chefs-5759)
 - [Dev.to/JS] [Code Splitting with dynamic imports](https://dev.to/lavary/code-splitting-with-dynamic-imports-kjg)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Dev.to/JS] [Animated Counter](https://dev.to/sarmunbustillo/animated-counter-fjo)
 - [Dev.to/JS] [Discuss: Would you have one style sheet for all or make a style sheet for each page when making a basic website?](https://dev.to/cesscode/would-you-have-one-style-sheet-for-all-or-make-a-style-sheet-for-each-page-when-making-a-basic-website-34e1)
-- [Dev.to/JS] [How to toggle dark mode](https://dev.to/yigitsr/how-to-toggle-dark-mode-1p72)
-- [Dev.to/JS] [Excluding certain file paths from in React Router](https://dev.to/salehmubashar/excluding-certain-file-paths-from-in-react-router-3l16)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
