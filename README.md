@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is React JS?](https://dev.to/yasin440/what-is-react-js-what-to-learn-in-react-js-1c52)
+- [Dev.to/JS] [How to view HTML Code online?](https://dev.to/goonlinetools/how-to-view-html-code-online-29p4)
+- [Dev.to/JS] [AJAX - Calling JSON api using XML in CodePen](https://dev.to/muhammad_asif/ajax-calling-json-api-using-xml-in-codepen-4p6e)
+- [Dev.to/JS] [Keto Diet Lib - a collection of food info and helpful tools for ketogenic patients](https://dev.to/netervati/keto-diet-lib-a-collection-of-food-info-and-helpful-tools-for-ketogenic-patients-26of)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
 - [Dev.to/JS] [Criando Blog com React do ZERO - Iniciando no React](https://dev.to/tuliocalil/criando-blog-com-react-do-zero-iniciando-no-react-2d55)
 - [Dev.to/JS] [Hello DEVELOPERS](https://dev.to/morwals/hello-developers-m3)
@@ -30,12 +34,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google Summer of Code](https://dev.to/ganeshpatil386386/google-summer-of-code-f4h)
 - [Dev.to/JS] [What&#39;s the Difference Between Nominal, Structural, and Duck Typing?](https://dev.to/awwsmm/whats-the-difference-between-nominal-structural-and-duck-typing-11f8)
 - [Dev.to/JS] [Prototypal Inheritance and Classes in JavaScript](https://dev.to/sjsouvik/prototypal-inheritance-and-classes-in-javascript-1f1)
+- [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #122](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-122-28m6)
 - [Dev.to/JS] [CREATIVE CODING](https://dev.to/siddharthmallappa/creative-coding-4b0g)
-- [Dev.to/JS] [Reverse Stack using Javascript](https://dev.to/ajayv1/reverse-stack-using-javascript-4fmm)
-- [Dev.to/JS] [TypeScript: Types of Types](https://dev.to/ponikar/typescript-types-of-types-39ie)
-- [Dev.to/JS] [Question 1](https://dev.to/vermaprince123/question-1-1h1h)
-- [Dev.to/JS] [binding &quot;this&quot;](https://dev.to/mdimran1409036/binding-this-3db4)
-- [Dev.to/JS] [Menampilkan Raw Html Di Vue](https://dev.to/medan_in_code/menampilkan-raw-html-di-vue-3jka)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
