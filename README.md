@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
+- [Dev.to/JS] [Animated Counter](https://dev.to/sarmunbustillo/animated-counter-fjo)
+- [Dev.to/JS] [Discuss: Would you have one style sheet for all or make a style sheet for each page when making a basic website?](https://dev.to/cesscode/would-you-have-one-style-sheet-for-all-or-make-a-style-sheet-for-each-page-when-making-a-basic-website-34e1)
+- [Dev.to/JS] [How to toggle dark mode](https://dev.to/yigitsr/how-to-toggle-dark-mode-1p72)
+- [Dev.to/JS] [Excluding certain file paths from in React Router](https://dev.to/salehmubashar/excluding-certain-file-paths-from-in-react-router-3l16)
+- [Dev.to/JS] [Advanced JavaScript Series - Part 4.1: Global, Function and Block Scope, Lexical vs Dynamic Scoping](https://dev.to/pranav016/advanced-javascript-series-part-41-global-function-and-block-scope-lexical-vs-dynamic-scoping-20pg)
+- [Dev.to/JS] [5 HTML Input types you are missing!](https://dev.to/anuraggharat/5-html-input-types-you-are-missing-48k2)
 - [Dev.to/JS] [Weekly Digest 01/2022](https://dev.to/marcobiedermann/weekly-digest-012022-1eol)
 - [Dev.to/JS] [Night Owls](https://dev.to/santoshor42/night-owls-56bj)
 - [Dev.to/JS] [How to use faker.js after its &quot;endgame&quot;](https://dev.to/unzor/how-to-use-fakerjs-after-its-endgame-36a5)
@@ -30,12 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Valid Sudoku](https://dev.to/_alkesh26/leetcode-valid-sudoku-4m4b)
 - [Dev.to/JS] [How to make HTTP requests using &quot;fetch&quot;](https://dev.to/codewithsnowbit/how-to-make-http-requests-using-fetch-1hj8)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
-- [Dev.to/JS] [5 Projects to Get You to Your First Web Dev Job in 2022](https://dev.to/aditya_developer/5-projects-to-get-you-to-your-first-web-dev-job-in-2022-1gle)
-- [Dev.to/JS] [Example social network developed with ReactJS, Spring Boot and MongoDB](https://dev.to/linhtch90/example-social-network-developed-with-reactjs-spring-boot-and-mongodb-pgk)
-- [Dev.to/JS] [React Native Roadmap 2022](https://dev.to/ravics09/react-native-roadmap-2022-119)
-- [Dev.to/JS] [React &amp; PDF Rendering](https://dev.to/przpiw/react-pdf-rendering-4g7b)
-- [Dev.to/JS] [Make SVG follow cursor using CSS and JS](https://dev.to/anomaly3108/make-svg-follow-cursor-using-css-and-js-2okp)
-- [Dev.to/JS] [Array Methods — Destructive vs Nondestructive](https://dev.to/abbeybercher/array-methods-destructive-vs-nondestructive-4neg)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
 - [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)
 - [Lifehacker] [Here’s When to Get Your Older Kids Their Booster Shot](https://lifehacker.com/here-s-when-to-get-your-older-kids-their-booster-shot-1848313883)
-- [Lifehacker] [The Right Way to Use a Scale to Track What You Eat](https://lifehacker.com/the-right-way-to-use-a-scale-to-track-what-you-eat-1848314496)
-- [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Right Way to Use a Scale to Track What You Eat](https://lifehacker.com/the-right-way-to-use-a-scale-to-track-what-you-eat-1848314496)<!-- TECH-POSTS:END -->
 
 ---
 
