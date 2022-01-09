@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s the Difference Between Nominal, Structural, and Duck Typing?](https://dev.to/awwsmm/whats-the-difference-between-nominal-structural-and-duck-typing-11f8)
+- [Dev.to/JS] [Prototypal Inheritance and Classes in JavaScript](https://dev.to/sjsouvik/prototypal-inheritance-and-classes-in-javascript-1f1)
 - [Dev.to/JS] [CREATIVE CODING](https://dev.to/siddharthmallappa/creative-coding-4b0g)
 - [Dev.to/JS] [Reverse Stack using Javascript](https://dev.to/ajayv1/reverse-stack-using-javascript-4fmm)
 - [Dev.to/JS] [TypeScript: Types of Types](https://dev.to/ponikar/typescript-types-of-types-39ie)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Dev.to/JS] [The best JS build tool - Parcel 2](https://dev.to/amjadmh73/the-best-js-build-tool-parcel-2-34kg)
 - [Dev.to/JS] [Extending Native Elements](https://dev.to/danieldekel/extending-native-elements-4h31)
-- [Dev.to/JS] [Create react components at the speed of light](https://dev.to/ivanms1/create-react-components-at-the-speed-of-light-26l4)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 3](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-3-i47)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
