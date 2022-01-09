@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web vitals automation using github actions](https://dev.to/achuthhadnoor/web-vitals-automation-using-github-actions-413a)
+- [Dev.to/JS] [Use Ternary Operators - Daily JavaScript Tips #2](https://dev.to/codewithsnowbit/use-ternary-operators-daily-javascript-tips-2-3oa5)
 - [Dev.to/JS] [Earn money online in Pakistan](https://dev.to/bilal3456code/earn-money-online-in-pakistan-a2m)
 - [Dev.to/JS] [Where to Learn React.JS in 2022 - A List of Resources for New Developers](https://dev.to/asayerio_techblog/where-to-learn-reactjs-in-2022-a-list-of-resources-for-new-developers-1iln)
 - [Dev.to/JS] [Narrow Down Types With Typescript Generic Constraints](https://dev.to/frendyguo/narrow-down-types-with-typescript-generic-constraints-2plk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 JavaScript Features Beginner Can Learn in 2022](https://dev.to/javinpaul/5-javascript-features-beginner-can-learn-in-2022-49fi)
 - [Dev.to/JS] [The Technology Upskill Mess For Application Developers](https://dev.to/techpackets/the-technology-upskill-mess-for-application-developers-g5)
 - [Dev.to/JS] [My First Post 💖](https://dev.to/sh20raj/my-first-post-52gc)
-- [Dev.to/JS] [React - Passing ref from Child to Parent?](https://dev.to/jr_web_dev/react-passing-ref-from-child-to-parent-2ac5)
-- [Dev.to/JS] [How to Show a Delete Confirmation Dialog in Rails Using Stimulus](https://dev.to/software_writer/how-to-show-a-delete-confirmation-dialog-in-rails-using-stimulus-17i)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
