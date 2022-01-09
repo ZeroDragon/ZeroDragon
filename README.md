@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
+- [Dev.to/JS] [Criando Blog com React do ZERO - Iniciando no React](https://dev.to/tuliocalil/criando-blog-com-react-do-zero-iniciando-no-react-2d55)
+- [Dev.to/JS] [Hello DEVELOPERS](https://dev.to/morwals/hello-developers-m3)
+- [Dev.to/JS] [Leetcode diary: 1525. Number of Good Ways to Split a String](https://dev.to/kevin074/leetcode-diary-1525-number-of-good-ways-to-split-a-string-1783)
+- [Dev.to/JS] [Google Summer of Code](https://dev.to/ganeshpatil386386/google-summer-of-code-f4h)
 - [Dev.to/JS] [What&#39;s the Difference Between Nominal, Structural, and Duck Typing?](https://dev.to/awwsmm/whats-the-difference-between-nominal-structural-and-duck-typing-11f8)
 - [Dev.to/JS] [Prototypal Inheritance and Classes in JavaScript](https://dev.to/sjsouvik/prototypal-inheritance-and-classes-in-javascript-1f1)
 - [Dev.to/JS] [CREATIVE CODING](https://dev.to/siddharthmallappa/creative-coding-4b0g)
@@ -31,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Question 1](https://dev.to/vermaprince123/question-1-1h1h)
 - [Dev.to/JS] [binding &quot;this&quot;](https://dev.to/mdimran1409036/binding-this-3db4)
 - [Dev.to/JS] [Menampilkan Raw Html Di Vue](https://dev.to/medan_in_code/menampilkan-raw-html-di-vue-3jka)
-- [Dev.to/JS] [React Conditional rendering](https://dev.to/101samovar/react-conditional-rendering-5a44)
-- [Dev.to/JS] [Leetcode diary: 1641. Count Sorted Vowel Strings [DP problem]](https://dev.to/kevin074/leetcode-diary-1641-count-sorted-vowel-strings-dp-problem-33k1)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
-- [Dev.to/JS] [The best JS build tool - Parcel 2](https://dev.to/amjadmh73/the-best-js-build-tool-parcel-2-34kg)
-- [Dev.to/JS] [Extending Native Elements](https://dev.to/danieldekel/extending-native-elements-4h31)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s When to Get Your Older Kids Their Booster Shot](https://lifehacker.com/here-s-when-to-get-your-older-kids-their-booster-shot-1848313883)
 - [Lifehacker] [The Right Way to Use a Scale to Track What You Eat](https://lifehacker.com/the-right-way-to-use-a-scale-to-track-what-you-eat-1848314496)
 - [Lifehacker] [The Easiest Way to Test &lpar;and Use Up&rpar; Your Old Spices](https://lifehacker.com/the-easiest-way-to-test-and-use-up-your-old-spices-1848311310)
-- [Lifehacker] [Don&#39;t Give Up Your Right to Sue Google](https://lifehacker.com/dont-give-up-your-right-to-sue-google-1848313515)
-- [Lifehacker] [Why Your Liver Needs a Break Every Once in a While](https://lifehacker.com/why-your-liver-needs-a-break-every-once-in-a-while-1848312163)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Don&#39;t Give Up Your Right to Sue Google](https://lifehacker.com/dont-give-up-your-right-to-sue-google-1848313515)<!-- TECH-POSTS:END -->
 
 ---
 
