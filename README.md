@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sync and Async for dummies or cooking chefs](https://dev.to/luizcalaca/sync-and-async-for-dummies-or-cooking-chefs-5759)
+- [Dev.to/JS] [Code Splitting with dynamic imports](https://dev.to/lavary/code-splitting-with-dynamic-imports-kjg)
+- [Dev.to/JS] [¿Los mejores sitio web para conseguir trabajo en tecnología?](https://dev.to/sebasttiandaza/los-mejores-sitio-web-para-conseguir-trabajo-en-tecnologia-31lm)
+- [Dev.to/JS] [Micro Frontends](https://dev.to/danyson/micro-front-ends-2f41)
 - [Dev.to/JS] [What Scope says about Variable in JavaScript?](https://dev.to/lawanu/what-scope-says-about-variable-in-javascript-1jo6)
 - [Dev.to/JS] [How to build an awesome slide based full page scrolling landing page with Fullpage.js | Html | CSS | JS](https://dev.to/thatanjan/build-an-awesome-slide-based-full-page-scrolling-landing-page-with-fullpagejs-html-css-js-2242)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Excluding certain file paths from in React Router](https://dev.to/salehmubashar/excluding-certain-file-paths-from-in-react-router-3l16)
 - [Dev.to/JS] [Advanced JavaScript Series - Part 4.1: Global, Function and Block Scope, Lexical vs Dynamic Scoping](https://dev.to/pranav016/advanced-javascript-series-part-41-global-function-and-block-scope-lexical-vs-dynamic-scoping-20pg)
 - [Dev.to/JS] [5 HTML Input types you are missing!](https://dev.to/anuraggharat/5-html-input-types-you-are-missing-48k2)
-- [Dev.to/JS] [Weekly Digest 01/2022](https://dev.to/marcobiedermann/weekly-digest-012022-1eol)
-- [Dev.to/JS] [Night Owls](https://dev.to/santoshor42/night-owls-56bj)
-- [Dev.to/JS] [How to use faker.js after its &quot;endgame&quot;](https://dev.to/unzor/how-to-use-fakerjs-after-its-endgame-36a5)
-- [Dev.to/JS] [[week1] Days 7 - first week complete](https://dev.to/blackthor/week1-days-6-2l7n)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
