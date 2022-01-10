@@ -23,10 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Restore Events You Accidentally Deleted From Google Calendar](https://lifehacker.com/you-can-restore-events-you-accidentally-deleted-from-go-1848331447)
+- [Dev.to/JS] [How to Create a Button in JavaScript](https://dev.to/herewecode/how-to-create-a-button-in-javascript-378p)
+- [Lifehacker] [How to Tell If a House Has &#39;Good Bones&#39;](https://lifehacker.com/how-to-tell-if-a-house-has-good-bones-1848322667)
+- [Dev.to/JS] [TypeScript - Aplicando as tipagens](https://dev.to/jhonywalkeer/typescript-aplicando-as-tipagens-3j82)
+- [Dev.to/JS] [What is Nullish Coalescing Operator](https://dev.to/rahulcs754/what-is-nullish-coalescing-operator-cbj)
+- [Dev.to/JS] [CRUD API with Fastify, Postgres, Docker](https://dev.to/francescoxx/crud-api-with-fastify-postgres-docker-1df3)
+- [Dev.to/JS] [Baloonza IT newsletters weekly digest #19](https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-19-165)
 - [Lifehacker] [How to Speed Up a Slow-Ass iCloud Sync](https://lifehacker.com/how-to-speed-up-a-slow-ass-icloud-sync-1848320456)
 - [Dev.to/JS] [Write Atomic CSS like Facebook with Stylify](https://dev.to/machy8/write-atomic-css-like-facebook-with-stylify-2074)
 - [Dev.to/JS] [What is SSR or Server-side rendering?](https://dev.to/akhlakhossainjim/what-is-ssr-or-server-side-rendering-11k5)
-- [Dev.to/JS] [Ancestry com login](https://dev.to/updatethegps/ancestry-com-login-2llk)
 - [Dev.to/JS] [Basic understanding of React Hooks &lpar;useState and useReducer&rpar;](https://dev.to/afikode_emma/basic-understanding-of-react-hooks-usestate-and-usereducer-1bgl)
 - [Dev.to/JS] [I built a real-time logging platform](https://dev.to/seedacquire/i-built-a-real-time-logging-platform-jjn)
 - [Lifehacker] [How to Buy a Car If You Absolutely Have to in This Inflation-Ridden Hellscape](https://lifehacker.com/how-to-buy-a-car-if-you-absolutely-have-to-in-this-infl-1848331100)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#02&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-02-2bpn)
 - [Dev.to/JS] [How I use Context and Hooks to manage State in React JS](https://dev.to/shadmanshakib/how-i-use-context-and-hooks-to-manage-state-in-react-js-jm0)
 - [Lifehacker] [These App Alternatives Are Faster Than Apple Music](https://lifehacker.com/these-app-alternatives-are-faster-than-apple-music-1848330239)
-- [Dev.to/JS] [How to make Google Login Form Design using HTML &amp; CSS](https://dev.to/ziontutorial/how-to-make-google-login-form-design-using-html-css-l53)
-- [Dev.to/JS] [How we reduced our nodejs monorepo build time by 70%](https://dev.to/scopsy/how-we-reduced-our-nodejs-monorepo-build-time-by-70-3oma)
-- [Dev.to/JS] [Perulangan Di Vue Js](https://dev.to/medan_in_code/perulangan-di-vue-js-1j0a)
-- [Dev.to/JS] [Handling Errors in Remix: A Guide.](https://dev.to/shafspecs/handling-errors-in-remix-a-guide-5h3p)
 - [Lifehacker] [How to Clean and Restore Your Exposed Brick Interior](https://lifehacker.com/how-to-clean-and-restore-your-exposed-brick-interior-1848330060)
 - [Lifehacker] [Decorate Like a Golden Girl](https://lifehacker.com/decorate-like-a-golden-girl-1848330256)
 - [Lifehacker] [How to Make Healthier Desserts That Don&#39;t Completely Suck](https://lifehacker.com/how-to-make-healthier-desserts-that-dont-completely-suc-1848323591)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Finder Won&#39;t Let You Eject Disk Images &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-finder-wont-let-you-eject-disk-images-and-how-to-f-1848320523)
 - [Lifehacker] [You Can Finally Stream All of the Olympics Without a Cable Subscription](https://lifehacker.com/you-can-finally-stream-all-of-the-olympics-without-a-ca-1848321129)
 - [Lifehacker] [11 Facts That Will Curb Your Fear of Flying, Once and for All](https://lifehacker.com/11-facts-that-will-curb-your-fear-of-flying-once-and-f-1848320513)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Why Is Twee Back in Fashion?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-tw-1848318777)
-- [Lifehacker] [16 Movies About Climbing Back From Rock Bottom](https://lifehacker.com/16-movies-about-climbing-back-from-rock-bottom-1848277465)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
 
 ---
