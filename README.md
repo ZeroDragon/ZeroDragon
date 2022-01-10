@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
+- [Dev.to/JS] [Add Line Numbers to Prismjs Code Blocks in a Next.js Project](https://dev.to/alanwsmith/add-line-numbers-to-prismjs-code-blocks-in-a-nextjs-project-50g1)
+- [Dev.to/JS] [WeakMap and WeakSet: Understanding JavaScript weak references](https://dev.to/logrocket/weakmap-and-weakset-understanding-javascript-weak-references-1lo1)
+- [Lifehacker] [Where Exactly Is Sports Gambling Legal?](https://lifehacker.com/where-exactly-is-sports-gambling-legal-1848333429)
+- [Dev.to/JS] [Cannot assign to read only property &#39;displayName&#39; of object &#39;#&lt;Object&gt;&#39;](https://dev.to/mdibuhossain/cannot-assign-to-read-only-property-displayname-of-object--2gkl)
+- [Lifehacker] [12 Quintessential Sidney Poitier Performances Everyone Should Know](https://lifehacker.com/12-quintessential-sidney-poitier-performances-everyone-1848331069)
 - [Dev.to/JS] [Gatsby vs. React Static vs. Next.js: What is the best React-based Static Site Generator?](https://dev.to/ionos/gatsby-vs-react-static-vs-nextjs-what-is-the-best-react-based-static-site-generator-4npg)
 - [Dev.to/JS] [Constructorless namespaces in ES5 &amp; ES6](https://dev.to/projektorius96/constructorless-namespaces-in-es5-es6-14pk)
 - [Lifehacker] [The One Thing You Should Never Put in Your Nonstick Pan](https://lifehacker.com/the-one-thing-you-should-never-put-in-your-nonstick-pan-1848332657)
@@ -36,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Speed Up a Slow-Ass iCloud Sync](https://lifehacker.com/how-to-speed-up-a-slow-ass-icloud-sync-1848320456)
 - [Dev.to/JS] [Write Atomic CSS like Facebook with Stylify](https://dev.to/machy8/write-atomic-css-like-facebook-with-stylify-2074)
 - [Dev.to/JS] [What is SSR or Server-side rendering?](https://dev.to/akhlakhossainjim/what-is-ssr-or-server-side-rendering-11k5)
-- [Dev.to/JS] [Basic understanding of React Hooks &lpar;useState and useReducer&rpar;](https://dev.to/afikode_emma/basic-understanding-of-react-hooks-usestate-and-usereducer-1bgl)
-- [Dev.to/JS] [I built a real-time logging platform](https://dev.to/seedacquire/i-built-a-real-time-logging-platform-jjn)
 - [Lifehacker] [How to Buy a Car If You Absolutely Have to in This Inflation-Ridden Hellscape](https://lifehacker.com/how-to-buy-a-car-if-you-absolutely-have-to-in-this-infl-1848331100)
-- [Dev.to/JS] [My Web-development Journey](https://dev.to/coding_warepam/my-web-development-journey-4n66)
 - [Lifehacker] [Throw Out This E. coli-Contaminated Beef, USDA Says](https://lifehacker.com/throw-out-this-e-coli-contaminated-beef-usda-says-1848330845)
 - [Lifehacker] [These App Alternatives Are Faster Than Apple Music](https://lifehacker.com/these-app-alternatives-are-faster-than-apple-music-1848330239)
 - [Lifehacker] [How to Clean and Restore Your Exposed Brick Interior](https://lifehacker.com/how-to-clean-and-restore-your-exposed-brick-interior-1848330060)
@@ -59,9 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
 - [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
-- [Lifehacker] [How to &#39;Come Out&#39; As an Atheist Without Destroying Your Relationships](https://lifehacker.com/how-to-come-out-as-an-atheist-without-destroying-your-r-1848313516)
-- [Lifehacker] [Why Finder Won&#39;t Let You Eject Disk Images &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-finder-wont-let-you-eject-disk-images-and-how-to-f-1848320523)
-- [Lifehacker] [You Can Finally Stream All of the Olympics Without a Cable Subscription](https://lifehacker.com/you-can-finally-stream-all-of-the-olympics-without-a-ca-1848321129)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
 
 ---
