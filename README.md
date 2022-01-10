@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #2: ¿Qué imprime este código?](https://dev.to/duxtech/paracetamoljs-2-que-imprime-este-codigo-4c6o)
+- [Dev.to/JS] [A short list of some helpful VS Code keyboard short cuts.](https://dev.to/bbperry/a-short-list-of-some-helpful-vs-code-keyboard-short-cuts-1ij5)
+- [Dev.to/JS] [Reusable Components - The value of spreading props](https://dev.to/mphelps1978/reusable-components-the-value-of-spreading-props-4kkf)
 - [Lifehacker] [All the Things You Didn&#39;t Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 - [Dev.to/JS] [Animated Education Website with HTML CSS JS](https://dev.to/codewithsadee/animated-education-website-with-html-css-js-3d8h)
 - [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Restore Events You Accidentally Deleted From Google Calendar](https://lifehacker.com/you-can-restore-events-you-accidentally-deleted-from-go-1848331447)
 - [Dev.to/JS] [How to Create a Button in JavaScript](https://dev.to/herewecode/how-to-create-a-button-in-javascript-378p)
 - [Lifehacker] [How to Tell If a House Has &#39;Good Bones&#39;](https://lifehacker.com/how-to-tell-if-a-house-has-good-bones-1848322667)
-- [Dev.to/JS] [TypeScript - Aplicando as tipagens](https://dev.to/jhonywalkeer/typescript-aplicando-as-tipagens-3j82)
-- [Dev.to/JS] [What is Nullish Coalescing Operator](https://dev.to/rahulcs754/what-is-nullish-coalescing-operator-cbj)
-- [Dev.to/JS] [CRUD API with Fastify, Postgres, Docker](https://dev.to/francescoxx/crud-api-with-fastify-postgres-docker-1df3)
 - [Lifehacker] [How to Speed Up a Slow-Ass iCloud Sync](https://lifehacker.com/how-to-speed-up-a-slow-ass-icloud-sync-1848320456)
 - [Lifehacker] [How to Buy a Car If You Absolutely Have to in This Inflation-Ridden Hellscape](https://lifehacker.com/how-to-buy-a-car-if-you-absolutely-have-to-in-this-infl-1848331100)
 - [Lifehacker] [Throw Out This E. coli-Contaminated Beef, USDA Says](https://lifehacker.com/throw-out-this-e-coli-contaminated-beef-usda-says-1848330845)
