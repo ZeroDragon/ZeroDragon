@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let Understand Temporal Dead Zone](https://dev.to/rahulcs754/let-understand-temporal-dead-zone-4gl)
+- [Dev.to/JS] [Understanding Currying in JavaScript with an Example](https://dev.to/ashu96/understanding-currying-in-javascript-with-an-example-jhi)
+- [Dev.to/JS] [What is VOID Operator - Daily JavaScript Tips #3](https://dev.to/codewithsnowbit/what-is-void-operator-daily-javascript-tips-3-48g3)
+- [Dev.to/JS] [BUGS!!!!🐞](https://dev.to/dinodonal/bugs-3h60)
 - [Dev.to/JS] [MAKING YOUR FIRST WEB APP](https://dev.to/dinodonal/making-your-first-web-app-2g2h)
 - [Dev.to/JS] [Detect Marak Squires packages with NodeSecure](https://dev.to/fraxken/detect-marak-squires-packages-with-nodesecure-3lpo)
 - [Dev.to/JS] [Compound Component Pattern en React](https://dev.to/gabrielomarq/compound-component-pattern-en-react-a63)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to login programmatically with Cypress](https://dev.to/walmyrlimaesilv/how-to-login-programmatically-with-cypress-2iam)
 - [Dev.to/JS] [Desenvolva orientado a DESEMPENHOO&lpar;Next.js&rpar;](https://dev.to/davecosta/desenvolva-orientado-a-desempenhoonextjs-2846)
 - [Dev.to/JS] [Turn Visual Studio Code Into A Top-Notch JavaScript IDE With These 25 Extensions](https://dev.to/lgrammel/turn-visual-studio-code-into-a-top-notch-javascript-ide-with-these-25-extensions-1llc)
-- [Dev.to/JS] [Best practices for performance: what is network optimization and rendering optimization?](https://dev.to/heritio/best-practices-for-performance-what-is-network-optimization-and-rendering-optimization-49fg)
-- [Dev.to/JS] [Use this NPM script to create your EditorConfig files](https://dev.to/douglasdemoura/use-this-npm-script-to-create-your-editorconfig-files-1e3c)
-- [Dev.to/JS] [State of the Web: Deno](https://dev.to/asyncbanana/state-of-the-web-deno-4lmh)
-- [Dev.to/JS] [Schema based validation using express-validator in Node.js](https://dev.to/jayeshchoudhary/schema-based-validation-using-express-validator-in-nodejs-5ck0)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
