@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to login programmatically with Cypress](https://dev.to/walmyrlimaesilv/how-to-login-programmatically-with-cypress-2iam)
+- [Dev.to/JS] [Desenvolva orientado a DESEMPENHOO&lpar;Next.js&rpar;](https://dev.to/davecosta/desenvolva-orientado-a-desempenhoonextjs-2846)
 - [Dev.to/JS] [Turn Visual Studio Code Into A Top-Notch JavaScript IDE With These 25 Extensions](https://dev.to/lgrammel/turn-visual-studio-code-into-a-top-notch-javascript-ide-with-these-25-extensions-1llc)
 - [Dev.to/JS] [Best practices for performance: what is network optimization and rendering optimization?](https://dev.to/heritio/best-practices-for-performance-what-is-network-optimization-and-rendering-optimization-49fg)
 - [Dev.to/JS] [Use this NPM script to create your EditorConfig files](https://dev.to/douglasdemoura/use-this-npm-script-to-create-your-editorconfig-files-1e3c)
 - [Dev.to/JS] [State of the Web: Deno](https://dev.to/asyncbanana/state-of-the-web-deno-4lmh)
 - [Dev.to/JS] [Schema based validation using express-validator in Node.js](https://dev.to/jayeshchoudhary/schema-based-validation-using-express-validator-in-nodejs-5ck0)
 - [Dev.to/JS] [Path Aliases in Next.js](https://dev.to/rhammy/path-aliases-in-nextjs-2fnc)
-- [Dev.to/JS] [What is performance optimization: network optimization and render optimization?](https://dev.to/heritio/what-is-performance-optimization-network-optimization-and-render-optimization-14n)
 - [Dev.to/JS] [Sync and Async for dummies or cooking chefs](https://dev.to/luizcalaca/sync-and-async-for-dummies-or-cooking-chefs-5759)
 - [Dev.to/JS] [Code Splitting with dynamic imports](https://dev.to/lavary/code-splitting-with-dynamic-imports-kjg)
 - [Dev.to/JS] [¿Los mejores sitio web para conseguir trabajo en tecnología?](https://dev.to/sebasttiandaza/los-mejores-sitio-web-para-conseguir-trabajo-en-tecnologia-31lm)
 - [Dev.to/JS] [Micro Frontends](https://dev.to/danyson/micro-front-ends-2f41)
-- [Dev.to/JS] [One more success story from a self-taught...](https://dev.to/mvqdev/one-more-success-story-from-a-self-taught-4n67)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
