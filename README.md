@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Speed Up a Slow-Ass iCloud Sync](https://lifehacker.com/how-to-speed-up-a-slow-ass-icloud-sync-1848320456)
+- [Dev.to/JS] [Write Atomic CSS like Facebook with Stylify](https://dev.to/machy8/write-atomic-css-like-facebook-with-stylify-2074)
+- [Dev.to/JS] [What is SSR or Server-side rendering?](https://dev.to/akhlakhossainjim/what-is-ssr-or-server-side-rendering-11k5)
+- [Dev.to/JS] [Ancestry com login](https://dev.to/updatethegps/ancestry-com-login-2llk)
+- [Dev.to/JS] [Basic understanding of React Hooks &lpar;useState and useReducer&rpar;](https://dev.to/afikode_emma/basic-understanding-of-react-hooks-usestate-and-usereducer-1bgl)
+- [Dev.to/JS] [I built a real-time logging platform](https://dev.to/seedacquire/i-built-a-real-time-logging-platform-jjn)
+- [Lifehacker] [How to Buy a Car If You Absolutely Have to in This Inflation-Ridden Hellscape](https://lifehacker.com/how-to-buy-a-car-if-you-absolutely-have-to-in-this-infl-1848331100)
+- [Dev.to/JS] [My Web-development Journey](https://dev.to/coding_warepam/my-web-development-journey-4n66)
 - [Lifehacker] [Throw Out This E. coli-Contaminated Beef, USDA Says](https://lifehacker.com/throw-out-this-e-coli-contaminated-beef-usda-says-1848330845)
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#02&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-02-2bpn)
 - [Dev.to/JS] [How I use Context and Hooks to manage State in React JS](https://dev.to/shadmanshakib/how-i-use-context-and-hooks-to-manage-state-in-react-js-jm0)
@@ -31,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How we reduced our nodejs monorepo build time by 70%](https://dev.to/scopsy/how-we-reduced-our-nodejs-monorepo-build-time-by-70-3oma)
 - [Dev.to/JS] [Perulangan Di Vue Js](https://dev.to/medan_in_code/perulangan-di-vue-js-1j0a)
 - [Dev.to/JS] [Handling Errors in Remix: A Guide.](https://dev.to/shafspecs/handling-errors-in-remix-a-guide-5h3p)
-- [Dev.to/JS] [Create a Newsletter Subscription Form with Next.js API Routes and the Twitter Revue API](https://dev.to/braydoncoyer/create-a-newsletter-subscription-form-with-nextjs-api-routes-and-the-twitter-revue-api-43hd)
-- [Dev.to/JS] [📦 Top alternatives for &quot;colors&quot; and &quot;faker&quot;](https://dev.to/pkgland/top-alternatives-for-colors-and-faker-478l)
 - [Lifehacker] [How to Clean and Restore Your Exposed Brick Interior](https://lifehacker.com/how-to-clean-and-restore-your-exposed-brick-interior-1848330060)
-- [Dev.to/JS] [Weird behavior of javaScript you should know!!](https://dev.to/kale_abhinav/weird-behavior-of-javascript-you-should-know-4056)
-- [Dev.to/JS] [memory game | react | next js | javascript | css | html](https://dev.to/shatud/memory-game-react-next-js-javascript-css-html-4oef)
-- [Dev.to/JS] [Unable to display Chart.js doughnut chart](https://dev.to/strootaay/unable-to-display-chartjs-doughnut-chart-3ohh)
-- [Dev.to/JS] [3D CSS Flippy Snaps with React &amp;&amp; GreenSock](https://dev.to/jh3y/3d-css-flippy-snaps-with-react-greensock-2hb5)
 - [Lifehacker] [Decorate Like a Golden Girl](https://lifehacker.com/decorate-like-a-golden-girl-1848330256)
 - [Lifehacker] [How to Make Healthier Desserts That Don&#39;t Completely Suck](https://lifehacker.com/how-to-make-healthier-desserts-that-dont-completely-suc-1848323591)
 - [Lifehacker] [What to Expect the First Time You Go to the Gym](https://lifehacker.com/what-to-expect-the-first-time-you-go-to-the-gym-1848315805)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Facts That Will Curb Your Fear of Flying, Once and for All](https://lifehacker.com/11-facts-that-will-curb-your-fear-of-flying-once-and-f-1848320513)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Why Is Twee Back in Fashion?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-is-tw-1848318777)
 - [Lifehacker] [16 Movies About Climbing Back From Rock Bottom](https://lifehacker.com/16-movies-about-climbing-back-from-rock-bottom-1848277465)
-- [Lifehacker] [Use This App to Solve the Biggest Problem With Apple Reminders](https://lifehacker.com/use-this-app-to-solve-the-biggest-problem-with-apple-re-1848319244)
-- [Lifehacker] [How to Keep Inflation From Ruining Your Home Improvement Plans](https://lifehacker.com/how-to-keep-inflation-from-ruining-your-home-improvemen-1848319022)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
 
 ---
