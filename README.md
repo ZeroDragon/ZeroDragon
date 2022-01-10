@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improve $destroy performance in Vue](https://dev.to/przemyslawjanpietrzak/improve-destroy-performance-in-vue-1o5f)
+- [Dev.to/JS] [How I switched from PHP to Node.js](https://dev.to/bornfightcompany/how-i-switched-from-php-to-nodejs-2bhf)
+- [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073)
+- [Dev.to/JS] [LeMOT pour jouer à WORDLE en français](https://dev.to/michelc/lemot-pour-jouer-a-wordle-en-francais-o67)
+- [Dev.to/JS] [Javascript concept you should know](https://dev.to/mcube25/javascript-concept-you-should-know-43i4)
+- [Lifehacker] [Why You Should Think of Relaxing As a Skill, Not a Reward](https://lifehacker.com/why-you-should-think-of-relaxing-as-a-skill-not-a-rewa-1848320119)
 - [Dev.to/JS] [Hello I am looking for a javascript developer who can support in online hackathon which is going to conduct from 12th Jan.](https://dev.to/gaurangjindal15/hello-i-am-looking-for-a-javascript-developer-who-can-support-in-online-hackathon-which-is-going-to-conduct-from-12th-jan-2i8e)
 - [Dev.to/JS] [How to build a modern slide based website with fullpage.js](https://dev.to/thatanjan/how-to-build-a-modern-slide-based-website-with-fullpagejs-4cmc)
 - [Dev.to/JS] [Testing](https://dev.to/taires/testing-55j)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enviando e-mails condicionais a partir do Google Forms](https://dev.to/compiladoras/enviando-e-mails-condicionais-a-partir-do-google-forms-51pk)
 - [Dev.to/JS] [What is &quot;typeof&quot; operator in JavaScript](https://dev.to/codewithsnowbit/what-is-typeof-operator-in-javascript-369d)
 - [Dev.to/JS] [Leetcode diary: 1387. Sort Integers by The Power Value [DP]](https://dev.to/kevin074/leetcode-diary-1387-sort-integers-by-the-power-value-4433)
-- [Dev.to/JS] [Arrays management using JS](https://dev.to/whitehatdevv/arrays-management-using-js-3p93)
-- [Dev.to/JS] [Secrets To Hiring The Right International SEO Services Company](https://dev.to/nexstair_tech/secrets-to-hiring-the-right-international-seo-services-company-1lnh)
-- [Dev.to/JS] [Building and Testing a Select Component](https://dev.to/debs_obrien/building-and-testing-a-select-component-687)
-- [Dev.to/JS] [DOM guide for beginners #2](https://dev.to/himanshupal0001/dom-guide-for-beginners-2-56f3)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
 - [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
 - [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
-- [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)
-- [Lifehacker] [Here’s When to Get Your Older Kids Their Booster Shot](https://lifehacker.com/here-s-when-to-get-your-older-kids-their-booster-shot-1848313883)
-- [Lifehacker] [The Right Way to Use a Scale to Track What You Eat](https://lifehacker.com/the-right-way-to-use-a-scale-to-track-what-you-eat-1848314496)<!-- TECH-POSTS:END -->
+- [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)<!-- TECH-POSTS:END -->
 
 ---
 
