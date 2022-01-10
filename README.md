@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Compound Component Pattern en React](https://dev.to/gabrielomarq/compound-component-pattern-en-react-a63)
 - [Dev.to/JS] [FREE! Translate your language JSON file to any languages.](https://dev.to/parvineyvazov/free-translate-your-language-json-file-to-any-languages-1pb1)
 - [Dev.to/JS] [Launch WebStorm from terminal or Finder folder by shortcut in MacOS](https://dev.to/vadim/launch-webstorm-from-terminal-or-finder-folder-by-shortcut-in-macos-5d59)
 - [Dev.to/JS] [How to login programmatically with Cypress](https://dev.to/walmyrlimaesilv/how-to-login-programmatically-with-cypress-2iam)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Schema based validation using express-validator in Node.js](https://dev.to/jayeshchoudhary/schema-based-validation-using-express-validator-in-nodejs-5ck0)
 - [Dev.to/JS] [Path Aliases in Next.js](https://dev.to/rhammy/path-aliases-in-nextjs-2fnc)
 - [Dev.to/JS] [Sync and Async for dummies or cooking chefs](https://dev.to/luizcalaca/sync-and-async-for-dummies-or-cooking-chefs-5759)
-- [Dev.to/JS] [Code Splitting with dynamic imports](https://dev.to/lavary/code-splitting-with-dynamic-imports-kjg)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
