@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shadow DOM... Illustrated](https://dev.to/rajasneha_dev/shadow-dom-illustrated-4m1l)
+- [Dev.to/JS] [Built-in methods of Promise object in Javascript: the .all, .allSettled, .any, and .race explained](https://dev.to/anshuman_bhardwaj/built-in-methods-of-promise-object-in-javascript-the-all-allsettled-any-and-race-explained-27p4)
+- [Dev.to/JS] [Day 75 of 100 Days of Code &amp; Scrum: Learning New Skills, Improving Workflow, and Looking For Work](https://dev.to/rammina/day-75-of-100-days-of-code-scrum-learning-new-skills-improving-workflow-and-looking-for-work-8gi)
+- [Dev.to/JS] [Bootstrap 5 horizonal scrolling tabs](https://dev.to/fanmixco/bootstrap-5-horizonal-scrolling-tabs-5bgc)
 - [Dev.to/JS] [Web Scraping with NodeJS: a comprehensive guide [part-3]](https://dev.to/aviyel/web-scraping-with-nodejs-a-comprehensive-guide-part-3-1b6n)
 - [Dev.to/JS] [Web Scraping with NodeJS: a comprehensive guide [part-2]](https://dev.to/aviyel/web-scraping-with-nodejs-a-comprehensive-guide-part-2-43lk)
 - [Dev.to/JS] [Web Scraping with NodeJS: a comprehensive guide [part-1]](https://dev.to/aviyel/web-scraping-with-nodejs-a-comprehensive-guide-part-1-16g8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New beginnings](https://dev.to/hariseldon27/new-beginnings-5egh)
 - [Dev.to/JS] [Easy Tic-Tac-Toe Game using HTML, CSS &amp; JavaScript](https://dev.to/frontendeverything/easy-tic-tac-toe-game-using-html-css-javascript-5390)
 - [Dev.to/JS] [Let Understand Temporal Dead Zone](https://dev.to/rahulcs754/let-understand-temporal-dead-zone-4gl)
-- [Dev.to/JS] [Understanding Currying in JavaScript with an Example](https://dev.to/ashu96/understanding-currying-in-javascript-with-an-example-jhi)
-- [Dev.to/JS] [What is VOID Operator - Daily JavaScript Tips #3](https://dev.to/codewithsnowbit/what-is-void-operator-daily-javascript-tips-3-48g3)
-- [Dev.to/JS] [BUGS!!!!🐞](https://dev.to/dinodonal/bugs-3h60)
-- [Dev.to/JS] [MAKING YOUR FIRST WEB APP](https://dev.to/dinodonal/making-your-first-web-app-2g2h)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
