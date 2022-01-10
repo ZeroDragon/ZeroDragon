@@ -23,22 +23,24 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Perulangan Di Vue Js](https://dev.to/medan_in_code/perulangan-di-vue-js-1j0a)
+- [Dev.to/JS] [Handling Errors in Remix: A Guide.](https://dev.to/shafspecs/handling-errors-in-remix-a-guide-5h3p)
+- [Dev.to/JS] [Create a Newsletter Subscription Form with Next.js API Routes and the Twitter Revue API](https://dev.to/braydoncoyer/create-a-newsletter-subscription-form-with-nextjs-api-routes-and-the-twitter-revue-api-43hd)
+- [Dev.to/JS] [📦 Top alternatives for &quot;colors&quot; and &quot;faker&quot;](https://dev.to/pkgland/top-alternatives-for-colors-and-faker-478l)
+- [Lifehacker] [How to Clean and Restore Your Exposed Brick Interior](https://lifehacker.com/how-to-clean-and-restore-your-exposed-brick-interior-1848330060)
+- [Dev.to/JS] [Weird behavior of javaScript you should know!!](https://dev.to/kale_abhinav/weird-behavior-of-javascript-you-should-know-4056)
+- [Dev.to/JS] [memory game | react | next js | javascript | css | html](https://dev.to/shatud/memory-game-react-next-js-javascript-css-html-4oef)
+- [Dev.to/JS] [Unable to display Chart.js doughnut chart](https://dev.to/strootaay/unable-to-display-chartjs-doughnut-chart-3ohh)
+- [Dev.to/JS] [3D CSS Flippy Snaps with React &amp;&amp; GreenSock](https://dev.to/jh3y/3d-css-flippy-snaps-with-react-greensock-2hb5)
+- [Lifehacker] [Decorate Like a Golden Girl](https://lifehacker.com/decorate-like-a-golden-girl-1848330256)
+- [Dev.to/JS] [Day 1 of Coding School](https://dev.to/snagud/day-1-of-coding-school-5f39)
+- [Dev.to/JS] [@angular/common Functions](https://dev.to/rfornal/angularcommon-functions-kog)
+- [Dev.to/JS] [Parallax Powered by CSS Custom Properties](https://dev.to/jh3y/parallax-powered-by-css-custom-properties-3p83)
+- [Dev.to/JS] [How to write custom ESLint plugins](https://dev.to/kwaimind/how-to-write-custom-eslint-plugins-173k)
 - [Lifehacker] [How to Make Healthier Desserts That Don&#39;t Completely Suck](https://lifehacker.com/how-to-make-healthier-desserts-that-dont-completely-suc-1848323591)
-- [Dev.to/JS] [Write Once, Run Everywhere &lpar;Part 3&rpar;](https://dev.to/raddevus/write-once-run-everywhere-part-3-45kn)
-- [Dev.to/JS] [Write Once, Run Everywhere &lpar;Part 2 of N&rpar;](https://dev.to/raddevus/write-once-run-everywhere-part-2-of-n-4dc0)
-- [Dev.to/JS] [Write Once, Run Everywhere &lpar;Part 1 of N&rpar;](https://dev.to/raddevus/write-once-run-everywhere-part-1-of-n-49nl)
 - [Lifehacker] [What to Expect the First Time You Go to the Gym](https://lifehacker.com/what-to-expect-the-first-time-you-go-to-the-gym-1848315805)
-- [Dev.to/JS] [what i learned last week: how to build tic tac toe using html, css and javascript](https://dev.to/reyes2981/what-i-learned-last-week-how-to-build-tic-tac-toe-using-html-css-and-javascript-33gg)
-- [Dev.to/JS] [What are template literals ?](https://dev.to/lachouri/what-are-template-literals--41i6)
-- [Dev.to/JS] [Improve $destroy performance in Vue](https://dev.to/przemyslawjanpietrzak/improve-destroy-performance-in-vue-1o5f)
-- [Dev.to/JS] [How I switched from PHP to Node.js](https://dev.to/bornfightcompany/how-i-switched-from-php-to-nodejs-2bhf)
 - [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073)
-- [Dev.to/JS] [LeMOT pour jouer à WORDLE en français](https://dev.to/michelc/lemot-pour-jouer-a-wordle-en-francais-o67)
-- [Dev.to/JS] [Javascript concept you should know](https://dev.to/mcube25/javascript-concept-you-should-know-43i4)
 - [Lifehacker] [Why You Should Think of Relaxing As a Skill, Not a Reward](https://lifehacker.com/why-you-should-think-of-relaxing-as-a-skill-not-a-rewa-1848320119)
-- [Dev.to/JS] [Hello I am looking for a javascript developer who can support in online hackathon which is going to conduct from 12th Jan.](https://dev.to/gaurangjindal15/hello-i-am-looking-for-a-javascript-developer-who-can-support-in-online-hackathon-which-is-going-to-conduct-from-12th-jan-2i8e)
-- [Dev.to/JS] [How to build a modern slide based website with fullpage.js](https://dev.to/thatanjan/how-to-build-a-modern-slide-based-website-with-fullpagejs-4cmc)
-- [Dev.to/JS] [Testing](https://dev.to/taires/testing-55j)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Inflation From Ruining Your Home Improvement Plans](https://lifehacker.com/how-to-keep-inflation-from-ruining-your-home-improvemen-1848319022)
 - [Lifehacker] [The Most Popular Places on Zillow to Fantasize About a Home You Can&#39;t Afford](https://lifehacker.com/the-most-popular-places-on-zillow-to-fantasize-about-a-1848317022)
 - [Lifehacker] [Why You Should Prep Your Garnishes Before You Start Cooking](https://lifehacker.com/why-you-should-prep-your-garnishes-before-you-start-coo-1848315688)
-- [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)
-- [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
-- [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
 
 ---
 
