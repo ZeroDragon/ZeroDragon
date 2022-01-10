@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Healthier Desserts That Don&#39;t Completely Suck](https://lifehacker.com/how-to-make-healthier-desserts-that-dont-completely-suc-1848323591)
+- [Dev.to/JS] [Write Once, Run Everywhere &lpar;Part 3&rpar;](https://dev.to/raddevus/write-once-run-everywhere-part-3-45kn)
+- [Dev.to/JS] [Write Once, Run Everywhere &lpar;Part 2 of N&rpar;](https://dev.to/raddevus/write-once-run-everywhere-part-2-of-n-4dc0)
+- [Dev.to/JS] [Write Once, Run Everywhere &lpar;Part 1 of N&rpar;](https://dev.to/raddevus/write-once-run-everywhere-part-1-of-n-49nl)
+- [Lifehacker] [What to Expect the First Time You Go to the Gym](https://lifehacker.com/what-to-expect-the-first-time-you-go-to-the-gym-1848315805)
+- [Dev.to/JS] [what i learned last week: how to build tic tac toe using html, css and javascript](https://dev.to/reyes2981/what-i-learned-last-week-how-to-build-tic-tac-toe-using-html-css-and-javascript-33gg)
+- [Dev.to/JS] [What are template literals ?](https://dev.to/lachouri/what-are-template-literals--41i6)
 - [Dev.to/JS] [Improve $destroy performance in Vue](https://dev.to/przemyslawjanpietrzak/improve-destroy-performance-in-vue-1o5f)
 - [Dev.to/JS] [How I switched from PHP to Node.js](https://dev.to/bornfightcompany/how-i-switched-from-php-to-nodejs-2bhf)
 - [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073)
@@ -32,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello I am looking for a javascript developer who can support in online hackathon which is going to conduct from 12th Jan.](https://dev.to/gaurangjindal15/hello-i-am-looking-for-a-javascript-developer-who-can-support-in-online-hackathon-which-is-going-to-conduct-from-12th-jan-2i8e)
 - [Dev.to/JS] [How to build a modern slide based website with fullpage.js](https://dev.to/thatanjan/how-to-build-a-modern-slide-based-website-with-fullpagejs-4cmc)
 - [Dev.to/JS] [Testing](https://dev.to/taires/testing-55j)
-- [Dev.to/JS] [What is Google Season of Docs ?](https://dev.to/ganeshpatil386386/what-is-google-season-of-docs--10d1)
-- [Dev.to/JS] [Revisiting Conditionals in JavaScript and TypeScript](https://dev.to/teekay/revisiting-conditionals-in-javascript-and-typescript-p5g)
-- [Dev.to/JS] [Enviando e-mails condicionais a partir do Google Forms](https://dev.to/compiladoras/enviando-e-mails-condicionais-a-partir-do-google-forms-51pk)
-- [Dev.to/JS] [What is &quot;typeof&quot; operator in JavaScript](https://dev.to/codewithsnowbit/what-is-typeof-operator-in-javascript-369d)
-- [Dev.to/JS] [Leetcode diary: 1387. Sort Integers by The Power Value [DP]](https://dev.to/kevin074/leetcode-diary-1387-sort-integers-by-the-power-value-4433)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Prep Your Garnishes Before You Start Cooking](https://lifehacker.com/why-you-should-prep-your-garnishes-before-you-start-coo-1848315688)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)
 - [Lifehacker] [What to Do With All Your Sentimental Crap](https://lifehacker.com/what-to-do-with-all-your-sentimental-crap-1848316582)
-- [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)
-- [Lifehacker] [35 Movies Everyone Will See This Year](https://lifehacker.com/35-movies-everyone-will-see-this-year-1848310278)
-- [Lifehacker] [10 Ways You&#39;re Annoying the Hell Out of Your Neighbors Without Realizing It](https://lifehacker.com/10-ways-youre-annoying-the-hell-out-of-your-neighbors-w-1848314337)<!-- TECH-POSTS:END -->
+- [Lifehacker] [14 Movies That Prove Not All January Releases Are Trash](https://lifehacker.com/14-movies-that-prove-not-all-january-releases-are-trash-1848314791)<!-- TECH-POSTS:END -->
 
 ---
 
