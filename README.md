@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [DEFi Tokens - A cryptocurrency](https://dev.to/defitokendevelopment/defi-tokens-a-cryptocurrency-107h)
+- [Dev.to/JS] [Web Scraping with NodeJS: a comprehensive guide [part-3]](https://dev.to/aviyel/web-scraping-with-nodejs-a-comprehensive-guide-part-3-1b6n)
+- [Dev.to/JS] [Web Scraping with NodeJS: a comprehensive guide [part-2]](https://dev.to/aviyel/web-scraping-with-nodejs-a-comprehensive-guide-part-2-43lk)
+- [Dev.to/JS] [Web Scraping with NodeJS: a comprehensive guide [part-1]](https://dev.to/aviyel/web-scraping-with-nodejs-a-comprehensive-guide-part-1-16g8)
+- [Dev.to/JS] [#11 - Vowel remover   CodeWars Kata &lpar;8 kyu&rpar;](https://dev.to/cesar__dlr/11-vowel-remover-codewars-kata-8-kyu-3edf)
 - [Dev.to/JS] [Difference between == and === in JavaScript. Explained!](https://dev.to/lawanu/what-is-difference-between-and-in-javascript-253b)
 - [Dev.to/JS] [New beginnings](https://dev.to/hariseldon27/new-beginnings-5egh)
 - [Dev.to/JS] [Easy Tic-Tac-Toe Game using HTML, CSS &amp; JavaScript](https://dev.to/frontendeverything/easy-tic-tac-toe-game-using-html-css-javascript-5390)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is VOID Operator - Daily JavaScript Tips #3](https://dev.to/codewithsnowbit/what-is-void-operator-daily-javascript-tips-3-48g3)
 - [Dev.to/JS] [BUGS!!!!🐞](https://dev.to/dinodonal/bugs-3h60)
 - [Dev.to/JS] [MAKING YOUR FIRST WEB APP](https://dev.to/dinodonal/making-your-first-web-app-2g2h)
-- [Dev.to/JS] [Detect Marak Squires packages with NodeSecure](https://dev.to/fraxken/detect-marak-squires-packages-with-nodesecure-3lpo)
-- [Dev.to/JS] [Compound Component Pattern en React](https://dev.to/gabrielomarq/compound-component-pattern-en-react-a63)
-- [Dev.to/JS] [FREE! Translate your language JSON file to any languages.](https://dev.to/parvineyvazov/free-translate-your-language-json-file-to-any-languages-1pb1)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
