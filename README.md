@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gatsby vs. React Static vs. Next.js: What is the best React-based Static Site Generator?](https://dev.to/ionos/gatsby-vs-react-static-vs-nextjs-what-is-the-best-react-based-static-site-generator-4npg)
+- [Dev.to/JS] [Constructorless namespaces in ES5 &amp; ES6](https://dev.to/projektorius96/constructorless-namespaces-in-es5-es6-14pk)
+- [Lifehacker] [The One Thing You Should Never Put in Your Nonstick Pan](https://lifehacker.com/the-one-thing-you-should-never-put-in-your-nonstick-pan-1848332657)
 - [Lifehacker] [You Can Restore Events You Accidentally Deleted From Google Calendar](https://lifehacker.com/you-can-restore-events-you-accidentally-deleted-from-go-1848331447)
 - [Dev.to/JS] [How to Create a Button in JavaScript](https://dev.to/herewecode/how-to-create-a-button-in-javascript-378p)
 - [Lifehacker] [How to Tell If a House Has &#39;Good Bones&#39;](https://lifehacker.com/how-to-tell-if-a-house-has-good-bones-1848322667)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy a Car If You Absolutely Have to in This Inflation-Ridden Hellscape](https://lifehacker.com/how-to-buy-a-car-if-you-absolutely-have-to-in-this-infl-1848331100)
 - [Dev.to/JS] [My Web-development Journey](https://dev.to/coding_warepam/my-web-development-journey-4n66)
 - [Lifehacker] [Throw Out This E. coli-Contaminated Beef, USDA Says](https://lifehacker.com/throw-out-this-e-coli-contaminated-beef-usda-says-1848330845)
-- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#02&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-02-2bpn)
-- [Dev.to/JS] [How I use Context and Hooks to manage State in React JS](https://dev.to/shadmanshakib/how-i-use-context-and-hooks-to-manage-state-in-react-js-jm0)
 - [Lifehacker] [These App Alternatives Are Faster Than Apple Music](https://lifehacker.com/these-app-alternatives-are-faster-than-apple-music-1848330239)
 - [Lifehacker] [How to Clean and Restore Your Exposed Brick Interior](https://lifehacker.com/how-to-clean-and-restore-your-exposed-brick-interior-1848330060)
 - [Lifehacker] [Decorate Like a Golden Girl](https://lifehacker.com/decorate-like-a-golden-girl-1848330256)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to &#39;Come Out&#39; As an Atheist Without Destroying Your Relationships](https://lifehacker.com/how-to-come-out-as-an-atheist-without-destroying-your-r-1848313516)
 - [Lifehacker] [Why Finder Won&#39;t Let You Eject Disk Images &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-finder-wont-let-you-eject-disk-images-and-how-to-f-1848320523)
 - [Lifehacker] [You Can Finally Stream All of the Olympics Without a Cable Subscription](https://lifehacker.com/you-can-finally-stream-all-of-the-olympics-without-a-ca-1848321129)
-- [Lifehacker] [11 Facts That Will Curb Your Fear of Flying, Once and for All](https://lifehacker.com/11-facts-that-will-curb-your-fear-of-flying-once-and-f-1848320513)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
 
 ---
