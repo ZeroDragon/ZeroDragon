@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Things You Didn&#39;t Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
+- [Dev.to/JS] [Animated Education Website with HTML CSS JS](https://dev.to/codewithsadee/animated-education-website-with-html-css-js-3d8h)
+- [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
+- [Dev.to/JS] [Melhorando seus testes com Jest](https://dev.to/joaovictor6/acelerando-seus-testes-em-jest-com-spyon-37ci)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
+- [Dev.to/JS] [How to sunset your OSS Project with Grace](https://dev.to/theaccordance/how-to-sunset-your-oss-project-with-grace-33k6)
 - [Dev.to/JS] [Add Line Numbers to Prismjs Code Blocks in a Next.js Project](https://dev.to/alanwsmith/add-line-numbers-to-prismjs-code-blocks-in-a-nextjs-project-50g1)
 - [Dev.to/JS] [WeakMap and WeakSet: Understanding JavaScript weak references](https://dev.to/logrocket/weakmap-and-weakset-understanding-javascript-weak-references-1lo1)
 - [Lifehacker] [Where Exactly Is Sports Gambling Legal?](https://lifehacker.com/where-exactly-is-sports-gambling-legal-1848333429)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript - Aplicando as tipagens](https://dev.to/jhonywalkeer/typescript-aplicando-as-tipagens-3j82)
 - [Dev.to/JS] [What is Nullish Coalescing Operator](https://dev.to/rahulcs754/what-is-nullish-coalescing-operator-cbj)
 - [Dev.to/JS] [CRUD API with Fastify, Postgres, Docker](https://dev.to/francescoxx/crud-api-with-fastify-postgres-docker-1df3)
-- [Dev.to/JS] [Baloonza IT newsletters weekly digest #19](https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-19-165)
 - [Lifehacker] [How to Speed Up a Slow-Ass iCloud Sync](https://lifehacker.com/how-to-speed-up-a-slow-ass-icloud-sync-1848320456)
-- [Dev.to/JS] [Write Atomic CSS like Facebook with Stylify](https://dev.to/machy8/write-atomic-css-like-facebook-with-stylify-2074)
-- [Dev.to/JS] [What is SSR or Server-side rendering?](https://dev.to/akhlakhossainjim/what-is-ssr-or-server-side-rendering-11k5)
 - [Lifehacker] [How to Buy a Car If You Absolutely Have to in This Inflation-Ridden Hellscape](https://lifehacker.com/how-to-buy-a-car-if-you-absolutely-have-to-in-this-infl-1848331100)
 - [Lifehacker] [Throw Out This E. coli-Contaminated Beef, USDA Says](https://lifehacker.com/throw-out-this-e-coli-contaminated-beef-usda-says-1848330845)
 - [Lifehacker] [These App Alternatives Are Faster Than Apple Music](https://lifehacker.com/these-app-alternatives-are-faster-than-apple-music-1848330239)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Lifehacker] [How to Take Winter Photos That Aren&#39;t White and Blurry &lpar;Unless That&#39;s the Point&rpar;](https://lifehacker.com/how-to-take-winter-photos-that-arent-white-and-blurry-1848322056)
 - [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
-- [Lifehacker] [What Is &#39;Flurona,&#39; and Should We Be Worried About It?](https://lifehacker.com/what-is-flurona-and-should-we-be-worried-about-it-1848320894)
-- [Lifehacker] [Meme Coins, DeFi, and Other Crypto Buzzwords You Need to Know by Now](https://lifehacker.com/meme-coins-defi-and-other-crypto-buzzwords-you-need-t-1848320770)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
 
 ---
