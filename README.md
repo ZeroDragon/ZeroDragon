@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Cook Seafood If You&#39;re Skittish About Cooking Seafood](https://lifehacker.com/the-best-way-to-cook-seafood-if-youre-skittish-about-co-1848334399)
+- [Dev.to/JS] [1. Call Stack](https://dev.to/sungjuneun/1-call-stack-32n8)
+- [Dev.to/JS] [Introducing the SuperTokens Ambassador Program.](https://dev.to/supertokens/introducing-the-supertokens-ambassador-program-4in7)
+- [Dev.to/JS] [&quot;use strict&quot; in JavaScript.Explained!](https://dev.to/lawanu/use-strict-in-javascriptexplained-3kn0)
+- [Dev.to/JS] [Create a custom Axios Fetch Hook in React](https://dev.to/coder4_life/create-a-custom-axios-fetch-hook-in-react-2386)
+- [Dev.to/JS] [LeMOT to play WORDLE in French](https://dev.to/michelc/lemot-to-play-wordle-in-french-5dh)
+- [Dev.to/JS] [🗨️ Build a WhatsApp API using Node &amp; Express](https://dev.to/maxprogramming/build-a-whatsapp-api-using-node-express-chf)
+- [Dev.to/JS] [Nullish coalescing](https://dev.to/geetapogul/nullish-coalescing-1fi3)
+- [Dev.to/JS] [Creating a discord auto threading system](https://dev.to/dailydevtips1/creating-a-discord-auto-threading-system-433)
+- [Dev.to/JS] [Hosting a discord bot on Railway](https://dev.to/dailydevtips1/hosting-a-discord-bot-on-railway-468d)
 - [Dev.to/JS] [Free web hosting 100% Free](https://dev.to/supremewyn/free-web-hosting-100-free-4h59)
 - [Dev.to/JS] [Join Data Across APIs](https://dev.to/wundergraph/join-data-across-apis-35fc)
 - [Dev.to/JS] [Can GitHub Copilot center a div?](https://dev.to/virejdasani/can-github-copilot-center-a-div-26lj)
-- [Dev.to/JS] [Zustand React Typescript Tutorial &lpar;vs Easy Peasy&rpar;](https://dev.to/vladwulf/zustand-react-typescript-tutorial-vs-easy-peasy-3f5i)
-- [Dev.to/JS] [12 Popular Mentorship Platforms For Software Developers, Product Managers, Designers](https://dev.to/vectorly/12-popular-mentorship-platforms-for-software-developers-product-managers-designers-1f0l)
-- [Dev.to/JS] [Drinkizz E-Commerce Application](https://dev.to/isscswapnil/drinkizz-e-commerce-application-220o)
-- [Dev.to/JS] [Remove duplicate values from an array - Daily JavaScript Tips #4](https://dev.to/codewithsnowbit/remove-duplicate-values-from-an-array-daily-javascript-tips-4-48gg)
-- [Dev.to/JS] [Adding external javascript script to React](https://dev.to/mulligan81/adding-external-javascript-script-to-react-3a25)
-- [Dev.to/JS] [A look at the Redux connect&lpar;&rpar; function](https://dev.to/itzzmeakhi/a-look-at-the-redux-connect-function-b7i)
-- [Dev.to/JS] [Instant Keto Burn - Fat Loss Reviews, Results, Price And Benefits](https://dev.to/instantketobur1/instant-keto-burn-fat-loss-reviews-results-price-and-benefits-517c)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 4](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-4-58f6)
-- [Dev.to/JS] [What is an Agile Digital Transformation?](https://dev.to/brisklogic/what-is-an-agile-digital-transformation-ek7)
 - [Lifehacker] [All the Things You Didn&#39;t Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 - [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Lifehacker] [How to Take Winter Photos That Aren&#39;t White and Blurry &lpar;Unless That&#39;s the Point&rpar;](https://lifehacker.com/how-to-take-winter-photos-that-arent-white-and-blurry-1848322056)
-- [Lifehacker] [What to Do If You Get Trapped in Your Car During a Snowstorm](https://lifehacker.com/what-to-do-if-you-get-trapped-in-your-car-during-a-snow-1848322696)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
 
 ---
