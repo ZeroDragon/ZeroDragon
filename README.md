@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 días de código: 52, días de construcción](https://dev.to/darito/100-dias-de-codigo-52-dias-de-construccion-i00)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Dev.to/JS] [onPress on react native view component](https://dev.to/ravics09/onpress-on-react-native-view-component-3dfo)
 - [Dev.to/JS] [React vs Vue: Popular Front end frameworks in 2022](https://dev.to/heritio/react-vs-vue-popular-front-end-frameworks-in-2021-503p)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Text Editor with main functions &lpar;using Node.js&rpar;](https://dev.to/lucifer25x/simple-text-editor-with-main-functions-using-nodejs-14h6)
 - [Dev.to/JS] [Paracetamol.js💊| #4: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-4-explica-este-codigo-4h4a)
 - [Lifehacker] [Do Sprinkles, Food Coloring, and Icing Ever Really Expire?](https://lifehacker.com/do-sprinkles-food-coloring-and-icing-ever-really-expi-1848338800)
-- [Dev.to/JS] [A Minimalistic Approach to Feature Flagging Your Web App](https://dev.to/michaelmangial1/a-minimalistic-approach-to-feature-flagging-your-web-app-en0)
 - [Lifehacker] [The Best Meal-Planning Apps, Because You’re Sick of Doing It Yourself](https://lifehacker.com/the-best-meal-planning-apps-because-you-re-sick-of-doi-1848337864)
 - [Lifehacker] [How to Choose a Higher-Quality Mask &lpar;Because Cloth Masks Aren’t Cutting It&rpar;](https://lifehacker.com/how-to-buy-a-high-quality-mask-1846153740)
 - [Lifehacker] [Why You Need Instant Gratification, According to Science](https://lifehacker.com/why-you-need-instant-gratification-according-to-scienc-1848331132)
