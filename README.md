@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Roles That Revealed Bob Saget&#39;s Filthy Sense of Humor](https://lifehacker.com/9-roles-that-revealed-bob-sagets-filthy-sense-of-humor-1848337727)
+- [Dev.to/JS] [Extension chrome for check responsive your website](https://dev.to/arsalannury/extension-chrome-for-check-responsive-your-website-8c6)
+- [Lifehacker] [How to Stop Being so Damn Self-Deprecating](https://lifehacker.com/how-to-stop-being-so-damn-self-deprecating-1848316538)
+- [Dev.to/JS] [React State Pattern | Day 8](https://dev.to/developerioweb/react-state-pattern-day-8-5e03)
+- [Dev.to/JS] [Hello Twitter!](https://dev.to/michalgornicki/hello-twitter-20lg)
 - [Lifehacker] [The Easiest Way to Retile Your Shower Floor](https://lifehacker.com/the-easiest-way-to-retile-your-shower-floor-1848338026)
 - [Dev.to/JS] [Decentralized Trading Bot and Datafeed Project](https://dev.to/r3alst/decentralized-trading-bot-and-datafeed-project-4ad)
 - [Dev.to/JS] [Simple Text Editor with main functions &lpar;using Node.js&rpar;](https://dev.to/lucifer25x/simple-text-editor-with-main-functions-using-nodejs-14h6)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enabling Digital Transformation by Driving the Adoption of Real-time Applications in Banking and Financial Markets!](https://dev.to/push_technology/enabling-digital-transformation-by-driving-the-adoption-of-real-time-applications-in-banking-and-financial-markets-22lj)
 - [Dev.to/JS] [Package.json dependencies to Markup Table Online Converter](https://dev.to/tomaszs2/packagejson-dependencies-to-markup-table-online-converter-1pc7)
 - [Lifehacker] [How to Choose a Higher-Quality Mask &lpar;Because Cloth Masks Aren’t Cutting It&rpar;](https://lifehacker.com/how-to-buy-a-high-quality-mask-1846153740)
-- [Dev.to/JS] [My experience with PyPi and NPM publishing process](https://dev.to/karishmashukla/my-experience-with-pypi-and-npm-publishing-process-1l71)
 - [Lifehacker] [Why You Need Instant Gratification, According to Science](https://lifehacker.com/why-you-need-instant-gratification-according-to-scienc-1848331132)
-- [Dev.to/JS] [1 line of code: How to convert spaces to tabs](https://dev.to/martinkr/1-line-of-code-how-to-convert-spaces-to-tabs-aml)
-- [Dev.to/JS] [Simple Stopwatch using JavaScript &amp; CSS](https://dev.to/backlin3gff/simple-stopwatch-using-javascript-css-5cf9)
 - [Lifehacker] [How to Unlock the Hidden High Power Mode on Your 16” M1 Max MacBook Pro](https://lifehacker.com/how-to-unlock-the-hidden-high-power-mode-on-your-16-m1-1848312549)
 - [Lifehacker] [How to Make a Burner Account on Reddit, Even Though They Don&#39;t Want You to Anymore](https://lifehacker.com/how-to-make-a-burner-account-on-reddit-even-though-the-1848336857)
 - [Lifehacker] [How to Avoid a Hotel&#39;s BS Resort Fees](https://lifehacker.com/how-to-avoid-a-hotels-bullshit-resort-fees-1848335421)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If a House Has &#39;Good Bones&#39;](https://lifehacker.com/how-to-tell-if-a-house-has-good-bones-1848322667)
 - [Lifehacker] [How to Speed Up a Slow-Ass iCloud Sync](https://lifehacker.com/how-to-speed-up-a-slow-ass-icloud-sync-1848320456)
 - [Lifehacker] [How to Buy a Car If You Absolutely Have to in This Inflation-Ridden Hellscape](https://lifehacker.com/how-to-buy-a-car-if-you-absolutely-have-to-in-this-infl-1848331100)
-- [Lifehacker] [Throw Out This E. coli-Contaminated Beef, USDA Says](https://lifehacker.com/throw-out-this-e-coli-contaminated-beef-usda-says-1848330845)
-- [Lifehacker] [These App Alternatives Are Faster Than Apple Music](https://lifehacker.com/these-app-alternatives-are-faster-than-apple-music-1848330239)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
