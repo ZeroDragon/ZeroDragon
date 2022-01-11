@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cheat sheets](https://dev.to/codewithpom/cheat-sheets-2imc)
+- [Dev.to/JS] [Hire Salesforce Developer Starting from $2100/ Monthly](https://dev.to/salesforce12/hire-salesforce-developer-starting-from-2100-monthly-5epk)
 - [Dev.to/JS] [Salesforce Offshore Support Services Providers](https://dev.to/salesforce12/salesforce-offshore-support-services-providers-1mj5)
 - [Dev.to/JS] [How to perform crud operations in react?](https://dev.to/dbrahmane4/how-to-perform-crud-operations-in-react-59dm)
 - [Dev.to/JS] [Form Validation Using JavaScript&#39;s Constraint Validation API](https://dev.to/asayerio_techblog/form-validation-using-javascripts-constraint-validation-api-35cc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Develop a social network with ReactJS, Spring Boot and MongoDB](https://dev.to/linhtch90/develop-a-social-network-with-reactjs-spring-boot-and-mongodb-24l8)
 - [Dev.to/JS] [#12 - Fibonacci digit sequence                CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/12-fibonacci-digit-sequence-codewars-kata-6-kyu-8d6)
 - [Dev.to/JS] [How to fix security vulnerabillities in a newly created react app.](https://dev.to/heritio/how-i-fixed-security-vulnerabillities-in-a-newly-created-react-app-31ge)
-- [Dev.to/JS] [What on earth is the DOM?](https://dev.to/hmcodes/what-on-earth-is-the-dom-5cf9)
-- [Dev.to/JS] [Transitioning from React Router v5 to v6](https://dev.to/stephcrown/transitioning-from-react-router-v5-to-v6-4e6)
 - [Lifehacker] [All the Things You Didn&#39;t Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 - [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
