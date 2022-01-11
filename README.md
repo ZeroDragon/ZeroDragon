@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My experience with PyPi and NPM publishing process](https://dev.to/karishmashukla/my-experience-with-pypi-and-npm-publishing-process-1l71)
+- [Lifehacker] [Why You Need Instant Gratification, According to Science](https://lifehacker.com/why-you-need-instant-gratification-according-to-scienc-1848331132)
+- [Dev.to/JS] [1 line of code: How to convert spaces to tabs](https://dev.to/martinkr/1-line-of-code-how-to-convert-spaces-to-tabs-aml)
+- [Dev.to/JS] [Simple Stopwatch using JavaScript &amp; CSS](https://dev.to/backlin3gff/simple-stopwatch-using-javascript-css-5cf9)
+- [Lifehacker] [How to Unlock the Hidden High Power Mode on Your 16” M1 Max MacBook Pro](https://lifehacker.com/how-to-unlock-the-hidden-high-power-mode-on-your-16-m1-1848312549)
+- [Dev.to/JS] [16 Commands to Set up React apps for Every use in Seconds ⚡🚀](https://dev.to/madza/16-commands-to-set-up-react-apps-for-every-use-in-seconds-3b34)
+- [Dev.to/JS] [I made a short game using Microsoft MakeCode Arcade](https://dev.to/subhransuindia/i-made-a-short-game-using-microsoft-makecode-arcade-1l1d)
 - [Lifehacker] [How to Make a Burner Account on Reddit, Even Though They Don&#39;t Want You to Anymore](https://lifehacker.com/how-to-make-a-burner-account-on-reddit-even-though-the-1848336857)
 - [Dev.to/JS] [Custom Reack Hooks: useAudio](https://dev.to/iamludal/custom-reack-hooks-useaudio-565j)
 - [Dev.to/JS] [Using Tailwind CSS v3 with Ember JS](https://dev.to/asasmith/using-tailwind-css-v3-with-ember-js-37j9)
@@ -33,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Create AdBlock Detector using HTML &amp; JavaScript](https://dev.to/prathmeshyelne/how-to-create-adblock-detector-using-html-javascript-35gk)
 - [Lifehacker] [You Can Actually Get Free Unlimited Cloud Storage From Telegram](https://lifehacker.com/you-can-actually-get-free-unlimited-cloud-storage-from-1848337055)
 - [Dev.to/JS] [useCallback, useMemo, useRef, and useReducer hook](https://dev.to/zihad550/usecallback-usememo-useref-and-usereducer-hook-dl)
-- [Dev.to/JS] [Create Custom Schema Field Types](https://dev.to/apostrophecms/create-custom-schema-field-types-3oe4)
-- [Dev.to/JS] [Implement a react component that automatically calculates width and height based on ResizeObserver](https://dev.to/niexq/implement-a-react-component-that-automatically-calculates-width-and-height-based-on-resizeobserver-3fko)
-- [Dev.to/JS] [Medme Responsive Landing Page using HTML CSS &amp; JS 🔥](https://dev.to/ananiket/medme-responsive-landing-page-using-html-css-js-144h)
 - [Lifehacker] [Why &#39;Under-Sharing&#39; Is Just As Bad As Oversharing &lpar;and How to Stop Doing It&rpar;](https://lifehacker.com/why-under-sharing-is-just-as-bad-as-oversharing-and-ho-1848317273)
-- [Dev.to/JS] [Airbnb Search App with Testing Data from MongoDB](https://dev.to/ohdylan/airbnb-search-app-with-testing-data-from-mongodb-nh4)
-- [Dev.to/JS] [Introduction to middleware in Express](https://dev.to/naftalimurgor/middleware-in-express-1kn5)
 - [Lifehacker] [How Often Do Snakes, Rats, and Spiders Really Crawl Up Your Toilet Pipes? &lpar;And How to Stop Them&rpar;](https://lifehacker.com/how-often-do-snakes-rats-and-spiders-really-crawl-up-1848335336)
 - [Lifehacker] [The Difference Between Bitrate, Resolution, and Frame Rate &lpar;and Why It Matters When Streaming Video&rpar;](https://lifehacker.com/the-difference-between-bitrate-resolution-and-frame-r-1848333060)
 - [Lifehacker] [The Best Way to Cook Seafood If You&#39;re Skittish About Cooking Seafood](https://lifehacker.com/the-best-way-to-cook-seafood-if-youre-skittish-about-co-1848334399)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Decorate Like a Golden Girl](https://lifehacker.com/decorate-like-a-golden-girl-1848330256)
 - [Lifehacker] [How to Make Healthier Desserts That Don&#39;t Completely Suck](https://lifehacker.com/how-to-make-healthier-desserts-that-dont-completely-suc-1848323591)
 - [Lifehacker] [What to Expect the First Time You Go to the Gym](https://lifehacker.com/what-to-expect-the-first-time-you-go-to-the-gym-1848315805)
-- [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073)
-- [Lifehacker] [Why You Should Think of Relaxing As a Skill, Not a Reward](https://lifehacker.com/why-you-should-think-of-relaxing-as-a-skill-not-a-rewa-1848320119)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
