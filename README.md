@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
+- [Dev.to/JS] [CommonJS vs. ES modules in Node.js](https://dev.to/logrocket/commonjs-vs-es-modules-in-nodejs-2eo1)
+- [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
+- [Dev.to/JS] [Ashraf Uddin musical artist From Bangladesh](https://dev.to/ashrafuddinbd/ashraf-uddin-musical-artist-from-bangladesh-2b75)
 - [Lifehacker] [9 Roles That Revealed Bob Saget&#39;s Filthy Sense of Humor](https://lifehacker.com/9-roles-that-revealed-bob-sagets-filthy-sense-of-humor-1848337727)
 - [Dev.to/JS] [Extension chrome for check responsive your website](https://dev.to/arsalannury/extension-chrome-for-check-responsive-your-website-8c6)
 - [Lifehacker] [How to Stop Being so Damn Self-Deprecating](https://lifehacker.com/how-to-stop-being-so-damn-self-deprecating-1848316538)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make a chat app](https://dev.to/ahmadbintahir5/how-to-make-a-chat-app-1856)
 - [Dev.to/JS] [A Memory Trick To Remember When to Use for...of vs for...in](https://dev.to/maximization/a-memory-trick-to-remember-when-to-use-forof-vs-forin-2akp)
 - [Lifehacker] [The Best Meal-Planning Apps, Because You’re Sick of Doing It Yourself](https://lifehacker.com/the-best-meal-planning-apps-because-you-re-sick-of-doi-1848337864)
-- [Dev.to/JS] [Enabling Digital Transformation by Driving the Adoption of Real-time Applications in Banking and Financial Markets!](https://dev.to/push_technology/enabling-digital-transformation-by-driving-the-adoption-of-real-time-applications-in-banking-and-financial-markets-22lj)
-- [Dev.to/JS] [Package.json dependencies to Markup Table Online Converter](https://dev.to/tomaszs2/packagejson-dependencies-to-markup-table-online-converter-1pc7)
 - [Lifehacker] [How to Choose a Higher-Quality Mask &lpar;Because Cloth Masks Aren’t Cutting It&rpar;](https://lifehacker.com/how-to-buy-a-high-quality-mask-1846153740)
 - [Lifehacker] [Why You Need Instant Gratification, According to Science](https://lifehacker.com/why-you-need-instant-gratification-according-to-scienc-1848331132)
 - [Lifehacker] [How to Unlock the Hidden High Power Mode on Your 16” M1 Max MacBook Pro](https://lifehacker.com/how-to-unlock-the-hidden-high-power-mode-on-your-16-m1-1848312549)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The One Thing You Should Never Put in Your Nonstick Pan](https://lifehacker.com/the-one-thing-you-should-never-put-in-your-nonstick-pan-1848332657)
 - [Lifehacker] [You Can Restore Events You Accidentally Deleted From Google Calendar](https://lifehacker.com/you-can-restore-events-you-accidentally-deleted-from-go-1848331447)
 - [Lifehacker] [How to Tell If a House Has &#39;Good Bones&#39;](https://lifehacker.com/how-to-tell-if-a-house-has-good-bones-1848322667)
-- [Lifehacker] [How to Speed Up a Slow-Ass iCloud Sync](https://lifehacker.com/how-to-speed-up-a-slow-ass-icloud-sync-1848320456)
-- [Lifehacker] [How to Buy a Car If You Absolutely Have to in This Inflation-Ridden Hellscape](https://lifehacker.com/how-to-buy-a-car-if-you-absolutely-have-to-in-this-infl-1848331100)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
