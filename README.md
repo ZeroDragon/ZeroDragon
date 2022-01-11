@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What on earth is the DOM?](https://dev.to/hmcodes/what-on-earth-is-the-dom-5cf9)
+- [Dev.to/JS] [Transitioning from React Router v5 to v6](https://dev.to/stephcrown/transitioning-from-react-router-v5-to-v6-4e6)
 - [Dev.to/JS] [Paracetamol.js💊| #2: ¿Qué imprime este código?](https://dev.to/duxtech/paracetamoljs-2-que-imprime-este-codigo-4c6o)
 - [Dev.to/JS] [A short list of some helpful VS Code keyboard short cuts.](https://dev.to/bbperry/a-short-list-of-some-helpful-vs-code-keyboard-short-cuts-1ij5)
 - [Dev.to/JS] [Reusable Components - The value of spreading props](https://dev.to/mphelps1978/reusable-components-the-value-of-spreading-props-4kkf)
@@ -38,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cannot assign to read only property &#39;displayName&#39; of object &#39;#&lt;Object&gt;&#39;](https://dev.to/mdibuhossain/cannot-assign-to-read-only-property-displayname-of-object--2gkl)
 - [Lifehacker] [12 Quintessential Sidney Poitier Performances Everyone Should Know](https://lifehacker.com/12-quintessential-sidney-poitier-performances-everyone-1848331069)
 - [Dev.to/JS] [Gatsby vs. React Static vs. Next.js: What is the best React-based Static Site Generator?](https://dev.to/ionos/gatsby-vs-react-static-vs-nextjs-what-is-the-best-react-based-static-site-generator-4npg)
-- [Dev.to/JS] [Constructorless namespaces in ES5 &amp; ES6](https://dev.to/projektorius96/constructorless-namespaces-in-es5-es6-14pk)
 - [Lifehacker] [The One Thing You Should Never Put in Your Nonstick Pan](https://lifehacker.com/the-one-thing-you-should-never-put-in-your-nonstick-pan-1848332657)
 - [Lifehacker] [You Can Restore Events You Accidentally Deleted From Google Calendar](https://lifehacker.com/you-can-restore-events-you-accidentally-deleted-from-go-1848331447)
-- [Dev.to/JS] [How to Create a Button in JavaScript](https://dev.to/herewecode/how-to-create-a-button-in-javascript-378p)
 - [Lifehacker] [How to Tell If a House Has &#39;Good Bones&#39;](https://lifehacker.com/how-to-tell-if-a-house-has-good-bones-1848322667)
 - [Lifehacker] [How to Speed Up a Slow-Ass iCloud Sync](https://lifehacker.com/how-to-speed-up-a-slow-ass-icloud-sync-1848320456)
 - [Lifehacker] [How to Buy a Car If You Absolutely Have to in This Inflation-Ridden Hellscape](https://lifehacker.com/how-to-buy-a-car-if-you-absolutely-have-to-in-this-infl-1848331100)
