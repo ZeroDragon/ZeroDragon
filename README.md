@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
+- [Dev.to/JS] [onPress on react native view component](https://dev.to/ravics09/onpress-on-react-native-view-component-3dfo)
+- [Dev.to/JS] [React vs Vue: Popular Front end frameworks in 2022](https://dev.to/heritio/react-vs-vue-popular-front-end-frameworks-in-2021-503p)
+- [Dev.to/JS] [PlaneIt - One link to everywhere!](https://dev.to/imadithya/planeit-one-link-to-everywhere-4dj8)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
 - [Dev.to/JS] [CommonJS vs. ES modules in Node.js](https://dev.to/logrocket/commonjs-vs-es-modules-in-nodejs-2eo1)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #4: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-4-explica-este-codigo-4h4a)
 - [Lifehacker] [Do Sprinkles, Food Coloring, and Icing Ever Really Expire?](https://lifehacker.com/do-sprinkles-food-coloring-and-icing-ever-really-expi-1848338800)
 - [Dev.to/JS] [A Minimalistic Approach to Feature Flagging Your Web App](https://dev.to/michaelmangial1/a-minimalistic-approach-to-feature-flagging-your-web-app-en0)
-- [Dev.to/JS] [How to make ecommerce website using php, mysql or Wordpress.](https://dev.to/ahmadbintahir5/how-to-make-ecommerce-website-using-php-mysql-or-wordpress-3kpi)
-- [Dev.to/JS] [How to make a chat app](https://dev.to/ahmadbintahir5/how-to-make-a-chat-app-1856)
-- [Dev.to/JS] [A Memory Trick To Remember When to Use for...of vs for...in](https://dev.to/maximization/a-memory-trick-to-remember-when-to-use-forof-vs-forin-2akp)
 - [Lifehacker] [The Best Meal-Planning Apps, Because You’re Sick of Doing It Yourself](https://lifehacker.com/the-best-meal-planning-apps-because-you-re-sick-of-doi-1848337864)
 - [Lifehacker] [How to Choose a Higher-Quality Mask &lpar;Because Cloth Masks Aren’t Cutting It&rpar;](https://lifehacker.com/how-to-buy-a-high-quality-mask-1846153740)
 - [Lifehacker] [Why You Need Instant Gratification, According to Science](https://lifehacker.com/why-you-need-instant-gratification-according-to-scienc-1848331132)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Quintessential Sidney Poitier Performances Everyone Should Know](https://lifehacker.com/12-quintessential-sidney-poitier-performances-everyone-1848331069)
 - [Lifehacker] [The One Thing You Should Never Put in Your Nonstick Pan](https://lifehacker.com/the-one-thing-you-should-never-put-in-your-nonstick-pan-1848332657)
 - [Lifehacker] [You Can Restore Events You Accidentally Deleted From Google Calendar](https://lifehacker.com/you-can-restore-events-you-accidentally-deleted-from-go-1848331447)
-- [Lifehacker] [How to Tell If a House Has &#39;Good Bones&#39;](https://lifehacker.com/how-to-tell-if-a-house-has-good-bones-1848322667)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
