@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make a Burner Account on Reddit, Even Though They Don&#39;t Want You to Anymore](https://lifehacker.com/how-to-make-a-burner-account-on-reddit-even-though-the-1848336857)
+- [Dev.to/JS] [Custom Reack Hooks: useAudio](https://dev.to/iamludal/custom-reack-hooks-useaudio-565j)
+- [Dev.to/JS] [Using Tailwind CSS v3 with Ember JS](https://dev.to/asasmith/using-tailwind-css-v3-with-ember-js-37j9)
+- [Dev.to/JS] [Paracetamol.js💊| #3: ¿Qué imprime este código?](https://dev.to/duxtech/paracetamoljs-2-que-imprime-este-codigo-3cfc)
+- [Lifehacker] [How to Avoid a Hotel&#39;s BS Resort Fees](https://lifehacker.com/how-to-avoid-a-hotels-bullshit-resort-fees-1848335421)
+- [Dev.to/JS] [Creating an Asteroid Map with a NASA API](https://dev.to/flippedcoding/creating-an-asteroid-map-with-a-nasa-api-4afc)
+- [Dev.to/JS] [Popup Subscription Form using CSS &amp; JavaScript](https://dev.to/elinabey/popup-subscription-form-using-css-javascript-364f)
 - [Dev.to/JS] [How To Create AdBlock Detector using HTML &amp; JavaScript](https://dev.to/prathmeshyelne/how-to-create-adblock-detector-using-html-javascript-35gk)
 - [Lifehacker] [You Can Actually Get Free Unlimited Cloud Storage From Telegram](https://lifehacker.com/you-can-actually-get-free-unlimited-cloud-storage-from-1848337055)
 - [Dev.to/JS] [useCallback, useMemo, useRef, and useReducer hook](https://dev.to/zihad550/usecallback-usememo-useref-and-usereducer-hook-dl)
@@ -32,14 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why &#39;Under-Sharing&#39; Is Just As Bad As Oversharing &lpar;and How to Stop Doing It&rpar;](https://lifehacker.com/why-under-sharing-is-just-as-bad-as-oversharing-and-ho-1848317273)
 - [Dev.to/JS] [Airbnb Search App with Testing Data from MongoDB](https://dev.to/ohdylan/airbnb-search-app-with-testing-data-from-mongodb-nh4)
 - [Dev.to/JS] [Introduction to middleware in Express](https://dev.to/naftalimurgor/middleware-in-express-1kn5)
-- [Dev.to/JS] [Hello there!](https://dev.to/michalgornicki/hello-there-5f60)
 - [Lifehacker] [How Often Do Snakes, Rats, and Spiders Really Crawl Up Your Toilet Pipes? &lpar;And How to Stop Them&rpar;](https://lifehacker.com/how-often-do-snakes-rats-and-spiders-really-crawl-up-1848335336)
-- [Dev.to/JS] [How Much is Software Developer Salary in Turkey by 2022? 6,000 TL VS 30,000 TL](https://dev.to/onderh55/how-much-is-software-developer-salary-in-turkey-by-2022-6000-tl-vs-30000-tl-28lc)
-- [Dev.to/JS] [Metamask authentication in NextJS with Third Web](https://dev.to/byteslash/metamask-authentication-in-nextjs-with-third-web-55ff)
 - [Lifehacker] [The Difference Between Bitrate, Resolution, and Frame Rate &lpar;and Why It Matters When Streaming Video&rpar;](https://lifehacker.com/the-difference-between-bitrate-resolution-and-frame-r-1848333060)
 - [Lifehacker] [The Best Way to Cook Seafood If You&#39;re Skittish About Cooking Seafood](https://lifehacker.com/the-best-way-to-cook-seafood-if-youre-skittish-about-co-1848334399)
-- [Dev.to/JS] [1. Call Stack](https://dev.to/sungjuneun/1-call-stack-32n8)
-- [Dev.to/JS] [Introducing the SuperTokens Ambassador Program.](https://dev.to/supertokens/introducing-the-supertokens-ambassador-program-4in7)
 - [Lifehacker] [All the Things You Didn&#39;t Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 - [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Expect the First Time You Go to the Gym](https://lifehacker.com/what-to-expect-the-first-time-you-go-to-the-gym-1848315805)
 - [Lifehacker] [The Airline Passenger Rights Everyone Should Know](https://lifehacker.com/the-airline-passenger-rights-everyone-should-know-1848321073)
 - [Lifehacker] [Why You Should Think of Relaxing As a Skill, Not a Reward](https://lifehacker.com/why-you-should-think-of-relaxing-as-a-skill-not-a-rewa-1848320119)
-- [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
-- [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
