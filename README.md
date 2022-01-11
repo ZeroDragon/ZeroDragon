@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make a chat app](https://dev.to/ahmadbintahir5/how-to-make-a-chat-app-1856)
+- [Dev.to/JS] [A Memory Trick To Remember When to Use for...of vs for...in](https://dev.to/maximization/a-memory-trick-to-remember-when-to-use-forof-vs-forin-2akp)
+- [Lifehacker] [The Best Meal-Planning Apps, Because You’re Sick of Doing It Yourself](https://lifehacker.com/the-best-meal-planning-apps-because-you-re-sick-of-doi-1848337864)
+- [Dev.to/JS] [Enabling Digital Transformation by Driving the Adoption of Real-time Applications in Banking and Financial Markets!](https://dev.to/push_technology/enabling-digital-transformation-by-driving-the-adoption-of-real-time-applications-in-banking-and-financial-markets-22lj)
+- [Dev.to/JS] [Package.json dependencies to Markup Table Online Converter](https://dev.to/tomaszs2/packagejson-dependencies-to-markup-table-online-converter-1pc7)
+- [Lifehacker] [How to Choose a Higher-Quality Mask &lpar;Because Cloth Masks Aren’t Cutting It&rpar;](https://lifehacker.com/how-to-buy-a-high-quality-mask-1846153740)
 - [Dev.to/JS] [My experience with PyPi and NPM publishing process](https://dev.to/karishmashukla/my-experience-with-pypi-and-npm-publishing-process-1l71)
 - [Lifehacker] [Why You Need Instant Gratification, According to Science](https://lifehacker.com/why-you-need-instant-gratification-according-to-scienc-1848331132)
 - [Dev.to/JS] [1 line of code: How to convert spaces to tabs](https://dev.to/martinkr/1-line-of-code-how-to-convert-spaces-to-tabs-aml)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Tailwind CSS v3 with Ember JS](https://dev.to/asasmith/using-tailwind-css-v3-with-ember-js-37j9)
 - [Dev.to/JS] [Paracetamol.js💊| #3: ¿Qué imprime este código?](https://dev.to/duxtech/paracetamoljs-2-que-imprime-este-codigo-3cfc)
 - [Lifehacker] [How to Avoid a Hotel&#39;s BS Resort Fees](https://lifehacker.com/how-to-avoid-a-hotels-bullshit-resort-fees-1848335421)
-- [Dev.to/JS] [Creating an Asteroid Map with a NASA API](https://dev.to/flippedcoding/creating-an-asteroid-map-with-a-nasa-api-4afc)
-- [Dev.to/JS] [Popup Subscription Form using CSS &amp; JavaScript](https://dev.to/elinabey/popup-subscription-form-using-css-javascript-364f)
-- [Dev.to/JS] [How To Create AdBlock Detector using HTML &amp; JavaScript](https://dev.to/prathmeshyelne/how-to-create-adblock-detector-using-html-javascript-35gk)
 - [Lifehacker] [You Can Actually Get Free Unlimited Cloud Storage From Telegram](https://lifehacker.com/you-can-actually-get-free-unlimited-cloud-storage-from-1848337055)
-- [Dev.to/JS] [useCallback, useMemo, useRef, and useReducer hook](https://dev.to/zihad550/usecallback-usememo-useref-and-usereducer-hook-dl)
 - [Lifehacker] [Why &#39;Under-Sharing&#39; Is Just As Bad As Oversharing &lpar;and How to Stop Doing It&rpar;](https://lifehacker.com/why-under-sharing-is-just-as-bad-as-oversharing-and-ho-1848317273)
 - [Lifehacker] [How Often Do Snakes, Rats, and Spiders Really Crawl Up Your Toilet Pipes? &lpar;And How to Stop Them&rpar;](https://lifehacker.com/how-often-do-snakes-rats-and-spiders-really-crawl-up-1848335336)
 - [Lifehacker] [The Difference Between Bitrate, Resolution, and Frame Rate &lpar;and Why It Matters When Streaming Video&rpar;](https://lifehacker.com/the-difference-between-bitrate-resolution-and-frame-r-1848333060)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These App Alternatives Are Faster Than Apple Music](https://lifehacker.com/these-app-alternatives-are-faster-than-apple-music-1848330239)
 - [Lifehacker] [How to Clean and Restore Your Exposed Brick Interior](https://lifehacker.com/how-to-clean-and-restore-your-exposed-brick-interior-1848330060)
 - [Lifehacker] [Decorate Like a Golden Girl](https://lifehacker.com/decorate-like-a-golden-girl-1848330256)
-- [Lifehacker] [How to Make Healthier Desserts That Don&#39;t Completely Suck](https://lifehacker.com/how-to-make-healthier-desserts-that-dont-completely-suc-1848323591)
-- [Lifehacker] [What to Expect the First Time You Go to the Gym](https://lifehacker.com/what-to-expect-the-first-time-you-go-to-the-gym-1848315805)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
