@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create AdBlock Detector using HTML &amp; JavaScript](https://dev.to/prathmeshyelne/how-to-create-adblock-detector-using-html-javascript-35gk)
+- [Lifehacker] [You Can Actually Get Free Unlimited Cloud Storage From Telegram](https://lifehacker.com/you-can-actually-get-free-unlimited-cloud-storage-from-1848337055)
+- [Dev.to/JS] [useCallback, useMemo, useRef, and useReducer hook](https://dev.to/zihad550/usecallback-usememo-useref-and-usereducer-hook-dl)
+- [Dev.to/JS] [Create Custom Schema Field Types](https://dev.to/apostrophecms/create-custom-schema-field-types-3oe4)
+- [Dev.to/JS] [Implement a react component that automatically calculates width and height based on ResizeObserver](https://dev.to/niexq/implement-a-react-component-that-automatically-calculates-width-and-height-based-on-resizeobserver-3fko)
+- [Dev.to/JS] [Medme Responsive Landing Page using HTML CSS &amp; JS 🔥](https://dev.to/ananiket/medme-responsive-landing-page-using-html-css-js-144h)
+- [Lifehacker] [Why &#39;Under-Sharing&#39; Is Just As Bad As Oversharing &lpar;and How to Stop Doing It&rpar;](https://lifehacker.com/why-under-sharing-is-just-as-bad-as-oversharing-and-ho-1848317273)
+- [Dev.to/JS] [Airbnb Search App with Testing Data from MongoDB](https://dev.to/ohdylan/airbnb-search-app-with-testing-data-from-mongodb-nh4)
+- [Dev.to/JS] [Introduction to middleware in Express](https://dev.to/naftalimurgor/middleware-in-express-1kn5)
+- [Dev.to/JS] [Hello there!](https://dev.to/michalgornicki/hello-there-5f60)
 - [Lifehacker] [How Often Do Snakes, Rats, and Spiders Really Crawl Up Your Toilet Pipes? &lpar;And How to Stop Them&rpar;](https://lifehacker.com/how-often-do-snakes-rats-and-spiders-really-crawl-up-1848335336)
 - [Dev.to/JS] [How Much is Software Developer Salary in Turkey by 2022? 6,000 TL VS 30,000 TL](https://dev.to/onderh55/how-much-is-software-developer-salary-in-turkey-by-2022-6000-tl-vs-30000-tl-28lc)
 - [Dev.to/JS] [Metamask authentication in NextJS with Third Web](https://dev.to/byteslash/metamask-authentication-in-nextjs-with-third-web-55ff)
@@ -30,14 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Cook Seafood If You&#39;re Skittish About Cooking Seafood](https://lifehacker.com/the-best-way-to-cook-seafood-if-youre-skittish-about-co-1848334399)
 - [Dev.to/JS] [1. Call Stack](https://dev.to/sungjuneun/1-call-stack-32n8)
 - [Dev.to/JS] [Introducing the SuperTokens Ambassador Program.](https://dev.to/supertokens/introducing-the-supertokens-ambassador-program-4in7)
-- [Dev.to/JS] [&quot;use strict&quot; in JavaScript and its Benefits](https://dev.to/lawanu/use-strict-in-javascriptexplained-3kn0)
-- [Dev.to/JS] [Create a custom Axios Fetch Hook in React](https://dev.to/coder4_life/create-a-custom-axios-fetch-hook-in-react-2386)
-- [Dev.to/JS] [LeMOT to play WORDLE in French](https://dev.to/michelc/lemot-to-play-wordle-in-french-5dh)
-- [Dev.to/JS] [🗨️ Build a WhatsApp API using Node &amp; Express](https://dev.to/maxprogramming/build-a-whatsapp-api-using-node-express-chf)
-- [Dev.to/JS] [Nullish coalescing](https://dev.to/geetapogul/nullish-coalescing-1fi3)
-- [Dev.to/JS] [Creating a discord auto threading system](https://dev.to/dailydevtips1/creating-a-discord-auto-threading-system-433)
-- [Dev.to/JS] [Hosting a discord bot on Railway](https://dev.to/dailydevtips1/hosting-a-discord-bot-on-railway-468d)
-- [Dev.to/JS] [Free web hosting 100% Free](https://dev.to/supremewyn/free-web-hosting-100-free-4h59)
 - [Lifehacker] [All the Things You Didn&#39;t Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 - [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
@@ -58,9 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Think of Relaxing As a Skill, Not a Reward](https://lifehacker.com/why-you-should-think-of-relaxing-as-a-skill-not-a-rewa-1848320119)
 - [Lifehacker] [Use These Organizations to Pick Up Furniture You Want to Get Rid Of](https://lifehacker.com/use-these-organizations-to-pick-up-furniture-you-want-t-1848322183)
 - [Lifehacker] [Here are Signs That Your Car May Not Be as Reliable as You Thought](https://lifehacker.com/here-are-signs-that-your-car-may-not-be-as-reliable-as-1848322138)
-- [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
-- [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
 
