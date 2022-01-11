@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Side Projects: React Digital Display - Part 1](https://dev.to/kamil7x/side-projects-react-digital-display-part-1-3g2m)
+- [Dev.to/JS] [Environment Variables in Node](https://dev.to/krowemoh/environment-variables-in-node-3541)
+- [Dev.to/JS] [How to Create a Button in JavaScript](https://dev.to/gaelgthomas/how-to-create-a-button-in-javascript-2cf)
+- [Dev.to/JS] [Leetcode diary: 1884. Egg Drop With 2 Eggs and N Floors](https://dev.to/kevin074/leetcode-diary-1884-egg-drop-with-2-eggs-and-n-floors-3683)
+- [Dev.to/JS] [It&#39;s Prisma Time - Select](https://dev.to/this-is-learning/its-prisma-time-select-3lie)
 - [Dev.to/JS] [Get JavaScript Objects from a JSON File](https://dev.to/sharma2288/get-javascript-objects-from-a-json-file-2c86)
 - [Dev.to/JS] [300  Blog Post Ideas to Get A Million Followers](https://dev.to/syedsadiqali/300-blog-post-ideas-to-get-a-million-followers-ngn)
 - [Dev.to/JS] [Project : Car&#39;s Company Website](https://dev.to/uday_dev/project-cars-company-website-1bo7)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hire Salesforce Developer Starting from $2100/ Monthly](https://dev.to/salesforce12/hire-salesforce-developer-starting-from-2100-monthly-5epk)
 - [Dev.to/JS] [Salesforce Offshore Support Services Providers](https://dev.to/salesforce12/salesforce-offshore-support-services-providers-1mj5)
 - [Dev.to/JS] [How to perform crud operations in react?](https://dev.to/dbrahmane4/how-to-perform-crud-operations-in-react-59dm)
-- [Dev.to/JS] [Form Validation Using JavaScript&#39;s Constraint Validation API](https://dev.to/asayerio_techblog/form-validation-using-javascripts-constraint-validation-api-35cc)
-- [Dev.to/JS] [HtmlCollection vs NodeList in Javascript](https://dev.to/jimajs/htmlcollection-vs-nodelist-in-javascript-4337)
-- [Dev.to/JS] [what is unit testing?](https://dev.to/dbrahmane4/what-is-unit-testing-3d6d)
-- [Dev.to/JS] [4 Ways to Level-Up Your JS Destructuring and Spread Syntax](https://dev.to/scottodea/4-ways-to-level-up-your-js-destructuring-and-spread-syntax-4eoo)
-- [Dev.to/JS] [Popup Subscription Form using CSS &amp; Javascript](https://dev.to/softcodeon/popup-subscription-form-using-css-javascript-275h)
 - [Lifehacker] [All the Things You Didn&#39;t Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 - [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
