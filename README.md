@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Popup Subscription Form using CSS &amp; Javascript](https://dev.to/softcodeon/popup-subscription-form-using-css-javascript-275h)
 - [Dev.to/JS] [Develop a social network with ReactJS, Spring Boot and MongoDB](https://dev.to/linhtch90/develop-a-social-network-with-reactjs-spring-boot-and-mongodb-24l8)
 - [Dev.to/JS] [#12 - Fibonacci digit sequence                CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/12-fibonacci-digit-sequence-codewars-kata-6-kyu-8d6)
 - [Dev.to/JS] [How to fix security vulnerabillities in a newly created react app.](https://dev.to/heritio/how-i-fixed-security-vulnerabillities-in-a-newly-created-react-app-31ge)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Melhorando seus testes com Jest](https://dev.to/joaovictor6/acelerando-seus-testes-em-jest-com-spyon-37ci)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
 - [Dev.to/JS] [How to sunset your OSS Project with Grace](https://dev.to/theaccordance/how-to-sunset-your-oss-project-with-grace-33k6)
-- [Dev.to/JS] [Add Line Numbers to Prismjs Code Blocks in a Next.js Project](https://dev.to/alanwsmith/add-line-numbers-to-prismjs-code-blocks-in-a-nextjs-project-50g1)
 - [Lifehacker] [Where Exactly Is Sports Gambling Legal?](https://lifehacker.com/where-exactly-is-sports-gambling-legal-1848333429)
 - [Lifehacker] [12 Quintessential Sidney Poitier Performances Everyone Should Know](https://lifehacker.com/12-quintessential-sidney-poitier-performances-everyone-1848331069)
 - [Lifehacker] [The One Thing You Should Never Put in Your Nonstick Pan](https://lifehacker.com/the-one-thing-you-should-never-put-in-your-nonstick-pan-1848332657)
