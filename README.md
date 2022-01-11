@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Retile Your Shower Floor](https://lifehacker.com/the-easiest-way-to-retile-your-shower-floor-1848338026)
+- [Dev.to/JS] [Decentralized Trading Bot and Datafeed Project](https://dev.to/r3alst/decentralized-trading-bot-and-datafeed-project-4ad)
+- [Dev.to/JS] [Simple Text Editor with main functions &lpar;using Node.js&rpar;](https://dev.to/lucifer25x/simple-text-editor-with-main-functions-using-nodejs-14h6)
+- [Dev.to/JS] [Paracetamol.js💊| #4: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-4-explica-este-codigo-4h4a)
+- [Lifehacker] [Do Sprinkles, Food Coloring, and Icing Ever Really Expire?](https://lifehacker.com/do-sprinkles-food-coloring-and-icing-ever-really-expi-1848338800)
+- [Dev.to/JS] [A Minimalistic Approach to Feature Flagging Your Web App](https://dev.to/michaelmangial1/a-minimalistic-approach-to-feature-flagging-your-web-app-en0)
+- [Dev.to/JS] [How to make ecommerce website using php, mysql or Wordpress.](https://dev.to/ahmadbintahir5/how-to-make-ecommerce-website-using-php-mysql-or-wordpress-3kpi)
 - [Dev.to/JS] [How to make a chat app](https://dev.to/ahmadbintahir5/how-to-make-a-chat-app-1856)
 - [Dev.to/JS] [A Memory Trick To Remember When to Use for...of vs for...in](https://dev.to/maximization/a-memory-trick-to-remember-when-to-use-forof-vs-forin-2akp)
 - [Lifehacker] [The Best Meal-Planning Apps, Because You’re Sick of Doing It Yourself](https://lifehacker.com/the-best-meal-planning-apps-because-you-re-sick-of-doi-1848337864)
@@ -34,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [1 line of code: How to convert spaces to tabs](https://dev.to/martinkr/1-line-of-code-how-to-convert-spaces-to-tabs-aml)
 - [Dev.to/JS] [Simple Stopwatch using JavaScript &amp; CSS](https://dev.to/backlin3gff/simple-stopwatch-using-javascript-css-5cf9)
 - [Lifehacker] [How to Unlock the Hidden High Power Mode on Your 16” M1 Max MacBook Pro](https://lifehacker.com/how-to-unlock-the-hidden-high-power-mode-on-your-16-m1-1848312549)
-- [Dev.to/JS] [16 Commands to Set up React apps for Every use in Seconds ⚡🚀](https://dev.to/madza/16-commands-to-set-up-react-apps-for-every-use-in-seconds-3b34)
-- [Dev.to/JS] [I made a short game using Microsoft MakeCode Arcade](https://dev.to/subhransuindia/i-made-a-short-game-using-microsoft-makecode-arcade-1l1d)
 - [Lifehacker] [How to Make a Burner Account on Reddit, Even Though They Don&#39;t Want You to Anymore](https://lifehacker.com/how-to-make-a-burner-account-on-reddit-even-though-the-1848336857)
-- [Dev.to/JS] [Custom Reack Hooks: useAudio](https://dev.to/iamludal/custom-reack-hooks-useaudio-565j)
-- [Dev.to/JS] [Using Tailwind CSS v3 with Ember JS](https://dev.to/asasmith/using-tailwind-css-v3-with-ember-js-37j9)
-- [Dev.to/JS] [Paracetamol.js💊| #3: ¿Qué imprime este código?](https://dev.to/duxtech/paracetamoljs-2-que-imprime-este-codigo-3cfc)
 - [Lifehacker] [How to Avoid a Hotel&#39;s BS Resort Fees](https://lifehacker.com/how-to-avoid-a-hotels-bullshit-resort-fees-1848335421)
 - [Lifehacker] [You Can Actually Get Free Unlimited Cloud Storage From Telegram](https://lifehacker.com/you-can-actually-get-free-unlimited-cloud-storage-from-1848337055)
 - [Lifehacker] [Why &#39;Under-Sharing&#39; Is Just As Bad As Oversharing &lpar;and How to Stop Doing It&rpar;](https://lifehacker.com/why-under-sharing-is-just-as-bad-as-oversharing-and-ho-1848317273)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy a Car If You Absolutely Have to in This Inflation-Ridden Hellscape](https://lifehacker.com/how-to-buy-a-car-if-you-absolutely-have-to-in-this-infl-1848331100)
 - [Lifehacker] [Throw Out This E. coli-Contaminated Beef, USDA Says](https://lifehacker.com/throw-out-this-e-coli-contaminated-beef-usda-says-1848330845)
 - [Lifehacker] [These App Alternatives Are Faster Than Apple Music](https://lifehacker.com/these-app-alternatives-are-faster-than-apple-music-1848330239)
-- [Lifehacker] [How to Clean and Restore Your Exposed Brick Interior](https://lifehacker.com/how-to-clean-and-restore-your-exposed-brick-interior-1848330060)
-- [Lifehacker] [Decorate Like a Golden Girl](https://lifehacker.com/decorate-like-a-golden-girl-1848330256)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
