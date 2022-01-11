@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get JavaScript Objects from a JSON File](https://dev.to/sharma2288/get-javascript-objects-from-a-json-file-2c86)
+- [Dev.to/JS] [300  Blog Post Ideas to Get A Million Followers](https://dev.to/syedsadiqali/300-blog-post-ideas-to-get-a-million-followers-ngn)
+- [Dev.to/JS] [Project : Car&#39;s Company Website](https://dev.to/uday_dev/project-cars-company-website-1bo7)
 - [Dev.to/JS] [Cheat sheets](https://dev.to/codewithpom/cheat-sheets-2imc)
 - [Dev.to/JS] [Hire Salesforce Developer Starting from $2100/ Monthly](https://dev.to/salesforce12/hire-salesforce-developer-starting-from-2100-monthly-5epk)
 - [Dev.to/JS] [Salesforce Offshore Support Services Providers](https://dev.to/salesforce12/salesforce-offshore-support-services-providers-1mj5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [what is unit testing?](https://dev.to/dbrahmane4/what-is-unit-testing-3d6d)
 - [Dev.to/JS] [4 Ways to Level-Up Your JS Destructuring and Spread Syntax](https://dev.to/scottodea/4-ways-to-level-up-your-js-destructuring-and-spread-syntax-4eoo)
 - [Dev.to/JS] [Popup Subscription Form using CSS &amp; Javascript](https://dev.to/softcodeon/popup-subscription-form-using-css-javascript-275h)
-- [Dev.to/JS] [Develop a social network with ReactJS, Spring Boot and MongoDB](https://dev.to/linhtch90/develop-a-social-network-with-reactjs-spring-boot-and-mongodb-24l8)
-- [Dev.to/JS] [#12 - Fibonacci digit sequence                CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/12-fibonacci-digit-sequence-codewars-kata-6-kyu-8d6)
-- [Dev.to/JS] [How to fix security vulnerabillities in a newly created react app.](https://dev.to/heritio/how-i-fixed-security-vulnerabillities-in-a-newly-created-react-app-31ge)
 - [Lifehacker] [All the Things You Didn&#39;t Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 - [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
