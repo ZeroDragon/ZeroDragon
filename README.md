@@ -23,10 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Often Do Snakes, Rats, and Spiders Really Crawl Up Your Toilet Pipes? &lpar;And How to Stop Them&rpar;](https://lifehacker.com/how-often-do-snakes-rats-and-spiders-really-crawl-up-1848335336)
+- [Dev.to/JS] [How Much is Software Developer Salary in Turkey by 2022? 6,000 TL VS 30,000 TL](https://dev.to/onderh55/how-much-is-software-developer-salary-in-turkey-by-2022-6000-tl-vs-30000-tl-28lc)
+- [Dev.to/JS] [Metamask authentication in NextJS with Third Web](https://dev.to/byteslash/metamask-authentication-in-nextjs-with-third-web-55ff)
+- [Lifehacker] [The Difference Between Bitrate, Resolution, and Frame Rate &lpar;and Why It Matters When Streaming Video&rpar;](https://lifehacker.com/the-difference-between-bitrate-resolution-and-frame-r-1848333060)
 - [Lifehacker] [The Best Way to Cook Seafood If You&#39;re Skittish About Cooking Seafood](https://lifehacker.com/the-best-way-to-cook-seafood-if-youre-skittish-about-co-1848334399)
 - [Dev.to/JS] [1. Call Stack](https://dev.to/sungjuneun/1-call-stack-32n8)
 - [Dev.to/JS] [Introducing the SuperTokens Ambassador Program.](https://dev.to/supertokens/introducing-the-supertokens-ambassador-program-4in7)
-- [Dev.to/JS] [&quot;use strict&quot; in JavaScript.Explained!](https://dev.to/lawanu/use-strict-in-javascriptexplained-3kn0)
+- [Dev.to/JS] [&quot;use strict&quot; in JavaScript and its Benefits](https://dev.to/lawanu/use-strict-in-javascriptexplained-3kn0)
 - [Dev.to/JS] [Create a custom Axios Fetch Hook in React](https://dev.to/coder4_life/create-a-custom-axios-fetch-hook-in-react-2386)
 - [Dev.to/JS] [LeMOT to play WORDLE in French](https://dev.to/michelc/lemot-to-play-wordle-in-french-5dh)
 - [Dev.to/JS] [🗨️ Build a WhatsApp API using Node &amp; Express](https://dev.to/maxprogramming/build-a-whatsapp-api-using-node-express-chf)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a discord auto threading system](https://dev.to/dailydevtips1/creating-a-discord-auto-threading-system-433)
 - [Dev.to/JS] [Hosting a discord bot on Railway](https://dev.to/dailydevtips1/hosting-a-discord-bot-on-railway-468d)
 - [Dev.to/JS] [Free web hosting 100% Free](https://dev.to/supremewyn/free-web-hosting-100-free-4h59)
-- [Dev.to/JS] [Join Data Across APIs](https://dev.to/wundergraph/join-data-across-apis-35fc)
-- [Dev.to/JS] [Can GitHub Copilot center a div?](https://dev.to/virejdasani/can-github-copilot-center-a-div-26lj)
 - [Lifehacker] [All the Things You Didn&#39;t Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 - [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
@@ -59,9 +61,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fill the Holes in Your Heart With Free Food From Wendy&#39;s All Month](https://lifehacker.com/fill-the-holes-in-your-heart-with-free-food-from-wendys-1848322161)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Lifehacker] [How Cold is &#39;Cold&#39; for a Dog?](https://lifehacker.com/how-cold-is-cold-for-a-dog-1848322110)
-- [Lifehacker] [These Are the &#39;Optimal&#39; Winter Thermostat Settings for the Lowest Energy Bills](https://lifehacker.com/these-are-the-optimal-winter-thermostat-settings-for-th-1848322093)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
-- [Lifehacker] [How to Take Winter Photos That Aren&#39;t White and Blurry &lpar;Unless That&#39;s the Point&rpar;](https://lifehacker.com/how-to-take-winter-photos-that-arent-white-and-blurry-1848322056)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
 
 ---
