@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I need to reduce or alter the font size of parent class based on the font size of span tag inside child class](https://dev.to/thajudeenkt/i-need-to-reduce-or-alter-the-font-size-of-parent-class-based-on-the-font-size-of-span-tag-inside-child-class-4kod)
+- [Dev.to/JS] [SASS vs CSS Modules vs CSS-in-JS vs Compile time CSS-in-JS. Who wins?](https://dev.to/fyapy/sass-vs-css-modules-vs-css-in-js-vs-compile-time-css-in-js-who-wins-4cl)
+- [Dev.to/JS] [Percabangan Di Vue Js](https://dev.to/medan_in_code/percabangan-di-vue-js-2j3d)
+- [Dev.to/JS] [Effective tips to send money from Apple pay to cash app](https://dev.to/windikartika23/effective-tips-to-send-money-from-apple-pay-to-cash-app-5clg)
 - [Dev.to/JS] [Leetcode diary: 241. Different Ways to Add Parentheses](https://dev.to/kevin074/leetcode-diary-241-different-ways-to-add-parentheses-31m)
 - [Dev.to/JS] [AudiPlay Integration - Free HTML5 Audio Player](https://dev.to/sh20raj/audiplay-integration-free-html5-audio-player-93n)
 - [Dev.to/JS] [Hello everyone](https://dev.to/antoha911/hello-everyone-i0d)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a Button in JavaScript](https://dev.to/gaelgthomas/how-to-create-a-button-in-javascript-2cf)
 - [Dev.to/JS] [Leetcode diary: 1884. Egg Drop With 2 Eggs and N Floors](https://dev.to/kevin074/leetcode-diary-1884-egg-drop-with-2-eggs-and-n-floors-3683)
 - [Dev.to/JS] [It&#39;s Prisma Time - Select](https://dev.to/this-is-learning/its-prisma-time-select-3lie)
-- [Dev.to/JS] [Get JavaScript Objects from a JSON File](https://dev.to/sharma2288/get-javascript-objects-from-a-json-file-2c86)
-- [Dev.to/JS] [300  Blog Post Ideas to Get A Million Followers](https://dev.to/syedsadiqali/300-blog-post-ideas-to-get-a-million-followers-ngn)
-- [Dev.to/JS] [Project : Car&#39;s Company Website](https://dev.to/uday_dev/project-cars-company-website-1bo7)
-- [Dev.to/JS] [Cheat sheets](https://dev.to/codewithpom/cheat-sheets-2imc)
 - [Lifehacker] [All the Things You Didn&#39;t Know Dish Soap Can Clean](https://lifehacker.com/all-the-things-you-didnt-know-dish-soap-can-clean-1848332952)
 - [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
