@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Polyfill and shim](https://dev.to/murtazabagwala07/polyfill-and-shim-1o25)
+- [Dev.to/JS] [React: Conditional rendering](https://dev.to/drsimplegraffiti/react-conditional-rendering-32b4)
+- [Dev.to/JS] [Launching: Open-source one-page checkout](https://dev.to/medusajs/launching-open-source-one-page-checkout-2279)
 - [Dev.to/JS] [Hello developers.](https://dev.to/joseph42a/hello-developers-1c3i)
 - [Dev.to/JS] [How to Mock dependencies with Jest](https://dev.to/this-is-learning/how-to-mock-dependencies-with-jest-457l)
 - [Dev.to/JS] [Easiest way return largest numbers in arrays - Daily JavaScript #6](https://dev.to/codewithsnowbit/easiest-way-return-largest-numbers-in-arrays-daily-javascript-6-53ek)
@@ -32,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This Week In React #89: Remix, Remotion, Preact, Nextra, Relay, JSI, Skia, SwiftUI, TypeScript, web3...](https://dev.to/sebastienlorber/this-week-in-react-89-remix-remotion-preact-nextra-relay-jsi-skia-swiftui-typescript-web3-jnm)
 - [Dev.to/JS] [IMDb-MongoDb](https://dev.to/adhirkirtikar/imdb-mongodb-3b06)
 - [Dev.to/JS] [How does React Work ?](https://dev.to/ahtrahdis7/how-does-react-work--d58)
-- [Dev.to/JS] [utilize the power of 
-useState and useCallback hooks in React](https://dev.to/nitsancohen770/utilize-the-power-of-usestate-and-usecallback-hooks-in-react-4d1e)
-- [Dev.to/JS] [Create a custom Axios Fetch Hook in React](https://dev.to/coder4_life/create-a-custom-axios-fetch-hook-in-react-fim)
-- [Dev.to/JS] [Customise Cursor](https://dev.to/sayurikamble/customise-cursor-1kl4)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
