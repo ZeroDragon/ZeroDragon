@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use web workers?](https://dev.to/101samovar/how-to-use-web-workers-1nid)
+- [Dev.to/JS] [How to create a Facebook Post Box in HTML CSS &amp; JavaScript](https://dev.to/codegyan/how-to-create-a-facebook-post-box-in-html-css-javascript-2mj6)
+- [Dev.to/JS] [Facebook Post Box Clone Using HTML &amp; JavaScript](https://dev.to/prathmeshyelne/facebook-post-box-clone-using-html-javascript-17m4)
 - [Dev.to/JS] [Polyfill and shim](https://dev.to/murtazabagwala07/polyfill-and-shim-1o25)
 - [Dev.to/JS] [React: Conditional rendering](https://dev.to/drsimplegraffiti/react-conditional-rendering-32b4)
 - [Dev.to/JS] [Launching: Open-source one-page checkout](https://dev.to/medusajs/launching-open-source-one-page-checkout-2279)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ES6: Arrow functions explained](https://dev.to/naftalimurgor/es6-arrow-functions-explained-kh7)
 - [Dev.to/JS] [An Alternative to Next.JS? - Everything You Need to Know About RemixJS](https://dev.to/asayerio_techblog/an-alternative-to-nextjs-everything-you-need-to-know-about-remixjs-4ph8)
 - [Dev.to/JS] [ES6: let and const keywords](https://dev.to/naftalimurgor/es6-let-and-const-keywords-2jge)
-- [Dev.to/JS] [This Week In React #89: Remix, Remotion, Preact, Nextra, Relay, JSI, Skia, SwiftUI, TypeScript, web3...](https://dev.to/sebastienlorber/this-week-in-react-89-remix-remotion-preact-nextra-relay-jsi-skia-swiftui-typescript-web3-jnm)
-- [Dev.to/JS] [IMDb-MongoDb](https://dev.to/adhirkirtikar/imdb-mongodb-3b06)
-- [Dev.to/JS] [How does React Work ?](https://dev.to/ahtrahdis7/how-does-react-work--d58)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
