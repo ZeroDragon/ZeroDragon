@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Two ways to generate random color - Daily JavaScript #5](https://dev.to/codewithsnowbit/two-ways-to-generate-random-color-daily-javascript-5-1i0p)
+- [Dev.to/JS] [Gherkin style E2E Tests for a Web Application using Cucumber.js](https://dev.to/pahanperera/gherkin-style-e2e-tests-for-a-web-application-using-cucumberjs-4djl)
+- [Dev.to/JS] [Redux Basics](https://dev.to/yashkumat/redux-basics-3a6h)
+- [Dev.to/JS] [Polyfills made easy](https://dev.to/mdamirgauhar/polyfills-made-easy-4p89)
+- [Dev.to/JS] [fhh fh gh](https://dev.to/aahadrahi/fhh-fh-gh-5069)
 - [Dev.to/JS] [Transpilers vs Compilers⚙](https://dev.to/suryaraj1/transpilers-vs-compilers-3ohj)
 - [Dev.to/JS] [React is Nuking your Websites SEO Score, Here&#39;s why...](https://dev.to/brijrajparmar27/react-is-nuking-your-websites-seo-score-heres-why-3a06)
 - [Dev.to/JS] [Var, Let, Const Variable Declaration](https://dev.to/javascriptdesigner/var-let-const-variable-declaration-35go)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Diferentes Formas de usar o console do javascript](https://dev.to/ptkm1/diferentes-formas-de-usar-o-console-do-javascript-37p9)
 - [Dev.to/JS] [A Not so comprehensive webdev guide by Heritier: looking at HTML, CSS, and javascript](https://dev.to/heritio/a-not-so-comprehensive-webdev-guide-by-heritier-looking-at-html-css-and-javascript-2n7e)
 - [Dev.to/JS] [WebRTC For Beginners](https://dev.to/ethand91/webrtc-for-beginners-1l14)
-- [Dev.to/JS] [#13 - Keypad Horror                CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/13-keypad-horror-codewars-kata-7-kyu-2hn7)
-- [Dev.to/JS] [How to create a TV Show React App - tvmaze](https://dev.to/rodrigolazo/how-to-create-a-tv-show-react-app-tvmaze-f21)
-- [Dev.to/JS] [100 días de código: 52, días de construcción](https://dev.to/darito/100-dias-de-codigo-52-dias-de-construccion-i00)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
-- [Dev.to/JS] [onPress on react native view component](https://dev.to/ravics09/onpress-on-react-native-view-component-3dfo)
-- [Dev.to/JS] [React vs Vue: Popular Front end frameworks in 2022](https://dev.to/heritio/react-vs-vue-popular-front-end-frameworks-in-2021-503p)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
 - [Lifehacker] [9 Roles That Revealed Bob Saget&#39;s Filthy Sense of Humor](https://lifehacker.com/9-roles-that-revealed-bob-sagets-filthy-sense-of-humor-1848337727)
