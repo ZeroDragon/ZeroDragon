@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello developers.](https://dev.to/joseph42a/hello-developers-1c3i)
+- [Dev.to/JS] [How to Mock dependencies with Jest](https://dev.to/this-is-learning/how-to-mock-dependencies-with-jest-457l)
+- [Dev.to/JS] [Easiest way return largest numbers in arrays - Daily JavaScript #6](https://dev.to/codewithsnowbit/easiest-way-return-largest-numbers-in-arrays-daily-javascript-6-53ek)
+- [Dev.to/JS] [ES6: Arrow functions explained](https://dev.to/naftalimurgor/es6-arrow-functions-explained-kh7)
+- [Dev.to/JS] [An Alternative to Next.JS? - Everything You Need to Know About RemixJS](https://dev.to/asayerio_techblog/an-alternative-to-nextjs-everything-you-need-to-know-about-remixjs-4ph8)
+- [Dev.to/JS] [ES6: let and const keywords](https://dev.to/naftalimurgor/es6-let-and-const-keywords-2jge)
 - [Dev.to/JS] [This Week In React #89: Remix, Remotion, Preact, Nextra, Relay, JSI, Skia, SwiftUI, TypeScript, web3...](https://dev.to/sebastienlorber/this-week-in-react-89-remix-remotion-preact-nextra-relay-jsi-skia-swiftui-typescript-web3-jnm)
 - [Dev.to/JS] [IMDb-MongoDb](https://dev.to/adhirkirtikar/imdb-mongodb-3b06)
 - [Dev.to/JS] [How does React Work ?](https://dev.to/ahtrahdis7/how-does-react-work--d58)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 useState and useCallback hooks in React](https://dev.to/nitsancohen770/utilize-the-power-of-usestate-and-usecallback-hooks-in-react-4d1e)
 - [Dev.to/JS] [Create a custom Axios Fetch Hook in React](https://dev.to/coder4_life/create-a-custom-axios-fetch-hook-in-react-fim)
 - [Dev.to/JS] [Customise Cursor](https://dev.to/sayurikamble/customise-cursor-1kl4)
-- [Dev.to/JS] [3 steps for setting a typescript project? [typescript setup]](https://dev.to/premjethwa/how-to-setup-typescript-57db)
-- [Dev.to/JS] [NestJS MongoDB Basic Auth Rest API ⚡](https://dev.to/atakanuludag/nestjs-mongodb-basic-auth-rest-api-example-30b3)
-- [Dev.to/JS] [What is React ?](https://dev.to/ahtrahdis7/what-is-react--19m8)
-- [Dev.to/JS] [JavaScript Demystified:  Short-circuiting, nullish coalescing and Optional chaining](https://dev.to/saran_chakravarthi/javascript-demystified-short-circuiting-nullish-coalescing-and-optional-chaining-1e4n)
-- [Dev.to/JS] [Grokking Algorithms in JavaScript - Part 1](https://dev.to/mattedwards/grokking-algorithms-in-javascript-part-1-529a)
-- [Dev.to/JS] [🚀 #4 JavaScript Project Series That Makes You Pro.](https://dev.to/chetan_atrawalkar/4-javascript-project-series-40hm)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
