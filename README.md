@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Demystified:  Short-circuiting, nullish coalescing and Optional chaining](https://dev.to/saran_chakravarthi/javascript-demystified-short-circuiting-nullish-coalescing-and-optional-chaining-1e4n)
+- [Dev.to/JS] [Grokking Algorithms in JavaScript - Part 1](https://dev.to/mattedwards/grokking-algorithms-in-javascript-part-1-529a)
+- [Dev.to/JS] [🚀 #4 JavaScript Project Series.](https://dev.to/chetan_atrawalkar/4-javascript-project-series-40hm)
+- [Dev.to/JS] [20 Best freelancing websites for beginners in 2022](https://dev.to/codingland/20-best-freelancing-websites-for-beginners-in-2022-319k)
 - [Dev.to/JS] [Two ways to generate random color - Daily JavaScript #5](https://dev.to/codewithsnowbit/two-ways-to-generate-random-color-daily-javascript-5-1i0p)
 - [Dev.to/JS] [Gherkin style E2E Tests for a Web Application using Cucumber.js](https://dev.to/pahanperera/gherkin-style-e2e-tests-for-a-web-application-using-cucumberjs-4djl)
 - [Dev.to/JS] [Redux Basics](https://dev.to/yashkumat/redux-basics-3a6h)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transpilers vs Compilers⚙](https://dev.to/suryaraj1/transpilers-vs-compilers-3ohj)
 - [Dev.to/JS] [React is Nuking your Websites SEO Score, Here&#39;s why...](https://dev.to/brijrajparmar27/react-is-nuking-your-websites-seo-score-heres-why-3a06)
 - [Dev.to/JS] [Var, Let, Const Variable Declaration](https://dev.to/javascriptdesigner/var-let-const-variable-declaration-35go)
-- [Dev.to/JS] [furne-store an E-Commerce Application](https://dev.to/lmas3009/furne-store-an-e-commerce-application-544f)
-- [Dev.to/JS] [Diferentes Formas de usar o console do javascript](https://dev.to/ptkm1/diferentes-formas-de-usar-o-console-do-javascript-37p9)
-- [Dev.to/JS] [A Not so comprehensive webdev guide by Heritier: looking at HTML, CSS, and javascript](https://dev.to/heritio/a-not-so-comprehensive-webdev-guide-by-heritier-looking-at-html-css-and-javascript-2n7e)
-- [Dev.to/JS] [WebRTC For Beginners](https://dev.to/ethand91/webrtc-for-beginners-1l14)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
