@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Are &#39;Comorbidities,&#39; Anyway?](https://lifehacker.com/what-are-comorbidities-anyway-1848346305)
+- [Dev.to/JS] [MERN Stack Web Application - Property Bookings Catalog](https://dev.to/chefgs/mern-stack-web-application-property-bookings-catalog-2732)
+- [Dev.to/JS] [Unknown console API in JS](https://dev.to/romaintrotard/unknown-console-api-in-js-2mek)
+- [Lifehacker] [Everything You Need to Know to Survive a Tsunami](https://lifehacker.com/everything-you-need-to-know-to-survive-a-tsunami-1848345538)
+- [Dev.to/JS] [First Project](https://dev.to/sid_saythongphet/first-project-2pma)
+- [Dev.to/JS] [Coin Flipper &amp; Color Boxes | Day 9](https://dev.to/developerioweb/coin-flipper-color-boxes-day-9-4h3)
+- [Dev.to/JS] [MongoDB Test Application](https://dev.to/curiousdev/mongodb-test-application-i2k)
 - [Lifehacker] [15 DIY Shortcuts That Are Sure to Make Your Home Repairs Easier](https://lifehacker.com/15-diy-shortcuts-that-are-sure-to-make-your-home-repair-1848344693)
 - [Lifehacker] [8 Things You Should Never Put in Your Dishwasher](https://lifehacker.com/8-things-you-should-never-put-in-your-dishwasher-1848341293)
 - [Dev.to/JS] [&quot;Hello World” With Diffusion Cloud’s REST API](https://dev.to/push_technology/hello-world-with-diffusion-clouds-rest-api-39g3)
@@ -36,11 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Enable and Disable a Button in JavaScript 🔴🟢](https://dev.to/gaelgthomas/how-to-enable-and-disable-a-button-in-javascript-4014)
 - [Dev.to/JS] [How to import a function from a functional component to another functional component](https://dev.to/alexiosgrig/how-to-import-a-function-from-a-functional-component-to-another-functional-component-1k5a)
 - [Lifehacker] [You Should Waffle Some Falafel Mix](https://lifehacker.com/you-should-waffle-some-falafel-mix-1848341955)
-- [Dev.to/JS] [Saving Millions of Images Series [Part Two]](https://dev.to/atherdon/saving-millions-of-images-series-part-two-301n)
-- [Dev.to/JS] [What&#39;s the best way to learn JavaScript? There isn&#39;t any](https://dev.to/nicozerpa/whats-the-best-way-to-learn-javascript-there-isnt-any-3j8p)
-- [Dev.to/JS] [How to easily deal with domain object in Redis](https://dev.to/yenyih/how-to-easily-deal-with-domain-object-in-redis-4h0n)
-- [Dev.to/JS] [Are micro frontends still a thing?](https://dev.to/ben/are-micro-frontends-still-a-thing-3jbm)
-- [Dev.to/JS] [Scaffold and Deploy the Dashboard to Netlify](https://dev.to/nrwl/scaffold-and-deploy-the-dashboard-to-netlify-2505)
 - [Lifehacker] [Things You Should Never Say to Someone Struggling with Depression](https://lifehacker.com/things-you-should-never-say-to-someone-struggling-with-1848341256)
 - [Lifehacker] [Do You Really Have to Cool Down After Exercise?](https://lifehacker.com/do-you-really-have-to-cool-down-after-exercise-1848341365)
 - [Lifehacker] [Don&#39;t Buy Apple&#39;s Accessories](https://lifehacker.com/dont-buy-apples-accessories-1848340426)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need Instant Gratification, According to Science](https://lifehacker.com/why-you-need-instant-gratification-according-to-scienc-1848331132)
 - [Lifehacker] [How to Unlock the Hidden High Power Mode on Your 16” M1 Max MacBook Pro](https://lifehacker.com/how-to-unlock-the-hidden-high-power-mode-on-your-16-m1-1848312549)
 - [Lifehacker] [How to Make a Burner Account on Reddit, Even Though They Don&#39;t Want You to Anymore](https://lifehacker.com/how-to-make-a-burner-account-on-reddit-even-though-the-1848336857)
-- [Lifehacker] [How to Avoid a Hotel&#39;s BS Resort Fees](https://lifehacker.com/how-to-avoid-a-hotels-bullshit-resort-fees-1848335421)
-- [Lifehacker] [You Can Actually Get Free Unlimited Cloud Storage From Telegram](https://lifehacker.com/you-can-actually-get-free-unlimited-cloud-storage-from-1848337055)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
