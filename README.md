@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a TV Show React App - tvmaze](https://dev.to/rodrigolazo/how-to-create-a-tv-show-react-app-tvmaze-f21)
 - [Dev.to/JS] [100 días de código: 52, días de construcción](https://dev.to/darito/100-dias-de-codigo-52-dias-de-construccion-i00)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Dev.to/JS] [onPress on react native view component](https://dev.to/ravics09/onpress-on-react-native-view-component-3dfo)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Retile Your Shower Floor](https://lifehacker.com/the-easiest-way-to-retile-your-shower-floor-1848338026)
 - [Dev.to/JS] [Decentralized Trading Bot and Datafeed Project](https://dev.to/r3alst/decentralized-trading-bot-and-datafeed-project-4ad)
 - [Dev.to/JS] [Simple Text Editor with main functions &lpar;using Node.js&rpar;](https://dev.to/lucifer25x/simple-text-editor-with-main-functions-using-nodejs-14h6)
-- [Dev.to/JS] [Paracetamol.js💊| #4: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-4-explica-este-codigo-4h4a)
 - [Lifehacker] [Do Sprinkles, Food Coloring, and Icing Ever Really Expire?](https://lifehacker.com/do-sprinkles-food-coloring-and-icing-ever-really-expi-1848338800)
 - [Lifehacker] [The Best Meal-Planning Apps, Because You’re Sick of Doing It Yourself](https://lifehacker.com/the-best-meal-planning-apps-because-you-re-sick-of-doi-1848337864)
 - [Lifehacker] [How to Choose a Higher-Quality Mask &lpar;Because Cloth Masks Aren’t Cutting It&rpar;](https://lifehacker.com/how-to-buy-a-high-quality-mask-1846153740)
