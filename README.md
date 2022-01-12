@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Buy Apple&#39;s Accessories](https://lifehacker.com/dont-buy-apples-accessories-1848340426)
+- [Dev.to/JS] [How to Create BMI Calculator using Javascript](https://dev.to/shantanu_jana/how-to-create-bmi-calculator-using-javascript-3l07)
+- [Dev.to/JS] [2. Primitive Types](https://dev.to/sungjuneun/2-primitive-types-4m38)
+- [Dev.to/JS] [I started to write on english, this is why](https://dev.to/fernandocutire/i-started-to-write-on-english-this-is-why-4kce)
+- [Dev.to/JS] [Navbar Components using HTML CSS](https://dev.to/ganeshpatil386386/navbar-components-using-html-css-39ip)
+- [Dev.to/JS] [Blockchain Connector](https://dev.to/rarbefaeli/blockchain-connector-3o82)
+- [Lifehacker] [How to Protect Your Student Laptop and Accounts From Hackers](https://lifehacker.com/how-to-protect-your-student-laptop-and-accounts-from-ha-1848245958)
 - [Dev.to/JS] [How they made controls at Github? Popup](https://dev.to/kiranmantha/how-they-made-controls-at-github-popup-2omi)
 - [Dev.to/JS] [React - The Official Roadmap](https://dev.to/mrdanishsaleem/react-the-official-roadmap-47cj)
 - [Lifehacker] [Why You Should Write in Longhand More Often](https://lifehacker.com/why-you-should-write-in-longhand-more-often-1848339416)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a Facebook Post Box in HTML CSS &amp; JavaScript](https://dev.to/codegyan/how-to-create-a-facebook-post-box-in-html-css-javascript-2mj6)
 - [Dev.to/JS] [Facebook Post Box Clone Using HTML &amp; JavaScript](https://dev.to/prathmeshyelne/facebook-post-box-clone-using-html-javascript-17m4)
 - [Dev.to/JS] [Polyfill and shim](https://dev.to/murtazabagwala07/polyfill-and-shim-1o25)
-- [Dev.to/JS] [React: Conditional rendering](https://dev.to/drsimplegraffiti/react-conditional-rendering-32b4)
-- [Dev.to/JS] [Launching: Open-source one-page checkout](https://dev.to/medusajs/launching-open-source-one-page-checkout-2279)
-- [Dev.to/JS] [Hello developers.](https://dev.to/joseph42a/hello-developers-1c3i)
-- [Dev.to/JS] [How to Mock dependencies with Jest](https://dev.to/this-is-learning/how-to-mock-dependencies-with-jest-457l)
-- [Dev.to/JS] [Easiest way return largest numbers in arrays - Daily JavaScript #6](https://dev.to/codewithsnowbit/easiest-way-return-largest-numbers-in-arrays-daily-javascript-6-53ek)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn&#39;t Panic About &#39;Deltacron&#39; Yet](https://lifehacker.com/why-you-shouldnt-panic-about-deltacron-yet-1848334101)
 - [Lifehacker] [The Best Way to Figure Out How Much Wine You Need for a Party](https://lifehacker.com/the-best-way-to-figure-out-how-much-wine-you-need-for-a-1848334096)
 - [Lifehacker] [Where Exactly Is Sports Gambling Legal?](https://lifehacker.com/where-exactly-is-sports-gambling-legal-1848333429)
-- [Lifehacker] [12 Quintessential Sidney Poitier Performances Everyone Should Know](https://lifehacker.com/12-quintessential-sidney-poitier-performances-everyone-1848331069)
-- [Lifehacker] [The One Thing You Should Never Put in Your Nonstick Pan](https://lifehacker.com/the-one-thing-you-should-never-put-in-your-nonstick-pan-1848332657)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
