@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This Week In React #89: Remix, Remotion, Preact, Nextra, Relay, JSI, Skia, SwiftUI, TypeScript, web3...](https://dev.to/sebastienlorber/this-week-in-react-89-remix-remotion-preact-nextra-relay-jsi-skia-swiftui-typescript-web3-jnm)
+- [Dev.to/JS] [IMDb-MongoDb](https://dev.to/adhirkirtikar/imdb-mongodb-3b06)
 - [Dev.to/JS] [How does React Work ?](https://dev.to/ahtrahdis7/how-does-react-work--d58)
 - [Dev.to/JS] [utilize the power of 
 useState and useCallback hooks in React](https://dev.to/nitsancohen770/utilize-the-power-of-usestate-and-usecallback-hooks-in-react-4d1e)
@@ -33,9 +35,7 @@ useState and useCallback hooks in React](https://dev.to/nitsancohen770/utilize-t
 - [Dev.to/JS] [What is React ?](https://dev.to/ahtrahdis7/what-is-react--19m8)
 - [Dev.to/JS] [JavaScript Demystified:  Short-circuiting, nullish coalescing and Optional chaining](https://dev.to/saran_chakravarthi/javascript-demystified-short-circuiting-nullish-coalescing-and-optional-chaining-1e4n)
 - [Dev.to/JS] [Grokking Algorithms in JavaScript - Part 1](https://dev.to/mattedwards/grokking-algorithms-in-javascript-part-1-529a)
-- [Dev.to/JS] [🚀 #4 JavaScript Project Series.](https://dev.to/chetan_atrawalkar/4-javascript-project-series-40hm)
-- [Dev.to/JS] [20 Best freelancing websites for beginners in 2022](https://dev.to/codingland/20-best-freelancing-websites-for-beginners-in-2022-319k)
-- [Dev.to/JS] [Two ways to generate random color - Daily JavaScript #5](https://dev.to/codewithsnowbit/two-ways-to-generate-random-color-daily-javascript-5-1i0p)
+- [Dev.to/JS] [🚀 #4 JavaScript Project Series That Makes You Pro.](https://dev.to/chetan_atrawalkar/4-javascript-project-series-40hm)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
