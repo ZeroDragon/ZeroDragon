@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [furne-store an E-Commerce Application](https://dev.to/lmas3009/furne-store-an-e-commerce-application-544f)
+- [Dev.to/JS] [Diferentes Formas de usar o console do javascript](https://dev.to/ptkm1/diferentes-formas-de-usar-o-console-do-javascript-37p9)
 - [Dev.to/JS] [A Not so comprehensive webdev guide by Heritier: looking at HTML, CSS, and javascript](https://dev.to/heritio/a-not-so-comprehensive-webdev-guide-by-heritier-looking-at-html-css-and-javascript-2n7e)
 - [Dev.to/JS] [WebRTC For Beginners](https://dev.to/ethand91/webrtc-for-beginners-1l14)
 - [Dev.to/JS] [#13 - Keypad Horror                CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/13-keypad-horror-codewars-kata-7-kyu-2hn7)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
 - [Dev.to/JS] [Ashraf Uddin musical artist From Bangladesh](https://dev.to/ashrafuddinbd/ashraf-uddin-musical-artist-from-bangladesh-2b75)
 - [Lifehacker] [9 Roles That Revealed Bob Saget&#39;s Filthy Sense of Humor](https://lifehacker.com/9-roles-that-revealed-bob-sagets-filthy-sense-of-humor-1848337727)
-- [Dev.to/JS] [Extension chrome for check responsive your website](https://dev.to/arsalannury/extension-chrome-for-check-responsive-your-website-8c6)
 - [Lifehacker] [How to Stop Being so Damn Self-Deprecating](https://lifehacker.com/how-to-stop-being-so-damn-self-deprecating-1848316538)
-- [Dev.to/JS] [React State Pattern | Day 8](https://dev.to/developerioweb/react-state-pattern-day-8-5e03)
 - [Lifehacker] [The Easiest Way to Retile Your Shower Floor](https://lifehacker.com/the-easiest-way-to-retile-your-shower-floor-1848338026)
 - [Lifehacker] [Do Sprinkles, Food Coloring, and Icing Ever Really Expire?](https://lifehacker.com/do-sprinkles-food-coloring-and-icing-ever-really-expi-1848338800)
 - [Lifehacker] [The Best Meal-Planning Apps, Because You’re Sick of Doing It Yourself](https://lifehacker.com/the-best-meal-planning-apps-because-you-re-sick-of-doi-1848337864)
