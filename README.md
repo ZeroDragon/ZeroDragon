@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Usando &lt;script setup&gt; no vueJS3](https://dev.to/italobarrosme/usando-no-vuejs3-4co1)
+- [Dev.to/JS] [Components search by Bit](https://dev.to/nitsancohen770/components-search-by-bit-5aa3)
+- [Lifehacker] [This App Brings TikTok&#39;s Discoverability to Spotify](https://lifehacker.com/this-app-brings-tiktoks-discoverability-to-spotify-1848345114)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 5](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-5-4gmf)
 - [Lifehacker] [How Long Can You Keep Using the Same N95 Mask?](https://lifehacker.com/how-long-can-you-keep-using-the-same-n95-mask-1848345117)
 - [Dev.to/JS] [Password Protection for Cloudflare Pages](https://dev.to/charca/password-protection-for-cloudflare-pages-8ma)
 - [Dev.to/JS] [LIVE Streamed My Project on YouTube Every Week for 1 YEAR!](https://dev.to/dustinbrett/live-streamed-my-project-on-youtube-every-week-for-1-year-2jhd)
@@ -36,14 +40,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know to Survive a Tsunami](https://lifehacker.com/everything-you-need-to-know-to-survive-a-tsunami-1848345538)
 - [Dev.to/JS] [First Project](https://dev.to/sid_saythongphet/first-project-2pma)
 - [Dev.to/JS] [Project : Coin Flipper &amp; Color Boxes | Day 9](https://dev.to/developerioweb/coin-flipper-color-boxes-day-9-4h3)
-- [Dev.to/JS] [MongoDB Test Application](https://dev.to/curiousdev/mongodb-test-application-i2k)
 - [Lifehacker] [15 DIY Shortcuts That Are Sure to Make Your Home Repairs Easier](https://lifehacker.com/15-diy-shortcuts-that-are-sure-to-make-your-home-repair-1848344693)
 - [Lifehacker] [8 Things You Should Never Put in Your Dishwasher](https://lifehacker.com/8-things-you-should-never-put-in-your-dishwasher-1848341293)
-- [Dev.to/JS] [&quot;Hello World” With Diffusion Cloud’s REST API](https://dev.to/push_technology/hello-world-with-diffusion-clouds-rest-api-39g3)
 - [Lifehacker] [9 Ways to Become More Anonymous on Reddit](https://lifehacker.com/9-ways-to-become-more-anonymous-on-reddit-1848343187)
 - [Lifehacker] [26 New TV Series Everyone Will Watch This Year](https://lifehacker.com/26-new-tv-series-everyone-will-watch-this-year-1848329491)
 - [Lifehacker] [Don’t Eat These Recalled Salads, FDA Says](https://lifehacker.com/don-t-eat-these-recalled-salads-fda-says-1848344484)
-- [Dev.to/JS] [JavaScript Page Scroll Progress Bar](https://dev.to/sagnik77/javascript-page-scroll-progress-bar-1na9)
 - [Lifehacker] [You Should Waffle Some Falafel Mix](https://lifehacker.com/you-should-waffle-some-falafel-mix-1848341955)
 - [Lifehacker] [Things You Should Never Say to Someone Struggling with Depression](https://lifehacker.com/things-you-should-never-say-to-someone-struggling-with-1848341256)
 - [Lifehacker] [Do You Really Have to Cool Down After Exercise?](https://lifehacker.com/do-you-really-have-to-cool-down-after-exercise-1848341365)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do Sprinkles, Food Coloring, and Icing Ever Really Expire?](https://lifehacker.com/do-sprinkles-food-coloring-and-icing-ever-really-expi-1848338800)
 - [Lifehacker] [The Best Meal-Planning Apps, Because You’re Sick of Doing It Yourself](https://lifehacker.com/the-best-meal-planning-apps-because-you-re-sick-of-doi-1848337864)
 - [Lifehacker] [How to Choose a Higher-Quality Mask &lpar;Because Cloth Masks Aren’t Cutting It&rpar;](https://lifehacker.com/how-to-buy-a-high-quality-mask-1846153740)
-- [Lifehacker] [Why You Need Instant Gratification, According to Science](https://lifehacker.com/why-you-need-instant-gratification-according-to-scienc-1848331132)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
