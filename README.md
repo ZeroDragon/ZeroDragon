@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Transpilers vs Compilers⚙](https://dev.to/suryaraj1/transpilers-vs-compilers-3ohj)
+- [Dev.to/JS] [React is Nuking your Websites SEO Score, Here&#39;s why...](https://dev.to/brijrajparmar27/react-is-nuking-your-websites-seo-score-heres-why-3a06)
+- [Dev.to/JS] [Var, Let, Const Variable Declaration](https://dev.to/javascriptdesigner/var-let-const-variable-declaration-35go)
 - [Dev.to/JS] [furne-store an E-Commerce Application](https://dev.to/lmas3009/furne-store-an-e-commerce-application-544f)
 - [Dev.to/JS] [Diferentes Formas de usar o console do javascript](https://dev.to/ptkm1/diferentes-formas-de-usar-o-console-do-javascript-37p9)
 - [Dev.to/JS] [A Not so comprehensive webdev guide by Heritier: looking at HTML, CSS, and javascript](https://dev.to/heritio/a-not-so-comprehensive-webdev-guide-by-heritier-looking-at-html-css-and-javascript-2n7e)
@@ -33,11 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Dev.to/JS] [onPress on react native view component](https://dev.to/ravics09/onpress-on-react-native-view-component-3dfo)
 - [Dev.to/JS] [React vs Vue: Popular Front end frameworks in 2022](https://dev.to/heritio/react-vs-vue-popular-front-end-frameworks-in-2021-503p)
-- [Dev.to/JS] [PlaneIt - One link to everywhere!](https://dev.to/imadithya/planeit-one-link-to-everywhere-4dj8)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
-- [Dev.to/JS] [CommonJS vs. ES modules in Node.js](https://dev.to/logrocket/commonjs-vs-es-modules-in-nodejs-2eo1)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
-- [Dev.to/JS] [Ashraf Uddin musical artist From Bangladesh](https://dev.to/ashrafuddinbd/ashraf-uddin-musical-artist-from-bangladesh-2b75)
 - [Lifehacker] [9 Roles That Revealed Bob Saget&#39;s Filthy Sense of Humor](https://lifehacker.com/9-roles-that-revealed-bob-sagets-filthy-sense-of-humor-1848337727)
 - [Lifehacker] [How to Stop Being so Damn Self-Deprecating](https://lifehacker.com/how-to-stop-being-so-damn-self-deprecating-1848316538)
 - [Lifehacker] [The Easiest Way to Retile Your Shower Floor](https://lifehacker.com/the-easiest-way-to-retile-your-shower-floor-1848338026)
