@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How they made controls at Github? Popup](https://dev.to/kiranmantha/how-they-made-controls-at-github-popup-2omi)
+- [Dev.to/JS] [React - The Official Roadmap](https://dev.to/mrdanishsaleem/react-the-official-roadmap-47cj)
+- [Lifehacker] [Why You Should Write in Longhand More Often](https://lifehacker.com/why-you-should-write-in-longhand-more-often-1848339416)
+- [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #125](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-125-1e34)
 - [Dev.to/JS] [How to use web workers?](https://dev.to/101samovar/how-to-use-web-workers-1nid)
 - [Dev.to/JS] [How to create a Facebook Post Box in HTML CSS &amp; JavaScript](https://dev.to/codegyan/how-to-create-a-facebook-post-box-in-html-css-javascript-2mj6)
 - [Dev.to/JS] [Facebook Post Box Clone Using HTML &amp; JavaScript](https://dev.to/prathmeshyelne/facebook-post-box-clone-using-html-javascript-17m4)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello developers.](https://dev.to/joseph42a/hello-developers-1c3i)
 - [Dev.to/JS] [How to Mock dependencies with Jest](https://dev.to/this-is-learning/how-to-mock-dependencies-with-jest-457l)
 - [Dev.to/JS] [Easiest way return largest numbers in arrays - Daily JavaScript #6](https://dev.to/codewithsnowbit/easiest-way-return-largest-numbers-in-arrays-daily-javascript-6-53ek)
-- [Dev.to/JS] [ES6: Arrow functions explained](https://dev.to/naftalimurgor/es6-arrow-functions-explained-kh7)
-- [Dev.to/JS] [An Alternative to Next.JS? - Everything You Need to Know About RemixJS](https://dev.to/asayerio_techblog/an-alternative-to-nextjs-everything-you-need-to-know-about-remixjs-4ph8)
-- [Dev.to/JS] [ES6: let and const keywords](https://dev.to/naftalimurgor/es6-let-and-const-keywords-2jge)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where Exactly Is Sports Gambling Legal?](https://lifehacker.com/where-exactly-is-sports-gambling-legal-1848333429)
 - [Lifehacker] [12 Quintessential Sidney Poitier Performances Everyone Should Know](https://lifehacker.com/12-quintessential-sidney-poitier-performances-everyone-1848331069)
 - [Lifehacker] [The One Thing You Should Never Put in Your Nonstick Pan](https://lifehacker.com/the-one-thing-you-should-never-put-in-your-nonstick-pan-1848332657)
-- [Lifehacker] [You Can Restore Events You Accidentally Deleted From Google Calendar](https://lifehacker.com/you-can-restore-events-you-accidentally-deleted-from-go-1848331447)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
