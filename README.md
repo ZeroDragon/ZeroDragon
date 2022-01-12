@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Secret to Really Believing in Yourself](https://lifehacker.com/the-secret-to-really-believing-in-yourself-1848348079)
+- [Lifehacker] [The &lpar;10+2&rpar;*5 Method Will Help You Get More Done in a Day](https://lifehacker.com/the-10-2-5-method-will-help-you-get-more-done-in-a-da-1848347801)
+- [Dev.to/JS] [Using Storybook in React Native](https://dev.to/snowlew/using-storybook-in-react-native-2492)
+- [Dev.to/JS] [understanding Bubble sort algorithm by sorting levi ackraman character on attack of titans anime](https://dev.to/shatud/understanding-bubble-sort-algorithm-by-sorting-levi-ackraman-character-on-attack-of-titans-anime-oe3)
+- [Dev.to/JS] [Apple TV - Remote with CSS](https://dev.to/oguzergul/apple-tv-remote-with-css-448o)
+- [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
 - [Dev.to/JS] [Usando &lt;script setup&gt; no vueJS3](https://dev.to/italobarrosme/usando-no-vuejs3-4co1)
 - [Dev.to/JS] [Components search by Bit](https://dev.to/nitsancohen770/components-search-by-bit-5aa3)
 - [Lifehacker] [This App Brings TikTok&#39;s Discoverability to Spotify](https://lifehacker.com/this-app-brings-tiktoks-discoverability-to-spotify-1848345114)
@@ -36,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OOPs Concepts in TypeScript. What is the 4, Basics of Object-Oriented Programming Fundamentals &amp; their Examples](https://dev.to/reaganscofield/oops-concepts-in-typescript-what-is-the-4-basics-of-object-oriented-programming-fundamentals-their-examples-138g)
 - [Lifehacker] [What Are &#39;Comorbidities,&#39; Anyway?](https://lifehacker.com/what-are-comorbidities-anyway-1848346305)
 - [Dev.to/JS] [MERN Stack Web Application - Property Bookings Catalog](https://dev.to/chefgs/mern-stack-web-application-property-bookings-catalog-2732)
-- [Dev.to/JS] [Unknown console API in JS](https://dev.to/romaintrotard/unknown-console-api-in-js-2mek)
 - [Lifehacker] [Everything You Need to Know to Survive a Tsunami](https://lifehacker.com/everything-you-need-to-know-to-survive-a-tsunami-1848345538)
-- [Dev.to/JS] [First Project](https://dev.to/sid_saythongphet/first-project-2pma)
-- [Dev.to/JS] [Project : Coin Flipper &amp; Color Boxes | Day 9](https://dev.to/developerioweb/coin-flipper-color-boxes-day-9-4h3)
 - [Lifehacker] [15 DIY Shortcuts That Are Sure to Make Your Home Repairs Easier](https://lifehacker.com/15-diy-shortcuts-that-are-sure-to-make-your-home-repair-1848344693)
 - [Lifehacker] [8 Things You Should Never Put in Your Dishwasher](https://lifehacker.com/8-things-you-should-never-put-in-your-dishwasher-1848341293)
 - [Lifehacker] [9 Ways to Become More Anonymous on Reddit](https://lifehacker.com/9-ways-to-become-more-anonymous-on-reddit-1848343187)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Roles That Revealed Bob Saget&#39;s Filthy Sense of Humor](https://lifehacker.com/9-roles-that-revealed-bob-sagets-filthy-sense-of-humor-1848337727)
 - [Lifehacker] [How to Stop Being so Damn Self-Deprecating](https://lifehacker.com/how-to-stop-being-so-damn-self-deprecating-1848316538)
 - [Lifehacker] [The Easiest Way to Retile Your Shower Floor](https://lifehacker.com/the-easiest-way-to-retile-your-shower-floor-1848338026)
-- [Lifehacker] [Do Sprinkles, Food Coloring, and Icing Ever Really Expire?](https://lifehacker.com/do-sprinkles-food-coloring-and-icing-ever-really-expi-1848338800)
-- [Lifehacker] [The Best Meal-Planning Apps, Because You’re Sick of Doing It Yourself](https://lifehacker.com/the-best-meal-planning-apps-because-you-re-sick-of-doi-1848337864)
-- [Lifehacker] [How to Choose a Higher-Quality Mask &lpar;Because Cloth Masks Aren’t Cutting It&rpar;](https://lifehacker.com/how-to-buy-a-high-quality-mask-1846153740)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
