@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Ways to Become More Anonymous on Reddit](https://lifehacker.com/9-ways-to-become-more-anonymous-on-reddit-1848343187)
+- [Lifehacker] [26 New TV Series Everyone Will Watch This Year](https://lifehacker.com/26-new-tv-series-everyone-will-watch-this-year-1848329491)
 - [Lifehacker] [Don’t Eat These Recalled Salads, FDA Says](https://lifehacker.com/don-t-eat-these-recalled-salads-fda-says-1848344484)
 - [Dev.to/JS] [JavaScript Page Scroll Progress Bar](https://dev.to/sagnik77/javascript-page-scroll-progress-bar-1na9)
 - [Dev.to/JS] [React Food Website - Styled Components and Framer Motion Tutorial - Part 1](https://dev.to/chaoocharles/react-food-website-styled-components-and-framer-motion-tutorial-part-1-3kib)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Actually Get Free Unlimited Cloud Storage From Telegram](https://lifehacker.com/you-can-actually-get-free-unlimited-cloud-storage-from-1848337055)
 - [Lifehacker] [Why &#39;Under-Sharing&#39; Is Just As Bad As Oversharing &lpar;and How to Stop Doing It&rpar;](https://lifehacker.com/why-under-sharing-is-just-as-bad-as-oversharing-and-ho-1848317273)
 - [Lifehacker] [How Often Do Snakes, Rats, and Spiders Really Crawl Up Your Toilet Pipes? &lpar;And How to Stop Them&rpar;](https://lifehacker.com/how-often-do-snakes-rats-and-spiders-really-crawl-up-1848335336)
-- [Lifehacker] [The Difference Between Bitrate, Resolution, and Frame Rate &lpar;and Why It Matters When Streaming Video&rpar;](https://lifehacker.com/the-difference-between-bitrate-resolution-and-frame-r-1848333060)
-- [Lifehacker] [The Best Way to Cook Seafood If You&#39;re Skittish About Cooking Seafood](https://lifehacker.com/the-best-way-to-cook-seafood-if-youre-skittish-about-co-1848334399)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
