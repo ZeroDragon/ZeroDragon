@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Input In 7 Minutes - React Forms and State Explained](https://dev.to/gargkunal/react-input-in-7-minutes-react-forms-and-state-explained-ie)
+- [Dev.to/JS] [Copying Items to Clipboard Without Using Clipboard API](https://dev.to/ertanozdemir/copying-items-to-clipboard-without-using-clipboard-api-1a2o)
+- [Dev.to/JS] [How to learn while working on personal projects](https://dev.to/how-to-dev/how-to-learn-while-working-on-personal-projects-10gk)
+- [Dev.to/JS] [My web dev journey with Scrimba](https://dev.to/j89/my-web-dev-journey-with-scrimba-3hn2)
+- [Dev.to/JS] [#14 - Keypad Horror                CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/14-keypad-horror-codewars-kata-7-kyu-4i50)
 - [Dev.to/JS] [React vs. Web Components](https://dev.to/mariusbongarts/react-vs-web-components-27k6)
 - [Dev.to/JS] [SP-FLAMINGO - SopPlayer Skin Integration - Custom Video Player](https://dev.to/sh20raj/sp-flamingo-sopplayer-skin-integration-custom-video-player-4675)
 - [Dev.to/JS] [How to build a social network app with ReactJS](https://dev.to/linhtch90/how-to-build-a-social-network-app-with-reactjs-34d3)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [StrictionD - Blood Sugar Results, Price, Uses And Side Effects](https://dev.to/strictiondpills/strictiond-blood-sugar-results-price-uses-and-side-effects-53h6)
 - [Dev.to/JS] [DOGECART an ecommerce platform](https://dev.to/abhijeetgavali/dogecart-an-ecommerce-platform-5an9)
 - [Dev.to/JS] [Code is Fun, Code is everything you cant see](https://dev.to/ksindhi/code-is-fun-code-is-everything-you-cant-see-3527)
-- [Dev.to/JS] [It&#39;s Prisma Time - Pagination](https://dev.to/this-is-learning/its-prisma-time-pagination-218e)
-- [Dev.to/JS] [Finding Remote job/intern Front-End Developer](https://dev.to/ijsathi/finding-remote-jobintern-front-end-developer-1f71)
-- [Dev.to/JS] [Run PostgreSQL with Docker locally and connect to it with Node.js](https://dev.to/mohsenkamrani/run-postgresql-with-docker-locally-and-connect-to-it-with-nodejs-451g)
-- [Dev.to/JS] [HELLO WORLD](https://dev.to/azlan_syed/hello-world-1g1c)
-- [Dev.to/JS] [Python vs JavaScript](https://dev.to/atreeshine/python-vs-javascript-5f5o)
 - [Lifehacker] [The Secret to Really Believing in Yourself](https://lifehacker.com/the-secret-to-really-believing-in-yourself-1848348079)
 - [Lifehacker] [The &lpar;10+2&rpar;*5 Method Will Help You Get More Done in a Day](https://lifehacker.com/the-10-2-5-method-will-help-you-get-more-done-in-a-da-1848347801)
 - [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
