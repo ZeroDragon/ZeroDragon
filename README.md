@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Not to Say When You’re Buying or Selling a Home](https://lifehacker.com/what-not-to-say-when-you-re-buying-or-selling-a-home-1848346121)
+- [Dev.to/JS] [Calling all software developers, Don&#39;t miss this new global developer survey opportunity &lpar;win: $1000 - $250&rpar;](https://dev.to/dev_emmy/calling-all-software-developers-dont-miss-this-new-global-developer-survey-opportunity-win-1000-250-61c)
+- [Dev.to/JS] [Guide to implement MERN Stack Web App](https://dev.to/chefgs/guide-to-implement-mern-stack-web-app-5f25)
+- [Dev.to/JS] [Basics of JavaScript](https://dev.to/sobhandash/basics-of-javascript-3d86)
+- [Lifehacker] [How to Hide the Fact That Your Cat Poops in a Box in Your House](https://lifehacker.com/how-to-hide-the-fact-that-your-cat-poops-in-a-box-in-yo-1848344666)
+- [Dev.to/JS] [Why You Fail at Debugging](https://dev.to/codeforhumans/why-you-fail-at-debugging-54pp)
+- [Dev.to/JS] [⏰ Parikshan - Compiler to measure the running time of javascript functions](https://dev.to/gajananpp/parikshan-compiler-to-measure-the-running-time-of-javascript-functions-3fb8)
 - [Lifehacker] [How to Know if a QR Code or a Short URL Is Safe](https://lifehacker.com/how-to-know-if-a-qr-code-or-a-short-url-is-safe-1848346007)
 - [Dev.to/JS] [Top 7 Websites To Get Your First Paid Internship](https://dev.to/thenomadevel/top-7-websites-to-get-your-first-paid-internship-39b1)
 - [Lifehacker] [8 Ways You Can Make Siri Less Annoying](https://lifehacker.com/8-ways-you-can-make-siri-less-annoying-1848343339)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Change Bootstrap 5 navigation bar styling on scroll without using jQuery](https://dev.to/sampurna/how-to-change-bootstrap-5-navigation-bar-styling-on-scroll-without-using-jquery-gka)
 - [Dev.to/JS] [Day 77 of 100 Days of Code &amp; Scrum: Web Development Services Page and More Next.js](https://dev.to/rammina/day-77-of-100-days-of-code-scrum-web-development-services-page-and-more-nextjs-k26)
 - [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #126](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-126-4n7m)
-- [Dev.to/JS] [how to clear parent input field on click of child button?](https://dev.to/kallaguntaashok/how-to-clear-parent-input-field-on-click-of-child-button-3g7)
-- [Dev.to/JS] [DEV_Lintree - LinkTree for DEVELOPERS](https://dev.to/fidalmathew/devlintree-linktree-for-developers-53lg)
-- [Dev.to/JS] [Front-End Development Roadmap For 2022](https://dev.to/workshub/front-end-development-roadmap-for-2022-1149)
-- [Dev.to/JS] [Web Components API: Shadow DOM and Light DOM](https://dev.to/workshub/web-components-api-shadow-dom-and-light-dom-4jab)
-- [Dev.to/JS] [React : Class vs Function Components](https://dev.to/ahtrahdis7/react-class-vs-function-components-j85)
 - [Lifehacker] [The Secret to Really Believing in Yourself](https://lifehacker.com/the-secret-to-really-believing-in-yourself-1848348079)
 - [Lifehacker] [The &lpar;10+2&rpar;*5 Method Will Help You Get More Done in a Day](https://lifehacker.com/the-10-2-5-method-will-help-you-get-more-done-in-a-da-1848347801)
 - [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Protect Your Student Laptop and Accounts From Hackers](https://lifehacker.com/how-to-protect-your-student-laptop-and-accounts-from-ha-1848245958)
 - [Lifehacker] [Why You Should Write in Longhand More Often](https://lifehacker.com/why-you-should-write-in-longhand-more-often-1848339416)
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
-- [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
-- [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
