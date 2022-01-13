@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lume, which is the simplest static site generator for Deno](https://dev.to/kbaba1001/lume-which-is-the-simplest-static-site-generator-for-deno-cjn)
+- [Dev.to/JS] [Principais diferenças entre types e interfaces em TypeScript](https://dev.to/viniciusestevam/principais-diferencas-entre-types-e-interfaces-em-typescript-138o)
 - [Dev.to/JS] [Learn JS Async/Await,  Fetch Requests &amp; APIs by Building a Trivia Game](https://dev.to/amyoulton/learn-js-asyncawait-fetch-requests-apis-by-building-a-trivia-game-2c3i)
 - [Dev.to/JS] [I built an analytics package](https://dev.to/seedacquire/i-built-an-analytics-package-250l)
 - [Dev.to/JS] [Dear JavaScript, I Hope this Email Finds You Well...](https://dev.to/warrend/dear-javascript-i-hope-this-email-finds-you-well-3pno)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Usando &lt;script setup&gt; no vueJS3](https://dev.to/italobarrosme/usando-no-vuejs3-4co1)
 - [Dev.to/JS] [Components search by Bit](https://dev.to/nitsancohen770/components-search-by-bit-5aa3)
 - [Lifehacker] [This App Brings TikTok&#39;s Discoverability to Spotify](https://lifehacker.com/this-app-brings-tiktoks-discoverability-to-spotify-1848345114)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 5](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-5-4gmf)
 - [Lifehacker] [How Long Can You Keep Using the Same N95 Mask?](https://lifehacker.com/how-long-can-you-keep-using-the-same-n95-mask-1848345117)
-- [Dev.to/JS] [Password Protection for Cloudflare Pages](https://dev.to/charca/password-protection-for-cloudflare-pages-8ma)
 - [Lifehacker] [7 of the Best Cloud Storage Services That Are Cheaper Than iCloud, Google One, and OneDrive](https://lifehacker.com/7-of-the-best-cloud-storage-services-that-are-cheaper-t-1848337152)
 - [Lifehacker] [What Are &#39;Comorbidities,&#39; Anyway?](https://lifehacker.com/what-are-comorbidities-anyway-1848346305)
 - [Lifehacker] [Everything You Need to Know to Survive a Tsunami](https://lifehacker.com/everything-you-need-to-know-to-survive-a-tsunami-1848345538)
