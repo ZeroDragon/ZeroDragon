@@ -23,11 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use previous value through a React hook](https://dev.to/robinvdvleuten/use-previous-value-through-a-react-hook-59l7)
+- [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
+- [Dev.to/JS] [Animated Accordion in React JS](https://dev.to/salehmubashar/animated-accordion-in-react-js-2k06)
+- [Dev.to/JS] [My personal website built using HTML, CSS, and vanilla JavaScript](https://dev.to/theinvinciblelearner/my-personal-website-built-using-html-css-and-vanilla-javascript-1lpo)
+- [Lifehacker] [How to Move Without Using a Shitload of Boxes](https://lifehacker.com/how-to-move-without-using-a-shitload-of-boxes-1848254112)
+- [Dev.to/JS] [document.execCommand&lpar;&rpar; Alternative](https://dev.to/mahmoudehab/documentexeccommand-alternative-5a55)
 - [Lifehacker] [Why You Need Dropbox&#39;s New Beta If You Have an M1 Mac](https://lifehacker.com/why-you-need-dropboxs-new-beta-if-you-have-an-m1-mac-1848352613)
 - [Dev.to/JS] [Top 10 Most Useful VSCode Extensions for Web Developers](https://dev.to/ixartz/top-10-most-useful-vscode-extensions-for-web-developers-1414)
 - [Dev.to/JS] [Uselful array methods for dealing with api data.](https://dev.to/vanaf1979/uselful-array-methods-for-dealing-with-api-data-1f4e)
 - [Dev.to/JS] [GENERATE PASSWORD on REACT!](https://dev.to/bigbitdev/generate-password-on-react-48gp)
-- [Dev.to/JS] [Discuss: Do you think learning low level programming would make you a better programmer?](https://dev.to/andi23rosca/discuss-do-you-think-learning-low-level-programming-would-make-you-a-better-programmer-285m)
 - [Lifehacker] [How &#39;Gamification&#39; of Everything Is Manipulating You &lpar;and How to Recognize It&rpar;](https://lifehacker.com/how-gamification-of-everything-is-manipulating-you-and-1848352808)
 - [Dev.to/JS] [You are visitor number...](https://dev.to/seanbond13/you-are-visitor-number-420o)
 - [Dev.to/JS] [To do list app with react typescript and react testing library](https://dev.to/yashasaveekesarwani99/to-do-list-app-with-react-typescript-and-react-testing-library-4a22)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Complete Login / Signup System - MongoDB Atlas 🚀](https://dev.to/jacksonkasi/complete-login-signup-system-mongodb-atlas-2b8l)
 - [Dev.to/JS] [LeetCode - Merge Intervals](https://dev.to/_alkesh26/leetcode-merge-intervals-di0)
 - [Lifehacker] [The Best Free Online Courses Everyone Should Take This Year](https://lifehacker.com/the-best-free-online-courses-everyone-should-take-this-1848352463)
-- [Dev.to/JS] [Top Javascript methods which i use the most ✔️](https://dev.to/shivangchauhan7/top-javascript-methods-which-i-love-to-use-8c2)
-- [Dev.to/JS] [Working with AWS CloudFormation - Part 2](https://dev.to/kevin_odongo35/working-with-aws-cloudformation-part-2-2ak7)
-- [Dev.to/JS] [Paracetamol.js💊| #6: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-6-explica-este-codigo-javascript-1mjm)
 - [Lifehacker] [How to Use Those Full-Screen iMessage Effects on Your Mac](https://lifehacker.com/how-to-use-those-full-screen-imessage-effects-on-your-m-1848351661)
 - [Lifehacker] [Why You Need a Mirror on Your Work Desk](https://lifehacker.com/why-you-need-a-mirror-on-your-work-desk-1848352352)
 - [Lifehacker] [10 Things You Didn&#39;t Know You Could Drag-and-Drop on Your iPhone](https://lifehacker.com/10-things-you-didnt-know-you-could-drag-and-drop-on-you-1848350980)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know to Survive a Tsunami](https://lifehacker.com/everything-you-need-to-know-to-survive-a-tsunami-1848345538)
 - [Lifehacker] [15 DIY Shortcuts That Are Sure to Make Your Home Repairs Easier](https://lifehacker.com/15-diy-shortcuts-that-are-sure-to-make-your-home-repair-1848344693)
 - [Lifehacker] [8 Things You Should Never Put in Your Dishwasher](https://lifehacker.com/8-things-you-should-never-put-in-your-dishwasher-1848341293)
-- [Lifehacker] [9 Ways to Become More Anonymous on Reddit](https://lifehacker.com/9-ways-to-become-more-anonymous-on-reddit-1848343187)
-- [Lifehacker] [26 New TV Series Everyone Will Watch This Year](https://lifehacker.com/26-new-tv-series-everyone-will-watch-this-year-1848329491)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
