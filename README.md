@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Know if a QR Code or a Short URL Is Safe](https://lifehacker.com/how-to-know-if-a-qr-code-or-a-short-url-is-safe-1848346007)
+- [Dev.to/JS] [Top 7 Websites To Get Your First Paid Internship](https://dev.to/thenomadevel/top-7-websites-to-get-your-first-paid-internship-39b1)
+- [Lifehacker] [8 Ways You Can Make Siri Less Annoying](https://lifehacker.com/8-ways-you-can-make-siri-less-annoying-1848343339)
+- [Dev.to/JS] [Today I read an interesting article about .Net 6, I am sharing with you a link](https://dev.to/endryaurum/today-i-read-an-interesting-article-about-net-6-i-am-sharing-with-you-a-link-28bh)
+- [Dev.to/JS] [🎬Login Form Validation | HTML CSS &amp; Javascript🙌](https://dev.to/robsonmuniz16/login-form-validation-html-css-javascript-5alk)
+- [Dev.to/JS] [Next.JS + MUI v5 + TypeScript + Scss + Storybook Starter 📕](https://dev.to/ridhoanshory/nextjs-mui-v5-typescript-scss-storybook-starter-4370)
 - [Lifehacker] [Where to Get Reimbursed for Spoiled Food After a Power Outage](https://lifehacker.com/where-to-get-reimbursed-for-spoiled-food-after-a-power-1848347899)
 - [Dev.to/JS] [How to Change Bootstrap 5 navigation bar styling on scroll without using jQuery](https://dev.to/sampurna/how-to-change-bootstrap-5-navigation-bar-styling-on-scroll-without-using-jquery-gka)
 - [Dev.to/JS] [Day 77 of 100 Days of Code &amp; Scrum: Web Development Services Page and More Next.js](https://dev.to/rammina/day-77-of-100-days-of-code-scrum-web-development-services-page-and-more-nextjs-k26)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Front-End Development Roadmap For 2022](https://dev.to/workshub/front-end-development-roadmap-for-2022-1149)
 - [Dev.to/JS] [Web Components API: Shadow DOM and Light DOM](https://dev.to/workshub/web-components-api-shadow-dom-and-light-dom-4jab)
 - [Dev.to/JS] [React : Class vs Function Components](https://dev.to/ahtrahdis7/react-class-vs-function-components-j85)
-- [Dev.to/JS] [Content Delivery Network &lpar;CDN&rpar; Market Size to Expand at a CAGR of 17.6% during 2021-2026](https://dev.to/marksmithimarc/content-delivery-network-cdn-market-size-to-expand-at-a-cagr-of-176-during-2021-2026-5ejf)
-- [Dev.to/JS] [Two ways to auto focus React input element](https://dev.to/nitsancohen770/two-ways-to-auto-focus-react-input-element-3pcf)
-- [Dev.to/JS] [Break Lock Challenge Game In JavaScript](https://dev.to/kaixinn/break-lock-challenge-game-in-javascript-2bb4)
-- [Dev.to/JS] [Time to say goodbye to Webpack?](https://dev.to/gauravbehere/time-to-say-goodbye-to-webpack-2kn8)
 - [Lifehacker] [The Secret to Really Believing in Yourself](https://lifehacker.com/the-secret-to-really-believing-in-yourself-1848348079)
 - [Lifehacker] [The &lpar;10+2&rpar;*5 Method Will Help You Get More Done in a Day](https://lifehacker.com/the-10-2-5-method-will-help-you-get-more-done-in-a-da-1848347801)
 - [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stream Movies and TV in Virtual Reality](https://lifehacker.com/how-to-stream-movies-and-tv-in-virtual-reality-1848340674)
 - [Lifehacker] [How to Use Up Leftover Fish Without Causing a Stink](https://lifehacker.com/how-to-use-up-leftover-fish-without-causing-a-stink-1848339763)
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
-- [Lifehacker] [9 Roles That Revealed Bob Saget&#39;s Filthy Sense of Humor](https://lifehacker.com/9-roles-that-revealed-bob-sagets-filthy-sense-of-humor-1848337727)
-- [Lifehacker] [How to Stop Being so Damn Self-Deprecating](https://lifehacker.com/how-to-stop-being-so-damn-self-deprecating-1848316538)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
