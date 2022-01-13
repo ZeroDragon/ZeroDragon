@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Javascript Methods Which I Love To Use 😍 ❤️](https://dev.to/shivangchauhan7/top-javascript-methods-which-i-love-to-use-8c2)
+- [Dev.to/JS] [Working with AWS CloudFormation - Part 2](https://dev.to/kevin_odongo35/working-with-aws-cloudformation-part-2-2ak7)
+- [Dev.to/JS] [Paracetamol.js💊| #6: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-6-explica-este-codigo-javascript-1mjm)
+- [Dev.to/JS] [Simple Stopwatch using JavaScript &amp; CSS](https://dev.to/shantanu_jana/simple-stopwatch-using-javascript-css-2531)
+- [Lifehacker] [How to Use Those Full-Screen iMessage Effects on Your Mac](https://lifehacker.com/how-to-use-those-full-screen-imessage-effects-on-your-m-1848351661)
+- [Dev.to/JS] [Roadmap to being a Full Stack Web Developer](https://dev.to/shashank2k19/roadmap-to-being-a-full-stack-web-developer-11m7)
 - [Dev.to/JS] [longest common subsequence](https://dev.to/carnato/longest-common-subsequence-38ed)
 - [Dev.to/JS] [Longest common sequence](https://dev.to/carnato/longest-common-sequence-3oa2)
 - [Lifehacker] [Why You Need a Mirror on Your Work Desk](https://lifehacker.com/why-you-need-a-mirror-on-your-work-desk-1848352352)
@@ -32,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bug Tracker, Project Management tool - The Racoon Tracker](https://dev.to/fabianferno/bug-tracker-project-management-tool-the-racoon-tracker-1b17)
 - [Lifehacker] [10 Things You Didn&#39;t Know You Could Drag-and-Drop on Your iPhone](https://lifehacker.com/10-things-you-didnt-know-you-could-drag-and-drop-on-you-1848350980)
 - [Dev.to/JS] [React Router&#39;s useRoutes hook](https://dev.to/dauntless/react-routers-useroutes-hook-38fc)
-- [Dev.to/JS] [JavaScript Split a String to Array JS methods](https://dev.to/codewithsnowbit/javascript-split-a-string-to-array-js-methods-45n)
-- [Dev.to/JS] [Why you have to use className in React, but not in Preact?](https://dev.to/fromaline/why-you-have-to-use-classname-in-react-but-not-in-preact-3fdm)
-- [Dev.to/JS] [How to build a Hulu clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/how-to-build-a-hulu-clone-with-vanilla-html-css-and-javascript-1667)
-- [Dev.to/JS] [My city&#39;s climate - historical weather data viewer](https://dev.to/karavanjo/my-citys-climate-historical-weather-data-viewer-1mcm)
-- [Dev.to/JS] [Converting to Vite &lpar;Part 2&rpar;](https://dev.to/opensauced/converting-to-vite-part-2-3li0)
 - [Lifehacker] [Do &#39;Legal&#39; Weed Alternatives Really Work?](https://lifehacker.com/do-legal-weed-alternatives-really-work-1848352666)
 - [Lifehacker] [Stop Using Round Measuring Spoons](https://lifehacker.com/stop-using-round-measuring-spoons-1848348945)
 - [Lifehacker] [What Not to Say When You’re Buying or Selling a Home](https://lifehacker.com/what-not-to-say-when-you-re-buying-or-selling-a-home-1848346121)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Eat These Recalled Salads, FDA Says](https://lifehacker.com/don-t-eat-these-recalled-salads-fda-says-1848344484)
 - [Lifehacker] [You Should Waffle Some Falafel Mix](https://lifehacker.com/you-should-waffle-some-falafel-mix-1848341955)
 - [Lifehacker] [Things You Should Never Say to Someone Struggling with Depression](https://lifehacker.com/things-you-should-never-say-to-someone-struggling-with-1848341256)
-- [Lifehacker] [Do You Really Have to Cool Down After Exercise?](https://lifehacker.com/do-you-really-have-to-cool-down-after-exercise-1848341365)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
