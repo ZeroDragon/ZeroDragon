@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best coding practices in React.js](https://dev.to/hitanshimehta/best-coding-practices-in-reactjs-4gmp)
+- [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
+- [Dev.to/JS] [Easy history management for React with Mlyn](https://dev.to/vaukalak/easy-history-management-for-react-with-mlyn-lgf)
+- [Dev.to/JS] [Build A Simple Vue 3 App and Enjoy Astronomy! &lpar;Part 3 of 3&rpar;](https://dev.to/stoicllama/build-a-simple-vue-3-app-and-enjoy-astronomy-part-3-of-3-1cc1)
+- [Dev.to/JS] [Build A Simple Vue 3 App and Enjoy Astronomy! &lpar;Part 2 of 3&rpar;](https://dev.to/stoicllama/build-a-simple-vue-3-app-and-enjoy-astronomy-part-2-of-3-27g5)
+- [Dev.to/JS] [Build A Simple Vue 3 App and Enjoy Astronomy! &lpar;Part 1 of 3&rpar;](https://dev.to/stoicllama/build-a-simple-vue-3-app-and-enjoy-astronomy-part-1-of-3-132a)
+- [Dev.to/JS] [Advertencia sobre las declaraciones prospectivas](https://dev.to/opinionesetroi/advertencia-sobre-las-declaraciones-prospectivas-254b)
 - [Dev.to/JS] [Use previous value through a React hook](https://dev.to/robinvdvleuten/use-previous-value-through-a-react-hook-59l7)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
 - [Dev.to/JS] [Animated Accordion in React JS](https://dev.to/salehmubashar/animated-accordion-in-react-js-2k06)
@@ -32,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need Dropbox&#39;s New Beta If You Have an M1 Mac](https://lifehacker.com/why-you-need-dropboxs-new-beta-if-you-have-an-m1-mac-1848352613)
 - [Dev.to/JS] [Top 10 Most Useful VSCode Extensions for Web Developers](https://dev.to/ixartz/top-10-most-useful-vscode-extensions-for-web-developers-1414)
 - [Dev.to/JS] [Uselful array methods for dealing with api data.](https://dev.to/vanaf1979/uselful-array-methods-for-dealing-with-api-data-1f4e)
-- [Dev.to/JS] [GENERATE PASSWORD on REACT!](https://dev.to/bigbitdev/generate-password-on-react-48gp)
 - [Lifehacker] [How &#39;Gamification&#39; of Everything Is Manipulating You &lpar;and How to Recognize It&rpar;](https://lifehacker.com/how-gamification-of-everything-is-manipulating-you-and-1848352808)
-- [Dev.to/JS] [You are visitor number...](https://dev.to/seanbond13/you-are-visitor-number-420o)
-- [Dev.to/JS] [To do list app with react typescript and react testing library](https://dev.to/yashasaveekesarwani99/to-do-list-app-with-react-typescript-and-react-testing-library-4a22)
-- [Dev.to/JS] [Building email signup form for Docusaurus with hCaptcha, Cloudflare Pages and Mailgun](https://dev.to/pglet/building-email-signup-form-for-docusaurus-with-hcaptcha-cloudflare-pages-and-mailgun-39cj)
-- [Dev.to/JS] [Complete Login / Signup System - MongoDB Atlas 🚀](https://dev.to/jacksonkasi/complete-login-signup-system-mongodb-atlas-2b8l)
-- [Dev.to/JS] [LeetCode - Merge Intervals](https://dev.to/_alkesh26/leetcode-merge-intervals-di0)
 - [Lifehacker] [The Best Free Online Courses Everyone Should Take This Year](https://lifehacker.com/the-best-free-online-courses-everyone-should-take-this-1848352463)
 - [Lifehacker] [How to Use Those Full-Screen iMessage Effects on Your Mac](https://lifehacker.com/how-to-use-those-full-screen-imessage-effects-on-your-m-1848351661)
 - [Lifehacker] [Why You Need a Mirror on Your Work Desk](https://lifehacker.com/why-you-need-a-mirror-on-your-work-desk-1848352352)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are &#39;Comorbidities,&#39; Anyway?](https://lifehacker.com/what-are-comorbidities-anyway-1848346305)
 - [Lifehacker] [Everything You Need to Know to Survive a Tsunami](https://lifehacker.com/everything-you-need-to-know-to-survive-a-tsunami-1848345538)
 - [Lifehacker] [15 DIY Shortcuts That Are Sure to Make Your Home Repairs Easier](https://lifehacker.com/15-diy-shortcuts-that-are-sure-to-make-your-home-repair-1848344693)
-- [Lifehacker] [8 Things You Should Never Put in Your Dishwasher](https://lifehacker.com/8-things-you-should-never-put-in-your-dishwasher-1848341293)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
