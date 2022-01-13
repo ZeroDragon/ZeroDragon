@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn JS Async/Await,  Fetch Requests &amp; APIs by Building a Trivia Game](https://dev.to/amyoulton/learn-js-asyncawait-fetch-requests-apis-by-building-a-trivia-game-2c3i)
+- [Dev.to/JS] [I built an analytics package](https://dev.to/seedacquire/i-built-an-analytics-package-250l)
 - [Dev.to/JS] [Dear JavaScript, I Hope this Email Finds You Well...](https://dev.to/warrend/dear-javascript-i-hope-this-email-finds-you-well-3pno)
 - [Dev.to/JS] [Easy and quick infinite scroll with Next.js and react-query](https://dev.to/elisabethleonhardt/easy-and-quick-infinite-scroll-with-nextjs-and-react-query-36lh)
 - [Dev.to/JS] [React.js:  useRef&lpar;&rpar; hook](https://dev.to/ridhamz/reactjs-useref-hook-2nke)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 5](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-5-4gmf)
 - [Lifehacker] [How Long Can You Keep Using the Same N95 Mask?](https://lifehacker.com/how-long-can-you-keep-using-the-same-n95-mask-1848345117)
 - [Dev.to/JS] [Password Protection for Cloudflare Pages](https://dev.to/charca/password-protection-for-cloudflare-pages-8ma)
-- [Dev.to/JS] [LIVE Streamed My Project on YouTube Every Week for 1 YEAR!](https://dev.to/dustinbrett/live-streamed-my-project-on-youtube-every-week-for-1-year-2jhd)
-- [Dev.to/JS] [Enforcing Node.js, npm, and Yarn Versions](https://dev.to/chrisjshepherd/enforcing-nodejs-npm-and-yarn-versions-32ii)
 - [Lifehacker] [7 of the Best Cloud Storage Services That Are Cheaper Than iCloud, Google One, and OneDrive](https://lifehacker.com/7-of-the-best-cloud-storage-services-that-are-cheaper-t-1848337152)
 - [Lifehacker] [What Are &#39;Comorbidities,&#39; Anyway?](https://lifehacker.com/what-are-comorbidities-anyway-1848346305)
 - [Lifehacker] [Everything You Need to Know to Survive a Tsunami](https://lifehacker.com/everything-you-need-to-know-to-survive-a-tsunami-1848345538)
