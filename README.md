@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Components API: Shadow DOM and Light DOM](https://dev.to/workshub/web-components-api-shadow-dom-and-light-dom-4jab)
+- [Dev.to/JS] [React : Class vs Function Components](https://dev.to/ahtrahdis7/react-class-vs-function-components-j85)
+- [Dev.to/JS] [Content Delivery Network &lpar;CDN&rpar; Market Size to Expand at a CAGR of 17.6% during 2021-2026](https://dev.to/marksmithimarc/content-delivery-network-cdn-market-size-to-expand-at-a-cagr-of-176-during-2021-2026-5ejf)
 - [Dev.to/JS] [Two ways to auto focus React input element](https://dev.to/nitsancohen770/two-ways-to-auto-focus-react-input-element-3pcf)
 - [Dev.to/JS] [Break Lock Challenge Game In JavaScript](https://dev.to/kaixinn/break-lock-challenge-game-in-javascript-2bb4)
 - [Dev.to/JS] [Time to say goodbye to Webpack?](https://dev.to/gauravbehere/time-to-say-goodbye-to-webpack-2kn8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Avoid unnecessary errors when conditionally rendering in React with &quot;Optional Chaining.&quot;](https://dev.to/kachidk/avoid-unnecessary-errors-when-conditionally-rendering-in-react-with-optional-chaining-2ol7)
 - [Dev.to/JS] [CleanDocs A Documentation Template](https://dev.to/lmas3009/cleandocs-a-documentation-template-59h9)
 - [Dev.to/JS] [Is Some Issue Taking Place While Making Payments From Cash App To PayPal?](https://dev.to/keikismith/is-some-issue-taking-place-while-making-payments-from-cash-app-to-paypal-42cf)
-- [Dev.to/JS] [React Input In 7 Minutes - React Forms and State Explained](https://dev.to/gargkunal/react-input-in-7-minutes-react-forms-and-state-explained-ie)
-- [Dev.to/JS] [Copying Items to Clipboard Without Using Clipboard API](https://dev.to/ertanozdemir/copying-items-to-clipboard-without-using-clipboard-api-1a2o)
-- [Dev.to/JS] [How to learn while working on personal projects](https://dev.to/how-to-dev/how-to-learn-while-working-on-personal-projects-10gk)
 - [Lifehacker] [The Secret to Really Believing in Yourself](https://lifehacker.com/the-secret-to-really-believing-in-yourself-1848348079)
 - [Lifehacker] [The &lpar;10+2&rpar;*5 Method Will Help You Get More Done in a Day](https://lifehacker.com/the-10-2-5-method-will-help-you-get-more-done-in-a-da-1848347801)
 - [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
