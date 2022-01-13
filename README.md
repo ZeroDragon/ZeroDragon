@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 6](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-6-2i1o)
 - [Dev.to/JS] [How to display SVG files and change colors dynamically in React Native.](https://dev.to/kurokky/how-to-display-svg-files-and-change-colors-dynamically-in-react-native-3e2i)
 - [Dev.to/JS] [Leetcode diary: 931. Minimum Falling Path Sum [DP]](https://dev.to/kevin074/leetcode-diary-931-minimum-falling-path-sum-dp-a00)
 - [Dev.to/JS] [Lume, which is the simplest static site generator for Deno](https://dev.to/kbaba1001/lume-which-is-the-simplest-static-site-generator-for-deno-cjn)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The &lpar;10+2&rpar;*5 Method Will Help You Get More Done in a Day](https://lifehacker.com/the-10-2-5-method-will-help-you-get-more-done-in-a-da-1848347801)
 - [Dev.to/JS] [Using Storybook in React Native](https://dev.to/snowlew/using-storybook-in-react-native-2492)
 - [Dev.to/JS] [understanding Bubble sort algorithm by sorting levi ackraman character on attack of titans anime](https://dev.to/shatud/understanding-bubble-sort-algorithm-by-sorting-levi-ackraman-character-on-attack-of-titans-anime-oe3)
-- [Dev.to/JS] [Apple TV - Remote with CSS](https://dev.to/oguzergul/apple-tv-remote-with-css-448o)
 - [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
 - [Lifehacker] [This App Brings TikTok&#39;s Discoverability to Spotify](https://lifehacker.com/this-app-brings-tiktoks-discoverability-to-spotify-1848345114)
 - [Lifehacker] [How Long Can You Keep Using the Same N95 Mask?](https://lifehacker.com/how-long-can-you-keep-using-the-same-n95-mask-1848345117)
