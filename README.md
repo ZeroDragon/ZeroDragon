@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I target an Element By Class Name in JavaScript](https://dev.to/davidfrempong/how-i-target-an-element-by-class-name-in-javascript-p6)
+- [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
+- [Dev.to/JS] [Why the VAR and LET keywords shouldn&#39;t be used interchangeably](https://dev.to/richardbray/why-the-var-and-let-keywords-shouldnt-be-used-interchangeably-3n07)
 - [Dev.to/JS] [Best coding practices in React.js](https://dev.to/hitanshimehta/best-coding-practices-in-reactjs-4gmp)
 - [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
 - [Dev.to/JS] [Easy history management for React with Mlyn](https://dev.to/vaukalak/easy-history-management-for-react-with-mlyn-lgf)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Move Without Using a Shitload of Boxes](https://lifehacker.com/how-to-move-without-using-a-shitload-of-boxes-1848254112)
 - [Dev.to/JS] [document.execCommand&lpar;&rpar; Alternative](https://dev.to/mahmoudehab/documentexeccommand-alternative-5a55)
 - [Lifehacker] [Why You Need Dropbox&#39;s New Beta If You Have an M1 Mac](https://lifehacker.com/why-you-need-dropboxs-new-beta-if-you-have-an-m1-mac-1848352613)
-- [Dev.to/JS] [Top 10 Most Useful VSCode Extensions for Web Developers](https://dev.to/ixartz/top-10-most-useful-vscode-extensions-for-web-developers-1414)
-- [Dev.to/JS] [Uselful array methods for dealing with api data.](https://dev.to/vanaf1979/uselful-array-methods-for-dealing-with-api-data-1f4e)
 - [Lifehacker] [How &#39;Gamification&#39; of Everything Is Manipulating You &lpar;and How to Recognize It&rpar;](https://lifehacker.com/how-gamification-of-everything-is-manipulating-you-and-1848352808)
 - [Lifehacker] [The Best Free Online Courses Everyone Should Take This Year](https://lifehacker.com/the-best-free-online-courses-everyone-should-take-this-1848352463)
 - [Lifehacker] [How to Use Those Full-Screen iMessage Effects on Your Mac](https://lifehacker.com/how-to-use-those-full-screen-imessage-effects-on-your-m-1848351661)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 of the Best Cloud Storage Services That Are Cheaper Than iCloud, Google One, and OneDrive](https://lifehacker.com/7-of-the-best-cloud-storage-services-that-are-cheaper-t-1848337152)
 - [Lifehacker] [What Are &#39;Comorbidities,&#39; Anyway?](https://lifehacker.com/what-are-comorbidities-anyway-1848346305)
 - [Lifehacker] [Everything You Need to Know to Survive a Tsunami](https://lifehacker.com/everything-you-need-to-know-to-survive-a-tsunami-1848345538)
-- [Lifehacker] [15 DIY Shortcuts That Are Sure to Make Your Home Repairs Easier](https://lifehacker.com/15-diy-shortcuts-that-are-sure-to-make-your-home-repair-1848344693)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
