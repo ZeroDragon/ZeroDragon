@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to display SVG files and change colors dynamically in React Native.](https://dev.to/kurokky/how-to-display-svg-files-and-change-colors-dynamically-in-react-native-3e2i)
 - [Dev.to/JS] [Leetcode diary: 931. Minimum Falling Path Sum [DP]](https://dev.to/kevin074/leetcode-diary-931-minimum-falling-path-sum-dp-a00)
 - [Dev.to/JS] [Lume, which is the simplest static site generator for Deno](https://dev.to/kbaba1001/lume-which-is-the-simplest-static-site-generator-for-deno-cjn)
 - [Dev.to/JS] [Principais diferenças entre types e interfaces em TypeScript](https://dev.to/viniciusestevam/principais-diferencas-entre-types-e-interfaces-em-typescript-138o)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [understanding Bubble sort algorithm by sorting levi ackraman character on attack of titans anime](https://dev.to/shatud/understanding-bubble-sort-algorithm-by-sorting-levi-ackraman-character-on-attack-of-titans-anime-oe3)
 - [Dev.to/JS] [Apple TV - Remote with CSS](https://dev.to/oguzergul/apple-tv-remote-with-css-448o)
 - [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
-- [Dev.to/JS] [Usando &lt;script setup&gt; no vueJS3](https://dev.to/italobarrosme/usando-no-vuejs3-4co1)
 - [Lifehacker] [This App Brings TikTok&#39;s Discoverability to Spotify](https://lifehacker.com/this-app-brings-tiktoks-discoverability-to-spotify-1848345114)
 - [Lifehacker] [How Long Can You Keep Using the Same N95 Mask?](https://lifehacker.com/how-long-can-you-keep-using-the-same-n95-mask-1848345117)
 - [Lifehacker] [7 of the Best Cloud Storage Services That Are Cheaper Than iCloud, Google One, and OneDrive](https://lifehacker.com/7-of-the-best-cloud-storage-services-that-are-cheaper-t-1848337152)
