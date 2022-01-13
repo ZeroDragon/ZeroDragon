@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Get Reimbursed for Spoiled Food After a Power Outage](https://lifehacker.com/where-to-get-reimbursed-for-spoiled-food-after-a-power-1848347899)
+- [Dev.to/JS] [How to Change Bootstrap 5 navigation bar styling on scroll without using jQuery](https://dev.to/sampurna/how-to-change-bootstrap-5-navigation-bar-styling-on-scroll-without-using-jquery-gka)
 - [Dev.to/JS] [Day 77 of 100 Days of Code &amp; Scrum: Web Development Services Page and More Next.js](https://dev.to/rammina/day-77-of-100-days-of-code-scrum-web-development-services-page-and-more-nextjs-k26)
-- [Dev.to/JS] [How Good is Shopify for Your eCommerce Website Development?](https://dev.to/freita_browning/how-good-is-shopify-for-your-ecommerce-website-development-5ac9)
+- [Dev.to/JS] [🔥 Trending News, Repos and Products of the day - Digest #126](https://dev.to/hackertab/trending-news-repos-and-products-of-the-day-digest-126-4n7m)
 - [Dev.to/JS] [how to clear parent input field on click of child button?](https://dev.to/kallaguntaashok/how-to-clear-parent-input-field-on-click-of-child-button-3g7)
 - [Dev.to/JS] [DEV_Lintree - LinkTree for DEVELOPERS](https://dev.to/fidalmathew/devlintree-linktree-for-developers-53lg)
 - [Dev.to/JS] [Front-End Development Roadmap For 2022](https://dev.to/workshub/front-end-development-roadmap-for-2022-1149)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Two ways to auto focus React input element](https://dev.to/nitsancohen770/two-ways-to-auto-focus-react-input-element-3pcf)
 - [Dev.to/JS] [Break Lock Challenge Game In JavaScript](https://dev.to/kaixinn/break-lock-challenge-game-in-javascript-2bb4)
 - [Dev.to/JS] [Time to say goodbye to Webpack?](https://dev.to/gauravbehere/time-to-say-goodbye-to-webpack-2kn8)
-- [Dev.to/JS] [2](https://dev.to/trungjamin/2-38nc)
 - [Lifehacker] [The Secret to Really Believing in Yourself](https://lifehacker.com/the-secret-to-really-believing-in-yourself-1848348079)
 - [Lifehacker] [The &lpar;10+2&rpar;*5 Method Will Help You Get More Done in a Day](https://lifehacker.com/the-10-2-5-method-will-help-you-get-more-done-in-a-da-1848347801)
 - [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google Chrome Can Identify Any Song in a Movie While You Stream It](https://lifehacker.com/google-chrome-can-identify-any-song-in-a-movie-while-yo-1848338495)
 - [Lifehacker] [9 Roles That Revealed Bob Saget&#39;s Filthy Sense of Humor](https://lifehacker.com/9-roles-that-revealed-bob-sagets-filthy-sense-of-humor-1848337727)
 - [Lifehacker] [How to Stop Being so Damn Self-Deprecating](https://lifehacker.com/how-to-stop-being-so-damn-self-deprecating-1848316538)
-- [Lifehacker] [The Easiest Way to Retile Your Shower Floor](https://lifehacker.com/the-easiest-way-to-retile-your-shower-floor-1848338026)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
 - [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
 - [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
