@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 77 of 100 Days of Code &amp; Scrum: Web Development Services Page and More Next.js](https://dev.to/rammina/day-77-of-100-days-of-code-scrum-web-development-services-page-and-more-nextjs-k26)
+- [Dev.to/JS] [How Good is Shopify for Your eCommerce Website Development?](https://dev.to/freita_browning/how-good-is-shopify-for-your-ecommerce-website-development-5ac9)
+- [Dev.to/JS] [how to clear parent input field on click of child button?](https://dev.to/kallaguntaashok/how-to-clear-parent-input-field-on-click-of-child-button-3g7)
+- [Dev.to/JS] [DEV_Lintree - LinkTree for DEVELOPERS](https://dev.to/fidalmathew/devlintree-linktree-for-developers-53lg)
+- [Dev.to/JS] [Front-End Development Roadmap For 2022](https://dev.to/workshub/front-end-development-roadmap-for-2022-1149)
 - [Dev.to/JS] [Web Components API: Shadow DOM and Light DOM](https://dev.to/workshub/web-components-api-shadow-dom-and-light-dom-4jab)
 - [Dev.to/JS] [React : Class vs Function Components](https://dev.to/ahtrahdis7/react-class-vs-function-components-j85)
 - [Dev.to/JS] [Content Delivery Network &lpar;CDN&rpar; Market Size to Expand at a CAGR of 17.6% during 2021-2026](https://dev.to/marksmithimarc/content-delivery-network-cdn-market-size-to-expand-at-a-cagr-of-176-during-2021-2026-5ejf)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Break Lock Challenge Game In JavaScript](https://dev.to/kaixinn/break-lock-challenge-game-in-javascript-2bb4)
 - [Dev.to/JS] [Time to say goodbye to Webpack?](https://dev.to/gauravbehere/time-to-say-goodbye-to-webpack-2kn8)
 - [Dev.to/JS] [2](https://dev.to/trungjamin/2-38nc)
-- [Dev.to/JS] [Learn Next.js by creating a static HTML webpage](https://dev.to/itminds/learn-nextjs-by-creating-a-static-html-webpage-4l60)
-- [Dev.to/JS] [What are the uses of JavaScript](https://dev.to/heyvik/what-are-the-uses-of-javascript-gk6)
-- [Dev.to/JS] [Avoid unnecessary errors when conditionally rendering in React with &quot;Optional Chaining.&quot;](https://dev.to/kachidk/avoid-unnecessary-errors-when-conditionally-rendering-in-react-with-optional-chaining-2ol7)
-- [Dev.to/JS] [CleanDocs A Documentation Template](https://dev.to/lmas3009/cleandocs-a-documentation-template-59h9)
-- [Dev.to/JS] [Is Some Issue Taking Place While Making Payments From Cash App To PayPal?](https://dev.to/keikismith/is-some-issue-taking-place-while-making-payments-from-cash-app-to-paypal-42cf)
 - [Lifehacker] [The Secret to Really Believing in Yourself](https://lifehacker.com/the-secret-to-really-believing-in-yourself-1848348079)
 - [Lifehacker] [The &lpar;10+2&rpar;*5 Method Will Help You Get More Done in a Day](https://lifehacker.com/the-10-2-5-method-will-help-you-get-more-done-in-a-da-1848347801)
 - [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
