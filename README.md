@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #10: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-10-que-imprime-este-codigo-javascript-13kk)
+- [Dev.to/JS] [DECENTRALIZED UMOJA 2021](https://dev.to/watiriroyalty/decentralized-umoja-2021-1g1k)
+- [Dev.to/JS] [Paracetamol.js💊| #9: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-9-que-imprime-este-codigo-javascript-p4c)
 - [Dev.to/JS] [How Roles cause Missing Permission Errors in Discord.js](https://dev.to/terabytetiger/how-roles-cause-missing-permission-errors-in-discordjs-1ji7)
 - [Dev.to/JS] [Web Components with Svelte](https://dev.to/thisdotmedia/web-components-with-svelte-4hd7)
 - [Dev.to/JS] [Runtime Data Validation from TypeScript Interfaces](https://dev.to/garrettmills/runtime-data-validation-from-typescript-interfaces-3j8d)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Dev.to/JS] [Top Tips to Secure Your Vue Application](https://dev.to/grapecity/top-tips-to-secure-your-vue-application-3jb2)
 - [Dev.to/JS] [A recipe sharing web app with Django and React](https://dev.to/earthcomfy/a-recipe-sharing-web-app-with-django-and-react-1n40)
-- [Dev.to/JS] [TypeScript Tips and Tricks](https://dev.to/grapecity/typescript-tips-and-tricks-26ki)
-- [Dev.to/JS] [Drag and Drop in React with React DnD](https://dev.to/jyeett/drag-and-drop-in-react-with-react-dnd-243f)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
-- [Dev.to/JS] [Generate JHipster + Svelte/Kit web applications](https://dev.to/vishal423/generate-jhipster-sveltekit-web-applications-3b5e)
 - [Lifehacker] [How to Permanently Delete Your Reddit Account &lpar;or Your Old, Embarrassing Posts&rpar;](https://lifehacker.com/how-to-permanently-delete-your-reddit-account-or-your-1848358561)
 - [Lifehacker] [Is the &#39;Nocebo Effect&#39; Hurting Your Fitness Goals?](https://lifehacker.com/is-the-nocebo-effect-hurting-your-health-goals-1848360955)
 - [Lifehacker] [How to Make a Cheap DIY Canopy Bed](https://lifehacker.com/how-to-make-a-cheap-diy-canopy-bed-1848358179)
