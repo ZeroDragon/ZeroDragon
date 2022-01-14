@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Have You Been Eating Bananas Wrong This Whole Time?](https://lifehacker.com/have-you-been-eating-bananas-wrong-this-whole-time-1848354915)
+- [Dev.to/JS] [50 lines of JavaScript: animated source code statistics with Vizzu](https://dev.to/kiriwi/50-lines-of-javascript-animated-source-code-statistics-with-vizzu-oi7)
 - [Dev.to/JS] [3. Accessing by value and references](https://dev.to/sungjuneun/3-accessing-by-value-and-references-14a2)
 - [Dev.to/JS] [JUnit Complete Tutorial For Beginners](https://dev.to/lambdatest/junit-complete-tutorial-for-beginners-5a78)
 - [Dev.to/JS] [Vue.js and Node.js tutorial: a realtime collaboration app hosted in Azure Static Web Apps](https://dev.to/ablydev/vuejs-and-nodejs-tutorial-a-realtime-collaboration-app-hosted-in-azure-static-web-apps-13pa)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leetcode diary: 526. Beautiful Arrangement  [Backtracking]](https://dev.to/kevin074/leetcode-diary-526-beautiful-arrangement-backtracking-2d38)
 - [Dev.to/JS] [Understanding Javascript imports and exports](https://dev.to/wearethreebears/understanding-javascript-imports-and-exports-f7b)
 - [Dev.to/JS] [8 JAVASCRIPT ARRAY Methods for Beginner](https://dev.to/officialkamran/8-javascript-array-methods-for-beginner-49ad)
-- [Dev.to/JS] [&#39;This&#39; in Javascript](https://dev.to/naveenchandar/this-in-javascript-i84)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 - [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Long Can You Keep Using the Same N95 Mask?](https://lifehacker.com/how-long-can-you-keep-using-the-same-n95-mask-1848345117)
 - [Lifehacker] [7 of the Best Cloud Storage Services That Are Cheaper Than iCloud, Google One, and OneDrive](https://lifehacker.com/7-of-the-best-cloud-storage-services-that-are-cheaper-t-1848337152)
 - [Lifehacker] [What Are &#39;Comorbidities,&#39; Anyway?](https://lifehacker.com/what-are-comorbidities-anyway-1848346305)
-- [Lifehacker] [Everything You Need to Know to Survive a Tsunami](https://lifehacker.com/everything-you-need-to-know-to-survive-a-tsunami-1848345538)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)<!-- TECH-POSTS:END -->
