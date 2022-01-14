@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [dfasdf](https://dev.to/chrisyeung1121/dfasdf-5acg)
+- [Dev.to/JS] [Developing Chrome Extensions with Amplify Authentication](https://dev.to/kenmiyashita/developing-chrome-extensions-with-amplify-authentication-22an)
+- [Dev.to/JS] [Set up a local Prisma instance](https://dev.to/dailydevtips1/set-up-a-local-prisma-instance-2anf)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 7](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-7-3fk2)
 - [Dev.to/JS] [How to Fix If Java inheritance is not working](https://dev.to/varunsingh/how-to-fix-if-java-inheritance-is-not-working-32o8)
 - [Dev.to/JS] [I published My new Chapter](https://dev.to/subhransuindia/i-published-my-new-chapter-2pao)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding the Container Component Pattern with React Hooks](https://dev.to/asayerio_techblog/understanding-the-container-component-pattern-with-react-hooks-2pf6)
 - [Dev.to/JS] [Uploading Images to Django REST Framework from Forms in React](https://dev.to/thomz/uploading-images-to-django-rest-framework-from-forms-in-react-3jhj)
 - [Dev.to/JS] [To-Do List using HTML, CSS and JavaScript](https://dev.to/hrushikesh41/to-do-list-using-html-css-and-javascript-3kp6)
-- [Dev.to/JS] [My Daily Reads - Tailored dev content delivered to your inbox.](https://dev.to/xinnks/my-daily-reads-tailored-dev-content-delivered-to-your-inbox-3ak0)
-- [Dev.to/JS] [#15 - Digits explosion               CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/14-digits-explosion-codewars-kata-7-kyu-13je)
-- [Dev.to/JS] [First post](https://dev.to/gregnavarro/first-post-5hfo)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 - [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
