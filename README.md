@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8 JAVASCRIPT ARRAY Methods for Beginner](https://dev.to/officialkamran/8-javascript-array-methods-for-beginner-1n99)
+- [Dev.to/JS] [Why practicing DRY in tests is bad for you](https://dev.to/mbarzeev/why-practicing-dry-in-tests-is-bad-for-you-j7f)
+- [Dev.to/JS] [My personal package manager odyssey](https://dev.to/flodev/my-personal-package-manager-odyssey-557e)
+- [Dev.to/JS] [Math.floor&lpar;&rpar; to get difference between two timestamps](https://dev.to/dezforb/mathfloor-to-get-difference-between-two-timestamps-a40)
+- [Dev.to/JS] [JS Variable](https://dev.to/shinyo627/js-variable-17gc)
 - [Dev.to/JS] [Clean  Code - Javascript](https://dev.to/swrjp/clean-code-javascript-2hla)
 - [Dev.to/JS] [Phen24 - Weight Loss Supplement, Price, Reviews And Results](https://dev.to/phen24pills1/phen24-weight-loss-supplement-price-reviews-and-results-8kk)
 - [Dev.to/JS] [JS Intro](https://dev.to/shinyo627/js-intro-397i)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What they heck is Event Loop](https://dev.to/danities316/what-they-heck-is-event-loop-294k)
 - [Dev.to/JS] [How do websites work](https://dev.to/danities316/how-do-websites-work-2bd0)
 - [Dev.to/JS] [Redis Weekly Updates&lpar;Jan 14, 2022&rpar; - Latest Blogs, Tutorials,  Sample Apps &amp; Events](https://dev.to/redis/redis-weekly-updatesjan-14-2022-latest-blogs-tutorials-sample-apps-events-905)
-- [Dev.to/JS] [dfasdf](https://dev.to/chrisyeung1121/dfasdf-5acg)
-- [Dev.to/JS] [Developing Chrome Extensions with Amplify Authentication](https://dev.to/kenmiyashita/developing-chrome-extensions-with-amplify-authentication-22an)
-- [Dev.to/JS] [Set up a local Prisma instance](https://dev.to/dailydevtips1/set-up-a-local-prisma-instance-2anf)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 7](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-7-3fk2)
-- [Dev.to/JS] [How to Fix If Java inheritance is not working](https://dev.to/varunsingh/how-to-fix-if-java-inheritance-is-not-working-32o8)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 - [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
@@ -60,9 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 of the Best Cloud Storage Services That Are Cheaper Than iCloud, Google One, and OneDrive](https://lifehacker.com/7-of-the-best-cloud-storage-services-that-are-cheaper-t-1848337152)
 - [Lifehacker] [What Are &#39;Comorbidities,&#39; Anyway?](https://lifehacker.com/what-are-comorbidities-anyway-1848346305)
 - [Lifehacker] [Everything You Need to Know to Survive a Tsunami](https://lifehacker.com/everything-you-need-to-know-to-survive-a-tsunami-1848345538)
-- [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)
-- [Crazy Programmer] [JSON to XML Converter Online](https://www.thecrazyprogrammer.com/2022/01/json-to-xml-converter.html)
-- [Crazy Programmer] [Top 10 Things Your Boss Wishes You Knew about Dashboards](https://www.thecrazyprogrammer.com/2022/01/top-10-things-your-boss-wishes-you-knew-about-dashboards.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
+- [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)
+- [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)<!-- TECH-POSTS:END -->
 
 ---
 
