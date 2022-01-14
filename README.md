@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3. Accessing by value and references](https://dev.to/sungjuneun/3-accessing-by-value-and-references-14a2)
+- [Dev.to/JS] [JUnit Complete Tutorial For Beginners](https://dev.to/lambdatest/junit-complete-tutorial-for-beginners-5a78)
+- [Dev.to/JS] [Vue.js and Node.js tutorial: a realtime collaboration app hosted in Azure Static Web Apps](https://dev.to/ablydev/vuejs-and-nodejs-tutorial-a-realtime-collaboration-app-hosted-in-azure-static-web-apps-13pa)
+- [Dev.to/JS] [How to structure your Express and Node.Js project](https://dev.to/nermineslimane/how-to-structure-your-express-and-nodejs-project-3bl)
 - [Dev.to/JS] [Add a &#39;copy code to clipboard&#39; button to your blog&#39;s code blocks](https://dev.to/robole/add-a-copy-code-to-clipboard-button-to-your-blogs-code-blocks-545j)
 - [Dev.to/JS] [JavaScript Challenges - New platform JSCodebox launched! 🎉](https://dev.to/webdeasy/javascript-challenges-new-online-platform-jscodebox-launched-269f)
 - [Dev.to/JS] [Create an Animated Accordion in React JS !](https://dev.to/salehmubashar/animated-accordion-in-react-js-1a6h)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Javascript imports and exports](https://dev.to/wearethreebears/understanding-javascript-imports-and-exports-f7b)
 - [Dev.to/JS] [8 JAVASCRIPT ARRAY Methods for Beginner](https://dev.to/officialkamran/8-javascript-array-methods-for-beginner-49ad)
 - [Dev.to/JS] [&#39;This&#39; in Javascript](https://dev.to/naveenchandar/this-in-javascript-i84)
-- [Dev.to/JS] [Why practicing DRY in tests is bad for you](https://dev.to/mbarzeev/why-practicing-dry-in-tests-is-bad-for-you-j7f)
-- [Dev.to/JS] [My personal package bundler odyssey](https://dev.to/flodev/my-personal-package-manager-odyssey-557e)
-- [Dev.to/JS] [Math.floor&lpar;&rpar; to get difference between two timestamps](https://dev.to/dezforb/mathfloor-to-get-difference-between-two-timestamps-a40)
-- [Dev.to/JS] [JS Variable](https://dev.to/shinyo627/js-variable-17gc)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 - [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
