@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Event emails reminder using Mongo DB Atlas](https://dev.to/shivamarora1/event-emails-reminder-using-mongo-db-atlas-29b5)
+- [Dev.to/JS] [React Inner Image Zoom Version 3.0.0](https://dev.to/laurenashpole/react-inner-image-zoom-version-300-2p5e)
+- [Dev.to/JS] [LinkShortner with NextJS,NodeJS and MongoDB](https://dev.to/ataur39n/linkshortner-with-nextjsnodejs-and-mongodb-1l1e)
 - [Dev.to/JS] [How I target an Element By Class Name in JavaScript](https://dev.to/davidfrempong/how-i-target-an-element-by-class-name-in-javascript-p6)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 - [Dev.to/JS] [Why the VAR and LET keywords shouldn&#39;t be used interchangeably](https://dev.to/richardbray/why-the-var-and-let-keywords-shouldnt-be-used-interchangeably-3n07)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advertencia sobre las declaraciones prospectivas](https://dev.to/opinionesetroi/advertencia-sobre-las-declaraciones-prospectivas-254b)
 - [Dev.to/JS] [Use previous value through a React hook](https://dev.to/robinvdvleuten/use-previous-value-through-a-react-hook-59l7)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
-- [Dev.to/JS] [Animated Accordion in React JS](https://dev.to/salehmubashar/animated-accordion-in-react-js-2k06)
-- [Dev.to/JS] [My personal website built using HTML, CSS, and vanilla JavaScript](https://dev.to/theinvinciblelearner/my-personal-website-built-using-html-css-and-vanilla-javascript-1lpo)
 - [Lifehacker] [How to Move Without Using a Shitload of Boxes](https://lifehacker.com/how-to-move-without-using-a-shitload-of-boxes-1848254112)
-- [Dev.to/JS] [document.execCommand&lpar;&rpar; Alternative](https://dev.to/mahmoudehab/documentexeccommand-alternative-5a55)
 - [Lifehacker] [Why You Need Dropbox&#39;s New Beta If You Have an M1 Mac](https://lifehacker.com/why-you-need-dropboxs-new-beta-if-you-have-an-m1-mac-1848352613)
 - [Lifehacker] [How &#39;Gamification&#39; of Everything Is Manipulating You &lpar;and How to Recognize It&rpar;](https://lifehacker.com/how-gamification-of-everything-is-manipulating-you-and-1848352808)
 - [Lifehacker] [The Best Free Online Courses Everyone Should Take This Year](https://lifehacker.com/the-best-free-online-courses-everyone-should-take-this-1848352463)
