@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make a Cheap DIY Canopy Bed](https://lifehacker.com/how-to-make-a-cheap-diy-canopy-bed-1848358179)
+- [Dev.to/JS] [Unpacking js.map files](https://dev.to/fx2301/unpacking-jsmap-files-4fl0)
+- [Dev.to/JS] [Working on my 2nd Project: JavaScript Tic Tac Toe!](https://dev.to/mikacodez/working-on-my-2nd-project-javascript-tic-tac-toe-4704)
+- [Lifehacker] [10 iMessage Shortcuts You Should Use on Your Mac](https://lifehacker.com/10-imessage-shortcuts-you-should-use-on-your-mac-1848358696)
+- [Dev.to/JS] [Gitlab CI/CD + NodeJs + pm2](https://dev.to/sumansarkar/gitlab-cicd-nodejs-pm2-4llh)
+- [Dev.to/JS] [Deploying a Dapp to Mainnet](https://dev.to/rounakbanik/deploying-a-dapp-to-mainnet-3cob)
+- [Dev.to/JS] [Angular Best Practices](https://dev.to/oumaymasghayer/angular-best-practices-2001)
 - [Lifehacker] [16 Things That Make Your Car or Truck Look Cheap and Tacky](https://lifehacker.com/16-things-that-make-your-car-or-truck-look-cheap-and-ta-1848354984)
 - [Dev.to/JS] [JSON for Beginners in Plain English](https://dev.to/codewithsnowbit/json-for-beginners-in-plain-english-4k8o)
 - [Dev.to/JS] [Who is using Nx?](https://dev.to/wolfhoundjesse/who-is-using-nx-45em)
@@ -34,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 14th January 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-14th-january-2022-3k2a)
 - [Lifehacker] [How to Get Any Kid to Like You, According to Lifehacker Readers](https://lifehacker.com/how-to-get-any-kid-to-like-you-according-to-lifehacker-1848355412)
 - [Dev.to/JS] [How to build a Hulu clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/how-to-build-a-hulu-clone-with-vanilla-html-css-and-javascript-2n4l)
-- [Dev.to/JS] [Paracetamol.js💊| #7: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-7-explica-este-codigo-javascript-4540)
-- [Dev.to/JS] [Paracetamol.js💊| #8: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-8-que-imprime-este-codigo-javascript-1ei8)
-- [Dev.to/JS] [Star Rating system with HTML, CSS,JS](https://dev.to/rjitsu/star-rating-system-with-html-cssjs-594k)
-- [Dev.to/JS] [How to Design a Mobile App from Start to Finish in 2022:](https://dev.to/sophialoren179/how-to-design-a-mobile-app-from-start-to-finish-in-2022-4agg)
 - [Lifehacker] [Can You Just Ignore a Subpoena? &lpar;And What Happens If You Do?&rpar;](https://lifehacker.com/can-you-just-ignore-a-subpoena-and-what-happens-if-yo-1848353480)
-- [Dev.to/JS] [JavaScript factory functions and Object.create&lpar;&rpar;](https://dev.to/ahmedm1999/javascript-factory-functions-and-objectcreat-4kbi)
 - [Lifehacker] [How to Avoid Exercise Burnout](https://lifehacker.com/how-to-avoid-exercise-burnout-1848352174)
 - [Lifehacker] [Have You Been Eating Bananas Wrong This Whole Time?](https://lifehacker.com/have-you-been-eating-bananas-wrong-this-whole-time-1848354915)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hide the Fact That Your Cat Poops in a Box in Your House](https://lifehacker.com/how-to-hide-the-fact-that-your-cat-poops-in-a-box-in-yo-1848344666)
 - [Lifehacker] [How to Know if a QR Code or a Short URL Is Safe](https://lifehacker.com/how-to-know-if-a-qr-code-or-a-short-url-is-safe-1848346007)
 - [Lifehacker] [8 Ways You Can Make Siri Less Annoying](https://lifehacker.com/8-ways-you-can-make-siri-less-annoying-1848343339)
-- [Lifehacker] [Where to Get Reimbursed for Spoiled Food After a Power Outage](https://lifehacker.com/where-to-get-reimbursed-for-spoiled-food-after-a-power-1848347899)
-- [Lifehacker] [The Secret to Really Believing in Yourself](https://lifehacker.com/the-secret-to-really-believing-in-yourself-1848348079)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)<!-- TECH-POSTS:END -->
