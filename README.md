@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [16 Things That Make Your Car or Truck Look Cheap and Tacky](https://lifehacker.com/16-things-that-make-your-car-or-truck-look-cheap-and-ta-1848354984)
+- [Dev.to/JS] [JSON for Beginners in Plain English](https://dev.to/codewithsnowbit/json-for-beginners-in-plain-english-4k8o)
+- [Dev.to/JS] [Who is using Nx?](https://dev.to/wolfhoundjesse/who-is-using-nx-45em)
+- [Dev.to/JS] [Amplitude Experiment + React](https://dev.to/juliandavidmr/amplitude-experiment-react-4omg)
+- [Lifehacker] [Try This Game If You&#39;re Already Too Good at Wordle](https://lifehacker.com/try-this-game-if-youre-already-too-good-at-wordle-1848356298)
+- [Dev.to/JS] [Two-way binding will make your React code better.](https://dev.to/vaukalak/two-way-binding-will-make-your-react-code-better-52mn)
 - [Lifehacker] [How to Use a Springform Pan &lpar;and What to Do if You Don&#39;t Have One&rpar;](https://lifehacker.com/how-to-use-a-springform-pan-and-what-to-do-if-you-dont-1848355848)
 - [Dev.to/JS] [Temporal Dead Zone](https://dev.to/sahiba0915/temporal-dead-zone-1ahe)
 - [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 14th January 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-14th-january-2022-3k2a)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Just Ignore a Subpoena? &lpar;And What Happens If You Do?&rpar;](https://lifehacker.com/can-you-just-ignore-a-subpoena-and-what-happens-if-yo-1848353480)
 - [Dev.to/JS] [JavaScript factory functions and Object.create&lpar;&rpar;](https://dev.to/ahmedm1999/javascript-factory-functions-and-objectcreat-4kbi)
 - [Lifehacker] [How to Avoid Exercise Burnout](https://lifehacker.com/how-to-avoid-exercise-burnout-1848352174)
-- [Dev.to/JS] [How to Make an Online Test for Gamepad Controller Using HTML5 Gamepad API](https://dev.to/davidcmoffitt/how-to-make-an-online-test-for-gamepad-controller-using-html5-gamepad-api-p9m)
-- [Dev.to/JS] [Get the values from the &quot;GET&quot; parameters of URL Using JavaScript](https://dev.to/sh20raj/get-the-values-from-the-get-parameters-of-url-using-javascript-p2j)
 - [Lifehacker] [Have You Been Eating Bananas Wrong This Whole Time?](https://lifehacker.com/have-you-been-eating-bananas-wrong-this-whole-time-1848354915)
-- [Dev.to/JS] [50 lines of JavaScript: animated source code statistics with Vizzu](https://dev.to/kiriwi/50-lines-of-javascript-animated-source-code-statistics-with-vizzu-oi7)
-- [Dev.to/JS] [3. Accessing by value and references](https://dev.to/sungjuneun/3-accessing-by-value-and-references-14a2)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 - [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Ways You Can Make Siri Less Annoying](https://lifehacker.com/8-ways-you-can-make-siri-less-annoying-1848343339)
 - [Lifehacker] [Where to Get Reimbursed for Spoiled Food After a Power Outage](https://lifehacker.com/where-to-get-reimbursed-for-spoiled-food-after-a-power-1848347899)
 - [Lifehacker] [The Secret to Really Believing in Yourself](https://lifehacker.com/the-secret-to-really-believing-in-yourself-1848348079)
-- [Lifehacker] [The &lpar;10+2&rpar;*5 Method Will Help You Get More Done in a Day](https://lifehacker.com/the-10-2-5-method-will-help-you-get-more-done-in-a-da-1848347801)
-- [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)<!-- TECH-POSTS:END -->
