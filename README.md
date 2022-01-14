@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Roles cause Missing Permission Errors in Discord.js](https://dev.to/terabytetiger/how-roles-cause-missing-permission-errors-in-discordjs-1ji7)
+- [Dev.to/JS] [Web Components with Svelte](https://dev.to/thisdotmedia/web-components-with-svelte-4hd7)
 - [Dev.to/JS] [Runtime Data Validation from TypeScript Interfaces](https://dev.to/garrettmills/runtime-data-validation-from-typescript-interfaces-3j8d)
 - [Dev.to/JS] [AI won&#39;t destroy us all... but it might automate your day.](https://dev.to/13tinydots/ai-wont-destroy-us-all-but-it-might-automate-your-day-6n)
 - [Dev.to/JS] [The World Of React Events](https://dev.to/developerioweb/the-world-of-react-events-59ej)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drag and Drop in React with React DnD](https://dev.to/jyeett/drag-and-drop-in-react-with-react-dnd-243f)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
 - [Dev.to/JS] [Generate JHipster + Svelte/Kit web applications](https://dev.to/vishal423/generate-jhipster-sveltekit-web-applications-3b5e)
-- [Dev.to/JS] [How to Secure Your HTTP APIs](https://dev.to/lizparody/how-to-secure-your-http-apis-537m)
-- [Dev.to/JS] [Polyfills in JavaScript 🔧⚙](https://dev.to/suryaraj1/polyfills-in-javascript-13kd)
 - [Lifehacker] [How to Permanently Delete Your Reddit Account &lpar;or Your Old, Embarrassing Posts&rpar;](https://lifehacker.com/how-to-permanently-delete-your-reddit-account-or-your-1848358561)
 - [Lifehacker] [Is the &#39;Nocebo Effect&#39; Hurting Your Fitness Goals?](https://lifehacker.com/is-the-nocebo-effect-hurting-your-health-goals-1848360955)
 - [Lifehacker] [How to Make a Cheap DIY Canopy Bed](https://lifehacker.com/how-to-make-a-cheap-diy-canopy-bed-1848358179)
