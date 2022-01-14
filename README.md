@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tasker, React/Redux + Rails API Final Project](https://dev.to/babiescatscode/tasker-reactredux-rails-api-final-project-4i4b)
+- [Dev.to/JS] [Use Push to Deploy to update or deploy your Meteor App directly from your repository](https://dev.to/fredmaiaarantes/use-push-to-deploy-to-update-or-deploy-your-meteor-app-directly-from-your-repository-2hpk)
+- [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Dev.to/JS] [Top Tips to Secure Your Vue Application](https://dev.to/grapecity/top-tips-to-secure-your-vue-application-3jb2)
 - [Dev.to/JS] [A recipe sharing web app with Django and React](https://dev.to/earthcomfy/a-recipe-sharing-web-app-with-django-and-react-1n40)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Improve modal management in React with nice-modal-react](https://dev.to/logrocket/improve-modal-management-in-react-with-nice-modal-react-b3m)
 - [Lifehacker] [Is the &#39;Nocebo Effect&#39; Hurting Your Fitness Goals?](https://lifehacker.com/is-the-nocebo-effect-hurting-your-health-goals-1848360955)
 - [Dev.to/JS] [How to update Status using Bootstrap Toggle Button In Laravel 8](https://dev.to/8bityard/how-to-update-status-using-bootstrap-toggle-button-in-laravel-8-dgo)
-- [Dev.to/JS] [Modifying a site&#39;s JavaScript with mitmproxy](https://dev.to/fx2301/modifying-a-sites-javascript-with-mitmproxy-1beo)
-- [Dev.to/JS] [JavaScript Project](https://dev.to/victoriaehrbar/javascript-project-4j99)
 - [Lifehacker] [How to Make a Cheap DIY Canopy Bed](https://lifehacker.com/how-to-make-a-cheap-diy-canopy-bed-1848358179)
 - [Lifehacker] [10 iMessage Shortcuts You Should Use on Your Mac](https://lifehacker.com/10-imessage-shortcuts-you-should-use-on-your-mac-1848358696)
 - [Lifehacker] [16 Things That Make Your Car or Truck Look Cheap and Tacky](https://lifehacker.com/16-things-that-make-your-car-or-truck-look-cheap-and-ta-1848354984)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need a Mirror on Your Work Desk](https://lifehacker.com/why-you-need-a-mirror-on-your-work-desk-1848352352)
 - [Lifehacker] [10 Things You Didn&#39;t Know You Could Drag-and-Drop on Your iPhone](https://lifehacker.com/10-things-you-didnt-know-you-could-drag-and-drop-on-you-1848350980)
 - [Lifehacker] [Do &#39;Legal&#39; Weed Alternatives Really Work?](https://lifehacker.com/do-legal-weed-alternatives-really-work-1848352666)
-- [Lifehacker] [Stop Using Round Measuring Spoons](https://lifehacker.com/stop-using-round-measuring-spoons-1848348945)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)<!-- TECH-POSTS:END -->
