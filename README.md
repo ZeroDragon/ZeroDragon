@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add a &#39;copy code to clipboard&#39; button to your blog&#39;s code blocks](https://dev.to/robole/add-a-copy-code-to-clipboard-button-to-your-blogs-code-blocks-545j)
+- [Dev.to/JS] [JavaScript Challenges - New platform JSCodebox launched! 🎉](https://dev.to/webdeasy/javascript-challenges-new-online-platform-jscodebox-launched-269f)
+- [Dev.to/JS] [Create an Animated Accordion in React JS !](https://dev.to/salehmubashar/animated-accordion-in-react-js-1a6h)
 - [Dev.to/JS] [Generating Random Whole numbers in JavaScript in a specific range](https://dev.to/sh20raj/generating-random-whole-numbers-in-javascript-in-a-specific-range-jeo)
 - [Dev.to/JS] [Leetcode diary: 526. Beautiful Arrangement  [Backtracking]](https://dev.to/kevin074/leetcode-diary-526-beautiful-arrangement-backtracking-2d38)
 - [Dev.to/JS] [Understanding Javascript imports and exports](https://dev.to/wearethreebears/understanding-javascript-imports-and-exports-f7b)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My personal package bundler odyssey](https://dev.to/flodev/my-personal-package-manager-odyssey-557e)
 - [Dev.to/JS] [Math.floor&lpar;&rpar; to get difference between two timestamps](https://dev.to/dezforb/mathfloor-to-get-difference-between-two-timestamps-a40)
 - [Dev.to/JS] [JS Variable](https://dev.to/shinyo627/js-variable-17gc)
-- [Dev.to/JS] [Clean  Code - Javascript](https://dev.to/swrjp/clean-code-javascript-2hla)
-- [Dev.to/JS] [Phen24 - Weight Loss Supplement, Price, Reviews And Results](https://dev.to/phen24pills1/phen24-weight-loss-supplement-price-reviews-and-results-8kk)
-- [Dev.to/JS] [JS Intro](https://dev.to/shinyo627/js-intro-397i)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 - [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
