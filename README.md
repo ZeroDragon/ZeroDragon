@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Daily Reads - Tailored dev content delivered to your inbox.](https://dev.to/xinnks/my-daily-reads-tailored-dev-content-delivered-to-your-inbox-3ak0)
 - [Dev.to/JS] [#15 - Digits explosion               CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/14-digits-explosion-codewars-kata-7-kyu-13je)
 - [Dev.to/JS] [First post](https://dev.to/gregnavarro/first-post-5hfo)
 - [Dev.to/JS] [Event emails reminder using Mongo DB Atlas](https://dev.to/shivamarora1/event-emails-reminder-using-mongo-db-atlas-29b5)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy history management for React with Mlyn](https://dev.to/vaukalak/easy-history-management-for-react-with-mlyn-lgf)
 - [Dev.to/JS] [Build A Simple Vue 3 App and Enjoy Astronomy! &lpar;Part 3 of 3&rpar;](https://dev.to/stoicllama/build-a-simple-vue-3-app-and-enjoy-astronomy-part-3-of-3-1cc1)
 - [Dev.to/JS] [Build A Simple Vue 3 App and Enjoy Astronomy! &lpar;Part 2 of 3&rpar;](https://dev.to/stoicllama/build-a-simple-vue-3-app-and-enjoy-astronomy-part-2-of-3-27g5)
-- [Dev.to/JS] [Build A Simple Vue 3 App and Enjoy Astronomy! &lpar;Part 1 of 3&rpar;](https://dev.to/stoicllama/build-a-simple-vue-3-app-and-enjoy-astronomy-part-1-of-3-132a)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
 - [Lifehacker] [How to Move Without Using a Shitload of Boxes](https://lifehacker.com/how-to-move-without-using-a-shitload-of-boxes-1848254112)
 - [Lifehacker] [Why You Need Dropbox&#39;s New Beta If You Have an M1 Mac](https://lifehacker.com/why-you-need-dropboxs-new-beta-if-you-have-an-m1-mac-1848352613)
