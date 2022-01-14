@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Runtime Data Validation from TypeScript Interfaces](https://dev.to/garrettmills/runtime-data-validation-from-typescript-interfaces-3j8d)
+- [Dev.to/JS] [AI won&#39;t destroy us all... but it might automate your day.](https://dev.to/13tinydots/ai-wont-destroy-us-all-but-it-might-automate-your-day-6n)
+- [Dev.to/JS] [The World Of React Events](https://dev.to/developerioweb/the-world-of-react-events-59ej)
 - [Dev.to/JS] [Tasker, React/Redux + Rails API Final Project](https://dev.to/babiescatscode/tasker-reactredux-rails-api-final-project-4i4b)
 - [Dev.to/JS] [Use Push to Deploy to update or deploy your Meteor App directly from your repository](https://dev.to/fredmaiaarantes/use-push-to-deploy-to-update-or-deploy-your-meteor-app-directly-from-your-repository-2hpk)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Secure Your HTTP APIs](https://dev.to/lizparody/how-to-secure-your-http-apis-537m)
 - [Dev.to/JS] [Polyfills in JavaScript 🔧⚙](https://dev.to/suryaraj1/polyfills-in-javascript-13kd)
 - [Lifehacker] [How to Permanently Delete Your Reddit Account &lpar;or Your Old, Embarrassing Posts&rpar;](https://lifehacker.com/how-to-permanently-delete-your-reddit-account-or-your-1848358561)
-- [Dev.to/JS] [What You Can Do With Lob Webhooks](https://dev.to/lob/what-you-can-do-with-lob-webhooks-3gh3)
-- [Dev.to/JS] [Improve modal management in React with nice-modal-react](https://dev.to/logrocket/improve-modal-management-in-react-with-nice-modal-react-b3m)
 - [Lifehacker] [Is the &#39;Nocebo Effect&#39; Hurting Your Fitness Goals?](https://lifehacker.com/is-the-nocebo-effect-hurting-your-health-goals-1848360955)
-- [Dev.to/JS] [How to update Status using Bootstrap Toggle Button In Laravel 8](https://dev.to/8bityard/how-to-update-status-using-bootstrap-toggle-button-in-laravel-8-dgo)
 - [Lifehacker] [How to Make a Cheap DIY Canopy Bed](https://lifehacker.com/how-to-make-a-cheap-diy-canopy-bed-1848358179)
 - [Lifehacker] [10 iMessage Shortcuts You Should Use on Your Mac](https://lifehacker.com/10-imessage-shortcuts-you-should-use-on-your-mac-1848358696)
 - [Lifehacker] [16 Things That Make Your Car or Truck Look Cheap and Tacky](https://lifehacker.com/16-things-that-make-your-car-or-truck-look-cheap-and-ta-1848354984)
