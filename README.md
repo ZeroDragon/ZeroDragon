@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use a Springform Pan &lpar;and What to Do if You Don&#39;t Have One&rpar;](https://lifehacker.com/how-to-use-a-springform-pan-and-what-to-do-if-you-dont-1848355848)
+- [Dev.to/JS] [Temporal Dead Zone](https://dev.to/sahiba0915/temporal-dead-zone-1ahe)
+- [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 14th January 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-14th-january-2022-3k2a)
+- [Lifehacker] [How to Get Any Kid to Like You, According to Lifehacker Readers](https://lifehacker.com/how-to-get-any-kid-to-like-you-according-to-lifehacker-1848355412)
+- [Dev.to/JS] [How to build a Hulu clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/how-to-build-a-hulu-clone-with-vanilla-html-css-and-javascript-2n4l)
 - [Dev.to/JS] [Paracetamol.js💊| #7: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-7-explica-este-codigo-javascript-4540)
 - [Dev.to/JS] [Paracetamol.js💊| #8: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-8-que-imprime-este-codigo-javascript-1ei8)
 - [Dev.to/JS] [Star Rating system with HTML, CSS,JS](https://dev.to/rjitsu/star-rating-system-with-html-cssjs-594k)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Have You Been Eating Bananas Wrong This Whole Time?](https://lifehacker.com/have-you-been-eating-bananas-wrong-this-whole-time-1848354915)
 - [Dev.to/JS] [50 lines of JavaScript: animated source code statistics with Vizzu](https://dev.to/kiriwi/50-lines-of-javascript-animated-source-code-statistics-with-vizzu-oi7)
 - [Dev.to/JS] [3. Accessing by value and references](https://dev.to/sungjuneun/3-accessing-by-value-and-references-14a2)
-- [Dev.to/JS] [JUnit Complete Tutorial For Beginners](https://dev.to/lambdatest/junit-complete-tutorial-for-beginners-5a78)
-- [Dev.to/JS] [Vue.js and Node.js tutorial: a realtime collaboration app hosted in Azure Static Web Apps](https://dev.to/ablydev/vuejs-and-nodejs-tutorial-a-realtime-collaboration-app-hosted-in-azure-static-web-apps-13pa)
-- [Dev.to/JS] [How to structure your Express and Node.Js project](https://dev.to/nermineslimane/how-to-structure-your-express-and-nodejs-project-3bl)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 - [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Secret to Really Believing in Yourself](https://lifehacker.com/the-secret-to-really-believing-in-yourself-1848348079)
 - [Lifehacker] [The &lpar;10+2&rpar;*5 Method Will Help You Get More Done in a Day](https://lifehacker.com/the-10-2-5-method-will-help-you-get-more-done-in-a-da-1848347801)
 - [Lifehacker] [Your &#39;Olive Oil&#39; Bottle Is Lying to You](https://lifehacker.com/your-olive-oil-bottle-is-lying-to-you-1848346076)
-- [Lifehacker] [This App Brings TikTok&#39;s Discoverability to Spotify](https://lifehacker.com/this-app-brings-tiktoks-discoverability-to-spotify-1848345114)
-- [Lifehacker] [How Long Can You Keep Using the Same N95 Mask?](https://lifehacker.com/how-long-can-you-keep-using-the-same-n95-mask-1848345117)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)<!-- TECH-POSTS:END -->
