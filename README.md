@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beautiful HTML-free desk-calculator app, build with just 61 lines of Javascript, framework included...](https://dev.to/efpage/beautiful-html-free-desk-calculator-app-build-with-just-61-lines-of-javascript-framework-included-4opi)
 - [Dev.to/JS] [Hangman Project | Day 11](https://dev.to/developerioweb/hangman-project-day-11-278k)
 - [Dev.to/JS] [Making a chrome extension part 1 &lpar;1 of 100DaysOfCode&rpar;](https://dev.to/filix/making-a-chrome-extension-part-1-1-of-100daysofcode-34bo)
 - [Dev.to/JS] [10 javascript basics interns should know before the job](https://dev.to/omills/10-things-i-wish-dev-interns-knew-before-the-job-eo1)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add WhatsApp share button on a website ?](https://dev.to/sh20raj/how-to-add-whatsapp-share-button-on-a-website--1kdj)
 - [Dev.to/JS] [Grokking Algorithms in JavaScript - Part 3](https://dev.to/mattedwards/grokking-algorithms-in-javascript-part-3-11cf)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
-- [Dev.to/JS] [When to use the useCallback hook ?](https://dev.to/thenerdydev/when-to-use-the-usecallback-hook--50f7)
 - [Lifehacker] [How to Use a Snowblower Faster so You&#39;re Not Freezing Your Ass Off](https://lifehacker.com/how-to-use-a-snowblower-faster-so-youre-not-freezing-yo-1848362043)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
