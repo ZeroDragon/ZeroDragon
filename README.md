@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#17 - The highest profit wins!                      
+CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/17-the-highest-profit-wins-codewars-kata-7-kyu-cc0)
+- [Dev.to/JS] [Get All Paginated Data using RxJS Expand Operator](https://dev.to/nightwolfdev/get-all-paginated-data-using-rxjs-expand-operator-31dn)
+- [Dev.to/JS] [Here&#39;s how I made a simple Chrome Extension to close all open tabs](https://dev.to/midhunz/how-to-create-a-simple-chrome-extension-ijk)
 - [Dev.to/JS] [Beautiful HTML-free desk-calculator app, build with just 61 lines of Javascript, framework included...](https://dev.to/efpage/beautiful-html-free-desk-calculator-app-build-with-just-61-lines-of-javascript-framework-included-4opi)
 - [Dev.to/JS] [Hangman Project | Day 11](https://dev.to/developerioweb/hangman-project-day-11-278k)
 - [Dev.to/JS] [Making a chrome extension part 1 &lpar;1 of 100DaysOfCode&rpar;](https://dev.to/filix/making-a-chrome-extension-part-1-1-of-100daysofcode-34bo)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quicksort Algorithm: Explained With Diagrams and Javascript](https://dev.to/the_greatbonnie/quicksort-algorithm-explained-with-diagrams-and-javascript-fe9)
 - [Dev.to/JS] [Defining Variable in CSS with var&lpar;&rpar;](https://dev.to/surajondev/defining-variable-in-css-with-var-edn)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
-- [Dev.to/JS] [What is React must be in scope??](https://dev.to/johnbabu021/what-is-react-must-be-in-scope-56fd)
-- [Dev.to/JS] [How to add WhatsApp share button on a website ?](https://dev.to/sh20raj/how-to-add-whatsapp-share-button-on-a-website--1kdj)
-- [Dev.to/JS] [Grokking Algorithms in JavaScript - Part 3](https://dev.to/mattedwards/grokking-algorithms-in-javascript-part-3-11cf)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
 - [Lifehacker] [How to Use a Snowblower Faster so You&#39;re Not Freezing Your Ass Off](https://lifehacker.com/how-to-use-a-snowblower-faster-so-youre-not-freezing-yo-1848362043)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
