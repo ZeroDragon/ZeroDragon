@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Todo list app with Elf &amp; React](https://dev.to/workfel/create-todo-list-app-with-elf-react-240g)
+- [Dev.to/JS] [Manage Local State with Apollo V3](https://dev.to/aom19/manage-locale-state-with-apollo-v3-1d9o)
 - [Dev.to/JS] [JavaScript program to find Unique elements from an array](https://dev.to/surbhidighe/javascript-program-to-find-unique-elements-from-an-array-1a0e)
 - [Dev.to/JS] [The Map Function in JavaScript](https://dev.to/salehmubashar/the-map-function-in-javascript-fgg)
 - [Dev.to/JS] [Try Andy&#39;s Desk](https://dev.to/kaeruct/try-andys-desk-5d17)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Execution of JS Code 🧑‍💻👨‍💻](https://dev.to/moreshwar/execution-of-js-code-im2)
 - [Dev.to/JS] [npm basic commands](https://dev.to/lizardkinglk/npm-basic-commands-4cja)
 - [Dev.to/JS] [Extra Strength Keto - Weight Loss Supplement, Price, Reviews And Benefits](https://dev.to/extrastrengthb1/extra-strength-keto-weight-loss-supplement-price-reviews-and-benefits-1o01)
-- [Dev.to/JS] [Encryption Decryption User Details Using Crypto-JS Library to secure application in React](https://dev.to/deepakjaiswal/encryption-decryption-user-details-using-crypto-js-library-to-secure-application-in-react-2ge8)
-- [Dev.to/JS] [Javascript Concepts that you should Learn in 2022](https://dev.to/ansub/javascript-concepts-that-you-should-learn-in-2022-6lk)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
