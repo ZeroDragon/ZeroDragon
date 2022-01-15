@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quicksort Algorithm: Explained With Diagrams and Javascript](https://dev.to/the_greatbonnie/quicksort-algorithm-explained-with-diagrams-and-javascript-fe9)
+- [Dev.to/JS] [Defining Variable in CSS with var&lpar;&rpar;](https://dev.to/surajondev/defining-variable-in-css-with-var-edn)
+- [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
+- [Dev.to/JS] [What is React must be in scope??](https://dev.to/johnbabu021/what-is-react-must-be-in-scope-56fd)
+- [Dev.to/JS] [How to add WhatsApp share button on a website ?](https://dev.to/sh20raj/how-to-add-whatsapp-share-button-on-a-website--1kdj)
+- [Dev.to/JS] [Grokking Algorithms in JavaScript - Part 3](https://dev.to/mattedwards/grokking-algorithms-in-javascript-part-3-11cf)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
 - [Dev.to/JS] [When to use the useCallback hook ?](https://dev.to/thenerdydev/when-to-use-the-usecallback-hook--50f7)
 - [Dev.to/JS] [Paracetamol.js💊| #13: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-13-que-imprime-este-codigo-javascript-574a)
@@ -32,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setup Eslint, Prettier with Typescript and React](https://dev.to/thatanjan/setup-eslint-prettier-with-typescript-and-react-lnj)
 - [Dev.to/JS] [What is ETag and why we use it](https://dev.to/zainbinfurqan/what-is-etag-and-why-we-use-it-15jd)
 - [Lifehacker] [How to Use a Snowblower Faster so You&#39;re Not Freezing Your Ass Off](https://lifehacker.com/how-to-use-a-snowblower-faster-so-youre-not-freezing-yo-1848362043)
-- [Dev.to/JS] [Top 5 Popular React Packages](https://dev.to/codewithsnowbit/top-5-popular-react-packages-13e1)
-- [Dev.to/JS] [How to make NFT](https://dev.to/amankm/how-to-make-nft-2mak)
-- [Dev.to/JS] [What technologies should you know to become a Front-End Developer in 2022.](https://dev.to/nourdinedev/what-technologies-should-you-know-to-become-a-front-end-developer-in-2022-hci)
-- [Dev.to/JS] [22+ FREE JavaScript eBooks you should read](https://dev.to/devdefinitive/22-free-javascript-ebooks-you-should-read-55g)
-- [Dev.to/JS] [Explicit is better than tricks](https://dev.to/nrf/explicit-is-better-than-tricks-b5a)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Those Full-Screen iMessage Effects on Your Mac](https://lifehacker.com/how-to-use-those-full-screen-imessage-effects-on-your-m-1848351661)
 - [Lifehacker] [Why You Need a Mirror on Your Work Desk](https://lifehacker.com/why-you-need-a-mirror-on-your-work-desk-1848352352)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
-- [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)
-- [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
 ---
 
