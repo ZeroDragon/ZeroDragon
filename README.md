@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use a Snowblower Faster so You&#39;re Not Freezing Your Ass Off](https://lifehacker.com/how-to-use-a-snowblower-faster-so-youre-not-freezing-yo-1848362043)
+- [Dev.to/JS] [Top 5 Popular React Packages](https://dev.to/codewithsnowbit/top-5-popular-react-packages-13e1)
+- [Dev.to/JS] [How to make NFT](https://dev.to/amankm/how-to-make-nft-2mak)
+- [Dev.to/JS] [What technologies should you know to become a Front-End Developer in 2022.](https://dev.to/nourdinedev/what-technologies-should-you-know-to-become-a-front-end-developer-in-2022-hci)
 - [Dev.to/JS] [22+ FREE JavaScript eBooks you should read](https://dev.to/devdefinitive/22-free-javascript-ebooks-you-should-read-55g)
 - [Dev.to/JS] [Explicit is better than tricks](https://dev.to/nrf/explicit-is-better-than-tricks-b5a)
 - [Dev.to/JS] [Create Todo list app with Elf &amp; React](https://dev.to/workfel/create-todo-list-app-with-elf-react-240g)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Try Andy&#39;s Desk](https://dev.to/kaeruct/try-andys-desk-5d17)
 - [Dev.to/JS] [Interviewer&#39;s Favorite: Event Bubbling](https://dev.to/sidmirza4/interviewers-favorite-event-bubbling-787)
 - [Dev.to/JS] [Day 78 of 100 Days of Code &amp; Scrum: Digital Marketing Services, Interview Practice, and Reviewing](https://dev.to/rammina/day-78-of-100-days-of-code-scrum-digital-marketing-services-interview-practice-and-reviewing-208j)
-- [Dev.to/JS] [Free Static Web Hosts for Frontend Developers](https://dev.to/kaeruct/free-static-web-hosts-for-frontend-developers-mjk)
-- [Dev.to/JS] [4. Type Coercion](https://dev.to/sungjuneun/4-type-coercion-410h)
-- [Dev.to/JS] [Execution of JS Code 🧑‍💻👨‍💻](https://dev.to/moreshwar/execution-of-js-code-im2)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Those Full-Screen iMessage Effects on Your Mac](https://lifehacker.com/how-to-use-those-full-screen-imessage-effects-on-your-m-1848351661)
 - [Lifehacker] [Why You Need a Mirror on Your Work Desk](https://lifehacker.com/why-you-need-a-mirror-on-your-work-desk-1848352352)
 - [Lifehacker] [10 Things You Didn&#39;t Know You Could Drag-and-Drop on Your iPhone](https://lifehacker.com/10-things-you-didnt-know-you-could-drag-and-drop-on-you-1848350980)
-- [Lifehacker] [Do &#39;Legal&#39; Weed Alternatives Really Work?](https://lifehacker.com/do-legal-weed-alternatives-really-work-1848352666)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)<!-- TECH-POSTS:END -->
