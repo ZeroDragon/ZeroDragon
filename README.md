@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #13: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-13-que-imprime-este-codigo-javascript-574a)
+- [Dev.to/JS] [Paracetamol.js💊| #13: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-13-que-imprime-este-codigo-javascript-ooe)
+- [Dev.to/JS] [LeetCode - Multiply Strings](https://dev.to/_alkesh26/leetcode-multiply-strings-4l99)
+- [Dev.to/JS] [My random thoughts on Svelte](https://dev.to/gf_developer/my-random-thoughts-on-svelte-4b74)
+- [Dev.to/JS] [Setup Eslint, Prettier with Typescript and React](https://dev.to/thatanjan/setup-eslint-prettier-with-typescript-and-react-lnj)
+- [Dev.to/JS] [What is ETag and why we use it](https://dev.to/zainbinfurqan/what-is-etag-and-why-we-use-it-15jd)
 - [Lifehacker] [How to Use a Snowblower Faster so You&#39;re Not Freezing Your Ass Off](https://lifehacker.com/how-to-use-a-snowblower-faster-so-youre-not-freezing-yo-1848362043)
 - [Dev.to/JS] [Top 5 Popular React Packages](https://dev.to/codewithsnowbit/top-5-popular-react-packages-13e1)
 - [Dev.to/JS] [How to make NFT](https://dev.to/amankm/how-to-make-nft-2mak)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [22+ FREE JavaScript eBooks you should read](https://dev.to/devdefinitive/22-free-javascript-ebooks-you-should-read-55g)
 - [Dev.to/JS] [Explicit is better than tricks](https://dev.to/nrf/explicit-is-better-than-tricks-b5a)
 - [Dev.to/JS] [Create Todo list app with Elf &amp; React](https://dev.to/workfel/create-todo-list-app-with-elf-react-240g)
-- [Dev.to/JS] [Manage Local State with Apollo V3](https://dev.to/aom19/manage-locale-state-with-apollo-v3-1d9o)
-- [Dev.to/JS] [JavaScript program to find Unique elements from an array](https://dev.to/surbhidighe/javascript-program-to-find-unique-elements-from-an-array-1a0e)
-- [Dev.to/JS] [The Map Function in JavaScript](https://dev.to/salehmubashar/the-map-function-in-javascript-fgg)
-- [Dev.to/JS] [Try Andy&#39;s Desk](https://dev.to/kaeruct/try-andys-desk-5d17)
-- [Dev.to/JS] [Interviewer&#39;s Favorite: Event Bubbling](https://dev.to/sidmirza4/interviewers-favorite-event-bubbling-787)
-- [Dev.to/JS] [Day 78 of 100 Days of Code &amp; Scrum: Digital Marketing Services, Interview Practice, and Reviewing](https://dev.to/rammina/day-78-of-100-days-of-code-scrum-digital-marketing-services-interview-practice-and-reviewing-208j)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
