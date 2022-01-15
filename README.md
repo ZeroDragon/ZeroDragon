@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
+- [Dev.to/JS] [When to use the useCallback hook ?](https://dev.to/thenerdydev/when-to-use-the-usecallback-hook--50f7)
 - [Dev.to/JS] [Paracetamol.js💊| #13: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-13-que-imprime-este-codigo-javascript-574a)
 - [Dev.to/JS] [Paracetamol.js💊| #13: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-13-que-imprime-este-codigo-javascript-ooe)
 - [Dev.to/JS] [LeetCode - Multiply Strings](https://dev.to/_alkesh26/leetcode-multiply-strings-4l99)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What technologies should you know to become a Front-End Developer in 2022.](https://dev.to/nourdinedev/what-technologies-should-you-know-to-become-a-front-end-developer-in-2022-hci)
 - [Dev.to/JS] [22+ FREE JavaScript eBooks you should read](https://dev.to/devdefinitive/22-free-javascript-ebooks-you-should-read-55g)
 - [Dev.to/JS] [Explicit is better than tricks](https://dev.to/nrf/explicit-is-better-than-tricks-b5a)
-- [Dev.to/JS] [Create Todo list app with Elf &amp; React](https://dev.to/workfel/create-todo-list-app-with-elf-react-240g)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
@@ -45,7 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 iMessage Shortcuts You Should Use on Your Mac](https://lifehacker.com/10-imessage-shortcuts-you-should-use-on-your-mac-1848358696)
 - [Lifehacker] [16 Things That Make Your Car or Truck Look Cheap and Tacky](https://lifehacker.com/16-things-that-make-your-car-or-truck-look-cheap-and-ta-1848354984)
 - [Lifehacker] [Try This Game If You&#39;re Already Too Good at Wordle](https://lifehacker.com/try-this-game-if-youre-already-too-good-at-wordle-1848356298)
-- [Lifehacker] [How to Use a Springform Pan &lpar;and What to Do if You Don&#39;t Have One&rpar;](https://lifehacker.com/how-to-use-a-springform-pan-and-what-to-do-if-you-dont-1848355848)
+- [Lifehacker] [How to Use a Springform Pan &lpar;and What to Do If You Don&#39;t Have One&rpar;](https://lifehacker.com/how-to-use-a-springform-pan-and-what-to-do-if-you-dont-1848355848)
 - [Lifehacker] [How to Get Any Kid to Like You, According to Lifehacker Readers](https://lifehacker.com/how-to-get-any-kid-to-like-you-according-to-lifehacker-1848355412)
 - [Lifehacker] [Can You Just Ignore a Subpoena? &lpar;And What Happens If You Do?&rpar;](https://lifehacker.com/can-you-just-ignore-a-subpoena-and-what-happens-if-yo-1848353480)
 - [Lifehacker] [How to Avoid Exercise Burnout](https://lifehacker.com/how-to-avoid-exercise-burnout-1848352174)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Free Online Courses Everyone Should Take This Year](https://lifehacker.com/the-best-free-online-courses-everyone-should-take-this-1848352463)
 - [Lifehacker] [How to Use Those Full-Screen iMessage Effects on Your Mac](https://lifehacker.com/how-to-use-those-full-screen-imessage-effects-on-your-m-1848351661)
 - [Lifehacker] [Why You Need a Mirror on Your Work Desk](https://lifehacker.com/why-you-need-a-mirror-on-your-work-desk-1848352352)
-- [Lifehacker] [10 Things You Didn&#39;t Know You Could Drag-and-Drop on Your iPhone](https://lifehacker.com/10-things-you-didnt-know-you-could-drag-and-drop-on-you-1848350980)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)
 - [Crazy Programmer] [10 User UI Components That Developers Need to Know](https://www.thecrazyprogrammer.com/2022/01/user-ui-components-that-developers-need-to-know.html)<!-- TECH-POSTS:END -->
