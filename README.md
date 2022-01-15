@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to deploy a static website in Netlify for free](https://dev.to/archanagandhi/how-to-deploy-a-static-website-in-netlify-for-free-3dg9)
+- [Dev.to/JS] [JS Truthy Falsy assignment /Short circuit evaluation.](https://dev.to/shinyo627/js-truthy-falsy-assignment-short-circuit-evaluation-2g6o)
+- [Dev.to/JS] [Next Js SSR [getServerSideProps]](https://dev.to/itishprasad30/next-js-ssr-getserversideprops-551g)
 - [Dev.to/JS] [Serverless - Create, debug and deploy  Lambda and API](https://dev.to/prashantkalokhe/serverless-create-debug-and-deploy-lambda-and-api-26od)
 - [Dev.to/JS] [First PR of the Year:D](https://dev.to/belokond/first-pr-of-the-yeard-5f1h)
 - [Dev.to/JS] [Getting Telescope&#39;s React Native App](https://dev.to/luigizaccagnini/getting-telescopes-react-native-app-2h1a)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #10: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-10-que-imprime-este-codigo-javascript-13kk)
 - [Dev.to/JS] [DECENTRALIZED UMOJA 2021](https://dev.to/watiriroyalty/decentralized-umoja-2021-1g1k)
 - [Dev.to/JS] [Paracetamol.js💊| #9: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-9-que-imprime-este-codigo-javascript-p4c)
-- [Dev.to/JS] [Form Handling With API Tutorial](https://dev.to/abanoubgeorge/form-handling-with-api-tutorial-45lc)
-- [Dev.to/JS] [How Roles cause Missing Permission Errors in Discord.js](https://dev.to/terabytetiger/how-roles-cause-missing-permission-errors-in-discordjs-1ji7)
-- [Dev.to/JS] [Web Components with Svelte](https://dev.to/thisdotmedia/web-components-with-svelte-4hd7)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
