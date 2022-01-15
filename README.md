@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 78 of 100 Days of Code &amp; Scrum: Digital Marketing Services, Interview Practice, and Reviewing](https://dev.to/rammina/day-78-of-100-days-of-code-scrum-digital-marketing-services-interview-practice-and-reviewing-208j)
+- [Dev.to/JS] [4. Type Coercion](https://dev.to/sungjuneun/4-type-coercion-410h)
+- [Dev.to/JS] [Execution of JS Code 🧑‍💻👨‍💻](https://dev.to/moreshwar/execution-of-js-code-im2)
 - [Dev.to/JS] [npm basic commands](https://dev.to/lizardkinglk/npm-basic-commands-4cja)
 - [Dev.to/JS] [Extra Strength Keto - Weight Loss Supplement, Price, Reviews And Benefits](https://dev.to/extrastrengthb1/extra-strength-keto-weight-loss-supplement-price-reviews-and-benefits-1o01)
 - [Dev.to/JS] [Encryption Decryption User Details Using Crypto-JS Library to secure application in React](https://dev.to/deepakjaiswal/encryption-decryption-user-details-using-crypto-js-library-to-secure-application-in-react-2ge8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 8](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-8-571m)
 - [Dev.to/JS] [How to deploy a static website in Netlify for free](https://dev.to/archanagandhi/how-to-deploy-a-static-website-in-netlify-for-free-3dg9)
 - [Dev.to/JS] [JS Truthy Falsy assignment /Short circuit evaluation.](https://dev.to/shinyo627/js-truthy-falsy-assignment-short-circuit-evaluation-2g6o)
-- [Dev.to/JS] [Next Js SSR [getServerSideProps]](https://dev.to/itishprasad30/next-js-ssr-getserversideprops-551g)
-- [Dev.to/JS] [Serverless - Create, debug and deploy  Lambda and API](https://dev.to/prashantkalokhe/serverless-create-debug-and-deploy-lambda-and-api-26od)
-- [Dev.to/JS] [First PR of the Year:D](https://dev.to/belokond/first-pr-of-the-yeard-5f1h)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
