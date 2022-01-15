@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The State of Copy-Pasting in JavaScript](https://dev.to/knyzorg/the-state-of-copy-pasting-in-javascript-bnp)
+- [Dev.to/JS] [Getting Started with open-wc and Web Components](https://dev.to/mayormaier/getting-started-with-open-wc-and-web-components-1e16)
 - [Dev.to/JS] [Form Validation In Remix Using Yup](https://dev.to/aaronksaunders/form-validation-in-remix-using-yup-285n)
 - [Dev.to/JS] [Sunnyside Landing Page using HTML CSS JS](https://dev.to/codewithsadee/sunnyside-landing-page-using-html-css-js-26aa)
 - [Dev.to/JS] [React.js: The one way and the opposite way data flow](https://dev.to/ridhamz/reactjs-the-one-way-and-the-opposite-way-data-flow-28k3)
@@ -35,8 +37,6 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/17-the-highest-profit
 - [Dev.to/JS] [Making a chrome extension part 1 &lpar;1 of 100DaysOfCode&rpar;](https://dev.to/filix/making-a-chrome-extension-part-1-1-of-100daysofcode-34bo)
 - [Dev.to/JS] [10 javascript basics interns should know before the job](https://dev.to/omills/10-things-i-wish-dev-interns-knew-before-the-job-eo1)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
-- [Dev.to/JS] [Create Your Own Live Browser Refresh In Deno](https://dev.to/craigmorten/how-to-code-live-browser-refresh-in-deno-309o)
-- [Dev.to/JS] [10 React Projects to Build in 2022 - GitHub](https://dev.to/hr21don/10-react-projects-to-build-in-2022-github-3o97)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
 - [Lifehacker] [How to Use a Snowblower Faster so You&#39;re Not Freezing Your Ass Off](https://lifehacker.com/how-to-use-a-snowblower-faster-so-youre-not-freezing-yo-1848362043)
