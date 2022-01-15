@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Encryption Decryption User Details Using Crypto-JS Library to secure application in React](https://dev.to/deepakjaiswal/encryption-decryption-user-details-using-crypto-js-library-to-secure-application-in-react-2ge8)
+- [Dev.to/JS] [JavaScript Concepts that you should Learn in 2022](https://dev.to/ansub/javascript-concepts-that-you-should-learn-in-2022-6lk)
 - [Dev.to/JS] [AngularJS is dead.](https://dev.to/manas_dev/angularjs-is-dead-455n)
 - [Dev.to/JS] [#16 - Sums of parts              CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/16-sums-of-parts-codewars-kata-6-kyu-e4h)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 8](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-8-571m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First PR of the Year:D](https://dev.to/belokond/first-pr-of-the-yeard-5f1h)
 - [Dev.to/JS] [Getting Telescope&#39;s React Native App](https://dev.to/luigizaccagnini/getting-telescopes-react-native-app-2h1a)
 - [Dev.to/JS] [Furmiliar: JS Project](https://dev.to/dotnotation/furmiliar-js-project-186m)
-- [Dev.to/JS] [Paracetamol.js💊| #12: Explica el meme de JavaScript](https://dev.to/duxtech/paracetamoljs-12-explica-el-meme-de-javascript-38b6)
-- [Dev.to/JS] [Paracetamol.js💊| #11: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-11-que-imprime-este-codigo-javascript-1cbm)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
