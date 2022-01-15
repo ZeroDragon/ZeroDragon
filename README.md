@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [22+ FREE JavaScript eBooks you should read](https://dev.to/devdefinitive/22-free-javascript-ebooks-you-should-read-55g)
+- [Dev.to/JS] [Explicit is better than tricks](https://dev.to/nrf/explicit-is-better-than-tricks-b5a)
 - [Dev.to/JS] [Create Todo list app with Elf &amp; React](https://dev.to/workfel/create-todo-list-app-with-elf-react-240g)
 - [Dev.to/JS] [Manage Local State with Apollo V3](https://dev.to/aom19/manage-locale-state-with-apollo-v3-1d9o)
 - [Dev.to/JS] [JavaScript program to find Unique elements from an array](https://dev.to/surbhidighe/javascript-program-to-find-unique-elements-from-an-array-1a0e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Free Static Web Hosts for Frontend Developers](https://dev.to/kaeruct/free-static-web-hosts-for-frontend-developers-mjk)
 - [Dev.to/JS] [4. Type Coercion](https://dev.to/sungjuneun/4-type-coercion-410h)
 - [Dev.to/JS] [Execution of JS Code 🧑‍💻👨‍💻](https://dev.to/moreshwar/execution-of-js-code-im2)
-- [Dev.to/JS] [npm basic commands](https://dev.to/lizardkinglk/npm-basic-commands-4cja)
-- [Dev.to/JS] [Extra Strength Keto - Weight Loss Supplement, Price, Reviews And Benefits](https://dev.to/extrastrengthb1/extra-strength-keto-weight-loss-supplement-price-reviews-and-benefits-1o01)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
