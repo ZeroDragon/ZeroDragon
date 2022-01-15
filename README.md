@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
+- [Dev.to/JS] [Create Your Own Live Browser Refresh In Deno](https://dev.to/craigmorten/how-to-code-live-browser-refresh-in-deno-309o)
+- [Dev.to/JS] [10 React Projects to Build in 2022 - GitHub](https://dev.to/hr21don/10-react-projects-to-build-in-2022-github-3o97)
+- [Dev.to/JS] [What is the use of UseMemo](https://dev.to/johnbabu021/what-is-the-use-of-usememo-4aee)
 - [Dev.to/JS] [Quicksort Algorithm: Explained With Diagrams and Javascript](https://dev.to/the_greatbonnie/quicksort-algorithm-explained-with-diagrams-and-javascript-fe9)
 - [Dev.to/JS] [Defining Variable in CSS with var&lpar;&rpar;](https://dev.to/surajondev/defining-variable-in-css-with-var-edn)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #13: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-13-que-imprime-este-codigo-javascript-574a)
 - [Dev.to/JS] [Paracetamol.js💊| #13: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-13-que-imprime-este-codigo-javascript-ooe)
 - [Dev.to/JS] [LeetCode - Multiply Strings](https://dev.to/_alkesh26/leetcode-multiply-strings-4l99)
-- [Dev.to/JS] [My random thoughts on Svelte](https://dev.to/gf_developer/my-random-thoughts-on-svelte-4b74)
-- [Dev.to/JS] [Setup Eslint, Prettier with Typescript and React](https://dev.to/thatanjan/setup-eslint-prettier-with-typescript-and-react-lnj)
-- [Dev.to/JS] [What is ETag and why we use it](https://dev.to/zainbinfurqan/what-is-etag-and-why-we-use-it-15jd)
 - [Lifehacker] [How to Use a Snowblower Faster so You&#39;re Not Freezing Your Ass Off](https://lifehacker.com/how-to-use-a-snowblower-faster-so-youre-not-freezing-yo-1848362043)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How &#39;Gamification&#39; of Everything Is Manipulating You &lpar;and How to Recognize It&rpar;](https://lifehacker.com/how-gamification-of-everything-is-manipulating-you-and-1848352808)
 - [Lifehacker] [The Best Free Online Courses Everyone Should Take This Year](https://lifehacker.com/the-best-free-online-courses-everyone-should-take-this-1848352463)
 - [Lifehacker] [How to Use Those Full-Screen iMessage Effects on Your Mac](https://lifehacker.com/how-to-use-those-full-screen-imessage-effects-on-your-m-1848351661)
-- [Lifehacker] [Why You Need a Mirror on Your Work Desk](https://lifehacker.com/why-you-need-a-mirror-on-your-work-desk-1848352352)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
