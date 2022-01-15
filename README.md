@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AngularJS is dead.](https://dev.to/manas_dev/angularjs-is-dead-455n)
+- [Dev.to/JS] [#16 - Sums of parts              CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/16-sums-of-parts-codewars-kata-6-kyu-e4h)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 8](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-8-571m)
 - [Dev.to/JS] [How to deploy a static website in Netlify for free](https://dev.to/archanagandhi/how-to-deploy-a-static-website-in-netlify-for-free-3dg9)
 - [Dev.to/JS] [JS Truthy Falsy assignment /Short circuit evaluation.](https://dev.to/shinyo627/js-truthy-falsy-assignment-short-circuit-evaluation-2g6o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Furmiliar: JS Project](https://dev.to/dotnotation/furmiliar-js-project-186m)
 - [Dev.to/JS] [Paracetamol.js💊| #12: Explica el meme de JavaScript](https://dev.to/duxtech/paracetamoljs-12-explica-el-meme-de-javascript-38b6)
 - [Dev.to/JS] [Paracetamol.js💊| #11: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-11-que-imprime-este-codigo-javascript-1cbm)
-- [Dev.to/JS] [Paracetamol.js💊| #10: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-10-que-imprime-este-codigo-javascript-13kk)
-- [Dev.to/JS] [DECENTRALIZED UMOJA 2021](https://dev.to/watiriroyalty/decentralized-umoja-2021-1g1k)
 - [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
