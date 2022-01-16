@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Dependency Injection in Functional Programming](https://dev.to/jesterxl/how-to-use-dependency-injection-in-functional-programming-1jk4)
+- [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Dev.to/JS] [How To Get Web Development Freelancing Projects As Fresher &amp; My Experience](https://dev.to/shoyeb001/how-to-get-web-development-freelancing-projects-as-fresher-my-experience-59c0)
 - [Dev.to/JS] [State of the Web: Serverless Functions](https://dev.to/asyncbanana/state-of-the-web-serverless-functions-hhc)
 - [Dev.to/JS] [Console.table&lpar;&rpar; | Jim](https://dev.to/akhlakhossainjim/consoletable-jim-nb3)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Component-First State Management for Angular Standalone Components](https://dev.to/angular/component-first-state-management-for-angular-standalone-components-3l1a)
 - [Dev.to/JS] [I am struggling learning react JSX syntax! can anyone help me?](https://dev.to/cristoferk/i-am-struggling-learning-react-jsx-syntax-can-anyone-help-me-2km9)
 - [Dev.to/JS] [LeetCode - Spiral Matrix](https://dev.to/_alkesh26/leetcode-spiral-matrix-3148)
-- [Dev.to/JS] [Quizzo](https://dev.to/compmonk/quizzo-16l7)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Move Without Using a Shitload of Boxes](https://lifehacker.com/how-to-move-without-using-a-shitload-of-boxes-1848254112)
 - [Lifehacker] [Why You Need Dropbox&#39;s New Beta If You Have an M1 Mac](https://lifehacker.com/why-you-need-dropboxs-new-beta-if-you-have-an-m1-mac-1848352613)
 - [Lifehacker] [How &#39;Gamification&#39; of Everything Is Manipulating You &lpar;and How to Recognize It&rpar;](https://lifehacker.com/how-gamification-of-everything-is-manipulating-you-and-1848352808)
-- [Lifehacker] [The Best Free Online Courses Everyone Should Take This Year](https://lifehacker.com/the-best-free-online-courses-everyone-should-take-this-1848352463)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
