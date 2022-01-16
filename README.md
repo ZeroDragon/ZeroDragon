@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React.js localStorage library showcase](https://dev.to/romeerez/reactjs-localstorage-library-showcase-5gj)
+- [Dev.to/JS] [Remix: Sharing Your Index Layout with Sub-Routes](https://dev.to/pckilgore/remix-sharing-your-index-layout-with-sub-routes-2856)
+- [Dev.to/JS] [Forms In React | Day 13](https://dev.to/developerioweb/forms-in-react-day-13-436c)
 - [Dev.to/JS] [Learn React JS the easy way](https://dev.to/shine18/learn-react-js-the-easy-way-3amj)
 - [Dev.to/JS] [Looking for an open-source mentor](https://dev.to/sebzz/looking-for-an-open-source-mentor-3b0a)
 - [Dev.to/JS] [Telescope.](https://dev.to/aserputov/telescope-2907)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&lpar;function&lpar;&rpar;{....}&rpar;&lpar;&rpar; Did you Know what is this](https://dev.to/johnbabu021/function-did-you-know-what-is-this-6n3)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Dev.to/JS] [Weekly Digest 02/2022](https://dev.to/marcobiedermann/weekly-digest-022022-5hmk)
-- [Dev.to/JS] [Music Player &lpar;!responsive.&rpar;](https://dev.to/h_adhokshaj/music-player-responsive-4b01)
-- [Dev.to/JS] [How to use Dependency Injection in Functional Programming](https://dev.to/jesterxl/how-to-use-dependency-injection-in-functional-programming-1jk4)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
-- [Dev.to/JS] [How To Get Web Development Freelancing Projects As Fresher &amp; My Experience](https://dev.to/shoyeb001/how-to-get-web-development-freelancing-projects-as-fresher-my-experience-59c0)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
