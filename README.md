@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
+- [Dev.to/JS] [How does asynchronous JavaScript work behind the scenes?](https://dev.to/vinaykishore/how-does-asynchronous-javascript-work-behind-the-scenes-4bjl)
+- [Dev.to/JS] [How to implement Socket.io using Typescript](https://dev.to/nickfelix/how-to-implement-socketio-using-typescript-3ne2)
+- [Dev.to/JS] [Automatically generate services and models for React 🪄](https://dev.to/iacons/automatically-generate-services-and-models-for-react-2dep)
+- [Dev.to/JS] [Component-First State Management for Angular Standalone Components](https://dev.to/angular/component-first-state-management-for-angular-standalone-components-3l1a)
+- [Dev.to/JS] [I am struggling learning react JSX syntax! can anyone help me?](https://dev.to/cristoferk/i-am-struggling-learning-react-jsx-syntax-can-anyone-help-me-2km9)
+- [Dev.to/JS] [LeetCode - Spiral Matrix](https://dev.to/_alkesh26/leetcode-spiral-matrix-3148)
+- [Dev.to/JS] [Quizzo](https://dev.to/compmonk/quizzo-16l7)
+- [Dev.to/JS] [Light Out game | Day 12](https://dev.to/developerioweb/light-out-game-day-12-2m6h)
 - [Dev.to/JS] [How to INSTANTLY write better code?](https://dev.to/cyberbotmachines/how-to-instantly-write-better-code-4g94)
 - [Dev.to/JS] [Defensive &amp; offensive programming](https://dev.to/sargalias/defensive-offensive-programming-38gh)
 - [Dev.to/JS] [Image Animation Using HTML CSS &amp; GSAP](https://dev.to/nikhil27b/image-animation-using-html-css-gsap-1659)
 - [Dev.to/JS] [Avoid unnecessary re-renderings of React.js apps.](https://dev.to/andreygermanov/avoid-unnecessary-re-renderings-of-reactjs-sites-2fe5)
-- [Dev.to/JS] [Global error page in Angular](https://dev.to/anirbmuk/global-error-page-in-angular-3744)
-- [Dev.to/JS] [JavaScript Functions Explained - Part 1](https://dev.to/deep_space/javascript-functions-explained-part-1-4ldh)
-- [Dev.to/JS] [How to JSON Object value without using Map](https://dev.to/raghuveersubbarao_pv_92/how-to-json-object-value-with-using-map-22f9)
-- [Dev.to/JS] [Greetings....](https://dev.to/adedayo888/greetings-592c)
-- [Dev.to/JS] [Complexity of selectors in web development ft React](https://dev.to/varenya/complexity-of-selectors-in-web-development-ft-react-3g9f)
-- [Dev.to/JS] [什麼是 Pure Function？在 React 當中的重要性是什麼？](https://dev.to/simonecheng/shi-mo-shi-pure-functionzai-react-dang-zhong-de-zhong-yao-xing-shi-shi-mo--1kjg)
-- [Dev.to/JS] [CloudWatch RUM for all insights](https://dev.to/aws-builders/cloudwatch-rum-for-all-insights-km5)
-- [Dev.to/JS] [useReducer&lpar;&rpar; Hook:  Let me dispatch it](https://dev.to/iamrajshekhar/usereducer-hook-let-me-dispatch-it-3033)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need Dropbox&#39;s New Beta If You Have an M1 Mac](https://lifehacker.com/why-you-need-dropboxs-new-beta-if-you-have-an-m1-mac-1848352613)
 - [Lifehacker] [How &#39;Gamification&#39; of Everything Is Manipulating You &lpar;and How to Recognize It&rpar;](https://lifehacker.com/how-gamification-of-everything-is-manipulating-you-and-1848352808)
 - [Lifehacker] [The Best Free Online Courses Everyone Should Take This Year](https://lifehacker.com/the-best-free-online-courses-everyone-should-take-this-1848352463)
-- [Lifehacker] [How to Use Those Full-Screen iMessage Effects on Your Mac](https://lifehacker.com/how-to-use-those-full-screen-imessage-effects-on-your-m-1848351661)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
