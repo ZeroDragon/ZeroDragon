@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useReducer&lpar;&rpar; Hook:  Let me dispatch it](https://dev.to/iamrajshekhar/usereducer-hook-let-me-dispatch-it-3033)
+- [Dev.to/JS] [How to Seed Database using TypeORM Seeding](https://dev.to/franciscomendes10866/how-to-seed-database-using-typeorm-seeding-4kd5)
+- [Dev.to/JS] [Filtering Data Di Vue](https://dev.to/medan_in_code/filtering-data-di-vue-e94)
 - [Dev.to/JS] [Ajout d&#39;icônes SVG à mon Wordle français](https://dev.to/michelc/ajout-dicones-svg-a-mon-wordle-francais-4fff)
 - [Dev.to/JS] [Facing Github Phishing problem.](https://dev.to/tanwi2209/facing-github-phishing-problem-2l16)
 - [Dev.to/JS] [10 BACKEND PROGRAMMING LANGUAGES THAT YOU SHOULD KNOW IN 2022](https://dev.to/amjithos/10-backend-programming-languages-that-you-should-know-in-2022-546f)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript objects iteration](https://dev.to/dagropp/javascript-objects-iteration-1ao7)
 - [Dev.to/JS] [Var, Let, and Const](https://dev.to/shivamkapasia0/var-let-and-const-1h5g)
 - [Dev.to/JS] [Day 79 of 100 Days of Code &amp; Scrum: Eleventh Weekly Retrospective](https://dev.to/rammina/day-79-of-100-days-of-code-scrum-eleventh-weekly-retrospective-acj)
-- [Dev.to/JS] [FIXD -  Uses, Results, Price, Reviews And Benefits](https://dev.to/fixdinfo/fixd-uses-results-price-reviews-and-benefits-1gc3)
-- [Dev.to/JS] [What is an IIFE in Javascript?](https://dev.to/amolshelke2/what-is-an-iife-in-javascript-1j3e)
-- [Dev.to/JS] [Writing Chrome Extensions Using Svelte-Kit and Manifest v3](https://dev.to/michmich112/writing-chrome-extensions-using-svelte-kit-and-manifest-v3-mkd)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
