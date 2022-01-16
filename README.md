@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ajout d&#39;icônes SVG à mon Wordle français](https://dev.to/michelc/ajout-dicones-svg-a-mon-wordle-francais-4fff)
+- [Dev.to/JS] [Facing Github Phishing problem.](https://dev.to/tanwi2209/facing-github-phishing-problem-2l16)
 - [Dev.to/JS] [10 BACKEND PROGRAMMING LANGUAGES THAT YOU SHOULD KNOW IN 2022](https://dev.to/amjithos/10-backend-programming-languages-that-you-should-know-in-2022-546f)
 - [Dev.to/JS] [5. ==, ===, typeof, instaceof](https://dev.to/sungjuneun/5-typeof-instaceof-4mee)
 - [Dev.to/JS] [Set up a Dockerfile for your angular application with Nginx](https://dev.to/oumaymasghayer/set-up-a-dockerfile-for-your-angular-application-with-nginx-45k1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FIXD -  Uses, Results, Price, Reviews And Benefits](https://dev.to/fixdinfo/fixd-uses-results-price-reviews-and-benefits-1gc3)
 - [Dev.to/JS] [What is an IIFE in Javascript?](https://dev.to/amolshelke2/what-is-an-iife-in-javascript-1j3e)
 - [Dev.to/JS] [Writing Chrome Extensions Using Svelte-Kit and Manifest v3](https://dev.to/michmich112/writing-chrome-extensions-using-svelte-kit-and-manifest-v3-mkd)
-- [Dev.to/JS] [Thinking in React](https://dev.to/sameer1612/thinking-in-react-3m73)
-- [Dev.to/JS] [Context Hook](https://dev.to/devyank_nagpal_c746402a7c/context-hook-47cp)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
