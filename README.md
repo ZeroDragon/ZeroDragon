@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Big Collection of free resources for product developer and designers](https://dev.to/ravics09/big-collection-of-free-resources-for-product-developer-and-designers-2a9i)
+- [Dev.to/JS] [Phoenix LiveView, but event-sourced](https://dev.to/cantido/phoenix-liveview-but-event-sourced-7pe)
 - [Dev.to/JS] [Advanced JavaScript Series - Part 5: IIFE &amp; &#39;this&#39; keyword in JS&lpar;tricky Eg.&rpar;, call&lpar;&rpar;, apply&lpar;&rpar;, bind&lpar;&rpar;, Currying&lpar;Functional Prog&rpar;](https://dev.to/pranav016/advanced-javascript-series-part-5-iife-this-keyword-in-jstricky-eg-call-apply-bind-curryingfunctional-prog-98c)
 - [Dev.to/JS] [What the WEB3? Understand WEB3 by Creating a Token Inside of a Node.js App](https://dev.to/pawel/what-the-web3-understand-web3-by-creating-a-token-inside-of-a-nodejs-app-2kj2)
-- [Dev.to/JS] [Asynchronous Javascript  : Promises](https://dev.to/swasdev4511/asynchronous-javascript-promises-472f)
+- [Dev.to/JS] [Dealing with asynchronous data in Javascript  : Promises](https://dev.to/swasdev4511/asynchronous-javascript-promises-472f)
 - [Dev.to/JS] [Advanced JavaScript Series - Part 4.2: Scope Chains and their working, Lexical and Variable Environments](https://dev.to/pranav016/advanced-javascript-series-part-42-scope-chains-and-their-working-lexical-and-variable-environments-19d5)
 - [Dev.to/JS] [React.js localStorage library showcase](https://dev.to/romeerez/reactjs-localstorage-library-showcase-5gj)
 - [Dev.to/JS] [Remix: Sharing Your Index Layout with Sub-Routes](https://dev.to/pckilgore/remix-sharing-your-index-layout-with-sub-routes-2856)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn React JS the easy way](https://dev.to/shine18/learn-react-js-the-easy-way-3amj)
 - [Dev.to/JS] [Looking for an open-source mentor](https://dev.to/sebzz/looking-for-an-open-source-mentor-3b0a)
 - [Dev.to/JS] [Telescope.](https://dev.to/aserputov/telescope-2907)
-- [Dev.to/JS] [Add Responses Counter To Your Google Form](https://dev.to/vrystick/add-responses-counter-to-your-google-form-13np)
-- [Dev.to/JS] [Understanding &quot;this&quot; in javascript](https://dev.to/sabz/understanding-this-in-javascript-1pjl)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
