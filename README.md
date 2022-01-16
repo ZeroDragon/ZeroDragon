@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 79 of 100 Days of Code &amp; Scrum: Eleventh Weekly Retrospective](https://dev.to/rammina/day-79-of-100-days-of-code-scrum-eleventh-weekly-retrospective-acj)
+- [Dev.to/JS] [FIXD -  Uses, Results, Price, Reviews And Benefits](https://dev.to/fixdinfo/fixd-uses-results-price-reviews-and-benefits-1gc3)
+- [Dev.to/JS] [What is an IIFE in Javascript?](https://dev.to/amolshelke2/what-is-an-iife-in-javascript-1j3e)
+- [Dev.to/JS] [Writing Chrome Extensions Using Svelte-Kit and Manifest v3](https://dev.to/michmich112/writing-chrome-extensions-using-svelte-kit-and-manifest-v3-mkd)
 - [Dev.to/JS] [Thinking in React](https://dev.to/sameer1612/thinking-in-react-3m73)
 - [Dev.to/JS] [Context Hook](https://dev.to/devyank_nagpal_c746402a7c/context-hook-47cp)
 - [Dev.to/JS] [Difference between var, let, and const.](https://dev.to/rabedatta/difference-between-var-let-and-const-2l1e)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making a Chrome extension for Gmail notifications](https://dev.to/midhunz/making-gmail-notification-extensions-without-logging-in-a-step-by-step-guide-160b)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 9](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-9-22ka)
 - [Dev.to/JS] [Convert a File/URL File to a Base64 string or DataURL using JavaScript](https://dev.to/sh20raj/convert-a-file-to-a-base64-string-or-dataurl-using-javascript-3fkf)
-- [Dev.to/JS] [Read and Write Data to Local JSON File with NodeJS](https://dev.to/pankajkumar/read-and-write-data-to-local-json-file-with-nodejs-3gli)
-- [Dev.to/JS] [Newbie Simple Web App Project](https://dev.to/bfemeng/newbie-simple-web-app-project-jhn)
-- [Dev.to/JS] [Leaving electron.js to the past.](https://dev.to/akashpattnaik/leaving-electronjs-to-the-past-3mkl)
-- [Dev.to/JS] [How To: Build A Linked List in JavaScript Part 2](https://dev.to/am20dipi/how-to-build-a-linked-list-in-javascript-part-2-9ec)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
