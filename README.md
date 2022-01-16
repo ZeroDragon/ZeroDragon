@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WTF JavaScript: A Variable with Side Effects](https://dev.to/p42/wtf-javascript-a-variable-with-side-effects-5e3h)
+- [Dev.to/JS] [New frameworks, old traditions](https://dev.to/noriller/new-frameworks-old-traditions-11nn)
+- [Dev.to/JS] [Ai generated code comments](https://dev.to/nevin1901/ai-generated-code-comments-35md)
 - [Dev.to/JS] [Big Collection of free resources for product developer and designers](https://dev.to/ravics09/big-collection-of-free-resources-for-product-developer-and-designers-2a9i)
 - [Dev.to/JS] [Phoenix LiveView, but event-sourced](https://dev.to/cantido/phoenix-liveview-but-event-sourced-7pe)
 - [Dev.to/JS] [Advanced JavaScript Series - Part 5: IIFE &amp; &#39;this&#39; keyword in JS&lpar;tricky Eg.&rpar;, call&lpar;&rpar;, apply&lpar;&rpar;, bind&lpar;&rpar;, Currying&lpar;Functional Prog&rpar;](https://dev.to/pranav016/advanced-javascript-series-part-5-iife-this-keyword-in-jstricky-eg-call-apply-bind-curryingfunctional-prog-98c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React.js localStorage library showcase](https://dev.to/romeerez/reactjs-localstorage-library-showcase-5gj)
 - [Dev.to/JS] [Remix: Sharing Your Index Layout with Sub-Routes](https://dev.to/pckilgore/remix-sharing-your-index-layout-with-sub-routes-2856)
 - [Dev.to/JS] [Forms In React | Day 13](https://dev.to/developerioweb/forms-in-react-day-13-436c)
-- [Dev.to/JS] [Learn React JS the easy way](https://dev.to/shine18/learn-react-js-the-easy-way-3amj)
-- [Dev.to/JS] [Looking for an open-source mentor](https://dev.to/sebzz/looking-for-an-open-source-mentor-3b0a)
-- [Dev.to/JS] [Telescope.](https://dev.to/aserputov/telescope-2907)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
