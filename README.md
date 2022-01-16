@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn How to Create a Reaction Time Game in JavaScript | JavaScript Game Projects for Beginners 2022](https://dev.to/hmawebdesign/learn-how-to-create-a-reaction-time-game-in-javascript-javascript-game-projects-for-beginners-2022-16kl)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
 - [Dev.to/JS] [How does asynchronous JavaScript work behind the scenes?](https://dev.to/vinaykishore/how-does-asynchronous-javascript-work-behind-the-scenes-4bjl)
 - [Dev.to/JS] [How to implement Socket.io using Typescript](https://dev.to/nickfelix/how-to-implement-socketio-using-typescript-3ne2)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to INSTANTLY write better code?](https://dev.to/cyberbotmachines/how-to-instantly-write-better-code-4g94)
 - [Dev.to/JS] [Defensive &amp; offensive programming](https://dev.to/sargalias/defensive-offensive-programming-38gh)
 - [Dev.to/JS] [Image Animation Using HTML CSS &amp; GSAP](https://dev.to/nikhil27b/image-animation-using-html-css-gsap-1659)
-- [Dev.to/JS] [Avoid unnecessary re-renderings of React.js apps.](https://dev.to/andreygermanov/avoid-unnecessary-re-renderings-of-reactjs-sites-2fe5)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
