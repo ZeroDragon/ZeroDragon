@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Read and Write Data to Local JSON File with NodeJS](https://dev.to/pankajkumar/read-and-write-data-to-local-json-file-with-nodejs-3gli)
+- [Dev.to/JS] [Newbie Simple Web App Project](https://dev.to/bfemeng/newbie-simple-web-app-project-jhn)
 - [Dev.to/JS] [Leaving electron.js to the past.](https://dev.to/akashpattnaik/leaving-electronjs-to-the-past-3mkl)
 - [Dev.to/JS] [How To: Build A Linked List in JavaScript Part 2](https://dev.to/am20dipi/how-to-build-a-linked-list-in-javascript-part-2-9ec)
 - [Dev.to/JS] [All snippets you need for GraphQL and JavaScript](https://dev.to/codiga/all-snippets-you-need-for-graphql-and-javascript-25i)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React.js: The one way and the opposite way data flow](https://dev.to/ridhamz/reactjs-the-one-way-and-the-opposite-way-data-flow-28k3)
 - [Dev.to/JS] [#17 - The highest profit wins!                      
 CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/17-the-highest-profit-wins-codewars-kata-7-kyu-cc0)
-- [Dev.to/JS] [Get All Paginated Data using RxJS Expand Operator](https://dev.to/nightwolfdev/get-all-paginated-data-using-rxjs-expand-operator-31dn)
-- [Dev.to/JS] [Here&#39;s how I made a simple Chrome Extension to close all open tabs](https://dev.to/midhunz/how-to-create-a-simple-chrome-extension-ijk)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
