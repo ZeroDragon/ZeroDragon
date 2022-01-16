@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Clean Way to Conditionally Render Components](https://dev.to/anxinyang/a-clean-way-to-conditionally-render-components-109i)
 - [Dev.to/JS] [The State of Copy-Pasting in JavaScript](https://dev.to/knyzorg/the-state-of-copy-pasting-in-javascript-bnp)
 - [Dev.to/JS] [Getting Started with open-wc and Web Components](https://dev.to/mayormaier/getting-started-with-open-wc-and-web-components-1e16)
 - [Dev.to/JS] [Form Validation In Remix Using Yup](https://dev.to/aaronksaunders/form-validation-in-remix-using-yup-285n)
@@ -35,7 +36,6 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/17-the-highest-profit
 - [Dev.to/JS] [Beautiful HTML-free desk-calculator app, built with just 61 lines of Javascript, framework included...](https://dev.to/efpage/beautiful-html-free-desk-calculator-app-build-with-just-61-lines-of-javascript-framework-included-4opi)
 - [Dev.to/JS] [Hangman Project | Day 11](https://dev.to/developerioweb/hangman-project-day-11-278k)
 - [Dev.to/JS] [Making a chrome extension part 1 &lpar;1 of 100DaysOfCode&rpar;](https://dev.to/filix/making-a-chrome-extension-part-1-1-of-100daysofcode-34bo)
-- [Dev.to/JS] [10 javascript basics interns should know before the job](https://dev.to/omills/10-things-i-wish-dev-interns-knew-before-the-job-eo1)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
