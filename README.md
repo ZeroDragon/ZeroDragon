@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TikTok API: How to Post to TikTok Using a Social Media API](https://dev.to/gbourne/tiktok-api-how-to-post-to-tiktok-using-a-social-media-api-83a)
 - [Dev.to/JS] [[week2] Days 1 - JS data structure](https://dev.to/blackthor/week2-days-1-js-data-structure-ncp)
 - [Dev.to/JS] [Using Typescript with electron-store](https://dev.to/whoisryosuke/using-typescript-with-electron-store-2429)
 - [Dev.to/JS] [Using NodeJS APIs in Electron with React](https://dev.to/whoisryosuke/using-nodejs-apis-in-electron-with-react-54g6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Single place of form validation rules for clients and services with JSON Schema](https://dev.to/dsitdikov/single-place-of-form-validation-rules-for-clients-and-services-with-json-schema-i1g)
 - [Dev.to/JS] [Real-time Updates: Polling, SSE and Web Sockets](https://dev.to/thesanjeevsharma/real-time-updates-polling-sse-and-web-sockets-277i)
 - [Dev.to/JS] [How to Deploy a React Application to Production on Code Capsules](https://dev.to/ritza/how-to-deploy-a-react-application-to-production-on-code-capsules-32i0)
-- [Dev.to/JS] [Firing on all cylinders &lpar;Part 2&rpar;: Understanding Hidden Classes to optimize your JavaScript code](https://dev.to/about14sheep/firing-on-all-cylinders-part-2-understanding-hidden-classes-to-optimize-your-javascript-code-5di3)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
