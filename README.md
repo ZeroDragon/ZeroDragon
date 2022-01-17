@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The this Keyword in Javascript](https://dev.to/isaacthajunior/the-this-keyword-in-javascript-30i2)
+- [Dev.to/JS] [How to Hire Front-End Developers: Steps You Should Follow](https://dev.to/jay_devs/how-to-hire-front-end-developers-steps-you-should-follow-1ic9)
+- [Dev.to/JS] [Web Development Trends](https://dev.to/itsmekrishlee/web-development-trends-321l)
+- [Dev.to/JS] [Code a social network with ReactJS](https://dev.to/linhtch90/code-a-social-network-with-reactjs-2936)
+- [Dev.to/JS] [Data Structures and Algorithms in JavaScript](https://dev.to/pietervanzyldev/data-structures-and-algorithms-in-javascript-1kd0)
+- [Dev.to/JS] [Memoizing with React.useMemo](https://dev.to/thenerdydev/memoizing-with-reactusememo-2m63)
+- [Dev.to/JS] [Write better code with these 5 JavaScript features](https://dev.to/anshuman_bhardwaj/write-better-code-with-these-5-javascript-features-22km)
+- [Dev.to/JS] [How to learn JavaScript &lpar;FREE JavaScript Course 2022&rpar;](https://dev.to/tutorialinhindi/how-to-learn-javascript-free-javascript-course-2022-4ocp)
+- [Dev.to/JS] [#18 - Previous multiple of three                      
+CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/18-previous-multiple-of-three-codewars-kata-7-kyu-32nj)
 - [Dev.to/JS] [React js CURD WebApp](https://dev.to/mishabka/react-js-curd-webapp-5a1n)
 - [Dev.to/JS] [How to make full stack social media website using HTML, CSS and JS | Part 01](https://dev.to/kunaal438/how-to-make-full-stack-social-media-website-using-html-css-and-js-part-01-46f1)
 - [Dev.to/JS] [How to implement Search feature using JavaScript](https://dev.to/dheerajmenonk/how-to-implement-search-feature-using-javascript-mhi)
-- [Dev.to/JS] [Everything you need to know about Vue Js Development](https://dev.to/sumyya_khan/everything-you-need-to-know-about-vue-js-development-1cd7)
-- [Dev.to/JS] [Creating Responsive Navbar using React-Bootstrap](https://dev.to/sampurna/creating-responsive-navbar-using-react-bootstrap-5ajg)
-- [Dev.to/JS] [New Beginning](https://dev.to/akhilkumarr13/new-beginning-4937)
-- [Dev.to/JS] [12 ways to get more GitHub stars for your open-source project](https://dev.to/tooljet/12-ways-to-get-more-github-stars-for-your-open-source-project-16ml)
-- [Dev.to/JS] [How to create and run your first Svelte Rollup Application?](https://dev.to/dashsaurabh/how-to-create-and-run-your-first-svelte-rollup-application-1k1i)
-- [Dev.to/JS] [My React js Todo App](https://dev.to/mishabka/my-react-js-todo-app-3k84)
-- [Dev.to/JS] [Build a simple water drinking tracker with JS](https://dev.to/atuljoshy/build-a-simple-water-drinking-tracker-with-js-1717)
-- [Dev.to/JS] [Using Apache ECharts with React and TypeScript: Optimizing Bundle Size](https://dev.to/maneetgoyal/using-apache-echarts-with-react-and-typescript-optimizing-bundle-size-29l8)
-- [Dev.to/JS] [penetration](https://dev.to/rootliao/penetration-3031)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
