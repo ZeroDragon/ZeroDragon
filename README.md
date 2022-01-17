@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Configurando Teste Unitário no VueJS + Jest](https://dev.to/franciscobressa/configurando-teste-unitario-no-vuejs-jest-3dk6)
+- [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
+- [Dev.to/JS] [Baloonza IT newsletters weekly digest #20](https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-20-496m)
+- [Dev.to/JS] [Add bookmark links to your headings to make your blog easy to reference](https://dev.to/robole/add-bookmark-links-to-your-headings-to-make-your-blog-easy-to-reference-2dm7)
+- [Dev.to/JS] [_document.js error from ctx.renderPage&lpar;&rpar;.](https://dev.to/adedayo888/documentjs-error-from-ctxrenderpage-nc6)
+- [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
+- [Dev.to/JS] [ELI5: Reactivity in Vue 3](https://dev.to/morgenstern2573/eli5-reactivity-in-vue-3-4o40)
+- [Dev.to/JS] [3 Neat toString&lpar;&rpar; Tricks in JavaScript](https://dev.to/masteringjs/3-neat-tostring-tricks-in-javascript-1lg9)
+- [Dev.to/JS] [Basic Async Await](https://dev.to/mahin678/basic-async-await-20h0)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#03&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-03-181e)
 - [Dev.to/JS] [Javascript Promise Basic Things](https://dev.to/mahin678/javascript-promise-basic-things-cof)
@@ -31,14 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploiting IndexedDB API information leaks in Safari 15](https://dev.to/savannahjs/exploiting-indexeddb-api-information-leaks-in-safari-15-58o2)
 - [Lifehacker] [You Can Now &#39;Repost&#39; on TikTok &lpar;Maybe&rpar;](https://lifehacker.com/you-can-now-repost-on-tiktok-maybe-1848356369)
 - [Dev.to/JS] [Bubble sort](https://dev.to/jonathanfarrow/bubble-sort-4p0a)
-- [Dev.to/JS] [A New Opportunity at LogicGate](https://dev.to/braydoncoyer/a-new-opportunity-at-logicgate-3i28)
-- [Dev.to/JS] [Prettier vs ESLint](https://dev.to/mahdi_falamarzi/prettier-vs-eslint-hhi)
-- [Dev.to/JS] [Paracetamol.js💊| #15: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-15-que-imprime-este-codigo-javascript-aj7)
-- [Dev.to/JS] [Architecting an Enterprise Grade Pub-Sub Solution](https://dev.to/push_technology/architecting-an-enterprise-grade-pub-sub-solution-11en)
-- [Dev.to/JS] [Paracetamol.js💊| #14: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-14-que-imprime-este-codigo-javascript-cb1)
 - [Lifehacker] [Is VR Gaming Bad for Your Health?](https://lifehacker.com/is-vr-gaming-bad-for-your-health-1848282540)
-- [Dev.to/JS] [How to create a simple event streaming in Laravel?](https://dev.to/bobbyiliev/how-to-create-a-simple-event-streaming-in-laravel-4pia)
-- [Dev.to/JS] [What is an NaN error in JavaScript?](https://dev.to/codewithsnowbit/what-is-an-nan-error-in-javascript-4fb)
 - [Lifehacker] [How to Get Excited About Cooking Again](https://lifehacker.com/how-to-get-excited-about-cooking-again-1848362935)
 - [Lifehacker] [Use This Interactive Map to Plan a New Hiking Route](https://lifehacker.com/use-this-interactive-map-to-plan-a-new-hiking-route-1848363772)
 - [Lifehacker] [AeroPress Recipes Every Coffee Enthusiast Should Know](https://lifehacker.com/aeropress-recipes-every-coffee-enthusiast-should-know-1848358682)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [16 Things That Make Your Car or Truck Look Cheap and Tacky](https://lifehacker.com/16-things-that-make-your-car-or-truck-look-cheap-and-ta-1848354984)
 - [Lifehacker] [Try This Game If You&#39;re Already Too Good at Wordle](https://lifehacker.com/try-this-game-if-youre-already-too-good-at-wordle-1848356298)
 - [Lifehacker] [How to Use a Springform Pan &lpar;and What to Do If You Don&#39;t Have One&rpar;](https://lifehacker.com/how-to-use-a-springform-pan-and-what-to-do-if-you-dont-1848355848)
-- [Lifehacker] [How to Get Any Kid to Like You, According to Lifehacker Readers](https://lifehacker.com/how-to-get-any-kid-to-like-you-according-to-lifehacker-1848355412)
-- [Lifehacker] [Can You Just Ignore a Subpoena? &lpar;And What Happens If You Do?&rpar;](https://lifehacker.com/can-you-just-ignore-a-subpoena-and-what-happens-if-yo-1848353480)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
