@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Test Automation Complete Tutorial | Selenium WebDriver With JavaScript Tutorial | 2022](https://dev.to/lambdatest/javascript-test-automation-complete-tutorial-selenium-webdriver-with-javascript-tutorial-2022-8d6)
+- [Lifehacker] [AeroPress Recipes Every Coffee Enthusiast Should Know](https://lifehacker.com/aeropress-recipes-every-coffee-enthusiast-should-know-1848358682)
+- [Dev.to/JS] [Supercharging your Twitter strategy 🚀](https://dev.to/brandonkylebailey/supercharging-your-twitter-strategy-3m1j)
+- [Dev.to/JS] [How to make full stack social media website using HTML, CSS and JS | Part 01](https://dev.to/kunaal438/how-to-make-full-stack-social-media-website-using-html-css-and-js-part-01-3o7l)
+- [Dev.to/JS] [JavaScript Hoisting](https://dev.to/ohdylan/javascript-hoisting-36p4)
 - [Dev.to/JS] [Will my AngularJS Web Applications be SEO Friendly](https://dev.to/deveshtiwari/will-my-angularjs-web-applications-be-seo-friendly-3k67)
 - [Dev.to/JS] [Functions in JS and it&#39;s use cases](https://dev.to/pragmacoder/functions-in-js-and-its-use-cases-25aj)
 - [Dev.to/JS] [LOCAL STORAGE](https://dev.to/dinodonal/local-storage-1e82)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rails, Popper, Tailwind &amp; Stimulus](https://dev.to/spaquet/rails-popper-tailwind-stimulus-1koi)
 - [Dev.to/JS] [Migrate from AngularJS to React](https://dev.to/mmcshinsky/migrate-from-angularjs-to-react-124n)
 - [Dev.to/JS] [Мой TodoList :&rpar;](https://dev.to/ibrakhimzhanov/moi-piervyi-proiekt-todolist-24k5)
-- [Dev.to/JS] [Day 80 of 100 Days of Code &amp; Scrum: Thinking of Learning MySQL or Flutter](https://dev.to/rammina/day-80-of-100-days-of-code-scrum-thinking-of-learning-mysql-or-flutter-1bbi)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week❤.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1kd9)
-- [Dev.to/JS] [Node.js vs. React.js Comparison: Which to Choose for your JavaScript App Development?](https://dev.to/theonetechnologies/nodejs-vs-reactjs-comparison-which-to-choose-for-your-javascript-app-development-43hb)
-- [Dev.to/JS] [Wrapper Component in React](https://dev.to/govindbisen/wrapper-component-in-react-5dn7)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
 - [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
 - [Lifehacker] [How to Move Without Using a Shitload of Boxes](https://lifehacker.com/how-to-move-without-using-a-shitload-of-boxes-1848254112)
-- [Lifehacker] [Why You Need Dropbox&#39;s New Beta If You Have an M1 Mac](https://lifehacker.com/why-you-need-dropboxs-new-beta-if-you-have-an-m1-mac-1848352613)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
