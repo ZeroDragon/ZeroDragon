@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Excited About Cooking Again](https://lifehacker.com/how-to-get-excited-about-cooking-again-1848362935)
+- [Dev.to/JS] [Speed up your Website](https://dev.to/albin_n_j/speed-up-your-website-37c3)
+- [Dev.to/JS] [Deploy a Rest API using Koa, Prisma, and Aiven on Koyeb](https://dev.to/koyeb/deploy-a-rest-api-using-koa-prisma-and-aiven-on-koyeb-5d6j)
+- [Dev.to/JS] [Google Maps Places API ← JavaScript](https://dev.to/hirajatamil/google-maps-places-api-javascript-2nfl)
+- [Lifehacker] [Use This Interactive Map to Plan a New Hiking Route](https://lifehacker.com/use-this-interactive-map-to-plan-a-new-hiking-route-1848363772)
 - [Dev.to/JS] [JavaScript Test Automation Complete Tutorial | Selenium WebDriver With JavaScript Tutorial | 2022](https://dev.to/lambdatest/javascript-test-automation-complete-tutorial-selenium-webdriver-with-javascript-tutorial-2022-8d6)
 - [Lifehacker] [AeroPress Recipes Every Coffee Enthusiast Should Know](https://lifehacker.com/aeropress-recipes-every-coffee-enthusiast-should-know-1848358682)
 - [Dev.to/JS] [Supercharging your Twitter strategy 🚀](https://dev.to/brandonkylebailey/supercharging-your-twitter-strategy-3m1j)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LOCAL STORAGE](https://dev.to/dinodonal/local-storage-1e82)
 - [Dev.to/JS] [Random background color changer in JavaScript](https://dev.to/iammanojrathod/random-background-color-changer-in-javascript-pp2)
 - [Dev.to/JS] [Frontend Challenges: Front-end Engineer Assignment](https://dev.to/teekay/frontend-challenges-front-end-engineer-assignment-15np)
-- [Dev.to/JS] [Rails, Popper, Tailwind &amp; Stimulus](https://dev.to/spaquet/rails-popper-tailwind-stimulus-1koi)
-- [Dev.to/JS] [Migrate from AngularJS to React](https://dev.to/mmcshinsky/migrate-from-angularjs-to-react-124n)
-- [Dev.to/JS] [Мой TodoList :&rpar;](https://dev.to/ibrakhimzhanov/moi-piervyi-proiekt-todolist-24k5)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Have You Been Eating Bananas Wrong This Whole Time?](https://lifehacker.com/have-you-been-eating-bananas-wrong-this-whole-time-1848354915)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 - [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
-- [Lifehacker] [How to Make Your External Monitor Look As Sharp As Your High-Res Mac Display](https://lifehacker.com/how-to-make-your-external-monitor-look-as-sharp-as-your-1848352179)
-- [Lifehacker] [How to Move Without Using a Shitload of Boxes](https://lifehacker.com/how-to-move-without-using-a-shitload-of-boxes-1848254112)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
