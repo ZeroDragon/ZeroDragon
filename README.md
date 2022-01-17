@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s create an Add Tags input with REACT JS](https://dev.to/0shuvo0/lets-create-an-add-tags-input-with-react-js-d29)
+- [Dev.to/JS] [Build welcome message bot for your discord server with discord v13](https://dev.to/fncolon/discordjs-v13-bot-tutorial-build-welcome-message-bot-for-your-discord-server-3a3)
 - [Dev.to/JS] [Intro To Web Development](https://dev.to/brt5181/intro-to-web-development-4ni3)
 - [Dev.to/JS] [Some Javascript Methods: slice&lpar;&rpar; &amp; splice&lpar;&rpar;](https://dev.to/avaldez98/some-javascript-methods-slice-splice-330f)
 - [Dev.to/JS] [Getting Started with Web Components](https://dev.to/taylormorini/getting-started-with-web-components-10k0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to JavaScript and Open Web Components](https://dev.to/abbeylyle4/introduction-to-javascript-and-open-web-components-3jno)
 - [Dev.to/JS] [Beginning to work with web components](https://dev.to/hek5118/beginning-to-work-with-web-components-4kn5)
 - [Dev.to/JS] [-](https://dev.to/jorgecornejodev/--on2)
-- [Dev.to/JS] [Firing on all cylinders&lpar;Part 1&rpar;: Understanding object value lookup in JavaScript interpreters and the rise of hidden classes](https://dev.to/about14sheep/firing-on-all-cylinderspart-1-understanding-object-value-lookup-in-dynamic-languages-and-the-rise-of-hidden-classes-in-v8-5h62)
-- [Dev.to/JS] [WTF JavaScript: A Variable with Side Effects](https://dev.to/p42/wtf-javascript-a-variable-with-side-effects-5e3h)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
