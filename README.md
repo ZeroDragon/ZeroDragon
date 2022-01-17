@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to JavaScript and Open Web Components](https://dev.to/abbeylyle4/introduction-to-javascript-and-open-web-components-3jno)
+- [Dev.to/JS] [Beginning to work with web components](https://dev.to/hek5118/beginning-to-work-with-web-components-4kn5)
+- [Dev.to/JS] [-](https://dev.to/jorgecornejodev/--on2)
+- [Dev.to/JS] [Firing on all cylinders&lpar;Part 1&rpar;: Understanding object value lookup in JavaScript interpreters and the rise of hidden classes](https://dev.to/about14sheep/firing-on-all-cylinderspart-1-understanding-object-value-lookup-in-dynamic-languages-and-the-rise-of-hidden-classes-in-v8-5h62)
 - [Dev.to/JS] [WTF JavaScript: A Variable with Side Effects](https://dev.to/p42/wtf-javascript-a-variable-with-side-effects-5e3h)
 - [Dev.to/JS] [New frameworks, old traditions](https://dev.to/noriller/new-frameworks-old-traditions-11nn)
 - [Dev.to/JS] [Ai generated code comments](https://dev.to/nevin1901/ai-generated-code-comments-35md)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced JavaScript Series - Part 5: IIFE &amp; &#39;this&#39; keyword in JS&lpar;tricky Eg.&rpar;, call&lpar;&rpar;, apply&lpar;&rpar;, bind&lpar;&rpar;, Currying&lpar;Functional Prog&rpar;](https://dev.to/pranav016/advanced-javascript-series-part-5-iife-this-keyword-in-jstricky-eg-call-apply-bind-curryingfunctional-prog-98c)
 - [Dev.to/JS] [What the WEB3? Understand WEB3 by Creating a Token Inside of a Node.js App](https://dev.to/pawel/what-the-web3-understand-web3-by-creating-a-token-inside-of-a-nodejs-app-2kj2)
 - [Dev.to/JS] [Dealing with asynchronous data in Javascript  : Promises](https://dev.to/swasdev4511/asynchronous-javascript-promises-472f)
-- [Dev.to/JS] [Advanced JavaScript Series - Part 4.2: Scope Chains and their working, Lexical and Variable Environments](https://dev.to/pranav016/advanced-javascript-series-part-42-scope-chains-and-their-working-lexical-and-variable-environments-19d5)
-- [Dev.to/JS] [React.js localStorage library showcase](https://dev.to/romeerez/reactjs-localstorage-library-showcase-5gj)
-- [Dev.to/JS] [Remix: Sharing Your Index Layout with Sub-Routes](https://dev.to/pckilgore/remix-sharing-your-index-layout-with-sub-routes-2856)
-- [Dev.to/JS] [Forms In React | Day 13](https://dev.to/developerioweb/forms-in-react-day-13-436c)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
