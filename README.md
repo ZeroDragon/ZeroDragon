@@ -23,19 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Taking localization to i18next level](https://dev.to/tolgee_i18n/taking-localization-to-i18next-level-146a)
+- [Dev.to/JS] [Fun Experiment: Bringing lazy execution to JS!](https://dev.to/josharsh/fun-experiment-bringing-lazy-execution-to-js-319g)
+- [Dev.to/JS] [Why JSON is So Popular?](https://dev.to/cbmgit/why-json-is-so-popular-1j8e)
+- [Dev.to/JS] [Fun Experiment: Bringing lazy execution to JS!](https://dev.to/josharsh1/fun-experiment-bringing-lazy-execution-to-js-43ah)
+- [Dev.to/JS] [Electron JS Big Rival?](https://dev.to/devlopr/desktop-apps-using-web-technologies-but-without-electron-4lhn)
+- [Dev.to/JS] [Features of Flutter](https://dev.to/ashikarose/features-of-flutter-3gaf)
 - [Dev.to/JS] [The this Keyword in Javascript](https://dev.to/isaacthajunior/the-this-keyword-in-javascript-30i2)
 - [Dev.to/JS] [How to Hire Front-End Developers: Steps You Should Follow](https://dev.to/jay_devs/how-to-hire-front-end-developers-steps-you-should-follow-1ic9)
 - [Dev.to/JS] [Web Development Trends](https://dev.to/itsmekrishlee/web-development-trends-321l)
 - [Dev.to/JS] [Code a social network with ReactJS](https://dev.to/linhtch90/code-a-social-network-with-reactjs-2936)
 - [Dev.to/JS] [Data Structures and Algorithms in JavaScript](https://dev.to/pietervanzyldev/data-structures-and-algorithms-in-javascript-1kd0)
 - [Dev.to/JS] [Memoizing with React.useMemo](https://dev.to/thenerdydev/memoizing-with-reactusememo-2m63)
-- [Dev.to/JS] [Write better code with these 5 JavaScript features](https://dev.to/anshuman_bhardwaj/write-better-code-with-these-5-javascript-features-22km)
-- [Dev.to/JS] [How to learn JavaScript &lpar;FREE JavaScript Course 2022&rpar;](https://dev.to/tutorialinhindi/how-to-learn-javascript-free-javascript-course-2022-4ocp)
-- [Dev.to/JS] [#18 - Previous multiple of three                      
-CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/18-previous-multiple-of-three-codewars-kata-7-kyu-32nj)
-- [Dev.to/JS] [React js CURD WebApp](https://dev.to/mishabka/react-js-curd-webapp-5a1n)
-- [Dev.to/JS] [How to make full stack social media website using HTML, CSS and JS | Part 01](https://dev.to/kunaal438/how-to-make-full-stack-social-media-website-using-html-css-and-js-part-01-46f1)
-- [Dev.to/JS] [How to implement Search feature using JavaScript](https://dev.to/dheerajmenonk/how-to-implement-search-feature-using-javascript-mhi)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
