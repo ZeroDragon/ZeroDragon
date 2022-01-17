@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React js CURD WebApp](https://dev.to/mishabka/react-js-curd-webapp-5a1n)
+- [Dev.to/JS] [How to make full stack social media website using HTML, CSS and JS | Part 01](https://dev.to/kunaal438/how-to-make-full-stack-social-media-website-using-html-css-and-js-part-01-46f1)
+- [Dev.to/JS] [How to implement Search feature using JavaScript](https://dev.to/dheerajmenonk/how-to-implement-search-feature-using-javascript-mhi)
+- [Dev.to/JS] [Everything you need to know about Vue Js Development](https://dev.to/sumyya_khan/everything-you-need-to-know-about-vue-js-development-1cd7)
+- [Dev.to/JS] [Creating Responsive Navbar using React-Bootstrap](https://dev.to/sampurna/creating-responsive-navbar-using-react-bootstrap-5ajg)
 - [Dev.to/JS] [New Beginning](https://dev.to/akhilkumarr13/new-beginning-4937)
 - [Dev.to/JS] [12 ways to get more GitHub stars for your open-source project](https://dev.to/tooljet/12-ways-to-get-more-github-stars-for-your-open-source-project-16ml)
 - [Dev.to/JS] [How to create and run your first Svelte Rollup Application?](https://dev.to/dashsaurabh/how-to-create-and-run-your-first-svelte-rollup-application-1k1i)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a simple water drinking tracker with JS](https://dev.to/atuljoshy/build-a-simple-water-drinking-tracker-with-js-1717)
 - [Dev.to/JS] [Using Apache ECharts with React and TypeScript: Optimizing Bundle Size](https://dev.to/maneetgoyal/using-apache-echarts-with-react-and-typescript-optimizing-bundle-size-29l8)
 - [Dev.to/JS] [penetration](https://dev.to/rootliao/penetration-3031)
-- [Dev.to/JS] [13+ Free Development Certification to get in 2021](https://dev.to/devdefinitive/13-free-development-certification-to-get-in-2021-3c5d)
-- [Dev.to/JS] [Building Basic Web Components](https://dev.to/juliansim1729/building-basic-web-components-2eg6)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 10](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-10-2k65)
-- [Dev.to/JS] [Introduction to Web Components](https://dev.to/nikital2022/introduction-to-web-components-319b)
-- [Dev.to/JS] [Let&#39;s create an Add Tags input with REACT JS](https://dev.to/0shuvo0/lets-create-an-add-tags-input-with-react-js-d29)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
