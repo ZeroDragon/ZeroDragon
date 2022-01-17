@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Saving Millions of Images Series [Part Five]](https://dev.to/atherdon/saving-millions-of-images-series-part-five-gb8)
+- [Lifehacker] [You Can Now &#39;Repost&#39; on TikTok &lpar;Maybe&rpar;](https://lifehacker.com/you-can-now-repost-on-tiktok-maybe-1848356369)
+- [Dev.to/JS] [Bubble sort](https://dev.to/jonathanfarrow/bubble-sort-4p0a)
+- [Dev.to/JS] [A New Opportunity at LogicGate](https://dev.to/braydoncoyer/a-new-opportunity-at-logicgate-3i28)
+- [Dev.to/JS] [Prettier vs ESLint](https://dev.to/mahdi_falamarzi/prettier-vs-eslint-hhi)
 - [Dev.to/JS] [Paracetamol.js💊| #15: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-15-que-imprime-este-codigo-javascript-aj7)
 - [Dev.to/JS] [Architecting an Enterprise Grade Pub-Sub Solution](https://dev.to/push_technology/architecting-an-enterprise-grade-pub-sub-solution-11en)
 - [Dev.to/JS] [Paracetamol.js💊| #14: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-14-que-imprime-este-codigo-javascript-cb1)
@@ -33,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple web scraper that reads all the links to JSON files in JS](https://dev.to/midhunz/simple-web-scraper-that-reads-all-the-links-to-json-files-in-js-51en)
 - [Lifehacker] [How to Get Excited About Cooking Again](https://lifehacker.com/how-to-get-excited-about-cooking-again-1848362935)
 - [Dev.to/JS] [Speed up your Website](https://dev.to/albin_n_j/speed-up-your-website-37c3)
-- [Dev.to/JS] [Deploy a Rest API using Koa, Prisma, and Aiven on Koyeb](https://dev.to/koyeb/deploy-a-rest-api-using-koa-prisma-and-aiven-on-koyeb-5d6j)
-- [Dev.to/JS] [ShortXML - xml with variables](https://dev.to/ru51a4/shortxml-xml-with-variables-2icm)
-- [Dev.to/JS] [Google Maps Places API ← JavaScript](https://dev.to/hirajatamil/google-maps-places-api-javascript-2nfl)
 - [Lifehacker] [Use This Interactive Map to Plan a New Hiking Route](https://lifehacker.com/use-this-interactive-map-to-plan-a-new-hiking-route-1848363772)
-- [Dev.to/JS] [JavaScript Test Automation Complete Tutorial | Selenium WebDriver With JavaScript Tutorial | 2022](https://dev.to/lambdatest/javascript-test-automation-complete-tutorial-selenium-webdriver-with-javascript-tutorial-2022-8d6)
 - [Lifehacker] [AeroPress Recipes Every Coffee Enthusiast Should Know](https://lifehacker.com/aeropress-recipes-every-coffee-enthusiast-should-know-1848358682)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Just Ignore a Subpoena? &lpar;And What Happens If You Do?&rpar;](https://lifehacker.com/can-you-just-ignore-a-subpoena-and-what-happens-if-yo-1848353480)
 - [Lifehacker] [How to Avoid Exercise Burnout](https://lifehacker.com/how-to-avoid-exercise-burnout-1848352174)
 - [Lifehacker] [Have You Been Eating Bananas Wrong This Whole Time?](https://lifehacker.com/have-you-been-eating-bananas-wrong-this-whole-time-1848354915)
-- [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
