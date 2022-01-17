@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro To Web Development](https://dev.to/brt5181/intro-to-web-development-4ni3)
+- [Dev.to/JS] [Some Javascript Methods: slice&lpar;&rpar; &amp; splice&lpar;&rpar;](https://dev.to/avaldez98/some-javascript-methods-slice-splice-330f)
+- [Dev.to/JS] [Getting Started with Web Components](https://dev.to/taylormorini/getting-started-with-web-components-10k0)
 - [Dev.to/JS] [Leetcode diary: 22. Generate Parentheses [DFS]](https://dev.to/kevin074/leetcode-diary-22-generate-parentheses-dfs-41dd)
 - [Dev.to/JS] [Leading developer relations at a Silicon Valley Startup](https://dev.to/nutlope/leading-developer-relations-at-a-silicon-valley-startup-kbd)
 - [Dev.to/JS] [Intro to Working With Web Components](https://dev.to/aidenbrook/intro-to-working-with-web-components-ffh)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [-](https://dev.to/jorgecornejodev/--on2)
 - [Dev.to/JS] [Firing on all cylinders&lpar;Part 1&rpar;: Understanding object value lookup in JavaScript interpreters and the rise of hidden classes](https://dev.to/about14sheep/firing-on-all-cylinderspart-1-understanding-object-value-lookup-in-dynamic-languages-and-the-rise-of-hidden-classes-in-v8-5h62)
 - [Dev.to/JS] [WTF JavaScript: A Variable with Side Effects](https://dev.to/p42/wtf-javascript-a-variable-with-side-effects-5e3h)
-- [Dev.to/JS] [New frameworks, old traditions](https://dev.to/noriller/new-frameworks-old-traditions-11nn)
-- [Dev.to/JS] [Ai generated code comments](https://dev.to/nevin1901/ai-generated-code-comments-35md)
-- [Dev.to/JS] [Big Collection of free resources for product developer and designers](https://dev.to/ravics09/big-collection-of-free-resources-for-product-developer-and-designers-2a9i)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
