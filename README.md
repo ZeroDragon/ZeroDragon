@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [penetration](https://dev.to/rootliao/penetration-3031)
+- [Dev.to/JS] [13+ Free Development Certification to get in 2021](https://dev.to/devdefinitive/13-free-development-certification-to-get-in-2021-3c5d)
 - [Dev.to/JS] [Building Basic Web Components](https://dev.to/juliansim1729/building-basic-web-components-2eg6)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 10](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-10-2k65)
 - [Dev.to/JS] [Introduction to Web Components](https://dev.to/nikital2022/introduction-to-web-components-319b)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started with Web Components](https://dev.to/taylormorini/getting-started-with-web-components-10k0)
 - [Dev.to/JS] [Leetcode diary: 22. Generate Parentheses [DFS]](https://dev.to/kevin074/leetcode-diary-22-generate-parentheses-dfs-41dd)
 - [Dev.to/JS] [Leading developer relations at a Silicon Valley Startup](https://dev.to/nutlope/leading-developer-relations-at-a-silicon-valley-startup-kbd)
-- [Dev.to/JS] [Intro to Working With Web Components](https://dev.to/aidenbrook/intro-to-working-with-web-components-ffh)
-- [Dev.to/JS] [Array Operation in MongoDB](https://dev.to/lazypro/array-operation-in-mongodb-2jf0)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
