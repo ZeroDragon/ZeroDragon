@@ -23,21 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #15: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-15-que-imprime-este-codigo-javascript-aj7)
+- [Dev.to/JS] [Architecting an Enterprise Grade Pub-Sub Solution](https://dev.to/push_technology/architecting-an-enterprise-grade-pub-sub-solution-11en)
+- [Dev.to/JS] [Paracetamol.js💊| #14: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-14-que-imprime-este-codigo-javascript-cb1)
+- [Lifehacker] [Is VR Gaming Bad for Your Health?](https://lifehacker.com/is-vr-gaming-bad-for-your-health-1848282540)
+- [Dev.to/JS] [How to create a simple event streaming in Laravel?](https://dev.to/bobbyiliev/how-to-create-a-simple-event-streaming-in-laravel-4pia)
+- [Dev.to/JS] [What is an NaN error in JavaScript?](https://dev.to/codewithsnowbit/what-is-an-nan-error-in-javascript-4fb)
+- [Dev.to/JS] [Get Signup Notifications In Telegram Using Auth0 Actions.](https://dev.to/adisreyaj/get-signup-notifications-in-telegram-using-auth0-actions-3gc9)
+- [Dev.to/JS] [Simple web scraper that reads all the links to JSON files in JS](https://dev.to/midhunz/simple-web-scraper-that-reads-all-the-links-to-json-files-in-js-51en)
 - [Lifehacker] [How to Get Excited About Cooking Again](https://lifehacker.com/how-to-get-excited-about-cooking-again-1848362935)
 - [Dev.to/JS] [Speed up your Website](https://dev.to/albin_n_j/speed-up-your-website-37c3)
 - [Dev.to/JS] [Deploy a Rest API using Koa, Prisma, and Aiven on Koyeb](https://dev.to/koyeb/deploy-a-rest-api-using-koa-prisma-and-aiven-on-koyeb-5d6j)
+- [Dev.to/JS] [ShortXML - xml with variables](https://dev.to/ru51a4/shortxml-xml-with-variables-2icm)
 - [Dev.to/JS] [Google Maps Places API ← JavaScript](https://dev.to/hirajatamil/google-maps-places-api-javascript-2nfl)
 - [Lifehacker] [Use This Interactive Map to Plan a New Hiking Route](https://lifehacker.com/use-this-interactive-map-to-plan-a-new-hiking-route-1848363772)
 - [Dev.to/JS] [JavaScript Test Automation Complete Tutorial | Selenium WebDriver With JavaScript Tutorial | 2022](https://dev.to/lambdatest/javascript-test-automation-complete-tutorial-selenium-webdriver-with-javascript-tutorial-2022-8d6)
 - [Lifehacker] [AeroPress Recipes Every Coffee Enthusiast Should Know](https://lifehacker.com/aeropress-recipes-every-coffee-enthusiast-should-know-1848358682)
-- [Dev.to/JS] [Supercharging your Twitter strategy 🚀](https://dev.to/brandonkylebailey/supercharging-your-twitter-strategy-3m1j)
-- [Dev.to/JS] [How to make full stack social media website using HTML, CSS and JS | Part 01](https://dev.to/kunaal438/how-to-make-full-stack-social-media-website-using-html-css-and-js-part-01-3o7l)
-- [Dev.to/JS] [JavaScript Hoisting](https://dev.to/ohdylan/javascript-hoisting-36p4)
-- [Dev.to/JS] [Will my AngularJS Web Applications be SEO Friendly](https://dev.to/deveshtiwari/will-my-angularjs-web-applications-be-seo-friendly-3k67)
-- [Dev.to/JS] [Functions in JS and it&#39;s use cases](https://dev.to/pragmacoder/functions-in-js-and-its-use-cases-25aj)
-- [Dev.to/JS] [LOCAL STORAGE](https://dev.to/dinodonal/local-storage-1e82)
-- [Dev.to/JS] [Random background color changer in JavaScript](https://dev.to/iammanojrathod/random-background-color-changer-in-javascript-pp2)
-- [Dev.to/JS] [Frontend Challenges: Front-end Engineer Assignment](https://dev.to/teekay/frontend-challenges-front-end-engineer-assignment-15np)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid Exercise Burnout](https://lifehacker.com/how-to-avoid-exercise-burnout-1848352174)
 - [Lifehacker] [Have You Been Eating Bananas Wrong This Whole Time?](https://lifehacker.com/have-you-been-eating-bananas-wrong-this-whole-time-1848354915)
 - [Lifehacker] [All the Ways You Need to Adapt Your Training As You Get Stronger](https://lifehacker.com/all-the-ways-you-need-to-adapt-your-training-as-you-get-1848355616)
-- [Lifehacker] [Why Dunking Cookies in Milk &lpar;and Tea and Coffee&rpar; Is Good, Scientifically Speaking](https://lifehacker.com/why-dunking-cookies-in-milk-and-tea-and-coffee-is-goo-1848354596)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
