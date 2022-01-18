@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Created a new responsive website in 2hours.](https://dev.to/sanath555/created-a-new-responsive-website-in-2hours-4k3d)
+- [Dev.to/JS] [It&#39;s Prisma Time - Aggregate and GroupBy](https://dev.to/this-is-learning/its-prisma-time-aggregate-and-groupby-36a7)
+- [Dev.to/JS] [Understanding Callback function](https://dev.to/malcolmkee/understanding-callback-function-2jpf)
+- [Dev.to/JS] [Syntax highlighting with Prism and Next.js](https://dev.to/dawsoncodes/syntax-highlighting-with-prism-and-nextjs-40ee)
+- [Dev.to/JS] [What are the different data types present in JavaScript?](https://dev.to/codewithsnowbit/what-are-the-different-data-types-present-in-javascript-13e7)
+- [Dev.to/JS] [Don&#39;t fully trust AI in dev work! /yet](https://dev.to/kaumnen/dont-fully-trust-ai-in-dev-work-yet-4n35)
+- [Dev.to/JS] [Why Node.js is Good for Backend Development?](https://dev.to/herbertj/why-nodejs-is-good-for-backend-development-3o3o)
+- [Dev.to/JS] [TypeScript. Advanced Project Setup](https://dev.to/he110/typescript-advanced-project-setup-4l04)
 - [Dev.to/JS] [How I Added a Service Worker to my Website](https://dev.to/dwhenson/how-to-add-a-service-worker-to-a-website-3ppi)
 - [Dev.to/JS] [#19 - Binary Addition                      
 CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/19-binary-addition-codewars-kata-7-kyu-jlc)
 - [Dev.to/JS] [Finding Duplicate Documents in MongoDB Collection](https://dev.to/stackblogger/finding-duplicate-documents-in-mongodb-collection-l53)
 - [Dev.to/JS] [Understanding Exception Handling in JavaScript](https://dev.to/malcolmkee/understanding-exception-handling-in-javascript-1abn)
-- [Dev.to/JS] [Improve Performance Using Web Workers | JavaScript](https://dev.to/stackblogger/improve-performance-using-web-workers-javascript-2mih)
-- [Dev.to/JS] [For Loop through an array in backward direction in JavaScript](https://dev.to/sh20raj/for-loop-through-an-array-in-backward-direction-in-javascript-421i)
-- [Dev.to/JS] [Interesting react projects for learning](https://dev.to/gmoniava/interesting-react-projects-for-learning-3l8b)
-- [Dev.to/JS] [Daily tools for Office](https://dev.to/abhimanyudev7/daily-tools-for-office-23f2)
-- [Dev.to/JS] [Speed up Windows for heavy development.](https://dev.to/akashpattnaik/speed-up-windows-for-heavy-development-3k4e)
-- [Dev.to/JS] [Как стать Front-End разработчиком в 2022 году в Узбекистане](https://dev.to/ibrakhimzhanov/kak-nauchitsia-frontiend-razrabotku-v-2022-ghodu-dlia-uzbiekistana-39g7)
-- [Dev.to/JS] [Dependency Injection in Node.js - Higher Order Routing With Express](https://dev.to/asayerio_techblog/dependency-injection-in-nodejs-higher-order-routing-with-express-1905)
-- [Dev.to/JS] [Website Scraper | NodeJS](https://dev.to/princejaiswal/website-scraper-nodejs-4323)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
