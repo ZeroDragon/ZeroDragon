@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Speed up Windows for heavy development.](https://dev.to/akashpattnaik/speed-up-windows-for-heavy-development-3k4e)
+- [Dev.to/JS] [Как научиться фронтенд-разработку в 2022 году для Узбекистана](https://dev.to/ibrakhimzhanov/kak-nauchitsia-frontiend-razrabotku-v-2022-ghodu-dlia-uzbiekistana-39g7)
+- [Dev.to/JS] [Dependency Injection in Node.js - Higher Order Routing With Express](https://dev.to/asayerio_techblog/dependency-injection-in-nodejs-higher-order-routing-with-express-1905)
+- [Dev.to/JS] [Website Scraper | NodeJS](https://dev.to/princejaiswal/website-scraper-nodejs-4323)
 - [Dev.to/JS] [Pass By Value vs Pass By Reference in JavaScript](https://dev.to/lawanu/pass-by-value-vs-pass-by-reference-in-javascript-ah3)
 - [Dev.to/JS] [Disc Brake Pad Price](https://dev.to/anwarmalik007/disc-brake-pad-price-19bb)
 - [Dev.to/JS] [Adding Custom Font Classes to TailwindCSS](https://dev.to/sabinthedev/adding-custom-font-classes-to-tailwindcss-o5l)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Developer Advocacy and how to get a job in it?](https://dev.to/nutlope/what-is-developer-advocacy-1pf3)
 - [Dev.to/JS] [Develope a twitter clone with ReactJS](https://dev.to/linhtch90/develope-a-twitter-clone-with-reactjs-2gh5)
 - [Dev.to/JS] [How to write clean code?!](https://dev.to/kubilayckmk/how-to-write-clean-code-544f)
-- [Dev.to/JS] [13 Unique and Fun APIs + Project ideas](https://dev.to/devdefinitive/13-unique-and-fun-apis-project-ideas-3766)
-- [Dev.to/JS] [Leetcode diary: group 1s together trilogy [medium, medium, hard]](https://dev.to/kevin074/leetcode-diary-group-1s-together-trilogy-medium-medium-hard-1adn)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 11](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-11-1cpi)
-- [Dev.to/JS] [How to Program Discord Message Embeds with Buttons](https://dev.to/janeth/how-to-program-discord-message-embeds-with-buttons-49dm)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
