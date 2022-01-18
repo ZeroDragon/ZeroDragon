@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Your Free At-Home COVID Tests From the U.S. Government](https://lifehacker.com/how-to-get-your-free-at-home-covid-tests-from-the-u-s-1848375992)
+- [Dev.to/JS] [How to create your project docs using storybook and host it with github pages](https://dev.to/flodev/how-to-create-your-project-docs-using-storybook-and-host-it-with-github-pages-3gfi)
+- [Dev.to/JS] [Free Hosting Services For Your React JS App](https://dev.to/samithawijesekara/free-hosting-services-for-your-react-js-app-2j2m)
+- [Lifehacker] [How to Watch Android 1994 PC1 Hurtle Past Earth Today](https://lifehacker.com/how-to-watch-android-1994-pc1-hurtle-past-earth-today-1848375484)
+- [Dev.to/JS] [WEBCode.run Private Endpoints on Observablehq.com Released!](https://dev.to/tomlarkworthy/webcoderun-private-endpoints-on-observablehqcom-released-8n)
+- [Dev.to/JS] [Update on eBay Auto Poster](https://dev.to/issa38/update-on-ebay-auto-poster-4mhc)
+- [Dev.to/JS] [Everything about our migration from ReactJS to NextJS](https://dev.to/ms_yogii/everything-about-our-migration-from-reactjs-to-nextjs-1eac)
 - [Lifehacker] [How to Recover From Chronic Sleep Deprivation](https://lifehacker.com/how-to-recover-from-chronic-sleep-deprivation-1848371455)
 - [Dev.to/JS] [10 Things I’ve Learned One Week After Graduating a Software Engineering Bootcamp](https://dev.to/wgotterer/10-things-ive-learned-one-week-after-graduating-a-software-engineering-bootcamp-288a)
 - [Dev.to/JS] [JavaScript Basics in its Simplest Form](https://dev.to/moose_said/javascript-basics-in-its-simplest-form-5go8)
@@ -33,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [remix.run + cloudflare workers + supabase + tailwind](https://dev.to/nathanjohnson320/remixrun-cloudflare-workers-supabase-tailwind-3f37)
 - [Lifehacker] [You Can Overcome Your Empty Grocery Store](https://lifehacker.com/you-can-overcome-your-empty-grocery-store-1848362014)
 - [Dev.to/JS] [tsParticles - Start confetti animation with just a click](https://dev.to/matteobruni/tsparticles-start-confetti-animation-with-just-a-click-2n37)
-- [Dev.to/JS] [Everything about our migration from ReactJS to NextJS](https://dev.to/ms_yogii/everything-about-our-migration-from-reactjs-to-nextjs-2nee)
-- [Dev.to/JS] [When to use the useRef hook ?](https://dev.to/thenerdydev/when-to-use-the-useref-hook--3iom)
 - [Lifehacker] [‘FDA Cleared’ Is Not the Same As ‘FDA Approved’ &lpar;and Why the Difference Matters&rpar;](https://lifehacker.com/fda-cleared-is-not-the-same-as-fda-approved-and-wh-1848362157)
-- [Dev.to/JS] [Browser Live Transcription - Protecting Your API Key](https://dev.to/deepgram/browser-live-transcription-protecting-your-api-key-5891)
-- [Dev.to/JS] [Simple Quiz Project Using Vue](https://dev.to/medan_in_code/simple-quiz-project-using-vue-4hc9)
-- [Dev.to/JS] [A Complete React Todo App using React, Redux, Framer Motion](https://dev.to/shaifarfan08/a-complete-react-todo-app-using-react-redux-framer-motion-2hk0)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Lifehacker] [Make It Personal With the Gibson Cocktail](https://lifehacker.com/make-it-personal-with-the-gibson-cocktail-1848359019)
 - [Lifehacker] [How to Permanently Delete Your Reddit Account &lpar;or Your Old, Embarrassing Posts&rpar;](https://lifehacker.com/how-to-permanently-delete-your-reddit-account-or-your-1848358561)
-- [Lifehacker] [Is the &#39;Nocebo Effect&#39; Hurting Your Fitness Goals?](https://lifehacker.com/is-the-nocebo-effect-hurting-your-health-goals-1848360955)
-- [Lifehacker] [How to Make a Cheap DIY Canopy Bed](https://lifehacker.com/how-to-make-a-cheap-diy-canopy-bed-1848358179)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
