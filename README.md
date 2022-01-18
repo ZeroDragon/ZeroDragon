@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Factory-Reset Your Apple Watch](https://lifehacker.com/the-best-way-to-factory-reset-your-apple-watch-1848371122)
+- [Dev.to/JS] [learning](https://dev.to/ajjken20/learning-29pm)
+- [Dev.to/JS] [Get last element of array in JavsScript](https://dev.to/vickyktk/get-last-element-of-array-in-javsscript-2n0h)
+- [Lifehacker] [Everything You Need to Know Before Buying Cannabis Concentrates](https://lifehacker.com/everything-you-need-to-know-before-buying-cannabis-conc-1848377146)
+- [Dev.to/JS] [A Fundamental Disconnect](https://dev.to/aarongustafson/a-fundamental-disconnect-3he1)
+- [Dev.to/JS] [D3 Histograms and Fixing the Bin Problem](https://dev.to/kevinlien/d3-histograms-and-fixing-the-bin-problem-4ac5)
 - [Lifehacker] [How to Order Good Wine at a Restaurant Without Sounding Like a Moron](https://lifehacker.com/how-to-order-good-wine-at-a-restaurant-without-sounding-1848371875)
 - [Dev.to/JS] [Starting Week 1](https://dev.to/hariseldon27/starting-week-1-442o)
 - [Dev.to/JS] [Paracetamol.js💊| #17: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-17-que-imprime-este-codigo-javascript-42gb)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch Android 1994 PC1 Hurtle Past Earth Today](https://lifehacker.com/how-to-watch-android-1994-pc1-hurtle-past-earth-today-1848375484)
 - [Dev.to/JS] [WEBCode.run Private Endpoints on Observablehq.com Released!](https://dev.to/tomlarkworthy/webcoderun-private-endpoints-on-observablehqcom-released-8n)
 - [Dev.to/JS] [Update on eBay Auto Poster](https://dev.to/issa38/update-on-ebay-auto-poster-4mhc)
-- [Dev.to/JS] [Everything about our migration from ReactJS to NextJS](https://dev.to/ms_yogii/everything-about-our-migration-from-reactjs-to-nextjs-1eac)
 - [Lifehacker] [How to Recover From Chronic Sleep Deprivation](https://lifehacker.com/how-to-recover-from-chronic-sleep-deprivation-1848371455)
-- [Dev.to/JS] [10 Things I’ve Learned One Week After Graduating a Software Engineering Bootcamp](https://dev.to/wgotterer/10-things-ive-learned-one-week-after-graduating-a-software-engineering-bootcamp-288a)
-- [Dev.to/JS] [JavaScript Basics in its Simplest Form](https://dev.to/moose_said/javascript-basics-in-its-simplest-form-5go8)
-- [Dev.to/JS] [How to Create a Progressive Web App with Angular](https://dev.to/sanity-io/how-to-create-a-progressive-web-app-with-angular-2dgi)
 - [Lifehacker] [What to Use If You Run Out of Cornmeal When You’re Baking Bread](https://lifehacker.com/what-to-use-if-you-run-out-of-cornmeal-when-you-re-baki-1848373728)
 - [Lifehacker] [You Can Overcome Your Empty Grocery Store](https://lifehacker.com/you-can-overcome-your-empty-grocery-store-1848362014)
 - [Lifehacker] [‘FDA Cleared’ Is Not the Same As ‘FDA Approved’ &lpar;and Why the Difference Matters&rpar;](https://lifehacker.com/fda-cleared-is-not-the-same-as-fda-approved-and-wh-1848362157)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
 - [Lifehacker] [How to Use a Snowblower Faster so You&#39;re Not Freezing Your Ass Off](https://lifehacker.com/how-to-use-a-snowblower-faster-so-youre-not-freezing-yo-1848362043)
-- [Lifehacker] [30 Movies That Are Basically Perfect](https://lifehacker.com/30-movies-that-are-basically-perfect-1848244337)
-- [Lifehacker] [The Out-of-Touch Adults Guide to Kid Culture: Did Logan Paul Pay $3.5 Million for Fake Pokémon Cards?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-did-logan-1848361658)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
