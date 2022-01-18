@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Overcoming IndexedDB Limits by Streaming Videos](https://dev.to/benank/overcoming-indexeddb-limits-by-streaming-videos-47pn)
+- [Dev.to/JS] [자바스크립트 중괄호의 노래](https://dev.to/composite/jabaseukeuribteu-junggwalho-sayongbeob-4e7p)
 - [Dev.to/JS] [A Good Dev Makes Post Right?](https://dev.to/issa38/a-good-dev-makes-post-right-5g8d)
 - [Dev.to/JS] [TikTok API: How to Post to TikTok Using a Social Media API](https://dev.to/gbourne/tiktok-api-how-to-post-to-tiktok-using-a-social-media-api-83a)
 - [Dev.to/JS] [[week2] Days 1 - JS data structure](https://dev.to/blackthor/week2-days-1-js-data-structure-ncp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Autocomplete In Javascript From Scratch](https://dev.to/sameer8saini/autocomplete-in-javascript-from-scratch-3c03)
 - [Dev.to/JS] [TypeScript. First glance](https://dev.to/he110/typescript-first-glance-407c)
 - [Dev.to/JS] [Adding a Next.js Administration Dashboard to your site in seconds](https://dev.to/ironcladdev/adding-a-nextjs-administration-dashboard-to-your-site-in-seconds-7jb)
-- [Dev.to/JS] [Single place of form validation rules for clients and services with JSON Schema](https://dev.to/dsitdikov/single-place-of-form-validation-rules-for-clients-and-services-with-json-schema-i1g)
-- [Dev.to/JS] [Real-time Updates: Polling, SSE and Web Sockets](https://dev.to/thesanjeevsharma/real-time-updates-polling-sse-and-web-sockets-277i)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
