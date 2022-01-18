@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Recover From Chronic Sleep Deprivation](https://lifehacker.com/how-to-recover-from-chronic-sleep-deprivation-1848371455)
+- [Dev.to/JS] [10 Things I’ve Learned One Week After Graduating a Software Engineering Bootcamp](https://dev.to/wgotterer/10-things-ive-learned-one-week-after-graduating-a-software-engineering-bootcamp-288a)
+- [Dev.to/JS] [JavaScript Basics in its Simplest Form](https://dev.to/moose_said/javascript-basics-in-its-simplest-form-5go8)
+- [Dev.to/JS] [How to Create a Progressive Web App with Angular](https://dev.to/sanity-io/how-to-create-a-progressive-web-app-with-angular-2dgi)
+- [Dev.to/JS] [Animated hamburger menu](https://dev.to/iammanojrathod/animated-hamburger-menu-2n7n)
+- [Lifehacker] [What to Use If You Run Out of Cornmeal When You’re Baking Bread](https://lifehacker.com/what-to-use-if-you-run-out-of-cornmeal-when-you-re-baki-1848373728)
+- [Dev.to/JS] [Why We’re Bringing “Google Maps for Code” to Node.js Apps](https://dev.to/appland/why-were-bringing-google-maps-for-code-to-nodejs-apps-45mg)
 - [Dev.to/JS] [remix.run + cloudflare workers + supabase + tailwind](https://dev.to/nathanjohnson320/remixrun-cloudflare-workers-supabase-tailwind-3f37)
 - [Lifehacker] [You Can Overcome Your Empty Grocery Store](https://lifehacker.com/you-can-overcome-your-empty-grocery-store-1848362014)
 - [Dev.to/JS] [tsParticles - Start confetti animation with just a click](https://dev.to/matteobruni/tsparticles-start-confetti-animation-with-just-a-click-2n37)
@@ -32,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Browser Live Transcription - Protecting Your API Key](https://dev.to/deepgram/browser-live-transcription-protecting-your-api-key-5891)
 - [Dev.to/JS] [Simple Quiz Project Using Vue](https://dev.to/medan_in_code/simple-quiz-project-using-vue-4hc9)
 - [Dev.to/JS] [A Complete React Todo App using React, Redux, Framer Motion](https://dev.to/shaifarfan08/a-complete-react-todo-app-using-react-redux-framer-motion-2hk0)
-- [Dev.to/JS] [Apply Filter when history.push&lpar;&rpar; using React.JS and Umi.JS](https://dev.to/manas_dev/apply-filter-when-historypush-using-reactjs-and-umijs-2fje)
-- [Dev.to/JS] [How to use Svelte Keyed Each Block?](https://dev.to/dashsaurabh/how-to-use-svelte-keyed-each-block-pmf)
-- [Dev.to/JS] [14 GitHub Repositories to Ace Your JavaScript Interviews 🎯 🚀](https://dev.to/madza/14-github-repositories-to-ace-your-javascript-interviews-1phi)
-- [Dev.to/JS] [Platform Engineering with Pulumi — Episode 3: Platform &amp; Application Deployment with GitOps Automation](https://dev.to/abvijaykumar/platform-engineering-with-pulumi-episode-3-platform-application-deployment-with-gitops-automation-13md)
-- [Dev.to/JS] [My biggest fuck up of 2022 &lpar;so far&rpar;](https://dev.to/jkbl/my-biggest-fuck-up-of-2022-so-far-295k)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Permanently Delete Your Reddit Account &lpar;or Your Old, Embarrassing Posts&rpar;](https://lifehacker.com/how-to-permanently-delete-your-reddit-account-or-your-1848358561)
 - [Lifehacker] [Is the &#39;Nocebo Effect&#39; Hurting Your Fitness Goals?](https://lifehacker.com/is-the-nocebo-effect-hurting-your-health-goals-1848360955)
 - [Lifehacker] [How to Make a Cheap DIY Canopy Bed](https://lifehacker.com/how-to-make-a-cheap-diy-canopy-bed-1848358179)
-- [Lifehacker] [10 iMessage Shortcuts You Should Use on Your Mac](https://lifehacker.com/10-imessage-shortcuts-you-should-use-on-your-mac-1848358696)
-- [Lifehacker] [16 Things That Make Your Car or Truck Look Cheap and Tacky](https://lifehacker.com/16-things-that-make-your-car-or-truck-look-cheap-and-ta-1848354984)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
