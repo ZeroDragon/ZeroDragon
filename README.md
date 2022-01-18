@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [remix.run + cloudflare workers + supabase + tailwind](https://dev.to/nathanjohnson320/remixrun-cloudflare-workers-supabase-tailwind-3f37)
+- [Lifehacker] [You Can Overcome Your Empty Grocery Store](https://lifehacker.com/you-can-overcome-your-empty-grocery-store-1848362014)
+- [Dev.to/JS] [tsParticles - Start confetti animation with just a click](https://dev.to/matteobruni/tsparticles-start-confetti-animation-with-just-a-click-2n37)
+- [Dev.to/JS] [Everything about our migration from ReactJS to NextJS](https://dev.to/ms_yogii/everything-about-our-migration-from-reactjs-to-nextjs-2nee)
+- [Dev.to/JS] [When to use the useRef hook ?](https://dev.to/thenerdydev/when-to-use-the-useref-hook--3iom)
+- [Lifehacker] [‘FDA Cleared’ Is Not the Same As ‘FDA Approved’ &lpar;and Why the Difference Matters&rpar;](https://lifehacker.com/fda-cleared-is-not-the-same-as-fda-approved-and-wh-1848362157)
+- [Dev.to/JS] [Browser Live Transcription - Protecting Your API Key](https://dev.to/deepgram/browser-live-transcription-protecting-your-api-key-5891)
+- [Dev.to/JS] [Simple Quiz Project Using Vue](https://dev.to/medan_in_code/simple-quiz-project-using-vue-4hc9)
 - [Dev.to/JS] [A Complete React Todo App using React, Redux, Framer Motion](https://dev.to/shaifarfan08/a-complete-react-todo-app-using-react-redux-framer-motion-2hk0)
 - [Dev.to/JS] [Apply Filter when history.push&lpar;&rpar; using React.JS and Umi.JS](https://dev.to/manas_dev/apply-filter-when-historypush-using-reactjs-and-umijs-2fje)
 - [Dev.to/JS] [How to use Svelte Keyed Each Block?](https://dev.to/dashsaurabh/how-to-use-svelte-keyed-each-block-pmf)
 - [Dev.to/JS] [14 GitHub Repositories to Ace Your JavaScript Interviews 🎯 🚀](https://dev.to/madza/14-github-repositories-to-ace-your-javascript-interviews-1phi)
 - [Dev.to/JS] [Platform Engineering with Pulumi — Episode 3: Platform &amp; Application Deployment with GitOps Automation](https://dev.to/abvijaykumar/platform-engineering-with-pulumi-episode-3-platform-application-deployment-with-gitops-automation-13md)
 - [Dev.to/JS] [My biggest fuck up of 2022 &lpar;so far&rpar;](https://dev.to/jkbl/my-biggest-fuck-up-of-2022-so-far-295k)
-- [Dev.to/JS] [You can&#39;t believe How many website are made by Reacts!](https://dev.to/iamaliahad/you-cant-believe-how-many-website-are-made-by-reacts-1dbk)
-- [Dev.to/JS] [Javascript&#39;s reduce method in a nutshell.](https://dev.to/amiinequ/javascripts-reduce-method-in-a-nutshell-gik)
-- [Dev.to/JS] [Annoying Drag &amp; Drop Bug - Chrome](https://dev.to/volker_schukai/annoying-drag-drop-bug-chrome-4oml)
-- [Dev.to/JS] [Rockpack 2.0 Official Release](https://dev.to/alexsergey/rockpack-20-official-release-5ak9)
-- [Dev.to/JS] [Colors.js in dart.](https://dev.to/akashpattnaik/colorsjs-in-dart-3oe2)
-- [Dev.to/JS] [Day 81 of 100 Days of Code &amp; Scrum: Picking Up MySQL AKA Dolphin Database](https://dev.to/rammina/day-81-of-100-days-of-code-scrum-picking-up-mysql-aka-dolphin-database-175k)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make a Cheap DIY Canopy Bed](https://lifehacker.com/how-to-make-a-cheap-diy-canopy-bed-1848358179)
 - [Lifehacker] [10 iMessage Shortcuts You Should Use on Your Mac](https://lifehacker.com/10-imessage-shortcuts-you-should-use-on-your-mac-1848358696)
 - [Lifehacker] [16 Things That Make Your Car or Truck Look Cheap and Tacky](https://lifehacker.com/16-things-that-make-your-car-or-truck-look-cheap-and-ta-1848354984)
-- [Lifehacker] [Try This Game If You&#39;re Already Too Good at Wordle](https://lifehacker.com/try-this-game-if-youre-already-too-good-at-wordle-1848356298)
-- [Lifehacker] [How to Use a Springform Pan &lpar;and What to Do If You Don&#39;t Have One&rpar;](https://lifehacker.com/how-to-use-a-springform-pan-and-what-to-do-if-you-dont-1848355848)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
