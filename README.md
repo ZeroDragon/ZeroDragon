@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You can&#39;t believe How many website are made by Reacts!](https://dev.to/iamaliahad/you-cant-believe-how-many-website-are-made-by-reacts-1dbk)
+- [Dev.to/JS] [Javascript&#39;s reduce method in a nutshell.](https://dev.to/amiinequ/javascripts-reduce-method-in-a-nutshell-gik)
+- [Dev.to/JS] [Annoying Drag &amp; Drop Bug - Chrome](https://dev.to/volker_schukai/annoying-drag-drop-bug-chrome-4oml)
+- [Dev.to/JS] [Rockpack 2.0 Official Release](https://dev.to/alexsergey/rockpack-20-official-release-5ak9)
+- [Dev.to/JS] [Colors.js in dart.](https://dev.to/akashpattnaik/colorsjs-in-dart-3oe2)
 - [Dev.to/JS] [Day 81 of 100 Days of Code &amp; Scrum: Picking Up MySQL AKA Dolphin Database](https://dev.to/rammina/day-81-of-100-days-of-code-scrum-picking-up-mysql-aka-dolphin-database-175k)
 - [Dev.to/JS] [Over-engineering madness or hype-driven development in JS](https://dev.to/bitkidd/over-engineering-madness-or-hype-driven-development-in-js-54k5)
 - [Dev.to/JS] [Did we just build a Netflix clone with Appwrite?](https://dev.to/appwrite/did-we-just-build-a-netflix-clone-with-appwrite-28ok)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Почему в программировании считаем с 0.](https://dev.to/ibrakhimzhanov/pochiemu-v-proghrammirovanii-schitaiem-s-0-4o6i)
 - [Dev.to/JS] [Showing &quot;time ago&quot; in a Social Feed using Intl.RelativeTimeFormat](https://dev.to/madsstoumann/showing-time-ago-in-a-social-feed-using-intlrelativetimeformat-5ceo)
 - [Dev.to/JS] [Quick Tips to Open a Handyman Business Using Uber for Handyman](https://dev.to/uberdoo2/quick-tips-to-open-a-handyman-business-using-uber-for-handyman-1ebc)
-- [Dev.to/JS] [Created a new responsive website in 2hours.](https://dev.to/sanath555/created-a-new-responsive-website-in-2hours-4k3d)
-- [Dev.to/JS] [It&#39;s Prisma Time - Aggregate and GroupBy](https://dev.to/this-is-learning/its-prisma-time-aggregate-and-groupby-36a7)
-- [Dev.to/JS] [Understanding Callback function](https://dev.to/malcolmkee/understanding-callback-function-2jpf)
-- [Dev.to/JS] [Syntax highlighting with Prism and Next.js](https://dev.to/dawsoncodes/syntax-highlighting-with-prism-and-nextjs-40ee)
-- [Dev.to/JS] [What are the different data types present in JavaScript?](https://dev.to/codewithsnowbit/what-are-the-different-data-types-present-in-javascript-13e7)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
