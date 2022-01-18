@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Secret Ways to Reach an Actual Person in Customer Service](https://lifehacker.com/secret-ways-to-reach-an-actual-person-in-customer-servi-1848377153)
+- [Dev.to/JS] [Todo List App and a Color Box Maker | Day 13 &amp; 14](https://dev.to/developerioweb/todo-list-app-and-a-color-box-maker-day-13-14-551g)
+- [Lifehacker] [How to Replace Your Mac’s Screenshot Tool With Something Better](https://lifehacker.com/how-to-replace-your-mac-s-screenshot-tool-with-somethin-1848370944)
+- [Dev.to/JS] [What is the Jamstack in 2022?](https://dev.to/remotesynth/what-is-the-jamstack-in-2022-134)
+- [Dev.to/JS] [ES6: JavaScript for...of statement](https://dev.to/naftalimurgor/es6-javascript-forof-statement-2caa)
 - [Lifehacker] [Why It’s Probably Time to Buy a New Mattress](https://lifehacker.com/why-it-s-probably-time-to-buy-a-new-mattress-1848371505)
 - [Dev.to/JS] [LEARNING ABOUT TYPESCRIPT](https://dev.to/naziiriah/learning-about-typescript-2kc5)
 - [Dev.to/JS] [7 tips for freelance software developers](https://dev.to/naftalimurgor/7-tips-for-freelance-software-developers-4ol3)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get last element of array in JavsScript](https://dev.to/vickyktk/get-last-element-of-array-in-javsscript-2n0h)
 - [Lifehacker] [Everything You Need to Know Before Buying Cannabis Concentrates](https://lifehacker.com/everything-you-need-to-know-before-buying-cannabis-conc-1848377146)
 - [Dev.to/JS] [A Fundamental Disconnect](https://dev.to/aarongustafson/a-fundamental-disconnect-3he1)
-- [Dev.to/JS] [D3 Histograms and Fixing the Bin Problem](https://dev.to/kevinlien/d3-histograms-and-fixing-the-bin-problem-4ac5)
 - [Lifehacker] [How to Order Good Wine at a Restaurant Without Sounding Like a Moron](https://lifehacker.com/how-to-order-good-wine-at-a-restaurant-without-sounding-1848371875)
-- [Dev.to/JS] [Starting Week 1](https://dev.to/hariseldon27/starting-week-1-442o)
-- [Dev.to/JS] [Paracetamol.js💊| #17: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-17-que-imprime-este-codigo-javascript-42gb)
 - [Lifehacker] [Those Apps You ‘Deleted’ on Your Mac Might Still Be Hanging Around](https://lifehacker.com/those-apps-you-deleted-on-your-mac-might-still-be-han-1848353773)
 - [Lifehacker] [How to Get Your Free At-Home COVID Tests From the U.S. Government](https://lifehacker.com/how-to-get-your-free-at-home-covid-tests-from-the-u-s-1848375992)
 - [Lifehacker] [How to Watch Android 1994 PC1 Hurtle Past Earth Today](https://lifehacker.com/how-to-watch-android-1994-pc1-hurtle-past-earth-today-1848375484)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [AeroPress Recipes Every Coffee Enthusiast Should Know](https://lifehacker.com/aeropress-recipes-every-coffee-enthusiast-should-know-1848358682)
 - [Lifehacker] [Use This Tool to Find Out Where You Can Work Remotely on Your Team&#39;s Schedule](https://lifehacker.com/use-this-tool-to-find-out-where-you-can-work-remotely-o-1848363514)
 - [Lifehacker] [How to Take Care of Air Plants](https://lifehacker.com/how-to-take-care-of-air-plants-1848363778)
-- [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
-- [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
