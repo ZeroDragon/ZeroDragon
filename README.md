@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Почему в программировании считаем с 0.](https://dev.to/ibrakhimzhanov/pochiemu-v-proghrammirovanii-schitaiem-s-0-4o6i)
+- [Dev.to/JS] [Showing &quot;time ago&quot; in a Social Feed using Intl.RelativeTimeFormat](https://dev.to/madsstoumann/showing-time-ago-in-a-social-feed-using-intlrelativetimeformat-5ceo)
+- [Dev.to/JS] [Quick Tips to Open a Handyman Business Using Uber for Handyman](https://dev.to/uberdoo2/quick-tips-to-open-a-handyman-business-using-uber-for-handyman-1ebc)
 - [Dev.to/JS] [Created a new responsive website in 2hours.](https://dev.to/sanath555/created-a-new-responsive-website-in-2hours-4k3d)
 - [Dev.to/JS] [It&#39;s Prisma Time - Aggregate and GroupBy](https://dev.to/this-is-learning/its-prisma-time-aggregate-and-groupby-36a7)
 - [Dev.to/JS] [Understanding Callback function](https://dev.to/malcolmkee/understanding-callback-function-2jpf)
@@ -32,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Node.js is Good for Backend Development?](https://dev.to/herbertj/why-nodejs-is-good-for-backend-development-3o3o)
 - [Dev.to/JS] [TypeScript. Advanced Project Setup](https://dev.to/he110/typescript-advanced-project-setup-4l04)
 - [Dev.to/JS] [How I Added a Service Worker to my Website](https://dev.to/dwhenson/how-to-add-a-service-worker-to-a-website-3ppi)
-- [Dev.to/JS] [#19 - Binary Addition                      
-CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/19-binary-addition-codewars-kata-7-kyu-jlc)
-- [Dev.to/JS] [Finding Duplicate Documents in MongoDB Collection](https://dev.to/stackblogger/finding-duplicate-documents-in-mongodb-collection-l53)
-- [Dev.to/JS] [Understanding Exception Handling in JavaScript](https://dev.to/malcolmkee/understanding-exception-handling-in-javascript-1abn)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
