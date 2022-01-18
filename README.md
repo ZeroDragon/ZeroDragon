@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Added a Service Worker to my Website](https://dev.to/dwhenson/how-to-add-a-service-worker-to-a-website-3ppi)
+- [Dev.to/JS] [#19 - Binary Addition                      
+CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/19-binary-addition-codewars-kata-7-kyu-jlc)
+- [Dev.to/JS] [Finding Duplicate Documents in MongoDB Collection](https://dev.to/stackblogger/finding-duplicate-documents-in-mongodb-collection-l53)
+- [Dev.to/JS] [Understanding Exception Handling in JavaScript](https://dev.to/malcolmkee/understanding-exception-handling-in-javascript-1abn)
+- [Dev.to/JS] [Improve Performance Using Web Workers | JavaScript](https://dev.to/stackblogger/improve-performance-using-web-workers-javascript-2mih)
+- [Dev.to/JS] [For Loop through an array in backward direction in JavaScript](https://dev.to/sh20raj/for-loop-through-an-array-in-backward-direction-in-javascript-421i)
+- [Dev.to/JS] [Interesting react projects for learning](https://dev.to/gmoniava/interesting-react-projects-for-learning-3l8b)
+- [Dev.to/JS] [Daily tools for Office](https://dev.to/abhimanyudev7/daily-tools-for-office-23f2)
 - [Dev.to/JS] [Speed up Windows for heavy development.](https://dev.to/akashpattnaik/speed-up-windows-for-heavy-development-3k4e)
-- [Dev.to/JS] [Как научиться фронтенд-разработку в 2022 году для Узбекистана](https://dev.to/ibrakhimzhanov/kak-nauchitsia-frontiend-razrabotku-v-2022-ghodu-dlia-uzbiekistana-39g7)
+- [Dev.to/JS] [Как стать Front-End разработчиком в 2022 году в Узбекистане](https://dev.to/ibrakhimzhanov/kak-nauchitsia-frontiend-razrabotku-v-2022-ghodu-dlia-uzbiekistana-39g7)
 - [Dev.to/JS] [Dependency Injection in Node.js - Higher Order Routing With Express](https://dev.to/asayerio_techblog/dependency-injection-in-nodejs-higher-order-routing-with-express-1905)
 - [Dev.to/JS] [Website Scraper | NodeJS](https://dev.to/princejaiswal/website-scraper-nodejs-4323)
-- [Dev.to/JS] [Pass By Value vs Pass By Reference in JavaScript](https://dev.to/lawanu/pass-by-value-vs-pass-by-reference-in-javascript-ah3)
-- [Dev.to/JS] [Disc Brake Pad Price](https://dev.to/anwarmalik007/disc-brake-pad-price-19bb)
-- [Dev.to/JS] [Adding Custom Font Classes to TailwindCSS](https://dev.to/sabinthedev/adding-custom-font-classes-to-tailwindcss-o5l)
-- [Dev.to/JS] [Configuring nodemon with TypeScript](https://dev.to/chroline/configuring-nodemon-with-typescript-21lp)
-- [Dev.to/JS] [How to change Address bar URL without refreshing the page using JavaScript](https://dev.to/sh20raj/how-to-change-address-bar-url-without-refreshing-the-page-using-javascript-2hh5)
-- [Dev.to/JS] [What is Developer Advocacy and how to get a job in it?](https://dev.to/nutlope/what-is-developer-advocacy-1pf3)
-- [Dev.to/JS] [Develope a twitter clone with ReactJS](https://dev.to/linhtch90/develope-a-twitter-clone-with-reactjs-2gh5)
-- [Dev.to/JS] [How to write clean code?!](https://dev.to/kubilayckmk/how-to-write-clean-code-544f)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
