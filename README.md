@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This.Concept = important](https://dev.to/zachinjapan/thisisimportant-2n47)
+- [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
 - [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
 - [Lifehacker] [You Can Finally Connect to Your VPN on Windows Again](https://lifehacker.com/you-can-finally-connect-to-your-vpn-on-windows-again-1848376492)
 - [Lifehacker] [Secret Ways to Reach an Actual Person in Customer Service](https://lifehacker.com/secret-ways-to-reach-an-actual-person-in-customer-servi-1848377153)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [learning](https://dev.to/ajjken20/learning-29pm)
 - [Dev.to/JS] [Get last element of array in JavsScript](https://dev.to/vickyktk/get-last-element-of-array-in-javsscript-2n0h)
 - [Lifehacker] [Everything You Need to Know Before Buying Cannabis Concentrates](https://lifehacker.com/everything-you-need-to-know-before-buying-cannabis-conc-1848377146)
-- [Dev.to/JS] [A Fundamental Disconnect](https://dev.to/aarongustafson/a-fundamental-disconnect-3he1)
 - [Lifehacker] [How to Order Good Wine at a Restaurant Without Sounding Like a Moron](https://lifehacker.com/how-to-order-good-wine-at-a-restaurant-without-sounding-1848371875)
 - [Lifehacker] [Those Apps You ‘Deleted’ on Your Mac Might Still Be Hanging Around](https://lifehacker.com/those-apps-you-deleted-on-your-mac-might-still-be-han-1848353773)
 - [Lifehacker] [How to Get Your Free At-Home COVID Tests From the U.S. Government](https://lifehacker.com/how-to-get-your-free-at-home-covid-tests-from-the-u-s-1848375992)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is VR Gaming Bad for Your Health?](https://lifehacker.com/is-vr-gaming-bad-for-your-health-1848282540)
 - [Lifehacker] [How to Get Excited About Cooking Again](https://lifehacker.com/how-to-get-excited-about-cooking-again-1848362935)
 - [Lifehacker] [Use This Interactive Map to Plan a New Hiking Route](https://lifehacker.com/use-this-interactive-map-to-plan-a-new-hiking-route-1848363772)
-- [Lifehacker] [AeroPress Recipes Every Coffee Enthusiast Should Know](https://lifehacker.com/aeropress-recipes-every-coffee-enthusiast-should-know-1848358682)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
