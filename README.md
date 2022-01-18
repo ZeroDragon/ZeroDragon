@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why It’s Probably Time to Buy a New Mattress](https://lifehacker.com/why-it-s-probably-time-to-buy-a-new-mattress-1848371505)
+- [Dev.to/JS] [LEARNING ABOUT TYPESCRIPT](https://dev.to/naziiriah/learning-about-typescript-2kc5)
+- [Dev.to/JS] [7 tips for freelance software developers](https://dev.to/naftalimurgor/7-tips-for-freelance-software-developers-4ol3)
+- [Dev.to/JS] [SOLID: Dependency Inversion Principle in JavaScript and TypeScript](https://dev.to/carstenbehrens/solid-dependency-inversion-principle-in-javascript-and-typescript-2gbf)
+- [Lifehacker] [How to Get a Refund on a &#39;Nonrefundable&#39; Hotel Reservation](https://lifehacker.com/how-to-get-a-refund-on-a-nonrefundable-hotel-reservatio-1848372634)
+- [Dev.to/JS] [Learnig and Revising Js , Day 1](https://dev.to/pushanverma/learnig-and-revising-js-day-1-22kc)
+- [Dev.to/JS] [I’d like to create an open source CMS in php with more customizable things &amp; headless. Is it a good idea?](https://dev.to/vitalijalbu/id-like-to-create-a-open-source-cms-in-php-with-more-customizable-things-headless-is-it-a-good-idea-43jc)
+- [Dev.to/JS] [What are the most important web development concepts a full stack developer should know?](https://dev.to/paharihacker/what-are-the-most-important-web-development-concepts-a-full-stack-developer-should-know-45na)
 - [Lifehacker] [The Best Way to Factory-Reset Your Apple Watch](https://lifehacker.com/the-best-way-to-factory-reset-your-apple-watch-1848371122)
 - [Dev.to/JS] [learning](https://dev.to/ajjken20/learning-29pm)
 - [Dev.to/JS] [Get last element of array in JavsScript](https://dev.to/vickyktk/get-last-element-of-array-in-javsscript-2n0h)
@@ -32,15 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Order Good Wine at a Restaurant Without Sounding Like a Moron](https://lifehacker.com/how-to-order-good-wine-at-a-restaurant-without-sounding-1848371875)
 - [Dev.to/JS] [Starting Week 1](https://dev.to/hariseldon27/starting-week-1-442o)
 - [Dev.to/JS] [Paracetamol.js💊| #17: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-17-que-imprime-este-codigo-javascript-42gb)
-- [Dev.to/JS] [Paracetamol.js💊| #16: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-16-que-imprime-este-codigo-javascript-200g)
 - [Lifehacker] [Those Apps You ‘Deleted’ on Your Mac Might Still Be Hanging Around](https://lifehacker.com/those-apps-you-deleted-on-your-mac-might-still-be-han-1848353773)
-- [Dev.to/JS] [JavaScript “Promises” — Simply Explained](https://dev.to/alwaz/javascript-promises-simply-explained-28d)
 - [Lifehacker] [How to Get Your Free At-Home COVID Tests From the U.S. Government](https://lifehacker.com/how-to-get-your-free-at-home-covid-tests-from-the-u-s-1848375992)
-- [Dev.to/JS] [How to create your project docs using storybook and host it with github pages](https://dev.to/flodev/how-to-create-your-project-docs-using-storybook-and-host-it-with-github-pages-3gfi)
-- [Dev.to/JS] [Free Hosting Services For Your React JS App](https://dev.to/samithawijesekara/free-hosting-services-for-your-react-js-app-2j2m)
 - [Lifehacker] [How to Watch Android 1994 PC1 Hurtle Past Earth Today](https://lifehacker.com/how-to-watch-android-1994-pc1-hurtle-past-earth-today-1848375484)
-- [Dev.to/JS] [WEBCode.run Private Endpoints on Observablehq.com Released!](https://dev.to/tomlarkworthy/webcoderun-private-endpoints-on-observablehqcom-released-8n)
-- [Dev.to/JS] [Update on eBay Auto Poster](https://dev.to/issa38/update-on-ebay-auto-poster-4mhc)
 - [Lifehacker] [How to Recover From Chronic Sleep Deprivation](https://lifehacker.com/how-to-recover-from-chronic-sleep-deprivation-1848371455)
 - [Lifehacker] [What to Use If You Run Out of Cornmeal When You’re Baking Bread](https://lifehacker.com/what-to-use-if-you-run-out-of-cornmeal-when-you-re-baki-1848373728)
 - [Lifehacker] [You Can Overcome Your Empty Grocery Store](https://lifehacker.com/you-can-overcome-your-empty-grocery-store-1848362014)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Look at the Moon When It&#39;s Not Full](https://lifehacker.com/why-you-should-look-at-the-moon-when-its-not-full-1848363559)
 - [Lifehacker] [How to Deal With Dry Skin in the Winter](https://lifehacker.com/how-to-deal-with-dry-skin-in-the-winter-1848362017)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
-- [Lifehacker] [All the Clever Ways You Should Be Using a Bar of Soap Around Your House](https://lifehacker.com/all-the-clever-ways-you-should-be-using-a-bar-of-soap-a-1848362035)
-- [Lifehacker] [How to Use a Snowblower Faster so You&#39;re Not Freezing Your Ass Off](https://lifehacker.com/how-to-use-a-snowblower-faster-so-youre-not-freezing-yo-1848362043)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
 
