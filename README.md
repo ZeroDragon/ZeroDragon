@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Netflix in February 2022](https://lifehacker.com/whats-new-on-netflix-in-february-2022-1848384998)
+- [Dev.to/JS] [Vite in the browser](https://dev.to/divriots/vite-in-the-browser-354p)
+- [Dev.to/JS] [How ESLint Can Enforce Your Design System Best Practices](https://dev.to/divriots/how-eslint-can-enforce-your-design-system-best-practices-37ad)
+- [Lifehacker] [Stop Using Safari Immediately &lpar;at Least for Now&rpar;](https://lifehacker.com/stop-using-safari-immediately-at-least-for-now-1848384461)
+- [Dev.to/JS] [Effortless App State Sync across different JS sandboxes &lpar;Inline Frames, Web Workers, Worker Threads, or VS Code Webviews&rpar;](https://dev.to/sourishkrout/effortless-app-state-sync-across-different-js-sandboxes-inline-frames-web-workers-worker-threads-or-vs-code-webviews-768)
 - [Dev.to/JS] [Wondering how to use Diffusion with Docker?](https://dev.to/push_technology/wondering-how-to-use-diffusion-with-docker-54mo)
 - [Dev.to/JS] [1 line of code: How to replace multiple space with one space](https://dev.to/martinkr/1-line-of-code-how-to-replace-multiple-space-with-one-space-5gja)
 - [Lifehacker] [The Fastest, Easiest Post-Workout Snacks That Aren&#39;t a Shake or Bar](https://lifehacker.com/the-fastest-easiest-post-workout-snacks-that-arent-a-s-1848383038)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript OOP-1 &lpar;Classes and Objects&rpar; -](https://dev.to/shubhamtiwari909/javascript-oop-1-classes-and-objects--54p4)
 - [Dev.to/JS] [Setting up TailwindCSS in React App project.](https://dev.to/sirimainsorn/setting-up-tailwindcss-in-react-app-project-4ha9)
 - [Lifehacker] [7 Tech Habits You Should Build &lpar;and the Best Apps to Get You Going&rpar;](https://lifehacker.com/7-tech-habits-you-should-build-and-the-best-apps-to-ge-1848382502)
-- [Dev.to/JS] [AzureFunBytes Reminder -  Building real-time apps with @Azure SignalR with @chris_noring - 1/20/2022](https://dev.to/azure/azurefunbytes-reminder-building-real-time-apps-with-azure-signalr-with-chrisnoring-1202022-3pj5)
-- [Dev.to/JS] [#Webinar: Introduction to WebRTC- How does WebRTC work?](https://dev.to/hamitdemir/webinar-introduction-to-webrtc-how-does-webrtc-work-1n77)
 - [Lifehacker] [Stop Throwing Styrofoam in the Trash &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-throwing-styrofoam-in-the-trash-and-do-this-inste-1848381565)
-- [Dev.to/JS] [Student Developer Pack](https://dev.to/ganeshpatil386386/student-developer-pack-1b7k)
 - [Lifehacker] [The Difference Between Cornmeal, Grits, and Polenta](https://lifehacker.com/the-difference-between-cornmeal-grits-and-polenta-1848379579)
 - [Lifehacker] [Ask for the Menu, and Other Ways to Make Your Next Hospital Stay More Tolerable](https://lifehacker.com/ask-for-the-menu-and-other-ways-to-make-your-next-hosp-1848375888)
 - [Lifehacker] [How to Kill an Old Tree Stump in Your Yard](https://lifehacker.com/how-to-kill-an-old-tree-stump-in-your-yard-1848379937)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Your Free At-Home COVID Tests From the U.S. Government](https://lifehacker.com/how-to-get-your-free-at-home-covid-tests-from-the-u-s-1848375992)
 - [Lifehacker] [How to Watch Asteroid 1994 PC1 Hurtle Past Earth Today](https://lifehacker.com/how-to-watch-android-1994-pc1-hurtle-past-earth-today-1848375484)
 - [Lifehacker] [How to Recover From Chronic Sleep Deprivation](https://lifehacker.com/how-to-recover-from-chronic-sleep-deprivation-1848371455)
-- [Lifehacker] [What to Use If You Run Out of Cornmeal When You’re Baking Bread](https://lifehacker.com/what-to-use-if-you-run-out-of-cornmeal-when-you-re-baki-1848373728)
-- [Lifehacker] [You Can Overcome Your Empty Grocery Store](https://lifehacker.com/you-can-overcome-your-empty-grocery-store-1848362014)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)<!-- TECH-POSTS:END -->
