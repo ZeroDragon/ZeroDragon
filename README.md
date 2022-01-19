@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Observables in RxJS](https://dev.to/thegnarco/understanding-observables-in-rxjs-40ma)
 - [Dev.to/JS] [Quick Sort Algorithm With JavaScript - All You Need To Know Explained](https://dev.to/ebereplenty/quick-sort-algorithm-with-javascript-all-you-need-to-know-explained-4ohj)
 - [Dev.to/JS] [My portfolio website](https://dev.to/kumard3/my-portfolio-website-3iob)
 - [Dev.to/JS] [ES6: How to Clone an Object in javascript ?](https://dev.to/deepaknegiweb/es6-how-to-clone-an-object-in-javascript--5dej)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hiding and Revealing things with JavaScript pageYOffset](https://dev.to/sakaz22/hiding-and-revealing-things-with-javascript-pageyoffset-4f2i)
 - [Lifehacker] [This Basic Skincare Routine Won&#39;t Overwhelm You](https://lifehacker.com/this-basic-skincare-routine-wont-overwhelm-you-1848379071)
 - [Lifehacker] [What&#39;s New on Netflix in February 2022](https://lifehacker.com/whats-new-on-netflix-in-february-2022-1848384998)
-- [Dev.to/JS] [Vite in the browser](https://dev.to/divriots/vite-in-the-browser-354p)
 - [Lifehacker] [Stop Using Safari Immediately &lpar;at Least for Now&rpar;](https://lifehacker.com/stop-using-safari-immediately-at-least-for-now-1848384461)
 - [Lifehacker] [The Fastest, Easiest Post-Workout Snacks That Aren&#39;t a Shake or Bar](https://lifehacker.com/the-fastest-easiest-post-workout-snacks-that-arent-a-s-1848383038)
 - [Lifehacker] [The Easiest Ways to Shrink Large Image Files on Your Mac](https://lifehacker.com/the-easiest-ways-to-shrink-large-image-files-on-your-ma-1848371076)
