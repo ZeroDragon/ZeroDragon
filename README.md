@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Component LifeCycle Stages](https://dev.to/gursidak/react-lifecycle-4e71)
+- [Dev.to/JS] [Meticore - Weight Loss Results, Price, Reviews And Benefits](https://dev.to/meticor83398468/meticore-weight-loss-results-price-reviews-and-benefits-1d53)
+- [Dev.to/JS] [What’s e-learning automation?](https://dev.to/brisklogic/whats-e-learning-automation-12cp)
+- [Dev.to/JS] [CRUD operations with Prisma and Fastify](https://dev.to/dailydevtips1/crud-operations-with-prisma-and-fastify-4njc)
 - [Dev.to/JS] [How to learn React.js in 2022: A Complete Guide for Beginners](https://dev.to/ashikarose/how-to-learn-reactjs-in-2022-a-complete-guide-for-beginners-d94)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 12](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-12-2mon)
 - [Dev.to/JS] [ç](https://dev.to/metasoares/mastery-nextjs-course-29b3)
@@ -32,16 +36,12 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/20-sort-numbers-codew
 - [Dev.to/JS] [Installing Dependencies](https://dev.to/sldso/installing-dependencies-24c7)
 - [Dev.to/JS] [Caching In Node.js Applications](https://dev.to/honeybadger/caching-in-nodejs-applications-b33)
 - [Dev.to/JS] [My very first portfolio](https://dev.to/8koi/my-very-first-portfolio-2pge)
-- [Dev.to/JS] [Advanced JavaScript Series - Part 6.2: Pass by Value &amp; Pass by Reference, Shallow &amp; Deep Copy, Type Coercion](https://dev.to/pranav016/advanced-javascript-series-part-62-pass-by-value-pass-by-reference-shallow-deep-copy-type-coercion-49f3)
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
-- [Dev.to/JS] [this.concept = important](https://dev.to/zachinjapan/thisisimportant-2n47)
 - [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
 - [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
 - [Lifehacker] [You Can Finally Connect to Your VPN on Windows Again](https://lifehacker.com/you-can-finally-connect-to-your-vpn-on-windows-again-1848376492)
 - [Lifehacker] [Secret Ways to Reach an Actual Person in Customer Service](https://lifehacker.com/secret-ways-to-reach-an-actual-person-in-customer-servi-1848377153)
-- [Dev.to/JS] [Todo List App and a Color Box Maker | Day 13 &amp; 14](https://dev.to/developerioweb/todo-list-app-and-a-color-box-maker-day-13-14-551g)
 - [Lifehacker] [How to Replace Your Mac’s Screenshot Tool With Something Better](https://lifehacker.com/how-to-replace-your-mac-s-screenshot-tool-with-somethin-1848370944)
-- [Dev.to/JS] [What is the Jamstack in 2022?](https://dev.to/remotesynth/what-is-the-jamstack-in-2022-134)
 - [Lifehacker] [Why It’s Probably Time to Buy a New Mattress](https://lifehacker.com/why-it-s-probably-time-to-buy-a-new-mattress-1848371505)
 - [Lifehacker] [How to Get a Refund on a &#39;Nonrefundable&#39; Hotel Reservation](https://lifehacker.com/how-to-get-a-refund-on-a-nonrefundable-hotel-reservatio-1848372634)
 - [Lifehacker] [The Best Way to Factory-Reset Your Apple Watch](https://lifehacker.com/the-best-way-to-factory-reset-your-apple-watch-1848371122)
