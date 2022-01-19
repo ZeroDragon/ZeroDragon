@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
+- [Dev.to/JS] [Create Lightweight React Accordions](https://dev.to/amiut/create-lightweight-react-accordions-4dej)
+- [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
+- [Dev.to/JS] [A quick start to using or context &lpar;global state&rpar; in react](https://dev.to/yasin162/a-quick-start-to-using-or-context-global-state-in-react-2f47)
+- [Dev.to/JS] [⚡Var, Let, and Const in JavaScript](https://dev.to/ayeshabaloch123/var-let-and-const-in-javascript-2dhc)
 - [Lifehacker] [The Fastest Way to Edit Audio From Your iPhone or Mac](https://lifehacker.com/the-fastest-way-to-edit-audio-from-your-iphone-or-mac-1848371290)
 - [Dev.to/JS] [Weather app](https://dev.to/okrahul/weather-app-1aa5)
 - [Dev.to/JS] [Add An External Script to a Vue Component and Defer Execution of Logic on the Script](https://dev.to/sandrarodgers/add-an-external-script-to-a-vue-component-and-defer-execution-of-logic-on-the-script-4kge)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wondering how to use Diffusion with Docker?](https://dev.to/push_technology/wondering-how-to-use-diffusion-with-docker-54mo)
 - [Dev.to/JS] [1 line of code: How to replace multiple space with one space](https://dev.to/martinkr/1-line-of-code-how-to-replace-multiple-space-with-one-space-5gja)
 - [Lifehacker] [The Fastest, Easiest Post-Workout Snacks That Aren&#39;t a Shake or Bar](https://lifehacker.com/the-fastest-easiest-post-workout-snacks-that-arent-a-s-1848383038)
-- [Dev.to/JS] [A Brief History Of JavaScript](https://dev.to/enigma6174/a-brief-history-of-javascript-4oo8)
-- [Dev.to/JS] [JavaScript ?? operator](https://dev.to/this-is-learning/javascript-operator-4o9c)
 - [Lifehacker] [The Easiest Ways to Shrink Large Image Files on Your Mac](https://lifehacker.com/the-easiest-ways-to-shrink-large-image-files-on-your-ma-1848371076)
-- [Dev.to/JS] [320+ free resources for learning fullstack, frontend and backend](https://dev.to/devwriteups/320-free-resources-for-learning-fullstack-frontend-and-backend-50cd)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2022](https://lifehacker.com/whats-new-on-disney-in-february-2022-1848383916)
 - [Lifehacker] [7 Tech Habits You Should Build &lpar;and the Best Apps to Get You Going&rpar;](https://lifehacker.com/7-tech-habits-you-should-build-and-the-best-apps-to-ge-1848382502)
 - [Lifehacker] [Stop Throwing Styrofoam in the Trash &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-throwing-styrofoam-in-the-trash-and-do-this-inste-1848381565)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Factory-Reset Your Apple Watch](https://lifehacker.com/the-best-way-to-factory-reset-your-apple-watch-1848371122)
 - [Lifehacker] [Everything You Need to Know Before Buying Cannabis Concentrates](https://lifehacker.com/everything-you-need-to-know-before-buying-cannabis-conc-1848377146)
 - [Lifehacker] [How to Order Good Wine at a Restaurant Without Sounding Like a Moron](https://lifehacker.com/how-to-order-good-wine-at-a-restaurant-without-sounding-1848371875)
-- [Lifehacker] [Those Apps You ‘Deleted’ on Your Mac Might Still Be Hanging Around](https://lifehacker.com/those-apps-you-deleted-on-your-mac-might-still-be-han-1848353773)
-- [Lifehacker] [How to Get Your Free At-Home COVID Tests From the U.S. Government](https://lifehacker.com/how-to-get-your-free-at-home-covid-tests-from-the-u-s-1848375992)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)<!-- TECH-POSTS:END -->
