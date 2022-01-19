@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Fastest Way to Edit Audio From Your iPhone or Mac](https://lifehacker.com/the-fastest-way-to-edit-audio-from-your-iphone-or-mac-1848371290)
+- [Dev.to/JS] [Weather app](https://dev.to/okrahul/weather-app-1aa5)
+- [Dev.to/JS] [Add An External Script to a Vue Component and Defer Execution of Logic on the Script](https://dev.to/sandrarodgers/add-an-external-script-to-a-vue-component-and-defer-execution-of-logic-on-the-script-4kge)
+- [Dev.to/JS] [Collects visitor reviews, and displays them as a widget on your website.](https://dev.to/iz/collects-visitor-reviews-and-displays-them-as-a-widget-on-your-website-2m70)
+- [Dev.to/JS] [Hiding and Revealing things with JavaScript pageYOffset](https://dev.to/sakaz22/hiding-and-revealing-things-with-javascript-pageyoffset-4f2i)
+- [Lifehacker] [This Basic Skincare Routine Won&#39;t Overwhelm You](https://lifehacker.com/this-basic-skincare-routine-wont-overwhelm-you-1848379071)
 - [Lifehacker] [What&#39;s New on Netflix in February 2022](https://lifehacker.com/whats-new-on-netflix-in-february-2022-1848384998)
 - [Dev.to/JS] [Vite in the browser](https://dev.to/divriots/vite-in-the-browser-354p)
 - [Dev.to/JS] [How ESLint Can Enforce Your Design System Best Practices](https://dev.to/divriots/how-eslint-can-enforce-your-design-system-best-practices-37ad)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript ?? operator](https://dev.to/this-is-learning/javascript-operator-4o9c)
 - [Lifehacker] [The Easiest Ways to Shrink Large Image Files on Your Mac](https://lifehacker.com/the-easiest-ways-to-shrink-large-image-files-on-your-ma-1848371076)
 - [Dev.to/JS] [320+ free resources for learning fullstack, frontend and backend](https://dev.to/devwriteups/320-free-resources-for-learning-fullstack-frontend-and-backend-50cd)
-- [Dev.to/JS] [Building a GIF search Engine in just 10 mins](https://dev.to/kumarkalyan/building-a-gif-search-engine-in-just-10-mins-lbd)
-- [Dev.to/JS] [Publish an npm to GitHub packages](https://dev.to/cloudx/publish-an-npm-to-github-packages-3pa8)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2022](https://lifehacker.com/whats-new-on-disney-in-february-2022-1848383916)
-- [Dev.to/JS] [Javascript OOP-1 &lpar;Classes and Objects&rpar; -](https://dev.to/shubhamtiwari909/javascript-oop-1-classes-and-objects--54p4)
-- [Dev.to/JS] [Setting up TailwindCSS in React App project.](https://dev.to/sirimainsorn/setting-up-tailwindcss-in-react-app-project-4ha9)
 - [Lifehacker] [7 Tech Habits You Should Build &lpar;and the Best Apps to Get You Going&rpar;](https://lifehacker.com/7-tech-habits-you-should-build-and-the-best-apps-to-ge-1848382502)
 - [Lifehacker] [Stop Throwing Styrofoam in the Trash &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-throwing-styrofoam-in-the-trash-and-do-this-inste-1848381565)
 - [Lifehacker] [The Difference Between Cornmeal, Grits, and Polenta](https://lifehacker.com/the-difference-between-cornmeal-grits-and-polenta-1848379579)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Order Good Wine at a Restaurant Without Sounding Like a Moron](https://lifehacker.com/how-to-order-good-wine-at-a-restaurant-without-sounding-1848371875)
 - [Lifehacker] [Those Apps You ‘Deleted’ on Your Mac Might Still Be Hanging Around](https://lifehacker.com/those-apps-you-deleted-on-your-mac-might-still-be-han-1848353773)
 - [Lifehacker] [How to Get Your Free At-Home COVID Tests From the U.S. Government](https://lifehacker.com/how-to-get-your-free-at-home-covid-tests-from-the-u-s-1848375992)
-- [Lifehacker] [How to Watch Asteroid 1994 PC1 Hurtle Past Earth Today](https://lifehacker.com/how-to-watch-android-1994-pc1-hurtle-past-earth-today-1848375484)
-- [Lifehacker] [How to Recover From Chronic Sleep Deprivation](https://lifehacker.com/how-to-recover-from-chronic-sleep-deprivation-1848371455)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)<!-- TECH-POSTS:END -->
