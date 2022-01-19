@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build your own personal job application tracker in 10 minutes](https://dev.to/tooljet/build-your-own-personal-job-application-tracker-in-10-minutes-2m0j)
+- [Lifehacker] [Ask for the Menu, and Other Ways to Make Your Next Hospital Stay More Tolerable](https://lifehacker.com/ask-for-the-menu-and-other-ways-to-make-your-next-hosp-1848375888)
+- [Dev.to/JS] [Introducing Almost Netflix: Netflix clone built with Vue and Appwrite](https://dev.to/appwrite/introducing-almost-netflix-a-netflix-clone-built-with-vue-and-appwrite-34nb)
+- [Lifehacker] [How to Kill an Old Tree Stump in Your Yard](https://lifehacker.com/how-to-kill-an-old-tree-stump-in-your-yard-1848379937)
+- [Dev.to/JS] [[PT-BR] Usando esbuild com Typescript](https://dev.to/em1dio/pt-br-usando-esbuild-com-typescript-n2k)
+- [Dev.to/JS] [100 Days of coding &amp; scrum &amp; holacracy #0](https://dev.to/adrianghub/100-days-of-coding-scrum-holacracy-0-1djf)
+- [Dev.to/JS] [Best E-Scooter Apps – Features And Cost To Develop An App](https://dev.to/sneharawat/best-e-scooter-apps-features-and-cost-to-develop-an-app-m3m)
 - [Dev.to/JS] [6. Function Scope, Block Scope and Lexical Scope](https://dev.to/sungjuneun/6-function-scope-block-scope-and-lexical-scope-3jal)
 - [Dev.to/JS] [Adding SVG Icons to my French Wordle](https://dev.to/michelc/adding-svg-icons-to-my-french-wordle-51jn)
 - [Dev.to/JS] [How To Learning JavaScript Faster](https://dev.to/mrdanishsaleem/how-to-learning-javascript-faster-1cj5)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hi I am fine 😊😊](https://dev.to/mohibulalimondal/hi-i-am-fine-hd5)
 - [Dev.to/JS] [Briefly, what is the difference between &quot;var&quot; and &quot;let&quot; keywords in Javascript?](https://dev.to/cyebukayire/briefly-what-is-the-difference-between-var-and-let-keyword-in-javascript-1g5c)
 - [Dev.to/JS] [Day 82 of 100 Days of Code &amp; Scrum: Learning SQL Basics First Before MySQL](https://dev.to/rammina/day-82-of-100-days-of-code-scrum-learning-sql-basics-first-before-mysql-2dd8)
-- [Dev.to/JS] [The easiest way to reverse a string](https://dev.to/codewithsnowbit/the-easiest-way-to-reverse-a-string-4532)
-- [Dev.to/JS] [My First React Native Native Package - RTMP Publisher](https://dev.to/ezranbayantemur/my-first-react-native-native-package-rtmp-publisher-i3m)
-- [Dev.to/JS] [Fiverr API: Scrape Fiverr in seconds](https://dev.to/developerbishwas/fiverr-api-scrape-fiverr-in-seconds-5fim)
-- [Dev.to/JS] [An Introduction to TypeScript](https://dev.to/suniljoshi19/an-introduction-to-typescript-1gdc)
-- [Dev.to/JS] [🎯 Type Coercion in JavaScript](https://dev.to/pankaj_singhr/type-coercion-in-javascript-23lo)
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
 - [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
 - [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
 - [Lifehacker] [How to Write the Perfect Personal Letter](https://lifehacker.com/how-to-write-the-perfect-personal-letter-1848363540)
 - [Lifehacker] [You Can Now &#39;Repost&#39; on TikTok &lpar;Maybe&rpar;](https://lifehacker.com/you-can-now-repost-on-tiktok-maybe-1848356369)
-- [Lifehacker] [Is VR Gaming Bad for Your Health?](https://lifehacker.com/is-vr-gaming-bad-for-your-health-1848282540)
-- [Lifehacker] [How to Get Excited About Cooking Again](https://lifehacker.com/how-to-get-excited-about-cooking-again-1848362935)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
