@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wondering how to use Diffusion with Docker?](https://dev.to/push_technology/wondering-how-to-use-diffusion-with-docker-54mo)
+- [Dev.to/JS] [1 line of code: How to replace multiple space with one space](https://dev.to/martinkr/1-line-of-code-how-to-replace-multiple-space-with-one-space-5gja)
+- [Lifehacker] [The Fastest, Easiest Post-Workout Snacks That Aren&#39;t a Shake or Bar](https://lifehacker.com/the-fastest-easiest-post-workout-snacks-that-arent-a-s-1848383038)
+- [Dev.to/JS] [A Brief History Of JavaScript](https://dev.to/enigma6174/a-brief-history-of-javascript-4oo8)
+- [Dev.to/JS] [JavaScript ?? operator](https://dev.to/this-is-learning/javascript-operator-4o9c)
+- [Lifehacker] [The Easiest Ways to Shrink Large Image Files on Your Mac](https://lifehacker.com/the-easiest-ways-to-shrink-large-image-files-on-your-ma-1848371076)
+- [Dev.to/JS] [320+ free resources for learning fullstack, frontend and backend](https://dev.to/devwriteups/320-free-resources-for-learning-fullstack-frontend-and-backend-50cd)
+- [Dev.to/JS] [Building a GIF search Engine in just 10 mins](https://dev.to/kumarkalyan/building-a-gif-search-engine-in-just-10-mins-lbd)
 - [Dev.to/JS] [Publish an npm to GitHub packages](https://dev.to/cloudx/publish-an-npm-to-github-packages-3pa8)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2022](https://lifehacker.com/whats-new-on-disney-in-february-2022-1848383916)
 - [Dev.to/JS] [Javascript OOP-1 &lpar;Classes and Objects&rpar; -](https://dev.to/shubhamtiwari909/javascript-oop-1-classes-and-objects--54p4)
@@ -32,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#Webinar: Introduction to WebRTC- How does WebRTC work?](https://dev.to/hamitdemir/webinar-introduction-to-webrtc-how-does-webrtc-work-1n77)
 - [Lifehacker] [Stop Throwing Styrofoam in the Trash &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-throwing-styrofoam-in-the-trash-and-do-this-inste-1848381565)
 - [Dev.to/JS] [Student Developer Pack](https://dev.to/ganeshpatil386386/student-developer-pack-1b7k)
-- [Dev.to/JS] [How to build a Masonry photo gallery using Unsplash API](https://dev.to/thatanjan/build-a-beautiful-photo-gallery-in-masonry-layout-using-unsplash-api-3ef7)
-- [Dev.to/JS] [Become a better Fronted Developer in 2022! 🎆](https://dev.to/brandonkylebailey/become-a-better-fronted-developer-in-2022-39pb)
 - [Lifehacker] [The Difference Between Cornmeal, Grits, and Polenta](https://lifehacker.com/the-difference-between-cornmeal-grits-and-polenta-1848379579)
-- [Dev.to/JS] [Building an AR App with Markers](https://dev.to/flippedcoding/building-an-ar-app-with-markers-2mn1)
-- [Dev.to/JS] [Always separate app and server files !](https://dev.to/nermineslimane/always-separate-app-and-server-files--1nc7)
-- [Dev.to/JS] [Build your own personal job application tracker in 10 minutes](https://dev.to/tooljet/build-your-own-personal-job-application-tracker-in-10-minutes-2m0j)
 - [Lifehacker] [Ask for the Menu, and Other Ways to Make Your Next Hospital Stay More Tolerable](https://lifehacker.com/ask-for-the-menu-and-other-ways-to-make-your-next-hosp-1848375888)
-- [Dev.to/JS] [Introducing Almost Netflix: Netflix clone built with Vue and Appwrite](https://dev.to/appwrite/introducing-almost-netflix-a-netflix-clone-built-with-vue-and-appwrite-34nb)
 - [Lifehacker] [How to Kill an Old Tree Stump in Your Yard](https://lifehacker.com/how-to-kill-an-old-tree-stump-in-your-yard-1848379937)
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
 - [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
@@ -58,9 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recover From Chronic Sleep Deprivation](https://lifehacker.com/how-to-recover-from-chronic-sleep-deprivation-1848371455)
 - [Lifehacker] [What to Use If You Run Out of Cornmeal When You’re Baking Bread](https://lifehacker.com/what-to-use-if-you-run-out-of-cornmeal-when-you-re-baki-1848373728)
 - [Lifehacker] [You Can Overcome Your Empty Grocery Store](https://lifehacker.com/you-can-overcome-your-empty-grocery-store-1848362014)
-- [Lifehacker] [‘FDA Cleared’ Is Not the Same As ‘FDA Approved’ &lpar;and Why the Difference Matters&rpar;](https://lifehacker.com/fda-cleared-is-not-the-same-as-fda-approved-and-wh-1848362157)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
-- [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)<!-- TECH-POSTS:END -->
 
