@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick Sort Algorithm With JavaScript - All You Need To Know Explained](https://dev.to/ebereplenty/quick-sort-algorithm-with-javascript-all-you-need-to-know-explained-4ohj)
+- [Dev.to/JS] [My portfolio website](https://dev.to/kumard3/my-portfolio-website-3iob)
+- [Dev.to/JS] [ES6: How to Clone an Object in javascript ?](https://dev.to/deepaknegiweb/es6-how-to-clone-an-object-in-javascript--5dej)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Dev.to/JS] [Paracetamol.js💊| #19: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-19-que-imprime-este-codigo-javascript-3h80)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Basic Skincare Routine Won&#39;t Overwhelm You](https://lifehacker.com/this-basic-skincare-routine-wont-overwhelm-you-1848379071)
 - [Lifehacker] [What&#39;s New on Netflix in February 2022](https://lifehacker.com/whats-new-on-netflix-in-february-2022-1848384998)
 - [Dev.to/JS] [Vite in the browser](https://dev.to/divriots/vite-in-the-browser-354p)
-- [Dev.to/JS] [How ESLint Can Enforce Your Design System Best Practices](https://dev.to/divriots/how-eslint-can-enforce-your-design-system-best-practices-37ad)
 - [Lifehacker] [Stop Using Safari Immediately &lpar;at Least for Now&rpar;](https://lifehacker.com/stop-using-safari-immediately-at-least-for-now-1848384461)
-- [Dev.to/JS] [Effortless App State Sync across different JS sandboxes &lpar;Inline Frames, Web Workers, Worker Threads, or VS Code Webviews&rpar;](https://dev.to/sourishkrout/effortless-app-state-sync-across-different-js-sandboxes-inline-frames-web-workers-worker-threads-or-vs-code-webviews-768)
-- [Dev.to/JS] [Wondering how to use Diffusion with Docker?](https://dev.to/push_technology/wondering-how-to-use-diffusion-with-docker-54mo)
 - [Lifehacker] [The Fastest, Easiest Post-Workout Snacks That Aren&#39;t a Shake or Bar](https://lifehacker.com/the-fastest-easiest-post-workout-snacks-that-arent-a-s-1848383038)
 - [Lifehacker] [The Easiest Ways to Shrink Large Image Files on Your Mac](https://lifehacker.com/the-easiest-ways-to-shrink-large-image-files-on-your-ma-1848371076)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2022](https://lifehacker.com/whats-new-on-disney-in-february-2022-1848383916)
