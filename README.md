@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to learn React.js in 2022: A Complete Guide for Beginners](https://dev.to/ashikarose/how-to-learn-reactjs-in-2022-a-complete-guide-for-beginners-d94)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 12](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-12-2mon)
 - [Dev.to/JS] [ç](https://dev.to/metasoares/mastery-nextjs-course-29b3)
 - [Dev.to/JS] [#20 - Sort Numbers                      
 CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/20-sort-numbers-codewars-kata-7-kyu-536g)
@@ -40,9 +42,7 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/20-sort-numbers-codew
 - [Dev.to/JS] [Todo List App and a Color Box Maker | Day 13 &amp; 14](https://dev.to/developerioweb/todo-list-app-and-a-color-box-maker-day-13-14-551g)
 - [Lifehacker] [How to Replace Your Mac’s Screenshot Tool With Something Better](https://lifehacker.com/how-to-replace-your-mac-s-screenshot-tool-with-somethin-1848370944)
 - [Dev.to/JS] [What is the Jamstack in 2022?](https://dev.to/remotesynth/what-is-the-jamstack-in-2022-134)
-- [Dev.to/JS] [ES6: JavaScript for...of statement](https://dev.to/naftalimurgor/es6-javascript-forof-statement-2caa)
 - [Lifehacker] [Why It’s Probably Time to Buy a New Mattress](https://lifehacker.com/why-it-s-probably-time-to-buy-a-new-mattress-1848371505)
-- [Dev.to/JS] [LEARNING ABOUT TYPESCRIPT](https://dev.to/naziiriah/learning-about-typescript-2kc5)
 - [Lifehacker] [How to Get a Refund on a &#39;Nonrefundable&#39; Hotel Reservation](https://lifehacker.com/how-to-get-a-refund-on-a-nonrefundable-hotel-reservatio-1848372634)
 - [Lifehacker] [The Best Way to Factory-Reset Your Apple Watch](https://lifehacker.com/the-best-way-to-factory-reset-your-apple-watch-1848371122)
 - [Lifehacker] [Everything You Need to Know Before Buying Cannabis Concentrates](https://lifehacker.com/everything-you-need-to-know-before-buying-cannabis-conc-1848377146)
