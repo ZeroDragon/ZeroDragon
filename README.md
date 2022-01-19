@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode diary: 55. Jump Game [Bottom-Up DP]](https://dev.to/kevin074/leetcode-diary-55-jump-game-bottom-up-dp-nhd)
+- [Dev.to/JS] [Code Review chronicles: destructuring, linting and one valid reason for Typescript](https://dev.to/dvddpl/code-review-chronicles-destructuring-linting-and-one-valid-reason-for-typescript-3mfb)
+- [Dev.to/JS] [🤌🤌How to 👉Build a Great Website👈 for Your Business - Tips and Tricks](https://dev.to/joshowen12/how-to-build-a-great-website-for-your-business-tips-and-tricks-3oif)
+- [Dev.to/JS] [How to Import CSV File with React](https://dev.to/pankod/how-to-import-csv-file-with-react-4pj2)
+- [Dev.to/JS] [How to customize email notifications in TalkJS](https://dev.to/talkjs/how-to-customize-email-notifications-in-talkjs-5abk)
 - [Dev.to/JS] [React Component LifeCycle Stages](https://dev.to/gursidak/react-lifecycle-4e71)
 - [Dev.to/JS] [Meticore - Weight Loss Results, Price, Reviews And Benefits](https://dev.to/meticor83398468/meticore-weight-loss-results-price-reviews-and-benefits-1d53)
 - [Dev.to/JS] [What’s e-learning automation?](https://dev.to/brisklogic/whats-e-learning-automation-12cp)
@@ -30,12 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to learn React.js in 2022: A Complete Guide for Beginners](https://dev.to/ashikarose/how-to-learn-reactjs-in-2022-a-complete-guide-for-beginners-d94)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 12](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-12-2mon)
 - [Dev.to/JS] [ç](https://dev.to/metasoares/mastery-nextjs-course-29b3)
-- [Dev.to/JS] [#20 - Sort Numbers                      
-CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/20-sort-numbers-codewars-kata-7-kyu-536g)
-- [Dev.to/JS] [Automagically  REST and GraphQL endpoints  from your Azure SQL database](https://dev.to/azure/automagically-rest-and-graphql-endpoints-from-your-azure-sql-database-40j9)
-- [Dev.to/JS] [Installing Dependencies](https://dev.to/sldso/installing-dependencies-24c7)
-- [Dev.to/JS] [Caching In Node.js Applications](https://dev.to/honeybadger/caching-in-nodejs-applications-b33)
-- [Dev.to/JS] [My very first portfolio](https://dev.to/8koi/my-very-first-portfolio-2pge)
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
 - [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
 - [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
