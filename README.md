@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#20 - Sort Numbers                      
+CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/20-sort-numbers-codewars-kata-7-kyu-536g)
 - [Dev.to/JS] [Automagically  REST and GraphQL endpoints  from your Azure SQL database](https://dev.to/azure/automagically-rest-and-graphql-endpoints-from-your-azure-sql-database-40j9)
 - [Dev.to/JS] [Installing Dependencies](https://dev.to/sldso/installing-dependencies-24c7)
 - [Dev.to/JS] [Caching In Node.js Applications](https://dev.to/honeybadger/caching-in-nodejs-applications-b33)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why It’s Probably Time to Buy a New Mattress](https://lifehacker.com/why-it-s-probably-time-to-buy-a-new-mattress-1848371505)
 - [Dev.to/JS] [LEARNING ABOUT TYPESCRIPT](https://dev.to/naziiriah/learning-about-typescript-2kc5)
 - [Dev.to/JS] [7 tips for freelance software developers](https://dev.to/naftalimurgor/7-tips-for-freelance-software-developers-4ol3)
-- [Dev.to/JS] [SOLID: Dependency Inversion Principle in JavaScript and TypeScript](https://dev.to/carstenbehrens/solid-dependency-inversion-principle-in-javascript-and-typescript-2gbf)
 - [Lifehacker] [How to Get a Refund on a &#39;Nonrefundable&#39; Hotel Reservation](https://lifehacker.com/how-to-get-a-refund-on-a-nonrefundable-hotel-reservatio-1848372634)
 - [Lifehacker] [The Best Way to Factory-Reset Your Apple Watch](https://lifehacker.com/the-best-way-to-factory-reset-your-apple-watch-1848371122)
 - [Lifehacker] [Everything You Need to Know Before Buying Cannabis Concentrates](https://lifehacker.com/everything-you-need-to-know-before-buying-cannabis-conc-1848377146)
