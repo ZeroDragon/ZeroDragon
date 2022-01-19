@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Caching In Node.js Applications](https://dev.to/honeybadger/caching-in-nodejs-applications-b33)
 - [Dev.to/JS] [My very first portfolio](https://dev.to/8koi/my-very-first-portfolio-2pge)
 - [Dev.to/JS] [Advanced JavaScript Series - Part 6.2: Pass by Value &amp; Pass by Reference, Shallow &amp; Deep Copy, Type Coercion](https://dev.to/pranav016/advanced-javascript-series-part-62-pass-by-value-pass-by-reference-shallow-deep-copy-type-coercion-49f3)
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Refund on a &#39;Nonrefundable&#39; Hotel Reservation](https://lifehacker.com/how-to-get-a-refund-on-a-nonrefundable-hotel-reservatio-1848372634)
 - [Dev.to/JS] [Learnig and Revising Js , Day 1](https://dev.to/pushanverma/learnig-and-revising-js-day-1-22kc)
 - [Dev.to/JS] [I’d like to create an open source CMS in php with more customizable things &amp; headless. Is it a good idea?](https://dev.to/vitalijalbu/id-like-to-create-a-open-source-cms-in-php-with-more-customizable-things-headless-is-it-a-good-idea-43jc)
-- [Dev.to/JS] [What are the most important web development concepts a full stack developer should know?](https://dev.to/paharihacker/what-are-the-most-important-web-development-concepts-a-full-stack-developer-should-know-45na)
 - [Lifehacker] [The Best Way to Factory-Reset Your Apple Watch](https://lifehacker.com/the-best-way-to-factory-reset-your-apple-watch-1848371122)
 - [Lifehacker] [Everything You Need to Know Before Buying Cannabis Concentrates](https://lifehacker.com/everything-you-need-to-know-before-buying-cannabis-conc-1848377146)
 - [Lifehacker] [How to Order Good Wine at a Restaurant Without Sounding Like a Moron](https://lifehacker.com/how-to-order-good-wine-at-a-restaurant-without-sounding-1848371875)
