@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Mastery-NextJs Course](https://dev.to/metasoares/mastery-nextjs-course-29b3)
+- [Dev.to/JS] [ç](https://dev.to/metasoares/mastery-nextjs-course-29b3)
 - [Dev.to/JS] [#20 - Sort Numbers                      
 CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/20-sort-numbers-codewars-kata-7-kyu-536g)
 - [Dev.to/JS] [Automagically  REST and GraphQL endpoints  from your Azure SQL database](https://dev.to/azure/automagically-rest-and-graphql-endpoints-from-your-azure-sql-database-40j9)
