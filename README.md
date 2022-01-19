@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Throwing Styrofoam in the Trash &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-throwing-styrofoam-in-the-trash-and-do-this-inste-1848381565)
+- [Dev.to/JS] [Student Developer Pack](https://dev.to/ganeshpatil386386/student-developer-pack-1b7k)
+- [Dev.to/JS] [Build a beautiful photo gallery in Masonry layout using Unsplash API](https://dev.to/thatanjan/build-a-beautiful-photo-gallery-in-masonry-layout-using-unsplash-api-3ef7)
+- [Dev.to/JS] [Become a better Fronted Developer in 2022! 🎆](https://dev.to/brandonkylebailey/become-a-better-fronted-developer-in-2022-39pb)
+- [Lifehacker] [The Difference Between Cornmeal, Grits, and Polenta](https://lifehacker.com/the-difference-between-cornmeal-grits-and-polenta-1848379579)
+- [Dev.to/JS] [Building an AR App with Markers](https://dev.to/flippedcoding/building-an-ar-app-with-markers-2mn1)
+- [Dev.to/JS] [Always separate app and server files !](https://dev.to/nermineslimane/always-separate-app-and-server-files--1nc7)
 - [Dev.to/JS] [Build your own personal job application tracker in 10 minutes](https://dev.to/tooljet/build-your-own-personal-job-application-tracker-in-10-minutes-2m0j)
 - [Lifehacker] [Ask for the Menu, and Other Ways to Make Your Next Hospital Stay More Tolerable](https://lifehacker.com/ask-for-the-menu-and-other-ways-to-make-your-next-hosp-1848375888)
 - [Dev.to/JS] [Introducing Almost Netflix: Netflix clone built with Vue and Appwrite](https://dev.to/appwrite/introducing-almost-netflix-a-netflix-clone-built-with-vue-and-appwrite-34nb)
@@ -32,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best E-Scooter Apps – Features And Cost To Develop An App](https://dev.to/sneharawat/best-e-scooter-apps-features-and-cost-to-develop-an-app-m3m)
 - [Dev.to/JS] [6. Function Scope, Block Scope and Lexical Scope](https://dev.to/sungjuneun/6-function-scope-block-scope-and-lexical-scope-3jal)
 - [Dev.to/JS] [Adding SVG Icons to my French Wordle](https://dev.to/michelc/adding-svg-icons-to-my-french-wordle-51jn)
-- [Dev.to/JS] [How To Learning JavaScript Faster](https://dev.to/mrdanishsaleem/how-to-learning-javascript-faster-1cj5)
-- [Dev.to/JS] [Youtube channels you should follow for web development](https://dev.to/kunaal438/youtube-channels-you-should-follow-for-web-development-4330)
-- [Dev.to/JS] [Hi I am fine 😊😊](https://dev.to/mohibulalimondal/hi-i-am-fine-hd5)
-- [Dev.to/JS] [Briefly, what is the difference between &quot;var&quot; and &quot;let&quot; keywords in Javascript?](https://dev.to/cyebukayire/briefly-what-is-the-difference-between-var-and-let-keyword-in-javascript-1g5c)
-- [Dev.to/JS] [Day 82 of 100 Days of Code &amp; Scrum: Learning SQL Basics First Before MySQL](https://dev.to/rammina/day-82-of-100-days-of-code-scrum-learning-sql-basics-first-before-mysql-2dd8)
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
 - [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
 - [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
 - [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
 - [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
-- [Lifehacker] [How to Write the Perfect Personal Letter](https://lifehacker.com/how-to-write-the-perfect-personal-letter-1848363540)
-- [Lifehacker] [You Can Now &#39;Repost&#39; on TikTok &lpar;Maybe&rpar;](https://lifehacker.com/you-can-now-repost-on-tiktok-maybe-1848356369)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
 - [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
