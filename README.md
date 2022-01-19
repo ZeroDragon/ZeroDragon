@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Rise of Browser Os](https://dev.to/patrickweb/the-rise-of-browser-os-5e0)
+- [Dev.to/JS] [Learn About Diffusion Adapter Management and Monitoring](https://dev.to/push_technology/learn-about-diffusion-adapter-management-and-monitoring-8ic)
+- [Dev.to/JS] [Why syncing .env files doesn’t scale for secrets management](https://dev.to/doppler/why-syncing-env-files-doesnt-scale-for-secrets-management-5325)
 - [Dev.to/JS] [Leetcode diary: 55. Jump Game [Bottom-Up DP]](https://dev.to/kevin074/leetcode-diary-55-jump-game-bottom-up-dp-nhd)
 - [Dev.to/JS] [Code Review chronicles: destructuring, linting and one valid reason for Typescript](https://dev.to/dvddpl/code-review-chronicles-destructuring-linting-and-one-valid-reason-for-typescript-3mfb)
 - [Dev.to/JS] [🤌🤌How to 👉Build a Great Website👈 for Your Business - Tips and Tricks](https://dev.to/joshowen12/how-to-build-a-great-website-for-your-business-tips-and-tricks-3oif)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meticore - Weight Loss Results, Price, Reviews And Benefits](https://dev.to/meticor83398468/meticore-weight-loss-results-price-reviews-and-benefits-1d53)
 - [Dev.to/JS] [What’s e-learning automation?](https://dev.to/brisklogic/whats-e-learning-automation-12cp)
 - [Dev.to/JS] [CRUD operations with Prisma and Fastify](https://dev.to/dailydevtips1/crud-operations-with-prisma-and-fastify-4njc)
-- [Dev.to/JS] [How to learn React.js in 2022: A Complete Guide for Beginners](https://dev.to/ashikarose/how-to-learn-reactjs-in-2022-a-complete-guide-for-beginners-d94)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 12](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-12-2mon)
-- [Dev.to/JS] [ç](https://dev.to/metasoares/mastery-nextjs-course-29b3)
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
 - [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
 - [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
