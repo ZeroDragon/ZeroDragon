@@ -23,9 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Publish an npm to GitHub packages](https://dev.to/cloudx/publish-an-npm-to-github-packages-3pa8)
+- [Lifehacker] [What&#39;s New on Disney+ in February 2022](https://lifehacker.com/whats-new-on-disney-in-february-2022-1848383916)
+- [Dev.to/JS] [Javascript OOP-1 &lpar;Classes and Objects&rpar; -](https://dev.to/shubhamtiwari909/javascript-oop-1-classes-and-objects--54p4)
+- [Dev.to/JS] [Setting up TailwindCSS in React App project.](https://dev.to/sirimainsorn/setting-up-tailwindcss-in-react-app-project-4ha9)
+- [Lifehacker] [7 Tech Habits You Should Build &lpar;and the Best Apps to Get You Going&rpar;](https://lifehacker.com/7-tech-habits-you-should-build-and-the-best-apps-to-ge-1848382502)
+- [Dev.to/JS] [AzureFunBytes Reminder -  Building real-time apps with @Azure SignalR with @chris_noring - 1/20/2022](https://dev.to/azure/azurefunbytes-reminder-building-real-time-apps-with-azure-signalr-with-chrisnoring-1202022-3pj5)
+- [Dev.to/JS] [#Webinar: Introduction to WebRTC- How does WebRTC work?](https://dev.to/hamitdemir/webinar-introduction-to-webrtc-how-does-webrtc-work-1n77)
 - [Lifehacker] [Stop Throwing Styrofoam in the Trash &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-throwing-styrofoam-in-the-trash-and-do-this-inste-1848381565)
 - [Dev.to/JS] [Student Developer Pack](https://dev.to/ganeshpatil386386/student-developer-pack-1b7k)
-- [Dev.to/JS] [Build a beautiful photo gallery in Masonry layout using Unsplash API](https://dev.to/thatanjan/build-a-beautiful-photo-gallery-in-masonry-layout-using-unsplash-api-3ef7)
+- [Dev.to/JS] [How to build a Masonry photo gallery using Unsplash API](https://dev.to/thatanjan/build-a-beautiful-photo-gallery-in-masonry-layout-using-unsplash-api-3ef7)
 - [Dev.to/JS] [Become a better Fronted Developer in 2022! 🎆](https://dev.to/brandonkylebailey/become-a-better-fronted-developer-in-2022-39pb)
 - [Lifehacker] [The Difference Between Cornmeal, Grits, and Polenta](https://lifehacker.com/the-difference-between-cornmeal-grits-and-polenta-1848379579)
 - [Dev.to/JS] [Building an AR App with Markers](https://dev.to/flippedcoding/building-an-ar-app-with-markers-2mn1)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ask for the Menu, and Other Ways to Make Your Next Hospital Stay More Tolerable](https://lifehacker.com/ask-for-the-menu-and-other-ways-to-make-your-next-hosp-1848375888)
 - [Dev.to/JS] [Introducing Almost Netflix: Netflix clone built with Vue and Appwrite](https://dev.to/appwrite/introducing-almost-netflix-a-netflix-clone-built-with-vue-and-appwrite-34nb)
 - [Lifehacker] [How to Kill an Old Tree Stump in Your Yard](https://lifehacker.com/how-to-kill-an-old-tree-stump-in-your-yard-1848379937)
-- [Dev.to/JS] [[PT-BR] Usando esbuild com Typescript](https://dev.to/em1dio/pt-br-usando-esbuild-com-typescript-n2k)
-- [Dev.to/JS] [100 Days of coding &amp; scrum &amp; holacracy #0](https://dev.to/adrianghub/100-days-of-coding-scrum-holacracy-0-1djf)
-- [Dev.to/JS] [Best E-Scooter Apps – Features And Cost To Develop An App](https://dev.to/sneharawat/best-e-scooter-apps-features-and-cost-to-develop-an-app-m3m)
-- [Dev.to/JS] [6. Function Scope, Block Scope and Lexical Scope](https://dev.to/sungjuneun/6-function-scope-block-scope-and-lexical-scope-3jal)
-- [Dev.to/JS] [Adding SVG Icons to my French Wordle](https://dev.to/michelc/adding-svg-icons-to-my-french-wordle-51jn)
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
 - [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
 - [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
@@ -57,12 +59,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Use If You Run Out of Cornmeal When You’re Baking Bread](https://lifehacker.com/what-to-use-if-you-run-out-of-cornmeal-when-you-re-baki-1848373728)
 - [Lifehacker] [You Can Overcome Your Empty Grocery Store](https://lifehacker.com/you-can-overcome-your-empty-grocery-store-1848362014)
 - [Lifehacker] [‘FDA Cleared’ Is Not the Same As ‘FDA Approved’ &lpar;and Why the Difference Matters&rpar;](https://lifehacker.com/fda-cleared-is-not-the-same-as-fda-approved-and-wh-1848362157)
+- [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Lifehacker] [How to Beat Social Media Algorithms &lpar;and Why You Should Try&rpar;](https://lifehacker.com/how-to-beat-social-media-algorithms-and-why-you-should-1848355505)
-- [Lifehacker] [How to Tell When You&#39;re Struggling With Repressed Anger](https://lifehacker.com/how-to-tell-when-youre-struggling-with-repressed-anger-1848363891)
-- [Lifehacker] [How to Make Home Buying Better, Without Being Rich](https://lifehacker.com/how-to-make-home-buying-better-without-being-rich-1848360354)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
-- [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)
-- [Crazy Programmer] [Parallel Database Architecture in DBMS – Advantages &amp; Disadvantages](https://www.thecrazyprogrammer.com/2022/01/parallel-database-architecture.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)<!-- TECH-POSTS:END -->
 
 ---
 
