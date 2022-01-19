@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
+- [Dev.to/JS] [Paracetamol.js💊| #19: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-19-que-imprime-este-codigo-javascript-3h80)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Dev.to/JS] [Create Lightweight React Accordions](https://dev.to/amiut/create-lightweight-react-accordions-4dej)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using Safari Immediately &lpar;at Least for Now&rpar;](https://lifehacker.com/stop-using-safari-immediately-at-least-for-now-1848384461)
 - [Dev.to/JS] [Effortless App State Sync across different JS sandboxes &lpar;Inline Frames, Web Workers, Worker Threads, or VS Code Webviews&rpar;](https://dev.to/sourishkrout/effortless-app-state-sync-across-different-js-sandboxes-inline-frames-web-workers-worker-threads-or-vs-code-webviews-768)
 - [Dev.to/JS] [Wondering how to use Diffusion with Docker?](https://dev.to/push_technology/wondering-how-to-use-diffusion-with-docker-54mo)
-- [Dev.to/JS] [1 line of code: How to replace multiple space with one space](https://dev.to/martinkr/1-line-of-code-how-to-replace-multiple-space-with-one-space-5gja)
 - [Lifehacker] [The Fastest, Easiest Post-Workout Snacks That Aren&#39;t a Shake or Bar](https://lifehacker.com/the-fastest-easiest-post-workout-snacks-that-arent-a-s-1848383038)
 - [Lifehacker] [The Easiest Ways to Shrink Large Image Files on Your Mac](https://lifehacker.com/the-easiest-ways-to-shrink-large-image-files-on-your-ma-1848371076)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2022](https://lifehacker.com/whats-new-on-disney-in-february-2022-1848383916)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Refund on a &#39;Nonrefundable&#39; Hotel Reservation](https://lifehacker.com/how-to-get-a-refund-on-a-nonrefundable-hotel-reservatio-1848372634)
 - [Lifehacker] [The Best Way to Factory-Reset Your Apple Watch](https://lifehacker.com/the-best-way-to-factory-reset-your-apple-watch-1848371122)
 - [Lifehacker] [Everything You Need to Know Before Buying Cannabis Concentrates](https://lifehacker.com/everything-you-need-to-know-before-buying-cannabis-conc-1848377146)
-- [Lifehacker] [How to Order Good Wine at a Restaurant Without Sounding Like a Moron](https://lifehacker.com/how-to-order-good-wine-at-a-restaurant-without-sounding-1848371875)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
 - [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)<!-- TECH-POSTS:END -->
