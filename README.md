@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fiverr API: Scrape Fiverr in seconds](https://dev.to/developerbishwas/fiverr-api-scrape-fiverr-in-seconds-5fim)
+- [Dev.to/JS] [An Introduction to TypeScript](https://dev.to/suniljoshi19/an-introduction-to-typescript-1gdc)
+- [Dev.to/JS] [🎯 Type Coercion in JavaScript](https://dev.to/pankaj_singhr/type-coercion-in-javascript-23lo)
+- [Dev.to/JS] [Introduction To JavaScript](https://dev.to/enigma6174/understanding-css-selectors-49lp)
+- [Dev.to/JS] [Conventional Commits - Qué es y por qué deberías empezar a utilizarlo](https://dev.to/achamorro_dev/conventional-commits-que-es-y-por-que-deberias-empezar-a-utilizarlo-23an)
 - [Dev.to/JS] [This Week In React #90: JSX, Tinybase, Dioxus, Owl, useWorkerizedReducer, Perf, TypeScript, CSS...](https://dev.to/sebastienlorber/this-week-in-react-90-jsx-tinybase-dioxus-owl-useworkerizedreducer-perf-typescript-css-e44)
 - [Dev.to/JS] [The Rise of Browser Os](https://dev.to/patrickweb/the-rise-of-browser-os-5e0)
 - [Dev.to/JS] [Learn About Diffusion Adapter Management and Monitoring](https://dev.to/push_technology/learn-about-diffusion-adapter-management-and-monitoring-8ic)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leetcode diary: 55. Jump Game [Bottom-Up DP]](https://dev.to/kevin074/leetcode-diary-55-jump-game-bottom-up-dp-nhd)
 - [Dev.to/JS] [Code Review chronicles: destructuring, linting and one valid reason for Typescript](https://dev.to/dvddpl/code-review-chronicles-destructuring-linting-and-one-valid-reason-for-typescript-3mfb)
 - [Dev.to/JS] [🤌🤌How to 👉Build a Great Website👈 for Your Business - Tips and Tricks](https://dev.to/joshowen12/how-to-build-a-great-website-for-your-business-tips-and-tricks-3oif)
-- [Dev.to/JS] [How to Import CSV File with React](https://dev.to/pankod/how-to-import-csv-file-with-react-4pj2)
-- [Dev.to/JS] [How to customize email notifications in TalkJS](https://dev.to/talkjs/how-to-customize-email-notifications-in-talkjs-5abk)
-- [Dev.to/JS] [React Component LifeCycle Stages](https://dev.to/gursidak/react-lifecycle-4e71)
-- [Dev.to/JS] [Meticore - Weight Loss Results, Price, Reviews And Benefits](https://dev.to/meticor83398468/meticore-weight-loss-results-price-reviews-and-benefits-1d53)
-- [Dev.to/JS] [What’s e-learning automation?](https://dev.to/brisklogic/whats-e-learning-automation-12cp)
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
 - [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
 - [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
