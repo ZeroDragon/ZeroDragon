@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Know About Facebook’s New ‘Privacy Center’](https://lifehacker.com/what-to-know-about-facebook-s-new-privacy-center-1848378600)
+- [Lifehacker] [How to Roast a Whole Chicken Without Messing It Up](https://lifehacker.com/how-to-roast-a-whole-chicken-without-messing-it-up-1848387073)
 - [Dev.to/JS] [Using GitHub Codespaces with VNC/flexbox to create Pokémon maps from a web browser](https://dev.to/lowlighter/using-github-codespaces-with-vncflexbox-to-create-pokemon-maps-from-a-web-browser-3ch6)
 - [Lifehacker] [What Is the Best Indoor Temperature for Your Dog?](https://lifehacker.com/what-is-the-best-indoor-temperature-for-your-dog-1848391481)
 - [Dev.to/JS] [Day 10 Of #100DaysOfCode Challenge - My experience](https://dev.to/catevee/day-10-of-100daysofcode-challenge-my-experience-2250)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Tech Habits You Should Build &lpar;and the Best Apps to Get You Going&rpar;](https://lifehacker.com/7-tech-habits-you-should-build-and-the-best-apps-to-ge-1848382502)
 - [Lifehacker] [Stop Throwing Styrofoam in the Trash &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-throwing-styrofoam-in-the-trash-and-do-this-inste-1848381565)
 - [Lifehacker] [The Difference Between Cornmeal, Grits, and Polenta](https://lifehacker.com/the-difference-between-cornmeal-grits-and-polenta-1848379579)
-- [Lifehacker] [Ask for the Menu, and Other Ways to Make Your Next Hospital Stay More Tolerable](https://lifehacker.com/ask-for-the-menu-and-other-ways-to-make-your-next-hosp-1848375888)
-- [Lifehacker] [How to Kill an Old Tree Stump in Your Yard](https://lifehacker.com/how-to-kill-an-old-tree-stump-in-your-yard-1848379937)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
