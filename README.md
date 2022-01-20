@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Concurrency In JavaScript](https://dev.to/kalashin1/concurrency-in-javascript-4oho)
 - [Dev.to/JS] [The only 3 tools you need to accomplish anything #1](https://dev.to/adrianghub/100-days-of-coding-scrum-holacracy-1-m5l)
 - [Dev.to/JS] [You must attend the following online conferences this year 2022](https://dev.to/codbugs/you-must-attend-the-following-online-conferences-this-year-2022-2ga2)
 - [Dev.to/JS] [Debes asistir a las siguientes conferencias online de este año 2022](https://dev.to/codbugs/debes-asistir-a-las-siguientes-conferencias-online-de-este-ano-2022-5bgh)
@@ -35,7 +36,6 @@ libraries. e-commerce website home page blog-1](https://dev.to/riyas07/created-h
 - [Dev.to/JS] [React to the React App: How to hard reload your React Web App?](https://dev.to/alichherawalla/react-to-the-react-app-how-to-hard-reload-your-react-web-app-3god)
 - [Dev.to/JS] [Viscera-3 - Health Results, Price, Reviews, Pills And Benefits](https://dev.to/viscera3info/viscera-3-health-results-price-reviews-pills-and-benefits-52l)
 - [Dev.to/JS] [5 Underrated GitHub Features Every Developer Should Know](https://dev.to/thenomadevel/5-underrated-github-features-every-developer-should-know-3ghn)
-- [Dev.to/JS] [How To Event Stream Data From Your Hugo Site To Google Analytics Using RudderStack](https://dev.to/rudderstack/how-to-event-stream-data-from-your-hugo-site-to-google-analytics-using-rudderstack-4glk)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
