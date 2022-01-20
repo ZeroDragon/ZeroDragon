@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
+- [Dev.to/JS] [Intersection Observer API](https://dev.to/syogifse/intersection-observer-api-3nbn)
+- [Dev.to/JS] [Trick to Send form-data and Image to backend through ajax and php](https://dev.to/iamdyt/trick-to-send-form-data-and-image-to-backend-through-ajax-and-php-cg1)
+- [Dev.to/JS] [Never Ending Love with Escorts in Karachi](https://dev.to/locantokarachi/never-ending-love-with-escorts-in-karachi-3l3h)
+- [Dev.to/JS] [Clone google homepage with next.js](https://dev.to/dedaldinodev4/clone-google-homepage-with-nextjs-5e72)
+- [Dev.to/JS] [Paracetamol.js💊| #21: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-21-que-imprime-este-codigo-javascript-1575)
+- [Dev.to/JS] [Paracetamol.js💊| #20: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-20-que-imprime-este-codigo-javascript-40m4)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
 - [Dev.to/JS] [Building UIs in Figma with hand movements](https://dev.to/devdevcharlie/building-uis-in-figma-with-hand-movements-3pi4)
 - [Dev.to/JS] [Sending a Check with Node.js](https://dev.to/lob/sending-a-check-with-nodejs-59a9)
@@ -33,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is the Best Indoor Temperature for Your Dog?](https://lifehacker.com/what-is-the-best-indoor-temperature-for-your-dog-1848391481)
 - [Dev.to/JS] [Day 10 Of #100DaysOfCode Challenge - My experience](https://dev.to/catevee/day-10-of-100daysofcode-challenge-my-experience-2250)
 - [Dev.to/JS] [Create a Prismic IO Respository for Blog 👨🏽‍💻](https://dev.to/matheusmprado/create-a-prismic-io-respository-for-blog-kdc)
-- [Dev.to/JS] [Custom hook para validación de campos en React.js](https://dev.to/jordandev/custom-hook-para-validacion-de-campos-en-reactjs-1oa9)
-- [Dev.to/JS] [node: the new Node.js protocol](https://dev.to/fiberx10/node-the-new-nodejs-protocol-23i2)
-- [Dev.to/JS] [Iniciando em Context API](https://dev.to/gabrielhsilvestre/iniciando-em-context-api-f8c)
-- [Dev.to/JS] [Advanced JavaScript Series - Part 7: First Class Citizens &amp; Higher Order Functions](https://dev.to/pranav016/advanced-javascript-series-part-7-first-class-citizens-higher-order-functions-3cda)
 - [Lifehacker] [How to Effectively Navigate the Health Care System, According to Reddit](https://lifehacker.com/how-to-effectively-navigate-the-health-care-system-acc-1848391987)
-- [Dev.to/JS] [Progressive JPEG: What They Are and How They Help Improve Web Performance](https://dev.to/saranshk/progressive-jpeg-what-they-are-and-how-they-help-improve-web-performance-3jl1)
 - [Lifehacker] [18 Things You Need to Know to Prevent a Home Burglary](https://lifehacker.com/18-things-you-need-to-know-to-prevent-a-home-burglary-1848387719)
-- [Dev.to/JS] [Building A Game Yahtzee](https://dev.to/developerioweb/building-a-game-yahtzee-4f9d)
 - [Lifehacker] [What You Really Need to Survive a Blackout](https://lifehacker.com/what-you-really-need-to-survive-a-blackout-1848391408)
 - [Lifehacker] [How to Make Yourself Sneeze When It Just Won&#39;t Come Out](https://lifehacker.com/how-to-make-yourself-sneeze-when-it-just-wont-come-out-1848388958)
 - [Lifehacker] [What Is a &#39;Buddymoon&#39; &lpar;and Should You Take One&rpar;?](https://lifehacker.com/what-is-a-buddymoon-and-should-you-take-one-1848386702)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Shrink Large Image Files on Your Mac](https://lifehacker.com/the-easiest-ways-to-shrink-large-image-files-on-your-ma-1848371076)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2022](https://lifehacker.com/whats-new-on-disney-in-february-2022-1848383916)
 - [Lifehacker] [7 Tech Habits You Should Build &lpar;and the Best Apps to Get You Going&rpar;](https://lifehacker.com/7-tech-habits-you-should-build-and-the-best-apps-to-ge-1848382502)
-- [Lifehacker] [Stop Throwing Styrofoam in the Trash &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-throwing-styrofoam-in-the-trash-and-do-this-inste-1848381565)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
