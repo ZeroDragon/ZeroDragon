@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React to the React App: How to hard reload your React Web App?](https://dev.to/alichherawalla/react-to-the-react-app-how-to-hard-reload-your-react-web-app-3god)
+- [Dev.to/JS] [Viscera-3 - Health Results, Price, Reviews, Pills And Benefits](https://dev.to/viscera3info/viscera-3-health-results-price-reviews-pills-and-benefits-52l)
 - [Dev.to/JS] [5 Underrated GitHub Features Every Developer Should Know](https://dev.to/thenomadevel/5-underrated-github-features-every-developer-should-know-3ghn)
 - [Dev.to/JS] [How To Event Stream Data From Your Hugo Site To Google Analytics Using RudderStack](https://dev.to/rudderstack/how-to-event-stream-data-from-your-hugo-site-to-google-analytics-using-rudderstack-4glk)
 - [Dev.to/JS] [JS Event Loop and Call Stack](https://dev.to/surajitshaw/js-event-loop-and-call-stack-360h)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [OCR with Javascript](https://dev.to/yongasial/ocr-with-javascript-2oap)
 - [Dev.to/JS] [#21 - Sum of integers in string                      
 CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/21-sum-of-integers-in-string-codewars-kata-7-kyu-djk)
-- [Dev.to/JS] [Changing Colored Rotating Forms](https://dev.to/zmfreecodecamper/changing-colored-rotating-forms-314o)
-- [Dev.to/JS] [create-react-app](https://dev.to/klarevibes/create-react-app-2nj7)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
