@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - Find Peak Element](https://dev.to/_alkesh26/leetcode-find-peak-element-n2d)
+- [Dev.to/JS] [It&#39;s Prisma Time - Transactions](https://dev.to/this-is-learning/its-prisma-time-transactions-ji5)
+- [Dev.to/JS] [My Portfolio](https://dev.to/mishabka/my-portfolio-2d2b)
+- [Dev.to/JS] [Created Home page using Gsap 
+libraries. e-commerce website home page blog-1](https://dev.to/riyas07/created-home-page-using-gsap-libraries-e-commerce-website-home-page-blog-1-88f)
 - [Dev.to/JS] [React to the React App: How to hard reload your React Web App?](https://dev.to/alichherawalla/react-to-the-react-app-how-to-hard-reload-your-react-web-app-3god)
 - [Dev.to/JS] [Viscera-3 - Health Results, Price, Reviews, Pills And Benefits](https://dev.to/viscera3info/viscera-3-health-results-price-reviews-pills-and-benefits-52l)
 - [Dev.to/JS] [5 Underrated GitHub Features Every Developer Should Know](https://dev.to/thenomadevel/5-underrated-github-features-every-developer-should-know-3ghn)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[With source code] Learn to create working instagram.](https://dev.to/kunaal438/with-source-code-learn-to-create-working-social-media-website-12og)
 - [Dev.to/JS] [How to install tailwind Css &lpar;Fast and Easy&rpar;](https://dev.to/igahfranklin/how-to-install-tailwind-css-fast-and-easy-5cmb)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 13](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-13-5f27)
-- [Dev.to/JS] [Create Your First Machine Learning Mobile Application](https://dev.to/yongasial/create-your-first-machine-learning-mobile-application-3297)
-- [Dev.to/JS] [Object Detection with Javascript, the Easy Way!](https://dev.to/yongasial/object-detection-with-javascript-the-easy-way-4817)
-- [Dev.to/JS] [OCR with Javascript](https://dev.to/yongasial/ocr-with-javascript-2oap)
-- [Dev.to/JS] [#21 - Sum of integers in string                      
-CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/21-sum-of-integers-in-string-codewars-kata-7-kyu-djk)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
