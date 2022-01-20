@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build a slack birthday bot](https://dev.to/malcodeman/how-to-build-a-slack-birthday-bot-2bk0)
+- [Dev.to/JS] [+10 Clonable Webflow Templates Powered With Javascript](https://dev.to/srhtiletir/10-clonable-webflow-templates-powered-with-javascript-546o)
+- [Lifehacker] [10 Voice Memos Features You Aren&#39;t Using, but Should Be](https://lifehacker.com/10-voice-memos-features-you-arent-using-but-should-be-1848389835)
+- [Dev.to/JS] [Adding and Removing Elements From Arrays](https://dev.to/moose_said/adding-and-removing-elements-from-arrays-2bf6)
+- [Dev.to/JS] [Building React Components for Emails](https://dev.to/atherdon/building-react-components-for-emails-1doe)
+- [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Dev.to/JS] [ES6 - A beginners guide - Array Helpers](https://dev.to/stefanwrightcodes/es6-a-beginners-guide-promises-and-fetch-2715)
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848386833)
 - [Dev.to/JS] [Applying Inline Styles with React.js](https://dev.to/sureshramani/applying-inline-styles-with-reactjs-28l2)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explanation Of Javascript Fallback &lpar;ง&#39;̀-&#39;́&rpar;ง](https://dev.to/dsmark/explanation-of-javascript-fallback-ng-ng-37f5)
 - [Dev.to/JS] [Primer on Recursion](https://dev.to/jonathanfarrow/primer-on-recursion-211i)
 - [Dev.to/JS] [Better way to store large number - Daily JavaScript Tips #9](https://dev.to/codewithsnowbit/better-way-to-store-large-number-daily-javascript-tips-9-20lc)
-- [Dev.to/JS] [Beware of excess of &quot;best practices&quot;](https://dev.to/renanmouraf/beware-of-excess-of-best-practices-5bed)
-- [Dev.to/JS] [Accelerated Guide to Fullstack Web3 with ASS &lpar;Anchor, Solana, and Svelte&rpar; 🍑](https://dev.to/0xmuse/accelerated-guide-to-fullstack-web3-with-ass-anchor-solana-and-svelte-1mg)
-- [Dev.to/JS] [New Node.js protocol imports](https://dev.to/yenyih/new-nodejs-protocol-imports-3pnf)
-- [Dev.to/JS] [What you should know about Unary Operators in JavaScript](https://dev.to/efkumah/what-you-should-know-about-unary-operators-in-javascript-57gp)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
@@ -59,10 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Secret Ways to Reach an Actual Person in Customer Service](https://lifehacker.com/secret-ways-to-reach-an-actual-person-in-customer-servi-1848377153)
 - [Lifehacker] [How to Replace Your Mac’s Screenshot Tool With Something Better](https://lifehacker.com/how-to-replace-your-mac-s-screenshot-tool-with-somethin-1848370944)
 - [Lifehacker] [Why It’s Probably Time to Buy a New Mattress](https://lifehacker.com/why-it-s-probably-time-to-buy-a-new-mattress-1848371505)
-- [Lifehacker] [How to Get a Refund on a &#39;Nonrefundable&#39; Hotel Reservation](https://lifehacker.com/how-to-get-a-refund-on-a-nonrefundable-hotel-reservatio-1848372634)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
-- [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)
-- [Crazy Programmer] [Will Artificial Intelligence Replace Programmers?](https://www.thecrazyprogrammer.com/2022/01/will-artificial-intelligence-replace-programmers.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
 ---
 
