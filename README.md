@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Progressive JPEG: What They Are and How They Help Improve Web Performance](https://dev.to/saranshk/progressive-jpeg-what-they-are-and-how-they-help-improve-web-performance-3jl1)
+- [Dev.to/JS] [Building A Game Yahtzee](https://dev.to/developerioweb/building-a-game-yahtzee-4f9d)
+- [Dev.to/JS] [F-Curator — A Bookmark&lpar;favorites&rpar; Manager App](https://dev.to/uiux_lab/f-curator-a-bookmarkfavorites-manager-app-26mh)
+- [Dev.to/JS] [Next JS – optimize blog posts](https://dev.to/kasperaamodt/next-js-optimize-blog-posts-183m)
+- [Lifehacker] [What You Really Need to Survive a Blackout](https://lifehacker.com/what-you-really-need-to-survive-a-blackout-1848391408)
+- [Dev.to/JS] [React Basics!](https://dev.to/ansub/react-basics-3j4i)
+- [Dev.to/JS] [Creating a Gradient Component in React From Design Tokens](https://dev.to/michaelmangial1/creating-a-gradient-component-in-react-from-design-tokens-kll)
 - [Dev.to/JS] [How To Efficiently Get The Last Element Of An Array In JavaScript](https://dev.to/reservecrate/how-to-efficiently-get-the-last-element-of-an-array-in-javascript-1f1b)
 - [Lifehacker] [How to Make Yourself Sneeze When It Just Won&#39;t Come Out](https://lifehacker.com/how-to-make-yourself-sneeze-when-it-just-wont-come-out-1848388958)
 - [Dev.to/JS] [3 ways to use reduce in javascript](https://dev.to/pestrinmarco/3-ways-to-use-reduce-in-javascript-1442)
@@ -33,15 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [+10 Clonable Webflow Templates Powered With Javascript](https://dev.to/srhtiletir/10-clonable-webflow-templates-powered-with-javascript-546o)
 - [Lifehacker] [10 Voice Memos Features You Aren&#39;t Using, but Should Be](https://lifehacker.com/10-voice-memos-features-you-arent-using-but-should-be-1848389835)
 - [Dev.to/JS] [Adding and Removing Elements From Arrays](https://dev.to/moose_said/adding-and-removing-elements-from-arrays-2bf6)
-- [Dev.to/JS] [Building React Components for Emails](https://dev.to/atherdon/building-react-components-for-emails-1doe)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
-- [Dev.to/JS] [ES6 - A beginners guide - Array Helpers](https://dev.to/stefanwrightcodes/es6-a-beginners-guide-promises-and-fetch-2715)
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848386833)
-- [Dev.to/JS] [Applying Inline Styles with React.js](https://dev.to/sureshramani/applying-inline-styles-with-reactjs-28l2)
-- [Dev.to/JS] [Javascript OOP-2 &lpar;Inheritance&rpar; -](https://dev.to/shubhamtiwari909/javascript-oop-2-inheritance--44c2)
-- [Dev.to/JS] [Best Way to Get Last Item in an Array](https://dev.to/codewithsnowbit/best-way-to-get-last-item-in-an-array-5a30)
 - [Lifehacker] [What&#39;s New on Hulu in February 2022](https://lifehacker.com/whats-new-on-hulu-in-february-2022-1848386431)
-- [Dev.to/JS] [how often should i update/upgrade my node version?](https://dev.to/valbuena/how-often-should-i-updateupgrade-my-node-version-103b)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
 - [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
 - [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
-- [Lifehacker] [You Can Finally Connect to Your VPN on Windows Again](https://lifehacker.com/you-can-finally-connect-to-your-vpn-on-windows-again-1848376492)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
