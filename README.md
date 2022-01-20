@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[With source code] Learn to create working instagram.](https://dev.to/kunaal438/with-source-code-learn-to-create-working-social-media-website-12og)
+- [Dev.to/JS] [How to install tailwind Css &lpar;Fast and Easy&rpar;](https://dev.to/igahfranklin/how-to-install-tailwind-css-fast-and-easy-5cmb)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 13](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-13-5f27)
 - [Dev.to/JS] [Create Your First Machine Learning Mobile Application](https://dev.to/yongasial/create-your-first-machine-learning-mobile-application-3297)
 - [Dev.to/JS] [Object Detection with Javascript, the Easy Way!](https://dev.to/yongasial/object-detection-with-javascript-the-easy-way-4817)
 - [Dev.to/JS] [OCR with Javascript](https://dev.to/yongasial/ocr-with-javascript-2oap)
@@ -33,11 +36,8 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/21-sum-of-integers-in
 - [Dev.to/JS] [Understanding Observables in RxJS](https://dev.to/thegnarco/understanding-observables-in-rxjs-40ma)
 - [Dev.to/JS] [Quick Sort Algorithm With JavaScript - All You Need To Know Explained](https://dev.to/ebereplenty/quick-sort-algorithm-with-javascript-all-you-need-to-know-explained-4ohj)
 - [Dev.to/JS] [My portfolio website](https://dev.to/kumard3/my-portfolio-website-3iob)
-- [Dev.to/JS] [ES6: How to Clone an Object in javascript ?](https://dev.to/deepaknegiweb/es6-how-to-clone-an-object-in-javascript--5dej)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
-- [Dev.to/JS] [Paracetamol.js💊| #19: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-19-que-imprime-este-codigo-javascript-3h80)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
-- [Dev.to/JS] [Create Lightweight React Accordions](https://dev.to/amiut/create-lightweight-react-accordions-4dej)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
 - [Lifehacker] [The Fastest Way to Edit Audio From Your iPhone or Mac](https://lifehacker.com/the-fastest-way-to-edit-audio-from-your-iphone-or-mac-1848371290)
 - [Lifehacker] [This Basic Skincare Routine Won&#39;t Overwhelm You](https://lifehacker.com/this-basic-skincare-routine-wont-overwhelm-you-1848379071)
