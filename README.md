@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Better way to store large number - Daily JavaScript Tips #9](https://dev.to/codewithsnowbit/better-way-to-store-large-number-daily-javascript-tips-9-20lc)
+- [Dev.to/JS] [Beware of excess of &quot;best practices&quot;](https://dev.to/renanmouraf/beware-of-excess-of-best-practices-5bed)
+- [Dev.to/JS] [Accelerated Guide to Fullstack Web3 with ASS &lpar;Anchor, Solana, and Svelte&rpar; 🍑](https://dev.to/0xmuse/accelerated-guide-to-fullstack-web3-with-ass-anchor-solana-and-svelte-1mg)
+- [Dev.to/JS] [New Node.js protocol imports](https://dev.to/yenyih/new-nodejs-protocol-imports-3pnf)
+- [Dev.to/JS] [What you should know about Unary Operators in JavaScript](https://dev.to/efkumah/what-you-should-know-about-unary-operators-in-javascript-57gp)
 - [Dev.to/JS] [Express js authentication &amp; authorization code](https://dev.to/ronyfr3/express-js-authentication-authorization-code-4cdd)
 - [Dev.to/JS] [Day 83 of 100 Days of Code &amp; Scrum: Deploying Services Pages to Production](https://dev.to/rammina/day-83-of-100-days-of-code-scrum-deploying-services-pages-to-production-1jo1)
 - [Dev.to/JS] [Google Sheets add a Background Music](https://dev.to/vrystick/google-sheets-add-a-background-music-2c10)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First Language to Learn](https://dev.to/kanishkkhurana/first-language-to-learn-4k2p)
 - [Dev.to/JS] [Hospital bed in Pakistan / wheelchair price in Pakistan](https://dev.to/belgic1/hospital-bed-in-pakistan-wheelchair-price-in-pakistan-lhe)
 - [Dev.to/JS] [WEB DEVELOPMENT SERVICES](https://dev.to/belgic1/web-development-services-2nc7)
-- [Dev.to/JS] [Introducing a new tool - DEV Backup](https://dev.to/codewithsnowbit/introducing-a-new-tool-dev-backup-1c06)
-- [Dev.to/JS] [onClick handlers with Currying &lpar;React&rpar;](https://dev.to/nitsancohen770/onclick-handlers-with-currying-react-4aj4)
-- [Dev.to/JS] [How to make a self-controlled button in react](https://dev.to/omardiaa48/how-to-make-a-self-controlled-button-in-react-26od)
-- [Dev.to/JS] [Concurrency In JavaScript](https://dev.to/kalashin1/concurrency-in-javascript-4oho)
-- [Dev.to/JS] [The only 3 tools you need to accomplish anything #1](https://dev.to/adrianghub/100-days-of-coding-scrum-holacracy-1-m5l)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
