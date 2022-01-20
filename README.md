@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Efficiently Get The Last Element Of An Array In JavaScript](https://dev.to/reservecrate/how-to-efficiently-get-the-last-element-of-an-array-in-javascript-1f1b)
+- [Lifehacker] [How to Make Yourself Sneeze When It Just Won&#39;t Come Out](https://lifehacker.com/how-to-make-yourself-sneeze-when-it-just-wont-come-out-1848388958)
+- [Dev.to/JS] [3 ways to use reduce in javascript](https://dev.to/pestrinmarco/3-ways-to-use-reduce-in-javascript-1442)
+- [Lifehacker] [What Is a &#39;Buddymoon&#39; &lpar;and Should You Take One&rpar;?](https://lifehacker.com/what-is-a-buddymoon-and-should-you-take-one-1848386702)
+- [Dev.to/JS] [Search and Highlight Text feature using Angular](https://dev.to/this-is-angular/search-and-highlight-text-feature-using-angular-l98)
+- [Lifehacker] [15 of the Best Shakespeare Adaptations Ever Filmed](https://lifehacker.com/15-of-the-best-shakespeare-adaptations-ever-filmed-1848377851)
 - [Dev.to/JS] [How to build a slack birthday bot](https://dev.to/malcodeman/how-to-build-a-slack-birthday-bot-2bk0)
 - [Dev.to/JS] [+10 Clonable Webflow Templates Powered With Javascript](https://dev.to/srhtiletir/10-clonable-webflow-templates-powered-with-javascript-546o)
 - [Lifehacker] [10 Voice Memos Features You Aren&#39;t Using, but Should Be](https://lifehacker.com/10-voice-memos-features-you-arent-using-but-should-be-1848389835)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Way to Get Last Item in an Array](https://dev.to/codewithsnowbit/best-way-to-get-last-item-in-an-array-5a30)
 - [Lifehacker] [What&#39;s New on Hulu in February 2022](https://lifehacker.com/whats-new-on-hulu-in-february-2022-1848386431)
 - [Dev.to/JS] [how often should i update/upgrade my node version?](https://dev.to/valbuena/how-often-should-i-updateupgrade-my-node-version-103b)
-- [Dev.to/JS] [Explanation Of Javascript Fallback &lpar;ง&#39;̀-&#39;́&rpar;ง](https://dev.to/dsmark/explanation-of-javascript-fallback-ng-ng-37f5)
-- [Dev.to/JS] [Primer on Recursion](https://dev.to/jonathanfarrow/primer-on-recursion-211i)
-- [Dev.to/JS] [Better way to store large number - Daily JavaScript Tips #9](https://dev.to/codewithsnowbit/better-way-to-store-large-number-daily-javascript-tips-9-20lc)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
 - [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
 - [Lifehacker] [You Can Finally Connect to Your VPN on Windows Again](https://lifehacker.com/you-can-finally-connect-to-your-vpn-on-windows-again-1848376492)
-- [Lifehacker] [Secret Ways to Reach an Actual Person in Customer Service](https://lifehacker.com/secret-ways-to-reach-an-actual-person-in-customer-servi-1848377153)
-- [Lifehacker] [How to Replace Your Mac’s Screenshot Tool With Something Better](https://lifehacker.com/how-to-replace-your-mac-s-screenshot-tool-with-somethin-1848370944)
-- [Lifehacker] [Why It’s Probably Time to Buy a New Mattress](https://lifehacker.com/why-it-s-probably-time-to-buy-a-new-mattress-1848371505)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
