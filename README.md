@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Increment an Atomic Counter](https://dev.to/hwangs12/increment-an-atomic-counter-3mk5)
+- [Dev.to/JS] [How to Create a React App with Storybook](https://dev.to/oktadev/how-to-create-a-react-app-with-storybook-eln)
+- [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
+- [Dev.to/JS] [When to use UseMemo](https://dev.to/luismoriguerra/when-to-use-usememo-4kl3)
+- [Dev.to/JS] [Criando eventBinding com exportAs](https://dev.to/joaopaulo_avila/criando-eventbinding-com-exportas-10p4)
+- [Dev.to/JS] [Just posted my website!!!!](https://dev.to/lincjones/just-posted-my-website-5a07)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Dev.to/JS] [Intersection Observer API](https://dev.to/syogifse/intersection-observer-api-3nbn)
 - [Dev.to/JS] [Trick to Send form-data and Image to backend through ajax and php](https://dev.to/iamdyt/trick-to-send-form-data-and-image-to-backend-through-ajax-and-php-cg1)
@@ -32,14 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #20: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-20-que-imprime-este-codigo-javascript-40m4)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
 - [Dev.to/JS] [Building UIs in Figma with hand movements](https://dev.to/devdevcharlie/building-uis-in-figma-with-hand-movements-3pi4)
-- [Dev.to/JS] [Sending a Check with Node.js](https://dev.to/lob/sending-a-check-with-nodejs-59a9)
-- [Dev.to/JS] [AzureFunBytes Episode 66 - Building real-time apps with @Azure SignalR with @chris_noring](https://dev.to/azure/azurefunbytes-episode-66-building-real-time-apps-with-azure-signalr-with-chrisnoring-1f9g)
 - [Lifehacker] [What to Know About Facebook’s New ‘Privacy Center’](https://lifehacker.com/what-to-know-about-facebook-s-new-privacy-center-1848378600)
 - [Lifehacker] [How to Roast a Whole Chicken Without Messing It Up](https://lifehacker.com/how-to-roast-a-whole-chicken-without-messing-it-up-1848387073)
-- [Dev.to/JS] [Using GitHub Codespaces with VNC/flexbox to create Pokémon maps from a web browser](https://dev.to/lowlighter/using-github-codespaces-with-vncflexbox-to-create-pokemon-maps-from-a-web-browser-3ch6)
 - [Lifehacker] [What Is the Best Indoor Temperature for Your Dog?](https://lifehacker.com/what-is-the-best-indoor-temperature-for-your-dog-1848391481)
-- [Dev.to/JS] [Day 10 Of #100DaysOfCode Challenge - My experience](https://dev.to/catevee/day-10-of-100daysofcode-challenge-my-experience-2250)
-- [Dev.to/JS] [Create a Prismic IO Respository for Blog 👨🏽‍💻](https://dev.to/matheusmprado/create-a-prismic-io-respository-for-blog-kdc)
 - [Lifehacker] [How to Effectively Navigate the Health Care System, According to Reddit](https://lifehacker.com/how-to-effectively-navigate-the-health-care-system-acc-1848391987)
 - [Lifehacker] [18 Things You Need to Know to Prevent a Home Burglary](https://lifehacker.com/18-things-you-need-to-know-to-prevent-a-home-burglary-1848387719)
 - [Lifehacker] [What You Really Need to Survive a Blackout](https://lifehacker.com/what-you-really-need-to-survive-a-blackout-1848391408)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest, Easiest Post-Workout Snacks That Aren&#39;t a Shake or Bar](https://lifehacker.com/the-fastest-easiest-post-workout-snacks-that-arent-a-s-1848383038)
 - [Lifehacker] [The Easiest Ways to Shrink Large Image Files on Your Mac](https://lifehacker.com/the-easiest-ways-to-shrink-large-image-files-on-your-ma-1848371076)
 - [Lifehacker] [What&#39;s New on Disney+ in February 2022](https://lifehacker.com/whats-new-on-disney-in-february-2022-1848383916)
-- [Lifehacker] [7 Tech Habits You Should Build &lpar;and the Best Apps to Get You Going&rpar;](https://lifehacker.com/7-tech-habits-you-should-build-and-the-best-apps-to-ge-1848382502)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
