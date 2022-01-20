@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#21 - Sum of integers in string                      
+CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/21-sum-of-integers-in-string-codewars-kata-7-kyu-djk)
+- [Dev.to/JS] [Changing Colored Rotating Forms](https://dev.to/zmfreecodecamper/changing-colored-rotating-forms-314o)
 - [Dev.to/JS] [create-react-app](https://dev.to/klarevibes/create-react-app-2nj7)
 - [Dev.to/JS] [Understanding Observables in RxJS](https://dev.to/thegnarco/understanding-observables-in-rxjs-40ma)
 - [Dev.to/JS] [Quick Sort Algorithm With JavaScript - All You Need To Know Explained](https://dev.to/ebereplenty/quick-sort-algorithm-with-javascript-all-you-need-to-know-explained-4ohj)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⚡Var, Let, and Const in JavaScript](https://dev.to/ayeshabaloch123/var-let-and-const-in-javascript-2dhc)
 - [Lifehacker] [The Fastest Way to Edit Audio From Your iPhone or Mac](https://lifehacker.com/the-fastest-way-to-edit-audio-from-your-iphone-or-mac-1848371290)
 - [Dev.to/JS] [Weather app](https://dev.to/okrahul/weather-app-1aa5)
-- [Dev.to/JS] [Add An External Script to a Vue Component](https://dev.to/sandrarodgers/add-an-external-script-to-a-vue-component-and-defer-execution-of-logic-on-the-script-4kge)
-- [Dev.to/JS] [Collects visitor reviews, and displays them as a widget on your website.](https://dev.to/iz/collects-visitor-reviews-and-displays-them-as-a-widget-on-your-website-2m70)
 - [Lifehacker] [This Basic Skincare Routine Won&#39;t Overwhelm You](https://lifehacker.com/this-basic-skincare-routine-wont-overwhelm-you-1848379071)
 - [Lifehacker] [What&#39;s New on Netflix in February 2022](https://lifehacker.com/whats-new-on-netflix-in-february-2022-1848384998)
 - [Lifehacker] [Stop Using Safari Immediately &lpar;at Least for Now&rpar;](https://lifehacker.com/stop-using-safari-immediately-at-least-for-now-1848384461)
