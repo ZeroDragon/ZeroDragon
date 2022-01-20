@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using GitHub Codespaces with VNC/flexbox to create Pokémon maps from a web browser](https://dev.to/lowlighter/using-github-codespaces-with-vncflexbox-to-create-pokemon-maps-from-a-web-browser-3ch6)
+- [Lifehacker] [What Is the Best Indoor Temperature for Your Dog?](https://lifehacker.com/what-is-the-best-indoor-temperature-for-your-dog-1848391481)
+- [Dev.to/JS] [Day 10 Of #100DaysOfCode Challenge - My experience](https://dev.to/catevee/day-10-of-100daysofcode-challenge-my-experience-2250)
+- [Dev.to/JS] [Create a Prismic IO Respository for Blog 👨🏽‍💻](https://dev.to/matheusmprado/create-a-prismic-io-respository-for-blog-kdc)
 - [Dev.to/JS] [Custom hook para validación de campos en React.js](https://dev.to/jordandev/custom-hook-para-validacion-de-campos-en-reactjs-1oa9)
 - [Dev.to/JS] [node: the new Node.js protocol](https://dev.to/fiberx10/node-the-new-nodejs-protocol-23i2)
 - [Dev.to/JS] [Iniciando em Context API](https://dev.to/gabrielhsilvestre/iniciando-em-context-api-f8c)
@@ -35,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next JS – optimize blog posts](https://dev.to/kasperaamodt/next-js-optimize-blog-posts-183m)
 - [Lifehacker] [What You Really Need to Survive a Blackout](https://lifehacker.com/what-you-really-need-to-survive-a-blackout-1848391408)
 - [Dev.to/JS] [React Basics!](https://dev.to/ansub/react-basics-3j4i)
-- [Dev.to/JS] [Creating a Gradient Component in React From Design Tokens](https://dev.to/michaelmangial1/creating-a-gradient-component-in-react-from-design-tokens-kll)
-- [Dev.to/JS] [How To Efficiently Get The Last Element Of An Array In JavaScript](https://dev.to/reservecrate/how-to-efficiently-get-the-last-element-of-an-array-in-javascript-1f1b)
 - [Lifehacker] [How to Make Yourself Sneeze When It Just Won&#39;t Come Out](https://lifehacker.com/how-to-make-yourself-sneeze-when-it-just-wont-come-out-1848388958)
-- [Dev.to/JS] [3 ways to use reduce in javascript](https://dev.to/pestrinmarco/3-ways-to-use-reduce-in-javascript-1442)
 - [Lifehacker] [What Is a &#39;Buddymoon&#39; &lpar;and Should You Take One&rpar;?](https://lifehacker.com/what-is-a-buddymoon-and-should-you-take-one-1848386702)
 - [Lifehacker] [15 of the Best Shakespeare Adaptations Ever Filmed](https://lifehacker.com/15-of-the-best-shakespeare-adaptations-ever-filmed-1848377851)
 - [Lifehacker] [10 Voice Memos Features You Aren&#39;t Using, but Should Be](https://lifehacker.com/10-voice-memos-features-you-arent-using-but-should-be-1848389835)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Cornmeal, Grits, and Polenta](https://lifehacker.com/the-difference-between-cornmeal-grits-and-polenta-1848379579)
 - [Lifehacker] [Ask for the Menu, and Other Ways to Make Your Next Hospital Stay More Tolerable](https://lifehacker.com/ask-for-the-menu-and-other-ways-to-make-your-next-hosp-1848375888)
 - [Lifehacker] [How to Kill an Old Tree Stump in Your Yard](https://lifehacker.com/how-to-kill-an-old-tree-stump-in-your-yard-1848379937)
-- [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
