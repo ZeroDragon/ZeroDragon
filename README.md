@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Your First Machine Learning Mobile Application](https://dev.to/yongasial/create-your-first-machine-learning-mobile-application-3297)
+- [Dev.to/JS] [Object Detection with Javascript, the Easy Way!](https://dev.to/yongasial/object-detection-with-javascript-the-easy-way-4817)
+- [Dev.to/JS] [OCR with Javascript](https://dev.to/yongasial/ocr-with-javascript-2oap)
 - [Dev.to/JS] [#21 - Sum of integers in string                      
 CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/21-sum-of-integers-in-string-codewars-kata-7-kyu-djk)
 - [Dev.to/JS] [Changing Colored Rotating Forms](https://dev.to/zmfreecodecamper/changing-colored-rotating-forms-314o)
@@ -36,10 +39,7 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/21-sum-of-integers-in
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Dev.to/JS] [Create Lightweight React Accordions](https://dev.to/amiut/create-lightweight-react-accordions-4dej)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
-- [Dev.to/JS] [A quick start to using or context &lpar;global state&rpar; in react](https://dev.to/yasin162/a-quick-start-to-using-or-context-global-state-in-react-2f47)
-- [Dev.to/JS] [⚡Var, Let, and Const in JavaScript](https://dev.to/ayeshabaloch123/var-let-and-const-in-javascript-2dhc)
 - [Lifehacker] [The Fastest Way to Edit Audio From Your iPhone or Mac](https://lifehacker.com/the-fastest-way-to-edit-audio-from-your-iphone-or-mac-1848371290)
-- [Dev.to/JS] [Weather app](https://dev.to/okrahul/weather-app-1aa5)
 - [Lifehacker] [This Basic Skincare Routine Won&#39;t Overwhelm You](https://lifehacker.com/this-basic-skincare-routine-wont-overwhelm-you-1848379071)
 - [Lifehacker] [What&#39;s New on Netflix in February 2022](https://lifehacker.com/whats-new-on-netflix-in-february-2022-1848384998)
 - [Lifehacker] [Stop Using Safari Immediately &lpar;at Least for Now&rpar;](https://lifehacker.com/stop-using-safari-immediately-at-least-for-now-1848384461)
