@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Underrated GitHub Features Every Developer Should Know](https://dev.to/thenomadevel/5-underrated-github-features-every-developer-should-know-3ghn)
+- [Dev.to/JS] [How To Event Stream Data From Your Hugo Site To Google Analytics Using RudderStack](https://dev.to/rudderstack/how-to-event-stream-data-from-your-hugo-site-to-google-analytics-using-rudderstack-4glk)
+- [Dev.to/JS] [JS Event Loop and Call Stack](https://dev.to/surajitshaw/js-event-loop-and-call-stack-360h)
 - [Dev.to/JS] [[With source code] Learn to create working instagram.](https://dev.to/kunaal438/with-source-code-learn-to-create-working-social-media-website-12og)
 - [Dev.to/JS] [How to install tailwind Css &lpar;Fast and Easy&rpar;](https://dev.to/igahfranklin/how-to-install-tailwind-css-fast-and-easy-5cmb)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 13](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-13-5f27)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/21-sum-of-integers-in-string-codewars-kata-7-kyu-djk)
 - [Dev.to/JS] [Changing Colored Rotating Forms](https://dev.to/zmfreecodecamper/changing-colored-rotating-forms-314o)
 - [Dev.to/JS] [create-react-app](https://dev.to/klarevibes/create-react-app-2nj7)
-- [Dev.to/JS] [Understanding Observables in RxJS](https://dev.to/thegnarco/understanding-observables-in-rxjs-40ma)
-- [Dev.to/JS] [Quick Sort Algorithm With JavaScript - All You Need To Know Explained](https://dev.to/ebereplenty/quick-sort-algorithm-with-javascript-all-you-need-to-know-explained-4ohj)
-- [Dev.to/JS] [My portfolio website](https://dev.to/kumard3/my-portfolio-website-3iob)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
