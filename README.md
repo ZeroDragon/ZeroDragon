@@ -23,19 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJS with Redux Thunk](https://dev.to/sirimainsorn/reactjs-with-redux-thunk-3he0)
+- [Dev.to/JS] [First Language to Learn](https://dev.to/kanishkkhurana/first-language-to-learn-4k2p)
+- [Dev.to/JS] [Hospital bed in Pakistan / wheelchair price in Pakistan](https://dev.to/belgic1/hospital-bed-in-pakistan-wheelchair-price-in-pakistan-lhe)
+- [Dev.to/JS] [WEB DEVELOPMENT SERVICES](https://dev.to/belgic1/web-development-services-2nc7)
+- [Dev.to/JS] [Introducing a new tool - DEV Backup](https://dev.to/codewithsnowbit/introducing-a-new-tool-dev-backup-1c06)
+- [Dev.to/JS] [onClick handlers with Currying &lpar;React&rpar;](https://dev.to/nitsancohen770/onclick-handlers-with-currying-react-4aj4)
+- [Dev.to/JS] [How to make a self-controlled button in react](https://dev.to/omardiaa48/how-to-make-a-self-controlled-button-in-react-26od)
 - [Dev.to/JS] [Concurrency In JavaScript](https://dev.to/kalashin1/concurrency-in-javascript-4oho)
 - [Dev.to/JS] [The only 3 tools you need to accomplish anything #1](https://dev.to/adrianghub/100-days-of-coding-scrum-holacracy-1-m5l)
 - [Dev.to/JS] [You must attend the following online conferences this year 2022](https://dev.to/codbugs/you-must-attend-the-following-online-conferences-this-year-2022-2ga2)
 - [Dev.to/JS] [Debes asistir a las siguientes conferencias online de este año 2022](https://dev.to/codbugs/debes-asistir-a-las-siguientes-conferencias-online-de-este-ano-2022-5bgh)
 - [Dev.to/JS] [How To Create Stylish HTML Sitemap Page In Blogger?](https://dev.to/imamuddinwp/how-to-create-stylish-html-sitemap-page-in-blogger-2h21)
-- [Dev.to/JS] [LeetCode - Find Peak Element](https://dev.to/_alkesh26/leetcode-find-peak-element-n2d)
-- [Dev.to/JS] [It&#39;s Prisma Time - Transactions](https://dev.to/this-is-learning/its-prisma-time-transactions-ji5)
-- [Dev.to/JS] [My Portfolio](https://dev.to/mishabka/my-portfolio-2d2b)
-- [Dev.to/JS] [Created Home page using Gsap 
-libraries. e-commerce website home page blog-1](https://dev.to/riyas07/created-home-page-using-gsap-libraries-e-commerce-website-home-page-blog-1-88f)
-- [Dev.to/JS] [React to the React App: How to hard reload your React Web App?](https://dev.to/alichherawalla/react-to-the-react-app-how-to-hard-reload-your-react-web-app-3god)
-- [Dev.to/JS] [Viscera-3 - Health Results, Price, Reviews, Pills And Benefits](https://dev.to/viscera3info/viscera-3-health-results-price-reviews-pills-and-benefits-52l)
-- [Dev.to/JS] [5 Underrated GitHub Features Every Developer Should Know](https://dev.to/thenomadevel/5-underrated-github-features-every-developer-should-know-3ghn)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
