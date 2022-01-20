@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom hook para validación de campos en React.js](https://dev.to/jordandev/custom-hook-para-validacion-de-campos-en-reactjs-1oa9)
+- [Dev.to/JS] [node: the new Node.js protocol](https://dev.to/fiberx10/node-the-new-nodejs-protocol-23i2)
+- [Dev.to/JS] [Iniciando em Context API](https://dev.to/gabrielhsilvestre/iniciando-em-context-api-f8c)
+- [Dev.to/JS] [Advanced JavaScript Series - Part 7: First Class Citizens &amp; Higher Order Functions](https://dev.to/pranav016/advanced-javascript-series-part-7-first-class-citizens-higher-order-functions-3cda)
+- [Lifehacker] [How to Effectively Navigate the Health Care System, According to Reddit](https://lifehacker.com/how-to-effectively-navigate-the-health-care-system-acc-1848391987)
 - [Dev.to/JS] [Progressive JPEG: What They Are and How They Help Improve Web Performance](https://dev.to/saranshk/progressive-jpeg-what-they-are-and-how-they-help-improve-web-performance-3jl1)
+- [Lifehacker] [18 Things You Need to Know to Prevent a Home Burglary](https://lifehacker.com/18-things-you-need-to-know-to-prevent-a-home-burglary-1848387719)
 - [Dev.to/JS] [Building A Game Yahtzee](https://dev.to/developerioweb/building-a-game-yahtzee-4f9d)
 - [Dev.to/JS] [F-Curator — A Bookmark&lpar;favorites&rpar; Manager App](https://dev.to/uiux_lab/f-curator-a-bookmarkfavorites-manager-app-26mh)
 - [Dev.to/JS] [Next JS – optimize blog posts](https://dev.to/kasperaamodt/next-js-optimize-blog-posts-183m)
@@ -34,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Yourself Sneeze When It Just Won&#39;t Come Out](https://lifehacker.com/how-to-make-yourself-sneeze-when-it-just-wont-come-out-1848388958)
 - [Dev.to/JS] [3 ways to use reduce in javascript](https://dev.to/pestrinmarco/3-ways-to-use-reduce-in-javascript-1442)
 - [Lifehacker] [What Is a &#39;Buddymoon&#39; &lpar;and Should You Take One&rpar;?](https://lifehacker.com/what-is-a-buddymoon-and-should-you-take-one-1848386702)
-- [Dev.to/JS] [Search and Highlight Text feature using Angular](https://dev.to/this-is-angular/search-and-highlight-text-feature-using-angular-l98)
 - [Lifehacker] [15 of the Best Shakespeare Adaptations Ever Filmed](https://lifehacker.com/15-of-the-best-shakespeare-adaptations-ever-filmed-1848377851)
-- [Dev.to/JS] [How to build a slack birthday bot](https://dev.to/malcodeman/how-to-build-a-slack-birthday-bot-2bk0)
-- [Dev.to/JS] [+10 Clonable Webflow Templates Powered With Javascript](https://dev.to/srhtiletir/10-clonable-webflow-templates-powered-with-javascript-546o)
 - [Lifehacker] [10 Voice Memos Features You Aren&#39;t Using, but Should Be](https://lifehacker.com/10-voice-memos-features-you-arent-using-but-should-be-1848389835)
-- [Dev.to/JS] [Adding and Removing Elements From Arrays](https://dev.to/moose_said/adding-and-removing-elements-from-arrays-2bf6)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848386833)
 - [Lifehacker] [What&#39;s New on Hulu in February 2022](https://lifehacker.com/whats-new-on-hulu-in-february-2022-1848386431)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ask for the Menu, and Other Ways to Make Your Next Hospital Stay More Tolerable](https://lifehacker.com/ask-for-the-menu-and-other-ways-to-make-your-next-hosp-1848375888)
 - [Lifehacker] [How to Kill an Old Tree Stump in Your Yard](https://lifehacker.com/how-to-kill-an-old-tree-stump-in-your-yard-1848379937)
 - [Lifehacker] [15 iPhone Apps Every Tween Needs](https://lifehacker.com/15-iphone-apps-every-tween-needs-1848379703)
-- [Lifehacker] [What You Need to Know Before You Pick Up a Barbell for the First Time](https://lifehacker.com/what-you-need-to-know-before-you-pick-up-a-barbell-for-1848377867)
-- [Lifehacker] [I Will Never Put Tomatoes in the Fridge](https://lifehacker.com/i-will-never-put-tomatoes-in-the-fridge-1848377806)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
