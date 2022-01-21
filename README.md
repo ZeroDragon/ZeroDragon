@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CÁC LOẠI QUẠT CHẮN GIÓ MECI ĐANG CUNG CẤP](https://dev.to/mannhuapvccangio/cac-loai-quat-chan-gio-meci-dang-cung-cap-31a2)
+- [Dev.to/JS] [BÁO GIÁ CỬA CUỐN NHỰA PVC TỐC ĐỘ CAO](https://dev.to/mannhuapvccangio/bao-gia-cua-cuon-nhua-pvc-toc-do-cao-22ea)
+- [Dev.to/JS] [CỬA LƯỚI CHỐNG MUỖI | QUANG MINH ĐỒNG NAI](https://dev.to/cualuoichongmuoicangio/cua-luoi-chong-muoi-quang-minh-dong-nai-4pjj)
+- [Dev.to/JS] [CỬA LƯỚI CHỐNG MUỖI | QUANG MINH HỒ CHÍ MINH](https://dev.to/cualuoichongmuoicangio/cua-luoi-chong-muoi-quang-minh-ho-chi-minh-bc9)
 - [Dev.to/JS] [JavaScript type detection](https://dev.to/owengall/javascript-type-detection-13h3)
 - [Dev.to/JS] [My Personal site](https://dev.to/namnguyen0320/my-personal-site-1lpl)
 - [Dev.to/JS] [Deployment made easy with Agility CMS and Vercel](https://dev.to/krofax/deployment-made-easy-with-agility-cms-and-vercel-1bpp)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a React App with Storybook](https://dev.to/oktadev/how-to-create-a-react-app-with-storybook-eln)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Dev.to/JS] [Solving React Problems: When to use UseMemo](https://dev.to/luismoriguerra/when-to-use-usememo-4kl3)
-- [Dev.to/JS] [Criando eventBinding com exportAs](https://dev.to/joaopaulo_avila/criando-eventbinding-com-exportas-10p4)
-- [Dev.to/JS] [Just posted my website!!!!](https://dev.to/lincjones/just-posted-my-website-5a07)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
-- [Dev.to/JS] [Intersection Observer API](https://dev.to/syogifse/intersection-observer-api-3nbn)
-- [Dev.to/JS] [Trick to Send form-data and Image to backend through ajax and php](https://dev.to/iamdyt/trick-to-send-form-data-and-image-to-backend-through-ajax-and-php-cg1)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
 - [Lifehacker] [What to Know About Facebook’s New ‘Privacy Center’](https://lifehacker.com/what-to-know-about-facebook-s-new-privacy-center-1848378600)
 - [Lifehacker] [How to Roast a Whole Chicken Without Messing It Up](https://lifehacker.com/how-to-roast-a-whole-chicken-without-messing-it-up-1848387073)
