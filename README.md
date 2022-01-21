@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do With Your Empty Propane Tank](https://lifehacker.com/what-to-do-with-your-empty-propane-tank-1848397216)
+- [Lifehacker] [9 Inventive Ways to Reuse K-Cups](https://lifehacker.com/9-inventive-ways-to-reuse-k-cups-1848395436)
+- [Dev.to/JS] [Document Express API with Swagger](https://dev.to/przpiw/document-express-api-with-swagger-51in)
+- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#04&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-04-40o5)
+- [Dev.to/JS] [Installing Node Js. Ubuntu, and Gulp - Tips](https://dev.to/davidfrempong/installing-node-js-ubuntu-and-gulp-tips-1317)
 - [Dev.to/JS] [Wrapping React Query&#39;s useMutation &lpar;A Use Case for Wrapping External Libraries&rpar;](https://dev.to/michaelmangial1/wrapping-react-querys-usemutation-a-use-case-for-wrapping-external-libraries-4nj8)
 - [Dev.to/JS] [What is a Single-Page Application [ SPA ]?](https://dev.to/ansub/what-is-a-single-page-application-spa--2l6d)
 - [Dev.to/JS] [Fun with Array Iteration](https://dev.to/kollercode/fun-with-array-iteration-10cg)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TIL: JavaScript&#39;s void Operator](https://dev.to/matheusrich/til-javascripts-void-operator-58ni)
 - [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 21st January 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-21st-january-2022-1727)
 - [Lifehacker] [How to Make Your iPhone&#39;s Voice Memos Sound Better](https://lifehacker.com/how-to-make-your-iphones-voice-memos-sound-better-1848382665)
-- [Dev.to/JS] [Nucleoid: State-based data storage with Vanilla JS](https://dev.to/nucleoid/nucleoid-state-based-data-storage-with-vanilla-js-87m)
-- [Dev.to/JS] [Paracetamol.js💊| #23: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-23-explica-este-codigo-javascript-42e7)
-- [Dev.to/JS] [Paracetamol.js💊| #22:  Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-22-explica-este-codigo-javascript-1pka)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Does &#39;Pushing P&#39; Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848395423)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
 - [Lifehacker] [The Fastest Way to Edit Audio From Your iPhone or Mac](https://lifehacker.com/the-fastest-way-to-edit-audio-from-your-iphone-or-mac-1848371290)
 - [Lifehacker] [This Basic Skincare Routine Won&#39;t Overwhelm You](https://lifehacker.com/this-basic-skincare-routine-wont-overwhelm-you-1848379071)
-- [Lifehacker] [What&#39;s New on Netflix in February 2022](https://lifehacker.com/whats-new-on-netflix-in-february-2022-1848384998)
-- [Lifehacker] [Stop Using Safari Immediately &lpar;at Least for Now&rpar;](https://lifehacker.com/stop-using-safari-immediately-at-least-for-now-1848384461)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
