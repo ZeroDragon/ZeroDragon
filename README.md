@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Way to Create A Google Maps API Key](https://dev.to/itpathsolutions/simple-way-to-create-a-google-maps-api-key-3lmj)
+- [Dev.to/JS] [Track International Space Station Location with JavaScript](https://dev.to/codewithsnowbit/track-international-space-station-location-with-javascript-380j)
+- [Dev.to/JS] [DevTips Daily Update 21/01/22](https://dev.to/codebubb/devtips-daily-update-210122-8hk)
+- [Dev.to/JS] [Ask quick answers- can I use cash app card at atm](https://dev.to/georgew09335935/ask-quick-answers-can-i-use-cash-app-card-at-atm-14l0)
 - [Dev.to/JS] [How to Lazy Load Images using JavaScript](https://dev.to/dasaradhanimmala/how-to-lazy-load-images-using-javascript-2g2p)
 - [Dev.to/JS] [Learn About Infrastructure as Code in 5 Minutes and Why You Should Use It](https://dev.to/webiny/learn-about-infrastructure-as-code-in-5-minutes-and-why-you-should-use-it-4maj)
 - [Dev.to/JS] [Build GitHub star history tracker in 10 minutes using low-code](https://dev.to/tooljet/build-github-star-history-tracker-in-10-minutes-using-low-code-1ge7)
@@ -31,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authentication with AWS Amplify &amp; ReactJS](https://dev.to/rahulladumor/authentication-with-aws-amplify-reactjs-2k12)
 - [Dev.to/JS] [Datastore with AWS Amplify &amp; React](https://dev.to/rahulladumor/datastore-with-aws-amplify-react-9d6)
 - [Dev.to/JS] [Refactoring RudderStack&#39;s High-performance JavaScript SDK](https://dev.to/rudderstack/refactoring-rudderstacks-high-performance-javascript-sdk-41lk)
-- [Dev.to/JS] [CarboFix - Weight Loss Supplement, Benefits, Price And Results](https://dev.to/carbofixinfo1/carbofix-weight-loss-supplement-benefits-price-and-results-2j9f)
-- [Dev.to/JS] [JS Coding Question #11: Are Two Object Equal &lpar;💥3 Solutions💥&rpar;](https://dev.to/frontendengineer/js-coding-question-11-are-two-object-equal-3-solutions-56g4)
-- [Dev.to/JS] [#22 - Find the unique number
-CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/22-find-the-unique-numbercodewars-kata-6-kyu-25lc)
-- [Dev.to/JS] [JavaScript is Crazy 🤯](https://dev.to/codewithsnowbit/javascript-is-crazy-39dh)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
