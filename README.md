@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What You Need to Know About Weed-Infused &#39;Wine&#39; and &#39;Beer&#39;](https://lifehacker.com/what-you-need-to-know-about-weed-infused-wine-and-beer-1848400208)
+- [Dev.to/JS] [How to Connect Your Local Project’s Codebase to a GitHub Repository Fast!](https://dev.to/brianhhough/how-to-connect-your-local-projects-codebase-to-a-github-repository-fast-2l7h)
+- [Dev.to/JS] [JS Flatiron Assessment Study Sheet](https://dev.to/dotnotation/js-flatiron-assessment-study-sheet-9f2)
+- [Lifehacker] [Why You Should Just Switch to Android Already](https://lifehacker.com/why-you-should-just-switch-to-android-already-1848398806)
+- [Dev.to/JS] [Develop a Twitter clone with ReactJS](https://dev.to/linhtch90/develop-a-twitter-clone-with-reactjs-50dh)
 - [Dev.to/JS] [Reference VS. Primitive Values](https://dev.to/surajitshaw/reference-vs-primitive-values-3n1h)
 - [Lifehacker] [Stop Using These Recalled Pacifiers That Pose a Choking Hazard](https://lifehacker.com/stop-using-these-recalled-pacifiers-that-pose-a-choking-1848399063)
 - [Dev.to/JS] [CodeSignal - Best coding challenge website](https://dev.to/bigcityc/codesignal-best-coding-challenge-website-2f2h)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Glassmorphism Profile Card using HTML CSS](https://dev.to/shantanu_jana/glassmorphism-profile-card-using-html-css-3eo5)
 - [Lifehacker] [What to Do With Your Empty Propane Tank](https://lifehacker.com/what-to-do-with-your-empty-propane-tank-1848397216)
 - [Lifehacker] [9 Inventive Ways to Reuse K-Cups](https://lifehacker.com/9-inventive-ways-to-reuse-k-cups-1848395436)
-- [Dev.to/JS] [Document Express API with Swagger](https://dev.to/przpiw/document-express-api-with-swagger-51in)
-- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#04&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-04-40o5)
-- [Dev.to/JS] [Installing Node Js. Ubuntu, and Gulp - Tips](https://dev.to/davidfrempong/installing-node-js-ubuntu-and-gulp-tips-1317)
 - [Lifehacker] [How to Watch Virtual Reality Porn](https://lifehacker.com/how-to-watch-virtual-reality-porn-1848363266)
 - [Lifehacker] [How to Make Your iPhone&#39;s Voice Memos Sound Better](https://lifehacker.com/how-to-make-your-iphones-voice-memos-sound-better-1848382665)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Does &#39;Pushing P&#39; Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848395423)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848386833)
 - [Lifehacker] [What&#39;s New on Hulu in February 2022](https://lifehacker.com/whats-new-on-hulu-in-february-2022-1848386431)
 - [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
-- [Lifehacker] [How to Spot a COVID Testing Scam](https://lifehacker.com/how-to-spot-a-covid-testing-scam-1848385940)
-- [Lifehacker] [What Is OLED Burn-In? &lpar;And How to Avoid It&rpar;](https://lifehacker.com/what-is-oled-burn-in-and-how-to-avoid-it-1848385970)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
