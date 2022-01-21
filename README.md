@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [JS Coding Question #11: Are Two Object Equal [3 Solutions]](https://dev.to/frontendengineer/js-coding-question-11-are-two-object-equal-3-solutions-56g4)
+- [Dev.to/JS] [Refactoring RudderStack&#39;s High-performance JavaScript SDK](https://dev.to/rudderstack/refactoring-rudderstacks-high-performance-javascript-sdk-41lk)
+- [Dev.to/JS] [CarboFix - Weight Loss Supplement, Benefits, Price And Results](https://dev.to/carbofixinfo1/carbofix-weight-loss-supplement-benefits-price-and-results-2j9f)
+- [Dev.to/JS] [JS Coding Question #11: Are Two Object Equal &lpar;💥3 Solutions💥&rpar;](https://dev.to/frontendengineer/js-coding-question-11-are-two-object-equal-3-solutions-56g4)
 - [Dev.to/JS] [#22 - Find the unique number
 CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/22-find-the-unique-numbercodewars-kata-6-kyu-25lc)
 - [Dev.to/JS] [JavaScript is Crazy 🤯](https://dev.to/codewithsnowbit/javascript-is-crazy-39dh)
@@ -34,8 +36,6 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/22-find-the-unique-nu
 - [Dev.to/JS] [React Hooks: useState&lpar;&rpar;](https://dev.to/fig781/react-hooks-usestate-700)
 - [Dev.to/JS] [Launching ServiceNow&#39;s Portals into 3D with Three.js](https://dev.to/phrank/launching-servicenows-portals-into-3d-with-threejs-26ob)
 - [Dev.to/JS] [Comparar dos objetos || Javascript](https://dev.to/davidyero/comparar-dos-objetos-javascript-43e9)
-- [Dev.to/JS] [CÁC LOẠI QUẠT CHẮN GIÓ MECI ĐANG CUNG CẤP](https://dev.to/mannhuapvccangio/cac-loai-quat-chan-gio-meci-dang-cung-cap-31a2)
-- [Dev.to/JS] [BÁO GIÁ CỬA CUỐN NHỰA PVC TỐC ĐỘ CAO](https://dev.to/mannhuapvccangio/bao-gia-cua-cuon-nhua-pvc-toc-do-cao-22ea)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
