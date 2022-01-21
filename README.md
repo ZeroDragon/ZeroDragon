@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Does &#39;Pushing P&#39; Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848395423)
+- [Dev.to/JS] [Simple Image Picker with React Native](https://dev.to/anas_ikhlas/simple-image-picker-with-react-native-5f5b)
+- [Dev.to/JS] [🎬JavaScript Fetch API - Simple Example👍](https://dev.to/robsonmuniz16/javascript-fetch-api-simple-example-2ofi)
 - [Dev.to/JS] [GITHUB Partnership](https://dev.to/otmandev/github-partnership-2pcg)
 - [Dev.to/JS] [Want To Learn How to Build a Real-Time Messaging Application?](https://dev.to/push_technology/want-to-learn-how-to-build-a-real-time-messaging-application-4f34)
 - [Dev.to/JS] [How to retry image in React?](https://dev.to/anoopmundathan/how-to-retry-image-in-react-36nh)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 84 of 100 Days of Code &amp; Scrum: SQL Reads Like English](https://dev.to/rammina/day-84-of-100-days-of-code-scrum-sql-reads-like-english-4acb)
 - [Dev.to/JS] [Top 10 trending github repos of the week👸.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-4ppf)
 - [Dev.to/JS] [A Swiss Army Knife for JS Variables: Var or Let or Const?](https://dev.to/harshkc/a-swiss-army-knife-blog-for-js-variables-var-or-let-or-const-1cd1)
-- [Dev.to/JS] [Simple Way to Create A Google Maps API Key](https://dev.to/itpathsolutions/simple-way-to-create-a-google-maps-api-key-3lmj)
-- [Dev.to/JS] [Track International Space Station Location with JavaScript](https://dev.to/codewithsnowbit/track-international-space-station-location-with-javascript-380j)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using Safari Immediately &lpar;at Least for Now&rpar;](https://lifehacker.com/stop-using-safari-immediately-at-least-for-now-1848384461)
 - [Lifehacker] [The Fastest, Easiest Post-Workout Snacks That Aren&#39;t a Shake or Bar](https://lifehacker.com/the-fastest-easiest-post-workout-snacks-that-arent-a-s-1848383038)
 - [Lifehacker] [The Easiest Ways to Shrink Large Image Files on Your Mac](https://lifehacker.com/the-easiest-ways-to-shrink-large-image-files-on-your-ma-1848371076)
-- [Lifehacker] [What&#39;s New on Disney+ in February 2022](https://lifehacker.com/whats-new-on-disney-in-february-2022-1848383916)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
