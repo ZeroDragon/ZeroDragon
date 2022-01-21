@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Calculate Your Cocktail’s ABV](https://lifehacker.com/the-easiest-way-to-calculate-your-cocktail-s-abv-1848395614)
+- [Dev.to/JS] [Implementing push notifications with Firebase for Javascript apps](https://dev.to/sergchr/implementing-push-notifications-with-firebase-for-javascript-apps-4n3o)
+- [Dev.to/JS] [Tutorial - JWT + NodeJs + MongoDB + Vue &lpar;Back-End - Parte II&rpar;](https://dev.to/glaucia86/tutorial-jwt-nodejs-mongodb-vue-back-end-parte-ii-1m4)
+- [Lifehacker] [You Can Help NASA Get to Mars](https://lifehacker.com/you-can-help-nasa-get-to-mars-1848400060)
 - [Lifehacker] [What You Need to Know About Weed-Infused &#39;Wine&#39; and &#39;Beer&#39;](https://lifehacker.com/what-you-need-to-know-about-weed-infused-wine-and-beer-1848400208)
 - [Dev.to/JS] [How to Connect Your Local Project’s Codebase to a GitHub Repository Fast!](https://dev.to/brianhhough/how-to-connect-your-local-projects-codebase-to-a-github-repository-fast-2l7h)
 - [Dev.to/JS] [JS Flatiron Assessment Study Sheet](https://dev.to/dotnotation/js-flatiron-assessment-study-sheet-9f2)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get ASCII Code](https://dev.to/rahmanxyz/get-ascii-code-2im3)
 - [Dev.to/JS] [How To Add Facebook Chat Plugin In Blogger?](https://dev.to/imamuddinwp/how-to-add-facebook-chat-plugin-in-blogger-32nc)
 - [Lifehacker] [When Can People With Long COVID Return to Exercising?](https://lifehacker.com/when-can-people-with-long-covid-return-to-exercising-1848399068)
-- [Dev.to/JS] [disc golf shoes](https://dev.to/ghthyrtdh/disc-golf-shoes-2gk4)
-- [Dev.to/JS] [Glassmorphism Profile Card using HTML CSS](https://dev.to/shantanu_jana/glassmorphism-profile-card-using-html-css-3eo5)
 - [Lifehacker] [What to Do With Your Empty Propane Tank](https://lifehacker.com/what-to-do-with-your-empty-propane-tank-1848397216)
 - [Lifehacker] [9 Inventive Ways to Reuse K-Cups](https://lifehacker.com/9-inventive-ways-to-reuse-k-cups-1848395436)
 - [Lifehacker] [How to Watch Virtual Reality Porn](https://lifehacker.com/how-to-watch-virtual-reality-porn-1848363266)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Voice Memos Features You Aren&#39;t Using, but Should Be](https://lifehacker.com/10-voice-memos-features-you-arent-using-but-should-be-1848389835)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848386833)
-- [Lifehacker] [What&#39;s New on Hulu in February 2022](https://lifehacker.com/whats-new-on-hulu-in-february-2022-1848386431)
-- [Lifehacker] [Why You Should Save Your Cooking Water for Your House Plants](https://lifehacker.com/why-you-should-save-your-cooking-water-for-your-house-p-1848385645)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
