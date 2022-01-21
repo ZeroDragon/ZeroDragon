@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hooks - useState e useContext](https://dev.to/gabrielhsilvestre/hooks-usestate-e-usecontext-1fg3)
+- [Dev.to/JS] [10 Commandments for Programmers](https://dev.to/xsavitar/10-commandments-for-programmers-1h9n)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
 - [Lifehacker] [Manifest Your Best Life &lpar;and Ultimate Revenge&rpar; With Champagne](https://lifehacker.com/manifest-your-best-life-and-ultimate-revenge-with-cha-1848400326)
 - [Lifehacker] [The Easiest Way to Calculate Your Cocktail’s ABV](https://lifehacker.com/the-easiest-way-to-calculate-your-cocktail-s-abv-1848395614)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using These Recalled Pacifiers That Pose a Choking Hazard](https://lifehacker.com/stop-using-these-recalled-pacifiers-that-pose-a-choking-1848399063)
 - [Dev.to/JS] [CodeSignal - Best coding challenge website](https://dev.to/bigcityc/codesignal-best-coding-challenge-website-2f2h)
 - [Dev.to/JS] [[Part 2] How to use redux thunk](https://dev.to/sirimainsorn/part-2-how-to-use-redux-thunk-2ddg)
-- [Dev.to/JS] [Releasing a pomodoro app #1: programming bit by bit](https://dev.to/hanziness/releasing-a-pomodoro-app-1-programming-bit-by-bit-4nbg)
-- [Dev.to/JS] [Bhagavad Gita API](https://dev.to/theaum/bhagavad-gita-api-31d5)
-- [Dev.to/JS] [Get ASCII Code](https://dev.to/rahmanxyz/get-ascii-code-2im3)
+- [Dev.to/JS] [How I reached 1.0: programming bit by bit](https://dev.to/hanziness/releasing-a-pomodoro-app-1-programming-bit-by-bit-4nbg)
 - [Lifehacker] [When Can People With Long COVID Return to Exercising?](https://lifehacker.com/when-can-people-with-long-covid-return-to-exercising-1848399068)
 - [Lifehacker] [What to Do With Your Empty Propane Tank](https://lifehacker.com/what-to-do-with-your-empty-propane-tank-1848397216)
 - [Lifehacker] [9 Inventive Ways to Reuse K-Cups](https://lifehacker.com/9-inventive-ways-to-reuse-k-cups-1848395436)
