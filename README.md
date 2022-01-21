@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a decentralized voting app with Choice Coin and Javascript algorand sdk   using NodeJS📨](https://dev.to/samuellyworld/build-a-decentralized-voting-app-with-choice-coin-and-javascript-algorand-sdk-using-nodejs-43j3)
 - [Dev.to/JS] [Increment an Atomic Counter](https://dev.to/hwangs12/increment-an-atomic-counter-3mk5)
 - [Dev.to/JS] [How to Create a React App with Storybook](https://dev.to/oktadev/how-to-create-a-react-app-with-storybook-eln)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #21: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-21-que-imprime-este-codigo-javascript-1575)
 - [Dev.to/JS] [Paracetamol.js💊| #20: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-20-que-imprime-este-codigo-javascript-40m4)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
-- [Dev.to/JS] [Building UIs in Figma with hand movements](https://dev.to/devdevcharlie/building-uis-in-figma-with-hand-movements-3pi4)
 - [Lifehacker] [What to Know About Facebook’s New ‘Privacy Center’](https://lifehacker.com/what-to-know-about-facebook-s-new-privacy-center-1848378600)
 - [Lifehacker] [How to Roast a Whole Chicken Without Messing It Up](https://lifehacker.com/how-to-roast-a-whole-chicken-without-messing-it-up-1848387073)
 - [Lifehacker] [What Is the Best Indoor Temperature for Your Dog?](https://lifehacker.com/what-is-the-best-indoor-temperature-for-your-dog-1848391481)
