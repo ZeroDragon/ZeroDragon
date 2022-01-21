@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Lazy Load Images using JavaScript](https://dev.to/dasaradhanimmala/how-to-lazy-load-images-using-javascript-2g2p)
+- [Dev.to/JS] [Learn About Infrastructure as Code in 5 Minutes and Why You Should Use It](https://dev.to/webiny/learn-about-infrastructure-as-code-in-5-minutes-and-why-you-should-use-it-4maj)
 - [Dev.to/JS] [Build GitHub star history tracker in 10 minutes using low-code](https://dev.to/tooljet/build-github-star-history-tracker-in-10-minutes-using-low-code-1ge7)
 - [Dev.to/JS] [Auto typing text animation in JavaScript](https://dev.to/iammanojrathod/auto-typing-text-animation-in-javascript-3h69)
 - [Dev.to/JS] [Top 6 React state management libraries for 2022](https://dev.to/asayerio_techblog/top-6-react-state-management-libraries-for-2022-12ai)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#22 - Find the unique number
 CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/22-find-the-unique-numbercodewars-kata-6-kyu-25lc)
 - [Dev.to/JS] [JavaScript is Crazy 🤯](https://dev.to/codewithsnowbit/javascript-is-crazy-39dh)
-- [Dev.to/JS] [Fetch GitHub Markdown and Show on Blog Post or Website ft. showdownjs](https://dev.to/sh20raj/fetch-github-markdown-and-show-on-blog-post-or-website-ft-showdownjs-4dm3)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 14](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-14-l6j)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
