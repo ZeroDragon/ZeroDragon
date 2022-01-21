@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
+- [Lifehacker] [Manifest Your Best Life &lpar;and Ultimate Revenge&rpar; With Champagne](https://lifehacker.com/manifest-your-best-life-and-ultimate-revenge-with-cha-1848400326)
 - [Lifehacker] [The Easiest Way to Calculate Your Cocktail’s ABV](https://lifehacker.com/the-easiest-way-to-calculate-your-cocktail-s-abv-1848395614)
+- [Dev.to/JS] [Vue.js - Get up and Running](https://dev.to/dileepreddyaella/vuejs-get-up-and-running-146d)
 - [Dev.to/JS] [Implementing push notifications with Firebase for Javascript apps](https://dev.to/sergchr/implementing-push-notifications-with-firebase-for-javascript-apps-4n3o)
 - [Dev.to/JS] [Tutorial - JWT + NodeJs + MongoDB + Vue &lpar;Back-End - Parte II&rpar;](https://dev.to/glaucia86/tutorial-jwt-nodejs-mongodb-vue-back-end-parte-ii-1m4)
 - [Lifehacker] [You Can Help NASA Get to Mars](https://lifehacker.com/you-can-help-nasa-get-to-mars-1848400060)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Releasing a pomodoro app #1: programming bit by bit](https://dev.to/hanziness/releasing-a-pomodoro-app-1-programming-bit-by-bit-4nbg)
 - [Dev.to/JS] [Bhagavad Gita API](https://dev.to/theaum/bhagavad-gita-api-31d5)
 - [Dev.to/JS] [Get ASCII Code](https://dev.to/rahmanxyz/get-ascii-code-2im3)
-- [Dev.to/JS] [How To Add Facebook Chat Plugin In Blogger?](https://dev.to/imamuddinwp/how-to-add-facebook-chat-plugin-in-blogger-32nc)
 - [Lifehacker] [When Can People With Long COVID Return to Exercising?](https://lifehacker.com/when-can-people-with-long-covid-return-to-exercising-1848399068)
 - [Lifehacker] [What to Do With Your Empty Propane Tank](https://lifehacker.com/what-to-do-with-your-empty-propane-tank-1848397216)
 - [Lifehacker] [9 Inventive Ways to Reuse K-Cups](https://lifehacker.com/9-inventive-ways-to-reuse-k-cups-1848395436)
@@ -58,9 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Yourself Sneeze When It Just Won&#39;t Come Out](https://lifehacker.com/how-to-make-yourself-sneeze-when-it-just-wont-come-out-1848388958)
 - [Lifehacker] [What Is a &#39;Buddymoon&#39; &lpar;and Should You Take One&rpar;?](https://lifehacker.com/what-is-a-buddymoon-and-should-you-take-one-1848386702)
 - [Lifehacker] [15 of the Best Shakespeare Adaptations Ever Filmed](https://lifehacker.com/15-of-the-best-shakespeare-adaptations-ever-filmed-1848377851)
-- [Lifehacker] [10 Voice Memos Features You Aren&#39;t Using, but Should Be](https://lifehacker.com/10-voice-memos-features-you-arent-using-but-should-be-1848389835)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
-- [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848386833)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
