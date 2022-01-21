@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build GitHub star history tracker in 10 minutes using low-code](https://dev.to/tooljet/build-github-star-history-tracker-in-10-minutes-using-low-code-1ge7)
+- [Dev.to/JS] [Auto typing text animation in JavaScript](https://dev.to/iammanojrathod/auto-typing-text-animation-in-javascript-3h69)
+- [Dev.to/JS] [Top 6 React state management libraries for 2022](https://dev.to/asayerio_techblog/top-6-react-state-management-libraries-for-2022-12ai)
+- [Dev.to/JS] [Authentication with AWS Amplify &amp; ReactJS](https://dev.to/rahulladumor/authentication-with-aws-amplify-reactjs-2k12)
+- [Dev.to/JS] [Datastore with AWS Amplify &amp; React](https://dev.to/rahulladumor/datastore-with-aws-amplify-react-9d6)
 - [Dev.to/JS] [Refactoring RudderStack&#39;s High-performance JavaScript SDK](https://dev.to/rudderstack/refactoring-rudderstacks-high-performance-javascript-sdk-41lk)
 - [Dev.to/JS] [CarboFix - Weight Loss Supplement, Benefits, Price And Results](https://dev.to/carbofixinfo1/carbofix-weight-loss-supplement-benefits-price-and-results-2j9f)
 - [Dev.to/JS] [JS Coding Question #11: Are Two Object Equal &lpar;💥3 Solutions💥&rpar;](https://dev.to/frontendengineer/js-coding-question-11-are-two-object-equal-3-solutions-56g4)
@@ -31,11 +36,6 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/22-find-the-unique-nu
 - [Dev.to/JS] [JavaScript is Crazy 🤯](https://dev.to/codewithsnowbit/javascript-is-crazy-39dh)
 - [Dev.to/JS] [Fetch GitHub Markdown and Show on Blog Post or Website ft. showdownjs](https://dev.to/sh20raj/fetch-github-markdown-and-show-on-blog-post-or-website-ft-showdownjs-4dm3)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 14](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-14-l6j)
-- [Dev.to/JS] [Convert Markdown or md URL to HTML - MarkdownToHTML - Using JavaScript ft. showdownjs](https://dev.to/sh20raj/convert-markdown-or-md-url-to-html-markdowntohtml-using-javascript-ft-showdownjs-1med)
-- [Dev.to/JS] [Polyfill in Reactjs](https://dev.to/khold/polyfill-in-reactjs-1ino)
-- [Dev.to/JS] [React Hooks: useState&lpar;&rpar;](https://dev.to/fig781/react-hooks-usestate-700)
-- [Dev.to/JS] [Launching ServiceNow&#39;s Portals into 3D with Three.js](https://dev.to/phrank/launching-servicenows-portals-into-3d-with-threejs-26ob)
-- [Dev.to/JS] [Comparar dos objetos || Javascript](https://dev.to/davidyero/comparar-dos-objetos-javascript-43e9)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
