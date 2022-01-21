@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9 Ways You Can Use React Today in 2022](https://dev.to/jsmanifest/9-ways-you-can-use-react-today-in-2022-kp6)
+- [Dev.to/JS] [Adding Postgres Search to a Node REST API](https://dev.to/james_mtc/adding-postgres-search-to-a-node-rest-api-39hd)
 - [Dev.to/JS] [Hooks - useState e useContext](https://dev.to/gabrielhsilvestre/hooks-usestate-e-usecontext-1fg3)
 - [Dev.to/JS] [10 Commandments for Programmers](https://dev.to/xsavitar/10-commandments-for-programmers-1h9n)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reference VS. Primitive Values](https://dev.to/surajitshaw/reference-vs-primitive-values-3n1h)
 - [Lifehacker] [Stop Using These Recalled Pacifiers That Pose a Choking Hazard](https://lifehacker.com/stop-using-these-recalled-pacifiers-that-pose-a-choking-1848399063)
 - [Dev.to/JS] [CodeSignal - Best coding challenge website](https://dev.to/bigcityc/codesignal-best-coding-challenge-website-2f2h)
-- [Dev.to/JS] [[Part 2] How to use redux thunk](https://dev.to/sirimainsorn/part-2-how-to-use-redux-thunk-2ddg)
-- [Dev.to/JS] [How I reached 1.0: programming bit by bit](https://dev.to/hanziness/releasing-a-pomodoro-app-1-programming-bit-by-bit-4nbg)
 - [Lifehacker] [When Can People With Long COVID Return to Exercising?](https://lifehacker.com/when-can-people-with-long-covid-return-to-exercising-1848399068)
 - [Lifehacker] [What to Do With Your Empty Propane Tank](https://lifehacker.com/what-to-do-with-your-empty-propane-tank-1848397216)
 - [Lifehacker] [9 Inventive Ways to Reuse K-Cups](https://lifehacker.com/9-inventive-ways-to-reuse-k-cups-1848395436)
