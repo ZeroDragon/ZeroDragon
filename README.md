@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GITHUB Partnership](https://dev.to/otmandev/github-partnership-2pcg)
+- [Dev.to/JS] [Want To Learn How to Build a Real-Time Messaging Application?](https://dev.to/push_technology/want-to-learn-how-to-build-a-real-time-messaging-application-4f34)
+- [Dev.to/JS] [How to retry image in React?](https://dev.to/anoopmundathan/how-to-retry-image-in-react-36nh)
+- [Dev.to/JS] [Loading images with Svelte](https://dev.to/andreirobadev/loading-images-with-svelte-4a5c)
+- [Dev.to/JS] [Build and Deploy the Remote Applications to Netlify](https://dev.to/nrwl/build-and-deploy-the-remote-applications-to-netlify-3pl7)
 - [Dev.to/JS] [End-To-End Type Safety: What, Why and How](https://dev.to/sabinthedev/end-to-end-type-safety-what-why-and-how-179n)
 - [Dev.to/JS] [How I improved a Node web application perfomance multifold](https://dev.to/yakovlev_alexey/how-i-improved-a-node-web-application-perfomance-multifold-34m2)
 - [Dev.to/JS] [Day 84 of 100 Days of Code &amp; Scrum: SQL Reads Like English](https://dev.to/rammina/day-84-of-100-days-of-code-scrum-sql-reads-like-english-4acb)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Swiss Army Knife for JS Variables: Var or Let or Const?](https://dev.to/harshkc/a-swiss-army-knife-blog-for-js-variables-var-or-let-or-const-1cd1)
 - [Dev.to/JS] [Simple Way to Create A Google Maps API Key](https://dev.to/itpathsolutions/simple-way-to-create-a-google-maps-api-key-3lmj)
 - [Dev.to/JS] [Track International Space Station Location with JavaScript](https://dev.to/codewithsnowbit/track-international-space-station-location-with-javascript-380j)
-- [Dev.to/JS] [DevTips Daily Update 21/01/22](https://dev.to/codebubb/devtips-daily-update-210122-8hk)
-- [Dev.to/JS] [How to Lazy Load Images using JavaScript](https://dev.to/dasaradhanimmala/how-to-lazy-load-images-using-javascript-2g2p)
-- [Dev.to/JS] [Learn About Infrastructure as Code in 5 Minutes and Why You Should Use It](https://dev.to/webiny/learn-about-infrastructure-as-code-in-5-minutes-and-why-you-should-use-it-4maj)
-- [Dev.to/JS] [Build GitHub star history tracker in 10 minutes using low-code](https://dev.to/tooljet/build-github-star-history-tracker-in-10-minutes-using-low-code-1ge7)
-- [Dev.to/JS] [Auto typing text animation in JavaScript](https://dev.to/iammanojrathod/auto-typing-text-animation-in-javascript-3h69)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
