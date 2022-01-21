@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add amazing loading effect - PACE.JS](https://dev.to/adeleyeayodeji/how-to-add-amazing-loading-effect-pacejs-2ln3)
+- [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
+- [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
 - [Dev.to/JS] [9 Ways You Can Use React Today in 2022](https://dev.to/jsmanifest/9-ways-you-can-use-react-today-in-2022-kp6)
 - [Dev.to/JS] [Adding Postgres Search to a Node REST API](https://dev.to/james_mtc/adding-postgres-search-to-a-node-rest-api-39hd)
 - [Dev.to/JS] [Hooks - useState e useContext](https://dev.to/gabrielhsilvestre/hooks-usestate-e-usecontext-1fg3)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Develop a Twitter clone with ReactJS](https://dev.to/linhtch90/develop-a-twitter-clone-with-reactjs-50dh)
 - [Dev.to/JS] [Reference VS. Primitive Values](https://dev.to/surajitshaw/reference-vs-primitive-values-3n1h)
 - [Lifehacker] [Stop Using These Recalled Pacifiers That Pose a Choking Hazard](https://lifehacker.com/stop-using-these-recalled-pacifiers-that-pose-a-choking-1848399063)
-- [Dev.to/JS] [CodeSignal - Best coding challenge website](https://dev.to/bigcityc/codesignal-best-coding-challenge-website-2f2h)
 - [Lifehacker] [When Can People With Long COVID Return to Exercising?](https://lifehacker.com/when-can-people-with-long-covid-return-to-exercising-1848399068)
 - [Lifehacker] [What to Do With Your Empty Propane Tank](https://lifehacker.com/what-to-do-with-your-empty-propane-tank-1848397216)
 - [Lifehacker] [9 Inventive Ways to Reuse K-Cups](https://lifehacker.com/9-inventive-ways-to-reuse-k-cups-1848395436)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 Things You Need to Know to Prevent a Home Burglary](https://lifehacker.com/18-things-you-need-to-know-to-prevent-a-home-burglary-1848387719)
 - [Lifehacker] [What You Really Need to Survive a Blackout](https://lifehacker.com/what-you-really-need-to-survive-a-blackout-1848391408)
 - [Lifehacker] [How to Make Yourself Sneeze When It Just Won&#39;t Come Out](https://lifehacker.com/how-to-make-yourself-sneeze-when-it-just-wont-come-out-1848388958)
-- [Lifehacker] [What Is a &#39;Buddymoon&#39; &lpar;and Should You Take One&rpar;?](https://lifehacker.com/what-is-a-buddymoon-and-should-you-take-one-1848386702)
-- [Lifehacker] [15 of the Best Shakespeare Adaptations Ever Filmed](https://lifehacker.com/15-of-the-best-shakespeare-adaptations-ever-filmed-1848377851)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
