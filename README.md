@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [End-To-End Type Safety: What, Why and How](https://dev.to/sabinthedev/end-to-end-type-safety-what-why-and-how-179n)
+- [Dev.to/JS] [How I improved a Node web application perfomance multifold](https://dev.to/yakovlev_alexey/how-i-improved-a-node-web-application-perfomance-multifold-34m2)
+- [Dev.to/JS] [Day 84 of 100 Days of Code &amp; Scrum: SQL Reads Like English](https://dev.to/rammina/day-84-of-100-days-of-code-scrum-sql-reads-like-english-4acb)
+- [Dev.to/JS] [Top 10 trending github repos of the week👸.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-4ppf)
+- [Dev.to/JS] [A Swiss Army Knife for JS Variables: Var or Let or Const?](https://dev.to/harshkc/a-swiss-army-knife-blog-for-js-variables-var-or-let-or-const-1cd1)
 - [Dev.to/JS] [Simple Way to Create A Google Maps API Key](https://dev.to/itpathsolutions/simple-way-to-create-a-google-maps-api-key-3lmj)
 - [Dev.to/JS] [Track International Space Station Location with JavaScript](https://dev.to/codewithsnowbit/track-international-space-station-location-with-javascript-380j)
 - [Dev.to/JS] [DevTips Daily Update 21/01/22](https://dev.to/codebubb/devtips-daily-update-210122-8hk)
-- [Dev.to/JS] [Ask quick answers- can I use cash app card at atm](https://dev.to/georgew09335935/ask-quick-answers-can-i-use-cash-app-card-at-atm-14l0)
 - [Dev.to/JS] [How to Lazy Load Images using JavaScript](https://dev.to/dasaradhanimmala/how-to-lazy-load-images-using-javascript-2g2p)
 - [Dev.to/JS] [Learn About Infrastructure as Code in 5 Minutes and Why You Should Use It](https://dev.to/webiny/learn-about-infrastructure-as-code-in-5-minutes-and-why-you-should-use-it-4maj)
 - [Dev.to/JS] [Build GitHub star history tracker in 10 minutes using low-code](https://dev.to/tooljet/build-github-star-history-tracker-in-10-minutes-using-low-code-1ge7)
 - [Dev.to/JS] [Auto typing text animation in JavaScript](https://dev.to/iammanojrathod/auto-typing-text-animation-in-javascript-3h69)
-- [Dev.to/JS] [Top 6 React state management libraries for 2022](https://dev.to/asayerio_techblog/top-6-react-state-management-libraries-for-2022-12ai)
-- [Dev.to/JS] [Authentication with AWS Amplify &amp; ReactJS](https://dev.to/rahulladumor/authentication-with-aws-amplify-reactjs-2k12)
-- [Dev.to/JS] [Datastore with AWS Amplify &amp; React](https://dev.to/rahulladumor/datastore-with-aws-amplify-react-9d6)
-- [Dev.to/JS] [Refactoring RudderStack&#39;s High-performance JavaScript SDK](https://dev.to/rudderstack/refactoring-rudderstacks-high-performance-javascript-sdk-41lk)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
