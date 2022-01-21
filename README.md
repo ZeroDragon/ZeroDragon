@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comparar dos objetos || Javascript](https://dev.to/davidyero/comparar-dos-objetos-javascript-43e9)
 - [Dev.to/JS] [CÁC LOẠI QUẠT CHẮN GIÓ MECI ĐANG CUNG CẤP](https://dev.to/mannhuapvccangio/cac-loai-quat-chan-gio-meci-dang-cung-cap-31a2)
 - [Dev.to/JS] [BÁO GIÁ CỬA CUỐN NHỰA PVC TỐC ĐỘ CAO](https://dev.to/mannhuapvccangio/bao-gia-cua-cuon-nhua-pvc-toc-do-cao-22ea)
 - [Dev.to/JS] [CỬA LƯỚI CHỐNG MUỖI | QUANG MINH ĐỒNG NAI](https://dev.to/cualuoichongmuoicangio/cua-luoi-chong-muoi-quang-minh-dong-nai-4pjj)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Increment an Atomic Counter](https://dev.to/hwangs12/increment-an-atomic-counter-3mk5)
 - [Dev.to/JS] [How to Create a React App with Storybook](https://dev.to/oktadev/how-to-create-a-react-app-with-storybook-eln)
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
-- [Dev.to/JS] [Solving React Problems: When to use UseMemo](https://dev.to/luismoriguerra/when-to-use-usememo-4kl3)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
 - [Lifehacker] [What to Know About Facebook’s New ‘Privacy Center’](https://lifehacker.com/what-to-know-about-facebook-s-new-privacy-center-1848378600)
