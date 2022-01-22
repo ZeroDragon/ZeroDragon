@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
+- [Dev.to/JS] [7 Killer JavaScript One-Liners that you must know](https://dev.to/ikamran/7-killer-javascript-one-liners-that-you-must-know-2lla)
+- [Dev.to/JS] [Velo by Wix: Repeated item event handlers v2.0](https://dev.to/shoonia/velo-by-wix-repeated-item-event-handlers-v20-3epa)
+- [Dev.to/JS] [React Admin Dashboard with Recharts](https://dev.to/koolkishan/react-admin-dashboard-with-recharts-1om0)
+- [Dev.to/JS] [What&#39;s new in react 18, A Quick Overview](https://dev.to/farajshuaib/react-18-1h)
+- [Dev.to/JS] [Optimizing TypeORM: Tips from Experience! &lpar;Part 1: Don&#39;t use save&lpar;&rpar;&rpar;](https://dev.to/rishit/optimizing-typeorm-tips-from-experience-part-1-dont-use-save-4ke9)
 - [Dev.to/JS] [How to Create a Job Queue using Bull and Redis in NodeJS](https://dev.to/franciscomendes10866/how-to-create-a-job-queue-using-bull-and-redis-in-nodejs-20ck)
 - [Dev.to/JS] [HTML Drag and Drop API](https://dev.to/anuraggharat/html-drag-and-drop-api-5gd3)
 - [Dev.to/JS] [How to Protect Your NextJS Website from Clickjacking?](https://dev.to/theinfosecguy/how-to-protect-your-nextjs-website-from-clickjacking-2jbg)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Partager la grille de Wordle en français](https://dev.to/michelc/partager-la-grille-de-wordle-en-francais-2k3i)
 - [Dev.to/JS] [Online Clothing Store using the MERN stack](https://dev.to/devtips3/online-clothing-store-using-the-mern-stack-3edl)
 - [Dev.to/JS] [Hide or show Elements/div in HTML Using JavaScript and Css](https://dev.to/sh20raj/hide-or-show-elementsdiv-in-html-using-javascript-and-css-3jb7)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 15](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-15-4k46)
-- [Dev.to/JS] [Editorial-Chart Training](https://dev.to/elynaur/editorial-chart-training-4e17)
-- [Dev.to/JS] [Income Tax Calculator Pakistan](https://dev.to/ats094/income-tax-calculator-pakistan-1iop)
-- [Dev.to/JS] [Js Statement vs Expression](https://dev.to/mahin678/js-statement-vs-expression-44di)
-- [Dev.to/JS] [Component Inheritance in Angular. Object-oriented programming Series &lpar;Part 1&rpar;](https://dev.to/es404020/component-inheritance-in-angular-object-oriented-programming-series-part-1-n9p)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Effectively Navigate the Health Care System, According to Reddit](https://lifehacker.com/how-to-effectively-navigate-the-health-care-system-acc-1848391987)
 - [Lifehacker] [18 Things You Need to Know to Prevent a Home Burglary](https://lifehacker.com/18-things-you-need-to-know-to-prevent-a-home-burglary-1848387719)
 - [Lifehacker] [What You Really Need to Survive a Blackout](https://lifehacker.com/what-you-really-need-to-survive-a-blackout-1848391408)
-- [Lifehacker] [How to Make Yourself Sneeze When It Just Won&#39;t Come Out](https://lifehacker.com/how-to-make-yourself-sneeze-when-it-just-wont-come-out-1848388958)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
