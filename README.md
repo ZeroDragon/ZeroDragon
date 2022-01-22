@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How can I get 1 million traffic on my website?](https://dev.to/ajayaravind93/how-can-i-get-1-million-traffic-on-my-website-33kn)
+- [Dev.to/JS] [First Portfolio](https://dev.to/karmablackshaw/first-portfolio-nk0)
+- [Dev.to/JS] [🎯 Objects in JavaScripts](https://dev.to/pankaj_singhr/objects-in-javascripts-183h)
+- [Dev.to/JS] [Open Source and 100 Days of Code: Week 1 Update](https://dev.to/ckvignesh/open-source-and-100-days-of-code-week-1-update-1ig7)
+- [Dev.to/JS] [#23 - Change it up
+CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/23-change-it-upcodewars-kata-6-kyu-4k5e)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
 - [Dev.to/JS] [7 Killer JavaScript One-Liners that you must know](https://dev.to/ikamran/7-killer-javascript-one-liners-that-you-must-know-2lla)
 - [Dev.to/JS] [Velo by Wix: Repeated item event handlers v2.0](https://dev.to/shoonia/velo-by-wix-repeated-item-event-handlers-v20-3epa)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Optimizing TypeORM: Tips from Experience! &lpar;Part 1: Don&#39;t use save&lpar;&rpar;&rpar;](https://dev.to/rishit/optimizing-typeorm-tips-from-experience-part-1-dont-use-save-4ke9)
 - [Dev.to/JS] [How to Create a Job Queue using Bull and Redis in NodeJS](https://dev.to/franciscomendes10866/how-to-create-a-job-queue-using-bull-and-redis-in-nodejs-20ck)
 - [Dev.to/JS] [HTML Drag and Drop API](https://dev.to/anuraggharat/html-drag-and-drop-api-5gd3)
-- [Dev.to/JS] [How to Protect Your NextJS Website from Clickjacking?](https://dev.to/theinfosecguy/how-to-protect-your-nextjs-website-from-clickjacking-2jbg)
-- [Dev.to/JS] [Cool &lpar;online&rpar; places for 2022](https://dev.to/jmau111/cool-online-places-for-2022-4ja)
-- [Dev.to/JS] [Partager la grille de Wordle en français](https://dev.to/michelc/partager-la-grille-de-wordle-en-francais-2k3i)
-- [Dev.to/JS] [Online Clothing Store using the MERN stack](https://dev.to/devtips3/online-clothing-store-using-the-mern-stack-3edl)
-- [Dev.to/JS] [Hide or show Elements/div in HTML Using JavaScript and Css](https://dev.to/sh20raj/hide-or-show-elementsdiv-in-html-using-javascript-and-css-3jb7)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
