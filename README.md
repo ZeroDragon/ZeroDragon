@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How can I get 1 million traffic on my website?](https://dev.to/ajayaravind93/how-can-i-get-1-million-traffic-on-my-website-33kn)
+- [Dev.to/JS] [How to build a simple Live Video Streaming App with React Native and Agora](https://dev.to/kyle_buntin/how-to-build-a-simple-live-video-streaming-app-with-react-native-and-agora-o40)
+- [Dev.to/JS] [LeetCode - Balanced Binary Tree](https://dev.to/_alkesh26/leetcode-balanced-binary-tree-28k4)
+- [Dev.to/JS] [Best Animation Libraries for ReactJS](https://dev.to/surajondev/best-animation-libraries-for-reactjs-2h34)
+- [Dev.to/JS] [PERSONAL-WEBSITE🧑‍💻](https://dev.to/yas33n/personal-website-1i7n)
+- [Dev.to/JS] [Create Ozark&#39;s title animation with Greensock &lpar;GSAP&rpar;](https://dev.to/robole/create-ozarks-title-animation-with-greensock-gsap-166k)
 - [Dev.to/JS] [First Portfolio](https://dev.to/karmablackshaw/first-portfolio-nk0)
 - [Dev.to/JS] [🎯 Objects in JavaScripts](https://dev.to/pankaj_singhr/objects-in-javascripts-183h)
 - [Dev.to/JS] [Open Source and 100 Days of Code: Week 1 Update](https://dev.to/ckvignesh/open-source-and-100-days-of-code-week-1-update-1ig7)
@@ -33,10 +37,6 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/23-change-it-upcodewa
 - [Dev.to/JS] [7 Killer JavaScript One-Liners that you must know](https://dev.to/ikamran/7-killer-javascript-one-liners-that-you-must-know-2lla)
 - [Dev.to/JS] [Velo by Wix: Repeated item event handlers v2.0](https://dev.to/shoonia/velo-by-wix-repeated-item-event-handlers-v20-3epa)
 - [Dev.to/JS] [React Admin Dashboard with Recharts](https://dev.to/koolkishan/react-admin-dashboard-with-recharts-1om0)
-- [Dev.to/JS] [What&#39;s new in react 18, A Quick Overview](https://dev.to/farajshuaib/react-18-1h)
-- [Dev.to/JS] [Optimizing TypeORM: Tips from Experience! &lpar;Part 1: Don&#39;t use save&lpar;&rpar;&rpar;](https://dev.to/rishit/optimizing-typeorm-tips-from-experience-part-1-dont-use-save-4ke9)
-- [Dev.to/JS] [How to Create a Job Queue using Bull and Redis in NodeJS](https://dev.to/franciscomendes10866/how-to-create-a-job-queue-using-bull-and-redis-in-nodejs-20ck)
-- [Dev.to/JS] [HTML Drag and Drop API](https://dev.to/anuraggharat/html-drag-and-drop-api-5gd3)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
