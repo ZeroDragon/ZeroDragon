@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to easily create JS libraries with bundled dependencies compatible with ES/AMD/UMD/CJS module systems using Nx](https://dev.to/ipreda/how-to-easily-create-js-libraries-with-bundled-dependencies-compatible-with-esamdumdcjs-module-systems-using-nx-25ai)
+- [Dev.to/JS] [Voice Search with JavaScript &lpar;Web Speech API&rpar;](https://dev.to/protecgames/voice-search-with-javascript-web-speech-api-4k6l)
 - [Dev.to/JS] [An Overview of Modern Web Development Process](https://dev.to/tahsin/an-overview-of-modern-web-development-process-1f50)
 - [Dev.to/JS] [Advanced JavaScript Series - Part 8: The 2 Pillars~ Closures &amp; Prototypal Inheritance](https://dev.to/pranav016/advanced-javascript-series-part-8-the-2-pillars-closures-prototypal-inheritance-4m5n)
 - [Dev.to/JS] [Create A React Router App in 5 Minutes](https://dev.to/ayubf/create-a-react-router-app-in-5-minutes-3ccp)
@@ -35,11 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [9 Ways You Can Use React Today in 2022](https://dev.to/jsmanifest/9-ways-you-can-use-react-today-in-2022-kp6)
 - [Dev.to/JS] [Adding Postgres Search to a Node REST API](https://dev.to/james_mtc/adding-postgres-search-to-a-node-rest-api-39hd)
 - [Dev.to/JS] [Hooks - useState e useContext](https://dev.to/gabrielhsilvestre/hooks-usestate-e-usecontext-1fg3)
-- [Dev.to/JS] [10 Commandments for Programmers](https://dev.to/xsavitar/10-commandments-for-programmers-1h9n)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
 - [Lifehacker] [Manifest Your Best Life &lpar;and Ultimate Revenge&rpar; With Champagne](https://lifehacker.com/manifest-your-best-life-and-ultimate-revenge-with-cha-1848400326)
 - [Lifehacker] [The Easiest Way to Calculate Your Cocktail’s ABV](https://lifehacker.com/the-easiest-way-to-calculate-your-cocktail-s-abv-1848395614)
-- [Dev.to/JS] [Vue.js - Get up and Running](https://dev.to/dileepreddyaella/vuejs-get-up-and-running-146d)
 - [Lifehacker] [You Can Help NASA Get to Mars](https://lifehacker.com/you-can-help-nasa-get-to-mars-1848400060)
 - [Lifehacker] [What You Need to Know About Weed-Infused &#39;Wine&#39; and &#39;Beer&#39;](https://lifehacker.com/what-you-need-to-know-about-weed-infused-wine-and-beer-1848400208)
 - [Lifehacker] [Why You Should Just Switch to Android Already](https://lifehacker.com/why-you-should-just-switch-to-android-already-1848398806)
