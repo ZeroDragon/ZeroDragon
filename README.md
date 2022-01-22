@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Full Stack Software Development Course](https://dev.to/metasoares/full-stack-software-development-course-2kl7)
 - [Dev.to/JS] [First Week of Telescope](https://dev.to/luigizaccagnini/first-week-of-telescope-4f1o)
 - [Dev.to/JS] [Week 2 : A lot of opportunity ahead](https://dev.to/beamazedvariable/week-2-a-lot-of-opportunity-ahead-15on)
 - [Dev.to/JS] [My new web tool](https://dev.to/mishabka/my-new-web-tool-156i)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [So you want to know about Web Workers?](https://dev.to/wardellbagby/so-you-want-to-know-about-web-workers-4aoe)
 - [Dev.to/JS] [Bind to Dynamically Added Elements with jQuery](https://dev.to/nightwolfdev/bind-to-dynamically-added-elements-with-jquery-5ig)
 - [Dev.to/JS] [Sending Custom emails with NodeJS from 🪄scratch  and for no cost whatsoever🗡](https://dev.to/ironcladdev/sending-custom-emails-with-nodejs-from-scratch-and-for-no-cost-whatsoever-1i2n)
-- [Dev.to/JS] [How to add amazing loading effect - PACE.JS](https://dev.to/adeleyeayodeji/how-to-add-amazing-loading-effect-pacejs-2ln3)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
