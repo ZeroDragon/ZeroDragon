@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first official project](https://dev.to/rahmanxyz/my-first-official-project-43m)
+- [Dev.to/JS] [Mastering Front End Fundamentals in 100 Days](https://dev.to/alimalim77/mastering-front-end-fundamentals-in-100-days-akg)
 - [Dev.to/JS] [how to block ads in hotstar](https://dev.to/chandramarch18/how-to-block-ads-in-hotstar-3ghg)
 - [Dev.to/JS] [Character Controls](https://dev.to/zevanrosser/character-controls-160a)
 - [Dev.to/JS] [More + Wordle = Mordle &lpar;extending Josh his Web Components&rpar;](https://dev.to/dannyengelman/more-wordle-mordle-extending-josh-his-web-components-4li)
@@ -32,10 +34,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Balanced Binary Tree](https://dev.to/_alkesh26/leetcode-balanced-binary-tree-28k4)
 - [Dev.to/JS] [Best Animation Libraries for ReactJS](https://dev.to/surajondev/best-animation-libraries-for-reactjs-2h34)
 - [Dev.to/JS] [PERSONAL-WEBSITE🧑‍💻](https://dev.to/yas33n/personal-website-1i7n)
-- [Dev.to/JS] [Create Ozark&#39;s title animation with Greensock &lpar;GSAP&rpar;](https://dev.to/robole/create-ozarks-title-animation-with-greensock-gsap-166k)
+- [Dev.to/JS] [Create Ozark&#39;s hypnotizing title animation with Greensock &lpar;GSAP&rpar;](https://dev.to/robole/create-ozarks-title-animation-with-greensock-gsap-166k)
 - [Dev.to/JS] [First Portfolio](https://dev.to/karmablackshaw/first-portfolio-nk0)
-- [Dev.to/JS] [🎯 Objects in JavaScripts](https://dev.to/pankaj_singhr/objects-in-javascripts-183h)
-- [Dev.to/JS] [Open Source and 100 Days of Code: Week 1 Update](https://dev.to/ckvignesh/open-source-and-100-days-of-code-week-1-update-1ig7)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
