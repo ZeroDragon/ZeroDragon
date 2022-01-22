@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Online Clothing Store using the MERN stack](https://dev.to/devtips3/online-clothing-store-using-the-mern-stack-3edl)
+- [Dev.to/JS] [Hide or show Elements/div in HTML Using JavaScript and Css](https://dev.to/sh20raj/hide-or-show-elementsdiv-in-html-using-javascript-and-css-3jb7)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 15](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-15-4k46)
 - [Dev.to/JS] [Editorial-Chart Training](https://dev.to/elynaur/editorial-chart-training-4e17)
 - [Dev.to/JS] [Income Tax Calculator Pakistan](https://dev.to/ats094/income-tax-calculator-pakistan-1iop)
 - [Dev.to/JS] [Js Statement vs Expression](https://dev.to/mahin678/js-statement-vs-expression-44di)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full Stack Software Development Course](https://dev.to/metasoares/full-stack-software-development-course-2kl7)
 - [Dev.to/JS] [First Week of Telescope](https://dev.to/luigizaccagnini/first-week-of-telescope-4f1o)
 - [Dev.to/JS] [Week 2 : A lot of opportunity ahead](https://dev.to/beamazedvariable/week-2-a-lot-of-opportunity-ahead-15on)
-- [Dev.to/JS] [My new web tool](https://dev.to/mishabka/my-new-web-tool-156i)
-- [Dev.to/JS] [How to easily create JS libraries with bundled dependencies compatible with ES/AMD/UMD/CJS module systems using Nx](https://dev.to/ipreda/how-to-easily-create-js-libraries-with-bundled-dependencies-compatible-with-esamdumdcjs-module-systems-using-nx-25ai)
-- [Dev.to/JS] [Voice Search with JavaScript &lpar;Web Speech API&rpar;](https://dev.to/protecgames/voice-search-with-javascript-web-speech-api-4k6l)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
