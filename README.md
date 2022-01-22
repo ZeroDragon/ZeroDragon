@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make NFC web app like dot.card or Tappy Card.](https://dev.to/jhozie_/how-to-make-nfc-web-app-like-dotcard-or-tappy-card-24j7)
 - [Dev.to/JS] [Full list of in-person React conferences in 2022](https://dev.to/benghamine/full-list-of-in-person-react-conferences-in-2022-1mh9)
 - [Dev.to/JS] [Building a CRUD SPA with Ruby on Rails and React](https://dev.to/lena0128/building-a-crud-spa-with-ruby-on-rails-and-react-35ng)
 - [Dev.to/JS] [How to code](https://dev.to/tobymikemax/how-to-code-fgk)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Dev.to/JS] [My first official project](https://dev.to/rahmanxyz/my-first-official-project-43m)
 - [Dev.to/JS] [Mastering Front End Fundamentals in 100 Days](https://dev.to/alimalim77/mastering-front-end-fundamentals-in-100-days-akg)
-- [Dev.to/JS] [how to block ads in hotstar](https://dev.to/chandramarch18/how-to-block-ads-in-hotstar-3ghg)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
