@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create A React Router App in 5 Minutes](https://dev.to/ayubf/create-a-react-router-app-in-5-minutes-3ccp)
 - [Dev.to/JS] [So you want to know about Web Workers?](https://dev.to/wardellbagby/so-you-want-to-know-about-web-workers-4aoe)
 - [Dev.to/JS] [Bind to Dynamically Added Elements with jQuery](https://dev.to/nightwolfdev/bind-to-dynamically-added-elements-with-jquery-5ig)
 - [Dev.to/JS] [Sending Custom emails with NodeJS from 🪄scratch  and for no cost whatsoever🗡](https://dev.to/ironcladdev/sending-custom-emails-with-nodejs-from-scratch-and-for-no-cost-whatsoever-1i2n)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tutorial - JWT + NodeJs + MongoDB + Vue &lpar;Back-End - Parte II&rpar;](https://dev.to/glaucia86/tutorial-jwt-nodejs-mongodb-vue-back-end-parte-ii-1m4)
 - [Lifehacker] [You Can Help NASA Get to Mars](https://lifehacker.com/you-can-help-nasa-get-to-mars-1848400060)
 - [Lifehacker] [What You Need to Know About Weed-Infused &#39;Wine&#39; and &#39;Beer&#39;](https://lifehacker.com/what-you-need-to-know-about-weed-infused-wine-and-beer-1848400208)
-- [Dev.to/JS] [How to Connect Your Local Project’s Codebase to a GitHub Repository Fast!](https://dev.to/brianhhough/how-to-connect-your-local-projects-codebase-to-a-github-repository-fast-2l7h)
 - [Lifehacker] [Why You Should Just Switch to Android Already](https://lifehacker.com/why-you-should-just-switch-to-android-already-1848398806)
 - [Lifehacker] [Stop Using These Recalled Pacifiers That Pose a Choking Hazard](https://lifehacker.com/stop-using-these-recalled-pacifiers-that-pose-a-choking-1848399063)
 - [Lifehacker] [When Can People With Long COVID Return to Exercising?](https://lifehacker.com/when-can-people-with-long-covid-return-to-exercising-1848399068)
