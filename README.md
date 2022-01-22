@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to code](https://dev.to/tobymikemax/how-to-code-fgk)
+- [Dev.to/JS] [Notification Panel](https://dev.to/j471n/notification-panel-50p6)
+- [Dev.to/JS] [TypeORM Tips &lpar;Part 2: Use where&lpar;&rpar; with care&rpar;](https://dev.to/rishit/optimizing-typeorm-tips-from-experience-part-2-use-where-with-care-40jp)
+- [Dev.to/JS] [Set Data Structure in JavaScript](https://dev.to/rakesh_patel/set-data-structure-in-javascript-27o1)
+- [Dev.to/JS] [React 18 Suspense minimal example](https://dev.to/vaukalak/react-18-suspense-minimal-example-3j0k)
+- [Dev.to/JS] [Some Best Practices of Javascript for clean and better code quality...](https://dev.to/_vinay_dagar/some-best-practices-of-javascript-for-clean-and-better-code-quality-2cd3)
 - [Dev.to/JS] [Loopple - Change your dashboard colors](https://dev.to/rarestoma/loopple-change-your-dashboard-colors-1f3i)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Dev.to/JS] [My first official project](https://dev.to/rahmanxyz/my-first-official-project-43m)
@@ -30,13 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how to block ads in hotstar](https://dev.to/chandramarch18/how-to-block-ads-in-hotstar-3ghg)
 - [Dev.to/JS] [Character Controls](https://dev.to/zevanrosser/character-controls-160a)
 - [Dev.to/JS] [More + Wordle = Mordle &lpar;extending Josh his Web Components&rpar;](https://dev.to/dannyengelman/more-wordle-mordle-extending-josh-his-web-components-4li)
-- [Dev.to/JS] [Vector Rays with the CSS Paint API](https://dev.to/mgiulio/vector-rays-with-the-css-paint-api-14p4)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
-- [Dev.to/JS] [How to build a simple Live Video Streaming App with React Native and Agora](https://dev.to/kyle_buntin/how-to-build-a-simple-live-video-streaming-app-with-react-native-and-agora-o40)
-- [Dev.to/JS] [LeetCode - Balanced Binary Tree](https://dev.to/_alkesh26/leetcode-balanced-binary-tree-28k4)
-- [Dev.to/JS] [Best Animation Libraries for ReactJS](https://dev.to/surajondev/best-animation-libraries-for-reactjs-2h34)
-- [Dev.to/JS] [PERSONAL-WEBSITE🧑‍💻](https://dev.to/yas33n/personal-website-1i7n)
-- [Dev.to/JS] [Create Ozark&#39;s hypnotizing title animation with Greensock &lpar;GSAP&rpar;](https://dev.to/robole/create-ozarks-title-animation-with-greensock-gsap-166k)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
