@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Week of Telescope](https://dev.to/luigizaccagnini/first-week-of-telescope-4f1o)
+- [Dev.to/JS] [Week 2 : A lot of opportunity ahead](https://dev.to/beamazedvariable/week-2-a-lot-of-opportunity-ahead-15on)
+- [Dev.to/JS] [My new web tool](https://dev.to/mishabka/my-new-web-tool-156i)
 - [Dev.to/JS] [How to easily create JS libraries with bundled dependencies compatible with ES/AMD/UMD/CJS module systems using Nx](https://dev.to/ipreda/how-to-easily-create-js-libraries-with-bundled-dependencies-compatible-with-esamdumdcjs-module-systems-using-nx-25ai)
 - [Dev.to/JS] [Voice Search with JavaScript &lpar;Web Speech API&rpar;](https://dev.to/protecgames/voice-search-with-javascript-web-speech-api-4k6l)
 - [Dev.to/JS] [An Overview of Modern Web Development Process](https://dev.to/tahsin/an-overview-of-modern-web-development-process-1f50)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add amazing loading effect - PACE.JS](https://dev.to/adeleyeayodeji/how-to-add-amazing-loading-effect-pacejs-2ln3)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
-- [Dev.to/JS] [9 Ways You Can Use React Today in 2022](https://dev.to/jsmanifest/9-ways-you-can-use-react-today-in-2022-kp6)
-- [Dev.to/JS] [Adding Postgres Search to a Node REST API](https://dev.to/james_mtc/adding-postgres-search-to-a-node-rest-api-39hd)
-- [Dev.to/JS] [Hooks - useState e useContext](https://dev.to/gabrielhsilvestre/hooks-usestate-e-usecontext-1fg3)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
 - [Lifehacker] [Manifest Your Best Life &lpar;and Ultimate Revenge&rpar; With Champagne](https://lifehacker.com/manifest-your-best-life-and-ultimate-revenge-with-cha-1848400326)
 - [Lifehacker] [The Easiest Way to Calculate Your Cocktail’s ABV](https://lifehacker.com/the-easiest-way-to-calculate-your-cocktail-s-abv-1848395614)
