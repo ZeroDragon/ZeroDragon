@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Job Queue using Bull and Redis in NodeJS](https://dev.to/franciscomendes10866/how-to-create-a-job-queue-using-bull-and-redis-in-nodejs-20ck)
+- [Dev.to/JS] [HTML Drag and Drop API](https://dev.to/anuraggharat/html-drag-and-drop-api-5gd3)
+- [Dev.to/JS] [How to Protect Your NextJS Website from Clickjacking?](https://dev.to/theinfosecguy/how-to-protect-your-nextjs-website-from-clickjacking-2jbg)
+- [Dev.to/JS] [Cool &lpar;online&rpar; places for 2022](https://dev.to/jmau111/cool-online-places-for-2022-4ja)
+- [Dev.to/JS] [Partager la grille de Wordle en français](https://dev.to/michelc/partager-la-grille-de-wordle-en-francais-2k3i)
 - [Dev.to/JS] [Online Clothing Store using the MERN stack](https://dev.to/devtips3/online-clothing-store-using-the-mern-stack-3edl)
 - [Dev.to/JS] [Hide or show Elements/div in HTML Using JavaScript and Css](https://dev.to/sh20raj/hide-or-show-elementsdiv-in-html-using-javascript-and-css-3jb7)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 15](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-15-4k46)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Income Tax Calculator Pakistan](https://dev.to/ats094/income-tax-calculator-pakistan-1iop)
 - [Dev.to/JS] [Js Statement vs Expression](https://dev.to/mahin678/js-statement-vs-expression-44di)
 - [Dev.to/JS] [Component Inheritance in Angular. Object-oriented programming Series &lpar;Part 1&rpar;](https://dev.to/es404020/component-inheritance-in-angular-object-oriented-programming-series-part-1-n9p)
-- [Dev.to/JS] [如何修正npm/yarn的security问题](https://dev.to/andylow/ru-he-xiu-zheng-npmyarnde-securitywen-ti-2nb7)
-- [Dev.to/JS] [JCenter shutdown impact for android developer](https://dev.to/clementdunstan/jcenter-shutdown-impact-for-android-developer-4ndp)
-- [Dev.to/JS] [Full Stack Software Development Course](https://dev.to/metasoares/full-stack-software-development-course-2kl7)
-- [Dev.to/JS] [First Week of Telescope](https://dev.to/luigizaccagnini/first-week-of-telescope-4f1o)
-- [Dev.to/JS] [Week 2 : A lot of opportunity ahead](https://dev.to/beamazedvariable/week-2-a-lot-of-opportunity-ahead-15on)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
