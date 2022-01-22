@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [how to block ads in hotstar](https://dev.to/chandramarch18/how-to-block-ads-in-hotstar-3ghg)
+- [Dev.to/JS] [Character Controls](https://dev.to/zevanrosser/character-controls-160a)
+- [Dev.to/JS] [More + Wordle = Mordle &lpar;extending Josh his Web Components&rpar;](https://dev.to/dannyengelman/more-wordle-mordle-extending-josh-his-web-components-4li)
+- [Dev.to/JS] [Vector Rays with the CSS Paint API](https://dev.to/mgiulio/vector-rays-with-the-css-paint-api-14p4)
+- [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Dev.to/JS] [How to build a simple Live Video Streaming App with React Native and Agora](https://dev.to/kyle_buntin/how-to-build-a-simple-live-video-streaming-app-with-react-native-and-agora-o40)
 - [Dev.to/JS] [LeetCode - Balanced Binary Tree](https://dev.to/_alkesh26/leetcode-balanced-binary-tree-28k4)
 - [Dev.to/JS] [Best Animation Libraries for ReactJS](https://dev.to/surajondev/best-animation-libraries-for-reactjs-2h34)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First Portfolio](https://dev.to/karmablackshaw/first-portfolio-nk0)
 - [Dev.to/JS] [🎯 Objects in JavaScripts](https://dev.to/pankaj_singhr/objects-in-javascripts-183h)
 - [Dev.to/JS] [Open Source and 100 Days of Code: Week 1 Update](https://dev.to/ckvignesh/open-source-and-100-days-of-code-week-1-update-1ig7)
-- [Dev.to/JS] [#23 - Change it up
-CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/23-change-it-upcodewars-kata-6-kyu-4k5e)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
-- [Dev.to/JS] [7 Killer JavaScript One-Liners that you must know](https://dev.to/ikamran/7-killer-javascript-one-liners-that-you-must-know-2lla)
-- [Dev.to/JS] [Velo by Wix: Repeated item event handlers v2.0](https://dev.to/shoonia/velo-by-wix-repeated-item-event-handlers-v20-3epa)
-- [Dev.to/JS] [React Admin Dashboard with Recharts](https://dev.to/koolkishan/react-admin-dashboard-with-recharts-1om0)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
 - [Lifehacker] [How to Get the Best Protection From Your N95](https://lifehacker.com/how-to-get-the-best-protection-from-your-n95-1848401335)
@@ -60,7 +60,6 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/23-change-it-upcodewa
 - [Lifehacker] [What Is the Best Indoor Temperature for Your Dog?](https://lifehacker.com/what-is-the-best-indoor-temperature-for-your-dog-1848391481)
 - [Lifehacker] [How to Effectively Navigate the Health Care System, According to Reddit](https://lifehacker.com/how-to-effectively-navigate-the-health-care-system-acc-1848391987)
 - [Lifehacker] [18 Things You Need to Know to Prevent a Home Burglary](https://lifehacker.com/18-things-you-need-to-know-to-prevent-a-home-burglary-1848387719)
-- [Lifehacker] [What You Really Need to Survive a Blackout](https://lifehacker.com/what-you-really-need-to-survive-a-blackout-1848391408)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
