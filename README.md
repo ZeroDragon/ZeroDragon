@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a CRUD SPA with Ruby on Rails and React](https://dev.to/lena0128/building-a-crud-spa-with-ruby-on-rails-and-react-35ng)
 - [Dev.to/JS] [How to code](https://dev.to/tobymikemax/how-to-code-fgk)
 - [Dev.to/JS] [Notification Panel](https://dev.to/j471n/notification-panel-50p6)
 - [Dev.to/JS] [TypeORM Tips &lpar;Part 2: Use where&lpar;&rpar; with care&rpar;](https://dev.to/rishit/optimizing-typeorm-tips-from-experience-part-2-use-where-with-care-40jp)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Front End Fundamentals in 100 Days](https://dev.to/alimalim77/mastering-front-end-fundamentals-in-100-days-akg)
 - [Dev.to/JS] [how to block ads in hotstar](https://dev.to/chandramarch18/how-to-block-ads-in-hotstar-3ghg)
 - [Dev.to/JS] [Character Controls](https://dev.to/zevanrosser/character-controls-160a)
-- [Dev.to/JS] [More + Wordle = Mordle &lpar;extending Josh his Web Components&rpar;](https://dev.to/dannyengelman/more-wordle-mordle-extending-josh-his-web-components-4li)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
