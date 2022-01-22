@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Loopple - Change your dashboard colors](https://dev.to/rarestoma/loopple-change-your-dashboard-colors-1f3i)
+- [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Dev.to/JS] [My first official project](https://dev.to/rahmanxyz/my-first-official-project-43m)
 - [Dev.to/JS] [Mastering Front End Fundamentals in 100 Days](https://dev.to/alimalim77/mastering-front-end-fundamentals-in-100-days-akg)
 - [Dev.to/JS] [how to block ads in hotstar](https://dev.to/chandramarch18/how-to-block-ads-in-hotstar-3ghg)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Animation Libraries for ReactJS](https://dev.to/surajondev/best-animation-libraries-for-reactjs-2h34)
 - [Dev.to/JS] [PERSONAL-WEBSITE🧑‍💻](https://dev.to/yas33n/personal-website-1i7n)
 - [Dev.to/JS] [Create Ozark&#39;s hypnotizing title animation with Greensock &lpar;GSAP&rpar;](https://dev.to/robole/create-ozarks-title-animation-with-greensock-gsap-166k)
-- [Dev.to/JS] [First Portfolio](https://dev.to/karmablackshaw/first-portfolio-nk0)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
 - [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Lifehacker] [The Ultimate Guide to Getting Out of Jury Duty](https://lifehacker.com/the-ultimate-guide-to-getting-out-of-jury-duty-1848394904)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Roast a Whole Chicken Without Messing It Up](https://lifehacker.com/how-to-roast-a-whole-chicken-without-messing-it-up-1848387073)
 - [Lifehacker] [What Is the Best Indoor Temperature for Your Dog?](https://lifehacker.com/what-is-the-best-indoor-temperature-for-your-dog-1848391481)
 - [Lifehacker] [How to Effectively Navigate the Health Care System, According to Reddit](https://lifehacker.com/how-to-effectively-navigate-the-health-care-system-acc-1848391987)
-- [Lifehacker] [18 Things You Need to Know to Prevent a Home Burglary](https://lifehacker.com/18-things-you-need-to-know-to-prevent-a-home-burglary-1848387719)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
