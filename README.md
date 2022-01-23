@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Generate Random String Using JavaScript](https://dev.to/sh20raj/generate-random-string-using-javascript-3chi)
+- [Dev.to/JS] [#24 - Create Phone Number
+CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/24-create-phone-numbercodewars-kata-6-kyu-16i7)
+- [Dev.to/JS] [Deep dive into React codebase [EP3: Reverse engineer the most famous React snippet]](https://dev.to/fromaline/deep-dive-into-react-codebase-ep3-reverse-engineer-the-most-famous-react-snippet-njj)
+- [Dev.to/JS] [useContext&lpar;&rpar; Hook : Let&#39;s consume  it](https://dev.to/yadav_rajshekhar/usecontext-hook-lets-consume-it-4dkp)
+- [Dev.to/JS] [Best programming tools for every beginner](https://dev.to/codewithsnowbit/best-programming-tools-for-every-beginner-41g3)
+- [Dev.to/JS] [Adding Google Authentication Feature.](https://dev.to/kirtisingh3008/adding-google-authentication-feature-25a4)
 - [Dev.to/JS] [How does JS execute &quot;use strict&quot;?](https://dev.to/rjitsu/how-does-js-execute-use-strict-26cd)
 - [Dev.to/JS] [I Built a Blog with RemixJS so You Don&#39;t Have To &lpar;You&#39;re Welcome&rpar;](https://dev.to/asayerio_techblog/i-built-a-blog-with-remixjs-so-you-dont-have-to-youre-welcome-ig8)
 - [Dev.to/JS] [Create Cache Memory using Redis in Express JS](https://dev.to/deepakjaiswal/create-cache-memory-using-redis-in-express-js-3lmg)
 - [Dev.to/JS] [Project 5: To-Do List, and my final week of Flatiron](https://dev.to/duke1014/project-5-to-do-list-and-my-final-week-of-flatiron-27li)
 - [Dev.to/JS] [soon to launch](https://dev.to/asiist2/soon-to-launch-286g)
 - [Dev.to/JS] [The Complete React Roadmap](https://dev.to/ruppysuppy/the-complete-react-roadmap-1ho4)
-- [Dev.to/JS] [Leetcode diary: 983. Minimum Cost For Tickets](https://dev.to/kevin074/leetcode-diary-983-minimum-cost-for-tickets-3m0g)
-- [Dev.to/JS] [Simple JavaScript + HTML Calculator](https://dev.to/practical_coder123/simple-javascript-html-calculator-2fco)
-- [Dev.to/JS] [Add a VSC Command Palette to Your Website!](https://dev.to/harshhhdev/adding-a-command-palette-to-your-website-5cpp)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 16](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-16-53eh)
-- [Dev.to/JS] [Search text and navigate -Chrome alike feature with marker locations using Angular](https://dev.to/this-is-angular/search-text-and-navigate-chrome-alike-feature-with-marker-locations-using-angular-1a67)
-- [Dev.to/JS] [How We Turn This Bootstrap Based Web Into a Pixel Game-Like](https://dev.to/sandbottle/how-we-turn-this-bootstrap-based-web-into-a-pixel-game-like-2o77)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
