@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Why you should write clean code as a JavaScript Developer](https://dev.to/codewithsnowbit/why-you-should-write-clean-code-as-a-javascript-developer-5akn)
+- [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
+- [Dev.to/JS] [Show loading indicator for Lazy Modules in Angular](https://dev.to/ahmedgmurtaza/show-loading-indicator-for-lazy-modules-in-angular-4knf)
+- [Dev.to/JS] [Getting error while rendering component](https://dev.to/mahirjain10/getting-error-while-rendering-component-4iol)
+- [Dev.to/JS] [What Is Web 3?](https://dev.to/harryholland/what-is-web-3-1lgh)
+- [Dev.to/JS] [Semicolon or No semicolon?](https://dev.to/ssurana2/semicolon-or-no-semicolon-2d7h)
+- [Dev.to/JS] [Why you should write clean code as a JavaScript Developer?](https://dev.to/codewithsnowbit/why-you-should-write-clean-code-as-a-javascript-developer-5akn)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Dev.to/JS] [How Much Java-script Should I Know If I Want To Freelance As A Web dev?](https://dev.to/tamal1912/how-much-java-script-should-i-know-if-i-want-to-freelance-as-a-web-dev-233)
 - [Dev.to/JS] [hello world! - and my first project](https://dev.to/andymcbee/hello-world-and-my-first-project-3h3e)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [build a snake game using canvas and requestAnimationFrame](https://dev.to/p4nghu/build-a-snake-game-using-canvas-and-requestanimationframe-3iff)
 - [Dev.to/JS] [9 Useful JavaScript Array Tips and Tricks You Should Know](https://dev.to/midhunz/9-useful-javascript-array-tips-and-tricks-you-should-know-27im)
 - [Dev.to/JS] [9. Message Queue and Event Loop](https://dev.to/sungjuneun/9-message-queue-and-event-loop-5092)
-- [Dev.to/JS] [Leetcode diary: 45. Jump Game II](https://dev.to/kevin074/leetcode-diary-45-jump-game-ii-fi7)
-- [Dev.to/JS] [Paracetamol.js💊| #26: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-26-explica-este-codigo-javascript-1ckp)
-- [Dev.to/JS] [Paracetamol.js💊| #25: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-25-explica-este-codigo-javascript-274c)
-- [Dev.to/JS] [Paracetamol.js💊| #24: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-24-explica-este-codigo-javascript-5a40)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
 - [Lifehacker] [What to Know About Facebook’s New ‘Privacy Center’](https://lifehacker.com/what-to-know-about-facebook-s-new-privacy-center-1848378600)
-- [Lifehacker] [How to Roast a Whole Chicken Without Messing It Up](https://lifehacker.com/how-to-roast-a-whole-chicken-without-messing-it-up-1848387073)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
