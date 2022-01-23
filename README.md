@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why you should write clean code as a JavaScript Developer](https://dev.to/codewithsnowbit/why-you-should-write-clean-code-as-a-javascript-developer-5akn)
+- [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
+- [Dev.to/JS] [How Much Java-script Should I Know If I Want To Freelance As A Web dev?](https://dev.to/tamal1912/how-much-java-script-should-i-know-if-i-want-to-freelance-as-a-web-dev-233)
 - [Dev.to/JS] [hello world! - and my first project](https://dev.to/andymcbee/hello-world-and-my-first-project-3h3e)
 - [Dev.to/JS] [Share Text Across Near 💻Devices📱 using this website 🔥](https://dev.to/rajeshj3/share-text-across-near-devices-using-this-website-23hh)
 - [Dev.to/JS] [Docker Swarm vs node.js cluster](https://dev.to/padcom/docker-swarm-vs-nodejs-cluster-4jcp)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #25: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-25-explica-este-codigo-javascript-274c)
 - [Dev.to/JS] [Paracetamol.js💊| #24: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-24-explica-este-codigo-javascript-5a40)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
-- [Dev.to/JS] [10+ Best Websites To Download Free Website Templates For Developers.](https://dev.to/cesscode/10-best-websites-to-download-free-website-templates-for-developers-24g3)
-- [Dev.to/JS] [Detecting user leaving page with react-router-dom v6.0.2](https://dev.to/bangash1996/detecting-user-leaving-page-with-react-router-dom-v602-33ni)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
 - [Lifehacker] [What to Know About Facebook’s New ‘Privacy Center’](https://lifehacker.com/what-to-know-about-facebook-s-new-privacy-center-1848378600)
 - [Lifehacker] [How to Roast a Whole Chicken Without Messing It Up](https://lifehacker.com/how-to-roast-a-whole-chicken-without-messing-it-up-1848387073)
-- [Lifehacker] [What Is the Best Indoor Temperature for Your Dog?](https://lifehacker.com/what-is-the-best-indoor-temperature-for-your-dog-1848391481)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
