@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reverse-engineering frontend &lpar;Cuphead&#39;s film-grain effect&rpar;! Can you?](https://dev.to/michi/reverse-engineering-frontend-cupheads-film-grain-effect-can-you-c9o)
 - [Dev.to/JS] [Telescope. w2](https://dev.to/aserputov/telescope-w2-50g5)
 - [Dev.to/JS] [Empty Cache and Hard Reload in Chrome devTools](https://dev.to/heidi37/empty-cache-and-hard-reload-in-chrome-devtools-1eoe)
 - [Dev.to/JS] [Meteor Community Survey 2021 results](https://dev.to/storytellercz/meteor-community-survey-2021-results-3ha2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handling HTML Forms with Mobx](https://dev.to/ivandotv/handling-html-forms-with-mobx-1726)
 - [Dev.to/JS] [Share the French Wordle grid](https://dev.to/michelc/share-the-french-wordle-grid-5aec)
 - [Dev.to/JS] [What&#39;s Wrong This Time? Part II: Electric Bugaloo](https://dev.to/awwsmm/whats-wrong-this-time-part-ii-electric-bugaloo-jl4)
-- [Dev.to/JS] [One React testing tip](https://dev.to/noriller/one-react-testing-tip-4o72)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
