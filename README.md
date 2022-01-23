@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meteor Community Survey 2021 results](https://dev.to/storytellercz/meteor-community-survey-2021-results-3ha2)
+- [Dev.to/JS] [Creating a Markdown Blog Powered by Next.js in Under an Hour](https://dev.to/asayerio_techblog/creating-a-markdown-blog-powered-by-nextjs-in-under-an-hour-nh3)
+- [Dev.to/JS] [State of the Web: Bundlers &amp; Build Tools](https://dev.to/asyncbanana/state-of-the-web-bundlers-build-tools-1j73)
+- [Dev.to/JS] [Creating stars using JavaScript](https://dev.to/nicm42/creating-stars-using-javascript-46ca)
+- [Dev.to/JS] [Dealing with Asynchronous data : Async - await](https://dev.to/swasdev4511/dealing-with-asynchronous-data-async-await-23d7)
 - [Dev.to/JS] [Getting Started with TailwindCSS](https://dev.to/nobletijan/getting-started-with-tailwindcss-28ie)
 - [Dev.to/JS] [Handling HTML Forms with Mobx](https://dev.to/ivandotv/handling-html-forms-with-mobx-1726)
 - [Dev.to/JS] [Share the French Wordle grid](https://dev.to/michelc/share-the-french-wordle-grid-5aec)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [One React testing tip](https://dev.to/noriller/one-react-testing-tip-4o72)
 - [Dev.to/JS] [A Guide To Angular Animations and Transition](https://dev.to/therealzakarya/a-guide-to-angular-animations-and-transition-39pk)
 - [Dev.to/JS] [Registration and Login Page using HTML, CSS, and Javascript](https://dev.to/keshavs759/registration-and-login-page-using-html-css-and-javascript-291b)
-- [Dev.to/JS] [Weekly Digest 03/2022](https://dev.to/marcobiedermann/weekly-digest-032022-4jba)
-- [Dev.to/JS] [JavaScript ES6](https://dev.to/buddhadebchhetri/javascript-es6-ilj)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
-- [Dev.to/JS] [Show loading indicator for Lazy Modules in Angular](https://dev.to/ahmedgmurtaza/show-loading-indicator-for-lazy-modules-in-angular-4knf)
-- [Dev.to/JS] [Getting error while rendering component](https://dev.to/mahirjain10/getting-error-while-rendering-component-4iol)
-- [Dev.to/JS] [What Is Web 3?](https://dev.to/harryholland/what-is-web-3-1lgh)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
