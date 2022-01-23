@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top ES6 Features - Every Javascript Developer Must know...!](https://dev.to/thisisraj/top-es6-features-every-javascript-developer-must-know-3o2o)
+- [Dev.to/JS] [&lpar;web-app&rpar;Open-Source URL-Shortener built using Python.](https://dev.to/iamaswin/web-appopen-source-url-shortner-built-using-python-36e4)
 - [Dev.to/JS] [useReducer Hook+ Context API = A Powerful React Tool](https://dev.to/asingh04/usereducer-hook-context-api-a-powerful-react-tool-32ef)
 - [Dev.to/JS] [LeetCode - Spiral Matrix II](https://dev.to/_alkesh26/leetcode-spiral-matrix-ii-17hh)
 - [Dev.to/JS] [Generate Random String Using JavaScript](https://dev.to/sh20raj/generate-random-string-using-javascript-3chi)
@@ -34,8 +36,6 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/24-create-phone-numbe
 - [Dev.to/JS] [Adding Google Authentication Feature.](https://dev.to/kirtisingh3008/adding-google-authentication-feature-25a4)
 - [Dev.to/JS] [How does JS execute &quot;use strict&quot;?](https://dev.to/rjitsu/how-does-js-execute-use-strict-26cd)
 - [Dev.to/JS] [I Built a Blog with RemixJS so You Don&#39;t Have To &lpar;You&#39;re Welcome&rpar;](https://dev.to/asayerio_techblog/i-built-a-blog-with-remixjs-so-you-dont-have-to-youre-welcome-ig8)
-- [Dev.to/JS] [Create Cache Memory using Redis in Express JS](https://dev.to/deepakjaiswal/create-cache-memory-using-redis-in-express-js-3lmg)
-- [Dev.to/JS] [Project 5: To-Do List, and my final week of Flatiron](https://dev.to/duke1014/project-5-to-do-list-and-my-final-week-of-flatiron-27li)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
