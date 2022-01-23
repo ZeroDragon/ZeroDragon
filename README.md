@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Project 5: To-Do List, and my final week of Flatiron](https://dev.to/duke1014/project-5-to-do-list-and-my-final-week-of-flatiron-27li)
+- [Dev.to/JS] [soon to launch](https://dev.to/asiist2/soon-to-launch-286g)
+- [Dev.to/JS] [The Complete React Roadmap](https://dev.to/ruppysuppy/the-complete-react-roadmap-1ho4)
 - [Dev.to/JS] [Leetcode diary: 983. Minimum Cost For Tickets](https://dev.to/kevin074/leetcode-diary-983-minimum-cost-for-tickets-3m0g)
 - [Dev.to/JS] [Simple JavaScript + HTML Calculator](https://dev.to/practical_coder123/simple-javascript-html-calculator-2fco)
-- [Dev.to/JS] [Adding a Command Palette to Your Website](https://dev.to/harshhhdev/adding-a-command-palette-to-your-website-5cpp)
+- [Dev.to/JS] [Add a VSC Command Palette to Your Website!](https://dev.to/harshhhdev/adding-a-command-palette-to-your-website-5cpp)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 16](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-16-53eh)
 - [Dev.to/JS] [Search text and navigate -Chrome alike feature with marker locations using Angular](https://dev.to/this-is-angular/search-text-and-navigate-chrome-alike-feature-with-marker-locations-using-angular-1a67)
 - [Dev.to/JS] [How We Turn This Bootstrap Based Web Into a Pixel Game-Like](https://dev.to/sandbottle/how-we-turn-this-bootstrap-based-web-into-a-pixel-game-like-2o77)
 - [Dev.to/JS] [How I Make a Dashboard for Our Game Studio Faster than a Portfolio Website](https://dev.to/sandbottle/how-i-make-a-dashboard-for-our-game-studio-faster-than-a-portfolio-website-16p6)
 - [Dev.to/JS] [Running dynamoDB locally](https://dev.to/hwangs12/running-dynamodb-locally-4a4m)
 - [Dev.to/JS] [The Power of HTML,CSS and JavaScript](https://dev.to/elliot_brenyasarfo_18749/the-power-of-htmlcss-and-javascript-24gj)
-- [Dev.to/JS] [VS Code Extension that Generates Documentation Using AI](https://dev.to/hahnbeelee/vs-code-extension-that-generates-documentation-using-ai-1cc3)
-- [Dev.to/JS] [Cookies: simple and comprehensive guide](https://dev.to/adelhamad/cookies-simple-and-comprehensive-guide-3ni1)
-- [Dev.to/JS] [Understanding object  in Javascript](https://dev.to/elukuro/understanding-object-in-javascript-2o40)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
