@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9. Message Queue and Event Loop](https://dev.to/sungjuneun/9-message-queue-and-event-loop-5092)
+- [Dev.to/JS] [Leetcode diary: 45. Jump Game II](https://dev.to/kevin074/leetcode-diary-45-jump-game-ii-fi7)
 - [Dev.to/JS] [Paracetamol.js💊| #26: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-26-explica-este-codigo-javascript-1ckp)
 - [Dev.to/JS] [Paracetamol.js💊| #25: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-25-explica-este-codigo-javascript-274c)
 - [Dev.to/JS] [Paracetamol.js💊| #24: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-24-explica-este-codigo-javascript-5a40)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remote form submission and AJAX in Rails](https://dev.to/shehrozirfan/remote-form-submission-and-ajax-in-rails-15e6)
 - [Dev.to/JS] [ES6 - A beginners guide - Array Helpers](https://dev.to/stefanwrightcodes/es6-a-beginners-guide-array-helpers-37bh)
 - [Dev.to/JS] [What I learnt last week #1](https://dev.to/iam_anirudh1995/what-i-learnt-last-week-133o)
-- [Dev.to/JS] [Top ES6 Features - Every Javascript Developer Must know...!](https://dev.to/thisisraj/top-es6-features-every-javascript-developer-must-know-3o2o)
-- [Dev.to/JS] [&lpar;web-app&rpar;Open-Source URL-Shortener built using Python.](https://dev.to/iamaswin/web-appopen-source-url-shortner-built-using-python-36e4)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
