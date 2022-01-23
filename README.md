@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #26: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-26-explica-este-codigo-javascript-1ckp)
+- [Dev.to/JS] [Paracetamol.js💊| #25: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-25-explica-este-codigo-javascript-274c)
+- [Dev.to/JS] [Paracetamol.js💊| #24: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-24-explica-este-codigo-javascript-5a40)
+- [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
+- [Dev.to/JS] [10+ Best Websites To Download Free Website Templates For Developers.](https://dev.to/cesscode/10-best-websites-to-download-free-website-templates-for-developers-24g3)
+- [Dev.to/JS] [Detecting user leaving page with react-router-dom v6.0.2](https://dev.to/bangash1996/detecting-user-leaving-page-with-react-router-dom-v602-33ni)
+- [Dev.to/JS] [How Vercel is changing the cloud game](https://dev.to/peibolsang/how-vercel-is-changing-the-cloud-game-fme)
+- [Dev.to/JS] [Custom Service Worker in any app with esbuild](https://dev.to/digitalplayer1125/custom-service-worker-in-any-app-with-esbuild-3020)
 - [Dev.to/JS] [Remote form submission and AJAX in Rails](https://dev.to/shehrozirfan/remote-form-submission-and-ajax-in-rails-15e6)
 - [Dev.to/JS] [ES6 - A beginners guide - Array Helpers](https://dev.to/stefanwrightcodes/es6-a-beginners-guide-array-helpers-37bh)
 - [Dev.to/JS] [What I learnt last week #1](https://dev.to/iam_anirudh1995/what-i-learnt-last-week-133o)
 - [Dev.to/JS] [Top ES6 Features - Every Javascript Developer Must know...!](https://dev.to/thisisraj/top-es6-features-every-javascript-developer-must-know-3o2o)
 - [Dev.to/JS] [&lpar;web-app&rpar;Open-Source URL-Shortener built using Python.](https://dev.to/iamaswin/web-appopen-source-url-shortner-built-using-python-36e4)
-- [Dev.to/JS] [useReducer Hook+ Context API = A Powerful React Tool](https://dev.to/asingh04/usereducer-hook-context-api-a-powerful-react-tool-32ef)
-- [Dev.to/JS] [LeetCode - Spiral Matrix II](https://dev.to/_alkesh26/leetcode-spiral-matrix-ii-17hh)
-- [Dev.to/JS] [Generate Random String Using JavaScript](https://dev.to/sh20raj/generate-random-string-using-javascript-3chi)
-- [Dev.to/JS] [#24 - Create Phone Number
-CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/24-create-phone-numbercodewars-kata-6-kyu-16i7)
-- [Dev.to/JS] [Deep dive into React codebase [EP3: Reverse engineer the most famous React snippet]](https://dev.to/fromaline/deep-dive-into-react-codebase-ep3-reverse-engineer-the-most-famous-react-snippet-njj)
-- [Dev.to/JS] [useContext&lpar;&rpar; Hook : Let&#39;s consume  it](https://dev.to/yadav_rajshekhar/usecontext-hook-lets-consume-it-4dkp)
-- [Dev.to/JS] [Best programming tools for every beginner](https://dev.to/codewithsnowbit/best-programming-tools-for-every-beginner-41g3)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
@@ -60,7 +60,6 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/24-create-phone-numbe
 - [Lifehacker] [What to Know About Facebook’s New ‘Privacy Center’](https://lifehacker.com/what-to-know-about-facebook-s-new-privacy-center-1848378600)
 - [Lifehacker] [How to Roast a Whole Chicken Without Messing It Up](https://lifehacker.com/how-to-roast-a-whole-chicken-without-messing-it-up-1848387073)
 - [Lifehacker] [What Is the Best Indoor Temperature for Your Dog?](https://lifehacker.com/what-is-the-best-indoor-temperature-for-your-dog-1848391481)
-- [Lifehacker] [How to Effectively Navigate the Health Care System, According to Reddit](https://lifehacker.com/how-to-effectively-navigate-the-health-care-system-acc-1848391987)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
