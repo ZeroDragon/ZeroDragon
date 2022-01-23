@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Registration and Login Page using HTML, CSS, and Javascript](https://dev.to/keshavs759/registration-and-login-page-using-html-css-and-javascript-291b)
+- [Dev.to/JS] [Weekly Digest 03/2022](https://dev.to/marcobiedermann/weekly-digest-032022-4jba)
+- [Dev.to/JS] [JavaScript ES6](https://dev.to/buddhadebchhetri/javascript-es6-ilj)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Dev.to/JS] [Show loading indicator for Lazy Modules in Angular](https://dev.to/ahmedgmurtaza/show-loading-indicator-for-lazy-modules-in-angular-4knf)
 - [Dev.to/JS] [Getting error while rendering component](https://dev.to/mahirjain10/getting-error-while-rendering-component-4iol)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [hello world! - and my first project](https://dev.to/andymcbee/hello-world-and-my-first-project-3h3e)
 - [Dev.to/JS] [Share Text Across Near 💻Devices📱 using this website 🔥](https://dev.to/rajeshj3/share-text-across-near-devices-using-this-website-23hh)
 - [Dev.to/JS] [Docker Swarm vs node.js cluster](https://dev.to/padcom/docker-swarm-vs-nodejs-cluster-4jcp)
-- [Dev.to/JS] [build a snake game using canvas and requestAnimationFrame](https://dev.to/p4nghu/build-a-snake-game-using-canvas-and-requestanimationframe-3iff)
-- [Dev.to/JS] [9 Useful JavaScript Array Tips and Tricks You Should Know](https://dev.to/midhunz/9-useful-javascript-array-tips-and-tricks-you-should-know-27im)
-- [Dev.to/JS] [9. Message Queue and Event Loop](https://dev.to/sungjuneun/9-message-queue-and-event-loop-5092)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
