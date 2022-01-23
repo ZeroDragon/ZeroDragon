@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [hello world! - and my first project](https://dev.to/andymcbee/hello-world-and-my-first-project-3h3e)
+- [Dev.to/JS] [Share Text Across Near 💻Devices📱 using this website 🔥](https://dev.to/rajeshj3/share-text-across-near-devices-using-this-website-23hh)
+- [Dev.to/JS] [Docker Swarm vs node.js cluster](https://dev.to/padcom/docker-swarm-vs-nodejs-cluster-4jcp)
+- [Dev.to/JS] [build a snake game using canvas and requestAnimationFrame](https://dev.to/p4nghu/build-a-snake-game-using-canvas-and-requestanimationframe-3iff)
+- [Dev.to/JS] [9 Useful JavaScript Array Tips and Tricks You Should Know](https://dev.to/midhunz/9-useful-javascript-array-tips-and-tricks-you-should-know-27im)
 - [Dev.to/JS] [9. Message Queue and Event Loop](https://dev.to/sungjuneun/9-message-queue-and-event-loop-5092)
 - [Dev.to/JS] [Leetcode diary: 45. Jump Game II](https://dev.to/kevin074/leetcode-diary-45-jump-game-ii-fi7)
 - [Dev.to/JS] [Paracetamol.js💊| #26: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-26-explica-este-codigo-javascript-1ckp)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
 - [Dev.to/JS] [10+ Best Websites To Download Free Website Templates For Developers.](https://dev.to/cesscode/10-best-websites-to-download-free-website-templates-for-developers-24g3)
 - [Dev.to/JS] [Detecting user leaving page with react-router-dom v6.0.2](https://dev.to/bangash1996/detecting-user-leaving-page-with-react-router-dom-v602-33ni)
-- [Dev.to/JS] [How Vercel is changing the cloud game](https://dev.to/peibolsang/how-vercel-is-changing-the-cloud-game-fme)
-- [Dev.to/JS] [Custom Service Worker in any app with esbuild](https://dev.to/digitalplayer1125/custom-service-worker-in-any-app-with-esbuild-3020)
-- [Dev.to/JS] [Remote form submission and AJAX in Rails](https://dev.to/shehrozirfan/remote-form-submission-and-ajax-in-rails-15e6)
-- [Dev.to/JS] [ES6 - A beginners guide - Array Helpers](https://dev.to/stefanwrightcodes/es6-a-beginners-guide-array-helpers-37bh)
-- [Dev.to/JS] [What I learnt last week #1](https://dev.to/iam_anirudh1995/what-i-learnt-last-week-133o)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
