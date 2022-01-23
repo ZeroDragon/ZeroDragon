@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - Spiral Matrix II](https://dev.to/_alkesh26/leetcode-spiral-matrix-ii-17hh)
 - [Dev.to/JS] [Generate Random String Using JavaScript](https://dev.to/sh20raj/generate-random-string-using-javascript-3chi)
 - [Dev.to/JS] [#24 - Create Phone Number
 CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/24-create-phone-numbercodewars-kata-6-kyu-16i7)
@@ -35,7 +36,6 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/24-create-phone-numbe
 - [Dev.to/JS] [Create Cache Memory using Redis in Express JS](https://dev.to/deepakjaiswal/create-cache-memory-using-redis-in-express-js-3lmg)
 - [Dev.to/JS] [Project 5: To-Do List, and my final week of Flatiron](https://dev.to/duke1014/project-5-to-do-list-and-my-final-week-of-flatiron-27li)
 - [Dev.to/JS] [soon to launch](https://dev.to/asiist2/soon-to-launch-286g)
-- [Dev.to/JS] [The Complete React Roadmap](https://dev.to/ruppysuppy/the-complete-react-roadmap-1ho4)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
