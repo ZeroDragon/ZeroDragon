@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Search text and navigate -Chrome alike feature with marker locations using Angular](https://dev.to/this-is-angular/search-text-and-navigate-chrome-alike-feature-with-marker-locations-using-angular-1a67)
+- [Dev.to/JS] [How We Turn This Bootstrap Based Web Into a Pixel Game-Like](https://dev.to/manushifva/how-we-turn-this-bootstrap-based-web-into-a-pixel-game-like-2o77)
 - [Dev.to/JS] [How I Make a Dashboard for Our Game Studio Faster than a Portfolio Website](https://dev.to/sandbottle/how-i-make-a-dashboard-for-our-game-studio-faster-than-a-portfolio-website-16p6)
 - [Dev.to/JS] [Running dynamoDB locally](https://dev.to/hwangs12/running-dynamodb-locally-4a4m)
 - [Dev.to/JS] [The Power of HTML,CSS and JavaScript](https://dev.to/elliot_brenyasarfo_18749/the-power-of-htmlcss-and-javascript-24gj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Big O | Como calcular, na prática, em Javascript?](https://dev.to/luizcalaca/big-o-como-calcular-na-pratica-em-javascript-3pid)
 - [Dev.to/JS] [How to Make NFC web app like dot.card or Tappy Card.](https://dev.to/jhozie_/how-to-make-nfc-web-app-like-dotcard-or-tappy-card-24j7)
 - [Dev.to/JS] [Full list of in-person React conferences in 2022](https://dev.to/benghamine/full-list-of-in-person-react-conferences-in-2022-1mh9)
-- [Dev.to/JS] [Building a CRUD SPA with Ruby on Rails and React](https://dev.to/lena0128/building-a-crud-spa-with-ruby-on-rails-and-react-35ng)
-- [Dev.to/JS] [How to code](https://dev.to/tobymikemax/how-to-code-fgk)
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
