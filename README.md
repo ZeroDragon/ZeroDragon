@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Data Fetching: Axios](https://dev.to/drsimplegraffiti/react-data-fetching-axios-43i0)
+- [Dev.to/JS] [Understand JSON In Four Sentences](https://dev.to/elliot_brenyasarfo_18749/understand-json-in-four-sentences-5f5a)
 - [Dev.to/JS] [Best Learning Path to Master NextJS](https://dev.to/nirzal07/best-learning-path-to-master-nextjs-4ap8)
 - [Dev.to/JS] [TS or JS to be upcoming](https://dev.to/moadel/ts-or-js-to-be-upcoming-2d6c)
 - [Dev.to/JS] [Why custom react hooks could destroy your app performance](https://dev.to/adevnadia/why-custom-react-hooks-could-destroy-your-app-performance-nid)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Day 2 ,3 and 4](https://dev.to/pushanverma/javascript-day-2-3-and-4-1633)
 - [Dev.to/JS] [Leetcode diary: 62. Unique Paths](https://dev.to/kevin074/leetcode-diary-62-unique-paths-30p9)
 - [Dev.to/JS] [Hide and Show Elements using JavaScript Css | Explained toggle&lpar;&rpar; function](https://dev.to/dasaradhanimmala/hide-and-show-elements-using-javascript-css-explained-toggle-function-2ccm)
-- [Dev.to/JS] [WebRTC For Beginners - Part 3: Creating the peers and sending/receiving media](https://dev.to/ethand91/webrtc-for-beginners-part-3-creating-the-peers-and-sendingreceiving-media-4lab)
-- [Dev.to/JS] [my new portfolio](https://dev.to/devanandan5/my-new-portfolio-706)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
