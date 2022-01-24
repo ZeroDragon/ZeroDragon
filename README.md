@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Live Coding &amp; Streaming - 10 Ways Developers Make Money Working from Home - E02](https://dev.to/danfleser/live-coding-streaming-10-ways-developers-make-money-working-from-home-e02-1d0)
+- [Dev.to/JS] [Javascript Day 2 ,3 and 4](https://dev.to/pushanverma/javascript-day-2-3-and-4-1633)
+- [Dev.to/JS] [Leetcode diary: 62. Unique Paths](https://dev.to/kevin074/leetcode-diary-62-unique-paths-30p9)
+- [Dev.to/JS] [Hide and Show Elements using JavaScript Css | Explained toggle&lpar;&rpar; function](https://dev.to/dasaradhanimmala/hide-and-show-elements-using-javascript-css-explained-toggle-function-2ccm)
 - [Dev.to/JS] [WebRTC For Beginners - Part 3: Creating the peers and sending/receiving media](https://dev.to/ethand91/webrtc-for-beginners-part-3-creating-the-peers-and-sendingreceiving-media-4lab)
 - [Dev.to/JS] [my new portfolio](https://dev.to/devanandan5/my-new-portfolio-706)
 - [Dev.to/JS] [Returning JSON from a PHP Script - Create Rest API in Php](https://dev.to/sh20raj/returning-json-from-a-php-script-create-rest-api-in-php-3gm5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ways to loop in an array using the different types of &quot;FOR LOOP&quot; in Javascript.](https://dev.to/kidxs/ways-to-loop-in-an-array-using-the-different-types-of-for-loop-in-javascript-1832)
 - [Dev.to/JS] [Shut the Box - Board game &lpar;Android&rpar;](https://dev.to/antongustafsson/shut-the-box-board-game-android-3pab)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 17](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-17-dh9)
-- [Dev.to/JS] [18 GitHub Repos for Learning JavaScript ❤️](https://dev.to/soniarpit/18-github-repos-for-learning-javascript-41e9)
-- [Dev.to/JS] [Leetcode diary: 198. House Robber](https://dev.to/kevin074/leetcode-diary-198-house-robber-1628)
-- [Dev.to/JS] [Health Benefits of CBD Oil — and a Look at Side Effects](https://dev.to/figibrands/health-benefits-of-cbd-oil-and-a-look-at-side-effects-3j2k)
-- [Dev.to/JS] [How and Why to Invoke the Android Number Pad](https://dev.to/kristenkinnearohlmann/how-and-why-to-invoke-the-android-number-pad-455o)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
