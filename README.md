@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
+- [Dev.to/JS] [JavaScript Console more than just a log](https://dev.to/dom_the_dev/javascript-console-more-than-just-a-log-2kc7)
+- [Dev.to/JS] [Making a Card API Project | Day 17](https://dev.to/developerioweb/making-a-card-api-project-day-17-2p37)
+- [Lifehacker] [How to Stop Rushing Your Kids Out the Door in the Morning](https://lifehacker.com/how-to-stop-rushing-your-kids-out-the-door-in-the-morni-1848411071)
 - [Dev.to/JS] [React LifeCycle Method | Day 16](https://dev.to/developerioweb/react-lifecycle-method-day-16-52jn)
 - [Lifehacker] [How to Buy a House With &#39;Just&#39; $12,000 Down](https://lifehacker.com/how-to-buy-a-house-with-just-12-000-down-1848411297)
-- [Dev.to/JS] [Starting an app with react native! windows and vscode and expo...!!](https://dev.to/nataliacatundafr/how-definitely-start-an-app-with-react-native-at-windows-with-vs-code-44l4)
+- [Dev.to/JS] [Starting an app with react native! windows and vscode and expo...!!&lpar;to save&rpar;](https://dev.to/nataliacatundafr/how-definitely-start-an-app-with-react-native-at-windows-with-vs-code-44l4)
 - [Lifehacker] [3-Ingredient Dinner Recipes for When You&#39;re Just Too Tired or Busy](https://lifehacker.com/3-ingredient-dinner-recipes-for-when-youre-just-too-tir-1848410136)
 - [Dev.to/JS] [3 Ways To Learn Coding Within Three Months](https://dev.to/elliot_brenyasarfo_18749/3-ways-to-learn-coding-within-three-months-enb)
 - [Lifehacker] [25 of the Most Rewatchable Movies Ever Made](https://lifehacker.com/25-of-the-most-rewatchable-movies-ever-made-1848407208)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Variables and constants in JavaScript &lpar;ES6&rpar;](https://dev.to/dataille/understanding-variables-and-constants-in-javascript-es6-27if)
 - [Dev.to/JS] [How to make a custom Debounce hook in react js](https://dev.to/rajeshroyal/how-to-make-a-custom-debounce-hook-in-react-js-4gcc)
 - [Lifehacker] [All the Ways You Should Be Using a Raw Potato for Common Household Tasks](https://lifehacker.com/all-the-ways-you-should-be-using-a-raw-potato-for-commo-1848409591)
-- [Dev.to/JS] [Build a Discord Bot 👾](https://dev.to/rachelombok/build-a-discord-bot-314i)
-- [Dev.to/JS] [Créer un serveur Node.js avec Express.js](https://dev.to/areatomic/creer-un-serveur-nodejs-avec-expressjs-4797)
 - [Lifehacker] [How to Use Captions to Organize Your iPhone Photo Library](https://lifehacker.com/how-to-use-captions-to-organize-your-iphone-photo-libra-1848409263)
 - [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
 - [Lifehacker] [How to Prevent Frozen Pipes &lpar;and What to Do If They Freeze Anyway&rpar;](https://lifehacker.com/how-to-prevent-frozen-pipes-and-what-to-do-if-they-fre-1848409008)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Manifest Your Best Life &lpar;and Ultimate Revenge&rpar; With Champagne](https://lifehacker.com/manifest-your-best-life-and-ultimate-revenge-with-cha-1848400326)
 - [Lifehacker] [The Easiest Way to Calculate Your Cocktail’s ABV](https://lifehacker.com/the-easiest-way-to-calculate-your-cocktail-s-abv-1848395614)
 - [Lifehacker] [You Can Help NASA Get to Mars](https://lifehacker.com/you-can-help-nasa-get-to-mars-1848400060)
-- [Lifehacker] [What You Need to Know About Weed-Infused &#39;Wine&#39; and &#39;Beer&#39;](https://lifehacker.com/what-you-need-to-know-about-weed-infused-wine-and-beer-1848400208)
-- [Lifehacker] [Why You Should Just Switch to Android Already](https://lifehacker.com/why-you-should-just-switch-to-android-already-1848398806)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
