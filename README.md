@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [return keyword JavaScript - A hidden hero we do not care about](https://dev.to/mkday/return-keyword-javascript-a-hidden-hero-we-do-not-care-about-48lo)
+- [Dev.to/JS] [Question Mark &lpar;?&rpar; Operators ASAP](https://dev.to/ayubf/question-mark-operators-asap-316d)
+- [Dev.to/JS] [10 GitHub Repositories You Should Know](https://dev.to/seths10/10-github-repositories-you-should-know-1ce7)
 - [Dev.to/JS] [Paracetamol.js💊| #27: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-27-que-imprime-este-codigo-javascript-5bd0)
 - [Dev.to/JS] [Tailwindcss and Sass](https://dev.to/desco/tailwindcss-and-sass-2ggj)
 - [Dev.to/JS] [JavaScript memory model demystified](https://dev.to/he_zhenghao/javascript-memory-model-demystified-3ma1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Empty Cache and Hard Reload in Chrome devTools](https://dev.to/heidi37/empty-cache-and-hard-reload-in-chrome-devtools-1eoe)
 - [Dev.to/JS] [Meteor Community Survey 2021 results](https://dev.to/storytellercz/meteor-community-survey-2021-results-3ha2)
 - [Dev.to/JS] [Creating a Markdown Blog Powered by Next.js in Under an Hour](https://dev.to/asayerio_techblog/creating-a-markdown-blog-powered-by-nextjs-in-under-an-hour-nh3)
-- [Dev.to/JS] [State of the Web: Bundlers &amp; Build Tools](https://dev.to/asyncbanana/state-of-the-web-bundlers-build-tools-1j73)
-- [Dev.to/JS] [Creating stars using JavaScript](https://dev.to/nicm42/creating-stars-using-javascript-46ca)
-- [Dev.to/JS] [Dealing with Asynchronous data : Async - await](https://dev.to/swasdev4511/dealing-with-asynchronous-data-async-await-23d7)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
