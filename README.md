@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utilizing the Coinbase API in a Node.js Application](https://dev.to/ratracegrad/utilizing-the-coinbase-api-in-a-nodejs-application-723)
+- [Dev.to/JS] [Accessing the Coinbase API using OAuth2](https://dev.to/ratracegrad/accessing-the-coinbase-api-using-oauth2-994)
 - [Dev.to/JS] [return keyword JavaScript - A hidden hero we do not care about](https://dev.to/mkday/return-keyword-javascript-a-hidden-hero-we-do-not-care-about-48lo)
 - [Dev.to/JS] [Question Mark &lpar;?&rpar; Operators ASAP](https://dev.to/ayubf/question-mark-operators-asap-316d)
 - [Dev.to/JS] [10 GitHub Repositories You Should Know](https://dev.to/seths10/10-github-repositories-you-should-know-1ce7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reverse-engineering frontend &lpar;Cuphead&#39;s film-grain effect&rpar;! Can you?](https://dev.to/michi/reverse-engineering-frontend-cupheads-film-grain-effect-can-you-c9o)
 - [Dev.to/JS] [Telescope. w2](https://dev.to/aserputov/telescope-w2-50g5)
 - [Dev.to/JS] [Empty Cache and Hard Reload in Chrome devTools](https://dev.to/heidi37/empty-cache-and-hard-reload-in-chrome-devtools-1eoe)
-- [Dev.to/JS] [Meteor Community Survey 2021 results](https://dev.to/storytellercz/meteor-community-survey-2021-results-3ha2)
-- [Dev.to/JS] [Creating a Markdown Blog Powered by Next.js in Under an Hour](https://dev.to/asayerio_techblog/creating-a-markdown-blog-powered-by-nextjs-in-under-an-hour-nh3)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
