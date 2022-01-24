@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Access &quot;file name&quot; From Origin &#39;null&#39; has been Blocked by cors Policy: Cross Origin requests are only supported for Pro](https://dev.to/rowida46/access-file-name-from-origin-null-has-been-blocked-by-cors-policy-cross-origin-requests-are-only-supported-for-pro-22g4)
+- [Dev.to/JS] [Thank you Faker. Now it’s Time to Move On.](https://dev.to/shaharkazaz/thank-you-faker-now-its-time-to-move-on-5cfi)
+- [Dev.to/JS] [Hooks - useEffect e personalizados](https://dev.to/gabrielhsilvestre/hooks-useeffect-e-personalizados-2ol5)
 - [Dev.to/JS] [Monolith vs Microservices Architecture - 100 Days of CSH #3](https://dev.to/adrianghub/monolith-vs-microservices-architecture-100-days-of-csh-3-k2k)
 - [Dev.to/JS] [Baloonza IT newsletters weekly digest #21](https://dev.to/dimamagunov/baloonza-it-newsletters-weekly-digest-21-1ep3)
 - [Dev.to/JS] [24/1/22](https://dev.to/shagon/24122-24pi)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy a House With &#39;Just&#39; $12,000 Down](https://lifehacker.com/how-to-buy-a-house-with-just-12-000-down-1848411297)
 - [Dev.to/JS] [Starting an app with react native! windows and vscode and expo...!!&lpar;just to save&rpar;](https://dev.to/nataliacatundafr/how-definitely-start-an-app-with-react-native-at-windows-with-vs-code-44l4)
 - [Lifehacker] [3-Ingredient Dinner Recipes for When You&#39;re Just Too Tired or Busy](https://lifehacker.com/3-ingredient-dinner-recipes-for-when-youre-just-too-tir-1848410136)
-- [Dev.to/JS] [3 Ways To Learn Coding Within Three Months](https://dev.to/elliot_brenyasarfo_18749/3-ways-to-learn-coding-within-three-months-enb)
 - [Lifehacker] [25 of the Most Rewatchable Movies Ever Made](https://lifehacker.com/25-of-the-most-rewatchable-movies-ever-made-1848407208)
-- [Dev.to/JS] [Comprendres les variables et constantes en JavaScript &lpar;ES6&rpar; - var, let, const](https://dev.to/dataille/comprendres-des-variables-et-constantes-en-javascript-es6-var-let-const-29mo)
-- [Dev.to/JS] [The creation of Spawner](https://dev.to/duttrohan0302/the-creation-of-spawner-5k1)
 - [Lifehacker] [You Should Join This Class Action Lawsuit If You Use Venmo](https://lifehacker.com/you-should-join-this-class-action-lawsuit-against-venmo-1848410390)
 - [Lifehacker] [How to Handle a Clingy Child](https://lifehacker.com/how-to-handle-a-clingy-child-1848408766)
 - [Lifehacker] [All the Ways You Should Be Using a Raw Potato for Common Household Tasks](https://lifehacker.com/all-the-ways-you-should-be-using-a-raw-potato-for-commo-1848409591)
