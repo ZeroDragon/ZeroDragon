@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use Captions to Organize Your iPhone Photo Library](https://lifehacker.com/how-to-use-captions-to-organize-your-iphone-photo-libra-1848409263)
+- [Dev.to/JS] [Top 5 Web Development Tools in 2022](https://dev.to/elliot_brenyasarfo_18749/top-5-web-development-tools-in-2022-16np)
+- [Dev.to/JS] [Instagram Image downloader Using JavaScript - API - Wholly API](https://dev.to/sh20raj/instagram-image-downloader-using-javascript-api-wholly-api-10h2)
+- [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
+- [Dev.to/JS] [Cancelar peticiones con axios &lpar;ejemplo práctico con React.js&rpar;](https://dev.to/jordandev/cancelar-peticiones-con-axios-ejemplo-practico-con-reactjs-38d2)
+- [Dev.to/JS] [Micro Frontends as Web Components](https://dev.to/pijusr/micro-frontends-as-web-components-363f)
+- [Dev.to/JS] [aa](https://dev.to/joylee/aa-3bo6)
 - [Dev.to/JS] [ReactJS Vs NodeJS : Better for app development in 2022](https://dev.to/itsmekrishlee/reactjs-vs-nodejs-better-for-app-development-in-2022-58hf)
 - [Lifehacker] [How to Prevent Frozen Pipes &lpar;and What to Do If They Freeze Anyway&rpar;](https://lifehacker.com/how-to-prevent-frozen-pipes-and-what-to-do-if-they-fre-1848409008)
 - [Dev.to/JS] [From my point of Vue: Vue 3 Ecosystem](https://dev.to/jesusantguerrero/from-my-point-of-vue-vue-3-ecosystem-4ikj)
@@ -32,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Your iPhone as Magnifying Glass For Anything In The World](https://lifehacker.com/how-to-use-your-iphone-as-magnifying-glass-for-anything-1848409224)
 - [Dev.to/JS] [Arrow Function in Javascript](https://dev.to/shubhamtiwari909/arrow-function-in-javascript-46gd)
 - [Dev.to/JS] [Webhook your weight with Withings API](https://dev.to/gutsav/webhook-your-weight-with-withings-api-1okk)
-- [Dev.to/JS] [My First Project: Important Takeaways for Beginner Developers](https://dev.to/jennyroques/my-first-project-important-takeaways-for-beginner-developers-2no0)
 - [Lifehacker] [How to Make Store-Bought Mayonnaise Taste Homemade](https://lifehacker.com/how-to-make-store-bought-mayonnaise-taste-homemade-1848402829)
-- [Dev.to/JS] [9 Beginner Friendly Tricks every JavaScript Dev Should know](https://dev.to/grover_sumrit/9-beginner-friendly-tricks-every-javascript-dev-should-know-3lm4)
-- [Dev.to/JS] [My learning on Web Performance](https://dev.to/sjsouvik/my-learning-on-web-performance-1lb9)
-- [Dev.to/JS] [10. setTimeout, setInterval, and requestAnimationFrame](https://dev.to/sungjuneun/10-settimeout-setinterval-and-requestanimationframe-1io4)
-- [Dev.to/JS] [How to make fully working ecom website part 2 [ Source code ]](https://dev.to/kunaal438/sign-uplogin-learn-to-make-a-working-ecom-website-in-2022-source-code--4l0)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Inventive Ways to Reuse K-Cups](https://lifehacker.com/9-inventive-ways-to-reuse-k-cups-1848395436)
 - [Lifehacker] [How to Watch Virtual Reality Porn](https://lifehacker.com/how-to-watch-virtual-reality-porn-1848363266)
 - [Lifehacker] [How to Make Your iPhone&#39;s Voice Memos Sound Better](https://lifehacker.com/how-to-make-your-iphones-voice-memos-sound-better-1848382665)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Does &#39;Pushing P&#39; Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848395423)
-- [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
