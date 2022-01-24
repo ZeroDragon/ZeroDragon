@@ -23,9 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React LifeCycle Method | Day 16](https://dev.to/developerioweb/react-lifecycle-method-day-16-52jn)
+- [Lifehacker] [How to Buy a House With &#39;Just&#39; $12,000 Down](https://lifehacker.com/how-to-buy-a-house-with-just-12-000-down-1848411297)
+- [Dev.to/JS] [Starting an app with react native! windows and vscode and expo...!!](https://dev.to/nataliacatundafr/how-definitely-start-an-app-with-react-native-at-windows-with-vs-code-44l4)
+- [Lifehacker] [3-Ingredient Dinner Recipes for When You&#39;re Just Too Tired or Busy](https://lifehacker.com/3-ingredient-dinner-recipes-for-when-youre-just-too-tir-1848410136)
+- [Dev.to/JS] [3 Ways To Learn Coding Within Three Months](https://dev.to/elliot_brenyasarfo_18749/3-ways-to-learn-coding-within-three-months-enb)
+- [Lifehacker] [25 of the Most Rewatchable Movies Ever Made](https://lifehacker.com/25-of-the-most-rewatchable-movies-ever-made-1848407208)
 - [Dev.to/JS] [Comprendres des variables et constantes en JavaScript &lpar;ES6&rpar; - var, let, const](https://dev.to/dataille/comprendres-des-variables-et-constantes-en-javascript-es6-var-let-const-29mo)
 - [Dev.to/JS] [The creation of Spawner](https://dev.to/duttrohan0302/the-creation-of-spawner-5k1)
-- [Lifehacker] [You Should Join This Class Action Lawsuit Against Venmo](https://lifehacker.com/you-should-join-this-class-action-lawsuit-against-venmo-1848410390)
+- [Lifehacker] [You Should Join This Class Action Lawsuit If You Use Venmo](https://lifehacker.com/you-should-join-this-class-action-lawsuit-against-venmo-1848410390)
 - [Dev.to/JS] [Toxikoma &lpar;2022&rpar; Film magyarul — letöltése ingyen](https://dev.to/toxikoma2022magyarul/toxikoma-2022-film-magyarul-letoltese-ingyen-12d8)
 - [Dev.to/JS] [An Easy Way to Understand Promise in Javascript](https://dev.to/raaynaldo/an-easy-way-to-understand-promise-in-javascript-215i)
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#04&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-04-2ejp)
@@ -35,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Should Be Using a Raw Potato for Common Household Tasks](https://lifehacker.com/all-the-ways-you-should-be-using-a-raw-potato-for-commo-1848409591)
 - [Dev.to/JS] [Build a Discord Bot 👾](https://dev.to/rachelombok/build-a-discord-bot-314i)
 - [Dev.to/JS] [Créer un serveur Node.js avec Express.js](https://dev.to/areatomic/creer-un-serveur-nodejs-avec-expressjs-4797)
-- [Dev.to/JS] [Grab HTML of any Website using JavaScript without getting blocked - Wholly API](https://dev.to/sh20raj/grab-html-of-any-website-using-javascript-without-getting-blocked-wholly-api-41fl)
-- [Dev.to/JS] [How Can You Architect an Enterprise Grade Pub-Sub Solution?](https://dev.to/push_technology/how-can-you-architect-an-enterprise-grade-pub-sub-solution-331c)
 - [Lifehacker] [How to Use Captions to Organize Your iPhone Photo Library](https://lifehacker.com/how-to-use-captions-to-organize-your-iphone-photo-libra-1848409263)
-- [Dev.to/JS] [Top 5 Web Development Tools in 2022](https://dev.to/elliot_brenyasarfo_18749/top-5-web-development-tools-in-2022-16np)
 - [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
 - [Lifehacker] [How to Prevent Frozen Pipes &lpar;and What to Do If They Freeze Anyway&rpar;](https://lifehacker.com/how-to-prevent-frozen-pipes-and-what-to-do-if-they-fre-1848409008)
 - [Lifehacker] [How to Use Your iPhone as Magnifying Glass For Anything In The World](https://lifehacker.com/how-to-use-your-iphone-as-magnifying-glass-for-anything-1848409224)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Help NASA Get to Mars](https://lifehacker.com/you-can-help-nasa-get-to-mars-1848400060)
 - [Lifehacker] [What You Need to Know About Weed-Infused &#39;Wine&#39; and &#39;Beer&#39;](https://lifehacker.com/what-you-need-to-know-about-weed-infused-wine-and-beer-1848400208)
 - [Lifehacker] [Why You Should Just Switch to Android Already](https://lifehacker.com/why-you-should-just-switch-to-android-already-1848398806)
-- [Lifehacker] [Stop Using These Recalled Pacifiers That Pose a Choking Hazard](https://lifehacker.com/stop-using-these-recalled-pacifiers-that-pose-a-choking-1848399063)
-- [Lifehacker] [When Can People With Long COVID Return to Exercising?](https://lifehacker.com/when-can-people-with-long-covid-return-to-exercising-1848399068)
-- [Lifehacker] [What to Do With Your Empty Propane Tank](https://lifehacker.com/what-to-do-with-your-empty-propane-tank-1848397216)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
