@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Sign up/Login - Learn to make a working ecom website in 2022 [ Source Code ]](https://dev.to/kunaal438/sign-uplogin-learn-to-make-a-working-ecom-website-in-2022-source-code--4l0)
+- [Lifehacker] [How to Make Store-Bought Mayonnaise Taste Homemade](https://lifehacker.com/how-to-make-store-bought-mayonnaise-taste-homemade-1848402829)
+- [Dev.to/JS] [9 Beginner Friendly Tricks every JavaScript Dev Should know](https://dev.to/grover_sumrit/9-beginner-friendly-tricks-every-javascript-dev-should-know-3lm4)
+- [Dev.to/JS] [My learning on Web Performance](https://dev.to/sjsouvik/my-learning-on-web-performance-1lb9)
+- [Dev.to/JS] [10. setTimeout, setInterval, and requestAnimationFrame](https://dev.to/sungjuneun/10-settimeout-setinterval-and-requestanimationframe-1io4)
+- [Dev.to/JS] [How to make fully working ecom website part 2 [ Source code ]](https://dev.to/kunaal438/sign-uplogin-learn-to-make-a-working-ecom-website-in-2022-source-code--4l0)
 - [Dev.to/JS] [Introduction To Appwrite: The Open-Source Firebase Alternative That Is Easy to Self-Host 🚀](https://dev.to/muthuannamalai12/introduction-to-appwrite-the-open-source-firebase-alternative-that-is-easy-to-self-host-26go)
 - [Dev.to/JS] [react-native](https://dev.to/devanandan5/react-native-1of9)
 - [Dev.to/JS] [How to save state and read from firebase?](https://dev.to/ivkemilioner/how-to-save-state-and-read-from-firebase-5g8j)
 - [Dev.to/JS] [Kickstart your crypto business by consulting a Rarible Like Platform Development Company:](https://dev.to/johngamly/kickstart-your-crypto-business-by-consulting-a-rarible-like-platform-development-company-477f)
 - [Dev.to/JS] [JavaScript Arrays &amp; Array Methods | Everything you need to know](https://dev.to/chaoocharles/javascript-arrays-array-methods-everything-you-need-to-know-3dal)
+- [Dev.to/JS] [Open sourcing a privacy-friendly and customizable Disqus alternate 🚀🔥](https://dev.to/devrsi0n/open-sourcing-a-privacy-friendly-and-customizable-disqus-alternate-mp9)
 - [Dev.to/JS] [DarkMode in TailWind](https://dev.to/shashannkbawa/darkmode-in-tailwind-1i1n)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💙.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3b16)
-- [Dev.to/JS] [Latest Web Development and JavaScript Trends to Follow in 2022](https://dev.to/plazarev/latest-web-development-and-javascript-trends-to-follow-in-2022-118c)
-- [Dev.to/JS] [ICO Launchpad Development Company](https://dev.to/icodevelop007/ico-launchpad-development-company-2c55)
-- [Dev.to/JS] [Deploy a Web Scraper using Puppeteer, Node.js and Docker](https://dev.to/koyeb/deploy-a-web-scraper-using-puppeteer-nodejs-and-docker-3alm)
-- [Dev.to/JS] [23/1/22](https://dev.to/shagon/23122-38ei)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [We&#39;re All Getting Free N95 Masks, With a Catch](https://lifehacker.com/were-all-getting-free-n95-masks-with-a-catch-1848395575)
 - [Lifehacker] [Do You Really Need to Devein Shrimp?](https://lifehacker.com/do-you-really-need-to-devein-shrimp-1848394824)
 - [Lifehacker] [12 Reasons You Should Buy a Wii U in 2022](https://lifehacker.com/12-reasons-you-should-buy-a-wii-u-in-2022-1848386769)
-- [Lifehacker] [What to Know About Facebook’s New ‘Privacy Center’](https://lifehacker.com/what-to-know-about-facebook-s-new-privacy-center-1848378600)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
