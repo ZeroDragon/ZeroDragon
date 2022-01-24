@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 17](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-17-dh9)
+- [Dev.to/JS] [18 GitHub Repos for Learning JavaScript ❤️](https://dev.to/soniarpit/18-github-repos-for-learning-javascript-41e9)
+- [Dev.to/JS] [Leetcode diary: 198. House Robber](https://dev.to/kevin074/leetcode-diary-198-house-robber-1628)
+- [Dev.to/JS] [Health Benefits of CBD Oil — and a Look at Side Effects](https://dev.to/figibrands/health-benefits-of-cbd-oil-and-a-look-at-side-effects-3j2k)
+- [Dev.to/JS] [How and Why to Invoke the Android Number Pad](https://dev.to/kristenkinnearohlmann/how-and-why-to-invoke-the-android-number-pad-455o)
 - [Dev.to/JS] [Utilizing the Coinbase API in a Node.js Application](https://dev.to/ratracegrad/utilizing-the-coinbase-api-in-a-nodejs-application-723)
 - [Dev.to/JS] [Accessing the Coinbase API using OAuth2](https://dev.to/ratracegrad/accessing-the-coinbase-api-using-oauth2-994)
 - [Dev.to/JS] [return keyword JavaScript - A hidden hero we do not care about](https://dev.to/mkday/return-keyword-javascript-a-hidden-hero-we-do-not-care-about-48lo)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 GitHub Repositories You Should Know](https://dev.to/seths10/10-github-repositories-you-should-know-1ce7)
 - [Dev.to/JS] [Paracetamol.js💊| #27: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-27-que-imprime-este-codigo-javascript-5bd0)
 - [Dev.to/JS] [Tailwindcss and Sass](https://dev.to/desco/tailwindcss-and-sass-2ggj)
-- [Dev.to/JS] [JavaScript memory model demystified](https://dev.to/he_zhenghao/javascript-memory-model-demystified-3ma1)
-- [Dev.to/JS] [JavaScript for Making API Calls](https://dev.to/shittu_olumide_/javascript-for-making-api-calls-4lgk)
-- [Dev.to/JS] [Reverse-engineering frontend &lpar;Cuphead&#39;s film-grain effect&rpar;! Can you?](https://dev.to/michi/reverse-engineering-frontend-cupheads-film-grain-effect-can-you-c9o)
-- [Dev.to/JS] [Telescope. w2](https://dev.to/aserputov/telescope-w2-50g5)
-- [Dev.to/JS] [Empty Cache and Hard Reload in Chrome devTools](https://dev.to/heidi37/empty-cache-and-hard-reload-in-chrome-devtools-1eoe)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
