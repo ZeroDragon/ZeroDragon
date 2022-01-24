@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DarkMode in TailWind](https://dev.to/shashannkbawa/darkmode-in-tailwind-1i1n)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💙.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3b16)
 - [Dev.to/JS] [Latest Web Development and JavaScript Trends to Follow in 2022](https://dev.to/plazarev/latest-web-development-and-javascript-trends-to-follow-in-2022-118c)
 - [Dev.to/JS] [ICO Launchpad Development Company](https://dev.to/icodevelop007/ico-launchpad-development-company-2c55)
 - [Dev.to/JS] [Deploy a Web Scraper using Puppeteer, Node.js and Docker](https://dev.to/koyeb/deploy-a-web-scraper-using-puppeteer-nodejs-and-docker-3alm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Data Fetching: Axios](https://dev.to/drsimplegraffiti/react-data-fetching-axios-43i0)
 - [Dev.to/JS] [Understand JSON In Four Sentences](https://dev.to/elliot_brenyasarfo_18749/understand-json-in-four-sentences-5f5a)
 - [Dev.to/JS] [Best Learning Path to Master NextJS](https://dev.to/nirzal07/best-learning-path-to-master-nextjs-4ap8)
-- [Dev.to/JS] [TS or JS to be upcoming](https://dev.to/moadel/ts-or-js-to-be-upcoming-2d6c)
-- [Dev.to/JS] [Why custom react hooks could destroy your app performance](https://dev.to/adevnadia/why-custom-react-hooks-could-destroy-your-app-performance-nid)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
