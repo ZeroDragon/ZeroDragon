@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shut the Box - Board game &lpar;Android&rpar;](https://dev.to/antongustafsson/shut-the-box-board-game-android-3pab)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 17](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-17-dh9)
 - [Dev.to/JS] [18 GitHub Repos for Learning JavaScript ❤️](https://dev.to/soniarpit/18-github-repos-for-learning-javascript-41e9)
 - [Dev.to/JS] [Leetcode diary: 198. House Robber](https://dev.to/kevin074/leetcode-diary-198-house-robber-1628)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Question Mark &lpar;?&rpar; Operators ASAP](https://dev.to/ayubf/question-mark-operators-asap-316d)
 - [Dev.to/JS] [10 GitHub Repositories You Should Know](https://dev.to/seths10/10-github-repositories-you-should-know-1ce7)
 - [Dev.to/JS] [Paracetamol.js💊| #27: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-27-que-imprime-este-codigo-javascript-5bd0)
-- [Dev.to/JS] [Tailwindcss and Sass](https://dev.to/desco/tailwindcss-and-sass-2ggj)
 - [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
 - [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Lifehacker] [How to Prevent Carbon Monoxide Poisoning in Your Home During the Winter](https://lifehacker.com/how-to-prevent-carbon-monoxide-poisoning-in-your-home-d-1848405325)
