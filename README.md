@@ -31,7 +31,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [24/1/22](https://dev.to/shagon/24122-24pi)
 - [Dev.to/JS] [Paracetamol.js💊| #28: ¿Qué imprime este código JavaScript?](https://dev.to/duxtech/paracetamoljs-28-que-imprime-este-codigo-javascript-4gii)
 - [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
-- [Dev.to/JS] [Create a react app using context and hooks and reducers](https://dev.to/emkay860/create-a-react-app-using-context-and-hooks-and-reducers-3ad)
+- [Dev.to/JS] [Create a react app using context, hooks and reducers](https://dev.to/emkay860/create-a-react-app-using-context-and-hooks-and-reducers-3ad)
 - [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
 - [Dev.to/JS] [JavaScript Console more than just a log](https://dev.to/dom_the_dev/javascript-console-more-than-just-a-log-2kc7)
 - [Dev.to/JS] [Making a Card API Project | Day 17](https://dev.to/developerioweb/making-a-card-api-project-day-17-2p37)
