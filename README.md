@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Should Your Child Participate in Sports?](https://dev.to/slothfiber/why-should-your-child-participate-in-sports-4h93)
+- [Dev.to/JS] [JavaScript is Crazy - Part 2](https://dev.to/codewithsnowbit/javascript-is-crazy-part-2-3ac1)
+- [Dev.to/JS] [UseState is asynchronous: Learn how to use useState and useEffect properly](https://dev.to/fidalmathew/usestate-is-asynchronous-learn-how-to-use-usestate-and-useeffect-properly-1m1m)
+- [Dev.to/JS] [Is Angular Dead in 2022?](https://dev.to/jdgamble555/is-angular-dead-in-2022-bh9)
+- [Dev.to/JS] [How to Build a Webex Chatbot in Node.js](https://dev.to/alvinslee/how-to-build-a-webex-chatbot-in-nodejs-2n0n)
 - [Dev.to/JS] [Create a Scalable Naming System](https://dev.to/lrth06/create-a-scalable-naming-system-4ldn)
 - [Dev.to/JS] [In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm](https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp)
 - [Dev.to/JS] [[Javascript] Variable](https://dev.to/joylee/javascript-variable-4lip)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2.3 - Supabase an Open Source Alternative](https://dev.to/codingcatdev/23-supabase-an-open-source-alternative-42l)
 - [Dev.to/JS] [2.2 - Using No-Code with Builder.io - Part 2](https://dev.to/codingcatdev/22-using-no-code-with-builderio-part-2-38ch)
 - [Dev.to/JS] [2.1 - Using No-Code with Builder.io - Part 1](https://dev.to/codingcatdev/21-using-no-code-with-builderio-part-1-2fji)
-- [Dev.to/JS] [What are the differences between Svelte and react.js](https://dev.to/yaku/what-are-the-differences-between-svelte-and-reactjs-2n96)
-- [Dev.to/JS] [Holiday Funisode - Ask us Anything](https://dev.to/codingcatdev/holiday-funisode-ask-us-anything-251b)
-- [Dev.to/JS] [Four Reasons Why YOU Should Take the State of JavaScript Survey, Especially If You&#39;re a Beginner](https://dev.to/sachagreif/four-reasons-why-you-should-take-the-state-of-javascript-survey-especially-if-youre-a-beginner-547a)
-- [Dev.to/JS] [How to Secure a Job in 2022](https://dev.to/yaku/how-to-secure-a-job-in-2022-502d)
-- [Dev.to/JS] [1.51 - Creating Opportunities with Girl Develop It](https://dev.to/codingcatdev/151-creating-opportunities-with-girl-develop-it-nff)
 - [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
 - [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
 - [Lifehacker] [How to Stop Rushing Your Kids Out the Door in the Morning](https://lifehacker.com/how-to-stop-rushing-your-kids-out-the-door-in-the-morni-1848411071)
