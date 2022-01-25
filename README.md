@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Javascript] Variable](https://dev.to/joylee/javascript-variable-4lip)
+- [Dev.to/JS] [Development-only pages in Next.js](https://dev.to/tylerlwsmith/development-only-pages-in-nextjs-4fgo)
+- [Dev.to/JS] [2.3 - Supabase an Open Source Alternative](https://dev.to/codingcatdev/23-supabase-an-open-source-alternative-42l)
 - [Dev.to/JS] [2.2 - Using No-Code with Builder.io - Part 2](https://dev.to/codingcatdev/22-using-no-code-with-builderio-part-2-38ch)
 - [Dev.to/JS] [2.1 - Using No-Code with Builder.io - Part 1](https://dev.to/codingcatdev/21-using-no-code-with-builderio-part-1-2fji)
 - [Dev.to/JS] [What are the differences between Svelte and react.js](https://dev.to/yaku/what-are-the-differences-between-svelte-and-reactjs-2n96)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [1.51 - Creating Opportunities with Girl Develop It](https://dev.to/codingcatdev/151-creating-opportunities-with-girl-develop-it-nff)
 - [Dev.to/JS] [Mock isolated service in a React Application](https://dev.to/devneto/mock-isolated-service-in-a-react-application-4on3)
 - [Dev.to/JS] [Secure Online Voting is Possible. This is How](https://dev.to/realneilc/secure-online-voting-is-possible-this-is-how-2gda)
-- [Dev.to/JS] [1.50 - Making State Management Domain Agnostic with @derxjs](https://dev.to/codingcatdev/150-making-state-management-domain-agnostic-with-derxjs-1dh2)
-- [Dev.to/JS] [1.49 - Qwik the HTML First Framework](https://dev.to/codingcatdev/149-qwik-the-html-first-framework-1c2c)
-- [Dev.to/JS] [Smart Contracts and NFTs: The Future of Digital Transactions?](https://dev.to/yaku/smart-contracts-and-nfts-the-future-of-digital-transactions-4a52)
 - [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
 - [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
 - [Lifehacker] [How to Stop Rushing Your Kids Out the Door in the Morning](https://lifehacker.com/how-to-stop-rushing-your-kids-out-the-door-in-the-morni-1848411071)
