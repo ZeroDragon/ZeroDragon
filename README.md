@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animate Checkbox in React](https://dev.to/codewithsnowbit/animate-checkbox-in-react-30l0)
+- [Dev.to/JS] [Top 3 online code editors you must check out as a web developer](https://dev.to/kumarkalyan/top-3-online-code-editors-you-must-check-out-as-a-web-developer-1obe)
 - [Dev.to/JS] [How to extract year from a string](https://dev.to/codewithsnowbit/how-to-extract-year-from-a-string-i4h)
 - [Dev.to/JS] [Do You Know CSS Grid?](https://dev.to/kamaldeenlawal/do-you-know-css-grid-5go)
 - [Dev.to/JS] [Download only the pixels you need : image scaling with imagekit](https://dev.to/puka_tchou/download-only-the-pixels-you-need-image-scaling-with-imagekit-33dc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple nested JS Ternary](https://dev.to/mikayil/simple-nested-js-ternary-44bp)
 - [Dev.to/JS] [Higher Order Function in Javascript](https://dev.to/shubhamtiwari909/higher-order-function-in-javascript-1i5h)
 - [Dev.to/JS] [How to convert column index of a spreadsheet into letters](https://dev.to/all_stacks_developer/how-to-convert-column-index-of-a-spreadsheet-into-letters-31k0)
-- [Dev.to/JS] [2022年最全梯子游戏打法讲解与规律掌握，走势规律均值算法单双预测](https://dev.to/9558448qqcom1/2022nian-zui-quan-ti-zi-you-xi-da-fa-jiang-jie-yu-gui-lu-zhang-wo-zou-shi-gui-lu-jun-zhi-suan-fa-dan-shuang-yu-ce-3lo6)
-- [Dev.to/JS] [Hawkeye Hemp Gummies - Pain Relief Results, Price, Reviews And Benefits](https://dev.to/hawkeyehempinfo/hawkeye-hemp-gummies-pain-relief-results-price-reviews-and-benefits-4bdc)
 - [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
 - [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
 - [Lifehacker] [How to Stop Rushing Your Kids Out the Door in the Morning](https://lifehacker.com/how-to-stop-rushing-your-kids-out-the-door-in-the-morni-1848411071)
