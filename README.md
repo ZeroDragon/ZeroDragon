@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your iPhone&#39;s Alarm Doesn&#39;t Have to Be so Annoying](https://lifehacker.com/your-iphones-alarm-doesnt-have-to-be-so-annoying-1848417806)
+- [Dev.to/JS] [Introduction to E2015 Set Objects](https://dev.to/naftalimurgor/introduction-to-e2015-set-objects-534a)
+- [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
+- [Dev.to/JS] [Introduction to ES6 Map objects](https://dev.to/naftalimurgor/introduction-to-es6-map-objects-17fi)
+- [Dev.to/JS] [Building a NodeJS server like Express from scratch](https://dev.to/gabrieljm/building-a-nodejs-server-like-express-from-scratch-3mn8)
+- [Dev.to/JS] [Replacing Else statements for better coding](https://dev.to/arriagar/replacing-else-statements-for-better-coding-fjm)
+- [Dev.to/JS] [Basics of Typescript Built-in Types](https://dev.to/aneeqakhan/basics-of-typescript-built-in-types-1de2)
+- [Dev.to/JS] [I created a android game using html css and typescript](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-295g)
 - [Lifehacker] [How Cold Is Too Cold to Run Outside?](https://lifehacker.com/how-cold-is-too-cold-to-run-outside-1848412600)
 - [Dev.to/JS] [Dad-Joke API Project | Day 18](https://dev.to/developerioweb/dad-joke-api-project-day-18-g6p)
 - [Dev.to/JS] [Why I prefer tailwindcss over styled-components?](https://dev.to/tonykhaov/why-i-prefer-tailwindcss-over-styled-components-4j4g)
@@ -35,14 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add BootstrapVue to VuePress](https://dev.to/conorsheehan1/add-bootstrapvue-to-vuepress-3h7g)
 - [Lifehacker] [Tough Questions You Should Always Ask a Hiring Manager](https://lifehacker.com/tough-questions-you-should-always-ask-a-hiring-manager-1848418098)
 - [Dev.to/JS] [Puppeteer IDE Extension: What&#39;s new ?](https://dev.to/gajananpp/puppeteer-ide-extension-whats-new--2ae2)
-- [Dev.to/JS] [New to Freelancing? Trash that CV!](https://dev.to/gabrilator/new-to-freelancing-trash-that-cv-2gjl)
-- [Dev.to/JS] [Learn Javascript  from Google &lpar;FREE&rpar; : a Code With Google program.](https://dev.to/practical_coder123/learn-javascript-from-google-free-a-code-with-google-program-59bm)
-- [Dev.to/JS] [Async JavaScript](https://dev.to/pushanverma/async-javascript-17ob)
 - [Lifehacker] [The &#39;Doomsday Clock&#39; Is Stupid, Actually](https://lifehacker.com/the-doomsday-clock-is-stupid-actually-1848414345)
-- [Dev.to/JS] [Filter Lambda Events from DynamoDB Stream &lpar;with CDK&rpar;](https://dev.to/dvddpl/filter-lambda-events-from-dynamodb-stream-with-cdk-1gnm)
-- [Dev.to/JS] [#25 - Remove consecutive duplicate words
-CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/25-remove-consecutive-duplicate-wordscodewars-kata-6-kyu-2f6d)
-- [Dev.to/JS] [Awes😀me VScode Window Colors Extension](https://dev.to/saiarlen/awesme-vscode-window-colors-extension-2ifp)
 - [Lifehacker] [This App Makes Your Cheap Mouse Work Better Than Trackpad Gestures](https://lifehacker.com/this-app-makes-your-cheap-mouse-work-better-than-trackp-1848416099)
 - [Lifehacker] [8 Ways to Appear Offline on Social Media so You Can Lurk in Peace](https://lifehacker.com/8-ways-to-appear-offline-on-social-media-so-you-can-lur-1848409325)
 - [Lifehacker] [Why You Should Delete Your YouTube History Often &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-delete-your-youtube-history-often-and-h-1848414082)
@@ -59,8 +60,6 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/25-remove-consecutive
 - [Lifehacker] [How to Handle a Clingy Child](https://lifehacker.com/how-to-handle-a-clingy-child-1848408766)
 - [Lifehacker] [All the Ways You Should Be Using a Raw Potato for Common Household Tasks](https://lifehacker.com/all-the-ways-you-should-be-using-a-raw-potato-for-commo-1848409591)
 - [Lifehacker] [How to Use Captions to Organize Your iPhone Photo Library](https://lifehacker.com/how-to-use-captions-to-organize-your-iphone-photo-libra-1848409263)
-- [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
-- [Lifehacker] [How to Prevent Frozen Pipes &lpar;and What to Do If They Freeze Anyway&rpar;](https://lifehacker.com/how-to-prevent-frozen-pipes-and-what-to-do-if-they-fre-1848409008)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
