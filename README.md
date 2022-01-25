@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple nested JS Ternary](https://dev.to/mikayil/simple-nested-js-ternary-44bp)
+- [Dev.to/JS] [Higher Order Function in Javascript](https://dev.to/shubhamtiwari909/higher-order-function-in-javascript-1i5h)
+- [Dev.to/JS] [How to convert column index of a spreadsheet into letters](https://dev.to/all_stacks_developer/how-to-convert-column-index-of-a-spreadsheet-into-letters-31k0)
+- [Dev.to/JS] [2022年最全梯子游戏打法讲解与规律掌握，走势规律均值算法单双预测](https://dev.to/9558448qqcom1/2022nian-zui-quan-ti-zi-you-xi-da-fa-jiang-jie-yu-gui-lu-zhang-wo-zou-shi-gui-lu-jun-zhi-suan-fa-dan-shuang-yu-ce-3lo6)
 - [Dev.to/JS] [Hawkeye Hemp Gummies - Pain Relief Results, Price, Reviews And Benefits](https://dev.to/hawkeyehempinfo/hawkeye-hemp-gummies-pain-relief-results-price-reviews-and-benefits-4bdc)
 - [Dev.to/JS] [Add a Team Poll to Any Rocket.Chat Channel](https://dev.to/rohanlekhwani/add-a-team-poll-to-any-rocketchat-channel-35fj)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 18](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-18-a2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript is Crazy - Part 2](https://dev.to/codewithsnowbit/javascript-is-crazy-part-2-3ac1)
 - [Dev.to/JS] [UseState is asynchronous: Learn how to use useState and useEffect properly](https://dev.to/fidalmathew/usestate-is-asynchronous-learn-how-to-use-usestate-and-useeffect-properly-1m1m)
 - [Dev.to/JS] [Is Angular Dead in 2022?](https://dev.to/jdgamble555/is-angular-dead-in-2022-bh9)
-- [Dev.to/JS] [How to Build a Webex Chatbot in Node.js](https://dev.to/alvinslee/how-to-build-a-webex-chatbot-in-nodejs-2n0n)
-- [Dev.to/JS] [Create a Scalable Naming System](https://dev.to/lrth06/create-a-scalable-naming-system-4ldn)
-- [Dev.to/JS] [In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm](https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp)
-- [Dev.to/JS] [[Javascript] Variable](https://dev.to/joylee/javascript-variable-4lip)
 - [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
 - [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
 - [Lifehacker] [How to Stop Rushing Your Kids Out the Door in the Morning](https://lifehacker.com/how-to-stop-rushing-your-kids-out-the-door-in-the-morni-1848411071)
