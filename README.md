@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to position and resize window that is opened by React](https://dev.to/cmurphy580/how-to-position-and-resize-window-that-is-opened-by-react-59j6)
+- [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
+- [Dev.to/JS] [Run Your Own RSS Server on AWS with Pulumi](https://dev.to/pulumi/run-your-own-rss-server-on-aws-with-pulumi-2n0j)
+- [Dev.to/JS] [How To: Build A Linked List in JavaScript Part 3](https://dev.to/am20dipi/how-to-build-a-linked-list-in-javascript-part-3-77m)
 - [Lifehacker] [Your iPhone&#39;s Alarm Doesn&#39;t Have to Be so Annoying](https://lifehacker.com/your-iphones-alarm-doesnt-have-to-be-so-annoying-1848417806)
 - [Dev.to/JS] [Introduction to E2015 Set Objects](https://dev.to/naftalimurgor/introduction-to-e2015-set-objects-534a)
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
@@ -35,14 +39,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dad-Joke API Project | Day 18](https://dev.to/developerioweb/dad-joke-api-project-day-18-g6p)
 - [Dev.to/JS] [Why I prefer tailwindcss over styled-components?](https://dev.to/tonykhaov/why-i-prefer-tailwindcss-over-styled-components-4j4g)
 - [Dev.to/JS] [Switches get stitches - a strategy for writing cleaner code.](https://dev.to/pyronaur/switches-get-stitches-a-strategy-for-writing-cleaner-code-3g17)
-- [Dev.to/JS] [JWT Authentication Using TypeScript, Express.js, &amp; MongoDB](https://dev.to/devtips3/jwt-authentication-using-typescript-expressjs-mongodb-23pl)
 - [Lifehacker] [How to Remove Stubborn Carpet Padding From Your Hardwood Floors](https://lifehacker.com/how-to-remove-stubborn-carpet-padding-from-your-hardwoo-1848415560)
 - [Lifehacker] [The Secret to Making Colonoscopy Prep Bearable](https://lifehacker.com/the-secret-to-making-colonoscopy-prep-less-shitty-1848416858)
 - [Lifehacker] [The Easiest, Cheapest Way to Train by Heart Rate](https://lifehacker.com/the-easiest-cheapest-way-to-train-by-heart-rate-1848418584)
 - [Lifehacker] [Yes, You Should Use a Mug to Make Perfectly Round Cookies](https://lifehacker.com/yes-you-should-use-a-mug-to-make-perfectly-round-cooki-1848417098)
-- [Dev.to/JS] [Add BootstrapVue to VuePress](https://dev.to/conorsheehan1/add-bootstrapvue-to-vuepress-3h7g)
 - [Lifehacker] [Tough Questions You Should Always Ask a Hiring Manager](https://lifehacker.com/tough-questions-you-should-always-ask-a-hiring-manager-1848418098)
-- [Dev.to/JS] [Puppeteer IDE Extension: What&#39;s new ?](https://dev.to/gajananpp/puppeteer-ide-extension-whats-new--2ae2)
 - [Lifehacker] [The &#39;Doomsday Clock&#39; Is Stupid, Actually](https://lifehacker.com/the-doomsday-clock-is-stupid-actually-1848414345)
 - [Lifehacker] [This App Makes Your Cheap Mouse Work Better Than Trackpad Gestures](https://lifehacker.com/this-app-makes-your-cheap-mouse-work-better-than-trackp-1848416099)
 - [Lifehacker] [8 Ways to Appear Offline on Social Media so You Can Lurk in Peace](https://lifehacker.com/8-ways-to-appear-offline-on-social-media-so-you-can-lur-1848409325)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Join This Class Action Lawsuit If You Use Venmo](https://lifehacker.com/you-should-join-this-class-action-lawsuit-against-venmo-1848410390)
 - [Lifehacker] [How to Handle a Clingy Child](https://lifehacker.com/how-to-handle-a-clingy-child-1848408766)
 - [Lifehacker] [All the Ways You Should Be Using a Raw Potato for Common Household Tasks](https://lifehacker.com/all-the-ways-you-should-be-using-a-raw-potato-for-commo-1848409591)
-- [Lifehacker] [How to Use Captions to Organize Your iPhone Photo Library](https://lifehacker.com/how-to-use-captions-to-organize-your-iphone-photo-libra-1848409263)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
