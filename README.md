@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [17 Killer Websites You Should Use to Increase Productivity 🚀💯](https://dev.to/madza/17-killer-websites-you-should-use-to-increase-productivity-2enk)
+- [Lifehacker] [8 Ways to Appear Offline on Social Media so You Can Lurk in Peace](https://lifehacker.com/8-ways-to-appear-offline-on-social-media-so-you-can-lur-1848409325)
+- [Dev.to/JS] [GurImg :- Free Unlimited Image Hosting - Direct Link](https://dev.to/sh20raj/gurimg-free-unlimited-image-hosting-direct-link-2b1i)
+- [Dev.to/JS] [Our favorite browser console one-liners](https://dev.to/everlyhealth/our-favorite-browser-console-one-liners-36c0)
+- [Dev.to/JS] [Going, going 2nd day, week 3, phase 1..](https://dev.to/kinzojusti/going-going-2nd-day-week-3-phase-1-3a76)
+- [Dev.to/JS] [Do you need a GraphQL client for your frontend?](https://dev.to/thetombomb/do-you-need-a-graphql-client-for-your-frontend-nk3)
+- [Dev.to/JS] [Build a Twitter Clone with ReactJS](https://dev.to/linhtch90/build-a-twitter-clone-with-reactjs-4d00)
+- [Dev.to/JS] [17 Killer Web Apps You Should Use to Increase Productivity 🚀💯](https://dev.to/madza/17-killer-websites-you-should-use-to-increase-productivity-2enk)
 - [Lifehacker] [Why You Should Delete Your YouTube History Often &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-delete-your-youtube-history-often-and-h-1848414082)
 - [Dev.to/JS] [Medusa: Node.js ecommerce platform for 11ty](https://dev.to/medusajs/medusa-nodejs-ecommerce-platform-for-11ty-403p)
 - [Lifehacker] [How to Download Everything Amazon Knows About You &lpar;It&#39;s a Lot&rpar;](https://lifehacker.com/how-to-download-everything-amazon-knows-about-you-its-1848412242)
@@ -32,13 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Can anyone help me why this error are show?](https://dev.to/arif0ne/can-anyone-help-me-why-this-error-are-show-1ml3)
 - [Dev.to/JS] [25/1/22](https://dev.to/shagon/25122-4bbf)
 - [Dev.to/JS] [Paracetamol.js💊| #30: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-30-explica-este-codigo-javascript-4ekn)
-- [Dev.to/JS] [Paracetamol.js💊| #29: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-29-explica-este-codigo-javascript-96f)
-- [Dev.to/JS] [Creating a MERN stack app that uses Firebase Authentication - Part Two](https://dev.to/bbarbour/creating-a-mern-stack-app-that-uses-firebase-authentication-part-two-5bio)
-- [Dev.to/JS] [Debugging RAM: Detect/Fix Memory Leaks in Managed Languages - Heap Deep Dive, Part 2](https://dev.to/codenameone/debugging-ram-detectfix-memory-leaks-in-managed-languages-heap-deep-dive-part-2-384h)
 - [Lifehacker] [Does Mouthwash Actually Do Anything?](https://lifehacker.com/does-mouthwash-actually-do-anything-1848413256)
-- [Dev.to/JS] [Choosing the right backend framework is an art](https://dev.to/prafful/how-to-choose-right-backend-26f2)
 - [Lifehacker] [Use These Phrases to Sound More Emotionally Intelligent at Work &lpar;and in Life&rpar;](https://lifehacker.com/use-these-phrases-to-sound-more-emotionally-intelligent-1848412296)
-- [Dev.to/JS] [Hosting Next.JS on Plesk](https://dev.to/jameswiseman/hosting-nextjs-on-plesk-4jnh)
 - [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
 - [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
 - [Lifehacker] [How to Stop Rushing Your Kids Out the Door in the Morning](https://lifehacker.com/how-to-stop-rushing-your-kids-out-the-door-in-the-morni-1848411071)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Answer These Questions Before Buying a House With a Friend](https://lifehacker.com/answer-these-questions-before-buying-a-house-with-a-fri-1848403290)
 - [Lifehacker] [The Best Way to Clean Your Bathroom Exhaust Fan](https://lifehacker.com/the-best-way-to-clean-your-bathroom-exhaust-fan-1848403269)
 - [Lifehacker] [What to Do If Your Dog Eats Chocolate](https://lifehacker.com/what-to-do-if-your-dog-eats-chocolate-1848403278)
-- [Lifehacker] [What&#39;s New on HBO Max in February 2022](https://lifehacker.com/whats-new-on-hbo-max-in-february-2022-1848402355)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
