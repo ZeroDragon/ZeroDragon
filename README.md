@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Remove Stubborn Carpet Padding From Your Hardwood Floors](https://lifehacker.com/how-to-remove-stubborn-carpet-padding-from-your-hardwoo-1848415560)
+- [Dev.to/JS] [Incredible CSS Animations tips You Have to See](https://dev.to/yaku/the-most-incredible-css-animations-tips-you-have-to-see-1bpj)
+- [Lifehacker] [The Secret to Making Colonoscopy Prep Bearable](https://lifehacker.com/the-secret-to-making-colonoscopy-prep-less-shitty-1848416858)
+- [Lifehacker] [The Easiest, Cheapest Way to Train by Heart Rate](https://lifehacker.com/the-easiest-cheapest-way-to-train-by-heart-rate-1848418584)
 - [Lifehacker] [Yes, You Should Use a Mug to Make Perfectly Round Cookies](https://lifehacker.com/yes-you-should-use-a-mug-to-make-perfectly-round-cooki-1848417098)
 - [Dev.to/JS] [Add BootstrapVue to VuePress](https://dev.to/conorsheehan1/add-bootstrapvue-to-vuepress-3h7g)
 - [Lifehacker] [Tough Questions You Should Always Ask a Hiring Manager](https://lifehacker.com/tough-questions-you-should-always-ask-a-hiring-manager-1848418098)
@@ -40,7 +44,6 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/25-remove-consecutive
 - [Dev.to/JS] [Testing with react-i18next in RedwoodJS](https://dev.to/noiremunich/testing-with-react-i18next-in-redwoodjs-2958)
 - [Dev.to/JS] [A Complete Guide to the Amplify React Authentication Components](https://dev.to/aspittel/a-complete-guide-to-the-amplify-react-authentication-components-11p1)
 - [Lifehacker] [8 Ways to Appear Offline on Social Media so You Can Lurk in Peace](https://lifehacker.com/8-ways-to-appear-offline-on-social-media-so-you-can-lur-1848409325)
-- [Dev.to/JS] [GurImg :- Free Unlimited Image Hosting - Direct Link](https://dev.to/sh20raj/gurimg-free-unlimited-image-hosting-direct-link-2b1i)
 - [Lifehacker] [Why You Should Delete Your YouTube History Often &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-delete-your-youtube-history-often-and-h-1848414082)
 - [Lifehacker] [How to Download Everything Amazon Knows About You &lpar;It&#39;s a Lot&rpar;](https://lifehacker.com/how-to-download-everything-amazon-knows-about-you-its-1848412242)
 - [Lifehacker] [Does Mouthwash Actually Do Anything?](https://lifehacker.com/does-mouthwash-actually-do-anything-1848413256)
@@ -58,9 +61,6 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/25-remove-consecutive
 - [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
 - [Lifehacker] [How to Prevent Frozen Pipes &lpar;and What to Do If They Freeze Anyway&rpar;](https://lifehacker.com/how-to-prevent-frozen-pipes-and-what-to-do-if-they-fre-1848409008)
 - [Lifehacker] [How to Use Your iPhone as Magnifying Glass For Anything In The World](https://lifehacker.com/how-to-use-your-iphone-as-magnifying-glass-for-anything-1848409224)
-- [Lifehacker] [How to Make Store-Bought Mayonnaise Taste Homemade](https://lifehacker.com/how-to-make-store-bought-mayonnaise-taste-homemade-1848402829)
-- [Lifehacker] [How to Rid Your Secondhand Furniture of That Thrift Store Smell](https://lifehacker.com/how-to-rid-your-secondhand-furniture-of-that-thrift-sto-1848405333)
-- [Lifehacker] [Everything You Shouldn’t Do to Your Hair During the Winter](https://lifehacker.com/everything-you-shouldn-t-do-to-your-hair-during-the-win-1848405329)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
