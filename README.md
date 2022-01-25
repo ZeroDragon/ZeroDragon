@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hawkeye Hemp Gummies - Pain Relief Results, Price, Reviews And Benefits](https://dev.to/hawkeyehempinfo/hawkeye-hemp-gummies-pain-relief-results-price-reviews-and-benefits-4bdc)
 - [Dev.to/JS] [Add a Team Poll to Any Rocket.Chat Channel](https://dev.to/rohanlekhwani/add-a-team-poll-to-any-rocketchat-channel-35fj)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 18](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-18-a2)
 - [Dev.to/JS] [Business Intelligence vs. Data Mining](https://dev.to/brisklogic/business-intelligence-vs-data-mining-255k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Scalable Naming System](https://dev.to/lrth06/create-a-scalable-naming-system-4ldn)
 - [Dev.to/JS] [In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm](https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp)
 - [Dev.to/JS] [[Javascript] Variable](https://dev.to/joylee/javascript-variable-4lip)
-- [Dev.to/JS] [Development-only pages in Next.js](https://dev.to/tylerlwsmith/development-only-pages-in-nextjs-4fgo)
 - [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
 - [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
 - [Lifehacker] [How to Stop Rushing Your Kids Out the Door in the Morning](https://lifehacker.com/how-to-stop-rushing-your-kids-out-the-door-in-the-morni-1848411071)
