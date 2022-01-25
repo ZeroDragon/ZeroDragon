@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Cold Is Too Cold to Run Outside?](https://lifehacker.com/how-cold-is-too-cold-to-run-outside-1848412600)
+- [Dev.to/JS] [Dad-Joke API Project | Day 18](https://dev.to/developerioweb/dad-joke-api-project-day-18-g6p)
+- [Dev.to/JS] [Why I prefer tailwindcss over styled-components?](https://dev.to/tonykhaov/why-i-prefer-tailwindcss-over-styled-components-4j4g)
+- [Dev.to/JS] [Switches get stitches - a strategy for writing cleaner code.](https://dev.to/pyronaur/switches-get-stitches-a-strategy-for-writing-cleaner-code-3g17)
+- [Dev.to/JS] [JWT Authentication Using TypeScript, Express.js, &amp; MongoDB](https://dev.to/devtips3/jwt-authentication-using-typescript-expressjs-mongodb-23pl)
 - [Lifehacker] [How to Remove Stubborn Carpet Padding From Your Hardwood Floors](https://lifehacker.com/how-to-remove-stubborn-carpet-padding-from-your-hardwoo-1848415560)
-- [Dev.to/JS] [Incredible CSS Animations tips You Have to See](https://dev.to/yaku/the-most-incredible-css-animations-tips-you-have-to-see-1bpj)
 - [Lifehacker] [The Secret to Making Colonoscopy Prep Bearable](https://lifehacker.com/the-secret-to-making-colonoscopy-prep-less-shitty-1848416858)
 - [Lifehacker] [The Easiest, Cheapest Way to Train by Heart Rate](https://lifehacker.com/the-easiest-cheapest-way-to-train-by-heart-rate-1848418584)
 - [Lifehacker] [Yes, You Should Use a Mug to Make Perfectly Round Cookies](https://lifehacker.com/yes-you-should-use-a-mug-to-make-perfectly-round-cooki-1848417098)
@@ -40,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/25-remove-consecutive-duplicate-wordscodewars-kata-6-kyu-2f6d)
 - [Dev.to/JS] [Awes😀me VScode Window Colors Extension](https://dev.to/saiarlen/awesme-vscode-window-colors-extension-2ifp)
 - [Lifehacker] [This App Makes Your Cheap Mouse Work Better Than Trackpad Gestures](https://lifehacker.com/this-app-makes-your-cheap-mouse-work-better-than-trackp-1848416099)
-- [Dev.to/JS] [How JavaScript works behind the scenes?](https://dev.to/amolshelke2/how-javascript-works-behind-the-scenes-3bhj)
-- [Dev.to/JS] [Testing with react-i18next in RedwoodJS](https://dev.to/noiremunich/testing-with-react-i18next-in-redwoodjs-2958)
-- [Dev.to/JS] [A Complete Guide to the Amplify React Authentication Components](https://dev.to/aspittel/a-complete-guide-to-the-amplify-react-authentication-components-11p1)
 - [Lifehacker] [8 Ways to Appear Offline on Social Media so You Can Lurk in Peace](https://lifehacker.com/8-ways-to-appear-offline-on-social-media-so-you-can-lur-1848409325)
 - [Lifehacker] [Why You Should Delete Your YouTube History Often &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-delete-your-youtube-history-often-and-h-1848414082)
 - [Lifehacker] [How to Download Everything Amazon Knows About You &lpar;It&#39;s a Lot&rpar;](https://lifehacker.com/how-to-download-everything-amazon-knows-about-you-its-1848412242)
@@ -60,7 +61,6 @@ CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/25-remove-consecutive
 - [Lifehacker] [How to Use Captions to Organize Your iPhone Photo Library](https://lifehacker.com/how-to-use-captions-to-organize-your-iphone-photo-libra-1848409263)
 - [Lifehacker] [How to Survive a Massive Blizzard](https://lifehacker.com/how-to-survive-a-massive-blizzard-1848409946)
 - [Lifehacker] [How to Prevent Frozen Pipes &lpar;and What to Do If They Freeze Anyway&rpar;](https://lifehacker.com/how-to-prevent-frozen-pipes-and-what-to-do-if-they-fre-1848409008)
-- [Lifehacker] [How to Use Your iPhone as Magnifying Glass For Anything In The World](https://lifehacker.com/how-to-use-your-iphone-as-magnifying-glass-for-anything-1848409224)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
