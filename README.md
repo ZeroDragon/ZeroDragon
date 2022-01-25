@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Compnent Rerender won&#39;t rerender on State Change](https://dev.to/birdfeathers/react-compnent-rerender-wont-rerender-on-state-change-5h67)
+- [Dev.to/JS] [Data management strategies for microservices - 100 Days od CSH #4](https://dev.to/adrianghub/data-management-strategies-for-microservices-100-days-od-csh-4-3i38)
+- [Dev.to/JS] [generate android app from website url with api](https://dev.to/amreldessouki/generate-android-app-from-website-url-with-api-6ha)
+- [Dev.to/JS] [Apa itu Variabel?](https://dev.to/irlanvila/apa-itu-variabel-2ap6)
 - [Dev.to/JS] [How to position and resize window that is opened by React](https://dev.to/cmurphy580/how-to-position-and-resize-window-that-is-opened-by-react-59j6)
 - [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
 - [Dev.to/JS] [Run Your Own RSS Server on AWS with Pulumi](https://dev.to/pulumi/run-your-own-rss-server-on-aws-with-pulumi-2n0j)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a NodeJS server like Express from scratch](https://dev.to/gabrieljm/building-a-nodejs-server-like-express-from-scratch-3mn8)
 - [Dev.to/JS] [Replacing Else statements for better coding](https://dev.to/arriagar/replacing-else-statements-for-better-coding-fjm)
 - [Dev.to/JS] [Basics of Typescript Built-in Types](https://dev.to/aneeqakhan/basics-of-typescript-built-in-types-1de2)
-- [Dev.to/JS] [I created a android game using html css and typescript](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-295g)
 - [Lifehacker] [How Cold Is Too Cold to Run Outside?](https://lifehacker.com/how-cold-is-too-cold-to-run-outside-1848412600)
-- [Dev.to/JS] [Dad-Joke API Project | Day 18](https://dev.to/developerioweb/dad-joke-api-project-day-18-g6p)
-- [Dev.to/JS] [Why I prefer tailwindcss over styled-components?](https://dev.to/tonykhaov/why-i-prefer-tailwindcss-over-styled-components-4j4g)
-- [Dev.to/JS] [Switches get stitches - a strategy for writing cleaner code.](https://dev.to/pyronaur/switches-get-stitches-a-strategy-for-writing-cleaner-code-3g17)
 - [Lifehacker] [How to Remove Stubborn Carpet Padding From Your Hardwood Floors](https://lifehacker.com/how-to-remove-stubborn-carpet-padding-from-your-hardwoo-1848415560)
 - [Lifehacker] [The Secret to Making Colonoscopy Prep Bearable](https://lifehacker.com/the-secret-to-making-colonoscopy-prep-less-shitty-1848416858)
 - [Lifehacker] [The Easiest, Cheapest Way to Train by Heart Rate](https://lifehacker.com/the-easiest-cheapest-way-to-train-by-heart-rate-1848418584)
