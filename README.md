@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Scalable Naming System](https://dev.to/lrth06/create-a-scalable-naming-system-4ldn)
+- [Dev.to/JS] [In-depth of tnpm rapid mode - how we managed to be 10 second faster than pnpm](https://dev.to/atian25/in-depth-of-tnpm-rapid-mode-how-could-we-fast-10s-than-pnpm-3bpp)
 - [Dev.to/JS] [[Javascript] Variable](https://dev.to/joylee/javascript-variable-4lip)
 - [Dev.to/JS] [Development-only pages in Next.js](https://dev.to/tylerlwsmith/development-only-pages-in-nextjs-4fgo)
 - [Dev.to/JS] [2.3 - Supabase an Open Source Alternative](https://dev.to/codingcatdev/23-supabase-an-open-source-alternative-42l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Four Reasons Why YOU Should Take the State of JavaScript Survey, Especially If You&#39;re a Beginner](https://dev.to/sachagreif/four-reasons-why-you-should-take-the-state-of-javascript-survey-especially-if-youre-a-beginner-547a)
 - [Dev.to/JS] [How to Secure a Job in 2022](https://dev.to/yaku/how-to-secure-a-job-in-2022-502d)
 - [Dev.to/JS] [1.51 - Creating Opportunities with Girl Develop It](https://dev.to/codingcatdev/151-creating-opportunities-with-girl-develop-it-nff)
-- [Dev.to/JS] [Mock isolated service in a React Application](https://dev.to/devneto/mock-isolated-service-in-a-react-application-4on3)
-- [Dev.to/JS] [Secure Online Voting is Possible. This is How](https://dev.to/realneilc/secure-online-voting-is-possible-this-is-how-2gda)
 - [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
 - [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
 - [Lifehacker] [How to Stop Rushing Your Kids Out the Door in the Morning](https://lifehacker.com/how-to-stop-rushing-your-kids-out-the-door-in-the-morni-1848411071)
