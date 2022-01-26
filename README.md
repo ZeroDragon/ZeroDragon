@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s Prisma Time - Logging](https://dev.to/this-is-learning/its-prisma-time-logging-4i7m)
+- [Dev.to/JS] [JavaScript Ternary Operator](https://dev.to/this-is-learning/javascript-ternary-operator-3kc2)
+- [Dev.to/JS] [How to access submitted form data value from request in ExpressJS](https://dev.to/codever/how-to-access-submitted-form-data-value-from-request-in-expressjs-knf)
+- [Dev.to/JS] [How to disable web fonts](https://dev.to/katzueno/how-to-disable-web-fonts-2njj)
 - [Dev.to/JS] [What’s New In Chrome&#39;s DevTools?](https://dev.to/sktanwar2014/whats-new-in-chromes-devtools-4pg)
 - [Dev.to/JS] [Don&#39;t over-engineer it](https://dev.to/burhanuday/dont-over-engineer-it-1013)
 - [Dev.to/JS] [Javascript Wordle Type Game](https://dev.to/ozboware/one-way-to-make-a-wordle-type-game-using-javascript-6gh)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: Don&#39;t use replaceAll](https://dev.to/abdulghofurme/javascript-dont-use-replaceall-1ia8)
 - [Dev.to/JS] [I created a android game using html css and typescript](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-jfl)
 - [Dev.to/JS] [How to Scan Document from Scanner and Camera Using JavaScript](https://dev.to/yushulx/how-to-scan-document-from-scanner-and-camera-using-javascript-4jmh)
-- [Dev.to/JS] [The Return of Server Side Routing](https://dev.to/this-is-learning/the-return-of-server-side-routing-b05)
-- [Dev.to/JS] [The first time I printed &quot;Hello, world!&quot;](https://dev.to/songa1/the-first-time-i-printed-hello-world-33lb)
-- [Dev.to/JS] [React Compnent Rerender won&#39;t rerender on State Change](https://dev.to/birdfeathers/react-compnent-rerender-wont-rerender-on-state-change-5h67)
-- [Dev.to/JS] [Data management strategies for microservices - 100 Days od CSH #4](https://dev.to/adrianghub/data-management-strategies-for-microservices-100-days-od-csh-4-3i38)
 - [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
 - [Lifehacker] [Your iPhone&#39;s Alarm Doesn&#39;t Have to Be so Annoying](https://lifehacker.com/your-iphones-alarm-doesnt-have-to-be-so-annoying-1848417806)
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
