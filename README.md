@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add Tooltips in HTML &amp; CSS](https://dev.to/softcodeon/how-to-add-tooltips-in-html-css-bb6)
+- [Dev.to/JS] [Monorepos. 2022](https://dev.to/etc088/monorepos-2022-1408)
+- [Lifehacker] [You Can Get Better at Using the Right Pronouns &lpar;Without Being Offensive&rpar;](https://lifehacker.com/you-can-get-better-at-using-the-right-pronouns-without-1848421018)
+- [Dev.to/JS] [1 line of code: How to reverse all words of a string](https://dev.to/martinkr/1-line-of-code-how-to-reverse-all-words-of-a-string-n26)
+- [Lifehacker] [It&#39;s Almost Too Easy to Make Your Own Kettle Corn](https://lifehacker.com/its-almost-too-easy-to-make-your-own-kettle-corn-1848421247)
+- [Dev.to/JS] [Responsive Message Box with JavaScript Class](https://dev.to/takaneichinose/responsive-message-box-with-javascript-class-25ie)
+- [Dev.to/JS] [URLRealm - Link Shortner.](https://dev.to/mayankvikash/urlrealm-link-shortner-513b)
 - [Lifehacker] [10 of the Most Common Gym Machines and How to Use Them](https://lifehacker.com/10-of-the-most-common-gym-machines-and-how-to-use-them-1848417507)
 - [Dev.to/JS] [Am new here am a software developer and programmer and I need all the help I can get](https://dev.to/sliverdev/am-new-here-am-a-software-developer-and-programmer-and-i-need-all-the-help-i-can-get-2273)
 - [Dev.to/JS] [Paracetamol.js💊| #32: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-32-explica-este-codigo-javascript-93i)
@@ -32,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Have We All Been Using Mouthwash at the Wrong Time?](https://lifehacker.com/have-we-all-been-using-mouthwash-at-the-wrong-time-1848418920)
 - [Dev.to/JS] [Primitive Values And Reference Values As Regards Memory Allocation](https://dev.to/marienoir/primitive-values-and-reference-values-as-regards-memory-allocation-1nb5)
 - [Dev.to/JS] [How to Hire JS Developers: A Brave New World](https://dev.to/jay_devs/how-to-hire-js-developers-a-brave-new-world-1d6m)
-- [Dev.to/JS] [When to use useCallback?](https://dev.to/romaintrotard/when-to-use-usecallback-3o6e)
 - [Lifehacker] [Use These Types of Volunteer Jobs to Selfishly Advance Your Career](https://lifehacker.com/use-these-types-of-volunteer-jobs-to-selfishly-advance-1848418702)
-- [Dev.to/JS] [Show page no. in UI in Cursor pagination or infinite scroll](https://dev.to/sahilkashyap64/show-page-no-in-ui-in-cursor-pagination-or-infinite-scroll-4m9l)
-- [Dev.to/JS] [Javascript map&lpar;&rpar; function](https://dev.to/khafidprayoga/javascript-map-function-21gk)
-- [Dev.to/JS] [Extendible React Components](https://dev.to/nitsancohen770/extendible-react-components-1a81)
 - [Lifehacker] [How to Spot a &#39;Dark Empath&#39;](https://lifehacker.com/how-to-spot-a-dark-empath-1848378629)
-- [Dev.to/JS] [UFO Coin Is Starting](https://dev.to/sreehari521/ufo-coin-starting-4b2c)
 - [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
 - [Lifehacker] [Your iPhone&#39;s Alarm Doesn&#39;t Have to Be so Annoying](https://lifehacker.com/your-iphones-alarm-doesnt-have-to-be-so-annoying-1848417806)
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
 - [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
 - [Lifehacker] [How to Stop Rushing Your Kids Out the Door in the Morning](https://lifehacker.com/how-to-stop-rushing-your-kids-out-the-door-in-the-morni-1848411071)
-- [Lifehacker] [How to Buy a House With &#39;Just&#39; $12,000 Down](https://lifehacker.com/how-to-buy-a-house-with-just-12-000-down-1848411297)
-- [Lifehacker] [3-Ingredient Dinner Recipes for When You&#39;re Just Too Tired or Busy](https://lifehacker.com/3-ingredient-dinner-recipes-for-when-youre-just-too-tir-1848410136)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
