@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What’s New In Chrome&#39;s DevTools?](https://dev.to/sktanwar2014/whats-new-in-chromes-devtools-4pg)
+- [Dev.to/JS] [Don&#39;t over-engineer it](https://dev.to/burhanuday/dont-over-engineer-it-1013)
 - [Dev.to/JS] [Javascript Wordle Type Game](https://dev.to/ozboware/one-way-to-make-a-wordle-type-game-using-javascript-6gh)
 - [Dev.to/JS] [Optimize and resize image urls effortlessly - load website faster](https://dev.to/sh20raj/optimize-and-resize-image-urls-effortlessly-load-website-faster-3c8d)
 - [Dev.to/JS] [Building an Alert Modal with React Native](https://dev.to/grazieleoliveira/building-an-alert-modal-with-react-native-2jbn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The first time I printed &quot;Hello, world!&quot;](https://dev.to/songa1/the-first-time-i-printed-hello-world-33lb)
 - [Dev.to/JS] [React Compnent Rerender won&#39;t rerender on State Change](https://dev.to/birdfeathers/react-compnent-rerender-wont-rerender-on-state-change-5h67)
 - [Dev.to/JS] [Data management strategies for microservices - 100 Days od CSH #4](https://dev.to/adrianghub/data-management-strategies-for-microservices-100-days-od-csh-4-3i38)
-- [Dev.to/JS] [generate android app from website url with api](https://dev.to/amreldessouki/generate-android-app-from-website-url-with-api-6ha)
-- [Dev.to/JS] [Apa itu Variabel?](https://dev.to/irlanvila/apa-itu-variabel-2ap6)
 - [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
 - [Lifehacker] [Your iPhone&#39;s Alarm Doesn&#39;t Have to Be so Annoying](https://lifehacker.com/your-iphones-alarm-doesnt-have-to-be-so-annoying-1848417806)
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
