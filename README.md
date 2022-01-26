@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build personal GitHub Showcase](https://dev.to/ganeshpatil386386/build-personal-github-showcase-47b2)
+- [Lifehacker] [The Top 10 Ways You’re Most Likely to Die &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/the-top-10-ways-you-re-most-likely-to-die-and-how-to-p-1848421615)
+- [Dev.to/JS] [Test](https://dev.to/basskibo/test-5cj9)
+- [Lifehacker] [How to Prevent Ice Dams From Ruining Your Roof](https://lifehacker.com/how-to-prevent-ice-dams-from-ruining-your-roof-1848423205)
+- [Dev.to/JS] [How to Start a Design System Without a Company-Led Initiative &lpar;A Use Case for Non-Enterprise Businesses&rpar;](https://dev.to/michaelmangial1/how-to-start-a-design-system-without-a-company-led-initiative-a-use-case-for-non-enterprise-businesses-5fo1)
 - [Dev.to/JS] [How to Add Tooltips in HTML &amp; CSS](https://dev.to/softcodeon/how-to-add-tooltips-in-html-css-bb6)
 - [Dev.to/JS] [Monorepos. 2022](https://dev.to/etc088/monorepos-2022-1408)
 - [Lifehacker] [You Can Get Better at Using the Right Pronouns &lpar;Without Being Offensive&rpar;](https://lifehacker.com/you-can-get-better-at-using-the-right-pronouns-without-1848421018)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #32: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-32-explica-este-codigo-javascript-93i)
 - [Dev.to/JS] [Commerce.js Versus Nacelle Versus Saleor](https://dev.to/lob/commercejs-versus-nacelle-versus-saleor-45pb)
 - [Dev.to/JS] [Paracetamol.js💊| #31: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-31-explica-este-codigo-javascript-47f2)
-- [Dev.to/JS] [Adding Translation to Your Transcription Project](https://dev.to/deepgram/adding-translation-to-your-transcription-project-1738)
 - [Lifehacker] [Have We All Been Using Mouthwash at the Wrong Time?](https://lifehacker.com/have-we-all-been-using-mouthwash-at-the-wrong-time-1848418920)
-- [Dev.to/JS] [Primitive Values And Reference Values As Regards Memory Allocation](https://dev.to/marienoir/primitive-values-and-reference-values-as-regards-memory-allocation-1nb5)
-- [Dev.to/JS] [How to Hire JS Developers: A Brave New World](https://dev.to/jay_devs/how-to-hire-js-developers-a-brave-new-world-1d6m)
 - [Lifehacker] [Use These Types of Volunteer Jobs to Selfishly Advance Your Career](https://lifehacker.com/use-these-types-of-volunteer-jobs-to-selfishly-advance-1848418702)
 - [Lifehacker] [How to Spot a &#39;Dark Empath&#39;](https://lifehacker.com/how-to-spot-a-dark-empath-1848378629)
 - [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Does Mouthwash Actually Do Anything?](https://lifehacker.com/does-mouthwash-actually-do-anything-1848413256)
 - [Lifehacker] [Use These Phrases to Sound More Emotionally Intelligent at Work &lpar;and in Life&rpar;](https://lifehacker.com/use-these-phrases-to-sound-more-emotionally-intelligent-1848412296)
 - [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
-- [Lifehacker] [How Worried Should You Really Be about Signing into Netflix on a Work Laptop?](https://lifehacker.com/everything-you-should-stop-doing-on-your-work-computer-1848411412)
-- [Lifehacker] [How to Stop Rushing Your Kids Out the Door in the Morning](https://lifehacker.com/how-to-stop-rushing-your-kids-out-the-door-in-the-morni-1848411071)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
