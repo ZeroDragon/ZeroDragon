@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Scan Document from Scanner and Camera Using JavaScript](https://dev.to/yushulx/how-to-scan-document-from-scanner-and-camera-using-javascript-4jmh)
+- [Dev.to/JS] [The Return of Server Side Routing](https://dev.to/this-is-learning/the-return-of-server-side-routing-b05)
 - [Dev.to/JS] [The first time I printed &quot;Hello, world!&quot;](https://dev.to/songa1/the-first-time-i-printed-hello-world-33lb)
 - [Dev.to/JS] [React Compnent Rerender won&#39;t rerender on State Change](https://dev.to/birdfeathers/react-compnent-rerender-wont-rerender-on-state-change-5h67)
 - [Dev.to/JS] [Data management strategies for microservices - 100 Days od CSH #4](https://dev.to/adrianghub/data-management-strategies-for-microservices-100-days-od-csh-4-3i38)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to E2015 Set Objects](https://dev.to/naftalimurgor/introduction-to-e2015-set-objects-534a)
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
 - [Dev.to/JS] [Introduction to ES6 Map objects](https://dev.to/naftalimurgor/introduction-to-es6-map-objects-17fi)
-- [Dev.to/JS] [Building a NodeJS server like Express from scratch](https://dev.to/gabrieljm/building-a-nodejs-server-like-express-from-scratch-3mn8)
-- [Dev.to/JS] [Replacing Else statements for better coding](https://dev.to/arriagar/replacing-else-statements-for-better-coding-fjm)
 - [Lifehacker] [How Cold Is Too Cold to Run Outside?](https://lifehacker.com/how-cold-is-too-cold-to-run-outside-1848412600)
 - [Lifehacker] [How to Remove Stubborn Carpet Padding From Your Hardwood Floors](https://lifehacker.com/how-to-remove-stubborn-carpet-padding-from-your-hardwoo-1848415560)
 - [Lifehacker] [The Secret to Making Colonoscopy Prep Bearable](https://lifehacker.com/the-secret-to-making-colonoscopy-prep-less-shitty-1848416858)
