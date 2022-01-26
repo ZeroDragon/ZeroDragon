@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [26/1/22](https://dev.to/shagon/26122-3kd7)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
 - [Dev.to/JS] [The smallest stylesheet possible](https://dev.to/daepher/the-smallest-stylesheet-possible-1a81)
 - [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 Wordle-esque Games That Are Just As Good &lpar;or Better&rpar; Than the Original](https://lifehacker.com/6-wordle-esque-games-that-are-just-as-good-or-better-1848426197)
 - [Dev.to/JS] [Creating markdown editor from scratch in React. Input and ouput](https://dev.to/theplebdev/creating-markdown-editor-from-scratch-in-react-input-and-ouput-1ln9)
 - [Dev.to/JS] [All You Need to Know About JavaScript Arrays](https://dev.to/farhannahid/all-you-need-to-know-about-javascript-arrays-285l)
-- [Dev.to/JS] [Javadcript Prototype Property](https://dev.to/mahin678/javadcript-prototype-property-3i3l)
 - [Lifehacker] [Stop Saying You &#39;Helped&#39; on Your Resume &lpar;and Use These Verbs Instead&rpar;](https://lifehacker.com/stop-saying-you-helped-on-your-resume-and-use-these-ve-1848425106)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2022](https://lifehacker.com/whats-new-on-prime-video-in-february-2022-1848425501)
 - [Lifehacker] [The Top 10 Ways You’re Most Likely to Die &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/the-top-10-ways-you-re-most-likely-to-die-and-how-to-p-1848421615)
