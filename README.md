@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building an Alert Modal with React Native](https://dev.to/grazieleoliveira/building-an-alert-modal-with-react-native-2jbn)
+- [Dev.to/JS] [JavaScript: Don&#39;t use replaceAll](https://dev.to/abdulghofurme/javascript-dont-use-replaceall-1ia8)
+- [Dev.to/JS] [I created a android game using html css and typescript](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-jfl)
 - [Dev.to/JS] [How to Scan Document from Scanner and Camera Using JavaScript](https://dev.to/yushulx/how-to-scan-document-from-scanner-and-camera-using-javascript-4jmh)
 - [Dev.to/JS] [The Return of Server Side Routing](https://dev.to/this-is-learning/the-return-of-server-side-routing-b05)
 - [Dev.to/JS] [The first time I printed &quot;Hello, world!&quot;](https://dev.to/songa1/the-first-time-i-printed-hello-world-33lb)
@@ -33,11 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to position and resize window that is opened by React](https://dev.to/cmurphy580/how-to-position-and-resize-window-that-is-opened-by-react-59j6)
 - [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
 - [Dev.to/JS] [Run Your Own RSS Server on AWS with Pulumi](https://dev.to/pulumi/run-your-own-rss-server-on-aws-with-pulumi-2n0j)
-- [Dev.to/JS] [How To: Build A Linked List in JavaScript Part 3](https://dev.to/am20dipi/how-to-build-a-linked-list-in-javascript-part-3-77m)
 - [Lifehacker] [Your iPhone&#39;s Alarm Doesn&#39;t Have to Be so Annoying](https://lifehacker.com/your-iphones-alarm-doesnt-have-to-be-so-annoying-1848417806)
-- [Dev.to/JS] [Introduction to E2015 Set Objects](https://dev.to/naftalimurgor/introduction-to-e2015-set-objects-534a)
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
-- [Dev.to/JS] [Introduction to ES6 Map objects](https://dev.to/naftalimurgor/introduction-to-es6-map-objects-17fi)
 - [Lifehacker] [How Cold Is Too Cold to Run Outside?](https://lifehacker.com/how-cold-is-too-cold-to-run-outside-1848412600)
 - [Lifehacker] [How to Remove Stubborn Carpet Padding From Your Hardwood Floors](https://lifehacker.com/how-to-remove-stubborn-carpet-padding-from-your-hardwoo-1848415560)
 - [Lifehacker] [The Secret to Making Colonoscopy Prep Bearable](https://lifehacker.com/the-secret-to-making-colonoscopy-prep-less-shitty-1848416858)
