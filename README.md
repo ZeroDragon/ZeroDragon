@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Wordle Type Game](https://dev.to/ozboware/one-way-to-make-a-wordle-type-game-using-javascript-6gh)
+- [Dev.to/JS] [Optimize and resize image urls effortlessly - load website faster](https://dev.to/sh20raj/optimize-and-resize-image-urls-effortlessly-load-website-faster-3c8d)
 - [Dev.to/JS] [Building an Alert Modal with React Native](https://dev.to/grazieleoliveira/building-an-alert-modal-with-react-native-2jbn)
 - [Dev.to/JS] [JavaScript: Don&#39;t use replaceAll](https://dev.to/abdulghofurme/javascript-dont-use-replaceall-1ia8)
 - [Dev.to/JS] [I created a android game using html css and typescript](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-jfl)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data management strategies for microservices - 100 Days od CSH #4](https://dev.to/adrianghub/data-management-strategies-for-microservices-100-days-od-csh-4-3i38)
 - [Dev.to/JS] [generate android app from website url with api](https://dev.to/amreldessouki/generate-android-app-from-website-url-with-api-6ha)
 - [Dev.to/JS] [Apa itu Variabel?](https://dev.to/irlanvila/apa-itu-variabel-2ap6)
-- [Dev.to/JS] [How to position and resize window that is opened by React](https://dev.to/cmurphy580/how-to-position-and-resize-window-that-is-opened-by-react-59j6)
 - [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
-- [Dev.to/JS] [Run Your Own RSS Server on AWS with Pulumi](https://dev.to/pulumi/run-your-own-rss-server-on-aws-with-pulumi-2n0j)
 - [Lifehacker] [Your iPhone&#39;s Alarm Doesn&#39;t Have to Be so Annoying](https://lifehacker.com/your-iphones-alarm-doesnt-have-to-be-so-annoying-1848417806)
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
 - [Lifehacker] [How Cold Is Too Cold to Run Outside?](https://lifehacker.com/how-cold-is-too-cold-to-run-outside-1848412600)
