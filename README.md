@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The first time I printed &quot;Hello, world!&quot;](https://dev.to/songa1/the-first-time-i-printed-hello-world-33lb)
 - [Dev.to/JS] [React Compnent Rerender won&#39;t rerender on State Change](https://dev.to/birdfeathers/react-compnent-rerender-wont-rerender-on-state-change-5h67)
 - [Dev.to/JS] [Data management strategies for microservices - 100 Days od CSH #4](https://dev.to/adrianghub/data-management-strategies-for-microservices-100-days-od-csh-4-3i38)
 - [Dev.to/JS] [generate android app from website url with api](https://dev.to/amreldessouki/generate-android-app-from-website-url-with-api-6ha)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to ES6 Map objects](https://dev.to/naftalimurgor/introduction-to-es6-map-objects-17fi)
 - [Dev.to/JS] [Building a NodeJS server like Express from scratch](https://dev.to/gabrieljm/building-a-nodejs-server-like-express-from-scratch-3mn8)
 - [Dev.to/JS] [Replacing Else statements for better coding](https://dev.to/arriagar/replacing-else-statements-for-better-coding-fjm)
-- [Dev.to/JS] [Basics of Typescript Built-in Types](https://dev.to/aneeqakhan/basics-of-typescript-built-in-types-1de2)
 - [Lifehacker] [How Cold Is Too Cold to Run Outside?](https://lifehacker.com/how-cold-is-too-cold-to-run-outside-1848412600)
 - [Lifehacker] [How to Remove Stubborn Carpet Padding From Your Hardwood Floors](https://lifehacker.com/how-to-remove-stubborn-carpet-padding-from-your-hardwoo-1848415560)
 - [Lifehacker] [The Secret to Making Colonoscopy Prep Bearable](https://lifehacker.com/the-secret-to-making-colonoscopy-prep-less-shitty-1848416858)
