@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [UFO Coin Is Starting](https://dev.to/sreehari521/ufo-coin-starting-4b2c)
+- [Dev.to/JS] [How to build a full stack serverless application with Svelte, GraphQL, and Fauna](https://dev.to/shadid12/how-to-build-a-full-stack-serverless-application-with-svelte-graphql-and-fauna-5427)
+- [Dev.to/JS] [How to use Async/Await in JavaScript](https://dev.to/ahmedgmurtaza/how-to-use-asyncawait-in-javascript-5c1m)
+- [Dev.to/JS] [Consuming CJS in a Typescript module](https://dev.to/louisgv/consuming-cjs-in-a-typescript-module-5402)
+- [Dev.to/JS] [10 VSCode Extensions To Look Out For In 2022🎬](https://dev.to/alexomeyer/10-vscode-extensions-to-look-out-for-in-2022-4k42)
 - [Dev.to/JS] [[Javascript] Conditional Statements](https://dev.to/joylee/javascript-conditional-statements-41c3)
 - [Dev.to/JS] [Smooth Infinite Scrolling Post Feed](https://dev.to/valeriavg/smooth-infinite-scrolling-post-feed-5c37)
 - [Dev.to/JS] [tsParticles - Click Event with Confetti explosion](https://dev.to/matteobruni/tsparticles-click-event-with-confetti-explosion-1e42)
-- [Dev.to/JS] [Unlimited Articles for Blogger/WordPress just copy paste html ft. dev.to](https://dev.to/sh20raj/unlimited-articles-for-bloggerwordpress-just-copy-paste-html-ft-devto-2a7p)
 - [Dev.to/JS] [Day 86 of 100 Days of Code &amp; Scrum: MySQL, Next.js, and Building Webpages](https://dev.to/rammina/day-86-of-100-days-of-code-scrum-mysql-nextjs-and-building-webpages-1833)
 - [Dev.to/JS] [How to push the Project into the git repo.!](https://dev.to/carnato/how-to-push-the-project-into-the-git-repo-2fa2)
 - [Dev.to/JS] [[PT-BR] - Criando Relatorios CSV com VueJs/NuxtJs](https://dev.to/em1dio/pt-br-criando-relatorios-csv-com-vuejsnuxtjs-5ech)
 - [Dev.to/JS] [Create a Spotlight effect with Css and Javascript or Gsap.](https://dev.to/vanaf1979/create-a-spotlight-effect-with-css-and-javascript-or-gsap-3mp)
-- [Dev.to/JS] [VUE cli with electron](https://dev.to/grahammorby/vue-cli-with-electron-3ke9)
-- [Dev.to/JS] [100 Days Of Reactjs/ JavaScript](https://dev.to/preshpi/100-days-of-reactjs-javascript-36oh)
-- [Dev.to/JS] [React Context and Hooks: An excellent way to pass data](https://dev.to/napoleon039/react-context-and-hooks-an-excellent-way-to-pass-data-252p)
-- [Dev.to/JS] [First Project :&rpar;](https://dev.to/whitewolfdot/first-project--57p0)
 - [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
 - [Lifehacker] [Your iPhone&#39;s Alarm Doesn&#39;t Have to Be so Annoying](https://lifehacker.com/your-iphones-alarm-doesnt-have-to-be-so-annoying-1848417806)
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
