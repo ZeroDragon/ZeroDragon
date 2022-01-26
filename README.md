@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
+- [Dev.to/JS] [this is my second post](https://dev.to/husnainsultan31/this-is-my-second-post-4k84)
+- [Dev.to/JS] [this is a dummy post](https://dev.to/husnainsultan31/this-is-a-dummy-post-bga)
+- [Dev.to/JS] [Searchkit - Building a Search with GraphQL and Elasticsearch](https://dev.to/joemcelroy/searchkit-building-a-search-with-graphql-and-elasticsearch-19mc)
+- [Lifehacker] [20 of the Best Musical Biopics Ever Made](https://lifehacker.com/20-of-the-best-musical-biopics-ever-made-1848420823)
+- [Dev.to/JS] [I created a android game using html css and typescript](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-228a)
+- [Lifehacker] [Update Safari Immediately](https://lifehacker.com/update-safari-immediately-1848426551)
 - [Dev.to/JS] [How to effectively use logical operators in your code.](https://dev.to/efkumah/how-to-effectively-use-logical-operators-in-your-code-dik)
 - [Dev.to/JS] [How to make a custom file upload button with HTML, CSS, and JavaScript](https://dev.to/iayeshasahar/how-to-make-a-custom-file-upload-button-with-html-css-and-javascript-44ji)
 - [Lifehacker] [6 Wordle-esque Games That Are Just As Good &lpar;or Better&rpar; Than the Original](https://lifehacker.com/6-wordle-esque-games-that-are-just-as-good-or-better-1848426197)
@@ -36,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Top 10 Ways You’re Most Likely to Die &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/the-top-10-ways-you-re-most-likely-to-die-and-how-to-p-1848421615)
 - [Dev.to/JS] [Test](https://dev.to/basskibo/test-5cj9)
 - [Lifehacker] [How to Prevent Ice Dams From Ruining Your Roof](https://lifehacker.com/how-to-prevent-ice-dams-from-ruining-your-roof-1848423205)
-- [Dev.to/JS] [How to Start a Design System Without a Company-Led Initiative &lpar;A Use Case for Non-Enterprise Businesses&rpar;](https://dev.to/michaelmangial1/how-to-start-a-design-system-without-a-company-led-initiative-a-use-case-for-non-enterprise-businesses-5fo1)
-- [Dev.to/JS] [How to Add Tooltips in HTML &amp; CSS](https://dev.to/softcodeon/how-to-add-tooltips-in-html-css-bb6)
-- [Dev.to/JS] [Monorepos. 2022](https://dev.to/etc088/monorepos-2022-1408)
 - [Lifehacker] [You Can Get Better at Using the Right Pronouns &lpar;Without Being Offensive&rpar;](https://lifehacker.com/you-can-get-better-at-using-the-right-pronouns-without-1848421018)
-- [Dev.to/JS] [1 line of code: How to reverse all words of a string](https://dev.to/martinkr/1-line-of-code-how-to-reverse-all-words-of-a-string-n26)
 - [Lifehacker] [It&#39;s Almost Too Easy to Make Your Own Kettle Corn](https://lifehacker.com/its-almost-too-easy-to-make-your-own-kettle-corn-1848421247)
 - [Lifehacker] [10 of the Most Common Gym Machines and How to Use Them](https://lifehacker.com/10-of-the-most-common-gym-machines-and-how-to-use-them-1848417507)
 - [Lifehacker] [Have We All Been Using Mouthwash at the Wrong Time?](https://lifehacker.com/have-we-all-been-using-mouthwash-at-the-wrong-time-1848418920)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tough Questions You Should Always Ask a Hiring Manager](https://lifehacker.com/tough-questions-you-should-always-ask-a-hiring-manager-1848418098)
 - [Lifehacker] [The &#39;Doomsday Clock&#39; Is Stupid, Actually](https://lifehacker.com/the-doomsday-clock-is-stupid-actually-1848414345)
 - [Lifehacker] [This App Makes Your Cheap Mouse Work Better Than Trackpad Gestures](https://lifehacker.com/this-app-makes-your-cheap-mouse-work-better-than-trackp-1848416099)
-- [Lifehacker] [8 Ways to Appear Offline on Social Media so You Can Lurk in Peace](https://lifehacker.com/8-ways-to-appear-offline-on-social-media-so-you-can-lur-1848409325)
-- [Lifehacker] [Why You Should Delete Your YouTube History Often &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-delete-your-youtube-history-often-and-h-1848414082)
-- [Lifehacker] [How to Download Everything Amazon Knows About You &lpar;It&#39;s a Lot&rpar;](https://lifehacker.com/how-to-download-everything-amazon-knows-about-you-its-1848412242)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
