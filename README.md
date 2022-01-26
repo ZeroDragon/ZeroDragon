@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Saying You &#39;Helped&#39; on Your Resume &lpar;and Use These Verbs Instead&rpar;](https://lifehacker.com/stop-saying-you-helped-on-your-resume-and-use-these-ve-1848425106)
+- [Dev.to/JS] [Deploy Angular application on Kubernetes](https://dev.to/saiprasad2595/deploy-angular-application-on-kubernetes-3n2f)
+- [Lifehacker] [What&#39;s New on Prime Video in February 2022](https://lifehacker.com/whats-new-on-prime-video-in-february-2022-1848425501)
 - [Dev.to/JS] [Build personal GitHub Showcase](https://dev.to/ganeshpatil386386/build-personal-github-showcase-47b2)
 - [Lifehacker] [The Top 10 Ways You’re Most Likely to Die &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/the-top-10-ways-you-re-most-likely-to-die-and-how-to-p-1848421615)
 - [Dev.to/JS] [Test](https://dev.to/basskibo/test-5cj9)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Am new here am a software developer and programmer and I need all the help I can get](https://dev.to/sliverdev/am-new-here-am-a-software-developer-and-programmer-and-i-need-all-the-help-i-can-get-2273)
 - [Dev.to/JS] [Paracetamol.js💊| #32: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-32-explica-este-codigo-javascript-93i)
 - [Dev.to/JS] [Commerce.js Versus Nacelle Versus Saleor](https://dev.to/lob/commercejs-versus-nacelle-versus-saleor-45pb)
-- [Dev.to/JS] [Paracetamol.js💊| #31: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-31-explica-este-codigo-javascript-47f2)
 - [Lifehacker] [Have We All Been Using Mouthwash at the Wrong Time?](https://lifehacker.com/have-we-all-been-using-mouthwash-at-the-wrong-time-1848418920)
 - [Lifehacker] [Use These Types of Volunteer Jobs to Selfishly Advance Your Career](https://lifehacker.com/use-these-types-of-volunteer-jobs-to-selfishly-advance-1848418702)
 - [Lifehacker] [How to Spot a &#39;Dark Empath&#39;](https://lifehacker.com/how-to-spot-a-dark-empath-1848378629)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Delete Your YouTube History Often &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-delete-your-youtube-history-often-and-h-1848414082)
 - [Lifehacker] [How to Download Everything Amazon Knows About You &lpar;It&#39;s a Lot&rpar;](https://lifehacker.com/how-to-download-everything-amazon-knows-about-you-its-1848412242)
 - [Lifehacker] [Does Mouthwash Actually Do Anything?](https://lifehacker.com/does-mouthwash-actually-do-anything-1848413256)
-- [Lifehacker] [Use These Phrases to Sound More Emotionally Intelligent at Work &lpar;and in Life&rpar;](https://lifehacker.com/use-these-phrases-to-sound-more-emotionally-intelligent-1848412296)
-- [Lifehacker] [What Pornhub&#39;s 2021 Search Trends Say About Us](https://lifehacker.com/what-pornhubs-2021-search-trends-say-about-us-1848412206)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
