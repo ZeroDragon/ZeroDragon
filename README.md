@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
+- [Dev.to/JS] [The smallest stylesheet possible](https://dev.to/daepher/the-smallest-stylesheet-possible-1a81)
+- [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
+- [Dev.to/JS] [String.replace&lpar;&rpar; like a pro](https://dev.to/slide109/stringreplace-like-a-pro-1jdo)
+- [Dev.to/JS] [Why Functional Programming Should Excite You](https://dev.to/cakekindel/why-functional-programming-should-excite-you-478b)
 - [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
 - [Dev.to/JS] [this is my second post](https://dev.to/husnainsultan31/this-is-my-second-post-4k84)
 - [Dev.to/JS] [this is a dummy post](https://dev.to/husnainsultan31/this-is-a-dummy-post-bga)
@@ -37,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All You Need to Know About JavaScript Arrays](https://dev.to/farhannahid/all-you-need-to-know-about-javascript-arrays-285l)
 - [Dev.to/JS] [Javadcript Prototype Property](https://dev.to/mahin678/javadcript-prototype-property-3i3l)
 - [Lifehacker] [Stop Saying You &#39;Helped&#39; on Your Resume &lpar;and Use These Verbs Instead&rpar;](https://lifehacker.com/stop-saying-you-helped-on-your-resume-and-use-these-ve-1848425106)
-- [Dev.to/JS] [Deploy Angular application on Kubernetes](https://dev.to/saiprasad2595/deploy-angular-application-on-kubernetes-3n2f)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2022](https://lifehacker.com/whats-new-on-prime-video-in-february-2022-1848425501)
-- [Dev.to/JS] [Build personal GitHub Showcase](https://dev.to/ganeshpatil386386/build-personal-github-showcase-47b2)
 - [Lifehacker] [The Top 10 Ways You’re Most Likely to Die &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/the-top-10-ways-you-re-most-likely-to-die-and-how-to-p-1848421615)
-- [Dev.to/JS] [Test](https://dev.to/basskibo/test-5cj9)
 - [Lifehacker] [How to Prevent Ice Dams From Ruining Your Roof](https://lifehacker.com/how-to-prevent-ice-dams-from-ruining-your-roof-1848423205)
 - [Lifehacker] [You Can Get Better at Using the Right Pronouns &lpar;Without Being Offensive&rpar;](https://lifehacker.com/you-can-get-better-at-using-the-right-pronouns-without-1848421018)
 - [Lifehacker] [It&#39;s Almost Too Easy to Make Your Own Kettle Corn](https://lifehacker.com/its-almost-too-easy-to-make-your-own-kettle-corn-1848421247)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest, Cheapest Way to Train by Heart Rate](https://lifehacker.com/the-easiest-cheapest-way-to-train-by-heart-rate-1848418584)
 - [Lifehacker] [Yes, You Should Use a Mug to Make Perfectly Round Cookies](https://lifehacker.com/yes-you-should-use-a-mug-to-make-perfectly-round-cooki-1848417098)
 - [Lifehacker] [Tough Questions You Should Always Ask a Hiring Manager](https://lifehacker.com/tough-questions-you-should-always-ask-a-hiring-manager-1848418098)
-- [Lifehacker] [The &#39;Doomsday Clock&#39; Is Stupid, Actually](https://lifehacker.com/the-doomsday-clock-is-stupid-actually-1848414345)
-- [Lifehacker] [This App Makes Your Cheap Mouse Work Better Than Trackpad Gestures](https://lifehacker.com/this-app-makes-your-cheap-mouse-work-better-than-trackp-1848416099)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
