@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use These Types of Volunteer Jobs to Selfishly Advance Your Career](https://lifehacker.com/use-these-types-of-volunteer-jobs-to-selfishly-advance-1848418702)
+- [Dev.to/JS] [Show page no. in UI in Cursor pagination or infinite scroll](https://dev.to/sahilkashyap64/show-page-no-in-ui-in-cursor-pagination-or-infinite-scroll-4m9l)
+- [Dev.to/JS] [Javascript map&lpar;&rpar; function](https://dev.to/khafidprayoga/javascript-map-function-21gk)
+- [Dev.to/JS] [Extendible React Components](https://dev.to/nitsancohen770/extendible-react-components-1a81)
+- [Lifehacker] [How to Spot a &#39;Dark Empath&#39;](https://lifehacker.com/how-to-spot-a-dark-empath-1848378629)
 - [Dev.to/JS] [UFO Coin Is Starting](https://dev.to/sreehari521/ufo-coin-starting-4b2c)
 - [Dev.to/JS] [How to build a full stack serverless application with Svelte, GraphQL, and Fauna](https://dev.to/shadid12/how-to-build-a-full-stack-serverless-application-with-svelte-graphql-and-fauna-5427)
 - [Dev.to/JS] [How to use Async/Await in JavaScript](https://dev.to/ahmedgmurtaza/how-to-use-asyncawait-in-javascript-5c1m)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Smooth Infinite Scrolling Post Feed](https://dev.to/valeriavg/smooth-infinite-scrolling-post-feed-5c37)
 - [Dev.to/JS] [tsParticles - Click Event with Confetti explosion](https://dev.to/matteobruni/tsparticles-click-event-with-confetti-explosion-1e42)
 - [Dev.to/JS] [Day 86 of 100 Days of Code &amp; Scrum: MySQL, Next.js, and Building Webpages](https://dev.to/rammina/day-86-of-100-days-of-code-scrum-mysql-nextjs-and-building-webpages-1833)
-- [Dev.to/JS] [How to push the Project into the git repo.!](https://dev.to/carnato/how-to-push-the-project-into-the-git-repo-2fa2)
-- [Dev.to/JS] [[PT-BR] - Criando Relatorios CSV com VueJs/NuxtJs](https://dev.to/em1dio/pt-br-criando-relatorios-csv-com-vuejsnuxtjs-5ech)
-- [Dev.to/JS] [Create a Spotlight effect with Css and Javascript or Gsap.](https://dev.to/vanaf1979/create-a-spotlight-effect-with-css-and-javascript-or-gsap-3mp)
 - [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
 - [Lifehacker] [Your iPhone&#39;s Alarm Doesn&#39;t Have to Be so Annoying](https://lifehacker.com/your-iphones-alarm-doesnt-have-to-be-so-annoying-1848417806)
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [3-Ingredient Dinner Recipes for When You&#39;re Just Too Tired or Busy](https://lifehacker.com/3-ingredient-dinner-recipes-for-when-youre-just-too-tir-1848410136)
 - [Lifehacker] [25 of the Most Rewatchable Movies Ever Made](https://lifehacker.com/25-of-the-most-rewatchable-movies-ever-made-1848407208)
 - [Lifehacker] [You Should Join This Class Action Lawsuit If You Use Venmo](https://lifehacker.com/you-should-join-this-class-action-lawsuit-against-venmo-1848410390)
-- [Lifehacker] [How to Handle a Clingy Child](https://lifehacker.com/how-to-handle-a-clingy-child-1848408766)
-- [Lifehacker] [All the Ways You Should Be Using a Raw Potato for Common Household Tasks](https://lifehacker.com/all-the-ways-you-should-be-using-a-raw-potato-for-commo-1848409591)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
 - [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
