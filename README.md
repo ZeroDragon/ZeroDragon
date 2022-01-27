@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Beacon request](https://dev.to/adelhamad/what-is-beacon-request-1237)
 - [Dev.to/JS] [Building a gift card store with Svelte, Node JS, Reloadly and Stripe API](https://dev.to/fullstackmafia/building-a-gift-card-store-with-svelte-node-js-reloadly-and-stripe-api-469k)
 - [Dev.to/JS] [Add Dark Mode to HTML](https://dev.to/heyylateef/add-dark-mode-to-html-3i3j)
 - [Lifehacker] [How Bad Is It to Fall Asleep to the TV?](https://lifehacker.com/how-bad-is-it-to-fall-asleep-to-the-tv-1848424862)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are the &#39;Sunday Scaries,&#39; and How Can You Beat Them?](https://lifehacker.com/what-are-the-sunday-scaries-and-how-can-you-beat-them-1848432035)
 - [Dev.to/JS] [PMO, la clave que requiere una empresa para cubrir todas sus necesidades](https://dev.to/millonesdevoce1/pmo-la-clave-que-requiere-una-empresa-para-cubrir-todas-sus-necesidades-1jk3)
 - [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848427770)
-- [Dev.to/JS] [Converting to Vite &lpar;Part 3&rpar;](https://dev.to/opensauced/converting-to-vite-part-3-4hg4)
 - [Lifehacker] [How to ‘Appraise’ Your House Without Paying Someone Else to Do It](https://lifehacker.com/how-to-appraise-your-house-without-paying-someone-els-1848427125)
 - [Lifehacker] [Everything You Should Know About the Lunar New Year](https://lifehacker.com/everything-you-should-know-about-the-lunar-new-year-1848428709)
 - [Lifehacker] [What You Need to Know Before You Claim Your Child Tax Credit This Filing Season](https://lifehacker.com/what-you-need-to-know-before-you-claim-your-child-tax-c-1848428433)
