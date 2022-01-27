@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Discord Webhook Powered Contact Form](https://dev.to/mistval/discord-webhook-powered-contact-form-3lk6)
+- [Dev.to/JS] [WebRTC For Beginners - Part 4: Screen Share](https://dev.to/ethand91/webrtc-for-beginners-part-4-screen-share-42p6)
 - [Dev.to/JS] [tsParticles 1.39.1 Released](https://dev.to/matteobruni/tsparticles-1391-released-213n)
 - [Dev.to/JS] [How I made a Background Color Flipper app in vanilla javascript](https://dev.to/vedanthb/how-i-made-a-background-color-flipper-app-in-vanilla-javascript-4g7o)
 - [Dev.to/JS] [🚀 I created a android game using html css and typescript 🚀](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-5n6)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Functional Programming Should Excite You](https://dev.to/cakekindel/why-functional-programming-should-excite-you-478b)
 - [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
 - [Dev.to/JS] [this is my second post](https://dev.to/husnainsultan31/this-is-my-second-post-4k84)
-- [Dev.to/JS] [this is a dummy post](https://dev.to/husnainsultan31/this-is-a-dummy-post-bga)
-- [Dev.to/JS] [Searchkit - Building a Search with GraphQL and Elasticsearch](https://dev.to/joemcelroy/searchkit-building-a-search-with-graphql-and-elasticsearch-19mc)
 - [Lifehacker] [20 of the Best Musical Biopics Ever Made](https://lifehacker.com/20-of-the-best-musical-biopics-ever-made-1848420823)
 - [Lifehacker] [Update Safari Immediately](https://lifehacker.com/update-safari-immediately-1848426551)
 - [Lifehacker] [6 Wordle-esque Games That Are Just As Good &lpar;or Better&rpar; Than the Original](https://lifehacker.com/6-wordle-esque-games-that-are-just-as-good-or-better-1848426197)
