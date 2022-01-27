@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Native Desktop Apps with Electron.JS](https://dev.to/codesphere/building-native-desktop-apps-with-electronjs-4m8n)
+- [Dev.to/JS] [Customize your GitHub Profile](https://dev.to/ganeshpatil386386/customize-your-github-profile-1fnb)
+- [Lifehacker] [What Are the &#39;Sunday Scaries,&#39; and How Can You Beat Them?](https://lifehacker.com/what-are-the-sunday-scaries-and-how-can-you-beat-them-1848432035)
+- [Dev.to/JS] [PMO, la clave que requiere una empresa para cubrir todas sus necesidades](https://dev.to/millonesdevoce1/pmo-la-clave-que-requiere-una-empresa-para-cubrir-todas-sus-necesidades-1jk3)
+- [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848427770)
+- [Dev.to/JS] [Converting to Vite &lpar;Part 3&rpar;](https://dev.to/opensauced/converting-to-vite-part-3-4hg4)
+- [Dev.to/JS] [Recursion Post Recursion Post](https://dev.to/mikedudolevitch/recursion-post-recursion-post-iof)
+- [Dev.to/JS] [Paracetamol.js💊| #33: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-33-explica-este-codigo-javascript-2bd2)
 - [Lifehacker] [How to ‘Appraise’ Your House Without Paying Someone Else to Do It](https://lifehacker.com/how-to-appraise-your-house-without-paying-someone-els-1848427125)
 - [Dev.to/JS] [Frontend Olympics Coding Challenges](https://dev.to/devolympics/frontend-olympics-coding-challenges-16pl)
 - [Dev.to/JS] [Building an Unsplash bot for Discord](https://dev.to/hiisi13/building-an-unsplash-bot-for-discord-60i)
@@ -33,13 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 and Be More Productive?](https://dev.to/ideradevtools/want-to-boost-your-web-development-by-10xand-be-more-productive-2amp)
 - [Lifehacker] [What You Need to Know Before You Claim Your Child Tax Credit This Filing Season](https://lifehacker.com/what-you-need-to-know-before-you-claim-your-child-tax-c-1848428433)
 - [Dev.to/JS] [Build an SMS App with Infobip](https://dev.to/thawkin3/build-an-sms-app-with-infobip-3g2)
-- [Dev.to/JS] [Svelte test suite setup](https://dev.to/gilesdring/svelte-test-suite-setup-9ab)
 - [Lifehacker] [Finally, There’s a Way to Play Wordle More Than Once a Day](https://lifehacker.com/finally-there-s-a-way-to-play-wordle-more-than-once-a-1848426643)
-- [Dev.to/JS] [ES6 Basic Features](https://dev.to/mwanyumba7/es6-basic-features-229l)
-- [Dev.to/JS] [Another Svelte3 cheat sheet](https://dev.to/jmau111/another-svelte3-cheat-sheet-2i6l)
-- [Dev.to/JS] [One of the best place to learn web development](https://dev.to/developerbishwas/one-of-the-best-place-to-learn-web-development-5aba)
-- [Dev.to/JS] [21 GitHub Repositories to Become a JavaScript Master 📚🚀](https://dev.to/madza/21-github-repositories-to-become-a-javascript-master-5bpa)
-- [Dev.to/JS] [This JavaScript Book changed my life 📚🧠👨‍💻](https://dev.to/elliot_brenyasarfo_18749/this-javascript-book-changed-my-life-480f)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
 - [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
 - [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
@@ -59,8 +61,6 @@ and Be More Productive?](https://dev.to/ideradevtools/want-to-boost-your-web-dev
 - [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
 - [Lifehacker] [Your iPhone&#39;s Alarm Doesn&#39;t Have to Be so Annoying](https://lifehacker.com/your-iphones-alarm-doesnt-have-to-be-so-annoying-1848417806)
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
-- [Lifehacker] [How Cold Is Too Cold to Run Outside?](https://lifehacker.com/how-cold-is-too-cold-to-run-outside-1848412600)
-- [Lifehacker] [How to Remove Stubborn Carpet Padding From Your Hardwood Floors](https://lifehacker.com/how-to-remove-stubborn-carpet-padding-from-your-hardwoo-1848415560)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
