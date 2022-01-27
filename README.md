@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Validating a polymorphic body in nest JS](https://dev.to/webeleon/validating-a-polymorphic-body-in-nest-js-27a7)
+- [Dev.to/JS] [React Hooks: useEffect&lpar;&rpar;](https://dev.to/fig781/react-hooks-useeffect-1h9i)
+- [Dev.to/JS] [Day 86 of 100 Days of Code &amp; Scrum: SELECT Within SELECT, Aggregate Functions In SQL, and Other Stuff](https://dev.to/rammina/day-86-of-100-days-of-code-scrum-select-within-select-aggregate-functions-in-sql-and-other-stuff-15j9)
 - [Dev.to/JS] [Storing Off-Chain data using NFT.Storage](https://dev.to/abhinavxt/storing-off-chain-data-using-nftstorage-dna)
 - [Dev.to/JS] [Keto X3 - Weight Loss Results, Benefits, Consumer Reviews And Warnings?](https://dev.to/ketox3info/keto-x3-weight-loss-results-benefits-consumer-reviews-and-warnings-b73)
 - [Dev.to/JS] [I created eboard](https://dev.to/sripadhs/i-created-eboard-job)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why bother with Functional Programming? &lpar;Pragmatic JavaScript&rpar;](https://dev.to/sethcalebweeks/why-bother-with-functional-programming-pragmatic-javascript-4i2k)
 - [Dev.to/JS] [A Basic Understanding of Big O Notation](https://dev.to/lrth06/a-basic-understanding-of-big-o-notation-2874)
 - [Dev.to/JS] [let , const and arrow functions in javascript](https://dev.to/vedanthb/let-const-and-arrow-functions-in-javascript-1d5a)
-- [Dev.to/JS] [Discord Webhook Powered Contact Form](https://dev.to/mistval/discord-webhook-powered-contact-form-3lk6)
-- [Dev.to/JS] [WebRTC For Beginners - Part 4: Screen Share](https://dev.to/ethand91/webrtc-for-beginners-part-4-screen-share-42p6)
-- [Dev.to/JS] [tsParticles 1.39.1 Released](https://dev.to/matteobruni/tsparticles-1391-released-213n)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
 - [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
 - [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
