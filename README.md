@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Yell at Your Google Assistant to STFU](https://lifehacker.com/yell-at-your-google-assistant-to-fucking-stop-already-1848432377)
+- [Dev.to/JS] [Hiring all types of developers!](https://dev.to/alex_hopwood_1f4726463299/hiring-all-types-of-developers-1a7)
 - [Lifehacker] [What Do You Wish You Had Known Before Adopting Your Pet?](https://lifehacker.com/what-do-you-wish-you-had-known-before-adopting-your-pet-1848432600)
 - [Dev.to/JS] [27/1/22](https://dev.to/shagon/27122-212f)
 - [Lifehacker] [9 &#39;Screen Time&#39; Features Everyone Should Be Using](https://lifehacker.com/9-screen-time-features-everyone-should-be-using-1848430914)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way](https://dev.to/thisishariharen/best-profile-generator-create-your-perfect-github-profile-readme-in-the-best-possible-way-189l)
 - [Lifehacker] [Everything You Should Know About the Lunar New Year](https://lifehacker.com/everything-you-should-know-about-the-lunar-new-year-1848428709)
 - [Dev.to/JS] [Day 3: Progress](https://dev.to/nandanwewhare/day-3-progress-4j7k)
-- [Dev.to/JS] [Want to Boost Your Web Development by 10X
-and Be More Productive?](https://dev.to/ideradevtools/want-to-boost-your-web-development-by-10xand-be-more-productive-2amp)
 - [Lifehacker] [What You Need to Know Before You Claim Your Child Tax Credit This Filing Season](https://lifehacker.com/what-you-need-to-know-before-you-claim-your-child-tax-c-1848428433)
 - [Lifehacker] [Finally, There’s a Way to Play Wordle More Than Once a Day](https://lifehacker.com/finally-there-s-a-way-to-play-wordle-more-than-once-a-1848426643)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
@@ -60,7 +60,6 @@ and Be More Productive?](https://dev.to/ideradevtools/want-to-boost-your-web-dev
 - [Lifehacker] [Have We All Been Using Mouthwash at the Wrong Time?](https://lifehacker.com/have-we-all-been-using-mouthwash-at-the-wrong-time-1848418920)
 - [Lifehacker] [Use These Types of Volunteer Jobs to Selfishly Advance Your Career](https://lifehacker.com/use-these-types-of-volunteer-jobs-to-selfishly-advance-1848418702)
 - [Lifehacker] [How to Spot a &#39;Dark Empath&#39;](https://lifehacker.com/how-to-spot-a-dark-empath-1848378629)
-- [Lifehacker] [Does Buying Carbon Offsets Even Do Anything?](https://lifehacker.com/does-buying-carbon-offets-even-do-anything-1848418530)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
