@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to ‘Appraise’ Your House Without Paying Someone Else to Do It](https://lifehacker.com/how-to-appraise-your-house-without-paying-someone-els-1848427125)
+- [Dev.to/JS] [Frontend Olympics Coding Challenges](https://dev.to/devolympics/frontend-olympics-coding-challenges-16pl)
+- [Dev.to/JS] [Building an Unsplash bot for Discord](https://dev.to/hiisi13/building-an-unsplash-bot-for-discord-60i)
+- [Dev.to/JS] [Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way](https://dev.to/thisishariharen/best-profile-generator-create-your-perfect-github-profile-readme-in-the-best-possible-way-189l)
+- [Lifehacker] [Everything You Should Know About the Lunar New Year](https://lifehacker.com/everything-you-should-know-about-the-lunar-new-year-1848428709)
+- [Dev.to/JS] [Day 3: Progress](https://dev.to/nandanwewhare/day-3-progress-4j7k)
+- [Dev.to/JS] [Want to Boost Your Web Development by 10X
+and Be More Productive?](https://dev.to/ideradevtools/want-to-boost-your-web-development-by-10xand-be-more-productive-2amp)
 - [Lifehacker] [What You Need to Know Before You Claim Your Child Tax Credit This Filing Season](https://lifehacker.com/what-you-need-to-know-before-you-claim-your-child-tax-c-1848428433)
 - [Dev.to/JS] [Build an SMS App with Infobip](https://dev.to/thawkin3/build-an-sms-app-with-infobip-3g2)
 - [Dev.to/JS] [Svelte test suite setup](https://dev.to/gilesdring/svelte-test-suite-setup-9ab)
@@ -32,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [One of the best place to learn web development](https://dev.to/developerbishwas/one-of-the-best-place-to-learn-web-development-5aba)
 - [Dev.to/JS] [21 GitHub Repositories to Become a JavaScript Master 📚🚀](https://dev.to/madza/21-github-repositories-to-become-a-javascript-master-5bpa)
 - [Dev.to/JS] [This JavaScript Book changed my life 📚🧠👨‍💻](https://dev.to/elliot_brenyasarfo_18749/this-javascript-book-changed-my-life-480f)
-- [Dev.to/JS] [Eloquent JavaScript: The Most Powerful JS book 📚](https://dev.to/elliot_brenyasarfo_18749/eloquent-javascript-the-most-powerful-js-book-52jg)
-- [Dev.to/JS] [LeetCode - Rotate List](https://dev.to/_alkesh26/leetcode-rotate-list-4joe)
-- [Dev.to/JS] [React with Bootstrap 5 Tutorial 2022🔥](https://dev.to/codewithfortune/react-with-bootstrap-5-tutorial-2022-32hd)
-- [Dev.to/JS] [Pure and Impure Functions in JavaScript: A Complete Guide](https://dev.to/syncfusion/pure-and-impure-functions-in-javascript-a-complete-guide-14ac)
-- [Dev.to/JS] [Pass Data from Laravel Controller to Javascript](https://dev.to/gwendal5/pass-data-from-laravel-controller-to-javascript-3ffi)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
 - [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
 - [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
@@ -58,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Teach Your Kid to Invest While They’re Still a Kid](https://lifehacker.com/why-you-should-teach-your-kid-to-invest-while-they-re-s-1848419512)
 - [Lifehacker] [How Cold Is Too Cold to Run Outside?](https://lifehacker.com/how-cold-is-too-cold-to-run-outside-1848412600)
 - [Lifehacker] [How to Remove Stubborn Carpet Padding From Your Hardwood Floors](https://lifehacker.com/how-to-remove-stubborn-carpet-padding-from-your-hardwoo-1848415560)
-- [Lifehacker] [The Secret to Making Colonoscopy Prep Bearable](https://lifehacker.com/the-secret-to-making-colonoscopy-prep-less-shitty-1848416858)
-- [Lifehacker] [The Easiest, Cheapest Way to Train by Heart Rate](https://lifehacker.com/the-easiest-cheapest-way-to-train-by-heart-rate-1848418584)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
