@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Bad Is It to Fall Asleep to the TV?](https://lifehacker.com/how-bad-is-it-to-fall-asleep-to-the-tv-1848424862)
+- [Dev.to/JS] [Get push notifications from Javascript in just one minute!](https://dev.to/sh4yy/get-push-notifications-from-javascript-in-just-one-minute-2mke)
+- [Dev.to/JS] [3 Ways to Replace All Spaces of a String in JavaScript ✏️](https://dev.to/gaelgthomas/3-ways-to-replace-all-spaces-of-a-string-in-javascript-bon)
+- [Dev.to/JS] [SlickScript - Javascript made easy.](https://dev.to/jub0t/slickscript-5gmc)
+- [Lifehacker] [What to Do When Your Laptop Keeps Overheating](https://lifehacker.com/what-to-do-when-your-laptop-keeps-overheating-1848317156)
 - [Dev.to/JS] [Handling Objects in React Component State](https://dev.to/hannakim91/handling-objects-in-react-component-state-4k6)
 - [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
 - [Lifehacker] [The Easiest DIY Furniture Projects to Make With Leftover Wood](https://lifehacker.com/the-easiest-diy-furniture-projects-to-make-with-leftove-1848433181)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recursion Post Recursion Post](https://dev.to/mikedudolevitch/recursion-post-recursion-post-iof)
 - [Dev.to/JS] [Paracetamol.js💊| #33: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-33-explica-este-codigo-javascript-2bd2)
 - [Lifehacker] [How to ‘Appraise’ Your House Without Paying Someone Else to Do It](https://lifehacker.com/how-to-appraise-your-house-without-paying-someone-els-1848427125)
-- [Dev.to/JS] [Frontend Olympics Coding Challenges](https://dev.to/devolympics/frontend-olympics-coding-challenges-16pl)
-- [Dev.to/JS] [Building an Unsplash bot for Discord](https://dev.to/hiisi13/building-an-unsplash-bot-for-discord-60i)
-- [Dev.to/JS] [Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way](https://dev.to/thisishariharen/best-profile-generator-create-your-perfect-github-profile-readme-in-the-best-possible-way-189l)
 - [Lifehacker] [Everything You Should Know About the Lunar New Year](https://lifehacker.com/everything-you-should-know-about-the-lunar-new-year-1848428709)
 - [Lifehacker] [What You Need to Know Before You Claim Your Child Tax Credit This Filing Season](https://lifehacker.com/what-you-need-to-know-before-you-claim-your-child-tax-c-1848428433)
 - [Lifehacker] [Finally, There’s a Way to Play Wordle More Than Once a Day](https://lifehacker.com/finally-there-s-a-way-to-play-wordle-more-than-once-a-1848426643)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prevent Ice Dams From Ruining Your Roof](https://lifehacker.com/how-to-prevent-ice-dams-from-ruining-your-roof-1848423205)
 - [Lifehacker] [You Can Get Better at Using the Right Pronouns &lpar;Without Being Offensive&rpar;](https://lifehacker.com/you-can-get-better-at-using-the-right-pronouns-without-1848421018)
 - [Lifehacker] [It&#39;s Almost Too Easy to Make Your Own Kettle Corn](https://lifehacker.com/its-almost-too-easy-to-make-your-own-kettle-corn-1848421247)
-- [Lifehacker] [10 of the Most Common Gym Machines and How to Use Them](https://lifehacker.com/10-of-the-most-common-gym-machines-and-how-to-use-them-1848417507)
-- [Lifehacker] [Have We All Been Using Mouthwash at the Wrong Time?](https://lifehacker.com/have-we-all-been-using-mouthwash-at-the-wrong-time-1848418920)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
