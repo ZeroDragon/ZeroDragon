@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [tsParticles 1.39.1 Released](https://dev.to/matteobruni/tsparticles-1391-released-213n)
+- [Dev.to/JS] [How I made a Background Color Flipper app in vanilla javascript](https://dev.to/vedanthb/how-i-made-a-background-color-flipper-app-in-vanilla-javascript-4g7o)
+- [Dev.to/JS] [🚀 I created a android game using html css and typescript 🚀](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-5n6)
+- [Dev.to/JS] [Five whopping-useful web dev tips I used in my newest project](https://dev.to/ironcladdev/five-whopping-useful-web-dev-tips-i-used-in-my-newest-project-564b)
+- [Dev.to/JS] [How to publish NPM and PyPi packages + the difference 🐸](https://dev.to/karishmashukla/how-to-publish-npm-and-pypi-packages-the-difference-l7i)
 - [Dev.to/JS] [26/1/22](https://dev.to/shagon/26122-3kd7)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
 - [Dev.to/JS] [The smallest stylesheet possible](https://dev.to/daepher/the-smallest-stylesheet-possible-1a81)
@@ -34,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [this is a dummy post](https://dev.to/husnainsultan31/this-is-a-dummy-post-bga)
 - [Dev.to/JS] [Searchkit - Building a Search with GraphQL and Elasticsearch](https://dev.to/joemcelroy/searchkit-building-a-search-with-graphql-and-elasticsearch-19mc)
 - [Lifehacker] [20 of the Best Musical Biopics Ever Made](https://lifehacker.com/20-of-the-best-musical-biopics-ever-made-1848420823)
-- [Dev.to/JS] [I created a android game using html css and typescript](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-228a)
 - [Lifehacker] [Update Safari Immediately](https://lifehacker.com/update-safari-immediately-1848426551)
-- [Dev.to/JS] [How to effectively use logical operators in your code.](https://dev.to/efkumah/how-to-effectively-use-logical-operators-in-your-code-dik)
-- [Dev.to/JS] [How to make a custom file upload button with HTML, CSS, and JavaScript](https://dev.to/iayeshasahar/how-to-make-a-custom-file-upload-button-with-html-css-and-javascript-44ji)
 - [Lifehacker] [6 Wordle-esque Games That Are Just As Good &lpar;or Better&rpar; Than the Original](https://lifehacker.com/6-wordle-esque-games-that-are-just-as-good-or-better-1848426197)
-- [Dev.to/JS] [Creating markdown editor from scratch in React. Input and ouput](https://dev.to/theplebdev/creating-markdown-editor-from-scratch-in-react-input-and-ouput-1ln9)
-- [Dev.to/JS] [All You Need to Know About JavaScript Arrays](https://dev.to/farhannahid/all-you-need-to-know-about-javascript-arrays-285l)
 - [Lifehacker] [Stop Saying You &#39;Helped&#39; on Your Resume &lpar;and Use These Verbs Instead&rpar;](https://lifehacker.com/stop-saying-you-helped-on-your-resume-and-use-these-ve-1848425106)
 - [Lifehacker] [What&#39;s New on Prime Video in February 2022](https://lifehacker.com/whats-new-on-prime-video-in-february-2022-1848425501)
 - [Lifehacker] [The Top 10 Ways You’re Most Likely to Die &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/the-top-10-ways-you-re-most-likely-to-die-and-how-to-p-1848421615)
