@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BINANCE CLONE - BEGIN YOUR CRYPTOCURRENCY EXCHANGE LIKE BINANCE:](https://dev.to/johngamly/binance-clone-begin-your-cryptocurrency-exchange-like-binance-4pce)
+- [Dev.to/JS] [The easiest way to create authentication in 2 min with NextJs &amp; Auth0](https://dev.to/amrohan/the-easiest-way-to-create-authentication-in-2-min-with-nextjs-auth0-4c45)
+- [Dev.to/JS] [Javascript forEach&lpar;&rpar; function](https://dev.to/khafidprayoga/javascript-foreach-function-4lc9)
+- [Dev.to/JS] [undefined to string](https://dev.to/mikayil/undefined-to-string-2ag9)
 - [Dev.to/JS] [How to convert an HTML string into real HTML or DOM using JavaScript?](https://dev.to/sh20raj/how-to-convert-an-html-string-into-real-html-or-dom-using-javascript-3op1)
 - [Dev.to/JS] [How to increase text recognition quality](https://dev.to/andreygermanov/how-to-increase-text-recognition-quality-1hmb)
 - [Dev.to/JS] [OpenSea Clone - Launch an OpenSea Clone that works similar to OpenSea:](https://dev.to/johngamly/opensea-clone-launch-an-opensea-clone-that-works-similar-to-opensea-4n7f)
@@ -31,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Database Transactions to Write Queries in Strapi](https://dev.to/strapi/using-database-transactions-to-write-queries-in-strapi-5hc4)
 - [Dev.to/JS] [JavaScript check if array contains a value](https://dev.to/dailydevtips1/javascript-check-if-array-contains-a-value-59lg)
 - [Dev.to/JS] [No need for web fonts - give the browser a break!](https://dev.to/andrewmcoupe/no-need-for-web-fonts-give-the-browser-a-break-3e6o)
-- [Dev.to/JS] [Learn How The New CDC Adapter enables users to replicate data from Databases](https://dev.to/push_technology/learn-how-the-new-cdc-adapter-enables-users-to-replicate-data-from-databases-26pe)
-- [Dev.to/JS] [React 18 setTransition](https://dev.to/manomano-tech-team/react-18-settransition-4oop)
-- [Dev.to/JS] [The benefit of using typescript](https://dev.to/efpage/the-benefit-of-using-typescript-2o6j)
-- [Dev.to/JS] [#26 - Pillars
-CodeWars Kata &lpar;8 kyu&rpar;](https://dev.to/cesar__dlr/26-pillarscodewars-kata-8-kyu-16ib)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
 - [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
 - [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
