@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handling Objects in React Component State](https://dev.to/hannakim91/handling-objects-in-react-component-state-4k6)
 - [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
 - [Lifehacker] [The Easiest DIY Furniture Projects to Make With Leftover Wood](https://lifehacker.com/the-easiest-diy-furniture-projects-to-make-with-leftove-1848433181)
 - [Lifehacker] [Yell at Your Google Assistant to STFU](https://lifehacker.com/yell-at-your-google-assistant-to-fucking-stop-already-1848432377)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an Unsplash bot for Discord](https://dev.to/hiisi13/building-an-unsplash-bot-for-discord-60i)
 - [Dev.to/JS] [Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way](https://dev.to/thisishariharen/best-profile-generator-create-your-perfect-github-profile-readme-in-the-best-possible-way-189l)
 - [Lifehacker] [Everything You Should Know About the Lunar New Year](https://lifehacker.com/everything-you-should-know-about-the-lunar-new-year-1848428709)
-- [Dev.to/JS] [Day 3: Progress](https://dev.to/nandanwewhare/day-3-progress-4j7k)
 - [Lifehacker] [What You Need to Know Before You Claim Your Child Tax Credit This Filing Season](https://lifehacker.com/what-you-need-to-know-before-you-claim-your-child-tax-c-1848428433)
 - [Lifehacker] [Finally, There’s a Way to Play Wordle More Than Once a Day](https://lifehacker.com/finally-there-s-a-way-to-play-wordle-more-than-once-a-1848426643)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
