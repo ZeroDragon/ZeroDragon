@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Project - ChatApp](https://dev.to/whitewolfdot/chatapp-4d4d)
+- [Dev.to/JS] [Why bother with Functional Programming? &lpar;Pragmatic JavaScript&rpar;](https://dev.to/sethcalebweeks/why-bother-with-functional-programming-pragmatic-javascript-4i2k)
+- [Dev.to/JS] [A Basic Understanding of Big O Notation](https://dev.to/lrth06/a-basic-understanding-of-big-o-notation-2874)
 - [Dev.to/JS] [let , const and arrow functions in javascript](https://dev.to/vedanthb/let-const-and-arrow-functions-in-javascript-1d5a)
 - [Dev.to/JS] [Discord Webhook Powered Contact Form](https://dev.to/mistval/discord-webhook-powered-contact-form-3lk6)
 - [Dev.to/JS] [WebRTC For Beginners - Part 4: Screen Share](https://dev.to/ethand91/webrtc-for-beginners-part-4-screen-share-42p6)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to publish NPM and PyPi packages + the difference 🐸](https://dev.to/karishmashukla/how-to-publish-npm-and-pypi-packages-the-difference-l7i)
 - [Dev.to/JS] [26/1/22](https://dev.to/shagon/26122-3kd7)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
-- [Dev.to/JS] [The smallest stylesheet possible](https://dev.to/daepher/the-smallest-stylesheet-possible-1a81)
 - [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
-- [Dev.to/JS] [String.replace&lpar;&rpar; like a pro](https://dev.to/slide109/stringreplace-like-a-pro-1jdo)
-- [Dev.to/JS] [Why Functional Programming Should Excite You](https://dev.to/cakekindel/why-functional-programming-should-excite-you-478b)
 - [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
 - [Lifehacker] [20 of the Best Musical Biopics Ever Made](https://lifehacker.com/20-of-the-best-musical-biopics-ever-made-1848420823)
 - [Lifehacker] [Update Safari Immediately](https://lifehacker.com/update-safari-immediately-1848426551)
