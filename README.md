@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
+- [Lifehacker] [The Easiest DIY Furniture Projects to Make With Leftover Wood](https://lifehacker.com/the-easiest-diy-furniture-projects-to-make-with-leftove-1848433181)
 - [Lifehacker] [Yell at Your Google Assistant to STFU](https://lifehacker.com/yell-at-your-google-assistant-to-fucking-stop-already-1848432377)
 - [Dev.to/JS] [Hiring all types of developers!](https://dev.to/alex_hopwood_1f4726463299/hiring-all-types-of-developers-1a7)
 - [Lifehacker] [What Do You Wish You Had Known Before Adopting Your Pet?](https://lifehacker.com/what-do-you-wish-you-had-known-before-adopting-your-pet-1848432600)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Almost Too Easy to Make Your Own Kettle Corn](https://lifehacker.com/its-almost-too-easy-to-make-your-own-kettle-corn-1848421247)
 - [Lifehacker] [10 of the Most Common Gym Machines and How to Use Them](https://lifehacker.com/10-of-the-most-common-gym-machines-and-how-to-use-them-1848417507)
 - [Lifehacker] [Have We All Been Using Mouthwash at the Wrong Time?](https://lifehacker.com/have-we-all-been-using-mouthwash-at-the-wrong-time-1848418920)
-- [Lifehacker] [Use These Types of Volunteer Jobs to Selfishly Advance Your Career](https://lifehacker.com/use-these-types-of-volunteer-jobs-to-selfishly-advance-1848418702)
-- [Lifehacker] [How to Spot a &#39;Dark Empath&#39;](https://lifehacker.com/how-to-spot-a-dark-empath-1848378629)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
