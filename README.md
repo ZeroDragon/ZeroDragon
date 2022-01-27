@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 20](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-20-4lm1)
+- [Dev.to/JS] [Закончил курс очень важно знать ванильный JS](https://dev.to/ibrakhimzhanov/zakonchil-kurs-ochien-vazhno-znat-vanilnyi-js-261n)
 - [Dev.to/JS] [First Project - ChatApp](https://dev.to/whitewolfdot/chatapp-4d4d)
 - [Dev.to/JS] [Why bother with Functional Programming? &lpar;Pragmatic JavaScript&rpar;](https://dev.to/sethcalebweeks/why-bother-with-functional-programming-pragmatic-javascript-4i2k)
 - [Dev.to/JS] [A Basic Understanding of Big O Notation](https://dev.to/lrth06/a-basic-understanding-of-big-o-notation-2874)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I made a Background Color Flipper app in vanilla javascript](https://dev.to/vedanthb/how-i-made-a-background-color-flipper-app-in-vanilla-javascript-4g7o)
 - [Dev.to/JS] [🚀 I created a android game using html css and typescript 🚀](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-5n6)
 - [Dev.to/JS] [Five whopping-useful web dev tips I used in my newest project](https://dev.to/ironcladdev/five-whopping-useful-web-dev-tips-i-used-in-my-newest-project-564b)
-- [Dev.to/JS] [How to publish NPM and PyPi packages + the difference 🐸](https://dev.to/karishmashukla/how-to-publish-npm-and-pypi-packages-the-difference-l7i)
-- [Dev.to/JS] [26/1/22](https://dev.to/shagon/26122-3kd7)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
 - [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
 - [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
