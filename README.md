@@ -23,11 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What You Need to Know Before You Claim Your Child Tax Credit This Filing Season](https://lifehacker.com/what-you-need-to-know-before-you-claim-your-child-tax-c-1848428433)
+- [Dev.to/JS] [Build an SMS App with Infobip](https://dev.to/thawkin3/build-an-sms-app-with-infobip-3g2)
+- [Dev.to/JS] [Svelte test suite setup](https://dev.to/gilesdring/svelte-test-suite-setup-9ab)
+- [Lifehacker] [Finally, There’s a Way to Play Wordle More Than Once a Day](https://lifehacker.com/finally-there-s-a-way-to-play-wordle-more-than-once-a-1848426643)
 - [Dev.to/JS] [ES6 Basic Features](https://dev.to/mwanyumba7/es6-basic-features-229l)
-- [Dev.to/JS] [Forsage Clone - Start a Smart Contract-Based MLM Business Like Forsage:](https://dev.to/johngamly/forsage-clone-start-a-smart-contract-based-mlm-business-like-forsage-102i)
 - [Dev.to/JS] [Another Svelte3 cheat sheet](https://dev.to/jmau111/another-svelte3-cheat-sheet-2i6l)
 - [Dev.to/JS] [One of the best place to learn web development](https://dev.to/developerbishwas/one-of-the-best-place-to-learn-web-development-5aba)
-- [Dev.to/JS] [Monetize your digital assets using NFT minting:](https://dev.to/johngamly/monetize-your-digital-assets-using-nft-minting-3036)
 - [Dev.to/JS] [21 GitHub Repositories to Become a JavaScript Master 📚🚀](https://dev.to/madza/21-github-repositories-to-become-a-javascript-master-5bpa)
 - [Dev.to/JS] [This JavaScript Book changed my life 📚🧠👨‍💻](https://dev.to/elliot_brenyasarfo_18749/this-javascript-book-changed-my-life-480f)
 - [Dev.to/JS] [Eloquent JavaScript: The Most Powerful JS book 📚](https://dev.to/elliot_brenyasarfo_18749/eloquent-javascript-the-most-powerful-js-book-52jg)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Remove Stubborn Carpet Padding From Your Hardwood Floors](https://lifehacker.com/how-to-remove-stubborn-carpet-padding-from-your-hardwoo-1848415560)
 - [Lifehacker] [The Secret to Making Colonoscopy Prep Bearable](https://lifehacker.com/the-secret-to-making-colonoscopy-prep-less-shitty-1848416858)
 - [Lifehacker] [The Easiest, Cheapest Way to Train by Heart Rate](https://lifehacker.com/the-easiest-cheapest-way-to-train-by-heart-rate-1848418584)
-- [Lifehacker] [Yes, You Should Use a Mug to Make Perfectly Round Cookies](https://lifehacker.com/yes-you-should-use-a-mug-to-make-perfectly-round-cooki-1848417098)
-- [Lifehacker] [Tough Questions You Should Always Ask a Hiring Manager](https://lifehacker.com/tough-questions-you-should-always-ask-a-hiring-manager-1848418098)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
