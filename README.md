@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Storing Off-Chain data using NFT.Storage](https://dev.to/abhinavxt/storing-off-chain-data-using-nftstorage-dna)
+- [Dev.to/JS] [Keto X3 - Weight Loss Results, Benefits, Consumer Reviews And Warnings?](https://dev.to/ketox3info/keto-x3-weight-loss-results-benefits-consumer-reviews-and-warnings-b73)
+- [Dev.to/JS] [I created eboard](https://dev.to/sripadhs/i-created-eboard-job)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 20](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-20-4lm1)
 - [Dev.to/JS] [Закончил курс очень важно знать ванильный JS](https://dev.to/ibrakhimzhanov/zakonchil-kurs-ochien-vazhno-znat-vanilnyi-js-261n)
 - [Dev.to/JS] [First Project - ChatApp](https://dev.to/whitewolfdot/chatapp-4d4d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Discord Webhook Powered Contact Form](https://dev.to/mistval/discord-webhook-powered-contact-form-3lk6)
 - [Dev.to/JS] [WebRTC For Beginners - Part 4: Screen Share](https://dev.to/ethand91/webrtc-for-beginners-part-4-screen-share-42p6)
 - [Dev.to/JS] [tsParticles 1.39.1 Released](https://dev.to/matteobruni/tsparticles-1391-released-213n)
-- [Dev.to/JS] [How I made a Background Color Flipper app in vanilla javascript](https://dev.to/vedanthb/how-i-made-a-background-color-flipper-app-in-vanilla-javascript-4g7o)
-- [Dev.to/JS] [🚀 I created a android game using html css and typescript 🚀](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-5n6)
-- [Dev.to/JS] [Five whopping-useful web dev tips I used in my newest project](https://dev.to/ironcladdev/five-whopping-useful-web-dev-tips-i-used-in-my-newest-project-564b)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
 - [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
 - [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
