@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I built a COVID-19 stats app using React.js and Tailwind CSS.](https://dev.to/fahadimran1390/i-built-a-covid-19-stats-app-using-reactjs-and-tailwind-css-297b)
+- [Dev.to/JS] [Using setTimeout in JavaScript](https://dev.to/dailydevtips1/using-settimeout-in-javascript-2mmc)
+- [Dev.to/JS] [Open Source Avatar Generation Website](https://dev.to/vorg/open-source-avatar-generation-website-4e6p)
+- [Dev.to/JS] [How to create colored particles effect using p5js. EASY!](https://dev.to/bitnagar/how-to-create-colored-particles-effect-using-p5js-easy-1nml)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 21](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-21-3jn5)
 - [Dev.to/JS] [Is React.js the best choice for beginners?](https://dev.to/ashikarose/is-reactjs-the-best-choice-for-beginners-45em)
 - [Dev.to/JS] [How I got Ruby snippets to run browser side in less than a day](https://dev.to/taybenlor/how-i-got-ruby-snippets-to-run-client-side-in-less-than-a-day-4pbk)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#27 - Your order, please
 CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/27-your-order-pleasecodewars-kata-8-kyu-260j)
 - [Dev.to/JS] [What is Beacon request](https://dev.to/adelhamad/what-is-beacon-request-1237)
-- [Dev.to/JS] [Building a gift card store with Svelte, Node JS, Reloadly and Stripe API](https://dev.to/fullstackmafia/building-a-gift-card-store-with-svelte-node-js-reloadly-and-stripe-api-469k)
-- [Dev.to/JS] [Add Dark Mode to HTML](https://dev.to/heyylateef/add-dark-mode-to-html-3i3j)
 - [Lifehacker] [How Bad Is It to Fall Asleep to the TV?](https://lifehacker.com/how-bad-is-it-to-fall-asleep-to-the-tv-1848424862)
-- [Dev.to/JS] [Get push notifications from Javascript in just one minute!](https://dev.to/sh4yy/get-push-notifications-from-javascript-in-just-one-minute-2mke)
-- [Dev.to/JS] [3 Ways to Replace All Spaces of a String in JavaScript ✏️](https://dev.to/gaelgthomas/3-ways-to-replace-all-spaces-of-a-string-in-javascript-bon)
 - [Lifehacker] [What to Do When Your Laptop Keeps Overheating](https://lifehacker.com/what-to-do-when-your-laptop-keeps-overheating-1848317156)
 - [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
 - [Lifehacker] [The Easiest DIY Furniture Projects to Make With Leftover Wood](https://lifehacker.com/the-easiest-diy-furniture-projects-to-make-with-leftove-1848433181)
