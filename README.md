@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add User Accounts and Paid Subscriptions to your Next.js Website](https://dev.to/ajones_codes/how-to-add-user-accounts-and-paid-subscriptions-to-your-nextjs-website-585e)
+- [Lifehacker] [25 Movies That Will Make You Ugly Cry](https://lifehacker.com/25-movies-that-will-make-you-ugly-cry-1848432345)
+- [Dev.to/JS] [On Being a Software Engineer](https://dev.to/developerharon/on-being-a-software-engineer-3a94)
+- [Lifehacker] [When to See the &#39;Snow Moon&#39; in February](https://lifehacker.com/when-to-see-the-snow-moon-in-february-1848441532)
+- [Dev.to/JS] [Tutorial: How to Launch JavaScript Chat and WebRTC Video conferencing samples](https://dev.to/quickblox/tutorial-how-to-launch-javascript-chat-and-webrtc-video-conferencing-samples-c5c)
+- [Dev.to/JS] [JavaScript : Array.reduce&lpar;&rpar; method](https://dev.to/ridhamz/javascript-arrayreduce-method-4j11)
 - [Lifehacker] [Please Stop Checking Your Heart Rate so Much](https://lifehacker.com/please-stop-checking-your-heart-rate-so-much-1848436865)
 - [Dev.to/JS] [IIFE - Immediately invoked function expression](https://dev.to/mahin678/iife-immediately-invoked-function-expression-ei4)
 - [Lifehacker] [How to Block Everyone Who Uses Twitter’s NFT Profile Pictures](https://lifehacker.com/how-to-block-everyone-who-uses-twitter-s-nft-profile-pi-1848439075)
@@ -34,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Quote Generator using Javascript](https://dev.to/ajayv1/build-a-quote-generator-using-javascript-39mb)
 - [Dev.to/JS] [MKProject Books 0.1.0](https://dev.to/mustafif/mkproject-books-010-18ab)
 - [Dev.to/JS] [1 line of code: How to reverse a string](https://dev.to/martinkr/1-line-of-code-how-to-reverse-a-string-2pga)
-- [Dev.to/JS] [MedusaJS and more](https://dev.to/adrien2p/medusajs-extensiblity-1gka)
 - [Lifehacker] [How to Turn Off ‘Read Receipts’ on Most Popular Messaging Apps](https://lifehacker.com/how-to-turn-off-read-receipts-on-most-popular-messagi-1848438633)
-- [Dev.to/JS] [When use preventDefault&lpar;&rpar; in a dom?](https://dev.to/webfaisalbd/when-use-preventdefault-in-a-dom-568n)
-- [Dev.to/JS] [The Intl object: JavaScript can speak many languages](https://dev.to/nicozerpa/the-intl-object-javascript-can-speak-many-languages-5cm2)
 - [Lifehacker] [Do Collagen Supplements Even Do Anything?](https://lifehacker.com/do-collagen-supplements-even-do-anything-1848439033)
-- [Dev.to/JS] [Open Source Process Manager for Node.js](https://dev.to/vorg/open-source-process-manager-for-nodejs-2o39)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Should You Watch ‘Euphoria’ or ‘Yellowjackets?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-should-yo-1848438431)
 - [Lifehacker] [You Can Use &#39;Hey Siri&#39; to Cast Harry Potter Spells](https://lifehacker.com/how-to-use-hey-siri-to-cast-harry-potter-spells-1848437392)
 - [Lifehacker] [8 Things You Should Never Put in Your Dishwasher](https://lifehacker.com/8-things-you-should-never-put-in-your-dishwasher-1848427908)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Should Know About the Lunar New Year](https://lifehacker.com/everything-you-should-know-about-the-lunar-new-year-1848428709)
 - [Lifehacker] [What You Need to Know Before You Claim Your Child Tax Credit This Filing Season](https://lifehacker.com/what-you-need-to-know-before-you-claim-your-child-tax-c-1848428433)
 - [Lifehacker] [Finally, There’s a Way to Play Wordle More Than Once a Day](https://lifehacker.com/finally-there-s-a-way-to-play-wordle-more-than-once-a-1848426643)
-- [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
-- [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
