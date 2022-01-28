@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is React.js the best choice for beginners?](https://dev.to/ashikarose/is-reactjs-the-best-choice-for-beginners-45em)
+- [Dev.to/JS] [How I got Ruby snippets to run browser side in less than a day](https://dev.to/taybenlor/how-i-got-ruby-snippets-to-run-client-side-in-less-than-a-day-4pbk)
 - [Dev.to/JS] [JavaScript Introduction](https://dev.to/codetechpoints/javascript-introduction-mf8)
 - [Dev.to/JS] [Lightweight Alternatives to Redux](https://dev.to/asayerio_techblog/lightweight-alternatives-to-redux-210h)
 - [Dev.to/JS] [Printing out the Request?](https://dev.to/hwangs12/printing-out-the-request-17oh)
@@ -36,11 +38,9 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/27-your-order-pleasec
 - [Dev.to/JS] [3 Ways to Replace All Spaces of a String in JavaScript ✏️](https://dev.to/gaelgthomas/3-ways-to-replace-all-spaces-of-a-string-in-javascript-bon)
 - [Dev.to/JS] [SlickScript - Javascript made easy.](https://dev.to/jub0t/slickscript-5gmc)
 - [Lifehacker] [What to Do When Your Laptop Keeps Overheating](https://lifehacker.com/what-to-do-when-your-laptop-keeps-overheating-1848317156)
-- [Dev.to/JS] [Handling Objects in React Component State](https://dev.to/hannakim91/handling-objects-in-react-component-state-4k6)
 - [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
 - [Lifehacker] [The Easiest DIY Furniture Projects to Make With Leftover Wood](https://lifehacker.com/the-easiest-diy-furniture-projects-to-make-with-leftove-1848433181)
 - [Lifehacker] [Yell at Your Google Assistant to STFU](https://lifehacker.com/yell-at-your-google-assistant-to-fucking-stop-already-1848432377)
-- [Dev.to/JS] [Hiring all types of developers!](https://dev.to/alex_hopwood_1f4726463299/hiring-all-types-of-developers-1a7)
 - [Lifehacker] [What Do You Wish You Had Known Before Adopting Your Pet?](https://lifehacker.com/what-do-you-wish-you-had-known-before-adopting-your-pet-1848432600)
 - [Lifehacker] [9 &#39;Screen Time&#39; Features Everyone Should Be Using](https://lifehacker.com/9-screen-time-features-everyone-should-be-using-1848430914)
 - [Lifehacker] [What Are the &#39;Sunday Scaries,&#39; and How Can You Beat Them?](https://lifehacker.com/what-are-the-sunday-scaries-and-how-can-you-beat-them-1848432035)
