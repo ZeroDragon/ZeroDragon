@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alternativa ao React Hook Form](https://dev.to/rcamargo/alternativa-ao-react-hook-form-4a8p)
+- [Dev.to/JS] [Using React.JS as a Micro Frontend in Blazor WASM](https://dev.to/xanderselorm/using-reactjs-as-a-micro-frontend-in-blazor-wasm-1g76)
+- [Dev.to/JS] [Building a headless eCommerce shop with Magento and Vue](https://dev.to/rain2o/building-a-headless-ecommerce-shop-with-magento-and-vue-g7)
+- [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
 - [Dev.to/JS] [Diving Into Vue 3 - Getting Started](https://dev.to/deepgram/diving-into-vue-3-getting-started-3e44)
 - [Dev.to/JS] [How to add User Accounts and Paid Subscriptions to your Next.js Website](https://dev.to/ajones_codes/how-to-add-user-accounts-and-paid-subscriptions-to-your-nextjs-website-585e)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Block Everyone Who Uses Twitter’s NFT Profile Pictures](https://lifehacker.com/how-to-block-everyone-who-uses-twitter-s-nft-profile-pi-1848439075)
 - [Dev.to/JS] [Top 10 Netlify CLI Commands](https://dev.to/kizmelvin/top-10-netlify-cli-commands-13ai)
 - [Dev.to/JS] [Reviving JSON classes made easy](https://dev.to/ppoulard/reviving-json-classes-made-easy-58in)
-- [Dev.to/JS] [Javascript forEach - loop through js array items](https://dev.to/jimajs/javascript-foreach-loop-through-js-array-items-5f1g)
 - [Lifehacker] [How to Overcome ‘Productivity Dysmorphia’](https://lifehacker.com/how-to-overcome-productivity-dysmorphia-1848424796)
-- [Dev.to/JS] [How to save JSON array in MySQL with TypeORM](https://dev.to/vivekagent47/how-to-save-json-array-in-mysql-with-typeorm-3jg7)
-- [Dev.to/JS] [Build a Quote Generator using Javascript](https://dev.to/ajayv1/build-a-quote-generator-using-javascript-39mb)
 - [Lifehacker] [How to Turn Off ‘Read Receipts’ on Most Popular Messaging Apps](https://lifehacker.com/how-to-turn-off-read-receipts-on-most-popular-messagi-1848438633)
 - [Lifehacker] [Do Collagen Supplements Even Do Anything?](https://lifehacker.com/do-collagen-supplements-even-do-anything-1848439033)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Should You Watch ‘Euphoria’ or ‘Yellowjackets?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-should-yo-1848438431)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848427770)
 - [Lifehacker] [How to ‘Appraise’ Your House Without Paying Someone Else to Do It](https://lifehacker.com/how-to-appraise-your-house-without-paying-someone-els-1848427125)
 - [Lifehacker] [Everything You Should Know About the Lunar New Year](https://lifehacker.com/everything-you-should-know-about-the-lunar-new-year-1848428709)
-- [Lifehacker] [What You Need to Know Before You Claim Your Child Tax Credit This Filing Season](https://lifehacker.com/what-you-need-to-know-before-you-claim-your-child-tax-c-1848428433)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
