@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Please Stop Checking Your Heart Rate so Much](https://lifehacker.com/please-stop-checking-your-heart-rate-so-much-1848436865)
+- [Dev.to/JS] [IIFE - Immediately invoked function expression](https://dev.to/mahin678/iife-immediately-invoked-function-expression-ei4)
+- [Lifehacker] [How to Block Everyone Who Uses Twitter’s NFT Profile Pictures](https://lifehacker.com/how-to-block-everyone-who-uses-twitter-s-nft-profile-pi-1848439075)
+- [Dev.to/JS] [Top 10 Netlify CLI Commands](https://dev.to/kizmelvin/top-10-netlify-cli-commands-13ai)
+- [Dev.to/JS] [Reviving JSON classes made easy](https://dev.to/ppoulard/reviving-json-classes-made-easy-58in)
 - [Dev.to/JS] [Javascript forEach - loop through js array items](https://dev.to/jimajs/javascript-foreach-loop-through-js-array-items-5f1g)
 - [Lifehacker] [How to Overcome ‘Productivity Dysmorphia’](https://lifehacker.com/how-to-overcome-productivity-dysmorphia-1848424796)
 - [Dev.to/JS] [How to save JSON array in MySQL with TypeORM](https://dev.to/vivekagent47/how-to-save-json-array-in-mysql-with-typeorm-3jg7)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Intl object: JavaScript can speak many languages](https://dev.to/nicozerpa/the-intl-object-javascript-can-speak-many-languages-5cm2)
 - [Lifehacker] [Do Collagen Supplements Even Do Anything?](https://lifehacker.com/do-collagen-supplements-even-do-anything-1848439033)
 - [Dev.to/JS] [Open Source Process Manager for Node.js](https://dev.to/vorg/open-source-process-manager-for-nodejs-2o39)
-- [Dev.to/JS] [Write Interactive Documentation with Templates and Parameters](https://dev.to/alexadam/write-interactive-documentation-with-templates-and-parameters-5e63)
-- [Dev.to/JS] [30 Javascript animation libraries for 2022](https://dev.to/geektechpub/30-javascript-animation-libraries-for-2022-3lna)
-- [Dev.to/JS] [Playing Around with DOM Styles](https://dev.to/parenttobias/playing-around-with-dom-styles-3a8l)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Should You Watch ‘Euphoria’ or ‘Yellowjackets?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-should-yo-1848438431)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Should You Watch ‘Euphoria’ or ‘Yellowjackets?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-should-yo-1848438431)
 - [Lifehacker] [You Can Use &#39;Hey Siri&#39; to Cast Harry Potter Spells](https://lifehacker.com/how-to-use-hey-siri-to-cast-harry-potter-spells-1848437392)
 - [Lifehacker] [8 Things You Should Never Put in Your Dishwasher](https://lifehacker.com/8-things-you-should-never-put-in-your-dishwasher-1848427908)
 - [Lifehacker] [12 Real Body Modifications, Ranked by Their Usefulness](https://lifehacker.com/12-real-body-modifications-ranked-by-their-usefulness-1848436324)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Finally, There’s a Way to Play Wordle More Than Once a Day](https://lifehacker.com/finally-there-s-a-way-to-play-wordle-more-than-once-a-1848426643)
 - [Lifehacker] [What to Know Before You Try to Replace an Old iPhone Battery](https://lifehacker.com/what-to-know-before-you-try-to-replace-an-old-iphone-ba-1848423651)
 - [Lifehacker] [Why Do Eggs Come in Different Colors &lpar;and How Much Does It Matter&rpar;?](https://lifehacker.com/why-do-eggs-come-in-different-colors-and-how-much-does-1848427156)
-- [Lifehacker] [How to Work Out in a Crowded Gym Without Being a Dick](https://lifehacker.com/how-to-work-out-in-a-crowded-gym-without-being-a-dick-1848425913)
-- [Lifehacker] [20 of the Best Musical Biopics Ever Made](https://lifehacker.com/20-of-the-best-musical-biopics-ever-made-1848420823)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
