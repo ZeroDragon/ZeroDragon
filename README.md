@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 I created a android game using html css and typescript 🚀](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-15dg)
+- [Dev.to/JS] [Internationalization &lpar;i18n&rpar; for Deno with i18next](https://dev.to/adrai/internationalization-i18n-for-deno-with-i18next-3e0l)
+- [Dev.to/JS] [3 Ways to Replace All Spaces of a String in JavaScript ✏️](https://dev.to/gaelgthomas/3-ways-to-replace-all-spaces-of-a-string-in-javascript-42d)
 - [Dev.to/JS] [Front End Developer Tools](https://dev.to/anitaparmar26/front-end-developer-tools-pfm)
 - [Dev.to/JS] [Industry 4.0 Technologies](https://dev.to/brisklogic/industry-40-technologies-304i)
 - [Dev.to/JS] [Integrate the Remote apps with the Dashboard](https://dev.to/nx/integrate-the-remote-apps-with-the-dashboard-4257)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automating Captcha and Image Recognition with 2Captcha](https://dev.to/kalashin1/automating-captcha-and-image-recognition-with-2captcha-8e6)
 - [Dev.to/JS] [Buy shrooms online](https://dev.to/shroomsnupep/buy-shrooms-online-1o81)
 - [Dev.to/JS] [4 Powerful Articles Every Web Developer Must Read](https://dev.to/elliot_brenyasarfo_18749/4-powerful-articles-every-web-developer-must-read-789)
-- [Dev.to/JS] [It&#39;s Prisma Time - Execute your own queries](https://dev.to/this-is-learning/its-prisma-time-execute-your-own-queries-4olp)
-- [Dev.to/JS] [I built a COVID-19 stats app using React.js and Tailwind CSS.](https://dev.to/fahadimran1390/i-built-a-covid-19-stats-app-using-reactjs-and-tailwind-css-297b)
-- [Dev.to/JS] [Using setTimeout in JavaScript](https://dev.to/dailydevtips1/using-settimeout-in-javascript-2mmc)
 - [Lifehacker] [How Bad Is It to Fall Asleep to the TV?](https://lifehacker.com/how-bad-is-it-to-fall-asleep-to-the-tv-1848424862)
 - [Lifehacker] [What to Do When Your Laptop Keeps Overheating](https://lifehacker.com/what-to-do-when-your-laptop-keeps-overheating-1848317156)
 - [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
