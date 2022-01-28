@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Introduction](https://dev.to/codetechpoints/javascript-introduction-mf8)
+- [Dev.to/JS] [Lightweight Alternatives to Redux](https://dev.to/asayerio_techblog/lightweight-alternatives-to-redux-210h)
+- [Dev.to/JS] [Printing out the Request?](https://dev.to/hwangs12/printing-out-the-request-17oh)
 - [Dev.to/JS] [#27 - Your order, please
 CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/27-your-order-pleasecodewars-kata-8-kyu-260j)
 - [Dev.to/JS] [What is Beacon request](https://dev.to/adelhamad/what-is-beacon-request-1237)
@@ -39,10 +42,7 @@ CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/27-your-order-pleasec
 - [Lifehacker] [Yell at Your Google Assistant to STFU](https://lifehacker.com/yell-at-your-google-assistant-to-fucking-stop-already-1848432377)
 - [Dev.to/JS] [Hiring all types of developers!](https://dev.to/alex_hopwood_1f4726463299/hiring-all-types-of-developers-1a7)
 - [Lifehacker] [What Do You Wish You Had Known Before Adopting Your Pet?](https://lifehacker.com/what-do-you-wish-you-had-known-before-adopting-your-pet-1848432600)
-- [Dev.to/JS] [27/1/22](https://dev.to/shagon/27122-212f)
 - [Lifehacker] [9 &#39;Screen Time&#39; Features Everyone Should Be Using](https://lifehacker.com/9-screen-time-features-everyone-should-be-using-1848430914)
-- [Dev.to/JS] [Building Native Desktop Apps with Electron.JS](https://dev.to/codesphere/building-native-desktop-apps-with-electronjs-4m8n)
-- [Dev.to/JS] [Customize your GitHub Profile](https://dev.to/ganeshpatil386386/customize-your-github-profile-1fnb)
 - [Lifehacker] [What Are the &#39;Sunday Scaries,&#39; and How Can You Beat Them?](https://lifehacker.com/what-are-the-sunday-scaries-and-how-can-you-beat-them-1848432035)
 - [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848427770)
 - [Lifehacker] [How to ‘Appraise’ Your House Without Paying Someone Else to Do It](https://lifehacker.com/how-to-appraise-your-house-without-paying-someone-els-1848427125)
