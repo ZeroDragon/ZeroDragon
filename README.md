@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s Prisma Time - Execute your own queries](https://dev.to/this-is-learning/its-prisma-time-execute-your-own-queries-4olp)
 - [Dev.to/JS] [I built a COVID-19 stats app using React.js and Tailwind CSS.](https://dev.to/fahadimran1390/i-built-a-covid-19-stats-app-using-reactjs-and-tailwind-css-297b)
 - [Dev.to/JS] [Using setTimeout in JavaScript](https://dev.to/dailydevtips1/using-settimeout-in-javascript-2mmc)
 - [Dev.to/JS] [Open Source Avatar Generation Website](https://dev.to/vorg/open-source-avatar-generation-website-4e6p)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Printing out the Request?](https://dev.to/hwangs12/printing-out-the-request-17oh)
 - [Dev.to/JS] [#27 - Your order, please
 CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/27-your-order-pleasecodewars-kata-8-kyu-260j)
-- [Dev.to/JS] [What is Beacon request](https://dev.to/adelhamad/what-is-beacon-request-1237)
 - [Lifehacker] [How Bad Is It to Fall Asleep to the TV?](https://lifehacker.com/how-bad-is-it-to-fall-asleep-to-the-tv-1848424862)
 - [Lifehacker] [What to Do When Your Laptop Keeps Overheating](https://lifehacker.com/what-to-do-when-your-laptop-keeps-overheating-1848317156)
 - [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
