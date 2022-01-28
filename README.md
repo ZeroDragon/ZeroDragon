@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 Real Body Modifications, Ranked by Their Usefulness](https://lifehacker.com/12-real-body-modifications-ranked-by-their-usefulness-1848436324)
+- [Dev.to/JS] [Console.log&lpar;&rpar; is not JavaScript](https://dev.to/110syedmazhar/consolelog-is-not-javascript-43f1)
+- [Dev.to/JS] [Local Storage JS - TRtr](https://dev.to/nrkdrk/local-storage-js-trtr-3mgo)
+- [Lifehacker] [Should You Pump, Press, or Slam Your Brakes on a Patch of Ice?](https://lifehacker.com/should-you-pump-press-or-slam-your-brakes-on-a-patch-1848432599)
+- [Dev.to/JS] [My Favorite 3 React Animation Libraries](https://dev.to/asayerio_techblog/my-favorite-3-react-animation-libraries-1e1b)
+- [Dev.to/JS] [Dave Stewart](https://dev.to/davestewart/dave-stewart-168n)
 - [Dev.to/JS] [How To Build WebRTC Video Call with React Native?](https://dev.to/charalotteyog/how-to-build-webrtc-video-call-with-react-native-11ld)
 - [Dev.to/JS] [What is Jenkins, and Why is it used? | Jenkins Tutorial | Part I](https://dev.to/lambdatest/what-is-jenkins-and-why-is-it-used-jenkins-tutorial-part-i-2ll5)
 - [Dev.to/JS] [Implementing Infinite Scroll with React Query and FlatList in React Native](https://dev.to/jscrambler/implementing-infinite-scroll-with-react-query-and-flatlist-in-react-native-5ble)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How can you Achieve Reliable and Scalable Data Replication Across Different Systems?](https://dev.to/push_technology/how-can-you-achieve-reliable-and-scalable-data-replication-across-different-systems-55a7)
 - [Dev.to/JS] [Testing for Color Contrast: Tips and Tools](https://dev.to/tringakrasniqi/testing-for-color-contrast-tips-and-tools-2hji)
 - [Dev.to/JS] [🚀 I created a android game using html css and typescript 🚀](https://dev.to/antongustafsson/i-created-a-android-game-using-html-css-and-typescript-15dg)
-- [Dev.to/JS] [Internationalization &lpar;i18n&rpar; for Deno with i18next](https://dev.to/adrai/internationalization-i18n-for-deno-with-i18next-3e0l)
-- [Dev.to/JS] [Front End Developer Tools](https://dev.to/anitaparmar26/front-end-developer-tools-pfm)
-- [Dev.to/JS] [Industry 4.0 Technologies](https://dev.to/brisklogic/industry-40-technologies-304i)
-- [Dev.to/JS] [Integrate the Remote apps with the Dashboard](https://dev.to/nx/integrate-the-remote-apps-with-the-dashboard-4257)
 - [Lifehacker] [How Bad Is It to Fall Asleep to the TV?](https://lifehacker.com/how-bad-is-it-to-fall-asleep-to-the-tv-1848424862)
 - [Lifehacker] [What to Do When Your Laptop Keeps Overheating](https://lifehacker.com/what-to-do-when-your-laptop-keeps-overheating-1848317156)
 - [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video in February 2022](https://lifehacker.com/whats-new-on-prime-video-in-february-2022-1848425501)
 - [Lifehacker] [The Top 10 Ways You’re Most Likely to Die &lpar;and How to Prevent Them&rpar;](https://lifehacker.com/the-top-10-ways-you-re-most-likely-to-die-and-how-to-p-1848421615)
 - [Lifehacker] [How to Prevent Ice Dams From Ruining Your Roof](https://lifehacker.com/how-to-prevent-ice-dams-from-ruining-your-roof-1848423205)
-- [Lifehacker] [You Can Get Better at Using the Right Pronouns &lpar;Without Being Offensive&rpar;](https://lifehacker.com/you-can-get-better-at-using-the-right-pronouns-without-1848421018)
-- [Lifehacker] [It&#39;s Almost Too Easy to Make Your Own Kettle Corn](https://lifehacker.com/its-almost-too-easy-to-make-your-own-kettle-corn-1848421247)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
