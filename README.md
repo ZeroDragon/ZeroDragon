@@ -23,19 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React-Firebase CRUD Application](https://dev.to/yashkumat/react-firebase-crud-application-36jo)
+- [Dev.to/JS] [Theme switching with styled-components](https://dev.to/kmyrrpen/theme-switching-with-styled-components-1eap)
+- [Dev.to/JS] [Learn Flexbox : 6 Use Cases](https://dev.to/dasaradhanimmala/learn-flexbox-6-use-cases-1mn)
+- [Dev.to/JS] [Automating Captcha and Image Recognition with 2Captcha](https://dev.to/kalashin1/automating-captcha-and-image-recognition-with-2captcha-8e6)
+- [Dev.to/JS] [Buy shrooms online](https://dev.to/shroomsnupep/buy-shrooms-online-1o81)
+- [Dev.to/JS] [4 Powerful Articles Every Web Developer Must Read](https://dev.to/elliot_brenyasarfo_18749/4-powerful-articles-every-web-developer-must-read-789)
 - [Dev.to/JS] [It&#39;s Prisma Time - Execute your own queries](https://dev.to/this-is-learning/its-prisma-time-execute-your-own-queries-4olp)
 - [Dev.to/JS] [I built a COVID-19 stats app using React.js and Tailwind CSS.](https://dev.to/fahadimran1390/i-built-a-covid-19-stats-app-using-reactjs-and-tailwind-css-297b)
 - [Dev.to/JS] [Using setTimeout in JavaScript](https://dev.to/dailydevtips1/using-settimeout-in-javascript-2mmc)
 - [Dev.to/JS] [Open Source Avatar Generation Website](https://dev.to/vorg/open-source-avatar-generation-website-4e6p)
 - [Dev.to/JS] [How to create colored particles effect using p5js. EASY!](https://dev.to/bitnagar/how-to-create-colored-particles-effect-using-p5js-easy-1nml)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 21](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-21-3jn5)
-- [Dev.to/JS] [Is React.js the best choice for beginners?](https://dev.to/ashikarose/is-reactjs-the-best-choice-for-beginners-45em)
-- [Dev.to/JS] [How I got Ruby snippets to run browser side in less than a day](https://dev.to/taybenlor/how-i-got-ruby-snippets-to-run-client-side-in-less-than-a-day-4pbk)
-- [Dev.to/JS] [JavaScript Introduction](https://dev.to/codetechpoints/javascript-introduction-mf8)
-- [Dev.to/JS] [Lightweight Alternatives to Redux](https://dev.to/asayerio_techblog/lightweight-alternatives-to-redux-210h)
-- [Dev.to/JS] [Printing out the Request?](https://dev.to/hwangs12/printing-out-the-request-17oh)
-- [Dev.to/JS] [#27 - Your order, please
-CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/27-your-order-pleasecodewars-kata-8-kyu-260j)
 - [Lifehacker] [How Bad Is It to Fall Asleep to the TV?](https://lifehacker.com/how-bad-is-it-to-fall-asleep-to-the-tv-1848424862)
 - [Lifehacker] [What to Do When Your Laptop Keeps Overheating](https://lifehacker.com/what-to-do-when-your-laptop-keeps-overheating-1848317156)
 - [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
