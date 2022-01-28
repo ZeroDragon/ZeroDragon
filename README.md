@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with Nodejs file system &lpar;fs&rpar; and path module](https://dev.to/emkay860/working-with-nodejs-file-system-and-path-module-1anj)
 - [Dev.to/JS] [🚀A bill planner android app using html css and typescript🚀](https://dev.to/antongustafsson/a-bill-planner-android-app-using-html-css-and-typescript-3cpg)
 - [Dev.to/JS] [Which language &amp; framework are you using for a backend?](https://dev.to/invalidlenni/which-language-framework-are-you-using-for-a-backend-2ion)
 - [Dev.to/JS] [Alternativa ao React Hook Form](https://dev.to/rcamargo/alternativa-ao-react-hook-form-4a8p)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript : Array.reduce&lpar;&rpar; method](https://dev.to/ridhamz/javascript-arrayreduce-method-4j11)
 - [Lifehacker] [Please Stop Checking Your Heart Rate so Much](https://lifehacker.com/please-stop-checking-your-heart-rate-so-much-1848436865)
 - [Dev.to/JS] [IIFE - Immediately invoked function expression](https://dev.to/mahin678/iife-immediately-invoked-function-expression-ei4)
-- [Dev.to/JS] [MongoDB cluster on Docker](https://dev.to/ductnn/mongodb-cluster-on-docker-5ghh)
 - [Lifehacker] [How to Block Everyone Who Uses Twitter’s NFT Profile Pictures](https://lifehacker.com/how-to-block-everyone-who-uses-twitter-s-nft-profile-pi-1848439075)
 - [Lifehacker] [How to Overcome ‘Productivity Dysmorphia’](https://lifehacker.com/how-to-overcome-productivity-dysmorphia-1848424796)
 - [Lifehacker] [How to Turn Off ‘Read Receipts’ on Most Popular Messaging Apps](https://lifehacker.com/how-to-turn-off-read-receipts-on-most-popular-messagi-1848438633)
