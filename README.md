@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Generate random numbers in JavaScript](https://dev.to/thatanjan/generate-random-numbers-in-javascript-2gh6)
+- [Dev.to/JS] [🐵 Monkey Patches](https://dev.to/frahergal/monkey-patches-1k6o)
+- [Dev.to/JS] [Best Tech Related Book You Have Ever Read!](https://dev.to/nirzal07/best-tech-related-book-you-have-ever-read-jj3)
+- [Dev.to/JS] [How to Use Magic URL Login with Appwrite](https://dev.to/muthuannamalai12/how-to-use-magic-url-login-with-appwrite-2ckl)
 - [Dev.to/JS] [Got a Badge](https://dev.to/chaitanyas0405/got-a-badge-39pc)
 - [Dev.to/JS] [CSShake: Let DOM Shake](https://dev.to/vorg/csshake-let-dom-shake-3k86)
 - [Dev.to/JS] [#HowToJavaScript &lpar;2&rpar;: How To Get The First Element In An Array](https://dev.to/reservecrate/howtojavascript-2-how-to-get-the-first-element-in-an-array-5b1a)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modifying the default toolbar in Trix](https://dev.to/paramagicdev/modifying-the-default-toolbar-in-trix-411b)
 - [Dev.to/JS] [Exploring Trix](https://dev.to/paramagicdev/exploring-trix-34hb)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 22](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-22-2lnk)
-- [Dev.to/JS] [Git hooks e Husky.js 🐶](https://dev.to/fabcovalesci/git-hooks-e-huskyjs-1bm8)
-- [Dev.to/JS] [useReducer + useContext + Typescript. Without Redux!](https://dev.to/lbragile/usereducer-usecontext-typescript-without-redux-56k)
-- [Dev.to/JS] [This is the future](https://dev.to/sripadhs/this-is-the-future-332n)
-- [Dev.to/JS] [Local currencies in Javascript](https://dev.to/chandramarch18/local-currencies-in-javascript-5ceo)
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
 - [Lifehacker] [25 Movies That Will Make You Ugly Cry](https://lifehacker.com/25-movies-that-will-make-you-ugly-cry-1848432345)
