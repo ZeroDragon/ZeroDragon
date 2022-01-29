@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript recurring timers with setInterval](https://dev.to/dailydevtips1/javascript-recurring-timers-with-setinterval-1345)
+- [Dev.to/JS] [Modifying the default toolbar in Trix](https://dev.to/paramagicdev/modifying-the-default-toolbar-in-trix-411b)
+- [Dev.to/JS] [Exploring Trix](https://dev.to/paramagicdev/exploring-trix-34hb)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 22](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-22-2lnk)
 - [Dev.to/JS] [Git hooks e Husky.js 🐶](https://dev.to/fabcovalesci/git-hooks-e-huskyjs-1bm8)
 - [Dev.to/JS] [useReducer + useContext + Typescript. Without Redux!](https://dev.to/lbragile/usereducer-usecontext-typescript-without-redux-56k)
 - [Dev.to/JS] [This is the future](https://dev.to/sripadhs/this-is-the-future-332n)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Updates from the 88th meeting of TC39](https://dev.to/hemanth/updates-from-the-88th-meeting-of-tc39-473n)
 - [Dev.to/JS] [How To Be A Maintainer Of The Huge Open Source Project](https://dev.to/aserputov/how-to-be-a-maintainer-of-the-huge-open-source-project-33ef)
 - [Dev.to/JS] [Working with Nodejs file system &lpar;fs&rpar; and path module](https://dev.to/emkay860/working-with-nodejs-file-system-and-path-module-1anj)
-- [Dev.to/JS] [🚀A bill planner android app using html css and typescript🚀](https://dev.to/antongustafsson/a-bill-planner-android-app-using-html-css-and-typescript-3cpg)
-- [Dev.to/JS] [Which language &amp; framework are you using for a backend?](https://dev.to/invalidlenni/which-language-framework-are-you-using-for-a-backend-2ion)
-- [Dev.to/JS] [Alternativa ao React Hook Form](https://dev.to/rcamargo/alternativa-ao-react-hook-form-4a8p)
-- [Dev.to/JS] [Using React.JS as a Micro Frontend in Blazor WASM](https://dev.to/xanderselorm/using-reactjs-as-a-micro-frontend-in-blazor-wasm-1g76)
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
 - [Lifehacker] [25 Movies That Will Make You Ugly Cry](https://lifehacker.com/25-movies-that-will-make-you-ugly-cry-1848432345)
