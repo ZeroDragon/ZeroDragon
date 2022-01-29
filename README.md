@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Updates from the 88th meeting of TC39](https://dev.to/hemanth/updates-from-the-88th-meeting-of-tc39-473n)
 - [Dev.to/JS] [How To Be A Maintainer Of The Huge Open Source Project](https://dev.to/aserputov/how-to-be-a-maintainer-of-the-huge-open-source-project-33ef)
 - [Dev.to/JS] [Working with Nodejs file system &lpar;fs&rpar; and path module](https://dev.to/emkay860/working-with-nodejs-file-system-and-path-module-1anj)
 - [Dev.to/JS] [🚀A bill planner android app using html css and typescript🚀](https://dev.to/antongustafsson/a-bill-planner-android-app-using-html-css-and-typescript-3cpg)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [On Being a Software Engineer](https://dev.to/developerharon/on-being-a-software-engineer-3a94)
 - [Lifehacker] [When to See the &#39;Snow Moon&#39; in February](https://lifehacker.com/when-to-see-the-snow-moon-in-february-1848441532)
 - [Dev.to/JS] [Tutorial: How to Launch JavaScript Chat and WebRTC Video conferencing samples](https://dev.to/quickblox/tutorial-how-to-launch-javascript-chat-and-webrtc-video-conferencing-samples-c5c)
-- [Dev.to/JS] [JavaScript : Array.reduce&lpar;&rpar; method](https://dev.to/ridhamz/javascript-arrayreduce-method-4j11)
 - [Lifehacker] [Please Stop Checking Your Heart Rate so Much](https://lifehacker.com/please-stop-checking-your-heart-rate-so-much-1848436865)
 - [Lifehacker] [How to Block Everyone Who Uses Twitter’s NFT Profile Pictures](https://lifehacker.com/how-to-block-everyone-who-uses-twitter-s-nft-profile-pi-1848439075)
 - [Lifehacker] [How to Overcome ‘Productivity Dysmorphia’](https://lifehacker.com/how-to-overcome-productivity-dysmorphia-1848424796)
