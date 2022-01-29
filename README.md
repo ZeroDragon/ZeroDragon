@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Git hooks e Husky.js 🐶](https://dev.to/fabcovalesci/git-hooks-e-huskyjs-1bm8)
 - [Dev.to/JS] [useReducer + useContext + Typescript. Without Redux!](https://dev.to/lbragile/usereducer-usecontext-typescript-without-redux-56k)
 - [Dev.to/JS] [This is the future](https://dev.to/sripadhs/this-is-the-future-332n)
 - [Dev.to/JS] [Local currencies in Javascript](https://dev.to/chandramarch18/local-currencies-in-javascript-5ceo)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which language &amp; framework are you using for a backend?](https://dev.to/invalidlenni/which-language-framework-are-you-using-for-a-backend-2ion)
 - [Dev.to/JS] [Alternativa ao React Hook Form](https://dev.to/rcamargo/alternativa-ao-react-hook-form-4a8p)
 - [Dev.to/JS] [Using React.JS as a Micro Frontend in Blazor WASM](https://dev.to/xanderselorm/using-reactjs-as-a-micro-frontend-in-blazor-wasm-1g76)
-- [Dev.to/JS] [Building a headless eCommerce shop with Magento and Vue](https://dev.to/rain2o/building-a-headless-ecommerce-shop-with-magento-and-vue-g7)
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
 - [Lifehacker] [25 Movies That Will Make You Ugly Cry](https://lifehacker.com/25-movies-that-will-make-you-ugly-cry-1848432345)
