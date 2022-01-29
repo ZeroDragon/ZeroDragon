@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
+- [Dev.to/JS] [⭐🌟new schema builder and data validation library⭐🌟](https://dev.to/alguercode/new-schema-builder-and-data-validation-library-3c0)
+- [Dev.to/JS] [One way to make wordle using Javascript](https://dev.to/ozboware/one-way-to-make-wordle-using-javascript-1f1f)
+- [Dev.to/JS] [This is a sample project in learing tyme.](https://dev.to/athifbinu/this-is-a-sample-project-in-learing-tyme-3c44)
 - [Dev.to/JS] [I Created a List With Everything You Need to Build Your Next React Native App](https://dev.to/chefk5/i-created-a-list-with-everything-you-need-to-build-your-next-react-native-app-2da0)
 - [Dev.to/JS] [tsParticles 1.39.2 Released](https://dev.to/matteobruni/tsparticles-1392-released-ck4)
 - [Dev.to/JS] [REI](https://dev.to/patrickjonas16/rei-207l)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS issues at work - Issue 1 Fixing [object Object]](https://dev.to/saugandhkaran/js-issues-at-work-part-1-object-object-32ph)
 - [Dev.to/JS] [Writing unified tool for scrum masters #0 - The good, the bad and the ugly](https://dev.to/meatboy/writing-unified-tool-for-scrum-masters-1-the-good-the-bad-and-the-ugly-160l)
 - [Dev.to/JS] [LeetCode - Remove Duplicates from Sorted Array II](https://dev.to/_alkesh26/leetcode-remove-duplicates-from-sorted-array-ii-1llo)
-- [Dev.to/JS] [Auto generate unique Avatar colors randomly](https://dev.to/admitkard/auto-generate-avatar-colors-randomly-138j)
-- [Dev.to/JS] [The impact of security in FOSS projects and the future](https://dev.to/ieeecsvitc/the-impact-of-security-in-foss-projects-and-the-future-3jom)
-- [Dev.to/JS] [Detect Device Orientation Using JavaScript](https://dev.to/capscode/detect-device-orientation-using-javascript-26b1)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Do You Wish You Had Known Before Adopting Your Pet?](https://lifehacker.com/what-do-you-wish-you-had-known-before-adopting-your-pet-1848432600)
 - [Lifehacker] [9 &#39;Screen Time&#39; Features Everyone Should Be Using](https://lifehacker.com/9-screen-time-features-everyone-should-be-using-1848430914)
 - [Lifehacker] [What Are the &#39;Sunday Scaries,&#39; and How Can You Beat Them?](https://lifehacker.com/what-are-the-sunday-scaries-and-how-can-you-beat-them-1848432035)
-- [Lifehacker] [12 Ways You Are Making Your House Look Cheap and Tacky](https://lifehacker.com/12-ways-you-are-making-your-house-look-cheap-and-tacky-1848427770)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
 - [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
