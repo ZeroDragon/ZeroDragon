@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Welcome!](https://dev.to/ngl4/welcome-3n4b)
+- [Dev.to/JS] [How I Fixed A Small Bug In Machine Language Compiler 0100 1111 0100 1011](https://dev.to/aserputov/how-i-fixed-a-small-bug-in-machine-language-compiler-0100-1111-0100-1011-5cho)
+- [Dev.to/JS] [Padrão de Algorítimo: Contador de Frequência &lpar;+ exemplos&rpar;](https://dev.to/marcell0lopes/padrao-de-algoritimo-contador-de-frequencia-exemplos-4nmo)
 - [Dev.to/JS] [How to open VSCode with Command Line](https://dev.to/cleveroscar/how-to-open-vscode-with-command-line-5dn9)
 - [Dev.to/JS] [Null vs Undefined in JavaScript](https://dev.to/110syedmazhar/null-vs-undefined-in-javascript-1o32)
 - [Dev.to/JS] [#28 - 
@@ -34,10 +37,7 @@ Sum of two lowest positive integers - CodeWars Kata &lpar;7 kyu&rpar;](https://d
 - [Dev.to/JS] [This is a sample project in learing tyme.](https://dev.to/athifbinu/this-is-a-sample-project-in-learing-tyme-3c44)
 - [Dev.to/JS] [I Created a List With Everything You Need to Build Your Next React Native App](https://dev.to/chefk5/i-created-a-list-with-everything-you-need-to-build-your-next-react-native-app-2da0)
 - [Dev.to/JS] [tsParticles 1.39.2 Released](https://dev.to/matteobruni/tsparticles-1392-released-ck4)
-- [Dev.to/JS] [REI](https://dev.to/patrickjonas16/rei-207l)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
-- [Dev.to/JS] [How to rename files so that git can detect it.](https://dev.to/sushilsubedi/how-to-rename-files-so-that-git-can-detect-it-2213)
-- [Dev.to/JS] [Amazon EBS](https://dev.to/adelinemakokha/amazon-ebs-1b7f)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
