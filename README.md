@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#HowToJavaScript &lpar;2&rpar;: How To Get The First Element In An Array](https://dev.to/reservecrate/howtojavascript-2-how-to-get-the-first-element-in-an-array-5b1a)
+- [Dev.to/JS] [Why Do We Under-Estimate the Power of CSS Frameworks](https://dev.to/techmaniacc/why-do-we-under-estimate-the-power-of-css-frameworks-836)
 - [Dev.to/JS] [JavaScript recurring timers with setInterval](https://dev.to/dailydevtips1/javascript-recurring-timers-with-setinterval-1345)
 - [Dev.to/JS] [Modifying the default toolbar in Trix](https://dev.to/paramagicdev/modifying-the-default-toolbar-in-trix-411b)
 - [Dev.to/JS] [Exploring Trix](https://dev.to/paramagicdev/exploring-trix-34hb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Local currencies in Javascript](https://dev.to/chandramarch18/local-currencies-in-javascript-5ceo)
 - [Dev.to/JS] [JavaScript Best Practices - Part I](https://dev.to/sarathkumar6/javascript-best-practices-part-i-586n)
 - [Dev.to/JS] [Updates from the 88th meeting of TC39](https://dev.to/hemanth/updates-from-the-88th-meeting-of-tc39-473n)
-- [Dev.to/JS] [How To Be A Maintainer Of The Huge Open Source Project](https://dev.to/aserputov/how-to-be-a-maintainer-of-the-huge-open-source-project-33ef)
-- [Dev.to/JS] [Working with Nodejs file system &lpar;fs&rpar; and path module](https://dev.to/emkay860/working-with-nodejs-file-system-and-path-module-1anj)
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
 - [Lifehacker] [25 Movies That Will Make You Ugly Cry](https://lifehacker.com/25-movies-that-will-make-you-ugly-cry-1848432345)
