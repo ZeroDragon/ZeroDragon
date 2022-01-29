@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Be A Maintainer Of The Huge Open Source Project](https://dev.to/aserputov/how-to-be-a-maintainer-of-the-huge-open-source-project-33ef)
 - [Dev.to/JS] [Working with Nodejs file system &lpar;fs&rpar; and path module](https://dev.to/emkay860/working-with-nodejs-file-system-and-path-module-1anj)
 - [Dev.to/JS] [🚀A bill planner android app using html css and typescript🚀](https://dev.to/antongustafsson/a-bill-planner-android-app-using-html-css-and-typescript-3cpg)
 - [Dev.to/JS] [Which language &amp; framework are you using for a backend?](https://dev.to/invalidlenni/which-language-framework-are-you-using-for-a-backend-2ion)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tutorial: How to Launch JavaScript Chat and WebRTC Video conferencing samples](https://dev.to/quickblox/tutorial-how-to-launch-javascript-chat-and-webrtc-video-conferencing-samples-c5c)
 - [Dev.to/JS] [JavaScript : Array.reduce&lpar;&rpar; method](https://dev.to/ridhamz/javascript-arrayreduce-method-4j11)
 - [Lifehacker] [Please Stop Checking Your Heart Rate so Much](https://lifehacker.com/please-stop-checking-your-heart-rate-so-much-1848436865)
-- [Dev.to/JS] [IIFE - Immediately invoked function expression](https://dev.to/mahin678/iife-immediately-invoked-function-expression-ei4)
 - [Lifehacker] [How to Block Everyone Who Uses Twitter’s NFT Profile Pictures](https://lifehacker.com/how-to-block-everyone-who-uses-twitter-s-nft-profile-pi-1848439075)
 - [Lifehacker] [How to Overcome ‘Productivity Dysmorphia’](https://lifehacker.com/how-to-overcome-productivity-dysmorphia-1848424796)
 - [Lifehacker] [How to Turn Off ‘Read Receipts’ on Most Popular Messaging Apps](https://lifehacker.com/how-to-turn-off-read-receipts-on-most-popular-messagi-1848438633)
