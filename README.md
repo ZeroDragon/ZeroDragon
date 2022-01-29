@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing unified tool for scrum masters #0 - The good, the bad and the ugly](https://dev.to/meatboy/writing-unified-tool-for-scrum-masters-1-the-good-the-bad-and-the-ugly-160l)
+- [Dev.to/JS] [LeetCode - Remove Duplicates from Sorted Array II](https://dev.to/_alkesh26/leetcode-remove-duplicates-from-sorted-array-ii-1llo)
+- [Dev.to/JS] [Auto generate unique Avatar colors randomly](https://dev.to/admitkard/auto-generate-avatar-colors-randomly-138j)
 - [Dev.to/JS] [The impact of security in FOSS projects and the future](https://dev.to/ieeecsvitc/the-impact-of-security-in-foss-projects-and-the-future-3jom)
 - [Dev.to/JS] [Detect Device Orientation Using JavaScript](https://dev.to/capscode/detect-device-orientation-using-javascript-26b1)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a simple React blog with WordPress](https://dev.to/abodsakah/create-a-simple-react-blog-with-wordpress-48n0)
 - [Dev.to/JS] [Javascript Quora Community](https://dev.to/practical_coder123/javascript-quora-community-p59)
 - [Dev.to/JS] [Android app](https://dev.to/kabtf_59/android-app-2c0a)
-- [Dev.to/JS] [Array Helper Methods: Every Javascript Developer Must know ! 😯](https://dev.to/thisisraj/array-helper-methods-every-javascript-developer-must-know--37pe)
-- [Dev.to/JS] [How to integrate MongoDb in your Next.js project](https://dev.to/undefinedzack/how-to-integrate-mongodb-in-your-nextjs-project-30e5)
-- [Dev.to/JS] [Generate random numbers in JavaScript](https://dev.to/thatanjan/generate-random-numbers-in-javascript-2gh6)
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
 - [Lifehacker] [25 Movies That Will Make You Ugly Cry](https://lifehacker.com/25-movies-that-will-make-you-ugly-cry-1848432345)
