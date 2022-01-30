@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Standardize Your Next.js Project with ESLint and Husky](https://dev.to/yehezkielgunawan/standardized-your-nextjs-project-with-eslint-and-husky-8ia)
+- [Dev.to/JS] [TypeScript Interfaces Explained in 2 Minutes](https://dev.to/nickycdk/typescript-interfaces-explained-in-2-minutes-2ogb)
+- [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Dev.to/JS] [How to Add Animations with React Transition Group](https://dev.to/asayerio_techblog/how-to-add-animations-with-react-transition-group-5573)
 - [Dev.to/JS] [&quot;Voir plus&quot;, ou comment faire un ellipsis personnalisé](https://dev.to/alexandrefauchard/voir-plus-ou-comment-faire-un-ellipsis-personnalise-51i4)
 - [Dev.to/JS] [Looking for a Lead Developer/CTO shares + salary](https://dev.to/alexis_murat_vizion/looking-for-a-lead-developercto-shares-salary-258m)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rewrite nodejs cli using golang](https://dev.to/rxliuli/rewrite-nodejs-cli-using-golang-46o4)
 - [Dev.to/JS] [SvelteKit frontend + GraphQL backend hosting in the EU?](https://dev.to/mandrasch/sveltekit-graphql-backend-hosting-in-the-eu-34mf)
 - [Dev.to/JS] [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
-- [Dev.to/JS] [Explained: Imperative vs Declarative programming](https://dev.to/siddharthshyniben/explained-imperative-vs-declarative-programming-577g)
-- [Dev.to/JS] [Why I am starting #100daysofblogging](https://dev.to/therajatg/why-i-am-starting-100daysofblogging-d7f)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 &#39;Screen Time&#39; Features Everyone Should Be Using](https://lifehacker.com/9-screen-time-features-everyone-should-be-using-1848430914)
 - [Lifehacker] [What Are the &#39;Sunday Scaries,&#39; and How Can You Beat Them?](https://lifehacker.com/what-are-the-sunday-scaries-and-how-can-you-beat-them-1848432035)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
-- [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
-- [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
 ---
 
