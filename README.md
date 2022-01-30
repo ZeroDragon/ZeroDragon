@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Hooks: Gotta Hook ’Em All](https://dev.to/ruppysuppy/react-hooks-gotta-hook-em-all-78b)
+- [Dev.to/JS] [I did it. *sobbing*.](https://dev.to/roldn/i-did-it-sobbing-1cg9)
 - [Dev.to/JS] [Leetcode diary: 259. 3Sum Smaller](https://dev.to/kevin074/leetcode-diary-259-3sum-smaller-2gl6)
 - [Dev.to/JS] [My new project](https://dev.to/sripadhs/my-new-project-ebm)
 - [Dev.to/JS] [Photo App on React and Ruby on Rails...](https://dev.to/jcbonassin/photo-app-on-react-and-ruby-on-rails-1coc)
@@ -32,10 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Welcome!](https://dev.to/ngl4/welcome-3n4b)
 - [Dev.to/JS] [How I Fixed A Small Bug In Machine Language Compiler 0100 1111 0100 1011](https://dev.to/aserputov/how-i-fixed-a-small-bug-in-machine-language-compiler-0100-1111-0100-1011-5cho)
 - [Dev.to/JS] [Padrão de Algorítimo: Contador de Frequência &lpar;+ exemplos&rpar;](https://dev.to/marcell0lopes/padrao-de-algoritimo-contador-de-frequencia-exemplos-4nmo)
-- [Dev.to/JS] [How to open VSCode with Command Line](https://dev.to/cleveroscar/how-to-open-vscode-with-command-line-5dn9)
-- [Dev.to/JS] [Null vs Undefined in JavaScript](https://dev.to/110syedmazhar/null-vs-undefined-in-javascript-1o32)
-- [Dev.to/JS] [#28 - 
-Sum of two lowest positive integers - CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/28-sum-of-two-lowest-positive-integers-codewars-kata-7-kyu-4cij)
+- [Dev.to/JS] [How to open VSCode with Terminal](https://dev.to/cleveroscar/how-to-open-vscode-with-command-line-5dn9)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
