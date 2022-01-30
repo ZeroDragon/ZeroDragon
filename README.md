@@ -23,20 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Killer Forum You Should Join to Be A Productive Programmer](https://dev.to/developerbishwas/10-killer-forum-you-should-join-to-be-a-productive-programmer-2l4k)
+- [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
+- [Dev.to/JS] [Izuku - 2D Data Visualization and Manipulation in NodeJS](https://dev.to/luciferreeves/izuku-2d-data-visualization-and-manipulation-in-nodejs-136o)
+- [Dev.to/JS] [best github repo for improve and learning javascript.](https://dev.to/alguercode/best-github-repo-for-improve-and-learning-javascript-3k1i)
+- [Dev.to/JS] [best resource to find exeplined grid and flexbox properties in css](https://dev.to/alguercode/best-resource-to-find-exeplined-grid-and-flexbox-properties-in-css-3k8k)
+- [Dev.to/JS] [Throwing around text - Kinetic typography part 2: It defies gravity itself thanks to matter.js! 📃🛫🤯](https://dev.to/thormeier/throwing-around-text-kinetic-typography-part-2-it-defies-gravity-itself-thanks-to-matterjs-239e)
+- [Dev.to/JS] [Create an Open Graph image engine in just 4 steps](https://dev.to/ikartik/create-an-open-graph-image-engine-in-just-4-steps-1kdd)
+- [Dev.to/JS] [One JSON Schema rules them for all: Typescript type, API validation, OpenAPI doc, and Swagger UI.](https://dev.to/thyphamdev/one-json-schema-rules-them-for-all-typescript-type-api-validation-openapi-doc-and-swagger-ui-3k3p)
+- [Dev.to/JS] [JavaScript ES2020 features: Nullish Coalescing Operator &lpar;??&rpar; and Optional Chaining &lpar;?.&rpar;](https://dev.to/ianfelix/javascript-es2020-features-nullish-coalescing-operator-and-optional-chaining--3125)
 - [Dev.to/JS] [Avoiding subtle data fetching bugs with the SvelteKit load&lpar;&rpar; function](https://dev.to/khromov/avoiding-subtle-data-fetching-bugs-with-sveltekits-load-function-4g1m)
 - [Dev.to/JS] [FormData doesn’t include disabled fieldsets](https://dev.to/starbist/formdata-doesnt-include-disabled-fieldsets-474n)
 - [Dev.to/JS] [How To Get Into Technical Writing](https://dev.to/the_greatbonnie/how-to-get-into-technical-writing-4f24)
 - [Dev.to/JS] [Get Country Holidays Using Google Calendar API](https://dev.to/monfernape/get-country-holidays-using-google-calendar-api-3dh6)
-- [Dev.to/JS] [Applying publisher subscriber design pattern in javascript](https://dev.to/wingpuah/applying-publisher-subscriber-design-pattern-in-javascript-jeb)
-- [Dev.to/JS] [Cheat sheet to common React terms](https://dev.to/wingpuah/cheat-sheet-to-common-react-terms-1kn3)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
-- [Dev.to/JS] [The mindset of a Coder.](https://dev.to/kritika27/the-mindset-of-a-coder-4pmo)
-- [Dev.to/JS] [LeetCode - Subsets II](https://dev.to/_alkesh26/leetcode-subsets-ii-50o4)
-- [Dev.to/JS] [Countdown component in react native](https://dev.to/ajmal_hasan/countdown-component-in-react-native-45pn)
-- [Dev.to/JS] [Best place to learn web development](https://dev.to/developerbishwas/best-place-to-learn-web-development-3nnj)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
-- [Dev.to/JS] [Standardize Your Next.js Project with ESLint and Husky](https://dev.to/yehezkielgunawan/standardized-your-nextjs-project-with-eslint-and-husky-8ia)
-- [Dev.to/JS] [TypeScript Interfaces Explained in 2 Minutes](https://dev.to/nickycdk/typescript-interfaces-explained-in-2-minutes-2ogb)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
 - [Lifehacker] [The Easiest DIY Furniture Projects to Make With Leftover Wood](https://lifehacker.com/the-easiest-diy-furniture-projects-to-make-with-leftove-1848433181)
 - [Lifehacker] [Yell at Your Google Assistant to STFU](https://lifehacker.com/yell-at-your-google-assistant-to-fucking-stop-already-1848432377)
-- [Lifehacker] [What Do You Wish You Had Known Before Adopting Your Pet?](https://lifehacker.com/what-do-you-wish-you-had-known-before-adopting-your-pet-1848432600)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
