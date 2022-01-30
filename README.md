@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Avoiding subtle data fetching bugs with the SvelteKit load&lpar;&rpar; function](https://dev.to/khromov/avoiding-subtle-data-fetching-bugs-with-sveltekits-load-function-4g1m)
+- [Dev.to/JS] [FormData doesn’t include disabled fieldsets](https://dev.to/starbist/formdata-doesnt-include-disabled-fieldsets-474n)
+- [Dev.to/JS] [How To Get Into Technical Writing](https://dev.to/the_greatbonnie/how-to-get-into-technical-writing-4f24)
+- [Dev.to/JS] [Get Country Holidays Using Google Calendar API](https://dev.to/monfernape/get-country-holidays-using-google-calendar-api-3dh6)
 - [Dev.to/JS] [Applying publisher subscriber design pattern in javascript](https://dev.to/wingpuah/applying-publisher-subscriber-design-pattern-in-javascript-jeb)
 - [Dev.to/JS] [Cheat sheet to common React terms](https://dev.to/wingpuah/cheat-sheet-to-common-react-terms-1kn3)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Standardize Your Next.js Project with ESLint and Husky](https://dev.to/yehezkielgunawan/standardized-your-nextjs-project-with-eslint-and-husky-8ia)
 - [Dev.to/JS] [TypeScript Interfaces Explained in 2 Minutes](https://dev.to/nickycdk/typescript-interfaces-explained-in-2-minutes-2ogb)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
-- [Dev.to/JS] [How to Add Animations with React Transition Group](https://dev.to/asayerio_techblog/how-to-add-animations-with-react-transition-group-5573)
-- [Dev.to/JS] [&quot;Voir plus&quot;, ou comment faire un ellipsis personnalisé](https://dev.to/alexandrefauchard/voir-plus-ou-comment-faire-un-ellipsis-personnalise-51i4)
-- [Dev.to/JS] [Looking for a Lead Developer/CTO shares + salary](https://dev.to/alexis_murat_vizion/looking-for-a-lead-developercto-shares-salary-258m)
-- [Dev.to/JS] [Javascript call&lpar;&rpar;, apply&lpar;&rpar;, bind&lpar;&rpar; methods &amp; their polyfills](https://dev.to/kirteshbansal/call-apply-and-bind-javascript-methods-their-polyfills-k4e)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
