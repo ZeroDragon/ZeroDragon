@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why I am starting #100daysofblogging](https://dev.to/rajatgupta/why-i-am-starting-100daysofblogging-d7f)
+- [Dev.to/JS] [Javascript IIFE](https://dev.to/khafidprayoga/javascript-iife-59ep)
+- [Dev.to/JS] [Under-the-hood of Docker](https://dev.to/craigtaub/under-the-hood-of-docker-2dk2)
+- [Dev.to/JS] [Let’s Code a Final Fantasy Style Browser Game With rpg.js | Add NPCs, Dialogs and Events | Episode 3](https://dev.to/timo_ernst/lets-code-a-final-fantasy-style-browser-game-with-rpgjs-add-npcs-dialogs-and-events-episode-3-5jn)
 - [Dev.to/JS] [React Native Firestore: Real-time update with custom hook](https://dev.to/sweesenkoh/react-native-cloud-firestore-real-time-update-with-custom-hook-1j7i)
 - [Dev.to/JS] [Deep dive into React codebase [EP4: How ReactDOM.render works]](https://dev.to/fromaline/deep-dive-into-react-codebase-ep4-how-reactdomrender-works-32n6)
 - [Dev.to/JS] [ReactJS - Disable console.log&lpar;&rpar; in production and staging](https://dev.to/rajeshroyal/reactjs-disable-consolelog-in-production-and-staging-3l38)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Should I learn Redux or use Context Hook in React js,](https://dev.to/hannhtay/should-i-learn-redux-or-use-context-hook-in-react-js-1d35)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 23](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-23-3f09)
 - [Dev.to/JS] [React Hooks: Gotta Hook ’Em All](https://dev.to/ruppysuppy/react-hooks-gotta-hook-em-all-78b)
-- [Dev.to/JS] [I did it. *sobbing*.](https://dev.to/roldn/i-did-it-sobbing-1cg9)
-- [Dev.to/JS] [Leetcode diary: 259. 3Sum Smaller](https://dev.to/kevin074/leetcode-diary-259-3sum-smaller-2gl6)
-- [Dev.to/JS] [My new project](https://dev.to/sripadhs/my-new-project-ebm)
-- [Dev.to/JS] [Photo App on React and Ruby on Rails...](https://dev.to/jcbonassin/photo-app-on-react-and-ruby-on-rails-1coc)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
