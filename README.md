@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep dive into React codebase [EP4: How ReactDOM.render works]](https://dev.to/fromaline/deep-dive-into-react-codebase-ep4-how-reactdomrender-works-32n6)
+- [Dev.to/JS] [ReactJS - Disable console.log&lpar;&rpar; in production and staging](https://dev.to/rajeshroyal/reactjs-disable-consolelog-in-production-and-staging-3l38)
+- [Dev.to/JS] [login user validation using volder](https://dev.to/alguercode/login-user-validation-using-volder-1kfe)
+- [Dev.to/JS] [How to Add a QR and Barcode Scanner to Your Vue.js App](https://dev.to/olefyrenko/how-to-add-a-qr-and-barcode-scanner-to-your-vuejs-app-4c50)
 - [Dev.to/JS] [Should I learn Redux or use Context Hook in React js,](https://dev.to/hannhtay/should-i-learn-redux-or-use-context-hook-in-react-js-1d35)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 23](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-23-3f09)
 - [Dev.to/JS] [React Hooks: Gotta Hook ’Em All](https://dev.to/ruppysuppy/react-hooks-gotta-hook-em-all-78b)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My new project](https://dev.to/sripadhs/my-new-project-ebm)
 - [Dev.to/JS] [Photo App on React and Ruby on Rails...](https://dev.to/jcbonassin/photo-app-on-react-and-ruby-on-rails-1coc)
 - [Dev.to/JS] [Create your own Wordle with animations 🧩🎲](https://dev.to/yaku/wordle-animations-55oo)
-- [Dev.to/JS] [How you can create a sidebar like the daily.dev extension fron scratch using React and Tailwindcss in 4 steps](https://dev.to/unshift/how-you-can-create-a-sidebar-like-the-dailydev-extension-fron-scratch-using-react-and-tailwindcss-in-5-steps-nk7)
-- [Dev.to/JS] [React ゲーム作成用の枠を作る](https://dev.to/kaede_io/react-gemuzuo-cheng-yong-nowaku-wozuo-ru-4ld9)
-- [Dev.to/JS] [Welcome!](https://dev.to/ngl4/welcome-3n4b)
-- [Dev.to/JS] [How I Fixed A Small Bug In Machine Language Compiler 0100 1111 0100 1011](https://dev.to/aserputov/how-i-fixed-a-small-bug-in-machine-language-compiler-0100-1111-0100-1011-5cho)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
