@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Applying publisher subscriber design pattern in javascript](https://dev.to/wingpuah/applying-publisher-subscriber-design-pattern-in-javascript-jeb)
+- [Dev.to/JS] [Cheat sheet to common React terms](https://dev.to/wingpuah/cheat-sheet-to-common-react-terms-1kn3)
+- [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
+- [Dev.to/JS] [The mindset of a Coder.](https://dev.to/kritika27/the-mindset-of-a-coder-4pmo)
+- [Dev.to/JS] [LeetCode - Subsets II](https://dev.to/_alkesh26/leetcode-subsets-ii-50o4)
+- [Dev.to/JS] [Countdown component in react native](https://dev.to/ajmal_hasan/countdown-component-in-react-native-45pn)
 - [Dev.to/JS] [Best place to learn web development](https://dev.to/developerbishwas/best-place-to-learn-web-development-3nnj)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
 - [Dev.to/JS] [Standardize Your Next.js Project with ESLint and Husky](https://dev.to/yehezkielgunawan/standardized-your-nextjs-project-with-eslint-and-husky-8ia)
@@ -32,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;Voir plus&quot;, ou comment faire un ellipsis personnalisé](https://dev.to/alexandrefauchard/voir-plus-ou-comment-faire-un-ellipsis-personnalise-51i4)
 - [Dev.to/JS] [Looking for a Lead Developer/CTO shares + salary](https://dev.to/alexis_murat_vizion/looking-for-a-lead-developercto-shares-salary-258m)
 - [Dev.to/JS] [Javascript call&lpar;&rpar;, apply&lpar;&rpar;, bind&lpar;&rpar; methods &amp; their polyfills](https://dev.to/kirteshbansal/call-apply-and-bind-javascript-methods-their-polyfills-k4e)
-- [Dev.to/JS] [Getting started with Agrippa, the React CLI](https://dev.to/nitzanhen/getting-started-with-agrippa-the-react-cli-24i8)
-- [Dev.to/JS] [JavaScript paste text from the clipboard](https://dev.to/dailydevtips1/javascript-paste-text-from-the-clipboard-kab)
-- [Dev.to/JS] [Create a Cool Login Page with React](https://dev.to/marianna13/create-a-cool-login-page-with-react-2i46)
-- [Dev.to/JS] [Rewrite nodejs cli using golang](https://dev.to/rxliuli/rewrite-nodejs-cli-using-golang-46o4)
-- [Dev.to/JS] [SvelteKit frontend + GraphQL backend hosting in the EU?](https://dev.to/mandrasch/sveltekit-graphql-backend-hosting-in-the-eu-34mf)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest DIY Furniture Projects to Make With Leftover Wood](https://lifehacker.com/the-easiest-diy-furniture-projects-to-make-with-leftove-1848433181)
 - [Lifehacker] [Yell at Your Google Assistant to STFU](https://lifehacker.com/yell-at-your-google-assistant-to-fucking-stop-already-1848432377)
 - [Lifehacker] [What Do You Wish You Had Known Before Adopting Your Pet?](https://lifehacker.com/what-do-you-wish-you-had-known-before-adopting-your-pet-1848432600)
-- [Lifehacker] [9 &#39;Screen Time&#39; Features Everyone Should Be Using](https://lifehacker.com/9-screen-time-features-everyone-should-be-using-1848430914)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
