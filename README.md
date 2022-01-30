@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add Animations with React Transition Group](https://dev.to/asayerio_techblog/how-to-add-animations-with-react-transition-group-5573)
+- [Dev.to/JS] [&quot;Voir plus&quot;, ou comment faire un ellipsis personnalisé](https://dev.to/alexandrefauchard/voir-plus-ou-comment-faire-un-ellipsis-personnalise-51i4)
+- [Dev.to/JS] [Looking for a Lead Developer/CTO shares + salary](https://dev.to/alexis_murat_vizion/looking-for-a-lead-developercto-shares-salary-258m)
+- [Dev.to/JS] [Javascript call&lpar;&rpar;, apply&lpar;&rpar;, bind&lpar;&rpar; methods &amp; their polyfills](https://dev.to/kirteshbansal/call-apply-and-bind-javascript-methods-their-polyfills-k4e)
+- [Dev.to/JS] [Getting started with Agrippa, the React CLI](https://dev.to/nitzanhen/getting-started-with-agrippa-the-react-cli-24i8)
 - [Dev.to/JS] [JavaScript paste text from the clipboard](https://dev.to/dailydevtips1/javascript-paste-text-from-the-clipboard-kab)
 - [Dev.to/JS] [Create a Cool Login Page with React](https://dev.to/marianna13/create-a-cool-login-page-with-react-2i46)
 - [Dev.to/JS] [Rewrite nodejs cli using golang](https://dev.to/rxliuli/rewrite-nodejs-cli-using-golang-46o4)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
 - [Dev.to/JS] [Explained: Imperative vs Declarative programming](https://dev.to/siddharthshyniben/explained-imperative-vs-declarative-programming-577g)
 - [Dev.to/JS] [Why I am starting #100daysofblogging](https://dev.to/therajatg/why-i-am-starting-100daysofblogging-d7f)
-- [Dev.to/JS] [Javascript IIFE](https://dev.to/khafidprayoga/javascript-iife-59ep)
-- [Dev.to/JS] [Under-the-hood of Docker](https://dev.to/craigtaub/under-the-hood-of-docker-2dk2)
-- [Dev.to/JS] [Let’s Code a Final Fantasy Style Browser Game With rpg.js | Add NPCs, Dialogs and Events | Episode 3](https://dev.to/timo_ernst/lets-code-a-final-fantasy-style-browser-game-with-rpgjs-add-npcs-dialogs-and-events-episode-3-5jn)
-- [Dev.to/JS] [React Native Firestore: Real-time update with custom hook](https://dev.to/sweesenkoh/react-native-cloud-firestore-real-time-update-with-custom-hook-1j7i)
-- [Dev.to/JS] [Deep dive into React codebase [EP4: How ReactDOM.render works]](https://dev.to/fromaline/deep-dive-into-react-codebase-ep4-how-reactdomrender-works-32n6)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
