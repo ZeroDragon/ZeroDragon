@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Browser Storage APIs](https://dev.to/adelhamad/browser-storage-apis-3gcl)
+- [Dev.to/JS] [5 Insane Features in my OS in the Browser!!! 🤯](https://dev.to/dustinbrett/5-insane-features-in-my-os-in-the-browser-46do)
+- [Dev.to/JS] [The tricks of Javascript](https://dev.to/noriller/the-tricks-of-javascript-3pn)
+- [Dev.to/JS] [Attempt to create an Elifoot style game for Football &lpar;🏈&rpar;m](https://dev.to/luizhap/attempt-to-create-an-elifoot-style-game-for-football--32gj)
+- [Dev.to/JS] [React hook Text to speech web api](https://dev.to/kumard3/react-hook-text-to-speech-web-api-4la0)
 - [Dev.to/JS] [My Journey to Become a Developer](https://dev.to/ahmetmeliksah/my-journey-to-become-a-developer-5f68)
 - [Dev.to/JS] [State of the Web: Static Site Generators](https://dev.to/asyncbanana/state-of-the-web-static-site-generators-g6f)
 - [Dev.to/JS] [Create a nice search bar UX with vue-search-input](https://dev.to/kouts/create-a-nice-search-bar-ux-with-vue-search-input-3697)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entendendo e solucionando o bloqueio do Event Loop no NodeJs [Parte 2]](https://dev.to/r9n/entendendo-e-solucionando-o-bloqueio-do-event-loop-no-nodejs-parte-2-67m)
 - [Dev.to/JS] [Entendendo e solucionando o bloqueio do Event Loop no NodeJs [Parte 1]](https://dev.to/r9n/entendendo-e-solucionando-o-bloqueio-do-event-loop-no-nodejs-parte-1-3nec)
 - [Dev.to/JS] [I made changelog page for my portfolio website](https://dev.to/m_ahmad/i-made-changelog-page-for-my-portfolio-website-4jfe)
-- [Dev.to/JS] [ELI5: Promises in JavaScript](https://dev.to/morgenstern2573/eli5-promises-in-javascript-22a3)
-- [Dev.to/JS] [A Guide to React Context 💫](https://dev.to/adyasha8105/a-guide-to-react-context-46oo)
-- [Dev.to/JS] [Another wall climbed](https://dev.to/roldn/another-wall-climbed-man)
-- [Dev.to/JS] [Guess the result](https://dev.to/haaamed30/guess-the-result-oj6)
-- [Dev.to/JS] [Tipe Data dalam JavaScript](https://dev.to/irlanvila/tipe-data-dalam-javascript-123)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
