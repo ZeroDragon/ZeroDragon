@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best place to learn web development](https://dev.to/developerbishwas/best-place-to-learn-web-development-3nnj)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
 - [Dev.to/JS] [Standardize Your Next.js Project with ESLint and Husky](https://dev.to/yehezkielgunawan/standardized-your-nextjs-project-with-eslint-and-husky-8ia)
 - [Dev.to/JS] [TypeScript Interfaces Explained in 2 Minutes](https://dev.to/nickycdk/typescript-interfaces-explained-in-2-minutes-2ogb)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Cool Login Page with React](https://dev.to/marianna13/create-a-cool-login-page-with-react-2i46)
 - [Dev.to/JS] [Rewrite nodejs cli using golang](https://dev.to/rxliuli/rewrite-nodejs-cli-using-golang-46o4)
 - [Dev.to/JS] [SvelteKit frontend + GraphQL backend hosting in the EU?](https://dev.to/mandrasch/sveltekit-graphql-backend-hosting-in-the-eu-34mf)
-- [Dev.to/JS] [How To Build a Pastebin Clone for Free](https://dev.to/jerrynsh/how-to-build-a-pastebin-clone-for-free-2e8a)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
