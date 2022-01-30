@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
 - [Dev.to/JS] [Standardize Your Next.js Project with ESLint and Husky](https://dev.to/yehezkielgunawan/standardized-your-nextjs-project-with-eslint-and-husky-8ia)
 - [Dev.to/JS] [TypeScript Interfaces Explained in 2 Minutes](https://dev.to/nickycdk/typescript-interfaces-explained-in-2-minutes-2ogb)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yell at Your Google Assistant to STFU](https://lifehacker.com/yell-at-your-google-assistant-to-fucking-stop-already-1848432377)
 - [Lifehacker] [What Do You Wish You Had Known Before Adopting Your Pet?](https://lifehacker.com/what-do-you-wish-you-had-known-before-adopting-your-pet-1848432600)
 - [Lifehacker] [9 &#39;Screen Time&#39; Features Everyone Should Be Using](https://lifehacker.com/9-screen-time-features-everyone-should-be-using-1848430914)
-- [Lifehacker] [What Are the &#39;Sunday Scaries,&#39; and How Can You Beat Them?](https://lifehacker.com/what-are-the-sunday-scaries-and-how-can-you-beat-them-1848432035)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
