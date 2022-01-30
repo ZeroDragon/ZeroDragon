@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey to Become a Developer](https://dev.to/ahmetmeliksah/my-journey-to-become-a-developer-5f68)
+- [Dev.to/JS] [State of the Web: Static Site Generators](https://dev.to/asyncbanana/state-of-the-web-static-site-generators-g6f)
+- [Dev.to/JS] [Create a nice search bar UX with vue-search-input](https://dev.to/kouts/create-a-nice-search-bar-ux-with-vue-search-input-3697)
+- [Dev.to/JS] [Switch statements in javascript – How to refactor?](https://dev.to/ajayv1/switch-statements-in-javascript-how-to-refactor-5gl8)
+- [Dev.to/JS] [Entendendo e solucionando o bloqueio do Event Loop no NodeJs [Parte 2]](https://dev.to/r9n/entendendo-e-solucionando-o-bloqueio-do-event-loop-no-nodejs-parte-2-67m)
 - [Dev.to/JS] [Entendendo e solucionando o bloqueio do Event Loop no NodeJs [Parte 1]](https://dev.to/r9n/entendendo-e-solucionando-o-bloqueio-do-event-loop-no-nodejs-parte-1-3nec)
 - [Dev.to/JS] [I made changelog page for my portfolio website](https://dev.to/m_ahmad/i-made-changelog-page-for-my-portfolio-website-4jfe)
 - [Dev.to/JS] [ELI5: Promises in JavaScript](https://dev.to/morgenstern2573/eli5-promises-in-javascript-22a3)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Another wall climbed](https://dev.to/roldn/another-wall-climbed-man)
 - [Dev.to/JS] [Guess the result](https://dev.to/haaamed30/guess-the-result-oj6)
 - [Dev.to/JS] [Tipe Data dalam JavaScript](https://dev.to/irlanvila/tipe-data-dalam-javascript-123)
-- [Dev.to/JS] [I made an extremely fast, fully static rss reader](https://dev.to/fayaz/i-made-an-extremely-fast-fully-static-rss-reader-11fa)
-- [Dev.to/JS] [Everything about React JS: A comprehensive guide about React including concepts and examples.](https://dev.to/pratham10/everything-about-react-js-a-comprehensive-guide-about-react-including-concepts-and-examples-1534)
-- [Dev.to/JS] [Conceptos básicos de JavaScript](https://dev.to/martindev/conceptos-basicos-de-javascript-348k)
-- [Dev.to/JS] [Weekly Digest 04/2022](https://dev.to/marcobiedermann/weekly-digest-042022-2dkd)
-- [Dev.to/JS] [CSS Preprocessors: LESS and SASS](https://dev.to/andreas15/css-preprocessors-less-and-sass-160h)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
