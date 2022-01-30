@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode diary: 259. 3Sum Smaller](https://dev.to/kevin074/leetcode-diary-259-3sum-smaller-2gl6)
+- [Dev.to/JS] [My new project](https://dev.to/sripadhs/my-new-project-ebm)
+- [Dev.to/JS] [Photo App on React and Ruby on Rails...](https://dev.to/jcbonassin/photo-app-on-react-and-ruby-on-rails-1coc)
 - [Dev.to/JS] [Create your own Wordle with animations 🧩🎲](https://dev.to/yaku/wordle-animations-55oo)
 - [Dev.to/JS] [How you can create a sidebar like the daily.dev extension fron scratch using React and Tailwindcss in 4 steps](https://dev.to/unshift/how-you-can-create-a-sidebar-like-the-dailydev-extension-fron-scratch-using-react-and-tailwindcss-in-5-steps-nk7)
 - [Dev.to/JS] [React ゲーム作成用の枠を作る](https://dev.to/kaede_io/react-gemuzuo-cheng-yong-nowaku-wozuo-ru-4ld9)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Null vs Undefined in JavaScript](https://dev.to/110syedmazhar/null-vs-undefined-in-javascript-1o32)
 - [Dev.to/JS] [#28 - 
 Sum of two lowest positive integers - CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/28-sum-of-two-lowest-positive-integers-codewars-kata-7-kyu-4cij)
-- [Dev.to/JS] [12 Tips on Becoming a Senior Frontend Engineer](https://dev.to/miloszpp/12-tips-on-becoming-a-senior-frontend-engineer-2al9)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
-- [Dev.to/JS] [⭐🌟new schema builder and data validation library⭐🌟](https://dev.to/alguercode/new-schema-builder-and-data-validation-library-3c0)
-- [Dev.to/JS] [One way to make wordle using Javascript](https://dev.to/ozboware/one-way-to-make-wordle-using-javascript-1f1f)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
