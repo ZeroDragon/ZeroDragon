@@ -23,9 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create your own Wordle with animations 🧩🎲](https://dev.to/yaku/wordle-animations-55oo)
 - [Dev.to/JS] [How you can create a sidebar like the daily.dev extension fron scratch using React and Tailwindcss in 4 steps](https://dev.to/unshift/how-you-can-create-a-sidebar-like-the-dailydev-extension-fron-scratch-using-react-and-tailwindcss-in-5-steps-nk7)
 - [Dev.to/JS] [React ゲーム作成用の枠を作る](https://dev.to/kaede_io/react-gemuzuo-cheng-yong-nowaku-wozuo-ru-4ld9)
-- [Dev.to/JS] [Getting started with Agrippa, the React CLI](https://dev.to/nitzanhen/getting-started-with-agrippa-the-react-cli-5631)
 - [Dev.to/JS] [Welcome!](https://dev.to/ngl4/welcome-3n4b)
 - [Dev.to/JS] [How I Fixed A Small Bug In Machine Language Compiler 0100 1111 0100 1011](https://dev.to/aserputov/how-i-fixed-a-small-bug-in-machine-language-compiler-0100-1111-0100-1011-5cho)
 - [Dev.to/JS] [Padrão de Algorítimo: Contador de Frequência &lpar;+ exemplos&rpar;](https://dev.to/marcell0lopes/padrao-de-algoritimo-contador-de-frequencia-exemplos-4nmo)
