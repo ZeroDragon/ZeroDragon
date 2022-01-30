@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How you can create a sidebar like the daily.dev extension fron scratch using React and Tailwindcss in 4 steps](https://dev.to/unshift/how-you-can-create-a-sidebar-like-the-dailydev-extension-fron-scratch-using-react-and-tailwindcss-in-5-steps-nk7)
+- [Dev.to/JS] [React ゲーム作成用の枠を作る](https://dev.to/kaede_io/react-gemuzuo-cheng-yong-nowaku-wozuo-ru-4ld9)
+- [Dev.to/JS] [Getting started with Agrippa, the React CLI](https://dev.to/nitzanhen/getting-started-with-agrippa-the-react-cli-5631)
 - [Dev.to/JS] [Welcome!](https://dev.to/ngl4/welcome-3n4b)
 - [Dev.to/JS] [How I Fixed A Small Bug In Machine Language Compiler 0100 1111 0100 1011](https://dev.to/aserputov/how-i-fixed-a-small-bug-in-machine-language-compiler-0100-1111-0100-1011-5cho)
 - [Dev.to/JS] [Padrão de Algorítimo: Contador de Frequência &lpar;+ exemplos&rpar;](https://dev.to/marcell0lopes/padrao-de-algoritimo-contador-de-frequencia-exemplos-4nmo)
@@ -34,9 +37,6 @@ Sum of two lowest positive integers - CodeWars Kata &lpar;7 kyu&rpar;](https://d
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Dev.to/JS] [⭐🌟new schema builder and data validation library⭐🌟](https://dev.to/alguercode/new-schema-builder-and-data-validation-library-3c0)
 - [Dev.to/JS] [One way to make wordle using Javascript](https://dev.to/ozboware/one-way-to-make-wordle-using-javascript-1f1f)
-- [Dev.to/JS] [This is a sample project in learing tyme.](https://dev.to/athifbinu/this-is-a-sample-project-in-learing-tyme-3c44)
-- [Dev.to/JS] [I Created a List With Everything You Need to Build Your Next React Native App](https://dev.to/chefk5/i-created-a-list-with-everything-you-need-to-build-your-next-react-native-app-2da0)
-- [Dev.to/JS] [tsParticles 1.39.2 Released](https://dev.to/matteobruni/tsparticles-1392-released-ck4)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
