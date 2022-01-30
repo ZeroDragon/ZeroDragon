@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Native Firestore: Real-time update with custom hook](https://dev.to/sweesenkoh/react-native-cloud-firestore-real-time-update-with-custom-hook-1j7i)
 - [Dev.to/JS] [Deep dive into React codebase [EP4: How ReactDOM.render works]](https://dev.to/fromaline/deep-dive-into-react-codebase-ep4-how-reactdomrender-works-32n6)
 - [Dev.to/JS] [ReactJS - Disable console.log&lpar;&rpar; in production and staging](https://dev.to/rajeshroyal/reactjs-disable-consolelog-in-production-and-staging-3l38)
 - [Dev.to/JS] [login user validation using volder](https://dev.to/alguercode/login-user-validation-using-volder-1kfe)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leetcode diary: 259. 3Sum Smaller](https://dev.to/kevin074/leetcode-diary-259-3sum-smaller-2gl6)
 - [Dev.to/JS] [My new project](https://dev.to/sripadhs/my-new-project-ebm)
 - [Dev.to/JS] [Photo App on React and Ruby on Rails...](https://dev.to/jcbonassin/photo-app-on-react-and-ruby-on-rails-1coc)
-- [Dev.to/JS] [Create your own Wordle with animations 🧩🎲](https://dev.to/yaku/wordle-animations-55oo)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
