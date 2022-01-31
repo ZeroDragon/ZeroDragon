@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building for the &lpar;next&rpar; Web](https://dev.to/sendcloud/building-for-the-next-web-5a65)
+- [Dev.to/JS] [can we reach 1k star in this github library](https://dev.to/alguercode/can-we-reach-1k-star-in-this-github-library-h98)
+- [Dev.to/JS] [11. JavaScript Engines](https://dev.to/sungjuneun/11-javascript-engines-429l)
 - [Dev.to/JS] [Apple Cider Vinegar Keto Gummies - Weight Loss Results, Uses, Reviews And Side Effects](https://dev.to/cider_keto/apple-cider-vinegar-keto-gummies-weight-loss-results-uses-reviews-and-side-effects-1l4m)
 - [Dev.to/JS] [ES6 way to clone an array](https://dev.to/codewithsnowbit/es6-way-to-clone-an-array-2bi1)
 - [Dev.to/JS] [APIs: Fetching Data and an Example via Wikipedia](https://dev.to/dronk6/apis-fetching-data-and-an-example-via-wikipedia-3c6p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Front End Devs: Find IP Address/ Longitude and Latitude](https://dev.to/taylorbracone/front-end-devs-find-ip-address-longitude-and-latitude-del)
 - [Dev.to/JS] [Tip calculator using Vanilla JavaScript](https://dev.to/piyushpatil1243/tip-calculator-using-vanilla-javascript-84e)
 - [Dev.to/JS] [Back End Development with APIs](https://dev.to/zjohnson10/back-end-development-with-apis-4c5h)
-- [Dev.to/JS] [Create a Debounce Hook for Search Box Auto-Completion](https://dev.to/ohdylan/create-a-debounce-hook-for-search-box-auto-completion-11n1)
-- [Dev.to/JS] [Learn How API&#39;s Work](https://dev.to/kerndesigns/learn-how-apis-work-cgc)
-- [Dev.to/JS] [Drag and Drop File Upload Using Dropzone JS in Laravel 8](https://dev.to/techsolutionstuff/drag-and-drop-file-upload-using-dropzone-js-in-laravel-8-54ij)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
