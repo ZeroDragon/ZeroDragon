@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Next.js rather than create-react-app ?](https://dev.to/tawalmc/why-nextjs-rather-than-create-react-app--22ed)
 - [Dev.to/JS] [Integrating APIs with JavaScript in the Front End](https://dev.to/mayormaier/integrating-apis-with-javascript-in-the-front-end-2leo)
 - [Dev.to/JS] [Digital Products - 10 Ways Developers Make Money Working from Home - E04](https://dev.to/danfleser/digital-products-10-ways-developers-make-money-working-from-home-e04-2ce)
 - [Dev.to/JS] [Building an open-source command line user interface](https://dev.to/phamn23/building-an-open-source-command-line-user-interface-345a)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Journey to Become a Developer](https://dev.to/ahmetmeliksah/my-journey-to-become-a-developer-5f68)
 - [Dev.to/JS] [State of the Web: Static Site Generators](https://dev.to/asyncbanana/state-of-the-web-static-site-generators-g6f)
 - [Dev.to/JS] [Create a nice search bar UX with vue-search-input](https://dev.to/kouts/create-a-nice-search-bar-ux-with-vue-search-input-3697)
-- [Dev.to/JS] [Switch statements in javascript – How to refactor?](https://dev.to/ajayv1/switch-statements-in-javascript-how-to-refactor-5gl8)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
