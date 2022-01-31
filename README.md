@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Quickest Way to Cancel Spotify Premium and Delete Your Account](https://lifehacker.com/the-quickest-way-to-cancel-spotify-premium-and-delete-y-1848452121)
+- [Dev.to/JS] [common programming concepts in just 10 mins](https://dev.to/kumarkalyan/common-programming-concepts-in-just-10-mins-ic0)
+- [Dev.to/JS] [How to Build a Jamstack Application in Postman](https://dev.to/postman/how-to-build-a-jamstack-application-in-postman-h19)
+- [Lifehacker] [How to Catch a Shiny Pokémon Every Time](https://lifehacker.com/how-to-catch-a-shiny-pokemon-every-time-1848451769)
+- [Dev.to/JS] [Primitive and reference values in JavaScript](https://dev.to/110syedmazhar/primitive-and-reference-values-in-javascript-8oi)
 - [Dev.to/JS] [My First 30 Days of 100 Days of Code.](https://dev.to/cloanic/my-first-30-days-of-100-days-of-code-13k0)
 - [Lifehacker] [Add Outdoor Space to Your Home With a DIY Roof Deck](https://lifehacker.com/add-outdoor-space-to-your-home-with-a-diy-roof-deck-1848451996)
 - [Dev.to/JS] [How to use Svelte&#39;s style directive](https://dev.to/geoffrich/how-to-use-sveltes-style-directive-47l2)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dealing with the Success and Failure Response](https://dev.to/dronahq/dealing-with-the-success-and-failure-response-1h2l)
 - [Dev.to/JS] [React-Query basics - Setting up a basic query &amp; mutation flow &lpar;with GraphQL and Axios&rpar;](https://dev.to/evane89/react-query-basics-setting-up-a-basic-query-mutation-flow-with-graphql-and-axios-5gfp)
 - [Lifehacker] [How Much PDA Is Too Much PDA?](https://lifehacker.com/how-much-pda-is-too-much-pda-1848439272)
-- [Dev.to/JS] [Using APIs to Fetch Data from Wikipedia](https://dev.to/aidenbrook/using-apis-to-fetch-data-from-wikipedia-56hi)
-- [Dev.to/JS] [Adding Video Chat or Live Streaming to Your Website in 5 lines of Code Using the Agora Web UIKit](https://dev.to/ekaansharora/adding-video-chat-or-live-streaming-to-your-website-in-5-lines-of-code-using-the-agora-web-uikit-2bne)
-- [Dev.to/JS] [Responsive Navbar Using HTML CSS](https://dev.to/ganeshpatil386386/responsive-navbar-using-html-css-m79)
 - [Lifehacker] [How to Keep iMessage From Filling Up Your iPhone and iCloud](https://lifehacker.com/how-to-keep-imessage-from-filling-up-your-iphone-and-ic-1848450762)
 - [Lifehacker] [How to Prepare for &lpar;and Survive&rpar; an Earthquake](https://lifehacker.com/how-to-prepare-for-and-survive-an-earthquake-1848444086)
 - [Lifehacker] [Noom Is Still Diet Culture](https://lifehacker.com/fuck-noom-1848442892)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Overcome ‘Productivity Dysmorphia’](https://lifehacker.com/how-to-overcome-productivity-dysmorphia-1848424796)
 - [Lifehacker] [How to Turn Off ‘Read Receipts’ on Most Popular Messaging Apps](https://lifehacker.com/how-to-turn-off-read-receipts-on-most-popular-messagi-1848438633)
 - [Lifehacker] [Do Collagen Supplements Even Do Anything?](https://lifehacker.com/do-collagen-supplements-even-do-anything-1848439033)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Should You Watch ‘Euphoria’ or ‘Yellowjackets?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-should-yo-1848438431)
-- [Lifehacker] [You Can Use &#39;Hey Siri&#39; to Cast Harry Potter Spells](https://lifehacker.com/how-to-use-hey-siri-to-cast-harry-potter-spells-1848437392)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
