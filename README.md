@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 87 of 100 Days of Code &amp; Scrum: Recovered From COVID-19 Vaccine Side Effects](https://dev.to/rammina/day-87-of-100-days-of-code-scrum-recovered-from-covid-19-vaccine-side-effects-47o1)
+- [Dev.to/JS] [JSON TOOL CREATED](https://dev.to/mavensingh/json-tool-created-11cg)
+- [Dev.to/JS] [JavaScript News and Updates of January 2022](https://dev.to/plazarev/javascript-news-and-updates-of-january-2022-309l)
+- [Dev.to/JS] [awesome npm packages for data validation and parsing&lpar;user login validation&rpar;](https://dev.to/alguercode/awesome-npm-packages-for-data-validation-and-parsinguser-login-validation-3ai4)
 - [Dev.to/JS] [Geeks React Admin Dashboard Template](https://dev.to/imjituchauhan/geeks-react-admin-dashboard-template-48d0)
 - [Dev.to/JS] [Create a Live Twitter Profile Banner to show followers counter](https://dev.to/anshuman_bhardwaj/create-a-live-twitter-profile-banner-to-show-followers-count-3k2h)
 - [Dev.to/JS] [Laravel InertiaJS Movie App](https://dev.to/laravellercom/laravel-inertiajs-movie-app-416n)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [issues with app in netify](https://dev.to/adedayo888/issues-with-app-in-netify-32ed)
 - [Dev.to/JS] [Build A Blog Website Using ReactJS and Firebase](https://dev.to/vipinbansal/build-a-blog-website-using-reactjs-and-firebase-2mn1)
 - [Dev.to/JS] [Find out Fibonacci sequence in JavaScript with one line of code](https://dev.to/ashutoshbw314/find-out-fibonacci-sequence-in-javascript-with-one-line-of-code-2mdp)
-- [Dev.to/JS] [Building for the &lpar;next&rpar; Web](https://dev.to/sendcloud/building-for-the-next-web-5a65)
-- [Dev.to/JS] [can we reach 1k star in this github library](https://dev.to/alguercode/can-we-reach-1k-star-in-this-github-library-h98)
-- [Dev.to/JS] [11. JavaScript Engines](https://dev.to/sungjuneun/11-javascript-engines-429l)
-- [Dev.to/JS] [Apple Cider Vinegar Keto Gummies - Weight Loss Results, Uses, Reviews And Side Effects](https://dev.to/cider_keto/apple-cider-vinegar-keto-gummies-weight-loss-results-uses-reviews-and-side-effects-1l4m)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
