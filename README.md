@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 2. Sharing data between siblings components using Context in React with Hooks](https://dev.to/jcbonassin/part-2-sharing-data-between-siblings-components-using-context-in-react-with-hooks-51d)
+- [Dev.to/JS] [How I Built My Own Rewards Card](https://dev.to/johnjvester/how-i-built-my-own-rewards-card-hbp)
+- [Dev.to/JS] [Front End Devs: Find IP Address/ Longitude and Latitude](https://dev.to/taylorbracone/front-end-devs-find-ip-address-longitude-and-latitude-del)
+- [Dev.to/JS] [Tip calculator using Vanilla JavaScript](https://dev.to/piyushpatil1243/tip-calculator-using-vanilla-javascript-84e)
 - [Dev.to/JS] [Back End Development with APIs](https://dev.to/zjohnson10/back-end-development-with-apis-4c5h)
 - [Dev.to/JS] [Create a Debounce Hook for Search Box Auto-Completion](https://dev.to/ohdylan/create-a-debounce-hook-for-search-box-auto-completion-11n1)
 - [Dev.to/JS] [Learn How API&#39;s Work](https://dev.to/kerndesigns/learn-how-apis-work-cgc)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding scope in JavaScript](https://dev.to/sukodes/understanding-scope-in-javascript-1h66)
 - [Dev.to/JS] [NodeJs, introdução e conceitos centrais](https://dev.to/abelsouzacosta/nodejs-introducao-e-conceitos-centrais-3ijm)
 - [Dev.to/JS] [Coding the Signout API for Breeze Lakes Point Next Project](https://dev.to/kristenkinnearohlmann/coding-the-signout-api-for-breeze-lakes-point-next-project-3inp)
-- [Dev.to/JS] [Front End Javascript: Working with APIs and IP Addresses](https://dev.to/hek5118/front-end-javascript-working-with-apis-and-ip-addresses-5b2b)
-- [Dev.to/JS] [String .split&lpar;&rpar; Method](https://dev.to/ngl4/string-split-method-2eop)
-- [Dev.to/JS] [Simple JavaScipt Project using CRUD Operations.](https://dev.to/lawanu/javascipt-project-using-crud-operations-3805)
-- [Dev.to/JS] [Build your Capacitor Android app bundle using GitHub Actions](https://dev.to/khromov/build-your-capacitor-android-app-bundle-using-github-actions-24do)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
