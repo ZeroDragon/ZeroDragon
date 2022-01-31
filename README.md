@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Your Own Technical Documentation Page](https://dev.to/hr21don/introduction-to-web-development-jc8)
 - [Dev.to/JS] [Day 87 of 100 Days of Code &amp; Scrum: Recovered From COVID-19 Vaccine Side Effects](https://dev.to/rammina/day-87-of-100-days-of-code-scrum-recovered-from-covid-19-vaccine-side-effects-47o1)
 - [Dev.to/JS] [JSON TOOL CREATED](https://dev.to/mavensingh/json-tool-created-11cg)
 - [Dev.to/JS] [JavaScript News and Updates of January 2022](https://dev.to/plazarev/javascript-news-and-updates-of-january-2022-309l)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Combine Add and Edit Forms in Angular](https://dev.to/this-is-angular/how-to-combine-add-and-edit-forms-in-angular-4888)
 - [Dev.to/JS] [issues with app in netify](https://dev.to/adedayo888/issues-with-app-in-netify-32ed)
 - [Dev.to/JS] [Build A Blog Website Using ReactJS and Firebase](https://dev.to/vipinbansal/build-a-blog-website-using-reactjs-and-firebase-2mn1)
-- [Dev.to/JS] [Find out Fibonacci sequence in JavaScript with one line of code](https://dev.to/ashutoshbw314/find-out-fibonacci-sequence-in-javascript-with-one-line-of-code-2mdp)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
