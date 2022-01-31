@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Front End Javascript: Working with APIs and IP Addresses](https://dev.to/hek5118/front-end-javascript-working-with-apis-and-ip-addresses-5b2b)
 - [Dev.to/JS] [String .split&lpar;&rpar; Method](https://dev.to/ngl4/string-split-method-2eop)
 - [Dev.to/JS] [JavaScipt Project using CRUD Operations.](https://dev.to/lawanu/javascipt-project-using-crud-operations-3805)
 - [Dev.to/JS] [Build your Capacitor Android app bundle using GitHub Actions](https://dev.to/khromov/build-your-capacitor-android-app-bundle-using-github-actions-24do)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Insane Features in my OS in the Browser!!! 🤯](https://dev.to/dustinbrett/5-insane-features-in-my-os-in-the-browser-46do)
 - [Dev.to/JS] [The tricks of Javascript](https://dev.to/noriller/the-tricks-of-javascript-3pn)
 - [Dev.to/JS] [Attempt to create an Elifoot style game for Football &lpar;🏈&rpar;m](https://dev.to/luizhap/attempt-to-create-an-elifoot-style-game-for-football--32gj)
-- [Dev.to/JS] [React hook Text to speech web api](https://dev.to/kumard3/react-hook-text-to-speech-web-api-4la0)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
