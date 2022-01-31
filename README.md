@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Export Your Entire Spotify Library for Free](https://lifehacker.com/how-to-export-your-entire-spotify-library-for-free-1848452337)
+- [Dev.to/JS] [Code Documentation: A Guide for Beginner&#39;s🎯](https://dev.to/digvijayjadhav98/code-documentation-a-guide-for-beginners-4cj7)
+- [Dev.to/JS] [Create a Url Shortener using NextJs, Tailwind CSS and Strapi](https://dev.to/strapi/create-a-url-shortener-using-nextjs-tailwind-css-and-strapi-29la)
 - [Lifehacker] [Before You Quit Your Job, Ask Yourself These Questions](https://lifehacker.com/before-you-quit-your-job-ask-yourself-these-questions-1848451081)
 - [Dev.to/JS] [Paracetamol.js💊| #38: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-38-explica-este-codigo-javascript-3ihg)
 - [Dev.to/JS] [Transcriptions Without a Server Using Netlify and Deepgram](https://dev.to/deepgram/transcriptions-without-a-server-using-netlify-and-deepgram-3mi4)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Add Outdoor Space to Your Home With a DIY Roof Deck](https://lifehacker.com/add-outdoor-space-to-your-home-with-a-diy-roof-deck-1848451996)
 - [Dev.to/JS] [How to use Svelte&#39;s style directive](https://dev.to/geoffrich/how-to-use-sveltes-style-directive-47l2)
 - [Dev.to/JS] [Adding a environment .env file to ReactJS project](https://dev.to/rajeshroyal/adding-a-env-file-to-reactjs-project-2h31)
-- [Dev.to/JS] [The Rise of Native Web Components](https://dev.to/sergejcodes/the-rise-of-native-web-components-4eac)
-- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#05&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-05-135m)
 - [Lifehacker] [You Might Be Storing Your At-Home COVID Tests Wrong](https://lifehacker.com/you-might-be-storing-your-at-home-covid-tests-wrong-1848451119)
 - [Lifehacker] [How Much PDA Is Too Much PDA?](https://lifehacker.com/how-much-pda-is-too-much-pda-1848439272)
 - [Lifehacker] [How to Keep iMessage From Filling Up Your iPhone and iCloud](https://lifehacker.com/how-to-keep-imessage-from-filling-up-your-iphone-and-ic-1848450762)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the &#39;Snow Moon&#39; in February](https://lifehacker.com/when-to-see-the-snow-moon-in-february-1848441532)
 - [Lifehacker] [Please Stop Checking Your Heart Rate so Much](https://lifehacker.com/please-stop-checking-your-heart-rate-so-much-1848436865)
 - [Lifehacker] [How to Block Everyone Who Uses Twitter’s NFT Profile Pictures](https://lifehacker.com/how-to-block-everyone-who-uses-twitter-s-nft-profile-pi-1848439075)
-- [Lifehacker] [How to Overcome ‘Productivity Dysmorphia’](https://lifehacker.com/how-to-overcome-productivity-dysmorphia-1848424796)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
