@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode diary: 560. Subarray Sum Equals K](https://dev.to/kevin074/leetcode-diary-560-subarray-sum-equals-k-55i4)
+- [Lifehacker] [Noom Is Still Diet Culture](https://lifehacker.com/fuck-noom-1848442892)
+- [Lifehacker] [Don&#39;t Buy Apple Accessories](https://lifehacker.com/dont-buy-apple-accessories-1848442904)
+- [Dev.to/JS] [Create and publish a VS Code theme.Step by step.](https://dev.to/mike_andreuzza/create-and-publish-a-vs-code-theme-2kd0)
+- [Dev.to/JS] [Why Use Astro for Static Site Generation](https://dev.to/destiner/why-use-astro-for-static-site-generation-l0e)
 - [Dev.to/JS] [Variable Declarations and Scoping in JavaScript](https://dev.to/himanshuc11/variable-declarations-and-scoping-in-javascript-dmh)
 - [Dev.to/JS] [How to Overcome Your TypeScriptoPhobia](https://dev.to/vtrpldn/how-to-overcome-your-typescriptophobia-2j26)
 - [Dev.to/JS] [Using NativeBase v3 the right way](https://dev.to/nativebase/using-nativebase-v3-the-right-way-4a1f)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week⚾.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-id5)
 - [Dev.to/JS] [ShoPo - How to copy a text to clipboard](https://dev.to/sumanta_thefrontdev/shopo-how-to-copy-a-text-to-clipboard-2mhf)
 - [Dev.to/JS] [Tried Zustand yet? Lets use it to build yet another React todo app!](https://dev.to/vanaf1979/tried-zustand-yet-lets-use-it-to-build-yet-another-react-todo-app-16l7)
-- [Dev.to/JS] [3 Things You Should Know about Memoization in React](https://dev.to/eyuelberga/3-things-you-should-know-about-memoization-in-react-10ke)
-- [Dev.to/JS] [Build Your Own Technical Documentation Page](https://dev.to/hr21don/introduction-to-web-development-jc8)
-- [Dev.to/JS] [Day 87 of 100 Days of Code &amp; Scrum: Recovered From COVID-19 Vaccine Side Effects](https://dev.to/rammina/day-87-of-100-days-of-code-scrum-recovered-from-covid-19-vaccine-side-effects-47o1)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Bad Is It to Fall Asleep to the TV?](https://lifehacker.com/how-bad-is-it-to-fall-asleep-to-the-tv-1848424862)
 - [Lifehacker] [What to Do When Your Laptop Keeps Overheating](https://lifehacker.com/what-to-do-when-your-laptop-keeps-overheating-1848317156)
 - [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
-- [Lifehacker] [The Easiest DIY Furniture Projects to Make With Leftover Wood](https://lifehacker.com/the-easiest-diy-furniture-projects-to-make-with-leftove-1848433181)
-- [Lifehacker] [Yell at Your Google Assistant to STFU](https://lifehacker.com/yell-at-your-google-assistant-to-fucking-stop-already-1848432377)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
