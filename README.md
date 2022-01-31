@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep iMessage From Filling Up Your iPhone and iCloud](https://lifehacker.com/how-to-keep-imessage-from-filling-up-your-iphone-and-ic-1848450762)
+- [Dev.to/JS] [How to Install and Configure Jenkins? | Jenkins Tutorials | Part II](https://dev.to/lambdatest/how-to-install-and-configure-jenkins-jenkins-tutorials-part-ii-4bpl)
+- [Dev.to/JS] [CI for APIs with the Kong Insomnia CLI and GitHub Actions](https://dev.to/thawkin3/ci-for-apis-with-the-kong-insomnia-cli-and-github-actions-1a71)
+- [Lifehacker] [How to Prepare for &lpar;and Survive&rpar; an Earthquake](https://lifehacker.com/how-to-prepare-for-and-survive-an-earthquake-1848444086)
+- [Dev.to/JS] [Paracetamol.js💊| #37: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-37-explica-este-codigo-javascript-55ab)
 - [Dev.to/JS] [Leetcode diary: 560. Subarray Sum Equals K](https://dev.to/kevin074/leetcode-diary-560-subarray-sum-equals-k-55i4)
 - [Lifehacker] [Noom Is Still Diet Culture](https://lifehacker.com/fuck-noom-1848442892)
 - [Lifehacker] [Don&#39;t Buy Apple Accessories](https://lifehacker.com/dont-buy-apple-accessories-1848442904)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Docs for Web Developers](https://dev.to/yigitsr/5-docs-for-web-developers-2klm)
 - [Dev.to/JS] [JSON Delta Streaming](https://dev.to/push_technology/json-delta-streaming-1fo4)
 - [Dev.to/JS] [How I built my portfolio website](https://dev.to/itsrakesh/how-i-built-my-portfolio-website-hl5)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week⚾.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-id5)
-- [Dev.to/JS] [ShoPo - How to copy a text to clipboard](https://dev.to/sumanta_thefrontdev/shopo-how-to-copy-a-text-to-clipboard-2mhf)
-- [Dev.to/JS] [Tried Zustand yet? Lets use it to build yet another React todo app!](https://dev.to/vanaf1979/tried-zustand-yet-lets-use-it-to-build-yet-another-react-todo-app-16l7)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Real Body Modifications, Ranked by Their Usefulness](https://lifehacker.com/12-real-body-modifications-ranked-by-their-usefulness-1848436324)
 - [Lifehacker] [Should You Pump, Press, or Slam Your Brakes on a Patch of Ice?](https://lifehacker.com/should-you-pump-press-or-slam-your-brakes-on-a-patch-1848432599)
 - [Lifehacker] [How Bad Is It to Fall Asleep to the TV?](https://lifehacker.com/how-bad-is-it-to-fall-asleep-to-the-tv-1848424862)
-- [Lifehacker] [What to Do When Your Laptop Keeps Overheating](https://lifehacker.com/what-to-do-when-your-laptop-keeps-overheating-1848317156)
-- [Lifehacker] [An Age-by-Age Guide to Teaching Your Kids Basic Life Skills](https://lifehacker.com/an-age-by-age-guide-to-teaching-your-kids-basic-life-sk-1848433571)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
