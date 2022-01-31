@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I built my portfolio website](https://dev.to/itsrakesh/how-i-built-my-portfolio-website-hl5)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week⚾.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-id5)
+- [Dev.to/JS] [ShoPo - How to copy a text to clipboard](https://dev.to/sumanta_thefrontdev/shopo-how-to-copy-a-text-to-clipboard-2mhf)
+- [Dev.to/JS] [Tried Zustand yet? Lets use it to build yet another React todo app!](https://dev.to/vanaf1979/tried-zustand-yet-lets-use-it-to-build-yet-another-react-todo-app-16l7)
+- [Dev.to/JS] [3 Things You Should Know about Memoization in React](https://dev.to/eyuelberga/3-things-you-should-know-about-memoization-in-react-10ke)
 - [Dev.to/JS] [Build Your Own Technical Documentation Page](https://dev.to/hr21don/introduction-to-web-development-jc8)
 - [Dev.to/JS] [Day 87 of 100 Days of Code &amp; Scrum: Recovered From COVID-19 Vaccine Side Effects](https://dev.to/rammina/day-87-of-100-days-of-code-scrum-recovered-from-covid-19-vaccine-side-effects-47o1)
 - [Dev.to/JS] [JSON TOOL CREATED](https://dev.to/mavensingh/json-tool-created-11cg)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [awesome npm packages for data validation and parsing&lpar;user login validation&rpar;](https://dev.to/alguercode/awesome-npm-packages-for-data-validation-and-parsinguser-login-validation-3ai4)
 - [Dev.to/JS] [Geeks React Admin Dashboard Template](https://dev.to/imjituchauhan/geeks-react-admin-dashboard-template-48d0)
 - [Dev.to/JS] [Create a Live Twitter Profile Banner to show followers counter](https://dev.to/anshuman_bhardwaj/create-a-live-twitter-profile-banner-to-show-followers-count-3k2h)
-- [Dev.to/JS] [Laravel InertiaJS Movie App](https://dev.to/laravellercom/laravel-inertiajs-movie-app-416n)
-- [Dev.to/JS] [Game Development: Breakout in JavaScript](https://dev.to/this-is-learning/game-development-breakout-in-javascript-np4)
-- [Dev.to/JS] [How to Combine Add and Edit Forms in Angular](https://dev.to/this-is-angular/how-to-combine-add-and-edit-forms-in-angular-4888)
-- [Dev.to/JS] [issues with app in netify](https://dev.to/adedayo888/issues-with-app-in-netify-32ed)
-- [Dev.to/JS] [Build A Blog Website Using ReactJS and Firebase](https://dev.to/vipinbansal/build-a-blog-website-using-reactjs-and-firebase-2mn1)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
