@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Powerful Front-end Development Skills to Land Your First Job](https://dev.to/elliot_brenyasarfo_18749/5-powerful-front-end-development-skills-to-land-your-first-job-7pf)
+- [Dev.to/JS] [TypeScript Basics](https://dev.to/jovanadev/typescript-basics-2io4)
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Dev.to/JS] [Step-by-step: How to Internationalize your NextJS App with Next-Translate](https://dev.to/flycode/step-by-step-how-to-internationalize-your-nextjs-app-with-next-translate-3ofo)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #38: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-38-explica-este-codigo-javascript-3ihg)
 - [Dev.to/JS] [Transcriptions Without a Server Using Netlify and Deepgram](https://dev.to/deepgram/transcriptions-without-a-server-using-netlify-and-deepgram-3mi4)
 - [Lifehacker] [Is It Dangerous to Hold in a Fart Too Long?](https://lifehacker.com/is-it-dangerous-to-hold-in-a-fart-too-long-1848452674)
-- [Dev.to/JS] [Next.js and Docker](https://dev.to/maxdemaio/nextjs-and-docker-2496)
-- [Dev.to/JS] [How to avoid every time { npm install }](https://dev.to/pinkoman/how-to-avoid-every-time-npm-install--2jo7)
 - [Lifehacker] [The Quickest Way to Cancel Spotify Premium and Delete Your Account](https://lifehacker.com/the-quickest-way-to-cancel-spotify-premium-and-delete-y-1848452121)
 - [Lifehacker] [How to Catch a Shiny Pokémon Every Time](https://lifehacker.com/how-to-catch-a-shiny-pokemon-every-time-1848451769)
 - [Lifehacker] [Add Outdoor Space to Your Home With a DIY Roof Deck](https://lifehacker.com/add-outdoor-space-to-your-home-with-a-diy-roof-deck-1848451996)
