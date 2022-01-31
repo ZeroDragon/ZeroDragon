@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Dev.to/JS] [Step-by-step: How to Internationalize your NextJS App with Next-Translate](https://dev.to/flycode/step-by-step-how-to-internationalize-your-nextjs-app-with-next-translate-3ofo)
 - [Dev.to/JS] [Nestjs Series- Interceptors](https://dev.to/vignesh_pugaz/nestjs-series-interceptors-56o1)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
 - [Lifehacker] [25 Movies That Will Make You Ugly Cry](https://lifehacker.com/25-movies-that-will-make-you-ugly-cry-1848432345)
-- [Lifehacker] [When to See the &#39;Snow Moon&#39; in February](https://lifehacker.com/when-to-see-the-snow-moon-in-february-1848441532)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
