@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Before You Quit Your Job, Ask Yourself These Questions](https://lifehacker.com/before-you-quit-your-job-ask-yourself-these-questions-1848451081)
+- [Dev.to/JS] [Paracetamol.js💊| #38: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-38-explica-este-codigo-javascript-3ihg)
+- [Dev.to/JS] [Transcriptions Without a Server Using Netlify and Deepgram](https://dev.to/deepgram/transcriptions-without-a-server-using-netlify-and-deepgram-3mi4)
+- [Lifehacker] [Is It Dangerous to Hold in a Fart Too Long?](https://lifehacker.com/is-it-dangerous-to-hold-in-a-fart-too-long-1848452674)
+- [Dev.to/JS] [Next.js and Docker](https://dev.to/maxdemaio/nextjs-and-docker-2496)
+- [Dev.to/JS] [How to avoid every time { npm install }](https://dev.to/pinkoman/how-to-avoid-every-time-npm-install--2jo7)
 - [Lifehacker] [The Quickest Way to Cancel Spotify Premium and Delete Your Account](https://lifehacker.com/the-quickest-way-to-cancel-spotify-premium-and-delete-y-1848452121)
 - [Dev.to/JS] [common programming concepts in just 10 mins](https://dev.to/kumarkalyan/common-programming-concepts-in-just-10-mins-ic0)
 - [Dev.to/JS] [How to Build a Jamstack Application in Postman](https://dev.to/postman/how-to-build-a-jamstack-application-in-postman-h19)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Rise of Native Web Components](https://dev.to/sergejcodes/the-rise-of-native-web-components-4eac)
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#05&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-05-135m)
 - [Lifehacker] [You Might Be Storing Your At-Home COVID Tests Wrong](https://lifehacker.com/you-might-be-storing-your-at-home-covid-tests-wrong-1848451119)
-- [Dev.to/JS] [Infinite Cars | Car Race Game](https://dev.to/takaneichinose/infinite-cars-car-race-game-4koc)
-- [Dev.to/JS] [The 3 Short Frontend tips for January](https://dev.to/melnik909/the-3-short-frontend-tips-for-january-3571)
-- [Dev.to/JS] [Dealing with the Success and Failure Response](https://dev.to/dronahq/dealing-with-the-success-and-failure-response-1h2l)
-- [Dev.to/JS] [React-Query basics - Setting up a basic query &amp; mutation flow &lpar;with GraphQL and Axios&rpar;](https://dev.to/evane89/react-query-basics-setting-up-a-basic-query-mutation-flow-with-graphql-and-axios-5gfp)
 - [Lifehacker] [How Much PDA Is Too Much PDA?](https://lifehacker.com/how-much-pda-is-too-much-pda-1848439272)
 - [Lifehacker] [How to Keep iMessage From Filling Up Your iPhone and iCloud](https://lifehacker.com/how-to-keep-imessage-from-filling-up-your-iphone-and-ic-1848450762)
 - [Lifehacker] [How to Prepare for &lpar;and Survive&rpar; an Earthquake](https://lifehacker.com/how-to-prepare-for-and-survive-an-earthquake-1848444086)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Please Stop Checking Your Heart Rate so Much](https://lifehacker.com/please-stop-checking-your-heart-rate-so-much-1848436865)
 - [Lifehacker] [How to Block Everyone Who Uses Twitter’s NFT Profile Pictures](https://lifehacker.com/how-to-block-everyone-who-uses-twitter-s-nft-profile-pi-1848439075)
 - [Lifehacker] [How to Overcome ‘Productivity Dysmorphia’](https://lifehacker.com/how-to-overcome-productivity-dysmorphia-1848424796)
-- [Lifehacker] [How to Turn Off ‘Read Receipts’ on Most Popular Messaging Apps](https://lifehacker.com/how-to-turn-off-read-receipts-on-most-popular-messagi-1848438633)
-- [Lifehacker] [Do Collagen Supplements Even Do Anything?](https://lifehacker.com/do-collagen-supplements-even-do-anything-1848439033)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
