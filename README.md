@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My First 30 Days of 100 Days of Code.](https://dev.to/cloanic/my-first-30-days-of-100-days-of-code-13k0)
+- [Lifehacker] [Add Outdoor Space to Your Home With a DIY Roof Deck](https://lifehacker.com/add-outdoor-space-to-your-home-with-a-diy-roof-deck-1848451996)
+- [Dev.to/JS] [How to use Svelte&#39;s style directive](https://dev.to/geoffrich/how-to-use-sveltes-style-directive-47l2)
+- [Dev.to/JS] [Adding a environment .env file to ReactJS project](https://dev.to/rajeshroyal/adding-a-env-file-to-reactjs-project-2h31)
+- [Dev.to/JS] [The Rise of Native Web Components](https://dev.to/sergejcodes/the-rise-of-native-web-components-4eac)
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#05&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-05-135m)
 - [Lifehacker] [You Might Be Storing Your At-Home COVID Tests Wrong](https://lifehacker.com/you-might-be-storing-your-at-home-covid-tests-wrong-1848451119)
 - [Dev.to/JS] [Infinite Cars | Car Race Game](https://dev.to/takaneichinose/infinite-cars-car-race-game-4koc)
@@ -34,14 +39,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Video Chat or Live Streaming to Your Website in 5 lines of Code Using the Agora Web UIKit](https://dev.to/ekaansharora/adding-video-chat-or-live-streaming-to-your-website-in-5-lines-of-code-using-the-agora-web-uikit-2bne)
 - [Dev.to/JS] [Responsive Navbar Using HTML CSS](https://dev.to/ganeshpatil386386/responsive-navbar-using-html-css-m79)
 - [Lifehacker] [How to Keep iMessage From Filling Up Your iPhone and iCloud](https://lifehacker.com/how-to-keep-imessage-from-filling-up-your-iphone-and-ic-1848450762)
-- [Dev.to/JS] [How to Install and Configure Jenkins? | Jenkins Tutorials | Part II](https://dev.to/lambdatest/how-to-install-and-configure-jenkins-jenkins-tutorials-part-ii-4bpl)
-- [Dev.to/JS] [CI for APIs with the Kong Insomnia CLI and GitHub Actions](https://dev.to/thawkin3/ci-for-apis-with-the-kong-insomnia-cli-and-github-actions-1a71)
 - [Lifehacker] [How to Prepare for &lpar;and Survive&rpar; an Earthquake](https://lifehacker.com/how-to-prepare-for-and-survive-an-earthquake-1848444086)
-- [Dev.to/JS] [Paracetamol.js💊| #37: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-37-explica-este-codigo-javascript-55ab)
-- [Dev.to/JS] [Leetcode diary: 560. Subarray Sum Equals K](https://dev.to/kevin074/leetcode-diary-560-subarray-sum-equals-k-55i4)
 - [Lifehacker] [Noom Is Still Diet Culture](https://lifehacker.com/fuck-noom-1848442892)
 - [Lifehacker] [Don&#39;t Buy Apple Accessories](https://lifehacker.com/dont-buy-apple-accessories-1848442904)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
+- [Lifehacker] [How to Open the Most Stubborn Jars, Even If You Have Weak Noodle Arms](https://lifehacker.com/how-to-open-the-most-stubborn-jars-even-if-you-have-we-1848450086)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do Collagen Supplements Even Do Anything?](https://lifehacker.com/do-collagen-supplements-even-do-anything-1848439033)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Should You Watch ‘Euphoria’ or ‘Yellowjackets?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-should-yo-1848438431)
 - [Lifehacker] [You Can Use &#39;Hey Siri&#39; to Cast Harry Potter Spells](https://lifehacker.com/how-to-use-hey-siri-to-cast-harry-potter-spells-1848437392)
-- [Lifehacker] [8 Things You Should Never Put in Your Dishwasher](https://lifehacker.com/8-things-you-should-never-put-in-your-dishwasher-1848427908)
-- [Lifehacker] [12 Real Body Modifications, Ranked by Their Usefulness](https://lifehacker.com/12-real-body-modifications-ranked-by-their-usefulness-1848436324)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
