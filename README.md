@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Geeks React Admin Dashboard Template](https://dev.to/imjituchauhan/geeks-react-admin-dashboard-template-48d0)
+- [Dev.to/JS] [Create a Live Twitter Profile Banner to show followers counter](https://dev.to/anshuman_bhardwaj/create-a-live-twitter-profile-banner-to-show-followers-count-3k2h)
 - [Dev.to/JS] [Laravel InertiaJS Movie App](https://dev.to/laravellercom/laravel-inertiajs-movie-app-416n)
 - [Dev.to/JS] [Game Development: Breakout in JavaScript](https://dev.to/this-is-learning/game-development-breakout-in-javascript-np4)
 - [Dev.to/JS] [How to Combine Add and Edit Forms in Angular](https://dev.to/this-is-angular/how-to-combine-add-and-edit-forms-in-angular-4888)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [can we reach 1k star in this github library](https://dev.to/alguercode/can-we-reach-1k-star-in-this-github-library-h98)
 - [Dev.to/JS] [11. JavaScript Engines](https://dev.to/sungjuneun/11-javascript-engines-429l)
 - [Dev.to/JS] [Apple Cider Vinegar Keto Gummies - Weight Loss Results, Uses, Reviews And Side Effects](https://dev.to/cider_keto/apple-cider-vinegar-keto-gummies-weight-loss-results-uses-reviews-and-side-effects-1l4m)
-- [Dev.to/JS] [ES6 way to clone an array](https://dev.to/codewithsnowbit/es6-way-to-clone-an-array-2bi1)
-- [Dev.to/JS] [APIs: Fetching Data and an Example via Wikipedia](https://dev.to/dronk6/apis-fetching-data-and-an-example-via-wikipedia-3c6p)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
