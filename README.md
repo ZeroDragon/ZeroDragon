@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Apple Cider Vinegar Keto Gummies - Weight Loss Results, Uses, Reviews And Side Effects](https://dev.to/cider_keto/apple-cider-vinegar-keto-gummies-weight-loss-results-uses-reviews-and-side-effects-1l4m)
+- [Dev.to/JS] [ES6 way to clone an array](https://dev.to/codewithsnowbit/es6-way-to-clone-an-array-2bi1)
+- [Dev.to/JS] [APIs: Fetching Data and an Example via Wikipedia](https://dev.to/dronk6/apis-fetching-data-and-an-example-via-wikipedia-3c6p)
+- [Dev.to/JS] [How to add Amazon affiliate and Google AdSense ads to your Vue app.](https://dev.to/cwraytech/how-to-add-amazon-affiliate-and-google-adsense-ads-to-your-vue-app-3a)
 - [Dev.to/JS] [Part 2. Sharing data between siblings components using Context in React with Hooks](https://dev.to/jcbonassin/part-2-sharing-data-between-siblings-components-using-context-in-react-with-hooks-51d)
 - [Dev.to/JS] [How I Built My Own Rewards Card](https://dev.to/johnjvester/how-i-built-my-own-rewards-card-hbp)
 - [Dev.to/JS] [Front End Devs: Find IP Address/ Longitude and Latitude](https://dev.to/taylorbracone/front-end-devs-find-ip-address-longitude-and-latitude-del)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Debounce Hook for Search Box Auto-Completion](https://dev.to/ohdylan/create-a-debounce-hook-for-search-box-auto-completion-11n1)
 - [Dev.to/JS] [Learn How API&#39;s Work](https://dev.to/kerndesigns/learn-how-apis-work-cgc)
 - [Dev.to/JS] [Drag and Drop File Upload Using Dropzone JS in Laravel 8](https://dev.to/techsolutionstuff/drag-and-drop-file-upload-using-dropzone-js-in-laravel-8-54ij)
-- [Dev.to/JS] [Sharing data between siblings components using Context in React with Hooks](https://dev.to/jcbonassin/sharing-data-between-siblings-components-using-context-in-react-with-hooks-2b8i)
-- [Dev.to/JS] [Understanding scope in JavaScript](https://dev.to/sukodes/understanding-scope-in-javascript-1h66)
-- [Dev.to/JS] [NodeJs, introdução e conceitos centrais](https://dev.to/abelsouzacosta/nodejs-introducao-e-conceitos-centrais-3ijm)
-- [Dev.to/JS] [Coding the Signout API for Breeze Lakes Point Next Project](https://dev.to/kristenkinnearohlmann/coding-the-signout-api-for-breeze-lakes-point-next-project-3inp)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
