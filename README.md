@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeJs, introdução e conceitos centrais](https://dev.to/abelsouzacosta/nodejs-introducao-e-conceitos-centrais-3ijm)
+- [Dev.to/JS] [Coding the Signout API for Breeze Lakes Point Next Project](https://dev.to/kristenkinnearohlmann/coding-the-signout-api-for-breeze-lakes-point-next-project-3inp)
 - [Dev.to/JS] [Front End Javascript: Working with APIs and IP Addresses](https://dev.to/hek5118/front-end-javascript-working-with-apis-and-ip-addresses-5b2b)
 - [Dev.to/JS] [String .split&lpar;&rpar; Method](https://dev.to/ngl4/string-split-method-2eop)
-- [Dev.to/JS] [JavaScipt Project using CRUD Operations.](https://dev.to/lawanu/javascipt-project-using-crud-operations-3805)
+- [Dev.to/JS] [Simple JavaScipt Project using CRUD Operations.](https://dev.to/lawanu/javascipt-project-using-crud-operations-3805)
 - [Dev.to/JS] [Build your Capacitor Android app bundle using GitHub Actions](https://dev.to/khromov/build-your-capacitor-android-app-bundle-using-github-actions-24do)
 - [Dev.to/JS] [Why Next.js rather than create-react-app ?](https://dev.to/tawalmc/why-nextjs-rather-than-create-react-app--22ed)
 - [Dev.to/JS] [Integrating APIs with JavaScript in the Front End](https://dev.to/mayormaier/integrating-apis-with-javascript-in-the-front-end-2leo)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an open-source command line user interface](https://dev.to/phamn23/building-an-open-source-command-line-user-interface-345a)
 - [Dev.to/JS] [Browser Storage APIs](https://dev.to/adelhamad/browser-storage-apis-3gcl)
 - [Dev.to/JS] [5 Insane Features in my OS in the Browser!!! 🤯](https://dev.to/dustinbrett/5-insane-features-in-my-os-in-the-browser-46do)
-- [Dev.to/JS] [The tricks of Javascript](https://dev.to/noriller/the-tricks-of-javascript-3pn)
-- [Dev.to/JS] [Attempt to create an Elifoot style game for Football &lpar;🏈&rpar;m](https://dev.to/luizhap/attempt-to-create-an-elifoot-style-game-for-football--32gj)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
 - [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
