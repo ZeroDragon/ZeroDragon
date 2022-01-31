@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
+- [Dev.to/JS] [Step-by-step: How to Internationalize your NextJS App with Next-Translate](https://dev.to/flycode/step-by-step-how-to-internationalize-your-nextjs-app-with-next-translate-3ofo)
+- [Dev.to/JS] [Nestjs Series- Interceptors](https://dev.to/vignesh_pugaz/nestjs-series-interceptors-56o1)
+- [Dev.to/JS] [How to fix Error 404 on Netlify for SPAs built with Reactjs](https://dev.to/naftalimurgor/how-to-fix-error-404-on-netlify-for-spas-built-with-reactjs-3fb6)
+- [Dev.to/JS] [Adding React to a website.](https://dev.to/danrez_/adding-react-to-a-website-5009)
+- [Dev.to/JS] [ES6: Object destructing](https://dev.to/naftalimurgor/es6-object-destructing-3nn0)
+- [Dev.to/JS] [How to Create Horizontal Background Text on Scroll](https://dev.to/marcojhb/how-to-create-horizontal-background-text-on-scroll-3c0)
+- [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
 - [Lifehacker] [How to Export Your Entire Spotify Library for Free](https://lifehacker.com/how-to-export-your-entire-spotify-library-for-free-1848452337)
 - [Dev.to/JS] [Code Documentation: A Guide for Beginner&#39;s🎯](https://dev.to/digvijayjadhav98/code-documentation-a-guide-for-beginners-4cj7)
 - [Dev.to/JS] [Create a Url Shortener using NextJs, Tailwind CSS and Strapi](https://dev.to/strapi/create-a-url-shortener-using-nextjs-tailwind-css-and-strapi-29la)
@@ -33,14 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js and Docker](https://dev.to/maxdemaio/nextjs-and-docker-2496)
 - [Dev.to/JS] [How to avoid every time { npm install }](https://dev.to/pinkoman/how-to-avoid-every-time-npm-install--2jo7)
 - [Lifehacker] [The Quickest Way to Cancel Spotify Premium and Delete Your Account](https://lifehacker.com/the-quickest-way-to-cancel-spotify-premium-and-delete-y-1848452121)
-- [Dev.to/JS] [common programming concepts in just 10 mins](https://dev.to/kumarkalyan/common-programming-concepts-in-just-10-mins-ic0)
-- [Dev.to/JS] [How to Build a Jamstack Application in Postman](https://dev.to/postman/how-to-build-a-jamstack-application-in-postman-h19)
 - [Lifehacker] [How to Catch a Shiny Pokémon Every Time](https://lifehacker.com/how-to-catch-a-shiny-pokemon-every-time-1848451769)
-- [Dev.to/JS] [Primitive and reference values in JavaScript](https://dev.to/110syedmazhar/primitive-and-reference-values-in-javascript-8oi)
-- [Dev.to/JS] [My First 30 Days of 100 Days of Code.](https://dev.to/cloanic/my-first-30-days-of-100-days-of-code-13k0)
 - [Lifehacker] [Add Outdoor Space to Your Home With a DIY Roof Deck](https://lifehacker.com/add-outdoor-space-to-your-home-with-a-diy-roof-deck-1848451996)
-- [Dev.to/JS] [How to use Svelte&#39;s style directive](https://dev.to/geoffrich/how-to-use-sveltes-style-directive-47l2)
-- [Dev.to/JS] [Adding a environment .env file to ReactJS project](https://dev.to/rajeshroyal/adding-a-env-file-to-reactjs-project-2h31)
 - [Lifehacker] [You Might Be Storing Your At-Home COVID Tests Wrong](https://lifehacker.com/you-might-be-storing-your-at-home-covid-tests-wrong-1848451119)
 - [Lifehacker] [How Much PDA Is Too Much PDA?](https://lifehacker.com/how-much-pda-is-too-much-pda-1848439272)
 - [Lifehacker] [How to Keep iMessage From Filling Up Your iPhone and iCloud](https://lifehacker.com/how-to-keep-imessage-from-filling-up-your-iphone-and-ic-1848450762)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
 - [Lifehacker] [25 Movies That Will Make You Ugly Cry](https://lifehacker.com/25-movies-that-will-make-you-ugly-cry-1848432345)
 - [Lifehacker] [When to See the &#39;Snow Moon&#39; in February](https://lifehacker.com/when-to-see-the-snow-moon-in-february-1848441532)
-- [Lifehacker] [Please Stop Checking Your Heart Rate so Much](https://lifehacker.com/please-stop-checking-your-heart-rate-so-much-1848436865)
-- [Lifehacker] [How to Block Everyone Who Uses Twitter’s NFT Profile Pictures](https://lifehacker.com/how-to-block-everyone-who-uses-twitter-s-nft-profile-pi-1848439075)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
