@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Boostcamp Puts All of Reddit&#39;s Best Free Workouts in One Slick App](https://lifehacker.com/boostcamp-puts-all-of-reddits-best-free-workouts-in-one-1848461941)
+- [Lifehacker] [10 Overbred Dogs You Should Avoid &lpar;and One That Isn’t&rpar;](https://lifehacker.com/10-overbred-dogs-you-should-avoid-and-one-that-isn-t-1848453525)
+- [Dev.to/JS] [TypeScript Cheat Sheet 📄 &lpar;32 Code Examples + FREE PDF &amp; Poster&rpar;](https://dev.to/doabledanny/typescript-cheat-sheet-32-code-examples-free-pdf-poster-4b1i)
+- [Dev.to/JS] [Arrays in JavaScript](https://dev.to/abhishek_rath/arrays-in-javascript-3340)
 - [Lifehacker] [How to Tell If Your Vinyl Collection Is Actually Worth Cash](https://lifehacker.com/how-to-tell-if-your-vinyl-collection-is-actually-worth-1848460981)
 - [Dev.to/JS] [How JSX works.](https://dev.to/danrez_/how-jsx-works-2055)
 - [Dev.to/JS] [How to become a web developer in 2022. What I&#39;ve learned from teaching myself web development.](https://dev.to/johnpalmgren/how-to-become-a-web-developer-in-2022-what-ive-learned-from-teaching-myself-web-development-23ml)
@@ -36,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Free React Templates You can Use for Your Projects](https://dev.to/smilepk/free-react-templates-you-can-use-for-your-projects-7c9)
 - [Dev.to/JS] [modern and easy user login validation](https://dev.to/alguercode/modern-and-easy-user-login-validation-2l75)
 - [Dev.to/JS] [Add/subtract days from date calculator](https://dev.to/adrianskar/addsubtract-days-from-date-calculator-35j9)
-- [Dev.to/JS] [user login validation project powered by volder](https://dev.to/alguercode/user-login-validation-project-powered-by-volder-gkd)
 - [Lifehacker] [The Best Apps and Extensions You Should Install If You Use Reddit](https://lifehacker.com/the-best-apps-and-extensions-you-should-install-if-you-1848459916)
-- [Dev.to/JS] [Top 5 javascript libraries you should know](https://dev.to/asim786521/top-5-javascript-libraries-you-should-know-360d)
 - [Lifehacker] [All the New Features Worth Trying in Chrome 98](https://lifehacker.com/all-the-new-features-worth-trying-in-chrome-98-1848459783)
 - [Lifehacker] [How Leftover Pasta Can Keep the &#39;Hangries&#39; Away](https://lifehacker.com/how-leftover-pasta-can-keep-the-hangries-away-1848456860)
 - [Lifehacker] [Go Ahead, Be a Cuck](https://lifehacker.com/go-ahead-be-a-cuck-1848439357)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Might Be Storing Your At-Home COVID Tests Wrong](https://lifehacker.com/you-might-be-storing-your-at-home-covid-tests-wrong-1848451119)
 - [Lifehacker] [How Much PDA Is Too Much PDA?](https://lifehacker.com/how-much-pda-is-too-much-pda-1848439272)
 - [Lifehacker] [How to Keep iMessage From Filling Up Your iPhone and iCloud](https://lifehacker.com/how-to-keep-imessage-from-filling-up-your-iphone-and-ic-1848450762)
-- [Lifehacker] [How to Prepare for &lpar;and Survive&rpar; an Earthquake](https://lifehacker.com/how-to-prepare-for-and-survive-an-earthquake-1848444086)
-- [Lifehacker] [Noom Is Still Diet Culture](https://lifehacker.com/fuck-noom-1848442892)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
