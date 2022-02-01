@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I published a package on NPM for the first time - and here&#39;s how to do it yourself! &lpar;Via replit.com&rpar;](https://dev.to/manuthecoder/i-published-a-package-on-npm-for-the-first-time-and-heres-how-to-do-it-yourself-via-replitcom-3k4m)
 - [Dev.to/JS] [5 Powerful Front-end Development Skills to Land Your First Job](https://dev.to/elliot_brenyasarfo_18749/5-powerful-front-end-development-skills-to-land-your-first-job-7pf)
 - [Dev.to/JS] [TypeScript Basics](https://dev.to/jovanadev/typescript-basics-2io4)
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Url Shortener using NextJs, Tailwind CSS and Strapi](https://dev.to/strapi/create-a-url-shortener-using-nextjs-tailwind-css-and-strapi-29la)
 - [Lifehacker] [Before You Quit Your Job, Ask Yourself These Questions](https://lifehacker.com/before-you-quit-your-job-ask-yourself-these-questions-1848451081)
 - [Dev.to/JS] [Paracetamol.js💊| #38: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-38-explica-este-codigo-javascript-3ihg)
-- [Dev.to/JS] [Transcriptions Without a Server Using Netlify and Deepgram](https://dev.to/deepgram/transcriptions-without-a-server-using-netlify-and-deepgram-3mi4)
 - [Lifehacker] [Is It Dangerous to Hold in a Fart Too Long?](https://lifehacker.com/is-it-dangerous-to-hold-in-a-fart-too-long-1848452674)
 - [Lifehacker] [The Quickest Way to Cancel Spotify Premium and Delete Your Account](https://lifehacker.com/the-quickest-way-to-cancel-spotify-premium-and-delete-y-1848452121)
 - [Lifehacker] [How to Catch a Shiny Pokémon Every Time](https://lifehacker.com/how-to-catch-a-shiny-pokemon-every-time-1848451769)
