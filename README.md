@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebRTC For Beginners - Part 5: Data Channels](https://dev.to/ethand91/webrtc-for-beginners-part-5-data-channels-l3m)
+- [Dev.to/JS] [15 JavaScript GitHub Repos You Should Check Out](https://dev.to/muthuannamalai12/15-javascript-github-repos-you-should-check-out-j4n)
+- [Dev.to/JS] [Can we promote personal articles here?](https://dev.to/sudonitin/can-we-promote-personal-articles-here-3882)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 25](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-25-14np)
+- [Dev.to/JS] [AWS Lambda in-built UUID](https://dev.to/prabusah_53/aws-lambda-in-built-uuid-382f)
 - [Dev.to/JS] [ShoPo ~ Js and Places to learn!](https://dev.to/sumanta_thefrontdev/shopo-js-and-places-to-learn-27p6)
 - [Dev.to/JS] [Setting up Sveltekit with Mdsvex](https://dev.to/kaashin/setting-up-sveltekit-with-mdsvex-4n05)
 - [Dev.to/JS] [Week 3 : Testing procedure](https://dev.to/beamazedvariable/week-3-testing-procedure-h7)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#001: The Week In Stories - Tech Salaries, Freebies, and Dev Things](https://dev.to/dottedsquirrel/001-the-week-in-stories-tech-salaries-freebies-and-dev-things-2bmi)
 - [Dev.to/JS] [Array Index != Array Min/Max Value](https://dev.to/commdao/array-index-array-minmax-value-4ke9)
 - [Dev.to/JS] [How to customize right click with javascript?](https://dev.to/dumboprogrammer/how-to-customize-right-click-with-javascript-2p10)
-- [Dev.to/JS] [Tutorial para crear api rest con node / express y typescript. Instalaciones &lpar;Parte 1&rpar;](https://dev.to/nicolasariza/crear-api-rest-con-node-express-y-typescript-instalaciones-parte-1-17eg)
-- [Dev.to/JS] [Leveraging APIs for Microservices](https://dev.to/mwagner24/leveraging-apis-for-microservices-2p4o)
-- [Dev.to/JS] [How To Create Adding Calculator with 6502 Assembler Emulator](https://dev.to/aserputov/how-to-create-adding-calculator-with-6502-assembler-emulator-4a2e)
-- [Dev.to/JS] [HOW TO SEARCH FOR FILES WITH USER-INPUT &lpar;Node.js&rpar;](https://dev.to/mod5ied/how-to-search-for-files-with-user-input-nodejs-4c19)
-- [Dev.to/JS] [I published a package on NPM for the first time - and here&#39;s how to do it yourself! &lpar;Via replit.com&rpar;](https://dev.to/manuthecoder/i-published-a-package-on-npm-for-the-first-time-and-heres-how-to-do-it-yourself-via-replitcom-3k4m)
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
