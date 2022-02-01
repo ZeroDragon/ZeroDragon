@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Dev.to/JS] [WunderHub — The Package Manager for APIs &lpar;Private Beta Announcement&rpar;](https://dev.to/wundergraph/wunderhub-the-package-manager-for-apis-private-beta-announcement-h44)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
 - [Dev.to/JS] [Should I Be Concerned About Several Calls to ReactDOM.render?](https://dev.to/steveblue/should-i-be-concerned-3jhc)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Catch a Shiny Pokémon Every Time](https://lifehacker.com/how-to-catch-a-shiny-pokemon-every-time-1848451769)
 - [Lifehacker] [Add Outdoor Space to Your Home With a DIY Roof Deck](https://lifehacker.com/add-outdoor-space-to-your-home-with-a-diy-roof-deck-1848451996)
 - [Lifehacker] [You Might Be Storing Your At-Home COVID Tests Wrong](https://lifehacker.com/you-might-be-storing-your-at-home-covid-tests-wrong-1848451119)
-- [Lifehacker] [How Much PDA Is Too Much PDA?](https://lifehacker.com/how-much-pda-is-too-much-pda-1848439272)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
