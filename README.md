@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Can You Change &lpar;or Save&rpar; Your Accent?](https://lifehacker.com/can-you-change-or-save-your-accent-1848455686)
+- [Dev.to/JS] [Working around CORS in create-react-app](https://dev.to/cathalmacdonnacha/working-around-cors-in-create-react-app-3pf2)
+- [Dev.to/JS] [Create a Search Bar with React and Material UI](https://dev.to/marianna13/create-a-search-bar-with-react-and-material-ui-4he)
+- [Dev.to/JS] [Write a code with VueJS and deploy it for free on GitHub Pages for job interview](https://dev.to/curiosity/write-a-code-with-vuejs-and-deploy-it-for-free-on-github-pages-for-job-interview-3386)
+- [Dev.to/JS] [How to consume APIs using Vanilla js](https://dev.to/ayomide_bajo/how-to-consume-apis-using-vanilla-js-4ie5)
+- [Lifehacker] [11 Things to Consider Before Adopting a Pet, According to Lifehacker Readers](https://lifehacker.com/11-things-to-consider-before-adopting-a-pet-according-1848455117)
+- [Dev.to/JS] [Html5 Canvas](https://dev.to/spsoi/html5-canvas-474a)
 - [Lifehacker] [How to Share Your Entire Steam Library With Your Friends](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
 - [Dev.to/JS] [Visualize the architecture of your Node.js app in under 5 minutes](https://dev.to/appland/visualize-the-architecture-of-your-nodejs-app-in-under-5-minutes-3po5)
 - [Dev.to/JS] [Snippets Css](https://dev.to/lucas_anselmo/snippets-css-2bbj)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working of JS Engine](https://dev.to/himanshuc11/working-of-js-engine-258h)
 - [Dev.to/JS] [Paracetamol.js💊| #39: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-39-explica-este-codigo-javascript-goh)
 - [Dev.to/JS] [Regex: An intro](https://dev.to/odunayoo_/regex-an-intro-5fkd)
-- [Dev.to/JS] [learn JSON from head to toe](https://dev.to/sahilsaif1221/learn-json-from-head-to-toe-5doo)
-- [Dev.to/JS] [12. Binary Expression, Bitwise Operator](https://dev.to/sungjuneun/12-binary-expression-bitwise-operator-h00)
-- [Dev.to/JS] [Guía rápida de Babel](https://dev.to/martindev/guia-rapida-de-babel-26db)
-- [Dev.to/JS] [Mode sombre pour Wordle en français](https://dev.to/michelc/mode-sombre-pour-wordle-en-francais-3j98)
-- [Dev.to/JS] [Build a community-driven delivery app using Django, PostgreSQL &amp; JavaScript - Part 2](https://dev.to/egeninc/build-a-community-driven-delivery-app-using-django-postgresql-javascript-part-2-jod)
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
 - [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
-- [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
-- [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
