@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactDOM.createRoot 🆚 ReactDOM.render](https://dev.to/fromaline/reactdomcreateroot-reactdomrender-1jg6)
+- [Dev.to/JS] [Authentication using Firebase for Express.js](https://dev.to/deepakshisood/authentication-using-firebase-for-expressjs-2l48)
+- [Dev.to/JS] [How we keep our Serverless deploy times short and avoid headaches](https://dev.to/bubblydoo/how-we-keep-our-serverless-deploy-times-short-and-avoid-headaches-3o6b)
+- [Dev.to/JS] [The shortest and best way to add two string numbers that you probably don&#39;t know](https://dev.to/codewithsnowbit/the-shortest-and-best-way-to-add-two-string-numbers-that-you-probably-dont-know-4pf)
 - [Dev.to/JS] [One Trick to Master JavaScript](https://dev.to/elliot_brenyasarfo_18749/one-trick-to-master-javascript-27o4)
+- [Dev.to/JS] [HTML Tips and Tricks.](https://dev.to/devsyedmohsin/helpful-html-tips-and-tricks-2gga)
 - [Dev.to/JS] [Creating a secure Wordle using Serverless Functions](https://dev.to/haideralipunjabi/creating-a-secure-wordle-using-serverless-functions-28di)
 - [Dev.to/JS] [Building a Full-Stack App Project in React and Spring Boot](https://dev.to/coder4_life/building-a-full-stack-app-project-in-react-and-spring-boot-3aa4)
 - [Dev.to/JS] [React all hooks series: Let&#39; acquire the useContext hook.](https://dev.to/amiinequ/react-all-hooks-series-let-acquire-the-usecontext-hook-8a0)
 - [Dev.to/JS] [Native apps vs Cross-platform Apps](https://dev.to/gdsc-svpcet/native-apps-vs-cross-platform-apps-3k80)
 - [Dev.to/JS] [15 JavaScript GitHub Repos You Should Check Out](https://dev.to/muthuannamalai12/15-javascript-github-repos-you-should-check-out-343l)
 - [Dev.to/JS] [Alpine JS : An Intro](https://dev.to/sumanta_thefrontdev/alpine-js-an-intro-25lm)
-- [Dev.to/JS] [WebRTC For Beginners - Part 5: Data Channels](https://dev.to/ethand91/webrtc-for-beginners-part-5-data-channels-l3m)
-- [Dev.to/JS] [Can we promote personal articles here?](https://dev.to/sudonitin/can-we-promote-personal-articles-here-3882)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 25](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-25-14np)
-- [Dev.to/JS] [AWS Lambda in-built UUID](https://dev.to/prabusah_53/aws-lambda-in-built-uuid-382f)
-- [Dev.to/JS] [ShoPo ~ Js and Places to learn!](https://dev.to/sumanta_thefrontdev/shopo-js-and-places-to-learn-27p6)
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
