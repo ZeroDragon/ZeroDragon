@@ -23,10 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a random password generator app with vanilla JavaScript](https://dev.to/thatanjan/build-a-random-password-generator-app-with-vanilla-javascript-2b7l)
+- [Lifehacker] [Go Ahead, Be a Cuck](https://lifehacker.com/go-ahead-be-a-cuck-1848439357)
+- [Dev.to/JS] [The Build vs Buy Debate, or what the costs are of building a web app &lpar;Infographic&rpar;](https://dev.to/nora_init/the-build-vs-buy-debate-or-what-the-costs-are-of-building-a-web-app-infographic-52eo)
+- [Dev.to/JS] [Testing Promise Rejection with Chai](https://dev.to/alissonzampietro/testing-promise-rejection-with-chai-1pmh)
+- [Dev.to/JS] [Velo by Wix: Type safety your code with JSDoc](https://dev.to/shoonia/velo-by-wix-type-safety-your-code-with-jsdoc-2ak6)
+- [Lifehacker] [The First Aid Supplies Every Dog Owner Needs](https://lifehacker.com/the-first-aid-supplies-every-dog-owner-needs-1848457175)
+- [Dev.to/JS] [Avoid the &quot;delete&quot; keyword in Javascript](https://dev.to/codewithsnowbit/avoid-the-delete-keyword-in-javascript-22o8)
 - [Lifehacker] [Can You Change &lpar;or Save&rpar; Your Accent?](https://lifehacker.com/can-you-change-or-save-your-accent-1848455686)
 - [Dev.to/JS] [Working around CORS in create-react-app](https://dev.to/cathalmacdonnacha/working-around-cors-in-create-react-app-3pf2)
 - [Dev.to/JS] [Create a Search Bar with React and Material UI](https://dev.to/marianna13/create-a-search-bar-with-react-and-material-ui-4he)
-- [Dev.to/JS] [Write a code with VueJS and deploy it for free on GitHub Pages for job interview](https://dev.to/curiosity/write-a-code-with-vuejs-and-deploy-it-for-free-on-github-pages-for-job-interview-3386)
 - [Dev.to/JS] [How to consume APIs using Vanilla js](https://dev.to/ayomide_bajo/how-to-consume-apis-using-vanilla-js-4ie5)
 - [Lifehacker] [11 Things to Consider Before Adopting a Pet, According to Lifehacker Readers](https://lifehacker.com/11-things-to-consider-before-adopting-a-pet-according-1848455117)
 - [Dev.to/JS] [Html5 Canvas](https://dev.to/spsoi/html5-canvas-474a)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Visualize the architecture of your Node.js app in under 5 minutes](https://dev.to/appland/visualize-the-architecture-of-your-nodejs-app-in-under-5-minutes-3po5)
 - [Dev.to/JS] [Snippets Css](https://dev.to/lucas_anselmo/snippets-css-2bbj)
 - [Dev.to/JS] [Step Functions para no morir.  Parte 1](https://dev.to/giulianaolmos/step-functions-para-no-morir-parte-1-39ji)
-- [Dev.to/JS] [How To Install Maven Plugin? | Jenkins Tutorial | Part III](https://dev.to/lambdatest/how-to-install-maven-plugin-jenkins-tutorial-part-iii-3hb4)
-- [Dev.to/JS] [Working of JS Engine](https://dev.to/himanshuc11/working-of-js-engine-258h)
-- [Dev.to/JS] [Paracetamol.js💊| #39: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-39-explica-este-codigo-javascript-goh)
-- [Dev.to/JS] [Regex: An intro](https://dev.to/odunayoo_/regex-an-intro-5fkd)
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Miss the Free and Cheap Food You Can Get for Super Bowl LVI](https://lifehacker.com/dont-miss-the-free-and-cheap-food-you-can-get-for-super-1848446303)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Lifehacker] [You Need to Change How You Think About Being &#39;Lazy&#39;](https://lifehacker.com/you-need-to-change-how-you-think-about-being-lazy-1848445907)
-- [Lifehacker] [Have Babe Ruth Teach Your Kids How to Pitch](https://lifehacker.com/have-babe-ruth-teach-your-kids-how-to-pitch-1848445912)
-- [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
