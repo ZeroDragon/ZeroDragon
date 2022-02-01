@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top React Development Trends for 2022](https://dev.to/keraito/top-react-development-trends-for-2022-pgi)
+- [Dev.to/JS] [Top 3 things you like about being an engineer?](https://dev.to/jasterix/top-3-things-you-like-about-being-an-engineer-2pdd)
+- [Dev.to/JS] [Dependency Wheel using VueJS 1/10](https://dev.to/101samovar/dependency-wheel-using-vuejs-110-27m5)
+- [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Dev.to/JS] [WunderHub — The Package Manager for APIs &lpar;Private Beta Announcement&rpar;](https://dev.to/wundergraph/wunderhub-the-package-manager-for-apis-private-beta-announcement-h44)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make your JavaScript project safer by using this workflow](https://dev.to/antoinecoulon/make-your-javascript-project-safer-by-using-this-workflow-403a)
 - [Lifehacker] [The Difference Between ‘Portion Size’ and ‘Serving Size’ &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-portion-size-and-serving-size-1848460388)
 - [Dev.to/JS] [Best waterproof electric bikes for rain](https://dev.to/jamessn54416966/best-waterproof-electric-bikes-for-rain-38d8)
-- [Dev.to/JS] [Understanding React Lifecycles](https://dev.to/smilepk/understanding-react-lifecycles-5gp3)
-- [Dev.to/JS] [JavaScript Cheat Sheet that you should bookmark](https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id)
-- [Dev.to/JS] [Turing Launches a Global, Career-Centric Community for Developers](https://dev.to/antipopco/turing-launches-a-global-career-centric-community-for-developers-ega)
 - [Lifehacker] [How to Line a Tart Shell Without Poking Holes in It](https://lifehacker.com/how-to-line-a-tart-shell-without-poking-holes-in-it-1848457762)
 - [Lifehacker] [The Best Apps and Extensions You Should Install If You Use Reddit](https://lifehacker.com/the-best-apps-and-extensions-you-should-install-if-you-1848459916)
 - [Lifehacker] [All the New Features Worth Trying in Chrome 98](https://lifehacker.com/all-the-new-features-worth-trying-in-chrome-98-1848459783)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Quickest Way to Cancel Spotify Premium and Delete Your Account](https://lifehacker.com/the-quickest-way-to-cancel-spotify-premium-and-delete-y-1848452121)
 - [Lifehacker] [How to Catch a Shiny Pokémon Every Time](https://lifehacker.com/how-to-catch-a-shiny-pokemon-every-time-1848451769)
 - [Lifehacker] [Add Outdoor Space to Your Home With a DIY Roof Deck](https://lifehacker.com/add-outdoor-space-to-your-home-with-a-diy-roof-deck-1848451996)
-- [Lifehacker] [You Might Be Storing Your At-Home COVID Tests Wrong](https://lifehacker.com/you-might-be-storing-your-at-home-covid-tests-wrong-1848451119)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
