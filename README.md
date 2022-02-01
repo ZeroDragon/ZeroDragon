@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Line a Tart Shell Without Poking Holes in It](https://lifehacker.com/how-to-line-a-tart-shell-without-poking-holes-in-it-1848457762)
+- [Dev.to/JS] [Free React Templates You can Use for Your Projects](https://dev.to/smilepk/free-react-templates-you-can-use-for-your-projects-7c9)
+- [Dev.to/JS] [modern and easy user login validation](https://dev.to/alguercode/modern-and-easy-user-login-validation-2l75)
+- [Dev.to/JS] [Add/subtract days from date calculator](https://dev.to/adrianskar/addsubtract-days-from-date-calculator-35j9)
+- [Dev.to/JS] [user login validation project powered by volder](https://dev.to/alguercode/user-login-validation-project-powered-by-volder-gkd)
+- [Lifehacker] [The Best Apps and Extensions You Should Install If You Use Reddit](https://lifehacker.com/the-best-apps-and-extensions-you-should-install-if-you-1848459916)
+- [Dev.to/JS] [Top 5 javascript libraries you should know](https://dev.to/asim786521/top-5-javascript-libraries-you-should-know-360d)
 - [Lifehacker] [All the New Features Worth Trying in Chrome 98](https://lifehacker.com/all-the-new-features-worth-trying-in-chrome-98-1848459783)
 - [Dev.to/JS] [Want to Modernize Your Gaming Applications in Minutes?](https://dev.to/push_technology/want-to-modernize-your-gaming-applications-in-minutes-142p)
 - [Dev.to/JS] [Demystifying &#39;This&#39; in Javascript](https://dev.to/pitypec/demystifying-this-in-javascript-4oph)
@@ -32,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Count the Number of Visits on your Website with HTML, CSS, JavaScript and the Count API](https://dev.to/codefoxx/how-to-count-the-number-of-visits-on-your-website-with-html-css-javascript-and-the-count-api-54c5)
 - [Dev.to/JS] [Open Source Instagram Filter Projects - Get Spark AR .arproj files](https://dev.to/sh20raj/open-source-instagram-filter-projects-get-spark-ar-arproj-files-k4n)
 - [Dev.to/JS] [Queues in Node js](https://dev.to/sudonitin/queues-in-node-js-4359)
-- [Dev.to/JS] [Is web dev oversaturated](https://dev.to/developerbishwas/is-web-dev-oversaturated-3lkj)
-- [Dev.to/JS] [How i made a easter egg function in next.js](https://dev.to/etcroot/how-i-made-a-easter-egg-function-in-nextjs-39p)
-- [Dev.to/JS] [Build a random password generator app with vanilla JavaScript](https://dev.to/thatanjan/build-a-random-password-generator-app-with-vanilla-javascript-2b7l)
 - [Lifehacker] [Go Ahead, Be a Cuck](https://lifehacker.com/go-ahead-be-a-cuck-1848439357)
-- [Dev.to/JS] [The Build vs Buy Debate, or what the costs are of building a web app &lpar;Infographic&rpar;](https://dev.to/nora_init/the-build-vs-buy-debate-or-what-the-costs-are-of-building-a-web-app-infographic-52eo)
-- [Dev.to/JS] [Testing Promise Rejection with Chai](https://dev.to/alissonzampietro/testing-promise-rejection-with-chai-1pmh)
 - [Lifehacker] [The First Aid Supplies Every Dog Owner Needs](https://lifehacker.com/the-first-aid-supplies-every-dog-owner-needs-1848457175)
 - [Lifehacker] [Can You Change &lpar;or Save&rpar; Your Accent?](https://lifehacker.com/can-you-change-or-save-your-accent-1848455686)
 - [Lifehacker] [11 Things to Consider Before Adopting a Pet, According to Lifehacker Readers](https://lifehacker.com/11-things-to-consider-before-adopting-a-pet-according-1848455117)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Noom Is Still Diet Culture](https://lifehacker.com/fuck-noom-1848442892)
 - [Lifehacker] [Don&#39;t Buy Apple Accessories](https://lifehacker.com/dont-buy-apple-accessories-1848442904)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848446291)
-- [Lifehacker] [How to Open the Most Stubborn Jars, Even If You Have Weak Noodle Arms](https://lifehacker.com/how-to-open-the-most-stubborn-jars-even-if-you-have-we-1848450086)
-- [Lifehacker] [How to Keep Your Dog or Cat Safe From Coyotes](https://lifehacker.com/how-to-keep-your-dog-or-cat-safe-from-coyotes-1848446293)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
