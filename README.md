@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Native apps vs Cross-platform Apps](https://dev.to/gdsc-svpcet/native-apps-vs-cross-platform-apps-3k80)
+- [Dev.to/JS] [15 JavaScript GitHub Repos You Should Check Out](https://dev.to/muthuannamalai12/15-javascript-github-repos-you-should-check-out-343l)
+- [Dev.to/JS] [Alpine JS : An Intro](https://dev.to/sumanta_thefrontdev/alpine-js-an-intro-25lm)
 - [Dev.to/JS] [WebRTC For Beginners - Part 5: Data Channels](https://dev.to/ethand91/webrtc-for-beginners-part-5-data-channels-l3m)
-- [Dev.to/JS] [15 JavaScript GitHub Repos You Should Check Out](https://dev.to/muthuannamalai12/15-javascript-github-repos-you-should-check-out-j4n)
 - [Dev.to/JS] [Can we promote personal articles here?](https://dev.to/sudonitin/can-we-promote-personal-articles-here-3882)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 25](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-25-14np)
 - [Dev.to/JS] [AWS Lambda in-built UUID](https://dev.to/prabusah_53/aws-lambda-in-built-uuid-382f)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Week 3 : Testing procedure](https://dev.to/beamazedvariable/week-3-testing-procedure-h7)
 - [Dev.to/JS] [Calculate Age from Date of Birth with Birthday alert 🎂](https://dev.to/sh20raj/calculate-age-from-date-of-birth-with-birthday-alert-1m9d)
 - [Dev.to/JS] [#001: The Week In Stories - Tech Salaries, Freebies, and Dev Things](https://dev.to/dottedsquirrel/001-the-week-in-stories-tech-salaries-freebies-and-dev-things-2bmi)
-- [Dev.to/JS] [Array Index != Array Min/Max Value](https://dev.to/commdao/array-index-array-minmax-value-4ke9)
-- [Dev.to/JS] [How to customize right click with javascript?](https://dev.to/dumboprogrammer/how-to-customize-right-click-with-javascript-2p10)
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
