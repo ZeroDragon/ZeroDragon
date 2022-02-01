@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Calculate Age from Date of Birth with Birthday alert 🎂](https://dev.to/sh20raj/calculate-age-from-date-of-birth-with-birthday-alert-1m9d)
+- [Dev.to/JS] [#001: The Week In Stories - Tech Salaries, Freebies, and Dev Things](https://dev.to/dottedsquirrel/001-the-week-in-stories-tech-salaries-freebies-and-dev-things-2bmi)
+- [Dev.to/JS] [Array Index != Array Min/Max Value](https://dev.to/commdao/array-index-array-minmax-value-4ke9)
+- [Dev.to/JS] [How to customize right click with javascript?](https://dev.to/dumboprogrammer/how-to-customize-right-click-with-javascript-2p10)
+- [Dev.to/JS] [Tutorial para crear api rest con node / express y typescript. Instalaciones &lpar;Parte 1&rpar;](https://dev.to/nicolasariza/crear-api-rest-con-node-express-y-typescript-instalaciones-parte-1-17eg)
 - [Dev.to/JS] [Leveraging APIs for Microservices](https://dev.to/mwagner24/leveraging-apis-for-microservices-2p4o)
 - [Dev.to/JS] [How To Create Adding Calculator with 6502 Assembler Emulator](https://dev.to/aserputov/how-to-create-adding-calculator-with-6502-assembler-emulator-4a2e)
 - [Dev.to/JS] [HOW TO SEARCH FOR FILES WITH USER-INPUT &lpar;Node.js&rpar;](https://dev.to/mod5ied/how-to-search-for-files-with-user-input-nodejs-4c19)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Dev.to/JS] [Step-by-step: How to Internationalize your NextJS App with Next-Translate](https://dev.to/flycode/step-by-step-how-to-internationalize-your-nextjs-app-with-next-translate-3ofo)
-- [Dev.to/JS] [Nestjs Series- Interceptors](https://dev.to/vignesh_pugaz/nestjs-series-interceptors-56o1)
-- [Dev.to/JS] [How to fix Error 404 on Netlify for SPAs built with Reactjs](https://dev.to/naftalimurgor/how-to-fix-error-404-on-netlify-for-spas-built-with-reactjs-3fb6)
-- [Dev.to/JS] [Adding React to a website.](https://dev.to/danrez_/adding-react-to-a-website-5009)
-- [Dev.to/JS] [ES6: Object destructing](https://dev.to/naftalimurgor/es6-object-destructing-3nn0)
-- [Dev.to/JS] [How to Create Horizontal Background Text on Scroll](https://dev.to/marcojhb/how-to-create-horizontal-background-text-on-scroll-3c0)
 - [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
 - [Lifehacker] [How to Export Your Entire Spotify Library for Free](https://lifehacker.com/how-to-export-your-entire-spotify-library-for-free-1848452337)
 - [Lifehacker] [Before You Quit Your Job, Ask Yourself These Questions](https://lifehacker.com/before-you-quit-your-job-ask-yourself-these-questions-1848451081)
