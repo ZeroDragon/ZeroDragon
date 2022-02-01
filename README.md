@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React all hooks series: Let&#39; acquire the useContext hook.](https://dev.to/amiinequ/react-all-hooks-series-let-acquire-the-usecontext-hook-8a0)
 - [Dev.to/JS] [Native apps vs Cross-platform Apps](https://dev.to/gdsc-svpcet/native-apps-vs-cross-platform-apps-3k80)
 - [Dev.to/JS] [15 JavaScript GitHub Repos You Should Check Out](https://dev.to/muthuannamalai12/15-javascript-github-repos-you-should-check-out-343l)
 - [Dev.to/JS] [Alpine JS : An Intro](https://dev.to/sumanta_thefrontdev/alpine-js-an-intro-25lm)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting up Sveltekit with Mdsvex](https://dev.to/kaashin/setting-up-sveltekit-with-mdsvex-4n05)
 - [Dev.to/JS] [Week 3 : Testing procedure](https://dev.to/beamazedvariable/week-3-testing-procedure-h7)
 - [Dev.to/JS] [Calculate Age from Date of Birth with Birthday alert 🎂](https://dev.to/sh20raj/calculate-age-from-date-of-birth-with-birthday-alert-1m9d)
-- [Dev.to/JS] [#001: The Week In Stories - Tech Salaries, Freebies, and Dev Things](https://dev.to/dottedsquirrel/001-the-week-in-stories-tech-salaries-freebies-and-dev-things-2bmi)
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
