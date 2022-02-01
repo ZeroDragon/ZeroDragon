@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Share Your Entire Steam Library With Your Friends](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
+- [Dev.to/JS] [Visualize the architecture of your Node.js app in under 5 minutes](https://dev.to/appland/visualize-the-architecture-of-your-nodejs-app-in-under-5-minutes-3po5)
+- [Dev.to/JS] [Snippets Css](https://dev.to/lucas_anselmo/snippets-css-2bbj)
+- [Dev.to/JS] [Step Functions para no morir.  Parte 1](https://dev.to/giulianaolmos/step-functions-para-no-morir-parte-1-39ji)
+- [Dev.to/JS] [How To Install Maven Plugin? | Jenkins Tutorial | Part III](https://dev.to/lambdatest/how-to-install-maven-plugin-jenkins-tutorial-part-iii-3hb4)
 - [Dev.to/JS] [Working of JS Engine](https://dev.to/himanshuc11/working-of-js-engine-258h)
 - [Dev.to/JS] [Paracetamol.js💊| #39: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-39-explica-este-codigo-javascript-goh)
 - [Dev.to/JS] [Regex: An intro](https://dev.to/odunayoo_/regex-an-intro-5fkd)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guía rápida de Babel](https://dev.to/martindev/guia-rapida-de-babel-26db)
 - [Dev.to/JS] [Mode sombre pour Wordle en français](https://dev.to/michelc/mode-sombre-pour-wordle-en-francais-3j98)
 - [Dev.to/JS] [Build a community-driven delivery app using Django, PostgreSQL &amp; JavaScript - Part 2](https://dev.to/egeninc/build-a-community-driven-delivery-app-using-django-postgresql-javascript-part-2-jod)
-- [Dev.to/JS] [Optional chaining function call](https://dev.to/adam_cyclones/optional-chaining-function-call-1emd)
-- [Dev.to/JS] [JavaScript: Tips and Tricks](https://dev.to/devsyedmohsin/javascript-tips-and-tricks-2mhk)
-- [Dev.to/JS] [What&#39;s new in P42? January 2022 Roundup](https://dev.to/p42/whats-new-in-p42-january-2022-roundup-1g19)
-- [Dev.to/JS] [Intro to JavaScript Recursion](https://dev.to/barkty/intro-to-javascript-recursion-4n44)
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Use Contact Paper Around Your Home](https://lifehacker.com/you-should-use-contact-paper-around-your-home-1848445779)
 - [Lifehacker] [Should You Be Scraping Your Tongue Every Day?](https://lifehacker.com/should-you-be-scraping-your-tongue-every-day-1848442381)
 - [Lifehacker] [How to Install Apple&#39;s New Public Betas for iOS, macOS, and iPadOS](https://lifehacker.com/how-to-install-apples-new-public-betas-for-ios-macos-1848441069)
-- [Lifehacker] [25 Movies That Will Make You Ugly Cry](https://lifehacker.com/25-movies-that-will-make-you-ugly-cry-1848432345)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
 
