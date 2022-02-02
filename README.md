@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [tsParticles 1.39.3 Released](https://dev.to/matteobruni/tsparticles-1393-released-191o)
+- [Dev.to/JS] [How to test APIs using supertest, mocha and chai?](https://dev.to/mfaisalkhatri/how-to-test-apis-using-supertest-mocha-and-chai-h0c)
+- [Dev.to/JS] [The Strict mode in JavaScript](https://dev.to/110syedmazhar/the-strict-mode-in-javascript-387e)
 - [Lifehacker] [This Savory Loaf Is the Ultimate Make-Ahead Breakfast](https://lifehacker.com/this-savory-loaf-is-the-ultimate-make-ahead-breakfast-1848466964)
 - [Dev.to/JS] [Best Folding Electric Wheelchair reviews](https://dev.to/jamessn54416966/best-folding-electric-wheelchair-reviews-50ie)
 - [Lifehacker] [How to Get Kids to Stop Biting Their Nails](https://lifehacker.com/how-to-get-kids-to-stop-biting-their-nails-1848467007)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I made a browser extension that teaches you the best VS Code hotkeys](https://dev.to/abergs/i-made-a-browser-extension-that-teaches-you-the-best-vs-code-hotkeys-4b9)
 - [Dev.to/JS] [Topt 5 sorting algorithms](https://dev.to/danities316/topt-5-sorting-algorithms-3ig6)
 - [Dev.to/JS] [Flask Blog Tutorial #1: Getting Started](https://dev.to/geektechpub/flask-blog-tutorial-1-getting-started-10cd)
-- [Dev.to/JS] [Debounce in JS - How and When to use?](https://dev.to/dileepreddyaella/debounce-in-js-how-and-when-to-use-1lo3)
-- [Dev.to/JS] [JavaScript ?. Optional chaining](https://dev.to/this-is-learning/javascript-optional-chaining-302f)
 - [Lifehacker] [Why Champagne Is Better Than Beer for Your Super Bowl Party](https://lifehacker.com/why-champagne-is-better-than-beer-for-your-super-bowl-p-1848463391)
-- [Dev.to/JS] [Beginner’s Roadmap to Web Development](https://dev.to/ericnanhu/beginners-roadmap-to-web-development-19k3)
 - [Lifehacker] [17 of the Best Time Loop Movies and TV Shows That Aren&#39;t &#39;Groundhog Day&#39;](https://lifehacker.com/17-of-the-best-time-loop-movies-and-tv-shows-that-arent-1848452661)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
