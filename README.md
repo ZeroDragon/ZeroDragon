@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Where Frontend Ends and Backend Begins](https://dev.to/mikhailkaran/where-frontend-ends-and-backend-begins-2jdh)
+- [Dev.to/JS] [Infinite Scrolling with React](https://dev.to/karamkoujan/infinite-scrolling-with-react-1kaa)
+- [Dev.to/JS] [Create Scroll sensitive navbar in ReactJs [functional component]](https://dev.to/lazylad/create-scroll-sensitive-navbar-in-reactjs-functional-component-l3i)
+- [Dev.to/JS] [My New Spacecraft Browser Game with Vanilla JS](https://dev.to/danialdezfouli/my-new-spacecraft-browser-game-with-vanilla-js-2ilg)
+- [Dev.to/JS] [3 ways to add timeouts in your npm scripts](https://dev.to/bennycode/3-ways-to-add-timeouts-in-your-npm-scripts-1pg5)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Dev.to/JS] [Data Structures Study Session: Arrays](https://dev.to/babiescatscode/data-structure-study-session-arrays-2e1a)
 - [Dev.to/JS] [New Series: Data Structures Study Sessions](https://dev.to/babiescatscode/new-series-data-structures-study-sessions-1dj9)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dark mode for French Wordle](https://dev.to/michelc/dark-mode-for-french-wordle-1cdm)
 - [Dev.to/JS] [Flutter vs. React Native: Which is Better in 2022](https://dev.to/backendless/flutter-vs-react-native-which-is-better-in-2022-261p)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
-- [Dev.to/JS] [Password Protect Static Sites with PageCrypt](https://dev.to/render/password-protect-static-sites-with-pagecrypt-4dia)
-- [Dev.to/JS] [Migrating my portfolio site from Next.js to Remix](https://dev.to/thomasledoux1/migrating-my-portfolio-site-from-nextjs-to-remix-4g03)
-- [Dev.to/JS] [Neat, Easy Way to Run Node.js Functions from the Command Line](https://dev.to/stevepepple/neat-easy-way-to-run-nodejs-functions-from-the-command-line-4pep)
-- [Dev.to/JS] [tsParticles 1.39.3 Released](https://dev.to/matteobruni/tsparticles-1393-released-191o)
-- [Dev.to/JS] [How to test APIs using supertest, mocha and chai?](https://dev.to/mfaisalkhatri/how-to-test-apis-using-supertest-mocha-and-chai-h0c)
 - [Lifehacker] [This Savory Loaf Is the Ultimate Make-Ahead Breakfast](https://lifehacker.com/this-savory-loaf-is-the-ultimate-make-ahead-breakfast-1848466964)
 - [Lifehacker] [How to Get Kids to Stop Biting Their Nails](https://lifehacker.com/how-to-get-kids-to-stop-biting-their-nails-1848467007)
 - [Lifehacker] [Your Garage Door Needs More Lube](https://lifehacker.com/your-garage-door-needs-more-lube-1848466830)
