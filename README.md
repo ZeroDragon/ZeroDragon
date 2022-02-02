@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Savory Loaf Is the Ultimate Make-Ahead Breakfast](https://lifehacker.com/this-savory-loaf-is-the-ultimate-make-ahead-breakfast-1848466964)
+- [Dev.to/JS] [Best Folding Electric Wheelchair reviews](https://dev.to/jamessn54416966/best-folding-electric-wheelchair-reviews-50ie)
+- [Lifehacker] [How to Get Kids to Stop Biting Their Nails](https://lifehacker.com/how-to-get-kids-to-stop-biting-their-nails-1848467007)
+- [Dev.to/JS] [CSS or A Framework?](https://dev.to/muhammadcodes/css-or-framework-4ap8)
 - [Lifehacker] [Your Garage Door Needs More Lube](https://lifehacker.com/your-garage-door-needs-more-lube-1848466830)
 - [Lifehacker] [Finally, Android Users Can Turn iMessage Reactions Into Emoji](https://lifehacker.com/finally-android-users-can-turn-imessage-reactions-into-1848466504)
 - [Dev.to/JS] [next-export-i18n v1.4.0: make the user&#39;s default language optional](https://dev.to/martinkr/next-export-i18n-v140-make-the-users-default-language-optional-2m9p)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript ?. Optional chaining](https://dev.to/this-is-learning/javascript-optional-chaining-302f)
 - [Lifehacker] [Why Champagne Is Better Than Beer for Your Super Bowl Party](https://lifehacker.com/why-champagne-is-better-than-beer-for-your-super-bowl-p-1848463391)
 - [Dev.to/JS] [Beginner’s Roadmap to Web Development](https://dev.to/ericnanhu/beginners-roadmap-to-web-development-19k3)
-- [Dev.to/JS] [4 ways &quot;this&quot; will be created in Javascript.](https://dev.to/sunrawat/4-ways-this-will-be-created-in-javascript-1nb2)
-- [Dev.to/JS] [The progressive guide to jQuery internationalization &lpar;i18n&rpar; using i18next](https://dev.to/adrai/the-progressive-guide-to-jquery-internationalization-i18n-using-i18next-3dc3)
 - [Lifehacker] [17 of the Best Time Loop Movies and TV Shows That Aren&#39;t &#39;Groundhog Day&#39;](https://lifehacker.com/17-of-the-best-time-loop-movies-and-tv-shows-that-arent-1848452661)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Change &lpar;or Save&rpar; Your Accent?](https://lifehacker.com/can-you-change-or-save-your-accent-1848455686)
 - [Lifehacker] [11 Things to Consider Before Adopting a Pet, According to Lifehacker Readers](https://lifehacker.com/11-things-to-consider-before-adopting-a-pet-according-1848455117)
 - [Lifehacker] [How to Share Your Entire Steam Library With Your Friends](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
-- [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
-- [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
