@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Router and nested routes](https://dev.to/imkevdev/react-router-and-nested-routes-fmn)
+- [Dev.to/JS] [Embed GitHub User&#39;s All Repos on Website 🚀](https://dev.to/sh20raj/embed-github-users-all-repos-on-website-27eh)
+- [Dev.to/JS] [This Week In React #92: Remix, MDX 2, Lifetime Analysis, Story of React, Quick Start Docs, TypeScript, Node.js, Deno...](https://dev.to/sebastienlorber/this-week-in-react-92-remix-mdx-2-lifetime-analysis-story-of-react-quick-start-docs-typescript-nodejs-deno-50mj)
+- [Dev.to/JS] [GitHub Repository Card
+for html web site in svg/png format  🚀](https://dev.to/sh20raj/github-repository-cardfor-html-web-site-in-svgpng-format-21ep)
+- [Dev.to/JS] [Jak dodawać testy end-to-end do projektu](https://dev.to/poznaj-dev/jak-dodawac-testy-end-to-end-do-projektu-61b)
 - [Dev.to/JS] [The Legality of Web Scraping](https://dev.to/botmenot/the-legality-of-web-scraping-58nh)
 - [Dev.to/JS] [Build a loading with HTML, CSS, Javascript](https://dev.to/mhadi2003/build-a-loading-with-html-css-javascript-1ohc)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/pushanverma/higher-order-functions-57gb)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DNA – Free One Page HTML Template](https://dev.to/imiahazel/dna-free-one-page-html-template-d0)
 - [Dev.to/JS] [Gstreamer tutorial Part 1 as a node native addon.](https://dev.to/ethand91/gstreamer-tutorial-part-1-as-a-node-native-addon-25j8)
 - [Dev.to/JS] [Hoisting and Temporal Dead Zone](https://dev.to/himanshuc11/hoisting-and-temporal-dead-zone-4dcn)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 26](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-26-jl4)
-- [Dev.to/JS] [IT company in India](https://dev.to/growbizz1/it-company-in-india-1a63)
-- [Dev.to/JS] [🤔 Load another HTML file to index.html using JavaScript make index neater 🚀](https://dev.to/sh20raj/load-another-html-file-to-indexhtml-using-javascript-make-index-neater-4b57)
-- [Dev.to/JS] [Cómo agregar pruebas de extremo a extremo a un proyecto](https://dev.to/conoce-dev/como-agregar-pruebas-de-extremo-a-extremo-a-un-proyecto-522l)
-- [Dev.to/JS] [How to add end-to-end tests to a project](https://dev.to/how-to-dev/how-to-add-end-to-end-tests-to-a-project-50kf)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
