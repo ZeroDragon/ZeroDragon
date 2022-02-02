@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to Host Your Website for Free with GitHub Pages in 4 Easy Steps](https://dev.to/codefoxx/how-to-host-your-website-for-free-with-github-pages-in-4-easy-steps-1hen)
+- [Dev.to/JS] [How to use the JavaScript Fetch API to Retrieve Data from an API](https://dev.to/codefoxx/how-to-use-the-javascript-fetch-api-to-retrieve-data-from-an-api-2jfo)
 - [Dev.to/JS] [SOLID: resumo de bolso para consutas rápidas](https://dev.to/bbarbosa7/solid-resumo-de-bolso-para-consutas-rapidas-2f7k)
 - [Dev.to/JS] [LetMeScroll.js - Scroll made easy!](https://dev.to/bmsvieira/letmescrolljs-5an)
 - [Dev.to/JS] [How to Create a Slide Transition Between Separate “Pages” with HTML, CSS, and JavaScript](https://dev.to/codefoxx/how-to-create-a-slide-transition-between-separate-pages-with-html-css-and-javascript-1fib)
