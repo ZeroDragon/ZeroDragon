@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 Sleep Myths You Need to Stop Believing](https://lifehacker.com/11-sleep-myths-you-need-to-stop-believing-1848463000)
+- [Dev.to/JS] [AG Grid Community Roundup January 2022](https://dev.to/ag-grid/ag-grid-community-roundup-january-2022-4n2l)
+- [Dev.to/JS] [Advanced array methods: array.forEach array.filter &amp; array.map](https://dev.to/johnpalmgren/advanced-array-methods-arrayforeach-arrayfilter-arraymap-4mh3)
+- [Lifehacker] [How to Finally Link Your PlayStation and Discord Accounts](https://lifehacker.com/how-to-finally-link-your-playstation-and-discord-accoun-1848465431)
 - [Lifehacker] [The Best Ways to Boost Your Wifi Signal for Free](https://lifehacker.com/the-best-ways-to-boost-your-wifi-signal-for-free-1848461552)
 - [Dev.to/JS] [I made a browser extension that teaches you the best VS Code hotkeys](https://dev.to/abergs/i-made-a-browser-extension-that-teaches-you-the-best-vs-code-hotkeys-4b9)
 - [Dev.to/JS] [Topt 5 sorting algorithms](https://dev.to/danities316/topt-5-sorting-algorithms-3ig6)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [17 of the Best Time Loop Movies and TV Shows That Aren&#39;t &#39;Groundhog Day&#39;](https://lifehacker.com/17-of-the-best-time-loop-movies-and-tv-shows-that-arent-1848452661)
 - [Dev.to/JS] [My first &quot;game&quot; created with javascript.](https://dev.to/lucapu88/my-first-game-created-with-javascript-4deb)
 - [Dev.to/JS] [Async JS Patterns using Promises](https://dev.to/sebasqui/async-js-patterns-using-promises-3e6m)
-- [Dev.to/JS] [How to customize Dark Mode in Nexjs + Tailwind](https://dev.to/neerajram30/how-to-customize-dark-mode-in-nexjs-tailwind-2pn8)
-- [Dev.to/JS] [Top Programming language Trends in 2022](https://dev.to/itsmekrishlee/top-programming-language-trends-in-2022-26id)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
 - [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
 - [Lifehacker] [How to Export Your Entire Spotify Library for Free](https://lifehacker.com/how-to-export-your-entire-spotify-library-for-free-1848452337)
-- [Lifehacker] [Before You Quit Your Job, Ask Yourself These Questions](https://lifehacker.com/before-you-quit-your-job-ask-yourself-these-questions-1848451081)
-- [Lifehacker] [Is It Dangerous to Hold in a Fart Too Long?](https://lifehacker.com/is-it-dangerous-to-hold-in-a-fart-too-long-1848452674)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
