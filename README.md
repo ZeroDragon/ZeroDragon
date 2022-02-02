@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting and Temporal Dead Zone](https://dev.to/himanshuc11/hoisting-and-temporal-dead-zone-4dcn)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 26](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-26-jl4)
 - [Dev.to/JS] [IT company in India](https://dev.to/growbizz1/it-company-in-india-1a63)
 - [Dev.to/JS] [🤔 Load another HTML file to index.html using JavaScript make index neater 🚀](https://dev.to/sh20raj/load-another-html-file-to-indexhtml-using-javascript-make-index-neater-4b57)
 - [Dev.to/JS] [How to create a countdown timer using React Hooks](https://dev.to/atapas/how-to-create-a-countdown-timer-using-react-hooks-11m3)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dependency Wheel using VueJS 1/10](https://dev.to/101samovar/dependency-wheel-using-vuejs-110-27m5)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
-- [Dev.to/JS] [WunderHub — The Package Manager for APIs &lpar;Private Beta Announcement&rpar;](https://dev.to/wundergraph/wunderhub-the-package-manager-for-apis-private-beta-announcement-h44)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
-- [Dev.to/JS] [Should I Be Concerned About Several Calls to ReactDOM.render?](https://dev.to/steveblue/should-i-be-concerned-3jhc)
 - [Lifehacker] [Boostcamp Puts All of Reddit&#39;s Best Free Workouts in One Slick App](https://lifehacker.com/boostcamp-puts-all-of-reddits-best-free-workouts-in-one-1848461941)
 - [Lifehacker] [10 Overbred Dogs You Should Avoid &lpar;and One That Isn’t&rpar;](https://lifehacker.com/10-overbred-dogs-you-should-avoid-and-one-that-isn-t-1848453525)
 - [Lifehacker] [How to Tell If Your Vinyl Collection Is Actually Worth Cash](https://lifehacker.com/how-to-tell-if-your-vinyl-collection-is-actually-worth-1848460981)
