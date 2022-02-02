@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async JS Patterns using Promises](https://dev.to/sebasqui/async-js-patterns-using-promises-3e6m)
+- [Dev.to/JS] [How to customize Dark Mode in Nexjs + Tailwind](https://dev.to/neerajram30/how-to-customize-dark-mode-in-nexjs-tailwind-2pn8)
+- [Dev.to/JS] [Top Programming language Trends in 2022](https://dev.to/itsmekrishlee/top-programming-language-trends-in-2022-26id)
 - [Dev.to/JS] [SopLoader :- Free Preloaders for Website or Blogger ⌛](https://dev.to/sh20raj/soploader-free-preloaders-for-website-or-blogger-23fi)
 - [Dev.to/JS] [Array Destructuring](https://dev.to/davidecannerozzi/array-destructuring-ifo)
 - [Dev.to/JS] [When I Use Valtio and When I Use Jotai](https://dev.to/dai_shi/when-i-use-valtio-and-when-i-use-jotai-225)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everything You Should Know About React 18](https://dev.to/syncfusion/everything-you-should-know-about-react-18-elo)
 - [Dev.to/JS] [10 Solid Ways Linux Is Better!!](https://dev.to/elliot_brenyasarfo_18749/10-solid-ways-linux-is-better-10n5)
 - [Dev.to/JS] [An Introduction to Web NFC](https://dev.to/saranshk/an-introduction-to-web-nfc-2b49)
-- [Dev.to/JS] [Temporal Dead Zone](https://dev.to/dawroun/temporal-dead-zone-4pj1)
-- [Dev.to/JS] [React Router and nested routes](https://dev.to/imkevdev/react-router-and-nested-routes-fmn)
-- [Dev.to/JS] [Embed GitHub User&#39;s All Repos on Website 🚀](https://dev.to/sh20raj/embed-github-users-all-repos-on-website-27eh)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
