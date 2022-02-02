@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Introduction to Web NFC](https://dev.to/saranshk/an-introduction-to-web-nfc-2b49)
+- [Dev.to/JS] [Temporal Dead Zone](https://dev.to/dawroun/temporal-dead-zone-4pj1)
 - [Dev.to/JS] [React Router and nested routes](https://dev.to/imkevdev/react-router-and-nested-routes-fmn)
 - [Dev.to/JS] [Embed GitHub User&#39;s All Repos on Website 🚀](https://dev.to/sh20raj/embed-github-users-all-repos-on-website-27eh)
 - [Dev.to/JS] [This Week In React #92: Remix, MDX 2, Lifetime Analysis, Story of React, Quick Start Docs, TypeScript, Node.js, Deno...](https://dev.to/sebastienlorber/this-week-in-react-92-remix-mdx-2-lifetime-analysis-story-of-react-quick-start-docs-typescript-nodejs-deno-50mj)
@@ -34,8 +36,6 @@ for html web site in svg/png format  🚀](https://dev.to/sh20raj/github-reposit
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/pushanverma/higher-order-functions-57gb)
 - [Dev.to/JS] [It&#39;s Prisma Time - Migrations](https://dev.to/this-is-learning/its-prisma-time-migrations-7pk)
 - [Dev.to/JS] [DNA – Free One Page HTML Template](https://dev.to/imiahazel/dna-free-one-page-html-template-d0)
-- [Dev.to/JS] [Gstreamer tutorial Part 1 as a node native addon.](https://dev.to/ethand91/gstreamer-tutorial-part-1-as-a-node-native-addon-25j8)
-- [Dev.to/JS] [Hoisting and Temporal Dead Zone](https://dev.to/himanshuc11/hoisting-and-temporal-dead-zone-4dcn)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
