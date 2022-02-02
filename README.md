@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Legality of Web Scraping](https://dev.to/botmenot/the-legality-of-web-scraping-58nh)
+- [Dev.to/JS] [Build a loading with HTML, CSS, Javascript](https://dev.to/mhadi2003/build-a-loading-with-html-css-javascript-1ohc)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/pushanverma/higher-order-functions-57gb)
 - [Dev.to/JS] [It&#39;s Prisma Time - Migrations](https://dev.to/this-is-learning/its-prisma-time-migrations-7pk)
 - [Dev.to/JS] [DNA – Free One Page HTML Template](https://dev.to/imiahazel/dna-free-one-page-html-template-d0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🤔 Load another HTML file to index.html using JavaScript make index neater 🚀](https://dev.to/sh20raj/load-another-html-file-to-indexhtml-using-javascript-make-index-neater-4b57)
 - [Dev.to/JS] [Cómo agregar pruebas de extremo a extremo a un proyecto](https://dev.to/conoce-dev/como-agregar-pruebas-de-extremo-a-extremo-a-un-proyecto-522l)
 - [Dev.to/JS] [How to add end-to-end tests to a project](https://dev.to/how-to-dev/how-to-add-end-to-end-tests-to-a-project-50kf)
-- [Dev.to/JS] [How to create a countdown timer using React Hooks](https://dev.to/atapas/how-to-create-a-countdown-timer-using-react-hooks-11m3)
-- [Dev.to/JS] [How to use the JavaScript Fetch API to Retrieve Data from an API](https://dev.to/codefoxx/how-to-use-the-javascript-fetch-api-to-retrieve-data-from-an-api-2jfo)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
