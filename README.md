@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
+- [Dev.to/JS] [Dark mode for French Wordle](https://dev.to/michelc/dark-mode-for-french-wordle-1cdm)
+- [Dev.to/JS] [Flutter vs. React Native: Which is Better in 2022](https://dev.to/backendless/flutter-vs-react-native-which-is-better-in-2022-261p)
+- [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
+- [Dev.to/JS] [Password Protect Static Sites with PageCrypt](https://dev.to/render/password-protect-static-sites-with-pagecrypt-4dia)
+- [Dev.to/JS] [Migrating my portfolio site from Next.js to Remix](https://dev.to/thomasledoux1/migrating-my-portfolio-site-from-nextjs-to-remix-4g03)
 - [Dev.to/JS] [Neat, Easy Way to Run Node.js Functions from the Command Line](https://dev.to/stevepepple/neat-easy-way-to-run-nodejs-functions-from-the-command-line-4pep)
 - [Dev.to/JS] [tsParticles 1.39.3 Released](https://dev.to/matteobruni/tsparticles-1393-released-191o)
 - [Dev.to/JS] [How to test APIs using supertest, mocha and chai?](https://dev.to/mfaisalkhatri/how-to-test-apis-using-supertest-mocha-and-chai-h0c)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [next-export-i18n v1.4.0: make the user&#39;s default language optional](https://dev.to/martinkr/next-export-i18n-v140-make-the-users-default-language-optional-2m9p)
 - [Dev.to/JS] [Phase 1 Completed](https://dev.to/andy6503/phase-1-completed-322f)
 - [Lifehacker] [11 Sleep Myths You Need to Stop Believing](https://lifehacker.com/11-sleep-myths-you-need-to-stop-believing-1848463000)
-- [Dev.to/JS] [AG Grid Community Roundup January 2022](https://dev.to/ag-grid/ag-grid-community-roundup-january-2022-4n2l)
-- [Dev.to/JS] [Advanced array methods: array.forEach array.filter &amp; array.map](https://dev.to/johnpalmgren/advanced-array-methods-arrayforeach-arrayfilter-arraymap-4mh3)
 - [Lifehacker] [How to Finally Link Your PlayStation and Discord Accounts](https://lifehacker.com/how-to-finally-link-your-playstation-and-discord-accoun-1848465431)
 - [Lifehacker] [The Best Ways to Boost Your Wifi Signal for Free](https://lifehacker.com/the-best-ways-to-boost-your-wifi-signal-for-free-1848461552)
-- [Dev.to/JS] [I made a browser extension that teaches you the best VS Code hotkeys](https://dev.to/abergs/i-made-a-browser-extension-that-teaches-you-the-best-vs-code-hotkeys-4b9)
-- [Dev.to/JS] [Topt 5 sorting algorithms](https://dev.to/danities316/topt-5-sorting-algorithms-3ig6)
 - [Lifehacker] [Why Champagne Is Better Than Beer for Your Super Bowl Party](https://lifehacker.com/why-champagne-is-better-than-beer-for-your-super-bowl-p-1848463391)
 - [Lifehacker] [17 of the Best Time Loop Movies and TV Shows That Aren&#39;t &#39;Groundhog Day&#39;](https://lifehacker.com/17-of-the-best-time-loop-movies-and-tv-shows-that-arent-1848452661)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Go Ahead, Be a Cuck](https://lifehacker.com/go-ahead-be-a-cuck-1848439357)
 - [Lifehacker] [The First Aid Supplies Every Dog Owner Needs](https://lifehacker.com/the-first-aid-supplies-every-dog-owner-needs-1848457175)
 - [Lifehacker] [Can You Change &lpar;or Save&rpar; Your Accent?](https://lifehacker.com/can-you-change-or-save-your-accent-1848455686)
-- [Lifehacker] [11 Things to Consider Before Adopting a Pet, According to Lifehacker Readers](https://lifehacker.com/11-things-to-consider-before-adopting-a-pet-according-1848455117)
-- [Lifehacker] [How to Share Your Entire Steam Library With Your Friends](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
