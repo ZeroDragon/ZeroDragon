@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [IT company in India](https://dev.to/growbizz1/it-company-in-india-1a63)
+- [Dev.to/JS] [🤔 Load another HTML file to index.html using JavaScript make index neater 🚀](https://dev.to/sh20raj/load-another-html-file-to-indexhtml-using-javascript-make-index-neater-4b57)
+- [Dev.to/JS] [How to create a countdown timer using React Hooks](https://dev.to/atapas/how-to-create-a-countdown-timer-using-react-hooks-11m3)
 - [Dev.to/JS] [How to use the JavaScript Fetch API to Retrieve Data from an API](https://dev.to/codefoxx/how-to-use-the-javascript-fetch-api-to-retrieve-data-from-an-api-2jfo)
 - [Dev.to/JS] [SOLID: resumo de bolso para consutas rápidas](https://dev.to/bbarbosa7/solid-resumo-de-bolso-para-consutas-rapidas-2f7k)
 - [Dev.to/JS] [LetMeScroll.js - Scroll made easy!](https://dev.to/bmsvieira/letmescrolljs-5an)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WunderHub — The Package Manager for APIs &lpar;Private Beta Announcement&rpar;](https://dev.to/wundergraph/wunderhub-the-package-manager-for-apis-private-beta-announcement-h44)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
 - [Dev.to/JS] [Should I Be Concerned About Several Calls to ReactDOM.render?](https://dev.to/steveblue/should-i-be-concerned-3jhc)
-- [Dev.to/JS] [Migrating From Turbolinks To Turbo](https://dev.to/honeybadger/migrating-from-turbolinks-to-turbo-3jid)
 - [Lifehacker] [Boostcamp Puts All of Reddit&#39;s Best Free Workouts in One Slick App](https://lifehacker.com/boostcamp-puts-all-of-reddits-best-free-workouts-in-one-1848461941)
 - [Lifehacker] [10 Overbred Dogs You Should Avoid &lpar;and One That Isn’t&rpar;](https://lifehacker.com/10-overbred-dogs-you-should-avoid-and-one-that-isn-t-1848453525)
-- [Dev.to/JS] [TypeScript Cheat Sheet 📄 &lpar;32 Code Examples + Free PDF &amp; Poster&rpar;](https://dev.to/doabledanny/typescript-cheat-sheet-32-code-examples-free-pdf-poster-4b1i)
-- [Dev.to/JS] [Arrays in JavaScript](https://dev.to/abhishek_rath/arrays-in-javascript-3340)
 - [Lifehacker] [How to Tell If Your Vinyl Collection Is Actually Worth Cash](https://lifehacker.com/how-to-tell-if-your-vinyl-collection-is-actually-worth-1848460981)
 - [Lifehacker] [The Difference Between ‘Portion Size’ and ‘Serving Size’ &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-portion-size-and-serving-size-1848460388)
 - [Lifehacker] [How to Line a Tart Shell Without Poking Holes in It](https://lifehacker.com/how-to-line-a-tart-shell-without-poking-holes-in-it-1848457762)
