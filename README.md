@@ -23,19 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SopLoader :- Free Preloaders for Website or Blogger ⌛](https://dev.to/sh20raj/soploader-free-preloaders-for-website-or-blogger-23fi)
+- [Dev.to/JS] [Array Destructuring](https://dev.to/davidecannerozzi/array-destructuring-ifo)
+- [Dev.to/JS] [When I Use Valtio and When I Use Jotai](https://dev.to/dai_shi/when-i-use-valtio-and-when-i-use-jotai-225)
+- [Dev.to/JS] [Jenkins GitHub Integration | Jenkins Tutorial | Part IV](https://dev.to/lambdatest/jenkins-github-integration-jenkins-tutorial-part-iv-56e0)
 - [Dev.to/JS] [Ajax Fetch](https://dev.to/spsoi/ajax-fetch-h9b)
 - [Dev.to/JS] [Day 88 of 100 Days of Code &amp; Scrum: Terms of Use and Privacy Policy, Joining Tables in SQL, and Next.js Deployment](https://dev.to/rammina/day-88-of-100-days-of-code-scrum-terms-of-use-and-privacy-policy-joining-tables-in-sql-and-nextjs-deployment-40d9)
+- [Dev.to/JS] [Everything You Should Know About React 18](https://dev.to/syncfusion/everything-you-should-know-about-react-18-elo)
 - [Dev.to/JS] [10 Solid Ways Linux Is Better!!](https://dev.to/elliot_brenyasarfo_18749/10-solid-ways-linux-is-better-10n5)
 - [Dev.to/JS] [An Introduction to Web NFC](https://dev.to/saranshk/an-introduction-to-web-nfc-2b49)
 - [Dev.to/JS] [Temporal Dead Zone](https://dev.to/dawroun/temporal-dead-zone-4pj1)
 - [Dev.to/JS] [React Router and nested routes](https://dev.to/imkevdev/react-router-and-nested-routes-fmn)
 - [Dev.to/JS] [Embed GitHub User&#39;s All Repos on Website 🚀](https://dev.to/sh20raj/embed-github-users-all-repos-on-website-27eh)
-- [Dev.to/JS] [This Week In React #92: Remix, MDX 2, Lifetime Analysis, Story of React, Quick Start Docs, TypeScript, Node.js, Deno...](https://dev.to/sebastienlorber/this-week-in-react-92-remix-mdx-2-lifetime-analysis-story-of-react-quick-start-docs-typescript-nodejs-deno-50mj)
-- [Dev.to/JS] [GitHub Repository Card
-for html web site in svg/png format  🚀](https://dev.to/sh20raj/github-repository-cardfor-html-web-site-in-svgpng-format-21ep)
-- [Dev.to/JS] [Jak dodawać testy end-to-end do projektu](https://dev.to/poznaj-dev/jak-dodawac-testy-end-to-end-do-projektu-61b)
-- [Dev.to/JS] [The Legality of Web Scraping](https://dev.to/botmenot/the-legality-of-web-scraping-58nh)
-- [Dev.to/JS] [Build a loading with HTML, CSS, Javascript](https://dev.to/mhadi2003/build-a-loading-with-html-css-javascript-1ohc)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
