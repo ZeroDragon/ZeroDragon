@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Garage Door Needs More Lube](https://lifehacker.com/your-garage-door-needs-more-lube-1848466830)
+- [Lifehacker] [Finally, Android Users Can Turn iMessage Reactions Into Emoji](https://lifehacker.com/finally-android-users-can-turn-imessage-reactions-into-1848466504)
+- [Dev.to/JS] [next-export-i18n v1.4.0: make the user&#39;s default language optional](https://dev.to/martinkr/next-export-i18n-v140-make-the-users-default-language-optional-2m9p)
+- [Dev.to/JS] [Phase 1 Completed](https://dev.to/andy6503/phase-1-completed-322f)
 - [Lifehacker] [11 Sleep Myths You Need to Stop Believing](https://lifehacker.com/11-sleep-myths-you-need-to-stop-believing-1848463000)
 - [Dev.to/JS] [AG Grid Community Roundup January 2022](https://dev.to/ag-grid/ag-grid-community-roundup-january-2022-4n2l)
 - [Dev.to/JS] [Advanced array methods: array.forEach array.filter &amp; array.map](https://dev.to/johnpalmgren/advanced-array-methods-arrayforeach-arrayfilter-arraymap-4mh3)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [4 ways &quot;this&quot; will be created in Javascript.](https://dev.to/sunrawat/4-ways-this-will-be-created-in-javascript-1nb2)
 - [Dev.to/JS] [The progressive guide to jQuery internationalization &lpar;i18n&rpar; using i18next](https://dev.to/adrai/the-progressive-guide-to-jquery-internationalization-i18n-using-i18next-3dc3)
 - [Lifehacker] [17 of the Best Time Loop Movies and TV Shows That Aren&#39;t &#39;Groundhog Day&#39;](https://lifehacker.com/17-of-the-best-time-loop-movies-and-tv-shows-that-arent-1848452661)
-- [Dev.to/JS] [My first &quot;game&quot; created with javascript.](https://dev.to/lucapu88/my-first-game-created-with-javascript-4deb)
-- [Dev.to/JS] [Async JS Patterns using Promises](https://dev.to/sebasqui/async-js-patterns-using-promises-3e6m)
 - [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Share Your Entire Steam Library With Your Friends](https://lifehacker.com/how-to-share-your-entire-steam-library-with-your-friend-1848453402)
 - [Lifehacker] [What Are Your Partner&#39;s Grossest Habits?](https://lifehacker.com/what-are-your-partners-grossest-habits-1848454851)
 - [Lifehacker] [Make the Twisty TikTok Bacon in Your Air Fryer](https://lifehacker.com/make-the-twisty-tiktok-bacon-in-your-air-fryer-1848454977)
-- [Lifehacker] [Choose a &#39;Bulkhead&#39; Row, and Other Air Travel Tips for the Passenger of Size](https://lifehacker.com/choose-a-bulkhead-row-and-other-air-travel-tips-for-th-1848453356)
-- [Lifehacker] [How to Export Your Entire Spotify Library for Free](https://lifehacker.com/how-to-export-your-entire-spotify-library-for-free-1848452337)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
