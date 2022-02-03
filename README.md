@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to Extract Music Metadata with JavaScript using jsmediatags](https://dev.to/codefoxx/how-to-extract-music-metadata-with-javascript-using-jsmediatags-p6g)
+- [Dev.to/JS] [HTTP request works on my HTTPS website, but not using Infinity scroll](https://dev.to/eullerpeixoto/http-request-works-on-my-https-website-but-not-using-infinity-scroll-18b8)
+- [Dev.to/JS] [Javascript DOM Exercises](https://dev.to/divyapatadiyaa/javascript-dom-exercises-5h9h)
+- [Dev.to/JS] [Design Beautiful Instagram Highlights Cover - Free Logo Maker](https://dev.to/coverhighlights/design-beautiful-instagram-highlights-cover-free-logo-maker-29l2)
+- [Dev.to/JS] [Go language](https://dev.to/vermaprince123/go-language-152k)
+- [Dev.to/JS] [How to Extract Metadata from Music Files with JavaScript using jsmediatags](https://dev.to/codefoxx/how-to-extract-music-metadata-with-javascript-using-jsmediatags-p6g)
 - [Dev.to/JS] [Adding code highlighting to markdown code blocks](https://dev.to/dailydevtips1/adding-code-highlighting-to-markdown-code-blocks-54il)
 - [Dev.to/JS] [Infinite Scrolling JavaScript | Learn JavaScript](https://dev.to/dasaradhanimmala/infinite-scrolling-javascript-learn-javascript-49hn)
 - [Dev.to/JS] [How To Launch a White Label OnlyFans Clone App Easily in 2022](https://dev.to/mattyreign/how-to-launch-a-white-label-onlyfans-clone-app-easily-in-2022-1g0h)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#29 - Ones&#39; Complement CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/29-ones-complement-codewars-kata-7-kyu-3a4d)
 - [Dev.to/JS] [Setup and Build Your First Web 3.0 Application With React, Hardhat, Solidity, and Metamask](https://dev.to/suhailkakar/setup-and-build-your-first-web-30-application-with-react-hardhat-solidity-and-metamask-34jf)
 - [Dev.to/JS] [TIL – List formatting with Intl.ListFormat](https://dev.to/evanwinter/til-list-formatting-with-intllistformat-4hem)
-- [Dev.to/JS] [Simple ways to convert a string into a number](https://dev.to/codewithsnowbit/simple-ways-to-convert-a-string-into-a-number-3l25)
-- [Dev.to/JS] [Wrapping a generic sort_table javascript function in a stimulus controller](https://dev.to/salex/wrapping-a-generic-sorttable-javascript-function-in-a-stimulus-controller-17n1)
-- [Dev.to/JS] [Paracetamol.js💊| #41: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-41-explica-este-codigo-javascript-50a5)
-- [Dev.to/JS] [Case: JS Intersection Observer usage within iFrame](https://dev.to/gorenburg/case-js-intersection-observer-usage-within-iframe-40lj)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
