@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Wait for a Housing Market Crash](https://lifehacker.com/dont-wait-for-a-housing-market-crash-1848469826)
+- [Dev.to/JS] [Hoisting in JavaScript [must know concept]](https://dev.to/110syedmazhar/hoisting-in-javascript-must-know-concept-1aeg)
+- [Dev.to/JS] [🎬Make a Joke Generator | HTML, CSS &amp; javaScript🙌](https://dev.to/robsonmuniz16/make-a-joke-generator-html-css-javascript-1543)
+- [Lifehacker] [10 Ways to Make Your Super Bowl Party Vegetarian Friendly](https://lifehacker.com/10-ways-to-make-your-super-bowl-party-vegetarian-friend-1848469869)
+- [Dev.to/JS] [Get 1z0-1060-21 Online Test Engine For Immediate Learning - Dumpspass4sure.com](https://dev.to/mowiyo/get-1z0-1060-21-online-test-engine-for-immediate-learning-dumpspass4surecom-32k)
 - [Dev.to/JS] [Click to generate crazy particles - with Canvas](https://dev.to/samrithas/click-to-generate-crazy-particles-with-canvas-49po)
 - [Dev.to/JS] [What are Template Literals and why you should use them?](https://dev.to/codewithsnowbit/what-are-template-literals-and-why-you-should-use-them-3m5a)
 - [Dev.to/JS] [Top Local SEO Service- EZ Rankings](https://dev.to/rajiverana/top-local-seo-service-ez-rankings-57k7)
@@ -30,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is JSON](https://dev.to/raisan_jmr_/what-is-json-494)
 - [Dev.to/JS] [useEffect vs useLayoutEffect](https://dev.to/allangrds/useeffect-vs-uselayouteffect-1dh2)
 - [Dev.to/JS] [How to build and maintain welcoming open source communities?](https://dev.to/tooljet/how-to-build-and-maintain-welcoming-open-source-communities-1jp9)
-- [Dev.to/JS] [Leverage Google Cloud Application Practices to Operate and Innovate at Scale](https://dev.to/mavericksmith/leverage-google-cloud-application-practices-to-operate-and-innovate-at-scale-3k2o)
 - [Dev.to/JS] [10 JavaScript Naming Conventions Every Developer Should Know](https://dev.to/syncfusion/10-javascript-naming-conventions-every-developer-should-know-58mc)
 - [Dev.to/JS] [ICON Network and JavaScript: How to interact with the ICON Blockchain with JS &lpar;node.js&rpar;](https://dev.to/espanicon/icon-network-and-javascript-how-to-interact-with-the-icon-blockchain-with-js-nodejs-547c)
-- [Dev.to/JS] [Is makeup everything in this industry at reputed Delhi Escorts](https://dev.to/shwetam44996947/is-makeup-everything-in-this-industry-at-reputed-delhi-escorts-1nn9)
-- [Dev.to/JS] [Read and rename all files in a directory with Nodejs](https://dev.to/emkay860/read-and-rename-all-files-in-a-directory-with-nodejs-2dfo)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Apps and Extensions You Should Install If You Use Reddit](https://lifehacker.com/the-best-apps-and-extensions-you-should-install-if-you-1848459916)
 - [Lifehacker] [All the New Features Worth Trying in Chrome 98](https://lifehacker.com/all-the-new-features-worth-trying-in-chrome-98-1848459783)
 - [Lifehacker] [How Leftover Pasta Can Keep the &#39;Hangries&#39; Away](https://lifehacker.com/how-leftover-pasta-can-keep-the-hangries-away-1848456860)
-- [Lifehacker] [Go Ahead, Be a Cuck](https://lifehacker.com/go-ahead-be-a-cuck-1848439357)
-- [Lifehacker] [The First Aid Supplies Every Dog Owner Needs](https://lifehacker.com/the-first-aid-supplies-every-dog-owner-needs-1848457175)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
