@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is Functional Programming worth the hype?](https://dev.to/sethcalebweeks/is-functional-programming-worth-the-hype-pragmatic-javascript-series-no)
+- [Dev.to/JS] [Effective Ways to Get Remarkably Good at JavaScript](https://dev.to/santan21/effective-ways-to-get-remarkably-good-at-javascript-1f18)
+- [Dev.to/JS] [Sincronia em aplicações Javascript](https://dev.to/abelsouzacosta/sincronia-de-aplicacoes-javascript-29ci)
 - [Dev.to/JS] [Where Frontend Ends and Backend Begins](https://dev.to/mikhailkaran/where-frontend-ends-and-backend-begins-2jdh)
 - [Dev.to/JS] [Infinite Scrolling with React](https://dev.to/karamkoujan/infinite-scrolling-with-react-1kaa)
 - [Dev.to/JS] [Create Scroll sensitive navbar in ReactJs [functional component]](https://dev.to/lazylad/create-scroll-sensitive-navbar-in-reactjs-functional-component-l3i)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Series: Data Structures Study Sessions](https://dev.to/babiescatscode/new-series-data-structures-study-sessions-1dj9)
 - [Dev.to/JS] [ToDo APP](https://dev.to/dever404/todo-app-54ee)
 - [Dev.to/JS] [Blues Wireless - Just Like React, but For IoT](https://dev.to/blues/blues-wireless-just-like-react-but-for-iot-4eah)
-- [Dev.to/JS] [Decoupling the logic from the UI in React using the BLoC pattern](https://dev.to/jbaez/decoupling-the-logic-from-the-ui-in-react-using-the-bloc-pattern-41e6)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
-- [Dev.to/JS] [Dark mode for French Wordle](https://dev.to/michelc/dark-mode-for-french-wordle-1cdm)
-- [Dev.to/JS] [Flutter vs. React Native: Which is Better in 2022](https://dev.to/backendless/flutter-vs-react-native-which-is-better-in-2022-261p)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
 - [Lifehacker] [This Savory Loaf Is the Ultimate Make-Ahead Breakfast](https://lifehacker.com/this-savory-loaf-is-the-ultimate-make-ahead-breakfast-1848466964)
 - [Lifehacker] [How to Get Kids to Stop Biting Their Nails](https://lifehacker.com/how-to-get-kids-to-stop-biting-their-nails-1848467007)
