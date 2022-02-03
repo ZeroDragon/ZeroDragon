@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New SaaS Startup - Vocal.to](https://dev.to/vocal_inc/new-saas-startup-vocalto-173m)
 - [Dev.to/JS] [Is Functional Programming worth the hype?](https://dev.to/sethcalebweeks/is-functional-programming-worth-the-hype-pragmatic-javascript-series-no)
 - [Dev.to/JS] [Effective Ways to Get Remarkably Good at JavaScript](https://dev.to/santan21/effective-ways-to-get-remarkably-good-at-javascript-1f18)
 - [Dev.to/JS] [Sincronia em aplicações Javascript](https://dev.to/abelsouzacosta/sincronia-de-aplicacoes-javascript-29ci)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Structures Study Session: Arrays](https://dev.to/babiescatscode/data-structure-study-session-arrays-2e1a)
 - [Dev.to/JS] [New Series: Data Structures Study Sessions](https://dev.to/babiescatscode/new-series-data-structures-study-sessions-1dj9)
 - [Dev.to/JS] [ToDo APP](https://dev.to/dever404/todo-app-54ee)
-- [Dev.to/JS] [Blues Wireless - Just Like React, but For IoT](https://dev.to/blues/blues-wireless-just-like-react-but-for-iot-4eah)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
 - [Lifehacker] [This Savory Loaf Is the Ultimate Make-Ahead Breakfast](https://lifehacker.com/this-savory-loaf-is-the-ultimate-make-ahead-breakfast-1848466964)
