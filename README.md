@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Databases for Next.js](https://dev.to/enesakar/best-databases-for-nextjs-3e42)
+- [Dev.to/JS] [Vue: Creating a response Vue.JS websocket server](https://dev.to/smpnjn/vue-creating-a-response-vuejs-websocket-server-f79)
+- [Dev.to/JS] [How to fix the Error in data&lpar;&rpar;: &quot;TypeError: Cannot read properties of null &lpar;reading &#39;config&#39;&rpar;&quot;, Vue2 composition API warning](https://dev.to/tnorthern/how-to-fix-the-error-in-data-typeerror-cannot-read-properties-of-null-reading-config-vue2-composition-api-warning-1ljf)
+- [Dev.to/JS] [How to call method on browser resize in react](https://dev.to/readymadecode/how-to-call-method-on-browser-resize-in-react-419b)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Dev.to/JS] [Taking a Look at `startTransition` in React 18](https://dev.to/kathryngrayson/taking-a-look-at-starttransition-in-react-18-2g7i)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
@@ -36,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conditional React props with TypeScript](https://dev.to/maissenayed/conditional-react-props-with-typescript-43lg)
 - [Dev.to/JS] [Understanding React Components](https://dev.to/danrez_/understanding-react-components-jd1)
 - [Lifehacker] [The Best Drinking Games to Play During Super Bowl LVI](https://lifehacker.com/the-best-drinking-games-to-play-during-super-bowl-lvi-1848475530)
-- [Dev.to/JS] [How to use ThreeJS in React &amp; NextJS](https://dev.to/hnicolus/how-to-use-threejs-in-react-nextjs-4120)
-- [Dev.to/JS] [MarqueeWall](https://dev.to/benny00100/marqueewall-2e1l)
 - [Lifehacker] [How to Score Super Bowl Tickets, If You Absolutely Must](https://lifehacker.com/how-to-score-super-bowl-tickets-if-you-absolutely-must-1848474218)
-- [Dev.to/JS] [Devlog - Zero to First Trailer](https://dev.to/dsmorais/devlog-zero-to-first-trailer-41ch)
-- [Dev.to/JS] [Best JavaScript Projects You Can Build to Perfect Your Coding Skills &lpar;2022&rpar;](https://dev.to/marcos999/best-javascript-projects-you-can-build-to-perfect-your-coding-skills-2022-4c2)
 - [Lifehacker] [15 Clever Ways You Should Be Using Coffee Grounds Around the House](https://lifehacker.com/15-clever-ways-you-should-be-using-coffee-grounds-aroun-1848467988)
 - [Lifehacker] [You Should Download Wordle Now to Play It Free for Years](https://lifehacker.com/you-should-download-wordle-now-to-play-it-free-for-year-1848473800)
 - [Lifehacker] [How Cold Is Too Cold for a Dog?](https://lifehacker.com/how-cold-is-too-cold-for-a-dog-1848474033)
