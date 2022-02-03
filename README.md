@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MarqueeWall](https://dev.to/benny00100/marqueewall-2e1l)
+- [Lifehacker] [How to Score Super Bowl Tickets, If You Absolutely Must](https://lifehacker.com/how-to-score-super-bowl-tickets-if-you-absolutely-must-1848474218)
+- [Dev.to/JS] [Devlog - Zero to First Trailer](https://dev.to/dsmorais/devlog-zero-to-first-trailer-41ch)
+- [Dev.to/JS] [Best JavaScript Projects You Can Build to Perfect Your Coding Skills &lpar;2022&rpar;](https://dev.to/marcos999/best-javascript-projects-you-can-build-to-perfect-your-coding-skills-2022-4c2)
 - [Dev.to/JS] [Is there any way in Android to force open a link to open in Chrome?](https://dev.to/explorerweb/is-there-any-way-in-android-to-force-open-a-link-to-open-in-chrome-75d)
 - [Lifehacker] [15 Clever Ways You Should Be Using Coffee Grounds Around the House](https://lifehacker.com/15-clever-ways-you-should-be-using-coffee-grounds-aroun-1848467988)
 - [Lifehacker] [You Should Download Wordle Now to Play It Free for Years](https://lifehacker.com/you-should-download-wordle-now-to-play-it-free-for-year-1848473800)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rainplayer - Custom HTML5 Video Player with Title by SopPlayer ▶️](https://dev.to/sh20raj/rainplayer-custom-html5-video-player-with-title-by-sopplayer--5g9d)
 - [Dev.to/JS] [Started a gurney through react native.](https://dev.to/anasmk0313/started-a-gurney-through-react-native-1oi1)
 - [Lifehacker] [The Ultimate Guide to Choosing the Best Webcam](https://lifehacker.com/the-ultimate-guide-to-choosing-the-best-webcam-1848472933)
-- [Dev.to/JS] [Paracetamol.js💊| #42: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-42-explica-este-codigo-javascript-101e)
-- [Dev.to/JS] [[Javascript] Function](https://dev.to/joylee/javascript-function-2h72)
-- [Dev.to/JS] [How to build a carousel image slider with swiper.js](https://dev.to/thatanjan/how-to-build-a-carousel-image-slider-with-swiperjs-2jb9)
 - [Lifehacker] [Don&#39;t Wait for a Housing Market Crash](https://lifehacker.com/dont-wait-for-a-housing-market-crash-1848469826)
 - [Lifehacker] [10 Ways to Make Your Super Bowl Party Vegetarian Friendly](https://lifehacker.com/10-ways-to-make-your-super-bowl-party-vegetarian-friend-1848469869)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
 - [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
 - [Lifehacker] [Boostcamp Puts All of Reddit&#39;s Best Free Workouts in One Slick App](https://lifehacker.com/boostcamp-puts-all-of-reddits-best-free-workouts-in-one-1848461941)
-- [Lifehacker] [10 Overbred Dogs You Should Avoid &lpar;and One That Isn’t&rpar;](https://lifehacker.com/10-overbred-dogs-you-should-avoid-and-one-that-isn-t-1848453525)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
