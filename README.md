@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #42: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-42-explica-este-codigo-javascript-101e)
+- [Dev.to/JS] [[Javascript] Function](https://dev.to/joylee/javascript-function-2h72)
+- [Dev.to/JS] [How to build a carousel image slider with swiper.js](https://dev.to/thatanjan/how-to-build-a-carousel-image-slider-with-swiperjs-2jb9)
+- [Dev.to/JS] [Creating Jenkins Job For Maven Project | Jenkins Tutorial | Part V](https://dev.to/lambdatest/creating-jenkins-job-for-maven-project-jenkins-tutorial-part-v-54a8)
 - [Lifehacker] [Don&#39;t Wait for a Housing Market Crash](https://lifehacker.com/dont-wait-for-a-housing-market-crash-1848469826)
 - [Dev.to/JS] [Hoisting in JavaScript [must know concept]](https://dev.to/110syedmazhar/hoisting-in-javascript-must-know-concept-1aeg)
 - [Dev.to/JS] [🎬Make a Joke Generator | HTML, CSS &amp; javaScript🙌](https://dev.to/robsonmuniz16/make-a-joke-generator-html-css-javascript-1543)
@@ -30,13 +34,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get 1z0-1060-21 Online Test Engine For Immediate Learning - Dumpspass4sure.com](https://dev.to/mowiyo/get-1z0-1060-21-online-test-engine-for-immediate-learning-dumpspass4surecom-32k)
 - [Dev.to/JS] [Click to generate crazy particles - with Canvas](https://dev.to/samrithas/click-to-generate-crazy-particles-with-canvas-49po)
 - [Dev.to/JS] [What are Template Literals and why you should use them?](https://dev.to/codewithsnowbit/what-are-template-literals-and-why-you-should-use-them-3m5a)
-- [Dev.to/JS] [Top Local SEO Service- EZ Rankings](https://dev.to/rajiverana/top-local-seo-service-ez-rankings-57k7)
 - [Dev.to/JS] [Fine-grained fan-out and replication of Kafka event firehose between clusters](https://dev.to/push_technology/fine-grained-fan-out-and-replication-of-kafka-event-firehose-between-clusters-1eab)
 - [Dev.to/JS] [What is JSON](https://dev.to/raisan_jmr_/what-is-json-494)
 - [Dev.to/JS] [useEffect vs useLayoutEffect](https://dev.to/allangrds/useeffect-vs-uselayouteffect-1dh2)
-- [Dev.to/JS] [How to build and maintain welcoming open source communities?](https://dev.to/tooljet/how-to-build-and-maintain-welcoming-open-source-communities-1jp9)
-- [Dev.to/JS] [10 JavaScript Naming Conventions Every Developer Should Know](https://dev.to/syncfusion/10-javascript-naming-conventions-every-developer-should-know-58mc)
-- [Dev.to/JS] [ICON Network and JavaScript: How to interact with the ICON Blockchain with JS &lpar;node.js&rpar;](https://dev.to/espanicon/icon-network-and-javascript-how-to-interact-with-the-icon-blockchain-with-js-nodejs-547c)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
