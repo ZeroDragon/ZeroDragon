@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Extract Music Metadata with JavaScript using jsmediatags](https://dev.to/codefoxx/how-to-extract-music-metadata-with-javascript-using-jsmediatags-p6g)
+- [Dev.to/JS] [Adding code highlighting to markdown code blocks](https://dev.to/dailydevtips1/adding-code-highlighting-to-markdown-code-blocks-54il)
+- [Dev.to/JS] [Infinite Scrolling JavaScript | Learn JavaScript](https://dev.to/dasaradhanimmala/infinite-scrolling-javascript-learn-javascript-49hn)
 - [Dev.to/JS] [How To Launch a White Label OnlyFans Clone App Easily in 2022](https://dev.to/mattyreign/how-to-launch-a-white-label-onlyfans-clone-app-easily-in-2022-1g0h)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 27](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-27-307a)
 - [Dev.to/JS] [#29 - Ones&#39; Complement CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/29-ones-complement-codewars-kata-7-kyu-3a4d)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wrapping a generic sort_table javascript function in a stimulus controller](https://dev.to/salex/wrapping-a-generic-sorttable-javascript-function-in-a-stimulus-controller-17n1)
 - [Dev.to/JS] [Paracetamol.js💊| #41: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-41-explica-este-codigo-javascript-50a5)
 - [Dev.to/JS] [Case: JS Intersection Observer usage within iFrame](https://dev.to/gorenburg/case-js-intersection-observer-usage-within-iframe-40lj)
-- [Dev.to/JS] [Simple examples of NodeJS servers: Express, Koa and Hapi | Discussion.](https://dev.to/luizcalaca/simple-examples-of-nodejs-servers-express-koa-and-hapi-discussion-52kp)
-- [Dev.to/JS] [New SaaS Startup - Vocal.to](https://dev.to/vocal_inc/new-saas-startup-vocalto-173m)
-- [Dev.to/JS] [Is Functional Programming worth the hype?](https://dev.to/sethcalebweeks/is-functional-programming-worth-the-hype-pragmatic-javascript-series-no)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
