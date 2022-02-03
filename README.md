@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #41: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-41-explica-este-codigo-javascript-50a5)
+- [Dev.to/JS] [Case: JS Intersection Observer usage within iFrame](https://dev.to/gorenburg/case-js-intersection-observer-usage-within-iframe-40lj)
+- [Dev.to/JS] [Simple examples of NodeJS servers: Express, Koa and Hapi | Discussion.](https://dev.to/luizcalaca/simple-examples-of-nodejs-servers-express-koa-and-hapi-discussion-52kp)
 - [Dev.to/JS] [New SaaS Startup - Vocal.to](https://dev.to/vocal_inc/new-saas-startup-vocalto-173m)
 - [Dev.to/JS] [Is Functional Programming worth the hype?](https://dev.to/sethcalebweeks/is-functional-programming-worth-the-hype-pragmatic-javascript-series-no)
 - [Dev.to/JS] [Effective Ways to Get Remarkably Good at JavaScript](https://dev.to/santan21/effective-ways-to-get-remarkably-good-at-javascript-1f18)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My New Spacecraft Browser Game with Vanilla JS](https://dev.to/danialdezfouli/my-new-spacecraft-browser-game-with-vanilla-js-2ilg)
 - [Dev.to/JS] [3 ways to add timeouts in your npm scripts](https://dev.to/bennycode/3-ways-to-add-timeouts-in-your-npm-scripts-1pg5)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
-- [Dev.to/JS] [Data Structures Study Session: Arrays](https://dev.to/babiescatscode/data-structure-study-session-arrays-2e1a)
-- [Dev.to/JS] [New Series: Data Structures Study Sessions](https://dev.to/babiescatscode/new-series-data-structures-study-sessions-1dj9)
-- [Dev.to/JS] [ToDo APP](https://dev.to/dever404/todo-app-54ee)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
 - [Lifehacker] [This Savory Loaf Is the Ultimate Make-Ahead Breakfast](https://lifehacker.com/this-savory-loaf-is-the-ultimate-make-ahead-breakfast-1848466964)
