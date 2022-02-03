@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dockerize your MERN + Flask app](https://dev.to/saurabh619/dockerize-your-mern-flask-app-4flj)
+- [Dev.to/JS] [Video streaming website](https://dev.to/ashishkumarkhatri/video-streaming-website-4o81)
+- [Dev.to/JS] [Create dynamic dependant dropdowns with Javascript in Rails 6.1.4](https://dev.to/marelons1337/create-dynamic-dependant-dropdowns-with-javascript-in-rails-614-4k8j)
 - [Dev.to/JS] [What are APIs? Simplified](https://dev.to/itz_salemm/what-are-apis-simplified-4m12)
 - [Dev.to/JS] [TypeScript static validation](https://dev.to/captainyossarian/typescript-static-validation-4oln)
 - [Dev.to/JS] [get started with vue.](https://dev.to/yiyasha15/get-started-with-vue-3pn2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTTP request works on my HTTPS website, but not using Infinity scroll](https://dev.to/eullerpeixoto/http-request-works-on-my-https-website-but-not-using-infinity-scroll-18b8)
 - [Dev.to/JS] [Javascript DOM Exercises](https://dev.to/divyapatadiyaa/javascript-dom-exercises-5h9h)
 - [Dev.to/JS] [Design Beautiful Instagram Highlights Cover - Free Logo Maker](https://dev.to/coverhighlights/design-beautiful-instagram-highlights-cover-free-logo-maker-29l2)
-- [Dev.to/JS] [Go language](https://dev.to/vermaprince123/go-language-152k)
-- [Dev.to/JS] [How to Extract Metadata from Music Files with JavaScript using jsmediatags](https://dev.to/codefoxx/how-to-extract-music-metadata-with-javascript-using-jsmediatags-p6g)
-- [Dev.to/JS] [Adding code highlighting to markdown code blocks](https://dev.to/dailydevtips1/adding-code-highlighting-to-markdown-code-blocks-54il)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
