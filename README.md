@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Dev.to/JS] [Taking a Look at `startTransition` in React 18](https://dev.to/kathryngrayson/taking-a-look-at-starttransition-in-react-18-2g7i)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [6 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Finally Link Your PlayStation and Discord Accounts](https://lifehacker.com/how-to-finally-link-your-playstation-and-discord-accoun-1848465431)
 - [Lifehacker] [The Best Ways to Boost Your Wifi Signal for Free](https://lifehacker.com/the-best-ways-to-boost-your-wifi-signal-for-free-1848461552)
 - [Lifehacker] [Why Champagne Is Better Than Beer for Your Super Bowl Party](https://lifehacker.com/why-champagne-is-better-than-beer-for-your-super-bowl-p-1848463391)
-- [Lifehacker] [17 of the Best Time Loop Movies and TV Shows That Aren&#39;t &#39;Groundhog Day&#39;](https://lifehacker.com/17-of-the-best-time-loop-movies-and-tv-shows-that-arent-1848452661)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
