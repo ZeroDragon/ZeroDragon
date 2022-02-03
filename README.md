@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which JS framework/library do you prefer using?](https://dev.to/ajshivali/which-js-frameworklibrary-do-you-prefer-using-2579)
+- [Dev.to/JS] [Responsive NavBar using Tailwind-css and React](https://dev.to/kumard3/responsive-navbar-using-tailwind-css-and-react-enc)
+- [Dev.to/JS] [how to Cook 👩‍🍳React with Spoonacular API &amp; how to hack 🐱‍💻 API](https://dev.to/jacksonkasi/cook-react-with-spoonacular-api-how-to-hack-api-5cj7)
 - [Dev.to/JS] [Dockerize your MERN + Flask app](https://dev.to/saurabh619/dockerize-your-mern-flask-app-4flj)
 - [Dev.to/JS] [Video streaming website](https://dev.to/ashishkumarkhatri/video-streaming-website-4o81)
 - [Dev.to/JS] [Create dynamic dependant dropdowns with Javascript in Rails 6.1.4](https://dev.to/marelons1337/create-dynamic-dependant-dropdowns-with-javascript-in-rails-614-4k8j)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guards using invariant in JS](https://dev.to/fromaline/guards-using-invariant-in-js-24kk)
 - [Dev.to/JS] [I created a GitHub Clone Using JavaScript - WebScrapperJS 😮](https://dev.to/sh20raj/i-created-a-github-clone-using-javascript-webscrapperjs-3pn0)
 - [Dev.to/JS] [The idea of Adding a Dictionary to Wordgames like Wordle is hereby licensed GNU GPL 3.0](https://dev.to/dannyengelman/the-idea-of-adding-a-dictionary-to-wordgames-like-wordle-is-hereby-licensed-gnu-gpl-30-9p5)
-- [Dev.to/JS] [HTTP request works on my HTTPS website, but not using Infinity scroll](https://dev.to/eullerpeixoto/http-request-works-on-my-https-website-but-not-using-infinity-scroll-18b8)
-- [Dev.to/JS] [Javascript DOM Exercises](https://dev.to/divyapatadiyaa/javascript-dom-exercises-5h9h)
-- [Dev.to/JS] [Design Beautiful Instagram Highlights Cover - Free Logo Maker](https://dev.to/coverhighlights/design-beautiful-instagram-highlights-cover-free-logo-maker-29l2)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
