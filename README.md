@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leverage Google Cloud Application Practices to Operate and Innovate at Scale](https://dev.to/mavericksmith/leverage-google-cloud-application-practices-to-operate-and-innovate-at-scale-3k2o)
+- [Dev.to/JS] [ICON Network and JavaScript: How to interact with the ICON Blockchain with JS &lpar;node.js&rpar;](https://dev.to/espanicon/icon-network-and-javascript-how-to-interact-with-the-icon-blockchain-with-js-nodejs-547c)
+- [Dev.to/JS] [Is makeup everything in this industry at reputed Delhi Escorts](https://dev.to/shwetam44996947/is-makeup-everything-in-this-industry-at-reputed-delhi-escorts-1nn9)
+- [Dev.to/JS] [Read and rename all files in a directory with Nodejs](https://dev.to/emkay860/read-and-rename-all-files-in-a-directory-with-nodejs-2dfo)
+- [Dev.to/JS] [The Top 8 Social Media Data Charts and Live Charts You Need to Know](https://dev.to/ideradevtools/the-top-8-social-media-data-charts-and-live-charts-you-need-to-know-flp)
 - [Dev.to/JS] [Which JS framework/library do you prefer using?](https://dev.to/ajshivali/which-js-frameworklibrary-do-you-prefer-using-2579)
 - [Dev.to/JS] [Responsive NavBar using Tailwind-css and React](https://dev.to/kumard3/responsive-navbar-using-tailwind-css-and-react-enc)
 - [Dev.to/JS] [how to Cook 👩‍🍳React with Spoonacular API &amp; how to hack 🐱‍💻 API](https://dev.to/jacksonkasi/cook-react-with-spoonacular-api-how-to-hack-api-5cj7)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Video streaming website](https://dev.to/ashishkumarkhatri/video-streaming-website-4o81)
 - [Dev.to/JS] [Create dynamic dependant dropdowns with Javascript in Rails 6.1.4](https://dev.to/marelons1337/create-dynamic-dependant-dropdowns-with-javascript-in-rails-614-4k8j)
 - [Dev.to/JS] [What are APIs? Simplified](https://dev.to/itz_salemm/what-are-apis-simplified-4m12)
-- [Dev.to/JS] [TypeScript static validation](https://dev.to/captainyossarian/typescript-static-validation-4oln)
-- [Dev.to/JS] [get started with vue.](https://dev.to/yiyasha15/get-started-with-vue-3pn2)
-- [Dev.to/JS] [Guards using invariant in JS](https://dev.to/fromaline/guards-using-invariant-in-js-24kk)
-- [Dev.to/JS] [I created a GitHub Clone Using JavaScript - WebScrapperJS 😮](https://dev.to/sh20raj/i-created-a-github-clone-using-javascript-webscrapperjs-3pn0)
-- [Dev.to/JS] [The idea of Adding a Dictionary to Wordgames like Wordle is hereby licensed GNU GPL 3.0](https://dev.to/dannyengelman/the-idea-of-adding-a-dictionary-to-wordgames-like-wordle-is-hereby-licensed-gnu-gpl-30-9p5)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
