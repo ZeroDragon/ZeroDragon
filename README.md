@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [कीटो डाइट ट्राई कर रहे हैं? शुरू करने के लिए यहां एक किराने की सूची दी गई ह](https://dev.to/nikki1840/kiitto-ddaaitt-ttraaii-kr-rhe-hain-shuruu-krne-ke-lie-yhaan-ek-kiraane-kii-suucii-dii-gii-h-2b7b)
+- [Dev.to/JS] [What is JavaScript Strict Mode?](https://dev.to/johnpalmgren/what-is-javascript-strict-mode-5g30)
+- [Dev.to/JS] [Firebase Function to populate Algolia](https://dev.to/gutsav/firebase-function-to-populate-algolia-47g7)
+- [Dev.to/JS] [I have mede a tool easily convert your SVG file deal with dark mode.](https://dev.to/kurokky/i-have-mede-a-tool-easily-convert-your-svg-file-deal-with-dark-mode-3jm4)
+- [Dev.to/JS] [Rainplayer - Custom HTML5 Video Player with Title by SopPlayer ▶️](https://dev.to/sh20raj/rainplayer-custom-html5-video-player-with-title-by-sopplayer--5g9d)
+- [Dev.to/JS] [Started a gurney through react native.](https://dev.to/anasmk0313/started-a-gurney-through-react-native-1oi1)
+- [Lifehacker] [The Ultimate Guide to Choosing the Best Webcam](https://lifehacker.com/the-ultimate-guide-to-choosing-the-best-webcam-1848472933)
 - [Dev.to/JS] [Paracetamol.js💊| #42: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-42-explica-este-codigo-javascript-101e)
 - [Dev.to/JS] [[Javascript] Function](https://dev.to/joylee/javascript-function-2h72)
 - [Dev.to/JS] [How to build a carousel image slider with swiper.js](https://dev.to/thatanjan/how-to-build-a-carousel-image-slider-with-swiperjs-2jb9)
@@ -31,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hoisting in JavaScript [must know concept]](https://dev.to/110syedmazhar/hoisting-in-javascript-must-know-concept-1aeg)
 - [Dev.to/JS] [🎬Make a Joke Generator | HTML, CSS &amp; javaScript🙌](https://dev.to/robsonmuniz16/make-a-joke-generator-html-css-javascript-1543)
 - [Lifehacker] [10 Ways to Make Your Super Bowl Party Vegetarian Friendly](https://lifehacker.com/10-ways-to-make-your-super-bowl-party-vegetarian-friend-1848469869)
-- [Dev.to/JS] [Get 1z0-1060-21 Online Test Engine For Immediate Learning - Dumpspass4sure.com](https://dev.to/mowiyo/get-1z0-1060-21-online-test-engine-for-immediate-learning-dumpspass4surecom-32k)
-- [Dev.to/JS] [Click to generate crazy particles - with Canvas](https://dev.to/samrithas/click-to-generate-crazy-particles-with-canvas-49po)
-- [Dev.to/JS] [What are Template Literals and why you should use them?](https://dev.to/codewithsnowbit/what-are-template-literals-and-why-you-should-use-them-3m5a)
-- [Dev.to/JS] [Fine-grained fan-out and replication of Kafka event firehose between clusters](https://dev.to/push_technology/fine-grained-fan-out-and-replication-of-kafka-event-firehose-between-clusters-1eab)
-- [Dev.to/JS] [What is JSON](https://dev.to/raisan_jmr_/what-is-json-494)
-- [Dev.to/JS] [useEffect vs useLayoutEffect](https://dev.to/allangrds/useeffect-vs-uselayouteffect-1dh2)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Line a Tart Shell Without Poking Holes in It](https://lifehacker.com/how-to-line-a-tart-shell-without-poking-holes-in-it-1848457762)
 - [Lifehacker] [The Best Apps and Extensions You Should Install If You Use Reddit](https://lifehacker.com/the-best-apps-and-extensions-you-should-install-if-you-1848459916)
 - [Lifehacker] [All the New Features Worth Trying in Chrome 98](https://lifehacker.com/all-the-new-features-worth-trying-in-chrome-98-1848459783)
-- [Lifehacker] [How Leftover Pasta Can Keep the &#39;Hangries&#39; Away](https://lifehacker.com/how-leftover-pasta-can-keep-the-hangries-away-1848456860)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
