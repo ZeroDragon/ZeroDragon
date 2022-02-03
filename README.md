@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Taking a Look at `startTransition` in React 18](https://dev.to/kathryngrayson/taking-a-look-at-starttransition-in-react-18-2g7i)
+- [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
+- [Lifehacker] [6 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
+- [Dev.to/JS] [Paracetamol.js💊| #43: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-43-explica-este-codigo-javascript-3eg)
+- [Dev.to/JS] [Typescript Generics explained in 2 minutes](https://dev.to/nickycdk/typescript-generics-explained-in-2-minutes-24ib)
+- [Dev.to/JS] [LeetCode - Triangle](https://dev.to/_alkesh26/leetcode-triangle-2i3g)
+- [Lifehacker] [Make a Cute Little Salami Rose With a Wine Glass](https://lifehacker.com/make-a-cute-little-salami-rose-with-a-wine-glass-1848476339)
 - [Dev.to/JS] [JSX without importing React](https://dev.to/fromaline/jsx-without-importing-react-28dj)
 - [Dev.to/JS] [How to write functions in TypeScript](https://dev.to/aneeqakhan/how-to-write-functions-in-typescript-4jkg)
 - [Dev.to/JS] [Conditional React props with TypeScript](https://dev.to/maissenayed/conditional-react-props-with-typescript-43lg)
@@ -33,14 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Score Super Bowl Tickets, If You Absolutely Must](https://lifehacker.com/how-to-score-super-bowl-tickets-if-you-absolutely-must-1848474218)
 - [Dev.to/JS] [Devlog - Zero to First Trailer](https://dev.to/dsmorais/devlog-zero-to-first-trailer-41ch)
 - [Dev.to/JS] [Best JavaScript Projects You Can Build to Perfect Your Coding Skills &lpar;2022&rpar;](https://dev.to/marcos999/best-javascript-projects-you-can-build-to-perfect-your-coding-skills-2022-4c2)
-- [Dev.to/JS] [Is there any way in Android to force open a link to open in Chrome?](https://dev.to/explorerweb/is-there-any-way-in-android-to-force-open-a-link-to-open-in-chrome-75d)
 - [Lifehacker] [15 Clever Ways You Should Be Using Coffee Grounds Around the House](https://lifehacker.com/15-clever-ways-you-should-be-using-coffee-grounds-aroun-1848467988)
 - [Lifehacker] [You Should Download Wordle Now to Play It Free for Years](https://lifehacker.com/you-should-download-wordle-now-to-play-it-free-for-year-1848473800)
 - [Lifehacker] [How Cold Is Too Cold for a Dog?](https://lifehacker.com/how-cold-is-too-cold-for-a-dog-1848474033)
-- [Dev.to/JS] [How to split up CPU-intensive work with async generators](https://dev.to/alekseiberezkin/how-to-split-up-cpu-intensive-work-with-async-generators-1fhb)
-- [Dev.to/JS] [Make beautiful traffic-attracting websites w/ ‘WordPress Bible’.](https://dev.to/shahmee61182707/make-beautiful-traffic-attracting-websites-w-wordpress-bible-2bkb)
 - [Lifehacker] [What Is Biohacking, and Is Any of It Not Stupid?](https://lifehacker.com/what-is-biohacking-and-is-any-of-it-not-stupid-1848469897)
-- [Dev.to/JS] [कीटो डाइट ट्राई कर रहे हैं? शुरू करने के लिए यहां एक किराने की सूची दी गई ह](https://dev.to/nikki1840/kiitto-ddaaitt-ttraaii-kr-rhe-hain-shuruu-krne-ke-lie-yhaan-ek-kiraane-kii-suucii-dii-gii-h-2b7b)
 - [Lifehacker] [Avoid Saying These Annoying Clichés at a Super Bowl Party](https://lifehacker.com/avoid-saying-these-annoying-cliches-at-a-super-bowl-par-1848473993)
 - [Lifehacker] [The Ultimate Guide to Choosing the Best Webcam](https://lifehacker.com/the-ultimate-guide-to-choosing-the-best-webcam-1848472933)
 - [Lifehacker] [Don&#39;t Wait for a Housing Market Crash](https://lifehacker.com/dont-wait-for-a-housing-market-crash-1848469826)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Boost Your Wifi Signal for Free](https://lifehacker.com/the-best-ways-to-boost-your-wifi-signal-for-free-1848461552)
 - [Lifehacker] [Why Champagne Is Better Than Beer for Your Super Bowl Party](https://lifehacker.com/why-champagne-is-better-than-beer-for-your-super-bowl-p-1848463391)
 - [Lifehacker] [17 of the Best Time Loop Movies and TV Shows That Aren&#39;t &#39;Groundhog Day&#39;](https://lifehacker.com/17-of-the-best-time-loop-movies-and-tv-shows-that-arent-1848452661)
-- [Lifehacker] [How to Turn Old Soap Slivers Into &#39;New&#39; Bars of Soap](https://lifehacker.com/how-to-turn-old-soap-slivers-into-new-bars-of-soap-1848461827)
-- [Lifehacker] [How &#39;Negative Visualization&#39; Can Make You More Positive](https://lifehacker.com/how-negative-visualization-can-make-you-more-positive-1848462733)
-- [Lifehacker] [Never Cook These Things in Your Air Fryer](https://lifehacker.com/never-cook-these-things-in-your-air-fryer-1848462042)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
