@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Cold Is Too Cold for a Dog?](https://lifehacker.com/how-cold-is-too-cold-for-a-dog-1848474033)
+- [Dev.to/JS] [How to split up CPU-intensive work with async generators](https://dev.to/alekseiberezkin/how-to-split-up-cpu-intensive-work-with-async-generators-1fhb)
+- [Dev.to/JS] [Make beautiful traffic-attracting websites w/ ‘WordPress Bible’.](https://dev.to/shahmee61182707/make-beautiful-traffic-attracting-websites-w-wordpress-bible-2bkb)
+- [Lifehacker] [What Is Biohacking, and Is Any of It Not Stupid?](https://lifehacker.com/what-is-biohacking-and-is-any-of-it-not-stupid-1848469897)
 - [Dev.to/JS] [कीटो डाइट ट्राई कर रहे हैं? शुरू करने के लिए यहां एक किराने की सूची दी गई ह](https://dev.to/nikki1840/kiitto-ddaaitt-ttraaii-kr-rhe-hain-shuruu-krne-ke-lie-yhaan-ek-kiraane-kii-suucii-dii-gii-h-2b7b)
+- [Lifehacker] [Avoid Saying These Annoying Clichés at a Super Bowl Party](https://lifehacker.com/avoid-saying-these-annoying-cliches-at-a-super-bowl-par-1848473993)
 - [Dev.to/JS] [What is JavaScript Strict Mode?](https://dev.to/johnpalmgren/what-is-javascript-strict-mode-5g30)
 - [Dev.to/JS] [Firebase Function to populate Algolia](https://dev.to/gutsav/firebase-function-to-populate-algolia-47g7)
 - [Dev.to/JS] [I have mede a tool easily convert your SVG file deal with dark mode.](https://dev.to/kurokky/i-have-mede-a-tool-easily-convert-your-svg-file-deal-with-dark-mode-3jm4)
@@ -35,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build a carousel image slider with swiper.js](https://dev.to/thatanjan/how-to-build-a-carousel-image-slider-with-swiperjs-2jb9)
 - [Dev.to/JS] [Creating Jenkins Job For Maven Project | Jenkins Tutorial | Part V](https://dev.to/lambdatest/creating-jenkins-job-for-maven-project-jenkins-tutorial-part-v-54a8)
 - [Lifehacker] [Don&#39;t Wait for a Housing Market Crash](https://lifehacker.com/dont-wait-for-a-housing-market-crash-1848469826)
-- [Dev.to/JS] [Hoisting in JavaScript [must know concept]](https://dev.to/110syedmazhar/hoisting-in-javascript-must-know-concept-1aeg)
-- [Dev.to/JS] [🎬Make a Joke Generator | HTML, CSS &amp; javaScript🙌](https://dev.to/robsonmuniz16/make-a-joke-generator-html-css-javascript-1543)
 - [Lifehacker] [10 Ways to Make Your Super Bowl Party Vegetarian Friendly](https://lifehacker.com/10-ways-to-make-your-super-bowl-party-vegetarian-friend-1848469869)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Overbred Dogs You Should Avoid &lpar;and One That Isn’t&rpar;](https://lifehacker.com/10-overbred-dogs-you-should-avoid-and-one-that-isn-t-1848453525)
 - [Lifehacker] [How to Tell If Your Vinyl Collection Is Actually Worth Cash](https://lifehacker.com/how-to-tell-if-your-vinyl-collection-is-actually-worth-1848460981)
 - [Lifehacker] [The Difference Between ‘Portion Size’ and ‘Serving Size’ &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-portion-size-and-serving-size-1848460388)
-- [Lifehacker] [How to Line a Tart Shell Without Poking Holes in It](https://lifehacker.com/how-to-line-a-tart-shell-without-poking-holes-in-it-1848457762)
-- [Lifehacker] [The Best Apps and Extensions You Should Install If You Use Reddit](https://lifehacker.com/the-best-apps-and-extensions-you-should-install-if-you-1848459916)
-- [Lifehacker] [All the New Features Worth Trying in Chrome 98](https://lifehacker.com/all-the-new-features-worth-trying-in-chrome-98-1848459783)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
