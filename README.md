@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#29 - Ones&#39; Complement CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/29-ones-complement-codewars-kata-7-kyu-3a4d)
+- [Dev.to/JS] [Setup and Build Your First Web 3.0 Application With React, Hardhat, Solidity, and Metamask](https://dev.to/suhailkakar/setup-and-build-your-first-web-30-application-with-react-hardhat-solidity-and-metamask-34jf)
+- [Dev.to/JS] [TIL – List formatting with Intl.ListFormat](https://dev.to/evanwinter/til-list-formatting-with-intllistformat-4hem)
 - [Dev.to/JS] [Simple ways to convert a string into a number](https://dev.to/codewithsnowbit/simple-ways-to-convert-a-string-into-a-number-3l25)
 - [Dev.to/JS] [Wrapping a generic sort_table javascript function in a stimulus controller](https://dev.to/salex/wrapping-a-generic-sorttable-javascript-function-in-a-stimulus-controller-17n1)
 - [Dev.to/JS] [Paracetamol.js💊| #41: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-41-explica-este-codigo-javascript-50a5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is Functional Programming worth the hype?](https://dev.to/sethcalebweeks/is-functional-programming-worth-the-hype-pragmatic-javascript-series-no)
 - [Dev.to/JS] [Effective Ways to Get Remarkably Good at JavaScript](https://dev.to/santan21/effective-ways-to-get-remarkably-good-at-javascript-1f18)
 - [Dev.to/JS] [Sincronia em aplicações Javascript](https://dev.to/abelsouzacosta/sincronia-de-aplicacoes-javascript-29ci)
-- [Dev.to/JS] [Where Frontend Ends and Backend Begins](https://dev.to/mikhailkaran/where-frontend-ends-and-backend-begins-2jdh)
-- [Dev.to/JS] [Infinite Scrolling with React](https://dev.to/karamkoujan/infinite-scrolling-with-react-1kaa)
-- [Dev.to/JS] [Create Scroll sensitive navbar in ReactJs [functional component]](https://dev.to/lazylad/create-scroll-sensitive-navbar-in-reactjs-functional-component-l3i)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
