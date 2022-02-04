@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to fix defaultValue error while working with textarea in React](https://dev.to/joshuajee/how-to-fix-defaultvalue-error-while-working-with-textarea-in-react-1a55)
+- [Dev.to/JS] [Using Page Objects in Cypress](https://dev.to/dwwhalen/using-page-objects-in-cypress-co9)
+- [Dev.to/JS] [count++ !== ++count](https://dev.to/zachinjapan/count-count-126p)
 - [Dev.to/JS] [Software-as-a-service - 10 Ways Developers Make Money from Home - E05](https://dev.to/danfleser/software-as-a-service-10-ways-developers-make-money-from-home-e05-1ope)
 - [Dev.to/JS] [TIL: You can await a promise with callbacks.](https://dev.to/pedrostc/til-you-can-await-a-promise-with-a-then-10i8)
 - [Dev.to/JS] [Best Databases for Next.js](https://dev.to/enesakar/best-databases-for-nextjs-3e42)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
 - [Dev.to/JS] [Paracetamol.js💊| #43: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-43-explica-este-codigo-javascript-3eg)
 - [Dev.to/JS] [Typescript Generics explained in 2 minutes](https://dev.to/nickycdk/typescript-generics-explained-in-2-minutes-24ib)
-- [Dev.to/JS] [LeetCode - Triangle](https://dev.to/_alkesh26/leetcode-triangle-2i3g)
 - [Lifehacker] [Make a Cute Little Salami Rose With a Wine Glass](https://lifehacker.com/make-a-cute-little-salami-rose-with-a-wine-glass-1848476339)
-- [Dev.to/JS] [JSX without importing React](https://dev.to/fromaline/jsx-without-importing-react-28dj)
-- [Dev.to/JS] [How to write functions in TypeScript](https://dev.to/aneeqakhan/how-to-write-functions-in-typescript-4jkg)
 - [Lifehacker] [The Best Drinking Games to Play During Super Bowl LVI](https://lifehacker.com/the-best-drinking-games-to-play-during-super-bowl-lvi-1848475530)
 - [Lifehacker] [How to Score Super Bowl Tickets, If You Absolutely Must](https://lifehacker.com/how-to-score-super-bowl-tickets-if-you-absolutely-must-1848474218)
 - [Lifehacker] [15 Clever Ways You Should Be Using Coffee Grounds Around the House](https://lifehacker.com/15-clever-ways-you-should-be-using-coffee-grounds-aroun-1848467988)
