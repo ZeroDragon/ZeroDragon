@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Any solidity developers out there?](https://dev.to/metahawq/any-solidity-developers-out-there-4ld)
+- [Dev.to/JS] [Using libffi](https://dev.to/krowemoh/using-libffi-4ml8)
 - [Dev.to/JS] [How to fix defaultValue error while working with textarea in React](https://dev.to/joshuajee/how-to-fix-defaultvalue-error-while-working-with-textarea-in-react-1a55)
 - [Dev.to/JS] [Using Page Objects in Cypress](https://dev.to/dwwhalen/using-page-objects-in-cypress-co9)
 - [Dev.to/JS] [count++ !== ++count](https://dev.to/zachinjapan/count-count-126p)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Taking a Look at `startTransition` in React 18](https://dev.to/kathryngrayson/taking-a-look-at-starttransition-in-react-18-2g7i)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [6 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
-- [Dev.to/JS] [Paracetamol.js💊| #43: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-43-explica-este-codigo-javascript-3eg)
-- [Dev.to/JS] [Typescript Generics explained in 2 minutes](https://dev.to/nickycdk/typescript-generics-explained-in-2-minutes-24ib)
 - [Lifehacker] [Make a Cute Little Salami Rose With a Wine Glass](https://lifehacker.com/make-a-cute-little-salami-rose-with-a-wine-glass-1848476339)
 - [Lifehacker] [The Best Drinking Games to Play During Super Bowl LVI](https://lifehacker.com/the-best-drinking-games-to-play-during-super-bowl-lvi-1848475530)
 - [Lifehacker] [How to Score Super Bowl Tickets, If You Absolutely Must](https://lifehacker.com/how-to-score-super-bowl-tickets-if-you-absolutely-must-1848474218)
