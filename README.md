@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848475094)
+- [Dev.to/JS] [React Logo Using Only 2 Div In Pure CSS](https://dev.to/pankaj_singhr/react-logo-using-only-2-div-in-pure-css-2o2e)
+- [Dev.to/JS] [Google Logo Using Single Div In Pure CSS](https://dev.to/pankaj_singhr/google-logo-using-single-div-in-pure-css-1dfc)
+- [Dev.to/JS] [Lightning Effect Using CSS Animation](https://dev.to/pankaj_singhr/lightning-effect-using-css-animation-4h3)
+- [Dev.to/JS] [The Box Model](https://dev.to/jackent2b/the-box-model-3a19)
+- [Dev.to/JS] [tsParticles 1.40.0 Released](https://dev.to/matteobruni/tsparticles-1400-released-3dhf)
 - [Dev.to/JS] [Personal Pinterest with Uploadcare Chrome Extension](https://dev.to/raghavdhingra/personal-pinterest-with-uploadcare-chrome-extension-28ap)
 - [Dev.to/JS] [Full Stack Bootcamp Day 1: Axios Request](https://dev.to/ahmetmeliksah/full-stack-bootcamp-day-1-axios-request-48i4)
 - [Dev.to/JS] [How To Add Jenkins Controller &amp; Agent Node for Windows | Jenkins Tutorials | Part VI](https://dev.to/lambdatest/how-to-add-jenkins-controller-agent-node-for-windows-jenkins-tutorials-part-vi-47aj)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Most Popular React Tech Stack in Professional Teams &lpar;Based on Data from 2022&rpar;](https://dev.to/profydev/most-popular-react-tech-stack-in-professional-teams-based-on-data-from-2022-5c9c)
 - [Dev.to/JS] [⚡Use of &#39;include&#39; Method in JavaScript](https://dev.to/ayeshabaloch123/use-of-include-method-in-javascript-42eo)
 - [Dev.to/JS] [Introduction to javascript](https://dev.to/awaisbutt/introduction-to-javascript-2o71)
-- [Dev.to/JS] [10 Must-Know Patterns for Writing Clean Code with React and TypeScript✨🛀](https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g)
-- [Dev.to/JS] [Integrating Storybook with Cypress and HMR](https://dev.to/mbarzeev/integrating-storybook-with-cypress-and-hmr-4082)
-- [Dev.to/JS] [How to use Stripe webhooks to monitor Payment Links settings](https://dev.to/stripe/how-to-use-stripe-webhooks-to-monitor-payment-links-settings-2d9h)
-- [Dev.to/JS] [Gatsby blog site &lpar;TechConnect - demo-code&rpar;](https://dev.to/ameenu/gatsby-blog-site-techconnect-demo-code-pep)
-- [Dev.to/JS] [😮Setup Analytics using bit.ly on website from php/backend or frontend](https://dev.to/sh20raj/setup-analytics-using-bitly-on-website-from-phpbackend-or-frontend-28od)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [5 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Sleep Myths You Need to Stop Believing](https://lifehacker.com/11-sleep-myths-you-need-to-stop-believing-1848463000)
 - [Lifehacker] [How to Finally Link Your PlayStation and Discord Accounts](https://lifehacker.com/how-to-finally-link-your-playstation-and-discord-accoun-1848465431)
 - [Lifehacker] [The Best Ways to Boost Your Wifi Signal for Free](https://lifehacker.com/the-best-ways-to-boost-your-wifi-signal-for-free-1848461552)
-- [Lifehacker] [Why Champagne Is Better Than Beer for Your Super Bowl Party](https://lifehacker.com/why-champagne-is-better-than-beer-for-your-super-bowl-p-1848463391)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
 - [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
 - [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
