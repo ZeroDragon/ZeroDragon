@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build chat into a Flask App with a chat API](https://dev.to/talkjs/how-to-build-chat-into-a-flask-app-with-a-chat-api-4o2g)
+- [Dev.to/JS] [4 Ways To Check if an Object Key Exists](https://dev.to/jamiemcmanus/4-ways-to-check-if-an-object-key-exists-58g3)
+- [Dev.to/JS] [# MERN Stack problem](https://dev.to/mayank190821/-mern-stack-problem-4l2c)
+- [Dev.to/JS] [Reactive Programming](https://dev.to/marigameo/reactive-programming-51j0)
 - [Dev.to/JS] [ES2022 is gonna be OP.](https://dev.to/akashpattnaik/es2022-is-gonna-be-op-5cdb)
 - [Dev.to/JS] [Exclusive Video Training-Make beautiful traffic-attracting websites w/ ‘WordPress Bible’.](https://dev.to/bhavishyagauta6/exclusive-video-training-make-beautiful-traffic-attracting-websites-w-wordpress-bible-5b4c)
 - [Dev.to/JS] [Run any React/ Angular/ Vuejs project directly from Github/GitLab without downloading it.](https://dev.to/phelixdusengimana/run-any-react-angular-vuejs-project-directly-from-github-without-downloading-it-3ag8)
@@ -31,12 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remove query string from URL - Get URL Path - JavaScript](https://dev.to/sh20raj/remove-query-string-from-url-get-url-path-javascript-3e00)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 28](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-28-2gjh)
 - [Dev.to/JS] [Day 89 of 100 Days of Code &amp; Scrum: Coding Janitor](https://dev.to/rammina/day-89-of-100-days-of-code-scrum-coding-janitor-ei9)
-- [Dev.to/JS] [Help! I have useEffect dependency array warnings](https://dev.to/lmeromy/help-i-have-useeffect-dependency-array-warnings-428o)
-- [Dev.to/JS] [Why is ReactJS the best choice for SaaS development?](https://dev.to/ashikarose/why-is-reactjs-the-best-choice-for-saas-development-394c)
-- [Dev.to/JS] [Download your brand new website
-Get This Brand New Website
-Bring Your Site Back From The Dead](https://dev.to/sibanarayanpat8/download-your-brand-new-websiteget-this-brand-new-websitebring-your-site-back-from-the-dead-20k8)
-- [Dev.to/JS] [Any solidity developers out there?](https://dev.to/metahawq/any-solidity-developers-out-there-4ld)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [6 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
