@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It&#39;s Prisma Time - Seeding](https://dev.to/this-is-learning/its-prisma-time-seeding-43h4)
+- [Dev.to/JS] [Viettel.com](https://dev.to/inc/viettelcom-5doh)
 - [Dev.to/JS] [Remove query string from URL - Get URL Path - JavaScript](https://dev.to/sh20raj/remove-query-string-from-url-get-url-path-javascript-3e00)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 28](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-28-2gjh)
 - [Dev.to/JS] [Day 89 of 100 Days of Code &amp; Scrum: Coding Janitor](https://dev.to/rammina/day-89-of-100-days-of-code-scrum-coding-janitor-ei9)
@@ -35,8 +37,6 @@ Bring Your Site Back From The Dead](https://dev.to/sibanarayanpat8/download-your
 - [Dev.to/JS] [Using libffi](https://dev.to/krowemoh/using-libffi-4ml8)
 - [Dev.to/JS] [How to fix defaultValue error while working with textarea in React](https://dev.to/joshuajee/how-to-fix-defaultvalue-error-while-working-with-textarea-in-react-1a55)
 - [Dev.to/JS] [Using Page Objects in Cypress](https://dev.to/dwwhalen/using-page-objects-in-cypress-co9)
-- [Dev.to/JS] [count++ !== ++count](https://dev.to/zachinjapan/count-count-126p)
-- [Dev.to/JS] [Software-as-a-service - 10 Ways Developers Make Money from Home - E05](https://dev.to/danfleser/software-as-a-service-10-ways-developers-make-money-from-home-e05-1ope)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [6 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
