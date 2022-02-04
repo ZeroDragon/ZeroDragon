@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [this keyword in JS](https://dev.to/moreshwar/this-keyword-in-js-2kol)
+- [Dev.to/JS] [Day 35 of #100daysofcode: OOP with JS](https://dev.to/rydwhelchel/day-35-of-100daysofcode-oop-with-js-1kgm)
+- [Dev.to/JS] [Conditional Rendering in React](https://dev.to/coderjay06/conditional-rendering-in-react-1dfa)
+- [Dev.to/JS] [How I built a megamenu feature with Vanilla JavaScript](https://dev.to/davidfrempong/how-i-built-a-megamenu-feature-with-vanilla-javascript-i59)
 - [Dev.to/JS] [7 Benefits Of Using WordPress For Website Development](https://dev.to/bhavishyagauta6/7-benefits-of-using-wordpress-for-website-development-3752)
 - [Dev.to/JS] [The Importance of WordPress Website Security](https://dev.to/bhavishyagauta6/the-importance-of-wordpress-website-security-22m5)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Stunning WordPress Sites in Minutes and charge $50+ a Pop!](https://dev.to/bhavishyagauta6/create-stunning-wordpress-sites-in-minutes-and-charge-50-a-pop-256c)
 - [Dev.to/JS] [How to Create Error Charts &lpar;JS&rpar;: COVID-19 Threat Perceptions in U.S. by Party](https://dev.to/andreykh1985/how-to-create-error-charts-js-covid-19-threat-perceptions-in-us-by-party-2lm3)
 - [Dev.to/JS] [Need a Website for your business? Start with WordPress…](https://dev.to/bhavishyagauta6/need-a-website-for-your-business-start-with-wordpress-i38)
-- [Dev.to/JS] [Unsplash chatbot for Discord, Pt. 2: more ways to bring pictures to Discord](https://dev.to/hiisi13/unsplash-chatbot-for-discord-pt-2-more-ways-to-see-pictures-4hbf)
-- [Dev.to/JS] [A Beginner&#39;s Guide to HTTP - Part 1: Definitions](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-1-definitions-38m7)
-- [Dev.to/JS] [Type Annotations and Inference in Typescript](https://dev.to/hima_khaitan/type-annotations-and-inference-in-typescript-5f21)
-- [Dev.to/JS] [Github as a CMS for your blog?](https://dev.to/marcdaframe/github-as-a-cms-for-your-blog-fhh)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
 - [Lifehacker] [How to Use Your AirPods’ Hidden ‘Reset’ Feature When They Refuse to Cooperate](https://lifehacker.com/how-to-use-your-airpods-hidden-reset-feature-when-th-1848481632)
