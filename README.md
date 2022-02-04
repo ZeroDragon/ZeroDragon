@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Concurrency in modern programming languages: Rust vs Go vs Java vs Node.js vs Deno](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-vs-go-vs-java-vs-nodejs-vs-deno-36gg)
+- [Dev.to/JS] [Day 90 of 100 Days of Code &amp; Scrum: Overlooked Styling Bugs](https://dev.to/rammina/day-90-of-100-days-of-code-scrum-overlooked-styling-bugs-2g1o)
+- [Dev.to/JS] [10 Indications That You Should Invest in Automation Via APIs](https://dev.to/ideradevtools/10-indications-that-you-should-invest-in-automation-via-apis-19io)
 - [Dev.to/JS] [How to build chat into a Flask App with a chat API](https://dev.to/talkjs/how-to-build-chat-into-a-flask-app-with-a-chat-api-4o2g)
 - [Dev.to/JS] [4 Ways To Check if an Object Key Exists](https://dev.to/jamiemcmanus/4-ways-to-check-if-an-object-key-exists-58g3)
 - [Dev.to/JS] [# MERN Stack problem](https://dev.to/mayank190821/-mern-stack-problem-4l2c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Run any React/ Angular/ Vuejs project directly from Github/GitLab without downloading it.](https://dev.to/phelixdusengimana/run-any-react-angular-vuejs-project-directly-from-github-without-downloading-it-3ag8)
 - [Dev.to/JS] [It&#39;s Prisma Time - Seeding](https://dev.to/this-is-learning/its-prisma-time-seeding-43h4)
 - [Dev.to/JS] [Viettel.com](https://dev.to/inc/viettelcom-5doh)
-- [Dev.to/JS] [Remove query string from URL - Get URL Path - JavaScript](https://dev.to/sh20raj/remove-query-string-from-url-get-url-path-javascript-3e00)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 28](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-28-2gjh)
-- [Dev.to/JS] [Day 89 of 100 Days of Code &amp; Scrum: Coding Janitor](https://dev.to/rammina/day-89-of-100-days-of-code-scrum-coding-janitor-ei9)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [6 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
