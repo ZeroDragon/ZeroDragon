@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use Your AirPods’ Hidden ‘Reset’ Feature When They Refuse to Cooperate](https://lifehacker.com/how-to-use-your-airpods-hidden-reset-feature-when-th-1848481632)
+- [Dev.to/JS] [Five* JavaScript concepts for your next interview](https://dev.to/comscience/five-javascript-concepts-for-your-next-interview-3fdd)
+- [Dev.to/JS] [JavaScript&#39;s prototype vs __proto__](https://dev.to/110syedmazhar/javascripts-prototype-vs-proto-3em0)
+- [Dev.to/JS] [How I tackled horizontal scroll when scrolling vertically](https://dev.to/tagvi/how-i-tackled-horizontal-scroll-when-scrolling-vertically-45cj)
+- [Dev.to/JS] [100 days of React](https://dev.to/sianwa11/100-days-of-react-1e00)
+- [Dev.to/JS] [Enhacing your applications&#39;s front-end performance with lazy loading](https://dev.to/lucas_anselmo/enhacing-your-applicationss-front-end-pergormance-with-lazy-loading-2ofb)
 - [Lifehacker] [Get Weird With the Age of Aquarius Cocktail](https://lifehacker.com/get-weird-with-the-age-of-aquarius-cocktail-1848481214)
-- [Dev.to/JS] [How to avoid long path import using React with Ts and Vite](https://dev.to/abdeldjalilhachimi/how-to-avoid-long-path-import-using-react-with-ts-and-vite-4e2h)
+- [Dev.to/JS] [How to use absolute Imports using React with Ts and Vite](https://dev.to/abdeldjalilhachimi/how-to-avoid-long-path-import-using-react-with-ts-and-vite-4e2h)
 - [Dev.to/JS] [Buffer in node.js](https://dev.to/carnato/buffer-in-nodejs-4h1p)
 - [Lifehacker] [Make Instagram Less Terrible on the Web With These Chrome Extensions](https://lifehacker.com/make-instagram-less-terrible-on-the-web-with-these-chro-1848479619)
 - [Lifehacker] [How to Win at Wordle, According to My Wife](https://lifehacker.com/how-to-win-at-wordle-according-to-my-wife-1848480285)
@@ -35,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much RAM Is Enough RAM in 2022?](https://lifehacker.com/how-much-ram-is-enough-ram-in-2022-1848475998)
 - [Dev.to/JS] [Start Unit Testing Your Javascript with Jest](https://dev.to/codesphere/start-unit-testing-your-javascript-with-jest-4lid)
 - [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 4th February 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-4th-february-2022-2dlf)
-- [Dev.to/JS] [The Easiest &amp; Most Cost-Effective Page Builder You Will Ever Use](https://dev.to/abhiavsnet/the-easiest-most-cost-effective-page-builder-you-will-ever-use-34d4)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Lifehacker] [When You Should Use Barbells Instead of Dumbbells &lpar;and Vice Versa&rpar;](https://lifehacker.com/when-you-should-use-barbells-instead-of-dumbbells-and-1848477314)
-- [Dev.to/JS] [How to Make a Discord Bot in Node.js](https://dev.to/sureshramani/how-to-make-a-discord-bot-in-nodejs-41ae)
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848475094)
-- [Dev.to/JS] [React Logo Using Only 2 Div In Pure CSS](https://dev.to/pankaj_singhr/react-logo-using-only-2-div-in-pure-css-2o2e)
-- [Dev.to/JS] [Google Logo Using Single Div In Pure CSS](https://dev.to/pankaj_singhr/google-logo-using-single-div-in-pure-css-1dfc)
-- [Dev.to/JS] [Lightning Effect Using CSS Animation](https://dev.to/pankaj_singhr/lightning-effect-using-css-animation-4h3)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [5 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
-- [Lifehacker] [This Savory Loaf Is the Ultimate Make-Ahead Breakfast](https://lifehacker.com/this-savory-loaf-is-the-ultimate-make-ahead-breakfast-1848466964)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
