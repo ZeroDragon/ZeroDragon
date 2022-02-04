@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Win at Wordle, According to My Wife](https://lifehacker.com/how-to-win-at-wordle-according-to-my-wife-1848480285)
+- [Dev.to/JS] [A Web Components Primer](https://dev.to/claviska/a-web-components-primer-2k44)
+- [Dev.to/JS] [Paracetamol.js💊| #44: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-44-explica-este-codigo-javascript-2om5)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are &#39;Alpha&#39; Males Trending on TikTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-a-1848479421)
+- [Dev.to/JS] [Replace space with underscore JavaScript - All / Multiple Spaces](https://dev.to/sh20raj/replace-space-with-underscore-javascript-all-multiple-spaces-45l7)
 - [Lifehacker] [How Much RAM Is Enough RAM in 2022?](https://lifehacker.com/how-much-ram-is-enough-ram-in-2022-1848475998)
 - [Dev.to/JS] [Start Unit Testing Your Javascript with Jest](https://dev.to/codesphere/start-unit-testing-your-javascript-with-jest-4lid)
 - [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 4th February 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-4th-february-2022-2dlf)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google Logo Using Single Div In Pure CSS](https://dev.to/pankaj_singhr/google-logo-using-single-div-in-pure-css-1dfc)
 - [Dev.to/JS] [Lightning Effect Using CSS Animation](https://dev.to/pankaj_singhr/lightning-effect-using-css-animation-4h3)
 - [Dev.to/JS] [The Box Model](https://dev.to/jackent2b/the-box-model-3a19)
-- [Dev.to/JS] [tsParticles 1.40.0 Released](https://dev.to/matteobruni/tsparticles-1400-released-3dhf)
-- [Dev.to/JS] [Personal Pinterest with Uploadcare Chrome Extension](https://dev.to/raghavdhingra/personal-pinterest-with-uploadcare-chrome-extension-28ap)
-- [Dev.to/JS] [Full Stack Bootcamp Day 1: Axios Request](https://dev.to/ahmetmeliksah/full-stack-bootcamp-day-1-axios-request-48i4)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [5 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Savory Loaf Is the Ultimate Make-Ahead Breakfast](https://lifehacker.com/this-savory-loaf-is-the-ultimate-make-ahead-breakfast-1848466964)
 - [Lifehacker] [How to Get Kids to Stop Biting Their Nails](https://lifehacker.com/how-to-get-kids-to-stop-biting-their-nails-1848467007)
 - [Lifehacker] [Your Garage Door Needs More Lube](https://lifehacker.com/your-garage-door-needs-more-lube-1848466830)
-- [Lifehacker] [Finally, Android Users Can Turn iMessage Reactions Into Emoji](https://lifehacker.com/finally-android-users-can-turn-imessage-reactions-into-1848466504)
-- [Lifehacker] [11 Sleep Myths You Need to Stop Believing](https://lifehacker.com/11-sleep-myths-you-need-to-stop-believing-1848463000)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
