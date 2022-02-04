@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Software-as-a-service - 10 Ways Developers Make Money from Home - E05](https://dev.to/danfleser/software-as-a-service-10-ways-developers-make-money-from-home-e05-1ope)
+- [Dev.to/JS] [TIL: You can await a promise with callbacks.](https://dev.to/pedrostc/til-you-can-await-a-promise-with-a-then-10i8)
 - [Dev.to/JS] [Best Databases for Next.js](https://dev.to/enesakar/best-databases-for-nextjs-3e42)
 - [Dev.to/JS] [Vue: Creating a response Vue.JS websocket server](https://dev.to/smpnjn/vue-creating-a-response-vuejs-websocket-server-f79)
 - [Dev.to/JS] [How to fix the Error in data&lpar;&rpar;: &quot;TypeError: Cannot read properties of null &lpar;reading &#39;config&#39;&rpar;&quot;, Vue2 composition API warning](https://dev.to/tnorthern/how-to-fix-the-error-in-data-typeerror-cannot-read-properties-of-null-reading-config-vue2-composition-api-warning-1ljf)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Cute Little Salami Rose With a Wine Glass](https://lifehacker.com/make-a-cute-little-salami-rose-with-a-wine-glass-1848476339)
 - [Dev.to/JS] [JSX without importing React](https://dev.to/fromaline/jsx-without-importing-react-28dj)
 - [Dev.to/JS] [How to write functions in TypeScript](https://dev.to/aneeqakhan/how-to-write-functions-in-typescript-4jkg)
-- [Dev.to/JS] [Conditional React props with TypeScript](https://dev.to/maissenayed/conditional-react-props-with-typescript-43lg)
-- [Dev.to/JS] [Understanding React Components](https://dev.to/danrez_/understanding-react-components-jd1)
 - [Lifehacker] [The Best Drinking Games to Play During Super Bowl LVI](https://lifehacker.com/the-best-drinking-games-to-play-during-super-bowl-lvi-1848475530)
 - [Lifehacker] [How to Score Super Bowl Tickets, If You Absolutely Must](https://lifehacker.com/how-to-score-super-bowl-tickets-if-you-absolutely-must-1848474218)
 - [Lifehacker] [15 Clever Ways You Should Be Using Coffee Grounds Around the House](https://lifehacker.com/15-clever-ways-you-should-be-using-coffee-grounds-aroun-1848467988)
