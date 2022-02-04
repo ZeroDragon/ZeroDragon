@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
+- [Dev.to/JS] [Web Developer vs Software Developer](https://dev.to/shristi26281534/web-developer-vs-software-developer-2en)
 - [Lifehacker] [How to Use Your AirPods’ Hidden ‘Reset’ Feature When They Refuse to Cooperate](https://lifehacker.com/how-to-use-your-airpods-hidden-reset-feature-when-th-1848481632)
 - [Dev.to/JS] [Five* JavaScript concepts for your next interview](https://dev.to/comscience/five-javascript-concepts-for-your-next-interview-3fdd)
 - [Dev.to/JS] [JavaScript&#39;s prototype vs __proto__](https://dev.to/110syedmazhar/javascripts-prototype-vs-proto-3em0)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Replace space with underscore JavaScript - All / Multiple Spaces](https://dev.to/sh20raj/replace-space-with-underscore-javascript-all-multiple-spaces-45l7)
 - [Lifehacker] [How Much RAM Is Enough RAM in 2022?](https://lifehacker.com/how-much-ram-is-enough-ram-in-2022-1848475998)
 - [Dev.to/JS] [Start Unit Testing Your Javascript with Jest](https://dev.to/codesphere/start-unit-testing-your-javascript-with-jest-4lid)
-- [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 4th February 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-4th-february-2022-2dlf)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Lifehacker] [When You Should Use Barbells Instead of Dumbbells &lpar;and Vice Versa&rpar;](https://lifehacker.com/when-you-should-use-barbells-instead-of-dumbbells-and-1848477314)
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848475094)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Ways to Make Your Super Bowl Party Vegetarian Friendly](https://lifehacker.com/10-ways-to-make-your-super-bowl-party-vegetarian-friend-1848469869)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
-- [Lifehacker] [How to Stop Your TV From Tracking Everything You Watch](https://lifehacker.com/how-to-stop-your-tv-from-tracking-everything-you-watch-1848468914)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
