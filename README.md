@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Type Annotations and Inference in Typescript](https://dev.to/hima_khaitan/type-annotations-and-inference-in-typescript-5f21)
+- [Dev.to/JS] [Github as a CMS for your blog?](https://dev.to/marcdaframe/github-as-a-cms-for-your-blog-fhh)
+- [Dev.to/JS] [🚀How I learned JavaScript! the hard way is possible and &lpar;Easy!&rpar;.](https://dev.to/aymanalexanrezk/how-i-learned-javascript-the-hard-way-is-possible-and-easy-2op7)
+- [Dev.to/JS] [JavaScript SVG diagram editor 3.9 KB &lpar;open source library&rpar;](https://dev.to/alexboyko/javascript-svg-diagram-editor-39-kb-open-source-library-2eh)
+- [Dev.to/JS] [Using Replay to fix my first Replay bug](https://dev.to/ceceliacreates/using-replay-to-fix-my-first-replay-bug-2ale)
+- [Dev.to/JS] [React.js - Indicateur de &quot;force&quot; d&#39;un mot de passe](https://dev.to/justinmartindev/reactjs-indicateur-de-force-dun-mot-de-passe-o9c)
+- [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
 - [Dev.to/JS] [Web Developer vs Software Developer](https://dev.to/shristi26281534/web-developer-vs-software-developer-2en)
 - [Lifehacker] [How to Use Your AirPods’ Hidden ‘Reset’ Feature When They Refuse to Cooperate](https://lifehacker.com/how-to-use-your-airpods-hidden-reset-feature-when-th-1848481632)
@@ -32,16 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [100 days of React](https://dev.to/sianwa11/100-days-of-react-1e00)
 - [Dev.to/JS] [Enhacing your applications&#39;s front-end performance with lazy loading](https://dev.to/lucas_anselmo/enhacing-your-applicationss-front-end-pergormance-with-lazy-loading-2ofb)
 - [Lifehacker] [Get Weird With the Age of Aquarius Cocktail](https://lifehacker.com/get-weird-with-the-age-of-aquarius-cocktail-1848481214)
-- [Dev.to/JS] [How to use absolute Imports using React with Ts and Vite](https://dev.to/abdeldjalilhachimi/how-to-avoid-long-path-import-using-react-with-ts-and-vite-4e2h)
-- [Dev.to/JS] [Buffer in node.js](https://dev.to/carnato/buffer-in-nodejs-4h1p)
 - [Lifehacker] [Make Instagram Less Terrible on the Web With These Chrome Extensions](https://lifehacker.com/make-instagram-less-terrible-on-the-web-with-these-chro-1848479619)
 - [Lifehacker] [How to Win at Wordle, According to My Wife](https://lifehacker.com/how-to-win-at-wordle-according-to-my-wife-1848480285)
-- [Dev.to/JS] [A Web Components Primer](https://dev.to/claviska/a-web-components-primer-2k44)
-- [Dev.to/JS] [Paracetamol.js💊| #44: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-44-explica-este-codigo-javascript-2om5)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are &#39;Alpha&#39; Males Trending on TikTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-a-1848479421)
-- [Dev.to/JS] [Replace space with underscore JavaScript - All / Multiple Spaces](https://dev.to/sh20raj/replace-space-with-underscore-javascript-all-multiple-spaces-45l7)
 - [Lifehacker] [How Much RAM Is Enough RAM in 2022?](https://lifehacker.com/how-much-ram-is-enough-ram-in-2022-1848475998)
-- [Dev.to/JS] [Start Unit Testing Your Javascript with Jest](https://dev.to/codesphere/start-unit-testing-your-javascript-with-jest-4lid)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Lifehacker] [When You Should Use Barbells Instead of Dumbbells &lpar;and Vice Versa&rpar;](https://lifehacker.com/when-you-should-use-barbells-instead-of-dumbbells-and-1848477314)
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848475094)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Wait for a Housing Market Crash](https://lifehacker.com/dont-wait-for-a-housing-market-crash-1848469826)
 - [Lifehacker] [10 Ways to Make Your Super Bowl Party Vegetarian Friendly](https://lifehacker.com/10-ways-to-make-your-super-bowl-party-vegetarian-friend-1848469869)
 - [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
-- [Lifehacker] [12 Time-Looping Video Games You’ll Want to Play Over and Over](https://lifehacker.com/12-time-looping-video-games-you-ll-want-to-play-over-an-1848469229)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
