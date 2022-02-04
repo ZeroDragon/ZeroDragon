@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Benefits Of Using WordPress For Website Development](https://dev.to/bhavishyagauta6/7-benefits-of-using-wordpress-for-website-development-3752)
+- [Dev.to/JS] [The Importance of WordPress Website Security](https://dev.to/bhavishyagauta6/the-importance-of-wordpress-website-security-22m5)
+- [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
+- [Dev.to/JS] [Story: React Sine Wave Animation - TypeScript &amp; Canvas API](https://dev.to/ashiishme/story-react-sine-wave-animation-typescript-canvas-api-4on4)
+- [Dev.to/JS] [Use WordPress to Earn Substantial Income? [Check this out]](https://dev.to/bhavishyagauta6/use-wordpress-to-earn-substantial-income-check-this-out-24b1)
 - [Dev.to/JS] [Secret weapon – Create &amp; sell awesome WP sites easily!](https://dev.to/bhavishyagauta6/secret-weapon-create-sell-awesome-wp-sites-easily-14gd)
 - [Dev.to/JS] [Create Stunning WordPress Sites in Minutes and charge $50+ a Pop!](https://dev.to/bhavishyagauta6/create-stunning-wordpress-sites-in-minutes-and-charge-50-a-pop-256c)
 - [Dev.to/JS] [How to Create Error Charts &lpar;JS&rpar;: COVID-19 Threat Perceptions in U.S. by Party](https://dev.to/andreykh1985/how-to-create-error-charts-js-covid-19-threat-perceptions-in-us-by-party-2lm3)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner&#39;s Guide to HTTP - Part 1: Definitions](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-1-definitions-38m7)
 - [Dev.to/JS] [Type Annotations and Inference in Typescript](https://dev.to/hima_khaitan/type-annotations-and-inference-in-typescript-5f21)
 - [Dev.to/JS] [Github as a CMS for your blog?](https://dev.to/marcdaframe/github-as-a-cms-for-your-blog-fhh)
-- [Dev.to/JS] [🚀How to learn JavaScript! the hard way is possible and &lpar;Easy!&rpar;.](https://dev.to/aymanalexanrezk/how-i-learned-javascript-the-hard-way-is-possible-and-easy-2op7)
-- [Dev.to/JS] [JavaScript SVG diagram editor 3.9 KB &lpar;open source library&rpar;](https://dev.to/alexboyko/javascript-svg-diagram-editor-39-kb-open-source-library-2eh)
-- [Dev.to/JS] [Using Replay to fix my first Replay bug](https://dev.to/ceceliacreates/using-replay-to-fix-my-first-replay-bug-2ale)
-- [Dev.to/JS] [React.js - Indicateur de &quot;force&quot; d&#39;un mot de passe](https://dev.to/justinmartindev/reactjs-indicateur-de-force-dun-mot-de-passe-o9c)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
 - [Lifehacker] [How to Use Your AirPods’ Hidden ‘Reset’ Feature When They Refuse to Cooperate](https://lifehacker.com/how-to-use-your-airpods-hidden-reset-feature-when-th-1848481632)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Ultimate Guide to Choosing the Best Webcam](https://lifehacker.com/the-ultimate-guide-to-choosing-the-best-webcam-1848472933)
 - [Lifehacker] [Don&#39;t Wait for a Housing Market Crash](https://lifehacker.com/dont-wait-for-a-housing-market-crash-1848469826)
 - [Lifehacker] [10 Ways to Make Your Super Bowl Party Vegetarian Friendly](https://lifehacker.com/10-ways-to-make-your-super-bowl-party-vegetarian-friend-1848469869)
-- [Lifehacker] [Stop Giving Valentine’s Day Flowers &lpar;and What to Give Instead&rpar;](https://lifehacker.com/fuck-valentines-day-flowers-and-what-to-give-instead-1848470109)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
