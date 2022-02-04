@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Remove query string from URL - Get URL Path - JavaScript](https://dev.to/sh20raj/remove-query-string-from-url-get-url-path-javascript-3e00)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 28](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-28-2gjh)
+- [Dev.to/JS] [Day 89 of 100 Days of Code &amp; Scrum: Coding Janitor](https://dev.to/rammina/day-89-of-100-days-of-code-scrum-coding-janitor-ei9)
 - [Dev.to/JS] [Help! I have useEffect dependency array warnings](https://dev.to/lmeromy/help-i-have-useeffect-dependency-array-warnings-428o)
 - [Dev.to/JS] [Why is ReactJS the best choice for SaaS development?](https://dev.to/ashikarose/why-is-reactjs-the-best-choice-for-saas-development-394c)
 - [Dev.to/JS] [Download your brand new website
@@ -34,9 +37,6 @@ Bring Your Site Back From The Dead](https://dev.to/sibanarayanpat8/download-your
 - [Dev.to/JS] [Using Page Objects in Cypress](https://dev.to/dwwhalen/using-page-objects-in-cypress-co9)
 - [Dev.to/JS] [count++ !== ++count](https://dev.to/zachinjapan/count-count-126p)
 - [Dev.to/JS] [Software-as-a-service - 10 Ways Developers Make Money from Home - E05](https://dev.to/danfleser/software-as-a-service-10-ways-developers-make-money-from-home-e05-1ope)
-- [Dev.to/JS] [TIL: You can await a promise with callbacks.](https://dev.to/pedrostc/til-you-can-await-a-promise-with-a-then-10i8)
-- [Dev.to/JS] [Best Databases for Next.js](https://dev.to/enesakar/best-databases-for-nextjs-3e42)
-- [Dev.to/JS] [Vue: Creating a response Vue.JS websocket server](https://dev.to/smpnjn/vue-creating-a-response-vuejs-websocket-server-f79)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [6 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
