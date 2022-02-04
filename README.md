@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Download your brand new website
+Get This Brand New Website
+Bring Your Site Back From The Dead](https://dev.to/sibanarayanpat8/download-your-brand-new-websiteget-this-brand-new-websitebring-your-site-back-from-the-dead-20k8)
 - [Dev.to/JS] [Any solidity developers out there?](https://dev.to/metahawq/any-solidity-developers-out-there-4ld)
 - [Dev.to/JS] [Using libffi](https://dev.to/krowemoh/using-libffi-4ml8)
 - [Dev.to/JS] [How to fix defaultValue error while working with textarea in React](https://dev.to/joshuajee/how-to-fix-defaultvalue-error-while-working-with-textarea-in-react-1a55)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to fix the Error in data&lpar;&rpar;: &quot;TypeError: Cannot read properties of null &lpar;reading &#39;config&#39;&rpar;&quot;, Vue2 composition API warning](https://dev.to/tnorthern/how-to-fix-the-error-in-data-typeerror-cannot-read-properties-of-null-reading-config-vue2-composition-api-warning-1ljf)
 - [Dev.to/JS] [How to call method on browser resize in react](https://dev.to/readymadecode/how-to-call-method-on-browser-resize-in-react-419b)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
-- [Dev.to/JS] [Taking a Look at `startTransition` in React 18](https://dev.to/kathryngrayson/taking-a-look-at-starttransition-in-react-18-2g7i)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [6 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
 - [Lifehacker] [Make a Cute Little Salami Rose With a Wine Glass](https://lifehacker.com/make-a-cute-little-salami-rose-with-a-wine-glass-1848476339)
