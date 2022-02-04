@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ES2022 is gonna be OP.](https://dev.to/akashpattnaik/es2022-is-gonna-be-op-5cdb)
+- [Dev.to/JS] [Exclusive Video Training-Make beautiful traffic-attracting websites w/ ‘WordPress Bible’.](https://dev.to/bhavishyagauta6/exclusive-video-training-make-beautiful-traffic-attracting-websites-w-wordpress-bible-5b4c)
+- [Dev.to/JS] [Run any React/ Angular/ Vuejs project directly from Github/GitLab without downloading it.](https://dev.to/phelixdusengimana/run-any-react-angular-vuejs-project-directly-from-github-without-downloading-it-3ag8)
 - [Dev.to/JS] [It&#39;s Prisma Time - Seeding](https://dev.to/this-is-learning/its-prisma-time-seeding-43h4)
 - [Dev.to/JS] [Viettel.com](https://dev.to/inc/viettelcom-5doh)
 - [Dev.to/JS] [Remove query string from URL - Get URL Path - JavaScript](https://dev.to/sh20raj/remove-query-string-from-url-get-url-path-javascript-3e00)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 Get This Brand New Website
 Bring Your Site Back From The Dead](https://dev.to/sibanarayanpat8/download-your-brand-new-websiteget-this-brand-new-websitebring-your-site-back-from-the-dead-20k8)
 - [Dev.to/JS] [Any solidity developers out there?](https://dev.to/metahawq/any-solidity-developers-out-there-4ld)
-- [Dev.to/JS] [Using libffi](https://dev.to/krowemoh/using-libffi-4ml8)
-- [Dev.to/JS] [How to fix defaultValue error while working with textarea in React](https://dev.to/joshuajee/how-to-fix-defaultvalue-error-while-working-with-textarea-in-react-1a55)
-- [Dev.to/JS] [Using Page Objects in Cypress](https://dev.to/dwwhalen/using-page-objects-in-cypress-co9)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [6 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
