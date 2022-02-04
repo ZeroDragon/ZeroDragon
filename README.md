@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Much RAM Is Enough RAM in 2022?](https://lifehacker.com/how-much-ram-is-enough-ram-in-2022-1848475998)
+- [Dev.to/JS] [Start Unit Testing Your Javascript with Jest](https://dev.to/codesphere/start-unit-testing-your-javascript-with-jest-4lid)
+- [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 4th February 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-4th-february-2022-2dlf)
+- [Dev.to/JS] [The Easiest &amp; Most Cost-Effective Page Builder You Will Ever Use](https://dev.to/abhiavsnet/the-easiest-most-cost-effective-page-builder-you-will-ever-use-34d4)
+- [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
+- [Lifehacker] [When You Should Use Barbells Instead of Dumbbells &lpar;and Vice Versa&rpar;](https://lifehacker.com/when-you-should-use-barbells-instead-of-dumbbells-and-1848477314)
+- [Dev.to/JS] [Top 5 CSS frameworks](https://dev.to/thatanjan/top-5-css-frameworks-4iho)
+- [Dev.to/JS] [How to Make a Discord Bot in Node.js](https://dev.to/sureshramani/how-to-make-a-discord-bot-in-nodejs-41ae)
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848475094)
 - [Dev.to/JS] [React Logo Using Only 2 Div In Pure CSS](https://dev.to/pankaj_singhr/react-logo-using-only-2-div-in-pure-css-2o2e)
 - [Dev.to/JS] [Google Logo Using Single Div In Pure CSS](https://dev.to/pankaj_singhr/google-logo-using-single-div-in-pure-css-1dfc)
@@ -31,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 1.40.0 Released](https://dev.to/matteobruni/tsparticles-1400-released-3dhf)
 - [Dev.to/JS] [Personal Pinterest with Uploadcare Chrome Extension](https://dev.to/raghavdhingra/personal-pinterest-with-uploadcare-chrome-extension-28ap)
 - [Dev.to/JS] [Full Stack Bootcamp Day 1: Axios Request](https://dev.to/ahmetmeliksah/full-stack-bootcamp-day-1-axios-request-48i4)
-- [Dev.to/JS] [How To Add Jenkins Controller &amp; Agent Node for Windows | Jenkins Tutorials | Part VI](https://dev.to/lambdatest/how-to-add-jenkins-controller-agent-node-for-windows-jenkins-tutorials-part-vi-47aj)
-- [Dev.to/JS] [One library contain this libraries: nestjs prisma graphql](https://dev.to/abdulrahmanelheyb/one-library-contain-this-libraries-nestjs-prisma-graphql-15nm)
-- [Dev.to/JS] [Most Popular React Tech Stack in Professional Teams &lpar;Based on Data from 2022&rpar;](https://dev.to/profydev/most-popular-react-tech-stack-in-professional-teams-based-on-data-from-2022-5c9c)
-- [Dev.to/JS] [⚡Use of &#39;include&#39; Method in JavaScript](https://dev.to/ayeshabaloch123/use-of-include-method-in-javascript-42eo)
-- [Dev.to/JS] [Introduction to javascript](https://dev.to/awaisbutt/introduction-to-javascript-2o71)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [5 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
@@ -58,11 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Garage Door Needs More Lube](https://lifehacker.com/your-garage-door-needs-more-lube-1848466830)
 - [Lifehacker] [Finally, Android Users Can Turn iMessage Reactions Into Emoji](https://lifehacker.com/finally-android-users-can-turn-imessage-reactions-into-1848466504)
 - [Lifehacker] [11 Sleep Myths You Need to Stop Believing](https://lifehacker.com/11-sleep-myths-you-need-to-stop-believing-1848463000)
-- [Lifehacker] [How to Finally Link Your PlayStation and Discord Accounts](https://lifehacker.com/how-to-finally-link-your-playstation-and-discord-accoun-1848465431)
-- [Lifehacker] [The Best Ways to Boost Your Wifi Signal for Free](https://lifehacker.com/the-best-ways-to-boost-your-wifi-signal-for-free-1848461552)
-- [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
-- [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
-- [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
+- [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
 ---
 
