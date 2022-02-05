@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
+- [Dev.to/JS] [JavaScript string &amp; methods](https://dev.to/kumarkalyan/javascript-string-methods-20am)
+- [Dev.to/JS] [Mad Libs: A Simple &amp; Easy HTML, CSS, &amp; JavaScript Game Tutorial](https://dev.to/bytesofbree/mad-libs-a-simple-easy-html-css-javascript-game-tutorial-133j)
+- [Dev.to/JS] [Advanced 11ty: Using Objects in your UI](https://dev.to/brewhousedigital/advanced-11ty-using-objects-in-your-ui-1633)
+- [Dev.to/JS] [Carousel with little to zero JavaScript using flexbox and overflow](https://dev.to/kevinkh89/carousel-with-little-to-zero-javascript-using-flexbox-and-overflow-37il)
 - [Dev.to/JS] [How to Hack Your Brain for Instant Motivation](https://dev.to/ideradevtools/how-to-hack-your-brain-for-instant-motivation-2o6h)
 - [Dev.to/JS] [The simplest drag and drop feature with html and JavaScript - 16 lines](https://dev.to/rajeshroyal/the-simplest-drag-and-drop-feature-with-html-and-javascript-16-lines-319i)
 - [Dev.to/JS] [Using Firebase Cloud Functions with Nodejs and Express](https://dev.to/sherifshahin/using-firebase-cloud-functions-with-nodejs-and-express-2pml)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Code] - Send Email using Sendgird and Node.js](https://dev.to/deadwin19/code-send-email-using-sendgird-and-nodejs-18eo)
 - [Dev.to/JS] [Paracetamol.js💊| #45: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-45-explica-este-codigo-javascript-4ifb)
 - [Dev.to/JS] [Basics of React – Part 1](https://dev.to/sobhandash/basics-of-react-part-1-2j67)
-- [Dev.to/JS] [How I Built my Portfolio in Less Than a Week.](https://dev.to/chryz_code/how-i-built-my-portfolio-in-less-than-a-week-53n2)
-- [Dev.to/JS] [Full stack java with react](https://dev.to/vermaprince123/full-stack-java-with-react-3e7o)
-- [Dev.to/JS] [UI libraries for your next React project](https://dev.to/sendilkumarn/ui-libraries-for-your-next-react-project-3754)
-- [Dev.to/JS] [Sharing Our Journey Developing the Leon CLI](https://dev.to/louistiti/sharing-our-journey-developing-the-leon-cli-52i0)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Cold Is Too Cold for a Dog?](https://lifehacker.com/how-cold-is-too-cold-for-a-dog-1848474033)
 - [Lifehacker] [What Is Biohacking, and Is Any of It Not Stupid?](https://lifehacker.com/what-is-biohacking-and-is-any-of-it-not-stupid-1848469897)
 - [Lifehacker] [Avoid Saying These Annoying Clichés at a Super Bowl Party](https://lifehacker.com/avoid-saying-these-annoying-cliches-at-a-super-bowl-par-1848473993)
-- [Lifehacker] [The Ultimate Guide to Choosing the Best Webcam](https://lifehacker.com/the-ultimate-guide-to-choosing-the-best-webcam-1848472933)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
