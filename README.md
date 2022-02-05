@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom React Hook - useIntersection with Intersection Observer](https://dev.to/anxiny/custom-react-hook-useintersection-with-intersection-observer-4l4e)
+- [Dev.to/JS] [Playing with ConfigCat&#39;s Feature Flags in a Phaser.io application](https://dev.to/bigmirc/playing-with-configcats-feature-flags-in-a-phaserio-application-4f77)
+- [Dev.to/JS] [🌟 Converting Roman Numerals to Integer n vice-versa](https://dev.to/aravindvcyber/converting-roman-numerals-to-integer-n-vice-versa-7m8)
+- [Dev.to/JS] [Expanding cards with multiple buttons using a single state](https://dev.to/alxanderapollo/expanding-cards-with-multiple-buttons-using-a-single-state-3blb)
+- [Dev.to/JS] [What is Front-End Development and why React?](https://dev.to/danrez_/what-is-front-end-development-and-why-react-5a0c)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Dev.to/JS] [JavaScript string &amp; methods](https://dev.to/kumarkalyan/javascript-string-methods-20am)
 - [Dev.to/JS] [Mad Libs: A Simple &amp; Easy HTML, CSS, &amp; JavaScript Game Tutorial](https://dev.to/bytesofbree/mad-libs-a-simple-easy-html-css-javascript-game-tutorial-133j)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The simplest drag and drop feature with html and JavaScript - 16 lines](https://dev.to/rajeshroyal/the-simplest-drag-and-drop-feature-with-html-and-javascript-16-lines-319i)
 - [Dev.to/JS] [Using Firebase Cloud Functions with Nodejs and Express](https://dev.to/sherifshahin/using-firebase-cloud-functions-with-nodejs-and-express-2pml)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
-- [Dev.to/JS] [How Much JavaScript Should You Learn Before Moving to React?](https://dev.to/mrdanishsaleem/how-much-javascript-should-you-learn-before-moving-to-react-3m3c)
-- [Dev.to/JS] [Todo list with React, Redux, TypeScript and drag and drop](https://dev.to/pglejzer/todo-list-with-react-redux-typescript-and-drag-and-drop-dhe)
-- [Dev.to/JS] [[Code] - Send Email using Sendgird and Node.js](https://dev.to/deadwin19/code-send-email-using-sendgird-and-nodejs-18eo)
-- [Dev.to/JS] [Paracetamol.js💊| #45: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-45-explica-este-codigo-javascript-4ifb)
-- [Dev.to/JS] [Basics of React – Part 1](https://dev.to/sobhandash/basics-of-react-part-1-2j67)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
