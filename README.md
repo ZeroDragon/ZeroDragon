@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Dummy Server with Pure Node.js](https://dev.to/ahmetmeliksah/create-a-dummy-server-with-pure-nodejs-4chl)
 - [Dev.to/JS] [Custom React Hook - useIntersection with Intersection Observer](https://dev.to/anxiny/custom-react-hook-useintersection-with-intersection-observer-4l4e)
 - [Dev.to/JS] [Playing with ConfigCat&#39;s Feature Flags in a Phaser.io application](https://dev.to/bigmirc/playing-with-configcats-feature-flags-in-a-phaserio-application-4f77)
 - [Dev.to/JS] [🌟 Converting Roman Numerals to Integer n vice-versa](https://dev.to/aravindvcyber/converting-roman-numerals-to-integer-n-vice-versa-7m8)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Carousel with little to zero JavaScript using flexbox and overflow](https://dev.to/kevinkh89/carousel-with-little-to-zero-javascript-using-flexbox-and-overflow-37il)
 - [Dev.to/JS] [How to Hack Your Brain for Instant Motivation](https://dev.to/ideradevtools/how-to-hack-your-brain-for-instant-motivation-2o6h)
 - [Dev.to/JS] [The simplest drag and drop feature with html and JavaScript - 16 lines](https://dev.to/rajeshroyal/the-simplest-drag-and-drop-feature-with-html-and-javascript-16-lines-319i)
-- [Dev.to/JS] [Using Firebase Cloud Functions with Nodejs and Express](https://dev.to/sherifshahin/using-firebase-cloud-functions-with-nodejs-and-express-2pml)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
