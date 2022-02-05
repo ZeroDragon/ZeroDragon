@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Difference Between Java and WordPress](https://dev.to/bhavishyagauta6/difference-between-java-and-wordpress-5bb5)
+- [Dev.to/JS] [Proxies in Javascript simplified](https://dev.to/marigameo/proxies-in-javascript-simplified-3c95)
+- [Dev.to/JS] [WordPress Website Backup, Restore &amp; Recover](https://dev.to/bhavishyagauta6/wordpress-website-backup-restore-recover-395g)
+- [Dev.to/JS] [Leetcode diary: 76. Minimum Window Substring](https://dev.to/kevin074/leetcode-diary-76-minimum-window-substring-573f)
+- [Dev.to/JS] [LeetCode - Contiguous Array](https://dev.to/_alkesh26/leetcode-contiguous-array-jpd)
 - [Dev.to/JS] [GitHub Socialify - 💞 Create GitHub Repo Card - Socialify your project. 🌐 #1](https://dev.to/sh20raj/github-socialify-create-github-repo-card-socialify-your-project-1-ffl)
 - [Dev.to/JS] [Learn Nginx and its basics in 2022](https://dev.to/ajayv1/learn-nginx-and-its-basics-in-2022-4ddb)
 - [Dev.to/JS] [Day 91 of 100 Days of Code &amp; Scrum: More SQL JOINs and Next.js Authentication](https://dev.to/rammina/day-91-of-100-days-of-code-scrum-19h5)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Select all Checkboxes using JavaScript](https://dev.to/dasaradhanimmala/select-all-checkboxes-using-javascript-4n6i)
 - [Dev.to/JS] [A real-time news webapp made using reactjs](https://dev.to/nisabmohd/a-real-time-news-webapp-made-using-reactjs-5af4)
 - [Dev.to/JS] [Problem Solving for Developers - JavaScript [Arrays, Searching].](https://dev.to/dreamyplayer/problem-solving-for-developers-javascript-arrays-searching-g80)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 29](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-29-26ef)
-- [Dev.to/JS] [React Basics | Part - 1](https://dev.to/elwinjyot/react-basics-part-1-473f)
-- [Dev.to/JS] [How to troubleshoot CORS Preflight / Options errors in 2022](https://dev.to/hiroyone/how-to-troubleshoot-cors-preflight-options-errors-in-2022-5ek9)
-- [Dev.to/JS] [13. DOM and Layout Trees](https://dev.to/moyedx3/13-dom-and-layout-trees-3m9m)
-- [Dev.to/JS] [Jest for React Native](https://dev.to/droidmakk/jest-for-react-native-19fc)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
