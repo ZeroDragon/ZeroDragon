@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Your downline with 1,000, 10,000 or 50,000 followers](https://dev.to/shankar51627881/your-downline-with-1000-10000-or-50000-followers-42e9)
+- [Dev.to/JS] [Moovie.js - Media player made for movies - Integration  🚀](https://dev.to/sh20raj/mooviejs-media-player-made-for-movies-integration-41kb)
 - [Dev.to/JS] [Deconstructing an Object Relationship Mapper &lpar;ORM&rpar; in Typescript](https://dev.to/jamesingold/deconstructing-an-object-relationship-mapper-orm-in-typescript-1b8f)
 - [Dev.to/JS] [what is concat&lpar;&rpar; in javascript](https://dev.to/raisan_jmr_/what-is-concat-in-javascript-4l0e)
 - [Dev.to/JS] [How to use in Typescript: type or interface?](https://dev.to/luizcalaca/how-to-use-in-typescript-type-or-interface-47jk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How remove Tilda Copyright Black Footer](https://dev.to/vborodulin/remove-tilda-logo-3jje)
 - [Dev.to/JS] [this keyword in JS](https://dev.to/moreshwar/this-keyword-in-js-2kol)
 - [Dev.to/JS] [Day 35 of #100daysofcode: OOP with JS](https://dev.to/rydwhelchel/day-35-of-100daysofcode-oop-with-js-1kgm)
-- [Dev.to/JS] [Conditional Rendering in React](https://dev.to/coderjay06/conditional-rendering-in-react-1dfa)
-- [Dev.to/JS] [How I built a megamenu feature with Vanilla JavaScript](https://dev.to/davidfrempong/how-i-built-a-megamenu-feature-with-vanilla-javascript-i59)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
