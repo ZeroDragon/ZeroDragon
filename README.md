@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub Socialify - 💞 Create GitHub Repo Card - Socialify your project. 🌐 #1](https://dev.to/sh20raj/github-socialify-create-github-repo-card-socialify-your-project-1-ffl)
+- [Dev.to/JS] [Learn Nginx and its basics in 2022](https://dev.to/ajayv1/learn-nginx-and-its-basics-in-2022-4ddb)
+- [Dev.to/JS] [Day 91 of 100 Days of Code &amp; Scrum: More SQL JOINs and Next.js Authentication](https://dev.to/rammina/day-91-of-100-days-of-code-scrum-19h5)
 - [Dev.to/JS] [How to build a Flash Title Notification with JavaScript](https://dev.to/unclebigbay/how-to-build-a-flash-title-notification-with-javascript-14mi)
 - [Dev.to/JS] [Select all Checkboxes using JavaScript](https://dev.to/dasaradhanimmala/select-all-checkboxes-using-javascript-4n6i)
 - [Dev.to/JS] [A real-time news webapp made using reactjs](https://dev.to/nisabmohd/a-real-time-news-webapp-made-using-reactjs-5af4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to troubleshoot CORS Preflight / Options errors in 2022](https://dev.to/hiroyone/how-to-troubleshoot-cors-preflight-options-errors-in-2022-5ek9)
 - [Dev.to/JS] [13. DOM and Layout Trees](https://dev.to/moyedx3/13-dom-and-layout-trees-3m9m)
 - [Dev.to/JS] [Jest for React Native](https://dev.to/droidmakk/jest-for-react-native-19fc)
-- [Dev.to/JS] [Your site is probably illegal](https://dev.to/scidroid/your-site-is-probably-illegal-i9n)
-- [Dev.to/JS] [Your downline with 1,000, 10,000 or 50,000 followers](https://dev.to/shankar51627881/your-downline-with-1000-10000-or-50000-followers-42e9)
-- [Dev.to/JS] [Moovie.js - Media player made for movies - Integration  🚀](https://dev.to/sh20raj/mooviejs-media-player-made-for-movies-integration-41kb)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
