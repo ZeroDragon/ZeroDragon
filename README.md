@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Component Testing in Vue](https://dev.to/sniperadmin/component-testing-in-vue-1ee5)
+- [Dev.to/JS] [do you want Code review? -  Logger in Typescript](https://dev.to/bmaciejewicz/do-you-want-code-review-logger-in-typescript-5ol)
+- [Dev.to/JS] [Zoom Master Course](https://dev.to/sarfarazm3844/zoom-master-course-513m)
+- [Dev.to/JS] [How do I describe this platform?](https://dev.to/joetex/how-do-i-describe-this-platform-4k78)
 - [Dev.to/JS] [How remove Tilda Copyright Black Footer](https://dev.to/vborodulin/remove-tilda-logo-3jje)
 - [Dev.to/JS] [this keyword in JS](https://dev.to/moreshwar/this-keyword-in-js-2kol)
 - [Dev.to/JS] [Day 35 of #100daysofcode: OOP with JS](https://dev.to/rydwhelchel/day-35-of-100daysofcode-oop-with-js-1kgm)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Importance of WordPress Website Security](https://dev.to/bhavishyagauta6/the-importance-of-wordpress-website-security-22m5)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 - [Dev.to/JS] [Story: React Sine Wave Animation - TypeScript &amp; Canvas API](https://dev.to/ashiishme/story-react-sine-wave-animation-typescript-canvas-api-4on4)
-- [Dev.to/JS] [Use WordPress to Earn Substantial Income? [Check this out]](https://dev.to/bhavishyagauta6/use-wordpress-to-earn-substantial-income-check-this-out-24b1)
-- [Dev.to/JS] [Secret weapon – Create &amp; sell awesome WP sites easily!](https://dev.to/bhavishyagauta6/secret-weapon-create-sell-awesome-wp-sites-easily-14gd)
-- [Dev.to/JS] [Create Stunning WordPress Sites in Minutes and charge $50+ a Pop!](https://dev.to/bhavishyagauta6/create-stunning-wordpress-sites-in-minutes-and-charge-50-a-pop-256c)
-- [Dev.to/JS] [How to Create Error Charts &lpar;JS&rpar;: COVID-19 Threat Perceptions in U.S. by Party](https://dev.to/andreykh1985/how-to-create-error-charts-js-covid-19-threat-perceptions-in-us-by-party-2lm3)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
 - [Lifehacker] [How to Use Your AirPods’ Hidden ‘Reset’ Feature When They Refuse to Cooperate](https://lifehacker.com/how-to-use-your-airpods-hidden-reset-feature-when-th-1848481632)
