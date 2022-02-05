@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Import, Export and Require in Javascript](https://dev.to/smpnjn/import-export-and-require-in-javascript-5ekc)
+- [Dev.to/JS] [js❤️ - .map, .forEach, .find, .filter, .reduce](https://dev.to/jacarma/js-map-foreach-find-filter-reduce-3h0o)
+- [Dev.to/JS] [js❤️ - Arrow functions y funciones de primera clase](https://dev.to/jacarma/js-arrow-functions-y-funciones-de-primera-clase-cla)
+- [Dev.to/JS] [js❤️ - Destructuring + Spread → Los restantes](https://dev.to/jacarma/js-destructuring-spread-los-restantes-3hjo)
 - [Dev.to/JS] [Revisiting Rock Paper Scissors from The Odin Project Section 12](https://dev.to/shad509/revisiting-rock-paper-scissors-from-the-odin-project-section-12-25i5)
 - [Dev.to/JS] [How to Code And Publish Your First NPM package🎖](https://dev.to/harshsinha17/how-to-code-and-publish-your-first-npm-package-42lb)
 - [Dev.to/JS] [The Next 100X Gem is here, GAMEIN Token by GameInfinity](https://dev.to/miss_stella_j/the-next-100x-gem-is-here-gamein-token-by-gameinfinity-1goh)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn How To Create, Test and Deploy a Single Page App with Vue 3 + Vite and Pinia](https://dev.to/andreirusu_/learn-how-to-create-test-and-deploy-a-single-page-app-with-vue-3-vite-and-pinia-1kll)
 - [Dev.to/JS] [Handpan software instrument for Ableton Live](https://dev.to/patelplace/handpan-software-instrument-for-ableton-live-12hp)
 - [Dev.to/JS] [JavaScript Configuration](https://dev.to/mh0386/javascript-configuration-2616)
-- [Dev.to/JS] [js❤️ - Introducción](https://dev.to/jacarma/js-introduccion-5778)
-- [Dev.to/JS] [Difference Between Java and WordPress](https://dev.to/bhavishyagauta6/difference-between-java-and-wordpress-5bb5)
-- [Dev.to/JS] [Proxies in Javascript simplified](https://dev.to/marigameo/proxies-in-javascript-simplified-3c95)
-- [Dev.to/JS] [WordPress Website Backup, Restore &amp; Recover](https://dev.to/bhavishyagauta6/wordpress-website-backup-restore-recover-395g)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
