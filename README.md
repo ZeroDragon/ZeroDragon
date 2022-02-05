@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Hack Your Brain for Instant Motivation](https://dev.to/ideradevtools/how-to-hack-your-brain-for-instant-motivation-2o6h)
+- [Dev.to/JS] [The simplest drag and drop feature with html and JavaScript - 16 lines](https://dev.to/rajeshroyal/the-simplest-drag-and-drop-feature-with-html-and-javascript-16-lines-319i)
 - [Dev.to/JS] [Using Firebase Cloud Functions with Nodejs and Express](https://dev.to/sherifshahin/using-firebase-cloud-functions-with-nodejs-and-express-2pml)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Dev.to/JS] [How Much JavaScript Should You Learn Before Moving to React?](https://dev.to/mrdanishsaleem/how-much-javascript-should-you-learn-before-moving-to-react-3m3c)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [UI libraries for your next React project](https://dev.to/sendilkumarn/ui-libraries-for-your-next-react-project-3754)
 - [Dev.to/JS] [Sharing Our Journey Developing the Leon CLI](https://dev.to/louistiti/sharing-our-journey-developing-the-leon-cli-52i0)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
-- [Dev.to/JS] [React Basics | Part - 2](https://dev.to/elwinjyot/react-basics-part-2-44p5)
-- [Dev.to/JS] [Beginner Inquiry](https://dev.to/snake_eye/beginner-inquiry-gi4)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
