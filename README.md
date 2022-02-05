@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 plugins for related articles in WordPress plugin Articles in 2022](https://dev.to/bhavishyagauta6/10-plugins-for-related-articles-in-wordpress-plugin-articles-in-2022-kpg)
 - [Dev.to/JS] [Import, Export and Require in Javascript](https://dev.to/smpnjn/import-export-and-require-in-javascript-5ekc)
 - [Dev.to/JS] [js❤️ - .map, .forEach, .find, .filter, .reduce](https://dev.to/jacarma/js-map-foreach-find-filter-reduce-3h0o)
 - [Dev.to/JS] [js❤️ - Arrow functions y funciones de primera clase](https://dev.to/jacarma/js-arrow-functions-y-funciones-de-primera-clase-cla)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [js❤️ - Spread Operator](https://dev.to/jacarma/js-spread-operator-3kpb)
 - [Dev.to/JS] [Learn How To Create, Test and Deploy a Single Page App with Vue 3 + Vite and Pinia](https://dev.to/andreirusu_/learn-how-to-create-test-and-deploy-a-single-page-app-with-vue-3-vite-and-pinia-1kll)
 - [Dev.to/JS] [Handpan software instrument for Ableton Live](https://dev.to/patelplace/handpan-software-instrument-for-ableton-live-12hp)
-- [Dev.to/JS] [JavaScript Configuration](https://dev.to/mh0386/javascript-configuration-2616)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
