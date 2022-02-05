@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
+- [Dev.to/JS] [React Basics | Part - 2](https://dev.to/elwinjyot/react-basics-part-2-44p5)
+- [Dev.to/JS] [Beginner Inquiry](https://dev.to/snake_eye/beginner-inquiry-gi4)
+- [Dev.to/JS] [Draw, Slime!](https://dev.to/fradar/draw-slime-3j8d)
+- [Dev.to/JS] [How to create fullpage tabs with Html, CSS and JavaScript](https://dev.to/thatanjan/how-to-create-fullpage-tabs-with-html-css-and-javascript-4bj8)
+- [Dev.to/JS] [How To Make a Simple Discord Bot in JavaScript [2022]](https://dev.to/vojtadev/how-to-make-a-simple-discord-bot-in-javascript-2022-5amp)
 - [Dev.to/JS] [10 plugins for related articles in WordPress plugin Articles in 2022](https://dev.to/bhavishyagauta6/10-plugins-for-related-articles-in-wordpress-plugin-articles-in-2022-kpg)
 - [Dev.to/JS] [Import, Export and Require in Javascript](https://dev.to/smpnjn/import-export-and-require-in-javascript-5ekc)
 - [Dev.to/JS] [js❤️ - .map, .forEach, .find, .filter, .reduce](https://dev.to/jacarma/js-map-foreach-find-filter-reduce-3h0o)
 - [Dev.to/JS] [js❤️ - Arrow functions y funciones de primera clase](https://dev.to/jacarma/js-arrow-functions-y-funciones-de-primera-clase-cla)
 - [Dev.to/JS] [js❤️ - Destructuring + Spread → Los restantes](https://dev.to/jacarma/js-destructuring-spread-los-restantes-3hjo)
 - [Dev.to/JS] [Revisiting Rock Paper Scissors from The Odin Project Section 12](https://dev.to/shad509/revisiting-rock-paper-scissors-from-the-odin-project-section-12-25i5)
-- [Dev.to/JS] [How to Code And Publish Your First NPM package🎖](https://dev.to/harshsinha17/how-to-code-and-publish-your-first-npm-package-42lb)
 - [Dev.to/JS] [The Next 100X Gem is here, GAMEIN Token by GameInfinity](https://dev.to/miss_stella_j/the-next-100x-gem-is-here-gamein-token-by-gameinfinity-1goh)
-- [Dev.to/JS] [js❤️ - Destructuring](https://dev.to/jacarma/js-destructuring-3dd6)
-- [Dev.to/JS] [js❤️ - Spread Operator](https://dev.to/jacarma/js-spread-operator-3kpb)
-- [Dev.to/JS] [Learn How To Create, Test and Deploy a Single Page App with Vue 3 + Vite and Pinia](https://dev.to/andreirusu_/learn-how-to-create-test-and-deploy-a-single-page-app-with-vue-3-vite-and-pinia-1kll)
-- [Dev.to/JS] [Handpan software instrument for Ableton Live](https://dev.to/patelplace/handpan-software-instrument-for-ableton-live-12hp)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
 - [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid Saying These Annoying Clichés at a Super Bowl Party](https://lifehacker.com/avoid-saying-these-annoying-cliches-at-a-super-bowl-par-1848473993)
 - [Lifehacker] [The Ultimate Guide to Choosing the Best Webcam](https://lifehacker.com/the-ultimate-guide-to-choosing-the-best-webcam-1848472933)
 - [Lifehacker] [Don&#39;t Wait for a Housing Market Crash](https://lifehacker.com/dont-wait-for-a-housing-market-crash-1848469826)
-- [Lifehacker] [10 Ways to Make Your Super Bowl Party Vegetarian Friendly](https://lifehacker.com/10-ways-to-make-your-super-bowl-party-vegetarian-friend-1848469869)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
