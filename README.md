@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Monster 1.30 released](https://dev.to/schukai/monster-130-released-474i)
 - [Dev.to/JS] [JavaScript Functions - Parameters &amp; Arguments Explained](https://dev.to/deep_space/javascript-functions-parameters-arguments-explained-1788)
 - [Dev.to/JS] [Create a Dummy Server with Pure Node.js](https://dev.to/ahmetmeliksah/create-a-dummy-server-with-pure-nodejs-4chl)
 - [Dev.to/JS] [Custom React Hook - useIntersection with Intersection Observer](https://dev.to/anxiny/custom-react-hook-useintersection-with-intersection-observer-4l4e)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mad Libs: A Simple &amp; Easy HTML, CSS, &amp; JavaScript Game Tutorial](https://dev.to/bytesofbree/mad-libs-a-simple-easy-html-css-javascript-game-tutorial-133j)
 - [Dev.to/JS] [Advanced 11ty: Using Objects in your UI](https://dev.to/brewhousedigital/advanced-11ty-using-objects-in-your-ui-1633)
 - [Dev.to/JS] [Carousel with little to zero JavaScript using flexbox and overflow](https://dev.to/kevinkh89/carousel-with-little-to-zero-javascript-using-flexbox-and-overflow-37il)
-- [Dev.to/JS] [How to Hack Your Brain for Instant Motivation](https://dev.to/ideradevtools/how-to-hack-your-brain-for-instant-motivation-2o6h)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
