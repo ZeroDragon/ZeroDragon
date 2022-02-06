@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding react context](https://dev.to/alverd04/understanding-react-context-5686)
+- [Dev.to/JS] [MarqueeWiggle](https://dev.to/benny00100/marqueewiggle-6jn)
+- [Dev.to/JS] [Build an E-Commerce Site with Wagtail CMS,  Bootstrap &amp; Django Framework.](https://dev.to/paulwababu/build-an-e-commerce-site-with-wagtail-cms-bootstrap-django-framework-4jdb)
+- [Dev.to/JS] [Shamshir: Github Action to attach a label to pull requests based on the number of approvals](https://dev.to/kyagi/shamshir-github-action-to-attach-a-label-to-pull-requests-based-on-the-number-of-approvals-2abd)
+- [Dev.to/JS] [Weekly Digest 05/2022](https://dev.to/marcobiedermann/weekly-digest-052022-2npm)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Dev.to/JS] [THE BEST NEW JavaScript Framework 2022](https://dev.to/iamluisj/the-best-new-javascript-framework-2022-2250)
 - [Dev.to/JS] [10 Cool VS Code Extensions Released in 2022.](https://dev.to/dreamyplayer/10-cool-vs-code-extensions-released-in-2022-74b)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shortcut to change color](https://dev.to/n4n5/shortcut-to-change-color-1ac3)
 - [Dev.to/JS] [handle Forms without PageRefresh](https://dev.to/frankwisniewski/handle-forms-without-pagerefresh-3jn5)
 - [Dev.to/JS] [Some Basics of CSS that you should have a look at. &lpar; Part 1 &rpar;](https://dev.to/prakhart111/some-basics-of-css-that-you-should-have-a-look-at-part-1--42a2)
-- [Dev.to/JS] [These things you should keep in mind while writing JavaScript](https://dev.to/codewithsnowbit/these-things-you-should-keep-in-mind-while-writing-javascript-2d7d)
-- [Dev.to/JS] [Conditional Styling in React JS](https://dev.to/salehmubashar/conditional-styling-in-react-js-3gde)
-- [Dev.to/JS] [Top 9 Unique JavaScript Animation Libraries To Use In 2022](https://dev.to/prakashmishr2529/top-9-unique-javascript-animation-libraries-to-use-in-2022-31o5)
-- [Dev.to/JS] [Object constructor in javascript](https://dev.to/elukuro/object-constructor-in-javascript-35c0)
-- [Dev.to/JS] [UseEffect and useLayoutEffect differences](https://dev.to/deepakjaiswal/useeffect-and-uselayouteffect-differences-1cdb)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
