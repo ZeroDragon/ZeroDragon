@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
+- [Dev.to/JS] [THE BEST NEW JavaScript Framework 2022](https://dev.to/iamluisj/the-best-new-javascript-framework-2022-2250)
+- [Dev.to/JS] [10 Cool VS Code Extensions Released in 2022.](https://dev.to/dreamyplayer/10-cool-vs-code-extensions-released-in-2022-74b)
+- [Dev.to/JS] [Avoiding Primitive Obsession in 6 ½ Programming Languages](https://dev.to/jesterxl/avoiding-primitive-obsession-in-6-12-programming-languages-567e)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Dev.to/JS] [Npm packages hacking](https://dev.to/dhanushnehru/npm-packages-hacking-mem)
 - [Dev.to/JS] [Shortcut to change color](https://dev.to/n4n5/shortcut-to-change-color-1ac3)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 9 Unique JavaScript Animation Libraries To Use In 2022](https://dev.to/prakashmishr2529/top-9-unique-javascript-animation-libraries-to-use-in-2022-31o5)
 - [Dev.to/JS] [Object constructor in javascript](https://dev.to/elukuro/object-constructor-in-javascript-35c0)
 - [Dev.to/JS] [UseEffect and useLayoutEffect differences](https://dev.to/deepakjaiswal/useeffect-and-uselayouteffect-differences-1cdb)
-- [Dev.to/JS] [Creating your first Vue App](https://dev.to/smpnjn/creating-your-first-vue-app-1ek8)
-- [Dev.to/JS] [How to use typed.js](https://dev.to/ganeshpatil386386/how-to-use-typedjs-3d51)
-- [Dev.to/JS] [Run Linux on Windows with WSL 2 &amp; VS Code](https://dev.to/typescripttv/run-linux-on-windows-with-wsl-2-vs-code-o9)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Clever Ways You Should Be Using Coffee Grounds Around the House](https://lifehacker.com/15-clever-ways-you-should-be-using-coffee-grounds-aroun-1848467988)
 - [Lifehacker] [You Should Download Wordle Now to Play It Free for Years](https://lifehacker.com/you-should-download-wordle-now-to-play-it-free-for-year-1848473800)
 - [Lifehacker] [How Cold Is Too Cold for a Dog?](https://lifehacker.com/how-cold-is-too-cold-for-a-dog-1848474033)
-- [Lifehacker] [What Is Biohacking, and Is Any of It Not Stupid?](https://lifehacker.com/what-is-biohacking-and-is-any-of-it-not-stupid-1848469897)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
