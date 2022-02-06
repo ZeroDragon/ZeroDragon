@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode diary: 79. Word Search](https://dev.to/kevin074/leetcode-diary-79-word-search-4ici)
 - [Dev.to/JS] [How to turn on autoplay for Swiper React](https://dev.to/timo_ernst/how-to-turn-on-autoplay-for-swiper-react-enable-javascript-carousel-tutorial-34lk)
 - [Dev.to/JS] [Personal Blog Website using HTML CSS JS](https://dev.to/codewithsadee/personal-blog-website-using-html-css-js-2en2)
 - [Dev.to/JS] [Monster 1.30 released](https://dev.to/schukai/monster-130-released-474i)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Front-End Development and why React?](https://dev.to/danrez_/what-is-front-end-development-and-why-react-5a0c)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Dev.to/JS] [JavaScript string &amp; methods](https://dev.to/kumarkalyan/javascript-string-methods-20am)
-- [Dev.to/JS] [Mad Libs: A Simple &amp; Easy HTML, CSS, &amp; JavaScript Game Tutorial](https://dev.to/bytesofbree/mad-libs-a-simple-easy-html-css-javascript-game-tutorial-133j)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
