@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Binary Search](https://dev.to/stuxnat/javascript-binary-search-2aej)
 - [Dev.to/JS] [Live-Chat with SvelteKit and SocketIO](https://dev.to/einlinuus/live-chat-with-sveltekit-and-socketio-3kpl)
 - [Dev.to/JS] [Paracetamol.js💊| #46: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-46-explica-este-codigo-javascript-1n43)
 - [Dev.to/JS] [A Complete Guide to useState Hook](https://dev.to/aravsanj/a-complete-guide-to-usestate-hook-3ndd)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shamshir: Github Action to attach a label to pull requests based on the number of approvals](https://dev.to/kyagi/shamshir-github-action-to-attach-a-label-to-pull-requests-based-on-the-number-of-approvals-2abd)
 - [Dev.to/JS] [Weekly Digest 05/2022](https://dev.to/marcobiedermann/weekly-digest-052022-2npm)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
-- [Dev.to/JS] [THE BEST NEW JavaScript Framework 2022](https://dev.to/iamluisj/the-best-new-javascript-framework-2022-2250)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
