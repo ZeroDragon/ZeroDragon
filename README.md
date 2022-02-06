@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why does dynamically adding properties is slow in JavaScript?](https://dev.to/fromaline/why-does-dynamically-adding-properties-is-slow-in-javascript-4hm8)
+- [Dev.to/JS] [How to use Styled Components with React.js](https://dev.to/pratham10/how-to-use-styled-components-with-reactjs-59bh)
 - [Dev.to/JS] [js❤️ - Cierre](https://dev.to/jacarma/js-cierre-2kfa)
 - [Dev.to/JS] [JavaScript on Steroids: Why and How Pros use TypeScript](https://dev.to/ruppysuppy/javascript-on-steroids-why-and-how-pros-use-typescript-1cnp)
 - [Dev.to/JS] [Custom HTML5 Video Player with Vanilla JavaScript - KWG Video Player](https://dev.to/sh20raj/custom-html5-video-player-with-vanilla-javascript-kwg-video-player-4039)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 30](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-30-16pb)
 - [Dev.to/JS] [I am a Start as web development give me a challenge in web developing for you](https://dev.to/omkaroc27/i-am-a-start-as-web-development-give-me-a-challenge-in-web-developing-for-you-2b5o)
 - [Dev.to/JS] [How to Code And Publish Your First NPM package🎖](https://dev.to/harshsinha17/how-to-code-and-publish-your-first-npm-package-2neg)
-- [Dev.to/JS] [Binding an Alpine.js element to the turbolinks:load event](https://dev.to/tylerlwsmith/binding-an-alpinejs-element-to-the-turbolinksload-event-2ogm)
-- [Dev.to/JS] [Momentum](https://dev.to/jpatel98/momentum-1nj6)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
