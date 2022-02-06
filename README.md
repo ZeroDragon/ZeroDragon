@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I am a Start as web development give me a challenge in web developing for you](https://dev.to/omkaroc27/i-am-a-start-as-web-development-give-me-a-challenge-in-web-developing-for-you-2b5o)
+- [Dev.to/JS] [How to Code And Publish Your First NPM package🎖](https://dev.to/harshsinha17/how-to-code-and-publish-your-first-npm-package-2neg)
 - [Dev.to/JS] [Binding an Alpine.js element to the turbolinks:load event](https://dev.to/tylerlwsmith/binding-an-alpinejs-element-to-the-turbolinksload-event-2ogm)
 - [Dev.to/JS] [Momentum](https://dev.to/jpatel98/momentum-1nj6)
 - [Dev.to/JS] [How to gradually migrate a large React codebase to TypeScript](https://dev.to/giovanniantonaccio/how-to-gradually-migrate-a-large-react-codebase-to-typescript-2g95)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Personal Blog Website using HTML CSS JS](https://dev.to/codewithsadee/personal-blog-website-using-html-css-js-2en2)
 - [Dev.to/JS] [Monster 1.30 released](https://dev.to/schukai/monster-130-released-474i)
 - [Dev.to/JS] [JavaScript Functions - Parameters &amp; Arguments Explained](https://dev.to/deep_space/javascript-functions-parameters-arguments-explained-1788)
-- [Dev.to/JS] [Create a Dummy Server with Pure Node.js](https://dev.to/ahmetmeliksah/create-a-dummy-server-with-pure-nodejs-4chl)
-- [Dev.to/JS] [Custom React Hook - useIntersection with Intersection Observer](https://dev.to/anxiny/custom-react-hook-useintersection-with-intersection-observer-4l4e)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
