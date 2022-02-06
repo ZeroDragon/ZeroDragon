@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to overcomplicate a solution](https://dev.to/kmyrrpen/how-to-overcomplicate-a-solution-3902)
+- [Dev.to/JS] [Build a full-fledged notification center on your React App using Engagespot &lpar;Part 1&rpar;](https://dev.to/h3mandev/build-a-full-fledged-notification-center-on-your-react-app-using-engagespot-part-1-39jn)
+- [Dev.to/JS] [My Comeback as a web developer](https://dev.to/alamin__yusuf/my-comeback-as-a-web-developer-4ji1)
 - [Dev.to/JS] [Understaing &#39;this&#39; in Javascript](https://dev.to/shashanksoni61/understaing-this-in-javascript-42h0)
 - [Dev.to/JS] [useReducer Hook to the rescue 🚀](https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48)
 - [Dev.to/JS] [Lambda function to create xlsx file from JSON data and store on s3 using nodeJS/typescript](https://dev.to/metacollective/lambda-function-to-create-xlsx-file-from-json-data-and-store-on-s3-using-nodejstypescript-3ia7)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [js❤️ - Cierre](https://dev.to/jacarma/js-cierre-2kfa)
 - [Dev.to/JS] [JavaScript on Steroids: Why and How Pros use TypeScript](https://dev.to/ruppysuppy/javascript-on-steroids-why-and-how-pros-use-typescript-1cnp)
 - [Dev.to/JS] [Custom HTML5 Video Player with Vanilla JavaScript - KWG Video Player](https://dev.to/sh20raj/custom-html5-video-player-with-vanilla-javascript-kwg-video-player-4039)
-- [Dev.to/JS] [How to use the Dev.to API in 2022](https://dev.to/iamluisj/how-to-use-the-devto-api-in-2022-481o)
-- [Dev.to/JS] [Differences between TypeScript and Elm](https://dev.to/lucamug/typescript-and-elm-3mgp)
-- [Dev.to/JS] [How I made a Desktop Environment in the Browser &lpar;Part 1: Window Manager&rpar;](https://dev.to/dustinbrett/how-i-made-a-desktop-environment-in-the-browser-part-1-window-manager-197k)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
