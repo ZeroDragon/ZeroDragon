@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Live-Chat with SvelteKit and SocketIO](https://dev.to/einlinuus/live-chat-with-sveltekit-and-socketio-3kpl)
+- [Dev.to/JS] [Paracetamol.js💊| #46: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-46-explica-este-codigo-javascript-1n43)
 - [Dev.to/JS] [A Complete Guide to useState Hook](https://dev.to/aravsanj/a-complete-guide-to-usestate-hook-3ndd)
 - [Dev.to/JS] [LeetCode - Maximum Product Subarray](https://dev.to/_alkesh26/leetcode-maximum-product-subarray-1men)
 - [Dev.to/JS] [Web Components: An Introspective](https://dev.to/cawfeecoder/web-components-an-introspective-363c)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly Digest 05/2022](https://dev.to/marcobiedermann/weekly-digest-052022-2npm)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Dev.to/JS] [THE BEST NEW JavaScript Framework 2022](https://dev.to/iamluisj/the-best-new-javascript-framework-2022-2250)
-- [Dev.to/JS] [10 Cool VS Code Extensions Released in 2022.](https://dev.to/dreamyplayer/10-cool-vs-code-extensions-released-in-2022-74b)
-- [Dev.to/JS] [Avoiding Primitive Obsession in 6 ½ Programming Languages](https://dev.to/jesterxl/avoiding-primitive-obsession-in-6-12-programming-languages-567e)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
