@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Binding an Alpine.js element to the turbolinks:load event](https://dev.to/tylerlwsmith/binding-an-alpinejs-element-to-the-turbolinksload-event-2ogm)
+- [Dev.to/JS] [Momentum](https://dev.to/jpatel98/momentum-1nj6)
+- [Dev.to/JS] [How to gradually migrate a large React codebase to TypeScript](https://dev.to/giovanniantonaccio/how-to-gradually-migrate-a-large-react-codebase-to-typescript-2g95)
+- [Dev.to/JS] [Day 25 check-in — 100 Days of Code](https://dev.to/sadiejay/day-25-check-in-100-days-of-code-1ef3)
+- [Dev.to/JS] [Day 36 of #100daysofcode: Coursework - Functional Programming with JS](https://dev.to/rydwhelchel/day-36-of-100daysofcode-coursework-functional-programming-with-js-1a28)
 - [Dev.to/JS] [Leetcode diary: 79. Word Search](https://dev.to/kevin074/leetcode-diary-79-word-search-4ici)
 - [Dev.to/JS] [How to turn on autoplay for Swiper React](https://dev.to/timo_ernst/how-to-turn-on-autoplay-for-swiper-react-enable-javascript-carousel-tutorial-34lk)
 - [Dev.to/JS] [Personal Blog Website using HTML CSS JS](https://dev.to/codewithsadee/personal-blog-website-using-html-css-js-2en2)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Functions - Parameters &amp; Arguments Explained](https://dev.to/deep_space/javascript-functions-parameters-arguments-explained-1788)
 - [Dev.to/JS] [Create a Dummy Server with Pure Node.js](https://dev.to/ahmetmeliksah/create-a-dummy-server-with-pure-nodejs-4chl)
 - [Dev.to/JS] [Custom React Hook - useIntersection with Intersection Observer](https://dev.to/anxiny/custom-react-hook-useintersection-with-intersection-observer-4l4e)
-- [Dev.to/JS] [Playing with ConfigCat&#39;s Feature Flags in a Phaser.io application](https://dev.to/bigmirc/playing-with-configcats-feature-flags-in-a-phaserio-application-4f77)
-- [Dev.to/JS] [🌟 Converting Roman Numerals to Integer n vice-versa](https://dev.to/aravindvcyber/converting-roman-numerals-to-integer-n-vice-versa-7m8)
-- [Dev.to/JS] [Expanding cards with multiple buttons using a single state](https://dev.to/alxanderapollo/expanding-cards-with-multiple-buttons-using-a-single-state-3blb)
-- [Dev.to/JS] [What is Front-End Development and why React?](https://dev.to/danrez_/what-is-front-end-development-and-why-react-5a0c)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
-- [Dev.to/JS] [JavaScript string &amp; methods](https://dev.to/kumarkalyan/javascript-string-methods-20am)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
 - [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
