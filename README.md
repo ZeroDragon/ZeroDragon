@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Run Linux on Windows with WSL 2 &amp; VS Code](https://dev.to/typescripttv/run-linux-on-windows-with-wsl-2-vs-code-o9)
+- [Dev.to/JS] [How to use typed.js](https://dev.to/ganeshpatil386386/how-to-use-typedjs-3m6c)
+- [Dev.to/JS] [A better way of importing Images &lpar;even SVGs&rpar; in React Js](https://dev.to/shashanksoni61/a-better-way-of-importing-images-even-svgs-in-react-js-4di2)
 - [Dev.to/JS] [How to create and publish a TypeScript package.](https://dev.to/anishpras/how-to-create-and-publish-a-typescript-package-1nli)
 - [Dev.to/JS] [Day 92 of 100 Days of Code &amp; Scrum: Securing Next.js Apps With next-auth](https://dev.to/rammina/day-92-of-100-days-of-code-scrum-securing-nextjs-apps-with-next-auth-31f4)
 - [Dev.to/JS] [How to install Node.js using NVM on macOS M1](https://dev.to/amanhimself/how-to-install-nodejs-using-nvm-on-macos-m1-13f7)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understaing &#39;this&#39; in Javascript](https://dev.to/shashanksoni61/understaing-this-in-javascript-42h0)
 - [Dev.to/JS] [useReducer Hook to the rescue 🚀](https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48)
 - [Dev.to/JS] [Lambda function to create xlsx file from JSON data and store on s3 using nodeJS/typescript](https://dev.to/metacollective/lambda-function-to-create-xlsx-file-from-json-data-and-store-on-s3-using-nodejstypescript-3ia7)
-- [Dev.to/JS] [Create a Weather App live in React JS](https://dev.to/shine18/create-a-weather-app-live-in-react-js-lbk)
-- [Dev.to/JS] [Why does dynamically adding properties is slow in JavaScript?](https://dev.to/fromaline/why-does-dynamically-adding-properties-is-slow-in-javascript-4hm8)
-- [Dev.to/JS] [How to use Styled Components with React.js](https://dev.to/pratham10/how-to-use-styled-components-with-reactjs-59bh)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
