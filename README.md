@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
+- [Dev.to/JS] [Npm packages hacking](https://dev.to/dhanushnehru/npm-packages-hacking-mem)
+- [Dev.to/JS] [Shortcut to change color](https://dev.to/n4n5/shortcut-to-change-color-1ac3)
+- [Dev.to/JS] [handle Forms without PageRefresh](https://dev.to/frankwisniewski/handle-forms-without-pagerefresh-3jn5)
+- [Dev.to/JS] [Some Basics of CSS that you should have a look at. &lpar; Part 1 &rpar;](https://dev.to/prakhart111/some-basics-of-css-that-you-should-have-a-look-at-part-1--42a2)
+- [Dev.to/JS] [These things you should keep in mind while writing JavaScript](https://dev.to/codewithsnowbit/these-things-you-should-keep-in-mind-while-writing-javascript-2d7d)
 - [Dev.to/JS] [Conditional Styling in React JS](https://dev.to/salehmubashar/conditional-styling-in-react-js-3gde)
 - [Dev.to/JS] [Top 9 Unique JavaScript Animation Libraries To Use In 2022](https://dev.to/prakashmishr2529/top-9-unique-javascript-animation-libraries-to-use-in-2022-31o5)
 - [Dev.to/JS] [Object constructor in javascript](https://dev.to/elukuro/object-constructor-in-javascript-35c0)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating your first Vue App](https://dev.to/smpnjn/creating-your-first-vue-app-1ek8)
 - [Dev.to/JS] [How to use typed.js](https://dev.to/ganeshpatil386386/how-to-use-typedjs-3d51)
 - [Dev.to/JS] [Run Linux on Windows with WSL 2 &amp; VS Code](https://dev.to/typescripttv/run-linux-on-windows-with-wsl-2-vs-code-o9)
-- [Dev.to/JS] [A better way of importing Images &lpar;even SVGs&rpar; in React Js](https://dev.to/shashanksoni61/a-better-way-of-importing-images-even-svgs-in-react-js-4di2)
-- [Dev.to/JS] [How to create and publish a TypeScript package.](https://dev.to/anishpras/how-to-create-and-publish-a-typescript-package-1nli)
-- [Dev.to/JS] [Day 92 of 100 Days of Code &amp; Scrum: Securing Next.js Apps With next-auth](https://dev.to/rammina/day-92-of-100-days-of-code-scrum-securing-nextjs-apps-with-next-auth-31f4)
-- [Dev.to/JS] [How to install Node.js using NVM on macOS M1](https://dev.to/amanhimself/how-to-install-nodejs-using-nvm-on-macos-m1-13f7)
-- [Dev.to/JS] [How to overcomplicate a solution](https://dev.to/kmyrrpen/how-to-overcomplicate-a-solution-3902)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Download Wordle Now to Play It Free for Years](https://lifehacker.com/you-should-download-wordle-now-to-play-it-free-for-year-1848473800)
 - [Lifehacker] [How Cold Is Too Cold for a Dog?](https://lifehacker.com/how-cold-is-too-cold-for-a-dog-1848474033)
 - [Lifehacker] [What Is Biohacking, and Is Any of It Not Stupid?](https://lifehacker.com/what-is-biohacking-and-is-any-of-it-not-stupid-1848469897)
-- [Lifehacker] [Avoid Saying These Annoying Clichés at a Super Bowl Party](https://lifehacker.com/avoid-saying-these-annoying-cliches-at-a-super-bowl-par-1848473993)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
