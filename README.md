@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Complete Guide to useState Hook](https://dev.to/aravsanj/a-complete-guide-to-usestate-hook-3ndd)
+- [Dev.to/JS] [LeetCode - Maximum Product Subarray](https://dev.to/_alkesh26/leetcode-maximum-product-subarray-1men)
+- [Dev.to/JS] [Web Components: An Introspective](https://dev.to/cawfeecoder/web-components-an-introspective-363c)
+- [Dev.to/JS] [MikroORM 5: Stricter, Safer, Smarter](https://dev.to/b4nan/mikroorm-5-stricter-safer-smarter-l4g)
 - [Dev.to/JS] [Understanding react context](https://dev.to/alverd04/understanding-react-context-5686)
 - [Dev.to/JS] [MarqueeWiggle](https://dev.to/benny00100/marqueewiggle-6jn)
 - [Dev.to/JS] [Build an E-Commerce Site with Wagtail CMS,  Bootstrap &amp; Django Framework.](https://dev.to/paulwababu/build-an-e-commerce-site-with-wagtail-cms-bootstrap-django-framework-4jdb)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Cool VS Code Extensions Released in 2022.](https://dev.to/dreamyplayer/10-cool-vs-code-extensions-released-in-2022-74b)
 - [Dev.to/JS] [Avoiding Primitive Obsession in 6 ½ Programming Languages](https://dev.to/jesterxl/avoiding-primitive-obsession-in-6-12-programming-languages-567e)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
-- [Dev.to/JS] [Npm packages hacking](https://dev.to/dhanushnehru/npm-packages-hacking-mem)
-- [Dev.to/JS] [Shortcut to change color](https://dev.to/n4n5/shortcut-to-change-color-1ac3)
-- [Dev.to/JS] [handle Forms without PageRefresh](https://dev.to/frankwisniewski/handle-forms-without-pagerefresh-3jn5)
-- [Dev.to/JS] [Some Basics of CSS that you should have a look at. &lpar; Part 1 &rpar;](https://dev.to/prakhart111/some-basics-of-css-that-you-should-have-a-look-at-part-1--42a2)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
