@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [js❤️ - Cierre](https://dev.to/jacarma/js-cierre-2kfa)
 - [Dev.to/JS] [JavaScript on Steroids: Why and How Pros use TypeScript](https://dev.to/ruppysuppy/javascript-on-steroids-why-and-how-pros-use-typescript-1cnp)
 - [Dev.to/JS] [Custom HTML5 Video Player with Vanilla JavaScript - KWG Video Player](https://dev.to/sh20raj/custom-html5-video-player-with-vanilla-javascript-kwg-video-player-4039)
 - [Dev.to/JS] [How to use the Dev.to API in 2022](https://dev.to/iamluisj/how-to-use-the-devto-api-in-2022-481o)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Code And Publish Your First NPM package🎖](https://dev.to/harshsinha17/how-to-code-and-publish-your-first-npm-package-2neg)
 - [Dev.to/JS] [Binding an Alpine.js element to the turbolinks:load event](https://dev.to/tylerlwsmith/binding-an-alpinejs-element-to-the-turbolinksload-event-2ogm)
 - [Dev.to/JS] [Momentum](https://dev.to/jpatel98/momentum-1nj6)
-- [Dev.to/JS] [How to gradually migrate a large React codebase to TypeScript](https://dev.to/giovanniantonaccio/how-to-gradually-migrate-a-large-react-codebase-to-typescript-2g95)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
