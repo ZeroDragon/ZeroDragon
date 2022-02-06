@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understaing &#39;this&#39; in Javascript](https://dev.to/shashanksoni61/understaing-this-in-javascript-42h0)
+- [Dev.to/JS] [useReducer Hook to the rescue 🚀](https://dev.to/ciphertron/usereducer-hook-to-the-rescue-2j48)
+- [Dev.to/JS] [Lambda function to create xlsx file from JSON data and store on s3 using nodeJS/typescript](https://dev.to/metacollective/lambda-function-to-create-xlsx-file-from-json-data-and-store-on-s3-using-nodejstypescript-3ia7)
+- [Dev.to/JS] [Create a Weather App live in React JS](https://dev.to/shine18/create-a-weather-app-live-in-react-js-lbk)
 - [Dev.to/JS] [Why does dynamically adding properties is slow in JavaScript?](https://dev.to/fromaline/why-does-dynamically-adding-properties-is-slow-in-javascript-4hm8)
 - [Dev.to/JS] [How to use Styled Components with React.js](https://dev.to/pratham10/how-to-use-styled-components-with-reactjs-59bh)
 - [Dev.to/JS] [js❤️ - Cierre](https://dev.to/jacarma/js-cierre-2kfa)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use the Dev.to API in 2022](https://dev.to/iamluisj/how-to-use-the-devto-api-in-2022-481o)
 - [Dev.to/JS] [Differences between TypeScript and Elm](https://dev.to/lucamug/typescript-and-elm-3mgp)
 - [Dev.to/JS] [How I made a Desktop Environment in the Browser &lpar;Part 1: Window Manager&rpar;](https://dev.to/dustinbrett/how-i-made-a-desktop-environment-in-the-browser-part-1-window-manager-197k)
-- [Dev.to/JS] [Local storage parse/set utility function](https://dev.to/takuyakikuchi/local-storage-parseset-utility-function-47e7)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 30](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-30-16pb)
-- [Dev.to/JS] [I am a Start as web development give me a challenge in web developing for you](https://dev.to/omkaroc27/i-am-a-start-as-web-development-give-me-a-challenge-in-web-developing-for-you-2b5o)
-- [Dev.to/JS] [How to Code And Publish Your First NPM package🎖](https://dev.to/harshsinha17/how-to-code-and-publish-your-first-npm-package-2neg)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
