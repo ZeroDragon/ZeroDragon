@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create and publish a TypeScript package.](https://dev.to/anishpras/how-to-create-and-publish-a-typescript-package-1nli)
+- [Dev.to/JS] [Day 92 of 100 Days of Code &amp; Scrum: Securing Next.js Apps With next-auth](https://dev.to/rammina/day-92-of-100-days-of-code-scrum-securing-nextjs-apps-with-next-auth-31f4)
+- [Dev.to/JS] [How to install Node.js using NVM on macOS M1](https://dev.to/amanhimself/how-to-install-nodejs-using-nvm-on-macos-m1-13f7)
 - [Dev.to/JS] [How to overcomplicate a solution](https://dev.to/kmyrrpen/how-to-overcomplicate-a-solution-3902)
 - [Dev.to/JS] [Build a full-fledged notification center on your React App using Engagespot &lpar;Part 1&rpar;](https://dev.to/h3mandev/build-a-full-fledged-notification-center-on-your-react-app-using-engagespot-part-1-39jn)
 - [Dev.to/JS] [My Comeback as a web developer](https://dev.to/alamin__yusuf/my-comeback-as-a-web-developer-4ji1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Weather App live in React JS](https://dev.to/shine18/create-a-weather-app-live-in-react-js-lbk)
 - [Dev.to/JS] [Why does dynamically adding properties is slow in JavaScript?](https://dev.to/fromaline/why-does-dynamically-adding-properties-is-slow-in-javascript-4hm8)
 - [Dev.to/JS] [How to use Styled Components with React.js](https://dev.to/pratham10/how-to-use-styled-components-with-reactjs-59bh)
-- [Dev.to/JS] [js❤️ - Cierre](https://dev.to/jacarma/js-cierre-2kfa)
-- [Dev.to/JS] [JavaScript on Steroids: Why and How Pros use TypeScript](https://dev.to/ruppysuppy/javascript-on-steroids-why-and-how-pros-use-typescript-1cnp)
-- [Dev.to/JS] [Custom HTML5 Video Player with Vanilla JavaScript - KWG Video Player](https://dev.to/sh20raj/custom-html5-video-player-with-vanilla-javascript-kwg-video-player-4039)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
