@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What you should know about the Logical Assignment Operators in JavaScript](https://dev.to/efkumah/what-you-should-know-about-the-logical-assignment-operators-in-javascript-5h13)
+- [Dev.to/JS] [CSS Only Accordion](https://dev.to/sababg/css-only-accordion-59db)
 - [Dev.to/JS] [JavaScript: Binary Search](https://dev.to/stuxnat/javascript-binary-search-2aej)
 - [Dev.to/JS] [Live-Chat with SvelteKit and SocketIO](https://dev.to/einlinuus/live-chat-with-sveltekit-and-socketio-3kpl)
 - [Dev.to/JS] [Paracetamol.js💊| #46: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-46-explica-este-codigo-javascript-1n43)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding react context](https://dev.to/alverd04/understanding-react-context-5686)
 - [Dev.to/JS] [MarqueeWiggle](https://dev.to/benny00100/marqueewiggle-6jn)
 - [Dev.to/JS] [Build an E-Commerce Site with Wagtail CMS,  Bootstrap &amp; Django Framework.](https://dev.to/paulwababu/build-an-e-commerce-site-with-wagtail-cms-bootstrap-django-framework-4jdb)
-- [Dev.to/JS] [Shamshir: Github Action to attach a label to pull requests based on the number of approvals](https://dev.to/kyagi/shamshir-github-action-to-attach-a-label-to-pull-requests-based-on-the-number-of-approvals-2abd)
-- [Dev.to/JS] [Weekly Digest 05/2022](https://dev.to/marcobiedermann/weekly-digest-052022-2npm)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
