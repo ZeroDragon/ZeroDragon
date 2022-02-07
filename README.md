@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Survive a Deadly Tornado](https://lifehacker.com/how-to-survive-a-deadly-tornado-1848493459)
+- [Dev.to/JS] [What&#39;s the difference between using &quot;let&quot; and &quot;var&quot;?](https://dev.to/kindoctopus/whats-the-difference-between-using-let-and-var-4fpg)
+- [Dev.to/JS] [Week 4: Starting with React Native](https://dev.to/beamazedvariable/week-4-starting-with-react-native-51gh)
+- [Dev.to/JS] [Plot Cheatsheets: Interactive notebooks for learning  visualization with JavaScript](https://dev.to/mf_viz/plot-cheatsheets-interactive-notebooks-for-learning-visualization-with-javascript-4o7h)
+- [Dev.to/JS] [Building TypeScript definitions on demand](https://dev.to/leonardofaria/building-typescript-definitions-on-demand-3am2)
+- [Dev.to/JS] [Understanding truthy and falsy in JavaScript](https://dev.to/johnpalmgren/understanding-truthy-and-falsy-in-javascript-b82)
+- [Dev.to/JS] [NodeSecure - What&#39;s new in 2022 ?](https://dev.to/fraxken/nodesecure-whats-new-in-2022--4da7)
 - [Dev.to/JS] [Where factory pattern is used in JavaScript?](https://dev.to/fromaline/where-factory-pattern-is-used-in-javascript-4l26)
 - [Lifehacker] [Your Super Bowl Party Needs Tender Miso Steak Bites](https://lifehacker.com/your-super-bowl-party-needs-tender-miso-steak-bites-1848493012)
 - [Dev.to/JS] [Executing expensive operations without freezing your UI &lpar;or using WebWorkers&rpar;](https://dev.to/shaunyapp/executing-expensive-operations-without-freezing-your-ui-or-using-webworkers-3hp7)
@@ -30,13 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Create A Modern Website Using HTML And CSS Step By Step Landing Page For Beginner&#39;s.](https://dev.to/ziontutorial/how-to-create-a-modern-website-using-html-and-css-step-by-step-landing-page-for-beginners-22k)
 - [Dev.to/JS] [5 JavaScript Libraries that makes working with JS magical](https://dev.to/bradtoxic/5-javascript-libraries-that-makes-working-with-js-magical-2817)
 - [Dev.to/JS] [Monster 1.31 released](https://dev.to/schukai/monster-131-released-5ghp)
-- [Dev.to/JS] [My Recipe Manager Project](https://dev.to/lorenmichael/my-recipe-manager-project-4h66)
-- [Dev.to/JS] [&quot;Magic&quot; using React Hooks. Yes, you read it right.](https://dev.to/ahtrahdis7/magic-using-react-hooks-yes-you-read-it-right-17e5)
 - [Lifehacker] [How to Stop Your Contacts From Finding Your Twitter Profile](https://lifehacker.com/how-to-stop-your-contacts-from-finding-your-twitter-pro-1848491997)
-- [Dev.to/JS] [Coinbase Dashboard clone  using Drag and Drop Builder](https://dev.to/rarestoma/build-coinbase-dashboard-clone-using-low-code-html-and-css-3k6i)
-- [Dev.to/JS] [Top Reasons to love Next.js 🥰](https://dev.to/dreamyplayer/top-reasons-to-love-nextjs-3805)
-- [Dev.to/JS] [Getting Started with Loadsy](https://dev.to/qainsights/getting-started-with-loadsy-1bjp)
-- [Dev.to/JS] [The Difference Between React State vs Props](https://dev.to/cat/the-difference-between-react-state-vs-props-1g04)
 - [Lifehacker] [How to Tell If a Steam Game Will Eat Up Too Much Storage](https://lifehacker.com/how-to-tell-if-a-steam-game-will-eat-up-too-much-storag-1848490551)
 - [Lifehacker] [Everything You Should Do Now to Plan for a Winter Weather Blackout](https://lifehacker.com/everything-you-should-do-now-to-plan-for-a-winter-weath-1848490402)
 - [Lifehacker] [11 VR Fighting Games That Might Finally Teach You How to Fight](https://lifehacker.com/11-vr-fighting-games-that-might-finally-teach-you-how-t-1848483812)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848475094)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
-- [Lifehacker] [5 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
