@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;Magic&quot; using React Hooks. Yes, you read it right.](https://dev.to/ahtrahdis7/magic-using-react-hooks-yes-you-read-it-right-17e5)
+- [Lifehacker] [How to Stop Your Contacts From Finding Your Twitter Profile](https://lifehacker.com/how-to-stop-your-contacts-from-finding-your-twitter-pro-1848491997)
+- [Dev.to/JS] [Build Coinbase Dashboard clone using Low Code, HTML and CSS](https://dev.to/rarestoma/build-coinbase-dashboard-clone-using-low-code-html-and-css-3k6i)
+- [Dev.to/JS] [Top Reasons to love Next.js 🥰](https://dev.to/dreamyplayer/top-reasons-to-love-nextjs-3805)
+- [Dev.to/JS] [Getting Started with Loadsy](https://dev.to/qainsights/getting-started-with-loadsy-1bjp)
+- [Dev.to/JS] [The Difference Between React State vs Props](https://dev.to/cat/the-difference-between-react-state-vs-props-1g04)
+- [Dev.to/JS] [Deploy an API running on Azure Functions using IaC &amp; Azure DevOps](https://dev.to/lakkimartin/deploy-an-api-running-on-azure-functions-using-iac-azure-devops-1439)
 - [Dev.to/JS] [Cursos que todo desarrollador frontend junior debe llevar](https://dev.to/heraldofortuna/cursos-que-todo-desarrollador-frontend-junior-debe-llevar-8dg)
 - [Lifehacker] [How to Tell If a Steam Game Will Eat Up Too Much Storage](https://lifehacker.com/how-to-tell-if-a-steam-game-will-eat-up-too-much-storag-1848490551)
 - [Dev.to/JS] [Conditional Styling in React JS!](https://dev.to/salehmubashar/conditional-styling-in-react-js-3h52)
@@ -31,14 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comparison- React vs React Native](https://dev.to/santan21/comparison-react-vs-react-native-3gf9)
 - [Lifehacker] [Everything You Should Do Now to Plan for a Winter Weather Blackout](https://lifehacker.com/everything-you-should-do-now-to-plan-for-a-winter-weath-1848490402)
 - [Dev.to/JS] [The most important Config Options in Typescript](https://dev.to/a7m3d000/the-most-important-config-options-in-typescript-88p)
-- [Dev.to/JS] [GitHub Actions testing](https://dev.to/cardinalby/github-actions-testing-h3h)
-- [Dev.to/JS] [Building a Modal Using ReactJS and TailwindCSS](https://dev.to/ayushdev_24/building-a-modal-using-reactjs-and-tailwindcss-38d0)
-- [Dev.to/JS] [A complete guide to  the Browser console](https://dev.to/codepapi/a-complete-guide-to-the-browser-console-6gd)
 - [Lifehacker] [11 VR Fighting Games That Might Finally Teach You How to Fight](https://lifehacker.com/11-vr-fighting-games-that-might-finally-teach-you-how-t-1848483812)
-- [Dev.to/JS] [The future of coding classes](https://dev.to/sripadhs/the-future-of-coding-classes-f48)
-- [Dev.to/JS] [Map, Filter e Reduce em JavaScript](https://dev.to/joaosc17/map-filter-e-reduce-em-javascript-1o61)
 - [Lifehacker] [Does Rice Water Really Make Your Hair Grow?](https://lifehacker.com/does-rice-water-really-make-your-hair-grow-1848484522)
-- [Dev.to/JS] [useCallback and useMemo?](https://dev.to/lautaro/usecallback-and-usememo-5ib)
 - [Lifehacker] [13 of the Worst Films From Oscar-Winning Directors &lpar;and What to Watch Instead&rpar;](https://lifehacker.com/13-of-the-worst-films-from-oscar-winning-directors-and-1848474772)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Lifehacker] [5 Design Trends the Internet Is Obsessed With](https://lifehacker.com/6-design-trends-the-internet-is-obsessed-with-1848476533)
-- [Lifehacker] [Make a Cute Little Salami Rose With a Wine Glass](https://lifehacker.com/make-a-cute-little-salami-rose-with-a-wine-glass-1848476339)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
