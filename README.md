@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [Here’s How Much Sex Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
+- [Dev.to/JS] [When to use higher-order components in React](https://dev.to/propelauth/when-to-use-higher-order-components-in-react-18k0)
+- [Dev.to/JS] [Modeling Data In Quasar Like A BOOOSS With VuexOrm](https://dev.to/quasar/modeling-data-in-quasar-like-a-boooss-with-vuexorm-45mh)
+- [Dev.to/JS] [Icelite purchased NT Games for $500 USD](https://dev.to/icelite/icelite-purchased-nt-games-for-500-usd-127g)
+- [Dev.to/JS] [What is Object oriented programming sef?](https://dev.to/danities316/what-is-object-oriented-programming-sef-1m1k)
+- [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
 - [Dev.to/JS] [Seleccionar a Tus Amigos en Facebook de Manera Automática](https://dev.to/monyinet/seleccionar-a-tus-amigos-en-facebook-de-manera-automatica-5emb)
 - [Dev.to/JS] [Explaining First Class Functions in Javascript](https://dev.to/lachouri/explaining-first-class-functions-in-javascript-2mop)
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
@@ -36,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Image Uploader Challenge](https://dev.to/nisabmohd/image-uploader-challenge-4cd9)
 - [Dev.to/JS] [Preventing GraphQL batching attacks](https://dev.to/ivandotv/preventing-graphql-batching-attacks-56o3)
 - [Lifehacker] [How to Survive a Deadly Tornado](https://lifehacker.com/how-to-survive-a-deadly-tornado-1848493459)
-- [Dev.to/JS] [What&#39;s the difference between using &quot;let&quot; and &quot;var&quot;?](https://dev.to/kindoctopus/whats-the-difference-between-using-let-and-var-4fpg)
-- [Dev.to/JS] [Week 4: Starting with React Native](https://dev.to/beamazedvariable/week-4-starting-with-react-native-51gh)
-- [Dev.to/JS] [Plot Cheatsheets: Interactive notebooks for learning  visualization with JavaScript](https://dev.to/mf_viz/plot-cheatsheets-interactive-notebooks-for-learning-visualization-with-javascript-4o7h)
-- [Dev.to/JS] [Building TypeScript definitions on demand](https://dev.to/leonardofaria/building-typescript-definitions-on-demand-3am2)
 - [Lifehacker] [Your Super Bowl Party Needs Tender Miso Steak Bites](https://lifehacker.com/your-super-bowl-party-needs-tender-miso-steak-bites-1848493012)
 - [Lifehacker] [How to Stop Your Contacts From Finding Your Twitter Profile](https://lifehacker.com/how-to-stop-your-contacts-from-finding-your-twitter-pro-1848491997)
 - [Lifehacker] [How to Tell If a Steam Game Will Eat Up Too Much Storage](https://lifehacker.com/how-to-tell-if-a-steam-game-will-eat-up-too-much-storag-1848490551)
