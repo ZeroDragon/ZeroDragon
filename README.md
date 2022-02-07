@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode diary: 128. Longest Consecutive Sequence](https://dev.to/kevin074/leetcode-diary-128-longest-consecutive-sequence-3bki)
+- [Dev.to/JS] [Initial Formik Implementation for Breeze Lakes Point Next Project](https://dev.to/kristenkinnearohlmann/initial-formik-implementation-for-breeze-lakes-point-next-project-5a87)
+- [Dev.to/JS] [Review of Vue.js Nation 2022](https://dev.to/brian_morris_d1d389a28d44/review-of-vuejs-nation-2022-nf0)
 - [Dev.to/JS] [Fixing Font issue with Parcel](https://dev.to/adeleke5140/fixing-font-issue-with-parcel-508o)
 - [Dev.to/JS] [Find Missing Number - JS](https://dev.to/986913/find-missing-number-js-3m4b)
 - [Dev.to/JS] [Setting Up a Blog with Astro](https://dev.to/destiner/setting-up-a-blog-with-astro-fb5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What you should know about the Logical Assignment Operators in JavaScript](https://dev.to/efkumah/what-you-should-know-about-the-logical-assignment-operators-in-javascript-5h13)
 - [Dev.to/JS] [CSS Only Accordion](https://dev.to/sababg/css-only-accordion-59db)
 - [Dev.to/JS] [JavaScript: Binary Search](https://dev.to/stuxnat/javascript-binary-search-2aej)
-- [Dev.to/JS] [Live-Chat with SvelteKit and SocketIO](https://dev.to/einlinuus/live-chat-with-sveltekit-and-socketio-3kpl)
-- [Dev.to/JS] [Paracetamol.js💊| #46: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-46-explica-este-codigo-javascript-1n43)
-- [Dev.to/JS] [A Complete Guide to useState Hook](https://dev.to/aravsanj/a-complete-guide-to-usestate-hook-3ndd)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
