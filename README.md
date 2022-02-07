@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 93 of 100 Days of Code &amp; Scrum: Finished Courses, Looking For New Ones](https://dev.to/rammina/day-93-of-100-days-of-code-scrum-finished-courses-looking-for-new-ones-1914)
+- [Dev.to/JS] [How to bypass CAPTCHA?](https://dev.to/patik123/how-to-bypass-captcha-575j)
+- [Dev.to/JS] [Behavior Driven Development &lpar;BDD&rpar; using Playwright](https://dev.to/jankaritech/behavior-driven-development-bdd-using-playwright-n1o)
+- [Dev.to/JS] [Javascript MAP function](https://dev.to/upali123/javascript-map-function-k90)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🙏.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-25hj)
 - [Dev.to/JS] [Let&#39;s Know about  how much to remove a tree](https://dev.to/ventuneac01/lets-know-about-how-much-to-remove-a-tree-3gj0)
 - [Dev.to/JS] [I need an assistance?](https://dev.to/juniori_1/i-need-an-assistance-2n67)
 - [Dev.to/JS] [Lets add a third dimension to our website. Getting started with Three&lpar;Js&rpar;.](https://dev.to/vanaf1979/lets-add-a-third-dimension-to-our-website-getting-started-with-threejs-284k)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the Schoolboy Q Net Worth?](https://dev.to/sifetbabo01/what-is-the-schoolboy-q-net-worth-1o5d)
 - [Dev.to/JS] [6 The Best Freelance Sites For Making Money Online](https://dev.to/duomly/6-the-best-freelance-sites-for-making-money-online-1000)
 - [Dev.to/JS] [5 Reasons React Is Still Worth It To Pick Up In 2022](https://dev.to/keraito/5-reasons-react-is-still-worth-it-to-pick-up-in-2022-fo3)
-- [Dev.to/JS] [What is Prototype and how it works in constructor functions?](https://dev.to/ainaperez/what-is-prototype-and-how-it-works-in-constructor-functions-43kj)
-- [Dev.to/JS] [All you need to know to deal with user avatars 👤 in React](https://dev.to/jancizmar/all-you-need-to-know-to-deal-with-user-avatars-in-react-664)
-- [Dev.to/JS] [Create, Test and Deploy a Single Page App with Vue 3 + Vite and Pinia](https://dev.to/andreirusu_/create-test-and-deploy-a-single-page-app-with-vue-3-vite-and-pinia-5097)
-- [Dev.to/JS] [FE Basic Seminar &lpar;Outline&rpar;](https://dev.to/langtuqntk/fe-basic-seminar-outline-1dfo)
-- [Dev.to/JS] [Free Cron Jobs with Github Actions](https://dev.to/anshuman_bhardwaj/free-cron-jobs-with-github-actions-31d6)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
