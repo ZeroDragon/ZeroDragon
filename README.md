@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom Loading Animation on Fetch Call in Vanilla Javascript / CSS / HTML 5](https://dev.to/hariseldon27/custom-loading-animation-on-fetch-call-in-vanilla-javascript-css-html-5-1a9n)
+- [Dev.to/JS] [Add a Jenkins controller and Jenkins agent node in azure | Jenkins Tutorial | Part VII](https://dev.to/lambdatest/add-a-jenkins-controller-and-jenkins-agent-node-in-azure-jenkins-tutorial-part-vii-5a7n)
+- [Dev.to/JS] [CSV-File to HTML &lt;table&gt;](https://dev.to/frankwisniewski/csv-file-to-html-209c)
+- [Dev.to/JS] [Paracetamol.js💊| #47: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-47-explica-este-codigo-javascript-50fg)
+- [Dev.to/JS] [Best Web Development Stack 💥2022](https://dev.to/theme_selection/best-web-development-stack-2jpe)
 - [Dev.to/JS] [How to write performant React apps with Context](https://dev.to/adevnadia/how-to-write-performant-react-apps-with-context-24cp)
 - [Dev.to/JS] [Do you need classes in JS/TS?](https://dev.to/latobibor/do-you-need-classes-in-jsts-4ggd)
 - [Dev.to/JS] [How to fix a bad JSON structure](https://dev.to/ppoulard/how-to-fix-a-bad-json-structure-lhh)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hire professional Packers And Movers Hsr Layout](https://dev.to/duchi34644298/hire-professional-packers-and-movers-hsr-layout-4ph8)
 - [Dev.to/JS] [Data Structures &amp; Algorithms in JavaScript&lpar;Hash Table&rpar;](https://dev.to/swarup260/data-structures-algorithms-in-javascripthash-table-36cm)
 - [Dev.to/JS] [Day 93 of 100 Days of Code &amp; Scrum: Finished Courses, Looking For New Ones](https://dev.to/rammina/day-93-of-100-days-of-code-scrum-finished-courses-looking-for-new-ones-1914)
-- [Dev.to/JS] [How to bypass CAPTCHA?](https://dev.to/patik123/how-to-bypass-captcha-575j)
-- [Dev.to/JS] [Behavior Driven Development &lpar;BDD&rpar; using Playwright](https://dev.to/jankaritech/behavior-driven-development-bdd-using-playwright-n1o)
-- [Dev.to/JS] [Javascript MAP function](https://dev.to/upali123/javascript-map-function-k90)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🙏.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-25hj)
-- [Dev.to/JS] [Top 10 Features in Angular 13 Every Developer Should Know](https://dev.to/syncfusion/top-10-features-in-angular-13-every-developer-should-know-2ff0)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
