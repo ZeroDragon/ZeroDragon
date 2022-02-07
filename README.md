@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 37 of #100daysofcode: Ticking away](https://dev.to/rydwhelchel/day-37-of-100daysofcode-ticking-away-36p8)
+- [Dev.to/JS] [React Virtual DOM, Diffing, and Keys](https://dev.to/smhaley/react-virtual-dom-diffing-and-keys-119g)
+- [Dev.to/JS] [How to create a CSS Playground for styling Pseudo-elements with Vanilla JavaScript](https://dev.to/lyqht/how-to-create-a-css-playground-for-styling-pseudo-elements-with-vanilla-javascript-485m)
 - [Dev.to/JS] [Leetcode diary: 128. Longest Consecutive Sequence](https://dev.to/kevin074/leetcode-diary-128-longest-consecutive-sequence-3bki)
 - [Dev.to/JS] [Initial Formik Implementation for Breeze Lakes Point Next Project](https://dev.to/kristenkinnearohlmann/initial-formik-implementation-for-breeze-lakes-point-next-project-5a87)
 - [Dev.to/JS] [Review of Vue.js Nation 2022](https://dev.to/brian_morris_d1d389a28d44/review-of-vuejs-nation-2022-nf0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hooks: useContext&lpar;&rpar;](https://dev.to/fig781/react-hooks-usecontext-167h)
 - [Dev.to/JS] [#002: The Week In Stories — Metaverse, Deno, and WebHooks](https://dev.to/dottedsquirrel/002-the-week-in-stories-metaverse-deno-and-webhooks-4m27)
 - [Dev.to/JS] [Functional Ranges for Loops - Generating Better Loops](https://dev.to/asayerio_techblog/functional-ranges-for-loops-generating-better-loops-19hn)
-- [Dev.to/JS] [What you should know about the Logical Assignment Operators in JavaScript](https://dev.to/efkumah/what-you-should-know-about-the-logical-assignment-operators-in-javascript-5h13)
-- [Dev.to/JS] [CSS Only Accordion](https://dev.to/sababg/css-only-accordion-59db)
-- [Dev.to/JS] [JavaScript: Binary Search](https://dev.to/stuxnat/javascript-binary-search-2aej)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
