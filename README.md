@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating My First API Javascript Webpage](https://dev.to/flugelg/creating-my-first-api-javascript-webpage-l0b)
+- [Lifehacker] [The Top 5 Ways You&#39;re Most Likely to Die](https://lifehacker.com/the-top-5-ways-youre-most-likely-to-die-1848494095)
+- [Dev.to/JS] [Why Most Wordle Clones are Wrong!](https://dev.to/denvercoder1/why-most-wordle-clones-are-wrong-390c)
+- [Dev.to/JS] [Image Uploader Challenge](https://dev.to/nisabmohd/image-uploader-challenge-4cd9)
+- [Dev.to/JS] [Preventing GraphQL batching attacks](https://dev.to/ivandotv/preventing-graphql-batching-attacks-56o3)
 - [Lifehacker] [How to Survive a Deadly Tornado](https://lifehacker.com/how-to-survive-a-deadly-tornado-1848493459)
 - [Dev.to/JS] [What&#39;s the difference between using &quot;let&quot; and &quot;var&quot;?](https://dev.to/kindoctopus/whats-the-difference-between-using-let-and-var-4fpg)
 - [Dev.to/JS] [Week 4: Starting with React Native](https://dev.to/beamazedvariable/week-4-starting-with-react-native-51gh)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Where factory pattern is used in JavaScript?](https://dev.to/fromaline/where-factory-pattern-is-used-in-javascript-4l26)
 - [Lifehacker] [Your Super Bowl Party Needs Tender Miso Steak Bites](https://lifehacker.com/your-super-bowl-party-needs-tender-miso-steak-bites-1848493012)
 - [Dev.to/JS] [Executing expensive operations without freezing your UI &lpar;or using WebWorkers&rpar;](https://dev.to/shaunyapp/executing-expensive-operations-without-freezing-your-ui-or-using-webworkers-3hp7)
-- [Dev.to/JS] [Top 10 array methods to learn to become a pro in JavaScript](https://dev.to/thatanjan/top-10-array-methods-to-learn-to-become-a-pro-in-javascript-1pnh)
-- [Dev.to/JS] [How To Create A Modern Website Using HTML And CSS Step By Step Landing Page For Beginner&#39;s.](https://dev.to/ziontutorial/how-to-create-a-modern-website-using-html-and-css-step-by-step-landing-page-for-beginners-22k)
-- [Dev.to/JS] [5 JavaScript Libraries that makes working with JS magical](https://dev.to/bradtoxic/5-javascript-libraries-that-makes-working-with-js-magical-2817)
-- [Dev.to/JS] [Monster 1.31 released](https://dev.to/schukai/monster-131-released-5ghp)
 - [Lifehacker] [How to Stop Your Contacts From Finding Your Twitter Profile](https://lifehacker.com/how-to-stop-your-contacts-from-finding-your-twitter-pro-1848491997)
 - [Lifehacker] [How to Tell If a Steam Game Will Eat Up Too Much Storage](https://lifehacker.com/how-to-tell-if-a-steam-game-will-eat-up-too-much-storag-1848490551)
 - [Lifehacker] [Everything You Should Do Now to Plan for a Winter Weather Blackout](https://lifehacker.com/everything-you-should-do-now-to-plan-for-a-winter-weath-1848490402)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Should Use Barbells Instead of Dumbbells &lpar;and Vice Versa&rpar;](https://lifehacker.com/when-you-should-use-barbells-instead-of-dumbbells-and-1848477314)
 - [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848475094)
 - [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
-- [Lifehacker] [How Much Food and Beer Do You Need for Your Super Bowl Party?](https://lifehacker.com/how-much-food-and-beer-do-you-need-for-your-super-bowl-1848475138)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
