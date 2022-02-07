@@ -23,18 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A complete guide to  the Browser console](https://dev.to/codepapi/a-complete-guide-to-the-browser-console-6gd)
+- [Lifehacker] [11 VR Fighting Games That Might Finally Teach You How to Fight](https://lifehacker.com/11-vr-fighting-games-that-might-finally-teach-you-how-t-1848483812)
+- [Dev.to/JS] [The future of coding classes](https://dev.to/sripadhs/the-future-of-coding-classes-f48)
+- [Dev.to/JS] [Map, Filter e Reduce em JavaScript](https://dev.to/joaosc17/map-filter-e-reduce-em-javascript-1o61)
+- [Lifehacker] [Does Rice Water Really Make Your Hair Grow?](https://lifehacker.com/does-rice-water-really-make-your-hair-grow-1848484522)
+- [Dev.to/JS] [useCallback and useMemo?](https://dev.to/lautaro/usecallback-and-usememo-5ib)
+- [Dev.to/JS] [Build A Simple MVC CRUD Web App in JavaScript &lpar;ES6&rpar; ← Part 1](https://dev.to/hirajatamil/build-a-simple-mvc-crud-web-app-in-javascript-es6-part-1-3la0)
+- [Dev.to/JS] [NodeJs EventEmitter](https://dev.to/abelsouzacosta/nodejs-eventemitter-4d6o)
 - [Dev.to/JS] [Custom Loading Animation on Fetch Call in Vanilla Javascript / CSS / HTML 5](https://dev.to/hariseldon27/custom-loading-animation-on-fetch-call-in-vanilla-javascript-css-html-5-1a9n)
+- [Lifehacker] [13 of the Worst Films From Oscar-Winning Directors &lpar;and What to Watch Instead&rpar;](https://lifehacker.com/13-of-the-worst-films-from-oscar-winning-directors-and-1848474772)
 - [Dev.to/JS] [Add a Jenkins controller and Jenkins agent node in azure | Jenkins Tutorial | Part VII](https://dev.to/lambdatest/add-a-jenkins-controller-and-jenkins-agent-node-in-azure-jenkins-tutorial-part-vii-5a7n)
 - [Dev.to/JS] [CSV-File to HTML &lt;table&gt;](https://dev.to/frankwisniewski/csv-file-to-html-209c)
 - [Dev.to/JS] [Paracetamol.js💊| #47: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-47-explica-este-codigo-javascript-50fg)
 - [Dev.to/JS] [Best Web Development Stack 💥2022](https://dev.to/theme_selection/best-web-development-stack-2jpe)
 - [Dev.to/JS] [How to write performant React apps with Context](https://dev.to/adevnadia/how-to-write-performant-react-apps-with-context-24cp)
-- [Dev.to/JS] [Do you need classes in JS/TS?](https://dev.to/latobibor/do-you-need-classes-in-jsts-4ggd)
-- [Dev.to/JS] [How to fix a bad JSON structure](https://dev.to/ppoulard/how-to-fix-a-bad-json-structure-lhh)
-- [Dev.to/JS] [Quasar &quot;Nuxt-like&quot; Routing is here!](https://dev.to/quasar/quasar-nuxt-like-routing-is-here-2npn)
-- [Dev.to/JS] [Hire professional Packers And Movers Hsr Layout](https://dev.to/duchi34644298/hire-professional-packers-and-movers-hsr-layout-4ph8)
-- [Dev.to/JS] [Data Structures &amp; Algorithms in JavaScript&lpar;Hash Table&rpar;](https://dev.to/swarup260/data-structures-algorithms-in-javascripthash-table-36cm)
-- [Dev.to/JS] [Day 93 of 100 Days of Code &amp; Scrum: Finished Courses, Looking For New Ones](https://dev.to/rammina/day-93-of-100-days-of-code-scrum-finished-courses-looking-for-new-ones-1914)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Cute Little Salami Rose With a Wine Glass](https://lifehacker.com/make-a-cute-little-salami-rose-with-a-wine-glass-1848476339)
 - [Lifehacker] [The Best Drinking Games to Play During Super Bowl LVI](https://lifehacker.com/the-best-drinking-games-to-play-during-super-bowl-lvi-1848475530)
 - [Lifehacker] [How to Score Super Bowl Tickets, If You Absolutely Must](https://lifehacker.com/how-to-score-super-bowl-tickets-if-you-absolutely-must-1848474218)
-- [Lifehacker] [15 Clever Ways You Should Be Using Coffee Grounds Around the House](https://lifehacker.com/15-clever-ways-you-should-be-using-coffee-grounds-aroun-1848467988)
-- [Lifehacker] [You Should Download Wordle Now to Play It Free for Years](https://lifehacker.com/you-should-download-wordle-now-to-play-it-free-for-year-1848473800)
-- [Lifehacker] [How Cold Is Too Cold for a Dog?](https://lifehacker.com/how-cold-is-too-cold-for-a-dog-1848474033)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
