@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All you need to know to deal with user avatars 👤 in React](https://dev.to/jancizmar/all-you-need-to-know-to-deal-with-user-avatars-in-react-664)
+- [Dev.to/JS] [Create, Test and Deploy a Single Page App with Vue 3 + Vite and Pinia](https://dev.to/andreirusu_/create-test-and-deploy-a-single-page-app-with-vue-3-vite-and-pinia-5097)
+- [Dev.to/JS] [Free Cron Jobs with Github Actions](https://dev.to/anshuman_bhardwaj/free-cron-jobs-with-github-actions-31d6)
+- [Dev.to/JS] [Use ios library or sdk into android project via React Native](https://dev.to/vipul_patel_ef2d49326a016/use-ios-library-or-sdk-into-android-project-via-react-native-31a0)
+- [Dev.to/JS] [Handling concurrent mysql transaction request with sequelize](https://dev.to/ddouble___d/handling-concurrent-mysql-transaction-request-with-sequelize-gg9)
 - [Dev.to/JS] [Differences between TypeScript and Elm](https://dev.to/lucamug/typescript-and-elm-3g38)
 - [Dev.to/JS] [trading-charts](https://dev.to/adrianmanchev/trading-charts-l39)
 - [Dev.to/JS] [How I structure my Next JS Projects](https://dev.to/kranurag/how-i-structure-my-next-js-projects-2m5h)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lighthouse Best Practices Cheat Sheet](https://dev.to/codegino/lighthouse-best-practices-cheat-sheet-15bg)
 - [Dev.to/JS] [Node Js Authentication with Auth0](https://dev.to/itz_salemm/node-js-authentication-with-auth0-3546)
 - [Dev.to/JS] [How to Create a Cascading Dropdown List](https://dev.to/syncfusion/how-to-create-a-cascading-dropdown-list-1f7g)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 31](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-31-31o3)
-- [Dev.to/JS] [I forgot about el.outerHTML so I made this](https://dev.to/0shuvo0/i-forgot-about-elouterhtml-so-i-made-this-19m6)
-- [Dev.to/JS] [Day 37 of #100daysofcode: Ticking away](https://dev.to/rydwhelchel/day-37-of-100daysofcode-ticking-away-36p8)
-- [Dev.to/JS] [React Virtual DOM, Diffing, and Keys](https://dev.to/smhaley/react-virtual-dom-diffing-and-keys-119g)
-- [Dev.to/JS] [How to create a CSS Playground for styling Pseudo-elements with Vanilla JavaScript](https://dev.to/lyqht/how-to-create-a-css-playground-for-styling-pseudo-elements-with-vanilla-javascript-485m)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
