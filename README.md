@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Reasons React Is Still Worth It To Pick Up In 2022](https://dev.to/keraito/5-reasons-react-is-still-worth-it-to-pick-up-in-2022-fo3)
+- [Dev.to/JS] [What is Prototype and how it works in constructor functions?](https://dev.to/ainaperez/what-is-prototype-and-how-it-works-in-constructor-functions-43kj)
 - [Dev.to/JS] [All you need to know to deal with user avatars 👤 in React](https://dev.to/jancizmar/all-you-need-to-know-to-deal-with-user-avatars-in-react-664)
 - [Dev.to/JS] [Create, Test and Deploy a Single Page App with Vue 3 + Vite and Pinia](https://dev.to/andreirusu_/create-test-and-deploy-a-single-page-app-with-vue-3-vite-and-pinia-5097)
 - [Dev.to/JS] [Free Cron Jobs with Github Actions](https://dev.to/anshuman_bhardwaj/free-cron-jobs-with-github-actions-31d6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I structure my Next JS Projects](https://dev.to/kranurag/how-i-structure-my-next-js-projects-2m5h)
 - [Dev.to/JS] [Add comment system to your static site with Giscus](https://dev.to/melvnl/add-comment-system-to-your-static-site-with-giscus-482o)
 - [Dev.to/JS] [Lighthouse Best Practices Cheat Sheet](https://dev.to/codegino/lighthouse-best-practices-cheat-sheet-15bg)
-- [Dev.to/JS] [Node Js Authentication with Auth0](https://dev.to/itz_salemm/node-js-authentication-with-auth0-3546)
-- [Dev.to/JS] [How to Create a Cascading Dropdown List](https://dev.to/syncfusion/how-to-create-a-cascading-dropdown-list-1f7g)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
