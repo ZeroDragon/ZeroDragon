@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Differences between TypeScript and Elm](https://dev.to/lucamug/typescript-and-elm-3g38)
+- [Dev.to/JS] [trading-charts](https://dev.to/adrianmanchev/trading-charts-l39)
 - [Dev.to/JS] [How I structure my Next JS Projects](https://dev.to/kranurag/how-i-structure-my-next-js-projects-2m5h)
 - [Dev.to/JS] [Add comment system to your static site with Giscus](https://dev.to/melvnl/add-comment-system-to-your-static-site-with-giscus-482o)
 - [Dev.to/JS] [Lighthouse Best Practices Cheat Sheet](https://dev.to/codegino/lighthouse-best-practices-cheat-sheet-15bg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 37 of #100daysofcode: Ticking away](https://dev.to/rydwhelchel/day-37-of-100daysofcode-ticking-away-36p8)
 - [Dev.to/JS] [React Virtual DOM, Diffing, and Keys](https://dev.to/smhaley/react-virtual-dom-diffing-and-keys-119g)
 - [Dev.to/JS] [How to create a CSS Playground for styling Pseudo-elements with Vanilla JavaScript](https://dev.to/lyqht/how-to-create-a-css-playground-for-styling-pseudo-elements-with-vanilla-javascript-485m)
-- [Dev.to/JS] [How to Create Steam Player Summaries With Next.js](https://dev.to/jagadyudha/how-to-create-steam-player-summaries-with-nextjs-1lh4)
-- [Dev.to/JS] [Leetcode diary: 128. Longest Consecutive Sequence](https://dev.to/kevin074/leetcode-diary-128-longest-consecutive-sequence-3bki)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
