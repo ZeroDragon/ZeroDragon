@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
+- [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
+- [Dev.to/JS] [Vue Tip / Same component, different route](https://dev.to/erefor/vue-tip-same-component-different-route-4fme)
+- [Dev.to/JS] [Shoe Discord Bot](https://dev.to/lucaargentieri/shoe-discord-bot-390j)
 - [Dev.to/JS] [Creating My First API Javascript Webpage](https://dev.to/flugelg/creating-my-first-api-javascript-webpage-l0b)
 - [Lifehacker] [The Top 5 Ways You&#39;re Most Likely to Die](https://lifehacker.com/the-top-5-ways-youre-most-likely-to-die-1848494095)
 - [Dev.to/JS] [Why Most Wordle Clones are Wrong!](https://dev.to/denvercoder1/why-most-wordle-clones-are-wrong-390c)
@@ -35,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building TypeScript definitions on demand](https://dev.to/leonardofaria/building-typescript-definitions-on-demand-3am2)
 - [Dev.to/JS] [Understanding truthy and falsy in JavaScript](https://dev.to/johnpalmgren/understanding-truthy-and-falsy-in-javascript-b82)
 - [Dev.to/JS] [NodeSecure - What&#39;s new in 2022 ?](https://dev.to/fraxken/nodesecure-whats-new-in-2022--4da7)
-- [Dev.to/JS] [Where factory pattern is used in JavaScript?](https://dev.to/fromaline/where-factory-pattern-is-used-in-javascript-4l26)
 - [Lifehacker] [Your Super Bowl Party Needs Tender Miso Steak Bites](https://lifehacker.com/your-super-bowl-party-needs-tender-miso-steak-bites-1848493012)
-- [Dev.to/JS] [Executing expensive operations without freezing your UI &lpar;or using WebWorkers&rpar;](https://dev.to/shaunyapp/executing-expensive-operations-without-freezing-your-ui-or-using-webworkers-3hp7)
 - [Lifehacker] [How to Stop Your Contacts From Finding Your Twitter Profile](https://lifehacker.com/how-to-stop-your-contacts-from-finding-your-twitter-pro-1848491997)
 - [Lifehacker] [How to Tell If a Steam Game Will Eat Up Too Much Storage](https://lifehacker.com/how-to-tell-if-a-steam-game-will-eat-up-too-much-storag-1848490551)
 - [Lifehacker] [Everything You Should Do Now to Plan for a Winter Weather Blackout](https://lifehacker.com/everything-you-should-do-now-to-plan-for-a-winter-weath-1848490402)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much RAM Is Enough RAM in 2022?](https://lifehacker.com/how-much-ram-is-enough-ram-in-2022-1848475998)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Lifehacker] [When You Should Use Barbells Instead of Dumbbells &lpar;and Vice Versa&rpar;](https://lifehacker.com/when-you-should-use-barbells-instead-of-dumbbells-and-1848477314)
-- [Lifehacker] [Why You Should Stop ‘Gamifying’ Your Health and Fitness](https://lifehacker.com/why-you-should-stop-gamifying-your-health-and-fitness-1848475094)
-- [Lifehacker] [Is ExpressVPN Safe to Use?](https://lifehacker.com/is-expressvpn-safe-to-use-1848477227)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
 
