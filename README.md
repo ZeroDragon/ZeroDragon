@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fixing Font issue with Parcel](https://dev.to/adeleke5140/fixing-font-issue-with-parcel-508o)
 - [Dev.to/JS] [Find Missing Number - JS](https://dev.to/986913/find-missing-number-js-3m4b)
 - [Dev.to/JS] [Setting Up a Blog with Astro](https://dev.to/destiner/setting-up-a-blog-with-astro-fb5)
 - [Dev.to/JS] [React Hooks: useContext&lpar;&rpar;](https://dev.to/fig781/react-hooks-usecontext-167h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Live-Chat with SvelteKit and SocketIO](https://dev.to/einlinuus/live-chat-with-sveltekit-and-socketio-3kpl)
 - [Dev.to/JS] [Paracetamol.js💊| #46: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-46-explica-este-codigo-javascript-1n43)
 - [Dev.to/JS] [A Complete Guide to useState Hook](https://dev.to/aravsanj/a-complete-guide-to-usestate-hook-3ndd)
-- [Dev.to/JS] [LeetCode - Maximum Product Subarray](https://dev.to/_alkesh26/leetcode-maximum-product-subarray-1men)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
