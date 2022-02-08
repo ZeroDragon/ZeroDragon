@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a Zendesk ticket from a contact form using REST API with JavaScript](https://dev.to/abdulrahman_sk/how-to-create-a-zendesk-ticket-from-a-contact-form-using-rest-api-with-javascript-2147)
+- [Lifehacker] [The Best Things to Do If You Don&#39;t Care About the Super Bowl](https://lifehacker.com/the-best-things-to-do-if-you-dont-care-about-the-super-1848482420)
+- [Dev.to/JS] [Testing of JavaScript Actions](https://dev.to/cardinalby/testing-of-javascript-actions-20a6)
+- [Dev.to/JS] [How to add or update a Mailchimp subscriber using REST API with JavaScript](https://dev.to/abdulrahman_sk/how-to-add-or-update-a-mailchimp-subscriber-using-rest-api-with-javascript-ill)
 - [Lifehacker] [The Essential Guide to Super Bowl LVI for Those Who Are Clueless](https://lifehacker.com/the-essential-guide-to-super-bowl-lvi-for-those-who-are-1848500134)
 - [Dev.to/JS] [O que é o &quot;is&quot; no TypeScript?](https://dev.to/fdaciuk/o-que-e-o-is-no-typescript-2g4m)
 - [Lifehacker] [The Quickest, Easiest Foods to Eat for Long-Lasting Energy](https://lifehacker.com/the-quickest-easiest-foods-to-eat-for-long-lasting-ene-1848499597)
@@ -38,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Countdown Timer using JavaScript](https://dev.to/shantanu_jana/how-to-build-a-countdown-timer-using-javascript-4f4h)
 - [Lifehacker] [How to Keep Little Kids Occupied During the Super Bowl](https://lifehacker.com/how-to-keep-little-kids-occupied-during-the-super-bowl-1848494883)
 - [Lifehacker] [21 Romantic Movies for Lovers Who Love Love](https://lifehacker.com/21-romantic-movies-for-lovers-who-love-love-1848489603)
-- [Dev.to/JS] [Proxy and Reflect in Javascript | Part 2](https://dev.to/vtechguys/proxy-and-reflect-in-javascript-part-2-37l1)
-- [Dev.to/JS] [ES6: Default parameters explained](https://dev.to/naftalimurgor/es6-default-parameters-explained-5eob)
-- [Dev.to/JS] [Proxy in JavaScript | Part 1](https://dev.to/vtechguys/proxy-in-javascript-part-1-1ndp)
 - [Lifehacker] [What Are &#39;Smishing Attacks&#39;? &lpar;And How to Avoid Them&rpar;](https://lifehacker.com/what-are-smishing-attacks-and-how-to-avoid-them-1848495597)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Lifehacker] [How to &lpar;Safely&rpar; Score Super Bowl LVI Tickets](https://lifehacker.com/how-to-safely-score-super-bowl-lv-tickets-1848498571)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 VR Fighting Games That Might Finally Teach You How to Fight](https://lifehacker.com/11-vr-fighting-games-that-might-finally-teach-you-how-t-1848483812)
 - [Lifehacker] [Does Rice Water Really Make Your Hair Grow?](https://lifehacker.com/does-rice-water-really-make-your-hair-grow-1848484522)
 - [Lifehacker] [13 of the Worst Films From Oscar-Winning Directors &lpar;and What to Watch Instead&rpar;](https://lifehacker.com/13-of-the-worst-films-from-oscar-winning-directors-and-1848474772)
-- [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
