@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Choose the Right Cryptocurrency Wallet](https://lifehacker.com/how-to-choose-the-right-cryptocurrency-wallet-1848482354)
+- [Dev.to/JS] [Creating a game in Three.js](https://dev.to/logrocket/creating-a-game-in-threejs-2hi5)
+- [Dev.to/JS] [How  to host Nextjs website on cpanel](https://dev.to/beyond5575/how-to-host-nextjs-website-on-cpanel-2dij)
+- [Lifehacker] [10 ‘Healthy’ Super Bowl Snacks to Add to Your Spread of Fried Goodness](https://lifehacker.com/10-healthy-super-bowl-snacks-to-add-to-your-spread-of-1848494202)
+- [Dev.to/JS] [More time saved, for free - with Nx Cloud 🎉](https://dev.to/nrwl/more-time-saved-for-free-with-nx-cloud-4a2j)
+- [Dev.to/JS] [DAY-19 : Training at Ryaz](https://dev.to/mahin651/day-19-training-at-ryaz-1om)
+- [Dev.to/JS] [How to Build a Countdown Timer using JavaScript](https://dev.to/shantanu_jana/how-to-build-a-countdown-timer-using-javascript-4f4h)
 - [Lifehacker] [How to Keep Little Kids Occupied During the Super Bowl](https://lifehacker.com/how-to-keep-little-kids-occupied-during-the-super-bowl-1848494883)
 - [Lifehacker] [21 Romantic Movies for Lovers Who Love Love](https://lifehacker.com/21-romantic-movies-for-lovers-who-love-love-1848489603)
 - [Dev.to/JS] [Proxy and Reflect in Javascript | Part 2](https://dev.to/vtechguys/proxy-and-reflect-in-javascript-part-2-37l1)
@@ -33,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clear reply to Prank master](https://dev.to/techpoint4/clear-reply-to-prank-master-3jm2)
 - [Dev.to/JS] [howto remove an eventListener](https://dev.to/frankwisniewski/howto-remove-an-eventlistener-cea)
 - [Lifehacker] [What Are &#39;Smishing Attacks&#39;? &lpar;And How to Avoid Them&rpar;](https://lifehacker.com/what-are-smishing-attacks-and-how-to-avoid-them-1848495597)
-- [Dev.to/JS] [What is JavaScript String charAt&lpar;&rpar; and charCodeAt&lpar;&rpar;](https://dev.to/raisan_jmr_/what-is-javascript-string-charat-and-charcodeat-2dm3)
-- [Dev.to/JS] [&quot;this&quot; in JS](https://dev.to/jayzho/this-in-js-5d32)
-- [Dev.to/JS] [How To Add Authentication &amp; Secure HarperDB APIs Using SuperTokens in Your React App](https://dev.to/tyaga001/how-to-add-authentication-secure-harperdb-apis-using-supertokens-in-your-react-app-g2m)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Lifehacker] [How to &lpar;Safely&rpar; Score Super Bowl LVI Tickets](https://lifehacker.com/how-to-safely-score-super-bowl-lv-tickets-1848498571)
-- [Dev.to/JS] [CSS variables vs ThemeContext](https://dev.to/vtechguys/css-variables-vs-themecontext-o44)
-- [Dev.to/JS] [Manage your Astro site&#39;s content with Git-based Netlify CMS](https://dev.to/aftabbuddy/manage-your-astro-sites-content-with-git-based-netlify-cms-17a0)
 - [Lifehacker] [10 Ways You’re Not Using Focus on iPhone, But Should Be](https://lifehacker.com/10-ways-you-re-not-using-focus-on-iphone-but-should-be-1848497964)
 - [Lifehacker] [You Can Finally Use Face ID Without Removing Your Mask](https://lifehacker.com/you-can-finally-use-face-id-without-removing-your-mask-1848494233)
 - [Lifehacker] [How to Give Your Wing Sauce Deeper Flavor With Browned Butter](https://lifehacker.com/how-to-give-your-wing-sauce-deeper-flavor-with-browned-1848495876)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
 - [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
-- [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
-- [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
