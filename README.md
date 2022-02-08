@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Browser-Game with Solidity, JS, BSC, NodeJS, Hardhat , Chainlink](https://dev.to/luislucena16/browser-game-with-solidity-js-bsc-nodejs-hardhat-chainlink-1pma)
 - [Dev.to/JS] [TDD - Create tests that make sense](https://dev.to/livanytavares/tdd-create-tests-that-make-sense-3mj8)
 - [Dev.to/JS] [tsParticles 1.40.2 Released](https://dev.to/matteobruni/tsparticles-1402-released-2enk)
 - [Dev.to/JS] [When to use higher-order components in React](https://dev.to/propelauth/when-to-use-higher-order-components-in-react-18k0)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shoe Discord Bot](https://dev.to/lucaargentieri/shoe-discord-bot-390j)
 - [Dev.to/JS] [Creating My First API Javascript Webpage](https://dev.to/flugelg/creating-my-first-api-javascript-webpage-l0b)
 - [Lifehacker] [The Top 5 Ways You&#39;re Most Likely to Die](https://lifehacker.com/the-top-5-ways-youre-most-likely-to-die-1848494095)
-- [Dev.to/JS] [Why Most Wordle Clones are Wrong!](https://dev.to/denvercoder1/why-most-wordle-clones-are-wrong-390c)
 - [Lifehacker] [How to Survive a Deadly Tornado](https://lifehacker.com/how-to-survive-a-deadly-tornado-1848493459)
 - [Lifehacker] [Your Super Bowl Party Needs Tender Miso Steak Bites](https://lifehacker.com/your-super-bowl-party-needs-tender-miso-steak-bites-1848493012)
 - [Lifehacker] [How to Stop Your Contacts From Finding Your Twitter Profile](https://lifehacker.com/how-to-stop-your-contacts-from-finding-your-twitter-pro-1848491997)
