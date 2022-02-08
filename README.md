@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Write Cleaner React code](https://dev.to/adityatyagi/how-to-write-cleaner-react-code-3af5)
+- [Dev.to/JS] [Python - Comment convertir le texte en discours](https://dev.to/thecodeteacher/python-comment-convertir-le-texte-en-discours-5hf4)
+- [Dev.to/JS] [Best Programming Practicing Resources](https://dev.to/nibodhdaware/best-programming-practicing-resources-2jpc)
 - [Dev.to/JS] [Email Password Authentication using Firebase in React Native](https://dev.to/zolomohan/react-native-firebase-email-password-authentication-3889)
 - [Dev.to/JS] [easy user UI login validation](https://dev.to/alguercode/easy-user-ui-login-validation-2m02)
 - [Dev.to/JS] [Tips and Tricks to Level Up Your ReactJS Web Development in 2022](https://dev.to/itsmekrishlee/tips-and-tricks-to-level-up-your-reactjs-web-development-in-2022-3d7l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is Turborepo overhyped?](https://dev.to/tolgee_i18n/is-turborepo-overhyped-416n)
 - [Dev.to/JS] [Basics of Node.js &amp; Express. Creating your first Node.js website.](https://dev.to/jub0t/basics-of-nodejs-express-creating-your-first-nodejs-website-1k8l)
 - [Dev.to/JS] [TAKE YOUR FIRST STEPS TOWARDS BECOMING A FRONTEND DEVELOPER](https://dev.to/programamkenya/take-your-first-steps-towards-becoming-a-frontend-developer-323n)
-- [Dev.to/JS] [Hawkeye CBD gummies - Pain Relief Results, Benefits, Reviews And Ingredients?](https://dev.to/hawkeyecbdfact/hawkeye-cbd-gummies-pain-relief-results-benefits-reviews-and-ingredients-12de)
-- [Dev.to/JS] [White Label the Payload CMS Admin UI](https://dev.to/payloadcms/white-label-the-payload-cms-admin-ui-52hh)
-- [Dev.to/JS] [Hexadecimal to decimal converter in JS](https://dev.to/mallaya_mathur/hexadecimal-to-decimal-converter-in-js-13k4)
 - [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
