@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Ultimate Personal Website 👨‍💻 Fully Functional Windows 10 Clone](https://dev.to/dustinbrett/the-ultimate-personal-website-fully-functional-windows-10-clone-52im)
 - [Dev.to/JS] [How to build a carousel image slider with swiper.js](https://dev.to/anjan18/how-to-build-a-carousel-image-slider-with-swiperjs-3o6o)
 - [Dev.to/JS] [Browser-Game with Solidity, JS, BSC, NodeJS, Hardhat , Chainlink](https://dev.to/luislucena16/browser-game-with-solidity-js-bsc-nodejs-hardhat-chainlink-1pma)
 - [Dev.to/JS] [TDD - Create tests that make sense](https://dev.to/livanytavares/tdd-create-tests-that-make-sense-3mj8)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
 - [Dev.to/JS] [Vue Tip / Same component, different route](https://dev.to/erefor/vue-tip-same-component-different-route-4fme)
-- [Dev.to/JS] [Shoe Discord Bot](https://dev.to/lucaargentieri/shoe-discord-bot-390j)
 - [Lifehacker] [The Top 5 Ways You&#39;re Most Likely to Die](https://lifehacker.com/the-top-5-ways-youre-most-likely-to-die-1848494095)
 - [Lifehacker] [How to Survive a Deadly Tornado](https://lifehacker.com/how-to-survive-a-deadly-tornado-1848493459)
 - [Lifehacker] [Your Super Bowl Party Needs Tender Miso Steak Bites](https://lifehacker.com/your-super-bowl-party-needs-tender-miso-steak-bites-1848493012)
