@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Essential Guide to Super Bowl LVI for Those Who Are Clueless](https://lifehacker.com/the-essential-guide-to-super-bowl-lvi-for-those-who-are-1848500134)
+- [Dev.to/JS] [O que é o &quot;is&quot; no TypeScript?](https://dev.to/fdaciuk/o-que-e-o-is-no-typescript-2g4m)
+- [Lifehacker] [The Quickest, Easiest Foods to Eat for Long-Lasting Energy](https://lifehacker.com/the-quickest-easiest-foods-to-eat-for-long-lasting-ene-1848499597)
+- [Dev.to/JS] [Why&amp;how To Blog - 10 Ways Developers Make Money Coding Course - E06](https://dev.to/danfleser/whyhow-to-blog-10-ways-developers-make-money-coding-course-e06-1gf)
+- [Dev.to/JS] [JavaScript Array Methods](https://dev.to/magnuspedro/javascript-array-methods-4o6g)
+- [Dev.to/JS] [Best JavaScript Framework Alternatives to Open Source](https://dev.to/ideradevtools/best-javascript-framework-alternatives-to-open-source-5ehd)
 - [Lifehacker] [How to Choose the Right Cryptocurrency Wallet](https://lifehacker.com/how-to-choose-the-right-cryptocurrency-wallet-1848482354)
 - [Dev.to/JS] [Creating a game in Three.js](https://dev.to/logrocket/creating-a-game-in-threejs-2hi5)
 - [Dev.to/JS] [How  to host Nextjs website on cpanel](https://dev.to/beyond5575/how-to-host-nextjs-website-on-cpanel-2dij)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Proxy and Reflect in Javascript | Part 2](https://dev.to/vtechguys/proxy-and-reflect-in-javascript-part-2-37l1)
 - [Dev.to/JS] [ES6: Default parameters explained](https://dev.to/naftalimurgor/es6-default-parameters-explained-5eob)
 - [Dev.to/JS] [Proxy in JavaScript | Part 1](https://dev.to/vtechguys/proxy-in-javascript-part-1-1ndp)
-- [Dev.to/JS] [ES6: Rest parameters](https://dev.to/naftalimurgor/es6-rest-parameters-19ei)
-- [Dev.to/JS] [Should you default to React.memo&lpar;&rpar; or useMemo&lpar;&rpar;?](https://dev.to/vtechguys/should-you-default-to-reactmemo-or-usememo-10bd)
-- [Dev.to/JS] [Clear reply to Prank master](https://dev.to/techpoint4/clear-reply-to-prank-master-3jm2)
-- [Dev.to/JS] [howto remove an eventListener](https://dev.to/frankwisniewski/howto-remove-an-eventlistener-cea)
 - [Lifehacker] [What Are &#39;Smishing Attacks&#39;? &lpar;And How to Avoid Them&rpar;](https://lifehacker.com/what-are-smishing-attacks-and-how-to-avoid-them-1848495597)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Lifehacker] [How to &lpar;Safely&rpar; Score Super Bowl LVI Tickets](https://lifehacker.com/how-to-safely-score-super-bowl-lv-tickets-1848498571)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Does Rice Water Really Make Your Hair Grow?](https://lifehacker.com/does-rice-water-really-make-your-hair-grow-1848484522)
 - [Lifehacker] [13 of the Worst Films From Oscar-Winning Directors &lpar;and What to Watch Instead&rpar;](https://lifehacker.com/13-of-the-worst-films-from-oscar-winning-directors-and-1848474772)
 - [Lifehacker] [How to Add Perlite to Your Soil &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-add-perlite-to-your-soil-and-when-you-should-1848477041)
-- [Lifehacker] [How to Measure Ice Accumulation &lpar;Because It&#39;s Different From Snow&rpar;](https://lifehacker.com/how-to-measure-ice-accumulation-because-its-different-1848477062)
-- [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
