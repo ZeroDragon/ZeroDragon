@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Html5 Canvas Drag And Drop](https://dev.to/spsoi/html5-canvas-drag-and-drop-592i)
+- [Dev.to/JS] [Paracetamol.js💊| #48: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-48-explica-este-codigo-javascript-1f7m)
+- [Dev.to/JS] [Feedback to Tech_ed](https://dev.to/keshav44483499/feedback-to-teched-2o58)
+- [Lifehacker] [You Can Finally Use Face ID Without Removing Your Mask](https://lifehacker.com/you-can-finally-use-face-id-without-removing-your-mask-1848494233)
+- [Dev.to/JS] [Top 5 programming languages for 2022](https://dev.to/alltimedev/top-5-programming-languages-for-2022-8cg)
 - [Lifehacker] [How to Give Your Wing Sauce Deeper Flavor With Browned Butter](https://lifehacker.com/how-to-give-your-wing-sauce-deeper-flavor-with-browned-1848495876)
 - [Dev.to/JS] [Matrix Rain](https://dev.to/israelouteiro/matrix-rain-24o4)
 - [Lifehacker] [15 Smarter Ways You Should Be Using Baking Soda](https://lifehacker.com/15-smarter-ways-you-should-be-using-baking-soda-1848491125)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The useState Hook!](https://dev.to/davidecannerozzi/the-usestate-hook-471b)
 - [Dev.to/JS] [AirBnb Online exp Clone](https://dev.to/morta/airbnb-online-exp-clone-6f5)
 - [Dev.to/JS] [Build a Rock-Paper-Scissors-Lizard-Spock game](https://dev.to/pujakundu/build-a-rock-paper-scissors-lizard-spock-game-22n8)
-- [Dev.to/JS] [30 games you can play to learn to code](https://dev.to/geektechpub/30-games-you-can-play-to-learn-to-code-4lc0)
-- [Dev.to/JS] [Day 94 of 100 Days of Code &amp; Scrum: Moving to MySQL](https://dev.to/rammina/day-94-of-100-days-of-code-scrum-moving-to-mysql-1ee0)
-- [Dev.to/JS] [This is why your Node.js application is slow](https://dev.to/imichaelowolabi/this-is-why-your-nodejs-application-is-slow-206j)
-- [Dev.to/JS] [Web Console Helpers make dev life bit easier 🐥](https://dev.to/rajeshroyal/web-console-helpers-make-dev-life-bit-easier-1hlf)
 - [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know About Your Next Side Hustle](https://lifehacker.com/everything-you-need-to-know-about-your-next-side-hustle-1848482413)
 - [Lifehacker] [How to Use Your AirPods’ Hidden ‘Reset’ Feature When They Refuse to Cooperate](https://lifehacker.com/how-to-use-your-airpods-hidden-reset-feature-when-th-1848481632)
 - [Lifehacker] [Get Weird With the Age of Aquarius Cocktail](https://lifehacker.com/get-weird-with-the-age-of-aquarius-cocktail-1848481214)
-- [Lifehacker] [Make Instagram Less Terrible on the Web With These Chrome Extensions](https://lifehacker.com/make-instagram-less-terrible-on-the-web-with-these-chro-1848479619)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
