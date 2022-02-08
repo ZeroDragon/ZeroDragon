@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hexadecimal to decimal converter in JS](https://dev.to/mallaya_mathur/hexadecimal-to-decimal-converter-in-js-13k4)
+- [Dev.to/JS] [Make your form to work perfectly with Telegram](https://dev.to/yogeshwaran01/make-contact-form-to-work-2fld)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 32](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-32-on3)
 - [Dev.to/JS] [The Ultimate Personal Website 👨‍💻 Fully Functional Windows 10 Clone](https://dev.to/dustinbrett/the-ultimate-personal-website-fully-functional-windows-10-clone-52im)
 - [Dev.to/JS] [How to build a carousel image slider with swiper.js](https://dev.to/anjan18/how-to-build-a-carousel-image-slider-with-swiperjs-3o6o)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Icelite purchased NT Games for $500 USD](https://dev.to/icelite/icelite-purchased-nt-games-for-500-usd-127g)
 - [Dev.to/JS] [What is Object oriented programming sef?](https://dev.to/danities316/what-is-object-oriented-programming-sef-1m1k)
 - [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
-- [Dev.to/JS] [Seleccionar a Tus Amigos en Facebook de Manera Automática](https://dev.to/monyinet/seleccionar-a-tus-amigos-en-facebook-de-manera-automatica-5emb)
-- [Dev.to/JS] [Explaining First Class Functions in Javascript](https://dev.to/lachouri/explaining-first-class-functions-in-javascript-2mop)
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
 - [Lifehacker] [The Top 5 Ways You&#39;re Most Likely to Die](https://lifehacker.com/the-top-5-ways-youre-most-likely-to-die-1848494095)
