@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
+- [Lifehacker] [Do You Really Have to Join the HOA?](https://lifehacker.com/do-you-really-have-to-join-the-hoa-1848500704)
+- [Lifehacker] [How to Install Xbox Game Pass Games in a Custom Folder on Your PC](https://lifehacker.com/how-to-install-xbox-game-pass-games-in-a-custom-folder-1848499110)
 - [Dev.to/JS] [How to create a Zendesk ticket from a contact form using REST API with JavaScript](https://dev.to/abdulrahman_sk/how-to-create-a-zendesk-ticket-from-a-contact-form-using-rest-api-with-javascript-2147)
 - [Lifehacker] [The Best Things to Do If You Don&#39;t Care About the Super Bowl](https://lifehacker.com/the-best-things-to-do-if-you-dont-care-about-the-super-1848482420)
 - [Dev.to/JS] [Testing of JavaScript Actions](https://dev.to/cardinalby/testing-of-javascript-actions-20a6)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Your Contacts From Finding Your Twitter Profile](https://lifehacker.com/how-to-stop-your-contacts-from-finding-your-twitter-pro-1848491997)
 - [Lifehacker] [How to Tell If a Steam Game Will Eat Up Too Much Storage](https://lifehacker.com/how-to-tell-if-a-steam-game-will-eat-up-too-much-storag-1848490551)
 - [Lifehacker] [Everything You Should Do Now to Plan for a Winter Weather Blackout](https://lifehacker.com/everything-you-should-do-now-to-plan-for-a-winter-weath-1848490402)
-- [Lifehacker] [11 VR Fighting Games That Might Finally Teach You How to Fight](https://lifehacker.com/11-vr-fighting-games-that-might-finally-teach-you-how-t-1848483812)
-- [Lifehacker] [Does Rice Water Really Make Your Hair Grow?](https://lifehacker.com/does-rice-water-really-make-your-hair-grow-1848484522)
-- [Lifehacker] [13 of the Worst Films From Oscar-Winning Directors &lpar;and What to Watch Instead&rpar;](https://lifehacker.com/13-of-the-worst-films-from-oscar-winning-directors-and-1848474772)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
