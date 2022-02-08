@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arrow Functions - When and When not to use them ?](https://dev.to/thenerdydev/arrow-functions-when-and-when-not-to-use-them-a7k)
 - [Dev.to/JS] [Basics of Node.js &amp; Express. Creating your first Node.js website.](https://dev.to/jub0t/basics-of-nodejs-express-creating-your-first-nodejs-website-1k8l)
 - [Dev.to/JS] [TAKE YOUR FIRST STEPS TOWARDS BECOMING A FRONTEND DEVELOPER](https://dev.to/programamkenya/take-your-first-steps-towards-becoming-a-frontend-developer-323n)
 - [Dev.to/JS] [Hawkeye CBD gummies - Pain Relief Results, Benefits, Reviews And Ingredients?](https://dev.to/hawkeyecbdfact/hawkeye-cbd-gummies-pain-relief-results-benefits-reviews-and-ingredients-12de)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build a carousel image slider with swiper.js](https://dev.to/anjan18/how-to-build-a-carousel-image-slider-with-swiperjs-3o6o)
 - [Dev.to/JS] [Browser-Game with Solidity, JS, BSC, NodeJS, Hardhat , Chainlink](https://dev.to/luislucena16/browser-game-with-solidity-js-bsc-nodejs-hardhat-chainlink-1pma)
 - [Dev.to/JS] [TDD - Create tests that make sense](https://dev.to/livanytavares/tdd-create-tests-that-make-sense-3mj8)
-- [Dev.to/JS] [tsParticles 1.40.2 Released](https://dev.to/matteobruni/tsparticles-1402-released-2enk)
 - [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
