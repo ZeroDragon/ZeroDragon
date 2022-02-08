@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep Little Kids Occupied During the Super Bowl](https://lifehacker.com/how-to-keep-little-kids-occupied-during-the-super-bowl-1848494883)
+- [Lifehacker] [21 Romantic Movies for Lovers Who Love Love](https://lifehacker.com/21-romantic-movies-for-lovers-who-love-love-1848489603)
+- [Dev.to/JS] [Proxy and Reflect in Javascript | Part 2](https://dev.to/vtechguys/proxy-and-reflect-in-javascript-part-2-37l1)
+- [Dev.to/JS] [ES6: Default parameters explained](https://dev.to/naftalimurgor/es6-default-parameters-explained-5eob)
+- [Dev.to/JS] [Proxy in JavaScript | Part 1](https://dev.to/vtechguys/proxy-in-javascript-part-1-1ndp)
+- [Dev.to/JS] [ES6: Rest parameters](https://dev.to/naftalimurgor/es6-rest-parameters-19ei)
+- [Dev.to/JS] [Should you default to React.memo&lpar;&rpar; or useMemo&lpar;&rpar;?](https://dev.to/vtechguys/should-you-default-to-reactmemo-or-usememo-10bd)
+- [Dev.to/JS] [Clear reply to Prank master](https://dev.to/techpoint4/clear-reply-to-prank-master-3jm2)
+- [Dev.to/JS] [howto remove an eventListener](https://dev.to/frankwisniewski/howto-remove-an-eventlistener-cea)
 - [Lifehacker] [What Are &#39;Smishing Attacks&#39;? &lpar;And How to Avoid Them&rpar;](https://lifehacker.com/what-are-smishing-attacks-and-how-to-avoid-them-1848495597)
 - [Dev.to/JS] [What is JavaScript String charAt&lpar;&rpar; and charCodeAt&lpar;&rpar;](https://dev.to/raisan_jmr_/what-is-javascript-string-charat-and-charcodeat-2dm3)
 - [Dev.to/JS] [&quot;this&quot; in JS](https://dev.to/jayzho/this-in-js-5d32)
@@ -31,17 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to &lpar;Safely&rpar; Score Super Bowl LVI Tickets](https://lifehacker.com/how-to-safely-score-super-bowl-lv-tickets-1848498571)
 - [Dev.to/JS] [CSS variables vs ThemeContext](https://dev.to/vtechguys/css-variables-vs-themecontext-o44)
 - [Dev.to/JS] [Manage your Astro site&#39;s content with Git-based Netlify CMS](https://dev.to/aftabbuddy/manage-your-astro-sites-content-with-git-based-netlify-cms-17a0)
-- [Dev.to/JS] [Here&#39;s Why You Need Easy Page Builder](https://dev.to/abhiavsnet/heres-why-you-need-easy-page-builder-30kn)
 - [Lifehacker] [10 Ways You’re Not Using Focus on iPhone, But Should Be](https://lifehacker.com/10-ways-you-re-not-using-focus-on-iphone-but-should-be-1848497964)
-- [Dev.to/JS] [Html5 Canvas Drag And Drop](https://dev.to/spsoi/html5-canvas-drag-and-drop-592i)
-- [Dev.to/JS] [Paracetamol.js💊| #48: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-48-explica-este-codigo-javascript-1f7m)
-- [Dev.to/JS] [Feedback to Tech_ed](https://dev.to/keshav44483499/feedback-to-teched-2o58)
 - [Lifehacker] [You Can Finally Use Face ID Without Removing Your Mask](https://lifehacker.com/you-can-finally-use-face-id-without-removing-your-mask-1848494233)
-- [Dev.to/JS] [Top 5 programming languages for 2022](https://dev.to/alltimedev/top-5-programming-languages-for-2022-8cg)
 - [Lifehacker] [How to Give Your Wing Sauce Deeper Flavor With Browned Butter](https://lifehacker.com/how-to-give-your-wing-sauce-deeper-flavor-with-browned-1848495876)
-- [Dev.to/JS] [Matrix Rain](https://dev.to/israelouteiro/matrix-rain-24o4)
 - [Lifehacker] [15 Smarter Ways You Should Be Using Baking Soda](https://lifehacker.com/15-smarter-ways-you-should-be-using-baking-soda-1848491125)
-- [Dev.to/JS] [Step Functions para no morir. Parte 2](https://dev.to/giulianaolmos/step-functions-para-no-morir-parte-2-21e1)
 - [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Remove Split Ends at Home When You Can&#39;t Get to a Professional](https://lifehacker.com/how-to-remove-split-ends-at-home-when-you-cant-get-to-a-1848476525)
 - [Lifehacker] [The Most Expensive States for Home Maintenance](https://lifehacker.com/the-most-expensive-states-for-home-maintenance-1848476549)
 - [Lifehacker] [How to Recognize the Stages of Frostbite, and When to Get Help](https://lifehacker.com/how-to-recognize-the-stages-of-frostbite-and-when-to-g-1848476581)
-- [Lifehacker] [Give Your Veggies a Hot-Wing Vibe With This Buffalo Vinaigrette](https://lifehacker.com/give-your-veggies-a-hot-wing-vibe-with-this-buffalo-vin-1848484090)
-- [Lifehacker] [Why Pixel 6 Users Should Turn Off Google Photos’ Automatic Updates Right Now](https://lifehacker.com/why-pixel-6-users-should-turn-off-google-photos-automa-1848481912)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
