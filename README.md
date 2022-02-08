@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jenkins Pipeline Tutorial | Jenkins Tutorial | Part VIII](https://dev.to/lambdatest/jenkins-pipeline-tutorial-jenkins-tutorial-part-viii-1f6)
+- [Dev.to/JS] [Don&#39;t use explicit const in global scope of JavaScript](https://dev.to/projektorius96/dont-use-explicit-const-in-global-scope-of-javascript-3epi)
+- [Dev.to/JS] [Announcing ToolJet 1.0 - separating the platform from the product](https://dev.to/tooljet/announcing-tooljet-10-separating-the-platform-from-the-product-2324)
 - [Dev.to/JS] [How to Write Cleaner React code](https://dev.to/adityatyagi/how-to-write-cleaner-react-code-3af5)
 - [Dev.to/JS] [Python - Comment convertir le texte en discours](https://dev.to/thecodeteacher/python-comment-convertir-le-texte-en-discours-5hf4)
 - [Dev.to/JS] [Best Programming Practicing Resources](https://dev.to/nibodhdaware/best-programming-practicing-resources-2jpc)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#06&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-06-1k09)
 - [Dev.to/JS] [Some reasons for disliking react hooks](https://dev.to/danrot90/some-reasons-for-disliking-react-hooks-15bh)
 - [Dev.to/JS] [Arrow Functions - When and When not to use them ?](https://dev.to/thenerdydev/arrow-functions-when-and-when-not-to-use-them-a7k)
-- [Dev.to/JS] [Is Turborepo overhyped?](https://dev.to/tolgee_i18n/is-turborepo-overhyped-416n)
-- [Dev.to/JS] [Basics of Node.js &amp; Express. Creating your first Node.js website.](https://dev.to/jub0t/basics-of-nodejs-express-creating-your-first-nodejs-website-1k8l)
-- [Dev.to/JS] [TAKE YOUR FIRST STEPS TOWARDS BECOMING A FRONTEND DEVELOPER](https://dev.to/programamkenya/take-your-first-steps-towards-becoming-a-frontend-developer-323n)
 - [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
