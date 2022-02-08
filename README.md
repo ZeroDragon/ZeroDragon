@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Give Your Wing Sauce Deeper Flavor With Browned Butter](https://lifehacker.com/how-to-give-your-wing-sauce-deeper-flavor-with-browned-1848495876)
+- [Dev.to/JS] [Matrix Rain](https://dev.to/israelouteiro/matrix-rain-24o4)
+- [Lifehacker] [15 Smarter Ways You Should Be Using Baking Soda](https://lifehacker.com/15-smarter-ways-you-should-be-using-baking-soda-1848491125)
+- [Dev.to/JS] [Step Functions para no morir. Parte 2](https://dev.to/giulianaolmos/step-functions-para-no-morir-parte-2-21e1)
+- [Dev.to/JS] [New in JavaScript: reportError – a method to report to global event handlers](https://dev.to/stefanjudis/new-in-javascript-reporterror-a-method-to-report-to-global-event-handlers-e4i)
+- [Dev.to/JS] [14. Factories and Classes](https://dev.to/moyedx3/14-factories-and-classes-3hg6)
+- [Dev.to/JS] [Hi guys, good morning! I&#39;m starting in the programming area, and I&#39;m creating on my GitHub 🎈](https://dev.to/deboragoncalves1/hi-guys-good-morning-im-starting-in-the-programming-area-and-im-creating-on-my-github-1i6j)
 - [Dev.to/JS] [The useState Hook!](https://dev.to/davidecannerozzi/the-usestate-hook-471b)
 - [Dev.to/JS] [AirBnb Online exp Clone](https://dev.to/morta/airbnb-online-exp-clone-6f5)
 - [Dev.to/JS] [Build a Rock-Paper-Scissors-Lizard-Spock game](https://dev.to/pujakundu/build-a-rock-paper-scissors-lizard-spock-game-22n8)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 94 of 100 Days of Code &amp; Scrum: Moving to MySQL](https://dev.to/rammina/day-94-of-100-days-of-code-scrum-moving-to-mysql-1ee0)
 - [Dev.to/JS] [This is why your Node.js application is slow](https://dev.to/imichaelowolabi/this-is-why-your-nodejs-application-is-slow-206j)
 - [Dev.to/JS] [Web Console Helpers make dev life bit easier 🐥](https://dev.to/rajeshroyal/web-console-helpers-make-dev-life-bit-easier-1hlf)
-- [Dev.to/JS] [Jenkins Pipeline Tutorial | Jenkins Tutorial | Part VIII](https://dev.to/lambdatest/jenkins-pipeline-tutorial-jenkins-tutorial-part-viii-1f6)
-- [Dev.to/JS] [Don&#39;t use explicit const in global scope of JavaScript](https://dev.to/projektorius96/dont-use-explicit-const-in-global-scope-of-javascript-3epi)
-- [Dev.to/JS] [Announcing ToolJet 1.0 - separating the platform from the product](https://dev.to/tooljet/announcing-tooljet-10-separating-the-platform-from-the-product-2324)
-- [Dev.to/JS] [How to Write Cleaner React code](https://dev.to/adityatyagi/how-to-write-cleaner-react-code-3af5)
-- [Dev.to/JS] [Python - Comment convertir le texte en discours](https://dev.to/thecodeteacher/python-comment-convertir-le-texte-en-discours-5hf4)
 - [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Your AirPods’ Hidden ‘Reset’ Feature When They Refuse to Cooperate](https://lifehacker.com/how-to-use-your-airpods-hidden-reset-feature-when-th-1848481632)
 - [Lifehacker] [Get Weird With the Age of Aquarius Cocktail](https://lifehacker.com/get-weird-with-the-age-of-aquarius-cocktail-1848481214)
 - [Lifehacker] [Make Instagram Less Terrible on the Web With These Chrome Extensions](https://lifehacker.com/make-instagram-less-terrible-on-the-web-with-these-chro-1848479619)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are &#39;Alpha&#39; Males Trending on TikTok?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-a-1848479421)
-- [Lifehacker] [How Much RAM Is Enough RAM in 2022?](https://lifehacker.com/how-much-ram-is-enough-ram-in-2022-1848475998)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)<!-- TECH-POSTS:END -->
