@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TDD - Create tests that make sense](https://dev.to/livanytavares/tdd-create-tests-that-make-sense-3mj8)
+- [Dev.to/JS] [tsParticles 1.40.2 Released](https://dev.to/matteobruni/tsparticles-1402-released-2enk)
 - [Dev.to/JS] [When to use higher-order components in React](https://dev.to/propelauth/when-to-use-higher-order-components-in-react-18k0)
 - [Dev.to/JS] [Modeling Data In Quasar Like A BOOOSS With VuexOrm](https://dev.to/quasar/modeling-data-in-quasar-like-a-boooss-with-vuexorm-45mh)
 - [Dev.to/JS] [Icelite purchased NT Games for $500 USD](https://dev.to/icelite/icelite-purchased-nt-games-for-500-usd-127g)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating My First API Javascript Webpage](https://dev.to/flugelg/creating-my-first-api-javascript-webpage-l0b)
 - [Lifehacker] [The Top 5 Ways You&#39;re Most Likely to Die](https://lifehacker.com/the-top-5-ways-youre-most-likely-to-die-1848494095)
 - [Dev.to/JS] [Why Most Wordle Clones are Wrong!](https://dev.to/denvercoder1/why-most-wordle-clones-are-wrong-390c)
-- [Dev.to/JS] [Image Uploader Challenge](https://dev.to/nisabmohd/image-uploader-challenge-4cd9)
-- [Dev.to/JS] [Preventing GraphQL batching attacks](https://dev.to/ivandotv/preventing-graphql-batching-attacks-56o3)
 - [Lifehacker] [How to Survive a Deadly Tornado](https://lifehacker.com/how-to-survive-a-deadly-tornado-1848493459)
 - [Lifehacker] [Your Super Bowl Party Needs Tender Miso Steak Bites](https://lifehacker.com/your-super-bowl-party-needs-tender-miso-steak-bites-1848493012)
 - [Lifehacker] [How to Stop Your Contacts From Finding Your Twitter Profile](https://lifehacker.com/how-to-stop-your-contacts-from-finding-your-twitter-pro-1848491997)
