@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basics of Node.js &amp; Express. Creating your first Node.js website.](https://dev.to/jub0t/basics-of-nodejs-express-creating-your-first-nodejs-website-1k8l)
+- [Dev.to/JS] [TAKE YOUR FIRST STEPS TOWARDS BECOMING A FRONTEND DEVELOPER](https://dev.to/programamkenya/take-your-first-steps-towards-becoming-a-frontend-developer-323n)
+- [Dev.to/JS] [Hawkeye CBD gummies - Pain Relief Results, Benefits, Reviews And Ingredients?](https://dev.to/hawkeyecbdfact/hawkeye-cbd-gummies-pain-relief-results-benefits-reviews-and-ingredients-12de)
+- [Dev.to/JS] [White Label the Payload CMS Admin UI](https://dev.to/payloadcms/white-label-the-payload-cms-admin-ui-52hh)
 - [Dev.to/JS] [Hexadecimal to decimal converter in JS](https://dev.to/mallaya_mathur/hexadecimal-to-decimal-converter-in-js-13k4)
 - [Dev.to/JS] [Make your form to work perfectly with Telegram](https://dev.to/yogeshwaran01/make-contact-form-to-work-2fld)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 32](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-32-on3)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Browser-Game with Solidity, JS, BSC, NodeJS, Hardhat , Chainlink](https://dev.to/luislucena16/browser-game-with-solidity-js-bsc-nodejs-hardhat-chainlink-1pma)
 - [Dev.to/JS] [TDD - Create tests that make sense](https://dev.to/livanytavares/tdd-create-tests-that-make-sense-3mj8)
 - [Dev.to/JS] [tsParticles 1.40.2 Released](https://dev.to/matteobruni/tsparticles-1402-released-2enk)
-- [Dev.to/JS] [When to use higher-order components in React](https://dev.to/propelauth/when-to-use-higher-order-components-in-react-18k0)
-- [Dev.to/JS] [Modeling Data In Quasar Like A BOOOSS With VuexOrm](https://dev.to/quasar/modeling-data-in-quasar-like-a-boooss-with-vuexorm-45mh)
-- [Dev.to/JS] [Icelite purchased NT Games for $500 USD](https://dev.to/icelite/icelite-purchased-nt-games-for-500-usd-127g)
-- [Dev.to/JS] [What is Object oriented programming sef?](https://dev.to/danities316/what-is-object-oriented-programming-sef-1m1k)
 - [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
