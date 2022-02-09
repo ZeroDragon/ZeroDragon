@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Keep These Common Super Bowl Snacks Away From Your Dog](https://lifehacker.com/keep-these-common-super-bowl-snacks-away-from-your-dog-1848507551)
+- [Dev.to/JS] [How to Create Custom ESLint Rules &lpar;It&#39;s Not as Hard as You Think...&rpar;](https://dev.to/bitovi/how-to-create-custom-eslint-rules-its-not-as-hard-as-you-think-3f9f)
+- [Dev.to/JS] [What is an API? &lpar;beginner friendly with no code&rpar;](https://dev.to/anthonyjdella/what-is-an-api-beginner-friendly-with-no-code-j7n)
+- [Dev.to/JS] [Fiscal years and how JavaScript is wrong about months](https://dev.to/aha/fiscal-years-and-how-javascript-is-wrong-about-months-47ao)
+- [Lifehacker] [5 Inventive Ways to Reuse K-Cups](https://lifehacker.com/5-inventive-ways-to-reuse-k-cups-1848506513)
+- [Lifehacker] [How to Stop Your Kid From Spitting](https://lifehacker.com/how-to-stop-your-kid-from-spitting-1848506470)
+- [Dev.to/JS] [How I built a &quot;Text to Handwriting Converter&quot; ✍️](https://dev.to/fatihtelis/how-i-built-a-text-to-handwriting-converter-2mf)
+- [Dev.to/JS] [Why are there so many articles on map, filter, and reduce?](https://dev.to/sethcalebweeks/why-are-there-so-many-articles-on-map-filter-and-reduce-4n1f)
 - [Dev.to/JS] [The Simple Way to Remove JS Console Logs in Production](https://dev.to/kevinlien/the-simple-way-to-remove-js-console-logs-in-production-ene)
 - [Lifehacker] [Are You Normal, or Do You Have a Favorite Way of Opening an Envelope?](https://lifehacker.com/are-you-normal-or-do-you-have-a-favorite-way-of-openin-1848507412)
 - [Dev.to/JS] [Step-by-step: How to Create a Vue Multi-Language App with Vue-i18n](https://dev.to/flycode/step-by-step-how-to-create-a-vue-multi-language-app-with-vue-i18n-b5c)
@@ -33,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Report Companies That Make It Harder to Cancel Than to Sign Up](https://lifehacker.com/you-should-report-companies-that-make-it-harder-to-canc-1848506399)
 - [Dev.to/JS] [🌟new schema builder and data validation library🌟](https://dev.to/alguercode/new-schema-builder-and-data-validation-library-23c3)
 - [Dev.to/JS] [awesome npm packages for data validation and parsing&lpar;user login validation&rpar;](https://dev.to/alguercode/awesome-npm-packages-for-data-validation-and-parsinguser-login-validation-2ih)
-- [Dev.to/JS] [Backstage on the revamp of our Admin to become #1 on PH and GitHub Trending](https://dev.to/medusajs/backstage-on-the-revamp-of-our-admin-to-become-1-on-ph-and-github-trending-14ob)
-- [Dev.to/JS] [Day-20 Training at Ryaz](https://dev.to/mahin651/day-20-training-at-ryaz-3hb1)
 - [Lifehacker] [Proven Ways to Treat a Sore Throat &lpar;and the Internet Myths That Don&#39;t Actually Work&rpar;](https://lifehacker.com/proven-ways-to-treat-a-sore-throat-and-the-internet-my-1848506244)
-- [Dev.to/JS] [Announcing Stylo - Another Kind Of Rich Text Editor](https://dev.to/daviddalbusco/announcing-stylo-another-kind-of-rich-text-editor-2c06)
-- [Dev.to/JS] [QuickSort Algorithm Simplified](https://dev.to/wonexo/quicksort-algorithm-simplified-5ep3)
 - [Lifehacker] [2-Ingredient Cocktail Cherries Are the Perfect Last-Minute Valentine&#39;s Day Gift](https://lifehacker.com/2-ingredient-cocktail-cherries-are-the-perfect-last-min-1848503933)
 - [Lifehacker] [Is the Crypto Bubble Going to Burst?](https://lifehacker.com/is-the-crypto-bubble-going-to-burst-1848475768)
-- [Dev.to/JS] [What would your tech stack of choice be for a new web dev project?](https://dev.to/ben/what-would-your-tech-stack-of-choice-be-for-a-new-web-dev-project-1mpm)
 - [Lifehacker] [You Can Now Pin Important Apps to the Screen in Windows](https://lifehacker.com/you-can-now-pin-important-apps-to-the-screen-in-windows-1848505336)
 - [Lifehacker] [30 Movies Up for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [How to Get Your Tax Refund as Fast as Possible This Year](https://lifehacker.com/how-to-get-your-tax-refund-as-fast-as-possible-this-yea-1848500370)
@@ -57,10 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Right Cryptocurrency Wallet](https://lifehacker.com/how-to-choose-the-right-cryptocurrency-wallet-1848482354)
 - [Lifehacker] [10 ‘Healthy’ Super Bowl Snacks to Add to Your Spread of Fried Goodness](https://lifehacker.com/10-healthy-super-bowl-snacks-to-add-to-your-spread-of-1848494202)
 - [Lifehacker] [How to Keep Little Kids Occupied During the Super Bowl](https://lifehacker.com/how-to-keep-little-kids-occupied-during-the-super-bowl-1848494883)
-- [Lifehacker] [21 Romantic Movies for Lovers Who Love Love](https://lifehacker.com/21-romantic-movies-for-lovers-who-love-love-1848489603)
-- [Lifehacker] [What Are &#39;Smishing Attacks&#39;? &lpar;And How to Avoid Them&rpar;](https://lifehacker.com/what-are-smishing-attacks-and-how-to-avoid-them-1848495597)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
-- [Lifehacker] [How to &lpar;Safely&rpar; Score Super Bowl LVI Tickets](https://lifehacker.com/how-to-safely-score-super-bowl-lv-tickets-1848498571)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
