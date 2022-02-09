@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Jackfruit Is Way More Than a Meat Alternative](https://lifehacker.com/jackfruit-is-way-more-than-a-meat-alternative-1848497365)
+- [Dev.to/JS] [Paracetamol.js💊| #49: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-49-explica-este-codigo-javascript-3nom)
+- [Dev.to/JS] [🎬Login &amp; Registration Form Using HTML &amp; CSS &amp; JS✨](https://dev.to/robsonmuniz16/login-registration-form-using-html-css-js-5331)
+- [Lifehacker] [12 of the Most Disgusting Habits a Partner Can Have, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-disgusting-habits-a-partner-can-have-ac-1848480217)
+- [Dev.to/JS] [Cross Browser Testing With LambdaTest Jenkins Plugin | Jenkins Tutorial | Part IX](https://dev.to/lambdatest/cross-browser-testing-with-lambdatest-jenkins-plugin-jenkins-tutorial-part-ix-1of9)
+- [Dev.to/JS] [How Can We Extend Kafka Topic Modeling with Diffusion?](https://dev.to/push_technology/extend-kafka-topic-modeling-with-diffusion-1m4a)
 - [Dev.to/JS] [How to create typewriter effect with JavaScript](https://dev.to/thatanjan/how-to-create-typewriter-effect-with-javascript-2fll)
 - [Dev.to/JS] [Bidding farewell to Appwrite&#39;s Tasks Service 👋](https://dev.to/appwrite/bidding-farewell-to-appwrites-tasks-service-2396)
 - [Dev.to/JS] [Find Value at Key](https://dev.to/aasthatalwaria/find-value-at-key-40am)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Front-end developer 🤓 Challenge🚀](https://dev.to/rajeshj3/front-end-developer-challenge-5a31)
 - [Dev.to/JS] [HTML5 Javascript Canvas Gravity](https://dev.to/spsoi/html5-javascript-canvas-gravity-1cm0)
 - [Dev.to/JS] [Print a page with JS in the background](https://dev.to/kristofg/print-a-page-with-iframe-in-the-background-2i4h)
-- [Dev.to/JS] [Do we have any alternative for dangerouslySetInnerHTML in reactjs?](https://dev.to/prasannavenkatesh08/do-we-have-any-alternative-for-dangerouslysetinnerhtml-in-reactjs-3j6n)
-- [Dev.to/JS] [React Fragments: What and Why](https://dev.to/santan21/react-fragments-what-and-why-5fe6)
-- [Dev.to/JS] [FullStack JWT Auth: Diving into SvelteKit - Layout and Logout](https://dev.to/sirneij/fullstack-jwt-diving-into-sveltekit-layout-and-logout-1ok3)
-- [Dev.to/JS] [How to build a powerful email tool on SendGrid to engage all event registrants](https://dev.to/gayatrisachdev1/how-to-build-a-powerful-email-tool-on-sendgrid-to-engage-all-event-registrants-3e3h)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
 - [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
 - [Lifehacker] [The Top 5 Ways You&#39;re Most Likely to Die](https://lifehacker.com/the-top-5-ways-youre-most-likely-to-die-1848494095)
 - [Lifehacker] [How to Survive a Deadly Tornado](https://lifehacker.com/how-to-survive-a-deadly-tornado-1848493459)
-- [Lifehacker] [Your Super Bowl Party Needs Tender Miso Steak Bites](https://lifehacker.com/your-super-bowl-party-needs-tender-miso-steak-bites-1848493012)
-- [Lifehacker] [How to Stop Your Contacts From Finding Your Twitter Profile](https://lifehacker.com/how-to-stop-your-contacts-from-finding-your-twitter-pro-1848491997)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
