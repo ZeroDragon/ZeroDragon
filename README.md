@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day-20 Training at Ryaz](https://dev.to/mahin651/day-20-training-at-ryaz-3hb1)
+- [Lifehacker] [Proven Ways to Treat a Sore Throat &lpar;and the Internet Myths That Don&#39;t Actually Work&rpar;](https://lifehacker.com/proven-ways-to-treat-a-sore-throat-and-the-internet-my-1848506244)
+- [Dev.to/JS] [Announcing Stylo - Another Kind Of Rich Text Editor](https://dev.to/daviddalbusco/announcing-stylo-another-kind-of-rich-text-editor-2c06)
+- [Dev.to/JS] [QuickSort Algorithm Simplified](https://dev.to/wonexo/quicksort-algorithm-simplified-5ep3)
+- [Lifehacker] [2-Ingredient Cocktail Cherries Are the Perfect Last-Minute Valentine&#39;s Day Gift](https://lifehacker.com/2-ingredient-cocktail-cherries-are-the-perfect-last-min-1848503933)
 - [Lifehacker] [Is the Crypto Bubble Going to Burst?](https://lifehacker.com/is-the-crypto-bubble-going-to-burst-1848475768)
 - [Dev.to/JS] [What would your tech stack of choice be for a new web dev project?](https://dev.to/ben/what-would-your-tech-stack-of-choice-be-for-a-new-web-dev-project-1mpm)
 - [Dev.to/JS] [Animando elementos ao rolar a página com o scrollReveal](https://dev.to/uitalorss/animando-elementos-ao-rolar-a-pagina-com-o-scrollreveal-3b8e)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Here&#39;s How The US Navy Can Help Your Internet Business](https://dev.to/abhiavsnet/heres-how-the-us-navy-can-help-your-internet-business-4892)
 - [Dev.to/JS] [Function Arguments Object in JS and how to use it](https://dev.to/ommyjay/function-arguments-object-in-js-and-how-to-use-it-3lpc)
 - [Lifehacker] [Jackfruit Is Way More Than a Meat Alternative](https://lifehacker.com/jackfruit-is-way-more-than-a-meat-alternative-1848497365)
-- [Dev.to/JS] [Paracetamol.js💊| #49: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-49-explica-este-codigo-javascript-3nom)
-- [Dev.to/JS] [🎬Login &amp; Registration Form Using HTML &amp; CSS &amp; JS✨](https://dev.to/robsonmuniz16/login-registration-form-using-html-css-js-5331)
 - [Lifehacker] [12 of the Most Disgusting Habits a Partner Can Have, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-disgusting-habits-a-partner-can-have-ac-1848480217)
-- [Dev.to/JS] [Cross Browser Testing With LambdaTest Jenkins Plugin | Jenkins Tutorial | Part IX](https://dev.to/lambdatest/cross-browser-testing-with-lambdatest-jenkins-plugin-jenkins-tutorial-part-ix-1of9)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
 - [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Ways You’re Not Using Focus on iPhone, But Should Be](https://lifehacker.com/10-ways-you-re-not-using-focus-on-iphone-but-should-be-1848497964)
 - [Lifehacker] [You Can Finally Use Face ID Without Removing Your Mask](https://lifehacker.com/you-can-finally-use-face-id-without-removing-your-mask-1848494233)
 - [Lifehacker] [How to Give Your Wing Sauce Deeper Flavor With Browned Butter](https://lifehacker.com/how-to-give-your-wing-sauce-deeper-flavor-with-browned-1848495876)
-- [Lifehacker] [15 Smarter Ways You Should Be Using Baking Soda](https://lifehacker.com/15-smarter-ways-you-should-be-using-baking-soda-1848491125)
-- [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
