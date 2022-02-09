@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Create a mock server](https://dev.to/drsimplegraffiti/create-a-mock-server-39d0)
+- [Lifehacker] [Is the Crypto Bubble Going to Burst?](https://lifehacker.com/is-the-crypto-bubble-going-to-burst-1848475768)
+- [Dev.to/JS] [What would your tech stack of choice be for a new web dev project?](https://dev.to/ben/what-would-your-tech-stack-of-choice-be-for-a-new-web-dev-project-1mpm)
+- [Dev.to/JS] [Animando elementos ao rolar a página com o scrollReveal](https://dev.to/uitalorss/animando-elementos-ao-rolar-a-pagina-com-o-scrollreveal-3b8e)
+- [Dev.to/JS] [Setting Up a Typescript Project using NPM](https://dev.to/hima_khaitan/setting-up-a-typescript-project-using-npm-4p86)
+- [Lifehacker] [You Can Now Pin Important Apps to the Screen in Windows](https://lifehacker.com/you-can-now-pin-important-apps-to-the-screen-in-windows-1848505336)
+- [Dev.to/JS] [How React components work?](https://dev.to/fromaline/how-react-components-work-520f)
+- [Dev.to/JS] [Building a block-breaking game with Kaboom.js](https://dev.to/ritza/building-a-block-breaking-game-with-kaboomjs-g31)
+- [Lifehacker] [30 Movies Up for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
+- [Dev.to/JS] [Create a mock server and Dockerize it](https://dev.to/drsimplegraffiti/create-a-mock-server-39d0)
 - [Lifehacker] [How to Get Your Tax Refund as Fast as Possible This Year](https://lifehacker.com/how-to-get-your-tax-refund-as-fast-as-possible-this-yea-1848500370)
 - [Dev.to/JS] [Top 6 Features in React](https://dev.to/mwanyumba7/top-6-features-in-react-3b18)
 - [Dev.to/JS] [Here&#39;s How The US Navy Can Help Your Internet Business](https://dev.to/abhiavsnet/heres-how-the-us-navy-can-help-your-internet-business-4892)
@@ -33,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎬Login &amp; Registration Form Using HTML &amp; CSS &amp; JS✨](https://dev.to/robsonmuniz16/login-registration-form-using-html-css-js-5331)
 - [Lifehacker] [12 of the Most Disgusting Habits a Partner Can Have, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-disgusting-habits-a-partner-can-have-ac-1848480217)
 - [Dev.to/JS] [Cross Browser Testing With LambdaTest Jenkins Plugin | Jenkins Tutorial | Part IX](https://dev.to/lambdatest/cross-browser-testing-with-lambdatest-jenkins-plugin-jenkins-tutorial-part-ix-1of9)
-- [Dev.to/JS] [How Can We Extend Kafka Topic Modeling with Diffusion?](https://dev.to/push_technology/extend-kafka-topic-modeling-with-diffusion-1m4a)
-- [Dev.to/JS] [How to create typewriter effect with JavaScript](https://dev.to/thatanjan/how-to-create-typewriter-effect-with-javascript-2fll)
-- [Dev.to/JS] [Bidding farewell to Appwrite&#39;s Tasks Service 👋](https://dev.to/appwrite/bidding-farewell-to-appwrites-tasks-service-2396)
-- [Dev.to/JS] [Find Value at Key](https://dev.to/aasthatalwaria/find-value-at-key-40am)
-- [Dev.to/JS] [5 Strange Things You Can Do With Python](https://dev.to/elliot_brenyasarfo_18749/5-strange-things-you-can-do-with-python-251g)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
 - [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Give Your Wing Sauce Deeper Flavor With Browned Butter](https://lifehacker.com/how-to-give-your-wing-sauce-deeper-flavor-with-browned-1848495876)
 - [Lifehacker] [15 Smarter Ways You Should Be Using Baking Soda](https://lifehacker.com/15-smarter-ways-you-should-be-using-baking-soda-1848491125)
 - [Lifehacker] [Here’s How Much Sex &lpar;and What Kind&rpar; Everybody Is Having](https://lifehacker.com/here-s-how-much-sex-everybody-is-having-1795561168)
-- [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
-- [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
-- [Lifehacker] [The Top 5 Ways You&#39;re Most Likely to Die](https://lifehacker.com/the-top-5-ways-youre-most-likely-to-die-1848494095)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
