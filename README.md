@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning PHP, JavaScript, WordPress theming &amp; the WP REST API to Create Custom &amp; Interactive WordPress Websites](https://dev.to/hendrix01/learning-php-javascript-wordpress-theming-the-wp-rest-api-to-create-custom-interactive-wordpress-websites-391j)
+- [Dev.to/JS] [Getting started with docker](https://dev.to/ks1912/getting-started-with-docker-34g6)
 - [Dev.to/JS] [A simple way to handle errors in Express.js](https://dev.to/andersonjoseph/a-simple-way-to-handle-errors-in-expressjs-ooo)
 - [Dev.to/JS] [Basic Syntax of JavaScript](https://dev.to/elinabey/basic-syntax-of-javascript-561l)
 - [Dev.to/JS] [Type Checking in React](https://dev.to/a7m3d000/checking-props-type-in-react-js-2oa8)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Install Xbox Game Pass Games in a Custom Folder on Your PC](https://lifehacker.com/how-to-install-xbox-game-pass-games-in-a-custom-folder-1848499110)
 - [Dev.to/JS] [How to create a Zendesk ticket from a contact form using REST API with JavaScript](https://dev.to/abdulrahman_sk/how-to-create-a-zendesk-ticket-from-a-contact-form-using-rest-api-with-javascript-2147)
 - [Lifehacker] [The Best Things to Do If You Don&#39;t Care About the Super Bowl](https://lifehacker.com/the-best-things-to-do-if-you-dont-care-about-the-super-1848482420)
-- [Dev.to/JS] [Testing of JavaScript Actions](https://dev.to/cardinalby/testing-of-javascript-actions-20a6)
-- [Dev.to/JS] [How to add or update a Mailchimp subscriber using REST API with JavaScript](https://dev.to/abdulrahman_sk/how-to-add-or-update-a-mailchimp-subscriber-using-rest-api-with-javascript-ill)
 - [Lifehacker] [The Essential Guide to Super Bowl LVI for Those Who Are Clueless](https://lifehacker.com/the-essential-guide-to-super-bowl-lvi-for-those-who-are-1848500134)
 - [Lifehacker] [The Quickest, Easiest Foods to Eat for Long-Lasting Energy](https://lifehacker.com/the-quickest-easiest-foods-to-eat-for-long-lasting-ene-1848499597)
 - [Lifehacker] [How to Choose the Right Cryptocurrency Wallet](https://lifehacker.com/how-to-choose-the-right-cryptocurrency-wallet-1848482354)
