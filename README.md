@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 95 of 100 Days of Code &amp; Scrum: CRUD Operations in MySQL](https://dev.to/rammina/day-95-of-100-days-of-code-scrum-crud-operations-in-mysql-17aa)
+- [Dev.to/JS] [This Week In React #93: Server Components, Remix, Gatsby, React-Native-Web, Perf, Immutability, Stately, TypeScript, Deno...](https://dev.to/sebastienlorber/this-week-in-react-93-server-components-remix-gatsby-react-native-web-perf-immutability-stately-typescript-deno-2o1)
+- [Dev.to/JS] [Creating a Read Progress Bar in React and TailwindCSS](https://dev.to/anshuman_bhardwaj/creating-a-read-progress-bar-in-react-and-tailwindcss-g1n)
 - [Dev.to/JS] [Comprehensive React UI Components Library](https://dev.to/vorg/comprehensive-react-ui-components-library-34o2)
+- [Dev.to/JS] [Evident Audit - A community that builds](https://dev.to/hima_khaitan/evident-audit-a-community-that-builds-18d1)
 - [Dev.to/JS] [Tips for the BP interview process](https://dev.to/ashikarose/tips-for-the-bp-interview-process-168c)
 - [Dev.to/JS] [Viagra over the counter](https://dev.to/emasodavich/viagra-over-the-counter-3fja)
 - [Dev.to/JS] [Frontend Mentor - Space Tourism](https://dev.to/nabillatrisnani/frontend-mentor-space-tourism-19ap)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FullStack JWT: Introducing SvelteKit](https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn)
 - [Dev.to/JS] [Total Keto 365 - Weight Loss Pills, Price, Complaints And side Effects?](https://dev.to/totalketo365pi1/total-keto-365-weight-loss-pills-price-complaints-and-side-effects-3en)
 - [Dev.to/JS] [¿Por qué usamos empaquetadores de JavaScript?](https://dev.to/conoce-dev/por-que-usamos-empaquetadores-de-javascript-5b6c)
-- [Dev.to/JS] [Fetch Jokes story from Joke API](https://dev.to/trandainien/fetch-jokes-story-from-joke-api-f8b)
-- [Dev.to/JS] [Why do we use JavaScript bundlers?](https://dev.to/how-to-dev/why-do-we-use-javascript-bundlers-3e60)
-- [Dev.to/JS] [Po co nam bundlery JavaScript](https://dev.to/poznaj-dev/po-co-nam-bundlery-javascript-2jee)
-- [Dev.to/JS] [Prop Types](https://dev.to/sujon554/prop-types-388m)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
 - [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
