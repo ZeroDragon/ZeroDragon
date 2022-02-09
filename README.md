@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build Airbnb Front End](https://dev.to/seth_king/how-to-build-airbnb-front-end-4kbc)
+- [Dev.to/JS] [Monorepo Javascript Projects with Yarn Workspaces and Lerna](https://dev.to/honeybadger/monorepo-javascript-projects-with-yarn-workspaces-and-lerna-30gl)
+- [Dev.to/JS] [Strapi Market: the official plugin marketplace is live](https://dev.to/strapi/strapi-market-the-official-plugin-marketplace-is-live-1c2m)
+- [Dev.to/JS] [How JavaScript Works?](https://dev.to/iamrishupatel/how-javascript-works-2h55)
 - [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
 - [Dev.to/JS] [Get hourly data from Coingecko API](https://dev.to/antooni/get-hourly-data-from-coingecko-api-226f)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
@@ -37,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fiscal years and how JavaScript is wrong about months](https://dev.to/aha/fiscal-years-and-how-javascript-is-wrong-about-months-47ao)
 - [Lifehacker] [5 Inventive Ways to Reuse K-Cups](https://lifehacker.com/5-inventive-ways-to-reuse-k-cups-1848506513)
 - [Lifehacker] [How to Stop Your Kid From Spitting](https://lifehacker.com/how-to-stop-your-kid-from-spitting-1848506470)
-- [Dev.to/JS] [How I built a &quot;Text to Handwriting Converter&quot; ✍️](https://dev.to/fatihtelis/how-i-built-a-text-to-handwriting-converter-2mf)
-- [Dev.to/JS] [Why are there so many articles on map, filter, and reduce?](https://dev.to/sethcalebweeks/why-are-there-so-many-articles-on-map-filter-and-reduce-4n1f)
-- [Dev.to/JS] [The Simple Way to Remove JS Console Logs in Production](https://dev.to/kevinlien/the-simple-way-to-remove-js-console-logs-in-production-ene)
 - [Lifehacker] [Are You Normal, or Do You Have a Favorite Way of Opening an Envelope?](https://lifehacker.com/are-you-normal-or-do-you-have-a-favorite-way-of-openin-1848507412)
-- [Dev.to/JS] [Step-by-step: How to Create a Vue Multi-Language App with Vue-i18n](https://dev.to/flycode/step-by-step-how-to-create-a-vue-multi-language-app-with-vue-i18n-b5c)
 - [Lifehacker] [How to Stencil Your Ceiling &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stencil-your-ceiling-and-why-you-should-1848505031)
 - [Lifehacker] [You Should Report Companies That Make It Harder to Cancel Than to Sign Up](https://lifehacker.com/you-should-report-companies-that-make-it-harder-to-canc-1848506399)
 - [Lifehacker] [Proven Ways to Treat a Sore Throat &lpar;and the Internet Myths That Don&#39;t Actually Work&rpar;](https://lifehacker.com/proven-ways-to-treat-a-sore-throat-and-the-internet-my-1848506244)
