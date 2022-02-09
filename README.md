@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stencil Your Ceiling &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stencil-your-ceiling-and-why-you-should-1848505031)
+- [Dev.to/JS] [I Created my Personal Website](https://dev.to/adhnanshereef/i-created-my-personal-website-aj0)
+- [Dev.to/JS] [Fix your Express error handling now](https://dev.to/pr0gramista/fix-your-express-error-handling-now-4h2l)
+- [Lifehacker] [You Should Report Companies That Make It Harder to Cancel Than to Sign Up](https://lifehacker.com/you-should-report-companies-that-make-it-harder-to-canc-1848506399)
+- [Dev.to/JS] [🌟new schema builder and data validation library🌟](https://dev.to/alguercode/new-schema-builder-and-data-validation-library-23c3)
+- [Dev.to/JS] [awesome npm packages for data validation and parsing&lpar;user login validation&rpar;](https://dev.to/alguercode/awesome-npm-packages-for-data-validation-and-parsinguser-login-validation-2ih)
+- [Dev.to/JS] [Backstage on the revamp of our Admin to become #1 on PH and GitHub Trending](https://dev.to/medusajs/backstage-on-the-revamp-of-our-admin-to-become-1-on-ph-and-github-trending-14ob)
 - [Dev.to/JS] [Day-20 Training at Ryaz](https://dev.to/mahin651/day-20-training-at-ryaz-3hb1)
 - [Lifehacker] [Proven Ways to Treat a Sore Throat &lpar;and the Internet Myths That Don&#39;t Actually Work&rpar;](https://lifehacker.com/proven-ways-to-treat-a-sore-throat-and-the-internet-my-1848506244)
 - [Dev.to/JS] [Announcing Stylo - Another Kind Of Rich Text Editor](https://dev.to/daviddalbusco/announcing-stylo-another-kind-of-rich-text-editor-2c06)
@@ -34,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting Up a Typescript Project using NPM](https://dev.to/hima_khaitan/setting-up-a-typescript-project-using-npm-4p86)
 - [Lifehacker] [You Can Now Pin Important Apps to the Screen in Windows](https://lifehacker.com/you-can-now-pin-important-apps-to-the-screen-in-windows-1848505336)
 - [Dev.to/JS] [How React components work?](https://dev.to/fromaline/how-react-components-work-520f)
-- [Dev.to/JS] [Building a block-breaking game with Kaboom.js](https://dev.to/ritza/building-a-block-breaking-game-with-kaboomjs-g31)
 - [Lifehacker] [30 Movies Up for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
-- [Dev.to/JS] [Create a mock server and Dockerize it](https://dev.to/drsimplegraffiti/create-a-mock-server-39d0)
 - [Lifehacker] [How to Get Your Tax Refund as Fast as Possible This Year](https://lifehacker.com/how-to-get-your-tax-refund-as-fast-as-possible-this-yea-1848500370)
-- [Dev.to/JS] [Top 6 Features in React](https://dev.to/mwanyumba7/top-6-features-in-react-3b18)
-- [Dev.to/JS] [Here&#39;s How The US Navy Can Help Your Internet Business](https://dev.to/abhiavsnet/heres-how-the-us-navy-can-help-your-internet-business-4892)
-- [Dev.to/JS] [Function Arguments Object in JS and how to use it](https://dev.to/ommyjay/function-arguments-object-in-js-and-how-to-use-it-3lpc)
 - [Lifehacker] [Jackfruit Is Way More Than a Meat Alternative](https://lifehacker.com/jackfruit-is-way-more-than-a-meat-alternative-1848497365)
 - [Lifehacker] [12 of the Most Disgusting Habits a Partner Can Have, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-disgusting-habits-a-partner-can-have-ac-1848480217)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Lifehacker] [How to &lpar;Safely&rpar; Score Super Bowl LVI Tickets](https://lifehacker.com/how-to-safely-score-super-bowl-lv-tickets-1848498571)
 - [Lifehacker] [10 Ways You’re Not Using Focus on iPhone, But Should Be](https://lifehacker.com/10-ways-you-re-not-using-focus-on-iphone-but-should-be-1848497964)
-- [Lifehacker] [You Can Finally Use Face ID Without Removing Your Mask](https://lifehacker.com/you-can-finally-use-face-id-without-removing-your-mask-1848494233)
-- [Lifehacker] [How to Give Your Wing Sauce Deeper Flavor With Browned Butter](https://lifehacker.com/how-to-give-your-wing-sauce-deeper-flavor-with-browned-1848495876)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
