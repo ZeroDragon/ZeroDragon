@@ -25,7 +25,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [A simple way to handle errors in Express.js](https://dev.to/andersonjoseph/a-simple-way-to-handle-errors-in-expressjs-ooo)
 - [Dev.to/JS] [Basic Syntax of JavaScript](https://dev.to/elinabey/basic-syntax-of-javascript-561l)
-- [Dev.to/JS] [Checking Props Type in React JS.](https://dev.to/a7m3d000/checking-props-type-in-react-js-2oa8)
+- [Dev.to/JS] [Type Checking in React](https://dev.to/a7m3d000/checking-props-type-in-react-js-2oa8)
 - [Dev.to/JS] [Completed the JS course of SoloLearn](https://dev.to/nelsonmalbonecoding/completed-the-js-course-of-sololearn-2d5d)
 - [Dev.to/JS] [React Native Cookie Guessing Game](https://dev.to/wgotterer/react-native-cookie-guessing-game-5130)
 - [Dev.to/JS] [10+ New Translations on NT Games](https://dev.to/icelite/10-new-translations-on-nt-games-m36)
