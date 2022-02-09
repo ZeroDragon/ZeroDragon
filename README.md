@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10+ New Translations on NT Games](https://dev.to/icelite/10-new-translations-on-nt-games-m36)
+- [Dev.to/JS] [Microservices, Kubernetes and Docker](https://dev.to/zizdepski/microservices-kubernetes-and-docker-2l2)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
 - [Dev.to/JS] [Why an array is an object in JavaScript?](https://dev.to/fromaline/why-an-array-is-an-object-in-javascript-4bh6)
 - [Dev.to/JS] [A new tech ideas community](https://dev.to/seedacquire/a-new-tech-ideas-community-2dla)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best JavaScript Framework Alternatives to Open Source](https://dev.to/ideradevtools/best-javascript-framework-alternatives-to-open-source-5ehd)
 - [Lifehacker] [How to Choose the Right Cryptocurrency Wallet](https://lifehacker.com/how-to-choose-the-right-cryptocurrency-wallet-1848482354)
 - [Dev.to/JS] [Creating a game in Three.js](https://dev.to/logrocket/creating-a-game-in-threejs-2hi5)
-- [Dev.to/JS] [How  to host Nextjs website on cpanel](https://dev.to/beyond5575/how-to-host-nextjs-website-on-cpanel-2dij)
 - [Lifehacker] [10 ‘Healthy’ Super Bowl Snacks to Add to Your Spread of Fried Goodness](https://lifehacker.com/10-healthy-super-bowl-snacks-to-add-to-your-spread-of-1848494202)
-- [Dev.to/JS] [More time saved, for free - with Nx Cloud 🎉](https://dev.to/nrwl/more-time-saved-for-free-with-nx-cloud-4a2j)
 - [Lifehacker] [How to Keep Little Kids Occupied During the Super Bowl](https://lifehacker.com/how-to-keep-little-kids-occupied-during-the-super-bowl-1848494883)
 - [Lifehacker] [21 Romantic Movies for Lovers Who Love Love](https://lifehacker.com/21-romantic-movies-for-lovers-who-love-love-1848489603)
 - [Lifehacker] [What Are &#39;Smishing Attacks&#39;? &lpar;And How to Avoid Them&rpar;](https://lifehacker.com/what-are-smishing-attacks-and-how-to-avoid-them-1848495597)
