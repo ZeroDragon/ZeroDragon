@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Checking Props Type in React JS.](https://dev.to/a7m3d000/checking-props-type-in-react-js-2oa8)
+- [Dev.to/JS] [Completed the JS course of SoloLearn](https://dev.to/nelsonmalbonecoding/completed-the-js-course-of-sololearn-2d5d)
+- [Dev.to/JS] [React Native Cookie Guessing Game](https://dev.to/wgotterer/react-native-cookie-guessing-game-5130)
 - [Dev.to/JS] [10+ New Translations on NT Games](https://dev.to/icelite/10-new-translations-on-nt-games-m36)
 - [Dev.to/JS] [Microservices, Kubernetes and Docker](https://dev.to/zizdepski/microservices-kubernetes-and-docker-2l2)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
@@ -40,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [O que é o &quot;is&quot; no TypeScript?](https://dev.to/fdaciuk/o-que-e-o-is-no-typescript-2g4m)
 - [Lifehacker] [The Quickest, Easiest Foods to Eat for Long-Lasting Energy](https://lifehacker.com/the-quickest-easiest-foods-to-eat-for-long-lasting-ene-1848499597)
 - [Dev.to/JS] [Why&amp;how To Blog - 10 Ways Developers Make Money Coding Course - E06](https://dev.to/danfleser/whyhow-to-blog-10-ways-developers-make-money-coding-course-e06-1gf)
-- [Dev.to/JS] [JavaScript Array Methods](https://dev.to/magnuspedro/javascript-array-methods-4o6g)
-- [Dev.to/JS] [Best JavaScript Framework Alternatives to Open Source](https://dev.to/ideradevtools/best-javascript-framework-alternatives-to-open-source-5ehd)
 - [Lifehacker] [How to Choose the Right Cryptocurrency Wallet](https://lifehacker.com/how-to-choose-the-right-cryptocurrency-wallet-1848482354)
-- [Dev.to/JS] [Creating a game in Three.js](https://dev.to/logrocket/creating-a-game-in-threejs-2hi5)
 - [Lifehacker] [10 ‘Healthy’ Super Bowl Snacks to Add to Your Spread of Fried Goodness](https://lifehacker.com/10-healthy-super-bowl-snacks-to-add-to-your-spread-of-1848494202)
 - [Lifehacker] [How to Keep Little Kids Occupied During the Super Bowl](https://lifehacker.com/how-to-keep-little-kids-occupied-during-the-super-bowl-1848494883)
 - [Lifehacker] [21 Romantic Movies for Lovers Who Love Love](https://lifehacker.com/21-romantic-movies-for-lovers-who-love-love-1848489603)
