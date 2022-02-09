@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Imagemagik](https://dev.to/lassev05/imagemagik-h7g)
+- [Dev.to/JS] [FullStack JWT: Introducing SvelteKit](https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn)
+- [Dev.to/JS] [Total Keto 365 - Weight Loss Pills, Price, Complaints And side Effects?](https://dev.to/totalketo365pi1/total-keto-365-weight-loss-pills-price-complaints-and-side-effects-3en)
 - [Dev.to/JS] [Fetch Jokes story from Joke API](https://dev.to/trandainien/fetch-jokes-story-from-joke-api-f8b)
 - [Dev.to/JS] [Prop Types](https://dev.to/sujon554/prop-types-388m)
 - [Dev.to/JS] [Learning PHP, JavaScript, WordPress theming &amp; the WP REST API to Create Custom &amp; Interactive WordPress Websites](https://dev.to/hendrix01/learning-php-javascript-wordpress-theming-the-wp-rest-api-to-create-custom-interactive-wordpress-websites-391j)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Type Checking in React](https://dev.to/a7m3d000/checking-props-type-in-react-js-2oa8)
 - [Dev.to/JS] [Completed the JS course of SoloLearn](https://dev.to/nelsonmalbonecoding/completed-the-js-course-of-sololearn-2d5d)
 - [Dev.to/JS] [React Native Cookie Guessing Game](https://dev.to/wgotterer/react-native-cookie-guessing-game-5130)
-- [Dev.to/JS] [10+ New Translations on NT Games](https://dev.to/icelite/10-new-translations-on-nt-games-m36)
-- [Dev.to/JS] [Microservices, Kubernetes and Docker](https://dev.to/zizdepski/microservices-kubernetes-and-docker-2l2)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
-- [Dev.to/JS] [Why an array is an object in JavaScript?](https://dev.to/fromaline/why-an-array-is-an-object-in-javascript-4bh6)
 - [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
 - [Lifehacker] [Do You Really Have to Join the HOA?](https://lifehacker.com/do-you-really-have-to-join-the-hoa-1848500704)
