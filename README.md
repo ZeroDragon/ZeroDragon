@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basic Syntax of JavaScript](https://dev.to/elinabey/basic-syntax-of-javascript-561l)
 - [Dev.to/JS] [Checking Props Type in React JS.](https://dev.to/a7m3d000/checking-props-type-in-react-js-2oa8)
 - [Dev.to/JS] [Completed the JS course of SoloLearn](https://dev.to/nelsonmalbonecoding/completed-the-js-course-of-sololearn-2d5d)
 - [Dev.to/JS] [React Native Cookie Guessing Game](https://dev.to/wgotterer/react-native-cookie-guessing-game-5130)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Essential Guide to Super Bowl LVI for Those Who Are Clueless](https://lifehacker.com/the-essential-guide-to-super-bowl-lvi-for-those-who-are-1848500134)
 - [Dev.to/JS] [O que é o &quot;is&quot; no TypeScript?](https://dev.to/fdaciuk/o-que-e-o-is-no-typescript-2g4m)
 - [Lifehacker] [The Quickest, Easiest Foods to Eat for Long-Lasting Energy](https://lifehacker.com/the-quickest-easiest-foods-to-eat-for-long-lasting-ene-1848499597)
-- [Dev.to/JS] [Why&amp;how To Blog - 10 Ways Developers Make Money Coding Course - E06](https://dev.to/danfleser/whyhow-to-blog-10-ways-developers-make-money-coding-course-e06-1gf)
 - [Lifehacker] [How to Choose the Right Cryptocurrency Wallet](https://lifehacker.com/how-to-choose-the-right-cryptocurrency-wallet-1848482354)
 - [Lifehacker] [10 ‘Healthy’ Super Bowl Snacks to Add to Your Spread of Fried Goodness](https://lifehacker.com/10-healthy-super-bowl-snacks-to-add-to-your-spread-of-1848494202)
 - [Lifehacker] [How to Keep Little Kids Occupied During the Super Bowl](https://lifehacker.com/how-to-keep-little-kids-occupied-during-the-super-bowl-1848494883)
