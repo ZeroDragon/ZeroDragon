@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comprehensive React UI Components Library](https://dev.to/vorg/comprehensive-react-ui-components-library-34o2)
 - [Dev.to/JS] [Tips for the BP interview process](https://dev.to/ashikarose/tips-for-the-bp-interview-process-168c)
 - [Dev.to/JS] [Viagra over the counter](https://dev.to/emasodavich/viagra-over-the-counter-3fja)
 - [Dev.to/JS] [Frontend Mentor - Space Tourism](https://dev.to/nabillatrisnani/frontend-mentor-space-tourism-19ap)
 - [Dev.to/JS] [Imagemagik](https://dev.to/lassev05/imagemagik-h7g)
 - [Dev.to/JS] [FullStack JWT: Introducing SvelteKit](https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn)
 - [Dev.to/JS] [Total Keto 365 - Weight Loss Pills, Price, Complaints And side Effects?](https://dev.to/totalketo365pi1/total-keto-365-weight-loss-pills-price-complaints-and-side-effects-3en)
+- [Dev.to/JS] [¿Por qué usamos empaquetadores de JavaScript?](https://dev.to/conoce-dev/por-que-usamos-empaquetadores-de-javascript-5b6c)
 - [Dev.to/JS] [Fetch Jokes story from Joke API](https://dev.to/trandainien/fetch-jokes-story-from-joke-api-f8b)
 - [Dev.to/JS] [Why do we use JavaScript bundlers?](https://dev.to/how-to-dev/why-do-we-use-javascript-bundlers-3e60)
+- [Dev.to/JS] [Po co nam bundlery JavaScript](https://dev.to/poznaj-dev/po-co-nam-bundlery-javascript-2jee)
 - [Dev.to/JS] [Prop Types](https://dev.to/sujon554/prop-types-388m)
-- [Dev.to/JS] [Learning PHP, JavaScript, WordPress theming &amp; the WP REST API to Create Custom &amp; Interactive WordPress Websites](https://dev.to/hendrix01/learning-php-javascript-wordpress-theming-the-wp-rest-api-to-create-custom-interactive-wordpress-websites-391j)
-- [Dev.to/JS] [Getting started with docker](https://dev.to/ks1912/getting-started-with-docker-34g6)
-- [Dev.to/JS] [A simple way to handle errors in Express.js](https://dev.to/andersonjoseph/a-simple-way-to-handle-errors-in-expressjs-ooo)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
 - [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
