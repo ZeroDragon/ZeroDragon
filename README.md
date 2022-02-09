@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a mock server](https://dev.to/drsimplegraffiti/create-a-mock-server-39d0)
+- [Lifehacker] [How to Get Your Tax Refund as Fast as Possible This Year](https://lifehacker.com/how-to-get-your-tax-refund-as-fast-as-possible-this-yea-1848500370)
+- [Dev.to/JS] [Top 6 Features in React](https://dev.to/mwanyumba7/top-6-features-in-react-3b18)
+- [Dev.to/JS] [Here&#39;s How The US Navy Can Help Your Internet Business](https://dev.to/abhiavsnet/heres-how-the-us-navy-can-help-your-internet-business-4892)
+- [Dev.to/JS] [Function Arguments Object in JS and how to use it](https://dev.to/ommyjay/function-arguments-object-in-js-and-how-to-use-it-3lpc)
 - [Lifehacker] [Jackfruit Is Way More Than a Meat Alternative](https://lifehacker.com/jackfruit-is-way-more-than-a-meat-alternative-1848497365)
 - [Dev.to/JS] [Paracetamol.js💊| #49: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-49-explica-este-codigo-javascript-3nom)
 - [Dev.to/JS] [🎬Login &amp; Registration Form Using HTML &amp; CSS &amp; JS✨](https://dev.to/robsonmuniz16/login-registration-form-using-html-css-js-5331)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bidding farewell to Appwrite&#39;s Tasks Service 👋](https://dev.to/appwrite/bidding-farewell-to-appwrites-tasks-service-2396)
 - [Dev.to/JS] [Find Value at Key](https://dev.to/aasthatalwaria/find-value-at-key-40am)
 - [Dev.to/JS] [5 Strange Things You Can Do With Python](https://dev.to/elliot_brenyasarfo_18749/5-strange-things-you-can-do-with-python-251g)
-- [Dev.to/JS] [AWS Cognito Passwordless Implementation: For Bonus, add Hasura Claims in the Token.](https://dev.to/kevin_odongo35/aws-cognito-passwordless-implementation-for-bonus-add-hasura-claims-in-the-token-5el)
-- [Dev.to/JS] [Front-end developer 🤓 Challenge🚀](https://dev.to/rajeshj3/front-end-developer-challenge-5a31)
-- [Dev.to/JS] [HTML5 Javascript Canvas Gravity](https://dev.to/spsoi/html5-javascript-canvas-gravity-1cm0)
-- [Dev.to/JS] [Print a page with JS in the background](https://dev.to/kristofg/print-a-page-with-iframe-in-the-background-2i4h)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
 - [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much It Costs to Buy a House With Your Friend](https://lifehacker.com/how-much-it-costs-to-buy-a-house-with-your-friend-1848494591)
 - [Lifehacker] [I Am Obsessed With Air-Fried Buffalo Tofu Puffs](https://lifehacker.com/i-am-obsessed-with-air-fried-buffalo-tofu-puffs-1848494566)
 - [Lifehacker] [The Top 5 Ways You&#39;re Most Likely to Die](https://lifehacker.com/the-top-5-ways-youre-most-likely-to-die-1848494095)
-- [Lifehacker] [How to Survive a Deadly Tornado](https://lifehacker.com/how-to-survive-a-deadly-tornado-1848493459)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
