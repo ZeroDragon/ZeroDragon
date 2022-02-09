@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fetch Jokes story from Joke API](https://dev.to/trandainien/fetch-jokes-story-from-joke-api-f8b)
 - [Dev.to/JS] [Prop Types](https://dev.to/sujon554/prop-types-388m)
 - [Dev.to/JS] [Learning PHP, JavaScript, WordPress theming &amp; the WP REST API to Create Custom &amp; Interactive WordPress Websites](https://dev.to/hendrix01/learning-php-javascript-wordpress-theming-the-wp-rest-api-to-create-custom-interactive-wordpress-websites-391j)
 - [Dev.to/JS] [Getting started with docker](https://dev.to/ks1912/getting-started-with-docker-34g6)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Microservices, Kubernetes and Docker](https://dev.to/zizdepski/microservices-kubernetes-and-docker-2l2)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
 - [Dev.to/JS] [Why an array is an object in JavaScript?](https://dev.to/fromaline/why-an-array-is-an-object-in-javascript-4bh6)
-- [Dev.to/JS] [A new tech ideas community](https://dev.to/seedacquire/a-new-tech-ideas-community-2dla)
 - [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
 - [Lifehacker] [Do You Really Have to Join the HOA?](https://lifehacker.com/do-you-really-have-to-join-the-hoa-1848500704)
