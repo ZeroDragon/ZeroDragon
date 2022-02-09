@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
+- [Dev.to/JS] [Get hourly data from Coingecko API](https://dev.to/antooni/get-hourly-data-from-coingecko-api-226f)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
 - [Dev.to/JS] [Integrating socket.io with your Next.js application](https://dev.to/ironcladdev/integrating-socketio-with-your-nextjs-application-31h9)
 - [Dev.to/JS] [Using Alpine&#39;s Persist plugin in a separate JavaScript file](https://dev.to/tylerlwsmith/using-alpines-persist-plugin-in-a-separate-javascript-file-462n)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Simple Way to Remove JS Console Logs in Production](https://dev.to/kevinlien/the-simple-way-to-remove-js-console-logs-in-production-ene)
 - [Lifehacker] [Are You Normal, or Do You Have a Favorite Way of Opening an Envelope?](https://lifehacker.com/are-you-normal-or-do-you-have-a-favorite-way-of-openin-1848507412)
 - [Dev.to/JS] [Step-by-step: How to Create a Vue Multi-Language App with Vue-i18n](https://dev.to/flycode/step-by-step-how-to-create-a-vue-multi-language-app-with-vue-i18n-b5c)
-- [Dev.to/JS] [Adding Dynamic Search Auto-Complete to a web application with NodeJS and React 🔍](https://dev.to/kuvamdazeus/adding-dynamic-search-auto-complete-to-a-web-application-with-nodejs-and-react-2lh4)
 - [Lifehacker] [How to Stencil Your Ceiling &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stencil-your-ceiling-and-why-you-should-1848505031)
 - [Lifehacker] [You Should Report Companies That Make It Harder to Cancel Than to Sign Up](https://lifehacker.com/you-should-report-companies-that-make-it-harder-to-canc-1848506399)
 - [Lifehacker] [Proven Ways to Treat a Sore Throat &lpar;and the Internet Myths That Don&#39;t Actually Work&rpar;](https://lifehacker.com/proven-ways-to-treat-a-sore-throat-and-the-internet-my-1848506244)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Things to Do If You Don&#39;t Care About the Super Bowl](https://lifehacker.com/the-best-things-to-do-if-you-dont-care-about-the-super-1848482420)
 - [Lifehacker] [The Essential Guide to Super Bowl LVI for Those Who Are Clueless](https://lifehacker.com/the-essential-guide-to-super-bowl-lvi-for-those-who-are-1848500134)
 - [Lifehacker] [The Quickest, Easiest Foods to Eat for Long-Lasting Energy](https://lifehacker.com/the-quickest-easiest-foods-to-eat-for-long-lasting-ene-1848499597)
-- [Lifehacker] [How to Choose the Right Cryptocurrency Wallet](https://lifehacker.com/how-to-choose-the-right-cryptocurrency-wallet-1848482354)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
