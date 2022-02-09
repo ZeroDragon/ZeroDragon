@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Simple Way to Remove JS Console Logs in Production](https://dev.to/kevinlien/the-simple-way-to-remove-js-console-logs-in-production-ene)
+- [Lifehacker] [Are You Normal, or Do You Have a Favorite Way of Opening an Envelope?](https://lifehacker.com/are-you-normal-or-do-you-have-a-favorite-way-of-openin-1848507412)
+- [Dev.to/JS] [Step-by-step: How to Create a Vue Multi-Language App with Vue-i18n](https://dev.to/flycode/step-by-step-how-to-create-a-vue-multi-language-app-with-vue-i18n-b5c)
+- [Dev.to/JS] [Adding Dynamic Search Auto-Complete to a web application with NodeJS and React 🔍](https://dev.to/kuvamdazeus/adding-dynamic-search-auto-complete-to-a-web-application-with-nodejs-and-react-2lh4)
 - [Lifehacker] [How to Stencil Your Ceiling &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stencil-your-ceiling-and-why-you-should-1848505031)
 - [Dev.to/JS] [I Created my Personal Website](https://dev.to/adhnanshereef/i-created-my-personal-website-aj0)
 - [Dev.to/JS] [Fix your Express error handling now](https://dev.to/pr0gramista/fix-your-express-error-handling-now-4h2l)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [2-Ingredient Cocktail Cherries Are the Perfect Last-Minute Valentine&#39;s Day Gift](https://lifehacker.com/2-ingredient-cocktail-cherries-are-the-perfect-last-min-1848503933)
 - [Lifehacker] [Is the Crypto Bubble Going to Burst?](https://lifehacker.com/is-the-crypto-bubble-going-to-burst-1848475768)
 - [Dev.to/JS] [What would your tech stack of choice be for a new web dev project?](https://dev.to/ben/what-would-your-tech-stack-of-choice-be-for-a-new-web-dev-project-1mpm)
-- [Dev.to/JS] [Animando elementos ao rolar a página com o scrollReveal](https://dev.to/uitalorss/animando-elementos-ao-rolar-a-pagina-com-o-scrollreveal-3b8e)
-- [Dev.to/JS] [Setting Up a Typescript Project using NPM](https://dev.to/hima_khaitan/setting-up-a-typescript-project-using-npm-4p86)
 - [Lifehacker] [You Can Now Pin Important Apps to the Screen in Windows](https://lifehacker.com/you-can-now-pin-important-apps-to-the-screen-in-windows-1848505336)
-- [Dev.to/JS] [How React components work?](https://dev.to/fromaline/how-react-components-work-520f)
 - [Lifehacker] [30 Movies Up for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [How to Get Your Tax Refund as Fast as Possible This Year](https://lifehacker.com/how-to-get-your-tax-refund-as-fast-as-possible-this-yea-1848500370)
 - [Lifehacker] [Jackfruit Is Way More Than a Meat Alternative](https://lifehacker.com/jackfruit-is-way-more-than-a-meat-alternative-1848497365)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are &#39;Smishing Attacks&#39;? &lpar;And How to Avoid Them&rpar;](https://lifehacker.com/what-are-smishing-attacks-and-how-to-avoid-them-1848495597)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Lifehacker] [How to &lpar;Safely&rpar; Score Super Bowl LVI Tickets](https://lifehacker.com/how-to-safely-score-super-bowl-lv-tickets-1848498571)
-- [Lifehacker] [10 Ways You’re Not Using Focus on iPhone, But Should Be](https://lifehacker.com/10-ways-you-re-not-using-focus-on-iphone-but-should-be-1848497964)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
 
