@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
+- [Dev.to/JS] [Integrating socket.io with your Next.js application](https://dev.to/ironcladdev/integrating-socketio-with-your-nextjs-application-31h9)
+- [Dev.to/JS] [Using Alpine&#39;s Persist plugin in a separate JavaScript file](https://dev.to/tylerlwsmith/using-alpines-persist-plugin-in-a-separate-javascript-file-462n)
+- [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
+- [Dev.to/JS] [Agrippa 1.4 is out 🎉🎊](https://dev.to/nitzanhen/agrippa-14-is-out-23co)
+- [Dev.to/JS] [preventDefault vs stopPropagation](https://dev.to/romaintrotard/preventdefault-vs-stoppropagation-g11)
 - [Lifehacker] [Keep These Common Super Bowl Snacks Away From Your Dog](https://lifehacker.com/keep-these-common-super-bowl-snacks-away-from-your-dog-1848507551)
 - [Dev.to/JS] [How to Create Custom ESLint Rules &lpar;It&#39;s Not as Hard as You Think...&rpar;](https://dev.to/bitovi/how-to-create-custom-eslint-rules-its-not-as-hard-as-you-think-3f9f)
 - [Dev.to/JS] [What is an API? &lpar;beginner friendly with no code&rpar;](https://dev.to/anthonyjdella/what-is-an-api-beginner-friendly-with-no-code-j7n)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Step-by-step: How to Create a Vue Multi-Language App with Vue-i18n](https://dev.to/flycode/step-by-step-how-to-create-a-vue-multi-language-app-with-vue-i18n-b5c)
 - [Dev.to/JS] [Adding Dynamic Search Auto-Complete to a web application with NodeJS and React 🔍](https://dev.to/kuvamdazeus/adding-dynamic-search-auto-complete-to-a-web-application-with-nodejs-and-react-2lh4)
 - [Lifehacker] [How to Stencil Your Ceiling &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stencil-your-ceiling-and-why-you-should-1848505031)
-- [Dev.to/JS] [I Created my Personal Website](https://dev.to/adhnanshereef/i-created-my-personal-website-aj0)
-- [Dev.to/JS] [Fix your Express error handling now](https://dev.to/pr0gramista/fix-your-express-error-handling-now-4h2l)
 - [Lifehacker] [You Should Report Companies That Make It Harder to Cancel Than to Sign Up](https://lifehacker.com/you-should-report-companies-that-make-it-harder-to-canc-1848506399)
-- [Dev.to/JS] [🌟new schema builder and data validation library🌟](https://dev.to/alguercode/new-schema-builder-and-data-validation-library-23c3)
-- [Dev.to/JS] [awesome npm packages for data validation and parsing&lpar;user login validation&rpar;](https://dev.to/alguercode/awesome-npm-packages-for-data-validation-and-parsinguser-login-validation-2ih)
 - [Lifehacker] [Proven Ways to Treat a Sore Throat &lpar;and the Internet Myths That Don&#39;t Actually Work&rpar;](https://lifehacker.com/proven-ways-to-treat-a-sore-throat-and-the-internet-my-1848506244)
 - [Lifehacker] [2-Ingredient Cocktail Cherries Are the Perfect Last-Minute Valentine&#39;s Day Gift](https://lifehacker.com/2-ingredient-cocktail-cherries-are-the-perfect-last-min-1848503933)
 - [Lifehacker] [Is the Crypto Bubble Going to Burst?](https://lifehacker.com/is-the-crypto-bubble-going-to-burst-1848475768)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Essential Guide to Super Bowl LVI for Those Who Are Clueless](https://lifehacker.com/the-essential-guide-to-super-bowl-lvi-for-those-who-are-1848500134)
 - [Lifehacker] [The Quickest, Easiest Foods to Eat for Long-Lasting Energy](https://lifehacker.com/the-quickest-easiest-foods-to-eat-for-long-lasting-ene-1848499597)
 - [Lifehacker] [How to Choose the Right Cryptocurrency Wallet](https://lifehacker.com/how-to-choose-the-right-cryptocurrency-wallet-1848482354)
-- [Lifehacker] [10 ‘Healthy’ Super Bowl Snacks to Add to Your Spread of Fried Goodness](https://lifehacker.com/10-healthy-super-bowl-snacks-to-add-to-your-spread-of-1848494202)
-- [Lifehacker] [How to Keep Little Kids Occupied During the Super Bowl](https://lifehacker.com/how-to-keep-little-kids-occupied-during-the-super-bowl-1848494883)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
