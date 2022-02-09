@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tips for the BP interview process](https://dev.to/ashikarose/tips-for-the-bp-interview-process-168c)
+- [Dev.to/JS] [Viagra over the counter](https://dev.to/emasodavich/viagra-over-the-counter-3fja)
+- [Dev.to/JS] [Frontend Mentor - Space Tourism](https://dev.to/nabillatrisnani/frontend-mentor-space-tourism-19ap)
 - [Dev.to/JS] [Imagemagik](https://dev.to/lassev05/imagemagik-h7g)
 - [Dev.to/JS] [FullStack JWT: Introducing SvelteKit](https://dev.to/sirneij/fullstack-jwt-introducing-sveltekit-3jcn)
 - [Dev.to/JS] [Total Keto 365 - Weight Loss Pills, Price, Complaints And side Effects?](https://dev.to/totalketo365pi1/total-keto-365-weight-loss-pills-price-complaints-and-side-effects-3en)
 - [Dev.to/JS] [Fetch Jokes story from Joke API](https://dev.to/trandainien/fetch-jokes-story-from-joke-api-f8b)
+- [Dev.to/JS] [Why do we use JavaScript bundlers?](https://dev.to/how-to-dev/why-do-we-use-javascript-bundlers-3e60)
 - [Dev.to/JS] [Prop Types](https://dev.to/sujon554/prop-types-388m)
 - [Dev.to/JS] [Learning PHP, JavaScript, WordPress theming &amp; the WP REST API to Create Custom &amp; Interactive WordPress Websites](https://dev.to/hendrix01/learning-php-javascript-wordpress-theming-the-wp-rest-api-to-create-custom-interactive-wordpress-websites-391j)
 - [Dev.to/JS] [Getting started with docker](https://dev.to/ks1912/getting-started-with-docker-34g6)
 - [Dev.to/JS] [A simple way to handle errors in Express.js](https://dev.to/andersonjoseph/a-simple-way-to-handle-errors-in-expressjs-ooo)
-- [Dev.to/JS] [Basic Syntax of JavaScript](https://dev.to/elinabey/basic-syntax-of-javascript-561l)
-- [Dev.to/JS] [Type Checking in React](https://dev.to/a7m3d000/checking-props-type-in-react-js-2oa8)
-- [Dev.to/JS] [Completed the JS course of SoloLearn](https://dev.to/nelsonmalbonecoding/completed-the-js-course-of-sololearn-2d5d)
-- [Dev.to/JS] [React Native Cookie Guessing Game](https://dev.to/wgotterer/react-native-cookie-guessing-game-5130)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
 - [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
