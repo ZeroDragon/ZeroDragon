@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prop Types](https://dev.to/sujon554/prop-types-388m)
 - [Dev.to/JS] [Learning PHP, JavaScript, WordPress theming &amp; the WP REST API to Create Custom &amp; Interactive WordPress Websites](https://dev.to/hendrix01/learning-php-javascript-wordpress-theming-the-wp-rest-api-to-create-custom-interactive-wordpress-websites-391j)
 - [Dev.to/JS] [Getting started with docker](https://dev.to/ks1912/getting-started-with-docker-34g6)
 - [Dev.to/JS] [A simple way to handle errors in Express.js](https://dev.to/andersonjoseph/a-simple-way-to-handle-errors-in-expressjs-ooo)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
 - [Lifehacker] [Do You Really Have to Join the HOA?](https://lifehacker.com/do-you-really-have-to-join-the-hoa-1848500704)
 - [Lifehacker] [How to Install Xbox Game Pass Games in a Custom Folder on Your PC](https://lifehacker.com/how-to-install-xbox-game-pass-games-in-a-custom-folder-1848499110)
-- [Dev.to/JS] [How to create a Zendesk ticket from a contact form using REST API with JavaScript](https://dev.to/abdulrahman_sk/how-to-create-a-zendesk-ticket-from-a-contact-form-using-rest-api-with-javascript-2147)
 - [Lifehacker] [The Best Things to Do If You Don&#39;t Care About the Super Bowl](https://lifehacker.com/the-best-things-to-do-if-you-dont-care-about-the-super-1848482420)
 - [Lifehacker] [The Essential Guide to Super Bowl LVI for Those Who Are Clueless](https://lifehacker.com/the-essential-guide-to-super-bowl-lvi-for-those-who-are-1848500134)
 - [Lifehacker] [The Quickest, Easiest Foods to Eat for Long-Lasting Energy](https://lifehacker.com/the-quickest-easiest-foods-to-eat-for-long-lasting-ene-1848499597)
