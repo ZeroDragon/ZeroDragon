@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A really long title  to test the OG graph image constrution of dev.to.](https://dev.to/shubhamverma/a-really-long-title-to-test-the-og-graph-image-constrution-of-devto-like-how-long-can-it-get-until-the-text-truncates-out-5c2l)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 34](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-34-5a5b)
+- [Dev.to/JS] [Progressive Web App Calculator - Hex Calculator](https://dev.to/alwurts/progressive-web-app-calculator-hex-calculator-558j)
+- [Dev.to/JS] [Step- By- Step Guideline to Build a Scalable Application with React and Redux](https://dev.to/ashikarose/step-by-step-guideline-to-build-a-scalable-application-with-react-and-redux-321i)
+- [Dev.to/JS] [Using Google Analytics&#39;s gtag.js with Turbolinks](https://dev.to/tylerlwsmith/using-google-analyticss-gtagjs-with-turbolinks-5coa)
 - [Dev.to/JS] [Chrome Extension: Taking Notes On The Web](https://dev.to/vorg/chrome-extension-taking-notes-on-the-web-a00)
 - [Dev.to/JS] [Handle multiple environments in ReactJs [dev, stag, prod]](https://dev.to/rajeshroyal/handle-multiple-environments-in-reactjs-dev-stag-prod-1b9e)
 - [Dev.to/JS] [I Made a Working Calculator in Javascript](https://dev.to/ciaracloud/i-made-a-working-calculator-in-javascript-1pil)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I built a landing page with ReactJS.](https://dev.to/peteregbujie/i-built-a-landing-page-with-reactjs-1bnk)
 - [Dev.to/JS] [postman clone](https://dev.to/alguercode/postman-clone-5ce8)
 - [Dev.to/JS] [The Best Podcasts For Devs](https://dev.to/juanjefry23/the-best-podcasts-for-devs-1e42)
-- [Dev.to/JS] [How to build Airbnb Front End](https://dev.to/seth_king/how-to-build-airbnb-front-end-4kbc)
-- [Dev.to/JS] [Monorepo Javascript Projects with Yarn Workspaces and Lerna](https://dev.to/honeybadger/monorepo-javascript-projects-with-yarn-workspaces-and-lerna-30gl)
-- [Dev.to/JS] [Strapi Market: the official plugin marketplace is live](https://dev.to/strapi/strapi-market-the-official-plugin-marketplace-is-live-1c2m)
-- [Dev.to/JS] [How JavaScript Works?](https://dev.to/iamrishupatel/how-javascript-works-2h55)
 - [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
-- [Dev.to/JS] [Get hourly data from Coingecko API](https://dev.to/antooni/get-hourly-data-from-coingecko-api-226f)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
 - [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
 - [Lifehacker] [Keep These Common Super Bowl Snacks Away From Your Dog](https://lifehacker.com/keep-these-common-super-bowl-snacks-away-from-your-dog-1848507551)
