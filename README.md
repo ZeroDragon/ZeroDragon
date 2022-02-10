@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Watch for These Signs of Severe Brain Injury After Bumping Your Head](https://lifehacker.com/watch-for-these-signs-of-severe-brain-injury-after-bump-1848514711)
+- [Dev.to/JS] [React npm start show something in new version](https://dev.to/ajaypudasaini/react-npm-start-show-something-in-new-version-548o)
+- [Dev.to/JS] [How to add tailwind css to your react project](https://dev.to/slimpython/how-to-add-tailwind-css-to-your-react-project-3a76)
+- [Lifehacker] [All the Free Stuff You Never Knew Your Library Card Could Get You](https://lifehacker.com/all-the-free-stuff-you-never-knew-your-library-card-cou-1848514406)
+- [Dev.to/JS] [How To Make A Google Chrome Extension In Under 15 – Minutes?](https://dev.to/hackernewbie/how-to-make-a-google-chrome-extension-in-under-15-minutes-2605)
+- [Dev.to/JS] [API router plugin for node.js](https://dev.to/narcotic1998/api-router-plugin-for-nodejs-41db)
 - [Dev.to/JS] [LeetCode - Reverse Linked List II](https://dev.to/_alkesh26/leetcode-reverse-linked-list-ii-2381)
 - [Dev.to/JS] [How to collect data via forms like a boss](https://dev.to/abhirajb/how-to-collect-data-via-forms-like-a-boss-2l15)
 - [Dev.to/JS] [Lead Developer – public sector, remote &lpar;UK&rpar;](https://dev.to/itsashleighhyo/lead-developer-public-sector-remote-uk-kij)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Angular To Do App - part 2](https://dev.to/lorenzojkrl/simple-angular-to-do-app-part-2-554m)
 - [Dev.to/JS] [The guide to cloning objects in JavaScript](https://dev.to/nicozerpa/the-guide-to-cloning-objects-in-javascript-5agn)
 - [Lifehacker] [15 Anti-Valentine&#39;s Day Movies That Remind You Love Can Suck](https://lifehacker.com/15-anti-valentines-day-movies-that-remind-you-love-can-1848499847)
-- [Dev.to/JS] [Building an Apache ECharts Dashboard with Vue 3 and Cube](https://dev.to/cubejs/building-an-apache-echarts-dashboard-with-vue-3-and-cube-2jpn)
-- [Dev.to/JS] [Palindrome Revision](https://dev.to/kenji_goh/palindrome-revision-2m50)
-- [Dev.to/JS] [macOS Tools and Apps for Development in 2022](https://dev.to/etc088/macos-tools-and-apps-for-development-in-2022-51pb)
-- [Dev.to/JS] [JavaScript Basics #1: Syntax and Program Structure](https://dev.to/ericnanhu/javascript-basics-1-syntax-and-program-structure-5h9)
 - [Lifehacker] [Just How Much Does Your Phone Listen to Sell You Targeted Ads?](https://lifehacker.com/just-how-much-does-your-phone-listen-to-sell-you-target-1848495516)
 - [Lifehacker] [Should You Pay Off Your Starter Home, or Save Cash for the Next One?](https://lifehacker.com/should-you-pay-off-your-starter-home-or-save-cash-for-1848499437)
 - [Lifehacker] [10 Well-Known Hangover &#39;Cures&#39; That Don&#39;t Actually Work](https://lifehacker.com/10-hangover-cures-that-are-total-bullshit-1848509267)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Pin Important Apps to the Screen in Windows](https://lifehacker.com/you-can-now-pin-important-apps-to-the-screen-in-windows-1848505336)
 - [Lifehacker] [30 Movies Up for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [How to Get Your Tax Refund as Fast as Possible This Year](https://lifehacker.com/how-to-get-your-tax-refund-as-fast-as-possible-this-yea-1848500370)
-- [Lifehacker] [Jackfruit Is Way More Than a Meat Alternative](https://lifehacker.com/jackfruit-is-way-more-than-a-meat-alternative-1848497365)
-- [Lifehacker] [12 of the Most Disgusting Habits a Partner Can Have, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-disgusting-habits-a-partner-can-have-ac-1848480217)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
