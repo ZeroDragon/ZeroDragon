@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A/B Testing with Create React App](https://dev.to/jdorn/ab-testing-with-create-react-app-53fg)
+- [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
+- [Dev.to/JS] [Vscode Assistant 0.16 Releases](https://dev.to/tomaszs2/vscode-assistant-016-releases-5gb5)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
 - [Dev.to/JS] [WHY YOU SHOULD TEACH WEB DEVELOPEMENT](https://dev.to/csituma/why-you-should-teach-web-developement-14hf)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848515132)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add tailwind css to your react project](https://dev.to/slimpython/how-to-add-tailwind-css-to-your-react-project-3a76)
 - [Lifehacker] [All the Free Stuff You Never Knew Your Library Card Could Get You](https://lifehacker.com/all-the-free-stuff-you-never-knew-your-library-card-cou-1848514406)
 - [Dev.to/JS] [How To Make A Google Chrome Extension In Under 15 – Minutes?](https://dev.to/hackernewbie/how-to-make-a-google-chrome-extension-in-under-15-minutes-2605)
-- [Dev.to/JS] [API router plugin for node.js](https://dev.to/narcotic1998/api-router-plugin-for-nodejs-41db)
-- [Dev.to/JS] [LeetCode - Reverse Linked List II](https://dev.to/_alkesh26/leetcode-reverse-linked-list-ii-2381)
 - [Lifehacker] [How to Make Your Bed Look Like It’s Floating](https://lifehacker.com/how-to-make-your-bed-look-like-it-s-floating-1848512347)
 - [Lifehacker] [15 Anti-Valentine&#39;s Day Movies That Remind You Love Can Suck](https://lifehacker.com/15-anti-valentines-day-movies-that-remind-you-love-can-1848499847)
 - [Lifehacker] [Just How Much Does Your Phone Listen to Sell You Targeted Ads?](https://lifehacker.com/just-how-much-does-your-phone-listen-to-sell-you-target-1848495516)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stencil Your Ceiling &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stencil-your-ceiling-and-why-you-should-1848505031)
 - [Lifehacker] [You Should Report Companies That Make It Harder to Cancel Than to Sign Up](https://lifehacker.com/you-should-report-companies-that-make-it-harder-to-canc-1848506399)
 - [Lifehacker] [Proven Ways to Treat a Sore Throat &lpar;and the Internet Myths That Don&#39;t Actually Work&rpar;](https://lifehacker.com/proven-ways-to-treat-a-sore-throat-and-the-internet-my-1848506244)
-- [Lifehacker] [2-Ingredient Cocktail Cherries Are the Perfect Last-Minute Valentine&#39;s Day Gift](https://lifehacker.com/2-ingredient-cocktail-cherries-are-the-perfect-last-min-1848503933)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
