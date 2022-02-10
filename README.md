@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
+- [Dev.to/JS] [WHY YOU SHOULD TEACH WEB DEVELOPEMENT](https://dev.to/csituma/why-you-should-teach-web-developement-14hf)
+- [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848515132)
+- [Dev.to/JS] [Simple &amp; Advanced Search in VS Code with Sourcegraph](https://dev.to/sourcegraph/simple-advanced-search-in-vs-code-with-sourcegraph-29if)
+- [Dev.to/JS] [how to validate data in javascript](https://dev.to/alguercode/how-to-validate-data-in-javascript-5eg7)
+- [Dev.to/JS] [Showing different titles depending if the tab is active or not](https://dev.to/codepo8/showing-different-titles-depending-if-the-tab-is-active-or-not-hef)
 - [Lifehacker] [How to Thrive While Living Alone, According to Reddit](https://lifehacker.com/how-to-thrive-while-living-alone-according-to-reddit-1848515669)
 - [Dev.to/JS] [Redux and Redux toolkit - simply explained.](https://dev.to/devmdmamun/redux-and-redux-toolkit-simply-explained-1b1b)
 - [Dev.to/JS] [How do abstract Socket.IO connections in your SPA.](https://dev.to/huzaifa99/how-do-abstract-socketio-connections-in-your-spa-c34)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Make A Google Chrome Extension In Under 15 – Minutes?](https://dev.to/hackernewbie/how-to-make-a-google-chrome-extension-in-under-15-minutes-2605)
 - [Dev.to/JS] [API router plugin for node.js](https://dev.to/narcotic1998/api-router-plugin-for-nodejs-41db)
 - [Dev.to/JS] [LeetCode - Reverse Linked List II](https://dev.to/_alkesh26/leetcode-reverse-linked-list-ii-2381)
-- [Dev.to/JS] [How to collect data via forms like a boss](https://dev.to/abhirajb/how-to-collect-data-via-forms-like-a-boss-2l15)
-- [Dev.to/JS] [Lead Developer – public sector, remote &lpar;UK&rpar;](https://dev.to/itsashleighhyo/lead-developer-public-sector-remote-uk-kij)
-- [Dev.to/JS] [#100DaysofProjects](https://dev.to/ganeshpatil386386/100daysofprojects-2abb)
 - [Lifehacker] [How to Make Your Bed Look Like It’s Floating](https://lifehacker.com/how-to-make-your-bed-look-like-it-s-floating-1848512347)
-- [Dev.to/JS] [Passing data from React Router&#39;s Link to another component.](https://dev.to/iamchiki/passing-data-from-react-routers-link-to-another-component-3boa)
 - [Lifehacker] [15 Anti-Valentine&#39;s Day Movies That Remind You Love Can Suck](https://lifehacker.com/15-anti-valentines-day-movies-that-remind-you-love-can-1848499847)
 - [Lifehacker] [Just How Much Does Your Phone Listen to Sell You Targeted Ads?](https://lifehacker.com/just-how-much-does-your-phone-listen-to-sell-you-target-1848495516)
 - [Lifehacker] [Should You Pay Off Your Starter Home, or Save Cash for the Next One?](https://lifehacker.com/should-you-pay-off-your-starter-home-or-save-cash-for-1848499437)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Report Companies That Make It Harder to Cancel Than to Sign Up](https://lifehacker.com/you-should-report-companies-that-make-it-harder-to-canc-1848506399)
 - [Lifehacker] [Proven Ways to Treat a Sore Throat &lpar;and the Internet Myths That Don&#39;t Actually Work&rpar;](https://lifehacker.com/proven-ways-to-treat-a-sore-throat-and-the-internet-my-1848506244)
 - [Lifehacker] [2-Ingredient Cocktail Cherries Are the Perfect Last-Minute Valentine&#39;s Day Gift](https://lifehacker.com/2-ingredient-cocktail-cherries-are-the-perfect-last-min-1848503933)
-- [Lifehacker] [Is the Crypto Bubble Going to Burst?](https://lifehacker.com/is-the-crypto-bubble-going-to-burst-1848475768)
-- [Lifehacker] [You Can Now Pin Important Apps to the Screen in Windows](https://lifehacker.com/you-can-now-pin-important-apps-to-the-screen-in-windows-1848505336)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
