@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use SvelteKit to create npm packages](https://dev.to/dreitzner/use-sveltekit-to-create-npm-packages-3l6i)
+- [Dev.to/JS] [Create Responsive width and height in React Native](https://dev.to/charismaaji/create-responsive-width-and-height-in-react-native-20n5)
 - [Dev.to/JS] [Filter unique array members &lpar;remove duplicates&rpar;](https://dev.to/kenji_goh/filter-unique-array-members-remove-duplicates-1bm1)
 - [Dev.to/JS] [Moving from JavaScript to TypeScript](https://dev.to/andrewbaisden/moving-from-javascript-to-typescript-40ac)
 - [Dev.to/JS] [Weather App using HTML,CSS and JS](https://dev.to/devrohit0/weather-app-using-htmlcss-and-js-11ag)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML5 Javascript Canvas Collision](https://dev.to/spsoi/html5-javascript-canvas-collision-3l92)
 - [Dev.to/JS] [How to run  a react-native app on a real device using terminal](https://dev.to/coucoseth/how-to-run-a-react-native-app-on-a-real-device-using-terminal-nij)
 - [Dev.to/JS] [Apple Keto Gummies - Weight Loss benefits, Price, Reviews And Complaints?](https://dev.to/appleketofact/apple-keto-gummies-weight-loss-benefits-price-reviews-and-complaints-10cg)
-- [Dev.to/JS] [How to create simple chrome extension](https://dev.to/hiro_takkii/how-to-create-simple-chrome-extension-219o)
-- [Dev.to/JS] [Browsers can do that?](https://dev.to/dustinbrett/browsers-can-do-that-271o)
 - [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
 - [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
