@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Combining two independent git repositories](https://dev.to/siddharthssb11/combining-two-independent-git-repositories-1b5i)
+- [Dev.to/JS] [I made a realtime 1v1 game with Next.js &amp; Tailwind CSS, learn how](https://dev.to/nicoandrade/i-made-a-realtime-1v1-game-with-nextjs-tailwind-css-learn-how-536b)
+- [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
 - [Dev.to/JS] [A Controversial Case for Double Equality](https://dev.to/eliselabonte/a-controversial-case-for-double-equality-5fnn)
 - [Dev.to/JS] [Best Way to Trigger Child Component Function?](https://dev.to/allidoisace/best-way-to-trigger-child-component-function-4501)
 - [Dev.to/JS] [A/B Testing with Create React App](https://dev.to/jdorn/ab-testing-with-create-react-app-53fg)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redux and Redux toolkit - simply explained.](https://dev.to/devmdmamun/redux-and-redux-toolkit-simply-explained-1b1b)
 - [Dev.to/JS] [How do abstract Socket.IO connections in your SPA.](https://dev.to/huzaifa99/how-do-abstract-socketio-connections-in-your-spa-c34)
 - [Lifehacker] [These Easy Cacio e Pepe Potato Chips Belong in Your Super Bowl Spread](https://lifehacker.com/these-easy-cacio-e-pepe-potato-chips-belong-in-your-sup-1848515648)
-- [Dev.to/JS] [100daysOfCode Restarted](https://dev.to/alsiam/100daysofcode-restarted-f8d)
-- [Dev.to/JS] [JavaScript Projects for beginners](https://dev.to/shafspecs/javascript-projects-for-beginners-28gc)
 - [Lifehacker] [Watch for These Signs of Severe Brain Injury After Bumping Your Head](https://lifehacker.com/watch-for-these-signs-of-severe-brain-injury-after-bump-1848514711)
 - [Lifehacker] [All the Free Stuff You Never Knew Your Library Card Could Get You](https://lifehacker.com/all-the-free-stuff-you-never-knew-your-library-card-cou-1848514406)
 - [Lifehacker] [How to Make Your Bed Look Like It’s Floating](https://lifehacker.com/how-to-make-your-bed-look-like-it-s-floating-1848512347)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Are You Normal, or Do You Have a Favorite Way of Opening an Envelope?](https://lifehacker.com/are-you-normal-or-do-you-have-a-favorite-way-of-openin-1848507412)
 - [Lifehacker] [How to Stencil Your Ceiling &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-stencil-your-ceiling-and-why-you-should-1848505031)
 - [Lifehacker] [You Should Report Companies That Make It Harder to Cancel Than to Sign Up](https://lifehacker.com/you-should-report-companies-that-make-it-harder-to-canc-1848506399)
-- [Lifehacker] [Proven Ways to Treat a Sore Throat &lpar;and the Internet Myths That Don&#39;t Actually Work&rpar;](https://lifehacker.com/proven-ways-to-treat-a-sore-throat-and-the-internet-my-1848506244)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
