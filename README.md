@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A simple guide to understand how React  performs rendering](https://dev.to/ketan_desai/a-simple-guide-to-understand-how-react-performs-rendering-22na)
+- [Dev.to/JS] [A python 3 DOM for creating HTML](https://dev.to/domonic/a-python-3-dom-for-creating-html-ia5)
+- [Dev.to/JS] [HTML5 Javascript Canvas Collision](https://dev.to/spsoi/html5-javascript-canvas-collision-3l92)
+- [Dev.to/JS] [How to run  a react-native app on a real device using terminal](https://dev.to/coucoseth/how-to-run-a-react-native-app-on-a-real-device-using-terminal-nij)
+- [Dev.to/JS] [Apple Keto Gummies - Weight Loss benefits, Price, Reviews And Complaints?](https://dev.to/appleketofact/apple-keto-gummies-weight-loss-benefits-price-reviews-and-complaints-10cg)
 - [Dev.to/JS] [How to create simple chrome extension](https://dev.to/hiro_takkii/how-to-create-simple-chrome-extension-219o)
 - [Dev.to/JS] [Browsers can do that?](https://dev.to/dustinbrett/browsers-can-do-that-271o)
 - [Dev.to/JS] [Using React useRef Hook to access immediate past props or state.](https://dev.to/walecloud/using-react-useref-hook-to-access-immediate-past-props-or-state-mgl)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Progressive Web App Calculator - Hex Calculator](https://dev.to/alwurts/progressive-web-app-calculator-hex-calculator-558j)
 - [Dev.to/JS] [Step- By- Step Guideline to Build a Scalable Application with React and Redux](https://dev.to/ashikarose/step-by-step-guideline-to-build-a-scalable-application-with-react-and-redux-321i)
 - [Dev.to/JS] [Using Google Analytics&#39;s gtag.js with Turbolinks](https://dev.to/tylerlwsmith/using-google-analyticss-gtagjs-with-turbolinks-5coa)
-- [Dev.to/JS] [Chrome Extension: Taking Notes On The Web](https://dev.to/vorg/chrome-extension-taking-notes-on-the-web-a00)
-- [Dev.to/JS] [Handle multiple environments in ReactJs [dev, stag, prod]](https://dev.to/rajeshroyal/handle-multiple-environments-in-reactjs-dev-stag-prod-1b9e)
-- [Dev.to/JS] [I Made a Working Calculator in Javascript](https://dev.to/ciaracloud/i-made-a-working-calculator-in-javascript-1pil)
-- [Dev.to/JS] [How to Optimize Your Frontend Development Workflow for Greater Efficiency 🍄](https://dev.to/yaku/how-to-optimize-your-frontend-development-workflow-for-greater-efficiency-469j)
-- [Dev.to/JS] [I built a landing page with ReactJS.](https://dev.to/peteregbujie/i-built-a-landing-page-with-reactjs-1bnk)
 - [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
 - [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
