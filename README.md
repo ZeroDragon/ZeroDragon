@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Anti-Valentine&#39;s Day Movies That Remind You Love Can Suck](https://lifehacker.com/15-anti-valentines-day-movies-that-remind-you-love-can-1848499847)
+- [Dev.to/JS] [Building an Apache ECharts Dashboard with Vue 3 and Cube](https://dev.to/cubejs/building-an-apache-echarts-dashboard-with-vue-3-and-cube-2jpn)
+- [Dev.to/JS] [Palindrome Revision](https://dev.to/kenji_goh/palindrome-revision-2m50)
+- [Dev.to/JS] [macOS Tools and Apps for Development in 2022](https://dev.to/etc088/macos-tools-and-apps-for-development-in-2022-51pb)
+- [Dev.to/JS] [JavaScript Basics #1: Syntax and Program Structure](https://dev.to/ericnanhu/javascript-basics-1-syntax-and-program-structure-5h9)
+- [Lifehacker] [Just How Much Does Your Phone Listen to Sell You Targeted Ads?](https://lifehacker.com/just-how-much-does-your-phone-listen-to-sell-you-target-1848495516)
+- [Dev.to/JS] [JavaScript Basics](https://dev.to/ericnanhu/javascript-basics-40en)
 - [Lifehacker] [Should You Pay Off Your Starter Home, or Save Cash for the Next One?](https://lifehacker.com/should-you-pay-off-your-starter-home-or-save-cash-for-1848499437)
 - [Dev.to/JS] [Paracetamol.js💊| #50: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-50-explica-este-codigo-javascript-542i)
 - [Lifehacker] [10 Well-Known Hangover &#39;Cures&#39; That Don&#39;t Actually Work](https://lifehacker.com/10-hangover-cures-that-are-total-bullshit-1848509267)
@@ -35,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 iPhone File Managers That Are Way Better Than the Files App](https://lifehacker.com/6-iphone-file-managers-that-are-way-better-than-the-fil-1848498025)
 - [Dev.to/JS] [A Usage Example for a Monad in Javascript](https://dev.to/anatdagan/a-usage-example-for-a-monad-in-javascript-6g3)
 - [Dev.to/JS] [Whitelabel OnlyFans App: Develop OnlyFans Clone App](https://dev.to/mattyreign/whitelabel-onlyfans-app-develop-onlyfans-clone-app-1213)
-- [Dev.to/JS] [I Enjoyed Buiding My Portfolio.](https://dev.to/j89/i-enjoyed-buiding-my-portfolio-jfh)
-- [Dev.to/JS] [First step in JavaScript on Scrimba](https://dev.to/ahmedmagdy24/first-step-in-javascript-on-scrimba-4idi)
-- [Dev.to/JS] [How to create a sticky navigation bar](https://dev.to/thatanjan/how-to-create-a-sticky-navigation-bar-3j7f)
-- [Dev.to/JS] [Protect your project from SQL injections](https://dev.to/frankwisniewski/protect-your-project-from-sql-injections-2mmn)
-- [Dev.to/JS] [AG Grid: Minimising Application Bundle Size](https://dev.to/ag-grid/ag-grid-minimising-application-bundle-size-3pk8)
 - [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
 - [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Jackfruit Is Way More Than a Meat Alternative](https://lifehacker.com/jackfruit-is-way-more-than-a-meat-alternative-1848497365)
 - [Lifehacker] [12 of the Most Disgusting Habits a Partner Can Have, According to Lifehacker Readers](https://lifehacker.com/12-of-the-most-disgusting-habits-a-partner-can-have-ac-1848480217)
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
-- [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
-- [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
