@@ -23,8 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Should You Pay Off Your Starter Home, or Save Cash for the Next One?](https://lifehacker.com/should-you-pay-off-your-starter-home-or-save-cash-for-1848499437)
+- [Dev.to/JS] [Paracetamol.js💊| #50: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-50-explica-este-codigo-javascript-542i)
+- [Lifehacker] [10 Well-Known Hangover &#39;Cures&#39; That Don&#39;t Actually Work](https://lifehacker.com/10-hangover-cures-that-are-total-bullshit-1848509267)
+- [Dev.to/JS] [A cool trick to get unique items in an array in JavaScript](https://dev.to/sam_lukaa/a-cool-trick-to-get-unique-items-in-an-array-in-javascript-5c1c)
+- [Dev.to/JS] [A public chat app which is build with reactjs and firbase](https://dev.to/nisabmohd/a-public-chat-app-which-is-build-with-reactjs-and-firbase-44ha)
+- [Dev.to/JS] [Mini social network that I made as my first web app project.](https://dev.to/misaj/mini-social-network-that-i-made-as-my-first-web-app-project-23i5)
 - [Lifehacker] [What to Watch on Super Bowl Sunday That Isn&#39;t the Goddamn Super Bowl](https://lifehacker.com/what-to-watch-on-super-bowl-sunday-that-isnt-the-goddam-1848508743)
 - [Lifehacker] [You Can Legally Stream Super Bowl LVI for Free](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
+- [Dev.to/JS] [5 Important Rules in Website Design](https://dev.to/abhiavsnet/5-important-rules-in-website-design-3c0i)
 - [Lifehacker] [6 iPhone File Managers That Are Way Better Than the Files App](https://lifehacker.com/6-iphone-file-managers-that-are-way-better-than-the-fil-1848498025)
 - [Dev.to/JS] [A Usage Example for a Monad in Javascript](https://dev.to/anatdagan/a-usage-example-for-a-monad-in-javascript-6g3)
 - [Dev.to/JS] [Whitelabel OnlyFans App: Develop OnlyFans Clone App](https://dev.to/mattyreign/whitelabel-onlyfans-app-develop-onlyfans-clone-app-1213)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a sticky navigation bar](https://dev.to/thatanjan/how-to-create-a-sticky-navigation-bar-3j7f)
 - [Dev.to/JS] [Protect your project from SQL injections](https://dev.to/frankwisniewski/protect-your-project-from-sql-injections-2mmn)
 - [Dev.to/JS] [AG Grid: Minimising Application Bundle Size](https://dev.to/ag-grid/ag-grid-minimising-application-bundle-size-3pk8)
-- [Dev.to/JS] [Handle Array.prototype.includes in TypeScript](https://dev.to/captainyossarian/handle-arrayprototypeincludes-in-typescript-4f95)
-- [Dev.to/JS] [Ruby Fundamentals, Compare and Contrast with Javascript](https://dev.to/nissrinecan/ruby-fundamentals-compare-and-contrast-with-javascript-3lfh)
-- [Dev.to/JS] [HTML5 Javascript Canvas Collision 2](https://dev.to/spsoi/html5-javascript-canvas-collision-152e)
-- [Dev.to/JS] [Can&#39;t build React/Next project - found page without a React Component as default export &lpar;context api file&rpar;](https://dev.to/gilly7/cant-build-reactnext-project-found-page-without-a-react-component-as-default-export-context-api-file-50ad)
-- [Dev.to/JS] [When Less is More: Serverless NAT Gateway - Part 1](https://dev.to/alichherawalla/when-less-is-more-serverless-nat-gateway-part-1-2e3)
 - [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
 - [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Buffalo an Entire Chicken for Super Bowl Sunday](https://lifehacker.com/buffalo-an-entire-chicken-for-super-bowl-sunday-1848502810)
 - [Lifehacker] [How to Stop Snoring](https://lifehacker.com/how-to-stop-snoring-1848502763)
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
-- [Lifehacker] [Do You Really Have to Join the HOA?](https://lifehacker.com/do-you-really-have-to-join-the-hoa-1848500704)
-- [Lifehacker] [How to Install Xbox Game Pass Games in a Custom Folder on Your PC](https://lifehacker.com/how-to-install-xbox-game-pass-games-in-a-custom-folder-1848499110)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
