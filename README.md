@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Controversial Case for Double Equality](https://dev.to/eliselabonte/a-controversial-case-for-double-equality-5fnn)
+- [Dev.to/JS] [Best Way to Trigger Child Component Function?](https://dev.to/allidoisace/best-way-to-trigger-child-component-function-4501)
 - [Dev.to/JS] [A/B Testing with Create React App](https://dev.to/jdorn/ab-testing-with-create-react-app-53fg)
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Dev.to/JS] [Vscode Assistant 0.16 Releases](https://dev.to/tomaszs2/vscode-assistant-016-releases-5gb5)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [100daysOfCode Restarted](https://dev.to/alsiam/100daysofcode-restarted-f8d)
 - [Dev.to/JS] [JavaScript Projects for beginners](https://dev.to/shafspecs/javascript-projects-for-beginners-28gc)
 - [Lifehacker] [Watch for These Signs of Severe Brain Injury After Bumping Your Head](https://lifehacker.com/watch-for-these-signs-of-severe-brain-injury-after-bump-1848514711)
-- [Dev.to/JS] [How to add tailwind css to your react project](https://dev.to/slimpython/how-to-add-tailwind-css-to-your-react-project-3a76)
 - [Lifehacker] [All the Free Stuff You Never Knew Your Library Card Could Get You](https://lifehacker.com/all-the-free-stuff-you-never-knew-your-library-card-cou-1848514406)
-- [Dev.to/JS] [How To Make A Google Chrome Extension In Under 15 – Minutes?](https://dev.to/hackernewbie/how-to-make-a-google-chrome-extension-in-under-15-minutes-2605)
 - [Lifehacker] [How to Make Your Bed Look Like It’s Floating](https://lifehacker.com/how-to-make-your-bed-look-like-it-s-floating-1848512347)
 - [Lifehacker] [15 Anti-Valentine&#39;s Day Movies That Remind You Love Can Suck](https://lifehacker.com/15-anti-valentines-day-movies-that-remind-you-love-can-1848499847)
 - [Lifehacker] [Just How Much Does Your Phone Listen to Sell You Targeted Ads?](https://lifehacker.com/just-how-much-does-your-phone-listen-to-sell-you-target-1848495516)
