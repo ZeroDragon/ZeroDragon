@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Optimize Your Frontend Development Workflow for Greater Efficiency 🍄](https://dev.to/yaku/how-to-optimize-your-frontend-development-workflow-for-greater-efficiency-469j)
 - [Dev.to/JS] [I built a landing page with ReactJS.](https://dev.to/peteregbujie/i-built-a-landing-page-with-reactjs-1bnk)
 - [Dev.to/JS] [postman clone](https://dev.to/alguercode/postman-clone-5ce8)
 - [Dev.to/JS] [The Best Podcasts For Devs](https://dev.to/juanjefry23/the-best-podcasts-for-devs-1e42)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Alpine&#39;s Persist plugin in a separate JavaScript file](https://dev.to/tylerlwsmith/using-alpines-persist-plugin-in-a-separate-javascript-file-462n)
 - [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
 - [Dev.to/JS] [Agrippa 1.4 is out 🎉🎊](https://dev.to/nitzanhen/agrippa-14-is-out-23co)
-- [Dev.to/JS] [preventDefault vs stopPropagation](https://dev.to/romaintrotard/preventdefault-vs-stoppropagation-g11)
 - [Lifehacker] [Keep These Common Super Bowl Snacks Away From Your Dog](https://lifehacker.com/keep-these-common-super-bowl-snacks-away-from-your-dog-1848507551)
 - [Lifehacker] [5 Inventive Ways to Reuse K-Cups](https://lifehacker.com/5-inventive-ways-to-reuse-k-cups-1848506513)
 - [Lifehacker] [How to Stop Your Kid From Spitting](https://lifehacker.com/how-to-stop-your-kid-from-spitting-1848506470)
