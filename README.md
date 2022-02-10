@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Thrive While Living Alone, According to Reddit](https://lifehacker.com/how-to-thrive-while-living-alone-according-to-reddit-1848515669)
+- [Dev.to/JS] [Redux and Redux toolkit - simply explained.](https://dev.to/devmdmamun/redux-and-redux-toolkit-simply-explained-1b1b)
+- [Dev.to/JS] [How do abstract Socket.IO connections in your SPA.](https://dev.to/huzaifa99/how-do-abstract-socketio-connections-in-your-spa-c34)
+- [Lifehacker] [These Easy Cacio e Pepe Potato Chips Belong in Your Super Bowl Spread](https://lifehacker.com/these-easy-cacio-e-pepe-potato-chips-belong-in-your-sup-1848515648)
+- [Dev.to/JS] [100daysOfCode Restarted](https://dev.to/alsiam/100daysofcode-restarted-f8d)
+- [Dev.to/JS] [JavaScript Projects for beginners](https://dev.to/shafspecs/javascript-projects-for-beginners-28gc)
 - [Lifehacker] [Watch for These Signs of Severe Brain Injury After Bumping Your Head](https://lifehacker.com/watch-for-these-signs-of-severe-brain-injury-after-bump-1848514711)
-- [Dev.to/JS] [React npm start show something in new version](https://dev.to/ajaypudasaini/react-npm-start-show-something-in-new-version-548o)
 - [Dev.to/JS] [How to add tailwind css to your react project](https://dev.to/slimpython/how-to-add-tailwind-css-to-your-react-project-3a76)
 - [Lifehacker] [All the Free Stuff You Never Knew Your Library Card Could Get You](https://lifehacker.com/all-the-free-stuff-you-never-knew-your-library-card-cou-1848514406)
 - [Dev.to/JS] [How To Make A Google Chrome Extension In Under 15 – Minutes?](https://dev.to/hackernewbie/how-to-make-a-google-chrome-extension-in-under-15-minutes-2605)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#100DaysofProjects](https://dev.to/ganeshpatil386386/100daysofprojects-2abb)
 - [Lifehacker] [How to Make Your Bed Look Like It’s Floating](https://lifehacker.com/how-to-make-your-bed-look-like-it-s-floating-1848512347)
 - [Dev.to/JS] [Passing data from React Router&#39;s Link to another component.](https://dev.to/iamchiki/passing-data-from-react-routers-link-to-another-component-3boa)
-- [Dev.to/JS] [Glass Effect in React](https://dev.to/shubhamtiwari909/glass-effect-in-react-36p7)
-- [Dev.to/JS] [Simple Angular To Do App - part 2](https://dev.to/lorenzojkrl/simple-angular-to-do-app-part-2-554m)
-- [Dev.to/JS] [The guide to cloning objects in JavaScript](https://dev.to/nicozerpa/the-guide-to-cloning-objects-in-javascript-5agn)
 - [Lifehacker] [15 Anti-Valentine&#39;s Day Movies That Remind You Love Can Suck](https://lifehacker.com/15-anti-valentines-day-movies-that-remind-you-love-can-1848499847)
 - [Lifehacker] [Just How Much Does Your Phone Listen to Sell You Targeted Ads?](https://lifehacker.com/just-how-much-does-your-phone-listen-to-sell-you-target-1848495516)
 - [Lifehacker] [Should You Pay Off Your Starter Home, or Save Cash for the Next One?](https://lifehacker.com/should-you-pay-off-your-starter-home-or-save-cash-for-1848499437)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [2-Ingredient Cocktail Cherries Are the Perfect Last-Minute Valentine&#39;s Day Gift](https://lifehacker.com/2-ingredient-cocktail-cherries-are-the-perfect-last-min-1848503933)
 - [Lifehacker] [Is the Crypto Bubble Going to Burst?](https://lifehacker.com/is-the-crypto-bubble-going-to-burst-1848475768)
 - [Lifehacker] [You Can Now Pin Important Apps to the Screen in Windows](https://lifehacker.com/you-can-now-pin-important-apps-to-the-screen-in-windows-1848505336)
-- [Lifehacker] [30 Movies Up for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
-- [Lifehacker] [How to Get Your Tax Refund as Fast as Possible This Year](https://lifehacker.com/how-to-get-your-tax-refund-as-fast-as-possible-this-yea-1848500370)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
