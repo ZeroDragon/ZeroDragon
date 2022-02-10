@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create simple chrome extension](https://dev.to/hiro_takkii/how-to-create-simple-chrome-extension-219o)
 - [Dev.to/JS] [Browsers can do that?](https://dev.to/dustinbrett/browsers-can-do-that-271o)
 - [Dev.to/JS] [Using React useRef Hook to access immediate past props or state.](https://dev.to/walecloud/using-react-useref-hook-to-access-immediate-past-props-or-state-mgl)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 34](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-34-5a5b)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Made a Working Calculator in Javascript](https://dev.to/ciaracloud/i-made-a-working-calculator-in-javascript-1pil)
 - [Dev.to/JS] [How to Optimize Your Frontend Development Workflow for Greater Efficiency 🍄](https://dev.to/yaku/how-to-optimize-your-frontend-development-workflow-for-greater-efficiency-469j)
 - [Dev.to/JS] [I built a landing page with ReactJS.](https://dev.to/peteregbujie/i-built-a-landing-page-with-reactjs-1bnk)
-- [Dev.to/JS] [postman clone](https://dev.to/alguercode/postman-clone-5ce8)
 - [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
 - [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
