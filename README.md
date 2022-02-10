@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I built a landing page with ReactJS.](https://dev.to/peteregbujie/i-built-a-landing-page-with-reactjs-1bnk)
 - [Dev.to/JS] [postman clone](https://dev.to/alguercode/postman-clone-5ce8)
 - [Dev.to/JS] [The Best Podcasts For Devs](https://dev.to/juanjefry23/the-best-podcasts-for-devs-1e42)
 - [Dev.to/JS] [How to build Airbnb Front End](https://dev.to/seth_king/how-to-build-airbnb-front-end-4kbc)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Agrippa 1.4 is out 🎉🎊](https://dev.to/nitzanhen/agrippa-14-is-out-23co)
 - [Dev.to/JS] [preventDefault vs stopPropagation](https://dev.to/romaintrotard/preventdefault-vs-stoppropagation-g11)
 - [Lifehacker] [Keep These Common Super Bowl Snacks Away From Your Dog](https://lifehacker.com/keep-these-common-super-bowl-snacks-away-from-your-dog-1848507551)
-- [Dev.to/JS] [How to Create Custom ESLint Rules &lpar;It&#39;s Not as Hard as You Think...&rpar;](https://dev.to/bitovi/how-to-create-custom-eslint-rules-its-not-as-hard-as-you-think-3f9f)
 - [Lifehacker] [5 Inventive Ways to Reuse K-Cups](https://lifehacker.com/5-inventive-ways-to-reuse-k-cups-1848506513)
 - [Lifehacker] [How to Stop Your Kid From Spitting](https://lifehacker.com/how-to-stop-your-kid-from-spitting-1848506470)
 - [Lifehacker] [Are You Normal, or Do You Have a Favorite Way of Opening an Envelope?](https://lifehacker.com/are-you-normal-or-do-you-have-a-favorite-way-of-openin-1848507412)
