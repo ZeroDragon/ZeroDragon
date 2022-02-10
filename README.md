@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Filter unique array members &lpar;remove duplicates&rpar;](https://dev.to/kenji_goh/filter-unique-array-members-remove-duplicates-1bm1)
+- [Dev.to/JS] [Moving from JavaScript to TypeScript](https://dev.to/andrewbaisden/moving-from-javascript-to-typescript-40ac)
+- [Dev.to/JS] [Weather App using HTML,CSS and JS](https://dev.to/devrohit0/weather-app-using-htmlcss-and-js-11ag)
 - [Dev.to/JS] [Variables in JavaScript-Scope and Hoisting](https://dev.to/sarveshprajapati/variables-in-javascript-scope-and-hoisting-17oc)
 - [Dev.to/JS] [useAxios - React custom http client](https://dev.to/nelsonnedum/useaxios-react-custom-http-client-3p60)
 - [Dev.to/JS] [A simple guide to understand how React  performs rendering](https://dev.to/ketan_desai/a-simple-guide-to-understand-how-react-performs-rendering-22na)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Apple Keto Gummies - Weight Loss benefits, Price, Reviews And Complaints?](https://dev.to/appleketofact/apple-keto-gummies-weight-loss-benefits-price-reviews-and-complaints-10cg)
 - [Dev.to/JS] [How to create simple chrome extension](https://dev.to/hiro_takkii/how-to-create-simple-chrome-extension-219o)
 - [Dev.to/JS] [Browsers can do that?](https://dev.to/dustinbrett/browsers-can-do-that-271o)
-- [Dev.to/JS] [Using React useRef Hook to access immediate past props or state.](https://dev.to/walecloud/using-react-useref-hook-to-access-immediate-past-props-or-state-mgl)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 34](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-34-5a5b)
-- [Dev.to/JS] [Progressive Web App Calculator - Hex Calculator](https://dev.to/alwurts/progressive-web-app-calculator-hex-calculator-558j)
 - [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
 - [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
