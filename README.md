@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Watch on Super Bowl Sunday That Isn&#39;t the Goddamn Super Bowl](https://lifehacker.com/what-to-watch-on-super-bowl-sunday-that-isnt-the-goddam-1848508743)
+- [Lifehacker] [You Can Legally Stream Super Bowl LVI for Free](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
+- [Lifehacker] [6 iPhone File Managers That Are Way Better Than the Files App](https://lifehacker.com/6-iphone-file-managers-that-are-way-better-than-the-fil-1848498025)
+- [Dev.to/JS] [A Usage Example for a Monad in Javascript](https://dev.to/anatdagan/a-usage-example-for-a-monad-in-javascript-6g3)
 - [Dev.to/JS] [Whitelabel OnlyFans App: Develop OnlyFans Clone App](https://dev.to/mattyreign/whitelabel-onlyfans-app-develop-onlyfans-clone-app-1213)
 - [Dev.to/JS] [I Enjoyed Buiding My Portfolio.](https://dev.to/j89/i-enjoyed-buiding-my-portfolio-jfh)
 - [Dev.to/JS] [First step in JavaScript on Scrimba](https://dev.to/ahmedmagdy24/first-step-in-javascript-on-scrimba-4idi)
@@ -34,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML5 Javascript Canvas Collision 2](https://dev.to/spsoi/html5-javascript-canvas-collision-152e)
 - [Dev.to/JS] [Can&#39;t build React/Next project - found page without a React Component as default export &lpar;context api file&rpar;](https://dev.to/gilly7/cant-build-reactnext-project-found-page-without-a-react-component-as-default-export-context-api-file-50ad)
 - [Dev.to/JS] [When Less is More: Serverless NAT Gateway - Part 1](https://dev.to/alichherawalla/when-less-is-more-serverless-nat-gateway-part-1-2e3)
-- [Dev.to/JS] [Building a Todo App using SvelteKit Made Easy](https://dev.to/miketeddyomondi/building-a-todo-app-using-sveltekit-made-easy-36pe)
 - [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
 - [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The True History of Valentine’s Day](https://lifehacker.com/the-true-history-of-valentine-s-day-1848502152)
 - [Lifehacker] [Do You Really Have to Join the HOA?](https://lifehacker.com/do-you-really-have-to-join-the-hoa-1848500704)
 - [Lifehacker] [How to Install Xbox Game Pass Games in a Custom Folder on Your PC](https://lifehacker.com/how-to-install-xbox-game-pass-games-in-a-custom-folder-1848499110)
-- [Lifehacker] [The Best Things to Do If You Don&#39;t Care About the Super Bowl](https://lifehacker.com/the-best-things-to-do-if-you-dont-care-about-the-super-1848482420)
-- [Lifehacker] [The Essential Guide to Super Bowl LVI for Those Who Are Clueless](https://lifehacker.com/the-essential-guide-to-super-bowl-lvi-for-those-who-are-1848500134)
-- [Lifehacker] [The Quickest, Easiest Foods to Eat for Long-Lasting Energy](https://lifehacker.com/the-quickest-easiest-foods-to-eat-for-long-lasting-ene-1848499597)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
 - [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
