@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Buy Better Valentine&#39;s Day Gifts](https://lifehacker.com/how-to-buy-better-valentines-day-gifts-1848524230)
+- [Dev.to/JS] [Svelte VS React, which one?](https://dev.to/dimaodin/svelte-vs-react-which-one-5gif)
+- [Dev.to/JS] [JavaScript Basics #3: Arrays and Objects](https://dev.to/ericnanhu/javascript-basics-3-arrays-and-objects-1p11)
+- [Dev.to/JS] [K Sum- JS](https://dev.to/986913/k-sum-js-52g4)
+- [Lifehacker] [Have You Been Holding Your Phone Wrong This Whole Time?](https://lifehacker.com/have-you-been-holding-your-phone-wrong-this-whole-time-1848521531)
+- [Dev.to/JS] [🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-3d3l)
 - [Lifehacker] [What Are Your Favorite Sketchy Parenting Tricks That Totally Work?](https://lifehacker.com/what-are-your-favorite-sketchy-parenting-tricks-that-to-1848523125)
+- [Dev.to/JS] [how do i add pictures in javascript](https://dev.to/looph8le/how-do-i-add-pictures-in-javascript-2i82)
 - [Dev.to/JS] [Diving Into Vue 3 - Methods, Watch, and Computed](https://dev.to/deepgram/diving-into-vue-3-methods-watch-and-computed-l6h)
 - [Lifehacker] [Three Ways to Make Pigs in a Blanket, Already Perfect, Even Better](https://lifehacker.com/three-ways-to-make-pigs-in-a-blanket-already-perfect-1848520041)
 - [Dev.to/JS] [Using Custom Cursors with Javascript for a Better User Experience](https://dev.to/israelmitolu/using-custom-cursors-with-javascript-for-a-better-user-experience-1n0b)
@@ -35,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 36](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-36-1jh8)
 - [Lifehacker] [You Already Need to Update Safari Again](https://lifehacker.com/you-already-need-to-update-safari-again-1848522230)
 - [Dev.to/JS] [Membuat Javacript dan Typescript Packages dengan Typescript](https://dev.to/bl0cknumber/membuat-javacript-dan-typescript-packages-dengan-typescript-43bc)
-- [Dev.to/JS] [tsParticles 1.41.0 Released](https://dev.to/matteobruni/tsparticles-1410-released-3bag)
-- [Dev.to/JS] [Hello, world!](https://dev.to/abhishekpawl/hello-world-48h7)
 - [Lifehacker] [Skies, Seasons and Vibes: The Urbanite’s Guide to Sun Valley, Idaho](https://lifehacker.com/skies-seasons-and-vibes-the-urbanite-s-guide-to-sun-v-1848474803)
 - [Lifehacker] [10 Reasons You Should Buy a 3DS in 2022](https://lifehacker.com/10-reasons-you-should-buy-a-3ds-in-2022-1848514921)
-- [Dev.to/JS] [Make A Simple Voice Assistant with JavaScript](https://dev.to/stcollier/make-a-simple-voice-assistant-with-javascript-3lle)
-- [Dev.to/JS] [ENV variables in Vite](https://dev.to/ingsm/env-variables-in-vite-4m52)
-- [Dev.to/JS] [First-rate Java &amp; JavaScript meetups in January 2022](https://dev.to/meetupfeedio/first-rate-java-javascript-meetups-in-january-2022-7no)
 - [Lifehacker] [How to Make Extremely Elaborate To-Do Lists in Google Sheets](https://lifehacker.com/how-to-make-extremely-elaborate-to-do-lists-in-google-s-1848517398)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is homecoming.dairy?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-ho-1848520478)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Bed Look Like It’s Floating](https://lifehacker.com/how-to-make-your-bed-look-like-it-s-floating-1848512347)
 - [Lifehacker] [15 Anti-Valentine&#39;s Day Movies That Remind You Love Can Suck](https://lifehacker.com/15-anti-valentines-day-movies-that-remind-you-love-can-1848499847)
 - [Lifehacker] [Just How Much Does Your Phone Listen to Sell You Targeted Ads?](https://lifehacker.com/just-how-much-does-your-phone-listen-to-sell-you-target-1848495516)
-- [Lifehacker] [Should You Pay Off Your Starter Home, or Save Cash for the Next One?](https://lifehacker.com/should-you-pay-off-your-starter-home-or-save-cash-for-1848499437)
-- [Lifehacker] [10 Well-Known Hangover &#39;Cures&#39; That Don&#39;t Actually Work](https://lifehacker.com/10-hangover-cures-that-are-total-bullshit-1848509267)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)<!-- TECH-POSTS:END -->
 
