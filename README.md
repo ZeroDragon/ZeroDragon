@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 05 benefits of Angular used cases in 2022!](https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf)
+- [Dev.to/JS] [ResizeObserver &amp; UseState](https://dev.to/bjupfield/resizeobserver-usestate-544k)
 - [Dev.to/JS] [How to Create Multi Language Website in Laravel](https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d)
 - [Dev.to/JS] [How to Implement Camera Access from Web Browsers in 5 Minutes](https://dev.to/yushulx/how-to-implement-camera-access-from-web-browsers-in-5-minutes-4hop)
 - [Dev.to/JS] [What are the differences between C# and Java?](https://dev.to/educrystal/what-are-the-differences-between-c-and-java-4n2e)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Dev.to/JS] [Vscode Assistant 0.16 Releases](https://dev.to/tomaszs2/vscode-assistant-016-releases-5gb5)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
-- [Dev.to/JS] [WHY YOU SHOULD TEACH WEB DEVELOPEMENT](https://dev.to/csituma/why-you-should-teach-web-developement-14hf)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848515132)
-- [Dev.to/JS] [Simple &amp; Advanced Search in VS Code with Sourcegraph](https://dev.to/sourcegraph/simple-advanced-search-in-vs-code-with-sourcegraph-29if)
 - [Lifehacker] [How to Thrive While Living Alone, According to Reddit](https://lifehacker.com/how-to-thrive-while-living-alone-according-to-reddit-1848515669)
 - [Lifehacker] [These Easy Cacio e Pepe Potato Chips Belong in Your Super Bowl Spread](https://lifehacker.com/these-easy-cacio-e-pepe-potato-chips-belong-in-your-sup-1848515648)
 - [Lifehacker] [Watch for These Signs of Severe Brain Injury After Bumping Your Head](https://lifehacker.com/watch-for-these-signs-of-severe-brain-injury-after-bump-1848514711)
