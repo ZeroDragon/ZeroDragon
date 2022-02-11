@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Are Your Favorite Sketchy Parenting Tricks That Totally Work?](https://lifehacker.com/what-are-your-favorite-sketchy-parenting-tricks-that-to-1848523125)
+- [Dev.to/JS] [Diving Into Vue 3 - Methods, Watch, and Computed](https://dev.to/deepgram/diving-into-vue-3-methods-watch-and-computed-l6h)
+- [Lifehacker] [Three Ways to Make Pigs in a Blanket, Already Perfect, Even Better](https://lifehacker.com/three-ways-to-make-pigs-in-a-blanket-already-perfect-1848520041)
+- [Dev.to/JS] [Using Custom Cursors with Javascript for a Better User Experience](https://dev.to/israelmitolu/using-custom-cursors-with-javascript-for-a-better-user-experience-1n0b)
 - [Lifehacker] [14 ‘Boring’ Simulation Video Games That Are Actually Totally Addictive](https://lifehacker.com/14-boring-simulation-video-games-that-are-actually-to-1848516386)
 - [Dev.to/JS] [What&#39;s the difference between var, const and let](https://dev.to/johnpalmgren/whats-the-difference-between-var-const-and-let-309j)
 - [Dev.to/JS] [JavaScript Essentials for React Developers](https://dev.to/santan21/javascript-essentials-for-react-developers-ff7)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ENV variables in Vite](https://dev.to/ingsm/env-variables-in-vite-4m52)
 - [Dev.to/JS] [First-rate Java &amp; JavaScript meetups in January 2022](https://dev.to/meetupfeedio/first-rate-java-javascript-meetups-in-january-2022-7no)
 - [Lifehacker] [How to Make Extremely Elaborate To-Do Lists in Google Sheets](https://lifehacker.com/how-to-make-extremely-elaborate-to-do-lists-in-google-s-1848517398)
-- [Dev.to/JS] [#My-Stack - MacOS Big Sur web experience](https://dev.to/rededge967/my-stack-macos-big-sur-web-experience-52f)
-- [Dev.to/JS] [Python or JavaScript](https://dev.to/osmodes/python-or-javascript-4k84)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is homecoming.dairy?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-ho-1848520478)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Lifehacker] [You Really Should Automate Your Windows Storage &lpar;and How to Do It&rpar;](https://lifehacker.com/you-really-should-automate-your-windows-storage-and-ho-1848513143)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Just How Much Does Your Phone Listen to Sell You Targeted Ads?](https://lifehacker.com/just-how-much-does-your-phone-listen-to-sell-you-target-1848495516)
 - [Lifehacker] [Should You Pay Off Your Starter Home, or Save Cash for the Next One?](https://lifehacker.com/should-you-pay-off-your-starter-home-or-save-cash-for-1848499437)
 - [Lifehacker] [10 Well-Known Hangover &#39;Cures&#39; That Don&#39;t Actually Work](https://lifehacker.com/10-hangover-cures-that-are-total-bullshit-1848509267)
-- [Lifehacker] [What to Watch on Super Bowl Sunday That Isn&#39;t the Goddamn Super Bowl](https://lifehacker.com/what-to-watch-on-super-bowl-sunday-that-isnt-the-goddam-1848508743)
-- [Lifehacker] [You Can Legally Stream Super Bowl LVI for Free](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)<!-- TECH-POSTS:END -->
 
