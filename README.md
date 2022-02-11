@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Objects](https://dev.to/collinsonindo/javascript-objects-2gig)
+- [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
+- [Dev.to/JS] [How I REACTO to Algos](https://dev.to/amhernandez/how-i-reacto-to-algos-33ag)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Dev.to/JS] [9 awesome interview prep resources for software engineering](https://dev.to/jasterix/9-awesome-interview-prep-resources-for-software-engineering-3eo4)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s the difference between var, const and let](https://dev.to/johnpalmgren/whats-the-difference-between-var-const-and-let-309j)
 - [Dev.to/JS] [JavaScript Essentials for React Developers](https://dev.to/santan21/javascript-essentials-for-react-developers-ff7)
 - [Lifehacker] [10 of the Best Football Movies Inspired by Real Events](https://lifehacker.com/10-of-the-best-football-movies-inspired-by-real-events-1848514587)
-- [Dev.to/JS] [Are there modern JavaScript frameworks without NodeJS dependency?](https://dev.to/mikevv/are-there-modern-javascript-frameworks-without-nodejs-dependency-3m9)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 36](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-36-1jh8)
 - [Lifehacker] [You Already Need to Update Safari Again](https://lifehacker.com/you-already-need-to-update-safari-again-1848522230)
 - [Lifehacker] [Skies, Seasons and Vibes: The Urbanite’s Guide to Sun Valley, Idaho](https://lifehacker.com/skies-seasons-and-vibes-the-urbanite-s-guide-to-sun-v-1848474803)
 - [Lifehacker] [10 Reasons You Should Buy a 3DS in 2022](https://lifehacker.com/10-reasons-you-should-buy-a-3ds-in-2022-1848514921)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Thrive While Living Alone, According to Reddit](https://lifehacker.com/how-to-thrive-while-living-alone-according-to-reddit-1848515669)
 - [Lifehacker] [These Easy Cacio e Pepe Potato Chips Belong in Your Super Bowl Spread](https://lifehacker.com/these-easy-cacio-e-pepe-potato-chips-belong-in-your-sup-1848515648)
 - [Lifehacker] [Watch for These Signs of Severe Brain Injury After Bumping Your Head](https://lifehacker.com/watch-for-these-signs-of-severe-brain-injury-after-bump-1848514711)
-- [Lifehacker] [All the Free Stuff You Never Knew Your Library Card Could Get You](https://lifehacker.com/all-the-free-stuff-you-never-knew-your-library-card-cou-1848514406)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)<!-- TECH-POSTS:END -->
 
