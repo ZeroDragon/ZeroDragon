@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vision 20 - Eye Benefits, Price, Reviews And Complaints?](https://dev.to/vision20price/vision-20-eye-benefits-price-reviews-and-complaints-16lp)
+- [Dev.to/JS] [Help](https://dev.to/jam11/help-1di9)
 - [Dev.to/JS] [Top 05 benefits of Angular used cases in 2022!](https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf)
 - [Dev.to/JS] [ResizeObserver &amp; UseState](https://dev.to/bjupfield/resizeobserver-usestate-544k)
 - [Dev.to/JS] [How to Create Multi Language Website in Laravel](https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
 - [Dev.to/JS] [A Controversial Case for Double Equality](https://dev.to/eliselabonte/a-controversial-case-for-double-equality-5fnn)
 - [Dev.to/JS] [Best Way to Trigger Child Component Function?](https://dev.to/allidoisace/best-way-to-trigger-child-component-function-4501)
-- [Dev.to/JS] [A/B Testing with Create React App](https://dev.to/jdorn/ab-testing-with-create-react-app-53fg)
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
-- [Dev.to/JS] [Vscode Assistant 0.16 Releases](https://dev.to/tomaszs2/vscode-assistant-016-releases-5gb5)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848515132)
 - [Lifehacker] [How to Thrive While Living Alone, According to Reddit](https://lifehacker.com/how-to-thrive-while-living-alone-according-to-reddit-1848515669)
