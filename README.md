@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hybrid NPM package through TypeScript Compiler &lpar;TSC&rpar;](https://dev.to/mbarzeev/hybrid-npm-package-through-typescript-compiler-tsc-150c)
 - [Dev.to/JS] [Cannot find module &#39;error/typed&#39;](https://dev.to/michalbryxi/cannot-find-module-errortyped-38o5)
 - [Dev.to/JS] [“Hello World” with Diffusion Cloud and the JavaScript SDK](https://dev.to/push_technology/hello-world-with-diffusion-cloud-and-the-javascript-sdk-486g)
 - [Dev.to/JS] [Difference between Node.JS and Javascript](https://dev.to/mrdanishsaleem/difference-between-nodejs-and-javascript-4nbj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 05 benefits of Angular used cases in 2022!](https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf)
 - [Dev.to/JS] [ResizeObserver &amp; UseState](https://dev.to/bjupfield/resizeobserver-usestate-544k)
 - [Dev.to/JS] [How to Create Multi Language Website in Laravel](https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d)
-- [Dev.to/JS] [How to Implement Camera Access from Web Browsers in 5 Minutes](https://dev.to/yushulx/how-to-implement-camera-access-from-web-browsers-in-5-minutes-4hop)
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
