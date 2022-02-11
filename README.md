@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [“Hello World” with Diffusion Cloud and the JavaScript SDK](https://dev.to/push_technology/hello-world-with-diffusion-cloud-and-the-javascript-sdk-486g)
+- [Dev.to/JS] [Difference between Node.JS and Javascript](https://dev.to/mrdanishsaleem/difference-between-nodejs-and-javascript-4nbj)
+- [Dev.to/JS] [Event Bubbling and Delegation in JavaScript for beginners by a beginner.](https://dev.to/newbiehritick/event-bubbling-and-delegation-in-javascript-for-beginners-by-a-beginner-3m6k)
+- [Dev.to/JS] [10 real-world Java Use Cases and Applications](https://dev.to/botreetechnologies/10-real-world-java-use-cases-and-applications-543c)
+- [Dev.to/JS] [Why Linux Is Better For Programming 🤔](https://dev.to/elliot_brenyasarfo_18749/why-linux-is-better-for-programming-2h08)
 - [Dev.to/JS] [Vision 20 - Eye Benefits, Price, Reviews And Complaints?](https://dev.to/vision20price/vision-20-eye-benefits-price-reviews-and-complaints-16lp)
 - [Dev.to/JS] [Help](https://dev.to/jam11/help-1di9)
 - [Dev.to/JS] [Top 05 benefits of Angular used cases in 2022!](https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create Multi Language Website in Laravel](https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d)
 - [Dev.to/JS] [How to Implement Camera Access from Web Browsers in 5 Minutes](https://dev.to/yushulx/how-to-implement-camera-access-from-web-browsers-in-5-minutes-4hop)
 - [Dev.to/JS] [What are the differences between C# and Java?](https://dev.to/educrystal/what-are-the-differences-between-c-and-java-4n2e)
-- [Dev.to/JS] [Freelancing - 10 Ways Developers Make Money Coding Course - E07](https://dev.to/danfleser/freelancing-10-ways-developers-make-money-coding-course-e07-2j7g)
-- [Dev.to/JS] [Combining two independent git repositories](https://dev.to/siddharthssb11/combining-two-independent-git-repositories-1b5i)
-- [Dev.to/JS] [I made a realtime 1v1 game with Next.js &amp; Tailwind CSS, learn how](https://dev.to/nicoandrade/i-made-a-realtime-1v1-game-with-nextjs-tailwind-css-learn-how-536b)
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
-- [Dev.to/JS] [A Controversial Case for Double Equality](https://dev.to/eliselabonte/a-controversial-case-for-double-equality-5fnn)
-- [Dev.to/JS] [Best Way to Trigger Child Component Function?](https://dev.to/allidoisace/best-way-to-trigger-child-component-function-4501)
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848515132)
