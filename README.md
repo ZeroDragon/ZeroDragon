@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [The era of Axios and Node-Fetch is coming to an end](https://dev.to/miguelsmuller/the-era-of-axios-and-node-fetch-is-coming-to-an-end-4fil)
+- [Dev.to/JS] [Building a Calculator from Scratch in React](https://dev.to/yasledesma/building-a-calculator-from-scratch-in-react-j8e)
+- [Dev.to/JS] [The time of Axios and Node-Fetch is coming to an end?](https://dev.to/miguelsmuller/the-era-of-axios-and-node-fetch-is-coming-to-an-end-4fil)
 - [Dev.to/JS] [Which React Tech Stack to learn in 2022](https://dev.to/profydev/which-react-tech-stack-to-learn-in-2022-n84)
 - [Dev.to/JS] [How I handle communication between React Native Webview and Web project](https://dev.to/inancakduvan/how-i-handle-communication-between-react-native-webview-and-web-project-3lhp)
 - [Dev.to/JS] [5 Useful JavaScript code examples for beginners in 2022](https://dev.to/prakashmishr2529/5-useful-javascript-code-examples-for-beginners-in-2022-554g)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vps Server in India](https://dev.to/cloudstonz/vps-server-in-india-d0n)
 - [Dev.to/JS] [Tutorial: Digital Signatures &amp; NFT Allowlists](https://dev.to/rounakbanik/tutorial-digital-signatures-nft-allowlists-eeb)
 - [Dev.to/JS] [Inner Hooks: New idea of React Hooks](https://dev.to/tkow/inner-hooks-new-idea-of-react-hooks-59kb)
-- [Dev.to/JS] [Alcune risorse pre creare immagini del tuo Codice](https://dev.to/lolindirfaelivrin/alcune-risorse-pre-creare-immagini-del-tuo-codice-3l2c)
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
