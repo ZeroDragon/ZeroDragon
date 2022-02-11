@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Inner Hooks: New idea of React Hooks](https://dev.to/tkow/inner-hooks-new-idea-of-react-hooks-59kb)
+- [Dev.to/JS] [Alcune risorse pre creare immagini del tuo Codice](https://dev.to/lolindirfaelivrin/alcune-risorse-pre-creare-immagini-del-tuo-codice-3l2c)
 - [Dev.to/JS] [Hybrid NPM package through TypeScript Compiler &lpar;TSC&rpar;](https://dev.to/mbarzeev/hybrid-npm-package-through-typescript-compiler-tsc-150c)
 - [Dev.to/JS] [Cannot find module &#39;error/typed&#39;](https://dev.to/michalbryxi/cannot-find-module-errortyped-38o5)
 - [Dev.to/JS] [“Hello World” with Diffusion Cloud and the JavaScript SDK](https://dev.to/push_technology/hello-world-with-diffusion-cloud-and-the-javascript-sdk-486g)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vision 20 - Eye Benefits, Price, Reviews And Complaints?](https://dev.to/vision20price/vision-20-eye-benefits-price-reviews-and-complaints-16lp)
 - [Dev.to/JS] [Help](https://dev.to/jam11/help-1di9)
 - [Dev.to/JS] [Top 05 benefits of Angular used cases in 2022!](https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf)
-- [Dev.to/JS] [ResizeObserver &amp; UseState](https://dev.to/bjupfield/resizeobserver-usestate-544k)
-- [Dev.to/JS] [How to Create Multi Language Website in Laravel](https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d)
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
