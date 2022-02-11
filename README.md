@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Extremely Elaborate To-Do Lists in Google Sheets](https://lifehacker.com/how-to-make-extremely-elaborate-to-do-lists-in-google-s-1848517398)
+- [Dev.to/JS] [#My-Stack - MacOS Big Sur web experience](https://dev.to/rededge967/my-stack-macos-big-sur-web-experience-52f)
+- [Dev.to/JS] [Python or JavaScript](https://dev.to/osmodes/python-or-javascript-4k84)
+- [Dev.to/JS] [How to use Prismic.io on React Native](https://dev.to/ghacosta/how-to-use-prismicio-on-react-native-1nk5)
+- [Dev.to/JS] [JavaScript array methods explained](https://dev.to/jainpranayr/javascript-array-methods-explained-3l1i)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is homecoming.dairy?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-ho-1848520478)
+- [Dev.to/JS] [Handling multiple inputs in react.](https://dev.to/iamchiki/handling-multiple-inputs-in-react-28ig)
+- [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
+- [Dev.to/JS] [2 methods to prevent form from submission](https://dev.to/adnanafzal565/2-methods-to-prevent-form-from-submission-2p43)
+- [Dev.to/JS] [Apología de un lenguaje ambiguo: El meme definitivo para entender &lpar;o no&rpar; JavaScript avanzado 😎](https://dev.to/duxtech/apologia-de-un-lenguaje-ambiguo-el-meme-definitivo-para-entender-o-no-javascript-avanzado-20ok)
 - [Lifehacker] [You Really Should Automate Your Windows Storage &lpar;and How to Do It&rpar;](https://lifehacker.com/you-really-should-automate-your-windows-storage-and-ho-1848513143)
 - [Dev.to/JS] [JavaScript 101: Introduction to Modern JavaScript.](https://dev.to/mwovi/javascript-101-introduction-to-modern-javascript-8fh)
 - [Dev.to/JS] [3 Steps To Your First Small Business Website](https://dev.to/abhiavsnet/3-steps-to-your-first-small-business-website-2791)
@@ -30,14 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Basics #2: Functions](https://dev.to/ericnanhu/javascript-basics-2-functions-455g)
 - [Dev.to/JS] [Paracetamol.js💊| #51: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-51-explica-este-codigo-javascript-2o0g)
 - [Lifehacker] [How to Buy an Umbrella That Doesn’t Suck](https://lifehacker.com/how-to-buy-an-umbrella-that-doesn-t-suck-1848515935)
-- [Dev.to/JS] [How to get Answers On Stack overflow .](https://dev.to/calebcheptumo/how-to-get-answers-on-stack-overflow--3f6o)
-- [Dev.to/JS] [Javascript Dev Heart Messages](https://dev.to/jarvisscript/javascript-dev-heart-messages-5hl4)
 - [Lifehacker] [10 Things You Learned in Sex Ed That Aren’t Actually True](https://lifehacker.com/10-lies-you-learned-in-sex-ed-1848517072)
-- [Dev.to/JS] [Building a Calculator from Scratch in React](https://dev.to/yasledesma/building-a-calculator-from-scratch-in-react-j8e)
-- [Dev.to/JS] [The time of Axios and Node-Fetch is coming to an end?](https://dev.to/miguelsmuller/the-era-of-axios-and-node-fetch-is-coming-to-an-end-4fil)
-- [Dev.to/JS] [Which React Tech Stack to learn in 2022](https://dev.to/profydev/which-react-tech-stack-to-learn-in-2022-n84)
-- [Dev.to/JS] [How I handle communication between React Native Webview and Web project](https://dev.to/inancakduvan/how-i-handle-communication-between-react-native-webview-and-web-project-3lhp)
-- [Dev.to/JS] [5 Useful JavaScript code examples for beginners in 2022](https://dev.to/prakashmishr2529/5-useful-javascript-code-examples-for-beginners-in-2022-554g)
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
@@ -58,11 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
 - [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
 - [Lifehacker] [Keep These Common Super Bowl Snacks Away From Your Dog](https://lifehacker.com/keep-these-common-super-bowl-snacks-away-from-your-dog-1848507551)
-- [Lifehacker] [5 Inventive Ways to Reuse K-Cups](https://lifehacker.com/5-inventive-ways-to-reuse-k-cups-1848506513)
-- [Lifehacker] [How to Stop Your Kid From Spitting](https://lifehacker.com/how-to-stop-your-kid-from-spitting-1848506470)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
-- [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
-- [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)<!-- TECH-POSTS:END -->
 
 ---
 
