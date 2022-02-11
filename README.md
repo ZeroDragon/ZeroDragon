@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the differences between C# and Java?](https://dev.to/educrystal/what-are-the-differences-between-c-and-java-4n2e)
+- [Dev.to/JS] [Freelancing - 10 Ways Developers Make Money Coding Course - E07](https://dev.to/danfleser/freelancing-10-ways-developers-make-money-coding-course-e07-2j7g)
 - [Dev.to/JS] [Combining two independent git repositories](https://dev.to/siddharthssb11/combining-two-independent-git-repositories-1b5i)
 - [Dev.to/JS] [I made a realtime 1v1 game with Next.js &amp; Tailwind CSS, learn how](https://dev.to/nicoandrade/i-made-a-realtime-1v1-game-with-nextjs-tailwind-css-learn-how-536b)
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how to validate data in javascript](https://dev.to/alguercode/how-to-validate-data-in-javascript-5eg7)
 - [Dev.to/JS] [Showing different titles depending if the tab is active or not](https://dev.to/codepo8/showing-different-titles-depending-if-the-tab-is-active-or-not-hef)
 - [Lifehacker] [How to Thrive While Living Alone, According to Reddit](https://lifehacker.com/how-to-thrive-while-living-alone-according-to-reddit-1848515669)
-- [Dev.to/JS] [Redux and Redux toolkit - simply explained.](https://dev.to/devmdmamun/redux-and-redux-toolkit-simply-explained-1b1b)
-- [Dev.to/JS] [How do abstract Socket.IO connections in your SPA.](https://dev.to/huzaifa99/how-do-abstract-socketio-connections-in-your-spa-c34)
 - [Lifehacker] [These Easy Cacio e Pepe Potato Chips Belong in Your Super Bowl Spread](https://lifehacker.com/these-easy-cacio-e-pepe-potato-chips-belong-in-your-sup-1848515648)
 - [Lifehacker] [Watch for These Signs of Severe Brain Injury After Bumping Your Head](https://lifehacker.com/watch-for-these-signs-of-severe-brain-injury-after-bump-1848514711)
 - [Lifehacker] [All the Free Stuff You Never Knew Your Library Card Could Get You](https://lifehacker.com/all-the-free-stuff-you-never-knew-your-library-card-cou-1848514406)
