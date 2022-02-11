@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Whatsapp a number without saving it : wameunknown](https://dev.to/nyalla/whatsapp-a-number-without-saving-it-wameunknown-mii)
+- [Dev.to/JS] [Rendering 3D scenes with three.js](https://dev.to/ritza/rendering-3d-scenes-with-threejs-oik)
+- [Dev.to/JS] [HTML5 Javascript Canvas : Rectangular Collision](https://dev.to/spsoi/html5-javascript-canvas-rectangular-collision-4dl7)
+- [Dev.to/JS] [Vps Server in India](https://dev.to/cloudstonz/vps-server-in-india-d0n)
+- [Dev.to/JS] [Tutorial: Digital Signatures &amp; NFT Allowlists](https://dev.to/rounakbanik/tutorial-digital-signatures-nft-allowlists-eeb)
 - [Dev.to/JS] [Inner Hooks: New idea of React Hooks](https://dev.to/tkow/inner-hooks-new-idea-of-react-hooks-59kb)
 - [Dev.to/JS] [Alcune risorse pre creare immagini del tuo Codice](https://dev.to/lolindirfaelivrin/alcune-risorse-pre-creare-immagini-del-tuo-codice-3l2c)
 - [Dev.to/JS] [Hybrid NPM package through TypeScript Compiler &lpar;TSC&rpar;](https://dev.to/mbarzeev/hybrid-npm-package-through-typescript-compiler-tsc-150c)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [“Hello World” with Diffusion Cloud and the JavaScript SDK](https://dev.to/push_technology/hello-world-with-diffusion-cloud-and-the-javascript-sdk-486g)
 - [Dev.to/JS] [Difference between Node.JS and Javascript](https://dev.to/mrdanishsaleem/difference-between-nodejs-and-javascript-4nbj)
 - [Dev.to/JS] [Event Bubbling and Delegation in JavaScript for beginners by a beginner.](https://dev.to/newbiehritick/event-bubbling-and-delegation-in-javascript-for-beginners-by-a-beginner-3m6k)
-- [Dev.to/JS] [10 real-world Java Use Cases and Applications](https://dev.to/botreetechnologies/10-real-world-java-use-cases-and-applications-543c)
-- [Dev.to/JS] [Why Linux Is Better For Programming 🤔](https://dev.to/elliot_brenyasarfo_18749/why-linux-is-better-for-programming-2h08)
-- [Dev.to/JS] [Vision 20 - Eye Benefits, Price, Reviews And Complaints?](https://dev.to/vision20price/vision-20-eye-benefits-price-reviews-and-complaints-16lp)
-- [Dev.to/JS] [Help](https://dev.to/jam11/help-1di9)
-- [Dev.to/JS] [Top 05 benefits of Angular used cases in 2022!](https://dev.to/arohi/top-05-benefits-of-angular-used-cases-in-2022-58kf)
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
