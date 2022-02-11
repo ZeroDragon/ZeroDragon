@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create Multi Language Website in Laravel](https://dev.to/techsolutionstuff/how-to-create-multi-language-website-in-laravel-1m2d)
+- [Dev.to/JS] [How to Implement Camera Access from Web Browsers in 5 Minutes](https://dev.to/yushulx/how-to-implement-camera-access-from-web-browsers-in-5-minutes-4hop)
 - [Dev.to/JS] [What are the differences between C# and Java?](https://dev.to/educrystal/what-are-the-differences-between-c-and-java-4n2e)
 - [Dev.to/JS] [Freelancing - 10 Ways Developers Make Money Coding Course - E07](https://dev.to/danfleser/freelancing-10-ways-developers-make-money-coding-course-e07-2j7g)
 - [Dev.to/JS] [Combining two independent git repositories](https://dev.to/siddharthssb11/combining-two-independent-git-repositories-1b5i)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WHY YOU SHOULD TEACH WEB DEVELOPEMENT](https://dev.to/csituma/why-you-should-teach-web-developement-14hf)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848515132)
 - [Dev.to/JS] [Simple &amp; Advanced Search in VS Code with Sourcegraph](https://dev.to/sourcegraph/simple-advanced-search-in-vs-code-with-sourcegraph-29if)
-- [Dev.to/JS] [how to validate data in javascript](https://dev.to/alguercode/how-to-validate-data-in-javascript-5eg7)
-- [Dev.to/JS] [Showing different titles depending if the tab is active or not](https://dev.to/codepo8/showing-different-titles-depending-if-the-tab-is-active-or-not-hef)
 - [Lifehacker] [How to Thrive While Living Alone, According to Reddit](https://lifehacker.com/how-to-thrive-while-living-alone-according-to-reddit-1848515669)
 - [Lifehacker] [These Easy Cacio e Pepe Potato Chips Belong in Your Super Bowl Spread](https://lifehacker.com/these-easy-cacio-e-pepe-potato-chips-belong-in-your-sup-1848515648)
 - [Lifehacker] [Watch for These Signs of Severe Brain Injury After Bumping Your Head](https://lifehacker.com/watch-for-these-signs-of-severe-brain-injury-after-bump-1848514711)
