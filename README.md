@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Find the Best Online Detective Forums &lpar;and Help Solve Real Crimes&rpar;](https://lifehacker.com/where-to-find-the-best-online-detective-forums-and-hel-1848510310)
 - [Lifehacker] [How to Buy Better Valentine&#39;s Day Gifts](https://lifehacker.com/how-to-buy-better-valentines-day-gifts-1848524230)
 - [Dev.to/JS] [Svelte VS React, which one?](https://dev.to/dimaodin/svelte-vs-react-which-one-5gif)
 - [Dev.to/JS] [JavaScript Basics #3: Arrays and Objects](https://dev.to/ericnanhu/javascript-basics-3-arrays-and-objects-1p11)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Free Stuff You Never Knew Your Library Card Could Get You](https://lifehacker.com/all-the-free-stuff-you-never-knew-your-library-card-cou-1848514406)
 - [Lifehacker] [How to Make Your Bed Look Like It’s Floating](https://lifehacker.com/how-to-make-your-bed-look-like-it-s-floating-1848512347)
 - [Lifehacker] [15 Anti-Valentine&#39;s Day Movies That Remind You Love Can Suck](https://lifehacker.com/15-anti-valentines-day-movies-that-remind-you-love-can-1848499847)
-- [Lifehacker] [Just How Much Does Your Phone Listen to Sell You Targeted Ads?](https://lifehacker.com/just-how-much-does-your-phone-listen-to-sell-you-target-1848495516)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)<!-- TECH-POSTS:END -->
 
