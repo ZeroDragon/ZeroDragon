@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Already Need to Update Safari Again](https://lifehacker.com/you-already-need-to-update-safari-again-1848522230)
+- [Dev.to/JS] [Membuat Javacript dan Typescript Packages dengan Typescript](https://dev.to/bl0cknumber/membuat-javacript-dan-typescript-packages-dengan-typescript-43bc)
+- [Dev.to/JS] [tsParticles 1.41.0 Released](https://dev.to/matteobruni/tsparticles-1410-released-3bag)
+- [Dev.to/JS] [Hello, world!](https://dev.to/abhishekpawl/hello-world-48h7)
+- [Lifehacker] [10 Reasons You Should Buy a 3DS in 2022](https://lifehacker.com/10-reasons-you-should-buy-a-3ds-in-2022-1848514921)
+- [Dev.to/JS] [Make A Simple Voice Assistant with JavaScript](https://dev.to/stcollier/make-a-simple-voice-assistant-with-javascript-3lle)
+- [Dev.to/JS] [ENV variables in Vite](https://dev.to/ingsm/env-variables-in-vite-4m52)
+- [Dev.to/JS] [First-rate Java &amp; JavaScript meetups in January 2022](https://dev.to/meetupfeedio/first-rate-java-javascript-meetups-in-january-2022-7no)
 - [Lifehacker] [How to Make Extremely Elaborate To-Do Lists in Google Sheets](https://lifehacker.com/how-to-make-extremely-elaborate-to-do-lists-in-google-s-1848517398)
 - [Dev.to/JS] [#My-Stack - MacOS Big Sur web experience](https://dev.to/rededge967/my-stack-macos-big-sur-web-experience-52f)
 - [Dev.to/JS] [Python or JavaScript](https://dev.to/osmodes/python-or-javascript-4k84)
@@ -32,13 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handling multiple inputs in react.](https://dev.to/iamchiki/handling-multiple-inputs-in-react-28ig)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Dev.to/JS] [2 methods to prevent form from submission](https://dev.to/adnanafzal565/2-methods-to-prevent-form-from-submission-2p43)
-- [Dev.to/JS] [Apología de un lenguaje ambiguo: El meme definitivo para entender &lpar;o no&rpar; JavaScript avanzado 😎](https://dev.to/duxtech/apologia-de-un-lenguaje-ambiguo-el-meme-definitivo-para-entender-o-no-javascript-avanzado-20ok)
 - [Lifehacker] [You Really Should Automate Your Windows Storage &lpar;and How to Do It&rpar;](https://lifehacker.com/you-really-should-automate-your-windows-storage-and-ho-1848513143)
-- [Dev.to/JS] [JavaScript 101: Introduction to Modern JavaScript.](https://dev.to/mwovi/javascript-101-introduction-to-modern-javascript-8fh)
-- [Dev.to/JS] [3 Steps To Your First Small Business Website](https://dev.to/abhiavsnet/3-steps-to-your-first-small-business-website-2791)
-- [Dev.to/JS] [🚀10 Trending projects on GitHub for web developers - 11th February 2022](https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-11th-february-2022-4agj)
-- [Dev.to/JS] [JavaScript Basics #2: Functions](https://dev.to/ericnanhu/javascript-basics-2-functions-455g)
-- [Dev.to/JS] [Paracetamol.js💊| #51: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-51-explica-este-codigo-javascript-2o0g)
 - [Lifehacker] [How to Buy an Umbrella That Doesn’t Suck](https://lifehacker.com/how-to-buy-an-umbrella-that-doesn-t-suck-1848515935)
 - [Lifehacker] [10 Things You Learned in Sex Ed That Aren’t Actually True](https://lifehacker.com/10-lies-you-learned-in-sex-ed-1848517072)
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 iPhone File Managers That Are Way Better Than the Files App](https://lifehacker.com/6-iphone-file-managers-that-are-way-better-than-the-fil-1848498025)
 - [Lifehacker] [How to Lock in Amazon Prime at the Old Rate &lpar;at Least for a Year or Two&rpar;](https://lifehacker.com/how-to-lock-in-amazon-prime-at-the-old-rate-at-least-f-1848508125)
 - [Lifehacker] [A &#39;Dips &amp; Drinks&#39; Theme Will Give Your Super Bowl Party a Competitive Edge](https://lifehacker.com/a-dips-drinks-theme-will-give-your-super-bowl-party-a-1848508639)
-- [Lifehacker] [Which Music Streaming Service Is the Most Ethical?](https://lifehacker.com/which-music-streaming-service-is-the-most-ethical-1848508243)
-- [Lifehacker] [Keep These Common Super Bowl Snacks Away From Your Dog](https://lifehacker.com/keep-these-common-super-bowl-snacks-away-from-your-dog-1848507551)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)<!-- TECH-POSTS:END -->
 
