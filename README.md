@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
+- [Dev.to/JS] [Huuman CBD Gummies - Pain Relief Benefits, Price, Reviews And Ingredients?](https://dev.to/huumancbdinfo/huuman-cbd-gummies-pain-relief-benefits-price-reviews-and-ingredients-425k)
+- [Dev.to/JS] [Create a Google Chrome Extension Part 2: Image Grabber](https://dev.to/andreygermanov/create-a-google-chrome-extension-part-2-image-grabber-47h7)
 - [Dev.to/JS] [Promises - JavaScript Concepts Simplified](https://dev.to/thisurathenuka/promises-javascript-concepts-simplified-in2)
 - [Dev.to/JS] [Website for all web designers](https://dev.to/sripadhs/website-for-all-web-designers-2dgn)
 - [Dev.to/JS] [Node.js Tutorial ✨ Complete Guide for Beginners](https://dev.to/webdeasy/nodejs-tutorial-complete-guide-for-beginners-1l83)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to enact a Component Loop in React ⚛️](https://dev.to/djackson/how-to-enact-a-component-loop-in-react-36b1)
 - [Dev.to/JS] [Animated Sidebar Navigation Panel using HTML, CSS and Javascript](https://dev.to/salmansaleempiaic/animated-sidebar-navigation-panel-using-html-css-and-javascript-21c2)
 - [Dev.to/JS] [Day 97 of 100 Days of Code &amp; Scrum: Aggregate Functions in MySQL](https://dev.to/rammina/day-97-of-100-days-of-code-scrum-aggregate-functions-in-mysql-pi5)
-- [Dev.to/JS] [It Was Not My Laziness, It Was My Fear That Stopped Me Moving Forward.](https://dev.to/j89/it-was-not-my-laziness-it-was-my-fear-that-stopped-me-moving-forward-4foh)
-- [Dev.to/JS] [How To Export Text From Adobe Illustrator and Photoshop To Notepad?](https://dev.to/zujaj/how-to-export-text-from-adobe-illustrator-and-photoshop-to-notepad-7g2)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848515132)
 - [Lifehacker] [How to Thrive While Living Alone, According to Reddit](https://lifehacker.com/how-to-thrive-while-living-alone-according-to-reddit-1848515669)
-- [Lifehacker] [These Easy Cacio e Pepe Potato Chips Belong in Your Super Bowl Spread](https://lifehacker.com/these-easy-cacio-e-pepe-potato-chips-belong-in-your-sup-1848515648)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)<!-- TECH-POSTS:END -->
 
