@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Thread of Execution - One Thing at a time](https://dev.to/leonnimoy/thread-of-execution-one-thing-at-a-time-3odc)
+- [Dev.to/JS] [How to quickly find the page  from your browser&#39;s history, bookmarks, and tabs.](https://dev.to/kawamataryo/how-to-quickly-find-the-page-from-your-browsers-history-bookmarks-and-tabs-37eo)
 - [Dev.to/JS] [Javascript Objects](https://dev.to/collinsonindo/javascript-objects-2gig)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Dev.to/JS] [How I REACTO to Algos](https://dev.to/amhernandez/how-i-reacto-to-algos-33ag)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Make Pigs in a Blanket, Already Perfect, Even Better](https://lifehacker.com/three-ways-to-make-pigs-in-a-blanket-already-perfect-1848520041)
 - [Dev.to/JS] [Using Custom Cursors with Javascript for a Better User Experience](https://dev.to/israelmitolu/using-custom-cursors-with-javascript-for-a-better-user-experience-1n0b)
 - [Lifehacker] [14 ‘Boring’ Simulation Video Games That Are Actually Totally Addictive](https://lifehacker.com/14-boring-simulation-video-games-that-are-actually-to-1848516386)
-- [Dev.to/JS] [What&#39;s the difference between var, const and let](https://dev.to/johnpalmgren/whats-the-difference-between-var-const-and-let-309j)
-- [Dev.to/JS] [JavaScript Essentials for React Developers](https://dev.to/santan21/javascript-essentials-for-react-developers-ff7)
 - [Lifehacker] [10 of the Best Football Movies Inspired by Real Events](https://lifehacker.com/10-of-the-best-football-movies-inspired-by-real-events-1848514587)
 - [Lifehacker] [You Already Need to Update Safari Again](https://lifehacker.com/you-already-need-to-update-safari-again-1848522230)
 - [Lifehacker] [Skies, Seasons and Vibes: The Urbanite’s Guide to Sun Valley, Idaho](https://lifehacker.com/skies-seasons-and-vibes-the-urbanite-s-guide-to-sun-v-1848474803)
