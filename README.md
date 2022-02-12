@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Promises - JavaScript Concepts Simplified](https://dev.to/thisurathenuka/promises-javascript-concepts-simplified-in2)
+- [Dev.to/JS] [Website for all web designers](https://dev.to/sripadhs/website-for-all-web-designers-2dgn)
+- [Dev.to/JS] [Node.js Tutorial ✨ Complete Guide for Beginners](https://dev.to/webdeasy/nodejs-tutorial-complete-guide-for-beginners-1l83)
+- [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
 - [Dev.to/JS] [easy way to validate data in javascript](https://dev.to/alguercode/easy-way-to-validate-data-in-javascript-3joh)
 - [Dev.to/JS] [5 Years of Building a Web App, Submitting it to Hacker News, and Getting My First $1.](https://dev.to/ryohey/5-years-of-building-a-web-app-submitting-it-to-hacker-news-and-getting-my-first-1-14hh)
 - [Dev.to/JS] [My Journey with Solana India Fellowship - Week 1](https://dev.to/nipun1999/my-journey-with-solana-india-fellowship-week-1-oe2)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 97 of 100 Days of Code &amp; Scrum: Aggregate Functions in MySQL](https://dev.to/rammina/day-97-of-100-days-of-code-scrum-aggregate-functions-in-mysql-pi5)
 - [Dev.to/JS] [It Was Not My Laziness, It Was My Fear That Stopped Me Moving Forward.](https://dev.to/j89/it-was-not-my-laziness-it-was-my-fear-that-stopped-me-moving-forward-4foh)
 - [Dev.to/JS] [How To Export Text From Adobe Illustrator and Photoshop To Notepad?](https://dev.to/zujaj/how-to-export-text-from-adobe-illustrator-and-photoshop-to-notepad-7g2)
-- [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide or Introduction to Modern JavaScript.](https://dev.to/kwizeral/javascript-101-ultimate-javascript-guide-or-introduction-to-modern-javascript-4oag)
-- [Dev.to/JS] [where i practice javascript question???](https://dev.to/dimplejha/where-i-practice-javascript-question-3amn)
-- [Dev.to/JS] [Part 4: Deploy VueJS project to GitHub pages for live version](https://dev.to/curiosity/part-4-deploy-project-to-github-pages-for-live-version-1lbm)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848515132)
 - [Lifehacker] [How to Thrive While Living Alone, According to Reddit](https://lifehacker.com/how-to-thrive-while-living-alone-according-to-reddit-1848515669)
 - [Lifehacker] [These Easy Cacio e Pepe Potato Chips Belong in Your Super Bowl Spread](https://lifehacker.com/these-easy-cacio-e-pepe-potato-chips-belong-in-your-sup-1848515648)
-- [Lifehacker] [Watch for These Signs of Severe Brain Injury After Bumping Your Head](https://lifehacker.com/watch-for-these-signs-of-severe-brain-injury-after-bump-1848514711)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)<!-- TECH-POSTS:END -->
 
