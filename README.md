@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Music Player](https://dev.to/lucifer25x/simple-music-player-5f33)
+- [Dev.to/JS] [WHY JavaScript ???](https://dev.to/amirabourogaa/why-javascript--2npk)
+- [Dev.to/JS] [A &quot;function type covariance&quot; trap in typescript](https://dev.to/yw662/a-function-type-covariance-trap-in-typescript-1c4k)
 - [Dev.to/JS] [How to test React application with Jest](https://dev.to/pavelkeyzik/how-to-test-react-application-with-jest-2d47)
 - [Dev.to/JS] [Smooth CSS Gradient Transitions](https://dev.to/smpnjn/smooth-css-gradient-transitions-3d2j)
 - [Dev.to/JS] [What the heck is single threaded and synchronous &lpar;JavaScript&rpar;](https://dev.to/therajatg/javascript-single-threaded-and-synchronous-what-the-heck-it-is-35a9)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Dev.to/JS] [Crashing gracefully while error handling using Error Boundaries.](https://dev.to/siddharthssb11/crashing-gracefully-while-error-handling-using-error-boundaries-558a)
 - [Dev.to/JS] [How This JavaScript Game Made More Than $1,000,000](https://dev.to/theskavin/how-this-javascript-game-made-more-than-1000000-15c2)
-- [Dev.to/JS] [Compiler &amp; Transpiler](https://dev.to/muskanchhatrasal/compiler-transpiler-17nh)
-- [Dev.to/JS] [What is easier to learn: React or Angular?](https://dev.to/tomaszs2/what-is-easier-to-learn-react-or-angular-50d4)
-- [Dev.to/JS] [Paracetamol.js💊| #52: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-52-explica-este-codigo-javascript-kme)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
