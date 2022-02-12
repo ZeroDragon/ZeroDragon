@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React and redux](https://dev.to/nelsonmalbonecoding/react-and-redux-2kok)
+- [Dev.to/JS] [Make The Whole Picture Link.](https://dev.to/anreizm/make-the-whole-picture-link-f84)
 - [Dev.to/JS] [Thread of Execution - One Thing at a time](https://dev.to/leonnimoy/thread-of-execution-one-thing-at-a-time-3odc)
 - [Dev.to/JS] [How to quickly find the page  from your browser&#39;s history, bookmarks, and tabs.](https://dev.to/kawamataryo/how-to-quickly-find-the-page-from-your-browsers-history-bookmarks-and-tabs-37eo)
 - [Dev.to/JS] [Javascript Objects](https://dev.to/collinsonindo/javascript-objects-2gig)
@@ -40,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-3d3l)
 - [Lifehacker] [What Are Your Favorite Sketchy Parenting Tricks That Totally Work?](https://lifehacker.com/what-are-your-favorite-sketchy-parenting-tricks-that-to-1848523125)
 - [Dev.to/JS] [how do i add pictures in javascript](https://dev.to/looph8le/how-do-i-add-pictures-in-javascript-2i82)
-- [Dev.to/JS] [Diving Into Vue 3 - Methods, Watch, and Computed](https://dev.to/deepgram/diving-into-vue-3-methods-watch-and-computed-l6h)
 - [Lifehacker] [Three Ways to Make Pigs in a Blanket, Already Perfect, Even Better](https://lifehacker.com/three-ways-to-make-pigs-in-a-blanket-already-perfect-1848520041)
-- [Dev.to/JS] [Using Custom Cursors with Javascript for a Better User Experience](https://dev.to/israelmitolu/using-custom-cursors-with-javascript-for-a-better-user-experience-1n0b)
 - [Lifehacker] [14 ‘Boring’ Simulation Video Games That Are Actually Totally Addictive](https://lifehacker.com/14-boring-simulation-video-games-that-are-actually-to-1848516386)
 - [Lifehacker] [10 of the Best Football Movies Inspired by Real Events](https://lifehacker.com/10-of-the-best-football-movies-inspired-by-real-events-1848514587)
 - [Lifehacker] [You Already Need to Update Safari Again](https://lifehacker.com/you-already-need-to-update-safari-again-1848522230)
