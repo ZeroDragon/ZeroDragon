@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is easier to learn: React or Angular?](https://dev.to/tomaszs2/what-is-easier-to-learn-react-or-angular-50d4)
+- [Dev.to/JS] [Paracetamol.js💊| #52: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-52-explica-este-codigo-javascript-kme)
+- [Dev.to/JS] [Async vs Defer in javascript](https://dev.to/iamrishupatel/async-vs-defer-in-javascript-4ohg)
+- [Dev.to/JS] [Express Error Handling](https://dev.to/adidoshi/express-error-handling-7nd)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
 - [Dev.to/JS] [Huuman CBD Gummies - Pain Relief Benefits, Price, Reviews And Ingredients?](https://dev.to/huumancbdinfo/huuman-cbd-gummies-pain-relief-benefits-price-reviews-and-ingredients-425k)
-- [Dev.to/JS] [Create a Google Chrome Extension Part 2: Image Grabber](https://dev.to/andreygermanov/create-a-google-chrome-extension-part-2-image-grabber-47h7)
 - [Dev.to/JS] [Promises - JavaScript Concepts Simplified](https://dev.to/thisurathenuka/promises-javascript-concepts-simplified-in2)
 - [Dev.to/JS] [Website for all web designers](https://dev.to/sripadhs/website-for-all-web-designers-2dgn)
 - [Dev.to/JS] [Node.js Tutorial ✨ Complete Guide for Beginners](https://dev.to/webdeasy/nodejs-tutorial-complete-guide-for-beginners-1l83)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Years of Building a Web App, Submitting it to Hacker News, and Getting My First $1.](https://dev.to/ryohey/5-years-of-building-a-web-app-submitting-it-to-hacker-news-and-getting-my-first-1-14hh)
 - [Dev.to/JS] [My Journey with Solana India Fellowship - Week 1](https://dev.to/nipun1999/my-journey-with-solana-india-fellowship-week-1-oe2)
 - [Dev.to/JS] [CSS Glass Morphism Generator](https://dev.to/smpnjn/css-glass-morphism-generator-5eii)
-- [Dev.to/JS] [How to enact a Component Loop in React ⚛️](https://dev.to/djackson/how-to-enact-a-component-loop-in-react-36b1)
-- [Dev.to/JS] [Animated Sidebar Navigation Panel using HTML, CSS and Javascript](https://dev.to/salmansaleempiaic/animated-sidebar-navigation-panel-using-html-css-and-javascript-21c2)
-- [Dev.to/JS] [Day 97 of 100 Days of Code &amp; Scrum: Aggregate Functions in MySQL](https://dev.to/rammina/day-97-of-100-days-of-code-scrum-aggregate-functions-in-mysql-pi5)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
