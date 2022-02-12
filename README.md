@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
+- [Dev.to/JS] [Crashing gracefully while error handling using Error Boundaries.](https://dev.to/siddharthssb11/crashing-gracefully-while-error-handling-using-error-boundaries-558a)
+- [Dev.to/JS] [How This JavaScript Game Made More Than $1,000,000](https://dev.to/theskavin/how-this-javascript-game-made-more-than-1000000-15c2)
+- [Dev.to/JS] [Compiler &amp; Transpiler](https://dev.to/muskanchhatrasal/compiler-transpiler-17nh)
 - [Dev.to/JS] [What is easier to learn: React or Angular?](https://dev.to/tomaszs2/what-is-easier-to-learn-react-or-angular-50d4)
 - [Dev.to/JS] [Paracetamol.js💊| #52: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-52-explica-este-codigo-javascript-kme)
 - [Dev.to/JS] [Async vs Defer in javascript](https://dev.to/iamrishupatel/async-vs-defer-in-javascript-4ohg)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.js Tutorial ✨ Complete Guide for Beginners](https://dev.to/webdeasy/nodejs-tutorial-complete-guide-for-beginners-1l83)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
 - [Dev.to/JS] [easy way to validate data in javascript](https://dev.to/alguercode/easy-way-to-validate-data-in-javascript-3joh)
-- [Dev.to/JS] [5 Years of Building a Web App, Submitting it to Hacker News, and Getting My First $1.](https://dev.to/ryohey/5-years-of-building-a-web-app-submitting-it-to-hacker-news-and-getting-my-first-1-14hh)
-- [Dev.to/JS] [My Journey with Solana India Fellowship - Week 1](https://dev.to/nipun1999/my-journey-with-solana-india-fellowship-week-1-oe2)
-- [Dev.to/JS] [CSS Glass Morphism Generator](https://dev.to/smpnjn/css-glass-morphism-generator-5eii)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848515132)
-- [Lifehacker] [How to Thrive While Living Alone, According to Reddit](https://lifehacker.com/how-to-thrive-while-living-alone-according-to-reddit-1848515669)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
 - [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)<!-- TECH-POSTS:END -->
 
