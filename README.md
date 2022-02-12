@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello, world!](https://dev.to/abhishekpawl/hello-world-2c2b)
 - [Dev.to/JS] [Leetcode diary: 153. Find Minimum in Rotated Sorted Array [Binary Search]](https://dev.to/kevin074/leetcode-diary-153-find-minimum-in-rotated-sorted-array-binary-search-4ao8)
 - [Dev.to/JS] [React and redux](https://dev.to/nelsonmalbonecoding/react-and-redux-2kok)
 - [Dev.to/JS] [Make The Whole Picture Link.](https://dev.to/anreizm/make-the-whole-picture-link-f84)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Basics #3: Arrays and Objects](https://dev.to/ericnanhu/javascript-basics-3-arrays-and-objects-1p11)
 - [Dev.to/JS] [K Sum- JS](https://dev.to/986913/k-sum-js-52g4)
 - [Lifehacker] [Have You Been Holding Your Phone Wrong This Whole Time?](https://lifehacker.com/have-you-been-holding-your-phone-wrong-this-whole-time-1848521531)
-- [Dev.to/JS] [🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-3d3l)
 - [Lifehacker] [What Are Your Favorite Sketchy Parenting Tricks That Totally Work?](https://lifehacker.com/what-are-your-favorite-sketchy-parenting-tricks-that-to-1848523125)
 - [Lifehacker] [Three Ways to Make Pigs in a Blanket, Already Perfect, Even Better](https://lifehacker.com/three-ways-to-make-pigs-in-a-blanket-already-perfect-1848520041)
 - [Lifehacker] [14 ‘Boring’ Simulation Video Games That Are Actually Totally Addictive](https://lifehacker.com/14-boring-simulation-video-games-that-are-actually-to-1848516386)
