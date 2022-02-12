@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode - Single Number](https://dev.to/_alkesh26/leetcode-single-number-2828)
+- [Dev.to/JS] [Intro to programming fundamentals](https://dev.to/britzdylan/intro-to-programming-fundamentals-2b9k)
+- [Dev.to/JS] [HTML5 Javascript Canvas : Collision - Drag And Drop](https://dev.to/spsoi/html5-javascript-canvas-rectangular-collision-2783)
+- [Dev.to/JS] [Data Types in JavaScript — The Weird Parts](https://dev.to/sarveshprajapati/data-types-in-javascript-the-weird-parts-11e1)
 - [Dev.to/JS] [Swapping 2 Numbers In More Than 2 Ways.](https://dev.to/ishanbagchi/swapping-2-numbers-in-more-than-2-ways-4og0)
 - [Dev.to/JS] [Make you Custom Hooks in React!](https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig)
 - [Dev.to/JS] [This is How I Switch from Angular to React](https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tilt on hover using Vanilla-tilt.js](https://dev.to/yashkumat/tilt-on-hover-using-vanilla-tiltjs-23n0)
 - [Dev.to/JS] [Global State Management in Svelte](https://dev.to/hideckies/global-state-management-in-svelte-109d)
 - [Dev.to/JS] [Comparison between fetch and axios](https://dev.to/lada496/comparison-between-fetch-and-axios-4np2)
-- [Dev.to/JS] [I suck at WORDLE, so I solved it with JS and Uilicious](https://dev.to/uilicious/i-suck-at-wordle-so-i-solved-it-with-js-and-uilicious-4hfc)
-- [Dev.to/JS] [Day 3 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1.Two-Sum&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog_com567/day-3-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1two-sumeasyjavascript-4o6)
-- [Dev.to/JS] [Hello, world!](https://dev.to/abhishekpawl/hello-world-2c2b)
-- [Dev.to/JS] [Leetcode diary: 153. Find Minimum in Rotated Sorted Array [Binary Search]](https://dev.to/kevin074/leetcode-diary-153-find-minimum-in-rotated-sorted-array-binary-search-4ao8)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
