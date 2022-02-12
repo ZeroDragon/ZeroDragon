@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to show Image Preview from Input element.](https://dev.to/adeleke5140/how-to-show-image-preview-from-input-element-4eo8)
+- [Dev.to/JS] [Beginners guide to React.js Batched Updates](https://dev.to/siddharthssb11/beginners-guide-to-reactjs-batched-updates-5c3c)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Dev.to/JS] [Crashing gracefully while error handling using Error Boundaries.](https://dev.to/siddharthssb11/crashing-gracefully-while-error-handling-using-error-boundaries-558a)
 - [Dev.to/JS] [How This JavaScript Game Made More Than $1,000,000](https://dev.to/theskavin/how-this-javascript-game-made-more-than-1000000-15c2)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Huuman CBD Gummies - Pain Relief Benefits, Price, Reviews And Ingredients?](https://dev.to/huumancbdinfo/huuman-cbd-gummies-pain-relief-benefits-price-reviews-and-ingredients-425k)
 - [Dev.to/JS] [Promises - JavaScript Concepts Simplified](https://dev.to/thisurathenuka/promises-javascript-concepts-simplified-in2)
 - [Dev.to/JS] [Website for all web designers](https://dev.to/sripadhs/website-for-all-web-designers-2dgn)
-- [Dev.to/JS] [Node.js Tutorial ✨ Complete Guide for Beginners](https://dev.to/webdeasy/nodejs-tutorial-complete-guide-for-beginners-1l83)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
-- [Dev.to/JS] [easy way to validate data in javascript](https://dev.to/alguercode/easy-way-to-validate-data-in-javascript-3joh)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
