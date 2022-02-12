@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to test React application with Jest](https://dev.to/pavelkeyzik/how-to-test-react-application-with-jest-2d47)
+- [Dev.to/JS] [Smooth CSS Gradient Transitions](https://dev.to/smpnjn/smooth-css-gradient-transitions-3d2j)
+- [Dev.to/JS] [What the heck is single threaded and synchronous &lpar;JavaScript&rpar;](https://dev.to/therajatg/javascript-single-threaded-and-synchronous-what-the-heck-it-is-35a9)
+- [Dev.to/JS] [Add Google reCAPTCHA v2 to plain HTML](https://dev.to/huzaifa99/add-google-recaptcha-v2-to-plain-html-3n0p)
+- [Dev.to/JS] [Intuitive Utility-First CSS in Nuxt.js with Stylify](https://dev.to/machy8/intuitive-utility-first-css-in-nuxtjs-with-stylify-25b9)
 - [Dev.to/JS] [How to show Image Preview from Input element.](https://dev.to/adeleke5140/how-to-show-image-preview-from-input-element-4eo8)
 - [Dev.to/JS] [Beginners guide to React.js Batched Updates](https://dev.to/siddharthssb11/beginners-guide-to-reactjs-batched-updates-5c3c)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Compiler &amp; Transpiler](https://dev.to/muskanchhatrasal/compiler-transpiler-17nh)
 - [Dev.to/JS] [What is easier to learn: React or Angular?](https://dev.to/tomaszs2/what-is-easier-to-learn-react-or-angular-50d4)
 - [Dev.to/JS] [Paracetamol.js💊| #52: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-52-explica-este-codigo-javascript-kme)
-- [Dev.to/JS] [Async vs Defer in javascript](https://dev.to/iamrishupatel/async-vs-defer-in-javascript-4ohg)
-- [Dev.to/JS] [Express Error Handling](https://dev.to/adidoshi/express-error-handling-7nd)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
-- [Dev.to/JS] [Huuman CBD Gummies - Pain Relief Benefits, Price, Reviews And Ingredients?](https://dev.to/huumancbdinfo/huuman-cbd-gummies-pain-relief-benefits-price-reviews-and-ingredients-425k)
-- [Dev.to/JS] [Promises - JavaScript Concepts Simplified](https://dev.to/thisurathenuka/promises-javascript-concepts-simplified-in2)
-- [Dev.to/JS] [Website for all web designers](https://dev.to/sripadhs/website-for-all-web-designers-2dgn)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
