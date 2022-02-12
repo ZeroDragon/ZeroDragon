@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript 101: Introduction to Modern JavaScript Overview.](https://dev.to/danielobare/javascript-101-introduction-to-modern-javascript-overview-2jof)
+- [Dev.to/JS] [Execution Context , Hoisting and Access by Value and Access by Referencce](https://dev.to/pushanverma/execution-context-hoisting-and-access-by-value-and-access-by-referencce-55j2)
+- [Dev.to/JS] [how to useContext better](https://dev.to/kmyrrpen/how-to-usecontext-better-4pd2)
+- [Dev.to/JS] [How to implement conditional rendering in react.](https://dev.to/iamchiki/how-to-implement-conditional-rendering-in-react-pc8)
 - [Dev.to/JS] [Explaining the DOM: a script helper for CSS and ad blockers](https://dev.to/costinmanda/explaining-the-dom-a-script-helper-for-css-and-ad-blockers-419d)
 - [Dev.to/JS] [Create Cool Plots With React and Plotly](https://dev.to/marianna13/create-cool-plots-with-react-and-plotly-494g)
 - [Dev.to/JS] [lwder.js - Lightweight Loading Animation](https://dev.to/bmsvieira/lwderjs-lightweight-loading-animation-k9p)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML5 Javascript Canvas : Collision - Drag And Drop](https://dev.to/spsoi/html5-javascript-canvas-rectangular-collision-2783)
 - [Dev.to/JS] [Data Types in JavaScript — The Weird Parts](https://dev.to/sarveshprajapati/data-types-in-javascript-the-weird-parts-11e1)
 - [Dev.to/JS] [Swapping 2 Numbers In More Than 2 Ways.](https://dev.to/ishanbagchi/swapping-2-numbers-in-more-than-2-ways-4og0)
-- [Dev.to/JS] [Make you Custom Hooks in React!](https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig)
-- [Dev.to/JS] [This is How I Switch from Angular to React](https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g)
-- [Dev.to/JS] [Leanbean - Fat Loss Results, Price, Ingredients And Side Effects](https://dev.to/leanbea80474390/leanbean-fat-loss-results-price-ingredients-and-side-effects-fdm)
-- [Dev.to/JS] [How to create an Accordion using CSS &amp; Javascript](https://dev.to/dasaradhanimmala/how-to-create-an-accordion-using-css-javascript-11f)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
