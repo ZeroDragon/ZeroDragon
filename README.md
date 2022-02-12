@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Swapping 2 Numbers In More Than 2 Ways.](https://dev.to/ishanbagchi/swapping-2-numbers-in-more-than-2-ways-4og0)
+- [Dev.to/JS] [Make you Custom Hooks in React!](https://dev.to/grover_sumrit/make-you-custom-hooks-in-react-4eig)
 - [Dev.to/JS] [This is How I Switch from Angular to React](https://dev.to/yehezkielgunawan/this-is-how-i-switch-from-angular-to-react-155g)
 - [Dev.to/JS] [Leanbean - Fat Loss Results, Price, Ingredients And Side Effects](https://dev.to/leanbea80474390/leanbean-fat-loss-results-price-ingredients-and-side-effects-fdm)
 - [Dev.to/JS] [How to create an Accordion using CSS &amp; Javascript](https://dev.to/dasaradhanimmala/how-to-create-an-accordion-using-css-javascript-11f)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 3 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1.Two-Sum&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog_com567/day-3-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1two-sumeasyjavascript-4o6)
 - [Dev.to/JS] [Hello, world!](https://dev.to/abhishekpawl/hello-world-2c2b)
 - [Dev.to/JS] [Leetcode diary: 153. Find Minimum in Rotated Sorted Array [Binary Search]](https://dev.to/kevin074/leetcode-diary-153-find-minimum-in-rotated-sorted-array-binary-search-4ao8)
-- [Dev.to/JS] [React and redux](https://dev.to/nelsonmalbonecoding/react-and-redux-2kok)
-- [Dev.to/JS] [Make The Whole Picture Link.](https://dev.to/anreizm/make-the-whole-picture-link-f84)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
