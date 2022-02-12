@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 3 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1.Two-Sum&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog_com567/day-3-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1two-sumeasyjavascript-4o6)
 - [Dev.to/JS] [Hello, world!](https://dev.to/abhishekpawl/hello-world-2c2b)
 - [Dev.to/JS] [Leetcode diary: 153. Find Minimum in Rotated Sorted Array [Binary Search]](https://dev.to/kevin074/leetcode-diary-153-find-minimum-in-rotated-sorted-array-binary-search-4ao8)
 - [Dev.to/JS] [React and redux](https://dev.to/nelsonmalbonecoding/react-and-redux-2kok)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy Better Valentine&#39;s Day Gifts](https://lifehacker.com/how-to-buy-better-valentines-day-gifts-1848524230)
 - [Dev.to/JS] [Svelte VS React, which one?](https://dev.to/dimaodin/svelte-vs-react-which-one-5gif)
 - [Dev.to/JS] [JavaScript Basics #3: Arrays and Objects](https://dev.to/ericnanhu/javascript-basics-3-arrays-and-objects-1p11)
-- [Dev.to/JS] [K Sum- JS](https://dev.to/986913/k-sum-js-52g4)
 - [Lifehacker] [Have You Been Holding Your Phone Wrong This Whole Time?](https://lifehacker.com/have-you-been-holding-your-phone-wrong-this-whole-time-1848521531)
 - [Lifehacker] [What Are Your Favorite Sketchy Parenting Tricks That Totally Work?](https://lifehacker.com/what-are-your-favorite-sketchy-parenting-tricks-that-to-1848523125)
 - [Lifehacker] [Three Ways to Make Pigs in a Blanket, Already Perfect, Even Better](https://lifehacker.com/three-ways-to-make-pigs-in-a-blanket-already-perfect-1848520041)
