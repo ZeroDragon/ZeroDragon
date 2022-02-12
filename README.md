@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [easy way to validate data in javascript](https://dev.to/alguercode/easy-way-to-validate-data-in-javascript-3joh)
+- [Dev.to/JS] [5 Years of Building a Web App, Submitting it to Hacker News, and Getting My First $1.](https://dev.to/ryohey/5-years-of-building-a-web-app-submitting-it-to-hacker-news-and-getting-my-first-1-14hh)
+- [Dev.to/JS] [My Journey with Solana India Fellowship - Week 1](https://dev.to/nipun1999/my-journey-with-solana-india-fellowship-week-1-oe2)
+- [Dev.to/JS] [CSS Glass Morphism Generator](https://dev.to/smpnjn/css-glass-morphism-generator-5eii)
 - [Dev.to/JS] [How to enact a Component Loop in React ⚛️](https://dev.to/djackson/how-to-enact-a-component-loop-in-react-36b1)
 - [Dev.to/JS] [Animated Sidebar Navigation Panel using HTML, CSS and Javascript](https://dev.to/salmansaleempiaic/animated-sidebar-navigation-panel-using-html-css-and-javascript-21c2)
 - [Dev.to/JS] [Day 97 of 100 Days of Code &amp; Scrum: Aggregate Functions in MySQL](https://dev.to/rammina/day-97-of-100-days-of-code-scrum-aggregate-functions-in-mysql-pi5)
@@ -30,11 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Export Text From Adobe Illustrator and Photoshop To Notepad?](https://dev.to/zujaj/how-to-export-text-from-adobe-illustrator-and-photoshop-to-notepad-7g2)
 - [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide or Introduction to Modern JavaScript.](https://dev.to/kwizeral/javascript-101-ultimate-javascript-guide-or-introduction-to-modern-javascript-4oag)
 - [Dev.to/JS] [where i practice javascript question???](https://dev.to/dimplejha/where-i-practice-javascript-question-3amn)
-- [Dev.to/JS] [Part 4: Deploy project to GitHub pages for live version](https://dev.to/curiosity/part-4-deploy-project-to-github-pages-for-live-version-1lbm)
-- [Dev.to/JS] [Find all colors and types in website](https://dev.to/troopekyt/find-all-colors-and-types-in-website-2d9j)
-- [Dev.to/JS] [JavaScript 101: Introduction to Modern JavaScript Overview.](https://dev.to/danielobare/javascript-101-introduction-to-modern-javascript-overview-2jof)
-- [Dev.to/JS] [Execution Context , Hoisting and Access by Value and Access by Referencce](https://dev.to/pushanverma/execution-context-hoisting-and-access-by-value-and-access-by-referencce-55j2)
-- [Dev.to/JS] [how to useContext better](https://dev.to/kmyrrpen/how-to-usecontext-better-4pd2)
+- [Dev.to/JS] [Part 4: Deploy VueJS project to GitHub pages for live version](https://dev.to/curiosity/part-4-deploy-project-to-github-pages-for-live-version-1lbm)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
