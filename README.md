@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React](https://dev.to/nelsonmalbonecoding/react-59m3)
+- [Dev.to/JS] [Google Ads Sertifika Cevapları](https://dev.to/googleadssertifikacevaplari/google-ads-sertifika-cevaplari-257c)
+- [Dev.to/JS] [Is just typing the difference between Typescript and Javascript?](https://dev.to/luizcalaca/is-just-typing-the-difference-between-typescript-and-javascript-2e7i)
 - [Dev.to/JS] [Creating a sign up form with an automatic password generator in javascript](https://dev.to/babib/creating-a-sign-up-form-with-an-automatic-password-generator-in-javascript-49hf)
 - [Dev.to/JS] [How to Build a Remark.js Syntax Highlighter](https://dev.to/alexwhb/how-to-build-a-remarkjs-syntax-highlighter-5dl6)
 - [Dev.to/JS] [FullStack JWT Auth: Diving into SvelteKit - Profile Update](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-profile-update-3f6f)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to test React application with Jest](https://dev.to/pavelkeyzik/how-to-test-react-application-with-jest-2d47)
 - [Dev.to/JS] [Smooth CSS Gradient Transitions](https://dev.to/smpnjn/smooth-css-gradient-transitions-3d2j)
 - [Dev.to/JS] [What the heck is single threaded and synchronous &lpar;JavaScript&rpar;](https://dev.to/therajatg/javascript-single-threaded-and-synchronous-what-the-heck-it-is-35a9)
-- [Dev.to/JS] [Add Google reCAPTCHA v2 to plain HTML](https://dev.to/huzaifa99/add-google-recaptcha-v2-to-plain-html-3n0p)
-- [Dev.to/JS] [Intuitive Utility-First CSS in Nuxt.js with Stylify](https://dev.to/machy8/intuitive-utility-first-css-in-nuxtjs-with-stylify-25b9)
-- [Dev.to/JS] [How to show Image Preview from Input element.](https://dev.to/adeleke5140/how-to-show-image-preview-from-input-element-4eo8)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
