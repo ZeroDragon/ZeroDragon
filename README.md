@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#30 - Multiplication table CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/30-multiplication-table-codewars-kata-6-kyu-77d)
+- [Dev.to/JS] [Problem Solving for Developers - Javascript](https://dev.to/dreamyplayer/problem-solving-for-developers-javascript-311n)
+- [Dev.to/JS] [FaaS on Kubernetes: From AWS Lambda &amp; API Gateway To Knative &amp; Kong API Gateway](https://dev.to/pmbanugo/faas-on-kubernetes-from-aws-lambda-api-gateway-to-knative-kong-api-gateway-4n84)
 - [Dev.to/JS] [React](https://dev.to/nelsonmalbonecoding/react-59m3)
 - [Dev.to/JS] [Google Ads Sertifika Cevapları](https://dev.to/googleadssertifikacevaplari/google-ads-sertifika-cevaplari-257c)
 - [Dev.to/JS] [Is just typing the difference between Typescript and Javascript?](https://dev.to/luizcalaca/is-just-typing-the-difference-between-typescript-and-javascript-2e7i)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Music Player](https://dev.to/lucifer25x/simple-music-player-5f33)
 - [Dev.to/JS] [WHY JavaScript ???](https://dev.to/amirabourogaa/why-javascript--2npk)
 - [Dev.to/JS] [A &quot;function type covariance&quot; trap in typescript](https://dev.to/yw662/a-function-type-covariance-trap-in-typescript-1c4k)
-- [Dev.to/JS] [How to test React application with Jest](https://dev.to/pavelkeyzik/how-to-test-react-application-with-jest-2d47)
-- [Dev.to/JS] [Smooth CSS Gradient Transitions](https://dev.to/smpnjn/smooth-css-gradient-transitions-3d2j)
-- [Dev.to/JS] [What the heck is single threaded and synchronous &lpar;JavaScript&rpar;](https://dev.to/therajatg/javascript-single-threaded-and-synchronous-what-the-heck-it-is-35a9)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
