@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CỬA LƯỚI CHỐNG MUỖI | QUANG MINH HỒ CHÍ MINH](https://dev.to/cualuoichongmuoibinhphuoc/cua-luoi-chong-muoi-quang-minh-ho-chi-minh-46i4)
+- [Dev.to/JS] [Understanding how virtual DOM works in React](https://dev.to/jeffreythecoder/understanding-how-virtual-dom-works-in-react-326b)
 - [Dev.to/JS] [JavaScript Calculator](https://dev.to/whitewolfdot/javascript-calculator-2img)
 - [Dev.to/JS] [How do React Fragments work under the hood?](https://dev.to/fromaline/how-do-react-fragments-work-under-the-hood-36n5)
 - [Dev.to/JS] [How does React allow creating custom components?](https://dev.to/fromaline/how-does-react-allow-creating-custom-components-3mbe)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Dev.to/JS] [Overcome Developer Burnout — Here Are 6 Ways How](https://dev.to/ideradevtools/overcome-developer-burnout-here-are-6-ways-how-dk2)
 - [Dev.to/JS] [I am Build TO-DO-list app using Node.js Express.js MongoDB Database.](https://dev.to/alokoct21/i-am-build-to-do-list-app-using-nodejs-expressjs-mongodb-database-7hj)
-- [Dev.to/JS] [#30 - Multiplication table CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/30-multiplication-table-codewars-kata-6-kyu-77d)
-- [Dev.to/JS] [Problem Solving for Developers - Javascript](https://dev.to/dreamyplayer/problem-solving-for-developers-javascript-311n)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
