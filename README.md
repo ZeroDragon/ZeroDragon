@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Debouncing?](https://dev.to/jeremiahjacinth13/what-is-debouncing-1akk)
+- [Dev.to/JS] [🌀 Mixins in Typescript 🍀](https://dev.to/aravindvcyber/mixins-in-typescript-3jk3)
+- [Dev.to/JS] [Do you know Javascript ?](https://dev.to/manas_dev/do-you-know-javascript--39k4)
+- [Dev.to/JS] [Introduction to Modern JavaScript](https://dev.to/mmk2020/introduction-to-modern-javascript-5a50)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Dev.to/JS] [Weather app using Javascript](https://dev.to/iammanojrathod/weather-app-using-javascript-4chc)
 - [Dev.to/JS] [Website for generating NFT with Rarities](https://dev.to/kos94ok_43/website-for-generating-nft-3in4)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Visualizing Mike Bostock&#39;s GitHub Contributions Calendar — How to Create a JS Calendar Chart](https://dev.to/andreykh1985/visualizing-mike-bostocks-github-contributions-calendar-how-to-create-a-js-calendar-chart-3p9m)
 - [Dev.to/JS] [JavaScript 101: Introduction to Modern JavaScript](https://dev.to/kashuhappy/javascript-101-introduction-to-modern-javascript-1nb3)
 - [Dev.to/JS] [Al Portfolio - #100DaysOfCode](https://dev.to/alsiam/al-portfolio-100daysofcode-1ppf)
-- [Dev.to/JS] [Supercharge your app with runtime type-checking using ZOD](https://dev.to/diballesteros/supercharge-your-app-with-runtime-type-checking-using-zod-4no)
-- [Dev.to/JS] [Usage of `React.FC` from my experience](https://dev.to/xenoxdev/usage-of-reactfc-from-my-experience-22n7)
-- [Dev.to/JS] [Custom element hearts for Valentine&#39;s Day](https://dev.to/tirithen/custom-element-hearts-for-valentines-day-3mmk)
-- [Dev.to/JS] [How to use Props in Vue](https://dev.to/smpnjn/how-to-use-props-in-vue-2824)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
