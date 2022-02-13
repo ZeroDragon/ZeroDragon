@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a web application with ReactJS and Django &lpar;Beginner Project&rpar;](https://dev.to/jod35/build-a-web-application-with-reactjs-and-django-beginner-project-o0g)
+- [Dev.to/JS] [7 Killer One-Liners in JavaScript](https://dev.to/ruppysuppy/7-killer-one-liners-in-javascript-one)
+- [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
+- [Dev.to/JS] [Overcome Developer Burnout — Here Are 6 Ways How](https://dev.to/ideradevtools/overcome-developer-burnout-here-are-6-ways-how-dk2)
+- [Dev.to/JS] [I am Build TO-DO-list app using Node.js Express.js MongoDB Database.](https://dev.to/alokoct21/i-am-build-to-do-list-app-using-nodejs-expressjs-mongodb-database-7hj)
 - [Dev.to/JS] [#30 - Multiplication table CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/30-multiplication-table-codewars-kata-6-kyu-77d)
 - [Dev.to/JS] [Problem Solving for Developers - Javascript](https://dev.to/dreamyplayer/problem-solving-for-developers-javascript-311n)
 - [Dev.to/JS] [FaaS on Kubernetes: From AWS Lambda &amp; API Gateway To Knative &amp; Kong API Gateway](https://dev.to/pmbanugo/faas-on-kubernetes-from-aws-lambda-api-gateway-to-knative-kong-api-gateway-4n84)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is just typing the difference between Typescript and Javascript?](https://dev.to/luizcalaca/is-just-typing-the-difference-between-typescript-and-javascript-2e7i)
 - [Dev.to/JS] [Creating a sign up form with an automatic password generator in javascript](https://dev.to/babib/creating-a-sign-up-form-with-an-automatic-password-generator-in-javascript-49hf)
 - [Dev.to/JS] [How to Build a Remark.js Syntax Highlighter](https://dev.to/alexwhb/how-to-build-a-remarkjs-syntax-highlighter-5dl6)
-- [Dev.to/JS] [FullStack JWT Auth: Diving into SvelteKit - Profile Update](https://dev.to/sirneij/fullstack-jwt-auth-diving-into-sveltekit-profile-update-3f6f)
-- [Dev.to/JS] [Simple Music Player](https://dev.to/lucifer25x/simple-music-player-5f33)
-- [Dev.to/JS] [WHY JavaScript ???](https://dev.to/amirabourogaa/why-javascript--2npk)
-- [Dev.to/JS] [A &quot;function type covariance&quot; trap in typescript](https://dev.to/yw662/a-function-type-covariance-trap-in-typescript-1c4k)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
 - [Lifehacker] [How to Melt Ice Without Salt](https://lifehacker.com/how-to-melt-ice-without-salt-1848515132)
-- [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
-- [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
 ---
 
