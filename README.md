@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leveraging JavaScript to implement CSS transitions that use display: none](https://dev.to/tylerlwsmith/leveraging-javascript-to-implement-css-transitions-that-use-display-none-4hhb)
+- [Dev.to/JS] [Starting Out In Tech In 2022.](https://dev.to/therevealer/starting-out-in-tech-in-2022-64p)
 - [Dev.to/JS] [Ideas for a beginner developer.](https://dev.to/bip3r/ideas-for-a-beginner-developer-19da)
 - [Dev.to/JS] [State of the Web: React](https://dev.to/asyncbanana/state-of-the-web-react-40kf)
 - [Dev.to/JS] [#31 - Sequences and Series CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/31-sequences-and-series-codewars-kata-6-kyu-2ll0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Prevent Accidental Code Errors with ESLint, Prettier, and Husky](https://dev.to/stx-next/how-to-prevent-accidental-code-errors-with-eslint-prettier-and-husky-f3k)
 - [Dev.to/JS] [Remix: Finishing the tutorial](https://dev.to/link2twenty/remix-finishing-the-tutorial-1lhl)
 - [Dev.to/JS] [Using Gherkin with your Cypress Tests](https://dev.to/dwwhalen/using-gherkin-with-your-cypress-tests-4p20)
-- [Dev.to/JS] [What is Debouncing?](https://dev.to/jeremiahjacinth13/what-is-debouncing-1akk)
-- [Dev.to/JS] [🌀 Mixins in Typescript 🍀](https://dev.to/aravindvcyber/mixins-in-typescript-3jk3)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
