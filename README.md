@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
+- [Dev.to/JS] [Visualizing Mike Bostock&#39;s GitHub Contributions Calendar — How to Create a JS Calendar Chart](https://dev.to/andreykh1985/visualizing-mike-bostocks-github-contributions-calendar-how-to-create-a-js-calendar-chart-3p9m)
+- [Dev.to/JS] [JavaScript 101: Introduction to Modern JavaScript](https://dev.to/kashuhappy/javascript-101-introduction-to-modern-javascript-1nb3)
+- [Dev.to/JS] [Al Portfolio - #100DaysOfCode](https://dev.to/alsiam/al-portfolio-100daysofcode-1ppf)
+- [Dev.to/JS] [Supercharge your app with runtime type-checking using ZOD](https://dev.to/diballesteros/supercharge-your-app-with-runtime-type-checking-using-zod-4no)
+- [Dev.to/JS] [Usage of `React.FC` from my experience](https://dev.to/xenoxdev/usage-of-reactfc-from-my-experience-22n7)
 - [Dev.to/JS] [Custom element hearts for Valentine&#39;s Day](https://dev.to/tirithen/custom-element-hearts-for-valentines-day-3mmk)
 - [Dev.to/JS] [How to use Props in Vue](https://dev.to/smpnjn/how-to-use-props-in-vue-2824)
 - [Dev.to/JS] [Optimizing MongoDB collection with 200 millions rows of data using indexing](https://dev.to/burhanahmeed/optimizing-mongodb-collection-with-200-millions-rows-of-data-using-indexing-499i)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide](https://dev.to/davidmutinda/javascript-101-ultimate-javascript-guide-1n0d)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
 - [Dev.to/JS] [GitHub Repositories to Crush any Programming Interview!](https://dev.to/genicsblog/github-repositories-to-crush-any-programming-interview-5f8f)
-- [Dev.to/JS] [I created the colormyweb 🌈🌈](https://dev.to/sripadhs/i-created-the-colormyweb-h30)
-- [Dev.to/JS] [React performance](https://dev.to/dpak1999/react-performance-5c8n)
-- [Dev.to/JS] [Closures in JavaScript](https://dev.to/sukodes/closures-in-javascript-4o85)
-- [Dev.to/JS] [I Create a GitHub Searcher With JavaScript || GitHub API || JS API || JavaScript Tutorials](https://dev.to/insaafusion/i-create-a-github-searcher-with-javascript-github-api-js-api-javascript-tutorials-546)
-- [Dev.to/JS] [My New Discord Server](https://dev.to/vermaprince123/my-new-discord-server-3off)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Things You Learned in Sex Ed That Aren’t Actually True](https://lifehacker.com/10-lies-you-learned-in-sex-ed-1848517072)
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
 - [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
-- [Lifehacker] [Install This Update to Keep Your MacBook Battery From Dying Overnight](https://lifehacker.com/install-this-update-to-keep-your-macbook-battery-from-d-1848516241)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
 ---
