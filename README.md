@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom element hearts for Valentine&#39;s Day](https://dev.to/tirithen/custom-element-hearts-for-valentines-day-3mmk)
+- [Dev.to/JS] [How to use Props in Vue](https://dev.to/smpnjn/how-to-use-props-in-vue-2824)
+- [Dev.to/JS] [Optimizing MongoDB collection with 200 millions rows of data using indexing](https://dev.to/burhanahmeed/optimizing-mongodb-collection-with-200-millions-rows-of-data-using-indexing-499i)
+- [Dev.to/JS] [Everything you need to know about tree data structure](https://dev.to/thatanjan/everything-you-need-to-know-about-tree-data-structure-2ne)
+- [Dev.to/JS] [5 tips for Vue beginners - stuff to get you started fast🚀](https://dev.to/thormeier/5-tips-for-vue-beginners-stuff-to-get-you-started-fast-1490)
+- [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide](https://dev.to/davidmutinda/javascript-101-ultimate-javascript-guide-1n0d)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
 - [Dev.to/JS] [GitHub Repositories to Crush any Programming Interview!](https://dev.to/genicsblog/github-repositories-to-crush-any-programming-interview-5f8f)
 - [Dev.to/JS] [I created the colormyweb 🌈🌈](https://dev.to/sripadhs/i-created-the-colormyweb-h30)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closures in JavaScript](https://dev.to/sukodes/closures-in-javascript-4o85)
 - [Dev.to/JS] [I Create a GitHub Searcher With JavaScript || GitHub API || JS API || JavaScript Tutorials](https://dev.to/insaafusion/i-create-a-github-searcher-with-javascript-github-api-js-api-javascript-tutorials-546)
 - [Dev.to/JS] [My New Discord Server](https://dev.to/vermaprince123/my-new-discord-server-3off)
-- [Dev.to/JS] [These Stackoverflow Posts Will Make Your Day 🤣](https://dev.to/theskavin/these-stackoverflow-posts-will-make-your-day-58dd)
-- [Dev.to/JS] [How to create a beautiful parallax landing page with jarallax.js](https://dev.to/thatanjan/how-to-create-a-beautiful-parallax-landing-page-with-jarallaxjs-2aih)
-- [Dev.to/JS] [Day 98 of 100 Days of Code &amp; Scrum: SQL Sunday](https://dev.to/rammina/day-98-of-100-days-of-code-scrum-sql-sunday-km6)
-- [Dev.to/JS] [CỬA LƯỚI CHỐNG MUỖI | QUANG MINH HỒ CHÍ MINH](https://dev.to/cualuoichongmuoibinhphuoc/cua-luoi-chong-muoi-quang-minh-ho-chi-minh-46i4)
-- [Dev.to/JS] [Understanding how virtual DOM works in React](https://dev.to/jeffreythecoder/understanding-how-virtual-dom-works-in-react-326b)
-- [Dev.to/JS] [JavaScript Calculator](https://dev.to/whitewolfdot/javascript-calculator-2img)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
