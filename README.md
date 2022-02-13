@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 98 of 100 Days of Code &amp; Scrum: SQL Sunday](https://dev.to/rammina/day-98-of-100-days-of-code-scrum-sql-sunday-km6)
 - [Dev.to/JS] [CỬA LƯỚI CHỐNG MUỖI | QUANG MINH HỒ CHÍ MINH](https://dev.to/cualuoichongmuoibinhphuoc/cua-luoi-chong-muoi-quang-minh-ho-chi-minh-46i4)
 - [Dev.to/JS] [Understanding how virtual DOM works in React](https://dev.to/jeffreythecoder/understanding-how-virtual-dom-works-in-react-326b)
 - [Dev.to/JS] [JavaScript Calculator](https://dev.to/whitewolfdot/javascript-calculator-2img)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Killer One-Liners in JavaScript](https://dev.to/ruppysuppy/7-killer-one-liners-in-javascript-one)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Dev.to/JS] [Overcome Developer Burnout — Here Are 6 Ways How](https://dev.to/ideradevtools/overcome-developer-burnout-here-are-6-ways-how-dk2)
-- [Dev.to/JS] [I am Build TO-DO-list app using Node.js Express.js MongoDB Database.](https://dev.to/alokoct21/i-am-build-to-do-list-app-using-nodejs-expressjs-mongodb-database-7hj)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
