@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How does React allow creating custom components?](https://dev.to/fromaline/how-does-react-allow-creating-custom-components-3mbe)
+- [Dev.to/JS] [Object Immutability: How it helps React](https://dev.to/nishadkumar/object-immutability-how-it-helps-react-3pc4)
+- [Dev.to/JS] [Leetcode diary: 207. Course Schedule [backtracking, graph]](https://dev.to/kevin074/leetcode-diary-207-course-schedule-7k8)
+- [Dev.to/JS] [Nearest Smaller Element on Left  of an Array](https://dev.to/ditikrushna/nearest-smaller-element-on-left-of-an-array-h53)
 - [Dev.to/JS] [Build a web application with ReactJS and Django &lpar;Beginner Project&rpar;](https://dev.to/jod35/build-a-web-application-with-reactjs-and-django-beginner-project-o0g)
 - [Dev.to/JS] [7 Killer One-Liners in JavaScript](https://dev.to/ruppysuppy/7-killer-one-liners-in-javascript-one)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Problem Solving for Developers - Javascript](https://dev.to/dreamyplayer/problem-solving-for-developers-javascript-311n)
 - [Dev.to/JS] [FaaS on Kubernetes: From AWS Lambda &amp; API Gateway To Knative &amp; Kong API Gateway](https://dev.to/pmbanugo/faas-on-kubernetes-from-aws-lambda-api-gateway-to-knative-kong-api-gateway-4n84)
 - [Dev.to/JS] [React](https://dev.to/nelsonmalbonecoding/react-59m3)
-- [Dev.to/JS] [Google Ads Sertifika Cevapları](https://dev.to/googleadssertifikacevaplari/google-ads-sertifika-cevaplari-257c)
-- [Dev.to/JS] [Is just typing the difference between Typescript and Javascript?](https://dev.to/luizcalaca/is-just-typing-the-difference-between-typescript-and-javascript-2e7i)
-- [Dev.to/JS] [Creating a sign up form with an automatic password generator in javascript](https://dev.to/babib/creating-a-sign-up-form-with-an-automatic-password-generator-in-javascript-49hf)
-- [Dev.to/JS] [How to Build a Remark.js Syntax Highlighter](https://dev.to/alexwhb/how-to-build-a-remarkjs-syntax-highlighter-5dl6)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
