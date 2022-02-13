@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Livewire: modal transitions using Alpine.js](https://dev.to/mtk3d/livewire-transitioning-modal-using-alpinejs-47do)
+- [Dev.to/JS] [How to Prevent Accidental Code Errors with ESLint, Prettier, and Husky](https://dev.to/stx-next/how-to-prevent-accidental-code-errors-with-eslint-prettier-and-husky-f3k)
+- [Dev.to/JS] [Remix: Finishing the tutorial](https://dev.to/link2twenty/remix-finishing-the-tutorial-1lhl)
+- [Dev.to/JS] [Using Gherkin with your Cypress Tests](https://dev.to/dwwhalen/using-gherkin-with-your-cypress-tests-4p20)
 - [Dev.to/JS] [What is Debouncing?](https://dev.to/jeremiahjacinth13/what-is-debouncing-1akk)
 - [Dev.to/JS] [🌀 Mixins in Typescript 🍀](https://dev.to/aravindvcyber/mixins-in-typescript-3jk3)
 - [Dev.to/JS] [Do you know Javascript ?](https://dev.to/manas_dev/do-you-know-javascript--39k4)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Website for generating NFT with Rarities](https://dev.to/kos94ok_43/website-for-generating-nft-3in4)
 - [Dev.to/JS] [flying letters...](https://dev.to/frankwisniewski/flying-letters-4h5h)
 - [Dev.to/JS] [SVG regards from Nürburgring](https://dev.to/frankwisniewski/svg-regards-from-nurburgring-9fo)
-- [Dev.to/JS] [Paracetamol.js💊| #53: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-53-explica-este-codigo-javascript-3h1b)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
-- [Dev.to/JS] [Visualizing Mike Bostock&#39;s GitHub Contributions Calendar — How to Create a JS Calendar Chart](https://dev.to/andreykh1985/visualizing-mike-bostocks-github-contributions-calendar-how-to-create-a-js-calendar-chart-3p9m)
-- [Dev.to/JS] [JavaScript 101: Introduction to Modern JavaScript](https://dev.to/kashuhappy/javascript-101-introduction-to-modern-javascript-1nb3)
-- [Dev.to/JS] [Al Portfolio - #100DaysOfCode](https://dev.to/alsiam/al-portfolio-100daysofcode-1ppf)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
