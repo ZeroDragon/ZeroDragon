@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
+- [Dev.to/JS] [Weather app using Javascript](https://dev.to/iammanojrathod/weather-app-using-javascript-4chc)
+- [Dev.to/JS] [Website for generating NFT with Rarities](https://dev.to/kos94ok_43/website-for-generating-nft-3in4)
 - [Dev.to/JS] [flying letters...](https://dev.to/frankwisniewski/flying-letters-4h5h)
 - [Dev.to/JS] [SVG regards from Nürburgring](https://dev.to/frankwisniewski/svg-regards-from-nurburgring-9fo)
 - [Dev.to/JS] [Paracetamol.js💊| #53: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-53-explica-este-codigo-javascript-3h1b)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Usage of `React.FC` from my experience](https://dev.to/xenoxdev/usage-of-reactfc-from-my-experience-22n7)
 - [Dev.to/JS] [Custom element hearts for Valentine&#39;s Day](https://dev.to/tirithen/custom-element-hearts-for-valentines-day-3mmk)
 - [Dev.to/JS] [How to use Props in Vue](https://dev.to/smpnjn/how-to-use-props-in-vue-2824)
-- [Dev.to/JS] [Optimizing MongoDB collection with 200 millions rows of data using indexing](https://dev.to/burhanahmeed/optimizing-mongodb-collection-with-200-millions-rows-of-data-using-indexing-499i)
-- [Dev.to/JS] [Everything you need to know about tree data structure](https://dev.to/thatanjan/everything-you-need-to-know-about-tree-data-structure-2ne)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy an Umbrella That Doesn’t Suck](https://lifehacker.com/how-to-buy-an-umbrella-that-doesn-t-suck-1848515935)
 - [Lifehacker] [10 Things You Learned in Sex Ed That Aren’t Actually True](https://lifehacker.com/10-lies-you-learned-in-sex-ed-1848517072)
 - [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
-- [Lifehacker] [This Super Bowl Sunday, Consider a Chili Cheese Bar](https://lifehacker.com/this-super-bowl-sunday-consider-a-chili-cheese-bar-1848517124)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
 ---
