@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [flying letters...](https://dev.to/frankwisniewski/flying-letters-4h5h)
+- [Dev.to/JS] [SVG regards from Nürburgring](https://dev.to/frankwisniewski/svg-regards-from-nurburgring-9fo)
+- [Dev.to/JS] [Paracetamol.js💊| #53: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-53-explica-este-codigo-javascript-3h1b)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Dev.to/JS] [Visualizing Mike Bostock&#39;s GitHub Contributions Calendar — How to Create a JS Calendar Chart](https://dev.to/andreykh1985/visualizing-mike-bostocks-github-contributions-calendar-how-to-create-a-js-calendar-chart-3p9m)
 - [Dev.to/JS] [JavaScript 101: Introduction to Modern JavaScript](https://dev.to/kashuhappy/javascript-101-introduction-to-modern-javascript-1nb3)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Props in Vue](https://dev.to/smpnjn/how-to-use-props-in-vue-2824)
 - [Dev.to/JS] [Optimizing MongoDB collection with 200 millions rows of data using indexing](https://dev.to/burhanahmeed/optimizing-mongodb-collection-with-200-millions-rows-of-data-using-indexing-499i)
 - [Dev.to/JS] [Everything you need to know about tree data structure](https://dev.to/thatanjan/everything-you-need-to-know-about-tree-data-structure-2ne)
-- [Dev.to/JS] [5 tips for Vue beginners - stuff to get you started fast🚀](https://dev.to/thormeier/5-tips-for-vue-beginners-stuff-to-get-you-started-fast-1490)
-- [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide](https://dev.to/davidmutinda/javascript-101-ultimate-javascript-guide-1n0d)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
-- [Dev.to/JS] [GitHub Repositories to Crush any Programming Interview!](https://dev.to/genicsblog/github-repositories-to-crush-any-programming-interview-5f8f)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
