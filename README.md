@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Calculator](https://dev.to/whitewolfdot/javascript-calculator-2img)
+- [Dev.to/JS] [How do React Fragments work under the hood?](https://dev.to/fromaline/how-do-react-fragments-work-under-the-hood-36n5)
 - [Dev.to/JS] [How does React allow creating custom components?](https://dev.to/fromaline/how-does-react-allow-creating-custom-components-3mbe)
 - [Dev.to/JS] [Object Immutability: How it helps React](https://dev.to/nishadkumar/object-immutability-how-it-helps-react-3pc4)
 - [Dev.to/JS] [Leetcode diary: 207. Course Schedule [backtracking, graph]](https://dev.to/kevin074/leetcode-diary-207-course-schedule-7k8)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I am Build TO-DO-list app using Node.js Express.js MongoDB Database.](https://dev.to/alokoct21/i-am-build-to-do-list-app-using-nodejs-expressjs-mongodb-database-7hj)
 - [Dev.to/JS] [#30 - Multiplication table CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/30-multiplication-table-codewars-kata-6-kyu-77d)
 - [Dev.to/JS] [Problem Solving for Developers - Javascript](https://dev.to/dreamyplayer/problem-solving-for-developers-javascript-311n)
-- [Dev.to/JS] [FaaS on Kubernetes: From AWS Lambda &amp; API Gateway To Knative &amp; Kong API Gateway](https://dev.to/pmbanugo/faas-on-kubernetes-from-aws-lambda-api-gateway-to-knative-kong-api-gateway-4n84)
-- [Dev.to/JS] [React](https://dev.to/nelsonmalbonecoding/react-59m3)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
