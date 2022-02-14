@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [14 days as a DevRel](https://dev.to/pearceman/14-days-as-a-devrel-3hc5)
+- [Dev.to/JS] [Back End - Docker](https://dev.to/fumagallilaura/back-end-docker-4mkn)
 - [Lifehacker] [How to Switch From Apple to Android](https://lifehacker.com/how-to-switch-from-apple-to-android-1848532979)
+- [Dev.to/JS] [Async/await inference in Firefly](https://dev.to/ahnfelt/asyncawait-inference-in-firefly-hcc)
+- [Dev.to/JS] [Typescript e Jest - Escrevendo testes unitários em um projeto Node.js](https://dev.to/jhonywalkeer/typescript-e-jest-escrevendo-testes-unitarios-em-um-projeto-nodejs-d52)
+- [Dev.to/JS] [Introducing Medusa.express: The Easiest Way to Setup an Ecommerce Store](https://dev.to/medusajs/introducing-medusaexpress-the-easiest-way-to-setup-an-ecommerce-store-ig2)
 - [Lifehacker] [Three of the Most Decadent Single-Serving Dessert Recipes](https://lifehacker.com/three-of-the-most-decadent-single-serving-dessert-recip-1848532961)
 - [Dev.to/JS] [Access cookies in NextJS from server side](https://dev.to/thatanjan/access-cookies-in-nextjs-from-server-side-18fc)
 - [Dev.to/JS] [Validate Phone Number](https://dev.to/lakshyatyagi24/validate-phone-number-58g9)
@@ -34,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Request parser for Express routes.](https://dev.to/narcotic1998/request-parser-for-express-routes-o6m)
 - [Dev.to/JS] [Connection Types In Web Apps](https://dev.to/snickdx/connection-types-in-web-apps-15ie)
 - [Dev.to/JS] [Push Notifications with Laravel, Ionic-Vue, and Firebase](https://dev.to/jringeisen/push-notifications-with-laravel-ionic-vue-and-firebase-4g2a)
-- [Dev.to/JS] [Coding a Hank Hill Hotkey](https://dev.to/js_bits_bill/coding-a-hank-hill-hotkey-23h9)
-- [Dev.to/JS] [JavaScript: Using the spread operator with nested objects](https://dev.to/mlgvla/javascript-using-the-spread-operator-with-nested-objects-2e7l)
 - [Lifehacker] [You Should Hurry and Get a Free Guest Ticket on Amtrak](https://lifehacker.com/you-should-hurry-and-get-a-free-guest-ticket-on-amtrak-1848533008)
-- [Dev.to/JS] [Day-23 Training at Ryaz](https://dev.to/mahin651/day-23-training-at-ryaz-56i0)
-- [Dev.to/JS] [Generate a dynamic Stackoverflow profile for your README](https://dev.to/johannchopin/generate-a-dynamic-stackoverflow-profile-for-your-readme-51e6)
-- [Dev.to/JS] [Converting to Vite &lpar;Part 4&rpar;](https://dev.to/opensauced/converting-to-vite-part-4-ikf)
 - [Lifehacker] [How to Safely Store Sensitive Files in the Cloud](https://lifehacker.com/how-to-safely-store-sensitive-files-in-the-cloud-1848529835)
 - [Lifehacker] [15 Pretty Cocktails to Make for the One You Love](https://lifehacker.com/15-pretty-cocktails-to-make-for-the-one-you-love-1848524215)
 - [Lifehacker] [How to Never Lose Another Umbrella As Long As You Live](https://lifehacker.com/how-to-never-lose-another-umbrella-as-long-as-you-live-1848521788)
