@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Pretty Cocktails to Make for the One You Love](https://lifehacker.com/15-pretty-cocktails-to-make-for-the-one-you-love-1848524215)
+- [Dev.to/JS] [Asynchronous Coding in JavaScript](https://dev.to/rmachirica/asynchronous-coding-in-javascript-2p93)
+- [Dev.to/JS] [JavaScript Basics #4: Object-Oriented Programming](https://dev.to/ericnanhu/javascript-basics-4-object-oriented-programming-4e5h)
+- [Dev.to/JS] [Introduction to Modern JavaScript](https://dev.to/alvinimbua/introduction-to-modern-javascript-5am4)
+- [Dev.to/JS] [Skeleton CSS: Responsive Navbar With Toggle JavaScript](https://dev.to/w3hubs/skeleton-css-responsive-navbar-with-toggle-javascript-1862)
+- [Dev.to/JS] [Building your blog in 2022](https://dev.to/canonic/building-your-blog-in-2022-1ngi)
+- [Lifehacker] [How to Never Lose Another Umbrella As Long As You Live](https://lifehacker.com/how-to-never-lose-another-umbrella-as-long-as-you-live-1848521788)
+- [Dev.to/JS] [Paracetamol.js💊| #54: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-54-explica-este-codigo-javascript-2phj)
+- [Dev.to/JS] [Announcing Felte 1.0: A form library for Svelte, Solid and React](https://dev.to/pabloabc/announcing-felte-10-a-form-library-for-svelte-solid-and-react-5ble)
+- [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide](https://dev.to/amandasuzzanne/javascript-101-ultimate-javascript-guide-3m42)
+- [Dev.to/JS] [Felte: An extensible form library for React](https://dev.to/pabloabc/felte-an-extensible-form-library-for-react-3bje)
+- [Dev.to/JS] [Using Recursion to Insert Values Into a Sorted Binary Tree](https://dev.to/zachinjapan/using-recursion-to-insert-values-into-a-sorted-binary-tree-3a1e)
+- [Dev.to/JS] [Must Do Interview Questions for Higher Order Functions](https://dev.to/pushanverma/must-do-interview-questions-for-higher-order-functions-ko4)
+- [Dev.to/JS] [Reduce Higher Order Functions](https://dev.to/pushanverma/reduce-higher-order-functions-l13)
 - [Lifehacker] [You Can Learn to Not Be Such a People-Pleaser](https://lifehacker.com/you-can-learn-to-not-be-such-a-people-pleaser-1848508463)
-- [Dev.to/JS] [MVC JavaScript Tutorial using ES6 Class – Part 02](https://dev.to/hirajatamil/mvc-javascript-tutorial-using-es6-class-part-02-4dno)
-- [Dev.to/JS] [JWT Authentication using Prisma and Express](https://dev.to/mihaiandrei97/jwt-authentication-using-prisma-and-express-37nk)
-- [Dev.to/JS] [Introduction To JavaScript](https://dev.to/lizaatis1/introduction-to-javascript-4dn)
 - [Lifehacker] [10 of the Most Niche YouTube Video Essays You Absolutely Need to Watch](https://lifehacker.com/10-of-the-most-niche-youtube-video-essays-you-absolutel-1848525396)
-- [Dev.to/JS] [Objects in JavaScript](https://dev.to/owais11art/objects-in-javascript-60f)
-- [Dev.to/JS] [7 Reasons To Use UI Libraries to Style React Apps](https://dev.to/ashutoshmishra/7-reasons-to-use-ui-libraries-to-style-react-apps-1ajf)
-- [Dev.to/JS] [Add JSON LD schema with NextJS in these 2 steps.](https://dev.to/priteshbaviskar/add-json-ld-schema-with-nextjs-in-these-3-steps-49ja)
-- [Dev.to/JS] [Day 99 of 100 Days of Code &amp; Scrum: Relationships Between Tables, Various JOIN Types in MySQL](https://dev.to/rammina/day-99-of-100-days-of-code-scrum-relationships-between-tables-various-join-types-in-mysql-3l0p)
-- [Dev.to/JS] [How React.js taken over the front end web development](https://dev.to/shahbazkhan/how-reactjs-taken-over-the-front-end-web-development-4gel)
-- [Dev.to/JS] [How to Build a Real-Time Messaging Application With Event Data Platforms?](https://dev.to/push_technology/how-to-build-a-real-time-messaging-application-with-event-data-platforms-c7a)
-- [Dev.to/JS] [How to solve fu***** cors?](https://dev.to/lautaro/how-to-solve-fu-cors-39f6)
-- [Dev.to/JS] [NextJs Over Plain React](https://dev.to/jainegi/nextjs-over-plain-react-43fo)
-- [Dev.to/JS] [50 Cool Web And Mobile Project Ideas for 2022](https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2022-1flj)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Extremely Elaborate To-Do Lists in Google Sheets](https://lifehacker.com/how-to-make-extremely-elaborate-to-do-lists-in-google-s-1848517398)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is homecoming.dairy?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-ho-1848520478)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
-- [Lifehacker] [You Really Should Automate Your Windows Storage &lpar;and How to Do It&rpar;](https://lifehacker.com/you-really-should-automate-your-windows-storage-and-ho-1848513143)
-- [Lifehacker] [How to Buy an Umbrella That Doesn’t Suck](https://lifehacker.com/how-to-buy-an-umbrella-that-doesn-t-suck-1848515935)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
 ---
