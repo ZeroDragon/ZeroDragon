@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add JSON LD schema with NextJS in these 2 steps.](https://dev.to/priteshbaviskar/add-json-ld-schema-with-nextjs-in-these-3-steps-49ja)
+- [Dev.to/JS] [Day 99 of 100 Days of Code &amp; Scrum: Relationships Between Tables, Various JOIN Types in MySQL](https://dev.to/rammina/day-99-of-100-days-of-code-scrum-relationships-between-tables-various-join-types-in-mysql-3l0p)
+- [Dev.to/JS] [How React.js taken over the front end web development](https://dev.to/shahbazkhan/how-reactjs-taken-over-the-front-end-web-development-4gel)
+- [Dev.to/JS] [How to Build a Real-Time Messaging Application With Event Data Platforms?](https://dev.to/push_technology/how-to-build-a-real-time-messaging-application-with-event-data-platforms-c7a)
 - [Dev.to/JS] [How to solve fu***** cors?](https://dev.to/lautaro/how-to-solve-fu-cors-39f6)
 - [Dev.to/JS] [NextJs Over Plain React](https://dev.to/jainegi/nextjs-over-plain-react-43fo)
 - [Dev.to/JS] [50 Cool Web And Mobile Project Ideas for 2022](https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2022-1flj)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Electronic Program Guide for React, it’s so easy with Planby](https://dev.to/kozerkarol/electronic-program-guide-for-react-its-so-easy-with-planby-1oa9)
 - [Dev.to/JS] [Map over &quot;null&quot; before next.js/image and provide a fallback](https://dev.to/negprof/map-over-null-for-nextjsimage-and-provide-a-placeholder-3i3e)
 - [Dev.to/JS] [Function Pre-conditions &amp; Post-conditions &lpar;What are they?&rpar;](https://dev.to/cleancodestudio/function-pre-conditions-post-conditions-what-are-they-5eff)
-- [Dev.to/JS] [3 Array methods every JavaScript developer should know](https://dev.to/anshuman_bhardwaj/3-array-methods-every-javascript-developer-should-know-868)
-- [Dev.to/JS] [Props Vs State](https://dev.to/kizadekmupela/props-vs-state-25fc)
-- [Dev.to/JS] [Partager l&#39;état d&#39;une application sans base de donnée](https://dev.to/zhouzi/partager-letat-dune-application-sans-base-de-donnee-4bok)
-- [Dev.to/JS] [Interview Questions on JavaScript](https://dev.to/sobhandash/interview-questions-on-javascript-3kbh)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
