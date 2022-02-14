@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
+- [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
 - [Dev.to/JS] [How good is the shuffleArray from 7 killer one liners ?](https://dev.to/yw662/how-good-is-the-shufflearray-from-7-killer-one-liners--5h46)
 - [Dev.to/JS] [JavaScript Basics #5: Regular Expressions](https://dev.to/ericnanhu/javascript-basics-5-regular-expressions-1dbg)
 - [Dev.to/JS] [#003: The Week In Stories — React, Supabase, Next.js, and tech things](https://dev.to/dottedsquirrel/003-the-week-in-stories-react-supabase-nextjs-and-tech-things-478c)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
 - [Lifehacker] [Where to Find the Best Online Detective Forums &lpar;and Help Solve Real Crimes&rpar;](https://lifehacker.com/where-to-find-the-best-online-detective-forums-and-hel-1848510310)
-- [Lifehacker] [How to Buy Better Valentine&#39;s Day Gifts](https://lifehacker.com/how-to-buy-better-valentines-day-gifts-1848524230)
-- [Lifehacker] [Have You Been Holding Your Phone Wrong This Whole Time?](https://lifehacker.com/have-you-been-holding-your-phone-wrong-this-whole-time-1848521531)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
