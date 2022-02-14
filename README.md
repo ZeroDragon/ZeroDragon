@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [COVID-19 Tracker](https://dev.to/anshumanpattnaik/covid-19-tracker-43lo)
+- [Dev.to/JS] [All About Hotwire and Turbo](https://dev.to/bhumi/all-about-hotwire-and-turbo-17hn)
+- [Dev.to/JS] [Getting Started With Modern JavaScript](https://dev.to/juliamwangi/getting-started-with-modern-javascript-m6h)
+- [Dev.to/JS] [JSX.Element vs ReactElement vs ReactNode](https://dev.to/fromaline/jsxelement-vs-reactelement-vs-reactnode-2mh2)
+- [Lifehacker] [How to Hide That You&#39;re Pooping](https://lifehacker.com/how-to-hide-that-youre-pooping-1848515520)
+- [Dev.to/JS] [Offline React Query](https://dev.to/tkdodo/offline-react-query-2kjc)
+- [Dev.to/JS] [How to setup Unity webgl with Reactjs](https://dev.to/cristovoxdgm/how-to-setup-unity-webgl-with-reactjs-4j47)
 - [Dev.to/JS] [14 days as a DevRel](https://dev.to/pearceman/14-days-as-a-devrel-3hc5)
 - [Dev.to/JS] [Back End - Docker](https://dev.to/fumagallilaura/back-end-docker-4mkn)
 - [Lifehacker] [How to Switch From Apple to Android](https://lifehacker.com/how-to-switch-from-apple-to-android-1848532979)
@@ -31,14 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing Medusa.express: The Easiest Way to Setup an Ecommerce Store](https://dev.to/medusajs/introducing-medusaexpress-the-easiest-way-to-setup-an-ecommerce-store-ig2)
 - [Lifehacker] [Three of the Most Decadent Single-Serving Dessert Recipes](https://lifehacker.com/three-of-the-most-decadent-single-serving-dessert-recip-1848532961)
 - [Dev.to/JS] [Access cookies in NextJS from server side](https://dev.to/thatanjan/access-cookies-in-nextjs-from-server-side-18fc)
-- [Dev.to/JS] [Validate Phone Number](https://dev.to/lakshyatyagi24/validate-phone-number-58g9)
-- [Dev.to/JS] [How Wordle kept your streak alive when it migrated to the NYT&#39;s website](https://dev.to/timothee/how-wordle-kept-your-streak-alive-when-it-migrated-to-the-nyts-website-170b)
 - [Lifehacker] [How to Check a Used Car&#39;s Quality Without Paying a Mechanic](https://lifehacker.com/how-to-check-a-used-cars-quality-without-paying-a-mecha-1848533292)
-- [Dev.to/JS] [Al Portfolio](https://dev.to/alsiam/al-portfolio-2pbd)
 - [Lifehacker] [Stop Zoom From Keeping Your Mac’s Mic Open After a Call Ends](https://lifehacker.com/stop-zoom-from-keeping-your-mac-s-mic-open-after-a-call-1848533430)
-- [Dev.to/JS] [Request parser for Express routes.](https://dev.to/narcotic1998/request-parser-for-express-routes-o6m)
-- [Dev.to/JS] [Connection Types In Web Apps](https://dev.to/snickdx/connection-types-in-web-apps-15ie)
-- [Dev.to/JS] [Push Notifications with Laravel, Ionic-Vue, and Firebase](https://dev.to/jringeisen/push-notifications-with-laravel-ionic-vue-and-firebase-4g2a)
 - [Lifehacker] [You Should Hurry and Get a Free Guest Ticket on Amtrak](https://lifehacker.com/you-should-hurry-and-get-a-free-guest-ticket-on-amtrak-1848533008)
 - [Lifehacker] [How to Safely Store Sensitive Files in the Cloud](https://lifehacker.com/how-to-safely-store-sensitive-files-in-the-cloud-1848529835)
 - [Lifehacker] [15 Pretty Cocktails to Make for the One You Love](https://lifehacker.com/15-pretty-cocktails-to-make-for-the-one-you-love-1848524215)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Have You Been Holding Your Phone Wrong This Whole Time?](https://lifehacker.com/have-you-been-holding-your-phone-wrong-this-whole-time-1848521531)
 - [Lifehacker] [What Are Your Favorite Sketchy Parenting Tricks That Totally Work?](https://lifehacker.com/what-are-your-favorite-sketchy-parenting-tricks-that-to-1848523125)
 - [Lifehacker] [Three Ways to Make Pigs in a Blanket, Already Perfect, Even Better](https://lifehacker.com/three-ways-to-make-pigs-in-a-blanket-already-perfect-1848520041)
-- [Lifehacker] [14 ‘Boring’ Simulation Video Games That Are Actually Totally Addictive](https://lifehacker.com/14-boring-simulation-video-games-that-are-actually-to-1848516386)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
