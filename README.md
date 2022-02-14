@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Learn to Not Be Such a People-Pleaser](https://lifehacker.com/you-can-learn-to-not-be-such-a-people-pleaser-1848508463)
+- [Dev.to/JS] [MVC JavaScript Tutorial using ES6 Class – Part 02](https://dev.to/hirajatamil/mvc-javascript-tutorial-using-es6-class-part-02-4dno)
+- [Dev.to/JS] [JWT Authentication using Prisma and Express](https://dev.to/mihaiandrei97/jwt-authentication-using-prisma-and-express-37nk)
+- [Dev.to/JS] [Introduction To JavaScript](https://dev.to/lizaatis1/introduction-to-javascript-4dn)
+- [Lifehacker] [10 of the Most Niche YouTube Video Essays You Absolutely Need to Watch](https://lifehacker.com/10-of-the-most-niche-youtube-video-essays-you-absolutel-1848525396)
 - [Dev.to/JS] [Objects in JavaScript](https://dev.to/owais11art/objects-in-javascript-60f)
 - [Dev.to/JS] [7 Reasons To Use UI Libraries to Style React Apps](https://dev.to/ashutoshmishra/7-reasons-to-use-ui-libraries-to-style-react-apps-1ajf)
 - [Dev.to/JS] [Add JSON LD schema with NextJS in these 2 steps.](https://dev.to/priteshbaviskar/add-json-ld-schema-with-nextjs-in-these-3-steps-49ja)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to solve fu***** cors?](https://dev.to/lautaro/how-to-solve-fu-cors-39f6)
 - [Dev.to/JS] [NextJs Over Plain React](https://dev.to/jainegi/nextjs-over-plain-react-43fo)
 - [Dev.to/JS] [50 Cool Web And Mobile Project Ideas for 2022](https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2022-1flj)
-- [Dev.to/JS] [How I Learned The Web Development And Made The Professional Websites.](https://dev.to/sreeram02/how-i-learned-the-web-development-and-made-the-professional-websites-5d5a)
-- [Dev.to/JS] [Building a Chat App in React and Socket.IO](https://dev.to/coder4_life/building-a-chat-app-in-react-and-socketio-16b6)
-- [Dev.to/JS] [Electronic Program Guide for React, it’s so easy with Planby](https://dev.to/kozerkarol/electronic-program-guide-for-react-its-so-easy-with-planby-1oa9)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Lifehacker] [You Really Should Automate Your Windows Storage &lpar;and How to Do It&rpar;](https://lifehacker.com/you-really-should-automate-your-windows-storage-and-ho-1848513143)
 - [Lifehacker] [How to Buy an Umbrella That Doesn’t Suck](https://lifehacker.com/how-to-buy-an-umbrella-that-doesn-t-suck-1848515935)
-- [Lifehacker] [10 Things You Learned in Sex Ed That Aren’t Actually True](https://lifehacker.com/10-lies-you-learned-in-sex-ed-1848517072)
-- [Lifehacker] [How to Make Folding Laundry Way Less Annoying](https://lifehacker.com/how-to-make-folding-laundry-way-less-annoying-1848516606)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
 ---
