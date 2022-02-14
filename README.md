@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 3 - Redesigning Nasa&#39;s Picture of the Day Webpage](https://dev.to/edward_naidoo/day-3-redesigning-nasas-picture-of-the-day-webpage-2l49)
+- [Dev.to/JS] [Integrating SvelteKit with Backendless](https://dev.to/brewhousedigital/integrating-sveltekit-with-backendless-3gip)
+- [Dev.to/JS] [Pong using Deno and caviar as a native app using WebGPU](https://dev.to/load1n9/pong-using-deno-and-caviar-as-a-native-app-using-webgpu-1e8m)
+- [Dev.to/JS] [Time to practice react](https://dev.to/nelsonmalbonecoding/time-to-practice-react-1neg)
 - [Dev.to/JS] [Gamer design website](https://dev.to/rafazeon/gamer-design-website-4iof)
 - [Dev.to/JS] [React Hooks: useMemo&lpar;&rpar;](https://dev.to/fig781/react-hooks-usememo-2d51)
 - [Dev.to/JS] [Exploring New Things](https://dev.to/tcvan0707/exploring-new-things-3ih4)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The advanced guide to React Context with hooks.](https://dev.to/joseprest/the-advanced-guide-to-react-context-with-hooks-dh9)
 - [Dev.to/JS] [Mastering useReducer &lpar;1/2&rpar;](https://dev.to/pffigueiredo/mastering-usereducer-12-5d2e)
 - [Dev.to/JS] [Arrow function vs Regular function](https://dev.to/karamkoujan/arrow-function-vs-regular-function-5c19)
-- [Dev.to/JS] [Leveraging JavaScript to implement CSS transitions that use display: none](https://dev.to/tylerlwsmith/leveraging-javascript-to-implement-css-transitions-that-use-display-none-4hhb)
-- [Dev.to/JS] [Starting Out In Tech In 2022.](https://dev.to/therevealer/starting-out-in-tech-in-2022-64p)
-- [Dev.to/JS] [Big O Notation and the Student Software Engineer](https://dev.to/wwwestin/big-o-notation-and-the-student-software-engineer-38hb)
-- [Dev.to/JS] [Ideas for a beginner developer.](https://dev.to/bip3r/ideas-for-a-beginner-developer-19da)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
