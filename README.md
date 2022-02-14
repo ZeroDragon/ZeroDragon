@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to solve fu***** cors?](https://dev.to/lautaro/how-to-solve-fu-cors-39f6)
+- [Dev.to/JS] [NextJs Over Plain React](https://dev.to/jainegi/nextjs-over-plain-react-43fo)
+- [Dev.to/JS] [50 Cool Web And Mobile Project Ideas for 2022](https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2022-1flj)
+- [Dev.to/JS] [How I Learned The Web Development And Made The Professional Websites.](https://dev.to/sreeram02/how-i-learned-the-web-development-and-made-the-professional-websites-5d5a)
 - [Dev.to/JS] [Building a Chat App in React and Socket.IO](https://dev.to/coder4_life/building-a-chat-app-in-react-and-socketio-16b6)
 - [Dev.to/JS] [Electronic Program Guide for React, it’s so easy with Planby](https://dev.to/kozerkarol/electronic-program-guide-for-react-its-so-easy-with-planby-1oa9)
 - [Dev.to/JS] [Map over &quot;null&quot; before next.js/image and provide a fallback](https://dev.to/negprof/map-over-null-for-nextjsimage-and-provide-a-placeholder-3i3e)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Props Vs State](https://dev.to/kizadekmupela/props-vs-state-25fc)
 - [Dev.to/JS] [Partager l&#39;état d&#39;une application sans base de donnée](https://dev.to/zhouzi/partager-letat-dune-application-sans-base-de-donnee-4bok)
 - [Dev.to/JS] [Interview Questions on JavaScript](https://dev.to/sobhandash/interview-questions-on-javascript-3kbh)
-- [Dev.to/JS] [Fungus Clear - Fungus Results, Price, Ingredients And Side Effects](https://dev.to/fungusclearfact/fungus-clear-fungus-results-price-ingredients-and-side-effects-3nfn)
-- [Dev.to/JS] [How to share data between components in Angular](https://dev.to/danywalls/how-to-share-data-between-components-in-angular-4i60)
-- [Dev.to/JS] [Angular Error Interceptor](https://dev.to/this-is-angular/angular-error-interceptor-12bg)
-- [Dev.to/JS] [Get Notified When Package Dependencies Release An Update 🚀](https://dev.to/mdmudassir/get-notified-when-package-dependencies-release-an-update-32pk)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
