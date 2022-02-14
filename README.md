@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Modern Javascript](https://dev.to/heyags/introduction-to-modern-javascript-499e)
+- [Dev.to/JS] [How to listen for mouse wheel events in React?](https://dev.to/joseprest/how-to-listen-for-mouse-wheel-events-in-react-2e7)
+- [Dev.to/JS] [The advanced guide to React Context with hooks.](https://dev.to/joseprest/the-advanced-guide-to-react-context-with-hooks-dh9)
 - [Dev.to/JS] [Mastering useReducer &lpar;1/2&rpar;](https://dev.to/pffigueiredo/mastering-usereducer-12-5d2e)
 - [Dev.to/JS] [Arrow function vs Regular function](https://dev.to/karamkoujan/arrow-function-vs-regular-function-5c19)
 - [Dev.to/JS] [Leveraging JavaScript to implement CSS transitions that use display: none](https://dev.to/tylerlwsmith/leveraging-javascript-to-implement-css-transitions-that-use-display-none-4hhb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State of the Web: React](https://dev.to/asyncbanana/state-of-the-web-react-40kf)
 - [Dev.to/JS] [#31 - Sequences and Series CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/31-sequences-and-series-codewars-kata-6-kyu-2ll0)
 - [Dev.to/JS] [Weekly Digest 06/2022](https://dev.to/marcobiedermann/weekly-digest-062022-9bd)
-- [Dev.to/JS] [beamco.de: A new code snippet creator is in town 🌈](https://dev.to/activenode/beamcode-a-new-code-snippet-creator-is-in-town-4d7a)
-- [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide](https://dev.to/batichebet/javascript-101-ultimate-javascript-guide-16dc)
-- [Dev.to/JS] [Modal with transition using Livewire and Alpine.js](https://dev.to/mtk3d/livewire-transitioning-modal-using-alpinejs-47do)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
