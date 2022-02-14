@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide.](https://dev.to/independence/javascript-101-ultimate-javascript-guide-127l)
+- [Dev.to/JS] [Typescript - &lpar;ReadOnly&rpar;NotEmptyArray](https://dev.to/this-is-learning/typescript-readonlynotemptyarray-2id7)
+- [Dev.to/JS] [Newton&#39;s Cradle](https://dev.to/karanpatel4795/newtons-cradle-53in)
+- [Dev.to/JS] [Get the integers within a range &lpar;x, y&rpar; using recursion](https://dev.to/chandramarch18/get-the-integers-within-a-range-x-y-using-recursion-158d)
 - [Dev.to/JS] [How React checks if 2 values are the same value](https://dev.to/josemukorivo/how-react-checks-if-2-values-are-the-same-value-3g4a)
 - [Dev.to/JS] [NextJs Leaflet + MapBox](https://dev.to/elvis2280/nextjs-leaflet-mapbox-50mg)
 - [Dev.to/JS] [Check if a number is even using recursion](https://dev.to/chandramarch18/check-if-a-number-is-even-using-recursion-5dd6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 39](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-39-486)
 - [Dev.to/JS] [Day 4 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#443.String Compression&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-4-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem443string-compressionmediumjavascript-4oma)
 - [Dev.to/JS] [Why React is UI Library and not a Framework ?](https://dev.to/rutvikumak/why-react-is-ui-library-and-not-a-framework--4cal)
-- [Dev.to/JS] [Day 3 - Redesigning Nasa&#39;s Picture of the Day Webpage](https://dev.to/edward_naidoo/day-3-redesigning-nasas-picture-of-the-day-webpage-2l49)
-- [Dev.to/JS] [Integrating SvelteKit with Backendless](https://dev.to/brewhousedigital/integrating-sveltekit-with-backendless-3gip)
-- [Dev.to/JS] [Pong using Deno and caviar as a native app using WebGPU](https://dev.to/load1n9/pong-using-deno-and-caviar-as-a-native-app-using-webgpu-1e8m)
-- [Dev.to/JS] [Time to practice react](https://dev.to/nelsonmalbonecoding/time-to-practice-react-1neg)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
