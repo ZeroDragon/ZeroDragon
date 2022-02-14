@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding a Hank Hill Hotkey](https://dev.to/js_bits_bill/coding-a-hank-hill-hotkey-23h9)
+- [Dev.to/JS] [JavaScript: Using the spread operator with nested objects](https://dev.to/mlgvla/javascript-using-the-spread-operator-with-nested-objects-2e7l)
+- [Lifehacker] [You Should Hurry and Get a Free Guest Ticket on Amtrak](https://lifehacker.com/you-should-hurry-and-get-a-free-guest-ticket-on-amtrak-1848533008)
+- [Dev.to/JS] [Day-23 Training at Ryaz](https://dev.to/mahin651/day-23-training-at-ryaz-56i0)
+- [Dev.to/JS] [Generate a dynamic Stackoverflow profile for your README](https://dev.to/johannchopin/generate-a-dynamic-stackoverflow-profile-for-your-readme-51e6)
+- [Dev.to/JS] [Converting to Vite &lpar;Part 4&rpar;](https://dev.to/opensauced/converting-to-vite-part-4-ikf)
 - [Dev.to/JS] [The Complete HTML Beginners Guide](https://dev.to/masterofastro/the-complete-html-beginners-guide-1mj9)
 - [Dev.to/JS] [Hire PHP Developers from Most Trusted Software Development Company | Optymize](https://dev.to/optymize123/hire-php-developers-from-most-trusted-software-development-company-optymize-4i53)
 - [Dev.to/JS] [Why choose Optymize’s Software Developer?](https://dev.to/optymize123/why-choose-optymizes-software-developer-5bbb)
@@ -31,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Safely Store Sensitive Files in the Cloud](https://lifehacker.com/how-to-safely-store-sensitive-files-in-the-cloud-1848529835)
 - [Dev.to/JS] [2 Week Bali Itinerary Reliable 2021 Guide](https://dev.to/kurniahikmah18/2-week-bali-itinerary-reliable-2021-guide-36le)
 - [Dev.to/JS] [Introduction to Javascript](https://dev.to/royfordwanyoike/introduction-to-javascript-24d6)
-- [Dev.to/JS] [The 3 Short Frontend tips for February](https://dev.to/melnik909/the-3-short-frontend-tips-for-february-226a)
-- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#07&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-07-2lfa)
 - [Lifehacker] [15 Pretty Cocktails to Make for the One You Love](https://lifehacker.com/15-pretty-cocktails-to-make-for-the-one-you-love-1848524215)
-- [Dev.to/JS] [Asynchronous Coding in JavaScript](https://dev.to/rmachirica/asynchronous-coding-in-javascript-2p93)
-- [Dev.to/JS] [JavaScript Basics #4: Object-Oriented Programming](https://dev.to/ericnanhu/javascript-basics-4-object-oriented-programming-4e5h)
-- [Dev.to/JS] [Introduction to Modern JavaScript](https://dev.to/alvinimbua/introduction-to-modern-javascript-5am4)
 - [Lifehacker] [How to Never Lose Another Umbrella As Long As You Live](https://lifehacker.com/how-to-never-lose-another-umbrella-as-long-as-you-live-1848521788)
 - [Lifehacker] [You Can Learn to Not Be Such a People-Pleaser](https://lifehacker.com/you-can-learn-to-not-be-such-a-people-pleaser-1848508463)
 - [Lifehacker] [10 of the Most Niche YouTube Video Essays You Absolutely Need to Watch](https://lifehacker.com/10-of-the-most-niche-youtube-video-essays-you-absolutel-1848525396)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Already Need to Update Safari Again](https://lifehacker.com/you-already-need-to-update-safari-again-1848522230)
 - [Lifehacker] [Skies, Seasons and Vibes: The Urbanite’s Guide to Sun Valley, Idaho](https://lifehacker.com/skies-seasons-and-vibes-the-urbanite-s-guide-to-sun-v-1848474803)
 - [Lifehacker] [10 Reasons You Should Buy a 3DS in 2022](https://lifehacker.com/10-reasons-you-should-buy-a-3ds-in-2022-1848514921)
-- [Lifehacker] [How to Make Extremely Elaborate To-Do Lists in Google Sheets](https://lifehacker.com/how-to-make-extremely-elaborate-to-do-lists-in-google-s-1848517398)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
