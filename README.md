@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Objects in JavaScript](https://dev.to/owais11art/objects-in-javascript-60f)
+- [Dev.to/JS] [7 Reasons To Use UI Libraries to Style React Apps](https://dev.to/ashutoshmishra/7-reasons-to-use-ui-libraries-to-style-react-apps-1ajf)
 - [Dev.to/JS] [Add JSON LD schema with NextJS in these 2 steps.](https://dev.to/priteshbaviskar/add-json-ld-schema-with-nextjs-in-these-3-steps-49ja)
 - [Dev.to/JS] [Day 99 of 100 Days of Code &amp; Scrum: Relationships Between Tables, Various JOIN Types in MySQL](https://dev.to/rammina/day-99-of-100-days-of-code-scrum-relationships-between-tables-various-join-types-in-mysql-3l0p)
 - [Dev.to/JS] [How React.js taken over the front end web development](https://dev.to/shahbazkhan/how-reactjs-taken-over-the-front-end-web-development-4gel)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Learned The Web Development And Made The Professional Websites.](https://dev.to/sreeram02/how-i-learned-the-web-development-and-made-the-professional-websites-5d5a)
 - [Dev.to/JS] [Building a Chat App in React and Socket.IO](https://dev.to/coder4_life/building-a-chat-app-in-react-and-socketio-16b6)
 - [Dev.to/JS] [Electronic Program Guide for React, it’s so easy with Planby](https://dev.to/kozerkarol/electronic-program-guide-for-react-its-so-easy-with-planby-1oa9)
-- [Dev.to/JS] [Map over &quot;null&quot; before next.js/image and provide a fallback](https://dev.to/negprof/map-over-null-for-nextjsimage-and-provide-a-placeholder-3i3e)
-- [Dev.to/JS] [Function Pre-conditions &amp; Post-conditions &lpar;What are they?&rpar;](https://dev.to/cleancodestudio/function-pre-conditions-post-conditions-what-are-they-5eff)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
