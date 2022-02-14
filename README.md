@@ -23,20 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How good is the shuffleArray from 7 killer one liners ?](https://dev.to/yw662/how-good-is-the-shufflearray-from-7-killer-one-liners--5h46)
+- [Dev.to/JS] [JavaScript Basics #5: Regular Expressions](https://dev.to/ericnanhu/javascript-basics-5-regular-expressions-1dbg)
+- [Dev.to/JS] [#003: The Week In Stories — React, Supabase, Next.js, and tech things](https://dev.to/dottedsquirrel/003-the-week-in-stories-react-supabase-nextjs-and-tech-things-478c)
+- [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
+- [Dev.to/JS] [Happy Valentine&#39;s Coders!](https://dev.to/tomaszs2/happy-valentines-coders-32gi)
 - [Dev.to/JS] [Its time to retire the CRA](https://dev.to/ajayff4/its-time-to-retire-the-cra-3ohp)
 - [Dev.to/JS] [Introduction to Modern Javascript 101](https://dev.to/marrie/introduction-to-modern-javascript-101-41ha)
 - [Dev.to/JS] [Quick and easy value clamping](https://dev.to/timothee/quick-and-easy-value-clamping-13jc)
-- [Dev.to/JS] [We trolled our competitor without pushing a single line of code 😃](https://dev.to/kylessg/we-trolled-our-competitor-without-pushing-a-single-line-of-code-43jf)
+- [Dev.to/JS] [Using Feature Flags to troll our competitor without a line of code 😃](https://dev.to/kylessg/we-trolled-our-competitor-without-pushing-a-single-line-of-code-43jf)
 - [Dev.to/JS] [Introduction to Javascript](https://dev.to/mitleo/introduction-to-javascript-59eb)
 - [Dev.to/JS] [Fully Responsive Documentation Page using Pure CSS.](https://dev.to/prakhart111/fully-responsive-documentation-page-using-pure-css-3ne2)
 - [Lifehacker] [How to Tell If Your Kid Has Mono](https://lifehacker.com/how-to-tell-if-your-kid-has-mono-1848534930)
 - [Dev.to/JS] [COVID-19 Tracker](https://dev.to/anshumanpattnaik/covid-19-tracker-43lo)
 - [Dev.to/JS] [All About Hotwire and Turbo](https://dev.to/bhumi/all-about-hotwire-and-turbo-17hn)
-- [Dev.to/JS] [Getting Started With Modern JavaScript](https://dev.to/juliamwangi/getting-started-with-modern-javascript-m6h)
-- [Dev.to/JS] [JSX.Element vs ReactElement vs ReactNode](https://dev.to/fromaline/jsxelement-vs-reactelement-vs-reactnode-2mh2)
 - [Lifehacker] [How to Hide That You&#39;re Pooping](https://lifehacker.com/how-to-hide-that-youre-pooping-1848515520)
-- [Dev.to/JS] [Offline React Query](https://dev.to/tkdodo/offline-react-query-2kjc)
-- [Dev.to/JS] [How to setup Unity webgl with Reactjs](https://dev.to/cristovoxdgm/how-to-setup-unity-webgl-with-reactjs-4j47)
 - [Lifehacker] [How to Switch From Apple to Android](https://lifehacker.com/how-to-switch-from-apple-to-android-1848532979)
 - [Lifehacker] [Three of the Most Decadent Single-Serving Dessert Recipes](https://lifehacker.com/three-of-the-most-decadent-single-serving-dessert-recip-1848532961)
 - [Lifehacker] [How to Check a Used Car&#39;s Quality Without Paying a Mechanic](https://lifehacker.com/how-to-check-a-used-cars-quality-without-paying-a-mecha-1848533292)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Find the Best Online Detective Forums &lpar;and Help Solve Real Crimes&rpar;](https://lifehacker.com/where-to-find-the-best-online-detective-forums-and-hel-1848510310)
 - [Lifehacker] [How to Buy Better Valentine&#39;s Day Gifts](https://lifehacker.com/how-to-buy-better-valentines-day-gifts-1848524230)
 - [Lifehacker] [Have You Been Holding Your Phone Wrong This Whole Time?](https://lifehacker.com/have-you-been-holding-your-phone-wrong-this-whole-time-1848521531)
-- [Lifehacker] [What Are Your Favorite Sketchy Parenting Tricks That Totally Work?](https://lifehacker.com/what-are-your-favorite-sketchy-parenting-tricks-that-to-1848523125)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
