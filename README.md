@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sum all numbers in an array containing nested arrays using recursion](https://dev.to/chandramarch18/sum-all-numbers-in-an-array-containing-nested-arrays-using-recursion-1fi8)
+- [Dev.to/JS] [Compute the sum of an array of integers using Recursion](https://dev.to/chandramarch18/compute-the-sum-of-an-array-of-integers-using-recursion-2e29)
+- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 39](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-39-486)
+- [Dev.to/JS] [Day 4 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#443.String Compression&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-4-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem443string-compressionmediumjavascript-4oma)
+- [Dev.to/JS] [Why React is UI Library and not a Framework ?](https://dev.to/rutvikumak/why-react-is-ui-library-and-not-a-framework--4cal)
 - [Dev.to/JS] [Day 3 - Redesigning Nasa&#39;s Picture of the Day Webpage](https://dev.to/edward_naidoo/day-3-redesigning-nasas-picture-of-the-day-webpage-2l49)
 - [Dev.to/JS] [Integrating SvelteKit with Backendless](https://dev.to/brewhousedigital/integrating-sveltekit-with-backendless-3gip)
 - [Dev.to/JS] [Pong using Deno and caviar as a native app using WebGPU](https://dev.to/load1n9/pong-using-deno-and-caviar-as-a-native-app-using-webgpu-1e8m)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gamer design website](https://dev.to/rafazeon/gamer-design-website-4iof)
 - [Dev.to/JS] [React Hooks: useMemo&lpar;&rpar;](https://dev.to/fig781/react-hooks-usememo-2d51)
 - [Dev.to/JS] [Exploring New Things](https://dev.to/tcvan0707/exploring-new-things-3ih4)
-- [Dev.to/JS] [Introduction to Modern Javascript](https://dev.to/heyags/introduction-to-modern-javascript-499e)
-- [Dev.to/JS] [How to listen for mouse wheel events in React?](https://dev.to/joseprest/how-to-listen-for-mouse-wheel-events-in-react-2e7)
-- [Dev.to/JS] [The advanced guide to React Context with hooks.](https://dev.to/joseprest/the-advanced-guide-to-react-context-with-hooks-dh9)
-- [Dev.to/JS] [Mastering useReducer &lpar;1/2&rpar;](https://dev.to/pffigueiredo/mastering-usereducer-12-5d2e)
-- [Dev.to/JS] [Arrow function vs Regular function](https://dev.to/karamkoujan/arrow-function-vs-regular-function-5c19)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
