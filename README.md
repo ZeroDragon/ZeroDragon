@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Partager l&#39;état d&#39;une application sans base de donnée](https://dev.to/zhouzi/partager-letat-dune-application-sans-base-de-donnee-4bok)
+- [Dev.to/JS] [Interview Questions on JavaScript](https://dev.to/sobhandash/interview-questions-on-javascript-3kbh)
+- [Dev.to/JS] [Fungus Clear - Fungus Results, Price, Ingredients And Side Effects](https://dev.to/fungusclearfact/fungus-clear-fungus-results-price-ingredients-and-side-effects-3nfn)
 - [Dev.to/JS] [How to share data between components in Angular](https://dev.to/danywalls/how-to-share-data-between-components-in-angular-4i60)
 - [Dev.to/JS] [Angular Error Interceptor](https://dev.to/this-is-angular/angular-error-interceptor-12bg)
 - [Dev.to/JS] [Get Notified When Package Dependencies Release An Update 🚀](https://dev.to/mdmudassir/get-notified-when-package-dependencies-release-an-update-32pk)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get the integers within a range &lpar;x, y&rpar; using recursion](https://dev.to/chandramarch18/get-the-integers-within-a-range-x-y-using-recursion-158d)
 - [Dev.to/JS] [How React checks if 2 values are the same value](https://dev.to/josemukorivo/how-react-checks-if-2-values-are-the-same-value-3g4a)
 - [Dev.to/JS] [NextJs Leaflet + MapBox](https://dev.to/elvis2280/nextjs-leaflet-mapbox-50mg)
-- [Dev.to/JS] [Check if a number is even using recursion](https://dev.to/chandramarch18/check-if-a-number-is-even-using-recursion-5dd6)
-- [Dev.to/JS] [Sum all numbers in an array containing nested arrays using recursion](https://dev.to/chandramarch18/sum-all-numbers-in-an-array-containing-nested-arrays-using-recursion-1fi8)
-- [Dev.to/JS] [Compute the sum of an array of integers using Recursion](https://dev.to/chandramarch18/compute-the-sum-of-an-array-of-integers-using-recursion-2e29)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
