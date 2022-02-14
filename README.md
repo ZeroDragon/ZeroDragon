@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to share data between components in Angular](https://dev.to/danywalls/how-to-share-data-between-components-in-angular-4i60)
+- [Dev.to/JS] [Angular Error Interceptor](https://dev.to/this-is-angular/angular-error-interceptor-12bg)
+- [Dev.to/JS] [Get Notified When Package Dependencies Release An Update 🚀](https://dev.to/mdmudassir/get-notified-when-package-dependencies-release-an-update-32pk)
 - [Dev.to/JS] [JavaScript 101: Ultimate JavaScript Guide.](https://dev.to/independence/javascript-101-ultimate-javascript-guide-127l)
 - [Dev.to/JS] [Typescript - &lpar;ReadOnly&rpar;NotEmptyArray](https://dev.to/this-is-learning/typescript-readonlynotemptyarray-2id7)
 - [Dev.to/JS] [Newton&#39;s Cradle](https://dev.to/karanpatel4795/newtons-cradle-53in)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Check if a number is even using recursion](https://dev.to/chandramarch18/check-if-a-number-is-even-using-recursion-5dd6)
 - [Dev.to/JS] [Sum all numbers in an array containing nested arrays using recursion](https://dev.to/chandramarch18/sum-all-numbers-in-an-array-containing-nested-arrays-using-recursion-1fi8)
 - [Dev.to/JS] [Compute the sum of an array of integers using Recursion](https://dev.to/chandramarch18/compute-the-sum-of-an-array-of-integers-using-recursion-2e29)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 39](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-39-486)
-- [Dev.to/JS] [Day 4 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#443.String Compression&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-4-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem443string-compressionmediumjavascript-4oma)
-- [Dev.to/JS] [Why React is UI Library and not a Framework ?](https://dev.to/rutvikumak/why-react-is-ui-library-and-not-a-framework--4cal)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
