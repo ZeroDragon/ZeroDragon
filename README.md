@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gamer design website](https://dev.to/rafazeon/gamer-design-website-4iof)
+- [Dev.to/JS] [React Hooks: useMemo&lpar;&rpar;](https://dev.to/fig781/react-hooks-usememo-2d51)
+- [Dev.to/JS] [Exploring New Things](https://dev.to/tcvan0707/exploring-new-things-3ih4)
 - [Dev.to/JS] [Introduction to Modern Javascript](https://dev.to/heyags/introduction-to-modern-javascript-499e)
 - [Dev.to/JS] [How to listen for mouse wheel events in React?](https://dev.to/joseprest/how-to-listen-for-mouse-wheel-events-in-react-2e7)
 - [Dev.to/JS] [The advanced guide to React Context with hooks.](https://dev.to/joseprest/the-advanced-guide-to-react-context-with-hooks-dh9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Starting Out In Tech In 2022.](https://dev.to/therevealer/starting-out-in-tech-in-2022-64p)
 - [Dev.to/JS] [Big O Notation and the Student Software Engineer](https://dev.to/wwwestin/big-o-notation-and-the-student-software-engineer-38hb)
 - [Dev.to/JS] [Ideas for a beginner developer.](https://dev.to/bip3r/ideas-for-a-beginner-developer-19da)
-- [Dev.to/JS] [State of the Web: React](https://dev.to/asyncbanana/state-of-the-web-react-40kf)
-- [Dev.to/JS] [#31 - Sequences and Series CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/31-sequences-and-series-codewars-kata-6-kyu-2ll0)
-- [Dev.to/JS] [Weekly Digest 06/2022](https://dev.to/marcobiedermann/weekly-digest-062022-9bd)
 - [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
 - [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Lifehacker] [Use This Chart to See Which Flavors Pair With Different Fruits](https://lifehacker.com/use-this-chart-to-see-which-flavors-pair-with-different-1848520090)
