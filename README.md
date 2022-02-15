@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Interview Questions&lpar;Divided into levels&rpar;](https://dev.to/royfordwanyoike/javascript-interview-questionsdivided-into-levels-on0)
+- [Lifehacker] [Use This Formula to Make a ‘Healthy’ Snack You’ll Actually Want to Eat](https://lifehacker.com/use-this-formula-to-make-a-healthy-snack-you-ll-actua-1848534922)
+- [Dev.to/JS] [This is how you make images Responsive in CSS](https://dev.to/codewithsnowbit/this-is-how-you-make-images-responsive-in-css-53fl)
+- [Dev.to/JS] [New updation in colormyweb 🌈🌈 just look it](https://dev.to/sripadhs/new-updation-in-colormyweb-just-look-it-1pb2)
+- [Dev.to/JS] [Step Functions para no morir. Parte 3](https://dev.to/giulianaolmos/step-functions-para-no-morir-parte-3-559p)
+- [Lifehacker] [The Major Stages in Every Relationship &lpar;and What to Avoid in Each One&rpar;](https://lifehacker.com/the-major-stages-in-every-relationship-and-what-to-avo-1848534287)
+- [Dev.to/JS] [When Package Dependencies Become Problematic](https://dev.to/jamesives/when-package-dependencies-become-problematic-32ip)
+- [Dev.to/JS] [Creating a Simple REST API - Part 1](https://dev.to/noopur0210/creating-a-simple-rest-api-part-1-45mj)
 - [Dev.to/JS] [How to create a basic app with Next.js](https://dev.to/britotiagos/how-to-create-a-basic-app-with-nextjs-h8k)
 - [Dev.to/JS] [40+ Killer JavaScript One Liners 🔥](https://dev.to/dreamyplayer/40-killer-javascript-one-liners-2hp7)
 - [Dev.to/JS] [How to use JavaScript feature toggles to deploy safely [React.js example with Dev.to App]](https://dev.to/ilya_azovtsev/how-to-use-javascript-feature-toggles-to-deploy-safely-reactjs-example-with-devto-app-408g)
 - [Dev.to/JS] [7 VS Code Extensions that JS dev Should Use](https://dev.to/ranaharoon3222/7-vs-code-extensions-that-js-dev-should-use-h46)
 - [Dev.to/JS] [Introduction to OOPS in Javascript &lpar;this keyword&rpar;](https://dev.to/pushanverma/introduction-to-oops-in-javascript-this-keyword-2j0p)
 - [Dev.to/JS] [Classes are still useful even in largely functional style code](https://dev.to/skyjur/classes-are-still-useful-even-in-largely-functional-style-code-1ng4)
-- [Dev.to/JS] [JS Errors: Resolving HTTP Headers sent error in Node.JS](https://dev.to/smpnjn/js-errors-resolving-http-headers-sent-error-in-nodejs-h3f)
-- [Dev.to/JS] [A MongoDB data storing refactor story](https://dev.to/dcsl-guidesmiths/a-mongodb-data-storing-refactor-story-5dmp)
-- [Dev.to/JS] [Angular Dependency Injection: A Complete Guide](https://dev.to/syncfusion/angular-dependency-injection-a-complete-guide-281m)
-- [Dev.to/JS] [How I developed a modern JAMStack website](https://dev.to/josemukorivo/how-i-developed-a-modern-jamstack-website-3heo)
-- [Dev.to/JS] [Build Warehouse and Store Management System - Pt. 2](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-2-1mh0)
-- [Dev.to/JS] [What You See vs What’s Going On Under the Hood. Setting Development Priorities](https://dev.to/sergeylaptick/what-you-see-vs-whats-going-on-under-the-hood-setting-development-priorities-3mdc)
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
 - [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
 - [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
 - [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
-- [Lifehacker] [Does It Matter Which Way You Face the Plates on a Barbell?](https://lifehacker.com/does-it-matter-which-way-you-face-the-plates-on-a-barbe-1848524998)
-- [Lifehacker] [Where to Find the Best Online Detective Forums &lpar;and Help Solve Real Crimes&rpar;](https://lifehacker.com/where-to-find-the-best-online-detective-forums-and-hel-1848510310)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
