@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sorting your imports with ESLint](https://dev.to/julioxavierr/sorting-your-imports-with-eslint-3ped)
+- [Dev.to/JS] [trawaaa](https://dev.to/opauwlo/trawaaa-1hg)
+- [Dev.to/JS] [rest](https://dev.to/opauwlo/rest-3df)
+- [Dev.to/JS] [Microbundle is not enough](https://dev.to/ivandotv/microbundle-is-not-enough-1k1)
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
 - [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
 - [Dev.to/JS] [How good is the shuffleArray from 7 killer one liners ?](https://dev.to/yw662/how-good-is-the-shufflearray-from-7-killer-one-liners--5h46)
@@ -34,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Modern Javascript 101](https://dev.to/marrie/introduction-to-modern-javascript-101-41ha)
 - [Dev.to/JS] [Quick and easy value clamping](https://dev.to/timothee/quick-and-easy-value-clamping-13jc)
 - [Dev.to/JS] [Using Feature Flags to troll our competitor without a line of code 😃](https://dev.to/kylessg/we-trolled-our-competitor-without-pushing-a-single-line-of-code-43jf)
-- [Dev.to/JS] [Introduction to Javascript](https://dev.to/mitleo/introduction-to-javascript-59eb)
-- [Dev.to/JS] [Fully Responsive Documentation Page using Pure CSS.](https://dev.to/prakhart111/fully-responsive-documentation-page-using-pure-css-3ne2)
 - [Lifehacker] [How to Tell If Your Kid Has Mono](https://lifehacker.com/how-to-tell-if-your-kid-has-mono-1848534930)
-- [Dev.to/JS] [COVID-19 Tracker](https://dev.to/anshumanpattnaik/covid-19-tracker-43lo)
-- [Dev.to/JS] [All About Hotwire and Turbo](https://dev.to/bhumi/all-about-hotwire-and-turbo-17hn)
 - [Lifehacker] [How to Hide That You&#39;re Pooping](https://lifehacker.com/how-to-hide-that-youre-pooping-1848515520)
 - [Lifehacker] [How to Switch From Apple to Android](https://lifehacker.com/how-to-switch-from-apple-to-android-1848532979)
 - [Lifehacker] [Three of the Most Decadent Single-Serving Dessert Recipes](https://lifehacker.com/three-of-the-most-decadent-single-serving-dessert-recip-1848532961)
