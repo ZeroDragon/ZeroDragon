@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Class Property Proposal is  Finished and Avaliable in React](https://dev.to/kachidk/the-class-property-proposal-is-finished-and-avaliable-in-react-1cbj)
+- [Dev.to/JS] [React component as prop: the right way™️](https://dev.to/adevnadia/react-component-as-prop-the-right-way-ane)
+- [Dev.to/JS] [React Apollo: useQuery pollInterval with cache-and-network doesn&#39;t stop to make requests after unmounting a component](https://dev.to/lico/usequery-pollinterval-with-cache-and-network-doesnt-stop-to-make-requests-after-unmounting-a-component-4hp8)
+- [Dev.to/JS] [3 posts on FreeCodeCamp that you must go through](https://dev.to/iwanttoachievesomething/3-posts-on-freecodecamp-that-you-must-go-through-4ci1)
 - [Dev.to/JS] [Attractive and responsive HTML5 &amp; CSS3 Filters.](https://dev.to/zainmuhammad/attractive-and-responsive-html5-css3-filters-4kg1)
 - [Dev.to/JS] [Build Warehouse and Store Management System - Pt. 1](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-1-251h)
 - [Dev.to/JS] [Js repeat a function by for loop](https://dev.to/mrjahid/js-repeat-a-function-by-for-loop-2373)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Run js in Chrome dev console](https://dev.to/j143/run-js-in-chrome-dev-console-359a)
 - [Dev.to/JS] [FoalTS framework - version 2.8 is here with complete Websocket support 🎉](https://dev.to/loicpoullain/foalts-framework-version-28-is-here-with-complete-websocket-support-2kjm)
 - [Dev.to/JS] [Javascript Array Methods Ep.1](https://dev.to/theadeshkhanna/javascript-array-methods-ep1-47dp)
-- [Dev.to/JS] [React: Senior devs write small components! 🚀](https://dev.to/mikewudev/react-senior-devs-write-small-components-5351)
-- [Dev.to/JS] [What is NPX?](https://dev.to/mrdanishsaleem/what-is-npx-307m)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 40](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-40-53mh)
-- [Dev.to/JS] [Quick &amp; easy guide to get started with Gatsby](https://dev.to/preetsuthar/quick-easy-guide-to-get-started-with-gatsby-1p33)
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
 - [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
