@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Are Waterpiks Really Better Than Traditional Floss?](https://lifehacker.com/are-waterpiks-really-better-than-traditional-floss-1848540271)
+- [Dev.to/JS] [Obfuscate &amp; Reveal text animation in React using baffle.js](https://dev.to/hosenur/obfuscate-reveal-text-animation-in-react-using-bafflejs-14c9)
+- [Dev.to/JS] [Unleashing React Synthetic Events](https://dev.to/iamdivyansh/unleashing-react-synthetic-events-1na2)
 - [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1848540278)
 - [Dev.to/JS] [Backend Options for your Flutter App](https://dev.to/back4app/backend-options-for-your-flutter-app-2ggj)
 - [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844)
@@ -38,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Force Microsoft Office to Save Files Directly to Your Computer &lpar;Instead of OneDrive&rpar;](https://lifehacker.com/how-to-force-microsoft-office-to-save-files-directly-to-1848539698)
 - [Dev.to/JS] [How to fix the plugin/preset Error in React JS.](https://dev.to/lovelydhineshtp/how-to-fix-the-pluginpreset-error-in-react-js-29ca)
 - [Dev.to/JS] [RPC done right for browser APIs and server APIs](https://dev.to/ppoulard/rpc-done-right-for-browser-apis-and-server-apis-5hd5)
-- [Dev.to/JS] [The Increasing Importance of Software Quality Standards](https://dev.to/grapecity/the-increasing-importance-of-software-quality-standards-1f70)
 - [Lifehacker] [8 of the Best Free Videos to Watch From Your Spin Bike](https://lifehacker.com/8-of-the-best-free-videos-to-watch-from-your-spin-bike-1848535632)
-- [Dev.to/JS] [Beginners guide to NextJS...](https://dev.to/crater90/beginners-guide-to-nextjs-3ge)
 - [Lifehacker] [You Can Play Switch With Your PS5, Xbox, and Other ‘Unsupported’ Controllers](https://lifehacker.com/you-can-play-switch-with-your-ps5-xbox-and-other-uns-1848535908)
 - [Lifehacker] [Everything You Should Do Before Interest Rates Go Up](https://lifehacker.com/everything-you-should-do-before-interest-rates-go-up-1848537909)
 - [Lifehacker] [Use This Formula to Make a ‘Healthy’ Snack You’ll Actually Want to Eat](https://lifehacker.com/use-this-formula-to-make-a-healthy-snack-you-ll-actua-1848534922)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Pretty Cocktails to Make for the One You Love](https://lifehacker.com/15-pretty-cocktails-to-make-for-the-one-you-love-1848524215)
 - [Lifehacker] [How to Never Lose Another Umbrella As Long As You Live](https://lifehacker.com/how-to-never-lose-another-umbrella-as-long-as-you-live-1848521788)
 - [Lifehacker] [You Can Learn to Not Be Such a People-Pleaser](https://lifehacker.com/you-can-learn-to-not-be-such-a-people-pleaser-1848508463)
-- [Lifehacker] [10 of the Most Niche YouTube Video Essays You Absolutely Need to Watch](https://lifehacker.com/10-of-the-most-niche-youtube-video-essays-you-absolutel-1848525396)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
