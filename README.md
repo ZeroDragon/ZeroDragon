@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick &amp; easy guide to get started with Gatsby](https://dev.to/preetsuthar/quick-easy-guide-to-get-started-with-gatsby-1p33)
+- [Dev.to/JS] [Add comments on your blog post created with Gatsby](https://dev.to/preetsuthar/add-comments-on-your-blog-post-created-with-gatsby-239d)
+- [Dev.to/JS] [Angular Design Pattern-Lazy loading feature modules](https://dev.to/jagadeeshmusali/angular-design-pattern-lazy-loading-feature-modules-3hfi)
+- [Dev.to/JS] [Fix “cannot read property 0 of undefined”](https://dev.to/badcodernocookie/fix-cannot-read-property-0-of-undefined-b12)
 - [Dev.to/JS] [Magento 2 certified developer in india | Magento Company](https://dev.to/oxsoftware/magento-2-certified-developer-in-india-magento-company-lj1)
 - [Dev.to/JS] [Hello every one I am new here...](https://dev.to/satyaprakshsi11/hello-every-one-i-am-new-here-52c8)
 - [Dev.to/JS] [What is NFT ?](https://dev.to/techledger/what-is-nft--31bp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to recreate Figma in React](https://dev.to/rahulsarathy/how-to-recreate-figma-in-react-2jj1)
 - [Dev.to/JS] [So, what is Monkey Patching?](https://dev.to/aprilskrine/so-what-is-monkey-patching-3lp2)
 - [Dev.to/JS] [Concerning the Separation of Concerns](https://dev.to/parenttobias/concerning-the-separation-of-concerns-3k4m)
-- [Dev.to/JS] [Sorting your imports with ESLint](https://dev.to/julioxavierr/sorting-your-imports-with-eslint-3ped)
-- [Dev.to/JS] [trawaaa](https://dev.to/opauwlo/trawaaa-1hg)
-- [Dev.to/JS] [rest](https://dev.to/opauwlo/rest-3df)
-- [Dev.to/JS] [Microbundle is not enough](https://dev.to/ivandotv/microbundle-is-not-enough-1k1)
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
 - [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
