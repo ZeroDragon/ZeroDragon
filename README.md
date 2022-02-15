@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello every one I am new here...](https://dev.to/satyaprakshsi11/hello-every-one-i-am-new-here-52c8)
+- [Dev.to/JS] [What is NFT ?](https://dev.to/techledger/what-is-nft--31bp)
+- [Dev.to/JS] [How to Play Drift Hunters Game.](https://dev.to/williamhi1987/how-to-play-drift-hunters-game-17ke)
+- [Dev.to/JS] [What attracts you about tic tac toe?](https://dev.to/healthrapid/what-attracts-you-about-tic-tac-toe-a38)
 - [Dev.to/JS] [How to recreate Figma in React](https://dev.to/rahulsarathy/how-to-recreate-figma-in-react-2jj1)
 - [Dev.to/JS] [So, what is Monkey Patching?](https://dev.to/aprilskrine/so-what-is-monkey-patching-3lp2)
 - [Dev.to/JS] [Concerning the Separation of Concerns](https://dev.to/parenttobias/concerning-the-separation-of-concerns-3k4m)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
 - [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
 - [Dev.to/JS] [How good is the shuffleArray from 7 killer one liners ?](https://dev.to/yw662/how-good-is-the-shufflearray-from-7-killer-one-liners--5h46)
-- [Dev.to/JS] [JavaScript Basics #5: Regular Expressions](https://dev.to/ericnanhu/javascript-basics-5-regular-expressions-1dbg)
-- [Dev.to/JS] [#003: The Week In Stories — React, Supabase, Next.js, and tech things](https://dev.to/dottedsquirrel/003-the-week-in-stories-react-supabase-nextjs-and-tech-things-478c)
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
-- [Dev.to/JS] [Happy Valentine&#39;s Coders!](https://dev.to/tomaszs2/happy-valentines-coders-32gi)
-- [Dev.to/JS] [Its time to retire the CRA](https://dev.to/ajayff4/its-time-to-retire-the-cra-3ohp)
 - [Lifehacker] [How to Tell If Your Kid Has Mono](https://lifehacker.com/how-to-tell-if-your-kid-has-mono-1848534930)
 - [Lifehacker] [How to Hide That You&#39;re Pooping](https://lifehacker.com/how-to-hide-that-youre-pooping-1848515520)
 - [Lifehacker] [How to Switch From Apple to Android](https://lifehacker.com/how-to-switch-from-apple-to-android-1848532979)
