@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A MongoDB data storing refactor story](https://dev.to/dcsl-guidesmiths/a-mongodb-data-storing-refactor-story-5dmp)
+- [Dev.to/JS] [How I developed a modern JAMStack website](https://dev.to/josemukorivo/how-i-developed-a-modern-jamstack-website-3heo)
 - [Dev.to/JS] [Build Warehouse and Store Management System - Pt. 2](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-2-1mh0)
 - [Dev.to/JS] [What You See vs What’s Going On Under the Hood. Setting Development Priorities](https://dev.to/sergeylaptick/what-you-see-vs-whats-going-on-under-the-hood-setting-development-priorities-3mdc)
 - [Dev.to/JS] [Optimize JavaScript Loading with ‘defer’ and ‘async’ Attributes](https://dev.to/saranshk/optimize-javascript-loading-with-defer-and-async-attributes-99d)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Different ways in creating a React Component](https://dev.to/mrpaulishaili/different-styles-in-creating-a-react-component-333e)
 - [Dev.to/JS] [The Class Property Proposal is  Finished and Avaliable in React](https://dev.to/kachidk/the-class-property-proposal-is-finished-and-avaliable-in-react-1cbj)
 - [Dev.to/JS] [React component as prop: the right way™️](https://dev.to/adevnadia/react-component-as-prop-the-right-way-ane)
-- [Dev.to/JS] [React Apollo: useQuery pollInterval with cache-and-network doesn&#39;t stop to make requests after unmounting a component](https://dev.to/lico/usequery-pollinterval-with-cache-and-network-doesnt-stop-to-make-requests-after-unmounting-a-component-4hp8)
-- [Dev.to/JS] [3 posts on FreeCodeCamp that you must go through](https://dev.to/iwanttoachievesomething/3-posts-on-freecodecamp-that-you-must-go-through-4ci1)
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
 - [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
