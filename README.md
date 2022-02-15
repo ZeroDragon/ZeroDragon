@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 days of Javascript](https://dev.to/alexandrebekor/100-days-of-javascript-3aoh)
+- [Lifehacker] [You Can Play Switch With Your PS5, Xbox, and Other ‘Unsupported’ Controllers](https://lifehacker.com/you-can-play-switch-with-your-ps5-xbox-and-other-uns-1848535908)
+- [Dev.to/JS] [Easily toggle between light and dark theme with Material-UI](https://dev.to/thatanjan/easily-toggle-between-light-and-dark-theme-with-material-ui-kbk)
+- [Dev.to/JS] [JavaScript Basics #6: The Document Object Model](https://dev.to/ericnanhu/javascript-basics-6-the-document-object-model-1p69)
+- [Dev.to/JS] [Paracetamol.js💊| #55: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-55-explica-este-codigo-javascript-2e3)
+- [Lifehacker] [Everything You Should Do Before Interest Rates Go Up](https://lifehacker.com/everything-you-should-do-before-interest-rates-go-up-1848537909)
+- [Dev.to/JS] [Pitfalls When Adding Turborepo To Your Project](https://dev.to/_gdelgado/pitfalls-when-adding-turborepo-to-your-project-4cel)
+- [Dev.to/JS] [How to Create Browser Specific CSS Code](https://dev.to/neha_vaidya_0123/how-to-create-browser-specific-css-code-21bk)
 - [Dev.to/JS] [Javascript Interview Questions&lpar;Divided into levels&rpar;](https://dev.to/royfordwanyoike/javascript-interview-questionsdivided-into-levels-on0)
 - [Lifehacker] [Use This Formula to Make a ‘Healthy’ Snack You’ll Actually Want to Eat](https://lifehacker.com/use-this-formula-to-make-a-healthy-snack-you-ll-actua-1848534922)
 - [Dev.to/JS] [This is how you make images Responsive in CSS](https://dev.to/codewithsnowbit/this-is-how-you-make-images-responsive-in-css-53fl)
@@ -31,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Major Stages in Every Relationship &lpar;and What to Avoid in Each One&rpar;](https://lifehacker.com/the-major-stages-in-every-relationship-and-what-to-avo-1848534287)
 - [Dev.to/JS] [When Package Dependencies Become Problematic](https://dev.to/jamesives/when-package-dependencies-become-problematic-32ip)
 - [Dev.to/JS] [Creating a Simple REST API - Part 1](https://dev.to/noopur0210/creating-a-simple-rest-api-part-1-45mj)
-- [Dev.to/JS] [How to create a basic app with Next.js](https://dev.to/britotiagos/how-to-create-a-basic-app-with-nextjs-h8k)
-- [Dev.to/JS] [40+ Killer JavaScript One Liners 🔥](https://dev.to/dreamyplayer/40-killer-javascript-one-liners-2hp7)
-- [Dev.to/JS] [How to use JavaScript feature toggles to deploy safely [React.js example with Dev.to App]](https://dev.to/ilya_azovtsev/how-to-use-javascript-feature-toggles-to-deploy-safely-reactjs-example-with-devto-app-408g)
-- [Dev.to/JS] [7 VS Code Extensions that JS dev Should Use](https://dev.to/ranaharoon3222/7-vs-code-extensions-that-js-dev-should-use-h46)
-- [Dev.to/JS] [Introduction to OOPS in Javascript &lpar;this keyword&rpar;](https://dev.to/pushanverma/introduction-to-oops-in-javascript-this-keyword-2j0p)
-- [Dev.to/JS] [Classes are still useful even in largely functional style code](https://dev.to/skyjur/classes-are-still-useful-even-in-largely-functional-style-code-1ng4)
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
 - [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
 - [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
-- [Lifehacker] [How to Watch Super Bowl LVI Live Without a Cable Subscription [Updated]](https://lifehacker.com/you-can-legally-stream-super-bowl-lvi-for-free-1848462035)
-- [Lifehacker] [How to Spot a Shady Online Sports Betting Site](https://lifehacker.com/how-to-spot-a-shady-online-sports-betting-site-1848525467)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
