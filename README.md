@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Magento 2 certified developer in india | Magento Company](https://dev.to/oxsoftware/magento-2-certified-developer-in-india-magento-company-lj1)
 - [Dev.to/JS] [Hello every one I am new here...](https://dev.to/satyaprakshsi11/hello-every-one-i-am-new-here-52c8)
 - [Dev.to/JS] [What is NFT ?](https://dev.to/techledger/what-is-nft--31bp)
 - [Dev.to/JS] [How to Play Drift Hunters Game.](https://dev.to/williamhi1987/how-to-play-drift-hunters-game-17ke)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Microbundle is not enough](https://dev.to/ivandotv/microbundle-is-not-enough-1k1)
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
 - [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
-- [Dev.to/JS] [How good is the shuffleArray from 7 killer one liners ?](https://dev.to/yw662/how-good-is-the-shufflearray-from-7-killer-one-liners--5h46)
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
 - [Lifehacker] [How to Tell If Your Kid Has Mono](https://lifehacker.com/how-to-tell-if-your-kid-has-mono-1848534930)
 - [Lifehacker] [How to Hide That You&#39;re Pooping](https://lifehacker.com/how-to-hide-that-youre-pooping-1848515520)
