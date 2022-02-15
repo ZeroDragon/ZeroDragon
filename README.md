@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build an Emojipedia app using React Components?](https://dev.to/hr21don/how-to-build-an-emojipedia-app-using-react-components-1eoh)
+- [Dev.to/JS] [Javascript the Confusing Parts: Part 1 Coercion, Let vs Const vs var](https://dev.to/shahabbukhari/javascript-the-confusing-parts-part-1-coercion-let-vs-const-vs-var-i6m)
+- [Dev.to/JS] [How add Style-components to Next.js and start using it 🤪](https://dev.to/britotiagos/how-add-style-components-to-nextjs-and-start-using-it-4kdf)
 - [Dev.to/JS] [Working With Remix, Prisma, and SQLite To Save Data Using Forms](https://dev.to/aaronksaunders/working-with-remix-prisma-and-sqlite-to-save-data-using-forms-1b3j)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 - [Dev.to/JS] [Day 5 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#56.Merge Intervals&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-5-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem56merge-intervalsmediumjavascript-55m1)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Native date picker](https://dev.to/msaadqureshi/react-native-date-picker-150d)
 - [Dev.to/JS] [Introduction to JavaScript Strings](https://dev.to/naftalimurgor/introduction-to-javascript-strings-fmb)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
-- [Dev.to/JS] [6 Programming Languages Every Developer Should Avoid and Learn in 2022](https://dev.to/yashtiwari1k/6-programming-languages-every-developer-should-avoid-and-learn-in-2022-1ko8)
 - [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
-- [Dev.to/JS] [Train a Machine Learning Model to Predict the Programming Language in a Code Snippet](https://dev.to/tangram/train-a-machine-learning-model-to-predict-the-programming-language-in-a-code-snippet-153d)
 - [Lifehacker] [You Should Try Quordle If You&#39;re Too Good at Wordle](https://lifehacker.com/you-should-try-quordle-if-youre-too-good-at-wordle-1848540319)
-- [Dev.to/JS] [HTML Best practices - Acorrect way to build an HTML based website](https://dev.to/lucas_anselmo/html-best-practices-acorrect-way-to-build-an-html-based-website-9l9)
 - [Lifehacker] [Are Waterpiks Really Better Than Traditional Floss?](https://lifehacker.com/are-waterpiks-really-better-than-traditional-floss-1848540271)
 - [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1848540278)
 - [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844)
