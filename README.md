@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1848540278)
+- [Dev.to/JS] [Backend Options for your Flutter App](https://dev.to/back4app/backend-options-for-your-flutter-app-2ggj)
+- [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844)
+- [Dev.to/JS] [Microservices Design - API Gateway pattern](https://dev.to/bibekshah09/microservices-design-api-gateway-pattern-2mml)
 - [Lifehacker] [How Much Access Do You Have to Give Utility Workers?](https://lifehacker.com/how-much-access-do-you-have-to-give-utility-workers-1848539741)
 - [Dev.to/JS] [appendChild is Not a Function](https://dev.to/badcodernocookie/appendchild-is-not-a-function-1a57)
 - [Lifehacker] [Why You Should Try &#39;Worldle,&#39; the New Geography Version of Wordle](https://lifehacker.com/why-you-should-try-worldle-the-new-geography-version-o-1848539965)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Increasing Importance of Software Quality Standards](https://dev.to/grapecity/the-increasing-importance-of-software-quality-standards-1f70)
 - [Lifehacker] [8 of the Best Free Videos to Watch From Your Spin Bike](https://lifehacker.com/8-of-the-best-free-videos-to-watch-from-your-spin-bike-1848535632)
 - [Dev.to/JS] [Beginners guide to NextJS...](https://dev.to/crater90/beginners-guide-to-nextjs-3ge)
-- [Dev.to/JS] [Displaying a View Counter with Plausible Analytics API Data](https://dev.to/jopesh/displaying-a-view-counter-with-plausible-analytics-api-data-30ge)
-- [Dev.to/JS] [100 days of Javascript](https://dev.to/alexandrebekor/100-days-of-javascript-3aoh)
 - [Lifehacker] [You Can Play Switch With Your PS5, Xbox, and Other ‘Unsupported’ Controllers](https://lifehacker.com/you-can-play-switch-with-your-ps5-xbox-and-other-uns-1848535908)
 - [Lifehacker] [Everything You Should Do Before Interest Rates Go Up](https://lifehacker.com/everything-you-should-do-before-interest-rates-go-up-1848537909)
 - [Lifehacker] [Use This Formula to Make a ‘Healthy’ Snack You’ll Actually Want to Eat](https://lifehacker.com/use-this-formula-to-make-a-healthy-snack-you-ll-actua-1848534922)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Never Lose Another Umbrella As Long As You Live](https://lifehacker.com/how-to-never-lose-another-umbrella-as-long-as-you-live-1848521788)
 - [Lifehacker] [You Can Learn to Not Be Such a People-Pleaser](https://lifehacker.com/you-can-learn-to-not-be-such-a-people-pleaser-1848508463)
 - [Lifehacker] [10 of the Most Niche YouTube Video Essays You Absolutely Need to Watch](https://lifehacker.com/10-of-the-most-niche-youtube-video-essays-you-absolutel-1848525396)
-- [Lifehacker] [You Don&#39;t Have to Suffer From Winter Eyes](https://lifehacker.com/you-dont-have-to-suffer-from-winter-eyes-1848520098)
-- [Lifehacker] [How to Pretend to Like Someone You Hate, According to Professional Actors](https://lifehacker.com/how-to-pretend-to-like-someone-you-hate-according-to-p-1848520093)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
