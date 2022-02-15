@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Concerning the Separation of Concerns](https://dev.to/parenttobias/concerning-the-separation-of-concerns-3k4m)
 - [Dev.to/JS] [Sorting your imports with ESLint](https://dev.to/julioxavierr/sorting-your-imports-with-eslint-3ped)
 - [Dev.to/JS] [trawaaa](https://dev.to/opauwlo/trawaaa-1hg)
 - [Dev.to/JS] [rest](https://dev.to/opauwlo/rest-3df)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Its time to retire the CRA](https://dev.to/ajayff4/its-time-to-retire-the-cra-3ohp)
 - [Dev.to/JS] [Introduction to Modern Javascript 101](https://dev.to/marrie/introduction-to-modern-javascript-101-41ha)
 - [Dev.to/JS] [Quick and easy value clamping](https://dev.to/timothee/quick-and-easy-value-clamping-13jc)
-- [Dev.to/JS] [Using Feature Flags to troll our competitor without a line of code 😃](https://dev.to/kylessg/we-trolled-our-competitor-without-pushing-a-single-line-of-code-43jf)
 - [Lifehacker] [How to Tell If Your Kid Has Mono](https://lifehacker.com/how-to-tell-if-your-kid-has-mono-1848534930)
 - [Lifehacker] [How to Hide That You&#39;re Pooping](https://lifehacker.com/how-to-hide-that-youre-pooping-1848515520)
 - [Lifehacker] [How to Switch From Apple to Android](https://lifehacker.com/how-to-switch-from-apple-to-android-1848532979)
