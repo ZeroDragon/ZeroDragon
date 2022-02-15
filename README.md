@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
+- [Dev.to/JS] [Train a Machine Learning Model to Predict the Programming Language in a Code Snippet](https://dev.to/tangram/train-a-machine-learning-model-to-predict-the-programming-language-in-a-code-snippet-153d)
+- [Lifehacker] [You Should Try Quordle If You&#39;re Too Good at Wordle](https://lifehacker.com/you-should-try-quordle-if-youre-too-good-at-wordle-1848540319)
+- [Dev.to/JS] [HTML Best practices - Acorrect way to build an HTML based website](https://dev.to/lucas_anselmo/html-best-practices-acorrect-way-to-build-an-html-based-website-9l9)
+- [Dev.to/JS] [wovoui&#39;s main url updated](https://dev.to/wovosoft/wovouis-main-url-updated-194d)
 - [Lifehacker] [Are Waterpiks Really Better Than Traditional Floss?](https://lifehacker.com/are-waterpiks-really-better-than-traditional-floss-1848540271)
 - [Dev.to/JS] [Obfuscate &amp; Reveal text animation in React using baffle.js](https://dev.to/hosenur/obfuscate-reveal-text-animation-in-react-using-bafflejs-14c9)
 - [Dev.to/JS] [Unleashing React Synthetic Events](https://dev.to/iamdivyansh/unleashing-react-synthetic-events-1na2)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useEffect explained with practical examples](https://dev.to/crunchstack/useeffect-explained-with-practical-examples-2329)
 - [Dev.to/JS] [Day-24 Training at Ryaz](https://dev.to/mahin651/day-24-training-at-ryaz-3n31)
 - [Dev.to/JS] [Get Funky on the Console - Level Up humour😅](https://dev.to/rajeshroyal/get-funky-on-the-console-level-up-humour-12a6)
-- [Dev.to/JS] [How to add Angular to an existing empty NX workspace](https://dev.to/codewithahsan/how-to-add-angular-to-an-existing-empty-nx-workspace-28ji)
 - [Lifehacker] [How to Force Microsoft Office to Save Files Directly to Your Computer &lpar;Instead of OneDrive&rpar;](https://lifehacker.com/how-to-force-microsoft-office-to-save-files-directly-to-1848539698)
-- [Dev.to/JS] [How to fix the plugin/preset Error in React JS.](https://dev.to/lovelydhineshtp/how-to-fix-the-pluginpreset-error-in-react-js-29ca)
-- [Dev.to/JS] [RPC done right for browser APIs and server APIs](https://dev.to/ppoulard/rpc-done-right-for-browser-apis-and-server-apis-5hd5)
 - [Lifehacker] [8 of the Best Free Videos to Watch From Your Spin Bike](https://lifehacker.com/8-of-the-best-free-videos-to-watch-from-your-spin-bike-1848535632)
 - [Lifehacker] [You Can Play Switch With Your PS5, Xbox, and Other ‘Unsupported’ Controllers](https://lifehacker.com/you-can-play-switch-with-your-ps5-xbox-and-other-uns-1848535908)
 - [Lifehacker] [Everything You Should Do Before Interest Rates Go Up](https://lifehacker.com/everything-you-should-do-before-interest-rates-go-up-1848537909)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Hurry and Get a Free Guest Ticket on Amtrak](https://lifehacker.com/you-should-hurry-and-get-a-free-guest-ticket-on-amtrak-1848533008)
 - [Lifehacker] [How to Safely Store Sensitive Files in the Cloud](https://lifehacker.com/how-to-safely-store-sensitive-files-in-the-cloud-1848529835)
 - [Lifehacker] [15 Pretty Cocktails to Make for the One You Love](https://lifehacker.com/15-pretty-cocktails-to-make-for-the-one-you-love-1848524215)
-- [Lifehacker] [How to Never Lose Another Umbrella As Long As You Live](https://lifehacker.com/how-to-never-lose-another-umbrella-as-long-as-you-live-1848521788)
-- [Lifehacker] [You Can Learn to Not Be Such a People-Pleaser](https://lifehacker.com/you-can-learn-to-not-be-such-a-people-pleaser-1848508463)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
