@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to recreate Figma in React](https://dev.to/rahulsarathy/how-to-recreate-figma-in-react-2jj1)
+- [Dev.to/JS] [So, what is Monkey Patching?](https://dev.to/aprilskrine/so-what-is-monkey-patching-3lp2)
 - [Dev.to/JS] [Concerning the Separation of Concerns](https://dev.to/parenttobias/concerning-the-separation-of-concerns-3k4m)
 - [Dev.to/JS] [Sorting your imports with ESLint](https://dev.to/julioxavierr/sorting-your-imports-with-eslint-3ped)
 - [Dev.to/JS] [trawaaa](https://dev.to/opauwlo/trawaaa-1hg)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
 - [Dev.to/JS] [Happy Valentine&#39;s Coders!](https://dev.to/tomaszs2/happy-valentines-coders-32gi)
 - [Dev.to/JS] [Its time to retire the CRA](https://dev.to/ajayff4/its-time-to-retire-the-cra-3ohp)
-- [Dev.to/JS] [Introduction to Modern Javascript 101](https://dev.to/marrie/introduction-to-modern-javascript-101-41ha)
-- [Dev.to/JS] [Quick and easy value clamping](https://dev.to/timothee/quick-and-easy-value-clamping-13jc)
 - [Lifehacker] [How to Tell If Your Kid Has Mono](https://lifehacker.com/how-to-tell-if-your-kid-has-mono-1848534930)
 - [Lifehacker] [How to Hide That You&#39;re Pooping](https://lifehacker.com/how-to-hide-that-youre-pooping-1848515520)
 - [Lifehacker] [How to Switch From Apple to Android](https://lifehacker.com/how-to-switch-from-apple-to-android-1848532979)
