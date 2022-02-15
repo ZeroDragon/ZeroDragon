@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Attractive and responsive HTML5 &amp; CSS3 Filters.](https://dev.to/zainmuhammad/attractive-and-responsive-html5-css3-filters-4kg1)
+- [Dev.to/JS] [Build Warehouse and Store Management System - Pt. 1](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-1-251h)
+- [Dev.to/JS] [Js repeat a function by for loop](https://dev.to/mrjahid/js-repeat-a-function-by-for-loop-2373)
+- [Dev.to/JS] [How to change your navigation style on scroll](https://dev.to/dasaradhanimmala/how-to-change-your-navigation-style-on-scroll-55m4)
+- [Dev.to/JS] [#32 - Find the divisors! CodeWars Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/32-find-the-divisors-codewars-kata-7-kyu-5f7n)
 - [Dev.to/JS] [Run js in Chrome dev console](https://dev.to/j143/run-js-in-chrome-dev-console-359a)
 - [Dev.to/JS] [FoalTS framework - version 2.8 is here with complete Websocket support 🎉](https://dev.to/loicpoullain/foalts-framework-version-28-is-here-with-complete-websocket-support-2kjm)
 - [Dev.to/JS] [Javascript Array Methods Ep.1](https://dev.to/theadeshkhanna/javascript-array-methods-ep1-47dp)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is NPX?](https://dev.to/mrdanishsaleem/what-is-npx-307m)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 40](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-40-53mh)
 - [Dev.to/JS] [Quick &amp; easy guide to get started with Gatsby](https://dev.to/preetsuthar/quick-easy-guide-to-get-started-with-gatsby-1p33)
-- [Dev.to/JS] [Add comments on your blog post created with Gatsby](https://dev.to/preetsuthar/add-comments-on-your-blog-post-created-with-gatsby-239d)
-- [Dev.to/JS] [Angular Design Pattern-Lazy loading feature modules](https://dev.to/jagadeeshmusali/angular-design-pattern-lazy-loading-feature-modules-3hfi)
-- [Dev.to/JS] [Fix “cannot read property 0 of undefined”](https://dev.to/badcodernocookie/fix-cannot-read-property-0-of-undefined-b12)
-- [Dev.to/JS] [Magento 2 certified developer in india | Magento Company](https://dev.to/oxsoftware/magento-2-certified-developer-in-india-magento-company-lj1)
-- [Dev.to/JS] [Hello every one I am new here...](https://dev.to/satyaprakshsi11/hello-every-one-i-am-new-here-52c8)
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
 - [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
