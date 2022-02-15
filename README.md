@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get Funky on the Console - Level Up humour😅](https://dev.to/rajeshroyal/get-funky-on-the-console-level-up-humour-12a6)
+- [Dev.to/JS] [How to add Angular to an existing empty NX workspace](https://dev.to/codewithahsan/how-to-add-angular-to-an-existing-empty-nx-workspace-28ji)
+- [Dev.to/JS] [How to fix the plugin/preset Error in React JS.](https://dev.to/lovelydhineshtp/how-to-fix-the-pluginpreset-error-in-react-js-29ca)
+- [Dev.to/JS] [RPC done right for browser APIs and server APIs](https://dev.to/ppoulard/rpc-done-right-for-browser-apis-and-server-apis-5hd5)
+- [Dev.to/JS] [The Increasing Importance of Software Quality Standards](https://dev.to/grapecity/the-increasing-importance-of-software-quality-standards-1f70)
+- [Lifehacker] [8 of the Best Free Videos to Watch From Your Spin Bike](https://lifehacker.com/8-of-the-best-free-videos-to-watch-from-your-spin-bike-1848535632)
+- [Dev.to/JS] [Beginners guide to NextJS...](https://dev.to/crater90/beginners-guide-to-nextjs-3ge)
+- [Dev.to/JS] [Displaying a View Counter with Plausible Analytics API Data](https://dev.to/jopesh/displaying-a-view-counter-with-plausible-analytics-api-data-30ge)
 - [Dev.to/JS] [100 days of Javascript](https://dev.to/alexandrebekor/100-days-of-javascript-3aoh)
 - [Lifehacker] [You Can Play Switch With Your PS5, Xbox, and Other ‘Unsupported’ Controllers](https://lifehacker.com/you-can-play-switch-with-your-ps5-xbox-and-other-uns-1848535908)
 - [Dev.to/JS] [Easily toggle between light and dark theme with Material-UI](https://dev.to/thatanjan/easily-toggle-between-light-and-dark-theme-with-material-ui-kbk)
@@ -30,15 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #55: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-55-explica-este-codigo-javascript-2e3)
 - [Lifehacker] [Everything You Should Do Before Interest Rates Go Up](https://lifehacker.com/everything-you-should-do-before-interest-rates-go-up-1848537909)
 - [Dev.to/JS] [Pitfalls When Adding Turborepo To Your Project](https://dev.to/_gdelgado/pitfalls-when-adding-turborepo-to-your-project-4cel)
-- [Dev.to/JS] [How to Create Browser Specific CSS Code](https://dev.to/neha_vaidya_0123/how-to-create-browser-specific-css-code-21bk)
-- [Dev.to/JS] [Javascript Interview Questions&lpar;Divided into levels&rpar;](https://dev.to/royfordwanyoike/javascript-interview-questionsdivided-into-levels-on0)
 - [Lifehacker] [Use This Formula to Make a ‘Healthy’ Snack You’ll Actually Want to Eat](https://lifehacker.com/use-this-formula-to-make-a-healthy-snack-you-ll-actua-1848534922)
-- [Dev.to/JS] [This is how you make images Responsive in CSS](https://dev.to/codewithsnowbit/this-is-how-you-make-images-responsive-in-css-53fl)
-- [Dev.to/JS] [New updation in colormyweb 🌈🌈 just look it](https://dev.to/sripadhs/new-updation-in-colormyweb-just-look-it-1pb2)
-- [Dev.to/JS] [Step Functions para no morir. Parte 3](https://dev.to/giulianaolmos/step-functions-para-no-morir-parte-3-559p)
 - [Lifehacker] [The Major Stages in Every Relationship &lpar;and What to Avoid in Each One&rpar;](https://lifehacker.com/the-major-stages-in-every-relationship-and-what-to-avo-1848534287)
-- [Dev.to/JS] [When Package Dependencies Become Problematic](https://dev.to/jamesives/when-package-dependencies-become-problematic-32ip)
-- [Dev.to/JS] [Creating a Simple REST API - Part 1](https://dev.to/noopur0210/creating-a-simple-rest-api-part-1-45mj)
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
 - [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Lifehacker] [How to Live With Regret &lpar;and Learn From It&rpar;](https://lifehacker.com/how-to-live-with-regret-and-learn-from-it-1848520020)
 - [Lifehacker] [You Need These Trailing Plants That Are Almost Impossible to Kill](https://lifehacker.com/you-need-these-trailing-plants-that-are-almost-impossib-1848520024)
-- [Lifehacker] [How to Convey Dominance While Smiling](https://lifehacker.com/how-to-convey-dominance-while-smiling-1848520031)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
