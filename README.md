@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to JavaScript Strings](https://dev.to/naftalimurgor/introduction-to-javascript-strings-fmb)
+- [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
+- [Dev.to/JS] [6 Programming Languages Every Developer Should Avoid and Learn in 2022](https://dev.to/yashtiwari1k/6-programming-languages-every-developer-should-avoid-and-learn-in-2022-1ko8)
 - [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
 - [Dev.to/JS] [Train a Machine Learning Model to Predict the Programming Language in a Code Snippet](https://dev.to/tangram/train-a-machine-learning-model-to-predict-the-programming-language-in-a-code-snippet-153d)
 - [Lifehacker] [You Should Try Quordle If You&#39;re Too Good at Wordle](https://lifehacker.com/you-should-try-quordle-if-youre-too-good-at-wordle-1848540319)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Try &#39;Worldle,&#39; the New Geography Version of Wordle](https://lifehacker.com/why-you-should-try-worldle-the-new-geography-version-o-1848539965)
 - [Dev.to/JS] [How to serve multiple React apps in S3 from a single CloudFront distribution](https://dev.to/thornyweb/how-to-serve-multiple-react-apps-in-s3-from-a-single-cloudfront-distribution-1pce)
 - [Dev.to/JS] [useEffect explained with practical examples](https://dev.to/crunchstack/useeffect-explained-with-practical-examples-2329)
-- [Dev.to/JS] [Day-24 Training at Ryaz](https://dev.to/mahin651/day-24-training-at-ryaz-3n31)
-- [Dev.to/JS] [Get Funky on the Console - Level Up humour😅](https://dev.to/rajeshroyal/get-funky-on-the-console-level-up-humour-12a6)
 - [Lifehacker] [How to Force Microsoft Office to Save Files Directly to Your Computer &lpar;Instead of OneDrive&rpar;](https://lifehacker.com/how-to-force-microsoft-office-to-save-files-directly-to-1848539698)
 - [Lifehacker] [8 of the Best Free Videos to Watch From Your Spin Bike](https://lifehacker.com/8-of-the-best-free-videos-to-watch-from-your-spin-bike-1848535632)
 - [Lifehacker] [You Can Play Switch With Your PS5, Xbox, and Other ‘Unsupported’ Controllers](https://lifehacker.com/you-can-play-switch-with-your-ps5-xbox-and-other-uns-1848535908)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Zoom From Keeping Your Mac’s Mic Open After a Call Ends](https://lifehacker.com/stop-zoom-from-keeping-your-mac-s-mic-open-after-a-call-1848533430)
 - [Lifehacker] [You Should Hurry and Get a Free Guest Ticket on Amtrak](https://lifehacker.com/you-should-hurry-and-get-a-free-guest-ticket-on-amtrak-1848533008)
 - [Lifehacker] [How to Safely Store Sensitive Files in the Cloud](https://lifehacker.com/how-to-safely-store-sensitive-files-in-the-cloud-1848529835)
-- [Lifehacker] [15 Pretty Cocktails to Make for the One You Love](https://lifehacker.com/15-pretty-cocktails-to-make-for-the-one-you-love-1848524215)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
