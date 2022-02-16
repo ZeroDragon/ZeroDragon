@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 GitHub repos you cannot miss out on](https://dev.to/abhirajb/10-github-repos-you-cannot-miss-out-on-5aee)
+- [Dev.to/JS] [A Beginner&#39;s Guide to HTTP - Part 2: an App and a Server](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-2-an-app-and-a-server-211p)
+- [Dev.to/JS] [6 Top Web and Mobile Project Ideas for 2022](https://dev.to/amitzacker/6-top-web-and-mobile-project-ideas-for-2022-3jl7)
+- [Lifehacker] [Why You Need to Update Chrome Right Now](https://lifehacker.com/why-you-need-to-update-chrome-right-now-1848546854)
+- [Dev.to/JS] [Filter on map function in React JS](https://dev.to/shubhamtiwari909/filter-on-map-function-in-react-js-3ohj)
+- [Lifehacker] [15 Video Game Movies and Shows That Don&#39;t Totally Suck](https://lifehacker.com/15-video-game-movies-and-shows-that-dont-totally-suck-1848531084)
+- [Dev.to/JS] [Launched my first product on Product Hunt](https://dev.to/basharath/launched-my-first-product-on-product-hunt-415i)
 - [Dev.to/JS] [Day 6 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1534.Count Good Triplets&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog_com567/day-6-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1534count-good-tripletseasyjavascript-2feo)
 - [Lifehacker] [11 ‘Successful’ People Who Were Actually Huge Frauds](https://lifehacker.com/11-successful-people-who-were-actually-huge-frauds-1848544767)
 - [Lifehacker] [How to Test Your Home for Lead &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-test-your-home-for-lead-and-when-you-should-1848545766)
@@ -33,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [robusta&quot; , el sector de la Minería](https://dev.to/juan21211/robusta-el-sector-de-la-mineria-4a4e)
 - [Dev.to/JS] [Infinite Scroll with Remix Run](https://dev.to/ptenteromano/infinite-scroll-with-remix-run-1g7)
 - [Lifehacker] [How Does Potato Milk Stack Up, Nutritionally?](https://lifehacker.com/how-does-potato-milk-stack-up-nutritionally-1848545109)
-- [Dev.to/JS] [What is a Gantt Chart, Anyway?](https://dev.to/kathryngrayson/what-is-a-gantt-chart-anyway-2kmd)
-- [Dev.to/JS] [🎬Random Password Generator | Html CSS Javascript✨](https://dev.to/robsonmuniz16/random-password-generator-html-css-javascript-2k3h)
 - [Lifehacker] [Should You Learn to Ski or Snowboard?](https://lifehacker.com/should-you-learn-to-ski-or-snowboard-1848543461)
-- [Dev.to/JS] [JavaScript Basics #7: Handling Events](https://dev.to/ericnanhu/javascript-basics-7-handling-events-4if9)
-- [Dev.to/JS] [Paracetamol.js💊| #56: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-56-explica-este-codigo-javascript-2od3)
-- [Dev.to/JS] [Injecting backdoors to NPM packages](https://dev.to/kozlovzxc/injecting-backdoors-to-npm-packages-a0k)
 - [Lifehacker] [The Easiest Way to Make Any Sheet Pan Recipe so Much Better](https://lifehacker.com/the-easiest-way-to-make-any-sheet-pan-recipe-so-much-be-1848543097)
 - [Lifehacker] [When You Need a Permit for That DIY Project &lpar;and When You Don&#39;t&rpar;](https://lifehacker.com/when-you-need-a-permit-for-that-diy-project-and-when-y-1848541083)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Formula to Make a ‘Healthy’ Snack You’ll Actually Want to Eat](https://lifehacker.com/use-this-formula-to-make-a-healthy-snack-you-ll-actua-1848534922)
 - [Lifehacker] [The Major Stages in Every Relationship &lpar;and What to Avoid in Each One&rpar;](https://lifehacker.com/the-major-stages-in-every-relationship-and-what-to-avo-1848534287)
 - [Lifehacker] [How to Prepare for a Volcanic Eruption &lpar;and Possibly Survive One, Too&rpar;](https://lifehacker.com/how-to-prepare-for-a-volcanic-eruption-and-possibly-su-1848534404)
-- [Lifehacker] [These Are Better Ways to Show Affection, Based on Your Partner&#39;s Love Language](https://lifehacker.com/these-are-better-ways-to-show-affection-based-on-your-1848534085)
-- [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
