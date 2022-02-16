@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create full page tabs with Html, CSS and JavaScript](https://dev.to/thatanjan/how-to-create-full-page-tabs-with-html-css-and-javascript-5c67)
 - [Dev.to/JS] [Colorless async/await in Firefly](https://dev.to/ahnfelt/colorless-asyncawait-in-firefly-hmg)
 - [Dev.to/JS] [Menu Button using Pure CSS](https://dev.to/sankalpt92/menu-button-using-pure-css-48n9)
 - [Dev.to/JS] [React Js google auth](https://dev.to/abipravi/react-js-google-auth-50de)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cómo TypeScript puede cambiar tu vida](https://dev.to/juandieruiz/como-typescript-puede-cambiar-tu-vida-1noa)
 - [Dev.to/JS] [5 formas de recorrer un array con JavaScript](https://dev.to/juandieruiz/5-formas-de-recorrer-un-array-con-javascript-35fk)
 - [Dev.to/JS] [How to Send and Receive Data From a Diffusion Cloud Service Using the Diffusion JavaScript SDK?](https://dev.to/push_technology/how-to-send-and-receive-data-from-a-diffusion-cloud-service-using-the-diffusion-javascript-sdk-1mpf)
-- [Dev.to/JS] [Be proactive when you join an Angular project](https://dev.to/this-is-angular/be-proactive-when-you-join-an-angular-project-5469)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
