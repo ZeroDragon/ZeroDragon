@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everything you need to know about JS Variables](https://dev.to/smpnjn/everything-you-need-to-know-about-js-variables-35ge)
 - [Dev.to/JS] [A Function With No Name](https://dev.to/hannahglazier/a-function-with-no-name-3icd)
 - [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
 - [Dev.to/JS] [&#39;htm is JSX-like syntax in plain JavaScript&#39;, but...](https://dev.to/artydev/htm-is-jsx-like-syntax-in-plain-javascript-but-g2e)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Basics #8: Drawing on Canvas](https://dev.to/ericnanhu/javascript-basics-8-drawing-on-canvas-5ea0)
 - [Dev.to/JS] [Creating a simple file explorer with recursive components in React](https://dev.to/siddharthvenkatesh/creating-a-simple-file-explorer-with-recursive-components-in-react-458h)
 - [Lifehacker] [How to Talk to a Real Human Being at the IRS](https://lifehacker.com/how-to-talk-to-a-real-human-being-at-the-irs-1848549096)
-- [Dev.to/JS] [State of JavaScript 2021: Framework Reflections](https://dev.to/ryansolid/state-of-javascript-2021-framework-reflections-2i77)
 - [Lifehacker] [There Are Seven Love Languages Now, and One Might Be Yours](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [The Difference Between a Lager and an Ale &lpar;Because You&#39;re Probably Getting It Wrong&rpar;](https://lifehacker.com/the-difference-between-a-lager-and-an-ale-because-your-1848548475)
 - [Lifehacker] [How to See Your Uber Passenger Ratings Breakdown &lpar;and Improve Your Score&rpar;](https://lifehacker.com/how-to-see-your-uber-passenger-ratings-breakdown-and-i-1848547158)
