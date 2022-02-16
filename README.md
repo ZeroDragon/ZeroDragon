@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [In the marketplace we trust](https://dev.to/strapi/in-the-marketplace-we-trust-1dlf)
+- [Dev.to/JS] [How I setup my Development Environment on macOS 2022 Edition](https://dev.to/andrewbaisden/how-i-setup-my-development-environment-on-macos-2022-edition-5elf)
+- [Dev.to/JS] [Create Cool React Image Gallery](https://dev.to/marianna13/create-cool-react-image-gallery-3nd1)
 - [Dev.to/JS] [This Week In React #94: 2 years 🥳️, memoization, composition, Remix, Next.js, Gatsby, React-Native, Windows, CSS, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-94-2-years-memoization-composition-remix-nextjs-gatsby-react-native-windows-css-typescript-1d1c)
 - [Dev.to/JS] [Cómo TypeScript puede cambiar tu vida](https://dev.to/juandieruiz/como-typescript-puede-cambiar-tu-vida-1noa)
 - [Dev.to/JS] [5 formas de recorrer un array con JavaScript](https://dev.to/juandieruiz/5-formas-de-recorrer-un-array-con-javascript-35fk)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lesser-known REACT APIS WITH EXAMPLE
 PART1:React.memo&lpar;&rpar;](https://dev.to/kevinkh89/lesser-known-react-apis-with-examplepart1reactmemo-2ckj)
 - [Dev.to/JS] [How to Randomly Change Background Color in Javascript.](https://dev.to/puenehfaith/how-to-randomly-change-background-color-in-javascript-4o91)
-- [Dev.to/JS] [Flutter vs React Native: Choose The Best Framework For Your Project](https://dev.to/itsmekrishlee/flutter-vs-react-native-choose-the-best-framework-for-your-project-2elm)
-- [Dev.to/JS] [How TypeScript can change your life](https://dev.to/dailydevtips1/how-typescript-can-change-your-life-4j6o)
-- [Dev.to/JS] [Twitter meta clone by Quasar + Vue + SCSS + TypeScript + Vue Router](https://dev.to/thuongtruong1009/twitter-meta-clone-by-quasar-vue-scss-typescript-vue-router-iej)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
