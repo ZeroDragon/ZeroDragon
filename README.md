@@ -23,18 +23,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to Randomly Change Background Color in Javascript.](https://dev.to/puenehfaith/how-to-randomly-change-background-color-in-javascript-4o91)
-- [Dev.to/JS] [Flutter vs React Native: Choose The Best Framework For Your Project](https://dev.to/itsmekrishlee/flutter-vs-react-native-choose-the-best-framework-for-your-project-2elm)
-- [Dev.to/JS] [How TypeScript can change your life](https://dev.to/dailydevtips1/how-typescript-can-change-your-life-4j6o)
-- [Dev.to/JS] [Twitter meta clone by Quasar + Vue + SCSS + TypeScript + Vue Router](https://dev.to/thuongtruong1009/twitter-meta-clone-by-quasar-vue-scss-typescript-vue-router-iej)
-- [Dev.to/JS] [How to use Private Git Repo as an NPM Package?](https://dev.to/bvpranu97/how-to-use-private-git-repo-as-an-npm-package-3nn7)
-- [Dev.to/JS] [Using reduce to find the oldest age in an array](https://dev.to/marcojhb/using-reduce-to-find-the-oldest-age-in-an-array-18k3)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 41](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-41-k55)
-- [Dev.to/JS] [Build and deploy JAMstack applications with Cloudflare pages](https://dev.to/asayerio_techblog/build-and-deploy-jamstack-applications-with-cloudflare-pages-5gd8)
-- [Dev.to/JS] [Javascript Interview Questions](https://dev.to/upali123/javascript-interview-questions-23bg)
-- [Dev.to/JS] [5 Free Perfect Headless CMS for JS Developers](https://dev.to/ranaharoon3222/5-free-perfect-headless-cms-for-js-developers-1hd3)
-- [Dev.to/JS] [Everything You Need To Know About .Fetch&lpar;&rpar;](https://dev.to/kadeesterline/everything-you-need-to-know-about-fetch-3ndf)
-- [Dev.to/JS] [Arbitrage Crypto Currencies using Binance and Twilio](https://dev.to/buildable/arbitrage-crypto-currencies-using-binance-and-twilio-146l)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
@@ -62,7 +50,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Zoom From Keeping Your Mac’s Mic Open After a Call Ends](https://lifehacker.com/stop-zoom-from-keeping-your-mac-s-mic-open-after-a-call-1848533430)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
-- [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
+- [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
+- [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
+- [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
+- [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
+- [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
+- [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
+- [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
 
 ---
 
