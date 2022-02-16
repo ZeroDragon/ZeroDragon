@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Infinite Scroll with Remix Run](https://dev.to/ptenteromano/infinite-scroll-with-remix-run-1g7)
+- [Lifehacker] [How Does Potato Milk Stack Up, Nutritionally?](https://lifehacker.com/how-does-potato-milk-stack-up-nutritionally-1848545109)
+- [Dev.to/JS] [What is a Gantt Chart, Anyway?](https://dev.to/kathryngrayson/what-is-a-gantt-chart-anyway-2kmd)
+- [Dev.to/JS] [🎬Random Password Generator | Html CSS Javascript✨](https://dev.to/robsonmuniz16/random-password-generator-html-css-javascript-2k3h)
+- [Lifehacker] [Should You Learn to Ski or Snowboard?](https://lifehacker.com/should-you-learn-to-ski-or-snowboard-1848543461)
+- [Dev.to/JS] [JavaScript Basics #7: Handling Events](https://dev.to/ericnanhu/javascript-basics-7-handling-events-4if9)
+- [Dev.to/JS] [Paracetamol.js💊| #56: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-56-explica-este-codigo-javascript-2od3)
+- [Dev.to/JS] [Injecting backdoors to NPM packages](https://dev.to/kozlovzxc/injecting-backdoors-to-npm-packages-a0k)
+- [Dev.to/JS] [JavaScript Interview Questions 2](https://dev.to/sobhandash/javascript-interview-questions-2-4meb)
 - [Lifehacker] [The Easiest Way to Make Any Sheet Pan Recipe so Much Better](https://lifehacker.com/the-easiest-way-to-make-any-sheet-pan-recipe-so-much-be-1848543097)
 - [Dev.to/JS] [3 things you need to know about RxJS](https://dev.to/this-is-learning/3-things-you-need-to-know-about-rxjs-1l9m)
 - [Dev.to/JS] [Do you want a beautiful developer portfolio website](https://dev.to/sripadhs/do-you-want-a-beautiful-developer-portfolio-website-41o2)
@@ -30,13 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make any Website Shoppable with Commerce Layer](https://dev.to/bolajiayodeji/how-to-make-any-website-shoppable-with-commerce-layer-3j0j)
 - [Dev.to/JS] [Sending a V-Model Through a Slot in Vue 3](https://dev.to/jshimkoski/sending-a-vue-3-v-model-through-a-slot-2g43)
 - [Dev.to/JS] [How to create full page tabs with Html, CSS and JavaScript](https://dev.to/thatanjan/how-to-create-full-page-tabs-with-html-css-and-javascript-5c67)
-- [Dev.to/JS] [Colorless async/await in Firefly](https://dev.to/ahnfelt/colorless-asyncawait-in-firefly-hmg)
-- [Dev.to/JS] [Menu Button using Pure CSS](https://dev.to/sankalpt92/menu-button-using-pure-css-48n9)
-- [Dev.to/JS] [React Js google auth](https://dev.to/abipravi/react-js-google-auth-50de)
-- [Dev.to/JS] [5 Stages To Master CSS Quickly For Beginners](https://dev.to/prakashmishr2529/5-stages-to-master-css-quickly-for-beginners-76a)
-- [Dev.to/JS] [In the marketplace we trust](https://dev.to/strapi/in-the-marketplace-we-trust-1dlf)
-- [Dev.to/JS] [How I setup my Development Environment on macOS 2022 Edition](https://dev.to/andrewbaisden/how-i-setup-my-development-environment-on-macos-2022-edition-5elf)
-- [Dev.to/JS] [Create Cool React Image Gallery](https://dev.to/marianna13/create-cool-react-image-gallery-3nd1)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Your Shower Head &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-shower-head-and-why-you-should-1848535813)
 - [Lifehacker] [How to Tell If Your Kid Has Mono](https://lifehacker.com/how-to-tell-if-your-kid-has-mono-1848534930)
 - [Lifehacker] [How to Hide That You&#39;re Pooping](https://lifehacker.com/how-to-hide-that-youre-pooping-1848515520)
-- [Lifehacker] [How to Switch From Apple to Android](https://lifehacker.com/how-to-switch-from-apple-to-android-1848532979)
-- [Lifehacker] [Three of the Most Decadent Single-Serving Dessert Recipes](https://lifehacker.com/three-of-the-most-decadent-single-serving-dessert-recip-1848532961)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
