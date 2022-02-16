@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Migrate an App from MongoDB to HarperDB Livestream](https://dev.to/margo_hdb/migrate-an-app-from-mongodb-to-harperdb-livestream-2ap)
+- [Lifehacker] [How to Turn an Older Mac or PC into a Chromebook](https://lifehacker.com/how-to-turn-an-older-mac-or-pc-into-a-chromebook-1848549382)
+- [Dev.to/JS] [Setting up a Vuex Store with Nuxt](https://dev.to/raulsposito/setting-up-a-vuex-store-with-nuxt-llj)
+- [Dev.to/JS] [rtmp.ts &lpar;Elocast&rpar;](https://dev.to/cski/rtmpts-elocast-2g09)
+- [Dev.to/JS] [JavaScript Basics #8: Drawing on Canvas](https://dev.to/ericnanhu/javascript-basics-8-drawing-on-canvas-5ea0)
+- [Dev.to/JS] [Creating a simple file explorer with recursive components in React](https://dev.to/siddharthvenkatesh/creating-a-simple-file-explorer-with-recursive-components-in-react-458h)
 - [Lifehacker] [How to Talk to a Real Human Being at the IRS](https://lifehacker.com/how-to-talk-to-a-real-human-being-at-the-irs-1848549096)
 - [Dev.to/JS] [State of JavaScript 2021: Framework Reflections](https://dev.to/ryansolid/state-of-javascript-2021-framework-reflections-2i77)
 - [Lifehacker] [There Are Seven Love Languages Now, and One Might Be Yours](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
@@ -34,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to See Your Uber Passenger Ratings Breakdown &lpar;and Improve Your Score&rpar;](https://lifehacker.com/how-to-see-your-uber-passenger-ratings-breakdown-and-i-1848547158)
 - [Dev.to/JS] [Day-25 Training at Ryaz](https://dev.to/mahin651/day-25-training-at-ryaz-1df0)
 - [Dev.to/JS] [1 line of code: How to truncate a string at word boundaries](https://dev.to/martinkr/1-line-of-code-how-to-truncate-a-string-at-word-boundaries-507k)
-- [Dev.to/JS] [Make a React-Auth form using Bootstrap in few simple steps!](https://dev.to/anshnarula5/make-a-react-auth-form-using-bootstrap-in-few-simple-steps-2io5)
-- [Dev.to/JS] [10 GitHub repos you cannot miss out on](https://dev.to/abhirajb/10-github-repos-you-cannot-miss-out-on-5aee)
-- [Dev.to/JS] [A Beginner&#39;s Guide to HTTP - Part 2: an App and a Server](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-2-an-app-and-a-server-211p)
-- [Dev.to/JS] [6 Top Web and Mobile Project Ideas for 2022](https://dev.to/amitzacker/6-top-web-and-mobile-project-ideas-for-2022-3jl7)
 - [Lifehacker] [Why You Need to Update Chrome Right Now](https://lifehacker.com/why-you-need-to-update-chrome-right-now-1848546854)
-- [Dev.to/JS] [Filter on map function in React JS](https://dev.to/shubhamtiwari909/filter-on-map-function-in-react-js-3ohj)
 - [Lifehacker] [15 Video Game Movies and Shows That Don&#39;t Totally Suck](https://lifehacker.com/15-video-game-movies-and-shows-that-dont-totally-suck-1848531084)
 - [Lifehacker] [11 ‘Successful’ People Who Were Actually Huge Frauds](https://lifehacker.com/11-successful-people-who-were-actually-huge-frauds-1848544767)
 - [Lifehacker] [How to Test Your Home for Lead &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-test-your-home-for-lead-and-when-you-should-1848545766)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Try &#39;Worldle,&#39; the New Geography Version of Wordle](https://lifehacker.com/why-you-should-try-worldle-the-new-geography-version-o-1848539965)
 - [Lifehacker] [How to Force Microsoft Office to Save Files Directly to Your Computer &lpar;Instead of OneDrive&rpar;](https://lifehacker.com/how-to-force-microsoft-office-to-save-files-directly-to-1848539698)
 - [Lifehacker] [8 of the Best Free Videos to Watch From Your Spin Bike](https://lifehacker.com/8-of-the-best-free-videos-to-watch-from-your-spin-bike-1848535632)
-- [Lifehacker] [You Can Play Switch With Your PS5, Xbox, and Other ‘Unsupported’ Controllers](https://lifehacker.com/you-can-play-switch-with-your-ps5-xbox-and-other-uns-1848535908)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
