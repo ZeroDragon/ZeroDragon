@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
+- [Dev.to/JS] [Ethereum-A beginner guide. Part-1](https://dev.to/vandysolo/ethereum-a-beginner-guide-part-1-147h)
+- [Dev.to/JS] [How to fetch paginated results from HubDB with the latest HubSpot APIs](https://dev.to/darkmavis1980/how-to-fetch-paginated-results-from-hubdb-with-the-latest-hubspot-apis-4b8)
+- [Dev.to/JS] [Realtime as react hook](https://dev.to/davemaier/realtime-as-react-hook-41eb)
+- [Lifehacker] [How to Grill Like a Pro Using Your Oven&#39;s Broiler](https://lifehacker.com/how-to-grill-like-a-pro-using-your-ovens-broiler-1848549201)
 - [Dev.to/JS] [Migrate an App from MongoDB to HarperDB Livestream](https://dev.to/margo_hdb/migrate-an-app-from-mongodb-to-harperdb-livestream-2ap)
 - [Lifehacker] [How to Turn an Older Mac or PC into a Chromebook](https://lifehacker.com/how-to-turn-an-older-mac-or-pc-into-a-chromebook-1848549382)
 - [Dev.to/JS] [Setting up a Vuex Store with Nuxt](https://dev.to/raulsposito/setting-up-a-vuex-store-with-nuxt-llj)
@@ -36,12 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between a Lager and an Ale &lpar;Because You&#39;re Probably Getting It Wrong&rpar;](https://lifehacker.com/the-difference-between-a-lager-and-an-ale-because-your-1848548475)
 - [Dev.to/JS] [Best practice: JS or PHP](https://dev.to/haseebseo/best-practice-js-or-php-2bag)
 - [Dev.to/JS] [map&lpar;&rpar; method in JavaScript](https://dev.to/therajatg/map-method-in-javascript-5hbn)
-- [Dev.to/JS] [Starting up a new Vue 3 project with Vite and Docker](https://dev.to/jiprochazka/starting-up-a-new-vue-3-project-with-vite-and-docker-3355)
 - [Lifehacker] [How to See Your Uber Passenger Ratings Breakdown &lpar;and Improve Your Score&rpar;](https://lifehacker.com/how-to-see-your-uber-passenger-ratings-breakdown-and-i-1848547158)
-- [Dev.to/JS] [Day-25 Training at Ryaz](https://dev.to/mahin651/day-25-training-at-ryaz-1df0)
-- [Dev.to/JS] [1 line of code: How to truncate a string at word boundaries](https://dev.to/martinkr/1-line-of-code-how-to-truncate-a-string-at-word-boundaries-507k)
 - [Lifehacker] [Why You Need to Update Chrome Right Now](https://lifehacker.com/why-you-need-to-update-chrome-right-now-1848546854)
-- [Lifehacker] [15 Video Game Movies and Shows That Don&#39;t Totally Suck](https://lifehacker.com/15-video-game-movies-and-shows-that-dont-totally-suck-1848531084)
+- [Lifehacker] [15 of the Best Video Game Adaptations That Aren&#39;t ‘Uncharted’](https://lifehacker.com/15-video-game-movies-and-shows-that-dont-totally-suck-1848531084)
 - [Lifehacker] [11 ‘Successful’ People Who Were Actually Huge Frauds](https://lifehacker.com/11-successful-people-who-were-actually-huge-frauds-1848544767)
 - [Lifehacker] [How to Test Your Home for Lead &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-test-your-home-for-lead-and-when-you-should-1848545766)
 - [Lifehacker] [How Does Potato Milk Stack Up, Nutritionally?](https://lifehacker.com/how-does-potato-milk-stack-up-nutritionally-1848545109)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844)
 - [Lifehacker] [How Much Access Do You Have to Give Utility Workers?](https://lifehacker.com/how-much-access-do-you-have-to-give-utility-workers-1848539741)
 - [Lifehacker] [Why You Should Try &#39;Worldle,&#39; the New Geography Version of Wordle](https://lifehacker.com/why-you-should-try-worldle-the-new-geography-version-o-1848539965)
-- [Lifehacker] [How to Force Microsoft Office to Save Files Directly to Your Computer &lpar;Instead of OneDrive&rpar;](https://lifehacker.com/how-to-force-microsoft-office-to-save-files-directly-to-1848539698)
-- [Lifehacker] [8 of the Best Free Videos to Watch From Your Spin Bike](https://lifehacker.com/8-of-the-best-free-videos-to-watch-from-your-spin-bike-1848535632)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
