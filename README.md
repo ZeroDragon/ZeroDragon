@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript ES6 Refresher &lpar;Part 2&rpar;](https://dev.to/divyashc/javascript-es6-refresher-part-2-52j3)
+- [Dev.to/JS] [All React Hooks Explained](https://dev.to/siddharthroy/all-react-hooks-explained-42p3)
+- [Dev.to/JS] [JavaScript ES6 Refresher &lpar;Part 1&rpar;](https://dev.to/divyashc/javascript-es6-refresher-50n7)
 - [Dev.to/JS] [What&#39;s New in the 2021 State of JavaScript Survey](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej)
 - [Dev.to/JS] [How to Build an Emojipedia app using React Components?](https://dev.to/hr21don/how-to-build-an-emojipedia-app-using-react-components-1eoh)
 - [Dev.to/JS] [Javascript the Confusing Parts: Part 1 Coercion, Let vs Const vs var](https://dev.to/shahabbukhari/javascript-the-confusing-parts-part-1-coercion-let-vs-const-vs-var-i6m)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 100 of 100 Days of Code &amp; Scrum: My First Day at a New Job](https://dev.to/rammina/day-100-of-100-days-of-code-scrum-my-first-day-at-a-new-job-1a3o)
 - [Dev.to/JS] [Initial Discovery - Lit](https://dev.to/aaronblondeau/initial-discovery-lit-1h8)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
-- [Dev.to/JS] [How to Grow as a Developer?](https://dev.to/chrisbenjamin/how-to-grow-as-a-developer-1h36)
-- [Dev.to/JS] [How to Debug in JavaScript](https://dev.to/opomeroy26/how-to-debug-in-javascript-4edg)
-- [Dev.to/JS] [React Native date picker](https://dev.to/msaadqureshi/react-native-date-picker-150d)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
 - [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
 - [Lifehacker] [You Should Try Quordle If You&#39;re Too Good at Wordle](https://lifehacker.com/you-should-try-quordle-if-youre-too-good-at-wordle-1848540319)
