@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Colorless async/await in Firefly](https://dev.to/ahnfelt/colorless-asyncawait-in-firefly-hmg)
+- [Dev.to/JS] [Menu Button using Pure CSS](https://dev.to/sankalpt92/menu-button-using-pure-css-48n9)
+- [Dev.to/JS] [React Js google auth](https://dev.to/abipravi/react-js-google-auth-50de)
+- [Dev.to/JS] [5 Stages To Master CSS Quickly For Beginners](https://dev.to/prakashmishr2529/5-stages-to-master-css-quickly-for-beginners-76a)
 - [Dev.to/JS] [In the marketplace we trust](https://dev.to/strapi/in-the-marketplace-we-trust-1dlf)
 - [Dev.to/JS] [How I setup my Development Environment on macOS 2022 Edition](https://dev.to/andrewbaisden/how-i-setup-my-development-environment-on-macos-2022-edition-5elf)
 - [Dev.to/JS] [Create Cool React Image Gallery](https://dev.to/marianna13/create-cool-react-image-gallery-3nd1)
@@ -31,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 formas de recorrer un array con JavaScript](https://dev.to/juandieruiz/5-formas-de-recorrer-un-array-con-javascript-35fk)
 - [Dev.to/JS] [How to Send and Receive Data From a Diffusion Cloud Service Using the Diffusion JavaScript SDK?](https://dev.to/push_technology/how-to-send-and-receive-data-from-a-diffusion-cloud-service-using-the-diffusion-javascript-sdk-1mpf)
 - [Dev.to/JS] [Be proactive when you join an Angular project](https://dev.to/this-is-angular/be-proactive-when-you-join-an-angular-project-5469)
-- [Dev.to/JS] [My Andela ATLP journey: Chasing the dreams.](https://dev.to/rukundokevin/my-andela-atlp-journey-chasing-the-dreams-e3f)
-- [Dev.to/JS] [The Harsh Reality for JS Developers: If You Don&#39;t Study The Fundamentals You Will Be Just Another “Coder”](https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke)
-- [Dev.to/JS] [Lesser-known REACT APIS WITH EXAMPLE
-PART1:React.memo&lpar;&rpar;](https://dev.to/kevinkh89/lesser-known-react-apis-with-examplepart1reactmemo-2ckj)
-- [Dev.to/JS] [How to Randomly Change Background Color in Javascript.](https://dev.to/puenehfaith/how-to-randomly-change-background-color-in-javascript-4o91)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
