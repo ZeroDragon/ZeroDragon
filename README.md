@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#33 -Derivatives of type x^n - CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/33-derivatives-of-type-xn-codewars-kata-6-kyu-4p97)
+- [Dev.to/JS] [RIP Tumbview](https://dev.to/toust/rip-tumbview-17i2)
+- [Dev.to/JS] [What’s the Colon &lpar;:&rpar; For in Javascript?](https://dev.to/badcodernocookie/whats-the-colon-for-in-javascript-52f0)
 - [Dev.to/JS] [JavaScript ES6 Refresher &lpar;Part 2&rpar;](https://dev.to/divyashc/javascript-es6-refresher-part-2-52j3)
 - [Dev.to/JS] [All React Hooks Explained](https://dev.to/siddharthroy/all-react-hooks-explained-42p3)
 - [Dev.to/JS] [JavaScript ES6 Refresher &lpar;Part 1&rpar;](https://dev.to/divyashc/javascript-es6-refresher-50n7)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working With Remix, Prisma, and SQLite To Save Data Using Forms](https://dev.to/aaronksaunders/working-with-remix-prisma-and-sqlite-to-save-data-using-forms-1b3j)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 - [Dev.to/JS] [Day 5 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#56.Merge Intervals&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-5-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem56merge-intervalsmediumjavascript-55m1)
-- [Dev.to/JS] [Nested Routes and Parameterized Routes In Remix](https://dev.to/aaronksaunders/nested-routes-and-parameterized-routes-in-remix-od5)
-- [Dev.to/JS] [Day 100 of 100 Days of Code &amp; Scrum: My First Day at a New Job](https://dev.to/rammina/day-100-of-100-days-of-code-scrum-my-first-day-at-a-new-job-1a3o)
-- [Dev.to/JS] [Initial Discovery - Lit](https://dev.to/aaronblondeau/initial-discovery-lit-1h8)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
 - [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
