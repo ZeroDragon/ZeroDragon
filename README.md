@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Talk to a Real Human Being at the IRS](https://lifehacker.com/how-to-talk-to-a-real-human-being-at-the-irs-1848549096)
+- [Dev.to/JS] [State of JavaScript 2021: Framework Reflections](https://dev.to/ryansolid/state-of-javascript-2021-framework-reflections-2i77)
+- [Lifehacker] [There Are Seven Love Languages Now, and One Might Be Yours](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Dev.to/JS] [Docker - YouTube Course](https://dev.to/fumagallilaura/docker-youtube-course-14mo)
 - [Lifehacker] [The Difference Between a Lager and an Ale &lpar;Because You&#39;re Probably Getting It Wrong&rpar;](https://lifehacker.com/the-difference-between-a-lager-and-an-ale-because-your-1848548475)
 - [Dev.to/JS] [Best practice: JS or PHP](https://dev.to/haseebseo/best-practice-js-or-php-2bag)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need to Update Chrome Right Now](https://lifehacker.com/why-you-need-to-update-chrome-right-now-1848546854)
 - [Dev.to/JS] [Filter on map function in React JS](https://dev.to/shubhamtiwari909/filter-on-map-function-in-react-js-3ohj)
 - [Lifehacker] [15 Video Game Movies and Shows That Don&#39;t Totally Suck](https://lifehacker.com/15-video-game-movies-and-shows-that-dont-totally-suck-1848531084)
-- [Dev.to/JS] [Launched my first product on Product Hunt](https://dev.to/basharath/launched-my-first-product-on-product-hunt-415i)
 - [Lifehacker] [11 ‘Successful’ People Who Were Actually Huge Frauds](https://lifehacker.com/11-successful-people-who-were-actually-huge-frauds-1848544767)
 - [Lifehacker] [How to Test Your Home for Lead &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-test-your-home-for-lead-and-when-you-should-1848545766)
 - [Lifehacker] [How Does Potato Milk Stack Up, Nutritionally?](https://lifehacker.com/how-does-potato-milk-stack-up-nutritionally-1848545109)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Force Microsoft Office to Save Files Directly to Your Computer &lpar;Instead of OneDrive&rpar;](https://lifehacker.com/how-to-force-microsoft-office-to-save-files-directly-to-1848539698)
 - [Lifehacker] [8 of the Best Free Videos to Watch From Your Spin Bike](https://lifehacker.com/8-of-the-best-free-videos-to-watch-from-your-spin-bike-1848535632)
 - [Lifehacker] [You Can Play Switch With Your PS5, Xbox, and Other ‘Unsupported’ Controllers](https://lifehacker.com/you-can-play-switch-with-your-ps5-xbox-and-other-uns-1848535908)
-- [Lifehacker] [Everything You Should Do Before Interest Rates Go Up](https://lifehacker.com/everything-you-should-do-before-interest-rates-go-up-1848537909)
-- [Lifehacker] [Use This Formula to Make a ‘Healthy’ Snack You’ll Actually Want to Eat](https://lifehacker.com/use-this-formula-to-make-a-healthy-snack-you-ll-actua-1848534922)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
