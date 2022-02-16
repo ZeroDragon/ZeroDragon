@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Function With No Name](https://dev.to/hannahglazier/a-function-with-no-name-3icd)
+- [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
+- [Dev.to/JS] [&#39;htm is JSX-like syntax in plain JavaScript&#39;, but...](https://dev.to/artydev/htm-is-jsx-like-syntax-in-plain-javascript-but-g2e)
+- [Dev.to/JS] [Simple alert in JavaScript](https://dev.to/sirbalin26/simple-alert-in-javascript-5g62)
 - [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
 - [Dev.to/JS] [Ethereum-A beginner guide. Part-1](https://dev.to/vandysolo/ethereum-a-beginner-guide-part-1-147h)
 - [Dev.to/JS] [How to fetch paginated results from HubDB with the latest HubSpot APIs](https://dev.to/darkmavis1980/how-to-fetch-paginated-results-from-hubdb-with-the-latest-hubspot-apis-4b8)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Talk to a Real Human Being at the IRS](https://lifehacker.com/how-to-talk-to-a-real-human-being-at-the-irs-1848549096)
 - [Dev.to/JS] [State of JavaScript 2021: Framework Reflections](https://dev.to/ryansolid/state-of-javascript-2021-framework-reflections-2i77)
 - [Lifehacker] [There Are Seven Love Languages Now, and One Might Be Yours](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
-- [Dev.to/JS] [Docker - YouTube Course](https://dev.to/fumagallilaura/docker-youtube-course-14mo)
 - [Lifehacker] [The Difference Between a Lager and an Ale &lpar;Because You&#39;re Probably Getting It Wrong&rpar;](https://lifehacker.com/the-difference-between-a-lager-and-an-ale-because-your-1848548475)
-- [Dev.to/JS] [Best practice: JS or PHP](https://dev.to/haseebseo/best-practice-js-or-php-2bag)
-- [Dev.to/JS] [map&lpar;&rpar; method in JavaScript](https://dev.to/therajatg/map-method-in-javascript-5hbn)
 - [Lifehacker] [How to See Your Uber Passenger Ratings Breakdown &lpar;and Improve Your Score&rpar;](https://lifehacker.com/how-to-see-your-uber-passenger-ratings-breakdown-and-i-1848547158)
 - [Lifehacker] [Why You Need to Update Chrome Right Now](https://lifehacker.com/why-you-need-to-update-chrome-right-now-1848546854)
 - [Lifehacker] [15 of the Best Video Game Adaptations That Aren&#39;t ‘Uncharted’](https://lifehacker.com/15-video-game-movies-and-shows-that-dont-totally-suck-1848531084)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1848540278)
 - [Lifehacker] [How to Get Slime Out of Clothes and Upholstery](https://lifehacker.com/how-to-get-slime-out-of-clothes-and-upholstery-1848539844)
 - [Lifehacker] [How Much Access Do You Have to Give Utility Workers?](https://lifehacker.com/how-much-access-do-you-have-to-give-utility-workers-1848539741)
-- [Lifehacker] [Why You Should Try &#39;Worldle,&#39; the New Geography Version of Wordle](https://lifehacker.com/why-you-should-try-worldle-the-new-geography-version-o-1848539965)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
