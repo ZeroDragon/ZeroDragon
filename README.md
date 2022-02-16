@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This Week In React #94: 2 years 🥳️, memoization, composition, Remix, Next.js, Gatsby, React-Native, Windows, CSS, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-94-2-years-memoization-composition-remix-nextjs-gatsby-react-native-windows-css-typescript-1d1c)
+- [Dev.to/JS] [Cómo TypeScript puede cambiar tu vida](https://dev.to/juandieruiz/como-typescript-puede-cambiar-tu-vida-1noa)
+- [Dev.to/JS] [5 formas de recorrer un array con JavaScript](https://dev.to/juandieruiz/5-formas-de-recorrer-un-array-con-javascript-35fk)
+- [Dev.to/JS] [How to Send and Receive Data From a Diffusion Cloud Service Using the Diffusion JavaScript SDK?](https://dev.to/push_technology/how-to-send-and-receive-data-from-a-diffusion-cloud-service-using-the-diffusion-javascript-sdk-1mpf)
+- [Dev.to/JS] [Be proactive when you join an Angular project](https://dev.to/this-is-angular/be-proactive-when-you-join-an-angular-project-5469)
 - [Dev.to/JS] [My Andela ATLP journey: Chasing the dreams.](https://dev.to/rukundokevin/my-andela-atlp-journey-chasing-the-dreams-e3f)
-- [Dev.to/JS] [The Harsh Reality for JS Developers: Master The Fundamentals Or You Will Be Just A &quot;Coder&quot;](https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke)
+- [Dev.to/JS] [The Harsh Reality for JS Developers: If You Don&#39;t Study The Fundamentals You Will Be Just Another “Coder”](https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke)
 - [Dev.to/JS] [Lesser-known REACT APIS WITH EXAMPLE
 PART1:React.memo&lpar;&rpar;](https://dev.to/kevinkh89/lesser-known-react-apis-with-examplepart1reactmemo-2ckj)
 - [Dev.to/JS] [How to Randomly Change Background Color in Javascript.](https://dev.to/puenehfaith/how-to-randomly-change-background-color-in-javascript-4o91)
 - [Dev.to/JS] [Flutter vs React Native: Choose The Best Framework For Your Project](https://dev.to/itsmekrishlee/flutter-vs-react-native-choose-the-best-framework-for-your-project-2elm)
 - [Dev.to/JS] [How TypeScript can change your life](https://dev.to/dailydevtips1/how-typescript-can-change-your-life-4j6o)
 - [Dev.to/JS] [Twitter meta clone by Quasar + Vue + SCSS + TypeScript + Vue Router](https://dev.to/thuongtruong1009/twitter-meta-clone-by-quasar-vue-scss-typescript-vue-router-iej)
-- [Dev.to/JS] [How to use Private Git Repo as an NPM Package?](https://dev.to/bvpranu97/how-to-use-private-git-repo-as-an-npm-package-3nn7)
-- [Dev.to/JS] [Using reduce to find the oldest age in an array](https://dev.to/marcojhb/using-reduce-to-find-the-oldest-age-in-an-array-18k3)
-- [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 41](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-41-k55)
-- [Dev.to/JS] [Build and deploy JAMstack applications with Cloudflare pages](https://dev.to/asayerio_techblog/build-and-deploy-jamstack-applications-with-cloudflare-pages-5gd8)
-- [Dev.to/JS] [Continuous integration &lpar;CI&rpar; and how it can help you](https://dev.to/how-to-dev/continuous-integration-ci-and-how-it-can-help-you-m5k)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
