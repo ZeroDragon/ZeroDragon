@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Way to Make Any Sheet Pan Recipe so Much Better](https://lifehacker.com/the-easiest-way-to-make-any-sheet-pan-recipe-so-much-be-1848543097)
+- [Dev.to/JS] [3 things you need to know about RxJS](https://dev.to/this-is-learning/3-things-you-need-to-know-about-rxjs-1l9m)
+- [Dev.to/JS] [Do you want a beautiful developer portfolio website](https://dev.to/sripadhs/do-you-want-a-beautiful-developer-portfolio-website-41o2)
+- [Lifehacker] [When You Need a Permit for That DIY Project &lpar;and When You Don&#39;t&rpar;](https://lifehacker.com/when-you-need-a-permit-for-that-diy-project-and-when-y-1848541083)
+- [Dev.to/JS] [How to Make any Website Shoppable with Commerce Layer](https://dev.to/bolajiayodeji/how-to-make-any-website-shoppable-with-commerce-layer-3j0j)
+- [Dev.to/JS] [Sending a V-Model Through a Slot in Vue 3](https://dev.to/jshimkoski/sending-a-vue-3-v-model-through-a-slot-2g43)
 - [Dev.to/JS] [How to create full page tabs with Html, CSS and JavaScript](https://dev.to/thatanjan/how-to-create-full-page-tabs-with-html-css-and-javascript-5c67)
 - [Dev.to/JS] [Colorless async/await in Firefly](https://dev.to/ahnfelt/colorless-asyncawait-in-firefly-hmg)
 - [Dev.to/JS] [Menu Button using Pure CSS](https://dev.to/sankalpt92/menu-button-using-pure-css-48n9)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [In the marketplace we trust](https://dev.to/strapi/in-the-marketplace-we-trust-1dlf)
 - [Dev.to/JS] [How I setup my Development Environment on macOS 2022 Edition](https://dev.to/andrewbaisden/how-i-setup-my-development-environment-on-macos-2022-edition-5elf)
 - [Dev.to/JS] [Create Cool React Image Gallery](https://dev.to/marianna13/create-cool-react-image-gallery-3nd1)
-- [Dev.to/JS] [This Week In React #94: 2 years 🥳️, memoization, composition, Remix, Next.js, Gatsby, React-Native, Windows, CSS, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-94-2-years-memoization-composition-remix-nextjs-gatsby-react-native-windows-css-typescript-1d1c)
-- [Dev.to/JS] [Cómo TypeScript puede cambiar tu vida](https://dev.to/juandieruiz/como-typescript-puede-cambiar-tu-vida-1noa)
-- [Dev.to/JS] [5 formas de recorrer un array con JavaScript](https://dev.to/juandieruiz/5-formas-de-recorrer-un-array-con-javascript-35fk)
-- [Dev.to/JS] [How to Send and Receive Data From a Diffusion Cloud Service Using the Diffusion JavaScript SDK?](https://dev.to/push_technology/how-to-send-and-receive-data-from-a-diffusion-cloud-service-using-the-diffusion-javascript-sdk-1mpf)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hide That You&#39;re Pooping](https://lifehacker.com/how-to-hide-that-youre-pooping-1848515520)
 - [Lifehacker] [How to Switch From Apple to Android](https://lifehacker.com/how-to-switch-from-apple-to-android-1848532979)
 - [Lifehacker] [Three of the Most Decadent Single-Serving Dessert Recipes](https://lifehacker.com/three-of-the-most-decadent-single-serving-dessert-recip-1848532961)
-- [Lifehacker] [How to Check a Used Car&#39;s Quality Without Paying a Mechanic](https://lifehacker.com/how-to-check-a-used-cars-quality-without-paying-a-mecha-1848533292)
-- [Lifehacker] [Stop Zoom From Keeping Your Mac’s Mic Open After a Call Ends](https://lifehacker.com/stop-zoom-from-keeping-your-mac-s-mic-open-after-a-call-1848533430)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
