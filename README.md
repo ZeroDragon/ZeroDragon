@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Interview Questions](https://dev.to/upali123/javascript-interview-questions-23bg)
 - [Dev.to/JS] [5 Free Perfect Headless CMS for JS Developers](https://dev.to/ranaharoon3222/5-free-perfect-headless-cms-for-js-developers-1hd3)
 - [Dev.to/JS] [Everything You Need To Know About .Fetch&lpar;&rpar;](https://dev.to/kadeesterline/everything-you-need-to-know-about-fetch-3ndf)
 - [Dev.to/JS] [Arbitrage Crypto Currencies using Binance and Twilio](https://dev.to/buildable/arbitrage-crypto-currencies-using-binance-and-twilio-146l)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All React Hooks Explained](https://dev.to/siddharthroy/all-react-hooks-explained-42p3)
 - [Dev.to/JS] [JavaScript ES6 Refresher &lpar;Part 1&rpar;](https://dev.to/divyashc/javascript-es6-refresher-50n7)
 - [Dev.to/JS] [What&#39;s New in the 2021 State of JavaScript Survey](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej)
-- [Dev.to/JS] [How to Build an Emojipedia app using React Components?](https://dev.to/hr21don/how-to-build-an-emojipedia-app-using-react-components-1eoh)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
