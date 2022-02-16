@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Free Perfect Headless CMS for JS Developers](https://dev.to/ranaharoon3222/5-free-perfect-headless-cms-for-js-developers-1hd3)
+- [Dev.to/JS] [Everything You Need To Know About .Fetch&lpar;&rpar;](https://dev.to/kadeesterline/everything-you-need-to-know-about-fetch-3ndf)
+- [Dev.to/JS] [Arbitrage Crypto Currencies using Binance and Twilio](https://dev.to/buildable/arbitrage-crypto-currencies-using-binance-and-twilio-146l)
+- [Dev.to/JS] [A tribute to developers, everywhere](https://dev.to/buildable/a-tribute-to-developers-everywhere-3kli)
 - [Dev.to/JS] [#33 -Derivatives of type x^n - CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/33-derivatives-of-type-xn-codewars-kata-6-kyu-4p97)
 - [Dev.to/JS] [RIP Tumbview](https://dev.to/toust/rip-tumbview-17i2)
 - [Dev.to/JS] [What’s the Colon &lpar;:&rpar; For in Javascript?](https://dev.to/badcodernocookie/whats-the-colon-for-in-javascript-52f0)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript ES6 Refresher &lpar;Part 1&rpar;](https://dev.to/divyashc/javascript-es6-refresher-50n7)
 - [Dev.to/JS] [What&#39;s New in the 2021 State of JavaScript Survey](https://dev.to/sachagreif/whats-new-in-the-2021-state-of-javascript-survey-4eej)
 - [Dev.to/JS] [How to Build an Emojipedia app using React Components?](https://dev.to/hr21don/how-to-build-an-emojipedia-app-using-react-components-1eoh)
-- [Dev.to/JS] [Javascript the Confusing Parts: Part 1 Coercion, Let vs Const vs var](https://dev.to/shahabbukhari/javascript-the-confusing-parts-part-1-coercion-let-vs-const-vs-var-i6m)
-- [Dev.to/JS] [How add Style-components to Next.js and start using it 🤪](https://dev.to/britotiagos/how-add-style-components-to-nextjs-and-start-using-it-4kdf)
-- [Dev.to/JS] [Working With Remix, Prisma, and SQLite To Save Data Using Forms](https://dev.to/aaronksaunders/working-with-remix-prisma-and-sqlite-to-save-data-using-forms-1b3j)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
-- [Dev.to/JS] [Day 5 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#56.Merge Intervals&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-5-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem56merge-intervalsmediumjavascript-55m1)
 - [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
 - [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
 - [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
