@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SVGs](https://dev.to/bjupfield/svgs-4cm6)
+- [Dev.to/JS] [2.7 : Getting better](https://dev.to/beamazedvariable/27-getting-better-4enn)
+- [Lifehacker] [Do These Things Now to Prep for Your Spring Garden](https://lifehacker.com/do-these-things-now-to-prep-for-your-spring-garden-1848555741)
+- [Dev.to/JS] [Bubble Witch 2 Saga MOD APK v1.138.0 For Android &lpar;MOD/Acceleration/Unlimited Lives&rpar;](https://dev.to/twaping/bubble-witch-2-saga-mod-apk-v11380-for-android-modaccelerationunlimited-lives-1p36)
+- [Dev.to/JS] [JavaScript Basics #10: Node.js](https://dev.to/ericnanhu/javascript-basics-10-nodejs-11n8)
+- [Dev.to/JS] [Building a React Native Filter - Part 1](https://dev.to/muvinai/building-a-react-native-filter-part-1-21j7)
+- [Lifehacker] [What Is a &#39;Vibe Shift,&#39; and Should You Be Worried About It?](https://lifehacker.com/what-is-a-vibe-shift-and-should-you-be-worried-about-i-1848554984)
+- [Dev.to/JS] [Day-26 Training at Ryaz](https://dev.to/mahin651/day-26-training-at-ryaz-meh)
 - [Dev.to/JS] [filter&lpar;&rpar; method in JavaScript](https://dev.to/therajatg/filter-method-in-javascript-4kc4)
 - [Dev.to/JS] [Target#5 CSS Battle](https://dev.to/prakhart111/target5-css-battle-bll)
 - [Dev.to/JS] [initLogs 4: Why am I getting [object Promise] when calling an asynchronous function in JavaScript?](https://dev.to/unsungnovelty/why-am-i-getting-object-promise-when-calling-an-asynchronous-function-in-javascript-30po)
@@ -31,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Compare rust vs nodejs script runtime](https://dev.to/navid_ahrary/compare-rust-vs-nodejs-script-4aei)
 - [Dev.to/JS] [5 React Useful Tips for Beginners](https://dev.to/lico/5-react-useful-tips-for-beginners-40h0)
 - [Lifehacker] [Is It Better to Reprice or Refinance a Loan?](https://lifehacker.com/is-it-better-to-reprice-or-refinance-a-loan-1848554604)
-- [Dev.to/JS] [Can Micronaut replace Spring Boot? Let&#39;s take a look at an example.](https://dev.to/nix_united/can-micronaut-replace-spring-boot-lets-take-a-look-at-an-example-3nna)
-- [Dev.to/JS] [My First Post🌟](https://dev.to/shravansuresh/my-first-post-2geg)
 - [Lifehacker] [Does Having Too Many Tabs Open Really Slow Down Your Browser?](https://lifehacker.com/does-having-too-many-tabs-open-really-slow-down-your-br-1848554140)
-- [Dev.to/JS] [JavaScript Basics #9: Network and HTTP](https://dev.to/ericnanhu/javascript-basics-9-network-and-http-3pl3)
-- [Dev.to/JS] [&quot;Deep&quot; reactivity in Svelte](https://dev.to/jesperhoy/deep-reactivity-in-svelte-4h4c)
-- [Dev.to/JS] [A Guide to Order: Setting up Prettier and Eslint with Husky, Lint-staged and Commitizen](https://dev.to/this-is-learning/a-guide-to-order-setting-up-prettier-and-eslint-with-husky-lint-staged-and-commitzen-3dm1)
-- [Dev.to/JS] [Resumable JavaScript with Qwik](https://dev.to/this-is-learning/resumable-javascript-with-qwik-2i29)
 - [Lifehacker] [The Easiest ‘Smart Home’ Upgrades You Can Install Yourself](https://lifehacker.com/the-easiest-smart-home-upgrades-you-can-install-yours-1848552936)
 - [Lifehacker] [How to Cook on an Electric Stove When You&#39;re Used to Gas](https://lifehacker.com/how-to-cook-on-an-electric-stove-when-youre-used-to-gas-1848551247)
 - [Lifehacker] [21 Clever Things You Never Knew Table Salt Could Do](https://lifehacker.com/21-clever-things-you-never-knew-table-salt-could-do-1848525279)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Make Any Sheet Pan Recipe so Much Better](https://lifehacker.com/the-easiest-way-to-make-any-sheet-pan-recipe-so-much-be-1848543097)
 - [Lifehacker] [When You Need a Permit for That DIY Project &lpar;and When You Don&#39;t&rpar;](https://lifehacker.com/when-you-need-a-permit-for-that-diy-project-and-when-y-1848541083)
 - [Lifehacker] [How to Throw a Less Annoying Wedding](https://lifehacker.com/how-to-throw-a-less-annoying-wedding-1848543490)
-- [Lifehacker] [What Is a &#39;Women&#39;s Bar&#39; and When Should You Use One?](https://lifehacker.com/what-is-a-womens-bar-and-when-should-you-use-one-1848542973)
-- [Lifehacker] [How to Clean Your Night Guard, Because It&#39;s Grosser Than You Think](https://lifehacker.com/how-to-clean-your-night-guard-because-its-grosser-than-1848541987)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
