@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array Iteration Methods](https://dev.to/8eth/array-iteration-methods-41ao)
+- [Dev.to/JS] [Day 2 of 100 Days of Code](https://dev.to/nkemdev/day-2-of-100-days-of-code-10p5)
 - [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
 - [Dev.to/JS] [Day 1 of 100 days of code](https://dev.to/nkemdev/day-1-of-100-days-of-code-1h08)
 - [Lifehacker] [Should You Adopt a Pet?](https://lifehacker.com/should-you-adopt-a-pet-1848557925)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are Your Best Disney World Vacation Hacks?](https://lifehacker.com/what-are-your-best-disney-world-vacation-hacks-1848556549)
 - [Dev.to/JS] [How to Cheat at Flexbox Froggy by Using Chrome Developer Tools to Hack the Answers](https://dev.to/codingwithadam/how-to-cheat-at-flexbox-froggy-by-using-chrome-developer-tools-to-hack-the-answers-16pg)
 - [Lifehacker] [The Fastest Way to Find the Cheapest Gas in Your Area](https://lifehacker.com/the-fastest-way-to-find-the-cheapest-gas-in-your-area-1848554597)
-- [Dev.to/JS] [SVGs](https://dev.to/bjupfield/svgs-4cm6)
-- [Dev.to/JS] [2.7 : Getting better](https://dev.to/beamazedvariable/27-getting-better-4enn)
 - [Lifehacker] [Do These Things Now to Prep for Your Spring Garden](https://lifehacker.com/do-these-things-now-to-prep-for-your-spring-garden-1848555741)
 - [Lifehacker] [What Is a &#39;Vibe Shift,&#39; and Should You Be Worried About It?](https://lifehacker.com/what-is-a-vibe-shift-and-should-you-be-worried-about-i-1848554984)
 - [Lifehacker] [How to Use a Retinol Without Your Face Peeling Off](https://lifehacker.com/how-to-use-a-retinol-without-your-face-peeling-off-1848554794)
