@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
+- [Dev.to/JS] [Day 1 of 100 days of code](https://dev.to/nkemdev/day-1-of-100-days-of-code-1h08)
+- [Lifehacker] [Should You Adopt a Pet?](https://lifehacker.com/should-you-adopt-a-pet-1848557925)
 - [Dev.to/JS] [JPGs and URL.createObjectURL&lpar;&rpar;](https://dev.to/bjupfield/jpgs-and-urlcreateobjecturl-3ehi)
 - [Dev.to/JS] [How to manage your cheatsheets?](https://dev.to/neophen/how-to-manage-your-cheatsheets-4bfc)
 - [Dev.to/JS] [New Community Plugin: Content Moderation](https://dev.to/strapi/new-community-plugin-content-moderation-2com)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SVGs](https://dev.to/bjupfield/svgs-4cm6)
 - [Dev.to/JS] [2.7 : Getting better](https://dev.to/beamazedvariable/27-getting-better-4enn)
 - [Lifehacker] [Do These Things Now to Prep for Your Spring Garden](https://lifehacker.com/do-these-things-now-to-prep-for-your-spring-garden-1848555741)
-- [Dev.to/JS] [Bubble Witch 2 Saga MOD APK v1.138.0 For Android &lpar;MOD/Acceleration/Unlimited Lives&rpar;](https://dev.to/twaping/bubble-witch-2-saga-mod-apk-v11380-for-android-modaccelerationunlimited-lives-1p36)
 - [Lifehacker] [What Is a &#39;Vibe Shift,&#39; and Should You Be Worried About It?](https://lifehacker.com/what-is-a-vibe-shift-and-should-you-be-worried-about-i-1848554984)
 - [Lifehacker] [How to Use a Retinol Without Your Face Peeling Off](https://lifehacker.com/how-to-use-a-retinol-without-your-face-peeling-off-1848554794)
 - [Lifehacker] [Is It Better to Reprice or Refinance a Loan?](https://lifehacker.com/is-it-better-to-reprice-or-refinance-a-loan-1848554604)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Video Game Adaptations That Aren&#39;t ‘Uncharted’](https://lifehacker.com/15-video-game-movies-and-shows-that-dont-totally-suck-1848531084)
 - [Lifehacker] [11 ‘Successful’ People Who Were Actually Dummies, Scammers, or Frauds](https://lifehacker.com/11-successful-people-who-were-actually-huge-frauds-1848544767)
 - [Lifehacker] [How to Test Your Home for Lead &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-test-your-home-for-lead-and-when-you-should-1848545766)
-- [Lifehacker] [How Does Potato Milk Stack Up, Nutritionally?](https://lifehacker.com/how-does-potato-milk-stack-up-nutritionally-1848545109)
-- [Lifehacker] [Should You Learn to Ski or Snowboard?](https://lifehacker.com/should-you-learn-to-ski-or-snowboard-1848543461)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
