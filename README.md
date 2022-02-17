@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [filter&lpar;&rpar; method in JavaScript](https://dev.to/therajatg/filter-method-in-javascript-4kc4)
 - [Dev.to/JS] [Target#5 CSS Battle](https://dev.to/prakhart111/target5-css-battle-bll)
 - [Dev.to/JS] [initLogs 4: Why am I getting [object Promise] when calling an asynchronous function in JavaScript?](https://dev.to/unsungnovelty/why-am-i-getting-object-promise-when-calling-an-asynchronous-function-in-javascript-30po)
 - [Dev.to/JS] [All about arrays in JavaScript](https://dev.to/kumarkalyan/all-about-arrays-in-javascript-11jd)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;Deep&quot; reactivity in Svelte](https://dev.to/jesperhoy/deep-reactivity-in-svelte-4h4c)
 - [Dev.to/JS] [A Guide to Order: Setting up Prettier and Eslint with Husky, Lint-staged and Commitizen](https://dev.to/this-is-learning/a-guide-to-order-setting-up-prettier-and-eslint-with-husky-lint-staged-and-commitzen-3dm1)
 - [Dev.to/JS] [Resumable JavaScript with Qwik](https://dev.to/this-is-learning/resumable-javascript-with-qwik-2i29)
-- [Dev.to/JS] [Should I quit my career?](https://dev.to/gauravsoni97/should-i-quit-my-career-24kp)
 - [Lifehacker] [The Easiest ‘Smart Home’ Upgrades You Can Install Yourself](https://lifehacker.com/the-easiest-smart-home-upgrades-you-can-install-yours-1848552936)
 - [Lifehacker] [How to Cook on an Electric Stove When You&#39;re Used to Gas](https://lifehacker.com/how-to-cook-on-an-electric-stove-when-youre-used-to-gas-1848551247)
 - [Lifehacker] [21 Clever Things You Never Knew Table Salt Could Do](https://lifehacker.com/21-clever-things-you-never-knew-table-salt-could-do-1848525279)
