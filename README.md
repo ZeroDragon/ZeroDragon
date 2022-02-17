@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a GraphQL server with NodeJS and Express](https://dev.to/codesphere/how-to-build-a-graphql-server-with-nodejs-and-express-2g8j)
+- [Lifehacker] [The Easiest ‘Smart Home’ Upgrades You Can Install Yourself](https://lifehacker.com/the-easiest-smart-home-upgrades-you-can-install-yours-1848552936)
+- [Dev.to/JS] [H1 2022: Product roadmap](https://dev.to/medusajs/h1-2022-product-roadmap-4m95)
+- [Dev.to/JS] [Web Development | Which path to follow in Front-End studies?](https://dev.to/pena/web-development-which-path-to-follow-in-front-end-studies-273n)
+- [Dev.to/JS] [DEV APIs](https://dev.to/sankalpswami1122/dev-apis-4445)
+- [Dev.to/JS] [Reactivity with Stellify](https://dev.to/matthew_anderson/reactivity-with-stellify-2nif)
+- [Dev.to/JS] [The pros and cons of a hustle culture lifestyle: why is everyone working too hard?](https://dev.to/join_hyve/the-pros-and-cons-of-a-hustle-culture-lifestyle-why-is-everyone-working-too-hard-4a86)
 - [Dev.to/JS] [Selenium with JavaScript : Getting Started with Automation Testing](https://dev.to/garima_writes/selenium-with-javascript-getting-started-with-automation-testing-391n)
 - [Lifehacker] [How to Cook on an Electric Stove When You&#39;re Used to Gas](https://lifehacker.com/how-to-cook-on-an-electric-stove-when-youre-used-to-gas-1848551247)
 - [Lifehacker] [21 Clever Things You Never Knew Table Salt Could Do](https://lifehacker.com/21-clever-things-you-never-knew-table-salt-could-do-1848525279)
@@ -31,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weather App using Node JS and handlebars templating engine](https://dev.to/nasreenkhalid/weather-app-using-node-js-and-handlebars-templating-engine-2oci)
 - [Dev.to/JS] [Why 2022 will be Exciting for Developers](https://dev.to/omarfben/why-2022-will-be-exciting-for-developers-4dco)
 - [Dev.to/JS] [Control React Applications From Cypress Tests](https://dev.to/smilepk/control-react-applications-from-cypress-tests-dok)
-- [Dev.to/JS] [Paracetamol.js💊| #57: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-57-explica-este-codigo-javascript-1p0f)
-- [Dev.to/JS] [Top 5 Best Javascript Icons Libraries 🚀](https://dev.to/rammcodes/top-5-best-javascript-icons-libraries-5c2j)
-- [Dev.to/JS] [Start and stop a llama! How to create a non-autoplay GIF web component 🎞️🛑🔥](https://dev.to/thormeier/autoplay-begone-how-to-create-a-non-autoplay-gif-web-component-hbf)
-- [Dev.to/JS] [Tree - AST which crushes JSON, XML, YAML, TOML, etc](https://dev.to/ninjin/tree-ast-which-kills-json-xml-yaml-toml-3kid)
-- [Dev.to/JS] [Leetcode diary:675. Cut Off Trees for Golf Event [hard, BST]](https://dev.to/kevin074/leetcode-diary675-cut-off-trees-for-golf-event-hard-bst-24jm)
-- [Dev.to/JS] [Top Most Popular Python’s Frameworks Compared](https://dev.to/fireartd/top-most-popular-pythons-frameworks-compared-g93)
 - [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
 - [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
 - [Lifehacker] [How to Grill Like a Pro Using Your Oven&#39;s Broiler](https://lifehacker.com/how-to-grill-like-a-pro-using-your-ovens-broiler-1848549201)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Microwave’s Defrost Function Sucks &lpar;and What to Do Instead&rpar;](https://lifehacker.com/why-your-microwave-s-defrost-function-sucks-and-what-t-1848535823)
 - [Lifehacker] [You Should Try Quordle If You&#39;re Too Good at Wordle](https://lifehacker.com/you-should-try-quordle-if-youre-too-good-at-wordle-1848540319)
 - [Lifehacker] [Are Waterpiks Really Better Than Traditional Floss?](https://lifehacker.com/are-waterpiks-really-better-than-traditional-floss-1848540271)
-- [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1848540278)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
