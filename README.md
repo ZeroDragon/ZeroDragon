@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to delete documents in mongo with mongoose](https://dev.to/ama/how-to-delete-documents-in-mongo-with-mongoose-5hh1)
+- [Dev.to/JS] [Animated Sidebar Navigation Panel using HTML, CSS and Javascript](https://dev.to/salmansaleempiaic/animated-sidebar-navigation-panel-using-html-css-and-javascript-4emh)
 - [Dev.to/JS] [The types in TypeScript](https://dev.to/dailydevtips1/the-types-in-typescript-188a)
 - [Dev.to/JS] [Need help please, I&#39;m having trouble finding resources on the internet to set up this session connection system](https://dev.to/digepro/need-help-please-im-having-trouble-finding-resources-on-the-internet-to-set-up-this-session-connection-system-4nki)
 - [Dev.to/JS] [How onDestroy&lpar;&rpar; lifecycle function works in Svelte?](https://dev.to/akuks/how-ondestroy-lifecycle-function-works-in-svelte-1ab3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 7 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#88.Merge Sorted Array&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog_com567/day-7-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem88merge-sorted-arrayeasyjavascript-34b0)
 - [Dev.to/JS] [#34 -Shortest code: Bug in Apple - CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/34-shortest-code-bug-in-apple-codewars-kata-6-kyu-2djk)
 - [Dev.to/JS] [Build a free blog with Next.js and Netlify CMS](https://dev.to/siddharthroy/build-a-free-blog-with-nextjs-and-netlify-cms-125h)
-- [Dev.to/JS] [Making Web Passport MRZ Reader and Scanner in HTML5 and JavaScript](https://dev.to/yushulx/making-web-passport-mrz-reader-and-scanner-in-html5-and-javascript-1do3)
-- [Dev.to/JS] [001/100 Days of Code: Expressões Regulares](https://dev.to/alexandrebekor/001100-days-of-code-expressoes-regulares-56ji)
 - [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
 - [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
 - [Lifehacker] [How to Grill Like a Pro Using Your Oven&#39;s Broiler](https://lifehacker.com/how-to-grill-like-a-pro-using-your-ovens-broiler-1848549201)
