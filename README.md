@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#34 -Shortest code: Bug in Apple - CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/34-shortest-code-bug-in-apple-codewars-kata-6-kyu-2djk)
 - [Dev.to/JS] [Build a free blog with Next.js and Netlify CMS](https://dev.to/siddharthroy/build-a-free-blog-with-nextjs-and-netlify-cms-125h)
 - [Dev.to/JS] [Making Web Passport MRZ Reader and Scanner in HTML5 and JavaScript](https://dev.to/yushulx/making-web-passport-mrz-reader-and-scanner-in-html5-and-javascript-1do3)
 - [Dev.to/JS] [001/100 Days of Code: Expressões Regulares](https://dev.to/alexandrebekor/001100-days-of-code-expressoes-regulares-56ji)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 1.41.2 Released](https://dev.to/matteobruni/tsparticles-1412-released-2n2n)
 - [Dev.to/JS] [Add CSV import to your Node.js app using UseCSV](https://dev.to/dottedsquirrel/add-csv-import-to-your-nodejs-app-using-usecsv-hn3)
 - [Dev.to/JS] [Javascript Reserved Keywords](https://dev.to/smpnjn/javascript-reserved-keywords-1dcg)
-- [Dev.to/JS] [Everything you need to know about JS Variables](https://dev.to/smpnjn/everything-you-need-to-know-about-js-variables-35ge)
 - [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
 - [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
 - [Lifehacker] [How to Grill Like a Pro Using Your Oven&#39;s Broiler](https://lifehacker.com/how-to-grill-like-a-pro-using-your-ovens-broiler-1848549201)
