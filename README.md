@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Top 5 best Javascript Icons Libraries 🚀](https://dev.to/rammcodes/top-5-best-javascript-icons-libraries-5c2j)
+- [Dev.to/JS] [Control React Applications From Cypress Tests](https://dev.to/smilepk/control-react-applications-from-cypress-tests-dok)
+- [Dev.to/JS] [Paracetamol.js💊| #57: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-57-explica-este-codigo-javascript-1p0f)
+- [Dev.to/JS] [Top 5 Best Javascript Icons Libraries 🚀](https://dev.to/rammcodes/top-5-best-javascript-icons-libraries-5c2j)
 - [Dev.to/JS] [Start and stop a llama! How to create a non-autoplay GIF web component 🎞️🛑🔥](https://dev.to/thormeier/autoplay-begone-how-to-create-a-non-autoplay-gif-web-component-hbf)
-- [Dev.to/JS] [Tree - AST which kills JSON, XML, YAML, TOML, etc](https://dev.to/ninjin/tree-ast-which-kills-json-xml-yaml-toml-3kid)
+- [Dev.to/JS] [Tree - AST which crushes JSON, XML, YAML, TOML, etc](https://dev.to/ninjin/tree-ast-which-kills-json-xml-yaml-toml-3kid)
 - [Dev.to/JS] [Leetcode diary:675. Cut Off Trees for Golf Event [hard, BST]](https://dev.to/kevin074/leetcode-diary675-cut-off-trees-for-golf-event-hard-bst-24jm)
 - [Dev.to/JS] [Top Most Popular Python’s Frameworks Compared](https://dev.to/fireartd/top-most-popular-pythons-frameworks-compared-g93)
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 42](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-42-2222)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Your average web developer 👨‍🔧😏 presents: A Classified-ads web-app based on Fastify 🙏](https://dev.to/bacloud22/your-average-web-developer-presents-a-classified-ads-web-app-based-on-fastify-1nn3)
 - [Dev.to/JS] [The Subtle Differences between innerText and textContent You Should Know](https://dev.to/valenciawhite/the-subtle-differences-between-innertext-innerhtml-and-textcontent-you-should-know-3clc)
 - [Dev.to/JS] [How to delete documents in mongo with mongoose](https://dev.to/codever/how-to-delete-documents-in-mongo-with-mongoose-5hh1)
-- [Dev.to/JS] [Animated Sidebar Navigation Panel using HTML, CSS and Javascript](https://dev.to/salmansaleempiaic/animated-sidebar-navigation-panel-using-html-css-and-javascript-4emh)
-- [Dev.to/JS] [The types in TypeScript](https://dev.to/dailydevtips1/the-types-in-typescript-188a)
 - [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
 - [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
 - [Lifehacker] [How to Grill Like a Pro Using Your Oven&#39;s Broiler](https://lifehacker.com/how-to-grill-like-a-pro-using-your-ovens-broiler-1848549201)
