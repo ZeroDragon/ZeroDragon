@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to delete documents in mongo with mongoose](https://dev.to/ama/how-to-delete-documents-in-mongo-with-mongoose-5hh1)
+- [Dev.to/JS] [The most valuable non-technical skills of 2022.](https://dev.to/tyaga001/the-most-valuable-non-technical-skills-of-2022-4753)
+- [Dev.to/JS] [Your average web developer 👨‍🔧😏 presents: A Classified-ads web-app based on Fastify 🙏](https://dev.to/bacloud22/your-average-web-developer-presents-a-classified-ads-web-app-based-on-fastify-1nn3)
+- [Dev.to/JS] [The Subtle Differences between innerText, innerHTML, and textContent You Should Know](https://dev.to/valenciawhite/the-subtle-differences-between-innertext-innerhtml-and-textcontent-you-should-know-3clc)
+- [Dev.to/JS] [How to delete documents in mongo with mongoose](https://dev.to/codever/how-to-delete-documents-in-mongo-with-mongoose-5hh1)
 - [Dev.to/JS] [Animated Sidebar Navigation Panel using HTML, CSS and Javascript](https://dev.to/salmansaleempiaic/animated-sidebar-navigation-panel-using-html-css-and-javascript-4emh)
 - [Dev.to/JS] [The types in TypeScript](https://dev.to/dailydevtips1/the-types-in-typescript-188a)
 - [Dev.to/JS] [Need help please, I&#39;m having trouble finding resources on the internet to set up this session connection system](https://dev.to/digepro/need-help-please-im-having-trouble-finding-resources-on-the-internet-to-set-up-this-session-connection-system-4nki)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to customize HTTP Exception In NestJS](https://dev.to/jangluna/how-to-customize-http-exception-in-nestjs-3ceo)
 - [Dev.to/JS] [State of JavaScript 2021: What People Are Saying](https://dev.to/sachagreif/state-of-javascript-2021-what-people-are-saying-497o)
 - [Dev.to/JS] [How to add Sign In with Notion to your webapp](https://dev.to/up_to_nonsense/how-to-add-sign-in-with-notion-to-your-webapp-anc)
-- [Dev.to/JS] [Day 7 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#88.Merge Sorted Array&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog_com567/day-7-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem88merge-sorted-arrayeasyjavascript-34b0)
-- [Dev.to/JS] [#34 -Shortest code: Bug in Apple - CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/34-shortest-code-bug-in-apple-codewars-kata-6-kyu-2djk)
-- [Dev.to/JS] [Build a free blog with Next.js and Netlify CMS](https://dev.to/siddharthroy/build-a-free-blog-with-nextjs-and-netlify-cms-125h)
 - [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
 - [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
 - [Lifehacker] [How to Grill Like a Pro Using Your Oven&#39;s Broiler](https://lifehacker.com/how-to-grill-like-a-pro-using-your-ovens-broiler-1848549201)
