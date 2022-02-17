@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Product Hunt: Vizzu, an animated charting library](https://dev.to/simzer/vizzu-is-launched-on-product-hunt-3elc)
+- [Dev.to/JS] [Introducing CourseKit: headless online course platform](https://dev.to/anthonygore/introducing-coursekit-headless-online-course-platform-1p3i)
+- [Dev.to/JS] [Becoming A Front End Developer](https://dev.to/samsonsham/becoming-a-front-end-developer-4716)
+- [Dev.to/JS] [Making web components accessible](https://dev.to/horus_kol/making-web-components-accessible-378i)
 - [Dev.to/JS] [tsParticles 1.41.2 Released](https://dev.to/matteobruni/tsparticles-1412-released-2n2n)
 - [Dev.to/JS] [Add CSV import to your Node.js app using UseCSV](https://dev.to/dottedsquirrel/add-csv-import-to-your-nodejs-app-using-usecsv-hn3)
 - [Dev.to/JS] [Javascript Reserved Keywords](https://dev.to/smpnjn/javascript-reserved-keywords-1dcg)
@@ -33,12 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple alert in JavaScript](https://dev.to/sirbalin26/simple-alert-in-javascript-5g62)
 - [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
 - [Dev.to/JS] [Ethereum-A beginner guide. Part-1](https://dev.to/vandysolo/ethereum-a-beginner-guide-part-1-147h)
-- [Dev.to/JS] [How to fetch paginated results from HubDB with the latest HubSpot APIs](https://dev.to/darkmavis1980/how-to-fetch-paginated-results-from-hubdb-with-the-latest-hubspot-apis-4b8)
-- [Dev.to/JS] [Realtime as react hook](https://dev.to/davemaier/realtime-as-react-hook-41eb)
 - [Lifehacker] [How to Grill Like a Pro Using Your Oven&#39;s Broiler](https://lifehacker.com/how-to-grill-like-a-pro-using-your-ovens-broiler-1848549201)
-- [Dev.to/JS] [Migrate an App from MongoDB to HarperDB Livestream](https://dev.to/margo_hdb/migrate-an-app-from-mongodb-to-harperdb-livestream-2ap)
 - [Lifehacker] [How to Turn an Older Mac or PC into a Chromebook](https://lifehacker.com/how-to-turn-an-older-mac-or-pc-into-a-chromebook-1848549382)
-- [Dev.to/JS] [Setting up a Vuex Store with Nuxt](https://dev.to/raulsposito/setting-up-a-vuex-store-with-nuxt-llj)
 - [Lifehacker] [How to Talk to a Real Human Being at the IRS](https://lifehacker.com/how-to-talk-to-a-real-human-being-at-the-irs-1848549096)
 - [Lifehacker] [There Are Seven Love Languages Now, and One Might Be Yours](https://lifehacker.com/there-are-seven-love-languages-now-and-one-might-be-yo-1848548099)
 - [Lifehacker] [The Difference Between a Lager and an Ale &lpar;Because You&#39;re Probably Getting It Wrong&rpar;](https://lifehacker.com/the-difference-between-a-lager-and-an-ale-because-your-1848548475)
