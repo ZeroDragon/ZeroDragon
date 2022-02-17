@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a free blog with Next.js and Netlify CMS](https://dev.to/siddharthroy/build-a-free-blog-with-nextjs-and-netlify-cms-125h)
+- [Dev.to/JS] [Making Web Passport MRZ Reader and Scanner in HTML5 and JavaScript](https://dev.to/yushulx/making-web-passport-mrz-reader-and-scanner-in-html5-and-javascript-1do3)
 - [Dev.to/JS] [001/100 Days of Code: Expressões Regulares](https://dev.to/alexandrebekor/001100-days-of-code-expressoes-regulares-56ji)
 - [Dev.to/JS] [Complete Guide On How To Use Styled-components In React](https://dev.to/elijahtrillionz/complete-guide-on-how-to-use-styled-components-in-react-360c)
 - [Dev.to/JS] [Product Hunt: Vizzu, an animated charting library](https://dev.to/simzer/vizzu-is-launched-on-product-hunt-3elc)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add CSV import to your Node.js app using UseCSV](https://dev.to/dottedsquirrel/add-csv-import-to-your-nodejs-app-using-usecsv-hn3)
 - [Dev.to/JS] [Javascript Reserved Keywords](https://dev.to/smpnjn/javascript-reserved-keywords-1dcg)
 - [Dev.to/JS] [Everything you need to know about JS Variables](https://dev.to/smpnjn/everything-you-need-to-know-about-js-variables-35ge)
-- [Dev.to/JS] [A Function With No Name](https://dev.to/hannahglazier/a-function-with-no-name-3icd)
 - [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
-- [Dev.to/JS] [&#39;htm is JSX-like syntax in plain JavaScript&#39;, but...](https://dev.to/artydev/htm-is-jsx-like-syntax-in-plain-javascript-but-g2e)
 - [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
 - [Lifehacker] [How to Grill Like a Pro Using Your Oven&#39;s Broiler](https://lifehacker.com/how-to-grill-like-a-pro-using-your-ovens-broiler-1848549201)
 - [Lifehacker] [How to Turn an Older Mac or PC into a Chromebook](https://lifehacker.com/how-to-turn-an-older-mac-or-pc-into-a-chromebook-1848549382)
