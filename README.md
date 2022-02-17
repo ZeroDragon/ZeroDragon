@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Some Redux core concepts and their responsibilities](https://dev.to/onatalia/some-redux-core-concepts-and-their-responsibilities-26pk)
+- [Dev.to/JS] [How to customize HTTP Exception In NestJS](https://dev.to/jangluna/how-to-customize-http-exception-in-nestjs-3ceo)
+- [Dev.to/JS] [State of JavaScript 2021: What People Are Saying](https://dev.to/sachagreif/state-of-javascript-2021-what-people-are-saying-497o)
+- [Dev.to/JS] [How to add Sign In with Notion to your webapp](https://dev.to/up_to_nonsense/how-to-add-sign-in-with-notion-to-your-webapp-anc)
+- [Dev.to/JS] [Day 7 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#88.Merge Sorted Array&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog_com567/day-7-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem88merge-sorted-arrayeasyjavascript-34b0)
 - [Dev.to/JS] [#34 -Shortest code: Bug in Apple - CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/34-shortest-code-bug-in-apple-codewars-kata-6-kyu-2djk)
 - [Dev.to/JS] [Build a free blog with Next.js and Netlify CMS](https://dev.to/siddharthroy/build-a-free-blog-with-nextjs-and-netlify-cms-125h)
 - [Dev.to/JS] [Making Web Passport MRZ Reader and Scanner in HTML5 and JavaScript](https://dev.to/yushulx/making-web-passport-mrz-reader-and-scanner-in-html5-and-javascript-1do3)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Complete Guide On How To Use Styled-components In React](https://dev.to/elijahtrillionz/complete-guide-on-how-to-use-styled-components-in-react-360c)
 - [Dev.to/JS] [Product Hunt: Vizzu, an animated charting library](https://dev.to/simzer/vizzu-is-launched-on-product-hunt-3elc)
 - [Dev.to/JS] [Introducing CourseKit: headless online course platform](https://dev.to/anthonygore/introducing-coursekit-headless-online-course-platform-1p3i)
-- [Dev.to/JS] [Becoming A Front End Developer](https://dev.to/samsonsham/becoming-a-front-end-developer-4716)
-- [Dev.to/JS] [Making web components accessible](https://dev.to/horus_kol/making-web-components-accessible-378i)
-- [Dev.to/JS] [tsParticles 1.41.2 Released](https://dev.to/matteobruni/tsparticles-1412-released-2n2n)
-- [Dev.to/JS] [Add CSV import to your Node.js app using UseCSV](https://dev.to/dottedsquirrel/add-csv-import-to-your-nodejs-app-using-usecsv-hn3)
-- [Dev.to/JS] [Javascript Reserved Keywords](https://dev.to/smpnjn/javascript-reserved-keywords-1dcg)
 - [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
 - [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
 - [Lifehacker] [How to Grill Like a Pro Using Your Oven&#39;s Broiler](https://lifehacker.com/how-to-grill-like-a-pro-using-your-ovens-broiler-1848549201)
