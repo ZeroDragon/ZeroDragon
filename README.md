@@ -24,7 +24,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [MERN Stack](https://dev.to/muhammadibtisam/mern-stack-2fb9)
-- [Dev.to/JS] [Vue to AngularJS rescue](https://dev.to/rholo/vue-to-angularjs-rescue-51mn)
 - [Dev.to/JS] [ReactJS useState Hook - lazy initialization and previous state](https://dev.to/atapas/reactjs-usestate-hook-lazy-initialization-and-previous-state-17n0)
 - [Dev.to/JS] [Client side PDF generator](https://dev.to/mallikarjunht/client-side-pdf-generator-2n83)
 - [Dev.to/JS] [Debounce and throttle simplified](https://dev.to/technikhil314/debounce-and-throttle-simplified-4ek6)
@@ -35,6 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Buy Facebook Reviews](https://dev.to/eenersumbrella755/buy-facebook-reviews-1jh3)
 - [Dev.to/JS] [#35 -&lpar;Ready for&rpar; Prime Time - CodeWars Kata &lpar;5 kyu&rpar;](https://dev.to/cesar__dlr/35-ready-for-prime-time-codewars-kata-5-kyu-3k0g)
 - [Dev.to/JS] [¿Cómo empezar a PROGRAMAR?](https://dev.to/gndx/como-empezar-a-programar-28j4)
+- [Dev.to/JS] [State of JavaScript 2021 Livestream](https://dev.to/sachagreif/state-of-javascript-2021-livestream-24a5)
 - [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
 - [Lifehacker] [Should You Adopt a Pet?](https://lifehacker.com/should-you-adopt-a-pet-1848557925)
 - [Lifehacker] [For Even Better Caramelized Onions, Marinate Them First](https://lifehacker.com/for-even-better-caramelized-onions-marinate-them-first-1848556726)
