@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend performance pattern](https://dev.to/thanhlm/frontend-performance-pattern-19o7)
+- [Dev.to/JS] [Custom SSL Certificates for Your Dev Environment](https://dev.to/humanfriend22/custom-ssl-certificates-for-your-dev-environment-3684)
+- [Dev.to/JS] [JavaScript: A Multi Paradigm Language](https://dev.to/wahidibrahimy/javascript-a-multi-paradigm-language-527b)
+- [Dev.to/JS] [Currency Converter + Rates](https://dev.to/deepaksinghkushwah/currency-converter-rates-1379)
+- [Dev.to/JS] [Cracking the Frontend Interview, Part 1: Overview](https://dev.to/ageekdev/cracking-the-frontend-interview-part-1-overview-kca)
 - [Dev.to/JS] [A fresh new Electron app boilerplate](https://dev.to/daltonmenezes/a-fresh-new-electron-app-boilerplate-3m3i)
 - [Dev.to/JS] [Solving Maximum Subarray&lpar;JS + Python&rpar;](https://dev.to/zgattrell/solving-maximum-subarrayjs-python-3bii)
 - [Dev.to/JS] [Building an Application with Mantine in ReactJS + TS](https://dev.to/samp_reston/building-an-application-with-mantine-in-reactjs-ts-3f43)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Don’t Overthink It; Typescript Isn’t Scary](https://dev.to/jshimkoski/dont-overthink-it-typescript-isnt-scary-ob1)
 - [Dev.to/JS] [Utilizing Elm in a Web Worker](https://dev.to/lindsaykwardell/utilizing-elm-in-a-web-worker-3jeg)
 - [Dev.to/JS] [How to create a percentage calculator using JavaScript](https://dev.to/michaelburrows/how-to-create-a-percentage-calculator-using-javascript-515k)
-- [Dev.to/JS] [Next.js on-demand ISR by Sanity GROQ-powered webhooks](https://dev.to/valse/nextjs-on-demand-isr-by-sanity-groq-powered-webhooks-221n)
-- [Dev.to/JS] [Array Iteration Methods](https://dev.to/8eth/array-iteration-methods-41ao)
-- [Dev.to/JS] [Day 2 of 100 Days of Code](https://dev.to/nkemdev/day-2-of-100-days-of-code-10p5)
 - [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
-- [Dev.to/JS] [Day 1 of 100 days of code](https://dev.to/nkemdev/day-1-of-100-days-of-code-1h08)
 - [Lifehacker] [Should You Adopt a Pet?](https://lifehacker.com/should-you-adopt-a-pet-1848557925)
-- [Dev.to/JS] [JPGs and URL.createObjectURL&lpar;&rpar;](https://dev.to/bjupfield/jpgs-and-urlcreateobjecturl-3ehi)
 - [Lifehacker] [For Even Better Caramelized Onions, Marinate Them First](https://lifehacker.com/for-even-better-caramelized-onions-marinate-them-first-1848556726)
 - [Lifehacker] [What Are Your Best Disney World Vacation Hacks?](https://lifehacker.com/what-are-your-best-disney-world-vacation-hacks-1848556549)
 - [Lifehacker] [The Fastest Way to Find the Cheapest Gas in Your Area](https://lifehacker.com/the-fastest-way-to-find-the-cheapest-gas-in-your-area-1848554597)
