@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Disney+ in March 2022](https://lifehacker.com/whats-new-on-disney-in-march-2022-1848560957)
+- [Dev.to/JS] [File upload -&gt; Filesize](https://dev.to/frankwisniewski/file-upload-filesize-3dni)
+- [Dev.to/JS] [Build Warehouse and Store Management System - Pt. 3](https://dev.to/darkterminal/build-warehouse-and-store-management-system-pt-3-3jdo)
 - [Dev.to/JS] [State Management in Angular Using Akita](https://dev.to/robertinoc_dev/state-management-in-angular-using-akita-3j8o)
 - [Dev.to/JS] [Node.js New Project Ideas Discussion](https://dev.to/zigrazor/nodejs-new-project-ideas-discussion-3852)
 - [Dev.to/JS] [002/100 Days of Code: Git](https://dev.to/alexandrebekor/002100-days-of-code-git-jen)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Video Conference App from Scratch using WebRTC,Websocket,PHP +JS Day 43](https://dev.to/benpobi/build-a-video-conference-app-from-scratch-using-webrtcwebsocketphp-js-day-43-3d90)
 - [Dev.to/JS] [How to create animated page transitions in React](https://dev.to/coder4_life/how-to-create-animated-page-transitions-in-react-21he)
 - [Dev.to/JS] [Solving Database Connection Issues in a Serverless World Using Prisma’s Data Proxy](https://dev.to/ankitaabad/solving-database-connection-issues-in-a-serverless-world-using-prismas-data-proxy-i3f)
-- [Dev.to/JS] [Top JavaScript Array Methods with Examples](https://dev.to/pdevfahad/top-javascript-array-methods-with-examples-2kj8)
-- [Dev.to/JS] [I created a new dev community](https://dev.to/sripadhs/i-created-a-new-dev-community-36j5)
 - [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
 - [Lifehacker] [Should You Adopt a Pet?](https://lifehacker.com/should-you-adopt-a-pet-1848557925)
 - [Lifehacker] [For Even Better Caramelized Onions, Marinate Them First](https://lifehacker.com/for-even-better-caramelized-onions-marinate-them-first-1848556726)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need to Update Chrome Right Now](https://lifehacker.com/why-you-need-to-update-chrome-right-now-1848546854)
 - [Lifehacker] [15 of the Best Video Game Adaptations That Aren&#39;t ‘Uncharted’](https://lifehacker.com/15-video-game-movies-and-shows-that-dont-totally-suck-1848531084)
 - [Lifehacker] [11 ‘Successful’ People Who Were Actually Dummies, Scammers, or Frauds](https://lifehacker.com/11-successful-people-who-were-actually-huge-frauds-1848544767)
-- [Lifehacker] [How to Test Your Home for Lead &lpar;and When You Should&rpar;](https://lifehacker.com/how-to-test-your-home-for-lead-and-when-you-should-1848545766)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
