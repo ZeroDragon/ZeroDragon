@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving Contains Duplicate&lpar;JS + Python&rpar;](https://dev.to/zgattrell/solving-contains-duplicatejs-python-401j)
+- [Dev.to/JS] [Don’t Overthink It; Typescript Isn’t Scary](https://dev.to/jshimkoski/dont-overthink-it-typescript-isnt-scary-ob1)
 - [Dev.to/JS] [Utilizing Elm in a Web Worker](https://dev.to/lindsaykwardell/utilizing-elm-in-a-web-worker-3jeg)
 - [Dev.to/JS] [How to create a percentage calculator using JavaScript](https://dev.to/michaelburrows/how-to-create-a-percentage-calculator-using-javascript-515k)
 - [Dev.to/JS] [Next.js on-demand ISR by Sanity GROQ-powered webhooks](https://dev.to/valse/nextjs-on-demand-isr-by-sanity-groq-powered-webhooks-221n)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to manage your cheatsheets?](https://dev.to/neophen/how-to-manage-your-cheatsheets-4bfc)
 - [Dev.to/JS] [New Community Plugin: Content Moderation](https://dev.to/strapi/new-community-plugin-content-moderation-2com)
 - [Dev.to/JS] [Day 0: Solving the FizzBuzz problem with Javascript](https://dev.to/goa2usa/day-0-solving-the-fizzbuzz-problem-with-javascript-10jj)
-- [Dev.to/JS] [Stimulus Rails 7 Tutorial](https://dev.to/bhumi/stimulus-rails-7-tutorial-5a6a)
-- [Dev.to/JS] [What is wrong with SOURCE MAPS and how not to mess with them?](https://dev.to/ninjin/what-is-wrong-with-source-maps-and-how-not-to-mess-with-them-5902)
 - [Lifehacker] [For Even Better Caramelized Onions, Marinate Them First](https://lifehacker.com/for-even-better-caramelized-onions-marinate-them-first-1848556726)
 - [Lifehacker] [What Are Your Best Disney World Vacation Hacks?](https://lifehacker.com/what-are-your-best-disney-world-vacation-hacks-1848556549)
 - [Lifehacker] [The Fastest Way to Find the Cheapest Gas in Your Area](https://lifehacker.com/the-fastest-way-to-find-the-cheapest-gas-in-your-area-1848554597)
