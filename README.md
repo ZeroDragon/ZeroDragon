@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [reduce&lpar;&rpar; method in javascript](https://dev.to/therajatg/reduce-method-in-javascript-138o)
+- [Dev.to/JS] [HTML Best practices 2 - The continuation on how to put best practices in your HTML code](https://dev.to/lucas_anselmo/html-best-practices-2-the-continuation-on-how-to-put-best-practices-in-your-html-code-fmj)
+- [Dev.to/JS] [Designing a Typewriter React Component](https://dev.to/shivishbrahma/designing-a-typewriter-react-component-3kea)
+- [Lifehacker] [15 Slasher Movies That Are Smarter Than You Think](https://lifehacker.com/15-slasher-movies-that-are-smarter-than-you-think-1848555448)
+- [Dev.to/JS] [Truly Understanding React &lpar;TUR&rpar; - EP1](https://dev.to/mrpaulishaili/truly-understanding-react-tur-ep1-3bn6)
+- [Dev.to/JS] [Copy by Value vs Reference](https://dev.to/iamgjert/copy-by-value-vs-reference-1bd3)
 - [Lifehacker] [How to Wake Up If You Keep Sleeping Through Your Alarm](https://lifehacker.com/how-to-wake-up-if-you-keep-sleeping-through-your-alarm-1848563289)
 - [Dev.to/JS] [How to add ESlint, Prettier, and Husky &lpar;Git Hook&rpar; in React JS 2022](https://dev.to/nerdjfpb/how-to-add-eslint-prettier-and-husky-git-hook-in-react-js-2022-55me)
 - [Lifehacker] [Stop Using These Recalled Deodorant Sprays That Have Cancer-Causing Chemicals, FDA Says](https://lifehacker.com/stop-using-these-recalled-deodorant-sprays-that-have-ca-1848562494)
@@ -34,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TweetJOBS](https://dev.to/ishnjn/tweetjobs-56g1)
 - [Dev.to/JS] [✨Libshare - Curate &amp; Share Your favorite JavaScript Libraries!](https://dev.to/adisreyaj/libshare-curate-share-your-favorite-javascript-libraries-3m5h)
 - [Lifehacker] [15 Modern Pixel Art Games Everyone Must Play](https://lifehacker.com/15-modern-pixel-art-games-everyone-must-play-1848562768)
-- [Dev.to/JS] [Higher Order Functions](https://dev.to/mohammed_muddassir/higher-order-functions-1cac)
-- [Dev.to/JS] [Day-27 Training At Ryaz](https://dev.to/mahin651/day-27-training-at-ryaz-2jok)
-- [Dev.to/JS] [What causes imposter syndrome among software developers?](https://dev.to/techmaniacc/what-causes-imposter-syndrome-among-software-developers-4e6b)
-- [Dev.to/JS] [Diving Into Vue 3 - The Reactivity API](https://dev.to/deepgram/diving-into-vue-3-the-reactivity-api-i89)
 - [Lifehacker] [How Long Can You Wait Before Upgrading Your Phone?](https://lifehacker.com/how-long-can-you-wait-before-upgrading-your-phone-1848561946)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Ninja?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-ni-1848562160)
-- [Dev.to/JS] [Dates in Jest](https://dev.to/devjosemanuel/dates-in-jest-4lh1)
 - [Lifehacker] [11 Animal Accounts We All Should Be Following on Social Media](https://lifehacker.com/11-animal-accounts-we-all-should-be-following-on-social-1848557589)
 - [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
 - [Lifehacker] [What to Do If a Possum Gets in Your House](https://lifehacker.com/what-to-do-if-a-possum-gets-in-your-house-1848559122)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Cook on an Electric Stove When You&#39;re Used to Gas](https://lifehacker.com/how-to-cook-on-an-electric-stove-when-youre-used-to-gas-1848551247)
 - [Lifehacker] [21 Clever Things You Never Knew Table Salt Could Do](https://lifehacker.com/21-clever-things-you-never-knew-table-salt-could-do-1848525279)
 - [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
-- [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
