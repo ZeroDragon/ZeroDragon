@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
 - [Lifehacker] [How to Get a Free Upgrade to First Class &lpar;or Score the Cheapest Possible Seat&rpar;](https://lifehacker.com/how-to-get-a-free-upgrade-to-first-class-or-score-the-1848563584)
 - [Dev.to/JS] [ViacomCBS Networks Americas impulsará especialmente](https://dev.to/pame2121/viacomcbs-networks-americas-impulsara-especialmente-1c72)
 - [Dev.to/JS] [ViacomCBS Networks Americas](https://dev.to/pame2121/viacomcbs-networks-americas-1he6)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use a Retinol Without Your Face Peeling Off](https://lifehacker.com/how-to-use-a-retinol-without-your-face-peeling-off-1848554794)
 - [Lifehacker] [Is It Better to Reprice or Refinance a Loan?](https://lifehacker.com/is-it-better-to-reprice-or-refinance-a-loan-1848554604)
 - [Lifehacker] [Does Having Too Many Tabs Open Really Slow Down Your Browser?](https://lifehacker.com/does-having-too-many-tabs-open-really-slow-down-your-br-1848554140)
-- [Lifehacker] [The Easiest ‘Smart Home’ Upgrades You Can Install Yourself](https://lifehacker.com/the-easiest-smart-home-upgrades-you-can-install-yours-1848552936)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
