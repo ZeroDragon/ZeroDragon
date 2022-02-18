@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [sankalp!](https://dev.to/sankalpswami/sankalp-4895)
+- [Dev.to/JS] [Express + DEV APIs!!](https://dev.to/sankalpswami/express-dev-apis-4h98)
+- [Dev.to/JS] [Export multiple charts to PDF with React and jsPDF](https://dev.to/ramonak/export-multiple-charts-to-pdf-with-react-and-jspdf-b47)
 - [Dev.to/JS] [Leetcode diary: 957. Prison Cells After N Days [No trick explanation]](https://dev.to/kevin074/leetcode-diary-957-prison-cells-after-n-days-no-trick-explanation-3cpb)
 - [Dev.to/JS] [TypeScript types and interfaces](https://dev.to/dailydevtips1/typescript-types-and-interfaces-id7)
 - [Dev.to/JS] [The Complete Guide to Solving Captcha with 2Captcha.](https://dev.to/prakashmishr2529/the-complete-guide-to-solving-captcha-with-2captcha-4n6a)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Client side PDF generator](https://dev.to/mallikarjunht/client-side-pdf-generator-2n83)
 - [Dev.to/JS] [Debounce and throttle simplified](https://dev.to/technikhil314/debounce-and-throttle-simplified-4ek6)
 - [Dev.to/JS] [Cost to hire Angular developer in India!](https://dev.to/arohi/cost-to-hire-angular-developer-in-india-292)
-- [Dev.to/JS] [5 Steps to Create an Effective Hiring Funnel](https://dev.to/ashikarose/5-steps-to-create-an-effective-hiring-funnel-3a2m)
-- [Dev.to/JS] [if else in JavaScript - Conditional Statements](https://dev.to/sarveshprajapati/if-else-in-javascript-conditional-statements-1da0)
-- [Dev.to/JS] [The advantage of buying Google Reviews](https://dev.to/eenersumbrella755/the-advantage-of-buying-google-reviews-3jbd)
 - [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
 - [Lifehacker] [Should You Adopt a Pet?](https://lifehacker.com/should-you-adopt-a-pet-1848557925)
 - [Lifehacker] [For Even Better Caramelized Onions, Marinate Them First](https://lifehacker.com/for-even-better-caramelized-onions-marinate-them-first-1848556726)
