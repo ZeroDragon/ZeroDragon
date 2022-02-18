@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving Database Connection Issues in a Serverless World Using Prisma’s Data Proxy](https://dev.to/ankitaabad/solving-database-connection-issues-in-a-serverless-world-using-prismas-data-proxy-i3f)
+- [Dev.to/JS] [Top JavaScript Array Methods with Examples](https://dev.to/pdevfahad/top-javascript-array-methods-with-examples-2kj8)
+- [Dev.to/JS] [I created a new dev community](https://dev.to/sripadhs/i-created-a-new-dev-community-36j5)
+- [Dev.to/JS] [Put Test Completed](https://dev.to/sankalpswami/put-test-45ce)
+- [Dev.to/JS] [Learn Load balancing with Code.](https://dev.to/chetan11dev/learn-load-balancing-2bam)
 - [Dev.to/JS] [Tags API Test1](https://dev.to/sankalpswami/tags-api-test1-18pa)
 - [Dev.to/JS] [Tags API Test](https://dev.to/sankalpswami/tags-api-test-11fb)
 - [Dev.to/JS] [JavaScript Resources](https://dev.to/chandan9369/javascript-resources-4k1e)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [20 weeks of consistent blogging](https://dev.to/mbarzeev/20-weeks-of-consistent-blogging-2d3e)
 - [Dev.to/JS] [This week’s newsletter for 2022-01-18 is out!](https://dev.to/mjgs/this-weeks-newsletter-for-2022-01-18-is-out-2691)
 - [Dev.to/JS] [Second API Test](https://dev.to/sankalpswami/second-api-test-26c3)
-- [Dev.to/JS] [First API Test](https://dev.to/sankalpswami/first-api-test-3365)
-- [Dev.to/JS] [Last week’s newsletter for 2022-01-12 is out!](https://dev.to/mjgs/last-weeks-newsletter-for-2022-01-12-is-out-59cl)
-- [Dev.to/JS] [Best practices for reducing the Docker image size for a Node.js application](https://dev.to/duncanlew/best-practices-for-reducing-the-docker-image-size-for-a-nodejs-application-2m7a)
-- [Dev.to/JS] [Glassmorphism login Form using HTML and CSS](https://dev.to/incoderweb/glassmorphism-login-form-using-html-and-css-2fij)
-- [Dev.to/JS] [Vue 3 - the Evolution of Vue](https://dev.to/asayerio_techblog/vue-3-the-evolution-of-vue-86j)
 - [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
 - [Lifehacker] [Should You Adopt a Pet?](https://lifehacker.com/should-you-adopt-a-pet-1848557925)
 - [Lifehacker] [For Even Better Caramelized Onions, Marinate Them First](https://lifehacker.com/for-even-better-caramelized-onions-marinate-them-first-1848556726)
