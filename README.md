@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State Management in Angular Using Akita](https://dev.to/robertinoc_dev/state-management-in-angular-using-akita-3j8o)
+- [Dev.to/JS] [Node.js New Project Ideas Discussion](https://dev.to/zigrazor/nodejs-new-project-ideas-discussion-3852)
 - [Dev.to/JS] [002/100 Days of Code: Git](https://dev.to/alexandrebekor/002100-days-of-code-git-jen)
 - [Dev.to/JS] [⚡Two Ways to Merge Arrays in JavaScript](https://dev.to/ayeshabaloch123/two-ways-to-merge-arrays-in-javascript-d68)
 - [Dev.to/JS] [Schema Validation with Zod and Express.js](https://dev.to/imadatyat/schema-validation-with-zod-and-expressjs-240i)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solving Database Connection Issues in a Serverless World Using Prisma’s Data Proxy](https://dev.to/ankitaabad/solving-database-connection-issues-in-a-serverless-world-using-prismas-data-proxy-i3f)
 - [Dev.to/JS] [Top JavaScript Array Methods with Examples](https://dev.to/pdevfahad/top-javascript-array-methods-with-examples-2kj8)
 - [Dev.to/JS] [I created a new dev community](https://dev.to/sripadhs/i-created-a-new-dev-community-36j5)
-- [Dev.to/JS] [Put Test Completed](https://dev.to/sankalpswami/put-test-45ce)
-- [Dev.to/JS] [Learn Load balancing with Code.](https://dev.to/chetan11dev/learn-load-balancing-2bam)
 - [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
 - [Lifehacker] [Should You Adopt a Pet?](https://lifehacker.com/should-you-adopt-a-pet-1848557925)
 - [Lifehacker] [For Even Better Caramelized Onions, Marinate Them First](https://lifehacker.com/for-even-better-caramelized-onions-marinate-them-first-1848556726)
