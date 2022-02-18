@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utilizing Elm in a Web Worker](https://dev.to/lindsaykwardell/utilizing-elm-in-a-web-worker-3jeg)
+- [Dev.to/JS] [How to create a percentage calculator using JavaScript](https://dev.to/michaelburrows/how-to-create-a-percentage-calculator-using-javascript-515k)
+- [Dev.to/JS] [Next.js on-demand ISR by Sanity GROQ-powered webhooks](https://dev.to/valse/nextjs-on-demand-isr-by-sanity-groq-powered-webhooks-221n)
 - [Dev.to/JS] [Array Iteration Methods](https://dev.to/8eth/array-iteration-methods-41ao)
 - [Dev.to/JS] [Day 2 of 100 Days of Code](https://dev.to/nkemdev/day-2-of-100-days-of-code-10p5)
 - [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 0: Solving the FizzBuzz problem with Javascript](https://dev.to/goa2usa/day-0-solving-the-fizzbuzz-problem-with-javascript-10jj)
 - [Dev.to/JS] [Stimulus Rails 7 Tutorial](https://dev.to/bhumi/stimulus-rails-7-tutorial-5a6a)
 - [Dev.to/JS] [What is wrong with SOURCE MAPS and how not to mess with them?](https://dev.to/ninjin/what-is-wrong-with-source-maps-and-how-not-to-mess-with-them-5902)
-- [Dev.to/JS] [14 Codepens to Blow You Away!](https://dev.to/code_jedi/14-codepens-to-blow-you-away-2m02)
 - [Lifehacker] [For Even Better Caramelized Onions, Marinate Them First](https://lifehacker.com/for-even-better-caramelized-onions-marinate-them-first-1848556726)
-- [Dev.to/JS] [Javascript, Sql, and File Saving](https://dev.to/bjupfield/javascript-sql-and-file-saving-53dn)
 - [Lifehacker] [What Are Your Best Disney World Vacation Hacks?](https://lifehacker.com/what-are-your-best-disney-world-vacation-hacks-1848556549)
-- [Dev.to/JS] [How to Cheat at Flexbox Froggy by Using Chrome Developer Tools to Hack the Answers](https://dev.to/codingwithadam/how-to-cheat-at-flexbox-froggy-by-using-chrome-developer-tools-to-hack-the-answers-16pg)
 - [Lifehacker] [The Fastest Way to Find the Cheapest Gas in Your Area](https://lifehacker.com/the-fastest-way-to-find-the-cheapest-gas-in-your-area-1848554597)
 - [Lifehacker] [Do These Things Now to Prep for Your Spring Garden](https://lifehacker.com/do-these-things-now-to-prep-for-your-spring-garden-1848555741)
 - [Lifehacker] [What Is a &#39;Vibe Shift,&#39; and Should You Be Worried About It?](https://lifehacker.com/what-is-a-vibe-shift-and-should-you-be-worried-about-i-1848554984)
