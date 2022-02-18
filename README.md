@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Wake Up If You Keep Sleeping Through Your Alarm](https://lifehacker.com/how-to-wake-up-if-you-keep-sleeping-through-your-alarm-1848563289)
+- [Dev.to/JS] [How to add ESlint, Prettier, and Husky &lpar;Git Hook&rpar; in React JS 2022](https://dev.to/nerdjfpb/how-to-add-eslint-prettier-and-husky-git-hook-in-react-js-2022-55me)
+- [Lifehacker] [Stop Using These Recalled Deodorant Sprays That Have Cancer-Causing Chemicals, FDA Says](https://lifehacker.com/stop-using-these-recalled-deodorant-sprays-that-have-ca-1848562494)
+- [Dev.to/JS] [Learn Caching with Code](https://dev.to/chetan11dev/learn-caching-with-code-45pn)
 - [Lifehacker] [Is It Legal to Jailbreak a Video Game Console?](https://lifehacker.com/is-it-legal-to-jailbreak-a-video-game-console-1848558154)
 - [Dev.to/JS] [What is a JavaScript framework, and why use one?](https://dev.to/dscnuml/what-is-a-javascript-framework-and-why-use-one-3b6h)
 - [Dev.to/JS] [Learn to code Html , CSS &amp; JavaScript for free](https://dev.to/hashimdev/learn-to-code-html-css-javascript-for-free-1gkn)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Long Can You Wait Before Upgrading Your Phone?](https://lifehacker.com/how-long-can-you-wait-before-upgrading-your-phone-1848561946)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Ninja?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-ni-1848562160)
 - [Dev.to/JS] [Dates in Jest](https://dev.to/devjosemanuel/dates-in-jest-4lh1)
-- [Dev.to/JS] [Introduction to Semantic Accessors](https://dev.to/pabrick/introduction-to-semantic-accessors-3kol)
-- [Dev.to/JS] [Fechas en Jest](https://dev.to/devjosemanuel/fechas-en-jest-1mb6)
 - [Lifehacker] [11 Animal Accounts We All Should Be Following on Social Media](https://lifehacker.com/11-animal-accounts-we-all-should-be-following-on-social-1848557589)
 - [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
 - [Lifehacker] [What to Do If a Possum Gets in Your House](https://lifehacker.com/what-to-do-if-a-possum-gets-in-your-house-1848559122)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [21 Clever Things You Never Knew Table Salt Could Do](https://lifehacker.com/21-clever-things-you-never-knew-table-salt-could-do-1848525279)
 - [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
 - [Lifehacker] [Your Retro Gaming Rig Needs a ‘Cheap’ Projector](https://lifehacker.com/your-retro-gaming-rig-needs-a-cheap-projector-1848543586)
-- [Lifehacker] [How to Grill Like a Pro Using Your Oven&#39;s Broiler](https://lifehacker.com/how-to-grill-like-a-pro-using-your-ovens-broiler-1848549201)
-- [Lifehacker] [How to Turn an Older Mac or PC into a Chromebook](https://lifehacker.com/how-to-turn-an-older-mac-or-pc-into-a-chromebook-1848549382)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
