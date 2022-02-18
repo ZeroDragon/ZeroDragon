@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get a Free Upgrade to First Class &lpar;or Score the Cheapest Possible Seat&rpar;](https://lifehacker.com/how-to-get-a-free-upgrade-to-first-class-or-score-the-1848563584)
+- [Dev.to/JS] [ViacomCBS Networks Americas impulsará especialmente](https://dev.to/pame2121/viacomcbs-networks-americas-impulsara-especialmente-1c72)
+- [Dev.to/JS] [ViacomCBS Networks Americas](https://dev.to/pame2121/viacomcbs-networks-americas-1he6)
+- [Dev.to/JS] [Resume Builder](https://dev.to/nisabmohd/resume-builder-49ae)
+- [Dev.to/JS] [Tutorial: Ethereum BlockChain Development &lpar;3&rpar;](https://dev.to/yongchanghe/tutorial-ethereum-blockchain-development-3-4ple)
+- [Dev.to/JS] [Debuggando funções com mais facilidade no VSCode.](https://dev.to/juliabresolin/debuggando-funcoes-com-mais-facilidade-no-vscode-44h2)
+- [Lifehacker] [Why You Should Stop Rinsing Your Mouth After Brushing](https://lifehacker.com/why-you-should-stop-rinsing-your-mouth-after-brushing-1848561063)
+- [Lifehacker] [Join the Cool Kids&#39; Club With a Dark &#39;n Stormy](https://lifehacker.com/join-the-cool-kids-club-with-a-dark-n-stormy-1848562945)
 - [Dev.to/JS] [reduce&lpar;&rpar; method in javascript](https://dev.to/therajatg/reduce-method-in-javascript-138o)
 - [Dev.to/JS] [HTML Best practices 2 - The continuation on how to put best practices in your HTML code](https://dev.to/lucas_anselmo/html-best-practices-2-the-continuation-on-how-to-put-best-practices-in-your-html-code-fmj)
 - [Dev.to/JS] [Designing a Typewriter React Component](https://dev.to/shivishbrahma/designing-a-typewriter-react-component-3kea)
@@ -34,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using These Recalled Deodorant Sprays That Have Cancer-Causing Chemicals, FDA Says](https://lifehacker.com/stop-using-these-recalled-deodorant-sprays-that-have-ca-1848562494)
 - [Dev.to/JS] [Learn Caching with Code](https://dev.to/chetan11dev/learn-caching-with-code-45pn)
 - [Lifehacker] [Is It Legal to Jailbreak a Video Game Console?](https://lifehacker.com/is-it-legal-to-jailbreak-a-video-game-console-1848558154)
-- [Dev.to/JS] [What is a JavaScript framework, and why use one?](https://dev.to/dscnuml/what-is-a-javascript-framework-and-why-use-one-3b6h)
-- [Dev.to/JS] [Learn to code Html , CSS &amp; JavaScript for free](https://dev.to/hashimdev/learn-to-code-html-css-javascript-for-free-1gkn)
-- [Dev.to/JS] [React-native architecture - [part one]](https://dev.to/salemabderaouf/react-native-architecture-part-one-26fg)
-- [Dev.to/JS] [TweetJOBS](https://dev.to/ishnjn/tweetjobs-56g1)
-- [Dev.to/JS] [✨Libshare - Curate &amp; Share Your favorite JavaScript Libraries!](https://dev.to/adisreyaj/libshare-curate-share-your-favorite-javascript-libraries-3m5h)
 - [Lifehacker] [15 Modern Pixel Art Games Everyone Must Play](https://lifehacker.com/15-modern-pixel-art-games-everyone-must-play-1848562768)
 - [Lifehacker] [How Long Can You Wait Before Upgrading Your Phone?](https://lifehacker.com/how-long-can-you-wait-before-upgrading-your-phone-1848561946)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Ninja?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-ni-1848562160)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is It Better to Reprice or Refinance a Loan?](https://lifehacker.com/is-it-better-to-reprice-or-refinance-a-loan-1848554604)
 - [Lifehacker] [Does Having Too Many Tabs Open Really Slow Down Your Browser?](https://lifehacker.com/does-having-too-many-tabs-open-really-slow-down-your-br-1848554140)
 - [Lifehacker] [The Easiest ‘Smart Home’ Upgrades You Can Install Yourself](https://lifehacker.com/the-easiest-smart-home-upgrades-you-can-install-yours-1848552936)
-- [Lifehacker] [How to Cook on an Electric Stove When You&#39;re Used to Gas](https://lifehacker.com/how-to-cook-on-an-electric-stove-when-youre-used-to-gas-1848551247)
-- [Lifehacker] [21 Clever Things You Never Knew Table Salt Could Do](https://lifehacker.com/21-clever-things-you-never-knew-table-salt-could-do-1848525279)
-- [Lifehacker] [Your Windows 11 PC Can Finally Run &lpar;Some&rpar; Android Apps](https://lifehacker.com/your-windows-11-pc-can-finally-run-some-android-apps-1848550120)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
