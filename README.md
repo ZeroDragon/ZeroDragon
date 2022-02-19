@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript code puzzle: convert a Boolean to Number](https://dev.to/jankapunkt/javascript-code-puzzle-convert-a-boolean-to-number-3e81)
+- [Dev.to/JS] [Google Docs with Next.js](https://dev.to/j471n/google-docs-with-nextjs-2g0i)
+- [Dev.to/JS] [List of Free Stun and Turn Servers | Open Relay Project](https://dev.to/aprogrammer22/list-of-free-stun-and-turn-servers-open-relay-project-3a70)
+- [Dev.to/JS] [Creating a Provider to share state between components in React](https://dev.to/bendy/creating-a-provider-to-share-state-between-components-in-react-30bl)
 - [Dev.to/JS] [How to build a SaaS product as a frontend developer.](https://dev.to/sewellstephens/how-to-build-a-saas-product-as-a-frontend-developer-j0n)
 - [Dev.to/JS] [I Failed...](https://dev.to/mikacodez/i-failed-4dc3)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ReactJS Tic-Tac-Toe &lpar;💥Passed Job Interview💥&rpar;](https://dev.to/frontendengineer/reactjs-tic-tac-toe-passed-job-interview-1od8)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Dev.to/JS] [Building a Queue Server in TypeScript with Deno](https://dev.to/jonbaldie/building-a-queue-server-in-typescript-with-deno-3j1b)
-- [Dev.to/JS] [The &quot;Simple, elegant type system is all you need&quot; bias](https://dev.to/latobibor/the-simple-elegant-types-is-all-you-need-bias-47j)
-- [Dev.to/JS] [New open-source repository collation](https://dev.to/urbanhawktech/new-open-source-repository-collation-2ih8)
-- [Dev.to/JS] [Ava and React Testing Library](https://dev.to/nalanj/ava-and-react-testing-library-19da)
-- [Dev.to/JS] [Paracetamol.js💊| #59: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-59-explica-este-codigo-javascript-3ao2)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
