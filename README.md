@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript utility types: Partial and Required](https://dev.to/dailydevtips1/typescript-utility-types-partial-and-required-1klm)
+- [Dev.to/JS] [[Javascript] Scope](https://dev.to/joylee/javascript-scope-1230)
+- [Dev.to/JS] [The Ultimate List of 7 Perfect Vue 3 UI Libraries for every project](https://dev.to/ranaharoon3222/the-ultimate-list-of-7-perfect-vue-3-ui-libraries-for-every-project-1l39)
+- [Dev.to/JS] [JSX in React](https://dev.to/shabikashab/jsx-in-react-7o2)
 - [Dev.to/JS] [Guess who&#39;s new here 🎉](https://dev.to/csfreak28/guess-whos-new-here-9pi)
 - [Dev.to/JS] [A new linkedin](https://dev.to/seedacquire/a-new-linkedin-4g6p)
 - [Dev.to/JS] [Async and Await](https://dev.to/shivam164/async-and-await-d6m)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Subsets / Power Set - JavaScript Solution](https://dev.to/ggorantala/subsets-power-set-javascript-solution-734)
 - [Dev.to/JS] [GlucoTrust - Blood Sugar Reviews, Benefits, Results And Warnings?](https://dev.to/glucotrustfact/glucotrust-blood-sugar-reviews-benefits-results-and-warnings-17p2)
 - [Dev.to/JS] [Hanging on for dear life!](https://dev.to/jareichert/hanging-on-for-dear-life-352)
-- [Dev.to/JS] [How to securely use Google API service account credentials in a public repo](https://dev.to/wilsonparson/how-to-securely-use-google-apis-service-account-credentials-in-a-public-repo-4k65)
-- [Dev.to/JS] [sonoretech.com](https://dev.to/ngoy_luckson/sonoretechcom-ko7)
-- [Dev.to/JS] [Reset Final Cut Pro &amp; Logic Pro](https://dev.to/ravics09/reset-final-cut-pro-logic-pro-h0p)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
-- [Dev.to/JS] [Day 3 of 100 days of Code](https://dev.to/nkemdev/day-4-of-100-days-of-code-4i0h)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
 - [Lifehacker] [How to Get a Free Upgrade to First Class &lpar;or Score the Cheapest Possible Seat&rpar;](https://lifehacker.com/how-to-get-a-free-upgrade-to-first-class-or-score-the-1848563584)
