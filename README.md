@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Chai like assertion library using proxies](https://dev.to/pabloabc/creating-a-chai-like-assertion-library-using-proxies-1ol7)
+- [Dev.to/JS] [Manage Multiple Versions of Node JS using NVM](https://dev.to/caspergeek/manage-multiple-versions-of-node-js-using-nvm-4jp7)
 - [Dev.to/JS] [Creating a Link-Sharing Site Part 0](https://dev.to/adamjhawley/creating-a-link-sharing-site-part-0-2f2j)
 - [Dev.to/JS] [Planning a React Application](https://dev.to/fkkarakurt/planning-a-reactapplication-1bk6)
 - [Dev.to/JS] [JavaScript code puzzle: convert a Boolean to Number](https://dev.to/jankapunkt/javascript-code-puzzle-convert-a-boolean-to-number-3e81)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Dev.to/JS] [Simple pattern for web back-end context](https://dev.to/bacloud22/simple-pattern-for-web-back-end-context-33ni)
 - [Dev.to/JS] [rest parameter in javascript](https://dev.to/therajatg/rest-parameter-in-javascript-2akl)
-- [Dev.to/JS] [Custom Context or Right Click Menu Design using HTML, CSS, and Javascript](https://dev.to/incoderweb/custom-context-or-right-click-menu-design-using-html-css-and-javascript-1mnk)
-- [Dev.to/JS] [Vue.js #2: Template Syntax](https://dev.to/ericnanhu/vuejs-2-template-syntax-5d44)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
