@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ava and React Testing Library](https://dev.to/nalanj/ava-and-react-testing-library-19da)
+- [Dev.to/JS] [Paracetamol.js💊| #59: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-59-explica-este-codigo-javascript-3ao2)
+- [Dev.to/JS] [⚡ Write your own reactivity function in 10 lines of Javascript](https://dev.to/tqbit/write-your-own-reactivity-function-in-10-lines-of-javascript-40be)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
 - [Dev.to/JS] [003/100 Days of Code: Debugging Javascript](https://dev.to/alexandrebekor/003100-days-of-code-debugging-javascript-3cfd)
 - [Dev.to/JS] [Top 5 state management libraries for React](https://dev.to/thatanjan/top-5-state-management-libraries-for-react-7ml)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Nullish Coalescing operator&lpar;??&rpar;](https://dev.to/anjalyyy1/javascript-nullish-coalescing-operator-16g6)
 - [Dev.to/JS] [SvelteKit + Firebase: Authentication, protected routes, and persistent login](https://dev.to/pilcrowonpaper/sveltekit-firebase-authentication-protected-routes-and-persistent-login-dk3)
 - [Dev.to/JS] [Create a parallax effect when the mouse moves](https://dev.to/clementgaudiniere/create-a-parallax-effect-when-the-mouse-moves-3km0)
-- [Dev.to/JS] [What’s the 101? the useState Hook in React](https://dev.to/sleepytenor/whats-the-101-the-usestate-hook-in-react-47pl)
-- [Dev.to/JS] [Writing Scrum Toolkit #1 - Initial design](https://dev.to/meatboy/writing-scrum-toolkit-1-initial-design-4ogc)
-- [Dev.to/JS] [Why do we bind event handlers in React???](https://dev.to/azazeloss/why-do-we-bind-event-handlers-in-react-3g65)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
