@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
+- [Dev.to/JS] [Building a Queue Server in TypeScript with Deno](https://dev.to/jonbaldie/building-a-queue-server-in-typescript-with-deno-3j1b)
+- [Dev.to/JS] [The &quot;Simple, elegant type system is all you need&quot; bias](https://dev.to/latobibor/the-simple-elegant-types-is-all-you-need-bias-47j)
+- [Dev.to/JS] [New open-source repository collation](https://dev.to/urbanhawktech/new-open-source-repository-collation-2ih8)
 - [Dev.to/JS] [Ava and React Testing Library](https://dev.to/nalanj/ava-and-react-testing-library-19da)
 - [Dev.to/JS] [Paracetamol.js💊| #59: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-59-explica-este-codigo-javascript-3ao2)
 - [Dev.to/JS] [⚡ Write your own reactivity function in 10 lines of Javascript](https://dev.to/tqbit/write-your-own-reactivity-function-in-10-lines-of-javascript-40be)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part &lpar;1&rpar;](https://dev.to/codejesse/part-1-1a75)
 - [Dev.to/JS] [HackTrack Chrome Extension](https://dev.to/deeksha_51/hacktrack-chrome-extension-2dej)
 - [Dev.to/JS] [creating a spotify extension](https://dev.to/codejesse/creating-a-spotify-extension-40n7)
-- [Dev.to/JS] [Javascript Nullish Coalescing operator&lpar;??&rpar;](https://dev.to/anjalyyy1/javascript-nullish-coalescing-operator-16g6)
-- [Dev.to/JS] [SvelteKit + Firebase: Authentication, protected routes, and persistent login](https://dev.to/pilcrowonpaper/sveltekit-firebase-authentication-protected-routes-and-persistent-login-dk3)
-- [Dev.to/JS] [Create a parallax effect when the mouse moves](https://dev.to/clementgaudiniere/create-a-parallax-effect-when-the-mouse-moves-3km0)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are Your Best Disney World Vacation Hacks?](https://lifehacker.com/what-are-your-best-disney-world-vacation-hacks-1848556549)
 - [Lifehacker] [The Fastest Way to Find the Cheapest Gas in Your Area](https://lifehacker.com/the-fastest-way-to-find-the-cheapest-gas-in-your-area-1848554597)
 - [Lifehacker] [Do These Things Now to Prep for Your Spring Garden](https://lifehacker.com/do-these-things-now-to-prep-for-your-spring-garden-1848555741)
-- [Lifehacker] [What Is a &#39;Vibe Shift,&#39; and Should You Be Worried About It?](https://lifehacker.com/what-is-a-vibe-shift-and-should-you-be-worried-about-i-1848554984)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
