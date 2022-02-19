@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part &lpar;1&rpar;](https://dev.to/codejesse/part-1-1a75)
+- [Dev.to/JS] [HackTrack Chrome Extension](https://dev.to/deeksha_51/hacktrack-chrome-extension-2dej)
 - [Dev.to/JS] [creating a spotify extension](https://dev.to/codejesse/creating-a-spotify-extension-40n7)
 - [Dev.to/JS] [Javascript Nullish Coalescing operator&lpar;??&rpar;](https://dev.to/anjalyyy1/javascript-nullish-coalescing-operator-16g6)
 - [Dev.to/JS] [SvelteKit + Firebase: Authentication, protected routes, and persistent login](https://dev.to/pilcrowonpaper/sveltekit-firebase-authentication-protected-routes-and-persistent-login-dk3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unique Project Ideas to Improve Your React Skills](https://dev.to/jashanmago/unique-project-ideas-to-improve-your-react-skills-3gia)
 - [Dev.to/JS] [5 Best Crypto Exchange in USA 2022](https://dev.to/virendebro/5-best-crypto-exchange-in-usa-2022-40lb)
 - [Dev.to/JS] [Leetcode diary: 6. Zigzag Conversion](https://dev.to/kevin074/leetcode-diary-6-zigzag-conversion-464e)
-- [Dev.to/JS] [모바일에서 invalid date](https://dev.to/wes5510/mobaileseo-invalid-date-oi5)
-- [Dev.to/JS] [Yjs + typegoose = yTypegoose](https://dev.to/wes5510/yjs-typegoose-ytypegoose-3b74)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
