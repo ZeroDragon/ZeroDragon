@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [IIS - Como implantar o seu aplicativo React.js](https://dev.to/jhonywalkeer/iis-como-implantar-o-seu-aplicativo-react-517n)
+- [Dev.to/JS] [Truly Understanding React &lpar;TUR&rpar; - Ep2 -](https://dev.to/mrpaulishaili/truly-understanding-react-tur-ep2--47ga)
 - [Dev.to/JS] [Subsets / Power Set - JavaScript Solution](https://dev.to/ggorantala/subsets-power-set-javascript-solution-734)
 - [Dev.to/JS] [GlucoTrust - Blood Sugar Reviews, Benefits, Results And Warnings?](https://dev.to/glucotrustfact/glucotrust-blood-sugar-reviews-benefits-results-and-warnings-17p2)
 - [Dev.to/JS] [Hanging on for dear life!](https://dev.to/jareichert/hanging-on-for-dear-life-352)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
 - [Lifehacker] [How to Get a Free Upgrade to First Class &lpar;or Score the Cheapest Possible Seat&rpar;](https://lifehacker.com/how-to-get-a-free-upgrade-to-first-class-or-score-the-1848563584)
-- [Dev.to/JS] [ViacomCBS Networks Americas impulsará especialmente](https://dev.to/pame2121/viacomcbs-networks-americas-impulsara-especialmente-1c72)
-- [Dev.to/JS] [ViacomCBS Networks Americas](https://dev.to/pame2121/viacomcbs-networks-americas-1he6)
 - [Lifehacker] [Why You Should Stop Rinsing Your Mouth After Brushing](https://lifehacker.com/why-you-should-stop-rinsing-your-mouth-after-brushing-1848561063)
 - [Lifehacker] [Join the Cool Kids&#39; Club With a Dark &#39;n Stormy](https://lifehacker.com/join-the-cool-kids-club-with-a-dark-n-stormy-1848562945)
 - [Lifehacker] [15 Slasher Movies That Are Smarter Than You Think](https://lifehacker.com/15-slasher-movies-that-are-smarter-than-you-think-1848555448)
