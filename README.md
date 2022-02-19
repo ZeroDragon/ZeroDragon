@@ -23,10 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Subsets / Power Set - JavaScript Solution](https://dev.to/ggorantala/subsets-power-set-javascript-solution-734)
+- [Dev.to/JS] [GlucoTrust - Blood Sugar Reviews, Benefits, Results And Warnings?](https://dev.to/glucotrustfact/glucotrust-blood-sugar-reviews-benefits-results-and-warnings-17p2)
+- [Dev.to/JS] [Hanging on for dear life!](https://dev.to/jareichert/hanging-on-for-dear-life-352)
+- [Dev.to/JS] [How to securely use Google API service account credentials in a public repo](https://dev.to/wilsonparson/how-to-securely-use-google-apis-service-account-credentials-in-a-public-repo-4k65)
+- [Dev.to/JS] [sonoretech.com](https://dev.to/ngoy_luckson/sonoretechcom-ko7)
+- [Dev.to/JS] [Reset Final Cut Pro &amp; Logic Pro](https://dev.to/ravics09/reset-final-cut-pro-logic-pro-h0p)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
+- [Dev.to/JS] [Day 3 of 100 days of Code](https://dev.to/nkemdev/day-4-of-100-days-of-code-4i0h)
+- [Dev.to/JS] [Making Karlson Since Dani Will Not Relese it on steam!](https://dev.to/orangedragondev/making-karlson-since-dani-will-not-relese-it-on-steam-1hko)
+- [Dev.to/JS] [How To Get Logos From Your Favorites Libraries](https://dev.to/zavbala/how-to-get-logos-from-your-favorites-libraries-kg4)
+- [Dev.to/JS] [Day 1/100, 100 Days of Code](https://dev.to/xurgg/day-001100-100-days-of-code-39e6)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
 - [Lifehacker] [How to Get a Free Upgrade to First Class &lpar;or Score the Cheapest Possible Seat&rpar;](https://lifehacker.com/how-to-get-a-free-upgrade-to-first-class-or-score-the-1848563584)
+- [Dev.to/JS] [ViacomCBS Networks Americas impulsará especialmente](https://dev.to/pame2121/viacomcbs-networks-americas-impulsara-especialmente-1c72)
+- [Dev.to/JS] [ViacomCBS Networks Americas](https://dev.to/pame2121/viacomcbs-networks-americas-1he6)
 - [Lifehacker] [Why You Should Stop Rinsing Your Mouth After Brushing](https://lifehacker.com/why-you-should-stop-rinsing-your-mouth-after-brushing-1848561063)
 - [Lifehacker] [Join the Cool Kids&#39; Club With a Dark &#39;n Stormy](https://lifehacker.com/join-the-cool-kids-club-with-a-dark-n-stormy-1848562945)
 - [Lifehacker] [15 Slasher Movies That Are Smarter Than You Think](https://lifehacker.com/15-slasher-movies-that-are-smarter-than-you-think-1848555448)
@@ -50,14 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use a Retinol Without Your Face Peeling Off](https://lifehacker.com/how-to-use-a-retinol-without-your-face-peeling-off-1848554794)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
-- [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)
-- [Crazy Programmer] [Top 10 Soft Skills for Software Developers in 2022](https://www.thecrazyprogrammer.com/2022/02/soft-skills-for-software-developers.html)
-- [Crazy Programmer] [Types of DBMS Interfaces](https://www.thecrazyprogrammer.com/2022/02/dbms-interfaces.html)
-- [Crazy Programmer] [Solve TypeError: ‘int’ object is not iterable in Python](https://www.thecrazyprogrammer.com/2022/01/typeerror-int-object-is-not-iterable.html)
-- [Crazy Programmer] [Solve “local variable referenced before assignment” Error in Python](https://www.thecrazyprogrammer.com/2022/01/local-variable-referenced-before-assignment.html)
-- [Crazy Programmer] [Database Languages in DBMS – DDL, DML, DCL, DQL](https://www.thecrazyprogrammer.com/2022/01/database-languages.html)
-- [Crazy Programmer] [What is Collision in Networking? – Detection &amp; Avoidance](https://www.thecrazyprogrammer.com/2022/01/collision-in-networking.html)
-- [Crazy Programmer] [Learning Python for Healthcare – Is Python HIPAA Compliant?](https://www.thecrazyprogrammer.com/2022/01/learning-python-for-healthcare.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
 
 ---
 
