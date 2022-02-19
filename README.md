@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build a SaaS product as a frontend developer.](https://dev.to/sewellstephens/how-to-build-a-saas-product-as-a-frontend-developer-j0n)
+- [Dev.to/JS] [I Failed...](https://dev.to/mikacodez/i-failed-4dc3)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Dev.to/JS] [Simple pattern for web back-end context](https://dev.to/bacloud22/simple-pattern-for-web-back-end-context-33ni)
 - [Dev.to/JS] [rest parameter in javascript](https://dev.to/therajatg/rest-parameter-in-javascript-2akl)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New open-source repository collation](https://dev.to/urbanhawktech/new-open-source-repository-collation-2ih8)
 - [Dev.to/JS] [Ava and React Testing Library](https://dev.to/nalanj/ava-and-react-testing-library-19da)
 - [Dev.to/JS] [Paracetamol.js💊| #59: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-59-explica-este-codigo-javascript-3ao2)
-- [Dev.to/JS] [⚡ Write your own reactivity function in 10 lines of Javascript](https://dev.to/tqbit/write-your-own-reactivity-function-in-10-lines-of-javascript-40be)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
-- [Dev.to/JS] [003/100 Days of Code: Debugging Javascript](https://dev.to/alexandrebekor/003100-days-of-code-debugging-javascript-3cfd)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
