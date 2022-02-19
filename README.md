@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple pattern for web back-end context](https://dev.to/bacloud22/simple-pattern-for-web-back-end-context-33ni)
+- [Dev.to/JS] [rest parameter in javascript](https://dev.to/therajatg/rest-parameter-in-javascript-2akl)
+- [Dev.to/JS] [Custom Context or Right Click Menu Design using HTML, CSS, and Javascript](https://dev.to/incoderweb/custom-context-or-right-click-menu-design-using-html-css-and-javascript-1mnk)
+- [Dev.to/JS] [Vue.js #2: Template Syntax](https://dev.to/ericnanhu/vuejs-2-template-syntax-5d44)
 - [Dev.to/JS] [ReactJS Tic-Tac-Toe &lpar;💥Passed Job Interview💥&rpar;](https://dev.to/frontendengineer/reactjs-tic-tac-toe-passed-job-interview-1od8)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Dev.to/JS] [Building a Queue Server in TypeScript with Deno](https://dev.to/jonbaldie/building-a-queue-server-in-typescript-with-deno-3j1b)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⚡ Write your own reactivity function in 10 lines of Javascript](https://dev.to/tqbit/write-your-own-reactivity-function-in-10-lines-of-javascript-40be)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
 - [Dev.to/JS] [003/100 Days of Code: Debugging Javascript](https://dev.to/alexandrebekor/003100-days-of-code-debugging-javascript-3cfd)
-- [Dev.to/JS] [Top 5 state management libraries for React](https://dev.to/thatanjan/top-5-state-management-libraries-for-react-7ml)
-- [Dev.to/JS] [useState vs useReducer: What are they and when to use them?](https://dev.to/m0nm/usestate-vs-usereducer-what-are-they-and-when-to-use-them-2c5c)
-- [Dev.to/JS] [Part &lpar;1&rpar;](https://dev.to/codejesse/part-1-1a75)
-- [Dev.to/JS] [HackTrack Chrome Extension](https://dev.to/deeksha_51/hacktrack-chrome-extension-2dej)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
