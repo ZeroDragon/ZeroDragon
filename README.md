@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to securely use Google API service account credentials in a public repo](https://dev.to/wilsonparson/how-to-securely-use-google-apis-service-account-credentials-in-a-public-repo-4k65)
 - [Dev.to/JS] [sonoretech.com](https://dev.to/ngoy_luckson/sonoretechcom-ko7)
 - [Dev.to/JS] [Reset Final Cut Pro &amp; Logic Pro](https://dev.to/ravics09/reset-final-cut-pro-logic-pro-h0p)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debuggando funções com mais facilidade no VSCode.](https://dev.to/juliabresolin/debuggando-funcoes-com-mais-facilidade-no-vscode-44h2)
 - [Lifehacker] [Why You Should Stop Rinsing Your Mouth After Brushing](https://lifehacker.com/why-you-should-stop-rinsing-your-mouth-after-brushing-1848561063)
 - [Lifehacker] [Join the Cool Kids&#39; Club With a Dark &#39;n Stormy](https://lifehacker.com/join-the-cool-kids-club-with-a-dark-n-stormy-1848562945)
-- [Dev.to/JS] [reduce&lpar;&rpar; method in javascript](https://dev.to/therajatg/reduce-method-in-javascript-138o)
 - [Lifehacker] [15 Slasher Movies That Are Smarter Than You Think](https://lifehacker.com/15-slasher-movies-that-are-smarter-than-you-think-1848555448)
 - [Lifehacker] [How to Wake Up If You Keep Sleeping Through Your Alarm](https://lifehacker.com/how-to-wake-up-if-you-keep-sleeping-through-your-alarm-1848563289)
 - [Lifehacker] [Stop Using These Recalled Deodorant Sprays That Have Cancer-Causing Chemicals, FDA Says](https://lifehacker.com/stop-using-these-recalled-deodorant-sprays-that-have-ca-1848562494)
