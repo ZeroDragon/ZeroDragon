@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a parallax effect when the mouse moves](https://dev.to/clementgaudiniere/create-a-parallax-effect-when-the-mouse-moves-3km0)
+- [Dev.to/JS] [What’s the 101? the useState Hook in React](https://dev.to/sleepytenor/whats-the-101-the-usestate-hook-in-react-47pl)
+- [Dev.to/JS] [Writing Scrum Toolkit #1 - Initial design](https://dev.to/meatboy/writing-scrum-toolkit-1-initial-design-4ogc)
+- [Dev.to/JS] [Why do we bind event handlers in React???](https://dev.to/azazeloss/why-do-we-bind-event-handlers-in-react-3g65)
 - [Dev.to/JS] [Unique Project Ideas to Improve Your React Skills](https://dev.to/jashanmago/unique-project-ideas-to-improve-your-react-skills-3gia)
 - [Dev.to/JS] [5 Best Crypto Exchange in USA 2022](https://dev.to/virendebro/5-best-crypto-exchange-in-usa-2022-40lb)
 - [Dev.to/JS] [Leetcode diary: 6. Zigzag Conversion](https://dev.to/kevin074/leetcode-diary-6-zigzag-conversion-464e)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Renew Dental - Dental Results, Benefits, Price And Worth The Money?](https://dev.to/renewdentalinfo/renew-dental-dental-results-benefits-price-and-worth-the-money-moj)
 - [Dev.to/JS] [Flutter: Providing non-objects.](https://dev.to/shanmathi/providing-non-objects-33j0)
 - [Dev.to/JS] [TypeScript utility types: Partial and Required](https://dev.to/dailydevtips1/typescript-utility-types-partial-and-required-1klm)
-- [Dev.to/JS] [[Javascript] Scope](https://dev.to/joylee/javascript-scope-1230)
-- [Dev.to/JS] [The Ultimate List of 7 Perfect Vue 3 UI Libraries for every project](https://dev.to/ranaharoon3222/the-ultimate-list-of-7-perfect-vue-3-ui-libraries-for-every-project-1l39)
-- [Dev.to/JS] [JSX in React](https://dev.to/shabikashab/jsx-in-react-7o2)
-- [Dev.to/JS] [Guess who&#39;s new here 🎉](https://dev.to/csfreak28/guess-whos-new-here-9pi)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
