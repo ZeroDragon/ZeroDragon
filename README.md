@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async and Await](https://dev.to/shivam164/async-and-await-d6m)
 - [Dev.to/JS] [IIS - Como implantar o seu aplicativo React.js](https://dev.to/jhonywalkeer/iis-como-implantar-o-seu-aplicativo-react-517n)
 - [Dev.to/JS] [Truly Understanding React &lpar;TUR&rpar; - Ep2 -](https://dev.to/mrpaulishaili/truly-understanding-react-tur-ep2--47ga)
 - [Dev.to/JS] [Subsets / Power Set - JavaScript Solution](https://dev.to/ggorantala/subsets-power-set-javascript-solution-734)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 3 of 100 days of Code](https://dev.to/nkemdev/day-4-of-100-days-of-code-4i0h)
 - [Dev.to/JS] [Making Karlson Since Dani Will Not Relese it on steam!](https://dev.to/orangedragondev/making-karlson-since-dani-will-not-relese-it-on-steam-1hko)
 - [Dev.to/JS] [How To Get Logos From Your Favorites Libraries](https://dev.to/zavbala/how-to-get-logos-from-your-favorites-libraries-kg4)
-- [Dev.to/JS] [Day 1/100, 100 Days of Code](https://dev.to/xurgg/day-001100-100-days-of-code-39e6)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
 - [Lifehacker] [How to Get a Free Upgrade to First Class &lpar;or Score the Cheapest Possible Seat&rpar;](https://lifehacker.com/how-to-get-a-free-upgrade-to-first-class-or-score-the-1848563584)
