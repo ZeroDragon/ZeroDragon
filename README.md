@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
+- [Dev.to/JS] [003/100 Days of Code: Debugging Javascript](https://dev.to/alexandrebekor/003100-days-of-code-debugging-javascript-3cfd)
+- [Dev.to/JS] [Top 5 state management libraries for React](https://dev.to/thatanjan/top-5-state-management-libraries-for-react-7ml)
+- [Dev.to/JS] [useState vs useReducer: What are they and when to use them?](https://dev.to/m0nm/usestate-vs-usereducer-what-are-they-and-when-to-use-them-2c5c)
 - [Dev.to/JS] [Part &lpar;1&rpar;](https://dev.to/codejesse/part-1-1a75)
 - [Dev.to/JS] [HackTrack Chrome Extension](https://dev.to/deeksha_51/hacktrack-chrome-extension-2dej)
 - [Dev.to/JS] [creating a spotify extension](https://dev.to/codejesse/creating-a-spotify-extension-40n7)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What’s the 101? the useState Hook in React](https://dev.to/sleepytenor/whats-the-101-the-usestate-hook-in-react-47pl)
 - [Dev.to/JS] [Writing Scrum Toolkit #1 - Initial design](https://dev.to/meatboy/writing-scrum-toolkit-1-initial-design-4ogc)
 - [Dev.to/JS] [Why do we bind event handlers in React???](https://dev.to/azazeloss/why-do-we-bind-event-handlers-in-react-3g65)
-- [Dev.to/JS] [Unique Project Ideas to Improve Your React Skills](https://dev.to/jashanmago/unique-project-ideas-to-improve-your-react-skills-3gia)
-- [Dev.to/JS] [5 Best Crypto Exchange in USA 2022](https://dev.to/virendebro/5-best-crypto-exchange-in-usa-2022-40lb)
-- [Dev.to/JS] [Leetcode diary: 6. Zigzag Conversion](https://dev.to/kevin074/leetcode-diary-6-zigzag-conversion-464e)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Way to Find the Cheapest Gas in Your Area](https://lifehacker.com/the-fastest-way-to-find-the-cheapest-gas-in-your-area-1848554597)
 - [Lifehacker] [Do These Things Now to Prep for Your Spring Garden](https://lifehacker.com/do-these-things-now-to-prep-for-your-spring-garden-1848555741)
 - [Lifehacker] [What Is a &#39;Vibe Shift,&#39; and Should You Be Worried About It?](https://lifehacker.com/what-is-a-vibe-shift-and-should-you-be-worried-about-i-1848554984)
-- [Lifehacker] [How to Use a Retinol Without Your Face Peeling Off](https://lifehacker.com/how-to-use-a-retinol-without-your-face-peeling-off-1848554794)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
