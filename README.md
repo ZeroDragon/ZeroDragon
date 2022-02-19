@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [creating a spotify extension](https://dev.to/codejesse/creating-a-spotify-extension-40n7)
+- [Dev.to/JS] [Javascript Nullish Coalescing operator&lpar;??&rpar;](https://dev.to/anjalyyy1/javascript-nullish-coalescing-operator-16g6)
+- [Dev.to/JS] [SvelteKit + Firebase: Authentication, protected routes, and persistent login](https://dev.to/pilcrowonpaper/sveltekit-firebase-authentication-protected-routes-and-persistent-login-dk3)
 - [Dev.to/JS] [Create a parallax effect when the mouse moves](https://dev.to/clementgaudiniere/create-a-parallax-effect-when-the-mouse-moves-3km0)
 - [Dev.to/JS] [What’s the 101? the useState Hook in React](https://dev.to/sleepytenor/whats-the-101-the-usestate-hook-in-react-47pl)
 - [Dev.to/JS] [Writing Scrum Toolkit #1 - Initial design](https://dev.to/meatboy/writing-scrum-toolkit-1-initial-design-4ogc)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leetcode diary: 6. Zigzag Conversion](https://dev.to/kevin074/leetcode-diary-6-zigzag-conversion-464e)
 - [Dev.to/JS] [모바일에서 invalid date](https://dev.to/wes5510/mobaileseo-invalid-date-oi5)
 - [Dev.to/JS] [Yjs + typegoose = yTypegoose](https://dev.to/wes5510/yjs-typegoose-ytypegoose-3b74)
-- [Dev.to/JS] [Renew Dental - Dental Results, Benefits, Price And Worth The Money?](https://dev.to/renewdentalinfo/renew-dental-dental-results-benefits-price-and-worth-the-money-moj)
-- [Dev.to/JS] [Flutter: Providing non-objects.](https://dev.to/shanmathi/providing-non-objects-33j0)
-- [Dev.to/JS] [TypeScript utility types: Partial and Required](https://dev.to/dailydevtips1/typescript-utility-types-partial-and-required-1klm)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
