@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJS Tic-Tac-Toe &lpar;💥Passed Job Interview💥&rpar;](https://dev.to/frontendengineer/reactjs-tic-tac-toe-passed-job-interview-1od8)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Dev.to/JS] [Building a Queue Server in TypeScript with Deno](https://dev.to/jonbaldie/building-a-queue-server-in-typescript-with-deno-3j1b)
 - [Dev.to/JS] [The &quot;Simple, elegant type system is all you need&quot; bias](https://dev.to/latobibor/the-simple-elegant-types-is-all-you-need-bias-47j)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useState vs useReducer: What are they and when to use them?](https://dev.to/m0nm/usestate-vs-usereducer-what-are-they-and-when-to-use-them-2c5c)
 - [Dev.to/JS] [Part &lpar;1&rpar;](https://dev.to/codejesse/part-1-1a75)
 - [Dev.to/JS] [HackTrack Chrome Extension](https://dev.to/deeksha_51/hacktrack-chrome-extension-2dej)
-- [Dev.to/JS] [creating a spotify extension](https://dev.to/codejesse/creating-a-spotify-extension-40n7)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
