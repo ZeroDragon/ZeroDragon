@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
+- [Dev.to/JS] [Feeling lonely in your coding journey? RS School will cheer you up!](https://dev.to/justannakuznetsova/feeling-lonely-in-your-coding-journey-rs-school-will-cheer-you-up-17ph)
+- [Dev.to/JS] [React Basics | Part - 3](https://dev.to/elwinjyot/react-basics-part-3-3fa5)
 - [Dev.to/JS] [Create a Reddit clone with RedwoodJS](https://dev.to/arnu515/create-a-reddit-clone-with-redwoodjs-pcp)
 - [Dev.to/JS] [Understanding Bind, Call and Apply  in Javascript](https://dev.to/elukuro/understanding-bind-call-and-apply-in-javascript-22d6)
 - [Dev.to/JS] [Hello World!](https://dev.to/jssol/hello-world-4o12)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jak zoptymalizować React Context?](https://dev.to/bartek532/jak-zoptymalizowac-react-context-4p7d)
 - [Dev.to/JS] [How to setup Node.JS for production with Babel](https://dev.to/thatanjan/how-to-setup-nodejs-for-production-with-babel-1f2d)
 - [Dev.to/JS] [AWS CDK - Building Telegram bot with AWS Lambda and API Gateway Proxy Integration - Part 2](https://dev.to/aws-builders/aws-cdk-building-telegram-bot-with-aws-lambda-and-api-gateway-proxy-integration-part-2-4e0o)
-- [Dev.to/JS] [Building a Video chat application in Remix](https://dev.to/deepcodes/building-a-video-chat-application-with-remix-and-100ms-49lf)
-- [Dev.to/JS] [CSS Clouds Animation With source code](https://dev.to/random_65/css-clouds-animation-with-source-code-3pmj)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
 - [Lifehacker] [Should You Adopt a Pet?](https://lifehacker.com/should-you-adopt-a-pet-1848557925)
 - [Lifehacker] [For Even Better Caramelized Onions, Marinate Them First](https://lifehacker.com/for-even-better-caramelized-onions-marinate-them-first-1848556726)
-- [Lifehacker] [What Are Your Best Disney World Vacation Hacks?](https://lifehacker.com/what-are-your-best-disney-world-vacation-hacks-1848556549)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
