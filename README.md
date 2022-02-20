@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State of JS 2021 Survey Results](https://dev.to/ageekdev/state-of-js-2021-survey-results-2amo)
+- [Dev.to/JS] [How to create a React app with Express from scratch](https://dev.to/justinkarso/how-to-create-a-react-app-with-express-from-scratch-3a27)
 - [Dev.to/JS] [tsParticles 1.41.3 Released](https://dev.to/matteobruni/tsparticles-1413-released-dp)
 - [Dev.to/JS] [Creating a Chai like assertion library using proxies](https://dev.to/pabloabc/creating-a-chai-like-assertion-library-using-proxies-1ol7)
 - [Dev.to/JS] [Manage Multiple Versions of Node JS using NVM](https://dev.to/caspergeek/manage-multiple-versions-of-node-js-using-nvm-4jp7)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [List of Free Stun and Turn Servers | Open Relay Project](https://dev.to/aprogrammer22/list-of-free-stun-and-turn-servers-open-relay-project-3a70)
 - [Dev.to/JS] [Creating a Provider to share state between components in React](https://dev.to/bendy/creating-a-provider-to-share-state-between-components-in-react-30bl)
 - [Dev.to/JS] [How to build a SaaS product as a frontend developer.](https://dev.to/sewellstephens/how-to-build-a-saas-product-as-a-frontend-developer-j0n)
-- [Dev.to/JS] [I Failed...](https://dev.to/mikacodez/i-failed-4dc3)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
-- [Dev.to/JS] [Simple pattern for web back-end context](https://dev.to/bacloud22/simple-pattern-for-web-back-end-context-33ni)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
