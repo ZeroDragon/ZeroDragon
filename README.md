@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create your own modern yarn cli bundle](https://dev.to/cherypick/custom-modern-yarn-bundle-29no)
+- [Dev.to/JS] [How to send mail using Nodemailer?](https://dev.to/himanshumishir/how-to-send-mail-using-nodemailer-ol5)
+- [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
+- [Dev.to/JS] [Node.js Roadmap for Beginners](https://dev.to/hellnar/nodejs-roadmap-for-beginners-25ml)
+- [Dev.to/JS] [LeetCode - Single Number II](https://dev.to/_alkesh26/leetcode-single-number-ii-340d)
+- [Dev.to/JS] [A new paradigm](https://dev.to/lexlohr/a-new-paradigm-2k5l)
 - [Dev.to/JS] [Did You Know🤔&lpar;Part-1&rpar;:-Somethings about Objects](https://dev.to/lokeshchoudharylc/did-you-knowpart-1-somethings-about-objects-me1)
 - [Dev.to/JS] [Introduction to Data Structures and Algorithms With Modern JavaScript.](https://dev.to/mmk2020/introduction-to-data-structures-and-algorithms-with-modern-javascript-fe8)
 - [Dev.to/JS] [Most Famous Javascript Libraries Updates](https://dev.to/tomaszs2/most-famous-javascript-libraries-updates-258f)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Memoization in JavaScript? And how to apply it to get better code performance.](https://dev.to/rakibrahman/memoization-in-javascript-and-how-to-apply-it-to-get-better-code-performance-5d8k)
 - [Dev.to/JS] [Run your Cypress Tests in a Github Workflow](https://dev.to/dwwhalen/run-your-cypress-tests-in-a-github-workflow-1838)
 - [Dev.to/JS] [Arrays and Array Methods in JavaScript](https://dev.to/shege/arrays-and-array-methods-in-javascript-31im)
-- [Dev.to/JS] [Weekly Digest 07/2022](https://dev.to/marcobiedermann/weekly-digest-072022-1eo9)
-- [Dev.to/JS] [Composition and inheritance in Angular](https://dev.to/this-is-angular/composition-and-inheritance-in-angular-46a)
-- [Dev.to/JS] [Vue.js #3: Event Handling, Form Input Bindings and Style Bindings](https://dev.to/ericnanhu/vuejs-3-event-handling-form-input-bindings-and-style-bindings-3l5g)
-- [Dev.to/JS] [Learning To Learn In Public](https://dev.to/chazhenricks/learning-in-public-a9b)
-- [Dev.to/JS] [The Unwritten Svelte Stores Guide](https://dev.to/jdgamble555/the-unwritten-svelte-stores-guide-47la)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in March 2022](https://lifehacker.com/whats-new-on-disney-in-march-2022-1848560957)
 - [Lifehacker] [How to Buy the Most Groceries for $50, According to Reddit](https://lifehacker.com/how-to-buy-the-most-groceries-for-50-according-to-red-1848557994)
 - [Lifehacker] [Should You Adopt a Pet?](https://lifehacker.com/should-you-adopt-a-pet-1848557925)
-- [Lifehacker] [For Even Better Caramelized Onions, Marinate Them First](https://lifehacker.com/for-even-better-caramelized-onions-marinate-them-first-1848556726)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
