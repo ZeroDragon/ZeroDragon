@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Complete flexbox Guide](https://dev.to/ganeshpatil386386/complete-flexbox-guide-1n11)
+- [Dev.to/JS] [10 awesome and useful JAVASCRIPT TRICKS and TIPS. Part 1](https://dev.to/alexruix/10-awesome-and-useful-javascript-tricks-and-tips-part-1-1d0g)
 - [Dev.to/JS] [I created a basic node module and it does the job!!](https://dev.to/acashjos/i-created-a-basic-node-module-and-it-does-the-job-15cf)
 - [Dev.to/JS] [Valid Names for CSS Parts](https://dev.to/claviska/valid-names-for-css-parts-5h7l)
 - [Dev.to/JS] [React Hooks: useRef&lpar;&rpar;](https://dev.to/fig781/react-hooks-useref-40m6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [what i need to be advanced level in React?](https://dev.to/ahmedshazly20/what-i-need-to-be-advanced-level-in-react-k2h)
 - [Dev.to/JS] [REAL ESTATE](https://dev.to/julskrilass/real-estate-14a8)
 - [Dev.to/JS] [CSS Clouds Animation With source code|](https://dev.to/random_65/css-clouds-animation-with-source-code-2d0a)
-- [Dev.to/JS] [We&#39;re Experts in Healthcare Software Development](https://dev.to/julskrilass/were-experts-in-healthcare-software-development-38i4)
-- [Dev.to/JS] [How to Avoid Default Props Render Trap in React](https://dev.to/huzaifa99/how-to-avoid-default-props-render-trap-in-react-4hon)
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
