@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Supercharge Web DX in Svelte way](https://dev.to/davipon/supercharge-web-dx-in-svelte-way-3nke)
+- [Dev.to/JS] [Leetcode diary:  75. Sort Colors](https://dev.to/kevin074/leetcode-diary-75-sort-colors-1dig)
+- [Dev.to/JS] [Multiple menu drop-downs with vanilla js](https://dev.to/wyattmarshalldev/multiple-menu-drop-downs-with-vanilla-js-29d5)
 - [Dev.to/JS] [Planning a React Application](https://dev.to/fkkarakurt/planning-a-react-application-3pe4)
 - [Dev.to/JS] [TypeScript utility types: Pick and Omit](https://dev.to/dailydevtips1/typescript-utility-types-pick-and-omit-135e)
 - [Dev.to/JS] [Creating a schematic editor within the Wagtail CMS with StimulusJS](https://dev.to/lb/creating-a-schematic-editor-within-the-wagtail-cms-with-stimulusjs-n5j)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [6 Killer Utility Functions in JavaScript](https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68)
 - [Dev.to/JS] [Organize large React Applications like this](https://dev.to/darshancodes/organize-large-react-applications-like-this-1pgk)
 - [Dev.to/JS] [5 BEST VS CODE EXTENSIONS TO IMPROVE  YOUR CODING.](https://dev.to/arundukes/5-best-vs-code-extensions-to-improve-your-coding-5cgk)
-- [Dev.to/JS] [My Basic React Router 6 Setup](https://dev.to/mhx/my-basic-react-router-6-setup-58c7)
-- [Dev.to/JS] [Component Testing in Svelte](https://dev.to/thisdotmedia/component-testing-in-svelte-2bjn)
-- [Dev.to/JS] [Animations in Svelte](https://dev.to/thisdotmedia/animations-in-svelte-2blm)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
