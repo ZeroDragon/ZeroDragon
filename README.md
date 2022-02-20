@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Reddit clone with RedwoodJS](https://dev.to/arnu515/create-a-reddit-clone-with-redwoodjs-pcp)
+- [Dev.to/JS] [Understanding Bind, Call and Apply  in Javascript](https://dev.to/elukuro/understanding-bind-call-and-apply-in-javascript-22d6)
+- [Dev.to/JS] [Hello World!](https://dev.to/jssol/hello-world-4o12)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
 - [Dev.to/JS] [7 Habits Of Highly Effective Developers](https://dev.to/nickycdk/7-habits-of-highly-effective-developers-267m)
 - [Dev.to/JS] [Responsive Accordion Design using HTML, CSS, and Javascript](https://dev.to/incoderweb/responsive-accordion-design-using-html-css-and-javascript-gpm)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AWS CDK - Building Telegram bot with AWS Lambda and API Gateway Proxy Integration - Part 2](https://dev.to/aws-builders/aws-cdk-building-telegram-bot-with-aws-lambda-and-api-gateway-proxy-integration-part-2-4e0o)
 - [Dev.to/JS] [Building a Video chat application in Remix](https://dev.to/deepcodes/building-a-video-chat-application-with-remix-and-100ms-49lf)
 - [Dev.to/JS] [CSS Clouds Animation With source code](https://dev.to/random_65/css-clouds-animation-with-source-code-3pmj)
-- [Dev.to/JS] [How to use Jsonp in your  project.](https://dev.to/oumaymasghayer/how-to-use-jsonp-in-your-project-c0m)
-- [Dev.to/JS] [JAVASCRIPT 101: INTRODUCTION TO MODERN JAVASCRIPT](https://dev.to/oraio/javascript-101-introduction-to-modern-javascript-1fhk)
-- [Dev.to/JS] [Best Github Repository for ReactJS](https://dev.to/vismay03/best-github-repository-for-reactjs-3dlg)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
