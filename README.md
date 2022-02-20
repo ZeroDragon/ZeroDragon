@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Run your Cypress Tests in a Github Workflow](https://dev.to/dwwhalen/run-your-cypress-tests-in-a-github-workflow-1838)
+- [Dev.to/JS] [Arrays and Array Methods in JavaScript](https://dev.to/shege/arrays-and-array-methods-in-javascript-31im)
+- [Dev.to/JS] [Weekly Digest 07/2022](https://dev.to/marcobiedermann/weekly-digest-072022-1eo9)
+- [Dev.to/JS] [Composition and inheritance in Angular](https://dev.to/danywalls/composition-and-inheritance-in-angular-46a)
+- [Dev.to/JS] [Vue.js #3: Event Handling, Form Input Bindings and Style Bindings](https://dev.to/ericnanhu/vuejs-3-event-handling-form-input-bindings-and-style-bindings-3l5g)
+- [Dev.to/JS] [Learning To Learn In Public](https://dev.to/chazhenricks/learning-in-public-a9b)
+- [Dev.to/JS] [The Unwritten Svelte Stores Guide](https://dev.to/jdgamble555/the-unwritten-svelte-stores-guide-47la)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Dev.to/JS] [Feeling lonely in your coding journey? RS School will cheer you up!](https://dev.to/justannakuznetsova/feeling-lonely-in-your-coding-journey-rs-school-will-cheer-you-up-17ph)
 - [Dev.to/JS] [React Basics | Part - 3](https://dev.to/elwinjyot/react-basics-part-3-3fa5)
@@ -30,13 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Bind, Call and Apply  in Javascript](https://dev.to/elukuro/understanding-bind-call-and-apply-in-javascript-22d6)
 - [Dev.to/JS] [Hello World!](https://dev.to/jssol/hello-world-4o12)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
-- [Dev.to/JS] [7 Habits Of Highly Effective Developers](https://dev.to/nickycdk/7-habits-of-highly-effective-developers-267m)
-- [Dev.to/JS] [Responsive Accordion Design using HTML, CSS, and Javascript](https://dev.to/incoderweb/responsive-accordion-design-using-html-css-and-javascript-gpm)
-- [Dev.to/JS] [Finding Remote Job/Internship](https://dev.to/mdriyajulkabir/finding-remote-jobinternship-450l)
-- [Dev.to/JS] [Setting up and using the reduxjs toolkit &lpar;RTK&rpar;](https://dev.to/abhidatta0/setting-up-and-using-the-reduxjs-toolkit-rtk-20g2)
-- [Dev.to/JS] [Jak zoptymalizować React Context?](https://dev.to/bartek532/jak-zoptymalizowac-react-context-4p7d)
-- [Dev.to/JS] [How to setup Node.JS for production with Babel](https://dev.to/thatanjan/how-to-setup-nodejs-for-production-with-babel-1f2d)
-- [Dev.to/JS] [AWS CDK - Building Telegram bot with AWS Lambda and API Gateway Proxy Integration - Part 2](https://dev.to/aws-builders/aws-cdk-building-telegram-bot-with-aws-lambda-and-api-gateway-proxy-integration-part-2-4e0o)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
