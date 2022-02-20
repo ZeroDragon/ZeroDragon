@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Basic React Router 6 Setup](https://dev.to/mhx/my-basic-react-router-6-setup-58c7)
+- [Dev.to/JS] [Component Testing in Svelte](https://dev.to/thisdotmedia/component-testing-in-svelte-2bjn)
+- [Dev.to/JS] [Animations in Svelte](https://dev.to/thisdotmedia/animations-in-svelte-2blm)
+- [Dev.to/JS] [Learning from The Odin Project.](https://dev.to/henchman4/learning-from-the-odin-project-4241)
 - [Dev.to/JS] [Day 2/100, 100 Days of Code](https://dev.to/xurgg/day-2100-100-days-of-code-4cen)
 - [Dev.to/JS] [Decoding Binary - 3 Different Ways](https://dev.to/carlyraejepsenstan/decoding-binary-3-different-ways-6i1)
 - [Dev.to/JS] [State of JS 2021 Survey Results](https://dev.to/ageekdev/state-of-js-2021-survey-results-2amo)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Chai like assertion library using proxies](https://dev.to/pabloabc/creating-a-chai-like-assertion-library-using-proxies-1ol7)
 - [Dev.to/JS] [Manage Multiple Versions of Node JS using NVM](https://dev.to/caspergeek/manage-multiple-versions-of-node-js-using-nvm-4jp7)
 - [Dev.to/JS] [Creating a Link-Sharing Site Part 0](https://dev.to/adamjhawley/creating-a-link-sharing-site-part-0-2f2j)
-- [Dev.to/JS] [Planning a React Application](https://dev.to/fkkarakurt/planning-a-reactapplication-1bk6)
-- [Dev.to/JS] [JavaScript code puzzle: convert a Boolean to Number](https://dev.to/jankapunkt/javascript-code-puzzle-convert-a-boolean-to-number-3e81)
-- [Dev.to/JS] [Google Docs with Next.js](https://dev.to/j471n/google-docs-with-nextjs-2g0i)
-- [Dev.to/JS] [List of Free Stun and Turn Servers | Open Relay Project](https://dev.to/aprogrammer22/list-of-free-stun-and-turn-servers-open-relay-project-3a70)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
