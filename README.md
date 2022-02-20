@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 2/100, 100 Days of Code](https://dev.to/xurgg/day-2100-100-days-of-code-4cen)
 - [Dev.to/JS] [Decoding Binary - 3 Different Ways](https://dev.to/carlyraejepsenstan/decoding-binary-3-different-ways-6i1)
 - [Dev.to/JS] [State of JS 2021 Survey Results](https://dev.to/ageekdev/state-of-js-2021-survey-results-2amo)
 - [Dev.to/JS] [How to create a React app with Express from scratch](https://dev.to/justinkarso/how-to-create-a-react-app-with-express-from-scratch-3a27)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript code puzzle: convert a Boolean to Number](https://dev.to/jankapunkt/javascript-code-puzzle-convert-a-boolean-to-number-3e81)
 - [Dev.to/JS] [Google Docs with Next.js](https://dev.to/j471n/google-docs-with-nextjs-2g0i)
 - [Dev.to/JS] [List of Free Stun and Turn Servers | Open Relay Project](https://dev.to/aprogrammer22/list-of-free-stun-and-turn-servers-open-relay-project-3a70)
-- [Dev.to/JS] [Creating a Provider to share state between components in React](https://dev.to/bendy/creating-a-provider-to-share-state-between-components-in-react-30bl)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
