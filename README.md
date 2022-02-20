@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a schematic editor within the Wagtail CMS with StimulusJS](https://dev.to/lb/creating-a-schematic-editor-within-the-wagtail-cms-with-stimulusjs-n5j)
+- [Dev.to/JS] [Node Js File System](https://dev.to/shabikashab/node-js-file-system-dl7)
 - [Dev.to/JS] [How to Setup and Integrate Umami to Your Next.js Site](https://dev.to/yehezkielgunawan/how-to-setup-and-integrate-umami-to-your-nextjs-site-ahf)
 - [Dev.to/JS] [Miracle Money Magnets](https://dev.to/shiv99/miracle-money-magnets-4m09)
 - [Dev.to/JS] [6 Killer Utility Functions in JavaScript](https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animations in Svelte](https://dev.to/thisdotmedia/animations-in-svelte-2blm)
 - [Dev.to/JS] [Learning from The Odin Project.](https://dev.to/henchman4/learning-from-the-odin-project-4241)
 - [Dev.to/JS] [Day 2/100, 100 Days of Code](https://dev.to/xurgg/day-2100-100-days-of-code-4cen)
-- [Dev.to/JS] [Decoding Binary - 3 Different Ways](https://dev.to/carlyraejepsenstan/decoding-binary-3-different-ways-6i1)
-- [Dev.to/JS] [State of JS 2021 Survey Results](https://dev.to/ageekdev/state-of-js-2021-survey-results-2amo)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
