@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS Clouds Animation With source code](https://dev.to/random_65/css-clouds-animation-with-source-code-3pmj)
+- [Dev.to/JS] [How to use Jsonp in your  project.](https://dev.to/oumaymasghayer/how-to-use-jsonp-in-your-project-c0m)
+- [Dev.to/JS] [JAVASCRIPT 101: INTRODUCTION TO MODERN JAVASCRIPT](https://dev.to/oraio/javascript-101-introduction-to-modern-javascript-1fhk)
 - [Dev.to/JS] [Best Github Repository for ReactJS](https://dev.to/vismay03/best-github-repository-for-reactjs-3dlg)
 - [Dev.to/JS] [Need contributers](https://dev.to/aromal15/need-contributers-flb)
 - [Dev.to/JS] [JavaScript puzzle - get length of an Array without using length](https://dev.to/jankapunkt/javascript-puzzle-get-length-of-an-array-without-using-length-56en)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Track everything with qrforeverything](https://dev.to/jayesh_hathila/track-everything-with-qrforeverything-1mig)
 - [Dev.to/JS] [Supercharge Web DX in Svelte way](https://dev.to/davipon/supercharge-web-dx-in-svelte-way-3nke)
 - [Dev.to/JS] [Leetcode diary:  75. Sort Colors](https://dev.to/kevin074/leetcode-diary-75-sort-colors-1dig)
-- [Dev.to/JS] [Multiple menu drop-downs with vanilla js](https://dev.to/wyattmarshalldev/multiple-menu-drop-downs-with-vanilla-js-29d5)
-- [Dev.to/JS] [Planning a React Application](https://dev.to/fkkarakurt/planning-a-react-application-3pe4)
-- [Dev.to/JS] [TypeScript utility types: Pick and Omit](https://dev.to/dailydevtips1/typescript-utility-types-pick-and-omit-135e)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
