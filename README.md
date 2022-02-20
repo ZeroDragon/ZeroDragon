@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Setup and Integrate Umami to Your Next.js Site](https://dev.to/yehezkielgunawan/how-to-setup-and-integrate-umami-to-your-nextjs-site-ahf)
+- [Dev.to/JS] [Miracle Money Magnets](https://dev.to/shiv99/miracle-money-magnets-4m09)
+- [Dev.to/JS] [6 Killer Utility Functions in JavaScript](https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68)
+- [Dev.to/JS] [Organize large React Applications like this](https://dev.to/darshancodes/organize-large-react-applications-like-this-1pgk)
+- [Dev.to/JS] [5 BEST VS CODE EXTENSIONS TO IMPROVE  YOUR CODING.](https://dev.to/arundukes/5-best-vs-code-extensions-to-improve-your-coding-5cgk)
 - [Dev.to/JS] [My Basic React Router 6 Setup](https://dev.to/mhx/my-basic-react-router-6-setup-58c7)
 - [Dev.to/JS] [Component Testing in Svelte](https://dev.to/thisdotmedia/component-testing-in-svelte-2bjn)
 - [Dev.to/JS] [Animations in Svelte](https://dev.to/thisdotmedia/animations-in-svelte-2blm)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 2/100, 100 Days of Code](https://dev.to/xurgg/day-2100-100-days-of-code-4cen)
 - [Dev.to/JS] [Decoding Binary - 3 Different Ways](https://dev.to/carlyraejepsenstan/decoding-binary-3-different-ways-6i1)
 - [Dev.to/JS] [State of JS 2021 Survey Results](https://dev.to/ageekdev/state-of-js-2021-survey-results-2amo)
-- [Dev.to/JS] [How to create a React app with Express from scratch](https://dev.to/justinkarso/how-to-create-a-react-app-with-express-from-scratch-3a27)
-- [Dev.to/JS] [tsParticles 1.41.3 Released](https://dev.to/matteobruni/tsparticles-1413-released-dp)
-- [Dev.to/JS] [Creating a Chai like assertion library using proxies](https://dev.to/pabloabc/creating-a-chai-like-assertion-library-using-proxies-1ol7)
-- [Dev.to/JS] [Manage Multiple Versions of Node JS using NVM](https://dev.to/caspergeek/manage-multiple-versions-of-node-js-using-nvm-4jp7)
-- [Dev.to/JS] [Creating a Link-Sharing Site Part 0](https://dev.to/adamjhawley/creating-a-link-sharing-site-part-0-2f2j)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
