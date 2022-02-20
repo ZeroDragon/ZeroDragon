@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [tsParticles 1.41.3 Released](https://dev.to/matteobruni/tsparticles-1413-released-dp)
 - [Dev.to/JS] [Creating a Chai like assertion library using proxies](https://dev.to/pabloabc/creating-a-chai-like-assertion-library-using-proxies-1ol7)
 - [Dev.to/JS] [Manage Multiple Versions of Node JS using NVM](https://dev.to/caspergeek/manage-multiple-versions-of-node-js-using-nvm-4jp7)
 - [Dev.to/JS] [Creating a Link-Sharing Site Part 0](https://dev.to/adamjhawley/creating-a-link-sharing-site-part-0-2f2j)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Failed...](https://dev.to/mikacodez/i-failed-4dc3)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Dev.to/JS] [Simple pattern for web back-end context](https://dev.to/bacloud22/simple-pattern-for-web-back-end-context-33ni)
-- [Dev.to/JS] [rest parameter in javascript](https://dev.to/therajatg/rest-parameter-in-javascript-2akl)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
