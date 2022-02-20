@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [what i need to be advanced level in React?](https://dev.to/ahmedshazly20/what-i-need-to-be-advanced-level-in-react-k2h)
+- [Dev.to/JS] [REAL ESTATE](https://dev.to/julskrilass/real-estate-14a8)
+- [Dev.to/JS] [CSS Clouds Animation With source code|](https://dev.to/random_65/css-clouds-animation-with-source-code-2d0a)
+- [Dev.to/JS] [We&#39;re Experts in Healthcare Software Development](https://dev.to/julskrilass/were-experts-in-healthcare-software-development-38i4)
+- [Dev.to/JS] [How to Avoid Default Props Render Trap in React](https://dev.to/huzaifa99/how-to-avoid-default-props-render-trap-in-react-4hon)
 - [Dev.to/JS] [How to create your own modern yarn cli bundle](https://dev.to/cherypick/custom-modern-yarn-bundle-29no)
 - [Dev.to/JS] [How to send mail using Nodemailer?](https://dev.to/himanshumishir/how-to-send-mail-using-nodemailer-ol5)
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A new paradigm](https://dev.to/lexlohr/a-new-paradigm-2k5l)
 - [Dev.to/JS] [Did You Know🤔&lpar;Part-1&rpar;:-Somethings about Objects](https://dev.to/lokeshchoudharylc/did-you-knowpart-1-somethings-about-objects-me1)
 - [Dev.to/JS] [Introduction to Data Structures and Algorithms With Modern JavaScript.](https://dev.to/mmk2020/introduction-to-data-structures-and-algorithms-with-modern-javascript-fe8)
-- [Dev.to/JS] [Most Famous Javascript Libraries Updates](https://dev.to/tomaszs2/most-famous-javascript-libraries-updates-258f)
-- [Dev.to/JS] [Javascript Errors: An Overview](https://dev.to/smpnjn/javascript-errors-an-overview-1e6a)
-- [Dev.to/JS] [Memoization in JavaScript? And how to apply it to get better code performance.](https://dev.to/rakibrahman/memoization-in-javascript-and-how-to-apply-it-to-get-better-code-performance-5d8k)
-- [Dev.to/JS] [Run your Cypress Tests in a Github Workflow](https://dev.to/dwwhalen/run-your-cypress-tests-in-a-github-workflow-1838)
-- [Dev.to/JS] [Arrays and Array Methods in JavaScript](https://dev.to/shege/arrays-and-array-methods-in-javascript-31im)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
