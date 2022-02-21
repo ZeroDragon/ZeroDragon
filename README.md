@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding text alignment to Trix](https://dev.to/paramagicdev/adding-text-alignment-to-trix-ilp)
+- [Dev.to/JS] [Test your app success best Formula](https://dev.to/codeurabou/test-your-app-success-best-formula-4ccb)
+- [Dev.to/JS] [Day 4 of 100 Days of Code](https://dev.to/nkemdev/day-4-of-100-days-of-code-oan)
 - [Dev.to/JS] [Introduction to Data Structures and Algorithms With Modern JavaScript](https://dev.to/kwizeral/introduction-to-data-structures-and-algorithms-with-modern-javascript-4eae)
 - [Dev.to/JS] [Android Games with Capacitor and JavaScript](https://dev.to/excaliburjs/android-games-with-capacitor-and-javascript-fac)
 - [Dev.to/JS] [Notificationbanner - React Native Base Component [Deutsch]](https://dev.to/gismo1337/notificationbanner-react-native-base-component-deutsch-4ok6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Data Structures and Algorithms with Modern JavaScript](https://dev.to/alvinimbua/introduction-to-data-structures-and-algorithms-with-modern-javascript-5313)
 - [Dev.to/JS] [Introduction to Data Structures and Algorithms With Modern JavaScript](https://dev.to/davidmutinda/introduction-to-data-structures-and-algorithms-with-modern-javascript-2mhh)
 - [Dev.to/JS] [Top 3 New UI Kits For Your Next React Project](https://dev.to/zavbala/top-3-new-ui-kits-for-your-next-react-project-374p)
-- [Dev.to/JS] [Ng-News: Issue 21/07](https://dev.to/rainerhahnekamp/ng-news-issue-2107-33hh)
-- [Dev.to/JS] [Build your own React.js - Part 4. State Updates](https://dev.to/rinatrezyapov/build-your-own-reactjs-part-4-state-updates-5doi)
-- [Dev.to/JS] [Simplified: Implementing fontawesome &lpar;free version&rpar; into a React Project](https://dev.to/mrpaulishaili/simplified-implementing-fontawesome-free-version-into-a-react-project-4d33)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
