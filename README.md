@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#004: The Week In Stories —AI-driven fruit growing to SaaS bridge](https://dev.to/dottedsquirrel/004-the-week-in-stories-ai-driven-fruit-growing-to-saas-bridge-33a3)
+- [Dev.to/JS] [¿De donde salió esto?](https://dev.to/vamoacodear/de-donde-salio-esto-1f7l)
+- [Dev.to/JS] [Figuring out the Best Abstraction](https://dev.to/belokond/figuring-out-the-best-abstraction-ch8)
 - [Dev.to/JS] [tsParticles 1.41.4 Released](https://dev.to/matteobruni/tsparticles-1414-released-dge)
 - [Dev.to/JS] [Day 8 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#221.Maximal Square&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-8-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem221maximal-squaremediumjavascript-4bgf)
 - [Dev.to/JS] [Complete flexbox Guide](https://dev.to/ganeshpatil386386/complete-flexbox-guide-1n11)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hooks: useRef&lpar;&rpar;](https://dev.to/fig781/react-hooks-useref-40m6)
 - [Dev.to/JS] [Amplify, React and Typescript](https://dev.to/swalker326/amplify-react-and-typescript-197i)
 - [Dev.to/JS] [Tips &amp; Tricks that will make you a better ReactJS Developer](https://dev.to/naira_gezhoyan/tips-tricks-that-will-make-you-a-better-reactjs-developer-4pan)
-- [Dev.to/JS] [An Introductory Guide To Concurrent Rendering](https://dev.to/keraito/an-introductory-guide-to-concurrent-rendering-54e6)
-- [Dev.to/JS] [Beginners Guide to Typescript and Will It Replace JavaScript in the Future](https://dev.to/petronijevicm/beginners-guide-to-typescript-and-will-it-replace-javascript-in-the-future-349n)
-- [Dev.to/JS] [what i need to be advanced level in React?](https://dev.to/ahmedshazly20/what-i-need-to-be-advanced-level-in-react-k2h)
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
