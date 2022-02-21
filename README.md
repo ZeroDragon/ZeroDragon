@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JAVASCRIPT SPREAD OPERATOR](https://dev.to/asapsonter/javascript-spread-operator-45ph)
+- [Dev.to/JS] [Var vs Const vs Let มันต่างกันยังไงนะ ?](https://dev.to/alternativeboy/lets-create-own-snippets-on-vscode-1co3)
 - [Dev.to/JS] [State of JS 2021 Results and Analysis](https://dev.to/asyncbanana/state-of-js-2021-results-and-analysis-5mj)
 - [Dev.to/JS] [寫給想跳坑的 JS 新手&lpar;Part I&rpar;](https://dev.to/aryung/xie-gei-xiang-tiao-keng-de-js-xin-shou-part-i-22pn)
 - [Dev.to/JS] [Spread syntax in JavaScript](https://dev.to/therajatg/spread-syntax-in-javascript-1jk2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Figuring out the Best Abstraction](https://dev.to/belokond/figuring-out-the-best-abstraction-ch8)
 - [Dev.to/JS] [tsParticles 1.41.4 Released](https://dev.to/matteobruni/tsparticles-1414-released-dge)
 - [Dev.to/JS] [Day 8 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#221.Maximal Square&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-8-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem221maximal-squaremediumjavascript-4bgf)
-- [Dev.to/JS] [Complete flexbox Guide](https://dev.to/ganeshpatil386386/complete-flexbox-guide-1n11)
-- [Dev.to/JS] [10 awesome and useful JAVASCRIPT TRICKS and TIPS. Part 1](https://dev.to/alexruix/10-awesome-and-useful-javascript-tricks-and-tips-part-1-1d0g)
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
