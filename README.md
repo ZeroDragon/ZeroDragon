@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developing an authentication system in Java+Tarantool](https://dev.to/tarantool/developing-an-authentication-system-in-javatarantool-35oh)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🎁.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1ie8)
+- [Dev.to/JS] [Mock Service Worker adopts a brand-new request interception algorithm for Node.js.](https://dev.to/kettanaito/mock-service-worker-adopts-a-brand-new-request-interception-algorithm-for-nodejs-3hj9)
 - [Dev.to/JS] [How to Secure your NodeJs Express Javascript Application - part 2](https://dev.to/smartscanner/how-to-secure-your-nodejs-express-javascript-application-part-2-1oah)
 - [Dev.to/JS] [Introduction to Data Structures and Algorithms With Modern JavaScript](https://dev.to/danielobare/introduction-to-data-structures-and-algorithms-with-modern-javascript-fi0)
 - [Dev.to/JS] [Future Javascript: Records and Tuples](https://dev.to/smpnjn/future-javascript-records-and-tuples-14fk)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What the heck is useReducer Hook](https://dev.to/sobhandash/what-the-heck-is-usereducer-hook-46bi)
 - [Dev.to/JS] [Introduction to Data Structures and Algorithms With Modern JavaScript.](https://dev.to/mwovi/introduction-to-data-structures-and-algorithms-with-modern-javascript-2ofb)
 - [Dev.to/JS] [These are the top free driving directions and map websites as well as mobile applications.](https://dev.to/fizzparent/these-are-the-top-free-driving-directions-and-map-websites-as-well-as-mobile-applications-3kkb)
-- [Dev.to/JS] [Integrate Data Sources with Pub-Sub using Gateway Framework](https://dev.to/push_technology/integrate-data-sources-with-pub-sub-using-gateway-framework-n38)
-- [Dev.to/JS] [Authenticate third-party API&#39;s in Next.js using HttpOnly cookies and axios interceptors](https://dev.to/khenhey/authenticate-third-party-apis-in-nextjs-using-httponly-cookies-and-axios-interceptors-4coh)
-- [Dev.to/JS] [Responsive Sidebar Menu Design using HTML, CSS, and Javascript](https://dev.to/incoderweb/responsive-sidebar-menu-design-using-html-css-and-javascript-3gbd)
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
