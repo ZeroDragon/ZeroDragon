@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 9 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#26.Remove Duplicates from Sorted Array&lpar;Easy/JS&rpar;](https://dev.to/corndog_com567/day-9-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem26remove-duplicates-from-sorted-arrayeasyjs-2fnm)
+- [Dev.to/JS] [Truly Understanding React &lpar;TUR&rpar; - Ep3](https://dev.to/mrpaulishaili/truly-understanding-react-tur-ep3-4gn4)
 - [Dev.to/JS] [#004: The Week In Stories —AI-driven fruit growing to SaaS bridge](https://dev.to/dottedsquirrel/004-the-week-in-stories-ai-driven-fruit-growing-to-saas-bridge-33a3)
 - [Dev.to/JS] [¿De dónde nació esto?](https://dev.to/vamoacodear/de-donde-salio-esto-1f7l)
 - [Dev.to/JS] [Figuring out the Best Abstraction](https://dev.to/belokond/figuring-out-the-best-abstraction-ch8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created a basic node module and it does the job!!](https://dev.to/acashjos/i-created-a-basic-node-module-and-it-does-the-job-15cf)
 - [Dev.to/JS] [Valid Names for CSS Parts](https://dev.to/claviska/valid-names-for-css-parts-5h7l)
 - [Dev.to/JS] [React Hooks: useRef&lpar;&rpar;](https://dev.to/fig781/react-hooks-useref-40m6)
-- [Dev.to/JS] [Amplify, React and Typescript](https://dev.to/swalker326/amplify-react-and-typescript-197i)
-- [Dev.to/JS] [Tips &amp; Tricks that will make you a better ReactJS Developer](https://dev.to/naira_gezhoyan/tips-tricks-that-will-make-you-a-better-reactjs-developer-4pan)
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
