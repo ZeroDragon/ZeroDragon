@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#37 - Row of the odd triangle - CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/37-row-of-the-odd-triangle-codewars-kata-6-kyu-54e8)
+- [Dev.to/JS] [Var vs Const vs Let what is different ?](https://dev.to/alternativeboy/var-vs-const-vs-let-what-is-different--2pfn)
+- [Dev.to/JS] [COUNTDOWN TIMER USING HTML, CSS AND JAVASCRIPT](https://dev.to/sameer8saini/countdown-timer-using-html-css-and-javascript-22d3)
+- [Dev.to/JS] [Open Speech Corpus - Self Hosted and Open Source Tool to Collect and Validate Voice Samples.](https://dev.to/vikasbukhari/open-speech-corpus-self-hosted-and-open-source-tool-to-collect-and-validate-voice-samples-2la3)
 - [Dev.to/JS] [JAVASCRIPT SPREAD OPERATOR](https://dev.to/asapsonter/javascript-spread-operator-45ph)
 - [Dev.to/JS] [Var vs Const vs Let มันต่างกันยังไงนะ ?](https://dev.to/alternativeboy/lets-create-own-snippets-on-vscode-1co3)
 - [Dev.to/JS] [State of JS 2021 Results and Analysis](https://dev.to/asyncbanana/state-of-js-2021-results-and-analysis-5mj)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 9 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#26.Remove Duplicates from Sorted Array&lpar;Easy/JS&rpar;](https://dev.to/corndog_com567/day-9-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem26remove-duplicates-from-sorted-arrayeasyjs-2fnm)
 - [Dev.to/JS] [Truly Understanding React &lpar;TUR&rpar; - Ep3](https://dev.to/mrpaulishaili/truly-understanding-react-tur-ep3-4gn4)
 - [Dev.to/JS] [#004: The Week In Stories —AI-driven fruit growing to SaaS bridge](https://dev.to/dottedsquirrel/004-the-week-in-stories-ai-driven-fruit-growing-to-saas-bridge-33a3)
-- [Dev.to/JS] [¿De dónde nació esto?](https://dev.to/vamoacodear/de-donde-salio-esto-1f7l)
-- [Dev.to/JS] [Figuring out the Best Abstraction](https://dev.to/belokond/figuring-out-the-best-abstraction-ch8)
-- [Dev.to/JS] [tsParticles 1.41.4 Released](https://dev.to/matteobruni/tsparticles-1414-released-dge)
-- [Dev.to/JS] [Day 8 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#221.Maximal Square&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-8-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem221maximal-squaremediumjavascript-4bgf)
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
