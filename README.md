@@ -24,7 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [#004: The Week In Stories —AI-driven fruit growing to SaaS bridge](https://dev.to/dottedsquirrel/004-the-week-in-stories-ai-driven-fruit-growing-to-saas-bridge-33a3)
-- [Dev.to/JS] [¿De donde salió esto?](https://dev.to/vamoacodear/de-donde-salio-esto-1f7l)
+- [Dev.to/JS] [¿De dónde nació esto?](https://dev.to/vamoacodear/de-donde-salio-esto-1f7l)
 - [Dev.to/JS] [Figuring out the Best Abstraction](https://dev.to/belokond/figuring-out-the-best-abstraction-ch8)
 - [Dev.to/JS] [tsParticles 1.41.4 Released](https://dev.to/matteobruni/tsparticles-1414-released-dge)
 - [Dev.to/JS] [Day 8 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#221.Maximal Square&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-8-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem221maximal-squaremediumjavascript-4bgf)
