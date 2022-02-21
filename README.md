@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Portals in React.js with a practical example](https://dev.to/jordandev/portals-in-reactjs-with-a-practical-example-1id4)
+- [Dev.to/JS] [My Journey To Being a Web Developer](https://dev.to/effiemmanuel/my-journey-to-being-a-web-developer-1194)
+- [Dev.to/JS] [An overview to functions in JS](https://dev.to/dpak1999/an-overview-to-functions-in-js-5f16)
+- [Dev.to/JS] [Auto Generating Post Thumbnails with Node.JS](https://dev.to/smpnjn/auto-generating-post-thumbnails-with-nodejs-1g49)
 - [Dev.to/JS] [Principle&#39;s of  Automation Testing](https://dev.to/varenya/principles-of-automation-testing-4oaj)
 - [Dev.to/JS] [Introduction to Data Structures and Algorithms with Modern JavaScript](https://dev.to/amandasuzzanne/introduction-to-data-structures-and-algorithms-with-modern-javascript-457k)
 - [Dev.to/JS] [Day-28 Training at Ryaz](https://dev.to/mahin651/day-28-training-at-ryaz-3bjg)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Examine text | Text analyzer tool created with Tailwind CSS only.](https://dev.to/gauravsoni97/examine-text-text-analyzer-with-tailwind-css-only-1a97)
 - [Dev.to/JS] [JS Ternary Operator X Leet code](https://dev.to/skywrithin/js-ternary-operator-x-leet-code-2180)
 - [Dev.to/JS] [How I REACTO To Algos: Pig Latin](https://dev.to/amhernandez/how-i-reacto-to-algos-17l)
-- [Dev.to/JS] [How I Built and Deployed my First Open-Source NPM Library](https://dev.to/jithen/how-i-built-and-deployed-my-first-open-source-npm-library-3da8)
-- [Dev.to/JS] [Darkmode Switch - React Native Base Component [Deutsch]](https://dev.to/gismo1337/darkmode-switch-react-native-base-component-deutsch-153e)
-- [Dev.to/JS] [Why everyone should stop using particles.js right now](https://dev.to/matteobruni/why-everyone-should-stop-using-particlesjs-right-now-5eb6)
-- [Dev.to/JS] [Answer: JS Array.filter Method Returns an Empty Array](https://dev.to/speedingroo/answer-filter-method-return-empty-array-2aei)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
