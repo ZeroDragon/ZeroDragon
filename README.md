@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to mock and spy on AWS-SDK calls with jest](https://dev.to/jan_grz/how-to-mock-and-spy-on-aws-sdk-calls-with-jest-c35)
+- [Dev.to/JS] [JavaScript Data Structures and Algorithm.](https://dev.to/independence/javascript-data-structures-and-algorithm-1ad6)
+- [Dev.to/JS] [JavaScript: Number conversions using parseInt&lpar;&rpar; and toString&lpar;&rpar;](https://dev.to/mlgvla/javascript-number-conversions-using-parseint-and-tostring-7fm)
+- [Dev.to/JS] [Introduction to Data Structures and Algorithms with Modern JavaScript](https://dev.to/alvinimbua/introduction-to-data-structures-and-algorithms-with-modern-javascript-5313)
+- [Dev.to/JS] [Introduction to Data Structures and Algorithms With Modern JavaScript](https://dev.to/davidmutinda/introduction-to-data-structures-and-algorithms-with-modern-javascript-2mhh)
 - [Dev.to/JS] [Top 3 New UI Kits For Your Next React Project](https://dev.to/zavbala/top-3-new-ui-kits-for-your-next-react-project-374p)
 - [Dev.to/JS] [Ng-News: Issue 21/07](https://dev.to/rainerhahnekamp/ng-news-issue-2107-33hh)
 - [Dev.to/JS] [Build your own React.js - Part 4. State Updates](https://dev.to/rinatrezyapov/build-your-own-reactjs-part-4-state-updates-5doi)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is there any way to match the html one field data with the Google sheet column.](https://dev.to/m7s8n6/is-there-any-way-to-match-the-html-one-field-data-with-the-google-sheet-column-58l2)
 - [Dev.to/JS] [Introduction To Data Structures and Algorithms with JavaScript](https://dev.to/lizaatis1/introduction-to-data-structures-and-algorithms-with-javascript-5d26)
 - [Dev.to/JS] [Space Invaders meet ConfigCat and MelonJS](https://dev.to/manuelpopa/space-invaders-meet-configcat-and-melonjs-1o52)
-- [Dev.to/JS] [Using JSDoc](https://dev.to/krowemoh/using-jsdoc-5ck2)
-- [Dev.to/JS] [4 Ways to Handle Async Operations in Javascript](https://dev.to/mohamedmayallo/4-ways-to-handle-async-operations-in-javascript-4n1l)
-- [Dev.to/JS] [How to stringify and parse a graph](https://dev.to/ppoulard/how-to-stringify-and-parse-a-graph-25oa)
-- [Dev.to/JS] [Data Structures and algorithims in Javascript](https://dev.to/marrie/data-structures-and-algorithim-in-javascript-4p7n)
-- [Dev.to/JS] [Portals in React.js with a practical example](https://dev.to/jordandev/portals-in-reactjs-with-a-practical-example-1id4)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
