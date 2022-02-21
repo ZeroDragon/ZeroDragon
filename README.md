@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 Ways to Handle Async Operations in Javascript](https://dev.to/mohamedmayallo/4-ways-to-handle-async-operations-in-javascript-4n1l)
+- [Dev.to/JS] [How to stringify and parse a graph](https://dev.to/ppoulard/how-to-stringify-and-parse-a-graph-25oa)
+- [Dev.to/JS] [Data Structures and algorithims in Javascript](https://dev.to/marrie/data-structures-and-algorithim-in-javascript-4p7n)
 - [Dev.to/JS] [Portals in React.js with a practical example](https://dev.to/jordandev/portals-in-reactjs-with-a-practical-example-1id4)
+- [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Dev.to/JS] [My Journey To Being a Web Developer](https://dev.to/effiemmanuel/my-journey-to-being-a-web-developer-1194)
 - [Dev.to/JS] [An overview to functions in JS](https://dev.to/dpak1999/an-overview-to-functions-in-js-5f16)
 - [Dev.to/JS] [Auto Generating Post Thumbnails with Node.JS](https://dev.to/smpnjn/auto-generating-post-thumbnails-with-nodejs-1g49)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why do I use Atomic Design?](https://dev.to/armankuanysh/why-do-i-use-atomic-design-gdl)
 - [Dev.to/JS] [WP-Job-Manager der De-Facto-Standard in Jobboards: see themes, plugins and more](https://dev.to/wpfan2099/wp-job-manager-der-de-facto-standard-in-jobboards-see-themes-plugins-and-more-4iph)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
-- [Dev.to/JS] [Examine text | Text analyzer tool created with Tailwind CSS only.](https://dev.to/gauravsoni97/examine-text-text-analyzer-with-tailwind-css-only-1a97)
-- [Dev.to/JS] [JS Ternary Operator X Leet code](https://dev.to/skywrithin/js-ternary-operator-x-leet-code-2180)
-- [Dev.to/JS] [How I REACTO To Algos: Pig Latin](https://dev.to/amhernandez/how-i-reacto-to-algos-17l)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Animal Accounts We All Should Be Following on Social Media](https://lifehacker.com/11-animal-accounts-we-all-should-be-following-on-social-1848557589)
 - [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
 - [Lifehacker] [What to Do If a Possum Gets in Your House](https://lifehacker.com/what-to-do-if-a-possum-gets-in-your-house-1848559122)
-- [Lifehacker] [What&#39;s New on Disney+ in March 2022](https://lifehacker.com/whats-new-on-disney-in-march-2022-1848560957)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
