@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Data Structures and Algorithms With Modern JavaScript](https://dev.to/kwizeral/introduction-to-data-structures-and-algorithms-with-modern-javascript-4eae)
+- [Dev.to/JS] [Android Games with Capacitor and JavaScript](https://dev.to/excaliburjs/android-games-with-capacitor-and-javascript-fac)
+- [Dev.to/JS] [Notificationbanner - React Native Base Component [Deutsch]](https://dev.to/gismo1337/notificationbanner-react-native-base-component-deutsch-4ok6)
 - [Dev.to/JS] [How to mock and spy on AWS-SDK calls with jest](https://dev.to/jan_grz/how-to-mock-and-spy-on-aws-sdk-calls-with-jest-c35)
 - [Dev.to/JS] [JavaScript Data Structures and Algorithm.](https://dev.to/independence/javascript-data-structures-and-algorithm-1ad6)
 - [Dev.to/JS] [JavaScript: Number conversions using parseInt&lpar;&rpar; and toString&lpar;&rpar;](https://dev.to/mlgvla/javascript-number-conversions-using-parseint-and-tostring-7fm)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ng-News: Issue 21/07](https://dev.to/rainerhahnekamp/ng-news-issue-2107-33hh)
 - [Dev.to/JS] [Build your own React.js - Part 4. State Updates](https://dev.to/rinatrezyapov/build-your-own-reactjs-part-4-state-updates-5doi)
 - [Dev.to/JS] [Simplified: Implementing fontawesome &lpar;free version&rpar; into a React Project](https://dev.to/mrpaulishaili/simplified-implementing-fontawesome-free-version-into-a-react-project-4d33)
-- [Dev.to/JS] [Is there any way to match the html one field data with the Google sheet column.](https://dev.to/m7s8n6/is-there-any-way-to-match-the-html-one-field-data-with-the-google-sheet-column-58l2)
-- [Dev.to/JS] [Introduction To Data Structures and Algorithms with JavaScript](https://dev.to/lizaatis1/introduction-to-data-structures-and-algorithms-with-javascript-5d26)
-- [Dev.to/JS] [Space Invaders meet ConfigCat and MelonJS](https://dev.to/manuelpopa/space-invaders-meet-configcat-and-melonjs-1o52)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
