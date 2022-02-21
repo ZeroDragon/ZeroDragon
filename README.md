@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Secure your NodeJs Express Javascript Application - part 2](https://dev.to/smartscanner/how-to-secure-your-nodejs-express-javascript-application-part-2-1oah)
+- [Dev.to/JS] [Introduction to Data Structures and Algorithms With Modern JavaScript](https://dev.to/danielobare/introduction-to-data-structures-and-algorithms-with-modern-javascript-fi0)
+- [Dev.to/JS] [Future Javascript: Records and Tuples](https://dev.to/smpnjn/future-javascript-records-and-tuples-14fk)
 - [Dev.to/JS] [Version 💯 of Chrome, Edge, and Firefox may break your website](https://dev.to/liviufromendtest/version-of-chrome-edge-and-firefox-may-break-your-website-3ilb)
 - [Dev.to/JS] [Navbar React js](https://dev.to/galinalk/navbar-react-js-12dl)
 - [Dev.to/JS] [Settings Switch saves in Localestore as React Native Base Component](https://dev.to/gismo1337/settings-switch-saves-in-localestore-as-react-native-base-component-41ck)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrate Data Sources with Pub-Sub using Gateway Framework](https://dev.to/push_technology/integrate-data-sources-with-pub-sub-using-gateway-framework-n38)
 - [Dev.to/JS] [Authenticate third-party API&#39;s in Next.js using HttpOnly cookies and axios interceptors](https://dev.to/khenhey/authenticate-third-party-apis-in-nextjs-using-httponly-cookies-and-axios-interceptors-4coh)
 - [Dev.to/JS] [Responsive Sidebar Menu Design using HTML, CSS, and Javascript](https://dev.to/incoderweb/responsive-sidebar-menu-design-using-html-css-and-javascript-3gbd)
-- [Dev.to/JS] [One Trick to Master JavaScript &lpar;Short&rpar;](https://dev.to/elliot_brenyasarfo_18749/one-trick-to-master-javascript-short-4d9n)
-- [Dev.to/JS] [Frontend: IDE we love!](https://dev.to/jnp95/frontend-ide-we-love-39hn)
-- [Dev.to/JS] [4 ways of finding elements in a JavaScript Array](https://dev.to/anshuman_bhardwaj/4-ways-of-finding-elements-in-a-javascript-array-5g09)
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
