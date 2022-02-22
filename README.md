@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
+- [Dev.to/JS] [Interactive Jigglypuff with SVG &amp; GSAP](https://dev.to/_nicofonseca/interactive-jigglypuff-1429)
+- [Dev.to/JS] [Create A Portfolio Website: Part Four](https://dev.to/ericnanhu/create-a-portfolio-website-part-four-1mjl)
+- [Lifehacker] [14 of the Sketchiest Parenting Tricks That Actually Work, According to Lifehacker Readers](https://lifehacker.com/14-of-the-sketchiest-parenting-tricks-that-actually-wor-1848572594)
+- [Dev.to/JS] [Migratory Birds &lpar;HackerRank - JavaScript Solution&rpar;](https://dev.to/hokagedemehin/migratory-birds-hackerrank-javascript-solution-293l)
+- [Dev.to/JS] [Find what JavaScript variables are leaking into the global scope](https://dev.to/mmazzarolo/find-what-javascript-variables-are-leaking-into-the-global-scope-1aik)
+- [Dev.to/JS] [Here are a few ways to merge array](https://dev.to/codewithsnowbit/here-are-a-few-ways-to-merge-array-28il)
+- [Dev.to/JS] [Making a google chrome extension](https://dev.to/jordandev/making-a-google-chrome-extension-1j4m)
+- [Dev.to/JS] [Comparing Gatsby and Next.js for website development](https://dev.to/alex_barashkov/comparing-gatsby-and-nextjs-for-website-development-13b7)
 - [Lifehacker] [You Should Definitely Make Sticky Honey Tots in Your Air Fryer](https://lifehacker.com/you-should-definitely-make-sticky-honey-tots-in-your-ai-1848573234)
 - [Dev.to/JS] [We made a free JS library to quickly access professional data on people and companies](https://dev.to/peopledatalabs/we-made-a-free-js-library-to-quickly-access-professional-data-on-people-and-companies-39j1)
 - [Dev.to/JS] [Creating and deploying a tiny proxy server on Vercel in 10 minutes](https://dev.to/mmazzarolo/creating-and-deploying-a-tiny-proxy-server-on-vercel-in-10-minutes-3am1)
@@ -31,14 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend: Node.js &amp;&amp;/|| EJS?](https://dev.to/sonnystark/frontend-nodejs-ejs-1113)
 - [Dev.to/JS] [Pasting screenshots takes way longer than pasting image files](https://dev.to/haggen/pasting-screenshots-takes-way-longer-than-pasting-image-files-2kb7)
 - [Lifehacker] [Is It Ever a Good Idea to Buy Used Tires?](https://lifehacker.com/is-it-ever-a-good-idea-to-buy-used-tires-1848564353)
-- [Dev.to/JS] [State of Frontend 2022](https://dev.to/mkkowalski7/state-of-frontend-2022-6dh)
-- [Dev.to/JS] [Reduces many uses](https://dev.to/sethcalebweeks/reduces-many-uses-57dl)
-- [Dev.to/JS] [JavaScript - toUpperCase and toLowerCase methods](https://dev.to/thenerdydev/javascript-touppercase-and-tolowercase-methods-1m1i)
-- [Dev.to/JS] [Checkout my new project🎀](https://dev.to/agarwalamn/checkout-my-new-project-3h8e)
-- [Dev.to/JS] [Paracetamol.js💊| #61: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-61-explica-este-codigo-javascript-304g)
 - [Lifehacker] [Why Sitting on the Ground Can Be Good for Your Health](https://lifehacker.com/why-sitting-on-the-ground-can-be-good-for-your-health-1848563060)
-- [Dev.to/JS] [Routing in Express.js](https://dev.to/akhtar02/routing-in-expressjs-40b2)
-- [Dev.to/JS] [Previewing your posts — how to build the best decoupled content management workflow for your static site](https://dev.to/whitep4nth3r/previewing-your-posts-how-to-build-the-best-decoupled-content-management-workflow-for-your-static-site-3ehk)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
@@ -59,10 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using These Recalled Deodorant Sprays That Have Cancer-Causing Chemicals, FDA Says](https://lifehacker.com/stop-using-these-recalled-deodorant-sprays-that-have-ca-1848562494)
 - [Lifehacker] [Is It Legal to Jailbreak a Video Game Console?](https://lifehacker.com/is-it-legal-to-jailbreak-a-video-game-console-1848558154)
 - [Lifehacker] [15 Modern Pixel Art Games Everyone Must Play](https://lifehacker.com/15-modern-pixel-art-games-everyone-must-play-1848562768)
-- [Lifehacker] [How Long Can You Wait Before Upgrading Your Phone?](https://lifehacker.com/how-long-can-you-wait-before-upgrading-your-phone-1848561946)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
-- [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
-- [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
 ---
 
