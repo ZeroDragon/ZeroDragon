@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript vs vanilla JavaScript for your next project](https://dev.to/antoncodes/typescript-vs-vanilla-javascript-for-your-next-project-37l3)
+- [Dev.to/JS] [Testing your Solid.js code in vitest](https://dev.to/lexlohr/testing-your-solidjs-code-in-vitest-6dh)
+- [Dev.to/JS] [Build a PDF invoice template using only typescript and jspdf-autotable](https://dev.to/maxwelladn/build-a-pdf-invoice-template-using-only-typescript-and-jspdf-autotable-25gn)
+- [Dev.to/JS] [Почему и как нужно транспилировать зависимости](https://dev.to/dangreen/pochiemu-i-kak-nuzhno-transpilirovat-zavisimosti-5ceb)
 - [Dev.to/JS] [มาเล่น Tailwind CSS กับ Angular กัน](https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-328p)
 - [Dev.to/JS] [The Tuple Type in Typescript](https://dev.to/this-is-learning/the-tuple-type-in-typescript-nb7)
 - [Dev.to/JS] [Let&#39;s play Tailwind CSS with Angular](https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-2i1b)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PT TRIM FAT BURN: CUSTOMER REVIEW AND WARNINGS FOR NEW BUYER? MUST READ](https://dev.to/jbriefert/pt-trim-fat-burn-customer-review-and-warnings-for-new-buyer-must-read-3hgb)
 - [Dev.to/JS] [Keravita Pro - Nail Fungus Results, Uses, Reviews And Ingredients](https://dev.to/keravitaproinfo/keravita-pro-nail-fungus-results-uses-reviews-and-ingredients-30d2)
 - [Dev.to/JS] [How to use Copilot to deploy projects on ECS](https://dev.to/alichherawalla/how-to-use-copilot-to-deploy-projects-on-ecs-22ab)
-- [Dev.to/JS] [React Basics | Part - 4](https://dev.to/elwinjyot/react-basics-part-4-bab)
-- [Dev.to/JS] [Yugasa Software Labs | Best Mobile App Development Company in Gurgaon](https://dev.to/yugasasoftware/yugasa-software-labs-best-mobile-app-development-company-in-gurgaon-3131)
-- [Dev.to/JS] [unit conversion using javascript](https://dev.to/shijug/unit-conversion-using-javascript-5361)
-- [Dev.to/JS] [Pre-Rendering In NextJs](https://dev.to/sidak/pre-rendering-in-nextjs-5h96)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
