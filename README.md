@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Software and Security Updates on Your Old iPhone](https://lifehacker.com/how-to-get-software-and-security-updates-on-your-old-ip-1848574450)
+- [Dev.to/JS] [Everything ingenious is simple, and everything simple is ingenious](https://dev.to/ogruzglina/everything-ingenious-is-simple-and-everything-simple-is-ingenious-14do)
+- [Dev.to/JS] [How v-if and v-else work in Vue](https://dev.to/smpnjn/how-v-if-and-v-else-work-in-vue-10ll)
+- [Lifehacker] [6 of the Easiest Breathing Exercises to Help Relieve Your Anxiety and Stress](https://lifehacker.com/6-of-the-easiest-breathing-exercises-to-help-relieve-yo-1848571019)
+- [Dev.to/JS] [Day-29 Training at Ryaz](https://dev.to/mahin651/day-29-training-at-ryaz-3jcd)
+- [Dev.to/JS] [Vue al rescate de AngularJS apps](https://dev.to/rholo/vue-al-rescate-de-angularjs-apps-3oj)
+- [Dev.to/JS] [Get Screen Resolution | Screen Size using html &amp; JavaScript](https://dev.to/codinghindi/get-screen-resolution-screen-size-using-html-javascript-4bff)
+- [Lifehacker] [Can a Rebound Relationship Ever Work?](https://lifehacker.com/can-a-rebound-relationship-ever-work-1848575326)
+- [Dev.to/JS] [Node js behind the scenes!](https://dev.to/arorachakit/node-js-behind-the-scenes-3e7c)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Dev.to/JS] [Interactive Jigglypuff with SVG &amp; GSAP](https://dev.to/_nicofonseca/interactive-jigglypuff-1429)
 - [Dev.to/JS] [Create A Portfolio Website: Part Four](https://dev.to/ericnanhu/create-a-portfolio-website-part-four-1mjl)
@@ -31,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Find what JavaScript variables are leaking into the global scope](https://dev.to/mmazzarolo/find-what-javascript-variables-are-leaking-into-the-global-scope-1aik)
 - [Dev.to/JS] [Here are a few ways to merge array](https://dev.to/codewithsnowbit/here-are-a-few-ways-to-merge-array-28il)
 - [Dev.to/JS] [Making a google chrome extension](https://dev.to/jordandev/making-a-google-chrome-extension-1j4m)
-- [Dev.to/JS] [Comparing Gatsby and Next.js for website development](https://dev.to/alex_barashkov/comparing-gatsby-and-nextjs-for-website-development-13b7)
 - [Lifehacker] [You Should Definitely Make Sticky Honey Tots in Your Air Fryer](https://lifehacker.com/you-should-definitely-make-sticky-honey-tots-in-your-ai-1848573234)
-- [Dev.to/JS] [We made a free JS library to quickly access professional data on people and companies](https://dev.to/peopledatalabs/we-made-a-free-js-library-to-quickly-access-professional-data-on-people-and-companies-39j1)
-- [Dev.to/JS] [Creating and deploying a tiny proxy server on Vercel in 10 minutes](https://dev.to/mmazzarolo/creating-and-deploying-a-tiny-proxy-server-on-vercel-in-10-minutes-3am1)
 - [Lifehacker] [How to Watch International Netflix With a VPN](https://lifehacker.com/how-to-watch-international-netflix-with-a-vpn-1848564804)
-- [Dev.to/JS] [User Authentication in Next.js with Strapi](https://dev.to/strapi/user-authentication-in-nextjs-with-strapi-37ai)
-- [Dev.to/JS] [Frontend: Node.js &amp;&amp;/|| EJS?](https://dev.to/sonnystark/frontend-nodejs-ejs-1113)
-- [Dev.to/JS] [Pasting screenshots takes way longer than pasting image files](https://dev.to/haggen/pasting-screenshots-takes-way-longer-than-pasting-image-files-2kb7)
 - [Lifehacker] [Is It Ever a Good Idea to Buy Used Tires?](https://lifehacker.com/is-it-ever-a-good-idea-to-buy-used-tires-1848564353)
 - [Lifehacker] [Why Sitting on the Ground Can Be Good for Your Health](https://lifehacker.com/why-sitting-on-the-ground-can-be-good-for-your-health-1848563060)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Join the Cool Kids&#39; Club With a Dark &#39;n Stormy](https://lifehacker.com/join-the-cool-kids-club-with-a-dark-n-stormy-1848562945)
 - [Lifehacker] [15 Slasher Movies That Are Smarter Than You Think](https://lifehacker.com/15-slasher-movies-that-are-smarter-than-you-think-1848555448)
 - [Lifehacker] [How to Wake Up If You Keep Sleeping Through Your Alarm](https://lifehacker.com/how-to-wake-up-if-you-keep-sleeping-through-your-alarm-1848563289)
-- [Lifehacker] [Stop Using These Recalled Deodorant Sprays That Have Cancer-Causing Chemicals, FDA Says](https://lifehacker.com/stop-using-these-recalled-deodorant-sprays-that-have-ca-1848562494)
-- [Lifehacker] [Is It Legal to Jailbreak a Video Game Console?](https://lifehacker.com/is-it-legal-to-jailbreak-a-video-game-console-1848558154)
-- [Lifehacker] [15 Modern Pixel Art Games Everyone Must Play](https://lifehacker.com/15-modern-pixel-art-games-everyone-must-play-1848562768)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
