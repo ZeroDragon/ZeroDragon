@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make a ReactJS app](https://dev.to/griphcode/how-to-make-a-reactjs-app-1hn7)
+- [Dev.to/JS] [JAVASCRIPT 102: INTRODUCTION TO DATA STRUCTURES AND ALGORITHMS WITH MODERN JAVASCRIPT](https://dev.to/oraio/javascript-102-introduction-to-data-structures-and-algorithms-with-modern-javascript-3il1)
+- [Dev.to/JS] [Words-Per-Minute Calculator](https://dev.to/wyattmarshalldev/words-per-minute-calculator-4gl1)
 - [Dev.to/JS] [Adding text alignment to Trix](https://dev.to/paramagicdev/adding-text-alignment-to-trix-ilp)
 - [Dev.to/JS] [Test your app success best Formula](https://dev.to/codeurabou/test-your-app-success-best-formula-4ccb)
 - [Dev.to/JS] [Day 4 of 100 Days of Code](https://dev.to/nkemdev/day-4-of-100-days-of-code-oan)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to mock and spy on AWS-SDK calls with jest](https://dev.to/jan_grz/how-to-mock-and-spy-on-aws-sdk-calls-with-jest-c35)
 - [Dev.to/JS] [JavaScript Data Structures and Algorithm.](https://dev.to/independence/javascript-data-structures-and-algorithm-1ad6)
 - [Dev.to/JS] [JavaScript: Number conversions using parseInt&lpar;&rpar; and toString&lpar;&rpar;](https://dev.to/mlgvla/javascript-number-conversions-using-parseint-and-tostring-7fm)
-- [Dev.to/JS] [Introduction to Data Structures and Algorithms with Modern JavaScript](https://dev.to/alvinimbua/introduction-to-data-structures-and-algorithms-with-modern-javascript-5313)
-- [Dev.to/JS] [Introduction to Data Structures and Algorithms With Modern JavaScript](https://dev.to/davidmutinda/introduction-to-data-structures-and-algorithms-with-modern-javascript-2mhh)
-- [Dev.to/JS] [Top 3 New UI Kits For Your Next React Project](https://dev.to/zavbala/top-3-new-ui-kits-for-your-next-react-project-374p)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
