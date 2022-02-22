@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Functions: Learn by Demand](https://dev.to/mpfdev/javascript-functions-learn-by-demand-1641)
+- [Dev.to/JS] [Free JavaScript Coding Classes/Courses – For Beginners [2022 Guide]](https://dev.to/codeslinger/free-javascript-coding-classescourses-for-beginners-2022-guide-5hmf)
+- [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
+- [Dev.to/JS] [How to patch browsers to  become modern OS?](https://dev.to/avdpro/how-to-patch-browsers-to-become-modern-os-2ckb)
 - [Dev.to/JS] [Laravel 8 Ecommerce Development](https://dev.to/adeleyeayodeji/laravel-8-ecommerce-development-3185)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
 - [Dev.to/JS] [Who Doesn&#39;t Love a Petting Zoo?](https://dev.to/lyzarddz/who-doesnt-love-a-petting-zoo-g5h)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automatic Deployment con Github Webhooks](https://dev.to/g0nza/automatic-deployment-con-github-webhooks-ppi)
 - [Lifehacker] [Your Next Batch of Pancakes Deserves This Ultimate Maple Butter](https://lifehacker.com/your-next-batch-of-pancakes-deserves-this-ultimate-mapl-1848577214)
 - [Dev.to/JS] [Computers run code, but humans read it!](https://dev.to/tguzmani/computers-run-code-but-humans-read-it-hle)
-- [Dev.to/JS] [Best Code Editor](https://dev.to/tanwi2209/best-code-editor-14jn)
-- [Dev.to/JS] [This Week In React #95: onRecoverableError, Next.js, Remix, ReactNode, Fabric, Flipper, Expo, React-Runner, State Of JS...](https://dev.to/sebastienlorber/this-week-in-react-95-onrecoverableerror-nextjs-remix-reactnode-fabric-flipper-expo-react-runner-state-of-js-2ncd)
 - [Lifehacker] [9 Default Chrome Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/9-default-chrome-settings-you-should-change-if-you-care-1848561036)
-- [Dev.to/JS] [Dashboard - Validações e formatação](https://dev.to/devgirlsmentor/dashboard-validacoes-e-formatacao-l3b)
 - [Lifehacker] [How to Re-Enter the Workforce After Stay-at-Home Parenting &lpar;Without Losing Your Mind&rpar;](https://lifehacker.com/how-to-re-enter-the-workforce-after-stay-at-home-parent-1848560882)
 - [Lifehacker] [17 of the All-Time Best Working-Class Sitcoms](https://lifehacker.com/17-of-the-all-time-best-working-class-sitcoms-1848567495)
 - [Lifehacker] [How to Get Software and Security Updates on Your Old iPhone](https://lifehacker.com/how-to-get-software-and-security-updates-on-your-old-ip-1848574450)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
-- [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
