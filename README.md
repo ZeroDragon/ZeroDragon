@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s How Plant-Based &#39;Meats&#39; Stack Up, Nutritionally](https://lifehacker.com/heres-how-plant-based-meats-stack-up-nutritionally-1848577417)
+- [Dev.to/JS] [I love talking to you, webpage!](https://dev.to/domizajac/i-love-talking-to-you-webpage-3m9o)
+- [Dev.to/JS] [Tutorial: Ethereum BlockChain Development &lpar;4&rpar;](https://dev.to/yongchanghe/tutorial-ethereum-blockchain-development-4-3poc)
+- [Dev.to/JS] [Fairy Tales, and the Implications of Immutability](https://dev.to/parenttobias/fairy-tales-and-the-implications-of-immutability-375l)
+- [Dev.to/JS] [Drive a Tesla Cybertruck or literally any car on your browser with Threejs](https://dev.to/jaagrav/drive-a-tesla-cybertruck-or-literally-any-car-on-your-browser-with-threejs-4ila)
+- [Lifehacker] [How to Recover From a Breakup](https://lifehacker.com/how-to-recover-from-a-breakup-1848577331)
+- [Dev.to/JS] [Automatic Deployment con Github Webhooks](https://dev.to/g0nza/automatic-deployment-con-github-webhooks-ppi)
+- [Lifehacker] [Your Next Batch of Pancakes Deserves This Ultimate Maple Butter](https://lifehacker.com/your-next-batch-of-pancakes-deserves-this-ultimate-mapl-1848577214)
 - [Dev.to/JS] [Computers run code, but humans read it!](https://dev.to/tguzmani/computers-run-code-but-humans-read-it-hle)
 - [Dev.to/JS] [Best Code Editor](https://dev.to/tanwi2209/best-code-editor-14jn)
 - [Dev.to/JS] [This Week In React #95: onRecoverableError, Next.js, Remix, ReactNode, Fabric, Flipper, Expo, React-Runner, State Of JS...](https://dev.to/sebastienlorber/this-week-in-react-95-onrecoverableerror-nextjs-remix-reactnode-fabric-flipper-expo-react-runner-state-of-js-2ncd)
@@ -32,14 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Re-Enter the Workforce After Stay-at-Home Parenting &lpar;Without Losing Your Mind&rpar;](https://lifehacker.com/how-to-re-enter-the-workforce-after-stay-at-home-parent-1848560882)
 - [Dev.to/JS] [A Beginner&#39;s Guide to HTTP - Part 3: Requests](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-3-requests-63)
 - [Dev.to/JS] [Next.js on-demand revalidation is here! 🚀](https://dev.to/pul/nextjs-on-demand-revalidation-is-here-51e2)
-- [Dev.to/JS] [Use useState + constructor? &lpar;is it viable?&rpar;](https://dev.to/bup_legend/utilizar-usestate-constructor-e-viavel-hj5)
 - [Lifehacker] [17 of the All-Time Best Working-Class Sitcoms](https://lifehacker.com/17-of-the-all-time-best-working-class-sitcoms-1848567495)
-- [Dev.to/JS] [How to set up a one-page check-out flow in Next.js](https://dev.to/medusajs/how-to-set-up-a-one-page-check-out-flow-in-nextjs-jah)
 - [Lifehacker] [How to Get Software and Security Updates on Your Old iPhone](https://lifehacker.com/how-to-get-software-and-security-updates-on-your-old-ip-1848574450)
-- [Dev.to/JS] [Everything ingenious is simple, and everything simple is ingenious](https://dev.to/ogruzglina/everything-ingenious-is-simple-and-everything-simple-is-ingenious-14do)
-- [Dev.to/JS] [How v-if and v-else work in Vue](https://dev.to/smpnjn/how-v-if-and-v-else-work-in-vue-10ll)
 - [Lifehacker] [6 of the Easiest Breathing Exercises to Help Relieve Your Anxiety and Stress](https://lifehacker.com/6-of-the-easiest-breathing-exercises-to-help-relieve-yo-1848571019)
-- [Dev.to/JS] [Day-29 Training at Ryaz](https://dev.to/mahin651/day-29-training-at-ryaz-3jcd)
 - [Lifehacker] [Can a Rebound Relationship Ever Work?](https://lifehacker.com/can-a-rebound-relationship-ever-work-1848575326)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Lifehacker] [14 of the Sketchiest Parenting Tricks That Actually Work, According to Lifehacker Readers](https://lifehacker.com/14-of-the-sketchiest-parenting-tricks-that-actually-wor-1848572594)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
 - [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
 - [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
-- [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
-- [Lifehacker] [How to Get a Free Upgrade to First Class &lpar;or Score the Cheapest Possible Seat&rpar;](https://lifehacker.com/how-to-get-a-free-upgrade-to-first-class-or-score-the-1848563584)
-- [Lifehacker] [Why You Should Stop Rinsing Your Mouth After Brushing](https://lifehacker.com/why-you-should-stop-rinsing-your-mouth-after-brushing-1848561063)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
