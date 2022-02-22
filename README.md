@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State of Frontend 2022](https://dev.to/mkkowalski7/state-of-frontend-2022-6dh)
+- [Dev.to/JS] [Pasting screenshots takes way longer than pasting image files](https://dev.to/haggen/reading-screenshots-from-a-paste-event-briefly-freezes-the-browser-469e)
+- [Dev.to/JS] [Reduces many uses](https://dev.to/sethcalebweeks/reduces-many-uses-57dl)
+- [Dev.to/JS] [JavaScript - toUpperCase and toLowerCase methods](https://dev.to/thenerdydev/javascript-touppercase-and-tolowercase-methods-1m1i)
+- [Dev.to/JS] [Checkout my new project🎀](https://dev.to/agarwalamn/checkout-my-new-project-3h8e)
+- [Dev.to/JS] [Paracetamol.js💊| #61: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-61-explica-este-codigo-javascript-304g)
+- [Lifehacker] [Why Sitting on the Ground Can Be Good for Your Health](https://lifehacker.com/why-sitting-on-the-ground-can-be-good-for-your-health-1848563060)
 - [Dev.to/JS] [Routing in Express.js](https://dev.to/akhtar02/routing-in-expressjs-40b2)
 - [Dev.to/JS] [Previewing your posts — how to build the best decoupled content management workflow for your static site](https://dev.to/whitep4nth3r/previewing-your-posts-how-to-build-the-best-decoupled-content-management-workflow-for-your-static-site-3ehk)
 - [Dev.to/JS] [Achieving AWS MSP compliance: a workshop report.](https://dev.to/kreuzwerker/achieving-aws-msp-compliance-a-workshop-report-2alp)
 - [Dev.to/JS] [Javascript Array Methods Ep.2](https://dev.to/theadeshkhanna/javascript-array-methods-ep2-ek4)
 - [Dev.to/JS] [Why Vue JS is the Best Front End Development Framework to choose for 2022?](https://dev.to/eluminoustech/why-vue-js-is-the-best-front-end-development-framework-to-choose-for-2022-4imm)
 - [Dev.to/JS] [How to improve your code quality with ternary,AND,OR operators](https://dev.to/zougari47/how-to-improve-your-code-quality-with-ternaryandor-operators-210k)
-- [Dev.to/JS] [Using getElementsByName Method in Javascript](https://dev.to/jamiemcmanus/using-getelementsbyname-method-in-javascript-1jo0)
-- [Dev.to/JS] [No more confusion — Splice vs Slice in Javascript](https://dev.to/urstrulyvishwak/no-more-confusion-splice-vs-slice-in-javascript-1i2g)
-- [Dev.to/JS] [MAM: build frontend without pain](https://dev.to/ninjin/mam-build-frontend-without-pain-57gm)
-- [Dev.to/JS] [Practical Problems and Solutions in Angular](https://dev.to/pawankkumawat/practical-problems-and-solutions-in-angular-4ka2)
-- [Dev.to/JS] [How to implement a tracking log output location plugin?](https://dev.to/yxw007/how-to-implement-a-tracking-log-output-location-plugin-15fk)
-- [Dev.to/JS] [Drive a Tesla Cybertruck or literally any car on your browser with Threejs](https://dev.to/jaagrav/drive-a-tesla-cybertruck-or-literally-any-car-on-your-browser-with-threejs-2af4)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Ninja?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-ni-1848562160)
 - [Lifehacker] [11 Animal Accounts We All Should Be Following on Social Media](https://lifehacker.com/11-animal-accounts-we-all-should-be-following-on-social-1848557589)
 - [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
-- [Lifehacker] [What to Do If a Possum Gets in Your House](https://lifehacker.com/what-to-do-if-a-possum-gets-in-your-house-1848559122)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
