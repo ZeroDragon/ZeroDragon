@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel 8 Ecommerce Development](https://dev.to/adeleyeayodeji/laravel-8-ecommerce-development-3185)
+- [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
+- [Dev.to/JS] [Who Doesn&#39;t Love a Petting Zoo?](https://dev.to/lyzarddz/who-doesnt-love-a-petting-zoo-g5h)
+- [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
+- [Dev.to/JS] [Build a realtime websocket UI using SvelteKit](https://dev.to/tonyhb/build-a-realtime-websocket-ui-using-sveltekit-4jf3)
 - [Lifehacker] [Here&#39;s How Plant-Based &#39;Meats&#39; Stack Up, Nutritionally](https://lifehacker.com/heres-how-plant-based-meats-stack-up-nutritionally-1848577417)
 - [Dev.to/JS] [I love talking to you, webpage!](https://dev.to/domizajac/i-love-talking-to-you-webpage-3m9o)
 - [Dev.to/JS] [Tutorial: Ethereum BlockChain Development &lpar;4&rpar;](https://dev.to/yongchanghe/tutorial-ethereum-blockchain-development-4-3poc)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This Week In React #95: onRecoverableError, Next.js, Remix, ReactNode, Fabric, Flipper, Expo, React-Runner, State Of JS...](https://dev.to/sebastienlorber/this-week-in-react-95-onrecoverableerror-nextjs-remix-reactnode-fabric-flipper-expo-react-runner-state-of-js-2ncd)
 - [Lifehacker] [9 Default Chrome Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/9-default-chrome-settings-you-should-change-if-you-care-1848561036)
 - [Dev.to/JS] [Dashboard - Validações e formatação](https://dev.to/devgirlsmentor/dashboard-validacoes-e-formatacao-l3b)
-- [Dev.to/JS] [Is JavaScript good or bad for beginners?](https://dev.to/curiousdev/is-javascript-good-or-bad-for-beginners-5011)
 - [Lifehacker] [How to Re-Enter the Workforce After Stay-at-Home Parenting &lpar;Without Losing Your Mind&rpar;](https://lifehacker.com/how-to-re-enter-the-workforce-after-stay-at-home-parent-1848560882)
-- [Dev.to/JS] [A Beginner&#39;s Guide to HTTP - Part 3: Requests](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-3-requests-63)
-- [Dev.to/JS] [Next.js on-demand revalidation is here! 🚀](https://dev.to/pul/nextjs-on-demand-revalidation-is-here-51e2)
 - [Lifehacker] [17 of the All-Time Best Working-Class Sitcoms](https://lifehacker.com/17-of-the-all-time-best-working-class-sitcoms-1848567495)
 - [Lifehacker] [How to Get Software and Security Updates on Your Old iPhone](https://lifehacker.com/how-to-get-software-and-security-updates-on-your-old-ip-1848574450)
 - [Lifehacker] [6 of the Easiest Breathing Exercises to Help Relieve Your Anxiety and Stress](https://lifehacker.com/6-of-the-easiest-breathing-exercises-to-help-relieve-yo-1848571019)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
 - [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Lifehacker] [What the Hell Is &#39;Reverse Spring&#39;?](https://lifehacker.com/what-the-hell-is-reverse-spring-1848564259)
-- [Lifehacker] [What&#39;s New on Hulu in March 2022](https://lifehacker.com/whats-new-on-hulu-in-march-2022-1848564030)
-- [Lifehacker] [&#39;Clean,&#39; &#39;Processed,&#39; and Other Meaningless Nutrition Buzzwords You Should Ignore](https://lifehacker.com/clean-processed-and-other-meaningless-nutrition-buzzw-1848564480)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
