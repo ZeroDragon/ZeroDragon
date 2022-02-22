@@ -23,8 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Definitely Make Sticky Honey Tots in Your Air Fryer](https://lifehacker.com/you-should-definitely-make-sticky-honey-tots-in-your-ai-1848573234)
+- [Dev.to/JS] [We made a free JS library to quickly access professional data on people and companies](https://dev.to/peopledatalabs/we-made-a-free-js-library-to-quickly-access-professional-data-on-people-and-companies-39j1)
+- [Dev.to/JS] [Creating and deploying a tiny proxy server on Vercel in 10 minutes](https://dev.to/mmazzarolo/creating-and-deploying-a-tiny-proxy-server-on-vercel-in-10-minutes-3am1)
+- [Lifehacker] [How to Watch International Netflix With a VPN](https://lifehacker.com/how-to-watch-international-netflix-with-a-vpn-1848564804)
+- [Dev.to/JS] [User Authentication in Next.js with Strapi](https://dev.to/strapi/user-authentication-in-nextjs-with-strapi-37ai)
+- [Dev.to/JS] [Frontend: Node.js &amp;&amp;/|| EJS?](https://dev.to/sonnystark/frontend-nodejs-ejs-1113)
+- [Dev.to/JS] [Pasting screenshots takes way longer than pasting image files](https://dev.to/haggen/pasting-screenshots-takes-way-longer-than-pasting-image-files-2kb7)
+- [Lifehacker] [Is It Ever a Good Idea to Buy Used Tires?](https://lifehacker.com/is-it-ever-a-good-idea-to-buy-used-tires-1848564353)
 - [Dev.to/JS] [State of Frontend 2022](https://dev.to/mkkowalski7/state-of-frontend-2022-6dh)
-- [Dev.to/JS] [Pasting screenshots takes way longer than pasting image files](https://dev.to/haggen/reading-screenshots-from-a-paste-event-briefly-freezes-the-browser-469e)
 - [Dev.to/JS] [Reduces many uses](https://dev.to/sethcalebweeks/reduces-many-uses-57dl)
 - [Dev.to/JS] [JavaScript - toUpperCase and toLowerCase methods](https://dev.to/thenerdydev/javascript-touppercase-and-tolowercase-methods-1m1i)
 - [Dev.to/JS] [Checkout my new project🎀](https://dev.to/agarwalamn/checkout-my-new-project-3h8e)
@@ -32,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Sitting on the Ground Can Be Good for Your Health](https://lifehacker.com/why-sitting-on-the-ground-can-be-good-for-your-health-1848563060)
 - [Dev.to/JS] [Routing in Express.js](https://dev.to/akhtar02/routing-in-expressjs-40b2)
 - [Dev.to/JS] [Previewing your posts — how to build the best decoupled content management workflow for your static site](https://dev.to/whitep4nth3r/previewing-your-posts-how-to-build-the-best-decoupled-content-management-workflow-for-your-static-site-3ehk)
-- [Dev.to/JS] [Achieving AWS MSP compliance: a workshop report.](https://dev.to/kreuzwerker/achieving-aws-msp-compliance-a-workshop-report-2alp)
-- [Dev.to/JS] [Javascript Array Methods Ep.2](https://dev.to/theadeshkhanna/javascript-array-methods-ep2-ek4)
-- [Dev.to/JS] [Why Vue JS is the Best Front End Development Framework to choose for 2022?](https://dev.to/eluminoustech/why-vue-js-is-the-best-front-end-development-framework-to-choose-for-2022-4imm)
-- [Dev.to/JS] [How to improve your code quality with ternary,AND,OR operators](https://dev.to/zougari47/how-to-improve-your-code-quality-with-ternaryandor-operators-210k)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is It Legal to Jailbreak a Video Game Console?](https://lifehacker.com/is-it-legal-to-jailbreak-a-video-game-console-1848558154)
 - [Lifehacker] [15 Modern Pixel Art Games Everyone Must Play](https://lifehacker.com/15-modern-pixel-art-games-everyone-must-play-1848562768)
 - [Lifehacker] [How Long Can You Wait Before Upgrading Your Phone?](https://lifehacker.com/how-long-can-you-wait-before-upgrading-your-phone-1848561946)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Ninja?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-ni-1848562160)
-- [Lifehacker] [11 Animal Accounts We All Should Be Following on Social Media](https://lifehacker.com/11-animal-accounts-we-all-should-be-following-on-social-1848557589)
-- [Lifehacker] [How to Roll a Perfect Joint](https://lifehacker.com/how-to-roll-a-perfect-joint-1848559512)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)
 - [Crazy Programmer] [Different Types of Database Users](https://www.thecrazyprogrammer.com/2022/02/types-of-database-users.html)<!-- TECH-POSTS:END -->
