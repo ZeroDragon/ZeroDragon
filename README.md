@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MAM: build frontend without pain](https://dev.to/ninjin/mam-build-frontend-without-pain-57gm)
+- [Dev.to/JS] [Practical Problems and Solutions in Angular](https://dev.to/pawankkumawat/practical-problems-and-solutions-in-angular-4ka2)
+- [Dev.to/JS] [How to implement a tracking log output location plugin?](https://dev.to/yxw007/how-to-implement-a-tracking-log-output-location-plugin-15fk)
+- [Dev.to/JS] [Drive a Tesla Cybertruck or literally any car on your browser with Threejs](https://dev.to/jaagrav/drive-a-tesla-cybertruck-or-literally-any-car-on-your-browser-with-threejs-2af4)
 - [Dev.to/JS] [TypeScript vs vanilla JavaScript for your next project](https://dev.to/antoncodes/typescript-vs-vanilla-javascript-for-your-next-project-37l3)
 - [Dev.to/JS] [Testing your Solid.js code in vitest](https://dev.to/lexlohr/testing-your-solidjs-code-in-vitest-6dh)
-- [Dev.to/JS] [Build a PDF invoice template using only typescript and jspdf-autotable](https://dev.to/maxwelladn/build-a-pdf-invoice-template-using-only-typescript-and-jspdf-autotable-25gn)
+- [Dev.to/JS] [Build a PDF invoice template using only typescript and jspdf-autotable | No screen capture](https://dev.to/maxwelladn/build-a-pdf-invoice-template-using-only-typescript-and-jspdf-autotable-25gn)
 - [Dev.to/JS] [Почему и как нужно транспилировать зависимости](https://dev.to/dangreen/pochiemu-i-kak-nuzhno-transpilirovat-zavisimosti-5ceb)
 - [Dev.to/JS] [มาเล่น Tailwind CSS กับ Angular กัน](https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-328p)
 - [Dev.to/JS] [The Tuple Type in Typescript](https://dev.to/this-is-learning/the-tuple-type-in-typescript-nb7)
 - [Dev.to/JS] [Let&#39;s play Tailwind CSS with Angular](https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-2i1b)
 - [Dev.to/JS] [RudderStack Product News - Vol. #020: SDK Event Filtering, Beacon Support for JS, and OneTrust for JS](https://dev.to/rudderstack/rudderstack-product-news-vol-020-sdk-event-filtering-beacon-support-for-js-and-onetrust-for-js-1ic4)
-- [Dev.to/JS] [The Most Popular Alternative UI Libraries](https://dev.to/asayerio_techblog/the-most-popular-alternative-ui-libraries-4j57)
-- [Dev.to/JS] [PT TRIM FAT BURN: CUSTOMER REVIEW AND WARNINGS FOR NEW BUYER? MUST READ](https://dev.to/jbriefert/pt-trim-fat-burn-customer-review-and-warnings-for-new-buyer-must-read-3hgb)
-- [Dev.to/JS] [Keravita Pro - Nail Fungus Results, Uses, Reviews And Ingredients](https://dev.to/keravitaproinfo/keravita-pro-nail-fungus-results-uses-reviews-and-ingredients-30d2)
-- [Dev.to/JS] [How to use Copilot to deploy projects on ECS](https://dev.to/alichherawalla/how-to-use-copilot-to-deploy-projects-on-ecs-22ab)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
