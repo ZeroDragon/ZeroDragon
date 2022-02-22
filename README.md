@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Principios SOLID en JavaScript](https://dev.to/jfernandogt/principios-solid-en-javascript-4k3i)
+- [Dev.to/JS] [Usa console.table en lugar de console.log](https://dev.to/jfernandogt/usa-consoletable-en-lugar-de-consolelog-59lo)
+- [Dev.to/JS] [Onboarding Night Journal](https://dev.to/iampearceman/onboarding-night-journal-29ho)
+- [Dev.to/JS] [Overloading Functions for Type Harmony](https://dev.to/thegnarco/overloading-functions-for-type-harmony-b85)
+- [Dev.to/JS] [How Does &quot;prevState&quot; Works Under the Hood](https://dev.to/ogzhanolguncu/how-does-prevstate-works-under-the-hood-19kf)
 - [Dev.to/JS] [JavaScript Functions: Learn by Demand](https://dev.to/mpfdev/javascript-functions-learn-by-demand-1641)
 - [Dev.to/JS] [Free JavaScript Coding Classes/Courses – For Beginners [2022 Guide]](https://dev.to/codeslinger/free-javascript-coding-classescourses-for-beginners-2022-guide-5hmf)
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
@@ -34,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a realtime websocket UI using SvelteKit](https://dev.to/tonyhb/build-a-realtime-websocket-ui-using-sveltekit-4jf3)
 - [Lifehacker] [Here&#39;s How Plant-Based &#39;Meats&#39; Stack Up, Nutritionally](https://lifehacker.com/heres-how-plant-based-meats-stack-up-nutritionally-1848577417)
 - [Dev.to/JS] [I love talking to you, webpage!](https://dev.to/domizajac/i-love-talking-to-you-webpage-3m9o)
-- [Dev.to/JS] [Tutorial: Ethereum BlockChain Development &lpar;4&rpar;](https://dev.to/yongchanghe/tutorial-ethereum-blockchain-development-4-3poc)
-- [Dev.to/JS] [Fairy Tales, and the Implications of Immutability](https://dev.to/parenttobias/fairy-tales-and-the-implications-of-immutability-375l)
-- [Dev.to/JS] [Drive a Tesla Cybertruck or literally any car on your browser with Threejs](https://dev.to/jaagrav/drive-a-tesla-cybertruck-or-literally-any-car-on-your-browser-with-threejs-4ila)
 - [Lifehacker] [How to Recover From a Breakup](https://lifehacker.com/how-to-recover-from-a-breakup-1848577331)
-- [Dev.to/JS] [Automatic Deployment con Github Webhooks](https://dev.to/g0nza/automatic-deployment-con-github-webhooks-ppi)
 - [Lifehacker] [Your Next Batch of Pancakes Deserves This Ultimate Maple Butter](https://lifehacker.com/your-next-batch-of-pancakes-deserves-this-ultimate-mapl-1848577214)
-- [Dev.to/JS] [Computers run code, but humans read it!](https://dev.to/tguzmani/computers-run-code-but-humans-read-it-hle)
 - [Lifehacker] [9 Default Chrome Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/9-default-chrome-settings-you-should-change-if-you-care-1848561036)
 - [Lifehacker] [How to Re-Enter the Workforce After Stay-at-Home Parenting &lpar;Without Losing Your Mind&rpar;](https://lifehacker.com/how-to-re-enter-the-workforce-after-stay-at-home-parent-1848560882)
 - [Lifehacker] [17 of the All-Time Best Working-Class Sitcoms](https://lifehacker.com/17-of-the-all-time-best-working-class-sitcoms-1848567495)
