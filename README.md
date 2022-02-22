@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner&#39;s Guide to HTTP - Part 3: Requests](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-3-requests-63)
+- [Dev.to/JS] [Next.js on-demand revalidation is here! 🚀](https://dev.to/pul/nextjs-on-demand-revalidation-is-here-51e2)
+- [Dev.to/JS] [Use useState + constructor? &lpar;is it viable?&rpar;](https://dev.to/bup_legend/utilizar-usestate-constructor-e-viavel-hj5)
+- [Lifehacker] [17 of the All-Time Best Working-Class Sitcoms](https://lifehacker.com/17-of-the-all-time-best-working-class-sitcoms-1848567495)
+- [Dev.to/JS] [How to set up a one-page check-out flow in Next.js](https://dev.to/medusajs/how-to-set-up-a-one-page-check-out-flow-in-nextjs-jah)
 - [Lifehacker] [How to Get Software and Security Updates on Your Old iPhone](https://lifehacker.com/how-to-get-software-and-security-updates-on-your-old-ip-1848574450)
 - [Dev.to/JS] [Everything ingenious is simple, and everything simple is ingenious](https://dev.to/ogruzglina/everything-ingenious-is-simple-and-everything-simple-is-ingenious-14do)
 - [Dev.to/JS] [How v-if and v-else work in Vue](https://dev.to/smpnjn/how-v-if-and-v-else-work-in-vue-10ll)
@@ -36,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interactive Jigglypuff with SVG &amp; GSAP](https://dev.to/_nicofonseca/interactive-jigglypuff-1429)
 - [Dev.to/JS] [Create A Portfolio Website: Part Four](https://dev.to/ericnanhu/create-a-portfolio-website-part-four-1mjl)
 - [Lifehacker] [14 of the Sketchiest Parenting Tricks That Actually Work, According to Lifehacker Readers](https://lifehacker.com/14-of-the-sketchiest-parenting-tricks-that-actually-wor-1848572594)
-- [Dev.to/JS] [Migratory Birds &lpar;HackerRank - JavaScript Solution&rpar;](https://dev.to/hokagedemehin/migratory-birds-hackerrank-javascript-solution-293l)
-- [Dev.to/JS] [Find what JavaScript variables are leaking into the global scope](https://dev.to/mmazzarolo/find-what-javascript-variables-are-leaking-into-the-global-scope-1aik)
-- [Dev.to/JS] [Here are a few ways to merge array](https://dev.to/codewithsnowbit/here-are-a-few-ways-to-merge-array-28il)
-- [Dev.to/JS] [Making a google chrome extension](https://dev.to/jordandev/making-a-google-chrome-extension-1j4m)
 - [Lifehacker] [You Should Definitely Make Sticky Honey Tots in Your Air Fryer](https://lifehacker.com/you-should-definitely-make-sticky-honey-tots-in-your-ai-1848573234)
 - [Lifehacker] [How to Watch International Netflix With a VPN](https://lifehacker.com/how-to-watch-international-netflix-with-a-vpn-1848564804)
 - [Lifehacker] [Is It Ever a Good Idea to Buy Used Tires?](https://lifehacker.com/is-it-ever-a-good-idea-to-buy-used-tires-1848564353)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop Rinsing Your Mouth After Brushing](https://lifehacker.com/why-you-should-stop-rinsing-your-mouth-after-brushing-1848561063)
 - [Lifehacker] [Join the Cool Kids&#39; Club With a Dark &#39;n Stormy](https://lifehacker.com/join-the-cool-kids-club-with-a-dark-n-stormy-1848562945)
 - [Lifehacker] [15 Slasher Movies That Are Smarter Than You Think](https://lifehacker.com/15-slasher-movies-that-are-smarter-than-you-think-1848555448)
-- [Lifehacker] [How to Wake Up If You Keep Sleeping Through Your Alarm](https://lifehacker.com/how-to-wake-up-if-you-keep-sleeping-through-your-alarm-1848563289)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
