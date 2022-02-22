@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Array Methods Ep.2](https://dev.to/theadeshkhanna/javascript-array-methods-ep2-ek4)
+- [Dev.to/JS] [Why Vue JS is the Best Front End Development Framework to choose for 2022?](https://dev.to/eluminoustech/why-vue-js-is-the-best-front-end-development-framework-to-choose-for-2022-4imm)
+- [Dev.to/JS] [How to improve your code quality with ternary,AND,OR operators](https://dev.to/zougari47/how-to-improve-your-code-quality-with-ternaryandor-operators-210k)
+- [Dev.to/JS] [Using getElementsByName Method in Javascript](https://dev.to/jamiemcmanus/using-getelementsbyname-method-in-javascript-1jo0)
+- [Dev.to/JS] [No more confusion — Splice vs Slice in Javascript](https://dev.to/urstrulyvishwak/no-more-confusion-splice-vs-slice-in-javascript-1i2g)
 - [Dev.to/JS] [MAM: build frontend without pain](https://dev.to/ninjin/mam-build-frontend-without-pain-57gm)
 - [Dev.to/JS] [Practical Problems and Solutions in Angular](https://dev.to/pawankkumawat/practical-problems-and-solutions-in-angular-4ka2)
 - [Dev.to/JS] [How to implement a tracking log output location plugin?](https://dev.to/yxw007/how-to-implement-a-tracking-log-output-location-plugin-15fk)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript vs vanilla JavaScript for your next project](https://dev.to/antoncodes/typescript-vs-vanilla-javascript-for-your-next-project-37l3)
 - [Dev.to/JS] [Testing your Solid.js code in vitest](https://dev.to/lexlohr/testing-your-solidjs-code-in-vitest-6dh)
 - [Dev.to/JS] [Build a PDF invoice template using only typescript and jspdf-autotable | No screen capture](https://dev.to/maxwelladn/build-a-pdf-invoice-template-using-only-typescript-and-jspdf-autotable-25gn)
-- [Dev.to/JS] [Почему и как нужно транспилировать зависимости](https://dev.to/dangreen/pochiemu-i-kak-nuzhno-transpilirovat-zavisimosti-5ceb)
-- [Dev.to/JS] [มาเล่น Tailwind CSS กับ Angular กัน](https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-328p)
-- [Dev.to/JS] [The Tuple Type in Typescript](https://dev.to/this-is-learning/the-tuple-type-in-typescript-nb7)
-- [Dev.to/JS] [Let&#39;s play Tailwind CSS with Angular](https://dev.to/alternativeboy/maaeln-tailwind-css-kab-angular-kan-2i1b)
-- [Dev.to/JS] [RudderStack Product News - Vol. #020: SDK Event Filtering, Beacon Support for JS, and OneTrust for JS](https://dev.to/rudderstack/rudderstack-product-news-vol-020-sdk-event-filtering-beacon-support-for-js-and-onetrust-for-js-1ic4)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
