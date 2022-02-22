@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Computers run code, but humans read it!](https://dev.to/tguzmani/computers-run-code-but-humans-read-it-hle)
+- [Dev.to/JS] [Best Code Editor](https://dev.to/tanwi2209/best-code-editor-14jn)
+- [Dev.to/JS] [This Week In React #95: onRecoverableError, Next.js, Remix, ReactNode, Fabric, Flipper, Expo, React-Runner, State Of JS...](https://dev.to/sebastienlorber/this-week-in-react-95-onrecoverableerror-nextjs-remix-reactnode-fabric-flipper-expo-react-runner-state-of-js-2ncd)
+- [Lifehacker] [9 Default Chrome Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/9-default-chrome-settings-you-should-change-if-you-care-1848561036)
+- [Dev.to/JS] [Dashboard - Validações e formatação](https://dev.to/devgirlsmentor/dashboard-validacoes-e-formatacao-l3b)
+- [Dev.to/JS] [Is JavaScript good or bad for beginners?](https://dev.to/curiousdev/is-javascript-good-or-bad-for-beginners-5011)
+- [Lifehacker] [How to Re-Enter the Workforce After Stay-at-Home Parenting &lpar;Without Losing Your Mind&rpar;](https://lifehacker.com/how-to-re-enter-the-workforce-after-stay-at-home-parent-1848560882)
 - [Dev.to/JS] [A Beginner&#39;s Guide to HTTP - Part 3: Requests](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-3-requests-63)
 - [Dev.to/JS] [Next.js on-demand revalidation is here! 🚀](https://dev.to/pul/nextjs-on-demand-revalidation-is-here-51e2)
 - [Dev.to/JS] [Use useState + constructor? &lpar;is it viable?&rpar;](https://dev.to/bup_legend/utilizar-usestate-constructor-e-viavel-hj5)
@@ -33,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How v-if and v-else work in Vue](https://dev.to/smpnjn/how-v-if-and-v-else-work-in-vue-10ll)
 - [Lifehacker] [6 of the Easiest Breathing Exercises to Help Relieve Your Anxiety and Stress](https://lifehacker.com/6-of-the-easiest-breathing-exercises-to-help-relieve-yo-1848571019)
 - [Dev.to/JS] [Day-29 Training at Ryaz](https://dev.to/mahin651/day-29-training-at-ryaz-3jcd)
-- [Dev.to/JS] [Vue al rescate de AngularJS apps](https://dev.to/rholo/vue-al-rescate-de-angularjs-apps-3oj)
-- [Dev.to/JS] [Get Screen Resolution | Screen Size using html &amp; JavaScript](https://dev.to/codinghindi/get-screen-resolution-screen-size-using-html-javascript-4bff)
 - [Lifehacker] [Can a Rebound Relationship Ever Work?](https://lifehacker.com/can-a-rebound-relationship-ever-work-1848575326)
-- [Dev.to/JS] [Node js behind the scenes!](https://dev.to/arorachakit/node-js-behind-the-scenes-3e7c)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
-- [Dev.to/JS] [Interactive Jigglypuff with SVG &amp; GSAP](https://dev.to/_nicofonseca/interactive-jigglypuff-1429)
-- [Dev.to/JS] [Create A Portfolio Website: Part Four](https://dev.to/ericnanhu/create-a-portfolio-website-part-four-1mjl)
 - [Lifehacker] [14 of the Sketchiest Parenting Tricks That Actually Work, According to Lifehacker Readers](https://lifehacker.com/14-of-the-sketchiest-parenting-tricks-that-actually-wor-1848572594)
 - [Lifehacker] [You Should Definitely Make Sticky Honey Tots in Your Air Fryer](https://lifehacker.com/you-should-definitely-make-sticky-honey-tots-in-your-ai-1848573234)
 - [Lifehacker] [How to Watch International Netflix With a VPN](https://lifehacker.com/how-to-watch-international-netflix-with-a-vpn-1848564804)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Reasons Why You Need a Nintendo 3DS](https://lifehacker.com/5-reasons-why-you-need-a-nintendo-3ds-1848564431)
 - [Lifehacker] [How to Get a Free Upgrade to First Class &lpar;or Score the Cheapest Possible Seat&rpar;](https://lifehacker.com/how-to-get-a-free-upgrade-to-first-class-or-score-the-1848563584)
 - [Lifehacker] [Why You Should Stop Rinsing Your Mouth After Brushing](https://lifehacker.com/why-you-should-stop-rinsing-your-mouth-after-brushing-1848561063)
-- [Lifehacker] [Join the Cool Kids&#39; Club With a Dark &#39;n Stormy](https://lifehacker.com/join-the-cool-kids-club-with-a-dark-n-stormy-1848562945)
-- [Lifehacker] [15 Slasher Movies That Are Smarter Than You Think](https://lifehacker.com/15-slasher-movies-that-are-smarter-than-you-think-1848555448)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
