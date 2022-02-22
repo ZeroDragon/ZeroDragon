@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 4/100, 100 Days of Code](https://dev.to/xurgg/day-4100-100-days-of-code-4dpp)
+- [Dev.to/JS] [Spider-Man Wiki](https://dev.to/rededge967/mystack-spiderman-wiki-26c3)
 - [Dev.to/JS] [Leetcode diary: 80. Remove Duplicates from Sorted Array II](https://dev.to/kevin074/leetcode-diary-80-remove-duplicates-from-sorted-array-ii-2k5e)
 - [Dev.to/JS] [How to Create a Vue.js App](https://dev.to/zytha/how-to-create-a-vuejs-app-3fh9)
 - [Dev.to/JS] [Cadastro de DEVs](https://dev.to/oklayton/cadastro-de-devs-48gi)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JAVASCRIPT 102: INTRODUCTION TO DATA STRUCTURES AND ALGORITHMS WITH MODERN JAVASCRIPT](https://dev.to/oraio/javascript-102-introduction-to-data-structures-and-algorithms-with-modern-javascript-3il1)
 - [Dev.to/JS] [Words-Per-Minute Calculator](https://dev.to/wyattmarshalldev/words-per-minute-calculator-4gl1)
 - [Dev.to/JS] [Adding text alignment to Trix](https://dev.to/paramagicdev/adding-text-alignment-to-trix-ilp)
-- [Dev.to/JS] [Test your app success best Formula](https://dev.to/codeurabou/test-your-app-success-best-formula-4ccb)
-- [Dev.to/JS] [Day 4 of 100 Days of Code](https://dev.to/nkemdev/day-4-of-100-days-of-code-oan)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
