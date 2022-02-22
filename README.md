@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What tools and technologies do we use for Solidity Development?](https://dev.to/ashikarose/what-tools-and-technologies-do-we-use-for-solidity-development-19o7)
 - [Dev.to/JS] [3 Ways of Passing Multiple Parameters to the onClick Handler in React](https://dev.to/asayerio_techblog/3-ways-of-passing-multiple-parameters-to-the-onclick-handler-in-react-22c)
 - [Dev.to/JS] [寫給想跳坑的 JS 新手&lpar;Part II&rpar;](https://dev.to/aryung/xie-gei-xiang-tiao-keng-de-js-xin-shou-part-ii-19on)
 - [Dev.to/JS] [An Introduction to JavaScript Error Handling](https://dev.to/asayerio_techblog/an-introduction-to-javascript-error-handling-42dc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a design system using Vanilla Extract CSS](https://dev.to/whoisryosuke/creating-a-design-system-using-vanilla-extract-css-15mb)
 - [Dev.to/JS] [Using Nx for React and Typescript Monorepos](https://dev.to/whoisryosuke/using-nx-for-react-and-typescript-monorepos-2g4n)
 - [Dev.to/JS] [Check String If its a number](https://dev.to/brojenuel/check-string-if-its-a-number-4e5n)
-- [Dev.to/JS] [How to make a ReactJS app](https://dev.to/griphcode/how-to-make-a-reactjs-app-1hn7)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
