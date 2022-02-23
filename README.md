@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [REDUX TOOLKIT](https://dev.to/rhb/redux-toolkit-3boh)
+- [Dev.to/JS] [Nerve Shield Plus - Health Benefits, Results, Price And Side Effects?](https://dev.to/nerveshieldplu1/nerve-shield-plus-health-benefits-results-price-and-side-effects-3nho)
 - [Dev.to/JS] [Big Oh notation](https://dev.to/bellatrix/big-oh-notation-4ca9)
 - [Dev.to/JS] [Live Webinar On Integrating Data Sources with Pub-Sub using Gateway Framework](https://dev.to/push_technology/live-webinar-on-integrating-data-sources-with-pub-sub-using-gateway-framework-4273)
 - [Dev.to/JS] [Top 10 things you should know as a Programmer](https://dev.to/upali123/top-10-things-you-should-know-as-a-programmer-9a8)
 - [Dev.to/JS] [Some util functions I use in TS](https://dev.to/yw662/some-util-functions-i-use-in-ts-5bop)
 - [Dev.to/JS] [Object destructuring in TypeScript](https://dev.to/dailydevtips1/object-destructuring-in-typescript-5d6i)
+- [Dev.to/JS] [Cómo usar Netlify como tu integración continua](https://dev.to/conoce-dev/como-usar-netlify-como-tu-integracion-continua-5991)
 - [Dev.to/JS] [Reduce APK size in React Native](https://dev.to/riteshshukla04/reduce-apk-size-in-react-native-aj6)
+- [Dev.to/JS] [How to use Netlify as your continuous integration](https://dev.to/how-to-dev/how-to-use-netlify-as-your-continuous-integration-2676)
 - [Dev.to/JS] [How to setup a dev blog using Next.js and next-mdx-remote.](https://dev.to/largonarco/how-to-setup-a-dev-blog-using-nextjs-and-next-mdx-remote-4mb9)
 - [Dev.to/JS] [VS Code Sparking Watercooler Convos? Here&#39;s How](https://dev.to/sourishkrout/vs-code-sparking-watercooler-convos-heres-how-1jjm)
-- [Dev.to/JS] [Day 10 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#457. Circular Array Loop&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-10-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem457-circular-array-loopmediumjavascript-c8c)
-- [Dev.to/JS] [A Vue3 Tutorial - 07 Vue Components without a Build System](https://dev.to/krowemoh/a-vue3-tutorial-07-vue-components-without-a-build-system-2p4o)
-- [Dev.to/JS] [A Vue3 Tutorial - 06 Conditional Styling](https://dev.to/krowemoh/a-vue3-tutorial-06-conditional-styling-5e5j)
-- [Dev.to/JS] [A Vue3 Tutorial - 05 Sorting](https://dev.to/krowemoh/a-vue3-tutorial-05-sorting-25a)
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
 - [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
