@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
+- [Dev.to/JS] [Built a Filterable To-do App in React](https://dev.to/yasledesma/built-a-filterable-to-do-app-in-react-4pon)
+- [Dev.to/JS] [How to use SetTimeout in JavaScript](https://dev.to/codingwithadam/how-to-use-settimeout-in-javascript-5704)
+- [Dev.to/JS] [Project 1: color flipper project in Javascript explained](https://dev.to/urstrulyvishwak/project-1-color-flipper-project-in-javascript-explained-3gmg)
+- [Dev.to/JS] [Setup Redux for your react application in few simple steps!](https://dev.to/anshnarula5/setup-redux-for-your-react-application-in-few-simple-steps-1f1)
+- [Lifehacker] [How to Get Kids to Like You](https://lifehacker.com/how-to-get-kids-to-like-you-1848582873)
+- [Dev.to/JS] [Yarn workspaces and change detection](https://dev.to/cherypick/yarn-workspaces-and-change-detection-4428)
 - [Lifehacker] [How to Prepare Now for Slack’s Next Outage](https://lifehacker.com/how-to-prepare-now-for-slack-s-next-outage-1848582244)
 - [Dev.to/JS] [Nucleoid: Low-code framework for JS](https://dev.to/nucleoid/nucleoid-low-code-framework-for-js-4hd6)
 - [Dev.to/JS] [Installing Cypress and knowing the structure](https://dev.to/ramirezmz/installing-cypress-and-knowing-the-structure-3nfa)
@@ -33,15 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn React By Making 5 Apps in 5 Days &lpar;with tutorials&rpar;](https://dev.to/goldenideas/learn-react-by-making-5-apps-in-5-days-with-tutorials-374l)
 - [Dev.to/JS] [isFunctions in Javascript](https://dev.to/urstrulyvishwak/isfunctions-in-javascript-5d0h)
 - [Dev.to/JS] [Learn how to how to adapt plain JavaScript API into a Framework-aware solution. Join our Live Coding Session and sell your apps!](https://dev.to/livechat/learn-how-to-how-to-adapt-plain-javascript-api-into-a-framework-aware-solution-join-our-live-coding-session-1c6f)
-- [Dev.to/JS] [Day 5/100, 100 Days of Code](https://dev.to/xurgg/day-5100-100-days-of-code-49do)
 - [Lifehacker] [How to Summon a Demon](https://lifehacker.com/how-to-summon-a-demon-1848558679)
-- [Dev.to/JS] [Use React/Svelte/Vue in the same application and ship 0kb JavaScript by default! 🪐](https://dev.to/joetifa2003/use-reactsveltevue-in-the-same-application-and-ship-0kb-javascript-by-default-3blh)
-- [Dev.to/JS] [7 Apps in 7 Days 
-- Coding Challenge](https://dev.to/goldenideas/challenge-7-apps-in-7-days-46ba)
 - [Lifehacker] [What&#39;s the Safest Way to Throw Away Old Knives?](https://lifehacker.com/whats-the-safest-way-to-throw-away-old-knives-1848579705)
 - [Lifehacker] [21 of the Best Introspective Movies to Watch Absolutely Alone](https://lifehacker.com/21-of-the-best-introspective-movies-to-watch-absolutely-1848571646)
-- [Dev.to/JS] [Making a To-do list in Vue](https://dev.to/smpnjn/making-a-to-do-list-in-vue-31on)
-- [Dev.to/JS] [This is how you make numbers more readable in your JS code](https://dev.to/codewithsnowbit/this-is-how-you-make-numbers-more-readable-in-your-js-code-lmc)
 - [Lifehacker] [13 &#39;Challenges&#39; That Prove Older Generations Were As Stupid As TikTok Teens](https://lifehacker.com/13-challenges-that-prove-older-generations-were-as-stup-1848579794)
 - [Lifehacker] [The Difference Between Broccoli, Broccolini, Chinese Broccoli, and Broccoli Rabe](https://lifehacker.com/the-difference-between-broccoli-broccolini-chinese-br-1848577515)
 - [Lifehacker] [How to Date Someone Who&#39;s Very Online, When You&#39;re Very Offline &lpar;and Vice Versa&rpar;](https://lifehacker.com/how-to-date-someone-whos-very-online-when-youre-very-o-1848577431)
@@ -60,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can a Rebound Relationship Ever Work?](https://lifehacker.com/can-a-rebound-relationship-ever-work-1848575326)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Lifehacker] [14 of the Sketchiest Parenting Tricks That Actually Work, According to Lifehacker Readers](https://lifehacker.com/14-of-the-sketchiest-parenting-tricks-that-actually-wor-1848572594)
-- [Lifehacker] [You Should Definitely Make Sticky Honey Tots in Your Air Fryer](https://lifehacker.com/you-should-definitely-make-sticky-honey-tots-in-your-ai-1848573234)
-- [Lifehacker] [How to Watch International Netflix With a VPN](https://lifehacker.com/how-to-watch-international-netflix-with-a-vpn-1848564804)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
