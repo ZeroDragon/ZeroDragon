@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CHALLENGE: 7 Apps in 7 Days](https://dev.to/goldenideas/challenge-7-apps-in-7-days-46ba)
+- [Lifehacker] [What&#39;s the Safest Way to Throw Away Old Knives?](https://lifehacker.com/whats-the-safest-way-to-throw-away-old-knives-1848579705)
+- [Lifehacker] [21 of the Best Introspective Movies to Watch Absolutely Alone](https://lifehacker.com/21-of-the-best-introspective-movies-to-watch-absolutely-1848571646)
+- [Dev.to/JS] [Making a To-do list in Vue](https://dev.to/smpnjn/making-a-to-do-list-in-vue-31on)
+- [Dev.to/JS] [This is how you make numbers more readable in your JS code](https://dev.to/codewithsnowbit/this-is-how-you-make-numbers-more-readable-in-your-js-code-lmc)
+- [Dev.to/JS] [What do we use null for in Js?](https://dev.to/danielarmbruster0314/what-do-we-use-null-for-in-js-2fe8)
 - [Lifehacker] [13 &#39;Challenges&#39; That Prove Older Generations Were As Stupid As TikTok Teens](https://lifehacker.com/13-challenges-that-prove-older-generations-were-as-stup-1848579794)
 - [Dev.to/JS] [XRP Metaverse](https://dev.to/lovelife/xrp-metaverse-2khn)
 - [Dev.to/JS] [Paracetamol.js💊| #62: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-62-explica-este-codigo-javascript-6k1)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Module 2 | React BillsApp Project with Material Ui and Context Api](https://dev.to/47karimasif/module-2-react-billsapp-project-with-material-ui-and-context-api-5e2j)
 - [Dev.to/JS] [Breathing exercise web app using React, TypeScript &amp; SCSS](https://dev.to/ashobiz/breathing-exercise-web-app-using-react-typescript-scss-fom)
 - [Lifehacker] [How to Date Someone Who&#39;s Very Online, When You&#39;re Very Offline &lpar;and Vice Versa&rpar;](https://lifehacker.com/how-to-date-someone-whos-very-online-when-youre-very-o-1848577431)
-- [Dev.to/JS] [Develop your Own Customizable Invoice Generator with Refine and Strapi | Part I](https://dev.to/pankod/develop-your-own-customizable-invoice-generator-with-refine-and-strapi-part-i-51m5)
-- [Dev.to/JS] [ghdf fdsaf](https://dev.to/sni424/ghdf-fdsaf-194g)
-- [Dev.to/JS] [Next JS Functional Component Starter Snippets](https://dev.to/jsstackdevelopers/next-js-functional-component-starter-snippets-lcn)
-- [Dev.to/JS] [Content Security Policy with PHP](https://dev.to/devlobb/content-security-policy-with-php-5d07)
 - [Lifehacker] [What Can You Do If Airbnb Is Ruining Your Neighborhood?](https://lifehacker.com/what-can-you-do-if-airbnb-is-ruining-your-neighborhood-1848575834)
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Sitting on the Ground Can Be Good for Your Health](https://lifehacker.com/why-sitting-on-the-ground-can-be-good-for-your-health-1848563060)
 - [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
 - [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
-- [Lifehacker] [Grow These Native Alternatives to Invasive Plants](https://lifehacker.com/grow-these-native-alternatives-to-invasive-plants-1848564989)
-- [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
