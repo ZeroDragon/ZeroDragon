@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing react-creme, a new light weight UI component library for React](https://dev.to/prabhuignoto/introducing-react-creme-a-new-light-weight-ui-component-library-for-react-5503)
+- [Lifehacker] [How to Date Someone Who&#39;s Very Online, When You&#39;re Very Offline &lpar;and Vice Versa&rpar;](https://lifehacker.com/how-to-date-someone-whos-very-online-when-youre-very-o-1848577431)
+- [Dev.to/JS] [Develop your Own Customizable Invoice Generator with Refine and Strapi | Part I](https://dev.to/pankod/develop-your-own-customizable-invoice-generator-with-refine-and-strapi-part-i-51m5)
+- [Dev.to/JS] [ghdf fdsaf](https://dev.to/sni424/ghdf-fdsaf-194g)
+- [Dev.to/JS] [Next JS Functional Component Starter Snippets](https://dev.to/jsstackdevelopers/next-js-functional-component-starter-snippets-lcn)
+- [Dev.to/JS] [Content Security Policy with PHP](https://dev.to/devlobb/content-security-policy-with-php-5d07)
+- [Lifehacker] [What Can You Do If Airbnb Is Ruining Your Neighborhood?](https://lifehacker.com/what-can-you-do-if-airbnb-is-ruining-your-neighborhood-1848575834)
+- [Dev.to/JS] [8 Programming Languages to Learn After You&#39;ve Learned Scratch](https://dev.to/dhroov_goswami/8-programming-languages-to-learn-after-youve-learned-scratch-823)
+- [Dev.to/JS] [2D Array - HackerRank JavaScript Solution](https://dev.to/hokagedemehin/2d-array-hackerrank-javascript-solution-3ae6)
+- [Dev.to/JS] [Track down the JavaScript code responsible for polluting the global scope](https://dev.to/mmazzarolo/track-down-the-javascript-code-responsible-for-polluting-the-global-scope-35pm)
+- [Dev.to/JS] [Containerize your React application using Docker](https://dev.to/pawankm21/create-docker-container-for-react-application-e0g)
 - [Dev.to/JS] [I&#39;m starting a #100DaysOfCode Challenge](https://dev.to/raihanstark/im-starting-100daysofcode-376d)
 - [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#08&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-08-44l0)
 - [Dev.to/JS] [How to iterate through objects in javascript?](https://dev.to/mahdi_falamarzi/how-to-iterate-through-objects-5g3i)
-- [Dev.to/JS] [Things you need to know about React state](https://dev.to/romaintrotard/things-you-need-to-know-about-react-state-2l8o)
-- [Dev.to/JS] [How to run react on VSCode](https://dev.to/therajatg/how-to-run-react-on-vscode-3om2)
-- [Dev.to/JS] [Add a glass effect with HTML and CSS](https://dev.to/thatanjan/add-a-glass-effect-with-html-and-css-bh0)
-- [Dev.to/JS] [Project Resource Management: When? Why? What?](https://dev.to/webixui/project-resource-management-when-why-what-41c)
-- [Dev.to/JS] [How to build your own Social Audio Chat Application - Part 2](https://dev.to/egeninc/how-to-build-your-own-social-audio-chat-application-part-2-4jjo)
-- [Dev.to/JS] [Sales by Match &lpar;HackerRank Javascript Solution&rpar;](https://dev.to/hokagedemehin/sales-by-match-hackerrank-javascript-solution-ldh)
-- [Dev.to/JS] [Redux Form and Typescript testing with React Testing Library](https://dev.to/ip4422/redux-form-and-typescript-testing-with-react-testing-library-5bla)
-- [Dev.to/JS] [Crypto Wallet App Development 2022: Guide](https://dev.to/mattyreign/crypto-wallet-app-development-2022-guide-3o12)
-- [Dev.to/JS] [Upload files with React Hook Form](https://dev.to/coder4_life/upload-files-with-react-hook-form-m4j)
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
 - [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Washing Soda and Baking Soda](https://lifehacker.com/the-difference-between-washing-soda-and-baking-soda-1848564278)
 - [Lifehacker] [Don&#39;t Lower Your Tire Pressure to Gain Traction in the Snow](https://lifehacker.com/dont-lower-your-tire-pressure-to-gain-traction-in-the-s-1848564822)
 - [Lifehacker] [How to Clean Your Soda Maker &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-clean-your-soda-maker-and-why-you-should-1848564853)
-- [Lifehacker] [Never Bark at Your Dog](https://lifehacker.com/never-bark-at-your-dog-1848564272)
-- [Lifehacker] [Don&#39;t Use These Recalled Infant Formulas, FDA Says](https://lifehacker.com/dont-use-these-recalled-infant-formulas-fda-says-1848567003)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
