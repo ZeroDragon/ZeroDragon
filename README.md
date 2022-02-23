@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Different ways of export and import](https://dev.to/lautaro/different-ways-of-export-and-import-3911)
 - [Dev.to/JS] [E-Commerce Build - What language/framework?](https://dev.to/callummacalast/e-commerce-build-what-languageframework-4p11)
 - [Dev.to/JS] [Top JavaScript Frameworks: From Industry Titans to Modest Hard Workers](https://dev.to/sergeylaptick/top-javascript-frameworks-from-industry-titans-to-modest-hard-workers-19i8)
 - [Dev.to/JS] [Component Composition in React](https://dev.to/imkevdev/component-composition-in-react-3mmk)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 things you should know as a Programmer](https://dev.to/upali123/top-10-things-you-should-know-as-a-programmer-9a8)
 - [Dev.to/JS] [Some util functions I use in TS](https://dev.to/yw662/some-util-functions-i-use-in-ts-5bop)
 - [Dev.to/JS] [Object destructuring in TypeScript](https://dev.to/dailydevtips1/object-destructuring-in-typescript-5d6i)
-- [Dev.to/JS] [Cómo usar Netlify como tu integración continua](https://dev.to/conoce-dev/como-usar-netlify-como-tu-integracion-continua-5991)
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
 - [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
