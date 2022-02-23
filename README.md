@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to setup a dev blog using Next.js and next-mdx-remote.](https://dev.to/largonarco/how-to-setup-a-dev-blog-using-nextjs-and-next-mdx-remote-4mb9)
 - [Dev.to/JS] [VS Code Sparking Watercooler Convos? Here&#39;s How](https://dev.to/sourishkrout/vs-code-sparking-watercooler-convos-heres-how-1jjm)
 - [Dev.to/JS] [Day 10 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#457. Circular Array Loop&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-10-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem457-circular-array-loopmediumjavascript-c8c)
 - [Dev.to/JS] [A Vue3 Tutorial - 07 Vue Components without a Build System](https://dev.to/krowemoh/a-vue3-tutorial-07-vue-components-without-a-build-system-2p4o)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Vue3 Tutorial - 01 Using Vue Without a Build Step](https://dev.to/krowemoh/a-vue3-tutorial-01-using-vue-without-a-build-step-2kkm)
 - [Dev.to/JS] [Do you use DARK WEB | Tor browser on android?](https://dev.to/customui/do-you-use-dark-web-tor-browser-on-android-1d32)
 - [Dev.to/JS] [Stop Installing Node.js and Global Npm Packages, Use Docker Instead: Protect your system from vulnerabilities](https://dev.to/miguelacallesmba/stop-installing-nodejs-and-global-npm-packages-use-docker-instead-protect-your-system-from-vulnerabilities-4ne4)
-- [Dev.to/JS] [hoisting in javascript](https://dev.to/sobitp59/hoisting-in-javascript-c3o)
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
 - [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
