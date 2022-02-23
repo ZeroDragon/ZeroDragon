@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bidirectional piping, how to make two programs communicate with each other](https://dev.to/____marcell/bidirectional-piping-how-to-make-two-programs-communicate-with-each-other-2ke9)
+- [Dev.to/JS] [Intro to React - JSX and Elements](https://dev.to/maxdemaio/intro-to-react-jsx-and-elements-3n8k)
+- [Dev.to/JS] [Advanced Sliding Tabs using HTML CSS | Html Css Tutorial](https://dev.to/codinghindi/advanced-sliding-tabs-using-html-css-html-css-tutorial-1ddm)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
 - [Dev.to/JS] [Built a Filterable To-do App in React](https://dev.to/yasledesma/built-a-filterable-to-do-app-in-react-4pon)
 - [Dev.to/JS] [How to use SetTimeout in JavaScript](https://dev.to/codingwithadam/how-to-use-settimeout-in-javascript-5704)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day-30 Training at Ryaz](https://dev.to/mahin651/day-30-training-at-ryaz-25ja)
 - [Dev.to/JS] [The first Strapi SEO plugin](https://dev.to/strapi/the-first-strapi-seo-plugin-3545)
 - [Lifehacker] [The Only Scenarios When It&#39;s Absolutely OK to Ghost Someone](https://lifehacker.com/the-only-scenarios-when-its-absolutely-ok-to-ghost-some-1848578884)
-- [Dev.to/JS] [Learn React By Making 5 Apps in 5 Days &lpar;with tutorials&rpar;](https://dev.to/goldenideas/learn-react-by-making-5-apps-in-5-days-with-tutorials-374l)
-- [Dev.to/JS] [isFunctions in Javascript](https://dev.to/urstrulyvishwak/isfunctions-in-javascript-5d0h)
-- [Dev.to/JS] [Learn how to how to adapt plain JavaScript API into a Framework-aware solution. Join our Live Coding Session and sell your apps!](https://dev.to/livechat/learn-how-to-how-to-adapt-plain-javascript-api-into-a-framework-aware-solution-join-our-live-coding-session-1c6f)
 - [Lifehacker] [How to Summon a Demon](https://lifehacker.com/how-to-summon-a-demon-1848558679)
 - [Lifehacker] [What&#39;s the Safest Way to Throw Away Old Knives?](https://lifehacker.com/whats-the-safest-way-to-throw-away-old-knives-1848579705)
 - [Lifehacker] [21 of the Best Introspective Movies to Watch Absolutely Alone](https://lifehacker.com/21-of-the-best-introspective-movies-to-watch-absolutely-1848571646)
