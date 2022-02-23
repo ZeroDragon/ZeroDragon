@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Remove a Property From a JavaScript Objects 👨‍🎓🤓.](https://dev.to/lokeshchoudharylc/how-to-remove-a-property-from-a-javascript-objects--e76)
 - [Dev.to/JS] [005/100 Days of Code: The habits](https://dev.to/alexandrebekor/005100-days-of-code-the-habits-3m5l)
 - [Dev.to/JS] [splStorage.js &lpar;Stupid Library&rpar; !!!](https://dev.to/darkterminal/splstoragejs-stupid-library--boh)
 - [Dev.to/JS] [Top 10 Handy JavaScript Tips To Know](https://dev.to/yani82/top-10-handy-javascript-tips-to-know-1092)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Onboarding Night Journal](https://dev.to/iampearceman/onboarding-night-journal-29ho)
 - [Dev.to/JS] [Overloading Functions for Type Harmony](https://dev.to/thegnarco/overloading-functions-for-type-harmony-b85)
 - [Dev.to/JS] [How Does &quot;prevState&quot; Works Under the Hood](https://dev.to/ogzhanolguncu/how-does-prevstate-works-under-the-hood-19kf)
-- [Dev.to/JS] [JavaScript Functions: Learn by Demand](https://dev.to/mpfdev/javascript-functions-learn-by-demand-1641)
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
 - [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
