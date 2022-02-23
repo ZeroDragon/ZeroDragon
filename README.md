@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Vue3 Tutorial - 08 Vue Components without a Build System 2 &lpar;A Better Way&rpar;](https://dev.to/krowemoh/a-vue3-tutorial-08-vue-components-without-a-build-system-2-a-better-way-g1g)
 - [Dev.to/JS] [Quote Maker Lab: Redux/React](https://dev.to/dotnotation/quote-maker-lab-reduxreact-ek7)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
 - [Dev.to/JS] [Fast and Furious Images. Web Performance tuning tips.](https://dev.to/machy8/fast-and-furious-images-web-performance-tuning-tips-1cpd)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Built a Filterable To-do App in React](https://dev.to/yasledesma/built-a-filterable-to-do-app-in-react-4pon)
 - [Dev.to/JS] [How to use SetTimeout in JavaScript](https://dev.to/codingwithadam/how-to-use-settimeout-in-javascript-5704)
 - [Dev.to/JS] [Project 1: color flipper project in Javascript explained](https://dev.to/urstrulyvishwak/project-1-color-flipper-project-in-javascript-explained-3gmg)
-- [Dev.to/JS] [Setup Redux for your react application in few simple steps!](https://dev.to/anshnarula5/setup-redux-for-your-react-application-in-few-simple-steps-1f1)
 - [Lifehacker] [How to Get Kids to Like You](https://lifehacker.com/how-to-get-kids-to-like-you-1848582873)
 - [Lifehacker] [How to Prepare Now for Slack’s Next Outage](https://lifehacker.com/how-to-prepare-now-for-slack-s-next-outage-1848582244)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Colors to Paint Your Home&#39;s Front Door](https://lifehacker.com/the-best-and-worst-colors-to-paint-your-homes-front-d-1848578188)
