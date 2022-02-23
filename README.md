@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Prepare Now for Slack’s Next Outage](https://lifehacker.com/how-to-prepare-now-for-slack-s-next-outage-1848582244)
+- [Dev.to/JS] [Nucleoid: Low-code framework for JS](https://dev.to/nucleoid/nucleoid-low-code-framework-for-js-4hd6)
+- [Dev.to/JS] [Installing Cypress and knowing the structure](https://dev.to/ramirezmz/installing-cypress-and-knowing-the-structure-3nfa)
+- [Lifehacker] [The Best &lpar;and Worst&rpar; Colors to Paint Your Home&#39;s Front Door](https://lifehacker.com/the-best-and-worst-colors-to-paint-your-homes-front-d-1848578188)
+- [Dev.to/JS] [Day-30 Training at Ryaz](https://dev.to/mahin651/day-30-training-at-ryaz-25ja)
+- [Dev.to/JS] [The first Strapi SEO plugin](https://dev.to/strapi/the-first-strapi-seo-plugin-3545)
 - [Lifehacker] [The Only Scenarios When It&#39;s Absolutely OK to Ghost Someone](https://lifehacker.com/the-only-scenarios-when-its-absolutely-ok-to-ghost-some-1848578884)
 - [Dev.to/JS] [Learn React By Making 5 Apps in 5 Days &lpar;with tutorials&rpar;](https://dev.to/goldenideas/learn-react-by-making-5-apps-in-5-days-with-tutorials-374l)
 - [Dev.to/JS] [isFunctions in Javascript](https://dev.to/urstrulyvishwak/isfunctions-in-javascript-5d0h)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [21 of the Best Introspective Movies to Watch Absolutely Alone](https://lifehacker.com/21-of-the-best-introspective-movies-to-watch-absolutely-1848571646)
 - [Dev.to/JS] [Making a To-do list in Vue](https://dev.to/smpnjn/making-a-to-do-list-in-vue-31on)
 - [Dev.to/JS] [This is how you make numbers more readable in your JS code](https://dev.to/codewithsnowbit/this-is-how-you-make-numbers-more-readable-in-your-js-code-lmc)
-- [Dev.to/JS] [What do we use null for in Js?](https://dev.to/danielarmbruster0314/what-do-we-use-null-for-in-js-2fe8)
 - [Lifehacker] [13 &#39;Challenges&#39; That Prove Older Generations Were As Stupid As TikTok Teens](https://lifehacker.com/13-challenges-that-prove-older-generations-were-as-stup-1848579794)
-- [Dev.to/JS] [XRP Metaverse](https://dev.to/lovelife/xrp-metaverse-2khn)
-- [Dev.to/JS] [Paracetamol.js💊| #62: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-62-explica-este-codigo-javascript-6k1)
-- [Dev.to/JS] [Angular To Do app with Angular Forms - part 2](https://dev.to/this-is-angular/angular-to-do-app-with-angular-forms-part-2-10fp)
 - [Lifehacker] [The Difference Between Broccoli, Broccolini, Chinese Broccoli, and Broccoli Rabe](https://lifehacker.com/the-difference-between-broccoli-broccolini-chinese-br-1848577515)
 - [Lifehacker] [How to Date Someone Who&#39;s Very Online, When You&#39;re Very Offline &lpar;and Vice Versa&rpar;](https://lifehacker.com/how-to-date-someone-whos-very-online-when-youre-very-o-1848577431)
 - [Lifehacker] [What Can You Do If Airbnb Is Ruining Your Neighborhood?](https://lifehacker.com/what-can-you-do-if-airbnb-is-ruining-your-neighborhood-1848575834)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 of the Sketchiest Parenting Tricks That Actually Work, According to Lifehacker Readers](https://lifehacker.com/14-of-the-sketchiest-parenting-tricks-that-actually-wor-1848572594)
 - [Lifehacker] [You Should Definitely Make Sticky Honey Tots in Your Air Fryer](https://lifehacker.com/you-should-definitely-make-sticky-honey-tots-in-your-ai-1848573234)
 - [Lifehacker] [How to Watch International Netflix With a VPN](https://lifehacker.com/how-to-watch-international-netflix-with-a-vpn-1848564804)
-- [Lifehacker] [Is It Ever a Good Idea to Buy Used Tires?](https://lifehacker.com/is-it-ever-a-good-idea-to-buy-used-tires-1848564353)
-- [Lifehacker] [Why Sitting on the Ground Can Be Good for Your Health](https://lifehacker.com/why-sitting-on-the-ground-can-be-good-for-your-health-1848563060)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
