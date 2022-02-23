@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [CHALLENGE: 7 Apps in 7 Days](https://dev.to/goldenideas/challenge-7-apps-in-7-days-46ba)
+- [Lifehacker] [The Only Scenarios When It&#39;s Absolutely OK to Ghost Someone](https://lifehacker.com/the-only-scenarios-when-its-absolutely-ok-to-ghost-some-1848578884)
+- [Dev.to/JS] [Learn React By Making 5 Apps in 5 Days &lpar;with tutorials&rpar;](https://dev.to/goldenideas/learn-react-by-making-5-apps-in-5-days-with-tutorials-374l)
+- [Dev.to/JS] [isFunctions in Javascript](https://dev.to/urstrulyvishwak/isfunctions-in-javascript-5d0h)
+- [Dev.to/JS] [Learn how to how to adapt plain JavaScript API into a Framework-aware solution. Join our Live Coding Session and sell your apps!](https://dev.to/livechat/learn-how-to-how-to-adapt-plain-javascript-api-into-a-framework-aware-solution-join-our-live-coding-session-1c6f)
+- [Dev.to/JS] [Day 5/100, 100 Days of Code](https://dev.to/xurgg/day-5100-100-days-of-code-49do)
+- [Lifehacker] [How to Summon a Demon](https://lifehacker.com/how-to-summon-a-demon-1848558679)
+- [Dev.to/JS] [Use React/Svelte/Vue in the same application and ship 0kb JavaScript by default! 🪐](https://dev.to/joetifa2003/use-reactsveltevue-in-the-same-application-and-ship-0kb-javascript-by-default-3blh)
+- [Dev.to/JS] [7 Apps in 7 Days 
+- Coding Challenge](https://dev.to/goldenideas/challenge-7-apps-in-7-days-46ba)
 - [Lifehacker] [What&#39;s the Safest Way to Throw Away Old Knives?](https://lifehacker.com/whats-the-safest-way-to-throw-away-old-knives-1848579705)
 - [Lifehacker] [21 of the Best Introspective Movies to Watch Absolutely Alone](https://lifehacker.com/21-of-the-best-introspective-movies-to-watch-absolutely-1848571646)
 - [Dev.to/JS] [Making a To-do list in Vue](https://dev.to/smpnjn/making-a-to-do-list-in-vue-31on)
@@ -33,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [XRP Metaverse](https://dev.to/lovelife/xrp-metaverse-2khn)
 - [Dev.to/JS] [Paracetamol.js💊| #62: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-62-explica-este-codigo-javascript-6k1)
 - [Dev.to/JS] [Angular To Do app with Angular Forms - part 2](https://dev.to/this-is-angular/angular-to-do-app-with-angular-forms-part-2-10fp)
-- [Dev.to/JS] [Qu&#39;est-ce qu&#39;une application desktop ?](https://dev.to/euro_tech_conseil_france/quest-ce-quune-application-desktop--1hb9)
 - [Lifehacker] [The Difference Between Broccoli, Broccolini, Chinese Broccoli, and Broccoli Rabe](https://lifehacker.com/the-difference-between-broccoli-broccolini-chinese-br-1848577515)
-- [Dev.to/JS] [Learn APIs By Making 8 Twitter Bots 🤖](https://dev.to/goldenideas/learn-apis-by-making-8-twitter-bots-1kec)
-- [Dev.to/JS] [What’s Your Website Personality? A blog about the different personalities that makes up your website](https://dev.to/jacobhue/whats-your-website-personality-a-blog-about-the-different-personalities-that-makes-up-your-website-3e3e)
-- [Dev.to/JS] [Module 2 | React BillsApp Project with Material Ui and Context Api](https://dev.to/47karimasif/module-2-react-billsapp-project-with-material-ui-and-context-api-5e2j)
-- [Dev.to/JS] [Breathing exercise web app using React, TypeScript &amp; SCSS](https://dev.to/ashobiz/breathing-exercise-web-app-using-react-typescript-scss-fom)
 - [Lifehacker] [How to Date Someone Who&#39;s Very Online, When You&#39;re Very Offline &lpar;and Vice Versa&rpar;](https://lifehacker.com/how-to-date-someone-whos-very-online-when-youre-very-o-1848577431)
 - [Lifehacker] [What Can You Do If Airbnb Is Ruining Your Neighborhood?](https://lifehacker.com/what-can-you-do-if-airbnb-is-ruining-your-neighborhood-1848575834)
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
@@ -59,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch International Netflix With a VPN](https://lifehacker.com/how-to-watch-international-netflix-with-a-vpn-1848564804)
 - [Lifehacker] [Is It Ever a Good Idea to Buy Used Tires?](https://lifehacker.com/is-it-ever-a-good-idea-to-buy-used-tires-1848564353)
 - [Lifehacker] [Why Sitting on the Ground Can Be Good for Your Health](https://lifehacker.com/why-sitting-on-the-ground-can-be-good-for-your-health-1848563060)
-- [Lifehacker] [Why You Should Contact the Manufacturer Directly &lpar;and How to Do It&rpar;](https://lifehacker.com/why-you-should-contact-the-manufacturer-directly-and-h-1848564941)
-- [Lifehacker] [You Should Be Asking Yourself These Questions on a Regular Basis](https://lifehacker.com/you-should-be-asking-yourself-these-questions-on-a-regu-1848564970)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
