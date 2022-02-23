@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Project Resource Management: When? Why? What?](https://dev.to/webixui/project-resource-management-when-why-what-41c)
+- [Dev.to/JS] [How to build your own Social Audio Chat Application - Part 2](https://dev.to/egeninc/how-to-build-your-own-social-audio-chat-application-part-2-4jjo)
 - [Dev.to/JS] [Sales by Match &lpar;HackerRank Javascript Solution&rpar;](https://dev.to/hokagedemehin/sales-by-match-hackerrank-javascript-solution-ldh)
 - [Dev.to/JS] [Redux Form and Typescript testing with React Testing Library](https://dev.to/ip4422/redux-form-and-typescript-testing-with-react-testing-library-5bla)
 - [Dev.to/JS] [Crypto Wallet App Development 2022: Guide](https://dev.to/mattyreign/crypto-wallet-app-development-2022-guide-3o12)
@@ -30,11 +32,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Big O analysis is awesome except when it&#39;s not](https://dev.to/bellatrix/big-o-analysis-is-awesome-except-when-its-not-3dl2)
 - [Dev.to/JS] [Worst Case and Space complexity](https://dev.to/bellatrix/worst-case-and-space-complexity-5gp8)
 - [Dev.to/JS] [Big O Notation Cool Examples](https://dev.to/bellatrix/big-o-notation-cool-examples-5glp)
+- [Dev.to/JS] [Bill Division &lpar;HackerRank Javascript Solution&rpar;](https://dev.to/hokagedemehin/bill-division-hackerrank-javascript-solution-1174)
 - [Dev.to/JS] [TypeError: Cannot read properties of undefined &lpar;reading &#39;title&#39;&rpar;](https://dev.to/seritiaymen/typeerror-cannot-read-properties-of-undefined-reading-title-42fn)
 - [Dev.to/JS] [Top Benefits of building Vue app for Android](https://dev.to/arohi/top-benefits-of-building-vue-app-for-android-lpo)
-- [Dev.to/JS] [Absolute imports &lpar;in react&rpar;](https://dev.to/lautaro/absolute-imports-in-react-14a0)
-- [Dev.to/JS] [Mortgage loan calculator with JavaScript](https://dev.to/bosspetta/mortgage-loan-calculator-with-javascript-2la7)
-- [Dev.to/JS] [Different ways of export and import](https://dev.to/lautaro/different-ways-of-export-and-import-3911)
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
 - [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
