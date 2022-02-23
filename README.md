@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quote Maker Lab: Redux/React](https://dev.to/dotnotation/quote-maker-lab-reduxreact-ek7)
+- [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
+- [Dev.to/JS] [Fast and Furious Images. Web Performance tuning tips.](https://dev.to/machy8/fast-and-furious-images-web-performance-tuning-tips-1cpd)
 - [Dev.to/JS] [How to add FB SDK in react-native project](https://dev.to/aneeqakhan/how-to-add-fb-sdk-in-react-native-project-109d)
 - [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Dev.to/JS] [Introducing FormKit: A Vue 3 form building framework](https://dev.to/justinschroeder/introducing-formkit-a-vue-3-form-building-framework-53ji)
@@ -36,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Project 1: color flipper project in Javascript explained](https://dev.to/urstrulyvishwak/project-1-color-flipper-project-in-javascript-explained-3gmg)
 - [Dev.to/JS] [Setup Redux for your react application in few simple steps!](https://dev.to/anshnarula5/setup-redux-for-your-react-application-in-few-simple-steps-1f1)
 - [Lifehacker] [How to Get Kids to Like You](https://lifehacker.com/how-to-get-kids-to-like-you-1848582873)
-- [Dev.to/JS] [Yarn workspaces and change detection](https://dev.to/cherypick/yarn-workspaces-and-change-detection-4428)
 - [Lifehacker] [How to Prepare Now for Slack’s Next Outage](https://lifehacker.com/how-to-prepare-now-for-slack-s-next-outage-1848582244)
-- [Dev.to/JS] [Nucleoid: Low-code framework for JS](https://dev.to/nucleoid/nucleoid-low-code-framework-for-js-4hd6)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Colors to Paint Your Home&#39;s Front Door](https://lifehacker.com/the-best-and-worst-colors-to-paint-your-homes-front-d-1848578188)
 - [Lifehacker] [The Only Scenarios When It&#39;s Absolutely OK to Ghost Someone](https://lifehacker.com/the-only-scenarios-when-its-absolutely-ok-to-ghost-some-1848578884)
 - [Lifehacker] [How to Summon a Demon](https://lifehacker.com/how-to-summon-a-demon-1848558679)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [17 of the All-Time Best Working-Class Sitcoms](https://lifehacker.com/17-of-the-all-time-best-working-class-sitcoms-1848567495)
 - [Lifehacker] [How to Get Software and Security Updates on Your Old iPhone](https://lifehacker.com/how-to-get-software-and-security-updates-on-your-old-ip-1848574450)
 - [Lifehacker] [6 of the Easiest Breathing Exercises to Help Relieve Your Anxiety and Stress](https://lifehacker.com/6-of-the-easiest-breathing-exercises-to-help-relieve-yo-1848571019)
-- [Lifehacker] [Can a Rebound Relationship Ever Work?](https://lifehacker.com/can-a-rebound-relationship-ever-work-1848575326)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
