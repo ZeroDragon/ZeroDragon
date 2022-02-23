@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using sql.js-httpvfs with browser &lt;script type=module&gt;](https://dev.to/dholth/using-sqljs-httpvfs-with-browser-1il8)
+- [Dev.to/JS] [Converting a site to Nextjs](https://dev.to/connelevalsam/converting-a-site-to-nextjs-5cpd)
+- [Dev.to/JS] [Truthy and Falsy values in JavaScript](https://dev.to/naftalimurgor/truthy-and-falsy-values-in-javascript-458p)
 - [Dev.to/JS] [Principios SOLID en JavaScript](https://dev.to/jfernandogt/principios-solid-en-javascript-4k3i)
 - [Dev.to/JS] [Usa console.table en lugar de console.log](https://dev.to/jfernandogt/usa-consoletable-en-lugar-de-consolelog-59lo)
 - [Dev.to/JS] [Onboarding Night Journal](https://dev.to/iampearceman/onboarding-night-journal-29ho)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to patch browsers to  become modern OS?](https://dev.to/avdpro/how-to-patch-browsers-to-become-modern-os-2ckb)
 - [Dev.to/JS] [Laravel 8 Ecommerce Development](https://dev.to/adeleyeayodeji/laravel-8-ecommerce-development-3185)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
-- [Dev.to/JS] [Who Doesn&#39;t Love a Petting Zoo?](https://dev.to/lyzarddz/who-doesnt-love-a-petting-zoo-g5h)
 - [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
-- [Dev.to/JS] [Build a realtime websocket UI using SvelteKit](https://dev.to/tonyhb/build-a-realtime-websocket-ui-using-sveltekit-4jf3)
 - [Lifehacker] [Here&#39;s How Plant-Based &#39;Meats&#39; Stack Up, Nutritionally](https://lifehacker.com/heres-how-plant-based-meats-stack-up-nutritionally-1848577417)
-- [Dev.to/JS] [I love talking to you, webpage!](https://dev.to/domizajac/i-love-talking-to-you-webpage-3m9o)
 - [Lifehacker] [How to Recover From a Breakup](https://lifehacker.com/how-to-recover-from-a-breakup-1848577331)
 - [Lifehacker] [Your Next Batch of Pancakes Deserves This Ultimate Maple Butter](https://lifehacker.com/your-next-batch-of-pancakes-deserves-this-ultimate-mapl-1848577214)
 - [Lifehacker] [9 Default Chrome Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/9-default-chrome-settings-you-should-change-if-you-care-1848561036)
