@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [005/100 Days of Code: The habits](https://dev.to/alexandrebekor/005100-days-of-code-the-habits-3m5l)
+- [Dev.to/JS] [splStorage.js &lpar;Stupid Library&rpar; !!!](https://dev.to/darkterminal/splstoragejs-stupid-library--boh)
+- [Dev.to/JS] [Top 10 Handy JavaScript Tips To Know](https://dev.to/yani82/top-10-handy-javascript-tips-to-know-1092)
 - [Dev.to/JS] [Using sql.js-httpvfs with browser &lt;script type=module&gt;](https://dev.to/dholth/using-sqljs-httpvfs-with-browser-1il8)
 - [Dev.to/JS] [Converting a site to Nextjs](https://dev.to/connelevalsam/converting-a-site-to-nextjs-5cpd)
 - [Dev.to/JS] [Truthy and Falsy values in JavaScript](https://dev.to/naftalimurgor/truthy-and-falsy-values-in-javascript-458p)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Overloading Functions for Type Harmony](https://dev.to/thegnarco/overloading-functions-for-type-harmony-b85)
 - [Dev.to/JS] [How Does &quot;prevState&quot; Works Under the Hood](https://dev.to/ogzhanolguncu/how-does-prevstate-works-under-the-hood-19kf)
 - [Dev.to/JS] [JavaScript Functions: Learn by Demand](https://dev.to/mpfdev/javascript-functions-learn-by-demand-1641)
-- [Dev.to/JS] [Free JavaScript Coding Classes/Courses – For Beginners [2022 Guide]](https://dev.to/codeslinger/free-javascript-coding-classescourses-for-beginners-2022-guide-5hmf)
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
-- [Dev.to/JS] [How to patch browsers to  become modern OS?](https://dev.to/avdpro/how-to-patch-browsers-to-become-modern-os-2ckb)
-- [Dev.to/JS] [Laravel 8 Ecommerce Development](https://dev.to/adeleyeayodeji/laravel-8-ecommerce-development-3185)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
 - [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
 - [Lifehacker] [Here&#39;s How Plant-Based &#39;Meats&#39; Stack Up, Nutritionally](https://lifehacker.com/heres-how-plant-based-meats-stack-up-nutritionally-1848577417)
