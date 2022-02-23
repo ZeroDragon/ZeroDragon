@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add FB SDK in react-native project](https://dev.to/aneeqakhan/how-to-add-fb-sdk-in-react-native-project-109d)
+- [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
+- [Dev.to/JS] [Introducing FormKit: A Vue 3 form building framework](https://dev.to/justinschroeder/introducing-formkit-a-vue-3-form-building-framework-53ji)
+- [Dev.to/JS] [Day 5 of 100 days of Code](https://dev.to/nkemdev/day-5-of-100-days-of-code-207b)
 - [Dev.to/JS] [Bidirectional piping, how to make two programs communicate with each other](https://dev.to/____marcell/bidirectional-piping-how-to-make-two-programs-communicate-with-each-other-2ke9)
 - [Dev.to/JS] [Intro to React - JSX and Elements](https://dev.to/maxdemaio/intro-to-react-jsx-and-elements-3n8k)
 - [Dev.to/JS] [Advanced Sliding Tabs using HTML CSS | Html Css Tutorial](https://dev.to/codinghindi/advanced-sliding-tabs-using-html-css-html-css-tutorial-1ddm)
@@ -35,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Yarn workspaces and change detection](https://dev.to/cherypick/yarn-workspaces-and-change-detection-4428)
 - [Lifehacker] [How to Prepare Now for Slack’s Next Outage](https://lifehacker.com/how-to-prepare-now-for-slack-s-next-outage-1848582244)
 - [Dev.to/JS] [Nucleoid: Low-code framework for JS](https://dev.to/nucleoid/nucleoid-low-code-framework-for-js-4hd6)
-- [Dev.to/JS] [Installing Cypress and knowing the structure](https://dev.to/ramirezmz/installing-cypress-and-knowing-the-structure-3nfa)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Colors to Paint Your Home&#39;s Front Door](https://lifehacker.com/the-best-and-worst-colors-to-paint-your-homes-front-d-1848578188)
-- [Dev.to/JS] [Day-30 Training at Ryaz](https://dev.to/mahin651/day-30-training-at-ryaz-25ja)
-- [Dev.to/JS] [The first Strapi SEO plugin](https://dev.to/strapi/the-first-strapi-seo-plugin-3545)
 - [Lifehacker] [The Only Scenarios When It&#39;s Absolutely OK to Ghost Someone](https://lifehacker.com/the-only-scenarios-when-its-absolutely-ok-to-ghost-some-1848578884)
 - [Lifehacker] [How to Summon a Demon](https://lifehacker.com/how-to-summon-a-demon-1848558679)
 - [Lifehacker] [What&#39;s the Safest Way to Throw Away Old Knives?](https://lifehacker.com/whats-the-safest-way-to-throw-away-old-knives-1848579705)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 of the Easiest Breathing Exercises to Help Relieve Your Anxiety and Stress](https://lifehacker.com/6-of-the-easiest-breathing-exercises-to-help-relieve-yo-1848571019)
 - [Lifehacker] [Can a Rebound Relationship Ever Work?](https://lifehacker.com/can-a-rebound-relationship-ever-work-1848575326)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
-- [Lifehacker] [14 of the Sketchiest Parenting Tricks That Actually Work, According to Lifehacker Readers](https://lifehacker.com/14-of-the-sketchiest-parenting-tricks-that-actually-wor-1848572594)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
 
