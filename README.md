@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
 - [Dev.to/JS] [What are you learning and why?](https://dev.to/dashpy/what-are-you-learning-and-why-294g)
 - [Dev.to/JS] [Using the JavaScript array method flatMap&lpar;&rpar;](https://dev.to/jkap100/using-the-javascript-array-method-flatmap-1534)
 - [Dev.to/JS] [Day 12 of Studying LeetCode Solution until I Can Solve One on My Own: Problem1560. Most Visited Sector in a Circular Track&lpar;E/JS&rpar;](https://dev.to/corndog_com567/day-12-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1560-most-visited-sector-in-a-circular-trackejs-1ple)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s the Safest Way to Throw Away Old Knives?](https://lifehacker.com/whats-the-safest-way-to-throw-away-old-knives-1848579705)
 - [Lifehacker] [21 of the Best Introspective Movies to Watch Absolutely Alone](https://lifehacker.com/21-of-the-best-introspective-movies-to-watch-absolutely-1848571646)
 - [Lifehacker] [13 &#39;Challenges&#39; That Prove Older Generations Were As Stupid As TikTok Teens](https://lifehacker.com/13-challenges-that-prove-older-generations-were-as-stup-1848579794)
-- [Lifehacker] [The Difference Between Broccoli, Broccolini, Chinese Broccoli, and Broccoli Rabe](https://lifehacker.com/the-difference-between-broccoli-broccolini-chinese-br-1848577515)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
