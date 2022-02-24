@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Contribution of Software-as-a-Service in Digital Transformation](https://dev.to/cloudstakes/the-contribution-of-software-as-a-service-in-digital-transformation-f5o)
+- [Dev.to/JS] [Weird JS - Part 1 🧑‍💻](https://dev.to/msabir/weird-js-part-1-4be5)
+- [Dev.to/JS] [Web 3 RoadMap with Resources to learn](https://dev.to/surajondev/web-3-roadmap-with-resources-to-learn-8jc)
+- [Dev.to/JS] [Getting a job in tech part 2: Portfolio](https://dev.to/carolinacobo/getting-a-job-in-tech-part-2-portfolio-66f)
 - [Dev.to/JS] [Day 6/100, 100 Days of Code](https://dev.to/xurgg/day-6100-100-days-of-code-5c35)
 - [Dev.to/JS] [A Clone Project 2](https://dev.to/ayako_yk/a-clone-project-2-3pm1)
 - [Dev.to/JS] [🪝Convert React Hook to Vue](https://dev.to/iamandrewluca/convert-react-hook-to-vue-composition-api-1foi)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Easiest Way To Install Node.js on Linux/MacOS](https://dev.to/maupanelo/the-easiest-way-to-install-nodejs-on-linuxmacos-5c54)
 - [Dev.to/JS] [Top 10 AngularJS Developer Tools in 2022](https://dev.to/yogeshkumartech/top-11-angularjs-developer-tools-in-2022-fdk)
 - [Dev.to/JS] [ReactJS: State Persistence Using Recoil](https://dev.to/joiellantero/reactjs-state-persistence-using-react-recoil-29oc)
-- [Dev.to/JS] [let, const and the Temporal Dead Zone](https://dev.to/sobitp59/let-const-and-the-temporal-dead-zone-2j8l)
-- [Dev.to/JS] [CAP KEEPS : Phase-1 Project](https://dev.to/breonwhite/cap-keeps-phase-1-project-g7n)
-- [Dev.to/JS] [log-fns: a new JS logging library](https://dev.to/puddingontheritz/log-fns-a-new-js-logging-library-3m19)
-- [Dev.to/JS] [How to send push notifications with Firebase and React](https://dev.to/jeremytenjo/how-to-send-push-notifications-with-firebase-and-react-1pol)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
 - [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
