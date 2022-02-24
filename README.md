@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SSR-Friendly Unique HTML IDs in Vue 3](https://dev.to/jshimkoski/ssr-friendly-unique-html-ids-in-vue-3-1og9)
+- [Dev.to/JS] [How to Make a Wordle Solver with Twilio Serverless, Studio, and SMS](https://dev.to/twilio/how-to-make-a-wordle-solver-with-twilio-serverless-studio-and-sms-252g)
 - [Dev.to/JS] [Creating a modal dialog with Alpine.js](https://dev.to/michaelburrows/creating-a-modal-dialog-with-alpinejs-40ig)
 - [Dev.to/JS] [.localeCompare&lpar;&rpar; and sorting in Javascript](https://dev.to/hariseldon27/localecompare-and-sorting-in-javascript-1god)
 - [Dev.to/JS] [A Vue3 Tutorial - 08 Vue Components without a Build System 2 &lpar;A Better Way&rpar;](https://dev.to/krowemoh/a-vue3-tutorial-08-vue-components-without-a-build-system-2-a-better-way-g1g)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 5 of 100 days of Code](https://dev.to/nkemdev/day-5-of-100-days-of-code-207b)
 - [Dev.to/JS] [Bidirectional piping, how to make two programs communicate with each other](https://dev.to/____marcell/bidirectional-piping-how-to-make-two-programs-communicate-with-each-other-2ke9)
 - [Dev.to/JS] [Intro to React - JSX and Elements](https://dev.to/maxdemaio/intro-to-react-jsx-and-elements-3n8k)
-- [Dev.to/JS] [Advanced Sliding Tabs using HTML CSS | Html Css Tutorial](https://dev.to/codinghindi/advanced-sliding-tabs-using-html-css-html-css-tutorial-1ddm)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
-- [Dev.to/JS] [Built a Filterable To-do App in React](https://dev.to/yasledesma/built-a-filterable-to-do-app-in-react-4pon)
 - [Lifehacker] [How to Get Kids to Like You](https://lifehacker.com/how-to-get-kids-to-like-you-1848582873)
 - [Lifehacker] [How to Prepare Now for Slack’s Next Outage](https://lifehacker.com/how-to-prepare-now-for-slack-s-next-outage-1848582244)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Colors to Paint Your Home&#39;s Front Door](https://lifehacker.com/the-best-and-worst-colors-to-paint-your-homes-front-d-1848578188)
