@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are you learning and why?](https://dev.to/dashpy/what-are-you-learning-and-why-294g)
+- [Dev.to/JS] [Using the JavaScript array method flatMap&lpar;&rpar;](https://dev.to/jkap100/using-the-javascript-array-method-flatmap-1534)
+- [Dev.to/JS] [Day 12 of Studying LeetCode Solution until I Can Solve One on My Own: Problem1560. Most Visited Sector in a Circular Track&lpar;E/JS&rpar;](https://dev.to/corndog_com567/day-12-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1560-most-visited-sector-in-a-circular-trackejs-1ple)
 - [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
 - [Dev.to/JS] [Let’s Checkout….. WunderGraph](https://dev.to/wundergraph/lets-checkout-wundergraph-3b7b)
 - [Dev.to/JS] [10 React community hooks you should be using](https://dev.to/dawsoncodes/10-react-community-hooks-1h6c)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 Common Baking Myths You Should Stop Believing](https://lifehacker.com/6-common-baking-myths-you-should-stop-believing-1848587648)
 - [Dev.to/JS] [Day-31 Training At Ryaz](https://dev.to/mahin651/day-31-training-at-ryaz-3b4c)
 - [Dev.to/JS] [Angular vs. React: Whichever you choose, you can use at Fathym](https://dev.to/richkurtzman/angular-vs-react-whichever-you-choose-you-can-use-at-fathym-en3)
-- [Dev.to/JS] [Covid19](https://dev.to/rifkanvitasari_/covid19-p3g)
 - [Lifehacker] [What the Codes on Your Car’s Tires Are Telling You](https://lifehacker.com/what-the-codes-on-your-car-s-tires-are-telling-you-1848587260)
-- [Dev.to/JS] [New tsParticles Confetti website is now live](https://dev.to/matteobruni/new-tsparticles-confetti-website-is-now-live-pej)
-- [Dev.to/JS] [Performance improvement by lazy loading in Angular](https://dev.to/pawankkumawat/performance-improvement-by-lazy-loading-in-angular-2n03)
 - [Lifehacker] [The Smartest Way to Keep Avocados Fresh for Up to a Month](https://lifehacker.com/the-smartest-way-to-keep-avocados-fresh-for-up-to-a-mon-1848587051)
 - [Lifehacker] [You Can &lpar;Once Again&rpar; Stream Twitch From Your Xbox](https://lifehacker.com/you-can-once-again-stream-twitch-from-your-xbox-1848585115)
 - [Lifehacker] [Don&#39;t Feel Bad If You Can&#39;t Squirt &lpar;But Here&#39;s How You Can Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582)
