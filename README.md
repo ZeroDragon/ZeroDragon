@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Demo](https://dev.to/abiiram10/demo-23cb)
+- [Lifehacker] [Sure, You Can Go to Antarctica &lpar;but Here’s Why You Shouldn’t&rpar;](https://lifehacker.com/sure-you-can-go-to-antarctica-but-here-s-why-you-shou-1848589285)
+- [Dev.to/JS] [React Context and Hooks: Pass data and update it easily](https://dev.to/napoleon039/react-context-and-hooks-pass-data-and-update-it-easily-3akb)
+- [Lifehacker] [The Fastest Ways to Fact-Check a Viral Tweet](https://lifehacker.com/the-fastest-ways-to-fact-check-a-viral-tweet-1848588918)
+- [Lifehacker] [You&#39;re Not Washing Your Throw Blankets Enough &lpar;and It&#39;s Gross&rpar;](https://lifehacker.com/youre-not-washing-your-throw-blankets-enough-and-its-g-1848587537)
 - [Dev.to/JS] [The easy straightforward way to create demo serverless functions on Netlify](https://dev.to/ayyash/the-easy-straightforward-way-to-create-demo-serverless-functions-on-netlify-3ib7)
 - [Lifehacker] [How to Force Google Chrome to Download PDFs Instead of Opening Them](https://lifehacker.com/how-to-force-google-chrome-to-download-pdfs-instead-of-1848587110)
 - [Dev.to/JS] [How to use Watchers in Vue 👀](https://dev.to/smpnjn/how-to-use-watchers-in-vue-4j5j)
@@ -38,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Project 2: Random Color Flipper in Javascript](https://dev.to/urstrulyvishwak/project-2-random-color-flipper-in-javascript-3i6)
 - [Lifehacker] [You Can &lpar;Once Again&rpar; Stream Twitch From Your Xbox](https://lifehacker.com/you-can-once-again-stream-twitch-from-your-xbox-1848585115)
 - [Dev.to/JS] [Build a FullStack App with Next.js, Supabase &amp; Prisma](https://dev.to/gdangelo/build-a-fullstack-app-with-nextjs-supabase-prisma-5f65)
-- [Dev.to/JS] [Building an Apache ECharts dashboard with React and Cube](https://dev.to/cubejs/building-an-apache-echarts-dashboard-with-react-and-cube-45i3)
 - [Lifehacker] [Don&#39;t Feel Bad If You Can&#39;t Squirt &lpar;But Here&#39;s How You Can Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582)
-- [Dev.to/JS] [I created opensense 👁](https://dev.to/sripadhs/i-created-opensense-nf)
 - [Lifehacker] [How to Stick With Your Running Routine All Winter Long](https://lifehacker.com/how-to-stick-with-your-running-routine-all-winter-long-1848575271)
 - [Lifehacker] [The Difference Between a Possum and an Opossum](https://lifehacker.com/the-difference-between-a-possum-and-an-opossum-1848583776)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Broccoli, Broccolini, Chinese Broccoli, and Broccoli Rabe](https://lifehacker.com/the-difference-between-broccoli-broccolini-chinese-br-1848577515)
 - [Lifehacker] [How to Date Someone Who&#39;s Very Online, When You&#39;re Very Offline &lpar;and Vice Versa&rpar;](https://lifehacker.com/how-to-date-someone-whos-very-online-when-youre-very-o-1848577431)
 - [Lifehacker] [What Can You Do If Airbnb Is Ruining Your Neighborhood?](https://lifehacker.com/what-can-you-do-if-airbnb-is-ruining-your-neighborhood-1848575834)
-- [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
-- [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
-- [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
