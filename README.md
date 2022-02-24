@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Smartest Way to Keep Avocados Fresh for Up to a Month](https://lifehacker.com/the-smartest-way-to-keep-avocados-fresh-for-up-to-a-mon-1848587051)
+- [Dev.to/JS] [Project 2: Random Color Flipper in Javascript](https://dev.to/urstrulyvishwak/project-2-random-color-flipper-in-javascript-3i6)
+- [Lifehacker] [You Can &lpar;Once Again&rpar; Stream Twitch From Your Xbox](https://lifehacker.com/you-can-once-again-stream-twitch-from-your-xbox-1848585115)
+- [Dev.to/JS] [Build a FullStack App with Next.js, Supabase &amp; Prisma](https://dev.to/gdangelo/build-a-fullstack-app-with-nextjs-supabase-prisma-5f65)
+- [Dev.to/JS] [Building an Apache ECharts dashboard with React and Cube](https://dev.to/cubejs/building-an-apache-echarts-dashboard-with-react-and-cube-45i3)
 - [Lifehacker] [Don&#39;t Feel Bad If You Can&#39;t Squirt &lpar;But Here&#39;s How You Can Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582)
 - [Dev.to/JS] [I created opensense 👁](https://dev.to/sripadhs/i-created-opensense-nf)
 - [Dev.to/JS] [Creating a video player web component](https://dev.to/video/creating-a-video-player-web-component-3lgg)
@@ -32,12 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Web Development Ideas to Boost Your Online Business in 2022](https://dev.to/abhiavsnet/new-web-development-ideas-to-boost-your-online-business-in-2022-56dg)
 - [Dev.to/JS] [7 Weird Reasons Why Web developers Use Linux, the 5th reason will shock you 😳](https://dev.to/elliot_brenyasarfo_18749/7-weird-reasons-why-web-developers-use-linux-the-5th-reason-will-shock-you-681)
 - [Dev.to/JS] [Learn JavaScript Arrays](https://dev.to/mwendwabundi/learn-javascript-arrays-36o6)
-- [Dev.to/JS] [Declaring Variables in JavaScript](https://dev.to/bharati21/declaring-variables-in-javascript-1nfa)
 - [Lifehacker] [The Difference Between a Possum and an Opossum](https://lifehacker.com/the-difference-between-a-possum-and-an-opossum-1848583776)
 - [Dev.to/JS] [11 JavaScript concepts to understand before you learn React](https://dev.to/thatanjan/11-javascript-concepts-to-understand-before-you-learn-react-246k)
 - [Dev.to/JS] [006/100 Days of Code: Strapi CMS](https://dev.to/alexandrebekor/006100-days-of-code-strapi-cms-n5i)
-- [Dev.to/JS] [Creating your first Svelte App with SvelteKit](https://dev.to/smpnjn/creating-your-first-svelte-app-with-sveltekit-4ech)
-- [Dev.to/JS] [Day 6 of 100 Days of Code](https://dev.to/nkemdev/day-6-of-100-days-of-code-5aak)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
 - [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s How Plant-Based &#39;Meats&#39; Stack Up, Nutritionally](https://lifehacker.com/heres-how-plant-based-meats-stack-up-nutritionally-1848577417)
 - [Lifehacker] [How to Recover From a Breakup](https://lifehacker.com/how-to-recover-from-a-breakup-1848577331)
 - [Lifehacker] [Your Next Batch of Pancakes Deserves This Ultimate Maple Butter](https://lifehacker.com/your-next-batch-of-pancakes-deserves-this-ultimate-mapl-1848577214)
-- [Lifehacker] [9 Default Chrome Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/9-default-chrome-settings-you-should-change-if-you-care-1848561036)
-- [Lifehacker] [How to Re-Enter the Workforce After Stay-at-Home Parenting &lpar;Without Losing Your Mind&rpar;](https://lifehacker.com/how-to-re-enter-the-workforce-after-stay-at-home-parent-1848560882)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
