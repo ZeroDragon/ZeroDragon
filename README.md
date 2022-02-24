@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Ticketing App Using Vue.js and Strapi](https://dev.to/strapi/how-to-build-a-ticketing-app-using-vuejs-and-strapi-2n7n)
+- [Dev.to/JS] [API REST - typeScript, nodejs, express](https://dev.to/reynaldoz/api-rest-typescript-nodejs-express-125b)
 - [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
 - [Dev.to/JS] [What are you learning and why?](https://dev.to/dashpy/what-are-you-learning-and-why-294g)
 - [Dev.to/JS] [Using the JavaScript array method flatMap&lpar;&rpar;](https://dev.to/jkap100/using-the-javascript-array-method-flatmap-1534)
@@ -31,7 +33,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let’s Checkout….. WunderGraph](https://dev.to/wundergraph/lets-checkout-wundergraph-3b7b)
 - [Dev.to/JS] [10 React community hooks you should be using](https://dev.to/dawsoncodes/10-react-community-hooks-1h6c)
 - [Dev.to/JS] [A collection of the best HTTP clients for various languages](https://dev.to/mbagley1020/a-collection-of-the-best-http-clients-for-various-languages-42j)
-- [Lifehacker] [The Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
+- [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
 - [Dev.to/JS] [Demo](https://dev.to/abiiram10/demo-23cb)
 - [Lifehacker] [Sure, You Can Go to Antarctica &lpar;but Here’s Why You Shouldn’t&rpar;](https://lifehacker.com/sure-you-can-go-to-antarctica-but-here-s-why-you-shou-1848589285)
 - [Dev.to/JS] [React Context and Hooks: Pass data and update it easily](https://dev.to/napoleon039/react-context-and-hooks-pass-data-and-update-it-easily-3akb)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Force Google Chrome to Download PDFs Instead of Opening Them](https://lifehacker.com/how-to-force-google-chrome-to-download-pdfs-instead-of-1848587110)
 - [Dev.to/JS] [How to use Watchers in Vue 👀](https://dev.to/smpnjn/how-to-use-watchers-in-vue-4j5j)
 - [Lifehacker] [6 Common Baking Myths You Should Stop Believing](https://lifehacker.com/6-common-baking-myths-you-should-stop-believing-1848587648)
-- [Dev.to/JS] [Day-31 Training At Ryaz](https://dev.to/mahin651/day-31-training-at-ryaz-3b4c)
-- [Dev.to/JS] [Angular vs. React: Whichever you choose, you can use at Fathym](https://dev.to/richkurtzman/angular-vs-react-whichever-you-choose-you-can-use-at-fathym-en3)
 - [Lifehacker] [What the Codes on Your Car’s Tires Are Telling You](https://lifehacker.com/what-the-codes-on-your-car-s-tires-are-telling-you-1848587260)
 - [Lifehacker] [The Smartest Way to Keep Avocados Fresh for Up to a Month](https://lifehacker.com/the-smartest-way-to-keep-avocados-fresh-for-up-to-a-mon-1848587051)
 - [Lifehacker] [You Can &lpar;Once Again&rpar; Stream Twitch From Your Xbox](https://lifehacker.com/you-can-once-again-stream-twitch-from-your-xbox-1848585115)
