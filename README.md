@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [let, const and the Temporal Dead Zone](https://dev.to/sobitp59/let-const-and-the-temporal-dead-zone-2j8l)
+- [Dev.to/JS] [Webpack Module Bundler](https://dev.to/adetroja/webpack-module-bundler-2cpm)
+- [Dev.to/JS] [CAP KEEPS : Phase-1 Project](https://dev.to/breonwhite/cap-keeps-phase-1-project-g7n)
 - [Dev.to/JS] [log-fns: a new JS logging library](https://dev.to/puddingontheritz/log-fns-a-new-js-logging-library-3m19)
 - [Dev.to/JS] [How to send push notifications with Firebase and React](https://dev.to/jeremytenjo/how-to-send-push-notifications-with-firebase-and-react-1pol)
 - [Dev.to/JS] [React.js - Custom Hook useAxios&lpar;&rpar;](https://dev.to/jhonywalkeer/reactjs-custom-hook-useaxios-1pdg)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SSR-Friendly Unique HTML IDs in Vue 3](https://dev.to/jshimkoski/ssr-friendly-unique-html-ids-in-vue-3-1og9)
 - [Dev.to/JS] [How to Make a Wordle Solver with Twilio Serverless, Studio, and SMS](https://dev.to/twilio/how-to-make-a-wordle-solver-with-twilio-serverless-studio-and-sms-252g)
 - [Dev.to/JS] [Creating a modal dialog with Alpine.js](https://dev.to/michaelburrows/creating-a-modal-dialog-with-alpinejs-40ig)
-- [Dev.to/JS] [.localeCompare&lpar;&rpar; and sorting in Javascript](https://dev.to/hariseldon27/localecompare-and-sorting-in-javascript-1god)
-- [Dev.to/JS] [A Vue3 Tutorial - 08 Vue Components without a Build System 2 &lpar;A Better Way&rpar;](https://dev.to/krowemoh/a-vue3-tutorial-08-vue-components-without-a-build-system-2-a-better-way-g1g)
-- [Dev.to/JS] [Quote Maker Lab: Redux/React](https://dev.to/dotnotation/quote-maker-lab-reduxreact-ek7)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
 - [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
