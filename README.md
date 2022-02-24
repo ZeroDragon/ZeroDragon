@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Calling and Consuming APIs with Mantine in ReactJS #3](https://dev.to/samp_reston/calling-and-consuming-apis-with-mantine-in-reactjs-3-dh8)
 - [Dev.to/JS] [MDown Editor - A markdown playground](https://dev.to/rededge967/mdown-editor-a-markdown-playground-4cj5)
 - [Dev.to/JS] [Day 11 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#844. Backspace String Compare&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog_com567/day-11-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem844-backspace-string-compareeasyjavascript-2n4o)
 - [Dev.to/JS] [SSR-Friendly Unique HTML IDs in Vue 3](https://dev.to/jshimkoski/ssr-friendly-unique-html-ids-in-vue-3-1og9)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add FB SDK in react-native project](https://dev.to/aneeqakhan/how-to-add-fb-sdk-in-react-native-project-109d)
 - [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Dev.to/JS] [Introducing FormKit: A Vue 3 form building framework](https://dev.to/justinschroeder/introducing-formkit-a-vue-3-form-building-framework-53ji)
-- [Dev.to/JS] [Day 5 of 100 days of Code](https://dev.to/nkemdev/day-5-of-100-days-of-code-207b)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
 - [Lifehacker] [How to Get Kids to Like You](https://lifehacker.com/how-to-get-kids-to-like-you-1848582873)
 - [Lifehacker] [How to Prepare Now for Slack’s Next Outage](https://lifehacker.com/how-to-prepare-now-for-slack-s-next-outage-1848582244)
