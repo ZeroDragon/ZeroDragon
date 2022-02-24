@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
+- [Dev.to/JS] [Let’s Checkout….. WunderGraph](https://dev.to/wundergraph/lets-checkout-wundergraph-3b7b)
+- [Dev.to/JS] [10 React community hooks you should be using](https://dev.to/dawsoncodes/10-react-community-hooks-1h6c)
+- [Dev.to/JS] [A collection of the best HTTP clients for various languages](https://dev.to/mbagley1020/a-collection-of-the-best-http-clients-for-various-languages-42j)
+- [Lifehacker] [The Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
 - [Dev.to/JS] [Demo](https://dev.to/abiiram10/demo-23cb)
 - [Lifehacker] [Sure, You Can Go to Antarctica &lpar;but Here’s Why You Shouldn’t&rpar;](https://lifehacker.com/sure-you-can-go-to-antarctica-but-here-s-why-you-shou-1848589285)
 - [Dev.to/JS] [React Context and Hooks: Pass data and update it easily](https://dev.to/napoleon039/react-context-and-hooks-pass-data-and-update-it-easily-3akb)
@@ -38,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What the Codes on Your Car’s Tires Are Telling You](https://lifehacker.com/what-the-codes-on-your-car-s-tires-are-telling-you-1848587260)
 - [Dev.to/JS] [New tsParticles Confetti website is now live](https://dev.to/matteobruni/new-tsparticles-confetti-website-is-now-live-pej)
 - [Dev.to/JS] [Performance improvement by lazy loading in Angular](https://dev.to/pawankkumawat/performance-improvement-by-lazy-loading-in-angular-2n03)
-- [Dev.to/JS] [How to Make Money with HTML, CSS, &amp; JavaScript?](https://dev.to/gauravsoni97/how-to-make-money-with-html-css-javascript-4imn)
 - [Lifehacker] [The Smartest Way to Keep Avocados Fresh for Up to a Month](https://lifehacker.com/the-smartest-way-to-keep-avocados-fresh-for-up-to-a-mon-1848587051)
-- [Dev.to/JS] [Project 2: Random Color Flipper in Javascript](https://dev.to/urstrulyvishwak/project-2-random-color-flipper-in-javascript-3i6)
 - [Lifehacker] [You Can &lpar;Once Again&rpar; Stream Twitch From Your Xbox](https://lifehacker.com/you-can-once-again-stream-twitch-from-your-xbox-1848585115)
-- [Dev.to/JS] [Build a FullStack App with Next.js, Supabase &amp; Prisma](https://dev.to/gdangelo/build-a-fullstack-app-with-nextjs-supabase-prisma-5f65)
 - [Lifehacker] [Don&#39;t Feel Bad If You Can&#39;t Squirt &lpar;But Here&#39;s How You Can Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582)
 - [Lifehacker] [How to Stick With Your Running Routine All Winter Long](https://lifehacker.com/how-to-stick-with-your-running-routine-all-winter-long-1848575271)
 - [Lifehacker] [The Difference Between a Possum and an Opossum](https://lifehacker.com/the-difference-between-a-possum-and-an-opossum-1848583776)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [21 of the Best Introspective Movies to Watch Absolutely Alone](https://lifehacker.com/21-of-the-best-introspective-movies-to-watch-absolutely-1848571646)
 - [Lifehacker] [13 &#39;Challenges&#39; That Prove Older Generations Were As Stupid As TikTok Teens](https://lifehacker.com/13-challenges-that-prove-older-generations-were-as-stup-1848579794)
 - [Lifehacker] [The Difference Between Broccoli, Broccolini, Chinese Broccoli, and Broccoli Rabe](https://lifehacker.com/the-difference-between-broccoli-broccolini-chinese-br-1848577515)
-- [Lifehacker] [How to Date Someone Who&#39;s Very Online, When You&#39;re Very Offline &lpar;and Vice Versa&rpar;](https://lifehacker.com/how-to-date-someone-whos-very-online-when-youre-very-o-1848577431)
-- [Lifehacker] [What Can You Do If Airbnb Is Ruining Your Neighborhood?](https://lifehacker.com/what-can-you-do-if-airbnb-is-ruining-your-neighborhood-1848575834)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
