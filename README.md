@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Design for Everybody: Basics of Web Development &amp; Coding](https://dev.to/mr_j_e_e_t/web-design-for-everybody-basics-of-web-development-coding-5nd)
+- [Dev.to/JS] [Reasons Why Businesses Need to Go Remote When Hiring Java developer](https://dev.to/jessmann1/reasons-why-businesses-need-to-go-remote-when-hiring-java-developer-5a76)
+- [Dev.to/JS] [50+ HTML Creative Resume Templates With Free Source Code](https://dev.to/miketech_13/50-html-creative-resume-templates-with-free-source-code-hbg)
 - [Dev.to/JS] [Loading Excel data in Node JS by converting them into json.](https://dev.to/teyedoku/loading-excel-data-in-node-js-by-converting-them-into-json-11gh)
 - [Dev.to/JS] [Do You Really Know UseEffect?](https://dev.to/theashishmaurya/do-you-really-know-useeffect-19g3)
 - [Dev.to/JS] [The Contribution of Software-as-a-Service in Digital Transformation](https://dev.to/cloudstakes/the-contribution-of-software-as-a-service-in-digital-transformation-f5o)
-- [Dev.to/JS] [Weird JavaScript - Part 1 🧑‍💻](https://dev.to/msabir/weird-js-part-1-4be5)
 - [Dev.to/JS] [Web 3 RoadMap with Resources to learn](https://dev.to/surajondev/web-3-roadmap-with-resources-to-learn-8jc)
 - [Dev.to/JS] [Getting a job in tech part 2: Portfolio](https://dev.to/carolinacobo/getting-a-job-in-tech-part-2-portfolio-66f)
 - [Dev.to/JS] [Day 6/100, 100 Days of Code](https://dev.to/xurgg/day-6100-100-days-of-code-5c35)
 - [Dev.to/JS] [A Clone Project 2](https://dev.to/ayako_yk/a-clone-project-2-3pm1)
 - [Dev.to/JS] [🪝Convert React Hook to Vue](https://dev.to/iamandrewluca/convert-react-hook-to-vue-composition-api-1foi)
 - [Dev.to/JS] [VisiClear - Eye Reviews, Benefits, Price And Ingredients?](https://dev.to/visiclearinfo/visiclear-eye-reviews-benefits-price-and-ingredients-37o4)
-- [Dev.to/JS] [Pushing The Limits Of The Modern Browser](https://dev.to/dustinbrett/pushing-the-limits-of-the-modern-browser-17bh)
-- [Dev.to/JS] [The Easiest Way To Install Node.js on Linux/MacOS](https://dev.to/maupanelo/the-easiest-way-to-install-nodejs-on-linuxmacos-5c54)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
 - [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
