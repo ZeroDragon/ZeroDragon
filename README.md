@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [6 Common Baking Myths You Should Stop Believing](https://lifehacker.com/6-common-baking-myths-you-should-stop-believing-1848587648)
+- [Dev.to/JS] [Day-31 Training At Ryaz](https://dev.to/mahin651/day-31-training-at-ryaz-3b4c)
+- [Dev.to/JS] [Angular vs. React: Whichever you choose, you can use at Fathym](https://dev.to/richkurtzman/angular-vs-react-whichever-you-choose-you-can-use-at-fathym-en3)
+- [Dev.to/JS] [Covid19](https://dev.to/rifkanvitasari_/covid19-p3g)
+- [Lifehacker] [What the Codes on Your Car’s Tires Are Telling You](https://lifehacker.com/what-the-codes-on-your-car-s-tires-are-telling-you-1848587260)
+- [Dev.to/JS] [New tsParticles Confetti website is now live](https://dev.to/matteobruni/new-tsparticles-confetti-website-is-now-live-pej)
+- [Dev.to/JS] [Performance improvement by lazy loading in Angular](https://dev.to/pawankkumawat/performance-improvement-by-lazy-loading-in-angular-2n03)
+- [Dev.to/JS] [How to Make Money with HTML, CSS, &amp; JavaScript?](https://dev.to/gauravsoni97/how-to-make-money-with-html-css-javascript-4imn)
 - [Lifehacker] [The Smartest Way to Keep Avocados Fresh for Up to a Month](https://lifehacker.com/the-smartest-way-to-keep-avocados-fresh-for-up-to-a-mon-1848587051)
 - [Dev.to/JS] [Project 2: Random Color Flipper in Javascript](https://dev.to/urstrulyvishwak/project-2-random-color-flipper-in-javascript-3i6)
 - [Lifehacker] [You Can &lpar;Once Again&rpar; Stream Twitch From Your Xbox](https://lifehacker.com/you-can-once-again-stream-twitch-from-your-xbox-1848585115)
@@ -32,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created opensense 👁](https://dev.to/sripadhs/i-created-opensense-nf)
 - [Dev.to/JS] [Creating a video player web component](https://dev.to/video/creating-a-video-player-web-component-3lgg)
 - [Dev.to/JS] [Paracetamol.js💊| #63: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-63-explica-este-codigo-javascript-57ph)
-- [Dev.to/JS] [Is a Web Development Bootcamp Worth it in 2022?](https://dev.to/johnpalmgren/is-a-web-development-bootcamp-worth-it-in-2022-1o3f)
 - [Lifehacker] [How to Stick With Your Running Routine All Winter Long](https://lifehacker.com/how-to-stick-with-your-running-routine-all-winter-long-1848575271)
-- [Dev.to/JS] [New Web Development Ideas to Boost Your Online Business in 2022](https://dev.to/abhiavsnet/new-web-development-ideas-to-boost-your-online-business-in-2022-56dg)
-- [Dev.to/JS] [7 Weird Reasons Why Web developers Use Linux, the 5th reason will shock you 😳](https://dev.to/elliot_brenyasarfo_18749/7-weird-reasons-why-web-developers-use-linux-the-5th-reason-will-shock-you-681)
-- [Dev.to/JS] [Learn JavaScript Arrays](https://dev.to/mwendwabundi/learn-javascript-arrays-36o6)
 - [Lifehacker] [The Difference Between a Possum and an Opossum](https://lifehacker.com/the-difference-between-a-possum-and-an-opossum-1848583776)
-- [Dev.to/JS] [11 JavaScript concepts to understand before you learn React](https://dev.to/thatanjan/11-javascript-concepts-to-understand-before-you-learn-react-246k)
-- [Dev.to/JS] [006/100 Days of Code: Strapi CMS](https://dev.to/alexandrebekor/006100-days-of-code-strapi-cms-n5i)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
 - [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
 - [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
 - [Lifehacker] [Here&#39;s How Plant-Based &#39;Meats&#39; Stack Up, Nutritionally](https://lifehacker.com/heres-how-plant-based-meats-stack-up-nutritionally-1848577417)
-- [Lifehacker] [How to Recover From a Breakup](https://lifehacker.com/how-to-recover-from-a-breakup-1848577331)
-- [Lifehacker] [Your Next Batch of Pancakes Deserves This Ultimate Maple Butter](https://lifehacker.com/your-next-batch-of-pancakes-deserves-this-ultimate-mapl-1848577214)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
