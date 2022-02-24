@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do You Really Know UseEffect?](https://dev.to/theashishmaurya/do-you-really-know-useeffect-19g3)
 - [Dev.to/JS] [The Contribution of Software-as-a-Service in Digital Transformation](https://dev.to/cloudstakes/the-contribution-of-software-as-a-service-in-digital-transformation-f5o)
-- [Dev.to/JS] [Weird JS - Part 1 🧑‍💻](https://dev.to/msabir/weird-js-part-1-4be5)
+- [Dev.to/JS] [Weird JavaScript - Part 1 🧑‍💻](https://dev.to/msabir/weird-js-part-1-4be5)
 - [Dev.to/JS] [Web 3 RoadMap with Resources to learn](https://dev.to/surajondev/web-3-roadmap-with-resources-to-learn-8jc)
 - [Dev.to/JS] [Getting a job in tech part 2: Portfolio](https://dev.to/carolinacobo/getting-a-job-in-tech-part-2-portfolio-66f)
 - [Dev.to/JS] [Day 6/100, 100 Days of Code](https://dev.to/xurgg/day-6100-100-days-of-code-5c35)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pushing The Limits Of The Modern Browser](https://dev.to/dustinbrett/pushing-the-limits-of-the-modern-browser-17bh)
 - [Dev.to/JS] [The Easiest Way To Install Node.js on Linux/MacOS](https://dev.to/maupanelo/the-easiest-way-to-install-nodejs-on-linuxmacos-5c54)
 - [Dev.to/JS] [Top 10 AngularJS Developer Tools in 2022](https://dev.to/yogeshkumartech/top-11-angularjs-developer-tools-in-2022-fdk)
-- [Dev.to/JS] [ReactJS: State Persistence Using Recoil](https://dev.to/joiellantero/reactjs-state-persistence-using-react-recoil-29oc)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
 - [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
