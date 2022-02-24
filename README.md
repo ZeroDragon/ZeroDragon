@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The easy straightforward way to create demo serverless functions on Netlify](https://dev.to/ayyash/the-easy-straightforward-way-to-create-demo-serverless-functions-on-netlify-3ib7)
+- [Lifehacker] [How to Force Google Chrome to Download PDFs Instead of Opening Them](https://lifehacker.com/how-to-force-google-chrome-to-download-pdfs-instead-of-1848587110)
+- [Dev.to/JS] [How to use Watchers in Vue 👀](https://dev.to/smpnjn/how-to-use-watchers-in-vue-4j5j)
 - [Lifehacker] [6 Common Baking Myths You Should Stop Believing](https://lifehacker.com/6-common-baking-myths-you-should-stop-believing-1848587648)
 - [Dev.to/JS] [Day-31 Training At Ryaz](https://dev.to/mahin651/day-31-training-at-ryaz-3b4c)
 - [Dev.to/JS] [Angular vs. React: Whichever you choose, you can use at Fathym](https://dev.to/richkurtzman/angular-vs-react-whichever-you-choose-you-can-use-at-fathym-en3)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an Apache ECharts dashboard with React and Cube](https://dev.to/cubejs/building-an-apache-echarts-dashboard-with-react-and-cube-45i3)
 - [Lifehacker] [Don&#39;t Feel Bad If You Can&#39;t Squirt &lpar;But Here&#39;s How You Can Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582)
 - [Dev.to/JS] [I created opensense 👁](https://dev.to/sripadhs/i-created-opensense-nf)
-- [Dev.to/JS] [Creating a video player web component](https://dev.to/video/creating-a-video-player-web-component-3lgg)
-- [Dev.to/JS] [Paracetamol.js💊| #63: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-63-explica-este-codigo-javascript-57ph)
 - [Lifehacker] [How to Stick With Your Running Routine All Winter Long](https://lifehacker.com/how-to-stick-with-your-running-routine-all-winter-long-1848575271)
 - [Lifehacker] [The Difference Between a Possum and an Opossum](https://lifehacker.com/the-difference-between-a-possum-and-an-opossum-1848583776)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If a Subscription Flight Service Is Worth Your Money](https://lifehacker.com/how-to-tell-if-a-subscription-flight-service-is-worth-y-1848577760)
 - [Lifehacker] [How to Save Your Old Computer](https://lifehacker.com/how-to-save-your-old-computer-1848578002)
 - [Lifehacker] [What to Look for in a House If You Want to Start a Family](https://lifehacker.com/what-to-look-for-in-a-house-if-you-want-to-start-a-fami-1848576770)
-- [Lifehacker] [Here&#39;s How Plant-Based &#39;Meats&#39; Stack Up, Nutritionally](https://lifehacker.com/heres-how-plant-based-meats-stack-up-nutritionally-1848577417)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
