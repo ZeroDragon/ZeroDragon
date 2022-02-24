@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between a Possum and an Opossum](https://lifehacker.com/the-difference-between-a-possum-and-an-opossum-1848583776)
+- [Dev.to/JS] [11 JavaScript concepts to understand before you learn React](https://dev.to/thatanjan/11-javascript-concepts-to-understand-before-you-learn-react-246k)
+- [Dev.to/JS] [006/100 Days of Code: Strapi CMS](https://dev.to/alexandrebekor/006100-days-of-code-strapi-cms-n5i)
+- [Dev.to/JS] [Creating your first Svelte App with SvelteKit](https://dev.to/smpnjn/creating-your-first-svelte-app-with-sveltekit-4ech)
 - [Dev.to/JS] [Day 6 of 100 Days of Code](https://dev.to/nkemdev/day-6-of-100-days-of-code-5aak)
 - [Dev.to/JS] [Hello, World!](https://dev.to/morethan2searches/hello-world-443f)
 - [Dev.to/JS] [Demo ElectronJS y API REST](https://dev.to/e240683/demo-electronjs-y-api-rest-2e6g)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Design for Everybody: Basics of Web Development &amp; Coding](https://dev.to/mr_j_e_e_t/web-design-for-everybody-basics-of-web-development-coding-5nd)
 - [Dev.to/JS] [Https requests via 2 socks5 proxies](https://dev.to/ofosukin/https-requests-via-2-socks5-proxies-2a6m)
 - [Dev.to/JS] [Reasons Why Businesses Need to Go Remote When Hiring Java developer](https://dev.to/jessmann1/reasons-why-businesses-need-to-go-remote-when-hiring-java-developer-5a76)
-- [Dev.to/JS] [Easy Steps to Host an Angular App in GitHub Pages](https://dev.to/syncfusion/easy-steps-to-host-an-angular-app-in-github-pages-4j5d)
-- [Dev.to/JS] [50+ HTML Creative Resume Templates With Free Source Code](https://dev.to/miketech_13/50-html-creative-resume-templates-with-free-source-code-hbg)
-- [Dev.to/JS] [Loading Excel data in Node JS by converting them into json.](https://dev.to/teyedoku/loading-excel-data-in-node-js-by-converting-them-into-json-11gh)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
 - [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Re-Enter the Workforce After Stay-at-Home Parenting &lpar;Without Losing Your Mind&rpar;](https://lifehacker.com/how-to-re-enter-the-workforce-after-stay-at-home-parent-1848560882)
 - [Lifehacker] [17 of the All-Time Best Working-Class Sitcoms](https://lifehacker.com/17-of-the-all-time-best-working-class-sitcoms-1848567495)
 - [Lifehacker] [How to Get Software and Security Updates on Your Old iPhone](https://lifehacker.com/how-to-get-software-and-security-updates-on-your-old-ip-1848574450)
-- [Lifehacker] [6 of the Easiest Breathing Exercises to Help Relieve Your Anxiety and Stress](https://lifehacker.com/6-of-the-easiest-breathing-exercises-to-help-relieve-yo-1848571019)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
