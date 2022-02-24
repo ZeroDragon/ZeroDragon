@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Easiest Way To Install Node.js on Linux/MacOS](https://dev.to/maupanelo/the-easiest-way-to-install-nodejs-on-linuxmacos-5c54)
+- [Dev.to/JS] [Top 11 AngularJS Developer Tools in 2022](https://dev.to/yogeshkumartech/top-11-angularjs-developer-tools-in-2022-fdk)
+- [Dev.to/JS] [ReactJS: State Persistence Using Recoil](https://dev.to/joiellantero/reactjs-state-persistence-using-react-recoil-29oc)
 - [Dev.to/JS] [let, const and the Temporal Dead Zone](https://dev.to/sobitp59/let-const-and-the-temporal-dead-zone-2j8l)
-- [Dev.to/JS] [Webpack Module Bundler](https://dev.to/adetroja/webpack-module-bundler-2cpm)
 - [Dev.to/JS] [CAP KEEPS : Phase-1 Project](https://dev.to/breonwhite/cap-keeps-phase-1-project-g7n)
 - [Dev.to/JS] [log-fns: a new JS logging library](https://dev.to/puddingontheritz/log-fns-a-new-js-logging-library-3m19)
 - [Dev.to/JS] [How to send push notifications with Firebase and React](https://dev.to/jeremytenjo/how-to-send-push-notifications-with-firebase-and-react-1pol)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MDown Editor - A markdown playground](https://dev.to/rededge967/mdown-editor-a-markdown-playground-4cj5)
 - [Dev.to/JS] [Day 11 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#844. Backspace String Compare&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog_com567/day-11-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem844-backspace-string-compareeasyjavascript-2n4o)
 - [Dev.to/JS] [SSR-Friendly Unique HTML IDs in Vue 3](https://dev.to/jshimkoski/ssr-friendly-unique-html-ids-in-vue-3-1og9)
-- [Dev.to/JS] [How to Make a Wordle Solver with Twilio Serverless, Studio, and SMS](https://dev.to/twilio/how-to-make-a-wordle-solver-with-twilio-serverless-studio-and-sms-252g)
-- [Dev.to/JS] [Creating a modal dialog with Alpine.js](https://dev.to/michaelburrows/creating-a-modal-dialog-with-alpinejs-40ig)
 - [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
 - [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Lifehacker] [What’s New on Netflix in March 2022](https://lifehacker.com/what-s-new-on-netflix-in-march-2022-1848583020)
