@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamic url REACT](https://dev.to/akhad/dynamic-url-react-2hh7)
+- [Dev.to/JS] [Redux](https://dev.to/programmersajeeb/redux-l94)
 - [Dev.to/JS] [JavaScript Explained - Introduction](https://dev.to/crypto3p/javascript-explained-introduction-2i5i)
 - [Dev.to/JS] [Sending Emails with Email Js](https://dev.to/developerfarid/sending-emails-with-email-js-2j6p)
 - [Dev.to/JS] [Screaming Architecture - Evolution of a React folder structure](https://dev.to/profydev/screaming-architecture-evolution-of-a-react-folder-structure-4g25)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [007/100 Days of Code: Week 01](https://dev.to/alexandrebekor/007100-days-of-code-week-01-513c)
 - [Dev.to/JS] [Secrets App Management](https://dev.to/hr21don/secrets-app-management-431)
 - [Dev.to/JS] [TypeScript](https://dev.to/muhammadnowshad/typescript-32ah)
-- [Dev.to/JS] [Typescript](https://dev.to/alihaydararman/typescript-5d0m)
-- [Dev.to/JS] [Signup Screen - React Native Base Component [Deutsch]](https://dev.to/gismo1337/signup-screen-react-native-base-component-deutsch-16lp)
 - [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
 - [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
