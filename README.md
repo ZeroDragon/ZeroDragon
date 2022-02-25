@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [“useSwr” The New React Hook for Fetching Remote Data.](https://dev.to/kizmelvin/useswr-the-new-react-hook-for-fetching-remote-data-4kdj)
+- [Dev.to/JS] [Projects](https://dev.to/vulcanwm/projects-1h0i)
+- [Dev.to/JS] [Color in React.js using percentages and a custom gradient.](https://dev.to/jerrymcdonald/color-in-reactjs-using-percentages-and-a-custom-gradient-1kmo)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
 - [Dev.to/JS] [Opted in Mass Mail setup](https://dev.to/mike_saakyan/opted-in-mass-mail-setup-c4c)
 - [Dev.to/JS] [How I structure my React projects](https://dev.to/jeffreythecoder/how-i-structure-my-react-projects-59ja)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redux](https://dev.to/arielcalix/redux-1bh9)
 - [Dev.to/JS] [Doodle 0.7.0 Released](https://dev.to/pusolito/doodle-070-released-3nb8)
 - [Dev.to/JS] [Basics of E2E Testing and Integrating Cypress with Next.js](https://dev.to/kranurag/basics-of-e2e-testing-and-integrating-cypress-with-nextjs-l5l)
-- [Dev.to/JS] [Next.js - Como obter o máximo do componente &lt;Image/&gt;](https://dev.to/jhonywalkeer/nextjs-como-obter-o-maximo-do-componente-3139)
 - [Lifehacker] [The Five Stages of a Market Bubble &lpar;and Where Crypto Stands&rpar;](https://lifehacker.com/the-five-of-a-market-bubble-and-where-crypto-is-1848594064)
-- [Dev.to/JS] [Guide your Front-End Skill Development with Bloom&#39;s Taxonomy](https://dev.to/itstrueintheory/guide-your-front-end-skill-development-with-blooms-taxonomy-5766)
-- [Dev.to/JS] [OOPs Concepts in Java](https://dev.to/angela_learns/oops-concepts-in-java-eh)
 - [Lifehacker] [How to Go to Sleep Like Royalty](https://lifehacker.com/how-to-go-to-sleep-like-fucking-royalty-1848593982)
 - [Lifehacker] [How to Waffle Your Cheese &lpar;and Why You Absolutely Should&rpar;](https://lifehacker.com/how-to-waffle-your-cheese-and-why-you-absolutely-shoul-1848593888)
 - [Lifehacker] [7 of the Best Evernote Alternatives &lpar;and Why You Should Finally Switch&rpar;](https://lifehacker.com/7-of-the-best-evernote-alternatives-and-why-you-should-1848592934)
