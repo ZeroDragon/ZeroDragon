@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating SSO Clients services](https://dev.to/seekiansengeri1/creating-sso-clients-services-5h6b)
 - [Dev.to/JS] [use routing in react js easily  |  react router v6 tutorial 😊👍](https://dev.to/slimpython/use-routing-in-react-js-easily-react-router-v6-tutorial-1bce)
 - [Dev.to/JS] [Accept Web3 Crypto Donations right on GitHub Pages](https://dev.to/web3-payments/accept-web3-crypto-donations-right-on-github-pages-2oj8)
 - [Dev.to/JS] [Flashup use case | Redwood Crystals, a small business](https://dev.to/richkurtzman/flashup-use-case-redwood-crystals-a-small-business-idf)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 React community hooks you should be using](https://dev.to/dawsoncodes/10-react-community-hooks-1h6c)
 - [Dev.to/JS] [A collection of the best HTTP clients for various languages](https://dev.to/mbagley1020/a-collection-of-the-best-http-clients-for-various-languages-42j)
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
-- [Dev.to/JS] [Demo](https://dev.to/abiiram10/demo-23cb)
 - [Lifehacker] [Sure, You Can Go to Antarctica &lpar;but Here’s Why You Shouldn’t&rpar;](https://lifehacker.com/sure-you-can-go-to-antarctica-but-here-s-why-you-shou-1848589285)
 - [Lifehacker] [The Fastest Ways to Fact-Check a Viral Tweet](https://lifehacker.com/the-fastest-ways-to-fact-check-a-viral-tweet-1848588918)
 - [Lifehacker] [You&#39;re Not Washing Your Throw Blankets Enough &lpar;and It&#39;s Gross&rpar;](https://lifehacker.com/youre-not-washing-your-throw-blankets-enough-and-its-g-1848587537)
