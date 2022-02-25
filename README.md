@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Signup Screen - React Native Base Component [Deutsch]](https://dev.to/gismo1337/signup-screen-react-native-base-component-deutsch-16lp)
 - [Dev.to/JS] [React typescript](https://dev.to/fathekarim/react-typescript-4n4a)
 - [Dev.to/JS] [How to host react.js &lpar;client&rpar; app on cpanel](https://dev.to/beyond5575/how-to-host-reactjs-client-app-on-cpanel-4ff5)
 - [Dev.to/JS] [Leetcode diary: 179. Largest Number](https://dev.to/kevin074/leetcode-diary-179-largest-number-4k2n)
@@ -32,9 +33,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML Creative Resume Templates With Free Source Code](https://dev.to/customui/html-creative-resume-templates-with-free-source-code-f3i)
 - [Dev.to/JS] [Jest Mocking Cheatsheet](https://dev.to/mbarzeev/jest-mocking-cheatsheet-fca)
 - [Dev.to/JS] [Switch statement in JavaScript](https://dev.to/sarveshprajapati/switch-statement-in-javascript-23oa)
+- [Dev.to/JS] [Weird JavaScript - Part 2 🧑‍💻](https://dev.to/msabir/weird-javascript-part-2-4a12)
 - [Dev.to/JS] [Typescript with React](https://dev.to/programmershahjalal/typescript-with-react-3kbp)
-- [Dev.to/JS] [Derma Progenix - Skin Care Results, Price, Reviews, Uses And Benefits](https://dev.to/dermaprogenixi1/derma-progenix-skin-care-results-price-reviews-uses-and-benefits-1n3h)
-- [Dev.to/JS] [Getting Moody with Spotify&#39;s API](https://dev.to/rayleighrozier/getting-moody-with-spotifys-api-pfa)
 - [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
 - [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
