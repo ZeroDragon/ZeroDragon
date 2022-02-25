@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [use routing in react js easily  |  react router v6 tutorial 😊👍](https://dev.to/slimpython/use-routing-in-react-js-easily-react-router-v6-tutorial-1bce)
+- [Dev.to/JS] [Accept Web3 Crypto Donations right on GitHub Pages](https://dev.to/web3-payments/accept-web3-crypto-donations-right-on-github-pages-2oj8)
 - [Dev.to/JS] [Flashup use case | Redwood Crystals, a small business](https://dev.to/richkurtzman/flashup-use-case-redwood-crystals-a-small-business-idf)
 - [Dev.to/JS] [How to Build a Ticketing App Using Vue.js and Strapi](https://dev.to/strapi/how-to-build-a-ticketing-app-using-vuejs-and-strapi-2n7n)
 - [Dev.to/JS] [API REST - typeScript, nodejs, express](https://dev.to/reynaldoz/api-rest-typescript-nodejs-express-125b)
@@ -37,10 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
 - [Dev.to/JS] [Demo](https://dev.to/abiiram10/demo-23cb)
 - [Lifehacker] [Sure, You Can Go to Antarctica &lpar;but Here’s Why You Shouldn’t&rpar;](https://lifehacker.com/sure-you-can-go-to-antarctica-but-here-s-why-you-shou-1848589285)
-- [Dev.to/JS] [React Context and Hooks: Pass data and update it easily](https://dev.to/napoleon039/react-context-and-hooks-pass-data-and-update-it-easily-3akb)
 - [Lifehacker] [The Fastest Ways to Fact-Check a Viral Tweet](https://lifehacker.com/the-fastest-ways-to-fact-check-a-viral-tweet-1848588918)
 - [Lifehacker] [You&#39;re Not Washing Your Throw Blankets Enough &lpar;and It&#39;s Gross&rpar;](https://lifehacker.com/youre-not-washing-your-throw-blankets-enough-and-its-g-1848587537)
-- [Dev.to/JS] [The easy straightforward way to create demo serverless functions on Netlify](https://dev.to/ayyash/the-easy-straightforward-way-to-create-demo-serverless-functions-on-netlify-3ib7)
 - [Lifehacker] [How to Force Google Chrome to Download PDFs Instead of Opening Them](https://lifehacker.com/how-to-force-google-chrome-to-download-pdfs-instead-of-1848587110)
 - [Lifehacker] [6 Common Baking Myths You Should Stop Believing](https://lifehacker.com/6-common-baking-myths-you-should-stop-believing-1848587648)
 - [Lifehacker] [What the Codes on Your Car’s Tires Are Telling You](https://lifehacker.com/what-the-codes-on-your-car-s-tires-are-telling-you-1848587260)
