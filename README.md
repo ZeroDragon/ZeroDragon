@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
+- [Dev.to/JS] [Random Password Generator – Learn Modern React JS By Projects For FREE In 2022](https://dev.to/nerdjfpb/random-password-generator-learn-modern-react-js-by-projects-for-free-in-2022-1234)
+- [Dev.to/JS] [Loops!](https://dev.to/jcksmith/loops-434b)
+- [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
+- [Dev.to/JS] [Day 7 of 100 Days of Code](https://dev.to/nkemdev/day-7-of-100-days-of-code-3mhe)
 - [Dev.to/JS] [“useSwr” The New React Hook for Fetching Remote Data.](https://dev.to/kizmelvin/useswr-the-new-react-hook-for-fetching-remote-data-4kdj)
 - [Dev.to/JS] [Projects](https://dev.to/vulcanwm/projects-1h0i)
 - [Dev.to/JS] [Color in React.js using percentages and a custom gradient.](https://dev.to/jerrymcdonald/color-in-reactjs-using-percentages-and-a-custom-gradient-1kmo)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a simple PWA with Remix 💿](https://dev.to/shafspecs/creating-a-simple-pwa-with-remix-2n8n)
 - [Dev.to/JS] [Day-32 Training at Ryaz](https://dev.to/mahin651/day-32-training-at-ryaz-3gml)
 - [Lifehacker] [The Best &lpar;and Worse&rpar; Ways to Freeze Eggs From the Grocery Store](https://lifehacker.com/the-best-and-worse-ways-to-freeze-eggs-from-the-groce-1848594106)
-- [Dev.to/JS] [Redux](https://dev.to/arielcalix/redux-1bh9)
-- [Dev.to/JS] [Doodle 0.7.0 Released](https://dev.to/pusolito/doodle-070-released-3nb8)
-- [Dev.to/JS] [Basics of E2E Testing and Integrating Cypress with Next.js](https://dev.to/kranurag/basics-of-e2e-testing-and-integrating-cypress-with-nextjs-l5l)
 - [Lifehacker] [The Five Stages of a Market Bubble &lpar;and Where Crypto Stands&rpar;](https://lifehacker.com/the-five-of-a-market-bubble-and-where-crypto-is-1848594064)
 - [Lifehacker] [How to Go to Sleep Like Royalty](https://lifehacker.com/how-to-go-to-sleep-like-fucking-royalty-1848593982)
 - [Lifehacker] [How to Waffle Your Cheese &lpar;and Why You Absolutely Should&rpar;](https://lifehacker.com/how-to-waffle-your-cheese-and-why-you-absolutely-shoul-1848593888)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Feel Bad If You Can&#39;t Squirt &lpar;But Here&#39;s How You Can Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582)
 - [Lifehacker] [How to Stick With Your Running Routine All Winter Long](https://lifehacker.com/how-to-stick-with-your-running-routine-all-winter-long-1848575271)
 - [Lifehacker] [The Difference Between a Possum and an Opossum](https://lifehacker.com/the-difference-between-a-possum-and-an-opossum-1848583776)
-- [Lifehacker] [How to Stop Anxiety From Sabotaging Your Investments](https://lifehacker.com/how-to-stop-anxiety-from-sabotaging-your-investments-1848584331)
-- [Lifehacker] [You&#39;re Probably Using These Psychological Terms Wrong on Social Media](https://lifehacker.com/youre-probably-using-these-psychological-terms-wrong-on-1848582251)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
