@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create Dark And Light Mode Website Using jQuery](https://dev.to/techsolutionstuff/how-to-create-dark-and-light-mode-website-using-jquery-4kd8)
+- [Dev.to/JS] [Google Summer of Code Detailed Post &lpar;1/5&rpar;](https://dev.to/sanjaysinghrajpoot/google-summer-of-code-detailed-post-15-3dcd)
+- [Dev.to/JS] [Day 13 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#134. Gas Station&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-13-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem134-gas-stationmediumjavascript-2fn5)
 - [Dev.to/JS] [Creating SSO Clients services](https://dev.to/seekiansengeri1/creating-sso-clients-services-5h6b)
 - [Dev.to/JS] [use routing in react js easily  |  react router v6 tutorial 😊👍](https://dev.to/slimpython/use-routing-in-react-js-easily-react-router-v6-tutorial-1bce)
 - [Dev.to/JS] [Accept Web3 Crypto Donations right on GitHub Pages](https://dev.to/web3-payments/accept-web3-crypto-donations-right-on-github-pages-2oj8)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using the JavaScript array method flatMap&lpar;&rpar;](https://dev.to/jkap100/using-the-javascript-array-method-flatmap-1534)
 - [Dev.to/JS] [Day 12 of Studying LeetCode Solution until I Can Solve One on My Own: Problem1560. Most Visited Sector in a Circular Track&lpar;E/JS&rpar;](https://dev.to/corndog_com567/day-12-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1560-most-visited-sector-in-a-circular-trackejs-1ple)
 - [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
-- [Dev.to/JS] [Let’s Checkout….. WunderGraph](https://dev.to/wundergraph/lets-checkout-wundergraph-3b7b)
-- [Dev.to/JS] [10 React community hooks you should be using](https://dev.to/dawsoncodes/10-react-community-hooks-1h6c)
-- [Dev.to/JS] [A collection of the best HTTP clients for various languages](https://dev.to/mbagley1020/a-collection-of-the-best-http-clients-for-various-languages-42j)
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
 - [Lifehacker] [Sure, You Can Go to Antarctica &lpar;but Here’s Why You Shouldn’t&rpar;](https://lifehacker.com/sure-you-can-go-to-antarctica-but-here-s-why-you-shou-1848589285)
 - [Lifehacker] [The Fastest Ways to Fact-Check a Viral Tweet](https://lifehacker.com/the-fastest-ways-to-fact-check-a-viral-tweet-1848588918)
