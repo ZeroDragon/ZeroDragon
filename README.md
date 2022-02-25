@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js - Os 6 novos recursos da versão 12](https://dev.to/jhonywalkeer/nextjs-os-6-novos-recursos-da-versao-12-4iei)
+- [Dev.to/JS] [Design cross-platform Experiences](https://dev.to/ohidurgclan/design-cross-platform-experiences-39h0)
+- [Dev.to/JS] [Let&#39;s learn about Next.js API routes shortly](https://dev.to/tonmoyrx/lets-learn-about-nextjs-api-routes-shortly-370h)
 - [Dev.to/JS] [Dynamic url REACT](https://dev.to/akhad/dynamic-url-react-2hh7)
 - [Dev.to/JS] [Redux](https://dev.to/programmersajeeb/redux-l94)
 - [Dev.to/JS] [JavaScript Explained - Introduction](https://dev.to/crypto3p/javascript-explained-introduction-2i5i)
 - [Dev.to/JS] [Sending Emails with Email Js](https://dev.to/developerfarid/sending-emails-with-email-js-2j6p)
 - [Dev.to/JS] [Screaming Architecture - Evolution of a React folder structure](https://dev.to/profydev/screaming-architecture-evolution-of-a-react-folder-structure-4g25)
-- [Dev.to/JS] [What is Redux? Why we should use it? How to use Redux in a React project?](https://dev.to/ruhulzero7/what-is-redux-why-we-should-use-it-how-to-use-redux-in-a-react-project-bma)
+- [Dev.to/JS] [What is Redux? Why we should use it?](https://dev.to/ruhulzero7/what-is-redux-why-we-should-use-it-how-to-use-redux-in-a-react-project-bma)
 - [Dev.to/JS] [I became a Fullstack Developer 💻☕️ in 24 HOURS and got a JOB 🚀](https://dev.to/leugim/i-became-a-fullstack-developer-in-24-hours-and-got-a-job-50fc)
 - [Dev.to/JS] [const assertions in Typescript](https://dev.to/this-is-learning/const-assertions-in-typescript-2j71)
 - [Dev.to/JS] [Redux!! A state container!](https://dev.to/afsumeem/redux-a-state-container-47lh)
-- [Dev.to/JS] [007/100 Days of Code: Week 01](https://dev.to/alexandrebekor/007100-days-of-code-week-01-513c)
-- [Dev.to/JS] [Secrets App Management](https://dev.to/hr21don/secrets-app-management-431)
-- [Dev.to/JS] [TypeScript](https://dev.to/muhammadnowshad/typescript-32ah)
 - [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
 - [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
