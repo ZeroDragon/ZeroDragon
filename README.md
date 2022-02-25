@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Secrets App Management](https://dev.to/hr21don/secrets-app-management-431)
+- [Dev.to/JS] [TypeScript](https://dev.to/muhammadnowshad/typescript-32ah)
+- [Dev.to/JS] [Typescript](https://dev.to/alihaydararman/typescript-5d0m)
 - [Dev.to/JS] [Signup Screen - React Native Base Component [Deutsch]](https://dev.to/gismo1337/signup-screen-react-native-base-component-deutsch-16lp)
 - [Dev.to/JS] [React typescript](https://dev.to/fathekarim/react-typescript-4n4a)
 - [Dev.to/JS] [How to host react.js &lpar;client&rpar; app on cpanel](https://dev.to/beyond5575/how-to-host-reactjs-client-app-on-cpanel-4ff5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nothing Is Impossible](https://dev.to/balatiwari639/a-rant-of-a-guy-giving-up-on-webdev-and-programming-57a0)
 - [Dev.to/JS] [HTML Creative Resume Templates With Free Source Code](https://dev.to/customui/html-creative-resume-templates-with-free-source-code-f3i)
 - [Dev.to/JS] [Jest Mocking Cheatsheet](https://dev.to/mbarzeev/jest-mocking-cheatsheet-fca)
-- [Dev.to/JS] [Switch statement in JavaScript](https://dev.to/sarveshprajapati/switch-statement-in-javascript-23oa)
-- [Dev.to/JS] [Weird JavaScript - Part 2 🧑‍💻](https://dev.to/msabir/weird-javascript-part-2-4a12)
-- [Dev.to/JS] [Typescript with React](https://dev.to/programmershahjalal/typescript-with-react-3kbp)
 - [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
 - [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
