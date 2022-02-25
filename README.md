@@ -25,7 +25,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Dev.to/JS] [Random Password Generator – Learn Modern React JS By Projects For FREE In 2022](https://dev.to/nerdjfpb/random-password-generator-learn-modern-react-js-by-projects-for-free-in-2022-1234)
-- [Dev.to/JS] [Loops!](https://dev.to/jcksmith/loops-434b)
+- [Dev.to/JS] [For loops for beginners!](https://dev.to/jcksmith/loops-434b)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Dev.to/JS] [Day 7 of 100 Days of Code](https://dev.to/nkemdev/day-7-of-100-days-of-code-3mhe)
 - [Dev.to/JS] [“useSwr” The New React Hook for Fetching Remote Data.](https://dev.to/kizmelvin/useswr-the-new-react-hook-for-fetching-remote-data-4kdj)
