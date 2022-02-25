@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flashup use case | Redwood Crystals, a small business](https://dev.to/richkurtzman/flashup-use-case-redwood-crystals-a-small-business-idf)
 - [Dev.to/JS] [How to Build a Ticketing App Using Vue.js and Strapi](https://dev.to/strapi/how-to-build-a-ticketing-app-using-vuejs-and-strapi-2n7n)
 - [Dev.to/JS] [API REST - typeScript, nodejs, express](https://dev.to/reynaldoz/api-rest-typescript-nodejs-express-125b)
 - [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Not Washing Your Throw Blankets Enough &lpar;and It&#39;s Gross&rpar;](https://lifehacker.com/youre-not-washing-your-throw-blankets-enough-and-its-g-1848587537)
 - [Dev.to/JS] [The easy straightforward way to create demo serverless functions on Netlify](https://dev.to/ayyash/the-easy-straightforward-way-to-create-demo-serverless-functions-on-netlify-3ib7)
 - [Lifehacker] [How to Force Google Chrome to Download PDFs Instead of Opening Them](https://lifehacker.com/how-to-force-google-chrome-to-download-pdfs-instead-of-1848587110)
-- [Dev.to/JS] [How to use Watchers in Vue 👀](https://dev.to/smpnjn/how-to-use-watchers-in-vue-4j5j)
 - [Lifehacker] [6 Common Baking Myths You Should Stop Believing](https://lifehacker.com/6-common-baking-myths-you-should-stop-believing-1848587648)
 - [Lifehacker] [What the Codes on Your Car’s Tires Are Telling You](https://lifehacker.com/what-the-codes-on-your-car-s-tires-are-telling-you-1848587260)
 - [Lifehacker] [The Smartest Way to Keep Avocados Fresh for Up to a Month](https://lifehacker.com/the-smartest-way-to-keep-avocados-fresh-for-up-to-a-mon-1848587051)
