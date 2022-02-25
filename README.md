@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Every new programmer can&#39;t be a programmer](https://dev.to/codewithshahan/every-new-programmer-cant-be-a-programmer-2o04)
 - [Dev.to/JS] [How To Create Dark And Light Mode Website Using jQuery](https://dev.to/techsolutionstuff/how-to-create-dark-and-light-mode-website-using-jquery-4kd8)
 - [Dev.to/JS] [Google Summer of Code Detailed Post &lpar;1/5&rpar;](https://dev.to/sanjaysinghrajpoot/google-summer-of-code-detailed-post-15-3dcd)
 - [Dev.to/JS] [Day 13 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#134. Gas Station&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-13-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem134-gas-stationmediumjavascript-2fn5)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
 - [Dev.to/JS] [What are you learning and why?](https://dev.to/dashpy/what-are-you-learning-and-why-294g)
 - [Dev.to/JS] [Using the JavaScript array method flatMap&lpar;&rpar;](https://dev.to/jkap100/using-the-javascript-array-method-flatmap-1534)
-- [Dev.to/JS] [Day 12 of Studying LeetCode Solution until I Can Solve One on My Own: Problem1560. Most Visited Sector in a Circular Track&lpar;E/JS&rpar;](https://dev.to/corndog_com567/day-12-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1560-most-visited-sector-in-a-circular-trackejs-1ple)
 - [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
 - [Lifehacker] [Sure, You Can Go to Antarctica &lpar;but Here’s Why You Shouldn’t&rpar;](https://lifehacker.com/sure-you-can-go-to-antarctica-but-here-s-why-you-shou-1848589285)
