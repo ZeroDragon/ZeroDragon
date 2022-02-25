@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Jest Mocking Cheatsheet](https://dev.to/mbarzeev/jest-mocking-cheatsheet-fca)
+- [Dev.to/JS] [Switch statement in JavaScript](https://dev.to/sarveshprajapati/switch-statement-in-javascript-23oa)
+- [Dev.to/JS] [Typescript with React](https://dev.to/programmershahjalal/typescript-with-react-3kbp)
 - [Dev.to/JS] [Derma Progenix - Skin Care Results, Price, Reviews, Uses And Benefits](https://dev.to/dermaprogenixi1/derma-progenix-skin-care-results-price-reviews-uses-and-benefits-1n3h)
 - [Dev.to/JS] [Getting Moody with Spotify&#39;s API](https://dev.to/rayleighrozier/getting-moody-with-spotifys-api-pfa)
 - [Dev.to/JS] [Front-end Project](https://dev.to/santoast/front-end-project-3ml0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [angular and jquery](https://dev.to/maxkolin_1/angular-and-jquery-m7c)
 - [Dev.to/JS] [Resources for React developers in 2022](https://dev.to/jakubgarfield/resources-for-react-developers-in-2022-26c1)
 - [Dev.to/JS] [Every new programmer can&#39;t be a programmer](https://dev.to/codewithshahan/every-new-programmer-cant-be-a-programmer-2o04)
-- [Dev.to/JS] [How To Create Dark And Light Mode Website Using jQuery](https://dev.to/techsolutionstuff/how-to-create-dark-and-light-mode-website-using-jquery-4kd8)
-- [Dev.to/JS] [Google Summer of Code Detailed Post &lpar;1/5&rpar;](https://dev.to/sanjaysinghrajpoot/google-summer-of-code-detailed-post-15-3dcd)
-- [Dev.to/JS] [Day 13 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#134. Gas Station&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-13-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem134-gas-stationmediumjavascript-2fn5)
 - [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
 - [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
