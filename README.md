@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Opted in Mass Mail setup](https://dev.to/mike_saakyan/opted-in-mass-mail-setup-c4c)
+- [Dev.to/JS] [How I structure my React projects](https://dev.to/jeffreythecoder/how-i-structure-my-react-projects-59ja)
 - [Lifehacker] [Khai Jiao Is the Best Way to Use Leftover Mung Bean Sprouts](https://lifehacker.com/khai-jiao-is-the-best-way-to-use-leftover-mung-bean-spr-1848594589)
 - [Dev.to/JS] [Three Ways to Configure Modules in Your Angular App](https://dev.to/oktadev/three-ways-to-configure-modules-in-your-angular-app-26ag)
 - [Dev.to/JS] [New Community Plugin: Content Versioning](https://dev.to/strapi/new-community-plugin-content-versioning-3ecf)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guide your Front-End Skill Development with Bloom&#39;s Taxonomy](https://dev.to/itstrueintheory/guide-your-front-end-skill-development-with-blooms-taxonomy-5766)
 - [Dev.to/JS] [OOPs Concepts in Java](https://dev.to/angela_learns/oops-concepts-in-java-eh)
 - [Lifehacker] [How to Go to Sleep Like Royalty](https://lifehacker.com/how-to-go-to-sleep-like-fucking-royalty-1848593982)
-- [Dev.to/JS] [Diving Into Vue 3 - Reusability with Composables](https://dev.to/deepgram/diving-into-vue-3-reusability-with-composables-18o0)
-- [Dev.to/JS] [For all those anime lovers.](https://dev.to/danielarmbruster0314/for-all-those-anime-lovers-41pp)
 - [Lifehacker] [How to Waffle Your Cheese &lpar;and Why You Absolutely Should&rpar;](https://lifehacker.com/how-to-waffle-your-cheese-and-why-you-absolutely-shoul-1848593888)
 - [Lifehacker] [7 of the Best Evernote Alternatives &lpar;and Why You Should Finally Switch&rpar;](https://lifehacker.com/7-of-the-best-evernote-alternatives-and-why-you-should-1848592934)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Goblin Mode&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1848590555)
