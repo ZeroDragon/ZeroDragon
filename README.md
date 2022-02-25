@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Derma Progenix - Skin Care Results, Price, Reviews, Uses And Benefits](https://dev.to/dermaprogenixi1/derma-progenix-skin-care-results-price-reviews-uses-and-benefits-1n3h)
+- [Dev.to/JS] [Getting Moody with Spotify&#39;s API](https://dev.to/rayleighrozier/getting-moody-with-spotifys-api-pfa)
+- [Dev.to/JS] [Front-end Project](https://dev.to/santoast/front-end-project-3ml0)
 - [Dev.to/JS] [confident your business](https://dev.to/athulcodecl/confident-your-business-4eg7)
-- [Dev.to/JS] [How To Set Up Firebase with Flutter for iOS and Android Apps?](https://dev.to/wolfizsolutions/how-to-set-up-firebase-with-flutter-for-ios-and-android-apps-5a8f)
 - [Dev.to/JS] [When should we use Let and const in our code🤔.](https://dev.to/amolshelke2/when-should-we-use-let-and-const-in-our-code-3lgm)
 - [Dev.to/JS] [rbd is dead, long life rfd!](https://dev.to/100terres/rbd-is-dead-long-life-rfd-1n9e)
 - [Dev.to/JS] [angular and jquery](https://dev.to/maxkolin_1/angular-and-jquery-m7c)
-- [Dev.to/JS] [How to add Rive animations in Flutter?](https://dev.to/wolfizsolutions/how-to-add-rive-animations-in-flutter-5ib)
 - [Dev.to/JS] [Resources for React developers in 2022](https://dev.to/jakubgarfield/resources-for-react-developers-in-2022-26c1)
 - [Dev.to/JS] [Every new programmer can&#39;t be a programmer](https://dev.to/codewithshahan/every-new-programmer-cant-be-a-programmer-2o04)
 - [Dev.to/JS] [How To Create Dark And Light Mode Website Using jQuery](https://dev.to/techsolutionstuff/how-to-create-dark-and-light-mode-website-using-jquery-4kd8)
 - [Dev.to/JS] [Google Summer of Code Detailed Post &lpar;1/5&rpar;](https://dev.to/sanjaysinghrajpoot/google-summer-of-code-detailed-post-15-3dcd)
 - [Dev.to/JS] [Day 13 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#134. Gas Station&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-13-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem134-gas-stationmediumjavascript-2fn5)
-- [Dev.to/JS] [Creating SSO Clients services](https://dev.to/seekiansengeri1/creating-sso-clients-services-5h6b)
 - [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
 - [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
