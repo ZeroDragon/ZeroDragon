@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cron Job: Node Js](https://dev.to/drsimplegraffiti/cron-job-node-js-1460)
+- [Dev.to/JS] [The Secret Life of Context API](https://dev.to/sobhandash/the-secret-life-of-context-api-5250)
+- [Dev.to/JS] [Top Web Development Tools in 2022](https://dev.to/thenerdydev/top-web-development-tools-in-2022-541j)
+- [Dev.to/JS] [Reverse Lift - Skin Care Reviews, Price, Ingredients &amp; Complaints?](https://dev.to/reverseliftinfo/reverse-lift-skin-care-reviews-price-ingredients-complaints-bl1)
+- [Dev.to/JS] [Project 4: Speaking keyboard in Javascript](https://dev.to/urstrulyvishwak/project-4-speaking-keyboard-38fh)
 - [Dev.to/JS] [Profile Page Application using HTML CSS  &amp; JavaScript](https://dev.to/dasaradhanimmala/profile-page-application-using-html-css-javascript-256l)
 - [Dev.to/JS] [Day 14 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#209. Minimum Size Subarray Sum&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-14-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem209-minimum-size-subarray-summediumjavascript-3lej)
 - [Dev.to/JS] [At 35, I&#39;ve secured my first role after my coding bootcamp &lpar;a paid internship&rpar; and I&#39;m nervous and lost. Starting on Monday.](https://dev.to/aoislcxm/at-35-ive-secured-my-first-role-after-my-coding-bootcamp-a-paid-internship-and-im-nervous-and-lost-starting-on-monday-1maj)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Best React UI Frameworks to Build Web Applications Faster in 2022](https://dev.to/diogocapela/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022-48eh)
 - [Dev.to/JS] [Day 7/100, 100 Days of Code](https://dev.to/xurgg/day-7100-100-days-of-code-52ld)
 - [Dev.to/JS] [MongoDB Complex Schemas Structures](https://dev.to/deepakjaiswal/mongodb-schemas-structures-58g8)
-- [Dev.to/JS] [Node.js - Limitação de taxa de API](https://dev.to/jhonywalkeer/nodejs-limitacao-de-taxa-de-api-6n3)
-- [Dev.to/JS] [Day 1: JS 30](https://dev.to/diwakardayal/day-1-js-30-4pcj)
-- [Dev.to/JS] [JavaScript HTML DOM](https://dev.to/mursalfk/javascript-html-dom-177a)
-- [Dev.to/JS] [Rails 7 JS on page load](https://dev.to/jocvegar/rails-7-js-on-page-load-2142)
-- [Dev.to/JS] [#38 - Assemble string CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/38-assemble-string-codewars-kata-6-kyu-4c79)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
