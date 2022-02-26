@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [At 35, I&#39;ve secured my first role after my coding bootcamp &lpar;a paid internship&rpar; and I&#39;m nervous and lost. Starting on Monday.](https://dev.to/aoislcxm/at-35-ive-secured-my-first-role-after-my-coding-bootcamp-a-paid-internship-and-im-nervous-and-lost-starting-on-monday-1maj)
+- [Dev.to/JS] [👋 Hey Devs!🌀 Here are some awesome, cool and free personal portfolio templates Thread 🧵👇 &lpar;10 Templates 🤓&rpar;](https://dev.to/atultrp/hey-devs-here-are-some-awesome-cool-and-free-personal-portfolio-templates-thread-10-templates--56b9)
 - [Dev.to/JS] [5 Best React UI Frameworks to Build Web Applications Faster in 2022](https://dev.to/diogocapela/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022-48eh)
 - [Dev.to/JS] [Day 7/100, 100 Days of Code](https://dev.to/xurgg/day-7100-100-days-of-code-52ld)
 - [Dev.to/JS] [MongoDB Complex Schemas Structures](https://dev.to/deepakjaiswal/mongodb-schemas-structures-58g8)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Second Experience In Being Sheriff](https://dev.to/aserputov/my-second-experience-in-being-sheriff-1m2e)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Dev.to/JS] [Random Password Generator – Learn Modern React JS By Projects For FREE In 2022](https://dev.to/nerdjfpb/random-password-generator-learn-modern-react-js-by-projects-for-free-in-2022-1234)
-- [Dev.to/JS] [For loops for beginners!](https://dev.to/jcksmith/loops-434b)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
-- [Dev.to/JS] [Day 7 of 100 Days of Code](https://dev.to/nkemdev/day-7-of-100-days-of-code-3mhe)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
 - [Lifehacker] [Khai Jiao Is the Best Way to Use Leftover Mung Bean Sprouts](https://lifehacker.com/khai-jiao-is-the-best-way-to-use-leftover-mung-bean-spr-1848594589)
 - [Lifehacker] [The Best &lpar;and Worse&rpar; Ways to Freeze Eggs From the Grocery Store](https://lifehacker.com/the-best-and-worse-ways-to-freeze-eggs-from-the-groce-1848594106)
