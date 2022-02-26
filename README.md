@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 1&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-1-2b0f)
+- [Dev.to/JS] [The ultimate solution to image storage.](https://dev.to/akashpattnaik/the-ultimate-solution-to-image-storage-5gcl)
+- [Dev.to/JS] [Things you should do as a developer in 2022...](https://dev.to/keshav44483499/things-you-should-do-as-a-web-developer-2022-1kn3)
+- [Dev.to/JS] [How to build a Tesla clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/how-to-build-a-tesla-clone-with-vanilla-html-css-and-javascript-2ae0)
+- [Dev.to/JS] [Leetcode diary: 53. Maximum Subarray](https://dev.to/kevin074/leetcode-diary-53-maximum-subarray-4g5o)
 - [Dev.to/JS] [Leetcode diary:  124. Binary Tree Maximum Path Sum](https://dev.to/kevin074/leetcode-diary-124-binary-tree-maximum-path-sum-2hoe)
 - [Dev.to/JS] [Paracetamol.js💊| #65: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-65-explica-este-codigo-javascript-1kml)
 - [Dev.to/JS] [TypeScript generic types](https://dev.to/dailydevtips1/typescript-generic-types-3j38)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Hoisting works in JavaScript ?](https://dev.to/thenerdydev/how-hoisting-works-in-javascript--e0h)
 - [Dev.to/JS] [A practical use for recursion - A little computer science for the inquisitive developer](https://dev.to/tracygjg/a-practical-use-for-recursion-a-little-computer-science-for-the-inquisitive-developer-4f31)
 - [Dev.to/JS] [Implementing distributed tracing in a nodejs application](https://dev.to/signoz/implementing-distributed-tracing-in-a-nodejs-application-5369)
-- [Dev.to/JS] [Javascript Variables Scope](https://dev.to/awaisbutt/javascript-variables-scope-4e73)
-- [Dev.to/JS] [Differences Between Arrow and Regular Functions](https://dev.to/bilalniaz15/differences-between-arrow-and-regular-functions-4k68)
-- [Dev.to/JS] [Variables in languages](https://dev.to/vulcanwm/variables-in-languages-c4o)
-- [Dev.to/JS] [How to enhance your web app performance? And More!](https://dev.to/wtshek/how-to-enhance-your-web-app-performance-and-more-1d29)
-- [Dev.to/JS] [3 Things to learn while Programming.](https://dev.to/sarveshprajapati/3-things-to-learn-while-programming-5ek1)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
