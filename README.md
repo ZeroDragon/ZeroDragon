@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing distributed tracing in a nodejs application](https://dev.to/signoz/implementing-distributed-tracing-in-a-nodejs-application-5369)
+- [Dev.to/JS] [Javascript Variables Scope](https://dev.to/awaisbutt/javascript-variables-scope-4e73)
+- [Dev.to/JS] [Differences Between Arrow and Regular Functions](https://dev.to/bilalniaz15/differences-between-arrow-and-regular-functions-4k68)
+- [Dev.to/JS] [Variables in languages](https://dev.to/vulcanwm/variables-in-languages-c4o)
+- [Dev.to/JS] [How to enhance your web app performance? And More!](https://dev.to/wtshek/how-to-enhance-your-web-app-performance-and-more-1d29)
 - [Dev.to/JS] [3 Things to learn while Programming.](https://dev.to/sarveshprajapati/3-things-to-learn-while-programming-5ek1)
 - [Dev.to/JS] [Webpack Module Federation for production environnement](https://dev.to/ecyrbe/webpack-module-federation-for-production-environnement-4i55)
 - [Dev.to/JS] [JavaScript Equality - Double Equals &lpar;==&rpar; vs Triple Equals &lpar;===&rpar;](https://dev.to/sarveshprajapati/javascript-equality-double-equals-vs-triple-equals--4f72)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drum kit using JavaScript](https://dev.to/manumd20/drum-kit-using-javascript-4kij)
 - [Dev.to/JS] [7 JavaScript One Liners to look like a pro](https://dev.to/codewithsnowbit/7-javascript-one-liners-to-look-like-a-pro-4f85)
 - [Dev.to/JS] [Exploring Blockdom: Fastest Virtual DOM &lpar;ever!&rpar;](https://dev.to/aidenybai/exploring-blockdom-fastest-virtual-dom-ever-28nl)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;26-02-2022&rpar; - Branding, marketing, the future of tech and cyberwar](https://dev.to/mjgs/this-weeks-newsletter-is-out-26-02-2022-branding-marketing-the-future-of-tech-and-cyberwar-3cm3)
-- [Dev.to/JS] [Cron Job: Node Js](https://dev.to/drsimplegraffiti/cron-job-node-js-1460)
-- [Dev.to/JS] [The Secret Life of Context API](https://dev.to/sobhandash/the-secret-life-of-context-api-5250)
-- [Dev.to/JS] [Top Web Development Tools in 2022](https://dev.to/thenerdydev/top-web-development-tools-in-2022-541j)
-- [Dev.to/JS] [Reverse Lift - Skin Care Reviews, Price, Ingredients &amp; Complaints?](https://dev.to/reverseliftinfo/reverse-lift-skin-care-reviews-price-ingredients-complaints-bl1)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
