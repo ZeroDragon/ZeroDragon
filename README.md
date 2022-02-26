@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arrays in Javascript](https://dev.to/pranish07/arrays-in-javascript-1dfb)
+- [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 1&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-1-2b0f)
 - [Dev.to/JS] [The ultimate solution to image storage.](https://dev.to/akashpattnaik/the-ultimate-solution-to-image-storage-5gcl)
 - [Dev.to/JS] [Things you should do as a developer in 2022...](https://dev.to/keshav44483499/things-you-should-do-as-a-web-developer-2022-1kn3)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
 - [Dev.to/JS] [How Hoisting works in JavaScript ?](https://dev.to/thenerdydev/how-hoisting-works-in-javascript--e0h)
 - [Dev.to/JS] [A practical use for recursion - A little computer science for the inquisitive developer](https://dev.to/tracygjg/a-practical-use-for-recursion-a-little-computer-science-for-the-inquisitive-developer-4f31)
-- [Dev.to/JS] [Implementing distributed tracing in a nodejs application](https://dev.to/signoz/implementing-distributed-tracing-in-a-nodejs-application-5369)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Smartest Way to Keep Avocados Fresh for Up to a Month](https://lifehacker.com/the-smartest-way-to-keep-avocados-fresh-for-up-to-a-mon-1848587051)
 - [Lifehacker] [You Can &lpar;Once Again&rpar; Stream Twitch From Your Xbox](https://lifehacker.com/you-can-once-again-stream-twitch-from-your-xbox-1848585115)
 - [Lifehacker] [Don&#39;t Feel Bad If You Can&#39;t Squirt &lpar;But Here&#39;s How You Can Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582)
-- [Lifehacker] [How to Stick With Your Running Routine All Winter Long](https://lifehacker.com/how-to-stick-with-your-running-routine-all-winter-long-1848575271)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
