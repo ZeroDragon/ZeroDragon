@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rails 7 JS on page load](https://dev.to/jocvegar/rails-7-js-on-page-load-2142)
+- [Dev.to/JS] [#38 - Assemble string CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/38-assemble-string-codewars-kata-6-kyu-4c79)
 - [Dev.to/JS] [My Second Experience In Being Sheriff](https://dev.to/aserputov/my-second-experience-in-being-sheriff-1m2e)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Dev.to/JS] [Random Password Generator – Learn Modern React JS By Projects For FREE In 2022](https://dev.to/nerdjfpb/random-password-generator-learn-modern-react-js-by-projects-for-free-in-2022-1234)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I structure my React projects](https://dev.to/jeffreythecoder/how-i-structure-my-react-projects-59ja)
 - [Lifehacker] [Khai Jiao Is the Best Way to Use Leftover Mung Bean Sprouts](https://lifehacker.com/khai-jiao-is-the-best-way-to-use-leftover-mung-bean-spr-1848594589)
 - [Dev.to/JS] [Three Ways to Configure Modules in Your Angular App](https://dev.to/oktadev/three-ways-to-configure-modules-in-your-angular-app-26ag)
-- [Dev.to/JS] [New Community Plugin: Content Versioning](https://dev.to/strapi/new-community-plugin-content-versioning-3ecf)
-- [Dev.to/JS] [Creating a simple PWA with Remix 💿](https://dev.to/shafspecs/creating-a-simple-pwa-with-remix-2n8n)
 - [Lifehacker] [The Best &lpar;and Worse&rpar; Ways to Freeze Eggs From the Grocery Store](https://lifehacker.com/the-best-and-worse-ways-to-freeze-eggs-from-the-groce-1848594106)
 - [Lifehacker] [The Five Stages of a Market Bubble &lpar;and Where Crypto Stands&rpar;](https://lifehacker.com/the-five-of-a-market-bubble-and-where-crypto-is-1848594064)
 - [Lifehacker] [How to Go to Sleep Like Royalty](https://lifehacker.com/how-to-go-to-sleep-like-fucking-royalty-1848593982)
