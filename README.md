@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create an Extension using react](https://dev.to/thecoollearner/how-to-create-an-extension-using-react-a02)
+- [Dev.to/JS] [Why should you use Tailwind CSS with React/Next JS?](https://dev.to/burhaan/why-should-you-use-tailwind-css-with-reactnext-js-3j3h)
+- [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Dev.to/JS] [10 Best JavaScript Projects for Beginners](https://dev.to/naemazam/10-best-javascript-projects-for-beginners-23bl)
 - [Dev.to/JS] [How to create your website landing logo with framer-motion](https://dev.to/omardiaa48/how-to-create-your-website-landing-logo-with-framer-motion-2bhf)
 - [Dev.to/JS] [Setting up your First React Native Application](https://dev.to/harithmetic1/setting-up-your-first-react-native-application-54bj)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Things you should do as a developer in 2022...](https://dev.to/keshav44483499/things-you-should-do-as-a-web-developer-2022-1kn3)
 - [Dev.to/JS] [How to build a Tesla clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/how-to-build-a-tesla-clone-with-vanilla-html-css-and-javascript-2ae0)
 - [Dev.to/JS] [Leetcode diary: 53. Maximum Subarray](https://dev.to/kevin074/leetcode-diary-53-maximum-subarray-4g5o)
-- [Dev.to/JS] [Leetcode diary:  124. Binary Tree Maximum Path Sum](https://dev.to/kevin074/leetcode-diary-124-binary-tree-maximum-path-sum-2hoe)
-- [Dev.to/JS] [Paracetamol.js💊| #65: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-65-explica-este-codigo-javascript-1kml)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What the Codes on Your Car’s Tires Are Telling You](https://lifehacker.com/what-the-codes-on-your-car-s-tires-are-telling-you-1848587260)
 - [Lifehacker] [The Smartest Way to Keep Avocados Fresh for Up to a Month](https://lifehacker.com/the-smartest-way-to-keep-avocados-fresh-for-up-to-a-mon-1848587051)
 - [Lifehacker] [You Can &lpar;Once Again&rpar; Stream Twitch From Your Xbox](https://lifehacker.com/you-can-once-again-stream-twitch-from-your-xbox-1848585115)
-- [Lifehacker] [Don&#39;t Feel Bad If You Can&#39;t Squirt &lpar;But Here&#39;s How You Can Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
