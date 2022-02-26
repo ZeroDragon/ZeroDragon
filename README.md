@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Blockdom: Fastest Virtual DOM &lpar;ever!&rpar;](https://dev.to/aidenybai/exploring-blockdom-fastest-virtual-dom-ever-28nl)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;26-02-2022&rpar; - Branding, marketing, the future of tech and cyberwar](https://dev.to/mjgs/this-weeks-newsletter-is-out-26-02-2022-branding-marketing-the-future-of-tech-and-cyberwar-3cm3)
 - [Dev.to/JS] [Cron Job: Node Js](https://dev.to/drsimplegraffiti/cron-job-node-js-1460)
 - [Dev.to/JS] [The Secret Life of Context API](https://dev.to/sobhandash/the-secret-life-of-context-api-5250)
 - [Dev.to/JS] [Top Web Development Tools in 2022](https://dev.to/thenerdydev/top-web-development-tools-in-2022-541j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [At 35, I&#39;ve secured my first role after my coding bootcamp &lpar;a paid internship&rpar; and I&#39;m nervous and lost. Starting on Monday.](https://dev.to/aoislcxm/at-35-ive-secured-my-first-role-after-my-coding-bootcamp-a-paid-internship-and-im-nervous-and-lost-starting-on-monday-1maj)
 - [Dev.to/JS] [👋 Hey Devs!🌀 Here are some awesome, cool and free personal portfolio templates Thread 🧵👇 &lpar;10 Templates 🤓&rpar;](https://dev.to/atultrp/hey-devs-here-are-some-awesome-cool-and-free-personal-portfolio-templates-thread-10-templates--56b9)
 - [Dev.to/JS] [5 Best React UI Frameworks to Build Web Applications Faster in 2022](https://dev.to/diogocapela/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022-48eh)
-- [Dev.to/JS] [Day 7/100, 100 Days of Code](https://dev.to/xurgg/day-7100-100-days-of-code-52ld)
-- [Dev.to/JS] [MongoDB Complex Schemas Structures](https://dev.to/deepakjaiswal/mongodb-schemas-structures-58g8)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
