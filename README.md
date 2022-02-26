@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Best React UI Frameworks to Build Web Applications Faster in 2022](https://dev.to/diogocapela/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022-48eh)
+- [Dev.to/JS] [Day 7/100, 100 Days of Code](https://dev.to/xurgg/day-7100-100-days-of-code-52ld)
+- [Dev.to/JS] [MongoDB Complex Schemas Structures](https://dev.to/deepakjaiswal/mongodb-schemas-structures-58g8)
+- [Dev.to/JS] [Node.js - Limitação de taxa de API](https://dev.to/jhonywalkeer/nodejs-limitacao-de-taxa-de-api-6n3)
+- [Dev.to/JS] [Day 1: JS 30](https://dev.to/diwakardayal/day-1-js-30-4pcj)
+- [Dev.to/JS] [JavaScript HTML DOM](https://dev.to/mursalfk/javascript-html-dom-177a)
 - [Dev.to/JS] [Rails 7 JS on page load](https://dev.to/jocvegar/rails-7-js-on-page-load-2142)
 - [Dev.to/JS] [#38 - Assemble string CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/38-assemble-string-codewars-kata-6-kyu-4c79)
 - [Dev.to/JS] [My Second Experience In Being Sheriff](https://dev.to/aserputov/my-second-experience-in-being-sheriff-1m2e)
@@ -31,14 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [For loops for beginners!](https://dev.to/jcksmith/loops-434b)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Dev.to/JS] [Day 7 of 100 Days of Code](https://dev.to/nkemdev/day-7-of-100-days-of-code-3mhe)
-- [Dev.to/JS] [“useSwr” The New React Hook for Fetching Remote Data.](https://dev.to/kizmelvin/useswr-the-new-react-hook-for-fetching-remote-data-4kdj)
-- [Dev.to/JS] [Projects](https://dev.to/vulcanwm/projects-1h0i)
-- [Dev.to/JS] [Color in React.js using percentages and a custom gradient.](https://dev.to/jerrymcdonald/color-in-reactjs-using-percentages-and-a-custom-gradient-1kmo)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
-- [Dev.to/JS] [Opted in Mass Mail setup](https://dev.to/mike_saakyan/opted-in-mass-mail-setup-c4c)
-- [Dev.to/JS] [How I structure my React projects](https://dev.to/jeffreythecoder/how-i-structure-my-react-projects-59ja)
 - [Lifehacker] [Khai Jiao Is the Best Way to Use Leftover Mung Bean Sprouts](https://lifehacker.com/khai-jiao-is-the-best-way-to-use-leftover-mung-bean-spr-1848594589)
-- [Dev.to/JS] [Three Ways to Configure Modules in Your Angular App](https://dev.to/oktadev/three-ways-to-configure-modules-in-your-angular-app-26ag)
 - [Lifehacker] [The Best &lpar;and Worse&rpar; Ways to Freeze Eggs From the Grocery Store](https://lifehacker.com/the-best-and-worse-ways-to-freeze-eggs-from-the-groce-1848594106)
 - [Lifehacker] [The Five Stages of a Market Bubble &lpar;and Where Crypto Stands&rpar;](https://lifehacker.com/the-five-of-a-market-bubble-and-where-crypto-is-1848594064)
 - [Lifehacker] [How to Go to Sleep Like Royalty](https://lifehacker.com/how-to-go-to-sleep-like-fucking-royalty-1848593982)
