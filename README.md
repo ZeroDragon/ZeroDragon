@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Doubly Linked List](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-doubly-linked-list-2ddi)
+- [Dev.to/JS] [How to hook into the DOM using Vanilla JavaScript!](https://dev.to/alimobasheri/how-to-hook-into-the-dom-using-vanilla-javascript-5a6p)
 - [Dev.to/JS] [5 Career advice: Frontend](https://dev.to/dashpy/4-career-advice-frontend-2olg)
 - [Dev.to/JS] [A new crypto token swap site](https://dev.to/seedacquire/a-new-crypto-token-swap-site-3afe)
 - [Dev.to/JS] [Javascript array methods with examples and combinations](https://dev.to/kevinkh89/javascript-array-methods-with-examples-and-combinations-f4j)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create your website landing logo with framer-motion](https://dev.to/omardiaa48/how-to-create-your-website-landing-logo-with-framer-motion-2bhf)
 - [Dev.to/JS] [Setting up your First React Native Application](https://dev.to/harithmetic1/setting-up-your-first-react-native-application-54bj)
 - [Dev.to/JS] [Make your first React JS project by this post. Learn to code#2](https://dev.to/gauthamsudo/make-your-first-react-js-project-by-this-post-learn-to-code2-38kl)
-- [Dev.to/JS] [Arrays in Javascript](https://dev.to/pranish07/arrays-in-javascript-1dfb)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
-- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 1&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-1-2b0f)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
