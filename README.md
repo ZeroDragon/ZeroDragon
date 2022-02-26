@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 Things to learn while Programming.](https://dev.to/sarveshprajapati/3-things-to-learn-while-programming-5ek1)
+- [Dev.to/JS] [Webpack Module Federation for production environnement](https://dev.to/ecyrbe/webpack-module-federation-for-production-environnement-4i55)
+- [Dev.to/JS] [JavaScript Equality - Double Equals &lpar;==&rpar; vs Triple Equals &lpar;===&rpar;](https://dev.to/sarveshprajapati/javascript-equality-double-equals-vs-triple-equals--4f72)
 - [Dev.to/JS] [Build A Real-time Changing Digital Clock Using HTML, CSS &amp; JavaScript](https://dev.to/dboatenggg/build-a-real-time-changing-digital-clock-using-html-css-javascript-689)
 - [Dev.to/JS] [Drum kit using JavaScript](https://dev.to/manumd20/drum-kit-using-javascript-4kij)
 - [Dev.to/JS] [7 JavaScript One Liners to look like a pro](https://dev.to/codewithsnowbit/7-javascript-one-liners-to-look-like-a-pro-4f85)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Secret Life of Context API](https://dev.to/sobhandash/the-secret-life-of-context-api-5250)
 - [Dev.to/JS] [Top Web Development Tools in 2022](https://dev.to/thenerdydev/top-web-development-tools-in-2022-541j)
 - [Dev.to/JS] [Reverse Lift - Skin Care Reviews, Price, Ingredients &amp; Complaints?](https://dev.to/reverseliftinfo/reverse-lift-skin-care-reviews-price-ingredients-complaints-bl1)
-- [Dev.to/JS] [Project 4: Speaking keyboard in Javascript](https://dev.to/urstrulyvishwak/project-4-speaking-keyboard-38fh)
-- [Dev.to/JS] [Profile Page Application using HTML CSS  &amp; JavaScript](https://dev.to/dasaradhanimmala/profile-page-application-using-html-css-javascript-256l)
-- [Dev.to/JS] [Day 14 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#209. Minimum Size Subarray Sum&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-14-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem209-minimum-size-subarray-summediumjavascript-3lej)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
