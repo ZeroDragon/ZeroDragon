@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
+- [Dev.to/JS] [How Hoisting works in JavaScript ?](https://dev.to/thenerdydev/how-hoisting-works-in-javascript--e0h)
+- [Dev.to/JS] [A practical use for recursion - A little computer science for the inquisitive developer](https://dev.to/tracygjg/a-practical-use-for-recursion-a-little-computer-science-for-the-inquisitive-developer-4f31)
 - [Dev.to/JS] [Implementing distributed tracing in a nodejs application](https://dev.to/signoz/implementing-distributed-tracing-in-a-nodejs-application-5369)
 - [Dev.to/JS] [Javascript Variables Scope](https://dev.to/awaisbutt/javascript-variables-scope-4e73)
 - [Dev.to/JS] [Differences Between Arrow and Regular Functions](https://dev.to/bilalniaz15/differences-between-arrow-and-regular-functions-4k68)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Equality - Double Equals &lpar;==&rpar; vs Triple Equals &lpar;===&rpar;](https://dev.to/sarveshprajapati/javascript-equality-double-equals-vs-triple-equals--4f72)
 - [Dev.to/JS] [Build A Real-time Changing Digital Clock Using HTML, CSS &amp; JavaScript](https://dev.to/dboatenggg/build-a-real-time-changing-digital-clock-using-html-css-javascript-689)
 - [Dev.to/JS] [Drum kit using JavaScript](https://dev.to/manumd20/drum-kit-using-javascript-4kij)
-- [Dev.to/JS] [7 JavaScript One Liners to look like a pro](https://dev.to/codewithsnowbit/7-javascript-one-liners-to-look-like-a-pro-4f85)
-- [Dev.to/JS] [Exploring Blockdom: Fastest Virtual DOM &lpar;ever!&rpar;](https://dev.to/aidenybai/exploring-blockdom-fastest-virtual-dom-ever-28nl)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can &lpar;Once Again&rpar; Stream Twitch From Your Xbox](https://lifehacker.com/you-can-once-again-stream-twitch-from-your-xbox-1848585115)
 - [Lifehacker] [Don&#39;t Feel Bad If You Can&#39;t Squirt &lpar;But Here&#39;s How You Can Try&rpar;](https://lifehacker.com/dont-feel-bad-if-you-cant-squirt-but-heres-how-you-can-1848562582)
 - [Lifehacker] [How to Stick With Your Running Routine All Winter Long](https://lifehacker.com/how-to-stick-with-your-running-routine-all-winter-long-1848575271)
-- [Lifehacker] [The Difference Between a Possum and an Opossum](https://lifehacker.com/the-difference-between-a-possum-and-an-opossum-1848583776)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
