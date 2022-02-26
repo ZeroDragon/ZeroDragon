@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode diary:  124. Binary Tree Maximum Path Sum](https://dev.to/kevin074/leetcode-diary-124-binary-tree-maximum-path-sum-2hoe)
+- [Dev.to/JS] [Paracetamol.js💊| #65: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-65-explica-este-codigo-javascript-1kml)
+- [Dev.to/JS] [TypeScript generic types](https://dev.to/dailydevtips1/typescript-generic-types-3j38)
+- [Dev.to/JS] [Nested Child Routes In A Vue. JS Web Application](https://dev.to/mianazanfarooq/nested-child-routes-in-a-vue-js-web-application-34af)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
 - [Dev.to/JS] [How Hoisting works in JavaScript ?](https://dev.to/thenerdydev/how-hoisting-works-in-javascript--e0h)
 - [Dev.to/JS] [A practical use for recursion - A little computer science for the inquisitive developer](https://dev.to/tracygjg/a-practical-use-for-recursion-a-little-computer-science-for-the-inquisitive-developer-4f31)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variables in languages](https://dev.to/vulcanwm/variables-in-languages-c4o)
 - [Dev.to/JS] [How to enhance your web app performance? And More!](https://dev.to/wtshek/how-to-enhance-your-web-app-performance-and-more-1d29)
 - [Dev.to/JS] [3 Things to learn while Programming.](https://dev.to/sarveshprajapati/3-things-to-learn-while-programming-5ek1)
-- [Dev.to/JS] [Webpack Module Federation for production environnement](https://dev.to/ecyrbe/webpack-module-federation-for-production-environnement-4i55)
-- [Dev.to/JS] [JavaScript Equality - Double Equals &lpar;==&rpar; vs Triple Equals &lpar;===&rpar;](https://dev.to/sarveshprajapati/javascript-equality-double-equals-vs-triple-equals--4f72)
-- [Dev.to/JS] [Build A Real-time Changing Digital Clock Using HTML, CSS &amp; JavaScript](https://dev.to/dboatenggg/build-a-real-time-changing-digital-clock-using-html-css-javascript-689)
-- [Dev.to/JS] [Drum kit using JavaScript](https://dev.to/manumd20/drum-kit-using-javascript-4kij)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
