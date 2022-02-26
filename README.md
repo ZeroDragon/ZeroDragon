@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build A Real-time Changing Digital Clock Using HTML, CSS &amp; JavaScript](https://dev.to/dboatenggg/build-a-real-time-changing-digital-clock-using-html-css-javascript-689)
+- [Dev.to/JS] [Drum kit using JavaScript](https://dev.to/manumd20/drum-kit-using-javascript-4kij)
+- [Dev.to/JS] [7 JavaScript One Liners to look like a pro](https://dev.to/codewithsnowbit/7-javascript-one-liners-to-look-like-a-pro-4f85)
 - [Dev.to/JS] [Exploring Blockdom: Fastest Virtual DOM &lpar;ever!&rpar;](https://dev.to/aidenybai/exploring-blockdom-fastest-virtual-dom-ever-28nl)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;26-02-2022&rpar; - Branding, marketing, the future of tech and cyberwar](https://dev.to/mjgs/this-weeks-newsletter-is-out-26-02-2022-branding-marketing-the-future-of-tech-and-cyberwar-3cm3)
 - [Dev.to/JS] [Cron Job: Node Js](https://dev.to/drsimplegraffiti/cron-job-node-js-1460)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Project 4: Speaking keyboard in Javascript](https://dev.to/urstrulyvishwak/project-4-speaking-keyboard-38fh)
 - [Dev.to/JS] [Profile Page Application using HTML CSS  &amp; JavaScript](https://dev.to/dasaradhanimmala/profile-page-application-using-html-css-javascript-256l)
 - [Dev.to/JS] [Day 14 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#209. Minimum Size Subarray Sum&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog_com567/day-14-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem209-minimum-size-subarray-summediumjavascript-3lej)
-- [Dev.to/JS] [At 35, I&#39;ve secured my first role after my coding bootcamp &lpar;a paid internship&rpar; and I&#39;m nervous and lost. Starting on Monday.](https://dev.to/aoislcxm/at-35-ive-secured-my-first-role-after-my-coding-bootcamp-a-paid-internship-and-im-nervous-and-lost-starting-on-monday-1maj)
-- [Dev.to/JS] [👋 Hey Devs!🌀 Here are some awesome, cool and free personal portfolio templates Thread 🧵👇 &lpar;10 Templates 🤓&rpar;](https://dev.to/atultrp/hey-devs-here-are-some-awesome-cool-and-free-personal-portfolio-templates-thread-10-templates--56b9)
-- [Dev.to/JS] [5 Best React UI Frameworks to Build Web Applications Faster in 2022](https://dev.to/diogocapela/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022-48eh)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
