@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Career advice: Frontend](https://dev.to/dashpy/4-career-advice-frontend-2olg)
+- [Dev.to/JS] [A new crypto token swap site](https://dev.to/seedacquire/a-new-crypto-token-swap-site-3afe)
+- [Dev.to/JS] [Javascript array methods with examples and combinations](https://dev.to/kevinkh89/javascript-array-methods-with-examples-and-combinations-f4j)
+- [Dev.to/JS] [What happened to Faker.js &amp; it&#39;s creator?](https://dev.to/navicsteinr/what-happened-to-fakerjs-its-creator-2nje)
 - [Dev.to/JS] [How to create an Extension using react](https://dev.to/thecoollearner/how-to-create-an-extension-using-react-a02)
 - [Dev.to/JS] [Why should you use Tailwind CSS with React/Next JS?](https://dev.to/burhaan/why-should-you-use-tailwind-css-with-reactnext-js-3j3h)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arrays in Javascript](https://dev.to/pranish07/arrays-in-javascript-1dfb)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 1&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-1-2b0f)
-- [Dev.to/JS] [The ultimate solution to image storage.](https://dev.to/akashpattnaik/the-ultimate-solution-to-image-storage-5gcl)
-- [Dev.to/JS] [Things you should do as a developer in 2022...](https://dev.to/keshav44483499/things-you-should-do-as-a-web-developer-2022-1kn3)
-- [Dev.to/JS] [How to build a Tesla clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/how-to-build-a-tesla-clone-with-vanilla-html-css-and-javascript-2ae0)
-- [Dev.to/JS] [Leetcode diary: 53. Maximum Subarray](https://dev.to/kevin074/leetcode-diary-53-maximum-subarray-4g5o)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
