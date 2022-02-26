@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How long does it take to get a job as a self taught programmer 😢💔👨‍💻](https://dev.to/elliot_brenyasarfo_18749/how-long-does-it-take-to-get-a-job-as-a-self-taught-programmer-33fc)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Doubly Linked List](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-doubly-linked-list-2ddi)
 - [Dev.to/JS] [How to hook into the DOM using Vanilla JavaScript!](https://dev.to/alimobasheri/how-to-hook-into-the-dom-using-vanilla-javascript-5a6p)
 - [Dev.to/JS] [5 Career advice: Frontend](https://dev.to/dashpy/4-career-advice-frontend-2olg)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Best JavaScript Projects for Beginners](https://dev.to/naemazam/10-best-javascript-projects-for-beginners-23bl)
 - [Dev.to/JS] [How to create your website landing logo with framer-motion](https://dev.to/omardiaa48/how-to-create-your-website-landing-logo-with-framer-motion-2bhf)
 - [Dev.to/JS] [Setting up your First React Native Application](https://dev.to/harithmetic1/setting-up-your-first-react-native-application-54bj)
-- [Dev.to/JS] [Make your first React JS project by this post. Learn to code#2](https://dev.to/gauthamsudo/make-your-first-react-js-project-by-this-post-learn-to-code2-38kl)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
