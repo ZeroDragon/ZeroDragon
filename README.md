@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&quot;You may need an appropriate loader to handle this file type&quot; with Webpack and Babel](https://dev.to/gilly7/you-may-need-an-appropriate-loader-to-handle-this-file-type-with-webpack-and-babel-4hi6)
+- [Dev.to/JS] [Week 1: In a Coding Bootcamp - My experience!](https://dev.to/catevee/week-1-in-a-coding-bootcamp-my-experience-3ghh)
+- [Dev.to/JS] [2.3 A beginner&#39;s guide Firebase V9 - A quick summary of Firestore CRUD commands](https://dev.to/mjoycemilburn/23-a-beginners-guide-firebase-v9-a-quick-summary-of-firestore-crud-commands-35h6)
 - [Dev.to/JS] [Leetcode diary: 33. Search in Rotated Sorted Array](https://dev.to/kevin074/leetcode-diary-33-search-in-rotated-sorted-array-1d4b)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io&lpar;Demo Video&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketiodemo-video-3e2g)
 - [Dev.to/JS] [Built  open graph image generator with NodeJs &amp; NextJs](https://dev.to/ats1999/built-open-graph-image-generator-with-nodejs-nextjs-20pg)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Motorola Edge 30 Pro Price in Nepal and Launch Date - techyatra](https://dev.to/maya1234/motorola-edge-30-pro-price-in-nepal-and-launch-date-techyatra-43be)
 - [Dev.to/JS] [Designing an Activity Calendar in React](https://dev.to/shivishbrahma/designing-an-activity-calendar-in-react-47k2)
 - [Dev.to/JS] [How to Build a Stock Chart &lpar;JS&rpar; in 4 Steps](https://dev.to/andreykh1985/how-to-build-a-stock-chart-js-in-4-steps-72o)
-- [Dev.to/JS] [Build web scraper REST API using JAVA,SPRING BOOT, and JSOUP](https://dev.to/devcse/build-web-scraper-rest-api-using-javaspring-boot-and-jsoup-25mi)
-- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 2&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-2-321k)
-- [Dev.to/JS] [TypeScript Utility types with Generics](https://dev.to/dailydevtips1/typescript-utility-types-with-generics-59el)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
