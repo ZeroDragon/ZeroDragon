@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creative Text Revealing Animation](https://dev.to/codinghindi/creative-text-revealing-animation-2c5)
+- [Dev.to/JS] [Only Numbers validation in JS](https://dev.to/lakshyatyagi24/only-numbers-validation-in-js-23o2)
+- [Dev.to/JS] [How can you implement the sleep&lpar;&rpar; function in Javascript?](https://dev.to/codewithsnowbit/how-can-you-implement-the-sleep-function-in-javascript-284h)
+- [Dev.to/JS] [Avoid indentation hell with early returns](https://dev.to/nevulo/avoid-indentation-hell-with-early-returns-4i3l)
+- [Dev.to/JS] [30 JavaScript Projects for beginners](https://dev.to/pranish07/30-javascript-projects-for-beginners-19oo)
 - [Dev.to/JS] [What&#39;s a web framework, and which one do you pick?](https://dev.to/nevulo/whats-a-web-framework-and-which-one-do-you-pick-5a2i)
 - [Dev.to/JS] [Project 5: Random number game in Javascript](https://dev.to/urstrulyvishwak/project-5-random-number-game-in-javascript-12fk)
 - [Dev.to/JS] [Planning for release 2.8](https://dev.to/tuenguyen2911_67/planning-for-release-28-55i3)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [¿Qué son los empty-statement en javascript? ¿Existen casos de uso?](https://dev.to/jfernandogt/que-son-los-empty-statement-en-javascript-existen-casos-de-uso-15df)
 - [Dev.to/JS] [Editorial-Chart experiment](https://dev.to/elynaur/editorial-chart-experiment-56nk)
 - [Dev.to/JS] [An introduction to Scala](https://dev.to/zizdepski/an-introduction-to-scala-1b0a)
-- [Dev.to/JS] [Build dynamic breadcrumb routes and child routes with matchPath in React Router v6](https://dev.to/pavsaund/build-dynamic-breadcrumb-routes-and-child-routes-with-mathpath-in-react-router-v6-2jcf)
-- [Dev.to/JS] [Taxi driver web template made with NextJs and Tailwindcss](https://dev.to/waelhassine/taxi-driver-web-template-made-with-nextjs-and-tailwindcss-5gan)
-- [Dev.to/JS] [How long does it take to get a job as a self taught programmer 😢💔👨‍💻](https://dev.to/elliot_brenyasarfo_18749/how-long-does-it-take-to-get-a-job-as-a-self-taught-programmer-33fc)
-- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Doubly Linked List](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-doubly-linked-list-2ddi)
-- [Dev.to/JS] [How to hook into the DOM using Vanilla JavaScript!](https://dev.to/alimobasheri/how-to-hook-into-the-dom-using-vanilla-javascript-5a6p)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
