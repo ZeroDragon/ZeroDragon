@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
+- [Dev.to/JS] [Convert nested JSON to simple JSON in Javascript](https://dev.to/urstrulyvishwak/convert-nested-json-to-simple-json-in-javascript-4a34)
+- [Dev.to/JS] [Turn any Form into a  stepper form wizard with UI, Hooks, Context, React-Hook-Form and Yup](https://dev.to/paulvermeer2021/turn-any-form-into-a-stepper-form-wizard-with-ui-hooks-context-react-hook-form-and-yup-56j6)
+- [Dev.to/JS] [How to Build a Modal Popup Box Using HTML, CSS, and JavaScript](https://dev.to/dboatenggg/how-to-build-a-modal-popup-box-using-html-css-and-javascript-3ofj)
 - [Dev.to/JS] [The thing with JavaScript Template literals](https://dev.to/nwamugo/the-thing-with-javascript-template-literals-h48)
 - [Dev.to/JS] [Publishing Javascript Library - From Zero to Hero](https://dev.to/itsrennyman/publishing-javascript-library-from-zero-to-hero-44n9)
 - [Dev.to/JS] [State management in Vue 3 with Harlem.js 📦](https://dev.to/lexpeartha/state-management-in-vue-3-with-harlemjs-3ifj)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Best Browser For Developers - Blisk Browser Review 🚀](https://dev.to/rammcodes/the-best-browser-for-developers-blisk-browser-review-42kb)
 - [Dev.to/JS] [&quot;You may need an appropriate loader to handle this file type&quot; with Webpack and Babel](https://dev.to/gilly7/you-may-need-an-appropriate-loader-to-handle-this-file-type-with-webpack-and-babel-4hi6)
 - [Dev.to/JS] [Week 1: In a Coding Bootcamp - My experience!](https://dev.to/catevee/week-1-in-a-coding-bootcamp-my-experience-3ghh)
-- [Dev.to/JS] [2.3 A beginner&#39;s guide Firebase V9 - A quick summary of Firestore CRUD commands](https://dev.to/mjoycemilburn/23-a-beginners-guide-firebase-v9-a-quick-summary-of-firestore-crud-commands-35h6)
-- [Dev.to/JS] [Leetcode diary: 33. Search in Rotated Sorted Array](https://dev.to/kevin074/leetcode-diary-33-search-in-rotated-sorted-array-1d4b)
-- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io&lpar;Demo Video&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketiodemo-video-3e2g)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 Common Baking Myths You Should Stop Believing](https://lifehacker.com/6-common-baking-myths-you-should-stop-believing-1848587648)
 - [Lifehacker] [What the Codes on Your Car’s Tires Are Telling You](https://lifehacker.com/what-the-codes-on-your-car-s-tires-are-telling-you-1848587260)
 - [Lifehacker] [The Smartest Way to Keep Avocados Fresh for Up to a Month](https://lifehacker.com/the-smartest-way-to-keep-avocados-fresh-for-up-to-a-mon-1848587051)
-- [Lifehacker] [You Can &lpar;Once Again&rpar; Stream Twitch From Your Xbox](https://lifehacker.com/you-can-once-again-stream-twitch-from-your-xbox-1848585115)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
