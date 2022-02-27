@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get a free GraphQL certification — Apollo Graph Developer](https://dev.to/kevinmmartins/how-to-get-a-free-graphql-certification-apollo-graph-developer-1o03)
+- [Dev.to/JS] [IIFE in JavaScript](https://dev.to/murtuzaalisurti/iife-in-javascript-2if2)
+- [Dev.to/JS] [The Best Browser For Developers - Blisk Browser Review 🚀](https://dev.to/rammcodes/the-best-browser-for-developers-blisk-browser-review-42kb)
 - [Dev.to/JS] [&quot;You may need an appropriate loader to handle this file type&quot; with Webpack and Babel](https://dev.to/gilly7/you-may-need-an-appropriate-loader-to-handle-this-file-type-with-webpack-and-babel-4hi6)
 - [Dev.to/JS] [Week 1: In a Coding Bootcamp - My experience!](https://dev.to/catevee/week-1-in-a-coding-bootcamp-my-experience-3ghh)
 - [Dev.to/JS] [2.3 A beginner&#39;s guide Firebase V9 - A quick summary of Firestore CRUD commands](https://dev.to/mjoycemilburn/23-a-beginners-guide-firebase-v9-a-quick-summary-of-firestore-crud-commands-35h6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I want to flat this json as array.Any help pls](https://dev.to/vijaybalajirb/i-want-to-flat-this-json-as-arrayany-help-pls-3idf)
 - [Dev.to/JS] [Solving cache invalidation in 15 lines of code](https://dev.to/jdorn/solving-cache-invalidation-in-15-lines-of-code-97p)
 - [Dev.to/JS] [PropTypes in react &lpar;JS&rpar;](https://dev.to/therajatg/proptypes-in-react-js-i17)
-- [Dev.to/JS] [Motorola Edge 30 Pro Price in Nepal and Launch Date - techyatra](https://dev.to/maya1234/motorola-edge-30-pro-price-in-nepal-and-launch-date-techyatra-43be)
-- [Dev.to/JS] [Designing an Activity Calendar in React](https://dev.to/shivishbrahma/designing-an-activity-calendar-in-react-47k2)
-- [Dev.to/JS] [How to Build a Stock Chart &lpar;JS&rpar; in 4 Steps](https://dev.to/andreykh1985/how-to-build-a-stock-chart-js-in-4-steps-72o)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
