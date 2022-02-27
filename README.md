@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I want to flat this json as array.Any help pls](https://dev.to/vijaybalajirb/i-want-to-flat-this-json-as-arrayany-help-pls-3idf)
+- [Dev.to/JS] [Solving cache invalidation in 15 lines of code](https://dev.to/jdorn/solving-cache-invalidation-in-15-lines-of-code-97p)
+- [Dev.to/JS] [PropTypes in react &lpar;JS&rpar;](https://dev.to/therajatg/proptypes-in-react-js-i17)
+- [Dev.to/JS] [Motorola Edge 30 Pro Price in Nepal and Launch Date - techyatra](https://dev.to/maya1234/motorola-edge-30-pro-price-in-nepal-and-launch-date-techyatra-43be)
 - [Dev.to/JS] [Designing an Activity Calendar in React](https://dev.to/shivishbrahma/designing-an-activity-calendar-in-react-47k2)
 - [Dev.to/JS] [How to Build a Stock Chart &lpar;JS&rpar; in 4 Steps](https://dev.to/andreykh1985/how-to-build-a-stock-chart-js-in-4-steps-72o)
 - [Dev.to/JS] [Build web scraper REST API using JAVA,SPRING BOOT, and JSOUP](https://dev.to/devcse/build-web-scraper-rest-api-using-javaspring-boot-and-jsoup-25mi)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Custom Parser for &quot;pipe&quot; Streams in NodeJS](https://dev.to/humanfriend22/custom-parser-for-pipe-streams-in-nodejs-2f85)
 - [Dev.to/JS] [Day 15 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#453. Minimum Moves to Equal Array Elements&lpar;M/JS&rpar;](https://dev.to/corndog_com567/day-15-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem453-minimum-moves-to-equal-array-elementsmjs-5ch4)
 - [Dev.to/JS] [Creative Text Revealing Animation](https://dev.to/codinghindi/creative-text-revealing-animation-2c5)
-- [Dev.to/JS] [Only Numbers validation in JS](https://dev.to/lakshyatyagi24/only-numbers-validation-in-js-23o2)
-- [Dev.to/JS] [How can you implement the sleep&lpar;&rpar; function in Javascript?](https://dev.to/codewithsnowbit/how-can-you-implement-the-sleep-function-in-javascript-284h)
-- [Dev.to/JS] [Avoid indentation hell with early returns](https://dev.to/nevulo/avoid-indentation-hell-with-early-returns-4i3l)
-- [Dev.to/JS] [30 JavaScript Projects for beginners](https://dev.to/pranish07/30-javascript-projects-for-beginners-19oo)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
