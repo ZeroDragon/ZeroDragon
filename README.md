@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
+- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-2015)
+- [Dev.to/JS] [How to Setup a Node.js App with a Custom Start and Build Script on Heroku](https://dev.to/diogocapela/how-to-setup-a-nodejs-app-with-a-custom-start-and-build-script-on-heroku-1gdd)
+- [Dev.to/JS] [Expo - Adicionando uma tela inicial e ícones](https://dev.to/jhonywalkeer/expo-adicionando-uma-tela-inicial-e-icones-59dc)
+- [Dev.to/JS] [First DEV Blog](https://dev.to/moazamalikorai/first-dev-blog-5e7h)
+- [Dev.to/JS] [Weekly Digest 08/2022](https://dev.to/marcobiedermann/weekly-digest-082022-em7)
+- [Dev.to/JS] [How to Update a Package With NPM](https://dev.to/gaelgthomas/how-to-update-a-package-with-npm-2hp8)
 - [Dev.to/JS] [javascript data validator &lpar;volder&rpar;](https://dev.to/alguercode/javascript-data-validator-volder-a2g)
 - [Dev.to/JS] [HTTP STATUS CODE in 5 minutes](https://dev.to/muhammad_asif/http-status-code-in-5-minutes-2653)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
@@ -31,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
 - [Dev.to/JS] [Convert nested JSON to simple JSON in Javascript](https://dev.to/urstrulyvishwak/convert-nested-json-to-simple-json-in-javascript-4a34)
 - [Dev.to/JS] [Turn any Form into a  stepper form wizard with UI, Hooks, Context, React-Hook-Form and Yup](https://dev.to/paulvermeer2021/turn-any-form-into-a-stepper-form-wizard-with-ui-hooks-context-react-hook-form-and-yup-56j6)
-- [Dev.to/JS] [How to Build a Modal Popup Box Using HTML, CSS, and JavaScript](https://dev.to/dboatenggg/how-to-build-a-modal-popup-box-using-html-css-and-javascript-3ofj)
-- [Dev.to/JS] [The thing with JavaScript Template literals](https://dev.to/nwamugo/the-thing-with-javascript-template-literals-h48)
-- [Dev.to/JS] [Publishing Javascript Library - From Zero to Hero](https://dev.to/itsrennyman/publishing-javascript-library-from-zero-to-hero-44n9)
-- [Dev.to/JS] [State management in Vue 3 with Harlem.js 📦](https://dev.to/lexpeartha/state-management-in-vue-3-with-harlemjs-3ifj)
-- [Dev.to/JS] [Best Practices in Angular](https://dev.to/pawankkumawat/best-practices-in-angular-3jk5)
-- [Dev.to/JS] [How to get a free GraphQL certification — Apollo Graph Developer](https://dev.to/kevinmmartins/how-to-get-a-free-graphql-certification-apollo-graph-developer-1o03)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Not Washing Your Throw Blankets Enough &lpar;and It&#39;s Gross&rpar;](https://lifehacker.com/youre-not-washing-your-throw-blankets-enough-and-its-g-1848587537)
 - [Lifehacker] [How to Force Google Chrome to Download PDFs Instead of Opening Them](https://lifehacker.com/how-to-force-google-chrome-to-download-pdfs-instead-of-1848587110)
 - [Lifehacker] [6 Common Baking Myths You Should Stop Believing](https://lifehacker.com/6-common-baking-myths-you-should-stop-believing-1848587648)
-- [Lifehacker] [What the Codes on Your Car’s Tires Are Telling You](https://lifehacker.com/what-the-codes-on-your-car-s-tires-are-telling-you-1848587260)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
