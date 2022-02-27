@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Should Frontend Devs Care About Performance??](https://dev.to/bytebodger/should-frontend-devs-care-about-performance-3eg1)
+- [Dev.to/JS] [Mistakes Made When Making a FullStack web app](https://dev.to/sobhandash/mistakes-made-when-making-a-fullstack-web-app-3c87)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-2015)
 - [Dev.to/JS] [How to Setup a Node.js App with a Custom Start and Build Script on Heroku](https://dev.to/diogocapela/how-to-setup-a-nodejs-app-with-a-custom-start-and-build-script-on-heroku-1gdd)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tell me you&#39;re Data scientist without telling me you&#39;re a Data scientist..](https://dev.to/hvm3/tell-me-youre-data-scientist-without-telling-me-youre-a-data-scientist-f49)
 - [Dev.to/JS] [Get more detail from your Cypress  API tests](https://dev.to/dwwhalen/get-more-detail-from-your-cypress-api-tests-lb8)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
-- [Dev.to/JS] [Convert nested JSON to simple JSON in Javascript](https://dev.to/urstrulyvishwak/convert-nested-json-to-simple-json-in-javascript-4a34)
-- [Dev.to/JS] [Turn any Form into a  stepper form wizard with UI, Hooks, Context, React-Hook-Form and Yup](https://dev.to/paulvermeer2021/turn-any-form-into-a-stepper-form-wizard-with-ui-hooks-context-react-hook-form-and-yup-56j6)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
