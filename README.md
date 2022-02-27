@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [javascript data validator &lpar;volder&rpar;](https://dev.to/alguercode/javascript-data-validator-volder-a2g)
+- [Dev.to/JS] [HTTP STATUS CODE in 5 minutes](https://dev.to/muhammad_asif/http-status-code-in-5-minutes-2653)
+- [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Dev.to/JS] [Tell me you&#39;re Data scientist without telling me you&#39;re a Data scientist..](https://dev.to/hvm3/tell-me-youre-data-scientist-without-telling-me-youre-a-data-scientist-f49)
 - [Dev.to/JS] [Get more detail from your Cypress  API tests](https://dev.to/dwwhalen/get-more-detail-from-your-cypress-api-tests-lb8)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State management in Vue 3 with Harlem.js 📦](https://dev.to/lexpeartha/state-management-in-vue-3-with-harlemjs-3ifj)
 - [Dev.to/JS] [Best Practices in Angular](https://dev.to/pawankkumawat/best-practices-in-angular-3jk5)
 - [Dev.to/JS] [How to get a free GraphQL certification — Apollo Graph Developer](https://dev.to/kevinmmartins/how-to-get-a-free-graphql-certification-apollo-graph-developer-1o03)
-- [Dev.to/JS] [Tell me you&#39;re web designer without telling me you&#39;re a web designer..](https://dev.to/hvm3/tell-me-youre-web-designer-without-telling-me-youre-a-web-designer-1k7o)
-- [Dev.to/JS] [IIFE in JavaScript](https://dev.to/murtuzaalisurti/iife-in-javascript-2if2)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Force Google Chrome to Download PDFs Instead of Opening Them](https://lifehacker.com/how-to-force-google-chrome-to-download-pdfs-instead-of-1848587110)
 - [Lifehacker] [6 Common Baking Myths You Should Stop Believing](https://lifehacker.com/6-common-baking-myths-you-should-stop-believing-1848587648)
 - [Lifehacker] [What the Codes on Your Car’s Tires Are Telling You](https://lifehacker.com/what-the-codes-on-your-car-s-tires-are-telling-you-1848587260)
-- [Lifehacker] [The Smartest Way to Keep Avocados Fresh for Up to a Month](https://lifehacker.com/the-smartest-way-to-keep-avocados-fresh-for-up-to-a-mon-1848587051)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
