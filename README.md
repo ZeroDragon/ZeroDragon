@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Designing an Activity Calendar in React](https://dev.to/shivishbrahma/designing-an-activity-calendar-in-react-47k2)
+- [Dev.to/JS] [How to Build a Stock Chart &lpar;JS&rpar; in 4 Steps](https://dev.to/andreykh1985/how-to-build-a-stock-chart-js-in-4-steps-72o)
+- [Dev.to/JS] [Build web scraper REST API using JAVA,SPRING BOOT, and JSOUP](https://dev.to/devcse/build-web-scraper-rest-api-using-javaspring-boot-and-jsoup-25mi)
+- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 2&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-2-321k)
+- [Dev.to/JS] [TypeScript Utility types with Generics](https://dev.to/dailydevtips1/typescript-utility-types-with-generics-59el)
 - [Dev.to/JS] [Custom Parser for &quot;pipe&quot; Streams in NodeJS](https://dev.to/humanfriend22/custom-parser-for-pipe-streams-in-nodejs-2f85)
 - [Dev.to/JS] [Day 15 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#453. Minimum Moves to Equal Array Elements&lpar;M/JS&rpar;](https://dev.to/corndog_com567/day-15-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem453-minimum-moves-to-equal-array-elementsmjs-5ch4)
 - [Dev.to/JS] [Creative Text Revealing Animation](https://dev.to/codinghindi/creative-text-revealing-animation-2c5)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How can you implement the sleep&lpar;&rpar; function in Javascript?](https://dev.to/codewithsnowbit/how-can-you-implement-the-sleep-function-in-javascript-284h)
 - [Dev.to/JS] [Avoid indentation hell with early returns](https://dev.to/nevulo/avoid-indentation-hell-with-early-returns-4i3l)
 - [Dev.to/JS] [30 JavaScript Projects for beginners](https://dev.to/pranish07/30-javascript-projects-for-beginners-19oo)
-- [Dev.to/JS] [What&#39;s a web framework, and which one do you pick?](https://dev.to/nevulo/whats-a-web-framework-and-which-one-do-you-pick-5a2i)
-- [Dev.to/JS] [Project 5: Random number game in Javascript](https://dev.to/urstrulyvishwak/project-5-random-number-game-in-javascript-12fk)
-- [Dev.to/JS] [Planning for release 2.8](https://dev.to/tuenguyen2911_67/planning-for-release-28-55i3)
-- [Dev.to/JS] [tc39 proposal-tempral: Time-zone conversion](https://dev.to/takuyakikuchi/tc39-proposal-tempral-time-zone-conversion-4d56)
-- [Dev.to/JS] [¿Qué son los empty-statement en javascript? ¿Existen casos de uso?](https://dev.to/jfernandogt/que-son-los-empty-statement-en-javascript-existen-casos-de-uso-15df)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
