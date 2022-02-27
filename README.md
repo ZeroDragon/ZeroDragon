@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode diary: 33. Search in Rotated Sorted Array](https://dev.to/kevin074/leetcode-diary-33-search-in-rotated-sorted-array-1d4b)
+- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io&lpar;Demo Video&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketiodemo-video-3e2g)
+- [Dev.to/JS] [Built  open graph image generator with NodeJs &amp; NextJs](https://dev.to/ats1999/built-open-graph-image-generator-with-nodejs-nextjs-20pg)
 - [Dev.to/JS] [I want to flat this json as array.Any help pls](https://dev.to/vijaybalajirb/i-want-to-flat-this-json-as-arrayany-help-pls-3idf)
 - [Dev.to/JS] [Solving cache invalidation in 15 lines of code](https://dev.to/jdorn/solving-cache-invalidation-in-15-lines-of-code-97p)
 - [Dev.to/JS] [PropTypes in react &lpar;JS&rpar;](https://dev.to/therajatg/proptypes-in-react-js-i17)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build web scraper REST API using JAVA,SPRING BOOT, and JSOUP](https://dev.to/devcse/build-web-scraper-rest-api-using-javaspring-boot-and-jsoup-25mi)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 2&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-2-321k)
 - [Dev.to/JS] [TypeScript Utility types with Generics](https://dev.to/dailydevtips1/typescript-utility-types-with-generics-59el)
-- [Dev.to/JS] [Custom Parser for &quot;pipe&quot; Streams in NodeJS](https://dev.to/humanfriend22/custom-parser-for-pipe-streams-in-nodejs-2f85)
-- [Dev.to/JS] [Day 15 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#453. Minimum Moves to Equal Array Elements&lpar;M/JS&rpar;](https://dev.to/corndog_com567/day-15-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem453-minimum-moves-to-equal-array-elementsmjs-5ch4)
-- [Dev.to/JS] [Creative Text Revealing Animation](https://dev.to/codinghindi/creative-text-revealing-animation-2c5)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
