@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Item re-order by drag and drop written in vanilla JavaScript](https://dev.to/k_tsushima/item-re-order-by-drag-and-drop-written-in-vanilla-javascript-331h)
+- [Dev.to/JS] [Array Data Structures in Javascript: Part 1](https://dev.to/tariksouabny/array-data-structures-in-javascript-part-1-30dj)
+- [Dev.to/JS] [Web Development Project Service](https://dev.to/dhrumilgohil/web-development-project-service-28d5)
+- [Dev.to/JS] [The last piece of the puzzle to upgrade Vue3](https://dev.to/bigfengyu/the-last-piece-of-the-puzzle-to-upgrade-vue3-252d)
 - [Dev.to/JS] [Should Frontend Devs Care About Performance??](https://dev.to/bytebodger/should-frontend-devs-care-about-performance-3eg1)
 - [Dev.to/JS] [Mistakes Made When Making a FullStack web app](https://dev.to/sobhandash/mistakes-made-when-making-a-fullstack-web-app-3c87)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First DEV Blog](https://dev.to/moazamalikorai/first-dev-blog-5e7h)
 - [Dev.to/JS] [Weekly Digest 08/2022](https://dev.to/marcobiedermann/weekly-digest-082022-em7)
 - [Dev.to/JS] [How to Update a Package With NPM](https://dev.to/gaelgthomas/how-to-update-a-package-with-npm-2hp8)
-- [Dev.to/JS] [javascript data validator &lpar;volder&rpar;](https://dev.to/alguercode/javascript-data-validator-volder-a2g)
-- [Dev.to/JS] [HTTP STATUS CODE in 5 minutes](https://dev.to/muhammad_asif/http-status-code-in-5-minutes-2653)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
-- [Dev.to/JS] [Tell me you&#39;re Data scientist without telling me you&#39;re a Data scientist..](https://dev.to/hvm3/tell-me-youre-data-scientist-without-telling-me-youre-a-data-scientist-f49)
-- [Dev.to/JS] [Get more detail from your Cypress  API tests](https://dev.to/dwwhalen/get-more-detail-from-your-cypress-api-tests-lb8)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
