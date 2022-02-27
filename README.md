@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode: Container With Most Water](https://dev.to/fhinkel/leetcode-container-with-most-water-3k0k)
+- [Dev.to/JS] [Higher-Order Components in React Hooks era](https://dev.to/adevnadia/higher-order-components-in-react-hooks-era-3d9b)
 - [Dev.to/JS] [Get brighter and darker color hex](https://dev.to/slkhadeeja/get-brighter-and-darker-color-hex-3g3c)
 - [Dev.to/JS] [Using modulo to shift a value and keep it inside a range](https://dev.to/timothee/using-modulo-to-shift-a-value-and-keep-it-inside-a-range-8fm)
 - [Dev.to/JS] [Day 16 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1071. Greatest Common Divisor of Strings&lpar;Easy/JS&rpar;](https://dev.to/corndog_com567/day-16-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1071-greatest-common-divisor-of-stringseasyjs-2fgn)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Development Project Service](https://dev.to/dhrumilgohil/web-development-project-service-28d5)
 - [Dev.to/JS] [The last piece of the puzzle to upgrade Vue3](https://dev.to/bigfengyu/the-last-piece-of-the-puzzle-to-upgrade-vue3-252d)
 - [Dev.to/JS] [Should Frontend Devs Care About Performance??](https://dev.to/bytebodger/should-frontend-devs-care-about-performance-3eg1)
-- [Dev.to/JS] [Mistakes Made When Making a FullStack web app](https://dev.to/sobhandash/mistakes-made-when-making-a-fullstack-web-app-3c87)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
-- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-2015)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
