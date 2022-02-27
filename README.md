@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tell me you&#39;re Data scientist without telling me you&#39;re a Data scientist..](https://dev.to/hvm3/tell-me-youre-data-scientist-without-telling-me-youre-a-data-scientist-f49)
+- [Dev.to/JS] [Get more detail from your Cypress  API tests](https://dev.to/dwwhalen/get-more-detail-from-your-cypress-api-tests-lb8)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
 - [Dev.to/JS] [Convert nested JSON to simple JSON in Javascript](https://dev.to/urstrulyvishwak/convert-nested-json-to-simple-json-in-javascript-4a34)
 - [Dev.to/JS] [Turn any Form into a  stepper form wizard with UI, Hooks, Context, React-Hook-Form and Yup](https://dev.to/paulvermeer2021/turn-any-form-into-a-stepper-form-wizard-with-ui-hooks-context-react-hook-form-and-yup-56j6)
@@ -32,10 +34,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State management in Vue 3 with Harlem.js 📦](https://dev.to/lexpeartha/state-management-in-vue-3-with-harlemjs-3ifj)
 - [Dev.to/JS] [Best Practices in Angular](https://dev.to/pawankkumawat/best-practices-in-angular-3jk5)
 - [Dev.to/JS] [How to get a free GraphQL certification — Apollo Graph Developer](https://dev.to/kevinmmartins/how-to-get-a-free-graphql-certification-apollo-graph-developer-1o03)
+- [Dev.to/JS] [Tell me you&#39;re web designer without telling me you&#39;re a web designer..](https://dev.to/hvm3/tell-me-youre-web-designer-without-telling-me-youre-a-web-designer-1k7o)
 - [Dev.to/JS] [IIFE in JavaScript](https://dev.to/murtuzaalisurti/iife-in-javascript-2if2)
-- [Dev.to/JS] [The Best Browser For Developers - Blisk Browser Review 🚀](https://dev.to/rammcodes/the-best-browser-for-developers-blisk-browser-review-42kb)
-- [Dev.to/JS] [&quot;You may need an appropriate loader to handle this file type&quot; with Webpack and Babel](https://dev.to/gilly7/you-may-need-an-appropriate-loader-to-handle-this-file-type-with-webpack-and-babel-4hi6)
-- [Dev.to/JS] [Week 1: In a Coding Bootcamp - My experience!](https://dev.to/catevee/week-1-in-a-coding-bootcamp-my-experience-3ghh)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
