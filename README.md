@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Qué son los empty-statement en javascript? ¿Existen casos de uso?](https://dev.to/jfernandogt/que-son-los-empty-statement-en-javascript-existen-casos-de-uso-15df)
 - [Dev.to/JS] [Editorial-Chart experiment](https://dev.to/elynaur/editorial-chart-experiment-56nk)
 - [Dev.to/JS] [An introduction to Scala](https://dev.to/zizdepski/an-introduction-to-scala-1b0a)
 - [Dev.to/JS] [Build dynamic breadcrumb routes and child routes with matchPath in React Router v6](https://dev.to/pavsaund/build-dynamic-breadcrumb-routes-and-child-routes-with-mathpath-in-react-router-v6-2jcf)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A new crypto token swap site](https://dev.to/seedacquire/a-new-crypto-token-swap-site-3afe)
 - [Dev.to/JS] [Javascript array methods with examples and combinations](https://dev.to/kevinkh89/javascript-array-methods-with-examples-and-combinations-f4j)
 - [Dev.to/JS] [What happened to Faker.js &amp; it&#39;s creator?](https://dev.to/navicsteinr/what-happened-to-fakerjs-its-creator-2nje)
-- [Dev.to/JS] [How to create an Extension using react](https://dev.to/thecoollearner/how-to-create-an-extension-using-react-a02)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
