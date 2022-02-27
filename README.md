@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data types in Javascript](https://dev.to/vedanthb/data-types-in-javascript-35l1)
 - [Dev.to/JS] [Item re-order by drag and drop written in vanilla JavaScript](https://dev.to/k_tsushima/item-re-order-by-drag-and-drop-written-in-vanilla-javascript-331h)
 - [Dev.to/JS] [Array Data Structures in Javascript: Part 1](https://dev.to/tariksouabny/array-data-structures-in-javascript-part-1-30dj)
 - [Dev.to/JS] [Web Development Project Service](https://dev.to/dhrumilgohil/web-development-project-service-28d5)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Expo - Adicionando uma tela inicial e ícones](https://dev.to/jhonywalkeer/expo-adicionando-uma-tela-inicial-e-icones-59dc)
 - [Dev.to/JS] [First DEV Blog](https://dev.to/moazamalikorai/first-dev-blog-5e7h)
 - [Dev.to/JS] [Weekly Digest 08/2022](https://dev.to/marcobiedermann/weekly-digest-082022-em7)
-- [Dev.to/JS] [How to Update a Package With NPM](https://dev.to/gaelgthomas/how-to-update-a-package-with-npm-2hp8)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
