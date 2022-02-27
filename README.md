@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The thing with JavaScript Template literals](https://dev.to/nwamugo/the-thing-with-javascript-template-literals-h48)
+- [Dev.to/JS] [Publishing Javascript Library - From Zero to Hero](https://dev.to/itsrennyman/publishing-javascript-library-from-zero-to-hero-44n9)
+- [Dev.to/JS] [State management in Vue 3 with Harlem.js 📦](https://dev.to/lexpeartha/state-management-in-vue-3-with-harlemjs-3ifj)
+- [Dev.to/JS] [Best Practices in Angular](https://dev.to/pawankkumawat/best-practices-in-angular-3jk5)
 - [Dev.to/JS] [How to get a free GraphQL certification — Apollo Graph Developer](https://dev.to/kevinmmartins/how-to-get-a-free-graphql-certification-apollo-graph-developer-1o03)
 - [Dev.to/JS] [IIFE in JavaScript](https://dev.to/murtuzaalisurti/iife-in-javascript-2if2)
 - [Dev.to/JS] [The Best Browser For Developers - Blisk Browser Review 🚀](https://dev.to/rammcodes/the-best-browser-for-developers-blisk-browser-review-42kb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2.3 A beginner&#39;s guide Firebase V9 - A quick summary of Firestore CRUD commands](https://dev.to/mjoycemilburn/23-a-beginners-guide-firebase-v9-a-quick-summary-of-firestore-crud-commands-35h6)
 - [Dev.to/JS] [Leetcode diary: 33. Search in Rotated Sorted Array](https://dev.to/kevin074/leetcode-diary-33-search-in-rotated-sorted-array-1d4b)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io&lpar;Demo Video&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketiodemo-video-3e2g)
-- [Dev.to/JS] [Built  open graph image generator with NodeJs &amp; NextJs](https://dev.to/ats1999/built-open-graph-image-generator-with-nodejs-nextjs-20pg)
-- [Dev.to/JS] [I want to flat this json as array.Any help pls](https://dev.to/vijaybalajirb/i-want-to-flat-this-json-as-arrayany-help-pls-3idf)
-- [Dev.to/JS] [Solving cache invalidation in 15 lines of code](https://dev.to/jdorn/solving-cache-invalidation-in-15-lines-of-code-97p)
-- [Dev.to/JS] [PropTypes in react &lpar;JS&rpar;](https://dev.to/therajatg/proptypes-in-react-js-i17)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
