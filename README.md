@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get brighter and darker color hex](https://dev.to/slkhadeeja/get-brighter-and-darker-color-hex-3g3c)
+- [Dev.to/JS] [Using modulo to shift a value and keep it inside a range](https://dev.to/timothee/using-modulo-to-shift-a-value-and-keep-it-inside-a-range-8fm)
+- [Dev.to/JS] [Day 16 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1071. Greatest Common Divisor of Strings&lpar;Easy/JS&rpar;](https://dev.to/corndog_com567/day-16-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1071-greatest-common-divisor-of-stringseasyjs-2fgn)
+- [Dev.to/JS] [Starting my front-end learning](https://dev.to/asafe_souza/starting-my-front-end-learning-1n0n)
 - [Dev.to/JS] [Data types in Javascript](https://dev.to/vedanthb/data-types-in-javascript-35l1)
 - [Dev.to/JS] [Item re-order by drag and drop written in vanilla JavaScript](https://dev.to/k_tsushima/item-re-order-by-drag-and-drop-written-in-vanilla-javascript-331h)
 - [Dev.to/JS] [Array Data Structures in Javascript: Part 1](https://dev.to/tariksouabny/array-data-structures-in-javascript-part-1-30dj)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mistakes Made When Making a FullStack web app](https://dev.to/sobhandash/mistakes-made-when-making-a-fullstack-web-app-3c87)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-2015)
-- [Dev.to/JS] [How to Setup a Node.js App with a Custom Start and Build Script on Heroku](https://dev.to/diogocapela/how-to-setup-a-nodejs-app-with-a-custom-start-and-build-script-on-heroku-1gdd)
-- [Dev.to/JS] [Expo - Adicionando uma tela inicial e ícones](https://dev.to/jhonywalkeer/expo-adicionando-uma-tela-inicial-e-icones-59dc)
-- [Dev.to/JS] [First DEV Blog](https://dev.to/moazamalikorai/first-dev-blog-5e7h)
-- [Dev.to/JS] [Weekly Digest 08/2022](https://dev.to/marcobiedermann/weekly-digest-082022-em7)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
