@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s a web framework, and which one do you pick?](https://dev.to/nevulo/whats-a-web-framework-and-which-one-do-you-pick-5a2i)
+- [Dev.to/JS] [Project 5: Random number game in Javascript](https://dev.to/urstrulyvishwak/project-5-random-number-game-in-javascript-12fk)
 - [Dev.to/JS] [Planning for release 2.8](https://dev.to/tuenguyen2911_67/planning-for-release-28-55i3)
 - [Dev.to/JS] [tc39 proposal-tempral: Time-zone conversion](https://dev.to/takuyakikuchi/tc39-proposal-tempral-time-zone-conversion-4d56)
 - [Dev.to/JS] [¿Qué son los empty-statement en javascript? ¿Existen casos de uso?](https://dev.to/jfernandogt/que-son-los-empty-statement-en-javascript-existen-casos-de-uso-15df)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How long does it take to get a job as a self taught programmer 😢💔👨‍💻](https://dev.to/elliot_brenyasarfo_18749/how-long-does-it-take-to-get-a-job-as-a-self-taught-programmer-33fc)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Doubly Linked List](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-doubly-linked-list-2ddi)
 - [Dev.to/JS] [How to hook into the DOM using Vanilla JavaScript!](https://dev.to/alimobasheri/how-to-hook-into-the-dom-using-vanilla-javascript-5a6p)
-- [Dev.to/JS] [5 Career advice: Frontend](https://dev.to/dashpy/4-career-advice-frontend-2olg)
-- [Dev.to/JS] [A new crypto token swap site](https://dev.to/seedacquire/a-new-crypto-token-swap-site-3afe)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
