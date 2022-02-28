@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with Docker](https://dev.to/zjohnson10/getting-started-with-docker-4lba)
+- [Dev.to/JS] [How To Toggle Dark And Light Mode Using jQuery](https://dev.to/techsolutionstuff/how-to-toggle-dark-and-light-mode-using-jquery-15cj)
+- [Dev.to/JS] [The Fast and the JavaScript](https://dev.to/jareichert/the-fast-and-the-javascript-3oed)
 - [Dev.to/JS] [New update in opensense👁](https://dev.to/sripadhs/new-update-in-opensense-2g8o)
 - [Dev.to/JS] [My Egg-citing Weather App](https://dev.to/ciaracloud/my-egg-citing-weather-app-2ipe)
 - [Dev.to/JS] [Fundamentals](https://dev.to/soiymiilk/fundamentals-5ghp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Higher-Order Components in React Hooks era](https://dev.to/adevnadia/higher-order-components-in-react-hooks-era-3d9b)
 - [Dev.to/JS] [Get brighter and darker color hex](https://dev.to/slkhadeeja/get-brighter-and-darker-color-hex-3g3c)
 - [Dev.to/JS] [Using modulo to shift a value and keep it inside a range](https://dev.to/timothee/using-modulo-to-shift-a-value-and-keep-it-inside-a-range-8fm)
-- [Dev.to/JS] [Day 16 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1071. Greatest Common Divisor of Strings&lpar;Easy/JS&rpar;](https://dev.to/corndog_com567/day-16-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1071-greatest-common-divisor-of-stringseasyjs-2fgn)
-- [Dev.to/JS] [Starting my front-end learning](https://dev.to/asafe_souza/starting-my-front-end-learning-1n0n)
-- [Dev.to/JS] [Data types in Javascript](https://dev.to/vedanthb/data-types-in-javascript-35l1)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
