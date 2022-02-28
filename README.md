@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automatically Recommend VSCode Extensions](https://dev.to/zirkelc/automatically-recommend-vscode-extensions-540c)
+- [Dev.to/JS] [Jest Testing like a Pro - Tips and tricks](https://dev.to/dvddpl/jest-testing-like-a-pro-tips-and-tricks-4o6f)
 - [Dev.to/JS] [Avoid async/await hell](https://dev.to/judionit/avoid-asyncawait-hell-2gb6)
 - [Dev.to/JS] [TypeScript: How to use Enums](https://dev.to/dailydevtips1/typescript-how-to-use-enums-2nn8)
 - [Dev.to/JS] [Use Prisma Instead of SQL](https://dev.to/shubhampatilsd/use-prisma-instead-of-sql-2g47)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Fast and the JavaScript](https://dev.to/jareichert/the-fast-and-the-javascript-3oed)
 - [Dev.to/JS] [New update in opensense👁](https://dev.to/sripadhs/new-update-in-opensense-2g8o)
 - [Dev.to/JS] [My Egg-citing Weather App](https://dev.to/ciaracloud/my-egg-citing-weather-app-2ipe)
-- [Dev.to/JS] [Fundamentals](https://dev.to/soiymiilk/fundamentals-5ghp)
-- [Dev.to/JS] [React.StrictMode and Random data](https://dev.to/kmyrrpen/reactstrictmode-and-random-data-21nd)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
