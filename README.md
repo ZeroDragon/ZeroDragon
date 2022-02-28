@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Is ‘Slugging’ &lpar;and Is It Really Good for Your Skin&rpar;?](https://lifehacker.com/what-is-slugging-and-is-it-really-good-for-your-skin-1848602292)
+- [Dev.to/JS] [JavaScript Destructuring: Everything you need to know](https://dev.to/thatanjan/javascript-destructuring-everything-you-need-to-know-4ch3)
+- [Dev.to/JS] [Here are some weird Javascript](https://dev.to/pranish07/here-are-some-weird-javascript-27nh)
+- [Lifehacker] [It&#39;s Time to Stop Pre-Rinsing Your Dishes](https://lifehacker.com/its-time-to-stop-pre-rinsing-your-dishes-1848601416)
+- [Dev.to/JS] [What&#39;s new? - v1.2](https://dev.to/medusajs/whats-new-v12-2fdp)
+- [Lifehacker] [7 Financial Scams, Bubbles, and Boondoggles That Are Definitely Nothing Like Cryptocurrency and NFTs](https://lifehacker.com/7-financial-scams-bubbles-and-boondoggles-that-are-de-1848596255)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 3&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-3-64l)
 - [Lifehacker] [How to Automatically Delete One-Time Passwords From Google Messages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-automatically-delete-one-time-passwords-from-goo-1848601785)
 - [Dev.to/JS] [View list of GitHub commits within the specified date range](https://dev.to/codewithsnowbit/view-list-of-github-commits-within-the-specified-date-range-3kl8)
@@ -32,13 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Lexical Scope in JavaScript](https://dev.to/maitrakhatri/understanding-lexical-scope-in-javascript-4j6o)
 - [Dev.to/JS] [How to use machine learning in your JS applications](https://dev.to/gary149/how-to-use-machine-learning-in-your-js-applications-462p)
 - [Dev.to/JS] [Find closest RGB component from a given color](https://dev.to/manishgs/find-closest-rgb-component-from-a-given-color-5hg1)
-- [Dev.to/JS] [A performant classified-ads website with maps and tags](https://dev.to/bacloud22/a-performant-classified-ads-website-with-maps-and-tags-4gmg)
+- [Dev.to/JS] [Blazingly fast classified-ads website with maps and tags](https://dev.to/bacloud22/a-performant-classified-ads-website-with-maps-and-tags-4gmg)
 - [Dev.to/JS] [Cross-Post CLI Tool: New Features and Fixes](https://dev.to/shahednasser/cross-post-cli-tool-new-features-and-fixes-3i41)
 - [Dev.to/JS] [How to Integrate QR Code for Authentication Across Web &amp; Mobile Applications in Nodejs](https://dev.to/olanetsoft/how-to-integrate-qr-code-for-authentication-across-web-mobile-applications-in-nodejs-j20)
-- [Dev.to/JS] [Next.js + Tailwind CSS](https://dev.to/zytha/nextjs-tailwind-css-1ci1)
 - [Lifehacker] [How to Know When It’s Time to Upgrade Your Laptop](https://lifehacker.com/how-to-know-when-it-s-time-to-upgrade-your-laptop-1848571755)
-- [Dev.to/JS] [Cypress 💚 Iframes](https://dev.to/mkubdev/cypress-iframes-1ole)
-- [Dev.to/JS] [Redux](https://dev.to/alihaydararman/redux-2703)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Goblin Mode&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1848590555)
 - [Lifehacker] [Learn How to Take a Damn Compliment](https://lifehacker.com/learn-how-to-take-a-damn-compliment-1848590472)
 - [Lifehacker] [How to Talk to Kids and Teens About the Crisis in Ukraine](https://lifehacker.com/how-to-talk-to-kids-and-teens-about-the-crisis-in-ukrai-1848589761)
-- [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
-- [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
-- [Lifehacker] [Sure, You Can Go to Antarctica &lpar;but Here’s Why You Shouldn’t&rpar;](https://lifehacker.com/sure-you-can-go-to-antarctica-but-here-s-why-you-shou-1848589285)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
