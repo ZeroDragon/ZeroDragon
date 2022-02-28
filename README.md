@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Structures: Stacks And Queues I](https://dev.to/m13ha/data-structures-stacks-and-queues-i-ild)
 - [Dev.to/JS] [How to load environment variables in Svelte](https://dev.to/3dayweek/how-to-load-environment-variables-in-svelte-19bp)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 2&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-2-3ed9)
 - [Dev.to/JS] [Building Unlighthouse:  Open-Source Package For Site-wide Google Lighthouse scans](https://dev.to/harlanzw/building-unlighthouse-open-source-package-for-site-wide-google-lighthouse-scans-5315)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Run a local mock server in your project](https://dev.to/fefit/run-a-local-mock-server-in-your-project-k6c)
 - [Dev.to/JS] [Automatically Recommend VSCode Extensions](https://dev.to/zirkelc/automatically-recommend-vscode-extensions-540c)
 - [Dev.to/JS] [Jest Testing like a Pro - Tips and tricks](https://dev.to/dvddpl/jest-testing-like-a-pro-tips-and-tricks-4o6f)
-- [Dev.to/JS] [Avoid async/await hell](https://dev.to/judionit/avoid-asyncawait-hell-2gb6)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
