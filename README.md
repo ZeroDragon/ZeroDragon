@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [WebRTC Video Chat](https://dev.to/video-sdk/webrtc-video-chat-3ha9)
+- [Dev.to/JS] [How to Integrate QR Code for Authentication Across Web &amp; Mobile Applications in Nodejs](https://dev.to/olanetsoft/how-to-integrate-qr-code-for-authentication-across-web-mobile-applications-in-nodejs-j20)
+- [Dev.to/JS] [Next.js + Tailwind CSS](https://dev.to/zytha/nextjs-tailwind-css-1ci1)
+- [Lifehacker] [How to Know When It’s Time to Upgrade Your Laptop](https://lifehacker.com/how-to-know-when-it-s-time-to-upgrade-your-laptop-1848571755)
+- [Dev.to/JS] [Cypress 💚 Iframes](https://dev.to/mkubdev/cypress-iframes-1ole)
+- [Dev.to/JS] [Redux](https://dev.to/alihaydararman/redux-2703)
+- [Dev.to/JS] [CandyCrush game using Html, Css &amp; javascript](https://dev.to/yaswanthteja/candycrush-game-using-html-css-javascript-11pp)
+- [Dev.to/JS] [Build a JavaScript Video Chat App with VideoSDK](https://dev.to/video-sdk/webrtc-video-chat-3ha9)
 - [Dev.to/JS] [Finally understanding factory design pattern](https://dev.to/igornfaustino/finally-understanding-factory-design-pattern-490e)
 - [Dev.to/JS] [Why is it important to know about JavaScript?](https://dev.to/akshaya101/why-is-it-important-to-know-about-javascript-4fo3)
 - [Dev.to/JS] [Redux-Toolkit](https://dev.to/sohelrana22/redux-toolkit-20m4)
 - [Dev.to/JS] [How to make a count down timer in React 🔥](https://dev.to/avneesh0612/how-to-make-a-count-down-timer-in-react-1m8i)
 - [Dev.to/JS] [Simple Environmental Variable Setup in React and Node Applications](https://dev.to/kachidk/simple-environmental-variable-setup-in-react-and-node-applications-300i)
 - [Dev.to/JS] [🚀QUICK TIPS: Globally Registering Vue Components](https://dev.to/smpnjn/quick-tips-globally-registering-vue-components-4gf3)
-- [Dev.to/JS] [Reading Console Inputs in JavaScript](https://dev.to/ghoulkingr/reading-console-inputs-in-javascript-4h2e)
-- [Dev.to/JS] [Redesigning my portfolio using Jamstack](https://dev.to/globalkonvict/redesigning-my-portfolio-using-jamstack-5f69)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😡.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2kgk)
-- [Dev.to/JS] [TODOiXo - To never forget your tasks](https://dev.to/shreyashchavan/todoixo-to-never-forget-your-tasks-2fkf)
-- [Dev.to/JS] [8 GitHub resources for becoming a developer in 2022](https://dev.to/andrewbaisden/8-github-resources-for-becoming-a-developer-in-2022-cji)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Ways to Fact-Check a Viral Tweet](https://lifehacker.com/the-fastest-ways-to-fact-check-a-viral-tweet-1848588918)
 - [Lifehacker] [You&#39;re Not Washing Your Throw Blankets Enough &lpar;and It&#39;s Gross&rpar;](https://lifehacker.com/youre-not-washing-your-throw-blankets-enough-and-its-g-1848587537)
 - [Lifehacker] [How to Force Google Chrome to Download PDFs Instead of Opening Them](https://lifehacker.com/how-to-force-google-chrome-to-download-pdfs-instead-of-1848587110)
-- [Lifehacker] [6 Common Baking Myths You Should Stop Believing](https://lifehacker.com/6-common-baking-myths-you-should-stop-believing-1848587648)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
