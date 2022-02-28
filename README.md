@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using 11ty to build base websites](https://dev.to/zjohnson10/using-11ty-to-build-base-websites-139h)
+- [Dev.to/JS] [Day 17 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#829. Consecutive Numbers Sum&lpar;Hard/JavaScript&rpar;](https://dev.to/corndog_com567/day-17-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem829-consecutive-numbers-sumhardjavascript-3b3a)
 - [Dev.to/JS] [Getting started with Docker](https://dev.to/zjohnson10/getting-started-with-docker-4lba)
 - [Dev.to/JS] [How To Toggle Dark And Light Mode Using jQuery](https://dev.to/techsolutionstuff/how-to-toggle-dark-and-light-mode-using-jquery-15cj)
 - [Dev.to/JS] [The Fast and the JavaScript](https://dev.to/jareichert/the-fast-and-the-javascript-3oed)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remix Firebase Google Auth](https://dev.to/hosenur/remix-firebase-google-auth-10kg)
 - [Dev.to/JS] [Leetcode: Container With Most Water](https://dev.to/fhinkel/leetcode-container-with-most-water-3k0k)
 - [Dev.to/JS] [Higher-Order Components in React Hooks era](https://dev.to/adevnadia/higher-order-components-in-react-hooks-era-3d9b)
-- [Dev.to/JS] [Get brighter and darker color hex](https://dev.to/slkhadeeja/get-brighter-and-darker-color-hex-3g3c)
-- [Dev.to/JS] [Using modulo to shift a value and keep it inside a range](https://dev.to/timothee/using-modulo-to-shift-a-value-and-keep-it-inside-a-range-8fm)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
