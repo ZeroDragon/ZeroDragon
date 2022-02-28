@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to load environment variables in Svelte](https://dev.to/3dayweek/how-to-load-environment-variables-in-svelte-19bp)
+- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 2&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-2-3ed9)
+- [Dev.to/JS] [Building Unlighthouse:  Open-Source Package For Site-wide Google Lighthouse scans](https://dev.to/harlanzw/building-unlighthouse-open-source-package-for-site-wide-google-lighthouse-scans-5315)
 - [Dev.to/JS] [9 tricks to make your React Native development easier](https://dev.to/orbamas/9-tricks-to-make-your-react-native-development-easier-39i1)
 - [Dev.to/JS] [Debouncing vs Throttling](https://dev.to/hshoja/debuncing-vs-throttling-c7f)
 - [Dev.to/JS] [Memoization: the what, why and how?](https://dev.to/anshuman_bhardwaj/memoization-the-what-why-and-how-3ccn)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automatically Recommend VSCode Extensions](https://dev.to/zirkelc/automatically-recommend-vscode-extensions-540c)
 - [Dev.to/JS] [Jest Testing like a Pro - Tips and tricks](https://dev.to/dvddpl/jest-testing-like-a-pro-tips-and-tricks-4o6f)
 - [Dev.to/JS] [Avoid async/await hell](https://dev.to/judionit/avoid-asyncawait-hell-2gb6)
-- [Dev.to/JS] [TypeScript: How to use Enums](https://dev.to/dailydevtips1/typescript-how-to-use-enums-2nn8)
-- [Dev.to/JS] [Use Prisma Instead of SQL](https://dev.to/shubhampatilsd/use-prisma-instead-of-sql-2g47)
-- [Dev.to/JS] [Using 11ty to build base websites](https://dev.to/zjohnson10/using-11ty-to-build-base-websites-139h)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
