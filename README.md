@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Environmental Variable Setup in React and Node Applications](https://dev.to/kachidk/simple-environmental-variable-setup-in-react-and-node-applications-300i)
+- [Dev.to/JS] [🚀QUICK TIPS: Globally Registering Vue Components](https://dev.to/smpnjn/quick-tips-globally-registering-vue-components-4gf3)
 - [Dev.to/JS] [Reading Console Inputs in JavaScript](https://dev.to/ghoulkingr/reading-console-inputs-in-javascript-4h2e)
 - [Dev.to/JS] [Redesigning my portfolio using Jamstack](https://dev.to/globalkonvict/redesigning-my-portfolio-using-jamstack-5f69)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😡.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2kgk)
 - [Dev.to/JS] [TODOiXo - To never forget your tasks](https://dev.to/shreyashchavan/todoixo-to-never-forget-your-tasks-2fkf)
 - [Dev.to/JS] [8 GitHub resources for becoming a developer in 2022](https://dev.to/andrewbaisden/8-github-resources-for-becoming-a-developer-in-2022-cji)
 - [Dev.to/JS] [Data Science &amp; Algorithms: Insertion Sort](https://dev.to/codingnetworks/data-science-algorithms-insertion-sort-10a6)
+- [Dev.to/JS] [Why and How to Use Webpack and Babel with Vanilla JS](https://dev.to/syncfusion/why-and-how-to-use-webpack-and-babel-with-vanilla-js-h57)
 - [Dev.to/JS] [Data Structures: Stacks And Queues I](https://dev.to/m13ha/data-structures-stacks-and-queues-i-ild)
 - [Dev.to/JS] [How to load environment variables in Svelte](https://dev.to/3dayweek/how-to-load-environment-variables-in-svelte-19bp)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 2&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-2-3ed9)
-- [Dev.to/JS] [Building Unlighthouse:  Open-Source Package For Site-wide Google Lighthouse scans](https://dev.to/harlanzw/building-unlighthouse-open-source-package-for-site-wide-google-lighthouse-scans-5315)
-- [Dev.to/JS] [9 tricks to make your React Native development easier](https://dev.to/orbamas/9-tricks-to-make-your-react-native-development-easier-39i1)
-- [Dev.to/JS] [Debouncing vs Throttling](https://dev.to/hshoja/debuncing-vs-throttling-c7f)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
