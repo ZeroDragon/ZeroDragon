@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebRTC Video Chat](https://dev.to/video-sdk/webrtc-video-chat-3ha9)
+- [Dev.to/JS] [Finally understanding factory design pattern](https://dev.to/igornfaustino/finally-understanding-factory-design-pattern-490e)
+- [Dev.to/JS] [Why is it important to know about JavaScript?](https://dev.to/akshaya101/why-is-it-important-to-know-about-javascript-4fo3)
+- [Dev.to/JS] [Redux-Toolkit](https://dev.to/sohelrana22/redux-toolkit-20m4)
+- [Dev.to/JS] [How to make a count down timer in React 🔥](https://dev.to/avneesh0612/how-to-make-a-count-down-timer-in-react-1m8i)
 - [Dev.to/JS] [Simple Environmental Variable Setup in React and Node Applications](https://dev.to/kachidk/simple-environmental-variable-setup-in-react-and-node-applications-300i)
 - [Dev.to/JS] [🚀QUICK TIPS: Globally Registering Vue Components](https://dev.to/smpnjn/quick-tips-globally-registering-vue-components-4gf3)
 - [Dev.to/JS] [Reading Console Inputs in JavaScript](https://dev.to/ghoulkingr/reading-console-inputs-in-javascript-4h2e)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😡.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2kgk)
 - [Dev.to/JS] [TODOiXo - To never forget your tasks](https://dev.to/shreyashchavan/todoixo-to-never-forget-your-tasks-2fkf)
 - [Dev.to/JS] [8 GitHub resources for becoming a developer in 2022](https://dev.to/andrewbaisden/8-github-resources-for-becoming-a-developer-in-2022-cji)
-- [Dev.to/JS] [Data Science &amp; Algorithms: Insertion Sort](https://dev.to/codingnetworks/data-science-algorithms-insertion-sort-10a6)
-- [Dev.to/JS] [Why and How to Use Webpack and Babel with Vanilla JS](https://dev.to/syncfusion/why-and-how-to-use-webpack-and-babel-with-vanilla-js-h57)
-- [Dev.to/JS] [Data Structures: Stacks And Queues I](https://dev.to/m13ha/data-structures-stacks-and-queues-i-ild)
-- [Dev.to/JS] [How to load environment variables in Svelte](https://dev.to/3dayweek/how-to-load-environment-variables-in-svelte-19bp)
-- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 2&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-2-3ed9)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
