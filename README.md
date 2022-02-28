@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ng-News: Issue 21/08](https://dev.to/rainerhahnekamp/ng-news-issue-2108-2hog)
+- [Dev.to/JS] [Var vs Let vs Const](https://dev.to/karamkoujan/var-vs-let-vs-const-peg)
 - [Dev.to/JS] [Oh-Vue-Icons: Icons Library like &#39;react-icons&#39; for Vue Project](https://dev.to/mrpaulishaili/oh-vue-icons-icons-library-like-react-icons-for-vue-project-3gcn)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Dev.to/JS] [JavaScript Compiler](https://dev.to/mjb/javascript-compiler-273n)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Automatically Delete One-Time Passwords From Google Messages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-automatically-delete-one-time-passwords-from-goo-1848601785)
 - [Dev.to/JS] [View list of GitHub commits within the specified date range](https://dev.to/codewithsnowbit/view-list-of-github-commits-within-the-specified-date-range-3kl8)
 - [Lifehacker] [How to Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)
-- [Dev.to/JS] [VITE : S3 website with Terraform and CircleCI](https://dev.to/jorgetovar621/vite-website-using-aws-terraform-and-circleci-4daj)
 - [Lifehacker] [What’s Something You Learned Embarrassingly Late in Life?](https://lifehacker.com/what-s-something-you-learned-embarrassingly-late-in-lif-1848601501)
-- [Dev.to/JS] [Understanding Lexical Scope in JavaScript](https://dev.to/maitrakhatri/understanding-lexical-scope-in-javascript-4j6o)
 - [Lifehacker] [How to Know When It’s Time to Upgrade Your Laptop](https://lifehacker.com/how-to-know-when-it-s-time-to-upgrade-your-laptop-1848571755)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
