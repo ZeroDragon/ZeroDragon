@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [VITE : Website using AWS, Terraform and CircleCI](https://dev.to/jorgetovar621/vite-website-using-aws-terraform-and-circleci-4daj)
+- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 3&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-3-64l)
+- [Lifehacker] [How to Automatically Delete One-Time Passwords From Google Messages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-automatically-delete-one-time-passwords-from-goo-1848601785)
+- [Dev.to/JS] [View list of GitHub commits within the specified date range](https://dev.to/codewithsnowbit/view-list-of-github-commits-within-the-specified-date-range-3kl8)
+- [Lifehacker] [How to Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)
+- [Dev.to/JS] [VITE : S3 website with Terraform and CircleCI](https://dev.to/jorgetovar621/vite-website-using-aws-terraform-and-circleci-4daj)
 - [Lifehacker] [What’s Something You Learned Embarrassingly Late in Life?](https://lifehacker.com/what-s-something-you-learned-embarrassingly-late-in-lif-1848601501)
 - [Dev.to/JS] [Understanding Lexical Scope in JavaScript](https://dev.to/maitrakhatri/understanding-lexical-scope-in-javascript-4j6o)
 - [Dev.to/JS] [How to use machine learning in your JS applications](https://dev.to/gary149/how-to-use-machine-learning-in-your-js-applications-462p)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Know When It’s Time to Upgrade Your Laptop](https://lifehacker.com/how-to-know-when-it-s-time-to-upgrade-your-laptop-1848571755)
 - [Dev.to/JS] [Cypress 💚 Iframes](https://dev.to/mkubdev/cypress-iframes-1ole)
 - [Dev.to/JS] [Redux](https://dev.to/alihaydararman/redux-2703)
-- [Dev.to/JS] [CandyCrush game using Html, Css &amp; javascript](https://dev.to/yaswanthteja/candycrush-game-using-html-css-javascript-11pp)
-- [Dev.to/JS] [Build a JavaScript Video Chat App with VideoSDK](https://dev.to/video-sdk/webrtc-video-chat-3ha9)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Transform Your Shower Into a Spa-Like Oasis &lpar;on the Cheap&rpar;](https://lifehacker.com/how-to-transform-your-shower-into-a-spa-like-oasis-on-1848588816)
 - [Lifehacker] [10 of the Best Flowering Ground Covers &lpar;to Spruce Up Your Boring Grass&rpar;](https://lifehacker.com/the-best-flowering-ground-covers-to-spruce-up-your-bor-1848588929)
 - [Lifehacker] [Sure, You Can Go to Antarctica &lpar;but Here’s Why You Shouldn’t&rpar;](https://lifehacker.com/sure-you-can-go-to-antarctica-but-here-s-why-you-shou-1848589285)
-- [Lifehacker] [The Fastest Ways to Fact-Check a Viral Tweet](https://lifehacker.com/the-fastest-ways-to-fact-check-a-viral-tweet-1848588918)
-- [Lifehacker] [You&#39;re Not Washing Your Throw Blankets Enough &lpar;and It&#39;s Gross&rpar;](https://lifehacker.com/youre-not-washing-your-throw-blankets-enough-and-its-g-1848587537)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
