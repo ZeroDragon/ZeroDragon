@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
 - [Lifehacker] [You Should Try Cognitive Behavior Therapy to Treat Your Insomnia](https://lifehacker.com/you-should-try-cognitive-behavior-therapy-to-treat-your-1848602131)
 - [Dev.to/JS] [How to organize typescript projects with prisma.io](https://dev.to/kaaiomarxx/how-to-organize-typescript-projects-with-prismaio-4c6e)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Authentication and Authorization in Strapi](https://dev.to/strapi/a-beginners-guide-to-authentication-and-authorization-in-strapi-1hnh)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Waffle Your Cheese &lpar;and Why You Absolutely Should&rpar;](https://lifehacker.com/how-to-waffle-your-cheese-and-why-you-absolutely-shoul-1848593888)
 - [Lifehacker] [7 of the Best Evernote Alternatives &lpar;and Why You Should Finally Switch&rpar;](https://lifehacker.com/7-of-the-best-evernote-alternatives-and-why-you-should-1848592934)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;Goblin Mode&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-g-1848590555)
-- [Lifehacker] [Learn How to Take a Damn Compliment](https://lifehacker.com/learn-how-to-take-a-damn-compliment-1848590472)
 - [Crazy Programmer] [Solve TypeError: ‘int’ object is not subscriptable in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-int-object-is-not-subscriptable.html)
 - [Crazy Programmer] [APILayer Launches New API Marketplace](https://www.thecrazyprogrammer.com/2022/02/apilayer-launches-new-api-marketplace.html)
 - [Crazy Programmer] [How Programming Teams are Making Remote Work Functional](https://www.thecrazyprogrammer.com/2022/02/how-programming-teams-are-making-remote-work-functional.html)<!-- TECH-POSTS:END -->
