@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fallback true returns error while deployment](https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-4pnb)
+- [Dev.to/JS] [3 ways to centre a DIV with CSS 😎](https://dev.to/codewithsnowbit/3-ways-to-centre-a-div-with-css-341l)
+- [Dev.to/JS] [5 Secret features of JSON you didn&#39;t know about 🤯](https://dev.to/siddharthshyniben/5-secret-features-of-json-you-didnt-know-about-5bbg)
+- [Dev.to/JS] [Nested and Dynamic Routes with React Router](https://dev.to/coder4_life/nested-and-dynamic-routes-with-react-router-31mn)
 - [Dev.to/JS] [React Animation With KendoReact](https://dev.to/chineduimoh/react-animation-with-kendoreact-500)
 - [Dev.to/JS] [File Upload from Node.JS to Google Drive using Google Drive API](https://dev.to/mridulcloudvandana/file-upload-from-nodejs-to-google-drive-using-google-drive-api-26ha)
 - [Dev.to/JS] [⚡️ Putting Javascript in Your CSS](https://dev.to/smpnjn/putting-javascript-in-css-1452)
 - [Dev.to/JS] [Understanding closures in JavaScript](https://dev.to/dcsl-guidesmiths/understanding-closures-in-javascript-1ph)
-- [Dev.to/JS] [Everything about SAML Jackson](https://dev.to/devkiran/everything-about-saml-jackson-10jn)
 - [Dev.to/JS] [4 Projects every self taught web  developer needs to build.](https://dev.to/britzdylan/4-projects-every-self-taught-web-developer-needs-to-build-41n8)
 - [Dev.to/JS] [Modular HTML](https://dev.to/andreygermanov/modular-html-19o6)
 - [Dev.to/JS] [React Form Validation with the useForm Hook](https://dev.to/asayerio_techblog/react-form-validation-with-the-useform-hook-1ni1)
 - [Dev.to/JS] [Wordyl - Yet another Wordle clone!](https://dev.to/s1varam/wordyl-yet-another-wordle-clone-1b6g)
-- [Dev.to/JS] [Static files not reading the .env file in a node js server](https://dev.to/nmunatsi/static-files-not-reading-the-env-file-in-a-node-js-server-34ah)
-- [Dev.to/JS] [🎉 Introducing Only Formats | The quickest way to format code!](https://dev.to/maxprogramming/introducing-only-formats-the-quickest-way-to-format-code-3179)
-- [Dev.to/JS] [how to convert bytes into mb in angular](https://dev.to/pagumakwana/how-to-convert-bytes-into-mb-in-angular-4hj4)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
