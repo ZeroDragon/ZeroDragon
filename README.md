@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Happy Birthday Visual Studio 🎂](https://dev.to/alexbrown40/happy-birthday-visual-studio-338m)
+- [Dev.to/JS] [Function in JavaScript - The Basic](https://dev.to/sarveshprajapati/function-in-javascript-the-basic-156k)
 - [Dev.to/JS] [Setup linter for Ruby on Rails and React using VS Code Devcontainers.](https://dev.to/kommitters/setup-linter-for-ruby-on-rails-and-react-using-vs-code-devcontainers-1mmh)
 - [Dev.to/JS] [How to use the @nuxtjs/strapi Module to add Authentication to a Nuxt Application](https://dev.to/strapi/how-to-use-the-nuxtjsstrapi-module-to-add-authentication-to-a-nuxt-application-4gn1)
 - [Dev.to/JS] [Deploy a Next.js SSR application](https://dev.to/scaledynamics/deploy-a-nextjs-ssr-application-42gm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Some key terms you should know as a Front End Developer](https://dev.to/sauravpurohit4/some-key-terms-you-should-know-as-a-front-end-developer-4051)
 - [Dev.to/JS] [How Can I start in the Freelance world?](https://dev.to/riviergrullon/how-can-i-start-un-the-freelance-world-1i06)
 - [Dev.to/JS] [Bybit lleva a Oracle Red Bull](https://dev.to/juanedu98077220/bybit-lleva-a-oracle-red-bull-ncd)
-- [Dev.to/JS] [Declaración de advertencia sobre](https://dev.to/juanedu98077220/declaracion-de-advertencia-sobre-2okk)
-- [Dev.to/JS] [Acerca de Sky Technologies](https://dev.to/juanedu98077220/acerca-de-sky-technologies-36ma)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
