@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is Node.js is good choice for encryption and decryption  ?](https://dev.to/sudarshansb143/is-nodejs-is-good-choice-for-encryption-and-decryption--hlb)
+- [Dev.to/JS] [This is my second post](https://dev.to/infinitenil/this-is-my-second-post-e3j)
 - [Dev.to/JS] [All you need to master javascript](https://dev.to/alguercode/all-you-need-to-master-javascript-1old)
 - [Dev.to/JS] [Top K Elements-JS](https://dev.to/986913/top-k-elements-js-13e0)
 - [Dev.to/JS] [CSS vs JS: 1- Doing maths in CSS](https://dev.to/yokwejuste/css-vs-js-1-doing-maths-in-css-3d4)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tutorial: Ethereum BlockChain Development &lpar;5&rpar;](https://dev.to/yongchanghe/tutorial-ethereum-blockchain-development-5-23l0)
 - [Dev.to/JS] [Ng-News: Issue 21/08](https://dev.to/rainerhahnekamp/ng-news-issue-2108-2hog)
 - [Dev.to/JS] [Var vs Let vs Const](https://dev.to/karamkoujan/var-vs-let-vs-const-peg)
-- [Dev.to/JS] [Oh-Vue-Icons: Icons Library like &#39;react-icons&#39; for Vue Project](https://dev.to/mrpaulishaili/oh-vue-icons-icons-library-like-react-icons-for-vue-project-3gcn)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
-- [Dev.to/JS] [JavaScript Compiler](https://dev.to/mjb/javascript-compiler-273n)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
 - [Lifehacker] [You Should Try Cognitive Behavior Therapy to Treat Your Insomnia](https://lifehacker.com/you-should-try-cognitive-behavior-therapy-to-treat-your-1848602131)
