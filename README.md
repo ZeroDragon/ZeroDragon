@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Animation With KendoReact](https://dev.to/chineduimoh/react-animation-with-kendoreact-500)
+- [Dev.to/JS] [File Upload from Node.JS to Google Drive using Google Drive API](https://dev.to/mridulcloudvandana/file-upload-from-nodejs-to-google-drive-using-google-drive-api-26ha)
+- [Dev.to/JS] [⚡️ Putting Javascript in Your CSS](https://dev.to/smpnjn/putting-javascript-in-css-1452)
+- [Dev.to/JS] [Understanding closures in JavaScript](https://dev.to/dcsl-guidesmiths/understanding-closures-in-javascript-1ph)
 - [Dev.to/JS] [Everything about SAML Jackson](https://dev.to/devkiran/everything-about-saml-jackson-10jn)
 - [Dev.to/JS] [4 Projects every self taught web  developer needs to build.](https://dev.to/britzdylan/4-projects-every-self-taught-web-developer-needs-to-build-41n8)
 - [Dev.to/JS] [Modular HTML](https://dev.to/andreygermanov/modular-html-19o6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Static files not reading the .env file in a node js server](https://dev.to/nmunatsi/static-files-not-reading-the-env-file-in-a-node-js-server-34ah)
 - [Dev.to/JS] [🎉 Introducing Only Formats | The quickest way to format code!](https://dev.to/maxprogramming/introducing-only-formats-the-quickest-way-to-format-code-3179)
 - [Dev.to/JS] [how to convert bytes into mb in angular](https://dev.to/pagumakwana/how-to-convert-bytes-into-mb-in-angular-4hj4)
-- [Dev.to/JS] [Trim Life Labs Keto - Fat Burner Pills, Results, Reviews, Price And Benefits?](https://dev.to/trimlifeketoin1/trim-life-labs-keto-fat-burner-pills-results-reviews-price-and-benefits-5f2e)
-- [Dev.to/JS] [How to count duplicate value in an array in javascaript](https://dev.to/mrjahid/how-to-count-duplicate-value-in-an-array-in-javascaript-4b6o)
-- [Dev.to/JS] [Well splice seems interesting](https://dev.to/danielarmbruster0314/well-splice-seems-interesting-192l)
-- [Dev.to/JS] [What is connect&lpar;&rpar;&lpar;&rpar; function in redux or reactjs ?](https://dev.to/msabir/what-is-connect-in-reactjs--2gf3)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
