@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React: Download HTML Element as an image file](https://dev.to/lico/react-download-html-element-as-an-image-file-53ok)
 - [Dev.to/JS] [Frontend Optimization at LitmusChaos](https://dev.to/litmus-chaos/frontend-optimization-at-litmuschaos-1p14)
 - [Dev.to/JS] [Fallback true returns error while deployment](https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-4pnb)
 - [Dev.to/JS] [3 ways to centre a DIV with CSS 😎](https://dev.to/codewithsnowbit/3-ways-to-centre-a-div-with-css-341l)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding closures in JavaScript](https://dev.to/dcsl-guidesmiths/understanding-closures-in-javascript-1ph)
 - [Dev.to/JS] [4 Projects every self taught web  developer needs to build.](https://dev.to/britzdylan/4-projects-every-self-taught-web-developer-needs-to-build-41n8)
 - [Dev.to/JS] [Modular HTML](https://dev.to/andreygermanov/modular-html-19o6)
-- [Dev.to/JS] [React Form Validation with the useForm Hook](https://dev.to/asayerio_techblog/react-form-validation-with-the-useform-hook-1ni1)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
