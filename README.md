@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All you need to master javascript](https://dev.to/alguercode/all-you-need-to-master-javascript-1old)
 - [Dev.to/JS] [Top K Elements-JS](https://dev.to/986913/top-k-elements-js-13e0)
 - [Dev.to/JS] [CSS vs JS: 1- Doing maths in CSS](https://dev.to/yokwejuste/css-vs-js-1-doing-maths-in-css-3d4)
 - [Dev.to/JS] [How would you covert SCSS to styled-components?](https://dev.to/mrpaulishaili/how-would-you-covert-scss-to-styled-components-5c6o)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
 - [Lifehacker] [You Should Try Cognitive Behavior Therapy to Treat Your Insomnia](https://lifehacker.com/you-should-try-cognitive-behavior-therapy-to-treat-your-1848602131)
-- [Dev.to/JS] [How to organize typescript projects with prisma.io](https://dev.to/kaaiomarxx/how-to-organize-typescript-projects-with-prismaio-4c6e)
 - [Lifehacker] [What Is ‘Slugging’ &lpar;and Is It Really Good for Your Skin&rpar;?](https://lifehacker.com/what-is-slugging-and-is-it-really-good-for-your-skin-1848602292)
 - [Lifehacker] [It&#39;s Time to Stop Pre-Rinsing Your Dishes](https://lifehacker.com/its-time-to-stop-pre-rinsing-your-dishes-1848601416)
 - [Lifehacker] [7 Financial Scams, Bubbles, and Boondoggles That Are Definitely Nothing Like Cryptocurrency and NFTs](https://lifehacker.com/7-financial-scams-bubbles-and-boondoggles-that-are-de-1848596255)
