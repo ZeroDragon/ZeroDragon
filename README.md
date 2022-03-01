@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is React-Redux ?](https://dev.to/shubhamathawane/what-is-react-redux--4ldi)
+- [Dev.to/JS] [Top Seven Reason for using Redux toolkit](https://dev.to/syedhasibrahman/top-seven-reason-for-using-redux-toolkit-32bd)
+- [Dev.to/JS] [JavaScript:  Using the Map Object](https://dev.to/mlgvla/javascript-using-the-map-object-322e)
+- [Dev.to/JS] [Caolan Asyncjs vs Async/Await: Which One to Use for Async Operations in NodeJS](https://dev.to/rishabh570/caolan-asyncjs-vs-asyncawait-which-one-to-use-for-async-operations-in-nodejs-g8b)
 - [Dev.to/JS] [Is Node.js is good choice for encryption and decryption  ?](https://dev.to/sudarshansb143/is-nodejs-is-good-choice-for-encryption-and-decryption--hlb)
 - [Dev.to/JS] [This is my second post](https://dev.to/infinitenil/this-is-my-second-post-e3j)
 - [Dev.to/JS] [All you need to master javascript](https://dev.to/alguercode/all-you-need-to-master-javascript-1old)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How would you covert SCSS to styled-components?](https://dev.to/mrpaulishaili/how-would-you-covert-scss-to-styled-components-5c6o)
 - [Dev.to/JS] [Eight &lpar;Groups of&rpar; Lodash Functions I Reach for the Most](https://dev.to/pearlzsquare/eight-groups-of-lodash-functions-i-reach-for-the-most-208j)
 - [Dev.to/JS] [What are &quot;Thunk&quot; and `createAsyncThunk` in Redux Toolkit?](https://dev.to/alibahaari/what-are-thunk-and-createasyncthunk-in-redux-toolkit-59f0)
-- [Dev.to/JS] [Array Data Structures in JavaScript: Part 2](https://dev.to/tariksouabny/array-data-structures-in-javascript-part-2-1d17)
-- [Dev.to/JS] [Tutorial: Ethereum BlockChain Development &lpar;5&rpar;](https://dev.to/yongchanghe/tutorial-ethereum-blockchain-development-5-23l0)
-- [Dev.to/JS] [Ng-News: Issue 21/08](https://dev.to/rainerhahnekamp/ng-news-issue-2108-2hog)
-- [Dev.to/JS] [Var vs Let vs Const](https://dev.to/karamkoujan/var-vs-let-vs-const-peg)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
