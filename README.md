@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are &quot;Thunk&quot; and `createAsyncThunk` in Redux Toolkit?](https://dev.to/alibahaari/what-are-thunk-and-createasyncthunk-in-redux-toolkit-59f0)
+- [Dev.to/JS] [Array Data Structures in JavaScript: Part 2](https://dev.to/tariksouabny/array-data-structures-in-javascript-part-2-1d17)
 - [Dev.to/JS] [Tutorial: Ethereum BlockChain Development &lpar;5&rpar;](https://dev.to/yongchanghe/tutorial-ethereum-blockchain-development-5-23l0)
 - [Dev.to/JS] [Ng-News: Issue 21/08](https://dev.to/rainerhahnekamp/ng-news-issue-2108-2hog)
 - [Dev.to/JS] [Var vs Let vs Const](https://dev.to/karamkoujan/var-vs-let-vs-const-peg)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Here are some weird Javascript](https://dev.to/pranish07/here-are-some-weird-javascript-27nh)
 - [Dev.to/JS] [Javascript: [] ==![] is true ???](https://dev.to/msabir/javascript-is-true--4j59)
 - [Lifehacker] [It&#39;s Time to Stop Pre-Rinsing Your Dishes](https://lifehacker.com/its-time-to-stop-pre-rinsing-your-dishes-1848601416)
-- [Dev.to/JS] [What&#39;s new? - v1.2](https://dev.to/medusajs/whats-new-v12-2fdp)
 - [Lifehacker] [7 Financial Scams, Bubbles, and Boondoggles That Are Definitely Nothing Like Cryptocurrency and NFTs](https://lifehacker.com/7-financial-scams-bubbles-and-boondoggles-that-are-de-1848596255)
-- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 3&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-3-64l)
 - [Lifehacker] [How to Automatically Delete One-Time Passwords From Google Messages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-automatically-delete-one-time-passwords-from-goo-1848601785)
 - [Lifehacker] [How to Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)
 - [Lifehacker] [What’s Something You Learned Embarrassingly Late in Life?](https://lifehacker.com/what-s-something-you-learned-embarrassingly-late-in-lif-1848601501)
