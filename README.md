@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tutorial: Ethereum BlockChain Development &lpar;5&rpar;](https://dev.to/yongchanghe/tutorial-ethereum-blockchain-development-5-23l0)
 - [Dev.to/JS] [Ng-News: Issue 21/08](https://dev.to/rainerhahnekamp/ng-news-issue-2108-2hog)
 - [Dev.to/JS] [Var vs Let vs Const](https://dev.to/karamkoujan/var-vs-let-vs-const-peg)
 - [Dev.to/JS] [Oh-Vue-Icons: Icons Library like &#39;react-icons&#39; for Vue Project](https://dev.to/mrpaulishaili/oh-vue-icons-icons-library-like-react-icons-for-vue-project-3gcn)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Financial Scams, Bubbles, and Boondoggles That Are Definitely Nothing Like Cryptocurrency and NFTs](https://lifehacker.com/7-financial-scams-bubbles-and-boondoggles-that-are-de-1848596255)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 3&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-3-64l)
 - [Lifehacker] [How to Automatically Delete One-Time Passwords From Google Messages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-automatically-delete-one-time-passwords-from-goo-1848601785)
-- [Dev.to/JS] [View list of GitHub commits within the specified date range](https://dev.to/codewithsnowbit/view-list-of-github-commits-within-the-specified-date-range-3kl8)
 - [Lifehacker] [How to Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)
 - [Lifehacker] [What’s Something You Learned Embarrassingly Late in Life?](https://lifehacker.com/what-s-something-you-learned-embarrassingly-late-in-lif-1848601501)
 - [Lifehacker] [How to Know When It’s Time to Upgrade Your Laptop](https://lifehacker.com/how-to-know-when-it-s-time-to-upgrade-your-laptop-1848571755)
