@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top K Elements-JS](https://dev.to/986913/top-k-elements-js-13e0)
+- [Dev.to/JS] [CSS vs JS: 1- Doing maths in CSS](https://dev.to/yokwejuste/css-vs-js-1-doing-maths-in-css-3d4)
+- [Dev.to/JS] [How would you covert SCSS to styled-components?](https://dev.to/mrpaulishaili/how-would-you-covert-scss-to-styled-components-5c6o)
+- [Dev.to/JS] [Eight &lpar;Groups of&rpar; Lodash Functions I Reach for the Most](https://dev.to/pearlzsquare/eight-groups-of-lodash-functions-i-reach-for-the-most-208j)
 - [Dev.to/JS] [What are &quot;Thunk&quot; and `createAsyncThunk` in Redux Toolkit?](https://dev.to/alibahaari/what-are-thunk-and-createasyncthunk-in-redux-toolkit-59f0)
 - [Dev.to/JS] [Array Data Structures in JavaScript: Part 2](https://dev.to/tariksouabny/array-data-structures-in-javascript-part-2-1d17)
 - [Dev.to/JS] [Tutorial: Ethereum BlockChain Development &lpar;5&rpar;](https://dev.to/yongchanghe/tutorial-ethereum-blockchain-development-5-23l0)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
 - [Lifehacker] [You Should Try Cognitive Behavior Therapy to Treat Your Insomnia](https://lifehacker.com/you-should-try-cognitive-behavior-therapy-to-treat-your-1848602131)
 - [Dev.to/JS] [How to organize typescript projects with prisma.io](https://dev.to/kaaiomarxx/how-to-organize-typescript-projects-with-prismaio-4c6e)
-- [Dev.to/JS] [A Beginner&#39;s Guide to Authentication and Authorization in Strapi](https://dev.to/strapi/a-beginners-guide-to-authentication-and-authorization-in-strapi-1hnh)
 - [Lifehacker] [What Is ‘Slugging’ &lpar;and Is It Really Good for Your Skin&rpar;?](https://lifehacker.com/what-is-slugging-and-is-it-really-good-for-your-skin-1848602292)
-- [Dev.to/JS] [JavaScript Destructuring: Everything you need to know](https://dev.to/thatanjan/javascript-destructuring-everything-you-need-to-know-4ch3)
-- [Dev.to/JS] [Here are some weird Javascript](https://dev.to/pranish07/here-are-some-weird-javascript-27nh)
-- [Dev.to/JS] [Javascript: [] ==![] is true ???](https://dev.to/msabir/javascript-is-true--4j59)
 - [Lifehacker] [It&#39;s Time to Stop Pre-Rinsing Your Dishes](https://lifehacker.com/its-time-to-stop-pre-rinsing-your-dishes-1848601416)
 - [Lifehacker] [7 Financial Scams, Bubbles, and Boondoggles That Are Definitely Nothing Like Cryptocurrency and NFTs](https://lifehacker.com/7-financial-scams-bubbles-and-boondoggles-that-are-de-1848596255)
 - [Lifehacker] [How to Automatically Delete One-Time Passwords From Google Messages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-automatically-delete-one-time-passwords-from-goo-1848601785)
