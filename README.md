@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everything about SAML Jackson](https://dev.to/devkiran/everything-about-saml-jackson-10jn)
+- [Dev.to/JS] [4 Projects every self taught web  developer needs to build.](https://dev.to/britzdylan/4-projects-every-self-taught-web-developer-needs-to-build-41n8)
+- [Dev.to/JS] [Modular HTML](https://dev.to/andreygermanov/modular-html-19o6)
+- [Dev.to/JS] [React Form Validation with the useForm Hook](https://dev.to/asayerio_techblog/react-form-validation-with-the-useform-hook-1ni1)
 - [Dev.to/JS] [Wordyl - Yet another Wordle clone!](https://dev.to/s1varam/wordyl-yet-another-wordle-clone-1b6g)
 - [Dev.to/JS] [Static files not reading the .env file in a node js server](https://dev.to/nmunatsi/static-files-not-reading-the-env-file-in-a-node-js-server-34ah)
 - [Dev.to/JS] [🎉 Introducing Only Formats | The quickest way to format code!](https://dev.to/maxprogramming/introducing-only-formats-the-quickest-way-to-format-code-3179)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to count duplicate value in an array in javascaript](https://dev.to/mrjahid/how-to-count-duplicate-value-in-an-array-in-javascaript-4b6o)
 - [Dev.to/JS] [Well splice seems interesting](https://dev.to/danielarmbruster0314/well-splice-seems-interesting-192l)
 - [Dev.to/JS] [What is connect&lpar;&rpar;&lpar;&rpar; function in redux or reactjs ?](https://dev.to/msabir/what-is-connect-in-reactjs--2gf3)
-- [Dev.to/JS] [What is React-Redux ?](https://dev.to/shubhamathawane/what-is-react-redux--4ldi)
-- [Dev.to/JS] [Top Seven Reason for using Redux toolkit](https://dev.to/syedhasibrahman/top-seven-reason-for-using-redux-toolkit-32bd)
-- [Dev.to/JS] [JavaScript:  Using the Map Object](https://dev.to/mlgvla/javascript-using-the-map-object-322e)
-- [Dev.to/JS] [Caolan Asyncjs vs Async/Await: Which One to Use for Async Operations in NodeJS](https://dev.to/rishabh570/caolan-asyncjs-vs-asyncawait-which-one-to-use-for-async-operations-in-nodejs-g8b)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
