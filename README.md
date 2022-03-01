@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Well splice seems interesting](https://dev.to/danielarmbruster0314/well-splice-seems-interesting-192l)
+- [Dev.to/JS] [What is connect&lpar;&rpar;&lpar;&rpar; function in redux or reactjs ?](https://dev.to/msabir/what-is-connect-in-reactjs--2gf3)
 - [Dev.to/JS] [What is React-Redux ?](https://dev.to/shubhamathawane/what-is-react-redux--4ldi)
 - [Dev.to/JS] [Top Seven Reason for using Redux toolkit](https://dev.to/syedhasibrahman/top-seven-reason-for-using-redux-toolkit-32bd)
 - [Dev.to/JS] [JavaScript:  Using the Map Object](https://dev.to/mlgvla/javascript-using-the-map-object-322e)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top K Elements-JS](https://dev.to/986913/top-k-elements-js-13e0)
 - [Dev.to/JS] [CSS vs JS: 1- Doing maths in CSS](https://dev.to/yokwejuste/css-vs-js-1-doing-maths-in-css-3d4)
 - [Dev.to/JS] [How would you covert SCSS to styled-components?](https://dev.to/mrpaulishaili/how-would-you-covert-scss-to-styled-components-5c6o)
-- [Dev.to/JS] [Eight &lpar;Groups of&rpar; Lodash Functions I Reach for the Most](https://dev.to/pearlzsquare/eight-groups-of-lodash-functions-i-reach-for-the-most-208j)
-- [Dev.to/JS] [What are &quot;Thunk&quot; and `createAsyncThunk` in Redux Toolkit?](https://dev.to/alibahaari/what-are-thunk-and-createasyncthunk-in-redux-toolkit-59f0)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
