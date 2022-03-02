@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 19 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#83. Remove Duplicates from Sorted List&lpar;E/JS&rpar;](https://dev.to/corndog_com567/day-19-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem83-remove-duplicates-from-sorted-listejs-3gfb)
+- [Dev.to/JS] [APIs we integrate as a part of our Solidity Development Service](https://dev.to/ashikarose/apis-we-integrate-as-a-part-of-our-solidity-development-service-kfa)
 - [Dev.to/JS] [Web Development &amp; SEO services - A Must for Digital Marketing](https://dev.to/ritik_vimal_9efc756586a6f/web-development-seo-services-a-must-for-digital-marketing-20cp)
 - [Dev.to/JS] [More Thoughts on Vue vs EJS](https://dev.to/krowemoh/more-thoughts-on-vue-vs-ejs-4gag)
 - [Dev.to/JS] [Two Sum Problem](https://dev.to/seth_king/two-sum-problem-992)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Ebook: Boost Your Confidence in Vanilla JS](https://dev.to/nrf/my-ebook-boost-your-confidence-in-vanilla-js-32c3)
 - [Dev.to/JS] [How to query a single document by custom parameter and update it in Firebase 9](https://dev.to/coccagerman/how-to-query-a-single-document-by-custom-parameter-and-update-it-in-firebase-9-4kjn)
 - [Dev.to/JS] [React navigation - react native - How to block drawer in Stack Navigator nested inside Drawer Navigator?](https://dev.to/coccagerman/react-navigation-react-native-how-to-block-drawer-in-stack-navigator-nested-inside-drawer-navigator-1n3i)
-- [Dev.to/JS] [Angular + React: Vulnerability Cheatsheet](https://dev.to/shiftleft/angular-react-vulnerability-cheatsheet-1cf5)
-- [Dev.to/JS] [Fully Serverless DERN Stack TODO App Pt. 1 - &lpar;DynamoDB, Express, React, Node&rpar;](https://dev.to/adamkatora/fully-serverless-dern-stack-todo-app-pt-1-dynamodb-express-react-node-3dlc)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
