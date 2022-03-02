@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hamming Distance - JavaScript Solution](https://dev.to/ggorantala/hamming-distance-javascript-solution-162c)
+- [Dev.to/JS] [Dependency Injection in JavaScript: Write Testable Code Easily](https://dev.to/appsignal/dependency-injection-in-javascript-write-testable-code-easily-2aef)
+- [Dev.to/JS] [Truly Understanding React {TUR} - Ep4](https://dev.to/mrpaulishaili/truly-understanding-react-tur-ep4-1min)
+- [Dev.to/JS] [Currency Converter using Svelte](https://dev.to/akuks/currency-converter-using-svelte-5h25)
+- [Dev.to/JS] [Fine-grained fan-out and replication of Kafka event firehose between clusters](https://dev.to/push_technology/fine-grained-fan-out-and-replication-of-kafka-event-firehose-between-clusters-mh7)
 - [Dev.to/JS] [Chat App using React, Node.js and Socket.io](https://dev.to/koolkishan/chat-app-using-react-nodejs-and-socketio-55e4)
 - [Dev.to/JS] [Theming React Native Applications with Styled Components](https://dev.to/asayerio_techblog/theming-react-native-applications-with-styled-components-410c)
 - [Dev.to/JS] [Relative Path and Absolute Path](https://dev.to/obasekisemi/relative-path-and-absolute-path-l6k)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [.NET Web Development](https://dev.to/inwizardsinc/net-web-development-59n1)
 - [Dev.to/JS] [Website Designing Company](https://dev.to/inwizardsinc/website-designing-company-2h4m)
 - [Dev.to/JS] [Short-Circuit Evaluation](https://dev.to/brojenuel/short-circuit-evaluation-22c1)
-- [Dev.to/JS] [Why Vue js is better Frontend technology in 2022?](https://dev.to/arohi/why-vue-js-is-better-frontend-technology-in-2022-2hj5)
-- [Dev.to/JS] [Modern JavaScript For Everyone: Mastering Modern JavaScript The Right Way.](https://dev.to/mbugua70/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-52ce)
-- [Dev.to/JS] [Top 7+ Node.js React Templates and Themes for Your Admin Panel](https://dev.to/flatlogic/top-7-nodejs-react-templates-and-themes-for-your-admin-panel-4h9h)
-- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 4&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-4-110e)
-- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 3&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-3-1da1)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
