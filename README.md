@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nucleoid: Low-code Framework for Node.js](https://dev.to/nucleoid/nucleoid-low-code-framework-for-nodejs-2395)
+- [Dev.to/JS] [25 Algorithms that all developers should know](https://dev.to/pranish07/25-algorithms-that-all-developers-should-know-4ani)
+- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 5&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-5-m8b)
+- [Dev.to/JS] [What is the difference between JavaScript&#39;s for...in, for...of and forEach?](https://dev.to/chalarangelo/what-is-the-difference-between-javascripts-forin-forof-and-foreach-497d)
+- [Dev.to/JS] [Reat.js Internationalization](https://dev.to/akhlakhossainjim/reatjs-internationalization-45me)
 - [Dev.to/JS] [How to use v-for in Vue](https://dev.to/smpnjn/how-to-use-v-for-in-vue-4hc9)
 - [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript the Right Way](https://dev.to/mmk2020/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-62e)
 - [Dev.to/JS] [TypeScript and the ReadOnly option](https://dev.to/dailydevtips1/typescript-and-the-readonly-option-lmj)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React&#39;s useState Hook](https://dev.to/hannahglazier/the-usestate-hook-in-react-id4)
 - [Dev.to/JS] [هنگام انتخاب کاغذ دیواری چه کاری نباید انجام داد](https://dev.to/decorirand/hngm-ntkhb-khgdh-dywry-chh-khry-nbyd-njm-dd-391e)
 - [Dev.to/JS] [NestJS Payload Validation](https://dev.to/shubham_kadam/nestjs-payload-validation-anf)
-- [Dev.to/JS] [The Differences between Web2.0 and Web3.0.](https://dev.to/jeremiahropo/the-differences-between-web20-and-web30-50k9)
-- [Dev.to/JS] [Understand Functional Programming basics by &lpar;re&rpar;writing FizzBuzz](https://dev.to/siddharthshyniben/understand-functional-programming-basics-by-rewriting-fizzbuzz-okc)
-- [Dev.to/JS] [The Headless Ecommerce and CMS Combination you have to know](https://dev.to/medusajs/the-headless-ecommerce-and-cms-combination-you-have-to-know-157f)
-- [Dev.to/JS] [Paracetamol.js💊| #68 Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-68-explica-este-codigo-javascript-3gdj)
-- [Dev.to/JS] [Hamming Distance - JavaScript Solution](https://dev.to/ggorantala/hamming-distance-javascript-solution-162c)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
