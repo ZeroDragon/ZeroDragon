@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Short-Circuit Evaluation](https://dev.to/brojenuel/short-circuit-evaluation-22c1)
+- [Dev.to/JS] [Why Vue js is better Frontend technology in 2022?](https://dev.to/arohi/why-vue-js-is-better-frontend-technology-in-2022-2hj5)
+- [Dev.to/JS] [Modern JavaScript For Everyone: Mastering Modern JavaScript The Right Way.](https://dev.to/mbugua70/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-52ce)
+- [Dev.to/JS] [Top 7+ Node.js React Templates and Themes for Your Admin Panel](https://dev.to/flatlogic/top-7-nodejs-react-templates-and-themes-for-your-admin-panel-4h9h)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 4&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-4-110e)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 3&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-3-1da1)
 - [Dev.to/JS] [The Axentix v2 will make you start using it.](https://dev.to/axentix/the-axentix-v2-will-make-you-start-using-it-16fb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AngularJS v/s Node.js – Which is the best JavaScript based Technologies?](https://dev.to/piyushjain/angularjs-vs-nodejs-which-is-the-best-javascript-based-technologies-m0)
 - [Dev.to/JS] [How to install Tailwind CSS with Svelte and Flowbite](https://dev.to/themesberg/how-to-install-tailwind-css-with-svelte-and-flowbite-2eje)
 - [Dev.to/JS] [Javascript Array Methods Ep.3](https://dev.to/theadeshkhanna/javascript-array-methods-ep3-137g)
-- [Dev.to/JS] [Day 8/100, 100 Days of Code](https://dev.to/xurgg/day-8100-100-days-of-code-4djh)
-- [Dev.to/JS] [Hot 🔥🔥: What is Web 3.0 | How to Become Web 3.0 Developer](https://dev.to/elliot_brenyasarfo_18749/hot-what-is-web-30-how-to-become-web-30-developer-3o5c)
-- [Dev.to/JS] [Max Keto Gummies - Weight Loss Supplement, Benefits, Uses &amp; Results?](https://dev.to/maxketoinfo/max-keto-gummies-weight-loss-supplement-benefits-uses-results-kob)
-- [Dev.to/JS] [My First App on Play Store 🚀](https://dev.to/rajeshj3/my-first-app-on-play-store-4lk7)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
