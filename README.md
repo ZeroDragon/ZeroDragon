@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript and the ReadOnly option](https://dev.to/dailydevtips1/typescript-and-the-readonly-option-lmj)
+- [Dev.to/JS] [Stop using express.Router&lpar;&rpar;](https://dev.to/matthiaaas/stop-using-expressrouter-2kea)
 - [Dev.to/JS] [React&#39;s useState Hook](https://dev.to/hannahglazier/the-usestate-hook-in-react-id4)
 - [Dev.to/JS] [هنگام انتخاب کاغذ دیواری چه کاری نباید انجام داد](https://dev.to/decorirand/hngm-ntkhb-khgdh-dywry-chh-khry-nbyd-njm-dd-391e)
 - [Dev.to/JS] [NestJS Payload Validation](https://dev.to/shubham_kadam/nestjs-payload-validation-anf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hamming Distance - JavaScript Solution](https://dev.to/ggorantala/hamming-distance-javascript-solution-162c)
 - [Dev.to/JS] [Dependency Injection in JavaScript: Write Testable Code Easily](https://dev.to/appsignal/dependency-injection-in-javascript-write-testable-code-easily-2aef)
 - [Dev.to/JS] [Truly Understanding React {TUR} - Ep4](https://dev.to/mrpaulishaili/truly-understanding-react-tur-ep4-1min)
-- [Dev.to/JS] [Currency Converter using Svelte](https://dev.to/akuks/currency-converter-using-svelte-5h25)
-- [Dev.to/JS] [Fine-grained fan-out and replication of Kafka event firehose between clusters](https://dev.to/push_technology/fine-grained-fan-out-and-replication-of-kafka-event-firehose-between-clusters-mh7)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
