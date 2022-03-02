@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use v-for in Vue](https://dev.to/smpnjn/how-to-use-v-for-in-vue-4hc9)
+- [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript the Right Way](https://dev.to/mmk2020/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-62e)
 - [Dev.to/JS] [TypeScript and the ReadOnly option](https://dev.to/dailydevtips1/typescript-and-the-readonly-option-lmj)
 - [Dev.to/JS] [Stop using express.Router&lpar;&rpar;](https://dev.to/matthiaaas/stop-using-expressrouter-2kea)
 - [Dev.to/JS] [React&#39;s useState Hook](https://dev.to/hannahglazier/the-usestate-hook-in-react-id4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Headless Ecommerce and CMS Combination you have to know](https://dev.to/medusajs/the-headless-ecommerce-and-cms-combination-you-have-to-know-157f)
 - [Dev.to/JS] [Paracetamol.js💊| #68 Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-68-explica-este-codigo-javascript-3gdj)
 - [Dev.to/JS] [Hamming Distance - JavaScript Solution](https://dev.to/ggorantala/hamming-distance-javascript-solution-162c)
-- [Dev.to/JS] [Dependency Injection in JavaScript: Write Testable Code Easily](https://dev.to/appsignal/dependency-injection-in-javascript-write-testable-code-easily-2aef)
-- [Dev.to/JS] [Truly Understanding React {TUR} - Ep4](https://dev.to/mrpaulishaili/truly-understanding-react-tur-ep4-1min)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
