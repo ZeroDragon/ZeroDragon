@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simplified Next.js, The modern React.js Framework #2](https://dev.to/mariolemus/simplified-nextjs-the-modern-reactjs-framework-2-169e)
+- [Dev.to/JS] [What&#39;s New In DativeJs](https://dev.to/tobithedev/whats-new-in-dativejs-3l80)
 - [Dev.to/JS] [Backend and Real-Time Database For React JS](https://dev.to/backendless/backend-and-real-time-database-for-react-js-3eko)
 - [Dev.to/JS] [Var, Let and Const Explained](https://dev.to/lachouri/var-let-and-const-explained-2f64)
 - [Dev.to/JS] [Swapping Variables](https://dev.to/taepal467/swapping-variables-p23)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Beginner’s Guide To Postman File Uploads](https://dev.to/ideradevtools/a-beginners-guide-to-postman-file-uploads-483e)
 - [Dev.to/JS] [Pm2 Node Process Manager](https://dev.to/drsimplegraffiti/pm2-node-process-manager-38kp)
 - [Dev.to/JS] [Day-35 Training at Ryaz : Asynchronous js](https://dev.to/mahin651/day-35-training-at-ryaz-asynchronous-js-4l0k)
-- [Dev.to/JS] [🚀 A Complete Beginner&#39;s Introduction to Javascript](https://dev.to/smpnjn/a-complete-beginners-guide-to-javascript-c64)
-- [Dev.to/JS] [How to make a sleep function in JavaScript with async await](https://dev.to/codingwithadam/how-to-make-a-sleep-function-in-javascript-with-async-await-499b)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
