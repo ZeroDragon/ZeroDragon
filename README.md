@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to install Tailwind CSS with Svelte and Flowbite](https://dev.to/themesberg/how-to-install-tailwind-css-with-svelte-and-flowbite-2eje)
+- [Dev.to/JS] [Javascript Array Methods Ep.3](https://dev.to/theadeshkhanna/javascript-array-methods-ep3-137g)
+- [Dev.to/JS] [Day 8/100, 100 Days of Code](https://dev.to/xurgg/day-8100-100-days-of-code-4djh)
+- [Dev.to/JS] [Hot 🔥🔥: What is Web 3.0 | How to Become Web 3.0 Developer](https://dev.to/elliot_brenyasarfo_18749/hot-what-is-web-30-how-to-become-web-30-developer-3o5c)
 - [Dev.to/JS] [Max Keto Gummies - Weight Loss Supplement, Benefits, Uses &amp; Results?](https://dev.to/maxketoinfo/max-keto-gummies-weight-loss-supplement-benefits-uses-results-kob)
 - [Dev.to/JS] [My First App on Play Store 🚀](https://dev.to/rajeshj3/my-first-app-on-play-store-4lk7)
 - [Dev.to/JS] [How to create a table of content for your Dev.to post](https://dev.to/mustafinho/how-to-create-a-table-of-content-for-your-devto-post-1e2f)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Front End Development Tools](https://dev.to/decipherzonetech/front-end-development-tools-45g1)
 - [Dev.to/JS] [JOBPkdo- A Platform to find Intern, Jobs that comes through Twitter daily](https://dev.to/gulshanaggarwal/jobpkdo-a-platform-to-find-intern-jobs-that-comes-through-twitter-daily-h8h)
 - [Dev.to/JS] [Some less known features in Chrome Devtools](https://dev.to/abhidatta0/some-less-known-features-in-chrome-devtools-1p3)
-- [Dev.to/JS] [Day 19 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#83. Remove Duplicates from Sorted List&lpar;E/JS&rpar;](https://dev.to/corndog_com567/day-19-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem83-remove-duplicates-from-sorted-listejs-3gfb)
-- [Dev.to/JS] [APIs we integrate as a part of our Solidity Development Service](https://dev.to/ashikarose/apis-we-integrate-as-a-part-of-our-solidity-development-service-kfa)
-- [Dev.to/JS] [Web Development &amp; SEO services - A Must for Digital Marketing](https://dev.to/ritik_vimal_9efc756586a6f/web-development-seo-services-a-must-for-digital-marketing-20cp)
-- [Dev.to/JS] [More Thoughts on Vue vs EJS](https://dev.to/krowemoh/more-thoughts-on-vue-vs-ejs-4gag)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
