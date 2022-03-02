@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day-35 Training at Ryaz : Asynchronous js](https://dev.to/mahin651/day-35-training-at-ryaz-asynchronous-js-4l0k)
+- [Dev.to/JS] [🚀 A Complete Beginner&#39;s Introduction to Javascript](https://dev.to/smpnjn/a-complete-beginners-guide-to-javascript-c64)
+- [Dev.to/JS] [How to make a sleep function in JavaScript with async await](https://dev.to/codingwithadam/how-to-make-a-sleep-function-in-javascript-with-async-await-499b)
+- [Dev.to/JS] [Get Wise on Bitwise](https://dev.to/kadeesterline/get-wise-on-bitwise-1800)
 - [Dev.to/JS] [Nucleoid: Low-code Framework for Node.js](https://dev.to/nucleoid/nucleoid-low-code-framework-for-nodejs-2395)
 - [Dev.to/JS] [25 Algorithms that all developers should know](https://dev.to/pranish07/25-algorithms-that-all-developers-should-know-4ani)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 5&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-5-m8b)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use v-for in Vue](https://dev.to/smpnjn/how-to-use-v-for-in-vue-4hc9)
 - [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript the Right Way](https://dev.to/mmk2020/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-62e)
 - [Dev.to/JS] [TypeScript and the ReadOnly option](https://dev.to/dailydevtips1/typescript-and-the-readonly-option-lmj)
-- [Dev.to/JS] [Stop using express.Router&lpar;&rpar;](https://dev.to/matthiaaas/stop-using-expressrouter-2kea)
-- [Dev.to/JS] [React&#39;s useState Hook](https://dev.to/hannahglazier/the-usestate-hook-in-react-id4)
-- [Dev.to/JS] [هنگام انتخاب کاغذ دیواری چه کاری نباید انجام داد](https://dev.to/decorirand/hngm-ntkhb-khgdh-dywry-chh-khry-nbyd-njm-dd-391e)
-- [Dev.to/JS] [NestJS Payload Validation](https://dev.to/shubham_kadam/nestjs-payload-validation-anf)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
