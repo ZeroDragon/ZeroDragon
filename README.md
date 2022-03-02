@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript: Spread Operators CheetSheet](https://dev.to/msabir/javascript-spread-operators-cheetsheet-2c8o)
+- [Dev.to/JS] [How to internationalize a Remix application](https://dev.to/adrai/how-to-internationalize-a-remix-application-2bep)
+- [Dev.to/JS] [Front End Development Tools](https://dev.to/decipherzonetech/front-end-development-tools-45g1)
 - [Dev.to/JS] [JOBPkdo- A Platform to find Intern, Jobs that comes through Twitter daily](https://dev.to/gulshanaggarwal/jobpkdo-a-platform-to-find-intern-jobs-that-comes-through-twitter-daily-h8h)
 - [Dev.to/JS] [Some less known features in Chrome Devtools](https://dev.to/abhidatta0/some-less-known-features-in-chrome-devtools-1p3)
 - [Dev.to/JS] [Day 19 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#83. Remove Duplicates from Sorted List&lpar;E/JS&rpar;](https://dev.to/corndog_com567/day-19-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem83-remove-duplicates-from-sorted-listejs-3gfb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Two Sum Problem](https://dev.to/seth_king/two-sum-problem-992)
 - [Dev.to/JS] [Paracetamol.js💊| #67: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-67-explica-este-codigo-javascript-393b)
 - [Dev.to/JS] [Full-Stack JS is Insane… Is Rails better?](https://dev.to/sbmsr/full-stack-js-is-insane-is-rails-better-13fi)
-- [Dev.to/JS] [Collaboration Of Twitter&amp;OpenAI API](https://dev.to/aserputov/collaboration-of-twitteropenai-api-3a01)
-- [Dev.to/JS] [Hello world](https://dev.to/mdhamed238/hello-world-5hfm)
-- [Dev.to/JS] [My Ebook: Boost Your Confidence in Vanilla JS](https://dev.to/nrf/my-ebook-boost-your-confidence-in-vanilla-js-32c3)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
