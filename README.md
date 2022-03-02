@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Development &amp; SEO services - A Must for Digital Marketing](https://dev.to/ritik_vimal_9efc756586a6f/web-development-seo-services-a-must-for-digital-marketing-20cp)
+- [Dev.to/JS] [More Thoughts on Vue vs EJS](https://dev.to/krowemoh/more-thoughts-on-vue-vs-ejs-4gag)
+- [Dev.to/JS] [Two Sum Problem](https://dev.to/seth_king/two-sum-problem-992)
 - [Dev.to/JS] [Paracetamol.js💊| #67: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-67-explica-este-codigo-javascript-393b)
 - [Dev.to/JS] [Full-Stack JS is Insane… Is Rails better?](https://dev.to/sbmsr/full-stack-js-is-insane-is-rails-better-13fi)
 - [Dev.to/JS] [Collaboration Of Twitter&amp;OpenAI API](https://dev.to/aserputov/collaboration-of-twitteropenai-api-3a01)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React navigation - react native - How to block drawer in Stack Navigator nested inside Drawer Navigator?](https://dev.to/coccagerman/react-navigation-react-native-how-to-block-drawer-in-stack-navigator-nested-inside-drawer-navigator-1n3i)
 - [Dev.to/JS] [Angular + React: Vulnerability Cheatsheet](https://dev.to/shiftleft/angular-react-vulnerability-cheatsheet-1cf5)
 - [Dev.to/JS] [Fully Serverless DERN Stack TODO App Pt. 1 - &lpar;DynamoDB, Express, React, Node&rpar;](https://dev.to/adamkatora/fully-serverless-dern-stack-todo-app-pt-1-dynamodb-express-react-node-3dlc)
-- [Dev.to/JS] [Remote Fullstack Dev Opp with DC Saas Company](https://dev.to/stappeer13/remote-fullstack-dev-opp-with-dc-saas-company-149f)
-- [Dev.to/JS] [Remote Fullstack Dev Opp with DC Saas Company](https://dev.to/stappeer13/remote-fullstack-dev-opp-with-dc-saas-company-53kb)
-- [Dev.to/JS] [Getting into software testing with Jest](https://dev.to/aniket762/getting-into-software-testing-with-jest-2ca0)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
