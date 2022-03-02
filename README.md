@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello world](https://dev.to/mdhamed238/hello-world-5hfm)
 - [Dev.to/JS] [My Ebook: Boost Your Confidence in Vanilla JS](https://dev.to/nrf/my-ebook-boost-your-confidence-in-vanilla-js-32c3)
 - [Dev.to/JS] [How to query a single document by custom parameter and update it in Firebase 9](https://dev.to/coccagerman/how-to-query-a-single-document-by-custom-parameter-and-update-it-in-firebase-9-4kjn)
 - [Dev.to/JS] [React navigation - react native - How to block drawer in Stack Navigator nested inside Drawer Navigator?](https://dev.to/coccagerman/react-navigation-react-native-how-to-block-drawer-in-stack-navigator-nested-inside-drawer-navigator-1n3i)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Major Difference Between Web 2.0 and Web 3.0](https://dev.to/buchman/the-major-difference-between-web-20-and-web-30-pfc)
 - [Dev.to/JS] [This Week In React #96: Next.js, Gatsby, Remix, Remotion, React-Native, Glassmorphism, Deno, TypeScript, Qwik...](https://dev.to/sebastienlorber/this-week-in-react-96-nextjs-gatsby-remix-remotion-react-native-glassmorphism-deno-typescript-qwik-1c75)
 - [Dev.to/JS] [Understand JavaScript Array Methods with Code Experiments](https://dev.to/lada496/understand-javascript-array-methods-with-code-experiments-46l3)
-- [Dev.to/JS] [React Hooks - UseRef](https://dev.to/mrpaulishaili/react-hooks-useref-m8i)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
