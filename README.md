@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #67: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-67-explica-este-codigo-javascript-393b)
+- [Dev.to/JS] [Full-Stack JS is Insane… Is Rails better?](https://dev.to/sbmsr/full-stack-js-is-insane-is-rails-better-13fi)
 - [Dev.to/JS] [Collaboration Of Twitter&amp;OpenAI API](https://dev.to/aserputov/collaboration-of-twitteropenai-api-3a01)
 - [Dev.to/JS] [Hello world](https://dev.to/mdhamed238/hello-world-5hfm)
 - [Dev.to/JS] [My Ebook: Boost Your Confidence in Vanilla JS](https://dev.to/nrf/my-ebook-boost-your-confidence-in-vanilla-js-32c3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remote Fullstack Dev Opp with DC Saas Company](https://dev.to/stappeer13/remote-fullstack-dev-opp-with-dc-saas-company-149f)
 - [Dev.to/JS] [Remote Fullstack Dev Opp with DC Saas Company](https://dev.to/stappeer13/remote-fullstack-dev-opp-with-dc-saas-company-53kb)
 - [Dev.to/JS] [Getting into software testing with Jest](https://dev.to/aniket762/getting-into-software-testing-with-jest-2ca0)
-- [Dev.to/JS] [The Major Difference Between Web 2.0 and Web 3.0](https://dev.to/buchman/the-major-difference-between-web-20-and-web-30-pfc)
-- [Dev.to/JS] [This Week In React #96: Next.js, Gatsby, Remix, Remotion, React-Native, Glassmorphism, Deno, TypeScript, Qwik...](https://dev.to/sebastienlorber/this-week-in-react-96-nextjs-gatsby-remix-remotion-react-native-glassmorphism-deno-typescript-qwik-1c75)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
