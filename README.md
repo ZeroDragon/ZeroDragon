@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Pckd - The most powerful URL shortener](https://dev.to/just_moh_it/introducing-pckd-the-most-powerful-url-shortener-obk)
+- [Dev.to/JS] [Dative.JS Tutorial](https://dev.to/tobithedev/dativejs-tutorial-1ido)
+- [Dev.to/JS] [Melody - A readable language that compiles to regular expressions](https://dev.to/yoav_lavi_59c0afd7c9d040d/melody-a-readable-language-that-compiles-to-regular-expressions-1nk9)
 - [Dev.to/JS] [#MyStack - MacOS Web](https://dev.to/rededge967/mystack-macos-web-49e3)
 - [Dev.to/JS] [building Node.js video streaming in 5 minutes](https://dev.to/alguercode/building-nodejs-video-streaming-in-5-minutes-24b3)
 - [Dev.to/JS] [const life = change&lpar;&rpar;;](https://dev.to/nikola/const-life-change-427p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create an NFT Collection Website Landing Page in ReactJS🔴](https://dev.to/codebucks/create-nft-collection-website-landing-page-in-reactjs-1jnl)
 - [Dev.to/JS] [styled-components tips](https://dev.to/kmyrrpen/styled-components-tips-51j2)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 5&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-5-398l)
-- [Dev.to/JS] [tsParticles 1.41.6 Released](https://dev.to/matteobruni/tsparticles-1416-released-3jo)
-- [Dev.to/JS] [RxJS Observables in brief](https://dev.to/this-is-learning/rxjs-observables-in-brief-11e1)
-- [Dev.to/JS] [Building React Application &lpar;without installing any dependencies&rpar;](https://dev.to/mrpaulishaili/building-react-application-online-without-installing-dependencies-gbl)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
