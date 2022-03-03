@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to perform debouncing in Reactjs?](https://dev.to/kuldeeptarapara/how-to-perform-debouncing-in-reactjs-2bal)
+- [Dev.to/JS] [Make a Soap call in React js by a webservice](https://dev.to/hugoqueiros/make-a-soap-call-in-react-js-by-a-webservice-5d76)
+- [Dev.to/JS] [How to create a drawing app with React](https://dev.to/posandu/how-to-create-a-drawing-app-with-react-5hm8)
+- [Dev.to/JS] [styled-components tips](https://dev.to/kmyrrpen/styled-components-tips-51j2)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 5&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-5-398l)
 - [Dev.to/JS] [tsParticles 1.41.6 Released](https://dev.to/matteobruni/tsparticles-1416-released-3jo)
 - [Dev.to/JS] [RxJS Observables in brief](https://dev.to/this-is-learning/rxjs-observables-in-brief-11e1)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Apple Apps Are Helping Business Owners](https://dev.to/isabellawallo/how-apple-apps-are-helping-business-owners-2o97)
 - [Dev.to/JS] [Building an Customizable Invoice Generator App with Refine, Strapi &amp; Ant Design | Part II](https://dev.to/pankod/building-an-customizable-invoice-generator-app-with-refine-strapi-ant-design-part-ii-18e2)
 - [Dev.to/JS] [Day 20 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#724. Find Pivot Index&lpar;Easy/JavaScript&rpar;](https://dev.to/persistence/day-20-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem724-find-pivot-indexeasyjavascript-4af3)
-- [Dev.to/JS] [Learning Web Development](https://dev.to/scotch115/learning-web-development-2d44)
-- [Dev.to/JS] [#SheCoded - Sylvia coded anyways](https://dev.to/sylviacastelinolobo/shecoded-sylvia-coded-anyways-m0h)
-- [Dev.to/JS] [JavaScript Libraries For Creating Awesome Carousels](https://dev.to/brojenuel/javascript-libraries-for-creating-awesome-carousels-2a9j)
-- [Dev.to/JS] [Send Message to Discord Server via Javascript](https://dev.to/melvnl/send-message-to-discord-server-via-javascript-4gc6)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
