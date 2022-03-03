@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gemint Product Updates — March 2, 2022](https://dev.to/reesekunz/gemint-product-updates-march-2-2022-jf7)
+- [Dev.to/JS] [Stipend and Project size details for Google Summer of Code 2022 &lpar;3/5&rpar;](https://dev.to/sanjaysinghrajpoot/stipend-and-project-size-details-for-google-summer-of-code-2022-35-3jnd)
+- [Dev.to/JS] [Behind the Monitor: Struggle, Discovery, Idea, Celebration](https://dev.to/belokond/behind-the-monitor-struggle-discovery-idea-celebration-2h6k)
+- [Dev.to/JS] [Code Smell 117 - Unrealistic Data](https://dev.to/mcsee/code-smell-117-unrealistic-data-3pl4)
 - [Dev.to/JS] [Day 9/100, 100 Days of Code](https://dev.to/xurgg/day-9100-100-days-of-code-gk6)
 - [Dev.to/JS] [Webpack 5 Up and Running Review Chapter 1](https://dev.to/hyperredstart/webpack-5-up-and-running-book-review-chapter-1-58ed)
 - [Dev.to/JS] [web3.js vs ethers.js: a Comparison of Web3 Libraries](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Meet Fathym&#39;s Social User Interface for developers](https://dev.to/richkurtzman/meet-fathyms-social-user-interface-for-developers-4g2f)
 - [Dev.to/JS] [Simplified Next.js, The modern React.js Framework #2](https://dev.to/mariolemus/simplified-nextjs-the-modern-reactjs-framework-2-169e)
 - [Dev.to/JS] [What&#39;s New In DativeJs](https://dev.to/tobithedev/whats-new-in-dativejs-3l80)
-- [Dev.to/JS] [Backend and Real-Time Database For React JS](https://dev.to/backendless/backend-and-real-time-database-for-react-js-3eko)
-- [Dev.to/JS] [Var, Let and Const Explained](https://dev.to/lachouri/var-let-and-const-explained-2f64)
-- [Dev.to/JS] [Swapping Variables](https://dev.to/taepal467/swapping-variables-p23)
-- [Dev.to/JS] [Fully Serverless DERN Stack TODO App Pt. 2 - Building out our API](https://dev.to/adamkatora/fully-serverless-dern-stack-todo-app-pt-2-building-out-our-api-2jpk)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
