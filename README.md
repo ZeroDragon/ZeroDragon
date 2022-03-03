@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 20 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#724. Find Pivot Index&lpar;Easy/JavaScript&rpar;](https://dev.to/persistence/day-20-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem724-find-pivot-indexeasyjavascript-4af3)
+- [Dev.to/JS] [Learning Web Development](https://dev.to/scotch115/learning-web-development-2d44)
 - [Dev.to/JS] [#SheCoded - Sylvia coded anyways](https://dev.to/sylviacastelinolobo/shecoded-sylvia-coded-anyways-m0h)
 - [Dev.to/JS] [JavaScript Libraries For Creating Awesome Carousels](https://dev.to/brojenuel/javascript-libraries-for-creating-awesome-carousels-2a9j)
 - [Dev.to/JS] [Send Message to Discord Server via Javascript](https://dev.to/melvnl/send-message-to-discord-server-via-javascript-4gc6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Behind the Monitor: Struggle, Discovery, Idea, Celebration](https://dev.to/belokond/behind-the-monitor-struggle-discovery-idea-celebration-2h6k)
 - [Dev.to/JS] [Code Smell 117 - Unrealistic Data](https://dev.to/mcsee/code-smell-117-unrealistic-data-3pl4)
 - [Dev.to/JS] [Day 9/100, 100 Days of Code](https://dev.to/xurgg/day-9100-100-days-of-code-gk6)
-- [Dev.to/JS] [Webpack 5 Up and Running Review Chapter 1](https://dev.to/hyperredstart/webpack-5-up-and-running-book-review-chapter-1-58ed)
-- [Dev.to/JS] [web3.js vs ethers.js: a Comparison of Web3 Libraries](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
