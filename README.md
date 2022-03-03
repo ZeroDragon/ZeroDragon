@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 9/100, 100 Days of Code](https://dev.to/xurgg/day-9100-100-days-of-code-gk6)
 - [Dev.to/JS] [Webpack 5 Up and Running Review Chapter 1](https://dev.to/hyperredstart/webpack-5-up-and-running-book-review-chapter-1-58ed)
 - [Dev.to/JS] [web3.js vs ethers.js: a Comparison of Web3 Libraries](https://dev.to/lparvinsmith/web3js-vs-ethersjs-a-comparison-of-web3-libraries-2ap5)
 - [Dev.to/JS] [Pern Stack pagination middleware](https://dev.to/codeurabou/pern-stack-pagination-middleware-3b1j)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Var, Let and Const Explained](https://dev.to/lachouri/var-let-and-const-explained-2f64)
 - [Dev.to/JS] [Swapping Variables](https://dev.to/taepal467/swapping-variables-p23)
 - [Dev.to/JS] [Fully Serverless DERN Stack TODO App Pt. 2 - Building out our API](https://dev.to/adamkatora/fully-serverless-dern-stack-todo-app-pt-2-building-out-our-api-2jpk)
-- [Dev.to/JS] [15 Useful Lodash Methods for Everyday Coding](https://dev.to/diogocapela/15-useful-lodash-methods-for-everyday-coding-20op)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
