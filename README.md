@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s debug a node.js app using the built-in debugger!](https://dev.to/siddharthshyniben/lets-debug-a-nodejs-app-using-the-built-in-debugger-2o24)
+- [Dev.to/JS] [Chat Application using reactjs and google-firebase](https://dev.to/nisabmohd/chat-application-using-reactjs-and-google-firebase-2p0e)
+- [Dev.to/JS] [Some New Software Error Trends Based on Airbrake&#39;s 2022 Error Data Report](https://dev.to/airbrake/airbrake-identifies-most-common-software-error-trends-in-new-research-report-40h5)
+- [Dev.to/JS] [Python: what it is and why you should train to use it](https://dev.to/mvasquez1987/python-what-it-is-and-why-you-should-train-to-use-it-22fe)
+- [Dev.to/JS] [JavaScript is growing, web platforms and web standards are constantly changing. What are the biggest challenges?](https://dev.to/developernation/javascript-is-growing-web-platforms-and-web-standards-are-constantly-changing-what-are-the-biggest-challenges-1j5f)
 - [Dev.to/JS] [How to know your url location on react &lpar;with react-router-dom&rpar;](https://dev.to/lautaro/how-to-know-your-url-location-on-react-with-react-router-dom-2loh)
 - [Dev.to/JS] [Launched a SaaS Starter Kit on Product Hunt](https://dev.to/arjayosma/launched-a-saas-starter-kit-on-product-hunt-52no)
 - [Dev.to/JS] [Directivos de Tempel Group](https://dev.to/mariabe05359507/directivos-de-tempel-group-3j29)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [En este sentido, Teddy Wang](https://dev.to/mariabe05359507/en-este-sentido-teddy-wang-35ed)
 - [Dev.to/JS] [liderando de forma &quot;robusta&quot;](https://dev.to/mariabe05359507/liderando-de-forma-robusta-2638)
 - [Dev.to/JS] [Array Slicing](https://dev.to/bellatrix/array-slicing-4l36)
-- [Dev.to/JS] [The Code Blue App](https://dev.to/jacebapps/the-code-blue-app-hi3)
-- [Dev.to/JS] [React Hook Form: Dynamic Yup validation schema](https://dev.to/feijens/react-hook-form-dynamic-yup-validation-schema-34k)
-- [Dev.to/JS] [Paracetamol.js💊| #69: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-69-explica-este-codigo-javascript-56j7)
-- [Dev.to/JS] [JavaScript News and Updates of February 2022](https://dev.to/plazarev/javascript-news-and-updates-of-february-2022-4e33)
-- [Dev.to/JS] [🎬How To Make Side Navigation Menu Using HTML And CSS | Sidebar Menu Design✨](https://dev.to/robsonmuniz16/how-to-make-side-navigation-menu-using-html-and-css-sidebar-menu-design-4m7a)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
