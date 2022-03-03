@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PipyJS - A functional style JavaScript engine for programming Pipy](https://dev.to/naqvis/pipyjs-a-functional-style-javascript-engine-for-programming-pipy-pb5)
+- [Dev.to/JS] [Jquery Alert, Sweet Alert, Dialog Kullanımı](https://dev.to/ismailgultekin/jquery-alert-sweet-alert-dialog-kullanimi-dj8)
+- [Dev.to/JS] [Top Javascript frameworks for frontend development in 2022](https://dev.to/syntaxexplained/top-javascript-frameworks-for-frontend-development-in-2022-1nng)
+- [Dev.to/JS] [How to internationalize a Remix application &lpar;Part 2&rpar;](https://dev.to/adrai/how-to-internationalize-a-remix-application-part-2-glf)
+- [Dev.to/JS] [Strategy Pattern in Angular](https://dev.to/pawankkumawat/strategy-pattern-in-angular-1530)
 - [Dev.to/JS] [Introducing Pckd - The most powerful URL shortener](https://dev.to/just_moh_it/introducing-pckd-the-most-powerful-url-shortener-obk)
 - [Dev.to/JS] [Dative.JS Tutorial](https://dev.to/tobithedev/dativejs-tutorial-1ido)
 - [Dev.to/JS] [Melody - A readable language that compiles to regular expressions](https://dev.to/yoav_lavi_59c0afd7c9d040d/melody-a-readable-language-that-compiles-to-regular-expressions-1nk9)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [building Node.js video streaming in 5 minutes](https://dev.to/alguercode/building-nodejs-video-streaming-in-5-minutes-24b3)
 - [Dev.to/JS] [const life = change&lpar;&rpar;;](https://dev.to/nikola/const-life-change-427p)
 - [Dev.to/JS] [How to perform debouncing in Reactjs?](https://dev.to/kuldeeptarapara/how-to-perform-debouncing-in-reactjs-2bal)
-- [Dev.to/JS] [Make a Soap call in React js by a webservice](https://dev.to/hugoqueiros/make-a-soap-call-in-react-js-by-a-webservice-5d76)
-- [Dev.to/JS] [How to create a drawing app with React](https://dev.to/posandu/how-to-create-a-drawing-app-with-react-5hm8)
-- [Dev.to/JS] [Create an NFT Collection Website Landing Page in ReactJS🔴](https://dev.to/codebucks/create-nft-collection-website-landing-page-in-reactjs-1jnl)
-- [Dev.to/JS] [styled-components tips](https://dev.to/kmyrrpen/styled-components-tips-51j2)
-- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 5&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-5-398l)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
