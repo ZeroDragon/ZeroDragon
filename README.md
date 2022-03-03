@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Control Forms in React](https://dev.to/kragon741/control-forms-in-react-6p6)
+- [Dev.to/JS] [Additive changes to your cjs exports are now breaking changes.](https://dev.to/naugtur/additive-changes-to-your-cjs-exports-are-now-breaking-changes-3pnk)
+- [Dev.to/JS] [10 Youtube channels that help you to master CSS, HTML and JavaScript.](https://dev.to/chemlali_assia/10-youtube-channels-that-help-you-to-master-css-html-and-javascript-21l9)
+- [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 - [Dev.to/JS] [5 awesome projects that inspire me to learn to code](https://dev.to/skaplichniy/5-awesome-projects-that-inspire-me-to-learn-to-code-j81)
 - [Dev.to/JS] [🎬How To Make Side Navigation Menu Using HTML And CSS | Sidebar Menu Design✨](https://dev.to/robsonmuniz16/how-to-make-side-navigation-menu-using-html-and-css-sidebar-menu-design-2p2p)
 - [Dev.to/JS] [Get data from URL in React | Get params from URL in react router dom v6](https://dev.to/slimpython/get-data-from-url-in-react-get-params-from-url-in-react-router-dom-v6-568o)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build NFTs on Stellar during 48-hour hackathon](https://dev.to/stellar/build-nfts-on-stellar-during-48-hour-hackathon-3eac)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Dev.to/JS] [How to improve the efficiency of git commits in a remote team ?](https://dev.to/zeitouncorp/how-to-improve-the-efficiency-of-git-commits-in-a-remote-team--pbn)
-- [Dev.to/JS] [Day 10/100, 100 Days of Code](https://dev.to/xurgg/day-10100-100-days-of-code-5bac)
-- [Dev.to/JS] [Can you make slide presentation with a text file?](https://dev.to/kkibria/can-you-make-slide-presentation-with-a-text-file-1mdf)
-- [Dev.to/JS] [Using GitHub Dependabot with a Monorepo](https://dev.to/chrisrhymes/using-github-dependabot-with-a-monorepo-5do6)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
 - [Lifehacker] [Khai Jiao Is the Best Way to Use Leftover Mung Bean Sprouts](https://lifehacker.com/khai-jiao-is-the-best-way-to-use-leftover-mung-bean-spr-1848594589)
 - [Lifehacker] [The Best &lpar;and Worse&rpar; Ways to Freeze Eggs From the Grocery Store](https://lifehacker.com/the-best-and-worse-ways-to-freeze-eggs-from-the-groce-1848594106)
-- [Lifehacker] [The Five Stages of a Market Bubble &lpar;and Where Crypto Stands&rpar;](https://lifehacker.com/the-five-of-a-market-bubble-and-where-crypto-is-1848594064)
-- [Lifehacker] [How to Go to Sleep Like Royalty](https://lifehacker.com/how-to-go-to-sleep-like-fucking-royalty-1848593982)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Five Stages of a Market Bubble &lpar;and Where Crypto Stands&rpar;](https://lifehacker.com/the-five-of-a-market-bubble-and-where-crypto-is-1848594064)<!-- TECH-POSTS:END -->
 
 ---
 
