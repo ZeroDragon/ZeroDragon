@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get data from URL in React | Get params from URL in react router dom v6](https://dev.to/slimpython/get-data-from-url-in-react-get-params-from-url-in-react-router-dom-v6-568o)
+- [Dev.to/JS] [Building a Compound Interest Calculator using Chart.js + Next.js](https://dev.to/danstanhope/compound-interest-calculator-using-chartjs-react-1lac)
+- [Dev.to/JS] [I wrote a very small state manager &lpar;Vssm&rpar; in pure Javascript](https://dev.to/tkni/i-wrote-a-very-small-state-manager-vssm-in-pure-javascript-49e)
+- [Dev.to/JS] [SOME AWESOME FEATURES OF JAVASCRIPT ECMAScript 2016 &lpar;ES7&rpar;!](https://dev.to/wordssaysalot/some-awesome-features-of-javascript-ecmascript-2016-es7-459a)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 7&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-7-2il)
 - [Dev.to/JS] [Build NFTs on Stellar during 48-hour hackathon](https://dev.to/stellar/build-nfts-on-stellar-during-48-hour-hackathon-3eac)
 - [Dev.to/JS] [How to improve the efficiency of git commits in a remote team ?](https://dev.to/zeitouncorp/how-to-improve-the-efficiency-of-git-commits-in-a-remote-team--pbn)
 - [Dev.to/JS] [Day 10/100, 100 Days of Code](https://dev.to/xurgg/day-10100-100-days-of-code-5bac)
 - [Dev.to/JS] [Can you make slide presentation with a text file?](https://dev.to/kkibria/can-you-make-slide-presentation-with-a-text-file-1mdf)
+- [Dev.to/JS] [Using GitHub Dependabot with a Monorepo](https://dev.to/chrisrhymes/using-github-dependabot-with-a-monorepo-5do6)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 6&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-6-3km)
 - [Dev.to/JS] [We analyze the JHipster Community Survey on YouTube](https://dev.to/jhipster/we-analyze-the-jhipster-community-survey-on-youtube-5dlk)
-- [Dev.to/JS] [A Complete Guide to Javascript Types](https://dev.to/smpnjn/a-complete-guide-to-javascript-types-26ac)
-- [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript The Right Way](https://dev.to/danielobare/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-45nb)
-- [Dev.to/JS] [Let&#39;s debug a node.js app using the built-in debugger!](https://dev.to/siddharthshyniben/lets-debug-a-nodejs-app-using-the-built-in-debugger-2o24)
-- [Dev.to/JS] [Chat Application using reactjs and google-firebase](https://dev.to/nisabmohd/chat-application-using-reactjs-and-google-firebase-2p0e)
-- [Dev.to/JS] [Some New Software Error Trends Based on Airbrake&#39;s 2022 Error Data Report](https://dev.to/airbrake/airbrake-identifies-most-common-software-error-trends-in-new-research-report-40h5)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
