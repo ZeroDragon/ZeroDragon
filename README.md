@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MDN New Design with new contents](https://dev.to/msabir/mdn-new-design-with-new-contens-5fnc)
+- [Dev.to/JS] [Displaying numbers as k,M values in Reactjs](https://dev.to/mcnaveen/displaying-numbers-as-km-values-in-reactjs-283d)
 - [Dev.to/JS] [Gemint Product Updates — March 2, 2022](https://dev.to/reesekunz/gemint-product-updates-march-2-2022-jf7)
 - [Dev.to/JS] [Stipend and Project size details for Google Summer of Code 2022 &lpar;3/5&rpar;](https://dev.to/sanjaysinghrajpoot/stipend-and-project-size-details-for-google-summer-of-code-2022-35-3jnd)
 - [Dev.to/JS] [Behind the Monitor: Struggle, Discovery, Idea, Celebration](https://dev.to/belokond/behind-the-monitor-struggle-discovery-idea-celebration-2h6k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pern Stack pagination middleware](https://dev.to/codeurabou/pern-stack-pagination-middleware-3b1j)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 2](https://dev.to/marvinobig/100-days-of-code-challenge-day-2-1lg)
 - [Dev.to/JS] [Meet Fathym&#39;s Social User Interface for developers](https://dev.to/richkurtzman/meet-fathyms-social-user-interface-for-developers-4g2f)
-- [Dev.to/JS] [Simplified Next.js, The modern React.js Framework #2](https://dev.to/mariolemus/simplified-nextjs-the-modern-reactjs-framework-2-169e)
-- [Dev.to/JS] [What&#39;s New In DativeJs](https://dev.to/tobithedev/whats-new-in-dativejs-3l80)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
