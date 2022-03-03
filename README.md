@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pern Stack pagination middleware](https://dev.to/codeurabou/pern-stack-pagination-middleware-3b1j)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 2](https://dev.to/marvinobig/100-days-of-code-challenge-day-2-1lg)
 - [Dev.to/JS] [Meet Fathym&#39;s Social User Interface for developers](https://dev.to/richkurtzman/meet-fathyms-social-user-interface-for-developers-4g2f)
 - [Dev.to/JS] [Simplified Next.js, The modern React.js Framework #2](https://dev.to/mariolemus/simplified-nextjs-the-modern-reactjs-framework-2-169e)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [15 Useful Lodash Methods for Everyday Coding](https://dev.to/diogocapela/15-useful-lodash-methods-for-everyday-coding-20op)
 - [Dev.to/JS] [Build a Quote Generator with JavaScript: Your first API project](https://dev.to/itzami/build-a-quote-generator-with-javascript-your-first-api-project-2mco)
 - [Dev.to/JS] [Short Note On Object Oriented Programming](https://dev.to/payalpatra105/short-note-on-object-oriented-programming-1gn3)
-- [Dev.to/JS] [A Beginner’s Guide To Postman File Uploads](https://dev.to/ideradevtools/a-beginners-guide-to-postman-file-uploads-483e)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
 - [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
