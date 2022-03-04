@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get advanced social media metrics?](https://dev.to/chovy/how-to-get-advanced-social-media-metrics-2jg6)
+- [Dev.to/JS] [Lunaire Keto - Weight Loss Benefits, Price, Reviews &amp; Side Effects](https://dev.to/lunaireketoinfo/lunaire-keto-weight-loss-benefits-price-reviews-side-effects-3fn1)
 - [Dev.to/JS] [Debugging Teams App Locally with Teams Toolkit](https://dev.to/azure/debugging-teams-app-locally-with-teams-toolkit-2b67)
 - [Dev.to/JS] [How Docker Container Works?](https://dev.to/decipherzonetech/how-docker-container-works-56lp)
 - [Dev.to/JS] [Array Grouping In JavaScript Using array.groupBy&lpar;&rpar;](https://dev.to/kishanzalariya/array-grouping-in-javascript-using-arraygroupby-d46)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leetcode Diary: I got an offer!!](https://dev.to/kevin074/leetcode-diary-i-got-an-offer-1ad)
 - [Dev.to/JS] [Build an Online Course with React](https://dev.to/anthonygore/build-an-online-course-with-react-2dpb)
 - [Dev.to/JS] [Modern eCommerce website with HTML CSS JS 2022](https://dev.to/codewithsadee/modern-ecommerce-website-with-html-css-js-2022-142i)
-- [Dev.to/JS] [The Ultimate Web Dev Environment](https://dev.to/azure/the-ultimate-web-dev-environment-38af)
-- [Dev.to/JS] [100 Days of Code Challenge: Day 3](https://dev.to/marvinobig/100-days-of-code-challenge-day-3-17eo)
 - [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
