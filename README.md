@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Redux in React](https://dev.to/saycheese/redux-in-react-4na3)
+- [Dev.to/JS] [Power of Two, A Google Interview Questions - JS Solution](https://dev.to/ggorantala/power-of-two-a-google-interview-questions-js-solution-cmj)
 - [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript The Right Way](https://dev.to/collinsonindo/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-5h35)
 - [Dev.to/JS] [How to get advanced social media metrics?](https://dev.to/chovy/how-to-get-advanced-social-media-metrics-2jg6)
 - [Dev.to/JS] [Lunaire Keto - Weight Loss Benefits, Price, Reviews &amp; Side Effects](https://dev.to/lunaireketoinfo/lunaire-keto-weight-loss-benefits-price-reviews-side-effects-3fn1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created the best web3 boilerplate out there!](https://dev.to/ilyxium/i-created-the-best-web3-boilerplate-out-there-4e19)
 - [Dev.to/JS] [Quicksort Algorithm](https://dev.to/nelsonn_michael/quicksort-algorithm-1nac)
 - [Dev.to/JS] [Day 21 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#387. First Unique Character in a String&lpar;Easy/JS&rpar;](https://dev.to/corndog/day-21-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem387-first-unique-character-in-a-stringeasyjs-pcn)
-- [Dev.to/JS] [Leetcode Diary: I got an offer!!](https://dev.to/kevin074/leetcode-diary-i-got-an-offer-1ad)
-- [Dev.to/JS] [Build an Online Course with React](https://dev.to/anthonygore/build-an-online-course-with-react-2dpb)
 - [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
