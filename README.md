@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days of Code Challenge: Day 3](https://dev.to/marvinobig/100-days-of-code-challenge-day-3-17eo)
 - [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript the Right Way](https://dev.to/batichebet/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-eme)
 - [Dev.to/JS] [Control Forms in React](https://dev.to/kragon741/control-forms-in-react-6p6)
 - [Dev.to/JS] [Additive changes to your cjs exports are now breaking changes.](https://dev.to/naugtur/additive-changes-to-your-cjs-exports-are-now-breaking-changes-3pnk)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I wrote a very small state manager &lpar;Vssm&rpar; in pure Javascript](https://dev.to/tkni/i-wrote-a-very-small-state-manager-vssm-in-pure-javascript-49e)
 - [Dev.to/JS] [SOME AWESOME FEATURES OF JAVASCRIPT ECMAScript 2016 &lpar;ES7&rpar;!](https://dev.to/wordssaysalot/some-awesome-features-of-javascript-ecmascript-2016-es7-459a)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 7&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-7-2il)
-- [Dev.to/JS] [Build NFTs on Stellar during 48-hour hackathon](https://dev.to/stellar/build-nfts-on-stellar-during-48-hour-hackathon-3eac)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)
