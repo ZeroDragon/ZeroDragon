@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modern JavaScript for everyone: Mastering ModernJavaScript The Right Way](https://dev.to/munenemuriukim/modern-javascript-for-everyone-mastering-modernjavascript-the-right-way-gml)
 - [Dev.to/JS] [Modern Javascript for everyone: Mastering modern Javascript the right way.](https://dev.to/johnkatua/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-2gc6)
 - [Dev.to/JS] [Day 22 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1041. Robot Bounded In Circle&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog/day-22-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1041-robot-bounded-in-circlemediumjavascript-24pe)
 - [Dev.to/JS] [Redux Toolkit-A standard way to write redux](https://dev.to/zahidhasan2806/redux-toolkit-a-standard-way-to-write-redux-4fh9)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hash and Hash table](https://dev.to/bellatrix/hash-and-hash-table-3fgp)
 - [Dev.to/JS] [Improve CSS tips](https://dev.to/fidalmathew/improve-css-tips-2l4c)
 - [Dev.to/JS] [Compound Components and Layout Components in React](https://dev.to/princerajroy/compound-components-and-layout-components-in-react-24o7)
-- [Dev.to/JS] [Understanding Cross Origin Resource Sharing &lpar;CORS&rpar;](https://dev.to/beyond5575/understanding-cross-origin-resource-sharing-cors-2jbg)
 - [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
