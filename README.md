@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Leetcode Diary: I got an offer!!](https://dev.to/kevin074/leetcode-diary-i-got-an-offer-1ad)
+- [Dev.to/JS] [Build an Online Course with React](https://dev.to/anthonygore/build-an-online-course-with-react-2dpb)
 - [Dev.to/JS] [Modern eCommerce website with HTML CSS JS 2022](https://dev.to/codewithsadee/modern-ecommerce-website-with-html-css-js-2022-142i)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 3](https://dev.to/marvinobig/100-days-of-code-challenge-day-3-17eo)
 - [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript the Right Way](https://dev.to/batichebet/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-eme)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎬How To Make Side Navigation Menu Using HTML And CSS | Sidebar Menu Design✨](https://dev.to/robsonmuniz16/how-to-make-side-navigation-menu-using-html-and-css-sidebar-menu-design-2p2p)
 - [Dev.to/JS] [Get data from URL in React | Get params from URL in react router dom v6](https://dev.to/slimpython/get-data-from-url-in-react-get-params-from-url-in-react-router-dom-v6-568o)
 - [Dev.to/JS] [Building a Compound Interest Calculator using Chart.js + Next.js](https://dev.to/danstanhope/compound-interest-calculator-using-chartjs-react-1lac)
-- [Dev.to/JS] [I wrote a very small state manager &lpar;Vssm&rpar; in pure Javascript](https://dev.to/tkni/i-wrote-a-very-small-state-manager-vssm-in-pure-javascript-49e)
-- [Dev.to/JS] [SOME AWESOME FEATURES OF JAVASCRIPT ECMAScript 2016 &lpar;ES7&rpar;!](https://dev.to/wordssaysalot/some-awesome-features-of-javascript-ecmascript-2016-es7-459a)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)
