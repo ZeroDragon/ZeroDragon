@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript The Right Way](https://dev.to/kwizeral/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-gad)
+- [Dev.to/JS] [Variables, Operators, Conditions | Beginner | Mysterious Topics of Js | #1](https://dev.to/mzmali/variables-operators-conditions-beginner-mysterious-topics-of-js-1-4hm7)
+- [Dev.to/JS] [REDUX TOOLKIT FUNDAMENTAL](https://dev.to/mdnajmul/redux-toolkit-fundamental-545i)
 - [Dev.to/JS] [introduction to blockchain cryptocurrencies and open source cryptocurrencies](https://dev.to/motivational_coder/introduction-to-blockchain-cryptocurrencies-and-open-source-cryptocurrencies-505m)
 - [Dev.to/JS] [Thoughts on TypeScript](https://dev.to/mbarzeev/thoughts-on-typescript-3c7j)
 - [Dev.to/JS] [Bootstrap: A-fully-responsive-HTML-template-created-with-Bootstrap](https://dev.to/wadrahim/a-fully-responsive-html-template-created-with-bootstrap-747)
 - [Dev.to/JS] [How To Implement Google reCAPTCHA v3 in Flutter Web](https://dev.to/zujaj/how-to-implement-google-recaptcha-v3-in-flutter-web-1hje)
 - [Dev.to/JS] [How to Use Three.js And React to Render a 3D Model of Your Self](https://dev.to/nourdinedev/how-to-use-threejs-and-react-to-render-a-3d-model-of-your-self-4kkf)
+- [Dev.to/JS] [Top 10 React Component Libraries Every Developer Should Know](https://dev.to/syncfusion/top-10-react-component-libraries-every-developer-should-know-290p)
 - [Dev.to/JS] [Data type in javascript:](https://dev.to/bilalniaz15/data-type-in-javascript-2o9k)
 - [Dev.to/JS] [Fill 100 Game &lpar;Web&rpar; is now live](https://dev.to/matteobruni/fill-100-game-web-is-now-live-3m0i)
 - [Dev.to/JS] [Salesforce Training in chennai](https://dev.to/mobina/salesforce-training-in-chennai-1k35)
-- [Dev.to/JS] [Redux in React](https://dev.to/saycheese/redux-in-react-4na3)
-- [Dev.to/JS] [Power of Two, A Google Interview Question - JS Solution](https://dev.to/ggorantala/power-of-two-a-google-interview-questions-js-solution-cmj)
-- [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript The Right Way](https://dev.to/collinsonindo/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-5h35)
-- [Dev.to/JS] [How to get advanced social media metrics?](https://dev.to/chovy/how-to-get-advanced-social-media-metrics-2jg6)
 - [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
