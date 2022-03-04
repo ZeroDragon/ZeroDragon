@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Show JSON As Pretty Print With Syntax Highlighting in React](https://dev.to/gauravadhikari1997/show-json-as-pretty-print-with-syntax-highlighting-3jpm)
+- [Dev.to/JS] [Deeper knowledge about ReactJS and Lifecycle](https://dev.to/ramclen/deeper-knowledge-about-reactjs-and-lifecycle-2ghl)
+- [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
+- [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
 - [Dev.to/JS] [TypeScript](https://dev.to/programmersajeeb/typescript-26nc)
 - [Dev.to/JS] [Hash and Hash table](https://dev.to/bellatrix/hash-and-hash-table-3fgp)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are Web Vitals?](https://dev.to/dreamyplayer/what-are-web-vitals-482p)
 - [Dev.to/JS] [How to get myself to read books](https://dev.to/joshchu/how-to-get-myself-to-read-books-2841)
 - [Dev.to/JS] [10 reasons why you should use Typescript](https://dev.to/thatanjan/10-reasons-why-you-should-use-typescript-1iij)
-- [Dev.to/JS] [Learning the reduce function part2](https://dev.to/quality_pre/learning-the-reduce-function-part2-18k8)
-- [Dev.to/JS] [How to Pick the Best NPM Packages](https://dev.to/sbmsr/how-to-pick-the-best-npm-packages-58k9)
 - [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
-- [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
-- [Lifehacker] [Khai Jiao Is the Best Way to Use Leftover Mung Bean Sprouts](https://lifehacker.com/khai-jiao-is-the-best-way-to-use-leftover-mung-bean-spr-1848594589)
-- [Lifehacker] [The Best &lpar;and Worse&rpar; Ways to Freeze Eggs From the Grocery Store](https://lifehacker.com/the-best-and-worse-ways-to-freeze-eggs-from-the-groce-1848594106)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)<!-- TECH-POSTS:END -->
 
 ---
 
