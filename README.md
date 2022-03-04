@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
+- [Dev.to/JS] [TypeScript](https://dev.to/programmersajeeb/typescript-26nc)
 - [Dev.to/JS] [Hash and Hash table](https://dev.to/bellatrix/hash-and-hash-table-3fgp)
 - [Dev.to/JS] [Improve CSS tips](https://dev.to/fidalmathew/improve-css-tips-2l4c)
 - [Dev.to/JS] [Compound Components and Layout Components in React](https://dev.to/princerajroy/compound-components-and-layout-components-in-react-24o7)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 reasons why you should use Typescript](https://dev.to/thatanjan/10-reasons-why-you-should-use-typescript-1iij)
 - [Dev.to/JS] [Learning the reduce function part2](https://dev.to/quality_pre/learning-the-reduce-function-part2-18k8)
 - [Dev.to/JS] [How to Pick the Best NPM Packages](https://dev.to/sbmsr/how-to-pick-the-best-npm-packages-58k9)
-- [Dev.to/JS] [25 Resources to Learn Next.js in 2022](https://dev.to/devkiran/25-resources-to-learn-nextjs-in-2022-11b8)
 - [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
 - [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)
 - [Lifehacker] [Khai Jiao Is the Best Way to Use Leftover Mung Bean Sprouts](https://lifehacker.com/khai-jiao-is-the-best-way-to-use-leftover-mung-bean-spr-1848594589)
-- [Lifehacker] [The Best &lpar;and Worse&rpar; Ways to Freeze Eggs From the Grocery Store](https://lifehacker.com/the-best-and-worse-ways-to-freeze-eggs-from-the-groce-1848594106)
-- [Lifehacker] [The Five Stages of a Market Bubble &lpar;and Where Crypto Stands&rpar;](https://lifehacker.com/the-five-of-a-market-bubble-and-where-crypto-is-1848594064)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best &lpar;and Worse&rpar; Ways to Freeze Eggs From the Grocery Store](https://lifehacker.com/the-best-and-worse-ways-to-freeze-eggs-from-the-groce-1848594106)<!-- TECH-POSTS:END -->
 
 ---
 
