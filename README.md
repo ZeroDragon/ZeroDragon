@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data type in javascript:](https://dev.to/bilalniaz15/data-type-in-javascript-2o9k)
+- [Dev.to/JS] [Fill 100 Game &lpar;Web&rpar; is now live](https://dev.to/matteobruni/fill-100-game-web-is-now-live-3m0i)
+- [Dev.to/JS] [Salesforce Training in chennai](https://dev.to/mobina/salesforce-training-in-chennai-1k35)
 - [Dev.to/JS] [Redux in React](https://dev.to/saycheese/redux-in-react-4na3)
-- [Dev.to/JS] [Power of Two, A Google Interview Questions - JS Solution](https://dev.to/ggorantala/power-of-two-a-google-interview-questions-js-solution-cmj)
+- [Dev.to/JS] [Power of Two, A Google Interview Question - JS Solution](https://dev.to/ggorantala/power-of-two-a-google-interview-questions-js-solution-cmj)
 - [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript The Right Way](https://dev.to/collinsonindo/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-5h35)
 - [Dev.to/JS] [How to get advanced social media metrics?](https://dev.to/chovy/how-to-get-advanced-social-media-metrics-2jg6)
 - [Dev.to/JS] [Lunaire Keto - Weight Loss Benefits, Price, Reviews &amp; Side Effects](https://dev.to/lunaireketoinfo/lunaire-keto-weight-loss-benefits-price-reviews-side-effects-3fn1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Docker Container Works?](https://dev.to/decipherzonetech/how-docker-container-works-56lp)
 - [Dev.to/JS] [Array Grouping In JavaScript Using array.groupBy&lpar;&rpar;](https://dev.to/kishanzalariya/array-grouping-in-javascript-using-arraygroupby-d46)
 - [Dev.to/JS] [NFT Etherscan ads from experts](https://dev.to/shamlateh/nft-etherscan-ads-from-experts-2kgl)
-- [Dev.to/JS] [I created the best web3 boilerplate out there!](https://dev.to/ilyxium/i-created-the-best-web3-boilerplate-out-there-4e19)
-- [Dev.to/JS] [Quicksort Algorithm](https://dev.to/nelsonn_michael/quicksort-algorithm-1nac)
-- [Dev.to/JS] [Day 21 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#387. First Unique Character in a String&lpar;Easy/JS&rpar;](https://dev.to/corndog/day-21-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem387-first-unique-character-in-a-stringeasyjs-pcn)
 - [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
