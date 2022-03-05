@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Nuxt When Vue?](https://dev.to/sem1colons/why-nuxt-when-vue-225c)
 - [Dev.to/JS] [My internship experience with Oasis Infobyte](https://dev.to/technophille/my-internship-experience-with-oasis-infobyte-3l2m)
 - [Dev.to/JS] [I didn&#39;t get a job I applied for because I don&#39;t code in my spare time](https://dev.to/johnwood/i-didnt-get-a-job-i-applied-for-because-i-dont-code-in-my-spare-time-4clk)
 - [Dev.to/JS] [It&#39;s 2022, don&#39;t use the console.log&lpar;😎&rpar;](https://dev.to/codewithsnowbit/its-2022-dont-use-the-consolelog-4j70)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Docker in a Nutshell: A Powerful Platform for Containers](https://dev.to/ayoub3bidi/docker-in-a-nutshell-a-powerful-platform-for-containers-5af6)
 - [Dev.to/JS] [Top 10 Programming Languages You Must Know In 2022 - Codexashish](https://dev.to/mailashish/top-10-programming-languages-you-must-know-in-2022-codexashish-4g79)
 - [Dev.to/JS] [MERN Auth - Signup &amp; Login with Email &lpar;JWT&rpar; | React , Node, Express, MongoDB](https://dev.to/cyberwolve/mern-auth-signup-login-with-email-jwt-react-node-express-mongodb-m76)
-- [Dev.to/JS] [Uploading Images &amp; Files To Firebase Storage In React JS | Node JS | MongoDB | Express](https://dev.to/cyberwolve/uploading-images-files-to-firebase-storage-in-react-js-node-js-mongodb-express-ngi)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
