@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to eat an elephant by JS?](https://dev.to/asktosimon/how-to-eat-an-elephant-by-js-1g9p)
+- [Dev.to/JS] [Day 11/100, 100 Days of Code](https://dev.to/xurgg/day-11100-100-days-of-code-5950)
 - [Dev.to/JS] [How could I go into providing an unique CMS instance...](https://dev.to/johnwood/how-could-i-go-into-providing-an-unique-cms-instance-4ae2)
 - [Dev.to/JS] [Keto Charge - Weight Loss Reviews, Ingredients, Price &amp; Results?](https://dev.to/ketochargefact/keto-charge-weight-loss-reviews-ingredients-price-results-2ep6)
 - [Dev.to/JS] [SwitchMap RxJS Operator](https://dev.to/pawankkumawat/switchmap-rxjs-operator-1m8h)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Everything you need to know about React.memo &lpar;with examples&rpar;](https://dev.to/kairatorozobekov/everything-you-need-to-know-about-reactmemo-with-examples-57em)
 - [Dev.to/JS] [5 Must Know Websites for Web Developers](https://dev.to/sarveshprajapati/5-must-know-websites-for-web-developers-3hdh)
 - [Dev.to/JS] [String Manipulation Methods to Memorize](https://dev.to/yani82/string-manipulation-methods-to-memorize-49e0)
-- [Dev.to/JS] [Wanting to learn](https://dev.to/garvaincampbell/wanting-to-learn-13b0)
-- [Dev.to/JS] [Discord Account Generator Bot OpenSRC - MIT Licensed](https://dev.to/altify/discord-account-generator-bot-src-4cic)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
