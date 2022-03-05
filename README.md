@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Just Five News · Daily News](https://dev.to/baransel/just-five-news-daily-news-7id)
+- [Dev.to/JS] [Progressive Web Apps 101](https://dev.to/zsevic/progressive-web-apps-101-4670)
+- [Dev.to/JS] [How to build Zapier trigger and actions with my &quot;hack&quot;](https://dev.to/sewellstephens/how-to-build-zapier-trigger-and-actions-with-my-hack-422p)
+- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#09&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-09-bg0)
 - [Dev.to/JS] [What the heck are callbacks? Promises? Async\Await? — what a MESS](https://dev.to/yanirr/what-the-heck-are-callbacks-promises-asyncawait-what-a-mess-hie)
 - [Dev.to/JS] [Entendiendo el método bind&lpar;&rpar;](https://dev.to/pandresdev/entendiendo-el-metodo-bind-22do)
 - [Dev.to/JS] [Building GraphQL API in Node.js - Basic Setup - Part[0]](https://dev.to/franciscomendes10866/building-graphql-api-in-nodejs-basic-setup-part0-2l4n)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Library for creating simple web Visio-like diagrams?](https://dev.to/aadhoc/library-for-creating-simple-web-visio-like-diagrams-2i3p)
 - [Dev.to/JS] [PART 2 - 2022 JAVASCRIPT DEVELOPMENT SETUP ON WINDOWS](https://dev.to/adeinfo/part-2-2022-javascript-development-setup-on-windows-474j)
 - [Dev.to/JS] [Ever wanted to create an API out of your WhatsApp account?](https://dev.to/salman0ansari/ever-wanted-to-create-an-api-out-of-your-whatsapp-account-4950)
-- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 8&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-8-3c84)
-- [Dev.to/JS] [Logical Nullish Assignment ??= en JavaScript](https://dev.to/duxtech/logical-nullish-assignment-en-javascript-4367)
-- [Dev.to/JS] [Introducing Blogkit - A Unified Blog Engine](https://dev.to/2nthony/introducing-blogkit-a-unified-blog-engine-5579)
-- [Dev.to/JS] [How to implement protected routes in Next.js](https://dev.to/seven/how-to-implement-protected-routes-in-nextjs-1m50)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
