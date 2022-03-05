@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 Must Know Websites for Web Developers](https://dev.to/sarveshprajapati/5-must-know-websites-for-web-developers-3hdh)
+- [Dev.to/JS] [String Manipulation Methods to Memorize](https://dev.to/yani82/string-manipulation-methods-to-memorize-49e0)
 - [Dev.to/JS] [Wanting to learn](https://dev.to/garvaincampbell/wanting-to-learn-13b0)
 - [Dev.to/JS] [Discord Account Generator Bot OpenSRC - MIT Licensed](https://dev.to/altify/discord-account-generator-bot-src-4cic)
 - [Dev.to/JS] [Crew : A backend task processing tool for Node.js and beyond.](https://dev.to/aaronblondeau/crew-a-backend-task-processing-tool-for-nodejs-and-beyond-829)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript The Right Way](https://dev.to/davidmutinda/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-57b2)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 4](https://dev.to/marvinobig/100-days-of-code-challenge-day-4-1h8)
 - [Dev.to/JS] [Creating a Link-Sharing Site Part 1](https://dev.to/adamjhawley/creating-a-link-sharing-site-part-1-2llp)
-- [Dev.to/JS] [More About Redux-Toolkit](https://dev.to/rhb/more-about-redux-toolkit-ppe)
-- [Dev.to/JS] [Add Kotlin/JS support to your KMM library](https://dev.to/touchlab/add-kotlinjs-support-to-your-kmm-library-48d9)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
