@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Proposal writing for Google Summer of Code 2022 &lpar;4/5&rpar;](https://dev.to/sanjaysinghrajpoot/proposal-writing-for-google-summer-of-code-2022-45-3h2n)
+- [Dev.to/JS] [Send Email using Mailgun API and Node.js](https://dev.to/deadwin19/send-email-using-mailgun-api-and-nodejs-45kc)
+- [Dev.to/JS] [Does GraphQL replace REST API ?](https://dev.to/pratham10/does-graphql-replace-rest-api--50fm)
+- [Dev.to/JS] [Everything you need to know about React.memo &lpar;with examples&rpar;](https://dev.to/kairatorozobekov/everything-you-need-to-know-about-reactmemo-with-examples-57em)
 - [Dev.to/JS] [5 Must Know Websites for Web Developers](https://dev.to/sarveshprajapati/5-must-know-websites-for-web-developers-3hdh)
 - [Dev.to/JS] [String Manipulation Methods to Memorize](https://dev.to/yani82/string-manipulation-methods-to-memorize-49e0)
 - [Dev.to/JS] [Wanting to learn](https://dev.to/garvaincampbell/wanting-to-learn-13b0)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 23 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#155. Min Stack&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog/day-23-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem155-min-stackeasyjavascript-l13)
 - [Dev.to/JS] [#HowTo - Making a Neumorphism portfolio](https://dev.to/rededge967/howto-making-a-neumorphism-portfolio-5h1m)
 - [Dev.to/JS] [Unlike your lousy ex, JS actually keeps its promises](https://dev.to/jareichert/unlike-your-lousy-ex-js-actually-keeps-its-promises-2739)
-- [Dev.to/JS] [How I REACTO to Algos: Tournament Winner](https://dev.to/amhernandez/how-i-reacto-to-algos-tournament-winner-20hk)
-- [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript The Right Way](https://dev.to/davidmutinda/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-57b2)
-- [Dev.to/JS] [100 Days of Code Challenge: Day 4](https://dev.to/marvinobig/100-days-of-code-challenge-day-4-1h8)
-- [Dev.to/JS] [Creating a Link-Sharing Site Part 1](https://dev.to/adamjhawley/creating-a-link-sharing-site-part-1-2llp)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
