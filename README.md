@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2022 JAVASCRIPT DEVELOPMENT SETUP ON WINDOWS &lpar;PART 1&rpar;](https://dev.to/adeinfo/2022-javascript-development-setup-on-windows-part-1-3ob4)
+- [Dev.to/JS] [PHP, CodeIgniter, Laravel, Vue, React, front-end… or how I changed my stack over the course of time](https://dev.to/filipac/php-codeigniter-laravel-vue-react-front-end-or-how-i-changed-my-stack-over-the-course-of-time-2kd6)
+- [Dev.to/JS] [🧑‍💻 Building CLIs with React Ink](https://dev.to/carrotfarmer/building-clis-with-react-ink-2038)
+- [Dev.to/JS] [Create Infinite scroll in React](https://dev.to/biomathcode/create-infinite-scroll-in-react-2ncb)
 - [Dev.to/JS] [Pre-generating filters on static sites](https://dev.to/scoticus/pre-generating-filters-on-static-sites-mm0)
 - [Dev.to/JS] [Docker in a Nutshell: A Powerful Platform for Containers](https://dev.to/ayoub3bidi/docker-in-a-nutshell-a-powerful-platform-for-containers-5af6)
 - [Dev.to/JS] [Top 10 Programming Languages You Must Know In 2022 - Codexashish](https://dev.to/mailashish/top-10-programming-languages-you-must-know-in-2022-codexashish-4g79)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Build A Todo App With React + Next JS](https://dev.to/cyberwolve/how-to-build-a-todo-app-with-react-next-js-23gh)
 - [Dev.to/JS] [Razorpay Payment Gateway Integration In Node JS &amp; React JS | MERN Stack Tutorial](https://dev.to/cyberwolve/razorpay-payment-gateway-integration-in-node-js-react-js-mern-stack-tutorial-5hba)
 - [Dev.to/JS] [Create a Modern React App From Scratch | Webpack 5 | 2021](https://dev.to/cyberwolve/create-a-modern-react-app-from-scratch-webpack-5-2021-4ngb)
-- [Dev.to/JS] [10 Best Websites for Practising and Perfecting Front-End Development](https://dev.to/muthuannamalai12/10-best-websites-for-practising-and-perfecting-front-end-development-4k1l)
-- [Dev.to/JS] [Using other package managers with node has become a whole lot easier](https://dev.to/anantoghosh/using-other-package-managers-with-node-has-become-a-whole-lot-easier-3pmi)
-- [Dev.to/JS] [Lipsum generator in  JS || 10 JS Project Challenge #4](https://dev.to/vector3studio/lipsum-generator-in-js-10-js-project-challenge-4-dpn)
-- [Dev.to/JS] [Introductory Post](https://dev.to/prathameshpowar1910/introductory-post-4cjj)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
