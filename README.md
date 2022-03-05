@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#HowTo - Making a Neumorphism portfolio](https://dev.to/rededge967/howto-making-a-neumorphism-portfolio-5h1m)
+- [Dev.to/JS] [Unlike your lousy ex, JS actually keeps its promises](https://dev.to/jareichert/unlike-your-lousy-ex-js-actually-keeps-its-promises-2739)
 - [Dev.to/JS] [How I REACTO to Algos: Tournament Winner](https://dev.to/amhernandez/how-i-reacto-to-algos-tournament-winner-20hk)
 - [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript The Right Way](https://dev.to/davidmutinda/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-57b2)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 4](https://dev.to/marvinobig/100-days-of-code-challenge-day-4-1h8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript The Right Way](https://dev.to/munenemuriukim/modern-javascript-for-everyone-mastering-modernjavascript-the-right-way-gml)
 - [Dev.to/JS] [Modern Javascript for everyone: Mastering modern Javascript the right way.](https://dev.to/johnkatua/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-2gc6)
 - [Dev.to/JS] [Day 22 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1041. Robot Bounded In Circle&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog/day-22-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1041-robot-bounded-in-circlemediumjavascript-24pe)
-- [Dev.to/JS] [Redux Toolkit-A standard way to write redux](https://dev.to/zahidhasan2806/redux-toolkit-a-standard-way-to-write-redux-4fh9)
-- [Dev.to/JS] [Redux toolkit](https://dev.to/afsumeem/redux-toolkit-j8i)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
