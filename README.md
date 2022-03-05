@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Basic JS Concepts](https://dev.to/mahmudurbd/basic-js-concepts-n8i)
+- [Dev.to/JS] [Important Javascript functions you have to know to be a better developer](https://dev.to/asapsonter/important-javascript-functions-you-have-to-know-to-be-a-better-developer-2if8)
+- [Dev.to/JS] [React - Image Editor](https://dev.to/kenji_goh/react-image-editor-1o8j)
+- [Dev.to/JS] [Online Clicker Counter](https://dev.to/jacksj/online-clicker-counter-3kg7)
 - [Dev.to/JS] [How to eat an elephant by JS?](https://dev.to/asktosimon/how-to-eat-an-elephant-by-js-1g9p)
 - [Dev.to/JS] [Day 11/100, 100 Days of Code](https://dev.to/xurgg/day-11100-100-days-of-code-5950)
 - [Dev.to/JS] [How could I go into providing an unique CMS instance...](https://dev.to/johnwood/how-could-i-go-into-providing-an-unique-cms-instance-4ae2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular global ngFor track by property directive with strict type checking.](https://dev.to/nigrosimone/angular-global-ngfor-trackby-property-directive-with-strict-type-checking-1kik)
 - [Dev.to/JS] [Proposal writing for Google Summer of Code 2022 &lpar;4/5&rpar;](https://dev.to/sanjaysinghrajpoot/proposal-writing-for-google-summer-of-code-2022-45-3h2n)
 - [Dev.to/JS] [Send Email using Mailgun API and Node.js](https://dev.to/deadwin19/send-email-using-mailgun-api-and-nodejs-45kc)
-- [Dev.to/JS] [Does GraphQL replace REST API ?](https://dev.to/pratham10/does-graphql-replace-rest-api--50fm)
-- [Dev.to/JS] [Everything you need to know about React.memo &lpar;with examples&rpar;](https://dev.to/kairatorozobekov/everything-you-need-to-know-about-reactmemo-with-examples-57em)
-- [Dev.to/JS] [5 Must Know Websites for Web Developers](https://dev.to/sarveshprajapati/5-must-know-websites-for-web-developers-3hdh)
-- [Dev.to/JS] [String Manipulation Methods to Memorize](https://dev.to/yani82/string-manipulation-methods-to-memorize-49e0)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
