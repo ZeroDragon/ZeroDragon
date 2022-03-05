@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [the start of my portfolio website.](https://dev.to/baraa_baba/the-start-of-my-portfolio-website-519l)
+- [Dev.to/JS] [Animated Landing Page with JavaScript](https://dev.to/dejeffo/animated-landing-page-with-html-canvas-3coc)
+- [Dev.to/JS] [Build.ai &lpar;.docwrit .addvarr&rpar;](https://dev.to/jldone/buildai-docwrit-addvarr-1old)
 - [Dev.to/JS] [Apresentação e... por quê?](https://dev.to/agez0s/apresentacao-e-por-que-3e3d)
 - [Dev.to/JS] [Strings in JS](https://dev.to/moreshwar/strings-in-js-nnk)
 - [Dev.to/JS] [How to use wildcard domains with Next.js Image component](https://dev.to/bmstefanski/how-to-use-wildcard-domains-with-nextjs-image-component-5dga)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Just Five News · Daily News](https://dev.to/baransel/just-five-news-daily-news-7id)
 - [Dev.to/JS] [Progressive Web Apps 101](https://dev.to/zsevic/progressive-web-apps-101-4670)
 - [Dev.to/JS] [How to build Zapier trigger and actions with my &quot;hack&quot;](https://dev.to/sewellstephens/how-to-build-zapier-trigger-and-actions-with-my-hack-422p)
-- [Dev.to/JS] [5 Articles every WebDev should read this week &lpar;#09&rpar;](https://dev.to/martinkr/5-articles-every-webdev-should-read-this-week-09-bg0)
-- [Dev.to/JS] [What the heck are callbacks? Promises? Async\Await? — what a MESS](https://dev.to/yanirr/what-the-heck-are-callbacks-promises-asyncawait-what-a-mess-hie)
-- [Dev.to/JS] [Entendiendo el método bind&lpar;&rpar;](https://dev.to/pandresdev/entendiendo-el-metodo-bind-22do)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
