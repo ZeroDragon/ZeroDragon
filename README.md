@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I REACTO to Algos: Tournament Winner](https://dev.to/amhernandez/how-i-reacto-to-algos-tournament-winner-20hk)
 - [Dev.to/JS] [Modern JavaScript for everyone: Mastering Modern JavaScript The Right Way](https://dev.to/davidmutinda/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-57b2)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 4](https://dev.to/marvinobig/100-days-of-code-challenge-day-4-1h8)
 - [Dev.to/JS] [Creating a Link-Sharing Site Part 1](https://dev.to/adamjhawley/creating-a-link-sharing-site-part-1-2llp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 22 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1041. Robot Bounded In Circle&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog/day-22-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1041-robot-bounded-in-circlemediumjavascript-24pe)
 - [Dev.to/JS] [Redux Toolkit-A standard way to write redux](https://dev.to/zahidhasan2806/redux-toolkit-a-standard-way-to-write-redux-4fh9)
 - [Dev.to/JS] [Redux toolkit](https://dev.to/afsumeem/redux-toolkit-j8i)
-- [Dev.to/JS] [No-code space projected to grow greatly in next few years](https://dev.to/richkurtzman/no-code-space-projected-to-grow-greatly-in-next-few-years-kp5)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
