@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Logical Nullish Assignment ??= en JavaScript](https://dev.to/duxtech/logical-nullish-assignment-en-javascript-4367)
+- [Dev.to/JS] [Introducing Blogkit - A Unified Blog Engine](https://dev.to/2nthony/introducing-blogkit-a-unified-blog-engine-5579)
+- [Dev.to/JS] [How to implement protected routes in Next.js](https://dev.to/seven/how-to-implement-protected-routes-in-nextjs-1m50)
+- [Dev.to/JS] [Why &#39;use strict&#39;; in Javascript?](https://dev.to/urstrulyvishwak/why-use-strict-in-javascript-2l36)
 - [Dev.to/JS] [Why Nuxt When Vue?](https://dev.to/sem1colons/why-nuxt-when-vue-225c)
 - [Dev.to/JS] [My internship experience with Oasis Infobyte](https://dev.to/technophille/my-internship-experience-with-oasis-infobyte-3l2m)
 - [Dev.to/JS] [I didn&#39;t get a job I applied for because I don&#39;t code in my spare time](https://dev.to/johnwood/i-didnt-get-a-job-i-applied-for-because-i-dont-code-in-my-spare-time-4clk)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PHP, CodeIgniter, Laravel, Vue, React, front-end… or how I changed my stack over the course of time](https://dev.to/filipac/php-codeigniter-laravel-vue-react-front-end-or-how-i-changed-my-stack-over-the-course-of-time-2kd6)
 - [Dev.to/JS] [🧑‍💻 Building CLIs with React Ink](https://dev.to/carrotfarmer/building-clis-with-react-ink-2038)
 - [Dev.to/JS] [Create Infinite scroll in React](https://dev.to/biomathcode/create-infinite-scroll-in-react-2ncb)
-- [Dev.to/JS] [Pre-generating filters on static sites](https://dev.to/scoticus/pre-generating-filters-on-static-sites-mm0)
-- [Dev.to/JS] [Docker in a Nutshell: A Powerful Platform for Containers](https://dev.to/ayoub3bidi/docker-in-a-nutshell-a-powerful-platform-for-containers-5af6)
-- [Dev.to/JS] [Top 10 Programming Languages You Must Know In 2022 - Codexashish](https://dev.to/mailashish/top-10-programming-languages-you-must-know-in-2022-codexashish-4g79)
-- [Dev.to/JS] [MERN Auth - Signup &amp; Login with Email &lpar;JWT&rpar; | React , Node, Express, MongoDB](https://dev.to/cyberwolve/mern-auth-signup-login-with-email-jwt-react-node-express-mongodb-m76)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
