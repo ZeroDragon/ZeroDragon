@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pre-generating filters on static sites](https://dev.to/scoticus/pre-generating-filters-on-static-sites-mm0)
+- [Dev.to/JS] [Docker in a Nutshell: A Powerful Platform for Containers](https://dev.to/ayoub3bidi/docker-in-a-nutshell-a-powerful-platform-for-containers-5af6)
+- [Dev.to/JS] [Top 10 Programming Languages You Must Know In 2022 - Codexashish](https://dev.to/mailashish/top-10-programming-languages-you-must-know-in-2022-codexashish-4g79)
+- [Dev.to/JS] [MERN Auth - Signup &amp; Login with Email &lpar;JWT&rpar; | React , Node, Express, MongoDB](https://dev.to/cyberwolve/mern-auth-signup-login-with-email-jwt-react-node-express-mongodb-m76)
 - [Dev.to/JS] [Uploading Images &amp; Files To Firebase Storage In React JS | Node JS | MongoDB | Express](https://dev.to/cyberwolve/uploading-images-files-to-firebase-storage-in-react-js-node-js-mongodb-express-ngi)
 - [Dev.to/JS] [How To Build A Todo App With React + Next JS](https://dev.to/cyberwolve/how-to-build-a-todo-app-with-react-next-js-23gh)
 - [Dev.to/JS] [Razorpay Payment Gateway Integration In Node JS &amp; React JS | MERN Stack Tutorial](https://dev.to/cyberwolve/razorpay-payment-gateway-integration-in-node-js-react-js-mern-stack-tutorial-5hba)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using other package managers with node has become a whole lot easier](https://dev.to/anantoghosh/using-other-package-managers-with-node-has-become-a-whole-lot-easier-3pmi)
 - [Dev.to/JS] [Lipsum generator in  JS || 10 JS Project Challenge #4](https://dev.to/vector3studio/lipsum-generator-in-js-10-js-project-challenge-4-dpn)
 - [Dev.to/JS] [Introductory Post](https://dev.to/prathameshpowar1910/introductory-post-4cjj)
-- [Dev.to/JS] [Basic JS Concepts](https://dev.to/mahmudurbd/basic-js-concepts-n8i)
-- [Dev.to/JS] [Important Javascript functions you have to know to be a better developer](https://dev.to/asapsonter/important-javascript-functions-you-have-to-know-to-be-a-better-developer-2if8)
-- [Dev.to/JS] [React - Image Editor](https://dev.to/kenji_goh/react-image-editor-1o8j)
-- [Dev.to/JS] [Online Clicker Counter](https://dev.to/jacksj/online-clicker-counter-3kg7)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
