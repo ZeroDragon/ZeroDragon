@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What the heck are callbacks? Promises? Async\Await? — what a MESS](https://dev.to/yanirr/what-the-heck-are-callbacks-promises-asyncawait-what-a-mess-hie)
+- [Dev.to/JS] [Entendiendo el método bind&lpar;&rpar;](https://dev.to/pandresdev/entendiendo-el-metodo-bind-22do)
+- [Dev.to/JS] [Building GraphQL API in Node.js - Basic Setup - Part[0]](https://dev.to/franciscomendes10866/building-graphql-api-in-nodejs-basic-setup-part0-2l4n)
+- [Dev.to/JS] [Controlling React API Calls With Hooks](https://dev.to/bytebodger/controlling-react-api-calls-with-hooks-a79)
 - [Dev.to/JS] [Paracetamol.js💊| #71: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-71-explica-este-codigo-javascript-5f2i)
 - [Dev.to/JS] [Library for creating simple web Visio-like diagrams?](https://dev.to/aadhoc/library-for-creating-simple-web-visio-like-diagrams-2i3p)
 - [Dev.to/JS] [PART 2 - 2022 JAVASCRIPT DEVELOPMENT SETUP ON WINDOWS](https://dev.to/adeinfo/part-2-2022-javascript-development-setup-on-windows-474j)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Logical Nullish Assignment ??= en JavaScript](https://dev.to/duxtech/logical-nullish-assignment-en-javascript-4367)
 - [Dev.to/JS] [Introducing Blogkit - A Unified Blog Engine](https://dev.to/2nthony/introducing-blogkit-a-unified-blog-engine-5579)
 - [Dev.to/JS] [How to implement protected routes in Next.js](https://dev.to/seven/how-to-implement-protected-routes-in-nextjs-1m50)
-- [Dev.to/JS] [Why &#39;use strict&#39;; in Javascript?](https://dev.to/urstrulyvishwak/why-use-strict-in-javascript-2l36)
-- [Dev.to/JS] [Why Nuxt When Vue?](https://dev.to/sem1colons/why-nuxt-when-vue-225c)
-- [Dev.to/JS] [My internship experience with Oasis Infobyte](https://dev.to/technophille/my-internship-experience-with-oasis-infobyte-3l2m)
-- [Dev.to/JS] [I didn&#39;t get a job I applied for because I don&#39;t code in my spare time](https://dev.to/johnwood/i-didnt-get-a-job-i-applied-for-because-i-dont-code-in-my-spare-time-4clk)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
