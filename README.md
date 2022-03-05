@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My internship experience with Oasis Infobyte](https://dev.to/technophille/my-internship-experience-with-oasis-infobyte-3l2m)
+- [Dev.to/JS] [I didn&#39;t get a job I applied for because I don&#39;t code in my spare time](https://dev.to/johnwood/i-didnt-get-a-job-i-applied-for-because-i-dont-code-in-my-spare-time-4clk)
+- [Dev.to/JS] [It&#39;s 2022, don&#39;t use the console.log&lpar;😎&rpar;](https://dev.to/codewithsnowbit/its-2022-dont-use-the-consolelog-4j70)
 - [Dev.to/JS] [2022 JAVASCRIPT DEVELOPMENT SETUP ON WINDOWS &lpar;PART 1&rpar;](https://dev.to/adeinfo/2022-javascript-development-setup-on-windows-part-1-3ob4)
 - [Dev.to/JS] [PHP, CodeIgniter, Laravel, Vue, React, front-end… or how I changed my stack over the course of time](https://dev.to/filipac/php-codeigniter-laravel-vue-react-front-end-or-how-i-changed-my-stack-over-the-course-of-time-2kd6)
 - [Dev.to/JS] [🧑‍💻 Building CLIs with React Ink](https://dev.to/carrotfarmer/building-clis-with-react-ink-2038)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 Programming Languages You Must Know In 2022 - Codexashish](https://dev.to/mailashish/top-10-programming-languages-you-must-know-in-2022-codexashish-4g79)
 - [Dev.to/JS] [MERN Auth - Signup &amp; Login with Email &lpar;JWT&rpar; | React , Node, Express, MongoDB](https://dev.to/cyberwolve/mern-auth-signup-login-with-email-jwt-react-node-express-mongodb-m76)
 - [Dev.to/JS] [Uploading Images &amp; Files To Firebase Storage In React JS | Node JS | MongoDB | Express](https://dev.to/cyberwolve/uploading-images-files-to-firebase-storage-in-react-js-node-js-mongodb-express-ngi)
-- [Dev.to/JS] [How To Build A Todo App With React + Next JS](https://dev.to/cyberwolve/how-to-build-a-todo-app-with-react-next-js-23gh)
-- [Dev.to/JS] [Razorpay Payment Gateway Integration In Node JS &amp; React JS | MERN Stack Tutorial](https://dev.to/cyberwolve/razorpay-payment-gateway-integration-in-node-js-react-js-mern-stack-tutorial-5hba)
-- [Dev.to/JS] [Create a Modern React App From Scratch | Webpack 5 | 2021](https://dev.to/cyberwolve/create-a-modern-react-app-from-scratch-webpack-5-2021-4ngb)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
