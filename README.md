@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #71: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-71-explica-este-codigo-javascript-5f2i)
+- [Dev.to/JS] [Library for creating simple web Visio-like diagrams?](https://dev.to/aadhoc/library-for-creating-simple-web-visio-like-diagrams-2i3p)
+- [Dev.to/JS] [PART 2 - 2022 JAVASCRIPT DEVELOPMENT SETUP ON WINDOWS](https://dev.to/adeinfo/part-2-2022-javascript-development-setup-on-windows-474j)
+- [Dev.to/JS] [Ever wanted to create an API out of your WhatsApp account?](https://dev.to/salman0ansari/ever-wanted-to-create-an-api-out-of-your-whatsapp-account-4950)
+- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 8&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-8-3c84)
 - [Dev.to/JS] [Logical Nullish Assignment ??= en JavaScript](https://dev.to/duxtech/logical-nullish-assignment-en-javascript-4367)
 - [Dev.to/JS] [Introducing Blogkit - A Unified Blog Engine](https://dev.to/2nthony/introducing-blogkit-a-unified-blog-engine-5579)
 - [Dev.to/JS] [How to implement protected routes in Next.js](https://dev.to/seven/how-to-implement-protected-routes-in-nextjs-1m50)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Nuxt When Vue?](https://dev.to/sem1colons/why-nuxt-when-vue-225c)
 - [Dev.to/JS] [My internship experience with Oasis Infobyte](https://dev.to/technophille/my-internship-experience-with-oasis-infobyte-3l2m)
 - [Dev.to/JS] [I didn&#39;t get a job I applied for because I don&#39;t code in my spare time](https://dev.to/johnwood/i-didnt-get-a-job-i-applied-for-because-i-dont-code-in-my-spare-time-4clk)
-- [Dev.to/JS] [It&#39;s 2022, don&#39;t use the console.log&lpar;😎&rpar;](https://dev.to/codewithsnowbit/its-2022-dont-use-the-consolelog-4j70)
-- [Dev.to/JS] [2022 JAVASCRIPT DEVELOPMENT SETUP ON WINDOWS &lpar;PART 1&rpar;](https://dev.to/adeinfo/2022-javascript-development-setup-on-windows-part-1-3ob4)
-- [Dev.to/JS] [PHP, CodeIgniter, Laravel, Vue, React, front-end… or how I changed my stack over the course of time](https://dev.to/filipac/php-codeigniter-laravel-vue-react-front-end-or-how-i-changed-my-stack-over-the-course-of-time-2kd6)
-- [Dev.to/JS] [🧑‍💻 Building CLIs with React Ink](https://dev.to/carrotfarmer/building-clis-with-react-ink-2038)
-- [Dev.to/JS] [Create Infinite scroll in React](https://dev.to/biomathcode/create-infinite-scroll-in-react-2ncb)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
