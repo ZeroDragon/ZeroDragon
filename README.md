@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How could I go into providing an unique CMS instance...](https://dev.to/johnwood/how-could-i-go-into-providing-an-unique-cms-instance-4ae2)
+- [Dev.to/JS] [Keto Charge - Weight Loss Reviews, Ingredients, Price &amp; Results?](https://dev.to/ketochargefact/keto-charge-weight-loss-reviews-ingredients-price-results-2ep6)
 - [Dev.to/JS] [SwitchMap RxJS Operator](https://dev.to/pawankkumawat/switchmap-rxjs-operator-1m8h)
 - [Dev.to/JS] [Angular global ngFor track by property directive with strict type checking.](https://dev.to/nigrosimone/angular-global-ngfor-trackby-property-directive-with-strict-type-checking-1kik)
 - [Dev.to/JS] [Proposal writing for Google Summer of Code 2022 &lpar;4/5&rpar;](https://dev.to/sanjaysinghrajpoot/proposal-writing-for-google-summer-of-code-2022-45-3h2n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [String Manipulation Methods to Memorize](https://dev.to/yani82/string-manipulation-methods-to-memorize-49e0)
 - [Dev.to/JS] [Wanting to learn](https://dev.to/garvaincampbell/wanting-to-learn-13b0)
 - [Dev.to/JS] [Discord Account Generator Bot OpenSRC - MIT Licensed](https://dev.to/altify/discord-account-generator-bot-src-4cic)
-- [Dev.to/JS] [Crew : A backend task processing tool for Node.js and beyond.](https://dev.to/aaronblondeau/crew-a-backend-task-processing-tool-for-nodejs-and-beyond-829)
-- [Dev.to/JS] [Day 23 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#155. Min Stack&lpar;Easy/JavaScript&rpar;](https://dev.to/corndog/day-23-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem155-min-stackeasyjavascript-l13)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
