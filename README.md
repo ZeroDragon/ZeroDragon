@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript interview questions](https://dev.to/jrazap/javascript-interview-questions-40el)
+- [Dev.to/JS] [Class Component with React Typescript](https://dev.to/samirasaad/class-component-with-react-typescript-3948)
+- [Dev.to/JS] [JSON crash course](https://dev.to/thatanjan/json-crash-course-1a7b)
 - [Dev.to/JS] [Dativejs Tutorial - Creating a Dative instance](https://dev.to/tobithedev/dativejs-tutorial-creating-a-dative-instance-2a9a)
 - [Dev.to/JS] [Understanding Temporal Dead Zone!](https://dev.to/kothalkarpriya/understanding-temporal-dead-zone-5gjm)
 - [Dev.to/JS] [Create a folder and push multiple files under a single commit through GitHub API](https://dev.to/bro3886/create-a-folder-and-push-multiple-files-under-a-single-commit-through-github-api-23kc)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s stop saying Unit/Integration/System Tests for frontend!!](https://dev.to/hiroyone/lets-stop-saying-unitintegrationsystem-tests-for-frontend-22kd)
 - [Dev.to/JS] [I made a Node.js colors library in 192 bytes minzipped &lpar;+ code explanation!&rpar;](https://dev.to/siddharthshyniben/i-made-a-nodejs-colors-library-in-192-bytes-minzipped-code-explanation-196i)
 - [Dev.to/JS] [Basics of Express.js](https://dev.to/ayaan2907/basics-of-expressjs-clg)
-- [Dev.to/JS] [Powerful Code Blocks with Code Hike and MDX](https://dev.to/anishde12020/powerful-code-blocks-with-code-hike-and-mdx-21e2)
-- [Dev.to/JS] [How to use memo in React?](https://dev.to/asktosimon/how-to-use-memo-in-react-54n7)
-- [Dev.to/JS] [Top One Keto - Weight Loss Pills, Reviews, Results And Benefits?](https://dev.to/toponeketoinfo/top-one-keto-weight-loss-pills-reviews-results-and-benefits-4hml)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
