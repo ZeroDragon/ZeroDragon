@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Startup guid of Jest for testing your javascript code. &lpar;Beginner&rpar;](https://dev.to/sefatanam/startup-guid-of-jest-for-testing-your-javascript-code-beginner-49h3)
+- [Dev.to/JS] [Sweeper.js](https://dev.to/mreggo/sweeperjs-33nm)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;05-03-2022&rpar; - The WebKit browser engine lineage](https://dev.to/mjgs/this-weeks-newsletter-is-out-05-03-2022-the-webkit-browser-engine-lineage-2k96)
 - [Dev.to/JS] [Relearning Data Structures and Algorithms](https://dev.to/nicholaswma/relearning-data-structures-and-algorithms-jkf)
 - [Dev.to/JS] [Frontend Rendering: SSG vs ISG vs SSR vs CSR - When to use which?](https://dev.to/ruppysuppy/frontend-rendering-ssg-vs-isg-vs-ssr-vs-csr-when-to-use-which-5jp)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 24 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1395. Count Number of Teams&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog/day-24-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1395-count-number-of-teamsmediumjavascript-19i4)
 - [Dev.to/JS] [Creating a web framework in under an hour!!](https://dev.to/acashjos/creating-a-web-framework-in-under-an-hour-58m)
 - [Dev.to/JS] [What&#39;s new in ES2022? 🤔](https://dev.to/jasmin/whats-new-in-es2022-1de6)
-- [Dev.to/JS] [Remix - 6 recursos matadores](https://dev.to/jhonywalkeer/remix-6-recursos-matadores-27bd)
-- [Dev.to/JS] [the start of my portfolio website.](https://dev.to/baraa_baba/the-start-of-my-portfolio-website-519l)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
