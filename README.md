@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Startup guid of Jest for testing your javascript code. &lpar;Beginner&rpar;](https://dev.to/sefatanam/startup-guid-of-jest-for-testing-your-javascript-code-beginner-49h3)
+- [Dev.to/JS] [Powerful Code Blocks with Code Hike and MDX](https://dev.to/anishde12020/powerful-code-blocks-with-code-hike-and-mdx-21e2)
+- [Dev.to/JS] [How to use memo in React?](https://dev.to/asktosimon/how-to-use-memo-in-react-54n7)
+- [Dev.to/JS] [Top One Keto - Weight Loss Pills, Reviews, Results And Benefits?](https://dev.to/toponeketoinfo/top-one-keto-weight-loss-pills-reviews-results-and-benefits-4hml)
+- [Dev.to/JS] [Startup guide of Jest for testing your javascript code. &lpar;Beginner&rpar;](https://dev.to/sefatanam/startup-guid-of-jest-for-testing-your-javascript-code-beginner-49h3)
 - [Dev.to/JS] [Sweeper.js](https://dev.to/mreggo/sweeperjs-33nm)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;05-03-2022&rpar; - The WebKit browser engine lineage](https://dev.to/mjgs/this-weeks-newsletter-is-out-05-03-2022-the-webkit-browser-engine-lineage-2k96)
 - [Dev.to/JS] [Relearning Data Structures and Algorithms](https://dev.to/nicholaswma/relearning-data-structures-and-algorithms-jkf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My top 10 best vs code extensions for frontend developers](https://dev.to/connectaryal/my-top-10-best-vs-code-extensions-for-frontend-developers-39an)
 - [Dev.to/JS] [Escaping X InnerHTML](https://dev.to/skywrithin/escaping-x-innerhtml-3fbl)
 - [Dev.to/JS] [How many way to find max number in array on Javascript.](https://dev.to/yasin440/how-many-way-to-find-max-number-in-array-on-javascript-25pk)
-- [Dev.to/JS] [Day 24 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1395. Count Number of Teams&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog/day-24-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1395-count-number-of-teamsmediumjavascript-19i4)
-- [Dev.to/JS] [Creating a web framework in under an hour!!](https://dev.to/acashjos/creating-a-web-framework-in-under-an-hour-58m)
-- [Dev.to/JS] [What&#39;s new in ES2022? 🤔](https://dev.to/jasmin/whats-new-in-es2022-1de6)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
