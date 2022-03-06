@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding Temporal Dead Zone!](https://dev.to/kothalkarpriya/understanding-temporal-dead-zone-5gjm)
+- [Dev.to/JS] [Create a folder and push multiple files under a single commit through GitHub API](https://dev.to/bro3886/create-a-folder-and-push-multiple-files-under-a-single-commit-through-github-api-23kc)
+- [Dev.to/JS] [Modern JavaScript for Everyone: Mastering Modern JavaScript the Right Way.](https://dev.to/kashuhappy/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-31o8)
 - [Dev.to/JS] [Don&#39;t run for 3rd party libraries](https://dev.to/vazsonyidl/dont-run-for-3rd-party-libraries-51i8)
 - [Dev.to/JS] [Step by Step guide on building a custom React hook in Typescript](https://dev.to/diballesteros/step-by-step-guide-on-building-a-custom-react-hook-in-typescript-1l6k)
 - [Dev.to/JS] [Let&#39;s stop saying Unit/Integration/System Tests for frontend!!](https://dev.to/hiroyone/lets-stop-saying-unitintegrationsystem-tests-for-frontend-22kd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use memo in React?](https://dev.to/asktosimon/how-to-use-memo-in-react-54n7)
 - [Dev.to/JS] [Top One Keto - Weight Loss Pills, Reviews, Results And Benefits?](https://dev.to/toponeketoinfo/top-one-keto-weight-loss-pills-reviews-results-and-benefits-4hml)
 - [Dev.to/JS] [Startup guide of Jest for testing your javascript code. &lpar;Beginner&rpar;](https://dev.to/sefatanam/startup-guid-of-jest-for-testing-your-javascript-code-beginner-49h3)
-- [Dev.to/JS] [Sweeper.js](https://dev.to/mreggo/sweeperjs-33nm)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;05-03-2022&rpar; - The WebKit browser engine lineage](https://dev.to/mjgs/this-weeks-newsletter-is-out-05-03-2022-the-webkit-browser-engine-lineage-2k96)
-- [Dev.to/JS] [Relearning Data Structures and Algorithms](https://dev.to/nicholaswma/relearning-data-structures-and-algorithms-jkf)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
