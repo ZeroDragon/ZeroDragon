@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My top 10 best vs code extensions for frontend developers](https://dev.to/connectaryal/my-top-10-best-vs-code-extensions-for-frontend-developers-39an)
 - [Dev.to/JS] [Escaping X InnerHTML](https://dev.to/skywrithin/escaping-x-innerhtml-3fbl)
 - [Dev.to/JS] [How many way to find max number in array on Javascript.](https://dev.to/yasin440/how-many-way-to-find-max-number-in-array-on-javascript-25pk)
 - [Dev.to/JS] [Day 24 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1395. Count Number of Teams&lpar;Medium/JavaScript&rpar;](https://dev.to/corndog/day-24-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1395-count-number-of-teamsmediumjavascript-19i4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build.ai &lpar;.docwrit .addvarr&rpar;](https://dev.to/jldone/buildai-docwrit-addvarr-1old)
 - [Dev.to/JS] [Apresentação e... por quê?](https://dev.to/agez0s/apresentacao-e-por-que-3e3d)
 - [Dev.to/JS] [Strings in JS](https://dev.to/moreshwar/strings-in-js-nnk)
-- [Dev.to/JS] [How to use wildcard domains with Next.js Image component](https://dev.to/bmstefanski/how-to-use-wildcard-domains-with-nextjs-image-component-5dga)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
