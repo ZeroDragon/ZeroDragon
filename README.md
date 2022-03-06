@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100 Days of Code Challenge: Day 5 &amp; 6](https://dev.to/marvinobig/100-days-of-code-challenge-day-5-6-glm)
 - [Dev.to/JS] [What&#39;s Wrong This Time? Part III: The Deep End](https://dev.to/awwsmm/whats-wrong-this-time-part-iii-the-deep-end-25in)
 - [Dev.to/JS] [Day 25 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#121. Best Time to Buy and Sell Stock&lpar;Easy/JS&rpar;](https://dev.to/corndog/day-25-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem121-best-time-to-buy-and-sell-stockeasyjs-185d)
 - [Dev.to/JS] [Introduction to React.js](https://dev.to/enajciiru/introduction-to-reactjs-336h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use PAGINATION on React](https://dev.to/slimpotatoboy/how-to-use-pagination-on-react-4nlf)
 - [Dev.to/JS] [How to solve &quot;Cannot redefine property: handler&quot; on AWS Lambda](https://dev.to/heymarkkop/how-to-solve-cannot-redefine-property-handler-on-aws-lambda-3j67)
 - [Dev.to/JS] [How Edge Computing can make the Web better](https://dev.to/peibolsang/how-edge-computing-can-make-the-web-better-6b2)
-- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 9&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-9-13id)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
