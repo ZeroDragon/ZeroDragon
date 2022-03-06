@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 9&rpar;](https://dev.to/tanvirrahman/daily-problem-solving-js-day-9-13id)
 - [Dev.to/JS] [⚡5 Ways to make App &amp; Web Debugging extremely easy⚡](https://dev.to/requestlyio/5-ways-to-make-app-web-debugging-extremely-easy-2dnh)
 - [Dev.to/JS] [Constructors vs Factory Functions!](https://dev.to/quality_pre/constructors-vs-factory-functions-2hfg)
 - [Dev.to/JS] [How to setup Prettier, ESLint, Husky and Lint-Staged with a NextJS and Typescript Project](https://dev.to/joshchu/how-to-setup-prettier-eslint-husky-and-lint-staged-with-a-nextjs-and-typescript-project-i7b)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a folder and push multiple files under a single commit through GitHub API](https://dev.to/bro3886/create-a-folder-and-push-multiple-files-under-a-single-commit-through-github-api-23kc)
 - [Dev.to/JS] [Modern JavaScript for Everyone: Mastering Modern JavaScript the Right Way.](https://dev.to/kashuhappy/modern-javascript-for-everyone-mastering-modern-javascript-the-right-way-31o8)
 - [Dev.to/JS] [Don&#39;t run for 3rd party libraries](https://dev.to/vazsonyidl/dont-run-for-3rd-party-libraries-51i8)
-- [Dev.to/JS] [Step by Step guide on building a custom React hook in Typescript](https://dev.to/diballesteros/step-by-step-guide-on-building-a-custom-react-hook-in-typescript-1l6k)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
