@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;05-03-2022&rpar; - The WebKit browser engine lineage](https://dev.to/mjgs/this-weeks-newsletter-is-out-05-03-2022-the-webkit-browser-engine-lineage-2k96)
 - [Dev.to/JS] [Relearning Data Structures and Algorithms](https://dev.to/nicholaswma/relearning-data-structures-and-algorithms-jkf)
 - [Dev.to/JS] [Frontend Rendering: SSG vs ISG vs SSR vs CSR - When to use which?](https://dev.to/ruppysuppy/frontend-rendering-ssg-vs-isg-vs-ssr-vs-csr-when-to-use-which-5jp)
 - [Dev.to/JS] [Universal Icon Picker](https://dev.to/miglisoft/universal-icon-picker-2o1l)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s new in ES2022? 🤔](https://dev.to/jasmin/whats-new-in-es2022-1de6)
 - [Dev.to/JS] [Remix - 6 recursos matadores](https://dev.to/jhonywalkeer/remix-6-recursos-matadores-27bd)
 - [Dev.to/JS] [the start of my portfolio website.](https://dev.to/baraa_baba/the-start-of-my-portfolio-website-519l)
-- [Dev.to/JS] [Animated Landing Page with JavaScript](https://dev.to/dejeffo/animated-landing-page-with-html-canvas-3coc)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
