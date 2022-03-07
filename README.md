@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [REACT -- Convert a Class Component to Functional Component with Hooks Guide w/ES6](https://dev.to/gregpetropoulos/react-convert-a-class-component-to-functional-component-with-hooks-guide-wes6-4ae0)
+- [Dev.to/JS] [Difference between find and filter method in javascript?](https://dev.to/shijug/difference-between-find-and-filter-method-in-javascript-1ddj)
+- [Dev.to/JS] [Beginner Web Dev Toolbox](https://dev.to/hosenur/beginner-web-dev-toolbox-3blp)
+- [Lifehacker] [Use This Free App to Make Your MacBook&#39;s Battery Last Longer](https://lifehacker.com/use-this-free-app-to-make-your-macbooks-battery-last-lo-1848616014)
+- [Dev.to/JS] [Clippr - Light weight url shortener](https://dev.to/imkarthikeyan/clippr-light-weight-url-shortener-560b)
+- [Lifehacker] [Save These Kitchen Scraps for Better Spaghetti Sauce](https://lifehacker.com/save-these-kitchen-scraps-for-better-spaghetti-sauce-1848616848)
 - [Dev.to/JS] [Major differences between Web 2.0 and Web 3.0](https://dev.to/klasss4web/major-differences-between-web-20-and-web-30-1l4p)
-- [Dev.to/JS] [I wanted a hat. Enter - Stackhats.dev](https://dev.to/alexinslc/i-wanted-a-hat-enter-stackhatsdev-2f13)
 - [Lifehacker] [Don&#39;t Buy These Apple Devices &lpar;Until Tomorrow&rpar;](https://lifehacker.com/dont-buy-these-apple-devices-until-tomorrow-1848616287)
 - [Dev.to/JS] [Gaming Dashboard UI Design](https://dev.to/syedsimanta03/gaming-dashboard-ui-design-3591)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 10&rpar;](https://dev.to/tanvirrahman/can-you-solve-it-js-day-10-54a5)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Your iPhone Camera From Recognizing Text Everywhere](https://lifehacker.com/how-to-stop-your-iphone-camera-from-recognizing-text-ev-1848615905)
 - [Dev.to/JS] [JS FUNDAMENTALS - If/Else vs Switch vs Ternary Operator](https://dev.to/rahimshahad/js-fundamentals-ifelse-vs-switch-vs-ternary-operator-2n1l)
 - [Dev.to/JS] [The fastest way to Host your static website](https://dev.to/devsuite/the-fastest-way-to-host-your-static-website-37ki)
-- [Dev.to/JS] [Check out my List Of JavaScript Data Visualisation Libraries!](https://dev.to/juliianikitina/check-out-my-list-of-javascript-data-visualisation-libraries-3j7f)
-- [Dev.to/JS] [Search submenu tabs with flatMap and Vuetify](https://dev.to/brunopanassi/search-on-v-tabs-submenu-vuetify-5ehp)
-- [Dev.to/JS] [NPM Complete Guide](https://dev.to/thatanjan/npm-complete-guide-21f8)
 - [Lifehacker] [6 &#39;Russian&#39; Things You&#39;re Boycotting That Aren&#39;t Actually Russian](https://lifehacker.com/6-russian-things-youre-boycotting-that-arent-actually-r-1848616315)
 - [Lifehacker] [How to Speak Your Partner&#39;s Love Language to Have Better Sex](https://lifehacker.com/how-to-speak-your-partners-love-language-to-have-better-1848591548)
 - [Lifehacker] [What Critical Race Theory Actually Means &lpar;And What It Doesn’t&rpar;](https://lifehacker.com/what-critical-race-theory-actually-means-and-what-it-d-1848616155)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)
 - [Lifehacker] [What’s Something You Learned Embarrassingly Late in Life?](https://lifehacker.com/what-s-something-you-learned-embarrassingly-late-in-lif-1848601501)
 - [Lifehacker] [How to Know When It’s Time to Upgrade Your Laptop](https://lifehacker.com/how-to-know-when-it-s-time-to-upgrade-your-laptop-1848571755)
-- [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
-- [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
-- [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)<!-- TECH-POSTS:END -->
 
 ---
 
