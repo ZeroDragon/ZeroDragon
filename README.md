@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [what I learned last week: merge sort algorithm](https://dev.to/reyes2981/what-i-learned-last-week-merge-sort-algorithm-1jb9)
+- [Dev.to/JS] [You&#39;re probably using useState the wrong way, here&#39;s why.](https://dev.to/costamatheus97/youre-probably-using-usestate-the-wrong-way-heres-why-3fh3)
+- [Lifehacker] [You Should Adjust Your Smart Home Before You Travel](https://lifehacker.com/you-should-adjust-your-smart-home-before-you-travel-1848603050)
+- [Dev.to/JS] [Learn the MERN stack - by building an Instagram clone &lpar;Part One&rpar;](https://dev.to/tylerasa/learn-the-mern-stack-by-building-an-instagram-clone-part-one-188h)
 - [Lifehacker] [How to Get Around a Paywall](https://lifehacker.com/how-to-get-around-a-paywall-1848617781)
 - [Dev.to/JS] [Day 8 of 100 Days of Code](https://dev.to/nkemdev/day-8-of-100-days-of-code-4p10)
 - [Lifehacker] [9 Things You’re Not Cleaning in Your Dishwasher &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-you-re-not-cleaning-in-your-dishwasher-but-sh-1848616966)
@@ -36,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Find path to a particular value in an Object](https://dev.to/sonai95/find-path-to-a-particular-value-in-an-object-40f5)
 - [Lifehacker] [8 of the Best Read-It-Later Apps You Should Try](https://lifehacker.com/8-of-the-best-read-it-later-apps-you-should-try-1848616538)
 - [Dev.to/JS] [Top 7 React Security Vulnerabilities](https://dev.to/sananayab/top-7-react-security-vulnerabilities-5d48)
-- [Dev.to/JS] [Differences Between Web 3.0 and WEB 2.0](https://dev.to/iyanuloluwamiracle/differences-between-web-30-and-web-20-23nh)
 - [Lifehacker] [Stop Using These Recalled Fitbits That Can Cause Burns](https://lifehacker.com/stop-using-these-recalled-fitbits-that-can-cause-burns-1848617138)
-- [Dev.to/JS] [REACT -- Convert a Class Component to Functional Component with Hooks Guide w/ES6](https://dev.to/gregpetropoulos/react-convert-a-class-component-to-functional-component-with-hooks-guide-wes6-4ae0)
-- [Dev.to/JS] [Difference between find and filter method in javascript?](https://dev.to/shijug/difference-between-find-and-filter-method-in-javascript-1ddj)
 - [Lifehacker] [Use This Free App to Make Your MacBook&#39;s Battery Last Longer](https://lifehacker.com/use-this-free-app-to-make-your-macbooks-battery-last-lo-1848616014)
 - [Lifehacker] [Save These Kitchen Scraps for Better Spaghetti Sauce](https://lifehacker.com/save-these-kitchen-scraps-for-better-spaghetti-sauce-1848616848)
 - [Lifehacker] [Don&#39;t Buy These Apple Devices &lpar;Until Tomorrow&rpar;](https://lifehacker.com/dont-buy-these-apple-devices-until-tomorrow-1848616287)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
 - [Lifehacker] [You Should Try Cognitive Behavior Therapy to Treat Your Insomnia](https://lifehacker.com/you-should-try-cognitive-behavior-therapy-to-treat-your-1848602131)
 - [Lifehacker] [What Is ‘Slugging’ &lpar;and Is It Really Good for Your Skin&rpar;?](https://lifehacker.com/what-is-slugging-and-is-it-really-good-for-your-skin-1848602292)
-- [Lifehacker] [It&#39;s Time to Stop Pre-Rinsing Your Dishes](https://lifehacker.com/its-time-to-stop-pre-rinsing-your-dishes-1848601416)
-- [Lifehacker] [7 Financial Scams, Bubbles, and Boondoggles That Are Definitely Nothing Like Cryptocurrency and NFTs](https://lifehacker.com/7-financial-scams-bubbles-and-boondoggles-that-are-de-1848596255)<!-- TECH-POSTS:END -->
+- [Lifehacker] [It&#39;s Time to Stop Pre-Rinsing Your Dishes](https://lifehacker.com/its-time-to-stop-pre-rinsing-your-dishes-1848601416)<!-- TECH-POSTS:END -->
 
 ---
 
