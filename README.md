@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #72: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-72-explica-este-codigo-javascript-3fpm)
+- [Dev.to/JS] [Building a JavaScript Countdown timer in just 10 mins](https://dev.to/kumarkalyan/building-a-javascript-countdown-timer-in-just-10-mins-jj5)
 - [Dev.to/JS] [I made an Avatar Website that insults you 🤯](https://dev.to/therobinhood/i-made-an-avatar-website-that-insults-you-52jo)
 - [Dev.to/JS] [Roadmap to become a Blockchain developer](https://dev.to/dev_hills/roadmap-to-become-a-blockchain-developer-2pfe)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😓.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1iio)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to send emails from a React application without a backend&lpar;server&rpar;.](https://dev.to/abdulwaqar844/how-to-send-emails-from-a-react-application-without-a-backendserver-29j8)
 - [Dev.to/JS] [Don&#39;t Compare Arrays with == in JavaScript](https://dev.to/rivea0/dont-compare-arrays-with-in-javascript-2jdl)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
-- [Dev.to/JS] [Future Javascript: ShadowRealms](https://dev.to/smpnjn/future-javascript-shadowrealms-20mg)
-- [Dev.to/JS] [Filter groups: The best practice of filtering just about anything](https://dev.to/jurooravec/filter-groups-the-best-practice-of-filtering-just-about-anything-18ei)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
