@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Science &amp; Algorithms: Merge Sort](https://dev.to/codingnetworks/data-science-algorithms-merge-sort-2k39)
+- [Dev.to/JS] [5 String methods every JavaScript  developer should know](https://dev.to/anshuman_bhardwaj/5-string-methods-every-javascript-developer-should-know-o2d)
 - [Dev.to/JS] [Oros CBD Gummies - Pain Relief Reviews, Price And Benefits?](https://dev.to/oroscbdfacts/oros-cbd-gummies-pain-relief-reviews-price-and-benefits-3h1c)
 - [Dev.to/JS] [Text to speech, It&#39;s so easy !](https://dev.to/maqi1520/text-to-speech-its-so-easy--59o6)
 - [Dev.to/JS] [Document.designMode, What is it?](https://dev.to/osam1010/documentdesignmode-what-is-it-26df)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [.map&lpar;&rpar; and console.log: A Love Story](https://dev.to/thomasmcdonald/map-and-consolelog-a-love-story-430o)
 - [Dev.to/JS] [Largest Student Held Hackathon In India](https://dev.to/sauravchandawad_76/largest-student-held-hackathon-in-india-1l6m)
 - [Dev.to/JS] [js store: imus](https://dev.to/larsonnn/js-store-imus-4loh)
-- [Dev.to/JS] [Day 26 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#42. Trapping Rain Water&lpar;Hard/JavaScript&rpar;](https://dev.to/devuser1/day-26-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem42-trapping-rain-waterhardjavascript-3lm6)
-- [Dev.to/JS] [Phone Plan Picker](https://dev.to/dotku/phone-plan-picker-5j3)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
