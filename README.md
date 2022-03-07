@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a REST API of History of Conflicts Using Express.js](https://dev.to/estotriramdani/build-a-rest-api-of-history-of-conflicts-using-expressjs-4jag)
+- [Dev.to/JS] [Memer Bot - Search &amp; Create Memes](https://dev.to/mtwn105/memer-bot-search-create-memes-36la)
+- [Dev.to/JS] [returning function and arguments !!!JS](https://dev.to/himanshupal0001/returning-function-and-arguments-js-4eaa)
+- [Dev.to/JS] [WebGL Grim Reaper demo](https://dev.to/keaukraine/webgl-grim-reaper-demo-14kf)
+- [Dev.to/JS] [I&#39;m 16. Made $1k+ online, 200k+ views. Launching a startup today. Here is my story…](https://dev.to/sclorenzo/im-16-made-1k-online-200k-views-launching-a-startup-today-here-is-my-story-4e92)
 - [Dev.to/JS] [Data Science &amp; Algorithms: Merge Sort](https://dev.to/codingnetworks/data-science-algorithms-merge-sort-2k39)
 - [Dev.to/JS] [5 String methods every JavaScript  developer should know](https://dev.to/anshuman_bhardwaj/5-string-methods-every-javascript-developer-should-know-o2d)
 - [Dev.to/JS] [Oros CBD Gummies - Pain Relief Reviews, Price And Benefits?](https://dev.to/oroscbdfacts/oros-cbd-gummies-pain-relief-reviews-price-and-benefits-3h1c)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Document.designMode, What is it?](https://dev.to/osam1010/documentdesignmode-what-is-it-26df)
 - [Dev.to/JS] [RxJS based state management in Angular - Part IV](https://dev.to/ayyash/rxjs-based-state-management-in-angular-part-iv-2gdl)
 - [Dev.to/JS] [{} - Object Literals in Javascript](https://dev.to/msabir/-object-literals-in-javascript-396i)
-- [Dev.to/JS] [What does the Array method `reduce` do?](https://dev.to/robin3317/what-does-the-array-method-reduce-do-15ej)
-- [Dev.to/JS] [Day 12/100, 100 Days of Code](https://dev.to/xurgg/day-12100-100-days-of-code-4dgf)
-- [Dev.to/JS] [.map&lpar;&rpar; and console.log: A Love Story](https://dev.to/thomasmcdonald/map-and-consolelog-a-love-story-430o)
-- [Dev.to/JS] [Largest Student Held Hackathon In India](https://dev.to/sauravchandawad_76/largest-student-held-hackathon-in-india-1l6m)
-- [Dev.to/JS] [js store: imus](https://dev.to/larsonnn/js-store-imus-4loh)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
