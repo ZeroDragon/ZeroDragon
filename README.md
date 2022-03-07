@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [6 &#39;Russian&#39; Things You&#39;re Boycotting That Aren&#39;t Actually Russian](https://lifehacker.com/6-russian-things-youre-boycotting-that-arent-actually-r-1848616315)
+- [Dev.to/JS] [Reat Context Api Project](https://dev.to/47karimasif/reat-context-api-project-5fml)
+- [Dev.to/JS] [Where to find Developers!? 👇](https://dev.to/keshav44483499/where-to-find-developers-1nai)
+- [Dev.to/JS] [Avoid multiple API call on Tab switching in short time span](https://dev.to/sarveshpatil/avoid-multiple-api-call-on-tab-switching-in-short-time-span-5523)
+- [Lifehacker] [How to Speak Your Partner&#39;s Love Language to Have Better Sex](https://lifehacker.com/how-to-speak-your-partners-love-language-to-have-better-1848591548)
+- [Dev.to/JS] [Building a vertical calendar with HTML, CSS &amp; JS](https://dev.to/crayoncode/building-a-vertical-calendar-with-html-css-js-2po2)
+- [Dev.to/JS] [How to solve &quot;secretOrPrivateKey must have a value&quot; in Node.js](https://dev.to/emmanuelthecoder/how-to-solve-secretorprivatekey-must-have-a-value-in-nodejs-4mpg)
+- [Lifehacker] [What Critical Race Theory Actually Means &lpar;And What It Doesn’t&rpar;](https://lifehacker.com/what-critical-race-theory-actually-means-and-what-it-d-1848616155)
 - [Dev.to/JS] [Build a React application using yarn package manager](https://dev.to/ndrohith09/build-a-react-application-using-yarn-package-manager-1k31)
 - [Dev.to/JS] [From my point of Vue: State management](https://dev.to/jesusantguerrero/from-my-point-of-vue-state-management-apj)
 - [Dev.to/JS] [Tired of circular dependency in Typescript/Node.js?](https://dev.to/tahsinature/tired-of-circular-dependency-in-typescriptnodejs-4i0a)
@@ -30,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #72: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-72-explica-este-codigo-javascript-3fpm)
 - [Dev.to/JS] [Building a JavaScript Countdown timer in just 10 mins](https://dev.to/kumarkalyan/building-a-javascript-countdown-timer-in-just-10-mins-jj5)
 - [Dev.to/JS] [I made an Avatar Website that insults you 🤯](https://dev.to/therobinhood/i-made-an-avatar-website-that-insults-you-52jo)
-- [Dev.to/JS] [Roadmap to become a Blockchain developer](https://dev.to/dev_hills/roadmap-to-become-a-blockchain-developer-2pfe)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😓.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1iio)
-- [Dev.to/JS] [[JavaScript] Accessing a primitive&#39;s prototype](https://dev.to/izabelamatos/javascript-accessing-a-primitives-prototype-19bl)
-- [Dev.to/JS] [Video: Deploy your Medusa store on Heroku in 5 minutes](https://dev.to/medusajs/video-deploy-your-medusa-store-on-heroku-in-5-minutes-3fdo)
-- [Dev.to/JS] [Top 10: Highest-paying freelance jobs in 2022](https://dev.to/join_hyve/top-10-highest-paying-freelance-jobs-in-2022-2f91)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
 - [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
 - [Crazy Programmer] [Solve Typeerror: unhashable type ‘list’ in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-unhashable-type-list.html)
-- [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
-- [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
-- [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
-- [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)<!-- TECH-POSTS:END -->
 
 ---
 
