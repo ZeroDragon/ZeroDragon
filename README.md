@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How &lpar;and When&rpar; to Get a Passport for Your Child](https://lifehacker.com/how-and-when-to-get-a-passport-for-your-child-1848617284)
+- [Dev.to/JS] [CSRF Protection in Next.js](https://dev.to/adelhamad/csrf-protection-in-nextjs-1g1m)
+- [Lifehacker] [How to Get a Second Batch of At-Home COVID Tests for Free](https://lifehacker.com/how-to-get-a-second-batch-of-at-home-covid-tests-for-fr-1848619121)
+- [Lifehacker] [How to Stop Your Hairspray From Flaking All Over You](https://lifehacker.com/how-to-stop-your-hairspray-from-flaking-all-over-you-1848616305)
+- [Dev.to/JS] [JWT in 300 Seconds](https://dev.to/nobletijan/jwt-in-300-seconds-kh2)
+- [Lifehacker] [Whatever You Do, Don’t Lease a Car Right Now](https://lifehacker.com/whatever-you-do-don-t-lease-a-car-right-now-1848617746)
 - [Dev.to/JS] [what I learned last week: merge sort algorithm](https://dev.to/reyes2981/what-i-learned-last-week-merge-sort-algorithm-1jb9)
 - [Dev.to/JS] [You&#39;re probably using useState the wrong way, here&#39;s why.](https://dev.to/costamatheus97/youre-probably-using-usestate-the-wrong-way-heres-why-3fh3)
 - [Lifehacker] [You Should Adjust Your Smart Home Before You Travel](https://lifehacker.com/you-should-adjust-your-smart-home-before-you-travel-1848603050)
@@ -37,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Coat Your Flat Roof &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-coat-your-flat-roof-and-why-you-should-1848616415)
 - [Dev.to/JS] [Stale Closures in React.useEffect&lpar;&rpar; Hook &quot;A Weird Bug for New React Learners&quot;](https://dev.to/pbucky/stale-closures-in-reactuseeffect-hook-a-weird-bug-for-new-react-learners-2n7k)
 - [Dev.to/JS] [Sobre os erros na construção de um software - a visão de um desenvolvedor Júnior](https://dev.to/eduardocappellotto/sobre-os-erros-na-construcao-de-um-software-a-visao-de-um-desenvolvedor-junior-2739)
-- [Dev.to/JS] [Find path to a particular value in an Object](https://dev.to/sonai95/find-path-to-a-particular-value-in-an-object-40f5)
 - [Lifehacker] [8 of the Best Read-It-Later Apps You Should Try](https://lifehacker.com/8-of-the-best-read-it-later-apps-you-should-try-1848616538)
-- [Dev.to/JS] [Top 7 React Security Vulnerabilities](https://dev.to/sananayab/top-7-react-security-vulnerabilities-5d48)
 - [Lifehacker] [Stop Using These Recalled Fitbits That Can Cause Burns](https://lifehacker.com/stop-using-these-recalled-fitbits-that-can-cause-burns-1848617138)
 - [Lifehacker] [Use This Free App to Make Your MacBook&#39;s Battery Last Longer](https://lifehacker.com/use-this-free-app-to-make-your-macbooks-battery-last-lo-1848616014)
 - [Lifehacker] [Save These Kitchen Scraps for Better Spaghetti Sauce](https://lifehacker.com/save-these-kitchen-scraps-for-better-spaghetti-sauce-1848616848)
@@ -58,11 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)
 - [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)
-- [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)
-- [Lifehacker] [How to Get Your Tax Refund Back ASAP](https://lifehacker.com/how-to-get-your-tax-refund-back-asap-1848603071)
-- [Lifehacker] [You Should Try Cognitive Behavior Therapy to Treat Your Insomnia](https://lifehacker.com/you-should-try-cognitive-behavior-therapy-to-treat-your-1848602131)
-- [Lifehacker] [What Is ‘Slugging’ &lpar;and Is It Really Good for Your Skin&rpar;?](https://lifehacker.com/what-is-slugging-and-is-it-really-good-for-your-skin-1848602292)
-- [Lifehacker] [It&#39;s Time to Stop Pre-Rinsing Your Dishes](https://lifehacker.com/its-time-to-stop-pre-rinsing-your-dishes-1848601416)<!-- TECH-POSTS:END -->
+- [Lifehacker] [What Even Is Ash Wednesday, Anyway?](https://lifehacker.com/what-even-is-ash-wednesday-anyway-1848603192)<!-- TECH-POSTS:END -->
 
 ---
 
