@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Coat Your Flat Roof &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-coat-your-flat-roof-and-why-you-should-1848616415)
+- [Dev.to/JS] [Stale Closures in React.useEffect&lpar;&rpar; Hook &quot;A Weird Bug for New React Learners&quot;](https://dev.to/pbucky/stale-closures-in-reactuseeffect-hook-a-weird-bug-for-new-react-learners-2n7k)
+- [Dev.to/JS] [Sobre os erros na construção de um software - a visão de um desenvolvedor Júnior](https://dev.to/eduardocappellotto/sobre-os-erros-na-construcao-de-um-software-a-visao-de-um-desenvolvedor-junior-2739)
+- [Dev.to/JS] [Find path to a particular value in an Object](https://dev.to/sonai95/find-path-to-a-particular-value-in-an-object-40f5)
+- [Lifehacker] [8 of the Best Read-It-Later Apps You Should Try](https://lifehacker.com/8-of-the-best-read-it-later-apps-you-should-try-1848616538)
+- [Dev.to/JS] [Top 7 React Security Vulnerabilities](https://dev.to/sananayab/top-7-react-security-vulnerabilities-5d48)
+- [Dev.to/JS] [Differences Between Web 3.0 and WEB 2.0](https://dev.to/iyanuloluwamiracle/differences-between-web-30-and-web-20-23nh)
+- [Lifehacker] [Stop Using These Recalled Fitbits That Can Cause Burns](https://lifehacker.com/stop-using-these-recalled-fitbits-that-can-cause-burns-1848617138)
 - [Dev.to/JS] [REACT -- Convert a Class Component to Functional Component with Hooks Guide w/ES6](https://dev.to/gregpetropoulos/react-convert-a-class-component-to-functional-component-with-hooks-guide-wes6-4ae0)
 - [Dev.to/JS] [Difference between find and filter method in javascript?](https://dev.to/shijug/difference-between-find-and-filter-method-in-javascript-1ddj)
 - [Dev.to/JS] [Beginner Web Dev Toolbox](https://dev.to/hosenur/beginner-web-dev-toolbox-3blp)
@@ -33,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Buy These Apple Devices &lpar;Until Tomorrow&rpar;](https://lifehacker.com/dont-buy-these-apple-devices-until-tomorrow-1848616287)
 - [Dev.to/JS] [Gaming Dashboard UI Design](https://dev.to/syedsimanta03/gaming-dashboard-ui-design-3591)
 - [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 10&rpar;](https://dev.to/tanvirrahman/can-you-solve-it-js-day-10-54a5)
-- [Dev.to/JS] [Day:38 Training At ryaz :               Authentication and Authorization](https://dev.to/mahin651/day38-training-at-ryaz-authentication-and-authorization-3em)
 - [Lifehacker] [How to Know If Your Tile Needs to Be Sealed](https://lifehacker.com/how-to-know-if-your-tile-needs-to-be-sealed-1848616095)
-- [Dev.to/JS] [Understanding useEffect, useRef and Custom Hooks](https://dev.to/perssondennis/understanding-useeffect-useref-and-custom-hooks-27o7)
-- [Dev.to/JS] [30 Array utility functions in JS](https://dev.to/urstrulyvishwak/some-x-array-utility-functions-in-js-2i8p)
 - [Lifehacker] [How to Stop Your iPhone Camera From Recognizing Text Everywhere](https://lifehacker.com/how-to-stop-your-iphone-camera-from-recognizing-text-ev-1848615905)
-- [Dev.to/JS] [JS FUNDAMENTALS - If/Else vs Switch vs Ternary Operator](https://dev.to/rahimshahad/js-fundamentals-ifelse-vs-switch-vs-ternary-operator-2n1l)
-- [Dev.to/JS] [The fastest way to Host your static website](https://dev.to/devsuite/the-fastest-way-to-host-your-static-website-37ki)
 - [Lifehacker] [6 &#39;Russian&#39; Things You&#39;re Boycotting That Aren&#39;t Actually Russian](https://lifehacker.com/6-russian-things-youre-boycotting-that-arent-actually-r-1848616315)
 - [Lifehacker] [How to Speak Your Partner&#39;s Love Language to Have Better Sex](https://lifehacker.com/how-to-speak-your-partners-love-language-to-have-better-1848591548)
 - [Lifehacker] [What Critical Race Theory Actually Means &lpar;And What It Doesn’t&rpar;](https://lifehacker.com/what-critical-race-theory-actually-means-and-what-it-d-1848616155)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Time to Stop Pre-Rinsing Your Dishes](https://lifehacker.com/its-time-to-stop-pre-rinsing-your-dishes-1848601416)
 - [Lifehacker] [7 Financial Scams, Bubbles, and Boondoggles That Are Definitely Nothing Like Cryptocurrency and NFTs](https://lifehacker.com/7-financial-scams-bubbles-and-boondoggles-that-are-de-1848596255)
 - [Lifehacker] [How to Automatically Delete One-Time Passwords From Google Messages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-automatically-delete-one-time-passwords-from-goo-1848601785)
-- [Lifehacker] [How to Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)
-- [Lifehacker] [What’s Something You Learned Embarrassingly Late in Life?](https://lifehacker.com/what-s-something-you-learned-embarrassingly-late-in-lif-1848601501)
-- [Lifehacker] [How to Know When It’s Time to Upgrade Your Laptop](https://lifehacker.com/how-to-know-when-it-s-time-to-upgrade-your-laptop-1848571755)
-- [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)<!-- TECH-POSTS:END -->
 
 ---
 
