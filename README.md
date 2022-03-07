@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Around a Paywall](https://lifehacker.com/how-to-get-around-a-paywall-1848617781)
+- [Dev.to/JS] [Day 8 of 100 Days of Code](https://dev.to/nkemdev/day-8-of-100-days-of-code-4p10)
+- [Lifehacker] [9 Things You’re Not Cleaning in Your Dishwasher &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-you-re-not-cleaning-in-your-dishwasher-but-sh-1848616966)
+- [Dev.to/JS] [Learning the reduce function part 3](https://dev.to/quality_pre/javascript-reduce-part-3-3moe)
+- [Dev.to/JS] [Ng-News: Issue 22/09](https://dev.to/rainerhahnekamp/ng-news-issue-2209-b48)
+- [Dev.to/JS] [vscode Extensions For Web Developers](https://dev.to/l1gend/top-5-vscode-extensions-for-web-developers-cb2)
+- [Dev.to/JS] [Will WebAssembly &lpar;Wasm&rpar; replace JavaScript?](https://dev.to/jamesuk189/will-webassembly-wasm-replace-javascript-52fb)
 - [Lifehacker] [How to Coat Your Flat Roof &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-coat-your-flat-roof-and-why-you-should-1848616415)
 - [Dev.to/JS] [Stale Closures in React.useEffect&lpar;&rpar; Hook &quot;A Weird Bug for New React Learners&quot;](https://dev.to/pbucky/stale-closures-in-reactuseeffect-hook-a-weird-bug-for-new-react-learners-2n7k)
 - [Dev.to/JS] [Sobre os erros na construção de um software - a visão de um desenvolvedor Júnior](https://dev.to/eduardocappellotto/sobre-os-erros-na-construcao-de-um-software-a-visao-de-um-desenvolvedor-junior-2739)
@@ -33,14 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using These Recalled Fitbits That Can Cause Burns](https://lifehacker.com/stop-using-these-recalled-fitbits-that-can-cause-burns-1848617138)
 - [Dev.to/JS] [REACT -- Convert a Class Component to Functional Component with Hooks Guide w/ES6](https://dev.to/gregpetropoulos/react-convert-a-class-component-to-functional-component-with-hooks-guide-wes6-4ae0)
 - [Dev.to/JS] [Difference between find and filter method in javascript?](https://dev.to/shijug/difference-between-find-and-filter-method-in-javascript-1ddj)
-- [Dev.to/JS] [Beginner Web Dev Toolbox](https://dev.to/hosenur/beginner-web-dev-toolbox-3blp)
 - [Lifehacker] [Use This Free App to Make Your MacBook&#39;s Battery Last Longer](https://lifehacker.com/use-this-free-app-to-make-your-macbooks-battery-last-lo-1848616014)
-- [Dev.to/JS] [Clippr - Light weight url shortener](https://dev.to/imkarthikeyan/clippr-light-weight-url-shortener-560b)
 - [Lifehacker] [Save These Kitchen Scraps for Better Spaghetti Sauce](https://lifehacker.com/save-these-kitchen-scraps-for-better-spaghetti-sauce-1848616848)
-- [Dev.to/JS] [Major differences between Web 2.0 and Web 3.0](https://dev.to/klasss4web/major-differences-between-web-20-and-web-30-1l4p)
 - [Lifehacker] [Don&#39;t Buy These Apple Devices &lpar;Until Tomorrow&rpar;](https://lifehacker.com/dont-buy-these-apple-devices-until-tomorrow-1848616287)
-- [Dev.to/JS] [Gaming Dashboard UI Design](https://dev.to/syedsimanta03/gaming-dashboard-ui-design-3591)
-- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 10&rpar;](https://dev.to/tanvirrahman/can-you-solve-it-js-day-10-54a5)
 - [Lifehacker] [How to Know If Your Tile Needs to Be Sealed](https://lifehacker.com/how-to-know-if-your-tile-needs-to-be-sealed-1848616095)
 - [Lifehacker] [How to Stop Your iPhone Camera From Recognizing Text Everywhere](https://lifehacker.com/how-to-stop-your-iphone-camera-from-recognizing-text-ev-1848615905)
 - [Lifehacker] [6 &#39;Russian&#39; Things You&#39;re Boycotting That Aren&#39;t Actually Russian](https://lifehacker.com/6-russian-things-youre-boycotting-that-arent-actually-r-1848616315)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Try Cognitive Behavior Therapy to Treat Your Insomnia](https://lifehacker.com/you-should-try-cognitive-behavior-therapy-to-treat-your-1848602131)
 - [Lifehacker] [What Is ‘Slugging’ &lpar;and Is It Really Good for Your Skin&rpar;?](https://lifehacker.com/what-is-slugging-and-is-it-really-good-for-your-skin-1848602292)
 - [Lifehacker] [It&#39;s Time to Stop Pre-Rinsing Your Dishes](https://lifehacker.com/its-time-to-stop-pre-rinsing-your-dishes-1848601416)
-- [Lifehacker] [7 Financial Scams, Bubbles, and Boondoggles That Are Definitely Nothing Like Cryptocurrency and NFTs](https://lifehacker.com/7-financial-scams-bubbles-and-boondoggles-that-are-de-1848596255)
-- [Lifehacker] [How to Automatically Delete One-Time Passwords From Google Messages &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-automatically-delete-one-time-passwords-from-goo-1848601785)
-- [Lifehacker] [How to Prepare Your Dog for an Extended Separation](https://lifehacker.com/how-to-prepare-your-dog-for-an-extended-separation-1848601512)<!-- TECH-POSTS:END -->
+- [Lifehacker] [7 Financial Scams, Bubbles, and Boondoggles That Are Definitely Nothing Like Cryptocurrency and NFTs](https://lifehacker.com/7-financial-scams-bubbles-and-boondoggles-that-are-de-1848596255)<!-- TECH-POSTS:END -->
 
 ---
 
