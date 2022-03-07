@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Companies That Use Node.js in 2022 Successfully](https://dev.to/joelmiller/companies-that-use-nodejs-in-2022-successfully-4jj1)
+- [Dev.to/JS] [How to send emails from a React application without a backend&lpar;server&rpar;.](https://dev.to/abdulwaqar844/how-to-send-emails-from-a-react-application-without-a-backendserver-29j8)
+- [Dev.to/JS] [Don&#39;t Compare Arrays with == in JavaScript](https://dev.to/rivea0/dont-compare-arrays-with-in-javascript-2jdl)
+- [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
+- [Dev.to/JS] [Future Javascript: ShadowRealms](https://dev.to/smpnjn/future-javascript-shadowrealms-20mg)
+- [Dev.to/JS] [Filter groups: The best practice of filtering just about anything](https://dev.to/jurooravec/filter-groups-the-best-practice-of-filtering-just-about-anything-18ei)
+- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 6&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-6-3ko8)
+- [Dev.to/JS] [Global Companies That Use React](https://dev.to/mayaburkem/global-companies-that-use-react-400d)
+- [Dev.to/JS] [Using Remix Ethereum IDE to deploy Smart Contract on Local Blockchain](https://dev.to/surajondev/using-remix-ethereum-ide-to-deploy-smart-contract-on-local-blockchain-igg)
+- [Dev.to/JS] [Tutorial - Responsive Registration Form In HTML &amp; CSS 😍](https://dev.to/rammcodes/tutorial-responsive-registration-form-in-html-css-54fk)
 - [Dev.to/JS] [Build a REST API of History of Conflicts Using Express.js](https://dev.to/estotriramdani/build-a-rest-api-of-history-of-conflicts-using-expressjs-4jag)
 - [Dev.to/JS] [Memer Bot - Search &amp; Create Memes](https://dev.to/mtwn105/memer-bot-search-create-memes-36la)
 - [Dev.to/JS] [returning function and arguments !!!JS](https://dev.to/himanshupal0001/returning-function-and-arguments-js-4eaa)
-- [Dev.to/JS] [WebGL Grim Reaper demo](https://dev.to/keaukraine/webgl-grim-reaper-demo-14kf)
-- [Dev.to/JS] [I&#39;m 16. Made $1k+ online, 200k+ views. Launching a startup today. Here is my story…](https://dev.to/sclorenzo/im-16-made-1k-online-200k-views-launching-a-startup-today-here-is-my-story-4e92)
-- [Dev.to/JS] [Data Science &amp; Algorithms: Merge Sort](https://dev.to/codingnetworks/data-science-algorithms-merge-sort-2k39)
-- [Dev.to/JS] [5 String methods every JavaScript  developer should know](https://dev.to/anshuman_bhardwaj/5-string-methods-every-javascript-developer-should-know-o2d)
-- [Dev.to/JS] [Oros CBD Gummies - Pain Relief Reviews, Price And Benefits?](https://dev.to/oroscbdfacts/oros-cbd-gummies-pain-relief-reviews-price-and-benefits-3h1c)
-- [Dev.to/JS] [Text to speech, It&#39;s so easy !](https://dev.to/maqi1520/text-to-speech-its-so-easy--59o6)
-- [Dev.to/JS] [Document.designMode, What is it?](https://dev.to/osam1010/documentdesignmode-what-is-it-26df)
-- [Dev.to/JS] [RxJS based state management in Angular - Part IV](https://dev.to/ayyash/rxjs-based-state-management-in-angular-part-iv-2gdl)
-- [Dev.to/JS] [{} - Object Literals in Javascript](https://dev.to/msabir/-object-literals-in-javascript-396i)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)
 - [Lifehacker] [Use the Air Layering Method for Low-Risk Plant Propagation](https://lifehacker.com/use-the-air-layering-method-for-low-risk-plant-propagat-1848594128)
 - [Lifehacker] [How to Fix Elden Ring&#39;s Auto-Save Bug &lpar;and Other Common Issues&rpar;](https://lifehacker.com/how-to-fix-elden-rings-auto-save-bug-and-other-common-1848596268)
-- [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)
-- [Lifehacker] [How to Choose the Right Realtor or Real Estate Agent &lpar;and What Is the Difference?&rpar;](https://lifehacker.com/how-to-choose-the-right-realtor-or-real-estate-agent-a-1848595452)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Bogleheads, Baby Steps, and Other Personal Financial Strategies You Should Know](https://lifehacker.com/bogleheads-baby-steps-and-other-personal-financial-st-1848591137)<!-- TECH-POSTS:END -->
 
 ---
 
