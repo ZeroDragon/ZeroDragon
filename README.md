@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Document.designMode, What is it?](https://dev.to/osam1010/documentdesignmode-what-is-it-26df)
+- [Dev.to/JS] [RxJS based state management in Angular - Part IV](https://dev.to/ayyash/rxjs-based-state-management-in-angular-part-iv-2gdl)
+- [Dev.to/JS] [{} - Object Literals in Javascript](https://dev.to/msabir/-object-literals-in-javascript-396i)
 - [Dev.to/JS] [What does the Array method `reduce` do?](https://dev.to/robin3317/what-does-the-array-method-reduce-do-15ej)
 - [Dev.to/JS] [Day 12/100, 100 Days of Code](https://dev.to/xurgg/day-12100-100-days-of-code-4dgf)
 - [Dev.to/JS] [.map&lpar;&rpar; and console.log: A Love Story](https://dev.to/thomasmcdonald/map-and-consolelog-a-love-story-430o)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Phone Plan Picker](https://dev.to/dotku/phone-plan-picker-5j3)
 - [Dev.to/JS] [Hide Firebase API Keys in ReactJS Project using Environment Variables](https://dev.to/ayushdev_24/hide-firebase-api-keys-in-reactjs-project-using-environment-variables-mb5)
 - [Dev.to/JS] [Spread Operator in JavaScript &lpar;...&rpar;](https://dev.to/fig781/spread-operator-in-javascript--29p)
-- [Dev.to/JS] [Understanding primitive values vs Non primitive values](https://dev.to/elukuro/understanding-primitive-values-vs-non-primitive-values-1oj6)
-- [Dev.to/JS] [Slides: &quot;SEO Essentials for Developer&quot;](https://dev.to/ilhamwahabigx/slides-seo-essentials-for-developer-1bck)
-- [Dev.to/JS] [Slides: &quot;SEO Essentials for Developer&quot;](https://dev.to/ilhamwahabigx/slides-going-forward-with-webassembly-46ie)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
