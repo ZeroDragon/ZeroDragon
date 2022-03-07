@@ -23,21 +23,23 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Know If Your Tile Needs to Be Sealed](https://lifehacker.com/how-to-know-if-your-tile-needs-to-be-sealed-1848616095)
+- [Dev.to/JS] [Understanding useEffect, useRef and Custom Hooks](https://dev.to/perssondennis/understanding-useeffect-useref-and-custom-hooks-27o7)
+- [Dev.to/JS] [30 Array utility functions in JS](https://dev.to/urstrulyvishwak/some-x-array-utility-functions-in-js-2i8p)
+- [Lifehacker] [How to Stop Your iPhone Camera From Recognizing Text Everywhere](https://lifehacker.com/how-to-stop-your-iphone-camera-from-recognizing-text-ev-1848615905)
+- [Dev.to/JS] [JS FUNDAMENTALS - If/Else vs Switch vs Ternary Operator](https://dev.to/rahimshahad/js-fundamentals-ifelse-vs-switch-vs-ternary-operator-2n1l)
+- [Dev.to/JS] [The fastest way to Host your static website](https://dev.to/devsuite/the-fastest-way-to-host-your-static-website-37ki)
+- [Dev.to/JS] [Check out my List Of JavaScript Data Visualisation Libraries!](https://dev.to/juliianikitina/check-out-my-list-of-javascript-data-visualisation-libraries-3j7f)
+- [Dev.to/JS] [Search submenu tabs with flatMap and Vuetify](https://dev.to/brunopanassi/search-on-v-tabs-submenu-vuetify-5ehp)
+- [Dev.to/JS] [NPM Complete Guide](https://dev.to/thatanjan/npm-complete-guide-21f8)
+- [Dev.to/JS] [Useful Developer Tools out there 🧡](https://dev.to/keshav44483499/useful-developer-tools-out-there-4bn)
+- [Dev.to/JS] [APIs that you should use once in your lifetime 😯](https://dev.to/keshav44483499/apis-that-you-should-use-once-in-your-lifetime-2m2)
 - [Lifehacker] [6 &#39;Russian&#39; Things You&#39;re Boycotting That Aren&#39;t Actually Russian](https://lifehacker.com/6-russian-things-youre-boycotting-that-arent-actually-r-1848616315)
 - [Dev.to/JS] [Reat Context Api Project](https://dev.to/47karimasif/reat-context-api-project-5fml)
 - [Dev.to/JS] [Where to find Developers!? 👇](https://dev.to/keshav44483499/where-to-find-developers-1nai)
 - [Dev.to/JS] [Avoid multiple API call on Tab switching in short time span](https://dev.to/sarveshpatil/avoid-multiple-api-call-on-tab-switching-in-short-time-span-5523)
 - [Lifehacker] [How to Speak Your Partner&#39;s Love Language to Have Better Sex](https://lifehacker.com/how-to-speak-your-partners-love-language-to-have-better-1848591548)
-- [Dev.to/JS] [Building a vertical calendar with HTML, CSS &amp; JS](https://dev.to/crayoncode/building-a-vertical-calendar-with-html-css-js-2po2)
-- [Dev.to/JS] [How to solve &quot;secretOrPrivateKey must have a value&quot; in Node.js](https://dev.to/emmanuelthecoder/how-to-solve-secretorprivatekey-must-have-a-value-in-nodejs-4mpg)
 - [Lifehacker] [What Critical Race Theory Actually Means &lpar;And What It Doesn’t&rpar;](https://lifehacker.com/what-critical-race-theory-actually-means-and-what-it-d-1848616155)
-- [Dev.to/JS] [Build a React application using yarn package manager](https://dev.to/ndrohith09/build-a-react-application-using-yarn-package-manager-1k31)
-- [Dev.to/JS] [From my point of Vue: State management](https://dev.to/jesusantguerrero/from-my-point-of-vue-state-management-apj)
-- [Dev.to/JS] [Tired of circular dependency in Typescript/Node.js?](https://dev.to/tahsinature/tired-of-circular-dependency-in-typescriptnodejs-4i0a)
-- [Dev.to/JS] [JavaScript methods for finding elements](https://dev.to/thenerdydev/javascript-methods-for-finding-elements-1j21)
-- [Dev.to/JS] [Paracetamol.js💊| #72: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-72-explica-este-codigo-javascript-3fpm)
-- [Dev.to/JS] [Building a JavaScript Countdown timer in just 10 mins](https://dev.to/kumarkalyan/building-a-javascript-countdown-timer-in-just-10-mins-jj5)
-- [Dev.to/JS] [I made an Avatar Website that insults you 🤯](https://dev.to/therobinhood/i-made-an-avatar-website-that-insults-you-52jo)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
 - [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
-- [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)
-- [Crazy Programmer] [Solve Typeerror: unhashable type ‘list’ in Python](https://www.thecrazyprogrammer.com/2022/02/typeerror-unhashable-type-list.html)
-- [Lifehacker] [Why You Need Boredom Time Every Week](https://lifehacker.com/why-you-need-boredom-time-every-week-1848594122)<!-- TECH-POSTS:END -->
+- [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)<!-- TECH-POSTS:END -->
 
 ---
 
