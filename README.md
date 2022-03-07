@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What does the Array method `reduce` do?](https://dev.to/robin3317/what-does-the-array-method-reduce-do-15ej)
 - [Dev.to/JS] [Day 12/100, 100 Days of Code](https://dev.to/xurgg/day-12100-100-days-of-code-4dgf)
 - [Dev.to/JS] [.map&lpar;&rpar; and console.log: A Love Story](https://dev.to/thomasmcdonald/map-and-consolelog-a-love-story-430o)
 - [Dev.to/JS] [Largest Student Held Hackathon In India](https://dev.to/sauravchandawad_76/largest-student-held-hackathon-in-india-1l6m)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding primitive values vs Non primitive values](https://dev.to/elukuro/understanding-primitive-values-vs-non-primitive-values-1oj6)
 - [Dev.to/JS] [Slides: &quot;SEO Essentials for Developer&quot;](https://dev.to/ilhamwahabigx/slides-seo-essentials-for-developer-1bck)
 - [Dev.to/JS] [Slides: &quot;SEO Essentials for Developer&quot;](https://dev.to/ilhamwahabigx/slides-going-forward-with-webassembly-46ie)
-- [Dev.to/JS] [mobile responsive   portfolio #2](https://dev.to/baraa_baba/mobile-responsive-portfolio-2-44in)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
