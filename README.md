@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Largest Student Held Hackathon In India](https://dev.to/sauravchandawad_76/largest-student-held-hackathon-in-india-1l6m)
+- [Dev.to/JS] [js store: imus](https://dev.to/larsonnn/js-store-imus-4loh)
+- [Dev.to/JS] [Day 26 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#42. Trapping Rain Water&lpar;Hard/JavaScript&rpar;](https://dev.to/devuser1/day-26-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem42-trapping-rain-waterhardjavascript-3lm6)
+- [Dev.to/JS] [Phone Plan Picker](https://dev.to/dotku/phone-plan-picker-5j3)
+- [Dev.to/JS] [Hide Firebase API Keys in ReactJS Project using Environment Variables](https://dev.to/ayushdev_24/hide-firebase-api-keys-in-reactjs-project-using-environment-variables-mb5)
 - [Dev.to/JS] [Spread Operator in JavaScript &lpar;...&rpar;](https://dev.to/fig781/spread-operator-in-javascript--29p)
 - [Dev.to/JS] [Understanding primitive values vs Non primitive values](https://dev.to/elukuro/understanding-primitive-values-vs-non-primitive-values-1oj6)
 - [Dev.to/JS] [Slides: &quot;SEO Essentials for Developer&quot;](https://dev.to/ilhamwahabigx/slides-seo-essentials-for-developer-1bck)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [mobile responsive   portfolio #2](https://dev.to/baraa_baba/mobile-responsive-portfolio-2-44in)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 5 &amp; 6](https://dev.to/marvinobig/100-days-of-code-challenge-day-5-6-glm)
 - [Dev.to/JS] [What&#39;s Wrong This Time? Part III: The Deep End](https://dev.to/awwsmm/whats-wrong-this-time-part-iii-the-deep-end-25in)
-- [Dev.to/JS] [Day 25 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#121. Best Time to Buy and Sell Stock&lpar;Easy/JS&rpar;](https://dev.to/devuser1/day-25-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem121-best-time-to-buy-and-sell-stockeasyjs-185d)
-- [Dev.to/JS] [Introduction to React.js](https://dev.to/enajciiru/introduction-to-reactjs-336h)
-- [Dev.to/JS] [ES2022 Features](https://dev.to/dhanushnehru/es2022-features-4ekc)
-- [Dev.to/JS] [How to become a Blockchain Developer ?](https://dev.to/shubhamathawane/how-to-become-a-blockchain-developer--1p0b)
-- [Dev.to/JS] [Weekly Digest 09/2022](https://dev.to/marcobiedermann/weekly-digest-092022-5cn6)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
