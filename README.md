@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 12/100, 100 Days of Code](https://dev.to/xurgg/day-12100-100-days-of-code-4dgf)
+- [Dev.to/JS] [.map&lpar;&rpar; and console.log: A Love Story](https://dev.to/thomasmcdonald/map-and-consolelog-a-love-story-430o)
 - [Dev.to/JS] [Largest Student Held Hackathon In India](https://dev.to/sauravchandawad_76/largest-student-held-hackathon-in-india-1l6m)
 - [Dev.to/JS] [js store: imus](https://dev.to/larsonnn/js-store-imus-4loh)
 - [Dev.to/JS] [Day 26 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#42. Trapping Rain Water&lpar;Hard/JavaScript&rpar;](https://dev.to/devuser1/day-26-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem42-trapping-rain-waterhardjavascript-3lm6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Slides: &quot;SEO Essentials for Developer&quot;](https://dev.to/ilhamwahabigx/slides-seo-essentials-for-developer-1bck)
 - [Dev.to/JS] [Slides: &quot;SEO Essentials for Developer&quot;](https://dev.to/ilhamwahabigx/slides-going-forward-with-webassembly-46ie)
 - [Dev.to/JS] [mobile responsive   portfolio #2](https://dev.to/baraa_baba/mobile-responsive-portfolio-2-44in)
-- [Dev.to/JS] [100 Days of Code Challenge: Day 5 &amp; 6](https://dev.to/marvinobig/100-days-of-code-challenge-day-5-6-glm)
-- [Dev.to/JS] [What&#39;s Wrong This Time? Part III: The Deep End](https://dev.to/awwsmm/whats-wrong-this-time-part-iii-the-deep-end-25in)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
