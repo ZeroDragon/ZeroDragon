@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made an Avatar Website that insults you 🤯](https://dev.to/therobinhood/i-made-an-avatar-website-that-insults-you-52jo)
 - [Dev.to/JS] [Roadmap to become a Blockchain developer](https://dev.to/dev_hills/roadmap-to-become-a-blockchain-developer-2pfe)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😓.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1iio)
 - [Dev.to/JS] [[JavaScript] Accessing a primitive&#39;s prototype](https://dev.to/izabelamatos/javascript-accessing-a-primitives-prototype-19bl)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Dev.to/JS] [Future Javascript: ShadowRealms](https://dev.to/smpnjn/future-javascript-shadowrealms-20mg)
 - [Dev.to/JS] [Filter groups: The best practice of filtering just about anything](https://dev.to/jurooravec/filter-groups-the-best-practice-of-filtering-just-about-anything-18ei)
-- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 6&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-6-3ko8)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
