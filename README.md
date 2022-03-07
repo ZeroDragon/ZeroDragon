@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Major differences between Web 2.0 and Web 3.0](https://dev.to/klasss4web/major-differences-between-web-20-and-web-30-1l4p)
+- [Dev.to/JS] [I wanted a hat. Enter - Stackhats.dev](https://dev.to/alexinslc/i-wanted-a-hat-enter-stackhatsdev-2f13)
+- [Lifehacker] [Don&#39;t Buy These Apple Devices &lpar;Until Tomorrow&rpar;](https://lifehacker.com/dont-buy-these-apple-devices-until-tomorrow-1848616287)
+- [Dev.to/JS] [Gaming Dashboard UI Design](https://dev.to/syedsimanta03/gaming-dashboard-ui-design-3591)
+- [Dev.to/JS] [Daily Problem Solving — JS &lpar;Day 10&rpar;](https://dev.to/tanvirrahman/can-you-solve-it-js-day-10-54a5)
+- [Dev.to/JS] [Day:38 Training At ryaz :               Authentication and Authorization](https://dev.to/mahin651/day38-training-at-ryaz-authentication-and-authorization-3em)
 - [Lifehacker] [How to Know If Your Tile Needs to Be Sealed](https://lifehacker.com/how-to-know-if-your-tile-needs-to-be-sealed-1848616095)
 - [Dev.to/JS] [Understanding useEffect, useRef and Custom Hooks](https://dev.to/perssondennis/understanding-useeffect-useref-and-custom-hooks-27o7)
 - [Dev.to/JS] [30 Array utility functions in JS](https://dev.to/urstrulyvishwak/some-x-array-utility-functions-in-js-2i8p)
@@ -32,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Check out my List Of JavaScript Data Visualisation Libraries!](https://dev.to/juliianikitina/check-out-my-list-of-javascript-data-visualisation-libraries-3j7f)
 - [Dev.to/JS] [Search submenu tabs with flatMap and Vuetify](https://dev.to/brunopanassi/search-on-v-tabs-submenu-vuetify-5ehp)
 - [Dev.to/JS] [NPM Complete Guide](https://dev.to/thatanjan/npm-complete-guide-21f8)
-- [Dev.to/JS] [Useful Developer Tools out there 🧡](https://dev.to/keshav44483499/useful-developer-tools-out-there-4bn)
-- [Dev.to/JS] [APIs that you should use once in your lifetime 😯](https://dev.to/keshav44483499/apis-that-you-should-use-once-in-your-lifetime-2m2)
 - [Lifehacker] [6 &#39;Russian&#39; Things You&#39;re Boycotting That Aren&#39;t Actually Russian](https://lifehacker.com/6-russian-things-youre-boycotting-that-arent-actually-r-1848616315)
-- [Dev.to/JS] [Reat Context Api Project](https://dev.to/47karimasif/reat-context-api-project-5fml)
-- [Dev.to/JS] [Where to find Developers!? 👇](https://dev.to/keshav44483499/where-to-find-developers-1nai)
-- [Dev.to/JS] [Avoid multiple API call on Tab switching in short time span](https://dev.to/sarveshpatil/avoid-multiple-api-call-on-tab-switching-in-short-time-span-5523)
 - [Lifehacker] [How to Speak Your Partner&#39;s Love Language to Have Better Sex](https://lifehacker.com/how-to-speak-your-partners-love-language-to-have-better-1848591548)
 - [Lifehacker] [What Critical Race Theory Actually Means &lpar;And What It Doesn’t&rpar;](https://lifehacker.com/what-critical-race-theory-actually-means-and-what-it-d-1848616155)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Know When It’s Time to Upgrade Your Laptop](https://lifehacker.com/how-to-know-when-it-s-time-to-upgrade-your-laptop-1848571755)
 - [Lifehacker] [How to Decode Building Codes &lpar;and Why You Should Care&rpar;](https://lifehacker.com/how-to-decode-building-codes-and-why-you-should-care-1848598207)
 - [Lifehacker] [You Should Be Safer at the Grocery Store](https://lifehacker.com/you-should-be-safer-at-the-grocery-store-1848598210)
-- [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)
-- [Lifehacker] [How to Make Your Accent Wall Look Intentional, Not Like an Accident](https://lifehacker.com/how-to-make-your-accent-wall-look-intentional-not-like-1848598136)<!-- TECH-POSTS:END -->
+- [Lifehacker] [All the Clever Ways You Can Use Glycerin Around Your House](https://lifehacker.com/all-the-clever-ways-you-can-use-glycerin-around-your-ho-1848598215)<!-- TECH-POSTS:END -->
 
 ---
 
