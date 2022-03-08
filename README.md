@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Todo en JavaScript es un objeto?](https://dev.to/jfernandogt/todo-en-javascript-es-un-objeto-a9i)
+- [Dev.to/JS] [⚡️ How to Detect Device Orientation with Javascript](https://dev.to/smpnjn/how-to-detect-device-orientation-with-javascript-29e5)
+- [Lifehacker] [Give Your Sandwich More Texture by Adding ‘Planks’ of Iceberg Lettuce](https://lifehacker.com/give-your-sandwich-more-texture-by-adding-planks-of-i-1848618393)
+- [Dev.to/JS] [An Appreciation of ReactJS](https://dev.to/adeleke5140/an-appreciation-of-reactjs-1jg5)
+- [Dev.to/JS] [You’re  One Import Away From Managing Global State In React](https://dev.to/yezyilomo/youre-one-import-away-from-managing-global-state-in-react-5327)
+- [Dev.to/JS] [Creating a Tear-off Calendar with Azure Functions](https://dev.to/curiousdev/creating-a-tear-off-calendar-with-azure-functions-5eo6)
+- [Dev.to/JS] [en el formulario 8-K de la empresa](https://dev.to/lavozmedellin/en-el-formulario-8-k-de-la-empresa-43j7)
 - [Lifehacker] [9 Vegetables You Should Plant Right Now to Be Ready for Spring](https://lifehacker.com/9-vegetables-you-should-plant-right-now-to-be-ready-for-1848617054)
+- [Dev.to/JS] [as capacidades de las instalaciones](https://dev.to/lavozmedellin/as-capacidades-de-las-instalaciones-3e2a)
+- [Dev.to/JS] [cree&quot; o variaciones &lpar;incluyendo variaciones negativas&rpar;](https://dev.to/lavozmedellin/cree-o-variaciones-incluyendo-variaciones-negativas-le4)
+- [Dev.to/JS] [Información prospectiva](https://dev.to/lavozmedellin/informacion-prospectiva-n1o)
 - [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 1](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-1-1n6p)
 - [Dev.to/JS] [Gaming Dashboard UI](https://dev.to/syedsimanta03/gaming-dashboard-ui-2d26)
 - [Dev.to/JS] [How Can You Engage Customers with Personalized Real-time Sportsbook Data?](https://dev.to/push_technology/how-can-you-engage-customers-with-personalized-real-time-sportsbook-data-1io1)
-- [Dev.to/JS] [Testes de APIs com Cypress: Criando comandos personalizados](https://dev.to/m4rri4nne/testes-de-apis-com-cypress-criando-comandos-personalizados-3m7p)
-- [Dev.to/JS] [Expand Collapse Element / Section using 4 Css Properties](https://dev.to/dasaradhanimmala/expand-collapse-element-section-using-4-css-properties-4iek)
-- [Dev.to/JS] [Typescript Tuples, and how they work](https://dev.to/smpnjn/typescript-tuples-and-how-they-work-5fe5)
-- [Dev.to/JS] [A Fundamental Guide To React Suspense](https://dev.to/keraito/a-fundamental-guide-to-react-suspense-bn2)
-- [Dev.to/JS] [Starting with typescritp](https://dev.to/ramclen/starting-with-typescritp-2aj5)
-- [Dev.to/JS] [Developing NFT marketplace: code&lpar;C++,JavaScript,Python&rpar; vs no-code&lpar;No-Code NFT Launchpad&rpar;](https://dev.to/gracesh58738133/developing-nft-marketplace-codecjavascriptpython-vs-no-codeno-code-nft-launchpad-51cg)
-- [Dev.to/JS] [cz-git, A lazy man&#39;s commitizen adapter.](https://dev.to/zhengqbbb/cz-git-a-lazy-mans-commitizen-adapter-1bmd)
-- [Dev.to/JS] [Secret Ways Of Adsense To Earn 100$ a day](https://dev.to/kavyargb/secret-ways-of-adsense-to-earn-100-a-day-4jil)
-- [Dev.to/JS] [Gemini Keto Gummies - &lpar;Pros and cons&rpar; Results, Price, Is It  Legit Or Scam?](https://dev.to/geminiketoinfo/gemini-keto-gummies-pros-and-cons-results-price-is-it-legit-or-scam-322p)
 - [Lifehacker] [How to Set Up Your Own Parental Controls on Oculus Quest](https://lifehacker.com/how-to-set-up-your-own-parental-controls-on-oculus-ques-1848617852)
 - [Lifehacker] [How &lpar;and When&rpar; to Get a Passport for Your Child](https://lifehacker.com/how-and-when-to-get-a-passport-for-your-child-1848617284)
 - [Lifehacker] [How to Get a Second Batch of At-Home COVID Tests for Free](https://lifehacker.com/how-to-get-a-second-batch-of-at-home-covid-tests-for-fr-1848619121)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
 - [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
-- [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
 
