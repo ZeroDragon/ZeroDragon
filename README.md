@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [what is the best java coding site to use](https://dev.to/looph8le/what-is-the-best-java-coding-site-to-use-574p)
+- [Dev.to/JS] [Common React Mistakes and the Student Software Engineer](https://dev.to/wwwestin/common-react-mistakes-and-the-student-software-engineer-4ah5)
 - [Dev.to/JS] [Exploding Circles](https://dev.to/zevanrosser/exploding-circles-5dfm)
 - [Dev.to/JS] [Azure Trial Hackathon - EmotionalSound - perfect spotify song for your emotions](https://dev.to/marcobertelli/azure-trial-hackathon-emotionalsound-perfect-spotify-song-for-your-emotions-4eg2)
 - [Lifehacker] [How to Set Up Your Own Parental Controls on Oculus Quest](https://lifehacker.com/how-to-set-up-your-own-parental-controls-on-oculus-ques-1848617852)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Things You’re Not Cleaning in Your Dishwasher &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-you-re-not-cleaning-in-your-dishwasher-but-sh-1848616966)
 - [Dev.to/JS] [Learning the reduce function part 3](https://dev.to/quality_pre/javascript-reduce-part-3-3moe)
 - [Dev.to/JS] [Ng-News: Issue 22/09](https://dev.to/rainerhahnekamp/ng-news-issue-2209-b48)
-- [Dev.to/JS] [vscode Extensions For Web Developers](https://dev.to/l1gend/top-5-vscode-extensions-for-web-developers-cb2)
-- [Dev.to/JS] [Will WebAssembly &lpar;Wasm&rpar; replace JavaScript?](https://dev.to/jamesuk189/will-webassembly-wasm-replace-javascript-52fb)
 - [Lifehacker] [How to Coat Your Flat Roof &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-coat-your-flat-roof-and-why-you-should-1848616415)
 - [Lifehacker] [8 of the Best Read-It-Later Apps You Should Try](https://lifehacker.com/8-of-the-best-read-it-later-apps-you-should-try-1848616538)
 - [Lifehacker] [Stop Using These Recalled Fitbits That Can Cause Burns](https://lifehacker.com/stop-using-these-recalled-fitbits-that-can-cause-burns-1848617138)
