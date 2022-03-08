@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The New Windows 11 Keyboard Shortcuts You Should Actually Use](https://lifehacker.com/the-new-windows-11-keyboard-shortcuts-you-should-actual-1848620565)
+- [Dev.to/JS] [Error consuming node API with react](https://dev.to/gustavoerosa/error-consuming-node-api-with-react-847)
+- [Dev.to/JS] [Hello world in Solidity](https://dev.to/dev_hills/hello-world-in-solidity-11kl)
+- [Lifehacker] [Why You Shouldn&#39;t Swerve Around Deer &lpar;or Other Animals&rpar; in the Road](https://lifehacker.com/why-you-shouldnt-swerve-around-deer-or-other-animals-1848621931)
+- [Dev.to/JS] [LoginID biometric authentication Web SDK tutorial](https://dev.to/loginid/loginid-biometric-authentication-web-sdk-tutorial-1049)
 - [Lifehacker] [How to Keep a Straw From Floating Out of Your Soda Can](https://lifehacker.com/how-to-keep-a-straw-from-floating-out-of-your-soda-can-1848618851)
 - [Dev.to/JS] [Median of Two Sorted Arrays](https://dev.to/seth_king/median-of-two-sorted-arrays-3b1i)
 - [Dev.to/JS] [@Forty-boy/SQL](https://dev.to/blazerowland/forty-boysql-2dm8)
@@ -35,13 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tensorflow.js: Building a quick and dirty stock market predictor](https://dev.to/kpulkit29/tensorflowjs-building-a-quick-and-dirty-stock-market-predictor-2d4f)
 - [Dev.to/JS] [Creating a Simple REST API - Part 2](https://dev.to/noopur0210/creating-a-simple-rest-api-part-2-48a)
 - [Lifehacker] [How to Remove the Recycle Bin on Windows &lpar;and Why You Actually Should&rpar;](https://lifehacker.com/how-to-remove-the-recycle-bin-on-windows-and-why-you-a-1848620820)
-- [Dev.to/JS] [Javascript Array Methods Ep.4](https://dev.to/theadeshkhanna/javascript-array-methods-ep4-20a8)
-- [Dev.to/JS] [Day:39 Training At Ryaz:Authentication and Authorization](https://dev.to/mahin651/day39-training-at-ryazauthentication-and-authorization-5a7j)
-- [Dev.to/JS] [Local constants in Svelte with the @const tag](https://dev.to/geoffrich/local-constants-in-svelte-with-the-const-tag-35g2)
 - [Lifehacker] [This Is the Fastest Way to Merge PDFs on a Mac](https://lifehacker.com/this-is-the-fastest-way-to-merge-pdfs-on-a-mac-1848620856)
 - [Lifehacker] [The Clever Way to Send High-Res Photos on WhatsApp](https://lifehacker.com/the-clever-way-to-send-high-res-photos-on-whatsapp-1848620447)
 - [Lifehacker] [20 Weeds in Your Garden That You Really Shouldn&#39;t Kill](https://lifehacker.com/20-weeds-in-your-garden-that-you-really-shouldnt-kill-1848617554)
-- [Lifehacker] [12 Awful Informercial Products Millions of People Still Bought](https://lifehacker.com/12-awful-informercial-products-millions-of-people-still-1848620085)
+- [Lifehacker] [12 Awful Infomercial Products Millions of People Still Bought](https://lifehacker.com/12-awful-informercial-products-millions-of-people-still-1848620085)
 - [Lifehacker] [The Best Morning Routine for Anyone Who Sucks at Morning Routines](https://lifehacker.com/the-best-morning-routine-for-anyone-who-sucks-at-mornin-1848617794)
 - [Lifehacker] [11 Things Lifehacker Readers Learned Embarrassingly Late in Life](https://lifehacker.com/11-things-lifehacker-readers-learned-embarrassingly-lat-1848617230)
 - [Lifehacker] [Give Your Sandwich More Texture by Adding ‘Planks’ of Iceberg Lettuce](https://lifehacker.com/give-your-sandwich-more-texture-by-adding-planks-of-i-1848618393)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of the Best Read-It-Later Apps You Should Try](https://lifehacker.com/8-of-the-best-read-it-later-apps-you-should-try-1848616538)
 - [Lifehacker] [Stop Using These Recalled Fitbits That Can Cause Burns](https://lifehacker.com/stop-using-these-recalled-fitbits-that-can-cause-burns-1848617138)
 - [Lifehacker] [Use This Free App to Make Your MacBook&#39;s Battery Last Longer](https://lifehacker.com/use-this-free-app-to-make-your-macbooks-battery-last-lo-1848616014)
-- [Lifehacker] [Save These Kitchen Scraps for Better Spaghetti Sauce](https://lifehacker.com/save-these-kitchen-scraps-for-better-spaghetti-sauce-1848616848)
-- [Lifehacker] [Don&#39;t Buy These Apple Devices &lpar;Until Tomorrow&rpar;](https://lifehacker.com/dont-buy-these-apple-devices-until-tomorrow-1848616287)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
