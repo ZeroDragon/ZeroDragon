@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flattening an object](https://dev.to/sonai95/flattening-an-object-2ffh)
+- [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
+- [Dev.to/JS] [Executing Shell Scripts with NodeJS](https://dev.to/aabhassao/executing-shell-scripts-with-nodejs-4od6)
+- [Dev.to/JS] [Fetch Requests Taught Me the Importance Of console.log&lpar;&rpar;](https://dev.to/marskimiko/fetch-requests-taught-me-the-importance-of-consolelog-351m)
 - [Lifehacker] [The New Windows 11 Keyboard Shortcuts You Should Actually Use](https://lifehacker.com/the-new-windows-11-keyboard-shortcuts-you-should-actual-1848620565)
-- [Dev.to/JS] [Error consuming node API with react](https://dev.to/gustavoerosa/error-consuming-node-api-with-react-847)
 - [Dev.to/JS] [Hello world in Solidity](https://dev.to/dev_hills/hello-world-in-solidity-11kl)
 - [Lifehacker] [Why You Shouldn&#39;t Swerve Around Deer &lpar;or Other Animals&rpar; in the Road](https://lifehacker.com/why-you-shouldnt-swerve-around-deer-or-other-animals-1848621931)
 - [Dev.to/JS] [LoginID biometric authentication Web SDK tutorial](https://dev.to/loginid/loginid-biometric-authentication-web-sdk-tutorial-1049)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tech world, where I going to learn until the last day of my life. By {Jeanecvh}](https://dev.to/jeanecvh/tech-world-where-i-going-to-learn-until-the-last-day-of-my-life-by-jeanecvh-1j0a)
 - [Dev.to/JS] [has no network configuration for its current network id &lpar;5777&rpar;.](https://dev.to/saeedjaafari_93/has-no-network-configuration-for-its-current-network-id-5777-49da)
 - [Dev.to/JS] [A Simple Introduction to Redux!](https://dev.to/anuraggharat/a-simple-introduction-to-redux-1f4f)
-- [Dev.to/JS] [Tensorflow.js: Building a quick and dirty stock market predictor](https://dev.to/kpulkit29/tensorflowjs-building-a-quick-and-dirty-stock-market-predictor-2d4f)
-- [Dev.to/JS] [Creating a Simple REST API - Part 2](https://dev.to/noopur0210/creating-a-simple-rest-api-part-2-48a)
 - [Lifehacker] [How to Remove the Recycle Bin on Windows &lpar;and Why You Actually Should&rpar;](https://lifehacker.com/how-to-remove-the-recycle-bin-on-windows-and-why-you-a-1848620820)
 - [Lifehacker] [This Is the Fastest Way to Merge PDFs on a Mac](https://lifehacker.com/this-is-the-fastest-way-to-merge-pdfs-on-a-mac-1848620856)
 - [Lifehacker] [The Clever Way to Send High-Res Photos on WhatsApp](https://lifehacker.com/the-clever-way-to-send-high-res-photos-on-whatsapp-1848620447)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Coat Your Flat Roof &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-coat-your-flat-roof-and-why-you-should-1848616415)
 - [Lifehacker] [8 of the Best Read-It-Later Apps You Should Try](https://lifehacker.com/8-of-the-best-read-it-later-apps-you-should-try-1848616538)
 - [Lifehacker] [Stop Using These Recalled Fitbits That Can Cause Burns](https://lifehacker.com/stop-using-these-recalled-fitbits-that-can-cause-burns-1848617138)
-- [Lifehacker] [Use This Free App to Make Your MacBook&#39;s Battery Last Longer](https://lifehacker.com/use-this-free-app-to-make-your-macbooks-battery-last-lo-1848616014)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
