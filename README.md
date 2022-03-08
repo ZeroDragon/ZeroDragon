@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gemini Keto Gummies - &lpar;Pros and cons&rpar; Results, Price, Is It  Legit Or Scam?](https://dev.to/geminiketoinfo/gemini-keto-gummies-pros-and-cons-results-price-is-it-legit-or-scam-322p)
+- [Dev.to/JS] [Do you know history.back&lpar;&rpar; in JavaScript?](https://dev.to/codewithsnowbit/do-you-know-historyback-in-javascript-2hbp)
 - [Dev.to/JS] [Method vs Function in Javascript](https://dev.to/msabir/method-vs-function-in-javascript-1emk)
 - [Dev.to/JS] [Working at SuperTokens as a Developer Advocate](https://dev.to/tyaga001/working-at-supertokens-as-a-developer-advocate-2jp0)
 - [Dev.to/JS] [Calling Alpine.js methods from third-party scripts](https://dev.to/gauravmak/calling-alpinejs-methods-from-third-party-scripts-2265)
@@ -35,10 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Azure Trial Hackathon - EmotionalSound - perfect spotify song for your emotions](https://dev.to/marcobertelli/azure-trial-hackathon-emotionalsound-perfect-spotify-song-for-your-emotions-4eg2)
 - [Lifehacker] [How to Set Up Your Own Parental Controls on Oculus Quest](https://lifehacker.com/how-to-set-up-your-own-parental-controls-on-oculus-ques-1848617852)
 - [Lifehacker] [How &lpar;and When&rpar; to Get a Passport for Your Child](https://lifehacker.com/how-and-when-to-get-a-passport-for-your-child-1848617284)
-- [Dev.to/JS] [CSRF Protection in Next.js](https://dev.to/adelhamad/csrf-protection-in-nextjs-1g1m)
 - [Lifehacker] [How to Get a Second Batch of At-Home COVID Tests for Free](https://lifehacker.com/how-to-get-a-second-batch-of-at-home-covid-tests-for-fr-1848619121)
 - [Lifehacker] [How to Stop Your Hairspray From Flaking All Over You](https://lifehacker.com/how-to-stop-your-hairspray-from-flaking-all-over-you-1848616305)
-- [Dev.to/JS] [JWT in 300 Seconds](https://dev.to/nobletijan/jwt-in-300-seconds-kh2)
 - [Lifehacker] [Whatever You Do, Don’t Lease a Car Right Now](https://lifehacker.com/whatever-you-do-don-t-lease-a-car-right-now-1848617746)
 - [Lifehacker] [You Should Adjust Your Smart Home Before You Travel](https://lifehacker.com/you-should-adjust-your-smart-home-before-you-travel-1848603050)
 - [Lifehacker] [How to Get Around a Paywall](https://lifehacker.com/how-to-get-around-a-paywall-1848617781)
