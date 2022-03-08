@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
+- [Dev.to/JS] [Svelte.js Guide](https://dev.to/dsalinasgardon/sveltejs-guide-5h7e)
+- [Dev.to/JS] [What is Github actions?](https://dev.to/hshoja/what-is-github-actions-59ec)
 - [Dev.to/JS] [Flattening an object](https://dev.to/sonai95/flattening-an-object-2ffh)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
 - [Dev.to/JS] [Executing Shell Scripts with NodeJS](https://dev.to/aabhassao/executing-shell-scripts-with-nodejs-4od6)
@@ -33,13 +36,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LoginID biometric authentication Web SDK tutorial](https://dev.to/loginid/loginid-biometric-authentication-web-sdk-tutorial-1049)
 - [Lifehacker] [How to Keep a Straw From Floating Out of Your Soda Can](https://lifehacker.com/how-to-keep-a-straw-from-floating-out-of-your-soda-can-1848618851)
 - [Dev.to/JS] [Median of Two Sorted Arrays](https://dev.to/seth_king/median-of-two-sorted-arrays-3b1i)
-- [Dev.to/JS] [@Forty-boy/SQL](https://dev.to/blazerowland/forty-boysql-2dm8)
+- [Dev.to/JS] [Creating a Node.js SQL Library](https://dev.to/blazerowland/forty-boysql-2dm8)
 - [Dev.to/JS] [Altify Development Account Generator](https://dev.to/altify/altify-development-account-generator-jfo)
 - [Dev.to/JS] [Bucket list REST API](https://dev.to/krishnapankhania/bucket-list-rest-api-3k61)
 - [Lifehacker] [You’re Not Replacing Your Loofah Often Enough &lpar;and How to Clean One&rpar;](https://lifehacker.com/you-re-not-replacing-your-loofah-often-enough-and-how-1848622024)
 - [Dev.to/JS] [Tech world, where I going to learn until the last day of my life. By {Jeanecvh}](https://dev.to/jeanecvh/tech-world-where-i-going-to-learn-until-the-last-day-of-my-life-by-jeanecvh-1j0a)
-- [Dev.to/JS] [has no network configuration for its current network id &lpar;5777&rpar;.](https://dev.to/saeedjaafari_93/has-no-network-configuration-for-its-current-network-id-5777-49da)
-- [Dev.to/JS] [A Simple Introduction to Redux!](https://dev.to/anuraggharat/a-simple-introduction-to-redux-1f4f)
 - [Lifehacker] [How to Remove the Recycle Bin on Windows &lpar;and Why You Actually Should&rpar;](https://lifehacker.com/how-to-remove-the-recycle-bin-on-windows-and-why-you-a-1848620820)
 - [Lifehacker] [This Is the Fastest Way to Merge PDFs on a Mac](https://lifehacker.com/this-is-the-fastest-way-to-merge-pdfs-on-a-mac-1848620856)
 - [Lifehacker] [The Clever Way to Send High-Res Photos on WhatsApp](https://lifehacker.com/the-clever-way-to-send-high-res-photos-on-whatsapp-1848620447)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Things You’re Not Cleaning in Your Dishwasher &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-you-re-not-cleaning-in-your-dishwasher-but-sh-1848616966)
 - [Lifehacker] [How to Coat Your Flat Roof &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-coat-your-flat-roof-and-why-you-should-1848616415)
 - [Lifehacker] [8 of the Best Read-It-Later Apps You Should Try](https://lifehacker.com/8-of-the-best-read-it-later-apps-you-should-try-1848616538)
-- [Lifehacker] [Stop Using These Recalled Fitbits That Can Cause Burns](https://lifehacker.com/stop-using-these-recalled-fitbits-that-can-cause-burns-1848617138)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
