@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developing NFT marketplace: code&lpar;C++,JavaScript,Python&rpar; vs no-code&lpar;No-Code NFT Launchpad&rpar;](https://dev.to/gracesh58738133/developing-nft-marketplace-codecjavascriptpython-vs-no-codeno-code-nft-launchpad-51cg)
+- [Dev.to/JS] [cz-git, A lazy man&#39;s commitizen adapter.](https://dev.to/zhengqbbb/cz-git-a-lazy-mans-commitizen-adapter-1bmd)
 - [Dev.to/JS] [Gemini Keto Gummies - &lpar;Pros and cons&rpar; Results, Price, Is It  Legit Or Scam?](https://dev.to/geminiketoinfo/gemini-keto-gummies-pros-and-cons-results-price-is-it-legit-or-scam-322p)
 - [Dev.to/JS] [Do you know history.back&lpar;&rpar; in JavaScript?](https://dev.to/codewithsnowbit/do-you-know-historyback-in-javascript-2hbp)
 - [Dev.to/JS] [Method vs Function in Javascript](https://dev.to/msabir/method-vs-function-in-javascript-1emk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to fix Warning: 10 Prisma Clients are already running](https://dev.to/iamluisj/how-to-fix-warning-10-prisma-clients-are-already-running-j14)
 - [Dev.to/JS] [what is the best java coding site to use](https://dev.to/looph8le/what-is-the-best-java-coding-site-to-use-574p)
 - [Dev.to/JS] [Common React Mistakes and the Student Software Engineer](https://dev.to/wwwestin/common-react-mistakes-and-the-student-software-engineer-4ah5)
-- [Dev.to/JS] [Exploding Circles](https://dev.to/zevanrosser/exploding-circles-5dfm)
-- [Dev.to/JS] [Azure Trial Hackathon - EmotionalSound - perfect spotify song for your emotions](https://dev.to/marcobertelli/azure-trial-hackathon-emotionalsound-perfect-spotify-song-for-your-emotions-4eg2)
 - [Lifehacker] [How to Set Up Your Own Parental Controls on Oculus Quest](https://lifehacker.com/how-to-set-up-your-own-parental-controls-on-oculus-ques-1848617852)
 - [Lifehacker] [How &lpar;and When&rpar; to Get a Passport for Your Child](https://lifehacker.com/how-and-when-to-get-a-passport-for-your-child-1848617284)
 - [Lifehacker] [How to Get a Second Batch of At-Home COVID Tests for Free](https://lifehacker.com/how-to-get-a-second-batch-of-at-home-covid-tests-for-fr-1848619121)
