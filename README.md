@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploding Circles](https://dev.to/zevanrosser/exploding-circles-5dfm)
 - [Dev.to/JS] [Azure Trial Hackathon - EmotionalSound - perfect spotify song for your emotions](https://dev.to/marcobertelli/azure-trial-hackathon-emotionalsound-perfect-spotify-song-for-your-emotions-4eg2)
 - [Lifehacker] [How to Set Up Your Own Parental Controls on Oculus Quest](https://lifehacker.com/how-to-set-up-your-own-parental-controls-on-oculus-ques-1848617852)
 - [Lifehacker] [How &lpar;and When&rpar; to Get a Passport for Your Child](https://lifehacker.com/how-and-when-to-get-a-passport-for-your-child-1848617284)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [vscode Extensions For Web Developers](https://dev.to/l1gend/top-5-vscode-extensions-for-web-developers-cb2)
 - [Dev.to/JS] [Will WebAssembly &lpar;Wasm&rpar; replace JavaScript?](https://dev.to/jamesuk189/will-webassembly-wasm-replace-javascript-52fb)
 - [Lifehacker] [How to Coat Your Flat Roof &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-coat-your-flat-roof-and-why-you-should-1848616415)
-- [Dev.to/JS] [Stale Closures in React.useEffect&lpar;&rpar; Hook &quot;A Weird Bug for New React Learners&quot;](https://dev.to/pbucky/stale-closures-in-reactuseeffect-hook-a-weird-bug-for-new-react-learners-2n7k)
 - [Lifehacker] [8 of the Best Read-It-Later Apps You Should Try](https://lifehacker.com/8-of-the-best-read-it-later-apps-you-should-try-1848616538)
 - [Lifehacker] [Stop Using These Recalled Fitbits That Can Cause Burns](https://lifehacker.com/stop-using-these-recalled-fitbits-that-can-cause-burns-1848617138)
 - [Lifehacker] [Use This Free App to Make Your MacBook&#39;s Battery Last Longer](https://lifehacker.com/use-this-free-app-to-make-your-macbooks-battery-last-lo-1848616014)
