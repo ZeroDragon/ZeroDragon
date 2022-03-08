@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Applying for a job through the eyes of a customer](https://dev.to/mohamedah/applying-for-a-job-through-the-eyes-of-a-customer-dop)
+- [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Dev.to/JS] [Svelte.js Guide](https://dev.to/dsalinasgardon/sveltejs-guide-5h7e)
 - [Dev.to/JS] [What is Github actions?](https://dev.to/hshoja/what-is-github-actions-59ec)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Altify Development Account Generator](https://dev.to/altify/altify-development-account-generator-jfo)
 - [Dev.to/JS] [Bucket list REST API](https://dev.to/krishnapankhania/bucket-list-rest-api-3k61)
 - [Lifehacker] [You’re Not Replacing Your Loofah Often Enough &lpar;and How to Clean One&rpar;](https://lifehacker.com/you-re-not-replacing-your-loofah-often-enough-and-how-1848622024)
-- [Dev.to/JS] [Tech world, where I going to learn until the last day of my life. By {Jeanecvh}](https://dev.to/jeanecvh/tech-world-where-i-going-to-learn-until-the-last-day-of-my-life-by-jeanecvh-1j0a)
 - [Lifehacker] [How to Remove the Recycle Bin on Windows &lpar;and Why You Actually Should&rpar;](https://lifehacker.com/how-to-remove-the-recycle-bin-on-windows-and-why-you-a-1848620820)
 - [Lifehacker] [This Is the Fastest Way to Merge PDFs on a Mac](https://lifehacker.com/this-is-the-fastest-way-to-merge-pdfs-on-a-mac-1848620856)
 - [Lifehacker] [The Clever Way to Send High-Res Photos on WhatsApp](https://lifehacker.com/the-clever-way-to-send-high-res-photos-on-whatsapp-1848620447)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Around a Paywall](https://lifehacker.com/how-to-get-around-a-paywall-1848617781)
 - [Lifehacker] [9 Things You’re Not Cleaning in Your Dishwasher &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-you-re-not-cleaning-in-your-dishwasher-but-sh-1848616966)
 - [Lifehacker] [How to Coat Your Flat Roof &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-coat-your-flat-roof-and-why-you-should-1848616415)
-- [Lifehacker] [8 of the Best Read-It-Later Apps You Should Try](https://lifehacker.com/8-of-the-best-read-it-later-apps-you-should-try-1848616538)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
