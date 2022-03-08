@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Gaming Dashboard UI](https://dev.to/syedsimanta03/gaming-dashboard-ui-2d26)
+- [Dev.to/JS] [How Can You Engage Customers with Personalized Real-time Sportsbook Data?](https://dev.to/push_technology/how-can-you-engage-customers-with-personalized-real-time-sportsbook-data-1io1)
 - [Dev.to/JS] [Testes de APIs com Cypress: Criando comandos personalizados](https://dev.to/m4rri4nne/testes-de-apis-com-cypress-criando-comandos-personalizados-3m7p)
 - [Dev.to/JS] [Expand Collapse Element / Section using 4 Css Properties](https://dev.to/dasaradhanimmala/expand-collapse-element-section-using-4-css-properties-4iek)
 - [Dev.to/JS] [Typescript Tuples, and how they work](https://dev.to/smpnjn/typescript-tuples-and-how-they-work-5fe5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Secret Ways Of Adsense To Earn 100$ a day](https://dev.to/kavyargb/secret-ways-of-adsense-to-earn-100-a-day-4jil)
 - [Dev.to/JS] [Gemini Keto Gummies - &lpar;Pros and cons&rpar; Results, Price, Is It  Legit Or Scam?](https://dev.to/geminiketoinfo/gemini-keto-gummies-pros-and-cons-results-price-is-it-legit-or-scam-322p)
 - [Dev.to/JS] [Do you know history.back&lpar;&rpar; in JavaScript?](https://dev.to/codewithsnowbit/do-you-know-historyback-in-javascript-2hbp)
-- [Dev.to/JS] [Working at SuperTokens as a Developer Advocate](https://dev.to/tyaga001/working-at-supertokens-as-a-developer-advocate-2jp0)
-- [Dev.to/JS] [Calling Alpine.js methods from third-party scripts](https://dev.to/gauravmak/calling-alpinejs-methods-from-third-party-scripts-2265)
 - [Lifehacker] [How to Set Up Your Own Parental Controls on Oculus Quest](https://lifehacker.com/how-to-set-up-your-own-parental-controls-on-oculus-ques-1848617852)
 - [Lifehacker] [How &lpar;and When&rpar; to Get a Passport for Your Child](https://lifehacker.com/how-and-when-to-get-a-passport-for-your-child-1848617284)
 - [Lifehacker] [How to Get a Second Batch of At-Home COVID Tests for Free](https://lifehacker.com/how-to-get-a-second-batch-of-at-home-covid-tests-for-fr-1848619121)
