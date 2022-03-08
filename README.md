@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤖discord bot with create-discordx](https://dev.to/oceanroleplay/discord-bot-with-create-discordx-2fji)
+- [Dev.to/JS] [New Job Alert](https://dev.to/edlinkiii/new-job-alert-18g0)
 - [Dev.to/JS] [Applying for a job through the eyes of a customer](https://dev.to/mohamedah/applying-for-a-job-through-the-eyes-of-a-customer-dop)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep a Straw From Floating Out of Your Soda Can](https://lifehacker.com/how-to-keep-a-straw-from-floating-out-of-your-soda-can-1848618851)
 - [Dev.to/JS] [Median of Two Sorted Arrays](https://dev.to/seth_king/median-of-two-sorted-arrays-3b1i)
 - [Dev.to/JS] [Creating a Node.js SQL Library](https://dev.to/blazerowland/forty-boysql-2dm8)
-- [Dev.to/JS] [Altify Development Account Generator](https://dev.to/altify/altify-development-account-generator-jfo)
-- [Dev.to/JS] [Bucket list REST API](https://dev.to/krishnapankhania/bucket-list-rest-api-3k61)
 - [Lifehacker] [You’re Not Replacing Your Loofah Often Enough &lpar;and How to Clean One&rpar;](https://lifehacker.com/you-re-not-replacing-your-loofah-often-enough-and-how-1848622024)
 - [Lifehacker] [How to Remove the Recycle Bin on Windows &lpar;and Why You Actually Should&rpar;](https://lifehacker.com/how-to-remove-the-recycle-bin-on-windows-and-why-you-a-1848620820)
 - [Lifehacker] [This Is the Fastest Way to Merge PDFs on a Mac](https://lifehacker.com/this-is-the-fastest-way-to-merge-pdfs-on-a-mac-1848620856)
