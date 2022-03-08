@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 ways to center a component/div in CSS](https://dev.to/dreamyplayer/4-ways-to-center-a-componentdiv-in-css-3cbl)
+- [Dev.to/JS] [Paracetamol.js💊| #73: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-73-explica-este-codigo-javascript-59a6)
+- [Lifehacker] [The Best Morning Routine for Anyone Who Sucks at Morning Routines](https://lifehacker.com/the-best-morning-routine-for-anyone-who-sucks-at-mornin-1848617794)
+- [Dev.to/JS] [Hello Developer! Don&#39;t React!!](https://dev.to/mrpaulishaili/hello-developer-dont-react-3nfp)
+- [Lifehacker] [11 Things Lifehacker Readers Learned Embarrassingly Late in Life](https://lifehacker.com/11-things-lifehacker-readers-learned-embarrassingly-lat-1848617230)
 - [Dev.to/JS] [¿Todo en JavaScript es un objeto?](https://dev.to/jfernandogt/todo-en-javascript-es-un-objeto-a9i)
 - [Dev.to/JS] [⚡️ How to Detect Device Orientation with Javascript](https://dev.to/smpnjn/how-to-detect-device-orientation-with-javascript-29e5)
 - [Lifehacker] [Give Your Sandwich More Texture by Adding ‘Planks’ of Iceberg Lettuce](https://lifehacker.com/give-your-sandwich-more-texture-by-adding-planks-of-i-1848618393)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [as capacidades de las instalaciones](https://dev.to/lavozmedellin/as-capacidades-de-las-instalaciones-3e2a)
 - [Dev.to/JS] [cree&quot; o variaciones &lpar;incluyendo variaciones negativas&rpar;](https://dev.to/lavozmedellin/cree-o-variaciones-incluyendo-variaciones-negativas-le4)
 - [Dev.to/JS] [Información prospectiva](https://dev.to/lavozmedellin/informacion-prospectiva-n1o)
-- [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 1](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-1-1n6p)
-- [Dev.to/JS] [Gaming Dashboard UI](https://dev.to/syedsimanta03/gaming-dashboard-ui-2d26)
-- [Dev.to/JS] [How Can You Engage Customers with Personalized Real-time Sportsbook Data?](https://dev.to/push_technology/how-can-you-engage-customers-with-personalized-real-time-sportsbook-data-1io1)
 - [Lifehacker] [How to Set Up Your Own Parental Controls on Oculus Quest](https://lifehacker.com/how-to-set-up-your-own-parental-controls-on-oculus-ques-1848617852)
 - [Lifehacker] [How &lpar;and When&rpar; to Get a Passport for Your Child](https://lifehacker.com/how-and-when-to-get-a-passport-for-your-child-1848617284)
 - [Lifehacker] [How to Get a Second Batch of At-Home COVID Tests for Free](https://lifehacker.com/how-to-get-a-second-batch-of-at-home-covid-tests-for-fr-1848619121)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
 - [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
-- [Lifehacker] [The Batman: Deciphering That Post-Credits Scene](https://lifehacker.com/the-batman-deciphering-that-post-credits-scene-1848613573)
-- [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
 
