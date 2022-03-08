@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working at SuperTokens as a Developer Advocate](https://dev.to/tyaga001/working-at-supertokens-as-a-developer-advocate-2jp0)
 - [Dev.to/JS] [Calling Alpine.js methods from third-party scripts](https://dev.to/gauravmak/calling-alpinejs-methods-from-third-party-scripts-2265)
 - [Dev.to/JS] [Material Ui in React Js](https://dev.to/braveprogrammer/material-ui-in-react-js-4560)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 7&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-7-12ee)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JWT in 300 Seconds](https://dev.to/nobletijan/jwt-in-300-seconds-kh2)
 - [Lifehacker] [Whatever You Do, Don’t Lease a Car Right Now](https://lifehacker.com/whatever-you-do-don-t-lease-a-car-right-now-1848617746)
 - [Dev.to/JS] [what I learned last week: merge sort algorithm](https://dev.to/reyes2981/what-i-learned-last-week-merge-sort-algorithm-1jb9)
-- [Dev.to/JS] [useState vs useReducer ultimate guide](https://dev.to/costamatheus97/youre-probably-using-usestate-the-wrong-way-heres-why-3fh3)
 - [Lifehacker] [You Should Adjust Your Smart Home Before You Travel](https://lifehacker.com/you-should-adjust-your-smart-home-before-you-travel-1848603050)
 - [Lifehacker] [How to Get Around a Paywall](https://lifehacker.com/how-to-get-around-a-paywall-1848617781)
 - [Lifehacker] [9 Things You’re Not Cleaning in Your Dishwasher &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-you-re-not-cleaning-in-your-dishwasher-but-sh-1848616966)
