@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom endsWith and startsWith Functions](https://dev.to/rivea0/custom-endswith-and-startswith-functions-2ce8)
+- [Dev.to/JS] [How I am create my first 
+beautiful NPM Package 😎 with ♥](https://dev.to/jacksonkasi/how-i-am-create-my-first-beautiful-npm-package-with-21ga)
+- [Lifehacker] [20 Weeds in Your Garden That You Really Shouldn&#39;t Kill](https://lifehacker.com/20-weeds-in-your-garden-that-you-really-shouldnt-kill-1848617554)
+- [Dev.to/JS] [React State Management &lpar;2&rpar; : Redux](https://dev.to/sananayab/react-state-management-2-redux-3e4a)
+- [Lifehacker] [12 Awful Informercial Products Millions of People Still Bought](https://lifehacker.com/12-awful-informercial-products-millions-of-people-still-1848620085)
 - [Dev.to/JS] [4 ways to center a component/div in CSS](https://dev.to/dreamyplayer/4-ways-to-center-a-componentdiv-in-css-3cbl)
 - [Dev.to/JS] [Paracetamol.js💊| #73: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-73-explica-este-codigo-javascript-59a6)
 - [Lifehacker] [The Best Morning Routine for Anyone Who Sucks at Morning Routines](https://lifehacker.com/the-best-morning-routine-for-anyone-who-sucks-at-mornin-1848617794)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Tear-off Calendar with Azure Functions](https://dev.to/curiousdev/creating-a-tear-off-calendar-with-azure-functions-5eo6)
 - [Dev.to/JS] [en el formulario 8-K de la empresa](https://dev.to/lavozmedellin/en-el-formulario-8-k-de-la-empresa-43j7)
 - [Lifehacker] [9 Vegetables You Should Plant Right Now to Be Ready for Spring](https://lifehacker.com/9-vegetables-you-should-plant-right-now-to-be-ready-for-1848617054)
-- [Dev.to/JS] [as capacidades de las instalaciones](https://dev.to/lavozmedellin/as-capacidades-de-las-instalaciones-3e2a)
-- [Dev.to/JS] [cree&quot; o variaciones &lpar;incluyendo variaciones negativas&rpar;](https://dev.to/lavozmedellin/cree-o-variaciones-incluyendo-variaciones-negativas-le4)
-- [Dev.to/JS] [Información prospectiva](https://dev.to/lavozmedellin/informacion-prospectiva-n1o)
 - [Lifehacker] [How to Set Up Your Own Parental Controls on Oculus Quest](https://lifehacker.com/how-to-set-up-your-own-parental-controls-on-oculus-ques-1848617852)
 - [Lifehacker] [How &lpar;and When&rpar; to Get a Passport for Your Child](https://lifehacker.com/how-and-when-to-get-a-passport-for-your-child-1848617284)
 - [Lifehacker] [How to Get a Second Batch of At-Home COVID Tests for Free](https://lifehacker.com/how-to-get-a-second-batch-of-at-home-covid-tests-for-fr-1848619121)
@@ -59,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Speak Your Partner&#39;s Love Language to Have Better Sex](https://lifehacker.com/how-to-speak-your-partners-love-language-to-have-better-1848591548)
 - [Lifehacker] [What Critical Race Theory Actually Means &lpar;And What It Doesn’t&rpar;](https://lifehacker.com/what-critical-race-theory-actually-means-and-what-it-d-1848616155)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
-- [Lifehacker] [Hulu’s The Dropout Explores Elizabeth Holmes’ Unbelievable Rise and Fall](https://lifehacker.com/hulu-s-the-dropout-explores-elizabeth-holmes-unbelieva-1848613627)
-- [Lifehacker] [Pam &amp; Tommy: How Much of the Wild Story Is True?](https://lifehacker.com/pam-tommy-how-much-of-the-wild-story-is-true-1848613588)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
 
