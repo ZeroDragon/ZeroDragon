@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to fix Warning: 10 Prisma Clients are already running](https://dev.to/iamluisj/how-to-fix-warning-10-prisma-clients-are-already-running-j14)
 - [Dev.to/JS] [what is the best java coding site to use](https://dev.to/looph8le/what-is-the-best-java-coding-site-to-use-574p)
 - [Dev.to/JS] [Common React Mistakes and the Student Software Engineer](https://dev.to/wwwestin/common-react-mistakes-and-the-student-software-engineer-4ah5)
 - [Dev.to/JS] [Exploding Circles](https://dev.to/zevanrosser/exploding-circles-5dfm)
@@ -35,14 +36,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JWT in 300 Seconds](https://dev.to/nobletijan/jwt-in-300-seconds-kh2)
 - [Lifehacker] [Whatever You Do, Don’t Lease a Car Right Now](https://lifehacker.com/whatever-you-do-don-t-lease-a-car-right-now-1848617746)
 - [Dev.to/JS] [what I learned last week: merge sort algorithm](https://dev.to/reyes2981/what-i-learned-last-week-merge-sort-algorithm-1jb9)
-- [Dev.to/JS] [You&#39;re probably using useState the wrong way, here&#39;s why.](https://dev.to/costamatheus97/youre-probably-using-usestate-the-wrong-way-heres-why-3fh3)
+- [Dev.to/JS] [useState vs useReducer ultimate guide](https://dev.to/costamatheus97/youre-probably-using-usestate-the-wrong-way-heres-why-3fh3)
 - [Lifehacker] [You Should Adjust Your Smart Home Before You Travel](https://lifehacker.com/you-should-adjust-your-smart-home-before-you-travel-1848603050)
 - [Dev.to/JS] [Learn the MERN stack - by building an Instagram clone &lpar;Part One&rpar;](https://dev.to/tylerasa/learn-the-mern-stack-by-building-an-instagram-clone-part-one-188h)
 - [Lifehacker] [How to Get Around a Paywall](https://lifehacker.com/how-to-get-around-a-paywall-1848617781)
 - [Dev.to/JS] [Day 8 of 100 Days of Code](https://dev.to/nkemdev/day-8-of-100-days-of-code-4p10)
 - [Lifehacker] [9 Things You’re Not Cleaning in Your Dishwasher &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-you-re-not-cleaning-in-your-dishwasher-but-sh-1848616966)
 - [Dev.to/JS] [Learning the reduce function part 3](https://dev.to/quality_pre/javascript-reduce-part-3-3moe)
-- [Dev.to/JS] [Ng-News: Issue 22/09](https://dev.to/rainerhahnekamp/ng-news-issue-2209-b48)
 - [Lifehacker] [How to Coat Your Flat Roof &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-coat-your-flat-roof-and-why-you-should-1848616415)
 - [Lifehacker] [8 of the Best Read-It-Later Apps You Should Try](https://lifehacker.com/8-of-the-best-read-it-later-apps-you-should-try-1848616538)
 - [Lifehacker] [Stop Using These Recalled Fitbits That Can Cause Burns](https://lifehacker.com/stop-using-these-recalled-fitbits-that-can-cause-burns-1848617138)
