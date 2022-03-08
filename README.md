@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Vegetables You Should Plant Right Now to Be Ready for Spring](https://lifehacker.com/9-vegetables-you-should-plant-right-now-to-be-ready-for-1848617054)
+- [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 1](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-1-1n6p)
 - [Dev.to/JS] [Gaming Dashboard UI](https://dev.to/syedsimanta03/gaming-dashboard-ui-2d26)
 - [Dev.to/JS] [How Can You Engage Customers with Personalized Real-time Sportsbook Data?](https://dev.to/push_technology/how-can-you-engage-customers-with-personalized-real-time-sportsbook-data-1io1)
 - [Dev.to/JS] [Testes de APIs com Cypress: Criando comandos personalizados](https://dev.to/m4rri4nne/testes-de-apis-com-cypress-criando-comandos-personalizados-3m7p)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [cz-git, A lazy man&#39;s commitizen adapter.](https://dev.to/zhengqbbb/cz-git-a-lazy-mans-commitizen-adapter-1bmd)
 - [Dev.to/JS] [Secret Ways Of Adsense To Earn 100$ a day](https://dev.to/kavyargb/secret-ways-of-adsense-to-earn-100-a-day-4jil)
 - [Dev.to/JS] [Gemini Keto Gummies - &lpar;Pros and cons&rpar; Results, Price, Is It  Legit Or Scam?](https://dev.to/geminiketoinfo/gemini-keto-gummies-pros-and-cons-results-price-is-it-legit-or-scam-322p)
-- [Dev.to/JS] [Do you know history.back&lpar;&rpar; in JavaScript?](https://dev.to/codewithsnowbit/do-you-know-historyback-in-javascript-2hbp)
 - [Lifehacker] [How to Set Up Your Own Parental Controls on Oculus Quest](https://lifehacker.com/how-to-set-up-your-own-parental-controls-on-oculus-ques-1848617852)
 - [Lifehacker] [How &lpar;and When&rpar; to Get a Passport for Your Child](https://lifehacker.com/how-and-when-to-get-a-passport-for-your-child-1848617284)
 - [Lifehacker] [How to Get a Second Batch of At-Home COVID Tests for Free](https://lifehacker.com/how-to-get-a-second-batch-of-at-home-covid-tests-for-fr-1848619121)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Bridgerton Season 2: What We Know About The Sexy Next Chapter](https://lifehacker.com/bridgerton-season-2-what-we-know-about-the-sexy-next-c-1848612250)
 - [Lifehacker] [5 Delicious Hot Cross Bun Recipes to Make At Home](https://lifehacker.com/5-delicious-hot-cross-bun-recipes-to-make-at-home-1848612212)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
-- [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)
-- [Lifehacker] [Learn the Difference Between Ice Cream and Gelato, Once and for All](https://lifehacker.com/learn-the-difference-between-ice-cream-and-gelato-once-1848602909)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
 
 ---
 
