@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When to Use Node.js for Back-End - Guide for Business Owners](https://dev.to/duomly/when-to-use-nodejs-for-back-end-guide-for-business-owners-1coa)
+- [Dev.to/JS] [Getting Started with HTML5 Canvas](https://dev.to/smpnjn/getting-started-with-html5-canvas-4h7a)
+- [Lifehacker] [Here&#39;s Exactly When to Add Blueberries to Pancakes](https://lifehacker.com/heres-exactly-when-to-add-blueberries-to-pancakes-1848623699)
+- [Dev.to/JS] [How to use Tailwind CSS with a React App](https://dev.to/sureshramani/how-to-use-tailwind-css-with-a-react-app-1j6h)
 - [Dev.to/JS] [Call, Apply and Bind in JavaScript](https://dev.to/duncanmcardle/call-apply-and-bind-in-javascript-5024)
 - [Dev.to/JS] [Maps &amp; Sets in JavaScript](https://dev.to/duncanmcardle/maps-sets-in-javascript-m8k)
 - [Dev.to/JS] [Learn how pharmaceutical companies are using event-driven applications to streamline development of real time data](https://dev.to/push_technology/learn-how-pharmaceutical-companies-are-using-event-driven-applications-to-streamline-development-of-real-time-data-2dba)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Forever Functional: Shuffling an Array, Not as Trivial as It Sounds](https://dev.to/asayerio_techblog/forever-functional-shuffling-an-array-not-as-trivial-as-it-sounds-2a3b)
 - [Dev.to/JS] [Building The Odin Project&#39;s Final Javascript Project in Public &lpar;Intro and Roadmap&rpar;](https://dev.to/andymcbee/building-the-odin-projects-final-javascript-project-in-public-intro-and-roadmap-3lo2)
 - [Dev.to/JS] [Battle of the JavaScript for loops &lpar;for, for…in, for…of, forEach, etc.&rpar;](https://dev.to/duncanmcardle/battle-of-the-javascript-for-loops-for-forin-forof-foreach-etc-4lae)
-- [Dev.to/JS] [Automagically Retry Your Flaky Cypress Tests](https://dev.to/dwwhalen/automagically-retry-your-flaky-cypress-tests-5c1b)
-- [Dev.to/JS] [Building a HTTP Tunnel with WebSocket and Node.JS](https://dev.to/embbnux/building-a-http-tunnel-with-websocket-and-nodejs-4bp5)
-- [Dev.to/JS] [let, const &amp; var in JavaScript](https://dev.to/duncanmcardle/let-const-var-in-javascript-1gli)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Adjust Your Smart Home Before You Travel](https://lifehacker.com/you-should-adjust-your-smart-home-before-you-travel-1848603050)
 - [Lifehacker] [How to Get Around a Paywall](https://lifehacker.com/how-to-get-around-a-paywall-1848617781)
 - [Lifehacker] [9 Things You’re Not Cleaning in Your Dishwasher &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-you-re-not-cleaning-in-your-dishwasher-but-sh-1848616966)
-- [Lifehacker] [How to Coat Your Flat Roof &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-coat-your-flat-roof-and-why-you-should-1848616415)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
