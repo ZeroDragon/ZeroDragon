@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Documenting default interface values in typescript, or trying to...](https://dev.to/qpwo/documenting-default-interface-values-in-typescript-or-trying-to-3b01)
 - [Dev.to/JS] [Created a blog template with Sveltekit](https://dev.to/k_penguin_sato/created-a-blog-template-with-sveltekit-4ib2)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 7 &amp; 8](https://dev.to/marvinobig/100-days-of-code-challenge-day-7-8-24pb)
 - [Dev.to/JS] [Sweeper.js Update](https://dev.to/mreggo/sweeperjs-update-73b)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Applying for a job through the eyes of a customer](https://dev.to/mohamedah/applying-for-a-job-through-the-eyes-of-a-customer-dop)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
-- [Dev.to/JS] [Svelte.js Guide](https://dev.to/dsalinasgardon/sveltejs-guide-5h7e)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
 - [Lifehacker] [The New Windows 11 Keyboard Shortcuts You Should Actually Use](https://lifehacker.com/the-new-windows-11-keyboard-shortcuts-you-should-actual-1848620565)
 - [Lifehacker] [Why You Shouldn&#39;t Swerve Around Deer &lpar;or Other Animals&rpar; in the Road](https://lifehacker.com/why-you-shouldnt-swerve-around-deer-or-other-animals-1848621931)
