@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rotate Array - Daily JS &lpar;Day 12&rpar;](https://dev.to/tanvirrahman/rotate-array-daily-js-day-12-4ap8)
 - [Dev.to/JS] [Documenting default interface values in typescript, or trying to...](https://dev.to/qpwo/documenting-default-interface-values-in-typescript-or-trying-to-3b01)
 - [Dev.to/JS] [Created a blog template with Sveltekit](https://dev.to/k_penguin_sato/created-a-blog-template-with-sveltekit-4ib2)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 7 &amp; 8](https://dev.to/marvinobig/100-days-of-code-challenge-day-7-8-24pb)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Manipulating the DOM with event listeners](https://dev.to/w0whitaker/manipulating-the-dom-with-event-listeners-1oj8)
 - [Dev.to/JS] [🤖discord bot with create-discordx](https://dev.to/oceanroleplay/discord-bot-with-create-discordx-2fji)
 - [Dev.to/JS] [New Job Alert](https://dev.to/edlinkiii/new-job-alert-18g0)
-- [Dev.to/JS] [Applying for a job through the eyes of a customer](https://dev.to/mohamedah/applying-for-a-job-through-the-eyes-of-a-customer-dop)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
