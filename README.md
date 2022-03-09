@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Secret to Making Your Own Restaurant-Style Ginger Dressing](https://lifehacker.com/the-secret-to-making-your-own-restaurant-style-ginger-d-1848628437)
+- [Dev.to/JS] [Nextless.js on Product Hunt 🚀 Full-stack React SaaS Boilerplate](https://dev.to/ixartz/nextlessjs-on-product-hunt-full-stack-react-saas-boilerplate-264o)
+- [Dev.to/JS] [Writing Code Changed Her Life 😫️](https://dev.to/isinspire/writing-code-changed-her-life-4nbn)
+- [Lifehacker] [Fabric Softener Is BS](https://lifehacker.com/fabric-softener-is-bullshit-1848628137)
+- [Dev.to/JS] [Day-40 Training at Ryaz : Handling and Logging errors](https://dev.to/mahin651/day-40-training-at-ryaz-handling-and-logging-errors-46p8)
 - [Lifehacker] [14 Easy Bumper Crops for Your Beginner&#39;s Garden &lpar;and When to Grow Them&rpar;](https://lifehacker.com/14-easy-bumper-crops-for-your-beginners-garden-and-whe-1848628006)
 - [Dev.to/JS] [How tf to get famous on twitter super fast!](https://dev.to/akashpattnaik/how-tf-to-get-famous-on-twitter-super-fast-3nb0)
 - [Dev.to/JS] [Node, NPM, Yarn &amp; NVM](https://dev.to/bloodf/node-npm-yarn-nvm-5ba4)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Free Utility Makes Windows 11 Dark Mode Actually Usable](https://lifehacker.com/this-free-utility-makes-windows-11-dark-mode-actually-u-1848626524)
 - [Dev.to/JS] [LeetCode problem #2 — Add two numbers &lpar;JavaScript&rpar;](https://dev.to/duncanmcardle/leetcode-problem-2-add-two-numbers-javascript-510n)
 - [Dev.to/JS] [LeetCode problem #1 — Two-sum &lpar;JavaScript&rpar;](https://dev.to/duncanmcardle/leetcode-problem-1-two-sum-javascript-4cb8)
-- [Dev.to/JS] [Quick Sort &lpar;JavaScript&rpar;](https://dev.to/duncanmcardle/quick-sort-javascript-23hl)
-- [Dev.to/JS] [Merge Sort &lpar;JavaScript&rpar;](https://dev.to/duncanmcardle/merge-sort-javascript-2021)
-- [Dev.to/JS] [How to Detect Mobile Browsers with JavaScript](https://dev.to/stackdiary/how-to-detect-mobile-browsers-with-javascript-3a2l)
 - [Lifehacker] [The Easiest Way to Stop Your Windows PC From Going to Sleep](https://lifehacker.com/the-easiest-way-to-stop-your-windows-pc-from-going-to-s-1848626466)
 - [Lifehacker] [Stop Blurring Your Sensitive Information in Screenshots](https://lifehacker.com/stop-blurring-your-sensitive-information-in-screenshots-1848626457)
 - [Lifehacker] [How to Stream Several March Madness Games at the Same Time on Firefox](https://lifehacker.com/how-to-stream-several-march-madness-games-at-the-same-t-1848586944)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Things Lifehacker Readers Learned Embarrassingly Late in Life](https://lifehacker.com/11-things-lifehacker-readers-learned-embarrassingly-lat-1848617230)
 - [Lifehacker] [Give Your Sandwich More Texture by Adding ‘Planks’ of Iceberg Lettuce](https://lifehacker.com/give-your-sandwich-more-texture-by-adding-planks-of-i-1848618393)
 - [Lifehacker] [9 Vegetables You Should Plant Right Now to Be Ready for Spring](https://lifehacker.com/9-vegetables-you-should-plant-right-now-to-be-ready-for-1848617054)
-- [Lifehacker] [How to Set Up Your Own Parental Controls on Oculus Quest](https://lifehacker.com/how-to-set-up-your-own-parental-controls-on-oculus-ques-1848617852)
-- [Lifehacker] [How &lpar;and When&rpar; to Get a Passport for Your Child](https://lifehacker.com/how-and-when-to-get-a-passport-for-your-child-1848617284)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
