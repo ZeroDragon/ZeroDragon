@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#30Days MEAN Project](https://dev.to/seshubabubatchu/30days-mean-project-197g)
+- [Dev.to/JS] [Card hover by faja](https://dev.to/codercoderf007j_22/card-hover-by-faja-a02)
+- [Dev.to/JS] [What are the services done by a solidity developers?](https://dev.to/ashikarose/what-are-the-services-done-by-a-solidity-developers-10k4)
 - [Dev.to/JS] [Rotate Array - Daily JS &lpar;Day 12&rpar;](https://dev.to/tanvirrahman/rotate-array-daily-js-day-12-4ap8)
 - [Dev.to/JS] [Documenting default interface values in typescript, or trying to...](https://dev.to/qpwo/documenting-default-interface-values-in-typescript-or-trying-to-3b01)
 - [Dev.to/JS] [Created a blog template with Sveltekit](https://dev.to/k_penguin_sato/created-a-blog-template-with-sveltekit-4ib2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Azure Trial Hackathon - Speech Controlled Web Desktop](https://dev.to/jzombie/azure-trial-hackathon-speech-controlled-web-desktop-2391)
 - [Dev.to/JS] [How do I get a random response?](https://dev.to/danielarmbruster0314/how-do-i-get-a-random-response-52p)
 - [Dev.to/JS] [Day 9 of 100 days of Code](https://dev.to/nkemdev/day-9-of-100-days-of-code-300a)
-- [Dev.to/JS] [Manipulating the DOM with event listeners](https://dev.to/w0whitaker/manipulating-the-dom-with-event-listeners-1oj8)
-- [Dev.to/JS] [🤖discord bot with create-discordx](https://dev.to/oceanroleplay/discord-bot-with-create-discordx-2fji)
-- [Dev.to/JS] [New Job Alert](https://dev.to/edlinkiii/new-job-alert-18g0)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
