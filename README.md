@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Created a blog template with Sveltekit](https://dev.to/k_penguin_sato/created-a-blog-template-with-sveltekit-4ib2)
+- [Dev.to/JS] [100 Days of Code Challenge: Day 7 &amp; 8](https://dev.to/marvinobig/100-days-of-code-challenge-day-7-8-24pb)
+- [Dev.to/JS] [Sweeper.js Update](https://dev.to/mreggo/sweeperjs-update-73b)
 - [Dev.to/JS] [Embellecer importaciones absolutas con alias en nextjs](https://dev.to/wootsbot/embellecer-importaciones-absolutas-con-alias-en-nextjs-56gc)
+- [Dev.to/JS] [Azure Trial Hackathon - Speech Controlled Web Desktop](https://dev.to/jzombie/azure-trial-hackathon-speech-controlled-web-desktop-2391)
 - [Dev.to/JS] [How do I get a random response?](https://dev.to/danielarmbruster0314/how-do-i-get-a-random-response-52p)
 - [Dev.to/JS] [Day 9 of 100 days of Code](https://dev.to/nkemdev/day-9-of-100-days-of-code-300a)
 - [Dev.to/JS] [Manipulating the DOM with event listeners](https://dev.to/w0whitaker/manipulating-the-dom-with-event-listeners-1oj8)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Dev.to/JS] [Svelte.js Guide](https://dev.to/dsalinasgardon/sveltejs-guide-5h7e)
-- [Dev.to/JS] [What is Github actions?](https://dev.to/hshoja/what-is-github-actions-59ec)
-- [Dev.to/JS] [Flattening an object](https://dev.to/sonai95/flattening-an-object-2ffh)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
-- [Dev.to/JS] [Executing Shell Scripts with NodeJS](https://dev.to/aabhassao/executing-shell-scripts-with-nodejs-4od6)
-- [Dev.to/JS] [Fetch Requests Taught Me the Importance Of console.log&lpar;&rpar;](https://dev.to/marskimiko/fetch-requests-taught-me-the-importance-of-consolelog-351m)
 - [Lifehacker] [The New Windows 11 Keyboard Shortcuts You Should Actually Use](https://lifehacker.com/the-new-windows-11-keyboard-shortcuts-you-should-actual-1848620565)
 - [Lifehacker] [Why You Shouldn&#39;t Swerve Around Deer &lpar;or Other Animals&rpar; in the Road](https://lifehacker.com/why-you-shouldnt-swerve-around-deer-or-other-animals-1848621931)
 - [Lifehacker] [How to Keep a Straw From Floating Out of Your Soda Can](https://lifehacker.com/how-to-keep-a-straw-from-floating-out-of-your-soda-can-1848618851)
