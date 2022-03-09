@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between a Service Dog and a Therapy Dog](https://lifehacker.com/the-difference-between-a-service-dog-and-a-therapy-dog-1848627962)
+- [Dev.to/JS] [How to block requests with Puppeteer](https://dev.to/krasun/how-to-block-requests-with-puppeteer-3584)
+- [Lifehacker] [What to Say Immediately After You Send a Text to the Wrong Person](https://lifehacker.com/what-to-say-immediately-after-you-send-a-text-to-the-wr-1848629020)
+- [Dev.to/JS] [odd or even large number with react window instead of web worker](https://dev.to/sababg/odd-or-even-large-number-in-a-very-short-time-with-react-window-npj)
+- [Dev.to/JS] [The javascript module pattern](https://dev.to/quality_pre/the-javascript-module-pattern-3h77)
+- [Lifehacker] [What Really Happens If You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-if-you-cant-pay-your-restaurant-bil-1848629366)
 - [Dev.to/JS] [Wordle Clone Using HTML CSS and Javascript](https://dev.to/sameer8saini/wordle-clone-using-html-css-and-javascript-26e4)
 - [Dev.to/JS] [Code highlighting in code blocks](https://dev.to/stuartcreed/code-snippet-package-highlightjs-22pf)
 - [Lifehacker] [When to See the &#39;Worm Moon&#39; at Peak Brilliance](https://lifehacker.com/when-to-see-the-worm-moon-at-peak-brilliance-1848629005)
@@ -39,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node, NPM, Yarn &amp; NVM](https://dev.to/bloodf/node-npm-yarn-nvm-5ba4)
 - [Lifehacker] [Don&#39;t Freak Out About the Giant Spiders That Will Drop From the Sky This Summer](https://lifehacker.com/dont-freak-out-about-the-giant-spiders-that-will-drop-f-1848627817)
 - [Dev.to/JS] [✨Top resources to learn React.js [in no particular order]](https://dev.to/thenerdydev/top-5-resources-to-learn-reactjs-in-no-particular-order-3d13)
-- [Dev.to/JS] [LeetCode problem #5 — Longest Palindromic Substring &lpar;JavaScript&rpar;](https://dev.to/duncanmcardle/leetcode-problem-5-longest-palindromic-substring-javascript-cfi)
-- [Dev.to/JS] [Things you need to know about React ref](https://dev.to/romaintrotard/things-you-need-to-know-about-react-ref-25ld)
-- [Dev.to/JS] [LeetCode problem #4 — Median of two sorted arrays &lpar;JavaScript&rpar;](https://dev.to/duncanmcardle/leetcode-problem-4-median-of-two-sorted-arrays-javascript-10l0)
 - [Lifehacker] [This Free Utility Makes Windows 11 Dark Mode Actually Usable](https://lifehacker.com/this-free-utility-makes-windows-11-dark-mode-actually-u-1848626524)
 - [Lifehacker] [The Easiest Way to Stop Your Windows PC From Going to Sleep](https://lifehacker.com/the-easiest-way-to-stop-your-windows-pc-from-going-to-s-1848626466)
 - [Lifehacker] [Stop Blurring Your Sensitive Information in Screenshots](https://lifehacker.com/stop-blurring-your-sensitive-information-in-screenshots-1848626457)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Remove the Recycle Bin on Windows &lpar;and Why You Actually Should&rpar;](https://lifehacker.com/how-to-remove-the-recycle-bin-on-windows-and-why-you-a-1848620820)
 - [Lifehacker] [This Is the Fastest Way to Merge PDFs on a Mac](https://lifehacker.com/this-is-the-fastest-way-to-merge-pdfs-on-a-mac-1848620856)
 - [Lifehacker] [The Clever Way to Send High-Res Photos on WhatsApp](https://lifehacker.com/the-clever-way-to-send-high-res-photos-on-whatsapp-1848620447)
-- [Lifehacker] [20 Weeds in Your Garden That You Really Shouldn&#39;t Kill](https://lifehacker.com/20-weeds-in-your-garden-that-you-really-shouldnt-kill-1848617554)
-- [Lifehacker] [12 Awful Infomercial Products Millions of People Still Bought](https://lifehacker.com/12-awful-informercial-products-millions-of-people-still-1848620085)
-- [Lifehacker] [The Best Morning Routine for Anyone Who Sucks at Morning Routines](https://lifehacker.com/the-best-morning-routine-for-anyone-who-sucks-at-mornin-1848617794)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
