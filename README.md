@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a super cool quiz app in just 10 mins](https://dev.to/kumarkalyan/building-a-super-cool-quiz-app-in-just-10-mins-2p58)
+- [Dev.to/JS] [Day 13/100, 100 Days of Code](https://dev.to/xurgg/day-13100-100-days-of-code-27od)
 - [Dev.to/JS] [#30Days MEAN Project](https://dev.to/seshubabubatchu/30days-mean-project-197g)
 - [Dev.to/JS] [Card hover by faja](https://dev.to/codercoderf007j_22/card-hover-by-faja-a02)
 - [Dev.to/JS] [What are the services done by a solidity developers?](https://dev.to/ashikarose/what-are-the-services-done-by-a-solidity-developers-10k4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sweeper.js Update](https://dev.to/mreggo/sweeperjs-update-73b)
 - [Dev.to/JS] [Embellecer importaciones absolutas con alias en nextjs](https://dev.to/wootsbot/embellecer-importaciones-absolutas-con-alias-en-nextjs-56gc)
 - [Dev.to/JS] [Azure Trial Hackathon - Speech Controlled Web Desktop](https://dev.to/jzombie/azure-trial-hackathon-speech-controlled-web-desktop-2391)
-- [Dev.to/JS] [How do I get a random response?](https://dev.to/danielarmbruster0314/how-do-i-get-a-random-response-52p)
-- [Dev.to/JS] [Day 9 of 100 days of Code](https://dev.to/nkemdev/day-9-of-100-days-of-code-300a)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
