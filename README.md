@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Custom Types in Typescript](https://dev.to/smpnjn/creating-custom-types-in-typescript-12)
+- [Dev.to/JS] [Create an RxJS Observable](https://dev.to/this-is-learning/create-an-rxjs-observable-3j45)
+- [Lifehacker] [Stop Blurring Your Sensitive Information in Screenshots](https://lifehacker.com/stop-blurring-your-sensitive-information-in-screenshots-1848626457)
+- [Dev.to/JS] [Paracetamol.js💊| #74: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-74-explica-este-codigo-javascript-13eg)
+- [Dev.to/JS] [What Is Node.js - Guide for Business Owners](https://dev.to/duomly/what-is-nodejs-guide-for-business-owners-3274)
+- [Dev.to/JS] [Top 10 array methods to learn to become a pro in JavaScript](https://dev.to/thatanjan/top-10-array-methods-to-learn-to-become-a-pro-in-javascript-1i8o)
+- [Lifehacker] [How to Stream Several March Madness Games at the Same Time on Firefox](https://lifehacker.com/how-to-stream-several-march-madness-games-at-the-same-t-1848586944)
 - [Dev.to/JS] [When to Use Node.js for Back-End - Guide for Business Owners](https://dev.to/duomly/when-to-use-nodejs-for-back-end-guide-for-business-owners-1coa)
 - [Dev.to/JS] [Getting Started with HTML5 Canvas](https://dev.to/smpnjn/getting-started-with-html5-canvas-4h7a)
 - [Lifehacker] [Here&#39;s Exactly When to Add Blueberries to Pancakes](https://lifehacker.com/heres-exactly-when-to-add-blueberries-to-pancakes-1848623699)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Maps &amp; Sets in JavaScript](https://dev.to/duncanmcardle/maps-sets-in-javascript-m8k)
 - [Dev.to/JS] [Learn how pharmaceutical companies are using event-driven applications to streamline development of real time data](https://dev.to/push_technology/learn-how-pharmaceutical-companies-are-using-event-driven-applications-to-streamline-development-of-real-time-data-2dba)
 - [Dev.to/JS] [An open source platform to handle multi-vendor marketplaces](https://dev.to/medusajs/create-an-open-source-commerce-marketplace-part-1-3m5k)
-- [Dev.to/JS] [3 Minutes to Orbiton JS | The Ultimate JavaScript UI library](https://dev.to/jimjunior/3-minutes-to-orbiton-js-the-ultimate-javascript-ui-library-3m3f)
-- [Dev.to/JS] [Top Websites Developed using Vue.js framework](https://dev.to/arohi/top-websites-developed-using-vuejs-framework-33n2)
-- [Dev.to/JS] [Forever Functional: Shuffling an Array, Not as Trivial as It Sounds](https://dev.to/asayerio_techblog/forever-functional-shuffling-an-array-not-as-trivial-as-it-sounds-2a3b)
-- [Dev.to/JS] [Building The Odin Project&#39;s Final Javascript Project in Public &lpar;Intro and Roadmap&rpar;](https://dev.to/andymcbee/building-the-odin-projects-final-javascript-project-in-public-intro-and-roadmap-3lo2)
-- [Dev.to/JS] [Battle of the JavaScript for loops &lpar;for, for…in, for…of, forEach, etc.&rpar;](https://dev.to/duncanmcardle/battle-of-the-javascript-for-loops-for-forin-forof-foreach-etc-4lae)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Your Hairspray From Flaking All Over You](https://lifehacker.com/how-to-stop-your-hairspray-from-flaking-all-over-you-1848616305)
 - [Lifehacker] [Whatever You Do, Don’t Lease a Car Right Now](https://lifehacker.com/whatever-you-do-don-t-lease-a-car-right-now-1848617746)
 - [Lifehacker] [You Should Adjust Your Smart Home Before You Travel](https://lifehacker.com/you-should-adjust-your-smart-home-before-you-travel-1848603050)
-- [Lifehacker] [How to Get Around a Paywall](https://lifehacker.com/how-to-get-around-a-paywall-1848617781)
-- [Lifehacker] [9 Things You’re Not Cleaning in Your Dishwasher &lpar;but Should Be&rpar;](https://lifehacker.com/9-things-you-re-not-cleaning-in-your-dishwasher-but-sh-1848616966)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
