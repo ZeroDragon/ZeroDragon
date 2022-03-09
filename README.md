@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React.js tips for better performance. Part 1](https://dev.to/raaj/reactjs-tips-for-better-performance-part-1-21og)
+- [Lifehacker] [Everything You Need to Know Before You Buy the New iPhone SE](https://lifehacker.com/everything-you-need-to-know-before-you-buy-the-new-ipho-1848628418)
+- [Dev.to/JS] [useEffect in react: Everything you need to know](https://dev.to/therajatg/useeffect-in-react-everything-you-need-to-know-512k)
 - [Lifehacker] [The Secret to Making Your Own Restaurant-Style Ginger Dressing](https://lifehacker.com/the-secret-to-making-your-own-restaurant-style-ginger-d-1848628437)
 - [Dev.to/JS] [Nextless.js on Product Hunt 🚀 Full-stack React SaaS Boilerplate](https://dev.to/ixartz/nextlessjs-on-product-hunt-full-stack-react-saas-boilerplate-264o)
 - [Dev.to/JS] [Writing Code Changed Her Life 😫️](https://dev.to/isinspire/writing-code-changed-her-life-4nbn)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode problem #4 — Median of two sorted arrays &lpar;JavaScript&rpar;](https://dev.to/duncanmcardle/leetcode-problem-4-median-of-two-sorted-arrays-javascript-10l0)
 - [Dev.to/JS] [LeetCode problem #3 — Longest substring without repeating characters &lpar;JavaScript&rpar;](https://dev.to/duncanmcardle/leetcode-problem-3-longest-substring-without-repeating-characters-javascript-3omg)
 - [Lifehacker] [This Free Utility Makes Windows 11 Dark Mode Actually Usable](https://lifehacker.com/this-free-utility-makes-windows-11-dark-mode-actually-u-1848626524)
-- [Dev.to/JS] [LeetCode problem #2 — Add two numbers &lpar;JavaScript&rpar;](https://dev.to/duncanmcardle/leetcode-problem-2-add-two-numbers-javascript-510n)
-- [Dev.to/JS] [LeetCode problem #1 — Two-sum &lpar;JavaScript&rpar;](https://dev.to/duncanmcardle/leetcode-problem-1-two-sum-javascript-4cb8)
 - [Lifehacker] [The Easiest Way to Stop Your Windows PC From Going to Sleep](https://lifehacker.com/the-easiest-way-to-stop-your-windows-pc-from-going-to-s-1848626466)
 - [Lifehacker] [Stop Blurring Your Sensitive Information in Screenshots](https://lifehacker.com/stop-blurring-your-sensitive-information-in-screenshots-1848626457)
 - [Lifehacker] [How to Stream Several March Madness Games at the Same Time on Firefox](https://lifehacker.com/how-to-stream-several-march-madness-games-at-the-same-t-1848586944)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Morning Routine for Anyone Who Sucks at Morning Routines](https://lifehacker.com/the-best-morning-routine-for-anyone-who-sucks-at-mornin-1848617794)
 - [Lifehacker] [11 Things Lifehacker Readers Learned Embarrassingly Late in Life](https://lifehacker.com/11-things-lifehacker-readers-learned-embarrassingly-lat-1848617230)
 - [Lifehacker] [Give Your Sandwich More Texture by Adding ‘Planks’ of Iceberg Lettuce](https://lifehacker.com/give-your-sandwich-more-texture-by-adding-planks-of-i-1848618393)
-- [Lifehacker] [9 Vegetables You Should Plant Right Now to Be Ready for Spring](https://lifehacker.com/9-vegetables-you-should-plant-right-now-to-be-ready-for-1848617054)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
