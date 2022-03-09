@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Detect Mobile Browsers with JavaScript](https://dev.to/stackdiary/how-to-detect-mobile-browsers-with-javascript-3a2l)
+- [Dev.to/JS] [Modern Web Frameworks for the Modern Cloud](https://dev.to/peibolsang/modern-web-frameworks-in-the-modern-cloud-2je0)
+- [Dev.to/JS] [Why Doesn&#39;t React&#39;s useState Hook Merge Objects?](https://dev.to/_ezell_/why-doesnt-reacts-usestate-hook-merge-objects-8h3)
+- [Lifehacker] [The Easiest Way to Stop Your Windows PC From Going to Sleep](https://lifehacker.com/the-easiest-way-to-stop-your-windows-pc-from-going-to-s-1848626466)
 - [Dev.to/JS] [Creating Custom Types in Typescript](https://dev.to/smpnjn/creating-custom-types-in-typescript-12)
 - [Dev.to/JS] [Create an RxJS Observable](https://dev.to/this-is-learning/create-an-rxjs-observable-3j45)
 - [Lifehacker] [Stop Blurring Your Sensitive Information in Screenshots](https://lifehacker.com/stop-blurring-your-sensitive-information-in-screenshots-1848626457)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here&#39;s Exactly When to Add Blueberries to Pancakes](https://lifehacker.com/heres-exactly-when-to-add-blueberries-to-pancakes-1848623699)
 - [Dev.to/JS] [How to use Tailwind CSS with a React App](https://dev.to/sureshramani/how-to-use-tailwind-css-with-a-react-app-1j6h)
 - [Dev.to/JS] [Call, Apply and Bind in JavaScript](https://dev.to/duncanmcardle/call-apply-and-bind-in-javascript-5024)
-- [Dev.to/JS] [Maps &amp; Sets in JavaScript](https://dev.to/duncanmcardle/maps-sets-in-javascript-m8k)
-- [Dev.to/JS] [Learn how pharmaceutical companies are using event-driven applications to streamline development of real time data](https://dev.to/push_technology/learn-how-pharmaceutical-companies-are-using-event-driven-applications-to-streamline-development-of-real-time-data-2dba)
-- [Dev.to/JS] [An open source platform to handle multi-vendor marketplaces](https://dev.to/medusajs/create-an-open-source-commerce-marketplace-part-1-3m5k)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Second Batch of At-Home COVID Tests for Free](https://lifehacker.com/how-to-get-a-second-batch-of-at-home-covid-tests-for-fr-1848619121)
 - [Lifehacker] [How to Stop Your Hairspray From Flaking All Over You](https://lifehacker.com/how-to-stop-your-hairspray-from-flaking-all-over-you-1848616305)
 - [Lifehacker] [Whatever You Do, Don’t Lease a Car Right Now](https://lifehacker.com/whatever-you-do-don-t-lease-a-car-right-now-1848617746)
-- [Lifehacker] [You Should Adjust Your Smart Home Before You Travel](https://lifehacker.com/you-should-adjust-your-smart-home-before-you-travel-1848603050)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
