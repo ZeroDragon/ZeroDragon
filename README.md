@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Embellecer importaciones absolutas con alias en nextjs](https://dev.to/wootsbot/embellecer-importaciones-absolutas-con-alias-en-nextjs-56gc)
+- [Dev.to/JS] [How do I get a random response?](https://dev.to/danielarmbruster0314/how-do-i-get-a-random-response-52p)
+- [Dev.to/JS] [Day 9 of 100 days of Code](https://dev.to/nkemdev/day-9-of-100-days-of-code-300a)
+- [Dev.to/JS] [Manipulating the DOM with event listeners](https://dev.to/w0whitaker/manipulating-the-dom-with-event-listeners-1oj8)
 - [Dev.to/JS] [🤖discord bot with create-discordx](https://dev.to/oceanroleplay/discord-bot-with-create-discordx-2fji)
 - [Dev.to/JS] [New Job Alert](https://dev.to/edlinkiii/new-job-alert-18g0)
 - [Dev.to/JS] [Applying for a job through the eyes of a customer](https://dev.to/mohamedah/applying-for-a-job-through-the-eyes-of-a-customer-dop)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Executing Shell Scripts with NodeJS](https://dev.to/aabhassao/executing-shell-scripts-with-nodejs-4od6)
 - [Dev.to/JS] [Fetch Requests Taught Me the Importance Of console.log&lpar;&rpar;](https://dev.to/marskimiko/fetch-requests-taught-me-the-importance-of-consolelog-351m)
 - [Lifehacker] [The New Windows 11 Keyboard Shortcuts You Should Actually Use](https://lifehacker.com/the-new-windows-11-keyboard-shortcuts-you-should-actual-1848620565)
-- [Dev.to/JS] [Hello world in Solidity](https://dev.to/dev_hills/hello-world-in-solidity-11kl)
 - [Lifehacker] [Why You Shouldn&#39;t Swerve Around Deer &lpar;or Other Animals&rpar; in the Road](https://lifehacker.com/why-you-shouldnt-swerve-around-deer-or-other-animals-1848621931)
-- [Dev.to/JS] [LoginID biometric authentication Web SDK tutorial](https://dev.to/loginid/loginid-biometric-authentication-web-sdk-tutorial-1049)
 - [Lifehacker] [How to Keep a Straw From Floating Out of Your Soda Can](https://lifehacker.com/how-to-keep-a-straw-from-floating-out-of-your-soda-can-1848618851)
-- [Dev.to/JS] [Median of Two Sorted Arrays](https://dev.to/seth_king/median-of-two-sorted-arrays-3b1i)
-- [Dev.to/JS] [Creating a Node.js SQL Library](https://dev.to/blazerowland/forty-boysql-2dm8)
 - [Lifehacker] [You’re Not Replacing Your Loofah Often Enough &lpar;and How to Clean One&rpar;](https://lifehacker.com/you-re-not-replacing-your-loofah-often-enough-and-how-1848622024)
 - [Lifehacker] [How to Remove the Recycle Bin on Windows &lpar;and Why You Actually Should&rpar;](https://lifehacker.com/how-to-remove-the-recycle-bin-on-windows-and-why-you-a-1848620820)
 - [Lifehacker] [This Is the Fastest Way to Merge PDFs on a Mac](https://lifehacker.com/this-is-the-fastest-way-to-merge-pdfs-on-a-mac-1848620856)
