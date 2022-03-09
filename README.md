@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 27 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#862. Shortest Subarray with Sum at Least K&lpar;H/JS&rpar;](https://dev.to/devuser1/day-27-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem862-shortest-subarray-with-sum-at-least-khjs-2fff)
+- [Dev.to/JS] [7 javascript trick you must know..](https://dev.to/noumanali/7-javascript-trick-you-must-know-173d)
+- [Dev.to/JS] [How to create super simple Dialogs in HTML](https://dev.to/liftoffstudios/how-to-create-super-simple-dialogs-in-html-474h)
 - [Dev.to/JS] [Building a super cool quiz app in just 10 mins](https://dev.to/kumarkalyan/building-a-super-cool-quiz-app-in-just-10-mins-2p58)
 - [Dev.to/JS] [Day 13/100, 100 Days of Code](https://dev.to/xurgg/day-13100-100-days-of-code-27od)
 - [Dev.to/JS] [#30Days MEAN Project](https://dev.to/seshubabubatchu/30days-mean-project-197g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Documenting default interface values in typescript, or trying to...](https://dev.to/qpwo/documenting-default-interface-values-in-typescript-or-trying-to-3b01)
 - [Dev.to/JS] [Created a blog template with Sveltekit](https://dev.to/k_penguin_sato/created-a-blog-template-with-sveltekit-4ib2)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 7 &amp; 8](https://dev.to/marvinobig/100-days-of-code-challenge-day-7-8-24pb)
-- [Dev.to/JS] [Sweeper.js Update](https://dev.to/mreggo/sweeperjs-update-73b)
-- [Dev.to/JS] [Embellecer importaciones absolutas con alias en nextjs](https://dev.to/wootsbot/embellecer-importaciones-absolutas-con-alias-en-nextjs-56gc)
-- [Dev.to/JS] [Azure Trial Hackathon - Speech Controlled Web Desktop](https://dev.to/jzombie/azure-trial-hackathon-speech-controlled-web-desktop-2391)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
