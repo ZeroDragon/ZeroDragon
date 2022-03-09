@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Fetching in Next.js v12.1 Simplified &lpar;with use cases&rpar;](https://dev.to/arshadayvid/data-fetching-in-nextjs-v121-simplified-with-use-cases-1b0g)
+- [Dev.to/JS] [React-Component-Library Tutorial](https://dev.to/shakespeare17/react-component-library-tutorial-a3m)
+- [Dev.to/JS] [NEW Ionic 6 book](https://dev.to/dormanna/ionic-6-209p)
 - [Dev.to/JS] [Day 27 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#862. Shortest Subarray with Sum at Least K&lpar;H/JS&rpar;](https://dev.to/devuser1/day-27-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem862-shortest-subarray-with-sum-at-least-khjs-2fff)
 - [Dev.to/JS] [7 javascript trick you must know..](https://dev.to/noumanali/7-javascript-trick-you-must-know-173d)
 - [Dev.to/JS] [How to create super simple Dialogs in HTML](https://dev.to/liftoffstudios/how-to-create-super-simple-dialogs-in-html-474h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Card hover by faja](https://dev.to/codercoderf007j_22/card-hover-by-faja-a02)
 - [Dev.to/JS] [What are the services done by a solidity developers?](https://dev.to/ashikarose/what-are-the-services-done-by-a-solidity-developers-10k4)
 - [Dev.to/JS] [Rotate Array - Daily JS &lpar;Day 12&rpar;](https://dev.to/tanvirrahman/rotate-array-daily-js-day-12-4ap8)
-- [Dev.to/JS] [Documenting default interface values in typescript, or trying to...](https://dev.to/qpwo/documenting-default-interface-values-in-typescript-or-trying-to-3b01)
-- [Dev.to/JS] [Created a blog template with Sveltekit](https://dev.to/k_penguin_sato/created-a-blog-template-with-sveltekit-4ib2)
-- [Dev.to/JS] [100 Days of Code Challenge: Day 7 &amp; 8](https://dev.to/marvinobig/100-days-of-code-challenge-day-7-8-24pb)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
