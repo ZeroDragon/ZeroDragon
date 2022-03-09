@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
+- [Dev.to/JS] [Let&#39;s have a blast of fun! How to build a Minesweeper clone for the CLI with NodeJS 💣🔍](https://dev.to/thormeier/lets-have-a-blast-of-fun-build-a-minesweeper-clone-for-the-cli-1o5)
+- [Lifehacker] [You Need to Update Your Windows PC Immediately](https://lifehacker.com/you-need-to-update-your-windows-pc-immediately-1848630370)
+- [Dev.to/JS] [What Would be Useful in Your GraphQL Work?](https://dev.to/adron/what-would-be-useful-in-your-graphql-work-2pjc)
+- [Dev.to/JS] [For startups that are a beast, flashups bring beauty](https://dev.to/richkurtzman/for-startups-that-are-a-beast-flashups-bring-beauty-7je)
+- [Dev.to/JS] [React Components: Just Like Watching the News](https://dev.to/slj2222/react-components-just-like-watching-the-news-20nj)
 - [Lifehacker] [The Difference Between a Service Dog and a Therapy Dog](https://lifehacker.com/the-difference-between-a-service-dog-and-a-therapy-dog-1848627962)
 - [Dev.to/JS] [How to block requests with Puppeteer](https://dev.to/krasun/how-to-block-requests-with-puppeteer-3584)
 - [Lifehacker] [What to Say Immediately After You Send a Text to the Wrong Person](https://lifehacker.com/what-to-say-immediately-after-you-send-a-text-to-the-wr-1848629020)
@@ -39,12 +45,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Secret to Making Your Own Restaurant-Style Ginger Dressing](https://lifehacker.com/the-secret-to-making-your-own-restaurant-style-ginger-d-1848628437)
 - [Dev.to/JS] [Nextless.js on Product Hunt 🚀 Full-stack React SaaS Boilerplate](https://dev.to/ixartz/nextlessjs-on-product-hunt-full-stack-react-saas-boilerplate-264o)
 - [Lifehacker] [Fabric Softener Is BS](https://lifehacker.com/fabric-softener-is-bullshit-1848628137)
-- [Dev.to/JS] [Day-40 Training at Ryaz : Handling and Logging errors](https://dev.to/mahin651/day-40-training-at-ryaz-handling-and-logging-errors-46p8)
 - [Lifehacker] [14 Easy Bumper Crops for Your Beginner&#39;s Garden &lpar;and When to Grow Them&rpar;](https://lifehacker.com/14-easy-bumper-crops-for-your-beginners-garden-and-whe-1848628006)
-- [Dev.to/JS] [How tf to get famous on twitter super fast!](https://dev.to/akashpattnaik/how-tf-to-get-famous-on-twitter-super-fast-3nb0)
-- [Dev.to/JS] [Node, NPM, Yarn &amp; NVM](https://dev.to/bloodf/node-npm-yarn-nvm-5ba4)
 - [Lifehacker] [Don&#39;t Freak Out About the Giant Spiders That Will Drop From the Sky This Summer](https://lifehacker.com/dont-freak-out-about-the-giant-spiders-that-will-drop-f-1848627817)
-- [Dev.to/JS] [✨Top resources to learn React.js [in no particular order]](https://dev.to/thenerdydev/top-5-resources-to-learn-reactjs-in-no-particular-order-3d13)
 - [Lifehacker] [This Free Utility Makes Windows 11 Dark Mode Actually Usable](https://lifehacker.com/this-free-utility-makes-windows-11-dark-mode-actually-u-1848626524)
 - [Lifehacker] [The Easiest Way to Stop Your Windows PC From Going to Sleep](https://lifehacker.com/the-easiest-way-to-stop-your-windows-pc-from-going-to-s-1848626466)
 - [Lifehacker] [Stop Blurring Your Sensitive Information in Screenshots](https://lifehacker.com/stop-blurring-your-sensitive-information-in-screenshots-1848626457)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep a Straw From Floating Out of Your Soda Can](https://lifehacker.com/how-to-keep-a-straw-from-floating-out-of-your-soda-can-1848618851)
 - [Lifehacker] [You’re Not Replacing Your Loofah Often Enough &lpar;and How to Clean One&rpar;](https://lifehacker.com/you-re-not-replacing-your-loofah-often-enough-and-how-1848622024)
 - [Lifehacker] [How to Remove the Recycle Bin on Windows &lpar;and Why You Actually Should&rpar;](https://lifehacker.com/how-to-remove-the-recycle-bin-on-windows-and-why-you-a-1848620820)
-- [Lifehacker] [This Is the Fastest Way to Merge PDFs on a Mac](https://lifehacker.com/this-is-the-fastest-way-to-merge-pdfs-on-a-mac-1848620856)
-- [Lifehacker] [The Clever Way to Send High-Res Photos on WhatsApp](https://lifehacker.com/the-clever-way-to-send-high-res-photos-on-whatsapp-1848620447)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
