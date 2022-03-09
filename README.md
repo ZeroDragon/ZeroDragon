@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [25 NPM Packages for Developers to Boost Productivity](https://dev.to/developer_noon/25-npm-packages-for-developers-to-boost-productivity-oja)
+- [Dev.to/JS] [Can I use hover on Touch Devices?](https://dev.to/pankajpatel/can-i-use-hover-on-touch-devices-2h8h)
+- [Dev.to/JS] [Optimal Max Keto - Reviews, Benefits, Results, Is It  Legit Or Scam?](https://dev.to/optimalmaxketo6/optimal-max-keto-reviews-benefits-results-is-it-legit-or-scam-5bfm)
+- [Dev.to/JS] [Scroll to the top with JS](https://dev.to/j471n/scroll-to-the-top-with-js-lgm)
 - [Dev.to/JS] [Data Fetching in Next.js v12.1 Simplified &lpar;with use cases&rpar;](https://dev.to/arshadayvid/data-fetching-in-nextjs-v121-simplified-with-use-cases-1b0g)
 - [Dev.to/JS] [React-Component-Library Tutorial](https://dev.to/shakespeare17/react-component-library-tutorial-a3m)
 - [Dev.to/JS] [NEW Ionic 6 book](https://dev.to/dormanna/ionic-6-209p)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create super simple Dialogs in HTML](https://dev.to/liftoffstudios/how-to-create-super-simple-dialogs-in-html-474h)
 - [Dev.to/JS] [Building a super cool quiz app in just 10 mins](https://dev.to/kumarkalyan/building-a-super-cool-quiz-app-in-just-10-mins-2p58)
 - [Dev.to/JS] [Day 13/100, 100 Days of Code](https://dev.to/xurgg/day-13100-100-days-of-code-27od)
-- [Dev.to/JS] [#30Days MEAN Project](https://dev.to/seshubabubatchu/30days-mean-project-197g)
-- [Dev.to/JS] [Card hover by faja](https://dev.to/codercoderf007j_22/card-hover-by-faja-a02)
-- [Dev.to/JS] [What are the services done by a solidity developers?](https://dev.to/ashikarose/what-are-the-services-done-by-a-solidity-developers-10k4)
-- [Dev.to/JS] [Rotate Array - Daily JS &lpar;Day 12&rpar;](https://dev.to/tanvirrahman/rotate-array-daily-js-day-12-4ap8)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
