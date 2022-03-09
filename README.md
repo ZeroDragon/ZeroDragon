@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Timer using AlpineJs with Carbon Format](https://dev.to/100r0bh/js-timer-using-alpinejs-with-carbon-format-1c96)
+- [Dev.to/JS] [How I built and rewrote the CSS Auditors website](https://dev.to/starbist/how-i-built-and-rewrote-the-css-auditors-website-734)
 - [Dev.to/JS] [Testing modern ReactJS Application: Introduction](https://dev.to/mr0bread/testing-modern-reactjs-application-introduction-3kpg)
 - [Dev.to/JS] [New Project - SmartSM.link](https://dev.to/lmas3009/new-project-smartsmlink-3fk8)
 - [Dev.to/JS] [How to Use NextJS Loader for Page Transitions](https://dev.to/arshkkk/how-to-use-nextjs-loader-for-page-transitions-1cpd)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [25 NPM Packages for Developers to Boost Productivity](https://dev.to/developer_noon/25-npm-packages-for-developers-to-boost-productivity-oja)
 - [Dev.to/JS] [Can I use hover on Touch Devices?](https://dev.to/pankajpatel/can-i-use-hover-on-touch-devices-2h8h)
 - [Dev.to/JS] [Optimal Max Keto - Reviews, Benefits, Results, Is It  Legit Or Scam?](https://dev.to/optimalmaxketo6/optimal-max-keto-reviews-benefits-results-is-it-legit-or-scam-5bfm)
-- [Dev.to/JS] [Scroll to the top with JS](https://dev.to/j471n/scroll-to-the-top-with-js-lgm)
-- [Dev.to/JS] [Data Fetching in Next.js v12.1 Simplified &lpar;with use cases&rpar;](https://dev.to/arshadayvid/data-fetching-in-nextjs-v121-simplified-with-use-cases-1b0g)
 - [Lifehacker] [Your Outdoor Garden Needs a Muffin Pan](https://lifehacker.com/your-outdoor-garden-needs-a-muffin-pan-1848622552)
 - [Lifehacker] [How to Create the Ultimate Travel Spreadsheet &lpar;and Why You Need One&rpar;](https://lifehacker.com/how-to-create-the-ultimate-travel-spreadsheet-and-why-1848623260)
 - [Lifehacker] [The 7 Biggest Announcements From Apple’s ‘Peek Performance’ Event](https://lifehacker.com/the-7-biggest-announcements-from-apple-s-peek-performa-1848621688)
