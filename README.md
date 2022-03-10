@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [More then 10 String cases - I didn&#39;t knew about before today](https://dev.to/guptasanchit90/more-then-10-string-cases-i-didnt-knew-about-before-today-4f7a)
+- [Dev.to/JS] [Snippet... QR Code - Yes it&#39;s that easy to generate a QR Code](https://dev.to/guptasanchit90/snippet-qr-code-yes-its-that-simple-to-generate-a-qr-code-3kh6)
+- [Dev.to/JS] [Learn react first or backend?](https://dev.to/nirbhik/learn-react-first-or-backend-b6g)
 - [Dev.to/JS] [Binary Search with JavaScript](https://dev.to/kazimdmehedihasan/binary-search-with-javascript-29l)
 - [Dev.to/JS] [Webdevelopment](https://dev.to/sai7kumar2022/webdevelopment-2imc)
-- [Dev.to/JS] [Snippet... PapaParse in Action](https://dev.to/guptasanchit90/snippet-papaparse-in-action-hf5)
+- [Dev.to/JS] [Snippet... Working with CSV in Javascript with PapaParse](https://dev.to/guptasanchit90/snippet-papaparse-in-action-hf5)
 - [Dev.to/JS] [Snippet... Color Converter](https://dev.to/guptasanchit90/snippet-color-converter-mmb)
 - [Dev.to/JS] [Snippets... JSON](https://dev.to/guptasanchit90/snippets-json-18c5)
 - [Dev.to/JS] [How Django meets htmx: A quick tour of modern server side rendering.](https://dev.to/hoangquochung1110/how-django-meets-htmx-a-quick-tour-of-modern-server-side-rendering-2h8f)
 - [Dev.to/JS] [Adding Graphs to a Django Website](https://dev.to/thumbone/adding-graphs-to-a-django-website-4f66)
 - [Dev.to/JS] [Deploying a React Application to AWS Cloudfront](https://dev.to/oliverke/deploying-a-react-application-to-aws-cloudfront-5a62)
 - [Dev.to/JS] [The Card Flip](https://dev.to/kale_leach/the-card-flip-2m3h)
-- [Dev.to/JS] [Promisifying CSS animation with timeout fallback](https://dev.to/derp/promisifying-css-animation-with-timeout-fallback-28ml)
-- [Dev.to/JS] [Discord Bot Blowup](https://dev.to/spoder/discord-bot-blowup-48mk)
-- [Dev.to/JS] [CommonJS and ESM import/export compatibility, by example](https://dev.to/adamcoster/commonjs-and-esm-importexport-compatibility-by-simple-example-50pl)
 - [Lifehacker] [How to Use Zillow&#39;s New Side-by-Side Tool to Compare Houses](https://lifehacker.com/how-to-use-zillows-new-side-by-side-tool-to-compare-hou-1848628409)
 - [Lifehacker] [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
 - [Lifehacker] [You Need to Update Your Windows PC Immediately](https://lifehacker.com/you-need-to-update-your-windows-pc-immediately-1848630370)
