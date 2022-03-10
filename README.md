@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do With a Car That’s Been Flooded](https://lifehacker.com/what-to-do-with-a-car-that-s-been-flooded-1848629031)
+- [Dev.to/JS] [Dativejs {{#if}} block](https://dev.to/tobithedev/dativejs-if-block-29b8)
+- [Dev.to/JS] [28 Types of Applications You Can Build With Node.js - 2022 Guide for Business Owners](https://dev.to/duomly/28-types-of-applications-you-can-build-with-nodejs-2022-guide-for-business-owners-57le)
+- [Dev.to/JS] [useRef Hook In React](https://dev.to/gregpetropoulos/useref-hook-in-react-4p71)
+- [Dev.to/JS] [[novice&#39;s stupid error]Why my Formik validation doesn&#39;t work](https://dev.to/speedingroo/why-my-formik-validation-doesnt-work-5a8d)
+- [Dev.to/JS] [Easiest way to create a secure and random strings for your JWT, session and cookie secrets.](https://dev.to/m0hammedimran/easiest-way-to-create-a-secure-and-random-strings-for-your-jwt-session-and-cookie-secrets-lnn)
 - [Dev.to/JS] [#1 How to find a particular character in string?? &lpar;*The thought process&rpar;](https://dev.to/himanshupal0001/1-how-to-find-a-particular-character-in-string-the-thought-process-5f45)
 - [Dev.to/JS] [A GUIDE ON JAVA STREAM API](https://dev.to/tarungurang/a-guide-on-java-stream-api-4id3)
 - [Dev.to/JS] [اعلانات الكويت](https://dev.to/elanatkuwait/lnt-lkwyt-4p0j)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 2](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-2-1hhc)
 - [Dev.to/JS] [How to Implement an Event Bus in JavaScript](https://dev.to/openhacking/how-to-implement-an-event-bus-in-javascript-15io)
 - [Dev.to/JS] [DAX queries javascript](https://dev.to/hugoqueiros/dax-queries-javascript-2mla)
-- [Dev.to/JS] [Adventures of Promise in Bluebird world](https://dev.to/meruzh/adventures-of-promise-in-bluebird-world-1meg)
-- [Dev.to/JS] [Add JavaScript Actions to PDF in Java](https://dev.to/alexis92/add-javascript-actions-to-pdf-in-java-2ba1)
-- [Dev.to/JS] [Dynamic routes in react-router v6](https://dev.to/lautaro/dynamic-routes-in-react-router-v6-569m)
-- [Dev.to/JS] [Fake data makes for great programmers. A first timer approach to Mockaroo](https://dev.to/404answernotfound/fake-data-makes-for-great-programmers-a-first-timer-approach-to-mockaroo-m7b)
-- [Dev.to/JS] [Why should you not use Cypress for Component Testing?](https://dev.to/kreuzwerker/why-should-you-not-use-cypress-for-component-testing-d30)
 - [Lifehacker] [How to Use Zillow&#39;s New Side-by-Side Tool to Compare Houses](https://lifehacker.com/how-to-use-zillows-new-side-by-side-tool-to-compare-hou-1848628409)
 - [Lifehacker] [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
 - [Lifehacker] [You Need to Update Your Windows PC Immediately](https://lifehacker.com/you-need-to-update-your-windows-pc-immediately-1848630370)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The New Windows 11 Keyboard Shortcuts You Should Actually Use](https://lifehacker.com/the-new-windows-11-keyboard-shortcuts-you-should-actual-1848620565)
 - [Lifehacker] [Why You Shouldn&#39;t Swerve Around Deer &lpar;or Other Animals&rpar; in the Road](https://lifehacker.com/why-you-shouldnt-swerve-around-deer-or-other-animals-1848621931)
 - [Lifehacker] [How to Keep a Straw From Floating Out of Your Soda Can](https://lifehacker.com/how-to-keep-a-straw-from-floating-out-of-your-soda-can-1848618851)
-- [Lifehacker] [You’re Not Replacing Your Loofah Often Enough &lpar;and How to Clean One&rpar;](https://lifehacker.com/you-re-not-replacing-your-loofah-often-enough-and-how-1848622024)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
