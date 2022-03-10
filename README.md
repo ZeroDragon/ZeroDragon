@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Terrible Slang Your Doctor Is Using Behind Your Back](https://lifehacker.com/all-the-terrible-slang-your-doctor-is-using-behind-your-1848635237)
+- [Dev.to/JS] [Everything You Need to Know About the React 18 RC](https://dev.to/kathryngrayson/everything-you-need-to-know-about-the-react-18-rc-3kc6)
+- [Lifehacker] [How to Safely Run Electrical Cords in Your Home &lpar;and What You Should Never Do&rpar;](https://lifehacker.com/how-to-safely-run-electrical-cords-in-your-home-and-wh-1848634721)
 - [Dev.to/JS] [Mocha vs Jest Comparison of Testing Tools in 2022](https://dev.to/duomly/mocha-vs-jest-comparison-of-testing-tools-in-2022-503b)
 - [Lifehacker] [The Best Microsoft PowerToys Shortcuts You’ll Want to Use Every Day](https://lifehacker.com/the-best-microsoft-powertoys-shortcuts-you-ll-want-to-u-1848634350)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 9 &amp; 10](https://dev.to/marvinobig/100-days-of-code-challenge-day-9-10-20m8)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Switch to Substack’s New App](https://lifehacker.com/why-you-should-switch-to-substack-s-new-app-1848634159)
 - [Dev.to/JS] [CSS Parts Inspired by BEM](https://dev.to/claviska/css-parts-inspired-by-bem-3meb)
 - [Lifehacker] [Try One of These Alternatives If You Hate Your Home’s Gutters](https://lifehacker.com/try-one-of-these-alternatives-if-you-hate-your-home-s-g-1848633152)
-- [Dev.to/JS] [Expandable WordPress post excerpt](https://dev.to/mohamed_atta98/expandable-wordpress-post-excerpt-561o)
 - [Lifehacker] [How to Stream Region-Locked British TV Shows From Outside the U.K.](https://lifehacker.com/how-to-stream-region-locked-british-tv-shows-from-outsi-1848632205)
 - [Lifehacker] [Does ‘Impact Investment’ Perform Better Than Evil Investments?](https://lifehacker.com/does-impact-investment-perform-better-than-evil-inves-1848621379)
 - [Lifehacker] [11 Default Firefox Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/11-default-firefox-settings-you-should-change-if-you-ca-1848626750)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know Before You Buy the New iPhone SE](https://lifehacker.com/everything-you-need-to-know-before-you-buy-the-new-ipho-1848628418)
 - [Lifehacker] [The Secret to Making Your Own Restaurant-Style Ginger Dressing](https://lifehacker.com/the-secret-to-making-your-own-restaurant-style-ginger-d-1848628437)
 - [Lifehacker] [Fabric Softener Is BS](https://lifehacker.com/fabric-softener-is-bullshit-1848628137)
-- [Lifehacker] [14 Easy Bumper Crops for Your Beginner&#39;s Garden &lpar;and When to Grow Them&rpar;](https://lifehacker.com/14-easy-bumper-crops-for-your-beginners-garden-and-whe-1848628006)
-- [Lifehacker] [Don&#39;t Freak Out About the Giant Spiders That Will Drop From the Sky This Summer](https://lifehacker.com/dont-freak-out-about-the-giant-spiders-that-will-drop-f-1848627817)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
