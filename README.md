@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a table of content widget in React](https://dev.to/asayerio_techblog/creating-a-table-of-content-widget-in-react-2bci)
+- [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 2](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-2-1hhc)
+- [Dev.to/JS] [How to Implement an Event Bus in JavaScript](https://dev.to/openhacking/how-to-implement-an-event-bus-in-javascript-15io)
+- [Dev.to/JS] [DAX queries javascript](https://dev.to/hugoqueiros/dax-queries-javascript-2mla)
 - [Dev.to/JS] [Adventures of Promise in Bluebird world](https://dev.to/meruzh/adventures-of-promise-in-bluebird-world-1meg)
 - [Dev.to/JS] [Add JavaScript Actions to PDF in Java](https://dev.to/alexis92/add-javascript-actions-to-pdf-in-java-2ba1)
 - [Dev.to/JS] [Dynamic routes in react-router v6](https://dev.to/lautaro/dynamic-routes-in-react-router-v6-569m)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Remove console.log from Production Mode](https://dev.to/drsimplegraffiti/remove-consolelog-from-production-mode-4d8i)
 - [Dev.to/JS] [Open-sourcing Dyte Docs](https://dev.to/vaibhavshn/open-sourcing-dyte-docs-26ch)
 - [Dev.to/JS] [Managing multiple pages in Playwright test](https://dev.to/zt4ff_1/managing-multiple-pages-in-playwright-test-23fc)
-- [Dev.to/JS] [More then 10 String cases - I didn&#39;t knew about before today](https://dev.to/guptasanchit90/more-then-10-string-cases-i-didnt-knew-about-before-today-4f7a)
-- [Dev.to/JS] [Snippet... QR Code - Yes it&#39;s that easy to generate a QR Code](https://dev.to/guptasanchit90/snippet-qr-code-yes-its-that-simple-to-generate-a-qr-code-3kh6)
-- [Dev.to/JS] [Learn react first or backend?](https://dev.to/nirbhik/learn-react-first-or-backend-b6g)
-- [Dev.to/JS] [Binary Search with JavaScript](https://dev.to/kazimdmehedihasan/binary-search-with-javascript-29l)
 - [Lifehacker] [How to Use Zillow&#39;s New Side-by-Side Tool to Compare Houses](https://lifehacker.com/how-to-use-zillows-new-side-by-side-tool-to-compare-hou-1848628409)
 - [Lifehacker] [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
 - [Lifehacker] [You Need to Update Your Windows PC Immediately](https://lifehacker.com/you-need-to-update-your-windows-pc-immediately-1848630370)
