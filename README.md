@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mocha vs Jest Comparison of Testing Tools in 2022](https://dev.to/duomly/mocha-vs-jest-comparison-of-testing-tools-in-2022-503b)
+- [Lifehacker] [The Best Microsoft PowerToys Shortcuts You’ll Want to Use Every Day](https://lifehacker.com/the-best-microsoft-powertoys-shortcuts-you-ll-want-to-u-1848634350)
+- [Dev.to/JS] [100 Days of Code Challenge: Day 9 &amp; 10](https://dev.to/marvinobig/100-days-of-code-challenge-day-9-10-20m8)
+- [Dev.to/JS] [React Native Lifecycle Methods With Hooks Guide](https://dev.to/duomly/react-native-lifecycle-methods-with-hooks-guide-3na4)
+- [Dev.to/JS] [Simple Roadmap To Learn ReactJS](https://dev.to/paulknulst/simple-roadmap-to-learn-reactjs-4eoi)
+- [Lifehacker] [How to Finally Add ‘Portrait Mode’ to Any Picture in Google Photos](https://lifehacker.com/how-to-finally-add-portrait-mode-to-any-picture-in-go-1848634854)
 - [Dev.to/JS] [Move Zeroes - Daily JS &lpar;Day 13&rpar;](https://dev.to/tanvirrahman/move-zeroes-daily-js-day-12-41mn)
 - [Dev.to/JS] [When is onChange not the same as onChange?](https://dev.to/_ezell_/when-is-onchange-is-not-the-same-as-onchange-3i3e)
 - [Dev.to/JS] [How I generated a random response from a API](https://dev.to/danielarmbruster0314/how-i-generated-a-random-response-from-a-api-3cb7)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CSS Parts Inspired by BEM](https://dev.to/claviska/css-parts-inspired-by-bem-3meb)
 - [Lifehacker] [Try One of These Alternatives If You Hate Your Home’s Gutters](https://lifehacker.com/try-one-of-these-alternatives-if-you-hate-your-home-s-g-1848633152)
 - [Dev.to/JS] [Expandable WordPress post excerpt](https://dev.to/mohamed_atta98/expandable-wordpress-post-excerpt-561o)
-- [Dev.to/JS] [SCADA Systems on the Web with Wisej](https://dev.to/iceteagroup/scada-systems-on-the-web-with-wisej-1lg5)
-- [Dev.to/JS] [Native alert and confirm in Wisej](https://dev.to/iceteagroup/native-alert-and-confirm-in-wisej-4pci)
-- [Dev.to/JS] [Introduction to APIs with repositories to get you started](https://dev.to/surajondev/introduction-to-apis-with-repositories-to-get-you-started-2f9c)
 - [Lifehacker] [How to Stream Region-Locked British TV Shows From Outside the U.K.](https://lifehacker.com/how-to-stream-region-locked-british-tv-shows-from-outsi-1848632205)
-- [Dev.to/JS] [How to use custom google font with react native expo, NativeBase and Typescript?](https://dev.to/nerdjfpb/how-to-use-custom-google-font-with-react-native-expo-nativebase-and-typescript-3jf7)
 - [Lifehacker] [Does ‘Impact Investment’ Perform Better Than Evil Investments?](https://lifehacker.com/does-impact-investment-perform-better-than-evil-inves-1848621379)
 - [Lifehacker] [11 Default Firefox Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/11-default-firefox-settings-you-should-change-if-you-ca-1848626750)
 - [Lifehacker] [5 Tips Help You Enjoy Running More](https://lifehacker.com/5-tips-help-you-enjoy-running-more-1848631022)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fabric Softener Is BS](https://lifehacker.com/fabric-softener-is-bullshit-1848628137)
 - [Lifehacker] [14 Easy Bumper Crops for Your Beginner&#39;s Garden &lpar;and When to Grow Them&rpar;](https://lifehacker.com/14-easy-bumper-crops-for-your-beginners-garden-and-whe-1848628006)
 - [Lifehacker] [Don&#39;t Freak Out About the Giant Spiders That Will Drop From the Sky This Summer](https://lifehacker.com/dont-freak-out-about-the-giant-spiders-that-will-drop-f-1848627817)
-- [Lifehacker] [This Free Utility Makes Windows 11 Dark Mode Actually Usable](https://lifehacker.com/this-free-utility-makes-windows-11-dark-mode-actually-u-1848626524)
-- [Lifehacker] [The Easiest Way to Stop Your Windows PC From Going to Sleep](https://lifehacker.com/the-easiest-way-to-stop-your-windows-pc-from-going-to-s-1848626466)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
