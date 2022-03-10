@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#1 How to find a particular character in string?? &lpar;*The thought process&rpar;](https://dev.to/himanshupal0001/1-how-to-find-a-particular-character-in-string-the-thought-process-5f45)
+- [Dev.to/JS] [A GUIDE ON JAVA STREAM API](https://dev.to/tarungurang/a-guide-on-java-stream-api-4id3)
+- [Dev.to/JS] [اعلانات الكويت](https://dev.to/elanatkuwait/lnt-lkwyt-4p0j)
 - [Dev.to/JS] [Creating a table of content widget in React](https://dev.to/asayerio_techblog/creating-a-table-of-content-widget-in-react-2bci)
 - [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 2](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-2-1hhc)
 - [Dev.to/JS] [How to Implement an Event Bus in JavaScript](https://dev.to/openhacking/how-to-implement-an-event-bus-in-javascript-15io)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamic routes in react-router v6](https://dev.to/lautaro/dynamic-routes-in-react-router-v6-569m)
 - [Dev.to/JS] [Fake data makes for great programmers. A first timer approach to Mockaroo](https://dev.to/404answernotfound/fake-data-makes-for-great-programmers-a-first-timer-approach-to-mockaroo-m7b)
 - [Dev.to/JS] [Why should you not use Cypress for Component Testing?](https://dev.to/kreuzwerker/why-should-you-not-use-cypress-for-component-testing-d30)
-- [Dev.to/JS] [Remove console.log from Production Mode](https://dev.to/drsimplegraffiti/remove-consolelog-from-production-mode-4d8i)
-- [Dev.to/JS] [Open-sourcing Dyte Docs](https://dev.to/vaibhavshn/open-sourcing-dyte-docs-26ch)
-- [Dev.to/JS] [Managing multiple pages in Playwright test](https://dev.to/zt4ff_1/managing-multiple-pages-in-playwright-test-23fc)
 - [Lifehacker] [How to Use Zillow&#39;s New Side-by-Side Tool to Compare Houses](https://lifehacker.com/how-to-use-zillows-new-side-by-side-tool-to-compare-hou-1848628409)
 - [Lifehacker] [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
 - [Lifehacker] [You Need to Update Your Windows PC Immediately](https://lifehacker.com/you-need-to-update-your-windows-pc-immediately-1848630370)
