@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 29 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#70. Climbing Stairs&lpar;Easy/JavaScript&rpar;](https://dev.to/devuser1/day-29-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem70-climbing-stairseasyjavascript-15a7)
+- [Dev.to/JS] [My first baby project](https://dev.to/danielarmbruster0314/my-first-baby-project-2eie)
+- [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
+- [Lifehacker] [The Weirdest Pi Day Facts You and Your Kid Will Enjoy](https://lifehacker.com/the-weirdest-pi-day-facts-you-and-your-kid-will-enjoy-1848637107)
 - [Dev.to/JS] [Creating a Tailwind CSS theme for FormKit](https://dev.to/andrewboyd/creating-a-tailwind-css-theme-for-formkit-45o4)
 - [Lifehacker] [10 of the Most Overrated Exercises &lpar;and What to Do Instead&rpar;](https://lifehacker.com/10-of-the-most-overrated-exercises-and-what-to-do-inst-1848635603)
 - [Lifehacker] [How to Replace That One Single Goddamn Cracked Tile](https://lifehacker.com/how-to-replace-that-one-single-goddamn-cracked-tile-1848635815)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I generated a random response from a API](https://dev.to/danielarmbruster0314/how-i-generated-a-random-response-from-a-api-3cb7)
 - [Lifehacker] [The Latest Wordle Clone Is Perfect for Movie Geeks](https://lifehacker.com/the-latest-wordle-clone-is-perfect-for-movie-geeks-1848635062)
 - [Dev.to/JS] [Công nghiệp Việt Nhật](https://dev.to/congnghiepvietnhatvn/cong-nghiep-viet-nhat-46c2)
-- [Dev.to/JS] [JavaScript RPG Game Development | Episode 4: Music and Sound Effects](https://dev.to/timo_ernst/javascript-rpg-game-development-episode-4-music-and-sound-effects-18af)
-- [Dev.to/JS] [21 Amazing React Native Apps Examples - 2022 Edition](https://dev.to/duomly/21-amazing-react-native-apps-examples-2022-edition-3p0b)
 - [Lifehacker] [Why You Should Switch to Substack’s New App](https://lifehacker.com/why-you-should-switch-to-substack-s-new-app-1848634159)
 - [Lifehacker] [Try One of These Alternatives If You Hate Your Home’s Gutters](https://lifehacker.com/try-one-of-these-alternatives-if-you-hate-your-home-s-g-1848633152)
 - [Lifehacker] [How to Stream Region-Locked British TV Shows From Outside the U.K.](https://lifehacker.com/how-to-stream-region-locked-british-tv-shows-from-outsi-1848632205)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Say Immediately After You Send a Text to the Wrong Person](https://lifehacker.com/what-to-say-immediately-after-you-send-a-text-to-the-wr-1848629020)
 - [Lifehacker] [What Really Happens If You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-if-you-cant-pay-your-restaurant-bil-1848629366)
 - [Lifehacker] [When to See the &#39;Worm Moon&#39; at Peak Brilliance](https://lifehacker.com/when-to-see-the-worm-moon-at-peak-brilliance-1848629005)
-- [Lifehacker] [A DIY Garden Trellis Is the Perfect Spring Project](https://lifehacker.com/a-diy-garden-trellis-is-the-perfect-spring-project-1848628042)
-- [Lifehacker] [Everything You Need to Know Before You Buy the New iPhone SE](https://lifehacker.com/everything-you-need-to-know-before-you-buy-the-new-ipho-1848628418)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
