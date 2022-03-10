@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Promisifying CSS animation with timeout fallback](https://dev.to/derp/promisifying-css-animation-with-timeout-fallback-28ml)
+- [Dev.to/JS] [Discord Bot Blowup](https://dev.to/spoder/discord-bot-blowup-48mk)
+- [Dev.to/JS] [CommonJS and ESM import/export compatibility, by example](https://dev.to/adamcoster/commonjs-and-esm-importexport-compatibility-by-simple-example-50pl)
+- [Dev.to/JS] [Day 28 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#166. Fraction to Recurring Decimal&lpar;Med/JavaScript&rpar;](https://dev.to/devuser1/day-28-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem166-fraction-to-recurring-decimalmedjavascript-eoo)
 - [Dev.to/JS] [How to create a three state toggle switch using html, css and javascript](https://dev.to/jimajs/how-to-create-a-three-state-toggle-switch-using-html-css-and-javascript-2e68)
 - [Dev.to/JS] [Cypress + dotenv: Como utilizar arquivos .env em seus testes automatizados](https://dev.to/m4rri4nne/cypress-dotenv-como-utilizar-arquivos-env-em-seus-testes-automatizados-49bl)
 - [Dev.to/JS] [React 18 release candidate mode is finally here!!](https://dev.to/sharjeelyunus/react-18-release-candidate-mode-is-finally-here-3dl6)
@@ -36,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between a Service Dog and a Therapy Dog](https://lifehacker.com/the-difference-between-a-service-dog-and-a-therapy-dog-1848627962)
 - [Dev.to/JS] [How to block requests with Puppeteer](https://dev.to/krasun/how-to-block-requests-with-puppeteer-3584)
 - [Lifehacker] [What to Say Immediately After You Send a Text to the Wrong Person](https://lifehacker.com/what-to-say-immediately-after-you-send-a-text-to-the-wr-1848629020)
-- [Dev.to/JS] [odd or even large number with react window instead of web worker](https://dev.to/sababg/odd-or-even-large-number-in-a-very-short-time-with-react-window-npj)
-- [Dev.to/JS] [The javascript module pattern](https://dev.to/quality_pre/the-javascript-module-pattern-3h77)
 - [Lifehacker] [What Really Happens If You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-if-you-cant-pay-your-restaurant-bil-1848629366)
-- [Dev.to/JS] [Wordle Clone Using HTML CSS and Javascript](https://dev.to/sameer8saini/wordle-clone-using-html-css-and-javascript-26e4)
-- [Dev.to/JS] [Code highlighting in code blocks](https://dev.to/stuartcreed/code-snippet-package-highlightjs-22pf)
 - [Lifehacker] [When to See the &#39;Worm Moon&#39; at Peak Brilliance](https://lifehacker.com/when-to-see-the-worm-moon-at-peak-brilliance-1848629005)
 - [Lifehacker] [A DIY Garden Trellis Is the Perfect Spring Project](https://lifehacker.com/a-diy-garden-trellis-is-the-perfect-spring-project-1848628042)
 - [Lifehacker] [Everything You Need to Know Before You Buy the New iPhone SE](https://lifehacker.com/everything-you-need-to-know-before-you-buy-the-new-ipho-1848628418)
