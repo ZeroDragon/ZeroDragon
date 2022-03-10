@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Tailwind CSS theme for FormKit](https://dev.to/andrewboyd/creating-a-tailwind-css-theme-for-formkit-45o4)
+- [Lifehacker] [10 of the Most Overrated Exercises &lpar;and What to Do Instead&rpar;](https://lifehacker.com/10-of-the-most-overrated-exercises-and-what-to-do-inst-1848635603)
+- [Lifehacker] [How to Replace That One Single Goddamn Cracked Tile](https://lifehacker.com/how-to-replace-that-one-single-goddamn-cracked-tile-1848635815)
 - [Lifehacker] [All the Terrible Slang Your Doctor Is Using Behind Your Back](https://lifehacker.com/all-the-terrible-slang-your-doctor-is-using-behind-your-1848635237)
 - [Dev.to/JS] [Everything You Need to Know About the React 18 RC](https://dev.to/kathryngrayson/everything-you-need-to-know-about-the-react-18-rc-3kc6)
 - [Lifehacker] [How to Safely Run Electrical Cords in Your Home &lpar;and What You Should Never Do&rpar;](https://lifehacker.com/how-to-safely-run-electrical-cords-in-your-home-and-wh-1848634721)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript RPG Game Development | Episode 4: Music and Sound Effects](https://dev.to/timo_ernst/javascript-rpg-game-development-episode-4-music-and-sound-effects-18af)
 - [Dev.to/JS] [21 Amazing React Native Apps Examples - 2022 Edition](https://dev.to/duomly/21-amazing-react-native-apps-examples-2022-edition-3p0b)
 - [Lifehacker] [Why You Should Switch to Substack’s New App](https://lifehacker.com/why-you-should-switch-to-substack-s-new-app-1848634159)
-- [Dev.to/JS] [CSS Parts Inspired by BEM](https://dev.to/claviska/css-parts-inspired-by-bem-3meb)
 - [Lifehacker] [Try One of These Alternatives If You Hate Your Home’s Gutters](https://lifehacker.com/try-one-of-these-alternatives-if-you-hate-your-home-s-g-1848633152)
 - [Lifehacker] [How to Stream Region-Locked British TV Shows From Outside the U.K.](https://lifehacker.com/how-to-stream-region-locked-british-tv-shows-from-outsi-1848632205)
 - [Lifehacker] [Does ‘Impact Investment’ Perform Better Than Evil Investments?](https://lifehacker.com/does-impact-investment-perform-better-than-evil-inves-1848621379)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the &#39;Worm Moon&#39; at Peak Brilliance](https://lifehacker.com/when-to-see-the-worm-moon-at-peak-brilliance-1848629005)
 - [Lifehacker] [A DIY Garden Trellis Is the Perfect Spring Project](https://lifehacker.com/a-diy-garden-trellis-is-the-perfect-spring-project-1848628042)
 - [Lifehacker] [Everything You Need to Know Before You Buy the New iPhone SE](https://lifehacker.com/everything-you-need-to-know-before-you-buy-the-new-ipho-1848628418)
-- [Lifehacker] [The Secret to Making Your Own Restaurant-Style Ginger Dressing](https://lifehacker.com/the-secret-to-making-your-own-restaurant-style-ginger-d-1848628437)
-- [Lifehacker] [Fabric Softener Is BS](https://lifehacker.com/fabric-softener-is-bullshit-1848628137)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
