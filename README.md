@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploying a React Application to AWS Cloudfront](https://dev.to/oliverke/deploying-a-react-application-to-aws-cloudfront-5a62)
 - [Dev.to/JS] [The Card Flip](https://dev.to/kale_leach/the-card-flip-2m3h)
 - [Dev.to/JS] [Promisifying CSS animation with timeout fallback](https://dev.to/derp/promisifying-css-animation-with-timeout-fallback-28ml)
 - [Dev.to/JS] [Discord Bot Blowup](https://dev.to/spoder/discord-bot-blowup-48mk)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Update Your Windows PC Immediately](https://lifehacker.com/you-need-to-update-your-windows-pc-immediately-1848630370)
 - [Dev.to/JS] [What Would be Useful in Your GraphQL Work?](https://dev.to/adron/what-would-be-useful-in-your-graphql-work-2pjc)
 - [Dev.to/JS] [For startups that are a beast, flashups bring beauty](https://dev.to/richkurtzman/for-startups-that-are-a-beast-flashups-bring-beauty-7je)
-- [Dev.to/JS] [React Components: Just Like Watching the News](https://dev.to/slj2222/react-components-just-like-watching-the-news-20nj)
 - [Lifehacker] [The Difference Between a Service Dog and a Therapy Dog](https://lifehacker.com/the-difference-between-a-service-dog-and-a-therapy-dog-1848627962)
 - [Lifehacker] [What to Say Immediately After You Send a Text to the Wrong Person](https://lifehacker.com/what-to-say-immediately-after-you-send-a-text-to-the-wr-1848629020)
 - [Lifehacker] [What Really Happens If You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-if-you-cant-pay-your-restaurant-bil-1848629366)
