@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Move Zeroes - Daily JS &lpar;Day 13&rpar;](https://dev.to/tanvirrahman/move-zeroes-daily-js-day-12-41mn)
+- [Dev.to/JS] [When is onChange not the same as onChange?](https://dev.to/_ezell_/when-is-onchange-is-not-the-same-as-onchange-3i3e)
+- [Dev.to/JS] [How I generated a random response from a API](https://dev.to/danielarmbruster0314/how-i-generated-a-random-response-from-a-api-3cb7)
+- [Lifehacker] [The Latest Wordle Clone Is Perfect for Movie Geeks](https://lifehacker.com/the-latest-wordle-clone-is-perfect-for-movie-geeks-1848635062)
+- [Dev.to/JS] [Công nghiệp Việt Nhật](https://dev.to/congnghiepvietnhatvn/cong-nghiep-viet-nhat-46c2)
+- [Dev.to/JS] [JavaScript RPG Game Development | Episode 4: Music and Sound Effects](https://dev.to/timo_ernst/javascript-rpg-game-development-episode-4-music-and-sound-effects-18af)
+- [Dev.to/JS] [21 Amazing React Native Apps Examples - 2022 Edition](https://dev.to/duomly/21-amazing-react-native-apps-examples-2022-edition-3p0b)
 - [Lifehacker] [Why You Should Switch to Substack’s New App](https://lifehacker.com/why-you-should-switch-to-substack-s-new-app-1848634159)
 - [Dev.to/JS] [CSS Parts Inspired by BEM](https://dev.to/claviska/css-parts-inspired-by-bem-3meb)
 - [Lifehacker] [Try One of These Alternatives If You Hate Your Home’s Gutters](https://lifehacker.com/try-one-of-these-alternatives-if-you-hate-your-home-s-g-1848633152)
@@ -30,14 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SCADA Systems on the Web with Wisej](https://dev.to/iceteagroup/scada-systems-on-the-web-with-wisej-1lg5)
 - [Dev.to/JS] [Native alert and confirm in Wisej](https://dev.to/iceteagroup/native-alert-and-confirm-in-wisej-4pci)
 - [Dev.to/JS] [Introduction to APIs with repositories to get you started](https://dev.to/surajondev/introduction-to-apis-with-repositories-to-get-you-started-2f9c)
-- [Dev.to/JS] [Con V-Health Passport](https://dev.to/daniels97777460/con-v-health-passport-1f66)
-- [Dev.to/JS] [VCode® que es el código](https://dev.to/daniels97777460/vcoder-que-es-el-codigo-425o)
-- [Dev.to/JS] [Los códigos QR pueden ser clonados](https://dev.to/daniels97777460/los-codigos-qr-pueden-ser-clonados-326a)
 - [Lifehacker] [How to Stream Region-Locked British TV Shows From Outside the U.K.](https://lifehacker.com/how-to-stream-region-locked-british-tv-shows-from-outsi-1848632205)
 - [Dev.to/JS] [How to use custom google font with react native expo, NativeBase and Typescript?](https://dev.to/nerdjfpb/how-to-use-custom-google-font-with-react-native-expo-nativebase-and-typescript-3jf7)
-- [Dev.to/JS] [v1.2.0 for djs-marshal is out!](https://dev.to/deathvenom54/v120-for-djs-marshal-is-out-34ce)
-- [Dev.to/JS] [Copy to Clipboard in JS](https://dev.to/arndom/copy-to-clipboard-in-js-4b0d)
-- [Dev.to/JS] [#30Days MEAN Project Day2](https://dev.to/seshubabubatchu/30days-mean-project-day2-3iln)
 - [Lifehacker] [Does ‘Impact Investment’ Perform Better Than Evil Investments?](https://lifehacker.com/does-impact-investment-perform-better-than-evil-inves-1848621379)
 - [Lifehacker] [11 Default Firefox Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/11-default-firefox-settings-you-should-change-if-you-ca-1848626750)
 - [Lifehacker] [5 Tips Help You Enjoy Running More](https://lifehacker.com/5-tips-help-you-enjoy-running-more-1848631022)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Freak Out About the Giant Spiders That Will Drop From the Sky This Summer](https://lifehacker.com/dont-freak-out-about-the-giant-spiders-that-will-drop-f-1848627817)
 - [Lifehacker] [This Free Utility Makes Windows 11 Dark Mode Actually Usable](https://lifehacker.com/this-free-utility-makes-windows-11-dark-mode-actually-u-1848626524)
 - [Lifehacker] [The Easiest Way to Stop Your Windows PC From Going to Sleep](https://lifehacker.com/the-easiest-way-to-stop-your-windows-pc-from-going-to-s-1848626466)
-- [Lifehacker] [Stop Blurring Your Sensitive Information in Screenshots](https://lifehacker.com/stop-blurring-your-sensitive-information-in-screenshots-1848626457)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)
 - [Crazy Programmer] [Solve TypeError: can’t multiply sequence by non-int of type ‘float’ in Python](https://www.thecrazyprogrammer.com/2022/03/cant-multiply-sequence-by-non-int-of-type-float.html)<!-- TECH-POSTS:END -->
