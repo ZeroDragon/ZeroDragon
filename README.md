@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Snippet... PapaParse in Action](https://dev.to/guptasanchit90/snippet-papaparse-in-action-hf5)
+- [Dev.to/JS] [Snippet... Color Converter](https://dev.to/guptasanchit90/snippet-color-converter-mmb)
+- [Dev.to/JS] [Snippets... JSON](https://dev.to/guptasanchit90/snippets-json-18c5)
+- [Dev.to/JS] [How Django meets htmx: A quick tour of modern server side rendering.](https://dev.to/hoangquochung1110/how-django-meets-htmx-a-quick-tour-of-modern-server-side-rendering-2h8f)
+- [Dev.to/JS] [Adding Graphs to a Django Website](https://dev.to/thumbone/adding-graphs-to-a-django-website-4f66)
 - [Dev.to/JS] [Deploying a React Application to AWS Cloudfront](https://dev.to/oliverke/deploying-a-react-application-to-aws-cloudfront-5a62)
 - [Dev.to/JS] [The Card Flip](https://dev.to/kale_leach/the-card-flip-2m3h)
 - [Dev.to/JS] [Promisifying CSS animation with timeout fallback](https://dev.to/derp/promisifying-css-animation-with-timeout-fallback-28ml)
@@ -30,14 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CommonJS and ESM import/export compatibility, by example](https://dev.to/adamcoster/commonjs-and-esm-importexport-compatibility-by-simple-example-50pl)
 - [Dev.to/JS] [Day 28 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#166. Fraction to Recurring Decimal&lpar;Med/JavaScript&rpar;](https://dev.to/devuser1/day-28-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem166-fraction-to-recurring-decimalmedjavascript-eoo)
 - [Dev.to/JS] [How to create a three state toggle switch using html, css and javascript](https://dev.to/jimajs/how-to-create-a-three-state-toggle-switch-using-html-css-and-javascript-2e68)
-- [Dev.to/JS] [Cypress + dotenv: Como utilizar arquivos .env em seus testes automatizados](https://dev.to/m4rri4nne/cypress-dotenv-como-utilizar-arquivos-env-em-seus-testes-automatizados-49bl)
-- [Dev.to/JS] [React 18 release candidate mode is finally here!!](https://dev.to/sharjeelyunus/react-18-release-candidate-mode-is-finally-here-3dl6)
 - [Lifehacker] [How to Use Zillow&#39;s New Side-by-Side Tool to Compare Houses](https://lifehacker.com/how-to-use-zillows-new-side-by-side-tool-to-compare-hou-1848628409)
 - [Lifehacker] [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
-- [Dev.to/JS] [Let&#39;s have a blast of fun! How to build a Minesweeper clone for the CLI with NodeJS 💣🔍](https://dev.to/thormeier/lets-have-a-blast-of-fun-build-a-minesweeper-clone-for-the-cli-1o5)
 - [Lifehacker] [You Need to Update Your Windows PC Immediately](https://lifehacker.com/you-need-to-update-your-windows-pc-immediately-1848630370)
-- [Dev.to/JS] [What Would be Useful in Your GraphQL Work?](https://dev.to/adron/what-would-be-useful-in-your-graphql-work-2pjc)
-- [Dev.to/JS] [For startups that are a beast, flashups bring beauty](https://dev.to/richkurtzman/for-startups-that-are-a-beast-flashups-bring-beauty-7je)
 - [Lifehacker] [The Difference Between a Service Dog and a Therapy Dog](https://lifehacker.com/the-difference-between-a-service-dog-and-a-therapy-dog-1848627962)
 - [Lifehacker] [What to Say Immediately After You Send a Text to the Wrong Person](https://lifehacker.com/what-to-say-immediately-after-you-send-a-text-to-the-wr-1848629020)
 - [Lifehacker] [What Really Happens If You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-if-you-cant-pay-your-restaurant-bil-1848629366)
