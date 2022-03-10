@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Card Flip](https://dev.to/kale_leach/the-card-flip-2m3h)
 - [Dev.to/JS] [Promisifying CSS animation with timeout fallback](https://dev.to/derp/promisifying-css-animation-with-timeout-fallback-28ml)
 - [Dev.to/JS] [Discord Bot Blowup](https://dev.to/spoder/discord-bot-blowup-48mk)
 - [Dev.to/JS] [CommonJS and ESM import/export compatibility, by example](https://dev.to/adamcoster/commonjs-and-esm-importexport-compatibility-by-simple-example-50pl)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [For startups that are a beast, flashups bring beauty](https://dev.to/richkurtzman/for-startups-that-are-a-beast-flashups-bring-beauty-7je)
 - [Dev.to/JS] [React Components: Just Like Watching the News](https://dev.to/slj2222/react-components-just-like-watching-the-news-20nj)
 - [Lifehacker] [The Difference Between a Service Dog and a Therapy Dog](https://lifehacker.com/the-difference-between-a-service-dog-and-a-therapy-dog-1848627962)
-- [Dev.to/JS] [How to block requests with Puppeteer](https://dev.to/krasun/how-to-block-requests-with-puppeteer-3584)
 - [Lifehacker] [What to Say Immediately After You Send a Text to the Wrong Person](https://lifehacker.com/what-to-say-immediately-after-you-send-a-text-to-the-wr-1848629020)
 - [Lifehacker] [What Really Happens If You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-if-you-cant-pay-your-restaurant-bil-1848629366)
 - [Lifehacker] [When to See the &#39;Worm Moon&#39; at Peak Brilliance](https://lifehacker.com/when-to-see-the-worm-moon-at-peak-brilliance-1848629005)
