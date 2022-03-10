@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Binary Search with JavaScript](https://dev.to/kazimdmehedihasan/binary-search-with-javascript-29l)
+- [Dev.to/JS] [Webdevelopment](https://dev.to/sai7kumar2022/webdevelopment-2imc)
 - [Dev.to/JS] [Snippet... PapaParse in Action](https://dev.to/guptasanchit90/snippet-papaparse-in-action-hf5)
 - [Dev.to/JS] [Snippet... Color Converter](https://dev.to/guptasanchit90/snippet-color-converter-mmb)
 - [Dev.to/JS] [Snippets... JSON](https://dev.to/guptasanchit90/snippets-json-18c5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promisifying CSS animation with timeout fallback](https://dev.to/derp/promisifying-css-animation-with-timeout-fallback-28ml)
 - [Dev.to/JS] [Discord Bot Blowup](https://dev.to/spoder/discord-bot-blowup-48mk)
 - [Dev.to/JS] [CommonJS and ESM import/export compatibility, by example](https://dev.to/adamcoster/commonjs-and-esm-importexport-compatibility-by-simple-example-50pl)
-- [Dev.to/JS] [Day 28 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#166. Fraction to Recurring Decimal&lpar;Med/JavaScript&rpar;](https://dev.to/devuser1/day-28-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem166-fraction-to-recurring-decimalmedjavascript-eoo)
-- [Dev.to/JS] [How to create a three state toggle switch using html, css and javascript](https://dev.to/jimajs/how-to-create-a-three-state-toggle-switch-using-html-css-and-javascript-2e68)
 - [Lifehacker] [How to Use Zillow&#39;s New Side-by-Side Tool to Compare Houses](https://lifehacker.com/how-to-use-zillows-new-side-by-side-tool-to-compare-hou-1848628409)
 - [Lifehacker] [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
 - [Lifehacker] [You Need to Update Your Windows PC Immediately](https://lifehacker.com/you-need-to-update-your-windows-pc-immediately-1848630370)
