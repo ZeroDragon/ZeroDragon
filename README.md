@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a three state toggle switch using html, css and javascript](https://dev.to/jimajs/how-to-create-a-three-state-toggle-switch-using-html-css-and-javascript-2e68)
+- [Dev.to/JS] [Cypress + dotenv: Como utilizar arquivos .env em seus testes automatizados](https://dev.to/m4rri4nne/cypress-dotenv-como-utilizar-arquivos-env-em-seus-testes-automatizados-49bl)
+- [Dev.to/JS] [React 18 release candidate mode is finally here!!](https://dev.to/sharjeelyunus/react-18-release-candidate-mode-is-finally-here-3dl6)
 - [Lifehacker] [How to Use Zillow&#39;s New Side-by-Side Tool to Compare Houses](https://lifehacker.com/how-to-use-zillows-new-side-by-side-tool-to-compare-hou-1848628409)
 - [Lifehacker] [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
 - [Dev.to/JS] [Let&#39;s have a blast of fun! How to build a Minesweeper clone for the CLI with NodeJS 💣🔍](https://dev.to/thormeier/lets-have-a-blast-of-fun-build-a-minesweeper-clone-for-the-cli-1o5)
@@ -40,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code highlighting in code blocks](https://dev.to/stuartcreed/code-snippet-package-highlightjs-22pf)
 - [Lifehacker] [When to See the &#39;Worm Moon&#39; at Peak Brilliance](https://lifehacker.com/when-to-see-the-worm-moon-at-peak-brilliance-1848629005)
 - [Lifehacker] [A DIY Garden Trellis Is the Perfect Spring Project](https://lifehacker.com/a-diy-garden-trellis-is-the-perfect-spring-project-1848628042)
-- [Dev.to/JS] [React.js tips for better performance. Part 1](https://dev.to/raaj/reactjs-tips-for-better-performance-part-1-21og)
 - [Lifehacker] [Everything You Need to Know Before You Buy the New iPhone SE](https://lifehacker.com/everything-you-need-to-know-before-you-buy-the-new-ipho-1848628418)
-- [Dev.to/JS] [useEffect in react: Everything you need to know](https://dev.to/therajatg/useeffect-in-react-everything-you-need-to-know-512k)
 - [Lifehacker] [The Secret to Making Your Own Restaurant-Style Ginger Dressing](https://lifehacker.com/the-secret-to-making-your-own-restaurant-style-ginger-d-1848628437)
-- [Dev.to/JS] [Nextless.js on Product Hunt 🚀 Full-stack React SaaS Boilerplate](https://dev.to/ixartz/nextlessjs-on-product-hunt-full-stack-react-saas-boilerplate-264o)
 - [Lifehacker] [Fabric Softener Is BS](https://lifehacker.com/fabric-softener-is-bullshit-1848628137)
 - [Lifehacker] [14 Easy Bumper Crops for Your Beginner&#39;s Garden &lpar;and When to Grow Them&rpar;](https://lifehacker.com/14-easy-bumper-crops-for-your-beginners-garden-and-whe-1848628006)
 - [Lifehacker] [Don&#39;t Freak Out About the Giant Spiders That Will Drop From the Sky This Summer](https://lifehacker.com/dont-freak-out-about-the-giant-spiders-that-will-drop-f-1848627817)
