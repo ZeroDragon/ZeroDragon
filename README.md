@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Your Own Livestreaming App with Twilio Live](https://dev.to/codesphere/build-your-own-livestreaming-app-with-twilio-live-4709)
+- [Lifehacker] [All the Smart &lpar;and Legal&rpar; Ways to Get Free Plants](https://lifehacker.com/all-the-smart-and-legal-ways-to-get-free-plants-1848638386)
+- [Dev.to/JS] [6 Websites To Find Frontend Projects To Test Your Skills](https://dev.to/mianazan/6-websites-to-find-frontend-projects-to-test-your-skills-1kj4)
+- [Dev.to/JS] [How To Test a Node.js Module with JavaScript using Mocha and Assert](https://dev.to/zt4ff_1/how-to-test-a-nodejs-module-with-javascript-using-mocha-and-assert-1j71)
+- [Lifehacker] [10 of the Best Movies That Prove Rich People Are Terrible](https://lifehacker.com/10-of-the-best-movies-that-prove-rich-people-are-terrib-1848628516)
+- [Dev.to/JS] [symbol-help a simple shell application](https://dev.to/simonedelpopolo/symbol-help-a-simple-shell-application-2ep7)
+- [Dev.to/JS] [Deploying Functions Just Got Easier with Appwrite CLI 2.0!](https://dev.to/appwrite/deploying-functions-just-got-easier-with-appwrite-cli-20-2cmm)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid-Culture: What Exactly Is &#39;Elden Ring&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-exac-1848639580)
 - [Lifehacker] [11 of the Most Clever Travel Hacks, According to TikTok](https://lifehacker.com/11-of-the-most-clever-travel-hacks-according-to-tiktok-1848635772)
 - [Dev.to/JS] [Your first React app](https://dev.to/eelcoverbrugge/your-first-react-app-17nl)
 - [Dev.to/JS] [Just Five News · Daily News](https://dev.to/baransel/just-five-news-daily-news-ga2)
@@ -33,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resources to Polish Your JavaScript](https://dev.to/raftlabs/resources-to-polish-your-javascript-5c54)
 - [Dev.to/JS] [How to set up a professional React project &lpar;including screencast&rpar;](https://dev.to/profydev/how-to-set-up-a-professional-react-project-including-screencast-180f)
 - [Dev.to/JS] [Top 10 trending github repos of the week👽.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-4epc)
-- [Dev.to/JS] [DevTips Daily Update 11/03/22](https://dev.to/codebubb/devtips-daily-update-110322-1pod)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
-- [Dev.to/JS] [Naming matters](https://dev.to/mbarzeev/naming-matters-576f)
-- [Dev.to/JS] [Why I am unable to populate and select the custom item in juery-ui autocomoplete?](https://dev.to/pcmagas/why-i-am-unable-to-populate-and-select-the-custom-item-in-juery-ui-autocomoplete-4lcj)
-- [Dev.to/JS] [Why Use React Native for Your Project](https://dev.to/duomly/why-use-react-native-for-your-project-32mi)
-- [Dev.to/JS] [Managing multiple pages in playwright test](https://dev.to/zt4ff_1/managing-multiple-pages-in-playwright-test-ipo)
 - [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
 - [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
 - [Lifehacker] [The Weirdest Pi Day Facts You and Your Kid Will Enjoy](https://lifehacker.com/the-weirdest-pi-day-facts-you-and-your-kid-will-enjoy-1848637107)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get the Most Out of Every Drop of Gas Right Now](https://lifehacker.com/how-to-get-the-most-out-of-every-drop-of-gas-right-now-1848630417)
 - [Lifehacker] [Enjoy These Pi Day Deals for Cheap and Free Food](https://lifehacker.com/enjoy-these-pi-day-deals-for-cheap-and-free-food-1848627755)
 - [Lifehacker] [What to Do With a Car That’s Been Flooded](https://lifehacker.com/what-to-do-with-a-car-that-s-been-flooded-1848629031)
-- [Lifehacker] [How to Use Zillow&#39;s New Side-by-Side Tool to Compare Houses](https://lifehacker.com/how-to-use-zillows-new-side-by-side-tool-to-compare-hou-1848628409)
-- [Lifehacker] [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
-- [Lifehacker] [You Need to Update Your Windows PC Immediately](https://lifehacker.com/you-need-to-update-your-windows-pc-immediately-1848630370)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
