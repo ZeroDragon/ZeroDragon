@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Google chrome extension in 30 minutes](https://dev.to/gopalkrish23/create-a-google-chrome-extension-in-30-minutes-5he9)
 - [Dev.to/JS] [Functional Programming Baby Steps: Why TaskEither Is Better Than Promise](https://dev.to/mkessy/functional-programming-baby-steps-why-taskeither-is-better-than-promise-35j0)
 - [Dev.to/JS] [Wisej helps migrate Skanska’s Project Management Application for 4,500 users](https://dev.to/iceteagroup/wisej-helps-migrate-skanskas-project-management-application-for-4500-users-1jd9)
 - [Dev.to/JS] [3 Secret Vue Patterns for Productivity Boost!](https://dev.to/matheusgomes062/3-secret-vue-patterns-for-productivity-boost-5hhm)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Native Lifecycle Methods With Hooks Guide](https://dev.to/duomly/react-native-lifecycle-methods-with-hooks-guide-3na4)
 - [Dev.to/JS] [Simple Roadmap To Learn ReactJS](https://dev.to/paulknulst/simple-roadmap-to-learn-reactjs-4eoi)
 - [Lifehacker] [How to Finally Add ‘Portrait Mode’ to Any Picture in Google Photos](https://lifehacker.com/how-to-finally-add-portrait-mode-to-any-picture-in-go-1848634854)
-- [Dev.to/JS] [Move Zeroes - Daily JS &lpar;Day 13&rpar;](https://dev.to/tanvirrahman/move-zeroes-daily-js-day-12-41mn)
 - [Lifehacker] [The Latest Wordle Clone Is Perfect for Movie Geeks](https://lifehacker.com/the-latest-wordle-clone-is-perfect-for-movie-geeks-1848635062)
 - [Lifehacker] [Why You Should Switch to Substack’s New App](https://lifehacker.com/why-you-should-switch-to-substack-s-new-app-1848634159)
 - [Lifehacker] [Try One of These Alternatives If You Hate Your Home’s Gutters](https://lifehacker.com/try-one-of-these-alternatives-if-you-hate-your-home-s-g-1848633152)
