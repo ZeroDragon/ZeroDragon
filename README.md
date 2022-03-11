@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unit Testing of React Components with Testing Library](https://dev.to/iamashusahoo/unit-testing-of-react-components-with-testing-library-4nob)
 - [Dev.to/JS] [Create a Google chrome extension in 30 minutes](https://dev.to/gopalkrish23/create-a-google-chrome-extension-in-30-minutes-5he9)
 - [Dev.to/JS] [Functional Programming Baby Steps: Why TaskEither Is Better Than Promise](https://dev.to/mkessy/functional-programming-baby-steps-why-taskeither-is-better-than-promise-35j0)
 - [Dev.to/JS] [Wisej helps migrate Skanska’s Project Management Application for 4,500 users](https://dev.to/iceteagroup/wisej-helps-migrate-skanskas-project-management-application-for-4500-users-1jd9)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Microsoft PowerToys Shortcuts You’ll Want to Use Every Day](https://lifehacker.com/the-best-microsoft-powertoys-shortcuts-you-ll-want-to-u-1848634350)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 9 &amp; 10](https://dev.to/marvinobig/100-days-of-code-challenge-day-9-10-20m8)
 - [Dev.to/JS] [React Native Lifecycle Methods With Hooks Guide](https://dev.to/duomly/react-native-lifecycle-methods-with-hooks-guide-3na4)
-- [Dev.to/JS] [Simple Roadmap To Learn ReactJS](https://dev.to/paulknulst/simple-roadmap-to-learn-reactjs-4eoi)
 - [Lifehacker] [How to Finally Add ‘Portrait Mode’ to Any Picture in Google Photos](https://lifehacker.com/how-to-finally-add-portrait-mode-to-any-picture-in-go-1848634854)
 - [Lifehacker] [The Latest Wordle Clone Is Perfect for Movie Geeks](https://lifehacker.com/the-latest-wordle-clone-is-perfect-for-movie-geeks-1848635062)
 - [Lifehacker] [Why You Should Switch to Substack’s New App](https://lifehacker.com/why-you-should-switch-to-substack-s-new-app-1848634159)
