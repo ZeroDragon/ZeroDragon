@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cannot read properties of undefined &lpar;reading &#39;childNodes&#39;&rpar;](https://dev.to/hugoqueiros/cannot-read-properties-of-undefined-reading-childnodes-280l)
+- [Dev.to/JS] [The Transition From Higher-Order Component Pattern to React Hooks Pattern](https://dev.to/asayerio_techblog/the-transition-from-higher-order-component-pattern-to-react-hooks-pattern-5c3l)
+- [Dev.to/JS] [Which are the Best Front-end Frameworks &lpar;2022&rpar;? by Reddit Community Experts&#39;](https://dev.to/kane_jason/which-are-the-best-front-end-frameworks-2022-by-reddit-community-experts-5f9p)
+- [Dev.to/JS] [Getting comfortable with promises in JavaScript](https://dev.to/alexadamov/getting-comfortable-with-promises-in-javascript-507p)
 - [Dev.to/JS] [Day 14/100, 100 Days of Code](https://dev.to/xurgg/day-14100-100-days-of-code-3ibh)
 - [Dev.to/JS] [Let&#39;s make a Sponsor page with Next JS and Stripe](https://dev.to/codewithsnowbit/lets-make-a-sponsor-page-with-next-js-and-stripe-4bak)
 - [Dev.to/JS] [Kolkata ff Best website ?](https://dev.to/kolkatafatafat/kolkata-ff-best-website--4pif)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 1.42.1 Released](https://dev.to/matteobruni/tsparticles-1421-released-6ob)
 - [Dev.to/JS] [How to use React Context API](https://dev.to/anuraggharat/how-to-use-react-context-api-5a6a)
 - [Dev.to/JS] [Features of Codeigniter web development](https://dev.to/jhonthsmith/features-of-codeigniter-web-development-1051)
-- [Dev.to/JS] [How to prepare for Google Summer of Code 2022?](https://dev.to/sanjaysinghrajpoot/how-to-prepare-for-google-summer-of-code-2022-899)
-- [Dev.to/JS] [Scan Duplicated &amp; Similar CSS](https://dev.to/zhcalvin/scan-duplicated-css-4fc0)
-- [Dev.to/JS] [How to Create a Cryptocurrency](https://dev.to/mattyreign/how-to-create-a-cryptocurrency-c5k)
-- [Dev.to/JS] [How to Earn 100+ Per Month without Coding work](https://dev.to/hillarywhite/how-to-earn-100-per-month-without-coding-work-26m3)
 - [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
 - [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
 - [Lifehacker] [The Weirdest Pi Day Facts You and Your Kid Will Enjoy](https://lifehacker.com/the-weirdest-pi-day-facts-you-and-your-kid-will-enjoy-1848637107)
