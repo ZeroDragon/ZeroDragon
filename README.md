@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple alert in React Native](https://dev.to/sirbalin26/simple-alert-in-react-native-fap)
+- [Dev.to/JS] [Simple alert in React](https://dev.to/sirbalin26/simple-alert-in-react-88k)
+- [Lifehacker] [Flavor Your Mayo With Leftover Greens](https://lifehacker.com/flavor-your-mayo-with-leftover-greens-1848640478)
+- [Dev.to/JS] [Create Portfolio in 2 minutes](https://dev.to/kumard3/create-portfolio-in-2-minutes-502a)
+- [Lifehacker] [5 of Our Favorite Travel Hacks of 2022](https://lifehacker.com/5-of-our-favorite-travel-hacks-of-2022-1848641700)
 - [Dev.to/JS] [Si eres desarrollador de Javascript debes conocer esta extensión de VS Code](https://dev.to/juansemastrangelo/si-eres-desarrollador-de-javascript-debes-conocer-esta-extension-de-vs-45ph)
 - [Dev.to/JS] [The Anatomy Of My Ideal React Component](https://dev.to/antjanus/the-anatomy-of-my-ideal-react-component-1lo0)
 - [Dev.to/JS] [Enumerating JavaScript Objects](https://dev.to/365erik/enumerating-javascript-objects-46c4)
@@ -35,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the New iPhone SE Is Worth the Extra $29](https://lifehacker.com/why-the-new-iphone-se-is-worth-the-extra-29-1848633156)
 - [Dev.to/JS] [You won&#39;t forget how to use variables in js after reading this!](https://dev.to/krishnapankhania/you-wont-forget-how-to-use-variables-in-js-after-reading-this-mn9)
 - [Dev.to/JS] [How to handle and catch errors in Rxjs](https://dev.to/danywalls/how-to-handle-and-catch-errors-in-rxjs-3kei)
-- [Dev.to/JS] [Medusa-extender CLI](https://dev.to/adrien2p/medusa-extender-cli-51ph)
 - [Lifehacker] [Why You Should File Your Taxes Early](https://lifehacker.com/why-you-should-file-your-taxes-early-1848637393)
-- [Dev.to/JS] [JS functions that I learned this week](https://dev.to/connectaryal/js-functions-that-i-learned-this-week-3j5o)
 - [Lifehacker] [10 &#39;Elden Ring&#39; Tips for Complete Beginners](https://lifehacker.com/10-elden-ring-tips-for-complete-beginners-1848627469)
-- [Dev.to/JS] [File upload](https://dev.to/ezekiel8807/file-upload-36aa)
 - [Lifehacker] [Why Hotels Are Quitting Room Service &lpar;and You Should Too&rpar;](https://lifehacker.com/why-hotels-are-quitting-room-service-and-you-should-to-1848637783)
 - [Lifehacker] [What Is a Blockchain DAO &lpar;and Should You Join One&rpar;?](https://lifehacker.com/what-is-a-blockchain-dao-and-should-you-join-one-1848636960)
 - [Lifehacker] [All the Smart &lpar;and Legal&rpar; Ways to Get Free Plants](https://lifehacker.com/all-the-smart-and-legal-ways-to-get-free-plants-1848638386)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Microsoft PowerToys Shortcuts You’ll Want to Use Every Day](https://lifehacker.com/the-best-microsoft-powertoys-shortcuts-you-ll-want-to-u-1848634350)
 - [Lifehacker] [How to Finally Add ‘Portrait Mode’ to Any Picture in Google Photos](https://lifehacker.com/how-to-finally-add-portrait-mode-to-any-picture-in-go-1848634854)
 - [Lifehacker] [The Latest Wordle Clone Is Perfect for Movie Geeks](https://lifehacker.com/the-latest-wordle-clone-is-perfect-for-movie-geeks-1848635062)
-- [Lifehacker] [Why You Should Switch to Substack’s New App](https://lifehacker.com/why-you-should-switch-to-substack-s-new-app-1848634159)
-- [Lifehacker] [Try One of These Alternatives If You Hate Your Home’s Gutters](https://lifehacker.com/try-one-of-these-alternatives-if-you-hate-your-home-s-g-1848633152)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
