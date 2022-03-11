@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Si eres desarrollador de Javascript debes conocer esta extensión de VS Code](https://dev.to/juansemastrangelo/si-eres-desarrollador-de-javascript-debes-conocer-esta-extension-de-vs-45ph)
+- [Dev.to/JS] [The Anatomy Of My Ideal React Component](https://dev.to/antjanus/the-anatomy-of-my-ideal-react-component-1lo0)
+- [Dev.to/JS] [Enumerating JavaScript Objects](https://dev.to/365erik/enumerating-javascript-objects-46c4)
+- [Lifehacker] [How to Disable the Malfunctioning ‘AirPods Left Behind’ Notification](https://lifehacker.com/how-to-disable-the-malfunctioning-airpods-left-behind-1848641066)
 - [Lifehacker] [These Simple Home Health Tests Are Actually Worth Trying](https://lifehacker.com/these-simple-home-health-tests-are-actually-worth-tryin-1848640897)
 - [Dev.to/JS] [Template Driven Approach In Angular Forms](https://dev.to/deepachaurasia1/template-driven-approach-in-angular-forms-2iak)
 - [Dev.to/JS] [Day-42 Training At Ryaz:Unit Testing](https://dev.to/mahin651/day-42-training-at-ryazunit-testing-hfh)
@@ -37,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 &#39;Elden Ring&#39; Tips for Complete Beginners](https://lifehacker.com/10-elden-ring-tips-for-complete-beginners-1848627469)
 - [Dev.to/JS] [File upload](https://dev.to/ezekiel8807/file-upload-36aa)
 - [Lifehacker] [Why Hotels Are Quitting Room Service &lpar;and You Should Too&rpar;](https://lifehacker.com/why-hotels-are-quitting-room-service-and-you-should-to-1848637783)
-- [Dev.to/JS] [10 JavaScript and NodeJS Tips that Will Knock Away Multiple Concepts](https://dev.to/jsmanifest/10-javascript-and-nodejs-tips-that-will-knock-away-multiple-concepts-22cp)
 - [Lifehacker] [What Is a Blockchain DAO &lpar;and Should You Join One&rpar;?](https://lifehacker.com/what-is-a-blockchain-dao-and-should-you-join-one-1848636960)
-- [Dev.to/JS] [Under-the-hood of GraphQL DataLoader](https://dev.to/craigtaub/under-the-hood-of-graphql-dataloader-13a8)
-- [Dev.to/JS] [Power of destructuring](https://dev.to/rahulrajrd/power-of-destructuring-44em)
 - [Lifehacker] [All the Smart &lpar;and Legal&rpar; Ways to Get Free Plants](https://lifehacker.com/all-the-smart-and-legal-ways-to-get-free-plants-1848638386)
 - [Lifehacker] [10 of the Best Movies That Prove Rich People Are Terrible](https://lifehacker.com/10-of-the-best-movies-that-prove-rich-people-are-terrib-1848628516)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid-Culture: What Exactly Is &#39;Elden Ring&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-exac-1848639580)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Latest Wordle Clone Is Perfect for Movie Geeks](https://lifehacker.com/the-latest-wordle-clone-is-perfect-for-movie-geeks-1848635062)
 - [Lifehacker] [Why You Should Switch to Substack’s New App](https://lifehacker.com/why-you-should-switch-to-substack-s-new-app-1848634159)
 - [Lifehacker] [Try One of These Alternatives If You Hate Your Home’s Gutters](https://lifehacker.com/try-one-of-these-alternatives-if-you-hate-your-home-s-g-1848633152)
-- [Lifehacker] [How to Stream Region-Locked British TV Shows From Outside the U.K.](https://lifehacker.com/how-to-stream-region-locked-british-tv-shows-from-outsi-1848632205)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
