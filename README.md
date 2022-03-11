@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Medusa-extender CLI](https://dev.to/adrien2p/medusa-extender-cli-51ph)
+- [Lifehacker] [Why You Should File Your Taxes Early](https://lifehacker.com/why-you-should-file-your-taxes-early-1848637393)
+- [Dev.to/JS] [JS functions that I learned this week](https://dev.to/connectaryal/js-functions-that-i-learned-this-week-3j5o)
+- [Lifehacker] [10 &#39;Elden Ring&#39; Tips for Complete Beginners](https://lifehacker.com/10-elden-ring-tips-for-complete-beginners-1848627469)
+- [Dev.to/JS] [File upload](https://dev.to/ezekiel8807/file-upload-36aa)
+- [Lifehacker] [Why Hotels Are Quitting Room Service &lpar;and You Should Too&rpar;](https://lifehacker.com/why-hotels-are-quitting-room-service-and-you-should-to-1848637783)
 - [Dev.to/JS] [10 JavaScript and NodeJS Tips that Will Knock Away Multiple Concepts](https://dev.to/jsmanifest/10-javascript-and-nodejs-tips-that-will-knock-away-multiple-concepts-22cp)
 - [Lifehacker] [What Is a Blockchain DAO &lpar;and Should You Join One&rpar;?](https://lifehacker.com/what-is-a-blockchain-dao-and-should-you-join-one-1848636960)
 - [Dev.to/JS] [Under-the-hood of GraphQL DataLoader](https://dev.to/craigtaub/under-the-hood-of-graphql-dataloader-13a8)
@@ -37,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploying Functions Just Got Easier with Appwrite CLI 2.0!](https://dev.to/appwrite/deploying-functions-just-got-easier-with-appwrite-cli-20-2cmm)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid-Culture: What Exactly Is &#39;Elden Ring&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-exac-1848639580)
 - [Lifehacker] [11 of the Most Clever Travel Hacks, According to TikTok](https://lifehacker.com/11-of-the-most-clever-travel-hacks-according-to-tiktok-1848635772)
-- [Dev.to/JS] [Your first React app](https://dev.to/eelcoverbrugge/your-first-react-app-17nl)
-- [Dev.to/JS] [Just Five News · Daily News](https://dev.to/baransel/just-five-news-daily-news-ga2)
 - [Lifehacker] [Wash Down Your Green Beer With These St. Patrick&#39;s Day Food Deals and Freebies](https://lifehacker.com/wash-down-your-green-beer-with-these-st-patricks-day-f-1848621463)
 - [Lifehacker] [The Cheapest American Metro Areas to Buy a Home Right Now](https://lifehacker.com/the-cheapest-american-metro-areas-to-buy-a-home-right-n-1848638415)
-- [Dev.to/JS] [Why You Should Use Node.js in Your Business](https://dev.to/duomly/why-you-should-use-nodejs-in-your-business-1d3f)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
 - [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stream Region-Locked British TV Shows From Outside the U.K.](https://lifehacker.com/how-to-stream-region-locked-british-tv-shows-from-outsi-1848632205)
 - [Lifehacker] [Does ‘Impact Investment’ Perform Better Than Evil Investments?](https://lifehacker.com/does-impact-investment-perform-better-than-evil-inves-1848621379)
 - [Lifehacker] [11 Default Firefox Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/11-default-firefox-settings-you-should-change-if-you-ca-1848626750)
-- [Lifehacker] [5 Tips Help You Enjoy Running More](https://lifehacker.com/5-tips-help-you-enjoy-running-more-1848631022)
-- [Lifehacker] [How to Get the Most Out of Every Drop of Gas Right Now](https://lifehacker.com/how-to-get-the-most-out-of-every-drop-of-gas-right-now-1848630417)
-- [Lifehacker] [Enjoy These Pi Day Deals for Cheap and Free Food](https://lifehacker.com/enjoy-these-pi-day-deals-for-cheap-and-free-food-1848627755)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
