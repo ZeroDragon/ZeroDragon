@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Cryptocurrency](https://dev.to/mattyreign/how-to-create-a-cryptocurrency-c5k)
 - [Dev.to/JS] [How to Earn 100+ Per Month without Coding work](https://dev.to/hillarywhite/how-to-earn-100-per-month-without-coding-work-26m3)
 - [Dev.to/JS] [How to integrate event streaming into your applications](https://dev.to/fauna/how-to-integrate-event-streaming-into-your-applications-15bf)
 - [Dev.to/JS] [Top-Level Escort Service Agency Girls Escorts Chennai](https://dev.to/riyasharmachennai/top-level-escort-service-agency-girls-escorts-chennai-25af)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wisej helps migrate Skanska’s Project Management Application for 4,500 users](https://dev.to/iceteagroup/wisej-helps-migrate-skanskas-project-management-application-for-4500-users-1jd9)
 - [Dev.to/JS] [3 Secret Vue Patterns for Productivity Boost!](https://dev.to/matheusgomes062/3-secret-vue-patterns-for-productivity-boost-5hhm)
 - [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
-- [Dev.to/JS] [Day 29 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#70. Climbing Stairs&lpar;Easy/JavaScript&rpar;](https://dev.to/devuser1/day-29-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem70-climbing-stairseasyjavascript-15a7)
 - [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
 - [Lifehacker] [The Weirdest Pi Day Facts You and Your Kid Will Enjoy](https://lifehacker.com/the-weirdest-pi-day-facts-you-and-your-kid-will-enjoy-1848637107)
 - [Lifehacker] [10 of the Most Overrated Exercises &lpar;and What to Do Instead&rpar;](https://lifehacker.com/10-of-the-most-overrated-exercises-and-what-to-do-inst-1848635603)
