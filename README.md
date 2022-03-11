@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 14/100, 100 Days of Code](https://dev.to/xurgg/day-14100-100-days-of-code-3ibh)
+- [Dev.to/JS] [Let&#39;s make a Sponsor page with Next JS and Stripe](https://dev.to/codewithsnowbit/lets-make-a-sponsor-page-with-next-js-and-stripe-4bak)
+- [Dev.to/JS] [Kolkata ff Best website ?](https://dev.to/kolkatafatafat/kolkata-ff-best-website--4pif)
+- [Dev.to/JS] [Best JavaScript Books for Beginners &amp; Advanced Developers](https://dev.to/lokeshjoshi/best-javascript-books-for-beginners-advanced-developers-4ca7)
 - [Dev.to/JS] [RevitaNu - Skin Care Results, Reviews, Side Effects And Price](https://dev.to/revitanuinfo/revitanu-skin-care-results-reviews-side-effects-and-price-3dbe)
 - [Dev.to/JS] [tsParticles 1.42.1 Released](https://dev.to/matteobruni/tsparticles-1421-released-6ob)
 - [Dev.to/JS] [How to use React Context API](https://dev.to/anuraggharat/how-to-use-react-context-api-5a6a)
 - [Dev.to/JS] [Features of Codeigniter web development](https://dev.to/jhonthsmith/features-of-codeigniter-web-development-1051)
 - [Dev.to/JS] [How to prepare for Google Summer of Code 2022?](https://dev.to/sanjaysinghrajpoot/how-to-prepare-for-google-summer-of-code-2022-899)
-- [Dev.to/JS] [Scan Duplicated CSS](https://dev.to/zhcalvin/scan-duplicated-css-4fc0)
+- [Dev.to/JS] [Scan Duplicated &amp; Similar CSS](https://dev.to/zhcalvin/scan-duplicated-css-4fc0)
 - [Dev.to/JS] [How to Create a Cryptocurrency](https://dev.to/mattyreign/how-to-create-a-cryptocurrency-c5k)
 - [Dev.to/JS] [How to Earn 100+ Per Month without Coding work](https://dev.to/hillarywhite/how-to-earn-100-per-month-without-coding-work-26m3)
-- [Dev.to/JS] [How to integrate event streaming into your applications](https://dev.to/fauna/how-to-integrate-event-streaming-into-your-applications-15bf)
-- [Dev.to/JS] [Top-Level Escort Service Agency Girls Escorts Chennai](https://dev.to/riyasharmachennai/top-level-escort-service-agency-girls-escorts-chennai-25af)
-- [Dev.to/JS] [TypeScript Union type a deeper look](https://dev.to/dailydevtips1/typescript-union-type-a-deeper-look-2n6p)
-- [Dev.to/JS] [Looking to get Start in the Chennai Escort Industry](https://dev.to/riyasharmachennai/looking-to-get-start-in-the-chennai-escort-industry-282l)
 - [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
 - [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
 - [Lifehacker] [The Weirdest Pi Day Facts You and Your Kid Will Enjoy](https://lifehacker.com/the-weirdest-pi-day-facts-you-and-your-kid-will-enjoy-1848637107)
