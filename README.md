@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build a Live Streaming Web Application with Amazon IVS and Deepgram](https://dev.to/deepgram/how-to-build-a-live-streaming-web-application-with-amazon-ivs-and-deepgram-2kde)
+- [Dev.to/JS] [Creating a React Project w/ JSON-Server](https://dev.to/dinathedev/creating-a-react-project-w-json-server-2ec0)
+- [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
+- [Dev.to/JS] [Introdução ao Node.js](https://dev.to/gabrielhsilvestre/introducao-ao-nodejs-14l1)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
 - [Lifehacker] [What&#39;s the Worst Etiquette Faux Pas You’ve Ever Experienced?](https://lifehacker.com/whats-the-worst-etiquette-faux-pas-you-ve-ever-experien-1848640489)
 - [Dev.to/JS] [How to fix react js error &quot;Cannot GET /&quot; in local browser no server no webpack](https://dev.to/arif0ne/how-to-fix-react-js-error-cannot-get-in-local-browser-no-server-no-webpack-33a5)
@@ -39,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Simple Home Health Tests Are Actually Worth Trying](https://lifehacker.com/these-simple-home-health-tests-are-actually-worth-tryin-1848640897)
 - [Dev.to/JS] [Template Driven Approach In Angular Forms](https://dev.to/deepachaurasia1/template-driven-approach-in-angular-forms-2iak)
 - [Dev.to/JS] [Day-42 Training At Ryaz:Unit Testing](https://dev.to/mahin651/day-42-training-at-ryazunit-testing-hfh)
-- [Dev.to/JS] [Reverse Words in a String - Daily JS &lpar;Day 14&rpar;](https://dev.to/tanvirrahman/reverse-words-in-a-string-daily-js-day-14-4ko7)
-- [Dev.to/JS] [The Great GatsbyJS Bootcamp](https://dev.to/hr21don/the-great-gatsbyjs-bootcamp-34hd)
 - [Lifehacker] [Why the New iPhone SE Is Worth the Extra $29](https://lifehacker.com/why-the-new-iphone-se-is-worth-the-extra-29-1848633156)
-- [Dev.to/JS] [You won&#39;t forget how to use variables in js after reading this!](https://dev.to/krishnapankhania/you-wont-forget-how-to-use-variables-in-js-after-reading-this-mn9)
 - [Lifehacker] [Why You Should File Your Taxes Early](https://lifehacker.com/why-you-should-file-your-taxes-early-1848637393)
 - [Lifehacker] [10 &#39;Elden Ring&#39; Tips for Complete Beginners](https://lifehacker.com/10-elden-ring-tips-for-complete-beginners-1848627469)
 - [Lifehacker] [Why Hotels Are Quitting Room Service &lpar;and You Should Too&rpar;](https://lifehacker.com/why-hotels-are-quitting-room-service-and-you-should-to-1848637783)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Most Overrated Exercises &lpar;and What to Do Instead&rpar;](https://lifehacker.com/10-of-the-most-overrated-exercises-and-what-to-do-inst-1848635603)
 - [Lifehacker] [How to Replace That One Single Goddamn Cracked Tile](https://lifehacker.com/how-to-replace-that-one-single-goddamn-cracked-tile-1848635815)
 - [Lifehacker] [All the Terrible Slang Your Doctor Is Using Behind Your Back](https://lifehacker.com/all-the-terrible-slang-your-doctor-is-using-behind-your-1848635237)
-- [Lifehacker] [How to Safely Run Electrical Cords in Your Home &lpar;and What You Should Never Do&rpar;](https://lifehacker.com/how-to-safely-run-electrical-cords-in-your-home-and-wh-1848634721)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
