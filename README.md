@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Dev.to/JS] [How to Build a Live Streaming Web Application with Amazon IVS and Deepgram](https://dev.to/deepgram/how-to-build-a-live-streaming-web-application-with-amazon-ivs-and-deepgram-2kde)
 - [Dev.to/JS] [Creating a React Project w/ JSON-Server](https://dev.to/dinathedev/creating-a-react-project-w-json-server-2ec0)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Weirdest Pi Day Facts You and Your Kid Will Enjoy](https://lifehacker.com/the-weirdest-pi-day-facts-you-and-your-kid-will-enjoy-1848637107)
 - [Lifehacker] [10 of the Most Overrated Exercises &lpar;and What to Do Instead&rpar;](https://lifehacker.com/10-of-the-most-overrated-exercises-and-what-to-do-inst-1848635603)
 - [Lifehacker] [How to Replace That One Single Goddamn Cracked Tile](https://lifehacker.com/how-to-replace-that-one-single-goddamn-cracked-tile-1848635815)
-- [Lifehacker] [All the Terrible Slang Your Doctor Is Using Behind Your Back](https://lifehacker.com/all-the-terrible-slang-your-doctor-is-using-behind-your-1848635237)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
