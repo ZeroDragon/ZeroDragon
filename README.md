@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Simple Home Health Tests Are Actually Worth Trying](https://lifehacker.com/these-simple-home-health-tests-are-actually-worth-tryin-1848640897)
+- [Dev.to/JS] [Template Driven Approach In Angular Forms](https://dev.to/deepachaurasia1/template-driven-approach-in-angular-forms-2iak)
+- [Dev.to/JS] [Day-42 Training At Ryaz:Unit Testing](https://dev.to/mahin651/day-42-training-at-ryazunit-testing-hfh)
+- [Dev.to/JS] [Reverse Words in a String - Daily JS &lpar;Day 14&rpar;](https://dev.to/tanvirrahman/reverse-words-in-a-string-daily-js-day-14-4ko7)
+- [Dev.to/JS] [The Great GatsbyJS Bootcamp](https://dev.to/hr21don/the-great-gatsbyjs-bootcamp-34hd)
+- [Lifehacker] [Why the New iPhone SE Is Worth the Extra $29](https://lifehacker.com/why-the-new-iphone-se-is-worth-the-extra-29-1848633156)
+- [Dev.to/JS] [You won&#39;t forget how to use variables in js after reading this!](https://dev.to/krishnapankhania/you-wont-forget-how-to-use-variables-in-js-after-reading-this-mn9)
+- [Dev.to/JS] [How to handle and catch errors in Rxjs](https://dev.to/danywalls/how-to-handle-and-catch-errors-in-rxjs-3kei)
 - [Dev.to/JS] [Medusa-extender CLI](https://dev.to/adrien2p/medusa-extender-cli-51ph)
 - [Lifehacker] [Why You Should File Your Taxes Early](https://lifehacker.com/why-you-should-file-your-taxes-early-1848637393)
 - [Dev.to/JS] [JS functions that I learned this week](https://dev.to/connectaryal/js-functions-that-i-learned-this-week-3j5o)
@@ -33,14 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is a Blockchain DAO &lpar;and Should You Join One&rpar;?](https://lifehacker.com/what-is-a-blockchain-dao-and-should-you-join-one-1848636960)
 - [Dev.to/JS] [Under-the-hood of GraphQL DataLoader](https://dev.to/craigtaub/under-the-hood-of-graphql-dataloader-13a8)
 - [Dev.to/JS] [Power of destructuring](https://dev.to/rahulrajrd/power-of-destructuring-44em)
-- [Dev.to/JS] [Paracetamol.js💊| #76: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-76-explica-este-codigo-javascript-2p4i)
-- [Dev.to/JS] [Build Your Own Livestreaming App with Twilio Live](https://dev.to/codesphere/build-your-own-livestreaming-app-with-twilio-live-4709)
 - [Lifehacker] [All the Smart &lpar;and Legal&rpar; Ways to Get Free Plants](https://lifehacker.com/all-the-smart-and-legal-ways-to-get-free-plants-1848638386)
-- [Dev.to/JS] [6 Websites To Find Frontend Projects To Test Your Skills](https://dev.to/mianazan/6-websites-to-find-frontend-projects-to-test-your-skills-1kj4)
-- [Dev.to/JS] [How To Test a Node.js Module with JavaScript using Mocha and Assert](https://dev.to/zt4ff_1/how-to-test-a-nodejs-module-with-javascript-using-mocha-and-assert-1j71)
 - [Lifehacker] [10 of the Best Movies That Prove Rich People Are Terrible](https://lifehacker.com/10-of-the-best-movies-that-prove-rich-people-are-terrib-1848628516)
-- [Dev.to/JS] [symbol-help a simple shell application](https://dev.to/simonedelpopolo/symbol-help-a-simple-shell-application-2ep7)
-- [Dev.to/JS] [Deploying Functions Just Got Easier with Appwrite CLI 2.0!](https://dev.to/appwrite/deploying-functions-just-got-easier-with-appwrite-cli-20-2cmm)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid-Culture: What Exactly Is &#39;Elden Ring&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-exac-1848639580)
 - [Lifehacker] [11 of the Most Clever Travel Hacks, According to TikTok](https://lifehacker.com/11-of-the-most-clever-travel-hacks-according-to-tiktok-1848635772)
 - [Lifehacker] [Wash Down Your Green Beer With These St. Patrick&#39;s Day Food Deals and Freebies](https://lifehacker.com/wash-down-your-green-beer-with-these-st-patricks-day-f-1848621463)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Switch to Substack’s New App](https://lifehacker.com/why-you-should-switch-to-substack-s-new-app-1848634159)
 - [Lifehacker] [Try One of These Alternatives If You Hate Your Home’s Gutters](https://lifehacker.com/try-one-of-these-alternatives-if-you-hate-your-home-s-g-1848633152)
 - [Lifehacker] [How to Stream Region-Locked British TV Shows From Outside the U.K.](https://lifehacker.com/how-to-stream-region-locked-british-tv-shows-from-outsi-1848632205)
-- [Lifehacker] [Does ‘Impact Investment’ Perform Better Than Evil Investments?](https://lifehacker.com/does-impact-investment-perform-better-than-evil-inves-1848621379)
-- [Lifehacker] [11 Default Firefox Settings You Should Change If You Care About Your Privacy](https://lifehacker.com/11-default-firefox-settings-you-should-change-if-you-ca-1848626750)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
