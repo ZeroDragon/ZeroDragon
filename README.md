@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functional Programming Baby Steps: Why TaskEither Is Better Than Promise](https://dev.to/mkessy/functional-programming-baby-steps-why-taskeither-is-better-than-promise-35j0)
+- [Dev.to/JS] [Wisej helps migrate Skanska’s Project Management Application for 4,500 users](https://dev.to/iceteagroup/wisej-helps-migrate-skanskas-project-management-application-for-4500-users-1jd9)
 - [Dev.to/JS] [3 Secret Vue Patterns for Productivity Boost!](https://dev.to/matheusgomes062/3-secret-vue-patterns-for-productivity-boost-5hhm)
 - [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
 - [Dev.to/JS] [Day 29 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#70. Climbing Stairs&lpar;Easy/JavaScript&rpar;](https://dev.to/devuser1/day-29-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem70-climbing-stairseasyjavascript-15a7)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Roadmap To Learn ReactJS](https://dev.to/paulknulst/simple-roadmap-to-learn-reactjs-4eoi)
 - [Lifehacker] [How to Finally Add ‘Portrait Mode’ to Any Picture in Google Photos](https://lifehacker.com/how-to-finally-add-portrait-mode-to-any-picture-in-go-1848634854)
 - [Dev.to/JS] [Move Zeroes - Daily JS &lpar;Day 13&rpar;](https://dev.to/tanvirrahman/move-zeroes-daily-js-day-12-41mn)
-- [Dev.to/JS] [When is onChange not the same as onChange?](https://dev.to/_ezell_/when-is-onchange-is-not-the-same-as-onchange-3i3e)
-- [Dev.to/JS] [How I generated a random response from a API](https://dev.to/danielarmbruster0314/how-i-generated-a-random-response-from-a-api-3cb7)
 - [Lifehacker] [The Latest Wordle Clone Is Perfect for Movie Geeks](https://lifehacker.com/the-latest-wordle-clone-is-perfect-for-movie-geeks-1848635062)
 - [Lifehacker] [Why You Should Switch to Substack’s New App](https://lifehacker.com/why-you-should-switch-to-substack-s-new-app-1848634159)
 - [Lifehacker] [Try One of These Alternatives If You Hate Your Home’s Gutters](https://lifehacker.com/try-one-of-these-alternatives-if-you-hate-your-home-s-g-1848633152)
