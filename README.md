@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Wash Down Your Green Beer With These St. Patrick&#39;s Day Food Deals and Freebies](https://lifehacker.com/wash-down-your-green-beer-with-these-st-patricks-day-f-1848621463)
+- [Lifehacker] [The Cheapest American Metro Areas to Buy a Home Right Now](https://lifehacker.com/the-cheapest-american-metro-areas-to-buy-a-home-right-n-1848638415)
+- [Dev.to/JS] [Why You Should Use Node.js in Your Business](https://dev.to/duomly/why-you-should-use-nodejs-in-your-business-1d3f)
+- [Dev.to/JS] [Twitch für Coding](https://dev.to/stack_stream/twitch-fur-coding-le)
+- [Dev.to/JS] [Resources to Polish Your JavaScript](https://dev.to/raftlabs/resources-to-polish-your-javascript-5c54)
 - [Dev.to/JS] [How to set up a professional React project &lpar;including screencast&rpar;](https://dev.to/profydev/how-to-set-up-a-professional-react-project-including-screencast-180f)
 - [Dev.to/JS] [Top 10 trending github repos of the week👽.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-4epc)
 - [Dev.to/JS] [DevTips Daily Update 11/03/22](https://dev.to/codebubb/devtips-daily-update-110322-1pod)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Managing multiple pages in playwright test](https://dev.to/zt4ff_1/managing-multiple-pages-in-playwright-test-ipo)
 - [Dev.to/JS] [React Js Vs Angular Which is Better ?](https://dev.to/codeexamplerlearn/react-js-vs-angular-which-is-better--19io)
 - [Dev.to/JS] [Mock API Call at FrontEnd](https://dev.to/priyang_bawa/mock-api-call-at-frontend-3afm)
-- [Dev.to/JS] [Extract texts from PDFs.](https://dev.to/drsimplegraffiti/extract-texts-from-pdfs-383g)
-- [Dev.to/JS] [Cannot read properties of undefined &lpar;reading &#39;childNodes&#39;&rpar;](https://dev.to/hugoqueiros/cannot-read-properties-of-undefined-reading-childnodes-280l)
-- [Dev.to/JS] [The Transition From Higher-Order Component Pattern to React Hooks Pattern](https://dev.to/asayerio_techblog/the-transition-from-higher-order-component-pattern-to-react-hooks-pattern-5c3l)
 - [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
 - [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
 - [Lifehacker] [The Weirdest Pi Day Facts You and Your Kid Will Enjoy](https://lifehacker.com/the-weirdest-pi-day-facts-you-and-your-kid-will-enjoy-1848637107)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between a Nanny, a Babysitter, and an Au Pair](https://lifehacker.com/the-difference-between-a-nanny-a-babysitter-and-an-au-1848628976)
 - [Lifehacker] [You Need to Update Your Windows PC Immediately](https://lifehacker.com/you-need-to-update-your-windows-pc-immediately-1848630370)
 - [Lifehacker] [The Difference Between a Service Dog and a Therapy Dog](https://lifehacker.com/the-difference-between-a-service-dog-and-a-therapy-dog-1848627962)
-- [Lifehacker] [What to Say Immediately After You Send a Text to the Wrong Person](https://lifehacker.com/what-to-say-immediately-after-you-send-a-text-to-the-wr-1848629020)
-- [Lifehacker] [What Really Happens If You Can&#39;t Pay Your Restaurant Bill?](https://lifehacker.com/what-really-happens-if-you-cant-pay-your-restaurant-bil-1848629366)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
