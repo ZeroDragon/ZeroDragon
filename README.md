@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
+- [Lifehacker] [What&#39;s the Worst Etiquette Faux Pas You’ve Ever Experienced?](https://lifehacker.com/whats-the-worst-etiquette-faux-pas-you-ve-ever-experien-1848640489)
+- [Dev.to/JS] [How to fix react js error &quot;Cannot GET /&quot; in local browser no server no webpack](https://dev.to/arif0ne/how-to-fix-react-js-error-cannot-get-in-local-browser-no-server-no-webpack-33a5)
+- [Lifehacker] [25 of the Best Irish Movies of All Time](https://lifehacker.com/25-of-the-best-irish-movies-of-all-time-1848640617)
 - [Dev.to/JS] [Simple alert in React Native](https://dev.to/sirbalin26/simple-alert-in-react-native-fap)
 - [Dev.to/JS] [Simple alert in React](https://dev.to/sirbalin26/simple-alert-in-react-88k)
 - [Lifehacker] [Flavor Your Mayo With Leftover Greens](https://lifehacker.com/flavor-your-mayo-with-leftover-greens-1848640478)
@@ -39,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Great GatsbyJS Bootcamp](https://dev.to/hr21don/the-great-gatsbyjs-bootcamp-34hd)
 - [Lifehacker] [Why the New iPhone SE Is Worth the Extra $29](https://lifehacker.com/why-the-new-iphone-se-is-worth-the-extra-29-1848633156)
 - [Dev.to/JS] [You won&#39;t forget how to use variables in js after reading this!](https://dev.to/krishnapankhania/you-wont-forget-how-to-use-variables-in-js-after-reading-this-mn9)
-- [Dev.to/JS] [How to handle and catch errors in Rxjs](https://dev.to/danywalls/how-to-handle-and-catch-errors-in-rxjs-3kei)
 - [Lifehacker] [Why You Should File Your Taxes Early](https://lifehacker.com/why-you-should-file-your-taxes-early-1848637393)
 - [Lifehacker] [10 &#39;Elden Ring&#39; Tips for Complete Beginners](https://lifehacker.com/10-elden-ring-tips-for-complete-beginners-1848627469)
 - [Lifehacker] [Why Hotels Are Quitting Room Service &lpar;and You Should Too&rpar;](https://lifehacker.com/why-hotels-are-quitting-room-service-and-you-should-to-1848637783)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Replace That One Single Goddamn Cracked Tile](https://lifehacker.com/how-to-replace-that-one-single-goddamn-cracked-tile-1848635815)
 - [Lifehacker] [All the Terrible Slang Your Doctor Is Using Behind Your Back](https://lifehacker.com/all-the-terrible-slang-your-doctor-is-using-behind-your-1848635237)
 - [Lifehacker] [How to Safely Run Electrical Cords in Your Home &lpar;and What You Should Never Do&rpar;](https://lifehacker.com/how-to-safely-run-electrical-cords-in-your-home-and-wh-1848634721)
-- [Lifehacker] [The Best Microsoft PowerToys Shortcuts You’ll Want to Use Every Day](https://lifehacker.com/the-best-microsoft-powertoys-shortcuts-you-ll-want-to-u-1848634350)
-- [Lifehacker] [How to Finally Add ‘Portrait Mode’ to Any Picture in Google Photos](https://lifehacker.com/how-to-finally-add-portrait-mode-to-any-picture-in-go-1848634854)
-- [Lifehacker] [The Latest Wordle Clone Is Perfect for Movie Geeks](https://lifehacker.com/the-latest-wordle-clone-is-perfect-for-movie-geeks-1848635062)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
