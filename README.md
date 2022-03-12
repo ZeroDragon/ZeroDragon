@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React-native new Architecture, what to expect ?](https://dev.to/salemabderaouf/react-native-new-architecture-what-to-expect--ojf)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 11 &amp; 12](https://dev.to/marvinobig/100-days-of-code-challenge-day-11-12-3i0g)
 - [Dev.to/JS] [Paracetamol.js💊| #77: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-77-explica-este-codigo-javascript-15i2)
 - [Dev.to/JS] [Using Axios in Nuxt with Composition API](https://dev.to/kouts/using-axios-in-nuxt-with-composition-api-1iaj)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Some ultimate changes to my chatzoid application](https://dev.to/nisabmohd/some-ultimate-changes-to-my-chatzoid-application-k0k)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Dev.to/JS] [Obtén GRATIS estos servicios con tu cuenta de estudiante.](https://dev.to/syngrowly/obten-gratis-estos-servicios-con-tu-cuenta-de-estudiante-2ai2)
-- [Dev.to/JS] [Median of Two Sorted Arrays &lpar;Day 15&rpar;](https://dev.to/tanvirrahman/median-of-two-sorted-arrays-day-15-1839)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
