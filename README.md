@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [html vs css vs javascript Tell Which is easy?](https://dev.to/cssdesignmaker/html-vs-css-vs-javascript-tell-which-is-easy-4fm5)
 - [Dev.to/JS] [3d card flipping effect with vanilla HTML and CSS](https://dev.to/thatanjan/3d-card-flipping-effect-with-vanilla-html-and-css-24b3)
 - [Dev.to/JS] [DativeJs {{#each}} block](https://dev.to/tobithedev/dativejs-each-block-4bjf)
 - [Dev.to/JS] [Candy - new way of styling react components](https://dev.to/iminside/candy-new-way-of-styling-react-components-24eg)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Detox LinkedIn Feed :&rpar;](https://dev.to/yutro/detox-linkedin-feed--1n0n)
 - [Dev.to/JS] [Create generic methods in TypeScript](https://dev.to/rahulrajrd/create-generic-methods-in-typescript-1al8)
 - [Dev.to/JS] [replace the last comma to period in string](https://dev.to/chanyayun/replace-the-last-comma-to-period-in-string-55p9)
-- [Dev.to/JS] [Sudoku Solver using SolidJS &amp; Tailwind](https://dev.to/sadanandpai/sudoku-solver-using-solidjs-tailwind-22if)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
