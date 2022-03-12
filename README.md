@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Realtime data streaming using server-sent events&lpar;SSE&rpar; with react.js and node.js](https://dev.to/beyond5575/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak)
+- [Dev.to/JS] [Fun with JavaScript Arrays](https://dev.to/chrisjandrade/using-javascript-arrays-effectively-4jjn)
+- [Dev.to/JS] [The truth behind online Courses](https://dev.to/ayman23904881/the-truth-behind-online-courses-4n4k)
+- [Dev.to/JS] [Realtime data streaming using server-sent events&lpar;SSE&rpar; with react.js and node.js](https://dev.to/techfortified/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak)
 - [Dev.to/JS] [JSX Element, React Node, React Element](https://dev.to/ridhoanshory/jsx-element-react-node-react-element-idi)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Dev.to/JS] [How to Build a Live Streaming Web Application with Amazon IVS and Deepgram](https://dev.to/deepgram/how-to-build-a-live-streaming-web-application-with-amazon-ivs-and-deepgram-2kde)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Portfolio in 2 minutes](https://dev.to/kumard3/create-portfolio-in-2-minutes-502a)
 - [Lifehacker] [5 of Our Favorite Travel Hacks of 2022](https://lifehacker.com/5-of-our-favorite-travel-hacks-of-2022-1848641700)
 - [Dev.to/JS] [Si eres desarrollador de Javascript debes conocer esta extensión de VS Code](https://dev.to/juansemastrangelo/si-eres-desarrollador-de-javascript-debes-conocer-esta-extension-de-vs-45ph)
-- [Dev.to/JS] [The Anatomy Of My Ideal React Component](https://dev.to/antjanus/the-anatomy-of-my-ideal-react-component-1lo0)
-- [Dev.to/JS] [Enumerating JavaScript Objects](https://dev.to/365erik/enumerating-javascript-objects-46c4)
 - [Lifehacker] [How to Disable the Malfunctioning ‘AirPods Left Behind’ Notification](https://lifehacker.com/how-to-disable-the-malfunctioning-airpods-left-behind-1848641066)
 - [Lifehacker] [These Simple Home Health Tests Are Actually Worth Trying](https://lifehacker.com/these-simple-home-health-tests-are-actually-worth-tryin-1848640897)
 - [Lifehacker] [Why the New iPhone SE Is Worth the Extra $29](https://lifehacker.com/why-the-new-iphone-se-is-worth-the-extra-29-1848633156)
