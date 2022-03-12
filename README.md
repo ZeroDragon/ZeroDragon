@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with JSON: React](https://dev.to/mrpaulishaili/working-with-json-react-3bol)
+- [Dev.to/JS] [🔑Random Password Generator](https://dev.to/jobsoncodes/random-password-generator-aoo)
+- [Dev.to/JS] [Getting Started: An Intro to Josette](https://dev.to/josettetgarcia/getting-started-an-intro-to-josette-phk)
 - [Dev.to/JS] [Dark Mode in TailwindCSS with JavaScript](https://dev.to/taiseen/dark-mode-in-tailwindcss-with-javascript-jh7)
 - [Dev.to/JS] [Day 15/100, 100 Days of Code](https://dev.to/xurgg/day-15100-100-days-of-code-52o2)
 - [Dev.to/JS] [Some ultimate changes to my chatzoid application](https://dev.to/nisabmohd/some-ultimate-changes-to-my-chatzoid-application-k0k)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Elrond NFT collection with Elven Tools](https://dev.to/juliancwirko/elrond-nft-collection-with-elven-tools-2ccj)
 - [Dev.to/JS] [How to easily detect which component is re-rendering too often &lpar;without installing additional tools&rpar;](https://dev.to/domizajac/how-to-easily-detect-which-component-is-re-rendering-too-often-without-installing-additional-tools-b93)
 - [Dev.to/JS] [Async Await Behavior](https://dev.to/365erik/async-await-behavior-8if)
-- [Dev.to/JS] [Reading Env files in React](https://dev.to/arnoldddev/reading-env-files-in-react-1pm6)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
-- [Dev.to/JS] [DOM &amp; jQUery - Javascript Cheatsheet 2022](https://dev.to/alexmercedcoder/dom-jquery-javascript-cheatsheet-2022-4p8h)
-- [Dev.to/JS] [10 Things Beginners Must Know About Java Script](https://dev.to/mianazanfarooq/10-things-beginners-must-know-about-java-script-2244)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
