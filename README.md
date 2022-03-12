@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Things Beginners Must Know About Java Script](https://dev.to/mianazanfarooq/10-things-beginners-must-know-about-java-script-2244)
+- [Dev.to/JS] [QnA - Ask Me Anything](https://dev.to/jareer/qna-ask-me-anything-5bn1)
+- [Dev.to/JS] [Authentication with React From Wizard and Nodejs - Part 2](https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-2-1n2d)
+- [Dev.to/JS] [Authentication with React From Wizard and Nodejs - Part 1](https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-1-366a)
 - [Dev.to/JS] [Vue Data Object : Details You Must Know](https://dev.to/feldspartech/vue-data-object-details-you-must-know-261n)
 - [Dev.to/JS] [5 Best practices for ReactJs](https://dev.to/sachinchaurasiya/5-best-practices-for-reactjs-44pf)
 - [Dev.to/JS] [@debug DativeJS](https://dev.to/tobithedev/debug-dativejs-50kg)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 3](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-3-2cbk)
 - [Dev.to/JS] [Using Puppeteer to automate ASC Analytics screenshots](https://dev.to/nikola/using-puppeteer-to-automate-asc-analytics-screenshots-1nfb)
 - [Dev.to/JS] [How to develop the plugin deal with i18n in Figma Plugin?](https://dev.to/kurokky/how-to-develop-the-plugin-deal-with-i18n-in-figma-plugin-295)
-- [Dev.to/JS] [VS Code Keyboard Shortcuts | Or How To Become Even More Productive](https://dev.to/danielbellmas/vs-code-keyboard-shortcuts-or-how-to-become-even-more-productive-46ik)
-- [Dev.to/JS] [👉Hand-picked Public APIs For Your Next Project&lpar;s&rpar;. 🎁](https://dev.to/jareer/hand-picked-public-apis-for-your-next-projects-f0p)
-- [Dev.to/JS] [Adding Custom Attributes to Trix&#39;s toolbar](https://dev.to/rockwell/adding-custom-attributes-to-trixs-toolbar-21pl)
-- [Dev.to/JS] [html vs css vs javascript Tell Which is easy?](https://dev.to/cssdesignmaker/html-vs-css-vs-javascript-tell-which-is-easy-4fm5)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
