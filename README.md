@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Record Utility Type in TypeScript](https://dev.to/dailydevtips1/the-record-utility-type-in-typescript-3jj5)
+- [Dev.to/JS] [dfdfhskdjf](https://dev.to/balagpy/dfdfhskdjf-14f0)
+- [Dev.to/JS] [شركة خدمات الرياض](https://dev.to/omnia_ayman1/shrk-khdmt-lryd-1jcb)
+- [Dev.to/JS] [Core principles of API Design - Part 2](https://dev.to/varenya/core-principles-of-api-design-part-2-1c1p)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;12-03-2022&rpar; - Kindness on the rocks](https://dev.to/mjgs/this-weeks-newsletter-is-out-12-03-2022-kindness-on-the-rocks-i4j)
 - [Dev.to/JS] [Create Portfolio Website Using Flask and Google sheets](https://dev.to/engmert/create-portfolio-website-using-flask-and-google-sheets-fkp)
 - [Dev.to/JS] [Create Chatbot with CSS JavaScript #1 | Learn CSS JavaScript](https://dev.to/dasaradhanimmala/create-chatbot-with-css-javascript-1-learn-css-javascript-33jh)
 - [Dev.to/JS] [CRO Development, a Brief Introduction](https://dev.to/makingstuffs/cro-development-a-brief-introduction-5912)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode Notes: Find All Duplicates in an Array](https://dev.to/openhacking/leetcode-notes-find-all-duplicates-in-an-array-4bjj)
 - [Dev.to/JS] [Sveltekit Private Routes with Backendless](https://dev.to/brewhousedigital/sveltekit-private-routes-with-backendless-2lfn)
 - [Dev.to/JS] [Need to fix a issue that comming in antd tree component](https://dev.to/himanshurathi/need-to-fix-a-issue-that-comming-in-antd-tree-component-4dg0)
-- [Dev.to/JS] [How to display DOM elements with ForEach&lpar;&rpar;](https://dev.to/mikefazekas/how-to-display-dom-elements-with-foreach-45ci)
-- [Dev.to/JS] [Should we use CDN to load JavaScript plugins?](https://dev.to/tomoyakuroda/should-we-use-cdn-to-load-javascript-plugins-2jlm)
-- [Dev.to/JS] [Fun with JavaScript Arrays](https://dev.to/chrisjandrade/using-javascript-arrays-effectively-4jjn)
-- [Dev.to/JS] [The truth behind online Courses](https://dev.to/ayman23904881/the-truth-behind-online-courses-4n4k)
-- [Dev.to/JS] [Realtime data streaming using server-sent events&lpar;SSE&rpar; with react.js and node.js](https://dev.to/techfortified/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
