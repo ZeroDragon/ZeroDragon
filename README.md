@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Chatbot with CSS JavaScript #1 | Learn CSS JavaScript](https://dev.to/dasaradhanimmala/create-chatbot-with-css-javascript-1-learn-css-javascript-33jh)
+- [Dev.to/JS] [CRO Development, a Brief Introduction](https://dev.to/makingstuffs/cro-development-a-brief-introduction-5912)
+- [Dev.to/JS] [JAVASCRIPT_NOTES](https://dev.to/deepachaurasia1/javascriptnotes-b0n)
+- [Dev.to/JS] [LeetCode Notes: Find All Duplicates in an Array](https://dev.to/openhacking/leetcode-notes-find-all-duplicates-in-an-array-4bjj)
+- [Dev.to/JS] [Sveltekit Private Routes with Backendless](https://dev.to/brewhousedigital/sveltekit-private-routes-with-backendless-2lfn)
 - [Dev.to/JS] [Need to fix a issue that comming in antd tree component](https://dev.to/himanshurathi/need-to-fix-a-issue-that-comming-in-antd-tree-component-4dg0)
 - [Dev.to/JS] [How to display DOM elements with ForEach&lpar;&rpar;](https://dev.to/mikefazekas/how-to-display-dom-elements-with-foreach-45ci)
 - [Dev.to/JS] [Should we use CDN to load JavaScript plugins?](https://dev.to/tomoyakuroda/should-we-use-cdn-to-load-javascript-plugins-2jlm)
@@ -31,15 +36,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Realtime data streaming using server-sent events&lpar;SSE&rpar; with react.js and node.js](https://dev.to/techfortified/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak)
 - [Dev.to/JS] [JSX Element, React Node, React Element](https://dev.to/ridhoanshory/jsx-element-react-node-react-element-idi)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
-- [Dev.to/JS] [How to Build a Live Streaming Web Application with Amazon IVS and Deepgram](https://dev.to/deepgram/how-to-build-a-live-streaming-web-application-with-amazon-ivs-and-deepgram-2kde)
-- [Dev.to/JS] [Creating a React Project w/ JSON-Server](https://dev.to/dinathedev/creating-a-react-project-w-json-server-2ec0)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
-- [Dev.to/JS] [Introdução ao Node.js](https://dev.to/gabrielhsilvestre/introducao-ao-nodejs-14l1)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
 - [Lifehacker] [What&#39;s the Worst Etiquette Faux Pas You’ve Ever Experienced?](https://lifehacker.com/whats-the-worst-etiquette-faux-pas-you-ve-ever-experien-1848640489)
-- [Dev.to/JS] [How to fix react js error &quot;Cannot GET /&quot; in local browser no server no webpack](https://dev.to/arif0ne/how-to-fix-react-js-error-cannot-get-in-local-browser-no-server-no-webpack-33a5)
 - [Lifehacker] [25 of the Best Irish Movies of All Time](https://lifehacker.com/25-of-the-best-irish-movies-of-all-time-1848640617)
-- [Dev.to/JS] [Simple alert in React Native](https://dev.to/sirbalin26/simple-alert-in-react-native-fap)
 - [Lifehacker] [Flavor Your Mayo With Leftover Greens](https://lifehacker.com/flavor-your-mayo-with-leftover-greens-1848640478)
 - [Lifehacker] [5 of Our Favorite Travel Hacks of 2022](https://lifehacker.com/5-of-our-favorite-travel-hacks-of-2022-1848641700)
 - [Lifehacker] [How to Disable the Malfunctioning ‘AirPods Left Behind’ Notification](https://lifehacker.com/how-to-disable-the-malfunctioning-airpods-left-behind-1848641066)
