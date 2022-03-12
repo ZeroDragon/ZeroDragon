@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Realtime data streaming using server-sent events&lpar;SSE&rpar; with react.js and node.js](https://dev.to/beyond5575/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak)
 - [Dev.to/JS] [JSX Element, React Node, React Element](https://dev.to/ridhoanshory/jsx-element-react-node-react-element-idi)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Dev.to/JS] [How to Build a Live Streaming Web Application with Amazon IVS and Deepgram](https://dev.to/deepgram/how-to-build-a-live-streaming-web-application-with-amazon-ivs-and-deepgram-2kde)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Enumerating JavaScript Objects](https://dev.to/365erik/enumerating-javascript-objects-46c4)
 - [Lifehacker] [How to Disable the Malfunctioning ‘AirPods Left Behind’ Notification](https://lifehacker.com/how-to-disable-the-malfunctioning-airpods-left-behind-1848641066)
 - [Lifehacker] [These Simple Home Health Tests Are Actually Worth Trying](https://lifehacker.com/these-simple-home-health-tests-are-actually-worth-tryin-1848640897)
-- [Dev.to/JS] [Template Driven Approach In Angular Forms](https://dev.to/deepachaurasia1/template-driven-approach-in-angular-forms-2iak)
 - [Lifehacker] [Why the New iPhone SE Is Worth the Extra $29](https://lifehacker.com/why-the-new-iphone-se-is-worth-the-extra-29-1848633156)
 - [Lifehacker] [Why You Should File Your Taxes Early](https://lifehacker.com/why-you-should-file-your-taxes-early-1848637393)
 - [Lifehacker] [10 &#39;Elden Ring&#39; Tips for Complete Beginners](https://lifehacker.com/10-elden-ring-tips-for-complete-beginners-1848627469)
