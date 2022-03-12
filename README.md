@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Form validation with useForm hook](https://dev.to/m0nm/form-validation-with-useform-hook-1p33)
+- [Dev.to/JS] [Detox LinkedIn Feed :&rpar;](https://dev.to/yutro/detox-linkedin-feed--1n0n)
 - [Dev.to/JS] [Create generic methods in TypeScript](https://dev.to/rahulrajrd/create-generic-methods-in-typescript-1al8)
 - [Dev.to/JS] [replace the last comma to period in string](https://dev.to/chanyayun/replace-the-last-comma-to-period-in-string-55p9)
 - [Dev.to/JS] [Green Otter CBD Gummies - Pain Relief Reviews, Benefits, Side Effects And Price](https://dev.to/greenottercbdf1/green-otter-cbd-gummies-pain-relief-reviews-benefits-side-effects-and-price-jkk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Core principles of API Design - Part 2](https://dev.to/varenya/core-principles-of-api-design-part-2-1c1p)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;12-03-2022&rpar; - Kindness on the rocks](https://dev.to/mjgs/this-weeks-newsletter-is-out-12-03-2022-kindness-on-the-rocks-i4j)
 - [Dev.to/JS] [Create Portfolio Website Using Flask and Google sheets](https://dev.to/engmert/create-portfolio-website-using-flask-and-google-sheets-fkp)
-- [Dev.to/JS] [Create Chatbot with CSS JavaScript #1 | Learn CSS JavaScript](https://dev.to/dasaradhanimmala/create-chatbot-with-css-javascript-1-learn-css-javascript-33jh)
-- [Dev.to/JS] [CRO Development, a Brief Introduction](https://dev.to/makingstuffs/cro-development-a-brief-introduction-5912)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
