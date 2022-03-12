@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML CSS Resume Templates With Free Source Code](https://dev.to/miketech_13/html-css-resume-templates-with-free-source-code-21o4)
+- [Dev.to/JS] [SGB Discount Calculator - Buy Gold at a 30% Discount!](https://dev.to/mtwn105/sgb-discount-calculator-buy-gold-at-a-30-discount-4in1)
 - [Dev.to/JS] [Form validation with useForm hook](https://dev.to/m0nm/form-validation-with-useform-hook-1p33)
 - [Dev.to/JS] [Detox LinkedIn Feed :&rpar;](https://dev.to/yutro/detox-linkedin-feed--1n0n)
 - [Dev.to/JS] [Create generic methods in TypeScript](https://dev.to/rahulrajrd/create-generic-methods-in-typescript-1al8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [dfdfhskdjf](https://dev.to/balagpy/dfdfhskdjf-14f0)
 - [Dev.to/JS] [شركة خدمات الرياض](https://dev.to/omnia_ayman1/shrk-khdmt-lryd-1jcb)
 - [Dev.to/JS] [Core principles of API Design - Part 2](https://dev.to/varenya/core-principles-of-api-design-part-2-1c1p)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;12-03-2022&rpar; - Kindness on the rocks](https://dev.to/mjgs/this-weeks-newsletter-is-out-12-03-2022-kindness-on-the-rocks-i4j)
-- [Dev.to/JS] [Create Portfolio Website Using Flask and Google sheets](https://dev.to/engmert/create-portfolio-website-using-flask-and-google-sheets-fkp)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
