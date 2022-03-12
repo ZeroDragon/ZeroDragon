@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to easily detect which component is re-rendering too often &lpar;without installing additional tools&rpar;](https://dev.to/domizajac/how-to-easily-detect-which-component-is-re-rendering-too-often-without-installing-additional-tools-b93)
+- [Dev.to/JS] [Async Await Behavior](https://dev.to/365erik/async-await-behavior-8if)
+- [Dev.to/JS] [Reading Env files in React](https://dev.to/arnoldddev/reading-env-files-in-react-1pm6)
+- [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
+- [Dev.to/JS] [DOM &amp; jQUery - Javascript Cheatsheet 2022](https://dev.to/alexmercedcoder/dom-jquery-javascript-cheatsheet-2022-4p8h)
 - [Dev.to/JS] [10 Things Beginners Must Know About Java Script](https://dev.to/mianazanfarooq/10-things-beginners-must-know-about-java-script-2244)
 - [Dev.to/JS] [QnA - Ask Me Anything](https://dev.to/jareer/qna-ask-me-anything-5bn1)
 - [Dev.to/JS] [Authentication with React From Wizard and Nodejs - Part 2](https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-2-1n2d)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [@debug DativeJS](https://dev.to/tobithedev/debug-dativejs-50kg)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
 - [Dev.to/JS] [how to validate data in javascript](https://dev.to/alguercode/how-to-validate-data-in-javascript-3ngl)
-- [Dev.to/JS] [New React.js Hook - useLayoutEffect](https://dev.to/alguercode/new-reactjs-hook-uselayouteffect-3b8g)
-- [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 3](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-3-2cbk)
-- [Dev.to/JS] [Using Puppeteer to automate ASC Analytics screenshots](https://dev.to/nikola/using-puppeteer-to-automate-asc-analytics-screenshots-1nfb)
-- [Dev.to/JS] [How to develop the plugin deal with i18n in Figma Plugin?](https://dev.to/kurokky/how-to-develop-the-plugin-deal-with-i18n-in-figma-plugin-295)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
 - [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
 - [Lifehacker] [The Weirdest Pi Day Facts You and Your Kid Will Enjoy](https://lifehacker.com/the-weirdest-pi-day-facts-you-and-your-kid-will-enjoy-1848637107)
-- [Lifehacker] [10 of the Most Overrated Exercises &lpar;and What to Do Instead&rpar;](https://lifehacker.com/10-of-the-most-overrated-exercises-and-what-to-do-inst-1848635603)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
