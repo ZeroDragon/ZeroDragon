@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Some ultimate changes to my chatzoid application](https://dev.to/nisabmohd/some-ultimate-changes-to-my-chatzoid-application-k0k)
+- [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Dev.to/JS] [Obtén GRATIS estos servicios con tu cuenta de estudiante.](https://dev.to/syngrowly/obten-gratis-estos-servicios-con-tu-cuenta-de-estudiante-2ai2)
 - [Dev.to/JS] [Median of Two Sorted Arrays &lpar;Day 15&rpar;](https://dev.to/tanvirrahman/median-of-two-sorted-arrays-day-15-1839)
 - [Dev.to/JS] [Land Your First Dev Job in Germany &lpar;Freelance + Employee&rpar;](https://dev.to/timo_ernst/land-your-first-dev-job-in-germany-freelance-employee-1hhn)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Things Beginners Must Know About Java Script](https://dev.to/mianazanfarooq/10-things-beginners-must-know-about-java-script-2244)
 - [Dev.to/JS] [QnA - Ask Me Anything](https://dev.to/jareer/qna-ask-me-anything-5bn1)
 - [Dev.to/JS] [Authentication with React From Wizard and Nodejs - Part 2](https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-2-1n2d)
-- [Dev.to/JS] [Authentication with React From Wizard and Nodejs - Part 1](https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-1-366a)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
 - [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
-- [Lifehacker] [The Weirdest Pi Day Facts You and Your Kid Will Enjoy](https://lifehacker.com/the-weirdest-pi-day-facts-you-and-your-kid-will-enjoy-1848637107)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
