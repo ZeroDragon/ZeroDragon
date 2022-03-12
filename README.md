@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Obtén GRATIS estos servicios con tu cuenta de estudiante.](https://dev.to/syngrowly/obten-gratis-estos-servicios-con-tu-cuenta-de-estudiante-2ai2)
+- [Dev.to/JS] [Median of Two Sorted Arrays &lpar;Day 15&rpar;](https://dev.to/tanvirrahman/median-of-two-sorted-arrays-day-15-1839)
+- [Dev.to/JS] [Land Your First Dev Job in Germany &lpar;Freelance + Employee&rpar;](https://dev.to/timo_ernst/land-your-first-dev-job-in-germany-freelance-employee-1hhn)
+- [Dev.to/JS] [Elrond NFT collection with Elven Tools](https://dev.to/juliancwirko/elrond-nft-collection-with-elven-tools-2ccj)
 - [Dev.to/JS] [How to easily detect which component is re-rendering too often &lpar;without installing additional tools&rpar;](https://dev.to/domizajac/how-to-easily-detect-which-component-is-re-rendering-too-often-without-installing-additional-tools-b93)
 - [Dev.to/JS] [Async Await Behavior](https://dev.to/365erik/async-await-behavior-8if)
 - [Dev.to/JS] [Reading Env files in React](https://dev.to/arnoldddev/reading-env-files-in-react-1pm6)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [QnA - Ask Me Anything](https://dev.to/jareer/qna-ask-me-anything-5bn1)
 - [Dev.to/JS] [Authentication with React From Wizard and Nodejs - Part 2](https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-2-1n2d)
 - [Dev.to/JS] [Authentication with React From Wizard and Nodejs - Part 1](https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-1-366a)
-- [Dev.to/JS] [Vue Data Object : Details You Must Know](https://dev.to/feldspartech/vue-data-object-details-you-must-know-261n)
-- [Dev.to/JS] [5 Best practices for ReactJs](https://dev.to/sachinchaurasiya/5-best-practices-for-reactjs-44pf)
-- [Dev.to/JS] [@debug DativeJS](https://dev.to/tobithedev/debug-dativejs-50kg)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
-- [Dev.to/JS] [how to validate data in javascript](https://dev.to/alguercode/how-to-validate-data-in-javascript-3ngl)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
