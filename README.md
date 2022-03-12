@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
+- [Dev.to/JS] [how to validate data in javascript](https://dev.to/alguercode/how-to-validate-data-in-javascript-3ngl)
+- [Dev.to/JS] [New React.js Hook - useLayoutEffect](https://dev.to/alguercode/new-reactjs-hook-uselayouteffect-3b8g)
+- [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 3](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-3-2cbk)
+- [Dev.to/JS] [Using Puppeteer to automate ASC Analytics screenshots](https://dev.to/nikola/using-puppeteer-to-automate-asc-analytics-screenshots-1nfb)
+- [Dev.to/JS] [How to develop the plugin deal with i18n in Figma Plugin?](https://dev.to/kurokky/how-to-develop-the-plugin-deal-with-i18n-in-figma-plugin-295)
+- [Dev.to/JS] [VS Code Keyboard Shortcuts | Or How To Become Even More Productive](https://dev.to/danielbellmas/vs-code-keyboard-shortcuts-or-how-to-become-even-more-productive-46ik)
+- [Dev.to/JS] [👉Hand-picked Public APIs For Your Next Project&lpar;s&rpar;. 🎁](https://dev.to/jareer/hand-picked-public-apis-for-your-next-projects-f0p)
+- [Dev.to/JS] [Adding Custom Attributes to Trix&#39;s toolbar](https://dev.to/rockwell/adding-custom-attributes-to-trixs-toolbar-21pl)
 - [Dev.to/JS] [html vs css vs javascript Tell Which is easy?](https://dev.to/cssdesignmaker/html-vs-css-vs-javascript-tell-which-is-easy-4fm5)
 - [Dev.to/JS] [3d card flipping effect with vanilla HTML and CSS](https://dev.to/thatanjan/3d-card-flipping-effect-with-vanilla-html-and-css-24b3)
 - [Dev.to/JS] [DativeJs {{#each}} block](https://dev.to/tobithedev/dativejs-each-block-4bjf)
 - [Dev.to/JS] [Candy - new way of styling react components](https://dev.to/iminside/candy-new-way-of-styling-react-components-24eg)
-- [Dev.to/JS] [Why Learn Next.js? Why do React Developers Love Next?](https://dev.to/chaoocharles/why-learn-nextjs-why-do-react-developers-love-next-1a7d)
-- [Dev.to/JS] [Martha MacCallum CBD Gummies Reviews – Shocking Facts Where To Buy?](https://dev.to/marthamaccallumcbd/martha-maccallum-cbd-gummies-reviews-shocking-facts-where-to-buy-20j9)
-- [Dev.to/JS] [HTML CSS Resume Templates With Free Source Code](https://dev.to/miketech_13/html-css-resume-templates-with-free-source-code-21o4)
-- [Dev.to/JS] [SGB Discount Calculator - Buy Gold at a 30% Discount!](https://dev.to/mtwn105/sgb-discount-calculator-buy-gold-at-a-30-discount-4in1)
-- [Dev.to/JS] [Form validation with useForm hook](https://dev.to/m0nm/form-validation-with-useform-hook-1p33)
-- [Dev.to/JS] [Detox LinkedIn Feed :&rpar;](https://dev.to/yutro/detox-linkedin-feed--1n0n)
-- [Dev.to/JS] [Create generic methods in TypeScript](https://dev.to/rahulrajrd/create-generic-methods-in-typescript-1al8)
-- [Dev.to/JS] [replace the last comma to period in string](https://dev.to/chanyayun/replace-the-last-comma-to-period-in-string-55p9)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
 - [Lifehacker] [The Weirdest Pi Day Facts You and Your Kid Will Enjoy](https://lifehacker.com/the-weirdest-pi-day-facts-you-and-your-kid-will-enjoy-1848637107)
 - [Lifehacker] [10 of the Most Overrated Exercises &lpar;and What to Do Instead&rpar;](https://lifehacker.com/10-of-the-most-overrated-exercises-and-what-to-do-inst-1848635603)
-- [Lifehacker] [How to Replace That One Single Goddamn Cracked Tile](https://lifehacker.com/how-to-replace-that-one-single-goddamn-cracked-tile-1848635815)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
