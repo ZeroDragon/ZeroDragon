@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue Data Object : Details You Must Know](https://dev.to/feldspartech/vue-data-object-details-you-must-know-261n)
+- [Dev.to/JS] [5 Best practices for ReactJs](https://dev.to/sachinchaurasiya/5-best-practices-for-reactjs-44pf)
+- [Dev.to/JS] [@debug DativeJS](https://dev.to/tobithedev/debug-dativejs-50kg)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
 - [Dev.to/JS] [how to validate data in javascript](https://dev.to/alguercode/how-to-validate-data-in-javascript-3ngl)
 - [Dev.to/JS] [New React.js Hook - useLayoutEffect](https://dev.to/alguercode/new-reactjs-hook-uselayouteffect-3b8g)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [👉Hand-picked Public APIs For Your Next Project&lpar;s&rpar;. 🎁](https://dev.to/jareer/hand-picked-public-apis-for-your-next-projects-f0p)
 - [Dev.to/JS] [Adding Custom Attributes to Trix&#39;s toolbar](https://dev.to/rockwell/adding-custom-attributes-to-trixs-toolbar-21pl)
 - [Dev.to/JS] [html vs css vs javascript Tell Which is easy?](https://dev.to/cssdesignmaker/html-vs-css-vs-javascript-tell-which-is-easy-4fm5)
-- [Dev.to/JS] [3d card flipping effect with vanilla HTML and CSS](https://dev.to/thatanjan/3d-card-flipping-effect-with-vanilla-html-and-css-24b3)
-- [Dev.to/JS] [DativeJs {{#each}} block](https://dev.to/tobithedev/dativejs-each-block-4bjf)
-- [Dev.to/JS] [Candy - new way of styling react components](https://dev.to/iminside/candy-new-way-of-styling-react-components-24eg)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
