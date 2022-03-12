@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create generic methods in TypeScript](https://dev.to/rahulrajrd/create-generic-methods-in-typescript-1al8)
+- [Dev.to/JS] [replace the last comma to period in string](https://dev.to/chanyayun/replace-the-last-comma-to-period-in-string-55p9)
+- [Dev.to/JS] [Green Otter CBD Gummies - Pain Relief Reviews, Benefits, Side Effects And Price](https://dev.to/greenottercbdf1/green-otter-cbd-gummies-pain-relief-reviews-benefits-side-effects-and-price-jkk)
+- [Dev.to/JS] [Sudoku Solver using SolidJS &amp; Tailwind](https://dev.to/sadanandpai/sudoku-solver-using-solidjs-tailwind-22if)
 - [Dev.to/JS] [The Record Utility Type in TypeScript](https://dev.to/dailydevtips1/the-record-utility-type-in-typescript-3jj5)
 - [Dev.to/JS] [dfdfhskdjf](https://dev.to/balagpy/dfdfhskdjf-14f0)
 - [Dev.to/JS] [شركة خدمات الرياض](https://dev.to/omnia_ayman1/shrk-khdmt-lryd-1jcb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Portfolio Website Using Flask and Google sheets](https://dev.to/engmert/create-portfolio-website-using-flask-and-google-sheets-fkp)
 - [Dev.to/JS] [Create Chatbot with CSS JavaScript #1 | Learn CSS JavaScript](https://dev.to/dasaradhanimmala/create-chatbot-with-css-javascript-1-learn-css-javascript-33jh)
 - [Dev.to/JS] [CRO Development, a Brief Introduction](https://dev.to/makingstuffs/cro-development-a-brief-introduction-5912)
-- [Dev.to/JS] [JAVASCRIPT_NOTES](https://dev.to/deepachaurasia1/javascriptnotes-b0n)
-- [Dev.to/JS] [LeetCode Notes: Find All Duplicates in an Array](https://dev.to/openhacking/leetcode-notes-find-all-duplicates-in-an-array-4bjj)
-- [Dev.to/JS] [Sveltekit Private Routes with Backendless](https://dev.to/brewhousedigital/sveltekit-private-routes-with-backendless-2lfn)
-- [Dev.to/JS] [Need to fix a issue that comming in antd tree component](https://dev.to/himanshurathi/need-to-fix-a-issue-that-comming-in-antd-tree-component-4dg0)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
