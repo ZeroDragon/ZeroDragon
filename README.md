@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Need to fix a issue that comming in antd tree component](https://dev.to/himanshurathi/need-to-fix-a-issue-that-comming-in-antd-tree-component-4dg0)
 - [Dev.to/JS] [How to display DOM elements with ForEach&lpar;&rpar;](https://dev.to/mikefazekas/how-to-display-dom-elements-with-foreach-45ci)
 - [Dev.to/JS] [Should we use CDN to load JavaScript plugins?](https://dev.to/tomoyakuroda/should-we-use-cdn-to-load-javascript-plugins-2jlm)
 - [Dev.to/JS] [Fun with JavaScript Arrays](https://dev.to/chrisjandrade/using-javascript-arrays-effectively-4jjn)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to fix react js error &quot;Cannot GET /&quot; in local browser no server no webpack](https://dev.to/arif0ne/how-to-fix-react-js-error-cannot-get-in-local-browser-no-server-no-webpack-33a5)
 - [Lifehacker] [25 of the Best Irish Movies of All Time](https://lifehacker.com/25-of-the-best-irish-movies-of-all-time-1848640617)
 - [Dev.to/JS] [Simple alert in React Native](https://dev.to/sirbalin26/simple-alert-in-react-native-fap)
-- [Dev.to/JS] [Simple alert in React](https://dev.to/sirbalin26/simple-alert-in-react-88k)
 - [Lifehacker] [Flavor Your Mayo With Leftover Greens](https://lifehacker.com/flavor-your-mayo-with-leftover-greens-1848640478)
 - [Lifehacker] [5 of Our Favorite Travel Hacks of 2022](https://lifehacker.com/5-of-our-favorite-travel-hacks-of-2022-1848641700)
 - [Lifehacker] [How to Disable the Malfunctioning ‘AirPods Left Behind’ Notification](https://lifehacker.com/how-to-disable-the-malfunctioning-airpods-left-behind-1848641066)
