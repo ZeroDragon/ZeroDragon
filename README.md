@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dark Mode in TailwindCSS with JavaScript](https://dev.to/taiseen/dark-mode-in-tailwindcss-with-javascript-jh7)
+- [Dev.to/JS] [Day 15/100, 100 Days of Code](https://dev.to/xurgg/day-15100-100-days-of-code-52o2)
 - [Dev.to/JS] [Some ultimate changes to my chatzoid application](https://dev.to/nisabmohd/some-ultimate-changes-to-my-chatzoid-application-k0k)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Dev.to/JS] [Obtén GRATIS estos servicios con tu cuenta de estudiante.](https://dev.to/syngrowly/obten-gratis-estos-servicios-con-tu-cuenta-de-estudiante-2ai2)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Dev.to/JS] [DOM &amp; jQUery - Javascript Cheatsheet 2022](https://dev.to/alexmercedcoder/dom-jquery-javascript-cheatsheet-2022-4p8h)
 - [Dev.to/JS] [10 Things Beginners Must Know About Java Script](https://dev.to/mianazanfarooq/10-things-beginners-must-know-about-java-script-2244)
-- [Dev.to/JS] [QnA - Ask Me Anything](https://dev.to/jareer/qna-ask-me-anything-5bn1)
-- [Dev.to/JS] [Authentication with React From Wizard and Nodejs - Part 2](https://dev.to/paulvermeer2021/authentication-with-react-from-wizard-and-nodejs-part-2-1n2d)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
