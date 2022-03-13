@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Populating Next Right Pointers in Each Node - Daily JS &lpar;Day 16&rpar;](https://dev.to/tanvirrahman/populating-next-right-pointers-in-each-node-daily-js-day-16-5508)
+- [Dev.to/JS] [Passing Data &lpar;states&rpar; through React Router](https://dev.to/thatfemicode/passing-data-states-through-react-router-8dh)
+- [Dev.to/JS] [what is `this` in JavaScript?](https://dev.to/sobitp59/what-is-this-in-javascript-2a2c)
+- [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
+- [Dev.to/JS] [Entendendo Promises](https://dev.to/lucaslomeu/entendendo-promises-2al5)
 - [Dev.to/JS] [8 Scroll Effects To SUPERCHARGE Your UX! 👆️✨️](https://dev.to/bestofstuff/8-scroll-effects-to-supercharge-your-ux-4nm9)
 - [Dev.to/JS] [Know Framework](https://dev.to/ochsec/know-framework-3ekc)
 - [Dev.to/JS] [Master the web storage API](https://dev.to/muhammad_asif/master-the-web-storage-api-3572)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript var, let and const](https://dev.to/fig781/javascript-var-let-and-const-2g57)
 - [Dev.to/JS] [Don&#39;t use console.log&lpar;&rpar; for debugging in Javascript &lpar;VS Code&rpar;](https://dev.to/luizcalaca/dont-use-consolelog-for-debugging-in-javascript-vs-code-2hoh)
 - [Dev.to/JS] [Sorting One Array With Another in JavaScript](https://dev.to/itwasmattgregg/sorting-one-array-with-another-in-javascript-3abp)
-- [Dev.to/JS] [CSS Webpack Plugin - Style the Modern Web](https://dev.to/tzachbon/css-webpack-plugin-style-the-modern-web-146a)
-- [Dev.to/JS] [Implementing Routing in React](https://dev.to/georgeoffley/implementing-routing-in-react-3ab8)
-- [Dev.to/JS] [How to get query params from a URL in JavaScript](https://dev.to/ianfelix/how-to-get-query-params-from-a-url-in-javascript-fik)
-- [Dev.to/JS] [Replace Switch statement with Record - Typescript](https://dev.to/codespresso/replace-switch-statement-with-record-typescript-1e3m)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Wash Down Your Green Beer With These St. Patrick&#39;s Day Food Deals and Freebies](https://lifehacker.com/wash-down-your-green-beer-with-these-st-patricks-day-f-1848621463)
 - [Lifehacker] [The Cheapest American Metro Areas to Buy a Home Right Now](https://lifehacker.com/the-cheapest-american-metro-areas-to-buy-a-home-right-n-1848638415)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
-- [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
