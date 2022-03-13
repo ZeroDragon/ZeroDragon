@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Email Account Verification In Node JS &amp; React JS | MERN Stack Project](https://dev.to/cyberwolve/email-account-verification-in-node-js-react-js-mern-stack-project-1hlk)
+- [Dev.to/JS] [CRUD Operations In React JS | MERN STACK | CRUD REST API](https://dev.to/cyberwolve/crud-operations-in-react-js-mern-stack-crud-rest-api-5643)
+- [Dev.to/JS] [Automatically Format your code on Git Commit using Husky, ESLint, Prettier in 9 minutes](https://dev.to/ruppysuppy/automatically-format-your-code-on-git-commit-using-husky-eslint-prettier-in-9-minutes-45eg)
+- [Dev.to/JS] [CRUD Operations In Node JS | MERN STACK | CRUD REST API](https://dev.to/cyberwolve/crud-operations-in-node-js-mern-stack-crud-rest-api-34e8)
+- [Dev.to/JS] [Designing software in a complex domain - Domain-Driven Design](https://dev.to/bibekshah09/designing-software-in-a-complex-domain-domain-driven-design-31ah)
 - [Dev.to/JS] [SETs and MAPs in JS.](https://dev.to/moreshwar/sets-and-maps-in-js-17da)
 - [Dev.to/JS] [Converting a callback to a promise](https://dev.to/paramagicdev/converting-a-callback-to-a-promise-1mj1)
 - [Dev.to/JS] [Bored? Try my first app!](https://dev.to/nicm/bored-try-my-first-app-18fi)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Constants With Object.freeze&lpar;&rpar;](https://dev.to/bytebodger/javascript-constants-with-objectfreeze-4beg)
 - [Dev.to/JS] [React-native new Architecture, what to expect ?](https://dev.to/salemabderaouf/react-native-new-architecture-what-to-expect--ojf)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 11 &amp; 12](https://dev.to/marvinobig/100-days-of-code-challenge-day-11-12-3i0g)
-- [Dev.to/JS] [Paracetamol.js💊| #77: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-77-explica-este-codigo-javascript-15i2)
-- [Dev.to/JS] [Using Axios in Nuxt with Composition API](https://dev.to/kouts/using-axios-in-nuxt-with-composition-api-1iaj)
-- [Dev.to/JS] [Rails Calendar Application Using Tui Calendar](https://dev.to/timnans/rails-calendar-application-using-tui-calendar-2868)
-- [Dev.to/JS] [Working with JSON: React](https://dev.to/mrpaulishaili/working-with-json-react-3bol)
-- [Dev.to/JS] [🔑Random Password Generator](https://dev.to/jobsoncodes/random-password-generator-aoo)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
