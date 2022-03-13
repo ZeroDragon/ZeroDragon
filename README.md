@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [creating a faster Synology quickconnect.to](https://dev.to/offcorner/creating-a-faster-synology-quickconnectto-2ha2)
+- [Dev.to/JS] [output.target vs. output.chunkFormat in Webpack5](https://dev.to/projektorius96/outputtarget-vs-outputchunkformat-in-webpack5-5pg)
+- [Dev.to/JS] [5+ GORGEOUS Color Palettes To Inspire Your Projects 🎨️✨️](https://dev.to/bestofstuff/5-gorgeous-color-palettes-to-inspire-your-projects-2j72)
+- [Dev.to/JS] [Starting out on REACT](https://dev.to/danielarmbruster0314/starting-out-on-react-2ifh)
 - [Dev.to/JS] [Monetize your api using Stripe Mongoose Api](https://dev.to/moscatellimarco/monetize-your-api-using-stripe-mongoose-api-4k1o)
 - [Dev.to/JS] [10 GORGEOUS Web Components That You Can Freely Add To Your Projects 😍️✨️](https://dev.to/bestofstuff/best-codepens-of-all-time-1loj)
 - [Dev.to/JS] [simplest way to Implement mqtt in Nest js](https://dev.to/imshivanshpatel/simplest-way-to-implement-mqtt-in-nest-js-36l9)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 15 libraries you should use for every Node Express backend project.](https://dev.to/wizbuntu/top-15-libraries-you-should-use-for-every-node-express-backend-project-3k23)
 - [Dev.to/JS] [Traversing a DOM tree](https://dev.to/alieissa/traversing-a-dom-tree-5ckn)
 - [Dev.to/JS] [Populating Next Right Pointers in Each Node - Daily JS &lpar;Day 16&rpar;](https://dev.to/tanvirrahman/populating-next-right-pointers-in-each-node-daily-js-day-16-5508)
-- [Dev.to/JS] [Passing Data &lpar;states&rpar; through React Router](https://dev.to/thatfemicode/passing-data-states-through-react-router-8dh)
-- [Dev.to/JS] [what is `this` in JavaScript?](https://dev.to/sobitp59/what-is-this-in-javascript-2a2c)
 - [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
-- [Dev.to/JS] [Entendendo Promises](https://dev.to/lucaslomeu/entendendo-promises-2al5)
-- [Dev.to/JS] [8 Scroll Effects To SUPERCHARGE Your UX! 👆️✨️](https://dev.to/bestofstuff/8-scroll-effects-to-supercharge-your-ux-4nm9)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
