@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Replace Switch statement with Record - Typescript](https://dev.to/codespresso/replace-switch-statement-with-record-typescript-1e3m)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
 - [Dev.to/JS] [Testing modern ReactJS Application: Unit Testing&lpar;Part 1&rpar;](https://dev.to/mr0bread/testing-modern-reactjs-application-unit-testingpart-1-2g4g)
 - [Dev.to/JS] [SpaceX Landing Page Clone with vanilla Html, CSS, Javascript](https://dev.to/thatanjan/spacex-landing-page-clone-2dc8)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Development in 2022](https://dev.to/sanket00900/web-development-in-2022-4i06)
 - [Dev.to/JS] [Testing modern ReactJS Application: Setting Up](https://dev.to/mr0bread/testing-modern-reactjs-application-setting-up-23h3)
 - [Dev.to/JS] [Difference between javascript shift&lpar;&rpar; and slice&lpar;&rpar; method in array.](https://dev.to/shijug/difference-between-javascript-shift-and-slice-method-in-array-4016)
-- [Dev.to/JS] [Email Account Verification In Node JS &amp; React JS | MERN Stack Project](https://dev.to/cyberwolve/email-account-verification-in-node-js-react-js-mern-stack-project-1hlk)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
