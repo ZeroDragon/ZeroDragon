@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [pnpm and Parcel based monorepo](https://dev.to/pklaschka/pnpm-and-parcel-based-monorepo-4ojc)
+- [Dev.to/JS] [JavaScript var, let and const](https://dev.to/fig781/javascript-var-let-and-const-2g57)
+- [Dev.to/JS] [Don&#39;t use console.log&lpar;&rpar; for debugging in Javascript &lpar;VS Code&rpar;](https://dev.to/luizcalaca/dont-use-consolelog-for-debugging-in-javascript-vs-code-2hoh)
+- [Dev.to/JS] [Sorting One Array With Another in JavaScript](https://dev.to/itwasmattgregg/sorting-one-array-with-another-in-javascript-3abp)
 - [Dev.to/JS] [CSS Webpack Plugin - Style the Modern Web](https://dev.to/tzachbon/css-webpack-plugin-style-the-modern-web-146a)
 - [Dev.to/JS] [Implementing Routing in React](https://dev.to/georgeoffley/implementing-routing-in-react-3ab8)
 - [Dev.to/JS] [How to get query params from a URL in JavaScript](https://dev.to/ianfelix/how-to-get-query-params-from-a-url-in-javascript-fik)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SpaceX Landing Page Clone with vanilla Html, CSS, Javascript](https://dev.to/thatanjan/spacex-landing-page-clone-2dc8)
 - [Dev.to/JS] [ACV+ Apple Cider Vinegar Gummies - &lpar;Shark Tank Updated&rpar; Fat Loss Results | Is It Scam Or Safe?](https://dev.to/acvapplecideri1/acv-apple-cider-vinegar-gummies-shark-tank-updated-fat-loss-results-is-it-scam-or-safe-2pj3)
 - [Dev.to/JS] [Sonoretech.com](https://dev.to/ngoy_luckson/sonoretechcom-2p21)
-- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 8&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-8-3k4e)
-- [Dev.to/JS] [Learn the MERN stack - by building an Instagram clone &lpar;Part Two&rpar;](https://dev.to/tylerasa/learn-the-mern-stack-by-building-an-instagram-clone-part-two-50en)
-- [Dev.to/JS] [Pizza Delivary Website Using React](https://dev.to/saibalsekhar29/pizza-delivary-website-using-react-1oik)
-- [Dev.to/JS] [Tell me you&#39;re php developer without telling me you&#39;re a php developer..](https://dev.to/hvm3/tell-me-youre-php-developer-without-telling-me-youre-a-php-developer-27bf)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
