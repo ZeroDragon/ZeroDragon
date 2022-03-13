@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS Webpack Plugin - Style the Modern Web](https://dev.to/tzachbon/css-webpack-plugin-style-the-modern-web-146a)
+- [Dev.to/JS] [Implementing Routing in React](https://dev.to/georgeoffley/implementing-routing-in-react-3ab8)
+- [Dev.to/JS] [How to get query params from a URL in JavaScript](https://dev.to/ianfelix/how-to-get-query-params-from-a-url-in-javascript-fik)
 - [Dev.to/JS] [Replace Switch statement with Record - Typescript](https://dev.to/codespresso/replace-switch-statement-with-record-typescript-1e3m)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
 - [Dev.to/JS] [Testing modern ReactJS Application: Unit Testing&lpar;Part 1&rpar;](https://dev.to/mr0bread/testing-modern-reactjs-application-unit-testingpart-1-2g4g)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn the MERN stack - by building an Instagram clone &lpar;Part Two&rpar;](https://dev.to/tylerasa/learn-the-mern-stack-by-building-an-instagram-clone-part-two-50en)
 - [Dev.to/JS] [Pizza Delivary Website Using React](https://dev.to/saibalsekhar29/pizza-delivary-website-using-react-1oik)
 - [Dev.to/JS] [Tell me you&#39;re php developer without telling me you&#39;re a php developer..](https://dev.to/hvm3/tell-me-youre-php-developer-without-telling-me-youre-a-php-developer-27bf)
-- [Dev.to/JS] [Web Development in 2022](https://dev.to/sanket00900/web-development-in-2022-4i06)
-- [Dev.to/JS] [Testing modern ReactJS Application: Setting Up](https://dev.to/mr0bread/testing-modern-reactjs-application-setting-up-23h3)
-- [Dev.to/JS] [Difference between javascript shift&lpar;&rpar; and slice&lpar;&rpar; method in array.](https://dev.to/shijug/difference-between-javascript-shift-and-slice-method-in-array-4016)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
