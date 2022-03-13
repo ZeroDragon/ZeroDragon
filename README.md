@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tell me you&#39;re php developer without telling me you&#39;re a php developer..](https://dev.to/hvm3/tell-me-youre-php-developer-without-telling-me-youre-a-php-developer-27bf)
+- [Dev.to/JS] [Web Development in 2022](https://dev.to/sanket00900/web-development-in-2022-4i06)
+- [Dev.to/JS] [Testing modern ReactJS Application: Setting Up](https://dev.to/mr0bread/testing-modern-reactjs-application-setting-up-23h3)
 - [Dev.to/JS] [Difference between javascript shift&lpar;&rpar; and slice&lpar;&rpar; method in array.](https://dev.to/shijug/difference-between-javascript-shift-and-slice-method-in-array-4016)
 - [Dev.to/JS] [Email Account Verification In Node JS &amp; React JS | MERN Stack Project](https://dev.to/cyberwolve/email-account-verification-in-node-js-react-js-mern-stack-project-1hlk)
 - [Dev.to/JS] [CRUD Operations In React JS | MERN STACK | CRUD REST API](https://dev.to/cyberwolve/crud-operations-in-react-js-mern-stack-crud-rest-api-5643)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SETs and MAPs in JS.](https://dev.to/moreshwar/sets-and-maps-in-js-17da)
 - [Dev.to/JS] [Converting a callback to a promise](https://dev.to/paramagicdev/converting-a-callback-to-a-promise-1mj1)
 - [Dev.to/JS] [Bored? Try my first app!](https://dev.to/nicm/bored-try-my-first-app-18fi)
-- [Dev.to/JS] [The Habit Tracker](https://dev.to/josettetgarcia/the-habit-tracker-4o0h)
-- [Dev.to/JS] [JavaScript Constants With Object.freeze&lpar;&rpar;](https://dev.to/bytebodger/javascript-constants-with-objectfreeze-4beg)
-- [Dev.to/JS] [React-native new Architecture, what to expect ?](https://dev.to/salemabderaouf/react-native-new-architecture-what-to-expect--ojf)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
