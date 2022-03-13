@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8 Scroll Effects To SUPERCHARGE Your UX! 👆️✨️](https://dev.to/bestofstuff/8-scroll-effects-to-supercharge-your-ux-4nm9)
+- [Dev.to/JS] [Know Framework](https://dev.to/ochsec/know-framework-3ekc)
+- [Dev.to/JS] [Master the web storage API](https://dev.to/muhammad_asif/master-the-web-storage-api-3572)
+- [Dev.to/JS] [The New Gatsby Homepage Starters - Less Is More](https://dev.to/andrews1022/the-new-gatsby-homepage-starters-less-is-more-af5)
 - [Dev.to/JS] [pnpm and Parcel based monorepo](https://dev.to/pklaschka/pnpm-and-parcel-based-monorepo-4ojc)
 - [Dev.to/JS] [JavaScript var, let and const](https://dev.to/fig781/javascript-var-let-and-const-2g57)
 - [Dev.to/JS] [Don&#39;t use console.log&lpar;&rpar; for debugging in Javascript &lpar;VS Code&rpar;](https://dev.to/luizcalaca/dont-use-consolelog-for-debugging-in-javascript-vs-code-2hoh)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get query params from a URL in JavaScript](https://dev.to/ianfelix/how-to-get-query-params-from-a-url-in-javascript-fik)
 - [Dev.to/JS] [Replace Switch statement with Record - Typescript](https://dev.to/codespresso/replace-switch-statement-with-record-typescript-1e3m)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
-- [Dev.to/JS] [Testing modern ReactJS Application: Unit Testing&lpar;Part 1&rpar;](https://dev.to/mr0bread/testing-modern-reactjs-application-unit-testingpart-1-2g4g)
-- [Dev.to/JS] [SpaceX Landing Page Clone with vanilla Html, CSS, Javascript](https://dev.to/thatanjan/spacex-landing-page-clone-2dc8)
-- [Dev.to/JS] [ACV+ Apple Cider Vinegar Gummies - &lpar;Shark Tank Updated&rpar; Fat Loss Results | Is It Scam Or Safe?](https://dev.to/acvapplecideri1/acv-apple-cider-vinegar-gummies-shark-tank-updated-fat-loss-results-is-it-scam-or-safe-2pj3)
-- [Dev.to/JS] [Sonoretech.com](https://dev.to/ngoy_luckson/sonoretechcom-2p21)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
