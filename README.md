@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Converting a callback to a promise](https://dev.to/paramagicdev/converting-a-callback-to-a-promise-1mj1)
 - [Dev.to/JS] [Bored? Try my first app!](https://dev.to/nicm/bored-try-my-first-app-18fi)
 - [Dev.to/JS] [The Habit Tracker](https://dev.to/josettetgarcia/the-habit-tracker-4o0h)
 - [Dev.to/JS] [JavaScript Constants With Object.freeze&lpar;&rpar;](https://dev.to/bytebodger/javascript-constants-with-objectfreeze-4beg)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working with JSON: React](https://dev.to/mrpaulishaili/working-with-json-react-3bol)
 - [Dev.to/JS] [🔑Random Password Generator](https://dev.to/jobsoncodes/random-password-generator-aoo)
 - [Dev.to/JS] [Getting Started: An Intro to Josette](https://dev.to/josettetgarcia/getting-started-an-intro-to-josette-phk)
-- [Dev.to/JS] [Dark Mode in TailwindCSS with JavaScript](https://dev.to/taiseen/dark-mode-in-tailwindcss-with-javascript-jh7)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
