@@ -23,10 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Codepens Of All Time 😍️✨️](https://dev.to/bestofstuff/best-codepens-of-all-time-1loj)
+- [Dev.to/JS] [simplest way to Implement mqtt in Nest js](https://dev.to/imshivanshpatel/simplest-way-to-implement-mqtt-in-nest-js-36l9)
 - [Lifehacker] [The Easiest Ways to &lpar;Properly&rpar; Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 - [Dev.to/JS] [Weekly Digest 10/2022](https://dev.to/marcobiedermann/weekly-digest-102022-1den)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Circular Linked List](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-circular-linked-list-d7a)
 - [Dev.to/JS] [Top 15 libraries you should use for every Node Express backend project.](https://dev.to/wizbuntu/top-15-libraries-you-should-use-for-every-node-express-backend-project-3k23)
+- [Dev.to/JS] [Traversing a DOM tree](https://dev.to/alieissa/traversing-a-dom-tree-5ckn)
 - [Dev.to/JS] [Populating Next Right Pointers in Each Node - Daily JS &lpar;Day 16&rpar;](https://dev.to/tanvirrahman/populating-next-right-pointers-in-each-node-daily-js-day-16-5508)
 - [Dev.to/JS] [Passing Data &lpar;states&rpar; through React Router](https://dev.to/thatfemicode/passing-data-states-through-react-router-8dh)
 - [Dev.to/JS] [what is `this` in JavaScript?](https://dev.to/sobitp59/what-is-this-in-javascript-2a2c)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Entendendo Promises](https://dev.to/lucaslomeu/entendendo-promises-2al5)
 - [Dev.to/JS] [8 Scroll Effects To SUPERCHARGE Your UX! 👆️✨️](https://dev.to/bestofstuff/8-scroll-effects-to-supercharge-your-ux-4nm9)
 - [Dev.to/JS] [Know Framework](https://dev.to/ochsec/know-framework-3ekc)
-- [Dev.to/JS] [Master the web storage API](https://dev.to/muhammad_asif/master-the-web-storage-api-3572)
-- [Dev.to/JS] [The New Gatsby Homepage Starters - Less Is More](https://dev.to/andrews1022/the-new-gatsby-homepage-starters-less-is-more-af5)
-- [Dev.to/JS] [pnpm and Parcel based monorepo](https://dev.to/pklaschka/pnpm-and-parcel-based-monorepo-4ojc)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
