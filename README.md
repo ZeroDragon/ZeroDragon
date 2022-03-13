@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Best Codepens Of All Time 😍️✨️](https://dev.to/bestofstuff/best-codepens-of-all-time-1loj)
+- [Dev.to/JS] [Monetize your api using Stripe Mongoose Api](https://dev.to/moscatellimarco/monetize-your-api-using-stripe-mongoose-api-4k1o)
+- [Dev.to/JS] [10 GORGEOUS Web Components That You Can Freely Add To Your Projects 😍️✨️](https://dev.to/bestofstuff/best-codepens-of-all-time-1loj)
 - [Dev.to/JS] [simplest way to Implement mqtt in Nest js](https://dev.to/imshivanshpatel/simplest-way-to-implement-mqtt-in-nest-js-36l9)
 - [Lifehacker] [The Easiest Ways to &lpar;Properly&rpar; Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 - [Dev.to/JS] [Weekly Digest 10/2022](https://dev.to/marcobiedermann/weekly-digest-102022-1den)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
 - [Dev.to/JS] [Entendendo Promises](https://dev.to/lucaslomeu/entendendo-promises-2al5)
 - [Dev.to/JS] [8 Scroll Effects To SUPERCHARGE Your UX! 👆️✨️](https://dev.to/bestofstuff/8-scroll-effects-to-supercharge-your-ux-4nm9)
-- [Dev.to/JS] [Know Framework](https://dev.to/ochsec/know-framework-3ekc)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
