@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sonoretech.com](https://dev.to/ngoy_luckson/sonoretechcom-2p21)
+- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 8&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-8-3k4e)
+- [Dev.to/JS] [Learn the MERN stack - by building an Instagram clone &lpar;Part Two&rpar;](https://dev.to/tylerasa/learn-the-mern-stack-by-building-an-instagram-clone-part-two-50en)
 - [Dev.to/JS] [Pizza Delivary Website Using React](https://dev.to/saibalsekhar29/pizza-delivary-website-using-react-1oik)
 - [Dev.to/JS] [Tell me you&#39;re php developer without telling me you&#39;re a php developer..](https://dev.to/hvm3/tell-me-youre-php-developer-without-telling-me-youre-a-php-developer-27bf)
 - [Dev.to/JS] [Web Development in 2022](https://dev.to/sanket00900/web-development-in-2022-4i06)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CRUD Operations In React JS | MERN STACK | CRUD REST API](https://dev.to/cyberwolve/crud-operations-in-react-js-mern-stack-crud-rest-api-5643)
 - [Dev.to/JS] [Automatically Format your code on Git Commit using Husky, ESLint, Prettier in 9 minutes](https://dev.to/ruppysuppy/automatically-format-your-code-on-git-commit-using-husky-eslint-prettier-in-9-minutes-45eg)
 - [Dev.to/JS] [CRUD Operations In Node JS | MERN STACK | CRUD REST API](https://dev.to/cyberwolve/crud-operations-in-node-js-mern-stack-crud-rest-api-34e8)
-- [Dev.to/JS] [Designing software in a complex domain - Domain-Driven Design](https://dev.to/bibekshah09/designing-software-in-a-complex-domain-domain-driven-design-31ah)
-- [Dev.to/JS] [SETs and MAPs in JS.](https://dev.to/moreshwar/sets-and-maps-in-js-17da)
-- [Dev.to/JS] [Converting a callback to a promise](https://dev.to/paramagicdev/converting-a-callback-to-a-promise-1mj1)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
