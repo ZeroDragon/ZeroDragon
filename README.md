@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bored? Try my first app!](https://dev.to/nicm/bored-try-my-first-app-18fi)
+- [Dev.to/JS] [The Habit Tracker](https://dev.to/josettetgarcia/the-habit-tracker-4o0h)
 - [Dev.to/JS] [JavaScript Constants With Object.freeze&lpar;&rpar;](https://dev.to/bytebodger/javascript-constants-with-objectfreeze-4beg)
 - [Dev.to/JS] [React-native new Architecture, what to expect ?](https://dev.to/salemabderaouf/react-native-new-architecture-what-to-expect--ojf)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 11 &amp; 12](https://dev.to/marvinobig/100-days-of-code-challenge-day-11-12-3i0g)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🔑Random Password Generator](https://dev.to/jobsoncodes/random-password-generator-aoo)
 - [Dev.to/JS] [Getting Started: An Intro to Josette](https://dev.to/josettetgarcia/getting-started-an-intro-to-josette-phk)
 - [Dev.to/JS] [Dark Mode in TailwindCSS with JavaScript](https://dev.to/taiseen/dark-mode-in-tailwindcss-with-javascript-jh7)
-- [Dev.to/JS] [Day 15/100, 100 Days of Code](https://dev.to/xurgg/day-15100-100-days-of-code-52o2)
-- [Dev.to/JS] [Some ultimate changes to my chatzoid application](https://dev.to/nisabmohd/some-ultimate-changes-to-my-chatzoid-application-k0k)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
