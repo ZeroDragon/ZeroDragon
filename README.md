@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pizza Delivary Website Using React](https://dev.to/saibalsekhar29/pizza-delivary-website-using-react-1oik)
 - [Dev.to/JS] [Tell me you&#39;re php developer without telling me you&#39;re a php developer..](https://dev.to/hvm3/tell-me-youre-php-developer-without-telling-me-youre-a-php-developer-27bf)
 - [Dev.to/JS] [Web Development in 2022](https://dev.to/sanket00900/web-development-in-2022-4i06)
 - [Dev.to/JS] [Testing modern ReactJS Application: Setting Up](https://dev.to/mr0bread/testing-modern-reactjs-application-setting-up-23h3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Designing software in a complex domain - Domain-Driven Design](https://dev.to/bibekshah09/designing-software-in-a-complex-domain-domain-driven-design-31ah)
 - [Dev.to/JS] [SETs and MAPs in JS.](https://dev.to/moreshwar/sets-and-maps-in-js-17da)
 - [Dev.to/JS] [Converting a callback to a promise](https://dev.to/paramagicdev/converting-a-callback-to-a-promise-1mj1)
-- [Dev.to/JS] [Bored? Try my first app!](https://dev.to/nicm/bored-try-my-first-app-18fi)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
