@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
+- [Dev.to/JS] [Testing modern ReactJS Application: Unit Testing&lpar;Part 1&rpar;](https://dev.to/mr0bread/testing-modern-reactjs-application-unit-testingpart-1-2g4g)
+- [Dev.to/JS] [SpaceX Landing Page Clone with vanilla Html, CSS, Javascript](https://dev.to/thatanjan/spacex-landing-page-clone-2dc8)
+- [Dev.to/JS] [ACV+ Apple Cider Vinegar Gummies - &lpar;Shark Tank Updated&rpar; Fat Loss Results | Is It Scam Or Safe?](https://dev.to/acvapplecideri1/acv-apple-cider-vinegar-gummies-shark-tank-updated-fat-loss-results-is-it-scam-or-safe-2pj3)
 - [Dev.to/JS] [Sonoretech.com](https://dev.to/ngoy_luckson/sonoretechcom-2p21)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 8&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-8-3k4e)
 - [Dev.to/JS] [Learn the MERN stack - by building an Instagram clone &lpar;Part Two&rpar;](https://dev.to/tylerasa/learn-the-mern-stack-by-building-an-instagram-clone-part-two-50en)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing modern ReactJS Application: Setting Up](https://dev.to/mr0bread/testing-modern-reactjs-application-setting-up-23h3)
 - [Dev.to/JS] [Difference between javascript shift&lpar;&rpar; and slice&lpar;&rpar; method in array.](https://dev.to/shijug/difference-between-javascript-shift-and-slice-method-in-array-4016)
 - [Dev.to/JS] [Email Account Verification In Node JS &amp; React JS | MERN Stack Project](https://dev.to/cyberwolve/email-account-verification-in-node-js-react-js-mern-stack-project-1hlk)
-- [Dev.to/JS] [CRUD Operations In React JS | MERN STACK | CRUD REST API](https://dev.to/cyberwolve/crud-operations-in-react-js-mern-stack-crud-rest-api-5643)
-- [Dev.to/JS] [Automatically Format your code on Git Commit using Husky, ESLint, Prettier in 9 minutes](https://dev.to/ruppysuppy/automatically-format-your-code-on-git-commit-using-husky-eslint-prettier-in-9-minutes-45eg)
-- [Dev.to/JS] [CRUD Operations In Node JS | MERN STACK | CRUD REST API](https://dev.to/cyberwolve/crud-operations-in-node-js-mern-stack-crud-rest-api-34e8)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Cheapest American Metro Areas to Buy a Home Right Now](https://lifehacker.com/the-cheapest-american-metro-areas-to-buy-a-home-right-n-1848638415)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Lifehacker] [How to Stop OneDrive From Spamming You With Emails and Notifications](https://lifehacker.com/how-to-stop-onedrive-from-spamming-you-with-emails-and-1848633234)
-- [Lifehacker] [How to Organize a Strike &lpar;and Win&rpar;](https://lifehacker.com/how-to-organize-a-strike-and-win-1848628319)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
 
