@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Ways to &lpar;Properly&rpar; Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
+- [Dev.to/JS] [Weekly Digest 10/2022](https://dev.to/marcobiedermann/weekly-digest-102022-1den)
+- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Circular Linked List](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-circular-linked-list-d7a)
+- [Dev.to/JS] [Top 15 libraries you should use for every Node Express backend project.](https://dev.to/wizbuntu/top-15-libraries-you-should-use-for-every-node-express-backend-project-3k23)
 - [Dev.to/JS] [Populating Next Right Pointers in Each Node - Daily JS &lpar;Day 16&rpar;](https://dev.to/tanvirrahman/populating-next-right-pointers-in-each-node-daily-js-day-16-5508)
 - [Dev.to/JS] [Passing Data &lpar;states&rpar; through React Router](https://dev.to/thatfemicode/passing-data-states-through-react-router-8dh)
 - [Dev.to/JS] [what is `this` in JavaScript?](https://dev.to/sobitp59/what-is-this-in-javascript-2a2c)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Master the web storage API](https://dev.to/muhammad_asif/master-the-web-storage-api-3572)
 - [Dev.to/JS] [The New Gatsby Homepage Starters - Less Is More](https://dev.to/andrews1022/the-new-gatsby-homepage-starters-less-is-more-af5)
 - [Dev.to/JS] [pnpm and Parcel based monorepo](https://dev.to/pklaschka/pnpm-and-parcel-based-monorepo-4ojc)
-- [Dev.to/JS] [JavaScript var, let and const](https://dev.to/fig781/javascript-var-let-and-const-2g57)
-- [Dev.to/JS] [Don&#39;t use console.log&lpar;&rpar; for debugging in Javascript &lpar;VS Code&rpar;](https://dev.to/luizcalaca/dont-use-consolelog-for-debugging-in-javascript-vs-code-2hoh)
-- [Dev.to/JS] [Sorting One Array With Another in JavaScript](https://dev.to/itwasmattgregg/sorting-one-array-with-another-in-javascript-3abp)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid-Culture: What Exactly Is &#39;Elden Ring&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-exac-1848639580)
 - [Lifehacker] [11 of the Most Clever Travel Hacks, According to TikTok](https://lifehacker.com/11-of-the-most-clever-travel-hacks-according-to-tiktok-1848635772)
 - [Lifehacker] [Wash Down Your Green Beer With These St. Patrick&#39;s Day Food Deals and Freebies](https://lifehacker.com/wash-down-your-green-beer-with-these-st-patricks-day-f-1848621463)
-- [Lifehacker] [The Cheapest American Metro Areas to Buy a Home Right Now](https://lifehacker.com/the-cheapest-american-metro-areas-to-buy-a-home-right-n-1848638415)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
