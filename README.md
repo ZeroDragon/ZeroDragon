@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML text input allows only numeric input](https://dev.to/askavy/html-text-input-allows-only-numeric-input-2i1g)
 - [Dev.to/JS] [Best Free Resources to Learn Web3/Blockchain Development](https://dev.to/abdulmaajid/best-free-resources-to-learn-web3blockchain-development-243l)
 - [Dev.to/JS] [Svelte GraphQL Resources](https://dev.to/vhs/svelte-graphql-resources-2og9)
 - [Dev.to/JS] [Loading the total Sendy subscribers](https://dev.to/dailydevtips1/loading-the-total-sendy-subscribers-in)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [100 days of code](https://dev.to/mathan1995/100-days-of-code-2d40)
 - [Dev.to/JS] [Create React Portals Typed Safe](https://dev.to/enetojara/create-react-portals-typed-safe-2ijf)
 - [Dev.to/JS] [Latest Updates on React 18](https://dev.to/ageekdev/latest-updates-on-react-18-34pb)
-- [Dev.to/JS] [Connecting your HTML forms to a Google spreadsheet](https://dev.to/kromate/connecting-your-html-forms-to-a-google-spreadsheet-p9h)
 - [Lifehacker] [The Easiest Ways to &lpar;Properly&rpar; Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 - [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
