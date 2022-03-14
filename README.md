@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
+- [Dev.to/JS] [Introdução ao Fluxo Assíncrono - Node.js](https://dev.to/gabrielhsilvestre/introducao-ao-fluxo-assincrono-nodejs-16j3)
+- [Dev.to/JS] [Boas práticas de segurança em sites React](https://dev.to/juliocarneiro/boas-praticas-de-seguranca-em-sites-react-nmb)
+- [Dev.to/JS] [Security for React Apps](https://dev.to/juliocarneiro/security-for-react-apps-5dc5)
+- [Dev.to/JS] [10 JavaScript APIs That You May NOT Know About 🤯️🤯️](https://dev.to/bestofstuff/10-javascript-apis-that-you-did-not-know-about-39mo)
+- [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Dev.to/JS] [Just learned how to make a mobile menu with JS](https://dev.to/jorgejhms/just-learned-how-to-make-a-mobile-menu-with-js-1e6l)
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Houseplants for People With Allergies](https://lifehacker.com/the-best-and-worst-houseplants-for-people-with-allerg-1848648538)
@@ -37,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bring back my ex lover+27670546626whatsapp in usa](https://dev.to/spell_coven/bring-back-my-ex-lover27670546626whatsapp-in-usa-494l)
 - [Dev.to/JS] [CSS functions - Learn about CSS function 2022](https://dev.to/kunaal438/css-functions-learn-about-css-function-2022-4j6g)
 - [Lifehacker] [Why Resetting Your iPhone Could Dial 911 &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-resetting-your-iphone-could-dial-911-and-how-to-av-1848649461)
-- [Dev.to/JS] [Need to understand the flow of the react project](https://dev.to/harsh02it/need-to-understand-the-flow-of-the-react-project-3kog)
-- [Dev.to/JS] [Roman to Integer - Daily JS &lpar;Day 17&rpar;](https://dev.to/tanvirrahman/roman-to-integer-daily-js-day-17-2iop)
-- [Dev.to/JS] [The first javascript’s pillar: Types](https://dev.to/kkhanhluu/the-first-javascripts-pillar-types-2m17)
-- [Dev.to/JS] [O que é a pureza em funções e por que é importante](https://dev.to/devanil/o-que-e-a-pureza-em-funcoes-e-por-que-e-importante-n84)
 - [Lifehacker] [How to Hide a Dog From Your Landlord, If You Must](https://lifehacker.com/how-to-hide-a-dog-from-your-landlord-if-you-must-1848650098)
 - [Lifehacker] [When to Change Your Air Filter &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/when-to-change-your-air-filter-and-how-to-choose-the-r-1848648590)
 - [Lifehacker] [Finally, There’s a Wordle Clone for Music-Lovers](https://lifehacker.com/finally-there-s-a-wordle-clone-for-music-lovers-1848649747)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
-- [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
-- [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
