@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Best New iPhone and Mac Features Worth Knowing About](https://lifehacker.com/all-the-best-new-iphone-and-mac-features-worth-knowing-1848645135)
+- [Dev.to/JS] [Regular Function vs Arrow Function](https://dev.to/lachouri/regular-function-vs-arrow-function-2ic3)
+- [Dev.to/JS] [Designing a Markdown Editor in React](https://dev.to/shivishbrahma/designing-a-markdown-editor-in-react-7cb)
+- [Lifehacker] [7 ‘Scientific’ Theories of How the Universe Formed That Reject the Big Bang](https://lifehacker.com/7-scientific-theories-of-how-the-universe-formed-that-1848650132)
+- [Dev.to/JS] [Bring back my ex lover+27670546626whatsapp in usa](https://dev.to/spell_coven/bring-back-my-ex-lover27670546626whatsapp-in-usa-494l)
+- [Dev.to/JS] [CSS functions - Learn about CSS function 2022](https://dev.to/kunaal438/css-functions-learn-about-css-function-2022-4j6g)
 - [Lifehacker] [Why Resetting Your iPhone Could Dial 911 &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-resetting-your-iphone-could-dial-911-and-how-to-av-1848649461)
 - [Dev.to/JS] [Need to understand the flow of the react project](https://dev.to/harsh02it/need-to-understand-the-flow-of-the-react-project-3kog)
 - [Dev.to/JS] [Roman to Integer - Daily JS &lpar;Day 17&rpar;](https://dev.to/tanvirrahman/roman-to-integer-daily-js-day-17-2iop)
@@ -34,16 +40,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Change Your Air Filter &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/when-to-change-your-air-filter-and-how-to-choose-the-r-1848648590)
 - [Dev.to/JS] [Creating a GO GUI with Alpine.js and Webview](https://dev.to/tschuehly/creating-a-go-gui-with-alpinejs-and-webview-3290)
 - [Dev.to/JS] [Disable inspect element - DevTools in your Website](https://dev.to/dunggramer/disable-inspect-element-devtools-in-your-website-4b2k)
-- [Dev.to/JS] [Explaining micro frontends as simply as possible](https://dev.to/richkurtzman/explaining-micro-frontends-as-simply-as-possible-2pch)
 - [Lifehacker] [Finally, There’s a Wordle Clone for Music-Lovers](https://lifehacker.com/finally-there-s-a-wordle-clone-for-music-lovers-1848649747)
-- [Dev.to/JS] [@JsExport guide for exposing Kotlin to JS](https://dev.to/touchlab/jsexport-guide-for-exposing-kotlin-to-js-20l9)
 - [Lifehacker] [16 Super Grimdark Genre Movies That Aren&#39;t &#39;The Batman&#39;](https://lifehacker.com/16-super-grimdark-genre-movies-that-arent-the-batman-1848634458)
 - [Lifehacker] [Why a ‘Cheap’ IKEA Kitchen Is Actually Expensive](https://lifehacker.com/why-a-cheap-ikea-kitchen-is-actually-expensive-1848649518)
 - [Lifehacker] [Why You Should Take a Walk With Someone to Stop an Argument](https://lifehacker.com/why-you-should-take-a-walk-with-someone-to-stop-an-argu-1848648540)
-- [Dev.to/JS] [Migrate Windows Desktop Applications to the Web with Wisej](https://dev.to/iceteagroup/migrate-windows-desktop-applications-to-the-web-with-wisej-5d7a)
 - [Lifehacker] [Everything You Need to Know About Smart Smoke Detectors](https://lifehacker.com/everything-you-need-to-know-about-smart-smoke-detectors-1848642173)
 - [Lifehacker] [7 Frustrating New Features in Windows 11 &lpar;and How to Fix Them&rpar;](https://lifehacker.com/7-frustrating-new-features-in-windows-11-and-how-to-fi-1848626828)
-- [Dev.to/JS] [Paracetamol.js💊| #78: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-78-explica-este-codigo-javascript-3m1b)
 - [Lifehacker] [How to Browse the Dark Web If You&#39;re Shady &lpar;or Just Curious&rpar;](https://lifehacker.com/how-to-browse-the-dark-web-if-youre-shady-or-just-curi-1848643880)
 - [Lifehacker] [How to Make a Mason Bee House for Your Garden](https://lifehacker.com/how-to-make-a-mason-bee-house-for-your-garden-1848637898)
 - [Lifehacker] [Why It&#39;s More Than OK to Walk During Your Run](https://lifehacker.com/why-its-more-than-ok-to-walk-during-your-run-1848642087)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
 - [Lifehacker] [What&#39;s the Worst Etiquette Faux Pas You’ve Ever Experienced?](https://lifehacker.com/whats-the-worst-etiquette-faux-pas-you-ve-ever-experien-1848640489)
 - [Lifehacker] [25 of the Best Irish Movies of All Time](https://lifehacker.com/25-of-the-best-irish-movies-of-all-time-1848640617)
-- [Lifehacker] [Flavor Your Mayo With Leftover Greens](https://lifehacker.com/flavor-your-mayo-with-leftover-greens-1848640478)
-- [Lifehacker] [5 of Our Favorite Travel Hacks of 2022](https://lifehacker.com/5-of-our-favorite-travel-hacks-of-2022-1848641700)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
