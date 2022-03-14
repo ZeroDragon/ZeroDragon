@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to Change Your Air Filter &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/when-to-change-your-air-filter-and-how-to-choose-the-r-1848648590)
+- [Dev.to/JS] [Creating a GO GUI with Alpine.js and Webview](https://dev.to/tschuehly/creating-a-go-gui-with-alpinejs-and-webview-3290)
+- [Dev.to/JS] [Disable inspect element - DevTools in your Website](https://dev.to/dunggramer/disable-inspect-element-devtools-in-your-website-4b2k)
+- [Dev.to/JS] [Explaining micro frontends as simply as possible](https://dev.to/richkurtzman/explaining-micro-frontends-as-simply-as-possible-2pch)
+- [Lifehacker] [Finally, There’s a Wordle Clone for Music-Lovers](https://lifehacker.com/finally-there-s-a-wordle-clone-for-music-lovers-1848649747)
+- [Dev.to/JS] [@JsExport guide for exposing Kotlin to JS](https://dev.to/touchlab/jsexport-guide-for-exposing-kotlin-to-js-20l9)
+- [Lifehacker] [16 Super Grimdark Genre Movies That Aren&#39;t &#39;The Batman&#39;](https://lifehacker.com/16-super-grimdark-genre-movies-that-arent-the-batman-1848634458)
 - [Lifehacker] [Why a ‘Cheap’ IKEA Kitchen Is Actually Expensive](https://lifehacker.com/why-a-cheap-ikea-kitchen-is-actually-expensive-1848649518)
 - [Lifehacker] [Why You Should Take a Walk With Someone to Stop an Argument](https://lifehacker.com/why-you-should-take-a-walk-with-someone-to-stop-an-argu-1848648540)
 - [Dev.to/JS] [Migrate Windows Desktop Applications to the Web with Wisej](https://dev.to/iceteagroup/migrate-windows-desktop-applications-to-the-web-with-wisej-5d7a)
@@ -37,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Router: Scroll To Top na mudança de rota](https://dev.to/saymon/react-router-dom-scroll-to-top-na-mudanca-de-rota-1heb)
 - [Dev.to/JS] [Ng-News: Issue 22/10](https://dev.to/rainerhahnekamp/ng-news-issue-2210-1f3k)
 - [Dev.to/JS] [Add a glass effect with HTML and CSS](https://dev.to/thatanjan/add-a-glass-effect-with-html-and-css-58g2)
-- [Dev.to/JS] [NodeJS and DOM API](https://dev.to/artemismars/nodejs-and-dom-api-2iim)
 - [Lifehacker] [Why It&#39;s More Than OK to Walk During Your Run](https://lifehacker.com/why-its-more-than-ok-to-walk-during-your-run-1848642087)
-- [Dev.to/JS] [Demystifying how &#39;this&#39; works in Javascript](https://dev.to/smpnjn/demystifying-how-this-works-in-javascript-1i7b)
-- [Dev.to/JS] [What is an API?](https://dev.to/sanket00900/what-is-an-api-38o2)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💣.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3fof)
 - [Lifehacker] [The Easiest Ways to &lpar;Properly&rpar; Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 - [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 of Our Favorite Travel Hacks of 2022](https://lifehacker.com/5-of-our-favorite-travel-hacks-of-2022-1848641700)
 - [Lifehacker] [How to Disable the Malfunctioning ‘AirPods Left Behind’ Notification](https://lifehacker.com/how-to-disable-the-malfunctioning-airpods-left-behind-1848641066)
 - [Lifehacker] [These Simple Home Health Tests Are Actually Worth Trying](https://lifehacker.com/these-simple-home-health-tests-are-actually-worth-tryin-1848640897)
-- [Lifehacker] [Why the New iPhone SE Is Worth the Extra $29](https://lifehacker.com/why-the-new-iphone-se-is-worth-the-extra-29-1848633156)
-- [Lifehacker] [Why You Should File Your Taxes Early](https://lifehacker.com/why-you-should-file-your-taxes-early-1848637393)
-- [Lifehacker] [10 &#39;Elden Ring&#39; Tips for Complete Beginners](https://lifehacker.com/10-elden-ring-tips-for-complete-beginners-1848627469)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
