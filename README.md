@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first post at Dev.to](https://dev.to/jaumeacr/my-first-post-at-devto-52f3)
+- [Dev.to/JS] [npm install actual-malware](https://dev.to/qpwo/npm-install-actual-malware-1pmo)
 - [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
 - [Dev.to/JS] [Introdução ao Fluxo Assíncrono - Node.js](https://dev.to/gabrielhsilvestre/introducao-ao-fluxo-assincrono-nodejs-16j3)
 - [Dev.to/JS] [Boas práticas de segurança em sites React](https://dev.to/juliocarneiro/boas-praticas-de-seguranca-em-sites-react-nmb)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Regular Function vs Arrow Function](https://dev.to/lachouri/regular-function-vs-arrow-function-2ic3)
 - [Dev.to/JS] [Designing a Markdown Editor in React](https://dev.to/shivishbrahma/designing-a-markdown-editor-in-react-7cb)
 - [Lifehacker] [7 ‘Scientific’ Theories of How the Universe Formed That Reject the Big Bang](https://lifehacker.com/7-scientific-theories-of-how-the-universe-formed-that-1848650132)
-- [Dev.to/JS] [Bring back my ex lover+27670546626whatsapp in usa](https://dev.to/spell_coven/bring-back-my-ex-lover27670546626whatsapp-in-usa-494l)
-- [Dev.to/JS] [CSS functions - Learn about CSS function 2022](https://dev.to/kunaal438/css-functions-learn-about-css-function-2022-4j6g)
 - [Lifehacker] [Why Resetting Your iPhone Could Dial 911 &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-resetting-your-iphone-could-dial-911-and-how-to-av-1848649461)
 - [Lifehacker] [How to Hide a Dog From Your Landlord, If You Must](https://lifehacker.com/how-to-hide-a-dog-from-your-landlord-if-you-must-1848650098)
 - [Lifehacker] [When to Change Your Air Filter &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/when-to-change-your-air-filter-and-how-to-choose-the-r-1848648590)
