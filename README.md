@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Removing boilerplate code in Ngrx component store](https://dev.to/gauravsoni119/removing-boilerplate-code-in-ngrx-component-store-1f83)
 - [Dev.to/JS] [creating a faster Synology quickconnect.to](https://dev.to/offcorner/creating-a-faster-synology-quickconnectto-2ha2)
 - [Dev.to/JS] [output.target vs. output.chunkFormat in Webpack5](https://dev.to/projektorius96/outputtarget-vs-outputchunkformat-in-webpack5-5pg)
 - [Dev.to/JS] [5+ GORGEOUS Color Palettes To Inspire Your Projects 🎨️✨️](https://dev.to/bestofstuff/5-gorgeous-color-palettes-to-inspire-your-projects-2j72)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Circular Linked List](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-circular-linked-list-d7a)
 - [Dev.to/JS] [Top 15 libraries you should use for every Node Express backend project.](https://dev.to/wizbuntu/top-15-libraries-you-should-use-for-every-node-express-backend-project-3k23)
 - [Dev.to/JS] [Traversing a DOM tree](https://dev.to/alieissa/traversing-a-dom-tree-5ckn)
-- [Dev.to/JS] [Populating Next Right Pointers in Each Node - Daily JS &lpar;Day 16&rpar;](https://dev.to/tanvirrahman/populating-next-right-pointers-in-each-node-daily-js-day-16-5508)
 - [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
