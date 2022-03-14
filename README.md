@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Just learned how to make a mobile menu with JS](https://dev.to/jorgejhms/just-learned-how-to-make-a-mobile-menu-with-js-1e6l)
+- [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
+- [Lifehacker] [The Best &lpar;and Worst&rpar; Houseplants for People With Allergies](https://lifehacker.com/the-best-and-worst-houseplants-for-people-with-allerg-1848648538)
 - [Dev.to/JS] [10 essential resources for JavaScript developers](https://dev.to/quality_pre/10-essential-resources-for-javascript-developers-nhm)
 - [Dev.to/JS] [How to get started creating a Frontend React-App](https://dev.to/wensyd/how-to-get-started-creating-a-frontend-react-app-1g2a)
 - [Lifehacker] [Is Grey Meat OK to Eat?](https://lifehacker.com/is-grey-meat-ok-to-eat-1848650223)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The first javascript’s pillar: Types](https://dev.to/kkhanhluu/the-first-javascripts-pillar-types-2m17)
 - [Dev.to/JS] [O que é a pureza em funções e por que é importante](https://dev.to/devanil/o-que-e-a-pureza-em-funcoes-e-por-que-e-importante-n84)
 - [Lifehacker] [How to Hide a Dog From Your Landlord, If You Must](https://lifehacker.com/how-to-hide-a-dog-from-your-landlord-if-you-must-1848650098)
-- [Dev.to/JS] [How To Master React Library + Continuous Deployment](https://dev.to/ggorantala/advice-to-react-developers-how-to-master-react-development-1l1h)
 - [Lifehacker] [When to Change Your Air Filter &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/when-to-change-your-air-filter-and-how-to-choose-the-r-1848648590)
 - [Lifehacker] [Finally, There’s a Wordle Clone for Music-Lovers](https://lifehacker.com/finally-there-s-a-wordle-clone-for-music-lovers-1848649747)
 - [Lifehacker] [16 Super Grimdark Genre Movies That Aren&#39;t &#39;The Batman&#39;](https://lifehacker.com/16-super-grimdark-genre-movies-that-arent-the-batman-1848634458)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
 - [Lifehacker] [Do Vibrators Actually Decrease Your Sensitivity?](https://lifehacker.com/do-vibrators-actually-decrease-your-sensitivity-1848643147)
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
-- [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
-- [Lifehacker] [What&#39;s the Worst Etiquette Faux Pas You’ve Ever Experienced?](https://lifehacker.com/whats-the-worst-etiquette-faux-pas-you-ve-ever-experien-1848640489)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
