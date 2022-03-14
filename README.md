@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 essential resources for JavaScript developers](https://dev.to/quality_pre/10-essential-resources-for-javascript-developers-nhm)
+- [Dev.to/JS] [How to get started creating a Frontend React-App](https://dev.to/wensyd/how-to-get-started-creating-a-frontend-react-app-1g2a)
+- [Lifehacker] [Is Grey Meat OK to Eat?](https://lifehacker.com/is-grey-meat-ok-to-eat-1848650223)
+- [Dev.to/JS] [Immutable Splice in Javascript](https://dev.to/urstrulyvishwak/immutable-splice-in-javascript-5fig)
 - [Lifehacker] [All the Best New iPhone and Mac Features Worth Knowing About](https://lifehacker.com/all-the-best-new-iphone-and-mac-features-worth-knowing-1848645135)
 - [Dev.to/JS] [Regular Function vs Arrow Function](https://dev.to/lachouri/regular-function-vs-arrow-function-2ic3)
 - [Dev.to/JS] [Designing a Markdown Editor in React](https://dev.to/shivishbrahma/designing-a-markdown-editor-in-react-7cb)
@@ -35,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The first javascript’s pillar: Types](https://dev.to/kkhanhluu/the-first-javascripts-pillar-types-2m17)
 - [Dev.to/JS] [O que é a pureza em funções e por que é importante](https://dev.to/devanil/o-que-e-a-pureza-em-funcoes-e-por-que-e-importante-n84)
 - [Lifehacker] [How to Hide a Dog From Your Landlord, If You Must](https://lifehacker.com/how-to-hide-a-dog-from-your-landlord-if-you-must-1848650098)
-- [Dev.to/JS] [Advice: How To Master React Library + Continuous Deployment](https://dev.to/ggorantala/advice-to-react-developers-how-to-master-react-development-1l1h)
-- [Dev.to/JS] [100 Days of Code Challenge: Day 13 &amp; 14](https://dev.to/marvinobig/100-days-of-code-challenge-day-13-14-231b)
+- [Dev.to/JS] [How To Master React Library + Continuous Deployment](https://dev.to/ggorantala/advice-to-react-developers-how-to-master-react-development-1l1h)
 - [Lifehacker] [When to Change Your Air Filter &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/when-to-change-your-air-filter-and-how-to-choose-the-r-1848648590)
-- [Dev.to/JS] [Creating a GO GUI with Alpine.js and Webview](https://dev.to/tschuehly/creating-a-go-gui-with-alpinejs-and-webview-3290)
-- [Dev.to/JS] [Disable inspect element - DevTools in your Website](https://dev.to/dunggramer/disable-inspect-element-devtools-in-your-website-4b2k)
 - [Lifehacker] [Finally, There’s a Wordle Clone for Music-Lovers](https://lifehacker.com/finally-there-s-a-wordle-clone-for-music-lovers-1848649747)
 - [Lifehacker] [16 Super Grimdark Genre Movies That Aren&#39;t &#39;The Batman&#39;](https://lifehacker.com/16-super-grimdark-genre-movies-that-arent-the-batman-1848634458)
 - [Lifehacker] [Why a ‘Cheap’ IKEA Kitchen Is Actually Expensive](https://lifehacker.com/why-a-cheap-ikea-kitchen-is-actually-expensive-1848649518)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Believing These Myths About Creativity](https://lifehacker.com/stop-believing-these-myths-about-creativity-1848641479)
 - [Lifehacker] [Everything You Need to Know About Disney&#39;s Fully Immersive, Ultra-Expensive &#39;Star Wars: Galactic Starcruiser&#39;](https://lifehacker.com/everything-you-need-to-know-about-disneys-fully-immersi-1848641622)
 - [Lifehacker] [What&#39;s the Worst Etiquette Faux Pas You’ve Ever Experienced?](https://lifehacker.com/whats-the-worst-etiquette-faux-pas-you-ve-ever-experien-1848640489)
-- [Lifehacker] [25 of the Best Irish Movies of All Time](https://lifehacker.com/25-of-the-best-irish-movies-of-all-time-1848640617)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
