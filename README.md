@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing &quot;groupBy&quot; function on array of object](https://dev.to/solexy/implementing-groupby-function-on-array-of-object-1gdp)
+- [Dev.to/JS] [ASP.NET CORE API WITH ENTITY FRAMEWORK](https://dev.to/tarungurang/aspnet-core-api-with-entity-framework-45b6)
 - [Dev.to/JS] [Create Custom HTML Components React](https://dev.to/enetojara/create-custom-html-components-react-3537)
 - [Dev.to/JS] [100 days of code](https://dev.to/mathan1995/100-days-of-code-2d40)
 - [Dev.to/JS] [Create React Portals Typed Safe](https://dev.to/enetojara/create-react-portals-typed-safe-2ijf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DiagnosisAPI_UI MVC web application to use Diagnosis API](https://dev.to/rustemsoft/diagnosisapiuimvc-web-application-to-use-diagnosis-api-o8c)
 - [Dev.to/JS] [Using the Builder Pattern for Elm Components](https://dev.to/jesterxl/using-the-builder-pattern-for-elm-components-35j4)
 - [Dev.to/JS] [Removing boilerplate code in Ngrx component store](https://dev.to/gauravsoni119/removing-boilerplate-code-in-ngrx-component-store-1f83)
-- [Dev.to/JS] [creating a faster Synology quickconnect.to](https://dev.to/offcorner/creating-a-faster-synology-quickconnectto-2ha2)
-- [Dev.to/JS] [output.target vs. output.chunkFormat in Webpack5](https://dev.to/projektorius96/outputtarget-vs-outputchunkformat-in-webpack5-5pg)
 - [Lifehacker] [The Easiest Ways to &lpar;Properly&rpar; Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 - [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
