@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Resetting Your iPhone Could Dial 911 &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-resetting-your-iphone-could-dial-911-and-how-to-av-1848649461)
+- [Dev.to/JS] [Need to understand the flow of the react project](https://dev.to/harsh02it/need-to-understand-the-flow-of-the-react-project-3kog)
+- [Dev.to/JS] [Roman to Integer - Daily JS &lpar;Day 17&rpar;](https://dev.to/tanvirrahman/roman-to-integer-daily-js-day-17-2iop)
+- [Dev.to/JS] [The first javascript’s pillar: Types](https://dev.to/kkhanhluu/the-first-javascripts-pillar-types-2m17)
+- [Dev.to/JS] [O que é a pureza em funções e por que é importante](https://dev.to/devanil/o-que-e-a-pureza-em-funcoes-e-por-que-e-importante-n84)
+- [Lifehacker] [How to Hide a Dog From Your Landlord, If You Must](https://lifehacker.com/how-to-hide-a-dog-from-your-landlord-if-you-must-1848650098)
+- [Dev.to/JS] [Advice: How To Master React Library + Continuous Deployment](https://dev.to/ggorantala/advice-to-react-developers-how-to-master-react-development-1l1h)
+- [Dev.to/JS] [100 Days of Code Challenge: Day 13 &amp; 14](https://dev.to/marvinobig/100-days-of-code-challenge-day-13-14-231b)
 - [Lifehacker] [When to Change Your Air Filter &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/when-to-change-your-air-filter-and-how-to-choose-the-r-1848648590)
 - [Dev.to/JS] [Creating a GO GUI with Alpine.js and Webview](https://dev.to/tschuehly/creating-a-go-gui-with-alpinejs-and-webview-3290)
 - [Dev.to/JS] [Disable inspect element - DevTools in your Website](https://dev.to/dunggramer/disable-inspect-element-devtools-in-your-website-4b2k)
@@ -37,13 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Frustrating New Features in Windows 11 &lpar;and How to Fix Them&rpar;](https://lifehacker.com/7-frustrating-new-features-in-windows-11-and-how-to-fi-1848626828)
 - [Dev.to/JS] [Paracetamol.js💊| #78: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-78-explica-este-codigo-javascript-3m1b)
 - [Lifehacker] [How to Browse the Dark Web If You&#39;re Shady &lpar;or Just Curious&rpar;](https://lifehacker.com/how-to-browse-the-dark-web-if-youre-shady-or-just-curi-1848643880)
-- [Dev.to/JS] [JavaScript Image Slider for Beginners](https://dev.to/hirajatamil/javascript-image-slider-for-beginners-14g1)
-- [Dev.to/JS] [tsParticles 1.42.2 Released](https://dev.to/matteobruni/tsparticles-1422-released-2m2e)
-- [Dev.to/JS] [Figurative Literals: Sharpen your Strings](https://dev.to/thegnarco/figurative-literals-sharpen-your-strings-kef)
 - [Lifehacker] [How to Make a Mason Bee House for Your Garden](https://lifehacker.com/how-to-make-a-mason-bee-house-for-your-garden-1848637898)
-- [Dev.to/JS] [React Router: Scroll To Top na mudança de rota](https://dev.to/saymon/react-router-dom-scroll-to-top-na-mudanca-de-rota-1heb)
-- [Dev.to/JS] [Ng-News: Issue 22/10](https://dev.to/rainerhahnekamp/ng-news-issue-2210-1f3k)
-- [Dev.to/JS] [Add a glass effect with HTML and CSS](https://dev.to/thatanjan/add-a-glass-effect-with-html-and-css-58g2)
 - [Lifehacker] [Why It&#39;s More Than OK to Walk During Your Run](https://lifehacker.com/why-its-more-than-ok-to-walk-during-your-run-1848642087)
 - [Lifehacker] [The Easiest Ways to &lpar;Properly&rpar; Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 - [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Best Irish Movies of All Time](https://lifehacker.com/25-of-the-best-irish-movies-of-all-time-1848640617)
 - [Lifehacker] [Flavor Your Mayo With Leftover Greens](https://lifehacker.com/flavor-your-mayo-with-leftover-greens-1848640478)
 - [Lifehacker] [5 of Our Favorite Travel Hacks of 2022](https://lifehacker.com/5-of-our-favorite-travel-hacks-of-2022-1848641700)
-- [Lifehacker] [How to Disable the Malfunctioning ‘AirPods Left Behind’ Notification](https://lifehacker.com/how-to-disable-the-malfunctioning-airpods-left-behind-1848641066)
-- [Lifehacker] [These Simple Home Health Tests Are Actually Worth Trying](https://lifehacker.com/these-simple-home-health-tests-are-actually-worth-tryin-1848640897)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
