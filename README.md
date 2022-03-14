@@ -23,9 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [7 Frustrating New Features in Windows 11 &lpar;and How to Fix Them&rpar;](https://lifehacker.com/7-frustrating-new-features-in-windows-11-and-how-to-fi-1848626828)
+- [Dev.to/JS] [Paracetamol.js💊| #78: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-78-explica-este-codigo-javascript-3m1b)
+- [Lifehacker] [How to Browse the Dark Web If You&#39;re Shady &lpar;or Just Curious&rpar;](https://lifehacker.com/how-to-browse-the-dark-web-if-youre-shady-or-just-curi-1848643880)
+- [Dev.to/JS] [JavaScript Image Slider for Beginners](https://dev.to/hirajatamil/javascript-image-slider-for-beginners-14g1)
+- [Dev.to/JS] [tsParticles 1.42.2 Released](https://dev.to/matteobruni/tsparticles-1422-released-2m2e)
 - [Dev.to/JS] [Figurative Literals: Sharpen your Strings](https://dev.to/thegnarco/figurative-literals-sharpen-your-strings-kef)
 - [Lifehacker] [How to Make a Mason Bee House for Your Garden](https://lifehacker.com/how-to-make-a-mason-bee-house-for-your-garden-1848637898)
-- [Dev.to/JS] [React Router Dom: Scroll To Top na mudança de rota](https://dev.to/saymon/react-router-dom-scroll-to-top-na-mudanca-de-rota-1heb)
+- [Dev.to/JS] [React Router: Scroll To Top na mudança de rota](https://dev.to/saymon/react-router-dom-scroll-to-top-na-mudanca-de-rota-1heb)
 - [Dev.to/JS] [Ng-News: Issue 22/10](https://dev.to/rainerhahnekamp/ng-news-issue-2210-1f3k)
 - [Dev.to/JS] [Add a glass effect with HTML and CSS](https://dev.to/thatanjan/add-a-glass-effect-with-html-and-css-58g2)
 - [Dev.to/JS] [NodeJS and DOM API](https://dev.to/artemismars/nodejs-and-dom-api-2iim)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is an API?](https://dev.to/sanket00900/what-is-an-api-38o2)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💣.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3fof)
 - [Dev.to/JS] [Need to show save as option for excel download from URL](https://dev.to/venkat_10/need-to-show-save-as-option-for-excel-download-from-url-49eo)
-- [Dev.to/JS] [Javascript short reusable functions everyone will always need](https://dev.to/devsmitra/javascript-short-reusable-functions-everyone-will-always-need-22oc)
-- [Dev.to/JS] [Catia Training in Chennai](https://dev.to/mobina/catia-training-in-chennai-1ini)
-- [Dev.to/JS] [Camino CBD Gummies: Reviews, Ingredients, Cost |Legit Or Scam|?](https://dev.to/caminocbdgummies/camino-cbd-gummies-reviews-ingredients-cost-legit-or-scam-3dod)
 - [Lifehacker] [The Easiest Ways to &lpar;Properly&rpar; Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 - [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Hotels Are Quitting Room Service &lpar;and You Should Too&rpar;](https://lifehacker.com/why-hotels-are-quitting-room-service-and-you-should-to-1848637783)
 - [Lifehacker] [What Is a Blockchain DAO &lpar;and Should You Join One&rpar;?](https://lifehacker.com/what-is-a-blockchain-dao-and-should-you-join-one-1848636960)
 - [Lifehacker] [All the Smart &lpar;and Legal&rpar; Ways to Get Free Plants](https://lifehacker.com/all-the-smart-and-legal-ways-to-get-free-plants-1848638386)
-- [Lifehacker] [10 of the Best Movies That Prove Rich People Are Terrible](https://lifehacker.com/10-of-the-best-movies-that-prove-rich-people-are-terrib-1848628516)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid-Culture: What Exactly Is &#39;Elden Ring&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-exac-1848639580)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
