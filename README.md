@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why a ‘Cheap’ IKEA Kitchen Is Actually Expensive](https://lifehacker.com/why-a-cheap-ikea-kitchen-is-actually-expensive-1848649518)
+- [Lifehacker] [Why You Should Take a Walk With Someone to Stop an Argument](https://lifehacker.com/why-you-should-take-a-walk-with-someone-to-stop-an-argu-1848648540)
 - [Dev.to/JS] [Migrate Windows Desktop Applications to the Web with Wisej](https://dev.to/iceteagroup/migrate-windows-desktop-applications-to-the-web-with-wisej-5d7a)
 - [Lifehacker] [Everything You Need to Know About Smart Smoke Detectors](https://lifehacker.com/everything-you-need-to-know-about-smart-smoke-detectors-1848642173)
 - [Lifehacker] [7 Frustrating New Features in Windows 11 &lpar;and How to Fix Them&rpar;](https://lifehacker.com/7-frustrating-new-features-in-windows-11-and-how-to-fi-1848626828)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the New iPhone SE Is Worth the Extra $29](https://lifehacker.com/why-the-new-iphone-se-is-worth-the-extra-29-1848633156)
 - [Lifehacker] [Why You Should File Your Taxes Early](https://lifehacker.com/why-you-should-file-your-taxes-early-1848637393)
 - [Lifehacker] [10 &#39;Elden Ring&#39; Tips for Complete Beginners](https://lifehacker.com/10-elden-ring-tips-for-complete-beginners-1848627469)
-- [Lifehacker] [Why Hotels Are Quitting Room Service &lpar;and You Should Too&rpar;](https://lifehacker.com/why-hotels-are-quitting-room-service-and-you-should-to-1848637783)
-- [Lifehacker] [What Is a Blockchain DAO &lpar;and Should You Join One&rpar;?](https://lifehacker.com/what-is-a-blockchain-dao-and-should-you-join-one-1848636960)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
