@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [11 Profitable App Ideas You can Build: Quickest Way to $10K+ per Month](https://dev.to/duomly/11-profitable-app-ideas-you-can-build-quickest-way-to-10k-per-month-526)
 - [Dev.to/JS] [Web Video &amp;&amp; Network Speed Detection in JavaScript vs. UX](https://dev.to/ingosteinke/web-video-network-speed-detection-in-javascript-vs-ux-4og0)
 - [Dev.to/JS] [Create your own URL shortener with Next.js and MongoDB in 10 Minutes](https://dev.to/anshuman_bhardwaj/create-your-own-url-shortener-with-nextjs-and-mongodb-in-10-minutes-4fg)
 - [Dev.to/JS] [GrownMD CBD Gummies - Does it Really work &amp; is it 100% Safe To Use?](https://dev.to/grownmdcbdinfo/grownmd-cbd-gummies-does-it-really-work-is-it-100-safe-to-use-1gge)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Vs. Node.Js: A Comparison of Backend Tech Stacks](https://dev.to/hireindianprogrammers/javascript-vs-nodejs-a-comparison-of-backend-tech-stacks-43l2)
 - [Dev.to/JS] [Implementing &quot;groupBy&quot; function on array of object](https://dev.to/solexy/implementing-groupby-function-on-array-of-object-1gdp)
 - [Dev.to/JS] [ASP.NET CORE API WITH ENTITY FRAMEWORK](https://dev.to/tarungurang/aspnet-core-api-with-entity-framework-45b6)
-- [Dev.to/JS] [Create Custom HTML Components React](https://dev.to/enetojara/create-custom-html-components-react-3537)
 - [Lifehacker] [The Easiest Ways to &lpar;Properly&rpar; Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 - [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
