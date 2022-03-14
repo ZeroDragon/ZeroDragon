@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Vs. Node.Js: A Comparison of Backend Tech Stacks](https://dev.to/hireindianprogrammers/javascript-vs-nodejs-a-comparison-of-backend-tech-stacks-43l2)
 - [Dev.to/JS] [Implementing &quot;groupBy&quot; function on array of object](https://dev.to/solexy/implementing-groupby-function-on-array-of-object-1gdp)
 - [Dev.to/JS] [ASP.NET CORE API WITH ENTITY FRAMEWORK](https://dev.to/tarungurang/aspnet-core-api-with-entity-framework-45b6)
 - [Dev.to/JS] [Create Custom HTML Components React](https://dev.to/enetojara/create-custom-html-components-react-3537)
@@ -31,10 +32,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Latest Updates on React 18](https://dev.to/ageekdev/latest-updates-on-react-18-34pb)
 - [Dev.to/JS] [Connecting your HTML forms to a Google spreadsheet](https://dev.to/kromate/connecting-your-html-forms-to-a-google-spreadsheet-p9h)
 - [Dev.to/JS] [4 formas de medir el performance de tu código en JavaScript](https://dev.to/jfernandogt/4-formas-de-medir-el-performance-de-tu-codigo-en-javascript-490n)
+- [Dev.to/JS] [10+ FASCINATING CSS Animations 😍️✨️](https://dev.to/bestofstuff/10-fascinating-css-animations-44ak)
 - [Dev.to/JS] [Using Vercel to instantly deploy web applications](https://dev.to/mayormaier/using-vercel-to-deploy-applications-instantly-1c91)
 - [Dev.to/JS] [DiagnosisAPI_UI MVC web application to use Diagnosis API](https://dev.to/rustemsoft/diagnosisapiuimvc-web-application-to-use-diagnosis-api-o8c)
-- [Dev.to/JS] [Using the Builder Pattern for Elm Components](https://dev.to/jesterxl/using-the-builder-pattern-for-elm-components-35j4)
-- [Dev.to/JS] [Removing boilerplate code in Ngrx component store](https://dev.to/gauravsoni119/removing-boilerplate-code-in-ngrx-component-store-1f83)
 - [Lifehacker] [The Easiest Ways to &lpar;Properly&rpar; Get Rid of an Old TV](https://lifehacker.com/the-easiest-ways-to-properly-get-rid-of-an-old-tv-1848645882)
 - [Lifehacker] [Use These Household Products and Items to Clean and Polish Brass &lpar;Because They&#39;re Not the Same Thing&rpar;](https://lifehacker.com/use-these-household-products-and-items-to-clean-and-pol-1848645887)
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
