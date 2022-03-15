@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Lazy Loading](https://dev.to/nrajesh40/react-lazy-loading-4567)
+- [Dev.to/JS] [Javascript array methods to master](https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl)
+- [Dev.to/JS] [ID Generator](https://dev.to/franco9535/id-generator-2n9p)
 - [Dev.to/JS] [Conversational AI Trends](https://dev.to/yugasasoftware/conversational-ai-trends-1i7g)
 - [Dev.to/JS] [What is Pug HTML for beginners?](https://dev.to/arun40624802/what-is-pug-html-for-beginners-all-time-dev-2al3)
 - [Dev.to/JS] [SEO Company, SEO Services in Sydney - Digital Moz](https://dev.to/digitalmoz2022/seo-company-seo-services-in-sydney-digital-moz-2olp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Express Server](https://dev.to/viraj28/express-server-4j86)
 - [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 4](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-4-4ngf)
 - [Dev.to/JS] [Day 16/100; 100 Days of Code](https://dev.to/xurgg/day-16100-100-days-of-code-37jl)
-- [Dev.to/JS] [Mind Lab Pro - Brain Power Benefits, Warnings And Side Effects?](https://dev.to/mindlabproinfo/mind-lab-pro-brain-power-benefits-warnings-and-side-effects-n9b)
-- [Dev.to/JS] [3 steps to create custom state management library with React Hooks and Context API](https://dev.to/devsmitra/3-steps-to-create-custom-state-management-library-with-react-hooks-and-context-api-1bfh)
-- [Dev.to/JS] [NFT Landing Page Template](https://dev.to/kumard3/nft-landing-page-template-122m)
 - [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
 - [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
