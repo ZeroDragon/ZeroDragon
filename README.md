@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
+- [Dev.to/JS] [Get Started with Shopify&#39;s New Headless Hydrogen Framework](https://dev.to/iskurbanov/get-started-with-shopifys-new-headless-hydrogen-framework-412l)
+- [Dev.to/JS] [Take Your First Steps Towards Becoming A Front End Developer](https://dev.to/programamkenya/take-your-first-steps-towards-becoming-a-front-end-developer-2b9)
+- [Dev.to/JS] [Using vendor chunk file from another application](https://dev.to/steerclear90/using-vendor-chunk-file-from-another-application-5b9l)
+- [Dev.to/JS] [15 UI Component Libraries for Vue 3 in 2022](https://dev.to/roblevintennis/15-ui-component-libraries-for-vue-3-in-2022-4kl1)
+- [Dev.to/JS] [Creating a TypeScript React Application with Vite](https://dev.to/oktadev/creating-a-typescript-react-application-with-vite-3605)
+- [Lifehacker] [Spike Your Pancakes With Irish Cream](https://lifehacker.com/spike-your-pancakes-with-irish-cream-1848656004)
+- [Dev.to/JS] [React Developer Tools — Ma quindi aiuta davvero!](https://dev.to/razxssd/react-developer-tools-ma-quindi-aiuta-davvero-2741)
+- [Dev.to/JS] [How to Persist and Rehydrate Vuex State Between Page Reloads](https://dev.to/shadrqen/how-to-persist-and-rehydrate-vuex-state-between-page-reloads-2lem)
 - [Lifehacker] [What Is &#39;the Ides of March,&#39; and Should You Beware It?](https://lifehacker.com/what-is-the-ides-of-march-and-should-you-beware-it-1848656017)
 - [Dev.to/JS] [Loop inside objects](https://dev.to/hasantezcan/loop-inside-objects-56km)
 - [Lifehacker] [How to Replace a Broken Window Screen for Less Than $20](https://lifehacker.com/how-to-replace-a-broken-window-screen-for-less-than-20-1848653405)
@@ -32,15 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make immutable pop&lpar;&rpar;, push&lpar;&rpar;, shift&lpar;&rpar;, unshift&lpar;&rpar;?](https://dev.to/urstrulyvishwak/whats-inside-tostring-join-pop-push-shift-unshift-34hc)
 - [Dev.to/JS] [Day-44 Training At Ryaz](https://dev.to/mahin651/day-44-training-at-ryaz-1omg)
 - [Lifehacker] [What Is a Pocket Hole Jig &lpar;and Why Do You Need One&rpar;?](https://lifehacker.com/what-is-a-pocket-hole-jig-and-why-do-you-need-one-1848639359)
-- [Dev.to/JS] [Harry Potter Character Search](https://dev.to/dede0330/harry-potter-character-search-2o4e)
-- [Dev.to/JS] [Document Object Model&lpar;DOM&rpar;](https://dev.to/pushanverma/document-object-modeldom-4m9m)
-- [Dev.to/JS] [Paracetamol.js💊| #79: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-79-explica-este-codigo-javascript-2jc0)
-- [Dev.to/JS] [Twitch for Coding](https://dev.to/stack_stream/twitch-for-coding-26hp)
 - [Lifehacker] [The Difference Between the Dark Web and the Deep Web](https://lifehacker.com/the-difference-between-the-dark-web-and-the-deep-web-1848654878)
-- [Dev.to/JS] [String to Integer &lpar;atoi&rpar; - Daily JS &lpar;Day 18&rpar;](https://dev.to/tanvirrahman/string-to-integer-atoi-daily-js-day-18-4i3b)
 - [Lifehacker] [7 of the Best Affordable Smartphones That Aren&#39;t the iPhone SE](https://lifehacker.com/7-of-the-best-affordable-smartphones-that-arent-the-iph-1848653516)
-- [Dev.to/JS] [Queue using Linked List ES6](https://dev.to/vicky_ops/queue-using-linked-list-51da)
-- [Dev.to/JS] [Reading Files Serially through Callbacks and Promises](https://dev.to/pushanverma/reading-files-serially-through-callbacks-and-promises-55c1)
 - [Lifehacker] [What to Do After Losing Your Job so You Don&#39;t Lose Your Mind, Too](https://lifehacker.com/what-to-do-after-losing-your-job-so-you-dont-lose-your-1848621909)
 - [Lifehacker] [What&#39;s the Worst That Will Happen If You File Your Taxes Late &lpar;or Not at All&rpar;?](https://lifehacker.com/whats-the-worst-that-will-happen-if-you-file-your-taxes-1848654796)
 - [Lifehacker] [Myriad, Irregardless, and Other Words &#39;Smart&#39; People Are Wrong About](https://lifehacker.com/myriad-irregardless-and-other-words-smart-people-are-1848635736)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 ‘Scientific’ Theories of How the Universe Formed That Reject the Big Bang](https://lifehacker.com/7-scientific-theories-of-how-the-universe-formed-that-1848650132)
 - [Lifehacker] [Why Resetting Your iPhone Could Dial 911 &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-resetting-your-iphone-could-dial-911-and-how-to-av-1848649461)
 - [Lifehacker] [How to Hide a Dog From Your Landlord, If You Must](https://lifehacker.com/how-to-hide-a-dog-from-your-landlord-if-you-must-1848650098)
-- [Lifehacker] [When to Change Your Air Filter &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/when-to-change-your-air-filter-and-how-to-choose-the-r-1848648590)
-- [Lifehacker] [Finally, There’s a Wordle Clone for Music-Lovers](https://lifehacker.com/finally-there-s-a-wordle-clone-for-music-lovers-1848649747)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
 
