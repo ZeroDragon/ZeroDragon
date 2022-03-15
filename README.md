@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 steps to create custom state management library with React Hooks and Context API](https://dev.to/devsmitra/3-steps-to-create-custom-state-management-library-with-react-hooks-and-context-api-1bfh)
+- [Dev.to/JS] [NFT Landing Page Template](https://dev.to/kumard3/nft-landing-page-template-122m)
 - [Dev.to/JS] [useReducer in react: Everything you need to know](https://dev.to/therajatg/usereducer-in-react-everything-you-need-to-know-5b5i)
 - [Dev.to/JS] [Working alone is so exhausting so I created my own assistant](https://dev.to/happping_min/working-alone-is-so-exhausting-so-i-created-my-own-assistant-4mki)
 - [Dev.to/JS] [This is my first post at dev.to . I am a full stack web developer &lpar;php&rpar; .](https://dev.to/anand346/this-is-my-first-post-at-devto-i-am-a-full-stack-web-developer-php--4mh)
@@ -35,10 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Security for React Apps](https://dev.to/juliocarneiro/security-for-react-apps-5dc5)
 - [Dev.to/JS] [10 JavaScript APIs That You May NOT Know About 🤯️🤯️](https://dev.to/bestofstuff/10-javascript-apis-that-you-did-not-know-about-39mo)
 - [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
-- [Dev.to/JS] [Just learned how to make a mobile menu with JS](https://dev.to/jorgejhms/just-learned-how-to-make-a-mobile-menu-with-js-1e6l)
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Houseplants for People With Allergies](https://lifehacker.com/the-best-and-worst-houseplants-for-people-with-allerg-1848648538)
-- [Dev.to/JS] [10 essential resources for JavaScript developers](https://dev.to/quality_pre/10-essential-resources-for-javascript-developers-nhm)
 - [Lifehacker] [Is Grey Meat OK to Eat?](https://lifehacker.com/is-grey-meat-ok-to-eat-1848650223)
 - [Lifehacker] [All the Best New iPhone and Mac Features Worth Knowing About](https://lifehacker.com/all-the-best-new-iphone-and-mac-features-worth-knowing-1848645135)
 - [Lifehacker] [7 ‘Scientific’ Theories of How the Universe Formed That Reject the Big Bang](https://lifehacker.com/7-scientific-theories-of-how-the-universe-formed-that-1848650132)
