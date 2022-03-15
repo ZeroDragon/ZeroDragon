@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conversational AI Trends](https://dev.to/yugasasoftware/conversational-ai-trends-1i7g)
+- [Dev.to/JS] [What is Pug HTML for beginners?](https://dev.to/arun40624802/what-is-pug-html-for-beginners-all-time-dev-2al3)
+- [Dev.to/JS] [SEO Company, SEO Services in Sydney - Digital Moz](https://dev.to/digitalmoz2022/seo-company-seo-services-in-sydney-digital-moz-2olp)
+- [Dev.to/JS] [This keyword](https://dev.to/loty1234/this-keyword-3akm)
+- [Dev.to/JS] [Maker Information And Claims For Nutrition CBD Wise Gummies](https://dev.to/vermontpure_cbd/maker-information-and-claims-for-nutrition-cbd-wise-gummies-1ak)
 - [Dev.to/JS] [Understanding the different types/categories of Strapi Hooks](https://dev.to/strapi/understanding-the-different-typescategories-of-strapi-hooks-2ie4)
 - [Dev.to/JS] [Express Server](https://dev.to/viraj28/express-server-4j86)
 - [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 4](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-4-4ngf)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mind Lab Pro - Brain Power Benefits, Warnings And Side Effects?](https://dev.to/mindlabproinfo/mind-lab-pro-brain-power-benefits-warnings-and-side-effects-n9b)
 - [Dev.to/JS] [3 steps to create custom state management library with React Hooks and Context API](https://dev.to/devsmitra/3-steps-to-create-custom-state-management-library-with-react-hooks-and-context-api-1bfh)
 - [Dev.to/JS] [NFT Landing Page Template](https://dev.to/kumard3/nft-landing-page-template-122m)
-- [Dev.to/JS] [useReducer in react: Everything you need to know](https://dev.to/therajatg/usereducer-in-react-everything-you-need-to-know-5b5i)
-- [Dev.to/JS] [Working alone is so exhausting so I created my own assistant](https://dev.to/happping_min/working-alone-is-so-exhausting-so-i-created-my-own-assistant-4mki)
-- [Dev.to/JS] [This is my first post at dev.to . I am a full stack web developer &lpar;php&rpar; .](https://dev.to/anand346/this-is-my-first-post-at-devto-i-am-a-full-stack-web-developer-php--4mh)
-- [Dev.to/JS] [Setup Jest to React Typescript Vite project, also SWC &lpar;part 1&rpar;](https://dev.to/nvh95/setup-jest-to-react-typescript-vite-project-also-swc-part-1-1h86)
-- [Dev.to/JS] [My first post at Dev.to](https://dev.to/jaumeacr/my-first-post-at-devto-52f3)
 - [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
 - [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
