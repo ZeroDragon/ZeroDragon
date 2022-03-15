@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useReducer in react: Everything you need to know](https://dev.to/therajatg/usereducer-in-react-everything-you-need-to-know-5b5i)
 - [Dev.to/JS] [Working alone is so exhausting so I created my own assistant](https://dev.to/happping_min/working-alone-is-so-exhausting-so-i-created-my-own-assistant-4mki)
 - [Dev.to/JS] [This is my first post at dev.to . I am a full stack web developer &lpar;php&rpar; .](https://dev.to/anand346/this-is-my-first-post-at-devto-i-am-a-full-stack-web-developer-php--4mh)
 - [Dev.to/JS] [Setup Jest to React Typescript Vite project, also SWC &lpar;part 1&rpar;](https://dev.to/nvh95/setup-jest-to-react-typescript-vite-project-also-swc-part-1-1h86)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Houseplants for People With Allergies](https://lifehacker.com/the-best-and-worst-houseplants-for-people-with-allerg-1848648538)
 - [Dev.to/JS] [10 essential resources for JavaScript developers](https://dev.to/quality_pre/10-essential-resources-for-javascript-developers-nhm)
-- [Dev.to/JS] [How to get started creating a Frontend React-App](https://dev.to/wensyd/how-to-get-started-creating-a-frontend-react-app-1g2a)
 - [Lifehacker] [Is Grey Meat OK to Eat?](https://lifehacker.com/is-grey-meat-ok-to-eat-1848650223)
 - [Lifehacker] [All the Best New iPhone and Mac Features Worth Knowing About](https://lifehacker.com/all-the-best-new-iphone-and-mac-features-worth-knowing-1848645135)
 - [Lifehacker] [7 ‘Scientific’ Theories of How the Universe Formed That Reject the Big Bang](https://lifehacker.com/7-scientific-theories-of-how-the-universe-formed-that-1848650132)
