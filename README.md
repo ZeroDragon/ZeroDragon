@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beginner&#39;s guide to Linked List in JavaScript](https://dev.to/judis07/beginners-guide-to-linked-list-in-javascript-31cf)
+- [Dev.to/JS] [Master Directed Graphs by example with JavaScript](https://dev.to/antoinecoulon/master-directed-graphs-by-example-with-javascript-4oef)
+- [Dev.to/JS] [Webpack module bundler](https://dev.to/oneadvanced/webpack-module-bundler-52jh)
 - [Dev.to/JS] [React Lazy Loading](https://dev.to/nrajesh40/react-lazy-loading-4567)
 - [Dev.to/JS] [Javascript array methods to master](https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl)
 - [Dev.to/JS] [ID Generator](https://dev.to/franco9535/id-generator-2n9p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This keyword](https://dev.to/loty1234/this-keyword-3akm)
 - [Dev.to/JS] [Maker Information And Claims For Nutrition CBD Wise Gummies](https://dev.to/vermontpure_cbd/maker-information-and-claims-for-nutrition-cbd-wise-gummies-1ak)
 - [Dev.to/JS] [Understanding the different types/categories of Strapi Hooks](https://dev.to/strapi/understanding-the-different-typescategories-of-strapi-hooks-2ie4)
-- [Dev.to/JS] [Express Server](https://dev.to/viraj28/express-server-4j86)
-- [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 4](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-4-4ngf)
-- [Dev.to/JS] [Day 16/100; 100 Days of Code](https://dev.to/xurgg/day-16100-100-days-of-code-37jl)
 - [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
 - [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
