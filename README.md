@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 16/100; 100 Days of Code](https://dev.to/xurgg/day-16100-100-days-of-code-37jl)
+- [Dev.to/JS] [Mind Lab Pro - Brain Power Benefits, Warnings And Side Effects?](https://dev.to/mindlabproinfo/mind-lab-pro-brain-power-benefits-warnings-and-side-effects-n9b)
 - [Dev.to/JS] [3 steps to create custom state management library with React Hooks and Context API](https://dev.to/devsmitra/3-steps-to-create-custom-state-management-library-with-react-hooks-and-context-api-1bfh)
 - [Dev.to/JS] [NFT Landing Page Template](https://dev.to/kumard3/nft-landing-page-template-122m)
 - [Dev.to/JS] [useReducer in react: Everything you need to know](https://dev.to/therajatg/usereducer-in-react-everything-you-need-to-know-5b5i)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
 - [Dev.to/JS] [Introdução ao Fluxo Assíncrono - Node.js](https://dev.to/gabrielhsilvestre/introducao-ao-fluxo-assincrono-nodejs-16j3)
 - [Dev.to/JS] [Boas práticas de segurança em sites React](https://dev.to/juliocarneiro/boas-praticas-de-seguranca-em-sites-react-nmb)
-- [Dev.to/JS] [Security for React Apps](https://dev.to/juliocarneiro/security-for-react-apps-5dc5)
-- [Dev.to/JS] [10 JavaScript APIs That You May NOT Know About 🤯️🤯️](https://dev.to/bestofstuff/10-javascript-apis-that-you-did-not-know-about-39mo)
 - [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Houseplants for People With Allergies](https://lifehacker.com/the-best-and-worst-houseplants-for-people-with-allerg-1848648538)
