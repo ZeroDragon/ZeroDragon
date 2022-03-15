@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Draft: Using DEV.to as CMS for my blog](https://dev.to/infinitenil/draft-using-devto-as-cms-for-my-blog-27oo)
+- [Dev.to/JS] [Destructuring Arrays &amp; Objects In JavaScript](https://dev.to/jassin82/destructuring-arrays-objects-in-javascript-4b46)
+- [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
 - [Dev.to/JS] [Get Started with Shopify&#39;s New Headless Hydrogen Framework](https://dev.to/iskurbanov/get-started-with-shopifys-new-headless-hydrogen-framework-412l)
 - [Dev.to/JS] [Take Your First Steps Towards Becoming A Front End Developer](https://dev.to/programamkenya/take-your-first-steps-towards-becoming-a-front-end-developer-2b9)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Browsers on Windows &lpar;and the Downsides of Each&rpar;](https://lifehacker.com/the-fastest-browsers-on-windows-and-the-downsides-of-e-1848655246)
 - [Dev.to/JS] [JavaScript Array Method Cheat Sheet &lpar;17 must-know methods&rpar; 📄](https://dev.to/doabledanny/javascript-array-method-cheat-sheet-17-must-know-methods-441g)
 - [Dev.to/JS] [The perfect image lazy loading](https://dev.to/merri/the-perfect-image-lazy-loading-16i4)
-- [Dev.to/JS] [Make immutable pop&lpar;&rpar;, push&lpar;&rpar;, shift&lpar;&rpar;, unshift&lpar;&rpar;?](https://dev.to/urstrulyvishwak/whats-inside-tostring-join-pop-push-shift-unshift-34hc)
-- [Dev.to/JS] [Day-44 Training At Ryaz](https://dev.to/mahin651/day-44-training-at-ryaz-1omg)
 - [Lifehacker] [What Is a Pocket Hole Jig &lpar;and Why Do You Need One&rpar;?](https://lifehacker.com/what-is-a-pocket-hole-jig-and-why-do-you-need-one-1848639359)
 - [Lifehacker] [The Difference Between the Dark Web and the Deep Web](https://lifehacker.com/the-difference-between-the-dark-web-and-the-deep-web-1848654878)
 - [Lifehacker] [7 of the Best Affordable Smartphones That Aren&#39;t the iPhone SE](https://lifehacker.com/7-of-the-best-affordable-smartphones-that-arent-the-iph-1848653516)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Best New iPhone and Mac Features Worth Knowing About](https://lifehacker.com/all-the-best-new-iphone-and-mac-features-worth-knowing-1848645135)
 - [Lifehacker] [7 ‘Scientific’ Theories of How the Universe Formed That Reject the Big Bang](https://lifehacker.com/7-scientific-theories-of-how-the-universe-formed-that-1848650132)
 - [Lifehacker] [Why Resetting Your iPhone Could Dial 911 &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-resetting-your-iphone-could-dial-911-and-how-to-av-1848649461)
-- [Lifehacker] [How to Hide a Dog From Your Landlord, If You Must](https://lifehacker.com/how-to-hide-a-dog-from-your-landlord-if-you-must-1848650098)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
 
