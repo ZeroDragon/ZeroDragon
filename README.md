@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding the different types/categories of Strapi Hooks](https://dev.to/strapi/understanding-the-different-typescategories-of-strapi-hooks-2ie4)
 - [Dev.to/JS] [Express Server](https://dev.to/viraj28/express-server-4j86)
 - [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 4](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-4-4ngf)
 - [Dev.to/JS] [Day 16/100; 100 Days of Code](https://dev.to/xurgg/day-16100-100-days-of-code-37jl)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This is my first post at dev.to . I am a full stack web developer &lpar;php&rpar; .](https://dev.to/anand346/this-is-my-first-post-at-devto-i-am-a-full-stack-web-developer-php--4mh)
 - [Dev.to/JS] [Setup Jest to React Typescript Vite project, also SWC &lpar;part 1&rpar;](https://dev.to/nvh95/setup-jest-to-react-typescript-vite-project-also-swc-part-1-1h86)
 - [Dev.to/JS] [My first post at Dev.to](https://dev.to/jaumeacr/my-first-post-at-devto-52f3)
-- [Dev.to/JS] [npm install actual-malware](https://dev.to/qpwo/npm-install-actual-malware-1pmo)
 - [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
 - [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
