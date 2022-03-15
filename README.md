@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Is &#39;the Ides of March,&#39; and Should You Beware It?](https://lifehacker.com/what-is-the-ides-of-march-and-should-you-beware-it-1848656017)
+- [Dev.to/JS] [Loop inside objects](https://dev.to/hasantezcan/loop-inside-objects-56km)
+- [Lifehacker] [How to Replace a Broken Window Screen for Less Than $20](https://lifehacker.com/how-to-replace-a-broken-window-screen-for-less-than-20-1848653405)
 - [Lifehacker] [The Fastest Browsers on Windows &lpar;and the Downsides of Each&rpar;](https://lifehacker.com/the-fastest-browsers-on-windows-and-the-downsides-of-e-1848655246)
 - [Dev.to/JS] [JavaScript Array Method Cheat Sheet &lpar;17 must-know methods&rpar; 📄](https://dev.to/doabledanny/javascript-array-method-cheat-sheet-17-must-know-methods-441g)
 - [Dev.to/JS] [The perfect image lazy loading](https://dev.to/merri/the-perfect-image-lazy-loading-16i4)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 of the Best Affordable Smartphones That Aren&#39;t the iPhone SE](https://lifehacker.com/7-of-the-best-affordable-smartphones-that-arent-the-iph-1848653516)
 - [Dev.to/JS] [Queue using Linked List ES6](https://dev.to/vicky_ops/queue-using-linked-list-51da)
 - [Dev.to/JS] [Reading Files Serially through Callbacks and Promises](https://dev.to/pushanverma/reading-files-serially-through-callbacks-and-promises-55c1)
-- [Dev.to/JS] [Promises in JavaScript](https://dev.to/pushanverma/promises-in-javascript-afh)
 - [Lifehacker] [What to Do After Losing Your Job so You Don&#39;t Lose Your Mind, Too](https://lifehacker.com/what-to-do-after-losing-your-job-so-you-dont-lose-your-1848621909)
 - [Lifehacker] [What&#39;s the Worst That Will Happen If You File Your Taxes Late &lpar;or Not at All&rpar;?](https://lifehacker.com/whats-the-worst-that-will-happen-if-you-file-your-taxes-1848654796)
 - [Lifehacker] [Myriad, Irregardless, and Other Words &#39;Smart&#39; People Are Wrong About](https://lifehacker.com/myriad-irregardless-and-other-words-smart-people-are-1848635736)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hide a Dog From Your Landlord, If You Must](https://lifehacker.com/how-to-hide-a-dog-from-your-landlord-if-you-must-1848650098)
 - [Lifehacker] [When to Change Your Air Filter &lpar;and How to Choose the Right One&rpar;](https://lifehacker.com/when-to-change-your-air-filter-and-how-to-choose-the-r-1848648590)
 - [Lifehacker] [Finally, There’s a Wordle Clone for Music-Lovers](https://lifehacker.com/finally-there-s-a-wordle-clone-for-music-lovers-1848649747)
-- [Lifehacker] [16 Super Grimdark Genre Movies That Aren&#39;t &#39;The Batman&#39;](https://lifehacker.com/16-super-grimdark-genre-movies-that-arent-the-batman-1848634458)
-- [Lifehacker] [Why a ‘Cheap’ IKEA Kitchen Is Actually Expensive](https://lifehacker.com/why-a-cheap-ikea-kitchen-is-actually-expensive-1848649518)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
 
