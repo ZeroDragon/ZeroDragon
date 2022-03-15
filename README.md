@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My home runs Redux](https://dev.to/mortenolsen/my-home-runs-redux-hhc)
+- [Dev.to/JS] [How fetch works in Javascript](https://dev.to/smpnjn/how-fetch-works-in-javascript-41l8)
+- [Lifehacker] [The Difference Between a &#39;Morning Star&#39; and &#39;Evening Star&#39; &lpar;Because It&#39;s Not What You Think&rpar;&quot;](https://lifehacker.com/the-difference-between-a-morning-star-and-evening-star-1848651570)
+- [Dev.to/JS] [Unit testing: Why do I write them?](https://dev.to/ms_74/unit-testing-why-do-i-write-them-52n8)
+- [Dev.to/JS] [How I set up my Ubuntu Laptop for web development](https://dev.to/tqbit/how-i-set-up-my-ubuntu-laptop-for-web-development-29lj)
+- [Dev.to/JS] [Create Your Open Source Ecommerce Store using Medusa and Next.js](https://dev.to/medusajs/create-your-open-source-ecommerce-store-using-medusa-and-nextjs-1b4d)
+- [Dev.to/JS] [Convert any image or file to base64 string](https://dev.to/foxinfotech/convert-any-image-or-file-to-base64-string-46i7)
 - [Dev.to/JS] [Beginner&#39;s guide to Linked List in JavaScript](https://dev.to/judis07/beginners-guide-to-linked-list-in-javascript-31cf)
 - [Dev.to/JS] [Master Directed Graphs by example with JavaScript](https://dev.to/antoinecoulon/master-directed-graphs-by-example-with-javascript-4oef)
 - [Dev.to/JS] [Webpack module bundler](https://dev.to/oneadvanced/webpack-module-bundler-52jh)
 - [Dev.to/JS] [React Lazy Loading](https://dev.to/nrajesh40/react-lazy-loading-4567)
 - [Dev.to/JS] [Javascript array methods to master](https://dev.to/alaminjuma/javascript-array-methods-to-master-1kgl)
 - [Dev.to/JS] [ID Generator](https://dev.to/franco9535/id-generator-2n9p)
-- [Dev.to/JS] [Conversational AI Trends](https://dev.to/yugasasoftware/conversational-ai-trends-1i7g)
-- [Dev.to/JS] [What is Pug HTML for beginners?](https://dev.to/arun40624802/what-is-pug-html-for-beginners-all-time-dev-2al3)
-- [Dev.to/JS] [SEO Company, SEO Services in Sydney - Digital Moz](https://dev.to/digitalmoz2022/seo-company-seo-services-in-sydney-digital-moz-2olp)
-- [Dev.to/JS] [This keyword](https://dev.to/loty1234/this-keyword-3akm)
-- [Dev.to/JS] [Maker Information And Claims For Nutrition CBD Wise Gummies](https://dev.to/vermontpure_cbd/maker-information-and-claims-for-nutrition-cbd-wise-gummies-1ak)
-- [Dev.to/JS] [Understanding the different types/categories of Strapi Hooks](https://dev.to/strapi/understanding-the-different-typescategories-of-strapi-hooks-2ie4)
 - [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
 - [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Flowering Plants Are Able to Grow in Wet, Poorly Drained Soil](https://lifehacker.com/these-flowering-plants-are-able-to-grow-in-wet-poorly-1848645888)
 - [Lifehacker] [Use These Maps to Find Ghost Towns in Your Area](https://lifehacker.com/use-these-maps-to-find-ghost-towns-in-your-area-1848645196)
 - [Lifehacker] [Clever Household Uses for Sponges That Don&#39;t Involve Doing Dishes](https://lifehacker.com/clever-household-uses-for-sponges-that-dont-involve-doi-1848645199)
-- [Lifehacker] [How to Donate Your Airline Miles to Help Ukrainians](https://lifehacker.com/how-to-donate-your-airline-miles-to-help-ukrainians-1848645021)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)
 - [Crazy Programmer] [Mediastack Review – Be Always Up-To-Date With a Real-Time News API](https://www.thecrazyprogrammer.com/2022/03/mediastack-review.html)
 - [Crazy Programmer] [VPS Hosting – Uses, Advantages, and Disadvantages](https://www.thecrazyprogrammer.com/2022/03/vps-hosting.html)<!-- TECH-POSTS:END -->
