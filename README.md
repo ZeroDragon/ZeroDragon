@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between the Dark Web and the Deep Web](https://lifehacker.com/the-difference-between-the-dark-web-and-the-deep-web-1848654878)
+- [Lifehacker] [7 of the Best Affordable Smartphones That Aren&#39;t the iPhone SE](https://lifehacker.com/7-of-the-best-affordable-smartphones-that-arent-the-iph-1848653516)
+- [Dev.to/JS] [Queue using Linked List ES6](https://dev.to/vicky_ops/queue-using-linked-list-51da)
+- [Dev.to/JS] [Reading Files Serially through Callbacks and Promises](https://dev.to/pushanverma/reading-files-serially-through-callbacks-and-promises-55c1)
+- [Dev.to/JS] [Promises in JavaScript](https://dev.to/pushanverma/promises-in-javascript-afh)
+- [Dev.to/JS] [CallBacks in JavaScript](https://dev.to/pushanverma/callbacks-in-javascript-5f84)
+- [Dev.to/JS] [Which is better For Job BCA or BTech Computer Science?](https://dev.to/codeexamplerlearn/which-is-better-for-job-bca-or-btech-computer-science-672)
+- [Dev.to/JS] [Boolean traps and how to avoid them](https://dev.to/chalarangelo/boolean-traps-and-how-to-avoid-them-ieh)
 - [Lifehacker] [What to Do After Losing Your Job so You Don&#39;t Lose Your Mind, Too](https://lifehacker.com/what-to-do-after-losing-your-job-so-you-dont-lose-your-1848621909)
 - [Dev.to/JS] [React best practices and patterns to reduce code](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-2bff)
 - [Dev.to/JS] [Which is Best Java Vs Python for Beginners ?](https://dev.to/codeexamplerlearn/which-is-best-java-vs-python-for-beginners--518m)
@@ -31,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making the world’s fastest website, and other mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
 - [Dev.to/JS] [5 useful websites for learning front-end development in 2022](https://dev.to/itsmeakankshak/5-useful-websites-for-learning-front-end-development-in-2022-260n)
 - [Dev.to/JS] [Build single-page apps, without building an API. 🤯](https://dev.to/codewithshan/build-single-page-apps-without-building-an-api-38n3)
-- [Dev.to/JS] [Phase 1 over with &lpar;almost&rpar;](https://dev.to/jmulvez/phase-1-over-with-almost-4bec)
-- [Dev.to/JS] [What is React?](https://dev.to/codingvarsity/what-is-react-417d)
-- [Dev.to/JS] [On-demand Incremental Static Regeneration is Here!!!](https://dev.to/psypher1/on-demand-incremental-static-regeneration-is-here-2e2l)
 - [Lifehacker] [Myriad, Irregardless, and Other Words &#39;Smart&#39; People Are Wrong About](https://lifehacker.com/myriad-irregardless-and-other-words-smart-people-are-1848635736)
-- [Dev.to/JS] [Show Bluetooth LE Sensor readings on LCD screen connected to STM32](https://dev.to/bleuiot/show-bluetooth-le-sensor-readings-on-lcd-screen-connected-to-stm32-5d2j)
-- [Dev.to/JS] [One simple command to improve your JavaScript workflow](https://dev.to/sinedied/a-simple-command-to-improve-your-javascript-workflow-3mp4)
-- [Dev.to/JS] [WitchHost](https://dev.to/pedromdsn/witchhost-1496)
 - [Lifehacker] [Why the iPad Pro Isn&#39;t Worth the Extra Money](https://lifehacker.com/why-the-ipad-pro-isnt-worth-the-extra-money-1848648748)
 - [Lifehacker] [17 of the Most Underrated Squats You Should Try](https://lifehacker.com/17-of-the-most-underrated-squats-you-should-try-1848651673)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why a ‘Cheap’ IKEA Kitchen Is Actually Expensive](https://lifehacker.com/why-a-cheap-ikea-kitchen-is-actually-expensive-1848649518)
 - [Lifehacker] [Why You Should Take a Walk With Someone to Stop an Argument](https://lifehacker.com/why-you-should-take-a-walk-with-someone-to-stop-an-argu-1848648540)
 - [Lifehacker] [Everything You Need to Know About Smart Smoke Detectors](https://lifehacker.com/everything-you-need-to-know-about-smart-smoke-detectors-1848642173)
-- [Lifehacker] [7 Frustrating New Features in Windows 11 &lpar;and How to Fix Them&rpar;](https://lifehacker.com/7-frustrating-new-features-in-windows-11-and-how-to-fi-1848626828)
-- [Lifehacker] [How to Browse the Dark Web If You&#39;re Shady &lpar;or Just Curious&rpar;](https://lifehacker.com/how-to-browse-the-dark-web-if-youre-shady-or-just-curi-1848643880)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
 
