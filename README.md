@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working alone is so exhausting so I created my own assistant](https://dev.to/happping_min/working-alone-is-so-exhausting-so-i-created-my-own-assistant-4mki)
+- [Dev.to/JS] [This is my first post at dev.to . I am a full stack web developer &lpar;php&rpar; .](https://dev.to/anand346/this-is-my-first-post-at-devto-i-am-a-full-stack-web-developer-php--4mh)
+- [Dev.to/JS] [Setup Jest to React Typescript Vite project, also SWC &lpar;part 1&rpar;](https://dev.to/nvh95/setup-jest-to-react-typescript-vite-project-also-swc-part-1-1h86)
 - [Dev.to/JS] [My first post at Dev.to](https://dev.to/jaumeacr/my-first-post-at-devto-52f3)
 - [Dev.to/JS] [npm install actual-malware](https://dev.to/qpwo/npm-install-actual-malware-1pmo)
 - [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 essential resources for JavaScript developers](https://dev.to/quality_pre/10-essential-resources-for-javascript-developers-nhm)
 - [Dev.to/JS] [How to get started creating a Frontend React-App](https://dev.to/wensyd/how-to-get-started-creating-a-frontend-react-app-1g2a)
 - [Lifehacker] [Is Grey Meat OK to Eat?](https://lifehacker.com/is-grey-meat-ok-to-eat-1848650223)
-- [Dev.to/JS] [Immutable Splice in Javascript](https://dev.to/urstrulyvishwak/immutable-splice-in-javascript-5fig)
 - [Lifehacker] [All the Best New iPhone and Mac Features Worth Knowing About](https://lifehacker.com/all-the-best-new-iphone-and-mac-features-worth-knowing-1848645135)
-- [Dev.to/JS] [Regular Function vs Arrow Function](https://dev.to/lachouri/regular-function-vs-arrow-function-2ic3)
-- [Dev.to/JS] [Designing a Markdown Editor in React](https://dev.to/shivishbrahma/designing-a-markdown-editor-in-react-7cb)
 - [Lifehacker] [7 ‘Scientific’ Theories of How the Universe Formed That Reject the Big Bang](https://lifehacker.com/7-scientific-theories-of-how-the-universe-formed-that-1848650132)
 - [Lifehacker] [Why Resetting Your iPhone Could Dial 911 &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-resetting-your-iphone-could-dial-911-and-how-to-av-1848649461)
 - [Lifehacker] [How to Hide a Dog From Your Landlord, If You Must](https://lifehacker.com/how-to-hide-a-dog-from-your-landlord-if-you-must-1848650098)
