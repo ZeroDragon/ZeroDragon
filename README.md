@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useScreenOrientation - React Native Snippet](https://dev.to/robertmetcalfe/usescreenorientation-react-native-snippet-31h2)
+- [Dev.to/JS] [Implementing JavaScript Delay for Cookie Consent Banner](https://dev.to/idarek/implementing-javascript-delay-for-cookie-consent-banner-2e90)
 - [Dev.to/JS] [Understanding Callbacks](https://dev.to/i3uckwheat/understanding-callbacks-2o9e)
 - [Dev.to/JS] [Early Return Pattern](https://dev.to/i3uckwheat/early-return-pattern-558i)
 - [Dev.to/JS] [Introdução a Testes no Back-end](https://dev.to/gabrielhsilvestre/introducao-a-testes-no-back-end-4la8)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [15 UI Component Libraries for Vue 3 in 2022](https://dev.to/roblevintennis/15-ui-component-libraries-for-vue-3-in-2022-4kl1)
 - [Dev.to/JS] [Creating a TypeScript React Application with Vite](https://dev.to/oktadev/creating-a-typescript-react-application-with-vite-3605)
 - [Lifehacker] [Spike Your Pancakes With Irish Cream](https://lifehacker.com/spike-your-pancakes-with-irish-cream-1848656004)
-- [Dev.to/JS] [React Developer Tools — Ma quindi aiuta davvero!](https://dev.to/razxssd/react-developer-tools-ma-quindi-aiuta-davvero-2741)
-- [Dev.to/JS] [How to Persist and Rehydrate Vuex State Between Page Reloads](https://dev.to/shadrqen/how-to-persist-and-rehydrate-vuex-state-between-page-reloads-2lem)
 - [Lifehacker] [What Is &#39;the Ides of March,&#39; and Should You Beware It?](https://lifehacker.com/what-is-the-ides-of-march-and-should-you-beware-it-1848656017)
 - [Lifehacker] [How to Replace a Broken Window Screen for Less Than $20](https://lifehacker.com/how-to-replace-a-broken-window-screen-for-less-than-20-1848653405)
 - [Lifehacker] [The Fastest Browsers on Windows &lpar;and the Downsides of Each&rpar;](https://lifehacker.com/the-fastest-browsers-on-windows-and-the-downsides-of-e-1848655246)
