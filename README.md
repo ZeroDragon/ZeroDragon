@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 2: Creating a web framework](https://dev.to/acashjos/part-2-creating-a-web-framework-1m4a)
 - [Dev.to/JS] [Simple ToDo List with React JS](https://dev.to/dabanandamitra/simple-todo-list-with-react-js-3p3k)
 - [Dev.to/JS] [Extra Burn Keto - Weight Loss Pills, Reviews, Price, Benefits &amp; Ingredients](https://dev.to/burn_extra/extra-burn-keto-weight-loss-pills-reviews-price-benefits-ingredients-ael)
 - [Dev.to/JS] [VueJS and benefits of using Vue](https://dev.to/alishahudson/vuejs-and-benefits-of-using-vue-5981)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MediaRecorder API Tutorial](https://dev.to/ethand91/mediarecorder-api-tutorial-54n8)
 - [Dev.to/JS] [My work for 2.8](https://dev.to/beamazedvariable/my-work-for-28-35da)
 - [Dev.to/JS] [React Challenge: Autocomplete functionality in react from scratch](https://dev.to/cinarb2/react-challenge-autocomplete-functionality-in-react-from-scratch-3g0m)
-- [Dev.to/JS] [This is your Sheriff speaking](https://dev.to/beamazedvariable/this-is-your-sheriff-speaking-50ac)
 - [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
