@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Run Concurrent Tasks With a Limit Using Pure JavaScript](https://dev.to/maximization/run-concurrent-tasks-with-a-limit-using-pure-javascript-3g8)
+- [Lifehacker] [Everything You Need to Know About Stock Splits &lpar;and Reverse Stock Splits&rpar;](https://lifehacker.com/everything-you-need-to-know-about-stock-splits-and-rev-1848661571)
+- [Dev.to/JS] [Cat liker blog](https://dev.to/sulfranc/cat-liker-blog-13kp)
+- [Dev.to/JS] [Fetch requests in JavaScript](https://dev.to/victoriaehrbar/fetch-requests-in-javascript-22c1)
 - [Lifehacker] [14 Ways You Aren’t Using Your Lint Roller &lpar;But Should Be&rpar;](https://lifehacker.com/14-ways-you-aren-t-using-your-lint-roller-but-should-b-1848643708)
 - [Dev.to/JS] [Wordle guesser with NodeJS](https://dev.to/jaimesenoret/wordle-guesser-with-nodejs-1j2i)
 - [Dev.to/JS] [A Quick Guide To: Closures](https://dev.to/am20dipi/a-quick-guide-to-closures-2o0)
@@ -36,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix Drafty Windows Without Replacing Them](https://lifehacker.com/how-to-fix-drafty-windows-without-replacing-them-1848653286)
 - [Dev.to/JS] [Valid Parentheses - Daily JS &lpar;Day 19&rpar;](https://dev.to/tanvirrahman/valid-parentheses-daily-js-day-19-35l2)
 - [Dev.to/JS] [Speed up your JavaScript with Partytown 🥳](https://dev.to/michalkuncio/speed-up-your-javascript-with-partytown-jd3)
-- [Dev.to/JS] [Drawing Basic Shapes with HTML Canvas](https://dev.to/smpnjn/drawing-basic-shapes-with-html-canvas-pb3)
-- [Dev.to/JS] [How to make a desktop app with html,css,js](https://dev.to/dumboprogrammer/how-to-make-a-desktop-app-with-htmlcssjs-4a2n)
 - [Lifehacker] [Use the ‘Transparent Note’ App to Get Through Your Next Virtual Meeting or Interview](https://lifehacker.com/use-the-transparent-note-app-to-get-through-your-next-1848660749)
 - [Lifehacker] [9 Things You Should Take Off Your Kitchen Counters &lpar;Because It&#39;s Grossing People Out&rpar;](https://lifehacker.com/9-things-you-should-take-off-your-kitchen-counters-bec-1848657160)
-- [Dev.to/JS] [🏗 Structure of browser rendering engine](https://dev.to/kaziusan/structure-of-browser-rendering-engine-l6p)
 - [Lifehacker] [Loose, Distressed, and Other Men&#39;s Jean Styles You Might Not Understand](https://lifehacker.com/loose-distressed-and-other-mens-jean-styles-you-might-1848660578)
 - [Lifehacker] [20 Movies and TV Shows That Prove the Generation Gap Is Real](https://lifehacker.com/20-movies-and-tv-shows-that-prove-the-generation-gap-is-1848654593)
 - [Lifehacker] [Things You Should Never Say to a Partner &lpar;and What to Say Instead&rpar;](https://lifehacker.com/things-you-should-never-say-to-a-partner-and-what-to-s-1848655032)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is a Pocket Hole Jig &lpar;and Why Do You Need One&rpar;?](https://lifehacker.com/what-is-a-pocket-hole-jig-and-why-do-you-need-one-1848639359)
 - [Lifehacker] [The Difference Between the Dark Web and the Deep Web](https://lifehacker.com/the-difference-between-the-dark-web-and-the-deep-web-1848654878)
 - [Lifehacker] [7 of the Best Affordable Smartphones That Aren&#39;t the iPhone SE](https://lifehacker.com/7-of-the-best-affordable-smartphones-that-arent-the-iph-1848653516)
-- [Lifehacker] [What to Do After Losing Your Job so You Don&#39;t Lose Your Mind, Too](https://lifehacker.com/what-to-do-after-losing-your-job-so-you-dont-lose-your-1848621909)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
