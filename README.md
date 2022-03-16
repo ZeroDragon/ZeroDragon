@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beginner: Guideline to Integrate Huawei Mobile Services Account Kit using React Native](https://dev.to/hmscommunity/beginner-guideline-to-integrate-huawei-mobile-services-account-kit-using-react-native-2amg)
+- [Dev.to/JS] [Why doesn&#39;t JavaScript have a nullish-coalescing-assignment &lpar;??=&rpar; operator?](https://dev.to/baenencalin/why-doesnt-javascript-have-a-nullish-coalescing-assignment-operator-3jaj)
 - [Dev.to/JS] [Programming &quot;Natural&quot; Idle Character Animations](https://dev.to/arkfuldodger/programming-natural-idle-character-animations-4l0g)
 - [Dev.to/JS] [drastic ds emulator apk](https://dev.to/edna/drastic-ds-emulator-apk-3o32)
 - [Dev.to/JS] [MediaRecorder API Tutorial](https://dev.to/ethand91/mediarecorder-api-tutorial-54n8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Super Trunfo](https://dev.to/brunodorea/super-trunfo-1pa9)
 - [Dev.to/JS] [The fragment-based Apollo Client](https://dev.to/julioxavierr/the-fragment-based-apollo-client-40ja)
 - [Dev.to/JS] [Paracetamol.js y futuros proyectos 😎](https://dev.to/duxtech/paracetamoljs-y-futuros-proyectos-4ene)
-- [Dev.to/JS] [useScreenOrientation - React Native Snippet](https://dev.to/robertmetcalfe/usescreenorientation-react-native-snippet-31h2)
-- [Dev.to/JS] [Implementing JavaScript Delay for Cookie Consent Banner](https://dev.to/idarek/implementing-javascript-delay-for-cookie-consent-banner-2e90)
 - [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
