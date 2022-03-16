@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple ToDo List with React JS](https://dev.to/dabanandamitra/simple-todo-list-with-react-js-3p3k)
+- [Dev.to/JS] [Extra Burn Keto - Weight Loss Pills, Reviews, Price, Benefits &amp; Ingredients](https://dev.to/burn_extra/extra-burn-keto-weight-loss-pills-reviews-price-benefits-ingredients-ael)
+- [Dev.to/JS] [VueJS and benefits of using Vue](https://dev.to/alishahudson/vuejs-and-benefits-of-using-vue-5981)
+- [Dev.to/JS] [Node and benefits of using node](https://dev.to/tommyberryt/node-and-benefits-of-using-node-1m91)
 - [Dev.to/JS] [Beginner: Guideline to Integrate Huawei Mobile Services Account Kit using React Native](https://dev.to/hmscommunity/beginner-guideline-to-integrate-huawei-mobile-services-account-kit-using-react-native-2amg)
 - [Dev.to/JS] [Why doesn&#39;t JavaScript have a nullish-coalescing-assignment &lpar;??=&rpar; operator?](https://dev.to/baenencalin/why-doesnt-javascript-have-a-nullish-coalescing-assignment-operator-3jaj)
 - [Dev.to/JS] [Programming &quot;Natural&quot; Idle Character Animations](https://dev.to/arkfuldodger/programming-natural-idle-character-animations-4l0g)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My work for 2.8](https://dev.to/beamazedvariable/my-work-for-28-35da)
 - [Dev.to/JS] [React Challenge: Autocomplete functionality in react from scratch](https://dev.to/cinarb2/react-challenge-autocomplete-functionality-in-react-from-scratch-3g0m)
 - [Dev.to/JS] [This is your Sheriff speaking](https://dev.to/beamazedvariable/this-is-your-sheriff-speaking-50ac)
-- [Dev.to/JS] [Como atualizar o Node.js para a ultima versão no Ubuntu 🐧](https://dev.to/eucarlos/como-atualizar-o-nodejs-para-a-ultima-versao-no-ubuntu-35f3)
-- [Dev.to/JS] [Super Trunfo](https://dev.to/brunodorea/super-trunfo-1pa9)
-- [Dev.to/JS] [The fragment-based Apollo Client](https://dev.to/julioxavierr/the-fragment-based-apollo-client-40ja)
-- [Dev.to/JS] [Paracetamol.js y futuros proyectos 😎](https://dev.to/duxtech/paracetamoljs-y-futuros-proyectos-4ene)
 - [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
