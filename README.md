@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mobx vs Redux](https://dev.to/hshoja/mobx-vs-redux-1nh4)
+- [Lifehacker] [How To Recognize Signs Of An Eating Disorder In Kids And Teens](https://lifehacker.com/how-to-recognize-signs-of-an-eating-disorder-in-kids-an-1848651214)
+- [Dev.to/JS] [What is Micro-Frontends?](https://dev.to/hshoja/what-is-micro-frontends-3end)
+- [Dev.to/JS] [React and Redux Toolkit Full Course &lpar;free&rpar; 🔥 - Complete Shopping Cart Project &lpar;Video&rpar;](https://dev.to/chaoocharles/react-and-redux-toolkit-full-course-free-complete-shopping-cart-project-video-4egi)
+- [Lifehacker] [Smart, Accomplished People Are Falling for These ‘Jobfishing’ Employment Scams](https://lifehacker.com/smart-accomplished-people-are-falling-for-these-jobfi-1848661295)
 - [Dev.to/JS] [Run Concurrent Tasks With a Limit Using Pure JavaScript](https://dev.to/maximization/run-concurrent-tasks-with-a-limit-using-pure-javascript-3g8)
 - [Lifehacker] [Everything You Need to Know About Stock Splits &lpar;and Reverse Stock Splits&rpar;](https://lifehacker.com/everything-you-need-to-know-about-stock-splits-and-rev-1848661571)
 - [Dev.to/JS] [Cat liker blog](https://dev.to/sulfranc/cat-liker-blog-13kp)
@@ -35,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building an NFT Preview Card With KendoReact](https://dev.to/chineduimoh/building-an-nft-preview-card-with-kendoreact-1lf4)
 - [Lifehacker] [How to Find the &#39;Evil&#39; Investments Hiding in Your Portfolio](https://lifehacker.com/how-to-find-the-evil-investments-hiding-in-your-portfol-1848661271)
 - [Dev.to/JS] [What are Modules in Angular?](https://dev.to/deepachaurasia1/what-are-modules-in-angular-aj4)
-- [Dev.to/JS] [Tic Tac Toe 🎮 with HTML, CSS and JS - part 1](https://dev.to/jothinkumar/tic-tac-toe-with-html-css-and-js-part-1-4ja2)
 - [Lifehacker] [Kick Off St. Patrick&#39;s Day With a Guinness Dutch Baby](https://lifehacker.com/kick-off-st-patricks-day-with-a-guinness-dutch-baby-1848658965)
 - [Lifehacker] [How to Fix Drafty Windows Without Replacing Them](https://lifehacker.com/how-to-fix-drafty-windows-without-replacing-them-1848653286)
-- [Dev.to/JS] [Valid Parentheses - Daily JS &lpar;Day 19&rpar;](https://dev.to/tanvirrahman/valid-parentheses-daily-js-day-19-35l2)
-- [Dev.to/JS] [Speed up your JavaScript with Partytown 🥳](https://dev.to/michalkuncio/speed-up-your-javascript-with-partytown-jd3)
 - [Lifehacker] [Use the ‘Transparent Note’ App to Get Through Your Next Virtual Meeting or Interview](https://lifehacker.com/use-the-transparent-note-app-to-get-through-your-next-1848660749)
 - [Lifehacker] [9 Things You Should Take Off Your Kitchen Counters &lpar;Because It&#39;s Grossing People Out&rpar;](https://lifehacker.com/9-things-you-should-take-off-your-kitchen-counters-bec-1848657160)
 - [Lifehacker] [Loose, Distressed, and Other Men&#39;s Jean Styles You Might Not Understand](https://lifehacker.com/loose-distressed-and-other-mens-jean-styles-you-might-1848660578)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Replace a Broken Window Screen for Less Than $20](https://lifehacker.com/how-to-replace-a-broken-window-screen-for-less-than-20-1848653405)
 - [Lifehacker] [The Fastest Browsers on Windows &lpar;and the Downsides of Each&rpar;](https://lifehacker.com/the-fastest-browsers-on-windows-and-the-downsides-of-e-1848655246)
 - [Lifehacker] [What Is a Pocket Hole Jig &lpar;and Why Do You Need One&rpar;?](https://lifehacker.com/what-is-a-pocket-hole-jig-and-why-do-you-need-one-1848639359)
-- [Lifehacker] [The Difference Between the Dark Web and the Deep Web](https://lifehacker.com/the-difference-between-the-dark-web-and-the-deep-web-1848654878)
-- [Lifehacker] [7 of the Best Affordable Smartphones That Aren&#39;t the iPhone SE](https://lifehacker.com/7-of-the-best-affordable-smartphones-that-arent-the-iph-1848653516)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
