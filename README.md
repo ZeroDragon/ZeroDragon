@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MediaRecorder API Tutorial](https://dev.to/ethand91/mediarecorder-api-tutorial-54n8)
+- [Dev.to/JS] [My work for 2.8](https://dev.to/beamazedvariable/my-work-for-28-35da)
 - [Dev.to/JS] [React Challenge: Autocomplete functionality in react from scratch](https://dev.to/cinarb2/react-challenge-autocomplete-functionality-in-react-from-scratch-3g0m)
 - [Dev.to/JS] [This is your Sheriff speaking](https://dev.to/beamazedvariable/this-is-your-sheriff-speaking-50ac)
 - [Dev.to/JS] [Como atualizar o Node.js para a ultima versão no Ubuntu 🐧](https://dev.to/eucarlos/como-atualizar-o-nodejs-para-a-ultima-versao-no-ubuntu-35f3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing JavaScript Delay for Cookie Consent Banner](https://dev.to/idarek/implementing-javascript-delay-for-cookie-consent-banner-2e90)
 - [Dev.to/JS] [Understanding Callbacks](https://dev.to/i3uckwheat/understanding-callbacks-2o9e)
 - [Dev.to/JS] [Early Return Pattern](https://dev.to/i3uckwheat/early-return-pattern-558i)
-- [Dev.to/JS] [Introdução a Testes no Back-end](https://dev.to/gabrielhsilvestre/introducao-a-testes-no-back-end-4la8)
-- [Dev.to/JS] [Draft: Using DEV.to as CMS for my blog](https://dev.to/infinitenil/draft-using-devto-as-cms-for-my-blog-27oo)
 - [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
