@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Programming &quot;Natural&quot; Idle Character Animations](https://dev.to/arkfuldodger/programming-natural-idle-character-animations-4l0g)
+- [Dev.to/JS] [drastic ds emulator apk](https://dev.to/edna/drastic-ds-emulator-apk-3o32)
 - [Dev.to/JS] [MediaRecorder API Tutorial](https://dev.to/ethand91/mediarecorder-api-tutorial-54n8)
 - [Dev.to/JS] [My work for 2.8](https://dev.to/beamazedvariable/my-work-for-28-35da)
 - [Dev.to/JS] [React Challenge: Autocomplete functionality in react from scratch](https://dev.to/cinarb2/react-challenge-autocomplete-functionality-in-react-from-scratch-3g0m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js y futuros proyectos 😎](https://dev.to/duxtech/paracetamoljs-y-futuros-proyectos-4ene)
 - [Dev.to/JS] [useScreenOrientation - React Native Snippet](https://dev.to/robertmetcalfe/usescreenorientation-react-native-snippet-31h2)
 - [Dev.to/JS] [Implementing JavaScript Delay for Cookie Consent Banner](https://dev.to/idarek/implementing-javascript-delay-for-cookie-consent-banner-2e90)
-- [Dev.to/JS] [Understanding Callbacks](https://dev.to/i3uckwheat/understanding-callbacks-2o9e)
-- [Dev.to/JS] [Early Return Pattern](https://dev.to/i3uckwheat/early-return-pattern-558i)
 - [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
