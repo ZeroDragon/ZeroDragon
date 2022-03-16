@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the ‘Transparent Note’ App to Get Through Your Next Virtual Meeting or Interview](https://lifehacker.com/use-the-transparent-note-app-to-get-through-your-next-1848660749)
+- [Lifehacker] [9 Things You Should Take Off Your Kitchen Counters &lpar;Because It&#39;s Grossing People Out&rpar;](https://lifehacker.com/9-things-you-should-take-off-your-kitchen-counters-bec-1848657160)
+- [Dev.to/JS] [🏗 Structure of browser rendering engine](https://dev.to/kaziusan/structure-of-browser-rendering-engine-l6p)
+- [Lifehacker] [Loose, Distressed, and Other Men&#39;s Jean Styles You Might Not Understand](https://lifehacker.com/loose-distressed-and-other-mens-jean-styles-you-might-1848660578)
+- [Dev.to/JS] [Shadow DOM, Firefox and contenteditable](https://dev.to/pabloabc/shadow-dom-firefox-and-contenteditable-fph)
 - [Lifehacker] [20 Movies and TV Shows That Prove the Generation Gap Is Real](https://lifehacker.com/20-movies-and-tv-shows-that-prove-the-generation-gap-is-1848654593)
 - [Dev.to/JS] [A simple but powerful web framework for node.js-aex](https://dev.to/610470416/a-simple-but-powerful-web-framework-for-nodejs-aex-2bko)
 - [Lifehacker] [Things You Should Never Say to a Partner &lpar;and What to Say Instead&rpar;](https://lifehacker.com/things-you-should-never-say-to-a-partner-and-what-to-s-1848655032)
@@ -36,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Remove a Picture’s Background on Mac](https://lifehacker.com/the-easiest-way-to-remove-a-picture-s-background-on-mac-1848654661)
 - [Dev.to/JS] [HI guys plz help me to finish my portfolio add education and certfication as a card here is the link :-](https://dev.to/resikesh/hi-guys-plz-help-me-to-finish-my-portfolio-add-education-and-certfication-as-a-card-here-is-the-link--d3f)
 - [Dev.to/JS] [Linked List Data Structure in JavaScript](https://dev.to/teekay/linked-list-data-structure-1knh)
-- [Dev.to/JS] [Queue Data Structure in JavaScript](https://dev.to/teekay/queue-data-structure-14ga)
-- [Dev.to/JS] [Stack Data Structure in JavaScript](https://dev.to/teekay/stack-data-structure-5agi)
 - [Lifehacker] [8 Ways to Add a Little Luck of the Irish to Your St. Patrick&#39;s Day Spread](https://lifehacker.com/8-ways-to-add-a-little-luck-of-the-irish-to-your-st-pa-1848657628)
 - [Lifehacker] [How to Fold Ingredients Together Correctly](https://lifehacker.com/how-to-fold-ingredients-together-correctly-1848657034)
 - [Lifehacker] [Why You Really Shouldn’t Wait to Book Your Summer Travel](https://lifehacker.com/why-you-really-shouldn-t-wait-to-book-your-summer-trave-1848656739)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the iPad Pro Isn&#39;t Worth the Extra Money](https://lifehacker.com/why-the-ipad-pro-isnt-worth-the-extra-money-1848648748)
 - [Lifehacker] [17 of the Most Underrated Squats You Should Try](https://lifehacker.com/17-of-the-most-underrated-squats-you-should-try-1848651673)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
-- [Lifehacker] [The Difference Between Envy and Jealousy](https://lifehacker.com/the-difference-between-envy-and-jealousy-1848630500)
-- [Lifehacker] [9 Foods You Don&#39;t Need to &lpar;or Shouldn&#39;t&rpar; Refrigerate](https://lifehacker.com/9-foods-you-dont-need-to-or-shouldnt-refrigerate-1848618041)
-- [Lifehacker] [The Difference Between a &#39;Morning Star&#39; and &#39;Evening Star&#39; &lpar;Because It&#39;s Not What You Think&rpar;&quot;](https://lifehacker.com/the-difference-between-a-morning-star-and-evening-star-1848651570)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
 
