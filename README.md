@@ -23,21 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HI guys plz help me to finish my portfolio add education and certfication as a card here is the link :-](https://dev.to/resikesh/hi-guys-plz-help-me-to-finish-my-portfolio-add-education-and-certfication-as-a-card-here-is-the-link--d3f)
+- [Dev.to/JS] [Linked List Data Structure](https://dev.to/teekay/linked-list-data-structure-1knh)
+- [Dev.to/JS] [Queue Data Structure](https://dev.to/teekay/queue-data-structure-14ga)
+- [Dev.to/JS] [Stack Data Structure](https://dev.to/teekay/stack-data-structure-5agi)
+- [Lifehacker] [8 Ways to Add a Little Luck of the Irish to Your St. Patrick&#39;s Day Spread](https://lifehacker.com/8-ways-to-add-a-little-luck-of-the-irish-to-your-st-pa-1848657628)
+- [Dev.to/JS] [Tell me you&#39;re hacker without telling me you&#39;re a hacker..](https://dev.to/hvm3/tell-me-youre-hacker-without-telling-me-youre-a-hacker-5h69)
+- [Dev.to/JS] [What Every Good README Should Contain](https://dev.to/thawkin3/what-every-good-readme-should-contain-1fj8)
+- [Dev.to/JS] [Web Component Best Practices](https://dev.to/markacianfrani/web-component-best-practices-3gnp)
 - [Lifehacker] [How to Fold Ingredients Together Correctly](https://lifehacker.com/how-to-fold-ingredients-together-correctly-1848657034)
-- [Dev.to/JS] [Record a Cypress Test with Cypress Studio](https://dev.to/leading-edje/record-a-cypress-test-with-cypress-studio-4npk)
+- [Dev.to/JS] [Recording a Cypress Test with Cypress Studio](https://dev.to/leading-edje/record-a-cypress-test-with-cypress-studio-4npk)
 - [Dev.to/JS] [Tủ Phun Cát DUTA 500 Lít](https://dev.to/phuncatduytan/tu-phun-cat-duta-500-lit-3l39)
 - [Dev.to/JS] [Máy phun cát ướt](https://dev.to/phuncatduytan/may-phun-cat-uot-1bga)
 - [Lifehacker] [Why You Really Shouldn’t Wait to Book Your Summer Travel](https://lifehacker.com/why-you-really-shouldn-t-wait-to-book-your-summer-trave-1848656739)
 - [Lifehacker] [Is Costco Really Better Than Sam&#39;s Club?](https://lifehacker.com/is-costco-really-better-than-sams-club-1848657162)
 - [Dev.to/JS] [Error [err_http_headers_sent]: cannot set headers after they are sent to the client](https://dev.to/kodblems/error-errhttpheaderssent-cannot-set-headers-after-they-are-sent-to-the-client-4and)
 - [Dev.to/JS] [How to redirect to another page in php on button click?](https://dev.to/kodblems/how-to-redirect-to-another-page-in-php-on-button-click-5h6h)
-- [Dev.to/JS] [How to create a custom ESlint plugin](https://dev.to/devsmitra/how-to-create-a-custom-eslint-plugin-3bom)
-- [Dev.to/JS] [Fundamentals of Short-circuiting with JavaScript](https://dev.to/ranjansushant/fundamentals-of-short-circuiting-with-javascript-5cnj)
-- [Dev.to/JS] [Controllers](https://dev.to/viraj28/controllers-3ifh)
-- [Dev.to/JS] [This Week In React #98: React 18 RC2, Framer Motion, 3D Avatar, Parca, React-Native, Solito, Flutter, TypeScript, Safari...](https://dev.to/sebastienlorber/this-week-in-react-98-react-18-rc2-framer-motion-3d-avatar-parca-react-native-solito-flutter-typescript-safari-1f6l)
-- [Dev.to/JS] [✈ How I Developed a Site On The Go with Pylon+Tin?](https://dev.to/gewzk/how-i-developed-a-site-on-the-go-with-pylontin-45c9)
-- [Dev.to/JS] [JavaScript Proxy](https://dev.to/suprabhasupi/javascript-proxy-1bmb)
-- [Dev.to/JS] [Open Dropdown inside antd TextArea](https://dev.to/jayanthbondi/hello--66)
 - [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
 - [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
-- [Lifehacker] [The Best &lpar;and Worst&rpar; Houseplants for People With Allergies](https://lifehacker.com/the-best-and-worst-houseplants-for-people-with-allerg-1848648538)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
 
