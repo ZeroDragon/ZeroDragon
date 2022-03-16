@@ -23,9 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10-12 of 100 Days of Code](https://dev.to/nkemdev/10-12-of-100-days-of-code-4jkf)
+- [Lifehacker] [A Last-Minute Guide to Building Your March Madness Bracket](https://lifehacker.com/a-last-minute-guide-to-building-your-march-madness-brac-1848663607)
+- [Dev.to/JS] [O Básico: Express - Rotas](https://dev.to/gabrielhsilvestre/o-basico-express-rotas-4i70)
+- [Dev.to/JS] [In Need of 100 Days of Code Ideas](https://dev.to/tmchuynh/in-need-of-100-days-of-code-ideas-4g81)
+- [Lifehacker] [Weird but Surprisingly Practical Uses for Scotch Tape](https://lifehacker.com/weird-but-practical-ways-you-arent-using-scotch-tape-1848662336)
+- [Dev.to/JS] [Celebrating Telescope&#39;s 3000th Issue and PR: Progress](https://dev.to/belokond/celebrating-telescopes-3000th-issue-and-pr-progress-3p27)
 - [Dev.to/JS] [Mobx vs Redux](https://dev.to/hshoja/mobx-vs-redux-1nh4)
 - [Lifehacker] [How To Recognize Signs Of An Eating Disorder In Kids And Teens](https://lifehacker.com/how-to-recognize-signs-of-an-eating-disorder-in-kids-an-1848651214)
 - [Dev.to/JS] [What is Micro-Frontends?](https://dev.to/hshoja/what-is-micro-frontends-3end)
+- [Dev.to/JS] [6 GORGEOUS Landing Pages For Your Inspiration 🤩⚡](https://dev.to/bestofstuff/6-gorgeous-landing-pages-for-your-inspiration-5b4c)
 - [Dev.to/JS] [React and Redux Toolkit Full Course &lpar;free&rpar; 🔥 - Complete Shopping Cart Project &lpar;Video&rpar;](https://dev.to/chaoocharles/react-and-redux-toolkit-full-course-free-complete-shopping-cart-project-video-4egi)
 - [Lifehacker] [Smart, Accomplished People Are Falling for These ‘Jobfishing’ Employment Scams](https://lifehacker.com/smart-accomplished-people-are-falling-for-these-jobfi-1848661295)
 - [Dev.to/JS] [Run Concurrent Tasks With a Limit Using Pure JavaScript](https://dev.to/maximization/run-concurrent-tasks-with-a-limit-using-pure-javascript-3g8)
@@ -34,12 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fetch requests in JavaScript](https://dev.to/victoriaehrbar/fetch-requests-in-javascript-22c1)
 - [Lifehacker] [14 Ways You Aren’t Using Your Lint Roller &lpar;But Should Be&rpar;](https://lifehacker.com/14-ways-you-aren-t-using-your-lint-roller-but-should-b-1848643708)
 - [Dev.to/JS] [Wordle guesser with NodeJS](https://dev.to/jaimesenoret/wordle-guesser-with-nodejs-1j2i)
-- [Dev.to/JS] [A Quick Guide To: Closures](https://dev.to/am20dipi/a-quick-guide-to-closures-2o0)
-- [Dev.to/JS] [Create a form and fill form details in below table in Javascript](https://dev.to/urstrulyvishwak/create-a-form-and-fill-form-details-in-below-table-in-javascript-1ccd)
-- [Dev.to/JS] [promises and async-await in JavaScript](https://dev.to/therajatg/promises-and-async-await-in-javascript-2ook)
-- [Dev.to/JS] [Building an NFT Preview Card With KendoReact](https://dev.to/chineduimoh/building-an-nft-preview-card-with-kendoreact-1lf4)
 - [Lifehacker] [How to Find the &#39;Evil&#39; Investments Hiding in Your Portfolio](https://lifehacker.com/how-to-find-the-evil-investments-hiding-in-your-portfol-1848661271)
-- [Dev.to/JS] [What are Modules in Angular?](https://dev.to/deepachaurasia1/what-are-modules-in-angular-aj4)
 - [Lifehacker] [Kick Off St. Patrick&#39;s Day With a Guinness Dutch Baby](https://lifehacker.com/kick-off-st-patricks-day-with-a-guinness-dutch-baby-1848658965)
 - [Lifehacker] [How to Fix Drafty Windows Without Replacing Them](https://lifehacker.com/how-to-fix-drafty-windows-without-replacing-them-1848653286)
 - [Lifehacker] [Use the ‘Transparent Note’ App to Get Through Your Next Virtual Meeting or Interview](https://lifehacker.com/use-the-transparent-note-app-to-get-through-your-next-1848660749)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Spike Your Pancakes With Irish Cream](https://lifehacker.com/spike-your-pancakes-with-irish-cream-1848656004)
 - [Lifehacker] [What Is &#39;the Ides of March,&#39; and Should You Beware It?](https://lifehacker.com/what-is-the-ides-of-march-and-should-you-beware-it-1848656017)
 - [Lifehacker] [How to Replace a Broken Window Screen for Less Than $20](https://lifehacker.com/how-to-replace-a-broken-window-screen-for-less-than-20-1848653405)
-- [Lifehacker] [The Fastest Browsers on Windows &lpar;and the Downsides of Each&rpar;](https://lifehacker.com/the-fastest-browsers-on-windows-and-the-downsides-of-e-1848655246)
-- [Lifehacker] [What Is a Pocket Hole Jig &lpar;and Why Do You Need One&rpar;?](https://lifehacker.com/what-is-a-pocket-hole-jig-and-why-do-you-need-one-1848639359)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
