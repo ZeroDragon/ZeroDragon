@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This Week In React #98: React 18 RC2, Framer Motion, 3D Avatar, Parca, React-Native, Solito, Flutter, TypeScript, Safari...](https://dev.to/sebastienlorber/this-week-in-react-98-react-18-rc2-framer-motion-3d-avatar-parca-react-native-solito-flutter-typescript-safari-1f6l)
 - [Dev.to/JS] [✈ How I Developed a Site On The Go with Pylon+Tin?](https://dev.to/gewzk/how-i-developed-a-site-on-the-go-with-pylontin-45c9)
 - [Dev.to/JS] [JavaScript Proxy](https://dev.to/suprabhasupi/javascript-proxy-1bmb)
 - [Dev.to/JS] [Open Dropdown inside antd TextArea](https://dev.to/jayanthbondi/hello--66)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Basics Before You Learn React](https://dev.to/sananayab/javascript-basics-before-you-learn-react-4c6m)
 - [Dev.to/JS] [Getting started with Visual Studio Code extension development](https://dev.to/symflower/getting-started-with-visual-studio-code-extension-development-56g2)
 - [Dev.to/JS] [Fake Store App using API](https://dev.to/iammanojrathod/fake-store-app-using-api-fd6)
-- [Dev.to/JS] [Scalable Reusable Components in React](https://dev.to/kachidk/scalable-reusable-components-in-react-51o4)
 - [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
