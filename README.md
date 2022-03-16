@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Error [err_http_headers_sent]: cannot set headers after they are sent to the client](https://dev.to/kodblems/error-errhttpheaderssent-cannot-set-headers-after-they-are-sent-to-the-client-4and)
+- [Dev.to/JS] [How to redirect to another page in php on button click?](https://dev.to/kodblems/how-to-redirect-to-another-page-in-php-on-button-click-5h6h)
+- [Dev.to/JS] [How to create a custom ESlint plugin](https://dev.to/devsmitra/how-to-create-a-custom-eslint-plugin-3bom)
+- [Dev.to/JS] [Fundamentals of Short-circuiting with JavaScript](https://dev.to/ranjansushant/fundamentals-of-short-circuiting-with-javascript-5cnj)
+- [Dev.to/JS] [Controllers](https://dev.to/viraj28/controllers-3ifh)
 - [Dev.to/JS] [This Week In React #98: React 18 RC2, Framer Motion, 3D Avatar, Parca, React-Native, Solito, Flutter, TypeScript, Safari...](https://dev.to/sebastienlorber/this-week-in-react-98-react-18-rc2-framer-motion-3d-avatar-parca-react-native-solito-flutter-typescript-safari-1f6l)
 - [Dev.to/JS] [✈ How I Developed a Site On The Go with Pylon+Tin?](https://dev.to/gewzk/how-i-developed-a-site-on-the-go-with-pylontin-45c9)
 - [Dev.to/JS] [JavaScript Proxy](https://dev.to/suprabhasupi/javascript-proxy-1bmb)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CI/CD with a simple NestJS server](https://dev.to/scaledynamics/cicd-with-a-simple-nestjs-server-2l)
 - [Dev.to/JS] [Generate Cucumber .html report in Cypress in Just “5” Steps](https://dev.to/kailashpathak7/generate-cucumber-html-report-in-cypress-in-just-5-steps-43i9)
 - [Dev.to/JS] [The reason why a new responsive web is emerging](https://dev.to/angellicaaraujo/the-reason-why-a-new-responsive-web-is-emerging-51ha)
-- [Dev.to/JS] [Understand a 4-Step Guide to Successfully Hire a PHP Developer](https://dev.to/techalicehunt/understand-a-4-step-guide-to-successfully-hire-a-php-developer-3lgp)
-- [Dev.to/JS] [Est-ce vraiment une mauvaise idée d&#39;utiliser des accents dans du code JavaScript ?](https://dev.to/evanliomain/est-ce-vraiment-une-mauvaise-idee-dutiliser-des-accents-dans-du-code-javascript--4mob)
-- [Dev.to/JS] [JavaScript Basics Before You Learn React](https://dev.to/sananayab/javascript-basics-before-you-learn-react-4c6m)
-- [Dev.to/JS] [Getting started with Visual Studio Code extension development](https://dev.to/symflower/getting-started-with-visual-studio-code-extension-development-56g2)
-- [Dev.to/JS] [Fake Store App using API](https://dev.to/iammanojrathod/fake-store-app-using-api-fd6)
 - [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
