@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix Drafty Windows Without Replacing Them](https://lifehacker.com/how-to-fix-drafty-windows-without-replacing-them-1848653286)
+- [Dev.to/JS] [Valid Parentheses - Daily JS &lpar;Day 19&rpar;](https://dev.to/tanvirrahman/valid-parentheses-daily-js-day-19-35l2)
+- [Dev.to/JS] [Speed up your JavaScript with Partytown 🥳](https://dev.to/michalkuncio/speed-up-your-javascript-with-partytown-jd3)
+- [Dev.to/JS] [Drawing Basic Shapes with HTML Canvas](https://dev.to/smpnjn/drawing-basic-shapes-with-html-canvas-pb3)
+- [Dev.to/JS] [How to make a desktop app with html,css,js](https://dev.to/dumboprogrammer/how-to-make-a-desktop-app-with-htmlcssjs-4a2n)
 - [Lifehacker] [Use the ‘Transparent Note’ App to Get Through Your Next Virtual Meeting or Interview](https://lifehacker.com/use-the-transparent-note-app-to-get-through-your-next-1848660749)
 - [Lifehacker] [9 Things You Should Take Off Your Kitchen Counters &lpar;Because It&#39;s Grossing People Out&rpar;](https://lifehacker.com/9-things-you-should-take-off-your-kitchen-counters-bec-1848657160)
 - [Dev.to/JS] [🏗 Structure of browser rendering engine](https://dev.to/kaziusan/structure-of-browser-rendering-engine-l6p)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a blog with Contentful and Sveltekit](https://dev.to/wesleymutwiri/create-a-blog-with-contentful-and-sveltekit-3bd6)
 - [Dev.to/JS] [Making a monoid: the art of mush-mashing](https://dev.to/sethcalebweeks/making-a-monoid-the-art-of-mush-mashing-5cjd)
 - [Dev.to/JS] [Daily.Dev - Bookmarks to Twitter Tool](https://dev.to/mtwn105/dailydev-bookmarks-to-twitter-tool-1knm)
-- [Dev.to/JS] [Understanding Recursion in JavaScript with a binary search example](https://dev.to/judis07/understanding-recursion-in-javascript-with-a-binary-search-example-1b28)
-- [Dev.to/JS] [Step by step: React Timer Component Using Hooks](https://dev.to/klaudiaj/step-by-step-react-timer-component-using-hooks-43je)
 - [Lifehacker] [The Easiest Way to Remove a Picture’s Background on Mac](https://lifehacker.com/the-easiest-way-to-remove-a-picture-s-background-on-mac-1848654661)
-- [Dev.to/JS] [HI guys plz help me to finish my portfolio add education and certfication as a card here is the link :-](https://dev.to/resikesh/hi-guys-plz-help-me-to-finish-my-portfolio-add-education-and-certfication-as-a-card-here-is-the-link--d3f)
-- [Dev.to/JS] [Linked List Data Structure in JavaScript](https://dev.to/teekay/linked-list-data-structure-1knh)
 - [Lifehacker] [8 Ways to Add a Little Luck of the Irish to Your St. Patrick&#39;s Day Spread](https://lifehacker.com/8-ways-to-add-a-little-luck-of-the-irish-to-your-st-pa-1848657628)
 - [Lifehacker] [How to Fold Ingredients Together Correctly](https://lifehacker.com/how-to-fold-ingredients-together-correctly-1848657034)
 - [Lifehacker] [Why You Really Shouldn’t Wait to Book Your Summer Travel](https://lifehacker.com/why-you-really-shouldn-t-wait-to-book-your-summer-trave-1848656739)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s the Worst That Will Happen If You File Your Taxes Late &lpar;or Not at All&rpar;?](https://lifehacker.com/whats-the-worst-that-will-happen-if-you-file-your-taxes-1848654796)
 - [Lifehacker] [Myriad, Irregardless, and Other Words &#39;Smart&#39; People Are Wrong About](https://lifehacker.com/myriad-irregardless-and-other-words-smart-people-are-1848635736)
 - [Lifehacker] [Why the iPad Pro Isn&#39;t Worth the Extra Money](https://lifehacker.com/why-the-ipad-pro-isnt-worth-the-extra-money-1848648748)
-- [Lifehacker] [17 of the Most Underrated Squats You Should Try](https://lifehacker.com/17-of-the-most-underrated-squats-you-should-try-1848651673)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
