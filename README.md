@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Strapi v4 - Extend core controller and create custom routes](https://dev.to/justinkarso/strapi-v4-extend-core-controller-and-create-custom-routes-18kc)
 - [Dev.to/JS] [10-12 of 100 Days of Code](https://dev.to/nkemdev/10-12-of-100-days-of-code-4jkf)
 - [Lifehacker] [A Last-Minute Guide to Building Your March Madness Bracket](https://lifehacker.com/a-last-minute-guide-to-building-your-march-madness-brac-1848663607)
 - [Dev.to/JS] [O Básico: Express - Rotas](https://dev.to/gabrielhsilvestre/o-basico-express-rotas-4i70)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cat liker blog](https://dev.to/sulfranc/cat-liker-blog-13kp)
 - [Dev.to/JS] [Fetch requests in JavaScript](https://dev.to/victoriaehrbar/fetch-requests-in-javascript-22c1)
 - [Lifehacker] [14 Ways You Aren’t Using Your Lint Roller &lpar;But Should Be&rpar;](https://lifehacker.com/14-ways-you-aren-t-using-your-lint-roller-but-should-b-1848643708)
-- [Dev.to/JS] [Wordle guesser with NodeJS](https://dev.to/jaimesenoret/wordle-guesser-with-nodejs-1j2i)
 - [Lifehacker] [How to Find the &#39;Evil&#39; Investments Hiding in Your Portfolio](https://lifehacker.com/how-to-find-the-evil-investments-hiding-in-your-portfol-1848661271)
 - [Lifehacker] [Kick Off St. Patrick&#39;s Day With a Guinness Dutch Baby](https://lifehacker.com/kick-off-st-patricks-day-with-a-guinness-dutch-baby-1848658965)
 - [Lifehacker] [How to Fix Drafty Windows Without Replacing Them](https://lifehacker.com/how-to-fix-drafty-windows-without-replacing-them-1848653286)
