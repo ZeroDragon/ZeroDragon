@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Challenge: Autocomplete functionality in react from scratch](https://dev.to/cinarb2/react-challenge-autocomplete-functionality-in-react-from-scratch-3g0m)
+- [Dev.to/JS] [This is your Sheriff speaking](https://dev.to/beamazedvariable/this-is-your-sheriff-speaking-50ac)
+- [Dev.to/JS] [Como atualizar o Node.js para a ultima versão no Ubuntu 🐧](https://dev.to/eucarlos/como-atualizar-o-nodejs-para-a-ultima-versao-no-ubuntu-35f3)
+- [Dev.to/JS] [Super Trunfo](https://dev.to/brunodorea/super-trunfo-1pa9)
+- [Dev.to/JS] [The fragment-based Apollo Client](https://dev.to/julioxavierr/the-fragment-based-apollo-client-40ja)
 - [Dev.to/JS] [Paracetamol.js y futuros proyectos 😎](https://dev.to/duxtech/paracetamoljs-y-futuros-proyectos-4ene)
 - [Dev.to/JS] [useScreenOrientation - React Native Snippet](https://dev.to/robertmetcalfe/usescreenorientation-react-native-snippet-31h2)
 - [Dev.to/JS] [Implementing JavaScript Delay for Cookie Consent Banner](https://dev.to/idarek/implementing-javascript-delay-for-cookie-consent-banner-2e90)
@@ -31,13 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introdução a Testes no Back-end](https://dev.to/gabrielhsilvestre/introducao-a-testes-no-back-end-4la8)
 - [Dev.to/JS] [Draft: Using DEV.to as CMS for my blog](https://dev.to/infinitenil/draft-using-devto-as-cms-for-my-blog-27oo)
 - [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
-- [Dev.to/JS] [Destructuring Arrays &amp; Objects In JavaScript](https://dev.to/jassin82/destructuring-arrays-objects-in-javascript-4b46)
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
-- [Dev.to/JS] [Get Started with Shopify&#39;s New Headless Hydrogen Framework](https://dev.to/iskurbanov/get-started-with-shopifys-new-headless-hydrogen-framework-412l)
-- [Dev.to/JS] [Take Your First Steps Towards Becoming A Front End Developer](https://dev.to/programamkenya/take-your-first-steps-towards-becoming-a-front-end-developer-2b9)
-- [Dev.to/JS] [Using vendor chunk file from another application](https://dev.to/steerclear90/using-vendor-chunk-file-from-another-application-5b9l)
-- [Dev.to/JS] [15 UI Component Libraries for Vue 3 in 2022](https://dev.to/roblevintennis/15-ui-component-libraries-for-vue-3-in-2022-4kl1)
 - [Lifehacker] [Spike Your Pancakes With Irish Cream](https://lifehacker.com/spike-your-pancakes-with-irish-cream-1848656004)
 - [Lifehacker] [What Is &#39;the Ides of March,&#39; and Should You Beware It?](https://lifehacker.com/what-is-the-ides-of-march-and-should-you-beware-it-1848656017)
 - [Lifehacker] [How to Replace a Broken Window Screen for Less Than $20](https://lifehacker.com/how-to-replace-a-broken-window-screen-for-less-than-20-1848653405)
