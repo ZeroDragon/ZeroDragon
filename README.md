@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [20 Movies and TV Shows That Prove the Generation Gap Is Real](https://lifehacker.com/20-movies-and-tv-shows-that-prove-the-generation-gap-is-1848654593)
+- [Dev.to/JS] [A simple but powerful web framework for node.js-aex](https://dev.to/610470416/a-simple-but-powerful-web-framework-for-nodejs-aex-2bko)
+- [Lifehacker] [Things You Should Never Say to a Partner &lpar;and What to Say Instead&rpar;](https://lifehacker.com/things-you-should-never-say-to-a-partner-and-what-to-s-1848655032)
 - [Dev.to/JS] [The downfall of the frontend giant](https://dev.to/knezevicdev/the-downfall-of-the-frontend-giant-27jh)
 - [Dev.to/JS] [Paracetamol.js💊| #80: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-80-explica-este-codigo-javascript-1mop)
 - [Dev.to/JS] [Create a blog with Contentful and Sveltekit](https://dev.to/wesleymutwiri/create-a-blog-with-contentful-and-sveltekit-3bd6)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Queue Data Structure in JavaScript](https://dev.to/teekay/queue-data-structure-14ga)
 - [Dev.to/JS] [Stack Data Structure in JavaScript](https://dev.to/teekay/stack-data-structure-5agi)
 - [Lifehacker] [8 Ways to Add a Little Luck of the Irish to Your St. Patrick&#39;s Day Spread](https://lifehacker.com/8-ways-to-add-a-little-luck-of-the-irish-to-your-st-pa-1848657628)
-- [Dev.to/JS] [Tell me you&#39;re hacker without telling me you&#39;re a hacker..](https://dev.to/hvm3/tell-me-youre-hacker-without-telling-me-youre-a-hacker-5h69)
 - [Lifehacker] [How to Fold Ingredients Together Correctly](https://lifehacker.com/how-to-fold-ingredients-together-correctly-1848657034)
 - [Lifehacker] [Why You Really Shouldn’t Wait to Book Your Summer Travel](https://lifehacker.com/why-you-really-shouldn-t-wait-to-book-your-summer-trave-1848656739)
 - [Lifehacker] [Is Costco Really Better Than Sam&#39;s Club?](https://lifehacker.com/is-costco-really-better-than-sams-club-1848657162)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Envy and Jealousy](https://lifehacker.com/the-difference-between-envy-and-jealousy-1848630500)
 - [Lifehacker] [9 Foods You Don&#39;t Need to &lpar;or Shouldn&#39;t&rpar; Refrigerate](https://lifehacker.com/9-foods-you-dont-need-to-or-shouldnt-refrigerate-1848618041)
 - [Lifehacker] [The Difference Between a &#39;Morning Star&#39; and &#39;Evening Star&#39; &lpar;Because It&#39;s Not What You Think&rpar;&quot;](https://lifehacker.com/the-difference-between-a-morning-star-and-evening-star-1848651570)
-- [Lifehacker] [Here Are the 5 Cheapest Metro Areas to Buy a House in 2022](https://lifehacker.com/here-are-the-5-cheapest-metro-areas-to-buy-a-house-in-2-1848650897)
-- [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
 
