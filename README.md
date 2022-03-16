@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js y futuros proyectos 😎](https://dev.to/duxtech/paracetamoljs-y-futuros-proyectos-4ene)
 - [Dev.to/JS] [useScreenOrientation - React Native Snippet](https://dev.to/robertmetcalfe/usescreenorientation-react-native-snippet-31h2)
 - [Dev.to/JS] [Implementing JavaScript Delay for Cookie Consent Banner](https://dev.to/idarek/implementing-javascript-delay-for-cookie-consent-banner-2e90)
 - [Dev.to/JS] [Understanding Callbacks](https://dev.to/i3uckwheat/understanding-callbacks-2o9e)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Take Your First Steps Towards Becoming A Front End Developer](https://dev.to/programamkenya/take-your-first-steps-towards-becoming-a-front-end-developer-2b9)
 - [Dev.to/JS] [Using vendor chunk file from another application](https://dev.to/steerclear90/using-vendor-chunk-file-from-another-application-5b9l)
 - [Dev.to/JS] [15 UI Component Libraries for Vue 3 in 2022](https://dev.to/roblevintennis/15-ui-component-libraries-for-vue-3-in-2022-4kl1)
-- [Dev.to/JS] [Creating a TypeScript React Application with Vite](https://dev.to/oktadev/creating-a-typescript-react-application-with-vite-3605)
 - [Lifehacker] [Spike Your Pancakes With Irish Cream](https://lifehacker.com/spike-your-pancakes-with-irish-cream-1848656004)
 - [Lifehacker] [What Is &#39;the Ides of March,&#39; and Should You Beware It?](https://lifehacker.com/what-is-the-ides-of-march-and-should-you-beware-it-1848656017)
 - [Lifehacker] [How to Replace a Broken Window Screen for Less Than $20](https://lifehacker.com/how-to-replace-a-broken-window-screen-for-less-than-20-1848653405)
