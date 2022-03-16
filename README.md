@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fold Ingredients Together Correctly](https://lifehacker.com/how-to-fold-ingredients-together-correctly-1848657034)
+- [Dev.to/JS] [Record a Cypress Test with Cypress Studio](https://dev.to/leading-edje/record-a-cypress-test-with-cypress-studio-4npk)
+- [Dev.to/JS] [Tủ Phun Cát DUTA 500 Lít](https://dev.to/phuncatduytan/tu-phun-cat-duta-500-lit-3l39)
+- [Dev.to/JS] [Máy phun cát ướt](https://dev.to/phuncatduytan/may-phun-cat-uot-1bga)
+- [Lifehacker] [Why You Really Shouldn’t Wait to Book Your Summer Travel](https://lifehacker.com/why-you-really-shouldn-t-wait-to-book-your-summer-trave-1848656739)
+- [Lifehacker] [Is Costco Really Better Than Sam&#39;s Club?](https://lifehacker.com/is-costco-really-better-than-sams-club-1848657162)
 - [Dev.to/JS] [Error [err_http_headers_sent]: cannot set headers after they are sent to the client](https://dev.to/kodblems/error-errhttpheaderssent-cannot-set-headers-after-they-are-sent-to-the-client-4and)
 - [Dev.to/JS] [How to redirect to another page in php on button click?](https://dev.to/kodblems/how-to-redirect-to-another-page-in-php-on-button-click-5h6h)
 - [Dev.to/JS] [How to create a custom ESlint plugin](https://dev.to/devsmitra/how-to-create-a-custom-eslint-plugin-3bom)
@@ -32,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [✈ How I Developed a Site On The Go with Pylon+Tin?](https://dev.to/gewzk/how-i-developed-a-site-on-the-go-with-pylontin-45c9)
 - [Dev.to/JS] [JavaScript Proxy](https://dev.to/suprabhasupi/javascript-proxy-1bmb)
 - [Dev.to/JS] [Open Dropdown inside antd TextArea](https://dev.to/jayanthbondi/hello--66)
-- [Dev.to/JS] [CI/CD with a simple NestJS server](https://dev.to/scaledynamics/cicd-with-a-simple-nestjs-server-2l)
-- [Dev.to/JS] [Generate Cucumber .html report in Cypress in Just “5” Steps](https://dev.to/kailashpathak7/generate-cucumber-html-report-in-cypress-in-just-5-steps-43i9)
-- [Dev.to/JS] [The reason why a new responsive web is emerging](https://dev.to/angellicaaraujo/the-reason-why-a-new-responsive-web-is-emerging-51ha)
 - [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is Gas Really Cheaper at Costco?](https://lifehacker.com/is-gas-really-cheaper-at-costco-1848651490)
 - [Lifehacker] [How to Watch Ad-Free YouTube Videos on Android, Even Without Vanced](https://lifehacker.com/how-to-watch-ad-free-youtube-videos-on-android-even-wi-1848649514)
 - [Lifehacker] [The Best &lpar;and Worst&rpar; Houseplants for People With Allergies](https://lifehacker.com/the-best-and-worst-houseplants-for-people-with-allerg-1848648538)
-- [Lifehacker] [Is Grey Meat OK to Eat?](https://lifehacker.com/is-grey-meat-ok-to-eat-1848650223)
-- [Lifehacker] [All the Best New iPhone and Mac Features Worth Knowing About](https://lifehacker.com/all-the-best-new-iphone-and-mac-features-worth-knowing-1848645135)
-- [Lifehacker] [7 ‘Scientific’ Theories of How the Universe Formed That Reject the Big Bang](https://lifehacker.com/7-scientific-theories-of-how-the-universe-formed-that-1848650132)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
 
