@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I became a software developer](https://dev.to/jucian0/how-i-became-a-software-developer-30an)
+- [Dev.to/JS] [A Complete Guide to Local Storage in JavaScript](https://dev.to/dboatenggg/complete-beginners-guide-to-local-storage-in-javascript-4e00)
 - [Dev.to/JS] [Create a contact form with EmailJS and React hooks](https://dev.to/dantebhang/create-a-contact-form-with-emailjs-and-react-hooks-4imj)
 - [Dev.to/JS] [Generators in JS](https://dev.to/zizdepski/generators-in-js-2h8h)
 - [Dev.to/JS] [Strapi v4 - Extend core controller and create custom routes](https://dev.to/justinkarso/strapi-v4-extend-core-controller-and-create-custom-routes-18kc)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How To Recognize Signs Of An Eating Disorder In Kids And Teens](https://lifehacker.com/how-to-recognize-signs-of-an-eating-disorder-in-kids-an-1848651214)
 - [Dev.to/JS] [What is Micro-Frontends?](https://dev.to/hshoja/what-is-micro-frontends-3end)
 - [Dev.to/JS] [6 GORGEOUS Landing Pages For Your Inspiration 🤩⚡](https://dev.to/bestofstuff/6-gorgeous-landing-pages-for-your-inspiration-5b4c)
-- [Dev.to/JS] [React and Redux Toolkit Full Course &lpar;free&rpar; 🔥 - Complete Shopping Cart Project &lpar;Video&rpar;](https://dev.to/chaoocharles/react-and-redux-toolkit-full-course-free-complete-shopping-cart-project-video-4egi)
 - [Lifehacker] [Smart, Accomplished People Are Falling for These ‘Jobfishing’ Employment Scams](https://lifehacker.com/smart-accomplished-people-are-falling-for-these-jobfi-1848661295)
-- [Dev.to/JS] [Run Concurrent Tasks With a Limit Using Pure JavaScript](https://dev.to/maximization/run-concurrent-tasks-with-a-limit-using-pure-javascript-3g8)
 - [Lifehacker] [Everything You Need to Know About Stock Splits &lpar;and Reverse Stock Splits&rpar;](https://lifehacker.com/everything-you-need-to-know-about-stock-splits-and-rev-1848661571)
 - [Lifehacker] [14 Ways You Aren’t Using Your Lint Roller &lpar;But Should Be&rpar;](https://lifehacker.com/14-ways-you-aren-t-using-your-lint-roller-but-should-b-1848643708)
 - [Lifehacker] [How to Find the &#39;Evil&#39; Investments Hiding in Your Portfolio](https://lifehacker.com/how-to-find-the-evil-investments-hiding-in-your-portfol-1848661271)
