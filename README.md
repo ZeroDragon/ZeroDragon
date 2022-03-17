@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJS Frameworks You Should Know Before You Start Developing Internal Tool Application](https://dev.to/pankod/reactjs-frameworks-you-should-know-before-you-start-developing-internal-tool-application-2567)
+- [Dev.to/JS] [React vs Angular : Which is the best framework to choose in 2022](https://dev.to/ashikarose/react-vs-angular-which-is-the-best-framework-to-choose-in-2022-mpc)
 - [Dev.to/JS] [FreeVI - Copyright FREE Images from PEXELS](https://dev.to/dabanandamitra/freevi-copyright-free-images-from-pexels-4g84)
 - [Dev.to/JS] [Khăn thấm mồ hôi &amp; Giới thiệu đơn vị cung cấp số lượng lớn, giá gốc tại xưởng tốt nhất](https://dev.to/khannamphong/khan-tham-mo-hoi-gioi-thieu-don-vi-cung-cap-so-luong-lon-gia-goc-tai-xuong-tot-nhat-731)
 - [Dev.to/JS] [Guidelines for Translating Your Project using i18next](https://dev.to/theaccordance/a-guide-for-translating-your-project-using-i18next-5dp7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Complete Guide to Local Storage in JavaScript](https://dev.to/dboatenggg/complete-beginners-guide-to-local-storage-in-javascript-4e00)
 - [Dev.to/JS] [Create a contact form with EmailJS and React hooks](https://dev.to/dantebhang/create-a-contact-form-with-emailjs-and-react-hooks-4imj)
 - [Dev.to/JS] [Generators in JS](https://dev.to/zizdepski/generators-in-js-2h8h)
-- [Dev.to/JS] [Strapi v4 - Extend core controller and create custom routes](https://dev.to/justinkarso/strapi-v4-extend-core-controller-and-create-custom-routes-18kc)
-- [Dev.to/JS] [10-12 of 100 Days of Code](https://dev.to/nkemdev/10-12-of-100-days-of-code-4jkf)
 - [Lifehacker] [A Last-Minute Guide to Building Your March Madness Bracket](https://lifehacker.com/a-last-minute-guide-to-building-your-march-madness-brac-1848663607)
 - [Lifehacker] [Weird but Surprisingly Practical Uses for Scotch Tape](https://lifehacker.com/weird-but-practical-ways-you-arent-using-scotch-tape-1848662336)
 - [Lifehacker] [How To Recognize Signs Of An Eating Disorder In Kids And Teens](https://lifehacker.com/how-to-recognize-signs-of-an-eating-disorder-in-kids-an-1848651214)
