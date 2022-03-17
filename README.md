@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unexpected token &lt; in json at position 0 fetch api](https://dev.to/mrpaulishaili/unexpected-token-in-json-at-position-0-fetch-api-26cl)
+- [Dev.to/JS] [How to Use Multiple Template Engines within One Class?](https://dev.to/610470416/how-to-use-multiple-template-engines-within-one-class-egj)
+- [Dev.to/JS] [Var vs Const vs Let &lpar;JavaScript&rpar;](https://dev.to/hardikmirg/var-vs-const-vs-let-javascript-2530)
 - [Dev.to/JS] [Denormaliztion ,its pros and cons](https://dev.to/marrie/denormaliztion-its-pros-and-cons-4h6d)
 - [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 5](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-5-25d)
 - [Dev.to/JS] [Publishing your websites to Cloud Hosting](https://dev.to/hdgurkey/publishing-your-websites-to-cloud-hosting-kf5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make create feature modules in Angular 11](https://dev.to/deepachaurasia1/how-to-make-create-feature-modules-in-angular-11-55i9)
 - [Dev.to/JS] [What&#39;s the Play to Earn Business Model?](https://dev.to/reignmatty/whats-the-play-to-earn-business-model-11m3)
 - [Dev.to/JS] [Upload mutiple image component and get base64 format](https://dev.to/mohsinalisoomro/upload-mutiple-image-component-and-get-base64-format-17pa)
-- [Dev.to/JS] [Blood Boost Formula - Blood Boost Pills, Reviews, Price, Benefits &amp; Results](https://dev.to/bloodboostinfo/blood-boost-formula-blood-boost-pills-reviews-price-benefits-results-1adi)
-- [Dev.to/JS] [Difference Between Two Arrays in JavaScript](https://dev.to/pablofelps/difference-between-two-arrays-in-javascript-180k)
-- [Dev.to/JS] [Sort an Array of Integers in JavaScript](https://dev.to/pablofelps/sort-an-array-of-integers-in-javascript-oda)
 - [Lifehacker] [A Last-Minute Guide to Building Your March Madness Bracket](https://lifehacker.com/a-last-minute-guide-to-building-your-march-madness-brac-1848663607)
 - [Lifehacker] [Weird but Surprisingly Practical Uses for Scotch Tape](https://lifehacker.com/weird-but-practical-ways-you-arent-using-scotch-tape-1848662336)
 - [Lifehacker] [How To Recognize Signs Of An Eating Disorder In Kids And Teens](https://lifehacker.com/how-to-recognize-signs-of-an-eating-disorder-in-kids-an-1848651214)
