@@ -23,11 +23,17 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Streaming Real-Time Chat Messages into Scylla with Apache Pulsar](https://dev.to/tspannhw/streaming-real-time-chat-messages-into-scylla-with-apache-pulsar-4cj5)
+- [Dev.to/JS] [The Complete Guide to covert Image To Text and text to speech with Javascript](https://dev.to/devsmitra/the-complete-guide-to-covert-image-to-text-and-text-to-speech-with-javascript-15gp)
+- [Dev.to/JS] [40+ JavaScript Project For Newbies [ Beginners - Advance]](https://dev.to/jscript/40-javascript-project-for-newbies-beginners-advance-3ld5)
+- [Lifehacker] [What the 12-3-30 Workout Gets Wrong &lpar;and What It Gets Right&rpar;](https://lifehacker.com/what-the-12-3-30-workout-gets-wrong-and-what-it-gets-r-1848667798)
+- [Dev.to/JS] [JavaScript Problems](https://dev.to/dpinkston91/javascript-problems-41io)
+- [Lifehacker] [Apple&#39;s Latest Update Can Brick Your Mac](https://lifehacker.com/apples-latest-update-can-brick-your-mac-1848666760)
 - [Lifehacker] [The Fastest Way to Restore a Bricked Apple Watch](https://lifehacker.com/the-fastest-way-to-restore-a-bricked-apple-watch-1848666723)
 - [Dev.to/JS] [Swap Nodes in Pairs - Daily JS &lpar;Day 20&rpar;](https://dev.to/tanvirrahman/swap-nodes-in-pairs-daily-js-day-20-3h36)
 - [Dev.to/JS] [Text Typing Animation](https://dev.to/sanketbodake/text-typing-animation-59n2)
 - [Dev.to/JS] [How I blog in markdown](https://dev.to/richkurtzman/how-i-blog-in-markdown-1cgd)
-- [Lifehacker] [50 New Cult Classic Movies Released This Century](https://lifehacker.com/50-new-cult-classic-movies-released-this-century-1848660457)
+- [Lifehacker] [50 of the Best Cult Classic Movies Released This Century](https://lifehacker.com/50-new-cult-classic-movies-released-this-century-1848660457)
 - [Lifehacker] [From &#39;Soulslikes&#39; to &#39;Roguelites,&#39; 12 Video Game Genre Names That Make No Sense](https://lifehacker.com/from-soulslikes-to-roguelites-12-video-game-genre-name-1848663846)
 - [Dev.to/JS] [Code Snippet: Name CSS Split Chunks using MiniCssExtractPlugin](https://dev.to/cbillowes/code-snippet-name-css-split-chunks-using-minicssextractplugin-fg2)
 - [Dev.to/JS] [Top 5 programming languages for 2022](https://dev.to/alltimedevlopment/top-5-programming-languages-for-2022-on5)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a zx Node.js script as binary with pkg](https://dev.to/zauni/create-a-zx-nodejs-script-as-binary-with-pkg-5abf)
 - [Dev.to/JS] [How to fetch images from and API](https://dev.to/satvik/how-to-fetch-images-from-and-api-5h8h)
 - [Lifehacker] [Everything You Should Do on the First Day of a Remote Job](https://lifehacker.com/everything-you-should-do-on-the-first-day-of-a-remote-j-1848666722)
-- [Dev.to/JS] [Payload CMS Version 0.15.0 brings publishing, versions, performance, more](https://dev.to/payloadcms/payload-cms-version-0150-brings-publishing-versions-performance-and-more-2dj6)
-- [Dev.to/JS] [Partiendo de la base](https://dev.to/lavozmedellin/partiendo-de-la-base-1ilh)
-- [Dev.to/JS] [En este sentido](https://dev.to/lavozmedellin/en-este-sentido-2204)
-- [Dev.to/JS] [Desde que el pasado](https://dev.to/lavozmedellin/desde-que-el-pasado-2mjh)
 - [Lifehacker] [What Is Microsoft Edge&#39;s Efficiency Mode &lpar;and How Can You Enable It&rpar;?](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190)
 - [Lifehacker] [How to Enable ‘Universal Control’ Between Your Mac and iPad](https://lifehacker.com/how-to-enable-universal-control-between-your-mac-and-1848665891)
 - [Lifehacker] [Use These Free Apps to Plan Your Next Woodworking Project](https://lifehacker.com/use-these-free-apps-to-plan-your-next-woodworking-proje-1848664893)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Things You Should Take Off Your Kitchen Counters &lpar;Because It&#39;s Grossing People Out&rpar;](https://lifehacker.com/9-things-you-should-take-off-your-kitchen-counters-bec-1848657160)
 - [Lifehacker] [Loose, Distressed, and Other Men&#39;s Jean Styles You Might Not Understand](https://lifehacker.com/loose-distressed-and-other-mens-jean-styles-you-might-1848660578)
 - [Lifehacker] [20 Movies and TV Shows That Prove the Generation Gap Is Real](https://lifehacker.com/20-movies-and-tv-shows-that-prove-the-generation-gap-is-1848654593)
-- [Lifehacker] [Things You Should Never Say to a Partner &lpar;and What to Say Instead&rpar;](https://lifehacker.com/things-you-should-never-say-to-a-partner-and-what-to-s-1848655032)
-- [Lifehacker] [The Easiest Way to Remove a Picture’s Background on Mac](https://lifehacker.com/the-easiest-way-to-remove-a-picture-s-background-on-mac-1848654661)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
