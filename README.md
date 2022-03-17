@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Contact form without backend using JavaScript 💡](https://dev.to/zougari47/contact-form-without-backend-using-javascript-4a8c)
 - [Lifehacker] [How to Care for &lpar;and Reduce the Appearance of&rpar; a Scar](https://lifehacker.com/how-to-care-for-and-reduce-the-appearance-of-a-scar-1848667011)
 - [Dev.to/JS] [No Tears Guide to Creating E2E Test Scripts for Playwright &amp; Puppeteer](https://dev.to/mikeshi/no-tears-guide-to-creating-e2e-test-scripts-for-playwright-puppeteer-127a)
 - [Dev.to/JS] [Remix Search Engine Optimization](https://dev.to/codegino/remix-search-engine-optimization-5fcf)
@@ -43,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [50 of the Best Cult Classic Movies Released This Century](https://lifehacker.com/50-new-cult-classic-movies-released-this-century-1848660457)
 - [Lifehacker] [From &#39;Soulslikes&#39; to &#39;Roguelites,&#39; 12 Video Game Genre Names That Make No Sense](https://lifehacker.com/from-soulslikes-to-roguelites-12-video-game-genre-name-1848663846)
 - [Dev.to/JS] [Code Snippet: Name CSS Split Chunks using MiniCssExtractPlugin](https://dev.to/cbillowes/code-snippet-name-css-split-chunks-using-minicssextractplugin-fg2)
-- [Dev.to/JS] [Top 5 programming languages for 2022](https://dev.to/alltimedevlopment/top-5-programming-languages-for-2022-on5)
 - [Lifehacker] [Everything You Should Do on the First Day of a Remote Job](https://lifehacker.com/everything-you-should-do-on-the-first-day-of-a-remote-j-1848666722)
 - [Lifehacker] [What Is Microsoft Edge&#39;s Efficiency Mode &lpar;and How Can You Enable It&rpar;?](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190)
 - [Lifehacker] [How to Enable ‘Universal Control’ Between Your Mac and iPad](https://lifehacker.com/how-to-enable-universal-control-between-your-mac-and-1848665891)
