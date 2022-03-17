@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WHAT ARE THE DIFFERENCES BETWEEN WEB3 AND WEB2?](https://dev.to/davidsalexande3/what-are-the-differences-between-web3-and-web2-kem)
+- [Dev.to/JS] [Working with Vercel](https://dev.to/hek5118/working-with-vercel-54o2)
 - [Dev.to/JS] [The dreaded AWS error : Cannot find version xx.x for postgres](https://dev.to/aws-builders/the-dreaded-aws-error-cannot-find-version-xxx-for-postgres-3gkp)
 - [Dev.to/JS] [How I became a software developer](https://dev.to/jucian0/how-i-became-a-software-developer-30an)
 - [Dev.to/JS] [A Complete Guide to Local Storage in JavaScript](https://dev.to/dboatenggg/complete-beginners-guide-to-local-storage-in-javascript-4e00)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [In Need of 100 Days of Code Ideas](https://dev.to/tmchuynh/in-need-of-100-days-of-code-ideas-4g81)
 - [Lifehacker] [Weird but Surprisingly Practical Uses for Scotch Tape](https://lifehacker.com/weird-but-practical-ways-you-arent-using-scotch-tape-1848662336)
 - [Dev.to/JS] [Celebrating Telescope&#39;s 3000th Issue and PR: Progress](https://dev.to/belokond/celebrating-telescopes-3000th-issue-and-pr-progress-3p27)
-- [Dev.to/JS] [Mobx vs Redux](https://dev.to/hshoja/mobx-vs-redux-1nh4)
 - [Lifehacker] [How To Recognize Signs Of An Eating Disorder In Kids And Teens](https://lifehacker.com/how-to-recognize-signs-of-an-eating-disorder-in-kids-an-1848651214)
-- [Dev.to/JS] [What is Micro-Frontends?](https://dev.to/hshoja/what-is-micro-frontends-3end)
 - [Lifehacker] [Smart, Accomplished People Are Falling for These ‘Jobfishing’ Employment Scams](https://lifehacker.com/smart-accomplished-people-are-falling-for-these-jobfi-1848661295)
 - [Lifehacker] [Everything You Need to Know About Stock Splits &lpar;and Reverse Stock Splits&rpar;](https://lifehacker.com/everything-you-need-to-know-about-stock-splits-and-rev-1848661571)
 - [Lifehacker] [14 Ways You Aren’t Using Your Lint Roller &lpar;But Should Be&rpar;](https://lifehacker.com/14-ways-you-aren-t-using-your-lint-roller-but-should-b-1848643708)
