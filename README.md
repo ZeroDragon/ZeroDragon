@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top JavaScript Tricks and Tips](https://dev.to/smartgaurav0074/top-javascript-tricks-and-tips-41oi)
+- [Dev.to/JS] [How to make create feature modules in Angular 11](https://dev.to/deepachaurasia1/how-to-make-create-feature-modules-in-angular-11-55i9)
+- [Dev.to/JS] [What&#39;s the Play to Earn Business Model?](https://dev.to/reignmatty/whats-the-play-to-earn-business-model-11m3)
+- [Dev.to/JS] [Upload mutiple image component and get base64 format](https://dev.to/mohsinalisoomro/upload-mutiple-image-component-and-get-base64-format-17pa)
+- [Dev.to/JS] [Blood Boost Formula - Blood Boost Pills, Reviews, Price, Benefits &amp; Results](https://dev.to/bloodboostinfo/blood-boost-formula-blood-boost-pills-reviews-price-benefits-results-1adi)
 - [Dev.to/JS] [Difference Between Two Arrays in JavaScript](https://dev.to/pablofelps/difference-between-two-arrays-in-javascript-180k)
 - [Dev.to/JS] [Sort an Array of Integers in JavaScript](https://dev.to/pablofelps/sort-an-array-of-integers-in-javascript-oda)
 - [Dev.to/JS] [Is self-taught enough? I&#39;m starting to have doubts](https://dev.to/russ0133/is-self-taught-enough-im-starting-to-have-doubts-1obl)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Materio Open Source React Admin Template Is Out Now...!!🎉](https://dev.to/theme_selection/materio-open-source-react-admin-template-is-out-now-3p0b)
 - [Dev.to/JS] [Start a server: Node Vs Golang](https://dev.to/drsimplegraffiti/start-a-server-node-vs-golang-2kei)
 - [Dev.to/JS] [React Native - Modern theming!!](https://dev.to/kjgm/react-native-modern-theming-11i7)
-- [Dev.to/JS] [ReactJS Frameworks You Should Know Before Start Developing B2B/Internal Application](https://dev.to/pankod/reactjs-frameworks-you-should-know-before-you-start-developing-internal-tool-application-2567)
-- [Dev.to/JS] [React vs Angular : Which is the best framework to choose in 2022](https://dev.to/ashikarose/react-vs-angular-which-is-the-best-framework-to-choose-in-2022-mpc)
-- [Dev.to/JS] [FreeVI - Copyright FREE Images from PEXELS](https://dev.to/dabanandamitra/freevi-copyright-free-images-from-pexels-4g84)
-- [Dev.to/JS] [Khăn thấm mồ hôi &amp; Giới thiệu đơn vị cung cấp số lượng lớn, giá gốc tại xưởng tốt nhất](https://dev.to/khannamphong/khan-tham-mo-hoi-gioi-thieu-don-vi-cung-cap-so-luong-lon-gia-goc-tai-xuong-tot-nhat-731)
-- [Dev.to/JS] [Guidelines for Translating Your Project using i18next](https://dev.to/theaccordance/a-guide-for-translating-your-project-using-i18next-5dp7)
 - [Lifehacker] [A Last-Minute Guide to Building Your March Madness Bracket](https://lifehacker.com/a-last-minute-guide-to-building-your-march-madness-brac-1848663607)
 - [Lifehacker] [Weird but Surprisingly Practical Uses for Scotch Tape](https://lifehacker.com/weird-but-practical-ways-you-arent-using-scotch-tape-1848662336)
 - [Lifehacker] [How To Recognize Signs Of An Eating Disorder In Kids And Teens](https://lifehacker.com/how-to-recognize-signs-of-an-eating-disorder-in-kids-an-1848651214)
