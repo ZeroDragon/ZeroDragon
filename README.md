@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to fetch images from and API](https://dev.to/satvik/how-to-fetch-images-from-and-api-5h8h)
+- [Dev.to/JS] [Payload CMS Version 0.15.0 brings publishing, versions, performance, more](https://dev.to/payloadcms/payload-cms-version-0150-brings-publishing-versions-performance-and-more-2dj6)
+- [Dev.to/JS] [Partiendo de la base](https://dev.to/lavozmedellin/partiendo-de-la-base-1ilh)
+- [Dev.to/JS] [En este sentido](https://dev.to/lavozmedellin/en-este-sentido-2204)
+- [Dev.to/JS] [Desde que el pasado](https://dev.to/lavozmedellin/desde-que-el-pasado-2mjh)
+- [Dev.to/JS] [SARS-CoV-2 &lpar;COVID-19&rpar;](https://dev.to/lavozmedellin/sars-cov-2-covid-19-135h)
+- [Lifehacker] [What Is Microsoft Edge&#39;s Efficiency Mode &lpar;and How Can You Enable It&rpar;?](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190)
+- [Dev.to/JS] [Understanding JWT](https://dev.to/ammarraneez/understanding-jwt-b54)
 - [Dev.to/JS] [Sketch-icons makes it simple to import icons](https://dev.to/ndrohith09/sketch-icons-makes-it-simple-to-import-icons-4kn2)
 - [Dev.to/JS] [Exploring SvelteKit in 2022 by Building a Portfolio Website](https://dev.to/asayerio_techblog/exploring-sveltekit-in-2022-by-building-a-portfolio-website-557o)
 - [Lifehacker] [How to Enable ‘Universal Control’ Between Your Mac and iPad](https://lifehacker.com/how-to-enable-universal-control-between-your-mac-and-1848665891)
@@ -31,15 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Change Node.JS Version](https://dev.to/smpnjn/how-to-change-nodejs-version-34b7)
 - [Lifehacker] [Use These Free Apps to Plan Your Next Woodworking Project](https://lifehacker.com/use-these-free-apps-to-plan-your-next-woodworking-proje-1848664893)
 - [Lifehacker] [Relive Your Glory Days With These Retro TV Sites](https://lifehacker.com/relive-your-glory-days-with-these-retro-tv-sites-1848662849)
-- [Dev.to/JS] [Animated sidebar menu](https://dev.to/premjeet/animated-sidebar-menu-25a1)
-- [Dev.to/JS] [Remix Search Engine Optimization](https://dev.to/codegino/remix-search-engine-optimization-4da4)
 - [Lifehacker] [The Difference Between Chili Powder, Pepper-Specific Chili Powder, and Chili Flakes](https://lifehacker.com/the-difference-between-chili-powder-pepper-specific-ch-1848664128)
 - [Lifehacker] [How to Ease Back Into Running This Spring Without Getting Injured](https://lifehacker.com/how-to-ease-back-into-running-this-spring-without-getti-1848657363)
-- [Dev.to/JS] [Open source ecommerce - How Medusa compares to Shopify](https://dev.to/medusajs/open-source-ecommerce-how-medusa-compares-to-shopify-3ef)
-- [Dev.to/JS] [Javascript: Async race conditions](https://dev.to/devsimplicity/javascript-async-race-conditions-mam)
-- [Dev.to/JS] [A Small Trick about JSX Tag Names](https://dev.to/a89529294/a-small-trick-about-jsx-tag-names-4edo)
-- [Dev.to/JS] [Running a dedicated local server for a VS Code debugging session using tasks](https://dev.to/codepo8/running-a-dedicated-local-server-for-a-vs-code-debugging-session-using-tasks-25ck)
-- [Dev.to/JS] [POST FormData to JSON object array with ReacStrap Form and Express](https://dev.to/jc03ceige/post-formdata-to-json-object-array-with-reacstrap-form-and-express-na3)
 - [Lifehacker] [A Last-Minute Guide to Building Your March Madness Bracket](https://lifehacker.com/a-last-minute-guide-to-building-your-march-madness-brac-1848663607)
 - [Lifehacker] [Weird but Surprisingly Practical Uses for Scotch Tape](https://lifehacker.com/weird-but-practical-ways-you-arent-using-scotch-tape-1848662336)
 - [Lifehacker] [How To Recognize Signs of an Eating Disorder in Kids And Teens](https://lifehacker.com/how-to-recognize-signs-of-an-eating-disorder-in-kids-an-1848651214)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fold Ingredients Together Correctly](https://lifehacker.com/how-to-fold-ingredients-together-correctly-1848657034)
 - [Lifehacker] [Why You Really Shouldn’t Wait to Book Your Summer Travel](https://lifehacker.com/why-you-really-shouldn-t-wait-to-book-your-summer-trave-1848656739)
 - [Lifehacker] [Is Costco Really Better Than Sam&#39;s Club?](https://lifehacker.com/is-costco-really-better-than-sams-club-1848657162)
-- [Lifehacker] [&#39;Ergonomics’ Is More Personalized Than You Think](https://lifehacker.com/ergonomics-is-more-personalized-than-you-think-1848655842)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
