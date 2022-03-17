@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Fastest Way to Restore a Bricked Apple Watch](https://lifehacker.com/the-fastest-way-to-restore-a-bricked-apple-watch-1848666723)
+- [Dev.to/JS] [Swap Nodes in Pairs - Daily JS &lpar;Day 20&rpar;](https://dev.to/tanvirrahman/swap-nodes-in-pairs-daily-js-day-20-3h36)
+- [Dev.to/JS] [Text Typing Animation](https://dev.to/sanketbodake/text-typing-animation-59n2)
+- [Dev.to/JS] [How I blog in markdown](https://dev.to/richkurtzman/how-i-blog-in-markdown-1cgd)
+- [Lifehacker] [50 New Cult Classic Movies Released This Century](https://lifehacker.com/50-new-cult-classic-movies-released-this-century-1848660457)
 - [Lifehacker] [From &#39;Soulslikes&#39; to &#39;Roguelites,&#39; 12 Video Game Genre Names That Make No Sense](https://lifehacker.com/from-soulslikes-to-roguelites-12-video-game-genre-name-1848663846)
 - [Dev.to/JS] [Code Snippet: Name CSS Split Chunks using MiniCssExtractPlugin](https://dev.to/cbillowes/code-snippet-name-css-split-chunks-using-minicssextractplugin-fg2)
 - [Dev.to/JS] [Top 5 programming languages for 2022](https://dev.to/alltimedevlopment/top-5-programming-languages-for-2022-on5)
@@ -34,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Partiendo de la base](https://dev.to/lavozmedellin/partiendo-de-la-base-1ilh)
 - [Dev.to/JS] [En este sentido](https://dev.to/lavozmedellin/en-este-sentido-2204)
 - [Dev.to/JS] [Desde que el pasado](https://dev.to/lavozmedellin/desde-que-el-pasado-2mjh)
-- [Dev.to/JS] [SARS-CoV-2 &lpar;COVID-19&rpar;](https://dev.to/lavozmedellin/sars-cov-2-covid-19-135h)
 - [Lifehacker] [What Is Microsoft Edge&#39;s Efficiency Mode &lpar;and How Can You Enable It&rpar;?](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190)
-- [Dev.to/JS] [Understanding JWT](https://dev.to/ammarraneez/understanding-jwt-b54)
-- [Dev.to/JS] [Sketch-icons makes it simple to import icons](https://dev.to/ndrohith09/sketch-icons-makes-it-simple-to-import-icons-4kn2)
 - [Lifehacker] [How to Enable ‘Universal Control’ Between Your Mac and iPad](https://lifehacker.com/how-to-enable-universal-control-between-your-mac-and-1848665891)
 - [Lifehacker] [Use These Free Apps to Plan Your Next Woodworking Project](https://lifehacker.com/use-these-free-apps-to-plan-your-next-woodworking-proje-1848664893)
 - [Lifehacker] [Relive Your Glory Days With These Retro TV Sites](https://lifehacker.com/relive-your-glory-days-with-these-retro-tv-sites-1848662849)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 Movies and TV Shows That Prove the Generation Gap Is Real](https://lifehacker.com/20-movies-and-tv-shows-that-prove-the-generation-gap-is-1848654593)
 - [Lifehacker] [Things You Should Never Say to a Partner &lpar;and What to Say Instead&rpar;](https://lifehacker.com/things-you-should-never-say-to-a-partner-and-what-to-s-1848655032)
 - [Lifehacker] [The Easiest Way to Remove a Picture’s Background on Mac](https://lifehacker.com/the-easiest-way-to-remove-a-picture-s-background-on-mac-1848654661)
-- [Lifehacker] [8 Ways to Add a Little Luck of the Irish to Your St. Patrick&#39;s Day Spread](https://lifehacker.com/8-ways-to-add-a-little-luck-of-the-irish-to-your-st-pa-1848657628)
-- [Lifehacker] [How to Fold Ingredients Together Correctly](https://lifehacker.com/how-to-fold-ingredients-together-correctly-1848657034)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
