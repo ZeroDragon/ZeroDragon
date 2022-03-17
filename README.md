@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Care for &lpar;and Reduce the Appearance of&rpar; a Scar](https://lifehacker.com/how-to-care-for-and-reduce-the-appearance-of-a-scar-1848667011)
 - [Dev.to/JS] [No Tears Guide to Creating E2E Test Scripts for Playwright &amp; Puppeteer](https://dev.to/mikeshi/no-tears-guide-to-creating-e2e-test-scripts-for-playwright-puppeteer-127a)
 - [Dev.to/JS] [Remix Search Engine Optimization](https://dev.to/codegino/remix-search-engine-optimization-5fcf)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 15, 16 &amp; 17](https://dev.to/marvinobig/100-days-of-code-challenge-day-15-16-17-531k)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find the &#39;Evil&#39; Investments Hiding in Your Portfolio](https://lifehacker.com/how-to-find-the-evil-investments-hiding-in-your-portfol-1848661271)
 - [Lifehacker] [Kick Off St. Patrick&#39;s Day With a Guinness Dutch Baby](https://lifehacker.com/kick-off-st-patricks-day-with-a-guinness-dutch-baby-1848658965)
 - [Lifehacker] [How to Fix Drafty Windows Without Replacing Them](https://lifehacker.com/how-to-fix-drafty-windows-without-replacing-them-1848653286)
-- [Lifehacker] [Use the ‘Transparent Note’ App to Get Through Your Next Virtual Meeting or Interview](https://lifehacker.com/use-the-transparent-note-app-to-get-through-your-next-1848660749)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
