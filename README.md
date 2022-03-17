@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No Tears Guide to Creating E2E Test Scripts for Playwright &amp; Puppeteer](https://dev.to/mikeshi/no-tears-guide-to-creating-e2e-test-scripts-for-playwright-puppeteer-127a)
+- [Dev.to/JS] [Remix Search Engine Optimization](https://dev.to/codegino/remix-search-engine-optimization-5fcf)
+- [Dev.to/JS] [100 Days of Code Challenge: Day 15, 16 &amp; 17](https://dev.to/marvinobig/100-days-of-code-challenge-day-15-16-17-531k)
 - [Lifehacker] [How to Deal With a Coworker You Absolutely Hate](https://lifehacker.com/how-to-deal-with-a-coworker-you-absolutely-hate-1848655740)
 - [Lifehacker] [How to Finally Touch Your Toes, Maybe Even Today](https://lifehacker.com/how-to-finally-touch-your-toes-maybe-even-today-1848668349)
 - [Lifehacker] [Season the Lettuce on Your Next Sandwich, You Coward](https://lifehacker.com/season-the-lettuce-on-your-next-sandwich-you-coward-1848668059)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [From &#39;Soulslikes&#39; to &#39;Roguelites,&#39; 12 Video Game Genre Names That Make No Sense](https://lifehacker.com/from-soulslikes-to-roguelites-12-video-game-genre-name-1848663846)
 - [Dev.to/JS] [Code Snippet: Name CSS Split Chunks using MiniCssExtractPlugin](https://dev.to/cbillowes/code-snippet-name-css-split-chunks-using-minicssextractplugin-fg2)
 - [Dev.to/JS] [Top 5 programming languages for 2022](https://dev.to/alltimedevlopment/top-5-programming-languages-for-2022-on5)
-- [Dev.to/JS] [Intro to MongoDB and Mongoose - How Every Web Developer Can Become FullStack With Node.js](https://dev.to/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs-4kpe)
-- [Dev.to/JS] [Create a zx Node.js script as binary with pkg](https://dev.to/zauni/create-a-zx-nodejs-script-as-binary-with-pkg-5abf)
-- [Dev.to/JS] [How to fetch images from and API](https://dev.to/satvik/how-to-fetch-images-from-and-api-5h8h)
 - [Lifehacker] [Everything You Should Do on the First Day of a Remote Job](https://lifehacker.com/everything-you-should-do-on-the-first-day-of-a-remote-j-1848666722)
 - [Lifehacker] [What Is Microsoft Edge&#39;s Efficiency Mode &lpar;and How Can You Enable It&rpar;?](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190)
 - [Lifehacker] [How to Enable ‘Universal Control’ Between Your Mac and iPad](https://lifehacker.com/how-to-enable-universal-control-between-your-mac-and-1848665891)
