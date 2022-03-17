@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FreeVI - Copyright FREE Images from PEXELS](https://dev.to/dabanandamitra/freevi-copyright-free-images-from-pexels-4g84)
+- [Dev.to/JS] [Khăn thấm mồ hôi &amp; Giới thiệu đơn vị cung cấp số lượng lớn, giá gốc tại xưởng tốt nhất](https://dev.to/khannamphong/khan-tham-mo-hoi-gioi-thieu-don-vi-cung-cap-so-luong-lon-gia-goc-tai-xuong-tot-nhat-731)
+- [Dev.to/JS] [Guidelines for Translating Your Project using i18next](https://dev.to/theaccordance/a-guide-for-translating-your-project-using-i18next-5dp7)
 - [Dev.to/JS] [WHAT ARE THE DIFFERENCES BETWEEN WEB3 AND WEB2?](https://dev.to/davidsalexande3/what-are-the-differences-between-web3-and-web2-kem)
 - [Dev.to/JS] [Working with Vercel](https://dev.to/hek5118/working-with-vercel-54o2)
 - [Dev.to/JS] [The dreaded AWS error : Cannot find version xx.x for postgres](https://dev.to/aws-builders/the-dreaded-aws-error-cannot-find-version-xxx-for-postgres-3gkp)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Strapi v4 - Extend core controller and create custom routes](https://dev.to/justinkarso/strapi-v4-extend-core-controller-and-create-custom-routes-18kc)
 - [Dev.to/JS] [10-12 of 100 Days of Code](https://dev.to/nkemdev/10-12-of-100-days-of-code-4jkf)
 - [Lifehacker] [A Last-Minute Guide to Building Your March Madness Bracket](https://lifehacker.com/a-last-minute-guide-to-building-your-march-madness-brac-1848663607)
-- [Dev.to/JS] [O Básico: Express - Rotas](https://dev.to/gabrielhsilvestre/o-basico-express-rotas-4i70)
-- [Dev.to/JS] [In Need of 100 Days of Code Ideas](https://dev.to/tmchuynh/in-need-of-100-days-of-code-ideas-4g81)
 - [Lifehacker] [Weird but Surprisingly Practical Uses for Scotch Tape](https://lifehacker.com/weird-but-practical-ways-you-arent-using-scotch-tape-1848662336)
-- [Dev.to/JS] [Celebrating Telescope&#39;s 3000th Issue and PR: Progress](https://dev.to/belokond/celebrating-telescopes-3000th-issue-and-pr-progress-3p27)
 - [Lifehacker] [How To Recognize Signs Of An Eating Disorder In Kids And Teens](https://lifehacker.com/how-to-recognize-signs-of-an-eating-disorder-in-kids-an-1848651214)
 - [Lifehacker] [Smart, Accomplished People Are Falling for These ‘Jobfishing’ Employment Scams](https://lifehacker.com/smart-accomplished-people-are-falling-for-these-jobfi-1848661295)
 - [Lifehacker] [Everything You Need to Know About Stock Splits &lpar;and Reverse Stock Splits&rpar;](https://lifehacker.com/everything-you-need-to-know-about-stock-splits-and-rev-1848661571)
