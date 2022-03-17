@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Chili Powder, Pepper-Specific Chili Powder, and Chili Flakes](https://lifehacker.com/the-difference-between-chili-powder-pepper-specific-ch-1848664128)
+- [Lifehacker] [How to Ease Back Into Running This Spring Without Getting Injured](https://lifehacker.com/how-to-ease-back-into-running-this-spring-without-getti-1848657363)
+- [Dev.to/JS] [I decided that my commercial product MySigMail Card &lpar;HTML email template builder&rpar; will also become open source 🎉](https://dev.to/antonreshetov/i-decided-that-my-commercial-product-mysigmail-card-html-email-template-builder-will-also-become-open-source-351b)
+- [Dev.to/JS] [Open source ecommerce - How Medusa compares to Shopify](https://dev.to/medusajs/open-source-ecommerce-how-medusa-compares-to-shopify-3ef)
 - [Dev.to/JS] [Javascript: Async race conditions](https://dev.to/devsimplicity/javascript-async-race-conditions-mam)
 - [Dev.to/JS] [A Small Trick about JSX Tag Names](https://dev.to/a89529294/a-small-trick-about-jsx-tag-names-4edo)
 - [Dev.to/JS] [Running a dedicated local server for a VS Code debugging session using tasks](https://dev.to/codepo8/running-a-dedicated-local-server-for-a-vs-code-debugging-session-using-tasks-25ck)
 - [Dev.to/JS] [POST FormData to JSON object array with ReacStrap Form and Express](https://dev.to/jc03ceige/post-formdata-to-json-object-array-with-reacstrap-form-and-express-na3)
 - [Dev.to/JS] [Apple will only accept apps built with Xcode 13 starting next month](https://dev.to/saycheese/apple-will-only-accept-apps-built-with-xcode-13-starting-next-month-2joo)
 - [Dev.to/JS] [The Complete Guide to Micro Frontend with React.js for 2022](https://dev.to/devsmitra/the-complete-guide-to-micro-frontend-with-reactjs-for-2022-36b2)
+- [Dev.to/JS] [How to Build a Progress Bar in JavaScript Using a Linear Gauge](https://dev.to/syncfusion/how-to-build-a-progress-bar-in-javascript-using-a-linear-gauge-95g)
 - [Dev.to/JS] [Unexpected token &lt; in json at position 0 fetch api](https://dev.to/mrpaulishaili/unexpected-token-in-json-at-position-0-fetch-api-26cl)
 - [Dev.to/JS] [How to Use Multiple Template Engines within One Class?](https://dev.to/610470416/how-to-use-multiple-template-engines-within-one-class-egj)
 - [Dev.to/JS] [Var vs Const vs Let &lpar;JavaScript&rpar;](https://dev.to/hardikmirg/var-vs-const-vs-let-javascript-2530)
-- [Dev.to/JS] [Denormaliztion ,its pros and cons](https://dev.to/marrie/denormaliztion-its-pros-and-cons-4h6d)
-- [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 5](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-5-25d)
-- [Dev.to/JS] [Publishing your websites to Cloud Hosting](https://dev.to/hdgurkey/publishing-your-websites-to-cloud-hosting-kf5)
 - [Lifehacker] [A Last-Minute Guide to Building Your March Madness Bracket](https://lifehacker.com/a-last-minute-guide-to-building-your-march-madness-brac-1848663607)
 - [Lifehacker] [Weird but Surprisingly Practical Uses for Scotch Tape](https://lifehacker.com/weird-but-practical-ways-you-arent-using-scotch-tape-1848662336)
 - [Lifehacker] [How To Recognize Signs Of An Eating Disorder In Kids And Teens](https://lifehacker.com/how-to-recognize-signs-of-an-eating-disorder-in-kids-an-1848651214)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Great New Features for Your iPhone and Mac](https://lifehacker.com/5-great-new-features-for-your-iphone-and-mac-1848656725)
 - [Lifehacker] [When You Really Need to Replace Your Running Shoes, According to Reddit](https://lifehacker.com/when-you-really-need-to-replace-your-running-shoes-acc-1848654849)
 - [Lifehacker] [Spike Your Pancakes With Irish Cream](https://lifehacker.com/spike-your-pancakes-with-irish-cream-1848656004)
-- [Lifehacker] [What Is &#39;the Ides of March,&#39; and Should You Beware It?](https://lifehacker.com/what-is-the-ides-of-march-and-should-you-beware-it-1848656017)
-- [Lifehacker] [How to Replace a Broken Window Screen for Less Than $20](https://lifehacker.com/how-to-replace-a-broken-window-screen-for-less-than-20-1848653405)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
