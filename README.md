@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [From &#39;Soulslikes&#39; to &#39;Roguelites,&#39; 12 Video Game Genre Names That Make No Sense](https://lifehacker.com/from-soulslikes-to-roguelites-12-video-game-genre-name-1848663846)
+- [Dev.to/JS] [Code Snippet: Name CSS Split Chunks using MiniCssExtractPlugin](https://dev.to/cbillowes/code-snippet-name-css-split-chunks-using-minicssextractplugin-fg2)
+- [Dev.to/JS] [Top 5 programming languages for 2022](https://dev.to/alltimedevlopment/top-5-programming-languages-for-2022-on5)
+- [Dev.to/JS] [Intro to MongoDB and Mongoose - How Every Web Developer Can Become FullStack With Node.js](https://dev.to/dastasoft/intro-to-mongodb-and-mongoose-how-every-web-developer-can-become-fullstack-with-nodejs-4kpe)
+- [Dev.to/JS] [Create a zx Node.js script as binary with pkg](https://dev.to/zauni/create-a-zx-nodejs-script-as-binary-with-pkg-5abf)
 - [Dev.to/JS] [How to fetch images from and API](https://dev.to/satvik/how-to-fetch-images-from-and-api-5h8h)
+- [Lifehacker] [Everything You Should Do on the First Day of a Remote Job](https://lifehacker.com/everything-you-should-do-on-the-first-day-of-a-remote-j-1848666722)
 - [Dev.to/JS] [Payload CMS Version 0.15.0 brings publishing, versions, performance, more](https://dev.to/payloadcms/payload-cms-version-0150-brings-publishing-versions-performance-and-more-2dj6)
 - [Dev.to/JS] [Partiendo de la base](https://dev.to/lavozmedellin/partiendo-de-la-base-1ilh)
 - [Dev.to/JS] [En este sentido](https://dev.to/lavozmedellin/en-este-sentido-2204)
@@ -32,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Microsoft Edge&#39;s Efficiency Mode &lpar;and How Can You Enable It&rpar;?](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190)
 - [Dev.to/JS] [Understanding JWT](https://dev.to/ammarraneez/understanding-jwt-b54)
 - [Dev.to/JS] [Sketch-icons makes it simple to import icons](https://dev.to/ndrohith09/sketch-icons-makes-it-simple-to-import-icons-4kn2)
-- [Dev.to/JS] [Exploring SvelteKit in 2022 by Building a Portfolio Website](https://dev.to/asayerio_techblog/exploring-sveltekit-in-2022-by-building-a-portfolio-website-557o)
 - [Lifehacker] [How to Enable ‘Universal Control’ Between Your Mac and iPad](https://lifehacker.com/how-to-enable-universal-control-between-your-mac-and-1848665891)
-- [Dev.to/JS] [npm package](https://dev.to/nikhilgupt58/npm-package-5664)
-- [Dev.to/JS] [3 nice little JavaScript tips that you will want to use!](https://dev.to/quality_pre/3-nice-little-javascript-tips-that-you-will-want-to-use-4ib0)
-- [Dev.to/JS] [How to Change Node.JS Version](https://dev.to/smpnjn/how-to-change-nodejs-version-34b7)
 - [Lifehacker] [Use These Free Apps to Plan Your Next Woodworking Project](https://lifehacker.com/use-these-free-apps-to-plan-your-next-woodworking-proje-1848664893)
 - [Lifehacker] [Relive Your Glory Days With These Retro TV Sites](https://lifehacker.com/relive-your-glory-days-with-these-retro-tv-sites-1848662849)
 - [Lifehacker] [The Difference Between Chili Powder, Pepper-Specific Chili Powder, and Chili Flakes](https://lifehacker.com/the-difference-between-chili-powder-pepper-specific-ch-1848664128)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Remove a Picture’s Background on Mac](https://lifehacker.com/the-easiest-way-to-remove-a-picture-s-background-on-mac-1848654661)
 - [Lifehacker] [8 Ways to Add a Little Luck of the Irish to Your St. Patrick&#39;s Day Spread](https://lifehacker.com/8-ways-to-add-a-little-luck-of-the-irish-to-your-st-pa-1848657628)
 - [Lifehacker] [How to Fold Ingredients Together Correctly](https://lifehacker.com/how-to-fold-ingredients-together-correctly-1848657034)
-- [Lifehacker] [Why You Really Shouldn’t Wait to Book Your Summer Travel](https://lifehacker.com/why-you-really-shouldn-t-wait-to-book-your-summer-trave-1848656739)
-- [Lifehacker] [Is Costco Really Better Than Sam&#39;s Club?](https://lifehacker.com/is-costco-really-better-than-sams-club-1848657162)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
