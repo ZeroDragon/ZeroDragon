@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modules in React](https://dev.to/georgeoffley/modules-in-react-274d)
 - [Dev.to/JS] [BIG O&#39;NOTATION : Part 1](https://dev.to/munavvarsinan/big-onotation-part-1-4fd9)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Dev.to/JS] [if !obj.nil?](https://dev.to/franciscello/if-objnil-4den)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [4 Top Websites To Take Web Design Motivation For New Website](https://dev.to/itsmeakankshak/4-top-websites-to-take-web-design-motivation-for-new-website-3mg1)
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848672174)
 - [Dev.to/JS] [🏋 &quot;RAIL&quot;, Important way of thinking about frontend performance](https://dev.to/kaziusan/rail-important-way-of-thinking-about-frontend-performance-97i)
-- [Dev.to/JS] [Laravel Sanctum Authentication for React App using Breeze](https://dev.to/nilanth/laravel-sanctum-authentication-for-react-app-using-breeze-2l5f)
 - [Lifehacker] [14 Ways to Achieve Immortality That Will Totally Work, I Swear](https://lifehacker.com/14-ways-to-achieve-immortality-that-will-totally-work-1848668929)
 - [Lifehacker] [These Hangover &#39;Cures&#39; Are BS](https://lifehacker.com/these-hangover-cures-are-bullshit-1848671926)
 - [Lifehacker] [How to Tell If Someone Is Stealing Your Wifi &lpar;and Boot Them Off&rpar;](https://lifehacker.com/how-to-tell-if-someone-is-stealing-your-wifi-and-boot-1848669997)
