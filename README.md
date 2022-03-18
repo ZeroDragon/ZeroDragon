@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I created a react animation in CSS](https://dev.to/himanshupal0001/i-created-a-react-animation-in-css-5a5g)
+- [Dev.to/JS] [Why We Should Use Context API Instead of Redux For New React Apps](https://dev.to/mushfiqweb/why-we-should-use-context-api-instead-of-redux-for-new-react-apps-2i4f)
+- [Dev.to/JS] [Live Session Replay Through OpenReplay Assist](https://dev.to/asayerio_techblog/live-session-replay-through-openreplay-assist-449e)
 - [Dev.to/JS] [Building a business from scratch - day 8](https://dev.to/twankrui/building-a-business-from-scratch-day-8-e6h)
 - [Dev.to/JS] [Hiding ids with express](https://dev.to/urosstok/hiding-ids-with-express-2lin)
 - [Dev.to/JS] [NEXTJS: getServerSideProps not working into components](https://dev.to/codewithkenn/nextjs-getserversideprops-not-working-into-components-4gf7)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useStorage -Custom Hook in Next.js](https://dev.to/danielbellmas/custom-usestorage-hook-in-nextjs-382b)
 - [Dev.to/JS] [React Project Deployment](https://dev.to/47karimasif/react-project-deployment-5953)
 - [Dev.to/JS] [Explaining the new internationalization features in Safari 15.4](https://dev.to/alangdm/explaining-the-new-internationalization-features-in-safari-154-7li)
-- [Dev.to/JS] [As soon as I put in a &quot;data-client-token&quot;, the PayPal button refuses draw. Any idea why?](https://dev.to/bugmagnet/as-soon-as-i-put-in-a-data-client-token-the-paypal-button-refuses-draw-any-idea-why-3n0a)
-- [Dev.to/JS] [Web Performance Optimization: First Input Delay &lpar;FID&rpar;](https://dev.to/gokulpg/web-performance-optimization-first-input-delay-fid-1kp)
-- [Dev.to/JS] [Personal Portfolio: Importance of self branding for developers](https://dev.to/adarshajit/importance-of-self-branding-for-developers-33eo)
 - [Lifehacker] [How to Care for &lpar;and Reduce the Appearance of&rpar; a Scar](https://lifehacker.com/how-to-care-for-and-reduce-the-appearance-of-a-scar-1848667011)
 - [Lifehacker] [How to Deal With a Coworker You Absolutely Hate](https://lifehacker.com/how-to-deal-with-a-coworker-you-absolutely-hate-1848655740)
 - [Lifehacker] [How to Finally Touch Your Toes, Maybe Even Today](https://lifehacker.com/how-to-finally-touch-your-toes-maybe-even-today-1848668349)
