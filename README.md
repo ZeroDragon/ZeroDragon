@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a business from scratch - day 8](https://dev.to/twankrui/building-a-business-from-scratch-day-8-e6h)
+- [Dev.to/JS] [Hiding ids with express](https://dev.to/urosstok/hiding-ids-with-express-2lin)
+- [Dev.to/JS] [NEXTJS: getServerSideProps not working into components](https://dev.to/codewithkenn/nextjs-getserversideprops-not-working-into-components-4gf7)
+- [Dev.to/JS] [DevTips Daily Update 18/03/22](https://dev.to/codebubb/devtips-daily-update-180322-34f2)
 - [Dev.to/JS] [How to report CloudWatch metrics without AWS SDK](https://dev.to/mthenw/how-to-report-cloudwatch-metrics-without-aws-sdk-2ip)
 - [Dev.to/JS] [Interaction in Javascript](https://dev.to/bilalniaz15/interaction-in-javascript-34p8)
-- [Dev.to/JS] [Custom useStorage hook in Next.js](https://dev.to/danielbellmas/custom-usestorage-hook-in-nextjs-382b)
+- [Dev.to/JS] [useStorage -Custom Hook in Next.js](https://dev.to/danielbellmas/custom-usestorage-hook-in-nextjs-382b)
 - [Dev.to/JS] [React Project Deployment](https://dev.to/47karimasif/react-project-deployment-5953)
 - [Dev.to/JS] [Explaining the new internationalization features in Safari 15.4](https://dev.to/alangdm/explaining-the-new-internationalization-features-in-safari-154-7li)
 - [Dev.to/JS] [As soon as I put in a &quot;data-client-token&quot;, the PayPal button refuses draw. Any idea why?](https://dev.to/bugmagnet/as-soon-as-i-put-in-a-data-client-token-the-paypal-button-refuses-draw-any-idea-why-3n0a)
 - [Dev.to/JS] [Web Performance Optimization: First Input Delay &lpar;FID&rpar;](https://dev.to/gokulpg/web-performance-optimization-first-input-delay-fid-1kp)
 - [Dev.to/JS] [Personal Portfolio: Importance of self branding for developers](https://dev.to/adarshajit/importance-of-self-branding-for-developers-33eo)
-- [Dev.to/JS] [Template literals and tagged template literals](https://dev.to/ashutoshbw314/template-literals-and-tagged-template-literals-14d4)
-- [Dev.to/JS] [Some of the largest companies using Vue.js](https://dev.to/93lucasp/some-of-the-largest-companies-using-vuejs-4kcp)
-- [Dev.to/JS] [Alpine.js: Displaying API data in a HTML table](https://dev.to/michaelburrows/alpinejs-displaying-api-data-in-a-html-table-4ki1)
-- [Dev.to/JS] [Deleting multiple directories with Nodejs/Javascript](https://dev.to/ethand91/deleting-multiple-directories-with-nodejsjavascript-3kc8)
 - [Lifehacker] [How to Care for &lpar;and Reduce the Appearance of&rpar; a Scar](https://lifehacker.com/how-to-care-for-and-reduce-the-appearance-of-a-scar-1848667011)
 - [Lifehacker] [How to Deal With a Coworker You Absolutely Hate](https://lifehacker.com/how-to-deal-with-a-coworker-you-absolutely-hate-1848655740)
 - [Lifehacker] [How to Finally Touch Your Toes, Maybe Even Today](https://lifehacker.com/how-to-finally-touch-your-toes-maybe-even-today-1848668349)
