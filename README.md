@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BIG O&#39;NOTATION : Part 1](https://dev.to/munavvarsinan/big-onotation-part-1-4fd9)
+- [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
+- [Dev.to/JS] [if !obj.nil?](https://dev.to/franciscello/if-objnil-4den)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Dev.to/JS] [« Unlimited vacation » means « little vacation ».](https://dev.to/loicpoullain/-unlimited-vacation-means-little-vacation--i72)
 - [Dev.to/JS] [React best practices and patterns to reduce code - Part 2](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-2-54f3)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848672174)
 - [Dev.to/JS] [🏋 &quot;RAIL&quot;, Important way of thinking about frontend performance](https://dev.to/kaziusan/rail-important-way-of-thinking-about-frontend-performance-97i)
 - [Dev.to/JS] [Laravel Sanctum Authentication for React App using Breeze](https://dev.to/nilanth/laravel-sanctum-authentication-for-react-app-using-breeze-2l5f)
-- [Dev.to/JS] [Cloud Resume Challenge COMPLETE](https://dev.to/cfraser17/cloud-resume-challenge-complete-47o4)
-- [Dev.to/JS] [tsParticles 1.42.3 Released](https://dev.to/matteobruni/tsparticles-1423-released-21ge)
 - [Lifehacker] [14 Ways to Achieve Immortality That Will Totally Work, I Swear](https://lifehacker.com/14-ways-to-achieve-immortality-that-will-totally-work-1848668929)
 - [Lifehacker] [These Hangover &#39;Cures&#39; Are BS](https://lifehacker.com/these-hangover-cures-are-bullshit-1848671926)
 - [Lifehacker] [How to Tell If Someone Is Stealing Your Wifi &lpar;and Boot Them Off&rpar;](https://lifehacker.com/how-to-tell-if-someone-is-stealing-your-wifi-and-boot-1848669997)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [50 of the Best Cult Classic Movies Released This Century](https://lifehacker.com/50-new-cult-classic-movies-released-this-century-1848660457)
 - [Lifehacker] [From &#39;Soulslikes&#39; to &#39;Roguelites,&#39; 12 Video Game Genre Names That Make No Sense](https://lifehacker.com/from-soulslikes-to-roguelites-12-video-game-genre-name-1848663846)
 - [Lifehacker] [Everything You Should Do on the First Day of a Remote Job](https://lifehacker.com/everything-you-should-do-on-the-first-day-of-a-remote-j-1848666722)
-- [Lifehacker] [What Is Microsoft Edge&#39;s Efficiency Mode &lpar;and How Can You Enable It&rpar;?](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
