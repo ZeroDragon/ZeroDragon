@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [As soon as I put in a &quot;data-client-token&quot;, the PayPal button refuses draw. Any idea why?](https://dev.to/bugmagnet/as-soon-as-i-put-in-a-data-client-token-the-paypal-button-refuses-draw-any-idea-why-3n0a)
+- [Dev.to/JS] [Web Performance Optimization: First Input Delay &lpar;FID&rpar;](https://dev.to/gokulpg/web-performance-optimization-first-input-delay-fid-1kp)
 - [Dev.to/JS] [Personal Portfolio: Importance of self branding for developers](https://dev.to/adarshajit/importance-of-self-branding-for-developers-33eo)
 - [Dev.to/JS] [Template literals and tagged template literals](https://dev.to/ashutoshbw314/template-literals-and-tagged-template-literals-14d4)
 - [Dev.to/JS] [Some of the largest companies using Vue.js](https://dev.to/93lucasp/some-of-the-largest-companies-using-vuejs-4kcp)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Contact form without backend using JavaScript 💡](https://dev.to/zougari47/contact-form-without-backend-using-javascript-4a8c)
 - [Lifehacker] [How to Care for &lpar;and Reduce the Appearance of&rpar; a Scar](https://lifehacker.com/how-to-care-for-and-reduce-the-appearance-of-a-scar-1848667011)
 - [Dev.to/JS] [No Tears Guide to Creating E2E Test Scripts for Playwright &amp; Puppeteer](https://dev.to/mikeshi/no-tears-guide-to-creating-e2e-test-scripts-for-playwright-puppeteer-127a)
-- [Dev.to/JS] [Remix Search Engine Optimization](https://dev.to/codegino/remix-search-engine-optimization-5fcf)
-- [Dev.to/JS] [100 Days of Code Challenge: Day 15, 16 &amp; 17](https://dev.to/marvinobig/100-days-of-code-challenge-day-15-16-17-531k)
 - [Lifehacker] [How to Deal With a Coworker You Absolutely Hate](https://lifehacker.com/how-to-deal-with-a-coworker-you-absolutely-hate-1848655740)
 - [Lifehacker] [How to Finally Touch Your Toes, Maybe Even Today](https://lifehacker.com/how-to-finally-touch-your-toes-maybe-even-today-1848668349)
 - [Lifehacker] [Season the Lettuce on Your Next Sandwich, You Coward](https://lifehacker.com/season-the-lettuce-on-your-next-sandwich-you-coward-1848668059)
