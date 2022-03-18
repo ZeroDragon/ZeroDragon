@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Zigzag Direction](https://dev.to/seth_king/zigzag-direction-bim)
 - [Dev.to/JS] [10 Tips to Improve The UX In Your Site 😎️](https://dev.to/bestofstuff/10-tips-to-improve-the-ux-in-your-site-2066)
 - [Dev.to/JS] [Setup JWT authentication in MERN from scratch](https://dev.to/jeffreythecoder/setup-jwt-authentication-in-mern-from-scratch-ib4)
 - [Dev.to/JS] [Contact form without backend using JavaScript 💡](https://dev.to/zougari47/contact-form-without-backend-using-javascript-4a8c)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple&#39;s Latest Update Can Brick Your Mac](https://lifehacker.com/apples-latest-update-can-brick-your-mac-1848666760)
 - [Lifehacker] [The Fastest Way to Restore a Bricked Apple Watch](https://lifehacker.com/the-fastest-way-to-restore-a-bricked-apple-watch-1848666723)
 - [Dev.to/JS] [Swap Nodes in Pairs - Daily JS &lpar;Day 20&rpar;](https://dev.to/tanvirrahman/swap-nodes-in-pairs-daily-js-day-20-3h36)
-- [Dev.to/JS] [Text Typing Animation](https://dev.to/sanketbodake/text-typing-animation-59n2)
 - [Lifehacker] [50 of the Best Cult Classic Movies Released This Century](https://lifehacker.com/50-new-cult-classic-movies-released-this-century-1848660457)
 - [Lifehacker] [From &#39;Soulslikes&#39; to &#39;Roguelites,&#39; 12 Video Game Genre Names That Make No Sense](https://lifehacker.com/from-soulslikes-to-roguelites-12-video-game-genre-name-1848663846)
 - [Lifehacker] [Everything You Should Do on the First Day of a Remote Job](https://lifehacker.com/everything-you-should-do-on-the-first-day-of-a-remote-j-1848666722)
