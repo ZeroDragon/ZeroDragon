@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All you need to know about functions in JavaScript](https://dev.to/efkumah/all-you-need-to-know-about-functions-in-javascript-43di)
+- [Dev.to/JS] [Testing modern ReactJS Application: Unit Testing&lpar;Part 2&rpar;](https://dev.to/mr0bread/testing-modern-reactjs-application-unit-testingpart-2-25m7)
 - [Dev.to/JS] [Make VS Code better by editing and updating some settings](https://dev.to/jcofman/make-vs-code-better-by-editing-and-updating-some-settings-4m9a)
 - [Dev.to/JS] [Introducción a Redux](https://dev.to/leobar37/guia-rapida-de-redux-p1-3i4p)
 - [Dev.to/JS] [Making Fetch Happen in Vanilla JavaScript](https://dev.to/valenciawhite/making-fetch-happen-in-vanilla-javascript-4e2l)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
 - [Dev.to/JS] [Introduction to Bulma: A Simple and Intuitive CSS Framework](https://dev.to/asayerio_techblog/introduction-to-bulma-a-simple-and-intuitive-css-framework-5b5m)
 - [Dev.to/JS] [React Context for Beginners](https://dev.to/sananayab/react-context-for-beginners-1egf)
-- [Dev.to/JS] [no Framework JS](https://dev.to/kolja/no-framework-js-3nba)
 - [Lifehacker] [Stop Adding Banana Peels to Your Plants &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-adding-banana-peels-to-your-plants-and-do-this-in-1848673011)
-- [Dev.to/JS] [10 General Backend Interview Questions With Answers](https://dev.to/techmaniacc/10-general-backend-interview-questions-with-answers-29cg)
 - [Lifehacker] [Should You Buy a Vacation Home Before a Starter Home?](https://lifehacker.com/should-you-buy-a-vacation-home-before-a-starter-home-1848672753)
 - [Lifehacker] [7 Masturbation Myths That Need to Be Debunked Once and for All](https://lifehacker.com/7-masturbation-myths-that-need-to-be-debunked-once-and-1848657693)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Jerks Mad at &#39;Turning Red&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-a-1848672102)
