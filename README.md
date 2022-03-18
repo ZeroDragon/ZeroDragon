@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to report CloudWatch metrics without AWS SDK](https://dev.to/mthenw/how-to-report-cloudwatch-metrics-without-aws-sdk-2ip)
+- [Dev.to/JS] [Interaction in Javascript](https://dev.to/bilalniaz15/interaction-in-javascript-34p8)
+- [Dev.to/JS] [Custom useStorage hook in Next.js](https://dev.to/danielbellmas/custom-usestorage-hook-in-nextjs-382b)
+- [Dev.to/JS] [React Project Deployment](https://dev.to/47karimasif/react-project-deployment-5953)
+- [Dev.to/JS] [Explaining the new internationalization features in Safari 15.4](https://dev.to/alangdm/explaining-the-new-internationalization-features-in-safari-154-7li)
 - [Dev.to/JS] [As soon as I put in a &quot;data-client-token&quot;, the PayPal button refuses draw. Any idea why?](https://dev.to/bugmagnet/as-soon-as-i-put-in-a-data-client-token-the-paypal-button-refuses-draw-any-idea-why-3n0a)
 - [Dev.to/JS] [Web Performance Optimization: First Input Delay &lpar;FID&rpar;](https://dev.to/gokulpg/web-performance-optimization-first-input-delay-fid-1kp)
 - [Dev.to/JS] [Personal Portfolio: Importance of self branding for developers](https://dev.to/adarshajit/importance-of-self-branding-for-developers-33eo)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Some of the largest companies using Vue.js](https://dev.to/93lucasp/some-of-the-largest-companies-using-vuejs-4kcp)
 - [Dev.to/JS] [Alpine.js: Displaying API data in a HTML table](https://dev.to/michaelburrows/alpinejs-displaying-api-data-in-a-html-table-4ki1)
 - [Dev.to/JS] [Deleting multiple directories with Nodejs/Javascript](https://dev.to/ethand91/deleting-multiple-directories-with-nodejsjavascript-3kc8)
-- [Dev.to/JS] [Zigzag Direction](https://dev.to/seth_king/zigzag-direction-bim)
-- [Dev.to/JS] [10 Tips to Improve The UX In Your Site 😎️](https://dev.to/bestofstuff/10-tips-to-improve-the-ux-in-your-site-2066)
-- [Dev.to/JS] [Setup JWT authentication in MERN from scratch](https://dev.to/jeffreythecoder/setup-jwt-authentication-in-mern-from-scratch-ib4)
-- [Dev.to/JS] [Contact form without backend using JavaScript 💡](https://dev.to/zougari47/contact-form-without-backend-using-javascript-4a8c)
 - [Lifehacker] [How to Care for &lpar;and Reduce the Appearance of&rpar; a Scar](https://lifehacker.com/how-to-care-for-and-reduce-the-appearance-of-a-scar-1848667011)
-- [Dev.to/JS] [No Tears Guide to Creating E2E Test Scripts for Playwright &amp; Puppeteer](https://dev.to/mikeshi/no-tears-guide-to-creating-e2e-test-scripts-for-playwright-puppeteer-127a)
 - [Lifehacker] [How to Deal With a Coworker You Absolutely Hate](https://lifehacker.com/how-to-deal-with-a-coworker-you-absolutely-hate-1848655740)
 - [Lifehacker] [How to Finally Touch Your Toes, Maybe Even Today](https://lifehacker.com/how-to-finally-touch-your-toes-maybe-even-today-1848668349)
 - [Lifehacker] [Season the Lettuce on Your Next Sandwich, You Coward](https://lifehacker.com/season-the-lettuce-on-your-next-sandwich-you-coward-1848668059)
