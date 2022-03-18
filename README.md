@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 General Backend Interview Questions With Answers](https://dev.to/techmaniacc/10-general-backend-interview-questions-with-answers-29cg)
+- [Dev.to/JS] [How to create interfaces in TypeScript](https://dev.to/aneeqakhan/how-to-create-interfaces-in-typescript-24gp)
+- [Lifehacker] [Should You Buy a Vacation Home Before a Starter Home?](https://lifehacker.com/should-you-buy-a-vacation-home-before-a-starter-home-1848672753)
+- [Lifehacker] [7 Masturbation Myths That Need to Be Debunked Once and for All](https://lifehacker.com/7-masturbation-myths-that-need-to-be-debunked-once-and-1848657693)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Jerks Mad at &#39;Turning Red&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-a-1848672102)
 - [Dev.to/JS] [4 Top Websites To Take Web Design Motivation For New Website](https://dev.to/itsmeakankshak/4-top-websites-to-take-web-design-motivation-for-new-website-3mg1)
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848672174)
@@ -37,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Game engine in web - part 2 - data oriented system](https://dev.to/ioannisnoukakis/game-engine-in-web-part-2-data-oriented-system-1p2n)
 - [Dev.to/JS] [Ultimate Guide to Types in Typescript](https://dev.to/smpnjn/ultimate-guide-to-types-in-typescript-5a2l)
 - [Dev.to/JS] [How to Build a Live Streaming Web Application with Amazon IVS and Deepgram: Vue and Express Setup](https://dev.to/deepgram/how-to-build-a-live-streaming-web-application-with-amazon-ivs-and-deepgram-vue-and-express-setup-2p33)
-- [Dev.to/JS] [Amazing Resources for Web Developers](https://dev.to/suprabhasupi/amazing-resources-for-web-developers-ma9)
 - [Lifehacker] [How to Tell If Someone Is Stealing Your Wifi &lpar;and Boot Them Off&rpar;](https://lifehacker.com/how-to-tell-if-someone-is-stealing-your-wifi-and-boot-1848669997)
-- [Dev.to/JS] [Laravel Eloquent One To One Relationship](https://dev.to/laravellercom/laravel-eloquent-one-to-one-relationship-9go)
 - [Lifehacker] [How to Get Your Stuff Back After a Bad Breakup](https://lifehacker.com/how-to-get-your-stuff-back-after-a-bad-breakup-1848663369)
 - [Lifehacker] [When to Tell Your Coworkers Your Salary &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-tell-your-coworkers-your-salary-and-when-you-s-1848668657)
 - [Lifehacker] [10 of the Best Crops to Grow With Children](https://lifehacker.com/10-of-the-best-crops-to-grow-with-children-1848666436)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Enable ‘Universal Control’ Between Your Mac and iPad](https://lifehacker.com/how-to-enable-universal-control-between-your-mac-and-1848665891)
 - [Lifehacker] [Use These Free Apps to Plan Your Next Woodworking Project](https://lifehacker.com/use-these-free-apps-to-plan-your-next-woodworking-proje-1848664893)
 - [Lifehacker] [Relive Your Glory Days With These Retro TV Sites](https://lifehacker.com/relive-your-glory-days-with-these-retro-tv-sites-1848662849)
-- [Lifehacker] [The Difference Between Chili Powder, Pepper-Specific Chili Powder, and Chili Flakes](https://lifehacker.com/the-difference-between-chili-powder-pepper-specific-ch-1848664128)
-- [Lifehacker] [How to Ease Back Into Running This Spring Without Getting Injured](https://lifehacker.com/how-to-ease-back-into-running-this-spring-without-getti-1848657363)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
