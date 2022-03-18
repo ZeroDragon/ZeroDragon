@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make VS Code better by editing and updating some settings](https://dev.to/jcofman/make-vs-code-better-by-editing-and-updating-some-settings-4m9a)
+- [Dev.to/JS] [Introducción a Redux](https://dev.to/leobar37/guia-rapida-de-redux-p1-3i4p)
+- [Dev.to/JS] [Making Fetch Happen in Vanilla JavaScript](https://dev.to/valenciawhite/making-fetch-happen-in-vanilla-javascript-4e2l)
 - [Dev.to/JS] [Modules in React](https://dev.to/georgeoffley/modules-in-react-274d)
 - [Dev.to/JS] [BIG O&#39;NOTATION : Part 1](https://dev.to/munavvarsinan/big-onotation-part-1-4fd9)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
@@ -36,13 +39,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [no Framework JS](https://dev.to/kolja/no-framework-js-3nba)
 - [Lifehacker] [Stop Adding Banana Peels to Your Plants &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-adding-banana-peels-to-your-plants-and-do-this-in-1848673011)
 - [Dev.to/JS] [10 General Backend Interview Questions With Answers](https://dev.to/techmaniacc/10-general-backend-interview-questions-with-answers-29cg)
-- [Dev.to/JS] [How to create interfaces in TypeScript](https://dev.to/aneeqakhan/how-to-create-interfaces-in-typescript-24gp)
 - [Lifehacker] [Should You Buy a Vacation Home Before a Starter Home?](https://lifehacker.com/should-you-buy-a-vacation-home-before-a-starter-home-1848672753)
 - [Lifehacker] [7 Masturbation Myths That Need to Be Debunked Once and for All](https://lifehacker.com/7-masturbation-myths-that-need-to-be-debunked-once-and-1848657693)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Jerks Mad at &#39;Turning Red&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-a-1848672102)
-- [Dev.to/JS] [4 Top Websites To Take Web Design Motivation For New Website](https://dev.to/itsmeakankshak/4-top-websites-to-take-web-design-motivation-for-new-website-3mg1)
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848672174)
-- [Dev.to/JS] [🏋 &quot;RAIL&quot;, Important way of thinking about frontend performance](https://dev.to/kaziusan/rail-important-way-of-thinking-about-frontend-performance-97i)
 - [Lifehacker] [14 Ways to Achieve Immortality That Will Totally Work, I Swear](https://lifehacker.com/14-ways-to-achieve-immortality-that-will-totally-work-1848668929)
 - [Lifehacker] [These Hangover &#39;Cures&#39; Are BS](https://lifehacker.com/these-hangover-cures-are-bullshit-1848671926)
 - [Lifehacker] [How to Tell If Someone Is Stealing Your Wifi &lpar;and Boot Them Off&rpar;](https://lifehacker.com/how-to-tell-if-someone-is-stealing-your-wifi-and-boot-1848669997)
