@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alpine.js: Displaying API data in a HTML table](https://dev.to/michaelburrows/alpinejs-displaying-api-data-in-a-html-table-4ki1)
 - [Dev.to/JS] [Deleting multiple directories with Nodejs/Javascript](https://dev.to/ethand91/deleting-multiple-directories-with-nodejsjavascript-3kc8)
 - [Dev.to/JS] [Zigzag Direction](https://dev.to/seth_king/zigzag-direction-bim)
 - [Dev.to/JS] [10 Tips to Improve The UX In Your Site 😎️](https://dev.to/bestofstuff/10-tips-to-improve-the-ux-in-your-site-2066)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Complete Guide to covert Image To Text and text to speech with Javascript](https://dev.to/devsmitra/the-complete-guide-to-covert-image-to-text-and-text-to-speech-with-javascript-15gp)
 - [Dev.to/JS] [40+ JavaScript Project For Newbies [ Beginners - Advance]](https://dev.to/jscript/40-javascript-project-for-newbies-beginners-advance-3ld5)
 - [Lifehacker] [What the 12-3-30 Workout Gets Wrong &lpar;and What It Gets Right&rpar;](https://lifehacker.com/what-the-12-3-30-workout-gets-wrong-and-what-it-gets-r-1848667798)
-- [Dev.to/JS] [JavaScript Problems](https://dev.to/dpinkston91/javascript-problems-41io)
 - [Lifehacker] [Apple&#39;s Latest Update Can Brick Your Mac](https://lifehacker.com/apples-latest-update-can-brick-your-mac-1848666760)
 - [Lifehacker] [The Fastest Way to Restore a Bricked Apple Watch](https://lifehacker.com/the-fastest-way-to-restore-a-bricked-apple-watch-1848666723)
 - [Lifehacker] [50 of the Best Cult Classic Movies Released This Century](https://lifehacker.com/50-new-cult-classic-movies-released-this-century-1848660457)
