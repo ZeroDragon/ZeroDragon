@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Personal Portfolio: Importance of self branding for developers](https://dev.to/adarshajit/importance-of-self-branding-for-developers-33eo)
+- [Dev.to/JS] [Template literals and tagged template literals](https://dev.to/ashutoshbw314/template-literals-and-tagged-template-literals-14d4)
+- [Dev.to/JS] [Some of the largest companies using Vue.js](https://dev.to/93lucasp/some-of-the-largest-companies-using-vuejs-4kcp)
 - [Dev.to/JS] [Alpine.js: Displaying API data in a HTML table](https://dev.to/michaelburrows/alpinejs-displaying-api-data-in-a-html-table-4ki1)
 - [Dev.to/JS] [Deleting multiple directories with Nodejs/Javascript](https://dev.to/ethand91/deleting-multiple-directories-with-nodejsjavascript-3kc8)
 - [Dev.to/JS] [Zigzag Direction](https://dev.to/seth_king/zigzag-direction-bim)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Deal With a Coworker You Absolutely Hate](https://lifehacker.com/how-to-deal-with-a-coworker-you-absolutely-hate-1848655740)
 - [Lifehacker] [How to Finally Touch Your Toes, Maybe Even Today](https://lifehacker.com/how-to-finally-touch-your-toes-maybe-even-today-1848668349)
 - [Lifehacker] [Season the Lettuce on Your Next Sandwich, You Coward](https://lifehacker.com/season-the-lettuce-on-your-next-sandwich-you-coward-1848668059)
-- [Dev.to/JS] [Streaming Real-Time Chat Messages into Scylla with Apache Pulsar](https://dev.to/tspannhw/streaming-real-time-chat-messages-into-scylla-with-apache-pulsar-4cj5)
-- [Dev.to/JS] [The Complete Guide to covert Image To Text and text to speech with Javascript](https://dev.to/devsmitra/the-complete-guide-to-covert-image-to-text-and-text-to-speech-with-javascript-15gp)
-- [Dev.to/JS] [40+ JavaScript Project For Newbies [ Beginners - Advance]](https://dev.to/jscript/40-javascript-project-for-newbies-beginners-advance-3ld5)
 - [Lifehacker] [What the 12-3-30 Workout Gets Wrong &lpar;and What It Gets Right&rpar;](https://lifehacker.com/what-the-12-3-30-workout-gets-wrong-and-what-it-gets-r-1848667798)
 - [Lifehacker] [Apple&#39;s Latest Update Can Brick Your Mac](https://lifehacker.com/apples-latest-update-can-brick-your-mac-1848666760)
 - [Lifehacker] [The Fastest Way to Restore a Bricked Apple Watch](https://lifehacker.com/the-fastest-way-to-restore-a-bricked-apple-watch-1848666723)
