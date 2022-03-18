@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
+- [Dev.to/JS] [« Unlimited vacation » means « little vacation ».](https://dev.to/loicpoullain/-unlimited-vacation-means-little-vacation--i72)
+- [Dev.to/JS] [React best practices and patterns to reduce code - Part 2](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-2-54f3)
+- [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
+- [Dev.to/JS] [Introduction to Bulma: A Simple and Intuitive CSS Framework](https://dev.to/asayerio_techblog/introduction-to-bulma-a-simple-and-intuitive-css-framework-5b5m)
+- [Dev.to/JS] [React Context for Beginners](https://dev.to/sananayab/react-context-for-beginners-1egf)
+- [Dev.to/JS] [no Framework JS](https://dev.to/kolja/no-framework-js-3nba)
+- [Lifehacker] [Stop Adding Banana Peels to Your Plants &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-adding-banana-peels-to-your-plants-and-do-this-in-1848673011)
 - [Dev.to/JS] [10 General Backend Interview Questions With Answers](https://dev.to/techmaniacc/10-general-backend-interview-questions-with-answers-29cg)
 - [Dev.to/JS] [How to create interfaces in TypeScript](https://dev.to/aneeqakhan/how-to-create-interfaces-in-typescript-24gp)
 - [Lifehacker] [Should You Buy a Vacation Home Before a Starter Home?](https://lifehacker.com/should-you-buy-a-vacation-home-before-a-starter-home-1848672753)
@@ -35,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cloud Resume Challenge COMPLETE](https://dev.to/cfraser17/cloud-resume-challenge-complete-47o4)
 - [Dev.to/JS] [tsParticles 1.42.3 Released](https://dev.to/matteobruni/tsparticles-1423-released-21ge)
 - [Lifehacker] [14 Ways to Achieve Immortality That Will Totally Work, I Swear](https://lifehacker.com/14-ways-to-achieve-immortality-that-will-totally-work-1848668929)
-- [Dev.to/JS] [Promises: run any promise with a timeout](https://dev.to/_hariti/promises-run-any-promise-with-a-timeout-2e2m)
 - [Lifehacker] [These Hangover &#39;Cures&#39; Are BS](https://lifehacker.com/these-hangover-cures-are-bullshit-1848671926)
-- [Dev.to/JS] [Automatically commit your Dev.to articles to your personal GitHub repo](https://dev.to/pipedream_staff/automatically-commit-your-devto-articles-to-your-personal-github-repo-o55)
-- [Dev.to/JS] [Game engine in web - part 2 - data oriented system](https://dev.to/ioannisnoukakis/game-engine-in-web-part-2-data-oriented-system-1p2n)
-- [Dev.to/JS] [Ultimate Guide to Types in Typescript](https://dev.to/smpnjn/ultimate-guide-to-types-in-typescript-5a2l)
-- [Dev.to/JS] [How to Build a Live Streaming Web Application with Amazon IVS and Deepgram: Vue and Express Setup](https://dev.to/deepgram/how-to-build-a-live-streaming-web-application-with-amazon-ivs-and-deepgram-vue-and-express-setup-2p33)
 - [Lifehacker] [How to Tell If Someone Is Stealing Your Wifi &lpar;and Boot Them Off&rpar;](https://lifehacker.com/how-to-tell-if-someone-is-stealing-your-wifi-and-boot-1848669997)
 - [Lifehacker] [How to Get Your Stuff Back After a Bad Breakup](https://lifehacker.com/how-to-get-your-stuff-back-after-a-bad-breakup-1848663369)
 - [Lifehacker] [When to Tell Your Coworkers Your Salary &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-tell-your-coworkers-your-salary-and-when-you-s-1848668657)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [From &#39;Soulslikes&#39; to &#39;Roguelites,&#39; 12 Video Game Genre Names That Make No Sense](https://lifehacker.com/from-soulslikes-to-roguelites-12-video-game-genre-name-1848663846)
 - [Lifehacker] [Everything You Should Do on the First Day of a Remote Job](https://lifehacker.com/everything-you-should-do-on-the-first-day-of-a-remote-j-1848666722)
 - [Lifehacker] [What Is Microsoft Edge&#39;s Efficiency Mode &lpar;and How Can You Enable It&rpar;?](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190)
-- [Lifehacker] [How to Enable ‘Universal Control’ Between Your Mac and iPad](https://lifehacker.com/how-to-enable-universal-control-between-your-mac-and-1848665891)
-- [Lifehacker] [Use These Free Apps to Plan Your Next Woodworking Project](https://lifehacker.com/use-these-free-apps-to-plan-your-next-woodworking-proje-1848664893)
-- [Lifehacker] [Relive Your Glory Days With These Retro TV Sites](https://lifehacker.com/relive-your-glory-days-with-these-retro-tv-sites-1848662849)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
