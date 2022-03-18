@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Jerks Mad at &#39;Turning Red&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-a-1848672102)
+- [Dev.to/JS] [4 Top Websites To Take Web Design Motivation For New Website](https://dev.to/itsmeakankshak/4-top-websites-to-take-web-design-motivation-for-new-website-3mg1)
+- [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848672174)
 - [Dev.to/JS] [🏋 &quot;RAIL&quot;, Important way of thinking about frontend performance](https://dev.to/kaziusan/rail-important-way-of-thinking-about-frontend-performance-97i)
 - [Dev.to/JS] [Laravel Sanctum Authentication for React App using Breeze](https://dev.to/nilanth/laravel-sanctum-authentication-for-react-app-using-breeze-2l5f)
 - [Dev.to/JS] [Cloud Resume Challenge COMPLETE](https://dev.to/cfraser17/cloud-resume-challenge-complete-47o4)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Amazing Resources for Web Developers](https://dev.to/suprabhasupi/amazing-resources-for-web-developers-ma9)
 - [Lifehacker] [How to Tell If Someone Is Stealing Your Wifi &lpar;and Boot Them Off&rpar;](https://lifehacker.com/how-to-tell-if-someone-is-stealing-your-wifi-and-boot-1848669997)
 - [Dev.to/JS] [Laravel Eloquent One To One Relationship](https://dev.to/laravellercom/laravel-eloquent-one-to-one-relationship-9go)
-- [Dev.to/JS] [projects portfolio #5](https://dev.to/baraa_baba/projects-portfolio-5-1l6n)
 - [Lifehacker] [How to Get Your Stuff Back After a Bad Breakup](https://lifehacker.com/how-to-get-your-stuff-back-after-a-bad-breakup-1848663369)
 - [Lifehacker] [When to Tell Your Coworkers Your Salary &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-tell-your-coworkers-your-salary-and-when-you-s-1848668657)
 - [Lifehacker] [10 of the Best Crops to Grow With Children](https://lifehacker.com/10-of-the-best-crops-to-grow-with-children-1848666436)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Relive Your Glory Days With These Retro TV Sites](https://lifehacker.com/relive-your-glory-days-with-these-retro-tv-sites-1848662849)
 - [Lifehacker] [The Difference Between Chili Powder, Pepper-Specific Chili Powder, and Chili Flakes](https://lifehacker.com/the-difference-between-chili-powder-pepper-specific-ch-1848664128)
 - [Lifehacker] [How to Ease Back Into Running This Spring Without Getting Injured](https://lifehacker.com/how-to-ease-back-into-running-this-spring-without-getti-1848657363)
-- [Lifehacker] [A Last-Minute Guide to Building Your March Madness Bracket](https://lifehacker.com/a-last-minute-guide-to-building-your-march-madness-brac-1848663607)
-- [Lifehacker] [Weird but Surprisingly Practical Uses for Scotch Tape](https://lifehacker.com/weird-but-practical-ways-you-arent-using-scotch-tape-1848662336)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
