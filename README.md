@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #81: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-81-explica-este-codigo-javascript-5cjp)
+- [Dev.to/JS] [Composable Tailwind](https://dev.to/nico_bachner/composable-tailwind-5e9e)
+- [Dev.to/JS] [Create Modern slide based landing page with fullpage.js](https://dev.to/thatanjan/modern-slide-based-website-with-fullpagejs-3n9p)
+- [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Dev.to/JS] [Measuring the performance of the McLaren Racing website](https://dev.to/petermekhaeil/measuring-the-performance-of-the-mclaren-racing-website-97k)
 - [Dev.to/JS] [References in javascript](https://dev.to/noumanali/references-in-javascript-5ado)
 - [Dev.to/JS] [Três formas de atribuir classes no angular utilizando ngClass](https://dev.to/maribelniok/tres-formas-de-atribuir-classes-no-angular-utilizando-ngclass-2c2)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web3 Resources with Regular Update🔥🔥🔥](https://dev.to/tanvirrahman/web3-resources-180f)
 - [Dev.to/JS] [Continuous Integration Pipelines with GitHub Actions for &lpar;React&rpar; Developers &lpar;incl screencast&rpar;](https://dev.to/profydev/continuous-integration-pipelines-with-github-actions-for-react-developers-incl-screencast-467)
 - [Dev.to/JS] [Angular &amp; Tailwindcss](https://dev.to/ognanshissi/angular-tailwindcss-d65)
-- [Dev.to/JS] [The Shelter](https://dev.to/abhinandh_c/the-shelter-38f5)
-- [Dev.to/JS] [Data Types &lpar;JavaScript&rpar;](https://dev.to/hardikmirg/data-types-javascript-2gfm)
-- [Dev.to/JS] [Lenses and Partial-application - Going functional one step at a time](https://dev.to/tracygjg/partial-application-going-functional-one-step-at-a-time-3g3h)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple&#39;s Latest Update Can Brick Your Mac](https://lifehacker.com/apples-latest-update-can-brick-your-mac-1848666760)
 - [Lifehacker] [The Fastest Way to Restore a Bricked Apple Watch](https://lifehacker.com/the-fastest-way-to-restore-a-bricked-apple-watch-1848666723)
 - [Lifehacker] [50 of the Best Cult Classic Movies Released This Century](https://lifehacker.com/50-new-cult-classic-movies-released-this-century-1848660457)
-- [Lifehacker] [From &#39;Soulslikes&#39; to &#39;Roguelites,&#39; 12 Video Game Genre Names That Make No Sense](https://lifehacker.com/from-soulslikes-to-roguelites-12-video-game-genre-name-1848663846)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
