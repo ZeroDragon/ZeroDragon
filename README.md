@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Every Javascript Array Method Explained &lpar;with code examples&rpar;](https://dev.to/eludadev/every-javascript-array-method-explained-with-code-examples-1d7b)
+- [Dev.to/JS] [Add Two Numbers - Daily JS &lpar;Day 22&rpar;](https://dev.to/tanvirrahman/add-two-numbers-daily-js-day-22-5al6)
+- [Dev.to/JS] [Table background/text color based on table/database values](https://dev.to/peter44/table-backgroundtext-color-based-on-tabledatabase-values-3074)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
+- [Dev.to/JS] [GraphQL Authentication and Authorization in Node.js](https://dev.to/franciscomendes10866/graphql-authentication-and-authorization-in-nodejs-hm4)
 - [Dev.to/JS] [How to Get Days Between two Dates in JavaScript](https://dev.to/shantanu_jana/how-to-get-days-between-two-dates-in-javascript-1bja)
 - [Dev.to/JS] [Paracetamol.js💊| #81: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-81-explica-este-codigo-javascript-5cjp)
 - [Dev.to/JS] [Composable Tailwind](https://dev.to/nico_bachner/composable-tailwind-5e9e)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [References in javascript](https://dev.to/noumanali/references-in-javascript-5ado)
 - [Dev.to/JS] [Três formas de atribuir classes no angular utilizando ngClass](https://dev.to/maribelniok/tres-formas-de-atribuir-classes-no-angular-utilizando-ngclass-2c2)
 - [Dev.to/JS] [Real Life Example -UseImperativeHandle](https://dev.to/danielbellmas/real-life-example-useimperativehandle-34k)
-- [Dev.to/JS] [The Power of Factory Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-factory-design-pattern-in-javascript-2bf8)
-- [Dev.to/JS] [Promises: async/await vs .then&lpar;&rpar;, how we got here and why I use both](https://dev.to/_hariti/promises-asyncawait-vs-then-how-we-got-here-and-why-i-use-both-emg)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
-- [Dev.to/JS] [Web3 Resources with Regular Update🔥🔥🔥](https://dev.to/tanvirrahman/web3-resources-180f)
-- [Dev.to/JS] [Continuous Integration Pipelines with GitHub Actions for &lpar;React&rpar; Developers &lpar;incl screencast&rpar;](https://dev.to/profydev/continuous-integration-pipelines-with-github-actions-for-react-developers-incl-screencast-467)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
