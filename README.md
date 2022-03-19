@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Power of Factory Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-factory-design-pattern-in-javascript-2bf8)
+- [Dev.to/JS] [Promises: async/await vs .then&lpar;&rpar;, how we got here and why I use both](https://dev.to/_hariti/promises-asyncawait-vs-then-how-we-got-here-and-why-i-use-both-emg)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
+- [Dev.to/JS] [Web3 Resources with Regular Update🔥🔥🔥](https://dev.to/tanvirrahman/web3-resources-180f)
 - [Dev.to/JS] [Continuous Integration Pipelines with GitHub Actions for &lpar;React&rpar; Developers &lpar;incl screencast&rpar;](https://dev.to/profydev/continuous-integration-pipelines-with-github-actions-for-react-developers-incl-screencast-467)
 - [Dev.to/JS] [Angular &amp; Tailwindcss](https://dev.to/ognanshissi/angular-tailwindcss-d65)
 - [Dev.to/JS] [The Shelter](https://dev.to/abhinandh_c/the-shelter-38f5)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Secure Nodejs REST API By Limiting Access to API calls using Express rate Limit](https://dev.to/techfortified/secure-nodejs-rest-api-by-limiting-access-to-api-calls-using-express-rate-limit-p0p)
 - [Dev.to/JS] [Best Web development company in Kerala](https://dev.to/woxro/best-web-development-company-in-kerala-407n)
 - [Dev.to/JS] [Creating a plugin in Dative v2-alpha](https://dev.to/tobithedev/creating-a-plugin-in-dative-v2-alpha-11j3)
-- [Dev.to/JS] [Make Express Server fast Request &amp; Response Using Indexing in mongoDB](https://dev.to/deepakjaiswal/make-express-server-fast-request-response-using-indexing-in-mongodb-49pm)
-- [Dev.to/JS] [{&quot;message&quot;:&quot;path is not defined&quot;,&quot;stack&quot;:null}](https://dev.to/mhmdrameez/messagepath-is-not-definedstacknull-5ag)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;19-03-2022&rpar; - Punk Rock Internet](https://dev.to/mjgs/this-weeks-newsletter-is-out-19-03-2022-punk-rock-internet-e5d)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
