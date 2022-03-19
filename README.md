@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Confirm it... don&#39;t analyze that code](https://dev.to/jibarican/confirm-it-dont-analyze-that-code-28ip)
+- [Dev.to/JS] [Day 30 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1492. The kth Factor of n&lpar;Medium/JavaScript&rpar;](https://dev.to/killingleetcode/day-30-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1492-the-kth-factor-of-nmediumjavascript-6o)
+- [Dev.to/JS] [Integrate Node.js Client for Google Maps Services With a NestJS Application](https://dev.to/marcus_castanho/integrate-nodejs-client-for-google-maps-services-with-a-nestjs-application-46b0)
 - [Dev.to/JS] [All you need to know about functions in JavaScript](https://dev.to/efkumah/all-you-need-to-know-about-functions-in-javascript-43di)
 - [Dev.to/JS] [Testing modern ReactJS Application: Unit Testing&lpar;Part 2&rpar;](https://dev.to/mr0bread/testing-modern-reactjs-application-unit-testingpart-2-25m7)
 - [Dev.to/JS] [Make VS Code better by editing and updating some settings](https://dev.to/jcofman/make-vs-code-better-by-editing-and-updating-some-settings-4m9a)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [if !obj.nil?](https://dev.to/franciscello/if-objnil-4den)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Dev.to/JS] [« Unlimited vacation » means « little vacation ».](https://dev.to/loicpoullain/-unlimited-vacation-means-little-vacation--i72)
-- [Dev.to/JS] [React best practices and patterns to reduce code - Part 2](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-2-54f3)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
-- [Dev.to/JS] [Introduction to Bulma: A Simple and Intuitive CSS Framework](https://dev.to/asayerio_techblog/introduction-to-bulma-a-simple-and-intuitive-css-framework-5b5m)
-- [Dev.to/JS] [React Context for Beginners](https://dev.to/sananayab/react-context-for-beginners-1egf)
 - [Lifehacker] [Stop Adding Banana Peels to Your Plants &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-adding-banana-peels-to-your-plants-and-do-this-in-1848673011)
 - [Lifehacker] [Should You Buy a Vacation Home Before a Starter Home?](https://lifehacker.com/should-you-buy-a-vacation-home-before-a-starter-home-1848672753)
 - [Lifehacker] [7 Masturbation Myths That Need to Be Debunked Once and for All](https://lifehacker.com/7-masturbation-myths-that-need-to-be-debunked-once-and-1848657693)
