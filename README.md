@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MetaLean Complete - Weight Loss Pills, Price, Benefits &amp; Side Effects](https://dev.to/metaleancomple1/metalean-complete-weight-loss-pills-price-benefits-side-effects-2m8p)
 - [Dev.to/JS] [What is React Lifecycle methods and how to use them? Example](https://dev.to/javinpaul/what-is-react-lifecycle-methods-and-how-to-use-them-example-4dbm)
 - [Dev.to/JS] [Learning the basics of web dev by building a weather app](https://dev.to/prajwalkulkarni/learning-the-basics-of-web-dev-by-building-a-weather-app-3l25)
 - [Dev.to/JS] [HasAllChildren](https://dev.to/lizardkinglk/hasallchildren-55lh)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 31 of Studying LeetCode until I Can Solve One on My Own: #1481. Least Number of Unique Integers after K Removals&lpar;M/JS&rpar;](https://dev.to/killingleetcode/day-31-of-studying-leetcode-until-i-can-solve-one-on-my-own-1481-least-number-of-unique-integers-after-k-removalsmjs-ae6)
 - [Dev.to/JS] [Confirm it... don&#39;t analyze that code](https://dev.to/jibarican/confirm-it-dont-analyze-that-code-28ip)
 - [Dev.to/JS] [Day 30 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1492. The kth Factor of n&lpar;Medium/JavaScript&rpar;](https://dev.to/killingleetcode/day-30-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1492-the-kth-factor-of-nmediumjavascript-6o)
-- [Dev.to/JS] [Integrate Node.js Client for Google Maps Services With a NestJS Application](https://dev.to/marcus_castanho/integrate-nodejs-client-for-google-maps-services-with-a-nestjs-application-46b0)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
