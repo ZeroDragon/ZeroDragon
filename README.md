@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular &amp; Tailwindcss](https://dev.to/ognanshissi/angular-tailwindcss-d65)
+- [Dev.to/JS] [The Shelter](https://dev.to/abhinandh_c/the-shelter-38f5)
 - [Dev.to/JS] [Data Types &lpar;JavaScript&rpar;](https://dev.to/hardikmirg/data-types-javascript-2gfm)
 - [Dev.to/JS] [Lenses and Partial-application - Going functional one step at a time](https://dev.to/tracygjg/partial-application-going-functional-one-step-at-a-time-3g3h)
 - [Dev.to/JS] [3 easy ways to interact with users in JS](https://dev.to/bellatrix/3-easy-ways-to-interact-with-users-in-js-5b2l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [{&quot;message&quot;:&quot;path is not defined&quot;,&quot;stack&quot;:null}](https://dev.to/mhmdrameez/messagepath-is-not-definedstacknull-5ag)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;19-03-2022&rpar; - Punk Rock Internet](https://dev.to/mjgs/this-weeks-newsletter-is-out-19-03-2022-punk-rock-internet-e5d)
 - [Dev.to/JS] [MetaLean Complete - Weight Loss Pills, Price, Benefits &amp; Side Effects](https://dev.to/metaleancomple1/metalean-complete-weight-loss-pills-price-benefits-side-effects-2m8p)
-- [Dev.to/JS] [What is React Lifecycle methods and how to use them? Example](https://dev.to/javinpaul/what-is-react-lifecycle-methods-and-how-to-use-them-example-4dbm)
-- [Dev.to/JS] [Learning the basics of web dev by building a weather app](https://dev.to/prajwalkulkarni/learning-the-basics-of-web-dev-by-building-a-weather-app-3l25)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
