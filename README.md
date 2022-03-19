@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
+- [Dev.to/JS] [Continuous Integration Pipelines with GitHub Actions for &lpar;React&rpar; Developers &lpar;incl screencast&rpar;](https://dev.to/profydev/continuous-integration-pipelines-with-github-actions-for-react-developers-incl-screencast-467)
 - [Dev.to/JS] [Angular &amp; Tailwindcss](https://dev.to/ognanshissi/angular-tailwindcss-d65)
 - [Dev.to/JS] [The Shelter](https://dev.to/abhinandh_c/the-shelter-38f5)
 - [Dev.to/JS] [Data Types &lpar;JavaScript&rpar;](https://dev.to/hardikmirg/data-types-javascript-2gfm)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make Express Server fast Request &amp; Response Using Indexing in mongoDB](https://dev.to/deepakjaiswal/make-express-server-fast-request-response-using-indexing-in-mongodb-49pm)
 - [Dev.to/JS] [{&quot;message&quot;:&quot;path is not defined&quot;,&quot;stack&quot;:null}](https://dev.to/mhmdrameez/messagepath-is-not-definedstacknull-5ag)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;19-03-2022&rpar; - Punk Rock Internet](https://dev.to/mjgs/this-weeks-newsletter-is-out-19-03-2022-punk-rock-internet-e5d)
-- [Dev.to/JS] [MetaLean Complete - Weight Loss Pills, Price, Benefits &amp; Side Effects](https://dev.to/metaleancomple1/metalean-complete-weight-loss-pills-price-benefits-side-effects-2m8p)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Fastest Way to Restore a Bricked Apple Watch](https://lifehacker.com/the-fastest-way-to-restore-a-bricked-apple-watch-1848666723)
 - [Lifehacker] [50 of the Best Cult Classic Movies Released This Century](https://lifehacker.com/50-new-cult-classic-movies-released-this-century-1848660457)
 - [Lifehacker] [From &#39;Soulslikes&#39; to &#39;Roguelites,&#39; 12 Video Game Genre Names That Make No Sense](https://lifehacker.com/from-soulslikes-to-roguelites-12-video-game-genre-name-1848663846)
-- [Lifehacker] [Everything You Should Do on the First Day of a Remote Job](https://lifehacker.com/everything-you-should-do-on-the-first-day-of-a-remote-j-1848666722)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
