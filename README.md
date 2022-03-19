@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 easy ways to interact with users in JS](https://dev.to/bellatrix/3-easy-ways-to-interact-with-users-in-js-5b2l)
+- [Dev.to/JS] [Secure Nodejs REST API By Limiting Access to API calls using Express rate Limit](https://dev.to/techfortified/secure-nodejs-rest-api-by-limiting-access-to-api-calls-using-express-rate-limit-p0p)
 - [Dev.to/JS] [Best Web development company in Kerala](https://dev.to/woxro/best-web-development-company-in-kerala-407n)
 - [Dev.to/JS] [Creating a plugin in Dative v2-alpha](https://dev.to/tobithedev/creating-a-plugin-in-dative-v2-alpha-11j3)
 - [Dev.to/JS] [Make Express Server fast Request &amp; Response Using Indexing in mongoDB](https://dev.to/deepakjaiswal/make-express-server-fast-request-response-using-indexing-in-mongodb-49pm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning the basics of web dev by building a weather app](https://dev.to/prajwalkulkarni/learning-the-basics-of-web-dev-by-building-a-weather-app-3l25)
 - [Dev.to/JS] [HasAllChildren](https://dev.to/lizardkinglk/hasallchildren-55lh)
 - [Dev.to/JS] [Reverse Integer](https://dev.to/seth_king/reverse-integer-33p7)
-- [Dev.to/JS] [NVIM](https://dev.to/bcakyz/nvim-2b6h)
-- [Dev.to/JS] [Branding logo in SVG](https://dev.to/mhebrard/branding-logo-in-svg-47eb)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
