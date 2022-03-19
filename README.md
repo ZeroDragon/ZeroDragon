@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Measuring the performance of the McLaren Racing website](https://dev.to/petermekhaeil/measuring-the-performance-of-the-mclaren-racing-website-97k)
+- [Dev.to/JS] [References in javascript](https://dev.to/noumanali/references-in-javascript-5ado)
+- [Dev.to/JS] [Três formas de atribuir classes no angular utilizando ngClass](https://dev.to/maribelniok/tres-formas-de-atribuir-classes-no-angular-utilizando-ngclass-2c2)
+- [Dev.to/JS] [Real Life Example -UseImperativeHandle](https://dev.to/danielbellmas/real-life-example-useimperativehandle-34k)
 - [Dev.to/JS] [The Power of Factory Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-factory-design-pattern-in-javascript-2bf8)
 - [Dev.to/JS] [Promises: async/await vs .then&lpar;&rpar;, how we got here and why I use both](https://dev.to/_hariti/promises-asyncawait-vs-then-how-we-got-here-and-why-i-use-both-emg)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Shelter](https://dev.to/abhinandh_c/the-shelter-38f5)
 - [Dev.to/JS] [Data Types &lpar;JavaScript&rpar;](https://dev.to/hardikmirg/data-types-javascript-2gfm)
 - [Dev.to/JS] [Lenses and Partial-application - Going functional one step at a time](https://dev.to/tracygjg/partial-application-going-functional-one-step-at-a-time-3g3h)
-- [Dev.to/JS] [3 easy ways to interact with users in JS](https://dev.to/bellatrix/3-easy-ways-to-interact-with-users-in-js-5b2l)
-- [Dev.to/JS] [Secure Nodejs REST API By Limiting Access to API calls using Express rate Limit](https://dev.to/techfortified/secure-nodejs-rest-api-by-limiting-access-to-api-calls-using-express-rate-limit-p0p)
-- [Dev.to/JS] [Best Web development company in Kerala](https://dev.to/woxro/best-web-development-company-in-kerala-407n)
-- [Dev.to/JS] [Creating a plugin in Dative v2-alpha](https://dev.to/tobithedev/creating-a-plugin-in-dative-v2-alpha-11j3)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
