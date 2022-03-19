@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is React Lifecycle methods and how to use them? Example](https://dev.to/javinpaul/what-is-react-lifecycle-methods-and-how-to-use-them-example-4dbm)
+- [Dev.to/JS] [Learning the basics of web dev by building a weather app](https://dev.to/prajwalkulkarni/learning-the-basics-of-web-dev-by-building-a-weather-app-3l25)
+- [Dev.to/JS] [HasAllChildren](https://dev.to/lizardkinglk/hasallchildren-55lh)
 - [Dev.to/JS] [Reverse Integer](https://dev.to/seth_king/reverse-integer-33p7)
 - [Dev.to/JS] [NVIM](https://dev.to/bcakyz/nvim-2b6h)
 - [Dev.to/JS] [Branding logo in SVG](https://dev.to/mhebrard/branding-logo-in-svg-47eb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Confirm it... don&#39;t analyze that code](https://dev.to/jibarican/confirm-it-dont-analyze-that-code-28ip)
 - [Dev.to/JS] [Day 30 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1492. The kth Factor of n&lpar;Medium/JavaScript&rpar;](https://dev.to/killingleetcode/day-30-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1492-the-kth-factor-of-nmediumjavascript-6o)
 - [Dev.to/JS] [Integrate Node.js Client for Google Maps Services With a NestJS Application](https://dev.to/marcus_castanho/integrate-nodejs-client-for-google-maps-services-with-a-nestjs-application-46b0)
-- [Dev.to/JS] [All you need to know about functions in JavaScript](https://dev.to/efkumah/all-you-need-to-know-about-functions-in-javascript-43di)
-- [Dev.to/JS] [Testing modern ReactJS Application: Unit Testing&lpar;Part 2&rpar;](https://dev.to/mr0bread/testing-modern-reactjs-application-unit-testingpart-2-25m7)
-- [Dev.to/JS] [Make VS Code better by editing and updating some settings](https://dev.to/jcofman/make-vs-code-better-by-editing-and-updating-some-settings-4m9a)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
