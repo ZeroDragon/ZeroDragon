@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Web development company in Kerala](https://dev.to/woxro/best-web-development-company-in-kerala-407n)
+- [Dev.to/JS] [Creating a plugin in Dative v2-alpha](https://dev.to/tobithedev/creating-a-plugin-in-dative-v2-alpha-11j3)
+- [Dev.to/JS] [Make Express Server fast Request &amp; Response Using Indexing in mongoDB](https://dev.to/deepakjaiswal/make-express-server-fast-request-response-using-indexing-in-mongodb-49pm)
+- [Dev.to/JS] [{&quot;message&quot;:&quot;path is not defined&quot;,&quot;stack&quot;:null}](https://dev.to/mhmdrameez/messagepath-is-not-definedstacknull-5ag)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;19-03-2022&rpar; - Punk Rock Internet](https://dev.to/mjgs/this-weeks-newsletter-is-out-19-03-2022-punk-rock-internet-e5d)
 - [Dev.to/JS] [MetaLean Complete - Weight Loss Pills, Price, Benefits &amp; Side Effects](https://dev.to/metaleancomple1/metalean-complete-weight-loss-pills-price-benefits-side-effects-2m8p)
 - [Dev.to/JS] [What is React Lifecycle methods and how to use them? Example](https://dev.to/javinpaul/what-is-react-lifecycle-methods-and-how-to-use-them-example-4dbm)
 - [Dev.to/JS] [Learning the basics of web dev by building a weather app](https://dev.to/prajwalkulkarni/learning-the-basics-of-web-dev-by-building-a-weather-app-3l25)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reverse Integer](https://dev.to/seth_king/reverse-integer-33p7)
 - [Dev.to/JS] [NVIM](https://dev.to/bcakyz/nvim-2b6h)
 - [Dev.to/JS] [Branding logo in SVG](https://dev.to/mhebrard/branding-logo-in-svg-47eb)
-- [Dev.to/JS] [How to create custom code snippets in VS Code](https://dev.to/abdadeel/how-to-create-custom-code-snippets-in-vs-code-4e7l)
-- [Dev.to/JS] [Apa itu Higher Order Function ?](https://dev.to/syafiq1331/what-is-higher-order-function--51np)
-- [Dev.to/JS] [Day 31 of Studying LeetCode until I Can Solve One on My Own: #1481. Least Number of Unique Integers after K Removals&lpar;M/JS&rpar;](https://dev.to/killingleetcode/day-31-of-studying-leetcode-until-i-can-solve-one-on-my-own-1481-least-number-of-unique-integers-after-k-removalsmjs-ae6)
-- [Dev.to/JS] [Confirm it... don&#39;t analyze that code](https://dev.to/jibarican/confirm-it-dont-analyze-that-code-28ip)
-- [Dev.to/JS] [Day 30 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1492. The kth Factor of n&lpar;Medium/JavaScript&rpar;](https://dev.to/killingleetcode/day-30-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1492-the-kth-factor-of-nmediumjavascript-6o)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
