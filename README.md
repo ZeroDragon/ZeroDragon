@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Apa itu Higher Order Function ?](https://dev.to/syafiq1331/what-is-higher-order-function--51np)
+- [Dev.to/JS] [Day 31 of Studying LeetCode until I Can Solve One on My Own: #1481. Least Number of Unique Integers after K Removals&lpar;M/JS&rpar;](https://dev.to/killingleetcode/day-31-of-studying-leetcode-until-i-can-solve-one-on-my-own-1481-least-number-of-unique-integers-after-k-removalsmjs-ae6)
 - [Dev.to/JS] [Confirm it... don&#39;t analyze that code](https://dev.to/jibarican/confirm-it-dont-analyze-that-code-28ip)
 - [Dev.to/JS] [Day 30 of Studying LeetCode Solution until I Can Solve One on My Own: Problem#1492. The kth Factor of n&lpar;Medium/JavaScript&rpar;](https://dev.to/killingleetcode/day-30-of-studying-leetcode-solution-until-i-can-solve-one-on-my-own-problem1492-the-kth-factor-of-nmediumjavascript-6o)
 - [Dev.to/JS] [Integrate Node.js Client for Google Maps Services With a NestJS Application](https://dev.to/marcus_castanho/integrate-nodejs-client-for-google-maps-services-with-a-nestjs-application-46b0)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modules in React](https://dev.to/georgeoffley/modules-in-react-274d)
 - [Dev.to/JS] [BIG O&#39;NOTATION : Part 1](https://dev.to/munavvarsinan/big-onotation-part-1-4fd9)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
-- [Dev.to/JS] [if !obj.nil?](https://dev.to/franciscello/if-objnil-4den)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
-- [Dev.to/JS] [« Unlimited vacation » means « little vacation ».](https://dev.to/loicpoullain/-unlimited-vacation-means-little-vacation--i72)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
 - [Lifehacker] [Stop Adding Banana Peels to Your Plants &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-adding-banana-peels-to-your-plants-and-do-this-in-1848673011)
 - [Lifehacker] [Should You Buy a Vacation Home Before a Starter Home?](https://lifehacker.com/should-you-buy-a-vacation-home-before-a-starter-home-1848672753)
