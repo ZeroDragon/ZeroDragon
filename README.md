@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Data Attributes For A Dynamically Added Five-Star Rating System](https://dev.to/miriamfark/using-data-attributes-for-a-dynamically-added-five-star-rating-system-18lg)
+- [Dev.to/JS] [How Can I learning React js?](https://dev.to/abdessalambou/how-can-i-learning-react-js-1ih0)
 - [Dev.to/JS] [5 Python Frameworks for Web Development in 2022](https://dev.to/giftedstan/5-python-frameworks-for-web-development-in-2022-9jl)
 - [Dev.to/JS] [Svelte: My thoughts 🤔](https://dev.to/shafspecs/svelte-my-thoughts-2bm)
 - [Dev.to/JS] [Processos para a criação de um React App](https://dev.to/wesleyara/processos-para-a-criacao-de-um-react-app-3iao)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Table background/text color based on table/database values](https://dev.to/peter44/table-backgroundtext-color-based-on-tabledatabase-values-3074)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Dev.to/JS] [GraphQL Authentication and Authorization in Node.js](https://dev.to/franciscomendes10866/graphql-authentication-and-authorization-in-nodejs-hm4)
-- [Dev.to/JS] [How to Get Days Between two Dates in JavaScript](https://dev.to/shantanu_jana/how-to-get-days-between-two-dates-in-javascript-1bja)
-- [Dev.to/JS] [Paracetamol.js💊| #81: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-81-explica-este-codigo-javascript-5cjp)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
