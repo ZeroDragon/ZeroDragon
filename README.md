@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reverse Integer](https://dev.to/seth_king/reverse-integer-33p7)
+- [Dev.to/JS] [NVIM](https://dev.to/bcakyz/nvim-2b6h)
 - [Dev.to/JS] [Branding logo in SVG](https://dev.to/mhebrard/branding-logo-in-svg-47eb)
 - [Dev.to/JS] [How to create custom code snippets in VS Code](https://dev.to/abdadeel/how-to-create-custom-code-snippets-in-vs-code-4e7l)
 - [Dev.to/JS] [Apa itu Higher Order Function ?](https://dev.to/syafiq1331/what-is-higher-order-function--51np)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [All you need to know about functions in JavaScript](https://dev.to/efkumah/all-you-need-to-know-about-functions-in-javascript-43di)
 - [Dev.to/JS] [Testing modern ReactJS Application: Unit Testing&lpar;Part 2&rpar;](https://dev.to/mr0bread/testing-modern-reactjs-application-unit-testingpart-2-25m7)
 - [Dev.to/JS] [Make VS Code better by editing and updating some settings](https://dev.to/jcofman/make-vs-code-better-by-editing-and-updating-some-settings-4m9a)
-- [Dev.to/JS] [Introducción a Redux](https://dev.to/leobar37/guia-rapida-de-redux-p1-3i4p)
-- [Dev.to/JS] [Making Fetch Happen in Vanilla JavaScript](https://dev.to/valenciawhite/making-fetch-happen-in-vanilla-javascript-4e2l)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
