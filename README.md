@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Every Javascript Array Method Explained &lpar;with code examples&rpar;](https://dev.to/eludadev/every-javascript-array-method-explained-with-code-examples-1d7b)
+- [Dev.to/JS] [The 4 Common Programming Errors](https://dev.to/muhammad_asif/the-4-common-programming-errors-3hn2)
+- [Dev.to/JS] [JavaScript Function Expressions vs Declarations](https://dev.to/sdcaulley/javascript-function-expressions-vs-declarations-25g2)
 - [Dev.to/JS] [Add Two Numbers - Daily JS &lpar;Day 22&rpar;](https://dev.to/tanvirrahman/add-two-numbers-daily-js-day-22-5al6)
 - [Dev.to/JS] [Table background/text color based on table/database values](https://dev.to/peter44/table-backgroundtext-color-based-on-tabledatabase-values-3074)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Measuring the performance of the McLaren Racing website](https://dev.to/petermekhaeil/measuring-the-performance-of-the-mclaren-racing-website-97k)
 - [Dev.to/JS] [References in javascript](https://dev.to/noumanali/references-in-javascript-5ado)
 - [Dev.to/JS] [Três formas de atribuir classes no angular utilizando ngClass](https://dev.to/maribelniok/tres-formas-de-atribuir-classes-no-angular-utilizando-ngclass-2c2)
-- [Dev.to/JS] [Real Life Example -UseImperativeHandle](https://dev.to/danielbellmas/real-life-example-useimperativehandle-34k)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
