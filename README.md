@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Branding logo in SVG](https://dev.to/mhebrard/branding-logo-in-svg-47eb)
+- [Dev.to/JS] [How to create custom code snippets in VS Code](https://dev.to/abdadeel/how-to-create-custom-code-snippets-in-vs-code-4e7l)
 - [Dev.to/JS] [Apa itu Higher Order Function ?](https://dev.to/syafiq1331/what-is-higher-order-function--51np)
 - [Dev.to/JS] [Day 31 of Studying LeetCode until I Can Solve One on My Own: #1481. Least Number of Unique Integers after K Removals&lpar;M/JS&rpar;](https://dev.to/killingleetcode/day-31-of-studying-leetcode-until-i-can-solve-one-on-my-own-1481-least-number-of-unique-integers-after-k-removalsmjs-ae6)
 - [Dev.to/JS] [Confirm it... don&#39;t analyze that code](https://dev.to/jibarican/confirm-it-dont-analyze-that-code-28ip)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make VS Code better by editing and updating some settings](https://dev.to/jcofman/make-vs-code-better-by-editing-and-updating-some-settings-4m9a)
 - [Dev.to/JS] [Introducción a Redux](https://dev.to/leobar37/guia-rapida-de-redux-p1-3i4p)
 - [Dev.to/JS] [Making Fetch Happen in Vanilla JavaScript](https://dev.to/valenciawhite/making-fetch-happen-in-vanilla-javascript-4e2l)
-- [Dev.to/JS] [Modules in React](https://dev.to/georgeoffley/modules-in-react-274d)
-- [Dev.to/JS] [BIG O&#39;NOTATION : Part 1](https://dev.to/munavvarsinan/big-onotation-part-1-4fd9)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
