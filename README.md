@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 17/100; 100 Days of Code](https://dev.to/xurgg/day-17100-100-days-of-code-4jab)
+- [Dev.to/JS] [Everything you need to know about keys in React &lpar;with examples&rpar;](https://dev.to/kairatorozobekov/everything-you-need-to-know-about-keys-in-react-with-examples-4ah4)
+- [Dev.to/JS] [Day 13 of 100 Days of Code](https://dev.to/nkemdev/day-13-of-100-days-of-code-okp)
+- [Dev.to/JS] [My first &quot;big&quot; Project - My advice for beginners](https://dev.to/simonklein/my-first-big-project-my-advice-for-beginners-55d3)
+- [Dev.to/JS] [How to understand complex coding concepts better using the Feynman Technique](https://dev.to/cesscode/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique-5anj)
 - [Dev.to/JS] [Using Data Attributes For A Dynamically Added Five-Star Rating System](https://dev.to/miriamfark/using-data-attributes-for-a-dynamically-added-five-star-rating-system-18lg)
 - [Dev.to/JS] [How Can I learning React js?](https://dev.to/abdessalambou/how-can-i-learning-react-js-1ih0)
 - [Dev.to/JS] [5 Python Frameworks for Web Development in 2022](https://dev.to/giftedstan/5-python-frameworks-for-web-development-in-2022-9jl)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Processos para a criação de um React App](https://dev.to/wesleyara/processos-para-a-criacao-de-um-react-app-3iao)
 - [Dev.to/JS] [How to build personal portfolio using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-personal-portfolio-using-html-css-javascript-37e2)
 - [Dev.to/JS] [Let&#39;s make a primitive useState Hook](https://dev.to/pbucky/lets-make-a-primitive-usestate-hook-aj2)
-- [Dev.to/JS] [The 4 Common Programming Errors](https://dev.to/muhammad_asif/the-4-common-programming-errors-3hn2)
-- [Dev.to/JS] [JavaScript Function Expressions vs Declarations](https://dev.to/sdcaulley/javascript-function-expressions-vs-declarations-25g2)
-- [Dev.to/JS] [Add Two Numbers - Daily JS &lpar;Day 22&rpar;](https://dev.to/tanvirrahman/add-two-numbers-daily-js-day-22-5al6)
-- [Dev.to/JS] [Table background/text color based on table/database values](https://dev.to/peter44/table-backgroundtext-color-based-on-tabledatabase-values-3074)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
-- [Dev.to/JS] [GraphQL Authentication and Authorization in Node.js](https://dev.to/franciscomendes10866/graphql-authentication-and-authorization-in-nodejs-hm4)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
