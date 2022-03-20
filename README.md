@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Integer to Roman](https://dev.to/seth_king/integer-to-roman-oc7)
+- [Dev.to/JS] [Como criar um npx](https://dev.to/matheusg18/como-criar-um-npx-2il4)
 - [Dev.to/JS] [MyUnsplash](https://dev.to/nisabmohd/myunsplash-3n09)
 - [Dev.to/JS] [Open Source Adventures: Episode 18: Imba 2](https://dev.to/taw/open-source-adventures-episode-18-imba-2-o4d)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 18, 19 &amp; 20](https://dev.to/marvinobig/100-days-of-code-challenge-day-18-19-20-2mik)
@@ -31,12 +33,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Dev.to/JS] [Frontend Testing: alternative to Unit/Integration/E2E category and priority](https://dev.to/hiroyone/frontend-testing-no-more-unitintegratione2e-categorizations-and-priorities-5358)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
-- [Dev.to/JS] [50+ Github First Contribution Ideas, For Beginners 😄️🎉️](https://dev.to/bestofofficial/my-first-github-contribution-487a)
 - [Dev.to/JS] [Build Real Time Chat Application Using Node.js And Socket.io](https://dev.to/cyberwolve/build-real-time-chat-application-using-nodejs-and-socketio-4j1a)
 - [Dev.to/JS] [Dependencies hell](https://dev.to/mighty_peach/dependencies-hell-gc5)
 - [Dev.to/JS] [How to Use Supabase Apple OAuth in React Native](https://dev.to/dancurtis/how-to-use-supabase-apple-oauth-in-react-native-4c4h)
 - [Dev.to/JS] [What is the difference between Strategy, State, and Template design patterns?](https://dev.to/mohamedmayallo/what-is-the-difference-between-strategy-state-and-template-design-patterns-513g)
-- [Dev.to/JS] [Format, Copy, and Paste from a Webpage in the Console](https://dev.to/idiophonebox/format-copy-and-paste-from-a-webpage-in-the-console-59jn)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
