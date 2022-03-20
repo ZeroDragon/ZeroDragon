@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React router page just disappearing](https://dev.to/zetax/react-router-page-just-disappearing-1lhp)
+- [Dev.to/JS] [Turn a single brand color into your own Complete Web Color System... in minutes!](https://dev.to/arnelenero/turn-a-single-brand-color-into-your-own-complete-web-color-system-in-minutes-4nkb)
 - [Dev.to/JS] [Initialising a Firebase App](https://dev.to/adamjhawley/initialising-a-firebase-app-7e3)
 - [Dev.to/JS] [tsParticles 1.42.4 Released](https://dev.to/matteobruni/tsparticles-1424-released-32nd)
 - [Dev.to/JS] [Are you using useCallback properly 🤔](https://dev.to/markoarsenal/are-you-using-usecallback-properly-5g2c)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MyUnsplash](https://dev.to/nisabmohd/myunsplash-3n09)
 - [Dev.to/JS] [Open Source Adventures: Episode 18: Imba 2](https://dev.to/taw/open-source-adventures-episode-18-imba-2-o4d)
 - [Dev.to/JS] [100 Days of Code Challenge: Day 18, 19 &amp; 20](https://dev.to/marvinobig/100-days-of-code-challenge-day-18-19-20-2mik)
-- [Dev.to/JS] [React best practices and patterns to reduce code - Part 3](https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1)
-- [Dev.to/JS] [Max Water Container](https://dev.to/seth_king/max-water-container-4poe)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
