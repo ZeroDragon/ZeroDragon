@@ -28,7 +28,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Operators in JavaScript](https://dev.to/hardikmirg/operators-in-javascript-258e)
 - [Dev.to/JS] [Movie app using JavaScript](https://dev.to/iammanojrathod/movie-app-using-javascript-po0)
 - [Dev.to/JS] [How to simplify multiple async pipes](https://dev.to/danywalls/how-to-simplify-multiple-async-pipes-39di)
-- [Dev.to/JS] [How to migrate your Elasticsearch client to using OpenSearch](https://dev.to/laysauchoa/how-to-migrate-your-elasticsearch-client-to-using-opensearch-502p)
+- [Dev.to/JS] [How to migrate your Elasticsearch client to OpenSearch](https://dev.to/laysauchoa/how-to-migrate-your-elasticsearch-client-to-using-opensearch-502p)
 - [Dev.to/JS] [Fully featured Repository Pattern with Typescript and native PostgreSQL driver](https://dev.to/fyapy/fully-featured-repository-pattern-with-typescript-and-native-postgresql-driver-4f2j)
 - [Dev.to/JS] [Stop Overcomplicating Web Development - Try Svelte](https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln)
 - [Dev.to/JS] [How to Create Circle Packing Chart with JS](https://dev.to/andreykh1985/how-to-create-circle-packing-chart-with-js-488b)
