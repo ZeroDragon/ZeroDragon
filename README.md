@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular - Testes de Componentes](https://dev.to/wesleyegberto/angular-testes-de-componentes-32of)
 - [Dev.to/JS] [Day 17/100; 100 Days of Code](https://dev.to/xurgg/day-17100-100-days-of-code-4jab)
 - [Dev.to/JS] [Everything you need to know about keys in React &lpar;with examples&rpar;](https://dev.to/kairatorozobekov/everything-you-need-to-know-about-keys-in-react-with-examples-4ah4)
 - [Dev.to/JS] [Day 13 of 100 Days of Code](https://dev.to/nkemdev/day-13-of-100-days-of-code-okp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte: My thoughts 🤔](https://dev.to/shafspecs/svelte-my-thoughts-2bm)
 - [Dev.to/JS] [Processos para a criação de um React App](https://dev.to/wesleyara/processos-para-a-criacao-de-um-react-app-3iao)
 - [Dev.to/JS] [How to build personal portfolio using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-personal-portfolio-using-html-css-javascript-37e2)
-- [Dev.to/JS] [Let&#39;s make a primitive useState Hook](https://dev.to/pbucky/lets-make-a-primitive-usestate-hook-aj2)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
