@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [nrgfg](https://dev.to/aahadrahi/nrgfg-5g1c)
 - [Dev.to/JS] [How I REACTO to Algos: Caesar Cipher](https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i)
 - [Dev.to/JS] [JS Interview Question #1 &lpar;Group Anagrams&rpar;](https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4)
 - [Dev.to/JS] [Debugging: Javascript](https://dev.to/nash4253/debugging-javascript-1n84)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 17/100; 100 Days of Code](https://dev.to/xurgg/day-17100-100-days-of-code-4jab)
 - [Dev.to/JS] [Everything you need to know about keys in React &lpar;with examples&rpar;](https://dev.to/kairatorozobekov/everything-you-need-to-know-about-keys-in-react-with-examples-4ah4)
 - [Dev.to/JS] [Day 13 of 100 Days of Code](https://dev.to/nkemdev/day-13-of-100-days-of-code-okp)
-- [Dev.to/JS] [My first &quot;big&quot; Project - My advice for beginners](https://dev.to/simonklein/my-first-big-project-my-advice-for-beginners-55d3)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
