@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create Circle Packing Chart with JS](https://dev.to/andreykh1985/how-to-create-circle-packing-chart-with-js-488b)
+- [Dev.to/JS] [Learn how to make a Calculator in Js](https://dev.to/kebean10/httpskebeanhashnodedevcalculator-learn-how-to-build-a-modern-calculator-using-javascript-2njo)
 - [Dev.to/JS] [Enable Slack Notifications for AWS Amplify Deployments](https://dev.to/aws-builders/enable-slack-notifications-for-aws-amplify-deployments-5a0l)
 - [Dev.to/JS] [How to setup React global alert popup in 10mins](https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3)
 - [Dev.to/JS] [Journal CLI - Write Journal in Notion using CLI](https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Make Push Notification Using Node.js and Service Worker](https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa)
 - [Dev.to/JS] [Deploy strapi v4 to heroku and quasar to vercel](https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4)
 - [Dev.to/JS] [nrgfg](https://dev.to/aahadrahi/nrgfg-5g1c)
-- [Dev.to/JS] [How I REACTO to Algos: Caesar Cipher](https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i)
-- [Dev.to/JS] [JS Interview Question #1 &lpar;Group Anagrams&rpar;](https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
