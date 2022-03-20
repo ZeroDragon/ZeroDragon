@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fully featured Repository Pattern with Typescript and native PostgreSQL driver](https://dev.to/fyapy/fully-featured-repository-pattern-with-typescript-and-native-postgresql-driver-4f2j)
 - [Dev.to/JS] [Stop Overcomplicating Web Development - Try Svelte](https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln)
 - [Dev.to/JS] [How to Create Circle Packing Chart with JS](https://dev.to/andreykh1985/how-to-create-circle-packing-chart-with-js-488b)
 - [Dev.to/JS] [Learn how to make a Calculator in Js](https://dev.to/kebean10/httpskebeanhashnodedevcalculator-learn-how-to-build-a-modern-calculator-using-javascript-2njo)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mock REST APIs with Mockatron](https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk)
 - [Dev.to/JS] [How to make a beautiful gradient scroll bar with CSS](https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2)
 - [Dev.to/JS] [How To Make Push Notification Using Node.js and Service Worker](https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa)
-- [Dev.to/JS] [Deploy strapi v4 to heroku and quasar to vercel](https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
