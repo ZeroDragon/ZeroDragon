@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning to code](https://dev.to/achessor/learning-to-code-d17)
+- [Dev.to/JS] [2 questions - Equal sides of an array solution](https://dev.to/detacht/2-questions-equal-sides-of-an-array-solution-1g0)
 - [Dev.to/JS] [How to share a single global object across your app &lpar;Singleton design pattern&rpar;](https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd)
 - [Dev.to/JS] [Affiliate marketing](https://dev.to/jk026/affiliate-marketing-4fpj)
 - [Dev.to/JS] [Angular - Testes de Componentes](https://dev.to/wesleyegberto/angular-testes-de-componentes-32of)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to understand complex coding concepts better using the Feynman Technique](https://dev.to/cesscode/how-to-understand-complex-coding-concepts-better-using-the-feynman-technique-5anj)
 - [Dev.to/JS] [Using Data Attributes For A Dynamically Added Five-Star Rating System](https://dev.to/miriamfark/using-data-attributes-for-a-dynamically-added-five-star-rating-system-18lg)
 - [Dev.to/JS] [How Can I learning React js?](https://dev.to/abdessalambou/how-can-i-learning-react-js-1ih0)
-- [Dev.to/JS] [5 Python Frameworks for Web Development in 2022](https://dev.to/giftedstan/5-python-frameworks-for-web-development-in-2022-9jl)
-- [Dev.to/JS] [Svelte: My thoughts 🤔](https://dev.to/shafspecs/svelte-my-thoughts-2bm)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
