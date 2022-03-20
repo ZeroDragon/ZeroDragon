@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Are you using useCallback properly 🤔](https://dev.to/markoarsenal/are-you-using-usecallback-properly-5g2c)
 - [Dev.to/JS] [Would you rather be a 10x dev or one with imagination?](https://dev.to/dashpy/would-you-rather-be-a-10x-dev-or-one-with-imagination-4pl)
 - [Dev.to/JS] [Weekly Digest 11/2022](https://dev.to/marcobiedermann/weekly-digest-112022-38d2)
 - [Dev.to/JS] [Integer to Roman](https://dev.to/seth_king/integer-to-roman-oc7)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend Testing: alternative to Unit/Integration/E2E category and priority](https://dev.to/hiroyone/frontend-testing-no-more-unitintegratione2e-categorizations-and-priorities-5358)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
 - [Dev.to/JS] [Build Real Time Chat Application Using Node.js And Socket.io](https://dev.to/cyberwolve/build-real-time-chat-application-using-nodejs-and-socketio-4j1a)
-- [Dev.to/JS] [Dependencies hell](https://dev.to/mighty_peach/dependencies-hell-gc5)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
