@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to setup React global alert popup in 10mins](https://dev.to/jeffreythecoder/set-up-react-global-alert-popup-in-10mins-36l3)
+- [Dev.to/JS] [Journal CLI - Write Journal in Notion using CLI](https://dev.to/mtwn105/journal-cli-write-journal-in-notion-using-cli-5071)
 - [Dev.to/JS] [Recipe Finder - CSS JavaScript](https://dev.to/dasaradhanimmala/recipe-finder-css-javascript-5c6j)
 - [Dev.to/JS] [How to make Next.JS starter template.](https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j)
 - [Dev.to/JS] [Mock REST APIs with Mockatron](https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I REACTO to Algos: Caesar Cipher](https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i)
 - [Dev.to/JS] [JS Interview Question #1 &lpar;Group Anagrams&rpar;](https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4)
 - [Dev.to/JS] [Debugging: Javascript](https://dev.to/nash4253/debugging-javascript-1n84)
-- [Dev.to/JS] [Learning to code](https://dev.to/achessor/learning-to-code-d17)
-- [Dev.to/JS] [2 questions - Equal sides of an array solution](https://dev.to/detacht/2-questions-equal-sides-of-an-array-solution-1g0)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
