@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make Next.JS starter template.](https://dev.to/theabhayprajapati/how-to-make-nextjs-starter-template-539j)
+- [Dev.to/JS] [Mock REST APIs with Mockatron](https://dev.to/mahadevans87/mock-rest-apis-with-mockatron-22nk)
+- [Dev.to/JS] [How to make a beautiful gradient scroll bar with CSS](https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2)
+- [Dev.to/JS] [How To Make Push Notification Using Node.js and Service Worker](https://dev.to/wteja/how-to-make-push-notification-using-nodejs-and-service-worker-jaa)
+- [Dev.to/JS] [Deploy strapi v4 to heroku and quasar to vercel](https://dev.to/bangrobe/deploy-strapi-v4-to-heroku-and-quasar-to-vercel-4fd4)
 - [Dev.to/JS] [nrgfg](https://dev.to/aahadrahi/nrgfg-5g1c)
 - [Dev.to/JS] [How I REACTO to Algos: Caesar Cipher](https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-cipher-3j0i)
 - [Dev.to/JS] [JS Interview Question #1 &lpar;Group Anagrams&rpar;](https://dev.to/learndaily1/js-interview-question-1-group-anagrams-22j4)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning to code](https://dev.to/achessor/learning-to-code-d17)
 - [Dev.to/JS] [2 questions - Equal sides of an array solution](https://dev.to/detacht/2-questions-equal-sides-of-an-array-solution-1g0)
 - [Dev.to/JS] [How to share a single global object across your app &lpar;Singleton design pattern&rpar;](https://dev.to/devmoustafa97/how-to-share-single-global-object-across-your-app-singleton-design-pattern-50hd)
-- [Dev.to/JS] [Affiliate marketing](https://dev.to/jk026/affiliate-marketing-4fpj)
-- [Dev.to/JS] [Angular - Testes de Componentes](https://dev.to/wesleyegberto/angular-testes-de-componentes-32of)
-- [Dev.to/JS] [Day 17/100; 100 Days of Code](https://dev.to/xurgg/day-17100-100-days-of-code-4jab)
-- [Dev.to/JS] [Everything you need to know about keys in React &lpar;with examples&rpar;](https://dev.to/kairatorozobekov/everything-you-need-to-know-about-keys-in-react-with-examples-4ah4)
-- [Dev.to/JS] [Day 13 of 100 Days of Code](https://dev.to/nkemdev/day-13-of-100-days-of-code-okp)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
