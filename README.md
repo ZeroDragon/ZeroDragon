@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
+- [Dev.to/JS] [My First Github Contribution To Open Source 😄️🎉️](https://dev.to/bestofofficial/my-first-github-contribution-487a)
+- [Dev.to/JS] [Build Real Time Chat Application Using Node.js And Socket.io](https://dev.to/cyberwolve/build-real-time-chat-application-using-nodejs-and-socketio-4j1a)
+- [Dev.to/JS] [Dependencies hell](https://dev.to/mighty_peach/dependencies-hell-gc5)
+- [Dev.to/JS] [How to Use Supabase Apple OAuth in React Native](https://dev.to/dancurtis/how-to-use-supabase-apple-oauth-in-react-native-4c4h)
+- [Dev.to/JS] [Format, Copy, and Paste from a Webpage in the Console](https://dev.to/idiophonebox/format-copy-and-paste-from-a-webpage-in-the-console-59jn)
 - [Dev.to/JS] [Lucian’s-Luscious Lasagna Exercism JavaScript](https://dev.to/nycolexavierr/lucians-luscious-lasagna-exercism-javascript-3eif)
 - [Dev.to/JS] [What are the differences between Maps and objects in JavaScript?](https://dev.to/chalarangelo/what-are-the-differences-between-maps-and-objects-in-javascript-40eb)
 - [Dev.to/JS] [Using the messages length since it changes whenever I add one.](https://dev.to/emmanuelkadominah/using-the-messages-length-since-it-changes-whenever-i-add-one-4le3)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use Typescript generics for a type safe `setTimeout` and `setInterval`](https://dev.to/_hariti/use-typescript-generics-for-a-type-safe-settimeout-and-setinterval-4bnh)
 - [Dev.to/JS] [Operators in JavaScript](https://dev.to/hardikmirg/operators-in-javascript-258e)
 - [Dev.to/JS] [Movie app using JavaScript](https://dev.to/iammanojrathod/movie-app-using-javascript-po0)
-- [Dev.to/JS] [How to simplify multiple async pipes](https://dev.to/danywalls/how-to-simplify-multiple-async-pipes-39di)
-- [Dev.to/JS] [How to migrate your Elasticsearch client to OpenSearch](https://dev.to/laysauchoa/how-to-migrate-your-elasticsearch-client-to-using-opensearch-502p)
-- [Dev.to/JS] [Repository Pattern with Typescript, Node.js and native PostgreSQL driver](https://dev.to/fyapy/fully-featured-repository-pattern-with-typescript-and-native-postgresql-driver-4f2j)
-- [Dev.to/JS] [Stop Overcomplicating Web Development - Try Svelte](https://dev.to/emmanuilsb/stop-overcomplicating-web-development-try-svelte-47ln)
-- [Dev.to/JS] [How to Create Circle Packing Chart with JS](https://dev.to/andreykh1985/how-to-create-circle-packing-chart-with-js-488b)
 - [Lifehacker] [How to Clean Rust Off Your Tools &lpar;and Prevent It From Coming Back&rpar;](https://lifehacker.com/how-to-clean-rust-off-your-tools-and-prevent-it-from-c-1848671645)
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Finally Touch Your Toes, Maybe Even Today](https://lifehacker.com/how-to-finally-touch-your-toes-maybe-even-today-1848668349)
 - [Lifehacker] [Season the Lettuce on Your Next Sandwich, You Coward](https://lifehacker.com/season-the-lettuce-on-your-next-sandwich-you-coward-1848668059)
 - [Lifehacker] [What the 12-3-30 Workout Gets Wrong &lpar;and What It Gets Right&rpar;](https://lifehacker.com/what-the-12-3-30-workout-gets-wrong-and-what-it-gets-r-1848667798)
-- [Lifehacker] [Apple&#39;s Latest Update Can Brick Your Mac](https://lifehacker.com/apples-latest-update-can-brick-your-mac-1848666760)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
 - [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
