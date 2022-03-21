@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Design Systems Aren&#39;t Cheap](https://dev.to/claviska/design-systems-arent-cheap-2h64)
+- [Dev.to/JS] [Conquering JavaScript Hydration](https://dev.to/ryansolid/conquering-javascript-hydration-a9f)
+- [Lifehacker] [What&#39;s New on Hulu in April 2022](https://lifehacker.com/whats-new-on-hulu-in-april-2022-1848679537)
+- [Dev.to/JS] [When, Where &amp; Why Using Node JS is Good](https://dev.to/fireartd/when-where-why-using-node-js-is-good-494d)
 - [Dev.to/JS] [Spread operator in JavaScript.](https://dev.to/amolshelke2/spread-operator-in-javascript-4p1k)
 - [Dev.to/JS] [3 Headless Ecommerce Sites to Get Inspiration From](https://dev.to/cxmmerce/3-headless-ecommerce-sites-to-get-inspiration-from-alj)
 - [Dev.to/JS] [test](https://dev.to/see/test-13i1)
@@ -33,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tell me you&#39;re a Software tester without telling me you&#39;re a Software tester.](https://dev.to/hvm3/tell-me-youre-a-software-tester-without-telling-me-youre-a-software-tester-3m9l)
 - [Dev.to/JS] [How to Create and Validate Forms in React using Formik and Yup](https://dev.to/shahednasser/how-to-create-and-validate-forms-in-react-using-formik-and-yup-5e7i)
 - [Dev.to/JS] [The Developers Guide To React Amsterdam](https://dev.to/httpjunkie/the-developers-guide-to-react-amsterdam-4382)
-- [Dev.to/JS] [Image Processing in AI – A Beginner’s Guide](https://dev.to/rajatchauhan/image-processing-in-ai-a-beginners-guide-1258)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
-- [Dev.to/JS] [Covid-19 Tracker App](https://dev.to/hr21don/covid-19-tracker-app-340d)
-- [Dev.to/JS] [How to fix `create-react-app` 4.0.3, which is behind the latest release &lpar;5.0.0&rpar;](https://dev.to/ukaypromise/how-to-fix-create-react-app-403-which-is-behind-the-latest-release-500-4lea)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Two-Ingredient Maple Cream Cheese Is Basically Frosting](https://lifehacker.com/this-two-ingredient-maple-cream-cheese-is-basically-fro-1848669608)
 - [Lifehacker] [How to Care for &lpar;and Reduce the Appearance of&rpar; a Scar](https://lifehacker.com/how-to-care-for-and-reduce-the-appearance-of-a-scar-1848667011)
 - [Lifehacker] [How to Deal With a Coworker You Absolutely Hate](https://lifehacker.com/how-to-deal-with-a-coworker-you-absolutely-hate-1848655740)
-- [Lifehacker] [How to Finally Touch Your Toes, Maybe Even Today](https://lifehacker.com/how-to-finally-touch-your-toes-maybe-even-today-1848668349)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
