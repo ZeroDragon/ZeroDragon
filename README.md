@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [suggest project titles plzz](https://dev.to/jithinvijayan/suggest-project-titles-plzz-34if)
+- [Dev.to/JS] [What the heck is SSG: Static site generation explained with Next.js](https://dev.to/anshuman_bhardwaj/what-the-heck-is-ssg-static-site-generation-explained-with-nextjs-5cja)
 - [Dev.to/JS] [How to add dark mode to Next.js project using Tailwind ?](https://dev.to/imkarthikeyan/how-to-add-dark-mode-to-nextjs-project-using-tailwind--gj7)
 - [Dev.to/JS] [Glass Bead](https://dev.to/glassbeadprice/glass-bead-45cg)
 - [Dev.to/JS] [Migrating Gatsby Remark Blog to MDX](https://dev.to/mmz001/migrating-gatsby-remark-blog-to-mdx-59oc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Padronize seus commits com Commitlint + Husky + Commitizen.](https://dev.to/vinicius_rodrigues/padronize-seus-commits-com-commitlint-husky-commitzen-2o6h)
 - [Dev.to/JS] [Adding Barcode Support to a Salesforce Mobile Application](https://dev.to/johnjvester/adding-barcode-support-to-a-salesforce-mobile-application-fib)
 - [Dev.to/JS] [Which is the best front-end language for future?](https://dev.to/hvm3/which-is-the-best-front-end-language-for-future-49m5)
-- [Dev.to/JS] [Which is the best backend language for future?](https://dev.to/hvm3/which-is-the-best-backend-language-for-future-2jk4)
-- [Dev.to/JS] [Reset Form After Submitted using jQuery](https://dev.to/codeanddeploy/reset-form-after-submitted-using-jquery-4iac)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
