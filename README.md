@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [বইটি নিয়ে আমার কথা!](https://dev.to/shihab4t/bitti-niyye-aamaar-kthaa-3phc)
+- [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
+- [Dev.to/JS] [Create A Linktree Clone Using React](https://dev.to/codecast/create-a-linktree-clone-using-react-2hdi)
+- [Dev.to/JS] [Perspective API](https://dev.to/thomasbnt/perspective-api-20al)
+- [Lifehacker] [What Is a Relationship ‘Soft Launch,’ and How Can You Pull It Off?](https://lifehacker.com/what-is-a-relationship-soft-launch-and-how-can-you-p-1848681538)
 - [Lifehacker] [All the Places You Can Get Athlete’s Foot That Aren’t Your Feet](https://lifehacker.com/all-the-places-you-can-get-athlete-s-foot-that-aren-t-y-1848680602)
 - [Dev.to/JS] [How to Refactor the global variables in javascript?](https://dev.to/ajayv1/how-to-refactor-the-global-variables-in-javascript-482k)
 - [Lifehacker] [Stop Storing These Items in Your Junk Drawer](https://lifehacker.com/stop-storing-these-items-in-your-junk-drawer-1848680113)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ng-News: Issue 22/11](https://dev.to/rainerhahnekamp/ng-news-issue-2211-8hb)
 - [Lifehacker] [Questions You Should Never Ask on a First Date &lpar;and What to Ask Instead&rpar;](https://lifehacker.com/questions-you-should-never-ask-on-a-first-date-and-wha-1848680416)
 - [Dev.to/JS] [CRUD Blog App &lpar;with comments&rpar; developed with MERN](https://dev.to/tashynw/crud-blog-app-with-comments-developed-with-mern-5733)
-- [Dev.to/JS] [Day-47 Training At Ryaz](https://dev.to/mahin651/day-47-training-at-ryaz-2j3h)
 - [Lifehacker] [This Two-Ingredient Horseradish Sauce Is Perfect for Steak Frites](https://lifehacker.com/this-two-ingredient-horseradish-sauce-is-perfect-for-st-1848674319)
-- [Dev.to/JS] [Event tracking with Mixpanel and NodeJs](https://dev.to/mohie93/event-tracking-with-mixpanel-and-nodejs-je6)
-- [Dev.to/JS] [How to run Cypress tests on mobile browsers](https://dev.to/ganeshsirsi/how-to-run-cypress-tests-on-mobile-browsers-1b67)
 - [Lifehacker] [How to Quickly Hide What You&#39;ve Been Watching on Your iPhone or Android](https://lifehacker.com/how-to-quickly-hide-what-youve-been-watching-on-your-ip-1848679766)
 - [Lifehacker] [Stop Using This Recalled Lotion That May Contain Bacteria](https://lifehacker.com/stop-using-this-recalled-lotion-that-may-contain-bacter-1848679512)
 - [Lifehacker] [Do These Two Things Every Time You Rent a Car](https://lifehacker.com/do-these-two-things-every-time-you-rent-a-car-1848679411)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
 - [Lifehacker] [Stop Adding Banana Peels to Your Plants &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-adding-banana-peels-to-your-plants-and-do-this-in-1848673011)
 - [Lifehacker] [Should You Buy a Vacation Home Before a Starter Home?](https://lifehacker.com/should-you-buy-a-vacation-home-before-a-starter-home-1848672753)
-- [Lifehacker] [7 Masturbation Myths That Need to Be Debunked Once and for All](https://lifehacker.com/7-masturbation-myths-that-need-to-be-debunked-once-and-1848657693)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Jerks Mad at &#39;Turning Red&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-a-1848672102)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
