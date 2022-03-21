@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Storing These Items in Your Junk Drawer](https://lifehacker.com/stop-storing-these-items-in-your-junk-drawer-1848680113)
+- [Dev.to/JS] [A look at the &quot;this&quot; Keyword in JavaScript](https://dev.to/chidiesobe/a-look-at-the-this-keyword-in-javascript-2nk4)
+- [Lifehacker] [How to Make Cheap Bookshelves Look Like Expensive Built-Ins](https://lifehacker.com/how-to-make-cheap-bookshelves-look-like-expensive-built-1848679756)
+- [Dev.to/JS] [LAZY LOADING IN ANGULAR](https://dev.to/deepachaurasia1/lazy-loading-in-angular-3mf4)
+- [Dev.to/JS] [Network graph dynamically in javascript](https://dev.to/zkel/network-graph-dynamically-in-javascript-3p2c)
+- [Dev.to/JS] [Simple Toggle Button&lpar;On/Off&rpar;](https://dev.to/asapsonter/simple-toggle-buttononoff-3k2i)
+- [Lifehacker] [13 Shows Netflix Canceled Way Too Soon](https://lifehacker.com/13-shows-netflix-canceled-way-too-soon-1848679614)
 - [Dev.to/JS] [A Brand NEW Kind of DEBUGGER for JavaScript &lpar;Dbux: Why? What?&rpar;](https://dev.to/domiii/a-brand-new-kind-of-debugger-for-javascript-dbux-why-what-1dj7)
 - [Dev.to/JS] [Turning React apps into PDFs with Next.js, NodeJS and puppeteer](https://dev.to/jordykoppen/turning-react-apps-into-pdfs-with-nextjs-nodejs-and-puppeteer-mfi)
 - [Lifehacker] [5 of the Best Budget Smartphones of 2022](https://lifehacker.com/5-of-the-best-budget-smartphones-of-2022-1848680437)
@@ -35,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to run Cypress tests on mobile browsers](https://dev.to/ganeshsirsi/how-to-run-cypress-tests-on-mobile-browsers-1b67)
 - [Dev.to/JS] [What is the better testing library for React, Enzyme &lpar;from Airbnb&rpar; VS React testing library &lpar;from Kent C. Dodds&rpar;?](https://dev.to/himanshukanojiya/what-is-the-better-testing-library-for-react-enzyme-from-airbnb-vs-react-testing-library-from-kent-c-dodds-c5e)
 - [Lifehacker] [How to Quickly Hide What You&#39;ve Been Watching on Your iPhone or Android](https://lifehacker.com/how-to-quickly-hide-what-youve-been-watching-on-your-ip-1848679766)
-- [Dev.to/JS] [Script to send a WhatsApp message to yourself](https://dev.to/ayyash/script-to-send-a-whatsapp-message-to-yourselftip-march-21-22-nm0)
-- [Dev.to/JS] [Ania Kubow: Building Tetris with JavaScript](https://dev.to/michaellarocca/ania-kubow-building-tetris-with-javascript-9h1)
-- [Dev.to/JS] [A Programming language with Hindi Syntex](https://dev.to/ptprashanttripathi/a-programming-language-with-hindi-syntex-4l97)
 - [Lifehacker] [Stop Using This Recalled Lotion That May Contain Bacteria](https://lifehacker.com/stop-using-this-recalled-lotion-that-may-contain-bacter-1848679512)
-- [Dev.to/JS] [WebRTC with NodeJS: Building a Video Chat APP.](https://dev.to/metered-video/webrtc-with-nodejs-building-a-video-chat-app-1boc)
 - [Lifehacker] [Do These Two Things Every Time You Rent a Car](https://lifehacker.com/do-these-two-things-every-time-you-rent-a-car-1848679411)
 - [Lifehacker] [What&#39;s New on Hulu in April 2022](https://lifehacker.com/whats-new-on-hulu-in-april-2022-1848679537)
 - [Lifehacker] [Mod a Game Boy Your Younger Self Would’ve Spent Their Whole Allowance On](https://lifehacker.com/mod-a-game-boy-your-younger-self-would-ve-spent-their-w-1848672691)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Masturbation Myths That Need to Be Debunked Once and for All](https://lifehacker.com/7-masturbation-myths-that-need-to-be-debunked-once-and-1848657693)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Jerks Mad at &#39;Turning Red&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-a-1848672102)
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848672174)
-- [Lifehacker] [14 Ways to Achieve Immortality That Will Totally Work, I Swear](https://lifehacker.com/14-ways-to-achieve-immortality-that-will-totally-work-1848668929)
-- [Lifehacker] [These Hangover &#39;Cures&#39; Are BS](https://lifehacker.com/these-hangover-cures-are-bullshit-1848671926)
-- [Lifehacker] [How to Tell If Someone Is Stealing Your Wifi &lpar;and Boot Them Off&rpar;](https://lifehacker.com/how-to-tell-if-someone-is-stealing-your-wifi-and-boot-1848669997)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
