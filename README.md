@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reset Form After Submitted using jQuery](https://dev.to/codeanddeploy/reset-form-after-submitted-using-jquery-4iac)
+- [Dev.to/JS] [Working with the DOM](https://dev.to/fyrfli/working-with-the-dom-4a46)
 - [Dev.to/JS] [A quick way to deduplicate arrays in JavaScript](https://dev.to/avidworks/a-quick-way-to-deduplicate-arrays-in-javascript-16ji)
 - [Dev.to/JS] [Basic Find Query with Prisma](https://dev.to/kristenkinnearohlmann/basic-find-query-with-prisma-3hcb)
 - [Dev.to/JS] [Do you know unstable_batchedUpdates in React ? &lpar;enforce batching state update&rpar;](https://dev.to/devmoustafa97/do-you-know-unstablebatchedupdates-in-react-enforce-batching-state-update-5cn2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Linked List - Core Algos Overview](https://dev.to/ngl4/linked-list-core-algos-overview-47bf)
 - [Dev.to/JS] [Linked List in JavaScript](https://dev.to/fig781/linked-list-in-javascript-4a19)
 - [Dev.to/JS] [JAVASCRIPT FORM VALIDATION](https://dev.to/kebean10/javascript-form-validation-58c2)
-- [Dev.to/JS] [React router page just disappearing](https://dev.to/zetax/react-router-page-just-disappearing-1lhp)
-- [Dev.to/JS] [Turn a single brand color into your own Complete Web Color System... in minutes!](https://dev.to/arnelenero/turn-a-single-brand-color-into-your-own-complete-web-color-system-in-minutes-4nkb)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
