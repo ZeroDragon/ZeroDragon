@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day-47 Training At Ryaz](https://dev.to/mahin651/day-47-training-at-ryaz-2j3h)
+- [Lifehacker] [This Two-Ingredient Horseradish Sauce Is Perfect for Steak Frites](https://lifehacker.com/this-two-ingredient-horseradish-sauce-is-perfect-for-st-1848674319)
+- [Dev.to/JS] [Event tracking with Mixpanel and NodeJs](https://dev.to/mohie93/event-tracking-with-mixpanel-and-nodejs-je6)
+- [Dev.to/JS] [How to run Cypress tests on mobile browsers](https://dev.to/ganeshsirsi/how-to-run-cypress-tests-on-mobile-browsers-1b67)
+- [Dev.to/JS] [What is the better testing library for React, Enzyme &lpar;from Airbnb&rpar; VS React testing library &lpar;from Kent C. Dodds&rpar;?](https://dev.to/himanshukanojiya/what-is-the-better-testing-library-for-react-enzyme-from-airbnb-vs-react-testing-library-from-kent-c-dodds-c5e)
+- [Lifehacker] [How to Quickly Hide What You&#39;ve Been Watching on Your iPhone or Android](https://lifehacker.com/how-to-quickly-hide-what-youve-been-watching-on-your-ip-1848679766)
 - [Dev.to/JS] [Script to send a WhatsApp message to yourself](https://dev.to/ayyash/script-to-send-a-whatsapp-message-to-yourselftip-march-21-22-nm0)
 - [Dev.to/JS] [Ania Kubow: Building Tetris with JavaScript](https://dev.to/michaellarocca/ania-kubow-building-tetris-with-javascript-9h1)
 - [Dev.to/JS] [A Programming language with Hindi Syntex](https://dev.to/ptprashanttripathi/a-programming-language-with-hindi-syntex-4l97)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Design Systems Aren&#39;t Cheap](https://dev.to/claviska/design-systems-arent-cheap-2h64)
 - [Dev.to/JS] [Conquering JavaScript Hydration](https://dev.to/ryansolid/conquering-javascript-hydration-a9f)
 - [Lifehacker] [What&#39;s New on Hulu in April 2022](https://lifehacker.com/whats-new-on-hulu-in-april-2022-1848679537)
-- [Dev.to/JS] [When, Where &amp; Why Using Node JS is Good](https://dev.to/fireartd/when-where-why-using-node-js-is-good-494d)
-- [Dev.to/JS] [Spread operator in JavaScript.](https://dev.to/amolshelke2/spread-operator-in-javascript-4p1k)
-- [Dev.to/JS] [3 Headless Ecommerce Sites to Get Inspiration From](https://dev.to/cxmmerce/3-headless-ecommerce-sites-to-get-inspiration-from-alj)
-- [Dev.to/JS] [test](https://dev.to/see/test-13i1)
 - [Lifehacker] [Mod a Game Boy Your Younger Self Would’ve Spent Their Whole Allowance On](https://lifehacker.com/mod-a-game-boy-your-younger-self-would-ve-spent-their-w-1848672691)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Someone Is Stealing Your Wifi &lpar;and Boot Them Off&rpar;](https://lifehacker.com/how-to-tell-if-someone-is-stealing-your-wifi-and-boot-1848669997)
 - [Lifehacker] [How to Get Your Stuff Back After a Bad Breakup](https://lifehacker.com/how-to-get-your-stuff-back-after-a-bad-breakup-1848663369)
 - [Lifehacker] [When to Tell Your Coworkers Your Salary &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-tell-your-coworkers-your-salary-and-when-you-s-1848668657)
-- [Lifehacker] [10 of the Best Crops to Grow With Children](https://lifehacker.com/10-of-the-best-crops-to-grow-with-children-1848666436)
-- [Lifehacker] [This Two-Ingredient Maple Cream Cheese Is Basically Frosting](https://lifehacker.com/this-two-ingredient-maple-cream-cheese-is-basically-fro-1848669608)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
