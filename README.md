@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Formatando números e moedas com toLocaleString&lpar;&rpar;](https://dev.to/vanribeiro/formatando-numeros-e-moedas-com-tolocalestring-2j97)
 - [Dev.to/JS] [Padronize seus commits com Commitlint + Husky + Commitizen.](https://dev.to/vinicius_rodrigues/padronize-seus-commits-com-commitlint-husky-commitzen-2o6h)
 - [Dev.to/JS] [Adding Barcode Support to a Salesforce Mobile Application](https://dev.to/johnjvester/adding-barcode-support-to-a-salesforce-mobile-application-fib)
 - [Dev.to/JS] [Which is the best front-end language for future?](https://dev.to/hvm3/which-is-the-best-front-end-language-for-future-49m5)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do you know unstable_batchedUpdates in React ? &lpar;enforce batching state update&rpar;](https://dev.to/devmoustafa97/do-you-know-unstablebatchedupdates-in-react-enforce-batching-state-update-5cn2)
 - [Dev.to/JS] [11 JavaScript Examples to Source Code That Reveal Design Patterns In Use](https://dev.to/jsmanifest/11-javascript-examples-to-source-code-that-reveal-design-patterns-in-use-28a)
 - [Dev.to/JS] [First Fullstack Project: Tixxly](https://dev.to/santoast/first-fullstack-project-tixxly-576j)
-- [Dev.to/JS] [The Benefits of Using Next.js](https://dev.to/m1073496/the-benefits-of-using-nextjs-31b6)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
