@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add dark mode to Next.js project using Tailwind ?](https://dev.to/imkarthikeyan/how-to-add-dark-mode-to-nextjs-project-using-tailwind--gj7)
+- [Dev.to/JS] [Glass Bead](https://dev.to/glassbeadprice/glass-bead-45cg)
+- [Dev.to/JS] [Migrating Gatsby Remark Blog to MDX](https://dev.to/mmz001/migrating-gatsby-remark-blog-to-mdx-59oc)
 - [Dev.to/JS] [Apple Keto Gummies Australia Reviews 2022 – What SHOCKING Report Says?](https://dev.to/appleketogummy_/apple-keto-gummies-australia-reviews-2022-what-shocking-report-says-cnc)
 - [Dev.to/JS] [[Vite Plugin] Jump to local IDE source code while click the element of browser automatically.](https://dev.to/webfansplz/vite-plugin-jump-to-local-ide-source-code-while-click-the-element-of-browser-automatically-2j2n)
 - [Dev.to/JS] [Day 18/100; 100 Days of Code](https://dev.to/xurgg/day-18100-100-days-of-code-2fg0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which is the best front-end language for future?](https://dev.to/hvm3/which-is-the-best-front-end-language-for-future-49m5)
 - [Dev.to/JS] [Which is the best backend language for future?](https://dev.to/hvm3/which-is-the-best-backend-language-for-future-2jk4)
 - [Dev.to/JS] [Reset Form After Submitted using jQuery](https://dev.to/codeanddeploy/reset-form-after-submitted-using-jquery-4iac)
-- [Dev.to/JS] [Working with the DOM in javascript - substring comparisons?](https://dev.to/fyrfli/working-with-the-dom-4a46)
-- [Dev.to/JS] [A quick way to deduplicate arrays in JavaScript](https://dev.to/avidworks/a-quick-way-to-deduplicate-arrays-in-javascript-16ji)
-- [Dev.to/JS] [Basic Find Query with Prisma](https://dev.to/kristenkinnearohlmann/basic-find-query-with-prisma-3hcb)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
