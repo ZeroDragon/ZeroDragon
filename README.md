@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Fullstack Project: Tixxly](https://dev.to/santoast/first-fullstack-project-tixxly-576j)
+- [Dev.to/JS] [The Benefits of Using Next.js](https://dev.to/m1073496/the-benefits-of-using-nextjs-31b6)
+- [Dev.to/JS] [Linked List - Basics](https://dev.to/ngl4/linked-list-basics-2452)
+- [Dev.to/JS] [Linked List - Core Algos Overview](https://dev.to/ngl4/linked-list-core-algos-overview-47bf)
+- [Dev.to/JS] [Linked List in JavaScript](https://dev.to/fig781/linked-list-in-javascript-4a19)
 - [Dev.to/JS] [JAVASCRIPT FORM VALIDATION](https://dev.to/kebean10/javascript-form-validation-58c2)
 - [Dev.to/JS] [React router page just disappearing](https://dev.to/zetax/react-router-page-just-disappearing-1lhp)
 - [Dev.to/JS] [Turn a single brand color into your own Complete Web Color System... in minutes!](https://dev.to/arnelenero/turn-a-single-brand-color-into-your-own-complete-web-color-system-in-minutes-4nkb)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles 1.42.4 Released](https://dev.to/matteobruni/tsparticles-1424-released-32nd)
 - [Dev.to/JS] [Are you using useCallback properly 🤔](https://dev.to/markoarsenal/are-you-using-usecallback-properly-5g2c)
 - [Dev.to/JS] [Would you rather be a 10x dev or one with imagination?](https://dev.to/dashpy/would-you-rather-be-a-10x-dev-or-one-with-imagination-4pl)
-- [Dev.to/JS] [Weekly Digest 11/2022](https://dev.to/marcobiedermann/weekly-digest-112022-38d2)
-- [Dev.to/JS] [Integer to Roman](https://dev.to/seth_king/integer-to-roman-oc7)
-- [Dev.to/JS] [Como criar um npx](https://dev.to/matheusg18/como-criar-um-npx-2il4)
-- [Dev.to/JS] [MyUnsplash](https://dev.to/nisabmohd/myunsplash-3n09)
-- [Dev.to/JS] [Open Source Adventures: Episode 18: Imba 2](https://dev.to/taw/open-source-adventures-episode-18-imba-2-o4d)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
