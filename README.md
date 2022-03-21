@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Spread operator in JavaScript.](https://dev.to/amolshelke2/spread-operator-in-javascript-4p1k)
+- [Dev.to/JS] [3 Headless Ecommerce Sites to Get Inspiration From](https://dev.to/cxmmerce/3-headless-ecommerce-sites-to-get-inspiration-from-alj)
+- [Dev.to/JS] [test](https://dev.to/see/test-13i1)
+- [Lifehacker] [Mod a Game Boy Your Younger Self Would’ve Spent Their Whole Allowance On](https://lifehacker.com/mod-a-game-boy-your-younger-self-would-ve-spent-their-w-1848672691)
 - [Dev.to/JS] [Implementing advanced usePrevious hook with React useRef](https://dev.to/adevnadia/implementing-advanced-useprevious-hook-with-react-useref-185l)
 - [Dev.to/JS] [Difference between React Component and Element](https://dev.to/davydocsurg/difference-between-react-component-and-element-311l)
 - [Dev.to/JS] [The many Quirks of Javascript Dates](https://dev.to/smpnjn/the-many-quirks-of-javascript-dates-19do)
-- [Dev.to/JS] [MOST POPULAR - OM Logistics | 3PL Company in India | Supply Chain](https://dev.to/omlogisticsco1/most-popular-om-logistics-3pl-company-in-india-supply-chain-3adh)
 - [Dev.to/JS] [Tell me you&#39;re a Software tester without telling me you&#39;re a Software tester.](https://dev.to/hvm3/tell-me-youre-a-software-tester-without-telling-me-youre-a-software-tester-3m9l)
 - [Dev.to/JS] [How to Create and Validate Forms in React using Formik and Yup](https://dev.to/shahednasser/how-to-create-and-validate-forms-in-react-using-formik-and-yup-5e7i)
 - [Dev.to/JS] [The Developers Guide To React Amsterdam](https://dev.to/httpjunkie/the-developers-guide-to-react-amsterdam-4382)
 - [Dev.to/JS] [Image Processing in AI – A Beginner’s Guide](https://dev.to/rajatchauhan/image-processing-in-ai-a-beginners-guide-1258)
-- [Dev.to/JS] [GOOD POWER FULL UPDATES - Best Road Transportation Companies In India 2021 - OMLOGISTICS](https://dev.to/omlogisticsco1/good-power-full-updates-best-road-transportation-companies-in-india-2021-omlogistics-1f9b)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
-- [Dev.to/JS] [Most power type-Top 10 Logistics Companies in India 2021 |Top 5 Logistics Companies in India in terms of Revenue | OMlogistics](https://dev.to/omlogisticsco1/most-power-type-top-10-logistics-companies-in-india-2021-top-5-logistics-companies-in-india-in-terms-of-revenue-omlogistics-3d4c)
-- [Dev.to/JS] [Most power full work -Courier Logistics Services Meaning ||Top Logistics Company in Delhi - 2022 Reviews | OMLOGISTICS](https://dev.to/omlogisticsco1/most-power-full-work-courier-logistics-services-meaning-top-logistics-company-in-delhi-2022-reviews-omlogistics-312i)
-- [Dev.to/JS] [Top Most 5 Best 3pl Logistics Companies in India || OMLOGISTICS](https://dev.to/omlogisticsco1/best-3pl-logistics-companies-in-india-omlogistics-3782)
+- [Dev.to/JS] [Covid-19 Tracker App](https://dev.to/hr21don/covid-19-tracker-app-340d)
+- [Dev.to/JS] [How to fix `create-react-app` 4.0.3, which is behind the latest release &lpar;5.0.0&rpar;](https://dev.to/ukaypromise/how-to-fix-create-react-app-403-which-is-behind-the-latest-release-500-4lea)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Care for &lpar;and Reduce the Appearance of&rpar; a Scar](https://lifehacker.com/how-to-care-for-and-reduce-the-appearance-of-a-scar-1848667011)
 - [Lifehacker] [How to Deal With a Coworker You Absolutely Hate](https://lifehacker.com/how-to-deal-with-a-coworker-you-absolutely-hate-1848655740)
 - [Lifehacker] [How to Finally Touch Your Toes, Maybe Even Today](https://lifehacker.com/how-to-finally-touch-your-toes-maybe-even-today-1848668349)
-- [Lifehacker] [Season the Lettuce on Your Next Sandwich, You Coward](https://lifehacker.com/season-the-lettuce-on-your-next-sandwich-you-coward-1848668059)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
