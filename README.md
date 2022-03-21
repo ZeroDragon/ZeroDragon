@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Brand NEW Kind of DEBUGGER for JavaScript &lpar;Dbux: Why? What?&rpar;](https://dev.to/domiii/a-brand-new-kind-of-debugger-for-javascript-dbux-why-what-1dj7)
+- [Dev.to/JS] [Turning React apps into PDFs with Next.js, NodeJS and puppeteer](https://dev.to/jordykoppen/turning-react-apps-into-pdfs-with-nextjs-nodejs-and-puppeteer-mfi)
+- [Lifehacker] [5 of the Best Budget Smartphones of 2022](https://lifehacker.com/5-of-the-best-budget-smartphones-of-2022-1848680437)
+- [Dev.to/JS] [Ng-News: Issue 22/11](https://dev.to/rainerhahnekamp/ng-news-issue-2211-8hb)
+- [Lifehacker] [Questions You Should Never Ask on a First Date &lpar;and What to Ask Instead&rpar;](https://lifehacker.com/questions-you-should-never-ask-on-a-first-date-and-wha-1848680416)
+- [Dev.to/JS] [CRUD Blog App &lpar;with comments&rpar; developed with MERN](https://dev.to/tashynw/crud-blog-app-with-comments-developed-with-mern-5733)
 - [Dev.to/JS] [Day-47 Training At Ryaz](https://dev.to/mahin651/day-47-training-at-ryaz-2j3h)
 - [Lifehacker] [This Two-Ingredient Horseradish Sauce Is Perfect for Steak Frites](https://lifehacker.com/this-two-ingredient-horseradish-sauce-is-perfect-for-st-1848674319)
 - [Dev.to/JS] [Event tracking with Mixpanel and NodeJs](https://dev.to/mohie93/event-tracking-with-mixpanel-and-nodejs-je6)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Programming language with Hindi Syntex](https://dev.to/ptprashanttripathi/a-programming-language-with-hindi-syntex-4l97)
 - [Lifehacker] [Stop Using This Recalled Lotion That May Contain Bacteria](https://lifehacker.com/stop-using-this-recalled-lotion-that-may-contain-bacter-1848679512)
 - [Dev.to/JS] [WebRTC with NodeJS: Building a Video Chat APP.](https://dev.to/metered-video/webrtc-with-nodejs-building-a-video-chat-app-1boc)
-- [Dev.to/JS] [Useful React tools and resources](https://dev.to/jps27cse/useful-react-tools-and-resources-akn)
-- [Dev.to/JS] [Paracetamol.js💊| #82: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-82-explica-este-codigo-javascript-4ihf)
 - [Lifehacker] [Do These Two Things Every Time You Rent a Car](https://lifehacker.com/do-these-two-things-every-time-you-rent-a-car-1848679411)
-- [Dev.to/JS] [Design Systems Aren&#39;t Cheap](https://dev.to/claviska/design-systems-arent-cheap-2h64)
-- [Dev.to/JS] [Conquering JavaScript Hydration](https://dev.to/ryansolid/conquering-javascript-hydration-a9f)
 - [Lifehacker] [What&#39;s New on Hulu in April 2022](https://lifehacker.com/whats-new-on-hulu-in-april-2022-1848679537)
 - [Lifehacker] [Mod a Game Boy Your Younger Self Would’ve Spent Their Whole Allowance On](https://lifehacker.com/mod-a-game-boy-your-younger-self-would-ve-spent-their-w-1848672691)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 Ways to Achieve Immortality That Will Totally Work, I Swear](https://lifehacker.com/14-ways-to-achieve-immortality-that-will-totally-work-1848668929)
 - [Lifehacker] [These Hangover &#39;Cures&#39; Are BS](https://lifehacker.com/these-hangover-cures-are-bullshit-1848671926)
 - [Lifehacker] [How to Tell If Someone Is Stealing Your Wifi &lpar;and Boot Them Off&rpar;](https://lifehacker.com/how-to-tell-if-someone-is-stealing-your-wifi-and-boot-1848669997)
-- [Lifehacker] [How to Get Your Stuff Back After a Bad Breakup](https://lifehacker.com/how-to-get-your-stuff-back-after-a-bad-breakup-1848663369)
-- [Lifehacker] [When to Tell Your Coworkers Your Salary &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-tell-your-coworkers-your-salary-and-when-you-s-1848668657)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
