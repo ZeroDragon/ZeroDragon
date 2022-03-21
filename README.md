@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top Most 5 Best 3pl Logistics Companies in India || OMLOGISTICS](https://dev.to/omlogisticsco1/best-3pl-logistics-companies-in-india-omlogistics-3782)
+- [Dev.to/JS] [Covid-19 Tracker App](https://dev.to/hr21don/covid-19-tracker-app-340d)
+- [Dev.to/JS] [How to fix `create-react-app` 4.0.3, which is behind the latest release &lpar;5.0.0&rpar;](https://dev.to/ukaypromise/how-to-fix-create-react-app-403-which-is-behind-the-latest-release-500-4lea)
 - [Dev.to/JS] [suggest project titles plzz](https://dev.to/jithinvijayan/suggest-project-titles-plzz-34if)
 - [Dev.to/JS] [What the heck is SSG: Static site generation explained with Next.js](https://dev.to/anshuman_bhardwaj/what-the-heck-is-ssg-static-site-generation-explained-with-nextjs-5cja)
 - [Dev.to/JS] [How to add dark mode to Next.js project using Tailwind ?](https://dev.to/imkarthikeyan/how-to-add-dark-mode-to-nextjs-project-using-tailwind--gj7)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Vite Plugin] Jump to local IDE source code while click the element of browser automatically.](https://dev.to/webfansplz/vite-plugin-jump-to-local-ide-source-code-while-click-the-element-of-browser-automatically-2j2n)
 - [Dev.to/JS] [Day 18/100; 100 Days of Code](https://dev.to/xurgg/day-18100-100-days-of-code-2fg0)
 - [Dev.to/JS] [Formatando números e moedas com toLocaleString&lpar;&rpar;](https://dev.to/vanribeiro/formatando-numeros-e-moedas-com-tolocalestring-2j97)
-- [Dev.to/JS] [Padronize seus commits com Commitlint + Husky + Commitizen.](https://dev.to/vinicius_rodrigues/padronize-seus-commits-com-commitlint-husky-commitzen-2o6h)
-- [Dev.to/JS] [Adding Barcode Support to a Salesforce Mobile Application](https://dev.to/johnjvester/adding-barcode-support-to-a-salesforce-mobile-application-fib)
-- [Dev.to/JS] [Which is the best front-end language for future?](https://dev.to/hvm3/which-is-the-best-front-end-language-for-future-49m5)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
 - [Lifehacker] [Don&#39;t Prune These Plants in the Spring](https://lifehacker.com/dont-prune-these-plants-in-the-spring-1848676636)
