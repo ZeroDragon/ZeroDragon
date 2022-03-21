@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix &#39;Elden Ring&#39; When Hackers Send You on an Infinite Death Loop](https://lifehacker.com/how-to-fix-elden-ring-when-hackers-send-you-on-an-infin-1848681820)
+- [Lifehacker] [Stop Being a Dick on Venmo](https://lifehacker.com/stop-being-a-dick-on-venmo-1848681834)
 - [Dev.to/JS] [বইটি নিয়ে আমার কথা!](https://dev.to/shihab4t/bitti-niyye-aamaar-kthaa-3phc)
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
 - [Dev.to/JS] [Create A Linktree Clone Using React](https://dev.to/codecast/create-a-linktree-clone-using-react-2hdi)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
-- [Lifehacker] [Stop Adding Banana Peels to Your Plants &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-adding-banana-peels-to-your-plants-and-do-this-in-1848673011)
-- [Lifehacker] [Should You Buy a Vacation Home Before a Starter Home?](https://lifehacker.com/should-you-buy-a-vacation-home-before-a-starter-home-1848672753)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
