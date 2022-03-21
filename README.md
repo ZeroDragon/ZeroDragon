@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Places You Can Get Athlete’s Foot That Aren’t Your Feet](https://lifehacker.com/all-the-places-you-can-get-athlete-s-foot-that-aren-t-y-1848680602)
+- [Dev.to/JS] [How to Refactor the global variables in javascript?](https://dev.to/ajayv1/how-to-refactor-the-global-variables-in-javascript-482k)
 - [Lifehacker] [Stop Storing These Items in Your Junk Drawer](https://lifehacker.com/stop-storing-these-items-in-your-junk-drawer-1848680113)
 - [Dev.to/JS] [A look at the &quot;this&quot; Keyword in JavaScript](https://dev.to/chidiesobe/a-look-at-the-this-keyword-in-javascript-2nk4)
 - [Lifehacker] [How to Make Cheap Bookshelves Look Like Expensive Built-Ins](https://lifehacker.com/how-to-make-cheap-bookshelves-look-like-expensive-built-1848679756)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Two-Ingredient Horseradish Sauce Is Perfect for Steak Frites](https://lifehacker.com/this-two-ingredient-horseradish-sauce-is-perfect-for-st-1848674319)
 - [Dev.to/JS] [Event tracking with Mixpanel and NodeJs](https://dev.to/mohie93/event-tracking-with-mixpanel-and-nodejs-je6)
 - [Dev.to/JS] [How to run Cypress tests on mobile browsers](https://dev.to/ganeshsirsi/how-to-run-cypress-tests-on-mobile-browsers-1b67)
-- [Dev.to/JS] [What is the better testing library for React, Enzyme &lpar;from Airbnb&rpar; VS React testing library &lpar;from Kent C. Dodds&rpar;?](https://dev.to/himanshukanojiya/what-is-the-better-testing-library-for-react-enzyme-from-airbnb-vs-react-testing-library-from-kent-c-dodds-c5e)
 - [Lifehacker] [How to Quickly Hide What You&#39;ve Been Watching on Your iPhone or Android](https://lifehacker.com/how-to-quickly-hide-what-youve-been-watching-on-your-ip-1848679766)
 - [Lifehacker] [Stop Using This Recalled Lotion That May Contain Bacteria](https://lifehacker.com/stop-using-this-recalled-lotion-that-may-contain-bacter-1848679512)
 - [Lifehacker] [Do These Two Things Every Time You Rent a Car](https://lifehacker.com/do-these-two-things-every-time-you-rent-a-car-1848679411)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Buy a Vacation Home Before a Starter Home?](https://lifehacker.com/should-you-buy-a-vacation-home-before-a-starter-home-1848672753)
 - [Lifehacker] [7 Masturbation Myths That Need to Be Debunked Once and for All](https://lifehacker.com/7-masturbation-myths-that-need-to-be-debunked-once-and-1848657693)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Jerks Mad at &#39;Turning Red&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-a-1848672102)
-- [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848672174)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
