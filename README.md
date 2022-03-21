@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Script to send a WhatsApp message to yourself](https://dev.to/ayyash/script-to-send-a-whatsapp-message-to-yourselftip-march-21-22-nm0)
+- [Dev.to/JS] [Ania Kubow: Building Tetris with JavaScript](https://dev.to/michaellarocca/ania-kubow-building-tetris-with-javascript-9h1)
+- [Dev.to/JS] [A Programming language with Hindi Syntex](https://dev.to/ptprashanttripathi/a-programming-language-with-hindi-syntex-4l97)
+- [Lifehacker] [Stop Using This Recalled Lotion That May Contain Bacteria](https://lifehacker.com/stop-using-this-recalled-lotion-that-may-contain-bacter-1848679512)
+- [Dev.to/JS] [WebRTC with NodeJS: Building a Video Chat APP.](https://dev.to/metered-video/webrtc-with-nodejs-building-a-video-chat-app-1boc)
+- [Dev.to/JS] [Useful React tools and resources](https://dev.to/jps27cse/useful-react-tools-and-resources-akn)
+- [Dev.to/JS] [Paracetamol.js💊| #82: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-82-explica-este-codigo-javascript-4ihf)
+- [Lifehacker] [Do These Two Things Every Time You Rent a Car](https://lifehacker.com/do-these-two-things-every-time-you-rent-a-car-1848679411)
 - [Dev.to/JS] [Design Systems Aren&#39;t Cheap](https://dev.to/claviska/design-systems-arent-cheap-2h64)
 - [Dev.to/JS] [Conquering JavaScript Hydration](https://dev.to/ryansolid/conquering-javascript-hydration-a9f)
 - [Lifehacker] [What&#39;s New on Hulu in April 2022](https://lifehacker.com/whats-new-on-hulu-in-april-2022-1848679537)
@@ -31,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Headless Ecommerce Sites to Get Inspiration From](https://dev.to/cxmmerce/3-headless-ecommerce-sites-to-get-inspiration-from-alj)
 - [Dev.to/JS] [test](https://dev.to/see/test-13i1)
 - [Lifehacker] [Mod a Game Boy Your Younger Self Would’ve Spent Their Whole Allowance On](https://lifehacker.com/mod-a-game-boy-your-younger-self-would-ve-spent-their-w-1848672691)
-- [Dev.to/JS] [Implementing advanced usePrevious hook with React useRef](https://dev.to/adevnadia/implementing-advanced-useprevious-hook-with-react-useref-185l)
-- [Dev.to/JS] [Difference between React Component and Element](https://dev.to/davydocsurg/difference-between-react-component-and-element-311l)
-- [Dev.to/JS] [The many Quirks of Javascript Dates](https://dev.to/smpnjn/the-many-quirks-of-javascript-dates-19do)
-- [Dev.to/JS] [Tell me you&#39;re a Software tester without telling me you&#39;re a Software tester.](https://dev.to/hvm3/tell-me-youre-a-software-tester-without-telling-me-youre-a-software-tester-3m9l)
-- [Dev.to/JS] [How to Create and Validate Forms in React using Formik and Yup](https://dev.to/shahednasser/how-to-create-and-validate-forms-in-react-using-formik-and-yup-5e7i)
-- [Dev.to/JS] [The Developers Guide To React Amsterdam](https://dev.to/httpjunkie/the-developers-guide-to-react-amsterdam-4382)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Lifehacker] [Watch Out for These Friendship Red Flags](https://lifehacker.com/watch-out-for-these-friendship-red-flags-1848676641)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Tell Your Coworkers Your Salary &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-to-tell-your-coworkers-your-salary-and-when-you-s-1848668657)
 - [Lifehacker] [10 of the Best Crops to Grow With Children](https://lifehacker.com/10-of-the-best-crops-to-grow-with-children-1848666436)
 - [Lifehacker] [This Two-Ingredient Maple Cream Cheese Is Basically Frosting](https://lifehacker.com/this-two-ingredient-maple-cream-cheese-is-basically-fro-1848669608)
-- [Lifehacker] [How to Care for &lpar;and Reduce the Appearance of&rpar; a Scar](https://lifehacker.com/how-to-care-for-and-reduce-the-appearance-of-a-scar-1848667011)
-- [Lifehacker] [How to Deal With a Coworker You Absolutely Hate](https://lifehacker.com/how-to-deal-with-a-coworker-you-absolutely-hate-1848655740)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
