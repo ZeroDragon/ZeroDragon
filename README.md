@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fantasy JavaScript posters?](https://dev.to/tomaszs2/fantasy-javascript-posters-4oj6)
+- [Dev.to/JS] [&quot;A&quot; Phase Created by Nubank and Alura](https://dev.to/mateusspp/a-phase-created-by-nubank-and-alura-2kg5)
+- [Dev.to/JS] [Fase &quot;A&quot; - Nubank e Alura](https://dev.to/mateusspp/fase-a-nubank-e-alura-1f1d)
 - [Dev.to/JS] [Build a Point-of Sale App with Serialized](https://dev.to/ashleyintech/build-a-point-of-sale-app-with-serialized-3e3m)
 - [Dev.to/JS] [Which is the next gen JS Frontend Framework in 2022?](https://dev.to/akehsanz/which-is-the-next-gen-js-frontend-framework-in-2022-25ef)
 - [Dev.to/JS] [Folder Structure using React](https://dev.to/maimohamed/folder-structure-using-react-p97)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A look at the &quot;this&quot; Keyword in JavaScript](https://dev.to/chidiesobe/a-look-at-the-this-keyword-in-javascript-2nk4)
 - [Lifehacker] [How to Make Cheap Bookshelves Look Like Expensive Built-Ins](https://lifehacker.com/how-to-make-cheap-bookshelves-look-like-expensive-built-1848679756)
 - [Dev.to/JS] [LAZY LOADING IN ANGULAR](https://dev.to/deepachaurasia1/lazy-loading-in-angular-3mf4)
-- [Dev.to/JS] [Network graph dynamically in javascript](https://dev.to/zkel/network-graph-dynamically-in-javascript-3p2c)
-- [Dev.to/JS] [Simple Toggle Button&lpar;On/Off&rpar;](https://dev.to/asapsonter/simple-toggle-buttononoff-3k2i)
 - [Lifehacker] [13 Shows Netflix Canceled Way Too Soon](https://lifehacker.com/13-shows-netflix-canceled-way-too-soon-1848679614)
-- [Dev.to/JS] [A Brand NEW Kind of DEBUGGER for JavaScript &lpar;Dbux: Why? What?&rpar;](https://dev.to/domiii/a-brand-new-kind-of-debugger-for-javascript-dbux-why-what-1dj7)
 - [Lifehacker] [5 of the Best Budget Smartphones of 2022](https://lifehacker.com/5-of-the-best-budget-smartphones-of-2022-1848680437)
 - [Lifehacker] [Questions You Should Never Ask on a First Date &lpar;and What to Ask Instead&rpar;](https://lifehacker.com/questions-you-should-never-ask-on-a-first-date-and-wha-1848680416)
 - [Lifehacker] [This Two-Ingredient Horseradish Sauce Is Perfect for Steak Frites](https://lifehacker.com/this-two-ingredient-horseradish-sauce-is-perfect-for-st-1848674319)
