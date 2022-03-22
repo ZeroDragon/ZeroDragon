@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The JavaScript Skills You Need For React](https://dev.to/sananayab/the-javascript-skills-you-need-for-react-4can)
+- [Dev.to/JS] [Phase 2 Completed](https://dev.to/andy6503/phase-2-completed-587d)
 - [Dev.to/JS] [Hello World!](https://dev.to/jordantaylorj/hello-world-2an1)
 - [Dev.to/JS] [current project](https://dev.to/austin_heisleycool_eaa84/current-project-1649)
 - [Dev.to/JS] [Fantasy JavaScript posters?](https://dev.to/tomaszs2/fantasy-javascript-posters-4oj6)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [বইটি নিয়ে আমার কথা!](https://dev.to/shihab4t/bitti-niyye-aamaar-kthaa-3phc)
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
 - [Dev.to/JS] [Create A Linktree Clone Using React](https://dev.to/codecast/create-a-linktree-clone-using-react-2hdi)
-- [Dev.to/JS] [Perspective API](https://dev.to/thomasbnt/perspective-api-20al)
 - [Lifehacker] [What Is a Relationship ‘Soft Launch,’ and How Can You Pull It Off?](https://lifehacker.com/what-is-a-relationship-soft-launch-and-how-can-you-p-1848681538)
 - [Lifehacker] [All the Places You Can Get Athlete’s Foot That Aren’t Your Feet](https://lifehacker.com/all-the-places-you-can-get-athlete-s-foot-that-aren-t-y-1848680602)
-- [Dev.to/JS] [How to Refactor the global variables in javascript?](https://dev.to/ajayv1/how-to-refactor-the-global-variables-in-javascript-482k)
 - [Lifehacker] [Stop Storing These Items in Your Junk Drawer](https://lifehacker.com/stop-storing-these-items-in-your-junk-drawer-1848680113)
 - [Lifehacker] [How to Make Cheap Bookshelves Look Like Expensive Built-Ins](https://lifehacker.com/how-to-make-cheap-bookshelves-look-like-expensive-built-1848679756)
 - [Lifehacker] [13 Shows Netflix Canceled Way Too Soon](https://lifehacker.com/13-shows-netflix-canceled-way-too-soon-1848679614)
