@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lean Start Keto - Is It Scam Or Legit &amp; Real Results, Ingredients](https://dev.to/leanstartketoi1/lean-start-keto-is-it-scam-or-legit-real-results-ingredients-1691)
+- [Dev.to/JS] [Angular vs React vs Vue – The Right Framework For You](https://dev.to/architprajapati/angular-vs-react-vs-vue-the-right-framework-for-you-4e8g)
+- [Dev.to/JS] [Function context in JavaScript](https://dev.to/princekizhthara/function-context-in-javascript-1aok)
+- [Dev.to/JS] [Simple Dynamic Form Validation Function Using PHP](https://dev.to/codeanddeploy/simple-dynamic-form-validation-function-using-php-3fe2)
 - [Dev.to/JS] [Sanitize Input using PHP](https://dev.to/codeanddeploy/sanitize-input-using-php-1pa6)
 - [Dev.to/JS] [Check If Email Address Is Already Exists in The Database](https://dev.to/codeanddeploy/check-if-email-address-is-already-exists-in-the-database-4jf7)
 - [Dev.to/JS] [Hire ReactJs Developers in 2022](https://dev.to/yashexternlabs/hire-reactjs-developers-in-2022-4i0f)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Interview Question #2 &lpar;Accidental Global Variable&rpar;](https://dev.to/learndaily1/js-interview-question-2-accidental-global-variable-4fjb)
 - [Dev.to/JS] [The JavaScript Skills You Need For React](https://dev.to/sananayab/the-javascript-skills-you-need-for-react-4can)
 - [Dev.to/JS] [Phase 2 Completed](https://dev.to/andy6503/phase-2-completed-587d)
-- [Dev.to/JS] [Hello World!](https://dev.to/jordantaylorj/hello-world-2an1)
-- [Dev.to/JS] [current project](https://dev.to/austin_heisleycool_eaa84/current-project-1649)
-- [Dev.to/JS] [Fantasy JavaScript posters?](https://dev.to/tomaszs2/fantasy-javascript-posters-4oj6)
-- [Dev.to/JS] [&quot;A&quot; Phase Created by Nubank and Alura](https://dev.to/mateusspp/a-phase-created-by-nubank-and-alura-2kg5)
 - [Lifehacker] [How to Fix &#39;Elden Ring&#39; When Hackers Send You on an Infinite Death Loop](https://lifehacker.com/how-to-fix-elden-ring-when-hackers-send-you-on-an-infin-1848681820)
 - [Lifehacker] [Stop Being a Dick on Venmo](https://lifehacker.com/stop-being-a-dick-on-venmo-1848681834)
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
