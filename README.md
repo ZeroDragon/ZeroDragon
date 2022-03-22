@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building complex dashboards and data-driven UIs in React - Interview with creator of React Query and React Table, Tanner Linsley](https://dev.to/clssmitty/building-complex-dashboards-and-data-driven-uis-in-react-interview-with-creator-of-react-query-and-react-table-tanner-linsley-3f6p)
+- [Dev.to/JS] [How to handle boolean values in SQLite using JavaScript Proxies](https://dev.to/mliakos/how-to-handle-boolean-values-in-sqlite-using-javascript-proxies-1mg1)
+- [Lifehacker] [You Should Change These TikTok Privacy Settings](https://lifehacker.com/you-should-change-these-tiktok-privacy-settings-1848685959)
+- [Dev.to/JS] [𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐝𝐨𝐮𝐛𝐥𝐞 𝐞𝐪𝐮𝐚𝐥𝐬 == 𝐚𝐧𝐝 𝐭𝐫𝐢𝐩𝐥𝐞 𝐞𝐪𝐮𝐚𝐥𝐬 === 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭?](https://dev.to/hrid620/--49ck)
+- [Lifehacker] [How to Establish a Core Strength Routine You&#39;ll Actually Stick To](https://lifehacker.com/how-to-establish-a-core-strength-routine-youll-actually-1848686501)
 - [Lifehacker] [How to Slice a Strip of Citrus Without Risking Life and Limb](https://lifehacker.com/how-to-slice-a-strip-of-citrus-without-risking-life-and-1848686991)
 - [Dev.to/JS] [Asynchronous JavaScript: callbacks, promises, Async/await, Event loop - part 1](https://dev.to/cinarb2/asynchronous-javascript-callbacks-promises-asyncawait-event-loop-part-1-4ep8)
 - [Dev.to/JS] [Answer: How To Pass Style Props into a reusable component in React Native for more flexible styling in the future](https://dev.to/anatugreen/answer-how-to-pass-style-props-into-a-reusable-component-in-react-native-for-more-flexible-styling-in-the-future-41mp)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is it DFS using adjacency Matrix?](https://dev.to/urstrulyvishwak/is-it-dfs-using-adjacency-matrix-1mf0)
 - [Dev.to/JS] [Building a ToDo App in React](https://dev.to/shivishbrahma/building-a-todo-app-in-react-51c8)
 - [Lifehacker] [8 Easy Ways to Improve &lpar;or Replace&rpar; Windows 11&#39;s Start Menu](https://lifehacker.com/8-easy-ways-to-improve-or-replace-windows-11s-start-m-1848684451)
-- [Dev.to/JS] [Practical limits of React hooks - Recursion](https://dev.to/ondrejvelisek/practical-limits-of-react-hooks-recursion-555)
-- [Dev.to/JS] [Javascript Map, and How it is Different from forEach](https://dev.to/smpnjn/javascript-map-and-how-it-is-different-from-foreach-1j1i)
-- [Dev.to/JS] [Guess the Output ??? #1](https://dev.to/shamgurav96/guess-the-output-1-1d37)
 - [Lifehacker] [10 of the Worst Etiquette Faux Pas Lifehacker Readers Ever Experienced](https://lifehacker.com/10-of-the-worst-etiquette-faux-pas-lifehacker-readers-e-1848681196)
 - [Lifehacker] [12 Common ‘Laws’ of Psychology That Are Wrong](https://lifehacker.com/12-common-laws-of-psychology-that-are-bullshit-1848683494)
 - [Lifehacker] [The Best Shortcuts for Using GIFs and Emojis on Your Computer](https://lifehacker.com/the-best-shortcuts-for-using-gifs-and-emojis-on-your-co-1848684883)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Questions You Should Never Ask on a First Date &lpar;and What to Ask Instead&rpar;](https://lifehacker.com/questions-you-should-never-ask-on-a-first-date-and-wha-1848680416)
 - [Lifehacker] [This Two-Ingredient Horseradish Sauce Is Perfect for Steak Frites](https://lifehacker.com/this-two-ingredient-horseradish-sauce-is-perfect-for-st-1848674319)
 - [Lifehacker] [How to Quickly Hide What You&#39;ve Been Watching on Your iPhone or Android](https://lifehacker.com/how-to-quickly-hide-what-youve-been-watching-on-your-ip-1848679766)
-- [Lifehacker] [Stop Using This Recalled Lotion That May Contain Bacteria](https://lifehacker.com/stop-using-this-recalled-lotion-that-may-contain-bacter-1848679512)
-- [Lifehacker] [Do These Two Things Every Time You Rent a Car](https://lifehacker.com/do-these-two-things-every-time-you-rent-a-car-1848679411)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
