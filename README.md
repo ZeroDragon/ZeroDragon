@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use useMemo for conditional render](https://dev.to/putraridho/use-usememo-for-conditional-render-2ip1)
+- [Dev.to/JS] [Create Random team names for projects](https://dev.to/pixiumdigital/create-random-team-names-for-projects-3nf9)
+- [Dev.to/JS] [Best PG in Bengaluru for students or Job Seeker #top10Bengalurupg](https://dev.to/code_leads/best-pg-in-bengaluru-for-students-or-job-seeker-top10bengalurupg-1k5a)
 - [Dev.to/JS] [SEO in Angular with SSR - Part I](https://dev.to/ayyash/seo-in-angular-with-ssr-part-i-55fa)
 - [Dev.to/JS] [Lean Start Keto - Is It Scam Or Legit &amp; Real Results, Ingredients](https://dev.to/leanstartketoi1/lean-start-keto-is-it-scam-or-legit-real-results-ingredients-1691)
 - [Dev.to/JS] [Angular vs React vs Vue – The Right Framework For You](https://dev.to/architprajapati/angular-vs-react-vs-vue-the-right-framework-for-you-4e8g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Check If Email Address Is Already Exists in The Database](https://dev.to/codeanddeploy/check-if-email-address-is-already-exists-in-the-database-4jf7)
 - [Dev.to/JS] [Hire ReactJs Developers in 2022](https://dev.to/yashexternlabs/hire-reactjs-developers-in-2022-4i0f)
 - [Dev.to/JS] [The First Few Lines](https://dev.to/jojocoding/the-first-few-lines-193m)
-- [Dev.to/JS] [#39 - Two Sum CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/39-two-sum-codewars-kata-6-kyu-gef)
-- [Dev.to/JS] [JS Interview Question #2 &lpar;Accidental Global Variable&rpar;](https://dev.to/learndaily1/js-interview-question-2-accidental-global-variable-4fjb)
-- [Dev.to/JS] [The JavaScript Skills You Need For React](https://dev.to/sananayab/the-javascript-skills-you-need-for-react-4can)
 - [Lifehacker] [How to Fix &#39;Elden Ring&#39; When Hackers Send You on an Infinite Death Loop](https://lifehacker.com/how-to-fix-elden-ring-when-hackers-send-you-on-an-infin-1848681820)
 - [Lifehacker] [Stop Being a Dick on Venmo](https://lifehacker.com/stop-being-a-dick-on-venmo-1848681834)
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
