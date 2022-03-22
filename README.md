@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hire ReactJs Developers in 2022](https://dev.to/yashexternlabs/hire-reactjs-developers-in-2022-4i0f)
+- [Dev.to/JS] [The First Few Lines](https://dev.to/jojocoding/the-first-few-lines-193m)
 - [Dev.to/JS] [#39 - Two Sum CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/39-two-sum-codewars-kata-6-kyu-gef)
 - [Dev.to/JS] [JS Interview Question #2 &lpar;Accidental Global Variable&rpar;](https://dev.to/learndaily1/js-interview-question-2-accidental-global-variable-4fjb)
 - [Dev.to/JS] [The JavaScript Skills You Need For React](https://dev.to/sananayab/the-javascript-skills-you-need-for-react-4can)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&quot;A&quot; Phase Created by Nubank and Alura](https://dev.to/mateusspp/a-phase-created-by-nubank-and-alura-2kg5)
 - [Dev.to/JS] [Fase &quot;A&quot; - Nubank e Alura](https://dev.to/mateusspp/fase-a-nubank-e-alura-1f1d)
 - [Dev.to/JS] [Build a Point-of Sale App with Serialized](https://dev.to/ashleyintech/build-a-point-of-sale-app-with-serialized-3e3m)
-- [Dev.to/JS] [Which is the next gen JS Frontend Framework in 2022?](https://dev.to/akehsanz/which-is-the-next-gen-js-frontend-framework-in-2022-25ef)
-- [Dev.to/JS] [Folder Structure using React](https://dev.to/maimohamed/folder-structure-using-react-p97)
 - [Lifehacker] [How to Fix &#39;Elden Ring&#39; When Hackers Send You on an Infinite Death Loop](https://lifehacker.com/how-to-fix-elden-ring-when-hackers-send-you-on-an-infin-1848681820)
 - [Lifehacker] [Stop Being a Dick on Venmo](https://lifehacker.com/stop-being-a-dick-on-venmo-1848681834)
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
