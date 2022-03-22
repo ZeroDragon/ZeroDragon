@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Slice a Strip of Citrus Without Risking Life and Limb](https://lifehacker.com/how-to-slice-a-strip-of-citrus-without-risking-life-and-1848686991)
+- [Dev.to/JS] [Asynchronous JavaScript: callbacks, promises, Async/await, Event loop - part 1](https://dev.to/cinarb2/asynchronous-javascript-callbacks-promises-asyncawait-event-loop-part-1-4ep8)
+- [Dev.to/JS] [Answer: How To Pass Style Props into a reusable component in React Native for more flexible styling in the future](https://dev.to/anatugreen/answer-how-to-pass-style-props-into-a-reusable-component-in-react-native-for-more-flexible-styling-in-the-future-41mp)
+- [Dev.to/JS] [Boost your productivity with Code Attendant.](https://dev.to/dordchn/boost-your-productivity-with-code-attendant-20p1)
 - [Lifehacker] [Throw Out These Pancake Mixes That Might Include Cable Fragments, FDA Says](https://lifehacker.com/throw-out-these-pancake-mixes-that-might-include-cable-1848685458)
 - [Dev.to/JS] [Destructuring Arrays &amp; Objects In JavaScript part-2](https://dev.to/jassin82/destructuring-arrays-objects-in-javascript-part-2-4pad)
 - [Dev.to/JS] [Making your very own WebSocket Server with Javascript](https://dev.to/smpnjn/making-your-very-own-websocket-server-with-javascript-119a)
@@ -36,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Practical limits of React hooks - Recursion](https://dev.to/ondrejvelisek/practical-limits-of-react-hooks-recursion-555)
 - [Dev.to/JS] [Javascript Map, and How it is Different from forEach](https://dev.to/smpnjn/javascript-map-and-how-it-is-different-from-foreach-1j1i)
 - [Dev.to/JS] [Guess the Output ??? #1](https://dev.to/shamgurav96/guess-the-output-1-1d37)
-- [Dev.to/JS] [HOW ARE YOU ALL DEVELOPERS?](https://dev.to/sripadhs/how-are-you-all-developers-4e0f)
-- [Dev.to/JS] [Is future of AI in JavaScript?](https://dev.to/jacksonkasi/is-future-of-ai-in-javascript-360i)
 - [Lifehacker] [10 of the Worst Etiquette Faux Pas Lifehacker Readers Ever Experienced](https://lifehacker.com/10-of-the-worst-etiquette-faux-pas-lifehacker-readers-e-1848681196)
-- [Dev.to/JS] [Create Reusable React Components with TS and Rollup](https://dev.to/rushildhinoja/create-reusable-react-components-with-ts-and-rollup-28fd)
 - [Lifehacker] [12 Common ‘Laws’ of Psychology That Are Wrong](https://lifehacker.com/12-common-laws-of-psychology-that-are-bullshit-1848683494)
 - [Lifehacker] [The Best Shortcuts for Using GIFs and Emojis on Your Computer](https://lifehacker.com/the-best-shortcuts-for-using-gifs-and-emojis-on-your-co-1848684883)
 - [Lifehacker] [What Parents Need to Know About Instagram’s New ‘Supervision’ Feature](https://lifehacker.com/what-parents-need-to-know-about-instagram-s-new-superv-1848683921)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Quickly Hide What You&#39;ve Been Watching on Your iPhone or Android](https://lifehacker.com/how-to-quickly-hide-what-youve-been-watching-on-your-ip-1848679766)
 - [Lifehacker] [Stop Using This Recalled Lotion That May Contain Bacteria](https://lifehacker.com/stop-using-this-recalled-lotion-that-may-contain-bacter-1848679512)
 - [Lifehacker] [Do These Two Things Every Time You Rent a Car](https://lifehacker.com/do-these-two-things-every-time-you-rent-a-car-1848679411)
-- [Lifehacker] [What&#39;s New on Hulu in April 2022](https://lifehacker.com/whats-new-on-hulu-in-april-2022-1848679537)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
