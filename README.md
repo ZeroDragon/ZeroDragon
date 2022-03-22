@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Throw Out These Pancake Mixes That Might Include Cable Fragments, FDA Says](https://lifehacker.com/throw-out-these-pancake-mixes-that-might-include-cable-1848685458)
+- [Dev.to/JS] [Destructuring Arrays &amp; Objects In JavaScript part-2](https://dev.to/jassin82/destructuring-arrays-objects-in-javascript-part-2-4pad)
+- [Dev.to/JS] [Making your very own WebSocket Server with Javascript](https://dev.to/smpnjn/making-your-very-own-websocket-server-with-javascript-119a)
+- [Lifehacker] [You Can Paint Your Laminate Countertops &lpar;Instead of Replacing Them&rpar;](https://lifehacker.com/you-can-paint-your-laminate-countertops-instead-of-rep-1848684147)
 - [Lifehacker] [You Can Save Money By Making a Gift Registry for Literally Any Occasion](https://lifehacker.com/you-can-save-money-by-making-a-gift-registry-for-litera-1848686093)
 - [Dev.to/JS] [Functions In JavaScript](https://dev.to/hardikmirg/functions-in-javascript-17b1)
 - [Dev.to/JS] [Programs using Bhailang](https://dev.to/amananandrai/programs-using-bhailang-f5m)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is future of AI in JavaScript?](https://dev.to/jacksonkasi/is-future-of-ai-in-javascript-360i)
 - [Lifehacker] [10 of the Worst Etiquette Faux Pas Lifehacker Readers Ever Experienced](https://lifehacker.com/10-of-the-worst-etiquette-faux-pas-lifehacker-readers-e-1848681196)
 - [Dev.to/JS] [Create Reusable React Components with TS and Rollup](https://dev.to/rushildhinoja/create-reusable-react-components-with-ts-and-rollup-28fd)
-- [Dev.to/JS] [Need resources for DPI calculator](https://dev.to/vishal880288/need-resources-for-dpi-calculator-g4h)
-- [Dev.to/JS] [Cypress test case execution in CI/CD using CircleCI](https://dev.to/kailashpathak7/cypress-test-case-execution-in-cicd-using-circleci-4dkn)
 - [Lifehacker] [12 Common ‘Laws’ of Psychology That Are Wrong](https://lifehacker.com/12-common-laws-of-psychology-that-are-bullshit-1848683494)
 - [Lifehacker] [The Best Shortcuts for Using GIFs and Emojis on Your Computer](https://lifehacker.com/the-best-shortcuts-for-using-gifs-and-emojis-on-your-co-1848684883)
 - [Lifehacker] [What Parents Need to Know About Instagram’s New ‘Supervision’ Feature](https://lifehacker.com/what-parents-need-to-know-about-instagram-s-new-superv-1848683921)
@@ -58,9 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using This Recalled Lotion That May Contain Bacteria](https://lifehacker.com/stop-using-this-recalled-lotion-that-may-contain-bacter-1848679512)
 - [Lifehacker] [Do These Two Things Every Time You Rent a Car](https://lifehacker.com/do-these-two-things-every-time-you-rent-a-car-1848679411)
 - [Lifehacker] [What&#39;s New on Hulu in April 2022](https://lifehacker.com/whats-new-on-hulu-in-april-2022-1848679537)
-- [Lifehacker] [Mod a Game Boy Your Younger Self Would’ve Spent Their Whole Allowance On](https://lifehacker.com/mod-a-game-boy-your-younger-self-would-ve-spent-their-w-1848672691)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
-- [Lifehacker] [Avoid These Bad Cleaning Habits That Make Your Home Even Dirtier](https://lifehacker.com/avoid-these-bad-cleaning-habits-that-make-your-home-eve-1848676646)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
