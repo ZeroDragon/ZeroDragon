@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hello World!](https://dev.to/jordantaylorj/hello-world-2an1)
+- [Dev.to/JS] [current project](https://dev.to/austin_heisleycool_eaa84/current-project-1649)
 - [Dev.to/JS] [Fantasy JavaScript posters?](https://dev.to/tomaszs2/fantasy-javascript-posters-4oj6)
 - [Dev.to/JS] [&quot;A&quot; Phase Created by Nubank and Alura](https://dev.to/mateusspp/a-phase-created-by-nubank-and-alura-2kg5)
 - [Dev.to/JS] [Fase &quot;A&quot; - Nubank e Alura](https://dev.to/mateusspp/fase-a-nubank-e-alura-1f1d)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Places You Can Get Athlete’s Foot That Aren’t Your Feet](https://lifehacker.com/all-the-places-you-can-get-athlete-s-foot-that-aren-t-y-1848680602)
 - [Dev.to/JS] [How to Refactor the global variables in javascript?](https://dev.to/ajayv1/how-to-refactor-the-global-variables-in-javascript-482k)
 - [Lifehacker] [Stop Storing These Items in Your Junk Drawer](https://lifehacker.com/stop-storing-these-items-in-your-junk-drawer-1848680113)
-- [Dev.to/JS] [A look at the &quot;this&quot; Keyword in JavaScript](https://dev.to/chidiesobe/a-look-at-the-this-keyword-in-javascript-2nk4)
 - [Lifehacker] [How to Make Cheap Bookshelves Look Like Expensive Built-Ins](https://lifehacker.com/how-to-make-cheap-bookshelves-look-like-expensive-built-1848679756)
-- [Dev.to/JS] [LAZY LOADING IN ANGULAR](https://dev.to/deepachaurasia1/lazy-loading-in-angular-3mf4)
 - [Lifehacker] [13 Shows Netflix Canceled Way Too Soon](https://lifehacker.com/13-shows-netflix-canceled-way-too-soon-1848679614)
 - [Lifehacker] [5 of the Best Budget Smartphones of 2022](https://lifehacker.com/5-of-the-best-budget-smartphones-of-2022-1848680437)
 - [Lifehacker] [Questions You Should Never Ask on a First Date &lpar;and What to Ask Instead&rpar;](https://lifehacker.com/questions-you-should-never-ask-on-a-first-date-and-wha-1848680416)
