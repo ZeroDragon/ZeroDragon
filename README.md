@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 6](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-6-1doh)
+- [Dev.to/JS] [Conditional Statements: Part 2](https://dev.to/rahulrajrd/conditional-statements-part-2-50bi)
+- [Lifehacker] [9 Ways to Make Incredible Homemade Pizza](https://lifehacker.com/9-ways-to-make-incredible-homemade-pizza-1848682268)
+- [Dev.to/JS] [Set up Ecommerce Order Notifications on Slack in 5 minutes with Medusa](https://dev.to/medusajs/set-up-ecommerce-order-notifications-on-slack-in-5-minutes-with-medusa-3dff)
 - [Dev.to/JS] [How to build Audio stream app landing page using HTML CSS JS](https://dev.to/codewithsadee/how-to-build-audio-stream-app-landing-page-using-html-css-js-1960)
 - [Lifehacker] [11 of the Most Underrated Exercises You Can Do in the Gym](https://lifehacker.com/11-of-the-most-underrated-exercises-you-can-do-in-the-g-1848681707)
 - [Dev.to/JS] [Building a realtime multiplayer game using React &amp; Conflict-free replicated data types &lpar;CRDT&rpar; of Yjs](https://dev.to/tooljet/building-a-realtime-multiplayer-game-using-react-conflict-free-replicated-data-types-crdt-of-yjs-16o7)
 - [Dev.to/JS] [Conditional Statements : Part 1](https://dev.to/rahulrajrd/conditional-statements-1okd)
 - [Dev.to/JS] [Discuss: package sabotage](https://dev.to/lexlohr/discuss-package-sabotage-3gpo)
-- [Dev.to/JS] [Mike Tyson CBD gummies: Reviews, Ingredients, Cost |Does It Work|?](https://dev.to/miketysoncbd/mike-tyson-cbd-gummies-reviews-ingredients-cost-does-it-work-2fpl)
 - [Dev.to/JS] [this in JavaScript. The only article you need to read.](https://dev.to/drayilara/this-in-javascript-the-only-article-you-need-to-read-3m9b)
 - [Dev.to/JS] [How To Loop Checkbox Checked Value in jQuery](https://dev.to/codeanddeploy/how-to-loop-checkbox-checked-value-in-jquery-3g58)
 - [Dev.to/JS] [Comments in Javascript](https://dev.to/saloni137/comments-in-javascript-345l)
 - [Dev.to/JS] [Generate Random String in PHP](https://dev.to/codeanddeploy/generate-random-string-in-php-j9e)
 - [Dev.to/JS] [How to Install PHP GD Extension on Windows WAMP and XAMPP Server](https://dev.to/codeanddeploy/how-to-install-php-gd-extension-on-windows-wamp-and-xampp-server-331e)
-- [Dev.to/JS] [React useEffect Hook usages you must know](https://dev.to/atapas/react-useeffect-hook-usages-you-must-know-lfj)
-- [Dev.to/JS] [Ajax Loading in jQuery using PHP](https://dev.to/codeanddeploy/ajax-loading-in-jquery-using-php-o75)
 - [Lifehacker] [How to Fix &#39;Elden Ring&#39; When Hackers Send You on an Infinite Death Loop](https://lifehacker.com/how-to-fix-elden-ring-when-hackers-send-you-on-an-infin-1848681820)
 - [Lifehacker] [Stop Being a Dick on Venmo](https://lifehacker.com/stop-being-a-dick-on-venmo-1848681834)
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Your Dog From Eating Grass](https://lifehacker.com/how-to-stop-your-dog-from-eating-grass-1848671657)
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
-- [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
