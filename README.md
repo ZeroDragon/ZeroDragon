@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Prevent Double Click in jQuery when Submitting Ajax](https://dev.to/codeanddeploy/how-to-prevent-double-click-in-jquery-when-submitting-ajax-5522)
+- [Dev.to/JS] [How to use HarperDB custom functions to build your entire backend](https://dev.to/andrewbaisden/how-to-use-harperdb-custom-functions-to-build-your-entire-backend-a2m)
+- [Dev.to/JS] [Why I moved to Astro from Gatsby](https://dev.to/askrodney/why-i-moved-to-astro-from-gatsby-3fck)
+- [Dev.to/JS] [Create a Signature Painting Drawing App using Javascript](https://dev.to/imdigitalashish/create-a-web-app-to-draw-signature-and-download-it--58oe)
 - [Dev.to/JS] [Sweeper.js src changed from js to ts](https://dev.to/mreggo/sweeperjs-src-changed-from-js-to-ts-4c1n)
 - [Dev.to/JS] [React. New library for react forms.](https://dev.to/nickorsk2017/react-new-library-for-react-forms-2od0)
 - [Dev.to/JS] [Create Your Web Server with @http &lpar; aex Intro I&rpar;](https://dev.to/610470416/create-your-web-server-with-http-aex-intro-i-51kc)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use useMemo for conditional render](https://dev.to/putraridho/use-usememo-for-conditional-render-2ip1)
 - [Dev.to/JS] [Create Random team names for projects](https://dev.to/pixiumdigital/create-random-team-names-for-projects-3nf9)
 - [Dev.to/JS] [Best PG in Bengaluru for students or Job Seeker #top10Bengalurupg](https://dev.to/code_leads/best-pg-in-bengaluru-for-students-or-job-seeker-top10bengalurupg-1k5a)
-- [Dev.to/JS] [SEO in Angular with SSR - Part I](https://dev.to/ayyash/seo-in-angular-with-ssr-part-i-55fa)
-- [Dev.to/JS] [Lean Start Keto - Is It Scam Or Legit &amp; Real Results, Ingredients](https://dev.to/leanstartketoi1/lean-start-keto-is-it-scam-or-legit-real-results-ingredients-1691)
-- [Dev.to/JS] [Angular vs React vs Vue – The Right Framework For You](https://dev.to/architprajapati/angular-vs-react-vs-vue-the-right-framework-for-you-4e8g)
-- [Dev.to/JS] [Function context in JavaScript](https://dev.to/princekizhthara/function-context-in-javascript-1aok)
 - [Lifehacker] [How to Fix &#39;Elden Ring&#39; When Hackers Send You on an Infinite Death Loop](https://lifehacker.com/how-to-fix-elden-ring-when-hackers-send-you-on-an-infin-1848681820)
 - [Lifehacker] [Stop Being a Dick on Venmo](https://lifehacker.com/stop-being-a-dick-on-venmo-1848681834)
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
