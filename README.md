@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resumo da 3º semana, Jornada DEV 3/52](https://dev.to/graciellesampaiobysunshinearts/resumo-da-3o-semana-jornada-dev-352-adm)
+- [Dev.to/JS] [How To Allow Ads On My Website](https://dev.to/sharafatoffici2/how-to-allow-ads-on-my-website-2h2)
+- [Dev.to/JS] [Your SSR is slow &amp; your devtools are lying to you](https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056)
+- [Dev.to/JS] [Next.js 12 + Bootstrap Boilerplate](https://dev.to/mxro/nextjs-12-bootstrap-boilerplate-4o1j)
 - [Dev.to/JS] [Fun With Deepgram and NextJS](https://dev.to/cerchie/fun-with-deepgram-and-nextjs-2212)
 - [Lifehacker] [All the Health Insurance Words You Need to Know But Were Too Embarrassed to Ask About](https://lifehacker.com/all-the-health-insurance-words-you-need-to-know-but-wer-1848688048)
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
@@ -39,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Boost your productivity with Code Attendant.](https://dev.to/dordchn/boost-your-productivity-with-code-attendant-20p1)
 - [Lifehacker] [Throw Out These Pancake Mixes That Might Include Cable Fragments, FDA Says](https://lifehacker.com/throw-out-these-pancake-mixes-that-might-include-cable-1848685458)
 - [Dev.to/JS] [Destructuring Arrays &amp; Objects In JavaScript part-2](https://dev.to/jassin82/destructuring-arrays-objects-in-javascript-part-2-4pad)
-- [Dev.to/JS] [Making your very own WebSocket Server with Javascript](https://dev.to/smpnjn/making-your-very-own-websocket-server-with-javascript-119a)
 - [Lifehacker] [You Can Paint Your Laminate Countertops &lpar;Instead of Replacing Them&rpar;](https://lifehacker.com/you-can-paint-your-laminate-countertops-instead-of-rep-1848684147)
 - [Lifehacker] [You Can Save Money By Making a Gift Registry for Literally Any Occasion](https://lifehacker.com/you-can-save-money-by-making-a-gift-registry-for-litera-1848686093)
-- [Dev.to/JS] [Functions In JavaScript](https://dev.to/hardikmirg/functions-in-javascript-17b1)
-- [Dev.to/JS] [Programs using Bhailang](https://dev.to/amananandrai/programs-using-bhailang-f5m)
-- [Dev.to/JS] [Is it DFS using adjacency Matrix?](https://dev.to/urstrulyvishwak/is-it-dfs-using-adjacency-matrix-1mf0)
 - [Lifehacker] [8 Easy Ways to Improve &lpar;or Replace&rpar; Windows 11&#39;s Start Menu](https://lifehacker.com/8-easy-ways-to-improve-or-replace-windows-11s-start-m-1848684451)
 - [Lifehacker] [10 of the Worst Etiquette Faux Pas Lifehacker Readers Ever Experienced](https://lifehacker.com/10-of-the-worst-etiquette-faux-pas-lifehacker-readers-e-1848681196)
 - [Lifehacker] [12 Common ‘Laws’ of Psychology That Are Wrong](https://lifehacker.com/12-common-laws-of-psychology-that-are-bullshit-1848683494)
