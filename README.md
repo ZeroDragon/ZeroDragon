@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#39 - Two Sum CodeWars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/39-two-sum-codewars-kata-6-kyu-gef)
+- [Dev.to/JS] [JS Interview Question #2 &lpar;Accidental Global Variable&rpar;](https://dev.to/learndaily1/js-interview-question-2-accidental-global-variable-4fjb)
 - [Dev.to/JS] [The JavaScript Skills You Need For React](https://dev.to/sananayab/the-javascript-skills-you-need-for-react-4can)
 - [Dev.to/JS] [Phase 2 Completed](https://dev.to/andy6503/phase-2-completed-587d)
 - [Dev.to/JS] [Hello World!](https://dev.to/jordantaylorj/hello-world-2an1)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Folder Structure using React](https://dev.to/maimohamed/folder-structure-using-react-p97)
 - [Lifehacker] [How to Fix &#39;Elden Ring&#39; When Hackers Send You on an Infinite Death Loop](https://lifehacker.com/how-to-fix-elden-ring-when-hackers-send-you-on-an-infin-1848681820)
 - [Lifehacker] [Stop Being a Dick on Venmo](https://lifehacker.com/stop-being-a-dick-on-venmo-1848681834)
-- [Dev.to/JS] [বইটি নিয়ে আমার কথা!](https://dev.to/shihab4t/bitti-niyye-aamaar-kthaa-3phc)
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
-- [Dev.to/JS] [Create A Linktree Clone Using React](https://dev.to/codecast/create-a-linktree-clone-using-react-2hdi)
 - [Lifehacker] [What Is a Relationship ‘Soft Launch,’ and How Can You Pull It Off?](https://lifehacker.com/what-is-a-relationship-soft-launch-and-how-can-you-p-1848681538)
 - [Lifehacker] [All the Places You Can Get Athlete’s Foot That Aren’t Your Feet](https://lifehacker.com/all-the-places-you-can-get-athlete-s-foot-that-aren-t-y-1848680602)
 - [Lifehacker] [Stop Storing These Items in Your Junk Drawer](https://lifehacker.com/stop-storing-these-items-in-your-junk-drawer-1848680113)
