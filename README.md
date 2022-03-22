@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build Audio stream app landing page using HTML CSS JS](https://dev.to/codewithsadee/how-to-build-audio-stream-app-landing-page-using-html-css-js-1960)
+- [Lifehacker] [11 of the Most Underrated Exercises You Can Do in the Gym](https://lifehacker.com/11-of-the-most-underrated-exercises-you-can-do-in-the-g-1848681707)
+- [Dev.to/JS] [Building a realtime multiplayer game using React &amp; Conflict-free replicated data types &lpar;CRDT&rpar; of Yjs](https://dev.to/tooljet/building-a-realtime-multiplayer-game-using-react-conflict-free-replicated-data-types-crdt-of-yjs-16o7)
+- [Dev.to/JS] [Conditional Statements : Part 1](https://dev.to/rahulrajrd/conditional-statements-1okd)
+- [Dev.to/JS] [Discuss: package sabotage](https://dev.to/lexlohr/discuss-package-sabotage-3gpo)
+- [Dev.to/JS] [Mike Tyson CBD gummies: Reviews, Ingredients, Cost |Does It Work|?](https://dev.to/miketysoncbd/mike-tyson-cbd-gummies-reviews-ingredients-cost-does-it-work-2fpl)
 - [Dev.to/JS] [this in JavaScript. The only article you need to read.](https://dev.to/drayilara/this-in-javascript-the-only-article-you-need-to-read-3m9b)
 - [Dev.to/JS] [How To Loop Checkbox Checked Value in jQuery](https://dev.to/codeanddeploy/how-to-loop-checkbox-checked-value-in-jquery-3g58)
 - [Dev.to/JS] [Comments in Javascript](https://dev.to/saloni137/comments-in-javascript-345l)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Install PHP GD Extension on Windows WAMP and XAMPP Server](https://dev.to/codeanddeploy/how-to-install-php-gd-extension-on-windows-wamp-and-xampp-server-331e)
 - [Dev.to/JS] [React useEffect Hook usages you must know](https://dev.to/atapas/react-useeffect-hook-usages-you-must-know-lfj)
 - [Dev.to/JS] [Ajax Loading in jQuery using PHP](https://dev.to/codeanddeploy/ajax-loading-in-jquery-using-php-o75)
-- [Dev.to/JS] [How To Prevent Double Click in jQuery when Submitting Ajax](https://dev.to/codeanddeploy/how-to-prevent-double-click-in-jquery-when-submitting-ajax-5522)
-- [Dev.to/JS] [How to use HarperDB custom functions to build your entire backend](https://dev.to/andrewbaisden/how-to-use-harperdb-custom-functions-to-build-your-entire-backend-a2m)
-- [Dev.to/JS] [Why I moved to Astro from Gatsby](https://dev.to/askrodney/why-i-moved-to-astro-from-gatsby-3fck)
-- [Dev.to/JS] [Create a Signature Painting Drawing App using Javascript](https://dev.to/imdigitalashish/create-a-web-app-to-draw-signature-and-download-it--58oe)
-- [Dev.to/JS] [Sweeper.js src changed from js to ts](https://dev.to/mreggo/sweeperjs-src-changed-from-js-to-ts-4c1n)
 - [Lifehacker] [How to Fix &#39;Elden Ring&#39; When Hackers Send You on an Infinite Death Loop](https://lifehacker.com/how-to-fix-elden-ring-when-hackers-send-you-on-an-infin-1848681820)
 - [Lifehacker] [Stop Being a Dick on Venmo](https://lifehacker.com/stop-being-a-dick-on-venmo-1848681834)
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Free App Find Free Plant Swaps in Your Area](https://lifehacker.com/use-this-free-app-find-free-plant-swaps-in-your-area-1848671668)
 - [Lifehacker] [What&#39;s New on Disney+ in April 2022?](https://lifehacker.com/wants-new-on-disney-in-april-2022-1848673497)
 - [Lifehacker] [Why Your Chili Needs a Little Pepper Jelly](https://lifehacker.com/why-your-chili-needs-a-little-pepper-jelly-1848673412)
-- [Lifehacker] [Stop Giving &#39;Praise Sandwich Feedback&#39; &lpar;and What to Do Instead&rpar;](https://lifehacker.com/stop-giving-shit-sandwich-feedback-and-what-to-do-inst-1848671782)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
 
