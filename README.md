@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction JavaScript code guidelines](https://dev.to/naftalimurgor/introduction-javascript-code-guidelines-5a8i)
+- [Dev.to/JS] [Apple Cider Vinegar Keto Gummies - Weight Loss Results, Price, Benefits And Reviews?](https://dev.to/applecidervin12/apple-cider-vinegar-keto-gummies-weight-loss-results-price-benefits-and-reviews-hg9)
+- [Dev.to/JS] [Read the latest news! Integration of Huawei Push Kit in Application using React Native](https://dev.to/hmscommunity/read-the-latest-news-integration-of-huawei-push-kit-in-application-using-react-native-538)
+- [Dev.to/JS] [eCommerce expert](https://dev.to/ashishchaubeys/ecommerce-expert-4l9j)
+- [Dev.to/JS] [How to create tables in Console DevTools](https://dev.to/heybaldur/how-to-create-tables-in-console-devtools-46g5)
 - [Dev.to/JS] [How To Check Empty, Null, and Undefined Variables in Javascript / jQuery?](https://dev.to/codeanddeploy/how-to-check-empty-null-and-undefined-variables-in-javascript-jquery-5agl)
 - [Dev.to/JS] [3 Method To Get Selected Radio Button Value in jQuery](https://dev.to/codeanddeploy/3-method-to-get-selected-radio-button-value-in-jquery-3imb)
 - [Dev.to/JS] [Ajax Search Data in PHP &amp; MySQL using jQuery](https://dev.to/codeanddeploy/ajax-search-data-in-php-mysql-using-jquery-end)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Your guide to NextJS Internationalization](https://dev.to/codegino/your-guide-to-nextjs-internationalization-bgf)
 - [Dev.to/JS] [How To Submit Multiple Checkbox Value to PHP using jQuery &amp; Ajax](https://dev.to/codeanddeploy/how-to-submit-multiple-checkbox-value-to-php-using-jquery-ajax-4cg6)
 - [Dev.to/JS] [Phase 1 Project: Colorado Fourteeners](https://dev.to/jordantaylorj/phase-1-project-colorado-fourteeners-dni)
-- [Dev.to/JS] [Import SVGs as React Components | Tutorial by DevDone](https://dev.to/jodharishi/import-svgs-as-react-components-tutorial-by-devdone-45gm)
-- [Dev.to/JS] [Help! I need To do A BreadCrumb With React.](https://dev.to/juanfercaste/help-i-need-to-do-a-breadcrumb-with-react-196n)
-- [Dev.to/JS] [Svelte is better than React](https://dev.to/sirhamy/svelte-is-better-than-react-4om7)
-- [Dev.to/JS] [publish react app to github pages](https://dev.to/l1gend/publish-react-app-to-github-pages-108j)
-- [Dev.to/JS] [Debugging a Node C Addon](https://dev.to/krowemoh/debugging-a-node-c-addon-3h12)
 - [Lifehacker] [All the Health Insurance Words You Need to Know But Were Too Embarrassed to Ask About](https://lifehacker.com/all-the-health-insurance-words-you-need-to-know-but-wer-1848688048)
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
