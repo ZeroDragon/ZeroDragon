@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Submit Multiple Checkbox Value to PHP using jQuery &amp; Ajax](https://dev.to/codeanddeploy/how-to-submit-multiple-checkbox-value-to-php-using-jquery-ajax-4cg6)
 - [Dev.to/JS] [Phase 1 Project: Colorado Fourteeners](https://dev.to/jordantaylorj/phase-1-project-colorado-fourteeners-dni)
 - [Dev.to/JS] [Import SVGs as React Components | Tutorial by DevDone](https://dev.to/jodharishi/import-svgs-as-react-components-tutorial-by-devdone-45gm)
 - [Dev.to/JS] [Help! I need To do A BreadCrumb With React.](https://dev.to/juanfercaste/help-i-need-to-do-a-breadcrumb-with-react-196n)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Para Getac, Expomin resulta](https://dev.to/lavozmedellin/para-getac-expomin-resulta-4dcl)
 - [Dev.to/JS] [&quot;robusta&quot; , el sector de la Minería](https://dev.to/lavozmedellin/robusta-el-sector-de-la-mineria-3lg)
 - [Dev.to/JS] [Resumo da 3º semana, Jornada DEV 3/52](https://dev.to/graciellesampaiobysunshinearts/resumo-da-3o-semana-jornada-dev-352-adm)
-- [Dev.to/JS] [How To Allow Ads On My Website](https://dev.to/sharafatoffici2/how-to-allow-ads-on-my-website-2h2)
 - [Lifehacker] [All the Health Insurance Words You Need to Know But Were Too Embarrassed to Ask About](https://lifehacker.com/all-the-health-insurance-words-you-need-to-know-but-wer-1848688048)
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
