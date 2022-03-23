@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Find and Mass Delete Your Vulgar Twitter History](https://lifehacker.com/how-to-find-and-mass-delete-your-vulgar-twitter-history-1848691894)
 - [Lifehacker] [The Fastest Way to Get a Coffee Stain Out of Your Shirt Before You Embarrass Yourself](https://lifehacker.com/the-fastest-way-to-get-a-coffee-stain-out-of-your-shirt-1848691446)
 - [Dev.to/JS] [Implementando Webpack em um projeto MVC com JavaScript](https://dev.to/isabelrubim/implementando-webpack-em-um-projeto-mvc-com-javascript-4ch7)
 - [Dev.to/JS] [How to wrap text in HTML Canvas](https://dev.to/smpnjn/how-to-wrap-text-in-html-canvas-3369)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Shortcuts for Using GIFs and Emojis on Your Computer](https://lifehacker.com/the-best-shortcuts-for-using-gifs-and-emojis-on-your-co-1848684883)
 - [Lifehacker] [What Parents Need to Know About Instagram’s New ‘Supervision’ Feature](https://lifehacker.com/what-parents-need-to-know-about-instagram-s-new-superv-1848683921)
 - [Lifehacker] [9 Ways to Make Incredible Homemade Pizza](https://lifehacker.com/9-ways-to-make-incredible-homemade-pizza-1848682268)
-- [Lifehacker] [11 of the Most Underrated Exercises You Can Do in the Gym](https://lifehacker.com/11-of-the-most-underrated-exercises-you-can-do-in-the-g-1848681707)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
