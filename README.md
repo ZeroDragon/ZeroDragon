@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Destructuring arrays in JavaScript &lpar;also with added rest and spread!&rpar;](https://dev.to/quality_pre/destructuring-arrays-in-javascript-also-with-added-rest-and-spread-32fp)
+- [Dev.to/JS] [Vue 2.x + Vite + Tailwind CSS](https://dev.to/mayank30/vue-2x-vite-tailwind-css-32ag)
+- [Dev.to/JS] [Web Storage APIs - LocalStorage and SessionStorage](https://dev.to/alexmercedcoder/web-storage-apis-localstorage-and-sessionstorage-3b29)
+- [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
+- [Dev.to/JS] [redux toolkit](https://dev.to/mnabawy/redux-toolkit-378f)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Dev.to/JS] [Como criar um README dinâmico usando Javascript](https://dev.to/nickgabe/como-criar-um-readme-dinamico-usando-javascript-4mhg)
 - [Dev.to/JS] [How to get all previous items of an array in js from a certain value](https://dev.to/ianfelix/how-to-get-all-previous-items-of-an-array-in-js-from-a-certain-value-3ig3)
@@ -35,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Bootstrap to Next.js](https://dev.to/anuraggharat/adding-bootstrap-to-nextjs-39b2)
 - [Lifehacker] [You Can Now Play Ocarina of Time Like a &#39;Modern&#39; PC Game](https://lifehacker.com/you-can-now-play-ocarina-of-time-like-a-modern-pc-game-1848691454)
 - [Dev.to/JS] [Nested object iteration using multiple for...in Loops.](https://dev.to/ddrummer3993/nested-object-iteration-using-multiple-forin-loops-4k6l)
-- [Dev.to/JS] [Escape Sequence Characters in JavaScript](https://dev.to/hardikmirg/escape-sequence-characters-in-javascript-4l8k)
-- [Dev.to/JS] [Day-49 Training At Ryaz](https://dev.to/mahin651/day-49-training-at-ryaz-26of)
 - [Lifehacker] [You Really Need to Add Sex Toys to Your Spring Cleaning List](https://lifehacker.com/you-really-need-to-add-sex-toys-to-your-spring-cleaning-1848691835)
-- [Dev.to/JS] [Truthy - Falsy Values in JavaScript](https://dev.to/hardikmirg/truthy-falsy-values-in-javascript-1i20)
-- [Dev.to/JS] [Github Copilot, voe no código com o seu copiloto](https://dev.to/wesleyara/github-copilot-voe-no-codigo-com-o-seu-copiloto-e22)
 - [Lifehacker] [It&#39;s Cheaper to Buy a House Than Rent in These Cities](https://lifehacker.com/its-cheaper-to-buy-a-house-than-rent-in-these-cities-1848691906)
 - [Lifehacker] [What&#39;s New on Netflix in April 2022](https://lifehacker.com/whats-new-on-netflix-in-april-2022-1848691808)
 - [Lifehacker] [How to Find and Mass Delete Your Vulgar Twitter History](https://lifehacker.com/how-to-find-and-mass-delete-your-vulgar-twitter-history-1848691894)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Establish a Core Strength Routine You&#39;ll Actually Stick To](https://lifehacker.com/how-to-establish-a-core-strength-routine-youll-actually-1848686501)
 - [Lifehacker] [How to Slice a Strip of Citrus Without Risking Life and Limb](https://lifehacker.com/how-to-slice-a-strip-of-citrus-without-risking-life-and-1848686991)
 - [Lifehacker] [Throw Out These Pancake Mixes That Might Include Cable Fragments, FDA Says](https://lifehacker.com/throw-out-these-pancake-mixes-that-might-include-cable-1848685458)
-- [Lifehacker] [You Can Paint Your Laminate Countertops &lpar;Instead of Replacing Them&rpar;](https://lifehacker.com/you-can-paint-your-laminate-countertops-instead-of-rep-1848684147)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
