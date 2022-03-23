@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ads Alert! Integration of Huawei Ads Kit in Application using React Native](https://dev.to/hmscommunity/ads-alert-integration-of-huawei-ads-kit-in-application-using-react-native-3md)
+- [Dev.to/JS] [Dependency Wheel using VueJS 5/10](https://dev.to/101samovar/dependency-wheel-using-vuejs-510-40ge)
+- [Dev.to/JS] [JavaScript Test Automation Tutorial 2021 | What is JavaScript? | Part I](https://dev.to/lambdatestteam/javascript-test-automation-tutorial-2021-what-is-javascript-part-i-4loe)
 - [Dev.to/JS] [GitHub Repos to become better Web Developer ⚡](https://dev.to/akj0712/github-repos-to-become-better-web-developer-1a03)
 - [Dev.to/JS] [How to Add custom template in my Blog? #HelpMe](https://dev.to/rehan124/adding-custom-template-in-your-blogger-5f33)
 - [Dev.to/JS] [Sektor perkhidmatan kewangan Malaysia menyaksikan 31 M&amp;A bernilai AS$1.63 bilion pada 2021](https://dev.to/ace_holdings/sektor-perkhidmatan-kewangan-malaysia-menyaksikan-31-ma-bernilai-as163-bilion-pada-2021-gn4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Astro Scroll to Anchor: Smooth Scroll to Heading](https://dev.to/askrodney/astro-scroll-to-anchor-smooth-scroll-to-heading-5788)
 - [Dev.to/JS] [Benchmarking Node.js Worker Threads](https://dev.to/dhwaneetbhatt/benchmarking-nodejs-worker-threads-5c9b)
 - [Dev.to/JS] [How to solve input delay &lpar;lagging&rpar; in react](https://dev.to/kevinkh89/how-to-solve-input-delay-lagging-in-react-j2o)
-- [Dev.to/JS] [Here Are The Top 3 Reasons I’ve Created A Product To Empower Developers to Build Better Websites](https://dev.to/pierremouchan/here-are-the-top-3-reasons-ive-created-a-product-to-empower-developers-to-build-better-websites-1i12)
-- [Dev.to/JS] [React: Send email from contact form without server code - Email.js Tutorial](https://dev.to/chaoocharles/react-send-email-from-contact-form-without-server-code-emailjs-tutorial-463j)
-- [Dev.to/JS] [Introduction JavaScript code guidelines](https://dev.to/naftalimurgor/introduction-javascript-code-guidelines-5a8i)
 - [Lifehacker] [All the Health Insurance Words You Need to Know But Were Too Embarrassed to Ask About](https://lifehacker.com/all-the-health-insurance-words-you-need-to-know-but-wer-1848688048)
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
