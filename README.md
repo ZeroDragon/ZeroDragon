@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adding Bootstrap to Next.js](https://dev.to/anuraggharat/adding-bootstrap-to-nextjs-39b2)
+- [Lifehacker] [You Can Now Play Ocarina of Time Like a &#39;Modern&#39; PC Game](https://lifehacker.com/you-can-now-play-ocarina-of-time-like-a-modern-pc-game-1848691454)
+- [Dev.to/JS] [Nested object iteration using multiple for...in Loops.](https://dev.to/ddrummer3993/nested-object-iteration-using-multiple-forin-loops-4k6l)
+- [Dev.to/JS] [Escape Sequence Characters in JavaScript](https://dev.to/hardikmirg/escape-sequence-characters-in-javascript-4l8k)
+- [Dev.to/JS] [Day-49 Training At Ryaz](https://dev.to/mahin651/day-49-training-at-ryaz-26of)
 - [Lifehacker] [You Really Need to Add Sex Toys to Your Spring Cleaning List](https://lifehacker.com/you-really-need-to-add-sex-toys-to-your-spring-cleaning-1848691835)
+- [Dev.to/JS] [Truthy - Falsy Values in JavaScript](https://dev.to/hardikmirg/truthy-falsy-values-in-javascript-1i20)
+- [Dev.to/JS] [Github Copilot, voe no código com o seu copiloto](https://dev.to/wesleyara/github-copilot-voe-no-codigo-com-o-seu-copiloto-e22)
 - [Dev.to/JS] [How to solve REST API routing problem with decorators?](https://dev.to/devsmitra/how-to-solve-rest-api-routing-problem-with-decorators-5b3n)
 - [Dev.to/JS] [Classnames mismatch in css and js file for the same classname](https://dev.to/sufyan0021/classnames-mismatch-in-css-and-js-file-for-the-same-classname-5ea3)
 - [Lifehacker] [It&#39;s Cheaper to Buy a House Than Rent in These Cities](https://lifehacker.com/its-cheaper-to-buy-a-house-than-rent-in-these-cities-1848691906)
@@ -35,13 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to wrap text in HTML Canvas](https://dev.to/smpnjn/how-to-wrap-text-in-html-canvas-3369)
 - [Dev.to/JS] [Implementing authentication in Remix applications with Supabase](https://dev.to/asayerio_techblog/implementing-authentication-in-remix-applications-with-supabase-ibn)
 - [Lifehacker] [You Need to Make These Magical Air-Fried Tofu Puffs](https://lifehacker.com/you-need-to-make-these-magical-air-fried-tofu-puffs-1848691421)
-- [Dev.to/JS] [7 tips for writing better if statements in JavaScript](https://dev.to/thatanjan/write-if-statements-in-javascript-like-a-pro-3339)
-- [Dev.to/JS] [Create a Distortion Effect Using GSAP](https://dev.to/workshub/create-a-distortion-effect-using-gsap-40h5)
-- [Dev.to/JS] [A Complete Beginner&#39;s Guide to useEffect Hook [Part 3]](https://dev.to/workshub/a-complete-beginners-guide-to-useeffect-hook-part-3-50o0)
-- [Dev.to/JS] [Building with React Context Provider Pattern](https://dev.to/workshub/building-with-react-context-provider-pattern-315k)
 - [Lifehacker] [An Age-by-Age Guide to Preparing Kids for a Big Move](https://lifehacker.com/an-age-by-age-guide-to-preparing-kids-for-a-big-move-1848683915)
-- [Dev.to/JS] [Creating a color palette with Javascript](https://dev.to/producthackers/creating-a-color-palette-with-javascript-44ip)
-- [Dev.to/JS] [Introducing the Clubhouse Android App](https://dev.to/mr_dehqani/introducing-the-clubhouse-android-app-1c0d)
 - [Lifehacker] [This Is the Best Screenshot Tool for Windows](https://lifehacker.com/this-is-the-best-screenshot-tool-for-windows-1848690325)
 - [Lifehacker] [17 Huge Red Flags From Personal Finance &#39;Influencers&#39;](https://lifehacker.com/17-huge-red-flags-from-personal-finance-influencers-1848689054)
 - [Lifehacker] [The First Thing You Should Do With a Bunch of Radishes](https://lifehacker.com/the-first-thing-you-should-do-with-a-bunch-of-radishes-1848687979)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Save Money By Making a Gift Registry for Literally Any Occasion](https://lifehacker.com/you-can-save-money-by-making-a-gift-registry-for-litera-1848686093)
 - [Lifehacker] [8 Easy Ways to Improve &lpar;or Replace&rpar; Windows 11&#39;s Start Menu](https://lifehacker.com/8-easy-ways-to-improve-or-replace-windows-11s-start-m-1848684451)
 - [Lifehacker] [10 of the Worst Etiquette Faux Pas Lifehacker Readers Ever Experienced](https://lifehacker.com/10-of-the-worst-etiquette-faux-pas-lifehacker-readers-e-1848681196)
-- [Lifehacker] [12 Common ‘Laws’ of Psychology That Are Wrong](https://lifehacker.com/12-common-laws-of-psychology-that-are-bullshit-1848683494)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
