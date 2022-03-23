@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [on el informe de iniciativa](https://dev.to/lavozmedellin/on-el-informe-de-iniciativa-2a22)
+- [Dev.to/JS] [Para Getac, Expomin resulta](https://dev.to/lavozmedellin/para-getac-expomin-resulta-4dcl)
+- [Dev.to/JS] [&quot;robusta&quot; , el sector de la Minería](https://dev.to/lavozmedellin/robusta-el-sector-de-la-mineria-3lg)
 - [Dev.to/JS] [Resumo da 3º semana, Jornada DEV 3/52](https://dev.to/graciellesampaiobysunshinearts/resumo-da-3o-semana-jornada-dev-352-adm)
 - [Dev.to/JS] [How To Allow Ads On My Website](https://dev.to/sharafatoffici2/how-to-allow-ads-on-my-website-2h2)
 - [Dev.to/JS] [Your SSR is slow &amp; your devtools are lying to you](https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Establish a Core Strength Routine You&#39;ll Actually Stick To](https://lifehacker.com/how-to-establish-a-core-strength-routine-youll-actually-1848686501)
 - [Lifehacker] [How to Slice a Strip of Citrus Without Risking Life and Limb](https://lifehacker.com/how-to-slice-a-strip-of-citrus-without-risking-life-and-1848686991)
 - [Dev.to/JS] [Asynchronous JavaScript: callbacks, promises, Async/await, Event loop - part 1](https://dev.to/cinarb2/asynchronous-javascript-callbacks-promises-asyncawait-event-loop-part-1-4ep8)
-- [Dev.to/JS] [Answer: How To Pass Style Props into a reusable component in React Native for more flexible styling in the future](https://dev.to/anatugreen/answer-how-to-pass-style-props-into-a-reusable-component-in-react-native-for-more-flexible-styling-in-the-future-41mp)
-- [Dev.to/JS] [Boost your productivity with Code Attendant.](https://dev.to/dordchn/boost-your-productivity-with-code-attendant-20p1)
 - [Lifehacker] [Throw Out These Pancake Mixes That Might Include Cable Fragments, FDA Says](https://lifehacker.com/throw-out-these-pancake-mixes-that-might-include-cable-1848685458)
-- [Dev.to/JS] [Destructuring Arrays &amp; Objects In JavaScript part-2](https://dev.to/jassin82/destructuring-arrays-objects-in-javascript-part-2-4pad)
 - [Lifehacker] [You Can Paint Your Laminate Countertops &lpar;Instead of Replacing Them&rpar;](https://lifehacker.com/you-can-paint-your-laminate-countertops-instead-of-rep-1848684147)
 - [Lifehacker] [You Can Save Money By Making a Gift Registry for Literally Any Occasion](https://lifehacker.com/you-can-save-money-by-making-a-gift-registry-for-litera-1848686093)
 - [Lifehacker] [8 Easy Ways to Improve &lpar;or Replace&rpar; Windows 11&#39;s Start Menu](https://lifehacker.com/8-easy-ways-to-improve-or-replace-windows-11s-start-m-1848684451)
