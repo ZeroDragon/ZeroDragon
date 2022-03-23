@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [publish react app to github pages](https://dev.to/l1gend/publish-react-app-to-github-pages-108j)
+- [Dev.to/JS] [Debugging a Node C Addon](https://dev.to/krowemoh/debugging-a-node-c-addon-3h12)
+- [Dev.to/JS] [9 Sustainable DeFi Projects Built on Celo](https://dev.to/joenyzio/9-sustainable-defi-projects-built-on-celo-1708)
 - [Dev.to/JS] [on el informe de iniciativa](https://dev.to/lavozmedellin/on-el-informe-de-iniciativa-2a22)
 - [Dev.to/JS] [Para Getac, Expomin resulta](https://dev.to/lavozmedellin/para-getac-expomin-resulta-4dcl)
 - [Dev.to/JS] [&quot;robusta&quot; , el sector de la Minería](https://dev.to/lavozmedellin/robusta-el-sector-de-la-mineria-3lg)
@@ -36,12 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
 - [Lifehacker] [Your New&lpar;er&rpar; Car Might Be Burning Oil Faster Than It Should](https://lifehacker.com/your-new-er-car-might-be-burning-oil-faster-than-it-sh-1848685618)
 - [Dev.to/JS] [Building complex dashboards and data-driven UIs in React - Interview with creator of React Query and React Table, Tanner Linsley](https://dev.to/clssmitty/building-complex-dashboards-and-data-driven-uis-in-react-interview-with-creator-of-react-query-and-react-table-tanner-linsley-3f6p)
-- [Dev.to/JS] [How to handle boolean values in SQLite using JavaScript Proxies](https://dev.to/mliakos/how-to-handle-boolean-values-in-sqlite-using-javascript-proxies-1mg1)
 - [Lifehacker] [You Should Change These TikTok Privacy Settings](https://lifehacker.com/you-should-change-these-tiktok-privacy-settings-1848685959)
-- [Dev.to/JS] [𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐝𝐨𝐮𝐛𝐥𝐞 𝐞𝐪𝐮𝐚𝐥𝐬 == 𝐚𝐧𝐝 𝐭𝐫𝐢𝐩𝐥𝐞 𝐞𝐪𝐮𝐚𝐥𝐬 === 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭?](https://dev.to/hrid620/--49ck)
 - [Lifehacker] [How to Establish a Core Strength Routine You&#39;ll Actually Stick To](https://lifehacker.com/how-to-establish-a-core-strength-routine-youll-actually-1848686501)
 - [Lifehacker] [How to Slice a Strip of Citrus Without Risking Life and Limb](https://lifehacker.com/how-to-slice-a-strip-of-citrus-without-risking-life-and-1848686991)
-- [Dev.to/JS] [Asynchronous JavaScript: callbacks, promises, Async/await, Event loop - part 1](https://dev.to/cinarb2/asynchronous-javascript-callbacks-promises-asyncawait-event-loop-part-1-4ep8)
 - [Lifehacker] [Throw Out These Pancake Mixes That Might Include Cable Fragments, FDA Says](https://lifehacker.com/throw-out-these-pancake-mixes-that-might-include-cable-1848685458)
 - [Lifehacker] [You Can Paint Your Laminate Countertops &lpar;Instead of Replacing Them&rpar;](https://lifehacker.com/you-can-paint-your-laminate-countertops-instead-of-rep-1848684147)
 - [Lifehacker] [You Can Save Money By Making a Gift Registry for Literally Any Occasion](https://lifehacker.com/you-can-save-money-by-making-a-gift-registry-for-litera-1848686093)
