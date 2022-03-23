@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte is better than React](https://dev.to/sirhamy/svelte-is-better-than-react-4om7)
 - [Dev.to/JS] [publish react app to github pages](https://dev.to/l1gend/publish-react-app-to-github-pages-108j)
 - [Dev.to/JS] [Debugging a Node C Addon](https://dev.to/krowemoh/debugging-a-node-c-addon-3h12)
 - [Dev.to/JS] [9 Sustainable DeFi Projects Built on Celo](https://dev.to/joenyzio/9-sustainable-defi-projects-built-on-celo-1708)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
 - [Lifehacker] [Your New&lpar;er&rpar; Car Might Be Burning Oil Faster Than It Should](https://lifehacker.com/your-new-er-car-might-be-burning-oil-faster-than-it-sh-1848685618)
-- [Dev.to/JS] [Building complex dashboards and data-driven UIs in React - Interview with creator of React Query and React Table, Tanner Linsley](https://dev.to/clssmitty/building-complex-dashboards-and-data-driven-uis-in-react-interview-with-creator-of-react-query-and-react-table-tanner-linsley-3f6p)
 - [Lifehacker] [You Should Change These TikTok Privacy Settings](https://lifehacker.com/you-should-change-these-tiktok-privacy-settings-1848685959)
 - [Lifehacker] [How to Establish a Core Strength Routine You&#39;ll Actually Stick To](https://lifehacker.com/how-to-establish-a-core-strength-routine-youll-actually-1848686501)
 - [Lifehacker] [How to Slice a Strip of Citrus Without Risking Life and Limb](https://lifehacker.com/how-to-slice-a-strip-of-citrus-without-risking-life-and-1848686991)
