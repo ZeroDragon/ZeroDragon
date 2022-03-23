@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Check Empty, Null, and Undefined Variables in Javascript / jQuery?](https://dev.to/codeanddeploy/how-to-check-empty-null-and-undefined-variables-in-javascript-jquery-5agl)
+- [Dev.to/JS] [3 Method To Get Selected Radio Button Value in jQuery](https://dev.to/codeanddeploy/3-method-to-get-selected-radio-button-value-in-jquery-3imb)
+- [Dev.to/JS] [Ajax Search Data in PHP &amp; MySQL using jQuery](https://dev.to/codeanddeploy/ajax-search-data-in-php-mysql-using-jquery-end)
+- [Dev.to/JS] [React Router: Basics](https://dev.to/therajatg/react-router-basics-gba)
+- [Dev.to/JS] [Your guide to NextJS Internationalization](https://dev.to/codegino/your-guide-to-nextjs-internationalization-bgf)
 - [Dev.to/JS] [How To Submit Multiple Checkbox Value to PHP using jQuery &amp; Ajax](https://dev.to/codeanddeploy/how-to-submit-multiple-checkbox-value-to-php-using-jquery-ajax-4cg6)
 - [Dev.to/JS] [Phase 1 Project: Colorado Fourteeners](https://dev.to/jordantaylorj/phase-1-project-colorado-fourteeners-dni)
 - [Dev.to/JS] [Import SVGs as React Components | Tutorial by DevDone](https://dev.to/jodharishi/import-svgs-as-react-components-tutorial-by-devdone-45gm)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte is better than React](https://dev.to/sirhamy/svelte-is-better-than-react-4om7)
 - [Dev.to/JS] [publish react app to github pages](https://dev.to/l1gend/publish-react-app-to-github-pages-108j)
 - [Dev.to/JS] [Debugging a Node C Addon](https://dev.to/krowemoh/debugging-a-node-c-addon-3h12)
-- [Dev.to/JS] [9 Sustainable DeFi Projects Built on Celo](https://dev.to/joenyzio/9-sustainable-defi-projects-built-on-celo-1708)
-- [Dev.to/JS] [on el informe de iniciativa](https://dev.to/lavozmedellin/on-el-informe-de-iniciativa-2a22)
-- [Dev.to/JS] [Para Getac, Expomin resulta](https://dev.to/lavozmedellin/para-getac-expomin-resulta-4dcl)
-- [Dev.to/JS] [&quot;robusta&quot; , el sector de la Minería](https://dev.to/lavozmedellin/robusta-el-sector-de-la-mineria-3lg)
-- [Dev.to/JS] [Resumo da 3º semana, Jornada DEV 3/52](https://dev.to/graciellesampaiobysunshinearts/resumo-da-3o-semana-jornada-dev-352-adm)
 - [Lifehacker] [All the Health Insurance Words You Need to Know But Were Too Embarrassed to Ask About](https://lifehacker.com/all-the-health-insurance-words-you-need-to-know-but-wer-1848688048)
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
