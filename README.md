@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Really Need to Add Sex Toys to Your Spring Cleaning List](https://lifehacker.com/you-really-need-to-add-sex-toys-to-your-spring-cleaning-1848691835)
+- [Dev.to/JS] [How to solve REST API routing problem with decorators?](https://dev.to/devsmitra/how-to-solve-rest-api-routing-problem-with-decorators-5b3n)
+- [Dev.to/JS] [Classnames mismatch in css and js file for the same classname](https://dev.to/sufyan0021/classnames-mismatch-in-css-and-js-file-for-the-same-classname-5ea3)
+- [Lifehacker] [It&#39;s Cheaper to Buy a House Than Rent in These Cities](https://lifehacker.com/its-cheaper-to-buy-a-house-than-rent-in-these-cities-1848691906)
+- [Lifehacker] [What&#39;s New on Netflix in April 2022](https://lifehacker.com/whats-new-on-netflix-in-april-2022-1848691808)
+- [Dev.to/JS] [Conditional Statements](https://dev.to/hardikmirg/conditional-statements-ghe)
 - [Lifehacker] [How to Find and Mass Delete Your Vulgar Twitter History](https://lifehacker.com/how-to-find-and-mass-delete-your-vulgar-twitter-history-1848691894)
 - [Lifehacker] [The Fastest Way to Get a Coffee Stain Out of Your Shirt Before You Embarrass Yourself](https://lifehacker.com/the-fastest-way-to-get-a-coffee-stain-out-of-your-shirt-1848691446)
 - [Dev.to/JS] [Implementando Webpack em um projeto MVC com JavaScript](https://dev.to/isabelrubim/implementando-webpack-em-um-projeto-mvc-com-javascript-4ch7)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-by-Age Guide to Preparing Kids for a Big Move](https://lifehacker.com/an-age-by-age-guide-to-preparing-kids-for-a-big-move-1848683915)
 - [Dev.to/JS] [Creating a color palette with Javascript](https://dev.to/producthackers/creating-a-color-palette-with-javascript-44ip)
 - [Dev.to/JS] [Introducing the Clubhouse Android App](https://dev.to/mr_dehqani/introducing-the-clubhouse-android-app-1c0d)
-- [Dev.to/JS] [Will this show the users’ local time?. Pulling data from Firestore?](https://dev.to/eulier/will-this-show-the-users-local-time-pulling-data-firestore-1bp9)
-- [Dev.to/JS] [HTML &lt;datalist&gt; Tag](https://dev.to/shamgurav96/html-tag-g53)
-- [Dev.to/JS] [Open Source Adventures: Episode 19: Porting Imba 1 Apps to Imba 2](https://dev.to/taw/open-source-adventures-episode-19-porting-imba-1-apps-to-imba-2-22kf)
 - [Lifehacker] [This Is the Best Screenshot Tool for Windows](https://lifehacker.com/this-is-the-best-screenshot-tool-for-windows-1848690325)
 - [Lifehacker] [17 Huge Red Flags From Personal Finance &#39;Influencers&#39;](https://lifehacker.com/17-huge-red-flags-from-personal-finance-influencers-1848689054)
 - [Lifehacker] [The First Thing You Should Do With a Bunch of Radishes](https://lifehacker.com/the-first-thing-you-should-do-with-a-bunch-of-radishes-1848687979)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Easy Ways to Improve &lpar;or Replace&rpar; Windows 11&#39;s Start Menu](https://lifehacker.com/8-easy-ways-to-improve-or-replace-windows-11s-start-m-1848684451)
 - [Lifehacker] [10 of the Worst Etiquette Faux Pas Lifehacker Readers Ever Experienced](https://lifehacker.com/10-of-the-worst-etiquette-faux-pas-lifehacker-readers-e-1848681196)
 - [Lifehacker] [12 Common ‘Laws’ of Psychology That Are Wrong](https://lifehacker.com/12-common-laws-of-psychology-that-are-bullshit-1848683494)
-- [Lifehacker] [The Best Shortcuts for Using GIFs and Emojis on Your Computer](https://lifehacker.com/the-best-shortcuts-for-using-gifs-and-emojis-on-your-co-1848684883)
-- [Lifehacker] [What Parents Need to Know About Instagram’s New ‘Supervision’ Feature](https://lifehacker.com/what-parents-need-to-know-about-instagram-s-new-superv-1848683921)
-- [Lifehacker] [9 Ways to Make Incredible Homemade Pizza](https://lifehacker.com/9-ways-to-make-incredible-homemade-pizza-1848682268)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
