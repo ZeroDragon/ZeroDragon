@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #84: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-84-explica-este-codigo-javascript-5djp)
+- [Dev.to/JS] [Let&#39;s play voice Tic Tac Toe](https://dev.to/zainbinfurqan/lets-play-voice-tic-tac-toe-43fi)
+- [Dev.to/JS] [Open Source Adventures: Episode 20: Imba 2 ROT-N](https://dev.to/taw/open-source-adventures-episode-20-imba-2-rot-n-1d5p)
 - [Dev.to/JS] [Destructuring arrays in JavaScript &lpar;also with added rest and spread!&rpar;](https://dev.to/quality_pre/destructuring-arrays-in-javascript-also-with-added-rest-and-spread-32fp)
 - [Dev.to/JS] [Vue 2.x + Vite + Tailwind CSS](https://dev.to/mayank30/vue-2x-vite-tailwind-css-32ag)
 - [Dev.to/JS] [Web Storage APIs - LocalStorage and SessionStorage](https://dev.to/alexmercedcoder/web-storage-apis-localstorage-and-sessionstorage-3b29)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple SEO setup for a Nuxt App](https://dev.to/raulsposito/simple-seo-setup-for-a-nuxt-app-5cfd)
 - [Dev.to/JS] [Free session on JavaScript apps on Kubernetes](https://dev.to/brunoa19/free-session-on-javascript-apps-on-kubernetes-5bmd)
 - [Dev.to/JS] [Top 3 ways to easily detect when a user leaves a page using JavaScript](https://dev.to/amersikira/top-3-ways-to-easily-detect-when-a-user-leaves-a-page-using-javascript-2ce4)
-- [Dev.to/JS] [Random Quotes Generator](https://dev.to/iammanojrathod/random-quotes-generator-acd)
 - [Lifehacker] [Is Bamboo Toilet Paper All It’s Cracked Up to Be?](https://lifehacker.com/is-bamboo-toilet-paper-all-it-s-cracked-up-to-be-1848692484)
-- [Dev.to/JS] [Adding Bootstrap to Next.js](https://dev.to/anuraggharat/adding-bootstrap-to-nextjs-39b2)
 - [Lifehacker] [You Can Now Play Ocarina of Time Like a &#39;Modern&#39; PC Game](https://lifehacker.com/you-can-now-play-ocarina-of-time-like-a-modern-pc-game-1848691454)
-- [Dev.to/JS] [Nested object iteration using multiple for...in Loops.](https://dev.to/ddrummer3993/nested-object-iteration-using-multiple-forin-loops-4k6l)
 - [Lifehacker] [You Really Need to Add Sex Toys to Your Spring Cleaning List](https://lifehacker.com/you-really-need-to-add-sex-toys-to-your-spring-cleaning-1848691835)
 - [Lifehacker] [It&#39;s Cheaper to Buy a House Than Rent in These Cities](https://lifehacker.com/its-cheaper-to-buy-a-house-than-rent-in-these-cities-1848691906)
 - [Lifehacker] [What&#39;s New on Netflix in April 2022](https://lifehacker.com/whats-new-on-netflix-in-april-2022-1848691808)
