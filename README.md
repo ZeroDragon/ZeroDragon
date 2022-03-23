@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help! I need To do A BreadCrumb With React.](https://dev.to/juanfercaste/help-i-need-to-do-a-breadcrumb-with-react-196n)
 - [Dev.to/JS] [Svelte is better than React](https://dev.to/sirhamy/svelte-is-better-than-react-4om7)
 - [Dev.to/JS] [publish react app to github pages](https://dev.to/l1gend/publish-react-app-to-github-pages-108j)
 - [Dev.to/JS] [Debugging a Node C Addon](https://dev.to/krowemoh/debugging-a-node-c-addon-3h12)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Allow Ads On My Website](https://dev.to/sharafatoffici2/how-to-allow-ads-on-my-website-2h2)
 - [Dev.to/JS] [Your SSR is slow &amp; your devtools are lying to you](https://dev.to/mlrawlings/your-ssr-is-slow-your-devtools-are-lying-to-you-3056)
 - [Dev.to/JS] [Next.js 12 + Bootstrap Boilerplate](https://dev.to/mxro/nextjs-12-bootstrap-boilerplate-4o1j)
-- [Dev.to/JS] [Fun With Deepgram and NextJS](https://dev.to/cerchie/fun-with-deepgram-and-nextjs-2212)
 - [Lifehacker] [All the Health Insurance Words You Need to Know But Were Too Embarrassed to Ask About](https://lifehacker.com/all-the-health-insurance-words-you-need-to-know-but-wer-1848688048)
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
