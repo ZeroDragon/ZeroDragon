@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing the Clubhouse Android App](https://dev.to/mr_dehqani/introducing-the-clubhouse-android-app-1c0d)
+- [Dev.to/JS] [Will this show the users’ local time?. Pulling data from Firestore?](https://dev.to/eulier/will-this-show-the-users-local-time-pulling-data-firestore-1bp9)
+- [Dev.to/JS] [HTML &lt;datalist&gt; Tag](https://dev.to/shamgurav96/html-tag-g53)
+- [Dev.to/JS] [Open Source Adventures: Episode 19: Porting Imba 1 Apps to Imba 2](https://dev.to/taw/open-source-adventures-episode-19-porting-imba-1-apps-to-imba-2-22kf)
+- [Lifehacker] [This Is the Best Screenshot Tool for Windows](https://lifehacker.com/this-is-the-best-screenshot-tool-for-windows-1848690325)
+- [Lifehacker] [17 Huge Red Flags From Personal Finance &#39;Influencers&#39;](https://lifehacker.com/17-huge-red-flags-from-personal-finance-influencers-1848689054)
+- [Dev.to/JS] [How to build a Neo4j Application with Go](https://dev.to/neo4j/how-to-build-a-neo4j-application-with-go-1e3o)
 - [Dev.to/JS] [Best 10 Code Snippets for Remix and JavaScript in 2022](https://dev.to/codiga/best-10-code-snippets-for-remix-and-javascript-in-2022-4k2k)
 - [Dev.to/JS] [How to Manage State in Your React Apps](https://dev.to/sananayab/how-to-manage-state-in-your-react-apps-4n67)
 - [Dev.to/JS] [Understanding Arrow Functions in JavaScript ES6 — Full Guide](https://dev.to/gayankod/understanding-arrow-functions-in-javascript-es6-full-guide-2dnc)
@@ -32,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Color of Dog Poop, and 9 Other Things That Changed Without You Noticing](https://lifehacker.com/the-color-of-dog-poop-and-9-other-things-that-changed-1848686078)
 - [Dev.to/JS] [How to uncheck and check a radio button using Javascript/jQuery?](https://dev.to/codeanddeploy/how-to-uncheck-and-check-a-radio-button-using-javascriptjquery-4l9p)
 - [Dev.to/JS] [Import Node packages in React and React Native.](https://dev.to/darylaranha/import-node-packages-in-react-and-react-native-2nmm)
-- [Dev.to/JS] [How to unchecked a radio button using JavaScript/jQuery?](https://dev.to/codeanddeploy/how-to-unchecked-a-radio-button-using-javascriptjquery-1h1f)
-- [Dev.to/JS] [How To Check Radio Button Based On Selected Value in Javascript/jQuery?](https://dev.to/codeanddeploy/how-to-check-radio-button-based-on-selected-value-in-javascriptjquery-1lg0)
-- [Dev.to/JS] [🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]](https://dev.to/codebucks/build-a-stunning-fashion-studio-website-with-react-js-locomotive-scroll-gsap-framer-motion--5aph)
-- [Dev.to/JS] [NextJS i18n/Internationalization](https://dev.to/codegino/your-guide-to-nextjs-internationalization-4aa4)
 - [Lifehacker] [What Intrusive Thoughts Actually Are &lpar;and How to Overcome Them&rpar;](https://lifehacker.com/what-intrusive-thoughts-actually-are-and-how-to-overco-1848688089)
-- [Dev.to/JS] [Better types in TypeScript with type guards and mapping types](https://dev.to/vue-storefront/better-types-in-typescript-with-type-guards-and-mapping-types-8kb)
 - [Lifehacker] [All the Health Insurance Words You Need to Know But Were Too Embarrassed to Ask About](https://lifehacker.com/all-the-health-insurance-words-you-need-to-know-but-wer-1848688048)
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix &#39;Elden Ring&#39; When Hackers Send You on an Infinite Death Loop](https://lifehacker.com/how-to-fix-elden-ring-when-hackers-send-you-on-an-infin-1848681820)
 - [Lifehacker] [Stop Being a Dick on Venmo](https://lifehacker.com/stop-being-a-dick-on-venmo-1848681834)
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
-- [Lifehacker] [What Is a Relationship ‘Soft Launch,’ and How Can You Pull It Off?](https://lifehacker.com/what-is-a-relationship-soft-launch-and-how-can-you-p-1848681538)
-- [Lifehacker] [All the Places You Can Get Athlete’s Foot That Aren’t Your Feet](https://lifehacker.com/all-the-places-you-can-get-athlete-s-foot-that-aren-t-y-1848680602)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
