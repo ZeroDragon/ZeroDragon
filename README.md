@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best 10 Code Snippets for Remix and JavaScript in 2022](https://dev.to/codiga/best-10-code-snippets-for-remix-and-javascript-in-2022-4k2k)
+- [Dev.to/JS] [How to Manage State in Your React Apps](https://dev.to/sananayab/how-to-manage-state-in-your-react-apps-4n67)
+- [Dev.to/JS] [Understanding Arrow Functions in JavaScript ES6 — Full Guide](https://dev.to/gayankod/understanding-arrow-functions-in-javascript-es6-full-guide-2dnc)
+- [Lifehacker] [The First Thing You Should Do With a Bunch of Radishes](https://lifehacker.com/the-first-thing-you-should-do-with-a-bunch-of-radishes-1848687979)
+- [Dev.to/JS] [Playwright E2E testing: Tips and best practices](https://dev.to/cathalmacdonnacha/playwright-e2e-testing-tips-and-best-practices-2g07)
 - [Dev.to/JS] [how is the performance building website with javascript only?](https://dev.to/musadarj/how-is-the-performance-building-website-with-javascript-only-dg)
 - [Lifehacker] [The Color of Dog Poop, and 9 Other Things That Changed Without You Noticing](https://lifehacker.com/the-color-of-dog-poop-and-9-other-things-that-changed-1848686078)
 - [Dev.to/JS] [How to uncheck and check a radio button using Javascript/jQuery?](https://dev.to/codeanddeploy/how-to-uncheck-and-check-a-radio-button-using-javascriptjquery-4l9p)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NextJS i18n/Internationalization](https://dev.to/codegino/your-guide-to-nextjs-internationalization-4aa4)
 - [Lifehacker] [What Intrusive Thoughts Actually Are &lpar;and How to Overcome Them&rpar;](https://lifehacker.com/what-intrusive-thoughts-actually-are-and-how-to-overco-1848688089)
 - [Dev.to/JS] [Better types in TypeScript with type guards and mapping types](https://dev.to/vue-storefront/better-types-in-typescript-with-type-guards-and-mapping-types-8kb)
-- [Dev.to/JS] [TDD vs BDD](https://dev.to/hshoja/tdd-vs-bdd-8d0)
-- [Dev.to/JS] [Ads Alert! Integration of Huawei Ads Kit in Application using React Native](https://dev.to/hmscommunity/ads-alert-integration-of-huawei-ads-kit-in-application-using-react-native-3md)
-- [Dev.to/JS] [Dependency Wheel using VueJS 5/10](https://dev.to/101samovar/dependency-wheel-using-vuejs-510-40ge)
-- [Dev.to/JS] [GitHub Repos to become better Web Developer ⚡](https://dev.to/akj0712/github-repos-to-become-better-web-developer-1a03)
 - [Lifehacker] [All the Health Insurance Words You Need to Know But Were Too Embarrassed to Ask About](https://lifehacker.com/all-the-health-insurance-words-you-need-to-know-but-wer-1848688048)
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Court Bouillon, and How Should You Use It?](https://lifehacker.com/what-is-court-bouillon-and-how-should-you-use-it-1848680921)
 - [Lifehacker] [What Is a Relationship ‘Soft Launch,’ and How Can You Pull It Off?](https://lifehacker.com/what-is-a-relationship-soft-launch-and-how-can-you-p-1848681538)
 - [Lifehacker] [All the Places You Can Get Athlete’s Foot That Aren’t Your Feet](https://lifehacker.com/all-the-places-you-can-get-athlete-s-foot-that-aren-t-y-1848680602)
-- [Lifehacker] [Stop Storing These Items in Your Junk Drawer](https://lifehacker.com/stop-storing-these-items-in-your-junk-drawer-1848680113)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
