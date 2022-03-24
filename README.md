@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Control Value Accessor](https://dev.to/pawankkumawat/control-value-accessor-56oi)
+- [Dev.to/JS] [Created a svelte tooltip library](https://dev.to/k_penguin_sato/created-a-svelte-tooltip-library-8cf)
+- [Dev.to/JS] [Building a business from scratch - day 10](https://dev.to/twankrui/building-a-business-from-scratch-day-10-och)
+- [Dev.to/JS] [Crop Images Before Upload With JavaScript](https://dev.to/rikschennink/crop-images-before-upload-with-javascript-5ab1)
 - [Dev.to/JS] [What does typescript add onto JavaScript](https://dev.to/mreggo/what-does-typescript-add-onto-javascript-48be)
 - [Dev.to/JS] [Design Patterns for Javascript — Builder Pattern](https://dev.to/the_olutobi/design-patterns-for-javascript-builder-pattern-23hj)
 - [Dev.to/JS] [Bootstrap 5 Waitingfor Loading Modal with Progress bar jQuery Plugin](https://dev.to/codeanddeploy/bootstrap-5-waitingfor-loading-modal-with-progress-bar-jquery-plugin-3chn)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cybersecurity tips: How to Identify your organization’s potential vulnerabilities](https://dev.to/vikooz/cybersecurity-tips-how-to-identify-your-organizations-potential-vulnerabilities-322l)
 - [Dev.to/JS] [A Beginner’s Guide to Computer and IT Security](https://dev.to/vikooz/a-beginners-guide-to-computer-and-it-security-169l)
 - [Dev.to/JS] [Hbgg](https://dev.to/rourkepoulton/hbgg-1omj)
-- [Dev.to/JS] [Slim Sweets - Scam Aur Slim Sweets Fat Loss Supplement Formula Really Work?](https://dev.to/sweets_slim/slim-sweets-scam-aur-slim-sweets-fat-loss-supplement-formula-really-work-3g96)
-- [Dev.to/JS] [Extra Burn Keto – Ketogenic Formula Kills Your Belly Fat Quickly](https://dev.to/extraburnketo/extra-burn-keto-ketogenic-formula-kills-your-belly-fat-quickly-1lib)
-- [Dev.to/JS] [How to Disable Specific Dates in Bootstrap Datepicker using jQuery?](https://dev.to/codeanddeploy/how-to-disable-specific-dates-in-bootstrap-datepicker-using-jquery-54c7)
-- [Dev.to/JS] [How to Check if Radio Button is Checked or Selected in jQuery?](https://dev.to/codeanddeploy/how-to-check-if-radio-button-is-checked-or-selected-in-jquery-22g8)
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
