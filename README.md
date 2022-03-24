@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Enduring Myths About American History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/9-enduring-myths-about-american-history-and-what-we-ca-1848695181)
+- [Dev.to/JS] [Custom 404 page on Next.js under a 1 minute](https://dev.to/theabhayprajapati/custom-404-page-on-nextjs-under-a-1-minute-310e)
+- [Dev.to/JS] [Open Source Adventures: Episode 21: Imba 2 Matrix Rain](https://dev.to/taw/open-source-adventures-episode-21-imba-2-matrix-rain-26c)
+- [Dev.to/JS] [#9 Guess the output ???](https://dev.to/shamgurav96/9-guess-the-output--15ll)
+- [Dev.to/JS] [Best 10 Code Snippets for Next and JavaScript in 2022](https://dev.to/_khalidkhan_/best-10-code-snippets-for-next-and-javascript-in-2022-2f0a)
+- [Lifehacker] [15 of the Best Movies About Teen Angst to Watch After &#39;Turning Red&#39;](https://lifehacker.com/15-of-the-best-movies-about-teen-angst-to-watch-after-t-1848688190)
+- [Dev.to/JS] [Scopes in Javascript with DevTools](https://dev.to/shaur/scopes-in-javascript-with-devtools-16gp)
 - [Lifehacker] [How to Get Kids to Stop Eating Their Boogers](https://lifehacker.com/how-to-get-kids-to-stop-eating-their-boogers-1848691567)
 - [Dev.to/JS] [Custom Card Slider Using HTML, CSS, Javascript, and Owl Carousel Plugin](https://dev.to/incoderweb/custom-card-slider-using-html-css-javascript-and-owl-carousel-plugin-3i32)
 - [Dev.to/JS] [I am not a designer but I try 😅, because the only way you can improve is to practice.](https://dev.to/dyacinedev/i-am-not-a-designer-but-i-try-because-the-only-way-you-can-improve-is-to-practice-1eko)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Control Value Accessor](https://dev.to/pawankkumawat/control-value-accessor-56oi)
 - [Dev.to/JS] [Created a svelte tooltip library](https://dev.to/k_penguin_sato/created-a-svelte-tooltip-library-8cf)
 - [Dev.to/JS] [Building a business from scratch - day 10](https://dev.to/twankrui/building-a-business-from-scratch-day-10-och)
-- [Dev.to/JS] [Crop Images Before Upload With JavaScript](https://dev.to/rikschennink/crop-images-before-upload-with-javascript-5ab1)
-- [Dev.to/JS] [What does typescript add onto JavaScript](https://dev.to/mreggo/what-does-typescript-add-onto-javascript-48be)
-- [Dev.to/JS] [Design Patterns for Javascript — Builder Pattern](https://dev.to/the_olutobi/design-patterns-for-javascript-builder-pattern-23hj)
-- [Dev.to/JS] [Bootstrap 5 Waitingfor Loading Modal with Progress bar jQuery Plugin](https://dev.to/codeanddeploy/bootstrap-5-waitingfor-loading-modal-with-progress-bar-jquery-plugin-3chn)
-- [Dev.to/JS] [Laravel 9 Auth Login and Registration with Username or Email](https://dev.to/codeanddeploy/laravel-9-auth-login-and-registration-with-username-or-email-2g3k)
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
 - [Lifehacker] [Your New&lpar;er&rpar; Car Might Be Burning Oil Faster Than It Should](https://lifehacker.com/your-new-er-car-might-be-burning-oil-faster-than-it-sh-1848685618)
 - [Lifehacker] [You Should Change These TikTok Privacy Settings](https://lifehacker.com/you-should-change-these-tiktok-privacy-settings-1848685959)
-- [Lifehacker] [How to Establish a Core Strength Routine You&#39;ll Actually Stick To](https://lifehacker.com/how-to-establish-a-core-strength-routine-youll-actually-1848686501)
-- [Lifehacker] [How to Slice a Strip of Citrus Without Risking Life and Limb](https://lifehacker.com/how-to-slice-a-strip-of-citrus-without-risking-life-and-1848686991)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
