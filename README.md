@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bootstrap 5 Waitingfor Loading Modal with Progress bar jQuery Plugin](https://dev.to/codeanddeploy/bootstrap-5-waitingfor-loading-modal-with-progress-bar-jquery-plugin-3chn)
+- [Dev.to/JS] [Laravel 9 Auth Login and Registration with Username or Email](https://dev.to/codeanddeploy/laravel-9-auth-login-and-registration-with-username-or-email-2g3k)
+- [Dev.to/JS] [Setting up Radius AuthX for Password-less user onboarding.](https://dev.to/iamtunde/setting-up-radius-authx-for-password-less-user-onboarding-53d1)
+- [Dev.to/JS] [Cybersecurity tips: How to Identify your organization’s potential vulnerabilities](https://dev.to/vikooz/cybersecurity-tips-how-to-identify-your-organizations-potential-vulnerabilities-322l)
 - [Dev.to/JS] [A Beginner’s Guide to Computer and IT Security](https://dev.to/vikooz/a-beginners-guide-to-computer-and-it-security-169l)
 - [Dev.to/JS] [Hbgg](https://dev.to/rourkepoulton/hbgg-1omj)
 - [Dev.to/JS] [Slim Sweets - Scam Aur Slim Sweets Fat Loss Supplement Formula Really Work?](https://dev.to/sweets_slim/slim-sweets-scam-aur-slim-sweets-fat-loss-supplement-formula-really-work-3g96)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Check if Radio Button is Checked or Selected in jQuery?](https://dev.to/codeanddeploy/how-to-check-if-radio-button-is-checked-or-selected-in-jquery-22g8)
 - [Dev.to/JS] [🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]](https://dev.to/codebucks/build-a-stunning-fashion-studio-website-with-react-js-locomotive-scroll-gsap-framer-motion--pgp)
 - [Dev.to/JS] [Google Meet Clone - HTML/Css/Js and other languages](https://dev.to/kavyargb/google-meet-clone-htmlcssjs-and-other-languages-1a8j)
-- [Dev.to/JS] [𝐃𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐝𝐨𝐮𝐛𝐥𝐞 𝐞𝐪𝐮𝐚𝐥𝐬 == 𝐚𝐧𝐝 𝐭𝐫𝐢𝐩𝐥𝐞 𝐞𝐪𝐮𝐚𝐥𝐬 === 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭 ?](https://dev.to/rudresh3/--4d76)
-- [Dev.to/JS] [𝐃𝐞𝐟𝐢𝐧𝐞 𝐩𝐨𝐩,𝐩𝐮𝐬𝐡,𝐬𝐡𝐢𝐟𝐭,𝐮𝐧𝐬𝐡𝐢𝐟𝐭 𝐌𝐞𝐭𝐡𝐨𝐝𝐬 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://dev.to/hrid620/-46o2)
-- [Dev.to/JS] [𝐁𝐢𝐧𝐝, 𝐂𝐚𝐥𝐥, 𝐚𝐧𝐝 𝐀𝐩𝐩𝐥𝐲 𝐌𝐞𝐭𝐡𝐨𝐝𝐬 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://dev.to/hrid620/--5531)
-- [Dev.to/JS] [Reduce Duplicated Styled Components? Check Here](https://dev.to/zhcalvin/reduce-duplicated-styled-components-check-here-240p)
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
