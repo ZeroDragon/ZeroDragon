@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Kids to Stop Eating Their Boogers](https://lifehacker.com/how-to-get-kids-to-stop-eating-their-boogers-1848691567)
+- [Dev.to/JS] [Custom Card Slider Using HTML, CSS, Javascript, and Owl Carousel Plugin](https://dev.to/incoderweb/custom-card-slider-using-html-css-javascript-and-owl-carousel-plugin-3i32)
+- [Dev.to/JS] [I am not a designer but I try 😅, because the only way you can improve is to practice.](https://dev.to/dyacinedev/i-am-not-a-designer-but-i-try-because-the-only-way-you-can-improve-is-to-practice-1eko)
+- [Dev.to/JS] [A React toolkit - mini applications serie.](https://dev.to/leopold/build-react-tools-my-new-challenge-1g7l)
+- [Dev.to/JS] [How to Build a CRUD App in Angular](https://dev.to/syncfusion/how-to-build-a-crud-app-in-angular-18h)
 - [Dev.to/JS] [Control Value Accessor](https://dev.to/pawankkumawat/control-value-accessor-56oi)
 - [Dev.to/JS] [Created a svelte tooltip library](https://dev.to/k_penguin_sato/created-a-svelte-tooltip-library-8cf)
 - [Dev.to/JS] [Building a business from scratch - day 10](https://dev.to/twankrui/building-a-business-from-scratch-day-10-och)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Design Patterns for Javascript — Builder Pattern](https://dev.to/the_olutobi/design-patterns-for-javascript-builder-pattern-23hj)
 - [Dev.to/JS] [Bootstrap 5 Waitingfor Loading Modal with Progress bar jQuery Plugin](https://dev.to/codeanddeploy/bootstrap-5-waitingfor-loading-modal-with-progress-bar-jquery-plugin-3chn)
 - [Dev.to/JS] [Laravel 9 Auth Login and Registration with Username or Email](https://dev.to/codeanddeploy/laravel-9-auth-login-and-registration-with-username-or-email-2g3k)
-- [Dev.to/JS] [Setting up Radius AuthX for Password-less user onboarding.](https://dev.to/iamtunde/setting-up-radius-authx-for-password-less-user-onboarding-53d1)
-- [Dev.to/JS] [Cybersecurity tips: How to Identify your organization’s potential vulnerabilities](https://dev.to/vikooz/cybersecurity-tips-how-to-identify-your-organizations-potential-vulnerabilities-322l)
-- [Dev.to/JS] [A Beginner’s Guide to Computer and IT Security](https://dev.to/vikooz/a-beginners-guide-to-computer-and-it-security-169l)
-- [Dev.to/JS] [Hbgg](https://dev.to/rourkepoulton/hbgg-1omj)
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Change These TikTok Privacy Settings](https://lifehacker.com/you-should-change-these-tiktok-privacy-settings-1848685959)
 - [Lifehacker] [How to Establish a Core Strength Routine You&#39;ll Actually Stick To](https://lifehacker.com/how-to-establish-a-core-strength-routine-youll-actually-1848686501)
 - [Lifehacker] [How to Slice a Strip of Citrus Without Risking Life and Limb](https://lifehacker.com/how-to-slice-a-strip-of-citrus-without-risking-life-and-1848686991)
-- [Lifehacker] [Throw Out These Pancake Mixes That Might Include Cable Fragments, FDA Says](https://lifehacker.com/throw-out-these-pancake-mixes-that-might-include-cable-1848685458)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
