@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What does typescript add onto JavaScript](https://dev.to/mreggo/what-does-typescript-add-onto-javascript-48be)
+- [Dev.to/JS] [Design Patterns for Javascript — Builder Pattern](https://dev.to/the_olutobi/design-patterns-for-javascript-builder-pattern-23hj)
 - [Dev.to/JS] [Bootstrap 5 Waitingfor Loading Modal with Progress bar jQuery Plugin](https://dev.to/codeanddeploy/bootstrap-5-waitingfor-loading-modal-with-progress-bar-jquery-plugin-3chn)
 - [Dev.to/JS] [Laravel 9 Auth Login and Registration with Username or Email](https://dev.to/codeanddeploy/laravel-9-auth-login-and-registration-with-username-or-email-2g3k)
 - [Dev.to/JS] [Setting up Radius AuthX for Password-less user onboarding.](https://dev.to/iamtunde/setting-up-radius-authx-for-password-less-user-onboarding-53d1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Extra Burn Keto – Ketogenic Formula Kills Your Belly Fat Quickly](https://dev.to/extraburnketo/extra-burn-keto-ketogenic-formula-kills-your-belly-fat-quickly-1lib)
 - [Dev.to/JS] [How to Disable Specific Dates in Bootstrap Datepicker using jQuery?](https://dev.to/codeanddeploy/how-to-disable-specific-dates-in-bootstrap-datepicker-using-jquery-54c7)
 - [Dev.to/JS] [How to Check if Radio Button is Checked or Selected in jQuery?](https://dev.to/codeanddeploy/how-to-check-if-radio-button-is-checked-or-selected-in-jquery-22g8)
-- [Dev.to/JS] [🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]](https://dev.to/codebucks/build-a-stunning-fashion-studio-website-with-react-js-locomotive-scroll-gsap-framer-motion--pgp)
-- [Dev.to/JS] [Google Meet Clone - HTML/Css/Js and other languages](https://dev.to/kavyargb/google-meet-clone-htmlcssjs-and-other-languages-1a8j)
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
