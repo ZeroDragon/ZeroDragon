@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
+- [Dev.to/JS] [The 6 Best JavaScript Frameworks to Use in 2022](https://dev.to/dsalinasgardon/the-6-best-javascript-frameworks-to-use-in-2022-4k5k)
+- [Dev.to/JS] [4 Most Useful features of the Window Object](https://dev.to/thedevguy/5-most-useful-features-of-the-window-object-2728)
+- [Dev.to/JS] [Using APIs](https://dev.to/marvinobig/using-apis-51a3)
+- [Lifehacker] [How to Watch the 2022 Oscars](https://lifehacker.com/how-to-watch-the-2022-oscars-1848698955)
 - [Dev.to/JS] [Use your i-moon-gination: Let&#39;s build a Moon phase visualizer with CSS and JS! 🗓️🌙](https://dev.to/thormeier/use-your-i-moon-gination-lets-build-a-moon-phase-visualizer-with-css-and-js-aih)
 - [Dev.to/JS] [Cookie Banners](https://dev.to/vadimfilimonov/cookie-banners-4nb4)
 - [Lifehacker] [17 of the Trickiest Ways Restaurants Get You to Spend More &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/17-of-the-trickiest-ways-restaurants-get-you-to-spend-m-1848697711)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to instrument your Battlesnake with New Relic One](https://dev.to/newrelic/how-to-instrument-your-battlesnake-with-new-relic-one-3133)
 - [Dev.to/JS] [Myfe - 23/03/22](https://dev.to/vulcanwm/myfe-230322-1083)
 - [Dev.to/JS] [How to use Vue Template Refs to Access HTML Elements](https://dev.to/smpnjn/how-to-use-vue-template-refs-to-access-html-elements-2510)
-- [Dev.to/JS] [Create React App error](https://dev.to/itskunal/create-react-app-error-2c6h)
-- [Dev.to/JS] [Console.log&lpar;&rpar; inside Visual Studio Code](https://dev.to/codepo8/consolelog-inside-visual-studio-code-2062)
-- [Dev.to/JS] [Data Structures: Stacks And Queues II](https://dev.to/m13ha/data-structures-stacks-and-queues-ii-41b6)
 - [Lifehacker] [How to Install a ‘Shade Sail’ in Your Backyard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-install-a-shade-sail-in-your-backyard-and-why-1848689998)
 - [Lifehacker] [12 Easy Garden Plants That Are Actually Worth Growing](https://lifehacker.com/12-easy-garden-plants-that-are-actually-worth-growing-1848697407)
 - [Lifehacker] [You Should Stop Using Coupons](https://lifehacker.com/you-should-stop-using-coupons-1848692478)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Make These Magical Air-Fried Tofu Puffs](https://lifehacker.com/you-need-to-make-these-magical-air-fried-tofu-puffs-1848691421)
 - [Lifehacker] [An Age-by-Age Guide to Preparing Kids for a Big Move](https://lifehacker.com/an-age-by-age-guide-to-preparing-kids-for-a-big-move-1848683915)
 - [Lifehacker] [This Is the Best Screenshot Tool for Windows](https://lifehacker.com/this-is-the-best-screenshot-tool-for-windows-1848690325)
-- [Lifehacker] [17 Huge Red Flags From Personal Finance &#39;Influencers&#39;](https://lifehacker.com/17-huge-red-flags-from-personal-finance-influencers-1848689054)
-- [Lifehacker] [The First Thing You Should Do With a Bunch of Radishes](https://lifehacker.com/the-first-thing-you-should-do-with-a-bunch-of-radishes-1848687979)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
