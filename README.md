@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
+- [Dev.to/JS] [Introduction to Creative Coding with Javascript](https://dev.to/phamn23/introduction-to-creative-coding-with-javascript-e1i)
+- [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
 - [Dev.to/JS] [The 6 Best JavaScript Frameworks to Use in 2022](https://dev.to/dsalinasgardon/the-6-best-javascript-frameworks-to-use-in-2022-4k5k)
 - [Dev.to/JS] [4 Most Useful features of the Window Object](https://dev.to/thedevguy/5-most-useful-features-of-the-window-object-2728)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Treat Your Kid’s Cuts and Bruises Quickly, According to a Boxing Cutman](https://lifehacker.com/how-to-treat-your-kid-s-cuts-and-bruises-quickly-accor-1848697632)
 - [Dev.to/JS] [How to instrument your Battlesnake with New Relic One](https://dev.to/newrelic/how-to-instrument-your-battlesnake-with-new-relic-one-3133)
 - [Dev.to/JS] [Myfe - 23/03/22](https://dev.to/vulcanwm/myfe-230322-1083)
-- [Dev.to/JS] [How to use Vue Template Refs to Access HTML Elements](https://dev.to/smpnjn/how-to-use-vue-template-refs-to-access-html-elements-2510)
 - [Lifehacker] [How to Install a ‘Shade Sail’ in Your Backyard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-install-a-shade-sail-in-your-backyard-and-why-1848689998)
 - [Lifehacker] [12 Easy Garden Plants That Are Actually Worth Growing](https://lifehacker.com/12-easy-garden-plants-that-are-actually-worth-growing-1848697407)
 - [Lifehacker] [You Should Stop Using Coupons](https://lifehacker.com/you-should-stop-using-coupons-1848692478)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find and Mass Delete Your Vulgar Twitter History](https://lifehacker.com/how-to-find-and-mass-delete-your-vulgar-twitter-history-1848691894)
 - [Lifehacker] [The Fastest Way to Get a Coffee Stain Out of Your Shirt Before You Embarrass Yourself](https://lifehacker.com/the-fastest-way-to-get-a-coffee-stain-out-of-your-shirt-1848691446)
 - [Lifehacker] [You Need to Make These Magical Air-Fried Tofu Puffs](https://lifehacker.com/you-need-to-make-these-magical-air-fried-tofu-puffs-1848691421)
-- [Lifehacker] [An Age-by-Age Guide to Preparing Kids for a Big Move](https://lifehacker.com/an-age-by-age-guide-to-preparing-kids-for-a-big-move-1848683915)
-- [Lifehacker] [This Is the Best Screenshot Tool for Windows](https://lifehacker.com/this-is-the-best-screenshot-tool-for-windows-1848690325)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
