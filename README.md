@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Beginner’s Guide to Computer and IT Security](https://dev.to/vikooz/a-beginners-guide-to-computer-and-it-security-169l)
+- [Dev.to/JS] [Hbgg](https://dev.to/rourkepoulton/hbgg-1omj)
+- [Dev.to/JS] [Slim Sweets - Scam Aur Slim Sweets Fat Loss Supplement Formula Really Work?](https://dev.to/sweets_slim/slim-sweets-scam-aur-slim-sweets-fat-loss-supplement-formula-really-work-3g96)
+- [Dev.to/JS] [Extra Burn Keto – Ketogenic Formula Kills Your Belly Fat Quickly](https://dev.to/extraburnketo/extra-burn-keto-ketogenic-formula-kills-your-belly-fat-quickly-1lib)
+- [Dev.to/JS] [How to Disable Specific Dates in Bootstrap Datepicker using jQuery?](https://dev.to/codeanddeploy/how-to-disable-specific-dates-in-bootstrap-datepicker-using-jquery-54c7)
 - [Dev.to/JS] [How to Check if Radio Button is Checked or Selected in jQuery?](https://dev.to/codeanddeploy/how-to-check-if-radio-button-is-checked-or-selected-in-jquery-22g8)
 - [Dev.to/JS] [🔥Build a Stunning Fashion Studio Website with React JS [ Locomotive Scroll + GSAP + Framer Motion ]](https://dev.to/codebucks/build-a-stunning-fashion-studio-website-with-react-js-locomotive-scroll-gsap-framer-motion--pgp)
 - [Dev.to/JS] [Google Meet Clone - HTML/Css/Js and other languages](https://dev.to/kavyargb/google-meet-clone-htmlcssjs-and-other-languages-1a8j)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [𝐃𝐞𝐟𝐢𝐧𝐞 𝐩𝐨𝐩,𝐩𝐮𝐬𝐡,𝐬𝐡𝐢𝐟𝐭,𝐮𝐧𝐬𝐡𝐢𝐟𝐭 𝐌𝐞𝐭𝐡𝐨𝐝𝐬 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://dev.to/hrid620/-46o2)
 - [Dev.to/JS] [𝐁𝐢𝐧𝐝, 𝐂𝐚𝐥𝐥, 𝐚𝐧𝐝 𝐀𝐩𝐩𝐥𝐲 𝐌𝐞𝐭𝐡𝐨𝐝𝐬 𝐢𝐧 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://dev.to/hrid620/--5531)
 - [Dev.to/JS] [Reduce Duplicated Styled Components? Check Here](https://dev.to/zhcalvin/reduce-duplicated-styled-components-check-here-240p)
-- [Dev.to/JS] [Will openjs foundation send rejection mails for applicants](https://dev.to/610470416/will-openjs-foundation-send-rejection-mails-for-applicants-4f4)
-- [Dev.to/JS] [This is the way!](https://dev.to/peterhfss/this-is-the-way-3ped)
-- [Dev.to/JS] [Test Post](https://dev.to/ninjacoderz/test-post-5c01)
-- [Dev.to/JS] [Animals and Onions: A Basic JavaScript Generator](https://dev.to/365erik/animals-and-onions-a-basic-javascript-generator-5hi5)
-- [Dev.to/JS] [Simple and minimalistic product image slider](https://dev.to/hakimraissi/simple-and-minimalistic-product-image-slider-1a9l)
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
