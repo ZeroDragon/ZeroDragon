@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pass focus from an iframe to next focusable element in host page](https://dev.to/khokon/pass-focus-from-an-iframe-to-next-focusable-element-in-host-page-2i4l)
+- [Lifehacker] [You Should Stop Using Coupons](https://lifehacker.com/you-should-stop-using-coupons-1848692478)
+- [Dev.to/JS] [Random Ideas for Front-end Projects In HTML, CSS and JS by shriekdj](https://dev.to/shriekdj/random-ideas-for-front-end-projects-in-html-css-and-js-by-shriekdj-40gg)
+- [Dev.to/JS] [Open Source Adventures: Episode 22: Imba 2 and GitHub Pages](https://dev.to/taw/open-source-adventures-episode-22-imba-2-and-github-pages-3lim)
+- [Lifehacker] [11 Games You Should Play After Beating ‘Elden Ring’](https://lifehacker.com/11-games-you-should-play-after-beating-elden-ring-1848695324)
 - [Dev.to/JS] [Paracetamol.js💊| #85: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-85-explica-este-codigo-javascript-509l)
 - [Lifehacker] [How to Bake With More Booze, &#39;Cause Life Is Short](https://lifehacker.com/how-to-bake-with-more-booze-cause-life-is-short-1848694341)
 - [Dev.to/JS] [Getting Started with Mocha | JavaScript Test Automation Tutorial | Part IV](https://dev.to/lambdatest/getting-started-with-mocha-javascript-test-automation-tutorial-part-iv-5440)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scopes in Javascript with DevTools](https://dev.to/shaur/scopes-in-javascript-with-devtools-16gp)
 - [Lifehacker] [How to Get Kids to Stop Eating Their Boogers](https://lifehacker.com/how-to-get-kids-to-stop-eating-their-boogers-1848691567)
 - [Dev.to/JS] [Custom Card Slider Using HTML, CSS, Javascript, and Owl Carousel Plugin](https://dev.to/incoderweb/custom-card-slider-using-html-css-javascript-and-owl-carousel-plugin-3i32)
-- [Dev.to/JS] [I am not a designer but I try 😅, because the only way you can improve is to practice.](https://dev.to/dyacinedev/i-am-not-a-designer-but-i-try-because-the-only-way-you-can-improve-is-to-practice-1eko)
-- [Dev.to/JS] [A React toolkit - mini applications serie.](https://dev.to/leopold/build-react-tools-my-new-challenge-1g7l)
-- [Dev.to/JS] [How to Build a CRUD App in Angular](https://dev.to/syncfusion/how-to-build-a-crud-app-in-angular-18h)
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Intrusive Thoughts Actually Are &lpar;and How to Overcome Them&rpar;](https://lifehacker.com/what-intrusive-thoughts-actually-are-and-how-to-overco-1848688089)
 - [Lifehacker] [All the Health Insurance Words You Need to Know But Were Too Embarrassed to Ask About](https://lifehacker.com/all-the-health-insurance-words-you-need-to-know-but-wer-1848688048)
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
-- [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
-- [Lifehacker] [Your New&lpar;er&rpar; Car Might Be Burning Oil Faster Than It Should](https://lifehacker.com/your-new-er-car-might-be-burning-oil-faster-than-it-sh-1848685618)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
