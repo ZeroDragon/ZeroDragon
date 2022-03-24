@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animals and Onions: A Basic JavaScript Generator](https://dev.to/365erik/animals-and-onions-a-basic-javascript-generator-5hi5)
+- [Dev.to/JS] [Simple and minimalistic product image slider](https://dev.to/hakimraissi/simple-and-minimalistic-product-image-slider-1a9l)
 - [Dev.to/JS] [NestJS: Creating a pipe to optimize uploaded images.](https://dev.to/andersonjoseph/nestjs-creating-a-pipe-to-optimize-uploaded-images-5b3h)
 - [Dev.to/JS] [10 Dicas de Segurança para Projetos Front End](https://dev.to/felipperegazio/10-dicas-de-seguranca-para-projetos-front-end-2385)
 - [Dev.to/JS] [gdpr-guard against GDPR-compliance&#39;s hassle](https://dev.to/voltra/gdpr-guard-against-gdpr-compliances-hassle-5509)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Dev.to/JS] [redux toolkit](https://dev.to/mnabawy/redux-toolkit-378f)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
-- [Dev.to/JS] [Como criar um README dinâmico usando Javascript](https://dev.to/nickgabe/como-criar-um-readme-dinamico-usando-javascript-4mhg)
-- [Dev.to/JS] [How to get all previous items of an array in js from a certain value](https://dev.to/ianfelix/how-to-get-all-previous-items-of-an-array-in-js-from-a-certain-value-3ig3)
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
 - [Lifehacker] [Is Bamboo Toilet Paper All It’s Cracked Up to Be?](https://lifehacker.com/is-bamboo-toilet-paper-all-it-s-cracked-up-to-be-1848692484)
 - [Lifehacker] [You Can Now Play Ocarina of Time Like a &#39;Modern&#39; PC Game](https://lifehacker.com/you-can-now-play-ocarina-of-time-like-a-modern-pc-game-1848691454)
