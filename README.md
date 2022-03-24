@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Test Post](https://dev.to/ninjacoderz/test-post-5c01)
 - [Dev.to/JS] [Animals and Onions: A Basic JavaScript Generator](https://dev.to/365erik/animals-and-onions-a-basic-javascript-generator-5hi5)
 - [Dev.to/JS] [Simple and minimalistic product image slider](https://dev.to/hakimraissi/simple-and-minimalistic-product-image-slider-1a9l)
 - [Dev.to/JS] [NestJS: Creating a pipe to optimize uploaded images.](https://dev.to/andersonjoseph/nestjs-creating-a-pipe-to-optimize-uploaded-images-5b3h)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue 2.x + Vite + Tailwind CSS](https://dev.to/mayank30/vue-2x-vite-tailwind-css-32ag)
 - [Dev.to/JS] [Web Storage APIs - LocalStorage and SessionStorage](https://dev.to/alexmercedcoder/web-storage-apis-localstorage-and-sessionstorage-3b29)
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
-- [Dev.to/JS] [redux toolkit](https://dev.to/mnabawy/redux-toolkit-378f)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
 - [Lifehacker] [Is Bamboo Toilet Paper All It’s Cracked Up to Be?](https://lifehacker.com/is-bamboo-toilet-paper-all-it-s-cracked-up-to-be-1848692484)
