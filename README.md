@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #85: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-85-explica-este-codigo-javascript-509l)
+- [Lifehacker] [How to Bake With More Booze, &#39;Cause Life Is Short](https://lifehacker.com/how-to-bake-with-more-booze-cause-life-is-short-1848694341)
+- [Dev.to/JS] [Getting Started with Mocha | JavaScript Test Automation Tutorial | Part IV](https://dev.to/lambdatest/getting-started-with-mocha-javascript-test-automation-tutorial-part-iv-5440)
+- [Dev.to/JS] [Top 5 text editors for mobile in India 2021](https://dev.to/alltimedevlopment/top-5-text-editors-for-mobile-in-india-2021-56l9)
 - [Lifehacker] [9 Enduring Myths About American History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/9-enduring-myths-about-american-history-and-what-we-ca-1848695181)
 - [Dev.to/JS] [Custom 404 page on Next.js under a 1 minute](https://dev.to/theabhayprajapati/custom-404-page-on-nextjs-under-a-1-minute-310e)
 - [Dev.to/JS] [Open Source Adventures: Episode 21: Imba 2 Matrix Rain](https://dev.to/taw/open-source-adventures-episode-21-imba-2-matrix-rain-26c)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I am not a designer but I try 😅, because the only way you can improve is to practice.](https://dev.to/dyacinedev/i-am-not-a-designer-but-i-try-because-the-only-way-you-can-improve-is-to-practice-1eko)
 - [Dev.to/JS] [A React toolkit - mini applications serie.](https://dev.to/leopold/build-react-tools-my-new-challenge-1g7l)
 - [Dev.to/JS] [How to Build a CRUD App in Angular](https://dev.to/syncfusion/how-to-build-a-crud-app-in-angular-18h)
-- [Dev.to/JS] [Control Value Accessor](https://dev.to/pawankkumawat/control-value-accessor-56oi)
-- [Dev.to/JS] [Created a svelte tooltip library](https://dev.to/k_penguin_sato/created-a-svelte-tooltip-library-8cf)
-- [Dev.to/JS] [Building a business from scratch - day 10](https://dev.to/twankrui/building-a-business-from-scratch-day-10-och)
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Ways to Suck Less at Elden Ring](https://lifehacker.com/5-ways-to-suck-less-at-elden-ring-1848687138)
 - [Lifehacker] [What to Do If You Accidentally Fill Your Gas Tank Up With Diesel](https://lifehacker.com/what-to-do-if-you-accidentally-fill-your-gas-tank-up-wi-1848686631)
 - [Lifehacker] [Your New&lpar;er&rpar; Car Might Be Burning Oil Faster Than It Should](https://lifehacker.com/your-new-er-car-might-be-burning-oil-faster-than-it-sh-1848685618)
-- [Lifehacker] [You Should Change These TikTok Privacy Settings](https://lifehacker.com/you-should-change-these-tiktok-privacy-settings-1848685959)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
 - [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
