@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Model - Uma breve introdução](https://dev.to/gabrielhsilvestre/model-uma-breve-introducao-4gch)
+- [Dev.to/JS] [Cursor-chat integration with presencejs](https://dev.to/sayanta66/cursor-chat-integration-with-presencejs-3ejc)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Dev.to/JS] [Introduction to Creative Coding with Javascript](https://dev.to/phamn23/introduction-to-creative-coding-with-javascript-e1i)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open-source NFT marketplace code](https://dev.to/pankajrathore9599/opensorce-nft-marketplace-code-1i6n)
 - [Dev.to/JS] [Authentication in MERN stack.](https://dev.to/itskunal/authentication-in-mern-stack-597j)
 - [Lifehacker] [How to Treat Your Kid’s Cuts and Bruises Quickly, According to a Boxing Cutman](https://lifehacker.com/how-to-treat-your-kid-s-cuts-and-bruises-quickly-accor-1848697632)
-- [Dev.to/JS] [How to instrument your Battlesnake with New Relic One](https://dev.to/newrelic/how-to-instrument-your-battlesnake-with-new-relic-one-3133)
-- [Dev.to/JS] [Myfe - 23/03/22](https://dev.to/vulcanwm/myfe-230322-1083)
 - [Lifehacker] [How to Install a ‘Shade Sail’ in Your Backyard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-install-a-shade-sail-in-your-backyard-and-why-1848689998)
 - [Lifehacker] [12 Easy Garden Plants That Are Actually Worth Growing](https://lifehacker.com/12-easy-garden-plants-that-are-actually-worth-growing-1848697407)
 - [Lifehacker] [You Should Stop Using Coupons](https://lifehacker.com/you-should-stop-using-coupons-1848692478)
