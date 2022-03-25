@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&lpar; ⭐ HTML Tip ⭐ &rpar; - Hidden Property](https://dev.to/shamgurav96/-html-tip-hidden-property-42b8)
+- [Dev.to/JS] [Trimtone Reviews – Scam or What? For Fat Burn!!](https://dev.to/trimtonegetnow/trimtone-reviews-scam-or-what-for-fat-burn-1393)
+- [Dev.to/JS] [Personal website performance optimization](https://dev.to/rxliuli/personal-website-performance-optimization-1p8k)
+- [Dev.to/JS] [Easy Way to Make a Contributions Graph in Your Application](https://dev.to/shunsuke/easy-way-to-make-a-contributions-graph-in-your-application-5eed)
+- [Dev.to/JS] [Why You don&#39;t need serverless and microservice ?](https://dev.to/610470416/why-you-dont-need-serverless-and-microservice--534d)
 - [Dev.to/JS] [Advanced Appetite - Advanced Appetite Fat Loss Is It Really Work?](https://dev.to/advancedappeti3/advanced-appetite-advanced-appetite-fat-loss-is-it-really-work-c0c)
 - [Dev.to/JS] [Best Reasons: Why choose react js for your next project?](https://dev.to/joemack/best-reasons-why-choose-react-js-for-your-next-project-3c0d)
 - [Dev.to/JS] [GIF Image To Media Stream](https://dev.to/ethand91/gif-image-to-media-stream-1doe)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cyber Security: An Introduction to Computer Network Defense](https://dev.to/vikooz/cyber-security-an-introduction-to-computer-network-defense-2laf)
 - [Dev.to/JS] [How to Get File Size on Uploaded file in Laravel 8](https://dev.to/codeanddeploy/how-to-get-file-size-on-uploaded-file-in-laravel-8-40pf)
 - [Dev.to/JS] [How to Get Client Mime Type on Uploaded file in Laravel 8](https://dev.to/codeanddeploy/how-to-get-client-mime-type-on-uploaded-file-in-laravel-8-3jpe)
-- [Dev.to/JS] [How to Delete Files from Public Folder in Laravel 8?](https://dev.to/codeanddeploy/how-to-delete-files-from-public-folder-in-laravel-8-3cdn)
-- [Dev.to/JS] [How To Download File in Laravel 8](https://dev.to/codeanddeploy/how-to-download-file-in-laravel-8-51ac)
-- [Dev.to/JS] [How To Print &amp; Write Array Values to Files in Laravel 8](https://dev.to/codeanddeploy/how-to-print-write-array-values-to-files-in-laravel-8-1jm5)
-- [Dev.to/JS] [Baypark CBD Gummies Reduce Chronic, Joint Pains And Anxiety](https://dev.to/bayparkcbd_/baypark-cbd-gummies-reduce-chronic-joint-pains-and-anxiety-5fp)
-- [Dev.to/JS] [Laravel 8 File Upload Example](https://dev.to/codeanddeploy/laravel-8-file-upload-example-chk)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
