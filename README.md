@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [32 of the Best, Most Memorable Movies Awards Acceptance Speeches Ever](https://lifehacker.com/32-of-the-best-most-memorable-movies-awards-acceptance-1848686670)
+- [Dev.to/JS] [Feature Flags in Next.JS](https://dev.to/willholmes/feature-flags-in-nextjs-1432)
+- [Dev.to/JS] [Creating a dark theme switch with Tailwind &amp; Framer Motion](https://dev.to/mrpbennett/creating-a-dark-theme-switch-with-tailwind-framer-motion-4f4h)
+- [Dev.to/JS] [Next.js and MongoDB full-fledged app Part 4: Posts and Comments](https://dev.to/hoangvvo/nextjs-and-mongodb-full-fledged-app-part-4-posts-and-comments-n82)
+- [Dev.to/JS] [Rending arrays in React properly.](https://dev.to/mrpbennett/rending-arrays-in-react-properly-2j94)
+- [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
+- [Dev.to/JS] [Stop using multiple states for status](https://dev.to/mrpbennett/stop-using-multiple-states-for-status-phf)
+- [Dev.to/JS] [Curried functions - Going functional one step at a time](https://dev.to/tracygjg/curried-functions-going-functional-one-step-at-a-time-4746)
+- [Dev.to/JS] [Real Time Shopify Partner Revenue Tracker](https://dev.to/pipedream_staff/real-time-shopify-partner-revenue-tracker-3jao)
+- [Dev.to/JS] [Loading external configurations inline and in SSR in Angular](https://dev.to/ayyash/loading-external-configurations-inline-and-in-ssr-in-angular-31jo)
+- [Dev.to/JS] [When to use useMemo and useCallback in React?](https://dev.to/nicozerpa/when-to-use-usememo-and-usecallback-in-react-1d17)
 - [Dev.to/JS] [Why Data Cleaning?](https://dev.to/codewithsom/why-data-cleaning-2eof)
-- [Dev.to/JS] [Baypark CBD Gummies: Pros &amp; Cons, Reviews, |Is It Worth Buying|?](https://dev.to/bayparkcbd_/baypark-cbd-gummies-pros-cons-reviews-is-it-worth-buying-1bj6)
 - [Dev.to/JS] [We are going back to 1995! The perfect harmony of Modern stack and Win95](https://dev.to/pankod/we-are-going-back-to-1995-the-perfect-harmony-of-modern-stack-and-win95-35oc)
 - [Dev.to/JS] [Amazing tools for better understanding Scope and Block in javaScript!](https://dev.to/hoomantalakian/amazing-tools-for-better-understanding-scope-and-block-in-javascript-n4)
-- [Dev.to/JS] [Your favourite Javascript coding tools?](https://dev.to/onestopcoder1/your-favourite-javascript-coding-tools-5424)
-- [Dev.to/JS] [Original Delta 10 Gummies and Delta 9 THC Gummies Flavors with Pleasant Taste](https://dev.to/edwinpoul1/original-delta-10-gummies-and-delta-9-thc-gummies-flavors-with-pleasant-taste-2ldm)
-- [Dev.to/JS] [Building a business from scratch - day 11](https://dev.to/twankrui/building-a-business-from-scratch-day-11-1o1k)
-- [Dev.to/JS] [Raw query in sequilize model](https://dev.to/mgcunado/raw-query-in-sequilize-model-1n4)
-- [Dev.to/JS] [DevTips Daily Update - 25/03/22](https://dev.to/codebubb/devtips-daily-update-250322-2pg7)
-- [Dev.to/JS] [New Survey](https://dev.to/metacollective/new-survey-4l1)
-- [Dev.to/JS] [Let&#39;s create a Markdown editor just like dev.to](https://dev.to/imdigitalashish/lets-create-a-markdown-editor-just-like-devto-1ld8)
-- [Dev.to/JS] [&lpar; ⭐ HTML Tip ⭐ &rpar; - Hidden Property](https://dev.to/shamgurav96/-html-tip-hidden-property-42b8)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
@@ -59,10 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in April 2022](https://lifehacker.com/whats-new-on-netflix-in-april-2022-1848691808)
 - [Lifehacker] [How to Find and Mass Delete Your Vulgar Twitter History](https://lifehacker.com/how-to-find-and-mass-delete-your-vulgar-twitter-history-1848691894)
 - [Lifehacker] [The Fastest Way to Get a Coffee Stain Out of Your Shirt Before You Embarrass Yourself](https://lifehacker.com/the-fastest-way-to-get-a-coffee-stain-out-of-your-shirt-1848691446)
-- [Lifehacker] [You Need to Make These Magical Air-Fried Tofu Puffs](https://lifehacker.com/you-need-to-make-these-magical-air-fried-tofu-puffs-1848691421)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
-- [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
-- [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)<!-- TECH-POSTS:END -->
 
 ---
 
