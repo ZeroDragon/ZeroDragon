@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Your favourite Javascript coding tools?](https://dev.to/onestopcoder1/your-favourite-javascript-coding-tools-5424)
+- [Dev.to/JS] [Original Delta 10 Gummies and Delta 9 THC Gummies Flavors with Pleasant Taste](https://dev.to/edwinpoul1/original-delta-10-gummies-and-delta-9-thc-gummies-flavors-with-pleasant-taste-2ldm)
+- [Dev.to/JS] [Building a business from scratch - day 11](https://dev.to/twankrui/building-a-business-from-scratch-day-11-1o1k)
+- [Dev.to/JS] [Raw query in sequilize model](https://dev.to/mgcunado/raw-query-in-sequilize-model-1n4)
 - [Dev.to/JS] [DevTips Daily Update - 25/03/22](https://dev.to/codebubb/devtips-daily-update-250322-2pg7)
 - [Dev.to/JS] [New Survey](https://dev.to/metacollective/new-survey-4l1)
 - [Dev.to/JS] [Let&#39;s create a Markdown editor just like dev.to](https://dev.to/imdigitalashish/lets-create-a-markdown-editor-just-like-devto-1ld8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Personal website performance optimization](https://dev.to/rxliuli/personal-website-performance-optimization-1p8k)
 - [Dev.to/JS] [Easy Way to Make a Contributions Graph in Your Application](https://dev.to/shunsuke/easy-way-to-make-a-contributions-graph-in-your-application-5eed)
 - [Dev.to/JS] [Why You don&#39;t need serverless and microservice ?](https://dev.to/610470416/why-you-dont-need-serverless-and-microservice--534d)
-- [Dev.to/JS] [Advanced Appetite - Advanced Appetite Fat Loss Is It Really Work?](https://dev.to/advancedappeti3/advanced-appetite-advanced-appetite-fat-loss-is-it-really-work-c0c)
-- [Dev.to/JS] [Best Reasons: Why choose react js for your next project?](https://dev.to/joemack/best-reasons-why-choose-react-js-for-your-next-project-3c0d)
-- [Dev.to/JS] [GIF Image To Media Stream](https://dev.to/ethand91/gif-image-to-media-stream-1doe)
-- [Dev.to/JS] [Shortcut/Shorten To Get Authenticated User ID in Laravel 8](https://dev.to/codeanddeploy/shortcutshorten-to-get-authenticated-user-id-in-laravel-8-57kl)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
