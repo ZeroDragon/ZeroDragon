@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s create a Markdown editor just like dev.to](https://dev.to/imdigitalashish/lets-create-a-markdown-editor-just-like-devto-1ld8)
 - [Dev.to/JS] [&lpar; ⭐ HTML Tip ⭐ &rpar; - Hidden Property](https://dev.to/shamgurav96/-html-tip-hidden-property-42b8)
 - [Dev.to/JS] [Trimtone Reviews – Scam or What? For Fat Burn!!](https://dev.to/trimtonegetnow/trimtone-reviews-scam-or-what-for-fat-burn-1393)
 - [Dev.to/JS] [Personal website performance optimization](https://dev.to/rxliuli/personal-website-performance-optimization-1p8k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shortcut/Shorten To Get Authenticated User ID in Laravel 8](https://dev.to/codeanddeploy/shortcutshorten-to-get-authenticated-user-id-in-laravel-8-57kl)
 - [Dev.to/JS] [Cyber Security: An Introduction to Computer Network Defense](https://dev.to/vikooz/cyber-security-an-introduction-to-computer-network-defense-2laf)
 - [Dev.to/JS] [How to Get File Size on Uploaded file in Laravel 8](https://dev.to/codeanddeploy/how-to-get-file-size-on-uploaded-file-in-laravel-8-40pf)
-- [Dev.to/JS] [How to Get Client Mime Type on Uploaded file in Laravel 8](https://dev.to/codeanddeploy/how-to-get-client-mime-type-on-uploaded-file-in-laravel-8-3jpe)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
