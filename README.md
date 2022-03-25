@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Extract Data from Google Sheets](https://dev.to/ngblaylock/extract-data-from-google-sheets-13jn)
 - [Dev.to/JS] [var, let and const : ✨demystified✨](https://dev.to/klaus/var-let-and-const-demystified-35fl)
+- [Dev.to/JS] [Host Express.js App For Free 👍](https://dev.to/dedomil/how-to-host-expressjs-apps-for-free--44oo)
 - [Dev.to/JS] [How To Create List And Grid View Using JavaScript](https://dev.to/techsolutionstuff/how-to-create-list-and-grid-view-using-javascript-3h2c)
 - [Dev.to/JS] [Laravel 8 Logout For Your Authenticated User](https://dev.to/codeanddeploy/laravel-8-logout-for-your-authenticated-user-2nn3)
 - [Dev.to/JS] [Introduction to Tonic - the component framework](https://dev.to/asayerio_techblog/introduction-to-tonic-the-component-framework-gfd)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Components 101: Vanilla JavaScript](https://dev.to/this-is-learning/web-components-101-vanilla-javascript-2pja)
 - [Dev.to/JS] [How to have different returns from the same mock with React Native + Jest](https://dev.to/juniorklawa/how-to-have-different-returns-from-the-same-mock-with-react-native-jest-3nf2)
 - [Dev.to/JS] [Model - Uma breve introdução](https://dev.to/gabrielhsilvestre/model-uma-breve-introducao-4gch)
-- [Dev.to/JS] [Cursor-chat integration with presencejs](https://dev.to/sayanta66/cursor-chat-integration-with-presencejs-3ejc)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
-- [Dev.to/JS] [Introduction to Creative Coding with Javascript](https://dev.to/phamn23/introduction-to-creative-coding-with-javascript-e1i)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
 - [Lifehacker] [How to Watch the 2022 Oscars](https://lifehacker.com/how-to-watch-the-2022-oscars-1848698955)
