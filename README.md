@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple HTML, TAILWINDCSS &amp; Javascript Form Validation](https://dev.to/elvissautet/simple-html-tailwindcss-javascript-form-validation-485e)
 - [Dev.to/JS] [Web Components 101: Vanilla JavaScript](https://dev.to/this-is-learning/web-components-101-vanilla-javascript-2pja)
 - [Dev.to/JS] [Model - Uma breve introdução](https://dev.to/gabrielhsilvestre/model-uma-breve-introducao-4gch)
 - [Dev.to/JS] [Cursor-chat integration with presencejs](https://dev.to/sayanta66/cursor-chat-integration-with-presencejs-3ejc)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [17 of the Trickiest Ways Restaurants Get You to Spend More &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/17-of-the-trickiest-ways-restaurants-get-you-to-spend-m-1848697711)
 - [Dev.to/JS] [Relearning the Past: Vanilla JavaScript Single Page Application](https://dev.to/melguachun/relearning-the-past-vanilla-javascript-single-page-application-437i)
 - [Dev.to/JS] [React-Redux at it&#39;s Simplest!](https://dev.to/clouded_knight/react-redux-at-its-simplest-2kep)
-- [Dev.to/JS] [Open-source NFT marketplace code](https://dev.to/pankajrathore9599/opensorce-nft-marketplace-code-1i6n)
 - [Lifehacker] [How to Treat Your Kid’s Cuts and Bruises Quickly, According to a Boxing Cutman](https://lifehacker.com/how-to-treat-your-kid-s-cuts-and-bruises-quickly-accor-1848697632)
 - [Lifehacker] [How to Install a ‘Shade Sail’ in Your Backyard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-install-a-shade-sail-in-your-backyard-and-why-1848689998)
 - [Lifehacker] [12 Easy Garden Plants That Are Actually Worth Growing](https://lifehacker.com/12-easy-garden-plants-that-are-actually-worth-growing-1848697407)
