@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel 8 Logout For Your Authenticated User](https://dev.to/codeanddeploy/laravel-8-logout-for-your-authenticated-user-2nn3)
 - [Dev.to/JS] [Introduction to Tonic - the component framework](https://dev.to/asayerio_techblog/introduction-to-tonic-the-component-framework-gfd)
 - [Dev.to/JS] [Node.js Barcode and QR Code Reader for Desktop and Web](https://dev.to/yushulx/nodejs-barcode-and-qr-code-reader-for-desktop-and-web-2en5)
 - [Dev.to/JS] [What are anonymous functions?](https://dev.to/nevulo/what-are-anonymous-functions-457d)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
 - [Dev.to/JS] [The 6 Best JavaScript Frameworks to Use in 2022](https://dev.to/dsalinasgardon/the-6-best-javascript-frameworks-to-use-in-2022-4k5k)
 - [Dev.to/JS] [4 Most Useful features of the Window Object](https://dev.to/thedevguy/5-most-useful-features-of-the-window-object-2728)
-- [Dev.to/JS] [Using APIs](https://dev.to/marvinobig/using-apis-51a3)
 - [Lifehacker] [How to Watch the 2022 Oscars](https://lifehacker.com/how-to-watch-the-2022-oscars-1848698955)
 - [Lifehacker] [17 of the Trickiest Ways Restaurants Get You to Spend More &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/17-of-the-trickiest-ways-restaurants-get-you-to-spend-m-1848697711)
 - [Lifehacker] [How to Treat Your Kid’s Cuts and Bruises Quickly, According to a Boxing Cutman](https://lifehacker.com/how-to-treat-your-kid-s-cuts-and-bruises-quickly-accor-1848697632)
