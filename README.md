@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced Appetite - Advanced Appetite Fat Loss Is It Really Work?](https://dev.to/advancedappeti3/advanced-appetite-advanced-appetite-fat-loss-is-it-really-work-c0c)
+- [Dev.to/JS] [Best Reasons: Why choose react js for your next project?](https://dev.to/joemack/best-reasons-why-choose-react-js-for-your-next-project-3c0d)
+- [Dev.to/JS] [GIF Image To Media Stream](https://dev.to/ethand91/gif-image-to-media-stream-1doe)
+- [Dev.to/JS] [Shortcut/Shorten To Get Authenticated User ID in Laravel 8](https://dev.to/codeanddeploy/shortcutshorten-to-get-authenticated-user-id-in-laravel-8-57kl)
 - [Dev.to/JS] [Cyber Security: An Introduction to Computer Network Defense](https://dev.to/vikooz/cyber-security-an-introduction-to-computer-network-defense-2laf)
 - [Dev.to/JS] [How to Get File Size on Uploaded file in Laravel 8](https://dev.to/codeanddeploy/how-to-get-file-size-on-uploaded-file-in-laravel-8-40pf)
 - [Dev.to/JS] [How to Get Client Mime Type on Uploaded file in Laravel 8](https://dev.to/codeanddeploy/how-to-get-client-mime-type-on-uploaded-file-in-laravel-8-3jpe)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Print &amp; Write Array Values to Files in Laravel 8](https://dev.to/codeanddeploy/how-to-print-write-array-values-to-files-in-laravel-8-1jm5)
 - [Dev.to/JS] [Baypark CBD Gummies Reduce Chronic, Joint Pains And Anxiety](https://dev.to/bayparkcbd_/baypark-cbd-gummies-reduce-chronic-joint-pains-and-anxiety-5fp)
 - [Dev.to/JS] [Laravel 8 File Upload Example](https://dev.to/codeanddeploy/laravel-8-file-upload-example-chk)
-- [Dev.to/JS] [Extract Data from Google Sheets](https://dev.to/ngblaylock/extract-data-from-google-sheets-13jn)
-- [Dev.to/JS] [var, let and const : ✨demystified✨](https://dev.to/klaus/var-let-and-const-demystified-35fl)
-- [Dev.to/JS] [Host Express.js App For Free 👍](https://dev.to/dedomil/how-to-host-expressjs-apps-for-free--44oo)
-- [Dev.to/JS] [How To Create List And Grid View Using JavaScript](https://dev.to/techsolutionstuff/how-to-create-list-and-grid-view-using-javascript-3h2c)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
