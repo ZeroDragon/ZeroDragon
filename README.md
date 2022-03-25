@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with Storing Vue Data in Vuex](https://dev.to/smpnjn/getting-started-with-storing-vue-data-in-vuex-3hm9)
+- [Lifehacker] [Create a &#39;Career Search Action Plan&#39; Before You Look for a New Job](https://lifehacker.com/create-a-career-search-action-plan-before-you-look-for-1848700028)
+- [Dev.to/JS] [Storing multiple values in one State](https://dev.to/govindbisen/storing-multiple-values-in-one-state-177d)
 - [Lifehacker] [32 of the Best, Most Memorable Movies Awards Acceptance Speeches Ever](https://lifehacker.com/32-of-the-best-most-memorable-movies-awards-acceptance-1848686670)
 - [Dev.to/JS] [Feature Flags in Next.JS](https://dev.to/willholmes/feature-flags-in-nextjs-1432)
 - [Dev.to/JS] [Creating a dark theme switch with Tailwind &amp; Framer Motion](https://dev.to/mrpbennett/creating-a-dark-theme-switch-with-tailwind-framer-motion-4f4h)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Loading external configurations inline and in SSR in Angular](https://dev.to/ayyash/loading-external-configurations-inline-and-in-ssr-in-angular-31jo)
 - [Dev.to/JS] [When to use useMemo and useCallback in React?](https://dev.to/nicozerpa/when-to-use-usememo-and-usecallback-in-react-1d17)
 - [Dev.to/JS] [Why Data Cleaning?](https://dev.to/codewithsom/why-data-cleaning-2eof)
-- [Dev.to/JS] [We are going back to 1995! The perfect harmony of Modern stack and Win95](https://dev.to/pankod/we-are-going-back-to-1995-the-perfect-harmony-of-modern-stack-and-win95-35oc)
-- [Dev.to/JS] [Amazing tools for better understanding Scope and Block in javaScript!](https://dev.to/hoomantalakian/amazing-tools-for-better-understanding-scope-and-block-in-javascript-n4)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s Cheaper to Buy a House Than Rent in These Cities](https://lifehacker.com/its-cheaper-to-buy-a-house-than-rent-in-these-cities-1848691906)
 - [Lifehacker] [What&#39;s New on Netflix in April 2022](https://lifehacker.com/whats-new-on-netflix-in-april-2022-1848691808)
 - [Lifehacker] [How to Find and Mass Delete Your Vulgar Twitter History](https://lifehacker.com/how-to-find-and-mass-delete-your-vulgar-twitter-history-1848691894)
-- [Lifehacker] [The Fastest Way to Get a Coffee Stain Out of Your Shirt Before You Embarrass Yourself](https://lifehacker.com/the-fastest-way-to-get-a-coffee-stain-out-of-your-shirt-1848691446)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)<!-- TECH-POSTS:END -->
 
