@@ -23,10 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Tonic - the component framework](https://dev.to/asayerio_techblog/introduction-to-tonic-the-component-framework-gfd)
 - [Dev.to/JS] [Node.js Barcode and QR Code Reader for Desktop and Web](https://dev.to/yushulx/nodejs-barcode-and-qr-code-reader-for-desktop-and-web-2en5)
 - [Dev.to/JS] [What are anonymous functions?](https://dev.to/nevulo/what-are-anonymous-functions-457d)
 - [Dev.to/JS] [Simple HTML, TAILWINDCSS &amp; Javascript Form Validation](https://dev.to/elvissautet/simple-html-tailwindcss-javascript-form-validation-485e)
 - [Dev.to/JS] [Web Components 101: Vanilla JavaScript](https://dev.to/this-is-learning/web-components-101-vanilla-javascript-2pja)
+- [Dev.to/JS] [How to have different returns from the same mock with React Native + Jest](https://dev.to/juniorklawa/how-to-have-different-returns-from-the-same-mock-with-react-native-jest-3nf2)
 - [Dev.to/JS] [Model - Uma breve introdução](https://dev.to/gabrielhsilvestre/model-uma-breve-introducao-4gch)
 - [Dev.to/JS] [Cursor-chat integration with presencejs](https://dev.to/sayanta66/cursor-chat-integration-with-presencejs-3ejc)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [4 Most Useful features of the Window Object](https://dev.to/thedevguy/5-most-useful-features-of-the-window-object-2728)
 - [Dev.to/JS] [Using APIs](https://dev.to/marvinobig/using-apis-51a3)
 - [Lifehacker] [How to Watch the 2022 Oscars](https://lifehacker.com/how-to-watch-the-2022-oscars-1848698955)
-- [Dev.to/JS] [Use your i-moon-gination: Let&#39;s build a Moon phase visualizer with CSS and JS! 🗓️🌙](https://dev.to/thormeier/use-your-i-moon-gination-lets-build-a-moon-phase-visualizer-with-css-and-js-aih)
-- [Dev.to/JS] [Cookie Banners](https://dev.to/vadimfilimonov/cookie-banners-4nb4)
 - [Lifehacker] [17 of the Trickiest Ways Restaurants Get You to Spend More &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/17-of-the-trickiest-ways-restaurants-get-you-to-spend-m-1848697711)
 - [Lifehacker] [How to Treat Your Kid’s Cuts and Bruises Quickly, According to a Boxing Cutman](https://lifehacker.com/how-to-treat-your-kid-s-cuts-and-bruises-quickly-accor-1848697632)
 - [Lifehacker] [How to Install a ‘Shade Sail’ in Your Backyard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-install-a-shade-sail-in-your-backyard-and-why-1848689998)
