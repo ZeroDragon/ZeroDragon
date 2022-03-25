@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Django + Next.js The Easy Way](https://dev.to/danialkeimasi/django-nextjs-the-easy-way-5a0h)
+- [Dev.to/JS] [Take Your Github Repository To The Next Level 🚀️](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-2194)
+- [Dev.to/JS] [What is the best way to understand a Framework?](https://dev.to/dirkecker/what-is-the-best-way-to-understand-a-framework-211h)
+- [Lifehacker] [Avoid These Dating App Clichés So You Actually Get a Match](https://lifehacker.com/avoid-these-dating-app-cliches-if-you-actually-want-to-1848704630)
+- [Lifehacker] [The Beach Festivals and Events Worth Traveling for This Summer](https://lifehacker.com/the-beach-festivals-and-events-worth-traveling-for-this-1848704522)
 - [Dev.to/JS] [Open Source Adventures: Episode 24: Imba 2 and Cypress](https://dev.to/taw/open-source-adventures-episode-24-imba-2-and-cypress-p44)
+- [Dev.to/JS] [When OOP Developers created Applications with TypeScript](https://dev.to/dirkecker/when-oo-developers-created-applications-with-typescript-14p1)
 - [Dev.to/JS] [I write a console tool for edit multiple language files at the same time](https://dev.to/lnquy065/i-write-a-console-tool-for-edit-multiple-language-files-at-the-same-time-4eb0)
 - [Dev.to/JS] [How to protect admin dashboard using Html,Css and Js](https://dev.to/princeniyonshuti/how-to-protect-admin-dashboard-using-htmlcss-and-js-24o5)
 - [Lifehacker] [19 of the Easiest Flowers to Grow From Seeds &lpar;for People Who Always Kill Plants&rpar;](https://lifehacker.com/19-of-the-easiest-flowers-to-grow-from-seeds-for-peopl-1848703832)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Budgety Journey](https://dev.to/bycho91/budgety-journey-118)
 - [Lifehacker] [This Wordle Clone Might Just Be the Most Challenging Yet](https://lifehacker.com/this-wordle-clone-might-just-be-the-most-challenging-ye-1848703543)
 - [Lifehacker] [15 Oscar-Winning Animated Shorts Under 15 Minutes Long &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/15-oscar-winning-animated-shorts-under-15-minutes-long-1848699544)
-- [Dev.to/JS] [Top 5 React UI frameworks](https://dev.to/thatanjan/top-react-ui-frameworks-12o0)
-- [Dev.to/JS] [How to Make a Simple Unit Converter in Vue](https://dev.to/code_jedi/how-to-make-a-simple-unit-converter-in-vue-543k)
-- [Dev.to/JS] [Advanced Promise: JS Promises on next level](https://dev.to/shivams136/advanced-promise-js-promises-on-next-level-2eik)
 - [Lifehacker] [Why the Water From Your Fridge Tastes Funky &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-the-water-from-your-fridge-tastes-funky-and-how-to-1848700069)
-- [Dev.to/JS] [How to Write Vue 3 Composables for a Third-Party API Integration](https://dev.to/deepgram/how-to-write-vue-3-composables-for-a-third-party-api-integration-1ne6)
 - [Lifehacker] [I&#39;m Finally Stretching and I Kind of Like It?](https://lifehacker.com/im-finally-stretching-and-i-kind-of-like-it-1848700419)
 - [Lifehacker] [How to Talk Dirty in Bed Without Feeling Awkward](https://lifehacker.com/how-to-talk-dirty-in-bed-without-feeling-awkward-1848695864)
 - [Lifehacker] [Create a &#39;Career Search Action Plan&#39; Before You Look for a New Job](https://lifehacker.com/create-a-career-search-action-plan-before-you-look-for-1848700028)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Enduring Myths About American History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/9-enduring-myths-about-american-history-and-what-we-ca-1848695181)
 - [Lifehacker] [15 of the Best Movies About Teen Angst to Watch After &#39;Turning Red&#39;](https://lifehacker.com/15-of-the-best-movies-about-teen-angst-to-watch-after-t-1848688190)
 - [Lifehacker] [How to Get Kids to Stop Eating Their Boogers](https://lifehacker.com/how-to-get-kids-to-stop-eating-their-boogers-1848691567)
-- [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
-- [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)<!-- TECH-POSTS:END -->
 
