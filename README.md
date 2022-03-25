@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [19 of the Easiest Flowers to Grow From Seeds &lpar;for People Who Always Kill Plants&rpar;](https://lifehacker.com/19-of-the-easiest-flowers-to-grow-from-seeds-for-peopl-1848703832)
+- [Dev.to/JS] [A Strange Moment.js — 3 Gotchas for Working &amp; Testing with Datetimes](https://dev.to/lyqht/a-strange-momentjs-3-gotchas-for-working-testing-with-datetimes-5gc0)
+- [Dev.to/JS] [Launching a Remix SaaS kit this monday](https://dev.to/alexandromtzg/launching-a-remix-saas-kit-this-monday-2alm)
+- [Lifehacker] [How to &lpar;Finally&rpar; Switch to a Chronological Feed on Instagram](https://lifehacker.com/how-to-finally-switch-to-a-chronological-feed-on-inst-1848703870)
+- [Dev.to/JS] [Top 5 best JavaScript beautifier in 2022 | All-time-dev](https://dev.to/alltimedevlopment/top-5-best-javascript-beautifier-in-2022-all-time-dev-5a9h)
+- [Dev.to/JS] [Build a MERN Stack App in 5 Days &lpar;The Introduction&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-the-introduction-19i7)
+- [Dev.to/JS] [Budgety Journey](https://dev.to/bycho91/budgety-journey-118)
+- [Lifehacker] [This Wordle Clone Might Just Be the Most Challenging Yet](https://lifehacker.com/this-wordle-clone-might-just-be-the-most-challenging-ye-1848703543)
 - [Lifehacker] [15 Oscar-Winning Animated Shorts Under 15 Minutes Long &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/15-oscar-winning-animated-shorts-under-15-minutes-long-1848699544)
 - [Dev.to/JS] [Top 5 React UI frameworks](https://dev.to/thatanjan/top-react-ui-frameworks-12o0)
 - [Dev.to/JS] [How to Make a Simple Unit Converter in Vue](https://dev.to/code_jedi/how-to-make-a-simple-unit-converter-in-vue-543k)
@@ -33,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to replace webpack &amp; babel with Vite on a legacy React Typescript project](https://dev.to/richardbray/how-to-replace-webpack-babel-with-vite-on-a-legacy-react-typescript-project-3ofg)
 - [Dev.to/JS] [Paracetamol.js💊| #86: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-86-explica-este-codigo-javascript-1e5k)
 - [Lifehacker] [I&#39;m Finally Stretching and I Kind of Like It?](https://lifehacker.com/im-finally-stretching-and-i-kind-of-like-it-1848700419)
-- [Dev.to/JS] [How we wrote our CLI integration tests](https://dev.to/florianrappl/how-we-wrote-our-cli-integration-tests-53i3)
-- [Dev.to/JS] [Open Source Adventures: Episode 23: Imba 2 JSON Beautifier](https://dev.to/taw/open-source-adventures-episode-23-imba-2-json-beautifier-57e9)
 - [Lifehacker] [How to Talk Dirty in Bed Without Feeling Awkward](https://lifehacker.com/how-to-talk-dirty-in-bed-without-feeling-awkward-1848695864)
-- [Dev.to/JS] [Getting Started with Storing Vue Data in Vuex](https://dev.to/smpnjn/getting-started-with-storing-vue-data-in-vuex-3hm9)
 - [Lifehacker] [Create a &#39;Career Search Action Plan&#39; Before You Look for a New Job](https://lifehacker.com/create-a-career-search-action-plan-before-you-look-for-1848700028)
-- [Dev.to/JS] [Storing multiple values in one State](https://dev.to/govindbisen/storing-multiple-values-in-one-state-177d)
 - [Lifehacker] [32 of the Best, Most Memorable Movies Awards Acceptance Speeches Ever](https://lifehacker.com/32-of-the-best-most-memorable-movies-awards-acceptance-1848686670)
-- [Dev.to/JS] [Feature Flags in Next.JS](https://dev.to/willholmes/feature-flags-in-nextjs-1432)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Kids to Stop Eating Their Boogers](https://lifehacker.com/how-to-get-kids-to-stop-eating-their-boogers-1848691567)
 - [Lifehacker] [30 Movies Nominated for Oscars in 2022 &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/30-movies-up-for-oscars-in-2022-and-where-to-stream-th-1848501532)
 - [Lifehacker] [Ignore This Outdated Career Advice &lpar;and What to Do Instead&rpar;](https://lifehacker.com/ignore-this-outdated-career-advice-and-what-to-do-inst-1848693477)
-- [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
-- [Lifehacker] [Is Bamboo Toilet Paper All It’s Cracked Up to Be?](https://lifehacker.com/is-bamboo-toilet-paper-all-it-s-cracked-up-to-be-1848692484)
-- [Lifehacker] [You Can Now Play Ocarina of Time Like a &#39;Modern&#39; PC Game](https://lifehacker.com/you-can-now-play-ocarina-of-time-like-a-modern-pc-game-1848691454)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)<!-- TECH-POSTS:END -->
 
