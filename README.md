@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js Barcode and QR Code Reader for Desktop and Web](https://dev.to/yushulx/nodejs-barcode-and-qr-code-reader-for-desktop-and-web-2en5)
+- [Dev.to/JS] [What are anonymous functions?](https://dev.to/nevulo/what-are-anonymous-functions-457d)
 - [Dev.to/JS] [Simple HTML, TAILWINDCSS &amp; Javascript Form Validation](https://dev.to/elvissautet/simple-html-tailwindcss-javascript-form-validation-485e)
 - [Dev.to/JS] [Web Components 101: Vanilla JavaScript](https://dev.to/this-is-learning/web-components-101-vanilla-javascript-2pja)
 - [Dev.to/JS] [Model - Uma breve introdução](https://dev.to/gabrielhsilvestre/model-uma-breve-introducao-4gch)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use your i-moon-gination: Let&#39;s build a Moon phase visualizer with CSS and JS! 🗓️🌙](https://dev.to/thormeier/use-your-i-moon-gination-lets-build-a-moon-phase-visualizer-with-css-and-js-aih)
 - [Dev.to/JS] [Cookie Banners](https://dev.to/vadimfilimonov/cookie-banners-4nb4)
 - [Lifehacker] [17 of the Trickiest Ways Restaurants Get You to Spend More &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/17-of-the-trickiest-ways-restaurants-get-you-to-spend-m-1848697711)
-- [Dev.to/JS] [Relearning the Past: Vanilla JavaScript Single Page Application](https://dev.to/melguachun/relearning-the-past-vanilla-javascript-single-page-application-437i)
-- [Dev.to/JS] [React-Redux at it&#39;s Simplest!](https://dev.to/clouded_knight/react-redux-at-its-simplest-2kep)
 - [Lifehacker] [How to Treat Your Kid’s Cuts and Bruises Quickly, According to a Boxing Cutman](https://lifehacker.com/how-to-treat-your-kid-s-cuts-and-bruises-quickly-accor-1848697632)
 - [Lifehacker] [How to Install a ‘Shade Sail’ in Your Backyard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-install-a-shade-sail-in-your-backyard-and-why-1848689998)
 - [Lifehacker] [12 Easy Garden Plants That Are Actually Worth Growing](https://lifehacker.com/12-easy-garden-plants-that-are-actually-worth-growing-1848697407)
