@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 10 Awesome Websites for devs in 2022 ️](https://dev.to/prgrmmrhumor_io/10-awesome-websites-for-devs-in-2022-dbh)
+- [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
+- [Dev.to/JS] [Advanced JSON-Server Tips for full fake REST API with almost zero coding](https://dev.to/dirkecker/advanced-json-server-for-full-fake-rest-api-with-almost-zero-coding-3p72)
 - [Dev.to/JS] [Codery - Extract And Collect Data From Any Website](https://dev.to/thestartupfounder/codery-extract-and-collect-data-from-any-website-1c3a)
 - [Dev.to/JS] [14 Linting Rules To Help You Write Asynchronous Code in JavaScript](https://dev.to/maximization/14-linting-rules-to-help-you-write-asynchronous-code-in-javascript-1gi0)
 - [Dev.to/JS] [Top 3 Casts of the Week #3](https://dev.to/codecast/top-3-casts-of-the-week-3-132c)
@@ -37,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open Source Adventures: Episode 24: Imba 2 and Cypress](https://dev.to/taw/open-source-adventures-episode-24-imba-2-and-cypress-p44)
 - [Dev.to/JS] [When OOP Developers created Applications with TypeScript](https://dev.to/dirkecker/when-oo-developers-created-applications-with-typescript-14p1)
 - [Dev.to/JS] [I write a console tool for edit multiple language files at the same time](https://dev.to/lnquy065/i-write-a-console-tool-for-edit-multiple-language-files-at-the-same-time-4eb0)
-- [Dev.to/JS] [How to protect admin dashboard using Html,Css and Js](https://dev.to/princeniyonshuti/how-to-protect-admin-dashboard-using-htmlcss-and-js-24o5)
 - [Lifehacker] [19 of the Easiest Flowers to Grow From Seeds &lpar;for People Who Always Kill Plants&rpar;](https://lifehacker.com/19-of-the-easiest-flowers-to-grow-from-seeds-for-peopl-1848703832)
-- [Dev.to/JS] [A Strange Moment.js — 3 Gotchas for Working &amp; Testing with Datetimes](https://dev.to/lyqht/a-strange-momentjs-3-gotchas-for-working-testing-with-datetimes-5gc0)
 - [Lifehacker] [How to &lpar;Finally&rpar; Switch to a Chronological Feed on Instagram](https://lifehacker.com/how-to-finally-switch-to-a-chronological-feed-on-inst-1848703870)
 - [Lifehacker] [This Wordle Clone Might Just Be the Most Challenging Yet](https://lifehacker.com/this-wordle-clone-might-just-be-the-most-challenging-ye-1848703543)
 - [Lifehacker] [15 Oscar-Winning Animated Shorts Under 15 Minutes Long &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/15-oscar-winning-animated-shorts-under-15-minutes-long-1848699544)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Stop Using Coupons](https://lifehacker.com/you-should-stop-using-coupons-1848692478)
 - [Lifehacker] [11 Games You Should Play After Beating ‘Elden Ring’](https://lifehacker.com/11-games-you-should-play-after-beating-elden-ring-1848695324)
 - [Lifehacker] [How to Bake With More Booze, &#39;Cause Life Is Short](https://lifehacker.com/how-to-bake-with-more-booze-cause-life-is-short-1848694341)
-- [Lifehacker] [9 Enduring Myths About American History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/9-enduring-myths-about-american-history-and-what-we-ca-1848695181)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)<!-- TECH-POSTS:END -->
 
