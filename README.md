@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Adventures: Episode 24: Imba 2 and Cypress](https://dev.to/taw/open-source-adventures-episode-24-imba-2-and-cypress-p44)
+- [Dev.to/JS] [I write a console tool for edit multiple language files at the same time](https://dev.to/lnquy065/i-write-a-console-tool-for-edit-multiple-language-files-at-the-same-time-4eb0)
+- [Dev.to/JS] [How to protect admin dashboard using Html,Css and Js](https://dev.to/princeniyonshuti/how-to-protect-admin-dashboard-using-htmlcss-and-js-24o5)
 - [Lifehacker] [19 of the Easiest Flowers to Grow From Seeds &lpar;for People Who Always Kill Plants&rpar;](https://lifehacker.com/19-of-the-easiest-flowers-to-grow-from-seeds-for-peopl-1848703832)
 - [Dev.to/JS] [A Strange Moment.js — 3 Gotchas for Working &amp; Testing with Datetimes](https://dev.to/lyqht/a-strange-momentjs-3-gotchas-for-working-testing-with-datetimes-5gc0)
 - [Dev.to/JS] [Launching a Remix SaaS kit this monday](https://dev.to/alexandromtzg/launching-a-remix-saas-kit-this-monday-2alm)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced Promise: JS Promises on next level](https://dev.to/shivams136/advanced-promise-js-promises-on-next-level-2eik)
 - [Lifehacker] [Why the Water From Your Fridge Tastes Funky &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-the-water-from-your-fridge-tastes-funky-and-how-to-1848700069)
 - [Dev.to/JS] [How to Write Vue 3 Composables for a Third-Party API Integration](https://dev.to/deepgram/how-to-write-vue-3-composables-for-a-third-party-api-integration-1ne6)
-- [Dev.to/JS] [Using &lt;details&gt; HTML tag as navigation](https://dev.to/sarajwallen/using-html-tag-as-navigation-56gl)
-- [Dev.to/JS] [How to replace webpack &amp; babel with Vite on a legacy React Typescript project](https://dev.to/richardbray/how-to-replace-webpack-babel-with-vite-on-a-legacy-react-typescript-project-3ofg)
-- [Dev.to/JS] [Paracetamol.js💊| #86: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-86-explica-este-codigo-javascript-1e5k)
 - [Lifehacker] [I&#39;m Finally Stretching and I Kind of Like It?](https://lifehacker.com/im-finally-stretching-and-i-kind-of-like-it-1848700419)
 - [Lifehacker] [How to Talk Dirty in Bed Without Feeling Awkward](https://lifehacker.com/how-to-talk-dirty-in-bed-without-feeling-awkward-1848695864)
 - [Lifehacker] [Create a &#39;Career Search Action Plan&#39; Before You Look for a New Job](https://lifehacker.com/create-a-career-search-action-plan-before-you-look-for-1848700028)
