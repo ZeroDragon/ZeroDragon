@@ -33,7 +33,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
 - [Dev.to/JS] [Best Headless CMS for 2022](https://dev.to/connectaryal/best-headless-cms-for-2022-5gog)
 - [Dev.to/JS] [Django + Next.js The Easy Way](https://dev.to/danialkeimasi/django-nextjs-the-easy-way-5a0h)
-- [Dev.to/JS] [Taking Your Github Repository From 0 Stars To 1K Stars 🚀️](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-2194)
+- [Dev.to/JS] [Take Your Github Repository To The Next Level](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-2194)
 - [Dev.to/JS] [What is the best way to understand a Framework?](https://dev.to/dirkecker/what-is-the-best-way-to-understand-a-framework-211h)
 - [Lifehacker] [Avoid These Dating App Clichés So You Actually Get a Match](https://lifehacker.com/avoid-these-dating-app-cliches-if-you-actually-want-to-1848704630)
 - [Lifehacker] [The Beach Festivals and Events Worth Traveling for This Summer](https://lifehacker.com/the-beach-festivals-and-events-worth-traveling-for-this-1848704522)
