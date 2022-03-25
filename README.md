@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
+- [Dev.to/JS] [Codery - Extract And Collect Data From Any Website](https://dev.to/thestartupfounder/codery-extract-and-collect-data-from-any-website-1c3a)
+- [Dev.to/JS] [14 Linting Rules To Help You Write Asynchronous Code in JavaScript](https://dev.to/maximization/14-linting-rules-to-help-you-write-asynchronous-code-in-javascript-1gi0)
+- [Dev.to/JS] [Top 3 Casts of the Week #3](https://dev.to/codecast/top-3-casts-of-the-week-3-132c)
+- [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
+- [Dev.to/JS] [Best Headless CMS for 2022](https://dev.to/connectaryal/best-headless-cms-for-2022-5gog)
 - [Dev.to/JS] [Django + Next.js The Easy Way](https://dev.to/danialkeimasi/django-nextjs-the-easy-way-5a0h)
-- [Dev.to/JS] [Take Your Github Repository To The Next Level 🚀️](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-2194)
+- [Dev.to/JS] [Taking Your Github Repository From 0 Stars To 1K Stars 🚀️](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-2194)
 - [Dev.to/JS] [What is the best way to understand a Framework?](https://dev.to/dirkecker/what-is-the-best-way-to-understand-a-framework-211h)
 - [Lifehacker] [Avoid These Dating App Clichés So You Actually Get a Match](https://lifehacker.com/avoid-these-dating-app-cliches-if-you-actually-want-to-1848704630)
 - [Lifehacker] [The Beach Festivals and Events Worth Traveling for This Summer](https://lifehacker.com/the-beach-festivals-and-events-worth-traveling-for-this-1848704522)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to protect admin dashboard using Html,Css and Js](https://dev.to/princeniyonshuti/how-to-protect-admin-dashboard-using-htmlcss-and-js-24o5)
 - [Lifehacker] [19 of the Easiest Flowers to Grow From Seeds &lpar;for People Who Always Kill Plants&rpar;](https://lifehacker.com/19-of-the-easiest-flowers-to-grow-from-seeds-for-peopl-1848703832)
 - [Dev.to/JS] [A Strange Moment.js — 3 Gotchas for Working &amp; Testing with Datetimes](https://dev.to/lyqht/a-strange-momentjs-3-gotchas-for-working-testing-with-datetimes-5gc0)
-- [Dev.to/JS] [Launching a Remix SaaS kit this monday](https://dev.to/alexandromtzg/launching-a-remix-saas-kit-this-monday-2alm)
 - [Lifehacker] [How to &lpar;Finally&rpar; Switch to a Chronological Feed on Instagram](https://lifehacker.com/how-to-finally-switch-to-a-chronological-feed-on-inst-1848703870)
-- [Dev.to/JS] [Top 5 best JavaScript beautifier in 2022 | All-time-dev](https://dev.to/alltimedevlopment/top-5-best-javascript-beautifier-in-2022-all-time-dev-5a9h)
-- [Dev.to/JS] [Build a MERN Stack App in 5 Days &lpar;The Introduction&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-the-introduction-19i7)
-- [Dev.to/JS] [Budgety Journey](https://dev.to/bycho91/budgety-journey-118)
 - [Lifehacker] [This Wordle Clone Might Just Be the Most Challenging Yet](https://lifehacker.com/this-wordle-clone-might-just-be-the-most-challenging-ye-1848703543)
 - [Lifehacker] [15 Oscar-Winning Animated Shorts Under 15 Minutes Long &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/15-oscar-winning-animated-shorts-under-15-minutes-long-1848699544)
 - [Lifehacker] [Why the Water From Your Fridge Tastes Funky &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-the-water-from-your-fridge-tastes-funky-and-how-to-1848700069)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Games You Should Play After Beating ‘Elden Ring’](https://lifehacker.com/11-games-you-should-play-after-beating-elden-ring-1848695324)
 - [Lifehacker] [How to Bake With More Booze, &#39;Cause Life Is Short](https://lifehacker.com/how-to-bake-with-more-booze-cause-life-is-short-1848694341)
 - [Lifehacker] [9 Enduring Myths About American History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/9-enduring-myths-about-american-history-and-what-we-ca-1848695181)
-- [Lifehacker] [15 of the Best Movies About Teen Angst to Watch After &#39;Turning Red&#39;](https://lifehacker.com/15-of-the-best-movies-about-teen-angst-to-watch-after-t-1848688190)
-- [Lifehacker] [How to Get Kids to Stop Eating Their Boogers](https://lifehacker.com/how-to-get-kids-to-stop-eating-their-boogers-1848691567)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)<!-- TECH-POSTS:END -->
 
