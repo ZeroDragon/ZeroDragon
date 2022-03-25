@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Data Cleaning?](https://dev.to/codewithsom/why-data-cleaning-2eof)
+- [Dev.to/JS] [Baypark CBD Gummies: Pros &amp; Cons, Reviews, |Is It Worth Buying|?](https://dev.to/bayparkcbd_/baypark-cbd-gummies-pros-cons-reviews-is-it-worth-buying-1bj6)
+- [Dev.to/JS] [We are going back to 1995! The perfect harmony of Modern stack and Win95](https://dev.to/pankod/we-are-going-back-to-1995-the-perfect-harmony-of-modern-stack-and-win95-35oc)
+- [Dev.to/JS] [Amazing tools for better understanding Scope and Block in javaScript!](https://dev.to/hoomantalakian/amazing-tools-for-better-understanding-scope-and-block-in-javascript-n4)
 - [Dev.to/JS] [Your favourite Javascript coding tools?](https://dev.to/onestopcoder1/your-favourite-javascript-coding-tools-5424)
 - [Dev.to/JS] [Original Delta 10 Gummies and Delta 9 THC Gummies Flavors with Pleasant Taste](https://dev.to/edwinpoul1/original-delta-10-gummies-and-delta-9-thc-gummies-flavors-with-pleasant-taste-2ldm)
 - [Dev.to/JS] [Building a business from scratch - day 11](https://dev.to/twankrui/building-a-business-from-scratch-day-11-1o1k)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Survey](https://dev.to/metacollective/new-survey-4l1)
 - [Dev.to/JS] [Let&#39;s create a Markdown editor just like dev.to](https://dev.to/imdigitalashish/lets-create-a-markdown-editor-just-like-devto-1ld8)
 - [Dev.to/JS] [&lpar; ⭐ HTML Tip ⭐ &rpar; - Hidden Property](https://dev.to/shamgurav96/-html-tip-hidden-property-42b8)
-- [Dev.to/JS] [Trimtone Reviews – Scam or What? For Fat Burn!!](https://dev.to/trimtonegetnow/trimtone-reviews-scam-or-what-for-fat-burn-1393)
-- [Dev.to/JS] [Personal website performance optimization](https://dev.to/rxliuli/personal-website-performance-optimization-1p8k)
-- [Dev.to/JS] [Easy Way to Make a Contributions Graph in Your Application](https://dev.to/shunsuke/easy-way-to-make-a-contributions-graph-in-your-application-5eed)
-- [Dev.to/JS] [Why You don&#39;t need serverless and microservice ?](https://dev.to/610470416/why-you-dont-need-serverless-and-microservice--534d)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
