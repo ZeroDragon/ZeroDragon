@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Oscar-Winning Animated Shorts Under 15 Minutes Long &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/15-oscar-winning-animated-shorts-under-15-minutes-long-1848699544)
+- [Dev.to/JS] [Top 5 React UI frameworks](https://dev.to/thatanjan/top-react-ui-frameworks-12o0)
+- [Dev.to/JS] [How to Make a Simple Unit Converter in Vue](https://dev.to/code_jedi/how-to-make-a-simple-unit-converter-in-vue-543k)
+- [Dev.to/JS] [Advanced Promise: JS Promises on next level](https://dev.to/shivams136/advanced-promise-js-promises-on-next-level-2eik)
+- [Lifehacker] [Why the Water From Your Fridge Tastes Funky &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-the-water-from-your-fridge-tastes-funky-and-how-to-1848700069)
 - [Dev.to/JS] [How to Write Vue 3 Composables for a Third-Party API Integration](https://dev.to/deepgram/how-to-write-vue-3-composables-for-a-third-party-api-integration-1ne6)
 - [Dev.to/JS] [Using &lt;details&gt; HTML tag as navigation](https://dev.to/sarajwallen/using-html-tag-as-navigation-56gl)
 - [Dev.to/JS] [How to replace webpack &amp; babel with Vite on a legacy React Typescript project](https://dev.to/richardbray/how-to-replace-webpack-babel-with-vite-on-a-legacy-react-typescript-project-3ofg)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Storing multiple values in one State](https://dev.to/govindbisen/storing-multiple-values-in-one-state-177d)
 - [Lifehacker] [32 of the Best, Most Memorable Movies Awards Acceptance Speeches Ever](https://lifehacker.com/32-of-the-best-most-memorable-movies-awards-acceptance-1848686670)
 - [Dev.to/JS] [Feature Flags in Next.JS](https://dev.to/willholmes/feature-flags-in-nextjs-1432)
-- [Dev.to/JS] [Creating a dark theme switch with Tailwind &amp; Framer Motion](https://dev.to/mrpbennett/creating-a-dark-theme-switch-with-tailwind-framer-motion-4f4h)
-- [Dev.to/JS] [Next.js and MongoDB full-fledged app Part 4: Posts and Comments](https://dev.to/hoangvvo/nextjs-and-mongodb-full-fledged-app-part-4-posts-and-comments-n82)
-- [Dev.to/JS] [Rending arrays in React properly.](https://dev.to/mrpbennett/rending-arrays-in-react-properly-2j94)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is &#39;Brain Fog&#39; &lpar;and When Is It Serious?&rpar;](https://lifehacker.com/what-is-brain-fog-and-when-is-it-serious-1848692177)
 - [Lifehacker] [Is Bamboo Toilet Paper All It’s Cracked Up to Be?](https://lifehacker.com/is-bamboo-toilet-paper-all-it-s-cracked-up-to-be-1848692484)
 - [Lifehacker] [You Can Now Play Ocarina of Time Like a &#39;Modern&#39; PC Game](https://lifehacker.com/you-can-now-play-ocarina-of-time-like-a-modern-pc-game-1848691454)
-- [Lifehacker] [You Really Need to Add Sex Toys to Your Spring Cleaning List](https://lifehacker.com/you-really-need-to-add-sex-toys-to-your-spring-cleaning-1848691835)
-- [Lifehacker] [It&#39;s Cheaper to Buy a House Than Rent in These Cities](https://lifehacker.com/its-cheaper-to-buy-a-house-than-rent-in-these-cities-1848691906)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)<!-- TECH-POSTS:END -->
 
