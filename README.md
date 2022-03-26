@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 JavaScript Ideas to Help You Improve Your Development Skills](https://dev.to/mianazanfarooq/7-javascript-ideas-to-help-you-improve-your-development-skills-23k0)
+- [Dev.to/JS] [Vite: Blazing-Fast Tooling That Could Change How You Code](https://dev.to/thomasfindlay/vite-blazing-fast-tooling-that-could-change-how-you-code-32cl)
+- [Dev.to/JS] [Learn coding by playing games 🎮](https://dev.to/dhanushnehru/learn-coding-by-playing-games-484l)
 - [Dev.to/JS] [GeoSearch with Mapbox and Rails](https://dev.to/timnans/geosearch-with-mapbox-and-rails-55jd)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
 - [Dev.to/JS] [How to build NFT Marketplace website using HTML CSS JS](https://dev.to/codewithsadee/how-to-build-nft-marketplace-website-using-html-css-js-kh7)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Two Sum](https://dev.to/vnaydev/two-sum-2naj)
 - [Dev.to/JS] [Modern JavaScript: Promise](https://dev.to/mr0bread/modern-javascript-promise-3h79)
 - [Dev.to/JS] [Spice up your mac desktop with custom widgets, yes we can write our own widgets using coffeescript, HTML5, JSX, React and JS](https://dev.to/zakirsajib/spice-up-your-mac-desktop-with-custom-widgets-yes-we-can-write-our-own-widgets-using-coffeescript-html5-jsx-react-and-js-1o4l)
-- [Dev.to/JS] [An Introduction to JavaScript Scope and Scope Chain for Beginners](https://dev.to/developer_noon/an-introduction-to-javascript-scope-and-scope-chain-for-beginners-41n5)
-- [Dev.to/JS] [What tips will you give to a newbie JavaScript learner?](https://dev.to/amolshelke2/what-tips-will-you-give-to-a-newbie-javascript-learner-3f09)
-- [Dev.to/JS] [Simple Cookies with Node.js and any frontend JavaScript framework](https://dev.to/saranshabd/simple-cookies-with-nodejs-and-any-frontend-javascript-framework-42ph)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
