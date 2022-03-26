@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HEX to RGB Color Convertor](https://dev.to/softcodeon/hex-to-rgb-color-convertor-9ea)
+- [Dev.to/JS] [RGB to HEX Color Convertor](https://dev.to/softcodeon/rgb-to-hex-color-convertor-36on)
 - [Dev.to/JS] [JavaScript Features You Need to Look At](https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l)
 - [Dev.to/JS] [Open Source Adventures: Episode 25: Imba 2 Game of Life](https://dev.to/taw/open-source-adventures-episode-25-imba-2-game-of-life-252l)
 - [Dev.to/JS] [Performance Monitoring and more updates to Sentry for Electron](https://dev.to/sentry/performance-monitoring-and-more-updates-to-sentry-for-electron-17ni)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [14 Linting Rules To Help You Write Asynchronous Code in JavaScript](https://dev.to/maximization/14-linting-rules-to-help-you-write-asynchronous-code-in-javascript-1gi0)
 - [Dev.to/JS] [Top 3 Casts of the Week #3](https://dev.to/codecast/top-3-casts-of-the-week-3-132c)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
-- [Dev.to/JS] [Best Headless CMS for 2022](https://dev.to/connectaryal/best-headless-cms-for-2022-5gog)
-- [Dev.to/JS] [Django + Next.js The Easy Way](https://dev.to/danialkeimasi/django-nextjs-the-easy-way-5a0h)
 - [Lifehacker] [Avoid These Dating App Clichés So You Actually Get a Match](https://lifehacker.com/avoid-these-dating-app-cliches-if-you-actually-want-to-1848704630)
 - [Lifehacker] [The Beach Festivals and Events Worth Traveling for This Summer](https://lifehacker.com/the-beach-festivals-and-events-worth-traveling-for-this-1848704522)
 - [Lifehacker] [19 of the Easiest Flowers to Grow From Seeds &lpar;for People Who Always Kill Plants&rpar;](https://lifehacker.com/19-of-the-easiest-flowers-to-grow-from-seeds-for-peopl-1848703832)
