@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shoot your best Coding Memes that relate to you](https://dev.to/mrdanishsaleem/shoot-your-best-coding-memes-that-relate-to-you-3i04)
+- [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Dev.to/JS] [7 JavaScript Ideas to Help You Improve Your Development Skills](https://dev.to/mianazanfarooq/7-javascript-ideas-to-help-you-improve-your-development-skills-23k0)
 - [Dev.to/JS] [Vite: Blazing-Fast Tooling That Could Change How You Code](https://dev.to/thomasfindlay/vite-blazing-fast-tooling-that-could-change-how-you-code-32cl)
 - [Dev.to/JS] [Learn coding by playing games 🎮](https://dev.to/dhanushnehru/learn-coding-by-playing-games-484l)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React: Overriding Browser&#39;s Keyboard Shortcuts](https://dev.to/lico/react-overriding-browsers-keyboard-shortcuts-19bf)
 - [Dev.to/JS] [Two Sum](https://dev.to/vnaydev/two-sum-2naj)
 - [Dev.to/JS] [Modern JavaScript: Promise](https://dev.to/mr0bread/modern-javascript-promise-3h79)
-- [Dev.to/JS] [Spice up your mac desktop with custom widgets, yes we can write our own widgets using coffeescript, HTML5, JSX, React and JS](https://dev.to/zakirsajib/spice-up-your-mac-desktop-with-custom-widgets-yes-we-can-write-our-own-widgets-using-coffeescript-html5-jsx-react-and-js-1o4l)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Install a ‘Shade Sail’ in Your Backyard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-install-a-shade-sail-in-your-backyard-and-why-1848689998)
 - [Lifehacker] [12 Easy Garden Plants That Are Actually Worth Growing](https://lifehacker.com/12-easy-garden-plants-that-are-actually-worth-growing-1848697407)
 - [Lifehacker] [You Should Stop Using Coupons](https://lifehacker.com/you-should-stop-using-coupons-1848692478)
-- [Lifehacker] [11 Games You Should Play After Beating ‘Elden Ring’](https://lifehacker.com/11-games-you-should-play-after-beating-elden-ring-1848695324)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)<!-- TECH-POSTS:END -->
 
