@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Single Page Application Routing Using Hash or URL](https://dev.to/thedevdrawer/single-page-application-routing-using-hash-or-url-9jh)
 - [Dev.to/JS] [Unlocking the frontend - a call for standardizing component APIs pt.1](https://dev.to/kickstartds/unlocking-the-frontend-a-call-for-standardizing-component-apis-pt1-26p9)
 - [Dev.to/JS] [How to Create Bullseye Chart with JS — Visualizing COVID-19 Vaccine Pipeline](https://dev.to/andreykh1985/how-to-create-bullseye-chart-with-js-visualizing-covid-19-vaccine-pipeline-2f3m)
 - [Dev.to/JS] [New to this Dev](https://dev.to/goutham_aorroon/new-to-this-dev-1i8o)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Shoot your best Coding Memes that relate to you](https://dev.to/mrdanishsaleem/shoot-your-best-coding-memes-that-relate-to-you-3i04)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Dev.to/JS] [7 JavaScript Ideas to Help You Improve Your Development Skills](https://dev.to/mianazanfarooq/7-javascript-ideas-to-help-you-improve-your-development-skills-23k0)
-- [Dev.to/JS] [Vite: Blazing-Fast Tooling That Could Change How You Code](https://dev.to/thomasfindlay/vite-blazing-fast-tooling-that-could-change-how-you-code-32cl)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
