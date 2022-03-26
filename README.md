@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Object Oriented JavaScript &amp; More ! [ Part 1 ]](https://dev.to/ashik155/object-oriented-javascript-more-part-1--3jie)
 - [Dev.to/JS] [HEX to RGB Color Convertor](https://dev.to/softcodeon/hex-to-rgb-color-convertor-9ea)
 - [Dev.to/JS] [RGB to HEX Color Convertor](https://dev.to/softcodeon/rgb-to-hex-color-convertor-36on)
 - [Dev.to/JS] [JavaScript Features You Need to Look At](https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced JSON-Server Tips for full fake REST API with almost zero coding](https://dev.to/dirkecker/advanced-json-server-for-full-fake-rest-api-with-almost-zero-coding-3p72)
 - [Dev.to/JS] [Codery - Extract And Collect Data From Any Website](https://dev.to/thestartupfounder/codery-extract-and-collect-data-from-any-website-1c3a)
 - [Dev.to/JS] [14 Linting Rules To Help You Write Asynchronous Code in JavaScript](https://dev.to/maximization/14-linting-rules-to-help-you-write-asynchronous-code-in-javascript-1gi0)
-- [Dev.to/JS] [Top 3 Casts of the Week #3](https://dev.to/codecast/top-3-casts-of-the-week-3-132c)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
 - [Lifehacker] [Avoid These Dating App Clichés So You Actually Get a Match](https://lifehacker.com/avoid-these-dating-app-cliches-if-you-actually-want-to-1848704630)
 - [Lifehacker] [The Beach Festivals and Events Worth Traveling for This Summer](https://lifehacker.com/the-beach-festivals-and-events-worth-traveling-for-this-1848704522)
