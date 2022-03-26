@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [On Front-end Dependency Injection](https://dev.to/3shain/on-front-end-dependency-injection-4a68)
+- [Dev.to/JS] [React: Overriding Browser&#39;s Keyboard Shortcuts](https://dev.to/lico/react-overriding-browsers-keyboard-shortcuts-19bf)
+- [Dev.to/JS] [Two Sum](https://dev.to/vnaydev/two-sum-2naj)
 - [Dev.to/JS] [Modern JavaScript: Promise](https://dev.to/mr0bread/modern-javascript-promise-3h79)
 - [Dev.to/JS] [Spice up your mac desktop with custom widgets, yes we can write our own widgets using coffeescript, HTML5, JSX, React and JS](https://dev.to/zakirsajib/spice-up-your-mac-desktop-with-custom-widgets-yes-we-can-write-our-own-widgets-using-coffeescript-html5-jsx-react-and-js-1o4l)
 - [Dev.to/JS] [An Introduction to JavaScript Scope and Scope Chain for Beginners](https://dev.to/developer_noon/an-introduction-to-javascript-scope-and-scope-chain-for-beginners-41n5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Diamond CBD Gummies: Reviews, Ingredients, Cost |Legit Or Scam|?](https://dev.to/diamondcbd_/diamond-cbd-gummies-reviews-ingredients-cost-legit-or-scam-4aig)
 - [Dev.to/JS] [Top 5 Resources to Master Web3 in 2k22](https://dev.to/thenomadevel/top-5-resources-to-master-web3-in-2k22-4bi4)
 - [Dev.to/JS] [How to set the HTML lang attribute in Next.js?](https://dev.to/codewithsnowbit/how-to-set-the-html-lang-attribute-in-nextjs-271k)
-- [Dev.to/JS] [Absolute import in create-react-app](https://dev.to/ashirbadgudu/absolute-import-in-create-react-app-10ga)
-- [Dev.to/JS] [Huuman CBD Gummies - Pain Relief Results, Price, Ingredients And Side Effects](https://dev.to/huumancbdgummi1/huuman-cbd-gummies-pain-relief-results-price-ingredients-and-side-effects-ej)
-- [Dev.to/JS] [Tech support service on how to take fake cash app screenshot from cash app representative](https://dev.to/samkafe100/tech-support-service-on-how-to-take-fake-cash-app-screenshot-from-cash-app-representative-46lh)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
