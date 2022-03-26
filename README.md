@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlocking the frontend - a call for standardizing component APIs pt.1](https://dev.to/kickstartds/unlocking-the-frontend-a-call-for-standardizing-component-apis-pt1-26p9)
+- [Dev.to/JS] [How to Create Bullseye Chart with JS — Visualizing COVID-19 Vaccine Pipeline](https://dev.to/andreykh1985/how-to-create-bullseye-chart-with-js-visualizing-covid-19-vaccine-pipeline-2f3m)
+- [Dev.to/JS] [New to this Dev](https://dev.to/goutham_aorroon/new-to-this-dev-1i8o)
+- [Dev.to/JS] [Using Mixpanel via proxy with Next.js rewrites](https://dev.to/rain2o/using-mixpanel-via-proxy-with-nextjs-rewrites-130e)
 - [Dev.to/JS] [Scope, Scope-Chain, and Lexical Environment in JavaScript](https://dev.to/sobitp59/scope-scope-chain-and-lexical-environment-in-javascript-37ji)
 - [Dev.to/JS] [Move zeroes](https://dev.to/vnaydev/move-zeroes-3o00)
 - [Dev.to/JS] [3 reasons why you should use Remix instead of Next.js](https://dev.to/alexandromtzg/3-reasons-why-you-should-use-remix-instead-of-nextjs-5554)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Dev.to/JS] [7 JavaScript Ideas to Help You Improve Your Development Skills](https://dev.to/mianazanfarooq/7-javascript-ideas-to-help-you-improve-your-development-skills-23k0)
 - [Dev.to/JS] [Vite: Blazing-Fast Tooling That Could Change How You Code](https://dev.to/thomasfindlay/vite-blazing-fast-tooling-that-could-change-how-you-code-32cl)
-- [Dev.to/JS] [Learn coding by playing games 🎮](https://dev.to/dhanushnehru/learn-coding-by-playing-games-484l)
-- [Dev.to/JS] [GeoSearch with Mapbox and Rails](https://dev.to/timnans/geosearch-with-mapbox-and-rails-55jd)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
-- [Dev.to/JS] [How to build NFT Marketplace website using HTML CSS JS](https://dev.to/codewithsadee/how-to-build-nft-marketplace-website-using-html-css-js-kh7)
-- [Dev.to/JS] [How to validate uploaded files in Node JS](https://dev.to/thesameeric/how-to-validate-uploaded-files-in-node-js-2dc4)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
