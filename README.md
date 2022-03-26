@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GeoSearch with Mapbox and Rails](https://dev.to/timnans/geosearch-with-mapbox-and-rails-55jd)
+- [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
+- [Dev.to/JS] [How to build NFT Marketplace website using HTML CSS JS](https://dev.to/codewithsadee/how-to-build-nft-marketplace-website-using-html-css-js-kh7)
+- [Dev.to/JS] [How to validate uploaded files in Node JS](https://dev.to/thesameeric/how-to-validate-uploaded-files-in-node-js-2dc4)
+- [Dev.to/JS] [Can someone plz explain functional React Hooks ??](https://dev.to/himanshupal0001/can-someone-plz-explain-functional-react-hooks--33i4)
 - [Dev.to/JS] [On Front-end Dependency Injection](https://dev.to/3shain/on-front-end-dependency-injection-4a68)
 - [Dev.to/JS] [React: Overriding Browser&#39;s Keyboard Shortcuts](https://dev.to/lico/react-overriding-browsers-keyboard-shortcuts-19bf)
 - [Dev.to/JS] [Two Sum](https://dev.to/vnaydev/two-sum-2naj)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An Introduction to JavaScript Scope and Scope Chain for Beginners](https://dev.to/developer_noon/an-introduction-to-javascript-scope-and-scope-chain-for-beginners-41n5)
 - [Dev.to/JS] [What tips will you give to a newbie JavaScript learner?](https://dev.to/amolshelke2/what-tips-will-you-give-to-a-newbie-javascript-learner-3f09)
 - [Dev.to/JS] [Simple Cookies with Node.js and any frontend JavaScript framework](https://dev.to/saranshabd/simple-cookies-with-nodejs-and-any-frontend-javascript-framework-42ph)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;26-03-2022&rpar; - Mozilla’s vision for the evolution of the web](https://dev.to/mjgs/this-weeks-newsletter-is-out-26-03-2022-mozillas-vision-for-the-evolution-of-the-web-2noc)
-- [Dev.to/JS] [Diamond CBD Gummies: Reviews, Ingredients, Cost |Legit Or Scam|?](https://dev.to/diamondcbd_/diamond-cbd-gummies-reviews-ingredients-cost-legit-or-scam-4aig)
-- [Dev.to/JS] [Top 5 Resources to Master Web3 in 2k22](https://dev.to/thenomadevel/top-5-resources-to-master-web3-in-2k22-4bi4)
-- [Dev.to/JS] [How to set the HTML lang attribute in Next.js?](https://dev.to/codewithsnowbit/how-to-set-the-html-lang-attribute-in-nextjs-271k)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Easy Garden Plants That Are Actually Worth Growing](https://lifehacker.com/12-easy-garden-plants-that-are-actually-worth-growing-1848697407)
 - [Lifehacker] [You Should Stop Using Coupons](https://lifehacker.com/you-should-stop-using-coupons-1848692478)
 - [Lifehacker] [11 Games You Should Play After Beating ‘Elden Ring’](https://lifehacker.com/11-games-you-should-play-after-beating-elden-ring-1848695324)
-- [Lifehacker] [How to Bake With More Booze, &#39;Cause Life Is Short](https://lifehacker.com/how-to-bake-with-more-booze-cause-life-is-short-1848694341)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)<!-- TECH-POSTS:END -->
 
