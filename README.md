@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Move zeroes](https://dev.to/vnaydev/move-zeroes-3o00)
+- [Dev.to/JS] [3 reasons why you should use Remix instead of Next.js](https://dev.to/alexandromtzg/3-reasons-why-you-should-use-remix-instead-of-nextjs-5554)
+- [Dev.to/JS] [Angular Advance topic List. please adds one if you have one.](https://dev.to/tauhidulislamt2/angular-advance-topic-list-please-adds-one-if-you-have-one-4k5a)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Dev.to/JS] [Chrome Extensions you should add them to your arsenal now !](https://dev.to/ayoub3bidi/chrome-extensions-you-should-add-them-to-your-arsenal-now--2p87)
 - [Dev.to/JS] [Shoot your best Coding Memes that relate to you](https://dev.to/mrdanishsaleem/shoot-your-best-coding-memes-that-relate-to-you-3i04)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to build NFT Marketplace website using HTML CSS JS](https://dev.to/codewithsadee/how-to-build-nft-marketplace-website-using-html-css-js-kh7)
 - [Dev.to/JS] [How to validate uploaded files in Node JS](https://dev.to/thesameeric/how-to-validate-uploaded-files-in-node-js-2dc4)
 - [Dev.to/JS] [Can someone plz explain functional React Hooks ??](https://dev.to/himanshupal0001/can-someone-plz-explain-functional-react-hooks--33i4)
-- [Dev.to/JS] [On Front-end Dependency Injection](https://dev.to/3shain/on-front-end-dependency-injection-4a68)
-- [Dev.to/JS] [React: Overriding Browser&#39;s Keyboard Shortcuts](https://dev.to/lico/react-overriding-browsers-keyboard-shortcuts-19bf)
-- [Dev.to/JS] [Two Sum](https://dev.to/vnaydev/two-sum-2naj)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
