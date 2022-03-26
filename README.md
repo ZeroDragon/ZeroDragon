@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [object oriented programming in Javascript &lpar;part 1&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-1-g4n)
 - [Dev.to/JS] [Day 14 of 100 Days of Code](https://dev.to/nkemdev/day-14-of-100-days-of-code-4lkh)
 - [Dev.to/JS] [Single Page Application Routing Using Hash or URL](https://dev.to/thedevdrawer/single-page-application-routing-using-hash-or-url-9jh)
 - [Dev.to/JS] [Unlocking the frontend - a call for standardizing component APIs pt.1](https://dev.to/kickstartds/unlocking-the-frontend-a-call-for-standardizing-component-apis-pt1-26p9)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Advance topic List. please adds one if you have one.](https://dev.to/tauhidulislamt2/angular-advance-topic-list-please-adds-one-if-you-have-one-4k5a)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Dev.to/JS] [Chrome Extensions you should add them to your arsenal now !](https://dev.to/ayoub3bidi/chrome-extensions-you-should-add-them-to-your-arsenal-now--2p87)
-- [Dev.to/JS] [Shoot your best Coding Memes that relate to you](https://dev.to/mrdanishsaleem/shoot-your-best-coding-memes-that-relate-to-you-3i04)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
