@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What tips will you give to a newbie JavaScript learner?](https://dev.to/amolshelke2/what-tips-will-you-give-to-a-newbie-javascript-learner-3f09)
+- [Dev.to/JS] [Simple Cookies with Node.js and any frontend JavaScript framework](https://dev.to/saranshabd/simple-cookies-with-nodejs-and-any-frontend-javascript-framework-42ph)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;26-03-2022&rpar; - Mozilla’s vision for the evolution of the web](https://dev.to/mjgs/this-weeks-newsletter-is-out-26-03-2022-mozillas-vision-for-the-evolution-of-the-web-2noc)
 - [Dev.to/JS] [Diamond CBD Gummies: Reviews, Ingredients, Cost |Legit Or Scam|?](https://dev.to/diamondcbd_/diamond-cbd-gummies-reviews-ingredients-cost-legit-or-scam-4aig)
 - [Dev.to/JS] [Top 5 Resources to Master Web3 in 2k22](https://dev.to/thenomadevel/top-5-resources-to-master-web3-in-2k22-4bi4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 1: Setting up the backend&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-1-setting-up-the-backend-44fe)
 - [Dev.to/JS] [Building Custom Authentication for Your Next.js Apps](https://dev.to/shahmir049/building-custom-authentication-for-your-nextjs-apps-212o)
 - [Dev.to/JS] [test](https://dev.to/minje98/test-37ag)
-- [Dev.to/JS] [Object Oriented JavaScript &amp; More ! [ Part 1 ]](https://dev.to/ashik155/object-oriented-javascript-more-part-1--3jie)
-- [Dev.to/JS] [HEX to RGB Color Convertor](https://dev.to/softcodeon/hex-to-rgb-color-convertor-9ea)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
