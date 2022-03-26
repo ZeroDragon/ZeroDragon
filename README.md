@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Features You Need to Look At](https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l)
 - [Dev.to/JS] [Open Source Adventures: Episode 25: Imba 2 Game of Life](https://dev.to/taw/open-source-adventures-episode-25-imba-2-game-of-life-252l)
 - [Dev.to/JS] [Performance Monitoring and more updates to Sentry for Electron](https://dev.to/sentry/performance-monitoring-and-more-updates-to-sentry-for-electron-17ni)
 - [Dev.to/JS] [What JIT &lpar;Just in time&rpar; really is ? &lpar;Part 1&rpar;](https://dev.to/alirezaebrahimkhani/what-jit-just-in-time-really-is-part-1-35on)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
 - [Dev.to/JS] [Best Headless CMS for 2022](https://dev.to/connectaryal/best-headless-cms-for-2022-5gog)
 - [Dev.to/JS] [Django + Next.js The Easy Way](https://dev.to/danialkeimasi/django-nextjs-the-easy-way-5a0h)
-- [Dev.to/JS] [Take Your Github Repository To The Next Level](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-2194)
 - [Lifehacker] [Avoid These Dating App Clichés So You Actually Get a Match](https://lifehacker.com/avoid-these-dating-app-cliches-if-you-actually-want-to-1848704630)
 - [Lifehacker] [The Beach Festivals and Events Worth Traveling for This Summer](https://lifehacker.com/the-beach-festivals-and-events-worth-traveling-for-this-1848704522)
 - [Lifehacker] [19 of the Easiest Flowers to Grow From Seeds &lpar;for People Who Always Kill Plants&rpar;](https://lifehacker.com/19-of-the-easiest-flowers-to-grow-from-seeds-for-peopl-1848703832)
