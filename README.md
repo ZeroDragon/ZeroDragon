@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
+- [Dev.to/JS] [Chrome Extensions you should add them to your arsenal now !](https://dev.to/ayoub3bidi/chrome-extensions-you-should-add-them-to-your-arsenal-now--2p87)
 - [Dev.to/JS] [Shoot your best Coding Memes that relate to you](https://dev.to/mrdanishsaleem/shoot-your-best-coding-memes-that-relate-to-you-3i04)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Dev.to/JS] [7 JavaScript Ideas to Help You Improve Your Development Skills](https://dev.to/mianazanfarooq/7-javascript-ideas-to-help-you-improve-your-development-skills-23k0)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [On Front-end Dependency Injection](https://dev.to/3shain/on-front-end-dependency-injection-4a68)
 - [Dev.to/JS] [React: Overriding Browser&#39;s Keyboard Shortcuts](https://dev.to/lico/react-overriding-browsers-keyboard-shortcuts-19bf)
 - [Dev.to/JS] [Two Sum](https://dev.to/vnaydev/two-sum-2naj)
-- [Dev.to/JS] [Modern JavaScript: Promise](https://dev.to/mr0bread/modern-javascript-promise-3h79)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Treat Your Kid’s Cuts and Bruises Quickly, According to a Boxing Cutman](https://lifehacker.com/how-to-treat-your-kid-s-cuts-and-bruises-quickly-accor-1848697632)
 - [Lifehacker] [How to Install a ‘Shade Sail’ in Your Backyard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-install-a-shade-sail-in-your-backyard-and-why-1848689998)
 - [Lifehacker] [12 Easy Garden Plants That Are Actually Worth Growing](https://lifehacker.com/12-easy-garden-plants-that-are-actually-worth-growing-1848697407)
-- [Lifehacker] [You Should Stop Using Coupons](https://lifehacker.com/you-should-stop-using-coupons-1848692478)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
 - [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)<!-- TECH-POSTS:END -->
 
