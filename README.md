@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Absolute import in create-react-app](https://dev.to/ashirbadgudu/absolute-import-in-create-react-app-10ga)
+- [Dev.to/JS] [Huuman CBD Gummies - Pain Relief Results, Price, Ingredients And Side Effects](https://dev.to/huumancbdgummi1/huuman-cbd-gummies-pain-relief-results-price-ingredients-and-side-effects-ej)
+- [Dev.to/JS] [Tech support service on how to take fake cash app screenshot from cash app representative](https://dev.to/samkafe100/tech-support-service-on-how-to-take-fake-cash-app-screenshot-from-cash-app-representative-46lh)
+- [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 1: Setting up the backend&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-1-setting-up-the-backend-44fe)
+- [Dev.to/JS] [Building Custom Authentication for Your Next.js Apps](https://dev.to/shahmir049/building-custom-authentication-for-your-nextjs-apps-212o)
 - [Dev.to/JS] [test](https://dev.to/minje98/test-37ag)
 - [Dev.to/JS] [Object Oriented JavaScript &amp; More ! [ Part 1 ]](https://dev.to/ashik155/object-oriented-javascript-more-part-1--3jie)
 - [Dev.to/JS] [HEX to RGB Color Convertor](https://dev.to/softcodeon/hex-to-rgb-color-convertor-9ea)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Features You Need to Look At](https://dev.to/tmchuynh/javascript-features-you-need-to-look-at-1b9l)
 - [Dev.to/JS] [Open Source Adventures: Episode 25: Imba 2 Game of Life](https://dev.to/taw/open-source-adventures-episode-25-imba-2-game-of-life-252l)
 - [Dev.to/JS] [Performance Monitoring and more updates to Sentry for Electron](https://dev.to/sentry/performance-monitoring-and-more-updates-to-sentry-for-electron-17ni)
-- [Dev.to/JS] [What JIT &lpar;Just in time&rpar; really is ? &lpar;Part 1&rpar;](https://dev.to/alirezaebrahimkhani/what-jit-just-in-time-really-is-part-1-35on)
-- [Dev.to/JS] [Golang perks](https://dev.to/projektorius96/golang-perks-1ken)
-- [Dev.to/JS] [🚀 10 Awesome Websites for devs in 2022 ️](https://dev.to/prgrmmrhumor_io/10-awesome-websites-for-devs-in-2022-dbh)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
-- [Dev.to/JS] [Advanced JSON-Server Tips for full fake REST API with almost zero coding](https://dev.to/dirkecker/advanced-json-server-for-full-fake-rest-api-with-almost-zero-coding-3p72)
-- [Dev.to/JS] [Codery - Extract And Collect Data From Any Website](https://dev.to/thestartupfounder/codery-extract-and-collect-data-from-any-website-1c3a)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
 - [Lifehacker] [Avoid These Dating App Clichés So You Actually Get a Match](https://lifehacker.com/avoid-these-dating-app-cliches-if-you-actually-want-to-1848704630)
 - [Lifehacker] [The Beach Festivals and Events Worth Traveling for This Summer](https://lifehacker.com/the-beach-festivals-and-events-worth-traveling-for-this-1848704522)
