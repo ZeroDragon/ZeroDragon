@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MERN Stack Developer &lpar;MSD&rpar; Roadmap.](https://dev.to/oricohen/mern-stack-developer-msd-roadmap-l5e)
+- [Dev.to/JS] [Javascript to check all and uncheck all](https://dev.to/bhaggu/javascript-to-check-all-and-uncheck-all-1n7p)
+- [Dev.to/JS] [How RuneScape Helped Me Understand Scope](https://dev.to/sporkmeister/how-runescape-helped-me-understand-scope-4mmf)
+- [Dev.to/JS] [JavaScript Synchronous OR Asynchronous ?](https://dev.to/diaaibrahiem/javascript-synchronous-or-asynchronous--42kp)
 - [Dev.to/JS] [Short API GET using HTML, JS and Axios](https://dev.to/afpaiva/short-api-get-using-html-js-and-axios-3n8n)
 - [Dev.to/JS] [Request easily, with Axios](https://dev.to/samaghapour/request-easily-with-axios-5g3m)
 - [Dev.to/JS] [I wrote a new library for recording p5.js sketches](https://dev.to/tapioca24/i-wrote-a-new-library-for-recording-p5js-sketches-kim)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly Digest 12/2022](https://dev.to/marcobiedermann/weekly-digest-122022-4cdo)
 - [Dev.to/JS] [A JavaScript journey: Introduction](https://dev.to/jpeg0507/a-javascript-journey-introduction-5c3p)
 - [Dev.to/JS] [DISPLAY A PDF FILE IN REACT APPLICATION WITHOUT ANY EXTRA PACKAGE.](https://dev.to/jonathz/display-a-pdf-file-in-react-application-without-any-extra-package-510f)
-- [Dev.to/JS] [oop in javascript! part2:4 pillars of oop](https://dev.to/samaghapour/oop-in-javascript-part24-pillars-of-oop-1lfp)
-- [Dev.to/JS] [What is the difference between Object.freeze&lpar;&rpar; and Object.seal&lpar;&rpar; in JavaScript?](https://dev.to/chalarangelo/what-is-the-difference-between-objectfreeze-and-objectseal-in-javascript-4eij)
-- [Dev.to/JS] [Simplify Using Hooks by Using Custom Hooks in React](https://dev.to/alfetta159/simplify-using-hooks-by-using-custom-hooks-in-react-4oa5)
-- [Dev.to/JS] [7 Helpful tools for frontend devs 🤯](https://dev.to/dhananjaywarade/7-helpful-tools-for-frontend-devs-26i1)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
