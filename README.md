@@ -31,7 +31,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Request easily, with Axios](https://dev.to/samaghapour/request-easily-with-axios-5g3m)
 - [Dev.to/JS] [I wrote a new library for recording p5.js sketches](https://dev.to/tapioca24/i-wrote-a-new-library-for-recording-p5js-sketches-kim)
 - [Dev.to/JS] [how does javascript Promise work under the hood?](https://dev.to/samaghapour/how-does-javascript-promise-work-under-the-hood-4o4b)
-- [Dev.to/JS] [How to create a dApp with React &amp; Solidity on Ethereum Blockchain](https://dev.to/xamhans/how-to-create-a-dapp-with-react-solidity-on-ethereum-blockchain-1gg0)
+- [Dev.to/JS] [How to create a dApp with React &amp; Solidity on Ethereum Blockchain oft](https://dev.to/xamhans/how-to-create-a-dapp-with-react-solidity-on-ethereum-blockchain-1gg0)
 - [Dev.to/JS] [Weekly Digest 12/2022](https://dev.to/marcobiedermann/weekly-digest-122022-4cdo)
 - [Dev.to/JS] [A JavaScript journey: Introduction](https://dev.to/jpeg0507/a-javascript-journey-introduction-5c3p)
 - [Dev.to/JS] [DISPLAY A PDF FILE IN REACT APPLICATION WITHOUT ANY EXTRA PACKAGE.](https://dev.to/jonathz/display-a-pdf-file-in-react-application-without-any-extra-package-510f)
