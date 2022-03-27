@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the difference between Object.freeze&lpar;&rpar; and Object.seal&lpar;&rpar; in JavaScript?](https://dev.to/chalarangelo/what-is-the-difference-between-objectfreeze-and-objectseal-in-javascript-4eij)
+- [Dev.to/JS] [Simplify Using Hooks by Using Custom Hooks in React](https://dev.to/alfetta159/simplify-using-hooks-by-using-custom-hooks-in-react-4oa5)
+- [Dev.to/JS] [7 Helpful tools for frontend devs 🤯](https://dev.to/dhananjaywarade/7-helpful-tools-for-frontend-devs-26i1)
 - [Dev.to/JS] [StrictionD](https://dev.to/striction_d/strictiond-5h5l)
 - [Dev.to/JS] [oop in javascript! part1: prototype](https://dev.to/samaghapour/oop-in-javascript-part1-prototype-55ie)
 - [Dev.to/JS] [Understanding hoisting,scopes, and closures in JavaScript](https://dev.to/samaghapour/understanding-hoistingscopes-and-closures-in-javascript-3337)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 2: Getting started with the Frontend&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-2-getting-started-with-the-frontend-5e3i)
 - [Dev.to/JS] [learn React Lifecycle once and for all](https://dev.to/samaghapour/learn-react-lifecycle-once-and-for-all-dp4)
 - [Dev.to/JS] [Unit Testing Essentials for Express API: A Step-by-Step Guide](https://dev.to/rishabh570/unit-testing-essentials-for-express-api-a-step-by-step-guide-1m7i)
-- [Dev.to/JS] [Building a carousel component with TailwindCSS and Alpine.js](https://dev.to/druidmaciek/building-a-carousel-component-with-tailwindcss-and-alpinejs-19nj)
-- [Dev.to/JS] [How javaScript Asynchronous works under the hood?](https://dev.to/samaghapour/how-javascript-asynchronous-works-under-the-hood-hln)
-- [Dev.to/JS] [How I REACTO to Algos: Caesar Decipher](https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-decipher-33a8)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
