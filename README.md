@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Desktop UI alternative: Avernakis, no webview, native rendering](https://dev.to/mistlog/desktop-ui-alternative-avernakis-no-webview-native-rendering-5dc9)
+- [Dev.to/JS] [Prueba post](https://dev.to/jesvadtz/prueba-post-1801)
 - [Dev.to/JS] [My first Web3 page with IPFS](https://dev.to/yaozeliang/my-first-web3-page-with-ipfs-10o1)
 - [Dev.to/JS] [Workaround of [object Object]](https://dev.to/tsumuri1017/workaround-of-object-object-1mhn)
 - [Dev.to/JS] [object oriented programming in Javascript &lpar;part 1&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-1-g4n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New to this Dev](https://dev.to/goutham_aorroon/new-to-this-dev-1i8o)
 - [Dev.to/JS] [Using Mixpanel via proxy with Next.js rewrites](https://dev.to/rain2o/using-mixpanel-via-proxy-with-nextjs-rewrites-130e)
 - [Dev.to/JS] [Scope, Scope-Chain, and Lexical Environment in JavaScript](https://dev.to/sobitp59/scope-scope-chain-and-lexical-environment-in-javascript-37ji)
-- [Dev.to/JS] [Move zeroes](https://dev.to/vnaydev/move-zeroes-3o00)
-- [Dev.to/JS] [3 reasons why you should use Remix instead of Next.js](https://dev.to/alexandromtzg/3-reasons-why-you-should-use-remix-instead-of-nextjs-5554)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
