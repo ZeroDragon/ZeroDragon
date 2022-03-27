@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first Web3 page with IPFS](https://dev.to/yaozeliang/my-first-web3-page-with-ipfs-10o1)
+- [Dev.to/JS] [Workaround of [object Object]](https://dev.to/tsumuri1017/workaround-of-object-object-1mhn)
 - [Dev.to/JS] [object oriented programming in Javascript &lpar;part 1&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-1-g4n)
 - [Dev.to/JS] [Day 14 of 100 Days of Code](https://dev.to/nkemdev/day-14-of-100-days-of-code-4lkh)
 - [Dev.to/JS] [Single Page Application Routing Using Hash or URL](https://dev.to/thedevdrawer/single-page-application-routing-using-hash-or-url-9jh)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scope, Scope-Chain, and Lexical Environment in JavaScript](https://dev.to/sobitp59/scope-scope-chain-and-lexical-environment-in-javascript-37ji)
 - [Dev.to/JS] [Move zeroes](https://dev.to/vnaydev/move-zeroes-3o00)
 - [Dev.to/JS] [3 reasons why you should use Remix instead of Next.js](https://dev.to/alexandromtzg/3-reasons-why-you-should-use-remix-instead-of-nextjs-5554)
-- [Dev.to/JS] [Angular Advance topic List. please adds one if you have one.](https://dev.to/tauhidulislamt2/angular-advance-topic-list-please-adds-one-if-you-have-one-4k5a)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
-- [Dev.to/JS] [Chrome Extensions you should add them to your arsenal now !](https://dev.to/ayoub3bidi/chrome-extensions-you-should-add-them-to-your-arsenal-now--2p87)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
