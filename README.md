@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Hooks](https://dev.to/samaghapour/react-hooks-26p0)
+- [Dev.to/JS] [DevSahaaya: Resources for Javascript Developers](https://dev.to/ranganathmd/devsahaaya-resources-for-javascript-developers-3pjm)
 - [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 2: Getting started with the Frontend&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-2-getting-started-with-the-frontend-5e3i)
 - [Dev.to/JS] [learn React Lifecycle once and for all](https://dev.to/samaghapour/learn-react-lifecycle-once-and-for-all-dp4)
 - [Dev.to/JS] [Unit Testing Essentials for Express API: A Step-by-Step Guide](https://dev.to/rishabh570/unit-testing-essentials-for-express-api-a-step-by-step-guide-1m7i)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend Internship Interview Experience](https://dev.to/ashutoshdash/frontend-internship-interview-experience-3a7i)
 - [Dev.to/JS] [Multi-step form with Formik and yup lib](https://dev.to/mdmohsinghazi1/multi-step-form-with-formik-and-yup-lib-2c4b)
 - [Dev.to/JS] [Desktop UI alternative: Avernakis, no webview, native rendering](https://dev.to/mistlog/desktop-ui-alternative-avernakis-no-webview-native-rendering-5dc9)
-- [Dev.to/JS] [Prueba post](https://dev.to/jesvadtz/prueba-post-1801)
-- [Dev.to/JS] [My first Web3 page with IPFS](https://dev.to/yaozeliang/my-first-web3-page-with-ipfs-10o1)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
