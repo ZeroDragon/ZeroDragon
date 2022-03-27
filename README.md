@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [oop in javascript! part1: prototype](https://dev.to/samaghapour/oop-in-javascript-part1-prototype-55ie)
 - [Dev.to/JS] [Understanding hoisting,scopes, and closures in JavaScript](https://dev.to/samaghapour/understanding-hoistingscopes-and-closures-in-javascript-3337)
 - [Dev.to/JS] [Redux is easier than you think!](https://dev.to/samaghapour/redux-is-easier-than-you-think-1i0p)
 - [Dev.to/JS] [React Hooks](https://dev.to/samaghapour/react-hooks-26p0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How javaScript Asynchronous works under the hood?](https://dev.to/samaghapour/how-javascript-asynchronous-works-under-the-hood-hln)
 - [Dev.to/JS] [How I REACTO to Algos: Caesar Decipher](https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-decipher-33a8)
 - [Dev.to/JS] [Video thumbnails generate with vanilla JS, ReactJS. Like YouTube](https://dev.to/rajeshroyal/video-thumbnails-generate-with-vanilla-js-reactjs-like-youtube-3ok8)
-- [Dev.to/JS] [Frontend Internship Interview Experience](https://dev.to/ashutoshdash/frontend-internship-interview-experience-3a7i)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
