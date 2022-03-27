@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 - Temas en modo oscuro para Visual Studio Code](https://dev.to/hebertdev/top-5-temas-en-modo-oscuro-para-visual-studio-code-1i1n)
+- [Dev.to/JS] [🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-3of6)
+- [Dev.to/JS] [Why Use React Native for Your Mobile App?](https://dev.to/stx-next/why-use-react-native-for-your-mobile-app-h6)
 - [Dev.to/JS] [Signals : A Simple Stock Market App](https://dev.to/nickmendez/signals-a-simple-stock-market-app-1b5g)
 - [Dev.to/JS] [object oriented programming in Javascript &lpar;part 2&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-2-22ce)
 - [Dev.to/JS] [Auto Regex Generator / Builder](https://dev.to/uiwebkit/auto-regex-generator-builder-57l7)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript to check all and uncheck all](https://dev.to/bhaggu/javascript-to-check-all-and-uncheck-all-1n7p)
 - [Dev.to/JS] [How RuneScape Helped Me Understand Scope](https://dev.to/sporkmeister/how-runescape-helped-me-understand-scope-4mmf)
 - [Dev.to/JS] [JavaScript Synchronous OR Asynchronous ?](https://dev.to/diaaibrahiem/javascript-synchronous-or-asynchronous--42kp)
-- [Dev.to/JS] [Short API GET using HTML, JS and Axios](https://dev.to/afpaiva/short-api-get-using-html-js-and-axios-3n8n)
-- [Dev.to/JS] [Request easily, with Axios](https://dev.to/samaghapour/request-easily-with-axios-5g3m)
-- [Dev.to/JS] [I wrote a new library for recording p5.js sketches](https://dev.to/tapioca24/i-wrote-a-new-library-for-recording-p5js-sketches-kim)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
