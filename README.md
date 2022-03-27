@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding hoisting,scopes, and closures in JavaScript](https://dev.to/samaghapour/understanding-hoistingscopes-and-closures-in-javascript-3337)
+- [Dev.to/JS] [Redux is easier than you think!](https://dev.to/samaghapour/redux-is-easier-than-you-think-1i0p)
 - [Dev.to/JS] [React Hooks](https://dev.to/samaghapour/react-hooks-26p0)
 - [Dev.to/JS] [DevSahaaya: Resources for Javascript Developers](https://dev.to/ranganathmd/devsahaaya-resources-for-javascript-developers-3pjm)
 - [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 2: Getting started with the Frontend&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-2-getting-started-with-the-frontend-5e3i)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I REACTO to Algos: Caesar Decipher](https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-decipher-33a8)
 - [Dev.to/JS] [Video thumbnails generate with vanilla JS, ReactJS. Like YouTube](https://dev.to/rajeshroyal/video-thumbnails-generate-with-vanilla-js-reactjs-like-youtube-3ok8)
 - [Dev.to/JS] [Frontend Internship Interview Experience](https://dev.to/ashutoshdash/frontend-internship-interview-experience-3a7i)
-- [Dev.to/JS] [Multi-step form with Formik and yup lib](https://dev.to/mdmohsinghazi1/multi-step-form-with-formik-and-yup-lib-2c4b)
-- [Dev.to/JS] [Desktop UI alternative: Avernakis, no webview, native rendering](https://dev.to/mistlog/desktop-ui-alternative-avernakis-no-webview-native-rendering-5dc9)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
