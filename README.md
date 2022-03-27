@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [how does javascript Promise work under the hood?](https://dev.to/samaghapour/how-does-javascript-promise-work-under-the-hood-4o4b)
+- [Dev.to/JS] [How to create a dApp with React &amp; Solidity on Ethereum Blockchain](https://dev.to/xamhans/how-to-create-a-dapp-with-react-solidity-on-ethereum-blockchain-1gg0)
+- [Dev.to/JS] [Weekly Digest 12/2022](https://dev.to/marcobiedermann/weekly-digest-122022-4cdo)
 - [Dev.to/JS] [A JavaScript journey: Introduction](https://dev.to/jpeg0507/a-javascript-journey-introduction-5c3p)
 - [Dev.to/JS] [DISPLAY A PDF FILE IN REACT APPLICATION WITHOUT ANY EXTRA PACKAGE.](https://dev.to/jonathz/display-a-pdf-file-in-react-application-without-any-extra-package-510f)
 - [Dev.to/JS] [oop in javascript! part2:4 pillars of oop](https://dev.to/samaghapour/oop-in-javascript-part24-pillars-of-oop-1lfp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [oop in javascript! part1: prototype](https://dev.to/samaghapour/oop-in-javascript-part1-prototype-55ie)
 - [Dev.to/JS] [Understanding hoisting,scopes, and closures in JavaScript](https://dev.to/samaghapour/understanding-hoistingscopes-and-closures-in-javascript-3337)
 - [Dev.to/JS] [Redux is easier than you think!](https://dev.to/samaghapour/redux-is-easier-than-you-think-1i0p)
-- [Dev.to/JS] [React Hooks](https://dev.to/samaghapour/react-hooks-26p0)
-- [Dev.to/JS] [DevSahaaya: Resources for Javascript Developers](https://dev.to/ranganathmd/devsahaaya-resources-for-javascript-developers-3pjm)
-- [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 2: Getting started with the Frontend&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-2-getting-started-with-the-frontend-5e3i)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
