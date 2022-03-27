@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 2: Getting started with the Frontend&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-2-getting-started-with-the-frontend-5e3i)
+- [Dev.to/JS] [learn React Lifecycle once and for all](https://dev.to/samaghapour/learn-react-lifecycle-once-and-for-all-dp4)
+- [Dev.to/JS] [Unit Testing Essentials for Express API: A Step-by-Step Guide](https://dev.to/rishabh570/unit-testing-essentials-for-express-api-a-step-by-step-guide-1m7i)
+- [Dev.to/JS] [Building a carousel component with TailwindCSS and Alpine.js](https://dev.to/druidmaciek/building-a-carousel-component-with-tailwindcss-and-alpinejs-19nj)
 - [Dev.to/JS] [How javaScript Asynchronous works under the hood?](https://dev.to/samaghapour/how-javascript-asynchronous-works-under-the-hood-hln)
 - [Dev.to/JS] [How I REACTO to Algos: Caesar Decipher](https://dev.to/amhernandez/how-i-reacto-to-algos-caesar-decipher-33a8)
 - [Dev.to/JS] [Video thumbnails generate with vanilla JS, ReactJS. Like YouTube](https://dev.to/rajeshroyal/video-thumbnails-generate-with-vanilla-js-reactjs-like-youtube-3ok8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Desktop UI alternative: Avernakis, no webview, native rendering](https://dev.to/mistlog/desktop-ui-alternative-avernakis-no-webview-native-rendering-5dc9)
 - [Dev.to/JS] [Prueba post](https://dev.to/jesvadtz/prueba-post-1801)
 - [Dev.to/JS] [My first Web3 page with IPFS](https://dev.to/yaozeliang/my-first-web3-page-with-ipfs-10o1)
-- [Dev.to/JS] [Workaround of [object Object]](https://dev.to/tsumuri1017/workaround-of-object-object-1mhn)
-- [Dev.to/JS] [object oriented programming in Javascript &lpar;part 1&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-1-g4n)
-- [Dev.to/JS] [Day 14 of 100 Days of Code](https://dev.to/nkemdev/day-14-of-100-days-of-code-4lkh)
-- [Dev.to/JS] [Single Page Application Routing Using Hash or URL](https://dev.to/thedevdrawer/single-page-application-routing-using-hash-or-url-9jh)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
