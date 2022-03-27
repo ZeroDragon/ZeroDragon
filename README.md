@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Short API GET using HTML, JS and Axios](https://dev.to/afpaiva/short-api-get-using-html-js-and-axios-3n8n)
+- [Dev.to/JS] [Request easily, with Axios](https://dev.to/samaghapour/request-easily-with-axios-5g3m)
+- [Dev.to/JS] [I wrote a new library for recording p5.js sketches](https://dev.to/tapioca24/i-wrote-a-new-library-for-recording-p5js-sketches-kim)
 - [Dev.to/JS] [how does javascript Promise work under the hood?](https://dev.to/samaghapour/how-does-javascript-promise-work-under-the-hood-4o4b)
 - [Dev.to/JS] [How to create a dApp with React &amp; Solidity on Ethereum Blockchain](https://dev.to/xamhans/how-to-create-a-dapp-with-react-solidity-on-ethereum-blockchain-1gg0)
 - [Dev.to/JS] [Weekly Digest 12/2022](https://dev.to/marcobiedermann/weekly-digest-122022-4cdo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the difference between Object.freeze&lpar;&rpar; and Object.seal&lpar;&rpar; in JavaScript?](https://dev.to/chalarangelo/what-is-the-difference-between-objectfreeze-and-objectseal-in-javascript-4eij)
 - [Dev.to/JS] [Simplify Using Hooks by Using Custom Hooks in React](https://dev.to/alfetta159/simplify-using-hooks-by-using-custom-hooks-in-react-4oa5)
 - [Dev.to/JS] [7 Helpful tools for frontend devs 🤯](https://dev.to/dhananjaywarade/7-helpful-tools-for-frontend-devs-26i1)
-- [Dev.to/JS] [oop in javascript! part1: prototype](https://dev.to/samaghapour/oop-in-javascript-part1-prototype-55ie)
-- [Dev.to/JS] [Understanding hoisting,scopes, and closures in JavaScript](https://dev.to/samaghapour/understanding-hoistingscopes-and-closures-in-javascript-3337)
-- [Dev.to/JS] [Redux is easier than you think!](https://dev.to/samaghapour/redux-is-easier-than-you-think-1i0p)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
