@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Frontend Internship Interview Experience](https://dev.to/ashutoshdash/frontend-internship-interview-experience-3a7i)
+- [Dev.to/JS] [Multi-step form with Formik and yup lib](https://dev.to/mdmohsinghazi1/multi-step-form-with-formik-and-yup-lib-2c4b)
 - [Dev.to/JS] [Desktop UI alternative: Avernakis, no webview, native rendering](https://dev.to/mistlog/desktop-ui-alternative-avernakis-no-webview-native-rendering-5dc9)
 - [Dev.to/JS] [Prueba post](https://dev.to/jesvadtz/prueba-post-1801)
 - [Dev.to/JS] [My first Web3 page with IPFS](https://dev.to/yaozeliang/my-first-web3-page-with-ipfs-10o1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unlocking the frontend - a call for standardizing component APIs pt.1](https://dev.to/kickstartds/unlocking-the-frontend-a-call-for-standardizing-component-apis-pt1-26p9)
 - [Dev.to/JS] [How to Create Bullseye Chart with JS — Visualizing COVID-19 Vaccine Pipeline](https://dev.to/andreykh1985/how-to-create-bullseye-chart-with-js-visualizing-covid-19-vaccine-pipeline-2f3m)
 - [Dev.to/JS] [New to this Dev](https://dev.to/goutham_aorroon/new-to-this-dev-1i8o)
-- [Dev.to/JS] [Using Mixpanel via proxy with Next.js rewrites](https://dev.to/rain2o/using-mixpanel-via-proxy-with-nextjs-rewrites-130e)
-- [Dev.to/JS] [Scope, Scope-Chain, and Lexical Environment in JavaScript](https://dev.to/sobitp59/scope-scope-chain-and-lexical-environment-in-javascript-37ji)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
