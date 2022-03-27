@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Signals : A Simple Stock Market App](https://dev.to/nickmendez/signals-a-simple-stock-market-app-1b5g)
+- [Dev.to/JS] [object oriented programming in Javascript &lpar;part 2&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-2-22ce)
 - [Dev.to/JS] [Auto Regex Generator / Builder](https://dev.to/uiwebkit/auto-regex-generator-builder-57l7)
 - [Dev.to/JS] [Projen - External Project Types](https://dev.to/aws-builders/projen-external-project-types-je)
 - [Dev.to/JS] [Learn All About MDN Web Doc&#39;s Newly Redesigned Website](https://dev.to/exceptionalprogramming/learn-all-about-mdn-web-docs-newly-redesigned-website-32nc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Short API GET using HTML, JS and Axios](https://dev.to/afpaiva/short-api-get-using-html-js-and-axios-3n8n)
 - [Dev.to/JS] [Request easily, with Axios](https://dev.to/samaghapour/request-easily-with-axios-5g3m)
 - [Dev.to/JS] [I wrote a new library for recording p5.js sketches](https://dev.to/tapioca24/i-wrote-a-new-library-for-recording-p5js-sketches-kim)
-- [Dev.to/JS] [how does javascript Promise work under the hood?](https://dev.to/samaghapour/how-does-javascript-promise-work-under-the-hood-4o4b)
-- [Dev.to/JS] [How to create a dApp with React &amp; Solidity on Ethereum Blockchain oft](https://dev.to/xamhans/how-to-create-a-dapp-with-react-solidity-on-ethereum-blockchain-1gg0)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
