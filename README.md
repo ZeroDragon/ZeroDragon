@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [28 Javascript Array Hacks: A Cheat Sheet for Developer](https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769)
+- [Dev.to/JS] [90 % of Javascript Developer fail to answer these code snippets &lpar;Asked in Interview&rpar; Part-1](https://dev.to/braincuber_technologies/90-of-javascript-developer-fail-to-answer-these-code-snippets-asked-in-interview-part-1-3561)
 - [Dev.to/JS] [Laravel 8 Logout Other Devices after Login](https://dev.to/codeanddeploy/laravel-8-logout-other-devices-after-login-2nne)
 - [Dev.to/JS] [Change Text Color Based On Background Color Using Javascript](https://dev.to/techsolutionstuff/change-text-color-based-on-background-color-using-javascript-1e7a)
 - [Dev.to/JS] [Scaling up express js performance](https://dev.to/developertom01/scaling-up-express-js-performance-331n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Signals : A Simple Stock Market App](https://dev.to/nickmendez/signals-a-simple-stock-market-app-1b5g)
 - [Dev.to/JS] [object oriented programming in Javascript &lpar;part 2&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-2-22ce)
 - [Dev.to/JS] [Creating a forum with React and Appwrite – Part 1](https://dev.to/swinkid/creating-a-forum-with-react-and-appwrite-part-1-3jm)
-- [Dev.to/JS] [Auto Regex Generator / Builder](https://dev.to/uiwebkit/auto-regex-generator-builder-57l7)
-- [Dev.to/JS] [Projen - External Project Types](https://dev.to/aws-builders/projen-external-project-types-je)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
