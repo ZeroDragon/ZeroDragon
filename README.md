@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Difference between the Event Loop in Browser and Node Js?](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113)
 - [Dev.to/JS] [7 Useful Tools for Developers in 2022](https://dev.to/jsstackdevelopers/7-useful-tools-for-developers-in-2022-5ib)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Dev.to/JS] [Implementing array methods on a linked list](https://dev.to/solexy/implementing-array-methods-on-a-linked-list-1ejo)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Started learning React js today !](https://dev.to/shrey802/started-learning-react-js-today--510m)
 - [Lifehacker] [What Is &#39;Dopamine Dressing,&#39; and Can It Really Make You Happier?](https://lifehacker.com/what-is-dopamine-dressing-and-can-it-really-make-you-h-1848708672)
 - [Dev.to/JS] [How to Detect User Location using Javascript](https://dev.to/incoderweb/how-to-detect-user-location-using-javascript-241m)
-- [Dev.to/JS] [Amplication &amp; React: Create the App](https://dev.to/amplication/amplication-react-create-the-app-4977)
 - [Lifehacker] [5 Ways to Live Your Best Life While Living Alone](https://lifehacker.com/5-ways-to-live-your-best-life-while-living-alone-1848712072)
 - [Lifehacker] [How to Take a Hit](https://lifehacker.com/how-to-take-a-hit-1848713085)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When You&#39;re Seated Next to a Jerk on a Flight](https://lifehacker.com/what-to-do-and-not-do-when-youre-seated-next-to-an-as-1848712457)
