@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scaling up express js performance](https://dev.to/developertom01/scaling-up-express-js-performance-331n)
 - [Dev.to/JS] [Neural Networks Explained in 40 Seconds](https://dev.to/jsstackdevelopers/neural-networks-explained-in-40-seconds-3oj4)
 - [Dev.to/JS] [Top 5 - Temas en modo oscuro para Visual Studio Code](https://dev.to/hebertdev/top-5-temas-en-modo-oscuro-para-visual-studio-code-1i1n)
 - [Dev.to/JS] [🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-3of6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Projen - External Project Types](https://dev.to/aws-builders/projen-external-project-types-je)
 - [Dev.to/JS] [Learn All About MDN Web Doc&#39;s Newly Redesigned Website](https://dev.to/exceptionalprogramming/learn-all-about-mdn-web-docs-newly-redesigned-website-32nc)
 - [Dev.to/JS] [MERN Stack Developer &lpar;MSD&rpar; Roadmap.](https://dev.to/oricohen/mern-stack-developer-msd-roadmap-l5e)
-- [Dev.to/JS] [Javascript to check all and uncheck all](https://dev.to/bhaggu/javascript-to-check-all-and-uncheck-all-1n7p)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
