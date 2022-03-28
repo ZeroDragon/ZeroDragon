@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Useful Tools for Developers in 2022](https://dev.to/jsstackdevelopers/7-useful-tools-for-developers-in-2022-5ib)
+- [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
+- [Dev.to/JS] [Implementing array methods on a linked list](https://dev.to/solexy/implementing-array-methods-on-a-linked-list-1ejo)
+- [Dev.to/JS] [What is browser fingerprinting and why should you integrate with your website?](https://dev.to/emmanuelthecoder/what-is-browser-fingerprinting-and-why-you-should-integrate-it-to-your-website-5hi)
+- [Dev.to/JS] [Using a Hook in a Class Component](https://dev.to/nickytonline/using-a-hook-in-a-class-component-3eh2)
+- [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Dev.to/JS] [Interesting Next.js Questions](https://dev.to/antonkiiko/interesting-nextjs-questions-3i1b)
 - [Dev.to/JS] [Array Cheatsheet in JavaScript🚀](https://dev.to/tejendrasrajawat/array-cheatsheet-in-javascript-7md)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is &#39;Dopamine Dressing,&#39; and Can It Really Make You Happier?](https://lifehacker.com/what-is-dopamine-dressing-and-can-it-really-make-you-h-1848708672)
 - [Dev.to/JS] [How to Detect User Location using Javascript](https://dev.to/incoderweb/how-to-detect-user-location-using-javascript-241m)
 - [Dev.to/JS] [Amplication &amp; React: Create the App](https://dev.to/amplication/amplication-react-create-the-app-4977)
-- [Dev.to/JS] [Typescript Tips from Matt Pocock](https://dev.to/loganarnett/typescript-tips-from-matt-pocock-p11)
-- [Dev.to/JS] [😯I built WORDLE in my Mother Tongue 👅](https://dev.to/therobinhood/i-built-wordle-in-my-mother-tongue-5cee)
 - [Lifehacker] [5 Ways to Live Your Best Life While Living Alone](https://lifehacker.com/5-ways-to-live-your-best-life-while-living-alone-1848712072)
-- [Dev.to/JS] [Voximplant Avatar: An AI chat and voice robot for you](https://dev.to/followmyutopia/voximplant-avatar-an-ai-chat-and-voice-robot-for-you-5ci6)
-- [Dev.to/JS] [Web Components 101: Lit Framework](https://dev.to/this-is-learning/web-components-101-lit-framework-3en1)
 - [Lifehacker] [How to Take a Hit](https://lifehacker.com/how-to-take-a-hit-1848713085)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When You&#39;re Seated Next to a Jerk on a Flight](https://lifehacker.com/what-to-do-and-not-do-when-youre-seated-next-to-an-as-1848712457)
 - [Lifehacker] [You Should Update Chrome and Edge ASAP](https://lifehacker.com/you-should-update-chrome-and-edge-asap-1848712496)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [19 of the Easiest Flowers to Grow From Seeds &lpar;for People Who Always Kill Plants&rpar;](https://lifehacker.com/19-of-the-easiest-flowers-to-grow-from-seeds-for-peopl-1848703832)
 - [Lifehacker] [How to &lpar;Finally&rpar; Switch to a Chronological Feed on Instagram](https://lifehacker.com/how-to-finally-switch-to-a-chronological-feed-on-inst-1848703870)
 - [Lifehacker] [This Wordle Clone Might Just Be the Most Challenging Yet](https://lifehacker.com/this-wordle-clone-might-just-be-the-most-challenging-ye-1848703543)
-- [Lifehacker] [15 Oscar-Winning Animated Shorts Under 15 Minutes Long &lpar;and Where to Watch Them&rpar;](https://lifehacker.com/15-oscar-winning-animated-shorts-under-15-minutes-long-1848699544)
-- [Lifehacker] [Why the Water From Your Fridge Tastes Funky &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-the-water-from-your-fridge-tastes-funky-and-how-to-1848700069)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)<!-- TECH-POSTS:END -->
 
