@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React, Vue and Svelte: Comparing TypeScript syntax](https://dev.to/ccreusat/react-vue-and-svelte-comparing-typescript-syntax-2j49)
+- [Dev.to/JS] [React, Vue and Svelte: Comparing Structure Components](https://dev.to/ccreusat/react-vue-and-svelte-comparing-structure-components-3b9i)
+- [Dev.to/JS] [Remix vs. Next.js: A Detailed Comparison](https://dev.to/braincuber_technologies/remix-vs-nextjs-a-detailed-comparison-2ogg)
+- [Dev.to/JS] [Create a Contact Form with Node, Express, Nodemailer, and TailwindCSS.](https://dev.to/kunalkeshan/create-a-contact-form-with-node-express-nodemailer-and-tailwindcss-4j5c)
+- [Dev.to/JS] [Pagination with express and mongoose](https://dev.to/hakimraissi/pagination-with-express-and-mongoose-pnh)
+- [Dev.to/JS] [React, Vue and Svelte: Comparing the basics - Part 7](https://dev.to/ccreusat/react-vue-and-svelte-comparing-the-basics-part-7-1m1p)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Dev.to/JS] [Hoisting in javascript](https://dev.to/fotiecodes/hoisting-in-javascript-1pk4)
 - [Dev.to/JS] [React Native: Boilerplates overview](https://dev.to/andrehatlo/react-native-boilerplates-overview-552g)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript syntax summary](https://dev.to/andrehatlo/typescript-syntax-summary-2a4g)
 - [Dev.to/JS] [How to Create a Custom Dynamic Middleware for Spatie Laravel Permission](https://dev.to/codeanddeploy/how-to-create-a-custom-dynamic-middleware-for-spatie-laravel-permission-2a08)
 - [Dev.to/JS] [Jquery Table Check All Plugin](https://dev.to/codeanddeploy/jquery-table-check-all-plugin-ach)
-- [Dev.to/JS] [JavaScript 3D project](https://dev.to/freebeliever/javascript-3d-project-enh)
-- [Dev.to/JS] [Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL](https://dev.to/tyaga001/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql-20nm)
-- [Dev.to/JS] [Advanced Appetite Fat Burner Reviews - &lpar;Pros and Cons&rpar; Is It Scam Or Legit?](https://dev.to/advancedappetitefatburner/advanced-appetite-fat-burner-reviews-pros-and-cons-is-it-scam-or-legit-543c)
-- [Dev.to/JS] [JavaScript .call&lpar;&rpar; .apply&lpar;&rpar; .bind&lpar;&rpar; simplified.](https://dev.to/azmy60/javascript-call-apply-bind-simplified-5d14)
-- [Dev.to/JS] [Laravel 8 - How To Get Routes in Controller](https://dev.to/codeanddeploy/laravel-8-how-to-get-routes-in-controller-16bi)
-- [Dev.to/JS] [Laravel 8 Pagination Example using Bootstrap 5](https://dev.to/codeanddeploy/laravel-8-pagination-example-using-bootstrap-5-243h)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
