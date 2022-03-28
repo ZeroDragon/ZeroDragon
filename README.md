@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel 8 Logout Other Devices after Login](https://dev.to/codeanddeploy/laravel-8-logout-other-devices-after-login-2nne)
 - [Dev.to/JS] [Change Text Color Based On Background Color Using Javascript](https://dev.to/techsolutionstuff/change-text-color-based-on-background-color-using-javascript-1e7a)
 - [Dev.to/JS] [Scaling up express js performance](https://dev.to/developertom01/scaling-up-express-js-performance-331n)
 - [Dev.to/JS] [Neural Networks Explained in 40 Seconds](https://dev.to/jsstackdevelopers/neural-networks-explained-in-40-seconds-3oj4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a forum with React and Appwrite – Part 1](https://dev.to/swinkid/creating-a-forum-with-react-and-appwrite-part-1-3jm)
 - [Dev.to/JS] [Auto Regex Generator / Builder](https://dev.to/uiwebkit/auto-regex-generator-builder-57l7)
 - [Dev.to/JS] [Projen - External Project Types](https://dev.to/aws-builders/projen-external-project-types-je)
-- [Dev.to/JS] [Learn All About MDN Web Doc&#39;s Newly Redesigned Website](https://dev.to/exceptionalprogramming/learn-all-about-mdn-web-docs-newly-redesigned-website-32nc)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
