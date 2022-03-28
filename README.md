@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Monitoring GraphQL APIs with OpenTelemetry](https://dev.to/signoz/monitoring-graphql-apis-with-opentelemetry-572p)
+- [Lifehacker] [An Age-by-Age Guide to Why Kids Lie &lpar;and What to Do About It&rpar;](https://lifehacker.com/an-age-by-age-guide-to-why-kids-lie-and-what-to-do-abo-1848643184)
+- [Dev.to/JS] [How has JavaScript development changed over the last decade?](https://dev.to/ben/how-has-javascript-development-changed-over-the-last-decade-a4)
+- [Dev.to/JS] [How to make a beautiful liquid animation in a tap bar menu using css and javascript](https://dev.to/romaopedro199/how-to-make-a-beautiful-liquid-animation-in-a-tap-bar-menu-using-css-and-javascript-44ek)
+- [Dev.to/JS] [Creating a simple but intelligent ChatBot with Open-AI](https://dev.to/sunflowertoadtheorbiter/creating-a-simple-but-intelligent-chatbot-with-open-ai-3kph)
+- [Dev.to/JS] [The right way to use LocalStorage in JavaScript](https://dev.to/anshuman_bhardwaj/the-right-way-to-use-localstorage-in-javascript-41a0)
+- [Dev.to/JS] [How to send an image from Unsplash to IPFS?](https://dev.to/raufsamestone/how-to-send-an-image-from-unsplash-to-ipfs-2e7a)
 - [Dev.to/JS] [Do mocha tests run in parallel? JavaScript Test Automation Tutorial | Part V](https://dev.to/lambdatest/do-mocha-tests-run-in-parallel-javascript-test-automation-tutorial-part-v-5eg4)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🏀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-53l0)
 - [Dev.to/JS] [useEffect Hook: Dependency Array Cheatsheet](https://dev.to/christiankozalla/useeffect-hook-dependency-array-cheatsheet-1927)
 - [Dev.to/JS] [What is DeFi? Decentralized Finance in layman’s terms](https://dev.to/nonstack/what-is-defi-decentralized-finance-in-laymans-terms-2h61)
 - [Dev.to/JS] [I need help with Next.js api](https://dev.to/ivkemilioner/i-need-help-with-nextjs-api-3bih)
 - [Dev.to/JS] [How to automatically compile Typescript files to Javascript files and run the Nodejs server automatically](https://dev.to/codarbind/how-to-automatically-compile-typescript-files-to-javascript-files-and-run-the-nodejs-server-automatically-4n54)
-- [Dev.to/JS] [How to do you preserve directory structure when creating a TS library?](https://dev.to/kishorshresthagithub/how-to-do-you-preserve-directory-structure-when-creating-a-ts-library-1kgl)
-- [Dev.to/JS] [Why Fundamental Matters?](https://dev.to/yehezkielgunawan/why-fundamental-matters-2g2a)
-- [Dev.to/JS] [A Simple Guide to Heaps, Stacks, References and Values in Javascript](https://dev.to/smpnjn/a-simple-guide-to-heaps-stacks-references-and-values-in-javascript-1fj)
-- [Dev.to/JS] [React, Vue and Svelte: Comparing State Management tools](https://dev.to/ccreusat/react-vue-and-svelte-comparing-state-management-tools-13ln)
-- [Dev.to/JS] [React, Vue and Svelte: Comparing Data Rendering](https://dev.to/ccreusat/react-vue-and-svelte-comparing-data-rendering-1f95)
-- [Dev.to/JS] [React, Vue and Svelte: Comparing destructuring Props](https://dev.to/ccreusat/react-vue-and-svelte-comparing-destructuring-props-29c7)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [17 of the Trickiest Ways Restaurants Get You to Spend More &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/17-of-the-trickiest-ways-restaurants-get-you-to-spend-m-1848697711)
 - [Lifehacker] [How to Treat Your Kid’s Cuts and Bruises Quickly, According to a Boxing Cutman](https://lifehacker.com/how-to-treat-your-kid-s-cuts-and-bruises-quickly-accor-1848697632)
 - [Lifehacker] [How to Install a ‘Shade Sail’ in Your Backyard &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-install-a-shade-sail-in-your-backyard-and-why-1848689998)
-- [Lifehacker] [12 Easy Garden Plants That Are Actually Worth Growing](https://lifehacker.com/12-easy-garden-plants-that-are-actually-worth-growing-1848697407)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)<!-- TECH-POSTS:END -->
 
 ---
