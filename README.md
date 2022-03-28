@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GAS の UrlFetchApp で Slack API の conversations.list で全てのチャンネルリストを取得する](https://dev.to/kaede_io/gas-no-urlfetchapp-de-slack-api-no-conversationslist-dequan-tenotiyannerurisutowoqu-de-suru-2l2b)
+- [Dev.to/JS] [Creating a forum with React and Appwrite – Part 2](https://dev.to/swinkid/creating-a-forum-with-react-and-appwrite-part-2-498b)
+- [Dev.to/JS] [Looking for Feedback](https://dev.to/biccsdev/looking-for-feedback-3kbf)
+- [Dev.to/JS] [How to implement Google Authentication with NextJS and Passport.](https://dev.to/ayo_tech/how-to-implement-google-authentication-with-nextjs-and-passport-2gji)
 - [Dev.to/JS] [Difference between the Event Loop in Browser and Node Js?](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113)
 - [Dev.to/JS] [7 Useful Tools for Developers in 2022](https://dev.to/jsstackdevelopers/7-useful-tools-for-developers-in-2022-5ib)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
@@ -35,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
 - [Dev.to/JS] [Coding Space Invaders in JavaScript Complete Tutorial Every Step Explained with HTML5 Canvas](https://dev.to/codingwithadam/coding-space-invaders-in-javascript-complete-tutorial-every-step-explained-with-html5-canvas-45ja)
 - [Lifehacker] [How to DIY an Inexpensive but Beautiful Garden Path](https://lifehacker.com/how-to-diy-an-inexpensive-but-beautiful-garden-path-1848710858)
-- [Dev.to/JS] [Easy Websockets testing](https://dev.to/wissance/easy-websockets-testing-3d1d)
-- [Dev.to/JS] [object oriented programming in Javascript &lpar;part 3&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-3-5gh7)
-- [Dev.to/JS] [Started learning React js today !](https://dev.to/shrey802/started-learning-react-js-today--510m)
 - [Lifehacker] [What Is &#39;Dopamine Dressing,&#39; and Can It Really Make You Happier?](https://lifehacker.com/what-is-dopamine-dressing-and-can-it-really-make-you-h-1848708672)
-- [Dev.to/JS] [How to Detect User Location using Javascript](https://dev.to/incoderweb/how-to-detect-user-location-using-javascript-241m)
 - [Lifehacker] [5 Ways to Live Your Best Life While Living Alone](https://lifehacker.com/5-ways-to-live-your-best-life-while-living-alone-1848712072)
 - [Lifehacker] [How to Take a Hit](https://lifehacker.com/how-to-take-a-hit-1848713085)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When You&#39;re Seated Next to a Jerk on a Flight](https://lifehacker.com/what-to-do-and-not-do-when-youre-seated-next-to-an-as-1848712457)
