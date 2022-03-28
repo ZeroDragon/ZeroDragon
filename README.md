@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy Websockets testing](https://dev.to/wissance/easy-websockets-testing-3d1d)
+- [Dev.to/JS] [object oriented programming in Javascript &lpar;part 3&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-3-5gh7)
+- [Dev.to/JS] [Started learning React js today !](https://dev.to/shrey802/started-learning-react-js-today--510m)
+- [Lifehacker] [What Is &#39;Dopamine Dressing,&#39; and Can It Really Make You Happier?](https://lifehacker.com/what-is-dopamine-dressing-and-can-it-really-make-you-h-1848708672)
+- [Dev.to/JS] [How to Detect User Location using Javascript](https://dev.to/incoderweb/how-to-detect-user-location-using-javascript-241m)
+- [Dev.to/JS] [Amplication &amp; React: Create the App](https://dev.to/amplication/amplication-react-create-the-app-4977)
+- [Dev.to/JS] [Typescript Tips from Matt Pocock](https://dev.to/loganarnett/typescript-tips-from-matt-pocock-p11)
+- [Dev.to/JS] [😯I built WORDLE in my Mother Tongue 👅](https://dev.to/therobinhood/i-built-wordle-in-my-mother-tongue-5cee)
 - [Lifehacker] [5 Ways to Live Your Best Life While Living Alone](https://lifehacker.com/5-ways-to-live-your-best-life-while-living-alone-1848712072)
 - [Dev.to/JS] [Voximplant Avatar: An AI chat and voice robot for you](https://dev.to/followmyutopia/voximplant-avatar-an-ai-chat-and-voice-robot-for-you-5ci6)
 - [Dev.to/JS] [Web Components 101: Lit Framework](https://dev.to/this-is-learning/web-components-101-lit-framework-3en1)
@@ -32,16 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When You&#39;re Seated Next to a Jerk on a Flight](https://lifehacker.com/what-to-do-and-not-do-when-youre-seated-next-to-an-as-1848712457)
 - [Dev.to/JS] [What is Postman?!](https://dev.to/sheridan95/what-is-postman-iab)
 - [Lifehacker] [You Should Update Chrome and Edge ASAP](https://lifehacker.com/you-should-update-chrome-and-edge-asap-1848712496)
-- [Dev.to/JS] [Calculator: Learn How to build a modern Calculator using JavaScript](https://dev.to/kebean10/calculator-learn-how-to-build-a-modern-calculator-using-javascript-4dme)
 - [Lifehacker] [Clean Your Flower Pots Before Reusing Them &lpar;Without Hurting Your Plants&rpar;](https://lifehacker.com/clean-your-flower-pots-before-reusing-them-without-hur-1848708681)
-- [Dev.to/JS] [How to Build a Modern Image Slider with Swiper](https://dev.to/ubahthebuilder/how-to-build-a-modern-image-slider-with-swiper-2bje)
 - [Lifehacker] [How to Find and Report Asteroids Because Your Life Is Boring Otherwise](https://lifehacker.com/how-to-find-and-report-asteroids-because-your-life-is-b-1848708695)
-- [Dev.to/JS] [BlurImageLoading...](https://dev.to/shameerchagani/blurimageloading-13i1)
-- [Dev.to/JS] [Using Ionic Framework VS Code Extension To Add Capacitor To Vite ReactJS Project](https://dev.to/aaronksaunders/using-ionic-framework-vs-code-extension-to-add-capacitor-to-vite-reactjs-project-2799)
-- [Dev.to/JS] [Create reactive pages without any JavaScript!!](https://dev.to/dhravya/create-reactive-pages-without-any-javascript-6o7)
-- [Dev.to/JS] [Automated Accessibility Testing](https://dev.to/thawkin3/automated-accessibility-testing-5b93)
 - [Lifehacker] [You Can Get Rid of Windows Bloatware With One Command](https://lifehacker.com/you-can-get-rid-of-windows-bloatware-with-one-command-1848707156)
-- [Dev.to/JS] [Making your SSR sites 42x faster with Redis Cache](https://dev.to/smpnjn/making-your-ssr-sites-42x-faster-with-redis-cache-2he0)
 - [Lifehacker] [Make Your PC Games Easier &lpar;or Harder&rpar; With Cheat Engine](https://lifehacker.com/make-your-pc-games-easier-or-harder-with-cheat-engine-1848705091)
 - [Lifehacker] [An Age-by-Age Guide to Why Kids Lie &lpar;and What to Do About It&rpar;](https://lifehacker.com/an-age-by-age-guide-to-why-kids-lie-and-what-to-do-abo-1848643184)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the Water From Your Fridge Tastes Funky &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-the-water-from-your-fridge-tastes-funky-and-how-to-1848700069)
 - [Lifehacker] [I&#39;m Finally Stretching and I Kind of Like It?](https://lifehacker.com/im-finally-stretching-and-i-kind-of-like-it-1848700419)
 - [Lifehacker] [How to Talk Dirty in Bed Without Feeling Awkward](https://lifehacker.com/how-to-talk-dirty-in-bed-without-feeling-awkward-1848695864)
-- [Lifehacker] [Create a &#39;Career Search Action Plan&#39; Before You Look for a New Job](https://lifehacker.com/create-a-career-search-action-plan-before-you-look-for-1848700028)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)<!-- TECH-POSTS:END -->
 
