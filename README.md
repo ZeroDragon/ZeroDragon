@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Postman?!](https://dev.to/sheridan95/what-is-postman-iab)
+- [Lifehacker] [You Should Update Chrome and Edge ASAP](https://lifehacker.com/you-should-update-chrome-and-edge-asap-1848712496)
+- [Dev.to/JS] [Calculator: Learn How to build a modern Calculator using JavaScript](https://dev.to/kebean10/calculator-learn-how-to-build-a-modern-calculator-using-javascript-4dme)
+- [Lifehacker] [Clean Your Flower Pots Before Reusing Them &lpar;Without Hurting Your Plants&rpar;](https://lifehacker.com/clean-your-flower-pots-before-reusing-them-without-hur-1848708681)
 - [Dev.to/JS] [How to Build a Modern Image Slider with Swiper](https://dev.to/ubahthebuilder/how-to-build-a-modern-image-slider-with-swiper-2bje)
 - [Lifehacker] [How to Find and Report Asteroids Because Your Life Is Boring Otherwise](https://lifehacker.com/how-to-find-and-report-asteroids-because-your-life-is-b-1848708695)
 - [Dev.to/JS] [BlurImageLoading...](https://dev.to/shameerchagani/blurimageloading-13i1)
@@ -32,13 +36,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Rid of Windows Bloatware With One Command](https://lifehacker.com/you-can-get-rid-of-windows-bloatware-with-one-command-1848707156)
 - [Dev.to/JS] [Making your SSR sites 42x faster with Redis Cache](https://dev.to/smpnjn/making-your-ssr-sites-42x-faster-with-redis-cache-2he0)
 - [Dev.to/JS] [Free Remix SaaS kit for 24 hrs](https://dev.to/alexandromtzg/free-remix-saas-kit-for-24-hrs-2gf2)
+- [Dev.to/JS] [How to schedule tasks in more than 30 days in Google Cloud Tasks API?](https://dev.to/frenchcooc/how-to-schedule-tasks-in-more-than-30-days-in-google-cloud-tasks-api-35f)
 - [Dev.to/JS] [How to password protect any website?](https://dev.to/khokon/how-to-password-protect-any-website-2ej7)
 - [Lifehacker] [Make Your PC Games Easier &lpar;or Harder&rpar; With Cheat Engine](https://lifehacker.com/make-your-pc-games-easier-or-harder-with-cheat-engine-1848705091)
 - [Dev.to/JS] [Native lazy-loading - Why doesn&#39;t the video element have it?](https://dev.to/robole/native-lazy-loading-why-doesnt-the-video-element-have-it-4ono)
-- [Dev.to/JS] [Monitoring GraphQL APIs with OpenTelemetry](https://dev.to/signoz/monitoring-graphql-apis-with-opentelemetry-572p)
 - [Lifehacker] [An Age-by-Age Guide to Why Kids Lie &lpar;and What to Do About It&rpar;](https://lifehacker.com/an-age-by-age-guide-to-why-kids-lie-and-what-to-do-abo-1848643184)
-- [Dev.to/JS] [How has JavaScript development changed over the last decade?](https://dev.to/ben/how-has-javascript-development-changed-over-the-last-decade-a4)
-- [Dev.to/JS] [How to make a beautiful liquid animation in a tap bar menu using css and javascript](https://dev.to/romaopedro199/how-to-make-a-beautiful-liquid-animation-in-a-tap-bar-menu-using-css-and-javascript-44ek)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
 - [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
 - [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
-- [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
-- [Lifehacker] [How to Watch the 2022 Oscars](https://lifehacker.com/how-to-watch-the-2022-oscars-1848698955)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)<!-- TECH-POSTS:END -->
 
 ---
