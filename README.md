@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [5 Ways to Live Your Best Life While Living Alone](https://lifehacker.com/5-ways-to-live-your-best-life-while-living-alone-1848712072)
+- [Dev.to/JS] [Voximplant Avatar: An AI chat and voice robot for you](https://dev.to/followmyutopia/voximplant-avatar-an-ai-chat-and-voice-robot-for-you-5ci6)
+- [Dev.to/JS] [Web Components 101: Lit Framework](https://dev.to/this-is-learning/web-components-101-lit-framework-3en1)
+- [Lifehacker] [How to Take a Hit](https://lifehacker.com/how-to-take-a-hit-1848713085)
+- [Dev.to/JS] [SvelteKit Accessibility Testing: Automated CI A11y Tests](https://dev.to/askrodney/sveltekit-accessibility-testing-automated-ci-a11y-tests-11b2)
+- [Dev.to/JS] [WebAssembly in my Browser Desktop Environment](https://dev.to/dustinbrett/webassembly-in-my-browser-desktop-environment-3n06)
+- [Lifehacker] [What to Do &lpar;and Not Do&rpar; When You&#39;re Seated Next to a Jerk on a Flight](https://lifehacker.com/what-to-do-and-not-do-when-youre-seated-next-to-an-as-1848712457)
 - [Dev.to/JS] [What is Postman?!](https://dev.to/sheridan95/what-is-postman-iab)
 - [Lifehacker] [You Should Update Chrome and Edge ASAP](https://lifehacker.com/you-should-update-chrome-and-edge-asap-1848712496)
 - [Dev.to/JS] [Calculator: Learn How to build a modern Calculator using JavaScript](https://dev.to/kebean10/calculator-learn-how-to-build-a-modern-calculator-using-javascript-4dme)
@@ -35,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automated Accessibility Testing](https://dev.to/thawkin3/automated-accessibility-testing-5b93)
 - [Lifehacker] [You Can Get Rid of Windows Bloatware With One Command](https://lifehacker.com/you-can-get-rid-of-windows-bloatware-with-one-command-1848707156)
 - [Dev.to/JS] [Making your SSR sites 42x faster with Redis Cache](https://dev.to/smpnjn/making-your-ssr-sites-42x-faster-with-redis-cache-2he0)
-- [Dev.to/JS] [Free Remix SaaS kit for 24 hrs](https://dev.to/alexandromtzg/free-remix-saas-kit-for-24-hrs-2gf2)
-- [Dev.to/JS] [How to schedule tasks in more than 30 days in Google Cloud Tasks API?](https://dev.to/frenchcooc/how-to-schedule-tasks-in-more-than-30-days-in-google-cloud-tasks-api-35f)
-- [Dev.to/JS] [How to password protect any website?](https://dev.to/khokon/how-to-password-protect-any-website-2ej7)
 - [Lifehacker] [Make Your PC Games Easier &lpar;or Harder&rpar; With Cheat Engine](https://lifehacker.com/make-your-pc-games-easier-or-harder-with-cheat-engine-1848705091)
-- [Dev.to/JS] [Native lazy-loading - Why doesn&#39;t the video element have it?](https://dev.to/robole/native-lazy-loading-why-doesnt-the-video-element-have-it-4ono)
 - [Lifehacker] [An Age-by-Age Guide to Why Kids Lie &lpar;and What to Do About It&rpar;](https://lifehacker.com/an-age-by-age-guide-to-why-kids-lie-and-what-to-do-abo-1848643184)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
@@ -58,10 +61,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I&#39;m Finally Stretching and I Kind of Like It?](https://lifehacker.com/im-finally-stretching-and-i-kind-of-like-it-1848700419)
 - [Lifehacker] [How to Talk Dirty in Bed Without Feeling Awkward](https://lifehacker.com/how-to-talk-dirty-in-bed-without-feeling-awkward-1848695864)
 - [Lifehacker] [Create a &#39;Career Search Action Plan&#39; Before You Look for a New Job](https://lifehacker.com/create-a-career-search-action-plan-before-you-look-for-1848700028)
-- [Lifehacker] [32 of the Best, Most Memorable Movies Awards Acceptance Speeches Ever](https://lifehacker.com/32-of-the-best-most-memorable-movies-awards-acceptance-1848686670)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
-- [Lifehacker] [Why You Should Make a Packing List After Your Trip](https://lifehacker.com/why-you-should-make-a-packing-list-after-your-trip-1848699664)
-- [Lifehacker] [Is Gardening Really Cheaper Than Buying Fruits and Vegetables?](https://lifehacker.com/is-gardening-really-cheaper-than-buying-fruits-and-vege-1848698827)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)<!-- TECH-POSTS:END -->
 
 ---
