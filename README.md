@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting in javascript](https://dev.to/fotiecodes/hoisting-in-javascript-1pk4)
+- [Dev.to/JS] [React Native: Boilerplates overview](https://dev.to/andrehatlo/react-native-boilerplates-overview-552g)
+- [Dev.to/JS] [Why do I use Next.js in my projects](https://dev.to/sergchr/why-do-i-use-nextjs-in-my-projects-of8)
+- [Dev.to/JS] [TypeScript syntax summary](https://dev.to/andrehatlo/typescript-syntax-summary-2a4g)
 - [Dev.to/JS] [How to Create a Custom Dynamic Middleware for Spatie Laravel Permission](https://dev.to/codeanddeploy/how-to-create-a-custom-dynamic-middleware-for-spatie-laravel-permission-2a08)
 - [Dev.to/JS] [Jquery Table Check All Plugin](https://dev.to/codeanddeploy/jquery-table-check-all-plugin-ach)
 - [Dev.to/JS] [JavaScript 3D project](https://dev.to/freebeliever/javascript-3d-project-enh)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript .call&lpar;&rpar; .apply&lpar;&rpar; .bind&lpar;&rpar; simplified.](https://dev.to/azmy60/javascript-call-apply-bind-simplified-5d14)
 - [Dev.to/JS] [Laravel 8 - How To Get Routes in Controller](https://dev.to/codeanddeploy/laravel-8-how-to-get-routes-in-controller-16bi)
 - [Dev.to/JS] [Laravel 8 Pagination Example using Bootstrap 5](https://dev.to/codeanddeploy/laravel-8-pagination-example-using-bootstrap-5-243h)
-- [Dev.to/JS] [28 Javascript Array Hacks: A Cheat Sheet for Developer](https://dev.to/devsmitra/28-javascript-array-hacks-a-cheat-sheet-for-developer-5769)
-- [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 3: Setting up Redux &amp; Firebase Login&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-3-setting-up-redux-firebase-login-5ae)
-- [Dev.to/JS] [90 % of Javascript Developer fail to answer these code snippets &lpar;Asked in Interview&rpar; Part-1](https://dev.to/braincuber_technologies/90-of-javascript-developer-fail-to-answer-these-code-snippets-asked-in-interview-part-1-3561)
-- [Dev.to/JS] [Laravel 8 Logout Other Devices after Login](https://dev.to/codeanddeploy/laravel-8-logout-other-devices-after-login-2nne)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
