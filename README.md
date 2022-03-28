@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Custom Dynamic Middleware for Spatie Laravel Permission](https://dev.to/codeanddeploy/how-to-create-a-custom-dynamic-middleware-for-spatie-laravel-permission-2a08)
+- [Dev.to/JS] [Jquery Table Check All Plugin](https://dev.to/codeanddeploy/jquery-table-check-all-plugin-ach)
+- [Dev.to/JS] [JavaScript 3D project](https://dev.to/freebeliever/javascript-3d-project-enh)
+- [Dev.to/JS] [Build a Secure E-Commerce App with SuperTokens and Hasura GraphQL](https://dev.to/tyaga001/build-a-secure-e-commerce-app-with-supertokens-and-hasura-graphql-20nm)
+- [Dev.to/JS] [Advanced Appetite Fat Burner Reviews - &lpar;Pros and Cons&rpar; Is It Scam Or Legit?](https://dev.to/advancedappetitefatburner/advanced-appetite-fat-burner-reviews-pros-and-cons-is-it-scam-or-legit-543c)
 - [Dev.to/JS] [JavaScript .call&lpar;&rpar; .apply&lpar;&rpar; .bind&lpar;&rpar; simplified.](https://dev.to/azmy60/javascript-call-apply-bind-simplified-5d14)
 - [Dev.to/JS] [Laravel 8 - How To Get Routes in Controller](https://dev.to/codeanddeploy/laravel-8-how-to-get-routes-in-controller-16bi)
 - [Dev.to/JS] [Laravel 8 Pagination Example using Bootstrap 5](https://dev.to/codeanddeploy/laravel-8-pagination-example-using-bootstrap-5-243h)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 3: Setting up Redux &amp; Firebase Login&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-3-setting-up-redux-firebase-login-5ae)
 - [Dev.to/JS] [90 % of Javascript Developer fail to answer these code snippets &lpar;Asked in Interview&rpar; Part-1](https://dev.to/braincuber_technologies/90-of-javascript-developer-fail-to-answer-these-code-snippets-asked-in-interview-part-1-3561)
 - [Dev.to/JS] [Laravel 8 Logout Other Devices after Login](https://dev.to/codeanddeploy/laravel-8-logout-other-devices-after-login-2nne)
-- [Dev.to/JS] [Change Text Color Based On Background Color Using Javascript](https://dev.to/techsolutionstuff/change-text-color-based-on-background-color-using-javascript-1e7a)
-- [Dev.to/JS] [Scaling up express js performance](https://dev.to/developertom01/scaling-up-express-js-performance-331n)
-- [Dev.to/JS] [Neural Networks Explained in 40 Seconds](https://dev.to/jsstackdevelopers/neural-networks-explained-in-40-seconds-3oj4)
-- [Dev.to/JS] [Top 5 - Temas en modo oscuro para Visual Studio Code](https://dev.to/hebertdev/top-5-temas-en-modo-oscuro-para-visual-studio-code-1i1n)
-- [Dev.to/JS] [🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-3of6)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
