@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
+- [Dev.to/JS] [How to create a sticky navigation bar](https://dev.to/thatanjan/how-to-create-a-sticky-navigation-bar-31pd)
+- [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)
+- [Dev.to/JS] [React hooks in Axios interceptors](https://dev.to/arianhamdi/react-hooks-in-axios-interceptors-3e1h)
+- [Dev.to/JS] [How to Create a weather app using React.js](https://dev.to/kavyargb/how-to-create-a-weather-app-using-reactjs-5adg)
+- [Dev.to/JS] [.forEach vs .map](https://dev.to/benjaminkane03/foreach-vs-map-8ci)
 - [Lifehacker] [Why Truck Stops Are Always Better Than Rest Stops](https://lifehacker.com/why-truck-stops-are-better-than-rest-stops-and-how-to-1848719814)
 - [Dev.to/JS] [How to Filter Complex Javascript Arrays](https://dev.to/allmanaj/how-to-filter-complex-javascript-arrays-1nkj)
 - [Dev.to/JS] [How to build a job application system using DronaHQ + MongoDB + SendGrid](https://dev.to/gayatrisachdev1/how-to-build-a-job-application-system-using-dronahq-mongodb-sendgrid-mgc)
@@ -37,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a MindMap](https://dev.to/frankwisniewski/create-a-mindmap-22pb)
 - [Lifehacker] [The Smartest Ways to Use Dishwasher Tablets to Clean Your House](https://lifehacker.com/the-smartest-ways-to-use-dishwasher-tablets-to-clean-yo-1848712078)
 - [Dev.to/JS] [Using FaceID in C# without Xamarin or Maui](https://dev.to/lrufenacht/using-faceid-in-c-without-xamarin-or-maui-4lf5)
-- [Dev.to/JS] [The Beginner’s Guide to JQuery](https://dev.to/codesphere/the-beginners-guide-to-jquery-4kpi)
-- [Dev.to/JS] [Let&#39;s split and count](https://dev.to/aasthatalwaria/lets-split-and-count-2p7m)
 - [Lifehacker] [All the Best and Worst Ways to Use Protein Powder](https://lifehacker.com/all-the-best-and-worst-ways-to-use-protein-powder-1848716020)
-- [Dev.to/JS] [Algorithm &amp; Data Structure](https://dev.to/clouded_knight/algorithm-data-structure-59e0)
 - [Lifehacker] [You Must Make a Chip &#39;n&#39; Dip Omelette](https://lifehacker.com/you-must-make-a-chip-n-dip-omelette-1848714285)
-- [Dev.to/JS] [How I built my own blog without much coding](https://dev.to/narasimha1997/how-i-built-my-own-blog-without-much-coding-1pjm)
 - [Lifehacker] [How to Stop Saying &#39;Like&#39; &lpar;and Other Distracting Filler Words&rpar;](https://lifehacker.com/how-to-stop-saying-like-and-other-distracting-filler-w-1848715699)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [An Age-by-Age Guide to Why Kids Lie &lpar;and What to Do About It&rpar;](https://lifehacker.com/an-age-by-age-guide-to-why-kids-lie-and-what-to-do-abo-1848643184)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
-- [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
-- [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
-- [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)<!-- TECH-POSTS:END -->
 
 ---
 
