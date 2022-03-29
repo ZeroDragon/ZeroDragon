@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No import React from &#39;react&#39;. Here&#39;s Why!](https://dev.to/atulbhattsystem32/no-import-react-from-react-heres-why-hom)
+- [Dev.to/JS] [BASIC AUTHENTICATION IN SWAGGER &lpar;OPEN API&rpar; .NET5](https://dev.to/tarungurang/basic-authentication-in-swagger-open-api-net5-232p)
+- [Dev.to/JS] [JS-Rails project](https://dev.to/ro_uchiha/js-rails-project-2328)
+- [Dev.to/JS] [Create your own portfolio website &lpar;My website Demo&rpar; 🌿🌿](https://dev.to/tejendrasrajawat/create-your-own-portfolio-website-my-website-demo-l12)
 - [Dev.to/JS] [Delete Record in Laravel 8](https://dev.to/codeanddeploy/delete-record-in-laravel-8-42d3)
 - [Dev.to/JS] [Making web components stylable](https://dev.to/horus_kol/making-web-components-stylable-3pgm)
 - [Dev.to/JS] [fast coding trips:](https://dev.to/tauhidulislamt2/fast-coding-trips-4i30)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Node.js Developer Tries .NET](https://dev.to/aaronblondeau/a-nodejs-developer-tries-net-87n)
 - [Dev.to/JS] [fetch&lpar; kungFu &rpar;](https://dev.to/benlimpic/fetch-kungfu--42li)
 - [Dev.to/JS] [A Simple Way to Explain HTML, CSS and Javascript and How They Relate](https://dev.to/exceptionalprogramming/a-simple-way-to-explain-html-css-and-javascript-and-how-they-relate-38c7)
-- [Dev.to/JS] [Buy Verified PayPal Account](https://dev.to/worldtopseo/buy-verified-paypal-account-4ljk)
-- [Dev.to/JS] [Resumo da 4º Semana de Jornada DEV 4/52](https://dev.to/graciellesampaiobysunshinearts/resumo-da-4o-semana-de-jornada-dev-452-1e4f)
-- [Dev.to/JS] [Ng-News: Issue 22/12](https://dev.to/rainerhahnekamp/ng-news-issue-2212-1o67)
-- [Dev.to/JS] [GAS の UrlFetchApp で Slack API の conversations.list で全てのチャンネルリストを取得する](https://dev.to/kaede_io/gas-no-urlfetchapp-de-slack-api-no-conversationslist-dequan-tenotiyannerurisutowoqu-de-suru-2l2b)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
