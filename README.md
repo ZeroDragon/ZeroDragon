@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a MindMap](https://dev.to/frankwisniewski/create-a-mindmap-22pb)
+- [Lifehacker] [The Smartest Ways to Use Dishwasher Tablets to Clean Your House](https://lifehacker.com/the-smartest-ways-to-use-dishwasher-tablets-to-clean-yo-1848712078)
+- [Dev.to/JS] [Using FaceID in C# without Xamarin or Maui](https://dev.to/lrufenacht/using-faceid-in-c-without-xamarin-or-maui-4lf5)
+- [Dev.to/JS] [The Beginner’s Guide to JQuery](https://dev.to/codesphere/the-beginners-guide-to-jquery-4kpi)
+- [Dev.to/JS] [Let&#39;s split and count](https://dev.to/aasthatalwaria/lets-split-and-count-2p7m)
+- [Lifehacker] [All the Best and Worst Ways to Use Protein Powder](https://lifehacker.com/all-the-best-and-worst-ways-to-use-protein-powder-1848716020)
 - [Dev.to/JS] [Algorithm &amp; Data Structure](https://dev.to/clouded_knight/algorithm-data-structure-59e0)
 - [Lifehacker] [You Must Make a Chip &#39;n&#39; Dip Omelette](https://lifehacker.com/you-must-make-a-chip-n-dip-omelette-1848714285)
 - [Dev.to/JS] [How I built my own blog without much coding](https://dev.to/narasimha1997/how-i-built-my-own-blog-without-much-coding-1pjm)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Digital marketing agency landing page using HTML CSS JS](https://dev.to/codewithsadee/build-a-digital-marketing-agency-landing-page-using-html-css-js-5cog)
 - [Dev.to/JS] [Splash Screen on Gatsby JS](https://dev.to/faranmustafa/splash-screen-on-gatsby-js-1gom)
 - [Dev.to/JS] [Integrating Axios with React Hooks](https://dev.to/asayerio_techblog/integrating-axios-with-react-hooks-53m4)
-- [Dev.to/JS] [How to Create Components in Svelte](https://dev.to/smpnjn/how-to-create-components-in-svelte-3438)
-- [Dev.to/JS] [Build a coupon code manager app in 30 minutes](https://dev.to/tooljet/build-a-coupon-code-manager-app-in-30-minutes-133i)
-- [Dev.to/JS] [mat-form-field must contain a MatFormFieldControl](https://dev.to/preethamsr/mat-form-field-must-contain-a-matformfieldcontrol-22m9)
-- [Dev.to/JS] [Click on Image to Expand](https://dev.to/shameerchagani/click-on-image-to-expand-45gd)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
 - [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
 - [Lifehacker] [Avoid These Dating App Clichés So You Actually Get a Match](https://lifehacker.com/avoid-these-dating-app-cliches-if-you-actually-want-to-1848704630)
-- [Lifehacker] [The Beach Festivals and Events Worth Traveling for This Summer](https://lifehacker.com/the-beach-festivals-and-events-worth-traveling-for-this-1848704522)
-- [Lifehacker] [19 of the Easiest Flowers to Grow From Seeds &lpar;for People Who Always Kill Plants&rpar;](https://lifehacker.com/19-of-the-easiest-flowers-to-grow-from-seeds-for-peopl-1848703832)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)<!-- TECH-POSTS:END -->
 
