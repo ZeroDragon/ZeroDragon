@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Delete Record in Laravel 8](https://dev.to/codeanddeploy/delete-record-in-laravel-8-42d3)
+- [Dev.to/JS] [Making web components stylable](https://dev.to/horus_kol/making-web-components-stylable-3pgm)
+- [Dev.to/JS] [fast coding trips:](https://dev.to/tauhidulislamt2/fast-coding-trips-4i30)
+- [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 4: Connecting to the backend&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-4-connecting-to-the-backend-3cof)
 - [Dev.to/JS] [.append vs .appendChild in JS](https://dev.to/joe_lee90/append-vs-appendchild-in-js-50mj)
 - [Dev.to/JS] [A Node.js Developer Tries .NET](https://dev.to/aaronblondeau/a-nodejs-developer-tries-net-87n)
 - [Dev.to/JS] [fetch&lpar; kungFu &rpar;](https://dev.to/benlimpic/fetch-kungfu--42li)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resumo da 4º Semana de Jornada DEV 4/52](https://dev.to/graciellesampaiobysunshinearts/resumo-da-4o-semana-de-jornada-dev-452-1e4f)
 - [Dev.to/JS] [Ng-News: Issue 22/12](https://dev.to/rainerhahnekamp/ng-news-issue-2212-1o67)
 - [Dev.to/JS] [GAS の UrlFetchApp で Slack API の conversations.list で全てのチャンネルリストを取得する](https://dev.to/kaede_io/gas-no-urlfetchapp-de-slack-api-no-conversationslist-dequan-tenotiyannerurisutowoqu-de-suru-2l2b)
-- [Dev.to/JS] [Creating a forum with React and Appwrite – Part 2](https://dev.to/swinkid/creating-a-forum-with-react-and-appwrite-part-2-498b)
-- [Dev.to/JS] [Looking for Feedback](https://dev.to/biccsdev/looking-for-feedback-3kbf)
-- [Dev.to/JS] [How to implement Google Authentication with NextJS and Passport.](https://dev.to/ayo_tech/how-to-implement-google-authentication-with-nextjs-and-passport-2gji)
-- [Dev.to/JS] [Difference between the Event Loop in Browser and Node Js?](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
