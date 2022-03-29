@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resumo da 4º Semana de Jornada DEV 4/52](https://dev.to/graciellesampaiobysunshinearts/resumo-da-4o-semana-de-jornada-dev-452-1e4f)
 - [Dev.to/JS] [Ng-News: Issue 22/12](https://dev.to/rainerhahnekamp/ng-news-issue-2212-1o67)
 - [Dev.to/JS] [GAS の UrlFetchApp で Slack API の conversations.list で全てのチャンネルリストを取得する](https://dev.to/kaede_io/gas-no-urlfetchapp-de-slack-api-no-conversationslist-dequan-tenotiyannerurisutowoqu-de-suru-2l2b)
 - [Dev.to/JS] [Creating a forum with React and Appwrite – Part 2](https://dev.to/swinkid/creating-a-forum-with-react-and-appwrite-part-2-498b)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using a Hook in a Class Component](https://dev.to/nickytonline/using-a-hook-in-a-class-component-3eh2)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Dev.to/JS] [Interesting Next.js Questions](https://dev.to/antonkiiko/interesting-nextjs-questions-3i1b)
-- [Dev.to/JS] [Array Cheatsheet in JavaScript🚀](https://dev.to/tejendrasrajawat/array-cheatsheet-in-javascript-7md)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
 - [Lifehacker] [How to DIY an Inexpensive but Beautiful Garden Path](https://lifehacker.com/how-to-diy-an-inexpensive-but-beautiful-garden-path-1848710858)
 - [Lifehacker] [What Is &#39;Dopamine Dressing,&#39; and Can It Really Make You Happier?](https://lifehacker.com/what-is-dopamine-dressing-and-can-it-really-make-you-h-1848708672)
