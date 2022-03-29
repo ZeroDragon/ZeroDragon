@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a coupon code manager app in 30 minutes](https://dev.to/tooljet/build-a-coupon-code-manager-app-in-30-minutes-133i)
+- [Dev.to/JS] [mat-form-field must contain a MatFormFieldControl](https://dev.to/preethamsr/mat-form-field-must-contain-a-matformfieldcontrol-22m9)
+- [Dev.to/JS] [Click on Image to Expand](https://dev.to/shameerchagani/click-on-image-to-expand-45gd)
 - [Dev.to/JS] [Alamat Pusat 085225060052 Jual Alat Bantu Sex Di Denpasar Bali](https://dev.to/kazalia/alamat-pusat-085225060052-jual-alat-bantu-sex-di-denpasar-bali-3j5j)
 - [Dev.to/JS] [Internationalizing Your Lightning Web Component &lpar;LWC&rpar;](https://dev.to/johnjvester/internationalizing-your-lightning-web-component-lwc-2b8b)
 - [Dev.to/JS] [Rtp slot](https://dev.to/rindu4d/rtp-slot-2bal)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Delete Multiple Records using Checkbox in Laravel 8](https://dev.to/codeanddeploy/how-to-delete-multiple-records-using-checkbox-in-laravel-8-4c0n)
 - [Dev.to/JS] [Function Currying in JavaScript](https://dev.to/ashwani3011/function-currying-in-javascript-47k1)
 - [Dev.to/JS] [Integrate Sweetalert 2 with Ajax in Laravel 8](https://dev.to/codeanddeploy/integrate-sweetalert-2-with-ajax-in-laravel-8-19p5)
-- [Dev.to/JS] [SEO in Angular with SSR - Part II](https://dev.to/ayyash/seo-in-angular-with-ssr-part-ii-1lma)
-- [Dev.to/JS] [How to Remove Last Element from Array in Javascript?](https://dev.to/codeanddeploy/how-to-remove-last-element-from-array-in-javascript-d22)
-- [Dev.to/JS] [How to Remove First Element from Array in Javascript](https://dev.to/codeanddeploy/how-to-remove-first-element-from-array-in-javascript-2e6f)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
