@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Choosing Technologies, APIs and Languages](https://dev.to/gwenshap/choosing-technologies-apis-and-languages-2319)
+- [Dev.to/JS] [📢🚨🚨npx create-next-app@latest not working - How to solve this problem](https://dev.to/jsstackdevelopers/npx-create-next-applatest-not-working-how-to-solve-this-problem-2jea)
+- [Dev.to/JS] [The Chronicles of a Rookie Developer: My &#39;React&#39;ion Blog](https://dev.to/hiddencilantro/the-chronicles-of-a-rookie-developer-my-reaction-blog-19ei)
+- [Dev.to/JS] [How to optimize your LCP &lpar;with visuals!&rpar;](https://dev.to/steve8708/how-to-optimize-your-lcp-w-visuals-11m3)
 - [Dev.to/JS] [JavaScript Array Methods - Mapping](https://dev.to/justtanwa/javascript-array-methods-mapping-4ioj)
 - [Dev.to/JS] [I created another post about react js and views doubled..](https://dev.to/shrey802/i-created-another-post-about-react-js-and-views-doubled-3143)
 - [Dev.to/JS] [How to use index.js file&lpar;Properly&rpar;](https://dev.to/fahadaminshovon/-how-to-use-indexjs-fileproperly-302f)
@@ -36,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a weather app using React.js](https://dev.to/kavyargb/how-to-create-a-weather-app-using-reactjs-5adg)
 - [Dev.to/JS] [.forEach vs .map](https://dev.to/benjaminkane03/foreach-vs-map-8ci)
 - [Lifehacker] [Why Truck Stops Are Always Better Than Rest Stops](https://lifehacker.com/why-truck-stops-are-better-than-rest-stops-and-how-to-1848719814)
-- [Dev.to/JS] [How to Filter Complex Javascript Arrays](https://dev.to/allmanaj/how-to-filter-complex-javascript-arrays-1nkj)
-- [Dev.to/JS] [How to build a job application system using DronaHQ + MongoDB + SendGrid](https://dev.to/gayatrisachdev1/how-to-build-a-job-application-system-using-dronahq-mongodb-sendgrid-mgc)
 - [Lifehacker] [The Best Discord Bots &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-best-discord-bots-and-how-to-use-them-1848719524)
 - [Lifehacker] [How to Stop Closet Moths From Eating Your Clothes](https://lifehacker.com/how-to-stop-closet-moths-from-eating-your-clothes-1848718925)
-- [Dev.to/JS] [Create An Open Source Ecommerce Store with Gatsby and Medusa](https://dev.to/medusajs/create-an-open-source-ecommerce-store-with-gatsby-and-medusa-2h6b)
-- [Dev.to/JS] [Inspect alternative , CSS helper](https://dev.to/amreldessouki/css-helper-inspect-alternative-3g3i)
 - [Lifehacker] [Make This Delicious Citrus Syrup With Just Two Ingredients](https://lifehacker.com/make-this-delicious-citrus-syrup-with-just-two-ingredie-1848715089)
 - [Lifehacker] [Yes, Your Own Phone Number Is Spamming You](https://lifehacker.com/yes-your-own-phone-number-is-spamming-you-1848718546)
 - [Lifehacker] [The Smartest Ways to Use Dishwasher Tablets to Clean Your House](https://lifehacker.com/the-smartest-ways-to-use-dishwasher-tablets-to-clean-yo-1848712078)
