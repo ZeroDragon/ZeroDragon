@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Truck Stops Are Always Better Than Rest Stops](https://lifehacker.com/why-truck-stops-are-better-than-rest-stops-and-how-to-1848719814)
+- [Dev.to/JS] [How to Filter Complex Javascript Arrays](https://dev.to/allmanaj/how-to-filter-complex-javascript-arrays-1nkj)
+- [Dev.to/JS] [How to build a job application system using DronaHQ + MongoDB + SendGrid](https://dev.to/gayatrisachdev1/how-to-build-a-job-application-system-using-dronahq-mongodb-sendgrid-mgc)
+- [Lifehacker] [The Best Discord Bots &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-best-discord-bots-and-how-to-use-them-1848719524)
 - [Lifehacker] [How to Stop Closet Moths From Eating Your Clothes](https://lifehacker.com/how-to-stop-closet-moths-from-eating-your-clothes-1848718925)
 - [Dev.to/JS] [Create An Open Source Ecommerce Store with Gatsby and Medusa](https://dev.to/medusajs/create-an-open-source-ecommerce-store-with-gatsby-and-medusa-2h6b)
-- [Dev.to/JS] [css helper inspect alternative](https://dev.to/amreldessouki/css-helper-inspect-alternative-3g3i)
+- [Dev.to/JS] [Inspect alternative , CSS helper](https://dev.to/amreldessouki/css-helper-inspect-alternative-3g3i)
 - [Lifehacker] [Make This Delicious Citrus Syrup With Just Two Ingredients](https://lifehacker.com/make-this-delicious-citrus-syrup-with-just-two-ingredie-1848715089)
 - [Dev.to/JS] [Mastering JavaScript Callbacks](https://dev.to/endalk200/javascript-callbacks-4fn8)
 - [Dev.to/JS] [What books do you think we should study to become a professional website developer?](https://dev.to/kavehsabouri/what-books-do-you-think-we-should-study-to-become-a-professional-website-developer-23h9)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Must Make a Chip &#39;n&#39; Dip Omelette](https://lifehacker.com/you-must-make-a-chip-n-dip-omelette-1848714285)
 - [Dev.to/JS] [How I built my own blog without much coding](https://dev.to/narasimha1997/how-i-built-my-own-blog-without-much-coding-1pjm)
 - [Lifehacker] [How to Stop Saying &#39;Like&#39; &lpar;and Other Distracting Filler Words&rpar;](https://lifehacker.com/how-to-stop-saying-like-and-other-distracting-filler-w-1848715699)
-- [Dev.to/JS] [Improving Designer-Developer Collaboration With Figma UI Kits](https://dev.to/kathryngrayson/improving-designer-developer-collaboration-with-figma-ui-kits-582b)
-- [Dev.to/JS] [Future Javascript: Temporal](https://dev.to/smpnjn/future-javascript-temporal-i68)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
-- [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
-- [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)<!-- TECH-POSTS:END -->
 
