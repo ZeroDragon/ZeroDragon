@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I built my own blog without much coding](https://dev.to/narasimha1997/how-i-built-my-own-blog-without-much-coding-1pjm)
+- [Lifehacker] [How to Stop Saying &#39;Like&#39; &lpar;and Other Distracting Filler Words&rpar;](https://lifehacker.com/how-to-stop-saying-like-and-other-distracting-filler-w-1848715699)
+- [Dev.to/JS] [Improving Designer-Developer Collaboration With Figma UI Kits](https://dev.to/kathryngrayson/improving-designer-developer-collaboration-with-figma-ui-kits-582b)
+- [Dev.to/JS] [Future Javascript: Temporal](https://dev.to/smpnjn/future-javascript-temporal-i68)
+- [Dev.to/JS] [My First Post in DEV](https://dev.to/sureshkuchana/my-first-post-in-dev-13pn)
 - [Dev.to/JS] [Build a Digital marketing agency landing page using HTML CSS JS](https://dev.to/codewithsadee/build-a-digital-marketing-agency-landing-page-using-html-css-js-5cog)
 - [Dev.to/JS] [Splash Screen on Gatsby JS](https://dev.to/faranmustafa/splash-screen-on-gatsby-js-1gom)
 - [Dev.to/JS] [Integrating Axios with React Hooks](https://dev.to/asayerio_techblog/integrating-axios-with-react-hooks-53m4)
@@ -30,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a coupon code manager app in 30 minutes](https://dev.to/tooljet/build-a-coupon-code-manager-app-in-30-minutes-133i)
 - [Dev.to/JS] [mat-form-field must contain a MatFormFieldControl](https://dev.to/preethamsr/mat-form-field-must-contain-a-matformfieldcontrol-22m9)
 - [Dev.to/JS] [Click on Image to Expand](https://dev.to/shameerchagani/click-on-image-to-expand-45gd)
-- [Dev.to/JS] [Alamat Pusat 085225060052 Jual Alat Bantu Sex Di Denpasar Bali](https://dev.to/kazalia/alamat-pusat-085225060052-jual-alat-bantu-sex-di-denpasar-bali-3j5j)
 - [Dev.to/JS] [Internationalizing Your Lightning Web Component &lpar;LWC&rpar;](https://dev.to/johnjvester/internationalizing-your-lightning-web-component-lwc-2b8b)
-- [Dev.to/JS] [Rtp slot](https://dev.to/rindu4d/rtp-slot-2bal)
-- [Dev.to/JS] [Fallback true returns error while deployment](https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-53og)
-- [Dev.to/JS] [Laravel 8 Eloquent firstOrCreate&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-firstorcreate-example-4p5h)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Beach Festivals and Events Worth Traveling for This Summer](https://lifehacker.com/the-beach-festivals-and-events-worth-traveling-for-this-1848704522)
 - [Lifehacker] [19 of the Easiest Flowers to Grow From Seeds &lpar;for People Who Always Kill Plants&rpar;](https://lifehacker.com/19-of-the-easiest-flowers-to-grow-from-seeds-for-peopl-1848703832)
 - [Lifehacker] [How to &lpar;Finally&rpar; Switch to a Chronological Feed on Instagram](https://lifehacker.com/how-to-finally-switch-to-a-chronological-feed-on-inst-1848703870)
-- [Lifehacker] [This Wordle Clone Might Just Be the Most Challenging Yet](https://lifehacker.com/this-wordle-clone-might-just-be-the-most-challenging-ye-1848703543)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)<!-- TECH-POSTS:END -->
 
