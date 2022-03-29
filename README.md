@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Digital marketing agency landing page using HTML CSS JS](https://dev.to/codewithsadee/build-a-digital-marketing-agency-landing-page-using-html-css-js-5cog)
+- [Dev.to/JS] [Splash Screen on Gatsby JS](https://dev.to/faranmustafa/splash-screen-on-gatsby-js-1gom)
+- [Dev.to/JS] [Integrating Axios with React Hooks](https://dev.to/asayerio_techblog/integrating-axios-with-react-hooks-53m4)
+- [Dev.to/JS] [How to Create Components in Svelte](https://dev.to/smpnjn/how-to-create-components-in-svelte-3438)
 - [Dev.to/JS] [Build a coupon code manager app in 30 minutes](https://dev.to/tooljet/build-a-coupon-code-manager-app-in-30-minutes-133i)
 - [Dev.to/JS] [mat-form-field must contain a MatFormFieldControl](https://dev.to/preethamsr/mat-form-field-must-contain-a-matformfieldcontrol-22m9)
 - [Dev.to/JS] [Click on Image to Expand](https://dev.to/shameerchagani/click-on-image-to-expand-45gd)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rtp slot](https://dev.to/rindu4d/rtp-slot-2bal)
 - [Dev.to/JS] [Fallback true returns error while deployment](https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-53og)
 - [Dev.to/JS] [Laravel 8 Eloquent firstOrCreate&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-firstorcreate-example-4p5h)
-- [Dev.to/JS] [Laravel 8 Eloquent pluck&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-pluck-example-569f)
-- [Dev.to/JS] [How To Delete Multiple Records using Checkbox in Laravel 8](https://dev.to/codeanddeploy/how-to-delete-multiple-records-using-checkbox-in-laravel-8-4c0n)
-- [Dev.to/JS] [Function Currying in JavaScript](https://dev.to/ashwani3011/function-currying-in-javascript-47k1)
-- [Dev.to/JS] [Integrate Sweetalert 2 with Ajax in Laravel 8](https://dev.to/codeanddeploy/integrate-sweetalert-2-with-ajax-in-laravel-8-19p5)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
