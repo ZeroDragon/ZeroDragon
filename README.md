@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I created another post about react js and views doubled..](https://dev.to/shrey802/i-created-another-post-about-react-js-and-views-doubled-3143)
+- [Dev.to/JS] [How to use index.js file&lpar;Properly&rpar;](https://dev.to/fahadaminshovon/-how-to-use-indexjs-fileproperly-302f)
+- [Dev.to/JS] [A Quick Introduction to TypeScript for JS Devs](https://dev.to/benhoneywill/a-quick-introduction-to-typescript-for-js-devs-n47)
+- [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
 - [Dev.to/JS] [How to create a sticky navigation bar](https://dev.to/thatanjan/how-to-create-a-sticky-navigation-bar-31pd)
@@ -39,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Inspect alternative , CSS helper](https://dev.to/amreldessouki/css-helper-inspect-alternative-3g3i)
 - [Lifehacker] [Make This Delicious Citrus Syrup With Just Two Ingredients](https://lifehacker.com/make-this-delicious-citrus-syrup-with-just-two-ingredie-1848715089)
 - [Dev.to/JS] [Mastering JavaScript Callbacks](https://dev.to/endalk200/javascript-callbacks-4fn8)
-- [Dev.to/JS] [What books do you think we should study to become a professional website developer?](https://dev.to/kavehsabouri/what-books-do-you-think-we-should-study-to-become-a-professional-website-developer-23h9)
 - [Lifehacker] [Yes, Your Own Phone Number Is Spamming You](https://lifehacker.com/yes-your-own-phone-number-is-spamming-you-1848718546)
-- [Dev.to/JS] [Create a MindMap](https://dev.to/frankwisniewski/create-a-mindmap-22pb)
 - [Lifehacker] [The Smartest Ways to Use Dishwasher Tablets to Clean Your House](https://lifehacker.com/the-smartest-ways-to-use-dishwasher-tablets-to-clean-yo-1848712078)
-- [Dev.to/JS] [Using FaceID in C# without Xamarin or Maui](https://dev.to/lrufenacht/using-faceid-in-c-without-xamarin-or-maui-4lf5)
 - [Lifehacker] [All the Best and Worst Ways to Use Protein Powder](https://lifehacker.com/all-the-best-and-worst-ways-to-use-protein-powder-1848716020)
 - [Lifehacker] [You Must Make a Chip &#39;n&#39; Dip Omelette](https://lifehacker.com/you-must-make-a-chip-n-dip-omelette-1848714285)
 - [Lifehacker] [How to Stop Saying &#39;Like&#39; &lpar;and Other Distracting Filler Words&rpar;](https://lifehacker.com/how-to-stop-saying-like-and-other-distracting-filler-w-1848715699)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find and Report Asteroids Because Your Life Is Boring Otherwise](https://lifehacker.com/how-to-find-and-report-asteroids-because-your-life-is-b-1848708695)
 - [Lifehacker] [You Can Get Rid of Windows Bloatware With One Command](https://lifehacker.com/you-can-get-rid-of-windows-bloatware-with-one-command-1848707156)
 - [Lifehacker] [Make Your PC Games Easier &lpar;or Harder&rpar; With Cheat Engine](https://lifehacker.com/make-your-pc-games-easier-or-harder-with-cheat-engine-1848705091)
-- [Lifehacker] [An Age-by-Age Guide to Why Kids Lie &lpar;and What to Do About It&rpar;](https://lifehacker.com/an-age-by-age-guide-to-why-kids-lie-and-what-to-do-abo-1848643184)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)<!-- TECH-POSTS:END -->
 
