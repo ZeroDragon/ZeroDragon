@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Array Methods - Mapping](https://dev.to/justtanwa/javascript-array-methods-mapping-4ioj)
 - [Dev.to/JS] [I created another post about react js and views doubled..](https://dev.to/shrey802/i-created-another-post-about-react-js-and-views-doubled-3143)
 - [Dev.to/JS] [How to use index.js file&lpar;Properly&rpar;](https://dev.to/fahadaminshovon/-how-to-use-indexjs-fileproperly-302f)
 - [Dev.to/JS] [A Quick Introduction to TypeScript for JS Devs](https://dev.to/benhoneywill/a-quick-introduction-to-typescript-for-js-devs-n47)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create An Open Source Ecommerce Store with Gatsby and Medusa](https://dev.to/medusajs/create-an-open-source-ecommerce-store-with-gatsby-and-medusa-2h6b)
 - [Dev.to/JS] [Inspect alternative , CSS helper](https://dev.to/amreldessouki/css-helper-inspect-alternative-3g3i)
 - [Lifehacker] [Make This Delicious Citrus Syrup With Just Two Ingredients](https://lifehacker.com/make-this-delicious-citrus-syrup-with-just-two-ingredie-1848715089)
-- [Dev.to/JS] [Mastering JavaScript Callbacks](https://dev.to/endalk200/javascript-callbacks-4fn8)
 - [Lifehacker] [Yes, Your Own Phone Number Is Spamming You](https://lifehacker.com/yes-your-own-phone-number-is-spamming-you-1848718546)
 - [Lifehacker] [The Smartest Ways to Use Dishwasher Tablets to Clean Your House](https://lifehacker.com/the-smartest-ways-to-use-dishwasher-tablets-to-clean-yo-1848712078)
 - [Lifehacker] [All the Best and Worst Ways to Use Protein Powder](https://lifehacker.com/all-the-best-and-worst-ways-to-use-protein-powder-1848716020)
