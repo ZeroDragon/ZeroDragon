@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alamat Pusat 085225060052 Jual Alat Bantu Sex Di Denpasar Bali](https://dev.to/kazalia/alamat-pusat-085225060052-jual-alat-bantu-sex-di-denpasar-bali-3j5j)
+- [Dev.to/JS] [Internationalizing Your Lightning Web Component &lpar;LWC&rpar;](https://dev.to/johnjvester/internationalizing-your-lightning-web-component-lwc-2b8b)
+- [Dev.to/JS] [Rtp slot](https://dev.to/rindu4d/rtp-slot-2bal)
 - [Dev.to/JS] [Fallback true returns error while deployment](https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-53og)
 - [Dev.to/JS] [Laravel 8 Eloquent firstOrCreate&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-firstorcreate-example-4p5h)
 - [Dev.to/JS] [Laravel 8 Eloquent pluck&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-pluck-example-569f)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SEO in Angular with SSR - Part II](https://dev.to/ayyash/seo-in-angular-with-ssr-part-ii-1lma)
 - [Dev.to/JS] [How to Remove Last Element from Array in Javascript?](https://dev.to/codeanddeploy/how-to-remove-last-element-from-array-in-javascript-d22)
 - [Dev.to/JS] [How to Remove First Element from Array in Javascript](https://dev.to/codeanddeploy/how-to-remove-first-element-from-array-in-javascript-2e6f)
-- [Dev.to/JS] [No import React from &#39;react&#39;. Here&#39;s Why!](https://dev.to/atulbhattsystem32/no-import-react-from-react-heres-why-hom)
-- [Dev.to/JS] [BASIC AUTHENTICATION IN SWAGGER &lpar;OPEN API&rpar; .NET5](https://dev.to/tarungurang/basic-authentication-in-swagger-open-api-net5-232p)
-- [Dev.to/JS] [JS-Rails project](https://dev.to/ro_uchiha/js-rails-project-2328)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
