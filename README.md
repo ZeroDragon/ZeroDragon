@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
 - [Dev.to/JS] [How to create a sticky navigation bar](https://dev.to/thatanjan/how-to-create-a-sticky-navigation-bar-31pd)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Your PC Games Easier &lpar;or Harder&rpar; With Cheat Engine](https://lifehacker.com/make-your-pc-games-easier-or-harder-with-cheat-engine-1848705091)
 - [Lifehacker] [An Age-by-Age Guide to Why Kids Lie &lpar;and What to Do About It&rpar;](https://lifehacker.com/an-age-by-age-guide-to-why-kids-lie-and-what-to-do-abo-1848643184)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
-- [Lifehacker] [Spend a Month Seeing America by Train for $400](https://lifehacker.com/spend-a-month-seeing-america-by-train-for-400-1848706811)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)<!-- TECH-POSTS:END -->
 
 ---
