@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SEO in Angular with SSR - Part II](https://dev.to/ayyash/seo-in-angular-with-ssr-part-ii-1lma)
+- [Dev.to/JS] [How to Remove Last Element from Array in Javascript?](https://dev.to/codeanddeploy/how-to-remove-last-element-from-array-in-javascript-d22)
+- [Dev.to/JS] [How to Remove First Element from Array in Javascript](https://dev.to/codeanddeploy/how-to-remove-first-element-from-array-in-javascript-2e6f)
 - [Dev.to/JS] [No import React from &#39;react&#39;. Here&#39;s Why!](https://dev.to/atulbhattsystem32/no-import-react-from-react-heres-why-hom)
 - [Dev.to/JS] [BASIC AUTHENTICATION IN SWAGGER &lpar;OPEN API&rpar; .NET5](https://dev.to/tarungurang/basic-authentication-in-swagger-open-api-net5-232p)
 - [Dev.to/JS] [JS-Rails project](https://dev.to/ro_uchiha/js-rails-project-2328)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [fast coding trips:](https://dev.to/tauhidulislamt2/fast-coding-trips-4i30)
 - [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 4: Connecting to the backend&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-4-connecting-to-the-backend-3cof)
 - [Dev.to/JS] [.append vs .appendChild in JS](https://dev.to/joe_lee90/append-vs-appendchild-in-js-50mj)
-- [Dev.to/JS] [A Node.js Developer Tries .NET](https://dev.to/aaronblondeau/a-nodejs-developer-tries-net-87n)
-- [Dev.to/JS] [fetch&lpar; kungFu &rpar;](https://dev.to/benlimpic/fetch-kungfu--42li)
-- [Dev.to/JS] [A Simple Way to Explain HTML, CSS and Javascript and How They Relate](https://dev.to/exceptionalprogramming/a-simple-way-to-explain-html-css-and-javascript-and-how-they-relate-38c7)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
