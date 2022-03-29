@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [.append vs .appendChild in JS](https://dev.to/joe_lee90/append-vs-appendchild-in-js-50mj)
+- [Dev.to/JS] [A Node.js Developer Tries .NET](https://dev.to/aaronblondeau/a-nodejs-developer-tries-net-87n)
+- [Dev.to/JS] [fetch&lpar; kungFu &rpar;](https://dev.to/benlimpic/fetch-kungfu--42li)
 - [Dev.to/JS] [A Simple Way to Explain HTML, CSS and Javascript and How They Relate](https://dev.to/exceptionalprogramming/a-simple-way-to-explain-html-css-and-javascript-and-how-they-relate-38c7)
 - [Dev.to/JS] [Buy Verified PayPal Account](https://dev.to/worldtopseo/buy-verified-paypal-account-4ljk)
 - [Dev.to/JS] [Resumo da 4º Semana de Jornada DEV 4/52](https://dev.to/graciellesampaiobysunshinearts/resumo-da-4o-semana-de-jornada-dev-452-1e4f)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Looking for Feedback](https://dev.to/biccsdev/looking-for-feedback-3kbf)
 - [Dev.to/JS] [How to implement Google Authentication with NextJS and Passport.](https://dev.to/ayo_tech/how-to-implement-google-authentication-with-nextjs-and-passport-2gji)
 - [Dev.to/JS] [Difference between the Event Loop in Browser and Node Js?](https://dev.to/jasmin/difference-between-the-event-loop-in-browser-and-node-js-1113)
-- [Dev.to/JS] [7 Useful Tools for Developers in 2022](https://dev.to/jsstackdevelopers/7-useful-tools-for-developers-in-2022-5ib)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
-- [Dev.to/JS] [Implementing array methods on a linked list](https://dev.to/solexy/implementing-array-methods-on-a-linked-list-1ejo)
-- [Dev.to/JS] [What is browser fingerprinting and why should you integrate with your website?](https://dev.to/emmanuelthecoder/what-is-browser-fingerprinting-and-why-you-should-integrate-it-to-your-website-5hi)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
 - [Lifehacker] [How to DIY an Inexpensive but Beautiful Garden Path](https://lifehacker.com/how-to-diy-an-inexpensive-but-beautiful-garden-path-1848710858)
