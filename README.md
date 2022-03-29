@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Closet Moths From Eating Your Clothes](https://lifehacker.com/how-to-stop-closet-moths-from-eating-your-clothes-1848718925)
+- [Dev.to/JS] [Create An Open Source Ecommerce Store with Gatsby and Medusa](https://dev.to/medusajs/create-an-open-source-ecommerce-store-with-gatsby-and-medusa-2h6b)
+- [Dev.to/JS] [css helper inspect alternative](https://dev.to/amreldessouki/css-helper-inspect-alternative-3g3i)
+- [Lifehacker] [Make This Delicious Citrus Syrup With Just Two Ingredients](https://lifehacker.com/make-this-delicious-citrus-syrup-with-just-two-ingredie-1848715089)
+- [Dev.to/JS] [Mastering JavaScript Callbacks](https://dev.to/endalk200/javascript-callbacks-4fn8)
+- [Dev.to/JS] [What books do you think we should study to become a professional website developer?](https://dev.to/kavehsabouri/what-books-do-you-think-we-should-study-to-become-a-professional-website-developer-23h9)
+- [Lifehacker] [Yes, Your Own Phone Number Is Spamming You](https://lifehacker.com/yes-your-own-phone-number-is-spamming-you-1848718546)
 - [Dev.to/JS] [Create a MindMap](https://dev.to/frankwisniewski/create-a-mindmap-22pb)
 - [Lifehacker] [The Smartest Ways to Use Dishwasher Tablets to Clean Your House](https://lifehacker.com/the-smartest-ways-to-use-dishwasher-tablets-to-clean-yo-1848712078)
 - [Dev.to/JS] [Using FaceID in C# without Xamarin or Maui](https://dev.to/lrufenacht/using-faceid-in-c-without-xamarin-or-maui-4lf5)
@@ -35,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Saying &#39;Like&#39; &lpar;and Other Distracting Filler Words&rpar;](https://lifehacker.com/how-to-stop-saying-like-and-other-distracting-filler-w-1848715699)
 - [Dev.to/JS] [Improving Designer-Developer Collaboration With Figma UI Kits](https://dev.to/kathryngrayson/improving-designer-developer-collaboration-with-figma-ui-kits-582b)
 - [Dev.to/JS] [Future Javascript: Temporal](https://dev.to/smpnjn/future-javascript-temporal-i68)
-- [Dev.to/JS] [My First Post in DEV](https://dev.to/sureshkuchana/my-first-post-in-dev-13pn)
-- [Dev.to/JS] [Build a Digital marketing agency landing page using HTML CSS JS](https://dev.to/codewithsadee/build-a-digital-marketing-agency-landing-page-using-html-css-js-5cog)
-- [Dev.to/JS] [Splash Screen on Gatsby JS](https://dev.to/faranmustafa/splash-screen-on-gatsby-js-1gom)
-- [Dev.to/JS] [Integrating Axios with React Hooks](https://dev.to/asayerio_techblog/integrating-axios-with-react-hooks-53m4)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Throw Away Your Mesh Produce Bags](https://lifehacker.com/dont-throw-away-your-mesh-produce-bags-1848706794)
 - [Lifehacker] [You Should Know Your Spare Tire&#39;s Expiration Date &lpar;and Where to Find It&rpar;](https://lifehacker.com/you-should-know-your-spare-tires-expiration-date-and-w-1848706733)
 - [Lifehacker] [Unleash Angostura’s Star Power With a Trinidad Sour](https://lifehacker.com/unleash-angostura-s-star-power-with-a-trinidad-sour-1848705427)
-- [Lifehacker] [7 Facts You Didn&#39;t Know About the Oscars](https://lifehacker.com/7-facts-you-didnt-know-about-the-oscars-1848705392)
-- [Lifehacker] [How to Actually Enjoy a Weekend With Your Kids](https://lifehacker.com/how-to-actually-enjoy-a-weekend-with-your-kids-1848703212)
-- [Lifehacker] [Avoid These Dating App Clichés So You Actually Get a Match](https://lifehacker.com/avoid-these-dating-app-cliches-if-you-actually-want-to-1848704630)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
 - [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)<!-- TECH-POSTS:END -->
 
