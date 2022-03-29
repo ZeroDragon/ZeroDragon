@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel 8 Eloquent firstOrCreate&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-firstorcreate-example-4p5h)
+- [Dev.to/JS] [Laravel 8 Eloquent pluck&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-pluck-example-569f)
+- [Dev.to/JS] [How To Delete Multiple Records using Checkbox in Laravel 8](https://dev.to/codeanddeploy/how-to-delete-multiple-records-using-checkbox-in-laravel-8-4c0n)
+- [Dev.to/JS] [Function Currying in JavaScript](https://dev.to/ashwani3011/function-currying-in-javascript-47k1)
+- [Dev.to/JS] [Integrate Sweetalert 2 with Ajax in Laravel 8](https://dev.to/codeanddeploy/integrate-sweetalert-2-with-ajax-in-laravel-8-19p5)
 - [Dev.to/JS] [SEO in Angular with SSR - Part II](https://dev.to/ayyash/seo-in-angular-with-ssr-part-ii-1lma)
 - [Dev.to/JS] [How to Remove Last Element from Array in Javascript?](https://dev.to/codeanddeploy/how-to-remove-last-element-from-array-in-javascript-d22)
 - [Dev.to/JS] [How to Remove First Element from Array in Javascript](https://dev.to/codeanddeploy/how-to-remove-first-element-from-array-in-javascript-2e6f)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [BASIC AUTHENTICATION IN SWAGGER &lpar;OPEN API&rpar; .NET5](https://dev.to/tarungurang/basic-authentication-in-swagger-open-api-net5-232p)
 - [Dev.to/JS] [JS-Rails project](https://dev.to/ro_uchiha/js-rails-project-2328)
 - [Dev.to/JS] [Create your own portfolio website &lpar;My website Demo&rpar; 🌿🌿](https://dev.to/tejendrasrajawat/create-your-own-portfolio-website-my-website-demo-l12)
-- [Dev.to/JS] [Delete Record in Laravel 8](https://dev.to/codeanddeploy/delete-record-in-laravel-8-42d3)
-- [Dev.to/JS] [Making web components stylable](https://dev.to/horus_kol/making-web-components-stylable-3pgm)
-- [Dev.to/JS] [fast coding trips:](https://dev.to/tauhidulislamt2/fast-coding-trips-4i30)
-- [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 4: Connecting to the backend&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-4-connecting-to-the-backend-3cof)
-- [Dev.to/JS] [.append vs .appendChild in JS](https://dev.to/joe_lee90/append-vs-appendchild-in-js-50mj)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
