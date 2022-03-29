@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fallback true returns error while deployment](https://dev.to/snehendu_roy_/fallback-true-returns-error-while-deployment-53og)
 - [Dev.to/JS] [Laravel 8 Eloquent firstOrCreate&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-firstorcreate-example-4p5h)
 - [Dev.to/JS] [Laravel 8 Eloquent pluck&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-pluck-example-569f)
 - [Dev.to/JS] [How To Delete Multiple Records using Checkbox in Laravel 8](https://dev.to/codeanddeploy/how-to-delete-multiple-records-using-checkbox-in-laravel-8-4c0n)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [No import React from &#39;react&#39;. Here&#39;s Why!](https://dev.to/atulbhattsystem32/no-import-react-from-react-heres-why-hom)
 - [Dev.to/JS] [BASIC AUTHENTICATION IN SWAGGER &lpar;OPEN API&rpar; .NET5](https://dev.to/tarungurang/basic-authentication-in-swagger-open-api-net5-232p)
 - [Dev.to/JS] [JS-Rails project](https://dev.to/ro_uchiha/js-rails-project-2328)
-- [Dev.to/JS] [Create your own portfolio website &lpar;My website Demo&rpar; 🌿🌿](https://dev.to/tejendrasrajawat/create-your-own-portfolio-website-my-website-demo-l12)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
