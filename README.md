@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Importance of frontend performance optimization](https://dev.to/adamwojnicki/importance-of-frontend-performance-optimization-4e05)
+- [Lifehacker] [Should You Cancel &lpar;or Upgrade&rpar; Your PlayStation Plus Subscription?](https://lifehacker.com/should-you-cancel-or-upgrade-your-playstation-plus-su-1848721975)
+- [Dev.to/JS] [The hard work&#39;s been done for you...](https://dev.to/hr21don/the-hard-works-been-done-for-you-g6g)
 - [Dev.to/JS] [Why undefined is the master of all things and null is none](https://dev.to/sobhandash/why-undefined-is-the-master-of-all-things-and-null-is-none-2h9i)
 - [Dev.to/JS] [ReactJS vs Vue.js - Feedback about two long-term projects](https://dev.to/fralps/reactjs-vs-vuejs-feedback-about-two-long-term-projects-4fpi)
 - [Dev.to/JS] [Introducing the OAuth 2.0 Express SDK for Protecting APIs with JWT Bearer Tokens](https://dev.to/robertinoc_dev/introducing-the-oauth-20-express-sdk-for-protecting-apis-with-jwt-bearer-tokens-8l4)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create Bootstrap like Accordions using HTML | CSS | JavaScript](https://dev.to/shameerchagani/how-to-create-bootstrap-like-accordions-using-html-css-javascript-2ikm)
 - [Dev.to/JS] [What are the best practices for website/web app layouting ???](https://dev.to/himanshupal0001/what-are-the-best-practices-for-websiteweb-app-layouting--3e35)
 - [Dev.to/JS] [How to quickly sort imports with Prettier](https://dev.to/diballesteros/how-to-quickly-sort-imports-with-prettier-3po7)
-- [Dev.to/JS] [DevDum! Code Smarter. Not Harder.](https://dev.to/rdevans87/devdum-code-smarter-not-harder-2b54)
-- [Dev.to/JS] [Saving users’ preferences in SvelteKit](https://dev.to/pilcrowonpaper/saving-users-preferences-in-sveltekit-3b37)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Take a Hit](https://lifehacker.com/how-to-take-a-hit-1848713085)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When You&#39;re Seated Next to a Jerk on a Flight](https://lifehacker.com/what-to-do-and-not-do-when-youre-seated-next-to-an-as-1848712457)
 - [Lifehacker] [You Should Update Chrome and Edge ASAP](https://lifehacker.com/you-should-update-chrome-and-edge-asap-1848712496)
-- [Lifehacker] [Clean Your Flower Pots Before Reusing Them &lpar;Without Hurting Your Plants&rpar;](https://lifehacker.com/clean-your-flower-pots-before-reusing-them-without-hur-1848708681)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)<!-- TECH-POSTS:END -->
 
