@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get the Best Web Scraping Get the Best Web Scraping and API Services - Zenscrape](https://dev.to/zenscrape/get-the-best-web-scraping-get-the-best-web-scraping-and-api-services-zenscrape-hme)
+- [Dev.to/JS] [Filterable Image Gallery with preview using HTML, CSS, and Javascript](https://dev.to/incoderweb/filterable-image-gallery-with-preview-using-html-css-and-javascript-4eim)
+- [Dev.to/JS] [ERROR HANDLING WITH ANGULAR](https://dev.to/tarungurang/error-handling-with-angular-5fb7)
+- [Dev.to/JS] [Trim Life Labs Keto - Weight Loss Reviews, Uses, Benefits And Side Effects?](https://dev.to/trimlifelabspi1/trim-life-labs-keto-weight-loss-reviews-uses-benefits-and-side-effects-38g6)
+- [Dev.to/JS] [TypeORM viewEntity](https://dev.to/dailydevtips1/typeorm-viewentity-mcg)
 - [Dev.to/JS] [How to create my first Open Source project](https://dev.to/zitrocode/how-to-create-my-first-open-source-project-42o6)
 - [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 5: Finishing Up&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-5-finishing-up-4f1m)
 - [Dev.to/JS] [jjlj](https://dev.to/aagiidev/jjlj-217m)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NODEJS EXPRESS](https://dev.to/aldokw18/nodejs-express-1c8i)
 - [Dev.to/JS] [JavaScript Challenge #1 : Splitting an Army](https://dev.to/zaky_abdur/javascript-challenge-1-splitting-an-army-3fe7)
 - [Dev.to/JS] [Pluck Func in JavaScript with .reduce&lpar;&rpar;](https://dev.to/365erik/pluck-func-in-javascript-with-reduce-2od5)
-- [Dev.to/JS] [Introducing Ladle for React Stories](https://dev.to/vmiksu/introducing-ladle-for-react-stories-4phm)
-- [Dev.to/JS] [Choosing Technologies, APIs and Languages](https://dev.to/gwenshap/choosing-technologies-apis-and-languages-2319)
-- [Dev.to/JS] [📢🚨🚨npx create-next-app@latest not working - How to solve this problem](https://dev.to/jsstackdevelopers/npx-create-next-applatest-not-working-how-to-solve-this-problem-2jea)
-- [Dev.to/JS] [The Chronicles of a Rookie Developer: My &#39;React&#39;ion Blog](https://dev.to/hiddencilantro/the-chronicles-of-a-rookie-developer-my-reaction-blog-19ei)
-- [Dev.to/JS] [How to optimize your LCP &lpar;with visuals!&rpar;](https://dev.to/steve8708/how-to-optimize-your-lcp-w-visuals-11m3)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
