@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Joins and Queries with Different ORM Tools](https://dev.to/tkssharma/joins-and-queries-with-different-orm-tools-bca)
 - [Dev.to/JS] [Build lightweight and fast battery monitor web app using SolidJS](https://dev.to/kcdchennai/build-lightweight-and-fast-battery-monitor-web-app-using-solidjs-52j3)
 - [Dev.to/JS] [Blockchain Developer Roadmap in 2k22](https://dev.to/thenomadevel/blockchain-developer-roadmap-in-2k22-2ka8)
 - [Dev.to/JS] [What I learned while studying Data fetching with Axios](https://dev.to/mpfdev/what-i-learned-while-studying-data-fetching-with-axios-k6g)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get the Best Web Scraping Get the Best Web Scraping and API Services - Zenscrape](https://dev.to/zenscrape/get-the-best-web-scraping-get-the-best-web-scraping-and-api-services-zenscrape-hme)
 - [Dev.to/JS] [Filterable Image Gallery with preview using HTML, CSS, and Javascript](https://dev.to/incoderweb/filterable-image-gallery-with-preview-using-html-css-and-javascript-4eim)
 - [Dev.to/JS] [ERROR HANDLING WITH ANGULAR](https://dev.to/tarungurang/error-handling-with-angular-5fb7)
-- [Dev.to/JS] [Trim Life Labs Keto - Weight Loss Reviews, Uses, Benefits And Side Effects?](https://dev.to/trimlifelabspi1/trim-life-labs-keto-weight-loss-reviews-uses-benefits-and-side-effects-38g6)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
