@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Puppeteer inside a Docker container](https://dev.to/cloudx/how-to-use-puppeteer-inside-a-docker-container-568c)
+- [Dev.to/JS] [Recebendo e-mails utilizando o Google Apps Script.](https://dev.to/jhonyrdesouza/recebendo-e-mails-utilizando-o-google-apps-script-346j)
 - [Dev.to/JS] [An Introduction To AWS CloudFront Functions](https://dev.to/honeybadger/an-introduction-to-aws-cloudfront-functions-hh0)
 - [Dev.to/JS] [Create a P2P network with Node from scratch.](https://dev.to/swensson/create-a-p2p-network-with-node-from-scratch-1pah)
 - [Dev.to/JS] [Asynchronous JavaScript: callbacks, promises, Async/await, Event loop - part 2](https://dev.to/cinarb2/asynchronous-javascript-callbacks-promises-asyncawait-event-loop-part-2-98f)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a collection of Tech Blogs using React JS and HarperDB](https://dev.to/the_greatbonnie/building-a-collection-of-tech-blogs-using-react-js-and-harperdb-30h7)
 - [Dev.to/JS] [Stop Using JavaScript Classes!](https://dev.to/giantmachines/stop-using-javascript-classes-33ij)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
-- [Dev.to/JS] [Tv + Calculator!..You can congratulate me for that...](https://dev.to/metak47/tv-calculator-3doe)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
-- [Dev.to/JS] [The React CLI you always wanted but didn’t know about](https://dev.to/nx/the-react-cli-you-always-wanted-but-didnt-know-about-5b4j)
 - [Lifehacker] [Save Time and Money With Your Own Garden Drip Irrigation](https://lifehacker.com/save-time-and-money-with-your-own-garden-drip-irrigatio-1848724515)
 - [Lifehacker] [Why Would Anyone Remove Their MacBook&#39;s Display?](https://lifehacker.com/why-would-anyone-remove-their-macbooks-display-1848725703)
 - [Lifehacker] [The Only Right Way to Take Relationship Advice From a Friend](https://lifehacker.com/the-only-right-way-to-take-relationship-advice-from-a-f-1848721139)
