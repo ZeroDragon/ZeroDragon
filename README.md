@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Save Time and Money With Your Own Garden Drip Irrigation](https://lifehacker.com/save-time-and-money-with-your-own-garden-drip-irrigatio-1848724515)
+- [Dev.to/JS] [How to perform accessibility audit of your webpage without installing any tools](https://dev.to/domizajac/how-to-perform-accessibility-audit-of-your-webpage-without-installing-any-tools-40pd)
 - [Lifehacker] [Why Would Anyone Remove Their MacBook&#39;s Display?](https://lifehacker.com/why-would-anyone-remove-their-macbooks-display-1848725703)
-- [Dev.to/JS] [Apple Keto Gummies - Fat Loss Results, Price, Ingredients And Side Effects](https://dev.to/appleketogummi7/apple-keto-gummies-fat-loss-results-price-ingredients-and-side-effects-4ag6)
 - [Dev.to/JS] [Update #9: Back to code](https://dev.to/realnerdethan/update-9-back-to-code-49pp)
 - [Dev.to/JS] [NestJS: stop handling errors like this!](https://dev.to/antoncodes/nestjs-stop-handling-errors-like-this-2446)
 - [Dev.to/JS] [Paracetamol.js💊| #87: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-87-explica-este-codigo-javascript-39b5)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to DIY an Inexpensive but Beautiful Garden Path](https://lifehacker.com/how-to-diy-an-inexpensive-but-beautiful-garden-path-1848710858)
 - [Lifehacker] [What Is &#39;Dopamine Dressing,&#39; and Can It Really Make You Happier?](https://lifehacker.com/what-is-dopamine-dressing-and-can-it-really-make-you-h-1848708672)
 - [Lifehacker] [5 Ways to Live Your Best Life While Living Alone](https://lifehacker.com/5-ways-to-live-your-best-life-while-living-alone-1848712072)
-- [Lifehacker] [How to Take a Hit](https://lifehacker.com/how-to-take-a-hit-1848713085)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)<!-- TECH-POSTS:END -->
 
