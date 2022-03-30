@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NODEJS EXPRESS](https://dev.to/aldokw18/nodejs-express-1c8i)
 - [Dev.to/JS] [JavaScript Challenge #1 : Splitting an Army](https://dev.to/zaky_abdur/javascript-challenge-1-splitting-an-army-3fe7)
 - [Dev.to/JS] [Pluck Func in JavaScript with .reduce&lpar;&rpar;](https://dev.to/365erik/pluck-func-in-javascript-with-reduce-2od5)
 - [Dev.to/JS] [Introducing Ladle for React Stories](https://dev.to/vmiksu/introducing-ladle-for-react-stories-4phm)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
-- [Dev.to/JS] [How to create a sticky navigation bar](https://dev.to/thatanjan/how-to-create-a-sticky-navigation-bar-31pd)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)
 - [Lifehacker] [Why Truck Stops Are Always Better Than Rest Stops](https://lifehacker.com/why-truck-stops-are-better-than-rest-stops-and-how-to-1848719814)
 - [Lifehacker] [The Best Discord Bots &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-best-discord-bots-and-how-to-use-them-1848719524)
