@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Would Anyone Remove Their MacBook&#39;s Display?](https://lifehacker.com/why-would-anyone-remove-their-macbooks-display-1848725703)
+- [Dev.to/JS] [Apple Keto Gummies - Fat Loss Results, Price, Ingredients And Side Effects](https://dev.to/appleketogummi7/apple-keto-gummies-fat-loss-results-price-ingredients-and-side-effects-4ag6)
+- [Dev.to/JS] [Update #9: Back to code](https://dev.to/realnerdethan/update-9-back-to-code-49pp)
+- [Dev.to/JS] [NestJS: stop handling errors like this!](https://dev.to/antoncodes/nestjs-stop-handling-errors-like-this-2446)
+- [Dev.to/JS] [Paracetamol.js💊| #87: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-87-explica-este-codigo-javascript-39b5)
+- [Dev.to/JS] [Building Moderation Discord Bots with Appwrite Cloud Functions](https://dev.to/appwrite/building-moderation-discord-bots-with-appwrite-cloud-functions-a7h)
+- [Lifehacker] [The Only Right Way to Take Relationship Advice From a Friend](https://lifehacker.com/the-only-right-way-to-take-relationship-advice-from-a-f-1848721139)
 - [Dev.to/JS] [Importance of frontend performance optimization](https://dev.to/adamwojnicki/importance-of-frontend-performance-optimization-4e05)
 - [Lifehacker] [Should You Cancel &lpar;or Upgrade&rpar; Your PlayStation Plus Subscription?](https://lifehacker.com/should-you-cancel-or-upgrade-your-playstation-plus-su-1848721975)
 - [Dev.to/JS] [The hard work&#39;s been done for you...](https://dev.to/hr21don/the-hard-works-been-done-for-you-g6g)
@@ -33,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 Challenging &#39;Animal Walks&#39; You Should Add to Your Workout](https://lifehacker.com/6-challenging-animal-walks-you-should-add-to-your-worko-1848720295)
 - [Dev.to/JS] [After Ng Updated Issue.](https://dev.to/ganeshversionx/after-ng-updated-issue-464c)
 - [Dev.to/JS] [Frontend Interview questions I had with a Norwegian Startup](https://dev.to/amin_gholami/frontend-interview-questions-i-had-with-a-norwegian-startup-2mb9)
-- [Dev.to/JS] [Arrays | Beginner | Mysterious Topics of Js | #2](https://dev.to/mzmali/arrays-beginner-mysterious-topics-of-js-2-5ckc)
-- [Dev.to/JS] [Building an eCommerce Store 2/3: Checkout flows](https://dev.to/stripe/building-an-ecommerce-store-23-checkout-flows-35k7)
 - [Lifehacker] [Pickle Some Cherry Blossoms Before It&#39;s Too Late](https://lifehacker.com/pickle-some-cherry-blossoms-before-its-too-late-1848716298)
-- [Dev.to/JS] [How to create Bootstrap like Accordions using HTML | CSS | JavaScript](https://dev.to/shameerchagani/how-to-create-bootstrap-like-accordions-using-html-css-javascript-2ikm)
-- [Dev.to/JS] [What are the best practices for website/web app layouting ???](https://dev.to/himanshupal0001/what-are-the-best-practices-for-websiteweb-app-layouting--3e35)
-- [Dev.to/JS] [How to quickly sort imports with Prettier](https://dev.to/diballesteros/how-to-quickly-sort-imports-with-prettier-3po7)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is &#39;Dopamine Dressing,&#39; and Can It Really Make You Happier?](https://lifehacker.com/what-is-dopamine-dressing-and-can-it-really-make-you-h-1848708672)
 - [Lifehacker] [5 Ways to Live Your Best Life While Living Alone](https://lifehacker.com/5-ways-to-live-your-best-life-while-living-alone-1848712072)
 - [Lifehacker] [How to Take a Hit](https://lifehacker.com/how-to-take-a-hit-1848713085)
-- [Lifehacker] [What to Do &lpar;and Not Do&rpar; When You&#39;re Seated Next to a Jerk on a Flight](https://lifehacker.com/what-to-do-and-not-do-when-youre-seated-next-to-an-as-1848712457)
-- [Lifehacker] [You Should Update Chrome and Edge ASAP](https://lifehacker.com/you-should-update-chrome-and-edge-asap-1848712496)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)<!-- TECH-POSTS:END -->
 
