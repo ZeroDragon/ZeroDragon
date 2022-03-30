@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Introduction To AWS CloudFront Functions](https://dev.to/honeybadger/an-introduction-to-aws-cloudfront-functions-hh0)
+- [Dev.to/JS] [Create a P2P network with Node from scratch.](https://dev.to/swensson/create-a-p2p-network-with-node-from-scratch-1pah)
+- [Dev.to/JS] [Asynchronous JavaScript: callbacks, promises, Async/await, Event loop - part 2](https://dev.to/cinarb2/asynchronous-javascript-callbacks-promises-asyncawait-event-loop-part-2-98f)
+- [Dev.to/JS] [Open Source Adventures: Episode 27: Imba 2 Overall Impressions](https://dev.to/taw/open-source-adventures-episode-27-imba-2-overall-impressions-bnm)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Dev.to/JS] [What is HTTP &amp; How Does It Work?](https://dev.to/britzdylan/what-is-http-how-does-it-work-2i07)
 - [Dev.to/JS] [Open Source Adventures: Episode 26: Imba 2 Stack Overflow](https://dev.to/taw/open-source-adventures-episode-26-imba-2-stack-overflow-3on9)
@@ -34,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tv + Calculator!..You can congratulate me for that...](https://dev.to/metak47/tv-calculator-3doe)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
 - [Dev.to/JS] [The React CLI you always wanted but didn’t know about](https://dev.to/nx/the-react-cli-you-always-wanted-but-didnt-know-about-5b4j)
-- [Dev.to/JS] [Ideas for simple apps](https://dev.to/awesomemg/ideas-for-simple-apps-9bp)
-- [Dev.to/JS] [How to add Images to HTML Canvas](https://dev.to/smpnjn/how-to-add-images-to-html-canvas-1gm)
 - [Lifehacker] [Save Time and Money With Your Own Garden Drip Irrigation](https://lifehacker.com/save-time-and-money-with-your-own-garden-drip-irrigatio-1848724515)
-- [Dev.to/JS] [How to perform accessibility audit of your webpage without installing any tools](https://dev.to/domizajac/how-to-perform-accessibility-audit-of-your-webpage-without-installing-any-tools-40pd)
 - [Lifehacker] [Why Would Anyone Remove Their MacBook&#39;s Display?](https://lifehacker.com/why-would-anyone-remove-their-macbooks-display-1848725703)
-- [Dev.to/JS] [Update #9: Back to code](https://dev.to/realnerdethan/update-9-back-to-code-49pp)
 - [Lifehacker] [The Only Right Way to Take Relationship Advice From a Friend](https://lifehacker.com/the-only-right-way-to-take-relationship-advice-from-a-f-1848721139)
 - [Lifehacker] [Should You Cancel &lpar;or Upgrade&rpar; Your PlayStation Plus Subscription?](https://lifehacker.com/should-you-cancel-or-upgrade-your-playstation-plus-su-1848721975)
 - [Lifehacker] [Don&#39;t Buy an Apple Monitor for Your Mac &lpar;Buy This Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-monitor-for-your-mac-buy-this-instea-1848719495)
