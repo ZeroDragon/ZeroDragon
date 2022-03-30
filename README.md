@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Pickle Some Cherry Blossoms Before It&#39;s Too Late](https://lifehacker.com/pickle-some-cherry-blossoms-before-its-too-late-1848716298)
+- [Dev.to/JS] [How to create Bootstrap like Accordions using HTML | CSS | JavaScript](https://dev.to/shameerchagani/how-to-create-bootstrap-like-accordions-using-html-css-javascript-2ikm)
+- [Dev.to/JS] [What are the best practices for website/web app layouting ???](https://dev.to/himanshupal0001/what-are-the-best-practices-for-websiteweb-app-layouting--3e35)
+- [Dev.to/JS] [How to quickly sort imports with Prettier](https://dev.to/diballesteros/how-to-quickly-sort-imports-with-prettier-3po7)
+- [Dev.to/JS] [DevDum! Code Smarter. Not Harder.](https://dev.to/rdevans87/devdum-code-smarter-not-harder-2b54)
+- [Dev.to/JS] [Saving users’ preferences in SvelteKit](https://dev.to/pilcrowonpaper/saving-users-preferences-in-sveltekit-3b37)
 - [Dev.to/JS] [Joins and Queries with Different ORM Tools](https://dev.to/tkssharma/joins-and-queries-with-different-orm-tools-bca)
 - [Dev.to/JS] [Build lightweight and fast battery monitor web app using SolidJS](https://dev.to/kcdchennai/build-lightweight-and-fast-battery-monitor-web-app-using-solidjs-52j3)
 - [Dev.to/JS] [Blockchain Developer Roadmap in 2k22](https://dev.to/thenomadevel/blockchain-developer-roadmap-in-2k22-2ka8)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a business from scratch - day 12](https://dev.to/twankrui/building-a-business-from-scratch-day-12-4bb0)
 - [Dev.to/JS] [Building Space Invaders with Kaboom.js](https://dev.to/ritza/building-space-invaders-with-kaboomjs-4i33)
 - [Dev.to/JS] [Cloning a VM in Azure from Node.js](https://dev.to/florianrappl/cloning-a-vm-in-azure-from-nodejs-3p8b)
-- [Dev.to/JS] [Take a Look at Clicker Speed Test Software using HTML, CSS and Javascript.](https://dev.to/jeffery_c19/take-a-look-at-clicker-speed-test-software-using-html-css-and-javascript-2p69)
-- [Dev.to/JS] [Tips for making your interview assignment impressive](https://dev.to/how-to-dev/tips-for-making-your-interview-assignment-impressive-310m)
-- [Dev.to/JS] [Get the Best Web Scraping Get the Best Web Scraping and API Services - Zenscrape](https://dev.to/zenscrape/get-the-best-web-scraping-get-the-best-web-scraping-and-api-services-zenscrape-hme)
-- [Dev.to/JS] [Filterable Image Gallery with preview using HTML, CSS, and Javascript](https://dev.to/incoderweb/filterable-image-gallery-with-preview-using-html-css-and-javascript-4eim)
-- [Dev.to/JS] [ERROR HANDLING WITH ANGULAR](https://dev.to/tarungurang/error-handling-with-angular-5fb7)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Clean Your Flower Pots Before Reusing Them &lpar;Without Hurting Your Plants&rpar;](https://lifehacker.com/clean-your-flower-pots-before-reusing-them-without-hur-1848708681)
 - [Lifehacker] [How to Find and Report Asteroids Because Your Life Is Boring Otherwise](https://lifehacker.com/how-to-find-and-report-asteroids-because-your-life-is-b-1848708695)
 - [Lifehacker] [You Can Get Rid of Windows Bloatware With One Command](https://lifehacker.com/you-can-get-rid-of-windows-bloatware-with-one-command-1848707156)
-- [Lifehacker] [Make Your PC Games Easier &lpar;or Harder&rpar; With Cheat Engine](https://lifehacker.com/make-your-pc-games-easier-or-harder-with-cheat-engine-1848705091)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)<!-- TECH-POSTS:END -->
 
