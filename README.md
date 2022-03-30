@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Teach You Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
+- [Dev.to/JS] [Tv + Calculator!..You can congratulate me for that...](https://dev.to/metak47/tv-calculator-3doe)
+- [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
+- [Dev.to/JS] [The React CLI you always wanted but didn’t know about](https://dev.to/nx/the-react-cli-you-always-wanted-but-didnt-know-about-5b4j)
+- [Dev.to/JS] [Ideas for simple apps](https://dev.to/awesomemg/ideas-for-simple-apps-9bp)
+- [Dev.to/JS] [How to add Images to HTML Canvas](https://dev.to/smpnjn/how-to-add-images-to-html-canvas-1gm)
 - [Lifehacker] [Save Time and Money With Your Own Garden Drip Irrigation](https://lifehacker.com/save-time-and-money-with-your-own-garden-drip-irrigatio-1848724515)
 - [Dev.to/JS] [How to perform accessibility audit of your webpage without installing any tools](https://dev.to/domizajac/how-to-perform-accessibility-audit-of-your-webpage-without-installing-any-tools-40pd)
 - [Lifehacker] [Why Would Anyone Remove Their MacBook&#39;s Display?](https://lifehacker.com/why-would-anyone-remove-their-macbooks-display-1848725703)
@@ -35,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Cancel &lpar;or Upgrade&rpar; Your PlayStation Plus Subscription?](https://lifehacker.com/should-you-cancel-or-upgrade-your-playstation-plus-su-1848721975)
 - [Dev.to/JS] [The hard work&#39;s been done for you...](https://dev.to/hr21don/the-hard-works-been-done-for-you-g6g)
 - [Dev.to/JS] [Why undefined is the master of all things and null is none](https://dev.to/sobhandash/why-undefined-is-the-master-of-all-things-and-null-is-none-2h9i)
-- [Dev.to/JS] [ReactJS vs Vue.js - Feedback about two long-term projects](https://dev.to/fralps/reactjs-vs-vuejs-feedback-about-two-long-term-projects-4fpi)
-- [Dev.to/JS] [Introducing the OAuth 2.0 Express SDK for Protecting APIs with JWT Bearer Tokens](https://dev.to/robertinoc_dev/introducing-the-oauth-20-express-sdk-for-protecting-apis-with-jwt-bearer-tokens-8l4)
 - [Lifehacker] [Don&#39;t Buy an Apple Monitor for Your Mac &lpar;Buy This Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-monitor-for-your-mac-buy-this-instea-1848719495)
 - [Lifehacker] [6 Challenging &#39;Animal Walks&#39; You Should Add to Your Workout](https://lifehacker.com/6-challenging-animal-walks-you-should-add-to-your-worko-1848720295)
-- [Dev.to/JS] [After Ng Updated Issue.](https://dev.to/ganeshversionx/after-ng-updated-issue-464c)
-- [Dev.to/JS] [Frontend Interview questions I had with a Norwegian Startup](https://dev.to/amin_gholami/frontend-interview-questions-i-had-with-a-norwegian-startup-2mb9)
 - [Lifehacker] [Pickle Some Cherry Blossoms Before It&#39;s Too Late](https://lifehacker.com/pickle-some-cherry-blossoms-before-its-too-late-1848716298)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
 - [Lifehacker] [How to DIY an Inexpensive but Beautiful Garden Path](https://lifehacker.com/how-to-diy-an-inexpensive-but-beautiful-garden-path-1848710858)
-- [Lifehacker] [What Is &#39;Dopamine Dressing,&#39; and Can It Really Make You Happier?](https://lifehacker.com/what-is-dopamine-dressing-and-can-it-really-make-you-h-1848708672)
-- [Lifehacker] [5 Ways to Live Your Best Life While Living Alone](https://lifehacker.com/5-ways-to-live-your-best-life-while-living-alone-1848712072)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)<!-- TECH-POSTS:END -->
 
