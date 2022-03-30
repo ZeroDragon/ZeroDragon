@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why undefined is the master of all things and null is none](https://dev.to/sobhandash/why-undefined-is-the-master-of-all-things-and-null-is-none-2h9i)
+- [Dev.to/JS] [ReactJS vs Vue.js - Feedback about two long-term projects](https://dev.to/fralps/reactjs-vs-vuejs-feedback-about-two-long-term-projects-4fpi)
+- [Dev.to/JS] [Introducing the OAuth 2.0 Express SDK for Protecting APIs with JWT Bearer Tokens](https://dev.to/robertinoc_dev/introducing-the-oauth-20-express-sdk-for-protecting-apis-with-jwt-bearer-tokens-8l4)
+- [Lifehacker] [Don&#39;t Buy an Apple Monitor for Your Mac &lpar;Buy This Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-monitor-for-your-mac-buy-this-instea-1848719495)
+- [Lifehacker] [6 Challenging &#39;Animal Walks&#39; You Should Add to Your Workout](https://lifehacker.com/6-challenging-animal-walks-you-should-add-to-your-worko-1848720295)
+- [Dev.to/JS] [After Ng Updated Issue.](https://dev.to/ganeshversionx/after-ng-updated-issue-464c)
+- [Dev.to/JS] [Frontend Interview questions I had with a Norwegian Startup](https://dev.to/amin_gholami/frontend-interview-questions-i-had-with-a-norwegian-startup-2mb9)
+- [Dev.to/JS] [Arrays | Beginner | Mysterious Topics of Js | #2](https://dev.to/mzmali/arrays-beginner-mysterious-topics-of-js-2-5ckc)
+- [Dev.to/JS] [Building an eCommerce Store 2/3: Checkout flows](https://dev.to/stripe/building-an-ecommerce-store-23-checkout-flows-35k7)
 - [Lifehacker] [Pickle Some Cherry Blossoms Before It&#39;s Too Late](https://lifehacker.com/pickle-some-cherry-blossoms-before-its-too-late-1848716298)
 - [Dev.to/JS] [How to create Bootstrap like Accordions using HTML | CSS | JavaScript](https://dev.to/shameerchagani/how-to-create-bootstrap-like-accordions-using-html-css-javascript-2ikm)
 - [Dev.to/JS] [What are the best practices for website/web app layouting ???](https://dev.to/himanshupal0001/what-are-the-best-practices-for-websiteweb-app-layouting--3e35)
 - [Dev.to/JS] [How to quickly sort imports with Prettier](https://dev.to/diballesteros/how-to-quickly-sort-imports-with-prettier-3po7)
 - [Dev.to/JS] [DevDum! Code Smarter. Not Harder.](https://dev.to/rdevans87/devdum-code-smarter-not-harder-2b54)
 - [Dev.to/JS] [Saving users’ preferences in SvelteKit](https://dev.to/pilcrowonpaper/saving-users-preferences-in-sveltekit-3b37)
-- [Dev.to/JS] [Joins and Queries with Different ORM Tools](https://dev.to/tkssharma/joins-and-queries-with-different-orm-tools-bca)
-- [Dev.to/JS] [Build lightweight and fast battery monitor web app using SolidJS](https://dev.to/kcdchennai/build-lightweight-and-fast-battery-monitor-web-app-using-solidjs-52j3)
-- [Dev.to/JS] [Blockchain Developer Roadmap in 2k22](https://dev.to/thenomadevel/blockchain-developer-roadmap-in-2k22-2ka8)
-- [Dev.to/JS] [What I learned while studying Data fetching with Axios](https://dev.to/mpfdev/what-i-learned-while-studying-data-fetching-with-axios-k6g)
-- [Dev.to/JS] [Building a business from scratch - day 12](https://dev.to/twankrui/building-a-business-from-scratch-day-12-4bb0)
-- [Dev.to/JS] [Building Space Invaders with Kaboom.js](https://dev.to/ritza/building-space-invaders-with-kaboomjs-4i33)
-- [Dev.to/JS] [Cloning a VM in Azure from Node.js](https://dev.to/florianrappl/cloning-a-vm-in-azure-from-nodejs-3p8b)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When You&#39;re Seated Next to a Jerk on a Flight](https://lifehacker.com/what-to-do-and-not-do-when-youre-seated-next-to-an-as-1848712457)
 - [Lifehacker] [You Should Update Chrome and Edge ASAP](https://lifehacker.com/you-should-update-chrome-and-edge-asap-1848712496)
 - [Lifehacker] [Clean Your Flower Pots Before Reusing Them &lpar;Without Hurting Your Plants&rpar;](https://lifehacker.com/clean-your-flower-pots-before-reusing-them-without-hur-1848708681)
-- [Lifehacker] [How to Find and Report Asteroids Because Your Life Is Boring Otherwise](https://lifehacker.com/how-to-find-and-report-asteroids-because-your-life-is-b-1848708695)
-- [Lifehacker] [You Can Get Rid of Windows Bloatware With One Command](https://lifehacker.com/you-can-get-rid-of-windows-bloatware-with-one-command-1848707156)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
 - [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)<!-- TECH-POSTS:END -->
 
