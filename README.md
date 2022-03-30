@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What I learned while studying Data fetching with Axios](https://dev.to/mpfdev/what-i-learned-while-studying-data-fetching-with-axios-k6g)
+- [Dev.to/JS] [Building a business from scratch - day 12](https://dev.to/twankrui/building-a-business-from-scratch-day-12-4bb0)
+- [Dev.to/JS] [Building Space Invaders with Kaboom.js](https://dev.to/ritza/building-space-invaders-with-kaboomjs-4i33)
 - [Dev.to/JS] [Cloning a VM in Azure from Node.js](https://dev.to/florianrappl/cloning-a-vm-in-azure-from-nodejs-3p8b)
 - [Dev.to/JS] [Take a Look at Clicker Speed Test Software using HTML, CSS and Javascript.](https://dev.to/jeffery_c19/take-a-look-at-clicker-speed-test-software-using-html-css-and-javascript-2p69)
 - [Dev.to/JS] [Tips for making your interview assignment impressive](https://dev.to/how-to-dev/tips-for-making-your-interview-assignment-impressive-310m)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Trim Life Labs Keto - Weight Loss Reviews, Uses, Benefits And Side Effects?](https://dev.to/trimlifelabspi1/trim-life-labs-keto-weight-loss-reviews-uses-benefits-and-side-effects-38g6)
 - [Dev.to/JS] [TypeORM viewEntity](https://dev.to/dailydevtips1/typeorm-viewentity-mcg)
 - [Dev.to/JS] [How to create my first Open Source project](https://dev.to/zitrocode/how-to-create-my-first-open-source-project-42o6)
-- [Dev.to/JS] [Build A MERN Stack App in 5 Days &lpar;Day 5: Finishing Up&rpar;](https://dev.to/rohanjsx/build-a-mern-stack-app-in-5-days-day-5-finishing-up-4f1m)
-- [Dev.to/JS] [jjlj](https://dev.to/aagiidev/jjlj-217m)
-- [Dev.to/JS] [How to Add and Delete Rows Dynamically using jQuery](https://dev.to/techsolutionstuff/how-to-add-and-delete-rows-dynamically-using-jquery-35g8)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
