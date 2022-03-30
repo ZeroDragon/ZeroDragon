@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [jjlj](https://dev.to/aagiidev/jjlj-217m)
+- [Dev.to/JS] [How to Add and Delete Rows Dynamically using jQuery](https://dev.to/techsolutionstuff/how-to-add-and-delete-rows-dynamically-using-jquery-35g8)
 - [Dev.to/JS] [NODEJS EXPRESS](https://dev.to/aldokw18/nodejs-express-1c8i)
 - [Dev.to/JS] [JavaScript Challenge #1 : Splitting an Army](https://dev.to/zaky_abdur/javascript-challenge-1-splitting-an-army-3fe7)
 - [Dev.to/JS] [Pluck Func in JavaScript with .reduce&lpar;&rpar;](https://dev.to/365erik/pluck-func-in-javascript-with-reduce-2od5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to optimize your LCP &lpar;with visuals!&rpar;](https://dev.to/steve8708/how-to-optimize-your-lcp-w-visuals-11m3)
 - [Dev.to/JS] [JavaScript Array Methods - Mapping](https://dev.to/justtanwa/javascript-array-methods-mapping-4ioj)
 - [Dev.to/JS] [I created another post about react js and views doubled..](https://dev.to/shrey802/i-created-another-post-about-react-js-and-views-doubled-3143)
-- [Dev.to/JS] [How to use index.js file&lpar;Properly&rpar;](https://dev.to/fahadaminshovon/-how-to-use-indexjs-fileproperly-302f)
-- [Dev.to/JS] [A Quick Introduction to TypeScript for JS Devs](https://dev.to/benhoneywill/a-quick-introduction-to-typescript-for-js-devs-n47)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
