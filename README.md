@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Take a Look at Clicker Speed Test Software using HTML, CSS and Javascript.](https://dev.to/jeffery_c19/take-a-look-at-clicker-speed-test-software-using-html-css-and-javascript-2p69)
 - [Dev.to/JS] [Tips for making your interview assignment impressive](https://dev.to/how-to-dev/tips-for-making-your-interview-assignment-impressive-310m)
 - [Dev.to/JS] [Get the Best Web Scraping Get the Best Web Scraping and API Services - Zenscrape](https://dev.to/zenscrape/get-the-best-web-scraping-get-the-best-web-scraping-and-api-services-zenscrape-hme)
 - [Dev.to/JS] [Filterable Image Gallery with preview using HTML, CSS, and Javascript](https://dev.to/incoderweb/filterable-image-gallery-with-preview-using-html-css-and-javascript-4eim)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [jjlj](https://dev.to/aagiidev/jjlj-217m)
 - [Dev.to/JS] [How to Add and Delete Rows Dynamically using jQuery](https://dev.to/techsolutionstuff/how-to-add-and-delete-rows-dynamically-using-jquery-35g8)
 - [Dev.to/JS] [NODEJS EXPRESS](https://dev.to/aldokw18/nodejs-express-1c8i)
-- [Dev.to/JS] [JavaScript Challenge #1 : Splitting an Army](https://dev.to/zaky_abdur/javascript-challenge-1-splitting-an-army-3fe7)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
