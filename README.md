@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build lightweight and fast battery monitor web app using SolidJS](https://dev.to/kcdchennai/build-lightweight-and-fast-battery-monitor-web-app-using-solidjs-52j3)
+- [Dev.to/JS] [Blockchain Developer Roadmap in 2k22](https://dev.to/thenomadevel/blockchain-developer-roadmap-in-2k22-2ka8)
 - [Dev.to/JS] [What I learned while studying Data fetching with Axios](https://dev.to/mpfdev/what-i-learned-while-studying-data-fetching-with-axios-k6g)
 - [Dev.to/JS] [Building a business from scratch - day 12](https://dev.to/twankrui/building-a-business-from-scratch-day-12-4bb0)
 - [Dev.to/JS] [Building Space Invaders with Kaboom.js](https://dev.to/ritza/building-space-invaders-with-kaboomjs-4i33)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Filterable Image Gallery with preview using HTML, CSS, and Javascript](https://dev.to/incoderweb/filterable-image-gallery-with-preview-using-html-css-and-javascript-4eim)
 - [Dev.to/JS] [ERROR HANDLING WITH ANGULAR](https://dev.to/tarungurang/error-handling-with-angular-5fb7)
 - [Dev.to/JS] [Trim Life Labs Keto - Weight Loss Reviews, Uses, Benefits And Side Effects?](https://dev.to/trimlifelabspi1/trim-life-labs-keto-weight-loss-reviews-uses-benefits-and-side-effects-38g6)
-- [Dev.to/JS] [TypeORM viewEntity](https://dev.to/dailydevtips1/typeorm-viewentity-mcg)
-- [Dev.to/JS] [How to create my first Open Source project](https://dev.to/zitrocode/how-to-create-my-first-open-source-project-42o6)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
