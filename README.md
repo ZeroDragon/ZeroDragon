@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Challenge #1 : Splitting an Army](https://dev.to/zaky_abdur/javascript-challenge-1-splitting-an-army-3fe7)
+- [Dev.to/JS] [Pluck Func in JavaScript with .reduce&lpar;&rpar;](https://dev.to/365erik/pluck-func-in-javascript-with-reduce-2od5)
 - [Dev.to/JS] [Introducing Ladle for React Stories](https://dev.to/vmiksu/introducing-ladle-for-react-stories-4phm)
 - [Dev.to/JS] [Choosing Technologies, APIs and Languages](https://dev.to/gwenshap/choosing-technologies-apis-and-languages-2319)
 - [Dev.to/JS] [📢🚨🚨npx create-next-app@latest not working - How to solve this problem](https://dev.to/jsstackdevelopers/npx-create-next-applatest-not-working-how-to-solve-this-problem-2jea)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
 - [Dev.to/JS] [How to create a sticky navigation bar](https://dev.to/thatanjan/how-to-create-a-sticky-navigation-bar-31pd)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)
-- [Dev.to/JS] [React hooks in Axios interceptors](https://dev.to/arianhamdi/react-hooks-in-axios-interceptors-3e1h)
-- [Dev.to/JS] [How to Create a weather app using React.js](https://dev.to/kavyargb/how-to-create-a-weather-app-using-reactjs-5adg)
 - [Lifehacker] [Why Truck Stops Are Always Better Than Rest Stops](https://lifehacker.com/why-truck-stops-are-better-than-rest-stops-and-how-to-1848719814)
 - [Lifehacker] [The Best Discord Bots &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-best-discord-bots-and-how-to-use-them-1848719524)
 - [Lifehacker] [How to Stop Closet Moths From Eating Your Clothes](https://lifehacker.com/how-to-stop-closet-moths-from-eating-your-clothes-1848718925)
