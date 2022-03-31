@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Your TypeScript Generic Functions Safer and Easier to Use](https://dev.to/v1rani/how-to-make-your-typescript-generic-functions-safer-and-easier-to-use-4m5f)
+- [Dev.to/JS] [PERN.TODO](https://dev.to/bycho91/perntodo-2blc)
+- [Dev.to/JS] [The magic combo: label what your code does and break it down to small pieces](https://dev.to/latobibor/the-magic-combo-naming-and-breaking-down-to-smaller-pieces-3mie)
+- [Dev.to/JS] [Going at your own pace in Tech in India](https://dev.to/bhavzlearn/going-at-your-own-pace-in-tech-in-india-3a13)
+- [Dev.to/JS] [Using vite-plugin-ssr with mdx-js, solving ESM only library problems, understanding vite configuration and writing vite plugins](https://dev.to/naveennamani/using-vite-plugin-ssr-with-mdx-js-solving-esm-only-library-problems-understanding-vite-configuration-and-writing-vite-plugins-3b24)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Dev.to/JS] [Why is it you can execute a function on the right side of an AND &amp;&amp; operator in JavaScript](https://dev.to/michael/why-is-it-you-can-execute-a-function-on-the-right-side-of-an-and-operator-in-javascript-3npk)
 - [Dev.to/JS] [Our Journey to Prettier and ESLint: How We Adopted These Tools to Improve Our Code Quality](https://dev.to/cfofiu/our-journey-to-prettier-and-eslint-how-we-adopted-these-tools-to-improve-our-code-quality-nfg)
@@ -34,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Improve user experience using Network status API and SolidJS](https://dev.to/kcdchennai/improve-user-experience-using-network-status-api-and-solidjs-1em6)
 - [Dev.to/JS] [Dragons Den Keto - Is Legit or Scam, Results &amp; Benefits?](https://dev.to/dragonsdenketo3/dragons-den-keto-is-legit-or-scam-results-benefits-1pa1)
 - [Lifehacker] [Just Be Yourself, and Other Dating Myths You Should Stop Believing](https://lifehacker.com/just-be-yourself-and-other-dating-myths-you-should-sto-1848731958)
-- [Dev.to/JS] [Creating Dynamic Modules in Nest JS Part-1](https://dev.to/tkssharma/creating-dynamic-modules-in-nest-js-part-1-2n0d)
-- [Dev.to/JS] [Tutorial: create a WhatsApp bot using Node.js and Puppeteer](https://dev.to/emmanuelthecoder/tutorial-create-a-whatsapp-bot-using-nodejs-and-puppeteer-1fn7)
-- [Dev.to/JS] [Bit Maze - Platformer Maze](https://dev.to/takaneichinose/bit-maze-platformer-maze-1aed)
-- [Dev.to/JS] [Inmutabilidad](https://dev.to/leobar37/inmutabilidad-3hc3)
 - [Lifehacker] [How to Make a Classic N64 Zelda Look Like a Modern PC Game](https://lifehacker.com/how-to-make-a-classic-n64-zelda-look-like-a-modern-pc-g-1848731884)
-- [Dev.to/JS] [The basics of FlatList](https://dev.to/luizaavelino/the-basics-of-flatlist-2ihi)
 - [Lifehacker] [Why All Weight Loss Hacks Suck](https://lifehacker.com/why-all-weight-loss-hacks-suck-1848727866)
 - [Lifehacker] [Why You Should Add an Egg Yolk to Your Mashed Potatoes](https://lifehacker.com/why-you-should-add-an-egg-yolk-to-your-mashed-potatoes-1848727643)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
