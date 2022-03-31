@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Say HELLO to Nodejs and Expressjs](https://dev.to/bellatrix/say-hello-to-nodejs-and-expressjs-j62)
+- [Dev.to/JS] [Tips for creating a component library](https://dev.to/asayerio_techblog/tips-for-creating-a-component-library-7bc)
+- [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
+- [Dev.to/JS] [How I built my portfolio as a chatbot using Next.js](https://dev.to/jeffreythecoder/how-i-built-my-portfolio-as-a-chatbot-using-nextjs-2hh5)
 - [Dev.to/JS] [[Vue 2 Snippets] Add title attribute only if needed](https://dev.to/neophen/vue-2-snippets-add-title-attribute-only-if-needed-40je)
 - [Dev.to/JS] [JavaScript - basic array operations with examples](https://dev.to/diraskjavascript/javascript-basic-array-operations-with-examples-5eld)
 - [Dev.to/JS] [Meteor Impact 2022 dates announced!](https://dev.to/storytellercz/meteor-impact-2022-dates-announced-3a8b)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Anime search app built using Reactjs and Typesense](https://dev.to/aviyel/anime-search-app-built-using-reactjs-and-typesense-1em1)
 - [Dev.to/JS] [How to create a delete endpoint with node.js and MySql](https://dev.to/ahmetakinsel/how-to-create-a-delete-endpoint-with-nodejs-and-mysql-17bn)
 - [Dev.to/JS] [How To Learn And Get Better At Web Development](https://dev.to/muditwt/how-to-learn-and-get-better-at-web-development-12pi)
-- [Dev.to/JS] [Instagram style stories in ReactJs](https://dev.to/hannadrehman/instagram-style-stories-in-reactjs-59d9)
-- [Dev.to/JS] [SvelteKit JWT authentication tutorial](https://dev.to/pilcrowonpaper/sveltekit-jwt-authentication-tutorial-2m34)
-- [Dev.to/JS] [My first work as a student without help](https://dev.to/sunilgoyal000/my-first-work-as-a-student-without-help-2385)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
-- [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
-- [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)<!-- TECH-POSTS:END -->
 
 ---
 
