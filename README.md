@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a deferred promise hook in React](https://dev.to/vicnovais/creating-a-deferred-promise-hook-in-react-39jh)
 - [Dev.to/JS] [From Static to Interactive: Why Resumability is the Best Alternative to Hydration](https://dev.to/builderio/from-static-to-interactive-why-resumability-is-the-best-alternative-to-hydration-3jjp)
 - [Dev.to/JS] [Imposter Syndrome is kicking in already...](https://dev.to/taepal467/imposter-syndrome-is-kicking-in-already-3j3n)
 - [Dev.to/JS] [My Journey](https://dev.to/warmastr/my-journey-gcp)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Dev.to/JS] [What is HTTP &amp; How Does It Work?](https://dev.to/britzdylan/what-is-http-how-does-it-work-2i07)
 - [Dev.to/JS] [Open Source Adventures: Episode 26: Imba 2 Stack Overflow](https://dev.to/taw/open-source-adventures-episode-26-imba-2-stack-overflow-3on9)
-- [Dev.to/JS] [Best Java Training in Los Angeles](https://dev.to/bestjavatraining/best-java-training-in-los-angeles-47kc)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
 - [Lifehacker] [Save Time and Money With Your Own Garden Drip Irrigation](https://lifehacker.com/save-time-and-money-with-your-own-garden-drip-irrigatio-1848724515)
