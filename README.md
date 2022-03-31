@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving Find Pivot Index from LeetCode + Explanation](https://dev.to/kaflenitish/solving-find-pivot-index-from-leetcode-explanation-m6o)
+- [Dev.to/JS] [High fidelity event sampling &amp; playback with Vanilla JS](https://dev.to/oben_source/high-fidelity-event-sampling-playback-with-vanilla-js-45nn)
 - [Dev.to/JS] [How to Make Your TypeScript Generic Functions Safer and Easier to Use](https://dev.to/v1rani/how-to-make-your-typescript-generic-functions-safer-and-easier-to-use-4m5f)
 - [Dev.to/JS] [PERN.TODO](https://dev.to/bycho91/perntodo-2blc)
 - [Dev.to/JS] [The magic combo: label what your code does and break it down to small pieces](https://dev.to/latobibor/the-magic-combo-naming-and-breaking-down-to-smaller-pieces-3mie)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript diagram editor that renders diagrams from PNG images &lpar;open source&rpar;](https://dev.to/alexboyko/javascript-diagram-editor-that-renders-diagrams-from-png-images-open-source-a63)
 - [Dev.to/JS] [FIDO Developer Tutorial Tool](https://dev.to/ncb879/fido-developer-tutorial-tool-2k89)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
-- [Dev.to/JS] [Improve user experience using Network status API and SolidJS](https://dev.to/kcdchennai/improve-user-experience-using-network-status-api-and-solidjs-1em6)
-- [Dev.to/JS] [Dragons Den Keto - Is Legit or Scam, Results &amp; Benefits?](https://dev.to/dragonsdenketo3/dragons-den-keto-is-legit-or-scam-results-benefits-1pa1)
 - [Lifehacker] [Just Be Yourself, and Other Dating Myths You Should Stop Believing](https://lifehacker.com/just-be-yourself-and-other-dating-myths-you-should-sto-1848731958)
 - [Lifehacker] [How to Make a Classic N64 Zelda Look Like a Modern PC Game](https://lifehacker.com/how-to-make-a-classic-n64-zelda-look-like-a-modern-pc-g-1848731884)
 - [Lifehacker] [Why All Weight Loss Hacks Suck](https://lifehacker.com/why-all-weight-loss-hacks-suck-1848727866)
