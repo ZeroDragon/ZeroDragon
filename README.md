@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The basics of FlatList](https://dev.to/luizaavelino/the-basics-of-flatlist-2ihi)
+- [Dev.to/JS] [🪄Magic Navigation Menu Indicator | Html CSS Javascript✨](https://dev.to/robsonmuniz16/magic-navigation-menu-indicator-html-css-javascript-362o)
+- [Dev.to/JS] [Responsive Animated Card Design using HTML and CSS Only](https://dev.to/incoderweb/responsive-animated-card-design-using-html-and-css-only-jap)
+- [Dev.to/JS] [Paracetamol.js💊| #88: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-88-explica-este-codigo-javascript-5198)
+- [Dev.to/JS] [SolidJS - An alternative to React?](https://dev.to/warriorjar/solidjs-an-alternative-to-react-4a86)
 - [Lifehacker] [Why All Weight Loss Hacks Suck](https://lifehacker.com/why-all-weight-loss-hacks-suck-1848727866)
 - [Dev.to/JS] [What&#39;s the problem with Typescript Enums?](https://dev.to/dvddpl/whats-the-problem-with-typescript-enums-2okj)
 - [Dev.to/JS] [JavaScript Still Being #1 in Modern App Development –Top Reasons](https://dev.to/miller921/javascript-still-being-1-in-modern-app-development-top-reasons-3po3)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Add an Egg Yolk to Your Mashed Potatoes](https://lifehacker.com/why-you-should-add-an-egg-yolk-to-your-mashed-potatoes-1848727643)
 - [Dev.to/JS] [What do you think of my HTML5 game?](https://dev.to/shubhamjain/what-do-you-think-of-my-html5-game-1oe4)
 - [Dev.to/JS] [javascript validation library - volder](https://dev.to/alguercode/javascript-validation-library-volder-31m2)
-- [Dev.to/JS] [What is Full-Stack Development?](https://dev.to/mikhailkaran/what-is-full-stack-development-4b8k)
-- [Dev.to/JS] [A Quick Behind the Scenes of Greedy and Lazy Matching](https://dev.to/rivea0/a-quick-behind-the-scenes-of-greedy-and-lazy-matching-1745)
-- [Dev.to/JS] [Mastering Blazor - Part 1: DOM Integration](https://dev.to/florianrappl/mastering-blazor-part-1-dom-integration-5591)
-- [Dev.to/JS] [Set up Open source Ecommerce in the cloud](https://dev.to/medusajs/set-up-open-source-ecommerce-in-the-cloud-lgm)
-- [Dev.to/JS] [Write articles using your voice using Bonga Editor.](https://dev.to/muriithigakuru/write-articles-using-your-voice-using-bonga-editor-324l)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
