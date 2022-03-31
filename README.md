@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Anime search app built using Reactjs and Typesense](https://dev.to/aviyel/anime-search-app-built-using-reactjs-and-typesense-1em1)
+- [Dev.to/JS] [How to create a delete endpoint with node.js and MySql](https://dev.to/ahmetakinsel/how-to-create-a-delete-endpoint-with-nodejs-and-mysql-17bn)
+- [Dev.to/JS] [How To Learn And Get Better At Web Development](https://dev.to/muditwt/how-to-learn-and-get-better-at-web-development-12pi)
+- [Dev.to/JS] [Instagram style stories in ReactJs](https://dev.to/hannadrehman/instagram-style-stories-in-reactjs-59d9)
 - [Dev.to/JS] [SvelteKit JWT authentication tutorial](https://dev.to/pilcrowonpaper/sveltekit-jwt-authentication-tutorial-2m34)
 - [Dev.to/JS] [My first work as a student without help](https://dev.to/sunilgoyal000/my-first-work-as-a-student-without-help-2385)
 - [Dev.to/JS] [A CSS Gradient Generator Tool for Better Looking Websites!](https://dev.to/codefoxx/css-gradient-generator-tool-for-better-looking-websites-3gil)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I am gonna do 100 days code challenge from today.](https://dev.to/morwals/i-am-gonna-do-100-days-code-challenge-from-today-5g7f)
 - [Dev.to/JS] [Advanced Appetite Fat Burner &lpar;Canada &rpar; – Are Pills Scam Or Legitimate?](https://dev.to/advancedappeti5/advanced-appetite-fat-burner-canada-are-pills-scam-or-legitimate-3a5f)
 - [Dev.to/JS] [Dativejs animation](https://dev.to/tobithedev/dativejs-animation-1fk4)
-- [Dev.to/JS] [Creating a deferred promise hook in React](https://dev.to/vicnovais/creating-a-deferred-promise-hook-in-react-39jh)
-- [Dev.to/JS] [From Static to Interactive: Why Resumability is the Best Alternative to Hydration](https://dev.to/builderio/from-static-to-interactive-why-resumability-is-the-best-alternative-to-hydration-3jjp)
-- [Dev.to/JS] [Imposter Syndrome is kicking in already...](https://dev.to/taepal467/imposter-syndrome-is-kicking-in-already-3j3n)
-- [Dev.to/JS] [My Journey](https://dev.to/warmastr/my-journey-gcp)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
