@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Vue 2 Snippets] Add title attribute only if needed](https://dev.to/neophen/vue-2-snippets-add-title-attribute-only-if-needed-40je)
+- [Dev.to/JS] [JavaScript - basic array operations with examples](https://dev.to/diraskjavascript/javascript-basic-array-operations-with-examples-5eld)
+- [Dev.to/JS] [Meteor Impact 2022 dates announced!](https://dev.to/storytellercz/meteor-impact-2022-dates-announced-3a8b)
+- [Dev.to/JS] [How to Multipart File Upload Using FormData with React Hook Form](https://dev.to/pankod/how-to-multipart-file-upload-using-formdata-with-react-hook-form-4d6d)
 - [Dev.to/JS] [How to Show a div near Cursor position on hover in React js?](https://dev.to/naeemrind/how-to-show-a-div-near-cursor-position-on-hover-in-react-js-454)
 - [Dev.to/JS] [On state mutation on changes of state](https://dev.to/3shain/on-state-mutation-on-changes-of-state-336n)
 - [Dev.to/JS] [Anime search app built using Reactjs and Typesense](https://dev.to/aviyel/anime-search-app-built-using-reactjs-and-typesense-1em1)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Instagram style stories in ReactJs](https://dev.to/hannadrehman/instagram-style-stories-in-reactjs-59d9)
 - [Dev.to/JS] [SvelteKit JWT authentication tutorial](https://dev.to/pilcrowonpaper/sveltekit-jwt-authentication-tutorial-2m34)
 - [Dev.to/JS] [My first work as a student without help](https://dev.to/sunilgoyal000/my-first-work-as-a-student-without-help-2385)
-- [Dev.to/JS] [A CSS Gradient Generator Tool for Better Looking Websites!](https://dev.to/codefoxx/css-gradient-generator-tool-for-better-looking-websites-3gil)
-- [Dev.to/JS] [First Release of the New Modal File Manager](https://dev.to/raguay/first-release-of-the-new-modal-file-manager-3bfj)
-- [Dev.to/JS] [Hero section](https://dev.to/kumard3/hero-section-kio)
-- [Dev.to/JS] [I am gonna do 100 days code challenge from today.](https://dev.to/morwals/i-am-gonna-do-100-days-code-challenge-from-today-5g7f)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
