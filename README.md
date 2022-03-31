@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why All Weight Loss Hacks Suck](https://lifehacker.com/why-all-weight-loss-hacks-suck-1848727866)
+- [Dev.to/JS] [What&#39;s the problem with Typescript Enums?](https://dev.to/dvddpl/whats-the-problem-with-typescript-enums-2okj)
+- [Dev.to/JS] [JavaScript Still Being #1 in Modern App Development –Top Reasons](https://dev.to/miller921/javascript-still-being-1-in-modern-app-development-top-reasons-3po3)
+- [Dev.to/JS] [Building a Recharts Dashboard with Cube](https://dev.to/cubejs/building-a-recharts-dashboard-with-cube-5cco)
+- [Dev.to/JS] [Sharing what I learned in React js 👇](https://dev.to/shrey802/sharing-what-i-learned-in-react-js-35bp)
+- [Dev.to/JS] [Making your own Email Subscription Service with Node.JS](https://dev.to/smpnjn/making-your-own-email-subscription-service-with-nodejs-29bc)
 - [Lifehacker] [Why You Should Add an Egg Yolk to Your Mashed Potatoes](https://lifehacker.com/why-you-should-add-an-egg-yolk-to-your-mashed-potatoes-1848727643)
 - [Dev.to/JS] [What do you think of my HTML5 game?](https://dev.to/shubhamjain/what-do-you-think-of-my-html5-game-1oe4)
 - [Dev.to/JS] [javascript validation library - volder](https://dev.to/alguercode/javascript-validation-library-volder-31m2)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mastering Blazor - Part 1: DOM Integration](https://dev.to/florianrappl/mastering-blazor-part-1-dom-integration-5591)
 - [Dev.to/JS] [Set up Open source Ecommerce in the cloud](https://dev.to/medusajs/set-up-open-source-ecommerce-in-the-cloud-lgm)
 - [Dev.to/JS] [Write articles using your voice using Bonga Editor.](https://dev.to/muriithigakuru/write-articles-using-your-voice-using-bonga-editor-324l)
-- [Dev.to/JS] [100 Days of Code](https://dev.to/brixmavu/100-days-of-code-24i8)
-- [Dev.to/JS] [Parallel promise execution: Beyound Promise.all&lpar;&rpar;](https://dev.to/_hariti/parallel-promise-execution-beyound-promiseall-33ik)
-- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 9&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-9-1l07)
-- [Dev.to/JS] [https://www.facebook.com/Totaleffectketogummiess/](https://dev.to/_total_effect_/httpswwwfacebookcomtotaleffectketogummiess-588j)
-- [Dev.to/JS] [Building a business from scratch - day 13](https://dev.to/twankrui/building-a-business-from-scratch-day-13-4fml)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Must Make a Chip &#39;n&#39; Dip Omelette](https://lifehacker.com/you-must-make-a-chip-n-dip-omelette-1848714285)
 - [Lifehacker] [How to Stop Saying &#39;Like&#39; &lpar;and Other Distracting Filler Words&rpar;](https://lifehacker.com/how-to-stop-saying-like-and-other-distracting-filler-w-1848715699)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
-- [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)<!-- TECH-POSTS:END -->
 
 ---
