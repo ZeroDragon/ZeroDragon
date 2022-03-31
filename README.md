@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
+- [Dev.to/JS] [FIDO Developer Tutorial Tool](https://dev.to/ncb879/fido-developer-tutorial-tool-2k89)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
 - [Dev.to/JS] [Improve user experience using Network status API and SolidJS](https://dev.to/kcdchennai/improve-user-experience-using-network-status-api-and-solidjs-1em6)
 - [Dev.to/JS] [Dragons Den Keto - Is Legit or Scam, Results &amp; Benefits?](https://dev.to/dragonsdenketo3/dragons-den-keto-is-legit-or-scam-results-benefits-1pa1)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #88: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-88-explica-este-codigo-javascript-5198)
 - [Dev.to/JS] [SolidJS - An alternative to React?](https://dev.to/warriorjar/solidjs-an-alternative-to-react-4a86)
 - [Lifehacker] [Why All Weight Loss Hacks Suck](https://lifehacker.com/why-all-weight-loss-hacks-suck-1848727866)
-- [Dev.to/JS] [What&#39;s the problem with Typescript Enums?](https://dev.to/dvddpl/whats-the-problem-with-typescript-enums-2okj)
 - [Lifehacker] [Why You Should Add an Egg Yolk to Your Mashed Potatoes](https://lifehacker.com/why-you-should-add-an-egg-yolk-to-your-mashed-potatoes-1848727643)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make This Delicious Citrus Syrup With Just Two Ingredients](https://lifehacker.com/make-this-delicious-citrus-syrup-with-just-two-ingredie-1848715089)
 - [Lifehacker] [Yes, Your Own Phone Number Is Spamming You](https://lifehacker.com/yes-your-own-phone-number-is-spamming-you-1848718546)
 - [Lifehacker] [The Smartest Ways to Use Dishwasher Tablets to Clean Your House](https://lifehacker.com/the-smartest-ways-to-use-dishwasher-tablets-to-clean-yo-1848712078)
-- [Lifehacker] [All the Best and Worst Ways to Use Protein Powder](https://lifehacker.com/all-the-best-and-worst-ways-to-use-protein-powder-1848716020)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)<!-- TECH-POSTS:END -->
 
 ---
