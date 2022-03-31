@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
+- [Dev.to/JS] [Improve user experience using Network status API and SolidJS](https://dev.to/kcdchennai/improve-user-experience-using-network-status-api-and-solidjs-1em6)
+- [Dev.to/JS] [Dragons Den Keto - Is Legit or Scam, Results &amp; Benefits?](https://dev.to/dragonsdenketo3/dragons-den-keto-is-legit-or-scam-results-benefits-1pa1)
 - [Lifehacker] [Just Be Yourself, and Other Dating Myths You Should Stop Believing](https://lifehacker.com/just-be-yourself-and-other-dating-myths-you-should-sto-1848731958)
 - [Dev.to/JS] [Creating Dynamic Modules in Nest JS Part-1](https://dev.to/tkssharma/creating-dynamic-modules-in-nest-js-part-1-2n0d)
 - [Dev.to/JS] [Tutorial: create a WhatsApp bot using Node.js and Puppeteer](https://dev.to/emmanuelthecoder/tutorial-create-a-whatsapp-bot-using-nodejs-and-puppeteer-1fn7)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SolidJS - An alternative to React?](https://dev.to/warriorjar/solidjs-an-alternative-to-react-4a86)
 - [Lifehacker] [Why All Weight Loss Hacks Suck](https://lifehacker.com/why-all-weight-loss-hacks-suck-1848727866)
 - [Dev.to/JS] [What&#39;s the problem with Typescript Enums?](https://dev.to/dvddpl/whats-the-problem-with-typescript-enums-2okj)
-- [Dev.to/JS] [JavaScript Still Being #1 in Modern App Development –Top Reasons](https://dev.to/miller921/javascript-still-being-1-in-modern-app-development-top-reasons-3po3)
-- [Dev.to/JS] [Building a Recharts Dashboard with Cube](https://dev.to/cubejs/building-a-recharts-dashboard-with-cube-5cco)
 - [Lifehacker] [Why You Should Add an Egg Yolk to Your Mashed Potatoes](https://lifehacker.com/why-you-should-add-an-egg-yolk-to-your-mashed-potatoes-1848727643)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, Your Own Phone Number Is Spamming You](https://lifehacker.com/yes-your-own-phone-number-is-spamming-you-1848718546)
 - [Lifehacker] [The Smartest Ways to Use Dishwasher Tablets to Clean Your House](https://lifehacker.com/the-smartest-ways-to-use-dishwasher-tablets-to-clean-yo-1848712078)
 - [Lifehacker] [All the Best and Worst Ways to Use Protein Powder](https://lifehacker.com/all-the-best-and-worst-ways-to-use-protein-powder-1848716020)
-- [Lifehacker] [You Must Make a Chip &#39;n&#39; Dip Omelette](https://lifehacker.com/you-must-make-a-chip-n-dip-omelette-1848714285)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)<!-- TECH-POSTS:END -->
 
 ---
