@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From Static to Interactive: Why Resumability is the Best Alternative to Hydration](https://dev.to/builderio/from-static-to-interactive-why-resumability-is-the-best-alternative-to-hydration-3jjp)
+- [Dev.to/JS] [Imposter Syndrome is kicking in already...](https://dev.to/taepal467/imposter-syndrome-is-kicking-in-already-3j3n)
 - [Dev.to/JS] [My Journey](https://dev.to/warmastr/my-journey-gcp)
 - [Dev.to/JS] [How to use Puppeteer inside a Docker container](https://dev.to/cloudx/how-to-use-puppeteer-inside-a-docker-container-568c)
 - [Dev.to/JS] [Recebendo e-mails utilizando o Google Apps Script.](https://dev.to/jhonyrdesouza/recebendo-e-mails-utilizando-o-google-apps-script-346j)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is HTTP &amp; How Does It Work?](https://dev.to/britzdylan/what-is-http-how-does-it-work-2i07)
 - [Dev.to/JS] [Open Source Adventures: Episode 26: Imba 2 Stack Overflow](https://dev.to/taw/open-source-adventures-episode-26-imba-2-stack-overflow-3on9)
 - [Dev.to/JS] [Best Java Training in Los Angeles](https://dev.to/bestjavatraining/best-java-training-in-los-angeles-47kc)
-- [Dev.to/JS] [Any javascript topics you like to see ?](https://dev.to/hacker4world/any-javascript-topics-you-like-to-see--12c0)
-- [Dev.to/JS] [Building a collection of Tech Blogs using React JS and HarperDB](https://dev.to/the_greatbonnie/building-a-collection-of-tech-blogs-using-react-js-and-harperdb-30h7)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
 - [Lifehacker] [Save Time and Money With Your Own Garden Drip Irrigation](https://lifehacker.com/save-time-and-money-with-your-own-garden-drip-irrigatio-1848724515)
