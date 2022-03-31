@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implement quick blog comments in VueJS](https://dev.to/hackmamba/implement-quick-blog-comments-in-vuejs-22le)
+- [Dev.to/JS] [Multiple language Meeting room Deepgram x DEV.to](https://dev.to/zaahmednisumcom/multiple-language-meeting-room-deepgram-x-devto-12ne)
 - [Dev.to/JS] [How to Create a Job Board in NextJS](https://dev.to/hackmamba/how-to-create-a-job-board-in-nextjs-2m4c)
 - [Dev.to/JS] [Try before you buy: adding a trial period to subscriptions](https://dev.to/stripe/try-before-you-buy-adding-a-trial-period-to-subscriptions-248d)
 - [Dev.to/JS] [A JavaScript Slider in 8 Lines](https://dev.to/wolffe/a-javascript-slider-in-8-lines-42bh)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PERN.TODO](https://dev.to/bycho91/perntodo-2blc)
 - [Dev.to/JS] [The magic combo: label what your code does and break it down to small pieces](https://dev.to/latobibor/the-magic-combo-naming-and-breaking-down-to-smaller-pieces-3mie)
 - [Dev.to/JS] [Going at your own pace in Tech in India](https://dev.to/bhavzlearn/going-at-your-own-pace-in-tech-in-india-3a13)
-- [Dev.to/JS] [Using vite-plugin-ssr with mdx-js, solving ESM only library problems, understanding vite configuration and writing vite plugins](https://dev.to/naveennamani/using-vite-plugin-ssr-with-mdx-js-solving-esm-only-library-problems-understanding-vite-configuration-and-writing-vite-plugins-3b24)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
-- [Dev.to/JS] [Why is it you can execute a function on the right side of an AND &amp;&amp; operator in JavaScript](https://dev.to/michael/why-is-it-you-can-execute-a-function-on-the-right-side-of-an-and-operator-in-javascript-3npk)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
 - [Lifehacker] [Just Be Yourself, and Other Dating Myths You Should Stop Believing](https://lifehacker.com/just-be-yourself-and-other-dating-myths-you-should-sto-1848731958)
