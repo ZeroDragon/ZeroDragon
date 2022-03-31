@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Show a div near Cursor position on hover in React js?](https://dev.to/naeemrind/how-to-show-a-div-near-cursor-position-on-hover-in-react-js-454)
+- [Dev.to/JS] [On state mutation on changes of state](https://dev.to/3shain/on-state-mutation-on-changes-of-state-336n)
 - [Dev.to/JS] [Anime search app built using Reactjs and Typesense](https://dev.to/aviyel/anime-search-app-built-using-reactjs-and-typesense-1em1)
 - [Dev.to/JS] [How to create a delete endpoint with node.js and MySql](https://dev.to/ahmetakinsel/how-to-create-a-delete-endpoint-with-nodejs-and-mysql-17bn)
 - [Dev.to/JS] [How To Learn And Get Better At Web Development](https://dev.to/muditwt/how-to-learn-and-get-better-at-web-development-12pi)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First Release of the New Modal File Manager](https://dev.to/raguay/first-release-of-the-new-modal-file-manager-3bfj)
 - [Dev.to/JS] [Hero section](https://dev.to/kumard3/hero-section-kio)
 - [Dev.to/JS] [I am gonna do 100 days code challenge from today.](https://dev.to/morwals/i-am-gonna-do-100-days-code-challenge-from-today-5g7f)
-- [Dev.to/JS] [Advanced Appetite Fat Burner &lpar;Canada &rpar; – Are Pills Scam Or Legitimate?](https://dev.to/advancedappeti5/advanced-appetite-fat-burner-canada-are-pills-scam-or-legitimate-3a5f)
-- [Dev.to/JS] [Dativejs animation](https://dev.to/tobithedev/dativejs-animation-1fk4)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
