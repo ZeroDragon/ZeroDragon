@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Job Board in NextJS](https://dev.to/hackmamba/how-to-create-a-job-board-in-nextjs-2m4c)
+- [Dev.to/JS] [Try before you buy: adding a trial period to subscriptions](https://dev.to/stripe/try-before-you-buy-adding-a-trial-period-to-subscriptions-248d)
+- [Dev.to/JS] [A JavaScript Slider in 8 Lines](https://dev.to/wolffe/a-javascript-slider-in-8-lines-42bh)
+- [Dev.to/JS] [How to Upgrade Your freeCodeCamp Project](https://dev.to/deepgram/how-to-upgrade-your-freecodecamp-project-53d3)
 - [Dev.to/JS] [Solving Find Pivot Index from LeetCode + Explanation](https://dev.to/kaflenitish/solving-find-pivot-index-from-leetcode-explanation-m6o)
 - [Dev.to/JS] [High fidelity event sampling &amp; playback with Vanilla JS](https://dev.to/oben_source/high-fidelity-event-sampling-playback-with-vanilla-js-45nn)
 - [Dev.to/JS] [How to Make Your TypeScript Generic Functions Safer and Easier to Use](https://dev.to/v1rani/how-to-make-your-typescript-generic-functions-safer-and-easier-to-use-4m5f)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using vite-plugin-ssr with mdx-js, solving ESM only library problems, understanding vite configuration and writing vite plugins](https://dev.to/naveennamani/using-vite-plugin-ssr-with-mdx-js-solving-esm-only-library-problems-understanding-vite-configuration-and-writing-vite-plugins-3b24)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Dev.to/JS] [Why is it you can execute a function on the right side of an AND &amp;&amp; operator in JavaScript](https://dev.to/michael/why-is-it-you-can-execute-a-function-on-the-right-side-of-an-and-operator-in-javascript-3npk)
-- [Dev.to/JS] [Our Journey to Prettier and ESLint: How We Adopted These Tools to Improve Our Code Quality](https://dev.to/cfofiu/our-journey-to-prettier-and-eslint-how-we-adopted-these-tools-to-improve-our-code-quality-nfg)
-- [Dev.to/JS] [Why i started learning Svelte JS](https://dev.to/tkssharma/why-i-started-learning-svelte-js-53nj)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
-- [Dev.to/JS] [JavaScript diagram editor that renders diagrams from PNG images &lpar;open source&rpar;](https://dev.to/alexboyko/javascript-diagram-editor-that-renders-diagrams-from-png-images-open-source-a63)
-- [Dev.to/JS] [FIDO Developer Tutorial Tool](https://dev.to/ncb879/fido-developer-tutorial-tool-2k89)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
 - [Lifehacker] [Just Be Yourself, and Other Dating Myths You Should Stop Believing](https://lifehacker.com/just-be-yourself-and-other-dating-myths-you-should-sto-1848731958)
 - [Lifehacker] [How to Make a Classic N64 Zelda Look Like a Modern PC Game](https://lifehacker.com/how-to-make-a-classic-n64-zelda-look-like-a-modern-pc-g-1848731884)
