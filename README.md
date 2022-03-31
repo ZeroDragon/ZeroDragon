@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A CSS Gradient Generator Tool for Better Looking Websites!](https://dev.to/codefoxx/css-gradient-generator-tool-for-better-looking-websites-3gil)
+- [Dev.to/JS] [First Release of the New Modal File Manager](https://dev.to/raguay/first-release-of-the-new-modal-file-manager-3bfj)
+- [Dev.to/JS] [Hero section](https://dev.to/kumard3/hero-section-kio)
+- [Dev.to/JS] [I am gonna do 100 days code challenge from today.](https://dev.to/morwals/i-am-gonna-do-100-days-code-challenge-from-today-5g7f)
+- [Dev.to/JS] [Advanced Appetite Fat Burner &lpar;Canada &rpar; – Are Pills Scam Or Legitimate?](https://dev.to/advancedappeti5/advanced-appetite-fat-burner-canada-are-pills-scam-or-legitimate-3a5f)
 - [Dev.to/JS] [Dativejs animation](https://dev.to/tobithedev/dativejs-animation-1fk4)
 - [Dev.to/JS] [Creating a deferred promise hook in React](https://dev.to/vicnovais/creating-a-deferred-promise-hook-in-react-39jh)
 - [Dev.to/JS] [From Static to Interactive: Why Resumability is the Best Alternative to Hydration](https://dev.to/builderio/from-static-to-interactive-why-resumability-is-the-best-alternative-to-hydration-3jjp)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Journey](https://dev.to/warmastr/my-journey-gcp)
 - [Dev.to/JS] [How to use Puppeteer inside a Docker container](https://dev.to/cloudx/how-to-use-puppeteer-inside-a-docker-container-568c)
 - [Dev.to/JS] [Recebendo e-mails utilizando o Google Apps Script.](https://dev.to/jhonyrdesouza/recebendo-e-mails-utilizando-o-google-apps-script-346j)
-- [Dev.to/JS] [An Introduction To AWS CloudFront Functions](https://dev.to/honeybadger/an-introduction-to-aws-cloudfront-functions-hh0)
-- [Dev.to/JS] [Create a P2P network with Node from scratch.](https://dev.to/swensson/create-a-p2p-network-with-node-from-scratch-1pah)
-- [Dev.to/JS] [Asynchronous JavaScript: callbacks, promises, Async/await, Event loop - part 2](https://dev.to/cinarb2/asynchronous-javascript-callbacks-promises-asyncawait-event-loop-part-2-98f)
-- [Dev.to/JS] [Open Source Adventures: Episode 27: Imba 2 Overall Impressions](https://dev.to/taw/open-source-adventures-episode-27-imba-2-overall-impressions-bnm)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
-- [Dev.to/JS] [What is HTTP &amp; How Does It Work?](https://dev.to/britzdylan/what-is-http-how-does-it-work-2i07)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
 - [Lifehacker] [Save Time and Money With Your Own Garden Drip Irrigation](https://lifehacker.com/save-time-and-money-with-your-own-garden-drip-irrigatio-1848724515)
