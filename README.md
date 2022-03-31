@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Add an Egg Yolk to Your Mashed Potatoes](https://lifehacker.com/why-you-should-add-an-egg-yolk-to-your-mashed-potatoes-1848727643)
+- [Dev.to/JS] [What do you think of my HTML5 game?](https://dev.to/shubhamjain/what-do-you-think-of-my-html5-game-1oe4)
+- [Dev.to/JS] [javascript validation library - volder](https://dev.to/alguercode/javascript-validation-library-volder-31m2)
+- [Dev.to/JS] [What is Full-Stack Development?](https://dev.to/mikhailkaran/what-is-full-stack-development-4b8k)
+- [Dev.to/JS] [A Quick Behind the Scenes of Greedy and Lazy Matching](https://dev.to/rivea0/a-quick-behind-the-scenes-of-greedy-and-lazy-matching-1745)
+- [Dev.to/JS] [Mastering Blazor - Part 1: DOM Integration](https://dev.to/florianrappl/mastering-blazor-part-1-dom-integration-5591)
+- [Dev.to/JS] [Set up Open source Ecommerce in the cloud](https://dev.to/medusajs/set-up-open-source-ecommerce-in-the-cloud-lgm)
 - [Dev.to/JS] [Write articles using your voice using Bonga Editor.](https://dev.to/muriithigakuru/write-articles-using-your-voice-using-bonga-editor-324l)
 - [Dev.to/JS] [100 Days of Code](https://dev.to/brixmavu/100-days-of-code-24i8)
 - [Dev.to/JS] [Parallel promise execution: Beyound Promise.all&lpar;&rpar;](https://dev.to/_hariti/parallel-promise-execution-beyound-promiseall-33ik)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 9&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-9-1l07)
 - [Dev.to/JS] [https://www.facebook.com/Totaleffectketogummiess/](https://dev.to/_total_effect_/httpswwwfacebookcomtotaleffectketogummiess-588j)
 - [Dev.to/JS] [Building a business from scratch - day 13](https://dev.to/twankrui/building-a-business-from-scratch-day-13-4fml)
-- [Dev.to/JS] [📅 Javascript Datetime 📅](https://dev.to/raaynaldo/javascript-datetime-111e)
-- [Dev.to/JS] [Say HELLO to Nodejs and Expressjs](https://dev.to/bellatrix/say-hello-to-nodejs-and-expressjs-j62)
-- [Dev.to/JS] [Tips for creating a component library](https://dev.to/asayerio_techblog/tips-for-creating-a-component-library-7bc)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
-- [Dev.to/JS] [How I built my portfolio as a chatbot using Next.js](https://dev.to/jeffreythecoder/how-i-built-my-portfolio-as-a-chatbot-using-nextjs-2hh5)
-- [Dev.to/JS] [[Vue 2 Snippets] Add title attribute only if needed](https://dev.to/neophen/vue-2-snippets-add-title-attribute-only-if-needed-40je)
-- [Dev.to/JS] [JavaScript - basic array operations with examples](https://dev.to/diraskjavascript/javascript-basic-array-operations-with-examples-5eld)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Saying &#39;Like&#39; &lpar;and Other Distracting Filler Words&rpar;](https://lifehacker.com/how-to-stop-saying-like-and-other-distracting-filler-w-1848715699)
 - [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Lifehacker] [Why Is Everyone Talking About Alopecia?](https://lifehacker.com/why-is-everyone-talking-about-alopecia-1848714054)
-- [Lifehacker] [How to Copy More Than One Thing to Your Clipboard at a Time on Windows and Mac](https://lifehacker.com/how-to-copy-more-than-one-thing-to-your-clipboard-at-a-1848711373)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)<!-- TECH-POSTS:END -->
 
 ---
