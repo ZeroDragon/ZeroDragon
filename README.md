@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SvelteKit JWT authentication tutorial](https://dev.to/pilcrowonpaper/sveltekit-jwt-authentication-tutorial-2m34)
+- [Dev.to/JS] [My first work as a student without help](https://dev.to/sunilgoyal000/my-first-work-as-a-student-without-help-2385)
 - [Dev.to/JS] [A CSS Gradient Generator Tool for Better Looking Websites!](https://dev.to/codefoxx/css-gradient-generator-tool-for-better-looking-websites-3gil)
 - [Dev.to/JS] [First Release of the New Modal File Manager](https://dev.to/raguay/first-release-of-the-new-modal-file-manager-3bfj)
 - [Dev.to/JS] [Hero section](https://dev.to/kumard3/hero-section-kio)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From Static to Interactive: Why Resumability is the Best Alternative to Hydration](https://dev.to/builderio/from-static-to-interactive-why-resumability-is-the-best-alternative-to-hydration-3jjp)
 - [Dev.to/JS] [Imposter Syndrome is kicking in already...](https://dev.to/taepal467/imposter-syndrome-is-kicking-in-already-3j3n)
 - [Dev.to/JS] [My Journey](https://dev.to/warmastr/my-journey-gcp)
-- [Dev.to/JS] [How to use Puppeteer inside a Docker container](https://dev.to/cloudx/how-to-use-puppeteer-inside-a-docker-container-568c)
-- [Dev.to/JS] [Recebendo e-mails utilizando o Google Apps Script.](https://dev.to/jhonyrdesouza/recebendo-e-mails-utilizando-o-google-apps-script-346j)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
