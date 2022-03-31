@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Just Be Yourself, and Other Dating Myths You Should Stop Believing](https://lifehacker.com/just-be-yourself-and-other-dating-myths-you-should-sto-1848731958)
+- [Dev.to/JS] [Creating Dynamic Modules in Nest JS Part-1](https://dev.to/tkssharma/creating-dynamic-modules-in-nest-js-part-1-2n0d)
+- [Dev.to/JS] [Tutorial: create a WhatsApp bot using Node.js and Puppeteer](https://dev.to/emmanuelthecoder/tutorial-create-a-whatsapp-bot-using-nodejs-and-puppeteer-1fn7)
+- [Dev.to/JS] [Bit Maze - Platformer Maze](https://dev.to/takaneichinose/bit-maze-platformer-maze-1aed)
+- [Dev.to/JS] [Inmutabilidad](https://dev.to/leobar37/inmutabilidad-3hc3)
+- [Lifehacker] [How to Make a Classic N64 Zelda Look Like a Modern PC Game](https://lifehacker.com/how-to-make-a-classic-n64-zelda-look-like-a-modern-pc-g-1848731884)
 - [Dev.to/JS] [The basics of FlatList](https://dev.to/luizaavelino/the-basics-of-flatlist-2ihi)
 - [Dev.to/JS] [🪄Magic Navigation Menu Indicator | Html CSS Javascript✨](https://dev.to/robsonmuniz16/magic-navigation-menu-indicator-html-css-javascript-362o)
 - [Dev.to/JS] [Responsive Animated Card Design using HTML and CSS Only](https://dev.to/incoderweb/responsive-animated-card-design-using-html-and-css-only-jap)
@@ -32,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s the problem with Typescript Enums?](https://dev.to/dvddpl/whats-the-problem-with-typescript-enums-2okj)
 - [Dev.to/JS] [JavaScript Still Being #1 in Modern App Development –Top Reasons](https://dev.to/miller921/javascript-still-being-1-in-modern-app-development-top-reasons-3po3)
 - [Dev.to/JS] [Building a Recharts Dashboard with Cube](https://dev.to/cubejs/building-a-recharts-dashboard-with-cube-5cco)
-- [Dev.to/JS] [Sharing what I learned in React js 👇](https://dev.to/shrey802/sharing-what-i-learned-in-react-js-35bp)
-- [Dev.to/JS] [Making your own Email Subscription Service with Node.JS](https://dev.to/smpnjn/making-your-own-email-subscription-service-with-nodejs-29bc)
 - [Lifehacker] [Why You Should Add an Egg Yolk to Your Mashed Potatoes](https://lifehacker.com/why-you-should-add-an-egg-yolk-to-your-mashed-potatoes-1848727643)
-- [Dev.to/JS] [What do you think of my HTML5 game?](https://dev.to/shubhamjain/what-do-you-think-of-my-html5-game-1oe4)
-- [Dev.to/JS] [javascript validation library - volder](https://dev.to/alguercode/javascript-validation-library-volder-31m2)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Smartest Ways to Use Dishwasher Tablets to Clean Your House](https://lifehacker.com/the-smartest-ways-to-use-dishwasher-tablets-to-clean-yo-1848712078)
 - [Lifehacker] [All the Best and Worst Ways to Use Protein Powder](https://lifehacker.com/all-the-best-and-worst-ways-to-use-protein-powder-1848716020)
 - [Lifehacker] [You Must Make a Chip &#39;n&#39; Dip Omelette](https://lifehacker.com/you-must-make-a-chip-n-dip-omelette-1848714285)
-- [Lifehacker] [How to Stop Saying &#39;Like&#39; &lpar;and Other Distracting Filler Words&rpar;](https://lifehacker.com/how-to-stop-saying-like-and-other-distracting-filler-w-1848715699)
-- [Lifehacker] [What&#39;s New on Paramount+ in April 2022](https://lifehacker.com/whats-new-on-paramount-in-april-2022-1848714905)
 - [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)<!-- TECH-POSTS:END -->
 
 ---
