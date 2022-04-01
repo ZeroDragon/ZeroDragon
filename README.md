@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Splitting String on Date Format Producing an Array](https://dev.to/briang123/splitting-string-on-date-format-producing-an-array-468l)
 - [Dev.to/JS] [Javascript topics i will cover](https://dev.to/hacker4world/javascript-topics-i-will-cover-ej9)
 - [Dev.to/JS] [Complete Phaser 3 Game Development Guide: Part 0 &lpar;Installation and Importing&rpar;](https://dev.to/the_unfactoring_guru/complete-phaser-3-game-development-guide-part-0-installation-and-importing-4903)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell if You’re Chatting with a Bot](https://lifehacker.com/how-to-tell-if-you-re-chatting-with-a-bot-1848733021)
 - [Dev.to/JS] [Um guia sobre estruturação de pastas para projetos em Next.js](https://dev.to/trybe/um-guia-sobre-estruturacao-de-pastas-para-projetos-em-nextjs-5b6j)
 - [Dev.to/JS] [Month 4 of my coding journey](https://dev.to/taepal467/month-4-of-my-coding-journey-1clc)
-- [Dev.to/JS] [Create a React Chat Application Using KendoReact Conversational UI](https://dev.to/chineduimoh/create-a-react-chat-application-using-kendoreact-conversational-ui-36c7)
 - [Lifehacker] [How to Deal With a Brilliant Jerk at Work](https://lifehacker.com/how-to-deal-with-a-brilliant-asshole-at-work-1848732403)
 - [Lifehacker] [10 Classic Porn Films Made by Women](https://lifehacker.com/10-classic-porn-films-made-by-women-1848687729)
 - [Lifehacker] [Finish Your Spring Vegetables With These 3 Ingredients](https://lifehacker.com/finish-your-spring-vegetables-with-these-3-ingredients-1848733166)
