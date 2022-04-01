@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Deal With a Brilliant Jerk at Work](https://lifehacker.com/how-to-deal-with-a-brilliant-asshole-at-work-1848732403)
+- [Dev.to/JS] [React Hooks](https://dev.to/8eth/react-hooks-29fp)
+- [Dev.to/JS] [Responsive SEO Agency Website using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-seo-agency-website-using-html-css-javascript-2fme)
+- [Lifehacker] [10 Classic Porn Films Made by Women](https://lifehacker.com/10-classic-porn-films-made-by-women-1848687729)
+- [Dev.to/JS] [New post](https://dev.to/jarodxu12/new-post-8dp)
 - [Lifehacker] [Finish Your Spring Vegetables With These 3 Ingredients](https://lifehacker.com/finish-your-spring-vegetables-with-these-3-ingredients-1848733166)
 - [Dev.to/JS] [Mistakes Done By Self-Taught Programmers Where Formal Educators Have an Edge](https://dev.to/techmaniacc/mistakes-done-by-self-taught-programmers-where-formal-educators-have-an-edge-4lo0)
 - [Lifehacker] [How Much Privacy Do Your Extremely Online Friends Owe You?](https://lifehacker.com/how-much-privacy-do-your-extremely-online-friends-owe-y-1848727108)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #89: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-89-explica-este-codigo-javascript-4okl)
 - [Dev.to/JS] [How Javascript Generator Functions Work](https://dev.to/smpnjn/how-javascript-generators-work-3h14)
 - [Lifehacker] [Don&#39;t Waste Money Buying Brand Names for These Products](https://lifehacker.com/dont-waste-money-buying-brand-names-for-these-products-1848731900)
-- [Dev.to/JS] [Typescript API Design: Single Callable Or Multiple Callable](https://dev.to/tylim88/typescript-api-design-single-callable-or-multiple-callable-5gjn)
-- [Dev.to/JS] [2nd month in Manhattan!](https://dev.to/johnsonevan/2nd-month-in-manhattan-4dab)
 - [Lifehacker] [The &#39;Chunks&#39; in This Recalled Peanut Butter Could Be Metal Fragments](https://lifehacker.com/the-chunks-in-this-recalled-peanut-butter-could-be-meta-1848735872)
-- [Dev.to/JS] [Selenium Automation Testing On The Cloud | Selenium WebDriver With JavaScript Tutorial | Part VII](https://dev.to/lambdatest/selenium-automation-testing-on-the-cloud-selenium-webdriver-with-javascript-tutorial-part-vii-2d01)
 - [Lifehacker] [What &#39;Cunningham&#39;s Law&#39; Really Tells Us About How We Interact Online](https://lifehacker.com/what-cunninghams-law-really-tells-us-about-how-we-inter-1848733445)
 - [Lifehacker] [8 Ways to Make Your Mac’s Dock More Useful](https://lifehacker.com/8-ways-to-make-your-mac-s-dock-more-useful-1848720074)
 - [Lifehacker] [13 Places You Can Legally Stream TV Shows for Free](https://lifehacker.com/13-places-you-can-legally-stream-tv-shows-for-free-1848697629)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
 - [Lifehacker] [Save Time and Money With Your Own Garden Drip Irrigation](https://lifehacker.com/save-time-and-money-with-your-own-garden-drip-irrigatio-1848724515)
 - [Lifehacker] [Why Would Anyone Remove Their MacBook&#39;s Display?](https://lifehacker.com/why-would-anyone-remove-their-macbooks-display-1848725703)
-- [Lifehacker] [The Only Right Way to Take Relationship Advice From a Friend](https://lifehacker.com/the-only-right-way-to-take-relationship-advice-from-a-f-1848721139)
-- [Lifehacker] [Should You Cancel &lpar;or Upgrade&rpar; Your PlayStation Plus Subscription?](https://lifehacker.com/should-you-cancel-or-upgrade-your-playstation-plus-su-1848721975)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
 ---
