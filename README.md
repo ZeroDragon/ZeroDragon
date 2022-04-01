@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Customizing a Drawer Element in a Quick App](https://dev.to/josholadele/customizing-a-drawer-element-in-a-quick-app-93a)
+- [Dev.to/JS] [Top 3 Casts of the Week #4](https://dev.to/codecast/top-3-casts-of-the-week-4-22nb)
+- [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
 - [Dev.to/JS] [Asynchronous Logic to Write a Vue 3 and Deepgram Captions Component](https://dev.to/deepgram/asynchronous-logic-to-write-a-vue-3-and-deepgram-captions-component-4b72)
 - [Lifehacker] [How to Discreetly Obtain Birth Control](https://lifehacker.com/how-to-discreetly-obtain-birth-control-1848732196)
@@ -38,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Deal With a Brilliant Jerk at Work](https://lifehacker.com/how-to-deal-with-a-brilliant-asshole-at-work-1848732403)
 - [Dev.to/JS] [Creating Microservices in Nest.js](https://dev.to/architectio/creating-microservices-in-nestjs-b92)
 - [Dev.to/JS] [React Hooks](https://dev.to/8eth/react-hooks-29fp)
-- [Dev.to/JS] [Responsive SEO Agency Website using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-seo-agency-website-using-html-css-javascript-2fme)
 - [Lifehacker] [10 Classic Porn Films Made by Women](https://lifehacker.com/10-classic-porn-films-made-by-women-1848687729)
-- [Dev.to/JS] [New post](https://dev.to/jarodxu12/new-post-8dp)
 - [Lifehacker] [Finish Your Spring Vegetables With These 3 Ingredients](https://lifehacker.com/finish-your-spring-vegetables-with-these-3-ingredients-1848733166)
 - [Lifehacker] [How Much Privacy Do Your Extremely Online Friends Owe You?](https://lifehacker.com/how-much-privacy-do-your-extremely-online-friends-owe-y-1848727108)
 - [Lifehacker] [What Does It Take to Become a Personal Trainer &lpar;and Is It Worth It&rpar;?](https://lifehacker.com/what-does-it-take-to-become-a-personal-trainer-and-is-1848705391)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why All Weight Loss Hacks Suck](https://lifehacker.com/why-all-weight-loss-hacks-suck-1848727866)
 - [Lifehacker] [Why You Should Add an Egg Yolk to Your Mashed Potatoes](https://lifehacker.com/why-you-should-add-an-egg-yolk-to-your-mashed-potatoes-1848727643)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
-- [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
 ---
