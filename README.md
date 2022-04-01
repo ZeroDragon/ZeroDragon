@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Keto Supplements - Is Legit or Scam, Price, Reviews &amp; Benefits?](https://dev.to/top5ketosupple1/top-5-keto-supplements-is-legit-or-scam-price-reviews-benefits-55bp)
+- [Dev.to/JS] [Day 2](https://dev.to/brixmavu/day-2-2621)
 - [Dev.to/JS] [Some project ideas for beginners, Web Development.](https://dev.to/itskunal/some-project-ideas-for-beginners-web-development-11mc)
 - [Dev.to/JS] [Digital Binoculars Market Growth, Future Scope, Challenges, Opportunities, Trends, Outlook And Forecast To 2027](https://dev.to/vivek63665497/digital-binoculars-market-growth-future-scope-challenges-opportunities-trends-outlook-and-forecast-to-2027-i6p)
 - [Dev.to/JS] [Where Am I?](https://dev.to/warmastr/where-am-i-3joh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [QZ Tray: Impressão em impressoras térmicas pelo navegador](https://dev.to/xxdannilinxx/qz-tray-impressao-em-impressoras-termicas-pelo-navegador-1mam)
 - [Dev.to/JS] [Tree generation with a monoidal reduction](https://dev.to/sethcalebweeks/tree-generation-with-a-monoidal-reduction-2i22)
 - [Dev.to/JS] [Introduction of useState and useEffect](https://dev.to/yohanesss/introduction-of-usestate-and-useeffect-20do)
-- [Dev.to/JS] [Multiple language Meeting room Deepgram x DEV.to](https://dev.to/zaahmednisumcom/multiple-language-meeting-room-deepgram-x-devto-12ne)
-- [Dev.to/JS] [How to Create a Job Board in NextJS](https://dev.to/hackmamba/how-to-create-a-job-board-in-nextjs-2m4c)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
