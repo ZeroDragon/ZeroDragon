@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Some project ideas for beginners, Web Development.](https://dev.to/itskunal/some-project-ideas-for-beginners-web-development-11mc)
+- [Dev.to/JS] [Digital Binoculars Market Growth, Future Scope, Challenges, Opportunities, Trends, Outlook And Forecast To 2027](https://dev.to/vivek63665497/digital-binoculars-market-growth-future-scope-challenges-opportunities-trends-outlook-and-forecast-to-2027-i6p)
 - [Dev.to/JS] [Where Am I?](https://dev.to/warmastr/where-am-i-3joh)
 - [Dev.to/JS] [JS Exercise: Sum of a String](https://dev.to/phantomhaze/js-exercise-sum-of-a-string-nga)
 - [Dev.to/JS] [jQuery Image Magnifier on Mouse Hover](https://dev.to/techsolutionstuff/jquery-image-magnifier-on-mouse-hover-16m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction of useState and useEffect](https://dev.to/yohanesss/introduction-of-usestate-and-useeffect-20do)
 - [Dev.to/JS] [Multiple language Meeting room Deepgram x DEV.to](https://dev.to/zaahmednisumcom/multiple-language-meeting-room-deepgram-x-devto-12ne)
 - [Dev.to/JS] [How to Create a Job Board in NextJS](https://dev.to/hackmamba/how-to-create-a-job-board-in-nextjs-2m4c)
-- [Dev.to/JS] [Try before you buy: adding a trial period to subscriptions](https://dev.to/stripe/try-before-you-buy-adding-a-trial-period-to-subscriptions-248d)
-- [Dev.to/JS] [A JavaScript Slider in 8 Lines](https://dev.to/wolffe/a-javascript-slider-in-8-lines-42bh)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
