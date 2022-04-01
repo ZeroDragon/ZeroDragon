@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Public CDN&#39;s aren&#39;t useful anymore](https://dev.to/rstacruz/public-cdns-arent-useful-anymore-2b66)
+- [Dev.to/JS] [Why is it you can execute a function on the right side of an AND &amp;&amp; operator in JavaScript](https://dev.to/moadhn/why-is-it-you-can-execute-a-function-on-the-right-side-of-an-and-operator-in-javascript-2633)
+- [Dev.to/JS] [Tree generation with a monoidal reduction](https://dev.to/sethcalebweeks/tree-generation-with-a-monoidal-reduction-2i22)
 - [Dev.to/JS] [Introduction of useState and useEffect](https://dev.to/yohanesss/introduction-of-usestate-and-useeffect-20do)
 - [Dev.to/JS] [Multiple language Meeting room Deepgram x DEV.to](https://dev.to/zaahmednisumcom/multiple-language-meeting-room-deepgram-x-devto-12ne)
 - [Dev.to/JS] [How to Create a Job Board in NextJS](https://dev.to/hackmamba/how-to-create-a-job-board-in-nextjs-2m4c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solving Find Pivot Index from LeetCode + Explanation](https://dev.to/kaflenitish/solving-find-pivot-index-from-leetcode-explanation-m6o)
 - [Dev.to/JS] [High fidelity event sampling &amp; playback with Vanilla JS](https://dev.to/oben_source/high-fidelity-event-sampling-playback-with-vanilla-js-45nn)
 - [Dev.to/JS] [How to Make Your TypeScript Generic Functions Safer and Easier to Use](https://dev.to/v1rani/how-to-make-your-typescript-generic-functions-safer-and-easier-to-use-4m5f)
-- [Dev.to/JS] [PERN.TODO](https://dev.to/bycho91/perntodo-2blc)
-- [Dev.to/JS] [The magic combo: label what your code does and break it down to small pieces](https://dev.to/latobibor/the-magic-combo-naming-and-breaking-down-to-smaller-pieces-3mie)
-- [Dev.to/JS] [Going at your own pace in Tech in India](https://dev.to/bhavzlearn/going-at-your-own-pace-in-tech-in-india-3a13)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
