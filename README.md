@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to solve &quot;Uncaught TypeError: Cannot read properties of undefined&quot; in Javascript](https://dev.to/arif0ne/how-to-solve-uncaught-typeerror-cannot-read-properties-of-undefined-in-javascript-1789)
+- [Dev.to/JS] [The Web3 Developer Stack](https://dev.to/jsstackdevelopers/the-web3-developer-stack-50i8)
+- [Lifehacker] [How to Tell if You’re Chatting with a Bot](https://lifehacker.com/how-to-tell-if-you-re-chatting-with-a-bot-1848733021)
+- [Dev.to/JS] [Um guia sobre estruturação de pastas para projetos em Next.js](https://dev.to/trybe/um-guia-sobre-estruturacao-de-pastas-para-projetos-em-nextjs-5b6j)
+- [Dev.to/JS] [Month 4 of my coding journey](https://dev.to/taepal467/month-4-of-my-coding-journey-1clc)
+- [Dev.to/JS] [Create a React Chat Application Using KendoReact Conversational UI](https://dev.to/chineduimoh/create-a-react-chat-application-using-kendoreact-conversational-ui-36c7)
 - [Lifehacker] [How to Deal With a Brilliant Jerk at Work](https://lifehacker.com/how-to-deal-with-a-brilliant-asshole-at-work-1848732403)
+- [Dev.to/JS] [Creating Microservices in Nest.js](https://dev.to/architectio/creating-microservices-in-nestjs-b92)
 - [Dev.to/JS] [React Hooks](https://dev.to/8eth/react-hooks-29fp)
 - [Dev.to/JS] [Responsive SEO Agency Website using HTML CSS JavaScript](https://dev.to/codewithsadee/responsive-seo-agency-website-using-html-css-javascript-2fme)
 - [Lifehacker] [10 Classic Porn Films Made by Women](https://lifehacker.com/10-classic-porn-films-made-by-women-1848687729)
@@ -35,14 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Form Builder for Developers](https://dev.to/lukefrogger/the-form-builder-for-developers-5afc)
 - [Lifehacker] [What Does It Take to Become a Personal Trainer &lpar;and Is It Worth It&rpar;?](https://lifehacker.com/what-does-it-take-to-become-a-personal-trainer-and-is-1848705391)
 - [Lifehacker] [You Should Update Your Apple Devices Right Now](https://lifehacker.com/you-should-update-your-apple-devices-right-now-1848737318)
-- [Dev.to/JS] [Maximise your productivity with AG Grid Documentation](https://dev.to/ag-grid/maximise-your-productivity-with-ag-grid-documentation-4bbi)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Meme-ing the Oscars Slap](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848735332)
-- [Dev.to/JS] [JavaScript Array Methods - Filtering](https://dev.to/justtanwa/javascript-array-methods-filtering-1k3p)
-- [Dev.to/JS] [Drag &amp; Drop without Blazor](https://dev.to/lrufenacht/drag-drop-without-blazor-6e8)
-- [Dev.to/JS] [How to add PreLoader in React JS Application](https://dev.to/47karimasif/how-to-add-preloader-in-react-js-application-1jnp)
 - [Lifehacker] [15 Essential Bruce Willis Performances &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/15-essential-bruce-willis-performances-and-where-to-st-1848731877)
-- [Dev.to/JS] [Paracetamol.js💊| #89: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-89-explica-este-codigo-javascript-4okl)
-- [Dev.to/JS] [How Javascript Generator Functions Work](https://dev.to/smpnjn/how-javascript-generators-work-3h14)
 - [Lifehacker] [Don&#39;t Waste Money Buying Brand Names for These Products](https://lifehacker.com/dont-waste-money-buying-brand-names-for-these-products-1848731900)
 - [Lifehacker] [The &#39;Chunks&#39; in This Recalled Peanut Butter Could Be Metal Fragments](https://lifehacker.com/the-chunks-in-this-recalled-peanut-butter-could-be-meta-1848735872)
 - [Lifehacker] [What &#39;Cunningham&#39;s Law&#39; Really Tells Us About How We Interact Online](https://lifehacker.com/what-cunninghams-law-really-tells-us-about-how-we-inter-1848733445)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
 - [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
 - [Lifehacker] [Save Time and Money With Your Own Garden Drip Irrigation](https://lifehacker.com/save-time-and-money-with-your-own-garden-drip-irrigatio-1848724515)
-- [Lifehacker] [Why Would Anyone Remove Their MacBook&#39;s Display?](https://lifehacker.com/why-would-anyone-remove-their-macbooks-display-1848725703)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
 ---
