@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a business from scratch - day 14](https://dev.to/twankrui/building-a-business-from-scratch-day-14-23lo)
+- [Dev.to/JS] [Top JavaScript VSCode Extensions for Faster Development 🔥](https://dev.to/braincuber_technologies/top-javascript-vscode-extensions-for-faster-development-597k)
+- [Dev.to/JS] [4 Best Backend Frameworks for 2022: Find Out Which Suits Your Project?](https://dev.to/rajatchauhan/4-best-backend-frameworks-for-2022-find-out-which-suits-your-project-42jf)
 - [Dev.to/JS] [3 Simple Ways to Build an Accordion](https://dev.to/timonwa/3-simple-ways-to-build-an-accordion-1hf7)
 - [Dev.to/JS] [5 resources to get your Monorepo off the ground](https://dev.to/mbarzeev/5-resources-to-get-your-monorepo-off-the-ground-3mlp)
 - [Dev.to/JS] [5 ways we keep our code understandable for junior engineers](https://dev.to/learninglocker/5-ways-we-keep-our-code-understandable-for-junior-engineers-3667)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CPE Online Compiler.](https://dev.to/nisabmohd/cpe-online-compiler-38kf)
 - [Dev.to/JS] [Top 5 Keto Supplements - Is Legit or Scam, Price, Reviews &amp; Benefits?](https://dev.to/top5ketosupple1/top-5-keto-supplements-is-legit-or-scam-price-reviews-benefits-55bp)
 - [Dev.to/JS] [Day 2](https://dev.to/brixmavu/day-2-2621)
-- [Dev.to/JS] [Some project ideas for beginners, Web Development.](https://dev.to/itskunal/some-project-ideas-for-beginners-web-development-11mc)
-- [Dev.to/JS] [Digital Binoculars Market Growth, Future Scope, Challenges, Opportunities, Trends, Outlook And Forecast To 2027](https://dev.to/vivek63665497/digital-binoculars-market-growth-future-scope-challenges-opportunities-trends-outlook-and-forecast-to-2027-i6p)
-- [Dev.to/JS] [Where Am I?](https://dev.to/warmastr/where-am-i-3joh)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
