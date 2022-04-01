@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Finish Your Spring Vegetables With These 3 Ingredients](https://lifehacker.com/finish-your-spring-vegetables-with-these-3-ingredients-1848733166)
+- [Dev.to/JS] [Mistakes Done By Self-Taught Programmers Where Formal Educators Have an Edge](https://dev.to/techmaniacc/mistakes-done-by-self-taught-programmers-where-formal-educators-have-an-edge-4lo0)
+- [Lifehacker] [How Much Privacy Do Your Extremely Online Friends Owe You?](https://lifehacker.com/how-much-privacy-do-your-extremely-online-friends-owe-y-1848727108)
+- [Dev.to/JS] [Introducing Expo Support for Nx](https://dev.to/nx/introducing-expo-support-for-nx-3ien)
+- [Dev.to/JS] [The Form Builder for Developers](https://dev.to/lukefrogger/the-form-builder-for-developers-5afc)
+- [Lifehacker] [What Does It Take to Become a Personal Trainer &lpar;and Is It Worth It&rpar;?](https://lifehacker.com/what-does-it-take-to-become-a-personal-trainer-and-is-1848705391)
 - [Lifehacker] [You Should Update Your Apple Devices Right Now](https://lifehacker.com/you-should-update-your-apple-devices-right-now-1848737318)
 - [Dev.to/JS] [Maximise your productivity with AG Grid Documentation](https://dev.to/ag-grid/maximise-your-productivity-with-ag-grid-documentation-4bbi)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Meme-ing the Oscars Slap](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848735332)
@@ -37,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2nd month in Manhattan!](https://dev.to/johnsonevan/2nd-month-in-manhattan-4dab)
 - [Lifehacker] [The &#39;Chunks&#39; in This Recalled Peanut Butter Could Be Metal Fragments](https://lifehacker.com/the-chunks-in-this-recalled-peanut-butter-could-be-meta-1848735872)
 - [Dev.to/JS] [Selenium Automation Testing On The Cloud | Selenium WebDriver With JavaScript Tutorial | Part VII](https://dev.to/lambdatest/selenium-automation-testing-on-the-cloud-selenium-webdriver-with-javascript-tutorial-part-vii-2d01)
-- [Dev.to/JS] [variable shadowing in javascript 👥](https://dev.to/sobitp59/variable-shadowing-in-javascript-5cnl)
-- [Dev.to/JS] [Build A Tree Array From A Flat Array - Recursion](https://dev.to/danielbellmas/build-a-tree-array-from-a-flat-array-recursion-32jn)
 - [Lifehacker] [What &#39;Cunningham&#39;s Law&#39; Really Tells Us About How We Interact Online](https://lifehacker.com/what-cunninghams-law-really-tells-us-about-how-we-inter-1848733445)
-- [Dev.to/JS] [NodeJs and setTimeout](https://dev.to/felipepaz/nodejs-and-settimeout-g16)
 - [Lifehacker] [8 Ways to Make Your Mac’s Dock More Useful](https://lifehacker.com/8-ways-to-make-your-mac-s-dock-more-useful-1848720074)
 - [Lifehacker] [13 Places You Can Legally Stream TV Shows for Free](https://lifehacker.com/13-places-you-can-legally-stream-tv-shows-for-free-1848697629)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
@@ -59,9 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Would Anyone Remove Their MacBook&#39;s Display?](https://lifehacker.com/why-would-anyone-remove-their-macbooks-display-1848725703)
 - [Lifehacker] [The Only Right Way to Take Relationship Advice From a Friend](https://lifehacker.com/the-only-right-way-to-take-relationship-advice-from-a-f-1848721139)
 - [Lifehacker] [Should You Cancel &lpar;or Upgrade&rpar; Your PlayStation Plus Subscription?](https://lifehacker.com/should-you-cancel-or-upgrade-your-playstation-plus-su-1848721975)
-- [Lifehacker] [Don&#39;t Buy an Apple Monitor for Your Mac &lpar;Buy This Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-monitor-for-your-mac-buy-this-instea-1848719495)
-- [Lifehacker] [6 Challenging &#39;Animal Walks&#39; You Should Add to Your Workout](https://lifehacker.com/6-challenging-animal-walks-you-should-add-to-your-worko-1848720295)
-- [Lifehacker] [Pickle Some Cherry Blossoms Before It&#39;s Too Late](https://lifehacker.com/pickle-some-cherry-blossoms-before-its-too-late-1848716298)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
 ---
