@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to create a single-digit input with JavaScript](https://dev.to/itzami/how-to-create-a-single-digit-input-with-javascript-1nk8)
+- [Dev.to/JS] [3 Simple Ways to Build an Accordion](https://dev.to/timonwa/3-simple-ways-to-build-an-accordion-1hf7)
+- [Dev.to/JS] [5 resources to get your Monorepo off the ground](https://dev.to/mbarzeev/5-resources-to-get-your-monorepo-off-the-ground-3mlp)
+- [Dev.to/JS] [5 ways we keep our code understandable for junior engineers](https://dev.to/learninglocker/5-ways-we-keep-our-code-understandable-for-junior-engineers-3667)
+- [Dev.to/JS] [Analog Clock Desing using HTML, CSS, and Javascript](https://dev.to/incoderweb/analog-clock-desing-using-html-css-and-javascript-1me6)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Dev.to/JS] [DevTips Daily Update 01/04/22](https://dev.to/codebubb/devtips-daily-update-010422-133h)
 - [Dev.to/JS] [Make the sound of Mario&#39;s coins in your browser!](https://dev.to/kurokky/make-the-sound-of-marios-coins-in-your-browser-4am5)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Some project ideas for beginners, Web Development.](https://dev.to/itskunal/some-project-ideas-for-beginners-web-development-11mc)
 - [Dev.to/JS] [Digital Binoculars Market Growth, Future Scope, Challenges, Opportunities, Trends, Outlook And Forecast To 2027](https://dev.to/vivek63665497/digital-binoculars-market-growth-future-scope-challenges-opportunities-trends-outlook-and-forecast-to-2027-i6p)
 - [Dev.to/JS] [Where Am I?](https://dev.to/warmastr/where-am-i-3joh)
-- [Dev.to/JS] [JS Exercise: Sum of a String](https://dev.to/phantomhaze/js-exercise-sum-of-a-string-nga)
-- [Dev.to/JS] [jQuery Image Magnifier on Mouse Hover](https://dev.to/techsolutionstuff/jquery-image-magnifier-on-mouse-hover-16m)
-- [Dev.to/JS] [Public CDN&#39;s aren&#39;t useful anymore](https://dev.to/rstacruz/public-cdns-arent-useful-anymore-2b66)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
