@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Meme-ing the Oscars Slap](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848735332)
+- [Dev.to/JS] [JavaScript Array Methods - Filtering](https://dev.to/justtanwa/javascript-array-methods-filtering-1k3p)
+- [Dev.to/JS] [Drag &amp; Drop without Blazor](https://dev.to/lrufenacht/drag-drop-without-blazor-6e8)
+- [Dev.to/JS] [How to add PreLoader in React JS Application](https://dev.to/47karimasif/how-to-add-preloader-in-react-js-application-1jnp)
+- [Lifehacker] [15 Essential Bruce Willis Performances &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/15-essential-bruce-willis-performances-and-where-to-st-1848731877)
+- [Dev.to/JS] [Paracetamol.js💊| #89: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-89-explica-este-codigo-javascript-4okl)
+- [Dev.to/JS] [How Javascript Generator Functions Work](https://dev.to/smpnjn/how-javascript-generators-work-3h14)
+- [Lifehacker] [Don&#39;t Waste Money Buying Brand Names for These Products](https://lifehacker.com/dont-waste-money-buying-brand-names-for-these-products-1848731900)
+- [Dev.to/JS] [Typescript API Design: Single Callable Or Multiple Callable](https://dev.to/tylim88/typescript-api-design-single-callable-or-multiple-callable-5gjn)
 - [Dev.to/JS] [2nd month in Manhattan!](https://dev.to/johnsonevan/2nd-month-in-manhattan-4dab)
 - [Lifehacker] [The &#39;Chunks&#39; in This Recalled Peanut Butter Could Be Metal Fragments](https://lifehacker.com/the-chunks-in-this-recalled-peanut-butter-could-be-meta-1848735872)
 - [Dev.to/JS] [Selenium Automation Testing On The Cloud | Selenium WebDriver With JavaScript Tutorial | Part VII](https://dev.to/lambdatest/selenium-automation-testing-on-the-cloud-selenium-webdriver-with-javascript-tutorial-part-vii-2d01)
@@ -31,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What &#39;Cunningham&#39;s Law&#39; Really Tells Us About How We Interact Online](https://lifehacker.com/what-cunninghams-law-really-tells-us-about-how-we-inter-1848733445)
 - [Dev.to/JS] [NodeJs and setTimeout](https://dev.to/felipepaz/nodejs-and-settimeout-g16)
 - [Dev.to/JS] [Study solidity and hardhat with me](https://dev.to/matteol/study-solidity-and-hardhat-with-me-1688)
-- [Dev.to/JS] [Show And Hide Password](https://dev.to/sanketbodake/show-and-hide-password-1c4p)
-- [Dev.to/JS] [Fully Working Online Store Website by HTML, CSS and JS only](https://dev.to/kunaal438/fully-working-online-store-website-by-html-css-and-js-only-44ck)
-- [Dev.to/JS] [How Professional &lpar;React&rpar; Developer Teams Plan &amp; Estimate Features &lpar;incl screencast&rpar;](https://dev.to/profydev/how-professional-react-developer-teams-plan-estimate-features-incl-screencast-1c9m)
-- [Dev.to/JS] [Guia: Trabalhando com pdfs na AWS](https://dev.to/xxdannilinxx/guia-trabalhando-com-pdfs-na-aws-3pa5)
 - [Lifehacker] [8 Ways to Make Your Mac’s Dock More Useful](https://lifehacker.com/8-ways-to-make-your-mac-s-dock-more-useful-1848720074)
-- [Dev.to/JS] [FP Lenses enhanced - Going functional one step at a time](https://dev.to/tracygjg/fp-lenses-enhanced-going-functional-one-step-at-a-time-4cp7)
 - [Lifehacker] [13 Places You Can Legally Stream TV Shows for Free](https://lifehacker.com/13-places-you-can-legally-stream-tv-shows-for-free-1848697629)
-- [Dev.to/JS] [Open source browser application for webcast](https://dev.to/video/open-source-browser-application-for-webcast-496d)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
@@ -59,10 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 Challenging &#39;Animal Walks&#39; You Should Add to Your Workout](https://lifehacker.com/6-challenging-animal-walks-you-should-add-to-your-worko-1848720295)
 - [Lifehacker] [Pickle Some Cherry Blossoms Before It&#39;s Too Late](https://lifehacker.com/pickle-some-cherry-blossoms-before-its-too-late-1848716298)
 - [Lifehacker] [More People Are Now Eligible for a Second COVID Booster Shot](https://lifehacker.com/more-people-are-now-eligible-for-a-second-covid-booster-1848721281)
-- [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
-- [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
-- [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)
-- [Lifehacker] [Why Truck Stops Are Always Better Than Rest Stops](https://lifehacker.com/why-truck-stops-are-better-than-rest-stops-and-how-to-1848719814)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
 ---
 
