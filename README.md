@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
+- [Dev.to/JS] [Asynchronous Logic to Write a Vue 3 and Deepgram Captions Component](https://dev.to/deepgram/asynchronous-logic-to-write-a-vue-3-and-deepgram-captions-component-4b72)
+- [Lifehacker] [How to Discreetly Obtain Birth Control](https://lifehacker.com/how-to-discreetly-obtain-birth-control-1848732196)
+- [Dev.to/JS] [Mini Personal Website &lpar;512KB CLUB&rpar;](https://dev.to/matteol/mini-personal-website-512kb-club-14jk)
+- [Dev.to/JS] [Hasura + Supertokens](https://dev.to/aaronblondeau/hasura-supertokens-4h2a)
+- [Lifehacker] [How to Work a Stretching Session Into Your Day](https://lifehacker.com/how-to-work-a-stretching-session-into-your-day-1848738048)
 - [Dev.to/JS] [How to solve &quot;Uncaught TypeError: Cannot read properties of undefined&quot; in Javascript](https://dev.to/arif0ne/how-to-solve-uncaught-typeerror-cannot-read-properties-of-undefined-in-javascript-1789)
 - [Dev.to/JS] [The Web3 Developer Stack](https://dev.to/jsstackdevelopers/the-web3-developer-stack-50i8)
 - [Lifehacker] [How to Tell if You’re Chatting with a Bot](https://lifehacker.com/how-to-tell-if-you-re-chatting-with-a-bot-1848733021)
@@ -36,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Classic Porn Films Made by Women](https://lifehacker.com/10-classic-porn-films-made-by-women-1848687729)
 - [Dev.to/JS] [New post](https://dev.to/jarodxu12/new-post-8dp)
 - [Lifehacker] [Finish Your Spring Vegetables With These 3 Ingredients](https://lifehacker.com/finish-your-spring-vegetables-with-these-3-ingredients-1848733166)
-- [Dev.to/JS] [Mistakes Done By Self-Taught Programmers Where Formal Educators Have an Edge](https://dev.to/techmaniacc/mistakes-done-by-self-taught-programmers-where-formal-educators-have-an-edge-4lo0)
 - [Lifehacker] [How Much Privacy Do Your Extremely Online Friends Owe You?](https://lifehacker.com/how-much-privacy-do-your-extremely-online-friends-owe-y-1848727108)
-- [Dev.to/JS] [Introducing Expo Support for Nx](https://dev.to/nx/introducing-expo-support-for-nx-3ien)
-- [Dev.to/JS] [The Form Builder for Developers](https://dev.to/lukefrogger/the-form-builder-for-developers-5afc)
 - [Lifehacker] [What Does It Take to Become a Personal Trainer &lpar;and Is It Worth It&rpar;?](https://lifehacker.com/what-does-it-take-to-become-a-personal-trainer-and-is-1848705391)
 - [Lifehacker] [You Should Update Your Apple Devices Right Now](https://lifehacker.com/you-should-update-your-apple-devices-right-now-1848737318)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Meme-ing the Oscars Slap](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848735332)
@@ -59,9 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Add an Egg Yolk to Your Mashed Potatoes](https://lifehacker.com/why-you-should-add-an-egg-yolk-to-your-mashed-potatoes-1848727643)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Lifehacker] [What to Know About Aphasia &lpar;Besides That It Affects Your Speech&rpar;](https://lifehacker.com/what-to-know-about-aphasia-besides-that-it-affects-you-1848728176)
-- [Lifehacker] [How to Teach Your Kid Social-Emotional Skills From Day One](https://lifehacker.com/how-to-teach-you-kid-social-emotional-skills-from-day-o-1848703204)
-- [Lifehacker] [You Need to Fry an Egg in Cheese](https://lifehacker.com/you-need-to-fry-an-egg-in-cheese-1848725566)
-- [Lifehacker] [Save Time and Money With Your Own Garden Drip Irrigation](https://lifehacker.com/save-time-and-money-with-your-own-garden-drip-irrigatio-1848724515)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
 ---
