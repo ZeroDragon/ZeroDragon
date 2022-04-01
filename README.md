@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Exercise: Sum of a String](https://dev.to/phantomhaze/js-exercise-sum-of-a-string-nga)
+- [Dev.to/JS] [jQuery Image Magnifier on Mouse Hover](https://dev.to/techsolutionstuff/jquery-image-magnifier-on-mouse-hover-16m)
 - [Dev.to/JS] [Public CDN&#39;s aren&#39;t useful anymore](https://dev.to/rstacruz/public-cdns-arent-useful-anymore-2b66)
 - [Dev.to/JS] [Why is it you can execute a function on the right side of an AND &amp;&amp; operator in JavaScript](https://dev.to/moadhn/why-is-it-you-can-execute-a-function-on-the-right-side-of-an-and-operator-in-javascript-2633)
 - [Dev.to/JS] [Tree generation with a monoidal reduction](https://dev.to/sethcalebweeks/tree-generation-with-a-monoidal-reduction-2i22)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A JavaScript Slider in 8 Lines](https://dev.to/wolffe/a-javascript-slider-in-8-lines-42bh)
 - [Dev.to/JS] [How to Upgrade Your freeCodeCamp Project](https://dev.to/deepgram/how-to-upgrade-your-freecodecamp-project-53d3)
 - [Dev.to/JS] [Solving Find Pivot Index from LeetCode + Explanation](https://dev.to/kaflenitish/solving-find-pivot-index-from-leetcode-explanation-m6o)
-- [Dev.to/JS] [High fidelity event sampling &amp; playback with Vanilla JS](https://dev.to/oben_source/high-fidelity-event-sampling-playback-with-vanilla-js-45nn)
-- [Dev.to/JS] [How to Make Your TypeScript Generic Functions Safer and Easier to Use](https://dev.to/v1rani/how-to-make-your-typescript-generic-functions-safer-and-easier-to-use-4m5f)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
