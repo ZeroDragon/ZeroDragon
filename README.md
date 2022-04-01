@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a single-digit input with JavaScript](https://dev.to/itzami/how-to-create-a-single-digit-input-with-javascript-1nk8)
+- [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
+- [Dev.to/JS] [DevTips Daily Update 01/04/22](https://dev.to/codebubb/devtips-daily-update-010422-133h)
+- [Dev.to/JS] [Make the sound of Mario&#39;s coins in your browser!](https://dev.to/kurokky/make-the-sound-of-marios-coins-in-your-browser-4am5)
 - [Dev.to/JS] [CPE Online Compiler.](https://dev.to/nisabmohd/cpe-online-compiler-38kf)
 - [Dev.to/JS] [Top 5 Keto Supplements - Is Legit or Scam, Price, Reviews &amp; Benefits?](https://dev.to/top5ketosupple1/top-5-keto-supplements-is-legit-or-scam-price-reviews-benefits-55bp)
 - [Dev.to/JS] [Day 2](https://dev.to/brixmavu/day-2-2621)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Exercise: Sum of a String](https://dev.to/phantomhaze/js-exercise-sum-of-a-string-nga)
 - [Dev.to/JS] [jQuery Image Magnifier on Mouse Hover](https://dev.to/techsolutionstuff/jquery-image-magnifier-on-mouse-hover-16m)
 - [Dev.to/JS] [Public CDN&#39;s aren&#39;t useful anymore](https://dev.to/rstacruz/public-cdns-arent-useful-anymore-2b66)
-- [Dev.to/JS] [Why is it you can execute a function on the right side of an AND &amp;&amp; operator in JavaScript](https://dev.to/moadhn/why-is-it-you-can-execute-a-function-on-the-right-side-of-an-and-operator-in-javascript-2633)
-- [Dev.to/JS] [QZ Tray: Impressão em impressoras térmicas pelo navegador](https://dev.to/xxdannilinxx/qz-tray-impressao-em-impressoras-termicas-pelo-navegador-1mam)
-- [Dev.to/JS] [Tree generation with a monoidal reduction](https://dev.to/sethcalebweeks/tree-generation-with-a-monoidal-reduction-2i22)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Discord Bots &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-best-discord-bots-and-how-to-use-them-1848719524)
 - [Lifehacker] [How to Stop Closet Moths From Eating Your Clothes](https://lifehacker.com/how-to-stop-closet-moths-from-eating-your-clothes-1848718925)
 - [Lifehacker] [Make This Delicious Citrus Syrup With Just Two Ingredients](https://lifehacker.com/make-this-delicious-citrus-syrup-with-just-two-ingredie-1848715089)
-- [Lifehacker] [Yes, Your Own Phone Number Is Spamming You](https://lifehacker.com/yes-your-own-phone-number-is-spamming-you-1848718546)
-- [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Yes, Your Own Phone Number Is Spamming You](https://lifehacker.com/yes-your-own-phone-number-is-spamming-you-1848718546)<!-- TECH-POSTS:END -->
 
 ---
 
