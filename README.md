@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript topics i will cover](https://dev.to/hacker4world/javascript-topics-i-will-cover-ej9)
+- [Dev.to/JS] [Complete Phaser 3 Game Development Guide: Part 0 &lpar;Installation and Importing&rpar;](https://dev.to/the_unfactoring_guru/complete-phaser-3-game-development-guide-part-0-installation-and-importing-4903)
+- [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Dev.to/JS] [Customizing a Drawer Element in a Quick App](https://dev.to/josholadele/customizing-a-drawer-element-in-a-quick-app-93a)
 - [Dev.to/JS] [Top 3 Casts of the Week #4](https://dev.to/codecast/top-3-casts-of-the-week-4-22nb)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Month 4 of my coding journey](https://dev.to/taepal467/month-4-of-my-coding-journey-1clc)
 - [Dev.to/JS] [Create a React Chat Application Using KendoReact Conversational UI](https://dev.to/chineduimoh/create-a-react-chat-application-using-kendoreact-conversational-ui-36c7)
 - [Lifehacker] [How to Deal With a Brilliant Jerk at Work](https://lifehacker.com/how-to-deal-with-a-brilliant-asshole-at-work-1848732403)
-- [Dev.to/JS] [Creating Microservices in Nest.js](https://dev.to/architectio/creating-microservices-in-nestjs-b92)
-- [Dev.to/JS] [React Hooks](https://dev.to/8eth/react-hooks-29fp)
 - [Lifehacker] [10 Classic Porn Films Made by Women](https://lifehacker.com/10-classic-porn-films-made-by-women-1848687729)
 - [Lifehacker] [Finish Your Spring Vegetables With These 3 Ingredients](https://lifehacker.com/finish-your-spring-vegetables-with-these-3-ingredients-1848733166)
 - [Lifehacker] [How Much Privacy Do Your Extremely Online Friends Owe You?](https://lifehacker.com/how-much-privacy-do-your-extremely-online-friends-owe-y-1848727108)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Just Be Yourself, and Other Dating Myths You Should Stop Believing](https://lifehacker.com/just-be-yourself-and-other-dating-myths-you-should-sto-1848731958)
 - [Lifehacker] [How to Make a Classic N64 Zelda Look Like a Modern PC Game](https://lifehacker.com/how-to-make-a-classic-n64-zelda-look-like-a-modern-pc-g-1848731884)
 - [Lifehacker] [Why All Weight Loss Hacks Suck](https://lifehacker.com/why-all-weight-loss-hacks-suck-1848727866)
-- [Lifehacker] [Why You Should Add an Egg Yolk to Your Mashed Potatoes](https://lifehacker.com/why-you-should-add-an-egg-yolk-to-your-mashed-potatoes-1848727643)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
