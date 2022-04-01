@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [13 Places You Can Legally Stream TV Shows for Free](https://lifehacker.com/13-places-you-can-legally-stream-tv-shows-for-free-1848697629)
+- [Dev.to/JS] [Open source browser application for webcast](https://dev.to/video/open-source-browser-application-for-webcast-496d)
+- [Dev.to/JS] [How if-else Logic works in Svelte](https://dev.to/smpnjn/how-if-else-logic-works-in-svelte-3j4g)
+- [Dev.to/JS] [Angular vs React vs Vue: Which Framework to Choose in 2022](https://dev.to/amybrumby/angular-vs-react-vs-vue-which-framework-to-choose-in-2022-1npf)
+- [Dev.to/JS] [Homage to coding](https://dev.to/alinanerlichdev/homage-to-coding-24mh)
 - [Dev.to/JS] [Building a business from scratch - day 14](https://dev.to/twankrui/building-a-business-from-scratch-day-14-23lo)
 - [Dev.to/JS] [Top JavaScript VSCode Extensions for Faster Development 🔥](https://dev.to/braincuber_technologies/top-javascript-vscode-extensions-for-faster-development-597k)
 - [Dev.to/JS] [4 Best Backend Frameworks for 2022: Find Out Which Suits Your Project?](https://dev.to/rajatchauhan/4-best-backend-frameworks-for-2022-find-out-which-suits-your-project-42jf)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Analog Clock Desing using HTML, CSS, and Javascript](https://dev.to/incoderweb/analog-clock-desing-using-html-css-and-javascript-1me6)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Dev.to/JS] [DevTips Daily Update 01/04/22](https://dev.to/codebubb/devtips-daily-update-010422-133h)
-- [Dev.to/JS] [Make the sound of Mario&#39;s coins in your browser!](https://dev.to/kurokky/make-the-sound-of-marios-coins-in-your-browser-4am5)
-- [Dev.to/JS] [CPE Online Compiler.](https://dev.to/nisabmohd/cpe-online-compiler-38kf)
-- [Dev.to/JS] [Top 5 Keto Supplements - Is Legit or Scam, Price, Reviews &amp; Benefits?](https://dev.to/top5ketosupple1/top-5-keto-supplements-is-legit-or-scam-price-reviews-benefits-55bp)
-- [Dev.to/JS] [Day 2](https://dev.to/brixmavu/day-2-2621)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Truck Stops Are Always Better Than Rest Stops](https://lifehacker.com/why-truck-stops-are-better-than-rest-stops-and-how-to-1848719814)
 - [Lifehacker] [The Best Discord Bots &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-best-discord-bots-and-how-to-use-them-1848719524)
 - [Lifehacker] [How to Stop Closet Moths From Eating Your Clothes](https://lifehacker.com/how-to-stop-closet-moths-from-eating-your-clothes-1848718925)
-- [Lifehacker] [Make This Delicious Citrus Syrup With Just Two Ingredients](https://lifehacker.com/make-this-delicious-citrus-syrup-with-just-two-ingredie-1848715089)
-- [Lifehacker] [Yes, Your Own Phone Number Is Spamming You](https://lifehacker.com/yes-your-own-phone-number-is-spamming-you-1848718546)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Make This Delicious Citrus Syrup With Just Two Ingredients](https://lifehacker.com/make-this-delicious-citrus-syrup-with-just-two-ingredie-1848715089)<!-- TECH-POSTS:END -->
 
 ---
 
