@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2nd month in Manhattan!](https://dev.to/johnsonevan/2nd-month-in-manhattan-4dab)
+- [Lifehacker] [The &#39;Chunks&#39; in This Recalled Peanut Butter Could Be Metal Fragments](https://lifehacker.com/the-chunks-in-this-recalled-peanut-butter-could-be-meta-1848735872)
+- [Dev.to/JS] [Selenium Automation Testing On The Cloud | Selenium WebDriver With JavaScript Tutorial | Part VII](https://dev.to/lambdatest/selenium-automation-testing-on-the-cloud-selenium-webdriver-with-javascript-tutorial-part-vii-2d01)
+- [Dev.to/JS] [variable shadowing in javascript 👥](https://dev.to/sobitp59/variable-shadowing-in-javascript-5cnl)
 - [Dev.to/JS] [Build A Tree Array From A Flat Array - Recursion](https://dev.to/danielbellmas/build-a-tree-array-from-a-flat-array-recursion-32jn)
 - [Lifehacker] [What &#39;Cunningham&#39;s Law&#39; Really Tells Us About How We Interact Online](https://lifehacker.com/what-cunninghams-law-really-tells-us-about-how-we-inter-1848733445)
 - [Dev.to/JS] [NodeJs and setTimeout](https://dev.to/felipepaz/nodejs-and-settimeout-g16)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FP Lenses enhanced - Going functional one step at a time](https://dev.to/tracygjg/fp-lenses-enhanced-going-functional-one-step-at-a-time-4cp7)
 - [Lifehacker] [13 Places You Can Legally Stream TV Shows for Free](https://lifehacker.com/13-places-you-can-legally-stream-tv-shows-for-free-1848697629)
 - [Dev.to/JS] [Open source browser application for webcast](https://dev.to/video/open-source-browser-application-for-webcast-496d)
-- [Dev.to/JS] [How if-else Logic works in Svelte](https://dev.to/smpnjn/how-if-else-logic-works-in-svelte-3j4g)
-- [Dev.to/JS] [Angular vs React vs Vue: Which Framework to Choose in 2022](https://dev.to/amybrumby/angular-vs-react-vs-vue-which-framework-to-choose-in-2022-1npf)
-- [Dev.to/JS] [Homage to coding](https://dev.to/alinanerlichdev/homage-to-coding-24mh)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Make Your Own Deodorant?](https://lifehacker.com/should-you-make-your-own-deodorant-1848719697)
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)
-- [Lifehacker] [Why Truck Stops Are Always Better Than Rest Stops](https://lifehacker.com/why-truck-stops-are-better-than-rest-stops-and-how-to-1848719814)
-- [Lifehacker] [The Best Discord Bots &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-best-discord-bots-and-how-to-use-them-1848719524)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Why Truck Stops Are Always Better Than Rest Stops](https://lifehacker.com/why-truck-stops-are-better-than-rest-stops-and-how-to-1848719814)<!-- TECH-POSTS:END -->
 
 ---
 
