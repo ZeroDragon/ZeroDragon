@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build A Tree Array From A Flat Array - Recursion](https://dev.to/danielbellmas/build-a-tree-array-from-a-flat-array-recursion-32jn)
+- [Lifehacker] [What &#39;Cunningham&#39;s Law&#39; Really Tells Us About How We Interact Online](https://lifehacker.com/what-cunninghams-law-really-tells-us-about-how-we-inter-1848733445)
+- [Dev.to/JS] [NodeJs and setTimeout](https://dev.to/felipepaz/nodejs-and-settimeout-g16)
+- [Dev.to/JS] [Study solidity and hardhat with me](https://dev.to/matteol/study-solidity-and-hardhat-with-me-1688)
+- [Dev.to/JS] [Show And Hide Password](https://dev.to/sanketbodake/show-and-hide-password-1c4p)
+- [Dev.to/JS] [Fully Working Online Store Website by HTML, CSS and JS only](https://dev.to/kunaal438/fully-working-online-store-website-by-html-css-and-js-only-44ck)
+- [Dev.to/JS] [How Professional &lpar;React&rpar; Developer Teams Plan &amp; Estimate Features &lpar;incl screencast&rpar;](https://dev.to/profydev/how-professional-react-developer-teams-plan-estimate-features-incl-screencast-1c9m)
+- [Dev.to/JS] [Guia: Trabalhando com pdfs na AWS](https://dev.to/xxdannilinxx/guia-trabalhando-com-pdfs-na-aws-3pa5)
+- [Lifehacker] [8 Ways to Make Your Mac’s Dock More Useful](https://lifehacker.com/8-ways-to-make-your-mac-s-dock-more-useful-1848720074)
+- [Dev.to/JS] [FP Lenses enhanced - Going functional one step at a time](https://dev.to/tracygjg/fp-lenses-enhanced-going-functional-one-step-at-a-time-4cp7)
 - [Lifehacker] [13 Places You Can Legally Stream TV Shows for Free](https://lifehacker.com/13-places-you-can-legally-stream-tv-shows-for-free-1848697629)
 - [Dev.to/JS] [Open source browser application for webcast](https://dev.to/video/open-source-browser-application-for-webcast-496d)
 - [Dev.to/JS] [How if-else Logic works in Svelte](https://dev.to/smpnjn/how-if-else-logic-works-in-svelte-3j4g)
 - [Dev.to/JS] [Angular vs React vs Vue: Which Framework to Choose in 2022](https://dev.to/amybrumby/angular-vs-react-vs-vue-which-framework-to-choose-in-2022-1npf)
 - [Dev.to/JS] [Homage to coding](https://dev.to/alinanerlichdev/homage-to-coding-24mh)
-- [Dev.to/JS] [Building a business from scratch - day 14](https://dev.to/twankrui/building-a-business-from-scratch-day-14-23lo)
-- [Dev.to/JS] [Top JavaScript VSCode Extensions for Faster Development 🔥](https://dev.to/braincuber_technologies/top-javascript-vscode-extensions-for-faster-development-597k)
-- [Dev.to/JS] [4 Best Backend Frameworks for 2022: Find Out Which Suits Your Project?](https://dev.to/rajatchauhan/4-best-backend-frameworks-for-2022-find-out-which-suits-your-project-42jf)
-- [Dev.to/JS] [3 Simple Ways to Build an Accordion](https://dev.to/timonwa/3-simple-ways-to-build-an-accordion-1hf7)
-- [Dev.to/JS] [5 resources to get your Monorepo off the ground](https://dev.to/mbarzeev/5-resources-to-get-your-monorepo-off-the-ground-3mlp)
-- [Dev.to/JS] [5 ways we keep our code understandable for junior engineers](https://dev.to/learninglocker/5-ways-we-keep-our-code-understandable-for-junior-engineers-3667)
-- [Dev.to/JS] [Analog Clock Desing using HTML, CSS, and Javascript](https://dev.to/incoderweb/analog-clock-desing-using-html-css-and-javascript-1me6)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
-- [Dev.to/JS] [DevTips Daily Update 01/04/22](https://dev.to/codebubb/devtips-daily-update-010422-133h)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
@@ -60,9 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Turn Crappy Rosé Into a Surprisingly Good Cocktail Syrup](https://lifehacker.com/turn-crappy-rose-into-a-surprisingly-good-cocktail-syru-1848720942)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)
 - [Lifehacker] [Why Truck Stops Are Always Better Than Rest Stops](https://lifehacker.com/why-truck-stops-are-better-than-rest-stops-and-how-to-1848719814)
-- [Lifehacker] [The Best Discord Bots &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-best-discord-bots-and-how-to-use-them-1848719524)
-- [Lifehacker] [How to Stop Closet Moths From Eating Your Clothes](https://lifehacker.com/how-to-stop-closet-moths-from-eating-your-clothes-1848718925)
-- [Lifehacker] [Make This Delicious Citrus Syrup With Just Two Ingredients](https://lifehacker.com/make-this-delicious-citrus-syrup-with-just-two-ingredie-1848715089)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Best Discord Bots &lpar;and How to Use Them&rpar;](https://lifehacker.com/the-best-discord-bots-and-how-to-use-them-1848719524)<!-- TECH-POSTS:END -->
 
 ---
 
