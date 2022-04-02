@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Verify &amp; Publish Smart contracts on EVM-based chains.](https://dev.to/pankajrathore9599/verify-publish-smart-contracts-on-evm-based-chains-g6n)
+- [Dev.to/JS] [Not Another Hello World](https://dev.to/sdcaulley/not-another-hello-world-4d0g)
+- [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
+- [Dev.to/JS] [Want free opinions my portfolio site.](https://dev.to/billibear/want-free-opinions-my-portfolio-site-f81)
 - [Dev.to/JS] [Paracetamol.js💊| #90: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-90-explica-este-codigo-javascript-5357)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Dev.to/JS] [Adding Lottie Animations to Your Website](https://dev.to/shahmir049/adding-lottie-animations-to-your-website-3glg)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
 - [Dev.to/JS] [React dynamic imports with React Router for better performance](https://dev.to/lico/react-dynamic-imports-with-react-router-in-performance-3amh)
 - [Dev.to/JS] [how to configure neovim from scratch in termux](https://dev.to/oscarjeremiasdev/how-to-configure-neovim-from-scratch-in-termux-24gl)
-- [Dev.to/JS] [Ways to Reduce your Front-End Codes](https://dev.to/zhcalvin/ways-to-reduce-your-front-end-codes-30hl)
-- [Dev.to/JS] [How to Upgrade to React 18](https://dev.to/jsstackdevelopers/how-to-upgrade-to-react-18-21m5)
-- [Dev.to/JS] [Best Programming Language and Game Engine To Develop a Metaverse Cricket Game?](https://dev.to/gracesh58738133/best-programming-language-and-game-engine-to-develop-a-metaverse-cricket-game-l4m)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
-- [Lifehacker] [Just Be Yourself, and Other Dating Myths You Should Stop Believing](https://lifehacker.com/just-be-yourself-and-other-dating-myths-you-should-sto-1848731958)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
