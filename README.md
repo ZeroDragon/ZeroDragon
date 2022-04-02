@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Easy Peasy Error Handling in Express.js](https://dev.to/franciscomendes10866/easy-peasy-error-handling-in-expressjs-n98)
 - [Dev.to/JS] [Web Scraping: Use ARIA attributes to crawl accessible components](https://dev.to/mcreel/web-scraping-use-aria-attributes-to-crawl-accessible-components-3lof)
 - [Dev.to/JS] [Advanced Express JS REST API - Node.js - Full Tutorial](https://dev.to/fullstackarchitect/advanced-express-js-rest-api-nodejs-full-tutorial-n9m)
 - [Dev.to/JS] [Advanced Express JS REST API - JWT Refresh Tokens - Node.js](https://dev.to/fullstackarchitect/advanced-express-js-rest-api-jwt-refresh-tokens-nodejs-391)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Want free opinions my portfolio site.](https://dev.to/billibear/want-free-opinions-my-portfolio-site-f81)
 - [Dev.to/JS] [Paracetamol.js💊| #90: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-90-explica-este-codigo-javascript-5357)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
-- [Dev.to/JS] [Adding Lottie Animations to Your Website](https://dev.to/shahmir049/adding-lottie-animations-to-your-website-3glg)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
