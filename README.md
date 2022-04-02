@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All React Hooks and Concepts In A Single Post!! 🤗](https://dev.to/nyctonio/all-react-hooks-and-concepts-in-a-single-post-1daf)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
 - [Dev.to/JS] [React dynamic imports with React Router for better performance](https://dev.to/lico/react-dynamic-imports-with-react-router-in-performance-3amh)
 - [Dev.to/JS] [how to configure neovim from scratch in termux](https://dev.to/oscarjeremiasdev/how-to-configure-neovim-from-scratch-in-termux-24gl)
@@ -30,7 +31,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Upgrade to React 18](https://dev.to/jsstackdevelopers/how-to-upgrade-to-react-18-21m5)
 - [Dev.to/JS] [Best Programming Language and Game Engine To Develop a Metaverse Cricket Game?](https://dev.to/gracesh58738133/best-programming-language-and-game-engine-to-develop-a-metaverse-cricket-game-l4m)
 - [Dev.to/JS] [Temporal instead of Date](https://dev.to/yenyih/temporal-instead-of-date-3e0d)
-- [Dev.to/JS] [bbg india](https://dev.to/bbgindiaplots/bbg-india-j6)
 - [Dev.to/JS] [How Long Does It Take To Learn Java?](https://dev.to/johnrichard/how-long-does-it-take-to-learn-java-1njn)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;02-04-2022&rpar; - Hypothermia and then sunshine, and then starvation &amp; thirst](https://dev.to/mjgs/this-weeks-newsletter-is-out-02-04-2022-hypothermia-and-then-sunshine-and-then-starvation-thirst-3f98)
 - [Dev.to/JS] [Creating a no-auth Spotify playlist preview with Next.js](https://dev.to/haydenbleasel/creating-a-no-auth-spotify-playlist-preview-with-nextjs-3dk1)
