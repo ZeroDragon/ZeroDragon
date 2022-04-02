@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The important of DRY, KISS, and YAGNI in programming.](https://dev.to/alfredbis29/the-important-of-dry-kiss-and-yagni-in-programming-4akf)
+- [Dev.to/JS] [How to Validate Forms with React Hook Form in React Apps](https://dev.to/arshadayvid/how-to-validate-forms-with-react-hook-form-in-react-apps-2oi3)
+- [Dev.to/JS] [Updates from the 89th TC39 meeting](https://dev.to/hemanth/updates-from-the-89th-tc39-meeting-5bkf)
 - [Dev.to/JS] [How To Use Google Maps In A Quasar Project](https://dev.to/quasar/how-to-use-google-maps-in-a-quasar-project-1c13)
 - [Dev.to/JS] [Splitting String on Date Format Producing an Array](https://dev.to/briang123/splitting-string-on-date-format-producing-an-array-468l)
 - [Dev.to/JS] [Javascript topics i will cover](https://dev.to/hacker4world/javascript-topics-i-will-cover-ej9)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mini Personal Website &lpar;512KB CLUB&rpar;](https://dev.to/matteol/mini-personal-website-512kb-club-14jk)
 - [Dev.to/JS] [Hasura + Supertokens](https://dev.to/aaronblondeau/hasura-supertokens-4h2a)
 - [Lifehacker] [How to Work a Stretching Session Into Your Day](https://lifehacker.com/how-to-work-a-stretching-session-into-your-day-1848738048)
-- [Dev.to/JS] [How to solve &quot;Uncaught TypeError: Cannot read properties of undefined&quot; in Javascript](https://dev.to/arif0ne/how-to-solve-uncaught-typeerror-cannot-read-properties-of-undefined-in-javascript-1789)
-- [Dev.to/JS] [The Web3 Developer Stack](https://dev.to/jsstackdevelopers/the-web3-developer-stack-50i8)
 - [Lifehacker] [How to Tell if You’re Chatting with a Bot](https://lifehacker.com/how-to-tell-if-you-re-chatting-with-a-bot-1848733021)
-- [Dev.to/JS] [Um guia sobre estruturação de pastas para projetos em Next.js](https://dev.to/trybe/um-guia-sobre-estruturacao-de-pastas-para-projetos-em-nextjs-5b6j)
 - [Lifehacker] [How to Deal With a Brilliant Jerk at Work](https://lifehacker.com/how-to-deal-with-a-brilliant-asshole-at-work-1848732403)
 - [Lifehacker] [10 Classic Porn Films Made by Women](https://lifehacker.com/10-classic-porn-films-made-by-women-1848687729)
 - [Lifehacker] [Finish Your Spring Vegetables With These 3 Ingredients](https://lifehacker.com/finish-your-spring-vegetables-with-these-3-ingredients-1848733166)
