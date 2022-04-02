@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Auth0 &quot;Embedded Login&quot; with React](https://dev.to/ammarraneez/auth0-embedded-login-with-react-20pm)
 - [Dev.to/JS] [Tab and Stack Layout in React Native](https://dev.to/shubhampatilsd/tab-and-stack-layout-in-react-native-3nlf)
 - [Dev.to/JS] [Shizzle](https://dev.to/dapatilblog/shizzle-3k4d)
 - [Dev.to/JS] [Planning...](https://dev.to/warmastr/planning-4lle)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Complete Phaser 3 Game Development Guide: Part 0 &lpar;Installation and Importing&rpar;](https://dev.to/the_unfactoring_guru/complete-phaser-3-game-development-guide-part-0-installation-and-importing-4903)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Dev.to/JS] [Customizing a Drawer Element in a Quick App](https://dev.to/josholadele/customizing-a-drawer-element-in-a-quick-app-93a)
-- [Dev.to/JS] [Top 3 Casts of the Week #4](https://dev.to/codecast/top-3-casts-of-the-week-4-22nb)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
 - [Lifehacker] [How to Discreetly Obtain Birth Control](https://lifehacker.com/how-to-discreetly-obtain-birth-control-1848732196)
