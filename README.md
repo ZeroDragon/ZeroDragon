@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
+- [Dev.to/JS] [React dynamic imports with React Router for better performance](https://dev.to/lico/react-dynamic-imports-with-react-router-in-performance-3amh)
+- [Dev.to/JS] [how to configure neovim from scratch in termux](https://dev.to/oscarjeremiasdev/how-to-configure-neovim-from-scratch-in-termux-24gl)
 - [Dev.to/JS] [Ways to Reduce your Front-End Codes](https://dev.to/zhcalvin/ways-to-reduce-your-front-end-codes-30hl)
 - [Dev.to/JS] [How to Upgrade to React 18](https://dev.to/jsstackdevelopers/how-to-upgrade-to-react-18-21m5)
 - [Dev.to/JS] [Best Programming Language and Game Engine To Develop a Metaverse Cricket Game?](https://dev.to/gracesh58738133/best-programming-language-and-game-engine-to-develop-a-metaverse-cricket-game-l4m)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a no-auth Spotify playlist preview with Next.js](https://dev.to/haydenbleasel/creating-a-no-auth-spotify-playlist-preview-with-nextjs-3dk1)
 - [Dev.to/JS] [Big O for Javascript.](https://dev.to/urstrulyvishwak/big-o-for-javascript-28ne)
 - [Dev.to/JS] [Beginner’s problem](https://dev.to/aspiringdev22/beginners-problem-4ieb)
-- [Dev.to/JS] [Getting started with Web 3.0 for Frontend Engineer](https://dev.to/suprabhasupi/getting-started-with-web-30-for-frontend-engineer-3iaj)
-- [Dev.to/JS] [MediaClasses](https://dev.to/kolja/mediaclasses-2jln)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
 - [Lifehacker] [Just Be Yourself, and Other Dating Myths You Should Stop Believing](https://lifehacker.com/just-be-yourself-and-other-dating-myths-you-should-sto-1848731958)
 - [Lifehacker] [How to Make a Classic N64 Zelda Look Like a Modern PC Game](https://lifehacker.com/how-to-make-a-classic-n64-zelda-look-like-a-modern-pc-g-1848731884)
-- [Lifehacker] [Why All Weight Loss Hacks Suck](https://lifehacker.com/why-all-weight-loss-hacks-suck-1848727866)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
