@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Scraping: Use ARIA attributes to crawl accessible components](https://dev.to/mcreel/web-scraping-use-aria-attributes-to-crawl-accessible-components-3lof)
+- [Dev.to/JS] [Advanced Express JS REST API - Node.js - Full Tutorial](https://dev.to/fullstackarchitect/advanced-express-js-rest-api-nodejs-full-tutorial-n9m)
+- [Dev.to/JS] [Advanced Express JS REST API - JWT Refresh Tokens - Node.js](https://dev.to/fullstackarchitect/advanced-express-js-rest-api-jwt-refresh-tokens-nodejs-391)
 - [Dev.to/JS] [Alan AI - 12K+ Interactions Promo Code](https://dev.to/shaileshofficial2019/alan-ai-12k-interactions-promo-code-2cim)
 - [Dev.to/JS] [Building CRUD Apps with NextJs](https://dev.to/asayerio_techblog/building-crud-apps-with-nextjs-136l)
 - [Dev.to/JS] [Primitive type](https://dev.to/vicky_ops/primitive-type-14jb)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #90: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-90-explica-este-codigo-javascript-5357)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Dev.to/JS] [Adding Lottie Animations to Your Website](https://dev.to/shahmir049/adding-lottie-animations-to-your-website-3glg)
-- [Dev.to/JS] [Building a Clubhouse clone with Svelte and 100ms](https://dev.to/nilay1101/building-a-clubhouse-clone-with-svelte-and-100ms-87h)
-- [Dev.to/JS] [Spiking Tailwind CSS in a React App](https://dev.to/georgeoffley/spiking-tailwind-css-in-a-react-app-5198)
-- [Dev.to/JS] [Build a Login/Signup Page with React &amp; TailwindCSS](https://dev.to/rohanjsx/build-a-loginsignup-page-with-react-tailwindcss-27ab)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
