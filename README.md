@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shizzle](https://dev.to/dapatilblog/shizzle-3k4d)
+- [Dev.to/JS] [Planning...](https://dev.to/warmastr/planning-4lle)
 - [Dev.to/JS] [The important of DRY, KISS, and YAGNI in programming.](https://dev.to/alfredbis29/the-important-of-dry-kiss-and-yagni-in-programming-4akf)
 - [Dev.to/JS] [How to Validate Forms with React Hook Form in React Apps](https://dev.to/arshadayvid/how-to-validate-forms-with-react-hook-form-in-react-apps-2oi3)
 - [Dev.to/JS] [Updates from the 89th TC39 meeting](https://dev.to/hemanth/updates-from-the-89th-tc39-meeting-5bkf)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
 - [Dev.to/JS] [Asynchronous Logic to Write a Vue 3 and Deepgram Captions Component](https://dev.to/deepgram/asynchronous-logic-to-write-a-vue-3-and-deepgram-captions-component-4b72)
 - [Lifehacker] [How to Discreetly Obtain Birth Control](https://lifehacker.com/how-to-discreetly-obtain-birth-control-1848732196)
-- [Dev.to/JS] [Mini Personal Website &lpar;512KB CLUB&rpar;](https://dev.to/matteol/mini-personal-website-512kb-club-14jk)
-- [Dev.to/JS] [Hasura + Supertokens](https://dev.to/aaronblondeau/hasura-supertokens-4h2a)
 - [Lifehacker] [How to Work a Stretching Session Into Your Day](https://lifehacker.com/how-to-work-a-stretching-session-into-your-day-1848738048)
 - [Lifehacker] [How to Tell if You’re Chatting with a Bot](https://lifehacker.com/how-to-tell-if-you-re-chatting-with-a-bot-1848733021)
 - [Lifehacker] [How to Deal With a Brilliant Jerk at Work](https://lifehacker.com/how-to-deal-with-a-brilliant-asshole-at-work-1848732403)
