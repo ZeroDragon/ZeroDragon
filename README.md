@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Temporal instead of Date](https://dev.to/yenyih/temporal-instead-of-date-3e0d)
 - [Dev.to/JS] [bbg india](https://dev.to/bbgindiaplots/bbg-india-j6)
 - [Dev.to/JS] [How Long Does It Take To Learn Java?](https://dev.to/johnrichard/how-long-does-it-take-to-learn-java-1njn)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;02-04-2022&rpar; - Hypothermia and then sunshine, and then starvation &amp; thirst](https://dev.to/mjgs/this-weeks-newsletter-is-out-02-04-2022-hypothermia-and-then-sunshine-and-then-starvation-thirst-3f98)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Revisiting React Rendering](https://dev.to/thewritingdev/revisiting-react-rendering-d98)
 - [Dev.to/JS] [13 Typescript Utility: A Cheat Sheet for Developer](https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3)
 - [Dev.to/JS] [Auth0 &quot;Embedded Login&quot; with React](https://dev.to/ammarraneez/auth0-embedded-login-with-react-20pm)
-- [Dev.to/JS] [Tab and Stack Layout in React Native](https://dev.to/shubhampatilsd/tab-and-stack-layout-in-react-native-3nlf)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
