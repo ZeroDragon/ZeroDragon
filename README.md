@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alan AI - 12K+ Interactions Promo Code](https://dev.to/shaileshofficial2019/alan-ai-12k-interactions-promo-code-2cim)
+- [Dev.to/JS] [Building CRUD Apps with NextJs](https://dev.to/asayerio_techblog/building-crud-apps-with-nextjs-136l)
+- [Dev.to/JS] [Primitive type](https://dev.to/vicky_ops/primitive-type-14jb)
+- [Dev.to/JS] [Angular 13 + NestJs + NX](https://dev.to/wlucha/angular-13-nestjs-nx-12j4)
 - [Dev.to/JS] [Verify &amp; Publish Smart contracts on EVM-based chains.](https://dev.to/pankajrathore9599/verify-publish-smart-contracts-on-evm-based-chains-g6n)
 - [Dev.to/JS] [Not Another Hello World](https://dev.to/sdcaulley/not-another-hello-world-4d0g)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Clubhouse clone with Svelte and 100ms](https://dev.to/nilay1101/building-a-clubhouse-clone-with-svelte-and-100ms-87h)
 - [Dev.to/JS] [Spiking Tailwind CSS in a React App](https://dev.to/georgeoffley/spiking-tailwind-css-in-a-react-app-5198)
 - [Dev.to/JS] [Build a Login/Signup Page with React &amp; TailwindCSS](https://dev.to/rohanjsx/build-a-loginsignup-page-with-react-tailwindcss-27ab)
-- [Dev.to/JS] [Text To Speech Converter in HTML CSS &amp; JavaScript](https://dev.to/yaswanthteja/text-to-speech-converter-in-html-css-javascript-3eme)
-- [Dev.to/JS] [All React Hooks and Concepts In A Single Post!! 🤗](https://dev.to/nyctonio/all-react-hooks-and-concepts-in-a-single-post-1daf)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
-- [Dev.to/JS] [React dynamic imports with React Router for better performance](https://dev.to/lico/react-dynamic-imports-with-react-router-in-performance-3amh)
-- [Dev.to/JS] [how to configure neovim from scratch in termux](https://dev.to/oscarjeremiasdev/how-to-configure-neovim-from-scratch-in-termux-24gl)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
