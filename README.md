@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tab and Stack Layout in React Native](https://dev.to/shubhampatilsd/tab-and-stack-layout-in-react-native-3nlf)
 - [Dev.to/JS] [Shizzle](https://dev.to/dapatilblog/shizzle-3k4d)
 - [Dev.to/JS] [Planning...](https://dev.to/warmastr/planning-4lle)
 - [Dev.to/JS] [The important of DRY, KISS, and YAGNI in programming.](https://dev.to/alfredbis29/the-important-of-dry-kiss-and-yagni-in-programming-4akf)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 3 Casts of the Week #4](https://dev.to/codecast/top-3-casts-of-the-week-4-22nb)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
-- [Dev.to/JS] [Asynchronous Logic to Write a Vue 3 and Deepgram Captions Component](https://dev.to/deepgram/asynchronous-logic-to-write-a-vue-3-and-deepgram-captions-component-4b72)
 - [Lifehacker] [How to Discreetly Obtain Birth Control](https://lifehacker.com/how-to-discreetly-obtain-birth-control-1848732196)
 - [Lifehacker] [How to Work a Stretching Session Into Your Day](https://lifehacker.com/how-to-work-a-stretching-session-into-your-day-1848738048)
 - [Lifehacker] [How to Tell if You’re Chatting with a Bot](https://lifehacker.com/how-to-tell-if-you-re-chatting-with-a-bot-1848733021)
