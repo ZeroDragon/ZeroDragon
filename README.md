@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
+- [Dev.to/JS] [Adding Lottie Animations to Your Website](https://dev.to/shahmir049/adding-lottie-animations-to-your-website-3glg)
+- [Dev.to/JS] [Building a Clubhouse clone with Svelte and 100ms](https://dev.to/nilay1101/building-a-clubhouse-clone-with-svelte-and-100ms-87h)
+- [Dev.to/JS] [Spiking Tailwind CSS in a React App](https://dev.to/georgeoffley/spiking-tailwind-css-in-a-react-app-5198)
+- [Dev.to/JS] [Build a Login/Signup Page with React &amp; TailwindCSS](https://dev.to/rohanjsx/build-a-loginsignup-page-with-react-tailwindcss-27ab)
+- [Dev.to/JS] [Text To Speech Converter in HTML CSS &amp; JavaScript](https://dev.to/yaswanthteja/text-to-speech-converter-in-html-css-javascript-3eme)
 - [Dev.to/JS] [All React Hooks and Concepts In A Single Post!! 🤗](https://dev.to/nyctonio/all-react-hooks-and-concepts-in-a-single-post-1daf)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
 - [Dev.to/JS] [React dynamic imports with React Router for better performance](https://dev.to/lico/react-dynamic-imports-with-react-router-in-performance-3amh)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Upgrade to React 18](https://dev.to/jsstackdevelopers/how-to-upgrade-to-react-18-21m5)
 - [Dev.to/JS] [Best Programming Language and Game Engine To Develop a Metaverse Cricket Game?](https://dev.to/gracesh58738133/best-programming-language-and-game-engine-to-develop-a-metaverse-cricket-game-l4m)
 - [Dev.to/JS] [Temporal instead of Date](https://dev.to/yenyih/temporal-instead-of-date-3e0d)
-- [Dev.to/JS] [How Long Does It Take To Learn Java?](https://dev.to/johnrichard/how-long-does-it-take-to-learn-java-1njn)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;02-04-2022&rpar; - Hypothermia and then sunshine, and then starvation &amp; thirst](https://dev.to/mjgs/this-weeks-newsletter-is-out-02-04-2022-hypothermia-and-then-sunshine-and-then-starvation-thirst-3f98)
-- [Dev.to/JS] [Creating a no-auth Spotify playlist preview with Next.js](https://dev.to/haydenbleasel/creating-a-no-auth-spotify-playlist-preview-with-nextjs-3dk1)
-- [Dev.to/JS] [Big O for Javascript.](https://dev.to/urstrulyvishwak/big-o-for-javascript-28ne)
-- [Dev.to/JS] [Beginner’s problem](https://dev.to/aspiringdev22/beginners-problem-4ieb)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Lifehacker] [Use This Mod to Restore &#39;Elden Ring&#39; Progress Whenever You Want](https://lifehacker.com/use-this-mod-to-restore-elden-ring-progress-whenever-yo-1848731609)
 - [Lifehacker] [Just Be Yourself, and Other Dating Myths You Should Stop Believing](https://lifehacker.com/just-be-yourself-and-other-dating-myths-you-should-sto-1848731958)
-- [Lifehacker] [How to Make a Classic N64 Zelda Look Like a Modern PC Game](https://lifehacker.com/how-to-make-a-classic-n64-zelda-look-like-a-modern-pc-g-1848731884)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
