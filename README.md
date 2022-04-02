@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ways to Reduce your Front-End Codes](https://dev.to/zhcalvin/ways-to-reduce-your-front-end-codes-30hl)
 - [Dev.to/JS] [How to Upgrade to React 18](https://dev.to/jsstackdevelopers/how-to-upgrade-to-react-18-21m5)
 - [Dev.to/JS] [Best Programming Language and Game Engine To Develop a Metaverse Cricket Game?](https://dev.to/gracesh58738133/best-programming-language-and-game-engine-to-develop-a-metaverse-cricket-game-l4m)
 - [Dev.to/JS] [Temporal instead of Date](https://dev.to/yenyih/temporal-instead-of-date-3e0d)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner’s problem](https://dev.to/aspiringdev22/beginners-problem-4ieb)
 - [Dev.to/JS] [Getting started with Web 3.0 for Frontend Engineer](https://dev.to/suprabhasupi/getting-started-with-web-30-for-frontend-engineer-3iaj)
 - [Dev.to/JS] [MediaClasses](https://dev.to/kolja/mediaclasses-2jln)
-- [Dev.to/JS] [Revisiting React Rendering](https://dev.to/thewritingdev/revisiting-react-rendering-d98)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
