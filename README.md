@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #90: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-90-explica-este-codigo-javascript-5357)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Dev.to/JS] [Adding Lottie Animations to Your Website](https://dev.to/shahmir049/adding-lottie-animations-to-your-website-3glg)
 - [Dev.to/JS] [Building a Clubhouse clone with Svelte and 100ms](https://dev.to/nilay1101/building-a-clubhouse-clone-with-svelte-and-100ms-87h)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ways to Reduce your Front-End Codes](https://dev.to/zhcalvin/ways-to-reduce-your-front-end-codes-30hl)
 - [Dev.to/JS] [How to Upgrade to React 18](https://dev.to/jsstackdevelopers/how-to-upgrade-to-react-18-21m5)
 - [Dev.to/JS] [Best Programming Language and Game Engine To Develop a Metaverse Cricket Game?](https://dev.to/gracesh58738133/best-programming-language-and-game-engine-to-develop-a-metaverse-cricket-game-l4m)
-- [Dev.to/JS] [Temporal instead of Date](https://dev.to/yenyih/temporal-instead-of-date-3e0d)
 - [Lifehacker] [How to Enable Universal Control on Your iPhone and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
