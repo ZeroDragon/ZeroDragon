@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typing Speed Test Game using javascript](https://dev.to/yaswanthteja/typing-speed-test-game-using-javascript-in3)
+- [Dev.to/JS] [What is a pure function?](https://dev.to/chalarangelo/what-is-a-pure-function-1o38)
+- [Dev.to/JS] [Thinking to make a travel book in react using props, components and some more basic stuff](https://dev.to/shrey802/thinking-to-make-a-travel-book-in-react-using-props-components-and-some-more-basic-stuff-46a9)
+- [Dev.to/JS] [Implementing AutoLogout Feature in Web Applications &lpar;React-JS&rpar;](https://dev.to/olumidesamuel_/implementing-autologout-feature-in-web-applications-react-js-28k5)
 - [Dev.to/JS] [Introducing Mantis &lpar;M-Ant-is&rpar; React Dashboard Template](https://dev.to/codedthemes/introducing-mantis-m-ant-is-pi6)
 - [Dev.to/JS] [React 18: Everything you need to know](https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2)
 - [Dev.to/JS] [Fixing &quot;Require statement not part of import statement.eslint[@typescript-eslint/no-var-requires]&quot;](https://dev.to/msoup/fixing-require-statement-not-part-of-import-statementeslinttypescript-eslintno-var-requires-25n3)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Loading external configurations in Angular Universal](https://dev.to/ayyash/loading-external-configurations-in-angular-universal-4di1)
 - [Dev.to/JS] [Easy Peasy Error Handling in Express.js](https://dev.to/franciscomendes10866/easy-peasy-error-handling-in-expressjs-n98)
 - [Dev.to/JS] [Advanced Express JS REST API - Node.js - Full Tutorial](https://dev.to/fullstackarchitect/advanced-express-js-rest-api-nodejs-full-tutorial-n9m)
-- [Dev.to/JS] [Advanced Express JS REST API - JWT Refresh Tokens - Node.js](https://dev.to/fullstackarchitect/advanced-express-js-rest-api-jwt-refresh-tokens-nodejs-391)
-- [Dev.to/JS] [Alan AI - 12K+ Interactions Promo Code](https://dev.to/shaileshofficial2019/alan-ai-12k-interactions-promo-code-2cim)
-- [Dev.to/JS] [Building CRUD Apps with NextJs](https://dev.to/asayerio_techblog/building-crud-apps-with-nextjs-136l)
-- [Dev.to/JS] [Primitive type](https://dev.to/vicky_ops/primitive-type-14jb)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
