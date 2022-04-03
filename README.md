@@ -26,7 +26,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing Web Vitals With Cypress](https://dev.to/craigmorten/web-vitals-cypress-testing-3bpj)
 - [Dev.to/JS] [All side optimized Next.js translations](https://dev.to/adrai/all-side-optimized-nextjs-translations-4n9i)
 - [Dev.to/JS] [Hide ReactJS Code From Browser](https://dev.to/capscode/hide-reactjs-code-from-browser-1nl0)
-- [Dev.to/JS] [Learn React By Making Wordle 📚️](https://dev.to/eludadev/learn-react-by-making-wordle-1213)
+- [Dev.to/JS] [Learn React By Making Wordle](https://dev.to/eludadev/learn-react-by-making-wordle-1213)
 - [Dev.to/JS] [How to respond to growing supply chain security risks?](https://dev.to/maksimbalabash/how-to-respond-to-growing-supply-chain-security-risks-1d83)
 - [Dev.to/JS] [Automatically update your GitHub profile with your latest dev.to post](https://dev.to/aveeksaha/automatically-update-your-github-profile-with-your-latest-devto-post-157a)
 - [Dev.to/JS] [Top Javascript Cheat sheet](https://dev.to/ikamran/top-javascript-cheat-sheet-1e7o)
