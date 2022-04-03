@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first tech blog](https://dev.to/joki9448/my-first-tech-blog-5bki)
 - [Dev.to/JS] [Build your own NFT Minter on Polygon in less than an hour.](https://dev.to/onecdotin/build-your-own-nft-minter-on-polygon-in-less-than-an-hour-56de)
 - [Dev.to/JS] [Open Source Adventures: Episode 28: Introduction to D3](https://dev.to/taw/open-source-adventures-episode-28-introduction-to-d3-4gn6)
 - [Dev.to/JS] [JavaScript Array Methods - Some &amp; Every](https://dev.to/justtanwa/javascript-array-methods-some-every-30bb)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Good API That Won’t Embarrass You](https://dev.to/stx-next/how-to-build-a-good-api-that-wont-embarrass-you-5hi2)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Dev.to/JS] [Weekly Digest 13/2022](https://dev.to/marcobiedermann/weekly-digest-132022-505h)
-- [Dev.to/JS] [Sign GraphQL Request with AWS IAM and Signature V4](https://dev.to/zirkelc/sign-graphql-request-with-aws-iam-and-signature-v4-2il6)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
