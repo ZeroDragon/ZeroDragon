@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 Things You Should Try to Avoid in Vue.js](https://dev.to/alexxiyang/3-things-you-should-try-to-avoid-in-vuejs-27b6)
 - [Dev.to/JS] [Dialog Element: A New Approach To Modals And Popups](https://dev.to/princerajroy/dialog-element-a-new-approach-to-modals-and-popups-4h3h)
 - [Dev.to/JS] [Deploy NodeJS application using Nginx](https://dev.to/jsstackacademy/deploy-nodejs-application-using-nginx-3jhh)
 - [Dev.to/JS] [Best Pens and Projects on CodePen &lpar;#1&rpar;](https://dev.to/md3bm/best-pens-and-projects-on-codepen-1-1dil)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Interview Questions: Understanding Rendering](https://dev.to/thewritingdev/react-interview-questions-understanding-rendering-547g)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Dev.to/JS] [Tesla clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/tesla-clone-with-vanilla-html-css-and-javascript-2k1j)
-- [Dev.to/JS] [How to make a rickroll website](https://dev.to/satvik/how-to-make-a-rickroll-website-28en)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
@@ -46,7 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
 - [Lifehacker] [How to Discreetly Obtain Birth Control](https://lifehacker.com/how-to-discreetly-obtain-birth-control-1848732196)
 - [Lifehacker] [How to Work a Stretching Session Into Your Day](https://lifehacker.com/how-to-work-a-stretching-session-into-your-day-1848738048)
-- [Lifehacker] [How to Tell if You’re Chatting with a Bot](https://lifehacker.com/how-to-tell-if-you-re-chatting-with-a-bot-1848733021)
+- [Lifehacker] [How to Tell If You’re Chatting with a Bot](https://lifehacker.com/how-to-tell-if-you-re-chatting-with-a-bot-1848733021)
 - [Lifehacker] [How to Deal With a Brilliant Jerk at Work](https://lifehacker.com/how-to-deal-with-a-brilliant-asshole-at-work-1848732403)
 - [Lifehacker] [10 Classic Porn Films Made by Women](https://lifehacker.com/10-classic-porn-films-made-by-women-1848687729)
 - [Lifehacker] [Finish Your Spring Vegetables With These 3 Ingredients](https://lifehacker.com/finish-your-spring-vegetables-with-these-3-ingredients-1848733166)
