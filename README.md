@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Adventures: Episode 28: Introduction to D3](https://dev.to/taw/open-source-adventures-episode-28-introduction-to-d3-4gn6)
+- [Dev.to/JS] [JavaScript Array Methods - Some &amp; Every](https://dev.to/justtanwa/javascript-array-methods-some-every-30bb)
+- [Dev.to/JS] [Make it work first, split after. Creating components without pain in React](https://dev.to/jssantana/make-it-work-first-split-after-creating-components-without-pain-react-1l71)
 - [Dev.to/JS] [3 Things You Should Try to Avoid in Vue.js](https://dev.to/alexxiyang/3-things-you-should-try-to-avoid-in-vuejs-27b6)
 - [Dev.to/JS] [Dialog Element: A New Approach To Modals And Popups](https://dev.to/princerajroy/dialog-element-a-new-approach-to-modals-and-popups-4h3h)
 - [Dev.to/JS] [Deploy NodeJS application using Nginx](https://dev.to/jsstackacademy/deploy-nodejs-application-using-nginx-3jhh)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly Digest 13/2022](https://dev.to/marcobiedermann/weekly-digest-132022-505h)
 - [Dev.to/JS] [Sign GraphQL Request with AWS IAM and Signature V4](https://dev.to/zirkelc/sign-graphql-request-with-aws-iam-and-signature-v4-2il6)
 - [Dev.to/JS] [Paracetamol.js💊| #91: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-91-explica-este-codigo-javascript-30h4)
-- [Dev.to/JS] [⚛️ 5 Things you need to know about React! 👨🏻‍💻 || Rithik Samanthula](https://dev.to/code2rithik/5-things-you-need-to-know-about-react-19gf)
-- [Dev.to/JS] [React Interview Questions: Understanding Rendering](https://dev.to/thewritingdev/react-interview-questions-understanding-rendering-547g)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
-- [Dev.to/JS] [Tesla clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/tesla-clone-with-vanilla-html-css-and-javascript-2k1j)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
