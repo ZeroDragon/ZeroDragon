@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testing Web Vitals With Cypress](https://dev.to/craigmorten/web-vitals-cypress-testing-3bpj)
+- [Dev.to/JS] [All side optimized Next.js translations](https://dev.to/adrai/all-side-optimized-nextjs-translations-4n9i)
+- [Dev.to/JS] [Hide ReactJS Code From Browser](https://dev.to/capscode/hide-reactjs-code-from-browser-1nl0)
+- [Dev.to/JS] [Learn React By Making Wordle 📚️](https://dev.to/eludadev/learn-react-by-making-wordle-1213)
+- [Dev.to/JS] [How to respond to growing supply chain security risks?](https://dev.to/maksimbalabash/how-to-respond-to-growing-supply-chain-security-risks-1d83)
 - [Dev.to/JS] [Automatically update your GitHub profile with your latest dev.to post](https://dev.to/aveeksaha/automatically-update-your-github-profile-with-your-latest-devto-post-157a)
 - [Dev.to/JS] [Top Javascript Cheat sheet](https://dev.to/ikamran/top-javascript-cheat-sheet-1e7o)
 - [Dev.to/JS] [Adding Underline, Underline color tools to Trix](https://dev.to/rockwell/adding-underline-underline-color-tool-to-trix-2485)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stop Using Create-React-App!](https://dev.to/hardikmirg/stop-using-create-react-app-3f57)
 - [Dev.to/JS] [sumZero with O&lpar;n&rpar; in Javascript.](https://dev.to/urstrulyvishwak/sumzero-with-on-in-javascript-2126)
 - [Dev.to/JS] [MongoDB Connection using Mongoose](https://dev.to/thevinitgupta/mongodb-connection-using-mongoose-2430)
-- [Dev.to/JS] [Noocube – Brain Booster Supplement, Benefits And Fake Results?](https://dev.to/noocubeinfo/noocube-brain-booster-supplement-benefits-and-fake-results-3kop)
-- [Dev.to/JS] [How to start using React and Three.js in a few minutes ⏳](https://dev.to/omher/how-to-start-using-react-and-threejs-in-a-few-minutes-2h6g)
-- [Dev.to/JS] [Typing Speed Test Game using javascript](https://dev.to/yaswanthteja/typing-speed-test-game-using-javascript-in3)
-- [Dev.to/JS] [What is a pure function?](https://dev.to/chalarangelo/what-is-a-pure-function-1o38)
-- [Dev.to/JS] [Thinking to make a travel book in react using props, components and some more basic stuff](https://dev.to/shrey802/thinking-to-make-a-travel-book-in-react-using-props-components-and-some-more-basic-stuff-46a9)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
