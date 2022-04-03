@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
+- [Dev.to/JS] [Tesla clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/tesla-clone-with-vanilla-html-css-and-javascript-2k1j)
+- [Dev.to/JS] [How to make a rickroll website](https://dev.to/satvik/how-to-make-a-rickroll-website-28en)
+- [Dev.to/JS] [Node.js - Streams and Promises](https://dev.to/sdcaulley/nodejs-streams-and-promises-am9)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
 - [Dev.to/JS] [Getting started with GitHub Actions and workflows](https://dev.to/typescripttv/getting-started-with-github-actions-and-workflows-2ki2)
 - [Dev.to/JS] [for vs forEach vs map](https://dev.to/sakethkowtha/for-vs-foreach-vs-map-54kf)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn React By Making Wordle](https://dev.to/eludadev/learn-react-by-making-wordle-1213)
 - [Dev.to/JS] [How to respond to growing supply chain security risks?](https://dev.to/maksimbalabash/how-to-respond-to-growing-supply-chain-security-risks-1d83)
 - [Dev.to/JS] [Automatically update your GitHub profile with your latest dev.to post](https://dev.to/aveeksaha/automatically-update-your-github-profile-with-your-latest-devto-post-157a)
-- [Dev.to/JS] [Top Javascript Cheat sheet](https://dev.to/ikamran/top-javascript-cheat-sheet-1e7o)
-- [Dev.to/JS] [Adding Underline, Underline color tools to Trix](https://dev.to/rockwell/adding-underline-underline-color-tool-to-trix-2485)
-- [Dev.to/JS] [Take Your Github Repository To The Next Level 🚀️](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Places You Can Legally Stream TV Shows for Free](https://lifehacker.com/13-places-you-can-legally-stream-tv-shows-for-free-1848697629)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Lifehacker] [How to Stop Being Such a Control Freak](https://lifehacker.com/how-to-stop-being-such-a-control-freak-1848732230)
-- [Lifehacker] [You Should Lie About Your Internet Access](https://lifehacker.com/you-should-lie-about-your-internet-access-1848731943)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
 - [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
 
