@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automatically update your GitHub profile with your latest dev.to post](https://dev.to/aveeksaha/automatically-update-your-github-profile-with-your-latest-devto-post-157a)
+- [Dev.to/JS] [Top Javascript Cheat sheet](https://dev.to/ikamran/top-javascript-cheat-sheet-1e7o)
+- [Dev.to/JS] [Adding Underline, Underline color tools to Trix](https://dev.to/rockwell/adding-underline-underline-color-tool-to-trix-2485)
 - [Dev.to/JS] [Take Your Github Repository To The Next Level 🚀️](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge)
 - [Dev.to/JS] [Stop Using Create-React-App!](https://dev.to/hardikmirg/stop-using-create-react-app-3f57)
 - [Dev.to/JS] [sumZero with O&lpar;n&rpar; in Javascript.](https://dev.to/urstrulyvishwak/sumzero-with-on-in-javascript-2126)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typing Speed Test Game using javascript](https://dev.to/yaswanthteja/typing-speed-test-game-using-javascript-in3)
 - [Dev.to/JS] [What is a pure function?](https://dev.to/chalarangelo/what-is-a-pure-function-1o38)
 - [Dev.to/JS] [Thinking to make a travel book in react using props, components and some more basic stuff](https://dev.to/shrey802/thinking-to-make-a-travel-book-in-react-using-props-components-and-some-more-basic-stuff-46a9)
-- [Dev.to/JS] [Implementing AutoLogout Feature in Web Applications &lpar;React-JS&rpar;](https://dev.to/olumidesamuel_/implementing-autologout-feature-in-web-applications-react-js-28k5)
-- [Dev.to/JS] [Introducing Mantis &lpar;M-Ant-is&rpar; React Dashboard Template](https://dev.to/codedthemes/introducing-mantis-m-ant-is-pi6)
-- [Dev.to/JS] [React 18: Everything you need to know](https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
