@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [sumZero with O&lpar;n&rpar; in Javascript.](https://dev.to/urstrulyvishwak/sumzero-with-on-in-javascript-2126)
+- [Dev.to/JS] [MongoDB Connection using Mongoose](https://dev.to/thevinitgupta/mongodb-connection-using-mongoose-2430)
+- [Dev.to/JS] [Noocube – Brain Booster Supplement, Benefits And Fake Results?](https://dev.to/noocubeinfo/noocube-brain-booster-supplement-benefits-and-fake-results-3kop)
+- [Dev.to/JS] [How to start using React and Three.js in a few minutes ⏳](https://dev.to/omher/how-to-start-using-react-and-threejs-in-a-few-minutes-2h6g)
 - [Dev.to/JS] [Typing Speed Test Game using javascript](https://dev.to/yaswanthteja/typing-speed-test-game-using-javascript-in3)
 - [Dev.to/JS] [What is a pure function?](https://dev.to/chalarangelo/what-is-a-pure-function-1o38)
 - [Dev.to/JS] [Thinking to make a travel book in react using props, components and some more basic stuff](https://dev.to/shrey802/thinking-to-make-a-travel-book-in-react-using-props-components-and-some-more-basic-stuff-46a9)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React 18: Everything you need to know](https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2)
 - [Dev.to/JS] [Fixing &quot;Require statement not part of import statement.eslint[@typescript-eslint/no-var-requires]&quot;](https://dev.to/msoup/fixing-require-statement-not-part-of-import-statementeslinttypescript-eslintno-var-requires-25n3)
 - [Dev.to/JS] [Unpacking JavaScript 01: Prototypes&lpar;--emulating proto runtime--&rpar;](https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68)
-- [Dev.to/JS] [Unpacking JavaScript 00: Introduction](https://dev.to/sfundomhlungu/unpacking-javascript-00-introduction-2c33)
-- [Dev.to/JS] [Loading external configurations in Angular Universal](https://dev.to/ayyash/loading-external-configurations-in-angular-universal-4di1)
-- [Dev.to/JS] [Easy Peasy Error Handling in Express.js](https://dev.to/franciscomendes10866/easy-peasy-error-handling-in-expressjs-n98)
-- [Dev.to/JS] [Advanced Express JS REST API - Node.js - Full Tutorial](https://dev.to/fullstackarchitect/advanced-express-js-rest-api-nodejs-full-tutorial-n9m)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
