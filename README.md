@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Take Your Github Repository To The Next Level 🚀️](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge)
+- [Dev.to/JS] [Stop Using Create-React-App!](https://dev.to/hardikmirg/stop-using-create-react-app-3f57)
 - [Dev.to/JS] [sumZero with O&lpar;n&rpar; in Javascript.](https://dev.to/urstrulyvishwak/sumzero-with-on-in-javascript-2126)
 - [Dev.to/JS] [MongoDB Connection using Mongoose](https://dev.to/thevinitgupta/mongodb-connection-using-mongoose-2430)
 - [Dev.to/JS] [Noocube – Brain Booster Supplement, Benefits And Fake Results?](https://dev.to/noocubeinfo/noocube-brain-booster-supplement-benefits-and-fake-results-3kop)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing AutoLogout Feature in Web Applications &lpar;React-JS&rpar;](https://dev.to/olumidesamuel_/implementing-autologout-feature-in-web-applications-react-js-28k5)
 - [Dev.to/JS] [Introducing Mantis &lpar;M-Ant-is&rpar; React Dashboard Template](https://dev.to/codedthemes/introducing-mantis-m-ant-is-pi6)
 - [Dev.to/JS] [React 18: Everything you need to know](https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2)
-- [Dev.to/JS] [Fixing &quot;Require statement not part of import statement.eslint[@typescript-eslint/no-var-requires]&quot;](https://dev.to/msoup/fixing-require-statement-not-part-of-import-statementeslinttypescript-eslintno-var-requires-25n3)
-- [Dev.to/JS] [Unpacking JavaScript 01: Prototypes&lpar;--emulating proto runtime--&rpar;](https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
