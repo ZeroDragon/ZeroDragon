@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing Mantis &lpar;M-Ant-is&rpar; React Dashboard Template](https://dev.to/codedthemes/introducing-mantis-m-ant-is-pi6)
 - [Dev.to/JS] [React 18: Everything you need to know](https://dev.to/ruppysuppy/react-18-everything-you-need-to-know-lh2)
 - [Dev.to/JS] [Fixing &quot;Require statement not part of import statement.eslint[@typescript-eslint/no-var-requires]&quot;](https://dev.to/msoup/fixing-require-statement-not-part-of-import-statementeslinttypescript-eslintno-var-requires-25n3)
 - [Dev.to/JS] [Unpacking JavaScript 01: Prototypes&lpar;--emulating proto runtime--&rpar;](https://dev.to/sfundomhlungu/unpacking-javascript-01-prototypes-emulating-proto-runtime--1m68)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Alan AI - 12K+ Interactions Promo Code](https://dev.to/shaileshofficial2019/alan-ai-12k-interactions-promo-code-2cim)
 - [Dev.to/JS] [Building CRUD Apps with NextJs](https://dev.to/asayerio_techblog/building-crud-apps-with-nextjs-136l)
 - [Dev.to/JS] [Primitive type](https://dev.to/vicky_ops/primitive-type-14jb)
-- [Dev.to/JS] [Angular 13 + NestJs + NX](https://dev.to/wlucha/angular-13-nestjs-nx-12j4)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
