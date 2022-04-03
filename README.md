@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with GitHub Actions and workflows](https://dev.to/typescripttv/getting-started-with-github-actions-and-workflows-2ki2)
+- [Dev.to/JS] [for vs forEach vs map](https://dev.to/sakethkowtha/for-vs-foreach-vs-map-54kf)
+- [Dev.to/JS] [9 console.log Tricks That You Didn’t Know About 🤯️](https://dev.to/eludadev/9-consolelog-tricks-that-you-didnt-know-about-bhb)
 - [Dev.to/JS] [Testing Web Vitals With Cypress](https://dev.to/craigmorten/web-vitals-cypress-testing-3bpj)
 - [Dev.to/JS] [All side optimized Next.js translations](https://dev.to/adrai/all-side-optimized-nextjs-translations-4n9i)
 - [Dev.to/JS] [Hide ReactJS Code From Browser](https://dev.to/capscode/hide-reactjs-code-from-browser-1nl0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top Javascript Cheat sheet](https://dev.to/ikamran/top-javascript-cheat-sheet-1e7o)
 - [Dev.to/JS] [Adding Underline, Underline color tools to Trix](https://dev.to/rockwell/adding-underline-underline-color-tool-to-trix-2485)
 - [Dev.to/JS] [Take Your Github Repository To The Next Level 🚀️](https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge)
-- [Dev.to/JS] [Stop Using Create-React-App!](https://dev.to/hardikmirg/stop-using-create-react-app-3f57)
-- [Dev.to/JS] [sumZero with O&lpar;n&rpar; in Javascript.](https://dev.to/urstrulyvishwak/sumzero-with-on-in-javascript-2126)
-- [Dev.to/JS] [MongoDB Connection using Mongoose](https://dev.to/thevinitgupta/mongodb-connection-using-mongoose-2430)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
