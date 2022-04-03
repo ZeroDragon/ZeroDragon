@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dialog Element: A New Approach To Modals And Popups](https://dev.to/princerajroy/dialog-element-a-new-approach-to-modals-and-popups-4h3h)
+- [Dev.to/JS] [Deploy NodeJS application using Nginx](https://dev.to/jsstackacademy/deploy-nodejs-application-using-nginx-3jhh)
+- [Dev.to/JS] [Best Pens and Projects on CodePen &lpar;#1&rpar;](https://dev.to/md3bm/best-pens-and-projects-on-codepen-1-1dil)
+- [Dev.to/JS] [How to reload an SSR Page](https://dev.to/perkinsjr/how-to-reload-an-ssr-page-2a9g)
+- [Dev.to/JS] [How to Build a Good API That Won’t Embarrass You](https://dev.to/stx-next/how-to-build-a-good-api-that-wont-embarrass-you-5hi2)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Dev.to/JS] [Weekly Digest 13/2022](https://dev.to/marcobiedermann/weekly-digest-132022-505h)
 - [Dev.to/JS] [Sign GraphQL Request with AWS IAM and Signature V4](https://dev.to/zirkelc/sign-graphql-request-with-aws-iam-and-signature-v4-2il6)
@@ -32,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Dev.to/JS] [Tesla clone with vanilla HTML, CSS, and JavaScript](https://dev.to/thatanjan/tesla-clone-with-vanilla-html-css-and-javascript-2k1j)
 - [Dev.to/JS] [How to make a rickroll website](https://dev.to/satvik/how-to-make-a-rickroll-website-28en)
-- [Dev.to/JS] [Node.js - Streams and Promises](https://dev.to/sdcaulley/nodejs-streams-and-promises-am9)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
-- [Dev.to/JS] [Getting started with GitHub Actions and workflows](https://dev.to/typescripttv/getting-started-with-github-actions-and-workflows-2ki2)
-- [Dev.to/JS] [for vs forEach vs map](https://dev.to/sakethkowtha/for-vs-foreach-vs-map-54kf)
-- [Dev.to/JS] [9 console.log Tricks That You Didn’t Know About 🤯️](https://dev.to/eludadev/9-consolelog-tricks-that-you-didnt-know-about-bhb)
-- [Dev.to/JS] [Testing Web Vitals With Cypress](https://dev.to/craigmorten/web-vitals-cypress-testing-3bpj)
 - [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
