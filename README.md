@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Long Is Too Long to Spend on a Machine at the Gym?](https://lifehacker.com/how-long-is-too-long-to-spend-on-a-machine-at-the-gym-1848713370)
+- [Dev.to/JS] [Chakra-UI Crash Course](https://dev.to/thatanjan/chakra-ui-crash-course-2o2g)
+- [Dev.to/JS] [How to include browser support data &lpar;caniuse&rpar; in your blog posts](https://dev.to/robole/how-to-include-browser-support-data-caniuse-in-your-blog-posts-8bg)
 - [Dev.to/JS] [Art of debugging](https://dev.to/varenya/art-of-debugging-17gg)
 - [Dev.to/JS] [Android - Multiple Draggable objects in Jetpack Compose](https://dev.to/canopassoftware/android-multiple-draggable-objects-in-jetpack-compose-1a3j)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍉.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-365g)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducción a JS](https://dev.to/amargopastor/introduccion-a-js-5bl7)
 - [Dev.to/JS] [Qu’est-ce qu’un ORM ?](https://dev.to/honorablecon/quest-ce-quun-orm--1fne)
 - [Dev.to/JS] [RxJS Declarative Pattern in Angular](https://dev.to/this-is-angular/rxjs-declarative-pattern-in-angular-4ih6)
-- [Dev.to/JS] [Check yo&#39; project structure before you wreck yo&#39; project structure](https://dev.to/bornfightcompany/check-yo-project-structure-before-you-wreck-yo-project-structure-3egp)
-- [Dev.to/JS] [Top 3 JavaScript tips I wish someone had told me](https://dev.to/freebeliever/top-3-javascript-tips-i-wish-someone-had-told-me-1643)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The &#39;Chunks&#39; in This Recalled Peanut Butter Could Be Metal Fragments](https://lifehacker.com/the-chunks-in-this-recalled-peanut-butter-could-be-meta-1848735872)
 - [Lifehacker] [What &#39;Cunningham&#39;s Law&#39; Really Tells Us About How We Interact Online](https://lifehacker.com/what-cunninghams-law-really-tells-us-about-how-we-inter-1848733445)
 - [Lifehacker] [8 Ways to Make Your Mac’s Dock More Useful](https://lifehacker.com/8-ways-to-make-your-mac-s-dock-more-useful-1848720074)
-- [Lifehacker] [13 Places You Can Legally Stream TV Shows for Free](https://lifehacker.com/13-places-you-can-legally-stream-tv-shows-for-free-1848697629)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
