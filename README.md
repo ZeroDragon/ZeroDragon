@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flag Emoji rendering issue on google chrome | React JS](https://dev.to/sumit489/flag-emoji-rendering-issue-on-google-chrome-react-js-270l)
+- [Lifehacker] [5 of the Greatest Bruce Willis Performances of All Time](https://lifehacker.com/5-of-the-greatest-bruce-willis-performances-of-all-time-1848745347)
+- [Dev.to/JS] [Amplication &amp; React: Create the Backend](https://dev.to/amplication/amplication-react-create-the-backend-43lf)
+- [Dev.to/JS] [Make a URL Shortener with SvelteKit](https://dev.to/spences10/make-a-url-shortener-with-sveltekit-46c0)
+- [Dev.to/JS] [Will leaving my job for mental health reasons ruin my professional reputation?](https://dev.to/johnwoody/will-leaving-my-job-for-mental-health-reasons-ruin-my-professional-reputation-47m9)
+- [Dev.to/JS] [A Three.js 3D world with Character + Movements + Third Person Camera](https://dev.to/louis3797/a-threejs-3d-world-with-character-movements-third-person-camera-325g)
+- [Dev.to/JS] [Each Logic in Svelte](https://dev.to/smpnjn/each-logic-in-svelte-5gm4)
 - [Lifehacker] [How to Recognize Your Partner&#39;s &#39;Bids for Connection&#39; and Maybe Save Your Relationship](https://lifehacker.com/how-to-recognize-your-partners-bids-for-connection-and-1848740174)
 - [Lifehacker] [11 Soothing Games That Will Restore Your Soul After &#39;Elden Ring&#39;](https://lifehacker.com/11-soothing-games-that-will-restore-your-soul-after-eld-1848693384)
 - [Dev.to/JS] [The Ladatto Code](https://dev.to/dawnteigh/the-ladatto-code-26d6)
@@ -33,13 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Backend Development](https://dev.to/rakshcodes/backend-development-2f07)
 - [Lifehacker] [How to Build a Fire Pit &lpar;Without Burning Down the Neighborhood&rpar;](https://lifehacker.com/how-to-build-a-fire-pit-without-burning-down-the-neigh-1848735177)
 - [Dev.to/JS] [Future Javascript: Types may finally be coming to Javascript](https://dev.to/smpnjn/types-may-finally-be-coming-to-javascript-56a2)
-- [Dev.to/JS] [Web/Desktop Contacts App Written Once With Doodle](https://dev.to/pusolito/webdesktop-contacts-app-written-once-with-doodle-4id4)
-- [Dev.to/JS] [Awesome JavaScript just discoverd](https://dev.to/dirkecker/awesome-javascript-just-discoverd-3cc)
-- [Dev.to/JS] [Manage your Files with any Cloud Service with just 10 lines of code](https://dev.to/ivanzm123/manage-your-files-with-any-cloud-service-with-just-10-lines-of-code-329c)
-- [Dev.to/JS] [Paracetamol.js💊| #92: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-92-explica-este-codigo-javascript-2h5n)
 - [Lifehacker] [Use This Trick to Get PlayStation Plus Premium for Half the Cost &lpar;Before Sony Fixes It&rpar;](https://lifehacker.com/use-this-trick-to-get-playstation-plus-premium-for-half-1848745246)
-- [Dev.to/JS] [REDFLAGS](https://dev.to/lexis00/redflags-e62)
-- [Dev.to/JS] [Be Careful About Timezones In Backend and Frontend Development](https://dev.to/aqeelzeid/be-careful-about-timezones-in-backend-and-frontend-development-47c6)
 - [Lifehacker] [12 Clever Things You Never Knew WD-40 Could Do](https://lifehacker.com/12-clever-things-you-never-knew-wd-40-could-do-1848698665)
 - [Lifehacker] [You Really Need to Stop Confessing Your Crimes Online](https://lifehacker.com/you-really-need-to-stop-confessing-your-crimes-online-1848738588)
 - [Lifehacker] [What&#39;s That White Stuff on My Cheese?](https://lifehacker.com/whats-that-white-stuff-on-my-cheese-1848739076)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Deal With a Brilliant Jerk at Work](https://lifehacker.com/how-to-deal-with-a-brilliant-asshole-at-work-1848732403)
 - [Lifehacker] [10 Classic Porn Films Made by Women](https://lifehacker.com/10-classic-porn-films-made-by-women-1848687729)
 - [Lifehacker] [Finish Your Spring Vegetables With These 3 Ingredients](https://lifehacker.com/finish-your-spring-vegetables-with-these-3-ingredients-1848733166)
-- [Lifehacker] [How Much Privacy Do Your Extremely Online Friends Owe You?](https://lifehacker.com/how-much-privacy-do-your-extremely-online-friends-owe-y-1848727108)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
