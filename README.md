@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Recognize Your Partner&#39;s &#39;Bids for Connection&#39; and Maybe Save Your Relationship](https://lifehacker.com/how-to-recognize-your-partners-bids-for-connection-and-1848740174)
+- [Lifehacker] [11 Soothing Games That Will Restore Your Soul After &#39;Elden Ring&#39;](https://lifehacker.com/11-soothing-games-that-will-restore-your-soul-after-eld-1848693384)
+- [Dev.to/JS] [The Ladatto Code](https://dev.to/dawnteigh/the-ladatto-code-26d6)
+- [Dev.to/JS] [How to perfectly use Deepgram in React-JS?](https://dev.to/jacksonkasi/how-to-perfectly-use-deepgram-in-react-js-1cef)
+- [Dev.to/JS] [Comparing time based operators in RxJS: debounce, throttle, sample, and audit](https://dev.to/tevpro/comparing-time-based-operators-in-rxjs-debounce-throttle-sample-and-audit-b2j)
+- [Dev.to/JS] [Palmette JS](https://dev.to/mb337/palmette-js-560f)
+- [Lifehacker] [Throw Out These Recalled Disney Hand Sanitizers, FDA Says](https://lifehacker.com/throw-out-these-recalled-disney-hand-sanitizers-fda-sa-1848745088)
 - [Dev.to/JS] [Backend Development](https://dev.to/rakshcodes/backend-development-2f07)
 - [Lifehacker] [How to Build a Fire Pit &lpar;Without Burning Down the Neighborhood&rpar;](https://lifehacker.com/how-to-build-a-fire-pit-without-burning-down-the-neigh-1848735177)
 - [Dev.to/JS] [Future Javascript: Types may finally be coming to Javascript](https://dev.to/smpnjn/types-may-finally-be-coming-to-javascript-56a2)
@@ -34,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [REDFLAGS](https://dev.to/lexis00/redflags-e62)
 - [Dev.to/JS] [Be Careful About Timezones In Backend and Frontend Development](https://dev.to/aqeelzeid/be-careful-about-timezones-in-backend-and-frontend-development-47c6)
 - [Lifehacker] [12 Clever Things You Never Knew WD-40 Could Do](https://lifehacker.com/12-clever-things-you-never-knew-wd-40-could-do-1848698665)
-- [Dev.to/JS] [Why we use Ember.js at OTA Insight](https://dev.to/otainsight/why-we-use-emberjs-at-ota-insight-4oai)
-- [Dev.to/JS] [A galactic guide to building a blog with Next.js and Contentful](https://dev.to/stahlwalker/a-galactic-guide-to-building-a-blog-with-nextjs-and-contentful-12o1)
-- [Dev.to/JS] [Code reviews](https://dev.to/learninglocker/code-reviews-275d)
 - [Lifehacker] [You Really Need to Stop Confessing Your Crimes Online](https://lifehacker.com/you-really-need-to-stop-confessing-your-crimes-online-1848738588)
-- [Dev.to/JS] [Implement an Uptime Monitor Using AWS Lambda, EventBridge, SNS, and SQS.](https://dev.to/nickramkissoon/implement-an-uptime-monitor-using-aws-lambda-eventbridge-sns-and-sqs-3bkg)
 - [Lifehacker] [What&#39;s That White Stuff on My Cheese?](https://lifehacker.com/whats-that-white-stuff-on-my-cheese-1848739076)
 - [Lifehacker] [How Long Is Too Long to Spend on a Machine at the Gym?](https://lifehacker.com/how-long-is-too-long-to-spend-on-a-machine-at-the-gym-1848713370)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Classic Porn Films Made by Women](https://lifehacker.com/10-classic-porn-films-made-by-women-1848687729)
 - [Lifehacker] [Finish Your Spring Vegetables With These 3 Ingredients](https://lifehacker.com/finish-your-spring-vegetables-with-these-3-ingredients-1848733166)
 - [Lifehacker] [How Much Privacy Do Your Extremely Online Friends Owe You?](https://lifehacker.com/how-much-privacy-do-your-extremely-online-friends-owe-y-1848727108)
-- [Lifehacker] [What Does It Take to Become a Personal Trainer &lpar;and Is It Worth It&rpar;?](https://lifehacker.com/what-does-it-take-to-become-a-personal-trainer-and-is-1848705391)
-- [Lifehacker] [You Should Update Your Apple Devices Right Now](https://lifehacker.com/you-should-update-your-apple-devices-right-now-1848737318)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Meme-ing the Oscars Slap](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848735332)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
