@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
+- [Dev.to/JS] [Come creare in Angular una direttiva per dichiarare variabili nei template HTML dei componenti](https://dev.to/nigrosimone/come-creare-in-angular-una-direttiva-per-dichiarare-variabili-nei-template-html-dei-componenti-62a)
+- [Dev.to/JS] [How To Run Both Your Backend And Your Client Server With One Command.](https://dev.to/joevega/how-to-run-both-your-backend-and-your-client-server-with-one-command-35ik)
 - [Lifehacker] [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
 - [Dev.to/JS] [Render, Remix, and Strapi: Let&#39;s Build a Productivity Tips App](https://dev.to/render/render-remix-and-strapi-lets-build-a-productivity-tips-app-2i3m)
 - [Dev.to/JS] [Deploying your Next.js Application](https://dev.to/anuraggharat/deploying-your-nextjs-application-2nl0)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 of the Greatest Bruce Willis Performances of All Time](https://lifehacker.com/5-of-the-greatest-bruce-willis-performances-of-all-time-1848745347)
 - [Dev.to/JS] [Amplication &amp; React: Create the Backend](https://dev.to/amplication/amplication-react-create-the-backend-43lf)
 - [Dev.to/JS] [Make a URL Shortener with SvelteKit](https://dev.to/spences10/make-a-url-shortener-with-sveltekit-46c0)
-- [Dev.to/JS] [Will leaving my job for mental health reasons ruin my professional reputation?](https://dev.to/johnwoody/will-leaving-my-job-for-mental-health-reasons-ruin-my-professional-reputation-47m9)
-- [Dev.to/JS] [A Three.js 3D world with Character + Movements + Third Person Camera](https://dev.to/louis3797/a-threejs-3d-world-with-character-movements-third-person-camera-325g)
 - [Lifehacker] [How to Recognize Your Partner&#39;s &#39;Bids for Connection&#39; and Maybe Save Your Relationship](https://lifehacker.com/how-to-recognize-your-partners-bids-for-connection-and-1848740174)
 - [Lifehacker] [11 Soothing Games That Will Restore Your Soul After &#39;Elden Ring&#39;](https://lifehacker.com/11-soothing-games-that-will-restore-your-soul-after-eld-1848693384)
 - [Lifehacker] [Throw Out These Recalled Disney Hand Sanitizers, FDA Says](https://lifehacker.com/throw-out-these-recalled-disney-hand-sanitizers-fda-sa-1848745088)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Enable Universal Control on Your iPad and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
-- [Lifehacker] [How to Discreetly Obtain Birth Control](https://lifehacker.com/how-to-discreetly-obtain-birth-control-1848732196)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
