@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add unit test cases to your project using Jest](https://dev.to/sanjaysinghrajpoot/how-to-add-unit-test-cases-to-your-project-using-jest-1h2l)
+- [Dev.to/JS] [Add a Field to a Prisma Model](https://dev.to/kristenkinnearohlmann/add-a-field-to-a-prisma-model-22ja)
+- [Dev.to/JS] [A down-to-earth explication of the noopener noreferrer attributes](https://dev.to/elisabethleonhardt/a-down-to-earth-explication-of-the-noopener-noreferrer-attributes-92n)
 - [Dev.to/JS] [Building Iterators](https://dev.to/dnafication/building-iterators-1ebb)
 - [Dev.to/JS] [Build a search application with React and Typesense](https://dev.to/itz_salemm/build-a-search-application-with-react-and-typesense-3037)
 - [Dev.to/JS] [My first tech blog](https://dev.to/joki9448/my-first-tech-blog-5bki)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make it work first, split after. Creating components without pain in React](https://dev.to/jssantana/make-it-work-first-split-after-creating-components-without-pain-react-1l71)
 - [Dev.to/JS] [3 Things You Should Try to Avoid in Vue.js](https://dev.to/alexxiyang/3-things-you-should-try-to-avoid-in-vuejs-27b6)
 - [Dev.to/JS] [Dialog Element: A New Approach To Modals And Popups](https://dev.to/princerajroy/dialog-element-a-new-approach-to-modals-and-popups-4h3h)
-- [Dev.to/JS] [Deploy NodeJS application using Nginx](https://dev.to/jsstackacademy/deploy-nodejs-application-using-nginx-3jhh)
-- [Dev.to/JS] [Best Pens and Projects on CodePen &lpar;#1&rpar;](https://dev.to/md3bm/best-pens-and-projects-on-codepen-1-1dil)
-- [Dev.to/JS] [How to reload an SSR Page](https://dev.to/perkinsjr/how-to-reload-an-ssr-page-2a9g)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
