@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implement an Uptime Monitor Using AWS Lambda, EventBridge, SNS, and SQS.](https://dev.to/nickramkissoon/implement-an-uptime-monitor-using-aws-lambda-eventbridge-sns-and-sqs-3bkg)
+- [Dev.to/JS] [💯 7 Free cool Form Components made in TailwindCSS](https://dev.to/xenoxdev/7-free-cool-form-components-made-in-tailwindcss-2e12)
+- [Dev.to/JS] [Aurous Bot](https://dev.to/arijitthedev/aurous-bot-10hb)
+- [Lifehacker] [What&#39;s That White Stuff on My Cheese?](https://lifehacker.com/whats-that-white-stuff-on-my-cheese-1848739076)
 - [Lifehacker] [How Long Is Too Long to Spend on a Machine at the Gym?](https://lifehacker.com/how-long-is-too-long-to-spend-on-a-machine-at-the-gym-1848713370)
 - [Dev.to/JS] [Chakra-UI Crash Course](https://dev.to/thatanjan/chakra-ui-crash-course-2o2g)
 - [Dev.to/JS] [How to include browser support data &lpar;caniuse&rpar; in your blog posts](https://dev.to/robole/how-to-include-browser-support-data-caniuse-in-your-blog-posts-8bg)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A 3D flavor Snake Game](https://dev.to/bekbrace/a-3d-flavor-snake-game-eln)
 - [Dev.to/JS] [17 Excuses Every Website Tester Should Get Rid Of Immediately](https://dev.to/lambdatest/17-excuses-every-website-tester-should-get-rid-of-immediately-4pkk)
 - [Dev.to/JS] [What is Currencylayer API?](https://dev.to/currencylayer/what-is-currencylayer-api-3p34)
-- [Dev.to/JS] [Introducción a JS](https://dev.to/amargopastor/introduccion-a-js-5bl7)
-- [Dev.to/JS] [Qu’est-ce qu’un ORM ?](https://dev.to/honorablecon/quest-ce-quun-orm--1fne)
-- [Dev.to/JS] [RxJS Declarative Pattern in Angular](https://dev.to/this-is-angular/rxjs-declarative-pattern-in-angular-4ih6)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Waste Money Buying Brand Names for These Products](https://lifehacker.com/dont-waste-money-buying-brand-names-for-these-products-1848731900)
 - [Lifehacker] [The &#39;Chunks&#39; in This Recalled Peanut Butter Could Be Metal Fragments](https://lifehacker.com/the-chunks-in-this-recalled-peanut-butter-could-be-meta-1848735872)
 - [Lifehacker] [What &#39;Cunningham&#39;s Law&#39; Really Tells Us About How We Interact Online](https://lifehacker.com/what-cunninghams-law-really-tells-us-about-how-we-inter-1848733445)
-- [Lifehacker] [8 Ways to Make Your Mac’s Dock More Useful](https://lifehacker.com/8-ways-to-make-your-mac-s-dock-more-useful-1848720074)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
