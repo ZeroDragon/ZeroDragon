@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [REDFLAGS](https://dev.to/lexis00/redflags-e62)
+- [Dev.to/JS] [Be Careful About Timezones In Backend and Frontend Development](https://dev.to/aqeelzeid/be-careful-about-timezones-in-backend-and-frontend-development-47c6)
+- [Lifehacker] [12 Clever Things You Never Knew WD-40 Could Do](https://lifehacker.com/12-clever-things-you-never-knew-wd-40-could-do-1848698665)
+- [Dev.to/JS] [Why we use Ember.js at OTA Insight](https://dev.to/otainsight/why-we-use-emberjs-at-ota-insight-4oai)
+- [Dev.to/JS] [A galactic guide to building a blog with Next.js and Contentful](https://dev.to/stahlwalker/a-galactic-guide-to-building-a-blog-with-nextjs-and-contentful-12o1)
+- [Dev.to/JS] [Code reviews](https://dev.to/learninglocker/code-reviews-275d)
+- [Lifehacker] [You Really Need to Stop Confessing Your Crimes Online](https://lifehacker.com/you-really-need-to-stop-confessing-your-crimes-online-1848738588)
 - [Dev.to/JS] [Implement an Uptime Monitor Using AWS Lambda, EventBridge, SNS, and SQS.](https://dev.to/nickramkissoon/implement-an-uptime-monitor-using-aws-lambda-eventbridge-sns-and-sqs-3bkg)
 - [Dev.to/JS] [💯 7 Free cool Form Components made in TailwindCSS](https://dev.to/xenoxdev/7-free-cool-form-components-made-in-tailwindcss-2e12)
 - [Dev.to/JS] [Aurous Bot](https://dev.to/arijitthedev/aurous-bot-10hb)
@@ -32,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to include browser support data &lpar;caniuse&rpar; in your blog posts](https://dev.to/robole/how-to-include-browser-support-data-caniuse-in-your-blog-posts-8bg)
 - [Dev.to/JS] [Art of debugging](https://dev.to/varenya/art-of-debugging-17gg)
 - [Dev.to/JS] [Android - Multiple Draggable objects in Jetpack Compose](https://dev.to/canopassoftware/android-multiple-draggable-objects-in-jetpack-compose-1a3j)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍉.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-365g)
-- [Dev.to/JS] [classList API in forest](https://dev.to/effector/classlist-api-in-forest-4pm9)
-- [Dev.to/JS] [A 3D flavor Snake Game](https://dev.to/bekbrace/a-3d-flavor-snake-game-eln)
-- [Dev.to/JS] [17 Excuses Every Website Tester Should Get Rid Of Immediately](https://dev.to/lambdatest/17-excuses-every-website-tester-should-get-rid-of-immediately-4pkk)
-- [Dev.to/JS] [What is Currencylayer API?](https://dev.to/currencylayer/what-is-currencylayer-api-3p34)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Meme-ing the Oscars Slap](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848735332)
 - [Lifehacker] [15 Essential Bruce Willis Performances &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/15-essential-bruce-willis-performances-and-where-to-st-1848731877)
 - [Lifehacker] [Don&#39;t Waste Money Buying Brand Names for These Products](https://lifehacker.com/dont-waste-money-buying-brand-names-for-these-products-1848731900)
-- [Lifehacker] [The &#39;Chunks&#39; in This Recalled Peanut Butter Could Be Metal Fragments](https://lifehacker.com/the-chunks-in-this-recalled-peanut-butter-could-be-meta-1848735872)
-- [Lifehacker] [What &#39;Cunningham&#39;s Law&#39; Really Tells Us About How We Interact Online](https://lifehacker.com/what-cunninghams-law-really-tells-us-about-how-we-inter-1848733445)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
