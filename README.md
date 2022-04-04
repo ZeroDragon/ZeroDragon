@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TypeScript Tip: Using Conditional Types To Refactor Overloads.](https://dev.to/andersonjoseph/typescript-tip-using-conditional-types-to-refactor-overloads-3e60)
+- [Dev.to/JS] [Day 5](https://dev.to/brixmavu/day-5-3cf6)
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
 - [Dev.to/JS] [Come creare in Angular una direttiva per dichiarare variabili nei template HTML dei componenti](https://dev.to/nigrosimone/come-creare-in-angular-una-direttiva-per-dichiarare-variabili-nei-template-html-dei-componenti-62a)
 - [Dev.to/JS] [How To Run Both Your Backend And Your Client Server With One Command.](https://dev.to/joevega/how-to-run-both-your-backend-and-your-client-server-with-one-command-35ik)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Edibles Taste Less &lpar;or More&rpar; Like Weed](https://lifehacker.com/how-to-make-edibles-taste-less-or-more-like-weed-1848746861)
 - [Dev.to/JS] [Flag Emoji rendering issue on google chrome | React JS](https://dev.to/sumit489/flag-emoji-rendering-issue-on-google-chrome-react-js-270l)
 - [Lifehacker] [5 of the Greatest Bruce Willis Performances of All Time](https://lifehacker.com/5-of-the-greatest-bruce-willis-performances-of-all-time-1848745347)
-- [Dev.to/JS] [Amplication &amp; React: Create the Backend](https://dev.to/amplication/amplication-react-create-the-backend-43lf)
-- [Dev.to/JS] [Make a URL Shortener with SvelteKit](https://dev.to/spences10/make-a-url-shortener-with-sveltekit-46c0)
 - [Lifehacker] [How to Recognize Your Partner&#39;s &#39;Bids for Connection&#39; and Maybe Save Your Relationship](https://lifehacker.com/how-to-recognize-your-partners-bids-for-connection-and-1848740174)
 - [Lifehacker] [11 Soothing Games That Will Restore Your Soul After &#39;Elden Ring&#39;](https://lifehacker.com/11-soothing-games-that-will-restore-your-soul-after-eld-1848693384)
 - [Lifehacker] [Throw Out These Recalled Disney Hand Sanitizers, FDA Says](https://lifehacker.com/throw-out-these-recalled-disney-hand-sanitizers-fda-sa-1848745088)
