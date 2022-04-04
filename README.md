@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useEffect vs useLayoutEffect: the difference and when to use them](https://dev.to/emmanuelthecoder/useeffect-vs-uselayouteffect-the-difference-and-when-to-use-them-124c)
 - [Dev.to/JS] [TypeScript Tip: Using Conditional Types To Refactor Overloads.](https://dev.to/andersonjoseph/typescript-tip-using-conditional-types-to-refactor-overloads-3e60)
 - [Dev.to/JS] [Day 5](https://dev.to/brixmavu/day-5-3cf6)
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean Your Filthy Pastry Brush](https://lifehacker.com/how-to-clean-your-filthy-pastry-brush-1848746868)
 - [Dev.to/JS] [Complete Phaser 3 Game Development Guide: Part 0.5 &lpar;Bundling and Compiling&rpar;](https://dev.to/the_unfactoring_guru/complete-phaser-3-game-development-guide-part-05-bundling-and-compiling-3an9)
 - [Lifehacker] [How to Make Edibles Taste Less &lpar;or More&rpar; Like Weed](https://lifehacker.com/how-to-make-edibles-taste-less-or-more-like-weed-1848746861)
-- [Dev.to/JS] [Flag Emoji rendering issue on google chrome | React JS](https://dev.to/sumit489/flag-emoji-rendering-issue-on-google-chrome-react-js-270l)
 - [Lifehacker] [5 of the Greatest Bruce Willis Performances of All Time](https://lifehacker.com/5-of-the-greatest-bruce-willis-performances-of-all-time-1848745347)
 - [Lifehacker] [How to Recognize Your Partner&#39;s &#39;Bids for Connection&#39; and Maybe Save Your Relationship](https://lifehacker.com/how-to-recognize-your-partners-bids-for-connection-and-1848740174)
 - [Lifehacker] [11 Soothing Games That Will Restore Your Soul After &#39;Elden Ring&#39;](https://lifehacker.com/11-soothing-games-that-will-restore-your-soul-after-eld-1848693384)
