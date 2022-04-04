@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [RxJS Declarative Pattern in Angular](https://dev.to/this-is-angular/rxjs-declarative-pattern-in-angular-4ih6)
+- [Dev.to/JS] [Check yo&#39; project structure before you wreck yo&#39; project structure](https://dev.to/bornfightcompany/check-yo-project-structure-before-you-wreck-yo-project-structure-3egp)
+- [Dev.to/JS] [Top 3 JavaScript tips I wish someone had told me](https://dev.to/freebeliever/top-3-javascript-tips-i-wish-someone-had-told-me-1643)
+- [Dev.to/JS] [What is a Phone Number Verification API, and how does it work?](https://dev.to/numverify/what-is-a-phone-number-verification-api-and-how-does-it-work-3fi2)
+- [Dev.to/JS] [SvelteKit SVG Icons: using Iconify and Icônes with Svelte](https://dev.to/askrodney/sveltekit-svg-icons-using-iconify-and-icones-with-svelte-1ibg)
+- [Dev.to/JS] [Convert your normal Laravel Application in to SPA](https://dev.to/rajtri_1710/convert-your-normal-laravel-application-in-to-spa-1c6c)
 - [Dev.to/JS] [Portfolio review](https://dev.to/premjeet/portfolio-review-570h)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Dev.to/JS] [Node.js Nedir ?](https://dev.to/berkanyldrim/nodejs-nedir--3pp1)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [react arrayMap utils](https://dev.to/yathink3/react-arraymap-utils-32ik)
 - [Dev.to/JS] [Additional JS Prototype Functions](https://dev.to/yathink3/additional-js-prototype-functions-188p)
 - [Dev.to/JS] [Making environment based apks for a react native application for android](https://dev.to/jazibjafri/making-environment-based-apks-for-a-react-native-application-for-android-4kdc)
-- [Dev.to/JS] [Complete Guide For Tourist visas, the General Requirements and the Standard Application Process](https://dev.to/monikaraina414/complete-guide-for-tourist-visas-the-general-requirements-and-the-standard-application-process-204c)
-- [Dev.to/JS] [Create navigation screens in expo project 🧑‍💻](https://dev.to/tejendrasrajawat/create-navigation-screens-in-expo-project-33d1)
-- [Dev.to/JS] [Day 4](https://dev.to/brixmavu/day-4-1akc)
-- [Dev.to/JS] [How to Mock an API with random data from NodeJS](https://dev.to/grawl/how-to-mock-an-api-with-random-data-from-nodejs-1j91)
-- [Dev.to/JS] [One Pager: The Ultimate Javascript Animation Course](https://dev.to/adriansseur/one-pager-the-ultimate-javascript-animation-course-5dfi)
-- [Dev.to/JS] [Serverless Local Development](https://dev.to/serverless_inc/serverless-local-development-25fl)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
