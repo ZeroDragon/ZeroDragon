@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Portfolio review](https://dev.to/premjeet/portfolio-review-570h)
+- [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
+- [Dev.to/JS] [Node.js Nedir ?](https://dev.to/berkanyldrim/nodejs-nedir--3pp1)
 - [Dev.to/JS] [A Quick Guide On Celebrity Look Alike App Development in 2022](https://dev.to/itpathsolutions/a-quick-guide-on-celebrity-look-alike-app-development-in-2022-2d36)
 - [Dev.to/JS] [react arrayMap utils](https://dev.to/yathink3/react-arraymap-utils-32ik)
 - [Dev.to/JS] [Additional JS Prototype Functions](https://dev.to/yathink3/additional-js-prototype-functions-188p)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Mock an API with random data from NodeJS](https://dev.to/grawl/how-to-mock-an-api-with-random-data-from-nodejs-1j91)
 - [Dev.to/JS] [One Pager: The Ultimate Javascript Animation Course](https://dev.to/adriansseur/one-pager-the-ultimate-javascript-animation-course-5dfi)
 - [Dev.to/JS] [Serverless Local Development](https://dev.to/serverless_inc/serverless-local-development-25fl)
-- [Dev.to/JS] [Angular Universal Rest API Endpoints](https://dev.to/jdgamble555/angular-universal-rest-api-endpoints-23fj)
-- [Dev.to/JS] [Node Js Get Total Number of System CPU Cores Tutorial](https://dev.to/sureshramani/node-js-get-total-number-of-system-cpu-cores-tutorial-5g11)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Ways to Make Your Mac’s Dock More Useful](https://lifehacker.com/8-ways-to-make-your-mac-s-dock-more-useful-1848720074)
 - [Lifehacker] [13 Places You Can Legally Stream TV Shows for Free](https://lifehacker.com/13-places-you-can-legally-stream-tv-shows-for-free-1848697629)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
-- [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
-- [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
 ---
 
