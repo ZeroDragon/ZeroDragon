@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [One Pager: The Ultimate Javascript Animation Course](https://dev.to/adriansseur/one-pager-the-ultimate-javascript-animation-course-5dfi)
+- [Dev.to/JS] [Serverless Local Development](https://dev.to/serverless_inc/serverless-local-development-25fl)
 - [Dev.to/JS] [Angular Universal Rest API Endpoints](https://dev.to/jdgamble555/angular-universal-rest-api-endpoints-23fj)
 - [Dev.to/JS] [Node Js Get Total Number of System CPU Cores Tutorial](https://dev.to/sureshramani/node-js-get-total-number-of-system-cpu-cores-tutorial-5g11)
 - [Dev.to/JS] [Introducing: The Gold Programming Language](https://dev.to/colack/introducing-the-gold-programming-language-2d8g)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A down-to-earth explication of the noopener noreferrer attributes](https://dev.to/elisabethleonhardt/a-down-to-earth-explication-of-the-noopener-noreferrer-attributes-92n)
 - [Dev.to/JS] [Building Iterators](https://dev.to/dnafication/building-iterators-1ebb)
 - [Dev.to/JS] [Build a search application with React and Typesense](https://dev.to/itz_salemm/build-a-search-application-with-react-and-typesense-3037)
-- [Dev.to/JS] [My first tech blog](https://dev.to/joki9448/my-first-tech-blog-5bki)
-- [Dev.to/JS] [Build your own NFT Minter on Polygon in less than an hour.](https://dev.to/onecdotin/build-your-own-nft-minter-on-polygon-in-less-than-an-hour-56de)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
