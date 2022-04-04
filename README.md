@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Backend Development](https://dev.to/rakshcodes/backend-development-2f07)
+- [Lifehacker] [How to Build a Fire Pit &lpar;Without Burning Down the Neighborhood&rpar;](https://lifehacker.com/how-to-build-a-fire-pit-without-burning-down-the-neigh-1848735177)
+- [Dev.to/JS] [Future Javascript: Types may finally be coming to Javascript](https://dev.to/smpnjn/types-may-finally-be-coming-to-javascript-56a2)
+- [Dev.to/JS] [Web/Desktop Contacts App Written Once With Doodle](https://dev.to/pusolito/webdesktop-contacts-app-written-once-with-doodle-4id4)
+- [Dev.to/JS] [Awesome JavaScript just discoverd](https://dev.to/dirkecker/awesome-javascript-just-discoverd-3cc)
+- [Dev.to/JS] [Manage your Files with any Cloud Service with just 10 lines of code](https://dev.to/ivanzm123/manage-your-files-with-any-cloud-service-with-just-10-lines-of-code-329c)
+- [Dev.to/JS] [Paracetamol.js💊| #92: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-92-explica-este-codigo-javascript-2h5n)
+- [Lifehacker] [Use This Trick to Get PlayStation Plus Premium for Half the Cost &lpar;Before Sony Fixes It&rpar;](https://lifehacker.com/use-this-trick-to-get-playstation-plus-premium-for-half-1848745246)
 - [Dev.to/JS] [REDFLAGS](https://dev.to/lexis00/redflags-e62)
 - [Dev.to/JS] [Be Careful About Timezones In Backend and Frontend Development](https://dev.to/aqeelzeid/be-careful-about-timezones-in-backend-and-frontend-development-47c6)
 - [Lifehacker] [12 Clever Things You Never Knew WD-40 Could Do](https://lifehacker.com/12-clever-things-you-never-knew-wd-40-could-do-1848698665)
@@ -31,14 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code reviews](https://dev.to/learninglocker/code-reviews-275d)
 - [Lifehacker] [You Really Need to Stop Confessing Your Crimes Online](https://lifehacker.com/you-really-need-to-stop-confessing-your-crimes-online-1848738588)
 - [Dev.to/JS] [Implement an Uptime Monitor Using AWS Lambda, EventBridge, SNS, and SQS.](https://dev.to/nickramkissoon/implement-an-uptime-monitor-using-aws-lambda-eventbridge-sns-and-sqs-3bkg)
-- [Dev.to/JS] [💯 7 Free cool Form Components made in TailwindCSS](https://dev.to/xenoxdev/7-free-cool-form-components-made-in-tailwindcss-2e12)
-- [Dev.to/JS] [Aurous Bot](https://dev.to/arijitthedev/aurous-bot-10hb)
 - [Lifehacker] [What&#39;s That White Stuff on My Cheese?](https://lifehacker.com/whats-that-white-stuff-on-my-cheese-1848739076)
 - [Lifehacker] [How Long Is Too Long to Spend on a Machine at the Gym?](https://lifehacker.com/how-long-is-too-long-to-spend-on-a-machine-at-the-gym-1848713370)
-- [Dev.to/JS] [Chakra-UI Crash Course](https://dev.to/thatanjan/chakra-ui-crash-course-2o2g)
-- [Dev.to/JS] [How to include browser support data &lpar;caniuse&rpar; in your blog posts](https://dev.to/robole/how-to-include-browser-support-data-caniuse-in-your-blog-posts-8bg)
-- [Dev.to/JS] [Art of debugging](https://dev.to/varenya/art-of-debugging-17gg)
-- [Dev.to/JS] [Android - Multiple Draggable objects in Jetpack Compose](https://dev.to/canopassoftware/android-multiple-draggable-objects-in-jetpack-compose-1a3j)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Does It Take to Become a Personal Trainer &lpar;and Is It Worth It&rpar;?](https://lifehacker.com/what-does-it-take-to-become-a-personal-trainer-and-is-1848705391)
 - [Lifehacker] [You Should Update Your Apple Devices Right Now](https://lifehacker.com/you-should-update-your-apple-devices-right-now-1848737318)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Meme-ing the Oscars Slap](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848735332)
-- [Lifehacker] [15 Essential Bruce Willis Performances &lpar;and Where to Stream Them&rpar;](https://lifehacker.com/15-essential-bruce-willis-performances-and-where-to-st-1848731877)
-- [Lifehacker] [Don&#39;t Waste Money Buying Brand Names for These Products](https://lifehacker.com/dont-waste-money-buying-brand-names-for-these-products-1848731900)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
