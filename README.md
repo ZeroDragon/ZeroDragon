@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Currencylayer API?](https://dev.to/currencylayer/what-is-currencylayer-api-3p34)
+- [Dev.to/JS] [Introducción a JS](https://dev.to/amargopastor/introduccion-a-js-5bl7)
+- [Dev.to/JS] [Qu’est-ce qu’un ORM ?](https://dev.to/honorablecon/quest-ce-quun-orm--1fne)
 - [Dev.to/JS] [RxJS Declarative Pattern in Angular](https://dev.to/this-is-angular/rxjs-declarative-pattern-in-angular-4ih6)
 - [Dev.to/JS] [Check yo&#39; project structure before you wreck yo&#39; project structure](https://dev.to/bornfightcompany/check-yo-project-structure-before-you-wreck-yo-project-structure-3egp)
 - [Dev.to/JS] [Top 3 JavaScript tips I wish someone had told me](https://dev.to/freebeliever/top-3-javascript-tips-i-wish-someone-had-told-me-1643)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Dev.to/JS] [Node.js Nedir ?](https://dev.to/berkanyldrim/nodejs-nedir--3pp1)
 - [Dev.to/JS] [A Quick Guide On Celebrity Look Alike App Development in 2022](https://dev.to/itpathsolutions/a-quick-guide-on-celebrity-look-alike-app-development-in-2022-2d36)
-- [Dev.to/JS] [react arrayMap utils](https://dev.to/yathink3/react-arraymap-utils-32ik)
-- [Dev.to/JS] [Additional JS Prototype Functions](https://dev.to/yathink3/additional-js-prototype-functions-188p)
-- [Dev.to/JS] [Making environment based apks for a react native application for android](https://dev.to/jazibjafri/making-environment-based-apks-for-a-react-native-application-for-android-4kdc)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
