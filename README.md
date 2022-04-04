@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Quick Guide On Celebrity Look Alike App Development in 2022](https://dev.to/itpathsolutions/a-quick-guide-on-celebrity-look-alike-app-development-in-2022-2d36)
+- [Dev.to/JS] [react arrayMap utils](https://dev.to/yathink3/react-arraymap-utils-32ik)
+- [Dev.to/JS] [Additional JS Prototype Functions](https://dev.to/yathink3/additional-js-prototype-functions-188p)
 - [Dev.to/JS] [Making environment based apks for a react native application for android](https://dev.to/jazibjafri/making-environment-based-apks-for-a-react-native-application-for-android-4kdc)
 - [Dev.to/JS] [Complete Guide For Tourist visas, the General Requirements and the Standard Application Process](https://dev.to/monikaraina414/complete-guide-for-tourist-visas-the-general-requirements-and-the-standard-application-process-204c)
 - [Dev.to/JS] [Create navigation screens in expo project 🧑‍💻](https://dev.to/tejendrasrajawat/create-navigation-screens-in-expo-project-33d1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Serverless Local Development](https://dev.to/serverless_inc/serverless-local-development-25fl)
 - [Dev.to/JS] [Angular Universal Rest API Endpoints](https://dev.to/jdgamble555/angular-universal-rest-api-endpoints-23fj)
 - [Dev.to/JS] [Node Js Get Total Number of System CPU Cores Tutorial](https://dev.to/sureshramani/node-js-get-total-number-of-system-cpu-cores-tutorial-5g11)
-- [Dev.to/JS] [Introducing: The Gold Programming Language](https://dev.to/colack/introducing-the-gold-programming-language-2d8g)
-- [Dev.to/JS] [Project showcase: Learnfluent](https://dev.to/fig781/project-showcase-learnfluent-2lf6)
-- [Dev.to/JS] [no-framework, front-end moderno sem framework](https://dev.to/joao_neto/no-framework-front-end-moderno-sem-framework-3773)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
