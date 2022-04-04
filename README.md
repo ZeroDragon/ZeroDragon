@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
+- [Dev.to/JS] [Render, Remix, and Strapi: Let&#39;s Build a Productivity Tips App](https://dev.to/render/render-remix-and-strapi-lets-build-a-productivity-tips-app-2i3m)
+- [Dev.to/JS] [Deploying your Next.js Application](https://dev.to/anuraggharat/deploying-your-nextjs-application-2nl0)
+- [Dev.to/JS] [Bhailang: The viral Gen-Z programming language](https://dev.to/aniket762/bhailang-the-viral-gen-z-programming-language-39dn)
+- [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
+- [Dev.to/JS] [Ng-News: Issue 22/13](https://dev.to/rainerhahnekamp/ng-news-issue-2213-252c)
 - [Dev.to/JS] [Day-58 Training At Ryaz](https://dev.to/mahin651/day-58-training-at-ryaz-246d)
 - [Lifehacker] [Lies the Police Can Legally Tell You &lpar;and How to Respond&rpar;](https://lifehacker.com/lies-the-police-can-legally-tell-you-and-how-to-respon-1848746966)
 - [Dev.to/JS] [Grow your server by building these 5 Discord bots](https://dev.to/janeth/grow-your-server-by-building-these-5-discord-bots-3672)
@@ -35,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make a URL Shortener with SvelteKit](https://dev.to/spences10/make-a-url-shortener-with-sveltekit-46c0)
 - [Dev.to/JS] [Will leaving my job for mental health reasons ruin my professional reputation?](https://dev.to/johnwoody/will-leaving-my-job-for-mental-health-reasons-ruin-my-professional-reputation-47m9)
 - [Dev.to/JS] [A Three.js 3D world with Character + Movements + Third Person Camera](https://dev.to/louis3797/a-threejs-3d-world-with-character-movements-third-person-camera-325g)
-- [Dev.to/JS] [Each Logic in Svelte](https://dev.to/smpnjn/each-logic-in-svelte-5gm4)
 - [Lifehacker] [How to Recognize Your Partner&#39;s &#39;Bids for Connection&#39; and Maybe Save Your Relationship](https://lifehacker.com/how-to-recognize-your-partners-bids-for-connection-and-1848740174)
 - [Lifehacker] [11 Soothing Games That Will Restore Your Soul After &#39;Elden Ring&#39;](https://lifehacker.com/11-soothing-games-that-will-restore-your-soul-after-eld-1848693384)
-- [Dev.to/JS] [The Ladatto Code](https://dev.to/dawnteigh/the-ladatto-code-26d6)
-- [Dev.to/JS] [How to perfectly use Deepgram in React-JS?](https://dev.to/jacksonkasi/how-to-perfectly-use-deepgram-in-react-js-1cef)
-- [Dev.to/JS] [Comparing time based operators in RxJS: debounce, throttle, sample, and audit](https://dev.to/tevpro/comparing-time-based-operators-in-rxjs-debounce-throttle-sample-and-audit-b2j)
 - [Lifehacker] [Throw Out These Recalled Disney Hand Sanitizers, FDA Says](https://lifehacker.com/throw-out-these-recalled-disney-hand-sanitizers-fda-sa-1848745088)
 - [Lifehacker] [How to Build a Fire Pit &lpar;Without Burning Down the Neighborhood&rpar;](https://lifehacker.com/how-to-build-a-fire-pit-without-burning-down-the-neigh-1848735177)
 - [Lifehacker] [Use This Trick to Get PlayStation Plus Premium for Half the Cost &lpar;Before Sony Fixes It&rpar;](https://lifehacker.com/use-this-trick-to-get-playstation-plus-premium-for-half-1848745246)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
 - [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
 - [Lifehacker] [How to Discreetly Obtain Birth Control](https://lifehacker.com/how-to-discreetly-obtain-birth-control-1848732196)
-- [Lifehacker] [How to Work a Stretching Session Into Your Day](https://lifehacker.com/how-to-work-a-stretching-session-into-your-day-1848738048)
-- [Lifehacker] [How to Tell If You’re Chatting with a Bot](https://lifehacker.com/how-to-tell-if-you-re-chatting-with-a-bot-1848733021)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
