@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When to use keyExtractor prop in React Native&#39;s FlatList](https://dev.to/amanhimself/when-to-use-keyextractor-prop-in-react-natives-flatlist-489l)
+- [Dev.to/JS] [2022 – ES6 Interview Questions and Answers](https://dev.to/priteshbhoi/2022-es6-interview-questions-and-answers-ap3)
+- [Dev.to/JS] [Manage your GitHub Starred Repositories](https://dev.to/mtwn105/manage-your-github-starred-repositories-16po)
+- [Dev.to/JS] [Gold-Language - Version 1.02; Out Now!](https://dev.to/colack/gold-language-version-102-out-now-igp)
 - [Dev.to/JS] [My First Project and a Dive Into Dark Mode](https://dev.to/trevortx/first-project-worldwide-weather-4dno)
 - [Dev.to/JS] [Why computer floating points are inaccurate](https://dev.to/juanpireslima/why-computer-floating-points-are-inaccurate-3281)
 - [Dev.to/JS] [Refresh Gatsby Content Without Restarting Development Server](https://dev.to/gregorygaines/refresh-gatsby-content-without-restarting-development-server-3h7)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Listified Tokens, or Somebody&#39;s JavaScript Homework](https://dev.to/365erik/listified-tokens-or-somebodys-javascript-homework-4heo)
 - [Dev.to/JS] [Using Javascript to fix Wordpress annoyances in a wordpress-y way](https://dev.to/hariseldon27/using-javascript-to-fix-wordpress-annoyances-in-a-wordpress-y-way-4ijl)
 - [Dev.to/JS] [useEffect vs useLayoutEffect: the difference and when to use them](https://dev.to/emmanuelthecoder/useeffect-vs-uselayouteffect-the-difference-and-when-to-use-them-124c)
-- [Dev.to/JS] [TypeScript Tip: Using Conditional Types To Refactor Overloads.](https://dev.to/andersonjoseph/typescript-tip-using-conditional-types-to-refactor-overloads-3e60)
-- [Dev.to/JS] [Day 5](https://dev.to/brixmavu/day-5-3cf6)
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
-- [Dev.to/JS] [Come creare in Angular una direttiva per dichiarare variabili nei template HTML dei componenti](https://dev.to/nigrosimone/come-creare-in-angular-una-direttiva-per-dichiarare-variabili-nei-template-html-dei-componenti-62a)
-- [Dev.to/JS] [How To Run Both Your Backend And Your Client Server With One Command.](https://dev.to/joevega/how-to-run-both-your-backend-and-your-client-server-with-one-command-35ik)
 - [Lifehacker] [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
 - [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
 - [Lifehacker] [Lies the Police Can Legally Tell You &lpar;and How to Respond&rpar;](https://lifehacker.com/lies-the-police-can-legally-tell-you-and-how-to-respon-1848746966)
