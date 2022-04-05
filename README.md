@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
+- [Dev.to/JS] [You don&#39;t need... JavaScript to do tabs](https://dev.to/jonosellier/you-dont-need-javascript-to-do-tabs-5g3b)
+- [Dev.to/JS] [official.auction](https://dev.to/officialdotauction/officialauction-1j6n)
+- [Dev.to/JS] [How mental health affects the ability to create](https://dev.to/spoder/how-mental-health-affects-the-ability-to-create-58i0)
+- [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
+- [Dev.to/JS] [I created a library for mobile developers who cares about color.](https://dev.to/juniorklawa/i-created-a-library-for-mobile-developers-who-cares-about-color-1gdp)
+- [Dev.to/JS] [Setup Detox em aplicações React Native](https://dev.to/devborges/setup-detox-em-aplicacoes-react-native-7mk)
+- [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
 - [Dev.to/JS] [Quickly evaluate Azure, serverless hosting and IoT](https://dev.to/richkurtzman/quickly-evaluate-azure-serverless-hosting-and-iot-3kjl)
 - [Dev.to/JS] [Synchronized immutable state with time travel](https://dev.to/oleg008/synchronized-immutable-state-with-time-travel-2c6o)
 - [Lifehacker] [Everything You Need to Game on a Mac](https://lifehacker.com/everything-you-need-to-game-on-a-mac-1848752691)
@@ -33,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Simple Ways to Make a Small Room Look Bigger](https://lifehacker.com/10-simple-ways-to-make-a-small-room-look-bigger-1848751494)
 - [Dev.to/JS] [How to Create an E-commerce Product Catalog in NextJS](https://dev.to/hackmamba/how-to-create-an-e-commerce-product-catalog-in-nextjs-4bo)
 - [Dev.to/JS] [React, Vue and Svelte: Comparing Text Input Binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-text-input-binding-2lcc)
-- [Dev.to/JS] [Payment Ui Using Html Sass and JavaScript](https://dev.to/deepakydv9315/payment-ui-using-html-sass-and-javascript-1lla)
-- [Dev.to/JS] [Building a Nested Comment App like Reddit](https://dev.to/vigneshiyergithub/building-a-nested-comment-example-like-reddit-1o92)
 - [Lifehacker] [Smoke an Easter Lamb Shoulder on a Charcoal Grill](https://lifehacker.com/smoke-an-easter-lamb-shoulder-on-a-charcoal-grill-1848747851)
-- [Dev.to/JS] [How BEM works in building large applications with custom CSS.](https://dev.to/hackmamba/how-bem-works-in-building-large-applications-with-custom-css-3cmh)
-- [Dev.to/JS] [Day-59 Training At Ryaz](https://dev.to/mahin651/day-59-training-at-ryaz-1gb6)
 - [Lifehacker] [8 of the Worst Food Allergies &lpar;and Which Ones You Might Not Have to Live With&rpar;](https://lifehacker.com/8-of-the-worst-food-allergies-and-which-ones-you-might-1848751471)
-- [Dev.to/JS] [Add autocomplete search to your Strapi blog](https://dev.to/algolia/add-autocomplete-search-to-your-strapi-blog-263h)
 - [Lifehacker] [5 Brilliant Ways to Clean Your House With Dishwasher Tablets](https://lifehacker.com/5-brilliant-ways-to-clean-your-house-with-dishwasher-ta-1848751584)
 - [Lifehacker] [How to Minimize Your Wedding Guest List &lpar;and Tell Someone They Didn&#39;t Make the Cut&rpar;](https://lifehacker.com/how-to-minimize-your-wedding-guest-list-and-tell-someo-1848751053)
 - [Lifehacker] [17 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/17-of-the-best-tv-shows-you-can-binge-in-one-day-1848715528)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recognize Your Partner&#39;s &#39;Bids for Connection&#39; and Maybe Save Your Relationship](https://lifehacker.com/how-to-recognize-your-partners-bids-for-connection-and-1848740174)
 - [Lifehacker] [11 Soothing Games That Will Restore Your Soul After &#39;Elden Ring&#39;](https://lifehacker.com/11-soothing-games-that-will-restore-your-soul-after-eld-1848693384)
 - [Lifehacker] [Throw Out These Recalled Disney Hand Sanitizers, FDA Says](https://lifehacker.com/throw-out-these-recalled-disney-hand-sanitizers-fda-sa-1848745088)
-- [Lifehacker] [How to Build a Fire Pit &lpar;Without Burning Down the Neighborhood&rpar;](https://lifehacker.com/how-to-build-a-fire-pit-without-burning-down-the-neigh-1848735177)
-- [Lifehacker] [Use This Trick to Get PlayStation Plus Premium for Half the Cost &lpar;Before Sony Fixes It&rpar;](https://lifehacker.com/use-this-trick-to-get-playstation-plus-premium-for-half-1848745246)
-- [Lifehacker] [12 Clever Things You Never Knew WD-40 Could Do](https://lifehacker.com/12-clever-things-you-never-knew-wd-40-could-do-1848698665)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
