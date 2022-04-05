@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Minimize Your Wedding Guest List &lpar;and Tell Someone They Didn&#39;t Make the Cut&rpar;](https://lifehacker.com/how-to-minimize-your-wedding-guest-list-and-tell-someo-1848751053)
+- [Dev.to/JS] [Headless Testing In Selenium | Selenium WebDriver With JavaScript Tutorial | Part VIII](https://dev.to/lambdatest/headless-testing-in-selenium-selenium-webdriver-with-javascript-tutorial-part-viii-f71)
+- [Lifehacker] [17 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/17-of-the-best-tv-shows-you-can-binge-in-one-day-1848715528)
 - [Dev.to/JS] [Problem solving Patterns](https://dev.to/clouded_knight/problem-solving-patterns-2iib)
 - [Dev.to/JS] [Capturing Your User&#39;s Requests and Responses to Find Problems with your Application](https://dev.to/asayerio_techblog/capturing-your-users-requests-and-responses-to-find-problems-with-your-application-220i)
 - [Dev.to/JS] [Programmatic Animation Control | Introducing SVGator’s Player JS API &lpar;Link to LIVE Demo&rpar;](https://dev.to/svgatorapp/programmatic-animation-control-introducing-svgators-player-js-api-link-to-live-demo-1bcl)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Weird Hidden iPhone Gestures You Probably Never Knew Existed](https://lifehacker.com/weird-hidden-iphone-gestures-you-probably-never-knew-ex-1848749693)
 - [Dev.to/JS] [&#39;Uncaught ReferenceError: y is not defined&#39;: how to solve this production Mapbox error](https://dev.to/emmanuelthecoder/uncaught-referenceerror-y-is-not-defined-how-to-solve-this-production-mapbox-error-5e70)
 - [Dev.to/JS] [How to Build a Random Color Flipper with Vallina Javascript](https://dev.to/timonwa/how-to-build-a-random-color-flipper-with-vallina-javascript-5h4g)
-- [Dev.to/JS] [Geocoding Against Custom Geography with Geocod.io &amp; Turf.js](https://dev.to/adamkatora/geocoding-against-custom-geography-with-geocodio-turfjs-54o3)
 - [Lifehacker] [10 Sociological Studies That Prove Humans Are the Worst &lpar;and How We Can Be Better&rpar;](https://lifehacker.com/10-sociological-studies-that-prove-humans-are-the-worst-1848747515)
 - [Lifehacker] [8 Unconventional Ways to Save Storage Space on Windows](https://lifehacker.com/8-unconventional-ways-to-save-storage-space-on-windows-1848702210)
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
-- [Lifehacker] [The Smartest Ways to Watch Your Car&#39;s Blind Spots](https://lifehacker.com/the-smartest-ways-to-watch-your-cars-blind-spots-1848740999)
-- [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
