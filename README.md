@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [tsParticles 1.43.0 Released](https://dev.to/matteobruni/tsparticles-1430-released-1ek0)
+- [Dev.to/JS] [Build a Social Media Timeline with Amplify Studio](https://dev.to/aspittel/build-a-social-media-timeline-with-amplify-studio-2lof)
+- [Dev.to/JS] [Open Source Adventures: Episode 29: Using D3 with old school tooling to visualize Russian Tank Losses](https://dev.to/taw/open-source-adventures-episode-29-using-d3-with-old-school-tooling-to-visualize-russian-tank-losses-2g72)
+- [Lifehacker] [5 Brilliant Ways to Clean Your House With Dishwasher Tablets](https://lifehacker.com/5-brilliant-ways-to-clean-your-house-with-dishwasher-ta-1848751584)
+- [Dev.to/JS] [What&#39;s New in JavaScript Charting?](https://dev.to/jscharting/whats-new-in-javascript-charting-2ldl)
+- [Dev.to/JS] [Beam your Svelte internationalization up to a new level](https://dev.to/adrai/beam-your-svelte-internationalization-up-to-a-new-level-1p7)
 - [Lifehacker] [How to Minimize Your Wedding Guest List &lpar;and Tell Someone They Didn&#39;t Make the Cut&rpar;](https://lifehacker.com/how-to-minimize-your-wedding-guest-list-and-tell-someo-1848751053)
 - [Dev.to/JS] [Headless Testing In Selenium | Selenium WebDriver With JavaScript Tutorial | Part VIII](https://dev.to/lambdatest/headless-testing-in-selenium-selenium-webdriver-with-javascript-tutorial-part-viii-f71)
 - [Lifehacker] [17 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/17-of-the-best-tv-shows-you-can-binge-in-one-day-1848715528)
@@ -33,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Update Your Pixel Devices Right Now](https://lifehacker.com/you-need-to-update-your-pixel-devices-right-now-1848750611)
 - [Dev.to/JS] [The Power of Proxy Pattern in JavScript](https://dev.to/jsmanifest/the-power-of-proxy-pattern-in-javscript-6fp)
 - [Dev.to/JS] [How to get a particular word from a long string in Javascript](https://dev.to/emmanuelthecoder/how-to-get-a-particular-word-from-a-long-string-in-javascript-c19)
-- [Dev.to/JS] [Paracetamol.js💊| #93: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-93-explica-este-codigo-javascript-270p)
-- [Dev.to/JS] [Practice Spelling Bees with Spelling Hero](https://dev.to/deepgram/practice-spelling-bees-with-spelling-hero-2fcb)
-- [Dev.to/JS] [Lightning fast search widget with Afosto Instant Search](https://dev.to/afosto/lightning-fast-search-widget-with-afosto-instant-search-17l7)
 - [Lifehacker] [Weird Hidden iPhone Gestures You Probably Never Knew Existed](https://lifehacker.com/weird-hidden-iphone-gestures-you-probably-never-knew-ex-1848749693)
-- [Dev.to/JS] [&#39;Uncaught ReferenceError: y is not defined&#39;: how to solve this production Mapbox error](https://dev.to/emmanuelthecoder/uncaught-referenceerror-y-is-not-defined-how-to-solve-this-production-mapbox-error-5e70)
-- [Dev.to/JS] [How to Build a Random Color Flipper with Vallina Javascript](https://dev.to/timonwa/how-to-build-a-random-color-flipper-with-vallina-javascript-5h4g)
 - [Lifehacker] [10 Sociological Studies That Prove Humans Are the Worst &lpar;and How We Can Be Better&rpar;](https://lifehacker.com/10-sociological-studies-that-prove-humans-are-the-worst-1848747515)
 - [Lifehacker] [8 Unconventional Ways to Save Storage Space on Windows](https://lifehacker.com/8-unconventional-ways-to-save-storage-space-on-windows-1848702210)
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
-- [Lifehacker] [You Need to Spring Clean Your Car&#39;s Exterior Too](https://lifehacker.com/you-need-to-spring-clean-your-cars-exterior-too-1848742886)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
