@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why computer floating points are inaccurate](https://dev.to/juanpireslima/why-computer-floating-points-are-inaccurate-3281)
+- [Dev.to/JS] [Refresh Gatsby Content Without Restarting Development Server](https://dev.to/gregorygaines/refresh-gatsby-content-without-restarting-development-server-3h7)
+- [Dev.to/JS] [Understanding referential equality in React&#39;s useEffect](https://dev.to/vicnovais/understanding-referential-equality-in-reacts-useeffect-2m7o)
 - [Dev.to/JS] [How to add claps to your blog](https://dev.to/perkinsjr/how-to-add-claps-to-your-blog-34ii)
 - [Dev.to/JS] [Listified Tokens, or Somebody&#39;s JavaScript Homework](https://dev.to/365erik/listified-tokens-or-somebodys-javascript-homework-4heo)
 - [Dev.to/JS] [Using Javascript to fix Wordpress annoyances in a wordpress-y way](https://dev.to/hariseldon27/using-javascript-to-fix-wordpress-annoyances-in-a-wordpress-y-way-4ijl)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Run Both Your Backend And Your Client Server With One Command.](https://dev.to/joevega/how-to-run-both-your-backend-and-your-client-server-with-one-command-35ik)
 - [Lifehacker] [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
 - [Dev.to/JS] [Render, Remix, and Strapi: Let&#39;s Build a Productivity Tips App](https://dev.to/render/render-remix-and-strapi-lets-build-a-productivity-tips-app-2i3m)
-- [Dev.to/JS] [Deploying your Next.js Application](https://dev.to/anuraggharat/deploying-your-nextjs-application-2nl0)
-- [Dev.to/JS] [Bhailang: The viral Gen-Z programming language](https://dev.to/aniket762/bhailang-the-viral-gen-z-programming-language-39dn)
 - [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
-- [Dev.to/JS] [Ng-News: Issue 22/13](https://dev.to/rainerhahnekamp/ng-news-issue-2213-252c)
 - [Lifehacker] [Lies the Police Can Legally Tell You &lpar;and How to Respond&rpar;](https://lifehacker.com/lies-the-police-can-legally-tell-you-and-how-to-respon-1848746966)
 - [Lifehacker] [How to Clean Your Filthy Pastry Brush](https://lifehacker.com/how-to-clean-your-filthy-pastry-brush-1848746868)
 - [Lifehacker] [How to Make Edibles Taste Less &lpar;or More&rpar; Like Weed](https://lifehacker.com/how-to-make-edibles-taste-less-or-more-like-weed-1848746861)
