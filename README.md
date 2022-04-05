@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Sociological Studies That Prove Humans Are the Worst &lpar;and How We Can Be Better&rpar;](https://lifehacker.com/10-sociological-studies-that-prove-humans-are-the-worst-1848747515)
+- [Lifehacker] [8 Unconventional Ways to Save Storage Space on Windows](https://lifehacker.com/8-unconventional-ways-to-save-storage-space-on-windows-1848702210)
+- [Dev.to/JS] [JavaScript Enthusiast &amp; Technical Author David Walsh Interview](https://dev.to/evrone/javascript-enthusiast-technical-author-david-walsh-interview-5a8n)
+- [Dev.to/JS] [Code Smell 127 - Mutable Constants](https://dev.to/mcsee/code-smell-127-mutable-constants-26dj)
+- [Dev.to/JS] [My first app on google play store](https://dev.to/lucapu88/my-first-app-on-google-play-store-561a)
 - [Dev.to/JS] [Created a vertical timeline component 😃](https://dev.to/k_penguin_sato/created-a-vertical-timeline-component-18oe)
 - [Dev.to/JS] [Web3 with Svelte and Moralis](https://dev.to/fabiogiolito/web3-with-svelte-and-moralis-4kke)
 - [Dev.to/JS] [What Is Google Maps API?](https://dev.to/zenscrape/what-is-google-maps-api-478e)
@@ -32,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using reduce&lpar;&rpar; on an array of objects](https://dev.to/thejourneyville/using-reduce-on-an-array-of-objects-30nl)
 - [Dev.to/JS] [How to become a self-taught Computer Programmer: A Comprehensive guide, 2022](https://dev.to/devaspires/how-to-become-a-self-taught-computer-programmer-a-comprehensive-guide-2022-417n)
 - [Dev.to/JS] [Keto Tone - Keto Tone Pills, Price, Shark Tank Scam Or Ingredients?](https://dev.to/ketotonepills/keto-tone-keto-tone-pills-price-shark-tank-scam-or-ingredients-3bp4)
-- [Dev.to/JS] [Why are the marker positions not behaving correctly on map?](https://dev.to/weyardwiz/why-are-the-marker-positions-not-behaving-correctly-on-map-2pho)
-- [Dev.to/JS] [When to use keyExtractor prop in React Native&#39;s FlatList](https://dev.to/amanhimself/when-to-use-keyextractor-prop-in-react-natives-flatlist-489l)
-- [Dev.to/JS] [2022 – ES6 Interview Questions and Answers](https://dev.to/priteshbhoi/2022-es6-interview-questions-and-answers-ap3)
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
 - [Lifehacker] [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
 - [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean That White Residue From Your Terracotta Pots](https://lifehacker.com/how-to-clean-that-white-residue-from-your-terracotta-po-1848740993)
 - [Lifehacker] [The Worst U.S. Cities to Live in for People With Seasonal Allergies](https://lifehacker.com/the-worst-u-s-cities-to-live-in-for-people-with-season-1848737949)
 - [Lifehacker] [How to Enable Universal Control on Your iPad and Mac](https://lifehacker.com/how-to-enable-universal-control-on-your-iphone-and-mac-1848739276)
-- [Lifehacker] [How I Accidentally Cured My Fear of Flying With a Video Game](https://lifehacker.com/how-i-accidentally-cured-my-fear-of-flying-with-a-video-1848739344)
-- [Lifehacker] [Why You Should Be Refrigerating Your Muffin Batter Overnight](https://lifehacker.com/why-you-should-be-refrigerating-your-muffin-batter-over-1848737035)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
