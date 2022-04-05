@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How BEM works in building large applications with custom CSS.](https://dev.to/hackmamba/how-bem-works-in-building-large-applications-with-custom-css-3cmh)
+- [Dev.to/JS] [Day-59 Training At Ryaz](https://dev.to/mahin651/day-59-training-at-ryaz-1gb6)
+- [Lifehacker] [8 of the Worst Food Allergies &lpar;and Which Ones You Might Not Have to Live With&rpar;](https://lifehacker.com/8-of-the-worst-food-allergies-and-which-ones-you-might-1848751471)
+- [Dev.to/JS] [Add autocomplete search to your Strapi blog](https://dev.to/algolia/add-autocomplete-search-to-your-strapi-blog-263h)
+- [Dev.to/JS] [Sobre motivação, início e constância.](https://dev.to/carvalhodanielg/sobre-motivacao-inicio-e-constancia-30hj)
+- [Dev.to/JS] [How To Find Element By Text In Selenium WebDriver](https://dev.to/lambdatest/how-to-find-element-by-text-in-selenium-webdriver-1l58)
+- [Dev.to/JS] [Scheduled Cron Jobs with Render](https://dev.to/alvinslee/scheduled-cron-jobs-with-render-f0l)
 - [Dev.to/JS] [tsParticles 1.43.0 Released](https://dev.to/matteobruni/tsparticles-1430-released-1ek0)
 - [Dev.to/JS] [Build a Social Media Timeline with Amplify Studio](https://dev.to/aspittel/build-a-social-media-timeline-with-amplify-studio-2lof)
 - [Dev.to/JS] [Open Source Adventures: Episode 29: Using D3 with old school tooling to visualize Russian Tank Losses](https://dev.to/taw/open-source-adventures-episode-29-using-d3-with-old-school-tooling-to-visualize-russian-tank-losses-2g72)
@@ -32,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Minimize Your Wedding Guest List &lpar;and Tell Someone They Didn&#39;t Make the Cut&rpar;](https://lifehacker.com/how-to-minimize-your-wedding-guest-list-and-tell-someo-1848751053)
 - [Dev.to/JS] [Headless Testing In Selenium | Selenium WebDriver With JavaScript Tutorial | Part VIII](https://dev.to/lambdatest/headless-testing-in-selenium-selenium-webdriver-with-javascript-tutorial-part-viii-f71)
 - [Lifehacker] [17 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/17-of-the-best-tv-shows-you-can-binge-in-one-day-1848715528)
-- [Dev.to/JS] [Problem solving Patterns](https://dev.to/clouded_knight/problem-solving-patterns-2iib)
-- [Dev.to/JS] [Capturing Your User&#39;s Requests and Responses to Find Problems with your Application](https://dev.to/asayerio_techblog/capturing-your-users-requests-and-responses-to-find-problems-with-your-application-220i)
-- [Dev.to/JS] [Programmatic Animation Control | Introducing SVGator’s Player JS API &lpar;Link to LIVE Demo&rpar;](https://dev.to/svgatorapp/programmatic-animation-control-introducing-svgators-player-js-api-link-to-live-demo-1bcl)
-- [Dev.to/JS] [Agence web Suisse Romande](https://dev.to/euro_tech_conseil_france/agence-web-suisse-romande-1ggi)
 - [Lifehacker] [You Need to Update Your Pixel Devices Right Now](https://lifehacker.com/you-need-to-update-your-pixel-devices-right-now-1848750611)
-- [Dev.to/JS] [The Power of Proxy Pattern in JavScript](https://dev.to/jsmanifest/the-power-of-proxy-pattern-in-javscript-6fp)
-- [Dev.to/JS] [How to get a particular word from a long string in Javascript](https://dev.to/emmanuelthecoder/how-to-get-a-particular-word-from-a-long-string-in-javascript-c19)
 - [Lifehacker] [Weird Hidden iPhone Gestures You Probably Never Knew Existed](https://lifehacker.com/weird-hidden-iphone-gestures-you-probably-never-knew-ex-1848749693)
 - [Lifehacker] [10 Sociological Studies That Prove Humans Are the Worst &lpar;and How We Can Be Better&rpar;](https://lifehacker.com/10-sociological-studies-that-prove-humans-are-the-worst-1848747515)
 - [Lifehacker] [8 Unconventional Ways to Save Storage Space on Windows](https://lifehacker.com/8-unconventional-ways-to-save-storage-space-on-windows-1848702210)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Long Is Too Long to Spend on a Machine at the Gym?](https://lifehacker.com/how-long-is-too-long-to-spend-on-a-machine-at-the-gym-1848713370)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
-- [Lifehacker] [Avoid These Plants the Same Way You Would Poison Ivy](https://lifehacker.com/avoid-these-plants-the-same-way-you-would-poison-ivy-1848742889)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
