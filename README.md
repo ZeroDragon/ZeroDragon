@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lightning fast search widget with Afosto Instant Search](https://dev.to/gijsbotje/lightning-fast-search-widget-with-afosto-instant-search-17l7)
+- [Dev.to/JS] [How to Build a Random Color Flipper with Vallina Javascript](https://dev.to/timonwa/how-to-build-a-random-color-flipper-with-vallina-javascript-5h4g)
+- [Dev.to/JS] [Geocoding Against Custom Geography with Geocod.io &amp; Turf.js](https://dev.to/adamkatora/geocoding-against-custom-geography-with-geocodio-turfjs-54o3)
+- [Dev.to/JS] [How to Handle Reactivity in Svelte](https://dev.to/smpnjn/how-to-handle-reactivity-in-svelte-1p5k)
+- [Dev.to/JS] [How the alias Command works on Linux](https://dev.to/smpnjn/how-the-alias-command-works-on-linux-19f)
 - [Lifehacker] [10 Sociological Studies That Prove Humans Are the Worst &lpar;and How We Can Be Better&rpar;](https://lifehacker.com/10-sociological-studies-that-prove-humans-are-the-worst-1848747515)
 - [Lifehacker] [8 Unconventional Ways to Save Storage Space on Windows](https://lifehacker.com/8-unconventional-ways-to-save-storage-space-on-windows-1848702210)
 - [Dev.to/JS] [JavaScript Enthusiast &amp; Technical Author David Walsh Interview](https://dev.to/evrone/javascript-enthusiast-technical-author-david-walsh-interview-5a8n)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Created a vertical timeline component 😃](https://dev.to/k_penguin_sato/created-a-vertical-timeline-component-18oe)
 - [Dev.to/JS] [Web3 with Svelte and Moralis](https://dev.to/fabiogiolito/web3-with-svelte-and-moralis-4kke)
 - [Dev.to/JS] [What Is Google Maps API?](https://dev.to/zenscrape/what-is-google-maps-api-478e)
-- [Dev.to/JS] [Nutra Optimum Keto Boost Reviews Watch Shark Tank Episode Scam Facts?](https://dev.to/nutraoptimumketoboost/nutra-optimum-keto-boost-reviews-watch-shark-tank-episode-scam-facts-3fl7)
 - [Dev.to/JS] [Optional Chaining in JavaScript](https://dev.to/murtuzaalisurti/optional-chaining-in-javascript-e05)
-- [Dev.to/JS] [Best YouTube pages for learn frontend](https://dev.to/kavehsabouri/best-youtube-pages-for-learn-frontend-lml)
-- [Dev.to/JS] [Using reduce&lpar;&rpar; on an array of objects](https://dev.to/thejourneyville/using-reduce-on-an-array-of-objects-30nl)
-- [Dev.to/JS] [How to become a self-taught Computer Programmer: A Comprehensive guide, 2022](https://dev.to/devaspires/how-to-become-a-self-taught-computer-programmer-a-comprehensive-guide-2022-417n)
-- [Dev.to/JS] [Keto Tone - Keto Tone Pills, Price, Shark Tank Scam Or Ingredients?](https://dev.to/ketotonepills/keto-tone-keto-tone-pills-price-shark-tank-scam-or-ingredients-3bp4)
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
 - [Lifehacker] [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
 - [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
