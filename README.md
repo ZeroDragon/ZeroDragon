@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How NOT to optimize your website](https://dev.to/eyeamkd/how-not-to-optimize-your-website-5h2g)
+- [Dev.to/JS] [6 Ways To Create An Object In JavaScript](https://dev.to/cscarpitta/8-ways-to-create-an-object-in-javascript-2h38)
+- [Dev.to/JS] [React Self Assessment](https://dev.to/gregpetropoulos/react-self-assessment-2lh5)
+- [Dev.to/JS] [Open Source Adventures: Episode 30: Using D3 and Parcel to visualize Russian Tank Losses](https://dev.to/taw/open-source-adventures-episode-30-using-d3-and-parcel-to-visualize-russian-tank-losses-3gn5)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Dev.to/JS] [You don&#39;t need... JavaScript to do tabs](https://dev.to/jonosellier/you-dont-need-javascript-to-do-tabs-5g3b)
 - [Dev.to/JS] [official.auction](https://dev.to/officialdotauction/officialauction-1j6n)
@@ -35,12 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Synchronized immutable state with time travel](https://dev.to/oleg008/synchronized-immutable-state-with-time-travel-2c6o)
 - [Lifehacker] [Everything You Need to Game on a Mac](https://lifehacker.com/everything-you-need-to-game-on-a-mac-1848752691)
 - [Dev.to/JS] [💿 Form mass submit &amp; Remix](https://dev.to/iamandrewluca/form-mass-submit-remix-ai0)
-- [Dev.to/JS] [JavaScript Array Methods - Shift, Unshift, Push and Pop](https://dev.to/justtanwa/javascript-array-methods-shift-unshift-push-and-pop-1fgi)
 - [Lifehacker] [When to See April&#39;s Full Pink Moon at Peak Brilliance](https://lifehacker.com/when-to-see-aprils-full-pink-moon-at-peak-brilliance-1848752693)
-- [Dev.to/JS] [Check this out ! Not that good it was just a practice one for props in react js.](https://dev.to/shrey802/check-this-out-not-that-good-it-was-just-a-practice-one-for-props-in-react-js-3mpf)
 - [Lifehacker] [10 Simple Ways to Make a Small Room Look Bigger](https://lifehacker.com/10-simple-ways-to-make-a-small-room-look-bigger-1848751494)
-- [Dev.to/JS] [How to Create an E-commerce Product Catalog in NextJS](https://dev.to/hackmamba/how-to-create-an-e-commerce-product-catalog-in-nextjs-4bo)
-- [Dev.to/JS] [React, Vue and Svelte: Comparing Text Input Binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-text-input-binding-2lcc)
 - [Lifehacker] [Smoke an Easter Lamb Shoulder on a Charcoal Grill](https://lifehacker.com/smoke-an-easter-lamb-shoulder-on-a-charcoal-grill-1848747851)
 - [Lifehacker] [8 of the Worst Food Allergies &lpar;and Which Ones You Might Not Have to Live With&rpar;](https://lifehacker.com/8-of-the-worst-food-allergies-and-which-ones-you-might-1848751471)
 - [Lifehacker] [5 Brilliant Ways to Clean Your House With Dishwasher Tablets](https://lifehacker.com/5-brilliant-ways-to-clean-your-house-with-dishwasher-ta-1848751584)
