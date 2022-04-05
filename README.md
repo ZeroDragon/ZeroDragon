@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Created a vertical timeline component 😃](https://dev.to/k_penguin_sato/created-a-vertical-timeline-component-18oe)
+- [Dev.to/JS] [Web3 with Svelte and Moralis](https://dev.to/fabiogiolito/web3-with-svelte-and-moralis-4kke)
+- [Dev.to/JS] [What Is Google Maps API?](https://dev.to/zenscrape/what-is-google-maps-api-478e)
 - [Dev.to/JS] [Nutra Optimum Keto Boost Reviews Watch Shark Tank Episode Scam Facts?](https://dev.to/nutraoptimumketoboost/nutra-optimum-keto-boost-reviews-watch-shark-tank-episode-scam-facts-3fl7)
 - [Dev.to/JS] [Optional Chaining in JavaScript](https://dev.to/murtuzaalisurti/optional-chaining-in-javascript-e05)
 - [Dev.to/JS] [Best YouTube pages for learn frontend](https://dev.to/kavehsabouri/best-youtube-pages-for-learn-frontend-lml)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why are the marker positions not behaving correctly on map?](https://dev.to/weyardwiz/why-are-the-marker-positions-not-behaving-correctly-on-map-2pho)
 - [Dev.to/JS] [When to use keyExtractor prop in React Native&#39;s FlatList](https://dev.to/amanhimself/when-to-use-keyextractor-prop-in-react-natives-flatlist-489l)
 - [Dev.to/JS] [2022 – ES6 Interview Questions and Answers](https://dev.to/priteshbhoi/2022-es6-interview-questions-and-answers-ap3)
-- [Dev.to/JS] [Manage your GitHub Starred Repositories](https://dev.to/mtwn105/manage-your-github-starred-repositories-16po)
-- [Dev.to/JS] [Gold-Language - Version 1.02; Out Now!](https://dev.to/colack/gold-language-version-102-out-now-igp)
-- [Dev.to/JS] [My First Project and a Dive Into Dark Mode](https://dev.to/trevortx/first-project-worldwide-weather-4dno)
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
 - [Lifehacker] [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
 - [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
