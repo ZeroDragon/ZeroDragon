@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add claps to your blog](https://dev.to/perkinsjr/how-to-add-claps-to-your-blog-34ii)
+- [Dev.to/JS] [Listified Tokens, or Somebody&#39;s JavaScript Homework](https://dev.to/365erik/listified-tokens-or-somebodys-javascript-homework-4heo)
+- [Dev.to/JS] [Using Javascript to fix Wordpress annoyances in a wordpress-y way](https://dev.to/hariseldon27/using-javascript-to-fix-wordpress-annoyances-in-a-wordpress-y-way-4ijl)
 - [Dev.to/JS] [useEffect vs useLayoutEffect: the difference and when to use them](https://dev.to/emmanuelthecoder/useeffect-vs-uselayouteffect-the-difference-and-when-to-use-them-124c)
 - [Dev.to/JS] [TypeScript Tip: Using Conditional Types To Refactor Overloads.](https://dev.to/andersonjoseph/typescript-tip-using-conditional-types-to-refactor-overloads-3e60)
 - [Dev.to/JS] [Day 5](https://dev.to/brixmavu/day-5-3cf6)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bhailang: The viral Gen-Z programming language](https://dev.to/aniket762/bhailang-the-viral-gen-z-programming-language-39dn)
 - [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
 - [Dev.to/JS] [Ng-News: Issue 22/13](https://dev.to/rainerhahnekamp/ng-news-issue-2213-252c)
-- [Dev.to/JS] [Day-58 Training At Ryaz](https://dev.to/mahin651/day-58-training-at-ryaz-246d)
 - [Lifehacker] [Lies the Police Can Legally Tell You &lpar;and How to Respond&rpar;](https://lifehacker.com/lies-the-police-can-legally-tell-you-and-how-to-respon-1848746966)
-- [Dev.to/JS] [Grow your server by building these 5 Discord bots](https://dev.to/janeth/grow-your-server-by-building-these-5-discord-bots-3672)
 - [Lifehacker] [How to Clean Your Filthy Pastry Brush](https://lifehacker.com/how-to-clean-your-filthy-pastry-brush-1848746868)
-- [Dev.to/JS] [Complete Phaser 3 Game Development Guide: Part 0.5 &lpar;Bundling and Compiling&rpar;](https://dev.to/the_unfactoring_guru/complete-phaser-3-game-development-guide-part-05-bundling-and-compiling-3an9)
 - [Lifehacker] [How to Make Edibles Taste Less &lpar;or More&rpar; Like Weed](https://lifehacker.com/how-to-make-edibles-taste-less-or-more-like-weed-1848746861)
 - [Lifehacker] [5 of the Greatest Bruce Willis Performances of All Time](https://lifehacker.com/5-of-the-greatest-bruce-willis-performances-of-all-time-1848745347)
 - [Lifehacker] [How to Recognize Your Partner&#39;s &#39;Bids for Connection&#39; and Maybe Save Your Relationship](https://lifehacker.com/how-to-recognize-your-partners-bids-for-connection-and-1848740174)
