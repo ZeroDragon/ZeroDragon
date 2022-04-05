@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using reduce&lpar;&rpar; on an array of objects](https://dev.to/thejourneyville/using-reduce-on-an-array-of-objects-30nl)
+- [Dev.to/JS] [How to become a self-taught Computer Programmer: A Comprehensive guide, 2022](https://dev.to/devaspires/how-to-become-a-self-taught-computer-programmer-a-comprehensive-guide-2022-417n)
+- [Dev.to/JS] [Keto Tone - Keto Tone Pills, Price, Shark Tank Scam Or Ingredients?](https://dev.to/ketotonepills/keto-tone-keto-tone-pills-price-shark-tank-scam-or-ingredients-3bp4)
+- [Dev.to/JS] [Why are the marker positions not behaving correctly on map?](https://dev.to/weyardwiz/why-are-the-marker-positions-not-behaving-correctly-on-map-2pho)
 - [Dev.to/JS] [When to use keyExtractor prop in React Native&#39;s FlatList](https://dev.to/amanhimself/when-to-use-keyextractor-prop-in-react-natives-flatlist-489l)
 - [Dev.to/JS] [2022 – ES6 Interview Questions and Answers](https://dev.to/priteshbhoi/2022-es6-interview-questions-and-answers-ap3)
 - [Dev.to/JS] [Manage your GitHub Starred Repositories](https://dev.to/mtwn105/manage-your-github-starred-repositories-16po)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why computer floating points are inaccurate](https://dev.to/juanpireslima/why-computer-floating-points-are-inaccurate-3281)
 - [Dev.to/JS] [Refresh Gatsby Content Without Restarting Development Server](https://dev.to/gregorygaines/refresh-gatsby-content-without-restarting-development-server-3h7)
 - [Dev.to/JS] [Understanding referential equality in React&#39;s useEffect](https://dev.to/vicnovais/understanding-referential-equality-in-reacts-useeffect-2m7o)
-- [Dev.to/JS] [How to add claps to your blog](https://dev.to/perkinsjr/how-to-add-claps-to-your-blog-34ii)
-- [Dev.to/JS] [Listified Tokens, or Somebody&#39;s JavaScript Homework](https://dev.to/365erik/listified-tokens-or-somebodys-javascript-homework-4heo)
-- [Dev.to/JS] [Using Javascript to fix Wordpress annoyances in a wordpress-y way](https://dev.to/hariseldon27/using-javascript-to-fix-wordpress-annoyances-in-a-wordpress-y-way-4ijl)
-- [Dev.to/JS] [useEffect vs useLayoutEffect: the difference and when to use them](https://dev.to/emmanuelthecoder/useeffect-vs-uselayouteffect-the-difference-and-when-to-use-them-124c)
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
 - [Lifehacker] [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
 - [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
