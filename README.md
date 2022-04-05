@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Check this out ! Not that good it was just a practice one for props in react js.](https://dev.to/shrey802/check-this-out-not-that-good-it-was-just-a-practice-one-for-props-in-react-js-3mpf)
+- [Lifehacker] [10 Simple Ways to Make a Small Room Look Bigger](https://lifehacker.com/10-simple-ways-to-make-a-small-room-look-bigger-1848751494)
+- [Dev.to/JS] [How to Create an E-commerce Product Catalog in NextJS](https://dev.to/hackmamba/how-to-create-an-e-commerce-product-catalog-in-nextjs-4bo)
+- [Dev.to/JS] [React, Vue and Svelte: Comparing Text Input Binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-text-input-binding-2lcc)
+- [Dev.to/JS] [Payment Ui Using Html Sass and JavaScript](https://dev.to/deepakydv9315/payment-ui-using-html-sass-and-javascript-1lla)
+- [Dev.to/JS] [Building a Nested Comment App like Reddit](https://dev.to/vigneshiyergithub/building-a-nested-comment-example-like-reddit-1o92)
+- [Lifehacker] [Smoke an Easter Lamb Shoulder on a Charcoal Grill](https://lifehacker.com/smoke-an-easter-lamb-shoulder-on-a-charcoal-grill-1848747851)
 - [Dev.to/JS] [How BEM works in building large applications with custom CSS.](https://dev.to/hackmamba/how-bem-works-in-building-large-applications-with-custom-css-3cmh)
 - [Dev.to/JS] [Day-59 Training At Ryaz](https://dev.to/mahin651/day-59-training-at-ryaz-1gb6)
 - [Lifehacker] [8 of the Worst Food Allergies &lpar;and Which Ones You Might Not Have to Live With&rpar;](https://lifehacker.com/8-of-the-worst-food-allergies-and-which-ones-you-might-1848751471)
@@ -31,13 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Find Element By Text In Selenium WebDriver](https://dev.to/lambdatest/how-to-find-element-by-text-in-selenium-webdriver-1l58)
 - [Dev.to/JS] [Scheduled Cron Jobs with Render](https://dev.to/alvinslee/scheduled-cron-jobs-with-render-f0l)
 - [Dev.to/JS] [tsParticles 1.43.0 Released](https://dev.to/matteobruni/tsparticles-1430-released-1ek0)
-- [Dev.to/JS] [Build a Social Media Timeline with Amplify Studio](https://dev.to/aspittel/build-a-social-media-timeline-with-amplify-studio-2lof)
-- [Dev.to/JS] [Open Source Adventures: Episode 29: Using D3 with old school tooling to visualize Russian Tank Losses](https://dev.to/taw/open-source-adventures-episode-29-using-d3-with-old-school-tooling-to-visualize-russian-tank-losses-2g72)
 - [Lifehacker] [5 Brilliant Ways to Clean Your House With Dishwasher Tablets](https://lifehacker.com/5-brilliant-ways-to-clean-your-house-with-dishwasher-ta-1848751584)
-- [Dev.to/JS] [What&#39;s New in JavaScript Charting?](https://dev.to/jscharting/whats-new-in-javascript-charting-2ldl)
-- [Dev.to/JS] [Beam your Svelte internationalization up to a new level](https://dev.to/adrai/beam-your-svelte-internationalization-up-to-a-new-level-1p7)
 - [Lifehacker] [How to Minimize Your Wedding Guest List &lpar;and Tell Someone They Didn&#39;t Make the Cut&rpar;](https://lifehacker.com/how-to-minimize-your-wedding-guest-list-and-tell-someo-1848751053)
-- [Dev.to/JS] [Headless Testing In Selenium | Selenium WebDriver With JavaScript Tutorial | Part VIII](https://dev.to/lambdatest/headless-testing-in-selenium-selenium-webdriver-with-javascript-tutorial-part-viii-f71)
 - [Lifehacker] [17 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/17-of-the-best-tv-shows-you-can-binge-in-one-day-1848715528)
 - [Lifehacker] [You Need to Update Your Pixel Devices Right Now](https://lifehacker.com/you-need-to-update-your-pixel-devices-right-now-1848750611)
 - [Lifehacker] [Weird Hidden iPhone Gestures You Probably Never Knew Existed](https://lifehacker.com/weird-hidden-iphone-gestures-you-probably-never-knew-ex-1848749693)
@@ -58,9 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Clever Things You Never Knew WD-40 Could Do](https://lifehacker.com/12-clever-things-you-never-knew-wd-40-could-do-1848698665)
 - [Lifehacker] [You Really Need to Stop Confessing Your Crimes Online](https://lifehacker.com/you-really-need-to-stop-confessing-your-crimes-online-1848738588)
 - [Lifehacker] [What&#39;s That White Stuff on My Cheese?](https://lifehacker.com/whats-that-white-stuff-on-my-cheese-1848739076)
-- [Lifehacker] [How Long Is Too Long to Spend on a Machine at the Gym?](https://lifehacker.com/how-long-is-too-long-to-spend-on-a-machine-at-the-gym-1848713370)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
-- [Lifehacker] [Use These Pantry Items as Pet-Safe Ant Repellants](https://lifehacker.com/use-these-pantry-items-as-pet-safe-ant-repellants-1848742891)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
