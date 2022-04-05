@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optional Chaining in JavaScript](https://dev.to/murtuzaalisurti/optional-chaining-in-javascript-e05)
 - [Dev.to/JS] [Best YouTube pages for learn frontend](https://dev.to/kavehsabouri/best-youtube-pages-for-learn-frontend-lml)
 - [Dev.to/JS] [Using reduce&lpar;&rpar; on an array of objects](https://dev.to/thejourneyville/using-reduce-on-an-array-of-objects-30nl)
 - [Dev.to/JS] [How to become a self-taught Computer Programmer: A Comprehensive guide, 2022](https://dev.to/devaspires/how-to-become-a-self-taught-computer-programmer-a-comprehensive-guide-2022-417n)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gold-Language - Version 1.02; Out Now!](https://dev.to/colack/gold-language-version-102-out-now-igp)
 - [Dev.to/JS] [My First Project and a Dive Into Dark Mode](https://dev.to/trevortx/first-project-worldwide-weather-4dno)
 - [Dev.to/JS] [Why computer floating points are inaccurate](https://dev.to/juanpireslima/why-computer-floating-points-are-inaccurate-3281)
-- [Dev.to/JS] [Refresh Gatsby Content Without Restarting Development Server](https://dev.to/gregorygaines/refresh-gatsby-content-without-restarting-development-server-3h7)
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
 - [Lifehacker] [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
 - [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
