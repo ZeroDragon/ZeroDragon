@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Random Responsive balls in the background](https://dev.to/saisukumarpinninti/random-responsive-balls-in-the-background-3fi2)
+- [Dev.to/JS] [Which language you prefer to code and why?](https://dev.to/deepakydv9315/which-language-you-prefer-to-code-and-why-36gc)
 - [Dev.to/JS] [Preloading Data in Angular Universal](https://dev.to/jdgamble555/preloading-data-in-angular-universal-20lj)
 - [Dev.to/JS] [Cool Console stuff: Easy object inspection](https://dev.to/dylanlacey/cool-console-stuff-easy-object-inspection-14c4)
 - [Dev.to/JS] [Learning Programming for Web Development, One Year In](https://dev.to/mkienbus/learning-programming-for-web-development-one-year-in-5bc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [O Básico: JWT - JSON Web Token](https://dev.to/gabrielhsilvestre/o-basico-jwt-json-web-token-2akc)
 - [Dev.to/JS] [How NOT to optimize your website](https://dev.to/eyeamkd/how-not-to-optimize-your-website-5h2g)
 - [Dev.to/JS] [6 Ways To Create An Object In JavaScript](https://dev.to/cscarpitta/8-ways-to-create-an-object-in-javascript-2h38)
-- [Dev.to/JS] [React Self Assessment](https://dev.to/gregpetropoulos/react-self-assessment-2lh5)
-- [Dev.to/JS] [Open Source Adventures: Episode 30: Using D3 and Parcel to visualize Russian Tank Losses](https://dev.to/taw/open-source-adventures-episode-30-using-d3-and-parcel-to-visualize-russian-tank-losses-3gn5)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
