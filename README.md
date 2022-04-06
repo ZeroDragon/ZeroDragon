@@ -23,20 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [The prototype I built for my team](https://dev.to/mrpbennett/the-prototype-i-built-for-my-team-2c8n)
-- [Dev.to/JS] [How To Use JavaScript Wait Function In Selenium WebDriver](https://dev.to/haritalt/how-to-use-javascript-wait-function-in-selenium-webdriver-573n)
+- [Lifehacker] [Everything You Need to Know About Picking the Perfect Dress Shirt](https://lifehacker.com/everything-you-need-to-know-about-picking-the-perfect-d-1848750711)
+- [Lifehacker] [8 Weird, Extremely Specific Life Hacks You Might Need Someday](https://lifehacker.com/8-weird-extremely-specific-life-hacks-you-might-need-s-1848755203)
+- [Lifehacker] [How to Split Rent When Some Rooms Are Better Than Others](https://lifehacker.com/how-to-split-rent-when-some-rooms-are-better-than-other-1848753817)
 - [Lifehacker] [Your Grilling Thermometer Needs a Potato](https://lifehacker.com/your-gilling-thermometer-needs-a-potato-1848753681)
-- [Dev.to/JS] [6 Reasons to choose &quot;React Native&quot; for Mobile Applications?](https://dev.to/kane_jason/6-reasons-to-choose-react-native-for-mobile-applications-2ol)
 - [Lifehacker] [15 of the Best Nudist Beaches to Flaunt It This Year](https://lifehacker.com/15-of-the-best-nudist-beaches-to-flaunt-it-this-year-1848714163)
-- [Dev.to/JS] [Nextjs Pokedex](https://dev.to/louis3797/nextjs-pokedex-4oj)
-- [Dev.to/JS] [introducing tilepieces: An open source project to visually editing HTML documents and Web applications](https://dev.to/tilepieces/introducing-tilepieces-an-open-source-project-to-visually-editing-html-documents-and-web-applications-49mc)
-- [Dev.to/JS] [Quelle est la définition d’une pile technologique ?](https://dev.to/euro_tech_conseil_france/quelle-est-la-definition-dune-pile-technologique--2aco)
-- [Dev.to/JS] [GitHub repos to learn Javascript](https://dev.to/annoh_karlgusta/github-repos-to-learn-javascript-5g5f)
-- [Dev.to/JS] [Using React Higher-Order Components &lpar;HOC&rpar; in your React apps](https://dev.to/princeibs/using-react-higher-order-components-hoc-in-your-react-apps-5421)
-- [Dev.to/JS] [Next JS - replace React with Preact](https://dev.to/kasperaamodt/next-js-replace-react-with-preact-2f7i)
-- [Dev.to/JS] [TinyMCE Custom Dialog Box Example](https://dev.to/codeanddeploy/tinymce-custom-dialog-box-example-4m8f)
-- [Dev.to/JS] [TinyMCE Basic Example](https://dev.to/codeanddeploy/tinymce-basic-example-829)
-- [Dev.to/JS] [tsParticles 1.43.1 Released](https://dev.to/matteobruni/tsparticles-1431-released-44p2)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
@@ -57,12 +48,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
 - [Lifehacker] [Lies the Police Can Legally Tell You &lpar;and How to Respond&rpar;](https://lifehacker.com/lies-the-police-can-legally-tell-you-and-how-to-respon-1848746966)
 - [Lifehacker] [How to Clean Your Filthy Pastry Brush](https://lifehacker.com/how-to-clean-your-filthy-pastry-brush-1848746868)
-- [Lifehacker] [How to Make Edibles Taste Less &lpar;or More&rpar; Like Weed](https://lifehacker.com/how-to-make-edibles-taste-less-or-more-like-weed-1848746861)
-- [Lifehacker] [5 of the Greatest Bruce Willis Performances of All Time](https://lifehacker.com/5-of-the-greatest-bruce-willis-performances-of-all-time-1848745347)
-- [Lifehacker] [How to Recognize Your Partner&#39;s &#39;Bids for Connection&#39; and Maybe Save Your Relationship](https://lifehacker.com/how-to-recognize-your-partners-bids-for-connection-and-1848740174)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
-- [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
+- [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)
+- [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
+- [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
+- [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
+- [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
+- [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
+- [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
 
 ---
 
