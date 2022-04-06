@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🧿 Turn React into SolidJS, update on demand, no more re-render](https://dev.to/nanxiaobei/change-react-to-solidjs-update-on-demand-no-more-re-render-3pga)
+- [Lifehacker] [How to Tell If You Have Unresolved Trust Issues &lpar;and Overcome Them&rpar;](https://lifehacker.com/how-to-tell-if-you-have-unresolved-trust-issues-and-ov-1848757512)
+- [Dev.to/JS] [Wrap them all](https://dev.to/javar/wrap-them-all-odo)
 - [Lifehacker] [8 Ways You Can Make the Windows 11 Taskbar More Useful](https://lifehacker.com/8-ways-you-can-make-the-windows-11-taskbar-more-useful-1848744540)
 - [Dev.to/JS] [HttpParams Builder for Angular](https://dev.to/felipebelluco/httpparams-builder-for-angular-44g5)
 - [Dev.to/JS] [semver: v1 vs v1000](https://dev.to/gajus/semver-v1-vs-v1000-1i1)
@@ -39,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useImperativeHandle: the most unknown React hook](https://dev.to/romaintrotard/useimperativehandle-the-most-unknown-react-hook-3po6)
 - [Dev.to/JS] [Astro Blog: Astro Markdown Blog Starter](https://dev.to/askrodney/astro-blog-astro-markdown-blog-starter-1gp4)
 - [Dev.to/JS] [4 tips for cleaner Svelte components](https://dev.to/geoffrich/4-tips-for-cleaner-svelte-components-1gln)
-- [Dev.to/JS] [Open Source Adventures: Episode 31: Using D3 and Svelte to visualize Russian Tank Losses](https://dev.to/taw/open-source-adventures-episode-31-using-d3-and-svelte-to-visualize-russian-tank-losses-366a)
 - [Lifehacker] [The Difference Between Dish Soap, Dishwasher Detergent, and Laundry Detergent &lpar;and Why it Matters&rpar;](https://lifehacker.com/the-difference-between-dish-soap-dishwasher-detergent-1848753401)
-- [Dev.to/JS] [Google firebase authentication setup with react js -Sign in with google step by step.](https://dev.to/kamruldev/google-firebase-authentication-setup-with-react-js-step-by-step-goj)
 - [Lifehacker] [I Hate Antiwordle, and That&#39;s Why I Play It Every Morning](https://lifehacker.com/i-hate-antiwordle-and-thats-why-i-play-it-every-mornin-1848756496)
 - [Lifehacker] [Everything You Need to Know About Picking the Perfect Dress Shirt](https://lifehacker.com/everything-you-need-to-know-about-picking-the-perfect-d-1848750711)
 - [Lifehacker] [8 Weird, Extremely Specific Life Hacks You Might Need Someday](https://lifehacker.com/8-weird-extremely-specific-life-hacks-you-might-need-s-1848755203)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Brilliant Ways to Clean Your House With Dishwasher Tablets](https://lifehacker.com/5-brilliant-ways-to-clean-your-house-with-dishwasher-ta-1848751584)
 - [Lifehacker] [How to Minimize Your Wedding Guest List &lpar;and Tell Someone They Didn&#39;t Make the Cut&rpar;](https://lifehacker.com/how-to-minimize-your-wedding-guest-list-and-tell-someo-1848751053)
 - [Lifehacker] [17 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/17-of-the-best-tv-shows-you-can-binge-in-one-day-1848715528)
-- [Lifehacker] [You Need to Update Your Pixel Devices Right Now](https://lifehacker.com/you-need-to-update-your-pixel-devices-right-now-1848750611)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
