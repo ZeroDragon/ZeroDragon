@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning Programming for Web Development, One Year In](https://dev.to/mkienbus/learning-programming-for-web-development-one-year-in-5bc)
+- [Dev.to/JS] [Transcribe and Translate Audio on Any Web Page](https://dev.to/ikumen/transcribe-and-translate-audio-on-any-web-page-5ghl)
+- [Dev.to/JS] [Melody: A New Way to RegEx](https://dev.to/trezy/melody-a-new-way-to-regex-3f6i)
 - [Dev.to/JS] [Planning Your Next Cypress.io Tests with Testomat.io](https://dev.to/davert/planning-your-next-cypressio-tests-with-testomatio-3fio)
 - [Dev.to/JS] [Parcel Start - React, SCSS, ESLint, AirBNB, Stylelint, Prettier](https://dev.to/devastion/parcel-start-react-scss-eslint-airbnb-stylelint-prettier-gke)
 - [Dev.to/JS] [O Básico: JWT - JSON Web Token](https://dev.to/gabrielhsilvestre/o-basico-jwt-json-web-token-2akc)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Dev.to/JS] [You don&#39;t need... JavaScript to do tabs](https://dev.to/jonosellier/you-dont-need-javascript-to-do-tabs-5g3b)
 - [Dev.to/JS] [official.auction](https://dev.to/officialdotauction/officialauction-1j6n)
-- [Dev.to/JS] [How mental health affects the ability to create](https://dev.to/spoder/how-mental-health-affects-the-ability-to-create-58i0)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
-- [Dev.to/JS] [I created a library for mobile developers who cares about color.](https://dev.to/juniorklawa/i-created-a-library-for-mobile-developers-who-cares-about-color-1gdp)
-- [Dev.to/JS] [Setup Detox em aplicações React Native](https://dev.to/devborges/setup-detox-em-aplicacoes-react-native-7mk)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
 - [Lifehacker] [Everything You Need to Game on a Mac](https://lifehacker.com/everything-you-need-to-game-on-a-mac-1848752691)
 - [Lifehacker] [When to See April&#39;s Full Pink Moon at Peak Brilliance](https://lifehacker.com/when-to-see-aprils-full-pink-moon-at-peak-brilliance-1848752693)
