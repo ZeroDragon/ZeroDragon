@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
+- [Dev.to/JS] [League of legends themed Music Discord Bot](https://dev.to/matteol/league-of-legends-themed-music-discord-bot-611)
+- [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
 - [Dev.to/JS] [🧿 Turn React into SolidJS, update on demand, no more re-render](https://dev.to/nanxiaobei/change-react-to-solidjs-update-on-demand-no-more-re-render-3pga)
 - [Lifehacker] [How to Tell If You Have Unresolved Trust Issues &lpar;and Overcome Them&rpar;](https://lifehacker.com/how-to-tell-if-you-have-unresolved-trust-issues-and-ov-1848757512)
 - [Dev.to/JS] [Wrap them all](https://dev.to/javar/wrap-them-all-odo)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Change Your Unflattering Driver&#39;s License Photo](https://lifehacker.com/how-to-change-your-unflattering-drivers-license-photo-1848754629)
 - [Dev.to/JS] [useImperativeHandle: the most unknown React hook](https://dev.to/romaintrotard/useimperativehandle-the-most-unknown-react-hook-3po6)
 - [Dev.to/JS] [Astro Blog: Astro Markdown Blog Starter](https://dev.to/askrodney/astro-blog-astro-markdown-blog-starter-1gp4)
-- [Dev.to/JS] [4 tips for cleaner Svelte components](https://dev.to/geoffrich/4-tips-for-cleaner-svelte-components-1gln)
 - [Lifehacker] [The Difference Between Dish Soap, Dishwasher Detergent, and Laundry Detergent &lpar;and Why it Matters&rpar;](https://lifehacker.com/the-difference-between-dish-soap-dishwasher-detergent-1848753401)
 - [Lifehacker] [I Hate Antiwordle, and That&#39;s Why I Play It Every Morning](https://lifehacker.com/i-hate-antiwordle-and-thats-why-i-play-it-every-mornin-1848756496)
 - [Lifehacker] [Everything You Need to Know About Picking the Perfect Dress Shirt](https://lifehacker.com/everything-you-need-to-know-about-picking-the-perfect-d-1848750711)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Smoke an Easter Lamb Shoulder on a Charcoal Grill](https://lifehacker.com/smoke-an-easter-lamb-shoulder-on-a-charcoal-grill-1848747851)
 - [Lifehacker] [8 of the Worst Food Allergies &lpar;and Which Ones You Might Not Have to Live With&rpar;](https://lifehacker.com/8-of-the-worst-food-allergies-and-which-ones-you-might-1848751471)
 - [Lifehacker] [5 Brilliant Ways to Clean Your House With Dishwasher Tablets](https://lifehacker.com/5-brilliant-ways-to-clean-your-house-with-dishwasher-ta-1848751584)
-- [Lifehacker] [How to Minimize Your Wedding Guest List &lpar;and Tell Someone They Didn&#39;t Make the Cut&rpar;](https://lifehacker.com/how-to-minimize-your-wedding-guest-list-and-tell-someo-1848751053)
-- [Lifehacker] [17 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/17-of-the-best-tv-shows-you-can-binge-in-one-day-1848715528)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
