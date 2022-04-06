@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [yet another TS/JS color library &lpar;but with extra steps&rpar;](https://dev.to/skinnypetethegiraffe/yet-another-tsjs-color-library-but-with-extra-steps-29j0)
+- [Dev.to/JS] [Natures Pure Keto - Some Benefits of using This Fat Burner Formula?](https://dev.to/naturespureinfo/natures-pure-keto-some-benefits-of-using-this-fat-burner-formula-5bhg)
+- [Dev.to/JS] [Let&#39;s build YouTube clone with Deepgram🤖 using React-JS 🐱‍💻🔥](https://dev.to/jacksonkasi/lets-build-youtube-clone-with-deepgram-using-react-js-1e5l)
 - [Dev.to/JS] [Android — Drag and Drop views with Jetpack compose](https://dev.to/canopassoftware/android-drag-and-drop-views-with-jetpack-compose-5b9b)
 - [Dev.to/JS] [Phase-1-Project](https://dev.to/stevendombrowski/phase-1-project-35be)
 - [Dev.to/JS] [#40 - Credit Card Mask Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/40-credit-card-mask-kata-7-kyu-3466)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cool Console stuff: Easy object inspection](https://dev.to/dylanlacey/cool-console-stuff-easy-object-inspection-14c4)
 - [Dev.to/JS] [Learning Programming for Web Development, One Year In](https://dev.to/mkienbus/learning-programming-for-web-development-one-year-in-5bc)
 - [Dev.to/JS] [Transcribe and Translate Audio on Any Web Page](https://dev.to/ikumen/transcribe-and-translate-audio-on-any-web-page-5ghl)
-- [Dev.to/JS] [Melody: A New Way to RegEx](https://dev.to/trezy/melody-a-new-way-to-regex-3f6i)
-- [Dev.to/JS] [Planning Your Next Cypress.io Tests with Testomat.io](https://dev.to/davert/planning-your-next-cypressio-tests-with-testomatio-3fio)
-- [Dev.to/JS] [Parcel Start - React, SCSS, ESLint, AirBNB, Stylelint, Prettier](https://dev.to/devastion/parcel-start-react-scss-eslint-airbnb-stylelint-prettier-gke)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
