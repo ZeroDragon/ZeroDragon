@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Usando directivas de Angular para extender componentes de terceros](https://dev.to/danyparedes/usando-directivas-de-angular-para-extender-componentes-de-terceros-4eek)
+- [Dev.to/JS] [Natures only CBD gummies Reviews &lpar;U.S Updated 2022&rpar; - No.1 Pain Relief Formula?](https://dev.to/naturescbdinfo/natures-only-cbd-gummies-reviews-us-updated-2022-no1-pain-relief-formula-41b8)
+- [Dev.to/JS] [What is Context-API and purpose for using it ?](https://dev.to/kamruldev/what-is-context-api-and-purpose-for-using-it--24dk)
 - [Dev.to/JS] [yet another TS/JS color library &lpar;but with extra steps&rpar;](https://dev.to/skinnypetethegiraffe/yet-another-tsjs-color-library-but-with-extra-steps-29j0)
 - [Dev.to/JS] [Natures Pure Keto - Some Benefits of using This Fat Burner Formula?](https://dev.to/naturespureinfo/natures-pure-keto-some-benefits-of-using-this-fat-burner-formula-5bhg)
 - [Dev.to/JS] [Let&#39;s build YouTube clone with Deepgram🤖 using React-JS 🐱‍💻🔥](https://dev.to/jacksonkasi/lets-build-youtube-clone-with-deepgram-using-react-js-1e5l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Random Responsive balls in the background](https://dev.to/saisukumarpinninti/random-responsive-balls-in-the-background-3fi2)
 - [Dev.to/JS] [Which language you prefer to code and why?](https://dev.to/deepakydv9315/which-language-you-prefer-to-code-and-why-36gc)
 - [Dev.to/JS] [Preloading Data in Angular Universal](https://dev.to/jdgamble555/preloading-data-in-angular-universal-20lj)
-- [Dev.to/JS] [Cool Console stuff: Easy object inspection](https://dev.to/dylanlacey/cool-console-stuff-easy-object-inspection-14c4)
-- [Dev.to/JS] [Learning Programming for Web Development, One Year In](https://dev.to/mkienbus/learning-programming-for-web-development-one-year-in-5bc)
-- [Dev.to/JS] [Transcribe and Translate Audio on Any Web Page](https://dev.to/ikumen/transcribe-and-translate-audio-on-any-web-page-5ghl)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
