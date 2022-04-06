@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quelle est la définition d’une pile technologique ?](https://dev.to/euro_tech_conseil_france/quelle-est-la-definition-dune-pile-technologique--2aco)
+- [Dev.to/JS] [GitHub repos to learn Javascript](https://dev.to/annoh_karlgusta/github-repos-to-learn-javascript-5g5f)
+- [Dev.to/JS] [Using React Higher-Order Components &lpar;HOC&rpar; in your React apps](https://dev.to/princeibs/using-react-higher-order-components-hoc-in-your-react-apps-5421)
 - [Dev.to/JS] [Next JS - replace React with Preact](https://dev.to/kasperaamodt/next-js-replace-react-with-preact-2f7i)
 - [Dev.to/JS] [TinyMCE Custom Dialog Box Example](https://dev.to/codeanddeploy/tinymce-custom-dialog-box-example-4m8f)
 - [Dev.to/JS] [TinyMCE Basic Example](https://dev.to/codeanddeploy/tinymce-basic-example-829)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Laravel 8 and 9 User Impersonation Example](https://dev.to/codeanddeploy/laravel-8-and-9-user-impersonation-example-2hac)
 - [Dev.to/JS] [Building a business from scratch - day 15](https://dev.to/twankrui/building-a-business-from-scratch-day-15-h6o)
 - [Dev.to/JS] [New Neural Network with 500 Billion Parameters](https://dev.to/jsstackdevelopers/new-neural-network-with-500-billion-parameters-36np)
-- [Dev.to/JS] [How to build a Quote sharing app using React.js, React-share and React-paginate](https://dev.to/arshadayvid/how-to-build-a-quote-sharing-app-using-reactjs-react-share-and-react-paginate-3ge9)
-- [Dev.to/JS] [React+Express Tutorial - How to Uploads Image &amp; File Using ReactJs and experss-fileupload](https://dev.to/abdulwaqar844/reactexpress-tutorial-how-to-uploads-image-file-using-reactjs-and-experss-fileupload-121)
-- [Dev.to/JS] [SHA-256 Hash Algorithm Process Step-By-Step in Blockchain](https://dev.to/jsstackdevelopers/sha-256-hash-algorithm-process-step-by-step-in-blockchain-4374)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
