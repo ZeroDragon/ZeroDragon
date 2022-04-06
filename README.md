@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Android — Drag and Drop views with Jetpack compose](https://dev.to/canopassoftware/android-drag-and-drop-views-with-jetpack-compose-5b9b)
+- [Dev.to/JS] [Phase-1-Project](https://dev.to/stevendombrowski/phase-1-project-35be)
+- [Dev.to/JS] [#40 - Credit Card Mask Kata &lpar;7 kyu&rpar;](https://dev.to/cesar__dlr/40-credit-card-mask-kata-7-kyu-3466)
 - [Dev.to/JS] [Random Responsive balls in the background](https://dev.to/saisukumarpinninti/random-responsive-balls-in-the-background-3fi2)
 - [Dev.to/JS] [Which language you prefer to code and why?](https://dev.to/deepakydv9315/which-language-you-prefer-to-code-and-why-36gc)
 - [Dev.to/JS] [Preloading Data in Angular Universal](https://dev.to/jdgamble555/preloading-data-in-angular-universal-20lj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Melody: A New Way to RegEx](https://dev.to/trezy/melody-a-new-way-to-regex-3f6i)
 - [Dev.to/JS] [Planning Your Next Cypress.io Tests with Testomat.io](https://dev.to/davert/planning-your-next-cypressio-tests-with-testomatio-3fio)
 - [Dev.to/JS] [Parcel Start - React, SCSS, ESLint, AirBNB, Stylelint, Prettier](https://dev.to/devastion/parcel-start-react-scss-eslint-airbnb-stylelint-prettier-gke)
-- [Dev.to/JS] [O Básico: JWT - JSON Web Token](https://dev.to/gabrielhsilvestre/o-basico-jwt-json-web-token-2akc)
-- [Dev.to/JS] [How NOT to optimize your website](https://dev.to/eyeamkd/how-not-to-optimize-your-website-5h2g)
-- [Dev.to/JS] [6 Ways To Create An Object In JavaScript](https://dev.to/cscarpitta/8-ways-to-create-an-object-in-javascript-2h38)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
