@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Preloading Data in Angular Universal](https://dev.to/jdgamble555/preloading-data-in-angular-universal-20lj)
+- [Dev.to/JS] [Cool Console stuff: Easy object inspection](https://dev.to/dylanlacey/cool-console-stuff-easy-object-inspection-14c4)
 - [Dev.to/JS] [Learning Programming for Web Development, One Year In](https://dev.to/mkienbus/learning-programming-for-web-development-one-year-in-5bc)
 - [Dev.to/JS] [Transcribe and Translate Audio on Any Web Page](https://dev.to/ikumen/transcribe-and-translate-audio-on-any-web-page-5ghl)
 - [Dev.to/JS] [Melody: A New Way to RegEx](https://dev.to/trezy/melody-a-new-way-to-regex-3f6i)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Self Assessment](https://dev.to/gregpetropoulos/react-self-assessment-2lh5)
 - [Dev.to/JS] [Open Source Adventures: Episode 30: Using D3 and Parcel to visualize Russian Tank Losses](https://dev.to/taw/open-source-adventures-episode-30-using-d3-and-parcel-to-visualize-russian-tank-losses-3gn5)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
-- [Dev.to/JS] [You don&#39;t need... JavaScript to do tabs](https://dev.to/jonosellier/you-dont-need-javascript-to-do-tabs-5g3b)
-- [Dev.to/JS] [official.auction](https://dev.to/officialdotauction/officialauction-1j6n)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
 - [Lifehacker] [Everything You Need to Game on a Mac](https://lifehacker.com/everything-you-need-to-game-on-a-mac-1848752691)
