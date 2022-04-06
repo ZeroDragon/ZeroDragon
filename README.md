@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 of the Best Nudist Beaches to Flaunt It This Year](https://lifehacker.com/15-of-the-best-nudist-beaches-to-flaunt-it-this-year-1848714163)
+- [Dev.to/JS] [Nextjs Pokedex](https://dev.to/louis3797/nextjs-pokedex-4oj)
+- [Dev.to/JS] [introducing tilepieces: An open source project to visually editing HTML documents and Web applications](https://dev.to/tilepieces/introducing-tilepieces-an-open-source-project-to-visually-editing-html-documents-and-web-applications-49mc)
 - [Dev.to/JS] [Quelle est la définition d’une pile technologique ?](https://dev.to/euro_tech_conseil_france/quelle-est-la-definition-dune-pile-technologique--2aco)
 - [Dev.to/JS] [GitHub repos to learn Javascript](https://dev.to/annoh_karlgusta/github-repos-to-learn-javascript-5g5f)
 - [Dev.to/JS] [Using React Higher-Order Components &lpar;HOC&rpar; in your React apps](https://dev.to/princeibs/using-react-higher-order-components-hoc-in-your-react-apps-5421)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PHP Keyword or Shortcode Extractor Class](https://dev.to/codeanddeploy/php-keyword-or-shortcode-extractor-class-366c)
 - [Dev.to/JS] [Adderall To Kick In Reddit ?](https://dev.to/alexjam55401398/adderall-to-kick-in-reddit--19nb)
 - [Dev.to/JS] [Laravel 8 and 9 User Impersonation Example](https://dev.to/codeanddeploy/laravel-8-and-9-user-impersonation-example-2hac)
-- [Dev.to/JS] [Building a business from scratch - day 15](https://dev.to/twankrui/building-a-business-from-scratch-day-15-h6o)
-- [Dev.to/JS] [New Neural Network with 500 Billion Parameters](https://dev.to/jsstackdevelopers/new-neural-network-with-500-billion-parameters-36np)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 of the Greatest Bruce Willis Performances of All Time](https://lifehacker.com/5-of-the-greatest-bruce-willis-performances-of-all-time-1848745347)
 - [Lifehacker] [How to Recognize Your Partner&#39;s &#39;Bids for Connection&#39; and Maybe Save Your Relationship](https://lifehacker.com/how-to-recognize-your-partners-bids-for-connection-and-1848740174)
 - [Lifehacker] [11 Soothing Games That Will Restore Your Soul After &#39;Elden Ring&#39;](https://lifehacker.com/11-soothing-games-that-will-restore-your-soul-after-eld-1848693384)
-- [Lifehacker] [Throw Out These Recalled Disney Hand Sanitizers, FDA Says](https://lifehacker.com/throw-out-these-recalled-disney-hand-sanitizers-fda-sa-1848745088)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
