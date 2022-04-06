@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 Ways You Can Make the Windows 11 Taskbar More Useful](https://lifehacker.com/8-ways-you-can-make-the-windows-11-taskbar-more-useful-1848744540)
+- [Dev.to/JS] [HttpParams Builder for Angular](https://dev.to/felipebelluco/httpparams-builder-for-angular-44g5)
+- [Dev.to/JS] [semver: v1 vs v1000](https://dev.to/gajus/semver-v1-vs-v1000-1i1)
+- [Lifehacker] [Admit It—Not Every Sandwich Needs Cheese](https://lifehacker.com/admit-it-not-every-sandwich-needs-cheese-1848757665)
 - [Lifehacker] [Why You Should Enable Airplane Mode on Your Nintendo Switch](https://lifehacker.com/why-you-should-enable-airplane-mode-on-your-nintendo-sw-1848756672)
 - [Lifehacker] [How to Pick the Right Wood for Your Backyard Project](https://lifehacker.com/how-to-pick-the-right-wood-for-your-backyard-project-1848756758)
 - [Dev.to/JS] [React 18 Quick Guide &amp; Core Concepts Explained](https://dev.to/shrutikapoor08/react-18-quick-guide-core-concepts-explained-519p)
@@ -38,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open Source Adventures: Episode 31: Using D3 and Svelte to visualize Russian Tank Losses](https://dev.to/taw/open-source-adventures-episode-31-using-d3-and-svelte-to-visualize-russian-tank-losses-366a)
 - [Lifehacker] [The Difference Between Dish Soap, Dishwasher Detergent, and Laundry Detergent &lpar;and Why it Matters&rpar;](https://lifehacker.com/the-difference-between-dish-soap-dishwasher-detergent-1848753401)
 - [Dev.to/JS] [Google firebase authentication setup with react js -Sign in with google step by step.](https://dev.to/kamruldev/google-firebase-authentication-setup-with-react-js-step-by-step-goj)
-- [Dev.to/JS] [JavaScript Module Ecosystem](https://dev.to/mryechkin/javascript-module-ecosystem-3mj7)
 - [Lifehacker] [I Hate Antiwordle, and That&#39;s Why I Play It Every Morning](https://lifehacker.com/i-hate-antiwordle-and-thats-why-i-play-it-every-mornin-1848756496)
-- [Dev.to/JS] [Class patterns for static interfaces](https://dev.to/ppoulard/class-patterns-for-static-interfaces-30ig)
 - [Lifehacker] [Everything You Need to Know About Picking the Perfect Dress Shirt](https://lifehacker.com/everything-you-need-to-know-about-picking-the-perfect-d-1848750711)
 - [Lifehacker] [8 Weird, Extremely Specific Life Hacks You Might Need Someday](https://lifehacker.com/8-weird-extremely-specific-life-hacks-you-might-need-s-1848755203)
 - [Lifehacker] [How to Split Rent When Some Rooms Are Better Than Others](https://lifehacker.com/how-to-split-rent-when-some-rooms-are-better-than-other-1848753817)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Minimize Your Wedding Guest List &lpar;and Tell Someone They Didn&#39;t Make the Cut&rpar;](https://lifehacker.com/how-to-minimize-your-wedding-guest-list-and-tell-someo-1848751053)
 - [Lifehacker] [17 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/17-of-the-best-tv-shows-you-can-binge-in-one-day-1848715528)
 - [Lifehacker] [You Need to Update Your Pixel Devices Right Now](https://lifehacker.com/you-need-to-update-your-pixel-devices-right-now-1848750611)
-- [Lifehacker] [Weird Hidden iPhone Gestures You Probably Never Knew Existed](https://lifehacker.com/weird-hidden-iphone-gestures-you-probably-never-knew-ex-1848749693)
-- [Lifehacker] [10 Sociological Studies That Prove Humans Are the Worst &lpar;and How We Can Be Better&rpar;](https://lifehacker.com/10-sociological-studies-that-prove-humans-are-the-worst-1848747515)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
