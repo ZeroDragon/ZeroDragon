@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beginning New Beginnings In Tech](https://dev.to/carsonlosch/beginning-new-beginnings-in-tech-4lep)
+- [Dev.to/JS] [How the TypeScript Required Type Works](https://dev.to/smpnjn/how-the-typescript-required-type-works-2nlc)
+- [Dev.to/JS] [How the TypeScript Partial Type Works](https://dev.to/smpnjn/how-the-typescript-partial-type-works-2klj)
+- [Dev.to/JS] [Extract Icons From Your Childhood Nintendo DS Games](https://dev.to/gregorygaines/extract-icons-from-your-childhood-nintendo-ds-games-n09)
 - [Dev.to/JS] [Getting Things Started](https://dev.to/jpstupfel/getting-things-started-439m)
 - [Dev.to/JS] [The bullet proof useReducer - Typescript &lpar;2/2&rpar;](https://dev.to/pffigueiredo/the-bullet-proof-usereducer-typescript-22-2kcj)
 - [Dev.to/JS] [Differences between the factory pattern and the constructor pattern in JavaScript.](https://dev.to/luigimorel_1/differences-between-the-factory-pattern-and-the-constructor-pattern-in-javascript-382b)
@@ -39,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Admit It—Not Every Sandwich Needs Cheese](https://lifehacker.com/admit-it-not-every-sandwich-needs-cheese-1848757665)
 - [Lifehacker] [Why You Should Enable Airplane Mode on Your Nintendo Switch](https://lifehacker.com/why-you-should-enable-airplane-mode-on-your-nintendo-sw-1848756672)
 - [Lifehacker] [How to Pick the Right Wood for Your Backyard Project](https://lifehacker.com/how-to-pick-the-right-wood-for-your-backyard-project-1848756758)
-- [Dev.to/JS] [React 18 Quick Guide &amp; Core Concepts Explained](https://dev.to/shrutikapoor08/react-18-quick-guide-core-concepts-explained-519p)
-- [Dev.to/JS] [Node.JS Revolution: Farewell to Axios and Fetch API in Version 17.5.0](https://dev.to/keyholesoftware/nodejs-revolution-farewell-to-axios-and-fetch-api-in-version-1750-mco)
 - [Lifehacker] [5 of the Weirdest Human Body Facts](https://lifehacker.com/5-of-the-weirdest-human-body-facts-1848757374)
-- [Dev.to/JS] [Day-60 Training At Ryaz](https://dev.to/mahin651/day-60-training-at-ryaz-4ag9)
-- [Dev.to/JS] [Develop an Unbeatable Tic-Tac-Toe AI Using React](https://dev.to/gregorygaines/develop-an-unbeatable-tic-tac-toe-ai-using-react-20pd)
 - [Lifehacker] [How to Change Your Unflattering Driver&#39;s License Photo](https://lifehacker.com/how-to-change-your-unflattering-drivers-license-photo-1848754629)
 - [Lifehacker] [The Difference Between Dish Soap, Dishwasher Detergent, and Laundry Detergent &lpar;and Why it Matters&rpar;](https://lifehacker.com/the-difference-between-dish-soap-dishwasher-detergent-1848753401)
 - [Lifehacker] [I Hate Antiwordle, and That&#39;s Why I Play It Every Morning](https://lifehacker.com/i-hate-antiwordle-and-thats-why-i-play-it-every-mornin-1848756496)
