@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Planning Your Next Cypress.io Tests with Testomat.io](https://dev.to/davert/planning-your-next-cypressio-tests-with-testomatio-3fio)
+- [Dev.to/JS] [Parcel Start - React, SCSS, ESLint, AirBNB, Stylelint, Prettier](https://dev.to/devastion/parcel-start-react-scss-eslint-airbnb-stylelint-prettier-gke)
+- [Dev.to/JS] [O Básico: JWT - JSON Web Token](https://dev.to/gabrielhsilvestre/o-basico-jwt-json-web-token-2akc)
 - [Dev.to/JS] [How NOT to optimize your website](https://dev.to/eyeamkd/how-not-to-optimize-your-website-5h2g)
 - [Dev.to/JS] [6 Ways To Create An Object In JavaScript](https://dev.to/cscarpitta/8-ways-to-create-an-object-in-javascript-2h38)
 - [Dev.to/JS] [React Self Assessment](https://dev.to/gregpetropoulos/react-self-assessment-2lh5)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I created a library for mobile developers who cares about color.](https://dev.to/juniorklawa/i-created-a-library-for-mobile-developers-who-cares-about-color-1gdp)
 - [Dev.to/JS] [Setup Detox em aplicações React Native](https://dev.to/devborges/setup-detox-em-aplicacoes-react-native-7mk)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
-- [Dev.to/JS] [Quickly evaluate Azure, serverless hosting and IoT](https://dev.to/richkurtzman/quickly-evaluate-azure-serverless-hosting-and-iot-3kjl)
-- [Dev.to/JS] [Synchronized immutable state with time travel](https://dev.to/oleg008/synchronized-immutable-state-with-time-travel-2c6o)
 - [Lifehacker] [Everything You Need to Game on a Mac](https://lifehacker.com/everything-you-need-to-game-on-a-mac-1848752691)
-- [Dev.to/JS] [💿 Form mass submit &amp; Remix](https://dev.to/iamandrewluca/form-mass-submit-remix-ai0)
 - [Lifehacker] [When to See April&#39;s Full Pink Moon at Peak Brilliance](https://lifehacker.com/when-to-see-aprils-full-pink-moon-at-peak-brilliance-1848752693)
 - [Lifehacker] [10 Simple Ways to Make a Small Room Look Bigger](https://lifehacker.com/10-simple-ways-to-make-a-small-room-look-bigger-1848751494)
 - [Lifehacker] [Smoke an Easter Lamb Shoulder on a Charcoal Grill](https://lifehacker.com/smoke-an-easter-lamb-shoulder-on-a-charcoal-grill-1848747851)
