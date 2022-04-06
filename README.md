@@ -23,11 +23,25 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Dish Soap, Dishwasher Detergent, and Laundry Detergent &lpar;and Why it Matters&rpar;](https://lifehacker.com/the-difference-between-dish-soap-dishwasher-detergent-1848753401)
+- [Dev.to/JS] [JavaScript Module Ecosystem](https://dev.to/mryechkin/javascript-module-ecosystem-3mj7)
+- [Lifehacker] [I Hate Antiwordle, and That&#39;s Why I Play It Every Morning](https://lifehacker.com/i-hate-antiwordle-and-thats-why-i-play-it-every-mornin-1848756496)
+- [Dev.to/JS] [Class patterns for static interfaces](https://dev.to/ppoulard/class-patterns-for-static-interfaces-30ig)
+- [Dev.to/JS] [Software Dev Weekly Update #10: Functions, functions, and more functions...](https://dev.to/realnerdethan/software-dev-weekly-update-10-functions-functions-and-more-functions-52bn)
 - [Lifehacker] [Everything You Need to Know About Picking the Perfect Dress Shirt](https://lifehacker.com/everything-you-need-to-know-about-picking-the-perfect-d-1848750711)
+- [Dev.to/JS] [Parameterized Test With Mocha | Selenium WebDriver With JavaScript Tutorial | Part IX](https://dev.to/lambdatest/parameterized-test-with-mocha-selenium-webdriver-with-javascript-tutorial-part-ix-3hgd)
 - [Lifehacker] [8 Weird, Extremely Specific Life Hacks You Might Need Someday](https://lifehacker.com/8-weird-extremely-specific-life-hacks-you-might-need-s-1848755203)
+- [Dev.to/JS] [15 Creative Web Dev Project Ideas for Your Portfolio &lpar;That You Can Finish in a Weekend&rpar;](https://dev.to/code_jedi/15-creative-web-dev-project-ideas-for-your-portfolio-that-you-can-finish-in-a-weekend-3bi2)
+- [Dev.to/JS] [Paracetamol.js💊| #94: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-94-explica-este-codigo-javascript-40he)
+- [Dev.to/JS] [The prototype I built for my team](https://dev.to/mrpbennett/the-prototype-i-built-for-my-team-2c8n)
 - [Lifehacker] [How to Split Rent When Some Rooms Are Better Than Others](https://lifehacker.com/how-to-split-rent-when-some-rooms-are-better-than-other-1848753817)
+- [Dev.to/JS] [How To Use JavaScript Wait Function In Selenium WebDriver](https://dev.to/haritalt/how-to-use-javascript-wait-function-in-selenium-webdriver-573n)
 - [Lifehacker] [Your Grilling Thermometer Needs a Potato](https://lifehacker.com/your-gilling-thermometer-needs-a-potato-1848753681)
+- [Dev.to/JS] [6 Reasons to choose &quot;React Native&quot; for Mobile Applications?](https://dev.to/kane_jason/6-reasons-to-choose-react-native-for-mobile-applications-2ol)
 - [Lifehacker] [15 of the Best Nudist Beaches to Flaunt It This Year](https://lifehacker.com/15-of-the-best-nudist-beaches-to-flaunt-it-this-year-1848714163)
+- [Dev.to/JS] [Nextjs Pokedex](https://dev.to/louis3797/nextjs-pokedex-4oj)
+- [Dev.to/JS] [introducing tilepieces: An open source project to visually editing HTML documents and Web applications](https://dev.to/tilepieces/introducing-tilepieces-an-open-source-project-to-visually-editing-html-documents-and-web-applications-49mc)
+- [Dev.to/JS] [Quelle est la définition d’une pile technologique ?](https://dev.to/euro_tech_conseil_france/quelle-est-la-definition-dune-pile-technologique--2aco)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
@@ -46,18 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
 - [Lifehacker] [Yes, You Can Game on a Chromebook](https://lifehacker.com/yes-you-can-game-on-a-chromebook-1848746540)
 - [Lifehacker] [Why You Should Play the Original &#39;Doom&#39; With Ray Tracing](https://lifehacker.com/why-you-should-play-the-original-doom-with-ray-tracing-1848745533)
-- [Lifehacker] [Lies the Police Can Legally Tell You &lpar;and How to Respond&rpar;](https://lifehacker.com/lies-the-police-can-legally-tell-you-and-how-to-respon-1848746966)
-- [Lifehacker] [How to Clean Your Filthy Pastry Brush](https://lifehacker.com/how-to-clean-your-filthy-pastry-brush-1848746868)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
-- [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)
-- [Crazy Programmer] [The Importance of Having Proper DMARC Records](https://www.thecrazyprogrammer.com/2022/03/the-importance-of-having-proper-dmarc-records.html)
-- [Crazy Programmer] [The Best Kept Secrets About Html Editors For Windows](https://www.thecrazyprogrammer.com/2022/03/the-best-kept-secrets-about-html-editors-for-windows.html)
-- [Crazy Programmer] [Python One Line for Loop](https://www.thecrazyprogrammer.com/2022/03/python-one-line-for-loop.html)
-- [Crazy Programmer] [Python Declare Variable Without Value](https://www.thecrazyprogrammer.com/2022/03/python-declare-variable-without-value.html)
-- [Crazy Programmer] [Overall Structure of DBMS](https://www.thecrazyprogrammer.com/2022/03/structure-of-dbms.html)
-- [Crazy Programmer] [Python Measure Execution Time of Function](https://www.thecrazyprogrammer.com/2022/03/python-measure-execution-time.html)
-- [Crazy Programmer] [How to Find a Balance Between SEO and Web Design?](https://www.thecrazyprogrammer.com/2022/03/how-to-find-a-balance-between-seo-and-web-design.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
 
 ---
 
