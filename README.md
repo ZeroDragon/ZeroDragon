@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Enable Airplane Mode on Your Nintendo Switch](https://lifehacker.com/why-you-should-enable-airplane-mode-on-your-nintendo-sw-1848756672)
+- [Lifehacker] [How to Pick the Right Wood for Your Backyard Project](https://lifehacker.com/how-to-pick-the-right-wood-for-your-backyard-project-1848756758)
+- [Dev.to/JS] [React 18 Quick Guide &amp; Core Concepts Explained](https://dev.to/shrutikapoor08/react-18-quick-guide-core-concepts-explained-519p)
 - [Dev.to/JS] [Node.JS Revolution: Farewell to Axios and Fetch API in Version 17.5.0](https://dev.to/keyholesoftware/nodejs-revolution-farewell-to-axios-and-fetch-api-in-version-1750-mco)
 - [Lifehacker] [5 of the Weirdest Human Body Facts](https://lifehacker.com/5-of-the-weirdest-human-body-facts-1848757374)
 - [Dev.to/JS] [Day-60 Training At Ryaz](https://dev.to/mahin651/day-60-training-at-ryaz-4ag9)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Module Ecosystem](https://dev.to/mryechkin/javascript-module-ecosystem-3mj7)
 - [Lifehacker] [I Hate Antiwordle, and That&#39;s Why I Play It Every Morning](https://lifehacker.com/i-hate-antiwordle-and-thats-why-i-play-it-every-mornin-1848756496)
 - [Dev.to/JS] [Class patterns for static interfaces](https://dev.to/ppoulard/class-patterns-for-static-interfaces-30ig)
-- [Dev.to/JS] [Software Dev Weekly Update #10: Functions, functions, and more functions...](https://dev.to/realnerdethan/software-dev-weekly-update-10-functions-functions-and-more-functions-52bn)
 - [Lifehacker] [Everything You Need to Know About Picking the Perfect Dress Shirt](https://lifehacker.com/everything-you-need-to-know-about-picking-the-perfect-d-1848750711)
 - [Lifehacker] [8 Weird, Extremely Specific Life Hacks You Might Need Someday](https://lifehacker.com/8-weird-extremely-specific-life-hacks-you-might-need-s-1848755203)
 - [Lifehacker] [How to Split Rent When Some Rooms Are Better Than Others](https://lifehacker.com/how-to-split-rent-when-some-rooms-are-better-than-other-1848753817)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Update Your Pixel Devices Right Now](https://lifehacker.com/you-need-to-update-your-pixel-devices-right-now-1848750611)
 - [Lifehacker] [Weird Hidden iPhone Gestures You Probably Never Knew Existed](https://lifehacker.com/weird-hidden-iphone-gestures-you-probably-never-knew-ex-1848749693)
 - [Lifehacker] [10 Sociological Studies That Prove Humans Are the Worst &lpar;and How We Can Be Better&rpar;](https://lifehacker.com/10-sociological-studies-that-prove-humans-are-the-worst-1848747515)
-- [Lifehacker] [8 Unconventional Ways to Save Storage Space on Windows](https://lifehacker.com/8-unconventional-ways-to-save-storage-space-on-windows-1848702210)
-- [Lifehacker] [These Windows Apps Are Outdated, Risky, or Scammy](https://lifehacker.com/these-windows-apps-are-outdated-risky-or-scammy-1848707239)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
