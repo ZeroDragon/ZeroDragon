@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SHA-256 Hash Algorithm Process Step-By-Step in Blockchain](https://dev.to/jsstackdevelopers/sha-256-hash-algorithm-process-step-by-step-in-blockchain-4374)
+- [Dev.to/JS] [Start of a New Chapter.](https://dev.to/benaj/start-of-a-new-chapter-1gea)
+- [Dev.to/JS] [React help needed on how to display Selected items to a Cart.](https://dev.to/elijahaw/react-help-needed-on-how-to-display-selected-items-to-a-cart-5flg)
 - [Dev.to/JS] [New Features Updated: Udemy Syllabus Scraper v1.0.2](https://dev.to/effylh/new-features-updated-udemy-syllabus-scraper-v102-3a6a)
 - [Dev.to/JS] [Laravel 8 wherein&lpar;&rpar; Query Example](https://dev.to/codeanddeploy/laravel-8-wherein-query-example-45b9)
 - [Dev.to/JS] [Laravel 8 Eloquent Query first&lpar;&rpar; and firstOrFail&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-query-first-and-firstorfail-example-2h44)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Laravel 8 Eloquent updateOrCreate&lpar;&rpar; Example](https://dev.to/codeanddeploy/laravel-8-eloquent-updateorcreate-example-1jce)
 - [Dev.to/JS] [Two ways to customize material UI components...](https://dev.to/himanshupal0001/two-ways-to-customize-material-ui-components-a23)
 - [Dev.to/JS] [This Week In React #100: React 18, React-Native 0.68, Redwood 1.0, Remix, Next.js, R3f v8, TC39, Node Test Runner, Hydration...](https://dev.to/sebastienlorber/this-week-in-react-100-react-18-react-native-068-redwood-10-remix-nextjs-r3f-v8-tc39-node-test-runner-hydration-306a)
-- [Dev.to/JS] [Usando directivas de Angular para extender componentes de terceros](https://dev.to/danyparedes/usando-directivas-de-angular-para-extender-componentes-de-terceros-4eek)
-- [Dev.to/JS] [Natures only CBD gummies Reviews &lpar;U.S Updated 2022&rpar; - No.1 Pain Relief Formula?](https://dev.to/naturescbdinfo/natures-only-cbd-gummies-reviews-us-updated-2022-no1-pain-relief-formula-41b8)
-- [Dev.to/JS] [What is Context-API and purpose for using it ?](https://dev.to/kamruldev/what-is-context-api-and-purpose-for-using-it--24dk)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
