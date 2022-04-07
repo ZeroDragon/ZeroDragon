@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular JS vs React JS](https://dev.to/kevincp17/angular-js-vs-react-js-1fdi)
+- [Dev.to/JS] [Open Source Node.js Ecommerce Platform for Remix](https://dev.to/medusajs/open-source-nodejs-ecommerce-platform-for-remix-3p6f)
+- [Dev.to/JS] [Mix](https://dev.to/tommypollyblank/mix-40ee)
+- [Dev.to/JS] [JavaScript Array Methods You Should Know](https://dev.to/samithawijesekara/javascript-array-methods-you-should-know-3c2h)
+- [Dev.to/JS] [A quest to find TypeScript&#39;s inheritance tree &lpar;with top and bottom types as main NPCs&rpar;](https://dev.to/emphie/a-quest-to-find-typescripts-inheritance-tree-with-top-and-bottom-types-as-main-npcs-4m79)
 - [Dev.to/JS] [How the TypeScript Readonly Type Works](https://dev.to/smpnjn/how-the-typescript-readonly-type-works-2on2)
 - [Dev.to/JS] [How the TypeScript Record Type Works](https://dev.to/smpnjn/how-the-typescript-record-type-works-1f5m)
 - [Dev.to/JS] [Building a business from scratch - day 16](https://dev.to/twankrui/building-a-business-from-scratch-day-16-7i7)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Display: none Vs Visibility: hidden](https://dev.to/deepakydv9315/display-none-vs-visibility-hidden-131f)
 - [Dev.to/JS] [Divergent States in a &quot;Single Source of Truth&quot; Framework](https://dev.to/igrep/divergent-states-in-a-single-source-of-truth-framework-1fh5)
 - [Dev.to/JS] [It’s 2022, Don’t Use the console.log&lpar;&rpar; Anymore 😎](https://dev.to/braincuber_technologies/its-2022-dont-use-the-consolelog-anymore-51dn)
-- [Dev.to/JS] [Should you Learn JavaScript? My opinion about JavaScript.](https://dev.to/coderinfinity/should-you-learn-javascript-my-opinion-about-javascript-389j)
-- [Dev.to/JS] [Install NVM &lpar;Node Version Manager&rpar; and Node.js](https://dev.to/bybatkhuu/install-nvm-node-version-manager-and-nodejs-42h3)
-- [Dev.to/JS] [Force HTML5 Form Validation using Button on Click in jQuery](https://dev.to/codeanddeploy/force-html5-form-validation-using-button-on-click-in-jquery-1c4d)
-- [Dev.to/JS] [I built a DEV.to clone from scratch &lpar;including the API!&rpar; 👨‍💻🥳](https://dev.to/eknoor4197/i-built-a-devto-clone-from-scratch-including-the-api-3eg)
-- [Dev.to/JS] [Array.Map&lpar;&rpar;](https://dev.to/dillionmegida/arraymap-2n2n)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
