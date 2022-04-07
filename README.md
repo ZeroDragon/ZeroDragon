@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 3: Fighting jQuery](https://dev.to/kemystra/day-3-fighting-jquery-4nf1)
+- [Dev.to/JS] [Paracetamol.js💊| #95: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-95-explica-este-codigo-javascript-3npm)
+- [Dev.to/JS] [Useful GitHub repos](https://dev.to/codacy/useful-github-repos-k3k)
+- [Lifehacker] [Your Baking Needs More Jam, Actually](https://lifehacker.com/your-baking-needs-more-jam-actually-1848760165)
+- [Dev.to/JS] [Why I’m moving from Jest to Vitest](https://dev.to/rstacruz/why-im-moving-from-jest-to-vitest-27d7)
 - [Lifehacker] [Can You Really Stretch Out Tight Jeans by Showering in Them?](https://lifehacker.com/can-you-really-stretch-out-tight-jeans-by-showering-in-1848759407)
 - [Dev.to/JS] [Métodos HTTP da visão de FrontEnd](https://dev.to/marcobrunodev/metodos-http-da-visao-de-frontend-56h4)
 - [Lifehacker] [The Difference Between the Dark Web and the Deep Web](https://lifehacker.com/the-difference-between-the-dark-web-and-the-deep-web-1848759230)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Array Methods You Should Know](https://dev.to/samithawijesekara/javascript-array-methods-you-should-know-3c2h)
 - [Dev.to/JS] [A quest to find TypeScript&#39;s inheritance tree &lpar;with top and bottom types as main NPCs&rpar;](https://dev.to/emphie/a-quest-to-find-typescripts-inheritance-tree-with-top-and-bottom-types-as-main-npcs-4m79)
 - [Dev.to/JS] [How the TypeScript Readonly Type Works](https://dev.to/smpnjn/how-the-typescript-readonly-type-works-2on2)
-- [Dev.to/JS] [How the TypeScript Record Type Works](https://dev.to/smpnjn/how-the-typescript-record-type-works-1f5m)
-- [Dev.to/JS] [Building a business from scratch - day 16](https://dev.to/twankrui/building-a-business-from-scratch-day-16-7i7)
-- [Dev.to/JS] [Understanding RxJS use cases &lpar;part I&rpar;](https://dev.to/this-is-angular/understanding-rxjs-use-cases-part-i-2mfb)
-- [Dev.to/JS] [Display: none Vs Visibility: hidden](https://dev.to/deepakydv9315/display-none-vs-visibility-hidden-131f)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Glaze Your Green Beans in Butter and Stock](https://lifehacker.com/glaze-your-green-beans-in-butter-and-stock-1848752979)
 - [Lifehacker] [Everything You Need to Game on a Mac](https://lifehacker.com/everything-you-need-to-game-on-a-mac-1848752691)
 - [Lifehacker] [When to See April&#39;s Full Pink Moon at Peak Brilliance](https://lifehacker.com/when-to-see-aprils-full-pink-moon-at-peak-brilliance-1848752693)
-- [Lifehacker] [10 Simple Ways to Make a Small Room Look Bigger](https://lifehacker.com/10-simple-ways-to-make-a-small-room-look-bigger-1848751494)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
