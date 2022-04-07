@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Can You Really Stretch Out Tight Jeans by Showering in Them?](https://lifehacker.com/can-you-really-stretch-out-tight-jeans-by-showering-in-1848759407)
+- [Dev.to/JS] [Métodos HTTP da visão de FrontEnd](https://dev.to/marcobrunodev/metodos-http-da-visao-de-frontend-56h4)
+- [Lifehacker] [The Difference Between the Dark Web and the Deep Web](https://lifehacker.com/the-difference-between-the-dark-web-and-the-deep-web-1848759230)
+- [Dev.to/JS] [Why Semver is Wrong?](https://dev.to/610470416/why-i-dont-use-semver-4deb)
 - [Dev.to/JS] [Angular JS vs React JS](https://dev.to/kevincp17/angular-js-vs-react-js-1fdi)
 - [Dev.to/JS] [Open Source Node.js Ecommerce Platform for Remix](https://dev.to/medusajs/open-source-nodejs-ecommerce-platform-for-remix-3p6f)
 - [Dev.to/JS] [Mix](https://dev.to/tommypollyblank/mix-40ee)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a business from scratch - day 16](https://dev.to/twankrui/building-a-business-from-scratch-day-16-7i7)
 - [Dev.to/JS] [Understanding RxJS use cases &lpar;part I&rpar;](https://dev.to/this-is-angular/understanding-rxjs-use-cases-part-i-2mfb)
 - [Dev.to/JS] [Display: none Vs Visibility: hidden](https://dev.to/deepakydv9315/display-none-vs-visibility-hidden-131f)
-- [Dev.to/JS] [Divergent States in a &quot;Single Source of Truth&quot; Framework](https://dev.to/igrep/divergent-states-in-a-single-source-of-truth-framework-1fh5)
-- [Dev.to/JS] [It’s 2022, Don’t Use the console.log&lpar;&rpar; Anymore 😎](https://dev.to/braincuber_technologies/its-2022-dont-use-the-consolelog-anymore-51dn)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Game on a Mac](https://lifehacker.com/everything-you-need-to-game-on-a-mac-1848752691)
 - [Lifehacker] [When to See April&#39;s Full Pink Moon at Peak Brilliance](https://lifehacker.com/when-to-see-aprils-full-pink-moon-at-peak-brilliance-1848752693)
 - [Lifehacker] [10 Simple Ways to Make a Small Room Look Bigger](https://lifehacker.com/10-simple-ways-to-make-a-small-room-look-bigger-1848751494)
-- [Lifehacker] [Smoke an Easter Lamb Shoulder on a Charcoal Grill](https://lifehacker.com/smoke-an-easter-lamb-shoulder-on-a-charcoal-grill-1848747851)
-- [Lifehacker] [8 of the Worst Food Allergies &lpar;and Which Ones You Might Not Have to Live With&rpar;](https://lifehacker.com/8-of-the-worst-food-allergies-and-which-ones-you-might-1848751471)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
