@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It’s 2022, Don’t Use the console.log&lpar;&rpar; Anymore 😎](https://dev.to/braincuber_technologies/its-2022-dont-use-the-consolelog-anymore-51dn)
+- [Dev.to/JS] [Should you Learn JavaScript? My opinion about JavaScript.](https://dev.to/coderinfinity/should-you-learn-javascript-my-opinion-about-javascript-389j)
+- [Dev.to/JS] [Install NVM &lpar;Node Version Manager&rpar; and Node.js](https://dev.to/bybatkhuu/install-nvm-node-version-manager-and-nodejs-42h3)
 - [Dev.to/JS] [Force HTML5 Form Validation using Button on Click in jQuery](https://dev.to/codeanddeploy/force-html5-form-validation-using-button-on-click-in-jquery-1c4d)
 - [Dev.to/JS] [I built a DEV.to clone from scratch &lpar;including the API!&rpar; 👨‍💻🥳](https://dev.to/eknoor4197/i-built-a-devto-clone-from-scratch-including-the-api-3eg)
 - [Dev.to/JS] [Array.Map&lpar;&rpar;](https://dev.to/dillionmegida/arraymap-2n2n)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Carb Burn - Blood Sugar Supplement, Reviews, Shark Tank Scam Or Benefits?](https://dev.to/carbburnfact/carb-burn-blood-sugar-supplement-reviews-shark-tank-scam-or-benefits-2mj6)
 - [Dev.to/JS] [visitor-counter: tracking the amount of visitors on your website](https://dev.to/bacloud22/visitor-counter-tracking-the-amount-of-visitors-on-your-website-1260)
 - [Dev.to/JS] [Blockchain Database: Meet BigchainDB: A Complete Guide](https://dev.to/jsstackdevelopers/blockchain-database-meet-bigchaindb-a-complete-guide-5fbc)
-- [Dev.to/JS] [Adding voice assistant to React Apps using Alan AI](https://dev.to/aniket762/adding-voice-assistant-to-react-apps-using-alan-ai-4071)
-- [Dev.to/JS] [HOW TO CREATE A CONTRACT IN SOLIDITY?](https://dev.to/tarungurang/how-to-create-a-contract-in-solidity-402e)
-- [Dev.to/JS] [SolidJs the new React, but better 😎](https://dev.to/lukyhenson/solidjs-the-new-react-but-better-2ci)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
