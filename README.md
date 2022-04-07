@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HOW TO CREATE A CONTRACT IN SOLIDITY?](https://dev.to/tarungurang/how-to-create-a-contract-in-solidity-402e)
+- [Dev.to/JS] [SolidJs the new React, but better 😎](https://dev.to/lukyhenson/solidjs-the-new-react-but-better-2ci)
+- [Dev.to/JS] [SolidJs o novo React, porem melhor 😎](https://dev.to/lukyhenson/solidjs-o-novo-react-porem-melhor-1ppa)
 - [Dev.to/JS] [80 % of freshers fail to answers these javascript snippets 🔥](https://dev.to/braincuber_technologies/80-of-freshers-fail-to-answers-these-javascript-snippets-4cam)
 - [Dev.to/JS] [JavaScript Basic Fundamentals asked In Interviews](https://dev.to/itishprasad30/javascript-basic-fundamentals-asked-in-interviews-4nak)
 - [Dev.to/JS] [goodbye try/catch hello error-return](https://dev.to/qpwo/goodbye-trycatch-hello-error-return-5hcp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Quick Universe Snippet](https://dev.to/krowemoh/a-quick-universe-snippet-5g2n)
 - [Dev.to/JS] [Basics of ExpressJS: Todo List Tutorial](https://dev.to/alexmercedcoder/basics-of-expressjs-todo-list-tutorial-1a4d)
 - [Dev.to/JS] [#41 - Split Strings Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/41-split-strings-codewars-kata-6-kyu-llp)
-- [Dev.to/JS] [The Making of Ghibli Watch](https://dev.to/dawnteigh/the-making-of-ghibli-watch-336l)
-- [Dev.to/JS] [Instant Knockout - Weight Loss Reviews, Benefits, Results or Where to Buy?](https://dev.to/instantknockou1/instant-knockout-weight-loss-reviews-benefits-results-or-where-to-buy-3jka)
-- [Dev.to/JS] [Creating A Fixed Place Spatial Environment for Video Conferencing](https://dev.to/dolbyio/creating-a-fixed-place-spatial-environment-for-video-conferencing-1623)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
