@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [80 % of freshers fail to answers these javascript snippets 🔥](https://dev.to/braincuber_technologies/80-of-freshers-fail-to-answers-these-javascript-snippets-4cam)
+- [Dev.to/JS] [JavaScript Basic Fundamentals asked In Interviews](https://dev.to/itishprasad30/javascript-basic-fundamentals-asked-in-interviews-4nak)
 - [Dev.to/JS] [goodbye try/catch hello error-return](https://dev.to/qpwo/goodbye-trycatch-hello-error-return-5hcp)
 - [Dev.to/JS] [How to manage SEO on your NextJS website with Strapi](https://dev.to/ayo_tech/how-to-manage-seo-on-your-nextjs-website-with-strapi-3h27)
 - [Dev.to/JS] [Open Source Adventures: Episode 33: Using D3 to figure out when Russia will lose its last tanks](https://dev.to/taw/open-source-adventures-episode-33-using-d3-to-figure-out-when-russia-will-lose-its-last-tanks-4k1j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Making of Ghibli Watch](https://dev.to/dawnteigh/the-making-of-ghibli-watch-336l)
 - [Dev.to/JS] [Instant Knockout - Weight Loss Reviews, Benefits, Results or Where to Buy?](https://dev.to/instantknockou1/instant-knockout-weight-loss-reviews-benefits-results-or-where-to-buy-3jka)
 - [Dev.to/JS] [Creating A Fixed Place Spatial Environment for Video Conferencing](https://dev.to/dolbyio/creating-a-fixed-place-spatial-environment-for-video-conferencing-1623)
-- [Dev.to/JS] [Resumo da 5º semana de Jornada DEV 5/52](https://dev.to/graciellesampaio/resumo-da-5o-semana-de-jornada-dev-552-3m0a)
-- [Dev.to/JS] [Open Source Adventures: Episode 32: Better Russian Tank Losses Graphs with D3 and Svelte](https://dev.to/taw/open-source-adventures-episode-32-better-russian-tank-losses-graphs-with-d3-and-svelte-mci)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
