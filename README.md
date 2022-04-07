@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Carb Burn - Blood Sugar Supplement, Reviews, Shark Tank Scam Or Benefits?](https://dev.to/carbburnfact/carb-burn-blood-sugar-supplement-reviews-shark-tank-scam-or-benefits-2mj6)
+- [Dev.to/JS] [visitor-counter: tracking the amount of visitors on your website](https://dev.to/bacloud22/visitor-counter-tracking-the-amount-of-visitors-on-your-website-1260)
+- [Dev.to/JS] [Blockchain Database: Meet BigchainDB: A Complete Guide](https://dev.to/jsstackdevelopers/blockchain-database-meet-bigchaindb-a-complete-guide-5fbc)
+- [Dev.to/JS] [Adding voice assistant to React Apps using Alan AI](https://dev.to/aniket762/adding-voice-assistant-to-react-apps-using-alan-ai-4071)
 - [Dev.to/JS] [HOW TO CREATE A CONTRACT IN SOLIDITY?](https://dev.to/tarungurang/how-to-create-a-contract-in-solidity-402e)
 - [Dev.to/JS] [SolidJs the new React, but better 😎](https://dev.to/lukyhenson/solidjs-the-new-react-but-better-2ci)
 - [Dev.to/JS] [SolidJs o novo React, porem melhor 😎](https://dev.to/lukyhenson/solidjs-o-novo-react-porem-melhor-1ppa)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [goodbye try/catch hello error-return](https://dev.to/qpwo/goodbye-trycatch-hello-error-return-5hcp)
 - [Dev.to/JS] [How to manage SEO on your NextJS website with Strapi](https://dev.to/ayo_tech/how-to-manage-seo-on-your-nextjs-website-with-strapi-3h27)
 - [Dev.to/JS] [Open Source Adventures: Episode 33: Using D3 to figure out when Russia will lose its last tanks](https://dev.to/taw/open-source-adventures-episode-33-using-d3-to-figure-out-when-russia-will-lose-its-last-tanks-4k1j)
-- [Dev.to/JS] [Coding course for absolute beginners &lpar;video&rpar;](https://dev.to/codeguppy/coding-course-for-absolute-beginners-video-1ggd)
-- [Dev.to/JS] [A Quick Universe Snippet](https://dev.to/krowemoh/a-quick-universe-snippet-5g2n)
-- [Dev.to/JS] [Basics of ExpressJS: Todo List Tutorial](https://dev.to/alexmercedcoder/basics-of-expressjs-todo-list-tutorial-1a4d)
-- [Dev.to/JS] [#41 - Split Strings Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/41-split-strings-codewars-kata-6-kyu-llp)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
