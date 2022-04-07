@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Telling Kids to &#39;Be Careful&#39; &lpar;and What to Say Instead&rpar;](https://lifehacker.com/stop-telling-kids-to-be-careful-and-what-to-say-instea-1848762621)
+- [Dev.to/JS] [Recherche d&#39;un DEV](https://dev.to/doua123/recherche-dun-dev-5bfe)
+- [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-your-federal-tax-refund-1848762972)
+- [Dev.to/JS] [Event loop](https://dev.to/yo08315171/event-loop-439g)
+- [Dev.to/JS] [Simulating a 7-segment display &lpar;pt1&rpar; - A little computer science for the inquisitive developer](https://dev.to/tracygjg/simulating-a-7-segment-display-pt1-a-little-computer-science-for-the-inquisitive-developer-21gk)
+- [Lifehacker] [8 of the Best Hidden Features in Google Docs](https://lifehacker.com/8-of-the-best-hidden-features-in-google-docs-1848756006)
 - [Dev.to/JS] [State Design Pattern in JavaScript](https://dev.to/jsmanifest/state-design-pattern-in-javascript-32o9)
 - [Lifehacker] [The Smartest Way to Use Google Maps When You&#39;re Walking Alone](https://lifehacker.com/the-smartest-way-to-use-google-maps-when-youre-walking-1848762666)
 - [Dev.to/JS] [Media Server independent WebRTC player](https://dev.to/video/media-server-independent-webrtc-player-1gn3)
@@ -35,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [404 Error Page HTML Templates Design](https://dev.to/iamarpain/404-error-page-html-templates-design-185p)
 - [Dev.to/JS] [Adding additional actions to Trix](https://dev.to/paramagicdev/adding-additional-actions-to-trix-lhg)
 - [Lifehacker] [Finally, a Universal Watchlist for All Your Streaming Services](https://lifehacker.com/finally-a-universal-watchlist-for-all-your-streaming-s-1848756968)
-- [Dev.to/JS] [Cyber style react library](https://dev.to/leoshenhh/cyber-style-react-library-1np6)
-- [Dev.to/JS] [Side Projects: React Digital Display - Part 2](https://dev.to/kamil7x/side-projects-react-digital-display-part-2-2j11)
-- [Dev.to/JS] [Building a visx Dashboard with Cube](https://dev.to/cubejs/building-a-visx-dashboard-with-cube-4mdj)
 - [Lifehacker] [The Difference Between National Days, Federal Holidays, and Utter BS](https://lifehacker.com/the-difference-between-national-days-federal-holidays-1848760846)
 - [Lifehacker] [Your Baking Needs More Jam, Actually](https://lifehacker.com/your-baking-needs-more-jam-actually-1848760165)
 - [Lifehacker] [Can You Really Stretch Out Tight Jeans by Showering in Them?](https://lifehacker.com/can-you-really-stretch-out-tight-jeans-by-showering-in-1848759407)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know About Picking the Perfect Dress Shirt](https://lifehacker.com/everything-you-need-to-know-about-picking-the-perfect-d-1848750711)
 - [Lifehacker] [8 Weird, Extremely Specific Life Hacks You Might Need Someday](https://lifehacker.com/8-weird-extremely-specific-life-hacks-you-might-need-s-1848755203)
 - [Lifehacker] [How to Split Rent When Some Rooms Are Better Than Others](https://lifehacker.com/how-to-split-rent-when-some-rooms-are-better-than-other-1848753817)
-- [Lifehacker] [Your Grilling Thermometer Needs a Potato](https://lifehacker.com/your-gilling-thermometer-needs-a-potato-1848753681)
-- [Lifehacker] [15 of the Best Nudist Beaches to Flaunt It This Year](https://lifehacker.com/15-of-the-best-nudist-beaches-to-flaunt-it-this-year-1848714163)
-- [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
