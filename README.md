@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Migrating your React app from Webpack to Vite](https://dev.to/wojtekmaj/migrating-your-react-app-from-webpack-to-vite-inp)
 - [Dev.to/JS] [Transforming SVG files into React Components 🖼️ -&gt;🧩](https://dev.to/animous/transforming-svg-files-to-react-components-2aan)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 - [Dev.to/JS] [how on earth does this work](https://dev.to/pandademic/how-on-earth-does-this-work-b1j)
@@ -46,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of the Best Hidden Features in Google Docs](https://lifehacker.com/8-of-the-best-hidden-features-in-google-docs-1848756006)
 - [Dev.to/JS] [State Design Pattern in JavaScript](https://dev.to/jsmanifest/state-design-pattern-in-javascript-32o9)
 - [Lifehacker] [The Smartest Way to Use Google Maps When You&#39;re Walking Alone](https://lifehacker.com/the-smartest-way-to-use-google-maps-when-youre-walking-1848762666)
-- [Dev.to/JS] [Media Server independent WebRTC player](https://dev.to/video/media-server-independent-webrtc-player-1gn3)
 - [Lifehacker] [Creative Uses for Peeps &lpar;the Very Best Candy of Them All&rpar;](https://lifehacker.com/creative-uses-for-peeps-the-very-best-candy-of-them-al-1848756754)
 - [Lifehacker] [Finally, a Universal Watchlist for All Your Streaming Services](https://lifehacker.com/finally-a-universal-watchlist-for-all-your-streaming-s-1848756968)
 - [Lifehacker] [The Difference Between National Days, Federal Holidays, and Utter BS](https://lifehacker.com/the-difference-between-national-days-federal-holidays-1848760846)
