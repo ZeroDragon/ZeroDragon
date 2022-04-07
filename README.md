@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to manage SEO on your NextJS website with Strapi](https://dev.to/ayo_tech/how-to-manage-seo-on-your-nextjs-website-with-strapi-3h27)
+- [Dev.to/JS] [Open Source Adventures: Episode 33: Using D3 to figure out when Russia will lose its last tanks](https://dev.to/taw/open-source-adventures-episode-33-using-d3-to-figure-out-when-russia-will-lose-its-last-tanks-4k1j)
 - [Dev.to/JS] [Coding course for absolute beginners &lpar;video&rpar;](https://dev.to/codeguppy/coding-course-for-absolute-beginners-video-1ggd)
 - [Dev.to/JS] [A Quick Universe Snippet](https://dev.to/krowemoh/a-quick-universe-snippet-5g2n)
 - [Dev.to/JS] [Basics of ExpressJS: Todo List Tutorial](https://dev.to/alexmercedcoder/basics-of-expressjs-todo-list-tutorial-1a4d)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Resumo da 5º semana de Jornada DEV 5/52](https://dev.to/graciellesampaio/resumo-da-5o-semana-de-jornada-dev-552-3m0a)
 - [Dev.to/JS] [Open Source Adventures: Episode 32: Better Russian Tank Losses Graphs with D3 and Svelte](https://dev.to/taw/open-source-adventures-episode-32-better-russian-tank-losses-graphs-with-d3-and-svelte-mci)
 - [Dev.to/JS] [Need help with project](https://dev.to/taepal467/need-help-with-project-10ce)
-- [Dev.to/JS] [The Big Server Farm in the Sky](https://dev.to/zacharyp/the-big-server-farm-in-the-sky-b5c)
-- [Dev.to/JS] [[Deepgram x DEV Hackathon Submission Post Placeholder Title]](https://dev.to/banging12/deepgram-x-dev-hackathon-submission-post-placeholder-title-3di1)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
