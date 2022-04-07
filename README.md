@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [State Design Pattern in JavaScript](https://dev.to/jsmanifest/state-design-pattern-in-javascript-32o9)
+- [Lifehacker] [The Smartest Way to Use Google Maps When You&#39;re Walking Alone](https://lifehacker.com/the-smartest-way-to-use-google-maps-when-youre-walking-1848762666)
+- [Dev.to/JS] [Media Server independent WebRTC player](https://dev.to/video/media-server-independent-webrtc-player-1gn3)
+- [Dev.to/JS] [Une musique de jeu évolutive grâce à JavaScript](https://dev.to/bcalou/une-musique-de-jeu-evolutive-grace-a-javascript-4568)
+- [Dev.to/JS] [ORM - Interface com o Banco de Dados](https://dev.to/gabrielhsilvestre/orm-interface-com-o-banco-de-dados-3am1)
+- [Dev.to/JS] [Different ways of storing data using NodeJS and KnexJS](https://dev.to/karmablackshaw/different-ways-of-storing-data-using-nodejs-and-knexjs-4723)
 - [Lifehacker] [Creative Uses for Peeps &lpar;the Very Best Candy of Them All&rpar;](https://lifehacker.com/creative-uses-for-peeps-the-very-best-candy-of-them-al-1848756754)
 - [Dev.to/JS] [I built a DEV.to clone from scratch &lpar;including the API!&rpar; 👨‍💻🥳](https://dev.to/eknoor4197/i-built-a-devto-clone-from-scratch-including-the-api-56k9)
 - [Dev.to/JS] [Intl.NumberFormat playground](https://dev.to/ekeijl/intlnumberformat-playground-23gh)
@@ -32,14 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cyber style react library](https://dev.to/leoshenhh/cyber-style-react-library-1np6)
 - [Dev.to/JS] [Side Projects: React Digital Display - Part 2](https://dev.to/kamil7x/side-projects-react-digital-display-part-2-2j11)
 - [Dev.to/JS] [Building a visx Dashboard with Cube](https://dev.to/cubejs/building-a-visx-dashboard-with-cube-4mdj)
-- [Dev.to/JS] [Day 3: Fighting jQuery](https://dev.to/kemystra/day-3-fighting-jquery-4nf1)
 - [Lifehacker] [The Difference Between National Days, Federal Holidays, and Utter BS](https://lifehacker.com/the-difference-between-national-days-federal-holidays-1848760846)
-- [Dev.to/JS] [Paracetamol.js💊| #95: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-95-explica-este-codigo-javascript-3npm)
-- [Dev.to/JS] [Useful GitHub repos](https://dev.to/codacy/useful-github-repos-k3k)
 - [Lifehacker] [Your Baking Needs More Jam, Actually](https://lifehacker.com/your-baking-needs-more-jam-actually-1848760165)
-- [Dev.to/JS] [Why I’m moving from Jest to Vitest](https://dev.to/rstacruz/why-im-moving-from-jest-to-vitest-27d7)
 - [Lifehacker] [Can You Really Stretch Out Tight Jeans by Showering in Them?](https://lifehacker.com/can-you-really-stretch-out-tight-jeans-by-showering-in-1848759407)
-- [Dev.to/JS] [Métodos HTTP da visão de FrontEnd](https://dev.to/marcobrunodev/metodos-http-da-visao-de-frontend-56h4)
 - [Lifehacker] [The Difference Between the Dark Web and the Deep Web](https://lifehacker.com/the-difference-between-the-dark-web-and-the-deep-web-1848759230)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Grilling Thermometer Needs a Potato](https://lifehacker.com/your-gilling-thermometer-needs-a-potato-1848753681)
 - [Lifehacker] [15 of the Best Nudist Beaches to Flaunt It This Year](https://lifehacker.com/15-of-the-best-nudist-beaches-to-flaunt-it-this-year-1848714163)
 - [Lifehacker] [Relive the &#39;90s With These Web-Based Mac Emulators](https://lifehacker.com/relive-the-90s-with-these-web-based-mac-emulators-1848752013)
-- [Lifehacker] [How to Do Front Squats Without Hating Them](https://lifehacker.com/how-to-do-front-squats-without-hating-them-1848753460)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
