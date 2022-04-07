@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Big Server Farm in the Sky](https://dev.to/zacharyp/the-big-server-farm-in-the-sky-b5c)
+- [Dev.to/JS] [[Deepgram x DEV Hackathon Submission Post Placeholder Title]](https://dev.to/banging12/deepgram-x-dev-hackathon-submission-post-placeholder-title-3di1)
+- [Dev.to/JS] [How to Build Scalable Architecture for your Next.js Project](https://dev.to/alexeagleson/how-to-build-scalable-architecture-for-your-nextjs-project-2pb7)
+- [Dev.to/JS] [Some JavaScript array methods and how to use them](https://dev.to/emmanuelthecoder/some-javascript-array-methods-and-how-to-use-them-7ko)
 - [Dev.to/JS] [Beginning New Beginnings In Tech](https://dev.to/carsonlosch/beginning-new-beginnings-in-tech-4lep)
 - [Dev.to/JS] [How the TypeScript Required Type Works](https://dev.to/smpnjn/how-the-typescript-required-type-works-2nlc)
 - [Dev.to/JS] [How the TypeScript Partial Type Works](https://dev.to/smpnjn/how-the-typescript-partial-type-works-2klj)
@@ -34,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
-- [Dev.to/JS] [🧿 Turn React into SolidJS, update on demand, no more re-render](https://dev.to/nanxiaobei/change-react-to-solidjs-update-on-demand-no-more-re-render-3pga)
 - [Lifehacker] [How to Tell If You Have Unresolved Trust Issues &lpar;and Overcome Them&rpar;](https://lifehacker.com/how-to-tell-if-you-have-unresolved-trust-issues-and-ov-1848757512)
-- [Dev.to/JS] [Wrap them all](https://dev.to/javar/wrap-them-all-odo)
 - [Lifehacker] [8 Ways You Can Make the Windows 11 Taskbar More Useful](https://lifehacker.com/8-ways-you-can-make-the-windows-11-taskbar-more-useful-1848744540)
-- [Dev.to/JS] [HttpParams Builder for Angular](https://dev.to/felipebelluco/httpparams-builder-for-angular-44g5)
-- [Dev.to/JS] [semver: v1 vs v1000](https://dev.to/gajus/semver-v1-vs-v1000-1i1)
 - [Lifehacker] [Admit It—Not Every Sandwich Needs Cheese](https://lifehacker.com/admit-it-not-every-sandwich-needs-cheese-1848757665)
 - [Lifehacker] [Why You Should Enable Airplane Mode on Your Nintendo Switch](https://lifehacker.com/why-you-should-enable-airplane-mode-on-your-nintendo-sw-1848756672)
 - [Lifehacker] [How to Pick the Right Wood for Your Backyard Project](https://lifehacker.com/how-to-pick-the-right-wood-for-your-backyard-project-1848756758)
