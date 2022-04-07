@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
+- [Dev.to/JS] [The most reliable color personality test with 99% accuracy](https://dev.to/jenniferhansley/the-most-reliable-color-personality-test-with-99-accuracy-1k5j)
+- [Lifehacker] [How to Remove Ketchup and Mustard Stains From Your Clothes](https://lifehacker.com/how-to-remove-ketchup-and-mustard-stains-from-your-clot-1848764558)
 - [Dev.to/JS] [Open Source Adventures: Episode 34: Making Last Russian Tank Predictor mobile friendly](https://dev.to/taw/open-source-adventures-episode-34-making-last-russian-tank-predictor-mobile-friendly-4bb2)
 - [Lifehacker] [Change These Settings to Make the Brave Browser Even More Private](https://lifehacker.com/change-these-settings-to-make-the-brave-browser-even-mo-1848763348)
 - [Lifehacker] [How to Make Your Cordless Vacuum Battery Last Longer](https://lifehacker.com/how-to-make-your-cordless-vacuum-battery-last-longer-1848762500)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ORM - Interface com o Banco de Dados](https://dev.to/gabrielhsilvestre/orm-interface-com-o-banco-de-dados-3am1)
 - [Dev.to/JS] [Different ways of storing data using NodeJS and KnexJS](https://dev.to/karmablackshaw/different-ways-of-storing-data-using-nodejs-and-knexjs-4723)
 - [Lifehacker] [Creative Uses for Peeps &lpar;the Very Best Candy of Them All&rpar;](https://lifehacker.com/creative-uses-for-peeps-the-very-best-candy-of-them-al-1848756754)
-- [Dev.to/JS] [I built a DEV.to clone from scratch &lpar;including the API!&rpar; 👨‍💻🥳](https://dev.to/eknoor4197/i-built-a-devto-clone-from-scratch-including-the-api-56k9)
 - [Lifehacker] [Finally, a Universal Watchlist for All Your Streaming Services](https://lifehacker.com/finally-a-universal-watchlist-for-all-your-streaming-s-1848756968)
 - [Lifehacker] [The Difference Between National Days, Federal Holidays, and Utter BS](https://lifehacker.com/the-difference-between-national-days-federal-holidays-1848760846)
 - [Lifehacker] [Your Baking Needs More Jam, Actually](https://lifehacker.com/your-baking-needs-more-jam-actually-1848760165)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Enable Airplane Mode on Your Nintendo Switch](https://lifehacker.com/why-you-should-enable-airplane-mode-on-your-nintendo-sw-1848756672)
 - [Lifehacker] [How to Pick the Right Wood for Your Backyard Project](https://lifehacker.com/how-to-pick-the-right-wood-for-your-backyard-project-1848756758)
 - [Lifehacker] [5 of the Weirdest Human Body Facts](https://lifehacker.com/5-of-the-weirdest-human-body-facts-1848757374)
-- [Lifehacker] [How to Change Your Unflattering Driver&#39;s License Photo](https://lifehacker.com/how-to-change-your-unflattering-drivers-license-photo-1848754629)
-- [Lifehacker] [The Difference Between Dish Soap, Dishwasher Detergent, and Laundry Detergent &lpar;and Why it Matters&rpar;](https://lifehacker.com/the-difference-between-dish-soap-dishwasher-detergent-1848753401)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
