@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding course for absolute beginners &lpar;video&rpar;](https://dev.to/codeguppy/coding-course-for-absolute-beginners-video-1ggd)
+- [Dev.to/JS] [A Quick Universe Snippet](https://dev.to/krowemoh/a-quick-universe-snippet-5g2n)
+- [Dev.to/JS] [Basics of ExpressJS: Todo List Tutorial](https://dev.to/alexmercedcoder/basics-of-expressjs-todo-list-tutorial-1a4d)
 - [Dev.to/JS] [#41 - Split Strings Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/41-split-strings-codewars-kata-6-kyu-llp)
 - [Dev.to/JS] [The Making of Ghibli Watch](https://dev.to/dawnteigh/the-making-of-ghibli-watch-336l)
 - [Dev.to/JS] [Instant Knockout - Weight Loss Reviews, Benefits, Results or Where to Buy?](https://dev.to/instantknockou1/instant-knockout-weight-loss-reviews-benefits-results-or-where-to-buy-3jka)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Need help with project](https://dev.to/taepal467/need-help-with-project-10ce)
 - [Dev.to/JS] [The Big Server Farm in the Sky](https://dev.to/zacharyp/the-big-server-farm-in-the-sky-b5c)
 - [Dev.to/JS] [[Deepgram x DEV Hackathon Submission Post Placeholder Title]](https://dev.to/banging12/deepgram-x-dev-hackathon-submission-post-placeholder-title-3di1)
-- [Dev.to/JS] [How to Build Scalable Architecture for your Next.js Project](https://dev.to/alexeagleson/how-to-build-scalable-architecture-for-your-nextjs-project-2pb7)
-- [Dev.to/JS] [Some JavaScript array methods and how to use them](https://dev.to/emmanuelthecoder/some-javascript-array-methods-and-how-to-use-them-7ko)
-- [Dev.to/JS] [Beginning New Beginnings In Tech](https://dev.to/carsonlosch/beginning-new-beginnings-in-tech-4lep)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
