@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ever wanted to see what&#39;s your service doing?](https://dev.to/ivankalatchev/ever-wanted-to-see-whats-your-service-doing-1eka)
+- [Dev.to/JS] [Flashup, deploy your arcade today!](https://dev.to/richkurtzman/flashup-deploy-your-arcade-today-3ibm)
+- [Dev.to/JS] [Drawing parallels between audio and software engineering](https://dev.to/joki9448/drawing-parallels-between-audio-and-software-engineering-1pgc)
 - [Dev.to/JS] [JavaScript Array Methods - Slice &amp; Splice](https://dev.to/justtanwa/javascript-array-methods-slice-splice-1jb6)
 - [Dev.to/JS] [Booking List📅Tutorial Using DOM {JavaScript}](https://dev.to/hamzaelkotp/booking-listtutorial-using-dom-javascript-4cj1)
 - [Dev.to/JS] [Resolvendo os exercícios do JSchallenger &lpar;Javascript Basics - #1&rpar;](https://dev.to/ananopaisdojavascript/resolvendo-os-exercicios-do-jschallenger-javascript-basics-1-24fn)
@@ -39,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day-62 Training At Ryaz](https://dev.to/mahin651/day-62-training-at-ryaz-50ha)
 - [Dev.to/JS] [Using Pipes to transform data in Angular](https://dev.to/danywalls/using-pipes-to-transform-data-in-angular-3obi)
 - [Dev.to/JS] [LOOK AT THIS BUG I FOUND &lpar;EP 01&rpar;](https://dev.to/adedamolaxl/look-at-this-bug-i-found-ep-01-1nah)
-- [Dev.to/JS] [console.log 2 clipboard](https://dev.to/dirkecker/consolelog-2-clipboard-2p1k)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Lifehacker] [The One Extra Thing You Should Always Buy From McDonald’s](https://lifehacker.com/the-one-extra-thing-you-should-always-buy-from-mcdonald-1848765527)
-- [Dev.to/JS] [JavaScript closure in 2 minutes..](https://dev.to/muhammad_asif/javascript-closure-in-2-minutes-2346)
-- [Dev.to/JS] [GitHub Action You Need to Publish VS Code Extensions](https://dev.to/sourishkrout/the-github-action-you-need-to-publish-vs-code-extensions-1n8)
 - [Lifehacker] [How to Restore Your Old Deck Without Going Broke](https://lifehacker.com/how-to-restore-your-old-deck-without-going-broke-1848764994)
 - [Lifehacker] [How Many Calories Do You Actually Burn During Sex?](https://lifehacker.com/how-many-calories-do-you-actually-burn-during-sex-1848764963)
 - [Lifehacker] [Why You Should Buy the Dumbest TV You Can Find](https://lifehacker.com/why-you-should-buy-the-dumbest-tv-you-can-find-1848768646)
