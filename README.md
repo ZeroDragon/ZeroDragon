@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automate a weekly new Twitter Followers Shoutout with Pipedream](https://dev.to/pipedream_staff/automate-a-weekly-new-twitter-followers-shoutout-with-pipedream-28d9)
+- [Dev.to/JS] [DSA with JavaScript Series](https://dev.to/avinashvagh/dsa-with-javascript-series-12ij)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;The Ick&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-t-1848767322)
+- [Dev.to/JS] [Day 4: Speedrunning jQuery in 1 hour](https://dev.to/kemystra/day-4-speedrunning-jquery-in-1-hour-2n8j)
+- [Dev.to/JS] [Color Picker](https://dev.to/vladimirkheifets/color-picker-2gjc)
+- [Dev.to/JS] [How To Use Strings In JavaScript With Selenium WebDriver?](https://dev.to/haritalt/how-to-use-strings-in-javascript-with-selenium-webdriver-34pi)
+- [Lifehacker] [This Is the ‘Ideal’ Amount of Time to Spend in the Shower](https://lifehacker.com/this-is-the-ideal-amount-of-time-to-spend-in-the-show-1848765787)
 - [Dev.to/JS] [svelte-i18next](https://dev.to/nishugoel/svelte-i18next-1108)
 - [Dev.to/JS] [What&#39;s new in Nx 13.10?](https://dev.to/nx/whats-new-in-nx-1310-5126)
 - [Lifehacker] [10 Non-Alcoholic Beers That Are Actually Worth Drinking](https://lifehacker.com/10-non-alcoholic-beers-that-are-actually-worth-drinking-1848764117)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Surprisingly Practical Ways to Use Dental Floss Around the House](https://lifehacker.com/15-surprisingly-practical-ways-to-use-dental-floss-arou-1848745159)
 - [Dev.to/JS] [Hugo vs Nuxt.js - A Blog-Off](https://dev.to/rjzauner/hugo-vs-nuxtjs-a-blog-off-390)
 - [Dev.to/JS] [React, Vue and Svelte: Comparing Checkbox Binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-checkbox-binding-58fc)
-- [Dev.to/JS] [How to manage data in localStorage of web-browsers? Explain with the JavaScript, React JS.](https://dev.to/kamruldev/how-to-manage-data-in-localstorage-of-web-browsers-explain-with-the-javascript-react-js-e5i)
-- [Dev.to/JS] [Nursing essay service](https://dev.to/hansenly/nursing-essay-service-1j2p)
-- [Dev.to/JS] [vRO Bullets](https://dev.to/imtrinity94/vro-bullets-m59)
-- [Dev.to/JS] [Add a headless CMS to React in 5 minutes](https://dev.to/storyblok/add-a-headless-cms-to-react-in-5-minutes-2355)
-- [Dev.to/JS] [Javascript puzzle - seal the secret](https://dev.to/jankapunkt/javascript-puzzle-seal-the-secret-3dpc)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between the Dark Web and the Deep Web](https://lifehacker.com/the-difference-between-the-dark-web-and-the-deep-web-1848759230)
 - [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
-- [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
-- [Lifehacker] [How to Tell If You Have Unresolved Trust Issues &lpar;and Overcome Them&rpar;](https://lifehacker.com/how-to-tell-if-you-have-unresolved-trust-issues-and-ov-1848757512)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
