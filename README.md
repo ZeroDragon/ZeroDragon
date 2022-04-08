@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Transaction without wallet provider](https://dev.to/daburuu/transaction-without-wallet-provider-5h7d)
+- [Dev.to/JS] [Voice assistant that can be taught how to swear &lpar;Part 1&rpar;](https://dev.to/flatorez/voice-assistant-that-can-be-taught-how-to-swear-part-1-kjj)
+- [Dev.to/JS] [How to cancel a setTimeout in JavaScript](https://dev.to/dillionmegida/how-to-cancel-a-settimeout-in-javascript-l2p)
+- [Dev.to/JS] [Building a business from scratch - day 17](https://dev.to/twankrui/building-a-business-from-scratch-day-17-4da7)
 - [Dev.to/JS] [Cursed detector - DeepGram](https://dev.to/seek4samurai/cursed-detector-deepgram-50nf)
 - [Dev.to/JS] [Advanced Appetite Reviews &lpar;Canada Updated 2022&rpar; – Are Pills Scam Or What?](https://dev.to/advancedappeget/advanced-appetite-reviews-canada-updated-2022-are-pills-scam-or-what-1c4c)
 - [Dev.to/JS] [Buenas prácticas con Angular Testing Library](https://dev.to/danyparedes/buenas-practicas-con-angular-testing-library-59lp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use docker to run a node js application](https://dev.to/ndrohith/how-to-use-docker-to-run-a-node-js-application-2l63)
 - [Dev.to/JS] [N Level Form Array with Dynamically Validation in Angular](https://dev.to/samarpaninfotech/n-level-form-array-with-validation-dynamically-in-angular-335a)
 - [Dev.to/JS] [LeetCode 26: Remove Duplicates from Sorted Array](https://dev.to/nathankurz91/leetcode-26-remove-duplicates-from-sorted-array-2o5e)
-- [Dev.to/JS] [A Vue Cheatsheet](https://dev.to/krowemoh/a-vue-cheatsheet-1bih)
-- [Dev.to/JS] [I have created a Email Builder in React.js that needs to convert as plugin or library like stripo or unlayer](https://dev.to/raghucherukurii/i-have-created-a-email-builder-in-reactjs-that-needs-to-convert-as-plugin-or-library-like-stripo-or-unlayer-4a2i)
-- [Dev.to/JS] [Paracetamol.js💊| #96: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-96-explica-este-codigo-javascript-5040)
-- [Dev.to/JS] [portfolio template &lpar;source code&rpar; Html , Css](https://dev.to/kavehsabouri/portfolio-template-source-code-html-css-121p)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
