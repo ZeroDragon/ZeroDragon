@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React, Vue and Svelte: Comparing Checkbox Binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-checkbox-binding-58fc)
+- [Dev.to/JS] [How to manage data in localStorage of web-browsers? Explain with the JavaScript, React JS.](https://dev.to/kamruldev/how-to-manage-data-in-localstorage-of-web-browsers-explain-with-the-javascript-react-js-e5i)
+- [Dev.to/JS] [Nursing essay service](https://dev.to/hansenly/nursing-essay-service-1j2p)
 - [Dev.to/JS] [vRO Bullets](https://dev.to/imtrinity94/vro-bullets-m59)
 - [Dev.to/JS] [Add a headless CMS to React in 5 minutes](https://dev.to/storyblok/add-a-headless-cms-to-react-in-5-minutes-2355)
 - [Dev.to/JS] [Javascript puzzle - seal the secret](https://dev.to/jankapunkt/javascript-puzzle-seal-the-secret-3dpc)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Spreadsheets in Healthcare: Relevant Examples and Their Advantages](https://dev.to/plazarev/using-spreadsheets-in-healthcare-relevant-examples-and-their-advantages-1932)
 - [Dev.to/JS] [DevTips Daily Update 08/04/22](https://dev.to/codebubb/devtips-daily-update-080422-3aoa)
 - [Dev.to/JS] [Voice assistant that can be taught how to swear &lpar;Part 2&rpar;](https://dev.to/flatorez/voice-assistant-that-can-be-taught-how-to-swear-part-2-21h5)
-- [Dev.to/JS] [Transaction without wallet provider](https://dev.to/daburuu/transaction-without-wallet-provider-5h7d)
-- [Dev.to/JS] [Voice assistant that can be taught how to swear &lpar;Part 1&rpar;](https://dev.to/flatorez/voice-assistant-that-can-be-taught-how-to-swear-part-1-kjj)
-- [Dev.to/JS] [How to cancel a setTimeout in JavaScript](https://dev.to/dillionmegida/how-to-cancel-a-settimeout-in-javascript-l2p)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
