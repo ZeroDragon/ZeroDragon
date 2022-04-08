@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to send a email using Sendgrid and Node.js ?](https://dev.to/imkarthikeyan/how-to-send-a-email-using-sendgrid-and-nodejs--2l39)
+- [Lifehacker] [Your Apple Watch Just Needs a New Battery](https://lifehacker.com/your-apple-watch-just-needs-a-new-battery-1848769007)
 - [Lifehacker] [This Bot Can Tell You How Good You Really Are at Wordle](https://lifehacker.com/this-bot-can-tell-you-how-good-you-really-are-at-wordle-1848769075)
 - [Dev.to/JS] [Day-62 Training At Ryaz](https://dev.to/mahin651/day-62-training-at-ryaz-50ha)
 - [Dev.to/JS] [Using Pipes to transform data in Angular](https://dev.to/danywalls/using-pipes-to-transform-data-in-angular-3obi)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ORM - Associations](https://dev.to/gabrielhsilvestre/orm-associations-1oe4)
 - [Dev.to/JS] [:empty Selector In CSS](https://dev.to/shamgurav96/empty-selector-in-css-2pbo)
 - [Lifehacker] [Why You Should Buy the Dumbest TV You Can Find](https://lifehacker.com/why-you-should-buy-the-dumbest-tv-you-can-find-1848768646)
-- [Dev.to/JS] [Automate a weekly new Twitter Followers Shoutout with Pipedream](https://dev.to/pipedream_staff/automate-a-weekly-new-twitter-followers-shoutout-with-pipedream-28d9)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;The Ick&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-t-1848767322)
 - [Lifehacker] [This Is the ‘Ideal’ Amount of Time to Spend in the Shower](https://lifehacker.com/this-is-the-ideal-amount-of-time-to-spend-in-the-show-1848765787)
 - [Lifehacker] [10 Non-Alcoholic Beers That Are Actually Worth Drinking](https://lifehacker.com/10-non-alcoholic-beers-that-are-actually-worth-drinking-1848764117)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Smartest Way to Use Google Maps When You&#39;re Walking Alone](https://lifehacker.com/the-smartest-way-to-use-google-maps-when-youre-walking-1848762666)
 - [Lifehacker] [Creative Uses for Peeps &lpar;the Very Best Candy of Them All&rpar;](https://lifehacker.com/creative-uses-for-peeps-the-very-best-candy-of-them-al-1848756754)
 - [Lifehacker] [Finally, a Universal Watchlist for All Your Streaming Services](https://lifehacker.com/finally-a-universal-watchlist-for-all-your-streaming-s-1848756968)
-- [Lifehacker] [The Difference Between National Days, Federal Holidays, and Utter BS](https://lifehacker.com/the-difference-between-national-days-federal-holidays-1848760846)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
