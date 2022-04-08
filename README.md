@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I have created a Email Builder in React.js that needs to convert as plugin or library like stripo or unlayer](https://dev.to/raghucherukurii/i-have-created-a-email-builder-in-reactjs-that-needs-to-convert-as-plugin-or-library-like-stripo-or-unlayer-4a2i)
+- [Dev.to/JS] [Paracetamol.js💊| #96: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-96-explica-este-codigo-javascript-5040)
 - [Dev.to/JS] [portfolio template &lpar;source code&rpar; Html , Css](https://dev.to/kavehsabouri/portfolio-template-source-code-html-css-121p)
 - [Dev.to/JS] [Menyelesaikan soal &quot;Solve Me First&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-solve-me-first-di-hackerrank-31fi)
 - [Dev.to/JS] [Um pouco sobre meu primeiro livro na área de tecnologia](https://dev.to/bendevoficial/um-pouco-sobre-meu-primeiro-livro-na-area-de-tecnologia-1nci)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Pens and Projects on CodePen &lpar;#2&rpar;](https://dev.to/md3bm/best-pens-and-projects-on-codepen-2-4p2g)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
-- [Dev.to/JS] [The most reliable color personality test with 99% accuracy](https://dev.to/jenniferhansley/the-most-reliable-color-personality-test-with-99-accuracy-1k5j)
 - [Lifehacker] [How to Remove Ketchup and Mustard Stains From Your Clothes](https://lifehacker.com/how-to-remove-ketchup-and-mustard-stains-from-your-clot-1848764558)
-- [Dev.to/JS] [Open Source Adventures: Episode 34: Making Last Russian Tank Predictor mobile friendly](https://dev.to/taw/open-source-adventures-episode-34-making-last-russian-tank-predictor-mobile-friendly-4bb2)
 - [Lifehacker] [Change These Settings to Make the Brave Browser Even More Private](https://lifehacker.com/change-these-settings-to-make-the-brave-browser-even-mo-1848763348)
 - [Lifehacker] [How to Make Your Cordless Vacuum Battery Last Longer](https://lifehacker.com/how-to-make-your-cordless-vacuum-battery-last-longer-1848762500)
 - [Lifehacker] [When Good Samaritan Laws Can Protect You &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-good-samaritan-laws-protect-you-and-when-they-don-1848763677)
