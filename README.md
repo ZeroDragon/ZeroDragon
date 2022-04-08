@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [LeetCode 26: Remove Duplicates from Sorted Array](https://dev.to/nathankurz91/leetcode-26-remove-duplicates-from-sorted-array-2o5e)
+- [Dev.to/JS] [A Vue Cheatsheet](https://dev.to/krowemoh/a-vue-cheatsheet-1bih)
 - [Dev.to/JS] [I have created a Email Builder in React.js that needs to convert as plugin or library like stripo or unlayer](https://dev.to/raghucherukurii/i-have-created-a-email-builder-in-reactjs-that-needs-to-convert-as-plugin-or-library-like-stripo-or-unlayer-4a2i)
 - [Dev.to/JS] [Paracetamol.js💊| #96: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-96-explica-este-codigo-javascript-5040)
 - [Dev.to/JS] [portfolio template &lpar;source code&rpar; Html , Css](https://dev.to/kavehsabouri/portfolio-template-source-code-html-css-121p)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Migrating your React app from Webpack to Vite](https://dev.to/wojtekmaj/migrating-your-react-app-from-webpack-to-vite-inp)
 - [Dev.to/JS] [Transforming SVG files into React Components 🖼️ -&gt;🧩](https://dev.to/animous/transforming-svg-files-to-react-components-2aan)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
-- [Dev.to/JS] [how on earth does this work](https://dev.to/pandademic/how-on-earth-does-this-work-b1j)
-- [Dev.to/JS] [Best Pens and Projects on CodePen &lpar;#2&rpar;](https://dev.to/md3bm/best-pens-and-projects-on-codepen-2-4p2g)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
 - [Lifehacker] [How to Remove Ketchup and Mustard Stains From Your Clothes](https://lifehacker.com/how-to-remove-ketchup-and-mustard-stains-from-your-clot-1848764558)
