@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Menyelesaikan soal &quot;Solve Me First&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-solve-me-first-di-hackerrank-31fi)
+- [Dev.to/JS] [Um pouco sobre meu primeiro livro na área de tecnologia](https://dev.to/bendevoficial/um-pouco-sobre-meu-primeiro-livro-na-area-de-tecnologia-1nci)
+- [Dev.to/JS] [“Syrch” is a Word Search Game](https://dev.to/mbarzeev/syrch-is-a-word-search-game-4ekd)
 - [Dev.to/JS] [I’m trying to create a modal](https://dev.to/1800paid/im-trying-to-create-a-modal-5f5e)
 - [Dev.to/JS] [Web Components 101: History](https://dev.to/this-is-learning/web-components-101-history-2p24)
 - [Dev.to/JS] [Migrating your React app from Webpack to Vite](https://dev.to/wojtekmaj/migrating-your-react-app-from-webpack-to-vite-inp)
@@ -40,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When Good Samaritan Laws Can Protect You &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-good-samaritan-laws-protect-you-and-when-they-don-1848763677)
 - [Lifehacker] [What to Do When the Tips of Your Plant’s Leaves Turn Brown](https://lifehacker.com/what-to-do-when-the-tips-of-your-plant-s-leaves-turn-br-1848764030)
 - [Dev.to/JS] [Couple of custom written prototype methods for TypedArrays in JavaScript](https://dev.to/projektorius96/couple-of-custom-written-prototype-methods-for-typedarrays-in-javascript-21ff)
-- [Dev.to/JS] [Day-61 Training At Ryaz](https://dev.to/mahin651/day-61-training-at-ryaz-51fb)
 - [Lifehacker] [Stop Telling Kids to &#39;Be Careful&#39; &lpar;and What to Say Instead&rpar;](https://lifehacker.com/stop-telling-kids-to-be-careful-and-what-to-say-instea-1848762621)
-- [Dev.to/JS] [Recherche d&#39;un DEV](https://dev.to/doua123/recherche-dun-dev-5bfe)
 - [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-your-federal-tax-refund-1848762972)
-- [Dev.to/JS] [Event loop](https://dev.to/yo08315171/event-loop-439g)
 - [Lifehacker] [8 of the Best Hidden Features in Google Docs](https://lifehacker.com/8-of-the-best-hidden-features-in-google-docs-1848756006)
 - [Lifehacker] [The Smartest Way to Use Google Maps When You&#39;re Walking Alone](https://lifehacker.com/the-smartest-way-to-use-google-maps-when-youre-walking-1848762666)
 - [Lifehacker] [Creative Uses for Peeps &lpar;the Very Best Candy of Them All&rpar;](https://lifehacker.com/creative-uses-for-peeps-the-very-best-candy-of-them-al-1848756754)
