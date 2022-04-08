@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [vRO Bullets](https://dev.to/imtrinity94/vro-bullets-m59)
+- [Dev.to/JS] [Add a headless CMS to React in 5 minutes](https://dev.to/storyblok/add-a-headless-cms-to-react-in-5-minutes-2355)
+- [Dev.to/JS] [Javascript puzzle - seal the secret](https://dev.to/jankapunkt/javascript-puzzle-seal-the-secret-3dpc)
 - [Dev.to/JS] [Top Mobile Application Advancement Frameworks in 2022](https://dev.to/itsmekrishlee/top-mobile-application-advancement-frameworks-in-2022-480h)
 - [Dev.to/JS] [What do you think about my JavaScript library?&lpar;CheaterJS&rpar;](https://dev.to/freebeliever/what-do-you-think-about-my-javascript-librarycheaterjs-15in)
 - [Dev.to/JS] [testset](https://dev.to/kaldhondup/testset-4j91)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Transaction without wallet provider](https://dev.to/daburuu/transaction-without-wallet-provider-5h7d)
 - [Dev.to/JS] [Voice assistant that can be taught how to swear &lpar;Part 1&rpar;](https://dev.to/flatorez/voice-assistant-that-can-be-taught-how-to-swear-part-1-kjj)
 - [Dev.to/JS] [How to cancel a setTimeout in JavaScript](https://dev.to/dillionmegida/how-to-cancel-a-settimeout-in-javascript-l2p)
-- [Dev.to/JS] [Building a business from scratch - day 17](https://dev.to/twankrui/building-a-business-from-scratch-day-17-4da7)
-- [Dev.to/JS] [Cursed detector - DeepGram](https://dev.to/seek4samurai/cursed-detector-deepgram-50nf)
-- [Dev.to/JS] [Advanced Appetite Reviews &lpar;Canada Updated 2022&rpar; – Are Pills Scam Or What?](https://dev.to/advancedappeget/advanced-appetite-reviews-canada-updated-2022-are-pills-scam-or-what-1c4c)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
