@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Your First React Native Application with Expo](https://dev.to/codesphere/building-your-first-react-native-application-with-expo-5381)
+- [Lifehacker] [How to Prevent Your AMD Processor From Automatically Overclocking](https://lifehacker.com/how-to-prevent-your-amd-processor-from-automatically-ov-1848764075)
+- [Dev.to/JS] [How the TypeScript Extract Type Works](https://dev.to/smpnjn/how-the-typescript-extract-type-works-26b0)
+- [Dev.to/JS] [How the TypeScript Exclude Type Works](https://dev.to/smpnjn/how-the-typescript-exclude-type-works-4j1)
+- [Lifehacker] [15 Surprisingly Practical Ways to Use Dental Floss Around the House](https://lifehacker.com/15-surprisingly-practical-ways-to-use-dental-floss-arou-1848745159)
+- [Dev.to/JS] [Hugo vs Nuxt.js - A Blog-Off](https://dev.to/rjzauner/hugo-vs-nuxtjs-a-blog-off-390)
 - [Dev.to/JS] [React, Vue and Svelte: Comparing Checkbox Binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-checkbox-binding-58fc)
 - [Dev.to/JS] [How to manage data in localStorage of web-browsers? Explain with the JavaScript, React JS.](https://dev.to/kamruldev/how-to-manage-data-in-localstorage-of-web-browsers-explain-with-the-javascript-react-js-e5i)
 - [Dev.to/JS] [Nursing essay service](https://dev.to/hansenly/nursing-essay-service-1j2p)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript puzzle - seal the secret](https://dev.to/jankapunkt/javascript-puzzle-seal-the-secret-3dpc)
 - [Dev.to/JS] [Top Mobile Application Advancement Frameworks in 2022](https://dev.to/itsmekrishlee/top-mobile-application-advancement-frameworks-in-2022-480h)
 - [Dev.to/JS] [What do you think about my JavaScript library?&lpar;CheaterJS&rpar;](https://dev.to/freebeliever/what-do-you-think-about-my-javascript-librarycheaterjs-15in)
-- [Dev.to/JS] [testset](https://dev.to/kaldhondup/testset-4j91)
-- [Dev.to/JS] [Using Spreadsheets in Healthcare: Relevant Examples and Their Advantages](https://dev.to/plazarev/using-spreadsheets-in-healthcare-relevant-examples-and-their-advantages-1932)
-- [Dev.to/JS] [DevTips Daily Update 08/04/22](https://dev.to/codebubb/devtips-daily-update-080422-3aoa)
-- [Dev.to/JS] [Voice assistant that can be taught how to swear &lpar;Part 2&rpar;](https://dev.to/flatorez/voice-assistant-that-can-be-taught-how-to-swear-part-2-21h5)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
 - [Lifehacker] [How to Tell If You Have Unresolved Trust Issues &lpar;and Overcome Them&rpar;](https://lifehacker.com/how-to-tell-if-you-have-unresolved-trust-issues-and-ov-1848757512)
 - [Lifehacker] [8 Ways You Can Make the Windows 11 Taskbar More Useful](https://lifehacker.com/8-ways-you-can-make-the-windows-11-taskbar-more-useful-1848744540)
-- [Lifehacker] [Admit It—Not Every Sandwich Needs Cheese](https://lifehacker.com/admit-it-not-every-sandwich-needs-cheese-1848757665)
-- [Lifehacker] [Why You Should Enable Airplane Mode on Your Nintendo Switch](https://lifehacker.com/why-you-should-enable-airplane-mode-on-your-nintendo-sw-1848756672)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
