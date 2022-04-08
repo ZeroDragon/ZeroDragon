@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Restore Your Old Deck Without Going Broke](https://lifehacker.com/how-to-restore-your-old-deck-without-going-broke-1848764994)
+- [Dev.to/JS] [Everything I learnt building my first DApp - a frontend perspective](https://dev.to/daraolayebi/everything-ive-learnt-building-my-first-dapp-a-frontend-perspective-4in4)
+- [Dev.to/JS] [Are you suffering from JavaScript fatigue?](https://dev.to/nicozerpa/are-you-suffering-from-javascript-fatigue-f5e)
+- [Lifehacker] [How Many Calories Do You Actually Burn During Sex?](https://lifehacker.com/how-many-calories-do-you-actually-burn-during-sex-1848764963)
+- [Dev.to/JS] [ORM - Associations](https://dev.to/gabrielhsilvestre/orm-associations-1oe4)
+- [Dev.to/JS] [:empty Selector In CSS](https://dev.to/shamgurav96/empty-selector-in-css-2pbo)
+- [Lifehacker] [Why You Should Buy the Dumbest TV You Can Find](https://lifehacker.com/why-you-should-buy-the-dumbest-tv-you-can-find-1848768646)
 - [Dev.to/JS] [Automate a weekly new Twitter Followers Shoutout with Pipedream](https://dev.to/pipedream_staff/automate-a-weekly-new-twitter-followers-shoutout-with-pipedream-28d9)
 - [Dev.to/JS] [DSA with JavaScript Series](https://dev.to/avinashvagh/dsa-with-javascript-series-12ij)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;The Ick&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-t-1848767322)
@@ -35,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Non-Alcoholic Beers That Are Actually Worth Drinking](https://lifehacker.com/10-non-alcoholic-beers-that-are-actually-worth-drinking-1848764117)
 - [Dev.to/JS] [Building Your First React Native Application with Expo](https://dev.to/codesphere/building-your-first-react-native-application-with-expo-5381)
 - [Lifehacker] [How to Prevent Your AMD Processor From Automatically Overclocking](https://lifehacker.com/how-to-prevent-your-amd-processor-from-automatically-ov-1848764075)
-- [Dev.to/JS] [How the TypeScript Extract Type Works](https://dev.to/smpnjn/how-the-typescript-extract-type-works-26b0)
-- [Dev.to/JS] [How the TypeScript Exclude Type Works](https://dev.to/smpnjn/how-the-typescript-exclude-type-works-4j1)
 - [Lifehacker] [15 Surprisingly Practical Ways to Use Dental Floss Around the House](https://lifehacker.com/15-surprisingly-practical-ways-to-use-dental-floss-arou-1848745159)
-- [Dev.to/JS] [Hugo vs Nuxt.js - A Blog-Off](https://dev.to/rjzauner/hugo-vs-nuxtjs-a-blog-off-390)
-- [Dev.to/JS] [React, Vue and Svelte: Comparing Checkbox Binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-checkbox-binding-58fc)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between National Days, Federal Holidays, and Utter BS](https://lifehacker.com/the-difference-between-national-days-federal-holidays-1848760846)
 - [Lifehacker] [Your Baking Needs More Jam, Actually](https://lifehacker.com/your-baking-needs-more-jam-actually-1848760165)
 - [Lifehacker] [Can You Really Stretch Out Tight Jeans by Showering in Them?](https://lifehacker.com/can-you-really-stretch-out-tight-jeans-by-showering-in-1848759407)
-- [Lifehacker] [The Difference Between the Dark Web and the Deep Web](https://lifehacker.com/the-difference-between-the-dark-web-and-the-deep-web-1848759230)
-- [Lifehacker] [Do You Really Need to Check With a Doctor Before Starting to Exercise?](https://lifehacker.com/do-you-really-need-to-check-with-a-doctor-before-starti-1848759494)
-- [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
