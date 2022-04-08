@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [svelte-i18next](https://dev.to/nishugoel/svelte-i18next-1108)
+- [Dev.to/JS] [What&#39;s new in Nx 13.10?](https://dev.to/nx/whats-new-in-nx-1310-5126)
+- [Lifehacker] [10 Non-Alcoholic Beers That Are Actually Worth Drinking](https://lifehacker.com/10-non-alcoholic-beers-that-are-actually-worth-drinking-1848764117)
 - [Dev.to/JS] [Building Your First React Native Application with Expo](https://dev.to/codesphere/building-your-first-react-native-application-with-expo-5381)
 - [Lifehacker] [How to Prevent Your AMD Processor From Automatically Overclocking](https://lifehacker.com/how-to-prevent-your-amd-processor-from-automatically-ov-1848764075)
 - [Dev.to/JS] [How the TypeScript Extract Type Works](https://dev.to/smpnjn/how-the-typescript-extract-type-works-26b0)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [vRO Bullets](https://dev.to/imtrinity94/vro-bullets-m59)
 - [Dev.to/JS] [Add a headless CMS to React in 5 minutes](https://dev.to/storyblok/add-a-headless-cms-to-react-in-5-minutes-2355)
 - [Dev.to/JS] [Javascript puzzle - seal the secret](https://dev.to/jankapunkt/javascript-puzzle-seal-the-secret-3dpc)
-- [Dev.to/JS] [Top Mobile Application Advancement Frameworks in 2022](https://dev.to/itsmekrishlee/top-mobile-application-advancement-frameworks-in-2022-480h)
-- [Dev.to/JS] [What do you think about my JavaScript library?&lpar;CheaterJS&rpar;](https://dev.to/freebeliever/what-do-you-think-about-my-javascript-librarycheaterjs-15in)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 of the Greatest Baseball Movies for People Who Don’t Care About Baseball](https://lifehacker.com/14-of-the-greatest-baseball-movies-for-people-who-don-t-1848753971)
 - [Lifehacker] [How to Save Money at the Grocery Store When Food Costs a Fortune](https://lifehacker.com/how-to-save-money-at-the-grocery-store-when-food-costs-1848758647)
 - [Lifehacker] [How to Tell If You Have Unresolved Trust Issues &lpar;and Overcome Them&rpar;](https://lifehacker.com/how-to-tell-if-you-have-unresolved-trust-issues-and-ov-1848757512)
-- [Lifehacker] [8 Ways You Can Make the Windows 11 Taskbar More Useful](https://lifehacker.com/8-ways-you-can-make-the-windows-11-taskbar-more-useful-1848744540)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
 - [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
