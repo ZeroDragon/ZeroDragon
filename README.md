@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [portfolio template &lpar;source code&rpar; Html , Css](https://dev.to/kavehsabouri/portfolio-template-source-code-html-css-121p)
 - [Dev.to/JS] [Menyelesaikan soal &quot;Solve Me First&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-solve-me-first-di-hackerrank-31fi)
 - [Dev.to/JS] [Um pouco sobre meu primeiro livro na área de tecnologia](https://dev.to/bendevoficial/um-pouco-sobre-meu-primeiro-livro-na-area-de-tecnologia-1nci)
 - [Dev.to/JS] [“Syrch” is a Word Search Game](https://dev.to/mbarzeev/syrch-is-a-word-search-game-4ekd)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Cordless Vacuum Battery Last Longer](https://lifehacker.com/how-to-make-your-cordless-vacuum-battery-last-longer-1848762500)
 - [Lifehacker] [When Good Samaritan Laws Can Protect You &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-good-samaritan-laws-protect-you-and-when-they-don-1848763677)
 - [Lifehacker] [What to Do When the Tips of Your Plant’s Leaves Turn Brown](https://lifehacker.com/what-to-do-when-the-tips-of-your-plant-s-leaves-turn-br-1848764030)
-- [Dev.to/JS] [Couple of custom written prototype methods for TypedArrays in JavaScript](https://dev.to/projektorius96/couple-of-custom-written-prototype-methods-for-typedarrays-in-javascript-21ff)
 - [Lifehacker] [Stop Telling Kids to &#39;Be Careful&#39; &lpar;and What to Say Instead&rpar;](https://lifehacker.com/stop-telling-kids-to-be-careful-and-what-to-say-instea-1848762621)
 - [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-your-federal-tax-refund-1848762972)
 - [Lifehacker] [8 of the Best Hidden Features in Google Docs](https://lifehacker.com/8-of-the-best-hidden-features-in-google-docs-1848756006)
