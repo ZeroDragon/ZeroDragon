@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I’m trying to create a modal](https://dev.to/1800paid/im-trying-to-create-a-modal-5f5e)
+- [Dev.to/JS] [Web Components 101: History](https://dev.to/this-is-learning/web-components-101-history-2p24)
 - [Dev.to/JS] [Migrating your React app from Webpack to Vite](https://dev.to/wojtekmaj/migrating-your-react-app-from-webpack-to-vite-inp)
 - [Dev.to/JS] [Transforming SVG files into React Components 🖼️ -&gt;🧩](https://dev.to/animous/transforming-svg-files-to-react-components-2aan)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recherche d&#39;un DEV](https://dev.to/doua123/recherche-dun-dev-5bfe)
 - [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-your-federal-tax-refund-1848762972)
 - [Dev.to/JS] [Event loop](https://dev.to/yo08315171/event-loop-439g)
-- [Dev.to/JS] [Simulating a 7-segment display &lpar;pt1&rpar; - A little computer science for the inquisitive developer](https://dev.to/tracygjg/simulating-a-7-segment-display-pt1-a-little-computer-science-for-the-inquisitive-developer-21gk)
 - [Lifehacker] [8 of the Best Hidden Features in Google Docs](https://lifehacker.com/8-of-the-best-hidden-features-in-google-docs-1848756006)
-- [Dev.to/JS] [State Design Pattern in JavaScript](https://dev.to/jsmanifest/state-design-pattern-in-javascript-32o9)
 - [Lifehacker] [The Smartest Way to Use Google Maps When You&#39;re Walking Alone](https://lifehacker.com/the-smartest-way-to-use-google-maps-when-youre-walking-1848762666)
 - [Lifehacker] [Creative Uses for Peeps &lpar;the Very Best Candy of Them All&rpar;](https://lifehacker.com/creative-uses-for-peeps-the-very-best-candy-of-them-al-1848756754)
 - [Lifehacker] [Finally, a Universal Watchlist for All Your Streaming Services](https://lifehacker.com/finally-a-universal-watchlist-for-all-your-streaming-s-1848756968)
