@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Menyelesaikan soal &quot;Simple Array Sum&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-simple-array-sum-di-hackerrank-4jjh)
 - [Dev.to/JS] [Ever wanted to see what&#39;s your service doing?](https://dev.to/ivankalatchev/ever-wanted-to-see-whats-your-service-doing-1eka)
 - [Dev.to/JS] [Flashup, deploy your arcade today!](https://dev.to/richkurtzman/flashup-deploy-your-arcade-today-3ibm)
 - [Dev.to/JS] [Drawing parallels between audio and software engineering](https://dev.to/joki9448/drawing-parallels-between-audio-and-software-engineering-1pgc)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Bot Can Tell You How Good You Really Are at Wordle](https://lifehacker.com/this-bot-can-tell-you-how-good-you-really-are-at-wordle-1848769075)
 - [Dev.to/JS] [Day-62 Training At Ryaz](https://dev.to/mahin651/day-62-training-at-ryaz-50ha)
 - [Dev.to/JS] [Using Pipes to transform data in Angular](https://dev.to/danywalls/using-pipes-to-transform-data-in-angular-3obi)
-- [Dev.to/JS] [LOOK AT THIS BUG I FOUND &lpar;EP 01&rpar;](https://dev.to/adedamolaxl/look-at-this-bug-i-found-ep-01-1nah)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Lifehacker] [The One Extra Thing You Should Always Buy From McDonald’s](https://lifehacker.com/the-one-extra-thing-you-should-always-buy-from-mcdonald-1848765527)
 - [Lifehacker] [How to Restore Your Old Deck Without Going Broke](https://lifehacker.com/how-to-restore-your-old-deck-without-going-broke-1848764994)
