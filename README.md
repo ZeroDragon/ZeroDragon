@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working with Modules and Code Splitting](https://dev.to/hyperredstart/working-with-modules-and-code-splitting-1oc6)
+- [Dev.to/JS] [How to use docker to run a node js application](https://dev.to/ndrohith/how-to-use-docker-to-run-a-node-js-application-2l63)
+- [Dev.to/JS] [N Level Form Array with Dynamically Validation in Angular](https://dev.to/samarpaninfotech/n-level-form-array-with-validation-dynamically-in-angular-335a)
 - [Dev.to/JS] [LeetCode 26: Remove Duplicates from Sorted Array](https://dev.to/nathankurz91/leetcode-26-remove-duplicates-from-sorted-array-2o5e)
 - [Dev.to/JS] [A Vue Cheatsheet](https://dev.to/krowemoh/a-vue-cheatsheet-1bih)
 - [Dev.to/JS] [I have created a Email Builder in React.js that needs to convert as plugin or library like stripo or unlayer](https://dev.to/raghucherukurii/i-have-created-a-email-builder-in-reactjs-that-needs-to-convert-as-plugin-or-library-like-stripo-or-unlayer-4a2i)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Um pouco sobre meu primeiro livro na área de tecnologia](https://dev.to/bendevoficial/um-pouco-sobre-meu-primeiro-livro-na-area-de-tecnologia-1nci)
 - [Dev.to/JS] [“Syrch” is a Word Search Game](https://dev.to/mbarzeev/syrch-is-a-word-search-game-4ekd)
 - [Dev.to/JS] [I’m trying to create a modal](https://dev.to/1800paid/im-trying-to-create-a-modal-5f5e)
-- [Dev.to/JS] [Web Components 101: History](https://dev.to/this-is-learning/web-components-101-history-2p24)
-- [Dev.to/JS] [Migrating your React app from Webpack to Vite](https://dev.to/wojtekmaj/migrating-your-react-app-from-webpack-to-vite-inp)
-- [Dev.to/JS] [Transforming SVG files into React Components 🖼️ -&gt;🧩](https://dev.to/animous/transforming-svg-files-to-react-components-2aan)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
