@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
+- [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
 - [Lifehacker] [Do Opposites Attract Anymore?](https://lifehacker.com/do-opposites-attract-anymore-1848728003)
 - [Lifehacker] [How to Use SMS Automatically When RCS or iMessage Don&#39;t Work](https://lifehacker.com/how-to-use-sms-automatically-when-rcs-or-imessage-dont-1848768400)
 - [Dev.to/JS] [How to send a email using Sendgrid and Node.js ?](https://dev.to/imkarthikeyan/how-to-send-a-email-using-sendgrid-and-nodejs--2l39)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When the Tips of Your Plant’s Leaves Turn Brown](https://lifehacker.com/what-to-do-when-the-tips-of-your-plant-s-leaves-turn-br-1848764030)
 - [Lifehacker] [Stop Telling Kids to &#39;Be Careful&#39; &lpar;and What to Say Instead&rpar;](https://lifehacker.com/stop-telling-kids-to-be-careful-and-what-to-say-instea-1848762621)
 - [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-your-federal-tax-refund-1848762972)
-- [Lifehacker] [8 of the Best Hidden Features in Google Docs](https://lifehacker.com/8-of-the-best-hidden-features-in-google-docs-1848756006)
-- [Lifehacker] [The Smartest Way to Use Google Maps When You&#39;re Walking Alone](https://lifehacker.com/the-smartest-way-to-use-google-maps-when-youre-walking-1848762666)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
