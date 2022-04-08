@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Bot Can Tell You How Good You Really Are at Wordle](https://lifehacker.com/this-bot-can-tell-you-how-good-you-really-are-at-wordle-1848769075)
+- [Dev.to/JS] [Day-62 Training At Ryaz](https://dev.to/mahin651/day-62-training-at-ryaz-50ha)
+- [Dev.to/JS] [Using Pipes to transform data in Angular](https://dev.to/danywalls/using-pipes-to-transform-data-in-angular-3obi)
+- [Dev.to/JS] [LOOK AT THIS BUG I FOUND &lpar;EP 01&rpar;](https://dev.to/adedamolaxl/look-at-this-bug-i-found-ep-01-1nah)
+- [Dev.to/JS] [console.log 2 clipboard](https://dev.to/dirkecker/consolelog-2-clipboard-2p1k)
+- [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
+- [Lifehacker] [The One Extra Thing You Should Always Buy From McDonald’s](https://lifehacker.com/the-one-extra-thing-you-should-always-buy-from-mcdonald-1848765527)
+- [Dev.to/JS] [JavaScript closure in 2 minutes..](https://dev.to/muhammad_asif/javascript-closure-in-2-minutes-2346)
+- [Dev.to/JS] [GitHub Action You Need to Publish VS Code Extensions](https://dev.to/sourishkrout/the-github-action-you-need-to-publish-vs-code-extensions-1n8)
+- [Dev.to/JS] [Callbacks in JavaScript](https://dev.to/mursalfk/callbacks-in-javascript-1od5)
 - [Lifehacker] [How to Restore Your Old Deck Without Going Broke](https://lifehacker.com/how-to-restore-your-old-deck-without-going-broke-1848764994)
 - [Dev.to/JS] [Everything I learnt building my first DApp - a frontend perspective](https://dev.to/daraolayebi/everything-ive-learnt-building-my-first-dapp-a-frontend-perspective-4in4)
 - [Dev.to/JS] [Are you suffering from JavaScript fatigue?](https://dev.to/nicozerpa/are-you-suffering-from-javascript-fatigue-f5e)
@@ -31,16 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [:empty Selector In CSS](https://dev.to/shamgurav96/empty-selector-in-css-2pbo)
 - [Lifehacker] [Why You Should Buy the Dumbest TV You Can Find](https://lifehacker.com/why-you-should-buy-the-dumbest-tv-you-can-find-1848768646)
 - [Dev.to/JS] [Automate a weekly new Twitter Followers Shoutout with Pipedream](https://dev.to/pipedream_staff/automate-a-weekly-new-twitter-followers-shoutout-with-pipedream-28d9)
-- [Dev.to/JS] [DSA with JavaScript Series](https://dev.to/avinashvagh/dsa-with-javascript-series-12ij)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;The Ick&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-t-1848767322)
-- [Dev.to/JS] [Day 4: Speedrunning jQuery in 1 hour](https://dev.to/kemystra/day-4-speedrunning-jquery-in-1-hour-2n8j)
-- [Dev.to/JS] [Color Picker](https://dev.to/vladimirkheifets/color-picker-2gjc)
-- [Dev.to/JS] [How To Use Strings In JavaScript With Selenium WebDriver?](https://dev.to/haritalt/how-to-use-strings-in-javascript-with-selenium-webdriver-34pi)
 - [Lifehacker] [This Is the ‘Ideal’ Amount of Time to Spend in the Shower](https://lifehacker.com/this-is-the-ideal-amount-of-time-to-spend-in-the-show-1848765787)
-- [Dev.to/JS] [svelte-i18next](https://dev.to/nishugoel/svelte-i18next-1108)
-- [Dev.to/JS] [What&#39;s new in Nx 13.10?](https://dev.to/nx/whats-new-in-nx-1310-5126)
 - [Lifehacker] [10 Non-Alcoholic Beers That Are Actually Worth Drinking](https://lifehacker.com/10-non-alcoholic-beers-that-are-actually-worth-drinking-1848764117)
-- [Dev.to/JS] [Building Your First React Native Application with Expo](https://dev.to/codesphere/building-your-first-react-native-application-with-expo-5381)
 - [Lifehacker] [How to Prevent Your AMD Processor From Automatically Overclocking](https://lifehacker.com/how-to-prevent-your-amd-processor-from-automatically-ov-1848764075)
 - [Lifehacker] [15 Surprisingly Practical Ways to Use Dental Floss Around the House](https://lifehacker.com/15-surprisingly-practical-ways-to-use-dental-floss-arou-1848745159)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
@@ -58,11 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Creative Uses for Peeps &lpar;the Very Best Candy of Them All&rpar;](https://lifehacker.com/creative-uses-for-peeps-the-very-best-candy-of-them-al-1848756754)
 - [Lifehacker] [Finally, a Universal Watchlist for All Your Streaming Services](https://lifehacker.com/finally-a-universal-watchlist-for-all-your-streaming-s-1848756968)
 - [Lifehacker] [The Difference Between National Days, Federal Holidays, and Utter BS](https://lifehacker.com/the-difference-between-national-days-federal-holidays-1848760846)
-- [Lifehacker] [Your Baking Needs More Jam, Actually](https://lifehacker.com/your-baking-needs-more-jam-actually-1848760165)
-- [Lifehacker] [Can You Really Stretch Out Tight Jeans by Showering in Them?](https://lifehacker.com/can-you-really-stretch-out-tight-jeans-by-showering-in-1848759407)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
-- [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)
-- [Crazy Programmer] [Serverless360 – Ultimate Solution for All Custom Logging and Tracking Needs](https://www.thecrazyprogrammer.com/2022/03/serverless360.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
 ---
 
