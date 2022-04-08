@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Array Methods - Slice &amp; Splice](https://dev.to/justtanwa/javascript-array-methods-slice-splice-1jb6)
+- [Dev.to/JS] [Booking List📅Tutorial Using DOM {JavaScript}](https://dev.to/hamzaelkotp/booking-listtutorial-using-dom-javascript-4cj1)
+- [Dev.to/JS] [Resolvendo os exercícios do JSchallenger &lpar;Javascript Basics - #1&rpar;](https://dev.to/ananopaisdojavascript/resolvendo-os-exercicios-do-jschallenger-javascript-basics-1-24fn)
+- [Dev.to/JS] [Implementing Micro Frontends in React Using Module Federation](https://dev.to/wisdomekpotu/implementing-micro-frontends-in-react-using-module-federation-4lan)
+- [Dev.to/JS] [Resolvendo os exercícios do JSchallenger - Introdução](https://dev.to/ananopaisdojavascript/resolvendo-os-exercicios-do-jschallenger-introducao-585p)
+- [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
 - [Lifehacker] [Do Opposites Attract Anymore?](https://lifehacker.com/do-opposites-attract-anymore-1848728003)
@@ -38,13 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The One Extra Thing You Should Always Buy From McDonald’s](https://lifehacker.com/the-one-extra-thing-you-should-always-buy-from-mcdonald-1848765527)
 - [Dev.to/JS] [JavaScript closure in 2 minutes..](https://dev.to/muhammad_asif/javascript-closure-in-2-minutes-2346)
 - [Dev.to/JS] [GitHub Action You Need to Publish VS Code Extensions](https://dev.to/sourishkrout/the-github-action-you-need-to-publish-vs-code-extensions-1n8)
-- [Dev.to/JS] [Callbacks in JavaScript](https://dev.to/mursalfk/callbacks-in-javascript-1od5)
 - [Lifehacker] [How to Restore Your Old Deck Without Going Broke](https://lifehacker.com/how-to-restore-your-old-deck-without-going-broke-1848764994)
-- [Dev.to/JS] [Everything I learnt building my first DApp - a frontend perspective](https://dev.to/daraolayebi/everything-ive-learnt-building-my-first-dapp-a-frontend-perspective-4in4)
-- [Dev.to/JS] [Are you suffering from JavaScript fatigue?](https://dev.to/nicozerpa/are-you-suffering-from-javascript-fatigue-f5e)
 - [Lifehacker] [How Many Calories Do You Actually Burn During Sex?](https://lifehacker.com/how-many-calories-do-you-actually-burn-during-sex-1848764963)
-- [Dev.to/JS] [ORM - Associations](https://dev.to/gabrielhsilvestre/orm-associations-1oe4)
-- [Dev.to/JS] [:empty Selector In CSS](https://dev.to/shamgurav96/empty-selector-in-css-2pbo)
 - [Lifehacker] [Why You Should Buy the Dumbest TV You Can Find](https://lifehacker.com/why-you-should-buy-the-dumbest-tv-you-can-find-1848768646)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;The Ick&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-t-1848767322)
 - [Lifehacker] [This Is the ‘Ideal’ Amount of Time to Spend in the Shower](https://lifehacker.com/this-is-the-ideal-amount-of-time-to-spend-in-the-show-1848765787)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When Good Samaritan Laws Can Protect You &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-good-samaritan-laws-protect-you-and-when-they-don-1848763677)
 - [Lifehacker] [What to Do When the Tips of Your Plant’s Leaves Turn Brown](https://lifehacker.com/what-to-do-when-the-tips-of-your-plant-s-leaves-turn-br-1848764030)
 - [Lifehacker] [Stop Telling Kids to &#39;Be Careful&#39; &lpar;and What to Say Instead&rpar;](https://lifehacker.com/stop-telling-kids-to-be-careful-and-what-to-say-instea-1848762621)
-- [Lifehacker] [How to Track Your Federal Tax Refund](https://lifehacker.com/how-to-track-your-federal-tax-refund-1848762972)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
