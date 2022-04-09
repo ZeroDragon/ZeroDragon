@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to use components dynamically in React](https://dev.to/ayo_tech/how-to-use-components-dynamically-in-react-2gmk)
+- [Dev.to/JS] [Scope in JavaScript and How the Lexical Environment Works](https://dev.to/shahmir049/scope-in-javascript-and-how-the-lexical-environment-works-hb7)
+- [Dev.to/JS] [First project](https://dev.to/hishammpsnhn/first-project-50ch)
+- [Dev.to/JS] [JS .animate&lpar;&rpar;](https://dev.to/frankwisniewski/js-animate-1pnb)
+- [Dev.to/JS] [Paracetamol.js💊| #97: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-97-explica-este-codigo-javascript-55g5)
+- [Dev.to/JS] [Dynamic Components in React](https://dev.to/ayo_tech/how-to-use-components-dynamically-in-react-2gmk)
 - [Dev.to/JS] [QR Code Generator by HTML CSS and JavaScript](https://dev.to/harshitkhaladk1/qr-code-generator-by-html-css-and-javascript-go8)
 - [Dev.to/JS] [New Web 3 Landing Page](https://dev.to/kumard3/new-web-3-landing-page-39om)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 JavaScript concepts for React beginners](https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n)
 - [Dev.to/JS] [How I started My Open-Source contribution Journey.](https://dev.to/amolshelke2/how-i-started-my-open-source-contribution-journey-d8j)
 - [Dev.to/JS] [😎 Make VS Code your home 🏠 using these awesome extensions 💻](https://dev.to/knaagar/make-vs-code-your-home-using-these-awesome-extensions--3fjk)
-- [Dev.to/JS] [Hacer tests tolerantes al cambio en Angular usando SCAMs](https://dev.to/danyparedes/test-tolerantes-al-cambio-en-angular-usando-scams-2e8g)
-- [Dev.to/JS] [Ways to pass multiple classes in react!!!](https://dev.to/himanshupal0001/ways-to-pass-multiple-classes-in-react-p46)
-- [Dev.to/JS] [Comprehensive Guide to GraphQL Clients, part 1](https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-1-2372)
-- [Dev.to/JS] [Javascript Nesnelere Metod Nasıl Eklenir ?](https://dev.to/berkanyldrim/javascript-nesnelere-metod-nasil-eklenir--2p0g)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
