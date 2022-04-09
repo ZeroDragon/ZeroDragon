@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HOLA A TODOS](https://dev.to/emmanueljs/hola-a-todos-2g9k)
+- [Dev.to/JS] [readme-cli-create, detalhes do projeto e minha primeira experiência desenvolvendo um projeto próprio e aberto ao público](https://dev.to/luigibelanda/readme-cli-create-detalhes-do-projeto-e-minha-primeira-experiencia-desenvolvendo-um-projeto-proprio-e-aberto-ao-publico-4pdl)
+- [Dev.to/JS] [Bad Habits of Mid-Level React Developers](https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41)
 - [Dev.to/JS] [What is the issue why i am getting this](https://dev.to/leader_naga/what-is-the-issue-why-i-am-getting-this-2d1n)
 - [Dev.to/JS] [State Of Development: 4-9-2022; Gold Language](https://dev.to/colack/state-of-development-4-9-2022-gold-language-2dpe)
 - [Dev.to/JS] [Have you used - Vite &lpar; Frontend Tool&rpar; ??](https://dev.to/sanjaysinghrajpoot/have-you-used-vite-frontend-tool--mj1)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Dev.to/JS] [An introduction to Node.js](https://dev.to/hshoja/an-introduction-to-nodejs-4lhc)
 - [Dev.to/JS] [Hacks I&#39;ve Learned in Developing Interactive Web Pages](https://dev.to/naruaika/hacks-ive-learned-in-developing-interactive-web-pages-4672)
-- [Dev.to/JS] [Usando Pipes para transformar datos](https://dev.to/danyparedes/usando-pipes-para-transformar-datos-41ea)
-- [Dev.to/JS] [Array.filter&lpar;&rpar; - for filtering items from an array](https://dev.to/dillionmegida/arrayfilter-26hk)
-- [Dev.to/JS] [33 JavaScript Concepts Every Developer Should Know &lpar;with tutorials&rpar;](https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
