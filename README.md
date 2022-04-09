@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functional Dependency Injection](https://dev.to/japiirainen/functional-dependency-injection-fgh)
+- [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
+- [Dev.to/JS] [An introduction to Node.js](https://dev.to/hshoja/an-introduction-to-nodejs-4lhc)
+- [Dev.to/JS] [Hacks I&#39;ve Learned in Developing Interactive Web Pages](https://dev.to/naruaika/hacks-ive-learned-in-developing-interactive-web-pages-4672)
+- [Dev.to/JS] [Usando Pipes para transformar datos](https://dev.to/danyparedes/usando-pipes-para-transformar-datos-41ea)
 - [Dev.to/JS] [Array.filter&lpar;&rpar; - for filtering items from an array](https://dev.to/dillionmegida/arrayfilter-26hk)
 - [Dev.to/JS] [33 JavaScript Concepts Every Developer Should Know &lpar;with tutorials&rpar;](https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
@@ -32,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First project](https://dev.to/hishammpsnhn/first-project-50ch)
 - [Dev.to/JS] [JS .animate&lpar;&rpar;](https://dev.to/frankwisniewski/js-animate-1pnb)
 - [Dev.to/JS] [Paracetamol.js💊| #97: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-97-explica-este-codigo-javascript-55g5)
-- [Dev.to/JS] [Dynamic Components in React](https://dev.to/ayo_tech/how-to-use-components-dynamically-in-react-2gmk)
-- [Dev.to/JS] [QR Code Generator by HTML CSS and JavaScript](https://dev.to/harshitkhaladk1/qr-code-generator-by-html-css-and-javascript-go8)
-- [Dev.to/JS] [New Web 3 Landing Page](https://dev.to/kumard3/new-web-3-landing-page-39om)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
-- [Dev.to/JS] [How Js Works](https://dev.to/avinashvagh/how-js-works-2ngm)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Remove Ketchup and Mustard Stains From Your Clothes](https://lifehacker.com/how-to-remove-ketchup-and-mustard-stains-from-your-clot-1848764558)
 - [Lifehacker] [Change These Settings to Make the Brave Browser Even More Private](https://lifehacker.com/change-these-settings-to-make-the-brave-browser-even-mo-1848763348)
 - [Lifehacker] [How to Make Your Cordless Vacuum Battery Last Longer](https://lifehacker.com/how-to-make-your-cordless-vacuum-battery-last-longer-1848762500)
-- [Lifehacker] [When Good Samaritan Laws Can Protect You &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-good-samaritan-laws-protect-you-and-when-they-don-1848763677)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
