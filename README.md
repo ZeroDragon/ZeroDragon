@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I started My Open-Source contribution Journey.](https://dev.to/amolshelke2/how-i-started-my-open-source-contribution-journey-d8j)
+- [Dev.to/JS] [😎 Make VS Code your home 🏠 using these awesome extensions 💻](https://dev.to/knaagar/make-vs-code-your-home-using-these-awesome-extensions--3fjk)
+- [Dev.to/JS] [Hacer tests tolerantes al cambio en Angular usando SCAMs](https://dev.to/danyparedes/test-tolerantes-al-cambio-en-angular-usando-scams-2e8g)
 - [Dev.to/JS] [Ways to pass multiple classes in react!!!](https://dev.to/himanshupal0001/ways-to-pass-multiple-classes-in-react-p46)
 - [Dev.to/JS] [Comprehensive Guide to GraphQL Clients, part 1](https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-1-2372)
 - [Dev.to/JS] [Javascript Nesnelere Metod Nasıl Eklenir ?](https://dev.to/berkanyldrim/javascript-nesnelere-metod-nasil-eklenir--2p0g)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Skincell Advanced - Skin Care Results, Uses, Reviews And Ingredients](https://dev.to/skincelladvanc2/skincell-advanced-skin-care-results-uses-reviews-and-ingredients-3m53)
 - [Dev.to/JS] [Make line breaks work when you render text in a React or Vue component](https://dev.to/cassidoo/make-line-breaks-work-when-you-render-text-in-a-react-or-vue-component-4m0n)
 - [Dev.to/JS] [Panda Express Keto Reviews &lpar;Updated 2022&rpar; – Are pills Scam Or What?](https://dev.to/pandaexpressget/panda-express-keto-reviews-updated-2022-are-pills-scam-or-what-kfe)
-- [Dev.to/JS] [How to cancel Javascript API request with AbortController](https://dev.to/devsmitra/how-to-cancel-javascript-api-request-with-abortcontroller-36cm)
-- [Dev.to/JS] [Behold, React 18 !](https://dev.to/abhi_vp_/behold-react-18--31g8)
-- [Dev.to/JS] [Days 1 - 20: #100DaysofCode](https://dev.to/tmchuynh/days-1-20-100daysofcode-5hdd)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
