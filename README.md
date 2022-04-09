@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
+- [Dev.to/JS] [How Js Works](https://dev.to/avinashvagh/how-js-works-2ngm)
+- [Dev.to/JS] [Front-end testing: principles, levels, libraries, and automation](https://dev.to/asayerio_techblog/front-end-testing-principles-levels-libraries-and-automation-5dn1)
+- [Dev.to/JS] [10 JavaScript concepts for React beginners](https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n)
 - [Dev.to/JS] [How I started My Open-Source contribution Journey.](https://dev.to/amolshelke2/how-i-started-my-open-source-contribution-journey-d8j)
 - [Dev.to/JS] [😎 Make VS Code your home 🏠 using these awesome extensions 💻](https://dev.to/knaagar/make-vs-code-your-home-using-these-awesome-extensions--3fjk)
 - [Dev.to/JS] [Hacer tests tolerantes al cambio en Angular usando SCAMs](https://dev.to/danyparedes/test-tolerantes-al-cambio-en-angular-usando-scams-2e8g)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Amazon SQS with nodejs](https://dev.to/amitiwary999/how-to-use-amazon-sqs-with-nodejs-4cah)
 - [Dev.to/JS] [How to navigate a browser to the previous page with JavaScript](https://dev.to/dillionmegida/how-to-navigate-a-browser-to-the-previous-page-with-javascript-bp5)
 - [Dev.to/JS] [Improve the links to your site with Next js](https://dev.to/ivanms1/improve-the-links-to-your-site-with-next-js-5cc2)
-- [Dev.to/JS] [Skincell Advanced - Skin Care Results, Uses, Reviews And Ingredients](https://dev.to/skincelladvanc2/skincell-advanced-skin-care-results-uses-reviews-and-ingredients-3m53)
-- [Dev.to/JS] [Make line breaks work when you render text in a React or Vue component](https://dev.to/cassidoo/make-line-breaks-work-when-you-render-text-in-a-react-or-vue-component-4m0n)
-- [Dev.to/JS] [Panda Express Keto Reviews &lpar;Updated 2022&rpar; – Are pills Scam Or What?](https://dev.to/pandaexpressget/panda-express-keto-reviews-updated-2022-are-pills-scam-or-what-kfe)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Cordless Vacuum Battery Last Longer](https://lifehacker.com/how-to-make-your-cordless-vacuum-battery-last-longer-1848762500)
 - [Lifehacker] [When Good Samaritan Laws Can Protect You &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-good-samaritan-laws-protect-you-and-when-they-don-1848763677)
 - [Lifehacker] [What to Do When the Tips of Your Plant’s Leaves Turn Brown](https://lifehacker.com/what-to-do-when-the-tips-of-your-plant-s-leaves-turn-br-1848764030)
-- [Lifehacker] [Stop Telling Kids to &#39;Be Careful&#39; &lpar;and What to Say Instead&rpar;](https://lifehacker.com/stop-telling-kids-to-be-careful-and-what-to-say-instea-1848762621)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
