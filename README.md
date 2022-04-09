@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3.0 Alpha #2: Core feature for mobile app](https://dev.to/beamazedvariable/30-alpha-2-core-feature-for-mobile-app-481e)
+- [Dev.to/JS] [Javascript 1O1 series : Learn syntax, variables and datatypes](https://dev.to/osam1010/javascript-1o1-series-learn-syntax-variables-and-datatypes-3cic)
+- [Dev.to/JS] [Firebase: The good, the bad, the awesome.](https://dev.to/jesusantguerrero/firebase-the-good-the-bad-the-awesome-bb1)
 - [Dev.to/JS] [Part 1: Creating a embeddable chat widget](https://dev.to/evertvdw/part-1-creating-a-embeddable-chat-widget-25h7)
 - [Dev.to/JS] [Threads in NodeJS: Going beyond eventloop using Rust](https://dev.to/iostreamer/threads-in-nodejs-going-beyond-eventloop-using-rust-3ch7)
 - [Dev.to/JS] [HOLA A TODOS](https://dev.to/emmanueljs/hola-a-todos-2g9k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State Of Development: 4-9-2022; Gold Language](https://dev.to/colack/state-of-development-4-9-2022-gold-language-2dpe)
 - [Dev.to/JS] [Have you used - Vite &lpar; Frontend Tool&rpar; ??](https://dev.to/sanjaysinghrajpoot/have-you-used-vite-frontend-tool--mj1)
 - [Dev.to/JS] [Is Svelte better than other framworks?](https://dev.to/developerbishwas/is-svelte-better-than-other-framworks-1c3b)
-- [Dev.to/JS] [Voice Collab Deepgram - Let&#39;s harness the power of voice 🗣👩‍💻](https://dev.to/sandy_codes_py/voice-collab-deepgram-lets-harness-the-power-of-voice-e6k)
-- [Dev.to/JS] [Prepare yourself for the next level in Coding.](https://dev.to/kritika27/prepare-yourself-for-the-next-level-in-coding-585)
-- [Dev.to/JS] [Functional Dependency Injection](https://dev.to/japiirainen/functional-dependency-injection-fgh)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
