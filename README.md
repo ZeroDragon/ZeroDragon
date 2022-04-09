@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Nesnelere Metod Nasıl Eklenir ?](https://dev.to/berkanyldrim/javascript-nesnelere-metod-nasil-eklenir--2p0g)
+- [Dev.to/JS] [How to use Amazon SQS with nodejs](https://dev.to/amitiwary999/how-to-use-amazon-sqs-with-nodejs-4cah)
 - [Dev.to/JS] [How to navigate a browser to the previous page with JavaScript](https://dev.to/dillionmegida/how-to-navigate-a-browser-to-the-previous-page-with-javascript-bp5)
 - [Dev.to/JS] [Improve the links to your site with Next js](https://dev.to/ivanms1/improve-the-links-to-your-site-with-next-js-5cc2)
 - [Dev.to/JS] [Skincell Advanced - Skin Care Results, Uses, Reviews And Ingredients](https://dev.to/skincelladvanc2/skincell-advanced-skin-care-results-uses-reviews-and-ingredients-3m53)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Days 1 - 20: #100DaysofCode](https://dev.to/tmchuynh/days-1-20-100daysofcode-5hdd)
 - [Dev.to/JS] [learning together to be a better coders...!!!](https://dev.to/indracurious/learning-together-to-be-a-better-coders-4cjg)
 - [Dev.to/JS] [5 Best Tools for Software Developers](https://dev.to/taylorcodes/5-best-tools-for-software-developers-471o)
-- [Dev.to/JS] [I want to learn React](https://dev.to/kevincp17/i-want-to-learn-react-45i6)
-- [Dev.to/JS] [2022 ExpressJS Cheatsheet](https://dev.to/alexmercedcoder/2022-expressjs-cheatsheet-160o)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
