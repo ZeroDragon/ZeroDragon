@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 1: Creating a embeddable chat widget](https://dev.to/evertvdw/part-1-creating-a-embeddable-chat-widget-25h7)
+- [Dev.to/JS] [Threads in NodeJS: Going beyond eventloop using Rust](https://dev.to/iostreamer/threads-in-nodejs-going-beyond-eventloop-using-rust-3ch7)
 - [Dev.to/JS] [HOLA A TODOS](https://dev.to/emmanueljs/hola-a-todos-2g9k)
 - [Dev.to/JS] [readme-cli-create, detalhes do projeto e minha primeira experiência desenvolvendo um projeto próprio e aberto ao público](https://dev.to/luigibelanda/readme-cli-create-detalhes-do-projeto-e-minha-primeira-experiencia-desenvolvendo-um-projeto-proprio-e-aberto-ao-publico-4pdl)
 - [Dev.to/JS] [Bad Habits of Mid-Level React Developers](https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prepare yourself for the next level in Coding.](https://dev.to/kritika27/prepare-yourself-for-the-next-level-in-coding-585)
 - [Dev.to/JS] [Functional Dependency Injection](https://dev.to/japiirainen/functional-dependency-injection-fgh)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
-- [Dev.to/JS] [An introduction to Node.js](https://dev.to/hshoja/an-introduction-to-nodejs-4lhc)
-- [Dev.to/JS] [Hacks I&#39;ve Learned in Developing Interactive Web Pages](https://dev.to/naruaika/hacks-ive-learned-in-developing-interactive-web-pages-4672)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
