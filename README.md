@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to cancel Javascript API request with AbortController](https://dev.to/devsmitra/how-to-cancel-javascript-api-request-with-abortcontroller-36cm)
+- [Dev.to/JS] [Behold, React 18 !](https://dev.to/abhi_vp_/behold-react-18--31g8)
 - [Dev.to/JS] [Days 1 - 20: #100DaysofCode](https://dev.to/tmchuynh/days-1-20-100daysofcode-5hdd)
 - [Dev.to/JS] [learning together to be a better coders...!!!](https://dev.to/indracurious/learning-together-to-be-a-better-coders-4cjg)
 - [Dev.to/JS] [5 Best Tools for Software Developers](https://dev.to/taylorcodes/5-best-tools-for-software-developers-471o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Batch file upload processing](https://dev.to/basavasa1/batch-file-upload-processing-hdb)
 - [Dev.to/JS] [Add font-size controls to Trix&#39;s toolbar](https://dev.to/rockwell/add-font-size-controls-to-trixs-toolbar-1hgd)
 - [Dev.to/JS] [Menyelesaikan soal &quot;Simple Array Sum&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-simple-array-sum-di-hackerrank-4jjh)
-- [Dev.to/JS] [Ever wanted to see what&#39;s your service doing?](https://dev.to/ivankalatchev/ever-wanted-to-see-whats-your-service-doing-1eka)
-- [Dev.to/JS] [Flashup, deploy your arcade today!](https://dev.to/richkurtzman/flashup-deploy-your-arcade-today-3ibm)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
