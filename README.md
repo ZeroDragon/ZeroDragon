@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improve the links to your site with Next js](https://dev.to/ivanms1/improve-the-links-to-your-site-with-next-js-5cc2)
+- [Dev.to/JS] [Skincell Advanced - Skin Care Results, Uses, Reviews And Ingredients](https://dev.to/skincelladvanc2/skincell-advanced-skin-care-results-uses-reviews-and-ingredients-3m53)
+- [Dev.to/JS] [Make line breaks work when you render text in a React or Vue component](https://dev.to/cassidoo/make-line-breaks-work-when-you-render-text-in-a-react-or-vue-component-4m0n)
+- [Dev.to/JS] [Panda Express Keto Reviews &lpar;Updated 2022&rpar; – Are pills Scam Or What?](https://dev.to/pandaexpressget/panda-express-keto-reviews-updated-2022-are-pills-scam-or-what-kfe)
 - [Dev.to/JS] [How to cancel Javascript API request with AbortController](https://dev.to/devsmitra/how-to-cancel-javascript-api-request-with-abortcontroller-36cm)
 - [Dev.to/JS] [Behold, React 18 !](https://dev.to/abhi_vp_/behold-react-18--31g8)
 - [Dev.to/JS] [Days 1 - 20: #100DaysofCode](https://dev.to/tmchuynh/days-1-20-100daysofcode-5hdd)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I want to learn React](https://dev.to/kevincp17/i-want-to-learn-react-45i6)
 - [Dev.to/JS] [2022 ExpressJS Cheatsheet](https://dev.to/alexmercedcoder/2022-expressjs-cheatsheet-160o)
 - [Dev.to/JS] [How to create Style with typed safe in React JS](https://dev.to/agiksetiawan/how-to-create-style-with-typed-save-in-react-js-26a)
-- [Dev.to/JS] [Javascript 1O1 series : introduction](https://dev.to/osam1010/javascript-1o1-series-introduction-3eja)
-- [Dev.to/JS] [Batch file upload processing](https://dev.to/basavasa1/batch-file-upload-processing-hdb)
-- [Dev.to/JS] [Add font-size controls to Trix&#39;s toolbar](https://dev.to/rockwell/add-font-size-controls-to-trixs-toolbar-1hgd)
-- [Dev.to/JS] [Menyelesaikan soal &quot;Simple Array Sum&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-simple-array-sum-di-hackerrank-4jjh)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
