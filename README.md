@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use components dynamically in React](https://dev.to/ayo_tech/how-to-use-components-dynamically-in-react-2gmk)
+- [Dev.to/JS] [QR Code Generator by HTML CSS and JavaScript](https://dev.to/harshitkhaladk1/qr-code-generator-by-html-css-and-javascript-go8)
+- [Dev.to/JS] [New Web 3 Landing Page](https://dev.to/kumard3/new-web-3-landing-page-39om)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
 - [Dev.to/JS] [How Js Works](https://dev.to/avinashvagh/how-js-works-2ngm)
 - [Dev.to/JS] [Front-end testing: principles, levels, libraries, and automation](https://dev.to/asayerio_techblog/front-end-testing-principles-levels-libraries-and-automation-5dn1)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ways to pass multiple classes in react!!!](https://dev.to/himanshupal0001/ways-to-pass-multiple-classes-in-react-p46)
 - [Dev.to/JS] [Comprehensive Guide to GraphQL Clients, part 1](https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-1-2372)
 - [Dev.to/JS] [Javascript Nesnelere Metod Nasıl Eklenir ?](https://dev.to/berkanyldrim/javascript-nesnelere-metod-nasil-eklenir--2p0g)
-- [Dev.to/JS] [How to use Amazon SQS with nodejs](https://dev.to/amitiwary999/how-to-use-amazon-sqs-with-nodejs-4cah)
-- [Dev.to/JS] [How to navigate a browser to the previous page with JavaScript](https://dev.to/dillionmegida/how-to-navigate-a-browser-to-the-previous-page-with-javascript-bp5)
-- [Dev.to/JS] [Improve the links to your site with Next js](https://dev.to/ivanms1/improve-the-links-to-your-site-with-next-js-5cc2)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
