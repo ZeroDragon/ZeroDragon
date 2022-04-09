@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the issue why i am getting this](https://dev.to/leader_naga/what-is-the-issue-why-i-am-getting-this-2d1n)
+- [Dev.to/JS] [State Of Development: 4-9-2022; Gold Language](https://dev.to/colack/state-of-development-4-9-2022-gold-language-2dpe)
 - [Dev.to/JS] [Have you used - Vite &lpar; Frontend Tool&rpar; ??](https://dev.to/sanjaysinghrajpoot/have-you-used-vite-frontend-tool--mj1)
 - [Dev.to/JS] [Is Svelte better than other framworks?](https://dev.to/developerbishwas/is-svelte-better-than-other-framworks-1c3b)
 - [Dev.to/JS] [Voice Collab Deepgram - Let&#39;s harness the power of voice 🗣👩‍💻](https://dev.to/sandy_codes_py/voice-collab-deepgram-lets-harness-the-power-of-voice-e6k)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.filter&lpar;&rpar; - for filtering items from an array](https://dev.to/dillionmegida/arrayfilter-26hk)
 - [Dev.to/JS] [33 JavaScript Concepts Every Developer Should Know &lpar;with tutorials&rpar;](https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
-- [Dev.to/JS] [GET, POST , PUT , DELETE in Axios](https://dev.to/ndrohith/get-post-put-delete-in-axios-2hf4)
-- [Dev.to/JS] [CSS Variables: Quick guide](https://dev.to/ccreusat/css-variables-quick-guide-8gg)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
