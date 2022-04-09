@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [learning together to be a better coders...!!!](https://dev.to/indracurious/learning-together-to-be-a-better-coders-4cjg)
+- [Dev.to/JS] [5 Best Tools for Software Developers](https://dev.to/taylorcodes/5-best-tools-for-software-developers-471o)
+- [Dev.to/JS] [I want to learn React](https://dev.to/kevincp17/i-want-to-learn-react-45i6)
+- [Dev.to/JS] [2022 ExpressJS Cheatsheet](https://dev.to/alexmercedcoder/2022-expressjs-cheatsheet-160o)
+- [Dev.to/JS] [How to create Style with typed safe in React JS](https://dev.to/agiksetiawan/how-to-create-style-with-typed-save-in-react-js-26a)
 - [Dev.to/JS] [Javascript 1O1 series : introduction](https://dev.to/osam1010/javascript-1o1-series-introduction-3eja)
 - [Dev.to/JS] [Batch file upload processing](https://dev.to/basavasa1/batch-file-upload-processing-hdb)
 - [Dev.to/JS] [Add font-size controls to Trix&#39;s toolbar](https://dev.to/rockwell/add-font-size-controls-to-trixs-toolbar-1hgd)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ever wanted to see what&#39;s your service doing?](https://dev.to/ivankalatchev/ever-wanted-to-see-whats-your-service-doing-1eka)
 - [Dev.to/JS] [Flashup, deploy your arcade today!](https://dev.to/richkurtzman/flashup-deploy-your-arcade-today-3ibm)
 - [Dev.to/JS] [Drawing parallels between audio and software engineering](https://dev.to/joki9448/drawing-parallels-between-audio-and-software-engineering-1pgc)
-- [Dev.to/JS] [JavaScript Array Methods - Slice &amp; Splice](https://dev.to/justtanwa/javascript-array-methods-slice-splice-1jb6)
-- [Dev.to/JS] [Booking List📅Tutorial Using DOM {JavaScript}](https://dev.to/hamzaelkotp/booking-listtutorial-using-dom-javascript-4cj1)
-- [Dev.to/JS] [Resolvendo os exercícios do JSchallenger &lpar;Javascript Basics - #1&rpar;](https://dev.to/ananopaisdojavascript/resolvendo-os-exercicios-do-jschallenger-javascript-basics-1-24fn)
-- [Dev.to/JS] [Implementing Micro Frontends in React Using Module Federation](https://dev.to/wisdomekpotu/implementing-micro-frontends-in-react-using-module-federation-4lan)
-- [Dev.to/JS] [Resolvendo os exercícios do JSchallenger - Introdução](https://dev.to/ananopaisdojavascript/resolvendo-os-exercicios-do-jschallenger-introducao-585p)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
