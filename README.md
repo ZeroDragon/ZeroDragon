@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Have you used - Vite &lpar; Frontend Tool&rpar; ??](https://dev.to/sanjaysinghrajpoot/have-you-used-vite-frontend-tool--mj1)
+- [Dev.to/JS] [Is Svelte better than other framworks?](https://dev.to/developerbishwas/is-svelte-better-than-other-framworks-1c3b)
+- [Dev.to/JS] [Voice Collab Deepgram - Let&#39;s harness the power of voice 🗣👩‍💻](https://dev.to/sandy_codes_py/voice-collab-deepgram-lets-harness-the-power-of-voice-e6k)
+- [Dev.to/JS] [Prepare yourself for the next level in Coding.](https://dev.to/kritika27/prepare-yourself-for-the-next-level-in-coding-585)
 - [Dev.to/JS] [Functional Dependency Injection](https://dev.to/japiirainen/functional-dependency-injection-fgh)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Dev.to/JS] [An introduction to Node.js](https://dev.to/hshoja/an-introduction-to-nodejs-4lhc)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Dev.to/JS] [GET, POST , PUT , DELETE in Axios](https://dev.to/ndrohith/get-post-put-delete-in-axios-2hf4)
 - [Dev.to/JS] [CSS Variables: Quick guide](https://dev.to/ccreusat/css-variables-quick-guide-8gg)
-- [Dev.to/JS] [Scope in JavaScript and How the Lexical Environment Works](https://dev.to/shahmir049/scope-in-javascript-and-how-the-lexical-environment-works-hb7)
-- [Dev.to/JS] [First project](https://dev.to/hishammpsnhn/first-project-50ch)
-- [Dev.to/JS] [JS .animate&lpar;&rpar;](https://dev.to/frankwisniewski/js-animate-1pnb)
-- [Dev.to/JS] [Paracetamol.js💊| #97: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-97-explica-este-codigo-javascript-55g5)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
