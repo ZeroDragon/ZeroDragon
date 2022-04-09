@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript 1O1 series : introduction](https://dev.to/osam1010/javascript-1o1-series-introduction-3eja)
 - [Dev.to/JS] [Batch file upload processing](https://dev.to/basavasa1/batch-file-upload-processing-hdb)
 - [Dev.to/JS] [Add font-size controls to Trix&#39;s toolbar](https://dev.to/rockwell/add-font-size-controls-to-trixs-toolbar-1hgd)
 - [Dev.to/JS] [Menyelesaikan soal &quot;Simple Array Sum&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-simple-array-sum-di-hackerrank-4jjh)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
 - [Lifehacker] [Do Opposites Attract Anymore?](https://lifehacker.com/do-opposites-attract-anymore-1848728003)
 - [Lifehacker] [How to Use SMS Automatically When RCS or iMessage Don&#39;t Work](https://lifehacker.com/how-to-use-sms-automatically-when-rcs-or-imessage-dont-1848768400)
-- [Dev.to/JS] [How to send a email using Sendgrid and Node.js ?](https://dev.to/imkarthikeyan/how-to-send-a-email-using-sendgrid-and-nodejs--2l39)
 - [Lifehacker] [Your Apple Watch Just Needs a New Battery](https://lifehacker.com/your-apple-watch-just-needs-a-new-battery-1848769007)
 - [Lifehacker] [This Bot Can Tell You How Good You Really Are at Wordle](https://lifehacker.com/this-bot-can-tell-you-how-good-you-really-are-at-wordle-1848769075)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
