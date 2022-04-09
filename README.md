@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array.filter&lpar;&rpar; - for filtering items from an array](https://dev.to/dillionmegida/arrayfilter-26hk)
+- [Dev.to/JS] [33 JavaScript Concepts Every Developer Should Know &lpar;with tutorials&rpar;](https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao)
+- [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
+- [Dev.to/JS] [GET, POST , PUT , DELETE in Axios](https://dev.to/ndrohith/get-post-put-delete-in-axios-2hf4)
+- [Dev.to/JS] [CSS Variables: Quick guide](https://dev.to/ccreusat/css-variables-quick-guide-8gg)
 - [Dev.to/JS] [Scope in JavaScript and How the Lexical Environment Works](https://dev.to/shahmir049/scope-in-javascript-and-how-the-lexical-environment-works-hb7)
 - [Dev.to/JS] [First project](https://dev.to/hishammpsnhn/first-project-50ch)
 - [Dev.to/JS] [JS .animate&lpar;&rpar;](https://dev.to/frankwisniewski/js-animate-1pnb)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New Web 3 Landing Page](https://dev.to/kumard3/new-web-3-landing-page-39om)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
 - [Dev.to/JS] [How Js Works](https://dev.to/avinashvagh/how-js-works-2ngm)
-- [Dev.to/JS] [Front-end testing: principles, levels, libraries, and automation](https://dev.to/asayerio_techblog/front-end-testing-principles-levels-libraries-and-automation-5dn1)
-- [Dev.to/JS] [10 JavaScript concepts for React beginners](https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n)
-- [Dev.to/JS] [How I started My Open-Source contribution Journey.](https://dev.to/amolshelke2/how-i-started-my-open-source-contribution-journey-d8j)
-- [Dev.to/JS] [😎 Make VS Code your home 🏠 using these awesome extensions 💻](https://dev.to/knaagar/make-vs-code-your-home-using-these-awesome-extensions--3fjk)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Change These Settings to Make the Brave Browser Even More Private](https://lifehacker.com/change-these-settings-to-make-the-brave-browser-even-mo-1848763348)
 - [Lifehacker] [How to Make Your Cordless Vacuum Battery Last Longer](https://lifehacker.com/how-to-make-your-cordless-vacuum-battery-last-longer-1848762500)
 - [Lifehacker] [When Good Samaritan Laws Can Protect You &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-good-samaritan-laws-protect-you-and-when-they-don-1848763677)
-- [Lifehacker] [What to Do When the Tips of Your Plant’s Leaves Turn Brown](https://lifehacker.com/what-to-do-when-the-tips-of-your-plant-s-leaves-turn-br-1848764030)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
