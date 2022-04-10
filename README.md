@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Codedamn is changing the way of Learning how to Code](https://dev.to/upadhyayhari_/codedamn-is-changing-the-way-of-learning-how-to-code-20oj)
+- [Dev.to/JS] [How to turn HTML webpage into an Image?](https://dev.to/jasmin/how-to-turn-html-webpage-into-an-image-n1c)
 - [Dev.to/JS] [All you need to know about React 18](https://dev.to/monicaacha2103/all-you-need-to-know-about-react-18-dbc)
 - [Dev.to/JS] [5.1 Getting Employable with Firebase - Building your webapp with React](https://dev.to/mjoycemilburn/51-getting-employable-with-firebase-building-your-webapp-with-react-259e)
 - [Dev.to/JS] [Wanna be a MERN Stack Intern !?](https://dev.to/keshavgbpecdel/wanna-be-a-mern-stack-intern--2g7n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [College Weighted Grade Calculator With Pure HTML, CSS &amp; JS](https://dev.to/gradecalculator/college-weighted-grade-calculator-with-pure-html-css-js-2p00)
 - [Dev.to/JS] [How I developed my modern open source portfolio 👨🏾‍💻](https://dev.to/josemukorivo/how-i-developed-my-modern-open-source-portfolio-2o92)
 - [Dev.to/JS] [#25 𝐆𝐮𝐞𝐬𝐬 𝐭𝐡𝐞 𝐎𝐮𝐭𝐩𝐮𝐭 ???](https://dev.to/shamgurav96/25--1cmm)
-- [Dev.to/JS] [Introduction to Test-Driven-Development in React for Beginners](https://dev.to/koladev/introduction-to-test-driven-development-in-react-for-beginners-260f)
-- [Dev.to/JS] [JOBPkdo- a smart voice search based platform to find Intern, Jobs](https://dev.to/gulshanaggarwal/jobpkdo-a-smart-voice-search-based-platform-to-find-intern-jobs-422m)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
