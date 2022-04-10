@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Test-Driven-Development in React for Beginners](https://dev.to/koladev/introduction-to-test-driven-development-in-react-for-beginners-260f)
+- [Dev.to/JS] [JOBPkdo- a smart voice search based platform to find Intern, Jobs](https://dev.to/gulshanaggarwal/jobpkdo-a-smart-voice-search-based-platform-to-find-intern-jobs-422m)
+- [Dev.to/JS] [LifeStyle Keto - Weight Loss Results, Uses, Benefits And Ingredients](https://dev.to/lifestyleketof1/lifestyle-keto-weight-loss-results-uses-benefits-and-ingredients-3kn2)
 - [Dev.to/JS] [Finished first JavaScript project](https://dev.to/datamoshing/finished-first-javascript-project-2ki9)
 - [Dev.to/JS] [Add Commitint, Commitizen, Standard Version, and Husky to SvelteKit Project](https://dev.to/davipon/add-commitint-commitizen-standard-version-and-husky-to-sveltekit-project-14pc)
 - [Dev.to/JS] [Bandar Casino Terbesar Pakde4D](https://dev.to/bandarcasinoterbesar/banar-casino-terbesar-pakde4d-46jp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rest parameters of JavaScript](https://dev.to/ashutoshbw314/rest-parameters-of-javascript-3jk3)
 - [Dev.to/JS] [Amazing New Tab Focus Page With JavaScript](https://dev.to/eduardoslompo/amazing-new-tab-focus-page-with-javascript-3jkg)
 - [Dev.to/JS] [Grit](https://dev.to/warmastr/grit-1m34)
-- [Dev.to/JS] [Creating a Status Page with Pure HTML, CSS, and JavaScript](https://dev.to/varuns924/creating-a-status-page-with-pure-html-css-and-javascript-9pe)
-- [Dev.to/JS] [Create Opensea like NFT marketplace using Moralis.](https://dev.to/pankajrathore9599/create-opensea-like-nft-marketplace-using-moralis-3m7m)
-- [Dev.to/JS] [How to track user activities on your website](https://dev.to/freebeliever/how-to-track-user-activities-on-your-website-48l8)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
