@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Render HTML tag in Next JS or React JS](https://dev.to/agiksetiawan/render-html-tag-in-next-js-or-react-js-3cfe)
+- [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
+- [Dev.to/JS] [&lpar; HTML Tip ⚡ &rpar; - Specify Fallback Image if Actual Image not found](https://dev.to/shamgurav96/-html-tip-specify-fallback-image-if-actual-image-not-found-jio)
+- [Dev.to/JS] [Open Source Adventures: Episode 35: Better Data Sources for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-35-better-data-sources-for-russian-losses-app-3olp)
+- [Dev.to/JS] [3 ways to load a script file](https://dev.to/vnaydev/3-ways-to-load-a-script-file-2dn)
 - [Dev.to/JS] [Codedamn is changing the way of Learning how to Code](https://dev.to/upadhyayhari_/codedamn-is-changing-the-way-of-learning-how-to-code-20oj)
 - [Dev.to/JS] [How to turn HTML webpage into an Image?](https://dev.to/jasmin/how-to-turn-html-webpage-into-an-image-n1c)
 - [Dev.to/JS] [All you need to know about React 18](https://dev.to/monicaacha2103/all-you-need-to-know-about-react-18-dbc)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Constructor Functions](https://dev.to/avinashvagh/constructor-functions-4ndj)
 - [Dev.to/JS] [How I Deploy my Projects in 2022](https://dev.to/ekqt/how-i-deploy-my-projects-in-2022-17og)
 - [Dev.to/JS] [How to Offset a Server&#39;s Timezone to Store a UTC Datetime](https://dev.to/kaxmoglan/how-to-offset-a-servers-timezone-to-store-a-utc-datetime-18c7)
-- [Dev.to/JS] [Managing tracking consent with Cead Consent](https://dev.to/accudio/managing-tracking-consent-with-cead-consent-1j92)
-- [Dev.to/JS] [College Weighted Grade Calculator With Pure HTML, CSS &amp; JS](https://dev.to/gradecalculator/college-weighted-grade-calculator-with-pure-html-css-js-2p00)
-- [Dev.to/JS] [How I developed my modern open source portfolio 👨🏾‍💻](https://dev.to/josemukorivo/how-i-developed-my-modern-open-source-portfolio-2o92)
-- [Dev.to/JS] [#25 𝐆𝐮𝐞𝐬𝐬 𝐭𝐡𝐞 𝐎𝐮𝐭𝐩𝐮𝐭 ???](https://dev.to/shamgurav96/25--1cmm)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
 - [Lifehacker] [How to Remove Ketchup and Mustard Stains From Your Clothes](https://lifehacker.com/how-to-remove-ketchup-and-mustard-stains-from-your-clot-1848764558)
 - [Lifehacker] [Change These Settings to Make the Brave Browser Even More Private](https://lifehacker.com/change-these-settings-to-make-the-brave-browser-even-mo-1848763348)
-- [Lifehacker] [How to Make Your Cordless Vacuum Battery Last Longer](https://lifehacker.com/how-to-make-your-cordless-vacuum-battery-last-longer-1848762500)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
