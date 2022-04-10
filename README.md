@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Starting on Accordions](https://dev.to/bhaggu/starting-on-accordions-2j4)
+- [Dev.to/JS] [Google Analytics on Gridsome applications](https://dev.to/ptheodosiou/google-analytics-on-gridsome-applications-485k)
+- [Dev.to/JS] [ShowDEV: We built a side project that allows you to share and review resume🧾](https://dev.to/namanvyas/showdev-we-built-a-side-project-that-allows-you-to-share-and-review-resume-bl0)
+- [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 - [Dev.to/JS] [Write beautiful and Elegant Javascript code with short-circuit evaluation.](https://dev.to/fayomihorace/write-beautiful-and-elegant-javascript-code-with-short-circuit-evaluation-56kd)
 - [Dev.to/JS] [Week one complete...](https://dev.to/taepal467/week-one-complete-3jfe)
 - [Dev.to/JS] [How to Create a JavaScript SPA Using the MVC Architecture &lpar;Part 1&rpar;](https://dev.to/tarwatuddin/how-to-create-a-javascript-spa-using-the-mvc-architecture-part-1-cc)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#26 𝐆𝐮𝐞𝐬𝐬 𝐭𝐡𝐞 𝐎𝐮𝐭𝐩𝐮𝐭 ???](https://dev.to/shamgurav96/26--2hhd)
 - [Dev.to/JS] [Web cookies - beginner&#39;s guide](https://dev.to/arikaturika/web-cookies-beginners-guide-28lh)
 - [Dev.to/JS] [HTML6 and CSS4 — Future of HTML](https://dev.to/abhishek_159/html6-and-css4-future-of-html-2pbg)
-- [Dev.to/JS] [JavaScript在ES5中实现继承](https://dev.to/ohmycode/javascriptzai-es5zhong-shi-xian-ji-cheng-46l6)
-- [Dev.to/JS] [About roles in the front-end development department](https://dev.to/starbist/about-roles-in-the-front-end-development-department-1lj5)
-- [Dev.to/JS] [Boost your app accessibility with AI Speech Recognition &lpar;Deepgram&rpar;!](https://dev.to/pavelee/boost-your-app-accessibility-with-ai-speech-recognition-deepgram-5fl9)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
 - [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
 - [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
-- [Lifehacker] [How to Remove Ketchup and Mustard Stains From Your Clothes](https://lifehacker.com/how-to-remove-ketchup-and-mustard-stains-from-your-clot-1848764558)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
