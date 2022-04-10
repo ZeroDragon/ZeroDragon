@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML6 and CSS4 — Future of HTML](https://dev.to/abhishek_159/html6-and-css4-future-of-html-2pbg)
+- [Dev.to/JS] [JavaScript在ES5中实现继承](https://dev.to/ohmycode/javascriptzai-es5zhong-shi-xian-ji-cheng-46l6)
+- [Dev.to/JS] [About roles in the front-end development department](https://dev.to/starbist/about-roles-in-the-front-end-development-department-1lj5)
+- [Dev.to/JS] [Boost your app accessibility with AI Speech Recognition &lpar;Deepgram&rpar;!](https://dev.to/pavelee/boost-your-app-accessibility-with-ai-speech-recognition-deepgram-5fl9)
+- [Dev.to/JS] [Understanding chart.js to showcase analytical metrics](https://dev.to/oathkeeper/understanding-chartjs-to-showcase-analytical-metrics-589n)
 - [Dev.to/JS] [Weekly Digest 14/2022](https://dev.to/marcobiedermann/weekly-digest-142022-2of4)
 - [Dev.to/JS] [WHATs and WHYs of Context APIs - part 1](https://dev.to/roythedev/whats-and-whys-of-context-apis-part-1-1423)
 - [Dev.to/JS] [React context simplified](https://dev.to/coloene/react-context-simplified-8dn)
@@ -30,12 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are the Best Practices of taking Online Coaching Classes?](https://dev.to/edulete/what-are-the-best-practices-of-taking-online-coaching-classes-32oj)
 - [Dev.to/JS] [Feedback portfilio#6](https://dev.to/baraa_baba/feedback-portfilio6-54p4)
 - [Dev.to/JS] [How to Setup a Node API with SWC Compiler and ESLint](https://dev.to/franciscomendes10866/how-to-setup-a-node-api-with-swc-and-eslint-1h5d)
-- [Dev.to/JS] [use `console.time&lpar;&rpar;` and `console.timeEnd&lpar;&rpar;` to measure the time taken to execute a piece of code, in JS](https://dev.to/theabhayprajapati/use-consoletime-and-consoletimeend-to-measure-the-time-taken-to-execute-a-piece-of-code-in-js-j4)
-- [Dev.to/JS] [Generative minimal tattoo patterns 🪩](https://dev.to/bryce/generative-minimal-css-patterns-1ekf)
-- [Dev.to/JS] [Render HTML tag in Next JS or React JS](https://dev.to/agiksetiawan/render-html-tag-in-next-js-or-react-js-3cfe)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
-- [Dev.to/JS] [&lpar; HTML Tip ⚡ &rpar; - Specify Fallback Image if Actual Image not found](https://dev.to/shamgurav96/-html-tip-specify-fallback-image-if-actual-image-not-found-jio)
-- [Dev.to/JS] [Open Source Adventures: Episode 35: Better Data Sources for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-35-better-data-sources-for-russian-losses-app-3olp)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
