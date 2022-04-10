@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [College Weighted Grade Calculator With Pure HTML, CSS &amp; JS](https://dev.to/gradecalculator/college-weighted-grade-calculator-with-pure-html-css-js-2p00)
+- [Dev.to/JS] [How I developed my modern open source portfolio 👨🏾‍💻](https://dev.to/josemukorivo/how-i-developed-my-modern-open-source-portfolio-2o92)
+- [Dev.to/JS] [#25 𝐆𝐮𝐞𝐬𝐬 𝐭𝐡𝐞 𝐎𝐮𝐭𝐩𝐮𝐭 ???](https://dev.to/shamgurav96/25--1cmm)
 - [Dev.to/JS] [Introduction to Test-Driven-Development in React for Beginners](https://dev.to/koladev/introduction-to-test-driven-development-in-react-for-beginners-260f)
 - [Dev.to/JS] [JOBPkdo- a smart voice search based platform to find Intern, Jobs](https://dev.to/gulshanaggarwal/jobpkdo-a-smart-voice-search-based-platform-to-find-intern-jobs-422m)
 - [Dev.to/JS] [LifeStyle Keto - Weight Loss Results, Uses, Benefits And Ingredients](https://dev.to/lifestyleketof1/lifestyle-keto-weight-loss-results-uses-benefits-and-ingredients-3kn2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Cheat Sheet &lpar;with React 18&rpar;](https://dev.to/ruppysuppy/react-cheat-sheet-with-react-18-4jl2)
 - [Dev.to/JS] [Understanding Redux Thunk in React.js with Example](https://dev.to/javinpaul/understanding-redux-thunk-in-reactjs-with-example-48fd)
 - [Dev.to/JS] [How does JavaScript&#39;s prototypal inheritance differ from classical inheritance?](https://dev.to/chalarangelo/how-does-javascripts-prototypal-inheritance-differ-from-classical-inheritance-oii)
-- [Dev.to/JS] [Rest parameters of JavaScript](https://dev.to/ashutoshbw314/rest-parameters-of-javascript-3jk3)
-- [Dev.to/JS] [Amazing New Tab Focus Page With JavaScript](https://dev.to/eduardoslompo/amazing-new-tab-focus-page-with-javascript-3jkg)
-- [Dev.to/JS] [Grit](https://dev.to/warmastr/grit-1m34)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
