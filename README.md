@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to track user activities on your website](https://dev.to/freebeliever/how-to-track-user-activities-on-your-website-48l8)
 - [Dev.to/JS] [NPM Needs: pretty-bytes](https://dev.to/andrewusher/npm-needs-pretty-bytes-4h56)
 - [Dev.to/JS] [3.0 Alpha #2: Core feature for mobile app](https://dev.to/beamazedvariable/30-alpha-2-core-feature-for-mobile-app-481e)
 - [Dev.to/JS] [Javascript 1O1 series : Learn syntax, variables and datatypes](https://dev.to/osam1010/javascript-1o1-series-learn-syntax-variables-and-datatypes-3cic)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bad Habits of Mid-Level React Developers](https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41)
 - [Dev.to/JS] [What is the issue why i am getting this](https://dev.to/leader_naga/what-is-the-issue-why-i-am-getting-this-2d1n)
 - [Dev.to/JS] [State Of Development: 4-9-2022; Gold Language](https://dev.to/colack/state-of-development-4-9-2022-gold-language-2dpe)
-- [Dev.to/JS] [Have you used - Vite &lpar; Frontend Tool&rpar; ??](https://dev.to/sanjaysinghrajpoot/have-you-used-vite-frontend-tool--mj1)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
