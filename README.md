@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the Best Practices of taking Online Coaching Classes?](https://dev.to/edulete/what-are-the-best-practices-of-taking-online-coaching-classes-32oj)
+- [Dev.to/JS] [Feedback portfilio#6](https://dev.to/baraa_baba/feedback-portfilio6-54p4)
+- [Dev.to/JS] [How to Setup a Node API with SWC Compiler and ESLint](https://dev.to/franciscomendes10866/how-to-setup-a-node-api-with-swc-and-eslint-1h5d)
+- [Dev.to/JS] [use `console.time&lpar;&rpar;` and `console.timeEnd&lpar;&rpar;` to measure the time taken to execute a piece of code, in JS](https://dev.to/theabhayprajapati/use-consoletime-and-consoletimeend-to-measure-the-time-taken-to-execute-a-piece-of-code-in-js-j4)
+- [Dev.to/JS] [Generative minimal CSS patterns 🪩](https://dev.to/bryce/generative-minimal-css-patterns-1ekf)
 - [Dev.to/JS] [Render HTML tag in Next JS or React JS](https://dev.to/agiksetiawan/render-html-tag-in-next-js-or-react-js-3cfe)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
 - [Dev.to/JS] [&lpar; HTML Tip ⚡ &rpar; - Specify Fallback Image if Actual Image not found](https://dev.to/shamgurav96/-html-tip-specify-fallback-image-if-actual-image-not-found-jio)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Codedamn is changing the way of Learning how to Code](https://dev.to/upadhyayhari_/codedamn-is-changing-the-way-of-learning-how-to-code-20oj)
 - [Dev.to/JS] [How to turn HTML webpage into an Image?](https://dev.to/jasmin/how-to-turn-html-webpage-into-an-image-n1c)
 - [Dev.to/JS] [All you need to know about React 18](https://dev.to/monicaacha2103/all-you-need-to-know-about-react-18-dbc)
-- [Dev.to/JS] [5.1 Getting Employable with Firebase - Building your webapp with React](https://dev.to/mjoycemilburn/51-getting-employable-with-firebase-building-your-webapp-with-react-259e)
-- [Dev.to/JS] [Wanna be a MERN Stack Intern !?](https://dev.to/keshavgbpecdel/wanna-be-a-mern-stack-intern--2g7n)
-- [Dev.to/JS] [Constructor Functions](https://dev.to/avinashvagh/constructor-functions-4ndj)
-- [Dev.to/JS] [How I Deploy my Projects in 2022](https://dev.to/ekqt/how-i-deploy-my-projects-in-2022-17og)
-- [Dev.to/JS] [How to Offset a Server&#39;s Timezone to Store a UTC Datetime](https://dev.to/kaxmoglan/how-to-offset-a-servers-timezone-to-store-a-utc-datetime-18c7)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
