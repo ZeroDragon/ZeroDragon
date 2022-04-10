@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React SketchBoard DevLog #2 - Zoom, fix bugs and improve code quality.](https://dev.to/nordicbeaver/react-sketchboard-devlog-2-zoom-fix-bugs-and-improve-code-quality-2dcf)
+- [Dev.to/JS] [Open Source Adventures: Episode 36: Using D3 to figure out when Russia will lose its last armored vehicle](https://dev.to/taw/open-source-adventures-episode-36-using-d3-to-figure-out-when-russia-will-lose-its-last-armored-vehicle-31jn)
+- [Dev.to/JS] [#26 𝐆𝐮𝐞𝐬𝐬 𝐭𝐡𝐞 𝐎𝐮𝐭𝐩𝐮𝐭 ???](https://dev.to/shamgurav96/26--2hhd)
+- [Dev.to/JS] [Web cookies - beginner&#39;s guide](https://dev.to/arikaturika/web-cookies-beginners-guide-28lh)
 - [Dev.to/JS] [HTML6 and CSS4 — Future of HTML](https://dev.to/abhishek_159/html6-and-css4-future-of-html-2pbg)
 - [Dev.to/JS] [JavaScript在ES5中实现继承](https://dev.to/ohmycode/javascriptzai-es5zhong-shi-xian-ji-cheng-46l6)
 - [Dev.to/JS] [About roles in the front-end development department](https://dev.to/starbist/about-roles-in-the-front-end-development-department-1lj5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly Digest 14/2022](https://dev.to/marcobiedermann/weekly-digest-142022-2of4)
 - [Dev.to/JS] [WHATs and WHYs of Context APIs - part 1](https://dev.to/roythedev/whats-and-whys-of-context-apis-part-1-1423)
 - [Dev.to/JS] [React context simplified](https://dev.to/coloene/react-context-simplified-8dn)
-- [Dev.to/JS] [The Power of Memento Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-memento-design-pattern-in-javascript-25d1)
-- [Dev.to/JS] [What are the Best Practices of taking Online Coaching Classes?](https://dev.to/edulete/what-are-the-best-practices-of-taking-online-coaching-classes-32oj)
-- [Dev.to/JS] [Feedback portfilio#6](https://dev.to/baraa_baba/feedback-portfilio6-54p4)
-- [Dev.to/JS] [How to Setup a Node API with SWC Compiler and ESLint](https://dev.to/franciscomendes10866/how-to-setup-a-node-api-with-swc-and-eslint-1h5d)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
