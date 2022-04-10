@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Grit](https://dev.to/warmastr/grit-1m34)
 - [Dev.to/JS] [Creating a Status Page with Pure HTML, CSS, and JavaScript](https://dev.to/varuns924/creating-a-status-page-with-pure-html-css-and-javascript-9pe)
 - [Dev.to/JS] [Create Opensea like NFT marketplace using Moralis.](https://dev.to/pankajrathore9599/create-opensea-like-nft-marketplace-using-moralis-3m7m)
 - [Dev.to/JS] [How to track user activities on your website](https://dev.to/freebeliever/how-to-track-user-activities-on-your-website-48l8)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Threads in NodeJS: Going beyond eventloop using Rust](https://dev.to/iostreamer/threads-in-nodejs-going-beyond-eventloop-using-rust-3ch7)
 - [Dev.to/JS] [HOLA A TODOS](https://dev.to/emmanueljs/hola-a-todos-2g9k)
 - [Dev.to/JS] [readme-cli-create, detalhes do projeto e minha primeira experiência desenvolvendo um projeto próprio e aberto ao público](https://dev.to/luigibelanda/readme-cli-create-detalhes-do-projeto-e-minha-primeira-experiencia-desenvolvendo-um-projeto-proprio-e-aberto-ao-publico-4pdl)
-- [Dev.to/JS] [Bad Habits of Mid-Level React Developers](https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
