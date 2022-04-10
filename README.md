@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Write beautiful and Elegant Javascript code with short-circuit evaluation.](https://dev.to/fayomihorace/write-beautiful-and-elegant-javascript-code-with-short-circuit-evaluation-56kd)
+- [Dev.to/JS] [Week one complete...](https://dev.to/taepal467/week-one-complete-3jfe)
+- [Dev.to/JS] [How to Create a JavaScript SPA Using the MVC Architecture &lpar;Part 1&rpar;](https://dev.to/tarwatuddin/how-to-create-a-javascript-spa-using-the-mvc-architecture-part-1-cc)
 - [Dev.to/JS] [Customizing the godawul MS Teams](https://dev.to/alia5/customizing-the-godawul-ms-teams-2b8i)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Dev.to/JS] [React SketchBoard DevLog #2 - Zoom, fix bugs and improve code quality.](https://dev.to/nordicbeaver/react-sketchboard-devlog-2-zoom-fix-bugs-and-improve-code-quality-2dcf)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript在ES5中实现继承](https://dev.to/ohmycode/javascriptzai-es5zhong-shi-xian-ji-cheng-46l6)
 - [Dev.to/JS] [About roles in the front-end development department](https://dev.to/starbist/about-roles-in-the-front-end-development-department-1lj5)
 - [Dev.to/JS] [Boost your app accessibility with AI Speech Recognition &lpar;Deepgram&rpar;!](https://dev.to/pavelee/boost-your-app-accessibility-with-ai-speech-recognition-deepgram-5fl9)
-- [Dev.to/JS] [Understanding chart.js to showcase analytical metrics](https://dev.to/oathkeeper/understanding-chartjs-to-showcase-analytical-metrics-589n)
-- [Dev.to/JS] [Weekly Digest 14/2022](https://dev.to/marcobiedermann/weekly-digest-142022-2of4)
-- [Dev.to/JS] [WHATs and WHYs of Context APIs - part 1](https://dev.to/roythedev/whats-and-whys-of-context-apis-part-1-1423)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
