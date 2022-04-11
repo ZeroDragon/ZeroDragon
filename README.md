@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resolvendo exercícios do JSchallenger - &lpar;Javascript Basics #3&rpar;](https://dev.to/ananopaisdojavascript/resolvendo-exercicios-do-jschallenger-javascript-basics-3-22bp)
+- [Dev.to/JS] [🤓 JavaScript facts :](https://dev.to/toqeer__abbas/javascript-facts--50hl)
+- [Dev.to/JS] [Ng-News: Episode 22/14](https://dev.to/rainerhahnekamp/ng-news-episode-2214-350g)
+- [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
 - [Dev.to/JS] [The Absolute Best JS Dev Tools in 2022](https://dev.to/transitivebullshit/the-absolute-best-js-dev-tools-in-2022-33ij)
 - [Dev.to/JS] [Writing a reactive library in Javascript [from scratch]](https://dev.to/adea/writing-a-reactive-library-in-javascript-from-scratch-1k1i)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Work With Someone You Hate](https://lifehacker.com/how-to-work-with-someone-you-hate-1848777512)
 - [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
 - [Dev.to/JS] [Amplication &amp; React: Adding Custom Endpoints](https://dev.to/amplication/amplication-react-adding-custom-endpoints-3ipm)
-- [Dev.to/JS] [Just 1 thing you should do when you develop an application by Next.js + TypeScript + AWS Amplify](https://dev.to/aws-builders/just-1-thing-you-should-do-when-you-develop-an-application-by-nextjs-typescript-aws-amplify-36ck)
 - [Lifehacker] [The Difference Between Post- and Pre-Exposure Rabies Vaccines &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-post-and-pre-exposure-rabies-va-1848776070)
-- [Dev.to/JS] [Setup Vanilla React Native with TypeScript](https://dev.to/paulayo93/setup-vanilla-react-native-with-typescript-4k67)
-- [Dev.to/JS] [Paracetamol.js💊| #98: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-98-explica-este-codigo-javascript-3ep4)
 - [Lifehacker] [The Right Way to Repaint Your Outdoor Furniture &lpar;So You Don’t Have to Replace It&rpar;](https://lifehacker.com/the-right-way-to-repaint-your-outdoor-furniture-so-you-1848774164)
 - [Lifehacker] [The Best Gadgets for When You Feel Bad Leaving Your Pet Alone](https://lifehacker.com/the-best-gadgets-for-when-you-feel-bad-leaving-your-pet-1848771471)
 - [Lifehacker] [10 of the Best Text-Based Adventure Games You Never Knew You Needed](https://lifehacker.com/10-of-the-best-text-based-adventure-games-you-never-kne-1848770935)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
 - [Lifehacker] [Do Opposites Attract Anymore?](https://lifehacker.com/do-opposites-attract-anymore-1848728003)
 - [Lifehacker] [How to Use SMS Automatically When RCS or iMessage Don&#39;t Work](https://lifehacker.com/how-to-use-sms-automatically-when-rcs-or-imessage-dont-1848768400)
-- [Lifehacker] [Your Apple Watch Just Needs a New Battery](https://lifehacker.com/your-apple-watch-just-needs-a-new-battery-1848769007)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
