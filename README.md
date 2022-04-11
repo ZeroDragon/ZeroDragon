@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NOTON: Live Video To Text Transcription💻](https://dev.to/soham0047/noton-live-video-to-text-transcription-ka0)
+- [Lifehacker] [10 of the Best Text-Based Adventure Games You Never Knew You Needed](https://lifehacker.com/10-of-the-best-text-based-adventure-games-you-never-kne-1848770935)
+- [Dev.to/JS] [How to Build an International Ecommerce Website with Sanity and Commerce Layer](https://dev.to/bolajiayodeji/how-to-build-an-international-ecommerce-website-with-sanity-and-commerce-layer-555a)
+- [Dev.to/JS] [Laravel 9 Yajra Server Side Datatables Tutorial](https://dev.to/sureshramani/laravel-9-yajra-server-side-datatables-tutorial-1bgd)
+- [Dev.to/JS] [How to send Emails with JavaScript](https://dev.to/alexandramt/how-to-send-emails-with-javascript-ie3)
+- [Dev.to/JS] [I created 3D Music Visualizer using Three.JS and Web Audio API](https://dev.to/l1ve4code/i-created-3d-music-visualizer-using-threejs-and-web-audio-api-1p83)
+- [Lifehacker] [How Do Astronauts Poop in Space?](https://lifehacker.com/how-do-astronauts-shit-in-space-1848770799)
 - [Dev.to/JS] [&quot;Most Useless Demo Ever&quot; Deepgram Hackathon Submission](https://dev.to/jzombie/most-useless-demo-ever-deepgram-hackathon-submission-54jn)
 - [Dev.to/JS] [Putting Your Best Foot Forward: Updating Projects](https://dev.to/melguachun/putting-your-best-foot-forward-updating-projects-278n)
 - [Dev.to/JS] [ShowDEV: We built a side project that allows you to share and review resume🧾](https://dev.to/namanvyas/showdev-we-built-a-side-project-that-allows-you-to-share-and-review-resume-3138)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Javascript Async Race Conditions](https://dev.to/devsimplicity/understanding-javascript-async-race-conditions-19oh)
 - [Dev.to/JS] [[Deepgram x DEV Hackathon Submission Post Placeholder Title]](https://dev.to/ernest2026/deepgram-x-dev-hackathon-submission-post-placeholder-title-46oh)
 - [Dev.to/JS] [How do you fix your JavaScript rendering issues with prerender?](https://dev.to/xahin289/how-do-you-fix-your-javascript-rendering-issues-with-prerender-2ce5)
-- [Dev.to/JS] [What you need to know about Typescript types](https://dev.to/dcsl-guidesmiths/what-you-need-to-know-about-typescript-types-2bd2)
-- [Dev.to/JS] [GlucoTrust Reviews &lpar;Updated 2022&rpar; – Blood Sugar Supplement Scam Or What?](https://dev.to/glucotrustweb/glucotrust-reviews-updated-2022-blood-sugar-supplement-scam-or-what-546l)
-- [Dev.to/JS] [Working Spotify Clone using React and Spotify API](https://dev.to/koolkishan/working-spotify-clone-using-react-and-spotify-api-2034)
-- [Dev.to/JS] [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://dev.to/suhailkakar/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022-53ok)
-- [Dev.to/JS] [Top Programming Languages to learn in 2022](https://dev.to/annoh_karlgusta/top-programming-languages-to-learn-in-2022-10gl)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prevent Your AMD Processor From Automatically Overclocking](https://lifehacker.com/how-to-prevent-your-amd-processor-from-automatically-ov-1848764075)
 - [Lifehacker] [15 Surprisingly Practical Ways to Use Dental Floss Around the House](https://lifehacker.com/15-surprisingly-practical-ways-to-use-dental-floss-arou-1848745159)
 - [Lifehacker] [Avoid These Raw Oysters From Canada, FDA Says](https://lifehacker.com/avoid-these-raw-oysters-from-canada-fda-says-1848764765)
-- [Lifehacker] [You Should Roast a Whole Bunch of Onions in a Muffin Tin](https://lifehacker.com/you-should-roast-a-whole-bunch-of-onions-in-a-muffin-ti-1848764907)
-- [Lifehacker] [Why You Should Un-Sync Google and Apple Photos](https://lifehacker.com/why-you-should-un-sync-google-and-apple-photos-1848762896)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
