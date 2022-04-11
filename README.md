@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Working Spotify Clone using React and Spotify API](https://dev.to/koolkishan/working-spotify-clone-using-react-and-spotify-api-2034)
+- [Dev.to/JS] [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://dev.to/suhailkakar/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022-53ok)
+- [Dev.to/JS] [Top Programming Languages to learn in 2022](https://dev.to/annoh_karlgusta/top-programming-languages-to-learn-in-2022-10gl)
 - [Dev.to/JS] [Biscuit Machinery Manufacturers in India](https://dev.to/mangalmachines/biscuit-machinery-manufacturers-in-india-4lon)
 - [Dev.to/JS] [How cool patch-package is?](https://dev.to/kedzierskidawid/how-cool-patch-package-is-4098)
 - [Dev.to/JS] [External SVGs that you can style](https://dev.to/javar/external-svgs-that-you-can-style-2a37)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript 1O1 series: Conditional statements. if, if else and switch](https://dev.to/osam1010/javascript-1o1-series-conditional-statements-if-if-else-and-switch-jeh)
 - [Dev.to/JS] [Review: Saleor vs Medusa Two Opensource Headless Ecommerce Platforms](https://dev.to/citizengovind/review-saleor-vs-medusa-two-opensource-headless-ecommerce-platforms-2h4b)
 - [Dev.to/JS] [Using Canvas API in JavaScript](https://dev.to/valenciawhite/using-canvas-api-in-javascript-5ce0)
-- [Dev.to/JS] [Heroku: Մեկ NodeJS ծրագրի բազմաթիվ IP հասցեներ](https://dev.to/meruzh/heroku-mek-nodejs-tsragri-bazmativ-ip-hastsener-2ng7)
-- [Dev.to/JS] [IP Rotation with NodeJS and Heroku](https://dev.to/meruzh/ip-rotation-with-nodejs-and-heroku-1oh6)
-- [Dev.to/JS] [Jetpack compose — Dependency injection with Dagger/HILT](https://dev.to/canopassoftware/jetpack-compose-dependency-injection-with-daggerhilt-7h4)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
