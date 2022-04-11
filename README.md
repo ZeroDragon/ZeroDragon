@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useAuth: AWS Amplify Auth + React Hooks = Easy Auth Management](https://dev.to/kwhitejr/useauth-aws-amplify-auth-react-hooks-easy-auth-management-2hon)
+- [Dev.to/JS] [Dev-Log 1: OH GOD NOT PATHLIB; Gold-Language](https://dev.to/colack/dev-log-1-oh-god-not-pathlib-gold-language-22c6)
 - [Dev.to/JS] [NPM Needs: snarkdown](https://dev.to/andrewusher/npm-needs-snarkdown-3l9b)
 - [Dev.to/JS] [RedwoodJS - Create a full stack application in minutes](https://dev.to/pacholoamit/redwoodjs-create-a-full-stack-application-in-minutes-2hff)
 - [Dev.to/JS] [Implementing a Countdown Element in a Quick App](https://dev.to/josholadele/implementing-a-countdown-element-in-a-quick-app-m75)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a JavaScript SPA Using the MVC Architecture &lpar;Part 1&rpar;](https://dev.to/tarwatuddin/how-to-create-a-javascript-spa-using-the-mvc-architecture-part-1-cc)
 - [Dev.to/JS] [Customizing the godawul MS Teams](https://dev.to/alia5/customizing-the-godawul-ms-teams-2b8i)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
-- [Dev.to/JS] [React SketchBoard DevLog #2 - Zoom, fix bugs and improve code quality.](https://dev.to/nordicbeaver/react-sketchboard-devlog-2-zoom-fix-bugs-and-improve-code-quality-2dcf)
-- [Dev.to/JS] [Open Source Adventures: Episode 36: Using D3 to figure out when Russia will lose its last armored vehicle](https://dev.to/taw/open-source-adventures-episode-36-using-d3-to-figure-out-when-russia-will-lose-its-last-armored-vehicle-31jn)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
