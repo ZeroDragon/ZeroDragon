@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Menyelesaikan soal &quot;A Very Big Sum&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-a-very-big-sum-di-hackerrank-pnk)
+- [Dev.to/JS] [How to build a CMS-powered blog with Nuxt](https://dev.to/asayerio_techblog/how-to-build-a-cms-powered-blog-with-nuxt-4i1h)
+- [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
+- [Dev.to/JS] [Integrating an ORM in Node.js in 5 easy steps](https://dev.to/ivanzm123/integrating-an-orm-in-nodejs-in-5-easy-steps-d4a)
 - [Dev.to/JS] [Resolvendo exercícios do JSchallenger - &lpar;Javascript Basics #3&rpar;](https://dev.to/ananopaisdojavascript/resolvendo-exercicios-do-jschallenger-javascript-basics-3-22bp)
 - [Dev.to/JS] [🤓 JavaScript facts :](https://dev.to/toqeer__abbas/javascript-facts--50hl)
 - [Dev.to/JS] [Ng-News: Episode 22/14](https://dev.to/rainerhahnekamp/ng-news-episode-2214-350g)
@@ -35,15 +39,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Un-Devil Your Eggs This Easter](https://lifehacker.com/un-devil-your-eggs-this-easter-1848778518)
 - [Lifehacker] [How to Stop Flowers From Wilting for As Long As Possible](https://lifehacker.com/how-to-stop-flowers-from-wilting-for-as-long-as-possibl-1848778288)
 - [Dev.to/JS] [#27 Guess The Output ???](https://dev.to/shamgurav96/27-guess-the-output--hml)
-- [Dev.to/JS] [How to change caret color using CSS ???](https://dev.to/shamgurav96/how-to-change-caret-color-using-css--4la6)
 - [Lifehacker] [13 Unique Family-Friendly Vacations That Aren&#39;t Just Theme Parks](https://lifehacker.com/13-unique-family-friendly-vacation-spots-that-arent-ju-1848777899)
 - [Lifehacker] [The Best Gardening Tools for Anyone With Back Pain](https://lifehacker.com/the-best-gardening-tools-for-anyone-with-back-pain-1848776200)
 - [Dev.to/JS] [How to use hooks in React Class components](https://dev.to/richardbray/how-to-use-hooks-in-react-class-components-4lhp)
 - [Dev.to/JS] [My VS Code setup for 2022](https://dev.to/itsjzt/my-vs-code-setup-for-2022-3klp)
-- [Dev.to/JS] [Day-63 Training At Ryaz](https://dev.to/mahin651/day-63-training-at-ryaz-41c7)
 - [Lifehacker] [How to Work With Someone You Hate](https://lifehacker.com/how-to-work-with-someone-you-hate-1848777512)
 - [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
-- [Dev.to/JS] [Amplication &amp; React: Adding Custom Endpoints](https://dev.to/amplication/amplication-react-adding-custom-endpoints-3ipm)
 - [Lifehacker] [The Difference Between Post- and Pre-Exposure Rabies Vaccines &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-post-and-pre-exposure-rabies-va-1848776070)
 - [Lifehacker] [The Right Way to Repaint Your Outdoor Furniture &lpar;So You Don’t Have to Replace It&rpar;](https://lifehacker.com/the-right-way-to-repaint-your-outdoor-furniture-so-you-1848774164)
 - [Lifehacker] [The Best Gadgets for When You Feel Bad Leaving Your Pet Alone](https://lifehacker.com/the-best-gadgets-for-when-you-feel-bad-leaving-your-pet-1848771471)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
 - [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
 - [Lifehacker] [Do Opposites Attract Anymore?](https://lifehacker.com/do-opposites-attract-anymore-1848728003)
-- [Lifehacker] [How to Use SMS Automatically When RCS or iMessage Don&#39;t Work](https://lifehacker.com/how-to-use-sms-automatically-when-rcs-or-imessage-dont-1848768400)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
