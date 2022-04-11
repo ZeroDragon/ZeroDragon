@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Useful online tools and websites for web developers](https://dev.to/hebertdev/useful-online-tools-and-websites-for-web-developers-520n)
+- [Dev.to/JS] [How to Switch Between Node Versions on Windows](https://dev.to/codeboss/how-to-switch-between-node-versions-on-windows-39mb)
+- [Dev.to/JS] [Chrome and onbeforeunload](https://dev.to/krowemoh/chrome-and-onbeforeunload-2mka)
 - [Dev.to/JS] [Menyelesaikan soal &quot;Compare the Triplets&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-compare-the-triplets-di-hackerrank-41aa)
 - [Dev.to/JS] [useAuth: AWS Amplify Auth + React Hooks = Easy Auth Management](https://dev.to/kwhitejr/useauth-aws-amplify-auth-react-hooks-easy-auth-management-2hon)
 - [Dev.to/JS] [Dev-Log 1: OH GOD NOT PATHLIB; Gold-Language](https://dev.to/colack/dev-log-1-oh-god-not-pathlib-gold-language-22c6)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google Analytics on Gridsome applications](https://dev.to/ptheodosiou/google-analytics-on-gridsome-applications-485k)
 - [Dev.to/JS] [ShowDEV: We built a side project that allows you to share and review resume🧾](https://dev.to/namanvyas/showdev-we-built-a-side-project-that-allows-you-to-share-and-review-resume-bl0)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
-- [Dev.to/JS] [Write beautiful and Elegant Javascript code with short-circuit evaluation.](https://dev.to/fayomihorace/write-beautiful-and-elegant-javascript-code-with-short-circuit-evaluation-56kd)
-- [Dev.to/JS] [Week one complete...](https://dev.to/taepal467/week-one-complete-3jfe)
-- [Dev.to/JS] [How to Create a JavaScript SPA Using the MVC Architecture &lpar;Part 1&rpar;](https://dev.to/tarwatuddin/how-to-create-a-javascript-spa-using-the-mvc-architecture-part-1-cc)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
