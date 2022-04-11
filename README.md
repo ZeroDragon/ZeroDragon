@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#27 Guess The Output ???](https://dev.to/shamgurav96/27-guess-the-output--hml)
+- [Dev.to/JS] [How to change caret color using CSS ???](https://dev.to/shamgurav96/how-to-change-caret-color-using-css--4la6)
+- [Lifehacker] [13 Unique Family-Friendly Vacation Spots &lpar;That Aren&#39;t Just Theme Parks&rpar;](https://lifehacker.com/13-unique-family-friendly-vacation-spots-that-arent-ju-1848777899)
 - [Lifehacker] [The Best Gardening Tools for Anyone With Back Pain](https://lifehacker.com/the-best-gardening-tools-for-anyone-with-back-pain-1848776200)
 - [Dev.to/JS] [How to use hooks in React Class components](https://dev.to/richardbray/how-to-use-hooks-in-react-class-components-4lhp)
 - [Dev.to/JS] [My VS Code setup for 2022](https://dev.to/itsjzt/my-vs-code-setup-for-2022-3klp)
@@ -38,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ljllk](https://dev.to/kali446/ljllk-16p0)
 - [Lifehacker] [The Right Way to Repaint Your Outdoor Furniture &lpar;So You Don’t Have to Replace It&rpar;](https://lifehacker.com/the-right-way-to-repaint-your-outdoor-furniture-so-you-1848774164)
 - [Dev.to/JS] [React Testing For Beginners](https://dev.to/safak/react-testing-for-beginners-1ak2)
-- [Dev.to/JS] [Polkadot future Price Prediction: 2023, 2025, 2030](https://dev.to/deveshtiwari/polkadot-future-price-prediction-2023-2025-2030-57o3)
 - [Lifehacker] [The Best Gadgets for When You Feel Bad Leaving Your Pet Alone](https://lifehacker.com/the-best-gadgets-for-when-you-feel-bad-leaving-your-pet-1848771471)
-- [Dev.to/JS] [NOTON: Live Video To Text Transcription💻](https://dev.to/soham0047/noton-live-video-to-text-transcription-ka0)
 - [Lifehacker] [10 of the Best Text-Based Adventure Games You Never Knew You Needed](https://lifehacker.com/10-of-the-best-text-based-adventure-games-you-never-kne-1848770935)
 - [Lifehacker] [How Do Astronauts Poop in Space?](https://lifehacker.com/how-do-astronauts-shit-in-space-1848770799)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The One Extra Thing You Should Always Buy From McDonald’s](https://lifehacker.com/the-one-extra-thing-you-should-always-buy-from-mcdonald-1848765527)
 - [Lifehacker] [How to Restore Your Old Deck Without Going Broke](https://lifehacker.com/how-to-restore-your-old-deck-without-going-broke-1848764994)
 - [Lifehacker] [How Many Calories Do You Actually Burn During Sex?](https://lifehacker.com/how-many-calories-do-you-actually-burn-during-sex-1848764963)
-- [Lifehacker] [Why You Should Buy the Dumbest TV You Can Find](https://lifehacker.com/why-you-should-buy-the-dumbest-tv-you-can-find-1848768646)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
