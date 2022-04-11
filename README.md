@@ -24,7 +24,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [RedwoodJS - Create a full stack application in minutes](https://dev.to/pacholoamit/redwoodjs-create-a-full-stack-application-in-minutes-2hff)
-- [Dev.to/JS] [The TypeScript Experience](https://dev.to/lucamug/the-typescript-experience-3m3o)
 - [Dev.to/JS] [Implementing a Countdown Element in a Quick App](https://dev.to/josholadele/implementing-a-countdown-element-in-a-quick-app-m75)
 - [Dev.to/JS] [Starting on Accordions](https://dev.to/bhaggu/starting-on-accordions-2j4)
 - [Dev.to/JS] [Google Analytics on Gridsome applications](https://dev.to/ptheodosiou/google-analytics-on-gridsome-applications-485k)
@@ -37,6 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Dev.to/JS] [React SketchBoard DevLog #2 - Zoom, fix bugs and improve code quality.](https://dev.to/nordicbeaver/react-sketchboard-devlog-2-zoom-fix-bugs-and-improve-code-quality-2dcf)
 - [Dev.to/JS] [Open Source Adventures: Episode 36: Using D3 to figure out when Russia will lose its last armored vehicle](https://dev.to/taw/open-source-adventures-episode-36-using-d3-to-figure-out-when-russia-will-lose-its-last-armored-vehicle-31jn)
+- [Dev.to/JS] [#26 𝐆𝐮𝐞𝐬𝐬 𝐭𝐡𝐞 𝐎𝐮𝐭𝐩𝐮𝐭 ???](https://dev.to/shamgurav96/26--2hhd)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
 - [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Lifehacker] [Stop Using Your Washing Machine as a Hamper](https://lifehacker.com/stop-using-your-washing-machine-as-a-hamper-1848771464)
