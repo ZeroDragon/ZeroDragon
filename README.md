@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Amplication &amp; React: Adding Custom Endpoints](https://dev.to/amplication/amplication-react-adding-custom-endpoints-3ipm)
+- [Dev.to/JS] [Just 1 thing you should do when you develop an application by Next.js + TypeScript + AWS Amplify](https://dev.to/aws-builders/just-1-thing-you-should-do-when-you-develop-an-application-by-nextjs-typescript-aws-amplify-36ck)
 - [Lifehacker] [The Difference Between Post- and Pre-Exposure Rabies Vaccines &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-post-and-pre-exposure-rabies-va-1848776070)
 - [Dev.to/JS] [Setup Vanilla React Native with TypeScript](https://dev.to/paulayo93/setup-vanilla-react-native-with-typescript-4k67)
 - [Dev.to/JS] [Paracetamol.js💊| #98: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-98-explica-este-codigo-javascript-3ep4)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build an International Ecommerce Website with Sanity and Commerce Layer](https://dev.to/bolajiayodeji/how-to-build-an-international-ecommerce-website-with-sanity-and-commerce-layer-555a)
 - [Dev.to/JS] [Laravel 9 Yajra Server Side Datatables Tutorial](https://dev.to/sureshramani/laravel-9-yajra-server-side-datatables-tutorial-1bgd)
 - [Dev.to/JS] [How to send Emails with JavaScript](https://dev.to/alexandramt/how-to-send-emails-with-javascript-ie3)
-- [Dev.to/JS] [I created 3D Music Visualizer using Three.JS and Web Audio API](https://dev.to/l1ve4code/i-created-3d-music-visualizer-using-threejs-and-web-audio-api-1p83)
 - [Lifehacker] [How Do Astronauts Poop in Space?](https://lifehacker.com/how-do-astronauts-shit-in-space-1848770799)
-- [Dev.to/JS] [&quot;Most Useless Demo Ever&quot; Deepgram Hackathon Submission](https://dev.to/jzombie/most-useless-demo-ever-deepgram-hackathon-submission-54jn)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
