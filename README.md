@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Text Editor with Text to Speech and Speech to Text!!!](https://dev.to/moose_said/text-editor-with-text-to-speech-and-speech-to-text-4l37)
+- [Dev.to/JS] [Simple JS thread optimization using Partytown &lpar;Web Workers&rpar;](https://dev.to/antonioerdeljac/optimize-js-thread-using-partytown-web-workers-39ac)
 - [Dev.to/JS] [Menyelesaikan soal &quot;A Very Big Sum&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-a-very-big-sum-di-hackerrank-pnk)
 - [Dev.to/JS] [How to build a CMS-powered blog with Nuxt](https://dev.to/asayerio_techblog/how-to-build-a-cms-powered-blog-with-nuxt-4i1h)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#27 Guess The Output ???](https://dev.to/shamgurav96/27-guess-the-output--hml)
 - [Lifehacker] [13 Unique Family-Friendly Vacations That Aren&#39;t Just Theme Parks](https://lifehacker.com/13-unique-family-friendly-vacation-spots-that-arent-ju-1848777899)
 - [Lifehacker] [The Best Gardening Tools for Anyone With Back Pain](https://lifehacker.com/the-best-gardening-tools-for-anyone-with-back-pain-1848776200)
-- [Dev.to/JS] [How to use hooks in React Class components](https://dev.to/richardbray/how-to-use-hooks-in-react-class-components-4lhp)
-- [Dev.to/JS] [My VS Code setup for 2022](https://dev.to/itsjzt/my-vs-code-setup-for-2022-3klp)
 - [Lifehacker] [How to Work With Someone You Hate](https://lifehacker.com/how-to-work-with-someone-you-hate-1848777512)
 - [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
 - [Lifehacker] [The Difference Between Post- and Pre-Exposure Rabies Vaccines &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-post-and-pre-exposure-rabies-va-1848776070)
