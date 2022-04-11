@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
+- [Dev.to/JS] [The Absolute Best JS Dev Tools in 2022](https://dev.to/transitivebullshit/the-absolute-best-js-dev-tools-in-2022-33ij)
+- [Dev.to/JS] [Writing a reactive library in Javascript [from scratch]](https://dev.to/adea/writing-a-reactive-library-in-javascript-from-scratch-1k1i)
+- [Lifehacker] [Ways to Get That Last Bit of Lotion Out of the Bottle, Ranked](https://lifehacker.com/ways-to-get-that-last-bit-of-lotion-out-of-the-bottle-1848777207)
 - [Dev.to/JS] [How to consume APIs in React using Fetch and Axios with the Async Await syntax](https://dev.to/delightfulcodes/how-to-consume-apis-in-react-using-fetch-and-axios-with-the-async-await-syntax-2mab)
 - [Lifehacker] [Un-Devil Your Eggs This Easter](https://lifehacker.com/un-devil-your-eggs-this-easter-1848778518)
 - [Lifehacker] [How to Stop Flowers From Wilting for As Long As Possible](https://lifehacker.com/how-to-stop-flowers-from-wilting-for-as-long-as-possibl-1848778288)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Post- and Pre-Exposure Rabies Vaccines &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-post-and-pre-exposure-rabies-va-1848776070)
 - [Dev.to/JS] [Setup Vanilla React Native with TypeScript](https://dev.to/paulayo93/setup-vanilla-react-native-with-typescript-4k67)
 - [Dev.to/JS] [Paracetamol.js💊| #98: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-98-explica-este-codigo-javascript-3ep4)
-- [Dev.to/JS] [Why you need a new library for forms on React?](https://dev.to/nickorsk2017/why-you-need-a-new-library-for-forms-on-react-2jh8)
-- [Dev.to/JS] [ljllk](https://dev.to/kali446/ljllk-16p0)
 - [Lifehacker] [The Right Way to Repaint Your Outdoor Furniture &lpar;So You Don’t Have to Replace It&rpar;](https://lifehacker.com/the-right-way-to-repaint-your-outdoor-furniture-so-you-1848774164)
 - [Lifehacker] [The Best Gadgets for When You Feel Bad Leaving Your Pet Alone](https://lifehacker.com/the-best-gadgets-for-when-you-feel-bad-leaving-your-pet-1848771471)
 - [Lifehacker] [10 of the Best Text-Based Adventure Games You Never Knew You Needed](https://lifehacker.com/10-of-the-best-text-based-adventure-games-you-never-kne-1848770935)
@@ -58,9 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do Opposites Attract Anymore?](https://lifehacker.com/do-opposites-attract-anymore-1848728003)
 - [Lifehacker] [How to Use SMS Automatically When RCS or iMessage Don&#39;t Work](https://lifehacker.com/how-to-use-sms-automatically-when-rcs-or-imessage-dont-1848768400)
 - [Lifehacker] [Your Apple Watch Just Needs a New Battery](https://lifehacker.com/your-apple-watch-just-needs-a-new-battery-1848769007)
-- [Lifehacker] [This Bot Can Tell You How Good You Really Are at Wordle](https://lifehacker.com/this-bot-can-tell-you-how-good-you-really-are-at-wordle-1848769075)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
-- [Lifehacker] [The One Extra Thing You Should Always Buy From McDonald’s](https://lifehacker.com/the-one-extra-thing-you-should-always-buy-from-mcdonald-1848765527)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
