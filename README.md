@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[Deepgram x DEV Hackathon Submission Post Placeholder Title]](https://dev.to/ernest2026/deepgram-x-dev-hackathon-submission-post-placeholder-title-46oh)
+- [Dev.to/JS] [How do you fix your JavaScript rendering issues with prerender?](https://dev.to/xahin289/how-do-you-fix-your-javascript-rendering-issues-with-prerender-2ce5)
+- [Dev.to/JS] [What you need to know about Typescript types](https://dev.to/dcsl-guidesmiths/what-you-need-to-know-about-typescript-types-2bd2)
+- [Dev.to/JS] [GlucoTrust Reviews &lpar;Updated 2022&rpar; – Blood Sugar Supplement Scam Or What?](https://dev.to/glucotrustweb/glucotrust-reviews-updated-2022-blood-sugar-supplement-scam-or-what-546l)
 - [Dev.to/JS] [Working Spotify Clone using React and Spotify API](https://dev.to/koolkishan/working-spotify-clone-using-react-and-spotify-api-2034)
 - [Dev.to/JS] [The Complete Roadmap and Resources to Become a Web3 Developer in 2022](https://dev.to/suhailkakar/the-complete-roadmap-and-resources-to-become-a-web3-developer-in-2022-53ok)
 - [Dev.to/JS] [Top Programming Languages to learn in 2022](https://dev.to/annoh_karlgusta/top-programming-languages-to-learn-in-2022-10gl)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [External SVGs that you can style](https://dev.to/javar/external-svgs-that-you-can-style-2a37)
 - [Dev.to/JS] [SCSS series : Mixins](https://dev.to/es404020/scss-series-mixins-4km3)
 - [Dev.to/JS] [Wait, What is Bhai lang? You should know about Bhai lang!!!](https://dev.to/coderinfinity/wait-what-is-bhai-lang-you-should-know-about-bhai-lang-2924)
-- [Dev.to/JS] [3 Ways to declare variables in JavaScript: var, let, and const explained](https://dev.to/anshuman_bhardwaj/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained-45am)
-- [Dev.to/JS] [Javascript 1O1 series: Conditional statements. if, if else and switch](https://dev.to/osam1010/javascript-1o1-series-conditional-statements-if-if-else-and-switch-jeh)
-- [Dev.to/JS] [Review: Saleor vs Medusa Two Opensource Headless Ecommerce Platforms](https://dev.to/citizengovind/review-saleor-vs-medusa-two-opensource-headless-ecommerce-platforms-2h4b)
-- [Dev.to/JS] [Using Canvas API in JavaScript](https://dev.to/valenciawhite/using-canvas-api-in-javascript-5ce0)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
