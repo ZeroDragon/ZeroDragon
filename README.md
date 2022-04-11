@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Biscuit Machinery Manufacturers in India](https://dev.to/mangalmachines/biscuit-machinery-manufacturers-in-india-4lon)
+- [Dev.to/JS] [How cool patch-package is?](https://dev.to/kedzierskidawid/how-cool-patch-package-is-4098)
+- [Dev.to/JS] [External SVGs that you can style](https://dev.to/javar/external-svgs-that-you-can-style-2a37)
+- [Dev.to/JS] [SCSS series : Mixins](https://dev.to/es404020/scss-series-mixins-4km3)
 - [Dev.to/JS] [Wait, What is Bhai lang? You should know about Bhai lang!!!](https://dev.to/coderinfinity/wait-what-is-bhai-lang-you-should-know-about-bhai-lang-2924)
 - [Dev.to/JS] [3 Ways to declare variables in JavaScript: var, let, and const explained](https://dev.to/anshuman_bhardwaj/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained-45am)
 - [Dev.to/JS] [Javascript 1O1 series: Conditional statements. if, if else and switch](https://dev.to/osam1010/javascript-1o1-series-conditional-statements-if-if-else-and-switch-jeh)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Heroku: Մեկ NodeJS ծրագրի բազմաթիվ IP հասցեներ](https://dev.to/meruzh/heroku-mek-nodejs-tsragri-bazmativ-ip-hastsener-2ng7)
 - [Dev.to/JS] [IP Rotation with NodeJS and Heroku](https://dev.to/meruzh/ip-rotation-with-nodejs-and-heroku-1oh6)
 - [Dev.to/JS] [Jetpack compose — Dependency injection with Dagger/HILT](https://dev.to/canopassoftware/jetpack-compose-dependency-injection-with-daggerhilt-7h4)
-- [Dev.to/JS] [Diabacore - Ingredients, Side Effects, Benefits And Price?](https://dev.to/diabacorebuys/diabacore-ingredients-side-effects-benefits-and-price-598d)
-- [Dev.to/JS] [Coding forums for beginners](https://dev.to/developerbishwas/coding-forums-for-beginners-1i0m)
-- [Dev.to/JS] [Useful online tools and websites for web developers](https://dev.to/hebertdev/useful-online-tools-and-websites-for-web-developers-520n)
-- [Dev.to/JS] [How to Switch Between Node Versions on Windows](https://dev.to/codeboss/how-to-switch-between-node-versions-on-windows-39mb)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
