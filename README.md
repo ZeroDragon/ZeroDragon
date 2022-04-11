@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wait, What is Bhai lang? You should know about Bhai lang!!!](https://dev.to/coderinfinity/wait-what-is-bhai-lang-you-should-know-about-bhai-lang-2924)
+- [Dev.to/JS] [3 Ways to declare variables in JavaScript: var, let, and const explained](https://dev.to/anshuman_bhardwaj/3-ways-to-declare-variables-in-javascript-var-let-and-const-explained-45am)
 - [Dev.to/JS] [Javascript 1O1 series: Conditional statements. if, if else and switch](https://dev.to/osam1010/javascript-1o1-series-conditional-statements-if-if-else-and-switch-jeh)
 - [Dev.to/JS] [Review: Saleor vs Medusa Two Opensource Headless Ecommerce Platforms](https://dev.to/citizengovind/review-saleor-vs-medusa-two-opensource-headless-ecommerce-platforms-2h4b)
 - [Dev.to/JS] [Using Canvas API in JavaScript](https://dev.to/valenciawhite/using-canvas-api-in-javascript-5ce0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Coding forums for beginners](https://dev.to/developerbishwas/coding-forums-for-beginners-1i0m)
 - [Dev.to/JS] [Useful online tools and websites for web developers](https://dev.to/hebertdev/useful-online-tools-and-websites-for-web-developers-520n)
 - [Dev.to/JS] [How to Switch Between Node Versions on Windows](https://dev.to/codeboss/how-to-switch-between-node-versions-on-windows-39mb)
-- [Dev.to/JS] [Chrome and onbeforeunload](https://dev.to/krowemoh/chrome-and-onbeforeunload-2mka)
-- [Dev.to/JS] [Menyelesaikan soal &quot;Compare the Triplets&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-compare-the-triplets-di-hackerrank-41aa)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
