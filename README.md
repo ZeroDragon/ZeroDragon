@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ShowDEV: We built a side project that allows you to share and review resume🧾](https://dev.to/namanvyas/showdev-we-built-a-side-project-that-allows-you-to-share-and-review-resume-3138)
+- [Dev.to/JS] [Understanding Javascript Async Race Conditions](https://dev.to/devsimplicity/understanding-javascript-async-race-conditions-19oh)
 - [Dev.to/JS] [[Deepgram x DEV Hackathon Submission Post Placeholder Title]](https://dev.to/ernest2026/deepgram-x-dev-hackathon-submission-post-placeholder-title-46oh)
 - [Dev.to/JS] [How do you fix your JavaScript rendering issues with prerender?](https://dev.to/xahin289/how-do-you-fix-your-javascript-rendering-issues-with-prerender-2ce5)
 - [Dev.to/JS] [What you need to know about Typescript types](https://dev.to/dcsl-guidesmiths/what-you-need-to-know-about-typescript-types-2bd2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Biscuit Machinery Manufacturers in India](https://dev.to/mangalmachines/biscuit-machinery-manufacturers-in-india-4lon)
 - [Dev.to/JS] [How cool patch-package is?](https://dev.to/kedzierskidawid/how-cool-patch-package-is-4098)
 - [Dev.to/JS] [External SVGs that you can style](https://dev.to/javar/external-svgs-that-you-can-style-2a37)
-- [Dev.to/JS] [SCSS series : Mixins](https://dev.to/es404020/scss-series-mixins-4km3)
-- [Dev.to/JS] [Wait, What is Bhai lang? You should know about Bhai lang!!!](https://dev.to/coderinfinity/wait-what-is-bhai-lang-you-should-know-about-bhai-lang-2924)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
