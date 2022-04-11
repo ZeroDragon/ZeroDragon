@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Gardening Tools for Anyone With Back Pain](https://lifehacker.com/the-best-gardening-tools-for-anyone-with-back-pain-1848776200)
+- [Dev.to/JS] [How to use hooks in React Class components](https://dev.to/richardbray/how-to-use-hooks-in-react-class-components-4lhp)
+- [Dev.to/JS] [My VS Code setup for 2022](https://dev.to/itsjzt/my-vs-code-setup-for-2022-3klp)
+- [Dev.to/JS] [Day-63 Training At Ryaz](https://dev.to/mahin651/day-63-training-at-ryaz-41c7)
+- [Lifehacker] [How to Work With Someone You Hate](https://lifehacker.com/how-to-work-with-someone-you-hate-1848777512)
+- [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
 - [Dev.to/JS] [Amplication &amp; React: Adding Custom Endpoints](https://dev.to/amplication/amplication-react-adding-custom-endpoints-3ipm)
 - [Dev.to/JS] [Just 1 thing you should do when you develop an application by Next.js + TypeScript + AWS Amplify](https://dev.to/aws-builders/just-1-thing-you-should-do-when-you-develop-an-application-by-nextjs-typescript-aws-amplify-36ck)
 - [Lifehacker] [The Difference Between Post- and Pre-Exposure Rabies Vaccines &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-post-and-pre-exposure-rabies-va-1848776070)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Gadgets for When You Feel Bad Leaving Your Pet Alone](https://lifehacker.com/the-best-gadgets-for-when-you-feel-bad-leaving-your-pet-1848771471)
 - [Dev.to/JS] [NOTON: Live Video To Text Transcription💻](https://dev.to/soham0047/noton-live-video-to-text-transcription-ka0)
 - [Lifehacker] [10 of the Best Text-Based Adventure Games You Never Knew You Needed](https://lifehacker.com/10-of-the-best-text-based-adventure-games-you-never-kne-1848770935)
-- [Dev.to/JS] [How to Build an International Ecommerce Website with Sanity and Commerce Layer](https://dev.to/bolajiayodeji/how-to-build-an-international-ecommerce-website-with-sanity-and-commerce-layer-555a)
-- [Dev.to/JS] [Laravel 9 Yajra Server Side Datatables Tutorial](https://dev.to/sureshramani/laravel-9-yajra-server-side-datatables-tutorial-1bgd)
-- [Dev.to/JS] [How to send Emails with JavaScript](https://dev.to/alexandramt/how-to-send-emails-with-javascript-ie3)
 - [Lifehacker] [How Do Astronauts Poop in Space?](https://lifehacker.com/how-do-astronauts-shit-in-space-1848770799)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Restore Your Old Deck Without Going Broke](https://lifehacker.com/how-to-restore-your-old-deck-without-going-broke-1848764994)
 - [Lifehacker] [How Many Calories Do You Actually Burn During Sex?](https://lifehacker.com/how-many-calories-do-you-actually-burn-during-sex-1848764963)
 - [Lifehacker] [Why You Should Buy the Dumbest TV You Can Find](https://lifehacker.com/why-you-should-buy-the-dumbest-tv-you-can-find-1848768646)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Is &#39;The Ick&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-is-t-1848767322)
-- [Lifehacker] [This Is the ‘Ideal’ Amount of Time to Spend in the Shower](https://lifehacker.com/this-is-the-ideal-amount-of-time-to-spend-in-the-show-1848765787)
-- [Lifehacker] [10 Non-Alcoholic Beers That Are Actually Worth Drinking](https://lifehacker.com/10-non-alcoholic-beers-that-are-actually-worth-drinking-1848764117)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
 
