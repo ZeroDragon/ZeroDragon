@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NPM vs Yarn: let&#39;s settle things out.](https://dev.to/ayoub3bidi/npm-vs-yarn-lets-settle-things-out-28m6)
+- [Dev.to/JS] [How Flutter Can Help You Develop The Perfect Cross Platform App](https://dev.to/itpathsolutions/how-flutter-can-help-you-develop-the-perfect-cross-platform-app-ffp)
+- [Dev.to/JS] [How An Open Source Platform Resolves Shopify&#39;s Multi-Currency Issues](https://dev.to/medusajs/how-an-open-source-platform-resolves-shopifys-multi-currency-issues-47lg)
+- [Dev.to/JS] [What jobs did you have *before* IT career?](https://dev.to/hvm3/what-jobs-did-you-have-before-it-career-4c81)
 - [Dev.to/JS] [Create a Torrent Application with Node from scratch.](https://dev.to/swensson/create-a-torrent-application-with-node-from-scratch-1j3e)
 - [Dev.to/JS] [You finished your Bootcamp. Now what?](https://dev.to/404answernotfound/you-finished-your-bootcamp-now-what-4963)
 - [Dev.to/JS] [Implement Quick Blog Comments in VueJS](https://dev.to/hackmamba/implement-quick-blog-comments-in-vuejs-457j)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Before you chase another &quot;side hustle&quot;, read this](https://dev.to/dragosnedelcu/before-you-chase-another-side-hustle-read-this-4lcb)
 - [Dev.to/JS] [New webdev](https://dev.to/1toyosi/new-webdev-1hh8)
 - [Dev.to/JS] [Mongoss](https://dev.to/mahimshariar/mongoss-3e2)
-- [Dev.to/JS] [Using Configurations and Options](https://dev.to/hyperredstart/using-configurations-and-options-3cif)
-- [Dev.to/JS] [Array.flat&lpar;&rpar; - for flatting nested arrays within an array](https://dev.to/dillionmegida/arrayflat-for-flatting-nested-arrays-within-an-array-3d1o)
-- [Dev.to/JS] [CinnaChroma Reviews:&lpar;U.S Updated 2022&rpar; – Read True facts Only!](https://dev.to/cinnachromaget/cinnachroma-reviewsus-updated-2022-read-true-facts-only-6pg)
-- [Dev.to/JS] [Responsive Car Game using HTML, CSS, and Javascript](https://dev.to/incoderweb/responsive-car-game-using-html-css-and-javascript-21m9)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
