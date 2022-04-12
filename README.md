@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 129 - Structural Optimizations](https://dev.to/mcsee/code-smell-129-structural-optimizations-3l62)
+- [Dev.to/JS] [Menyelesaikan soal &quot;Diagonal Difference&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-diagonal-difference-di-hackerrank-nh7)
 - [Dev.to/JS] [Software Dev Weekly Update #11: JavaScript and The DOM](https://dev.to/realnerdethan/software-dev-weekly-update-11-javascript-and-the-dom-3dm3)
 - [Dev.to/JS] [Aurelia: Build Powerful Web Apps with Simple Javascript](https://dev.to/asayerio_techblog/aurelia-build-powerful-web-apps-with-simple-javascript-ing)
 - [Dev.to/JS] [Tip to shrink you code using &quot;Omit&quot; to create interfaces!](https://dev.to/gustavohst/type-tip-to-shrink-you-code-6c3)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get Started with JavaScript Promises &lpar;in Under 2 Minutes&rpar;](https://dev.to/adamjhawley/get-started-with-javascript-promises-in-under-2-minutes-58ge)
 - [Dev.to/JS] [Javascript Shorthands: Ternary, Logical || and &amp;&amp; Assignments](https://dev.to/tywenk/javascript-shorthands-ternary-logical-and-assignments-14ea)
 - [Dev.to/JS] [React: How to use useState&lpar;&rpar;](https://dev.to/tywenk/react-how-to-use-usestate-1c4e)
-- [Dev.to/JS] [How Do Hash Tables Work Under the Hood?](https://dev.to/tywenk/how-do-hash-tables-work-under-the-hood-4nff)
-- [Dev.to/JS] [Optional Chaining in Javascript](https://dev.to/tywenk/optional-chaining-in-javascript-2oa2)
 - [Lifehacker] [No, You Cannot Make &#39;the Inside of Burrata&#39; With Mozzarella and Cream](https://lifehacker.com/no-you-cannot-make-the-inside-of-burrata-with-mozzarel-1848784018)
 - [Lifehacker] [Why Your Home Needs Its Own Email Address](https://lifehacker.com/why-your-home-needs-its-own-email-address-1848783795)
 - [Lifehacker] [5 Box Office Flops That Are Actually Worth Watching](https://lifehacker.com/5-box-office-flops-that-are-actually-worth-watching-1848783745)
