@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [5 Box Office Flops That Are Actually Worth Watching](https://lifehacker.com/5-box-office-flops-that-are-actually-worth-watching-1848783745)
+- [Dev.to/JS] [These 3 differences between Reactjs and React Native are easy to spot.](https://dev.to/napoleon039/these-3-differences-between-reactjs-and-react-native-are-easy-to-spot-53d0)
+- [Dev.to/JS] [Send email in reactjs using react email drag and drop editor and nodemailer on nodejs](https://dev.to/techfortified/send-email-in-reactjs-using-react-email-drag-and-drop-editor-and-nodemailer-on-nodejs-3lbi)
+- [Dev.to/JS] [How to Not Expose the Personal Data of 19,577 Canadians](https://dev.to/rida/how-to-not-expose-the-personal-data-of-19577-canadians-41gf)
+- [Lifehacker] [How to Date Your Old High School Crush &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-date-your-old-high-school-crush-and-why-you-sho-1848779776)
+- [Dev.to/JS] [Day-64 Training At Ryaz](https://dev.to/mahin651/day-64-training-at-ryaz-3cpo)
+- [Dev.to/JS] [How you can build a Headless WordPress with Vue](https://dev.to/richkurtzman/how-you-can-build-a-headless-wordpress-with-vue-adc)
+- [Dev.to/JS] [React useState hook](https://dev.to/vanshsh/react-usestate-hook-1jcf)
 - [Dev.to/JS] [Getting Started With TailwindCSS v3.0 in React](https://dev.to/gregorygaines/getting-started-with-tailwindcss-v30-in-react-ndp)
 - [Dev.to/JS] [Convert to HTML, My First Website](https://dev.to/mathewphilip/convert-to-html-my-first-website-4bja)
 - [Lifehacker] [13 Extremely Specific Emergency Preparedness Tips](https://lifehacker.com/13-extremely-specific-emergency-preparedness-tips-1848770729)
@@ -31,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is the New Social Media App ‘BeReal’ &lpar;and Do You Really Want to Be Real&rpar;?](https://lifehacker.com/what-is-the-new-social-media-app-bereal-and-do-you-r-1848780094)
 - [Dev.to/JS] [3 amazing developer tools you have not been using yet](https://dev.to/kavyargb/3-amazing-developer-tools-you-have-not-been-using-yet-4ef7)
 - [Dev.to/JS] [Build a Map Application on AWS in 10 Steps](https://dev.to/aspittel/build-a-map-application-on-aws-in-10-steps-3ofa)
-- [Dev.to/JS] [React-spring animator of the year](https://dev.to/alaminhossain01052000/react-spring-animator-of-the-year-7fj)
-- [Dev.to/JS] [What &amp; Why of programmable proxy](https://dev.to/flomesh/what-why-of-programmable-proxy-joc)
-- [Dev.to/JS] [What is WalletConnect?](https://dev.to/shittu_olumide_/what-is-walletconnect-12h9)
-- [Dev.to/JS] [Módulo 03 &lpar;34 à 41&rpar; - TypeScript Zero to Hero](https://dev.to/glaucia86/modulo-03-34-a-41-typescript-zero-to-hero-1gjh)
 - [Lifehacker] [Why You Should Wet Sand Your Drywall](https://lifehacker.com/why-you-should-wet-sand-your-drywall-1848782259)
-- [Dev.to/JS] [Dynamic Gradient Generator Built using React.js](https://dev.to/smppatel99999/dynamic-gradient-generator-built-using-reactjs-2hec)
-- [Dev.to/JS] [Is It Necessary to Use Semicolons in JavaScript?](https://dev.to/ltvengineering/is-it-necessary-to-use-semicolons-in-javascript-57gk)
 - [Lifehacker] [Why You Have Night Sweats &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-have-night-sweats-and-what-to-do-about-it-1848780014)
 - [Lifehacker] [The Five Easiest Ways to Take a Complete Backup of Your Mac](https://lifehacker.com/the-five-easiest-ways-to-take-a-complete-backup-of-your-1848778306)
 - [Lifehacker] [These Advanced Stretching Techniques Can Actually Make You More Flexible](https://lifehacker.com/these-advanced-stretching-techniques-can-actually-make-1848779796)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Gadgets for When You Feel Bad Leaving Your Pet Alone](https://lifehacker.com/the-best-gadgets-for-when-you-feel-bad-leaving-your-pet-1848771471)
 - [Lifehacker] [10 of the Best Text-Based Adventure Games You Never Knew You Needed](https://lifehacker.com/10-of-the-best-text-based-adventure-games-you-never-kne-1848770935)
 - [Lifehacker] [How Do Astronauts Poop in Space?](https://lifehacker.com/how-do-astronauts-shit-in-space-1848770799)
-- [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
-- [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
