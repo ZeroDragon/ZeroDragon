@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comprehensive guide to GraphQL clients, part 2](https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-2-3o8f)
 - [Dev.to/JS] [NPM vs Yarn: let&#39;s settle things out.](https://dev.to/ayoub3bidi/npm-vs-yarn-lets-settle-things-out-28m6)
 - [Dev.to/JS] [How Flutter Can Help You Develop The Perfect Cross Platform App](https://dev.to/itpathsolutions/how-flutter-can-help-you-develop-the-perfect-cross-platform-app-ffp)
 - [Dev.to/JS] [How An Open Source Platform Resolves Shopify&#39;s Multi-Currency Issues](https://dev.to/medusajs/how-an-open-source-platform-resolves-shopifys-multi-currency-issues-47lg)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to integrate Google ReCaptcha v3 correctly in 2022?](https://dev.to/ajayv1/how-to-integrate-google-recaptcha-v3-correctly-in-2022-27a8)
 - [Dev.to/JS] [Before you chase another &quot;side hustle&quot;, read this](https://dev.to/dragosnedelcu/before-you-chase-another-side-hustle-read-this-4lcb)
 - [Dev.to/JS] [New webdev](https://dev.to/1toyosi/new-webdev-1hh8)
-- [Dev.to/JS] [Mongoss](https://dev.to/mahimshariar/mongoss-3e2)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
