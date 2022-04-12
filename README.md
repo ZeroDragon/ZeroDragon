@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an Axios Instance](https://dev.to/ndrohith/creating-an-axios-instance-5b4n)
+- [Dev.to/JS] [CinnaChroma Reviews](https://dev.to/cinnachromafac1/cinnachroma-reviews-2a4c)
+- [Dev.to/JS] [Angular Routing #2](https://dev.to/seshubabubatchu/angular-routing-2-a76)
 - [Dev.to/JS] [Building Lego brick effect generator with Svelte](https://dev.to/msyyn/building-lego-brick-effect-generator-with-svelte-1h36)
 - [Dev.to/JS] [Angular Routing](https://dev.to/seshubabubatchu/angular-routing-1kbg)
 - [Dev.to/JS] [PIPES IN ANGULAR 11](https://dev.to/deepachaurasia1/pipes-in-angular-11-35n0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue2 vs Vue3](https://dev.to/krowemoh/vue2-vs-vue3-32g2)
 - [Dev.to/JS] [I want to integrate twitter api](https://dev.to/trektohimalaya/i-want-to-integrate-twitter-api-a86)
 - [Dev.to/JS] [I created a program that lets you create cool HTML widgets for your PC](https://dev.to/underpig1/i-created-a-program-that-lets-you-create-cool-html-widgets-for-your-pc-bc8)
-- [Dev.to/JS] [Prototype and Inheritance](https://dev.to/avinashvagh/prototype-and-inheritance-19mp)
-- [Dev.to/JS] [What you do with what you know really matters a lot](https://dev.to/zacjac/what-you-do-with-what-you-know-is-really-matters-a-lot-3b40)
-- [Dev.to/JS] [Captio: Video Subtitles in Different Languages](https://dev.to/asaoluelijah/captio-video-subtitles-in-different-languages-2g1k)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
