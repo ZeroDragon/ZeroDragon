@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 7: Mastering React](https://dev.to/kemystra/day-7-mastering-react-2e05)
+- [Dev.to/JS] [Jest vs Mocha vs Jasmine: Comparing The Top 3 JavaScript Testing Frameworks](https://dev.to/haritalt/jest-vs-mocha-vs-jasmine-comparing-the-top-3-javascript-testing-frameworks-422f)
+- [Lifehacker] [You Can Scramble Eggs in a Pot of Simmering Water](https://lifehacker.com/you-can-scramble-eggs-in-a-pot-of-simmering-water-1848780342)
+- [Dev.to/JS] [Request - Minimal HTTP Client](https://dev.to/aiocat/request-minimal-http-client-4m95)
 - [Lifehacker] [Why You Really Should Go to Your High School Reunion](https://lifehacker.com/why-you-really-should-go-to-your-high-school-reunion-1848779696)
 - [Dev.to/JS] [New Here!](https://dev.to/jfscoertzen/new-here-1lf8)
 - [Dev.to/JS] [An introduction to Vue 3 and Typescript - Getting started](https://dev.to/tqbit/an-introduction-to-vue-3-and-typescript-getting-started-32ne)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Comprehensive guide to GraphQL clients, part 2](https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-2-3o8f)
 - [Dev.to/JS] [NPM vs Yarn: let&#39;s settle things out.](https://dev.to/ayoub3bidi/npm-vs-yarn-lets-settle-things-out-28m6)
 - [Dev.to/JS] [How Flutter Can Help You Develop The Perfect Cross Platform App](https://dev.to/itpathsolutions/how-flutter-can-help-you-develop-the-perfect-cross-platform-app-ffp)
-- [Dev.to/JS] [How An Open Source Platform Resolves Shopify&#39;s Multi-Currency Issues](https://dev.to/medusajs/how-an-open-source-platform-resolves-shopifys-multi-currency-issues-47lg)
-- [Dev.to/JS] [What jobs did you have *before* IT career?](https://dev.to/hvm3/what-jobs-did-you-have-before-it-career-4c81)
-- [Dev.to/JS] [Create a Torrent Application with Node from scratch.](https://dev.to/swensson/create-a-torrent-application-with-node-from-scratch-1j3e)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best U.S. Cities to Visit With Your Dog](https://lifehacker.com/these-are-the-best-u-s-cities-to-visit-with-your-dog-1848771493)
 - [Lifehacker] [Transition Into Spring With the Backyard Smash](https://lifehacker.com/transition-into-spring-with-the-backyard-smash-1848770356)
 - [Lifehacker] [How Much Money Do You Really Save By Unplugging Appliances?](https://lifehacker.com/how-much-money-do-you-really-save-by-unplugging-applian-1848763594)
-- [Lifehacker] [The Best Way to Answer &#39;Tell Me About a Mistake You Made&#39; During an Interview](https://lifehacker.com/the-best-way-to-answer-tell-me-about-a-mistake-you-made-1848770251)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
