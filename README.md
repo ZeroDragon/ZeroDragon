@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How caching data in Angular with Rxjs](https://dev.to/danywalls/how-caching-data-in-angular-with-rxjs-27mj)
+- [Dev.to/JS] [Validate related schema attributes with Zod](https://dev.to/wakeupmh/validate-related-attributes-of-a-schema-with-zod-on-ts-2phg)
+- [Lifehacker] [Why Your Home Needs Its Own Email Address](https://lifehacker.com/why-your-home-needs-its-own-email-address-1848783795)
+- [Dev.to/JS] [How to become a web developer in 2022 &lpar;My Take&rpar;](https://dev.to/chetanvermaa/how-to-become-a-web-developer-in-2022-my-take-17kb)
+- [Dev.to/JS] [How Console.Log&lpar;&rpar; changed everything for me!](https://dev.to/jvictor940/how-consolelog-changed-everything-for-me-3lg2)
 - [Lifehacker] [5 Box Office Flops That Are Actually Worth Watching](https://lifehacker.com/5-box-office-flops-that-are-actually-worth-watching-1848783745)
 - [Dev.to/JS] [These 3 differences between Reactjs and React Native are easy to spot.](https://dev.to/napoleon039/these-3-differences-between-reactjs-and-react-native-are-easy-to-spot-53d0)
 - [Dev.to/JS] [Send email in reactjs using react email drag and drop editor and nodemailer on nodejs](https://dev.to/techfortified/send-email-in-reactjs-using-react-email-drag-and-drop-editor-and-nodemailer-on-nodejs-3lbi)
@@ -34,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started With TailwindCSS v3.0 in React](https://dev.to/gregorygaines/getting-started-with-tailwindcss-v30-in-react-ndp)
 - [Dev.to/JS] [Convert to HTML, My First Website](https://dev.to/mathewphilip/convert-to-html-my-first-website-4bja)
 - [Lifehacker] [13 Extremely Specific Emergency Preparedness Tips](https://lifehacker.com/13-extremely-specific-emergency-preparedness-tips-1848770729)
-- [Dev.to/JS] [How to use NPM modules in Kotlin/JS - Discord Bot Series &lpar;Part 1&rpar;](https://dev.to/kevinschildhorn/how-to-use-npm-modules-in-kotlinjs-discord-bot-series-part-1-51ni)
-- [Dev.to/JS] [How to write a declarative JavaScript promise wrapper](https://dev.to/logrocket/how-to-write-a-declarative-javascript-promise-wrapper-3kk7)
 - [Lifehacker] [What Is the New Social Media App ‘BeReal’ &lpar;and Do You Really Want to Be Real&rpar;?](https://lifehacker.com/what-is-the-new-social-media-app-bereal-and-do-you-r-1848780094)
-- [Dev.to/JS] [3 amazing developer tools you have not been using yet](https://dev.to/kavyargb/3-amazing-developer-tools-you-have-not-been-using-yet-4ef7)
-- [Dev.to/JS] [Build a Map Application on AWS in 10 Steps](https://dev.to/aspittel/build-a-map-application-on-aws-in-10-steps-3ofa)
 - [Lifehacker] [Why You Should Wet Sand Your Drywall](https://lifehacker.com/why-you-should-wet-sand-your-drywall-1848782259)
 - [Lifehacker] [Why You Have Night Sweats &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-have-night-sweats-and-what-to-do-about-it-1848780014)
 - [Lifehacker] [The Five Easiest Ways to Take a Complete Backup of Your Mac](https://lifehacker.com/the-five-easiest-ways-to-take-a-complete-backup-of-your-1848778306)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Right Way to Repaint Your Outdoor Furniture &lpar;So You Don’t Have to Replace It&rpar;](https://lifehacker.com/the-right-way-to-repaint-your-outdoor-furniture-so-you-1848774164)
 - [Lifehacker] [The Best Gadgets for When You Feel Bad Leaving Your Pet Alone](https://lifehacker.com/the-best-gadgets-for-when-you-feel-bad-leaving-your-pet-1848771471)
 - [Lifehacker] [10 of the Best Text-Based Adventure Games You Never Knew You Needed](https://lifehacker.com/10-of-the-best-text-based-adventure-games-you-never-kne-1848770935)
-- [Lifehacker] [How Do Astronauts Poop in Space?](https://lifehacker.com/how-do-astronauts-shit-in-space-1848770799)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
