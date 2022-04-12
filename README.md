@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Brush up map, filter and reduce in 5 minutes](https://dev.to/rohanjsx/brush-up-map-filter-and-reduce-in-5-minutes-f3c)
+- [Dev.to/JS] [React components composition: how to get it right](https://dev.to/adevnadia/react-components-composition-how-to-get-it-right-4mgn)
+- [Dev.to/JS] [Vue2 vs Vue3](https://dev.to/krowemoh/vue2-vs-vue3-32g2)
+- [Dev.to/JS] [I want to integrate twitter api](https://dev.to/trektohimalaya/i-want-to-integrate-twitter-api-a86)
 - [Dev.to/JS] [I created a program that lets you create cool HTML widgets for your PC](https://dev.to/underpig1/i-created-a-program-that-lets-you-create-cool-html-widgets-for-your-pc-bc8)
 - [Dev.to/JS] [Prototype and Inheritance](https://dev.to/avinashvagh/prototype-and-inheritance-19mp)
 - [Dev.to/JS] [What you do with what you know really matters a lot](https://dev.to/zacjac/what-you-do-with-what-you-know-is-really-matters-a-lot-3b40)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript Tip: Safer functions with branded types.](https://dev.to/andersonjoseph/typescript-tip-safer-functions-with-branded-types-14o4)
 - [Dev.to/JS] [Text Editor with Text to Speech and Speech to Text!!!](https://dev.to/moose_said/text-editor-with-text-to-speech-and-speech-to-text-4l37)
 - [Dev.to/JS] [Simple JS thread optimization using Partytown &lpar;Web Workers&rpar;](https://dev.to/antonioerdeljac/optimize-js-thread-using-partytown-web-workers-39ac)
-- [Dev.to/JS] [Menyelesaikan soal &quot;A Very Big Sum&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-a-very-big-sum-di-hackerrank-pnk)
-- [Dev.to/JS] [How to build a CMS-powered blog with Nuxt](https://dev.to/asayerio_techblog/how-to-build-a-cms-powered-blog-with-nuxt-4i1h)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
-- [Dev.to/JS] [Integrating an ORM in Node.js in 5 easy steps](https://dev.to/ivanzm123/integrating-an-orm-in-nodejs-in-5-easy-steps-d4a)
-- [Dev.to/JS] [Resolvendo exercícios do JSchallenger - &lpar;Javascript Basics #3&rpar;](https://dev.to/ananopaisdojavascript/resolvendo-exercicios-do-jschallenger-javascript-basics-3-22bp)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
 - [Lifehacker] [Ways to Get That Last Bit of Lotion Out of the Bottle, Ranked](https://lifehacker.com/ways-to-get-that-last-bit-of-lotion-out-of-the-bottle-1848777207)
