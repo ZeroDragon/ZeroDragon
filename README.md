@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Software Dev Weekly Update #11: JavaScript and The DOM](https://dev.to/realnerdethan/software-dev-weekly-update-11-javascript-and-the-dom-3dm3)
+- [Dev.to/JS] [Aurelia: Build Powerful Web Apps with Simple Javascript](https://dev.to/asayerio_techblog/aurelia-build-powerful-web-apps-with-simple-javascript-ing)
+- [Dev.to/JS] [Tip to shrink you code using &quot;Omit&quot; to create interfaces!](https://dev.to/gustavohst/type-tip-to-shrink-you-code-6c3)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Dev.to/JS] [Dabbling in Development - Learning Resources](https://dev.to/tomreifenberg/dabbling-in-development-learning-resources-2ebm)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React: How to use useState&lpar;&rpar;](https://dev.to/tywenk/react-how-to-use-usestate-1c4e)
 - [Dev.to/JS] [How Do Hash Tables Work Under the Hood?](https://dev.to/tywenk/how-do-hash-tables-work-under-the-hood-4nff)
 - [Dev.to/JS] [Optional Chaining in Javascript](https://dev.to/tywenk/optional-chaining-in-javascript-2oa2)
-- [Dev.to/JS] [How to Use Nested Routes in React Router 6](https://dev.to/tywenk/how-to-use-nested-routes-in-react-router-6-4jhd)
 - [Lifehacker] [No, You Cannot Make &#39;the Inside of Burrata&#39; With Mozzarella and Cream](https://lifehacker.com/no-you-cannot-make-the-inside-of-burrata-with-mozzarel-1848784018)
-- [Dev.to/JS] [Configuration ESLint and Prettier in a project React.](https://dev.to/reynaldoz/configuration-eslint-and-prettier-in-a-project-react-2m7i)
-- [Dev.to/JS] [Paracetamol.js💊| #99: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-99-explica-este-codigo-javascript-2c6)
 - [Lifehacker] [Why Your Home Needs Its Own Email Address](https://lifehacker.com/why-your-home-needs-its-own-email-address-1848783795)
 - [Lifehacker] [5 Box Office Flops That Are Actually Worth Watching](https://lifehacker.com/5-box-office-flops-that-are-actually-worth-watching-1848783745)
 - [Lifehacker] [How to Date Your Old High School Crush &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-date-your-old-high-school-crush-and-why-you-sho-1848779776)
