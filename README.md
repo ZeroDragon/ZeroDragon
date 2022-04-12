@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array.flat&lpar;&rpar; - for flatting nested arrays within an array](https://dev.to/dillionmegida/arrayflat-for-flatting-nested-arrays-within-an-array-3d1o)
+- [Dev.to/JS] [CinnaChroma Reviews:&lpar;U.S Updated 2022&rpar; – Read True facts Only!](https://dev.to/cinnachromaget/cinnachroma-reviewsus-updated-2022-read-true-facts-only-6pg)
+- [Dev.to/JS] [Responsive Car Game using HTML, CSS, and Javascript](https://dev.to/incoderweb/responsive-car-game-using-html-css-and-javascript-21m9)
+- [Dev.to/JS] [WordPress vs HTML](https://dev.to/freebeliever/wordpress-vs-html-1k2o)
 - [Dev.to/JS] [Creating an Axios Instance](https://dev.to/ndrohith/creating-an-axios-instance-5b4n)
 - [Dev.to/JS] [CinnaChroma Reviews](https://dev.to/cinnachromafac1/cinnachroma-reviews-2a4c)
 - [Dev.to/JS] [Angular Routing #2](https://dev.to/seshubabubatchu/angular-routing-2-a76)
 - [Dev.to/JS] [Building Lego brick effect generator with Svelte](https://dev.to/msyyn/building-lego-brick-effect-generator-with-svelte-1h36)
-- [Dev.to/JS] [Angular Routing](https://dev.to/seshubabubatchu/angular-routing-1kbg)
+- [Dev.to/JS] [Angular Routing #1](https://dev.to/seshubabubatchu/angular-routing-1kbg)
 - [Dev.to/JS] [PIPES IN ANGULAR 11](https://dev.to/deepachaurasia1/pipes-in-angular-11-35n0)
 - [Dev.to/JS] [Create React forms in a few minutes.](https://dev.to/nickorsk2017/create-react-forms-in-a-few-minutes-1fgj)
 - [Dev.to/JS] [Brush up map, filter and reduce in 5 minutes](https://dev.to/rohanjsx/brush-up-map-filter-and-reduce-in-5-minutes-f3c)
-- [Dev.to/JS] [React components composition: how to get it right](https://dev.to/adevnadia/react-components-composition-how-to-get-it-right-4mgn)
-- [Dev.to/JS] [Vue2 vs Vue3](https://dev.to/krowemoh/vue2-vs-vue3-32g2)
-- [Dev.to/JS] [I want to integrate twitter api](https://dev.to/trektohimalaya/i-want-to-integrate-twitter-api-a86)
-- [Dev.to/JS] [I created a program that lets you create cool HTML widgets for your PC](https://dev.to/underpig1/i-created-a-program-that-lets-you-create-cool-html-widgets-for-your-pc-bc8)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
