@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a Torrent Application with Node from scratch.](https://dev.to/swensson/create-a-torrent-application-with-node-from-scratch-1j3e)
+- [Dev.to/JS] [You finished your Bootcamp. Now what?](https://dev.to/404answernotfound/you-finished-your-bootcamp-now-what-4963)
 - [Dev.to/JS] [Implement Quick Blog Comments in VueJS](https://dev.to/hackmamba/implement-quick-blog-comments-in-vuejs-457j)
 - [Dev.to/JS] [Console live logging mishaps and pitfalls and how to avoid them](https://dev.to/ayyash/console-live-logging-mishaps-and-pitfalls-and-how-to-avoid-them-5f27)
 - [Dev.to/JS] [How to integrate Google ReCaptcha v3 correctly in 2022?](https://dev.to/ajayv1/how-to-integrate-google-recaptcha-v3-correctly-in-2022-27a8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.flat&lpar;&rpar; - for flatting nested arrays within an array](https://dev.to/dillionmegida/arrayflat-for-flatting-nested-arrays-within-an-array-3d1o)
 - [Dev.to/JS] [CinnaChroma Reviews:&lpar;U.S Updated 2022&rpar; – Read True facts Only!](https://dev.to/cinnachromaget/cinnachroma-reviewsus-updated-2022-read-true-facts-only-6pg)
 - [Dev.to/JS] [Responsive Car Game using HTML, CSS, and Javascript](https://dev.to/incoderweb/responsive-car-game-using-html-css-and-javascript-21m9)
-- [Dev.to/JS] [WordPress vs HTML](https://dev.to/freebeliever/wordpress-vs-html-1k2o)
-- [Dev.to/JS] [Creating an Axios Instance](https://dev.to/ndrohith/creating-an-axios-instance-5b4n)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
