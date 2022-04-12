@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started With TailwindCSS v3.0 in React](https://dev.to/gregorygaines/getting-started-with-tailwindcss-v30-in-react-ndp)
+- [Dev.to/JS] [Convert to HTML, My First Website](https://dev.to/mathewphilip/convert-to-html-my-first-website-4bja)
+- [Lifehacker] [13 Extremely Specific Emergency Preparedness Tips](https://lifehacker.com/13-extremely-specific-emergency-preparedness-tips-1848770729)
+- [Dev.to/JS] [How to use NPM modules in Kotlin/JS - Discord Bot Series &lpar;Part 1&rpar;](https://dev.to/kevinschildhorn/how-to-use-npm-modules-in-kotlinjs-discord-bot-series-part-1-51ni)
+- [Dev.to/JS] [How to write a declarative JavaScript promise wrapper](https://dev.to/logrocket/how-to-write-a-declarative-javascript-promise-wrapper-3kk7)
+- [Lifehacker] [What Is the New Social Media App ‘BeReal’ &lpar;and Do You Really Want to Be Real&rpar;?](https://lifehacker.com/what-is-the-new-social-media-app-bereal-and-do-you-r-1848780094)
 - [Dev.to/JS] [3 amazing developer tools you have not been using yet](https://dev.to/kavyargb/3-amazing-developer-tools-you-have-not-been-using-yet-4ef7)
 - [Dev.to/JS] [Build a Map Application on AWS in 10 Steps](https://dev.to/aspittel/build-a-map-application-on-aws-in-10-steps-3ofa)
 - [Dev.to/JS] [React-spring animator of the year](https://dev.to/alaminhossain01052000/react-spring-animator-of-the-year-7fj)
@@ -32,14 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Wet Sand Your Drywall](https://lifehacker.com/why-you-should-wet-sand-your-drywall-1848782259)
 - [Dev.to/JS] [Dynamic Gradient Generator Built using React.js](https://dev.to/smppatel99999/dynamic-gradient-generator-built-using-reactjs-2hec)
 - [Dev.to/JS] [Is It Necessary to Use Semicolons in JavaScript?](https://dev.to/ltvengineering/is-it-necessary-to-use-semicolons-in-javascript-57gk)
-- [Dev.to/JS] [Shorten The Console.log](https://dev.to/shamgurav96/shorten-the-consolelog-25h8)
 - [Lifehacker] [Why You Have Night Sweats &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-have-night-sweats-and-what-to-do-about-it-1848780014)
 - [Lifehacker] [The Five Easiest Ways to Take a Complete Backup of Your Mac](https://lifehacker.com/the-five-easiest-ways-to-take-a-complete-backup-of-your-1848778306)
 - [Lifehacker] [These Advanced Stretching Techniques Can Actually Make You More Flexible](https://lifehacker.com/these-advanced-stretching-techniques-can-actually-make-1848779796)
-- [Dev.to/JS] [Day 7: Mastering React](https://dev.to/kemystra/day-7-mastering-react-2e05)
-- [Dev.to/JS] [Jest vs Mocha vs Jasmine: Comparing The Top 3 JavaScript Testing Frameworks](https://dev.to/haritalt/jest-vs-mocha-vs-jasmine-comparing-the-top-3-javascript-testing-frameworks-422f)
 - [Lifehacker] [You Can Scramble Eggs in a Pot of Simmering Water](https://lifehacker.com/you-can-scramble-eggs-in-a-pot-of-simmering-water-1848780342)
-- [Dev.to/JS] [Request - Minimal HTTP Client](https://dev.to/aiocat/request-minimal-http-client-4m95)
 - [Lifehacker] [Why You Really Should Go to Your High School Reunion](https://lifehacker.com/why-you-really-should-go-to-your-high-school-reunion-1848779696)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Do Astronauts Poop in Space?](https://lifehacker.com/how-do-astronauts-shit-in-space-1848770799)
 - [Lifehacker] [The Actual Difference Between a Half, 3/4, and Full Bathroom](https://lifehacker.com/the-actual-difference-between-a-half-3-4-and-full-bat-1848773483)
 - [Lifehacker] [How to Start a &#39;Bee Lawn&#39; &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-start-a-bee-lawn-and-why-you-should-1848773490)
-- [Lifehacker] [You&#39;ll Need to Plan Your Vacation Around This &#39;Brutally Hot&#39; Summer](https://lifehacker.com/youll-need-to-plan-your-vacation-around-this-brutally-h-1848773494)
-- [Lifehacker] [How to Get Rid of Weeds That Grow Through Cracks in the Pavement](https://lifehacker.com/how-to-get-rid-of-weeds-that-grow-through-cracks-in-the-1848771475)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
