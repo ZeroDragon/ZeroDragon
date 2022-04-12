@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
+- [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
+- [Dev.to/JS] [Dabbling in Development - Learning Resources](https://dev.to/tomreifenberg/dabbling-in-development-learning-resources-2ebm)
+- [Dev.to/JS] [How to compress images on client-side](https://dev.to/ibelick/how-to-compress-images-on-client-side-2id3)
+- [Dev.to/JS] [Tiny react hook to upload files into IPFS](https://dev.to/ibelick/tiny-react-hook-to-upload-files-into-ipfs-3a75)
 - [Dev.to/JS] [Problem-solving techniques to avoid yelling at your computer](https://dev.to/colocodes/problem-solving-techniques-to-avoid-yelling-at-your-computer-41e9)
+- [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
 - [Dev.to/JS] [Get Started with JavaScript Promises &lpar;in Under 2 Minutes&rpar;](https://dev.to/adamjhawley/get-started-with-javascript-promises-in-under-2-minutes-58ge)
 - [Dev.to/JS] [Javascript Shorthands: Ternary, Logical || and &amp;&amp; Assignments](https://dev.to/tywenk/javascript-shorthands-ternary-logical-and-assignments-14ea)
 - [Dev.to/JS] [React: How to use useState&lpar;&rpar;](https://dev.to/tywenk/react-how-to-use-usestate-1c4e)
@@ -33,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, You Cannot Make &#39;the Inside of Burrata&#39; With Mozzarella and Cream](https://lifehacker.com/no-you-cannot-make-the-inside-of-burrata-with-mozzarel-1848784018)
 - [Dev.to/JS] [Configuration ESLint and Prettier in a project React.](https://dev.to/reynaldoz/configuration-eslint-and-prettier-in-a-project-react-2m7i)
 - [Dev.to/JS] [Paracetamol.js💊| #99: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-99-explica-este-codigo-javascript-2c6)
-- [Dev.to/JS] [Post Event Reminders to Slack Using Netlify Functions](https://dev.to/virtualcoffee/post-event-reminders-to-slack-using-netlify-functions-3ie0)
-- [Dev.to/JS] [How caching data in Angular with Rxjs](https://dev.to/danywalls/how-caching-data-in-angular-with-rxjs-27mj)
-- [Dev.to/JS] [Validate related schema attributes with Zod](https://dev.to/wakeupmh/validate-related-attributes-of-a-schema-with-zod-on-ts-2phg)
 - [Lifehacker] [Why Your Home Needs Its Own Email Address](https://lifehacker.com/why-your-home-needs-its-own-email-address-1848783795)
 - [Lifehacker] [5 Box Office Flops That Are Actually Worth Watching](https://lifehacker.com/5-box-office-flops-that-are-actually-worth-watching-1848783745)
 - [Lifehacker] [How to Date Your Old High School Crush &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-date-your-old-high-school-crush-and-why-you-sho-1848779776)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Gardening Tools for Anyone With Back Pain](https://lifehacker.com/the-best-gardening-tools-for-anyone-with-back-pain-1848776200)
 - [Lifehacker] [How to Work With Someone You Hate](https://lifehacker.com/how-to-work-with-someone-you-hate-1848777512)
 - [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
-- [Lifehacker] [The Difference Between Post- and Pre-Exposure Rabies Vaccines &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-post-and-pre-exposure-rabies-va-1848776070)
-- [Lifehacker] [The Right Way to Repaint Your Outdoor Furniture &lpar;So You Don’t Have to Replace It&rpar;](https://lifehacker.com/the-right-way-to-repaint-your-outdoor-furniture-so-you-1848774164)
-- [Lifehacker] [The Best Gadgets for When You Feel Bad Leaving Your Pet Alone](https://lifehacker.com/the-best-gadgets-for-when-you-feel-bad-leaving-your-pet-1848771471)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
