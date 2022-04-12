@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prototype and Inheritance](https://dev.to/avinashvagh/prototype-and-inheritance-19mp)
 - [Dev.to/JS] [What you do with what you know really matters a lot](https://dev.to/zacjac/what-you-do-with-what-you-know-is-really-matters-a-lot-3b40)
 - [Dev.to/JS] [Captio: Video Subtitles in Different Languages](https://dev.to/asaoluelijah/captio-video-subtitles-in-different-languages-2g1k)
 - [Dev.to/JS] [Anime &lpar;or any other video&rpar; Translator - Chrome extension that automatically translates web videos! 👯](https://dev.to/gregorygaines/anime-or-any-other-video-translator-chrome-extension-that-automatically-translates-web-videos-2mmi)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating an ORM in Node.js in 5 easy steps](https://dev.to/ivanzm123/integrating-an-orm-in-nodejs-in-5-easy-steps-d4a)
 - [Dev.to/JS] [Resolvendo exercícios do JSchallenger - &lpar;Javascript Basics #3&rpar;](https://dev.to/ananopaisdojavascript/resolvendo-exercicios-do-jschallenger-javascript-basics-3-22bp)
 - [Dev.to/JS] [🤓 JavaScript facts :](https://dev.to/toqeer__abbas/javascript-facts--50hl)
-- [Dev.to/JS] [Ng-News: Episode 22/14](https://dev.to/rainerhahnekamp/ng-news-episode-2214-350g)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
 - [Lifehacker] [Ways to Get That Last Bit of Lotion Out of the Bottle, Ranked](https://lifehacker.com/ways-to-get-that-last-bit-of-lotion-out-of-the-bottle-1848777207)
