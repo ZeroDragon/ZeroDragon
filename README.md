@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create React forms in a few minutes.](https://dev.to/nickorsk2017/create-react-forms-in-a-few-minutes-1fgj)
 - [Dev.to/JS] [Brush up map, filter and reduce in 5 minutes](https://dev.to/rohanjsx/brush-up-map-filter-and-reduce-in-5-minutes-f3c)
 - [Dev.to/JS] [React components composition: how to get it right](https://dev.to/adevnadia/react-components-composition-how-to-get-it-right-4mgn)
 - [Dev.to/JS] [Vue2 vs Vue3](https://dev.to/krowemoh/vue2-vs-vue3-32g2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Anime &lpar;or any other video&rpar; Translator - Chrome extension that automatically translates web videos! 👯](https://dev.to/gregorygaines/anime-or-any-other-video-translator-chrome-extension-that-automatically-translates-web-videos-2mmi)
 - [Dev.to/JS] [Typescript Tip: Safer functions with branded types.](https://dev.to/andersonjoseph/typescript-tip-safer-functions-with-branded-types-14o4)
 - [Dev.to/JS] [Text Editor with Text to Speech and Speech to Text!!!](https://dev.to/moose_said/text-editor-with-text-to-speech-and-speech-to-text-4l37)
-- [Dev.to/JS] [Simple JS thread optimization using Partytown &lpar;Web Workers&rpar;](https://dev.to/antonioerdeljac/optimize-js-thread-using-partytown-web-workers-39ac)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
