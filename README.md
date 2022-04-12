@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Captio: Video Subtitles in Different Languages](https://dev.to/asaoluelijah/captio-video-subtitles-in-different-languages-2g1k)
+- [Dev.to/JS] [Anime &lpar;or any other video&rpar; Translator - Chrome extension that automatically translates web videos! 👯](https://dev.to/gregorygaines/anime-or-any-other-video-translator-chrome-extension-that-automatically-translates-web-videos-2mmi)
+- [Dev.to/JS] [Typescript Tip: Safer functions with branded types.](https://dev.to/andersonjoseph/typescript-tip-safer-functions-with-branded-types-14o4)
 - [Dev.to/JS] [Text Editor with Text to Speech and Speech to Text!!!](https://dev.to/moose_said/text-editor-with-text-to-speech-and-speech-to-text-4l37)
 - [Dev.to/JS] [Simple JS thread optimization using Partytown &lpar;Web Workers&rpar;](https://dev.to/antonioerdeljac/optimize-js-thread-using-partytown-web-workers-39ac)
 - [Dev.to/JS] [Menyelesaikan soal &quot;A Very Big Sum&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-a-very-big-sum-di-hackerrank-pnk)
@@ -35,12 +38,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
 - [Dev.to/JS] [The Absolute Best JS Dev Tools in 2022](https://dev.to/transitivebullshit/the-absolute-best-js-dev-tools-in-2022-33ij)
-- [Dev.to/JS] [Writing a reactive library in Javascript [from scratch]](https://dev.to/adea/writing-a-reactive-library-in-javascript-from-scratch-1k1i)
 - [Lifehacker] [Ways to Get That Last Bit of Lotion Out of the Bottle, Ranked](https://lifehacker.com/ways-to-get-that-last-bit-of-lotion-out-of-the-bottle-1848777207)
-- [Dev.to/JS] [How to consume APIs in React using Fetch and Axios with the Async Await syntax](https://dev.to/delightfulcodes/how-to-consume-apis-in-react-using-fetch-and-axios-with-the-async-await-syntax-2mab)
 - [Lifehacker] [Un-Devil Your Eggs This Easter](https://lifehacker.com/un-devil-your-eggs-this-easter-1848778518)
 - [Lifehacker] [How to Stop Flowers From Wilting for As Long As Possible](https://lifehacker.com/how-to-stop-flowers-from-wilting-for-as-long-as-possibl-1848778288)
-- [Dev.to/JS] [#27 Guess The Output ???](https://dev.to/shamgurav96/27-guess-the-output--hml)
 - [Lifehacker] [13 Unique Family-Friendly Vacations That Aren&#39;t Just Theme Parks](https://lifehacker.com/13-unique-family-friendly-vacation-spots-that-arent-ju-1848777899)
 - [Lifehacker] [The Best Gardening Tools for Anyone With Back Pain](https://lifehacker.com/the-best-gardening-tools-for-anyone-with-back-pain-1848776200)
 - [Lifehacker] [How to Work With Someone You Hate](https://lifehacker.com/how-to-work-with-someone-you-hate-1848777512)
