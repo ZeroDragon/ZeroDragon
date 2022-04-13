@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Copy text to the user&#39;s clipboard](https://dev.to/clementgaudiniere/js-copy-text-to-the-users-clipboard-4hp4)
+- [Lifehacker] [These Things Are Bringing Down the Value of Your Home](https://lifehacker.com/these-things-are-bringing-down-the-value-of-your-home-1848788226)
+- [Dev.to/JS] [Tutorial: Adding Analytics to the CryptoPunks V1 Site](https://dev.to/sort_xyz/tutorial-adding-analytics-to-the-cryptopunks-v1-site-4ad0)
+- [Dev.to/JS] [A Simple API for Web3 Data](https://dev.to/sort_xyz/a-simple-api-for-web3-data-1i42)
+- [Lifehacker] [Why Your Dog Eats Poop &lpar;and How to Get Them to Stop&rpar;](https://lifehacker.com/why-your-dog-eats-shit-and-how-to-get-them-to-stop-1848788585)
+- [Lifehacker] [5 Questions You Should Never Ask on a First Date &lpar;and What to Ask Instead&rpar;](https://lifehacker.com/5-questions-you-should-never-ask-on-a-first-date-and-w-1848788290)
 - [Dev.to/JS] [Javascript console.time&lpar;&rpar;, What is it?](https://dev.to/osam1010/javascript-consoletime-what-is-it-2g37)
 - [Dev.to/JS] [Random Password Generator in HTML, CSS, and Javascript](https://dev.to/incoderweb/random-password-generator-in-html-css-and-javascript-4905)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
@@ -36,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use a Lemon Peel to Rehydrate Your Weed](https://lifehacker.com/use-a-lemon-peel-to-rehydrate-your-weed-1848787925)
 - [Dev.to/JS] [Maintaining TypeScript Superpowers When Types Are Out of Reach](https://dev.to/rida/maintaining-typescript-superpowers-when-types-are-out-of-reach-4j8)
 - [Dev.to/JS] [Sumriddle, like Wordle but for guessing numbers](https://dev.to/adnan_khan/sumriddle-like-wordle-but-for-guessing-numbers-573f)
-- [Dev.to/JS] [How to create an NFT-gated website](https://dev.to/thirdweb/how-to-create-an-nft-gated-website-176k)
 - [Lifehacker] [You Need to Patch These 128 Security Bugs on Your PC](https://lifehacker.com/you-need-to-patch-these-128-security-bugs-on-your-pc-1848787694)
 - [Lifehacker] [The Fastest Ways to Convert Your iPhone HEIC Photos to JPG &lpar;So You Can Actually Use Them&rpar;](https://lifehacker.com/the-fastest-ways-to-convert-your-iphone-heic-photos-to-1848768694)
-- [Dev.to/JS] [How do you master React.js and Javascript?](https://dev.to/tejender_upadhyay/how-do-you-master-reactjs-and-javascript-2040)
-- [Dev.to/JS] [How To Implement Drag And Drop In JavaScript Using Selenium?](https://dev.to/haritalt/how-to-implement-drag-and-drop-in-javascript-using-selenium-l0h)
 - [Lifehacker] [How to Fix Cracks in Your Driveway Without Paying a Professional](https://lifehacker.com/how-to-fix-cracks-in-your-driveway-without-paying-a-pro-1848786419)
 - [Lifehacker] [15 True Crime Podcasts That Aren&#39;t Too Murder-y](https://lifehacker.com/15-true-crime-podcasts-that-arent-too-murder-y-1848785894)
 - [Lifehacker] [Are Expensive Eggs Actually &#39;Better&#39; for You?](https://lifehacker.com/are-expensive-eggs-actually-better-for-you-1848785394)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Have Night Sweats &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-have-night-sweats-and-what-to-do-about-it-1848780014)
 - [Lifehacker] [The Five Easiest Ways to Take a Complete Backup of Your Mac](https://lifehacker.com/the-five-easiest-ways-to-take-a-complete-backup-of-your-1848778306)
 - [Lifehacker] [These Advanced Stretching Techniques Can Actually Make You More Flexible](https://lifehacker.com/these-advanced-stretching-techniques-can-actually-make-1848779796)
-- [Lifehacker] [You Can Scramble Eggs in a Pot of Simmering Water](https://lifehacker.com/you-can-scramble-eggs-in-a-pot-of-simmering-water-1848780342)
-- [Lifehacker] [Why You Really Should Go to Your High School Reunion](https://lifehacker.com/why-you-really-should-go-to-your-high-school-reunion-1848779696)
-- [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
