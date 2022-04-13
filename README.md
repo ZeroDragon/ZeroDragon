@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [tinwayJS](https://dev.to/tinway/tinwayjs-154o)
+- [Dev.to/JS] [Story-time: Tackling No Double Favorite Cat](https://dev.to/bperez3237/story-time-tackling-no-double-favorite-cat-56ha)
 - [Dev.to/JS] [Weather app javascript | Weather app using HTML CSS Javascript](https://dev.to/codewithrandom/weather-app-javascript-weather-app-using-html-css-javascript-pmk)
 - [Dev.to/JS] [Multi step form | Multi step form html css | Javascript Multi Step Form](https://dev.to/codewithrandom/multi-step-form-multi-step-form-html-css-javascript-multi-step-form-4emi)
 - [Dev.to/JS] [Code Smell 129 - Structural Optimizations](https://dev.to/mcsee/code-smell-129-structural-optimizations-3l62)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dabbling in Development - Learning Resources](https://dev.to/tomreifenberg/dabbling-in-development-learning-resources-2ebm)
 - [Dev.to/JS] [How to compress images on client-side](https://dev.to/ibelick/how-to-compress-images-on-client-side-2id3)
 - [Dev.to/JS] [Tiny react hook to upload files into IPFS](https://dev.to/ibelick/tiny-react-hook-to-upload-files-into-ipfs-3a75)
-- [Dev.to/JS] [Problem-solving techniques to avoid yelling at your computer](https://dev.to/colocodes/problem-solving-techniques-to-avoid-yelling-at-your-computer-41e9)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
-- [Dev.to/JS] [Get Started with JavaScript Promises &lpar;in Under 2 Minutes&rpar;](https://dev.to/adamjhawley/get-started-with-javascript-promises-in-under-2-minutes-58ge)
 - [Lifehacker] [No, You Cannot Make &#39;the Inside of Burrata&#39; With Mozzarella and Cream](https://lifehacker.com/no-you-cannot-make-the-inside-of-burrata-with-mozzarel-1848784018)
 - [Lifehacker] [Why Your Home Needs Its Own Email Address](https://lifehacker.com/why-your-home-needs-its-own-email-address-1848783795)
 - [Lifehacker] [5 Box Office Flops That Are Actually Worth Watching](https://lifehacker.com/5-box-office-flops-that-are-actually-worth-watching-1848783745)
