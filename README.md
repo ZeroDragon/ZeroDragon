@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js and Tumblr as a CMS](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-5fki)
+- [Dev.to/JS] [How to test Google&#39;s In-App Purchase](https://dev.to/da9ish/how-to-test-googles-in-app-purchase-86a)
+- [Dev.to/JS] [Writing cleaner React code](https://dev.to/da9ish/writing-cleaner-react-code-28j2)
+- [Dev.to/JS] [Hosting your assets on CDN](https://dev.to/iamdyt/hosting-your-assets-on-cdn-27aa)
+- [Dev.to/JS] [Day 5: Refactor-Reflect](https://dev.to/yvad60/day-5-refactor-reflect-41l3)
+- [Dev.to/JS] [Linked List in plain english](https://dev.to/doziestar/linked-list-in-plain-english-2bd)
 - [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
 - [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
@@ -37,14 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Lifehacker] [32 Movies Best Watched in Total Ignorance](https://lifehacker.com/32-movies-best-watched-in-total-ignorance-1848783702)
 - [Dev.to/JS] [Day-65 Training At Ryaz](https://dev.to/mahin651/day-65-training-at-ryaz-29hh)
-- [Dev.to/JS] [Longest Palindromic Substring: JavaScript](https://dev.to/nathankurz91/longest-palindromic-substring-javascript-5aj4)
-- [Dev.to/JS] [Paracetamol.js💊| #100: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-100-explica-este-codigo-javascript-5bn)
 - [Lifehacker] [The Trees, Shrubs, and Plants You Need to Prune in the Spring &lpar;and How to Do It Right&rpar;](https://lifehacker.com/the-trees-shrubs-and-plants-you-need-to-prune-in-the-1848787485)
-- [Dev.to/JS] [Svelte Share Buttons: using Web Share API with Fallback](https://dev.to/askrodney/svelte-share-buttons-using-web-share-api-with-fallback-195b)
-- [Dev.to/JS] [Building an API using Express.js, Postgres, Sequelize CLI and Jest for Unit Testing Part 1](https://dev.to/luigimorel_1/building-an-api-using-expressjs-postgres-sequelize-cli-and-jest-for-unit-testing-part-1-2d89)
 - [Lifehacker] [Use a Lemon Peel to Rehydrate Your Weed](https://lifehacker.com/use-a-lemon-peel-to-rehydrate-your-weed-1848787925)
-- [Dev.to/JS] [Maintaining TypeScript Superpowers When Types Are Out of Reach](https://dev.to/rida/maintaining-typescript-superpowers-when-types-are-out-of-reach-4j8)
-- [Dev.to/JS] [Sumriddle, like Wordle but for guessing numbers](https://dev.to/adnan_khan/sumriddle-like-wordle-but-for-guessing-numbers-573f)
 - [Lifehacker] [You Need to Patch These 128 Security Bugs on Your PC](https://lifehacker.com/you-need-to-patch-these-128-security-bugs-on-your-pc-1848787694)
 - [Lifehacker] [The Fastest Ways to Convert Your iPhone HEIC Photos to JPG &lpar;So You Can Actually Use Them&rpar;](https://lifehacker.com/the-fastest-ways-to-convert-your-iphone-heic-photos-to-1848768694)
 - [Lifehacker] [How to Fix Cracks in Your Driveway Without Paying a Professional](https://lifehacker.com/how-to-fix-cracks-in-your-driveway-without-paying-a-pro-1848786419)
