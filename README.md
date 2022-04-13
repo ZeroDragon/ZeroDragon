@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use a Lemon Peel to Rehydrate Your Weed](https://lifehacker.com/use-a-lemon-peel-to-rehydrate-your-weed-1848787925)
+- [Dev.to/JS] [Maintaining TypeScript Superpowers When Types Are Out of Reach](https://dev.to/rida/maintaining-typescript-superpowers-when-types-are-out-of-reach-4j8)
+- [Dev.to/JS] [Sumriddle, like Wordle but for guessing numbers](https://dev.to/adnan_khan/sumriddle-like-wordle-but-for-guessing-numbers-573f)
+- [Dev.to/JS] [How to create an NFT-gated website](https://dev.to/thirdweb/how-to-create-an-nft-gated-website-176k)
+- [Lifehacker] [You Need to Patch These 128 Security Bugs on Your PC](https://lifehacker.com/you-need-to-patch-these-128-security-bugs-on-your-pc-1848787694)
 - [Lifehacker] [The Fastest Ways to Convert Your iPhone HEIC Photos to JPG &lpar;So You Can Actually Use Them&rpar;](https://lifehacker.com/the-fastest-ways-to-convert-your-iphone-heic-photos-to-1848768694)
 - [Dev.to/JS] [How do you master React.js and Javascript?](https://dev.to/tejender_upadhyay/how-do-you-master-reactjs-and-javascript-2040)
 - [Dev.to/JS] [How To Implement Drag And Drop In JavaScript Using Selenium?](https://dev.to/haritalt/how-to-implement-drag-and-drop-in-javascript-using-selenium-l0h)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Are Expensive Eggs Actually &#39;Better&#39; for You?](https://lifehacker.com/are-expensive-eggs-actually-better-for-you-1848785394)
 - [Dev.to/JS] [Better Debugging Output: The Console.Assert Way!](https://dev.to/dylanlacey/better-debugging-output-the-consoleassert-way-16k2)
 - [Lifehacker] [18 of the Best Ways to Customize Your Gmail Inbox](https://lifehacker.com/18-of-the-best-ways-to-customize-your-gmail-inbox-1848782200)
-- [Dev.to/JS] [Angular State Management with NgRx](https://dev.to/syncfusion/angular-state-management-with-ngrx-21c4)
-- [Dev.to/JS] [10k subscribers on YouTube ! Watch and subscribe to learn programming :&rpar;](https://dev.to/thenerdydev/10k-subscribers-on-youtube-watch-and-subscribe-to-learn-programming--3ii9)
-- [Dev.to/JS] [Checkout the latest Books by Login via Mobile Number feature using HMS Account Kit in Books App &lpar;React Native&rpar;](https://dev.to/hmscommunity/checkout-the-latest-books-by-login-via-mobile-number-feature-using-hms-account-kit-in-books-app-react-native-22m5)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Lifehacker] [14 Unexpected Household Uses for Nail Polish Remover](https://lifehacker.com/14-unexpected-household-uses-for-nail-polish-remover-1848771298)
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
-- [Lifehacker] [Ways to Get That Last Bit of Lotion Out of the Bottle, Ranked](https://lifehacker.com/ways-to-get-that-last-bit-of-lotion-out-of-the-bottle-1848777207)
-- [Lifehacker] [Un-Devil Your Eggs This Easter](https://lifehacker.com/un-devil-your-eggs-this-easter-1848778518)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
