@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript console.time&lpar;&rpar;, What is it?](https://dev.to/osam1010/javascript-consoletime-what-is-it-2g37)
+- [Dev.to/JS] [Random Password Generator in HTML, CSS, and Javascript](https://dev.to/incoderweb/random-password-generator-in-html-css-and-javascript-4905)
+- [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Lifehacker] [32 Movies Best Watched in Total Ignorance](https://lifehacker.com/32-movies-best-watched-in-total-ignorance-1848783702)
 - [Dev.to/JS] [Day-65 Training At Ryaz](https://dev.to/mahin651/day-65-training-at-ryaz-29hh)
 - [Dev.to/JS] [Longest Palindromic Substring: JavaScript](https://dev.to/nathankurz91/longest-palindromic-substring-javascript-5aj4)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do you master React.js and Javascript?](https://dev.to/tejender_upadhyay/how-do-you-master-reactjs-and-javascript-2040)
 - [Dev.to/JS] [How To Implement Drag And Drop In JavaScript Using Selenium?](https://dev.to/haritalt/how-to-implement-drag-and-drop-in-javascript-using-selenium-l0h)
 - [Lifehacker] [How to Fix Cracks in Your Driveway Without Paying a Professional](https://lifehacker.com/how-to-fix-cracks-in-your-driveway-without-paying-a-pro-1848786419)
-- [Dev.to/JS] [Most Important Array functions in Javascript](https://dev.to/ddev2636/most-important-array-functions-in-javascript-2888)
-- [Dev.to/JS] [Use Storybook with Lando](https://dev.to/rachids/use-storybook-with-lando-1e52)
 - [Lifehacker] [15 True Crime Podcasts That Aren&#39;t Too Murder-y](https://lifehacker.com/15-true-crime-podcasts-that-arent-too-murder-y-1848785894)
 - [Lifehacker] [Are Expensive Eggs Actually &#39;Better&#39; for You?](https://lifehacker.com/are-expensive-eggs-actually-better-for-you-1848785394)
 - [Lifehacker] [18 of the Best Ways to Customize Your Gmail Inbox](https://lifehacker.com/18-of-the-best-ways-to-customize-your-gmail-inbox-1848782200)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Really Should Go to Your High School Reunion](https://lifehacker.com/why-you-really-should-go-to-your-high-school-reunion-1848779696)
 - [Lifehacker] [How to Attend a Seder as a Non-Jew](https://lifehacker.com/how-to-attend-a-seder-as-a-non-jew-1848779745)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
-- [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
-- [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
 ---
 
