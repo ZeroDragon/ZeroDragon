@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Design Pattern in TypeScript: Strategy Pattern](https://dev.to/bhargavmantha/design-pattern-in-typescript-strategy-pattern-4i5d)
 - [Dev.to/JS] [tinwayJS](https://dev.to/tinway/tinwayjs-154o)
 - [Dev.to/JS] [Story-time: Tackling No Double Favorite Cat](https://dev.to/bperez3237/story-time-tackling-no-double-favorite-cat-56ha)
 - [Dev.to/JS] [Weather app javascript | Weather app using HTML CSS Javascript](https://dev.to/codewithrandom/weather-app-javascript-weather-app-using-html-css-javascript-pmk)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Dev.to/JS] [Dabbling in Development - Learning Resources](https://dev.to/tomreifenberg/dabbling-in-development-learning-resources-2ebm)
 - [Dev.to/JS] [How to compress images on client-side](https://dev.to/ibelick/how-to-compress-images-on-client-side-2id3)
-- [Dev.to/JS] [Tiny react hook to upload files into IPFS](https://dev.to/ibelick/tiny-react-hook-to-upload-files-into-ipfs-3a75)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
 - [Lifehacker] [No, You Cannot Make &#39;the Inside of Burrata&#39; With Mozzarella and Cream](https://lifehacker.com/no-you-cannot-make-the-inside-of-burrata-with-mozzarel-1848784018)
 - [Lifehacker] [Why Your Home Needs Its Own Email Address](https://lifehacker.com/why-your-home-needs-its-own-email-address-1848783795)
