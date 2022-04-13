@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [18 of the Best Ways to Customize Your Gmail Inbox](https://lifehacker.com/18-of-the-best-ways-to-customize-your-gmail-inbox-1848782200)
+- [Dev.to/JS] [10k subscribers on YouTube ! Watch and subscribe to learn programming :&rpar;](https://dev.to/thenerdydev/10k-subscribers-on-youtube-watch-and-subscribe-to-learn-programming--3ii9)
+- [Dev.to/JS] [Checkout the latest Books by Login via Mobile Number feature using HMS Account Kit in Books App &lpar;React Native&rpar;](https://dev.to/hmscommunity/checkout-the-latest-books-by-login-via-mobile-number-feature-using-hms-account-kit-in-books-app-react-native-22m5)
+- [Dev.to/JS] [Javascript Tutorial For Beginners](https://dev.to/stevenzion/javascript-tutorial-for-beginners-2g9a)
 - [Dev.to/JS] [You’re probably using Lighthouse wrong: How we got tricked by a single magic number](https://dev.to/vue-storefront/youre-probably-using-lighthouse-wrong-how-we-got-tricked-by-a-single-magic-number-1laj)
 - [Dev.to/JS] [⚛️ ReactJS folder structure + Boilerplate.](https://dev.to/yacouri/reactjs-folder-structure-boilerplate-155n)
 - [Dev.to/JS] [13 REST API interview questions you need to know](https://dev.to/braincuber_technologies/13-rest-api-interview-questions-you-need-to-know-11eo)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Trigger Bitrise Build Using Bitrise Api](https://dev.to/mehakfatima/trigger-bitrise-build-using-bitrise-api-350p)
 - [Dev.to/JS] [How to get Last git Commit in Js file](https://dev.to/mehakfatima/how-to-get-last-git-commit-in-js-file-3il6)
 - [Dev.to/JS] [Nodejs](https://dev.to/excellencyjumo/nodejs-4di4)
-- [Dev.to/JS] [How to detect scroll direction in vanilla JavaScript &lpar;to make a goofy logo animation&rpar;](https://dev.to/robole/how-to-detect-scroll-direction-in-vanilla-javascript-to-make-a-goofy-logo-animation-njc)
-- [Dev.to/JS] [npm-registry-firewall](https://dev.to/antongolub/npm-registry-firewall-12ai)
-- [Dev.to/JS] [Stop arguing about code style in pull requests!](https://dev.to/pavelkomiagin/stop-arguing-about-code-style-in-pull-requests-3022)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Unique Family-Friendly Vacations That Aren&#39;t Just Theme Parks](https://lifehacker.com/13-unique-family-friendly-vacation-spots-that-arent-ju-1848777899)
 - [Lifehacker] [The Best Gardening Tools for Anyone With Back Pain](https://lifehacker.com/the-best-gardening-tools-for-anyone-with-back-pain-1848776200)
 - [Lifehacker] [How to Work With Someone You Hate](https://lifehacker.com/how-to-work-with-someone-you-hate-1848777512)
-- [Lifehacker] [How to Convert Celsius to Fahrenheit Without Doing Any Math](https://lifehacker.com/how-to-convert-celsius-to-fahrenheit-without-doing-any-1848777530)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
