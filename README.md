@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Linked List in JavaScript: implementation, operations &lpar;basics&rpar;](https://dev.to/nikaffa/the-linked-list-in-javascript-implementation-operations-basics-447o)
+- [Dev.to/JS] [Vue.js, Clean Architecture e Package by feature Pattern](https://dev.to/booscaaa/vuejs-clean-architecture-e-package-by-feature-pattern-56lb)
+- [Dev.to/JS] [Menyelesaikan soal &quot;Plus Minus&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-plus-minus-di-hackerrank-9f0)
 - [Dev.to/JS] [Next.js and Tumblr as a CMS](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-5fki)
 - [Dev.to/JS] [How to test Google&#39;s In-App Purchase](https://dev.to/da9ish/how-to-test-googles-in-app-purchase-86a)
 - [Dev.to/JS] [Writing cleaner React code](https://dev.to/da9ish/writing-cleaner-react-code-28j2)
@@ -38,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Simple API for Web3 Data](https://dev.to/sort_xyz/a-simple-api-for-web3-data-1i42)
 - [Lifehacker] [Why Your Dog Eats Poop &lpar;and How to Get Them to Stop&rpar;](https://lifehacker.com/why-your-dog-eats-shit-and-how-to-get-them-to-stop-1848788585)
 - [Lifehacker] [5 Questions You Should Never Ask on a First Date &lpar;and What to Ask Instead&rpar;](https://lifehacker.com/5-questions-you-should-never-ask-on-a-first-date-and-w-1848788290)
-- [Dev.to/JS] [Javascript console.time&lpar;&rpar;, What is it?](https://dev.to/osam1010/javascript-consoletime-what-is-it-2g37)
-- [Dev.to/JS] [Random Password Generator in HTML, CSS, and Javascript](https://dev.to/incoderweb/random-password-generator-in-html-css-and-javascript-4905)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Lifehacker] [32 Movies Best Watched in Total Ignorance](https://lifehacker.com/32-movies-best-watched-in-total-ignorance-1848783702)
-- [Dev.to/JS] [Day-65 Training At Ryaz](https://dev.to/mahin651/day-65-training-at-ryaz-29hh)
 - [Lifehacker] [The Trees, Shrubs, and Plants You Need to Prune in the Spring &lpar;and How to Do It Right&rpar;](https://lifehacker.com/the-trees-shrubs-and-plants-you-need-to-prune-in-the-1848787485)
 - [Lifehacker] [Use a Lemon Peel to Rehydrate Your Weed](https://lifehacker.com/use-a-lemon-peel-to-rehydrate-your-weed-1848787925)
 - [Lifehacker] [You Need to Patch These 128 Security Bugs on Your PC](https://lifehacker.com/you-need-to-patch-these-128-security-bugs-on-your-pc-1848787694)
