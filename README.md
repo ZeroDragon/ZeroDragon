@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array.forEach&lpar;&rpar; - for looping through items in an array](https://dev.to/dillionmegida/arrayforeach-for-looping-through-items-in-an-array-1kmo)
+- [Dev.to/JS] [Finished!](https://dev.to/warmastr/finished-42kh)
+- [Dev.to/JS] [How to Bypass Captcha Automatic Login with Nodejs Playwright 2Captcha](https://dev.to/openhacking/how-to-bypass-captcha-automatic-login-with-nodejs-playwright-2captcha-42dp)
 - [Dev.to/JS] [Best car transport services in Noida](https://dev.to/securemove1/best-car-transport-services-in-noida-1fbk)
 - [Dev.to/JS] [Getting Started with Index Signatures](https://dev.to/imkarthikeyan/getting-started-with-index-signatures-58bn)
 - [Dev.to/JS] [Claritox Pro - Health Results, Price, Reviews &amp; Side Effects](https://dev.to/claritoxprobuys/claritox-pro-health-results-price-reviews-side-effects-819)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Best Practices - Ways To Write Better Code in 2022](https://dev.to/nourdinedev/react-best-practices-ways-to-write-better-code-in-2022-37gk)
 - [Dev.to/JS] [Data Binding in React](https://dev.to/riley1101/data-binding-in-react-7gg)
 - [Dev.to/JS] [The Power of Strategy Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-strategy-design-pattern-in-javascript-kn8)
-- [Dev.to/JS] [Design Pattern in TypeScript: Strategy Pattern](https://dev.to/bhargavmantha/design-pattern-in-typescript-strategy-pattern-4i5d)
-- [Dev.to/JS] [tinwayJS](https://dev.to/tinway/tinwayjs-154o)
-- [Dev.to/JS] [Story-time: Tackling No Double Favorite Cat](https://dev.to/bperez3237/story-time-tackling-no-double-favorite-cat-56ha)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
