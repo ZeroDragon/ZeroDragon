@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
 - [Dev.to/JS] [JS Copy text to the user&#39;s clipboard](https://dev.to/clementgaudiniere/js-copy-text-to-the-users-clipboard-4hp4)
 - [Lifehacker] [These Things Are Bringing Down the Value of Your Home](https://lifehacker.com/these-things-are-bringing-down-the-value-of-your-home-1848788226)
 - [Dev.to/JS] [Tutorial: Adding Analytics to the CryptoPunks V1 Site](https://dev.to/sort_xyz/tutorial-adding-analytics-to-the-cryptopunks-v1-site-4ad0)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Wet Sand Your Drywall](https://lifehacker.com/why-you-should-wet-sand-your-drywall-1848782259)
 - [Lifehacker] [Why You Have Night Sweats &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-have-night-sweats-and-what-to-do-about-it-1848780014)
 - [Lifehacker] [The Five Easiest Ways to Take a Complete Backup of Your Mac](https://lifehacker.com/the-five-easiest-ways-to-take-a-complete-backup-of-your-1848778306)
-- [Lifehacker] [These Advanced Stretching Techniques Can Actually Make You More Flexible](https://lifehacker.com/these-advanced-stretching-techniques-can-actually-make-1848779796)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
