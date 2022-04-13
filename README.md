@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best car transport services in Noida](https://dev.to/securemove1/best-car-transport-services-in-noida-1fbk)
+- [Dev.to/JS] [Getting Started with Index Signatures](https://dev.to/imkarthikeyan/getting-started-with-index-signatures-58bn)
+- [Dev.to/JS] [Claritox Pro - Health Results, Price, Reviews &amp; Side Effects](https://dev.to/claritoxprobuys/claritox-pro-health-results-price-reviews-side-effects-819)
 - [Dev.to/JS] [How to disable right-click on your website?](https://dev.to/codewithsnowbit/how-to-disable-right-click-on-your-website-5dca)
 - [Dev.to/JS] [How to create a REST API with pre-written Serverless Components](https://dev.to/serverless_inc/how-to-create-a-rest-api-with-pre-written-serverless-components-2g5)
 - [Dev.to/JS] [Webix Gantt Chart. Handy web tool for efficient project management](https://dev.to/serhiipylypchuk1991/webix-gantt-chart-handy-web-tool-for-efficient-project-management-14no)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Design Pattern in TypeScript: Strategy Pattern](https://dev.to/bhargavmantha/design-pattern-in-typescript-strategy-pattern-4i5d)
 - [Dev.to/JS] [tinwayJS](https://dev.to/tinway/tinwayjs-154o)
 - [Dev.to/JS] [Story-time: Tackling No Double Favorite Cat](https://dev.to/bperez3237/story-time-tackling-no-double-favorite-cat-56ha)
-- [Dev.to/JS] [Oh, the things I would do to an Array](https://dev.to/jackinthesquare/oh-the-things-i-would-do-to-an-array-4c75)
-- [Dev.to/JS] [Weather app javascript | Weather app using HTML CSS Javascript](https://dev.to/codewithrandom/weather-app-javascript-weather-app-using-html-css-javascript-pmk)
-- [Dev.to/JS] [Multi step form | Multi step form html css | Javascript Multi Step Form](https://dev.to/codewithrandom/multi-step-form-multi-step-form-html-css-javascript-multi-step-form-4emi)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
