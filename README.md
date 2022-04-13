@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Green Ape CBD Gummies Reviews 2022 – Help for your Pain Relief?](https://dev.to/greenapecbdget/green-ape-cbd-gummies-reviews-2022-help-for-your-pain-relief-4ojk)
+- [Dev.to/JS] [&lpar;Launch!&rpar; Building a business from scratch - day 18 🚀](https://dev.to/twankrui/launch-building-a-business-from-scratch-day-18-bpc)
 - [Dev.to/JS] [Array.forEach&lpar;&rpar; - for looping through items in an array](https://dev.to/dillionmegida/arrayforeach-for-looping-through-items-in-an-array-1kmo)
 - [Dev.to/JS] [Finished!](https://dev.to/warmastr/finished-42kh)
 - [Dev.to/JS] [How to Bypass Captcha Automatic Login with Nodejs Playwright 2Captcha](https://dev.to/openhacking/how-to-bypass-captcha-automatic-login-with-nodejs-playwright-2captcha-42dp)
 - [Dev.to/JS] [Best car transport services in Noida](https://dev.to/securemove1/best-car-transport-services-in-noida-1fbk)
+- [Dev.to/JS] [Cómo trabajar con tu mentor de programación](https://dev.to/conoce-dev/como-trabajar-con-tu-mentor-de-programacion-4ddg)
+- [Dev.to/JS] [Jak współpracować z mentorem programowania](https://dev.to/poznaj-dev/jak-wspolpracowac-z-mentorem-programowania-cd8)
 - [Dev.to/JS] [Getting Started with Index Signatures](https://dev.to/imkarthikeyan/getting-started-with-index-signatures-58bn)
 - [Dev.to/JS] [Claritox Pro - Health Results, Price, Reviews &amp; Side Effects](https://dev.to/claritoxprobuys/claritox-pro-health-results-price-reviews-side-effects-819)
-- [Dev.to/JS] [How to disable right-click on your website?](https://dev.to/codewithsnowbit/how-to-disable-right-click-on-your-website-5dca)
 - [Dev.to/JS] [How to create a REST API with pre-written Serverless Components](https://dev.to/serverless_inc/how-to-create-a-rest-api-with-pre-written-serverless-components-2g5)
 - [Dev.to/JS] [Webix Gantt Chart. Handy web tool for efficient project management](https://dev.to/serhiipylypchuk1991/webix-gantt-chart-handy-web-tool-for-efficient-project-management-14no)
-- [Dev.to/JS] [React Best Practices - Ways To Write Better Code in 2022](https://dev.to/nourdinedev/react-best-practices-ways-to-write-better-code-in-2022-37gk)
-- [Dev.to/JS] [Data Binding in React](https://dev.to/riley1101/data-binding-in-react-7gg)
-- [Dev.to/JS] [The Power of Strategy Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-strategy-design-pattern-in-javascript-kn8)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
