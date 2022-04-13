@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Fastest Ways to Convert Your iPhone HEIC Photos to JPG &lpar;So You Can Actually Use Them&rpar;](https://lifehacker.com/the-fastest-ways-to-convert-your-iphone-heic-photos-to-1848768694)
+- [Dev.to/JS] [How do you master React.js and Javascript?](https://dev.to/tejender_upadhyay/how-do-you-master-reactjs-and-javascript-2040)
+- [Dev.to/JS] [How To Implement Drag And Drop In JavaScript Using Selenium?](https://dev.to/haritalt/how-to-implement-drag-and-drop-in-javascript-using-selenium-l0h)
+- [Lifehacker] [How to Fix Cracks in Your Driveway Without Paying a Professional](https://lifehacker.com/how-to-fix-cracks-in-your-driveway-without-paying-a-pro-1848786419)
+- [Dev.to/JS] [Most Important Array functions in Javascript](https://dev.to/ddev2636/most-important-array-functions-in-javascript-2888)
+- [Dev.to/JS] [Use Storybook with Lando](https://dev.to/rachids/use-storybook-with-lando-1e52)
+- [Lifehacker] [15 True Crime Podcasts That Aren&#39;t Too Murder-y](https://lifehacker.com/15-true-crime-podcasts-that-arent-too-murder-y-1848785894)
 - [Dev.to/JS] [Write Express Server in Class Based or Object Oriented Way.](https://dev.to/muhammadsemeer/write-express-server-in-class-based-or-object-oriented-way-kpn)
 - [Dev.to/JS] [Day 8: Almost finished with React](https://dev.to/kemystra/day-7-almost-finished-with-react-3e90)
 - [Dev.to/JS] [How to Add Sticky Footer Ads to Your Website](https://dev.to/iamarpain/how-to-add-sticky-footer-ads-to-your-website-2pai)
@@ -33,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular State Management with NgRx](https://dev.to/syncfusion/angular-state-management-with-ngrx-21c4)
 - [Dev.to/JS] [10k subscribers on YouTube ! Watch and subscribe to learn programming :&rpar;](https://dev.to/thenerdydev/10k-subscribers-on-youtube-watch-and-subscribe-to-learn-programming--3ii9)
 - [Dev.to/JS] [Checkout the latest Books by Login via Mobile Number feature using HMS Account Kit in Books App &lpar;React Native&rpar;](https://dev.to/hmscommunity/checkout-the-latest-books-by-login-via-mobile-number-feature-using-hms-account-kit-in-books-app-react-native-22m5)
-- [Dev.to/JS] [Javascript Tutorial For Beginners](https://dev.to/stevenzion/javascript-tutorial-for-beginners-2g9a)
-- [Dev.to/JS] [You’re probably using Lighthouse wrong: How we got tricked by a single magic number](https://dev.to/vue-storefront/youre-probably-using-lighthouse-wrong-how-we-got-tricked-by-a-single-magic-number-1laj)
-- [Dev.to/JS] [⚛️ ReactJS folder structure + Boilerplate.](https://dev.to/yacouri/reactjs-folder-structure-boilerplate-155n)
-- [Dev.to/JS] [13 REST API interview questions you need to know](https://dev.to/braincuber_technologies/13-rest-api-interview-questions-you-need-to-know-11eo)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your New iPhone Is Way More Scratched Than Your Old One](https://lifehacker.com/why-your-new-iphone-is-way-more-scratched-than-your-old-1848777631)
 - [Lifehacker] [Ways to Get That Last Bit of Lotion Out of the Bottle, Ranked](https://lifehacker.com/ways-to-get-that-last-bit-of-lotion-out-of-the-bottle-1848777207)
 - [Lifehacker] [Un-Devil Your Eggs This Easter](https://lifehacker.com/un-devil-your-eggs-this-easter-1848778518)
-- [Lifehacker] [How to Stop Flowers From Wilting for As Long As Possible](https://lifehacker.com/how-to-stop-flowers-from-wilting-for-as-long-as-possibl-1848778288)
-- [Lifehacker] [13 Unique Family-Friendly Vacations That Aren&#39;t Just Theme Parks](https://lifehacker.com/13-unique-family-friendly-vacation-spots-that-arent-ju-1848777899)
-- [Lifehacker] [The Best Gardening Tools for Anyone With Back Pain](https://lifehacker.com/the-best-gardening-tools-for-anyone-with-back-pain-1848776200)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)
 - [Crazy Programmer] [Game Development Workflow – Getting the Most Out of It](https://www.thecrazyprogrammer.com/2022/04/game-development-workflow.html)<!-- TECH-POSTS:END -->
