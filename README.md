@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to disable right-click on your website?](https://dev.to/codewithsnowbit/how-to-disable-right-click-on-your-website-5dca)
+- [Dev.to/JS] [How to create a REST API with pre-written Serverless Components](https://dev.to/serverless_inc/how-to-create-a-rest-api-with-pre-written-serverless-components-2g5)
+- [Dev.to/JS] [Webix Gantt Chart. Handy web tool for efficient project management](https://dev.to/serhiipylypchuk1991/webix-gantt-chart-handy-web-tool-for-efficient-project-management-14no)
 - [Dev.to/JS] [React Best Practices - Ways To Write Better Code in 2022](https://dev.to/nourdinedev/react-best-practices-ways-to-write-better-code-in-2022-37gk)
 - [Dev.to/JS] [Data Binding in React](https://dev.to/riley1101/data-binding-in-react-7gg)
 - [Dev.to/JS] [The Power of Strategy Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-strategy-design-pattern-in-javascript-kn8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Oh, the things I would do to an Array](https://dev.to/jackinthesquare/oh-the-things-i-would-do-to-an-array-4c75)
 - [Dev.to/JS] [Weather app javascript | Weather app using HTML CSS Javascript](https://dev.to/codewithrandom/weather-app-javascript-weather-app-using-html-css-javascript-pmk)
 - [Dev.to/JS] [Multi step form | Multi step form html css | Javascript Multi Step Form](https://dev.to/codewithrandom/multi-step-form-multi-step-form-html-css-javascript-multi-step-form-4emi)
-- [Dev.to/JS] [Code Smell 129 - Structural Optimizations](https://dev.to/mcsee/code-smell-129-structural-optimizations-3l62)
-- [Dev.to/JS] [Menyelesaikan soal &quot;Diagonal Difference&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-diagonal-difference-di-hackerrank-nh7)
-- [Dev.to/JS] [Software Dev Weekly Update #11: JavaScript and The DOM](https://dev.to/realnerdethan/software-dev-weekly-update-11-javascript-and-the-dom-3dm3)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
