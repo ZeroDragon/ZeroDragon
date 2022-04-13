@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developer Here ?](https://dev.to/boardsontop1/developer-here--1l4l)
+- [Dev.to/JS] [Introduction to Software QA Tooling in 2022](https://dev.to/thomasrooney/introduction-to-software-qa-tooling-in-2022-55c3)
+- [Dev.to/JS] [Top Web Application Development Frameworks for 2022: Get Highest Scalability at Lowest Costs](https://dev.to/herocoder1/top-web-application-development-frameworks-for-2022-get-highest-scalability-at-lowest-costs-50if)
+- [Dev.to/JS] [What’s new in React 18?](https://dev.to/rishikeshvedpathak/whats-new-in-react-18-5np)
 - [Dev.to/JS] [This Week In React #101: Astro, Redwood, Next.js, Remix, React-Admin, Rust reducers, WebComponents, Gatsby, TypeScript, Rome...](https://dev.to/sebastienlorber/this-week-in-react-101-astro-redwood-nextjs-remix-react-admin-rust-reducers-webcomponents-gatsby-typescript-rome-3k0j)
 - [Dev.to/JS] [Magento Vs WooCommerce: What is Better for eCommerce?](https://dev.to/hireindianprogrammers/magento-vs-woocommerce-what-is-better-for-ecommerce-bpo)
 - [Dev.to/JS] [React, Vue and Svelte : Comparing Multi Checkbox Binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-multi-checkbox-binding-1g6f)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.forEach&lpar;&rpar; - for looping through items in an array](https://dev.to/dillionmegida/arrayforeach-for-looping-through-items-in-an-array-1kmo)
 - [Dev.to/JS] [Finished!](https://dev.to/warmastr/finished-42kh)
 - [Dev.to/JS] [How to Bypass Captcha Automatic Login with Nodejs Playwright 2Captcha](https://dev.to/openhacking/how-to-bypass-captcha-automatic-login-with-nodejs-playwright-2captcha-42dp)
-- [Dev.to/JS] [Best car transport services in Noida](https://dev.to/securemove1/best-car-transport-services-in-noida-1fbk)
-- [Dev.to/JS] [Cómo trabajar con tu mentor de programación](https://dev.to/conoce-dev/como-trabajar-con-tu-mentor-de-programacion-4ddg)
-- [Dev.to/JS] [Jak współpracować z mentorem programowania](https://dev.to/poznaj-dev/jak-wspolpracowac-z-mentorem-programowania-cd8)
-- [Dev.to/JS] [Getting Started with Index Signatures](https://dev.to/imkarthikeyan/getting-started-with-index-signatures-58bn)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
