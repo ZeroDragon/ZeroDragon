@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
+- [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
 - [Dev.to/JS] [JS Copy text to the user&#39;s clipboard](https://dev.to/clementgaudiniere/js-copy-text-to-the-users-clipboard-4hp4)
 - [Lifehacker] [These Things Are Bringing Down the Value of Your Home](https://lifehacker.com/these-things-are-bringing-down-the-value-of-your-home-1848788226)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Extremely Specific Emergency Preparedness Tips](https://lifehacker.com/13-extremely-specific-emergency-preparedness-tips-1848770729)
 - [Lifehacker] [What Is the New Social Media App ‘BeReal’ &lpar;and Do You Really Want to Be Real&rpar;?](https://lifehacker.com/what-is-the-new-social-media-app-bereal-and-do-you-r-1848780094)
 - [Lifehacker] [Why You Should Wet Sand Your Drywall](https://lifehacker.com/why-you-should-wet-sand-your-drywall-1848782259)
-- [Lifehacker] [Why You Have Night Sweats &lpar;and What to Do About It&rpar;](https://lifehacker.com/why-you-have-night-sweats-and-what-to-do-about-it-1848780014)
-- [Lifehacker] [The Five Easiest Ways to Take a Complete Backup of Your Mac](https://lifehacker.com/the-five-easiest-ways-to-take-a-complete-backup-of-your-1848778306)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
