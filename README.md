@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This Week In React #101: Astro, Redwood, Next.js, Remix, React-Admin, Rust reducers, WebComponents, Gatsby, TypeScript, Rome...](https://dev.to/sebastienlorber/this-week-in-react-101-astro-redwood-nextjs-remix-react-admin-rust-reducers-webcomponents-gatsby-typescript-rome-3k0j)
+- [Dev.to/JS] [Magento Vs WooCommerce: What is Better for eCommerce?](https://dev.to/hireindianprogrammers/magento-vs-woocommerce-what-is-better-for-ecommerce-bpo)
+- [Dev.to/JS] [React, Vue and Svelte : Comparing Multi Checkbox Binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-multi-checkbox-binding-1g6f)
 - [Dev.to/JS] [Green Ape CBD Gummies Reviews 2022 – Help for your Pain Relief?](https://dev.to/greenapecbdget/green-ape-cbd-gummies-reviews-2022-help-for-your-pain-relief-4ojk)
 - [Dev.to/JS] [&lpar;Launch!&rpar; Building a business from scratch - day 18 🚀](https://dev.to/twankrui/launch-building-a-business-from-scratch-day-18-bpc)
 - [Dev.to/JS] [Array.forEach&lpar;&rpar; - for looping through items in an array](https://dev.to/dillionmegida/arrayforeach-for-looping-through-items-in-an-array-1kmo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cómo trabajar con tu mentor de programación](https://dev.to/conoce-dev/como-trabajar-con-tu-mentor-de-programacion-4ddg)
 - [Dev.to/JS] [Jak współpracować z mentorem programowania](https://dev.to/poznaj-dev/jak-wspolpracowac-z-mentorem-programowania-cd8)
 - [Dev.to/JS] [Getting Started with Index Signatures](https://dev.to/imkarthikeyan/getting-started-with-index-signatures-58bn)
-- [Dev.to/JS] [Claritox Pro - Health Results, Price, Reviews &amp; Side Effects](https://dev.to/claritoxprobuys/claritox-pro-health-results-price-reviews-side-effects-819)
-- [Dev.to/JS] [How to create a REST API with pre-written Serverless Components](https://dev.to/serverless_inc/how-to-create-a-rest-api-with-pre-written-serverless-components-2g5)
-- [Dev.to/JS] [Webix Gantt Chart. Handy web tool for efficient project management](https://dev.to/serhiipylypchuk1991/webix-gantt-chart-handy-web-tool-for-efficient-project-management-14no)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
