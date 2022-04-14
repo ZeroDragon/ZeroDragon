@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node Clean Architecture Template](https://dev.to/jamielivingstone/node-clean-architecture-template-2359)
+- [Dev.to/JS] [Awesome diagrams using Mermaid.js](https://dev.to/erfankashani/awesome-diagrams-using-mermaidjs-3am0)
+- [Lifehacker] [What&#39;s the Best Day of the Week to Browse New Home Listings?](https://lifehacker.com/whats-the-best-day-of-the-week-to-browse-new-home-listi-1848789893)
+- [Dev.to/JS] [NestJS: un framework Node.js complet ?](https://dev.to/sfeircode/nestjs-un-framework-nodejs-complet--428)
+- [Dev.to/JS] [Coverflow Effect - Swiper Js](https://dev.to/sanketbodake/coverflow-effect-swiper-js-2b8)
 - [Dev.to/JS] [2Captcha Review 2022 | Principles &amp; Usage &amp; Getting Started](https://dev.to/openhacking/2captcha-review-2022-principles-usage-getting-started-3fad)
 - [Dev.to/JS] [Assignment of elements of an array](https://dev.to/dneh/assignment-of-elements-of-an-array-304g)
 - [Dev.to/JS] [Thoughts of Learning typescript for the past few weeks](https://dev.to/kamrulhaider/thoughts-of-learning-typescript-for-the-past-few-weeks-3966)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [About my newly learned technology &lpar;Redux toolkit&rpar;](https://dev.to/sayamkhanraj1/about-my-newly-learned-technology-redux-toolkit-2jf7)
 - [Dev.to/JS] [Some JavaScript string methods and how to use them](https://dev.to/emmanuelthecoder/some-javascript-string-methods-and-how-to-use-them-22j0)
 - [Dev.to/JS] [How to verify OTP in Android without SMS read permission using Xamarin.Forms?](https://dev.to/tarungurang/how-to-verify-otp-in-android-without-sms-read-permission-using-xamarinforms-15p9)
-- [Dev.to/JS] [How to get into FAANG like companies with Web Development experience &lpar;HTML, CSS, JS, React&rpar;?](https://dev.to/iamzeeali/how-to-get-into-faang-like-companies-with-web-development-experience-1a5p)
-- [Dev.to/JS] [Conditional statements and loops Practices in Javascript.](https://dev.to/osam1010/conditional-statements-and-loops-practices-in-javascript-3i1n)
-- [Dev.to/JS] [Code compiling: Explain like I&#39;m Five](https://dev.to/arikaturika/code-compiling-explain-like-im-five-4mkj)
-- [Dev.to/JS] [OAuth vs JWT &lpar;JSON Web Tokens&rpar;: An In-Depth Comparison](https://dev.to/supertokens/oauth-vs-jwt-json-web-tokens-an-in-depth-comparison-5gnp)
 - [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
 - [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Date Your Old High School Crush &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-date-your-old-high-school-crush-and-why-you-sho-1848779776)
 - [Lifehacker] [13 Extremely Specific Emergency Preparedness Tips](https://lifehacker.com/13-extremely-specific-emergency-preparedness-tips-1848770729)
 - [Lifehacker] [What Is the New Social Media App ‘BeReal’ &lpar;and Do You Really Want to Be Real&rpar;?](https://lifehacker.com/what-is-the-new-social-media-app-bereal-and-do-you-r-1848780094)
-- [Lifehacker] [Why You Should Wet Sand Your Drywall](https://lifehacker.com/why-you-should-wet-sand-your-drywall-1848782259)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
