@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Someone interested in build something next weekend?](https://dev.to/matiascarpintini/someone-interested-in-build-something-next-weekend-38lk)
+- [Dev.to/JS] [tsParticles 2.0.5 is out. Breaking changes ahead, keeping the 1.x support.](https://dev.to/matteobruni/tsparticles-205-is-out-breaking-changes-ahead-keeping-the-1x-support-2n63)
 - [Dev.to/JS] [General React Disclaimer](https://dev.to/charleebrown/general-react-disclaimer-5e74)
 - [Dev.to/JS] [PACER: Structured process to solve programming problems](https://dev.to/anayib/pacer-structured-process-to-solve-programming-problems-3j7j)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
