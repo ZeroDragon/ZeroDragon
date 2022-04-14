@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make an API Query the Blockchain](https://dev.to/cormacncheese/how-to-make-an-api-query-the-blockchain-5fni)
+- [Dev.to/JS] [Day-66 Training At Ryaz](https://dev.to/mahin651/day-66-training-at-ryaz-2c62)
+- [Dev.to/JS] [Module Federation e as principais propriedades do Share](https://dev.to/heltonss/module-federation-e-as-principais-propriedades-do-share-211a)
+- [Lifehacker] [Waffle Is the New Wordle](https://lifehacker.com/waffle-is-the-new-wordle-1848793653)
+- [Lifehacker] [How to Hide Your Most Obvious DIY Renovation Mistakes](https://lifehacker.com/how-to-hide-your-most-obvious-diy-renovation-mistakes-1848793305)
 - [Dev.to/JS] [Flappy Bird on Web](https://dev.to/gracehuynh/flappy-bird-on-web-5hf8)
 - [Lifehacker] [How to See Who Has Looked at Your TikToks](https://lifehacker.com/how-to-see-who-has-looked-at-your-tiktoks-1848793268)
 - [Dev.to/JS] [Ranking JavaScript frameworks for 2022](https://dev.to/richkurtzman/ranking-javascript-frameworks-for-2022-4jdj)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Spicy-Sweet Cocktails With Pepper Jelly](https://lifehacker.com/make-spicy-sweet-cocktails-with-pepper-jelly-1848790781)
 - [Dev.to/JS] [Vanilla JSX](https://dev.to/vanishmax/vanilla-jsx-4aa4)
 - [Lifehacker] [When to See a Whole Bunch of Planets Align in the Sky This Month.](https://lifehacker.com/when-to-see-a-fuckton-of-planets-align-in-the-sky-this-1848790214)
-- [Dev.to/JS] [Node Clean Architecture Template](https://dev.to/jamielivingstone/node-clean-architecture-template-2359)
-- [Dev.to/JS] [Awesome diagrams using Mermaid.js](https://dev.to/erfankashani/awesome-diagrams-using-mermaidjs-3am0)
 - [Lifehacker] [What&#39;s the Best Day of the Week to Browse New Home Listings?](https://lifehacker.com/whats-the-best-day-of-the-week-to-browse-new-home-listi-1848789893)
-- [Dev.to/JS] [NestJS: un framework Node.js complet ?](https://dev.to/sfeircode/nestjs-un-framework-nodejs-complet--428)
 - [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
 - [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 of the Best Ways to Customize Your Gmail Inbox](https://lifehacker.com/18-of-the-best-ways-to-customize-your-gmail-inbox-1848782200)
 - [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
 - [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
-- [Lifehacker] [How Worried Should You Be About Avian Flu?](https://lifehacker.com/how-worried-should-you-be-about-avian-flu-1848783716)
-- [Lifehacker] [No, You Cannot Make &#39;the Inside of Burrata&#39; With Mozzarella and Cream](https://lifehacker.com/no-you-cannot-make-the-inside-of-burrata-with-mozzarel-1848784018)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
