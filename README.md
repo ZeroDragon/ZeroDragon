@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PhenAprin - Weight Loss Ingredients, Price, Benefits &amp; Side Effects](https://dev.to/phenaprininfo1/phenaprin-weight-loss-ingredients-price-benefits-side-effects-2o9m)
 - [Dev.to/JS] [ForkJoin RxJS Operator](https://dev.to/pawankkumawat/forkjoin-rxjs-operator-4h5a)
 - [Dev.to/JS] [Angular Routing #3](https://dev.to/seshubabubatchu/angular-routing-3-360c)
 - [Dev.to/JS] [Update Tomorrow; an Sneak peak!](https://dev.to/colack/update-tomorrow-an-sneak-peak-ac2)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Okta vs. Other Authentication/Authorization managers](https://dev.to/asayerio_techblog/okta-vs-other-authenticationauthorization-managers-4235)
 - [Dev.to/JS] [The Linked List in JavaScript: implementation, operations &lpar;basics&rpar;](https://dev.to/nikaffa/the-linked-list-in-javascript-implementation-operations-basics-447o)
 - [Dev.to/JS] [Vue.js, Clean Architecture e Package by feature Pattern](https://dev.to/booscaaa/vuejs-clean-architecture-e-package-by-feature-pattern-56lb)
-- [Dev.to/JS] [Menyelesaikan soal &quot;Plus Minus&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-plus-minus-di-hackerrank-9f0)
 - [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
 - [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
