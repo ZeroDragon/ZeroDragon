@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build and Deploy a Serverless React App on Azure](https://dev.to/oktadev/how-to-build-and-deploy-a-serverless-react-app-on-azure-3ng3)
+- [Dev.to/JS] [Pigshell x Appwrite Hackathon](https://dev.to/thevinitgupta/pigshell-x-appwrite-hackathon-70e)
+- [Dev.to/JS] [Which JavaScript framework should I choose?](https://dev.to/sloan/which-javascript-framework-should-i-choose-27jo)
+- [Lifehacker] [Every Parent Should Watch These Independent Toddlers Run Errands in ‘Old Enough’](https://lifehacker.com/every-parent-should-watch-these-independent-toddlers-ru-1848791735)
+- [Dev.to/JS] [Day 9: Done React](https://dev.to/kemystra/day-9-done-react-1c42)
 - [Lifehacker] [Make Spicy-Sweet Cocktails With Pepper Jelly](https://lifehacker.com/make-spicy-sweet-cocktails-with-pepper-jelly-1848790781)
 - [Dev.to/JS] [Vanilla JSX](https://dev.to/vanishmax/vanilla-jsx-4aa4)
 - [Lifehacker] [When to See a Whole Bunch of Planets Align in the Sky This Month.](https://lifehacker.com/when-to-see-a-fuckton-of-planets-align-in-the-sky-this-1848790214)
@@ -34,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2Captcha Review 2022 | Principles &amp; Usage &amp; Getting Started](https://dev.to/openhacking/2captcha-review-2022-principles-usage-getting-started-3fad)
 - [Dev.to/JS] [Assignment of elements of an array](https://dev.to/dneh/assignment-of-elements-of-an-array-304g)
 - [Dev.to/JS] [Thoughts of Learning typescript for the past few weeks](https://dev.to/kamrulhaider/thoughts-of-learning-typescript-for-the-past-few-weeks-3966)
-- [Dev.to/JS] [Implementing micro-frontends – A path to evolve legacy codebases](https://dev.to/mbellagamba/implementing-micro-frontends-a-path-to-evolve-legacy-codebases-4e37)
-- [Dev.to/JS] [How to Add Customer Profile to Your Next.js Ecommerce Store](https://dev.to/medusajs/how-to-add-customer-profile-to-your-nextjs-ecommerce-store-26dp)
-- [Dev.to/JS] [About my newly learned technology &lpar;Redux toolkit&rpar;](https://dev.to/sayamkhanraj1/about-my-newly-learned-technology-redux-toolkit-2jf7)
-- [Dev.to/JS] [Some JavaScript string methods and how to use them](https://dev.to/emmanuelthecoder/some-javascript-string-methods-and-how-to-use-them-22j0)
 - [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
 - [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, You Cannot Make &#39;the Inside of Burrata&#39; With Mozzarella and Cream](https://lifehacker.com/no-you-cannot-make-the-inside-of-burrata-with-mozzarel-1848784018)
 - [Lifehacker] [Why Your Home Needs Its Own Email Address](https://lifehacker.com/why-your-home-needs-its-own-email-address-1848783795)
 - [Lifehacker] [5 Box Office Flops That Are Actually Worth Watching](https://lifehacker.com/5-box-office-flops-that-are-actually-worth-watching-1848783745)
-- [Lifehacker] [How to Date Your Old High School Crush &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-date-your-old-high-school-crush-and-why-you-sho-1848779776)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
