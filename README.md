@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
+- [Dev.to/JS] [Optimizations in React part 1](https://dev.to/vithano/optimizations-in-react-part-1-24a1)
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
+- [Dev.to/JS] [The Case for Web Components](https://dev.to/kapilkaisare/the-case-for-web-components-5h7o)
 - [Dev.to/JS] [Made With Appwrite - Appwrite Hackathon](https://dev.to/elreyes/made-with-appwrite-appwrite-hackathon-46gn)
 - [Dev.to/JS] [Titbits: Promises](https://dev.to/yo08315171/titbits-promises-oaf)
 - [Dev.to/JS] [Frequency Counter](https://dev.to/clouded_knight/frequency-counter-hl0)
@@ -41,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Hide Your Most Obvious DIY Renovation Mistakes](https://lifehacker.com/how-to-hide-your-most-obvious-diy-renovation-mistakes-1848793305)
 - [Dev.to/JS] [Flappy Bird on Web](https://dev.to/gracehuynh/flappy-bird-on-web-5hf8)
 - [Lifehacker] [How to See Who Has Looked at Your TikToks](https://lifehacker.com/how-to-see-who-has-looked-at-your-tiktoks-1848793268)
-- [Dev.to/JS] [Ranking JavaScript frameworks for 2022](https://dev.to/richkurtzman/ranking-javascript-frameworks-for-2022-4jdj)
-- [Dev.to/JS] [Forever Functional - From methods to functions, and back](https://dev.to/asayerio_techblog/forever-functional-from-methods-to-functions-and-back-4h0k)
 - [Lifehacker] [Check Whether Your Toyota or Lexus Is Part of This Massive Recall](https://lifehacker.com/check-whether-your-toyota-or-lexus-is-part-of-this-mass-1848792653)
 - [Lifehacker] [Every Parent Should Watch These Independent Toddlers Run Errands in ‘Old Enough’](https://lifehacker.com/every-parent-should-watch-these-independent-toddlers-ru-1848791735)
 - [Lifehacker] [Make Spicy-Sweet Cocktails With Pepper Jelly](https://lifehacker.com/make-spicy-sweet-cocktails-with-pepper-jelly-1848790781)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use a Lemon Peel to Rehydrate Your Weed](https://lifehacker.com/use-a-lemon-peel-to-rehydrate-your-weed-1848787925)
 - [Lifehacker] [You Need to Patch These 128 Security Bugs on Your PC](https://lifehacker.com/you-need-to-patch-these-128-security-bugs-on-your-pc-1848787694)
 - [Lifehacker] [The Fastest Ways to Convert Your iPhone HEIC Photos to JPG &lpar;So You Can Actually Use Them&rpar;](https://lifehacker.com/the-fastest-ways-to-convert-your-iphone-heic-photos-to-1848768694)
-- [Lifehacker] [How to Fix Cracks in Your Driveway Without Paying a Professional](https://lifehacker.com/how-to-fix-cracks-in-your-driveway-without-paying-a-pro-1848786419)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
