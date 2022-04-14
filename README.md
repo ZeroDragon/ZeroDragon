@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Spicy-Sweet Cocktails With Pepper Jelly](https://lifehacker.com/make-spicy-sweet-cocktails-with-pepper-jelly-1848790781)
+- [Dev.to/JS] [Vanilla JSX](https://dev.to/vanishmax/vanilla-jsx-4aa4)
+- [Lifehacker] [When to See a Whole Bunch of Planets Align in the Sky This Month.](https://lifehacker.com/when-to-see-a-fuckton-of-planets-align-in-the-sky-this-1848790214)
 - [Dev.to/JS] [Node Clean Architecture Template](https://dev.to/jamielivingstone/node-clean-architecture-template-2359)
 - [Dev.to/JS] [Awesome diagrams using Mermaid.js](https://dev.to/erfankashani/awesome-diagrams-using-mermaidjs-3am0)
 - [Lifehacker] [What&#39;s the Best Day of the Week to Browse New Home Listings?](https://lifehacker.com/whats-the-best-day-of-the-week-to-browse-new-home-listi-1848789893)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add Customer Profile to Your Next.js Ecommerce Store](https://dev.to/medusajs/how-to-add-customer-profile-to-your-nextjs-ecommerce-store-26dp)
 - [Dev.to/JS] [About my newly learned technology &lpar;Redux toolkit&rpar;](https://dev.to/sayamkhanraj1/about-my-newly-learned-technology-redux-toolkit-2jf7)
 - [Dev.to/JS] [Some JavaScript string methods and how to use them](https://dev.to/emmanuelthecoder/some-javascript-string-methods-and-how-to-use-them-22j0)
-- [Dev.to/JS] [How to verify OTP in Android without SMS read permission using Xamarin.Forms?](https://dev.to/tarungurang/how-to-verify-otp-in-android-without-sms-read-permission-using-xamarinforms-15p9)
 - [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
 - [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Home Needs Its Own Email Address](https://lifehacker.com/why-your-home-needs-its-own-email-address-1848783795)
 - [Lifehacker] [5 Box Office Flops That Are Actually Worth Watching](https://lifehacker.com/5-box-office-flops-that-are-actually-worth-watching-1848783745)
 - [Lifehacker] [How to Date Your Old High School Crush &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-date-your-old-high-school-crush-and-why-you-sho-1848779776)
-- [Lifehacker] [13 Extremely Specific Emergency Preparedness Tips](https://lifehacker.com/13-extremely-specific-emergency-preparedness-tips-1848770729)
-- [Lifehacker] [What Is the New Social Media App ‘BeReal’ &lpar;and Do You Really Want to Be Real&rpar;?](https://lifehacker.com/what-is-the-new-social-media-app-bereal-and-do-you-r-1848780094)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
