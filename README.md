@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Web Development From Scratch - 8 hours course 100% Free](https://dev.to/kavyargb/learn-web-development-from-scratch-8-hours-course-100-free-41bo)
+- [Dev.to/JS] [Create Twitter with React &amp; Solidity.](https://dev.to/pankajrathore9599/create-twitter-with-react-solidity-32b4)
+- [Dev.to/JS] [Why JIT was introduced?](https://dev.to/asharali95/why-jit-was-introduced-37g5)
 - [Dev.to/JS] [Why and how to use the the Node.js Event Emitter in real projects?](https://dev.to/amrelmohamady/why-and-how-to-use-the-the-nodejs-event-emitter-in-real-projects-32kd)
 - [Dev.to/JS] [Know About Javascript Features Both General And Modern](https://dev.to/calltutors/know-about-javascript-features-both-general-and-modern-54o3)
 - [Dev.to/JS] [Performance: Choosing The Right Tools...](https://dev.to/this-is-learning/performance-choosing-the-right-tools-4lii)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular Routing #3](https://dev.to/seshubabubatchu/angular-routing-3-360c)
 - [Dev.to/JS] [Update Tomorrow; an Sneak peak!](https://dev.to/colack/update-tomorrow-an-sneak-peak-ac2)
 - [Dev.to/JS] [What is hoisting in the javascript.](https://dev.to/rahulmandyal/what-is-hoisting-in-the-javascript-2fbn)
-- [Dev.to/JS] [Google Sheets setValues anomaly?](https://dev.to/bugmagnet/google-sheets-setvalues-anomaly-46df)
-- [Dev.to/JS] [Easily and safely escape HTML in one line](https://dev.to/lionelrowe/easily-and-safely-escape-html-in-one-line-4lak)
-- [Dev.to/JS] [JavaScript web development](https://dev.to/tongseshivani/javascript-web-development-16dd)
 - [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
 - [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
