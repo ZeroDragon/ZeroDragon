@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [General React Disclaimer](https://dev.to/charleebrown/general-react-disclaimer-5e74)
+- [Dev.to/JS] [PACER: Structured process to solve programming problems](https://dev.to/anayib/pacer-structured-process-to-solve-programming-problems-3j7j)
+- [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 - [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
 - [Dev.to/JS] [Optimizations in React part 1](https://dev.to/vithano/optimizations-in-react-part-1-24a1)
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
@@ -39,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make an API Query the Blockchain](https://dev.to/cormacncheese/how-to-make-an-api-query-the-blockchain-5fni)
 - [Lifehacker] [Everything You Should Know About Your 15 Minutes of Fame Before It Happens](https://lifehacker.com/everything-you-should-know-about-your-15-minutes-of-fam-1848794180)
 - [Dev.to/JS] [Day-66 Training At Ryaz](https://dev.to/mahin651/day-66-training-at-ryaz-2c62)
-- [Dev.to/JS] [Module Federation e as principais propriedades do Share](https://dev.to/heltonss/module-federation-e-as-principais-propriedades-do-share-211a)
 - [Lifehacker] [Waffle Is the New Wordle](https://lifehacker.com/waffle-is-the-new-wordle-1848793653)
 - [Lifehacker] [How to Hide Your Most Obvious DIY Renovation Mistakes](https://lifehacker.com/how-to-hide-your-most-obvious-diy-renovation-mistakes-1848793305)
-- [Dev.to/JS] [Flappy Bird on Web](https://dev.to/gracehuynh/flappy-bird-on-web-5hf8)
 - [Lifehacker] [How to See Who Has Looked at Your TikToks](https://lifehacker.com/how-to-see-who-has-looked-at-your-tiktoks-1848793268)
 - [Lifehacker] [Check Whether Your Toyota or Lexus Is Part of This Massive Recall](https://lifehacker.com/check-whether-your-toyota-or-lexus-is-part-of-this-mass-1848792653)
 - [Lifehacker] [Every Parent Should Watch These Independent Toddlers Run Errands in ‘Old Enough’](https://lifehacker.com/every-parent-should-watch-these-independent-toddlers-ru-1848791735)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Trees, Shrubs, and Plants You Need to Prune in the Spring &lpar;and How to Do It Right&rpar;](https://lifehacker.com/the-trees-shrubs-and-plants-you-need-to-prune-in-the-1848787485)
 - [Lifehacker] [Use a Lemon Peel to Rehydrate Your Weed](https://lifehacker.com/use-a-lemon-peel-to-rehydrate-your-weed-1848787925)
 - [Lifehacker] [You Need to Patch These 128 Security Bugs on Your PC](https://lifehacker.com/you-need-to-patch-these-128-security-bugs-on-your-pc-1848787694)
-- [Lifehacker] [The Fastest Ways to Convert Your iPhone HEIC Photos to JPG &lpar;So You Can Actually Use Them&rpar;](https://lifehacker.com/the-fastest-ways-to-convert-your-iphone-heic-photos-to-1848768694)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
