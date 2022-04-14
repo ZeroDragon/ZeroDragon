@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Creep on Someone&#39;s Instagram Stories Anonymously](https://lifehacker.com/how-to-creep-on-someones-instagram-stories-anonymously-1848794616)
+- [Lifehacker] [There&#39;s a Whole World of Rabe Beyond Broccoli](https://lifehacker.com/theres-a-whole-world-of-rabe-beyond-broccoli-1848791429)
+- [Dev.to/JS] [Playing Breaking Bad Quotes From a Phone Call Using Node.JS and Twilio ⚗️](https://dev.to/gregorygaines/playing-breaking-bad-quotes-from-a-phone-call-using-nodejs-and-twilio-20ld)
 - [Dev.to/JS] [How to make an API Query the Blockchain](https://dev.to/cormacncheese/how-to-make-an-api-query-the-blockchain-5fni)
+- [Lifehacker] [Everything You Should Know About Your 15 Minutes of Fame Before It Happens](https://lifehacker.com/everything-you-should-know-about-your-15-minutes-of-fam-1848794180)
 - [Dev.to/JS] [Day-66 Training At Ryaz](https://dev.to/mahin651/day-66-training-at-ryaz-2c62)
 - [Dev.to/JS] [Module Federation e as principais propriedades do Share](https://dev.to/heltonss/module-federation-e-as-principais-propriedades-do-share-211a)
 - [Lifehacker] [Waffle Is the New Wordle](https://lifehacker.com/waffle-is-the-new-wordle-1848793653)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Parent Should Watch These Independent Toddlers Run Errands in ‘Old Enough’](https://lifehacker.com/every-parent-should-watch-these-independent-toddlers-ru-1848791735)
 - [Dev.to/JS] [Day 9: Done React](https://dev.to/kemystra/day-9-done-react-1c42)
 - [Lifehacker] [Make Spicy-Sweet Cocktails With Pepper Jelly](https://lifehacker.com/make-spicy-sweet-cocktails-with-pepper-jelly-1848790781)
-- [Dev.to/JS] [Vanilla JSX](https://dev.to/vanishmax/vanilla-jsx-4aa4)
 - [Lifehacker] [When to See a Whole Bunch of Planets Align in the Sky This Month.](https://lifehacker.com/when-to-see-a-fuckton-of-planets-align-in-the-sky-this-1848790214)
 - [Lifehacker] [What&#39;s the Best Day of the Week to Browse New Home Listings?](https://lifehacker.com/whats-the-best-day-of-the-week-to-browse-new-home-listi-1848789893)
 - [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix Cracks in Your Driveway Without Paying a Professional](https://lifehacker.com/how-to-fix-cracks-in-your-driveway-without-paying-a-pro-1848786419)
 - [Lifehacker] [15 True Crime Podcasts That Aren&#39;t Too Murder-y](https://lifehacker.com/15-true-crime-podcasts-that-arent-too-murder-y-1848785894)
 - [Lifehacker] [Are Expensive Eggs Actually &#39;Better&#39; for You?](https://lifehacker.com/are-expensive-eggs-actually-better-for-you-1848785394)
-- [Lifehacker] [18 of the Best Ways to Customize Your Gmail Inbox](https://lifehacker.com/18-of-the-best-ways-to-customize-your-gmail-inbox-1848782200)
-- [Lifehacker] [How to Keep Tulips From Drooping](https://lifehacker.com/how-to-keep-tulips-from-drooping-1848784365)
-- [Lifehacker] [Why Your Home Gym Needs Adjustable Kettlebells](https://lifehacker.com/why-your-home-gym-needs-adjustable-kettlebells-1848784354)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
