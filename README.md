@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why and how to use the the Node.js Event Emitter in real projects?](https://dev.to/amrelmohamady/why-and-how-to-use-the-the-nodejs-event-emitter-in-real-projects-32kd)
+- [Dev.to/JS] [Know About Javascript Features Both General And Modern](https://dev.to/calltutors/know-about-javascript-features-both-general-and-modern-54o3)
+- [Dev.to/JS] [Performance: Choosing The Right Tools...](https://dev.to/this-is-learning/performance-choosing-the-right-tools-4lii)
 - [Dev.to/JS] [How to make a full page transition in React?](https://dev.to/matthieuclay/how-to-make-a-full-page-transition-in-react-2h74)
 - [Dev.to/JS] [PhenAprin - Weight Loss Ingredients, Price, Benefits &amp; Side Effects](https://dev.to/phenaprininfo1/phenaprin-weight-loss-ingredients-price-benefits-side-effects-2o9m)
 - [Dev.to/JS] [ForkJoin RxJS Operator](https://dev.to/pawankkumawat/forkjoin-rxjs-operator-4h5a)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google Sheets setValues anomaly?](https://dev.to/bugmagnet/google-sheets-setvalues-anomaly-46df)
 - [Dev.to/JS] [Easily and safely escape HTML in one line](https://dev.to/lionelrowe/easily-and-safely-escape-html-in-one-line-4lak)
 - [Dev.to/JS] [JavaScript web development](https://dev.to/tongseshivani/javascript-web-development-16dd)
-- [Dev.to/JS] [Test react-hook-form with react-native-testing-library](https://dev.to/joseprest/test-react-hook-form-with-react-native-testing-library-4a5o)
-- [Dev.to/JS] [Okta vs. Other Authentication/Authorization managers](https://dev.to/asayerio_techblog/okta-vs-other-authenticationauthorization-managers-4235)
-- [Dev.to/JS] [The Linked List in JavaScript: implementation, operations &lpar;basics&rpar;](https://dev.to/nikaffa/the-linked-list-in-javascript-implementation-operations-basics-447o)
 - [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
 - [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
