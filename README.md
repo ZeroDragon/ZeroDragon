@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
+- [Dev.to/JS] [Made With Appwrite - Appwrite Hackathon](https://dev.to/elreyes/made-with-appwrite-appwrite-hackathon-46gn)
+- [Dev.to/JS] [Titbits: Promises](https://dev.to/yo08315171/titbits-promises-oaf)
+- [Dev.to/JS] [Frequency Counter](https://dev.to/clouded_knight/frequency-counter-hl0)
+- [Lifehacker] [5 Games to Play After Elden Ring](https://lifehacker.com/5-games-to-play-after-elden-ring-1848794932)
+- [Dev.to/JS] [The Linked List: ADD TWO NUMBERS](https://dev.to/nikaffa/the-linked-list-add-two-numbers-2ebp)
+- [Dev.to/JS] [Status Player with React](https://dev.to/sonai95/status-player-with-react-j77)
 - [Lifehacker] [How to Creep on Someone&#39;s Instagram Stories Anonymously](https://lifehacker.com/how-to-creep-on-someones-instagram-stories-anonymously-1848794616)
 - [Lifehacker] [There&#39;s a Whole World of Rabe Beyond Broccoli](https://lifehacker.com/theres-a-whole-world-of-rabe-beyond-broccoli-1848791429)
 - [Dev.to/JS] [Playing Breaking Bad Quotes From a Phone Call Using Node.JS and Twilio ⚗️](https://dev.to/gregorygaines/playing-breaking-bad-quotes-from-a-phone-call-using-nodejs-and-twilio-20ld)
@@ -36,13 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to See Who Has Looked at Your TikToks](https://lifehacker.com/how-to-see-who-has-looked-at-your-tiktoks-1848793268)
 - [Dev.to/JS] [Ranking JavaScript frameworks for 2022](https://dev.to/richkurtzman/ranking-javascript-frameworks-for-2022-4jdj)
 - [Dev.to/JS] [Forever Functional - From methods to functions, and back](https://dev.to/asayerio_techblog/forever-functional-from-methods-to-functions-and-back-4h0k)
-- [Dev.to/JS] [Paracetamol.js💊| #101: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-101-explica-este-codigo-javascript-cd0)
 - [Lifehacker] [Check Whether Your Toyota or Lexus Is Part of This Massive Recall](https://lifehacker.com/check-whether-your-toyota-or-lexus-is-part-of-this-mass-1848792653)
-- [Dev.to/JS] [How to Build and Deploy a Serverless React App on Azure](https://dev.to/oktadev/how-to-build-and-deploy-a-serverless-react-app-on-azure-3ng3)
-- [Dev.to/JS] [Pigshell x Appwrite Hackathon](https://dev.to/thevinitgupta/pigshell-x-appwrite-hackathon-70e)
-- [Dev.to/JS] [Which JavaScript framework should I choose?](https://dev.to/sloan/which-javascript-framework-should-i-choose-27jo)
 - [Lifehacker] [Every Parent Should Watch These Independent Toddlers Run Errands in ‘Old Enough’](https://lifehacker.com/every-parent-should-watch-these-independent-toddlers-ru-1848791735)
-- [Dev.to/JS] [Day 9: Done React](https://dev.to/kemystra/day-9-done-react-1c42)
 - [Lifehacker] [Make Spicy-Sweet Cocktails With Pepper Jelly](https://lifehacker.com/make-spicy-sweet-cocktails-with-pepper-jelly-1848790781)
 - [Lifehacker] [When to See a Whole Bunch of Planets Align in the Sky This Month.](https://lifehacker.com/when-to-see-a-fuckton-of-planets-align-in-the-sky-this-1848790214)
 - [Lifehacker] [What&#39;s the Best Day of the Week to Browse New Home Listings?](https://lifehacker.com/whats-the-best-day-of-the-week-to-browse-new-home-listi-1848789893)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Patch These 128 Security Bugs on Your PC](https://lifehacker.com/you-need-to-patch-these-128-security-bugs-on-your-pc-1848787694)
 - [Lifehacker] [The Fastest Ways to Convert Your iPhone HEIC Photos to JPG &lpar;So You Can Actually Use Them&rpar;](https://lifehacker.com/the-fastest-ways-to-convert-your-iphone-heic-photos-to-1848768694)
 - [Lifehacker] [How to Fix Cracks in Your Driveway Without Paying a Professional](https://lifehacker.com/how-to-fix-cracks-in-your-driveway-without-paying-a-pro-1848786419)
-- [Lifehacker] [15 True Crime Podcasts That Aren&#39;t Too Murder-y](https://lifehacker.com/15-true-crime-podcasts-that-arent-too-murder-y-1848785894)
-- [Lifehacker] [Are Expensive Eggs Actually &#39;Better&#39; for You?](https://lifehacker.com/are-expensive-eggs-actually-better-for-you-1848785394)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
