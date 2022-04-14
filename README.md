@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is hoisting in the javascript.](https://dev.to/rahulmandyal/what-is-hoisting-in-the-javascript-2fbn)
+- [Dev.to/JS] [Google Sheets setValues anomaly?](https://dev.to/bugmagnet/google-sheets-setvalues-anomaly-46df)
+- [Dev.to/JS] [Easily and safely escape HTML in one line](https://dev.to/lionelrowe/easily-and-safely-escape-html-in-one-line-4lak)
 - [Dev.to/JS] [JavaScript web development](https://dev.to/tongseshivani/javascript-web-development-16dd)
 - [Dev.to/JS] [Test react-hook-form with react-native-testing-library](https://dev.to/joseprest/test-react-hook-form-with-react-native-testing-library-4a5o)
 - [Dev.to/JS] [Okta vs. Other Authentication/Authorization managers](https://dev.to/asayerio_techblog/okta-vs-other-authenticationauthorization-managers-4235)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js and Tumblr as a CMS](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-5fki)
 - [Dev.to/JS] [How to test Google&#39;s In-App Purchase](https://dev.to/da9ish/how-to-test-googles-in-app-purchase-86a)
 - [Dev.to/JS] [Writing cleaner React code](https://dev.to/da9ish/writing-cleaner-react-code-28j2)
-- [Dev.to/JS] [Hosting your assets on CDN](https://dev.to/iamdyt/hosting-your-assets-on-cdn-27aa)
-- [Dev.to/JS] [Day 5: Refactor-Reflect](https://dev.to/yvad60/day-5-refactor-reflect-41l3)
-- [Dev.to/JS] [Linked List in plain english](https://dev.to/doziestar/linked-list-in-plain-english-2bd)
 - [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
 - [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
