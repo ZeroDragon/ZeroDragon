@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Okta vs. Other Authentication/Authorization managers](https://dev.to/asayerio_techblog/okta-vs-other-authenticationauthorization-managers-4235)
 - [Dev.to/JS] [The Linked List in JavaScript: implementation, operations &lpar;basics&rpar;](https://dev.to/nikaffa/the-linked-list-in-javascript-implementation-operations-basics-447o)
 - [Dev.to/JS] [Vue.js, Clean Architecture e Package by feature Pattern](https://dev.to/booscaaa/vuejs-clean-architecture-e-package-by-feature-pattern-56lb)
 - [Dev.to/JS] [Menyelesaikan soal &quot;Plus Minus&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-plus-minus-di-hackerrank-9f0)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Copy text to the user&#39;s clipboard](https://dev.to/clementgaudiniere/js-copy-text-to-the-users-clipboard-4hp4)
 - [Lifehacker] [These Things Are Bringing Down the Value of Your Home](https://lifehacker.com/these-things-are-bringing-down-the-value-of-your-home-1848788226)
 - [Dev.to/JS] [Tutorial: Adding Analytics to the CryptoPunks V1 Site](https://dev.to/sort_xyz/tutorial-adding-analytics-to-the-cryptopunks-v1-site-4ad0)
-- [Dev.to/JS] [A Simple API for Web3 Data](https://dev.to/sort_xyz/a-simple-api-for-web3-data-1i42)
 - [Lifehacker] [Why Your Dog Eats Poop &lpar;and How to Get Them to Stop&rpar;](https://lifehacker.com/why-your-dog-eats-shit-and-how-to-get-them-to-stop-1848788585)
 - [Lifehacker] [5 Questions You Should Never Ask on a First Date &lpar;and What to Ask Instead&rpar;](https://lifehacker.com/5-questions-you-should-never-ask-on-a-first-date-and-w-1848788290)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
