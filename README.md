@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Someone interested in build something next weekend?](https://dev.to/matiascarpintini/someone-interested-in-build-something-next-weekend-38lk)
 - [Dev.to/JS] [General React Disclaimer](https://dev.to/charleebrown/general-react-disclaimer-5e74)
 - [Dev.to/JS] [PACER: Structured process to solve programming problems](https://dev.to/anayib/pacer-structured-process-to-solve-programming-problems-3j7j)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Playing Breaking Bad Quotes From a Phone Call Using Node.JS and Twilio ⚗️](https://dev.to/gregorygaines/playing-breaking-bad-quotes-from-a-phone-call-using-nodejs-and-twilio-20ld)
 - [Dev.to/JS] [How to make an API Query the Blockchain](https://dev.to/cormacncheese/how-to-make-an-api-query-the-blockchain-5fni)
 - [Lifehacker] [Everything You Should Know About Your 15 Minutes of Fame Before It Happens](https://lifehacker.com/everything-you-should-know-about-your-15-minutes-of-fam-1848794180)
-- [Dev.to/JS] [Day-66 Training At Ryaz](https://dev.to/mahin651/day-66-training-at-ryaz-2c62)
 - [Lifehacker] [Waffle Is the New Wordle](https://lifehacker.com/waffle-is-the-new-wordle-1848793653)
 - [Lifehacker] [How to Hide Your Most Obvious DIY Renovation Mistakes](https://lifehacker.com/how-to-hide-your-most-obvious-diy-renovation-mistakes-1848793305)
 - [Lifehacker] [How to See Who Has Looked at Your TikToks](https://lifehacker.com/how-to-see-who-has-looked-at-your-tiktoks-1848793268)
