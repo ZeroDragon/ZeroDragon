@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848799065)
+- [Dev.to/JS] [Day-67 Training At Ryaz](https://dev.to/mahin651/day-67-training-at-ryaz-5c7n)
+- [Lifehacker] [10 Extremely Niche Theme Parks Worth Visiting](https://lifehacker.com/10-extremely-niche-theme-parks-worth-visiting-1848798853)
+- [Dev.to/JS] [Common Mistakes by Django Developers and How to Avoid Them](https://dev.to/techmaniacc/common-mistakes-by-django-developers-and-how-to-avoid-them-53c0)
+- [Dev.to/JS] [Code execution: explain like I&#39;m five](https://dev.to/arikaturika/code-execution-explain-like-im-five-305b)
 - [Lifehacker] [Why You Need to Update Google Chrome As Soon As You Can...Again](https://lifehacker.com/why-you-need-to-update-google-chrome-as-soon-as-you-can-1848798753)
 - [Dev.to/JS] [Create contextual modal navigation with React Router V6.](https://dev.to/devmdmamun/create-contextual-modal-navigation-with-react-router-v6-28k2)
 - [Dev.to/JS] [Password strength checker in HTML, CSS, and Javascript](https://dev.to/incoderweb/password-strength-checker-in-html-css-and-javascript-1oh4)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a To-do List App with Pinia and Vue 3](https://dev.to/deepgram/build-a-to-do-list-app-with-pinia-and-vue-3-2a4n)
 - [Dev.to/JS] [Learning Modern JavaScript &amp; JQuery](https://dev.to/mikacodez/learning-modern-javascript-jquery-913)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
-- [Dev.to/JS] [Simple React e-commerce Store](https://dev.to/santoast/simple-react-e-commerce-store-2bel)
-- [Dev.to/JS] [🏆Top 10 Best CSS and JavaScript Projects for Beginners!](https://dev.to/robsonmuniz16/top-10-best-css-and-javascript-projects-for-beginners-5bpk)
 - [Lifehacker] [The Do&#39;s &lpar;and One Big Don&#39;t&rpar; of Dabbing Your Weed](https://lifehacker.com/the-dos-and-one-big-dont-of-dabbing-your-weed-1848798326)
-- [Dev.to/JS] [How to create a database in MYSQL using Nodejs](https://dev.to/folasayosamuel/how-to-create-a-database-in-mysql-with-nodejs-12io)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Courtney Clenney?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-co-1848797474)
 - [Lifehacker] [How to Write Alt Text on Twitter That Doesn&#39;t Suck](https://lifehacker.com/how-to-write-alt-text-on-twitter-that-doesnt-suck-1848795663)
 - [Lifehacker] [The Strange &lpar;but True&rpar; History of Easter](https://lifehacker.com/the-strange-but-true-history-of-easter-1848796462)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Parent Should Watch These Independent Toddlers Run Errands in ‘Old Enough’](https://lifehacker.com/every-parent-should-watch-these-independent-toddlers-ru-1848791735)
 - [Lifehacker] [Make Spicy-Sweet Cocktails With Pepper Jelly](https://lifehacker.com/make-spicy-sweet-cocktails-with-pepper-jelly-1848790781)
 - [Lifehacker] [When to See a Whole Bunch of Planets Align in the Sky This Month.](https://lifehacker.com/when-to-see-a-fuckton-of-planets-align-in-the-sky-this-1848790214)
-- [Lifehacker] [What&#39;s the Best Day of the Week to Browse New Home Listings?](https://lifehacker.com/whats-the-best-day-of-the-week-to-browse-new-home-listi-1848789893)
-- [Lifehacker] [Stop Saying Exercise ‘Ruins Your Knees,’ FFS](https://lifehacker.com/stop-saying-exercise-ruins-your-knees-ffs-1848789932)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
