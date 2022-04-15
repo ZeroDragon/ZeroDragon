@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help me.....](https://dev.to/albin_n_j/help-me-16e7)
+- [Lifehacker] [The Most Useful Terminal Commands Every Mac User Should Know](https://lifehacker.com/the-most-useful-terminal-commands-every-mac-user-should-1848799083)
+- [Lifehacker] [15 Things You Should Never Say to Your Kids](https://lifehacker.com/15-things-you-should-never-say-to-your-kids-1848798130)
+- [Dev.to/JS] [The Only JavaScript Sorting Guide You&#39;ll Ever Need](https://dev.to/gregorygaines/the-only-javascript-sorting-guide-youll-ever-need-ibp)
+- [Dev.to/JS] [How does @import works in CSS? What is the pros and cons. 🤔](https://dev.to/jasmin/how-does-import-works-in-css-what-is-the-pros-and-cons-136c)
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848799065)
 - [Dev.to/JS] [Day-67 Training At Ryaz](https://dev.to/mahin651/day-67-training-at-ryaz-5c7n)
 - [Lifehacker] [10 Extremely Niche Theme Parks Worth Visiting](https://lifehacker.com/10-extremely-niche-theme-parks-worth-visiting-1848798853)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I build my first NPM package and you can, everything from starting, updating, using.](https://dev.to/theabhayprajapati/how-i-build-my-first-npm-package-and-you-can-everything-from-starting-updating-using-59nk)
 - [Lifehacker] [How to Tell If Your GE Refrigerator Was Just Recalled](https://lifehacker.com/how-to-tell-if-your-ge-refrigerator-was-just-recalled-1848798212)
 - [Dev.to/JS] [About Mongoose and MonogDB](https://dev.to/mubashwirphero1/about-mongoose-and-monogdb-ead)
-- [Dev.to/JS] [function or const, which do you prefer? &lpar;TypeScript/JavaScript&rpar;](https://dev.to/skinnypetethegiraffe/function-or-const-which-do-you-prefer-typescriptjavascript-apa)
-- [Dev.to/JS] [Build a To-do List App with Pinia and Vue 3](https://dev.to/deepgram/build-a-to-do-list-app-with-pinia-and-vue-3-2a4n)
-- [Dev.to/JS] [Learning Modern JavaScript &amp; JQuery](https://dev.to/mikacodez/learning-modern-javascript-jquery-913)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
 - [Lifehacker] [The Do&#39;s &lpar;and One Big Don&#39;t&rpar; of Dabbing Your Weed](https://lifehacker.com/the-dos-and-one-big-dont-of-dabbing-your-weed-1848798326)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Courtney Clenney?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-co-1848797474)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to See Who Has Looked at Your TikToks](https://lifehacker.com/how-to-see-who-has-looked-at-your-tiktoks-1848793268)
 - [Lifehacker] [Check Whether Your Toyota or Lexus Is Part of This Massive Recall](https://lifehacker.com/check-whether-your-toyota-or-lexus-is-part-of-this-mass-1848792653)
 - [Lifehacker] [Every Parent Should Watch These Independent Toddlers Run Errands in ‘Old Enough’](https://lifehacker.com/every-parent-should-watch-these-independent-toddlers-ru-1848791735)
-- [Lifehacker] [Make Spicy-Sweet Cocktails With Pepper Jelly](https://lifehacker.com/make-spicy-sweet-cocktails-with-pepper-jelly-1848790781)
-- [Lifehacker] [When to See a Whole Bunch of Planets Align in the Sky This Month.](https://lifehacker.com/when-to-see-a-fuckton-of-planets-align-in-the-sky-this-1848790214)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
