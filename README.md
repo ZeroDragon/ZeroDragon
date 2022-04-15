@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;15-04-2022&rpar; - Midweek Special - Minimal commentary link dump! [Parental Advisory: Mind buffet]](https://dev.to/mjgs/this-weeks-newsletter-is-out-15-04-2022-midweek-special-minimal-commentary-link-dump-parental-advisory-mind-buffet-3nj0)
+- [Dev.to/JS] [TypeScript Basics](https://dev.to/pranta07/typescript-basics-3g9i)
+- [Dev.to/JS] [How to Hire Web Developers for Your Business](https://dev.to/rajatchauhan/how-to-hire-web-developers-for-your-business-4i2m)
+- [Dev.to/JS] [A Personal Website w/ EVERYTHING](https://dev.to/tmchuynh/a-personal-website-w-everything-268k)
+- [Dev.to/JS] [Does Size Matter? Question Prevails in Mobile Apps World Also](https://dev.to/louisnewmano/does-size-matter-question-prevails-in-mobile-apps-world-also-47bk)
 - [Dev.to/JS] [How to convert an array into a specific format in Javascript?](https://dev.to/ganeshshetty195/how-to-convert-an-array-into-a-specific-format-in-javascript-4bm4)
 - [Dev.to/JS] [Best Svg creator Websites](https://dev.to/kavehsabouri/best-svg-creator-websites-4j72)
 - [Dev.to/JS] [Image Zoom on Hover using Javascript &lpar;Code + Demo&rpar;](https://dev.to/shantanu_jana/image-zoom-on-hover-using-javascript-code-demo-328g)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [StrictionD Reviews 2022 – Helps for your Blood Sugar Control?](https://dev.to/strictiondweb/strictiond-reviews-2022-helps-for-your-blood-sugar-control-4cn0)
 - [Dev.to/JS] [Creating a Simple Counter Using HTML/JavaScript](https://dev.to/trevortx/creating-a-simple-counter-57hf)
 - [Dev.to/JS] [Chart.js, MySQL &amp; PHP for Beginners](https://dev.to/kjvmartinez/chartjs-mysql-php-for-beginners-4g89)
-- [Dev.to/JS] [Automatizando likes no Tinder com JavaScript](https://dev.to/cpwaldow/automatizando-likes-no-tinder-58cj)
-- [Dev.to/JS] [How to access the laravel .env variables inside javascript](https://dev.to/sureshramani/how-to-access-the-laravel-env-variables-inside-javascript-2f00)
-- [Dev.to/JS] [My react-query clone implementation for dependant API fetching custom hooks](https://dev.to/nguyenit67/my-nothing-special-implementation-for-dependant-api-fetching-custom-hooks-g39)
-- [Dev.to/JS] [JavaScript Variables](https://dev.to/leissan/javascript-variables-37je)
-- [Dev.to/JS] [Top 3 Open Source JavaScript Libraries](https://dev.to/freebeliever/top-3-open-source-javascript-libraries-43ja)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 - [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
