@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to convert an array into a specific format in Javascript?](https://dev.to/ganeshshetty195/how-to-convert-an-array-into-a-specific-format-in-javascript-4bm4)
+- [Dev.to/JS] [Best Svg creator Websites](https://dev.to/kavehsabouri/best-svg-creator-websites-4j72)
 - [Dev.to/JS] [Image Zoom on Hover using Javascript &lpar;Code + Demo&rpar;](https://dev.to/shantanu_jana/image-zoom-on-hover-using-javascript-code-demo-328g)
 - [Dev.to/JS] [Leanbean - Weight Loss Supplement, Price, Benefits &amp; Side Effects](https://dev.to/leanbeanfact/leanbean-weight-loss-supplement-price-benefits-side-effects-3c4o)
 - [Dev.to/JS] [StrictionD Reviews 2022 – Helps for your Blood Sugar Control?](https://dev.to/strictiondweb/strictiond-reviews-2022-helps-for-your-blood-sugar-control-4cn0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My react-query clone implementation for dependant API fetching custom hooks](https://dev.to/nguyenit67/my-nothing-special-implementation-for-dependant-api-fetching-custom-hooks-g39)
 - [Dev.to/JS] [JavaScript Variables](https://dev.to/leissan/javascript-variables-37je)
 - [Dev.to/JS] [Top 3 Open Source JavaScript Libraries](https://dev.to/freebeliever/top-3-open-source-javascript-libraries-43ja)
-- [Dev.to/JS] [Social media dashboard with light and dark theme](https://dev.to/kamasahdickson/social-media-dashboard-with-light-and-dark-theme-3epj)
-- [Dev.to/JS] [The Ultimate Guide To AP SETUP GUIDE](https://dev.to/andrew_clark_63de9d21dd12/the-ultimate-guide-to-ap-setup-guide-16a9)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 - [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
