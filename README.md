@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Ways to Make a Better Grilled Cheese](https://lifehacker.com/9-ways-to-make-a-better-grilled-cheese-1848795225)
+- [Dev.to/JS] [Great collection of Free resources to learn javascript and web development.](https://dev.to/osam1010/great-collection-of-free-resources-to-learn-javascript-and-web-development-1cmb)
+- [Dev.to/JS] [Video-Chat-App-](https://dev.to/hr21don/video-chat-app--4o45)
 - [Dev.to/JS] [HELP! where i practice DSA codding question in javascript language](https://dev.to/dimplejha/help-where-i-practice-dsa-codding-question-in-javascript-language-5hl5)
 - [Dev.to/JS] [Resolvendo exercícios do JSchallenger - &lpar;Javascript Basics #4&rpar;](https://dev.to/ananopaisdojavascript/resolvendo-exercicios-do-jschallenger-javascript-basics-4-5gca)
 - [Dev.to/JS] [How long does it take to learn Javascript for Beginners](https://dev.to/codeavailcom/how-long-does-it-take-to-learn-javascript-for-beginners-511l)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Personal Website w/ EVERYTHING](https://dev.to/tmchuynh/a-personal-website-w-everything-268k)
 - [Dev.to/JS] [Does Size Matter? Question Prevails in Mobile Apps World Also](https://dev.to/louisnewmano/does-size-matter-question-prevails-in-mobile-apps-world-also-47bk)
 - [Dev.to/JS] [How to convert an array into a specific format in Javascript?](https://dev.to/ganeshshetty195/how-to-convert-an-array-into-a-specific-format-in-javascript-4bm4)
-- [Dev.to/JS] [Best Svg creator Websites](https://dev.to/kavehsabouri/best-svg-creator-websites-4j72)
-- [Dev.to/JS] [Image Zoom on Hover using Javascript &lpar;Code + Demo&rpar;](https://dev.to/shantanu_jana/image-zoom-on-hover-using-javascript-code-demo-328g)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 - [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [32 Movies Best Watched in Total Ignorance](https://lifehacker.com/32-movies-best-watched-in-total-ignorance-1848783702)
 - [Lifehacker] [The Trees, Shrubs, and Plants You Need to Prune in the Spring &lpar;and How to Do It Right&rpar;](https://lifehacker.com/the-trees-shrubs-and-plants-you-need-to-prune-in-the-1848787485)
 - [Lifehacker] [Use a Lemon Peel to Rehydrate Your Weed](https://lifehacker.com/use-a-lemon-peel-to-rehydrate-your-weed-1848787925)
-- [Lifehacker] [You Need to Patch These 128 Security Bugs on Your PC](https://lifehacker.com/you-need-to-patch-these-128-security-bugs-on-your-pc-1848787694)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
