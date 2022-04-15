@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SAINE is Mathematically One of the Best WORDLE Starting Words - Here&#39;s Why](https://dev.to/uilicious/saine-is-mathematically-one-of-the-best-wordle-starting-words-heres-why-2396)
+- [Dev.to/JS] [Cheerio Vs Puppeteer for Web Scraping: Picking the Best Tool for Your Project](https://dev.to/zoltan/cheerio-vs-puppeteer-for-web-scraping-picking-the-best-tool-for-your-project-4dkl)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Dev.to/JS] [How to create your first app with anchor ?](https://dev.to/chroniques_decentralisees/how-to-create-your-first-app-with-anchor--1b8h)
 - [Dev.to/JS] [INDIAN MATKA WEBSITE](https://dev.to/indianmatkasattaa/indian-matka-website-18af)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code execution: explain like I&#39;m five](https://dev.to/arikaturika/code-execution-explain-like-im-five-305b)
 - [Lifehacker] [Why You Need to Update Google Chrome As Soon As You Can...Again](https://lifehacker.com/why-you-need-to-update-google-chrome-as-soon-as-you-can-1848798753)
 - [Dev.to/JS] [Create contextual modal navigation with React Router V6.](https://dev.to/devmdmamun/create-contextual-modal-navigation-with-react-router-v6-28k2)
-- [Dev.to/JS] [Password strength checker in HTML, CSS, and Javascript](https://dev.to/incoderweb/password-strength-checker-in-html-css-and-javascript-1oh4)
-- [Dev.to/JS] [Dev Journal Entry](https://dev.to/scottmuangsrichan/dev-journal-entry-2lp5)
 - [Lifehacker] [How to Delete Your Twitter Account When You&#39;ve Had Enough](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)
 - [Lifehacker] [How to Tell If Your GE Refrigerator Was Just Recalled](https://lifehacker.com/how-to-tell-if-your-ge-refrigerator-was-just-recalled-1848798212)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
