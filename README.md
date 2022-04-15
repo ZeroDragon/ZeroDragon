@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a Simple Counter Using HTML/JavaScript](https://dev.to/trevortx/creating-a-simple-counter-57hf)
+- [Dev.to/JS] [Chart.js, MySQL &amp; PHP for Beginners](https://dev.to/kjvmartinez/chartjs-mysql-php-for-beginners-4g89)
 - [Dev.to/JS] [Automatizando likes no Tinder com JavaScript](https://dev.to/cpwaldow/automatizando-likes-no-tinder-58cj)
 - [Dev.to/JS] [How to access the laravel .env variables inside javascript](https://dev.to/sureshramani/how-to-access-the-laravel-env-variables-inside-javascript-2f00)
 - [Dev.to/JS] [My react-query clone implementation for dependant API fetching custom hooks](https://dev.to/nguyenit67/my-nothing-special-implementation-for-dependant-api-fetching-custom-hooks-g39)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TPLINKWIFI.NET Shortcuts - The Easy Way](https://dev.to/rocky_drulo_83d2922968874/tplinkwifinet-shortcuts-the-easy-way-5232)
 - [Dev.to/JS] [Why is my Rockspace WiFi extender not connecting?](https://dev.to/rocky_drulo_83d2922968874/why-is-my-rockspace-wifi-extender-not-connecting-113m)
 - [Dev.to/JS] [How to sign in to watch movies and TV shows - Roku Support](https://dev.to/andrew_clark_63de9d21dd12/how-to-sign-in-to-watch-movies-and-tv-shows-roku-support-lj0)
-- [Dev.to/JS] [Stop Wasting Time And Start DLINKROUTER.LOCAL](https://dev.to/andrew_clark_63de9d21dd12/stop-wasting-time-and-start-dlinkrouterlocal-23oa)
-- [Dev.to/JS] [The Single Most Important Thing You Need To Know About TPLINKWIFI.NET](https://dev.to/rocky_drulo_83d2922968874/the-single-most-important-thing-you-need-to-know-about-tplinkwifinet-34mk)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 - [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
