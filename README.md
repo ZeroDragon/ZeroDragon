@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [About Mongoose and MonogDB](https://dev.to/mubashwirphero1/about-mongoose-and-monogdb-ead)
+- [Dev.to/JS] [function or const, which do you prefer? &lpar;TypeScript/JavaScript&rpar;](https://dev.to/skinnypetethegiraffe/function-or-const-which-do-you-prefer-typescriptjavascript-apa)
+- [Dev.to/JS] [Build a To-do List App with Pinia and Vue 3](https://dev.to/deepgram/build-a-to-do-list-app-with-pinia-and-vue-3-2a4n)
+- [Dev.to/JS] [Learning Modern JavaScript &amp; JQuery](https://dev.to/mikacodez/learning-modern-javascript-jquery-913)
+- [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
+- [Dev.to/JS] [Simple React e-commerce Store](https://dev.to/santoast/simple-react-e-commerce-store-2bel)
+- [Dev.to/JS] [🏆Top 10 Best CSS and JavaScript Projects for Beginners!](https://dev.to/robsonmuniz16/top-10-best-css-and-javascript-projects-for-beginners-5bpk)
+- [Lifehacker] [The Do&#39;s &lpar;and One Big Don&#39;t&rpar; of Dabbing Your Weed](https://lifehacker.com/the-dos-and-one-big-dont-of-dabbing-your-weed-1848798326)
 - [Dev.to/JS] [How to create a database in MYSQL with Nodejs](https://dev.to/folasayosamuel/how-to-create-a-database-in-mysql-with-nodejs-12io)
 - [Dev.to/JS] [Landing Page](https://dev.to/kumard3/landing-page-57ip)
 - [Dev.to/JS] [An easier way to manage HTML DOM using Javascript](https://dev.to/gauravmak/an-easier-way-to-manage-html-dom-using-javascript-4775)
@@ -30,13 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Smoothie Time](https://dev.to/ciaracloud/smoothie-time-2o0j)
 - [Dev.to/JS] [Static Site Generation explained simply | Friday Explainer](https://dev.to/thatanjan/static-site-generation-explained-simply-friday-explainer-1dc6)
 - [Dev.to/JS] [Pinia to replace VueX as Vue Store](https://dev.to/frontierdev/pinia-to-replace-vuex-as-vue-store-3im)
-- [Dev.to/JS] [Component Interaction in Angular](https://dev.to/ankitkumarsharma/component-interaction-in-angular-5cn2)
 - [Lifehacker] [How to Write Alt Text on Twitter That Doesn&#39;t Suck](https://lifehacker.com/how-to-write-alt-text-on-twitter-that-doesnt-suck-1848795663)
-- [Dev.to/JS] [Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize](https://dev.to/bobbyiliev/serverless-nodejs-url-shortener-app-powered-by-upstash-kafka-and-materialize-3mae)
-- [Dev.to/JS] [How much framework do you need?](https://dev.to/kapilkaisare/how-much-framework-do-you-need-5257)
-- [Dev.to/JS] [Building a nivo Dashboard with Cube](https://dev.to/cubejs/building-a-nivo-dashboard-with-cube-2mgm)
-- [Dev.to/JS] [test post](https://dev.to/alinioandanila/test-post-1dce)
-- [Dev.to/JS] [Day 10: Reducing Redux](https://dev.to/kemystra/day-10-reducing-redux-5eb1)
 - [Lifehacker] [The Strange &lpar;but True&rpar; History of Easter](https://lifehacker.com/the-strange-but-true-history-of-easter-1848796462)
 - [Lifehacker] [9 Ways to Make a Better Grilled Cheese](https://lifehacker.com/9-ways-to-make-a-better-grilled-cheese-1848795225)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This James Beard Recipe Is My New Favorite Way to Cook Asparagus](https://lifehacker.com/this-james-beard-recipe-is-my-new-favorite-way-to-cook-1848789953)
 - [Lifehacker] [How to Stop Octo Malware From Remotely Accessing Your Android](https://lifehacker.com/how-to-stop-octo-malware-from-remotely-accessing-your-a-1848789228)
 - [Lifehacker] [These Things Are Bringing Down the Value of Your Home](https://lifehacker.com/these-things-are-bringing-down-the-value-of-your-home-1848788226)
-- [Lifehacker] [Why Your Dog Eats Poop &lpar;and How to Get Them to Stop&rpar;](https://lifehacker.com/why-your-dog-eats-shit-and-how-to-get-them-to-stop-1848788585)
-- [Lifehacker] [5 Questions You Should Never Ask on a First Date &lpar;and What to Ask Instead&rpar;](https://lifehacker.com/5-questions-you-should-never-ask-on-a-first-date-and-w-1848788290)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
