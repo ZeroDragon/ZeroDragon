@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize](https://dev.to/bobbyiliev/serverless-nodejs-url-shortener-app-powered-by-upstash-kafka-and-materialize-3mae)
+- [Dev.to/JS] [How much framework do you need?](https://dev.to/kapilkaisare/how-much-framework-do-you-need-5257)
+- [Dev.to/JS] [Building a nivo Dashboard with Cube](https://dev.to/cubejs/building-a-nivo-dashboard-with-cube-2mgm)
+- [Dev.to/JS] [test post](https://dev.to/alinioandanila/test-post-1dce)
+- [Dev.to/JS] [Day 10: Reducing Redux](https://dev.to/kemystra/day-10-reducing-redux-5eb1)
+- [Lifehacker] [The Strange &lpar;but True&rpar; History of Easter](https://lifehacker.com/the-strange-but-true-history-of-easter-1848796462)
 - [Lifehacker] [9 Ways to Make a Better Grilled Cheese](https://lifehacker.com/9-ways-to-make-a-better-grilled-cheese-1848795225)
 - [Dev.to/JS] [Great collection of Free resources to learn javascript and web development.](https://dev.to/osam1010/great-collection-of-free-resources-to-learn-javascript-and-web-development-1cmb)
 - [Dev.to/JS] [Video-Chat-App-](https://dev.to/hr21don/video-chat-app--4o45)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How long does it take to learn Javascript for Beginners](https://dev.to/codeavailcom/how-long-does-it-take-to-learn-javascript-for-beginners-511l)
 - [Dev.to/JS] [How to publish a CLI tool on NPM](https://dev.to/shareef/how-to-publish-a-cli-tool-on-npm-j3p)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;15-04-2022&rpar; - Midweek Special - Minimal commentary link dump! [Parental Advisory: Mind buffet]](https://dev.to/mjgs/this-weeks-newsletter-is-out-15-04-2022-midweek-special-minimal-commentary-link-dump-parental-advisory-mind-buffet-3nj0)
-- [Dev.to/JS] [TypeScript Basics](https://dev.to/pranta07/typescript-basics-3g9i)
-- [Dev.to/JS] [How to Hire Web Developers for Your Business](https://dev.to/rajatchauhan/how-to-hire-web-developers-for-your-business-4i2m)
-- [Dev.to/JS] [A Personal Website w/ EVERYTHING](https://dev.to/tmchuynh/a-personal-website-w-everything-268k)
-- [Dev.to/JS] [Does Size Matter? Question Prevails in Mobile Apps World Also](https://dev.to/louisnewmano/does-size-matter-question-prevails-in-mobile-apps-world-also-47bk)
-- [Dev.to/JS] [How to convert an array into a specific format in Javascript?](https://dev.to/ganeshshetty195/how-to-convert-an-array-into-a-specific-format-in-javascript-4bm4)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 - [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Lifehacker] [32 Movies Best Watched in Total Ignorance](https://lifehacker.com/32-movies-best-watched-in-total-ignorance-1848783702)
 - [Lifehacker] [The Trees, Shrubs, and Plants You Need to Prune in the Spring &lpar;and How to Do It Right&rpar;](https://lifehacker.com/the-trees-shrubs-and-plants-you-need-to-prune-in-the-1848787485)
-- [Lifehacker] [Use a Lemon Peel to Rehydrate Your Weed](https://lifehacker.com/use-a-lemon-peel-to-rehydrate-your-weed-1848787925)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
 
