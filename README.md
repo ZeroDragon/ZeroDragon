@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Social media dashboard with light and dark theme](https://dev.to/kamasahdickson/social-media-dashboard-with-light-and-dark-theme-3epj)
 - [Dev.to/JS] [The Ultimate Guide To AP SETUP GUIDE](https://dev.to/andrew_clark_63de9d21dd12/the-ultimate-guide-to-ap-setup-guide-16a9)
 - [Dev.to/JS] [TPLINKWIFI.NET Shortcuts - The Easy Way](https://dev.to/rocky_drulo_83d2922968874/tplinkwifinet-shortcuts-the-easy-way-5232)
 - [Dev.to/JS] [Why is my Rockspace WiFi extender not connecting?](https://dev.to/rocky_drulo_83d2922968874/why-is-my-rockspace-wifi-extender-not-connecting-113m)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the default Orbi admin password?](https://dev.to/andrew_clark_63de9d21dd12/what-is-the-default-orbi-admin-password-5743)
 - [Dev.to/JS] [How do I setup my Amped Wireless Extender ac1750?](https://dev.to/rocky_drulo_83d2922968874/how-do-i-setup-my-amped-wireless-extender-ac1750-4a5k)
 - [Dev.to/JS] [Why can&#39;t I access my Linksys router settings?](https://dev.to/rocky_drulo_83d2922968874/why-cant-i-access-my-linksys-router-settings-38ch)
-- [Dev.to/JS] [Lifecycle in React Component](https://dev.to/yohanesss/lifecycle-in-react-component-28g7)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 - [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
