@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [StrictionD Reviews 2022 – Helps for your Blood Sugar Control?](https://dev.to/strictiondweb/strictiond-reviews-2022-helps-for-your-blood-sugar-control-4cn0)
 - [Dev.to/JS] [Creating a Simple Counter Using HTML/JavaScript](https://dev.to/trevortx/creating-a-simple-counter-57hf)
 - [Dev.to/JS] [Chart.js, MySQL &amp; PHP for Beginners](https://dev.to/kjvmartinez/chartjs-mysql-php-for-beginners-4g89)
 - [Dev.to/JS] [Automatizando likes no Tinder com JavaScript](https://dev.to/cpwaldow/automatizando-likes-no-tinder-58cj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Ultimate Guide To AP SETUP GUIDE](https://dev.to/andrew_clark_63de9d21dd12/the-ultimate-guide-to-ap-setup-guide-16a9)
 - [Dev.to/JS] [TPLINKWIFI.NET Shortcuts - The Easy Way](https://dev.to/rocky_drulo_83d2922968874/tplinkwifinet-shortcuts-the-easy-way-5232)
 - [Dev.to/JS] [Why is my Rockspace WiFi extender not connecting?](https://dev.to/rocky_drulo_83d2922968874/why-is-my-rockspace-wifi-extender-not-connecting-113m)
-- [Dev.to/JS] [How to sign in to watch movies and TV shows - Roku Support](https://dev.to/andrew_clark_63de9d21dd12/how-to-sign-in-to-watch-movies-and-tv-shows-roku-support-lj0)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 - [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
