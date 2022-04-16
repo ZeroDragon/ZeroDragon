@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Postman API 101 &lpar;Learn the basics of API using Postman&rpar;](https://dev.to/kumarkalyan/postman-api-101-learn-the-basics-of-api-using-postman-1cfk)
 - [Dev.to/JS] [Week two complete...](https://dev.to/taepal467/week-two-complete-5hdf)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Dev.to/JS] [Spiral Matrix in Javascript](https://dev.to/urstrulyvishwak/spiral-matrix-in-javascript-2hii)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Syntaxerror: unexpected reserved word =&gt; prettier/third-party.Js](https://dev.to/shivampawar/syntaxerror-unexpected-reserved-word-prettierthird-partyjs-3ph7)
 - [Dev.to/JS] [How to upgrade to React 18](https://dev.to/adarshgoyal/how-to-upgrade-to-react-18-3dhi)
 - [Dev.to/JS] [A New portfolio Template](https://dev.to/kumard3/a-new-portfolio-template-30jc)
-- [Dev.to/JS] [ERROR: non-interactive elements should not be assigned mouse or keyboard event jsx-a11y/no-noninteractive-elements-interactions](https://dev.to/shivampawar/error-non-interactive-elements-should-not-be-assigned-mouse-or-keyboard-event-jsx-a11yno-noninteractive-elements-interactions-2i1g)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
