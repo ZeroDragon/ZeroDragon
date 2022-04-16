@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use Http interceptor In Angular for Every Http Request](https://dev.to/deepakjaiswal/use-http-interceptor-in-angular-for-every-http-request-7lo)
+- [Dev.to/JS] [How to build a knowledge system with Slack and Notion](https://dev.to/tim_yone/how-to-build-a-knowledge-system-with-slack-and-notion-52dc)
+- [Dev.to/JS] [FIX: replaceAll&lpar;&rpar; is not a Function In JavaScript](https://dev.to/shivampawar/fix-replaceall-is-not-a-function-in-javascript-3klp)
+- [Dev.to/JS] [Create and Publish NPM Package for custom Hooks in React JS](https://dev.to/shivampawar/create-and-publish-npm-package-for-custom-hooks-in-react-js-5237)
 - [Dev.to/JS] [Writing your own module bundler](https://dev.to/akshay9677/writing-your-own-module-bundler-125b)
 - [Dev.to/JS] [Lifestyle Keto - Reviews &lpar;Scam Exposed 2022&rpar; Complaints And Results?](https://dev.to/lifestyleketof2/lifestyle-keto-reviews-scam-exposed-2022-complaints-and-results-5d11)
 - [Dev.to/JS] [ACV Keto Gummies Reviews &lpar;Canada 2022&rpar; – Does It Scam Or Fat Burn?](https://dev.to/acvgummiesweb/acv-keto-gummies-reviews-canada-2022-does-it-scam-or-fat-burn-26cd)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Realtime Chat App with React, Laravel, and WebSockets](https://dev.to/ravgeetdhillon/building-a-realtime-chat-app-with-react-laravel-and-websockets-4clh)
 - [Dev.to/JS] [Implementing OpenTelemetry in Angular application](https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45)
 - [Dev.to/JS] [What is this?](https://dev.to/bilalniaz15/what-is-this-57d6)
-- [Dev.to/JS] [Nuevo Proyecto](https://dev.to/skrindo/nuevo-proyecto-4n90)
-- [Dev.to/JS] [Javascript Stack Data Structure.](https://dev.to/bvnkumar/javascript-stack-data-structure-2b30)
-- [Dev.to/JS] [Create Excel-like javascript spreadsheet in less than 10 lines of code](https://dev.to/zyc9012/create-excel-like-javascript-spreadsheet-in-less-than-10-lines-of-code-4a5o)
-- [Dev.to/JS] [yarn berryで依存パッケージのバージョンを指定する](https://dev.to/yutagoto/yarn-berrydeyi-cun-patukezinobaziyonwozhi-ding-suru-3bph)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
