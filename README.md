@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;16-04-2022&rpar; - Git push brain](https://dev.to/mjgs/this-weeks-newsletter-is-out-16-04-2022-git-push-brain-j97)
+- [Dev.to/JS] [Building a Realtime Chat App with React, Laravel, and WebSockets](https://dev.to/ravgeetdhillon/building-a-realtime-chat-app-with-react-laravel-and-websockets-4clh)
 - [Dev.to/JS] [Implementing OpenTelemetry in Angular application](https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45)
 - [Dev.to/JS] [What is this?](https://dev.to/bilalniaz15/what-is-this-57d6)
 - [Dev.to/JS] [Nuevo Proyecto](https://dev.to/skrindo/nuevo-proyecto-4n90)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SAINE is Mathematically One of the Best WORDLE Starting Words - Here&#39;s Why](https://dev.to/uilicious/saine-is-mathematically-one-of-the-best-wordle-starting-words-heres-why-2396)
 - [Dev.to/JS] [Cheerio Vs Puppeteer for Web Scraping: Picking the Best Tool for Your Project](https://dev.to/zoltan/cheerio-vs-puppeteer-for-web-scraping-picking-the-best-tool-for-your-project-4dkl)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
-- [Dev.to/JS] [How to create your first app with anchor ?](https://dev.to/chroniques_decentralisees/how-to-create-your-first-app-with-anchor--1b8h)
-- [Dev.to/JS] [INDIAN MATKA WEBSITE](https://dev.to/indianmatkasattaa/indian-matka-website-18af)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
 - [Lifehacker] [The Most Useful Terminal Commands Every Mac User Should Know](https://lifehacker.com/the-most-useful-terminal-commands-every-mac-user-should-1848799083)
