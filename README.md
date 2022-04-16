@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nuevo Proyecto](https://dev.to/skrindo/nuevo-proyecto-4n90)
+- [Dev.to/JS] [Javascript Stack Data Structure.](https://dev.to/bvnkumar/javascript-stack-data-structure-2b30)
 - [Dev.to/JS] [Create Excel-like javascript spreadsheet in less than 10 lines of code](https://dev.to/zyc9012/create-excel-like-javascript-spreadsheet-in-less-than-10-lines-of-code-4a5o)
 - [Dev.to/JS] [yarn berryで依存パッケージのバージョンを指定する](https://dev.to/yutagoto/yarn-berrydeyi-cun-patukezinobaziyonwozhi-ding-suru-3bph)
 - [Dev.to/JS] [I Design, You Build! - Frontend Challenge #4 &lpar;Supabase version&rpar;](https://dev.to/zernonia/i-design-you-build-frontend-challenge-4-supabase-version-2afm)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Help me.....](https://dev.to/albin_n_j/help-me-16e7)
 - [Lifehacker] [The Most Useful Terminal Commands Every Mac User Should Know](https://lifehacker.com/the-most-useful-terminal-commands-every-mac-user-should-1848799083)
 - [Lifehacker] [15 Things You Should Never Say to Your Kids](https://lifehacker.com/15-things-you-should-never-say-to-your-kids-1848798130)
-- [Dev.to/JS] [The Only JavaScript Sorting Guide You&#39;ll Ever Need](https://dev.to/gregorygaines/the-only-javascript-sorting-guide-youll-ever-need-ibp)
-- [Dev.to/JS] [How does @import works in CSS? What is the pros and cons. 🤔](https://dev.to/jasmin/how-does-import-works-in-css-what-is-the-pros-and-cons-136c)
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848799065)
 - [Lifehacker] [10 Extremely Niche Theme Parks Worth Visiting](https://lifehacker.com/10-extremely-niche-theme-parks-worth-visiting-1848798853)
 - [Lifehacker] [Why You Need to Update Google Chrome As Soon As You Can...Again](https://lifehacker.com/why-you-need-to-update-google-chrome-as-soon-as-you-can-1848798753)
