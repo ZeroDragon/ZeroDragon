@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Excel-like javascript spreadsheet in less than 10 lines of code](https://dev.to/zyc9012/create-excel-like-javascript-spreadsheet-in-less-than-10-lines-of-code-4a5o)
+- [Dev.to/JS] [yarn berryで依存パッケージのバージョンを指定する](https://dev.to/yutagoto/yarn-berrydeyi-cun-patukezinobaziyonwozhi-ding-suru-3bph)
 - [Dev.to/JS] [I Design, You Build! - Frontend Challenge #4 &lpar;Supabase version&rpar;](https://dev.to/zernonia/i-design-you-build-frontend-challenge-4-supabase-version-2afm)
 - [Dev.to/JS] [How to use async/await with .map in js](https://dev.to/jordandev/how-to-use-asyncawait-with-map-in-js-2ena)
 - [Dev.to/JS] [SAINE is Mathematically One of the Best WORDLE Starting Words - Here&#39;s Why](https://dev.to/uilicious/saine-is-mathematically-one-of-the-best-wordle-starting-words-heres-why-2396)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Only JavaScript Sorting Guide You&#39;ll Ever Need](https://dev.to/gregorygaines/the-only-javascript-sorting-guide-youll-ever-need-ibp)
 - [Dev.to/JS] [How does @import works in CSS? What is the pros and cons. 🤔](https://dev.to/jasmin/how-does-import-works-in-css-what-is-the-pros-and-cons-136c)
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848799065)
-- [Dev.to/JS] [Day-67 Training At Ryaz](https://dev.to/mahin651/day-67-training-at-ryaz-5c7n)
 - [Lifehacker] [10 Extremely Niche Theme Parks Worth Visiting](https://lifehacker.com/10-extremely-niche-theme-parks-worth-visiting-1848798853)
-- [Dev.to/JS] [Common Mistakes by Django Developers and How to Avoid Them](https://dev.to/techmaniacc/common-mistakes-by-django-developers-and-how-to-avoid-them-53c0)
 - [Lifehacker] [Why You Need to Update Google Chrome As Soon As You Can...Again](https://lifehacker.com/why-you-need-to-update-google-chrome-as-soon-as-you-can-1848798753)
 - [Lifehacker] [How to Delete Your Twitter Account When You&#39;ve Had Enough](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)
 - [Lifehacker] [How to Tell If Your GE Refrigerator Was Just Recalled](https://lifehacker.com/how-to-tell-if-your-ge-refrigerator-was-just-recalled-1848798212)
