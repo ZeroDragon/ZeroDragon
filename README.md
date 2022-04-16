@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to upgrade to React 18](https://dev.to/adarshgoyal/how-to-upgrade-to-react-18-3dhi)
+- [Dev.to/JS] [A New portfolio Template](https://dev.to/kumard3/a-new-portfolio-template-30jc)
+- [Dev.to/JS] [ERROR: non-interactive elements should not be assigned mouse or keyboard event jsx-a11y/no-noninteractive-elements-interactions](https://dev.to/shivampawar/error-non-interactive-elements-should-not-be-assigned-mouse-or-keyboard-event-jsx-a11yno-noninteractive-elements-interactions-2i1g)
+- [Dev.to/JS] [Day 11: Finished Redux](https://dev.to/kemystra/day-11-finished-redux-467m)
+- [Dev.to/JS] [Popular React Webpack Plugins for 2022](https://dev.to/shivampawar/popular-react-webpack-plugins-for-2022-3ld6)
 - [Dev.to/JS] [Laravel + React &lpar;via laravel-mix&rpar;](https://dev.to/atinypixel/laravel-react-via-laravel-mix-4c12)
 - [Dev.to/JS] [Setup React Application using Typescript and Webpack](https://dev.to/shivampawar/setup-react-application-using-typescript-and-webpack-2kn6)
 - [Dev.to/JS] [Hoisting &amp; temporal dead zone In JavaScript](https://dev.to/tmayank860/hoisting-temporal-dead-zone-in-javascript-elb)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setup Webpack And Babel for a React JS Application](https://dev.to/shivampawar/setup-webpack-and-babel-for-a-react-js-application-24f5)
 - [Dev.to/JS] [How to communicate between an iframe and the parent page](https://dev.to/alexadam/how-to-communicate-between-an-iframe-and-the-parent-page-37k7)
 - [Dev.to/JS] [Great Free CSS Grid Course by Mozilla &amp; Wes Bos 😻🔥](https://dev.to/rammcodes/great-free-css-grid-course-by-mozilla-wes-bos-ell)
-- [Dev.to/JS] [Use Http interceptor In Angular for Every Http Request](https://dev.to/deepakjaiswal/use-http-interceptor-in-angular-for-every-http-request-7lo)
-- [Dev.to/JS] [How to build a knowledge system with Slack and Notion](https://dev.to/tim_yone/how-to-build-a-knowledge-system-with-slack-and-notion-52dc)
-- [Dev.to/JS] [FIX: replaceAll&lpar;&rpar; is not a Function In JavaScript](https://dev.to/shivampawar/fix-replaceall-is-not-a-function-in-javascript-3klp)
-- [Dev.to/JS] [Create and Publish NPM Package for custom Hooks in React JS](https://dev.to/shivampawar/create-and-publish-npm-package-for-custom-hooks-in-react-js-5237)
-- [Dev.to/JS] [Writing your own module bundler](https://dev.to/akshay9677/writing-your-own-module-bundler-125b)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
