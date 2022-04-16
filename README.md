@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.JS: Asynchronous Functions](https://dev.to/samantafluture/nodejs-asynchronous-functions-48n5)
+- [Dev.to/JS] [JavaScript and Dates](https://dev.to/drsimplegraffiti/javascripts-and-dates-45e5)
+- [Dev.to/JS] [JavaScript: When should I use forEach and map?](https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao)
+- [Dev.to/JS] [ReactDOM.render is no longer supported in React 18.](https://dev.to/abhishek_159/reactdomrender-is-no-longer-supported-in-react-18-1kac)
+- [Dev.to/JS] [Multi-Step Form with React &amp; Formik](https://dev.to/sinhapiyush/multi-step-form-with-react-formik-2i52)
+- [Dev.to/JS] [How to resolve a Cross-Origin Resource Sharing &lpar;CORS&rpar; error?](https://dev.to/samantafluture/how-to-resolve-a-cross-origin-resource-sharing-cors-error-29he)
 - [Dev.to/JS] [Postman API 101 &lpar;Learn the basics of API using Postman&rpar;](https://dev.to/kumarkalyan/postman-api-101-learn-the-basics-of-api-using-postman-1cfk)
 - [Dev.to/JS] [Week two complete...](https://dev.to/taepal467/week-two-complete-5hdf)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
@@ -30,13 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next JS : Basic features](https://dev.to/sandeshsapkota/next-js-basic-features-33n5)
 - [Dev.to/JS] [ABOUT US](https://dev.to/shoppingglee/about-us-19fp)
 - [Dev.to/JS] [Building a Progressive Web App with React 18](https://dev.to/asayerio_techblog/building-a-progressive-web-app-with-react-18-22p4)
-- [Dev.to/JS] [Ajax Battle: XMLHttpRequest vs the Fetch API](https://dev.to/asayerio_techblog/ajax-battle-xmlhttprequest-vs-the-fetch-api-95p)
-- [Dev.to/JS] [Why 0.1 + 0.2 !== 0.3?](https://dev.to/noriller/why-01-02-03-1g3j)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
-- [Dev.to/JS] [Multiple entry points for React Native Storybook](https://dev.to/dannyhw/multiple-entry-points-for-react-native-storybook-4dkp)
-- [Dev.to/JS] [Syntaxerror: unexpected reserved word =&gt; prettier/third-party.Js](https://dev.to/shivampawar/syntaxerror-unexpected-reserved-word-prettierthird-partyjs-3ph7)
-- [Dev.to/JS] [How to upgrade to React 18](https://dev.to/adarshgoyal/how-to-upgrade-to-react-18-3dhi)
-- [Dev.to/JS] [A New portfolio Template](https://dev.to/kumard3/a-new-portfolio-template-30jc)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
