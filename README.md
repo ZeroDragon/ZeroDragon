@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Spiral Matrix in Javascript](https://dev.to/urstrulyvishwak/spiral-matrix-in-javascript-2hii)
 - [Dev.to/JS] [Next JS : Basic features](https://dev.to/sandeshsapkota/next-js-basic-features-33n5)
 - [Dev.to/JS] [ABOUT US](https://dev.to/shoppingglee/about-us-19fp)
 - [Dev.to/JS] [Building a Progressive Web App with React 18](https://dev.to/asayerio_techblog/building-a-progressive-web-app-with-react-18-22p4)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A New portfolio Template](https://dev.to/kumard3/a-new-portfolio-template-30jc)
 - [Dev.to/JS] [ERROR: non-interactive elements should not be assigned mouse or keyboard event jsx-a11y/no-noninteractive-elements-interactions](https://dev.to/shivampawar/error-non-interactive-elements-should-not-be-assigned-mouse-or-keyboard-event-jsx-a11yno-noninteractive-elements-interactions-2i1g)
 - [Dev.to/JS] [Day 11: Finished Redux](https://dev.to/kemystra/day-11-finished-redux-467m)
-- [Dev.to/JS] [Popular React Webpack Plugins for 2022](https://dev.to/shivampawar/popular-react-webpack-plugins-for-2022-3ld6)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
