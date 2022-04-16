@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Week two complete...](https://dev.to/taepal467/week-two-complete-5hdf)
+- [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Dev.to/JS] [Spiral Matrix in Javascript](https://dev.to/urstrulyvishwak/spiral-matrix-in-javascript-2hii)
 - [Dev.to/JS] [Next JS : Basic features](https://dev.to/sandeshsapkota/next-js-basic-features-33n5)
 - [Dev.to/JS] [ABOUT US](https://dev.to/shoppingglee/about-us-19fp)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to upgrade to React 18](https://dev.to/adarshgoyal/how-to-upgrade-to-react-18-3dhi)
 - [Dev.to/JS] [A New portfolio Template](https://dev.to/kumard3/a-new-portfolio-template-30jc)
 - [Dev.to/JS] [ERROR: non-interactive elements should not be assigned mouse or keyboard event jsx-a11y/no-noninteractive-elements-interactions](https://dev.to/shivampawar/error-non-interactive-elements-should-not-be-assigned-mouse-or-keyboard-event-jsx-a11yno-noninteractive-elements-interactions-2i1g)
-- [Dev.to/JS] [Day 11: Finished Redux](https://dev.to/kemystra/day-11-finished-redux-467m)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Games to Play After Elden Ring](https://lifehacker.com/5-games-to-play-after-elden-ring-1848794932)
 - [Lifehacker] [How to Creep on Someone&#39;s Instagram Stories Anonymously](https://lifehacker.com/how-to-creep-on-someones-instagram-stories-anonymously-1848794616)
 - [Lifehacker] [There&#39;s a Whole World of Rabe Beyond Broccoli](https://lifehacker.com/theres-a-whole-world-of-rabe-beyond-broccoli-1848791429)
-- [Lifehacker] [Everything You Should Know About Your 15 Minutes of Fame Before It Happens](https://lifehacker.com/everything-you-should-know-about-your-15-minutes-of-fam-1848794180)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
