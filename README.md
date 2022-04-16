@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Multiple entry points for React Native Storybook](https://dev.to/dannyhw/multiple-entry-points-for-react-native-storybook-4dkp)
+- [Dev.to/JS] [Syntaxerror: unexpected reserved word =&gt; prettier/third-party.Js](https://dev.to/shivampawar/syntaxerror-unexpected-reserved-word-prettierthird-partyjs-3ph7)
 - [Dev.to/JS] [How to upgrade to React 18](https://dev.to/adarshgoyal/how-to-upgrade-to-react-18-3dhi)
 - [Dev.to/JS] [A New portfolio Template](https://dev.to/kumard3/a-new-portfolio-template-30jc)
 - [Dev.to/JS] [ERROR: non-interactive elements should not be assigned mouse or keyboard event jsx-a11y/no-noninteractive-elements-interactions](https://dev.to/shivampawar/error-non-interactive-elements-should-not-be-assigned-mouse-or-keyboard-event-jsx-a11yno-noninteractive-elements-interactions-2i1g)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
 - [Dev.to/JS] [My Web based OS](https://dev.to/tanmaytiwaricyber/my-web-based-os-485a)
 - [Dev.to/JS] [Setup Webpack And Babel for a React JS Application](https://dev.to/shivampawar/setup-webpack-and-babel-for-a-react-js-application-24f5)
-- [Dev.to/JS] [How to communicate between an iframe and the parent page](https://dev.to/alexadam/how-to-communicate-between-an-iframe-and-the-parent-page-37k7)
-- [Dev.to/JS] [Great Free CSS Grid Course by Mozilla &amp; Wes Bos 😻🔥](https://dev.to/rammcodes/great-free-css-grid-course-by-mozilla-wes-bos-ell)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
