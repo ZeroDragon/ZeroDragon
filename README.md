@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next JS : Basic features](https://dev.to/sandeshsapkota/next-js-basic-features-33n5)
+- [Dev.to/JS] [ABOUT US](https://dev.to/shoppingglee/about-us-19fp)
+- [Dev.to/JS] [Building a Progressive Web App with React 18](https://dev.to/asayerio_techblog/building-a-progressive-web-app-with-react-18-22p4)
+- [Dev.to/JS] [Ajax Battle: XMLHttpRequest vs the Fetch API](https://dev.to/asayerio_techblog/ajax-battle-xmlhttprequest-vs-the-fetch-api-95p)
+- [Dev.to/JS] [Why 0.1 + 0.2 !== 0.3?](https://dev.to/noriller/why-01-02-03-1g3j)
+- [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Dev.to/JS] [Multiple entry points for React Native Storybook](https://dev.to/dannyhw/multiple-entry-points-for-react-native-storybook-4dkp)
 - [Dev.to/JS] [Syntaxerror: unexpected reserved word =&gt; prettier/third-party.Js](https://dev.to/shivampawar/syntaxerror-unexpected-reserved-word-prettierthird-partyjs-3ph7)
 - [Dev.to/JS] [How to upgrade to React 18](https://dev.to/adarshgoyal/how-to-upgrade-to-react-18-3dhi)
@@ -30,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ERROR: non-interactive elements should not be assigned mouse or keyboard event jsx-a11y/no-noninteractive-elements-interactions](https://dev.to/shivampawar/error-non-interactive-elements-should-not-be-assigned-mouse-or-keyboard-event-jsx-a11yno-noninteractive-elements-interactions-2i1g)
 - [Dev.to/JS] [Day 11: Finished Redux](https://dev.to/kemystra/day-11-finished-redux-467m)
 - [Dev.to/JS] [Popular React Webpack Plugins for 2022](https://dev.to/shivampawar/popular-react-webpack-plugins-for-2022-3ld6)
-- [Dev.to/JS] [Laravel + React &lpar;via laravel-mix&rpar;](https://dev.to/atinypixel/laravel-react-via-laravel-mix-4c12)
-- [Dev.to/JS] [Setup React Application using Typescript and Webpack](https://dev.to/shivampawar/setup-react-application-using-typescript-and-webpack-2kn6)
-- [Dev.to/JS] [Hoisting &amp; temporal dead zone In JavaScript](https://dev.to/tmayank860/hoisting-temporal-dead-zone-in-javascript-elb)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
-- [Dev.to/JS] [My Web based OS](https://dev.to/tanmaytiwaricyber/my-web-based-os-485a)
-- [Dev.to/JS] [Setup Webpack And Babel for a React JS Application](https://dev.to/shivampawar/setup-webpack-and-babel-for-a-react-js-application-24f5)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Creep on Someone&#39;s Instagram Stories Anonymously](https://lifehacker.com/how-to-creep-on-someones-instagram-stories-anonymously-1848794616)
 - [Lifehacker] [There&#39;s a Whole World of Rabe Beyond Broccoli](https://lifehacker.com/theres-a-whole-world-of-rabe-beyond-broccoli-1848791429)
 - [Lifehacker] [Everything You Should Know About Your 15 Minutes of Fame Before It Happens](https://lifehacker.com/everything-you-should-know-about-your-15-minutes-of-fam-1848794180)
-- [Lifehacker] [Waffle Is the New Wordle](https://lifehacker.com/waffle-is-the-new-wordle-1848793653)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
