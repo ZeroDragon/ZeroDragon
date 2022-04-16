@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup Webpack And Babel for a React JS Application](https://dev.to/shivampawar/setup-webpack-and-babel-for-a-react-js-application-24f5)
+- [Dev.to/JS] [How to communicate between an iframe and the parent page](https://dev.to/alexadam/how-to-communicate-between-an-iframe-and-the-parent-page-37k7)
+- [Dev.to/JS] [Great Free CSS Grid Course by Mozilla &amp; Wes Bos 😻🔥](https://dev.to/rammcodes/great-free-css-grid-course-by-mozilla-wes-bos-ell)
 - [Dev.to/JS] [Use Http interceptor In Angular for Every Http Request](https://dev.to/deepakjaiswal/use-http-interceptor-in-angular-for-every-http-request-7lo)
 - [Dev.to/JS] [How to build a knowledge system with Slack and Notion](https://dev.to/tim_yone/how-to-build-a-knowledge-system-with-slack-and-notion-52dc)
 - [Dev.to/JS] [FIX: replaceAll&lpar;&rpar; is not a Function In JavaScript](https://dev.to/shivampawar/fix-replaceall-is-not-a-function-in-javascript-3klp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ACV Keto Gummies Reviews &lpar;Canada 2022&rpar; – Does It Scam Or Fat Burn?](https://dev.to/acvgummiesweb/acv-keto-gummies-reviews-canada-2022-does-it-scam-or-fat-burn-26cd)
 - [Dev.to/JS] [Javascript beautifier online | 2022 | All-time-dev](https://dev.to/alltimedevlopment/javascript-beautifier-online-2022-all-time-dev-2291)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;16-04-2022&rpar; - Git push brain](https://dev.to/mjgs/this-weeks-newsletter-is-out-16-04-2022-git-push-brain-j97)
-- [Dev.to/JS] [Building a Realtime Chat App with React, Laravel, and WebSockets](https://dev.to/ravgeetdhillon/building-a-realtime-chat-app-with-react-laravel-and-websockets-4clh)
-- [Dev.to/JS] [Implementing OpenTelemetry in Angular application](https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45)
-- [Dev.to/JS] [What is this?](https://dev.to/bilalniaz15/what-is-this-57d6)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
