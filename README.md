@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel + React &lpar;via laravel-mix&rpar;](https://dev.to/atinypixel/laravel-react-via-laravel-mix-4c12)
+- [Dev.to/JS] [Setup React Application using Typescript and Webpack](https://dev.to/shivampawar/setup-react-application-using-typescript-and-webpack-2kn6)
+- [Dev.to/JS] [Hoisting &amp; temporal dead zone In JavaScript](https://dev.to/tmayank860/hoisting-temporal-dead-zone-in-javascript-elb)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
 - [Dev.to/JS] [My Web based OS](https://dev.to/tanmaytiwaricyber/my-web-based-os-485a)
 - [Dev.to/JS] [Setup Webpack And Babel for a React JS Application](https://dev.to/shivampawar/setup-webpack-and-babel-for-a-react-js-application-24f5)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FIX: replaceAll&lpar;&rpar; is not a Function In JavaScript](https://dev.to/shivampawar/fix-replaceall-is-not-a-function-in-javascript-3klp)
 - [Dev.to/JS] [Create and Publish NPM Package for custom Hooks in React JS](https://dev.to/shivampawar/create-and-publish-npm-package-for-custom-hooks-in-react-js-5237)
 - [Dev.to/JS] [Writing your own module bundler](https://dev.to/akshay9677/writing-your-own-module-bundler-125b)
-- [Dev.to/JS] [Lifestyle Keto - Reviews &lpar;Scam Exposed 2022&rpar; Complaints And Results?](https://dev.to/lifestyleketof2/lifestyle-keto-reviews-scam-exposed-2022-complaints-and-results-5d11)
-- [Dev.to/JS] [ACV Keto Gummies Reviews &lpar;Canada 2022&rpar; – Does It Scam Or Fat Burn?](https://dev.to/acvgummiesweb/acv-keto-gummies-reviews-canada-2022-does-it-scam-or-fat-burn-26cd)
-- [Dev.to/JS] [Javascript beautifier online | 2022 | All-time-dev](https://dev.to/alltimedevlopment/javascript-beautifier-online-2022-all-time-dev-2291)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
