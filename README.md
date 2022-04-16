@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing OpenTelemetry in Angular application](https://dev.to/signoz/implementing-opentelemetry-in-angular-application-f45)
+- [Dev.to/JS] [What is this?](https://dev.to/bilalniaz15/what-is-this-57d6)
 - [Dev.to/JS] [Nuevo Proyecto](https://dev.to/skrindo/nuevo-proyecto-4n90)
 - [Dev.to/JS] [Javascript Stack Data Structure.](https://dev.to/bvnkumar/javascript-stack-data-structure-2b30)
 - [Dev.to/JS] [Create Excel-like javascript spreadsheet in less than 10 lines of code](https://dev.to/zyc9012/create-excel-like-javascript-spreadsheet-in-less-than-10-lines-of-code-4a5o)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [INDIAN MATKA WEBSITE](https://dev.to/indianmatkasattaa/indian-matka-website-18af)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
-- [Dev.to/JS] [What is JavaScript ?](https://dev.to/gsharma010/what-is-javascript--5b69)
-- [Dev.to/JS] [Help me.....](https://dev.to/albin_n_j/help-me-16e7)
 - [Lifehacker] [The Most Useful Terminal Commands Every Mac User Should Know](https://lifehacker.com/the-most-useful-terminal-commands-every-mac-user-should-1848799083)
 - [Lifehacker] [15 Things You Should Never Say to Your Kids](https://lifehacker.com/15-things-you-should-never-say-to-your-kids-1848798130)
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848799065)
