@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
+- [Dev.to/JS] [My Web based OS](https://dev.to/tanmaytiwaricyber/my-web-based-os-485a)
 - [Dev.to/JS] [Setup Webpack And Babel for a React JS Application](https://dev.to/shivampawar/setup-webpack-and-babel-for-a-react-js-application-24f5)
 - [Dev.to/JS] [How to communicate between an iframe and the parent page](https://dev.to/alexadam/how-to-communicate-between-an-iframe-and-the-parent-page-37k7)
 - [Dev.to/JS] [Great Free CSS Grid Course by Mozilla &amp; Wes Bos 😻🔥](https://dev.to/rammcodes/great-free-css-grid-course-by-mozilla-wes-bos-ell)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lifestyle Keto - Reviews &lpar;Scam Exposed 2022&rpar; Complaints And Results?](https://dev.to/lifestyleketof2/lifestyle-keto-reviews-scam-exposed-2022-complaints-and-results-5d11)
 - [Dev.to/JS] [ACV Keto Gummies Reviews &lpar;Canada 2022&rpar; – Does It Scam Or Fat Burn?](https://dev.to/acvgummiesweb/acv-keto-gummies-reviews-canada-2022-does-it-scam-or-fat-burn-26cd)
 - [Dev.to/JS] [Javascript beautifier online | 2022 | All-time-dev](https://dev.to/alltimedevlopment/javascript-beautifier-online-2022-all-time-dev-2291)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;16-04-2022&rpar; - Git push brain](https://dev.to/mjgs/this-weeks-newsletter-is-out-16-04-2022-git-push-brain-j97)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [There&#39;s a Whole World of Rabe Beyond Broccoli](https://lifehacker.com/theres-a-whole-world-of-rabe-beyond-broccoli-1848791429)
 - [Lifehacker] [Everything You Should Know About Your 15 Minutes of Fame Before It Happens](https://lifehacker.com/everything-you-should-know-about-your-15-minutes-of-fam-1848794180)
 - [Lifehacker] [Waffle Is the New Wordle](https://lifehacker.com/waffle-is-the-new-wordle-1848793653)
-- [Lifehacker] [How to Hide Your Most Obvious DIY Renovation Mistakes](https://lifehacker.com/how-to-hide-your-most-obvious-diy-renovation-mistakes-1848793305)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
