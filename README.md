@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing your own module bundler](https://dev.to/akshay9677/writing-your-own-module-bundler-125b)
+- [Dev.to/JS] [Lifestyle Keto - Reviews &lpar;Scam Exposed 2022&rpar; Complaints And Results?](https://dev.to/lifestyleketof2/lifestyle-keto-reviews-scam-exposed-2022-complaints-and-results-5d11)
 - [Dev.to/JS] [ACV Keto Gummies Reviews &lpar;Canada 2022&rpar; – Does It Scam Or Fat Burn?](https://dev.to/acvgummiesweb/acv-keto-gummies-reviews-canada-2022-does-it-scam-or-fat-burn-26cd)
 - [Dev.to/JS] [Javascript beautifier online | 2022 | All-time-dev](https://dev.to/alltimedevlopment/javascript-beautifier-online-2022-all-time-dev-2291)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;16-04-2022&rpar; - Git push brain](https://dev.to/mjgs/this-weeks-newsletter-is-out-16-04-2022-git-push-brain-j97)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Stack Data Structure.](https://dev.to/bvnkumar/javascript-stack-data-structure-2b30)
 - [Dev.to/JS] [Create Excel-like javascript spreadsheet in less than 10 lines of code](https://dev.to/zyc9012/create-excel-like-javascript-spreadsheet-in-less-than-10-lines-of-code-4a5o)
 - [Dev.to/JS] [yarn berryで依存パッケージのバージョンを指定する](https://dev.to/yutagoto/yarn-berrydeyi-cun-patukezinobaziyonwozhi-ding-suru-3bph)
-- [Dev.to/JS] [I Design, You Build! - Frontend Challenge #4 &lpar;Supabase version&rpar;](https://dev.to/zernonia/i-design-you-build-frontend-challenge-4-supabase-version-2afm)
-- [Dev.to/JS] [How to use async/await with .map in js](https://dev.to/jordandev/how-to-use-asyncawait-with-map-in-js-2ena)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
