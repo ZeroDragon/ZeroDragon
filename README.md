@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript set data structure](https://dev.to/bvnkumar/javascript-set-data-structure-hfi)
+- [Dev.to/JS] [Day 12: React &amp; Redux](https://dev.to/kemystra/day-12-react-redux-190e)
+- [Dev.to/JS] [XMLHttpRequest - An amazing object for updating a webpage without reloading](https://dev.to/taevas/xmlhttprequest-an-amazing-object-for-updating-a-webpage-without-reloading-58h4)
 - [Dev.to/JS] [React vs Plain JS](https://dev.to/rickdelpo1/react-vs-plain-js-3cpk)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
 - [Dev.to/JS] [Test-Driven-Development with React &amp; Redux: Thunk, Slices &amp; Requests Mocking](https://dev.to/koladev/test-driven-development-with-react-redux-thunk-slices-requests-mocking-585i)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Turning MPA to SPA with Virtual DOM](https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd)
 - [Dev.to/JS] [Analyzing Chrome Extensions Part 1](https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna)
 - [Dev.to/JS] [Build And Design a Click Speed Test Game Using HTMl &amp; CSS](https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo)
-- [Dev.to/JS] [Why should we use Tailwind?](https://dev.to/pramodk73/why-should-we-use-tailwind-1630)
-- [Dev.to/JS] [20+ Console Methods That Will Revolutionize Debugging For You](https://dev.to/nakullukan/20-console-methods-that-will-revolutionize-debugging-for-you-1llk)
-- [Dev.to/JS] [Are JavaScript strings immutable?](https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
