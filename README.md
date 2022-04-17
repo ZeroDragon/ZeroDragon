@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [⭐ React JS - A Guide for Beginners ⭐](https://dev.to/kibetamos/react-js-a-guide-for-beginners-23g9)
+- [Dev.to/JS] [How to downgrade from react 18 to 17.0.2](https://dev.to/masterifeanyi/how-to-downgrade-from-react-18-to-1702-818)
 - [Dev.to/JS] [Cannot read property of Undefined](https://dev.to/smritirgi/cannot-read-property-of-undefined-3bia)
 - [Dev.to/JS] [Module Federation for Enterprise &lpar;Part 2&rpar;](https://dev.to/waldronmatt/module-federation-for-enterprise-part-2-men)
 - [Dev.to/JS] [Leetcode problems with solution in JavaScript.](https://dev.to/iamzeeali/leetcode-problems-with-solution-in-javascript-kof)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Dev.to/JS] [{{CANLI--]]BEŞİKTAŞ GİRESUNSPOR CANLI MAÇ İZLE ŞİFRESİZ MAÇ](https://dev.to/t24tvhd/canli-besiktas-giresunspor-canli-mac-izle-sifresiz-mac-1gkk)
 - [Dev.to/JS] [Password-less Authentication Using Magic Links](https://dev.to/antoniovdlc/password-less-authentication-using-magic-links-72n)
-- [Dev.to/JS] [Why You Should Learn Web Development in 2022](https://dev.to/enirox/why-you-should-learn-web-development-in-2022-33e6)
-- [Dev.to/JS] [Vite Hot Module Replacement - A Complete Example](https://dev.to/omar4ur/vite-hot-module-replacement-a-complete-example-pkg)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
