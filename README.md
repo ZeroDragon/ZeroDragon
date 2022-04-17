@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Full stack monorepo boilerplate](https://dev.to/knowankit/full-stack-monorepo-boilerplate-21b8)
+- [Dev.to/JS] [I made a blazing fast comment system for JamStack sites](https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l)
 - [Dev.to/JS] [HttpInterceptor](https://dev.to/pawankkumawat/httpinterceptor-904)
 - [Dev.to/JS] [Don&#39;t use window.event](https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f)
 - [Dev.to/JS] [Add to cart button | add to cart html css javascript - codewithrandom](https://dev.to/codewithrandom/add-to-cart-button-add-to-cart-html-css-javascript-codewithrandom-20lo)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node.JS: Asynchronous Functions](https://dev.to/samantafluture/nodejs-asynchronous-functions-48n5)
 - [Dev.to/JS] [JavaScript and Dates](https://dev.to/drsimplegraffiti/javascripts-and-dates-45e5)
 - [Dev.to/JS] [JavaScript: When should I use forEach and map?](https://dev.to/samantafluture/javascript-when-should-i-use-foreach-and-map-1aao)
-- [Dev.to/JS] [ReactDOM.render is no longer supported in React 18.](https://dev.to/abhishek_159/reactdomrender-is-no-longer-supported-in-react-18-1kac)
-- [Dev.to/JS] [Multi-Step Form with React &amp; Formik](https://dev.to/sinhapiyush/multi-step-form-with-react-formik-2i52)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
