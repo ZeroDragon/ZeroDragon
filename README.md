@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
+- [Dev.to/JS] [{{CANLI--]]BEŞİKTAŞ GİRESUNSPOR CANLI MAÇ İZLE ŞİFRESİZ MAÇ](https://dev.to/t24tvhd/canli-besiktas-giresunspor-canli-mac-izle-sifresiz-mac-1gkk)
+- [Dev.to/JS] [Password-less Authentication Using Magic Links](https://dev.to/antoniovdlc/password-less-authentication-using-magic-links-72n)
+- [Dev.to/JS] [Why You Should Learn Web Development in 2022](https://dev.to/enirox/why-you-should-learn-web-development-in-2022-33e6)
 - [Dev.to/JS] [Vite Hot Module Replacement - A Complete Example](https://dev.to/omar4ur/vite-hot-module-replacement-a-complete-example-pkg)
 - [Dev.to/JS] [How to find if two strings are isomorphic to each other in Javascript](https://dev.to/ganeshshetty195/how-to-find-if-two-strings-are-isomorphic-to-each-other-in-javascript-1ned)
 - [Dev.to/JS] [Learn Javascript Destructuring using Github Copilot Labs](https://dev.to/drsimplegraffiti/learn-javascript-destructuring-using-github-copilot-labs-2kd6)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [XMLHttpRequest - An amazing object for updating a webpage without reloading](https://dev.to/taevas/xmlhttprequest-an-amazing-object-for-updating-a-webpage-without-reloading-58h4)
 - [Dev.to/JS] [React vs Plain JS](https://dev.to/rickdelpo1/react-vs-plain-js-3cpk)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
-- [Dev.to/JS] [Test-Driven-Development with React &amp; Redux: Thunk, Slices &amp; Requests Mocking](https://dev.to/koladev/test-driven-development-with-react-redux-thunk-slices-requests-mocking-585i)
-- [Dev.to/JS] [How I created website mockup generator app?](https://dev.to/timotej_avsec/how-i-created-website-mockup-generator-app-4o28)
-- [Dev.to/JS] [Animation](https://dev.to/flo20/animation-5gm5)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 - [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
-- [Lifehacker] [5 Games to Play After Elden Ring](https://lifehacker.com/5-games-to-play-after-elden-ring-1848794932)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
