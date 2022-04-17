@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why you should try next.js ?](https://dev.to/code_with_aravind/why-you-should-try-nextjs--52h)
+- [Dev.to/JS] [Javascript ML Libraries](https://dev.to/dhanushnehru/javascript-ml-libraries-dh3)
 - [Dev.to/JS] [Javascript set data structure](https://dev.to/bvnkumar/javascript-set-data-structure-hfi)
 - [Dev.to/JS] [Day 12: React &amp; Redux](https://dev.to/kemystra/day-12-react-redux-190e)
 - [Dev.to/JS] [XMLHttpRequest - An amazing object for updating a webpage without reloading](https://dev.to/taevas/xmlhttprequest-an-amazing-object-for-updating-a-webpage-without-reloading-58h4)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML &amp; CSS course &lpar;John Smilga&rpar;](https://dev.to/maxrpark/html-css-course-john-smilga-37oa)
 - [Dev.to/JS] [How to Detect Pressed key in JavaScript &lpar;Code + Demo&rpar;](https://dev.to/shantanu_jana/how-to-detect-pressed-key-in-javascript-code-demo-acd)
 - [Dev.to/JS] [Turning MPA to SPA with Virtual DOM](https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd)
-- [Dev.to/JS] [Analyzing Chrome Extensions Part 1](https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna)
-- [Dev.to/JS] [Build And Design a Click Speed Test Game Using HTMl &amp; CSS](https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
