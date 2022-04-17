@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Katie&#39;s VSCode Cheatsheet](https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp)
 - [Dev.to/JS] [Introducing Pixel Art for NFTs as WEB3.0 privacy and cost matter](https://dev.to/vipertechofficial/introducing-pixel-art-for-nfts-as-web30-privacy-and-cost-matter-5fd1)
 - [Dev.to/JS] [tsParticles 2.0.6 Released](https://dev.to/matteobruni/tsparticles-206-released-36fn)
 - [Dev.to/JS] [JavaScript Module Formats and Tools](https://dev.to/fkkarakurt/javascript-module-formats-and-tools-3mg9)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Postman API 101 &lpar;Learn the basics of API using Postman&rpar;](https://dev.to/kumarkalyan/postman-api-101-learn-the-basics-of-api-using-postman-1cfk)
 - [Dev.to/JS] [Week two complete...](https://dev.to/taepal467/week-two-complete-5hdf)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
-- [Dev.to/JS] [Spiral Matrix in Javascript](https://dev.to/urstrulyvishwak/spiral-matrix-in-javascript-2hii)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
