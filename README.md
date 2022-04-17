@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React vs Plain JS](https://dev.to/rickdelpo1/react-vs-plain-js-3cpk)
+- [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
+- [Dev.to/JS] [Test-Driven-Development with React &amp; Redux: Thunk, Slices &amp; Requests Mocking](https://dev.to/koladev/test-driven-development-with-react-redux-thunk-slices-requests-mocking-585i)
 - [Dev.to/JS] [Animation](https://dev.to/flo20/animation-5gm5)
 - [Dev.to/JS] [Async &amp; Performance -Asynchrony : Now &amp; Later](https://dev.to/yo08315171/async-performance-asynchrony-now-later-45el)
 - [Dev.to/JS] [HTML &amp; CSS course &lpar;John Smilga&rpar;](https://dev.to/maxrpark/html-css-course-john-smilga-37oa)
 - [Dev.to/JS] [How to Detect Pressed key in JavaScript &lpar;Code + Demo&rpar;](https://dev.to/shantanu_jana/how-to-detect-pressed-key-in-javascript-code-demo-acd)
-- [Dev.to/JS] [Iron Warrior Testo Thrust - Reviews, Benefits, Complaints And Results?](https://dev.to/ironwarriortes1/iron-warrior-testo-thrust-reviews-benefits-complaints-and-results-4h58)
 - [Dev.to/JS] [Turning MPA to SPA with Virtual DOM](https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd)
 - [Dev.to/JS] [Analyzing Chrome Extensions Part 1](https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna)
 - [Dev.to/JS] [Build And Design a Click Speed Test Game Using HTMl &amp; CSS](https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo)
 - [Dev.to/JS] [Why should we use Tailwind?](https://dev.to/pramodk73/why-should-we-use-tailwind-1630)
 - [Dev.to/JS] [20+ Console Methods That Will Revolutionize Debugging For You](https://dev.to/nakullukan/20-console-methods-that-will-revolutionize-debugging-for-you-1llk)
 - [Dev.to/JS] [Are JavaScript strings immutable?](https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3)
-- [Dev.to/JS] [Comprehensive guide to GraphQL clients, part 3](https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
 - [Lifehacker] [5 Games to Play After Elden Ring](https://lifehacker.com/5-games-to-play-after-elden-ring-1848794932)
 - [Lifehacker] [How to Creep on Someone&#39;s Instagram Stories Anonymously](https://lifehacker.com/how-to-creep-on-someones-instagram-stories-anonymously-1848794616)
-- [Lifehacker] [There&#39;s a Whole World of Rabe Beyond Broccoli](https://lifehacker.com/theres-a-whole-world-of-rabe-beyond-broccoli-1848791429)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
