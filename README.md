@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cannot read property of Undefined](https://dev.to/smritirgi/cannot-read-property-of-undefined-3bia)
+- [Dev.to/JS] [Module Federation for Enterprise &lpar;Part 2&rpar;](https://dev.to/waldronmatt/module-federation-for-enterprise-part-2-men)
+- [Dev.to/JS] [Leetcode problems with solution in JavaScript.](https://dev.to/iamzeeali/leetcode-problems-with-solution-in-javascript-kof)
 - [Dev.to/JS] [Updating node to the latest version](https://dev.to/hellennamulinda/updating-node-to-the-latest-version-1mkn)
 - [Dev.to/JS] [Responsive Image Lightbox Design Using HTML, CSS, and Vanilla Javascript](https://dev.to/incoderweb/responsive-image-lightbox-design-using-html-css-and-vanilla-javascript-1mhn)
 - [Dev.to/JS] [Weekly Digest 15/2022](https://dev.to/marcobiedermann/weekly-digest-152022-2j9o)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Password-less Authentication Using Magic Links](https://dev.to/antoniovdlc/password-less-authentication-using-magic-links-72n)
 - [Dev.to/JS] [Why You Should Learn Web Development in 2022](https://dev.to/enirox/why-you-should-learn-web-development-in-2022-33e6)
 - [Dev.to/JS] [Vite Hot Module Replacement - A Complete Example](https://dev.to/omar4ur/vite-hot-module-replacement-a-complete-example-pkg)
-- [Dev.to/JS] [How to find if two strings are isomorphic to each other in Javascript](https://dev.to/ganeshshetty195/how-to-find-if-two-strings-are-isomorphic-to-each-other-in-javascript-1ned)
-- [Dev.to/JS] [Learn Javascript Destructuring using Github Copilot Labs](https://dev.to/drsimplegraffiti/learn-javascript-destructuring-using-github-copilot-labs-2kd6)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
-- [Dev.to/JS] [Why you should try next.js ?](https://dev.to/code_with_aravind/why-you-should-try-nextjs--52h)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
