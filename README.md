@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Analyzing Chrome Extensions Part 1](https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna)
+- [Dev.to/JS] [Build And Design a Click Speed Test Game Using HTMl &amp; CSS](https://dev.to/clickspeed/build-and-design-a-click-speed-test-game-using-html-css-19oo)
 - [Dev.to/JS] [Why should we use Tailwind?](https://dev.to/pramodk73/why-should-we-use-tailwind-1630)
 - [Dev.to/JS] [20+ Console Methods That Will Revolutionize Debugging For You](https://dev.to/nakullukan/20-console-methods-that-will-revolutionize-debugging-for-you-1llk)
 - [Dev.to/JS] [Are JavaScript strings immutable?](https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full stack monorepo boilerplate](https://dev.to/knowankit/full-stack-monorepo-boilerplate-21b8)
 - [Dev.to/JS] [Blazing fast comment system with Sveltejs and Supabase](https://dev.to/mcnaveen/i-made-a-blazing-fast-comment-system-for-jamstack-sites-a8l)
 - [Dev.to/JS] [HttpInterceptor](https://dev.to/pawankkumawat/httpinterceptor-904)
-- [Dev.to/JS] [Don&#39;t use window.event](https://dev.to/ashutoshbw314/dont-use-windowevent-3f2f)
-- [Dev.to/JS] [Add to cart button | add to cart html css javascript - codewithrandom](https://dev.to/codewithrandom/add-to-cart-button-add-to-cart-html-css-javascript-codewithrandom-20lo)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
