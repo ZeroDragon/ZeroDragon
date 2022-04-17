@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Are JavaScript strings immutable?](https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3)
+- [Dev.to/JS] [Comprehensive guide to GraphQL clients, part 3](https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0)
 - [Dev.to/JS] [Javascript 1O1 series : Writing loops with For, While and Do while.](https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3)
 - [Dev.to/JS] [How to create CRUD routes in Nodejs in two lines only.](https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e)
 - [Dev.to/JS] [Why you cannot pass location.reload as an argument](https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add to cart button | add to cart html css javascript - codewithrandom](https://dev.to/codewithrandom/add-to-cart-button-add-to-cart-html-css-javascript-codewithrandom-20lo)
 - [Dev.to/JS] [Katie&#39;s VSCode Cheatsheet](https://dev.to/glitteringkatie/katies-vscode-cheatsheet-lp)
 - [Dev.to/JS] [Introducing Pixel Art for NFTs as WEB3.0 privacy and cost matter](https://dev.to/vipertechofficial/introducing-pixel-art-for-nfts-as-web30-privacy-and-cost-matter-5fd1)
-- [Dev.to/JS] [tsParticles 2.0.6 Released](https://dev.to/matteobruni/tsparticles-206-released-36fn)
-- [Dev.to/JS] [JavaScript Module Formats and Tools](https://dev.to/fkkarakurt/javascript-module-formats-and-tools-3mg9)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
