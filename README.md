@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Tutorial and Projects Course &lpar;John Smilga&rpar;](https://dev.to/maxrpark/javascript-tutorial-and-projects-course-john-smilga-3039)
+- [Dev.to/JS] [HTML &amp; CSS course &lpar;John Smilga&rpar;](https://dev.to/maxrpark/html-css-course-john-smilga-37oa)
+- [Dev.to/JS] [How to Detect Pressed key in JavaScript &lpar;Code + Demo&rpar;](https://dev.to/shantanu_jana/how-to-detect-pressed-key-in-javascript-code-demo-acd)
 - [Dev.to/JS] [Iron Warrior Testo Thrust - Reviews, Benefits, Complaints And Results?](https://dev.to/ironwarriortes1/iron-warrior-testo-thrust-reviews-benefits-complaints-and-results-4h58)
 - [Dev.to/JS] [Turning MPA to SPA with Virtual DOM](https://dev.to/aidenybai/turning-mpa-to-spa-with-virtual-dom-5abd)
 - [Dev.to/JS] [Analyzing Chrome Extensions Part 1](https://dev.to/dirkecker/analyzing-chrome-extensions-part-1-dna)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Are JavaScript strings immutable?](https://dev.to/chalarangelo/are-javascript-strings-immutable-13b3)
 - [Dev.to/JS] [Comprehensive guide to GraphQL clients, part 3](https://dev.to/drago/comprehensive-guide-to-graphql-clients-part-3-12g0)
 - [Dev.to/JS] [Javascript 1O1 series : Writing loops with For, While and Do while.](https://dev.to/osam1010/javascript-1o1-series-writing-loops-with-for-while-and-do-while-1ib3)
-- [Dev.to/JS] [How to create CRUD routes in Nodejs in two lines only.](https://dev.to/frantchessico/how-to-create-crud-routes-in-nodejs-in-two-lines-only-l9e)
-- [Dev.to/JS] [Why you cannot pass location.reload as an argument](https://dev.to/anshsaini/why-you-cannot-pass-locationreload-as-an-argument-26n1)
-- [Dev.to/JS] [Full stack monorepo boilerplate](https://dev.to/knowankit/full-stack-monorepo-boilerplate-21b8)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
