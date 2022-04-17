@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Updating node to the latest version](https://dev.to/hellennamulinda/updating-node-to-the-latest-version-1mkn)
+- [Dev.to/JS] [Responsive Image Lightbox Design Using HTML, CSS, and Vanilla Javascript](https://dev.to/incoderweb/responsive-image-lightbox-design-using-html-css-and-vanilla-javascript-1mhn)
+- [Dev.to/JS] [Weekly Digest 15/2022](https://dev.to/marcobiedermann/weekly-digest-152022-2j9o)
+- [Dev.to/JS] [How to Create a JavaScript SPA Using the MVC Architecture &lpar;Part 2&rpar;](https://dev.to/tarwatuddin/how-to-create-a-javascript-spa-using-the-mvc-architecture-part-2-20gd)
+- [Dev.to/JS] [Configuring eslint and prettier in LunarVim 🌙. Bonus: Tailwindcss 🌊](https://dev.to/datner/configuring-eslint-and-prettier-in-lunarvim-bonus-tailwindcss-2211)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Dev.to/JS] [{{CANLI--]]BEŞİKTAŞ GİRESUNSPOR CANLI MAÇ İZLE ŞİFRESİZ MAÇ](https://dev.to/t24tvhd/canli-besiktas-giresunspor-canli-mac-izle-sifresiz-mac-1gkk)
 - [Dev.to/JS] [Password-less Authentication Using Magic Links](https://dev.to/antoniovdlc/password-less-authentication-using-magic-links-72n)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Javascript Destructuring using Github Copilot Labs](https://dev.to/drsimplegraffiti/learn-javascript-destructuring-using-github-copilot-labs-2kd6)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Dev.to/JS] [Why you should try next.js ?](https://dev.to/code_with_aravind/why-you-should-try-nextjs--52h)
-- [Dev.to/JS] [Javascript ML Libraries](https://dev.to/dhanushnehru/javascript-ml-libraries-dh3)
-- [Dev.to/JS] [Javascript set data structure](https://dev.to/bvnkumar/javascript-set-data-structure-hfi)
-- [Dev.to/JS] [Day 12: React &amp; Redux](https://dev.to/kemystra/day-12-react-redux-190e)
-- [Dev.to/JS] [XMLHttpRequest - An amazing object for updating a webpage without reloading](https://dev.to/taevas/xmlhttprequest-an-amazing-object-for-updating-a-webpage-without-reloading-58h4)
-- [Dev.to/JS] [React vs Plain JS](https://dev.to/rickdelpo1/react-vs-plain-js-3cpk)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
 - [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
