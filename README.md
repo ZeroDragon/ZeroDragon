@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Apple Keto Gummies Reviews - Best Ways To Burn Your Metabolism?](https://dev.to/sharktankcbdget/apple-keto-gummies-reviews-best-ways-to-burn-your-metabolism-7ek)
 - [Dev.to/JS] [From Desktop 3d Apps to Web 3d Apps using Blender and React](https://dev.to/omher/from-desktop-3d-apps-to-web-3d-apps-using-blender-and-react-4m9o)
 - [Dev.to/JS] [How To Handle `Error: EACCES: permission denied`](https://dev.to/psypher1/how-to-handle-error-eacces-permission-denied-43fn)
 - [Dev.to/JS] [Binary Search](https://dev.to/tomkanabay/binary-search-233c)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exposure Notification API Support for Xamarin Apps](https://dev.to/tarungurang/exposure-notification-api-support-for-xamarin-apps-2aie)
 - [Dev.to/JS] [Grouping Anagram in Javascript](https://dev.to/ganeshshetty195/grouping-anagram-using-in-javascript-5cb8)
 - [Dev.to/JS] [Build a Chrome Extension in Next.js and Notion API](https://dev.to/ravgeetdhillon/build-a-chrome-extension-in-nextjs-and-notion-api-ln5)
-- [Dev.to/JS] [Creating a Web Site &lpar;HTML, Tailwind CSS, JS, Parcel js&rpar;](https://dev.to/diarpu/creating-a-web-site-html-tailwind-css-js-parcel-js-29ko)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
