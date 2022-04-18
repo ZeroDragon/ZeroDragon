@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with React Query](https://dev.to/code_with_aravind/getting-started-with-react-query-9lp)
+- [Dev.to/JS] [What are Your Thoughts on &quot;Debugging&quot;?](https://dev.to/domiii/what-are-your-thoughts-on-debugging-40dn)
+- [Dev.to/JS] [Unit Testing ArcGIS API for JavaScript Apps](https://dev.to/odoenet/unit-testing-arcgis-api-for-javascript-apps-4n73)
+- [Dev.to/JS] [Open Source Adventures: Episode 41: Projection Basis Slider for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-41-projection-basis-slider-for-russian-losses-app-3106)
+- [Dev.to/JS] [Implement RabbitMQ on Docker in 20 Minutes](https://dev.to/architectio/implement-rabbitmq-on-docker-in-20-minutes-d5g)
+- [Lifehacker] [You Should Try ‘Zest,’ the Duolingo of Cooking](https://lifehacker.com/you-should-try-zest-the-duolingo-of-cooking-1848806065)
+- [Dev.to/JS] [10 Inteview Mistakes that Make Look Junior ... and Leave Money on the Table](https://dev.to/dragosnedelcu/10-inteview-mistakes-that-make-look-junior-and-leave-money-on-the-table-5e50)
+- [Dev.to/JS] [Setup Mac M1 for React Native development](https://dev.to/leofolive/setup-macbook-m1-for-react-native-development-4ca7)
 - [Dev.to/JS] [Day-68 Training At Ryaz](https://dev.to/mahin651/day-68-training-at-ryaz-40e3)
 - [Lifehacker] [Groceries You Should Never Buy at Walmart](https://lifehacker.com/groceries-you-should-never-buy-at-walmart-1848806652)
 - [Dev.to/JS] [Feature Spotlight: Optional Filters](https://dev.to/algolia/feature-spotlight-optional-filters-42lp)
@@ -30,15 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Install and Update All Your Mac Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-mac-app-1848806252)
 - [Dev.to/JS] [Using scittle to solve wordle](https://dev.to/crinklywrappr/using-scittle-to-solve-wordle-ldb)
 - [Dev.to/JS] [Vue Js 3 + Vite Tutorial 1 &lpar; Installation &rpar;](https://dev.to/mzulfanw/vue-js-3-vite-tutorial-1-installation--499a)
-- [Dev.to/JS] [is there any way to create realistic tree with threejs?](https://dev.to/tanjil72/is-there-any-way-to-create-realistic-tree-with-threejs-4b6m)
-- [Dev.to/JS] [You need a universal logger right now!](https://dev.to/khokon/you-need-a-universal-logger-right-now-4jim)
 - [Lifehacker] [42 Highbrow Films to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
-- [Dev.to/JS] [Open Source Adventures: Episode 39: Loss Percentage Axis for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-39-loss-percentage-axis-for-russian-losses-app-3m02)
-- [Dev.to/JS] [Open Source Adventures: Episode 40: Svelte Stores for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-40-svelte-stores-for-russian-losses-app-5fjm)
-- [Dev.to/JS] [Diga o que a função faz](https://dev.to/alecell/diga-o-que-a-funcao-faz-429g)
 - [Lifehacker] [How to Convert Ebooks to Work With Your Kindle for Free](https://lifehacker.com/how-to-convert-ebooks-to-work-with-your-kindle-for-free-1848805493)
-- [Dev.to/JS] [Your Search Engine On Adrenaline](https://dev.to/lonewolf2002/your-search-engine-on-adrenaline-3j0p)
-- [Dev.to/JS] [Normalize and compress ~10-100x art to create NFTs in JS and maybe store them the smart way](https://dev.to/vipertechofficial/normalize-and-compress-10-100x-art-to-create-nfts-in-js-and-maybe-store-them-the-smart-way-15gh)
 - [Lifehacker] [How to Lower Your Energy Bill by Weatherstripping Your Home](https://lifehacker.com/how-to-lower-your-energy-bill-by-weatherstripping-your-1848804289)
 - [Lifehacker] [The Easiest Ways to Install and Update All Your Windows Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-windows-1848805116)
 - [Lifehacker] [Is It Better to Use Nextdoor or Facebook Marketplace?](https://lifehacker.com/is-it-better-to-use-nextdoor-or-facebook-marketplace-1848799896)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Delete Your Twitter Account When You&#39;ve Had Enough](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)
 - [Lifehacker] [How to Tell If Your GE Refrigerator Was Just Recalled](https://lifehacker.com/how-to-tell-if-your-ge-refrigerator-was-just-recalled-1848798212)
 - [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
-- [Lifehacker] [The Do&#39;s &lpar;and One Big Don&#39;t&rpar; of Dabbing Your Weed](https://lifehacker.com/the-dos-and-one-big-dont-of-dabbing-your-weed-1848798326)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
