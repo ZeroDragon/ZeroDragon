@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with Parcel Js v2](https://dev.to/diarpu/getting-started-with-parcel-js-v2-28h1)
+- [Lifehacker] [Is It Better to Use Nextdoor or Facebook Marketplace?](https://lifehacker.com/is-it-better-to-use-nextdoor-or-facebook-marketplace-1848799896)
+- [Dev.to/JS] [Javascript console Methods: A Cheat Sheet for Developers](https://dev.to/devsmitra/javascript-console-methods-a-cheat-sheet-for-developers-44mc)
+- [Dev.to/JS] [How to Create a Word Counter in JavaScript](https://dev.to/shantanu_jana/how-to-create-a-word-counter-in-javascript-5735)
+- [Dev.to/JS] [Cypress vs WebdriverIO | Which one to pick?](https://dev.to/automationbro/cypress-vs-webdriverio-which-one-to-pick-4adl)
+- [Dev.to/JS] [How To Perform Automation Testing With Cucumber And Nightwatch JS?](https://dev.to/haritalt/how-to-perform-automation-testing-with-cucumber-and-nightwatch-js-44mj)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1o5p)
 - [Dev.to/JS] [How to Create a Custom Hook in React](https://dev.to/anuraggharat/how-to-create-a-custom-hook-in-react-10da)
 - [Dev.to/JS] [How to split a string in JavaScript](https://dev.to/atapas/how-to-split-a-string-in-javascript-47e9)
 - [Dev.to/JS] [How To Set Test Case Priority In TestNG With Selenium](https://dev.to/lambdatest/how-to-set-test-case-priority-in-testng-with-selenium-15o3)
+- [Dev.to/JS] [Top 6 JavaScript ES12 Features You Should Use](https://dev.to/syncfusion/top-6-javascript-es12-features-you-should-use-2bal)
 - [Dev.to/JS] [Javascript 1O1 series : Variables vs Constants, and Let keyword.](https://dev.to/osam1010/javascript-1o1-series-variables-vs-constants-and-let-keyword-m0p)
 - [Dev.to/JS] [Astro JS Tutorial: Quick Start Astro Guide](https://dev.to/askrodney/astro-js-tutorial-quick-start-astro-guide-1hep)
-- [Dev.to/JS] [Apple Keto Gummies Reviews - Best Ways To Burn Your Metabolism?](https://dev.to/sharktankcbdget/apple-keto-gummies-reviews-best-ways-to-burn-your-metabolism-7ek)
-- [Dev.to/JS] [From Desktop 3d Apps to Web 3d Apps using Blender and React](https://dev.to/omher/from-desktop-3d-apps-to-web-3d-apps-using-blender-and-react-4m9o)
-- [Dev.to/JS] [How To Handle `Error: EACCES: permission denied`](https://dev.to/psypher1/how-to-handle-error-eacces-permission-denied-43fn)
-- [Dev.to/JS] [Binary Search](https://dev.to/tomkanabay/binary-search-233c)
-- [Dev.to/JS] [Ng-News: Episode 22/15](https://dev.to/rainerhahnekamp/ng-news-episode-2215-bii)
-- [Dev.to/JS] [Start up Idea: Make robots serve in a restaurant](https://dev.to/lianhussey/start-up-idea-make-robots-serve-in-a-restaurant-ja8)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Ways to Make a Better Grilled Cheese](https://lifehacker.com/9-ways-to-make-a-better-grilled-cheese-1848795225)
 - [Lifehacker] [10 of the Best Gilbert Gottfried Performances of All Time](https://lifehacker.com/10-of-the-best-gilbert-gottfried-performances-of-all-ti-1848792699)
 - [Lifehacker] [Don&#39;t Buy an Apple Watch Series 3 &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/dont-buy-an-apple-watch-series-3-and-what-to-buy-inste-1848794906)
-- [Lifehacker] [Clever Ways to Add Rooms to Your Home Without an Addition](https://lifehacker.com/clever-ways-to-add-rooms-to-your-home-without-an-additi-1848794324)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
