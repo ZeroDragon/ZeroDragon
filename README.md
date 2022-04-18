@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Styling the SelectControl from Formik with Chakra UI](https://dev.to/kristenkinnearohlmann/styling-the-selectcontrol-from-formik-with-chakra-ui-2345)
+- [Dev.to/JS] [Commission Calculator](https://dev.to/tmchuynh/commission-calculator-o33)
 - [Dev.to/JS] [Interactive Cards](https://dev.to/tmchuynh/interactive-cards-3ba0)
 - [Dev.to/JS] [Using Redis Cloud in your NextJS application](https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2)
 - [Dev.to/JS] [Bullet Impact Simulation Using Phaser and Matter](https://dev.to/zaky_abdur/bullet-impact-simulation-using-phaser-and-matter-3a70)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⭐ React JS - A Guide for Beginners ⭐](https://dev.to/kibetamos/react-js-a-guide-for-beginners-23g9)
 - [Dev.to/JS] [How to downgrade from react 18 to 17.0.2](https://dev.to/masterifeanyi/how-to-downgrade-from-react-18-to-1702-818)
 - [Dev.to/JS] [Cannot read property of Undefined](https://dev.to/smritirgi/cannot-read-property-of-undefined-3bia)
-- [Dev.to/JS] [Module Federation for Enterprise &lpar;Part 2&rpar;](https://dev.to/waldronmatt/module-federation-for-enterprise-part-2-men)
-- [Dev.to/JS] [Leetcode problems with solution in JavaScript.](https://dev.to/iamzeeali/leetcode-problems-with-solution-in-javascript-kof)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
