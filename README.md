@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como construir uma aplicação CRUD: o mais simples possível](https://dev.to/hdrxgarcia/como-construir-uma-aplicacao-crud-o-mais-simples-possivel-44ka)
+- [Dev.to/JS] [Open Source Adventures: Episode 42: Projecting Russian Personnel Losses](https://dev.to/taw/open-source-adventures-episode-42-projecting-russian-personnel-losses-1j2b)
+- [Dev.to/JS] [Upload Files to Cloudinary with Node.js in 1 minute](https://dev.to/ivanzm123/upload-files-to-cloudinary-with-nodejs-in-1-minute-3ll)
+- [Dev.to/JS] [How to collect Stripe Payment in react native app](https://dev.to/aneeqakhan/how-to-add-stripe-payment-in-react-native-app-24o8)
+- [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
 - [Lifehacker] [The Easiest Ways to Thicken Up a Runny Sauce](https://lifehacker.com/the-easiest-ways-to-thicken-up-a-runny-sauce-1848807195)
 - [Dev.to/JS] [Middleware in ExpressJS](https://dev.to/bellatrix/middleware-in-expressjs-2pdk)
 - [Dev.to/JS] [I don&#39;t know how to use an attribute of a JSON](https://dev.to/tutinio1313/i-dont-know-how-to-use-an-attribute-of-a-json-231a)
@@ -34,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open Source Adventures: Episode 41: Projection Basis Slider for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-41-projection-basis-slider-for-russian-losses-app-3106)
 - [Dev.to/JS] [Implement RabbitMQ on Docker in 20 Minutes](https://dev.to/architectio/implement-rabbitmq-on-docker-in-20-minutes-d5g)
 - [Lifehacker] [You Should Try ‘Zest,’ the Duolingo of Cooking](https://lifehacker.com/you-should-try-zest-the-duolingo-of-cooking-1848806065)
-- [Dev.to/JS] [10 Inteview Mistakes that Make Look Junior ... and Leave Money on the Table](https://dev.to/dragosnedelcu/10-inteview-mistakes-that-make-look-junior-and-leave-money-on-the-table-5e50)
-- [Dev.to/JS] [Setup Mac M1 for React Native development](https://dev.to/leofolive/setup-macbook-m1-for-react-native-development-4ca7)
-- [Dev.to/JS] [Day-68 Training At Ryaz](https://dev.to/mahin651/day-68-training-at-ryaz-40e3)
 - [Lifehacker] [Groceries You Should Never Buy at Walmart](https://lifehacker.com/groceries-you-should-never-buy-at-walmart-1848806652)
-- [Dev.to/JS] [Feature Spotlight: Optional Filters](https://dev.to/algolia/feature-spotlight-optional-filters-42lp)
 - [Lifehacker] [The Easiest Ways to Install and Update All Your Mac Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-mac-app-1848806252)
 - [Lifehacker] [42 Highbrow Films to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
 - [Lifehacker] [How to Convert Ebooks to Work With Your Kindle for Free](https://lifehacker.com/how-to-convert-ebooks-to-work-with-your-kindle-for-free-1848805493)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848799065)
 - [Lifehacker] [10 Extremely Niche Theme Parks Worth Visiting](https://lifehacker.com/10-extremely-niche-theme-parks-worth-visiting-1848798853)
 - [Lifehacker] [Why You Need to Update Google Chrome As Soon As You Can...Again](https://lifehacker.com/why-you-need-to-update-google-chrome-as-soon-as-you-can-1848798753)
-- [Lifehacker] [How to Delete Your Twitter Account When You&#39;ve Had Enough](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
