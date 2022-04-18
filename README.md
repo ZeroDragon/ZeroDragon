@@ -23,9 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick &amp; Dirty Visual Testing 👁](https://dev.to/konsalex/quick-dirty-visual-testing-53fk)
+- [Dev.to/JS] [CarbonAPI - Track Your Carbon Footprint Using Our UI And API](https://dev.to/thestartupfounder/carbonapi-track-your-carbon-footprint-using-our-ui-and-api-46nd)
+- [Dev.to/JS] [My week so far](https://dev.to/spoder/my-week-so-far-2cp)
+- [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Dev.to/JS] [Como construir uma aplicação CRUD: o mais simples possível](https://dev.to/hdrxgarcia/como-construir-uma-aplicacao-crud-o-mais-simples-possivel-44ka)
 - [Dev.to/JS] [Open Source Adventures: Episode 42: Projecting Russian Personnel Losses](https://dev.to/taw/open-source-adventures-episode-42-projecting-russian-personnel-losses-1j2b)
 - [Dev.to/JS] [Upload Files to Cloudinary with Node.js in 1 minute](https://dev.to/ivanzm123/upload-files-to-cloudinary-with-nodejs-in-1-minute-3ll)
+- [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Dev.to/JS] [How to collect Stripe Payment in react native app](https://dev.to/aneeqakhan/how-to-add-stripe-payment-in-react-native-app-24o8)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
 - [Lifehacker] [The Easiest Ways to Thicken Up a Runny Sauce](https://lifehacker.com/the-easiest-ways-to-thicken-up-a-runny-sauce-1848807195)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [I Guess It&#39;s Time to Talk About Testicle Tanning](https://lifehacker.com/i-guess-its-time-to-talk-about-testicle-tanning-1848807039)
 - [Dev.to/JS] [Getting Started with React Query](https://dev.to/code_with_aravind/getting-started-with-react-query-9lp)
 - [Dev.to/JS] [What are Your Thoughts on &quot;Debugging&quot;?](https://dev.to/domiii/what-are-your-thoughts-on-debugging-40dn)
-- [Dev.to/JS] [Unit Testing ArcGIS API for JavaScript Apps](https://dev.to/odoenet/unit-testing-arcgis-api-for-javascript-apps-4n73)
-- [Dev.to/JS] [Open Source Adventures: Episode 41: Projection Basis Slider for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-41-projection-basis-slider-for-russian-losses-app-3106)
-- [Dev.to/JS] [Implement RabbitMQ on Docker in 20 Minutes](https://dev.to/architectio/implement-rabbitmq-on-docker-in-20-minutes-d5g)
 - [Lifehacker] [You Should Try ‘Zest,’ the Duolingo of Cooking](https://lifehacker.com/you-should-try-zest-the-duolingo-of-cooking-1848806065)
 - [Lifehacker] [Groceries You Should Never Buy at Walmart](https://lifehacker.com/groceries-you-should-never-buy-at-walmart-1848806652)
 - [Lifehacker] [The Easiest Ways to Install and Update All Your Mac Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-mac-app-1848806252)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Useful Terminal Commands Every Mac User Should Know](https://lifehacker.com/the-most-useful-terminal-commands-every-mac-user-should-1848799083)
 - [Lifehacker] [15 Things You Should Never Say to Your Kids](https://lifehacker.com/15-things-you-should-never-say-to-your-kids-1848798130)
 - [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848799065)
-- [Lifehacker] [10 Extremely Niche Theme Parks Worth Visiting](https://lifehacker.com/10-extremely-niche-theme-parks-worth-visiting-1848798853)
-- [Lifehacker] [Why You Need to Update Google Chrome As Soon As You Can...Again](https://lifehacker.com/why-you-need-to-update-google-chrome-as-soon-as-you-can-1848798753)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
