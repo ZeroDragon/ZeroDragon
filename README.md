@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Adventures: Episode 39: Loss Percentage Axis for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-39-loss-percentage-axis-for-russian-losses-app-3m02)
+- [Dev.to/JS] [Open Source Adventures: Episode 40: Svelte Stores for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-40-svelte-stores-for-russian-losses-app-5fjm)
+- [Dev.to/JS] [Diga o que a função faz](https://dev.to/alecell/diga-o-que-a-funcao-faz-429g)
+- [Dev.to/JS] [Your Search Engine On Adrenaline](https://dev.to/lonewolf2002/your-search-engine-on-adrenaline-3j0p)
+- [Dev.to/JS] [Normalize and compress ~10-100x art to create NFTs in JS and maybe store them the smart way](https://dev.to/vipertechofficial/normalize-and-compress-10-100x-art-to-create-nfts-in-js-and-maybe-store-them-the-smart-way-15gh)
+- [Dev.to/JS] [Day 13: Preparing React Practice](https://dev.to/kemystra/day-13-preparing-react-practice-219f)
 - [Lifehacker] [How to Lower Your Energy Bill by Weatherstripping Your Home](https://lifehacker.com/how-to-lower-your-energy-bill-by-weatherstripping-your-1848804289)
 - [Dev.to/JS] [Introducing Real World Testing with Cypress](https://dev.to/howtocode_io/introducing-real-world-testing-with-cypress-1kc1)
 - [Dev.to/JS] [Send emails from your website to your users. It can&#39;t get any easier!](https://dev.to/iamshour/send-emails-from-your-website-to-your-users-it-cant-get-any-easier-p62)
@@ -32,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [001 NextUI Spacer](https://dev.to/liliang8858/001-nextui-spacer-4dm8)
 - [Dev.to/JS] [Getting started with Parcel Js v2](https://dev.to/diarpu/getting-started-with-parcel-js-v2-28h1)
 - [Lifehacker] [Is It Better to Use Nextdoor or Facebook Marketplace?](https://lifehacker.com/is-it-better-to-use-nextdoor-or-facebook-marketplace-1848799896)
-- [Dev.to/JS] [Javascript console Methods: A Cheat Sheet for Developers](https://dev.to/devsmitra/javascript-console-methods-a-cheat-sheet-for-developers-44mc)
-- [Dev.to/JS] [How to Create a Word Counter in JavaScript](https://dev.to/shantanu_jana/how-to-create-a-word-counter-in-javascript-5735)
-- [Dev.to/JS] [Cypress vs WebdriverIO | Which one to pick?](https://dev.to/automationbro/cypress-vs-webdriverio-which-one-to-pick-4adl)
-- [Dev.to/JS] [How To Perform Automation Testing With Cucumber And Nightwatch JS?](https://dev.to/haritalt/how-to-perform-automation-testing-with-cucumber-and-nightwatch-js-44mj)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1o5p)
-- [Dev.to/JS] [How to Create a Custom Hook in React](https://dev.to/anuraggharat/how-to-create-a-custom-hook-in-react-10da)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
