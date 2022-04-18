@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [is there any way to create realistic tree with threejs?](https://dev.to/tanjil72/is-there-any-way-to-create-realistic-tree-with-threejs-4b6m)
+- [Dev.to/JS] [You need a universal logger right now!](https://dev.to/khokon/you-need-a-universal-logger-right-now-4jim)
+- [Lifehacker] [42 Highbrow Films to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
 - [Dev.to/JS] [Open Source Adventures: Episode 39: Loss Percentage Axis for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-39-loss-percentage-axis-for-russian-losses-app-3m02)
 - [Dev.to/JS] [Open Source Adventures: Episode 40: Svelte Stores for Russian Losses App](https://dev.to/taw/open-source-adventures-episode-40-svelte-stores-for-russian-losses-app-5fjm)
 - [Dev.to/JS] [Diga o que a função faz](https://dev.to/alecell/diga-o-que-a-funcao-faz-429g)
+- [Lifehacker] [How to Convert Ebooks to Work With Your Kindle for Free](https://lifehacker.com/how-to-convert-ebooks-to-work-with-your-kindle-for-free-1848805493)
 - [Dev.to/JS] [Your Search Engine On Adrenaline](https://dev.to/lonewolf2002/your-search-engine-on-adrenaline-3j0p)
 - [Dev.to/JS] [Normalize and compress ~10-100x art to create NFTs in JS and maybe store them the smart way](https://dev.to/vipertechofficial/normalize-and-compress-10-100x-art-to-create-nfts-in-js-and-maybe-store-them-the-smart-way-15gh)
 - [Dev.to/JS] [Day 13: Preparing React Practice](https://dev.to/kemystra/day-13-preparing-react-practice-219f)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #102: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-102-explica-este-codigo-javascript-11f8)
 - [Lifehacker] [The Easiest Ways to Install and Update All Your Windows Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-windows-1848805116)
 - [Dev.to/JS] [002 NextUI Avatar](https://dev.to/liliang8858/001-nextui-avatar-515m)
-- [Dev.to/JS] [001 NextUI Spacer](https://dev.to/liliang8858/001-nextui-spacer-4dm8)
-- [Dev.to/JS] [Getting started with Parcel Js v2](https://dev.to/diarpu/getting-started-with-parcel-js-v2-28h1)
 - [Lifehacker] [Is It Better to Use Nextdoor or Facebook Marketplace?](https://lifehacker.com/is-it-better-to-use-nextdoor-or-facebook-marketplace-1848799896)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Do&#39;s &lpar;and One Big Don&#39;t&rpar; of Dabbing Your Weed](https://lifehacker.com/the-dos-and-one-big-dont-of-dabbing-your-weed-1848798326)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who Is Courtney Clenney?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-co-1848797474)
 - [Lifehacker] [How to Write Alt Text on Twitter That Doesn&#39;t Suck](https://lifehacker.com/how-to-write-alt-text-on-twitter-that-doesnt-suck-1848795663)
-- [Lifehacker] [The Strange &lpar;but True&rpar; History of Easter](https://lifehacker.com/the-strange-but-true-history-of-easter-1848796462)
-- [Lifehacker] [9 Ways to Make a Better Grilled Cheese](https://lifehacker.com/9-ways-to-make-a-better-grilled-cheese-1848795225)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
