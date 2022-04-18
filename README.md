@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a React app without using create-react-app | a step by step guide](https://dev.to/yvad60/how-to-create-a-react-app-without-using-create-react-app-a-step-by-step-guide-30nl)
+- [Dev.to/JS] [Simple Nodejs MC Pattern](https://dev.to/kamruzzaman/simple-nodejs-mc-pattern-332d)
+- [Dev.to/JS] [What are Micro-Frontends? Really...](https://dev.to/infoxicator/what-are-micro-frontends-really-2j2a)
 - [Dev.to/JS] [Quick &amp; Dirty Visual Testing 👁](https://dev.to/konsalex/quick-dirty-visual-testing-53fk)
 - [Dev.to/JS] [CarbonAPI - Track Your Carbon Footprint Using Our UI And API](https://dev.to/thestartupfounder/carbonapi-track-your-carbon-footprint-using-our-ui-and-api-46nd)
 - [Dev.to/JS] [My week so far](https://dev.to/spoder/my-week-so-far-2cp)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Thicken Up a Runny Sauce](https://lifehacker.com/the-easiest-ways-to-thicken-up-a-runny-sauce-1848807195)
 - [Dev.to/JS] [Middleware in ExpressJS](https://dev.to/bellatrix/middleware-in-expressjs-2pdk)
 - [Dev.to/JS] [I don&#39;t know how to use an attribute of a JSON](https://dev.to/tutinio1313/i-dont-know-how-to-use-an-attribute-of-a-json-231a)
-- [Dev.to/JS] [React js finding item id in the api data.](https://dev.to/ashumishra485/react-js-finding-item-id-in-the-api-data-4j8m)
 - [Lifehacker] [I Guess It&#39;s Time to Talk About Testicle Tanning](https://lifehacker.com/i-guess-its-time-to-talk-about-testicle-tanning-1848807039)
-- [Dev.to/JS] [Getting Started with React Query](https://dev.to/code_with_aravind/getting-started-with-react-query-9lp)
-- [Dev.to/JS] [What are Your Thoughts on &quot;Debugging&quot;?](https://dev.to/domiii/what-are-your-thoughts-on-debugging-40dn)
 - [Lifehacker] [You Should Try ‘Zest,’ the Duolingo of Cooking](https://lifehacker.com/you-should-try-zest-the-duolingo-of-cooking-1848806065)
 - [Lifehacker] [Groceries You Should Never Buy at Walmart](https://lifehacker.com/groceries-you-should-never-buy-at-walmart-1848806652)
 - [Lifehacker] [The Easiest Ways to Install and Update All Your Mac Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-mac-app-1848806252)
