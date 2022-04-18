@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interactive Cards](https://dev.to/tmchuynh/interactive-cards-3ba0)
+- [Dev.to/JS] [Using Redis Cloud in your NextJS application](https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2)
+- [Dev.to/JS] [Bullet Impact Simulation Using Phaser and Matter](https://dev.to/zaky_abdur/bullet-impact-simulation-using-phaser-and-matter-3a70)
 - [Dev.to/JS] [OCAPI-Proxy v2.1.4](https://dev.to/johnfacey/ocapi-proxy-v214-5e2j)
 - [Dev.to/JS] [Understanding JavaScript Data Types &lpar;Through the Lens of D&amp;D &amp; Other TTRPGs&rpar;](https://dev.to/bethanyjones/understanding-javascript-data-types-through-the-lens-of-dd-other-ttrpgs-399h)
 - [Dev.to/JS] [JavaScript DeobFuscator](https://dev.to/medsaid2001/javascript-deobfuscator-23nm)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cannot read property of Undefined](https://dev.to/smritirgi/cannot-read-property-of-undefined-3bia)
 - [Dev.to/JS] [Module Federation for Enterprise &lpar;Part 2&rpar;](https://dev.to/waldronmatt/module-federation-for-enterprise-part-2-men)
 - [Dev.to/JS] [Leetcode problems with solution in JavaScript.](https://dev.to/iamzeeali/leetcode-problems-with-solution-in-javascript-kof)
-- [Dev.to/JS] [Updating node to the latest version](https://dev.to/hellennamulinda/updating-node-to-the-latest-version-1mkn)
-- [Dev.to/JS] [Responsive Image Lightbox Design Using HTML, CSS, and Vanilla Javascript](https://dev.to/incoderweb/responsive-image-lightbox-design-using-html-css-and-vanilla-javascript-1mhn)
-- [Dev.to/JS] [Weekly Digest 15/2022](https://dev.to/marcobiedermann/weekly-digest-152022-2j9o)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
