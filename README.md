@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom Right Click Context Menu in JavaScript](https://dev.to/shantanu_jana/custom-right-click-context-menu-in-javascript-4112)
 - [Dev.to/JS] [Styling the SelectControl from Formik with Chakra UI](https://dev.to/kristenkinnearohlmann/styling-the-selectcontrol-from-formik-with-chakra-ui-2345)
 - [Dev.to/JS] [Commission Calculator](https://dev.to/tmchuynh/commission-calculator-o33)
 - [Dev.to/JS] [Interactive Cards](https://dev.to/tmchuynh/interactive-cards-3ba0)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Practical Javascript array methods](https://dev.to/drsimplegraffiti/practical-javascript-array-methods-4nnk)
 - [Dev.to/JS] [⭐ React JS - A Guide for Beginners ⭐](https://dev.to/kibetamos/react-js-a-guide-for-beginners-23g9)
 - [Dev.to/JS] [How to downgrade from react 18 to 17.0.2](https://dev.to/masterifeanyi/how-to-downgrade-from-react-18-to-1702-818)
-- [Dev.to/JS] [Cannot read property of Undefined](https://dev.to/smritirgi/cannot-read-property-of-undefined-3bia)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
