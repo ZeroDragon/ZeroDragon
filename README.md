@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🍀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1o5p)
+- [Dev.to/JS] [How to Create a Custom Hook in React](https://dev.to/anuraggharat/how-to-create-a-custom-hook-in-react-10da)
+- [Dev.to/JS] [How to split a string in JavaScript](https://dev.to/atapas/how-to-split-a-string-in-javascript-47e9)
+- [Dev.to/JS] [How To Set Test Case Priority In TestNG With Selenium](https://dev.to/lambdatest/how-to-set-test-case-priority-in-testng-with-selenium-15o3)
 - [Dev.to/JS] [Javascript 1O1 series : Variables vs Constants, and Let keyword.](https://dev.to/osam1010/javascript-1o1-series-variables-vs-constants-and-let-keyword-m0p)
 - [Dev.to/JS] [Astro JS Tutorial: Quick Start Astro Guide](https://dev.to/askrodney/astro-js-tutorial-quick-start-astro-guide-1hep)
 - [Dev.to/JS] [Apple Keto Gummies Reviews - Best Ways To Burn Your Metabolism?](https://dev.to/sharktankcbdget/apple-keto-gummies-reviews-best-ways-to-burn-your-metabolism-7ek)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Binary Search](https://dev.to/tomkanabay/binary-search-233c)
 - [Dev.to/JS] [Ng-News: Episode 22/15](https://dev.to/rainerhahnekamp/ng-news-episode-2215-bii)
 - [Dev.to/JS] [Start up Idea: Make robots serve in a restaurant](https://dev.to/lianhussey/start-up-idea-make-robots-serve-in-a-restaurant-ja8)
-- [Dev.to/JS] [Next.js for beginners](https://dev.to/anshuman_bhardwaj/nextjs-explained-for-beginners-c2g)
-- [Dev.to/JS] [Ikaria Lean Belly Juice - Fat Loss Reviews, Benefits, Complaints And Warnings?](https://dev.to/ikarialeanfact/ikaria-lean-belly-juice-fat-loss-reviews-benefits-complaints-and-warnings-3g76)
-- [Dev.to/JS] [Adding Gray Scale Filter in React- Pigshell](https://dev.to/thevinitgupta/adding-gray-scale-filter-pigshell-fhk)
-- [Dev.to/JS] [Exposure Notification API Support for Xamarin Apps](https://dev.to/tarungurang/exposure-notification-api-support-for-xamarin-apps-2aie)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
