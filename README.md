@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Chrome Extension in Next.js and Notion API](https://dev.to/ravgeetdhillon/build-a-chrome-extension-in-nextjs-and-notion-api-ln5)
+- [Dev.to/JS] [Creating a Web Site &lpar;HTML, Tailwind CSS, JS, Parcel js&rpar;](https://dev.to/diarpu/creating-a-web-site-html-tailwind-css-js-parcel-js-29ko)
+- [Dev.to/JS] [Happy wheels - interesting and attractive game](https://dev.to/annatay04963534/happy-wheels-interesting-and-attractive-game-104k)
 - [Dev.to/JS] [Qué son Discriminated Unions y Exhaustiveness Checking en TypeScript?](https://dev.to/gbumanzordev/que-son-discriminated-unions-y-exhaustiveness-checking-en-typescript-34d9)
 - [Dev.to/JS] [How to sort your package.json dependencies](https://dev.to/cbillowes/how-to-sort-your-packagejson-dependencies-1gi1)
 - [Dev.to/JS] [Custom Right Click Context Menu in JavaScript](https://dev.to/shantanu_jana/custom-right-click-context-menu-in-javascript-4112)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Redis Cloud in your NextJS application](https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2)
 - [Dev.to/JS] [Bullet Impact Simulation Using Phaser and Matter](https://dev.to/zaky_abdur/bullet-impact-simulation-using-phaser-and-matter-3a70)
 - [Dev.to/JS] [OCAPI-Proxy v2.1.4](https://dev.to/johnfacey/ocapi-proxy-v214-5e2j)
-- [Dev.to/JS] [Understanding JavaScript Data Types &lpar;Through the Lens of D&amp;D &amp; Other TTRPGs&rpar;](https://dev.to/bethanyjones/understanding-javascript-data-types-through-the-lens-of-dd-other-ttrpgs-399h)
-- [Dev.to/JS] [JavaScript DeobFuscator](https://dev.to/medsaid2001/javascript-deobfuscator-23nm)
-- [Dev.to/JS] [Practical Javascript array methods](https://dev.to/drsimplegraffiti/practical-javascript-array-methods-4nnk)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
