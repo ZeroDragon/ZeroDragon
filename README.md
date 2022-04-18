@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Ways to Thicken Up a Runny Sauce](https://lifehacker.com/the-easiest-ways-to-thicken-up-a-runny-sauce-1848807195)
+- [Dev.to/JS] [Middleware in ExpressJS](https://dev.to/bellatrix/middleware-in-expressjs-2pdk)
+- [Dev.to/JS] [I don&#39;t know how to use an attribute of a JSON](https://dev.to/tutinio1313/i-dont-know-how-to-use-an-attribute-of-a-json-231a)
+- [Dev.to/JS] [React js finding item id in the api data.](https://dev.to/ashumishra485/react-js-finding-item-id-in-the-api-data-4j8m)
+- [Lifehacker] [I Guess It&#39;s Time to Talk About Testicle Tanning](https://lifehacker.com/i-guess-its-time-to-talk-about-testicle-tanning-1848807039)
 - [Dev.to/JS] [Getting Started with React Query](https://dev.to/code_with_aravind/getting-started-with-react-query-9lp)
 - [Dev.to/JS] [What are Your Thoughts on &quot;Debugging&quot;?](https://dev.to/domiii/what-are-your-thoughts-on-debugging-40dn)
 - [Dev.to/JS] [Unit Testing ArcGIS API for JavaScript Apps](https://dev.to/odoenet/unit-testing-arcgis-api-for-javascript-apps-4n73)
@@ -34,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day-68 Training At Ryaz](https://dev.to/mahin651/day-68-training-at-ryaz-40e3)
 - [Lifehacker] [Groceries You Should Never Buy at Walmart](https://lifehacker.com/groceries-you-should-never-buy-at-walmart-1848806652)
 - [Dev.to/JS] [Feature Spotlight: Optional Filters](https://dev.to/algolia/feature-spotlight-optional-filters-42lp)
-- [Dev.to/JS] [React JS - Stateful vs Presentational Components](https://dev.to/mertcannkocerr/react-js-stateful-vs-presentational-components-5f10)
 - [Lifehacker] [The Easiest Ways to Install and Update All Your Mac Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-mac-app-1848806252)
-- [Dev.to/JS] [Using scittle to solve wordle](https://dev.to/crinklywrappr/using-scittle-to-solve-wordle-ldb)
-- [Dev.to/JS] [Vue Js 3 + Vite Tutorial 1 &lpar; Installation &rpar;](https://dev.to/mzulfanw/vue-js-3-vite-tutorial-1-installation--499a)
 - [Lifehacker] [42 Highbrow Films to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
 - [Lifehacker] [How to Convert Ebooks to Work With Your Kindle for Free](https://lifehacker.com/how-to-convert-ebooks-to-work-with-your-kindle-for-free-1848805493)
 - [Lifehacker] [How to Lower Your Energy Bill by Weatherstripping Your Home](https://lifehacker.com/how-to-lower-your-energy-bill-by-weatherstripping-your-1848804289)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Extremely Niche Theme Parks Worth Visiting](https://lifehacker.com/10-extremely-niche-theme-parks-worth-visiting-1848798853)
 - [Lifehacker] [Why You Need to Update Google Chrome As Soon As You Can...Again](https://lifehacker.com/why-you-need-to-update-google-chrome-as-soon-as-you-can-1848798753)
 - [Lifehacker] [How to Delete Your Twitter Account When You&#39;ve Had Enough](https://lifehacker.com/how-to-delete-your-twitter-account-when-youve-had-enoug-1848798491)
-- [Lifehacker] [How to Tell If Your GE Refrigerator Was Just Recalled](https://lifehacker.com/how-to-tell-if-your-ge-refrigerator-was-just-recalled-1848798212)
-- [Lifehacker] [What&#39;s New on HBO Max in April 2022](https://lifehacker.com/whats-new-on-hbo-max-in-april-2022-1848699493)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
