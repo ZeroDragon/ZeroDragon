@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exposure Notification API Support for Xamarin Apps](https://dev.to/tarungurang/exposure-notification-api-support-for-xamarin-apps-2aie)
+- [Dev.to/JS] [Grouping Anagram using in Javascript](https://dev.to/ganeshshetty195/grouping-anagram-using-in-javascript-5cb8)
 - [Dev.to/JS] [Build a Chrome Extension in Next.js and Notion API](https://dev.to/ravgeetdhillon/build-a-chrome-extension-in-nextjs-and-notion-api-ln5)
 - [Dev.to/JS] [Creating a Web Site &lpar;HTML, Tailwind CSS, JS, Parcel js&rpar;](https://dev.to/diarpu/creating-a-web-site-html-tailwind-css-js-parcel-js-29ko)
 - [Dev.to/JS] [Happy wheels - interesting and attractive game](https://dev.to/annatay04963534/happy-wheels-interesting-and-attractive-game-104k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Commission Calculator](https://dev.to/tmchuynh/commission-calculator-o33)
 - [Dev.to/JS] [Interactive Cards](https://dev.to/tmchuynh/interactive-cards-3ba0)
 - [Dev.to/JS] [Using Redis Cloud in your NextJS application](https://dev.to/rainforss/using-redis-cloud-in-your-nextjs-application-39f2)
-- [Dev.to/JS] [Bullet Impact Simulation Using Phaser and Matter](https://dev.to/zaky_abdur/bullet-impact-simulation-using-phaser-and-matter-3a70)
-- [Dev.to/JS] [OCAPI-Proxy v2.1.4](https://dev.to/johnfacey/ocapi-proxy-v214-5e2j)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
