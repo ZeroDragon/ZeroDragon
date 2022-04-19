@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 14: Random Quote Machine](https://dev.to/kemystra/day-14-random-quote-machine-4lk1)
+- [Dev.to/JS] [Introducing the third edition of D3.js in Action](https://dev.to/annemariedufour/introducing-the-third-edition-of-d3js-in-action-4npn)
+- [Dev.to/JS] [Malala yousafzai story website](https://dev.to/baraa_baba/malala-yousafzai-story-website-kom)
+- [Dev.to/JS] [Simpler Requests with Reqwester](https://dev.to/stringent/simpler-requests-with-reqwester-4gkk)
+- [Lifehacker] [How &lpar;and Why&rpar; to Exercise When You&#39;re High, According to Reddit](https://lifehacker.com/how-and-why-to-exercise-when-youre-high-according-to-1848792983)
+- [Dev.to/JS] [I need help I having problem passing data to a child component](https://dev.to/joseph_muvevi/i-need-help-i-having-problem-passing-data-to-a-child-component-4o5a)
 - [Lifehacker] [14 of the Best &lpar;and Worst&rpar; Ways to Legally Get High](https://lifehacker.com/14-of-the-best-and-worst-ways-to-legally-get-high-1848808333)
 - [Dev.to/JS] [Perfect React App](https://dev.to/zytha/perfect-react-app-2cni)
 - [Dev.to/JS] [Smart Mapping Tools in ArcGIS API for JavaScript](https://dev.to/odoenet/smart-mapping-tools-in-arcgis-api-for-javascript-2d26)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using a different geocode service for different countries](https://dev.to/superface/using-a-different-geocode-service-for-different-countries-2j07)
 - [Dev.to/JS] [JavaScript Array Key as Object Type](https://dev.to/mykyta0723/javascript-array-key-as-object-type-1p3)
 - [Dev.to/JS] [Integrate geocoding the right way](https://dev.to/superface/integrate-geocoding-the-right-way-4e7l)
-- [Dev.to/JS] [Routing: I’m not smart enough for a SPA](https://dev.to/tigt/routing-im-not-smart-enough-for-a-spa-5hki)
-- [Dev.to/JS] [Using Page Object Model &lpar;POM&rpar; Pattern In Selenium JavaScript](https://dev.to/haritalt/using-page-object-model-pom-pattern-in-selenium-javascript-2ccf)
-- [Dev.to/JS] [Regular Expression Example](https://dev.to/hambalee/regular-expression-example-4pp3)
-- [Dev.to/JS] [Vue 3, Quasar Framework and Supabase Course](https://dev.to/patrickmonteiro/vue-3-quasar-framework-and-supabase-course-3839)
-- [Dev.to/JS] [How to Integrate SendGrid in Your Open Source Ecommerce](https://dev.to/medusajs/how-to-integrate-sendgrid-in-your-open-source-ecommerce-1e4d)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
 - [Lifehacker] [The Most Useful Terminal Commands Every Mac User Should Know](https://lifehacker.com/the-most-useful-terminal-commands-every-mac-user-should-1848799083)
-- [Lifehacker] [15 Things You Should Never Say to Your Kids](https://lifehacker.com/15-things-you-should-never-say-to-your-kids-1848798130)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
