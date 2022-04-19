@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making Web Components reactive](https://dev.to/horus_kol/making-web-components-reactive-hbo)
+- [Dev.to/JS] [How Jotai Specifies Package Entry Points](https://dev.to/dai_shi/how-jotai-specifies-package-entry-points-2h7n)
+- [Dev.to/JS] [Retrieve Trivia Questions With easy-trivia](https://dev.to/elitezen/retrieve-trivia-questions-with-easy-trivia-4nog)
 - [Dev.to/JS] [Context In React](https://dev.to/georgeoffley/context-in-react-4fda)
 - [Dev.to/JS] [React JS Isn’t Actually A Web Framework But Why Are There So Many Others?](https://dev.to/cassaden/react-js-isnt-actually-a-web-framework-but-why-are-there-so-many-others-27fd)
 - [Dev.to/JS] [React State Management Using Easy Peasy](https://dev.to/asayerio_techblog/react-state-management-using-easy-peasy-2j36)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CarbonAPI - Track Your Carbon Footprint Using Our UI And API](https://dev.to/thestartupfounder/carbonapi-track-your-carbon-footprint-using-our-ui-and-api-46nd)
 - [Dev.to/JS] [My week so far](https://dev.to/spoder/my-week-so-far-2cp)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
-- [Dev.to/JS] [Como construir uma aplicação CRUD: o mais simples possível](https://dev.to/hdrxgarcia/como-construir-uma-aplicacao-crud-o-mais-simples-possivel-44ka)
-- [Dev.to/JS] [Open Source Adventures: Episode 42: Projecting Russian Personnel Losses](https://dev.to/taw/open-source-adventures-episode-42-projecting-russian-personnel-losses-1j2b)
-- [Dev.to/JS] [Upload Files to Cloudinary with Node.js in 1 minute](https://dev.to/ivanzm123/upload-files-to-cloudinary-with-nodejs-in-1-minute-3ll)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
 - [Lifehacker] [The Easiest Ways to Thicken Up a Runny Sauce](https://lifehacker.com/the-easiest-ways-to-thicken-up-a-runny-sauce-1848807195)
