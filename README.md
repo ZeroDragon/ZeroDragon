@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [14 of the Best &lpar;and Worst&rpar; Ways to Legally Get High](https://lifehacker.com/14-of-the-best-and-worst-ways-to-legally-get-high-1848808333)
+- [Dev.to/JS] [Perfect React App](https://dev.to/zytha/perfect-react-app-2cni)
+- [Dev.to/JS] [Smart Mapping Tools in ArcGIS API for JavaScript](https://dev.to/odoenet/smart-mapping-tools-in-arcgis-api-for-javascript-2d26)
+- [Dev.to/JS] [Principles of Object-oriented Programming in TypeScript](https://dev.to/appsignal/principles-of-object-oriented-programming-in-typescript-5ep4)
+- [Dev.to/JS] [بهترین شرکت طراحی سایت](https://dev.to/majid_saadat_2efbb79dbcfa/bhtryn-shrkht-trhy-syt-3hlh)
+- [Dev.to/JS] [Using a different geocode service for different countries](https://dev.to/superface/using-a-different-geocode-service-for-different-countries-2j07)
 - [Dev.to/JS] [JavaScript Array Key as Object Type](https://dev.to/mykyta0723/javascript-array-key-as-object-type-1p3)
 - [Dev.to/JS] [Integrate geocoding the right way](https://dev.to/superface/integrate-geocoding-the-right-way-4e7l)
 - [Dev.to/JS] [Routing: I’m not smart enough for a SPA](https://dev.to/tigt/routing-im-not-smart-enough-for-a-spa-5hki)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Regular Expression Example](https://dev.to/hambalee/regular-expression-example-4pp3)
 - [Dev.to/JS] [Vue 3, Quasar Framework and Supabase Course](https://dev.to/patrickmonteiro/vue-3-quasar-framework-and-supabase-course-3839)
 - [Dev.to/JS] [How to Integrate SendGrid in Your Open Source Ecommerce](https://dev.to/medusajs/how-to-integrate-sendgrid-in-your-open-source-ecommerce-1e4d)
-- [Dev.to/JS] [I made an app to track your life, with emoji!](https://dev.to/virejdasani/i-made-an-app-to-track-your-life-with-emoji-2c61)
-- [Dev.to/JS] [An Overview of Redux and its Middleware for React Applications](https://dev.to/ganeshshetty195/an-overview-of-redux-and-its-middleware-for-react-applications-39e7)
-- [Dev.to/JS] [Why to use keys in list in React?](https://dev.to/nithyanandam/why-to-use-keys-in-list-in-react-2m6f)
-- [Dev.to/JS] [How to Create a Custom API Endpoint in Strapi?](https://dev.to/strapi/how-to-create-a-custom-api-endpoint-in-strapi-2pa4)
-- [Dev.to/JS] [Some concept in javascript .](https://dev.to/kaustavkarmakar2/some-concept-in-javascript--3ikc)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
 - [Lifehacker] [The Most Useful Terminal Commands Every Mac User Should Know](https://lifehacker.com/the-most-useful-terminal-commands-every-mac-user-should-1848799083)
 - [Lifehacker] [15 Things You Should Never Say to Your Kids](https://lifehacker.com/15-things-you-should-never-say-to-your-kids-1848798130)
-- [Lifehacker] [How to Meet Your Next Romantic Partner in Real Life](https://lifehacker.com/how-to-meet-your-next-romantic-partner-in-real-life-1848799065)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
