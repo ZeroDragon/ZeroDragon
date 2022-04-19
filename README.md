@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a File directory display component using React](https://dev.to/vigneshiyergithub/building-a-file-directory-display-component-using-react-2ong)
+- [Lifehacker] [What You Should Know About Mask Mandates on Public Transportation](https://lifehacker.com/what-you-should-know-about-mask-mandates-on-public-tran-1848812526)
+- [Dev.to/JS] [How to use &#39;useMutation&#39; in React Query](https://dev.to/code_with_aravind/how-to-use-usemutation-in-react-query-5gdo)
+- [Dev.to/JS] [Mongoose Query Pattern](https://dev.to/kamruzzaman/mongoose-query-pattern-2p21)
 - [Lifehacker] [How to Block Ads on Spotify](https://lifehacker.com/how-to-block-ads-on-spotify-1848811961)
 - [Lifehacker] [What Your Date’s FEC Filings Can Tell You](https://lifehacker.com/what-your-date-s-fec-filings-can-tell-you-1848811627)
 - [Dev.to/JS] [Day-69 Training At Ryaz](https://dev.to/mahin651/day-69-training-at-ryaz-14d)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Cable TV Resolution Looks Like Crap &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/why-your-cable-tv-resolution-looks-like-shit-and-what-1848811768)
 - [Dev.to/JS] [Amplication &amp; React: Frontend Authentication](https://dev.to/amplication/amplication-react-frontend-authentication-3fkm)
 - [Dev.to/JS] [Hathora: Multiplayer Made Easy](https://dev.to/hathora/hathora-multiplayer-made-easy-36cl)
-- [Dev.to/JS] [React 18 Whats New](https://dev.to/andrewbaisden/react-18-whats-new-2b1f)
-- [Dev.to/JS] [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Simple Array Sum](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-simple-array-sum-4g7p)
 - [Lifehacker] [When Buying in Bulk Is Actually a Waste of Money](https://lifehacker.com/when-buying-in-bulk-is-actually-a-waste-of-money-1848811738)
 - [Lifehacker] [What Are &#39;Terpenes&#39; in Weed &lpar;and Why Do They Matter&rpar;?](https://lifehacker.com/what-are-terpenes-in-weed-and-why-do-they-matter-1848811695)
 - [Lifehacker] [Here&#39;s How Much House You Can Buy for $350K](https://lifehacker.com/heres-how-much-house-you-can-buy-for-350k-1848808926)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is It Better to Use Nextdoor or Facebook Marketplace?](https://lifehacker.com/is-it-better-to-use-nextdoor-or-facebook-marketplace-1848799896)
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
-- [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
