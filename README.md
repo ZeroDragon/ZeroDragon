@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Alternative to parseInt&lpar;&rpar; - input.valueAsNumber](https://dev.to/aretecore/alternative-to-parseint-inputvalueasnumber-12l)
+- [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Dev.to/JS] [The path to become a web developer](https://dev.to/dimitarstbc/the-path-to-become-a-web-developer-2jj7)
 - [Dev.to/JS] [React - Primeiros passos](https://dev.to/carvalhodanielg/react-2db4)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [map&lpar;&rpar;, filter&lpar;&rpar;, forEach&lpar;&rpar; array methods in Javascript](https://dev.to/nameismani/array-methods-map-filter-foreach-in-javascript-3m08)
 - [Dev.to/JS] [useReducer Hook](https://dev.to/daniloraisi/usereducer-hook-1fpc)
 - [Lifehacker] [Why You Should Stop Growing Tomatoes and Give Peas a Chance](https://lifehacker.com/why-you-should-stop-growing-tomatoes-and-give-peas-a-ch-1848807761)
-- [Dev.to/JS] [Node.js 18: fetch API, Test Runner module, and more](https://dev.to/cloudx/nodejs-18-fetch-api-test-runner-module-and-more-2ckg)
 - [Lifehacker] [Why Your Cable TV Resolution Looks Like Crap &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/why-your-cable-tv-resolution-looks-like-shit-and-what-1848811768)
 - [Lifehacker] [When Buying in Bulk Is Actually a Waste of Money](https://lifehacker.com/when-buying-in-bulk-is-actually-a-waste-of-money-1848811738)
 - [Lifehacker] [What Are &#39;Terpenes&#39; in Weed &lpar;and Why Do They Matter&rpar;?](https://lifehacker.com/what-are-terpenes-in-weed-and-why-do-they-matter-1848811695)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Groceries You Should Never Buy at Walmart](https://lifehacker.com/groceries-you-should-never-buy-at-walmart-1848806652)
 - [Lifehacker] [The Easiest Ways to Install and Update All Your Mac Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-mac-app-1848806252)
 - [Lifehacker] [42 Highbrow Films to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
-- [Lifehacker] [How to Convert Ebooks to Work With Your Kindle for Free](https://lifehacker.com/how-to-convert-ebooks-to-work-with-your-kindle-for-free-1848805493)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
