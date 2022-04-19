@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Block Ads on Spotify](https://lifehacker.com/how-to-block-ads-on-spotify-1848811961)
+- [Lifehacker] [What Your Date’s FEC Filings Can Tell You](https://lifehacker.com/what-your-date-s-fec-filings-can-tell-you-1848811627)
+- [Dev.to/JS] [Day-69 Training At Ryaz](https://dev.to/mahin651/day-69-training-at-ryaz-14d)
+- [Dev.to/JS] [Paracetamol.js💊| #103: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-103-explica-este-codigo-javascript-1ije)
+- [Dev.to/JS] [map&lpar;&rpar;, filter&lpar;&rpar;, forEach&lpar;&rpar; array methods in Javascript](https://dev.to/nameismani/array-methods-map-filter-foreach-in-javascript-3m08)
+- [Dev.to/JS] [useReducer Hook](https://dev.to/daniloraisi/usereducer-hook-1fpc)
 - [Lifehacker] [Why You Should Stop Growing Tomatoes and Give Peas a Chance](https://lifehacker.com/why-you-should-stop-growing-tomatoes-and-give-peas-a-ch-1848807761)
 - [Dev.to/JS] [Node.js 18: fetch API, Test Runner module, and more](https://dev.to/cloudx/nodejs-18-fetch-api-test-runner-module-and-more-2ckg)
 - [Dev.to/JS] [About my self](https://dev.to/samcodedev/about-my-self-426c)
@@ -33,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React 18 Whats New](https://dev.to/andrewbaisden/react-18-whats-new-2b1f)
 - [Dev.to/JS] [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
 - [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Simple Array Sum](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-simple-array-sum-4g7p)
-- [Dev.to/JS] [Why Full Stack Developers are in Demand in India?](https://dev.to/javatpoint/why-full-stack-developers-are-in-demand-in-india-3aeg)
 - [Lifehacker] [When Buying in Bulk Is Actually a Waste of Money](https://lifehacker.com/when-buying-in-bulk-is-actually-a-waste-of-money-1848811738)
-- [Dev.to/JS] [JavaScript Style Guide💻📔](https://dev.to/edwinnv/javascript-style-guide-4354)
-- [Dev.to/JS] [Make Ajax Requests in JavaScript](https://dev.to/yanyy/make-ajax-requests-in-javascript-2e5h)
-- [Dev.to/JS] [useEffect hook in React](https://dev.to/vanshsh/useeffect-hook-in-react-mgc)
 - [Lifehacker] [What Are &#39;Terpenes&#39; in Weed &lpar;and Why Do They Matter&rpar;?](https://lifehacker.com/what-are-terpenes-in-weed-and-why-do-they-matter-1848811695)
 - [Lifehacker] [Here&#39;s How Much House You Can Buy for $350K](https://lifehacker.com/heres-how-much-house-you-can-buy-for-350k-1848808926)
 - [Lifehacker] [How &lpar;and Why&rpar; to Exercise When You&#39;re High, According to Reddit](https://lifehacker.com/how-and-why-to-exercise-when-youre-high-according-to-1848792983)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
 - [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Lifehacker] [How to Attract Wasps to Your Garden &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-attract-wasps-to-your-garden-and-why-you-should-1848793271)
-- [Lifehacker] [Two Half Baths Don&#39;t Equal Full, and Other Real Estate Bathroom Math You Should Know](https://lifehacker.com/two-half-baths-dont-equal-full-and-other-real-estate-b-1848791689)
-- [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
