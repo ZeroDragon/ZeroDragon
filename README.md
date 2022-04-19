@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made an app to track your life, with emoji!](https://dev.to/virejdasani/i-made-an-app-to-track-your-life-with-emoji-2c61)
+- [Dev.to/JS] [An Overview of Redux and its Middleware for React Applications](https://dev.to/ganeshshetty195/an-overview-of-redux-and-its-middleware-for-react-applications-39e7)
+- [Dev.to/JS] [Why to use keys in list in React?](https://dev.to/nithyanandam/why-to-use-keys-in-list-in-react-2m6f)
+- [Dev.to/JS] [How to Create a Custom API Endpoint in Strapi?](https://dev.to/strapi/how-to-create-a-custom-api-endpoint-in-strapi-2pa4)
 - [Dev.to/JS] [Some concept in javascript .](https://dev.to/kaustavkarmakar2/some-concept-in-javascript--3ikc)
 - [Dev.to/JS] [Implement different types of sliders using Vue 3 and Swiper 7](https://dev.to/canopassoftware/implement-different-types-of-sliders-using-vue-3-and-swiper-7-1dj5)
 - [Dev.to/JS] [Deploy your Node Js app on Aws Elastic Beanstalk](https://dev.to/drsimplegraffiti/deploy-your-node-js-app-on-aws-elastic-beanstalk-50jj)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pinia: How to reset stores created with function/setup syntax](https://dev.to/the_one/pinia-how-to-reset-stores-created-with-functionsetup-syntax-1b74)
 - [Dev.to/JS] [Create Minesweeper Game in JavaScript](https://dev.to/bekbrace/create-minesweeper-game-in-javascript-1cii)
 - [Dev.to/JS] [Why you should contribute to Open Source Projects?](https://dev.to/sanjaysinghrajpoot/why-you-should-contribute-to-open-source-projects-7p1)
-- [Dev.to/JS] [Know About Help Desk Support Services with Uvdesk](https://dev.to/kuldeepthakur/know-about-help-desk-support-services-with-uvdesk-3c40)
-- [Dev.to/JS] [Introduction to APIs](https://dev.to/ekqt/introduction-to-apis-4dp3)
-- [Dev.to/JS] [React Hooks and Types of Hooks](https://dev.to/swetasingh03/react-hooks-and-types-of-hooks-hol)
-- [Dev.to/JS] [Memoization in React and its myths.](https://dev.to/snigo/memoization-in-react-and-its-myths-42kl)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
