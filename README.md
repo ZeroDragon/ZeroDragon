@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
+- [Dev.to/JS] [The path to become a web developer](https://dev.to/dimitarstbc/the-path-to-become-a-web-developer-2jj7)
+- [Dev.to/JS] [React - Primeiros passos](https://dev.to/carvalhodanielg/react-2db4)
+- [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
 - [Lifehacker] [How to Spot Bad Weed](https://lifehacker.com/how-to-spot-bad-weed-1848813035)
 - [Lifehacker] [Netflix Has Secret Codes](https://lifehacker.com/netflix-has-secret-codes-1848812894)
 - [Dev.to/JS] [WebDev 101: How to use Node, NPM, and Yarn](https://dev.to/this-is-learning/webdev-101-how-to-use-npm-and-yarn-48kc)
@@ -40,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useReducer Hook](https://dev.to/daniloraisi/usereducer-hook-1fpc)
 - [Lifehacker] [Why You Should Stop Growing Tomatoes and Give Peas a Chance](https://lifehacker.com/why-you-should-stop-growing-tomatoes-and-give-peas-a-ch-1848807761)
 - [Dev.to/JS] [Node.js 18: fetch API, Test Runner module, and more](https://dev.to/cloudx/nodejs-18-fetch-api-test-runner-module-and-more-2ckg)
-- [Dev.to/JS] [About my self](https://dev.to/samcodedev/about-my-self-426c)
-- [Dev.to/JS] [The machines have now also learned the grammar of the English language.](https://dev.to/jahongir2007/the-machines-have-now-also-learned-the-grammar-of-the-english-language-hm6)
 - [Lifehacker] [Why Your Cable TV Resolution Looks Like Crap &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/why-your-cable-tv-resolution-looks-like-shit-and-what-1848811768)
 - [Lifehacker] [When Buying in Bulk Is Actually a Waste of Money](https://lifehacker.com/when-buying-in-bulk-is-actually-a-waste-of-money-1848811738)
 - [Lifehacker] [What Are &#39;Terpenes&#39; in Weed &lpar;and Why Do They Matter&rpar;?](https://lifehacker.com/what-are-terpenes-in-weed-and-why-do-they-matter-1848811695)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Install and Update All Your Mac Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-mac-app-1848806252)
 - [Lifehacker] [42 Highbrow Films to Watch When You&#39;re Totally High](https://lifehacker.com/42-highbrow-films-to-watch-when-youre-totally-high-1848796343)
 - [Lifehacker] [How to Convert Ebooks to Work With Your Kindle for Free](https://lifehacker.com/how-to-convert-ebooks-to-work-with-your-kindle-for-free-1848805493)
-- [Lifehacker] [How to Lower Your Energy Bill by Weatherstripping Your Home](https://lifehacker.com/how-to-lower-your-energy-bill-by-weatherstripping-your-1848804289)
-- [Lifehacker] [The Easiest Ways to Install and Update All Your Windows Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-windows-1848805116)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
