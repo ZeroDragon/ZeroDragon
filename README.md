@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Virtual Coffee w/ HarperDB&#39;s EVP of Engineering ☕️🧑‍💻](https://dev.to/margo_hdb/virtual-coffee-w-harperdbs-evp-of-engineering-2h2p)
+- [Dev.to/JS] [Web3.js with javascript](https://dev.to/kaustavkarmakar2/web3js-with-javascript-26n1)
+- [Dev.to/JS] [La espera terminó: el elemento DIALOG alcanza pleno soporte](https://dev.to/adrianbenavente/la-espera-termino-el-elemento-alcanza-pleno-soporte-5de7)
+- [Dev.to/JS] [How to make reusable State management](https://dev.to/chrollo4ki/how-to-make-reusable-state-management-16df)
 - [Dev.to/JS] [Day 14: Random Quote Machine](https://dev.to/kemystra/day-14-random-quote-machine-4lk1)
+- [Lifehacker] [Here&#39;s How Much House You Can Buy for $350K](https://lifehacker.com/heres-how-much-house-you-can-buy-for-350k-1848808926)
 - [Dev.to/JS] [Introducing the third edition of D3.js in Action](https://dev.to/annemariedufour/introducing-the-third-edition-of-d3js-in-action-4npn)
 - [Dev.to/JS] [Malala yousafzai story website](https://dev.to/baraa_baba/malala-yousafzai-story-website-kom)
 - [Dev.to/JS] [Simpler Requests with Reqwester](https://dev.to/stringent/simpler-requests-with-reqwester-4gkk)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Perfect React App](https://dev.to/zytha/perfect-react-app-2cni)
 - [Dev.to/JS] [Smart Mapping Tools in ArcGIS API for JavaScript](https://dev.to/odoenet/smart-mapping-tools-in-arcgis-api-for-javascript-2d26)
 - [Dev.to/JS] [Principles of Object-oriented Programming in TypeScript](https://dev.to/appsignal/principles-of-object-oriented-programming-in-typescript-5ep4)
-- [Dev.to/JS] [بهترین شرکت طراحی سایت](https://dev.to/majid_saadat_2efbb79dbcfa/bhtryn-shrkht-trhy-syt-3hlh)
-- [Dev.to/JS] [Using a different geocode service for different countries](https://dev.to/superface/using-a-different-geocode-service-for-different-countries-2j07)
-- [Dev.to/JS] [JavaScript Array Key as Object Type](https://dev.to/mykyta0723/javascript-array-key-as-object-type-1p3)
-- [Dev.to/JS] [Integrate geocoding the right way](https://dev.to/superface/integrate-geocoding-the-right-way-4e7l)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
 - [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
 - [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
-- [Lifehacker] [The Most Useful Terminal Commands Every Mac User Should Know](https://lifehacker.com/the-most-useful-terminal-commands-every-mac-user-should-1848799083)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
