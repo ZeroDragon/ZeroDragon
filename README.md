@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Introduction to Vue 3 and Typescript: Refs and reactivity](https://dev.to/tqbit/an-introduction-to-vue-3-and-typescript-refs-and-reactivity-8nh)
+- [Dev.to/JS] [Pinia: How to reset stores created with function/setup syntax](https://dev.to/the_one/pinia-how-to-reset-stores-created-with-functionsetup-syntax-1b74)
+- [Dev.to/JS] [Create Minesweeper Game in JavaScript](https://dev.to/bekbrace/create-minesweeper-game-in-javascript-1cii)
+- [Dev.to/JS] [Why you should contribute to Open Source Projects?](https://dev.to/sanjaysinghrajpoot/why-you-should-contribute-to-open-source-projects-7p1)
+- [Dev.to/JS] [Know About Help Desk Support Services with Uvdesk](https://dev.to/kuldeepthakur/know-about-help-desk-support-services-with-uvdesk-3c40)
 - [Dev.to/JS] [Introduction to APIs](https://dev.to/ekqt/introduction-to-apis-4dp3)
 - [Dev.to/JS] [React Hooks and Types of Hooks](https://dev.to/swetasingh03/react-hooks-and-types-of-hooks-hol)
 - [Dev.to/JS] [Memoization in React and its myths.](https://dev.to/snigo/memoization-in-react-and-its-myths-42kl)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Custom Select Input with search option in HTML, CSS, and Javascript](https://dev.to/incoderweb/custom-select-input-with-search-option-in-html-css-and-javascript-3phj)
 - [Dev.to/JS] [How To Use TestNG Reporter Log In Selenium](https://dev.to/lambdatest/how-to-use-testng-reporter-log-in-selenium-4292)
 - [Dev.to/JS] [Servicios con caché en Angular con Rxjs](https://dev.to/danyparedes/servicios-con-cache-en-angular-con-rxjs-4i76)
-- [Dev.to/JS] [How to resolve &quot;Failed to resolve loader: sass-loader&quot; Error in VueJs 3?](https://dev.to/gayathri_r/how-to-resolve-failed-to-resolve-loader-sass-loader-error-in-vuejs-3-435b)
-- [Dev.to/JS] [Angular set and patch value in Template driven forms](https://dev.to/seshubabubatchu/angular-set-and-patch-value-in-template-driven-forms-2ale)
-- [Dev.to/JS] [vision 20 - Eye Reviews, Price, Warnings And Complaints?](https://dev.to/vision20facts1/vision-20-eye-reviews-price-warnings-and-complaints-1cm)
-- [Dev.to/JS] [The Anatomy of a For Loop in JavaScript](https://dev.to/codecupdev/the-anatomy-of-a-for-loop-in-javascript-27p8)
-- [Dev.to/JS] [Jquery Datatable Example](https://dev.to/codeanddeploy/jquery-datatable-example-56m6)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
