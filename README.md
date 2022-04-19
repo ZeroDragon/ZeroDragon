@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Virtual Coffee w/ HarperDB&#39;s EVP of Engineering ☕️🧑‍💻](https://dev.to/margo_hdb/virtual-coffee-w-harperdbs-evp-of-engineering-2h2p)
+- [Lifehacker] [When Buying in Bulk Is Actually a Waste of Money](https://lifehacker.com/when-buying-in-bulk-is-actually-a-waste-of-money-1848811738)
+- [Dev.to/JS] [JavaScript Style Guide💻📔](https://dev.to/edwinnv/javascript-style-guide-4354)
+- [Dev.to/JS] [Make Ajax Requests in JavaScript](https://dev.to/yanyy/make-ajax-requests-in-javascript-2e5h)
+- [Dev.to/JS] [useEffect hook in React](https://dev.to/vanshsh/useeffect-hook-in-react-mgc)
+- [Lifehacker] [What Are &#39;Terpenes&#39; in Weed &lpar;and Why Do They Matter&rpar;?](https://lifehacker.com/what-are-terpenes-in-weed-and-why-do-they-matter-1848811695)
+- [Dev.to/JS] [Virtual Coffee w/ HarperDB&#39;s EVP of Engineering ☕️🧑‍💻](https://dev.to/harperdb/virtual-coffee-w-harperdbs-evp-of-engineering-2h2p)
 - [Dev.to/JS] [Web3.js with javascript](https://dev.to/kaustavkarmakar2/web3js-with-javascript-26n1)
 - [Dev.to/JS] [La espera terminó: el elemento DIALOG alcanza pleno soporte](https://dev.to/adrianbenavente/la-espera-termino-el-elemento-alcanza-pleno-soporte-5de7)
 - [Dev.to/JS] [How to make reusable State management](https://dev.to/chrollo4ki/how-to-make-reusable-state-management-16df)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How &lpar;and Why&rpar; to Exercise When You&#39;re High, According to Reddit](https://lifehacker.com/how-and-why-to-exercise-when-youre-high-according-to-1848792983)
 - [Dev.to/JS] [I need help I having problem passing data to a child component](https://dev.to/joseph_muvevi/i-need-help-i-having-problem-passing-data-to-a-child-component-4o5a)
 - [Lifehacker] [14 of the Best &lpar;and Worst&rpar; Ways to Legally Get High](https://lifehacker.com/14-of-the-best-and-worst-ways-to-legally-get-high-1848808333)
-- [Dev.to/JS] [Perfect React App](https://dev.to/zytha/perfect-react-app-2cni)
-- [Dev.to/JS] [Smart Mapping Tools in ArcGIS API for JavaScript](https://dev.to/odoenet/smart-mapping-tools-in-arcgis-api-for-javascript-2d26)
-- [Dev.to/JS] [Principles of Object-oriented Programming in TypeScript](https://dev.to/appsignal/principles-of-object-oriented-programming-in-typescript-5ep4)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a &lpar;Temporary&rpar; New York Public Library Card, Even If You Don&#39;t Live in NYC](https://lifehacker.com/how-to-get-a-temporary-new-york-public-library-card-1848791649)
 - [Lifehacker] [How to Really Tell If You Need a Lawnmower or a Tractor](https://lifehacker.com/how-to-really-tell-if-you-need-a-lawnmower-or-a-tractor-1848791645)
 - [Lifehacker] [14 Video Games to Play When You&#39;re Good and High](https://lifehacker.com/14-video-games-to-play-when-youre-good-and-high-1848800192)
-- [Lifehacker] [What Is Protected Free Speech &lpar;and What Isn&#39;t&rpar;?](https://lifehacker.com/what-is-protected-free-speech-and-what-isnt-1848799655)
-- [Lifehacker] [Squardle Broke My Brain, and Then I Won](https://lifehacker.com/squardle-broke-my-brain-and-then-i-won-1848799909)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
