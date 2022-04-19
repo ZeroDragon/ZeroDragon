@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to apply different Themes on WPF Application?](https://dev.to/tarungurang/how-to-apply-different-themes-on-wpf-application-2369)
+- [Dev.to/JS] [How to add Default Eloquent Model Values on Laravel 8?](https://dev.to/codeanddeploy/how-to-add-default-eloquent-model-values-on-laravel-8-4k82)
+- [Dev.to/JS] [what is an object in javascript?](https://dev.to/digomic/what-is-an-object-in-javascript-3j7b)
+- [Dev.to/JS] [online editor convert html to android app for free](https://dev.to/amreldessouki/online-editor-convert-html-to-android-app-for-free-3k98)
 - [Dev.to/JS] [NodeJS with ExpressJS and TypeScript part 1.](https://dev.to/jordandev/nodejs-with-expressjs-and-typescript-part-1-18ob)
 - [Dev.to/JS] [Making Web Components reactive](https://dev.to/horus_kol/making-web-components-reactive-hbo)
 - [Dev.to/JS] [How Jotai Specifies Package Entry Points](https://dev.to/dai_shi/how-jotai-specifies-package-entry-points-2h7n)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React JS Isn’t Actually A Web Framework But Why Are There So Many Others?](https://dev.to/cassaden/react-js-isnt-actually-a-web-framework-but-why-are-there-so-many-others-27fd)
 - [Dev.to/JS] [React State Management Using Easy Peasy](https://dev.to/asayerio_techblog/react-state-management-using-easy-peasy-2j36)
 - [Dev.to/JS] [How to create a React app without using create-react-app | a step by step guide](https://dev.to/yvad60/how-to-create-a-react-app-without-using-create-react-app-a-step-by-step-guide-30nl)
-- [Dev.to/JS] [Simple Nodejs MC Pattern](https://dev.to/kamruzzaman/simple-nodejs-mc-pattern-332d)
-- [Dev.to/JS] [What are Micro-Frontends? Really...](https://dev.to/infoxicator/what-are-micro-frontends-really-2j2a)
-- [Dev.to/JS] [Quick &amp; Dirty Visual Testing 👁](https://dev.to/konsalex/quick-dirty-visual-testing-53fk)
-- [Dev.to/JS] [CarbonAPI - Track Your Carbon Footprint Using Our UI And API](https://dev.to/thestartupfounder/carbonapi-track-your-carbon-footprint-using-our-ui-and-api-46nd)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
