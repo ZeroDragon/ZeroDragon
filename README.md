@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Some concept in javascript .](https://dev.to/kaustavkarmakar2/some-concept-in-javascript--3ikc)
+- [Dev.to/JS] [Implement different types of sliders using Vue 3 and Swiper 7](https://dev.to/canopassoftware/implement-different-types-of-sliders-using-vue-3-and-swiper-7-1dj5)
+- [Dev.to/JS] [Deploy your Node Js app on Aws Elastic Beanstalk](https://dev.to/drsimplegraffiti/deploy-your-node-js-app-on-aws-elastic-beanstalk-50jj)
+- [Dev.to/JS] [I need support on Speed Optimization](https://dev.to/chillipromotions9/i-need-support-on-speed-optimization-3n7a)
 - [Dev.to/JS] [An Introduction to Vue 3 and Typescript: Refs and reactivity](https://dev.to/tqbit/an-introduction-to-vue-3-and-typescript-refs-and-reactivity-8nh)
 - [Dev.to/JS] [Pinia: How to reset stores created with function/setup syntax](https://dev.to/the_one/pinia-how-to-reset-stores-created-with-functionsetup-syntax-1b74)
 - [Dev.to/JS] [Create Minesweeper Game in JavaScript](https://dev.to/bekbrace/create-minesweeper-game-in-javascript-1cii)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to APIs](https://dev.to/ekqt/introduction-to-apis-4dp3)
 - [Dev.to/JS] [React Hooks and Types of Hooks](https://dev.to/swetasingh03/react-hooks-and-types-of-hooks-hol)
 - [Dev.to/JS] [Memoization in React and its myths.](https://dev.to/snigo/memoization-in-react-and-its-myths-42kl)
-- [Dev.to/JS] [Botanical Farms CBD Gummies &lpar;U.S Updated 2022&rpar; Reviews - An Instant Relief Formula For Pain?](https://dev.to/botanicalcbdget/botanical-farms-cbd-gummies-us-updated-2022-reviews-an-instant-relief-formula-for-pain-118d)
-- [Dev.to/JS] [Custom Select Input with search option in HTML, CSS, and Javascript](https://dev.to/incoderweb/custom-select-input-with-search-option-in-html-css-and-javascript-3phj)
-- [Dev.to/JS] [How To Use TestNG Reporter Log In Selenium](https://dev.to/lambdatest/how-to-use-testng-reporter-log-in-selenium-4292)
-- [Dev.to/JS] [Servicios con caché en Angular con Rxjs](https://dev.to/danyparedes/servicios-con-cache-en-angular-con-rxjs-4i76)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
