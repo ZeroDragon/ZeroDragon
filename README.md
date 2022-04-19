@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Spot Bad Weed](https://lifehacker.com/how-to-spot-bad-weed-1848813035)
+- [Lifehacker] [Netflix Has Secret Codes](https://lifehacker.com/netflix-has-secret-codes-1848812894)
+- [Dev.to/JS] [WebDev 101: How to use Node, NPM, and Yarn](https://dev.to/this-is-learning/webdev-101-how-to-use-npm-and-yarn-48kc)
+- [Dev.to/JS] [You Don&#39;t Need a CS Degree to Land a Web Development Job](https://dev.to/braydoncoyer/you-dont-need-a-cs-degree-to-land-a-web-development-job-1c5n)
+- [Lifehacker] [Steam Your Way to Spot-Free Wine Glasses](https://lifehacker.com/steam-your-way-to-spot-free-wine-glasses-1848812957)
 - [Dev.to/JS] [Building a File directory display component using React](https://dev.to/vigneshiyergithub/building-a-file-directory-display-component-using-react-2ong)
 - [Lifehacker] [What You Should Know About Mask Mandates on Public Transportation](https://lifehacker.com/what-you-should-know-about-mask-mandates-on-public-tran-1848812526)
 - [Dev.to/JS] [How to use &#39;useMutation&#39; in React Query](https://dev.to/code_with_aravind/how-to-use-usemutation-in-react-query-5gdo)
@@ -38,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [About my self](https://dev.to/samcodedev/about-my-self-426c)
 - [Dev.to/JS] [The machines have now also learned the grammar of the English language.](https://dev.to/jahongir2007/the-machines-have-now-also-learned-the-grammar-of-the-english-language-hm6)
 - [Lifehacker] [Why Your Cable TV Resolution Looks Like Crap &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/why-your-cable-tv-resolution-looks-like-shit-and-what-1848811768)
-- [Dev.to/JS] [Amplication &amp; React: Frontend Authentication](https://dev.to/amplication/amplication-react-frontend-authentication-3fkm)
-- [Dev.to/JS] [Hathora: Multiplayer Made Easy](https://dev.to/hathora/hathora-multiplayer-made-easy-36cl)
 - [Lifehacker] [When Buying in Bulk Is Actually a Waste of Money](https://lifehacker.com/when-buying-in-bulk-is-actually-a-waste-of-money-1848811738)
 - [Lifehacker] [What Are &#39;Terpenes&#39; in Weed &lpar;and Why Do They Matter&rpar;?](https://lifehacker.com/what-are-terpenes-in-weed-and-why-do-they-matter-1848811695)
 - [Lifehacker] [Here&#39;s How Much House You Can Buy for $350K](https://lifehacker.com/heres-how-much-house-you-can-buy-for-350k-1848808926)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Convert Ebooks to Work With Your Kindle for Free](https://lifehacker.com/how-to-convert-ebooks-to-work-with-your-kindle-for-free-1848805493)
 - [Lifehacker] [How to Lower Your Energy Bill by Weatherstripping Your Home](https://lifehacker.com/how-to-lower-your-energy-bill-by-weatherstripping-your-1848804289)
 - [Lifehacker] [The Easiest Ways to Install and Update All Your Windows Apps](https://lifehacker.com/the-easiest-ways-to-install-and-update-all-your-windows-1848805116)
-- [Lifehacker] [Is It Better to Use Nextdoor or Facebook Marketplace?](https://lifehacker.com/is-it-better-to-use-nextdoor-or-facebook-marketplace-1848799896)
-- [Lifehacker] [How Often You Need to Wash Your Dog&#39;s Food Bowl](https://lifehacker.com/how-often-you-need-to-wash-your-dogs-food-bowl-1848793312)
-- [Lifehacker] [How to See Through Inflation Prices](https://lifehacker.com/how-to-see-through-inflation-prices-1848793300)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
