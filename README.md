@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Different Types of Video File Formats and Why WebM and MP4 Beat Them All](https://dev.to/uploadcare/different-types-of-video-file-formats-and-why-webm-and-mp4-beat-them-all-3o0f)
+- [Dev.to/JS] [Connection Pooling in Database](https://dev.to/leonel_7/connection-pooling-in-database-13n5)
 - [Dev.to/JS] [How to apply different Themes on WPF Application?](https://dev.to/tarungurang/how-to-apply-different-themes-on-wpf-application-2369)
 - [Dev.to/JS] [How to add Default Eloquent Model Values on Laravel 8?](https://dev.to/codeanddeploy/how-to-add-default-eloquent-model-values-on-laravel-8-4k82)
 - [Dev.to/JS] [what is an object in javascript?](https://dev.to/digomic/what-is-an-object-in-javascript-3j7b)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Retrieve Trivia Questions With easy-trivia](https://dev.to/elitezen/retrieve-trivia-questions-with-easy-trivia-4nog)
 - [Dev.to/JS] [Context In React](https://dev.to/georgeoffley/context-in-react-4fda)
 - [Dev.to/JS] [React JS Isn’t Actually A Web Framework But Why Are There So Many Others?](https://dev.to/cassaden/react-js-isnt-actually-a-web-framework-but-why-are-there-so-many-others-27fd)
-- [Dev.to/JS] [React State Management Using Easy Peasy](https://dev.to/asayerio_techblog/react-state-management-using-easy-peasy-2j36)
-- [Dev.to/JS] [How to create a React app without using create-react-app | a step by step guide](https://dev.to/yvad60/how-to-create-a-react-app-without-using-create-react-app-a-step-by-step-guide-30nl)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
