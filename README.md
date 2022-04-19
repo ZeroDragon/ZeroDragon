@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeJS with ExpressJS and TypeScript part 1.](https://dev.to/jordandev/nodejs-with-expressjs-and-typescript-part-1-18ob)
 - [Dev.to/JS] [Making Web Components reactive](https://dev.to/horus_kol/making-web-components-reactive-hbo)
 - [Dev.to/JS] [How Jotai Specifies Package Entry Points](https://dev.to/dai_shi/how-jotai-specifies-package-entry-points-2h7n)
 - [Dev.to/JS] [Retrieve Trivia Questions With easy-trivia](https://dev.to/elitezen/retrieve-trivia-questions-with-easy-trivia-4nog)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are Micro-Frontends? Really...](https://dev.to/infoxicator/what-are-micro-frontends-really-2j2a)
 - [Dev.to/JS] [Quick &amp; Dirty Visual Testing 👁](https://dev.to/konsalex/quick-dirty-visual-testing-53fk)
 - [Dev.to/JS] [CarbonAPI - Track Your Carbon Footprint Using Our UI And API](https://dev.to/thestartupfounder/carbonapi-track-your-carbon-footprint-using-our-ui-and-api-46nd)
-- [Dev.to/JS] [My week so far](https://dev.to/spoder/my-week-so-far-2cp)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
