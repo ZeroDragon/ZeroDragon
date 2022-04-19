@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Context In React](https://dev.to/georgeoffley/context-in-react-4fda)
 - [Dev.to/JS] [React JS Isn’t Actually A Web Framework But Why Are There So Many Others?](https://dev.to/cassaden/react-js-isnt-actually-a-web-framework-but-why-are-there-so-many-others-27fd)
 - [Dev.to/JS] [React State Management Using Easy Peasy](https://dev.to/asayerio_techblog/react-state-management-using-easy-peasy-2j36)
 - [Dev.to/JS] [How to create a React app without using create-react-app | a step by step guide](https://dev.to/yvad60/how-to-create-a-react-app-without-using-create-react-app-a-step-by-step-guide-30nl)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open Source Adventures: Episode 42: Projecting Russian Personnel Losses](https://dev.to/taw/open-source-adventures-episode-42-projecting-russian-personnel-losses-1j2b)
 - [Dev.to/JS] [Upload Files to Cloudinary with Node.js in 1 minute](https://dev.to/ivanzm123/upload-files-to-cloudinary-with-nodejs-in-1-minute-3ll)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
-- [Dev.to/JS] [How to collect Stripe Payment in react native app](https://dev.to/aneeqakhan/how-to-add-stripe-payment-in-react-native-app-24o8)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
 - [Lifehacker] [The Easiest Ways to Thicken Up a Runny Sauce](https://lifehacker.com/the-easiest-ways-to-thicken-up-a-runny-sauce-1848807195)
 - [Lifehacker] [I Guess It&#39;s Time to Talk About Testicle Tanning](https://lifehacker.com/i-guess-its-time-to-talk-about-testicle-tanning-1848807039)
