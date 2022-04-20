@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Binary Tree data structure](https://dev.to/bvnkumar/javascript-binary-tree-data-structure-4hec)
 - [Dev.to/JS] [How to Create Random Quote Generator in JavaScript](https://dev.to/shantanu_jana/how-to-create-random-quote-generator-in-javascript-i4a)
 - [Dev.to/JS] [JavaScript is a little weird!!](https://dev.to/umangm05/javascript-is-a-little-weird-47pf)
 - [Dev.to/JS] [New Post](https://dev.to/fabioalcocer/new-post-1ohe)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Criando uma AWS lambda com Serverless framework](https://dev.to/janapc/criando-uma-aws-lambda-com-serverless-framework-54ph)
 - [Dev.to/JS] [Por que Svelte? A próxima tendência em frameworks web.](https://dev.to/marcell0lopes/por-que-svelte-a-proxima-tendencia-em-frameworks-web-kbi)
 - [Dev.to/JS] [What to learn in 2022](https://dev.to/rsp/what-to-learn-in-2022-2h3p)
-- [Dev.to/JS] [Create a Drag-and-Drop Zone in React with react-dropzone](https://dev.to/asayerio_techblog/create-a-drag-and-drop-zone-in-react-with-react-dropzone-422e)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
