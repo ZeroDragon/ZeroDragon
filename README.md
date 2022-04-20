@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Check if Image is Loaded or not in jQuery?](https://dev.to/codeanddeploy/how-to-check-if-image-is-loaded-or-not-in-jquery-15g9)
+- [Dev.to/JS] [Laravel 8 Ajax Example Step by Step Tutorial](https://dev.to/codeanddeploy/laravel-8-ajax-example-step-by-step-tutorial-4ic0)
+- [Dev.to/JS] [New in Node.js v18](https://dev.to/siddharthshyniben/new-in-nodejs-v18-1lmf)
 - [Dev.to/JS] [MOBILE APPLICATIONS FOR YOUR BUSINESS OPERATIONS](https://dev.to/pixelstudios83/mobile-applications-for-your-business-operations-n2h)
 - [Dev.to/JS] [Unstated: a light &amp; simple state management library for React](https://dev.to/aexol-studio/unstated-a-light-simple-state-management-library-for-react-3b4e)
 - [Dev.to/JS] [Svelte vs Vue.js: a sure-shot comparison](https://dev.to/arohi/svelte-vs-vuejs-a-sure-shot-comparison-3jec)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript is a little weird!!](https://dev.to/umangm05/javascript-is-a-little-weird-47pf)
 - [Dev.to/JS] [New Post](https://dev.to/fabioalcocer/new-post-1ohe)
 - [Dev.to/JS] [Node 18 is now available!!! 😎](https://dev.to/jordandev/node-18-is-now-available-3ld6)
-- [Dev.to/JS] [A small alternative of fingerprint.js, Broprint.js](https://dev.to/rajeshroyal/a-small-alternative-of-fingerprintjs-broprintjs-ia7)
-- [Dev.to/JS] [NODE JS Programming](https://dev.to/fshinfotech/node-js-programming-5gjp)
-- [Dev.to/JS] [Software Development](https://dev.to/goretoedu/software-development-14j2)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
