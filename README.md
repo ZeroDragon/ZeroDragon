@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 things I&#39;ve learned using Remix for 1 month](https://dev.to/alexandromtzg/7-things-ive-learned-using-remix-for-1-month-3hig)
+- [Lifehacker] [How to Save Your Career After Screwing Up at Work](https://lifehacker.com/how-to-save-your-career-after-screwing-up-at-work-1848818330)
 - [Lifehacker] [5 Easy Ways to Improve Your Gmail Inbox Right Now](https://lifehacker.com/5-easy-ways-to-improve-your-gmail-inbox-right-now-1848818208)
 - [Dev.to/JS] [Visual Testing With Cypress](https://dev.to/philscode/visual-testing-with-cypress-1o2g)
+- [Dev.to/JS] [How does the call stack work?](https://dev.to/vinodvms/how-call-stack-works-4jk5)
 - [Dev.to/JS] [DevSpaceForum x Appwrite Part 2: UI with ReactJs &amp; TailWindCSS](https://dev.to/georgeisiguzo/devspaceforum-x-appwrite-part-2-ui-with-reactjs-tailwindcss-4gic)
 - [Dev.to/JS] [A Designer’s Perspective: How To Improve Communication Between Designers And Developers](https://dev.to/loopstudioteam/a-designers-perspective-how-to-improve-communication-between-designers-and-developers-4fb5)
 - [Dev.to/JS] [How to get the order on fiverr anyone help me?](https://dev.to/muzamil00/how-to-get-the-order-on-fiverr-anyone-help-me-2i3p)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fun Coding - Start multiple counters ⏱️ at different speeds](https://dev.to/gass/fun-coding-start-multiple-counters-at-different-speeds-49c0)
 - [Dev.to/JS] [Conditional rendering in React](https://dev.to/joe_lee90/conditional-rendering-in-react-396n)
 - [Lifehacker] [You Should Sell Your Old HomePod for Profit](https://lifehacker.com/you-should-sell-your-old-homepod-for-profit-1848817721)
-- [Dev.to/JS] [How To Learn Programming](https://dev.to/hobamohab/how-to-learn-programming-25p1)
-- [Dev.to/JS] [JWT Authentication with Access Tokens &amp; Refresh Tokens In Node JS](https://dev.to/cyberwolve/jwt-authentication-with-access-tokens-refresh-tokens-in-node-js-5aa9)
 - [Lifehacker] [7 Hidden iPhone Keyboard Features You Probably Never Knew Existed](https://lifehacker.com/7-hidden-iphone-keyboard-features-you-probably-never-kn-1848810555)
 - [Lifehacker] [The 7 Deadly Sins of Dog Ownership](https://lifehacker.com/the-7-deadly-sins-of-dog-ownership-1848814449)
 - [Lifehacker] [How to Not Go Broke at the Ballpark This Summer](https://lifehacker.com/how-to-not-go-broke-at-the-ballpark-this-summer-1848817044)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop Growing Tomatoes and Give Peas a Chance](https://lifehacker.com/why-you-should-stop-growing-tomatoes-and-give-peas-a-ch-1848807761)
 - [Lifehacker] [Why Your Cable TV Resolution Looks Like Crap &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/why-your-cable-tv-resolution-looks-like-shit-and-what-1848811768)
 - [Lifehacker] [When Buying in Bulk Is Actually a Waste of Money](https://lifehacker.com/when-buying-in-bulk-is-actually-a-waste-of-money-1848811738)
-- [Lifehacker] [What Are &#39;Terpenes&#39; in Weed &lpar;and Why Do They Matter&rpar;?](https://lifehacker.com/what-are-terpenes-in-weed-and-why-do-they-matter-1848811695)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
