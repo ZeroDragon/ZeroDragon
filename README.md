@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to disable right click on web page ???](https://dev.to/shamgurav96/how-to-disable-right-click-on-web-page--6da)
+- [Dev.to/JS] [Day-70 Training At Ryaz](https://dev.to/mahin651/day-70-training-at-ryaz-1854)
+- [Dev.to/JS] [Lenny Face &lpar; ‿ &rpar; — All Text Faces Copy and Paste.](https://dev.to/stackfindover/lenny-face-all-text-faces-copy-and-paste-1am6)
+- [Lifehacker] [Everything You’ve Ever Wondered About Weed](https://lifehacker.com/everything-you-ve-ever-wondered-about-weed-1848814973)
+- [Dev.to/JS] [Getting started with React Router!](https://dev.to/emmanuelthecoder/getting-started-with-react-router-19de)
+- [Lifehacker] [What&#39;s New on Disney+ in May 2022](https://lifehacker.com/whats-new-on-disney-in-may-2022-1848817908)
+- [Dev.to/JS] [Fun Coding - Start multiple counters ⏱️ at different speeds](https://dev.to/gass/fun-coding-start-multiple-counters-at-different-speeds-49c0)
+- [Dev.to/JS] [Conditional rendering in React](https://dev.to/joe_lee90/conditional-rendering-in-react-396n)
 - [Lifehacker] [You Should Sell Your Old HomePod for Profit](https://lifehacker.com/you-should-sell-your-old-homepod-for-profit-1848817721)
 - [Dev.to/JS] [How To Learn Programming](https://dev.to/hobamohab/how-to-learn-programming-25p1)
 - [Dev.to/JS] [JWT Authentication with Access Tokens &amp; Refresh Tokens In Node JS](https://dev.to/cyberwolve/jwt-authentication-with-access-tokens-refresh-tokens-in-node-js-5aa9)
@@ -32,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Spotify Web API with SvelteKit Endpoints to create a Now Playing component.](https://dev.to/koenraijer/using-spotify-web-api-with-sveltekit-endpoints-to-create-a-now-playing-component-24lf)
 - [Dev.to/JS] [Moving from Next to Remix](https://dev.to/asayerio_techblog/moving-from-next-to-remix-6hd)
 - [Lifehacker] [The 7 Deadly Sins of Dog Ownership](https://lifehacker.com/the-7-deadly-sins-of-dog-ownership-1848814449)
-- [Dev.to/JS] [Day 15: Completing the site basics](https://dev.to/kemystra/day-15-completing-the-site-basics-4jam)
-- [Dev.to/JS] [Build Your Own Google Like Autocomplete Using React And JavaScript](https://dev.to/gregorygaines/build-your-own-google-like-autocomplete-using-react-and-javascript-45co)
 - [Lifehacker] [How to Not Go Broke at the Ballpark This Summer](https://lifehacker.com/how-to-not-go-broke-at-the-ballpark-this-summer-1848817044)
-- [Dev.to/JS] [Front End Project Examples For Beginners👨🏻‍💻](https://dev.to/theme_selection/front-end-project-examples-for-beginners-48i7)
-- [Dev.to/JS] [Why should you learn Angular?](https://dev.to/zackryd/why-should-you-learn-angular-2kg7)
 - [Lifehacker] [How to Grow a Natural Privacy Screen for Your Garden](https://lifehacker.com/how-to-grow-a-natural-privacy-screen-for-your-garden-1848816182)
-- [Dev.to/JS] [Everything is just a scan way! Integration of Huawei Scan Kit in Books Applications](https://dev.to/hmscommunity/everything-is-just-a-scan-way-integration-of-huawei-scan-kit-in-books-applications-539n)
-- [Dev.to/JS] [Future Javascript: New Array Methods Coming soon](https://dev.to/smpnjn/future-javascript-new-array-methods-coming-soon-ma5)
 - [Lifehacker] [You Deserve to Roll Yourself Up a Nachorito Today](https://lifehacker.com/you-deserve-to-roll-yourself-up-a-nachorito-today-1848813756)
 - [Lifehacker] [What Minor Things Majorly Improved Your Sex Life?](https://lifehacker.com/what-minor-things-majorly-improved-your-sex-life-1848813909)
 - [Lifehacker] [15 of the Wildest Nicholas Cage Performances, Ranked by Intensity](https://lifehacker.com/15-of-the-wildest-nicholas-cage-performances-ranked-by-1848805757)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are &#39;Terpenes&#39; in Weed &lpar;and Why Do They Matter&rpar;?](https://lifehacker.com/what-are-terpenes-in-weed-and-why-do-they-matter-1848811695)
 - [Lifehacker] [Here&#39;s How Much House You Can Buy for $350K](https://lifehacker.com/heres-how-much-house-you-can-buy-for-350k-1848808926)
 - [Lifehacker] [How &lpar;and Why&rpar; to Exercise When You&#39;re High, According to Reddit](https://lifehacker.com/how-and-why-to-exercise-when-youre-high-according-to-1848792983)
-- [Lifehacker] [14 of the Best &lpar;and Worst&rpar; Ways to Legally Get High](https://lifehacker.com/14-of-the-best-and-worst-ways-to-legally-get-high-1848808333)
-- [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
