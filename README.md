@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Every Store You Can Get 3% Cash Back With Your Apple Card](https://lifehacker.com/every-store-you-can-get-3-cash-back-with-your-apple-ca-1848818805)
+- [Dev.to/JS] [Proxy in JS: what the hell?](https://dev.to/romaintrotard/proxy-in-js-what-the-hell-19d0)
+- [Dev.to/JS] [Introducción a Volta, la forma más rápida de administrar entornos de Node](https://dev.to/khriztianmoreno/introduccion-a-volta-la-forma-mas-rapida-de-administrar-entornos-de-node-1oo6)
+- [Lifehacker] [Are Coachella, Lollapalooza, and Other Music Festivals Really Worth the Price?](https://lifehacker.com/are-coachella-lollapalooza-and-other-music-festivals-1848818996)
+- [Dev.to/JS] [Island Architecture](https://dev.to/this-is-learning/island-architecture-5e87)
+- [Lifehacker] [What&#39;s New on Hulu in May 2022](https://lifehacker.com/whats-new-on-hulu-in-may-2022-1848818003)
 - [Dev.to/JS] [7 things I&#39;ve learned using Remix for 1 month](https://dev.to/alexandromtzg/7-things-ive-learned-using-remix-for-1-month-3hig)
 - [Lifehacker] [How to Save Your Career After Screwing Up at Work](https://lifehacker.com/how-to-save-your-career-after-screwing-up-at-work-1848818330)
 - [Lifehacker] [5 Easy Ways to Improve Your Gmail Inbox Right Now](https://lifehacker.com/5-easy-ways-to-improve-your-gmail-inbox-right-now-1848818208)
@@ -36,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day-70 Training At Ryaz](https://dev.to/mahin651/day-70-training-at-ryaz-1854)
 - [Dev.to/JS] [Lenny Face &lpar; ‿ &rpar; — All Text Faces Copy and Paste.](https://dev.to/stackfindover/lenny-face-all-text-faces-copy-and-paste-1am6)
 - [Lifehacker] [Everything You’ve Ever Wondered About Weed](https://lifehacker.com/everything-you-ve-ever-wondered-about-weed-1848814973)
-- [Dev.to/JS] [Getting started with React Router!](https://dev.to/emmanuelthecoder/getting-started-with-react-router-19de)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2022](https://lifehacker.com/whats-new-on-disney-in-may-2022-1848817908)
-- [Dev.to/JS] [Fun Coding - Start multiple counters ⏱️ at different speeds](https://dev.to/gass/fun-coding-start-multiple-counters-at-different-speeds-49c0)
-- [Dev.to/JS] [Conditional rendering in React](https://dev.to/joe_lee90/conditional-rendering-in-react-396n)
 - [Lifehacker] [You Should Sell Your Old HomePod for Profit](https://lifehacker.com/you-should-sell-your-old-homepod-for-profit-1848817721)
 - [Lifehacker] [7 Hidden iPhone Keyboard Features You Probably Never Knew Existed](https://lifehacker.com/7-hidden-iphone-keyboard-features-you-probably-never-kn-1848810555)
 - [Lifehacker] [The 7 Deadly Sins of Dog Ownership](https://lifehacker.com/the-7-deadly-sins-of-dog-ownership-1848814449)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should Know About Mask Mandates on Public Transportation](https://lifehacker.com/what-you-should-know-about-mask-mandates-on-public-tran-1848812526)
 - [Lifehacker] [How to Block Ads on Spotify](https://lifehacker.com/how-to-block-ads-on-spotify-1848811961)
 - [Lifehacker] [What Your Date’s FEC Filings Can Tell You](https://lifehacker.com/what-your-date-s-fec-filings-can-tell-you-1848811627)
-- [Lifehacker] [Why You Should Stop Growing Tomatoes and Give Peas a Chance](https://lifehacker.com/why-you-should-stop-growing-tomatoes-and-give-peas-a-ch-1848807761)
-- [Lifehacker] [Why Your Cable TV Resolution Looks Like Crap &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/why-your-cable-tv-resolution-looks-like-shit-and-what-1848811768)
-- [Lifehacker] [When Buying in Bulk Is Actually a Waste of Money](https://lifehacker.com/when-buying-in-bulk-is-actually-a-waste-of-money-1848811738)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
