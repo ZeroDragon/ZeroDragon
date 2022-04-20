@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MOBILE APPLICATIONS FOR YOUR BUSINESS OPERATIONS](https://dev.to/pixelstudios83/mobile-applications-for-your-business-operations-n2h)
+- [Dev.to/JS] [Unstated: a light &amp; simple state management library for React](https://dev.to/aexol-studio/unstated-a-light-simple-state-management-library-for-react-3b4e)
 - [Dev.to/JS] [Svelte vs Vue.js: a sure-shot comparison](https://dev.to/arohi/svelte-vs-vuejs-a-sure-shot-comparison-3jec)
 - [Dev.to/JS] [How I used Hashnode as a CMS](https://dev.to/nibodhdaware/how-i-used-hashnode-as-a-cms-2k3n)
 - [Dev.to/JS] [Javascript Binary Tree data structure](https://dev.to/bvnkumar/javascript-binary-tree-data-structure-4hec)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A small alternative of fingerprint.js, Broprint.js](https://dev.to/rajeshroyal/a-small-alternative-of-fingerprintjs-broprintjs-ia7)
 - [Dev.to/JS] [NODE JS Programming](https://dev.to/fshinfotech/node-js-programming-5gjp)
 - [Dev.to/JS] [Software Development](https://dev.to/goretoedu/software-development-14j2)
-- [Dev.to/JS] [K1 Keto Life - Fat Burner Solution, Pills, Price, Results And Side Effects?](https://dev.to/k1ketolifeinfo/k1-keto-life-fat-burner-solution-pills-price-results-and-side-effects-3g8a)
-- [Dev.to/JS] [Criando uma AWS lambda com Serverless framework](https://dev.to/janapc/criando-uma-aws-lambda-com-serverless-framework-54ph)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
