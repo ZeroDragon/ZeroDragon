@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [5 Easy Ways to Improve Your Gmail Inbox Right Now](https://lifehacker.com/5-easy-ways-to-improve-your-gmail-inbox-right-now-1848818208)
+- [Dev.to/JS] [Visual Testing With Cypress](https://dev.to/philscode/visual-testing-with-cypress-1o2g)
+- [Dev.to/JS] [DevSpaceForum x Appwrite Part 2: UI with ReactJs &amp; TailWindCSS](https://dev.to/georgeisiguzo/devspaceforum-x-appwrite-part-2-ui-with-reactjs-tailwindcss-4gic)
+- [Dev.to/JS] [A Designer’s Perspective: How To Improve Communication Between Designers And Developers](https://dev.to/loopstudioteam/a-designers-perspective-how-to-improve-communication-between-designers-and-developers-4fb5)
+- [Dev.to/JS] [How to get the order on fiverr anyone help me?](https://dev.to/muzamil00/how-to-get-the-order-on-fiverr-anyone-help-me-2i3p)
+- [Lifehacker] [What&#39;s New on Netflix in May 2022](https://lifehacker.com/whats-new-on-netflix-in-may-2022-1848818349)
 - [Dev.to/JS] [How to disable right click on web page ???](https://dev.to/shamgurav96/how-to-disable-right-click-on-web-page--6da)
 - [Dev.to/JS] [Day-70 Training At Ryaz](https://dev.to/mahin651/day-70-training-at-ryaz-1854)
 - [Dev.to/JS] [Lenny Face &lpar; ‿ &rpar; — All Text Faces Copy and Paste.](https://dev.to/stackfindover/lenny-face-all-text-faces-copy-and-paste-1am6)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Sell Your Old HomePod for Profit](https://lifehacker.com/you-should-sell-your-old-homepod-for-profit-1848817721)
 - [Dev.to/JS] [How To Learn Programming](https://dev.to/hobamohab/how-to-learn-programming-25p1)
 - [Dev.to/JS] [JWT Authentication with Access Tokens &amp; Refresh Tokens In Node JS](https://dev.to/cyberwolve/jwt-authentication-with-access-tokens-refresh-tokens-in-node-js-5aa9)
-- [Dev.to/JS] [Conditional Rendering](https://dev.to/benlimpic/conditional-rendering-37o4)
-- [Dev.to/JS] [Paracetamol.js💊| #104: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-104-explica-este-codigo-javascript-2al1)
 - [Lifehacker] [7 Hidden iPhone Keyboard Features You Probably Never Knew Existed](https://lifehacker.com/7-hidden-iphone-keyboard-features-you-probably-never-kn-1848810555)
-- [Dev.to/JS] [Using Spotify Web API with SvelteKit Endpoints to create a Now Playing component.](https://dev.to/koenraijer/using-spotify-web-api-with-sveltekit-endpoints-to-create-a-now-playing-component-24lf)
-- [Dev.to/JS] [Moving from Next to Remix](https://dev.to/asayerio_techblog/moving-from-next-to-remix-6hd)
 - [Lifehacker] [The 7 Deadly Sins of Dog Ownership](https://lifehacker.com/the-7-deadly-sins-of-dog-ownership-1848814449)
 - [Lifehacker] [How to Not Go Broke at the Ballpark This Summer](https://lifehacker.com/how-to-not-go-broke-at-the-ballpark-this-summer-1848817044)
 - [Lifehacker] [How to Grow a Natural Privacy Screen for Your Garden](https://lifehacker.com/how-to-grow-a-natural-privacy-screen-for-your-garden-1848816182)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Cable TV Resolution Looks Like Crap &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/why-your-cable-tv-resolution-looks-like-shit-and-what-1848811768)
 - [Lifehacker] [When Buying in Bulk Is Actually a Waste of Money](https://lifehacker.com/when-buying-in-bulk-is-actually-a-waste-of-money-1848811738)
 - [Lifehacker] [What Are &#39;Terpenes&#39; in Weed &lpar;and Why Do They Matter&rpar;?](https://lifehacker.com/what-are-terpenes-in-weed-and-why-do-they-matter-1848811695)
-- [Lifehacker] [Here&#39;s How Much House You Can Buy for $350K](https://lifehacker.com/heres-how-much-house-you-can-buy-for-350k-1848808926)
-- [Lifehacker] [How &lpar;and Why&rpar; to Exercise When You&#39;re High, According to Reddit](https://lifehacker.com/how-and-why-to-exercise-when-youre-high-according-to-1848792983)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
