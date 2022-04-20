@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 7 Deadly Sins of Dog Ownership](https://lifehacker.com/the-7-deadly-sins-of-dog-ownership-1848814449)
+- [Dev.to/JS] [Day 15: Completing the site basics](https://dev.to/kemystra/day-15-completing-the-site-basics-4jam)
+- [Dev.to/JS] [Build Your Own Google Like Autocomplete Using React And JavaScript](https://dev.to/gregorygaines/build-your-own-google-like-autocomplete-using-react-and-javascript-45co)
+- [Lifehacker] [How to Not Go Broke at the Ballpark This Summer](https://lifehacker.com/how-to-not-go-broke-at-the-ballpark-this-summer-1848817044)
+- [Dev.to/JS] [Front End Project Examples For Beginners👨🏻‍💻](https://dev.to/theme_selection/front-end-project-examples-for-beginners-48i7)
 - [Dev.to/JS] [Why should you learn Angular?](https://dev.to/zackryd/why-should-you-learn-angular-2kg7)
 - [Lifehacker] [How to Grow a Natural Privacy Screen for Your Garden](https://lifehacker.com/how-to-grow-a-natural-privacy-screen-for-your-garden-1848816182)
 - [Dev.to/JS] [Everything is just a scan way! Integration of Huawei Scan Kit in Books Applications](https://dev.to/hmscommunity/everything-is-just-a-scan-way-integration-of-huawei-scan-kit-in-books-applications-539n)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing the JavaScript Call Stack Visually](https://dev.to/codecupdev/introducing-the-javascript-call-stack-visually-527a)
 - [Dev.to/JS] [My first Ethereum token](https://dev.to/kuba_szw/my-first-ethereum-token-3plp)
 - [Dev.to/JS] [Ethereum ICO - Minted Crowdsale](https://dev.to/kuba_szw/ethereum-ico-minted-crowdsale-117h)
-- [Dev.to/JS] [Every web developer should be familiar with these GitHub repositories.](https://dev.to/annoh_karlgusta/every-web-developer-should-be-familiar-with-these-github-repositories-3obb)
 - [Lifehacker] [15 of the Wildest Nicholas Cage Performances, Ranked by Intensity](https://lifehacker.com/15-of-the-wildest-nicholas-cage-performances-ranked-by-1848805757)
-- [Dev.to/JS] [Finally, JavaScript is Getting Matured with ShadowRealms](https://dev.to/jigar_online/finally-javascript-is-getting-matured-with-shadowrealms-9m3)
-- [Dev.to/JS] [Android - How to do Screenshot Testing in Jetpack Compose](https://dev.to/canopassoftware/android-how-to-do-screenshot-testing-in-jetpack-compose-13pk)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
 - [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
-- [Lifehacker] [The Easiest Ways to Thicken Up a Runny Sauce](https://lifehacker.com/the-easiest-ways-to-thicken-up-a-runny-sauce-1848807195)
-- [Lifehacker] [I Guess It&#39;s Time to Talk About Testicle Tanning](https://lifehacker.com/i-guess-its-time-to-talk-about-testicle-tanning-1848807039)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
