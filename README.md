@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why should you learn Angular?](https://dev.to/zackryd/why-should-you-learn-angular-2kg7)
+- [Lifehacker] [How to Grow a Natural Privacy Screen for Your Garden](https://lifehacker.com/how-to-grow-a-natural-privacy-screen-for-your-garden-1848816182)
+- [Dev.to/JS] [Everything is just a scan way! Integration of Huawei Scan Kit in Books Applications](https://dev.to/hmscommunity/everything-is-just-a-scan-way-integration-of-huawei-scan-kit-in-books-applications-539n)
+- [Dev.to/JS] [Future Javascript: New Array Methods Coming soon](https://dev.to/smpnjn/future-javascript-new-array-methods-coming-soon-ma5)
+- [Dev.to/JS] [React Native - Vamos de review In-App?](https://dev.to/jhonywalkeer/react-native-vamos-de-review-in-app-db5)
+- [Lifehacker] [You Deserve to Roll Yourself Up a Nachorito Today](https://lifehacker.com/you-deserve-to-roll-yourself-up-a-nachorito-today-1848813756)
+- [Dev.to/JS] [All about React flushSync](https://dev.to/codingshower/all-about-react-flushsync-3k4c)
+- [Dev.to/JS] [Develop Your Own Custom Scheduling App Like myVisit](https://dev.to/itpathsolutions/develop-your-own-custom-scheduling-app-like-myvisit-37k9)
 - [Lifehacker] [What Minor Things Majorly Improved Your Sex Life?](https://lifehacker.com/what-minor-things-majorly-improved-your-sex-life-1848813909)
 - [Dev.to/JS] [Introducing the JavaScript Call Stack Visually](https://dev.to/codecupdev/introducing-the-javascript-call-stack-visually-527a)
 - [Dev.to/JS] [My first Ethereum token](https://dev.to/kuba_szw/my-first-ethereum-token-3plp)
@@ -31,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Wildest Nicholas Cage Performances, Ranked by Intensity](https://lifehacker.com/15-of-the-wildest-nicholas-cage-performances-ranked-by-1848805757)
 - [Dev.to/JS] [Finally, JavaScript is Getting Matured with ShadowRealms](https://dev.to/jigar_online/finally-javascript-is-getting-matured-with-shadowrealms-9m3)
 - [Dev.to/JS] [Android - How to do Screenshot Testing in Jetpack Compose](https://dev.to/canopassoftware/android-how-to-do-screenshot-testing-in-jetpack-compose-13pk)
-- [Dev.to/JS] [What&#39;s new with React 18](https://dev.to/appsignal/whats-new-with-react-18-3pnm)
-- [Dev.to/JS] [Handle real-time application notifications in Reactjs](https://dev.to/hackmamba/handle-real-time-application-notifications-in-reactjs-p03)
-- [Dev.to/JS] [React 18, Next 12.1 and other Releases - Frontend News #24](https://dev.to/frontend_house/react-18-next-121-and-other-releases-frontend-news-24-4c86)
-- [Dev.to/JS] [What are Vue Storefronts and top benefits that you can not ignore!](https://dev.to/arohi/what-are-vue-storefronts-and-top-benefits-that-you-can-not-ignore-10n3)
-- [Dev.to/JS] [VideoCall App With WebRTC and Socket.IO](https://dev.to/hr21don/videocall-app-with-webrtc-and-socketio-477)
-- [Dev.to/JS] [Configure Pre-commit Hook Prettier in your React Application in 1 Minute](https://dev.to/koladev/configure-pre-commit-hook-prettier-in-your-react-application-in-1-minute-2lc9)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
 - [Lifehacker] [The Easiest Ways to Thicken Up a Runny Sauce](https://lifehacker.com/the-easiest-ways-to-thicken-up-a-runny-sauce-1848807195)
 - [Lifehacker] [I Guess It&#39;s Time to Talk About Testicle Tanning](https://lifehacker.com/i-guess-its-time-to-talk-about-testicle-tanning-1848807039)
-- [Lifehacker] [You Should Try ‘Zest,’ the Duolingo of Cooking](https://lifehacker.com/you-should-try-zest-the-duolingo-of-cooking-1848806065)
-- [Lifehacker] [Groceries You Should Never Buy at Walmart](https://lifehacker.com/groceries-you-should-never-buy-at-walmart-1848806652)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
