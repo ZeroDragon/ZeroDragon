@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What to learn in 2022](https://dev.to/rsp/what-to-learn-in-2022-2h3p)
+- [Dev.to/JS] [Create a Drag-and-Drop Zone in React with react-dropzone](https://dev.to/asayerio_techblog/create-a-drag-and-drop-zone-in-react-with-react-dropzone-422e)
+- [Dev.to/JS] [React Pre-Requisite: JS Must Know Concepts Before Learning React](https://dev.to/shahabbukhari/react-pre-requisite-js-must-know-concepts-before-learning-react-2d08)
 - [Dev.to/JS] [Alternative to parseInt&lpar;&rpar; - input.valueAsNumber](https://dev.to/aretecore/alternative-to-parseint-inputvalueasnumber-12l)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
@@ -41,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Block Ads on Spotify](https://lifehacker.com/how-to-block-ads-on-spotify-1848811961)
 - [Lifehacker] [What Your Date’s FEC Filings Can Tell You](https://lifehacker.com/what-your-date-s-fec-filings-can-tell-you-1848811627)
 - [Dev.to/JS] [Day-69 Training At Ryaz](https://dev.to/mahin651/day-69-training-at-ryaz-14d)
-- [Dev.to/JS] [Paracetamol.js💊| #103: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-103-explica-este-codigo-javascript-1ije)
-- [Dev.to/JS] [map&lpar;&rpar;, filter&lpar;&rpar;, forEach&lpar;&rpar; array methods in Javascript](https://dev.to/nameismani/array-methods-map-filter-foreach-in-javascript-3m08)
-- [Dev.to/JS] [useReducer Hook](https://dev.to/daniloraisi/usereducer-hook-1fpc)
 - [Lifehacker] [Why You Should Stop Growing Tomatoes and Give Peas a Chance](https://lifehacker.com/why-you-should-stop-growing-tomatoes-and-give-peas-a-ch-1848807761)
 - [Lifehacker] [Why Your Cable TV Resolution Looks Like Crap &lpar;and What You Can Do About It&rpar;](https://lifehacker.com/why-your-cable-tv-resolution-looks-like-shit-and-what-1848811768)
 - [Lifehacker] [When Buying in Bulk Is Actually a Waste of Money](https://lifehacker.com/when-buying-in-bulk-is-actually-a-waste-of-money-1848811738)
