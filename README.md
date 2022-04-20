@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hydration is Pure Overhead](https://dev.to/builderio/hydration-is-pure-overhead-33g7)
+- [Dev.to/JS] [How to Upgrade to React 18](https://dev.to/coderpad/how-to-upgrade-to-react-18-424h)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
 - [Dev.to/JS] [dev.to app react native clone to improve my skill - blog diary](https://dev.to/gismo1337/devto-app-react-native-clone-to-improve-my-skill-blog-diary-29g6)
@@ -42,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Designer’s Perspective: How To Improve Communication Between Designers And Developers](https://dev.to/loopstudioteam/a-designers-perspective-how-to-improve-communication-between-designers-and-developers-4fb5)
 - [Dev.to/JS] [How to get the order on fiverr anyone help me?](https://dev.to/muzamil00/how-to-get-the-order-on-fiverr-anyone-help-me-2i3p)
 - [Lifehacker] [What&#39;s New on Netflix in May 2022](https://lifehacker.com/whats-new-on-netflix-in-may-2022-1848818349)
-- [Dev.to/JS] [How to disable right click on web page ???](https://dev.to/shamgurav96/how-to-disable-right-click-on-web-page--6da)
-- [Dev.to/JS] [Day-70 Training At Ryaz](https://dev.to/mahin651/day-70-training-at-ryaz-1854)
 - [Lifehacker] [Everything You’ve Ever Wondered About Weed](https://lifehacker.com/everything-you-ve-ever-wondered-about-weed-1848814973)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2022](https://lifehacker.com/whats-new-on-disney-in-may-2022-1848817908)
 - [Lifehacker] [You Should Sell Your Old HomePod for Profit](https://lifehacker.com/you-should-sell-your-old-homepod-for-profit-1848817721)
