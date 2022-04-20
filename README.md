@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Astro JS Sass Styling: SCSS Astro Setup](https://dev.to/askrodney/astro-js-sass-styling-scss-astro-setup-52l7)
+- [Dev.to/JS] [Create Minesweeper in JavaScript](https://dev.to/bekbrace/create-minesweeper-in-javascript-3420)
 - [Dev.to/JS] [eLearning App Development](https://dev.to/hiwilliam2/elearning-app-development-10b8)
 - [Dev.to/JS] [How to Build a Hospital Record App with NextJs and Strapi](https://dev.to/strapi/how-to-build-a-hospital-record-app-with-nextjs-and-strapi-fo5)
 - [Dev.to/JS] [Improve React App Performance - Intro-[ Part 1 ]](https://dev.to/rupeshpadhye/improve-react-app-performance-intro-part-1--528k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prima Weight Loss Capsules - Fat Loss Reviews, Benefits, Complaints And Results?](https://dev.to/primaweightlo16/prima-weight-loss-capsules-fat-loss-reviews-benefits-complaints-and-results-37dj)
 - [Dev.to/JS] [Age concerning: the cliff](https://dev.to/adam_cyclones/age-concerning-the-cliff-2nhp)
 - [Dev.to/JS] [This Week In React #102: Lexical, Mitosis, Remix, Next.js, Redux, Storybook, TurboModules, Node 18, HTTP 103, CSS :has&lpar;&rpar;...](https://dev.to/sebastienlorber/this-week-in-react-102-lexical-mitosis-remix-nextjs-redux-storybook-turbomodules-node-18-http-103-css-has-108j)
-- [Dev.to/JS] [Introduction to SolidJS for React developers](https://dev.to/phongnn/introduction-to-solidjs-for-react-developers-5ab0)
-- [Dev.to/JS] [Create Laravel 8 404 Custom Page Example](https://dev.to/codeanddeploy/create-laravel-8-404-custom-page-example-38fp)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
