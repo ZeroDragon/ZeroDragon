@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Age concerning: the cliff](https://dev.to/adam_cyclones/age-concerning-the-cliff-2nhp)
+- [Dev.to/JS] [This Week In React #102: Lexical, Mitosis, Remix, Next.js, Redux, Storybook, TurboModules, Node 18, HTTP 103, CSS :has&lpar;&rpar;...](https://dev.to/sebastienlorber/this-week-in-react-102-lexical-mitosis-remix-nextjs-redux-storybook-turbomodules-node-18-http-103-css-has-108j)
+- [Dev.to/JS] [Introduction to SolidJS for React developers](https://dev.to/phongnn/introduction-to-solidjs-for-react-developers-5ab0)
+- [Dev.to/JS] [Create Laravel 8 404 Custom Page Example](https://dev.to/codeanddeploy/create-laravel-8-404-custom-page-example-38fp)
 - [Dev.to/JS] [How to Check if Image is Loaded or not in jQuery?](https://dev.to/codeanddeploy/how-to-check-if-image-is-loaded-or-not-in-jquery-15g9)
 - [Dev.to/JS] [Laravel 8 Ajax Example Step by Step Tutorial](https://dev.to/codeanddeploy/laravel-8-ajax-example-step-by-step-tutorial-4ic0)
 - [Dev.to/JS] [New in Node.js v18](https://dev.to/siddharthshyniben/new-in-nodejs-v18-1lmf)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte vs Vue.js: a sure-shot comparison](https://dev.to/arohi/svelte-vs-vuejs-a-sure-shot-comparison-3jec)
 - [Dev.to/JS] [How I used Hashnode as a CMS](https://dev.to/nibodhdaware/how-i-used-hashnode-as-a-cms-2k3n)
 - [Dev.to/JS] [Javascript Binary Tree data structure](https://dev.to/bvnkumar/javascript-binary-tree-data-structure-4hec)
-- [Dev.to/JS] [How to Create Random Quote Generator in JavaScript](https://dev.to/shantanu_jana/how-to-create-random-quote-generator-in-javascript-i4a)
-- [Dev.to/JS] [JavaScript is a little weird!!](https://dev.to/umangm05/javascript-is-a-little-weird-47pf)
-- [Dev.to/JS] [New Post](https://dev.to/fabioalcocer/new-post-1ohe)
-- [Dev.to/JS] [Node 18 is now available!!! 😎](https://dev.to/jordandev/node-18-is-now-available-3ld6)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
