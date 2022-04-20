@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create Random Quote Generator in JavaScript](https://dev.to/shantanu_jana/how-to-create-random-quote-generator-in-javascript-i4a)
+- [Dev.to/JS] [JavaScript is a little weird!!](https://dev.to/umangm05/javascript-is-a-little-weird-47pf)
+- [Dev.to/JS] [New Post](https://dev.to/fabioalcocer/new-post-1ohe)
 - [Dev.to/JS] [Node 18 is now available!!! 😎](https://dev.to/jordandev/node-18-is-now-available-3ld6)
 - [Dev.to/JS] [A small alternative of fingerprint.js, Broprint.js](https://dev.to/rajeshroyal/a-small-alternative-of-fingerprintjs-broprintjs-ia7)
 - [Dev.to/JS] [NODE JS Programming](https://dev.to/fshinfotech/node-js-programming-5gjp)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Por que Svelte? A próxima tendência em frameworks web.](https://dev.to/marcell0lopes/por-que-svelte-a-proxima-tendencia-em-frameworks-web-kbi)
 - [Dev.to/JS] [What to learn in 2022](https://dev.to/rsp/what-to-learn-in-2022-2h3p)
 - [Dev.to/JS] [Create a Drag-and-Drop Zone in React with react-dropzone](https://dev.to/asayerio_techblog/create-a-drag-and-drop-zone-in-react-with-react-dropzone-422e)
-- [Dev.to/JS] [React Pre-Requisite: JS Must Know Concepts Before Learning React](https://dev.to/shahabbukhari/react-pre-requisite-js-must-know-concepts-before-learning-react-2d08)
-- [Dev.to/JS] [Alternative to parseInt&lpar;&rpar; - input.valueAsNumber](https://dev.to/aretecore/alternative-to-parseint-inputvalueasnumber-12l)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
-- [Dev.to/JS] [The path to become a web developer](https://dev.to/dimitarstbc/the-path-to-become-a-web-developer-2jj7)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
 - [Lifehacker] [How to Spot Bad Weed](https://lifehacker.com/how-to-spot-bad-weed-1848813035)
 - [Lifehacker] [Netflix Has Secret Codes](https://lifehacker.com/netflix-has-secret-codes-1848812894)
