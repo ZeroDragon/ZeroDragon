@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node 18 is now available!!! 😎](https://dev.to/jordandev/node-18-is-now-available-3ld6)
+- [Dev.to/JS] [A small alternative of fingerprint.js, Broprint.js](https://dev.to/rajeshroyal/a-small-alternative-of-fingerprintjs-broprintjs-ia7)
+- [Dev.to/JS] [NODE JS Programming](https://dev.to/fshinfotech/node-js-programming-5gjp)
+- [Dev.to/JS] [Software Development](https://dev.to/goretoedu/software-development-14j2)
+- [Dev.to/JS] [K1 Keto Life - Fat Burner Solution, Pills, Price, Results And Side Effects?](https://dev.to/k1ketolifeinfo/k1-keto-life-fat-burner-solution-pills-price-results-and-side-effects-3g8a)
 - [Dev.to/JS] [Criando uma AWS lambda com Serverless framework](https://dev.to/janapc/criando-uma-aws-lambda-com-serverless-framework-54ph)
 - [Dev.to/JS] [Por que Svelte? A próxima tendência em frameworks web.](https://dev.to/marcell0lopes/por-que-svelte-a-proxima-tendencia-em-frameworks-web-kbi)
 - [Dev.to/JS] [What to learn in 2022](https://dev.to/rsp/what-to-learn-in-2022-2h3p)
@@ -32,16 +37,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Dev.to/JS] [The path to become a web developer](https://dev.to/dimitarstbc/the-path-to-become-a-web-developer-2jj7)
-- [Dev.to/JS] [React - Primeiros passos](https://dev.to/carvalhodanielg/react-2db4)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
 - [Lifehacker] [How to Spot Bad Weed](https://lifehacker.com/how-to-spot-bad-weed-1848813035)
 - [Lifehacker] [Netflix Has Secret Codes](https://lifehacker.com/netflix-has-secret-codes-1848812894)
-- [Dev.to/JS] [WebDev 101: How to use Node, NPM, and Yarn](https://dev.to/this-is-learning/webdev-101-how-to-use-npm-and-yarn-48kc)
-- [Dev.to/JS] [You Don&#39;t Need a CS Degree to Land a Web Development Job](https://dev.to/braydoncoyer/you-dont-need-a-cs-degree-to-land-a-web-development-job-1c5n)
 - [Lifehacker] [Steam Your Way to Spot-Free Wine Glasses](https://lifehacker.com/steam-your-way-to-spot-free-wine-glasses-1848812957)
-- [Dev.to/JS] [Building a File directory display component using React](https://dev.to/vigneshiyergithub/building-a-file-directory-display-component-using-react-2ong)
 - [Lifehacker] [What You Should Know About Mask Mandates on Public Transportation](https://lifehacker.com/what-you-should-know-about-mask-mandates-on-public-tran-1848812526)
-- [Dev.to/JS] [How to use &#39;useMutation&#39; in React Query](https://dev.to/code_with_aravind/how-to-use-usemutation-in-react-query-5gdo)
 - [Lifehacker] [How to Block Ads on Spotify](https://lifehacker.com/how-to-block-ads-on-spotify-1848811961)
 - [Lifehacker] [What Your Date’s FEC Filings Can Tell You](https://lifehacker.com/what-your-date-s-fec-filings-can-tell-you-1848811627)
 - [Lifehacker] [Why You Should Stop Growing Tomatoes and Give Peas a Chance](https://lifehacker.com/why-you-should-stop-growing-tomatoes-and-give-peas-a-ch-1848807761)
