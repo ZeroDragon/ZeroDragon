@@ -23,9 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
 - [Dev.to/JS] [dev.to app react native clone to improve my skill - blog diary](https://dev.to/gismo1337/devto-app-react-native-clone-to-improve-my-skill-blog-diary-29g6)
-- [Dev.to/JS] [Need your opinion](https://dev.to/saifessam/need-your-opinion-5bkm)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
 - [Lifehacker] [Every Store You Can Get 3% Cash Back With Your Apple Card](https://lifehacker.com/every-store-you-can-get-3-cash-back-with-your-apple-ca-1848818805)
 - [Dev.to/JS] [Proxy in JS: what the hell?](https://dev.to/romaintrotard/proxy-in-js-what-the-hell-19d0)
@@ -43,6 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get the order on fiverr anyone help me?](https://dev.to/muzamil00/how-to-get-the-order-on-fiverr-anyone-help-me-2i3p)
 - [Lifehacker] [What&#39;s New on Netflix in May 2022](https://lifehacker.com/whats-new-on-netflix-in-may-2022-1848818349)
 - [Dev.to/JS] [How to disable right click on web page ???](https://dev.to/shamgurav96/how-to-disable-right-click-on-web-page--6da)
+- [Dev.to/JS] [Day-70 Training At Ryaz](https://dev.to/mahin651/day-70-training-at-ryaz-1854)
 - [Lifehacker] [Everything You’ve Ever Wondered About Weed](https://lifehacker.com/everything-you-ve-ever-wondered-about-weed-1848814973)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2022](https://lifehacker.com/whats-new-on-disney-in-may-2022-1848817908)
 - [Lifehacker] [You Should Sell Your Old HomePod for Profit](https://lifehacker.com/you-should-sell-your-old-homepod-for-profit-1848817721)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Spot Bad Weed](https://lifehacker.com/how-to-spot-bad-weed-1848813035)
 - [Lifehacker] [Netflix Has Secret Codes](https://lifehacker.com/netflix-has-secret-codes-1848812894)
 - [Lifehacker] [Steam Your Way to Spot-Free Wine Glasses](https://lifehacker.com/steam-your-way-to-spot-free-wine-glasses-1848812957)
-- [Lifehacker] [What You Should Know About Mask Mandates on Public Transportation](https://lifehacker.com/what-you-should-know-about-mask-mandates-on-public-tran-1848812526)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
