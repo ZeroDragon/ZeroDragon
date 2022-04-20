@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React, Vue and Svelte: Comparing Radio Binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-radio-binding-57eo)
+- [Dev.to/JS] [Prima Weight Loss Capsules - Fat Loss Reviews, Benefits, Complaints And Results?](https://dev.to/primaweightlo16/prima-weight-loss-capsules-fat-loss-reviews-benefits-complaints-and-results-37dj)
 - [Dev.to/JS] [Age concerning: the cliff](https://dev.to/adam_cyclones/age-concerning-the-cliff-2nhp)
 - [Dev.to/JS] [This Week In React #102: Lexical, Mitosis, Remix, Next.js, Redux, Storybook, TurboModules, Node 18, HTTP 103, CSS :has&lpar;&rpar;...](https://dev.to/sebastienlorber/this-week-in-react-102-lexical-mitosis-remix-nextjs-redux-storybook-turbomodules-node-18-http-103-css-has-108j)
 - [Dev.to/JS] [Introduction to SolidJS for React developers](https://dev.to/phongnn/introduction-to-solidjs-for-react-developers-5ab0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MOBILE APPLICATIONS FOR YOUR BUSINESS OPERATIONS](https://dev.to/pixelstudios83/mobile-applications-for-your-business-operations-n2h)
 - [Dev.to/JS] [Unstated: a light &amp; simple state management library for React](https://dev.to/aexol-studio/unstated-a-light-simple-state-management-library-for-react-3b4e)
 - [Dev.to/JS] [Svelte vs Vue.js: a sure-shot comparison](https://dev.to/arohi/svelte-vs-vuejs-a-sure-shot-comparison-3jec)
-- [Dev.to/JS] [How I used Hashnode as a CMS](https://dev.to/nibodhdaware/how-i-used-hashnode-as-a-cms-2k3n)
-- [Dev.to/JS] [Javascript Binary Tree data structure](https://dev.to/bvnkumar/javascript-binary-tree-data-structure-4hec)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
