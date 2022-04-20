@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Sell Your Old HomePod for Profit](https://lifehacker.com/you-should-sell-your-old-homepod-for-profit-1848817721)
+- [Dev.to/JS] [How To Learn Programming](https://dev.to/hobamohab/how-to-learn-programming-25p1)
+- [Dev.to/JS] [JWT Authentication with Access Tokens &amp; Refresh Tokens In Node JS](https://dev.to/cyberwolve/jwt-authentication-with-access-tokens-refresh-tokens-in-node-js-5aa9)
+- [Dev.to/JS] [Conditional Rendering](https://dev.to/benlimpic/conditional-rendering-37o4)
+- [Dev.to/JS] [Paracetamol.js💊| #104: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-104-explica-este-codigo-javascript-2al1)
+- [Lifehacker] [7 Hidden iPhone Keyboard Features You Probably Never Knew Existed](https://lifehacker.com/7-hidden-iphone-keyboard-features-you-probably-never-kn-1848810555)
+- [Dev.to/JS] [Using Spotify Web API with SvelteKit Endpoints to create a Now Playing component.](https://dev.to/koenraijer/using-spotify-web-api-with-sveltekit-endpoints-to-create-a-now-playing-component-24lf)
+- [Dev.to/JS] [Moving from Next to Remix](https://dev.to/asayerio_techblog/moving-from-next-to-remix-6hd)
 - [Lifehacker] [The 7 Deadly Sins of Dog Ownership](https://lifehacker.com/the-7-deadly-sins-of-dog-ownership-1848814449)
 - [Dev.to/JS] [Day 15: Completing the site basics](https://dev.to/kemystra/day-15-completing-the-site-basics-4jam)
 - [Dev.to/JS] [Build Your Own Google Like Autocomplete Using React And JavaScript](https://dev.to/gregorygaines/build-your-own-google-like-autocomplete-using-react-and-javascript-45co)
@@ -32,14 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Grow a Natural Privacy Screen for Your Garden](https://lifehacker.com/how-to-grow-a-natural-privacy-screen-for-your-garden-1848816182)
 - [Dev.to/JS] [Everything is just a scan way! Integration of Huawei Scan Kit in Books Applications](https://dev.to/hmscommunity/everything-is-just-a-scan-way-integration-of-huawei-scan-kit-in-books-applications-539n)
 - [Dev.to/JS] [Future Javascript: New Array Methods Coming soon](https://dev.to/smpnjn/future-javascript-new-array-methods-coming-soon-ma5)
-- [Dev.to/JS] [React Native - Vamos de review In-App?](https://dev.to/jhonywalkeer/react-native-vamos-de-review-in-app-db5)
 - [Lifehacker] [You Deserve to Roll Yourself Up a Nachorito Today](https://lifehacker.com/you-deserve-to-roll-yourself-up-a-nachorito-today-1848813756)
-- [Dev.to/JS] [All about React flushSync](https://dev.to/codingshower/all-about-react-flushsync-3k4c)
-- [Dev.to/JS] [Develop Your Own Custom Scheduling App Like myVisit](https://dev.to/itpathsolutions/develop-your-own-custom-scheduling-app-like-myvisit-37k9)
 - [Lifehacker] [What Minor Things Majorly Improved Your Sex Life?](https://lifehacker.com/what-minor-things-majorly-improved-your-sex-life-1848813909)
-- [Dev.to/JS] [Introducing the JavaScript Call Stack Visually](https://dev.to/codecupdev/introducing-the-javascript-call-stack-visually-527a)
-- [Dev.to/JS] [My first Ethereum token](https://dev.to/kuba_szw/my-first-ethereum-token-3plp)
-- [Dev.to/JS] [Ethereum ICO - Minted Crowdsale](https://dev.to/kuba_szw/ethereum-ico-minted-crowdsale-117h)
 - [Lifehacker] [15 of the Wildest Nicholas Cage Performances, Ranked by Intensity](https://lifehacker.com/15-of-the-wildest-nicholas-cage-performances-ranked-by-1848805757)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How &lpar;and Why&rpar; to Exercise When You&#39;re High, According to Reddit](https://lifehacker.com/how-and-why-to-exercise-when-youre-high-according-to-1848792983)
 - [Lifehacker] [14 of the Best &lpar;and Worst&rpar; Ways to Legally Get High](https://lifehacker.com/14-of-the-best-and-worst-ways-to-legally-get-high-1848808333)
 - [Lifehacker] [You Should Waffle Some French Toast](https://lifehacker.com/you-should-waffle-some-french-toast-1848807993)
-- [Lifehacker] [Is It Ever Okay to Give Your Partner an Ultimatum?](https://lifehacker.com/heres-when-its-okay-to-give-your-partner-an-ultimatum-1848807181)
-- [Lifehacker] [5 of the Best Games for Non-Gamers](https://lifehacker.com/5-of-the-best-games-for-non-gamers-1848806771)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
