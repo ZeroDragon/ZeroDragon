@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Hooks Explained](https://dev.to/sanjaysinghrajpoot/react-hooks-explained-4gf3)
 - [Dev.to/JS] [What&#39;s new in the Node.js v18.x release?](https://dev.to/devsmitra/whats-new-in-the-nodejs-v18x-release-43f2)
 - [Dev.to/JS] [Omni Male Enhancement - Read Shocking Truth Reveal Complaints and Warnings?](https://dev.to/omnimaleinfo/omni-male-enhancement-read-shocking-truth-reveal-complaints-and-warnings-2na8)
 - [Dev.to/JS] [Tasty Vanilla JS - 4 tips](https://dev.to/jesperhoy/tasty-vanilla-js-4-tips-1afd)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Trim Clinical Keto &lpar;U.S Updated&rpar; Reviews: Read All Secret Facts?](https://dev.to/trimclinicalget/trim-clinical-keto-us-updated-reviews-read-all-secret-facts-4l39)
 - [Dev.to/JS] [Situs Slot Online](https://dev.to/star8eto/situs-slot-online-ae9)
 - [Dev.to/JS] [Hoisting with var](https://dev.to/sujit510/hoisting-with-var-1o5e)
-- [Dev.to/JS] [Importance of Time Management You Should Know](https://dev.to/calltutors/importance-of-time-management-you-should-know-3lfo)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
