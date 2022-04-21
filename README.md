@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
+- [Dev.to/JS] [4 must-know JavaScript frameworks in 2022](https://dev.to/richkurtzman/4-must-know-javascript-frameworks-in-2022-3nef)
+- [Dev.to/JS] [[Solved] Supabase &#39;insert&lpar;&rpar;&#39; not inserting table record](https://dev.to/shehanat/solved-supabase-insert-not-inserting-table-record-6n7)
+- [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
+- [Dev.to/JS] [Help me please!](https://dev.to/yongdev/help-me-please-ndi)
+- [Dev.to/JS] [Why you should use Typescript now](https://dev.to/diogorodrigues/why-you-should-use-typescript-now-1h5p)
+- [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
 - [Dev.to/JS] [Paracetamol.js💊| #105: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-104-explica-este-codigo-javascript-3f90)
 - [Lifehacker] [How to Know If a Google Chrome Extension Is Safe to Use](https://lifehacker.com/how-to-know-if-a-google-chrome-extension-is-safe-to-use-1848824700)
 - [Lifehacker] [Hurdle is Like Five Wordles in One](https://lifehacker.com/hurdle-is-like-five-wordles-in-one-1848823944)
@@ -36,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Record Calls on Your Android Even Though Google Doesn&#39;t Want You To](https://lifehacker.com/how-to-record-calls-on-your-android-even-though-google-1848823180)
 - [Dev.to/JS] [Callbacks](https://dev.to/yo08315171/callbacks-5936)
 - [Dev.to/JS] [Optionally control state from parent component in React](https://dev.to/subbiahc/optionally-control-state-from-parent-component-in-react-25l3)
-- [Dev.to/JS] [New NFT Landing Page Template](https://dev.to/kumard3/new-nft-landing-page-template-31b9)
-- [Dev.to/JS] [Shallow Copy vs Deep Copy in Javascript](https://dev.to/nagi/shallow-copy-vs-deep-copy-in-javascript-53d1)
 - [Lifehacker] [Why You Should Add Chicory to Your Coffee](https://lifehacker.com/why-you-should-add-chicory-to-your-coffee-1848822988)
-- [Dev.to/JS] [How the TypeScript Omit Type Works](https://dev.to/smpnjn/how-the-typescript-omit-type-works-56jl)
-- [Dev.to/JS] [React components](https://dev.to/fernand197/react-components-5fi)
 - [Lifehacker] [Five Places You Can Still Get a Decent Meal for Under $10](https://lifehacker.com/five-places-you-can-still-get-a-decent-meal-for-under-1848823346)
 - [Lifehacker] [15 of the Easiest Perennials to Grow](https://lifehacker.com/15-of-the-easiest-perennials-to-grow-1848823371)
 - [Lifehacker] [10 Actually Useful Life Lessons Satanism Can Teach Us](https://lifehacker.com/10-actually-useful-life-lessons-satanism-can-teach-us-1848822256)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Store You Can Get 3% Cash Back With Your Apple Card](https://lifehacker.com/every-store-you-can-get-3-cash-back-with-your-apple-ca-1848818805)
 - [Lifehacker] [Are Coachella, Lollapalooza, and Other Music Festivals Really Worth the Price?](https://lifehacker.com/are-coachella-lollapalooza-and-other-music-festivals-1848818996)
 - [Lifehacker] [What&#39;s New on Hulu in May 2022](https://lifehacker.com/whats-new-on-hulu-in-may-2022-1848818003)
-- [Lifehacker] [How to Save Your Career After Screwing Up at Work](https://lifehacker.com/how-to-save-your-career-after-screwing-up-at-work-1848818330)
-- [Lifehacker] [5 Easy Ways to Improve Your Gmail Inbox Right Now](https://lifehacker.com/5-easy-ways-to-improve-your-gmail-inbox-right-now-1848818208)
-- [Lifehacker] [What&#39;s New on Netflix in May 2022](https://lifehacker.com/whats-new-on-netflix-in-may-2022-1848818349)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
