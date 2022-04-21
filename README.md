@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Cheap, Easy, High-Protein Meals, According to Reddit](https://lifehacker.com/10-cheap-easy-high-protein-meals-according-to-reddit-1848819522)
+- [Dev.to/JS] [JavaScript Basics and Cheat Sheet](https://dev.to/sm0ke/javascript-basics-and-cheat-sheet-o39)
+- [Dev.to/JS] [https://tiger-woods-cbd-gummies-reviews.jimdosite.com/](https://dev.to/tigerwoodscbd/httpstiger-woods-cbd-gummies-reviewsjimdositecom-4eli)
 - [Dev.to/JS] [React Hooks Explained](https://dev.to/sanjaysinghrajpoot/react-hooks-explained-4gf3)
 - [Dev.to/JS] [What&#39;s new in the Node.js v18.x release?](https://dev.to/devsmitra/whats-new-in-the-nodejs-v18x-release-43f2)
 - [Dev.to/JS] [Omni Male Enhancement - Read Shocking Truth Reveal Complaints and Warnings?](https://dev.to/omnimaleinfo/omni-male-enhancement-read-shocking-truth-reveal-complaints-and-warnings-2na8)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Journey of becoming Full Stack Web Developer](https://dev.to/ac3kill3r/journey-of-becoming-full-stack-web-developer-20ij)
 - [Dev.to/JS] [24 Things You Might Be Doing Wrong In Website Testing!](https://dev.to/lambdatest/24-things-you-might-be-doing-wrong-in-website-testing-4bad)
 - [Dev.to/JS] [Trim Clinical Keto &lpar;U.S Updated&rpar; Reviews: Read All Secret Facts?](https://dev.to/trimclinicalget/trim-clinical-keto-us-updated-reviews-read-all-secret-facts-4l39)
-- [Dev.to/JS] [Situs Slot Online](https://dev.to/star8eto/situs-slot-online-ae9)
-- [Dev.to/JS] [Hoisting with var](https://dev.to/sujit510/hoisting-with-var-1o5e)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
 - [Lifehacker] [How to Spot Bad Weed](https://lifehacker.com/how-to-spot-bad-weed-1848813035)
 - [Lifehacker] [Netflix Has Secret Codes](https://lifehacker.com/netflix-has-secret-codes-1848812894)
-- [Lifehacker] [Steam Your Way to Spot-Free Wine Glasses](https://lifehacker.com/steam-your-way-to-spot-free-wine-glasses-1848812957)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
