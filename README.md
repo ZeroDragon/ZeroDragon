@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Importance of Time Management You Should Know](https://dev.to/calltutors/importance-of-time-management-you-should-know-3lfo)
 - [Dev.to/JS] [Web Scrapping with Python](https://dev.to/code_with_ali/web-scrapping-with-python-2p9n)
 - [Dev.to/JS] [NodeJS with ExpressJS and TypeScript part 2.](https://dev.to/jordandev/nodejs-with-expressjs-and-typescript-part-2-40lk)
 - [Dev.to/JS] [Tech Hacks discovered dailly](https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [dev.to app react native clone to improve my skill - blog diary](https://dev.to/gismo1337/devto-app-react-native-clone-to-improve-my-skill-blog-diary-29g6)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
 - [Lifehacker] [Every Store You Can Get 3% Cash Back With Your Apple Card](https://lifehacker.com/every-store-you-can-get-3-cash-back-with-your-apple-ca-1848818805)
-- [Dev.to/JS] [Proxy in JS: what the hell?](https://dev.to/romaintrotard/proxy-in-js-what-the-hell-19d0)
 - [Lifehacker] [Are Coachella, Lollapalooza, and Other Music Festivals Really Worth the Price?](https://lifehacker.com/are-coachella-lollapalooza-and-other-music-festivals-1848818996)
 - [Lifehacker] [What&#39;s New on Hulu in May 2022](https://lifehacker.com/whats-new-on-hulu-in-may-2022-1848818003)
 - [Lifehacker] [How to Save Your Career After Screwing Up at Work](https://lifehacker.com/how-to-save-your-career-after-screwing-up-at-work-1848818330)
