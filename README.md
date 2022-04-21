@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mastering CSS Transitions with React 18](https://dev.to/asayerio_techblog/mastering-css-transitions-with-react-18-4519)
+- [Dev.to/JS] [Javascript 1O1 series: Scopes and Execution Contexts.](https://dev.to/osam1010/javascript-1o1-series-scopes-and-execution-contexts-gki)
+- [Dev.to/JS] [What&#39;s next step after HTML, CSS and JS?](https://dev.to/fabiodeandrade/whats-next-step-after-html-css-and-js-kh8)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Dev.to/JS] [4 must-know JavaScript frameworks in 2022](https://dev.to/richkurtzman/4-must-know-javascript-frameworks-in-2022-3nef)
 - [Dev.to/JS] [[Solved] Supabase &#39;insert&lpar;&rpar;&#39; not inserting table record](https://dev.to/shehanat/solved-supabase-insert-not-inserting-table-record-6n7)
@@ -35,14 +38,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hurdle is Like Five Wordles in One](https://lifehacker.com/hurdle-is-like-five-wordles-in-one-1848823944)
 - [Dev.to/JS] [GeoSearch with Bing Maps and Rails](https://dev.to/timnans/geosearch-with-bing-maps-and-rails-2o3l)
 - [Lifehacker] [The Best Way to Care for Your Cast Iron Is to Actually Use It](https://lifehacker.com/the-best-way-to-care-for-your-cast-iron-is-to-actually-1848824476)
-- [Dev.to/JS] [RxJS: Manage Subscriptions Declaratively](https://dev.to/scr2em/rxjs-manage-subscriptions-declaratively-3n2m)
+- [Dev.to/JS] [Angular: Manage RxJS Subscriptions Declaratively](https://dev.to/scr2em/rxjs-manage-subscriptions-declaratively-3n2m)
 - [Dev.to/JS] [Mentoria para iniciantes em programação](https://dev.to/bendevoficial/mentoria-para-iniciantes-em-programacao-2ioh)
 - [Lifehacker] [The Easiest Ways to Install a Corner Shelf in Your Shower](https://lifehacker.com/the-easiest-ways-to-install-a-corner-shelf-in-your-show-1848824161)
 - [Dev.to/JS] [Marko: Compiling Fine-Grained Reactivity](https://dev.to/ryansolid/marko-compiling-fine-grained-reactivity-4lk4)
-- [Dev.to/JS] [Day-71 Training at ryas](https://dev.to/mahin651/day-71-training-at-ryas-1mpp)
 - [Lifehacker] [How to Record Calls on Your Android Even Though Google Doesn&#39;t Want You To](https://lifehacker.com/how-to-record-calls-on-your-android-even-though-google-1848823180)
-- [Dev.to/JS] [Callbacks](https://dev.to/yo08315171/callbacks-5936)
-- [Dev.to/JS] [Optionally control state from parent component in React](https://dev.to/subbiahc/optionally-control-state-from-parent-component-in-react-25l3)
 - [Lifehacker] [Why You Should Add Chicory to Your Coffee](https://lifehacker.com/why-you-should-add-chicory-to-your-coffee-1848822988)
 - [Lifehacker] [Five Places You Can Still Get a Decent Meal for Under $10](https://lifehacker.com/five-places-you-can-still-get-a-decent-meal-for-under-1848823346)
 - [Lifehacker] [15 of the Easiest Perennials to Grow](https://lifehacker.com/15-of-the-easiest-perennials-to-grow-1848823371)
