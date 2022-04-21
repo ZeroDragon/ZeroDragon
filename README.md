@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 16: Final SASS touch-up](https://dev.to/kemystra/day-16-final-sass-touch-up-4655)
+- [Dev.to/JS] [Schedule / Timeline for React with Planby 2.0 🚀](https://dev.to/kozerkarol/schedule-timeline-for-react-with-planby-20-1m23)
+- [Lifehacker] [This Stretching Routine Actually Made Me More Flexible](https://lifehacker.com/this-stretching-routine-actually-made-me-more-flexible-1848820923)
 - [Lifehacker] [Canned Potatoes Were Made for the Air Fryer](https://lifehacker.com/canned-potatoes-were-made-for-the-air-fryer-1848821489)
 - [Dev.to/JS] [The OtoReact RHTML framework](https://dev.to/pjdebruin64/the-otoreact-rhtml-framework-1e6)
 - [Lifehacker] [Should You Insure Any of Your Body Parts?](https://lifehacker.com/should-you-insure-any-of-your-body-parts-1848820759)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript and React Fundamentals Quiz](https://dev.to/gregpetropoulos/javascript-and-react-fundamentals-quiz-4ejc)
 - [Dev.to/JS] [JavaScript Data type &amp; Structure](https://dev.to/jihan_jashim/javascript-data-type-structure-4e8k)
 - [Dev.to/JS] [A Tour Through JavaScript Arrays With Ten Methods Beginners Should Know](https://dev.to/codecupdev/a-tour-through-javascript-arrays-with-ten-methods-beginners-should-know-3k9a)
-- [Dev.to/JS] [Journey of becoming Full Stack Web Developer](https://dev.to/ac3kill3r/journey-of-becoming-full-stack-web-developer-20ij)
-- [Dev.to/JS] [24 Things You Might Be Doing Wrong In Website Testing!](https://dev.to/lambdatest/24-things-you-might-be-doing-wrong-in-website-testing-4bad)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Wildest Nicholas Cage Performances, Ranked by Intensity](https://lifehacker.com/15-of-the-wildest-nicholas-cage-performances-ranked-by-1848805757)
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
-- [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
