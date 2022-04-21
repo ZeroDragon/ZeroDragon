@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Canned Potatoes Were Made for the Air Fryer](https://lifehacker.com/canned-potatoes-were-made-for-the-air-fryer-1848821489)
+- [Dev.to/JS] [The OtoReact RHTML framework](https://dev.to/pjdebruin64/the-otoreact-rhtml-framework-1e6)
+- [Lifehacker] [Should You Insure Any of Your Body Parts?](https://lifehacker.com/should-you-insure-any-of-your-body-parts-1848820759)
+- [Dev.to/JS] [Why you shouldn&#39;t major in computer science](https://dev.to/baraa_baba/why-you-shouldnt-major-in-computer-science-3m5l)
 - [Lifehacker] [10 Cheap, Easy, High-Protein Meals, According to Reddit](https://lifehacker.com/10-cheap-easy-high-protein-meals-according-to-reddit-1848819522)
 - [Dev.to/JS] [JavaScript Basics and Cheat Sheet](https://dev.to/sm0ke/javascript-basics-and-cheat-sheet-o39)
 - [Dev.to/JS] [https://tiger-woods-cbd-gummies-reviews.jimdosite.com/](https://dev.to/tigerwoodscbd/httpstiger-woods-cbd-gummies-reviewsjimdositecom-4eli)
 - [Dev.to/JS] [React Hooks Explained](https://dev.to/sanjaysinghrajpoot/react-hooks-explained-4gf3)
 - [Dev.to/JS] [What&#39;s new in the Node.js v18.x release?](https://dev.to/devsmitra/whats-new-in-the-nodejs-v18x-release-43f2)
-- [Dev.to/JS] [Omni Male Enhancement - Read Shocking Truth Reveal Complaints and Warnings?](https://dev.to/omnimaleinfo/omni-male-enhancement-read-shocking-truth-reveal-complaints-and-warnings-2na8)
 - [Dev.to/JS] [Tasty Vanilla JS - 4 tips](https://dev.to/jesperhoy/tasty-vanilla-js-4-tips-1afd)
 - [Dev.to/JS] [JavaScript and React Fundamentals Quiz](https://dev.to/gregpetropoulos/javascript-and-react-fundamentals-quiz-4ejc)
 - [Dev.to/JS] [JavaScript Data type &amp; Structure](https://dev.to/jihan_jashim/javascript-data-type-structure-4e8k)
 - [Dev.to/JS] [A Tour Through JavaScript Arrays With Ten Methods Beginners Should Know](https://dev.to/codecupdev/a-tour-through-javascript-arrays-with-ten-methods-beginners-should-know-3k9a)
 - [Dev.to/JS] [Journey of becoming Full Stack Web Developer](https://dev.to/ac3kill3r/journey-of-becoming-full-stack-web-developer-20ij)
 - [Dev.to/JS] [24 Things You Might Be Doing Wrong In Website Testing!](https://dev.to/lambdatest/24-things-you-might-be-doing-wrong-in-website-testing-4bad)
-- [Dev.to/JS] [Trim Clinical Keto &lpar;U.S Updated&rpar; Reviews: Read All Secret Facts?](https://dev.to/trimclinicalget/trim-clinical-keto-us-updated-reviews-read-all-secret-facts-4l39)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
 - [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Lifehacker] [5 Totally Awesome Stoner Art Films](https://lifehacker.com/5-totally-awesome-stoner-art-films-1848813215)
-- [Lifehacker] [How to Spot Bad Weed](https://lifehacker.com/how-to-spot-bad-weed-1848813035)
-- [Lifehacker] [Netflix Has Secret Codes](https://lifehacker.com/netflix-has-secret-codes-1848812894)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
