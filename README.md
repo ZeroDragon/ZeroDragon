@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [24 Things You Might Be Doing Wrong In Website Testing!](https://dev.to/lambdatest/24-things-you-might-be-doing-wrong-in-website-testing-4bad)
+- [Dev.to/JS] [Trim Clinical Keto &lpar;U.S Updated&rpar; Reviews: Read All Secret Facts?](https://dev.to/trimclinicalget/trim-clinical-keto-us-updated-reviews-read-all-secret-facts-4l39)
+- [Dev.to/JS] [Situs Slot Online](https://dev.to/star8eto/situs-slot-online-ae9)
+- [Dev.to/JS] [Hoisting with var](https://dev.to/sujit510/hoisting-with-var-1o5e)
 - [Dev.to/JS] [Importance of Time Management You Should Know](https://dev.to/calltutors/importance-of-time-management-you-should-know-3lfo)
 - [Dev.to/JS] [Web Scrapping with Python](https://dev.to/code_with_ali/web-scrapping-with-python-2p9n)
 - [Dev.to/JS] [NodeJS with ExpressJS and TypeScript part 2.](https://dev.to/jordandev/nodejs-with-expressjs-and-typescript-part-2-40lk)
@@ -31,12 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lean Start Keto - Fat Burner Pills, Results, Warnings And Side Effects?](https://dev.to/leanstartketof1/lean-start-keto-fat-burner-pills-results-warnings-and-side-effects-131f)
 - [Dev.to/JS] [E2E Testing an App with Clerk Authentication in Cypress](https://dev.to/lynnntropy/e2e-testing-an-app-with-clerk-authentication-in-cypress-3ae7)
 - [Dev.to/JS] [My Path to Front End Development - 5 Years Later](https://dev.to/davidmorais/how-i-became-a-software-developer-5-years-later-40pj)
-- [Dev.to/JS] [#42 - How many pages in a book? - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/42-how-many-pages-in-a-book-codewars-kata-6-kyu-4m9i)
-- [Dev.to/JS] [Hydration is Pure Overhead](https://dev.to/builderio/hydration-is-pure-overhead-33g7)
-- [Dev.to/JS] [How to Upgrade to React 18](https://dev.to/coderpad/how-to-upgrade-to-react-18-424h)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
-- [Dev.to/JS] [dev.to app react native clone to improve my skill - blog diary](https://dev.to/gismo1337/devto-app-react-native-clone-to-improve-my-skill-blog-diary-29g6)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
 - [Lifehacker] [Every Store You Can Get 3% Cash Back With Your Apple Card](https://lifehacker.com/every-store-you-can-get-3-cash-back-with-your-apple-ca-1848818805)
 - [Lifehacker] [Are Coachella, Lollapalooza, and Other Music Festivals Really Worth the Price?](https://lifehacker.com/are-coachella-lollapalooza-and-other-music-festivals-1848818996)
