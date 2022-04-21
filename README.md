@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Tour Through JavaScript Arrays With Ten Methods Beginners Should Know](https://dev.to/codecupdev/a-tour-through-javascript-arrays-with-ten-methods-beginners-should-know-3k9a)
+- [Dev.to/JS] [Journey of becoming Full Stack Web Developer](https://dev.to/ac3kill3r/journey-of-becoming-full-stack-web-developer-20ij)
 - [Dev.to/JS] [24 Things You Might Be Doing Wrong In Website Testing!](https://dev.to/lambdatest/24-things-you-might-be-doing-wrong-in-website-testing-4bad)
 - [Dev.to/JS] [Trim Clinical Keto &lpar;U.S Updated&rpar; Reviews: Read All Secret Facts?](https://dev.to/trimclinicalget/trim-clinical-keto-us-updated-reviews-read-all-secret-facts-4l39)
 - [Dev.to/JS] [Situs Slot Online](https://dev.to/star8eto/situs-slot-online-ae9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tech Hacks discovered dailly](https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf)
 - [Dev.to/JS] [How to Remove a Property from a JavaScript Object](https://dev.to/saranshk/how-to-remove-a-property-from-a-javascript-object-4gg)
 - [Dev.to/JS] [Lean Start Keto - Fat Burner Pills, Results, Warnings And Side Effects?](https://dev.to/leanstartketof1/lean-start-keto-fat-burner-pills-results-warnings-and-side-effects-131f)
-- [Dev.to/JS] [E2E Testing an App with Clerk Authentication in Cypress](https://dev.to/lynnntropy/e2e-testing-an-app-with-clerk-authentication-in-cypress-3ae7)
-- [Dev.to/JS] [My Path to Front End Development - 5 Years Later](https://dev.to/davidmorais/how-i-became-a-software-developer-5-years-later-40pj)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
