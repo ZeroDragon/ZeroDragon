@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How the TypeScript Omit Type Works](https://dev.to/smpnjn/how-the-typescript-omit-type-works-56jl)
+- [Dev.to/JS] [React components](https://dev.to/fernand197/react-components-5fi)
+- [Dev.to/JS] [A typed event system for Typescript](https://dev.to/paratron/a-typed-event-system-for-typescript-25pb)
+- [Lifehacker] [Five Places You Can Still Get a Decent Meal for Under $10](https://lifehacker.com/five-places-you-can-still-get-a-decent-meal-for-under-1848823346)
+- [Dev.to/JS] [6 Useful Checklists Every Developer Should Know 📃💯](https://dev.to/madza/6-useful-checklists-every-developer-should-know-dle)
+- [Dev.to/JS] [Create and Animate SVG with Anime.js](https://dev.to/surajondev/create-and-animate-svg-with-animejs-2j2d)
+- [Lifehacker] [15 of the Easiest Perennials to Grow](https://lifehacker.com/15-of-the-easiest-perennials-to-grow-1848823371)
 - [Lifehacker] [10 Actually Useful Life Lessons Satanism Can Teach Us](https://lifehacker.com/10-actually-useful-life-lessons-satanism-can-teach-us-1848822256)
 - [Dev.to/JS] [Different ways to copy an object in JavaScript](https://dev.to/nevulo/different-ways-to-copy-an-object-in-javascript-38gb)
 - [Dev.to/JS] [Introducing Full-stack Plugins](https://dev.to/ggoodman/introducing-full-stack-plugins-2l7a)
@@ -38,11 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why you shouldn&#39;t major in computer science](https://dev.to/baraa_baba/why-you-shouldnt-major-in-computer-science-3m5l)
 - [Lifehacker] [10 Cheap, Easy, High-Protein Meals, According to Reddit](https://lifehacker.com/10-cheap-easy-high-protein-meals-according-to-reddit-1848819522)
 - [Dev.to/JS] [JavaScript Basics and Cheat Sheet](https://dev.to/sm0ke/javascript-basics-and-cheat-sheet-o39)
-- [Dev.to/JS] [https://tiger-woods-cbd-gummies-reviews.jimdosite.com/](https://dev.to/tigerwoodscbd/httpstiger-woods-cbd-gummies-reviewsjimdositecom-4eli)
-- [Dev.to/JS] [React Hooks Explained](https://dev.to/sanjaysinghrajpoot/react-hooks-explained-4gf3)
-- [Dev.to/JS] [What&#39;s new in the Node.js v18.x release?](https://dev.to/devsmitra/whats-new-in-the-nodejs-v18x-release-43f2)
-- [Dev.to/JS] [Tasty Vanilla JS - 4 tips](https://dev.to/jesperhoy/tasty-vanilla-js-4-tips-1afd)
-- [Dev.to/JS] [JavaScript and React Fundamentals Quiz](https://dev.to/gregpetropoulos/javascript-and-react-fundamentals-quiz-4ejc)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Hidden iPhone Keyboard Features You Probably Never Knew Existed](https://lifehacker.com/7-hidden-iphone-keyboard-features-you-probably-never-kn-1848810555)
 - [Lifehacker] [The 7 Deadly Sins of Dog Ownership](https://lifehacker.com/the-7-deadly-sins-of-dog-ownership-1848814449)
 - [Lifehacker] [How to Not Go Broke at the Ballpark This Summer](https://lifehacker.com/how-to-not-go-broke-at-the-ballpark-this-summer-1848817044)
-- [Lifehacker] [How to Grow a Natural Privacy Screen for Your Garden](https://lifehacker.com/how-to-grow-a-natural-privacy-screen-for-your-garden-1848816182)
-- [Lifehacker] [You Deserve to Roll Yourself Up a Nachorito Today](https://lifehacker.com/you-deserve-to-roll-yourself-up-a-nachorito-today-1848813756)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
