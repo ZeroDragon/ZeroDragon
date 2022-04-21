@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [10 Actually Useful Life Lessons Satanism Can Teach Us](https://lifehacker.com/10-actually-useful-life-lessons-satanism-can-teach-us-1848822256)
+- [Dev.to/JS] [Different ways to copy an object in JavaScript](https://dev.to/nevulo/different-ways-to-copy-an-object-in-javascript-38gb)
+- [Dev.to/JS] [Introducing Full-stack Plugins](https://dev.to/ggoodman/introducing-full-stack-plugins-2l7a)
 - [Lifehacker] [What&#39;s One Thing You Do to Make Flying Coach Suck Less?](https://lifehacker.com/whats-one-thing-you-do-to-make-flying-coach-suck-less-1848821079)
 - [Lifehacker] [How to Find Free &lpar;or Cheap&rpar; Soil for Your Raised Garden Beds](https://lifehacker.com/how-to-find-free-or-cheap-soil-for-your-raised-garden-1848821906)
 - [Dev.to/JS] [Day 16: Final SASS touch-up](https://dev.to/kemystra/day-16-final-sass-touch-up-4655)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s new in the Node.js v18.x release?](https://dev.to/devsmitra/whats-new-in-the-nodejs-v18x-release-43f2)
 - [Dev.to/JS] [Tasty Vanilla JS - 4 tips](https://dev.to/jesperhoy/tasty-vanilla-js-4-tips-1afd)
 - [Dev.to/JS] [JavaScript and React Fundamentals Quiz](https://dev.to/gregpetropoulos/javascript-and-react-fundamentals-quiz-4ejc)
-- [Dev.to/JS] [JavaScript Data type &amp; Structure](https://dev.to/jihan_jashim/javascript-data-type-structure-4e8k)
-- [Dev.to/JS] [A Tour Through JavaScript Arrays With Ten Methods Beginners Should Know](https://dev.to/codecupdev/a-tour-through-javascript-arrays-with-ten-methods-beginners-should-know-3k9a)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Not Go Broke at the Ballpark This Summer](https://lifehacker.com/how-to-not-go-broke-at-the-ballpark-this-summer-1848817044)
 - [Lifehacker] [How to Grow a Natural Privacy Screen for Your Garden](https://lifehacker.com/how-to-grow-a-natural-privacy-screen-for-your-garden-1848816182)
 - [Lifehacker] [You Deserve to Roll Yourself Up a Nachorito Today](https://lifehacker.com/you-deserve-to-roll-yourself-up-a-nachorito-today-1848813756)
-- [Lifehacker] [What Minor Things Majorly Improved Your Sex Life?](https://lifehacker.com/what-minor-things-majorly-improved-your-sex-life-1848813909)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
