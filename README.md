@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s One Thing You Do to Make Flying Coach Suck Less?](https://lifehacker.com/whats-one-thing-you-do-to-make-flying-coach-suck-less-1848821079)
+- [Lifehacker] [How to Find Free &lpar;or Cheap&rpar; Soil for Your Raised Garden Beds](https://lifehacker.com/how-to-find-free-or-cheap-soil-for-your-raised-garden-1848821906)
 - [Dev.to/JS] [Day 16: Final SASS touch-up](https://dev.to/kemystra/day-16-final-sass-touch-up-4655)
+- [Lifehacker] [The Difference Between a Coach, Mentor, and Therapist &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-a-coach-mentor-and-therapist-1848817429)
 - [Dev.to/JS] [Schedule / Timeline for React with Planby 2.0 🚀](https://dev.to/kozerkarol/schedule-timeline-for-react-with-planby-20-1m23)
 - [Lifehacker] [This Stretching Routine Actually Made Me More Flexible](https://lifehacker.com/this-stretching-routine-actually-made-me-more-flexible-1848820923)
 - [Lifehacker] [Canned Potatoes Were Made for the Air Fryer](https://lifehacker.com/canned-potatoes-were-made-for-the-air-fryer-1848821489)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Grow a Natural Privacy Screen for Your Garden](https://lifehacker.com/how-to-grow-a-natural-privacy-screen-for-your-garden-1848816182)
 - [Lifehacker] [You Deserve to Roll Yourself Up a Nachorito Today](https://lifehacker.com/you-deserve-to-roll-yourself-up-a-nachorito-today-1848813756)
 - [Lifehacker] [What Minor Things Majorly Improved Your Sex Life?](https://lifehacker.com/what-minor-things-majorly-improved-your-sex-life-1848813909)
-- [Lifehacker] [15 of the Wildest Nicholas Cage Performances, Ranked by Intensity](https://lifehacker.com/15-of-the-wildest-nicholas-cage-performances-ranked-by-1848805757)
-- [Lifehacker] [10 Flowers That Deer Won&#39;t Immediately Gobble Up](https://lifehacker.com/10-flowers-that-deer-wont-immediately-gobble-up-1848814279)
-- [Lifehacker] [Is It Ever Worth Asking Your Doctor About a Medication You Saw on TV?](https://lifehacker.com/is-it-ever-worth-asking-your-doctor-about-a-medication-1848813644)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
