@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web Scrapping with Python](https://dev.to/code_with_ali/web-scrapping-with-python-2p9n)
+- [Dev.to/JS] [NodeJS with ExpressJS and TypeScript part 2.](https://dev.to/jordandev/nodejs-with-expressjs-and-typescript-part-2-40lk)
+- [Dev.to/JS] [Tech Hacks discovered dailly](https://dev.to/tarunsankhla/tech-hacks-discovered-dailly-2flf)
 - [Dev.to/JS] [How to Remove a Property from a JavaScript Object](https://dev.to/saranshk/how-to-remove-a-property-from-a-javascript-object-4gg)
 - [Dev.to/JS] [Lean Start Keto - Fat Burner Pills, Results, Warnings And Side Effects?](https://dev.to/leanstartketof1/lean-start-keto-fat-burner-pills-results-warnings-and-side-effects-131f)
 - [Dev.to/JS] [E2E Testing an App with Clerk Authentication in Cypress](https://dev.to/lynnntropy/e2e-testing-an-app-with-clerk-authentication-in-cypress-3ae7)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
 - [Lifehacker] [Every Store You Can Get 3% Cash Back With Your Apple Card](https://lifehacker.com/every-store-you-can-get-3-cash-back-with-your-apple-ca-1848818805)
 - [Dev.to/JS] [Proxy in JS: what the hell?](https://dev.to/romaintrotard/proxy-in-js-what-the-hell-19d0)
-- [Dev.to/JS] [Introducción a Volta, la forma más rápida de administrar entornos de Node](https://dev.to/khriztianmoreno/introduccion-a-volta-la-forma-mas-rapida-de-administrar-entornos-de-node-1oo6)
 - [Lifehacker] [Are Coachella, Lollapalooza, and Other Music Festivals Really Worth the Price?](https://lifehacker.com/are-coachella-lollapalooza-and-other-music-festivals-1848818996)
-- [Dev.to/JS] [Island Architecture](https://dev.to/this-is-learning/island-architecture-5e87)
 - [Lifehacker] [What&#39;s New on Hulu in May 2022](https://lifehacker.com/whats-new-on-hulu-in-may-2022-1848818003)
-- [Dev.to/JS] [7 things I&#39;ve learned using Remix for 1 month](https://dev.to/alexandromtzg/7-things-ive-learned-using-remix-for-1-month-3hig)
 - [Lifehacker] [How to Save Your Career After Screwing Up at Work](https://lifehacker.com/how-to-save-your-career-after-screwing-up-at-work-1848818330)
 - [Lifehacker] [5 Easy Ways to Improve Your Gmail Inbox Right Now](https://lifehacker.com/5-easy-ways-to-improve-your-gmail-inbox-right-now-1848818208)
 - [Lifehacker] [What&#39;s New on Netflix in May 2022](https://lifehacker.com/whats-new-on-netflix-in-may-2022-1848818349)
