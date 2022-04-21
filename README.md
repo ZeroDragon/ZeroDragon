@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [E2E Testing an App with Clerk Authentication in Cypress](https://dev.to/lynnntropy/e2e-testing-an-app-with-clerk-authentication-in-cypress-3ae7)
+- [Dev.to/JS] [My Path to Front End Development - 5 Years Later](https://dev.to/davidmorais/how-i-became-a-software-developer-5-years-later-40pj)
 - [Dev.to/JS] [#42 - How many pages in a book? - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/42-how-many-pages-in-a-book-codewars-kata-6-kyu-4m9i)
 - [Dev.to/JS] [Hydration is Pure Overhead](https://dev.to/builderio/hydration-is-pure-overhead-33g7)
 - [Dev.to/JS] [How to Upgrade to React 18](https://dev.to/coderpad/how-to-upgrade-to-react-18-424h)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Easy Ways to Improve Your Gmail Inbox Right Now](https://lifehacker.com/5-easy-ways-to-improve-your-gmail-inbox-right-now-1848818208)
 - [Dev.to/JS] [Visual Testing With Cypress](https://dev.to/philscode/visual-testing-with-cypress-1o2g)
 - [Dev.to/JS] [How does the call stack work?](https://dev.to/vinodvms/how-call-stack-works-4jk5)
-- [Dev.to/JS] [DevSpaceForum x Appwrite Part 2: UI with ReactJs &amp; TailWindCSS](https://dev.to/georgeisiguzo/devspaceforum-x-appwrite-part-2-ui-with-reactjs-tailwindcss-4gic)
-- [Dev.to/JS] [A Designer’s Perspective: How To Improve Communication Between Designers And Developers](https://dev.to/loopstudioteam/a-designers-perspective-how-to-improve-communication-between-designers-and-developers-4fb5)
 - [Lifehacker] [What&#39;s New on Netflix in May 2022](https://lifehacker.com/whats-new-on-netflix-in-may-2022-1848818349)
 - [Lifehacker] [Everything You’ve Ever Wondered About Weed](https://lifehacker.com/everything-you-ve-ever-wondered-about-weed-1848814973)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2022](https://lifehacker.com/whats-new-on-disney-in-may-2022-1848817908)
