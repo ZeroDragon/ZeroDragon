@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GeoSearch with Bing Maps and Rails](https://dev.to/timnans/geosearch-with-bing-maps-and-rails-2o3l)
+- [Lifehacker] [The Best Way to Care for Your Cast Iron Is to Actually Use It](https://lifehacker.com/the-best-way-to-care-for-your-cast-iron-is-to-actually-1848824476)
+- [Dev.to/JS] [RxJS: Manage Subscriptions Declaratively](https://dev.to/scr2em/rxjs-manage-subscriptions-declaratively-3n2m)
+- [Dev.to/JS] [Mentoria para iniciantes em programação](https://dev.to/bendevoficial/mentoria-para-iniciantes-em-programacao-2ioh)
+- [Lifehacker] [The Easiest Ways to Install a Corner Shelf in Your Shower](https://lifehacker.com/the-easiest-ways-to-install-a-corner-shelf-in-your-show-1848824161)
 - [Dev.to/JS] [Marko: Compiling Fine-Grained Reactivity](https://dev.to/ryansolid/marko-compiling-fine-grained-reactivity-4lk4)
 - [Dev.to/JS] [Day-71 Training at ryas](https://dev.to/mahin651/day-71-training-at-ryas-1mpp)
 - [Lifehacker] [How to Record Calls on Your Android Even Though Google Doesn&#39;t Want You To](https://lifehacker.com/how-to-record-calls-on-your-android-even-though-google-1848823180)
@@ -35,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React components](https://dev.to/fernand197/react-components-5fi)
 - [Dev.to/JS] [A typed event system for Typescript](https://dev.to/paratron/a-typed-event-system-for-typescript-25pb)
 - [Lifehacker] [Five Places You Can Still Get a Decent Meal for Under $10](https://lifehacker.com/five-places-you-can-still-get-a-decent-meal-for-under-1848823346)
-- [Dev.to/JS] [6 Useful Checklists Every Developer Should Know 📃💯](https://dev.to/madza/6-useful-checklists-every-developer-should-know-dle)
-- [Dev.to/JS] [Create and Animate SVG with Anime.js](https://dev.to/surajondev/create-and-animate-svg-with-animejs-2j2d)
 - [Lifehacker] [15 of the Easiest Perennials to Grow](https://lifehacker.com/15-of-the-easiest-perennials-to-grow-1848823371)
 - [Lifehacker] [10 Actually Useful Life Lessons Satanism Can Teach Us](https://lifehacker.com/10-actually-useful-life-lessons-satanism-can-teach-us-1848822256)
-- [Dev.to/JS] [Different ways to copy an object in JavaScript](https://dev.to/nevulo/different-ways-to-copy-an-object-in-javascript-38gb)
 - [Lifehacker] [What&#39;s One Thing You Do to Make Flying Coach Suck Less?](https://lifehacker.com/whats-one-thing-you-do-to-make-flying-coach-suck-less-1848821079)
 - [Lifehacker] [How to Find Free &lpar;or Cheap&rpar; Soil for Your Raised Garden Beds](https://lifehacker.com/how-to-find-free-or-cheap-soil-for-your-raised-garden-1848821906)
 - [Lifehacker] [The Difference Between a Coach, Mentor, and Therapist &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-a-coach-mentor-and-therapist-1848817429)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in May 2022](https://lifehacker.com/whats-new-on-netflix-in-may-2022-1848818349)
 - [Lifehacker] [Everything You’ve Ever Wondered About Weed](https://lifehacker.com/everything-you-ve-ever-wondered-about-weed-1848814973)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2022](https://lifehacker.com/whats-new-on-disney-in-may-2022-1848817908)
-- [Lifehacker] [You Should Sell Your Old HomePod for Profit](https://lifehacker.com/you-should-sell-your-old-homepod-for-profit-1848817721)
-- [Lifehacker] [7 Hidden iPhone Keyboard Features You Probably Never Knew Existed](https://lifehacker.com/7-hidden-iphone-keyboard-features-you-probably-never-kn-1848810555)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
