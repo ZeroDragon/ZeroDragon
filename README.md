@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#42 - How many pages in a book? - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/42-how-many-pages-in-a-book-codewars-kata-6-kyu-4m9i)
 - [Dev.to/JS] [Hydration is Pure Overhead](https://dev.to/builderio/hydration-is-pure-overhead-33g7)
 - [Dev.to/JS] [How to Upgrade to React 18](https://dev.to/coderpad/how-to-upgrade-to-react-18-424h)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How does the call stack work?](https://dev.to/vinodvms/how-call-stack-works-4jk5)
 - [Dev.to/JS] [DevSpaceForum x Appwrite Part 2: UI with ReactJs &amp; TailWindCSS](https://dev.to/georgeisiguzo/devspaceforum-x-appwrite-part-2-ui-with-reactjs-tailwindcss-4gic)
 - [Dev.to/JS] [A Designer’s Perspective: How To Improve Communication Between Designers And Developers](https://dev.to/loopstudioteam/a-designers-perspective-how-to-improve-communication-between-designers-and-developers-4fb5)
-- [Dev.to/JS] [How to get the order on fiverr anyone help me?](https://dev.to/muzamil00/how-to-get-the-order-on-fiverr-anyone-help-me-2i3p)
 - [Lifehacker] [What&#39;s New on Netflix in May 2022](https://lifehacker.com/whats-new-on-netflix-in-may-2022-1848818349)
 - [Lifehacker] [Everything You’ve Ever Wondered About Weed](https://lifehacker.com/everything-you-ve-ever-wondered-about-weed-1848814973)
 - [Lifehacker] [What&#39;s New on Disney+ in May 2022](https://lifehacker.com/whats-new-on-disney-in-may-2022-1848817908)
