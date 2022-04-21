@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Is Not a Dog. Controlling Fetch is Vital to functionality.](https://dev.to/montgomerykate/javascript-is-not-a-dog-controlling-fetch-is-vital-to-functionality-2044)
 - [Dev.to/JS] [Mastering CSS Transitions with React 18](https://dev.to/asayerio_techblog/mastering-css-transitions-with-react-18-4519)
 - [Dev.to/JS] [Javascript 1O1 series: Scopes and Execution Contexts.](https://dev.to/osam1010/javascript-1o1-series-scopes-and-execution-contexts-gki)
 - [Dev.to/JS] [What&#39;s next step after HTML, CSS and JS?](https://dev.to/fabiodeandrade/whats-next-step-after-html-css-and-js-kh8)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular: Manage RxJS Subscriptions Declaratively](https://dev.to/scr2em/rxjs-manage-subscriptions-declaratively-3n2m)
 - [Dev.to/JS] [Mentoria para iniciantes em programação](https://dev.to/bendevoficial/mentoria-para-iniciantes-em-programacao-2ioh)
 - [Lifehacker] [The Easiest Ways to Install a Corner Shelf in Your Shower](https://lifehacker.com/the-easiest-ways-to-install-a-corner-shelf-in-your-show-1848824161)
-- [Dev.to/JS] [Marko: Compiling Fine-Grained Reactivity](https://dev.to/ryansolid/marko-compiling-fine-grained-reactivity-4lk4)
 - [Lifehacker] [How to Record Calls on Your Android Even Though Google Doesn&#39;t Want You To](https://lifehacker.com/how-to-record-calls-on-your-android-even-though-google-1848823180)
 - [Lifehacker] [Why You Should Add Chicory to Your Coffee](https://lifehacker.com/why-you-should-add-chicory-to-your-coffee-1848822988)
 - [Lifehacker] [Five Places You Can Still Get a Decent Meal for Under $10](https://lifehacker.com/five-places-you-can-still-get-a-decent-meal-for-under-1848823346)
