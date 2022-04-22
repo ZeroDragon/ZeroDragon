@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Scope](https://dev.to/foghill/javascript-scope-346a)
+- [Lifehacker] [Why Graphics Card Prices Are Dropping &lpar;and How Much They Cost Now&rpar;](https://lifehacker.com/why-graphics-card-prices-are-dropping-and-how-much-the-1848830151)
 - [Lifehacker] [Why You Need to Put Away Your Bird Feeders and Baths Right Now](https://lifehacker.com/why-you-need-to-put-away-your-bird-feeders-and-baths-ri-1848829773)
 - [Dev.to/JS] [Function Declaration vs Function Expression](https://dev.to/dawrounn/function-declaration-vs-function-expression-2g9k)
 - [Dev.to/JS] [React Portals](https://dev.to/muneebejaz/react-portals-4o30)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/5-of-the-best-tv-shows-to-binge-in-one-day-1848828945)
 - [Dev.to/JS] [Golang errors handing in JavaScript](https://dev.to/fedyk/golang-errors-handing-in-javascript-e5)
 - [Dev.to/JS] [Drawing a Triangle with WebGPU](https://dev.to/carmencincotti/drawing-a-triangle-with-webgpu-1mk3)
-- [Dev.to/JS] [News Archiver](https://dev.to/anujssstw/news-archiver-42a7)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are you a ‘Coastal Grandmother?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1848827824)
 - [Lifehacker] [How to Roll Out Pie Dough Without Ruining It](https://lifehacker.com/how-to-roll-out-pie-dough-without-ruining-it-1848826680)
 - [Lifehacker] [How to Fix Your Leaky Garden Hose](https://lifehacker.com/how-to-fix-your-leaky-garden-hose-1848823256)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Actually Useful Life Lessons Satanism Can Teach Us](https://lifehacker.com/10-actually-useful-life-lessons-satanism-can-teach-us-1848822256)
 - [Lifehacker] [What&#39;s One Thing You Do to Make Flying Coach Suck Less?](https://lifehacker.com/whats-one-thing-you-do-to-make-flying-coach-suck-less-1848821079)
 - [Lifehacker] [How to Find Free &lpar;or Cheap&rpar; Soil for Your Raised Garden Beds](https://lifehacker.com/how-to-find-free-or-cheap-soil-for-your-raised-garden-1848821906)
-- [Lifehacker] [The Difference Between a Coach, Mentor, and Therapist &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-a-coach-mentor-and-therapist-1848817429)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
