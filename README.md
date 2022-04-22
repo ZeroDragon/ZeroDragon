@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Drag and drop to upload a photo #JavaScript](https://dev.to/inancakduvan/drag-and-drop-to-upload-a-photo-javascript-2417)
+- [Dev.to/JS] [Typescript project starter](https://dev.to/maddyonline/typescript-project-starter-1jh0)
 - [Dev.to/JS] [How web browsers work - part 1 &lpar;with illustrations&rpar;](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
 - [Dev.to/JS] [14 Exemplos de código limpo e encurtamento de código Javascript](https://dev.to/stefanyrepetcki/14-exemplos-de-codigo-limpo-e-encurtamento-de-codigo-javascript-1m3f)
 - [Dev.to/JS] [Day 15-16 of 100 days of Code](https://dev.to/nkemdev/day-16-of-100-days-of-code-4ldg)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 3 JavaScript Tutorials of the Week](https://dev.to/codecast/top-3-javascript-tutorials-of-the-week-23e3)
 - [Dev.to/JS] [Day-72 Training At Ryaz](https://dev.to/mahin651/day-72-training-at-ryaz-5n1)
 - [Dev.to/JS] [Good JavaScript Developers do this👇](https://dev.to/mursalfk/good-javascript-developers-do-this-4nd3)
-- [Dev.to/JS] [Javascript Scope](https://dev.to/foghill/javascript-scope-346a)
 - [Lifehacker] [Why Graphics Card Prices Are Dropping &lpar;and How Much They Cost Now&rpar;](https://lifehacker.com/why-graphics-card-prices-are-dropping-and-how-much-the-1848830151)
 - [Lifehacker] [Why You Need to Put Away Your Bird Feeders and Baths Right Now](https://lifehacker.com/why-you-need-to-put-away-your-bird-feeders-and-baths-ri-1848829773)
-- [Dev.to/JS] [Function Declaration vs Function Expression](https://dev.to/dawrounn/function-declaration-vs-function-expression-2g9k)
 - [Lifehacker] [The Difference Between Pushing Yourself and Overtraining Syndrome](https://lifehacker.com/the-difference-between-pushing-yourself-and-overtrainin-1848829377)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2022](https://lifehacker.com/whats-new-on-hbo-max-in-may-2022-1848829242)
 - [Lifehacker] [Stop This Google Messages Bug From Draining Your Android&#39;s Battery](https://lifehacker.com/stop-this-google-messages-bug-from-draining-your-androi-1848829221)
