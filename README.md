@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Product Recommendation Quiz App with Shopify, Gadget, and Vercel](https://dev.to/alida/build-a-product-recommendation-quiz-app-with-shopify-gadget-and-vercel-3lpe)
+- [Dev.to/JS] [Using Webiny Headless CMS With Our New Starter Kits for Gatsby and NextJS](https://dev.to/webiny/using-webiny-headless-cms-with-our-new-starter-kits-for-gatsby-and-nextjs-3naj)
+- [Dev.to/JS] [7 JavaScript Design Patterns Every developer should knows.](https://dev.to/faminiprodev/7-javascript-design-patterns-every-developer-should-knows-1ke5)
+- [Dev.to/JS] [WEB 3.0 EXPLAINED](https://dev.to/onuchecodes/web-30-explained-1pib)
+- [Dev.to/JS] [Paracetamol.js💊| #106: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-105-explica-este-codigo-javascript-4n3)
+- [Lifehacker] [How to Roll Out Pie Dough Without Ruining It](https://lifehacker.com/how-to-roll-out-pie-dough-without-ruining-it-1848826680)
+- [Dev.to/JS] [Simple library app](https://dev.to/mpfdev/simple-library-app-14bm)
 - [Lifehacker] [How to Fix Your Leaky Garden Hose](https://lifehacker.com/how-to-fix-your-leaky-garden-hose-1848823256)
 - [Dev.to/JS] [🖼️ How to implement Picture-in-Picture mode in React.JS?](https://dev.to/forasoft/how-to-implement-picture-in-picture-mode-in-reactjs-2nfo)
 - [Dev.to/JS] [Creating Themes for super fast development! In both Vue and React](https://dev.to/raulsposito/creating-themes-for-super-fast-development-in-both-vue-and-react-53ip)
@@ -31,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [StairCase | HackerRank solution in javascript](https://dev.to/biomathcode/staircase-hackerrank-solution-in-javascript-1810)
 - [Dev.to/JS] [From building to selling - EP 02](https://dev.to/twankrui/from-building-to-selling-ep-02-a0k)
 - [Dev.to/JS] [Vue - an appwide error notification system](https://dev.to/theiaz/vue-an-appwide-error-notification-system-pa6)
-- [Dev.to/JS] [How To Use JavaScriptExecutor in Selenium WebDriver?](https://dev.to/haritalt/how-to-use-javascriptexecutor-in-selenium-webdriver-3888)
-- [Dev.to/JS] [Looking for a personal &lpar;Svelte&rpar; stack](https://dev.to/mandrasch/looking-for-a-personal-stack-dj7)
-- [Dev.to/JS] [State models - A little computer science for the inquisitive developer](https://dev.to/tracygjg/state-models-a-little-computer-science-for-the-inquisitive-developer-59lf)
-- [Dev.to/JS] [Unit testing in React](https://dev.to/aseemwangoo/unit-testing-in-react-p23)
-- [Dev.to/JS] [Sharing Configurations Within a Monorepo](https://dev.to/mbarzeev/sharing-configurations-within-a-monorepo-42bn)
-- [Dev.to/JS] [MongoDB GridFS](https://dev.to/mohamedmayallo/mongodb-gridfs-2i30)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
 - [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
 - [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
-- [Lifehacker] [Every Store You Can Get 3% Cash Back With Your Apple Card](https://lifehacker.com/every-store-you-can-get-3-cash-back-with-your-apple-ca-1848818805)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
