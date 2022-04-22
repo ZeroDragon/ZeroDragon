@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add authentication to your Express app with Asgardeo](https://dev.to/suvink/add-authentication-to-your-express-app-with-asgardeo-13bh)
+- [Dev.to/JS] [How to resolve &quot;multi-word vue/multi-word-component-names&quot; issue in VueJs 3 default option.](https://dev.to/gayathri_r/how-to-resolve-multi-word-vuemulti-word-component-names-issue-in-vuejs-3-default-option-1eoh)
+- [Dev.to/JS] [React Custom Hook example](https://dev.to/tienbku/react-custom-hook-example-3da6)
+- [Dev.to/JS] [Become a Javascript Magician with these tricks!](https://dev.to/sobhandash/become-a-javascript-magician-with-these-tricks-2j5p)
 - [Dev.to/JS] [Laravel Signature Pad Example](https://dev.to/techsolutionstuff/laravel-signature-pad-example-48d9)
 - [Dev.to/JS] [The Past, Present, and Future of Virtual DOM](https://dev.to/aidenybai/the-past-present-and-future-of-virtual-dom-5e1k)
 - [Dev.to/JS] [API Design Best Practices for long-running Operations: GraphQL vs REST](https://dev.to/wundergraph/api-design-best-practices-for-long-running-operations-graphql-vs-rest-1mkb)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Algorithms vs Building projects🤔](https://dev.to/taepal467/algorithms-vs-building-projects-212p)
 - [Dev.to/JS] [Encapsulation in TypeScript](https://dev.to/trash07/encapsulation-in-typescript-2dda)
 - [Dev.to/JS] [JavaScript Is Not a Dog. Controlling Fetch is Vital to functionality.](https://dev.to/montgomerykate/javascript-is-not-a-dog-controlling-fetch-is-vital-to-functionality-2044)
-- [Dev.to/JS] [Mastering CSS Transitions with React 18](https://dev.to/asayerio_techblog/mastering-css-transitions-with-react-18-4519)
-- [Dev.to/JS] [Javascript 1O1 series: Scopes and Execution Contexts.](https://dev.to/osam1010/javascript-1o1-series-scopes-and-execution-contexts-gki)
-- [Dev.to/JS] [What&#39;s next step after HTML, CSS and JS?](https://dev.to/fabiodeandrade/whats-next-step-after-html-css-and-js-kh8)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
-- [Dev.to/JS] [4 must-know JavaScript frameworks in 2022](https://dev.to/richkurtzman/4-must-know-javascript-frameworks-in-2022-3nef)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
 - [Lifehacker] [How to Know If a Google Chrome Extension Is Safe to Use](https://lifehacker.com/how-to-know-if-a-google-chrome-extension-is-safe-to-use-1848824700)
