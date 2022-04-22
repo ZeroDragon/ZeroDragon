@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Need to Put Away Your Bird Feeders and Baths Right Now](https://lifehacker.com/why-you-need-to-put-away-your-bird-feeders-and-baths-ri-1848829773)
+- [Dev.to/JS] [Function Declaration vs Function Expression](https://dev.to/dawrounn/function-declaration-vs-function-expression-2g9k)
+- [Dev.to/JS] [React Portals](https://dev.to/muneebejaz/react-portals-4o30)
+- [Lifehacker] [The Difference Between Pushing Yourself and Overtraining Syndrome](https://lifehacker.com/the-difference-between-pushing-yourself-and-overtrainin-1848829377)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2022](https://lifehacker.com/whats-new-on-hbo-max-in-may-2022-1848829242)
 - [Dev.to/JS] [JavaScript text editor for SVG](https://dev.to/alexboyko/javascript-text-editor-for-svg-13aa)
 - [Dev.to/JS] [&quot;this&quot; and the DOM](https://dev.to/alexmcdgit/this-and-the-dom-1k6j)
@@ -37,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Golang errors handing in JavaScript](https://dev.to/fedyk/golang-errors-handing-in-javascript-e5)
 - [Dev.to/JS] [Drawing a Triangle with WebGPU](https://dev.to/carmencincotti/drawing-a-triangle-with-webgpu-1mk3)
 - [Dev.to/JS] [News Archiver](https://dev.to/anujssstw/news-archiver-42a7)
-- [Dev.to/JS] [Build a Product Recommendation Quiz App with Shopify, Gadget, and Vercel](https://dev.to/alida/build-a-product-recommendation-quiz-app-with-shopify-gadget-and-vercel-3lpe)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are you a ‘Coastal Grandmother?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1848827824)
-- [Dev.to/JS] [Using Webiny Headless CMS With Our New Starter Kits for Gatsby and NextJS](https://dev.to/webiny/using-webiny-headless-cms-with-our-new-starter-kits-for-gatsby-and-nextjs-3naj)
 - [Lifehacker] [How to Roll Out Pie Dough Without Ruining It](https://lifehacker.com/how-to-roll-out-pie-dough-without-ruining-it-1848826680)
 - [Lifehacker] [How to Fix Your Leaky Garden Hose](https://lifehacker.com/how-to-fix-your-leaky-garden-hose-1848823256)
 - [Lifehacker] [How to Make Your Current Home Work for You &lpar;When Moving Isn’t an Option&rpar;](https://lifehacker.com/how-to-make-your-current-home-work-for-you-when-moving-1848811320)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s One Thing You Do to Make Flying Coach Suck Less?](https://lifehacker.com/whats-one-thing-you-do-to-make-flying-coach-suck-less-1848821079)
 - [Lifehacker] [How to Find Free &lpar;or Cheap&rpar; Soil for Your Raised Garden Beds](https://lifehacker.com/how-to-find-free-or-cheap-soil-for-your-raised-garden-1848821906)
 - [Lifehacker] [The Difference Between a Coach, Mentor, and Therapist &lpar;and When You Need Them&rpar;](https://lifehacker.com/the-difference-between-a-coach-mentor-and-therapist-1848817429)
-- [Lifehacker] [This Stretching Routine Actually Made Me More Flexible](https://lifehacker.com/this-stretching-routine-actually-made-me-more-flexible-1848820923)
-- [Lifehacker] [Canned Potatoes Were Made for the Air Fryer](https://lifehacker.com/canned-potatoes-were-made-for-the-air-fryer-1848821489)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
