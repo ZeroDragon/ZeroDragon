@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Use JavaScriptExecutor in Selenium WebDriver?](https://dev.to/haritalt/how-to-use-javascriptexecutor-in-selenium-webdriver-3888)
 - [Dev.to/JS] [Looking for a personal &lpar;svelte&rpar; stack](https://dev.to/mandrasch/looking-for-a-personal-stack-dj7)
 - [Dev.to/JS] [State models - A little computer science for the inquisitive developer](https://dev.to/tracygjg/state-models-a-little-computer-science-for-the-inquisitive-developer-59lf)
 - [Dev.to/JS] [Unit testing in React](https://dev.to/aseemwangoo/unit-testing-in-react-p23)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Responsive Personal Portfolio design using HTML, CSS, and Javascript](https://dev.to/incoderweb/responsive-personal-portfolio-design-using-html-css-and-javascript-2mfh)
 - [Dev.to/JS] [How to parse JSON in JavaScript](https://dev.to/atapas/how-to-parse-json-in-javascript-519l)
 - [Dev.to/JS] [Going serverless with custom portal for D365 environments](https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j)
-- [Dev.to/JS] [Basic JavaScript slider ready source](https://dev.to/amirrezaheydari/basic-javascript-slider-ready-source-1f2o)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
