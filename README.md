@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Adventures: Episode 43: SolidJS](https://dev.to/taw/open-source-adventures-episode-43-solidjs-1f32)
+- [Dev.to/JS] [Don&#39;t Do This With Loops In Javascript](https://dev.to/jareer/dont-do-this-with-loops-in-javascript-ih2)
+- [Dev.to/JS] [Use Inflint to follow files and folders convention](https://dev.to/talr98/use-inflint-to-follow-files-and-folders-convention-e7c)
+- [Dev.to/JS] [How the TypeScript Pick Type works](https://dev.to/smpnjn/how-the-typescript-pick-type-works-aph)
+- [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
 - [Dev.to/JS] [Top 3 JavaScript Tutorials of the Week](https://dev.to/codecast/top-3-javascript-tutorials-of-the-week-23e3)
 - [Dev.to/JS] [Day-72 Training At Ryaz](https://dev.to/mahin651/day-72-training-at-ryaz-5n1)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on HBO Max in May 2022](https://lifehacker.com/whats-new-on-hbo-max-in-may-2022-1848829242)
 - [Dev.to/JS] [JavaScript text editor for SVG](https://dev.to/alexboyko/javascript-text-editor-for-svg-13aa)
 - [Dev.to/JS] [&quot;this&quot; and the DOM](https://dev.to/alexmcdgit/this-and-the-dom-1k6j)
-- [Dev.to/JS] [The difference between DOM and Virtual DOM](https://dev.to/codeslinger/the-difference-between-dom-and-virtual-dom-52o1)
-- [Dev.to/JS] [Call Internet Computer Canister Smart Contracts In NodeJS](https://dev.to/daviddalbusco/call-internet-computer-canister-smart-contracts-in-nodejs-1dge)
 - [Lifehacker] [Stop This Google Messages Bug From Draining Your Android&#39;s Battery](https://lifehacker.com/stop-this-google-messages-bug-from-draining-your-androi-1848829221)
-- [Dev.to/JS] [A Beginner&#39;s Guide to HTTP - Part 4: APIs](https://dev.to/abbeyperini/a-beginners-guide-to-http-part-4-apis-449f)
-- [Dev.to/JS] [Indo além do console.log 🖥️](https://dev.to/luigibelanda/indo-alem-do-consolelog-1e7h)
 - [Lifehacker] [How Much Garden You Would Need to 100% Survive On](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
 - [Lifehacker] [5 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/5-of-the-best-tv-shows-to-binge-in-one-day-1848828945)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are you a ‘Coastal Grandmother?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1848827824)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Places You Can Still Get a Decent Meal for Under $10](https://lifehacker.com/five-places-you-can-still-get-a-decent-meal-for-under-1848823346)
 - [Lifehacker] [15 of the Easiest Perennials to Grow](https://lifehacker.com/15-of-the-easiest-perennials-to-grow-1848823371)
 - [Lifehacker] [10 Actually Useful Life Lessons Satanism Can Teach Us](https://lifehacker.com/10-actually-useful-life-lessons-satanism-can-teach-us-1848822256)
-- [Lifehacker] [What&#39;s One Thing You Do to Make Flying Coach Suck Less?](https://lifehacker.com/whats-one-thing-you-do-to-make-flying-coach-suck-less-1848821079)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
