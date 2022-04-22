@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [5 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/5-of-the-best-tv-shows-to-binge-in-one-day-1848828945)
+- [Dev.to/JS] [Golang errors handing in JavaScript](https://dev.to/fedyk/golang-errors-handing-in-javascript-e5)
+- [Dev.to/JS] [Drawing a Triangle with WebGPU](https://dev.to/carmencincotti/drawing-a-triangle-with-webgpu-1mk3)
+- [Dev.to/JS] [News Archiver](https://dev.to/anujssstw/news-archiver-42a7)
 - [Dev.to/JS] [Build a Product Recommendation Quiz App with Shopify, Gadget, and Vercel](https://dev.to/alida/build-a-product-recommendation-quiz-app-with-shopify-gadget-and-vercel-3lpe)
+- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are you a ‘Coastal Grandmother?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1848827824)
 - [Dev.to/JS] [Using Webiny Headless CMS With Our New Starter Kits for Gatsby and NextJS](https://dev.to/webiny/using-webiny-headless-cms-with-our-new-starter-kits-for-gatsby-and-nextjs-3naj)
 - [Dev.to/JS] [7 JavaScript Design Patterns Every developer should knows.](https://dev.to/faminiprodev/7-javascript-design-patterns-every-developer-should-knows-1ke5)
 - [Dev.to/JS] [WEB 3.0 EXPLAINED](https://dev.to/onuchecodes/web-30-explained-1pib)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Themes for super fast development! In both Vue and React](https://dev.to/raulsposito/creating-themes-for-super-fast-development-in-both-vue-and-react-53ip)
 - [Dev.to/JS] [hackerrank Mini-Max Sum in javascript](https://dev.to/biomathcode/hackerrank-mini-max-sum-in-javascript-446f)
 - [Lifehacker] [How to Make Your Current Home Work for You &lpar;When Moving Isn’t an Option&rpar;](https://lifehacker.com/how-to-make-your-current-home-work-for-you-when-moving-1848811320)
-- [Dev.to/JS] [StairCase | HackerRank solution in javascript](https://dev.to/biomathcode/staircase-hackerrank-solution-in-javascript-1810)
-- [Dev.to/JS] [From building to selling - EP 02](https://dev.to/twankrui/from-building-to-selling-ep-02-a0k)
-- [Dev.to/JS] [Vue - an appwide error notification system](https://dev.to/theiaz/vue-an-appwide-error-notification-system-pa6)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Insure Any of Your Body Parts?](https://lifehacker.com/should-you-insure-any-of-your-body-parts-1848820759)
 - [Lifehacker] [10 Cheap, Easy, High-Protein Meals, According to Reddit](https://lifehacker.com/10-cheap-easy-high-protein-meals-according-to-reddit-1848819522)
 - [Lifehacker] [A Beginner&#39;s Guide to Using Apps and Gadgets for Growing Healthier Plants](https://lifehacker.com/a-beginners-guide-to-using-apps-and-gadgets-for-growing-1848819834)
-- [Lifehacker] [Your Lenovo Is Vulnerable to a New Malware Attack](https://lifehacker.com/your-lenovo-is-vulnerable-to-a-new-malware-attack-1848819412)
-- [Lifehacker] [Pickles With Crème Fraîche and Honey Is Chaotically Good](https://lifehacker.com/pickles-with-creme-fraiche-and-honey-is-chaotically-goo-1848818894)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
