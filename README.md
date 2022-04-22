@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel Signature Pad Example](https://dev.to/techsolutionstuff/laravel-signature-pad-example-48d9)
 - [Dev.to/JS] [The Past, Present, and Future of Virtual DOM](https://dev.to/aidenybai/the-past-present-and-future-of-virtual-dom-5e1k)
 - [Dev.to/JS] [API Design Best Practices for long-running Operations: GraphQL vs REST](https://dev.to/wundergraph/api-design-best-practices-for-long-running-operations-graphql-vs-rest-1mkb)
 - [Dev.to/JS] [EL JAZZ, EL TAP Y EL HIP HOP ARRUINAN TU POSTURA Y TUS POSIBILIDADES](https://dev.to/seomozmaster/el-jazz-el-tap-y-el-hip-hop-arruinan-tu-postura-y-tus-posibilidades-3oc4)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s next step after HTML, CSS and JS?](https://dev.to/fabiodeandrade/whats-next-step-after-html-css-and-js-kh8)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Dev.to/JS] [4 must-know JavaScript frameworks in 2022](https://dev.to/richkurtzman/4-must-know-javascript-frameworks-in-2022-3nef)
-- [Dev.to/JS] [[Solved] Supabase &#39;insert&lpar;&rpar;&#39; not inserting table record](https://dev.to/shehanat/solved-supabase-insert-not-inserting-table-record-6n7)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
 - [Lifehacker] [How to Know If a Google Chrome Extension Is Safe to Use](https://lifehacker.com/how-to-know-if-a-google-chrome-extension-is-safe-to-use-1848824700)
