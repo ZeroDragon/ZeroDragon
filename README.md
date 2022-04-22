@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How web browsers work - part 1 &lpar;with illustrations&rpar;](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
+- [Dev.to/JS] [14 Exemplos de código limpo e encurtamento de código Javascript](https://dev.to/stefanyrepetcki/14-exemplos-de-codigo-limpo-e-encurtamento-de-codigo-javascript-1m3f)
+- [Dev.to/JS] [Day 15-16 of 100 days of Code](https://dev.to/nkemdev/day-16-of-100-days-of-code-4ldg)
+- [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Dev.to/JS] [Open Source Adventures: Episode 43: SolidJS](https://dev.to/taw/open-source-adventures-episode-43-solidjs-1f32)
 - [Dev.to/JS] [Don&#39;t Do This With Loops In Javascript](https://dev.to/jareer/dont-do-this-with-loops-in-javascript-ih2)
 - [Dev.to/JS] [Use Inflint to follow files and folders convention](https://dev.to/talr98/use-inflint-to-follow-files-and-folders-convention-e7c)
@@ -36,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Graphics Card Prices Are Dropping &lpar;and How Much They Cost Now&rpar;](https://lifehacker.com/why-graphics-card-prices-are-dropping-and-how-much-the-1848830151)
 - [Lifehacker] [Why You Need to Put Away Your Bird Feeders and Baths Right Now](https://lifehacker.com/why-you-need-to-put-away-your-bird-feeders-and-baths-ri-1848829773)
 - [Dev.to/JS] [Function Declaration vs Function Expression](https://dev.to/dawrounn/function-declaration-vs-function-expression-2g9k)
-- [Dev.to/JS] [React Portals](https://dev.to/muneebejaz/react-portals-4o30)
 - [Lifehacker] [The Difference Between Pushing Yourself and Overtraining Syndrome](https://lifehacker.com/the-difference-between-pushing-yourself-and-overtrainin-1848829377)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2022](https://lifehacker.com/whats-new-on-hbo-max-in-may-2022-1848829242)
-- [Dev.to/JS] [JavaScript text editor for SVG](https://dev.to/alexboyko/javascript-text-editor-for-svg-13aa)
-- [Dev.to/JS] [&quot;this&quot; and the DOM](https://dev.to/alexmcdgit/this-and-the-dom-1k6j)
 - [Lifehacker] [Stop This Google Messages Bug From Draining Your Android&#39;s Battery](https://lifehacker.com/stop-this-google-messages-bug-from-draining-your-androi-1848829221)
 - [Lifehacker] [How Much Garden You Would Need to 100% Survive On](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
 - [Lifehacker] [5 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/5-of-the-best-tv-shows-to-binge-in-one-day-1848828945)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Add Chicory to Your Coffee](https://lifehacker.com/why-you-should-add-chicory-to-your-coffee-1848822988)
 - [Lifehacker] [Five Places You Can Still Get a Decent Meal for Under $10](https://lifehacker.com/five-places-you-can-still-get-a-decent-meal-for-under-1848823346)
 - [Lifehacker] [15 of the Easiest Perennials to Grow](https://lifehacker.com/15-of-the-easiest-perennials-to-grow-1848823371)
-- [Lifehacker] [10 Actually Useful Life Lessons Satanism Can Teach Us](https://lifehacker.com/10-actually-useful-life-lessons-satanism-can-teach-us-1848822256)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
