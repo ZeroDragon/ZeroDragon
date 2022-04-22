@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a PHP Blog Platform from Scratch without a Framework](https://dev.to/cmd05/building-a-php-blog-platform-from-scratch-without-a-framework-3b18)
+- [Dev.to/JS] [A simple browser extension to select a custom background for a new tab in your browser.](https://dev.to/cmd05/a-simple-browser-extension-to-select-a-custom-background-for-a-new-tab-in-your-browser-97)
+- [Dev.to/JS] [WordPress Plugin Development with React JS easily](https://dev.to/maniruzzamanakash/wordpress-plugin-development-with-react-js-easily-4kj1)
 - [Dev.to/JS] [JavaScript Ultimate Guide 01: The fundamentals.](https://dev.to/coderamrin/javascript-ultimate-guide-01-the-fundamentals-315j)
 - [Dev.to/JS] [Add authentication to your Express app with Asgardeo](https://dev.to/suvink/add-authentication-to-your-express-app-with-asgardeo-13bh)
 - [Dev.to/JS] [How to resolve &quot;multi-word vue/multi-word-component-names&quot; issue in VueJs 3 default option.](https://dev.to/gayathri_r/how-to-resolve-multi-word-vuemulti-word-component-names-issue-in-vuejs-3-default-option-1eoh)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Past, Present, and Future of Virtual DOM](https://dev.to/aidenybai/the-past-present-and-future-of-virtual-dom-5e1k)
 - [Dev.to/JS] [API Design Best Practices for long-running Operations: GraphQL vs REST](https://dev.to/wundergraph/api-design-best-practices-for-long-running-operations-graphql-vs-rest-1mkb)
 - [Dev.to/JS] [EL JAZZ, EL TAP Y EL HIP HOP ARRUINAN TU POSTURA Y TUS POSIBILIDADES](https://dev.to/seomozmaster/el-jazz-el-tap-y-el-hip-hop-arruinan-tu-postura-y-tus-posibilidades-3oc4)
-- [Dev.to/JS] [Persisting Business Ratings](https://dev.to/drayeleo/persisting-business-ratings-2pf1)
-- [Dev.to/JS] [Algorithms vs Building projects🤔](https://dev.to/taepal467/algorithms-vs-building-projects-212p)
-- [Dev.to/JS] [Encapsulation in TypeScript](https://dev.to/trash07/encapsulation-in-typescript-2dda)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
