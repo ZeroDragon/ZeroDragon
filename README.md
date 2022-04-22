@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use &quot;NuxtJS + Lanyard&quot;](https://dev.to/winnerose/how-to-use-nuxtjs-lanyard-2890)
+- [Dev.to/JS] [Lambda Series](https://dev.to/alexcodes/lambda-series-5efe)
 - [Dev.to/JS] [Drag and drop to upload a photo #JavaScript](https://dev.to/inancakduvan/drag-and-drop-to-upload-a-photo-javascript-2417)
 - [Dev.to/JS] [Typescript project starter](https://dev.to/maddyonline/typescript-project-starter-1jh0)
 - [Dev.to/JS] [How web browsers work - part 1 &lpar;with illustrations&rpar;](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
 - [Dev.to/JS] [Top 3 JavaScript Tutorials of the Week](https://dev.to/codecast/top-3-javascript-tutorials-of-the-week-23e3)
-- [Dev.to/JS] [Day-72 Training At Ryaz](https://dev.to/mahin651/day-72-training-at-ryaz-5n1)
-- [Dev.to/JS] [Good JavaScript Developers do this👇](https://dev.to/mursalfk/good-javascript-developers-do-this-4nd3)
 - [Lifehacker] [Why Graphics Card Prices Are Dropping &lpar;and How Much They Cost Now&rpar;](https://lifehacker.com/why-graphics-card-prices-are-dropping-and-how-much-the-1848830151)
 - [Lifehacker] [Why You Need to Put Away Your Bird Feeders and Baths Right Now](https://lifehacker.com/why-you-need-to-put-away-your-bird-feeders-and-baths-ri-1848829773)
 - [Lifehacker] [The Difference Between Pushing Yourself and Overtraining Syndrome](https://lifehacker.com/the-difference-between-pushing-yourself-and-overtrainin-1848829377)
