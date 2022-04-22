@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to parse JSON in JavaScript](https://dev.to/atapas/how-to-parse-json-in-javascript-519l)
+- [Dev.to/JS] [Going serverless with custom portal for D365 environments](https://dev.to/rainforss/going-serverless-with-custom-portal-for-d365-environments-2e4j)
+- [Dev.to/JS] [Basic JavaScript slider ready source](https://dev.to/amirrezaheydari/basic-javascript-slider-ready-source-1f2o)
+- [Dev.to/JS] [JavaScript roadmap to crack FAANG interviews in 2022](https://dev.to/tamojay/javascript-roadmap-to-crack-faang-interviews-in-2022-3i22)
 - [Dev.to/JS] [Serenity CBD Gummies Review - Pain Relief Reviews, Benefits, Results and Warnings?](https://dev.to/serenitycbdfact/serenity-cbd-gummies-review-pain-relief-reviews-benefits-results-and-warnings-2cbb)
 - [Dev.to/JS] [Conditionally lazy load modules in Angular](https://dev.to/madhust/conditionally-lazy-load-modules-in-angular-4l5l)
 - [Dev.to/JS] [Menyelesaikan soal &quot;Staircase&quot; di HackerRank](https://dev.to/arisca_abdullah/menyelesaikan-soal-staircase-di-hackerrank-10ol)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ecommerce site devlopment](https://dev.to/suryadev/ecommerce-site-devlopment-5a4m)
 - [Dev.to/JS] [Building a PHP Blog Platform from Scratch without a Framework](https://dev.to/cmd05/building-a-php-blog-platform-from-scratch-without-a-framework-3b18)
 - [Dev.to/JS] [A simple browser extension to select a custom background for a new tab in your browser.](https://dev.to/cmd05/a-simple-browser-extension-to-select-a-custom-background-for-a-new-tab-in-your-browser-97)
-- [Dev.to/JS] [WordPress Plugin Development with React JS easily](https://dev.to/maniruzzamanakash/wordpress-plugin-development-with-react-js-easily-4kj1)
-- [Dev.to/JS] [JavaScript Ultimate Guide 01: The fundamentals.](https://dev.to/coderamrin/javascript-ultimate-guide-01-the-fundamentals-315j)
-- [Dev.to/JS] [Add authentication to your Express app with Asgardeo](https://dev.to/suvink/add-authentication-to-your-express-app-with-asgardeo-13bh)
-- [Dev.to/JS] [How to resolve &quot;multi-word vue/multi-word-component-names&quot; issue in VueJs 3 default option.](https://dev.to/gayathri_r/how-to-resolve-multi-word-vuemulti-word-component-names-issue-in-vuejs-3-default-option-1eoh)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
