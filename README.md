@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Past, Present, and Future of Virtual DOM](https://dev.to/aidenybai/the-past-present-and-future-of-virtual-dom-5e1k)
+- [Dev.to/JS] [API Design Best Practices for long-running Operations: GraphQL vs REST](https://dev.to/wundergraph/api-design-best-practices-for-long-running-operations-graphql-vs-rest-1mkb)
+- [Dev.to/JS] [EL JAZZ, EL TAP Y EL HIP HOP ARRUINAN TU POSTURA Y TUS POSIBILIDADES](https://dev.to/seomozmaster/el-jazz-el-tap-y-el-hip-hop-arruinan-tu-postura-y-tus-posibilidades-3oc4)
+- [Dev.to/JS] [Persisting Business Ratings](https://dev.to/drayeleo/persisting-business-ratings-2pf1)
+- [Dev.to/JS] [Algorithms vs Building projects🤔](https://dev.to/taepal467/algorithms-vs-building-projects-212p)
 - [Dev.to/JS] [Encapsulation in TypeScript](https://dev.to/trash07/encapsulation-in-typescript-2dda)
 - [Dev.to/JS] [JavaScript Is Not a Dog. Controlling Fetch is Vital to functionality.](https://dev.to/montgomerykate/javascript-is-not-a-dog-controlling-fetch-is-vital-to-functionality-2044)
 - [Dev.to/JS] [Mastering CSS Transitions with React 18](https://dev.to/asayerio_techblog/mastering-css-transitions-with-react-18-4519)
@@ -32,15 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [4 must-know JavaScript frameworks in 2022](https://dev.to/richkurtzman/4-must-know-javascript-frameworks-in-2022-3nef)
 - [Dev.to/JS] [[Solved] Supabase &#39;insert&lpar;&rpar;&#39; not inserting table record](https://dev.to/shehanat/solved-supabase-insert-not-inserting-table-record-6n7)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
-- [Dev.to/JS] [Help me please!](https://dev.to/yongdev/help-me-please-ndi)
-- [Dev.to/JS] [Why you should use Typescript now](https://dev.to/diogorodrigues/why-you-should-use-typescript-now-1h5p)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
-- [Dev.to/JS] [Paracetamol.js💊| #105: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-104-explica-este-codigo-javascript-3f90)
 - [Lifehacker] [How to Know If a Google Chrome Extension Is Safe to Use](https://lifehacker.com/how-to-know-if-a-google-chrome-extension-is-safe-to-use-1848824700)
 - [Lifehacker] [Hurdle is Like Five Wordles in One](https://lifehacker.com/hurdle-is-like-five-wordles-in-one-1848823944)
-- [Dev.to/JS] [GeoSearch with Bing Maps and Rails](https://dev.to/timnans/geosearch-with-bing-maps-and-rails-2o3l)
 - [Lifehacker] [The Best Way to Care for Your Cast Iron Is to Actually Use It](https://lifehacker.com/the-best-way-to-care-for-your-cast-iron-is-to-actually-1848824476)
-- [Dev.to/JS] [Angular: Manage RxJS Subscriptions Declaratively](https://dev.to/scr2em/rxjs-manage-subscriptions-declaratively-3n2m)
 - [Lifehacker] [The Easiest Ways to Install a Corner Shelf in Your Shower](https://lifehacker.com/the-easiest-ways-to-install-a-corner-shelf-in-your-show-1848824161)
 - [Lifehacker] [How to Record Calls on Your Android Even Though Google Doesn&#39;t Want You To](https://lifehacker.com/how-to-record-calls-on-your-android-even-though-google-1848823180)
 - [Lifehacker] [Why You Should Add Chicory to Your Coffee](https://lifehacker.com/why-you-should-add-chicory-to-your-coffee-1848822988)
