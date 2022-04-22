@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Ultimate Guide 01: The fundamentals.](https://dev.to/coderamrin/javascript-ultimate-guide-01-the-fundamentals-315j)
 - [Dev.to/JS] [Add authentication to your Express app with Asgardeo](https://dev.to/suvink/add-authentication-to-your-express-app-with-asgardeo-13bh)
 - [Dev.to/JS] [How to resolve &quot;multi-word vue/multi-word-component-names&quot; issue in VueJs 3 default option.](https://dev.to/gayathri_r/how-to-resolve-multi-word-vuemulti-word-component-names-issue-in-vuejs-3-default-option-1eoh)
 - [Dev.to/JS] [React Custom Hook example](https://dev.to/tienbku/react-custom-hook-example-3da6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Persisting Business Ratings](https://dev.to/drayeleo/persisting-business-ratings-2pf1)
 - [Dev.to/JS] [Algorithms vs Building projects🤔](https://dev.to/taepal467/algorithms-vs-building-projects-212p)
 - [Dev.to/JS] [Encapsulation in TypeScript](https://dev.to/trash07/encapsulation-in-typescript-2dda)
-- [Dev.to/JS] [JavaScript Is Not a Dog. Controlling Fetch is Vital to functionality.](https://dev.to/montgomerykate/javascript-is-not-a-dog-controlling-fetch-is-vital-to-functionality-2044)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
