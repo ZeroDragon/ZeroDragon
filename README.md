@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New Features in Node JS 18](https://dev.to/adiii_3181/new-features-in-node-js-18-20n5)
+- [Dev.to/JS] [How to make your D3.js projects responsive](https://dev.to/annemariedufour/how-to-make-your-d3js-projects-responsive-4l07)
+- [Dev.to/JS] [Ecommerce site devlopment](https://dev.to/suryadev/ecommerce-site-devlopment-5a4m)
 - [Dev.to/JS] [Building a PHP Blog Platform from Scratch without a Framework](https://dev.to/cmd05/building-a-php-blog-platform-from-scratch-without-a-framework-3b18)
 - [Dev.to/JS] [A simple browser extension to select a custom background for a new tab in your browser.](https://dev.to/cmd05/a-simple-browser-extension-to-select-a-custom-background-for-a-new-tab-in-your-browser-97)
 - [Dev.to/JS] [WordPress Plugin Development with React JS easily](https://dev.to/maniruzzamanakash/wordpress-plugin-development-with-react-js-easily-4kj1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Custom Hook example](https://dev.to/tienbku/react-custom-hook-example-3da6)
 - [Dev.to/JS] [Become a Javascript Magician with these tricks!](https://dev.to/sobhandash/become-a-javascript-magician-with-these-tricks-2j5p)
 - [Dev.to/JS] [Laravel Signature Pad Example](https://dev.to/techsolutionstuff/laravel-signature-pad-example-48d9)
-- [Dev.to/JS] [The Past, Present, and Future of Virtual DOM](https://dev.to/aidenybai/the-past-present-and-future-of-virtual-dom-5e1k)
-- [Dev.to/JS] [API Design Best Practices for long-running Operations: GraphQL vs REST](https://dev.to/wundergraph/api-design-best-practices-for-long-running-operations-graphql-vs-rest-1mkb)
-- [Dev.to/JS] [EL JAZZ, EL TAP Y EL HIP HOP ARRUINAN TU POSTURA Y TUS POSIBILIDADES](https://dev.to/seomozmaster/el-jazz-el-tap-y-el-hip-hop-arruinan-tu-postura-y-tus-posibilidades-3oc4)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
