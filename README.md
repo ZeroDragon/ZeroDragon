@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Single Responsibility Principle - SOLID Principles in Javascript](https://dev.to/shahmir049/single-responsibility-principle-solid-principles-in-javascript-3k63)
+- [Dev.to/JS] [Data Structures: Linked List II](https://dev.to/m13ha/data-structures-linked-list-ii-2icj)
+- [Dev.to/JS] [Generate apk for PURE React Native App](https://dev.to/silvenleaf/generate-apk-for-pure-react-native-app-df7)
 - [Dev.to/JS] [Paracetamol.js💊| #107: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-107-explica-este-codigo-javascript-2cgn)
 - [Dev.to/JS] [NFT Hero Section](https://dev.to/kumard3/nft-hero-section-4i5a)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How We Migrated from Javascript and Flow to TypeScript at Osome](https://dev.to/frolovdev/how-we-migrated-from-javascript-and-flow-to-typescript-at-osome-4661)
 - [Dev.to/JS] [Interfaces in TypeScript](https://dev.to/faminiprodev/interfaces-in-typescript-4ne6)
 - [Dev.to/JS] [A Dive into React Storybook](https://dev.to/asayerio_techblog/a-dive-into-react-storybook-e9d)
-- [Dev.to/JS] [How web browsers work - part 2 &lpar;with illustrations&rpar;🚀](https://dev.to/arikaturika/how-web-browsers-work-part-2-with-illustrations-1gn5)
-- [Dev.to/JS] [11 Productive Websites for Web Developers](https://dev.to/suprabhasupi/11-productive-websites-for-web-developers-2f1)
-- [Dev.to/JS] [Hoisting](https://dev.to/faminiprodev/hoisting-1h3o)
-- [Dev.to/JS] [Closure in javaScript](https://dev.to/faminiprodev/closure-in-javascript-4o1m)
+- [Dev.to/JS] [How web browsers work - fetching data &lpar;part 2, with illustrations&rpar;🚀](https://dev.to/arikaturika/how-web-browsers-work-part-2-with-illustrations-1gn5)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
