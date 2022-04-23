@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #107: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-107-explica-este-codigo-javascript-2cgn)
+- [Dev.to/JS] [NFT Hero Section](https://dev.to/kumard3/nft-hero-section-4i5a)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
 - [Dev.to/JS] [Final Fantasy VIII &amp; TypeScript](https://dev.to/philscode/final-fantasy-viii-typescript-1l7l)
 - [Dev.to/JS] [Testing with Jest](https://dev.to/faminiprodev/testing-with-jest-4gn3)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [11 Productive Websites for Web Developers](https://dev.to/suprabhasupi/11-productive-websites-for-web-developers-2f1)
 - [Dev.to/JS] [Hoisting](https://dev.to/faminiprodev/hoisting-1h3o)
 - [Dev.to/JS] [Closure in javaScript](https://dev.to/faminiprodev/closure-in-javascript-4o1m)
-- [Dev.to/JS] [Data Types in JavaScript](https://dev.to/gsharma010/data-types-in-javascript-12g6)
-- [Dev.to/JS] [Keto Complete Australia &lpar;A.U Reviews 2022&rpar;: Best Keto Diet Pills For Burn Fat?](https://dev.to/ketocompletget/keto-complete-australia-au-reviews-2022-best-keto-diet-pills-for-burn-fat-5708)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
