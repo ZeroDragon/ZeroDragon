@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript vs Javascript](https://dev.to/jordandev/typescript-vs-javascript-4iee)
+- [Dev.to/JS] [Creating a forum with React and Appwrite – Part 3](https://dev.to/alexcodes/creating-a-forum-with-react-and-appwrite-part-3-5chp)
+- [Dev.to/JS] [Javascript Productivity with Lodash](https://dev.to/ankitaabad/javascript-productivity-with-lodash-535f)
 - [Dev.to/JS] [React Custom Hooks Simplified](https://dev.to/shahabbukhari/react-custom-hooks-simplified-3ljm)
 - [Dev.to/JS] [Array.flatMap&lpar;&rpar; - for applying a map and a flat on an array](https://dev.to/dillionmegida/arrayflatmap-for-applying-a-map-and-a-flat-on-an-array-2dll)
 - [Dev.to/JS] [How to Use &quot;NuxtJS + Lanyard&quot;](https://dev.to/winnerose/how-to-use-nuxtjs-lanyard-2890)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [14 Exemplos de código limpo e encurtamento de código Javascript](https://dev.to/stefanyrepetcki/14-exemplos-de-codigo-limpo-e-encurtamento-de-codigo-javascript-1m3f)
 - [Dev.to/JS] [Day 15-16 of 100 days of Code](https://dev.to/nkemdev/day-16-of-100-days-of-code-4ldg)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
-- [Dev.to/JS] [Open Source Adventures: Episode 43: SolidJS](https://dev.to/taw/open-source-adventures-episode-43-solidjs-1f32)
-- [Dev.to/JS] [Don&#39;t Do This With Loops In Javascript](https://dev.to/jareer/dont-do-this-with-loops-in-javascript-ih2)
-- [Dev.to/JS] [Use Inflint to follow files and folders convention](https://dev.to/talr98/use-inflint-to-follow-files-and-folders-convention-e7c)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
 - [Lifehacker] [Why Graphics Card Prices Are Dropping &lpar;and How Much They Cost Now&rpar;](https://lifehacker.com/why-graphics-card-prices-are-dropping-and-how-much-the-1848830151)
