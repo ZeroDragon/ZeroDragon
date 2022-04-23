@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New Crossword-like game](https://dev.to/bobnerbovig/new-crossword-like-game-3ani)
+- [Dev.to/JS] [why do people use react over svelte?](https://dev.to/baraa_baba/why-do-people-use-react-over-svelte-4o31)
+- [Dev.to/JS] [How to add a Typewriter animation in VueJs](https://dev.to/gayathri_r/how-to-add-a-typewriter-animation-in-vuejs-43kj)
+- [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Dev.to/JS] [Single Responsibility Principle - SOLID Principles in Javascript](https://dev.to/shahmir049/single-responsibility-principle-solid-principles-in-javascript-3k63)
 - [Dev.to/JS] [Data Structures: Linked List II](https://dev.to/m13ha/data-structures-linked-list-ii-2icj)
 - [Dev.to/JS] [Generate apk for PURE React Native App](https://dev.to/silvenleaf/generate-apk-for-pure-react-native-app-df7)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing with Jest](https://dev.to/faminiprodev/testing-with-jest-4gn3)
 - [Dev.to/JS] [Getting started with NextJS - A Brief Introductory Guide](https://dev.to/annysah/getting-started-with-nextjs-a-brief-introductory-guide-3od4)
 - [Dev.to/JS] [How We Migrated from Javascript and Flow to TypeScript at Osome](https://dev.to/frolovdev/how-we-migrated-from-javascript-and-flow-to-typescript-at-osome-4661)
-- [Dev.to/JS] [Interfaces in TypeScript](https://dev.to/faminiprodev/interfaces-in-typescript-4ne6)
-- [Dev.to/JS] [A Dive into React Storybook](https://dev.to/asayerio_techblog/a-dive-into-react-storybook-e9d)
-- [Dev.to/JS] [How web browsers work - fetching data &lpar;part 2, with illustrations&rpar;🚀](https://dev.to/arikaturika/how-web-browsers-work-part-2-with-illustrations-1gn5)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Install a Corner Shelf in Your Shower](https://lifehacker.com/the-easiest-ways-to-install-a-corner-shelf-in-your-show-1848824161)
 - [Lifehacker] [How to Record Calls on Your Android Even Though Google Doesn&#39;t Want You To](https://lifehacker.com/how-to-record-calls-on-your-android-even-though-google-1848823180)
 - [Lifehacker] [Why You Should Add Chicory to Your Coffee](https://lifehacker.com/why-you-should-add-chicory-to-your-coffee-1848822988)
-- [Lifehacker] [Five Places You Can Still Get a Decent Meal for Under $10](https://lifehacker.com/five-places-you-can-still-get-a-decent-meal-for-under-1848823346)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
