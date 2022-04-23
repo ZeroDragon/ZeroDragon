@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Custom Hooks Simplified](https://dev.to/shahabbukhari/react-custom-hooks-simplified-3ljm)
+- [Dev.to/JS] [Array.flatMap&lpar;&rpar; - for applying a map and a flat on an array](https://dev.to/dillionmegida/arrayflatmap-for-applying-a-map-and-a-flat-on-an-array-2dll)
 - [Dev.to/JS] [How to Use &quot;NuxtJS + Lanyard&quot;](https://dev.to/winnerose/how-to-use-nuxtjs-lanyard-2890)
 - [Dev.to/JS] [Lambda Series](https://dev.to/alexcodes/lambda-series-5efe)
 - [Dev.to/JS] [Drag and drop to upload a photo #JavaScript](https://dev.to/inancakduvan/drag-and-drop-to-upload-a-photo-javascript-2417)
@@ -34,10 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open Source Adventures: Episode 43: SolidJS](https://dev.to/taw/open-source-adventures-episode-43-solidjs-1f32)
 - [Dev.to/JS] [Don&#39;t Do This With Loops In Javascript](https://dev.to/jareer/dont-do-this-with-loops-in-javascript-ih2)
 - [Dev.to/JS] [Use Inflint to follow files and folders convention](https://dev.to/talr98/use-inflint-to-follow-files-and-folders-convention-e7c)
-- [Dev.to/JS] [How the TypeScript Pick Type works](https://dev.to/smpnjn/how-the-typescript-pick-type-works-aph)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
-- [Dev.to/JS] [Top 3 JavaScript Tutorials of the Week](https://dev.to/codecast/top-3-javascript-tutorials-of-the-week-23e3)
 - [Lifehacker] [Why Graphics Card Prices Are Dropping &lpar;and How Much They Cost Now&rpar;](https://lifehacker.com/why-graphics-card-prices-are-dropping-and-how-much-the-1848830151)
 - [Lifehacker] [Why You Need to Put Away Your Bird Feeders and Baths Right Now](https://lifehacker.com/why-you-need-to-put-away-your-bird-feeders-and-baths-ri-1848829773)
 - [Lifehacker] [The Difference Between Pushing Yourself and Overtraining Syndrome](https://lifehacker.com/the-difference-between-pushing-yourself-and-overtrainin-1848829377)
