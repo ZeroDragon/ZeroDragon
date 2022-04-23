@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A BRAND NEW BEGINNING](https://dev.to/kelomo2502/a-brand-new-beginning-1ki0)
+- [Dev.to/JS] [Made With Appwrite - Now Live !](https://dev.to/elreyes/made-with-appwrite-now-live--30ba)
+- [Dev.to/JS] [Pre 3.0](https://dev.to/tuenguyen2911_67/pre-30-al7)
+- [Dev.to/JS] [Create app with Pure React Native :&rpar;](https://dev.to/silvenleaf/create-app-with-pure-react-native--36mi)
 - [Dev.to/JS] [Javascript Data Types - The Beginners Guide To Javascript&lpar;Part 1&rpar;](https://dev.to/camskithedev/javascript-data-types-the-beginners-guide-to-javascriptpart-1-156i)
 - [Dev.to/JS] [Typescript vs Javascript](https://dev.to/jordandev/typescript-vs-javascript-4iee)
 - [Dev.to/JS] [Creating a forum with React and Appwrite – Part 3](https://dev.to/alexcodes/creating-a-forum-with-react-and-appwrite-part-3-5chp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.flatMap&lpar;&rpar; - for applying a map and a flat on an array](https://dev.to/dillionmegida/arrayflatmap-for-applying-a-map-and-a-flat-on-an-array-2dll)
 - [Dev.to/JS] [How to Use &quot;NuxtJS + Lanyard&quot;](https://dev.to/winnerose/how-to-use-nuxtjs-lanyard-2890)
 - [Dev.to/JS] [Lambda Series](https://dev.to/alexcodes/lambda-series-5efe)
-- [Dev.to/JS] [Drag and drop to upload a photo #JavaScript](https://dev.to/inancakduvan/drag-and-drop-to-upload-a-photo-javascript-2417)
-- [Dev.to/JS] [Typescript project starter](https://dev.to/maddyonline/typescript-project-starter-1jh0)
-- [Dev.to/JS] [How web browsers work - part 1 &lpar;with illustrations&rpar;](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
-- [Dev.to/JS] [14 Exemplos de código limpo e encurtamento de código Javascript](https://dev.to/stefanyrepetcki/14-exemplos-de-codigo-limpo-e-encurtamento-de-codigo-javascript-1m3f)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
