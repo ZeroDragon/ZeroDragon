@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Licom – browser plugin for comments on every webpage](https://dev.to/skorotkiewicz/licom-browser-plugin-for-comments-on-every-webpage-21of)
+- [Dev.to/JS] [Implementation of Logic is way more harder than understanding the Logic](https://dev.to/smitagravat/implementation-of-logic-is-way-more-harder-than-understanding-the-logic-4d8l)
 - [Dev.to/JS] [How to Build the Perfect Developer Portfolio 🔥](https://dev.to/harshhhdev/how-to-build-the-perfect-developer-portfolio-576l)
 - [Dev.to/JS] [Benchmarking Reads in Universe](https://dev.to/krowemoh/benchmarking-reads-in-universe-17ba)
 - [Dev.to/JS] [Full .Net Core REST API and Angular App with all API URL Configuration and Port using Docker Compose - Part III](https://dev.to/jaydeepvpatil22/full-net-core-rest-api-and-angular-app-with-all-api-url-configuration-and-port-using-docker-compose-part-iii-3000)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Made With Appwrite - Now Live !](https://dev.to/elreyes/made-with-appwrite-now-live--30ba)
 - [Dev.to/JS] [Pre 3.0](https://dev.to/tuenguyen2911_67/pre-30-al7)
 - [Dev.to/JS] [Create app with Pure React Native :&rpar;](https://dev.to/silvenleaf/create-app-with-pure-react-native--36mi)
-- [Dev.to/JS] [Javascript Data Types - The Beginners Guide To Javascript&lpar;Part 1&rpar;](https://dev.to/camskithedev/javascript-data-types-the-beginners-guide-to-javascriptpart-1-156i)
-- [Dev.to/JS] [Typescript vs Javascript](https://dev.to/jordandev/typescript-vs-javascript-4iee)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
