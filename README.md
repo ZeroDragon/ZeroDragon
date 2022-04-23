@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Data Types - The Beginners Guide To Javascript&lpar;Part 1&rpar;](https://dev.to/camskithedev/javascript-data-types-the-beginners-guide-to-javascriptpart-1-156i)
 - [Dev.to/JS] [Typescript vs Javascript](https://dev.to/jordandev/typescript-vs-javascript-4iee)
 - [Dev.to/JS] [Creating a forum with React and Appwrite – Part 3](https://dev.to/alexcodes/creating-a-forum-with-react-and-appwrite-part-3-5chp)
 - [Dev.to/JS] [Javascript Productivity with Lodash](https://dev.to/ankitaabad/javascript-productivity-with-lodash-535f)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript project starter](https://dev.to/maddyonline/typescript-project-starter-1jh0)
 - [Dev.to/JS] [How web browsers work - part 1 &lpar;with illustrations&rpar;](https://dev.to/arikaturika/how-web-browsers-work-part-1-with-illustrations-1nid)
 - [Dev.to/JS] [14 Exemplos de código limpo e encurtamento de código Javascript](https://dev.to/stefanyrepetcki/14-exemplos-de-codigo-limpo-e-encurtamento-de-codigo-javascript-1m3f)
-- [Dev.to/JS] [Day 15-16 of 100 days of Code](https://dev.to/nkemdev/day-16-of-100-days-of-code-4ldg)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
