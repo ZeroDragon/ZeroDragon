@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Migrate to typescript](https://dev.to/udiko/migrate-to-typescript-12fp)
 - [Dev.to/JS] [What the heck is an Abstract Syntax Tree &lpar;AST&rpar; ?](https://dev.to/akshay9677/what-the-heck-is-an-abstract-syntax-tree-ast--3kk5)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Dev.to/JS] [Should I start learning React or is it too late ???](https://dev.to/shamgurav96/should-i-start-learning-react-or-is-it-too-late--3ic8)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Structures: Linked List II](https://dev.to/m13ha/data-structures-linked-list-ii-2icj)
 - [Dev.to/JS] [Generate apk for PURE React Native App](https://dev.to/silvenleaf/generate-apk-for-pure-react-native-app-df7)
 - [Dev.to/JS] [Paracetamol.js💊| #107: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-107-explica-este-codigo-javascript-2cgn)
-- [Dev.to/JS] [NFT Hero Section](https://dev.to/kumard3/nft-hero-section-4i5a)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
