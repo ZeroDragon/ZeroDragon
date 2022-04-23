@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Custom server and Automatic Static Optimization](https://dev.to/sambartik/custom-server-and-automatic-static-optimization-3bpb)
 - [Dev.to/JS] [Membuat Program Operasi Himpunan &lpar;Gabungan&rpar;](https://dev.to/arisca_abdullah/membuat-program-operasi-himpunan-gabungan-4c5n)
 - [Dev.to/JS] [Part 2: Creating an embeddable chat widget](https://dev.to/evertvdw/part-2-creating-an-embeddable-chat-widget-bb6)
 - [Dev.to/JS] [Top 5 JavaScript Plugins for Slider Animation](https://dev.to/md3bm/top-5-javascript-plugins-for-slider-animation-3dlc)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GirlScript Summer of Code Learning And Experiences: From Contributor To Project Admin](https://dev.to/astrodevil/girlscript-summer-of-code-learning-and-experiences-from-contributor-to-project-admin-poj)
 - [Dev.to/JS] [New Crossword-like game](https://dev.to/bobnerbovig/new-crossword-like-game-3ani)
 - [Dev.to/JS] [why do people use react over svelte?](https://dev.to/baraa_baba/why-do-people-use-react-over-svelte-4o31)
-- [Dev.to/JS] [How to add a Typewriter animation in VueJs](https://dev.to/gayathri_r/how-to-add-a-typewriter-animation-in-vuejs-43kj)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
