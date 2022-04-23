@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build the Perfect Developer Portfolio 🔥](https://dev.to/harshhhdev/how-to-build-the-perfect-developer-portfolio-576l)
+- [Dev.to/JS] [Benchmarking Reads in Universe](https://dev.to/krowemoh/benchmarking-reads-in-universe-17ba)
+- [Dev.to/JS] [Full .Net Core REST API and Angular App with all API URL Configuration and Port using Docker Compose - Part III](https://dev.to/jaydeepvpatil22/full-net-core-rest-api-and-angular-app-with-all-api-url-configuration-and-port-using-docker-compose-part-iii-3000)
 - [Dev.to/JS] [Build Basic .Net Core REST API and Angular Application Docker Images using Docker Part II](https://dev.to/jaydeepvpatil22/build-basic-net-core-rest-api-and-angular-application-docker-images-using-docker-part-ii-28ml)
 - [Dev.to/JS] [Docker Introduction, Architecture, and Command Details Part-I](https://dev.to/jaydeepvpatil22/docker-introduction-architecture-and-command-details-part-i-28bb)
 - [Dev.to/JS] [3.0 release, work is not yet done](https://dev.to/tuenguyen2911_67/30-release-work-is-not-yet-done-4mob)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create app with Pure React Native :&rpar;](https://dev.to/silvenleaf/create-app-with-pure-react-native--36mi)
 - [Dev.to/JS] [Javascript Data Types - The Beginners Guide To Javascript&lpar;Part 1&rpar;](https://dev.to/camskithedev/javascript-data-types-the-beginners-guide-to-javascriptpart-1-156i)
 - [Dev.to/JS] [Typescript vs Javascript](https://dev.to/jordandev/typescript-vs-javascript-4iee)
-- [Dev.to/JS] [Creating a forum with React and Appwrite – Part 3](https://dev.to/alexcodes/creating-a-forum-with-react-and-appwrite-part-3-5chp)
-- [Dev.to/JS] [Javascript Productivity with Lodash](https://dev.to/ankitaabad/javascript-productivity-with-lodash-535f)
-- [Dev.to/JS] [React Custom Hooks Simplified](https://dev.to/shahabbukhari/react-custom-hooks-simplified-3ljm)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
