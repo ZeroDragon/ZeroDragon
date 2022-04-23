@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
+- [Dev.to/JS] [Final Fantasy VIII &amp; TypeScript](https://dev.to/philscode/final-fantasy-viii-typescript-1l7l)
+- [Dev.to/JS] [Testing with Jest](https://dev.to/faminiprodev/testing-with-jest-4gn3)
+- [Dev.to/JS] [Getting started with NextJS - A Brief Introductory Guide](https://dev.to/annysah/getting-started-with-nextjs-a-brief-introductory-guide-3od4)
 - [Dev.to/JS] [How We Migrated from Javascript and Flow to TypeScript at Osome](https://dev.to/frolovdev/how-we-migrated-from-javascript-and-flow-to-typescript-at-osome-4661)
 - [Dev.to/JS] [Interfaces in TypeScript](https://dev.to/faminiprodev/interfaces-in-typescript-4ne6)
 - [Dev.to/JS] [A Dive into React Storybook](https://dev.to/asayerio_techblog/a-dive-into-react-storybook-e9d)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closure in javaScript](https://dev.to/faminiprodev/closure-in-javascript-4o1m)
 - [Dev.to/JS] [Data Types in JavaScript](https://dev.to/gsharma010/data-types-in-javascript-12g6)
 - [Dev.to/JS] [Keto Complete Australia &lpar;A.U Reviews 2022&rpar;: Best Keto Diet Pills For Burn Fat?](https://dev.to/ketocompletget/keto-complete-australia-au-reviews-2022-best-keto-diet-pills-for-burn-fat-5708)
-- [Dev.to/JS] [portals in javascript games](https://dev.to/noobjonh/portals-in-javascript-games-27pm)
-- [Dev.to/JS] [Licom – browser plugin for comments on every webpage](https://dev.to/skorotkiewicz/licom-browser-plugin-for-comments-on-every-webpage-21of)
-- [Dev.to/JS] [Implementation of Logic is way more harder than understanding the Logic](https://dev.to/smitagravat/implementation-of-logic-is-way-more-harder-than-understanding-the-logic-4d8l)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Record Calls on Your Android Even Though Google Doesn&#39;t Want You To](https://lifehacker.com/how-to-record-calls-on-your-android-even-though-google-1848823180)
 - [Lifehacker] [Why You Should Add Chicory to Your Coffee](https://lifehacker.com/why-you-should-add-chicory-to-your-coffee-1848822988)
 - [Lifehacker] [Five Places You Can Still Get a Decent Meal for Under $10](https://lifehacker.com/five-places-you-can-still-get-a-decent-meal-for-under-1848823346)
-- [Lifehacker] [15 of the Easiest Perennials to Grow](https://lifehacker.com/15-of-the-easiest-perennials-to-grow-1848823371)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
