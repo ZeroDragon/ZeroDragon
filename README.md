@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closure in javaScript](https://dev.to/faminiprodev/closure-in-javascript-4o1m)
 - [Dev.to/JS] [Data Types in JavaScript](https://dev.to/gsharma010/data-types-in-javascript-12g6)
 - [Dev.to/JS] [Keto Complete Australia &lpar;A.U Reviews 2022&rpar;: Best Keto Diet Pills For Burn Fat?](https://dev.to/ketocompletget/keto-complete-australia-au-reviews-2022-best-keto-diet-pills-for-burn-fat-5708)
 - [Dev.to/JS] [portals in javascript games](https://dev.to/noobjonh/portals-in-javascript-games-27pm)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Basic .Net Core REST API and Angular Application Docker Images using Docker Part II](https://dev.to/jaydeepvpatil22/build-basic-net-core-rest-api-and-angular-application-docker-images-using-docker-part-ii-28ml)
 - [Dev.to/JS] [Docker Introduction, Architecture, and Command Details Part-I](https://dev.to/jaydeepvpatil22/docker-introduction-architecture-and-command-details-part-i-28bb)
 - [Dev.to/JS] [3.0 release, work is not yet done](https://dev.to/tuenguyen2911_67/30-release-work-is-not-yet-done-4mob)
-- [Dev.to/JS] [A BRAND NEW BEGINNING](https://dev.to/kelomo2502/a-brand-new-beginning-1ki0)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
