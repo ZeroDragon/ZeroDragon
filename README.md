@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Basic .Net Core REST API and Angular Application Docker Images using Docker Part II](https://dev.to/jaydeepvpatil22/build-basic-net-core-rest-api-and-angular-application-docker-images-using-docker-part-ii-28ml)
+- [Dev.to/JS] [Docker Introduction, Architecture, and Command Details Part-I](https://dev.to/jaydeepvpatil22/docker-introduction-architecture-and-command-details-part-i-28bb)
+- [Dev.to/JS] [3.0 release, work is not yet done](https://dev.to/tuenguyen2911_67/30-release-work-is-not-yet-done-4mob)
 - [Dev.to/JS] [A BRAND NEW BEGINNING](https://dev.to/kelomo2502/a-brand-new-beginning-1ki0)
 - [Dev.to/JS] [Made With Appwrite - Now Live !](https://dev.to/elreyes/made-with-appwrite-now-live--30ba)
 - [Dev.to/JS] [Pre 3.0](https://dev.to/tuenguyen2911_67/pre-30-al7)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a forum with React and Appwrite – Part 3](https://dev.to/alexcodes/creating-a-forum-with-react-and-appwrite-part-3-5chp)
 - [Dev.to/JS] [Javascript Productivity with Lodash](https://dev.to/ankitaabad/javascript-productivity-with-lodash-535f)
 - [Dev.to/JS] [React Custom Hooks Simplified](https://dev.to/shahabbukhari/react-custom-hooks-simplified-3ljm)
-- [Dev.to/JS] [Array.flatMap&lpar;&rpar; - for applying a map and a flat on an array](https://dev.to/dillionmegida/arrayflatmap-for-applying-a-map-and-a-flat-on-an-array-2dll)
-- [Dev.to/JS] [How to Use &quot;NuxtJS + Lanyard&quot;](https://dev.to/winnerose/how-to-use-nuxtjs-lanyard-2890)
-- [Dev.to/JS] [Lambda Series](https://dev.to/alexcodes/lambda-series-5efe)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
