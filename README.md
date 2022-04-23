@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Custom server and Automatic Static Optimization](https://dev.to/sambartik/custom-server-and-automatic-static-optimization-3bpb)
+- [Dev.to/JS] [The Power of Template Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-template-design-pattern-in-javascript-533n)
+- [Dev.to/JS] [Creating Swipable Item using Vanilla JS/HTML/CSS](https://dev.to/ksckaan1/creating-swipable-item-using-vanilla-jshtmlcss-2mfj)
+- [Dev.to/JS] [SuperList Module](https://dev.to/super3laa/superlist-module-5dhg)
+- [Dev.to/JS] [Next.js: Custom server and Automatic Static Optimization](https://dev.to/sambartik/custom-server-and-automatic-static-optimization-3bpb)
 - [Dev.to/JS] [Membuat Program Operasi Himpunan &lpar;Gabungan&rpar;](https://dev.to/arisca_abdullah/membuat-program-operasi-himpunan-gabungan-4c5n)
 - [Dev.to/JS] [Part 2: Creating an embeddable chat widget](https://dev.to/evertvdw/part-2-creating-an-embeddable-chat-widget-bb6)
 - [Dev.to/JS] [Top 5 JavaScript Plugins for Slider Animation](https://dev.to/md3bm/top-5-javascript-plugins-for-slider-animation-3dlc)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Dev.to/JS] [Should I start learning React or is it too late ???](https://dev.to/shamgurav96/should-i-start-learning-react-or-is-it-too-late--3ic8)
 - [Dev.to/JS] [17 major React JS Interview questions](https://dev.to/xplodivity/17-major-react-js-interview-questions-25)
-- [Dev.to/JS] [GirlScript Summer of Code Learning And Experiences: From Contributor To Project Admin](https://dev.to/astrodevil/girlscript-summer-of-code-learning-and-experiences-from-contributor-to-project-admin-poj)
-- [Dev.to/JS] [New Crossword-like game](https://dev.to/bobnerbovig/new-crossword-like-game-3ani)
-- [Dev.to/JS] [why do people use react over svelte?](https://dev.to/baraa_baba/why-do-people-use-react-over-svelte-4o31)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
