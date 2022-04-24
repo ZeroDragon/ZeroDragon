@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [password strength indicator in JavaScript](https://dev.to/muhammad_asif/password-strength-indicator-in-javascript-4n4e)
+- [Dev.to/JS] [__proto__ Pollution](https://dev.to/nathan20/prototype-pollution-kmk)
+- [Dev.to/JS] [Dilemma](https://dev.to/dellarayes/dilemma-18hl)
+- [Dev.to/JS] [A History of Javascript and its evolution](https://dev.to/404answernotfound/a-history-of-javascript-and-its-evolution-27ig)
+- [Dev.to/JS] [144. Binary Tree Preorder Traversal](https://dev.to/samuelhinchliffe/144-binary-tree-preorder-traversal-jei)
 - [Dev.to/JS] [Next.js + Splitbee](https://dev.to/nico_bachner/nextjs-splitbee-532)
 - [Dev.to/JS] [How to Add Pixel Filter?](https://dev.to/thevinitgupta/how-to-add-pixel-filter-5h35)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React and Node.js E-Commerce - Stripe Payment Integration Video Tutorial](https://dev.to/chaoocharles/react-and-nodejs-e-commerce-stripe-payment-integration-video-tutorial-ee8)
 - [Dev.to/JS] [Sorting In Javascript | How it works under the hood ?](https://dev.to/swasdev4511/sorting-in-javascript-how-it-works--1cb)
 - [Dev.to/JS] [Text to Speech Converter in HTML, CSS, and Javascript](https://dev.to/incoderweb/text-to-speech-converter-in-html-css-and-javascript-m7l)
-- [Dev.to/JS] [Connect MetaMask wallet #JavaScript](https://dev.to/inancakduvan/connect-metamask-wallet-javascript-h1f)
-- [Dev.to/JS] [New Feature Devfolio](https://dev.to/kumard3/new-feature-devfolio-oi6)
-- [Dev.to/JS] [Modal In HTML/CSS With JavaScript](https://dev.to/w3hubs/modal-in-htmlcss-with-javascript-381f)
-- [Dev.to/JS] [This Microsoft proposal will prevent JavaScript from ever getting a type system](https://dev.to/guitarino/this-microsoft-proposal-will-prevent-javascript-from-ever-getting-a-type-system-pno)
-- [Dev.to/JS] [Integrating Angular 9 app with Liferay 7.x portlet](https://dev.to/piotrwoch/integrating-angular-9-app-with-liferay-7x-portlet-1931)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
