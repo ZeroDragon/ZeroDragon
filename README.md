@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Basics Part 1](https://dev.to/aryakris/javascript-basics-part-1-4ojf)
+- [Dev.to/JS] [Make a browser extension in 3 minutes!](https://dev.to/virejdasani/make-a-browser-extension-in-3-minutes-52jb)
+- [Dev.to/JS] [.toLocaleString, one of the most underrated JavaScript features](https://dev.to/siddharthshyniben/tolocalestring-one-of-the-most-underrated-javascript-features-lid)
 - [Dev.to/JS] [7 More Killer One-Liners in JavaScript](https://dev.to/ruppysuppy/7-more-killer-one-liners-in-javascript-2gf8)
-- [Dev.to/JS] [Introduction to Regex](https://dev.to/yohanesss/introduction-to-regex-1pmj)
 - [Dev.to/JS] [How to make internationalization your website on Vue@3 and Vue-i18n@9](https://dev.to/akirakashihara/how-to-make-internationalization-your-website-on-vue3-and-vue-i18n9-58oc)
 - [Dev.to/JS] [A deep and pragmatic guide to the `&lt;`, `&gt;`, `&lt;=` and `&gt;=` comparison operators of JavaScript](https://dev.to/ashutoshbw314/a-deep-and-pragmatic-guide-to-the-and-comparison-operators-of-javascript-586o)
 - [Dev.to/JS] [JavaScript Class](https://dev.to/davronnormuminov/javascript-class-1k7l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating Swipable Item using Vanilla JS/HTML/CSS](https://dev.to/ksckaan1/creating-swipable-item-using-vanilla-jshtmlcss-2mfj)
 - [Dev.to/JS] [SuperList Module](https://dev.to/super3laa/superlist-module-5dhg)
 - [Dev.to/JS] [Next.js: Custom server and Automatic Static Optimization](https://dev.to/sambartik/custom-server-and-automatic-static-optimization-3bpb)
-- [Dev.to/JS] [Membuat Program Operasi Himpunan &lpar;Gabungan&rpar;](https://dev.to/arisca_abdullah/membuat-program-operasi-himpunan-gabungan-4c5n)
-- [Dev.to/JS] [Part 2: Creating an embeddable chat widget](https://dev.to/evertvdw/part-2-creating-an-embeddable-chat-widget-bb6)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
