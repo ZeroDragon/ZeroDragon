@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
+- [Dev.to/JS] [Frameworks and Reinventing the Wheel](https://dev.to/devsimplicity/frameworks-and-reinventing-the-wheel-4o54)
 - [Dev.to/JS] [JSON to Table Viewer/Converter](https://dev.to/foxinfotech/json-to-table-viewerconverter-4423)
 - [Dev.to/JS] [React and Node.js E-Commerce - Stripe Payment Integration Video Tutorial](https://dev.to/chaoocharles/react-and-nodejs-e-commerce-stripe-payment-integration-video-tutorial-ee8)
 - [Dev.to/JS] [Sorting In Javascript | How it works under the hood ?](https://dev.to/swasdev4511/sorting-in-javascript-how-it-works--1cb)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Integrating Angular 9 app with Liferay 7.x portlet](https://dev.to/piotrwoch/integrating-angular-9-app-with-liferay-7x-portlet-1931)
 - [Dev.to/JS] [Using Nodejs with MongoDB](https://dev.to/sanjaysinghrajpoot/using-nodejs-with-mongodb-n)
 - [Dev.to/JS] [I&#39;ve made a react component that hides sensitive information in your app.](https://dev.to/itaylisaey/ive-made-a-react-component-that-hides-sensitive-information-in-your-app-6og)
-- [Dev.to/JS] [Javascript Basics Part 2](https://dev.to/aryakris/javascript-basics-part-2-1ae7)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Hurdle is Like Five Wordles in One](https://lifehacker.com/hurdle-is-like-five-wordles-in-one-1848823944)
 - [Lifehacker] [The Best Way to Care for Your Cast Iron Is to Actually Use It](https://lifehacker.com/the-best-way-to-care-for-your-cast-iron-is-to-actually-1848824476)
 - [Lifehacker] [The Easiest Ways to Install a Corner Shelf in Your Shower](https://lifehacker.com/the-easiest-ways-to-install-a-corner-shelf-in-your-show-1848824161)
-- [Lifehacker] [How to Record Calls on Your Android Even Though Google Doesn&#39;t Want You To](https://lifehacker.com/how-to-record-calls-on-your-android-even-though-google-1848823180)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
