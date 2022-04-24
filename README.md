@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js + Splitbee](https://dev.to/nico_bachner/nextjs-splitbee-532)
+- [Dev.to/JS] [How to Add Pixel Filter?](https://dev.to/thevinitgupta/how-to-add-pixel-filter-5h35)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
 - [Dev.to/JS] [Frameworks and Reinventing the Wheel](https://dev.to/devsimplicity/frameworks-and-reinventing-the-wheel-4o54)
 - [Dev.to/JS] [JSON to Table Viewer/Converter](https://dev.to/foxinfotech/json-to-table-viewerconverter-4423)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modal In HTML/CSS With JavaScript](https://dev.to/w3hubs/modal-in-htmlcss-with-javascript-381f)
 - [Dev.to/JS] [This Microsoft proposal will prevent JavaScript from ever getting a type system](https://dev.to/guitarino/this-microsoft-proposal-will-prevent-javascript-from-ever-getting-a-type-system-pno)
 - [Dev.to/JS] [Integrating Angular 9 app with Liferay 7.x portlet](https://dev.to/piotrwoch/integrating-angular-9-app-with-liferay-7x-portlet-1931)
-- [Dev.to/JS] [Using Nodejs with MongoDB](https://dev.to/sanjaysinghrajpoot/using-nodejs-with-mongodb-n)
-- [Dev.to/JS] [I&#39;ve made a react component that hides sensitive information in your app.](https://dev.to/itaylisaey/ive-made-a-react-component-that-hides-sensitive-information-in-your-app-6og)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
