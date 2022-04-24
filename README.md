@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to Regex](https://dev.to/yohanesss/introduction-to-regex-1lej)
+- [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
+- [Dev.to/JS] [Is Astro ready for your blog?](https://dev.to/brycewray/is-astro-ready-for-your-blog-63m)
+- [Dev.to/JS] [Setting user authorization on pages and menu functions](https://dev.to/faqru/setting-user-authorization-on-pages-and-menu-functions-3fm4)
 - [Dev.to/JS] [Creating An Augmented Reality Website With AR.js](https://dev.to/codesphere/creating-an-augmented-reality-website-with-arjs-9nk)
 - [Dev.to/JS] [Weekly Digest 16/2022](https://dev.to/marcobiedermann/weekly-digest-162022-34cg)
 - [Dev.to/JS] [Give me recommendation of Advanced project](https://dev.to/weeblet66/give-me-recommendation-of-advanced-project-5ag1)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Dev.to/JS] [password strength indicator in JavaScript](https://dev.to/muhammad_asif/password-strength-indicator-in-javascript-4n4e)
 - [Dev.to/JS] [__proto__ Pollution](https://dev.to/nathan20/prototype-pollution-kmk)
-- [Dev.to/JS] [Dilemma](https://dev.to/dellarayes/dilemma-18hl)
-- [Dev.to/JS] [A History of Javascript and its evolution](https://dev.to/404answernotfound/a-history-of-javascript-and-its-evolution-27ig)
-- [Dev.to/JS] [144. Binary Tree Preorder Traversal](https://dev.to/samuelhinchliffe/144-binary-tree-preorder-traversal-jei)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
 - [Lifehacker] [How to Know If a Google Chrome Extension Is Safe to Use](https://lifehacker.com/how-to-know-if-a-google-chrome-extension-is-safe-to-use-1848824700)
 - [Lifehacker] [Hurdle is Like Five Wordles in One](https://lifehacker.com/hurdle-is-like-five-wordles-in-one-1848823944)
-- [Lifehacker] [The Best Way to Care for Your Cast Iron Is to Actually Use It](https://lifehacker.com/the-best-way-to-care-for-your-cast-iron-is-to-actually-1848824476)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
 - [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
