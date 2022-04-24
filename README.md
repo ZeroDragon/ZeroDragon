@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Real Life Example - Recursive Components](https://dev.to/danielbellmas/real-life-example-recursive-components-9je)
+- [Dev.to/JS] [React native the master](https://dev.to/mahmudulhaquequdrati/react-native-the-master-5776)
+- [Dev.to/JS] [How to Build a Node API with esbuild](https://dev.to/franciscomendes10866/how-to-build-a-node-api-with-esbuild-8di)
+- [Dev.to/JS] [Javascript 1O1 series: Array’s Methods And Iterators Part&lpar;1&rpar;, Methods.](https://dev.to/osam1010/javascript-1o1-series-arrays-methods-and-iterators-part1-methods-24ff)
 - [Dev.to/JS] [Embed Responsive Maps To Your Website - Mapbox GL API](https://dev.to/catevee/embed-responsive-maps-to-your-website-mapbox-gl-api-4cnb)
 - [Dev.to/JS] [Tried no code / low code tool - retool](https://dev.to/shrey802/tried-no-code-low-code-tool-retool-hg2)
 - [Dev.to/JS] [WORKING WITH PUBLIC APIs](https://dev.to/paulinemomanyi/working-with-public-apis-2jp6)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New root API in React 18](https://dev.to/w3tsa/new-root-api-in-react-18-15jd)
 - [Dev.to/JS] [$](https://dev.to/itcomesinwaves/-1k05)
 - [Dev.to/JS] [Life and React](https://dev.to/wildsee/life-and-react-21fa)
-- [Dev.to/JS] [WebSocket with React, Nodejs, and Docker: Building a Chat Application](https://dev.to/koladev/websocket-with-react-nodejs-and-docker-building-a-chat-application-3447)
-- [Dev.to/JS] [Unit Testing](https://dev.to/mhasancy/unit-testing-1c8k)
-- [Dev.to/JS] [HOW I BECOME EXPERT IN JAVASCRIPT,](https://dev.to/yaseenbashir20/how-i-become-expert-in-javascript-34dp)
-- [Dev.to/JS] [Introduction to Regex](https://dev.to/yohanesss/introduction-to-regex-1lej)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
