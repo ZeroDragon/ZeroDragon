@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Social Media](https://dev.to/varyetesocial/social-media-16ai)
 - [Dev.to/JS] [The Power of Template Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-template-design-pattern-in-javascript-533n)
 - [Dev.to/JS] [Creating Swipable Item using Vanilla JS/HTML/CSS](https://dev.to/ksckaan1/creating-swipable-item-using-vanilla-jshtmlcss-2mfj)
 - [Dev.to/JS] [SuperList Module](https://dev.to/super3laa/superlist-module-5dhg)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What the heck is an Abstract Syntax Tree &lpar;AST&rpar; ?](https://dev.to/akshay9677/what-the-heck-is-an-abstract-syntax-tree-ast--3kk5)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Dev.to/JS] [Should I start learning React or is it too late ???](https://dev.to/shamgurav96/should-i-start-learning-react-or-is-it-too-late--3ic8)
-- [Dev.to/JS] [17 major React JS Interview questions](https://dev.to/xplodivity/17-major-react-js-interview-questions-25)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
