@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Factory Functions vs Constructors](https://dev.to/bchau1242/factory-functions-vs-constructors-500m)
+- [Dev.to/JS] [Melhorando comunicação com o backend, React com Axios](https://dev.to/antoniogsjunior/melhorando-comunicacao-com-o-backend-react-com-axios-2kg5)
 - [Dev.to/JS] [DOM nima va u qanday ishlaydi?](https://dev.to/dawroun/dom-nima-va-u-qanday-ishlaydi-20k0)
 - [Dev.to/JS] [Real Life Example - Recursive Components](https://dev.to/danielbellmas/real-life-example-recursive-components-9je)
 - [Dev.to/JS] [React native the master](https://dev.to/mahmudulhaquequdrati/react-native-the-master-5776)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WORKING WITH PUBLIC APIs](https://dev.to/paulinemomanyi/working-with-public-apis-2jp6)
 - [Dev.to/JS] [if javascript only needs the browser to compile why can&#39;t other languages do it](https://dev.to/brsnumget/if-javascript-only-needs-the-browser-to-compile-why-cant-other-languages-do-it-2and)
 - [Dev.to/JS] [Setup Micro Frontend Application with React Js](https://dev.to/shivampawar/setup-micro-frontend-application-with-react-js-m87)
-- [Dev.to/JS] [New root API in React 18](https://dev.to/w3tsa/new-root-api-in-react-18-15jd)
-- [Dev.to/JS] [$](https://dev.to/itcomesinwaves/-1k05)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
