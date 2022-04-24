@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Embed Responsive Maps To Your Website - Mapbox GL API](https://dev.to/catevee/embed-responsive-maps-to-your-website-mapbox-gl-api-4cnb)
+- [Dev.to/JS] [Tried no code / low code tool - retool](https://dev.to/shrey802/tried-no-code-low-code-tool-retool-hg2)
+- [Dev.to/JS] [WORKING WITH PUBLIC APIs](https://dev.to/paulinemomanyi/working-with-public-apis-2jp6)
+- [Dev.to/JS] [if javascript only needs the browser to compile why can&#39;t other languages do it](https://dev.to/brsnumget/if-javascript-only-needs-the-browser-to-compile-why-cant-other-languages-do-it-2and)
 - [Dev.to/JS] [Setup Micro Frontend Application with React Js](https://dev.to/shivampawar/setup-micro-frontend-application-with-react-js-m87)
 - [Dev.to/JS] [New root API in React 18](https://dev.to/w3tsa/new-root-api-in-react-18-15jd)
 - [Dev.to/JS] [$](https://dev.to/itcomesinwaves/-1k05)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HOW I BECOME EXPERT IN JAVASCRIPT,](https://dev.to/yaseenbashir20/how-i-become-expert-in-javascript-34dp)
 - [Dev.to/JS] [Introduction to Regex](https://dev.to/yohanesss/introduction-to-regex-1lej)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
-- [Dev.to/JS] [Is Astro ready for your blog?](https://dev.to/brycewray/is-astro-ready-for-your-blog-63m)
-- [Dev.to/JS] [Setting user authorization on pages and menu functions](https://dev.to/faqru/setting-user-authorization-on-pages-and-menu-functions-3fm4)
-- [Dev.to/JS] [Creating An Augmented Reality Website With AR.js](https://dev.to/codesphere/creating-an-augmented-reality-website-with-arjs-9nk)
-- [Dev.to/JS] [Weekly Digest 16/2022](https://dev.to/marcobiedermann/weekly-digest-162022-34cg)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
