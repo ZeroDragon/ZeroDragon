@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSON to Table Viewer/Converter](https://dev.to/foxinfotech/json-to-table-viewerconverter-4423)
+- [Dev.to/JS] [React and Node.js E-Commerce - Stripe Payment Integration Video Tutorial](https://dev.to/chaoocharles/react-and-nodejs-e-commerce-stripe-payment-integration-video-tutorial-ee8)
+- [Dev.to/JS] [Sorting In Javascript | How it works under the hood ?](https://dev.to/swasdev4511/sorting-in-javascript-how-it-works--1cb)
 - [Dev.to/JS] [Text to Speech Converter in HTML, CSS, and Javascript](https://dev.to/incoderweb/text-to-speech-converter-in-html-css-and-javascript-m7l)
 - [Dev.to/JS] [Connect MetaMask wallet #JavaScript](https://dev.to/inancakduvan/connect-metamask-wallet-javascript-h1f)
 - [Dev.to/JS] [New Feature Devfolio](https://dev.to/kumard3/new-feature-devfolio-oi6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Nodejs with MongoDB](https://dev.to/sanjaysinghrajpoot/using-nodejs-with-mongodb-n)
 - [Dev.to/JS] [I&#39;ve made a react component that hides sensitive information in your app.](https://dev.to/itaylisaey/ive-made-a-react-component-that-hides-sensitive-information-in-your-app-6og)
 - [Dev.to/JS] [Javascript Basics Part 2](https://dev.to/aryakris/javascript-basics-part-2-1ae7)
-- [Dev.to/JS] [Javascript Basics Part 1](https://dev.to/aryakris/javascript-basics-part-1-4ojf)
-- [Dev.to/JS] [Make a browser extension in 3 minutes!](https://dev.to/virejdasani/make-a-browser-extension-in-3-minutes-52jb)
-- [Dev.to/JS] [.toLocaleString, one of the most underrated JavaScript features](https://dev.to/siddharthshyniben/tolocalestring-one-of-the-most-underrated-javascript-features-lid)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
