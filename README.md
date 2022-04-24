@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Basics Part 2](https://dev.to/aryakris/javascript-basics-part-2-1ae7)
 - [Dev.to/JS] [Javascript Basics Part 1](https://dev.to/aryakris/javascript-basics-part-1-4ojf)
 - [Dev.to/JS] [Make a browser extension in 3 minutes!](https://dev.to/virejdasani/make-a-browser-extension-in-3-minutes-52jb)
 - [Dev.to/JS] [.toLocaleString, one of the most underrated JavaScript features](https://dev.to/siddharthshyniben/tolocalestring-one-of-the-most-underrated-javascript-features-lid)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Power of Template Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-template-design-pattern-in-javascript-533n)
 - [Dev.to/JS] [Creating Swipable Item using Vanilla JS/HTML/CSS](https://dev.to/ksckaan1/creating-swipable-item-using-vanilla-jshtmlcss-2mfj)
 - [Dev.to/JS] [SuperList Module](https://dev.to/super3laa/superlist-module-5dhg)
-- [Dev.to/JS] [Next.js: Custom server and Automatic Static Optimization](https://dev.to/sambartik/custom-server-and-automatic-static-optimization-3bpb)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
