@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to make internationalization your website on Vue@3 and Vue-i18n@9](https://dev.to/akirakashihara/how-to-make-internationalization-your-website-on-vue3-and-vue-i18n9-58oc)
+- [Dev.to/JS] [A deep and pragmatic guide to the `&lt;`, `&gt;`, `&lt;=` and `&gt;=` comparison operators of JavaScript](https://dev.to/ashutoshbw314/a-deep-and-pragmatic-guide-to-the-and-comparison-operators-of-javascript-586o)
+- [Dev.to/JS] [JavaScript Class](https://dev.to/davron129/javascript-class-1k7l)
 - [Dev.to/JS] [Social Media](https://dev.to/varyetesocial/social-media-16ai)
 - [Dev.to/JS] [The Power of Template Design Pattern in JavaScript](https://dev.to/jsmanifest/the-power-of-template-design-pattern-in-javascript-533n)
 - [Dev.to/JS] [Creating Swipable Item using Vanilla JS/HTML/CSS](https://dev.to/ksckaan1/creating-swipable-item-using-vanilla-jshtmlcss-2mfj)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Part 2: Creating an embeddable chat widget](https://dev.to/evertvdw/part-2-creating-an-embeddable-chat-widget-bb6)
 - [Dev.to/JS] [Top 5 JavaScript Plugins for Slider Animation](https://dev.to/md3bm/top-5-javascript-plugins-for-slider-animation-3dlc)
 - [Dev.to/JS] [Google Maps Clone Using Mapbox](https://dev.to/2devyank/google-maps-clone-using-mapbox-3p17)
-- [Dev.to/JS] [Migrate to typescript](https://dev.to/udiko/migrate-to-typescript-12fp)
-- [Dev.to/JS] [What the heck is an Abstract Syntax Tree &lpar;AST&rpar; ?](https://dev.to/akshay9677/what-the-heck-is-an-abstract-syntax-tree-ast--3kk5)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
-- [Dev.to/JS] [Should I start learning React or is it too late ???](https://dev.to/shamgurav96/should-i-start-learning-react-or-is-it-too-late--3ic8)
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
