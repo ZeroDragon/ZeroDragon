@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implement caching in Node.js with Redis](https://dev.to/saar120/implement-caching-in-nodejs-with-redis-4b7o)
+- [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
+- [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Dev.to/JS] [Javascript Concepts you can&#39;t miss to crack the interview &lpar;2022&rpar;](https://dev.to/tbaveja/javascript-concepts-you-cant-miss-to-crack-the-interview-2022-5gbc)
 - [Dev.to/JS] [Build a Lightweight Web Component with Lit.js](https://dev.to/asayerio_techblog/build-a-lightweight-web-component-with-litjs-2ah9)
 - [Dev.to/JS] [Creating a RESTful API easily using node.js | Part 3](https://dev.to/iamshour/creating-a-restful-api-easily-using-nodejs-part-3-5hm0)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ES6 Arrow Functions In JavaScript](https://dev.to/codecupdev/es6-arrow-functions-in-javascript-1pad)
 - [Dev.to/JS] [Day 18 of 100 Days of Code](https://dev.to/nkemdev/day-18-of-100-days-of-code-ljk)
 - [Lifehacker] [How to Actually Stay Calm During an Argument](https://lifehacker.com/how-to-actually-stay-calm-during-an-argument-1848838046)
-- [Dev.to/JS] [Array.at&lpar;&rpar;](https://dev.to/subbiahc/arrayat-35de)
 - [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
 - [Lifehacker] [How Many Movies Do You Need to See to Make a Theater Subscription Pay Off?](https://lifehacker.com/how-many-movies-do-you-need-to-see-to-make-a-theater-su-1848837747)
 - [Lifehacker] [5 ‘Myths’ That Are Actually True](https://lifehacker.com/5-myths-that-are-actually-true-1848838035)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need to Put Away Your Bird Feeders and Baths Right Now](https://lifehacker.com/why-you-need-to-put-away-your-bird-feeders-and-baths-ri-1848829773)
 - [Lifehacker] [The Difference Between Pushing Yourself and Overtraining Syndrome](https://lifehacker.com/the-difference-between-pushing-yourself-and-overtrainin-1848829377)
 - [Lifehacker] [What&#39;s New on HBO Max in May 2022](https://lifehacker.com/whats-new-on-hbo-max-in-may-2022-1848829242)
-- [Lifehacker] [Stop This Google Messages Bug From Draining Your Android&#39;s Battery](https://lifehacker.com/stop-this-google-messages-bug-from-draining-your-androi-1848829221)
-- [Lifehacker] [How Much Garden You Would Need to 100% Survive On](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
