@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automatically Send Invoices With WhatsApp](https://dev.to/freshbooks/automatically-send-invoices-with-whatsapp-fii)
+- [Dev.to/JS] [How web browsers work - parsing the HTML &lpar;part 3, with illustrations&rpar;📜🔥](https://dev.to/arikaturika/how-web-browsers-work-parsing-the-html-part-3-with-illustrations-45fi)
+- [Dev.to/JS] [Managing Javascript the easy way in Rails 7](https://dev.to/pezholio/managing-javascript-the-easy-way-in-rails-7-517g)
+- [Dev.to/JS] [Day-73 Training At Ryaz](https://dev.to/mahin651/day-73-training-at-ryaz-3hl5)
+- [Dev.to/JS] [My first Chrome Extension](https://dev.to/yashdatir/my-first-chrome-extension-49bb)
 - [Dev.to/JS] [Unknown type in typescript](https://dev.to/rubiin/unknown-type-in-typescript-5ak7)
 - [Dev.to/JS] [My journey with open source and lessons learned](https://dev.to/sidmohanty11/my-journey-with-open-source-and-lessons-learned-30e7)
 - [Dev.to/JS] [Diferença entre dependencies, devDependencies e peerDependencies](https://dev.to/stefanyrepetcki/diferenca-entre-devdependencies-dependencies-e-peerdependencies-5h0l)
@@ -31,13 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Play Sound on Button Click in JavaScript](https://dev.to/shantanu_jana/how-to-play-sound-on-button-click-in-javascript-3m48)
 - [Dev.to/JS] [Private class fields in Javascript &lpar;ES2022&rpar;](https://dev.to/smitterhane/private-class-fields-in-javascript-es2022-3b8)
 - [Dev.to/JS] [How To Code an Incremental button using Vanilla JavaScript](https://dev.to/emmykolic/how-to-code-an-incremental-button-using-vanilla-javascript-42le)
-- [Dev.to/JS] [Paracetamol.js💊| #108: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-108-explica-este-codigo-javascript-1148)
-- [Dev.to/JS] [What Makes a Unit Test Valuable?](https://dev.to/braydoncoyer/what-makes-a-unit-test-valuable-5fpi)
 - [Lifehacker] [The Difference Between Composite and Wood Decking &lpar;and How to Choose&rpar;](https://lifehacker.com/the-difference-between-composite-and-wood-decking-and-1848835709)
 - [Lifehacker] [7 of the Most Common Irrational Fears &lpar;and 7 Things We Should Be Scared of Instead&rpar;](https://lifehacker.com/7-of-the-most-common-irrational-fears-and-7-things-we-1848831889)
-- [Dev.to/JS] [Keycloak Integration in Minutes with Cloud IAM and WunderGraph](https://dev.to/wundergraph/keycloak-integration-in-minutes-with-cloud-iam-and-wundergraph-28b8)
-- [Dev.to/JS] [Day 17-19: Markdown Previewer](https://dev.to/kemystra/day-17-19-markdown-previewer-5c2j)
-- [Dev.to/JS] [Adding Isochrones to a Leaflet Map with JavaScript](https://dev.to/geoapify/adding-isochrones-to-a-leaflet-map-with-javascript-294i)
 - [Lifehacker] [Make Caramel-Center Lava Cakes With Two Trader Joe&#39;s Products](https://lifehacker.com/make-caramel-center-lava-cakes-with-two-trader-joes-pro-1848831840)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
