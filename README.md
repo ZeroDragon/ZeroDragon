@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Array Methods. All you really need to know.](https://dev.to/walterego/javascript-array-methods-all-you-really-need-to-know-33ge)
+- [Dev.to/JS] [Use Arrow function, &lpar;&rpar; =&gt; {}, to correctly binds this](https://dev.to/scooperdev/use-arrow-function-to-correctly-binds-this-1dnp)
 - [Dev.to/JS] [Top B2B SaaS App Trends to watch in 2022!](https://dev.to/hiwilliam2/top-b2b-saas-app-trends-to-watch-in-2022-1mja)
 - [Dev.to/JS] [How to Create a Draggable Div in JavaScript](https://dev.to/shantanu_jana/how-to-create-a-draggable-div-in-javascript-iff)
 - [Dev.to/JS] [Offshore Software Development Rates by Country in 2022](https://dev.to/fireartd/offshore-software-development-rates-by-country-in-2022-5b6h)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS newbie](https://dev.to/juliuskipyego/js-newbie-5175)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Dev.to/JS] [Frontend Mentor - URL shortening API landing page](https://dev.to/nabillatrisnani/frontend-mentor-url-shortening-api-landing-page-3oa9)
-- [Dev.to/JS] [19 JavaScript Questions I Have Been Asked Most In Interviews](https://dev.to/lambdatest/19-javascript-questions-i-have-been-asked-most-in-interviews-4e4b)
-- [Dev.to/JS] [🔁automatic-loading-and-redirecting🔁](https://dev.to/amirrezaheydari/automatic-loading-and-redirecting-adl)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
