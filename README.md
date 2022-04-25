@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Minesweeper](https://dev.to/pwong09/minesweeper-1jl7)
+- [Dev.to/JS] [How to send and receive data in Socket IO?](https://dev.to/sushantagupta007/how-to-send-and-receive-data-in-socket-io-emj)
 - [Dev.to/JS] [JavaScript arrow functions](https://dev.to/fig781/javascript-arrow-functions-43h4)
 - [Dev.to/JS] [Melhorando comunicação com o backend, Angular e Rxjs](https://dev.to/antoniogsjunior/melhorando-comunicacao-com-o-backend-angular-e-rxjs-18fc)
 - [Dev.to/JS] [Setup begins. #2](https://dev.to/zacherymorgan/the-first-seed-has-been-sown-15m6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Real Life Example - Recursive Components](https://dev.to/danielbellmas/real-life-example-recursive-components-9je)
 - [Dev.to/JS] [React native the master](https://dev.to/mahmudulhaquequdrati/react-native-the-master-5776)
 - [Dev.to/JS] [How to Build a Node API with esbuild](https://dev.to/franciscomendes10866/how-to-build-a-node-api-with-esbuild-8di)
-- [Dev.to/JS] [Javascript 1O1 series: Array’s Methods And Iterators Part&lpar;1&rpar;, Methods.](https://dev.to/osam1010/javascript-1o1-series-arrays-methods-and-iterators-part1-methods-24ff)
-- [Dev.to/JS] [Embed Responsive Maps To Your Website - Mapbox GL API](https://dev.to/catevee/embed-responsive-maps-to-your-website-mapbox-gl-api-4cnb)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
