@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Composite and Wood Decking &lpar;and How to Choose&rpar;](https://lifehacker.com/the-difference-between-composite-and-wood-decking-and-1848835709)
+- [Lifehacker] [7 of the Most Common Irrational Fears &lpar;and 7 Things We Should Be Scared of Instead&rpar;](https://lifehacker.com/7-of-the-most-common-irrational-fears-and-7-things-we-1848831889)
+- [Dev.to/JS] [Keycloak Integration in Minutes with Cloud IAM and WunderGraph](https://dev.to/wundergraph/keycloak-integration-in-minutes-with-cloud-iam-and-wundergraph-28b8)
+- [Dev.to/JS] [Day 17-19: Markdown Previewer](https://dev.to/kemystra/day-17-19-markdown-previewer-5c2j)
+- [Dev.to/JS] [Adding Isochrones to a Leaflet Map with JavaScript](https://dev.to/geoapify/adding-isochrones-to-a-leaflet-map-with-javascript-294i)
+- [Dev.to/JS] [Handle Sensitive Data Securely with Skyflow](https://dev.to/thawkin3/handle-sensitive-data-securely-with-skyflow-1ofh)
+- [Dev.to/JS] [Lets Look At Magic LookAt Matrices](https://dev.to/carmencincotti/lets-look-at-magic-lookat-matrices-1c7o)
 - [Dev.to/JS] [Complete Email Authentication with Next.js and Altogic](https://dev.to/altogic/complete-email-authentication-with-nextjs-and-altogic-1h1i)
 - [Lifehacker] [Make Caramel-Center Lava Cakes With Two Trader Joe&#39;s Products](https://lifehacker.com/make-caramel-center-lava-cakes-with-two-trader-joes-pro-1848831840)
 - [Dev.to/JS] [Create A Simple Accordion Menu Using Vanilla JavaScript](https://dev.to/hirajatamil/create-a-simple-accordion-menu-using-vanilla-javascript-2n90)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First Post on here!!!](https://dev.to/1337mekroud/first-post-on-here-2fg3)
 - [Dev.to/JS] [A Step-By-Step Guide to Server-Side Rendering with VueJS](https://dev.to/syncfusion/a-step-by-step-guide-to-server-side-rendering-with-vuejs-2gdo)
 - [Dev.to/JS] [Membuat Program Operasi Himpunan &lpar;Irisan&rpar;](https://dev.to/arisca_abdullah/membuat-program-operasi-himpunan-irisan-1md8)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💘.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-4enp)
-- [Dev.to/JS] [Academic Mantra Services](https://dev.to/academicmantraservices/academic-mantra-services-2enc)
-- [Dev.to/JS] [#CodeNewbie](https://dev.to/cyberraff/codenewbie-13h6)
-- [Dev.to/JS] [Render as you fetch with Angular lifecycle hooks](https://dev.to/mmuscat/render-as-you-fetch-with-angular-lifecycle-hooks-396i)
-- [Dev.to/JS] [Strict Mode in Javascript](https://dev.to/dawroun/strict-mode-in-javascript-2ihg)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Current Home Work for You &lpar;When Moving Isn’t an Option&rpar;](https://lifehacker.com/how-to-make-your-current-home-work-for-you-when-moving-1848811320)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
-- [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
-- [Lifehacker] [How to Know If a Google Chrome Extension Is Safe to Use](https://lifehacker.com/how-to-know-if-a-google-chrome-extension-is-safe-to-use-1848824700)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
