@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unknown type in typescript](https://dev.to/rubiin/unknown-type-in-typescript-5ak7)
+- [Dev.to/JS] [My journey with open source and lessons learned](https://dev.to/sidmohanty11/my-journey-with-open-source-and-lessons-learned-30e7)
+- [Dev.to/JS] [Diferença entre dependencies, devDependencies e peerDependencies](https://dev.to/stefanyrepetcki/diferenca-entre-devdependencies-dependencies-e-peerdependencies-5h0l)
+- [Dev.to/JS] [Prisma now offers MongoDB Support!](https://dev.to/mongodb/prisma-now-offers-mongodb-support-2j54)
+- [Lifehacker] [You Should Reconsider Stainless Steel Appliances &lpar;and What to Use Instead&rpar;](https://lifehacker.com/you-should-reconsider-stainless-steel-appliances-and-w-1848836618)
 - [Dev.to/JS] [How to Play Sound on Button Click in JavaScript](https://dev.to/shantanu_jana/how-to-play-sound-on-button-click-in-javascript-3m48)
 - [Dev.to/JS] [Private class fields in Javascript &lpar;ES2022&rpar;](https://dev.to/smitterhane/private-class-fields-in-javascript-es2022-3b8)
 - [Dev.to/JS] [How To Code an Incremental button using Vanilla JavaScript](https://dev.to/emmykolic/how-to-code-an-incremental-button-using-vanilla-javascript-42le)
@@ -33,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Keycloak Integration in Minutes with Cloud IAM and WunderGraph](https://dev.to/wundergraph/keycloak-integration-in-minutes-with-cloud-iam-and-wundergraph-28b8)
 - [Dev.to/JS] [Day 17-19: Markdown Previewer](https://dev.to/kemystra/day-17-19-markdown-previewer-5c2j)
 - [Dev.to/JS] [Adding Isochrones to a Leaflet Map with JavaScript](https://dev.to/geoapify/adding-isochrones-to-a-leaflet-map-with-javascript-294i)
-- [Dev.to/JS] [Handle Sensitive Data Securely with Skyflow](https://dev.to/thawkin3/handle-sensitive-data-securely-with-skyflow-1ofh)
-- [Dev.to/JS] [Lets Look At Magic LookAt Matrices](https://dev.to/carmencincotti/lets-look-at-magic-lookat-matrices-1c7o)
-- [Dev.to/JS] [Complete Email Authentication with Next.js and Altogic](https://dev.to/altogic/complete-email-authentication-with-nextjs-and-altogic-1h1i)
 - [Lifehacker] [Make Caramel-Center Lava Cakes With Two Trader Joe&#39;s Products](https://lifehacker.com/make-caramel-center-lava-cakes-with-two-trader-joes-pro-1848831840)
-- [Dev.to/JS] [Create A Simple Accordion Menu Using Vanilla JavaScript](https://dev.to/hirajatamil/create-a-simple-accordion-menu-using-vanilla-javascript-2n90)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix Your Leaky Garden Hose](https://lifehacker.com/how-to-fix-your-leaky-garden-hose-1848823256)
 - [Lifehacker] [How to Make Your Current Home Work for You &lpar;When Moving Isn’t an Option&rpar;](https://lifehacker.com/how-to-make-your-current-home-work-for-you-when-moving-1848811320)
 - [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
-- [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
