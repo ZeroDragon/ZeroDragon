@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Curso Node.JS 🧰 Essencial](https://dev.to/fraconca/curso-nodejs-essencial-em2)
+- [Dev.to/JS] [https://sites.google.com/view/ketoextremefatburnersouthafric/home](https://dev.to/kfatbur/httpssitesgooglecomviewketoextremefatburnersouthafrichome-46ki)
+- [Dev.to/JS] [How to Install Vite.js on your Computer?](https://dev.to/whotarusharora/how-to-install-vitejs-on-your-computer-1l6)
+- [Dev.to/JS] [Instalando o Node.JS 🛠️](https://dev.to/fraconca/instalando-o-nodejs-1ie8)
+- [Dev.to/JS] [Curso Node.JS Essencial 🧰](https://dev.to/fraconca/curso-nodejs-essencial-em2)
 - [Dev.to/JS] [Learn Vue.js](https://dev.to/mrayyan/learn-vuejs-2mgf)
 - [Dev.to/JS] [Etch A Sketch in Javascript](https://dev.to/warmastr/etch-a-sketch-in-javascript-43m4)
 - [Dev.to/JS] [What is Express.js?](https://dev.to/swislokdev/what-is-expressjs-c6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Rest and the Spread operator of JS](https://dev.to/umangm05/the-rest-and-the-spread-operator-of-js-8an)
 - [Dev.to/JS] [Lets Follow Each Other on Medium](https://dev.to/code_with_ali/lets-follow-each-other-on-medium-4in6)
 - [Dev.to/JS] [Minesweeper](https://dev.to/pwong09/minesweeper-1jl7)
-- [Dev.to/JS] [How to send and receive data in Socket IO?](https://dev.to/sushantagupta007/how-to-send-and-receive-data-in-socket-io-emj)
-- [Dev.to/JS] [JavaScript arrow functions](https://dev.to/fig781/javascript-arrow-functions-43h4)
-- [Dev.to/JS] [Melhorando comunicação com o backend, Angular e Rxjs](https://dev.to/antoniogsjunior/melhorando-comunicacao-com-o-backend-angular-e-rxjs-18fc)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
