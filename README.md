@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Digging more into Variables in JavaScript](https://dev.to/aryakris/digging-more-into-variables-in-javascript-2ega)
+- [Dev.to/JS] [The Rest and the Spread operator of JS](https://dev.to/umangm05/the-rest-and-the-spread-operator-of-js-8an)
+- [Dev.to/JS] [Lets Follow Each Other on Medium](https://dev.to/code_with_ali/lets-follow-each-other-on-medium-4in6)
 - [Dev.to/JS] [Minesweeper](https://dev.to/pwong09/minesweeper-1jl7)
 - [Dev.to/JS] [How to send and receive data in Socket IO?](https://dev.to/sushantagupta007/how-to-send-and-receive-data-in-socket-io-emj)
 - [Dev.to/JS] [JavaScript arrow functions](https://dev.to/fig781/javascript-arrow-functions-43h4)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Factory Functions vs Constructors](https://dev.to/bchau1242/factory-functions-vs-constructors-500m)
 - [Dev.to/JS] [Melhorando comunicação com o backend, React com Axios](https://dev.to/antoniogsjunior/melhorando-comunicacao-com-o-backend-react-com-axios-2kg5)
 - [Dev.to/JS] [DOM nima va u qanday ishlaydi?](https://dev.to/dawroun/dom-nima-va-u-qanday-ishlaydi-20k0)
-- [Dev.to/JS] [Real Life Example - Recursive Components](https://dev.to/danielbellmas/real-life-example-recursive-components-9je)
-- [Dev.to/JS] [React native the master](https://dev.to/mahmudulhaquequdrati/react-native-the-master-5776)
-- [Dev.to/JS] [How to Build a Node API with esbuild](https://dev.to/franciscomendes10866/how-to-build-a-node-api-with-esbuild-8di)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
