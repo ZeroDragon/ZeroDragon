@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Curso Node.JS 🧰 Essencial](https://dev.to/fraconca/curso-nodejs-essencial-em2)
+- [Dev.to/JS] [Learn Vue.js](https://dev.to/mrayyan/learn-vuejs-2mgf)
+- [Dev.to/JS] [Etch A Sketch in Javascript](https://dev.to/warmastr/etch-a-sketch-in-javascript-43m4)
 - [Dev.to/JS] [What is Express.js?](https://dev.to/swislokdev/what-is-expressjs-c6)
 - [Dev.to/JS] [Creating a RESTful API easily using node.js | Part 2](https://dev.to/iamshour/creating-a-restful-api-easily-using-nodejs-part-2-4l6h)
 - [Dev.to/JS] [Digging more into Variables in JavaScript](https://dev.to/aryakris/digging-more-into-variables-in-javascript-2ega)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to send and receive data in Socket IO?](https://dev.to/sushantagupta007/how-to-send-and-receive-data-in-socket-io-emj)
 - [Dev.to/JS] [JavaScript arrow functions](https://dev.to/fig781/javascript-arrow-functions-43h4)
 - [Dev.to/JS] [Melhorando comunicação com o backend, Angular e Rxjs](https://dev.to/antoniogsjunior/melhorando-comunicacao-com-o-backend-angular-e-rxjs-18fc)
-- [Dev.to/JS] [Setup begins. #2](https://dev.to/zacherymorgan/the-first-seed-has-been-sown-15m6)
-- [Dev.to/JS] [Intigriti 0422 - XSS Challenge Writeup](https://dev.to/therealbrenu/intigriti-0422-xss-challenge-writeup-4n3m)
-- [Dev.to/JS] [Factory Functions vs Constructors](https://dev.to/bchau1242/factory-functions-vs-constructors-500m)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
