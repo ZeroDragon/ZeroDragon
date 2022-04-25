@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript arrow functions](https://dev.to/fig781/javascript-arrow-functions-43h4)
+- [Dev.to/JS] [Melhorando comunicação com o backend, Angular e Rxjs](https://dev.to/antoniogsjunior/melhorando-comunicacao-com-o-backend-angular-e-rxjs-18fc)
+- [Dev.to/JS] [Setup begins. #2](https://dev.to/zacherymorgan/the-first-seed-has-been-sown-15m6)
+- [Dev.to/JS] [Intigriti 0422 - XSS Challenge Writeup](https://dev.to/therealbrenu/intigriti-0422-xss-challenge-writeup-4n3m)
 - [Dev.to/JS] [Factory Functions vs Constructors](https://dev.to/bchau1242/factory-functions-vs-constructors-500m)
 - [Dev.to/JS] [Melhorando comunicação com o backend, React com Axios](https://dev.to/antoniogsjunior/melhorando-comunicacao-com-o-backend-react-com-axios-2kg5)
 - [Dev.to/JS] [DOM nima va u qanday ishlaydi?](https://dev.to/dawroun/dom-nima-va-u-qanday-ishlaydi-20k0)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Node API with esbuild](https://dev.to/franciscomendes10866/how-to-build-a-node-api-with-esbuild-8di)
 - [Dev.to/JS] [Javascript 1O1 series: Array’s Methods And Iterators Part&lpar;1&rpar;, Methods.](https://dev.to/osam1010/javascript-1o1-series-arrays-methods-and-iterators-part1-methods-24ff)
 - [Dev.to/JS] [Embed Responsive Maps To Your Website - Mapbox GL API](https://dev.to/catevee/embed-responsive-maps-to-your-website-mapbox-gl-api-4cnb)
-- [Dev.to/JS] [Tried no code / low code tool - retool](https://dev.to/shrey802/tried-no-code-low-code-tool-retool-hg2)
-- [Dev.to/JS] [WORKING WITH PUBLIC APIs](https://dev.to/paulinemomanyi/working-with-public-apis-2jp6)
-- [Dev.to/JS] [if javascript only needs the browser to compile why can&#39;t other languages do it](https://dev.to/brsnumget/if-javascript-only-needs-the-browser-to-compile-why-cant-other-languages-do-it-2and)
-- [Dev.to/JS] [Setup Micro Frontend Application with React Js](https://dev.to/shivampawar/setup-micro-frontend-application-with-react-js-m87)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
