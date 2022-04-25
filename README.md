@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Complete Email Authentication with Next.js and Altogic](https://dev.to/altogic/complete-email-authentication-with-nextjs-and-altogic-1h1i)
+- [Lifehacker] [Make Caramel-Center Lava Cakes With Two Trader Joe&#39;s Products](https://lifehacker.com/make-caramel-center-lava-cakes-with-two-trader-joes-pro-1848831840)
+- [Dev.to/JS] [Create A Simple Accordion Menu Using Vanilla JavaScript](https://dev.to/hirajatamil/create-a-simple-accordion-menu-using-vanilla-javascript-2n90)
+- [Dev.to/JS] [Improve React App Performance - Redux/Saga Code Splitting-[ Part 2 ]](https://dev.to/rupeshpadhye/improve-react-app-performance-reduxsaga-code-splitting-part-2--2p60)
+- [Dev.to/JS] [The book that changed my development career now has a Javascript version](https://dev.to/wesen/the-book-that-changed-my-development-career-now-has-a-javascript-version-33hi)
 - [Dev.to/JS] [First Post on here!!!](https://dev.to/1337mekroud/first-post-on-here-2fg3)
+- [Dev.to/JS] [A Step-By-Step Guide to Server-Side Rendering with VueJS](https://dev.to/syncfusion/a-step-by-step-guide-to-server-side-rendering-with-vuejs-2gdo)
 - [Dev.to/JS] [Membuat Program Operasi Himpunan &lpar;Irisan&rpar;](https://dev.to/arisca_abdullah/membuat-program-operasi-himpunan-irisan-1md8)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💘.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-4enp)
 - [Dev.to/JS] [Academic Mantra Services](https://dev.to/academicmantraservices/academic-mantra-services-2enc)
 - [Dev.to/JS] [#CodeNewbie](https://dev.to/cyberraff/codenewbie-13h6)
 - [Dev.to/JS] [Render as you fetch with Angular lifecycle hooks](https://dev.to/mmuscat/render-as-you-fetch-with-angular-lifecycle-hooks-396i)
 - [Dev.to/JS] [Strict Mode in Javascript](https://dev.to/dawroun/strict-mode-in-javascript-2ihg)
-- [Dev.to/JS] [3 ways your team can improve code quality](https://dev.to/charliejoel/3-ways-your-team-can-improve-code-quality-o78)
-- [Dev.to/JS] [Javascript Array Methods. All you really need to know.](https://dev.to/walterego/javascript-array-methods-all-you-really-need-to-know-33ge)
-- [Dev.to/JS] [Use Arrow function, &lpar;&rpar; =&gt; {}, to correctly binds this](https://dev.to/scooperdev/use-arrow-function-to-correctly-binds-this-1dnp)
-- [Dev.to/JS] [Top B2B SaaS App Trends to watch in 2022!](https://dev.to/hiwilliam2/top-b2b-saas-app-trends-to-watch-in-2022-1mja)
-- [Dev.to/JS] [How to Create a Draggable Div in JavaScript](https://dev.to/shantanu_jana/how-to-create-a-draggable-div-in-javascript-iff)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Intermittent Fasting Isn&#39;t the Answer](https://lifehacker.com/intermittent-fasting-isnt-the-answer-1848825077)
 - [Lifehacker] [Is Costco Really Better Than Sam’s Club?](https://lifehacker.com/is-costco-really-better-than-sam-s-club-1848825201)
 - [Lifehacker] [How to Know If a Google Chrome Extension Is Safe to Use](https://lifehacker.com/how-to-know-if-a-google-chrome-extension-is-safe-to-use-1848824700)
-- [Lifehacker] [Hurdle is Like Five Wordles in One](https://lifehacker.com/hurdle-is-like-five-wordles-in-one-1848823944)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
