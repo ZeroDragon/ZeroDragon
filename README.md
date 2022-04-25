@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Practices For Remote-First Organizations](https://dev.to/codemonkcm/best-practices-for-remote-first-organizations-4d3n)
+- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Circular Doubly Linked List](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-circular-doubly-linked-list-1m6c)
+- [Dev.to/JS] [Create Login &amp; Register transparent form with video background.](https://dev.to/herofoxfire/create-login-register-transparent-form-with-video-background-55mh)
 - [Dev.to/JS] [Automatically Send Invoices With WhatsApp](https://dev.to/freshbooks/automatically-send-invoices-with-whatsapp-fii)
+- [Lifehacker] [Let This Free App Explain How to Play a New Board Game &lpar;So You Don’t Have To&rpar;](https://lifehacker.com/let-this-free-app-explain-how-to-play-a-new-board-game-1848837182)
 - [Dev.to/JS] [How web browsers work - parsing the HTML &lpar;part 3, with illustrations&rpar;📜🔥](https://dev.to/arikaturika/how-web-browsers-work-parsing-the-html-part-3-with-illustrations-45fi)
 - [Dev.to/JS] [Managing Javascript the easy way in Rails 7](https://dev.to/pezholio/managing-javascript-the-easy-way-in-rails-7-517g)
 - [Dev.to/JS] [Day-73 Training At Ryaz](https://dev.to/mahin651/day-73-training-at-ryaz-3hl5)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Diferença entre dependencies, devDependencies e peerDependencies](https://dev.to/stefanyrepetcki/diferenca-entre-devdependencies-dependencies-e-peerdependencies-5h0l)
 - [Dev.to/JS] [Prisma now offers MongoDB Support!](https://dev.to/mongodb/prisma-now-offers-mongodb-support-2j54)
 - [Lifehacker] [You Should Reconsider Stainless Steel Appliances &lpar;and What to Use Instead&rpar;](https://lifehacker.com/you-should-reconsider-stainless-steel-appliances-and-w-1848836618)
-- [Dev.to/JS] [How to Play Sound on Button Click in JavaScript](https://dev.to/shantanu_jana/how-to-play-sound-on-button-click-in-javascript-3m48)
-- [Dev.to/JS] [Private class fields in Javascript &lpar;ES2022&rpar;](https://dev.to/smitterhane/private-class-fields-in-javascript-es2022-3b8)
-- [Dev.to/JS] [How To Code an Incremental button using Vanilla JavaScript](https://dev.to/emmykolic/how-to-code-an-incremental-button-using-vanilla-javascript-42le)
 - [Lifehacker] [The Difference Between Composite and Wood Decking &lpar;and How to Choose&rpar;](https://lifehacker.com/the-difference-between-composite-and-wood-decking-and-1848835709)
 - [Lifehacker] [7 of the Most Common Irrational Fears &lpar;and 7 Things We Should Be Scared of Instead&rpar;](https://lifehacker.com/7-of-the-most-common-irrational-fears-and-7-things-we-1848831889)
 - [Lifehacker] [Make Caramel-Center Lava Cakes With Two Trader Joe&#39;s Products](https://lifehacker.com/make-caramel-center-lava-cakes-with-two-trader-joes-pro-1848831840)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Roll Out Pie Dough Without Ruining It](https://lifehacker.com/how-to-roll-out-pie-dough-without-ruining-it-1848826680)
 - [Lifehacker] [How to Fix Your Leaky Garden Hose](https://lifehacker.com/how-to-fix-your-leaky-garden-hose-1848823256)
 - [Lifehacker] [How to Make Your Current Home Work for You &lpar;When Moving Isn’t an Option&rpar;](https://lifehacker.com/how-to-make-your-current-home-work-for-you-when-moving-1848811320)
-- [Lifehacker] [Everything Short People Should Consider When Buying a New Home](https://lifehacker.com/everything-short-people-should-consider-when-buying-a-n-1848825549)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
