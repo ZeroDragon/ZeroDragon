@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS newbie](https://dev.to/juliuskipyego/js-newbie-5175)
+- [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
+- [Dev.to/JS] [Frontend Mentor - URL shortening API landing page](https://dev.to/nabillatrisnani/frontend-mentor-url-shortening-api-landing-page-3oa9)
+- [Dev.to/JS] [19 JavaScript Questions I Have Been Asked Most In Interviews](https://dev.to/lambdatest/19-javascript-questions-i-have-been-asked-most-in-interviews-4e4b)
+- [Dev.to/JS] [🔁automatic-loading-and-redirecting🔁](https://dev.to/amirrezaheydari/automatic-loading-and-redirecting-adl)
+- [Dev.to/JS] [JavaScript based Excel Office Add-in in Visual Studio](https://dev.to/tarungurang/javascript-based-excel-office-add-in-in-visual-studio-4gjc)
 - [Dev.to/JS] [https://sites.google.com/view/ketoextremefatburnersouthafric/home](https://dev.to/kfatbur/httpssitesgooglecomviewketoextremefatburnersouthafrichome-46ki)
 - [Dev.to/JS] [How to Install Vite.js on your Computer?](https://dev.to/whotarusharora/how-to-install-vitejs-on-your-computer-1l6)
 - [Dev.to/JS] [Instalando o Node.JS 🛠️](https://dev.to/fraconca/instalando-o-nodejs-1ie8)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Vue.js](https://dev.to/mrayyan/learn-vuejs-2mgf)
 - [Dev.to/JS] [Etch A Sketch in Javascript](https://dev.to/warmastr/etch-a-sketch-in-javascript-43m4)
 - [Dev.to/JS] [What is Express.js?](https://dev.to/swislokdev/what-is-expressjs-c6)
-- [Dev.to/JS] [Creating a RESTful API easily using node.js | Part 2](https://dev.to/iamshour/creating-a-restful-api-easily-using-nodejs-part-2-4l6h)
-- [Dev.to/JS] [Digging more into Variables in JavaScript](https://dev.to/aryakris/digging-more-into-variables-in-javascript-2ega)
-- [Dev.to/JS] [The Rest and the Spread operator of JS](https://dev.to/umangm05/the-rest-and-the-spread-operator-of-js-8an)
-- [Dev.to/JS] [Lets Follow Each Other on Medium](https://dev.to/code_with_ali/lets-follow-each-other-on-medium-4in6)
-- [Dev.to/JS] [Minesweeper](https://dev.to/pwong09/minesweeper-1jl7)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Know If a Google Chrome Extension Is Safe to Use](https://lifehacker.com/how-to-know-if-a-google-chrome-extension-is-safe-to-use-1848824700)
 - [Lifehacker] [Hurdle is Like Five Wordles in One](https://lifehacker.com/hurdle-is-like-five-wordles-in-one-1848823944)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
-- [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)
-- [Crazy Programmer] [Python One Line if Statement](https://www.thecrazyprogrammer.com/2022/04/python-one-line-if.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
 ---
 
