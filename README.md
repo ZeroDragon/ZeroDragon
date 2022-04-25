@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
+- [Dev.to/JS] [Add live captions to a video call app with daily-js](https://dev.to/trydaily/add-live-captions-to-a-video-call-app-with-daily-js-m41)
+- [Dev.to/JS] [Hooks, Dependencies and Stale Closures](https://dev.to/tkdodo/hooks-dependencies-and-stale-closures-2lmc)
+- [Lifehacker] [How Many Movies Do You Need to See to Make a Theater Subscription Pay Off?](https://lifehacker.com/how-many-movies-do-you-need-to-see-to-make-a-theater-su-1848837747)
+- [Dev.to/JS] [Marko for Sites, Solid for Apps](https://dev.to/this-is-learning/marko-for-sites-solid-for-apps-2c7d)
+- [Dev.to/JS] [4 reasons to avoid using `npm link`](https://dev.to/privatenumber/4-reasons-to-avoid-using-npm-link-5d03)
+- [Dev.to/JS] [Multi-Domain &lpar;Origin&rpar; Testing in Cypress](https://dev.to/cypress/multi-domain-origin-testing-in-cypress-1aog)
+- [Lifehacker] [5 ‘Myths’ That Are Actually True](https://lifehacker.com/5-myths-that-are-actually-true-1848838035)
 - [Dev.to/JS] [Best Practices For Remote-First Organizations](https://dev.to/codemonkcm/best-practices-for-remote-first-organizations-4d3n)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Circular Doubly Linked List](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-circular-doubly-linked-list-1m6c)
 - [Dev.to/JS] [Create Login &amp; Register transparent form with video background.](https://dev.to/herofoxfire/create-login-register-transparent-form-with-video-background-55mh)
@@ -31,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How web browsers work - parsing the HTML &lpar;part 3, with illustrations&rpar;📜🔥](https://dev.to/arikaturika/how-web-browsers-work-parsing-the-html-part-3-with-illustrations-45fi)
 - [Dev.to/JS] [Managing Javascript the easy way in Rails 7](https://dev.to/pezholio/managing-javascript-the-easy-way-in-rails-7-517g)
 - [Dev.to/JS] [Day-73 Training At Ryaz](https://dev.to/mahin651/day-73-training-at-ryaz-3hl5)
-- [Dev.to/JS] [My first Chrome Extension](https://dev.to/yashdatir/my-first-chrome-extension-49bb)
-- [Dev.to/JS] [Unknown type in typescript](https://dev.to/rubiin/unknown-type-in-typescript-5ak7)
-- [Dev.to/JS] [My journey with open source and lessons learned](https://dev.to/sidmohanty11/my-journey-with-open-source-and-lessons-learned-30e7)
-- [Dev.to/JS] [Diferença entre dependencies, devDependencies e peerDependencies](https://dev.to/stefanyrepetcki/diferenca-entre-devdependencies-dependencies-e-peerdependencies-5h0l)
-- [Dev.to/JS] [Prisma now offers MongoDB Support!](https://dev.to/mongodb/prisma-now-offers-mongodb-support-2j54)
 - [Lifehacker] [You Should Reconsider Stainless Steel Appliances &lpar;and What to Use Instead&rpar;](https://lifehacker.com/you-should-reconsider-stainless-steel-appliances-and-w-1848836618)
 - [Lifehacker] [The Difference Between Composite and Wood Decking &lpar;and How to Choose&rpar;](https://lifehacker.com/the-difference-between-composite-and-wood-decking-and-1848835709)
 - [Lifehacker] [7 of the Most Common Irrational Fears &lpar;and 7 Things We Should Be Scared of Instead&rpar;](https://lifehacker.com/7-of-the-most-common-irrational-fears-and-7-things-we-1848831889)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Garden You Would Need to 100% Survive On](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
 - [Lifehacker] [5 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/5-of-the-best-tv-shows-to-binge-in-one-day-1848828945)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are you a ‘Coastal Grandmother?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1848827824)
-- [Lifehacker] [How to Roll Out Pie Dough Without Ruining It](https://lifehacker.com/how-to-roll-out-pie-dough-without-ruining-it-1848826680)
-- [Lifehacker] [How to Fix Your Leaky Garden Hose](https://lifehacker.com/how-to-fix-your-leaky-garden-hose-1848823256)
-- [Lifehacker] [How to Make Your Current Home Work for You &lpar;When Moving Isn’t an Option&rpar;](https://lifehacker.com/how-to-make-your-current-home-work-for-you-when-moving-1848811320)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
