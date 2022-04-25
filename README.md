@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Render as you fetch with Angular lifecycle hooks](https://dev.to/mmuscat/render-as-you-fetch-with-angular-lifecycle-hooks-396i)
+- [Dev.to/JS] [Strict Mode in Javascript](https://dev.to/dawroun/strict-mode-in-javascript-2ihg)
+- [Dev.to/JS] [3 ways your team can improve code quality](https://dev.to/charliejoel/3-ways-your-team-can-improve-code-quality-o78)
 - [Dev.to/JS] [Javascript Array Methods. All you really need to know.](https://dev.to/walterego/javascript-array-methods-all-you-really-need-to-know-33ge)
 - [Dev.to/JS] [Use Arrow function, &lpar;&rpar; =&gt; {}, to correctly binds this](https://dev.to/scooperdev/use-arrow-function-to-correctly-binds-this-1dnp)
 - [Dev.to/JS] [Top B2B SaaS App Trends to watch in 2022!](https://dev.to/hiwilliam2/top-b2b-saas-app-trends-to-watch-in-2022-1mja)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Hire Full Stack Developers Will Benefit You](https://dev.to/techmankpo/how-to-hire-full-stack-developers-will-benefit-you-46dl)
 - [Dev.to/JS] [Eclipse Vs Visual Studio in Javascript: Which One is Better](https://dev.to/aartiyadav/eclipse-vs-visual-studio-in-javascript-which-one-is-better-3lad)
 - [Dev.to/JS] [Escribiendo menos tests y más largos](https://dev.to/danyparedes/escribiendo-menos-tests-y-mas-largos-316h)
-- [Dev.to/JS] [Skincell Pro Reviews [2022] – Legit Scam Complaints Or What?](https://dev.to/skincellproget/skincell-pro-reviews-2022-legit-scam-complaints-or-what-39p1)
-- [Dev.to/JS] [JS newbie](https://dev.to/juliuskipyego/js-newbie-5175)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
-- [Dev.to/JS] [Frontend Mentor - URL shortening API landing page](https://dev.to/nabillatrisnani/frontend-mentor-url-shortening-api-landing-page-3oa9)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
