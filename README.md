@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
+- [Dev.to/JS] [ES6 Arrow Functions In JavaScript](https://dev.to/codecupdev/es6-arrow-functions-in-javascript-1pad)
+- [Dev.to/JS] [Day 18 of 100 Days of Code](https://dev.to/nkemdev/day-18-of-100-days-of-code-ljk)
+- [Lifehacker] [How to Actually Stay Calm During an Argument](https://lifehacker.com/how-to-actually-stay-calm-during-an-argument-1848838046)
+- [Dev.to/JS] [Array.at&lpar;&rpar;](https://dev.to/subbiahc/arrayat-35de)
+- [Dev.to/JS] [Create a Dapp with ReactJS, Ethers and Solidity](https://dev.to/ghoulkingr/create-a-dapp-with-reactjs-ethers-and-solidity-512n)
 - [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
 - [Dev.to/JS] [Add live captions to a video call app with daily-js](https://dev.to/trydaily/add-live-captions-to-a-video-call-app-with-daily-js-m41)
 - [Dev.to/JS] [Hooks, Dependencies and Stale Closures](https://dev.to/tkdodo/hooks-dependencies-and-stale-closures-2lmc)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Practices For Remote-First Organizations](https://dev.to/codemonkcm/best-practices-for-remote-first-organizations-4d3n)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Circular Doubly Linked List](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-circular-doubly-linked-list-1m6c)
 - [Dev.to/JS] [Create Login &amp; Register transparent form with video background.](https://dev.to/herofoxfire/create-login-register-transparent-form-with-video-background-55mh)
-- [Dev.to/JS] [Automatically Send Invoices With WhatsApp](https://dev.to/freshbooks/automatically-send-invoices-with-whatsapp-fii)
 - [Lifehacker] [Let This Free App Explain How to Play a New Board Game &lpar;So You Don’t Have To&rpar;](https://lifehacker.com/let-this-free-app-explain-how-to-play-a-new-board-game-1848837182)
-- [Dev.to/JS] [How web browsers work - parsing the HTML &lpar;part 3, with illustrations&rpar;📜🔥](https://dev.to/arikaturika/how-web-browsers-work-parsing-the-html-part-3-with-illustrations-45fi)
-- [Dev.to/JS] [Managing Javascript the easy way in Rails 7](https://dev.to/pezholio/managing-javascript-the-easy-way-in-rails-7-517g)
-- [Dev.to/JS] [Day-73 Training At Ryaz](https://dev.to/mahin651/day-73-training-at-ryaz-3hl5)
 - [Lifehacker] [You Should Reconsider Stainless Steel Appliances &lpar;and What to Use Instead&rpar;](https://lifehacker.com/you-should-reconsider-stainless-steel-appliances-and-w-1848836618)
 - [Lifehacker] [The Difference Between Composite and Wood Decking &lpar;and How to Choose&rpar;](https://lifehacker.com/the-difference-between-composite-and-wood-decking-and-1848835709)
 - [Lifehacker] [7 of the Most Common Irrational Fears &lpar;and 7 Things We Should Be Scared of Instead&rpar;](https://lifehacker.com/7-of-the-most-common-irrational-fears-and-7-things-we-1848831889)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on HBO Max in May 2022](https://lifehacker.com/whats-new-on-hbo-max-in-may-2022-1848829242)
 - [Lifehacker] [Stop This Google Messages Bug From Draining Your Android&#39;s Battery](https://lifehacker.com/stop-this-google-messages-bug-from-draining-your-androi-1848829221)
 - [Lifehacker] [How Much Garden You Would Need to 100% Survive On](https://lifehacker.com/how-much-garden-you-would-need-to-100-survive-on-1848829190)
-- [Lifehacker] [5 of the Best TV Shows You Can Binge in One Day](https://lifehacker.com/5-of-the-best-tv-shows-to-binge-in-one-day-1848828945)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Are you a ‘Coastal Grandmother?’](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-are-you-1848827824)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
