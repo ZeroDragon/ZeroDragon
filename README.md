@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top B2B SaaS App Trends to watch in 2022!](https://dev.to/hiwilliam2/top-b2b-saas-app-trends-to-watch-in-2022-1mja)
+- [Dev.to/JS] [How to Create a Draggable Div in JavaScript](https://dev.to/shantanu_jana/how-to-create-a-draggable-div-in-javascript-iff)
+- [Dev.to/JS] [Offshore Software Development Rates by Country in 2022](https://dev.to/fireartd/offshore-software-development-rates-by-country-in-2022-5b6h)
+- [Dev.to/JS] [Backend Development Is Not Hard](https://dev.to/muditwt/backend-development-is-not-hard-30n4)
+- [Dev.to/JS] [How to Hire Full Stack Developers Will Benefit You](https://dev.to/techmankpo/how-to-hire-full-stack-developers-will-benefit-you-46dl)
 - [Dev.to/JS] [Eclipse Vs Visual Studio in Javascript: Which One is Better](https://dev.to/aartiyadav/eclipse-vs-visual-studio-in-javascript-which-one-is-better-3lad)
 - [Dev.to/JS] [Escribiendo menos tests y más largos](https://dev.to/danyparedes/escribiendo-menos-tests-y-mas-largos-316h)
 - [Dev.to/JS] [Skincell Pro Reviews [2022] – Legit Scam Complaints Or What?](https://dev.to/skincellproget/skincell-pro-reviews-2022-legit-scam-complaints-or-what-39p1)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Frontend Mentor - URL shortening API landing page](https://dev.to/nabillatrisnani/frontend-mentor-url-shortening-api-landing-page-3oa9)
 - [Dev.to/JS] [19 JavaScript Questions I Have Been Asked Most In Interviews](https://dev.to/lambdatest/19-javascript-questions-i-have-been-asked-most-in-interviews-4e4b)
 - [Dev.to/JS] [🔁automatic-loading-and-redirecting🔁](https://dev.to/amirrezaheydari/automatic-loading-and-redirecting-adl)
-- [Dev.to/JS] [JavaScript based Excel Office Add-in in Visual Studio](https://dev.to/tarungurang/javascript-based-excel-office-add-in-in-visual-studio-4gjc)
-- [Dev.to/JS] [https://sites.google.com/view/ketoextremefatburnersouthafric/home](https://dev.to/kfatbur/httpssitesgooglecomviewketoextremefatburnersouthafrichome-46ki)
-- [Dev.to/JS] [How to Install Vite.js on your Computer?](https://dev.to/whotarusharora/how-to-install-vitejs-on-your-computer-1l6)
-- [Dev.to/JS] [Instalando o Node.JS 🛠️](https://dev.to/fraconca/instalando-o-nodejs-1ie8)
-- [Dev.to/JS] [Curso Node.JS Essencial 🧰](https://dev.to/fraconca/curso-nodejs-essencial-em2)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
