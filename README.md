@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Play Sound on Button Click in JavaScript](https://dev.to/shantanu_jana/how-to-play-sound-on-button-click-in-javascript-3m48)
+- [Dev.to/JS] [Private class fields in Javascript &lpar;ES2022&rpar;](https://dev.to/smitterhane/private-class-fields-in-javascript-es2022-3b8)
+- [Dev.to/JS] [How To Code an Incremental button using Vanilla JavaScript](https://dev.to/emmykolic/how-to-code-an-incremental-button-using-vanilla-javascript-42le)
+- [Dev.to/JS] [Paracetamol.js💊| #108: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-108-explica-este-codigo-javascript-1148)
+- [Dev.to/JS] [What Makes a Unit Test Valuable?](https://dev.to/braydoncoyer/what-makes-a-unit-test-valuable-5fpi)
 - [Lifehacker] [The Difference Between Composite and Wood Decking &lpar;and How to Choose&rpar;](https://lifehacker.com/the-difference-between-composite-and-wood-decking-and-1848835709)
 - [Lifehacker] [7 of the Most Common Irrational Fears &lpar;and 7 Things We Should Be Scared of Instead&rpar;](https://lifehacker.com/7-of-the-most-common-irrational-fears-and-7-things-we-1848831889)
 - [Dev.to/JS] [Keycloak Integration in Minutes with Cloud IAM and WunderGraph](https://dev.to/wundergraph/keycloak-integration-in-minutes-with-cloud-iam-and-wundergraph-28b8)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Complete Email Authentication with Next.js and Altogic](https://dev.to/altogic/complete-email-authentication-with-nextjs-and-altogic-1h1i)
 - [Lifehacker] [Make Caramel-Center Lava Cakes With Two Trader Joe&#39;s Products](https://lifehacker.com/make-caramel-center-lava-cakes-with-two-trader-joes-pro-1848831840)
 - [Dev.to/JS] [Create A Simple Accordion Menu Using Vanilla JavaScript](https://dev.to/hirajatamil/create-a-simple-accordion-menu-using-vanilla-javascript-2n90)
-- [Dev.to/JS] [Improve React App Performance - Redux/Saga Code Splitting-[ Part 2 ]](https://dev.to/rupeshpadhye/improve-react-app-performance-reduxsaga-code-splitting-part-2--2p60)
-- [Dev.to/JS] [The book that changed my development career now has a Javascript version](https://dev.to/wesen/the-book-that-changed-my-development-career-now-has-a-javascript-version-33hi)
-- [Dev.to/JS] [First Post on here!!!](https://dev.to/1337mekroud/first-post-on-here-2fg3)
-- [Dev.to/JS] [A Step-By-Step Guide to Server-Side Rendering with VueJS](https://dev.to/syncfusion/a-step-by-step-guide-to-server-side-rendering-with-vuejs-2gdo)
-- [Dev.to/JS] [Membuat Program Operasi Himpunan &lpar;Irisan&rpar;](https://dev.to/arisca_abdullah/membuat-program-operasi-himpunan-irisan-1md8)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
