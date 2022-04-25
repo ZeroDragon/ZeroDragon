@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Post on here!!!](https://dev.to/1337mekroud/first-post-on-here-2fg3)
+- [Dev.to/JS] [Membuat Program Operasi Himpunan &lpar;Irisan&rpar;](https://dev.to/arisca_abdullah/membuat-program-operasi-himpunan-irisan-1md8)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💘.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-4enp)
+- [Dev.to/JS] [Academic Mantra Services](https://dev.to/academicmantraservices/academic-mantra-services-2enc)
+- [Dev.to/JS] [#CodeNewbie](https://dev.to/cyberraff/codenewbie-13h6)
 - [Dev.to/JS] [Render as you fetch with Angular lifecycle hooks](https://dev.to/mmuscat/render-as-you-fetch-with-angular-lifecycle-hooks-396i)
 - [Dev.to/JS] [Strict Mode in Javascript](https://dev.to/dawroun/strict-mode-in-javascript-2ihg)
 - [Dev.to/JS] [3 ways your team can improve code quality](https://dev.to/charliejoel/3-ways-your-team-can-improve-code-quality-o78)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use Arrow function, &lpar;&rpar; =&gt; {}, to correctly binds this](https://dev.to/scooperdev/use-arrow-function-to-correctly-binds-this-1dnp)
 - [Dev.to/JS] [Top B2B SaaS App Trends to watch in 2022!](https://dev.to/hiwilliam2/top-b2b-saas-app-trends-to-watch-in-2022-1mja)
 - [Dev.to/JS] [How to Create a Draggable Div in JavaScript](https://dev.to/shantanu_jana/how-to-create-a-draggable-div-in-javascript-iff)
-- [Dev.to/JS] [Offshore Software Development Rates by Country in 2022](https://dev.to/fireartd/offshore-software-development-rates-by-country-in-2022-5b6h)
-- [Dev.to/JS] [Backend Development Is Not Hard](https://dev.to/muditwt/backend-development-is-not-hard-30n4)
-- [Dev.to/JS] [How to Hire Full Stack Developers Will Benefit You](https://dev.to/techmankpo/how-to-hire-full-stack-developers-will-benefit-you-46dl)
-- [Dev.to/JS] [Eclipse Vs Visual Studio in Javascript: Which One is Better](https://dev.to/aartiyadav/eclipse-vs-visual-studio-in-javascript-which-one-is-better-3lad)
-- [Dev.to/JS] [Escribiendo menos tests y más largos](https://dev.to/danyparedes/escribiendo-menos-tests-y-mas-largos-316h)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
