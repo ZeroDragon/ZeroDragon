@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s learn, build and sell an API](https://dev.to/itsrakesh/lets-learn-build-and-sell-an-api-32h0)
+- [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
+- [Lifehacker] [What&#39;s New on Paramount+ in May 2022](https://lifehacker.com/whats-new-on-paramount-in-may-2022-1848843976)
 - [Dev.to/JS] [Visit my website](https://dev.to/tanmaytiwaricyber/visit-my-website-1j6d)
 - [Dev.to/JS] [Using KotlinJS and NPM to create a Discord Bot - Discord Bot Series &lpar;Part 2&rpar;](https://dev.to/kevinschildhorn/using-kotlinjs-and-npm-to-create-a-discord-bot-discord-bot-series-part-2-1n6e)
 - [Lifehacker] [The Formula for Making a Perfect Veggie Sandwich](https://lifehacker.com/the-formula-for-making-a-perfect-veggie-sandwich-1848843734)
@@ -32,14 +35,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Speed up your Vue app: The most unexpected and perhaps silliest way 🤪🚀](https://dev.to/thormeier/the-perhaps-silliest-and-most-unexpected-way-to-speed-up-your-vue-app-5geh)
 - [Lifehacker] [Your Dog&#39;s White Fur Can Be Even Whiter](https://lifehacker.com/your-dogs-white-fur-can-be-even-whiter-1848842959)
 - [Dev.to/JS] [How to run Cypress test cases across multiple domains](https://dev.to/kailashpathak7/how-to-run-cypress-test-cases-across-multiple-domains-1llg)
-- [Dev.to/JS] [How does the fetch method works](https://dev.to/ahmedgaafer/how-does-the-fetch-method-works-39om)
+- [Dev.to/JS] [How does the fetch method work](https://dev.to/ahmedgaafer/how-does-the-fetch-method-works-39om)
 - [Dev.to/JS] [Build a Restaurant Website with Next.js 12.1 Features](https://dev.to/naira_gezhoyan/build-a-restaurant-website-with-nextjs-121-features-3fbo)
 - [Lifehacker] [How to Play Elden Ring in VR &lpar;Seriously&rpar;](https://lifehacker.com/how-to-play-elden-ring-in-vr-seriously-1848842785)
 - [Dev.to/JS] [Install Nodejs Fedora 35](https://dev.to/bukanspot/install-nodejs-fedora-15h4)
 - [Dev.to/JS] [Day-74 Training At Ryaz](https://dev.to/mahin651/day-74-training-at-ryaz-2430)
 - [Dev.to/JS] [How to create an auth login system with axios interceptors &lpar;TypeScript&rpar;](https://dev.to/vikirobles/how-to-create-an-auth-login-system-with-axios-interceptors-typescript-2k11)
 - [Lifehacker] [What It Really Costs to Propose on a Jumbotron &lpar;and Better Ways to Spend That Money&rpar;](https://lifehacker.com/what-it-really-costs-to-propose-on-a-jumbotron-and-bet-1848842775)
-- [Dev.to/JS] [Easiest list formatting you&#39;ll ever use.](https://dev.to/asg5704/easiest-list-formatting-youll-ever-use-57n)
 - [Lifehacker] [How to Make Hard Boiled Eggs Without Peeling a Damn Thing](https://lifehacker.com/how-to-make-hard-boiled-eggs-without-peeling-a-damn-thi-1848839332)
 - [Lifehacker] [Don’t Eat This E. Coli-Tainted Ground Beef, USDA Says](https://lifehacker.com/don-t-eat-this-e-coli-tainted-ground-beef-usda-says-1848842076)
 - [Lifehacker] [How to Finally Stop Buying the Wrong Lightbulbs](https://lifehacker.com/how-to-finally-stop-buying-the-wrong-lightbulbs-1848842555)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 ‘Myths’ That Are Actually True](https://lifehacker.com/5-myths-that-are-actually-true-1848838035)
 - [Lifehacker] [Let This Free App Explain How to Play a New Board Game &lpar;So You Don’t Have To&rpar;](https://lifehacker.com/let-this-free-app-explain-how-to-play-a-new-board-game-1848837182)
 - [Lifehacker] [You Should Reconsider Stainless Steel Appliances &lpar;and What to Use Instead&rpar;](https://lifehacker.com/you-should-reconsider-stainless-steel-appliances-and-w-1848836618)
-- [Lifehacker] [The Difference Between Composite and Wood Decking &lpar;and How to Choose&rpar;](https://lifehacker.com/the-difference-between-composite-and-wood-decking-and-1848835709)
-- [Lifehacker] [7 of the Most Common Irrational Fears &lpar;and 7 Things We Should Be Scared of Instead&rpar;](https://lifehacker.com/7-of-the-most-common-irrational-fears-and-7-things-we-1848831889)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
