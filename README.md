@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Clever Ways to Use Toothpaste Around Your Home](https://lifehacker.com/15-clever-ways-to-use-toothpaste-around-your-home-1848836915)
+- [Dev.to/JS] [Alternative to reddit](https://dev.to/gauravnumber/alternative-to-reddit-5co)
+- [Dev.to/JS] [Javascript Assíncrono - Entenda o que são Callbacks](https://dev.to/cjvaz/javascript-assincrono-entenda-o-que-sao-callbacks-57d5)
+- [Dev.to/JS] [Building a REST API with Prisma and express.js](https://dev.to/dawsoncodes/building-a-rest-api-with-prisma-and-expressjs-1oj)
+- [Dev.to/JS] [An Introduction to Vue 3 and Typescript: Component properties and events](https://dev.to/tqbit/an-introduction-to-vue-3-and-typescript-component-properties-and-events-5d8)
+- [Dev.to/JS] [Arrow functions in JavaScript](https://dev.to/kibetamos/arrow-functions-in-javascript-h5h)
+- [Dev.to/JS] [React Blog Website Using JAMstack &lpar;Gatsby.js &amp; Sanity.io&rpar;](https://dev.to/shaifarfan08/react-blog-website-using-jamstack-gatsbyjs-sanityio-bef)
+- [Dev.to/JS] [Javascriptda &#39;this&#39; kalit so&#39;zi](https://dev.to/dawroun/javascriptda-this-kalit-sozi-1fop)
 - [Dev.to/JS] [How to use multiple versions of Node on your machine](https://dev.to/miracleio/how-to-use-multiple-versions-of-node-on-your-machine-19hl)
 - [Dev.to/JS] [Tiger Woods CBD Gummies Reviews](https://dev.to/tigerwoods_cbd/tiger-woods-cbd-gummies-reviews-40ag)
 - [Dev.to/JS] [Creating collabrative javascript spreadsheet made easy](https://dev.to/zyc9012/creating-collabrative-javascript-spreadsheet-made-easy-3m9f)
 - [Dev.to/JS] [Complete Guide About React in 2022](https://dev.to/agarralexx/complete-guide-about-react-in-2022-2nld)
 - [Dev.to/JS] [Setup Seers Cookie Compliance CMP on BigCommerce](https://dev.to/seers/setup-seers-cookie-compliance-cmp-on-bigcommerce-5c44)
-- [Dev.to/JS] [GitHub App and OAuth ~ Practical Kick-Starter](https://dev.to/didof/github-app-and-oauth-practical-kick-starter-4df4)
-- [Dev.to/JS] [One of my favorite JS challenges on Stack Overflow](https://dev.to/gass/one-of-my-favorite-js-challenges-on-stack-overflow-2kc9)
-- [Dev.to/JS] [Setup Seers GDPR Compliant Cookie Consent Banner on Blogger](https://dev.to/seers/setup-seers-gdpr-compliant-cookie-consent-banner-on-blogger-4425)
-- [Dev.to/JS] [What are the blog that you fallow ?](https://dev.to/leamsigc/what-are-the-blog-that-you-fallow--19ki)
-- [Dev.to/JS] [Lifestyle Keto Review [U.S Update 2022]: It Helps To Burn Your Fat Or What?](https://dev.to/lifestyleketogo/lifestyle-keto-review-us-update-2022-it-helps-to-burn-your-fat-or-what-3mam)
-- [Dev.to/JS] [Herpesyl Reviews - Uses, Read Reviews, Benefits, Results &amp; Ingredients?](https://dev.to/herpesylfact/herpesyl-reviews-uses-read-reviews-benefits-results-ingredients-iah)
-- [Dev.to/JS] [Array.every&lpar;&rpar; - for checking if all items meet a condition](https://dev.to/dillionmegida/arrayevery-for-checking-if-all-items-meet-a-condition-5h3p)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Graphics Card Prices Are Dropping &lpar;and How Much They Cost Now&rpar;](https://lifehacker.com/why-graphics-card-prices-are-dropping-and-how-much-the-1848830151)
 - [Lifehacker] [Why You Need to Put Away Your Bird Feeders and Baths Right Now](https://lifehacker.com/why-you-need-to-put-away-your-bird-feeders-and-baths-ri-1848829773)
 - [Lifehacker] [The Difference Between Pushing Yourself and Overtraining Syndrome](https://lifehacker.com/the-difference-between-pushing-yourself-and-overtrainin-1848829377)
-- [Lifehacker] [What&#39;s New on HBO Max in May 2022](https://lifehacker.com/whats-new-on-hbo-max-in-may-2022-1848829242)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
