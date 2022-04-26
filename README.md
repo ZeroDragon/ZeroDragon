@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Dev.to/JS] [Let&#39;s learn, build and sell an API](https://dev.to/itsrakesh/lets-learn-build-and-sell-an-api-32h0)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2022](https://lifehacker.com/whats-new-on-paramount-in-may-2022-1848843976)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Many Movies Do You Need to See to Make a Theater Subscription Pay Off?](https://lifehacker.com/how-many-movies-do-you-need-to-see-to-make-a-theater-su-1848837747)
 - [Lifehacker] [5 ‘Myths’ That Are Actually True](https://lifehacker.com/5-myths-that-are-actually-true-1848838035)
 - [Lifehacker] [Let This Free App Explain How to Play a New Board Game &lpar;So You Don’t Have To&rpar;](https://lifehacker.com/let-this-free-app-explain-how-to-play-a-new-board-game-1848837182)
-- [Lifehacker] [You Should Reconsider Stainless Steel Appliances &lpar;and What to Use Instead&rpar;](https://lifehacker.com/you-should-reconsider-stainless-steel-appliances-and-w-1848836618)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
