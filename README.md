@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Hard Boiled Eggs Without Peeling a Damn Thing](https://lifehacker.com/how-to-make-hard-boiled-eggs-without-peeling-a-damn-thi-1848839332)
+- [Lifehacker] [Don’t Eat This E. Coli-Tainted Ground Beef, USDA Says](https://lifehacker.com/don-t-eat-this-e-coli-tainted-ground-beef-usda-says-1848842076)
+- [Dev.to/JS] [Understand HTTP CORS Request](https://dev.to/suprabhasupi/understand-http-cors-request-1j9j)
+- [Dev.to/JS] [99. Recover Binary Search Tree 🚀](https://dev.to/samuelhinchliffe/99-recover-binary-search-tree-5h7f)
+- [Dev.to/JS] [Paracetamol.js💊| #109: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-109-explica-este-codigo-javascript-146i)
+- [Dev.to/JS] [If you&#39;re receiving error even if everything in Firebase appears to be in order, try this](https://dev.to/shawon/if-youre-receiving-error-even-if-everything-in-firebase-appears-to-be-in-order-try-this-1kjo)
+- [Dev.to/JS] [Working with SVGs in React Native](https://dev.to/asayerio_techblog/working-with-svgs-in-react-native-1nc8)
+- [Lifehacker] [How to Finally Stop Buying the Wrong Lightbulbs](https://lifehacker.com/how-to-finally-stop-buying-the-wrong-lightbulbs-1848842555)
 - [Dev.to/JS] [Fastify basics tutorial | A better alternative to Express](https://dev.to/thatanjan/fastify-basics-tutorial-a-better-alternative-of-express-1m5n)
 - [Lifehacker] [How to Sign Up for the &#39;Overwatch 2&#39; Beta](https://lifehacker.com/how-to-sign-up-for-the-overwatch-2-beta-1848842005)
 - [Dev.to/JS] [Step-By-Step: Manage Your Website Translations Like a Pro Using FlyCode](https://dev.to/flycode/step-by-step-manage-your-website-translations-like-a-pro-using-flycode-5edj)
@@ -35,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Crucial Step You&#39;re Missing With Fruit Pie](https://lifehacker.com/the-crucial-step-youre-missing-with-fruit-pie-1848837672)
 - [Lifehacker] [The 7 Deadly Sins of Owning Houseplants](https://lifehacker.com/the-7-deadly-sins-of-owning-houseplants-1848838483)
 - [Dev.to/JS] [What am i missing please. it doesn&#39;t give me the total. it only evaluates the first if](https://dev.to/laryken/what-am-i-missing-please-it-doesnt-give-me-the-total-it-only-evaluates-the-first-if-5cld)
-- [Dev.to/JS] [Membuat Program Operasi Himpunan &lpar;Selisih &amp; Komplemen&rpar;](https://dev.to/arisca_abdullah/membuat-program-operasi-himpunan-selisih-komplemen-1062)
-- [Dev.to/JS] [useContext Hook in React](https://dev.to/vanshsh/usecontext-hook-in-react-2d7e)
-- [Dev.to/JS] [15 beautiful CSS Forms ✨](https://dev.to/webdeasy/15-beautiful-css-forms-15f0)
 - [Lifehacker] [15 Clever Ways to Use Toothpaste Around Your Home](https://lifehacker.com/15-clever-ways-to-use-toothpaste-around-your-home-1848836915)
-- [Dev.to/JS] [Alternative to reddit](https://dev.to/gauravnumber/alternative-to-reddit-5co)
-- [Dev.to/JS] [Javascript Assíncrono - Entenda o que são Callbacks](https://dev.to/cjvaz/javascript-assincrono-entenda-o-que-sao-callbacks-57d5)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
 - [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
 - [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
-- [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
-- [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
-- [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
