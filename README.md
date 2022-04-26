@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Play Elden Ring in VR &lpar;Seriously&rpar;](https://lifehacker.com/how-to-play-elden-ring-in-vr-seriously-1848842785)
+- [Dev.to/JS] [Install Nodejs Fedora 35](https://dev.to/bukanspot/install-nodejs-fedora-15h4)
+- [Dev.to/JS] [Day-74 Training At Ryaz](https://dev.to/mahin651/day-74-training-at-ryaz-2430)
+- [Dev.to/JS] [How to create an auth login system with axios interceptors &lpar;TypeScript&rpar;](https://dev.to/vikirobles/how-to-create-an-auth-login-system-with-axios-interceptors-typescript-2k11)
+- [Lifehacker] [What It Really Costs to Propose on a Jumbotron &lpar;and Better Ways to Spend That Money&rpar;](https://lifehacker.com/what-it-really-costs-to-propose-on-a-jumbotron-and-bet-1848842775)
+- [Dev.to/JS] [Easiest list formatting you&#39;ll ever use.](https://dev.to/asg5704/easiest-list-formatting-youll-ever-use-57n)
+- [Dev.to/JS] [5 Chrome extensions you might have considered if you knew they exist](https://dev.to/khokon/5-chrome-extensions-you-might-have-considered-if-you-knew-they-exist-c58)
 - [Lifehacker] [How to Make Hard Boiled Eggs Without Peeling a Damn Thing](https://lifehacker.com/how-to-make-hard-boiled-eggs-without-peeling-a-damn-thi-1848839332)
 - [Lifehacker] [Don’t Eat This E. Coli-Tainted Ground Beef, USDA Says](https://lifehacker.com/don-t-eat-this-e-coli-tainted-ground-beef-usda-says-1848842076)
 - [Dev.to/JS] [Understand HTTP CORS Request](https://dev.to/suprabhasupi/understand-http-cors-request-1j9j)
@@ -34,15 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fastify basics tutorial | A better alternative to Express](https://dev.to/thatanjan/fastify-basics-tutorial-a-better-alternative-of-express-1m5n)
 - [Lifehacker] [How to Sign Up for the &#39;Overwatch 2&#39; Beta](https://lifehacker.com/how-to-sign-up-for-the-overwatch-2-beta-1848842005)
 - [Dev.to/JS] [Step-By-Step: Manage Your Website Translations Like a Pro Using FlyCode](https://dev.to/flycode/step-by-step-manage-your-website-translations-like-a-pro-using-flycode-5edj)
-- [Dev.to/JS] [Testing 2....](https://dev.to/tadejjernejcic/testing-2-26pl)
-- [Dev.to/JS] [Step-by-step to turn your fresh node project to use typescript](https://dev.to/teerasej/step-by-step-to-turn-your-fresh-node-project-to-use-typescript-17fp)
-- [Dev.to/JS] [AWS Amplify Studio is Generally Available | 5 New Features to checkout](https://dev.to/aspittel/aws-amplify-studio-is-generally-available-5-new-features-to-checkout-4h0m)
 - [Lifehacker] [Use &#39;Companion Planting&#39; to Grow a More Fruitful Garden](https://lifehacker.com/use-companion-planting-to-grow-a-more-fruitful-garden-1848840806)
-- [Dev.to/JS] [Remix.run :: CRUD com Supabase - Parte 01 - Criando o projeto](https://dev.to/juniormartinxo/remix-crud-com-supabase-parte-01-criando-o-projeto-5bon)
 - [Lifehacker] [The Other Reason It&#39;s a Perfect Time to Join Mastodon, the Open-Source Twitter Alternative](https://lifehacker.com/the-other-reason-its-a-perfect-time-to-join-mastodon-t-1848839524)
 - [Lifehacker] [The Crucial Step You&#39;re Missing With Fruit Pie](https://lifehacker.com/the-crucial-step-youre-missing-with-fruit-pie-1848837672)
 - [Lifehacker] [The 7 Deadly Sins of Owning Houseplants](https://lifehacker.com/the-7-deadly-sins-of-owning-houseplants-1848838483)
-- [Dev.to/JS] [What am i missing please. it doesn&#39;t give me the total. it only evaluates the first if](https://dev.to/laryken/what-am-i-missing-please-it-doesnt-give-me-the-total-it-only-evaluates-the-first-if-5cld)
 - [Lifehacker] [15 Clever Ways to Use Toothpaste Around Your Home](https://lifehacker.com/15-clever-ways-to-use-toothpaste-around-your-home-1848836915)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Lifehacker] [How to Stop Your Mulch From Blowing Away](https://lifehacker.com/how-to-stop-your-mulch-from-blowing-away-1848832356)
 - [Lifehacker] [This Is How You Should Respond to Road Rage](https://lifehacker.com/this-is-how-you-should-respond-to-road-rage-1848832353)
-- [Lifehacker] [How to Tell Which Animal Is Digging Holes in Your Yard](https://lifehacker.com/how-to-tell-which-animal-is-digging-holes-in-your-yard-1848832335)
-- [Lifehacker] [Why Pillows Turn Yellow, and How to Clean Them](https://lifehacker.com/why-pillows-turn-yellow-and-how-to-clean-them-1848824914)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
