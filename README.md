@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Crucial Step You&#39;re Missing With Fruit Pie](https://lifehacker.com/the-crucial-step-youre-missing-with-fruit-pie-1848837672)
+- [Lifehacker] [The 7 Deadly Sins of Owning Houseplants](https://lifehacker.com/the-7-deadly-sins-of-owning-houseplants-1848838483)
+- [Dev.to/JS] [What am i missing please. it doesn&#39;t give me the total. it only evaluates the first if](https://dev.to/laryken/what-am-i-missing-please-it-doesnt-give-me-the-total-it-only-evaluates-the-first-if-5cld)
+- [Dev.to/JS] [Membuat Program Operasi Himpunan &lpar;Selisih &amp; Komplemen&rpar;](https://dev.to/arisca_abdullah/membuat-program-operasi-himpunan-selisih-komplemen-1062)
+- [Dev.to/JS] [useContext Hook in React](https://dev.to/vanshsh/usecontext-hook-in-react-2d7e)
+- [Dev.to/JS] [15 beautiful CSS Forms ✨](https://dev.to/webdeasy/15-beautiful-css-forms-15f0)
 - [Lifehacker] [15 Clever Ways to Use Toothpaste Around Your Home](https://lifehacker.com/15-clever-ways-to-use-toothpaste-around-your-home-1848836915)
 - [Dev.to/JS] [Alternative to reddit](https://dev.to/gauravnumber/alternative-to-reddit-5co)
 - [Dev.to/JS] [Javascript Assíncrono - Entenda o que são Callbacks](https://dev.to/cjvaz/javascript-assincrono-entenda-o-que-sao-callbacks-57d5)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Blog Website Using JAMstack &lpar;Gatsby.js &amp; Sanity.io&rpar;](https://dev.to/shaifarfan08/react-blog-website-using-jamstack-gatsbyjs-sanityio-bef)
 - [Dev.to/JS] [Javascriptda &#39;this&#39; kalit so&#39;zi](https://dev.to/dawroun/javascriptda-this-kalit-sozi-1fop)
 - [Dev.to/JS] [How to use multiple versions of Node on your machine](https://dev.to/miracleio/how-to-use-multiple-versions-of-node-on-your-machine-19hl)
-- [Dev.to/JS] [Tiger Woods CBD Gummies Reviews](https://dev.to/tigerwoods_cbd/tiger-woods-cbd-gummies-reviews-40ag)
-- [Dev.to/JS] [Creating collabrative javascript spreadsheet made easy](https://dev.to/zyc9012/creating-collabrative-javascript-spreadsheet-made-easy-3m9f)
-- [Dev.to/JS] [Complete Guide About React in 2022](https://dev.to/agarralexx/complete-guide-about-react-in-2022-2nld)
-- [Dev.to/JS] [Setup Seers Cookie Compliance CMP on BigCommerce](https://dev.to/seers/setup-seers-cookie-compliance-cmp-on-bigcommerce-5c44)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
 - [Lifehacker] [Why Graphics Card Prices Are Dropping &lpar;and How Much They Cost Now&rpar;](https://lifehacker.com/why-graphics-card-prices-are-dropping-and-how-much-the-1848830151)
-- [Lifehacker] [Why You Need to Put Away Your Bird Feeders and Baths Right Now](https://lifehacker.com/why-you-need-to-put-away-your-bird-feeders-and-baths-ri-1848829773)
-- [Lifehacker] [The Difference Between Pushing Yourself and Overtraining Syndrome](https://lifehacker.com/the-difference-between-pushing-yourself-and-overtrainin-1848829377)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
