@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub App and OAuth ~ Practical Kick-Starter](https://dev.to/didof/github-app-and-oauth-practical-kick-starter-4df4)
+- [Dev.to/JS] [One of my favorite JS challenges on Stack Overflow](https://dev.to/gass/one-of-my-favorite-js-challenges-on-stack-overflow-2kc9)
 - [Dev.to/JS] [Setup Seers GDPR Compliant Cookie Consent Banner on Blogger](https://dev.to/seers/setup-seers-gdpr-compliant-cookie-consent-banner-on-blogger-4425)
 - [Dev.to/JS] [What are the blog that you fallow ?](https://dev.to/leamsigc/what-are-the-blog-that-you-fallow--19ki)
 - [Dev.to/JS] [Lifestyle Keto Review [U.S Update 2022]: It Helps To Burn Your Fat Or What?](https://dev.to/lifestyleketogo/lifestyle-keto-review-us-update-2022-it-helps-to-burn-your-fat-or-what-3mam)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Quest to Understanding Higher Order Functions](https://dev.to/zoekhall/a-quest-to-understanding-higher-order-functions-10o6)
 - [Dev.to/JS] [Aplikasi Editor HTML/Javascript Terbaik di Ponsel Android](https://dev.to/julaiman/aplikasi-editor-htmljavasvript-terbaik-di-ponsel-android-pbl)
 - [Dev.to/JS] [From scratch Drag and Drop - Pitfalls with Scroll Anchoring and touch gestures](https://dev.to/randomengy/from-scratch-drag-and-drop-pitfalls-with-scroll-anchoring-and-touch-gestures-3299)
-- [Dev.to/JS] [9 Must Have Skills To Master Exploratory Testing](https://dev.to/lambdatest/9-must-have-skills-to-master-exploratory-testing-5a7k)
-- [Dev.to/JS] [Don’t Use Switch or If-Else in JavaScript, Instead, Try This](https://dev.to/braincuber_technologies/dont-use-switch-or-if-else-in-javascript-instead-try-this-3dhm)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
