@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTTP Request Methods - GET Vs POST Vs PUT](https://dev.to/sanjaysinghrajpoot/http-reguest-methods-get-vs-post-vs-put-4b5m)
+- [Dev.to/JS] [A Quest to Understanding Higher Order Functions](https://dev.to/zoekhall/a-quest-to-understanding-higher-order-functions-10o6)
+- [Dev.to/JS] [Aplikasi Editor HTML/Javascript Terbaik di Ponsel Android](https://dev.to/julaiman/aplikasi-editor-htmljavasvript-terbaik-di-ponsel-android-pbl)
+- [Dev.to/JS] [From scratch Drag and Drop - Pitfalls with Scroll Anchoring and touch gestures](https://dev.to/randomengy/from-scratch-drag-and-drop-pitfalls-with-scroll-anchoring-and-touch-gestures-3299)
+- [Dev.to/JS] [9 Must Have Skills To Master Exploratory Testing](https://dev.to/lambdatest/9-must-have-skills-to-master-exploratory-testing-5a7k)
 - [Dev.to/JS] [Don’t Use Switch or If-Else in JavaScript, Instead, Try This](https://dev.to/braincuber_technologies/dont-use-switch-or-if-else-in-javascript-instead-try-this-3dhm)
 - [Dev.to/JS] [Performing Globalization and Localization using resource file in .NET Core](https://dev.to/tarungurang/performing-globalization-and-localization-using-resource-file-in-net-core-4mj2)
 - [Dev.to/JS] [Javascript Linked List data structure](https://dev.to/bvnkumar/javascript-linked-list-data-structure-9k9)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Interview questions](https://dev.to/tarunsankhla/javascript-interview-questions-4igd)
 - [Dev.to/JS] [¿Un portafolio?](https://dev.to/alexmaldonadosoto/un-portafolio-18lg)
 - [Dev.to/JS] [Creating Flipable Card Using HTML/CSS/JS](https://dev.to/ksckaan1/creating-flipable-card-using-htmlcssjs-h5f)
-- [Dev.to/JS] [Criando um envio de newsletter com AWS SNS e Nodejs](https://dev.to/feministech/criando-um-envio-de-newsletter-com-aws-sns-e-nodejs-4a2a)
-- [Dev.to/JS] [Announcing our Discord Live: Learn Svelte and more](https://dev.to/richkurtzman/announcing-our-discord-live-learn-svelte-and-more-1do4)
-- [Dev.to/JS] [Brands must be flexible, Svelte deployment is a solution](https://dev.to/richkurtzman/brands-must-be-flexible-svelte-deployment-is-a-solution-2n8m)
-- [Dev.to/JS] [Implement caching in Node.js with Redis](https://dev.to/saar120/implement-caching-in-nodejs-with-redis-4b7o)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
-- [Dev.to/JS] [Javascript Concepts you can&#39;t miss to crack the interview &lpar;2022&rpar;](https://dev.to/tbaveja/javascript-concepts-you-cant-miss-to-crack-the-interview-2022-5gbc)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
 - [Lifehacker] [How to Actually Stay Calm During an Argument](https://lifehacker.com/how-to-actually-stay-calm-during-an-argument-1848838046)
 - [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
