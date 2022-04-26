@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array.every&lpar;&rpar; - for checking if all items meet a condition](https://dev.to/dillionmegida/arrayevery-for-checking-if-all-items-meet-a-condition-5h3p)
+- [Dev.to/JS] [Build an Online Course Site with Vue](https://dev.to/coursekit/build-an-online-course-site-with-vue-kbk)
 - [Dev.to/JS] [HTTP Request Methods - GET Vs POST Vs PUT](https://dev.to/sanjaysinghrajpoot/http-reguest-methods-get-vs-post-vs-put-4b5m)
 - [Dev.to/JS] [A Quest to Understanding Higher Order Functions](https://dev.to/zoekhall/a-quest-to-understanding-higher-order-functions-10o6)
 - [Dev.to/JS] [Aplikasi Editor HTML/Javascript Terbaik di Ponsel Android](https://dev.to/julaiman/aplikasi-editor-htmljavasvript-terbaik-di-ponsel-android-pbl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Linked List data structure](https://dev.to/bvnkumar/javascript-linked-list-data-structure-9k9)
 - [Dev.to/JS] [#Hello, World!](https://dev.to/kwither/hello-world-283b)
 - [Dev.to/JS] [JavaScript Interview questions](https://dev.to/tarunsankhla/javascript-interview-questions-4igd)
-- [Dev.to/JS] [¿Un portafolio?](https://dev.to/alexmaldonadosoto/un-portafolio-18lg)
-- [Dev.to/JS] [Creating Flipable Card Using HTML/CSS/JS](https://dev.to/ksckaan1/creating-flipable-card-using-htmlcssjs-h5f)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
