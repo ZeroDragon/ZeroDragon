@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Remix.run :: CRUD com Supabase - Parte 01 - Criando o projeto](https://dev.to/juniormartinxo/remix-crud-com-supabase-parte-01-criando-o-projeto-5bon)
+- [Lifehacker] [The Other Reason It&#39;s a Perfect Time to Join Mastodon, the Open-Source Twitter Alternative](https://lifehacker.com/the-other-reason-its-a-perfect-time-to-join-mastodon-t-1848839524)
 - [Lifehacker] [The Crucial Step You&#39;re Missing With Fruit Pie](https://lifehacker.com/the-crucial-step-youre-missing-with-fruit-pie-1848837672)
 - [Lifehacker] [The 7 Deadly Sins of Owning Houseplants](https://lifehacker.com/the-7-deadly-sins-of-owning-houseplants-1848838483)
 - [Dev.to/JS] [What am i missing please. it doesn&#39;t give me the total. it only evaluates the first if](https://dev.to/laryken/what-am-i-missing-please-it-doesnt-give-me-the-total-it-only-evaluates-the-first-if-5cld)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arrow functions in JavaScript](https://dev.to/kibetamos/arrow-functions-in-javascript-h5h)
 - [Dev.to/JS] [React Blog Website Using JAMstack &lpar;Gatsby.js &amp; Sanity.io&rpar;](https://dev.to/shaifarfan08/react-blog-website-using-jamstack-gatsbyjs-sanityio-bef)
 - [Dev.to/JS] [Javascriptda &#39;this&#39; kalit so&#39;zi](https://dev.to/dawroun/javascriptda-this-kalit-sozi-1fop)
-- [Dev.to/JS] [How to use multiple versions of Node on your machine](https://dev.to/miracleio/how-to-use-multiple-versions-of-node-on-your-machine-19hl)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
 - [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
 - [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
-- [Lifehacker] [Why Graphics Card Prices Are Dropping &lpar;and How Much They Cost Now&rpar;](https://lifehacker.com/why-graphics-card-prices-are-dropping-and-how-much-the-1848830151)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
