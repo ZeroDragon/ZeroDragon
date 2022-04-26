@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an English Pronunciation mini-game with Svelte!](https://dev.to/llxd/creating-an-english-pronunciation-mini-game-with-svelte-4c2l)
+- [Dev.to/JS] [VUEX in React](https://dev.to/air_choosy/vuex-in-react-48hc)
+- [Dev.to/JS] [Redux explicado de manera simple y sucinta para los desarrolladores de React](https://dev.to/khriztianmoreno/redux-explicado-de-manera-simple-y-sucinta-para-los-desarrolladores-de-react-2kl2)
+- [Dev.to/JS] [Custom CRM Development](https://dev.to/infotonicsmedia/custom-crm-development-47ed)
 - [Dev.to/JS] [Build Querystring like a pro](https://dev.to/ivanzm123/build-querystring-like-a-pro-35il)
 - [Dev.to/JS] [Connecting to Firestore - Link-Sharing Site Part 3](https://dev.to/adamjhawley/connecting-to-firestore-link-sharing-site-part-3-378f)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
@@ -38,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [To TS or not to TS, that is NOT the question. Is it?](https://dev.to/joelbonetr/to-ts-or-not-to-ts-that-is-not-the-question-4g7p)
 - [Dev.to/JS] [Speed up your Vue app: The most unexpected and perhaps silliest way 🤪🚀](https://dev.to/thormeier/the-perhaps-silliest-and-most-unexpected-way-to-speed-up-your-vue-app-5geh)
 - [Lifehacker] [Your Dog&#39;s White Fur Can Be Even Whiter](https://lifehacker.com/your-dogs-white-fur-can-be-even-whiter-1848842959)
-- [Dev.to/JS] [How to run Cypress test cases across multiple domains](https://dev.to/kailashpathak7/how-to-run-cypress-test-cases-across-multiple-domains-1llg)
-- [Dev.to/JS] [How does the fetch method work](https://dev.to/ahmedgaafer/how-does-the-fetch-method-works-39om)
-- [Dev.to/JS] [Build a Restaurant Website with Next.js 12.1 Features](https://dev.to/naira_gezhoyan/build-a-restaurant-website-with-nextjs-121-features-3fbo)
 - [Lifehacker] [How to Play Elden Ring in VR &lpar;Seriously&rpar;](https://lifehacker.com/how-to-play-elden-ring-in-vr-seriously-1848842785)
-- [Dev.to/JS] [Install Nodejs Fedora 35](https://dev.to/bukanspot/install-nodejs-fedora-15h4)
 - [Lifehacker] [What It Really Costs to Propose on a Jumbotron &lpar;and Better Ways to Spend That Money&rpar;](https://lifehacker.com/what-it-really-costs-to-propose-on-a-jumbotron-and-bet-1848842775)
 - [Lifehacker] [How to Make Hard Boiled Eggs Without Peeling a Damn Thing](https://lifehacker.com/how-to-make-hard-boiled-eggs-without-peeling-a-damn-thi-1848839332)
 - [Lifehacker] [Don’t Eat This E. Coli-Tainted Ground Beef, USDA Says](https://lifehacker.com/don-t-eat-this-e-coli-tainted-ground-beef-usda-says-1848842076)
