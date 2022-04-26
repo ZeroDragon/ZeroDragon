@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don’t Use Switch or If-Else in JavaScript, Instead, Try This](https://dev.to/braincuber_technologies/dont-use-switch-or-if-else-in-javascript-instead-try-this-3dhm)
+- [Dev.to/JS] [Performing Globalization and Localization using resource file in .NET Core](https://dev.to/tarungurang/performing-globalization-and-localization-using-resource-file-in-net-core-4mj2)
 - [Dev.to/JS] [Javascript Linked List data structure](https://dev.to/bvnkumar/javascript-linked-list-data-structure-9k9)
 - [Dev.to/JS] [#Hello, World!](https://dev.to/kwither/hello-world-283b)
 - [Dev.to/JS] [JavaScript Interview questions](https://dev.to/tarunsankhla/javascript-interview-questions-4igd)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Dev.to/JS] [Javascript Concepts you can&#39;t miss to crack the interview &lpar;2022&rpar;](https://dev.to/tbaveja/javascript-concepts-you-cant-miss-to-crack-the-interview-2022-5gbc)
-- [Dev.to/JS] [Build a Lightweight Web Component with Lit.js](https://dev.to/asayerio_techblog/build-a-lightweight-web-component-with-litjs-2ah9)
-- [Dev.to/JS] [Creating a RESTful API easily using node.js | Part 3](https://dev.to/iamshour/creating-a-restful-api-easily-using-nodejs-part-3-5hm0)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
 - [Lifehacker] [How to Actually Stay Calm During an Argument](https://lifehacker.com/how-to-actually-stay-calm-during-an-argument-1848838046)
 - [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
