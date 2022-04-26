@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fastify basics tutorial | A better alternative to Express](https://dev.to/thatanjan/fastify-basics-tutorial-a-better-alternative-of-express-1m5n)
+- [Lifehacker] [How to Sign Up for the &#39;Overwatch 2&#39; Beta](https://lifehacker.com/how-to-sign-up-for-the-overwatch-2-beta-1848842005)
+- [Dev.to/JS] [Step-By-Step: Manage Your Website Translations Like a Pro Using FlyCode](https://dev.to/flycode/step-by-step-manage-your-website-translations-like-a-pro-using-flycode-5edj)
+- [Dev.to/JS] [Testing 2....](https://dev.to/tadejjernejcic/testing-2-26pl)
+- [Dev.to/JS] [Step-by-step to turn your fresh node project to use typescript](https://dev.to/teerasej/step-by-step-to-turn-your-fresh-node-project-to-use-typescript-17fp)
+- [Dev.to/JS] [AWS Amplify Studio is Generally Available | 5 New Features to checkout](https://dev.to/aspittel/aws-amplify-studio-is-generally-available-5-new-features-to-checkout-4h0m)
+- [Lifehacker] [Use &#39;Companion Planting&#39; to Grow a More Fruitful Garden](https://lifehacker.com/use-companion-planting-to-grow-a-more-fruitful-garden-1848840806)
 - [Dev.to/JS] [Remix.run :: CRUD com Supabase - Parte 01 - Criando o projeto](https://dev.to/juniormartinxo/remix-crud-com-supabase-parte-01-criando-o-projeto-5bon)
 - [Lifehacker] [The Other Reason It&#39;s a Perfect Time to Join Mastodon, the Open-Source Twitter Alternative](https://lifehacker.com/the-other-reason-its-a-perfect-time-to-join-mastodon-t-1848839524)
 - [Lifehacker] [The Crucial Step You&#39;re Missing With Fruit Pie](https://lifehacker.com/the-crucial-step-youre-missing-with-fruit-pie-1848837672)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Clever Ways to Use Toothpaste Around Your Home](https://lifehacker.com/15-clever-ways-to-use-toothpaste-around-your-home-1848836915)
 - [Dev.to/JS] [Alternative to reddit](https://dev.to/gauravnumber/alternative-to-reddit-5co)
 - [Dev.to/JS] [Javascript Assíncrono - Entenda o que são Callbacks](https://dev.to/cjvaz/javascript-assincrono-entenda-o-que-sao-callbacks-57d5)
-- [Dev.to/JS] [Building a REST API with Prisma and express.js](https://dev.to/dawsoncodes/building-a-rest-api-with-prisma-and-expressjs-1oj)
-- [Dev.to/JS] [An Introduction to Vue 3 and Typescript: Component properties and events](https://dev.to/tqbit/an-introduction-to-vue-3-and-typescript-component-properties-and-events-5d8)
-- [Dev.to/JS] [Arrow functions in JavaScript](https://dev.to/kibetamos/arrow-functions-in-javascript-h5h)
-- [Dev.to/JS] [React Blog Website Using JAMstack &lpar;Gatsby.js &amp; Sanity.io&rpar;](https://dev.to/shaifarfan08/react-blog-website-using-jamstack-gatsbyjs-sanityio-bef)
-- [Dev.to/JS] [Javascriptda &#39;this&#39; kalit so&#39;zi](https://dev.to/dawroun/javascriptda-this-kalit-sozi-1fop)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Distill Your Own Water at Home](https://lifehacker.com/how-to-distill-your-own-water-at-home-1848824908)
 - [Lifehacker] [Clever Ways to Show Off Your Plants That Don&#39;t Involve a Pot](https://lifehacker.com/clever-ways-to-show-off-your-plants-that-dont-involve-a-1848824905)
 - [Lifehacker] [You Should Have Your Body Composted When You Die](https://lifehacker.com/you-should-have-your-body-composted-when-you-die-1848830967)
-- [Lifehacker] [You Deserve a Second Serve](https://lifehacker.com/you-deserve-a-second-serve-1848830090)
-- [Lifehacker] [6 First Aid Techniques You Can Use on Yourself in an Emergency](https://lifehacker.com/6-first-aid-techniques-you-can-use-on-yourself-in-an-em-1848830456)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
 
