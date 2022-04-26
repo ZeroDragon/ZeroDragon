@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Querystring like a pro](https://dev.to/ivanzm123/build-querystring-like-a-pro-35il)
+- [Dev.to/JS] [Connecting to Firestore - Link-Sharing Site Part 3](https://dev.to/adamjhawley/connecting-to-firestore-link-sharing-site-part-3-378f)
+- [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Dev.to/JS] [Let&#39;s learn, build and sell an API](https://dev.to/itsrakesh/lets-learn-build-and-sell-an-api-32h0)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a Restaurant Website with Next.js 12.1 Features](https://dev.to/naira_gezhoyan/build-a-restaurant-website-with-nextjs-121-features-3fbo)
 - [Lifehacker] [How to Play Elden Ring in VR &lpar;Seriously&rpar;](https://lifehacker.com/how-to-play-elden-ring-in-vr-seriously-1848842785)
 - [Dev.to/JS] [Install Nodejs Fedora 35](https://dev.to/bukanspot/install-nodejs-fedora-15h4)
-- [Dev.to/JS] [Day-74 Training At Ryaz](https://dev.to/mahin651/day-74-training-at-ryaz-2430)
-- [Dev.to/JS] [How to create an auth login system with axios interceptors &lpar;TypeScript&rpar;](https://dev.to/vikirobles/how-to-create-an-auth-login-system-with-axios-interceptors-typescript-2k11)
 - [Lifehacker] [What It Really Costs to Propose on a Jumbotron &lpar;and Better Ways to Spend That Money&rpar;](https://lifehacker.com/what-it-really-costs-to-propose-on-a-jumbotron-and-bet-1848842775)
 - [Lifehacker] [How to Make Hard Boiled Eggs Without Peeling a Damn Thing](https://lifehacker.com/how-to-make-hard-boiled-eggs-without-peeling-a-damn-thi-1848839332)
 - [Lifehacker] [Don’t Eat This E. Coli-Tainted Ground Beef, USDA Says](https://lifehacker.com/don-t-eat-this-e-coli-tainted-ground-beef-usda-says-1848842076)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
 - [Lifehacker] [How Many Movies Do You Need to See to Make a Theater Subscription Pay Off?](https://lifehacker.com/how-many-movies-do-you-need-to-see-to-make-a-theater-su-1848837747)
 - [Lifehacker] [5 ‘Myths’ That Are Actually True](https://lifehacker.com/5-myths-that-are-actually-true-1848838035)
-- [Lifehacker] [Let This Free App Explain How to Play a New Board Game &lpar;So You Don’t Have To&rpar;](https://lifehacker.com/let-this-free-app-explain-how-to-play-a-new-board-game-1848837182)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
