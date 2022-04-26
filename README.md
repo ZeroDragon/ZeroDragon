@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BEECROWD - Guia de como enviar soluções com javascript](https://dev.to/gabrielduete/beecrowd-guia-de-como-enviar-solucoes-com-javascript-ai0)
+- [Dev.to/JS] [¿Un portafolio?](https://dev.to/alexmaldonadosoto/un-portafolio-18lg)
 - [Dev.to/JS] [Creating Flipable Card Using HTML/CSS/JS](https://dev.to/ksckaan1/creating-flipable-card-using-htmlcssjs-h5f)
 - [Dev.to/JS] [Criando um envio de newsletter com AWS SNS e Nodejs](https://dev.to/feministech/criando-um-envio-de-newsletter-com-aws-sns-e-nodejs-4a2a)
 - [Dev.to/JS] [Announcing our Discord Live: Learn Svelte and more](https://dev.to/richkurtzman/announcing-our-discord-live-learn-svelte-and-more-1do4)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a RESTful API easily using node.js | Part 3](https://dev.to/iamshour/creating-a-restful-api-easily-using-nodejs-part-3-5hm0)
 - [Dev.to/JS] [How to build a Twitch chat overlay](https://dev.to/annetawamono/how-to-build-a-twitch-chat-overlay-326b)
 - [Dev.to/JS] [Ng-News: Episode 22/16](https://dev.to/rainerhahnekamp/ng-news-episode-2216-2m00)
-- [Dev.to/JS] [New to Dev.to](https://dev.to/folioink/new-to-devto-13oi)
-- [Dev.to/JS] [Notes on the Critical Rendering Path &lpar;CRP&rpar;](https://dev.to/joelhassan/notes-on-the-critical-rendering-path-crp-eoo)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
 - [Lifehacker] [How to Actually Stay Calm During an Argument](https://lifehacker.com/how-to-actually-stay-calm-during-an-argument-1848838046)
 - [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
