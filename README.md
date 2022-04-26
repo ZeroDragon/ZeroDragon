@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup Seers GDPR Compliant Cookie Consent Banner on Blogger](https://dev.to/seers/setup-seers-gdpr-compliant-cookie-consent-banner-on-blogger-4425)
+- [Dev.to/JS] [What are the blog that you fallow ?](https://dev.to/leamsigc/what-are-the-blog-that-you-fallow--19ki)
+- [Dev.to/JS] [Lifestyle Keto Review [U.S Update 2022]: It Helps To Burn Your Fat Or What?](https://dev.to/lifestyleketogo/lifestyle-keto-review-us-update-2022-it-helps-to-burn-your-fat-or-what-3mam)
+- [Dev.to/JS] [Herpesyl Reviews - Uses, Read Reviews, Benefits, Results &amp; Ingredients?](https://dev.to/herpesylfact/herpesyl-reviews-uses-read-reviews-benefits-results-ingredients-iah)
 - [Dev.to/JS] [Array.every&lpar;&rpar; - for checking if all items meet a condition](https://dev.to/dillionmegida/arrayevery-for-checking-if-all-items-meet-a-condition-5h3p)
 - [Dev.to/JS] [Build an Online Course Site with Vue](https://dev.to/coursekit/build-an-online-course-site-with-vue-kbk)
 - [Dev.to/JS] [HTTP Request Methods - GET Vs POST Vs PUT](https://dev.to/sanjaysinghrajpoot/http-reguest-methods-get-vs-post-vs-put-4b5m)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From scratch Drag and Drop - Pitfalls with Scroll Anchoring and touch gestures](https://dev.to/randomengy/from-scratch-drag-and-drop-pitfalls-with-scroll-anchoring-and-touch-gestures-3299)
 - [Dev.to/JS] [9 Must Have Skills To Master Exploratory Testing](https://dev.to/lambdatest/9-must-have-skills-to-master-exploratory-testing-5a7k)
 - [Dev.to/JS] [Don’t Use Switch or If-Else in JavaScript, Instead, Try This](https://dev.to/braincuber_technologies/dont-use-switch-or-if-else-in-javascript-instead-try-this-3dhm)
-- [Dev.to/JS] [Performing Globalization and Localization using resource file in .NET Core](https://dev.to/tarungurang/performing-globalization-and-localization-using-resource-file-in-net-core-4mj2)
-- [Dev.to/JS] [Javascript Linked List data structure](https://dev.to/bvnkumar/javascript-linked-list-data-structure-9k9)
-- [Dev.to/JS] [#Hello, World!](https://dev.to/kwither/hello-world-283b)
-- [Dev.to/JS] [JavaScript Interview questions](https://dev.to/tarunsankhla/javascript-interview-questions-4igd)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
