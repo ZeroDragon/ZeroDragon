@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating collabrative javascript spreadsheet made easy](https://dev.to/zyc9012/creating-collabrative-javascript-spreadsheet-made-easy-3m9f)
+- [Dev.to/JS] [Complete Guide About React in 2022](https://dev.to/agarralexx/complete-guide-about-react-in-2022-2nld)
+- [Dev.to/JS] [Setup Seers Cookie Compliance CMP on BigCommerce](https://dev.to/seers/setup-seers-cookie-compliance-cmp-on-bigcommerce-5c44)
 - [Dev.to/JS] [GitHub App and OAuth ~ Practical Kick-Starter](https://dev.to/didof/github-app-and-oauth-practical-kick-starter-4df4)
 - [Dev.to/JS] [One of my favorite JS challenges on Stack Overflow](https://dev.to/gass/one-of-my-favorite-js-challenges-on-stack-overflow-2kc9)
 - [Dev.to/JS] [Setup Seers GDPR Compliant Cookie Consent Banner on Blogger](https://dev.to/seers/setup-seers-gdpr-compliant-cookie-consent-banner-on-blogger-4425)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.every&lpar;&rpar; - for checking if all items meet a condition](https://dev.to/dillionmegida/arrayevery-for-checking-if-all-items-meet-a-condition-5h3p)
 - [Dev.to/JS] [Build an Online Course Site with Vue](https://dev.to/coursekit/build-an-online-course-site-with-vue-kbk)
 - [Dev.to/JS] [HTTP Request Methods - GET Vs POST Vs PUT](https://dev.to/sanjaysinghrajpoot/http-reguest-methods-get-vs-post-vs-put-4b5m)
-- [Dev.to/JS] [A Quest to Understanding Higher Order Functions](https://dev.to/zoekhall/a-quest-to-understanding-higher-order-functions-10o6)
-- [Dev.to/JS] [Aplikasi Editor HTML/Javascript Terbaik di Ponsel Android](https://dev.to/julaiman/aplikasi-editor-htmljavasvript-terbaik-di-ponsel-android-pbl)
-- [Dev.to/JS] [From scratch Drag and Drop - Pitfalls with Scroll Anchoring and touch gestures](https://dev.to/randomengy/from-scratch-drag-and-drop-pitfalls-with-scroll-anchoring-and-touch-gestures-3299)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
