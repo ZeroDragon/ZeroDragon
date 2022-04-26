@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Flipable Card Using HTML/CSS/JS](https://dev.to/ksckaan1/creating-flipable-card-using-htmlcssjs-h5f)
 - [Dev.to/JS] [Criando um envio de newsletter com AWS SNS e Nodejs](https://dev.to/feministech/criando-um-envio-de-newsletter-com-aws-sns-e-nodejs-4a2a)
 - [Dev.to/JS] [Announcing our Discord Live: Learn Svelte and more](https://dev.to/richkurtzman/announcing-our-discord-live-learn-svelte-and-more-1do4)
 - [Dev.to/JS] [Brands must be flexible, Svelte deployment is a solution](https://dev.to/richkurtzman/brands-must-be-flexible-svelte-deployment-is-a-solution-2n8m)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [New to Dev.to](https://dev.to/folioink/new-to-devto-13oi)
 - [Dev.to/JS] [Notes on the Critical Rendering Path &lpar;CRP&rpar;](https://dev.to/joelhassan/notes-on-the-critical-rendering-path-crp-eoo)
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
-- [Dev.to/JS] [Una mejor manera de crear bibliotecas de componentes React](https://dev.to/khriztianmoreno/una-mejor-manera-de-crear-bibliotecas-de-componentes-react-1m92)
 - [Lifehacker] [How to Actually Stay Calm During an Argument](https://lifehacker.com/how-to-actually-stay-calm-during-an-argument-1848838046)
 - [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
 - [Lifehacker] [How Many Movies Do You Need to See to Make a Theater Subscription Pay Off?](https://lifehacker.com/how-many-movies-do-you-need-to-see-to-make-a-theater-su-1848837747)
