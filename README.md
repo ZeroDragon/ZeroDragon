@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [2nd project finished](https://dev.to/datamoshing/2nd-project-finished-16ek)
+- [Dev.to/JS] [What is Milimeterwave radar?](https://dev.to/ailee/what-is-milimeterwave-radar-2e29)
 - [Dev.to/JS] [MiuJS: a framework for building HTML applications packed with the minimum necessary functionality](https://dev.to/mast1ff/miujs-a-framework-for-building-html-applications-packed-with-the-minimum-necessary-functionality-2ca6)
 - [Dev.to/JS] [Vuetify Error: You cannot call &quot;get&quot; on a collection with no paths.](https://dev.to/mrpaulishaili/vuetify-error-you-cannot-call-get-on-a-collection-with-no-paths-5a66)
 - [Dev.to/JS] [6 Different Ways To Clone An Array In JavaScript 📑](https://dev.to/6km/6-different-ways-to-clone-an-array-in-javascript-95k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VUEX in React](https://dev.to/air_choosy/vuex-in-react-48hc)
 - [Dev.to/JS] [Redux explicado de manera simple y sucinta para los desarrolladores de React](https://dev.to/khriztianmoreno/redux-explicado-de-manera-simple-y-sucinta-para-los-desarrolladores-de-react-2kl2)
 - [Dev.to/JS] [Custom CRM Development](https://dev.to/infotonicsmedia/custom-crm-development-47ed)
-- [Dev.to/JS] [Build Querystring like a pro](https://dev.to/ivanzm123/build-querystring-like-a-pro-35il)
-- [Dev.to/JS] [Connecting to Firestore - Link-Sharing Site Part 3](https://dev.to/adamjhawley/connecting-to-firestore-link-sharing-site-part-3-378f)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
