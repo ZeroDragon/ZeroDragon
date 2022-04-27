@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #110: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-110-explica-este-codigo-javascript-38np)
+- [Lifehacker] [How Histrionic Personality Disorder Differs From Narcissistic Personality Disorder](https://lifehacker.com/how-histrionic-personality-disorder-differs-from-narcis-1848847780)
+- [Dev.to/JS] [How the TypeScript Parameters Type Works](https://dev.to/smpnjn/how-the-typescript-parameters-type-works-49p5)
 - [Lifehacker] [You Can Finally Fix Your Own Apple Devices &lpar;With Apple’s Help&rpar;](https://lifehacker.com/you-can-finally-fix-your-own-apple-devices-with-apple-1848847963)
 - [Dev.to/JS] [Useful Tips for Web Dev - Part1](https://dev.to/atulbhattsystem32/useful-tips-for-web-dev-part1-5061)
 - [Dev.to/JS] [Day-75 Training At Ryaz](https://dev.to/mahin651/day-75-training-at-ryaz-4ilh)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We&#39;re all living on it. But what exactly is The Edge?](https://dev.to/whitep4nth3r/were-all-living-on-it-but-what-exactly-is-the-edge-4n5l)
 - [Lifehacker] [How to Not Embarrass Yourself When You Use Colons and Semicolons](https://lifehacker.com/how-to-use-a-semicolon-without-fucking-it-up-1848844770)
 - [Dev.to/JS] [# Top 6 websites to practice JavaScript](https://dev.to/sudoofe123/-top-6-websites-to-practice-javascript-3ign)
-- [Dev.to/JS] [Why React can not access images from public](https://dev.to/mikefazekas/why-react-can-not-access-images-from-public-2dic)
 - [Lifehacker] [10 Ways to Make Flying Coach Suck Less](https://lifehacker.com/10-ways-to-make-flying-coach-suck-less-1848844989)
-- [Dev.to/JS] [5 JavaScript Testing Mistakes to Avoid](https://dev.to/zposten/5-javascript-testing-mistakes-to-avoid-1pjl)
 - [Lifehacker] [You Can Fry an Egg in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
 - [Lifehacker] [Why Now Is the Time to Reassess Your Streaming Services](https://lifehacker.com/why-now-is-the-time-to-reassess-your-streaming-service-1848844490)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Sign Up for the &#39;Overwatch 2&#39; Beta](https://lifehacker.com/how-to-sign-up-for-the-overwatch-2-beta-1848842005)
 - [Lifehacker] [Use &#39;Companion Planting&#39; to Grow a More Fruitful Garden](https://lifehacker.com/use-companion-planting-to-grow-a-more-fruitful-garden-1848840806)
 - [Lifehacker] [The Other Reason It&#39;s a Perfect Time to Join Mastodon, the Open-Source Twitter Alternative](https://lifehacker.com/the-other-reason-its-a-perfect-time-to-join-mastodon-t-1848839524)
-- [Lifehacker] [The Crucial Step You&#39;re Missing With Fruit Pie](https://lifehacker.com/the-crucial-step-youre-missing-with-fruit-pie-1848837672)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
