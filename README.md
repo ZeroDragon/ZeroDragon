@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Finally Fix Your Own Apple Devices &lpar;With Apple’s Help&rpar;](https://lifehacker.com/you-can-finally-fix-your-own-apple-devices-with-apple-1848847963)
+- [Dev.to/JS] [Useful Tips for Web Dev - Part1](https://dev.to/atulbhattsystem32/useful-tips-for-web-dev-part1-5061)
+- [Dev.to/JS] [Day-75 Training At Ryaz](https://dev.to/mahin651/day-75-training-at-ryaz-4ilh)
+- [Lifehacker] [What&#39;s New on Prime Video in May 2022](https://lifehacker.com/whats-new-on-prime-video-in-may-2022-1848848337)
+- [Dev.to/JS] [Discuss time | Shop ideas](https://dev.to/maklut/discuss-time-3l88)
+- [Dev.to/JS] [FIRST PROJECT ✨](https://dev.to/abhimanyut0800/first-project-389h)
+- [Dev.to/JS] [Rendering](https://dev.to/benoah/rendering-5a3l)
 - [Lifehacker] [The Difference Between Frame Rate, Bitrate, and Video Resolution](https://lifehacker.com/the-difference-between-frame-rate-bitrate-and-video-r-1848848182)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Lifehacker] [This DIY Weed Killer Is Safe for Your Kids and Pets](https://lifehacker.com/this-diy-weed-killer-is-safe-for-your-kids-and-pets-1848846558)
@@ -37,12 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Ways to Make Flying Coach Suck Less](https://lifehacker.com/10-ways-to-make-flying-coach-suck-less-1848844989)
 - [Dev.to/JS] [5 JavaScript Testing Mistakes to Avoid](https://dev.to/zposten/5-javascript-testing-mistakes-to-avoid-1pjl)
 - [Lifehacker] [You Can Fry an Egg in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
-- [Dev.to/JS] [Add a smart &#39;back to top&#39; button to your blog 👓🔝](https://dev.to/robole/add-a-smart-back-to-top-button-to-your-blog-ci7)
-- [Dev.to/JS] [What are the DXs you enjoy in the Vue Community?](https://dev.to/kachidk/what-are-the-dxs-you-enjoy-in-the-vue-community-538n)
-- [Dev.to/JS] [Beyond Javascript: 5 Programming Languages That Will Rewire Your Brain &lpar;Part 1/5: C&rpar;](https://dev.to/wesen/beyond-javascript-5-programming-languages-that-will-rewire-your-brain-part-15-c-2296)
 - [Lifehacker] [Why Now Is the Time to Reassess Your Streaming Services](https://lifehacker.com/why-now-is-the-time-to-reassess-your-streaming-service-1848844490)
-- [Dev.to/JS] [How our team member Jakub helped improve the DX of new Nuxt 3 CLI!](https://dev.to/vue-storefront/how-our-team-member-jakub-helped-improve-the-dx-of-new-nuxt-3-cli-1efo)
-- [Dev.to/JS] [GraphQL Subscriptions: Why we use SSE/Fetch over Websockets](https://dev.to/wundergraph/graphql-subscriptions-why-we-use-ssefetch-over-websockets-4h3i)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use &#39;Companion Planting&#39; to Grow a More Fruitful Garden](https://lifehacker.com/use-companion-planting-to-grow-a-more-fruitful-garden-1848840806)
 - [Lifehacker] [The Other Reason It&#39;s a Perfect Time to Join Mastodon, the Open-Source Twitter Alternative](https://lifehacker.com/the-other-reason-its-a-perfect-time-to-join-mastodon-t-1848839524)
 - [Lifehacker] [The Crucial Step You&#39;re Missing With Fruit Pie](https://lifehacker.com/the-crucial-step-youre-missing-with-fruit-pie-1848837672)
-- [Lifehacker] [The 7 Deadly Sins of Owning Houseplants](https://lifehacker.com/the-7-deadly-sins-of-owning-houseplants-1848838483)
-- [Lifehacker] [15 Clever Ways to Use Toothpaste Around Your Home](https://lifehacker.com/15-clever-ways-to-use-toothpaste-around-your-home-1848836915)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
