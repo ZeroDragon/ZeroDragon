@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are some useful functions of JavaScript, which you like to show?](https://dev.to/curiousdev/what-are-some-useful-functions-of-javascript-which-you-like-to-show-1ab0)
+- [Dev.to/JS] [Hero Section Component](https://dev.to/kumard3/hero-section-component-4oaf)
+- [Dev.to/JS] [Digital Visiting Card](https://dev.to/omkarh/digital-visiting-card-2a67)
 - [Dev.to/JS] [Improve Web Performance With Web Workers](https://dev.to/nikhiltatpati/improve-web-performance-with-web-workers-3jal)
 - [Dev.to/JS] [Next-Auth with Django, how can we do it? Email Based, and OAuth Both!](https://dev.to/developerbishwas/next-auth-with-django-how-can-we-do-it-email-based-and-oauth-both-2agc)
 - [Dev.to/JS] [Generating docs from OpenAPI Spec](https://dev.to/gwenshap/generating-docs-from-openapi-spec-4j3i)
+- [Dev.to/JS] [Jak pisać testy jednostkowe](https://dev.to/poznaj-dev/jak-pisac-testy-jednostkowe-7j)
 - [Dev.to/JS] [Did Some Work with SvelteKit](https://dev.to/krowemoh/did-some-work-with-sveltekit-58dn)
+- [Dev.to/JS] [Cómo escribir pruebas unitarias](https://dev.to/conoce-dev/como-escribir-pruebas-unitarias-28gd)
 - [Dev.to/JS] [Now Getting Started with Angular Animations - iFour Technolab](https://dev.to/tarungurang/now-getting-started-with-angular-animations-ifour-technolab-d4k)
 - [Dev.to/JS] [Node JS frameworks for 2022](https://dev.to/andrewtaylor1900/node-js-frameworks-for-2022-3bl8)
 - [Dev.to/JS] [Companies using Node.JS](https://dev.to/lukemoore1050/companies-using-nodejs-1d7e)
-- [Dev.to/JS] [2nd project finished](https://dev.to/datamoshing/2nd-project-finished-16ek)
-- [Dev.to/JS] [What is Milimeterwave radar?](https://dev.to/ailee/what-is-milimeterwave-radar-2e29)
-- [Dev.to/JS] [MiuJS: a framework for building HTML applications packed with the minimum necessary functionality](https://dev.to/mast1ff/miujs-a-framework-for-building-html-applications-packed-with-the-minimum-necessary-functionality-2ca6)
-- [Dev.to/JS] [Vuetify Error: You cannot call &quot;get&quot; on a collection with no paths.](https://dev.to/mrpaulishaili/vuetify-error-you-cannot-call-get-on-a-collection-with-no-paths-5a66)
-- [Dev.to/JS] [6 Different Ways To Clone An Array In JavaScript 📑](https://dev.to/6km/6-different-ways-to-clone-an-array-in-javascript-95k)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
