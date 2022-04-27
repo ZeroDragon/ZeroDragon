@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 Ways to Exude More Confidence &lpar;Even When You&#39;re Not Feeling It&rpar;](https://lifehacker.com/8-ways-to-exude-more-confidence-even-when-youre-not-fe-1848843069)
+- [Dev.to/JS] [Create Todo List App in HTML, CSS, and Javascript](https://dev.to/incoderweb/create-todo-list-app-in-html-css-and-javascript-3g4f)
+- [Dev.to/JS] [We&#39;re all living on it. But what exactly is The Edge?](https://dev.to/whitep4nth3r/were-all-living-on-it-but-what-exactly-is-the-edge-4n5l)
+- [Lifehacker] [How to Not Embarrass Yourself When You Use Colons and Semicolons](https://lifehacker.com/how-to-use-a-semicolon-without-fucking-it-up-1848844770)
+- [Dev.to/JS] [# Top 6 websites to practice JavaScript](https://dev.to/sudoofe123/-top-6-websites-to-practice-javascript-3ign)
+- [Dev.to/JS] [Why React can not access images from public](https://dev.to/mikefazekas/why-react-can-not-access-images-from-public-2dic)
+- [Lifehacker] [10 Ways to Make Flying Coach Suck Less](https://lifehacker.com/10-ways-to-make-flying-coach-suck-less-1848844989)
 - [Dev.to/JS] [5 JavaScript Testing Mistakes to Avoid](https://dev.to/zposten/5-javascript-testing-mistakes-to-avoid-1pjl)
 - [Lifehacker] [You Can Fry an Egg in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
 - [Dev.to/JS] [Add a smart &#39;back to top&#39; button to your blog 👓🔝](https://dev.to/robole/add-a-smart-back-to-top-button-to-your-blog-ci7)
@@ -33,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GraphQL Subscriptions: Why we use SSE/Fetch over Websockets](https://dev.to/wundergraph/graphql-subscriptions-why-we-use-ssefetch-over-websockets-4h3i)
 - [Dev.to/JS] [i18n.js Can reload after build?](https://dev.to/michael01055978/i18njs-can-reload-after-build-3lg9)
 - [Dev.to/JS] [Cara Mudah Menukar Nilai Variabel Dengan Javascript](https://dev.to/arisca_abdullah/cara-mudah-menukar-nilai-variabel-dengan-javascript-4on3)
-- [Dev.to/JS] [Send messages in App! Integrate Huawei In App Messaging services using React Native](https://dev.to/hmscommunity/send-messages-in-app-integrate-huawei-in-app-messaging-services-using-react-native-2po)
-- [Dev.to/JS] [Understanding RxJS use cases &lpar;part II&rpar;](https://dev.to/this-is-learning/understanding-rxjs-use-cases-part-ii-51ll)
-- [Dev.to/JS] [What is Rebass and How to provide theming to Rebass Components?](https://dev.to/hiteshtech/what-is-rebass-and-how-to-provide-theming-to-rebass-components-1h1j)
-- [Dev.to/JS] [object oriented programming in Javascript &lpar;part 4&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-4-2noi)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Clever Ways to Use Toothpaste Around Your Home](https://lifehacker.com/15-clever-ways-to-use-toothpaste-around-your-home-1848836915)
 - [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
 - [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
-- [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
-- [Lifehacker] [How to Actually Stay Calm During an Argument](https://lifehacker.com/how-to-actually-stay-calm-during-an-argument-1848838046)
-- [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
