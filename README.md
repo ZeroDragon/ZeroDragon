@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
+- [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Dev.to/JS] [Day 19 - 20 of 100 Days of Code: Dice Game App](https://dev.to/nkemdev/day20-of-100-days-of-code-4a39)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
 - [Lifehacker] [How to Keep Your Meats From Flipping Around on the Skewer](https://lifehacker.com/how-to-keep-your-meats-from-flipping-around-on-the-skew-1848849185)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Dog&#39;s White Fur Can Be Even Whiter](https://lifehacker.com/your-dogs-white-fur-can-be-even-whiter-1848842959)
 - [Lifehacker] [How to Play Elden Ring in VR &lpar;Seriously&rpar;](https://lifehacker.com/how-to-play-elden-ring-in-vr-seriously-1848842785)
 - [Lifehacker] [What It Really Costs to Propose on a Jumbotron &lpar;and Better Ways to Spend That Money&rpar;](https://lifehacker.com/what-it-really-costs-to-propose-on-a-jumbotron-and-bet-1848842775)
-- [Lifehacker] [How to Make Hard Boiled Eggs Without Peeling a Damn Thing](https://lifehacker.com/how-to-make-hard-boiled-eggs-without-peeling-a-damn-thi-1848839332)
-- [Lifehacker] [Don’t Eat This E. Coli-Tainted Ground Beef, USDA Says](https://lifehacker.com/don-t-eat-this-e-coli-tainted-ground-beef-usda-says-1848842076)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
