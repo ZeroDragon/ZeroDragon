@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best shipping company in India](https://dev.to/jaspree09505796/best-shipping-company-in-india-12g7)
+- [Dev.to/JS] [Best key chain manufacture](https://dev.to/jaspree09505796/best-key-chain-manufacture-56ki)
+- [Dev.to/JS] [Companies using Node.JS](https://dev.to/lukemoore1050/companies-using-nodejs-1d7e)
 - [Dev.to/JS] [2nd project finished](https://dev.to/datamoshing/2nd-project-finished-16ek)
 - [Dev.to/JS] [What is Milimeterwave radar?](https://dev.to/ailee/what-is-milimeterwave-radar-2e29)
 - [Dev.to/JS] [MiuJS: a framework for building HTML applications packed with the minimum necessary functionality](https://dev.to/mast1ff/miujs-a-framework-for-building-html-applications-packed-with-the-minimum-necessary-functionality-2ca6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I want to ask ?](https://dev.to/amansingh/i-want-to-ask--1jl7)
 - [Dev.to/JS] [Rules of React&#39;s useEffect](https://dev.to/coderpad/rules-of-reacts-useeffect-423c)
 - [Dev.to/JS] [Creating an English Pronunciation mini-game with Svelte!](https://dev.to/llxd/creating-an-english-pronunciation-mini-game-with-svelte-4c2l)
-- [Dev.to/JS] [VUEX in React](https://dev.to/air_choosy/vuex-in-react-48hc)
-- [Dev.to/JS] [Redux explicado de manera simple y sucinta para los desarrolladores de React](https://dev.to/khriztianmoreno/redux-explicado-de-manera-simple-y-sucinta-para-los-desarrolladores-de-react-2kl2)
-- [Dev.to/JS] [Custom CRM Development](https://dev.to/infotonicsmedia/custom-crm-development-47ed)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
