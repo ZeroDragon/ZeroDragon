@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Frame Rate, Bitrate, and Video Resolution](https://lifehacker.com/the-difference-between-frame-rate-bitrate-and-video-r-1848848182)
+- [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
+- [Lifehacker] [This DIY Weed Killer Is Safe for Your Kids and Pets](https://lifehacker.com/this-diy-weed-killer-is-safe-for-your-kids-and-pets-1848846558)
+- [Dev.to/JS] [Building a Video Chat App with Next.js, 100ms, and TailwindCSS](https://dev.to/asayerio_techblog/building-a-video-chat-app-with-nextjs-100ms-and-tailwindcss-1oc)
+- [Dev.to/JS] [Build a Decentralized News Feed using Reactjs, TailwindCSS, Etherjs, IPFS &amp; Solidity](https://dev.to/olanetsoft/build-a-decentralized-news-feed-using-reactjs-tailwindcss-etherjs-ipfs-solidity-13jl)
 - [Lifehacker] [8 Ways to Exude More Confidence &lpar;Even When You&#39;re Not Feeling It&rpar;](https://lifehacker.com/8-ways-to-exude-more-confidence-even-when-youre-not-fe-1848843069)
 - [Dev.to/JS] [Create Todo List App in HTML, CSS, and Javascript](https://dev.to/incoderweb/create-todo-list-app-in-html-css-and-javascript-3g4f)
 - [Dev.to/JS] [We&#39;re all living on it. But what exactly is The Edge?](https://dev.to/whitep4nth3r/were-all-living-on-it-but-what-exactly-is-the-edge-4n5l)
@@ -38,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Now Is the Time to Reassess Your Streaming Services](https://lifehacker.com/why-now-is-the-time-to-reassess-your-streaming-service-1848844490)
 - [Dev.to/JS] [How our team member Jakub helped improve the DX of new Nuxt 3 CLI!](https://dev.to/vue-storefront/how-our-team-member-jakub-helped-improve-the-dx-of-new-nuxt-3-cli-1efo)
 - [Dev.to/JS] [GraphQL Subscriptions: Why we use SSE/Fetch over Websockets](https://dev.to/wundergraph/graphql-subscriptions-why-we-use-ssefetch-over-websockets-4h3i)
-- [Dev.to/JS] [i18n.js Can reload after build?](https://dev.to/michael01055978/i18njs-can-reload-after-build-3lg9)
-- [Dev.to/JS] [Cara Mudah Menukar Nilai Variabel Dengan Javascript](https://dev.to/arisca_abdullah/cara-mudah-menukar-nilai-variabel-dengan-javascript-4on3)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
@@ -58,11 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Crucial Step You&#39;re Missing With Fruit Pie](https://lifehacker.com/the-crucial-step-youre-missing-with-fruit-pie-1848837672)
 - [Lifehacker] [The 7 Deadly Sins of Owning Houseplants](https://lifehacker.com/the-7-deadly-sins-of-owning-houseplants-1848838483)
 - [Lifehacker] [15 Clever Ways to Use Toothpaste Around Your Home](https://lifehacker.com/15-clever-ways-to-use-toothpaste-around-your-home-1848836915)
-- [Lifehacker] [What Is &#39;Period Flu&#39; and How Can You Deal With It?](https://lifehacker.com/what-is-period-flu-and-how-can-you-deal-with-it-1848839422)
-- [Lifehacker] [When to Show Your ‘Gross’ Side in a New Relationship](https://lifehacker.com/when-to-show-your-gross-side-in-a-new-relationship-1848839196)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
-- [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
-- [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
 ---
 
