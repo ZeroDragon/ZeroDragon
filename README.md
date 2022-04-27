@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How our team member Jakub helped improve the DX of new Nuxt 3 CLI!](https://dev.to/jacobandrewsky/how-our-team-member-jakub-helped-improve-the-dx-of-new-nuxt-3-cli-1efo)
+- [Dev.to/JS] [Beyond Javascript: 5 Programming Languages That Will Rewire Your Brain &lpar;Part 1/5: C&rpar;](https://dev.to/wesen/beyond-javascript-5-programming-languages-that-will-rewire-your-brain-part-15-c-2296)
+- [Lifehacker] [Why Now Is the Time to Reassess Your Streaming Service Needs](https://lifehacker.com/why-now-is-the-time-to-reassess-your-streaming-service-1848844490)
+- [Dev.to/JS] [How our team member Jakub helped improve the DX of new Nuxt 3 CLI!](https://dev.to/vue-storefront/how-our-team-member-jakub-helped-improve-the-dx-of-new-nuxt-3-cli-1efo)
 - [Dev.to/JS] [GraphQL Subscriptions: Why we use SSE/Fetch over Websockets](https://dev.to/wundergraph/graphql-subscriptions-why-we-use-ssefetch-over-websockets-4h3i)
 - [Dev.to/JS] [i18n.js Can reload after build?](https://dev.to/michael01055978/i18njs-can-reload-after-build-3lg9)
 - [Dev.to/JS] [Cara Mudah Menukar Nilai Variabel Dengan Javascript](https://dev.to/arisca_abdullah/cara-mudah-menukar-nilai-variabel-dengan-javascript-4on3)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using JS Functions Properties in Real Life](https://dev.to/clickpesa/using-js-functions-properties-in-real-life-lcg)
 - [Dev.to/JS] [CSS shorthand properties](https://dev.to/ganeshpatil386386/css-shorthand-properties-2ca0)
 - [Dev.to/JS] [Someone please explain to me why this is not considered Insertion Sort](https://dev.to/henryong92/someone-please-explain-to-me-why-this-is-not-considered-insertion-sort-490a)
-- [Dev.to/JS] [JavaScript Refactoring Combo: Simplify if-else variable initialization](https://dev.to/lgrammel/javascript-refactoring-combos-convert-conditional-initialization-with-if-else-into-conditional-expression-5g5j)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Actually Stay Calm During an Argument](https://lifehacker.com/how-to-actually-stay-calm-during-an-argument-1848838046)
 - [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
 - [Lifehacker] [How Many Movies Do You Need to See to Make a Theater Subscription Pay Off?](https://lifehacker.com/how-many-movies-do-you-need-to-see-to-make-a-theater-su-1848837747)
-- [Lifehacker] [5 ‘Myths’ That Are Actually True](https://lifehacker.com/5-myths-that-are-actually-true-1848838035)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
