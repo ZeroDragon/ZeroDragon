@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 19 - 20 of 100 Days of Code: Dice Game App](https://dev.to/nkemdev/day20-of-100-days-of-code-4a39)
+- [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
+- [Lifehacker] [How to Keep Your Meats From Flipping Around on the Skewer](https://lifehacker.com/how-to-keep-your-meats-from-flipping-around-on-the-skew-1848849185)
 - [Dev.to/JS] [How Angular Works, and Why You Should Be Using It.](https://dev.to/chadwinjdeysel/how-angular-works-and-why-you-should-be-using-it-1b93)
 - [Lifehacker] [Enough With Administrative Professionals Day](https://lifehacker.com/enough-with-administrative-professionals-day-1848849174)
 - [Dev.to/JS] [Build Restaurant Website with Next.js and Cosmic](https://dev.to/naira_gezhoyan/build-restaurant-website-with-nextjs-and-cosmic-3olb)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Video Chat App with Next.js, 100ms, and TailwindCSS](https://dev.to/asayerio_techblog/building-a-video-chat-app-with-nextjs-100ms-and-tailwindcss-1oc)
 - [Dev.to/JS] [Build a Decentralized News Feed using Reactjs, TailwindCSS, Etherjs, IPFS &amp; Solidity](https://dev.to/olanetsoft/build-a-decentralized-news-feed-using-reactjs-tailwindcss-etherjs-ipfs-solidity-13jl)
 - [Lifehacker] [8 Ways to Exude More Confidence &lpar;Even When You&#39;re Not Feeling It&rpar;](https://lifehacker.com/8-ways-to-exude-more-confidence-even-when-youre-not-fe-1848843069)
-- [Dev.to/JS] [Create Todo List App in HTML, CSS, and Javascript](https://dev.to/incoderweb/create-todo-list-app-in-html-css-and-javascript-3g4f)
 - [Lifehacker] [How to Not Embarrass Yourself When You Use Colons and Semicolons](https://lifehacker.com/how-to-use-a-semicolon-without-fucking-it-up-1848844770)
 - [Lifehacker] [10 Ways to Make Flying Coach Suck Less](https://lifehacker.com/10-ways-to-make-flying-coach-suck-less-1848844989)
 - [Lifehacker] [You Can Fry an Egg in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What It Really Costs to Propose on a Jumbotron &lpar;and Better Ways to Spend That Money&rpar;](https://lifehacker.com/what-it-really-costs-to-propose-on-a-jumbotron-and-bet-1848842775)
 - [Lifehacker] [How to Make Hard Boiled Eggs Without Peeling a Damn Thing](https://lifehacker.com/how-to-make-hard-boiled-eggs-without-peeling-a-damn-thi-1848839332)
 - [Lifehacker] [Don’t Eat This E. Coli-Tainted Ground Beef, USDA Says](https://lifehacker.com/don-t-eat-this-e-coli-tainted-ground-beef-usda-says-1848842076)
-- [Lifehacker] [How to Finally Stop Buying the Wrong Lightbulbs](https://lifehacker.com/how-to-finally-stop-buying-the-wrong-lightbulbs-1848842555)
-- [Lifehacker] [How to Sign Up for the &#39;Overwatch 2&#39; Beta](https://lifehacker.com/how-to-sign-up-for-the-overwatch-2-beta-1848842005)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
