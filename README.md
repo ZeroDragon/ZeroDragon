@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MiuJS: a framework for building HTML applications packed with the minimum necessary functionality](https://dev.to/mast1ff/miujs-a-framework-for-building-html-applications-packed-with-the-minimum-necessary-functionality-2ca6)
+- [Dev.to/JS] [Vuetify Error: You cannot call &quot;get&quot; on a collection with no paths.](https://dev.to/mrpaulishaili/vuetify-error-you-cannot-call-get-on-a-collection-with-no-paths-5a66)
+- [Dev.to/JS] [6 Different Ways To Clone An Array In JavaScript 📑](https://dev.to/6km/6-different-ways-to-clone-an-array-in-javascript-95k)
 - [Dev.to/JS] [Node Express REST Api tutorial](https://dev.to/rtagliaviaz/node-express-rest-api-tutorial-1l4g)
 - [Dev.to/JS] [I want to ask ?](https://dev.to/amansingh/i-want-to-ask--1jl7)
 - [Dev.to/JS] [Rules of React&#39;s useEffect](https://dev.to/coderpad/rules-of-reacts-useeffect-423c)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Connecting to Firestore - Link-Sharing Site Part 3](https://dev.to/adamjhawley/connecting-to-firestore-link-sharing-site-part-3-378f)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
-- [Dev.to/JS] [Let&#39;s learn, build and sell an API](https://dev.to/itsrakesh/lets-learn-build-and-sell-an-api-32h0)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2022](https://lifehacker.com/whats-new-on-paramount-in-may-2022-1848843976)
-- [Dev.to/JS] [Visit my website](https://dev.to/tanmaytiwaricyber/visit-my-website-1j6d)
-- [Dev.to/JS] [Using KotlinJS and NPM to create a Discord Bot - Discord Bot Series &lpar;Part 2&rpar;](https://dev.to/kevinschildhorn/using-kotlinjs-and-npm-to-create-a-discord-bot-discord-bot-series-part-2-1n6e)
 - [Lifehacker] [The Formula for Making a Perfect Veggie Sandwich](https://lifehacker.com/the-formula-for-making-a-perfect-veggie-sandwich-1848843734)
 - [Lifehacker] [5 of the Most Intense Nicolas Cage Performances](https://lifehacker.com/5-of-the-most-intense-nicolas-cage-performances-1848843193)
 - [Lifehacker] [Your Dog&#39;s White Fur Can Be Even Whiter](https://lifehacker.com/your-dogs-white-fur-can-be-even-whiter-1848842959)
