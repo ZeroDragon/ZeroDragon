@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do you Prototype before coding?](https://dev.to/efraimjer/do-you-prototype-before-coding-24l8)
+- [Dev.to/JS] [Open Source Adventures: Episode 44: Spooky Eyes in SolidJS](https://dev.to/taw/open-source-adventures-episode-44-spooky-eyes-in-solidjs-52ie)
+- [Dev.to/JS] [MANGAFLIX - COVER NETFLIX PAGE](https://dev.to/rsgamboa/mangaflix-cover-netflix-page-5gh6)
+- [Dev.to/JS] [🚧 What Would You Change About this Website?](https://dev.to/williammcgonagle/i-rebuilt-my-website-in-gatsby-but-do-you-like-it-1b69)
+- [Dev.to/JS] [Orientação a objetos baseada em protótipos](https://dev.to/urielsouza29/orientacao-a-objetos-baseada-em-prototipos-4fpl)
 - [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
 - [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Dev.to/JS] [Day 19 - 20 of 100 Days of Code: Dice Game App](https://dev.to/nkemdev/day20-of-100-days-of-code-4a39)
@@ -39,14 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Useful Tips for Web Dev - Part1](https://dev.to/atulbhattsystem32/useful-tips-for-web-dev-part1-5061)
 - [Dev.to/JS] [Day-75 Training At Ryaz](https://dev.to/mahin651/day-75-training-at-ryaz-4ilh)
 - [Lifehacker] [What&#39;s New on Prime Video in May 2022](https://lifehacker.com/whats-new-on-prime-video-in-may-2022-1848848337)
-- [Dev.to/JS] [Discuss time | Shop ideas](https://dev.to/maklut/discuss-time-3l88)
-- [Dev.to/JS] [FIRST PROJECT ✨](https://dev.to/abhimanyut0800/first-project-389h)
-- [Dev.to/JS] [Rendering](https://dev.to/benoah/rendering-5a3l)
 - [Lifehacker] [The Difference Between Frame Rate, Bitrate, and Video Resolution](https://lifehacker.com/the-difference-between-frame-rate-bitrate-and-video-r-1848848182)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Lifehacker] [This DIY Weed Killer Is Safe for Your Kids and Pets](https://lifehacker.com/this-diy-weed-killer-is-safe-for-your-kids-and-pets-1848846558)
-- [Dev.to/JS] [Building a Video Chat App with Next.js, 100ms, and TailwindCSS](https://dev.to/asayerio_techblog/building-a-video-chat-app-with-nextjs-100ms-and-tailwindcss-1oc)
-- [Dev.to/JS] [Build a Decentralized News Feed using Reactjs, TailwindCSS, Etherjs, IPFS &amp; Solidity](https://dev.to/olanetsoft/build-a-decentralized-news-feed-using-reactjs-tailwindcss-etherjs-ipfs-solidity-13jl)
 - [Lifehacker] [8 Ways to Exude More Confidence &lpar;Even When You&#39;re Not Feeling It&rpar;](https://lifehacker.com/8-ways-to-exude-more-confidence-even-when-youre-not-fe-1848843069)
 - [Lifehacker] [How to Not Embarrass Yourself When You Use Colons and Semicolons](https://lifehacker.com/how-to-use-a-semicolon-without-fucking-it-up-1848844770)
 - [Lifehacker] [10 Ways to Make Flying Coach Suck Less](https://lifehacker.com/10-ways-to-make-flying-coach-suck-less-1848844989)
