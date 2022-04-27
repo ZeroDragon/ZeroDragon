@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pure Function in Javascript](https://dev.to/dawroun/pure-function-in-javascript-1fo1)
+- [Dev.to/JS] [How to solve Next.js &#39;ChunkLoadError: Loading chunk node_modules_next_dist_client_dev_noop_js failed&#39; Error](https://dev.to/engineervinay/how-to-solve-nextjs-chunkloaderror-loading-chunk-nodemodulesnextdistclientdevnoopjs-failed-error-5e96)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;27-04-2022&rpar; - Mid-week special: Navigating the big tech mess](https://dev.to/mjgs/this-weeks-newsletter-is-out-27-04-2022-mid-week-special-navigating-the-big-tech-mess-24in)
+- [Dev.to/JS] [Ten Javascript projects with source code](https://dev.to/dumboprogrammer/ten-javascript-projects-for-learning-h02)
+- [Dev.to/JS] [OAuth popup ~ Practical Guide](https://dev.to/didof/oauth-popup-practical-guide-57l9)
 - [Dev.to/JS] [Color changer in javascript](https://dev.to/awsomebro/color-changer-in-javascript-4aoi)
 - [Dev.to/JS] [Top 7 best Algorithms to Improve your JavaScript Skills🚀 🚀](https://dev.to/ashishdonga/top-7-best-algorithms-to-improve-your-javascript-skills-2c2a)
 - [Dev.to/JS] [Type hints on pure .js files](https://dev.to/manutero/type-hints-on-pure-js-files-8ee)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Ultimate Guide 02: The DOM](https://dev.to/coderamrin/javascript-ultimate-guide-02-the-dom-3ho9)
 - [Dev.to/JS] [Learn the basics - What is Svelte?](https://dev.to/aryakris/learn-the-basics-what-is-svelte-16on)
 - [Dev.to/JS] [What are some useful functions of JavaScript, which you like to show?](https://dev.to/curiousdev/what-are-some-useful-functions-of-javascript-which-you-like-to-show-1ab0)
-- [Dev.to/JS] [Hero Section Component](https://dev.to/kumard3/hero-section-component-4oaf)
-- [Dev.to/JS] [Digital Visiting Card for developer&#39;s](https://dev.to/omkarh/digital-visiting-card-2a67)
-- [Dev.to/JS] [Improve Web Performance With Web Workers](https://dev.to/nikhiltatpati/improve-web-performance-with-web-workers-3jal)
-- [Dev.to/JS] [Next-Auth with Django, how can we do it? Email Based, and OAuth Both!](https://dev.to/developerbishwas/next-auth-with-django-how-can-we-do-it-email-based-and-oauth-both-2agc)
-- [Dev.to/JS] [Generating docs from OpenAPI Spec](https://dev.to/gwenshap/generating-docs-from-openapi-spec-4j3i)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
