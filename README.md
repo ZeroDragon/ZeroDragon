@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node Express REST Api tutorial](https://dev.to/rtagliaviaz/node-express-rest-api-tutorial-1l4g)
+- [Dev.to/JS] [I want to ask ?](https://dev.to/amansingh/i-want-to-ask--1jl7)
+- [Dev.to/JS] [Rules of React&#39;s useEffect](https://dev.to/coderpad/rules-of-reacts-useeffect-423c)
 - [Dev.to/JS] [Creating an English Pronunciation mini-game with Svelte!](https://dev.to/llxd/creating-an-english-pronunciation-mini-game-with-svelte-4c2l)
 - [Dev.to/JS] [VUEX in React](https://dev.to/air_choosy/vuex-in-react-48hc)
 - [Dev.to/JS] [Redux explicado de manera simple y sucinta para los desarrolladores de React](https://dev.to/khriztianmoreno/redux-explicado-de-manera-simple-y-sucinta-para-los-desarrolladores-de-react-2kl2)
@@ -37,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Visit my website](https://dev.to/tanmaytiwaricyber/visit-my-website-1j6d)
 - [Dev.to/JS] [Using KotlinJS and NPM to create a Discord Bot - Discord Bot Series &lpar;Part 2&rpar;](https://dev.to/kevinschildhorn/using-kotlinjs-and-npm-to-create-a-discord-bot-discord-bot-series-part-2-1n6e)
 - [Lifehacker] [The Formula for Making a Perfect Veggie Sandwich](https://lifehacker.com/the-formula-for-making-a-perfect-veggie-sandwich-1848843734)
-- [Dev.to/JS] [What are Observables in Angular11?](https://dev.to/deepachaurasia1/what-are-observables-in-angular11-4ojp)
 - [Lifehacker] [5 of the Most Intense Nicolas Cage Performances](https://lifehacker.com/5-of-the-most-intense-nicolas-cage-performances-1848843193)
-- [Dev.to/JS] [To TS or not to TS, that is NOT the question. Is it?](https://dev.to/joelbonetr/to-ts-or-not-to-ts-that-is-not-the-question-4g7p)
-- [Dev.to/JS] [Speed up your Vue app: The most unexpected and perhaps silliest way 🤪🚀](https://dev.to/thormeier/the-perhaps-silliest-and-most-unexpected-way-to-speed-up-your-vue-app-5geh)
 - [Lifehacker] [Your Dog&#39;s White Fur Can Be Even Whiter](https://lifehacker.com/your-dogs-white-fur-can-be-even-whiter-1848842959)
 - [Lifehacker] [How to Play Elden Ring in VR &lpar;Seriously&rpar;](https://lifehacker.com/how-to-play-elden-ring-in-vr-seriously-1848842785)
 - [Lifehacker] [What It Really Costs to Propose on a Jumbotron &lpar;and Better Ways to Spend That Money&rpar;](https://lifehacker.com/what-it-really-costs-to-propose-on-a-jumbotron-and-bet-1848842775)
