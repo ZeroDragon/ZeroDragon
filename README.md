@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 JavaScript Testing Mistakes to Avoid](https://dev.to/zposten/5-javascript-testing-mistakes-to-avoid-1pjl)
+- [Lifehacker] [You Can Fry an Egg in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
+- [Dev.to/JS] [Add a smart &#39;back to top&#39; button to your blog 👓🔝](https://dev.to/robole/add-a-smart-back-to-top-button-to-your-blog-ci7)
+- [Dev.to/JS] [What are the DXs you enjoy in the Vue Community?](https://dev.to/kachidk/what-are-the-dxs-you-enjoy-in-the-vue-community-538n)
 - [Dev.to/JS] [Beyond Javascript: 5 Programming Languages That Will Rewire Your Brain &lpar;Part 1/5: C&rpar;](https://dev.to/wesen/beyond-javascript-5-programming-languages-that-will-rewire-your-brain-part-15-c-2296)
-- [Lifehacker] [Why Now Is the Time to Reassess Your Streaming Service Needs](https://lifehacker.com/why-now-is-the-time-to-reassess-your-streaming-service-1848844490)
+- [Lifehacker] [Why Now Is the Time to Reassess Your Streaming Services](https://lifehacker.com/why-now-is-the-time-to-reassess-your-streaming-service-1848844490)
 - [Dev.to/JS] [How our team member Jakub helped improve the DX of new Nuxt 3 CLI!](https://dev.to/vue-storefront/how-our-team-member-jakub-helped-improve-the-dx-of-new-nuxt-3-cli-1efo)
 - [Dev.to/JS] [GraphQL Subscriptions: Why we use SSE/Fetch over Websockets](https://dev.to/wundergraph/graphql-subscriptions-why-we-use-ssefetch-over-websockets-4h3i)
 - [Dev.to/JS] [i18n.js Can reload after build?](https://dev.to/michael01055978/i18njs-can-reload-after-build-3lg9)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding RxJS use cases &lpar;part II&rpar;](https://dev.to/this-is-learning/understanding-rxjs-use-cases-part-ii-51ll)
 - [Dev.to/JS] [What is Rebass and How to provide theming to Rebass Components?](https://dev.to/hiteshtech/what-is-rebass-and-how-to-provide-theming-to-rebass-components-1h1j)
 - [Dev.to/JS] [object oriented programming in Javascript &lpar;part 4&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-4-2noi)
-- [Dev.to/JS] [Using JS Functions Properties in Real Life](https://dev.to/clickpesa/using-js-functions-properties-in-real-life-lcg)
-- [Dev.to/JS] [CSS shorthand properties](https://dev.to/ganeshpatil386386/css-shorthand-properties-2ca0)
-- [Dev.to/JS] [Someone please explain to me why this is not considered Insertion Sort](https://dev.to/henryong92/someone-please-explain-to-me-why-this-is-not-considered-insertion-sort-490a)
 - [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Access Banned Books If Your Local Library Sucks](https://lifehacker.com/how-to-access-banned-books-if-your-local-library-sucks-1848838280)
 - [Lifehacker] [How to Actually Stay Calm During an Argument](https://lifehacker.com/how-to-actually-stay-calm-during-an-argument-1848838046)
 - [Lifehacker] [How to Make Store-Bought Dinner Rolls Taste Good as Hell](https://lifehacker.com/how-to-make-store-bought-dinner-rolls-taste-good-as-hel-1848837828)
-- [Lifehacker] [How Many Movies Do You Need to See to Make a Theater Subscription Pay Off?](https://lifehacker.com/how-many-movies-do-you-need-to-see-to-make-a-theater-su-1848837747)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)
 - [Crazy Programmer] [Solve TypeError: only integer scalar arrays can be converted to a scalar index](https://www.thecrazyprogrammer.com/2022/04/only-integer-scalar-arrays-can-be-converted-to-a-scalar-index.html)<!-- TECH-POSTS:END -->
