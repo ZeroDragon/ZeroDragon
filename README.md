@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [8 Useful JavaScript Tips &amp; Tricks](https://dev.to/6km/8-useful-javascript-tips-tricks-44dc)
 - [Dev.to/JS] [Run RunJS on Fedora](https://dev.to/bukanspot/run-runjs-on-fedora-3p8j)
 - [Dev.to/JS] [React stream player](https://dev.to/devpenniel/react-stream-player-2bai)
 - [Dev.to/JS] [Day 19/100; 100 Days of Code](https://dev.to/xurgg/day-19100-100-days-of-code-33m9)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 19 - 20 of 100 Days of Code: Dice Game App](https://dev.to/nkemdev/day20-of-100-days-of-code-4a39)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
 - [Lifehacker] [How to Keep Your Meats From Flipping Around on the Skewer](https://lifehacker.com/how-to-keep-your-meats-from-flipping-around-on-the-skew-1848849185)
-- [Dev.to/JS] [How Angular Works, and Why You Should Be Using It.](https://dev.to/chadwinjdeysel/how-angular-works-and-why-you-should-be-using-it-1b93)
 - [Lifehacker] [Enough With Administrative Professionals Day](https://lifehacker.com/enough-with-administrative-professionals-day-1848849174)
 - [Lifehacker] [Please Don’t Stake Your 401&lpar;k&rpar; in Bitcoin](https://lifehacker.com/please-don-t-stake-your-401-k-in-bitcoin-1848848959)
 - [Lifehacker] [How Histrionic Personality Disorder Differs From Narcissistic Personality Disorder](https://lifehacker.com/how-histrionic-personality-disorder-differs-from-narcis-1848847780)
