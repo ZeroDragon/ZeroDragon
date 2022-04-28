@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Get Scammed By &#39;WhatsApp Support&#39;](https://lifehacker.com/dont-get-scammed-by-whatsapp-support-1848855075)
+- [Dev.to/JS] [How to build Phone Number-Based Authentication with React, Altogic and Twilio](https://dev.to/altogic/how-to-build-phone-number-based-authentication-with-react-altogic-and-twilio-26la)
+- [Lifehacker] [Clever Ways to Start a Conversation on a Dating App &lpar;That Aren’t Creepy, Cheesy, or Boring&rpar;](https://lifehacker.com/clever-ways-to-start-a-conversation-on-a-dating-app-th-1848854559)
+- [Dev.to/JS] [Fathym is now Generally Available](https://dev.to/richkurtzman/fathym-is-now-generally-available-2h8j)
+- [Dev.to/JS] [Learning React](https://dev.to/mnd/learning-react-17p2)
+- [Dev.to/JS] [My First Open Source Project](https://dev.to/vpgmackan/my-first-open-source-project-1p45)
+- [Lifehacker] [What Is Behavior Mirroring and When Should You Use It?](https://lifehacker.com/what-is-behavior-mirroring-and-when-should-you-use-it-1848849649)
 - [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
 - [Dev.to/JS] [Short-circuiting of logical operators and their return values](https://dev.to/oalbacha/short-circuiting-of-logical-operators-and-their-return-values-5n7)
 - [Dev.to/JS] [Making your datepicker easier to work with](https://dev.to/dgreene1/making-your-datepicker-easier-to-work-with-21n4)
@@ -33,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Best Roadmap to Become a Web Developer in 2022](https://dev.to/get_admired/the-best-roadmap-to-become-a-web-developer-in-2022-4jfp)
 - [Dev.to/JS] [Get started with Chakra-UI | React UI Framework](https://dev.to/thatanjan/get-started-with-chakra-ui-react-ui-framework-28bf)
 - [Dev.to/JS] [How to detect user browser using Javascript](https://dev.to/incoderweb/how-to-detect-user-browser-using-javascript-20g2)
-- [Dev.to/JS] [How the TypeScript Parameters Type Works](https://dev.to/smpnjn/how-the-typescript-parameters-type-works-12h4)
-- [Dev.to/JS] [From Working In A Tech Support Role To Becoming A Full-stack Developer](https://dev.to/this-is-learning/from-working-in-a-tech-support-role-to-becoming-a-full-stack-developer-2430)
-- [Dev.to/JS] [I made a Developer Quiz Game](https://dev.to/shabil_np/i-made-a-developer-quiz-game-2dml)
 - [Lifehacker] [Update Chrome Immediately to Patch These Security Vulnerabilities](https://lifehacker.com/update-chrome-immediately-to-patch-these-security-vulne-1848853708)
-- [Dev.to/JS] [Day-76 Training At Ryaz](https://dev.to/mahin651/day-76-training-at-ryaz-4bon)
 - [Lifehacker] [The Easiest Ways to Fix a Running Toilet](https://lifehacker.com/the-easiest-ways-to-fix-a-running-toilet-1848853435)
 - [Lifehacker] [When to See the Venus-Jupiter Conjunction This Weekend](https://lifehacker.com/when-to-see-the-venus-jupiter-conjunction-this-weekend-1848849774)
 - [Lifehacker] [10 of the Best Videos to Burn Off Your Kid&#39;s Energy](https://lifehacker.com/10-of-the-best-videos-to-burn-off-your-kids-energy-1848849647)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This DIY Weed Killer Is Safe for Your Kids and Pets](https://lifehacker.com/this-diy-weed-killer-is-safe-for-your-kids-and-pets-1848846558)
 - [Lifehacker] [8 Ways to Exude More Confidence &lpar;Even When You&#39;re Not Feeling It&rpar;](https://lifehacker.com/8-ways-to-exude-more-confidence-even-when-youre-not-fe-1848843069)
 - [Lifehacker] [How to Not Embarrass Yourself When You Use Colons and Semicolons](https://lifehacker.com/how-to-use-a-semicolon-without-fucking-it-up-1848844770)
-- [Lifehacker] [10 Ways to Make Flying Coach Suck Less](https://lifehacker.com/10-ways-to-make-flying-coach-suck-less-1848844989)
-- [Lifehacker] [You Can Fry an Egg in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
-- [Lifehacker] [Why Now Is the Time to Reassess Your Streaming Services](https://lifehacker.com/why-now-is-the-time-to-reassess-your-streaming-service-1848844490)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
