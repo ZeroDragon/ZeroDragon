@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How ‘Benign Neglect’ Can Actually Improve Your Garden](https://lifehacker.com/how-benign-neglect-can-actually-improve-your-garden-1848849703)
+- [Dev.to/JS] [How to configure ESLint, Prettier, Husky, Lint-staged into a React project with TypeScript and Tailwind CSS](https://dev.to/ixartz/how-to-configure-eslint-prettier-husky-lint-staged-into-a-react-project-with-typescript-and-tailwind-css-4jp8)
+- [Lifehacker] [Go Ahead, Get High on Your Wedding Day](https://lifehacker.com/go-ahead-get-high-on-your-wedding-day-1848836404)
+- [Dev.to/JS] [Learn the language &lpar;guess 🤔&rpar; that powers DEV.to](https://dev.to/thenerdydev/learn-the-language-that-powers-devto-3je4)
+- [Dev.to/JS] [From building to selling - EP 03](https://dev.to/twankrui/from-building-to-selling-ep-03-560p)
+- [Dev.to/JS] [JavaScript - Hoisting &lpar;1&rpar;](https://dev.to/mykyta0723/javascript-hoisting-4hag)
+- [Dev.to/JS] [What is the difference between Functional and Class Based Component and How to convert one another?](https://dev.to/akinkarayun/what-is-the-difference-between-functional-and-class-based-component-and-how-to-convert-one-another-4j0k)
 - [Dev.to/JS] [Cara Mudah Mengekstrak Array Ke Variabel Dengan Javascript](https://dev.to/arisca_abdullah/cara-mudah-mengekstrak-array-ke-variabel-dengan-javascript-20b4)
 - [Dev.to/JS] [Debounce your way through tough resource-intensive tasks in JS](https://dev.to/sobhandash/debounce-your-way-through-tough-resource-intensive-tasks-in-js-325e)
 - [Dev.to/JS] [D3js, CSS styles](https://dev.to/vilce/d3js-css-styles-3bj9)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unleash the power of bookmarklets](https://dev.to/amirhe/unleash-the-power-of-bookmarklets-4397)
 - [Dev.to/JS] [Software Business Company | WBC Software Lab | Karaikudi](https://dev.to/wbcsoftware_lab/software-business-company-wbc-software-lab-karaikudi-4fcm)
 - [Dev.to/JS] [Best stack to easily spin up multiple temporary envs as needed via a rest api?](https://dev.to/johnwoody/best-stack-to-easily-spin-up-multiple-temporary-envs-as-needed-via-a-rest-api-53p4)
-- [Dev.to/JS] [Vue State Management with Pinia - Pinia Crash Course](https://dev.to/insidewebdev/vue-state-management-with-pinia-pinia-crash-course-3b0f)
-- [Dev.to/JS] [Bagaimana memastikan agar kode javascript yang kamu tulis dapat berjalan di kebanyakan browser?](https://dev.to/ciptox99/bagaimana-memastikan-agar-kode-javascript-yang-kamu-tulis-dapat-berjalan-di-kebanyakan-browser-3nff)
-- [Dev.to/JS] [Debugging Tips: Javascrip2](https://dev.to/nash4253/debugging-tips-javascrip2-1k15)
-- [Dev.to/JS] [GitHub App and OAuth ~ Disjointed flow](https://dev.to/didof/github-app-and-oauth-disjointed-flow-5a2o)
-- [Dev.to/JS] [Planning React Native Mobile App Development? Know the Pros &amp; Cons](https://dev.to/suarezsara/planning-react-native-mobile-app-development-know-the-pros-cons-2d7e)
 - [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
 - [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Formula for Making a Perfect Veggie Sandwich](https://lifehacker.com/the-formula-for-making-a-perfect-veggie-sandwich-1848843734)
 - [Lifehacker] [5 of the Most Intense Nicolas Cage Performances](https://lifehacker.com/5-of-the-most-intense-nicolas-cage-performances-1848843193)
 - [Lifehacker] [Your Dog&#39;s White Fur Can Be Even Whiter](https://lifehacker.com/your-dogs-white-fur-can-be-even-whiter-1848842959)
-- [Lifehacker] [How to Play Elden Ring in VR &lpar;Seriously&rpar;](https://lifehacker.com/how-to-play-elden-ring-in-vr-seriously-1848842785)
-- [Lifehacker] [What It Really Costs to Propose on a Jumbotron &lpar;and Better Ways to Spend That Money&rpar;](https://lifehacker.com/what-it-really-costs-to-propose-on-a-jumbotron-and-bet-1848842775)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
