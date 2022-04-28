@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debugging Tips: Javascrip2](https://dev.to/nash4253/debugging-tips-javascrip2-1k15)
+- [Dev.to/JS] [GitHub App and OAuth ~ Disjointed flow](https://dev.to/didof/github-app-and-oauth-disjointed-flow-5a2o)
 - [Dev.to/JS] [Planning React Native Mobile App Development? Know the Pros &amp; Cons](https://dev.to/suarezsara/planning-react-native-mobile-app-development-know-the-pros-cons-2d7e)
 - [Dev.to/JS] [RevSkin Cream Canada - Natural Cream, Benefits, Price, Uses And Buy Cost?](https://dev.to/revskinca/revskin-cream-canada-natural-cream-benefits-price-uses-and-buy-cost-2e2c)
 - [Dev.to/JS] [My thoughts on the TypeScript debate](https://dev.to/tracygjg/my-thoughts-on-the-typescript-debate-1pmn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to store Encrypted Session Data in the Browser?](https://dev.to/harshalsuthar/how-to-store-encrypted-session-data-in-the-browser-3i2h)
 - [Dev.to/JS] [Polling/Autorefresh using Timer RxJS Operator](https://dev.to/pawankkumawat/pollingautorefresh-using-timer-rxjs-operator-2dc3)
 - [Dev.to/JS] [Learn to Code - BIG O NOTATION](https://dev.to/aryakris/learn-to-code-big-o-notation-21pf)
-- [Dev.to/JS] [8 Useful JavaScript Tips &amp; Tricks](https://dev.to/6km/8-useful-javascript-tips-tricks-44dc)
-- [Dev.to/JS] [Run RunJS on Fedora](https://dev.to/bukanspot/run-runjs-on-fedora-3p8j)
 - [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
 - [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
