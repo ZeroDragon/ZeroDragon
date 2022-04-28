@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Request to install project&#39;s specific VS Code extensions](https://dev.to/musixmatch/request-to-install-projects-specific-vs-code-extensions-6ki)
+- [Dev.to/JS] [Best source to learn Javascript for free in Arabic](https://dev.to/amrowael/best-source-to-learn-javascript-for-free-in-arabic-47ph)
+- [Lifehacker] [You Should Make This Two-Ingredient Cheesy Pasta Sauce](https://lifehacker.com/you-should-make-this-two-ingredient-cheesy-pasta-sauce-1848851512)
 - [Lifehacker] [How ‘Benign Neglect’ Can Actually Improve Your Garden](https://lifehacker.com/how-benign-neglect-can-actually-improve-your-garden-1848849703)
 - [Dev.to/JS] [How to configure ESLint, Prettier, Husky, Lint-staged into a React project with TypeScript and Tailwind CSS](https://dev.to/ixartz/how-to-configure-eslint-prettier-husky-lint-staged-into-a-react-project-with-typescript-and-tailwind-css-4jp8)
 - [Lifehacker] [Go Ahead, Get High on Your Wedding Day](https://lifehacker.com/go-ahead-get-high-on-your-wedding-day-1848836404)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [D3js, CSS styles](https://dev.to/vilce/d3js-css-styles-3bj9)
 - [Dev.to/JS] [Every developer should be aware of the following GitHub repositories.](https://dev.to/annoh_karlgusta/every-developer-should-be-aware-of-the-following-github-repositories-4hmg)
 - [Dev.to/JS] [Unleash the power of bookmarklets](https://dev.to/amirhe/unleash-the-power-of-bookmarklets-4397)
-- [Dev.to/JS] [Software Business Company | WBC Software Lab | Karaikudi](https://dev.to/wbcsoftware_lab/software-business-company-wbc-software-lab-karaikudi-4fcm)
-- [Dev.to/JS] [Best stack to easily spin up multiple temporary envs as needed via a rest api?](https://dev.to/johnwoody/best-stack-to-easily-spin-up-multiple-temporary-envs-as-needed-via-a-rest-api-53p4)
 - [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
 - [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2022](https://lifehacker.com/whats-new-on-paramount-in-may-2022-1848843976)
 - [Lifehacker] [The Formula for Making a Perfect Veggie Sandwich](https://lifehacker.com/the-formula-for-making-a-perfect-veggie-sandwich-1848843734)
 - [Lifehacker] [5 of the Most Intense Nicolas Cage Performances](https://lifehacker.com/5-of-the-most-intense-nicolas-cage-performances-1848843193)
-- [Lifehacker] [Your Dog&#39;s White Fur Can Be Even Whiter](https://lifehacker.com/your-dogs-white-fur-can-be-even-whiter-1848842959)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
