@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Software Business Company | WBC Software Lab | Karaikudi](https://dev.to/wbcsoftware_lab/software-business-company-wbc-software-lab-karaikudi-4fcm)
+- [Dev.to/JS] [Best stack to easily spin up multiple temporary envs as needed via a rest api?](https://dev.to/johnwoody/best-stack-to-easily-spin-up-multiple-temporary-envs-as-needed-via-a-rest-api-53p4)
 - [Dev.to/JS] [Vue State Management with Pinia - Pinia Crash Course](https://dev.to/insidewebdev/vue-state-management-with-pinia-pinia-crash-course-3b0f)
 - [Dev.to/JS] [Bagaimana memastikan agar kode javascript yang kamu tulis dapat berjalan di kebanyakan browser?](https://dev.to/ciptox99/bagaimana-memastikan-agar-kode-javascript-yang-kamu-tulis-dapat-berjalan-di-kebanyakan-browser-3nff)
 - [Dev.to/JS] [Debugging Tips: Javascrip2](https://dev.to/nash4253/debugging-tips-javascrip2-1k15)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redux in React &amp; React Native](https://dev.to/royged/redux-in-react-react-native-3hha)
 - [Dev.to/JS] [RevSkin Cream Reviews Updated 2022: Scam or Legit! Is It Worth Money Or Buy In Canada?](https://dev.to/revskincreamget/revskin-cream-reviews-updated-2022-scam-or-legit-is-it-worth-money-or-buy-in-canada-mem)
 - [Dev.to/JS] [JavaScriptda &#39;getter&#39; va &#39;setter&#39;](https://dev.to/davronnormuminov/javascriptda-getter-va-setter-842)
-- [Dev.to/JS] [Getting Started With ES6](https://dev.to/thecoollearner/getting-started-with-es6-15j0)
-- [Dev.to/JS] [How to store Encrypted Session Data in the Browser?](https://dev.to/harshalsuthar/how-to-store-encrypted-session-data-in-the-browser-3i2h)
 - [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
 - [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
