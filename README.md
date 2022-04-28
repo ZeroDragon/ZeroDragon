@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Request to install project&#39;s specific VS Code extensions](https://dev.to/musixmatch/request-to-install-projects-specific-vs-code-extensions-6ki)
+- [Lifehacker] [When to See the Venus-Jupiter Conjunction This Weekend](https://lifehacker.com/when-to-see-the-venus-jupiter-conjunction-this-weekend-1848849774)
+- [Dev.to/JS] [Paracetamol.js💊| #111: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-111-explica-este-codigo-javascript-56fc)
+- [Dev.to/JS] [Usando selectores correctos en Angular Testing Library](https://dev.to/danyparedes/usando-selectores-correctos-en-angular-testing-library-3p56)
+- [Dev.to/JS] [Sharing VS Code extensions across teams](https://dev.to/musixmatch/sharing-vs-code-extensions-across-teams-22ij)
+- [Lifehacker] [10 of the Best Videos to Burn Off Your Kid&#39;s Energy](https://lifehacker.com/10-of-the-best-videos-to-burn-off-your-kids-energy-1848849647)
+- [Dev.to/JS] [Making your datepicker easier to work with](https://dev.to/dgreene1/making-your-datepicker-easier-to-work-with-47pf)
+- [Dev.to/JS] [State in React js](https://dev.to/shrey802/state-in-react-js-4pk4)
 - [Dev.to/JS] [Best source to learn Javascript for free in Arabic](https://dev.to/amrowael/best-source-to-learn-javascript-for-free-in-arabic-47ph)
 - [Lifehacker] [You Should Make This Two-Ingredient Cheesy Pasta Sauce](https://lifehacker.com/you-should-make-this-two-ingredient-cheesy-pasta-sauce-1848851512)
 - [Lifehacker] [How ‘Benign Neglect’ Can Actually Improve Your Garden](https://lifehacker.com/how-benign-neglect-can-actually-improve-your-garden-1848849703)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript - Hoisting &lpar;1&rpar;](https://dev.to/mykyta0723/javascript-hoisting-4hag)
 - [Dev.to/JS] [What is the difference between Functional and Class Based Component and How to convert one another?](https://dev.to/akinkarayun/what-is-the-difference-between-functional-and-class-based-component-and-how-to-convert-one-another-4j0k)
 - [Dev.to/JS] [Cara Mudah Mengekstrak Array Ke Variabel Dengan Javascript](https://dev.to/arisca_abdullah/cara-mudah-mengekstrak-array-ke-variabel-dengan-javascript-20b4)
-- [Dev.to/JS] [Debounce your way through tough resource-intensive tasks in JS](https://dev.to/sobhandash/debounce-your-way-through-tough-resource-intensive-tasks-in-js-325e)
-- [Dev.to/JS] [D3js, CSS styles](https://dev.to/vilce/d3js-css-styles-3bj9)
-- [Dev.to/JS] [Every developer should be aware of the following GitHub repositories.](https://dev.to/annoh_karlgusta/every-developer-should-be-aware-of-the-following-github-repositories-4hmg)
-- [Dev.to/JS] [Unleash the power of bookmarklets](https://dev.to/amirhe/unleash-the-power-of-bookmarklets-4397)
 - [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
 - [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Clean Up Every Shard of Broken Glass](https://lifehacker.com/the-best-ways-to-clean-up-broken-glass-1848844475)
 - [Lifehacker] [You Can Finally Sync Your Android to Your Windows PC](https://lifehacker.com/you-can-finally-sync-your-android-to-your-windows-pc-1848805207)
 - [Lifehacker] [What&#39;s New on Paramount+ in May 2022](https://lifehacker.com/whats-new-on-paramount-in-may-2022-1848843976)
-- [Lifehacker] [The Formula for Making a Perfect Veggie Sandwich](https://lifehacker.com/the-formula-for-making-a-perfect-veggie-sandwich-1848843734)
-- [Lifehacker] [5 of the Most Intense Nicolas Cage Performances](https://lifehacker.com/5-of-the-most-intense-nicolas-cage-performances-1848843193)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
