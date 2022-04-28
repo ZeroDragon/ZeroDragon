@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Run RunJS on Fedora](https://dev.to/bukanspot/run-runjs-on-fedora-3p8j)
+- [Dev.to/JS] [React stream player](https://dev.to/devpenniel/react-stream-player-2bai)
+- [Dev.to/JS] [Day 19/100; 100 Days of Code](https://dev.to/xurgg/day-19100-100-days-of-code-33m9)
 - [Dev.to/JS] [React Tricks Miniseries 2: How to create custom hooks in 1 minute](https://dev.to/urielbitton/react-tricks-miniseries-2-how-to-create-custom-hooks-in-1-minute-4jph)
 - [Dev.to/JS] [React &amp; Redux](https://dev.to/kubilayckmk/react-redux-3562)
 - [Dev.to/JS] [Do you Prototype before coding?](https://dev.to/efraimjer/do-you-prototype-before-coding-24l8)
@@ -37,11 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Your Meats From Flipping Around on the Skewer](https://lifehacker.com/how-to-keep-your-meats-from-flipping-around-on-the-skew-1848849185)
 - [Dev.to/JS] [How Angular Works, and Why You Should Be Using It.](https://dev.to/chadwinjdeysel/how-angular-works-and-why-you-should-be-using-it-1b93)
 - [Lifehacker] [Enough With Administrative Professionals Day](https://lifehacker.com/enough-with-administrative-professionals-day-1848849174)
-- [Dev.to/JS] [Build Restaurant Website with Next.js and Cosmic](https://dev.to/naira_gezhoyan/build-restaurant-website-with-nextjs-and-cosmic-3olb)
 - [Lifehacker] [Please Don’t Stake Your 401&lpar;k&rpar; in Bitcoin](https://lifehacker.com/please-don-t-stake-your-401-k-in-bitcoin-1848848959)
-- [Dev.to/JS] [Paracetamol.js💊| #110: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-110-explica-este-codigo-javascript-38np)
 - [Lifehacker] [How Histrionic Personality Disorder Differs From Narcissistic Personality Disorder](https://lifehacker.com/how-histrionic-personality-disorder-differs-from-narcis-1848847780)
-- [Dev.to/JS] [How the TypeScript Parameters Type Works](https://dev.to/smpnjn/how-the-typescript-parameters-type-works-49p5)
 - [Lifehacker] [You Can Finally Fix Your Own Apple Devices &lpar;With Apple’s Help&rpar;](https://lifehacker.com/you-can-finally-fix-your-own-apple-devices-with-apple-1848847963)
 - [Lifehacker] [What&#39;s New on Prime Video in May 2022](https://lifehacker.com/whats-new-on-prime-video-in-may-2022-1848848337)
 - [Lifehacker] [The Difference Between Frame Rate, Bitrate, and Video Resolution](https://lifehacker.com/the-difference-between-frame-rate-bitrate-and-video-r-1848848182)
