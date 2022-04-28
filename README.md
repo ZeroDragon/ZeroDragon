@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Planning React Native Mobile App Development? Know the Pros &amp; Cons](https://dev.to/suarezsara/planning-react-native-mobile-app-development-know-the-pros-cons-2d7e)
+- [Dev.to/JS] [RevSkin Cream Canada - Natural Cream, Benefits, Price, Uses And Buy Cost?](https://dev.to/revskinca/revskin-cream-canada-natural-cream-benefits-price-uses-and-buy-cost-2e2c)
+- [Dev.to/JS] [My thoughts on the TypeScript debate](https://dev.to/tracygjg/my-thoughts-on-the-typescript-debate-1pmn)
+- [Dev.to/JS] [Redux in React &amp; React Native](https://dev.to/royged/redux-in-react-react-native-3hha)
+- [Dev.to/JS] [RevSkin Cream Reviews Updated 2022: Scam or Legit! Is It Worth Money Or Buy In Canada?](https://dev.to/revskincreamget/revskin-cream-reviews-updated-2022-scam-or-legit-is-it-worth-money-or-buy-in-canada-mem)
 - [Dev.to/JS] [JavaScriptda &#39;getter&#39; va &#39;setter&#39;](https://dev.to/davronnormuminov/javascriptda-getter-va-setter-842)
 - [Dev.to/JS] [Getting Started With ES6](https://dev.to/thecoollearner/getting-started-with-es6-15j0)
 - [Dev.to/JS] [How to store Encrypted Session Data in the Browser?](https://dev.to/harshalsuthar/how-to-store-encrypted-session-data-in-the-browser-3i2h)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn to Code - BIG O NOTATION](https://dev.to/aryakris/learn-to-code-big-o-notation-21pf)
 - [Dev.to/JS] [8 Useful JavaScript Tips &amp; Tricks](https://dev.to/6km/8-useful-javascript-tips-tricks-44dc)
 - [Dev.to/JS] [Run RunJS on Fedora](https://dev.to/bukanspot/run-runjs-on-fedora-3p8j)
-- [Dev.to/JS] [React stream player](https://dev.to/devpenniel/react-stream-player-2bai)
-- [Dev.to/JS] [Day 19/100; 100 Days of Code](https://dev.to/xurgg/day-19100-100-days-of-code-33m9)
-- [Dev.to/JS] [React Tricks Miniseries 2: How to create custom hooks in 1 minute](https://dev.to/urielbitton/react-tricks-miniseries-2-how-to-create-custom-hooks-in-1-minute-4jph)
-- [Dev.to/JS] [React &amp; Redux](https://dev.to/kubilayckmk/react-redux-3562)
-- [Dev.to/JS] [Do you Prototype before coding?](https://dev.to/efraimjer/do-you-prototype-before-coding-24l8)
 - [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
 - [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
