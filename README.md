@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to store Encrypted Session Data in the Browser?](https://dev.to/harshalsuthar/how-to-store-encrypted-session-data-in-the-browser-3i2h)
+- [Dev.to/JS] [Polling/Autorefresh using Timer RxJS Operator](https://dev.to/pawankkumawat/pollingautorefresh-using-timer-rxjs-operator-2dc3)
 - [Dev.to/JS] [Learn to Code - BIG O NOTATION](https://dev.to/aryakris/learn-to-code-big-o-notation-21pf)
 - [Dev.to/JS] [8 Useful JavaScript Tips &amp; Tricks](https://dev.to/6km/8-useful-javascript-tips-tricks-44dc)
 - [Dev.to/JS] [Run RunJS on Fedora](https://dev.to/bukanspot/run-runjs-on-fedora-3p8j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Do you Prototype before coding?](https://dev.to/efraimjer/do-you-prototype-before-coding-24l8)
 - [Dev.to/JS] [Open Source Adventures: Episode 44: Spooky Eyes in SolidJS](https://dev.to/taw/open-source-adventures-episode-44-spooky-eyes-in-solidjs-52ie)
 - [Dev.to/JS] [MANGAFLIX - COVER NETFLIX PAGE](https://dev.to/rsgamboa/mangaflix-cover-netflix-page-5gh6)
-- [Dev.to/JS] [🚧 What Would You Change About this Website?](https://dev.to/williammcgonagle/i-rebuilt-my-website-in-gatsby-but-do-you-like-it-1b69)
-- [Dev.to/JS] [Orientação a objetos baseada em protótipos](https://dev.to/urielsouza29/orientacao-a-objetos-baseada-em-prototipos-4fpl)
 - [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
 - [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
