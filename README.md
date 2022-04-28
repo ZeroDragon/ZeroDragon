@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Create a Universal Streaming Watchlist With Plex](https://lifehacker.com/how-to-create-a-universal-streaming-watchlist-with-plex-1848855290)
+- [Dev.to/JS] [How to Use a Javascript Reporting Tool with Ruby on Rails](https://dev.to/chelseadevereaux/how-to-use-a-javascript-reporting-tool-with-ruby-on-rails-5fae)
 - [Lifehacker] [Don&#39;t Get Scammed By &#39;WhatsApp Support&#39;](https://lifehacker.com/dont-get-scammed-by-whatsapp-support-1848855075)
 - [Dev.to/JS] [How to build Phone Number-Based Authentication with React, Altogic and Twilio](https://dev.to/altogic/how-to-build-phone-number-based-authentication-with-react-altogic-and-twilio-26la)
 - [Lifehacker] [Clever Ways to Start a Conversation on a Dating App &lpar;That Aren’t Creepy, Cheesy, or Boring&rpar;](https://lifehacker.com/clever-ways-to-start-a-conversation-on-a-dating-app-th-1848854559)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Attract Butterflies to Your Garden and Yard](https://lifehacker.com/how-to-attract-butterflies-to-your-garden-and-yard-1848854130)
 - [Dev.to/JS] [The Best Roadmap to Become a Web Developer in 2022](https://dev.to/get_admired/the-best-roadmap-to-become-a-web-developer-in-2022-4jfp)
 - [Dev.to/JS] [Get started with Chakra-UI | React UI Framework](https://dev.to/thatanjan/get-started-with-chakra-ui-react-ui-framework-28bf)
-- [Dev.to/JS] [How to detect user browser using Javascript](https://dev.to/incoderweb/how-to-detect-user-browser-using-javascript-20g2)
 - [Lifehacker] [Update Chrome Immediately to Patch These Security Vulnerabilities](https://lifehacker.com/update-chrome-immediately-to-patch-these-security-vulne-1848853708)
 - [Lifehacker] [The Easiest Ways to Fix a Running Toilet](https://lifehacker.com/the-easiest-ways-to-fix-a-running-toilet-1848853435)
 - [Lifehacker] [When to See the Venus-Jupiter Conjunction This Weekend](https://lifehacker.com/when-to-see-the-venus-jupiter-conjunction-this-weekend-1848849774)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Lifehacker] [This DIY Weed Killer Is Safe for Your Kids and Pets](https://lifehacker.com/this-diy-weed-killer-is-safe-for-your-kids-and-pets-1848846558)
 - [Lifehacker] [8 Ways to Exude More Confidence &lpar;Even When You&#39;re Not Feeling It&rpar;](https://lifehacker.com/8-ways-to-exude-more-confidence-even-when-youre-not-fe-1848843069)
-- [Lifehacker] [How to Not Embarrass Yourself When You Use Colons and Semicolons](https://lifehacker.com/how-to-use-a-semicolon-without-fucking-it-up-1848844770)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
