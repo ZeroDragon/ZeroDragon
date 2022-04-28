@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
+- [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
 - [Lifehacker] [How to Create a Universal Streaming Watchlist With Plex](https://lifehacker.com/how-to-create-a-universal-streaming-watchlist-with-plex-1848855290)
 - [Dev.to/JS] [How to Use a Javascript Reporting Tool with Ruby on Rails](https://dev.to/chelseadevereaux/how-to-use-a-javascript-reporting-tool-with-ruby-on-rails-5fae)
 - [Lifehacker] [Don&#39;t Get Scammed By &#39;WhatsApp Support&#39;](https://lifehacker.com/dont-get-scammed-by-whatsapp-support-1848855075)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Prime Video in May 2022](https://lifehacker.com/whats-new-on-prime-video-in-may-2022-1848848337)
 - [Lifehacker] [The Difference Between Frame Rate, Bitrate, and Video Resolution](https://lifehacker.com/the-difference-between-frame-rate-bitrate-and-video-r-1848848182)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
-- [Lifehacker] [This DIY Weed Killer Is Safe for Your Kids and Pets](https://lifehacker.com/this-diy-weed-killer-is-safe-for-your-kids-and-pets-1848846558)
-- [Lifehacker] [8 Ways to Exude More Confidence &lpar;Even When You&#39;re Not Feeling It&rpar;](https://lifehacker.com/8-ways-to-exude-more-confidence-even-when-youre-not-fe-1848843069)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
