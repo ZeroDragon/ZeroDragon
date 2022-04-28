@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cara Mudah Mengekstrak Array Ke Variabel Dengan Javascript](https://dev.to/arisca_abdullah/cara-mudah-mengekstrak-array-ke-variabel-dengan-javascript-20b4)
+- [Dev.to/JS] [Debounce your way through tough resource-intensive tasks in JS](https://dev.to/sobhandash/debounce-your-way-through-tough-resource-intensive-tasks-in-js-325e)
+- [Dev.to/JS] [D3js, CSS styles](https://dev.to/vilce/d3js-css-styles-3bj9)
+- [Dev.to/JS] [Every developer should be aware of the following GitHub repositories.](https://dev.to/annoh_karlgusta/every-developer-should-be-aware-of-the-following-github-repositories-4hmg)
+- [Dev.to/JS] [Unleash the power of bookmarklets](https://dev.to/amirhe/unleash-the-power-of-bookmarklets-4397)
 - [Dev.to/JS] [Software Business Company | WBC Software Lab | Karaikudi](https://dev.to/wbcsoftware_lab/software-business-company-wbc-software-lab-karaikudi-4fcm)
 - [Dev.to/JS] [Best stack to easily spin up multiple temporary envs as needed via a rest api?](https://dev.to/johnwoody/best-stack-to-easily-spin-up-multiple-temporary-envs-as-needed-via-a-rest-api-53p4)
 - [Dev.to/JS] [Vue State Management with Pinia - Pinia Crash Course](https://dev.to/insidewebdev/vue-state-management-with-pinia-pinia-crash-course-3b0f)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Debugging Tips: Javascrip2](https://dev.to/nash4253/debugging-tips-javascrip2-1k15)
 - [Dev.to/JS] [GitHub App and OAuth ~ Disjointed flow](https://dev.to/didof/github-app-and-oauth-disjointed-flow-5a2o)
 - [Dev.to/JS] [Planning React Native Mobile App Development? Know the Pros &amp; Cons](https://dev.to/suarezsara/planning-react-native-mobile-app-development-know-the-pros-cons-2d7e)
-- [Dev.to/JS] [RevSkin Cream Canada - Natural Cream, Benefits, Price, Uses And Buy Cost?](https://dev.to/revskinca/revskin-cream-canada-natural-cream-benefits-price-uses-and-buy-cost-2e2c)
-- [Dev.to/JS] [My thoughts on the TypeScript debate](https://dev.to/tracygjg/my-thoughts-on-the-typescript-debate-1pmn)
-- [Dev.to/JS] [Redux in React &amp; React Native](https://dev.to/royged/redux-in-react-react-native-3hha)
-- [Dev.to/JS] [RevSkin Cream Reviews Updated 2022: Scam or Legit! Is It Worth Money Or Buy In Canada?](https://dev.to/revskincreamget/revskin-cream-reviews-updated-2022-scam-or-legit-is-it-worth-money-or-buy-in-canada-mem)
-- [Dev.to/JS] [JavaScriptda &#39;getter&#39; va &#39;setter&#39;](https://dev.to/davronnormuminov/javascriptda-getter-va-setter-842)
 - [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
 - [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
