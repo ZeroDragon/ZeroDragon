@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
 - [Dev.to/JS] [Short-circuiting of logical operators and their return values](https://dev.to/oalbacha/short-circuiting-of-logical-operators-and-their-return-values-5n7)
 - [Dev.to/JS] [Making your datepicker easier to work with](https://dev.to/dgreene1/making-your-datepicker-easier-to-work-with-21n4)
 - [Dev.to/JS] [React Portals for ArcGIS JSAPI Popups](https://dev.to/odoenet/react-portals-for-arcgis-jsapi-popups-bnf)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Ways to Make Flying Coach Suck Less](https://lifehacker.com/10-ways-to-make-flying-coach-suck-less-1848844989)
 - [Lifehacker] [You Can Fry an Egg in Your Air Fryer](https://lifehacker.com/you-can-fry-an-egg-in-your-air-fryer-1848845216)
 - [Lifehacker] [Why Now Is the Time to Reassess Your Streaming Services](https://lifehacker.com/why-now-is-the-time-to-reassess-your-streaming-service-1848844490)
-- [Lifehacker] [The Centuries-Old History of Setting Yourself on Fire As Protest](https://lifehacker.com/the-centuries-old-history-of-setting-yourself-on-fire-a-1848844827)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
 - [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
 
