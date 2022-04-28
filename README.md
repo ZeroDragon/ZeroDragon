@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Tricks Miniseries 2: How to create custom hooks in 1 minute](https://dev.to/urielbitton/react-tricks-miniseries-2-how-to-create-custom-hooks-in-1-minute-4jph)
 - [Dev.to/JS] [React &amp; Redux](https://dev.to/kubilayckmk/react-redux-3562)
 - [Dev.to/JS] [Do you Prototype before coding?](https://dev.to/efraimjer/do-you-prototype-before-coding-24l8)
 - [Dev.to/JS] [Open Source Adventures: Episode 44: Spooky Eyes in SolidJS](https://dev.to/taw/open-source-adventures-episode-44-spooky-eyes-in-solidjs-52ie)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Histrionic Personality Disorder Differs From Narcissistic Personality Disorder](https://lifehacker.com/how-histrionic-personality-disorder-differs-from-narcis-1848847780)
 - [Dev.to/JS] [How the TypeScript Parameters Type Works](https://dev.to/smpnjn/how-the-typescript-parameters-type-works-49p5)
 - [Lifehacker] [You Can Finally Fix Your Own Apple Devices &lpar;With Apple’s Help&rpar;](https://lifehacker.com/you-can-finally-fix-your-own-apple-devices-with-apple-1848847963)
-- [Dev.to/JS] [Useful Tips for Web Dev - Part1](https://dev.to/atulbhattsystem32/useful-tips-for-web-dev-part1-5061)
 - [Lifehacker] [What&#39;s New on Prime Video in May 2022](https://lifehacker.com/whats-new-on-prime-video-in-may-2022-1848848337)
 - [Lifehacker] [The Difference Between Frame Rate, Bitrate, and Video Resolution](https://lifehacker.com/the-difference-between-frame-rate-bitrate-and-video-r-1848848182)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
