@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SVG generative mountain ridge dividers](https://dev.to/accudio/svg-generative-mountain-ridge-dividers-2j4d)
+- [Dev.to/JS] [sendGrid not delivering emails from a node application hosted on vercel.](https://dev.to/magyztech/sendgrid-not-delivering-emails-from-a-node-application-hosted-on-vercel-5030)
+- [Dev.to/JS] [JavaScript News and Updates of April 2022](https://dev.to/plazarev/javascript-news-and-updates-of-april-2022-5gle)
+- [Dev.to/JS] [Ikaria Lean Belly Juice Reviews: Read All Shocking Results?](https://dev.to/ikarialeanbelly_info/ikaria-lean-belly-juice-reviews-read-all-shocking-results-egl)
 - [Dev.to/JS] [Song search application built using Typesense.](https://dev.to/aviyel/song-search-application-built-using-typesense-19l7)
 - [Dev.to/JS] [Understand Asynchronous Tasks with Coffee Shop Example ☕](https://dev.to/koladev/understand-asynchronous-tasks-with-coffee-shop-example-4hc2)
 - [Dev.to/JS] [Fullstack ecommerce site using Nextjs, Supabase, prisma and chatwoot.](https://dev.to/aviyel/fullstack-ecommerce-site-using-nextjs-supabase-prisma-and-chatwoot-2j8e)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Like/Dislike system with Mojolicious](https://dev.to/arslonga/likedislike-system-with-mojolicious-42ph)
 - [Dev.to/JS] [Array.reverse&lpar;&rpar; - for reversing an array](https://dev.to/dillionmegida/arrayreverse-for-reversing-an-array-3cpe)
 - [Dev.to/JS] [SonoVive - Ear Supplement, Ingredients, Results &amp; Where To Buy?](https://dev.to/sonoviveinfo/sonovive-ear-supplement-ingredients-results-where-to-buy-67n)
-- [Dev.to/JS] [JavaScript Refactoring Combo: Simplify duplicated function call inside if-else statement](https://dev.to/lgrammel/javascript-refactoring-combo-simplify-duplicated-function-call-inside-if-else-statement-21gl)
-- [Dev.to/JS] [A better way to work with URLs using vueUse useFetch&lpar;&rpar; + useUrl&lpar;&rpar;](https://dev.to/rainxh11/a-better-way-to-work-with-urls-using-vueuse-usefetch-useurl-4309)
-- [Dev.to/JS] [Frontend Internship Interview Experience](https://dev.to/ashutoshdash/frontend-internship-interview-experience-54al)
-- [Dev.to/JS] [Awesome SQLite](https://dev.to/sqlsite/awesome-sqlite-571e)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
 - [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
