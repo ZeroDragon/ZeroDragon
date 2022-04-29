@@ -23,10 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a blog with React and RestDB](https://dev.to/asayerio_techblog/building-a-blog-with-react-and-restdb-39l)
+- [Dev.to/JS] [Build an eBay Web Scraper: How to Extract Product Data Using Javascript](https://dev.to/zoltan/build-an-ebay-web-scraper-how-to-extract-product-data-using-javascript-47k3)
+- [Dev.to/JS] [5 Higher Order Functions untuk Memanipulasi Array](https://dev.to/mohamadadithya/5-higher-order-functions-untuk-memanipulasi-array-3of0)
+- [Dev.to/JS] [EL RESUMEN DE MI HISTORIA](https://dev.to/opoinffrancisco/el-resumen-de-mi-historia-3h79)
 - [Dev.to/JS] [Put data from RTK Query to State Slice in Redux Toolkit](https://dev.to/agiksetiawan/put-data-from-rtk-query-on-to-state-slice-in-redux-toolkit-1p1m)
 - [Dev.to/JS] [Your first Turborepo](https://dev.to/siddharthvenkatesh/your-first-turborepo-1lo)
 - [Dev.to/JS] [JavaScript: Arrays &lpar;for absolute beginners&rpar;](https://dev.to/simeg/javascript-arrays-for-absolute-beginners-31h9)
-- [Dev.to/JS] [would you place the logic inside the handler or reducer?](https://dev.to/eyec/would-you-place-the-logic-inside-the-handler-or-reducer-47jm)
 - [Dev.to/JS] [Top 3 Coding Tutorials of the Week](https://dev.to/codecast/top-3-tutorials-of-the-week-9nd)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Dev.to/JS] [Check if an Object Contains all Keys in Array in Javascript](https://dev.to/smpnjn/check-if-an-object-contains-all-keys-in-array-in-javascript-3b0k)
@@ -36,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Math Object](https://dev.to/mr_abbos/javascript-math-object-6o4)
 - [Lifehacker] [How to Fix &lpar;or Prevent&rpar; Blackouts on Your Nintendo Switch](https://lifehacker.com/how-to-fix-or-prevent-blackouts-on-your-nintendo-swit-1848859631)
 - [Dev.to/JS] [Common Node8 mistakes in Lambda](https://dev.to/serverless_inc/common-node8-mistakes-in-lambda-199p)
-- [Dev.to/JS] [Job Search Blues](https://dev.to/mikacodez/job-search-blues-3cln)
-- [Dev.to/JS] [Microservice Architecture - Asynchronous Messaging](https://dev.to/evanhameed99/microservice-architecture-asynchronous-messaging-1bk1)
-- [Dev.to/JS] [Creating a new portfolio with Svelte!](https://dev.to/llxd/creating-a-new-portfolio-with-svelte-2g28)
 - [Lifehacker] [Why You Should Pre-Sprout Your Seeds](https://lifehacker.com/why-you-should-pre-sprout-your-seeds-1848859050)
 - [Lifehacker] [5 Movies Best Watched in Total Ignorance](https://lifehacker.com/5-movies-best-watched-in-total-ignorance-1848859792)
 - [Lifehacker] [Which ePaper Tablet Is Best for Digital Notes?](https://lifehacker.com/which-epaper-tablet-is-best-for-digital-notes-1848859314)
