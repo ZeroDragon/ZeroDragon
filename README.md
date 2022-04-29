@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A better way to work with URLs using vueUse useFetch&lpar;&rpar; + useUrl&lpar;&rpar;](https://dev.to/rainxh11/a-better-way-to-work-with-urls-using-vueuse-usefetch-useurl-4309)
+- [Dev.to/JS] [Frontend Internship Interview Experience](https://dev.to/ashutoshdash/frontend-internship-interview-experience-54al)
 - [Dev.to/JS] [Awesome SQLite](https://dev.to/sqlsite/awesome-sqlite-571e)
 - [Dev.to/JS] [Load data on Select2 | Jquery](https://dev.to/krixnaas/load-data-on-select2-jquery-1fgi)
 - [Dev.to/JS] [Apa perbedaan diantara ECMAScript dengan Javascript ?](https://dev.to/ciptox99/apa-perbedaan-diantara-ecmascript-dengan-javascript--14h0)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Get Scammed By &#39;WhatsApp Support&#39;](https://lifehacker.com/dont-get-scammed-by-whatsapp-support-1848855075)
 - [Dev.to/JS] [How to build Phone Number-Based Authentication with React, Altogic and Twilio](https://dev.to/altogic/how-to-build-phone-number-based-authentication-with-react-altogic-and-twilio-26la)
 - [Lifehacker] [Clever Ways to Start a Conversation on a Dating App &lpar;That Aren’t Creepy, Cheesy, or Boring&rpar;](https://lifehacker.com/clever-ways-to-start-a-conversation-on-a-dating-app-th-1848854559)
-- [Dev.to/JS] [Fathym is now Generally Available](https://dev.to/richkurtzman/fathym-is-now-generally-available-2h8j)
-- [Dev.to/JS] [Learning React](https://dev.to/mnd/learning-react-17p2)
 - [Lifehacker] [What Is Behavior Mirroring and When Should You Use It?](https://lifehacker.com/what-is-behavior-mirroring-and-when-should-you-use-it-1848849649)
 - [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
 - [Lifehacker] [How to Attract Butterflies to Your Garden and Yard](https://lifehacker.com/how-to-attract-butterflies-to-your-garden-and-yard-1848854130)
