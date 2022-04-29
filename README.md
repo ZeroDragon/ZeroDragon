@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React, Vue and Svelte : Comparing Select binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-select-binding-4cha)
+- [Dev.to/JS] [Password show/hide button using vanilla JS](https://dev.to/devrohit0/password-showhide-button-using-vanilla-js-27ai)
+- [Dev.to/JS] [Fetching data in Redux using RTK Query](https://dev.to/asayerio_techblog/fetching-data-in-redux-using-rtk-query-2b15)
+- [Dev.to/JS] [What is Context API in React and how to use it?](https://dev.to/ashutoshdash/what-is-context-api-in-react-and-how-to-use-it-56mp)
+- [Dev.to/JS] [KendoReact UI Library for ReactJS: What You Need to Know](https://dev.to/chineduimoh/kendoreact-ui-library-for-reactjs-what-you-need-to-know-253n)
 - [Dev.to/JS] [Top six reasons Why Vue.js for UI web development is an ideal choice in 2022](https://dev.to/binalprajapati123/top-six-reasons-why-vuejs-for-ui-web-development-is-an-ideal-choice-in-2022-57pe)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Dev.to/JS] [Which Java Certificate is the best?](https://dev.to/vahidpourmohamad/which-java-certificate-is-the-best-4g6n)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript News and Updates of April 2022](https://dev.to/plazarev/javascript-news-and-updates-of-april-2022-5gle)
 - [Dev.to/JS] [Ikaria Lean Belly Juice Reviews: Read All Shocking Results?](https://dev.to/ikarialeanbelly_info/ikaria-lean-belly-juice-reviews-read-all-shocking-results-egl)
 - [Dev.to/JS] [Song search application built using Typesense.](https://dev.to/aviyel/song-search-application-built-using-typesense-19l7)
-- [Dev.to/JS] [Understand Asynchronous Tasks with Coffee Shop Example ☕](https://dev.to/koladev/understand-asynchronous-tasks-with-coffee-shop-example-4hc2)
-- [Dev.to/JS] [Fullstack ecommerce site using Nextjs, Supabase, prisma and chatwoot.](https://dev.to/aviyel/fullstack-ecommerce-site-using-nextjs-supabase-prisma-and-chatwoot-2j8e)
-- [Dev.to/JS] [Automating pull request creation from one branch to another using javascript, bitbucket pipelines and bitbucket api](https://dev.to/bmsteven/automating-pull-request-creation-from-one-branch-to-another-using-javascript-bitbucket-pipelines-and-bitbucket-api-7l0)
-- [Dev.to/JS] [https://www.facebook.com/TheAppleKetoGummiesAustralia/](https://dev.to/wortwoolket/httpswwwfacebookcomtheappleketogummiesaustralia-2jp)
-- [Dev.to/JS] [Like/Dislike system with Mojolicious](https://dev.to/arslonga/likedislike-system-with-mojolicious-42ph)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
 - [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
