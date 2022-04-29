@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Filtering Display Cards](https://dev.to/tmchuynh/filtering-display-cards-590f)
+- [Dev.to/JS] [Criando uma API de páginas estáticas básica com Deno 🦕](https://dev.to/xandecodes/criando-uma-api-de-paginas-estaticas-basica-com-deno-t-rex-5h8o)
 - [Dev.to/JS] [Writing a Vite plugin to add Critical CSS no-JS fallbacks for users with JavaScript disabled or unavailable](https://dev.to/philw_/using-vite-with-critical-css-in-a-way-that-supports-users-with-javascript-disabled-or-unavailable-57cd)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making your datepicker easier to work with](https://dev.to/dgreene1/making-your-datepicker-easier-to-work-with-21n4)
 - [Dev.to/JS] [React Portals for ArcGIS JSAPI Popups](https://dev.to/odoenet/react-portals-for-arcgis-jsapi-popups-bnf)
 - [Dev.to/JS] [Temporal/Joda concept breakdown](https://dev.to/dgreene1/temporaljoda-concept-breakdown-51gk)
-- [Dev.to/JS] [JavaScript has a problem with decimals](https://dev.to/nicozerpa/javascript-has-a-problem-with-decimals-5dj8)
 - [Lifehacker] [How to Attract Butterflies to Your Garden and Yard](https://lifehacker.com/how-to-attract-butterflies-to-your-garden-and-yard-1848854130)
-- [Dev.to/JS] [The Best Roadmap to Become a Web Developer in 2022](https://dev.to/get_admired/the-best-roadmap-to-become-a-web-developer-in-2022-4jfp)
 - [Lifehacker] [Update Chrome Immediately to Patch These Security Vulnerabilities](https://lifehacker.com/update-chrome-immediately-to-patch-these-security-vulne-1848853708)
 - [Lifehacker] [The Easiest Ways to Fix a Running Toilet](https://lifehacker.com/the-easiest-ways-to-fix-a-running-toilet-1848853435)
 - [Lifehacker] [When to See the Venus-Jupiter Conjunction This Weekend](https://lifehacker.com/when-to-see-the-venus-jupiter-conjunction-this-weekend-1848849774)
