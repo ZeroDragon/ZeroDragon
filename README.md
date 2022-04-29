@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Awesome SQLite](https://dev.to/sqlsite/awesome-sqlite-571e)
 - [Dev.to/JS] [Load data on Select2 | Jquery](https://dev.to/krixnaas/load-data-on-select2-jquery-1fgi)
 - [Dev.to/JS] [Apa perbedaan diantara ECMAScript dengan Javascript ?](https://dev.to/ciptox99/apa-perbedaan-diantara-ecmascript-dengan-javascript--14h0)
 - [Dev.to/JS] [JavaScript - Hoisting &lpar;2&rpar;](https://dev.to/mykyta0723/javascript-hoisting-2-4676)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Clever Ways to Start a Conversation on a Dating App &lpar;That Aren’t Creepy, Cheesy, or Boring&rpar;](https://lifehacker.com/clever-ways-to-start-a-conversation-on-a-dating-app-th-1848854559)
 - [Dev.to/JS] [Fathym is now Generally Available](https://dev.to/richkurtzman/fathym-is-now-generally-available-2h8j)
 - [Dev.to/JS] [Learning React](https://dev.to/mnd/learning-react-17p2)
-- [Dev.to/JS] [My First Open Source Project](https://dev.to/vpgmackan/my-first-open-source-project-1p45)
 - [Lifehacker] [What Is Behavior Mirroring and When Should You Use It?](https://lifehacker.com/what-is-behavior-mirroring-and-when-should-you-use-it-1848849649)
 - [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
 - [Lifehacker] [How to Attract Butterflies to Your Garden and Yard](https://lifehacker.com/how-to-attract-butterflies-to-your-garden-and-yard-1848854130)
