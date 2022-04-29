@@ -23,12 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [5 Movies Best Watched in Total Ignorance](https://lifehacker.com/5-movies-best-watched-in-total-ignorance-1848859792)
+- [Lifehacker] [Which ePaper Tablet Is Best for Digital Notes?](https://lifehacker.com/which-epaper-tablet-is-best-for-digital-notes-1848859314)
+- [Dev.to/JS] [Cypress Workflows in Warp](https://dev.to/cypress/cypress-workflows-in-warp-oil)
+- [Dev.to/JS] [RPCE is moving Vite support to @crxjs/vite-plugin](https://dev.to/jacksteamdev/rpce-is-moving-to-crxjsvite-plugin-2lmi)
 - [Dev.to/JS] [Spotlight effect with JS and CSS](https://dev.to/finiam/spotlight-effect-with-js-and-css-an6)
+- [Lifehacker] [The Least Popular States to Visit in the U.S. &lpar;and Why You Should Travel There&rpar;](https://lifehacker.com/the-least-popular-states-to-visit-in-the-u-s-and-why-1848859294)
 - [Dev.to/JS] [The Complete Guide to HTML Frameworks and How They Can Help You Build Websites Faster](https://dev.to/developer_noon/the-complete-guide-to-html-frameworks-and-how-they-can-help-you-build-websites-faster-em6)
 - [Dev.to/JS] [Simple, beginner steps... RegEx and strings.](https://dev.to/aprilskrine/simple-beginner-steps-regex-and-strings-3epc)
 - [Dev.to/JS] [Self-Hosted discord bot panel/daashboard.](https://dev.to/jareer/self-hosted-discord-bot-paneldaashboard-1ohi)
 - [Lifehacker] [16 Movies That Prove Social Media Was Horrifying Even Before Elon Musk Bought Twitter](https://lifehacker.com/16-movies-that-prove-social-media-was-horrifying-even-b-1848853135)
 - [Dev.to/JS] [Made online code compiler](https://dev.to/nisabmohd/made-online-code-compiler-1d2)
+- [Dev.to/JS] [How do you tackle writer&#39;s block?](https://dev.to/surajondev/how-do-you-tackle-writers-block-3al8)
 - [Lifehacker] [How to Sign In to Your Windows PC Without a Password](https://lifehacker.com/how-to-sign-in-to-your-windows-pc-without-a-password-1848858181)
 - [Dev.to/JS] [Converting Web Traffic to Permanent Users with Seamless Authentication](https://dev.to/prajwalkulkarni/converting-web-traffic-to-permanent-users-with-seamless-authentication-3bdj)
 - [Lifehacker] [Use This App to Track Changes or Updates on Any Website](https://lifehacker.com/use-this-app-to-track-changes-or-updates-on-any-website-1848856696)
@@ -37,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hi. I need some good ideas about this problem with TG Passport Bot](https://dev.to/lastjonoff/hi-i-need-some-good-ideas-about-this-problem-with-tg-passport-bot-2lb5)
 - [Dev.to/JS] [TUTORIALS FOR GEEKS](https://dev.to/theanupmaurya/tutorials-for-geeks-154n)
 - [Dev.to/JS] [Microservices with express.js and rabbitmq](https://dev.to/omardiaa48/microservices-with-expressjs-and-rabbitmq-34dk)
-- [Dev.to/JS] [Menggunakan Builder Class Untuk Membuat Object](https://dev.to/arisca_abdullah/menggunakan-builder-class-untuk-membuat-object-1j90)
 - [Lifehacker] [This Is the Only Right Way to Serve a Mom Breakfast in Bed on Mother’s Day](https://lifehacker.com/this-is-the-only-right-way-to-serve-a-mom-breakfast-in-1848855194)
-- [Dev.to/JS] [Automating pull request creation from one branch to another using javascript, bitbucket pipelines and bitbucket api](https://dev.to/clickpesa/automating-pull-request-creation-from-one-branch-to-another-using-javascript-bitbucket-pipelines-and-bitbucket-api-3ijh)
-- [Dev.to/JS] [Save your web camera recording locally in your browser](https://dev.to/eneaslari/save-your-web-camera-recording-locally-in-your-browser-10kj)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make This Two-Ingredient Cheesy Pasta Sauce](https://lifehacker.com/you-should-make-this-two-ingredient-cheesy-pasta-sauce-1848851512)
 - [Lifehacker] [How ‘Benign Neglect’ Can Actually Improve Your Garden](https://lifehacker.com/how-benign-neglect-can-actually-improve-your-garden-1848849703)
 - [Lifehacker] [Go Ahead, Get High on Your Wedding Day](https://lifehacker.com/go-ahead-get-high-on-your-wedding-day-1848836404)
-- [Lifehacker] [Squabble Lets You Beat Other People at Wordle in Real Time](https://lifehacker.com/squabble-lets-you-beat-other-people-at-wordle-in-real-t-1848849342)
-- [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
-- [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
