@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
+- [Dev.to/JS] [JavaScript Math Object](https://dev.to/mr_abbos/javascript-math-object-6o4)
 - [Lifehacker] [How to Fix &lpar;or Prevent&rpar; Blackouts on Your Nintendo Switch](https://lifehacker.com/how-to-fix-or-prevent-blackouts-on-your-nintendo-swit-1848859631)
 - [Dev.to/JS] [Common Node8 mistakes in Lambda](https://dev.to/serverless_inc/common-node8-mistakes-in-lambda-199p)
 - [Dev.to/JS] [Job Search Blues](https://dev.to/mikacodez/job-search-blues-3cln)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Least Popular States to Visit in the U.S. &lpar;and Why You Should Travel There&rpar;](https://lifehacker.com/the-least-popular-states-to-visit-in-the-u-s-and-why-1848859294)
 - [Dev.to/JS] [The Complete Guide to HTML Frameworks and How They Can Help You Build Websites Faster](https://dev.to/developer_noon/the-complete-guide-to-html-frameworks-and-how-they-can-help-you-build-websites-faster-em6)
 - [Dev.to/JS] [Simple, beginner steps... RegEx and strings.](https://dev.to/aprilskrine/simple-beginner-steps-regex-and-strings-3epc)
-- [Dev.to/JS] [Self-Hosted discord bot panel/daashboard.](https://dev.to/jareer/self-hosted-discord-bot-paneldaashboard-1ohi)
 - [Lifehacker] [16 Movies That Prove Social Media Was Horrifying Even Before Elon Musk Bought Twitter](https://lifehacker.com/16-movies-that-prove-social-media-was-horrifying-even-b-1848853135)
 - [Lifehacker] [How to Sign In to Your Windows PC Without a Password](https://lifehacker.com/how-to-sign-in-to-your-windows-pc-without-a-password-1848858181)
 - [Lifehacker] [Use This App to Track Changes or Updates on Any Website](https://lifehacker.com/use-this-app-to-track-changes-or-updates-on-any-website-1848856696)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Fix a Running Toilet](https://lifehacker.com/the-easiest-ways-to-fix-a-running-toilet-1848853435)
 - [Lifehacker] [When to See the Venus-Jupiter Conjunction This Weekend](https://lifehacker.com/when-to-see-the-venus-jupiter-conjunction-this-weekend-1848849774)
 - [Lifehacker] [10 of the Best Videos to Burn Off Your Kid&#39;s Energy](https://lifehacker.com/10-of-the-best-videos-to-burn-off-your-kids-energy-1848849647)
-- [Lifehacker] [You Should Make This Two-Ingredient Cheesy Pasta Sauce](https://lifehacker.com/you-should-make-this-two-ingredient-cheesy-pasta-sauce-1848851512)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
