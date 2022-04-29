@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [https://www.facebook.com/TheAppleKetoGummiesAustralia/](https://dev.to/wortwoolket/httpswwwfacebookcomtheappleketogummiesaustralia-2jp)
+- [Dev.to/JS] [Like/Dislike system with Mojolicious](https://dev.to/arslonga/likedislike-system-with-mojolicious-42ph)
+- [Dev.to/JS] [Array.reverse&lpar;&rpar; - for reversing an array](https://dev.to/dillionmegida/arrayreverse-for-reversing-an-array-3cpe)
+- [Dev.to/JS] [SonoVive - Ear Supplement, Ingredients, Results &amp; Where To Buy?](https://dev.to/sonoviveinfo/sonovive-ear-supplement-ingredients-results-where-to-buy-67n)
+- [Dev.to/JS] [JavaScript Refactoring Combo: Simplify duplicated function call inside if-else statement](https://dev.to/lgrammel/javascript-refactoring-combo-simplify-duplicated-function-call-inside-if-else-statement-21gl)
 - [Dev.to/JS] [A better way to work with URLs using vueUse useFetch&lpar;&rpar; + useUrl&lpar;&rpar;](https://dev.to/rainxh11/a-better-way-to-work-with-urls-using-vueuse-usefetch-useurl-4309)
 - [Dev.to/JS] [Frontend Internship Interview Experience](https://dev.to/ashutoshdash/frontend-internship-interview-experience-54al)
 - [Dev.to/JS] [Awesome SQLite](https://dev.to/sqlsite/awesome-sqlite-571e)
@@ -30,16 +35,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Apa perbedaan diantara ECMAScript dengan Javascript ?](https://dev.to/ciptox99/apa-perbedaan-diantara-ecmascript-dengan-javascript--14h0)
 - [Dev.to/JS] [JavaScript - Hoisting &lpar;2&rpar;](https://dev.to/mykyta0723/javascript-hoisting-2-4676)
 - [Dev.to/JS] [Adding URL Search Parameters to Imports!](https://dev.to/lioness100/adding-url-search-parameters-to-imports-1kd8)
-- [Dev.to/JS] [Filtering Display Cards](https://dev.to/tmchuynh/filtering-display-cards-590f)
-- [Dev.to/JS] [Criando uma API de páginas estáticas básica com Deno 🦕](https://dev.to/xandecodes/criando-uma-api-de-paginas-estaticas-basica-com-deno-t-rex-5h8o)
-- [Dev.to/JS] [Writing a Vite plugin to add lazyloaded critical CSS fallbacks for users with JavaScript disabled or unavailable](https://dev.to/philw_/using-vite-with-critical-css-in-a-way-that-supports-users-with-javascript-disabled-or-unavailable-57cd)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
 - [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
 - [Lifehacker] [How to Create a Universal Streaming Watchlist With Plex](https://lifehacker.com/how-to-create-a-universal-streaming-watchlist-with-plex-1848855290)
-- [Dev.to/JS] [How to Use a Javascript Reporting Tool with Ruby on Rails](https://dev.to/chelseadevereaux/how-to-use-a-javascript-reporting-tool-with-ruby-on-rails-5fae)
 - [Lifehacker] [Don&#39;t Get Scammed By &#39;WhatsApp Support&#39;](https://lifehacker.com/dont-get-scammed-by-whatsapp-support-1848855075)
-- [Dev.to/JS] [How to build Phone Number-Based Authentication with React, Altogic and Twilio](https://dev.to/altogic/how-to-build-phone-number-based-authentication-with-react-altogic-and-twilio-26la)
 - [Lifehacker] [Clever Ways to Start a Conversation on a Dating App &lpar;That Aren’t Creepy, Cheesy, or Boring&rpar;](https://lifehacker.com/clever-ways-to-start-a-conversation-on-a-dating-app-th-1848854559)
 - [Lifehacker] [What Is Behavior Mirroring and When Should You Use It?](https://lifehacker.com/what-is-behavior-mirroring-and-when-should-you-use-it-1848849649)
 - [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
