@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top six reasons Why Vue.js for UI web development is an ideal choice in 2022](https://dev.to/binalprajapati123/top-six-reasons-why-vuejs-for-ui-web-development-is-an-ideal-choice-in-2022-57pe)
+- [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
+- [Dev.to/JS] [Which Java Certificate is the best?](https://dev.to/vahidpourmohamad/which-java-certificate-is-the-best-4g6n)
 - [Dev.to/JS] [SVG generative mountain ridge dividers](https://dev.to/accudio/svg-generative-mountain-ridge-dividers-2j4d)
 - [Dev.to/JS] [sendGrid not delivering emails from a node application hosted on vercel.](https://dev.to/magyztech/sendgrid-not-delivering-emails-from-a-node-application-hosted-on-vercel-5030)
 - [Dev.to/JS] [JavaScript News and Updates of April 2022](https://dev.to/plazarev/javascript-news-and-updates-of-april-2022-5gle)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automating pull request creation from one branch to another using javascript, bitbucket pipelines and bitbucket api](https://dev.to/bmsteven/automating-pull-request-creation-from-one-branch-to-another-using-javascript-bitbucket-pipelines-and-bitbucket-api-7l0)
 - [Dev.to/JS] [https://www.facebook.com/TheAppleKetoGummiesAustralia/](https://dev.to/wortwoolket/httpswwwfacebookcomtheappleketogummiesaustralia-2jp)
 - [Dev.to/JS] [Like/Dislike system with Mojolicious](https://dev.to/arslonga/likedislike-system-with-mojolicious-42ph)
-- [Dev.to/JS] [Array.reverse&lpar;&rpar; - for reversing an array](https://dev.to/dillionmegida/arrayreverse-for-reversing-an-array-3cpe)
-- [Dev.to/JS] [SonoVive - Ear Supplement, Ingredients, Results &amp; Where To Buy?](https://dev.to/sonoviveinfo/sonovive-ear-supplement-ingredients-results-where-to-buy-67n)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
 - [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Fix Your Own Apple Devices &lpar;With Apple’s Help&rpar;](https://lifehacker.com/you-can-finally-fix-your-own-apple-devices-with-apple-1848847963)
 - [Lifehacker] [What&#39;s New on Prime Video in May 2022](https://lifehacker.com/whats-new-on-prime-video-in-may-2022-1848848337)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
-- [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)
-- [Crazy Programmer] [Solve TypeError: expected string or bytes-like object in Python](https://www.thecrazyprogrammer.com/2022/04/expected-string-or-bytes-like-object.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
 ---
 
