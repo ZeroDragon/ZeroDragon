@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Control Yourself Better](https://lifehacker.com/you-can-control-yourself-better-1848855315)
+- [Dev.to/JS] [Hi. I need some good ideas about this problem with TG Passport Bot](https://dev.to/lastjonoff/hi-i-need-some-good-ideas-about-this-problem-with-tg-passport-bot-2lb5)
+- [Dev.to/JS] [TUTORIALS FOR GEEKS](https://dev.to/theanupmaurya/tutorials-for-geeks-154n)
 - [Dev.to/JS] [Microservices with express.js and rabbitmq](https://dev.to/omardiaa48/microservices-with-expressjs-and-rabbitmq-34dk)
 - [Dev.to/JS] [Menggunakan Builder Class Untuk Membuat Object](https://dev.to/arisca_abdullah/menggunakan-builder-class-untuk-membuat-object-1j90)
 - [Lifehacker] [This Is the Only Right Way to Serve a Mom Breakfast in Bed on Mother’s Day](https://lifehacker.com/this-is-the-only-right-way-to-serve-a-mom-breakfast-in-1848855194)
@@ -34,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fetching data in Redux using RTK Query](https://dev.to/asayerio_techblog/fetching-data-in-redux-using-rtk-query-2b15)
 - [Dev.to/JS] [What is Context API in React and how to use it?](https://dev.to/ashutoshdash/what-is-context-api-in-react-and-how-to-use-it-56mp)
 - [Dev.to/JS] [KendoReact UI Library for ReactJS: What You Need to Know](https://dev.to/chineduimoh/kendoreact-ui-library-for-reactjs-what-you-need-to-know-253n)
-- [Dev.to/JS] [Top six reasons Why Vue.js for UI web development is an ideal choice in 2022](https://dev.to/binalprajapati123/top-six-reasons-why-vuejs-for-ui-web-development-is-an-ideal-choice-in-2022-57pe)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
-- [Dev.to/JS] [Which Java Certificate is the best?](https://dev.to/vahidpourmohamad/which-java-certificate-is-the-best-4g6n)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
 - [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Enough With Administrative Professionals Day](https://lifehacker.com/enough-with-administrative-professionals-day-1848849174)
 - [Lifehacker] [Please Don’t Stake Your 401&lpar;k&rpar; in Bitcoin](https://lifehacker.com/please-don-t-stake-your-401-k-in-bitcoin-1848848959)
 - [Lifehacker] [How Histrionic Personality Disorder Differs From Narcissistic Personality Disorder](https://lifehacker.com/how-histrionic-personality-disorder-differs-from-narcis-1848847780)
-- [Lifehacker] [You Can Finally Fix Your Own Apple Devices &lpar;With Apple’s Help&rpar;](https://lifehacker.com/you-can-finally-fix-your-own-apple-devices-with-apple-1848847963)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
