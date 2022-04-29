@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix &lpar;or Prevent&rpar; Blackouts on Your Nintendo Switch](https://lifehacker.com/how-to-fix-or-prevent-blackouts-on-your-nintendo-swit-1848859631)
+- [Dev.to/JS] [Common Node8 mistakes in Lambda](https://dev.to/serverless_inc/common-node8-mistakes-in-lambda-199p)
+- [Dev.to/JS] [Job Search Blues](https://dev.to/mikacodez/job-search-blues-3cln)
+- [Dev.to/JS] [Microservice Architecture - Asynchronous Messaging](https://dev.to/evanhameed99/microservice-architecture-asynchronous-messaging-1bk1)
+- [Dev.to/JS] [Creating a new portfolio with Svelte!](https://dev.to/llxd/creating-a-new-portfolio-with-svelte-2g28)
+- [Dev.to/JS] [Agency Hero Section](https://dev.to/kumard3/agency-hero-section-nab)
+- [Lifehacker] [Why You Should Pre-Sprout Your Seeds](https://lifehacker.com/why-you-should-pre-sprout-your-seeds-1848859050)
+- [Dev.to/JS] [Day-77 Training At Ryaz](https://dev.to/mahin651/day-77-training-at-ryaz-35d2)
 - [Lifehacker] [5 Movies Best Watched in Total Ignorance](https://lifehacker.com/5-movies-best-watched-in-total-ignorance-1848859792)
 - [Lifehacker] [Which ePaper Tablet Is Best for Digital Notes?](https://lifehacker.com/which-epaper-tablet-is-best-for-digital-notes-1848859314)
 - [Dev.to/JS] [Cypress Workflows in Warp](https://dev.to/cypress/cypress-workflows-in-warp-oil)
@@ -33,16 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple, beginner steps... RegEx and strings.](https://dev.to/aprilskrine/simple-beginner-steps-regex-and-strings-3epc)
 - [Dev.to/JS] [Self-Hosted discord bot panel/daashboard.](https://dev.to/jareer/self-hosted-discord-bot-paneldaashboard-1ohi)
 - [Lifehacker] [16 Movies That Prove Social Media Was Horrifying Even Before Elon Musk Bought Twitter](https://lifehacker.com/16-movies-that-prove-social-media-was-horrifying-even-b-1848853135)
-- [Dev.to/JS] [Made online code compiler](https://dev.to/nisabmohd/made-online-code-compiler-1d2)
-- [Dev.to/JS] [How do you tackle writer&#39;s block?](https://dev.to/surajondev/how-do-you-tackle-writers-block-3al8)
 - [Lifehacker] [How to Sign In to Your Windows PC Without a Password](https://lifehacker.com/how-to-sign-in-to-your-windows-pc-without-a-password-1848858181)
-- [Dev.to/JS] [Converting Web Traffic to Permanent Users with Seamless Authentication](https://dev.to/prajwalkulkarni/converting-web-traffic-to-permanent-users-with-seamless-authentication-3bdj)
 - [Lifehacker] [Use This App to Track Changes or Updates on Any Website](https://lifehacker.com/use-this-app-to-track-changes-or-updates-on-any-website-1848856696)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Does &#39;This is Miyamoto&#39; Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848856733)
 - [Lifehacker] [You Can Control Yourself Better](https://lifehacker.com/you-can-control-yourself-better-1848855315)
-- [Dev.to/JS] [Hi. I need some good ideas about this problem with TG Passport Bot](https://dev.to/lastjonoff/hi-i-need-some-good-ideas-about-this-problem-with-tg-passport-bot-2lb5)
-- [Dev.to/JS] [TUTORIALS FOR GEEKS](https://dev.to/theanupmaurya/tutorials-for-geeks-154n)
-- [Dev.to/JS] [Microservices with express.js and rabbitmq](https://dev.to/omardiaa48/microservices-with-expressjs-and-rabbitmq-34dk)
 - [Lifehacker] [This Is the Only Right Way to Serve a Mom Breakfast in Bed on Mother’s Day](https://lifehacker.com/this-is-the-only-right-way-to-serve-a-mom-breakfast-in-1848855194)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the Venus-Jupiter Conjunction This Weekend](https://lifehacker.com/when-to-see-the-venus-jupiter-conjunction-this-weekend-1848849774)
 - [Lifehacker] [10 of the Best Videos to Burn Off Your Kid&#39;s Energy](https://lifehacker.com/10-of-the-best-videos-to-burn-off-your-kids-energy-1848849647)
 - [Lifehacker] [You Should Make This Two-Ingredient Cheesy Pasta Sauce](https://lifehacker.com/you-should-make-this-two-ingredient-cheesy-pasta-sauce-1848851512)
-- [Lifehacker] [How ‘Benign Neglect’ Can Actually Improve Your Garden](https://lifehacker.com/how-benign-neglect-can-actually-improve-your-garden-1848849703)
-- [Lifehacker] [Go Ahead, Get High on Your Wedding Day](https://lifehacker.com/go-ahead-get-high-on-your-wedding-day-1848836404)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
