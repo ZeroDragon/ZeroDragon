@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Local Storage for Remembering User Visits](https://dev.to/riapacheco/using-local-storage-for-remembering-user-visits-coe)
+- [Dev.to/JS] [Amplication &amp; React: Saving Tasks to the Backend](https://dev.to/amplication/amplication-react-saving-tasks-to-the-backend-203f)
 - [Dev.to/JS] [Building a blog with React and RestDB](https://dev.to/asayerio_techblog/building-a-blog-with-react-and-restdb-39l)
 - [Dev.to/JS] [Build an eBay Web Scraper: How to Extract Product Data Using Javascript](https://dev.to/zoltan/build-an-ebay-web-scraper-how-to-extract-product-data-using-javascript-47k3)
 - [Dev.to/JS] [5 Higher Order Functions untuk Memanipulasi Array](https://dev.to/mohamadadithya/5-higher-order-functions-untuk-memanipulasi-array-3of0)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Stop using meaningless test values!](https://dev.to/simeg/stop-using-meaningless-test-values-2gg4)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
-- [Dev.to/JS] [JavaScript Math Object](https://dev.to/mr_abbos/javascript-math-object-6o4)
 - [Lifehacker] [How to Fix &lpar;or Prevent&rpar; Blackouts on Your Nintendo Switch](https://lifehacker.com/how-to-fix-or-prevent-blackouts-on-your-nintendo-swit-1848859631)
-- [Dev.to/JS] [Common Node8 mistakes in Lambda](https://dev.to/serverless_inc/common-node8-mistakes-in-lambda-199p)
 - [Lifehacker] [Why You Should Pre-Sprout Your Seeds](https://lifehacker.com/why-you-should-pre-sprout-your-seeds-1848859050)
 - [Lifehacker] [5 Movies Best Watched in Total Ignorance](https://lifehacker.com/5-movies-best-watched-in-total-ignorance-1848859792)
 - [Lifehacker] [Which ePaper Tablet Is Best for Digital Notes?](https://lifehacker.com/which-epaper-tablet-is-best-for-digital-notes-1848859314)
@@ -49,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Does &#39;This is Miyamoto&#39; Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848856733)
 - [Lifehacker] [You Can Control Yourself Better](https://lifehacker.com/you-can-control-yourself-better-1848855315)
 - [Lifehacker] [This Is the Only Right Way to Serve a Mom Breakfast in Bed on Mother’s Day](https://lifehacker.com/this-is-the-only-right-way-to-serve-a-mom-breakfast-in-1848855194)
-- [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
 - [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
@@ -60,9 +59,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
 - [Lifehacker] [How to Attract Butterflies to Your Garden and Yard](https://lifehacker.com/how-to-attract-butterflies-to-your-garden-and-yard-1848854130)
 - [Lifehacker] [Update Chrome Immediately to Patch These Security Vulnerabilities](https://lifehacker.com/update-chrome-immediately-to-patch-these-security-vulne-1848853708)
-- [Lifehacker] [The Easiest Ways to Fix a Running Toilet](https://lifehacker.com/the-easiest-ways-to-fix-a-running-toilet-1848853435)
-- [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
-- [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Fix a Running Toilet](https://lifehacker.com/the-easiest-ways-to-fix-a-running-toilet-1848853435)<!-- TECH-POSTS:END -->
 
 ---
 
