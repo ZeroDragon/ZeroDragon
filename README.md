@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Sign In to Your Windows PC Without a Password](https://lifehacker.com/how-to-sign-in-to-your-windows-pc-without-a-password-1848858181)
+- [Dev.to/JS] [Converting Web Traffic to Permanent Users with Seamless Authentication](https://dev.to/prajwalkulkarni/converting-web-traffic-to-permanent-users-with-seamless-authentication-3bdj)
+- [Lifehacker] [Use This App to Track Changes or Updates on Any Website](https://lifehacker.com/use-this-app-to-track-changes-or-updates-on-any-website-1848856696)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Does &#39;This is Miyamoto&#39; Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848856733)
 - [Lifehacker] [You Can Control Yourself Better](https://lifehacker.com/you-can-control-yourself-better-1848855315)
 - [Dev.to/JS] [Hi. I need some good ideas about this problem with TG Passport Bot](https://dev.to/lastjonoff/hi-i-need-some-good-ideas-about-this-problem-with-tg-passport-bot-2lb5)
 - [Dev.to/JS] [TUTORIALS FOR GEEKS](https://dev.to/theanupmaurya/tutorials-for-geeks-154n)
@@ -36,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Password show/hide button using vanilla JS](https://dev.to/devrohit0/password-showhide-button-using-vanilla-js-27ai)
 - [Dev.to/JS] [Fetching data in Redux using RTK Query](https://dev.to/asayerio_techblog/fetching-data-in-redux-using-rtk-query-2b15)
 - [Dev.to/JS] [What is Context API in React and how to use it?](https://dev.to/ashutoshdash/what-is-context-api-in-react-and-how-to-use-it-56mp)
-- [Dev.to/JS] [KendoReact UI Library for ReactJS: What You Need to Know](https://dev.to/chineduimoh/kendoreact-ui-library-for-reactjs-what-you-need-to-know-253n)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Android 13 on Your Pixel](https://lifehacker.com/how-to-get-android-13-on-your-pixel-1848848786)
 - [Lifehacker] [11 Low-Effort Ways to Majorly Improve Your Sex Life, According to Lifehacker Readers](https://lifehacker.com/11-low-effort-ways-to-majorly-improve-your-sex-life-ac-1848844935)
 - [Lifehacker] [How to Keep Your Meats From Flipping Around on the Skewer](https://lifehacker.com/how-to-keep-your-meats-from-flipping-around-on-the-skew-1848849185)
-- [Lifehacker] [Enough With Administrative Professionals Day](https://lifehacker.com/enough-with-administrative-professionals-day-1848849174)
-- [Lifehacker] [Please Don’t Stake Your 401&lpar;k&rpar; in Bitcoin](https://lifehacker.com/please-don-t-stake-your-401-k-in-bitcoin-1848848959)
-- [Lifehacker] [How Histrionic Personality Disorder Differs From Narcissistic Personality Disorder](https://lifehacker.com/how-histrionic-personality-disorder-differs-from-narcis-1848847780)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
