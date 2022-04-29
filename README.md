@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Adding URL Search Parameters to Imports?](https://dev.to/lioness100/adding-url-search-parameters-to-imports-1kd8)
+- [Dev.to/JS] [Load data on Select2 | Jquery](https://dev.to/krixnaas/load-data-on-select2-jquery-1fgi)
+- [Dev.to/JS] [Apa perbedaan diantara ECMAScript dengan Javascript ?](https://dev.to/ciptox99/apa-perbedaan-diantara-ecmascript-dengan-javascript--14h0)
+- [Dev.to/JS] [JavaScript - Hoisting &lpar;2&rpar;](https://dev.to/mykyta0723/javascript-hoisting-2-4676)
+- [Dev.to/JS] [Adding URL Search Parameters to Imports!](https://dev.to/lioness100/adding-url-search-parameters-to-imports-1kd8)
 - [Dev.to/JS] [Filtering Display Cards](https://dev.to/tmchuynh/filtering-display-cards-590f)
 - [Dev.to/JS] [Criando uma API de páginas estáticas básica com Deno 🦕](https://dev.to/xandecodes/criando-uma-api-de-paginas-estaticas-basica-com-deno-t-rex-5h8o)
 - [Dev.to/JS] [Writing a Vite plugin to add lazyloaded critical CSS fallbacks for users with JavaScript disabled or unavailable](https://dev.to/philw_/using-vite-with-critical-css-in-a-way-that-supports-users-with-javascript-disabled-or-unavailable-57cd)
@@ -40,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My First Open Source Project](https://dev.to/vpgmackan/my-first-open-source-project-1p45)
 - [Lifehacker] [What Is Behavior Mirroring and When Should You Use It?](https://lifehacker.com/what-is-behavior-mirroring-and-when-should-you-use-it-1848849649)
 - [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
-- [Dev.to/JS] [Short-circuiting of logical operators and their return values](https://dev.to/oalbacha/short-circuiting-of-logical-operators-and-their-return-values-5n7)
-- [Dev.to/JS] [Making your datepicker easier to work with](https://dev.to/dgreene1/making-your-datepicker-easier-to-work-with-21n4)
-- [Dev.to/JS] [React Portals for ArcGIS JSAPI Popups](https://dev.to/odoenet/react-portals-for-arcgis-jsapi-popups-bnf)
 - [Lifehacker] [How to Attract Butterflies to Your Garden and Yard](https://lifehacker.com/how-to-attract-butterflies-to-your-garden-and-yard-1848854130)
 - [Lifehacker] [Update Chrome Immediately to Patch These Security Vulnerabilities](https://lifehacker.com/update-chrome-immediately-to-patch-these-security-vulne-1848853708)
 - [Lifehacker] [The Easiest Ways to Fix a Running Toilet](https://lifehacker.com/the-easiest-ways-to-fix-a-running-toilet-1848853435)
