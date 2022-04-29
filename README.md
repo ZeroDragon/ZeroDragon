@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Microservices with express.js and rabbitmq](https://dev.to/omardiaa48/microservices-with-expressjs-and-rabbitmq-34dk)
+- [Dev.to/JS] [Menggunakan Builder Class Untuk Membuat Object](https://dev.to/arisca_abdullah/menggunakan-builder-class-untuk-membuat-object-1j90)
+- [Lifehacker] [This Is the Only Right Way to Serve a Mom Breakfast in Bed on Mother’s Day](https://lifehacker.com/this-is-the-only-right-way-to-serve-a-mom-breakfast-in-1848855194)
+- [Dev.to/JS] [Automating pull request creation from one branch to another using javascript, bitbucket pipelines and bitbucket api](https://dev.to/clickpesa/automating-pull-request-creation-from-one-branch-to-another-using-javascript-bitbucket-pipelines-and-bitbucket-api-3ijh)
+- [Dev.to/JS] [Save your web camera recording locally in your browser](https://dev.to/eneaslari/save-your-web-camera-recording-locally-in-your-browser-10kj)
+- [Dev.to/JS] [Rendering Different JavaScript files based on screen size](https://dev.to/kaztic/rendering-different-javascript-files-based-on-screen-size-3doh)
 - [Dev.to/JS] [React, Vue and Svelte : Comparing Select binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-select-binding-4cha)
 - [Dev.to/JS] [Password show/hide button using vanilla JS](https://dev.to/devrohit0/password-showhide-button-using-vanilla-js-27ai)
 - [Dev.to/JS] [Fetching data in Redux using RTK Query](https://dev.to/asayerio_techblog/fetching-data-in-redux-using-rtk-query-2b15)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top six reasons Why Vue.js for UI web development is an ideal choice in 2022](https://dev.to/binalprajapati123/top-six-reasons-why-vuejs-for-ui-web-development-is-an-ideal-choice-in-2022-57pe)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Dev.to/JS] [Which Java Certificate is the best?](https://dev.to/vahidpourmohamad/which-java-certificate-is-the-best-4g6n)
-- [Dev.to/JS] [SVG generative mountain ridge dividers](https://dev.to/accudio/svg-generative-mountain-ridge-dividers-2j4d)
-- [Dev.to/JS] [sendGrid not delivering emails from a node application hosted on vercel.](https://dev.to/magyztech/sendgrid-not-delivering-emails-from-a-node-application-hosted-on-vercel-5030)
-- [Dev.to/JS] [JavaScript News and Updates of April 2022](https://dev.to/plazarev/javascript-news-and-updates-of-april-2022-5gle)
-- [Dev.to/JS] [Ikaria Lean Belly Juice Reviews: Read All Shocking Results?](https://dev.to/ikarialeanbelly_info/ikaria-lean-belly-juice-reviews-read-all-shocking-results-egl)
-- [Dev.to/JS] [Song search application built using Typesense.](https://dev.to/aviyel/song-search-application-built-using-typesense-19l7)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
 - [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Please Don’t Stake Your 401&lpar;k&rpar; in Bitcoin](https://lifehacker.com/please-don-t-stake-your-401-k-in-bitcoin-1848848959)
 - [Lifehacker] [How Histrionic Personality Disorder Differs From Narcissistic Personality Disorder](https://lifehacker.com/how-histrionic-personality-disorder-differs-from-narcis-1848847780)
 - [Lifehacker] [You Can Finally Fix Your Own Apple Devices &lpar;With Apple’s Help&rpar;](https://lifehacker.com/you-can-finally-fix-your-own-apple-devices-with-apple-1848847963)
-- [Lifehacker] [What&#39;s New on Prime Video in May 2022](https://lifehacker.com/whats-new-on-prime-video-in-may-2022-1848848337)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
