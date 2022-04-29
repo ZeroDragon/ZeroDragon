@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Song search application built using Typesense.](https://dev.to/aviyel/song-search-application-built-using-typesense-19l7)
+- [Dev.to/JS] [Understand Asynchronous Tasks with Coffee Shop Example ☕](https://dev.to/koladev/understand-asynchronous-tasks-with-coffee-shop-example-4hc2)
+- [Dev.to/JS] [Fullstack ecommerce site using Nextjs, Supabase, prisma and chatwoot.](https://dev.to/aviyel/fullstack-ecommerce-site-using-nextjs-supabase-prisma-and-chatwoot-2j8e)
+- [Dev.to/JS] [Automating pull request creation from one branch to another using javascript, bitbucket pipelines and bitbucket api](https://dev.to/bmsteven/automating-pull-request-creation-from-one-branch-to-another-using-javascript-bitbucket-pipelines-and-bitbucket-api-7l0)
 - [Dev.to/JS] [https://www.facebook.com/TheAppleKetoGummiesAustralia/](https://dev.to/wortwoolket/httpswwwfacebookcomtheappleketogummiesaustralia-2jp)
 - [Dev.to/JS] [Like/Dislike system with Mojolicious](https://dev.to/arslonga/likedislike-system-with-mojolicious-42ph)
 - [Dev.to/JS] [Array.reverse&lpar;&rpar; - for reversing an array](https://dev.to/dillionmegida/arrayreverse-for-reversing-an-array-3cpe)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A better way to work with URLs using vueUse useFetch&lpar;&rpar; + useUrl&lpar;&rpar;](https://dev.to/rainxh11/a-better-way-to-work-with-urls-using-vueuse-usefetch-useurl-4309)
 - [Dev.to/JS] [Frontend Internship Interview Experience](https://dev.to/ashutoshdash/frontend-internship-interview-experience-54al)
 - [Dev.to/JS] [Awesome SQLite](https://dev.to/sqlsite/awesome-sqlite-571e)
-- [Dev.to/JS] [Load data on Select2 | Jquery](https://dev.to/krixnaas/load-data-on-select2-jquery-1fgi)
-- [Dev.to/JS] [Apa perbedaan diantara ECMAScript dengan Javascript ?](https://dev.to/ciptox99/apa-perbedaan-diantara-ecmascript-dengan-javascript--14h0)
-- [Dev.to/JS] [JavaScript - Hoisting &lpar;2&rpar;](https://dev.to/mykyta0723/javascript-hoisting-2-4676)
-- [Dev.to/JS] [Adding URL Search Parameters to Imports!](https://dev.to/lioness100/adding-url-search-parameters-to-imports-1kd8)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
 - [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
