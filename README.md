@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Put data from RTK Query to State Slice in Redux Toolkit](https://dev.to/agiksetiawan/put-data-from-rtk-query-on-to-state-slice-in-redux-toolkit-1p1m)
+- [Dev.to/JS] [Your first Turborepo](https://dev.to/siddharthvenkatesh/your-first-turborepo-1lo)
+- [Dev.to/JS] [JavaScript: Arrays &lpar;for absolute beginners&rpar;](https://dev.to/simeg/javascript-arrays-for-absolute-beginners-31h9)
+- [Dev.to/JS] [would you place the logic inside the handler or reducer?](https://dev.to/eyec/would-you-place-the-logic-inside-the-handler-or-reducer-47jm)
 - [Dev.to/JS] [Top 3 Coding Tutorials of the Week](https://dev.to/codecast/top-3-tutorials-of-the-week-9nd)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Dev.to/JS] [Check if an Object Contains all Keys in Array in Javascript](https://dev.to/smpnjn/check-if-an-object-contains-all-keys-in-array-in-javascript-3b0k)
@@ -35,13 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Job Search Blues](https://dev.to/mikacodez/job-search-blues-3cln)
 - [Dev.to/JS] [Microservice Architecture - Asynchronous Messaging](https://dev.to/evanhameed99/microservice-architecture-asynchronous-messaging-1bk1)
 - [Dev.to/JS] [Creating a new portfolio with Svelte!](https://dev.to/llxd/creating-a-new-portfolio-with-svelte-2g28)
-- [Dev.to/JS] [Agency Hero Section](https://dev.to/kumard3/agency-hero-section-nab)
 - [Lifehacker] [Why You Should Pre-Sprout Your Seeds](https://lifehacker.com/why-you-should-pre-sprout-your-seeds-1848859050)
-- [Dev.to/JS] [Day-77 Training At Ryaz](https://dev.to/mahin651/day-77-training-at-ryaz-35d2)
 - [Lifehacker] [5 Movies Best Watched in Total Ignorance](https://lifehacker.com/5-movies-best-watched-in-total-ignorance-1848859792)
 - [Lifehacker] [Which ePaper Tablet Is Best for Digital Notes?](https://lifehacker.com/which-epaper-tablet-is-best-for-digital-notes-1848859314)
-- [Dev.to/JS] [Cypress Workflows in Warp](https://dev.to/cypress/cypress-workflows-in-warp-oil)
-- [Dev.to/JS] [RPCE is moving Vite support to @crxjs/vite-plugin](https://dev.to/jacksteamdev/rpce-is-moving-to-crxjsvite-plugin-2lmi)
 - [Lifehacker] [The Least Popular States to Visit in the U.S. &lpar;and Why You Should Travel There&rpar;](https://lifehacker.com/the-least-popular-states-to-visit-in-the-u-s-and-why-1848859294)
 - [Lifehacker] [16 Movies That Prove Social Media Was Horrifying Even Before Elon Musk Bought Twitter](https://lifehacker.com/16-movies-that-prove-social-media-was-horrifying-even-b-1848853135)
 - [Lifehacker] [How to Sign In to Your Windows PC Without a Password](https://lifehacker.com/how-to-sign-in-to-your-windows-pc-without-a-password-1848858181)
