@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Where to deploy your node.js app [April 2022]](https://dev.to/jordienr/where-to-deploy-your-nodejs-app-april-2022-3pai)
+- [Dev.to/JS] [8 Reasons Why I Love Chakra-UI](https://dev.to/thatanjan/8-reasons-why-i-love-chakra-ui-4lp4)
+- [Dev.to/JS] [How can I show my index page on different links?](https://dev.to/webdevaman/how-can-i-show-my-index-page-on-different-links-1gcd)
+- [Dev.to/JS] [Lifecycle explained based on Class or Function type component in React.](https://dev.to/akinkarayun/lifecycle-explained-based-on-class-or-function-type-component-in-react-507i)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
 - [Dev.to/JS] [What and Why - Moment.js?](https://dev.to/arorachakit/what-and-why-momentjs-3g0a)
 - [Dev.to/JS] [JWT, access token, and refresh token](https://dev.to/arorachakit/jwt-access-token-and-refresh-token-54nd)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello, how can I send data from UI &lpar;&quot;formulaire&quot;&rpar; using javasript to file &quot;variables.tf &quot; Terraform ? i need help please](https://dev.to/elagasamel/hello-how-can-i-send-information-from-ui-formulaire-to-file-variablestf-terraform-i-need-help-please-1kj9)
 - [Dev.to/JS] [My Journey towards Full-Stack 🚀](https://dev.to/gulshanaggarwal/my-journey-towards-full-stack-58kb)
 - [Dev.to/JS] [Advik Clothing V2](https://dev.to/advikguptadev/advik-clothing-v2-2loj)
-- [Dev.to/JS] [Hire .Net developer](https://dev.to/hiredeveloperr/hire-net-developer-2k63)
-- [Dev.to/JS] [🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-30be)
-- [Dev.to/JS] [Hero Keyboard](https://dev.to/elsaka_official/hero-keyboard-3500)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;30-04-2022&rpar; - The full full stack, and the weight of history](https://dev.to/mjgs/this-weeks-newsletter-is-out-30-04-2022-the-full-full-stack-and-the-weight-of-history-28gc)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
