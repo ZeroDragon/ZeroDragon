@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Journey towards Full-Stack 🚀](https://dev.to/gulshanaggarwal/my-journey-towards-full-stack-58kb)
 - [Dev.to/JS] [Advik Clothing V2](https://dev.to/advikguptadev/advik-clothing-v2-2loj)
 - [Dev.to/JS] [Hire .Net developer](https://dev.to/hiredeveloperr/hire-net-developer-2k63)
 - [Dev.to/JS] [🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-30be)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React 18 unable to install react-table and react-bootstrap](https://dev.to/sujithmohan/react-18-unable-to-install-react-table-and-react-bootstrap-1kkb)
 - [Dev.to/JS] [Profile Card](https://dev.to/elsaka_official/profile-card-341m)
 - [Dev.to/JS] [Setup path aliases w/ React + Vite + TS](https://dev.to/avxkim/setup-path-aliases-w-react-vite-ts-poa)
-- [Dev.to/JS] [Main features of JavaScript programming language](https://dev.to/focusinsky/main-features-of-javascript-programming-language-poo)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
