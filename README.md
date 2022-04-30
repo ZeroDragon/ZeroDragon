@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Navigating fetch API](https://dev.to/gabrielcarino/navigating-fetch-api-oi7)
 - [Dev.to/JS] [Menggunakan Factory Method Untuk Membuat Object](https://dev.to/arisca_abdullah/menggunakan-factory-method-untuk-membuat-object-2g0f)
 - [Dev.to/JS] [Strapi quirks you should know about](https://dev.to/paratron/strapi-quirks-you-should-know-about-4ie4)
 - [Dev.to/JS] [Get DEV.to Articles Using DEV API - The Missing Piece of Code](https://dev.to/tmchuynh/get-devto-articles-using-dev-api-4oag)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js Shopping Website](https://dev.to/bibinprathap/nextjs-shopping-website-4cli)
 - [Dev.to/JS] [Select the Prebuilt Gaming PC under $2000 For Programming](https://dev.to/cartsellomarket/select-the-prebuilt-gaming-pc-under-2000-for-programming-3goj)
 - [Dev.to/JS] [Detailed Article for Birds](https://dev.to/danny_ricchf34/detailed-article-for-birds-1ili)
-- [Dev.to/JS] [plusOne Array of Integers in Javascript](https://dev.to/urstrulyvishwak/plusone-array-of-integers-in-javascript-1ln5)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
