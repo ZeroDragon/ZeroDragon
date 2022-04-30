@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a blog with Directus, MDX, and Next.js On-Demand ISR](https://dev.to/anishde12020/making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr-4k3g)
 - [Dev.to/JS] [OIDC Authentication for Express Apps with Asgardeo](https://dev.to/suvink/oidc-authentication-for-express-apps-with-asgardeo-5gbe)
 - [Dev.to/JS] [Reactjs email validation || Reactjs tutorial for beginners](https://dev.to/hardeepcoder/reactjs-email-validation-reactjs-tutorial-for-beginners-153p)
 - [Dev.to/JS] [Thí tí](https://dev.to/tuanfrontend/thi-ti-4f74)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [It WORKS!!!](https://dev.to/warmastr/it-works-3ej8)
 - [Dev.to/JS] [Post Graduate ! Dubai Call Girls +9715O99O26O7 Marina* Jumeirah*](https://dev.to/priya_traders_0509902607/post-graduate-dubai-call-girls-9715o99o26o7-marina-jumeirah-1lb8)
 - [Dev.to/JS] [Using Local Storage for Remembering User Visits](https://dev.to/riapacheco/using-local-storage-for-remembering-user-visits-coe)
-- [Dev.to/JS] [Amplication &amp; React: Saving Tasks to the Backend](https://dev.to/amplication/amplication-react-saving-tasks-to-the-backend-203f)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
