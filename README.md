@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Iterando sobre propiedades del archivo i18 en Svelte/SvelteKit](https://dev.to/raccode/iterando-sobre-entradas-de-i18-en-sveltesveltekit-hlf)
+- [Dev.to/JS] [Anotações de estudo em Javascript: Objetos, Arrays e Métodos](https://dev.to/natrovao/anotacoes-de-estudo-em-javascript-objetos-arrays-e-metodos-3fki)
+- [Dev.to/JS] [JavaScript: Map versus forEach](https://dev.to/rfornal/-javascript-map-versus-foreach-17m5)
+- [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Dev.to/JS] [Where to deploy your node.js app [April 2022]](https://dev.to/jordienr/where-to-deploy-your-nodejs-app-april-2022-3pai)
 - [Dev.to/JS] [8 Reasons Why I Love Chakra-UI](https://dev.to/thatanjan/8-reasons-why-i-love-chakra-ui-4lp4)
 - [Dev.to/JS] [How can I show my index page on different links?](https://dev.to/webdevaman/how-can-i-show-my-index-page-on-different-links-1gcd)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Join us live on May 19 for the Azure Static Web Apps Anniversary!](https://dev.to/azure/join-us-live-on-may-19-for-the-azure-static-web-apps-anniversary-3aih)
 - [Dev.to/JS] [Rookie Mistake?](https://dev.to/soclarence/rookie-mistake-24m9)
 - [Dev.to/JS] [Shared state of a store among multiple clients in Svelte Kit using SSR](https://dev.to/aspnxdd/shared-state-of-a-store-among-multiple-clients-in-svelte-kit-using-ssr-57p1)
-- [Dev.to/JS] [Hello, how can I send data from UI &lpar;&quot;formulaire&quot;&rpar; using javasript to file &quot;variables.tf &quot; Terraform ? i need help please](https://dev.to/elagasamel/hello-how-can-i-send-information-from-ui-formulaire-to-file-variablestf-terraform-i-need-help-please-1kj9)
-- [Dev.to/JS] [My Journey towards Full-Stack 🚀](https://dev.to/gulshanaggarwal/my-journey-towards-full-stack-58kb)
-- [Dev.to/JS] [Advik Clothing V2](https://dev.to/advikguptadev/advik-clothing-v2-2loj)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Behavior Mirroring and When Should You Use It?](https://lifehacker.com/what-is-behavior-mirroring-and-when-should-you-use-it-1848849649)
 - [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
 - [Lifehacker] [How to Attract Butterflies to Your Garden and Yard](https://lifehacker.com/how-to-attract-butterflies-to-your-garden-and-yard-1848854130)
-- [Lifehacker] [Update Chrome Immediately to Patch These Security Vulnerabilities](https://lifehacker.com/update-chrome-immediately-to-patch-these-security-vulne-1848853708)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
