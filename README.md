@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to publish a package to npm](https://dev.to/mohsenkamrani/how-to-publish-a-package-to-npm-1n8a)
+- [Dev.to/JS] [Apa yang dimaksud dengan Scope ?](https://dev.to/ciptox99/apa-yang-dimaksud-dengan-scope--55h6)
+- [Dev.to/JS] [Custom/Reusable Toggle Component &lpar;with Angular Animations&rpar;](https://dev.to/riapacheco/customreusable-toggle-component-with-angular-animations-mfm)
 - [Dev.to/JS] [Making a blog with Directus, MDX, and Next.js On-Demand ISR](https://dev.to/anishde12020/making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr-4k3g)
 - [Dev.to/JS] [OIDC Authentication for Express Apps with Asgardeo](https://dev.to/suvink/oidc-authentication-for-express-apps-with-asgardeo-5gbe)
 - [Dev.to/JS] [Reactjs email validation || Reactjs tutorial for beginners](https://dev.to/hardeepcoder/reactjs-email-validation-reactjs-tutorial-for-beginners-153p)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which the best IDE ?](https://dev.to/alexmaldonadosoto/which-the-best-ide--knb)
 - [Dev.to/JS] [object oriented programming in Javascript &lpar;part 5&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-5-27dm)
 - [Dev.to/JS] [Basic View-Model: Simple Component-Architecture Workflow with Angular2](https://dev.to/riapacheco/basic-view-model-simple-component-architecture-workflow-with-angular2-4791)
-- [Dev.to/JS] [It WORKS!!!](https://dev.to/warmastr/it-works-3ej8)
-- [Dev.to/JS] [Post Graduate ! Dubai Call Girls +9715O99O26O7 Marina* Jumeirah*](https://dev.to/priya_traders_0509902607/post-graduate-dubai-call-girls-9715o99o26o7-marina-jumeirah-1lb8)
-- [Dev.to/JS] [Using Local Storage for Remembering User Visits](https://dev.to/riapacheco/using-local-storage-for-remembering-user-visits-coe)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
