@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
+- [Dev.to/JS] [What and Why - Moment.js?](https://dev.to/arorachakit/what-and-why-momentjs-3g0a)
+- [Dev.to/JS] [JWT, access token, and refresh token](https://dev.to/arorachakit/jwt-access-token-and-refresh-token-54nd)
+- [Dev.to/JS] [Join us live on May 19 for the Azure Static Web Apps Anniversary!](https://dev.to/azure/join-us-live-on-may-19-for-the-azure-static-web-apps-anniversary-3aih)
 - [Dev.to/JS] [Rookie Mistake?](https://dev.to/soclarence/rookie-mistake-24m9)
 - [Dev.to/JS] [Shared state of a store among multiple clients in Svelte Kit using SSR](https://dev.to/aspnxdd/shared-state-of-a-store-among-multiple-clients-in-svelte-kit-using-ssr-57p1)
 - [Dev.to/JS] [Hello, how can I send data from UI &lpar;&quot;formulaire&quot;&rpar; using javasript to file &quot;variables.tf &quot; Terraform ? i need help please](https://dev.to/elagasamel/hello-how-can-i-send-information-from-ui-formulaire-to-file-variablestf-terraform-i-need-help-please-1kj9)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Angular 13 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-13-eslint-material-transloco-jest-testcafe-docker-prettier-30be)
 - [Dev.to/JS] [Hero Keyboard](https://dev.to/elsaka_official/hero-keyboard-3500)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;30-04-2022&rpar; - The full full stack, and the weight of history](https://dev.to/mjgs/this-weeks-newsletter-is-out-30-04-2022-the-full-full-stack-and-the-weight-of-history-28gc)
-- [Dev.to/JS] [QuickBooks install error code 1722](https://dev.to/aidenmarkaram68/quickbooks-install-error-code-1722-1kd1)
-- [Dev.to/JS] [Naming files and directories in JavaScript projects](https://dev.to/kevanstannard/naming-files-and-directories-in-javascript-projects-35e4)
-- [Dev.to/JS] [Apple Keto Gummies - Fat Loss Supplement, Reviews, Is It Scam Or Legit?](https://dev.to/appleketofact1/apple-keto-gummies-fat-loss-supplement-reviews-is-it-scam-or-legit-17c0)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
 - [Lifehacker] [How to Attract Butterflies to Your Garden and Yard](https://lifehacker.com/how-to-attract-butterflies-to-your-garden-and-yard-1848854130)
 - [Lifehacker] [Update Chrome Immediately to Patch These Security Vulnerabilities](https://lifehacker.com/update-chrome-immediately-to-patch-these-security-vulne-1848853708)
-- [Lifehacker] [The Easiest Ways to Fix a Running Toilet](https://lifehacker.com/the-easiest-ways-to-fix-a-running-toilet-1848853435)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
