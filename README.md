@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Case Studies](https://dev.to/infotonicsmedia/case-studies-3p4g)
+- [Dev.to/JS] [JavaScript really needs a way to load local files. . .](https://dev.to/baenencalin/javascript-really-needs-a-way-to-load-local-files--2akl)
+- [Dev.to/JS] [Which the best IDE ?](https://dev.to/alexmaldonadosoto/which-the-best-ide--knb)
+- [Dev.to/JS] [object oriented programming in Javascript &lpar;part 5&rpar;](https://dev.to/hacker4world/object-oriented-programming-in-javascript-part-5-27dm)
+- [Dev.to/JS] [Basic View-Model: Simple Component-Architecture Workflow with Angular2](https://dev.to/riapacheco/basic-view-model-simple-component-architecture-workflow-with-angular2-4791)
+- [Dev.to/JS] [It WORKS!!!](https://dev.to/warmastr/it-works-3ej8)
+- [Dev.to/JS] [Post Graduate ! Dubai Call Girls +9715O99O26O7 Marina* Jumeirah*](https://dev.to/priya_traders_0509902607/post-graduate-dubai-call-girls-9715o99o26o7-marina-jumeirah-1lb8)
 - [Dev.to/JS] [Using Local Storage for Remembering User Visits](https://dev.to/riapacheco/using-local-storage-for-remembering-user-visits-coe)
 - [Dev.to/JS] [Amplication &amp; React: Saving Tasks to the Backend](https://dev.to/amplication/amplication-react-saving-tasks-to-the-backend-203f)
 - [Dev.to/JS] [Building a blog with React and RestDB](https://dev.to/asayerio_techblog/building-a-blog-with-react-and-restdb-39l)
 - [Dev.to/JS] [Build an eBay Web Scraper: How to Extract Product Data Using Javascript](https://dev.to/zoltan/build-an-ebay-web-scraper-how-to-extract-product-data-using-javascript-47k3)
 - [Dev.to/JS] [5 Higher Order Functions untuk Memanipulasi Array](https://dev.to/mohamadadithya/5-higher-order-functions-untuk-memanipulasi-array-3of0)
-- [Dev.to/JS] [EL RESUMEN DE MI HISTORIA](https://dev.to/opoinffrancisco/el-resumen-de-mi-historia-3h79)
-- [Dev.to/JS] [Put data from RTK Query to State Slice in Redux Toolkit](https://dev.to/agiksetiawan/put-data-from-rtk-query-on-to-state-slice-in-redux-toolkit-1p1m)
-- [Dev.to/JS] [Your first Turborepo](https://dev.to/siddharthvenkatesh/your-first-turborepo-1lo)
-- [Dev.to/JS] [JavaScript: Arrays &lpar;for absolute beginners&rpar;](https://dev.to/simeg/javascript-arrays-for-absolute-beginners-31h9)
-- [Dev.to/JS] [Top 3 Coding Tutorials of the Week](https://dev.to/codecast/top-3-tutorials-of-the-week-9nd)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
-- [Dev.to/JS] [Check if an Object Contains all Keys in Array in Javascript](https://dev.to/smpnjn/check-if-an-object-contains-all-keys-in-array-in-javascript-3b0k)
-- [Dev.to/JS] [Stop using meaningless test values!](https://dev.to/simeg/stop-using-meaningless-test-values-2gg4)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
 - [Lifehacker] [How to Fix &lpar;or Prevent&rpar; Blackouts on Your Nintendo Switch](https://lifehacker.com/how-to-fix-or-prevent-blackouts-on-your-nintendo-swit-1848859631)
@@ -49,6 +49,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Does &#39;This is Miyamoto&#39; Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848856733)
 - [Lifehacker] [You Can Control Yourself Better](https://lifehacker.com/you-can-control-yourself-better-1848855315)
 - [Lifehacker] [This Is the Only Right Way to Serve a Mom Breakfast in Bed on Mother’s Day](https://lifehacker.com/this-is-the-only-right-way-to-serve-a-mom-breakfast-in-1848855194)
+- [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
 - [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
@@ -59,7 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
 - [Lifehacker] [How to Attract Butterflies to Your Garden and Yard](https://lifehacker.com/how-to-attract-butterflies-to-your-garden-and-yard-1848854130)
 - [Lifehacker] [Update Chrome Immediately to Patch These Security Vulnerabilities](https://lifehacker.com/update-chrome-immediately-to-patch-these-security-vulne-1848853708)
-- [Lifehacker] [The Easiest Ways to Fix a Running Toilet](https://lifehacker.com/the-easiest-ways-to-fix-a-running-toilet-1848853435)<!-- TECH-POSTS:END -->
+- [Lifehacker] [The Easiest Ways to Fix a Running Toilet](https://lifehacker.com/the-easiest-ways-to-fix-a-running-toilet-1848853435)
+- [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
+- [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
 ---
 
