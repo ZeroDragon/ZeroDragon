@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Naming files and directories in JavaScript projects](https://dev.to/kevanstannard/naming-files-and-directories-in-javascript-projects-35e4)
+- [Dev.to/JS] [Apple Keto Gummies - Fat Loss Supplement, Reviews, Is It Scam Or Legit?](https://dev.to/appleketofact1/apple-keto-gummies-fat-loss-supplement-reviews-is-it-scam-or-legit-17c0)
+- [Dev.to/JS] [React 18 unable to install react-table and react-bootstrap](https://dev.to/sujithmohan/react-18-unable-to-install-react-table-and-react-bootstrap-1kkb)
+- [Dev.to/JS] [Profile Card](https://dev.to/elsaka_official/profile-card-341m)
+- [Dev.to/JS] [Setup path aliases w/ React + Vite + TS](https://dev.to/avxkim/setup-path-aliases-w-react-vite-ts-poa)
 - [Dev.to/JS] [Main features of JavaScript programming language](https://dev.to/focusinsky/main-features-of-javascript-programming-language-poo)
 - [Dev.to/JS] [How to Highlight potential problems in React application?](https://dev.to/sagargnawali/how-to-highlight-potential-problems-in-react-application-2fg)
 - [Dev.to/JS] [Your Personal Code Repository](https://dev.to/warmastr/your-personal-code-repository-2fgg)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Apa yang dimaksud dengan Scope ?](https://dev.to/ciptox99/apa-yang-dimaksud-dengan-scope--55h6)
 - [Dev.to/JS] [Custom/Reusable Toggle Component &lpar;with Angular Animations&rpar;](https://dev.to/riapacheco/customreusable-toggle-component-with-angular-animations-mfm)
 - [Dev.to/JS] [Making a blog with Directus, MDX, and Next.js On-Demand ISR](https://dev.to/anishde12020/making-a-blog-with-directus-mdx-and-nextjs-on-demand-isr-4k3g)
-- [Dev.to/JS] [OIDC Authentication for Express Apps with Asgardeo](https://dev.to/suvink/oidc-authentication-for-express-apps-with-asgardeo-5gbe)
-- [Dev.to/JS] [Reactjs email validation || Reactjs tutorial for beginners](https://dev.to/hardeepcoder/reactjs-email-validation-reactjs-tutorial-for-beginners-153p)
-- [Dev.to/JS] [Thí tí](https://dev.to/tuanfrontend/thi-ti-4f74)
-- [Dev.to/JS] [Case Studies](https://dev.to/infotonicsmedia/case-studies-3p4g)
-- [Dev.to/JS] [JavaScript really needs a way to load local files. . .](https://dev.to/baenencalin/javascript-really-needs-a-way-to-load-local-files--2akl)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
