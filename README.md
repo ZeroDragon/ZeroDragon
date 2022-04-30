@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shared state of a store among multiple clients in Svelte Kit using SSR](https://dev.to/aspnxdd/shared-state-of-a-store-among-multiple-clients-in-svelte-kit-using-ssr-57p1)
+- [Dev.to/JS] [Hello, how can I send data from UI &lpar;&quot;formulaire&quot;&rpar; using javasript to file &quot;variables.tf &quot; Terraform ? i need help please](https://dev.to/elagasamel/hello-how-can-i-send-information-from-ui-formulaire-to-file-variablestf-terraform-i-need-help-please-1kj9)
 - [Dev.to/JS] [My Journey towards Full-Stack 🚀](https://dev.to/gulshanaggarwal/my-journey-towards-full-stack-58kb)
 - [Dev.to/JS] [Advik Clothing V2](https://dev.to/advikguptadev/advik-clothing-v2-2loj)
 - [Dev.to/JS] [Hire .Net developer](https://dev.to/hiredeveloperr/hire-net-developer-2k63)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Naming files and directories in JavaScript projects](https://dev.to/kevanstannard/naming-files-and-directories-in-javascript-projects-35e4)
 - [Dev.to/JS] [Apple Keto Gummies - Fat Loss Supplement, Reviews, Is It Scam Or Legit?](https://dev.to/appleketofact1/apple-keto-gummies-fat-loss-supplement-reviews-is-it-scam-or-legit-17c0)
 - [Dev.to/JS] [React 18 unable to install react-table and react-bootstrap](https://dev.to/sujithmohan/react-18-unable-to-install-react-table-and-react-bootstrap-1kkb)
-- [Dev.to/JS] [Profile Card](https://dev.to/elsaka_official/profile-card-341m)
-- [Dev.to/JS] [Setup path aliases w/ React + Vite + TS](https://dev.to/avxkim/setup-path-aliases-w-react-vite-ts-poa)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
