@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Iterando sobre propiedades del archivo i18 en Svelte/SvelteKit](https://dev.to/raccode/iterando-sobre-entradas-de-i18-en-sveltesveltekit-hlf)
+- [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
+- [Dev.to/JS] [Programming Tip #2: Avoid globals for dependencies; instead inject them as function arguments.](https://dev.to/jesterxl/programming-tip-2-avoid-primitives-use-product-types-d7)
+- [Dev.to/JS] [SvelteKit Hooks](https://dev.to/krowemoh/sveltekit-hooks-2bii)
+- [Dev.to/JS] [Resolviendo el problema de la iteración en Svelte con i18n](https://dev.to/raccode/iterando-sobre-entradas-de-i18-en-sveltesveltekit-hlf)
 - [Dev.to/JS] [Anotações de estudo em Javascript: Objetos, Arrays e Métodos](https://dev.to/natrovao/anotacoes-de-estudo-em-javascript-objetos-arrays-e-metodos-3fki)
 - [Dev.to/JS] [JavaScript: Map versus forEach](https://dev.to/rfornal/-javascript-map-versus-foreach-17m5)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What and Why - Moment.js?](https://dev.to/arorachakit/what-and-why-momentjs-3g0a)
 - [Dev.to/JS] [JWT, access token, and refresh token](https://dev.to/arorachakit/jwt-access-token-and-refresh-token-54nd)
 - [Dev.to/JS] [Join us live on May 19 for the Azure Static Web Apps Anniversary!](https://dev.to/azure/join-us-live-on-may-19-for-the-azure-static-web-apps-anniversary-3aih)
-- [Dev.to/JS] [Rookie Mistake?](https://dev.to/soclarence/rookie-mistake-24m9)
-- [Dev.to/JS] [Shared state of a store among multiple clients in Svelte Kit using SSR](https://dev.to/aspnxdd/shared-state-of-a-store-among-multiple-clients-in-svelte-kit-using-ssr-57p1)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Clever Ways to Start a Conversation on a Dating App &lpar;That Aren’t Creepy, Cheesy, or Boring&rpar;](https://lifehacker.com/clever-ways-to-start-a-conversation-on-a-dating-app-th-1848854559)
 - [Lifehacker] [What Is Behavior Mirroring and When Should You Use It?](https://lifehacker.com/what-is-behavior-mirroring-and-when-should-you-use-it-1848849649)
 - [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
-- [Lifehacker] [How to Attract Butterflies to Your Garden and Yard](https://lifehacker.com/how-to-attract-butterflies-to-your-garden-and-yard-1848854130)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
