@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get DEV.to Articles Using DEV API - The Missing Piece of Code](https://dev.to/tmchuynh/get-devto-articles-using-dev-api-4oag)
+- [Dev.to/JS] [JSONPath with Alpine.js CSP build in Postman Visualizer](https://dev.to/marcusatlocalhost/jsonpath-with-alpinejs-csp-build-in-postman-visualizer-17ob)
 - [Dev.to/JS] [Add filters to your web camera or other editing properties with canvas element](https://dev.to/eneaslari/add-filters-to-your-web-camera-or-other-editing-properties-with-canvas-element-18l2)
 - [Dev.to/JS] [Destructuring of Arrays and Objects in Javascript](https://dev.to/benjaminbusari/destructuring-of-arrays-and-objects-in-javascript-5h2k)
 - [Dev.to/JS] [Checkers](https://dev.to/danny_ricchf34/checkers-4mbj)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [plusOne Array of Integers in Javascript](https://dev.to/urstrulyvishwak/plusone-array-of-integers-in-javascript-1ln5)
 - [Dev.to/JS] [Article for Dogs](https://dev.to/danny_ricchf34/article-for-dogs-4j7m)
 - [Dev.to/JS] [maxSubArraySum in Javascript](https://dev.to/urstrulyvishwak/maxsubarraysum-in-javascript-5138)
-- [Dev.to/JS] [Use package.json wisely](https://dev.to/amirhe/use-packagejson-bugs-wisely-ona)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
-- [Dev.to/JS] [Programming Tip #2: Avoid globals for dependencies; instead inject them as function arguments.](https://dev.to/jesterxl/programming-tip-2-avoid-primitives-use-product-types-d7)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
