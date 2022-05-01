@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lazy Loading with Intersection Observer API](https://dev.to/samuelorobosa/lazy-loading-with-intersection-observer-api-4oi4)
+- [Dev.to/JS] [Start Using Web Components with open-wc](https://dev.to/eparker/start-using-web-components-with-open-wc-339e)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Dev.to/JS] [Introducing Comparison Operators in JavaScript](https://dev.to/codecupdev/introducing-comparison-operators-in-javascript-5a6h)
 - [Dev.to/JS] [How to call the function where the updated context is passed as a parameter , again if the context is updated?](https://dev.to/smritirgi/how-to-call-the-function-again-if-the-context-is-updated-bge)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
 - [Dev.to/JS] [Stop using Array[index], use Array.at&lpar;&rpar; instead](https://dev.to/timotius/stop-using-arrayindex-use-arrayat-instead-44ka)
 - [Dev.to/JS] [Video Conference App with React, WebRTC and Firebase.](https://dev.to/hr21don/video-conference-app-with-react-webrtc-and-firebase-1l0b)
-- [Dev.to/JS] [Fireworks on click](https://dev.to/nicm42/fireworks-on-click-46j5)
-- [Dev.to/JS] [Cuidado com esse código no Javascript](https://dev.to/magoacademico/cuidado-com-esse-codigo-no-javascript-fab)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
