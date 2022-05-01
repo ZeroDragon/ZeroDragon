@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
+- [Dev.to/JS] [Input Character Limit with counter using HTML, CSS, and Javascript](https://dev.to/incoderweb/input-character-limit-with-counter-using-html-css-and-javascript-3kii)
+- [Dev.to/JS] [NFT Hero Components](https://dev.to/kumard3/nft-hero-components-5ek7)
+- [Dev.to/JS] [Fastest color conversion and blending in JS with typed arrays](https://dev.to/vipertechofficial/fastest-color-conversion-in-js-with-typed-arrays-abf)
 - [Dev.to/JS] [Lazy Loading with Intersection Observer API](https://dev.to/samuelorobosa/lazy-loading-with-intersection-observer-api-4oi4)
 - [Dev.to/JS] [Start Using Web Components with open-wc](https://dev.to/eparker/start-using-web-components-with-open-wc-339e)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
@@ -33,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Kicking off #30DaysOfSWA](https://dev.to/azure/kicking-off-30daysofswa-2d8g)
 - [Dev.to/JS] [JS Requests, AJAX](https://dev.to/coderx16/js-requests-ajax-38a)
 - [Dev.to/JS] [Day 20-24: Drum Machine](https://dev.to/kemystra/day-20-24-drum-machine-4d27)
-- [Dev.to/JS] [Heap and Stack in JS basics](https://dev.to/sofaki000/heap-and-stack-in-js-basics-2ppk)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
-- [Dev.to/JS] [Stop using Array[index], use Array.at&lpar;&rpar; instead](https://dev.to/timotius/stop-using-arrayindex-use-arrayat-instead-44ka)
-- [Dev.to/JS] [Video Conference App with React, WebRTC and Firebase.](https://dev.to/hr21don/video-conference-app-with-react-webrtc-and-firebase-1l0b)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
 - [Lifehacker] [How to Create a Universal Streaming Watchlist With Plex](https://lifehacker.com/how-to-create-a-universal-streaming-watchlist-with-plex-1848855290)
 - [Lifehacker] [Don&#39;t Get Scammed By &#39;WhatsApp Support&#39;](https://lifehacker.com/dont-get-scammed-by-whatsapp-support-1848855075)
-- [Lifehacker] [Clever Ways to Start a Conversation on a Dating App &lpar;That Aren’t Creepy, Cheesy, or Boring&rpar;](https://lifehacker.com/clever-ways-to-start-a-conversation-on-a-dating-app-th-1848854559)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
