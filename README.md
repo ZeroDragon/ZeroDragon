@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: The Event Loop](https://dev.to/stansey92/javascript-the-event-loop-28i6)
+- [Dev.to/JS] [Cumulative Style Sheets](https://dev.to/machy8/cumulative-style-sheets-557b)
+- [Dev.to/JS] [JavaScript: How to Power Up Your Logging](https://dev.to/simeg/javascript-how-to-power-up-your-logging-542m)
 - [Dev.to/JS] [Open Source Responsive Template and Component](https://dev.to/kumard3/open-source-responsive-template-and-component-2ojh)
 - [Dev.to/JS] [Object Oriented Programming w/ JavaScript | “this”, &quot;new&quot; &amp; constructors!](https://dev.to/ebhargro/object-oriented-programming-w-javascript-this-new-constructors-78b)
 - [Dev.to/JS] [Membuat Objek Dengan Melakukan Kloning](https://dev.to/arisca_abdullah/membuat-objek-dengan-melakukan-kloning-3mh7)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LeetCode - Combinations](https://dev.to/_alkesh26/leetcode-combinations-3390)
 - [Dev.to/JS] [Set up ESLint, Prettier and Husky in a React project | a step by step guide](https://dev.to/yvad60/setup-eslint-prettier-and-husky-in-a-node-project-a-step-by-step-guide-946)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
-- [Dev.to/JS] [Input Character Limit with counter using HTML, CSS, and Javascript](https://dev.to/incoderweb/input-character-limit-with-counter-using-html-css-and-javascript-3kii)
-- [Dev.to/JS] [NFT Hero Components](https://dev.to/kumard3/nft-hero-components-5ek7)
-- [Dev.to/JS] [Fastest color conversion and blending in JS with typed arrays](https://dev.to/vipertechofficial/fastest-color-conversion-in-js-with-typed-arrays-abf)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
