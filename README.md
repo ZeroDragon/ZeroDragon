@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A new way to construct/debug Arrays](https://dev.to/ml318097/a-new-way-to-constructdebug-arrays-46ch)
 - [Dev.to/JS] [Develop a Full-Fledged Component Library with React, just like Material UI](https://dev.to/ruppysuppy/develop-a-full-fledged-component-library-with-react-just-like-material-ui-50m0)
 - [Dev.to/JS] [What&#39;s an acceptable time to develop a landing page in React?](https://dev.to/thremulant/whats-an-acceptable-time-to-develop-a-landing-page-in-react-1217)
 - [Dev.to/JS] [Project showcase: Country Currency Information Search](https://dev.to/fig781/project-showcase-country-currency-information-search-1pcj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello guys, please do check out my article on OpenReplay tech blog. Thank you.](https://dev.to/nessiigreen/hello-guys-please-do-check-out-my-article-on-openreplay-tech-blog-thank-you-127c)
 - [Dev.to/JS] [JavaScript is being a struggle for me as a beginner](https://dev.to/mikael321/javascript-is-being-a-struggle-for-me-as-a-beginner-215f)
 - [Dev.to/JS] [A performant way to use PouchDB@7 on React Native in 2022](https://dev.to/craftzdog/a-performant-way-to-use-pouchdb7-on-react-native-in-2022-24ej)
-- [Dev.to/JS] [Post Messages To Slack Using AWS Lambda Function URLs](https://dev.to/josuebustos/post-messages-to-slack-using-aws-lambda-function-urls-5f2a)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
