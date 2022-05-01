@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Upload Files to S3 Object Storage &lpar;or MinIo&rpar; with Express.js](https://dev.to/franciscomendes10866/upload-files-to-minio-object-storage-s3-with-expressjs-3561)
+- [Dev.to/JS] [Tips to 5-hour small web apps / games](https://dev.to/whity/tips-to-5-hour-small-web-apps-games-g8)
+- [Dev.to/JS] [JavaScripting #1: como utilizar as declarações var, let e const?](https://dev.to/anewrites/javascripting-1-como-utilizar-as-declaracoes-var-let-e-const-1paa)
 - [Dev.to/JS] [JavaScript: The Event Loop](https://dev.to/stansey92/javascript-the-event-loop-28i6)
 - [Dev.to/JS] [Cumulative Style Sheets](https://dev.to/machy8/cumulative-style-sheets-557b)
 - [Dev.to/JS] [JavaScript: How to Power Up Your Logging](https://dev.to/simeg/javascript-how-to-power-up-your-logging-542m)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly Digest 17/2022](https://dev.to/marcobiedermann/weekly-digest-172022-o1)
 - [Dev.to/JS] [Simple TypeScript tricks for scalable apps](https://dev.to/bfunc/simple-typescript-tricks-for-scalable-apps-3k75)
 - [Dev.to/JS] [I create a package to simplify the work when using useReducer](https://dev.to/jason89521/i-create-a-package-to-simplify-the-work-when-using-usereducer-nb8)
-- [Dev.to/JS] [solve when button add image member in head](https://dev.to/omaraboelsayed/solve-when-button-add-image-member-in-head-156e)
-- [Dev.to/JS] [LeetCode - Combinations](https://dev.to/_alkesh26/leetcode-combinations-3390)
-- [Dev.to/JS] [Set up ESLint, Prettier and Husky in a React project | a step by step guide](https://dev.to/yvad60/setup-eslint-prettier-and-husky-in-a-node-project-a-step-by-step-guide-946)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
