@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
+- [Dev.to/JS] [Introducing Comparison Operators in JavaScript](https://dev.to/codecupdev/introducing-comparison-operators-in-javascript-5a6h)
+- [Dev.to/JS] [How to call the function where the updated context is passed as a parameter , again if the context is updated?](https://dev.to/smritirgi/how-to-call-the-function-again-if-the-context-is-updated-bge)
+- [Dev.to/JS] [Andoid in React Js 💻🌈 &lpar;Unofficial&rpar;](https://dev.to/blueedgetechno/andoid-in-react-js-unofficial-20cn)
 - [Dev.to/JS] [useRef Hook in React](https://dev.to/vanshsh/useref-hook-in-react-436b)
 - [Dev.to/JS] [Kicking off #30DaysOfSWA](https://dev.to/azure/kicking-off-30daysofswa-2d8g)
 - [Dev.to/JS] [JS Requests, AJAX](https://dev.to/coderx16/js-requests-ajax-38a)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Video Conference App with React, WebRTC and Firebase.](https://dev.to/hr21don/video-conference-app-with-react-webrtc-and-firebase-1l0b)
 - [Dev.to/JS] [Fireworks on click](https://dev.to/nicm42/fireworks-on-click-46j5)
 - [Dev.to/JS] [Cuidado com esse código no Javascript](https://dev.to/magoacademico/cuidado-com-esse-codigo-no-javascript-fab)
-- [Dev.to/JS] [Geeking-out on SVG Graphics part-one](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-one-512g)
-- [Dev.to/JS] [Import your GitHub or GitLab repository directly into Deno](https://dev.to/alexanderschau/import-your-github-or-gitlab-repository-directly-into-deno-c7p)
-- [Dev.to/JS] [Understand &quot;this&quot; in JavaScript](https://dev.to/shreyapd06/this-keyword-in-js-4g7b)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Create a Universal Streaming Watchlist With Plex](https://lifehacker.com/how-to-create-a-universal-streaming-watchlist-with-plex-1848855290)
 - [Lifehacker] [Don&#39;t Get Scammed By &#39;WhatsApp Support&#39;](https://lifehacker.com/dont-get-scammed-by-whatsapp-support-1848855075)
 - [Lifehacker] [Clever Ways to Start a Conversation on a Dating App &lpar;That Aren’t Creepy, Cheesy, or Boring&rpar;](https://lifehacker.com/clever-ways-to-start-a-conversation-on-a-dating-app-th-1848854559)
-- [Lifehacker] [What Is Behavior Mirroring and When Should You Use It?](https://lifehacker.com/what-is-behavior-mirroring-and-when-should-you-use-it-1848849649)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
