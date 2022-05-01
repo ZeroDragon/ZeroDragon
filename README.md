@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understand &quot;this&quot; in JavaScript](https://dev.to/shreyapd06/this-keyword-in-js-4g7b)
+- [Dev.to/JS] [Exploring JavaScript console.log object](https://dev.to/thedailytechtalk/exploring-javascript-consolelog-object-4ela)
 - [Dev.to/JS] [Day 1 - What is hoisting and how to prevent it in javascript?](https://dev.to/sanjaybabu/day-1-what-is-hoisting-and-how-to-prevent-it-in-javascript-2o84)
 - [Dev.to/JS] [My experience with Angular](https://dev.to/plabankr/my-experience-with-angular-4i9h)
 - [Dev.to/JS] [100 days of interview questions series!](https://dev.to/sanjaybabu/100-days-of-interview-questions-series-4d0a)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s an acceptable time to develop a landing page in React?](https://dev.to/thremulant/whats-an-acceptable-time-to-develop-a-landing-page-in-react-1217)
 - [Dev.to/JS] [Project showcase: Country Currency Information Search](https://dev.to/fig781/project-showcase-country-currency-information-search-1pcj)
 - [Dev.to/JS] [Building a Next.js Dashboard with Dynamic Charts and SSR](https://dev.to/shadid12/building-a-nextjs-dashboard-with-dynamic-charts-and-ssr-1i07)
-- [Dev.to/JS] [Batching in React](https://dev.to/shivamjjha/batching-in-react-4pp3)
-- [Dev.to/JS] [What is Lodash?](https://dev.to/harithzainudin/what-is-lodash-2286)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
