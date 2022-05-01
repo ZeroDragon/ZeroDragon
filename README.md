@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fireworks on click](https://dev.to/nicm42/fireworks-on-click-46j5)
+- [Dev.to/JS] [Cuidado com esse código no Javascript](https://dev.to/magoacademico/cuidado-com-esse-codigo-no-javascript-fab)
+- [Dev.to/JS] [Apple Keto Gummies - Weight Loss Reviews, Results, Is It Scam Or Legit?](https://dev.to/appleketoinfo/apple-keto-gummies-weight-loss-reviews-results-is-it-scam-or-legit-4l9n)
+- [Dev.to/JS] [Geeking-out on SVG Graphics part-one](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-one-512g)
+- [Dev.to/JS] [Import your GitHub or GitLab repository directly into Deno](https://dev.to/alexanderschau/import-your-github-or-gitlab-repository-directly-into-deno-c7p)
 - [Dev.to/JS] [Understand &quot;this&quot; in JavaScript](https://dev.to/shreyapd06/this-keyword-in-js-4g7b)
 - [Dev.to/JS] [Exploring JavaScript console.log object](https://dev.to/thedailytechtalk/exploring-javascript-consolelog-object-4ela)
 - [Dev.to/JS] [Day 1 - What is hoisting and how to prevent it in javascript?](https://dev.to/sanjaybabu/day-1-what-is-hoisting-and-how-to-prevent-it-in-javascript-2o84)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [100 days of interview questions series!](https://dev.to/sanjaybabu/100-days-of-interview-questions-series-4d0a)
 - [Dev.to/JS] [CSS Gradient Generator Tool](https://dev.to/yogeshdev/css-gradient-generator-tool-p7o)
 - [Dev.to/JS] [Split your e2e testing into interactive testing and scenario testing](https://dev.to/hiroyone/split-your-e2e-testing-into-interactive-testing-and-scenario-testing-mi7)
-- [Dev.to/JS] [A new way to construct/debug Arrays](https://dev.to/ml318097/a-new-way-to-constructdebug-arrays-46ch)
-- [Dev.to/JS] [Develop a Full-Fledged Component Library with React, just like Material UI](https://dev.to/ruppysuppy/develop-a-full-fledged-component-library-with-react-just-like-material-ui-50m0)
-- [Dev.to/JS] [What&#39;s an acceptable time to develop a landing page in React?](https://dev.to/thremulant/whats-an-acceptable-time-to-develop-a-landing-page-in-react-1217)
-- [Dev.to/JS] [Project showcase: Country Currency Information Search](https://dev.to/fig781/project-showcase-country-currency-information-search-1pcj)
-- [Dev.to/JS] [Building a Next.js Dashboard with Dynamic Charts and SSR](https://dev.to/shadid12/building-a-nextjs-dashboard-with-dynamic-charts-and-ssr-1i07)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
