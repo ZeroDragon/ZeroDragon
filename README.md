@@ -23,9 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Membuat Objek Dengan Melakukan Kloning](https://dev.to/arisca_abdullah/membuat-objek-dengan-melakukan-kloning-3mh7)
 - [Dev.to/JS] [Weekly Digest 17/2022](https://dev.to/marcobiedermann/weekly-digest-172022-o1)
-- [Dev.to/JS] [The Difference Between TypeScript Unions, Enums, and Objects](https://dev.to/camchenry/the-difference-between-typescript-unions-enums-and-objects-5e3e)
 - [Dev.to/JS] [Simple TypeScript tricks for scalable apps](https://dev.to/bfunc/simple-typescript-tricks-for-scalable-apps-3k75)
+- [Dev.to/JS] [I create a package to simplify the work when using useReducer](https://dev.to/jason89521/i-create-a-package-to-simplify-the-work-when-using-usereducer-nb8)
 - [Dev.to/JS] [solve when button add image member in head](https://dev.to/omaraboelsayed/solve-when-button-add-image-member-in-head-156e)
 - [Dev.to/JS] [LeetCode - Combinations](https://dev.to/_alkesh26/leetcode-combinations-3390)
 - [Dev.to/JS] [Set up ESLint, Prettier and Husky in a React project | a step by step guide](https://dev.to/yvad60/setup-eslint-prettier-and-husky-in-a-node-project-a-step-by-step-guide-946)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lazy Loading with Intersection Observer API](https://dev.to/samuelorobosa/lazy-loading-with-intersection-observer-api-4oi4)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Dev.to/JS] [Introducing Comparison Operators in JavaScript](https://dev.to/codecupdev/introducing-comparison-operators-in-javascript-5a6h)
-- [Dev.to/JS] [How to call the function where the updated context is passed as a parameter , again if the context is updated?](https://dev.to/smritirgi/how-to-call-the-function-again-if-the-context-is-updated-bge)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
