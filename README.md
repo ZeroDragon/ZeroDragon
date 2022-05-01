@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
+- [Dev.to/JS] [Stop using Array[index], use Array.at&lpar;&rpar; instead](https://dev.to/timotius/stop-using-arrayindex-use-arrayat-instead-44ka)
+- [Dev.to/JS] [Video Conference App with React, WebRTC and Firebase.](https://dev.to/hr21don/video-conference-app-with-react-webrtc-and-firebase-1l0b)
 - [Dev.to/JS] [Fireworks on click](https://dev.to/nicm42/fireworks-on-click-46j5)
 - [Dev.to/JS] [Cuidado com esse código no Javascript](https://dev.to/magoacademico/cuidado-com-esse-codigo-no-javascript-fab)
 - [Dev.to/JS] [Apple Keto Gummies - Weight Loss Reviews, Results, Is It Scam Or Legit?](https://dev.to/appleketoinfo/apple-keto-gummies-weight-loss-reviews-results-is-it-scam-or-legit-4l9n)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 1 - What is hoisting and how to prevent it in javascript?](https://dev.to/sanjaybabu/day-1-what-is-hoisting-and-how-to-prevent-it-in-javascript-2o84)
 - [Dev.to/JS] [My experience with Angular](https://dev.to/plabankr/my-experience-with-angular-4i9h)
 - [Dev.to/JS] [100 days of interview questions series!](https://dev.to/sanjaybabu/100-days-of-interview-questions-series-4d0a)
-- [Dev.to/JS] [CSS Gradient Generator Tool](https://dev.to/yogeshdev/css-gradient-generator-tool-p7o)
-- [Dev.to/JS] [Split your e2e testing into interactive testing and scenario testing](https://dev.to/hiroyone/split-your-e2e-testing-into-interactive-testing-and-scenario-testing-mi7)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Get Scammed By &#39;WhatsApp Support&#39;](https://lifehacker.com/dont-get-scammed-by-whatsapp-support-1848855075)
 - [Lifehacker] [Clever Ways to Start a Conversation on a Dating App &lpar;That Aren’t Creepy, Cheesy, or Boring&rpar;](https://lifehacker.com/clever-ways-to-start-a-conversation-on-a-dating-app-th-1848854559)
 - [Lifehacker] [What Is Behavior Mirroring and When Should You Use It?](https://lifehacker.com/what-is-behavior-mirroring-and-when-should-you-use-it-1848849649)
-- [Lifehacker] [Your Pool Gate Isn&#39;t Safe Enough](https://lifehacker.com/your-pool-gate-isnt-safe-enough-1848854443)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
