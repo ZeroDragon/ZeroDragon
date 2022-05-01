@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Project showcase: Country Currency Information Search](https://dev.to/fig781/project-showcase-country-currency-information-search-1pcj)
+- [Dev.to/JS] [Building a Next.js Dashboard with Dynamic Charts and SSR](https://dev.to/shadid12/building-a-nextjs-dashboard-with-dynamic-charts-and-ssr-1i07)
+- [Dev.to/JS] [Batching in React](https://dev.to/shivamjjha/batching-in-react-4pp3)
+- [Dev.to/JS] [What is Lodash?](https://dev.to/harithzainudin/what-is-lodash-2286)
 - [Dev.to/JS] [Lazy loading non-routable Angular modules — Imperative &amp; Declarative pattern](https://dev.to/madhust/lazy-loading-non-routable-angular-modules-imperative-declarative-pattern-3a33)
 - [Dev.to/JS] [Issue with React Context](https://dev.to/smritirgi/issue-with-react-context-3j1p)
 - [Dev.to/JS] [Hello guys, please do check out my article on OpenReplay tech blog. Thank you.](https://dev.to/nessiigreen/hello-guys-please-do-check-out-my-article-on-openreplay-tech-blog-thank-you-127c)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Post Messages To Slack Using AWS Lambda Function URLs](https://dev.to/josuebustos/post-messages-to-slack-using-aws-lambda-function-urls-5f2a)
 - [Dev.to/JS] [Rust from 0 to 80% for JavaScript Developers](https://dev.to/michaelsalim/rust-from-0-to-80-for-javascript-developers-5159)
 - [Dev.to/JS] [Building an URL Shortener with Github Actions, Serverless Framework, and AWS Function Urls](https://dev.to/davidshaek/building-an-url-shortener-with-github-actions-serverless-framework-and-aws-function-urls-468f)
-- [Dev.to/JS] [The Bridge Design Pattern in JavaScript](https://dev.to/jsmanifest/the-bridge-design-pattern-in-javascript-4n0d)
-- [Dev.to/JS] [Which the best Ide ?](https://dev.to/alexmaldonadosoto/which-the-best-ide--3o63)
-- [Dev.to/JS] [Navigating fetch API](https://dev.to/gabrielcarino/navigating-fetch-api-oi7)
-- [Dev.to/JS] [Menggunakan Factory Method Untuk Membuat Object](https://dev.to/arisca_abdullah/menggunakan-factory-method-untuk-membuat-object-2g0f)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
