@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rust from 0 to 80% for JavaScript Developers](https://dev.to/michaelsalim/rust-from-0-to-80-for-javascript-developers-5159)
+- [Dev.to/JS] [Building an URL Shortener with Github Actions, Serverless Framework, and AWS Function Urls](https://dev.to/davidshaek/building-an-url-shortener-with-github-actions-serverless-framework-and-aws-function-urls-468f)
+- [Dev.to/JS] [The Bridge Design Pattern in JavaScript](https://dev.to/jsmanifest/the-bridge-design-pattern-in-javascript-4n0d)
+- [Dev.to/JS] [Which the best Ide ?](https://dev.to/alexmaldonadosoto/which-the-best-ide--3o63)
 - [Dev.to/JS] [Navigating fetch API](https://dev.to/gabrielcarino/navigating-fetch-api-oi7)
 - [Dev.to/JS] [Menggunakan Factory Method Untuk Membuat Object](https://dev.to/arisca_abdullah/menggunakan-factory-method-untuk-membuat-object-2g0f)
 - [Dev.to/JS] [Strapi quirks you should know about](https://dev.to/paratron/strapi-quirks-you-should-know-about-4ie4)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add filters to your web camera or other editing properties with canvas element](https://dev.to/eneaslari/add-filters-to-your-web-camera-or-other-editing-properties-with-canvas-element-18l2)
 - [Dev.to/JS] [Destructuring of Arrays and Objects in Javascript](https://dev.to/benjaminbusari/destructuring-of-arrays-and-objects-in-javascript-5h2k)
 - [Dev.to/JS] [Checkers](https://dev.to/danny_ricchf34/checkers-4mbj)
-- [Dev.to/JS] [Chess Game](https://dev.to/danny_ricchf34/chess-game-43p6)
-- [Dev.to/JS] [Next.js Shopping Website](https://dev.to/bibinprathap/nextjs-shopping-website-4cli)
-- [Dev.to/JS] [Select the Prebuilt Gaming PC under $2000 For Programming](https://dev.to/cartsellomarket/select-the-prebuilt-gaming-pc-under-2000-for-programming-3goj)
-- [Dev.to/JS] [Detailed Article for Birds](https://dev.to/danny_ricchf34/detailed-article-for-birds-1ili)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
