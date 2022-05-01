@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lazy loading non-routable Angular modules — Imperative &amp; Declarative pattern](https://dev.to/madhust/lazy-loading-non-routable-angular-modules-imperative-declarative-pattern-3a33)
 - [Dev.to/JS] [Issue with React Context](https://dev.to/smritirgi/issue-with-react-context-3j1p)
 - [Dev.to/JS] [Hello guys, please do check out my article on OpenReplay tech blog. Thank you.](https://dev.to/nessiigreen/hello-guys-please-do-check-out-my-article-on-openreplay-tech-blog-thank-you-127c)
 - [Dev.to/JS] [JavaScript is being a struggle for me as a beginner](https://dev.to/mikael321/javascript-is-being-a-struggle-for-me-as-a-beginner-215f)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which the best Ide ?](https://dev.to/alexmaldonadosoto/which-the-best-ide--3o63)
 - [Dev.to/JS] [Navigating fetch API](https://dev.to/gabrielcarino/navigating-fetch-api-oi7)
 - [Dev.to/JS] [Menggunakan Factory Method Untuk Membuat Object](https://dev.to/arisca_abdullah/menggunakan-factory-method-untuk-membuat-object-2g0f)
-- [Dev.to/JS] [Strapi quirks you should know about](https://dev.to/paratron/strapi-quirks-you-should-know-about-4ie4)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
