@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 1 - What is hoisting and how to prevent it in javascript?](https://dev.to/sanjaybabu/day-1-what-is-hoisting-and-how-to-prevent-it-in-javascript-2o84)
+- [Dev.to/JS] [My experience with Angular](https://dev.to/plabankr/my-experience-with-angular-4i9h)
+- [Dev.to/JS] [100 days of interview questions series!](https://dev.to/sanjaybabu/100-days-of-interview-questions-series-4d0a)
+- [Dev.to/JS] [CSS Gradient Generator Tool](https://dev.to/yogeshdev/css-gradient-generator-tool-p7o)
+- [Dev.to/JS] [Split your e2e testing into interactive testing and scenario testing](https://dev.to/hiroyone/split-your-e2e-testing-into-interactive-testing-and-scenario-testing-mi7)
 - [Dev.to/JS] [A new way to construct/debug Arrays](https://dev.to/ml318097/a-new-way-to-constructdebug-arrays-46ch)
 - [Dev.to/JS] [Develop a Full-Fledged Component Library with React, just like Material UI](https://dev.to/ruppysuppy/develop-a-full-fledged-component-library-with-react-just-like-material-ui-50m0)
 - [Dev.to/JS] [What&#39;s an acceptable time to develop a landing page in React?](https://dev.to/thremulant/whats-an-acceptable-time-to-develop-a-landing-page-in-react-1217)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Next.js Dashboard with Dynamic Charts and SSR](https://dev.to/shadid12/building-a-nextjs-dashboard-with-dynamic-charts-and-ssr-1i07)
 - [Dev.to/JS] [Batching in React](https://dev.to/shivamjjha/batching-in-react-4pp3)
 - [Dev.to/JS] [What is Lodash?](https://dev.to/harithzainudin/what-is-lodash-2286)
-- [Dev.to/JS] [Lazy loading non-routable Angular modules — Imperative &amp; Declarative pattern](https://dev.to/madhust/lazy-loading-non-routable-angular-modules-imperative-declarative-pattern-3a33)
-- [Dev.to/JS] [Issue with React Context](https://dev.to/smritirgi/issue-with-react-context-3j1p)
-- [Dev.to/JS] [Hello guys, please do check out my article on OpenReplay tech blog. Thank you.](https://dev.to/nessiigreen/hello-guys-please-do-check-out-my-article-on-openreplay-tech-blog-thank-you-127c)
-- [Dev.to/JS] [JavaScript is being a struggle for me as a beginner](https://dev.to/mikael321/javascript-is-being-a-struggle-for-me-as-a-beginner-215f)
-- [Dev.to/JS] [A performant way to use PouchDB@7 on React Native in 2022](https://dev.to/craftzdog/a-performant-way-to-use-pouchdb7-on-react-native-in-2022-24ej)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
