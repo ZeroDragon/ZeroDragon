@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Responsive Template and Component](https://dev.to/kumard3/open-source-responsive-template-and-component-2ojh)
+- [Dev.to/JS] [Object Oriented Programming w/ JavaScript | “this”, &quot;new&quot; &amp; constructors!](https://dev.to/ebhargro/object-oriented-programming-w-javascript-this-new-constructors-78b)
 - [Dev.to/JS] [Membuat Objek Dengan Melakukan Kloning](https://dev.to/arisca_abdullah/membuat-objek-dengan-melakukan-kloning-3mh7)
 - [Dev.to/JS] [Weekly Digest 17/2022](https://dev.to/marcobiedermann/weekly-digest-172022-o1)
 - [Dev.to/JS] [Simple TypeScript tricks for scalable apps](https://dev.to/bfunc/simple-typescript-tricks-for-scalable-apps-3k75)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Input Character Limit with counter using HTML, CSS, and Javascript](https://dev.to/incoderweb/input-character-limit-with-counter-using-html-css-and-javascript-3kii)
 - [Dev.to/JS] [NFT Hero Components](https://dev.to/kumard3/nft-hero-components-5ek7)
 - [Dev.to/JS] [Fastest color conversion and blending in JS with typed arrays](https://dev.to/vipertechofficial/fastest-color-conversion-in-js-with-typed-arrays-abf)
-- [Dev.to/JS] [Lazy Loading with Intersection Observer API](https://dev.to/samuelorobosa/lazy-loading-with-intersection-observer-api-4oi4)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
-- [Dev.to/JS] [Introducing Comparison Operators in JavaScript](https://dev.to/codecupdev/introducing-comparison-operators-in-javascript-5a6h)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
