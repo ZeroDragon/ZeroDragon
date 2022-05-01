@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript is being a struggle for me as a beginner](https://dev.to/mikael321/javascript-is-being-a-struggle-for-me-as-a-beginner-215f)
 - [Dev.to/JS] [A performant way to use PouchDB@7 on React Native in 2022](https://dev.to/craftzdog/a-performant-way-to-use-pouchdb7-on-react-native-in-2022-24ej)
 - [Dev.to/JS] [Post Messages To Slack Using AWS Lambda Function URLs](https://dev.to/josuebustos/post-messages-to-slack-using-aws-lambda-function-urls-5f2a)
 - [Dev.to/JS] [Rust from 0 to 80% for JavaScript Developers](https://dev.to/michaelsalim/rust-from-0-to-80-for-javascript-developers-5159)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Strapi quirks you should know about](https://dev.to/paratron/strapi-quirks-you-should-know-about-4ie4)
 - [Dev.to/JS] [Get DEV.to Articles Using DEV API - The Missing Piece of Code](https://dev.to/tmchuynh/get-devto-articles-using-dev-api-4oag)
 - [Dev.to/JS] [JSONPath with Alpine.js CSP build in Postman Visualizer](https://dev.to/marcusatlocalhost/jsonpath-with-alpinejs-csp-build-in-postman-visualizer-17ob)
-- [Dev.to/JS] [Add filters to your web camera or other editing properties with canvas element](https://dev.to/eneaslari/add-filters-to-your-web-camera-or-other-editing-properties-with-canvas-element-18l2)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
