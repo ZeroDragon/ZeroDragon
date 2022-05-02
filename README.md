@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeJS.dev의 거짓말.](https://dev.to/jechol/nodejs-geojismal-pp4)
 - [Dev.to/JS] [Full stack software engineer](https://dev.to/nipunsanjula/full-stack-software-engineer-3en1)
 - [Dev.to/JS] [Programing is Like a Dandelion](https://dev.to/orionaon/programing-is-like-a-dandelion-2lig)
 - [Dev.to/JS] [Medusa images uploading using Imgur API](https://dev.to/ivanchiou/medusa-images-uploading-using-imgur-api-2hli)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte: Labeled Statements](https://dev.to/aryakris/svelte-labeled-statements-1c6n)
 - [Dev.to/JS] [Javascript Assíncrono - Fluxo assíncrono e Event Loop](https://dev.to/cjvaz/javascript-assincrono-fluxo-assincrono-e-event-loop-1jp6)
 - [Dev.to/JS] [Coding partner](https://dev.to/korneldoe/coding-partner-3l30)
-- [Dev.to/JS] [Upload Files to S3 Object Storage &lpar;or MinIo&rpar; with Express.js](https://dev.to/franciscomendes10866/upload-files-to-minio-object-storage-s3-with-expressjs-3561)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
