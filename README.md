@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#01: Introducing Static Web Apps](https://dev.to/azure/01-introducing-static-web-apps-58hd)
+- [Dev.to/JS] [Nodejs: cd my-journey00](https://dev.to/adebiyiitunuayo/nodejs-cd-my-journey00-3d91)
+- [Dev.to/JS] [How to debug a React app](https://dev.to/colocodes/how-to-debug-a-react-app-51l4)
+- [Lifehacker] [This Article Was Written by AI](https://lifehacker.com/this-article-was-written-by-ai-1848869022)
+- [Lifehacker] [20 of the Most Misunderstood and Misinterpreted Movies Ever Made](https://lifehacker.com/20-of-the-most-misunderstood-and-misinterpreted-movies-1848864261)
 - [Dev.to/JS] [Managing Secrets and Output Variables With Serverless Framework Enterprise](https://dev.to/serverless_inc/managing-secrets-and-output-variables-with-serverless-framework-enterprise-1lao)
 - [Dev.to/JS] [Adding Animated Illustrations to an Angular App with Lottie &lpar;ngx-lottie&rpar;](https://dev.to/riapacheco/adding-animated-illustrations-to-an-angular-app-with-lottie-ngx-lottie-4j0o)
 - [Dev.to/JS] [Scoped Slots in Vue for Dummies](https://dev.to/carstenbehrens/scoped-slots-in-vue-for-dummies-2jjg)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is there any way to Hide element for online website from screensharing &lpar; Mikogo , Screenleap , JoinMe&rpar;](https://dev.to/7amz799/is-there-any-way-to-hide-element-for-online-website-from-screensharing-mikogo-screenleap-joinme-1k6c)
 - [Dev.to/JS] [The HTML first approach](https://dev.to/rocambille/the-html-first-approach-2lbl)
 - [Lifehacker] [How to Stop Your Pixel 6 From Overheating](https://lifehacker.com/how-to-stop-your-pixel-6-from-overheating-1848867797)
-- [Dev.to/JS] [State management in SolidJS applications](https://dev.to/phongnn/state-management-in-solidjs-applications-62p)
-- [Dev.to/JS] [Day-78 Training At Ryaz](https://dev.to/mahin651/day-78-training-at-ryaz-3h1h)
-- [Dev.to/JS] [React Tricks Miniseries 3: How to remove element from useState array](https://dev.to/urielbitton/react-tricks-miniseries-3-how-to-remove-element-from-usestate-array-13h1)
 - [Lifehacker] [15 of the Best Shows on Every Streaming Service in May 2022](https://lifehacker.com/15-of-the-best-shows-on-every-streaming-service-in-may-1848856576)
 - [Lifehacker] [The 10 Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009)
 - [Lifehacker] [The 7 Deadly Sins of Commuting](https://lifehacker.com/the-7-deadly-sins-of-commuting-1848863017)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Pre-Sprout Your Seeds](https://lifehacker.com/why-you-should-pre-sprout-your-seeds-1848859050)
 - [Lifehacker] [5 Movies Best Watched in Total Ignorance](https://lifehacker.com/5-movies-best-watched-in-total-ignorance-1848859792)
 - [Lifehacker] [Which ePaper Tablet Is Best for Digital Notes?](https://lifehacker.com/which-epaper-tablet-is-best-for-digital-notes-1848859314)
-- [Lifehacker] [The Least Popular States to Visit in the U.S. &lpar;and Why You Should Travel There&rpar;](https://lifehacker.com/the-least-popular-states-to-visit-in-the-u-s-and-why-1848859294)
-- [Lifehacker] [16 Movies That Prove Social Media Was Horrifying Even Before Elon Musk Bought Twitter](https://lifehacker.com/16-movies-that-prove-social-media-was-horrifying-even-b-1848853135)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
