@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Assíncrono - Fluxo assíncrono e Event Loop](https://dev.to/cjvaz/javascript-assincrono-fluxo-assincrono-e-event-loop-1jp6)
+- [Dev.to/JS] [Coding partner](https://dev.to/korneldoe/coding-partner-3l30)
 - [Dev.to/JS] [Upload Files to S3 Object Storage &lpar;or MinIo&rpar; with Express.js](https://dev.to/franciscomendes10866/upload-files-to-minio-object-storage-s3-with-expressjs-3561)
 - [Dev.to/JS] [Tips to 5-hour small web apps / games](https://dev.to/whity/tips-to-5-hour-small-web-apps-games-g8)
 - [Dev.to/JS] [JavaScripting #1: como utilizar as declarações var, let e const?](https://dev.to/anewrites/javascripting-1-como-utilizar-as-declaracoes-var-let-e-const-1paa)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Object Oriented Programming w/ JavaScript | “this”, &quot;new&quot; &amp; constructors!](https://dev.to/ebhargro/object-oriented-programming-w-javascript-this-new-constructors-78b)
 - [Dev.to/JS] [Membuat Objek Dengan Melakukan Kloning](https://dev.to/arisca_abdullah/membuat-objek-dengan-melakukan-kloning-3mh7)
 - [Dev.to/JS] [Weekly Digest 17/2022](https://dev.to/marcobiedermann/weekly-digest-172022-o1)
-- [Dev.to/JS] [Simple TypeScript tricks for scalable apps](https://dev.to/bfunc/simple-typescript-tricks-for-scalable-apps-3k75)
-- [Dev.to/JS] [I create a package to simplify the work when using useReducer](https://dev.to/jason89521/i-create-a-package-to-simplify-the-work-when-using-usereducer-nb8)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
