@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Full stack software engineer](https://dev.to/nipunsanjula/full-stack-software-engineer-3en1)
+- [Dev.to/JS] [Programing is Like a Dandelion](https://dev.to/orionaon/programing-is-like-a-dandelion-2lig)
+- [Dev.to/JS] [Medusa images uploading using Imgur API](https://dev.to/ivanchiou/medusa-images-uploading-using-imgur-api-2hli)
 - [Dev.to/JS] [Month 5 of my Coding Journey](https://dev.to/taepal467/month-5-of-my-coding-journey-1b9c)
 - [Dev.to/JS] [Axios some info](https://dev.to/swislokdev/axios-some-info-30p7)
 - [Dev.to/JS] [How to make a CLI based movie scrapper using NodeJS](https://dev.to/raptorcentauri/how-to-make-a-cli-based-movie-scrapper-using-nodejs-1252)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Assíncrono - Fluxo assíncrono e Event Loop](https://dev.to/cjvaz/javascript-assincrono-fluxo-assincrono-e-event-loop-1jp6)
 - [Dev.to/JS] [Coding partner](https://dev.to/korneldoe/coding-partner-3l30)
 - [Dev.to/JS] [Upload Files to S3 Object Storage &lpar;or MinIo&rpar; with Express.js](https://dev.to/franciscomendes10866/upload-files-to-minio-object-storage-s3-with-expressjs-3561)
-- [Dev.to/JS] [Tips to 5-hour small web apps / games](https://dev.to/whity/tips-to-5-hour-small-web-apps-games-g8)
-- [Dev.to/JS] [JavaScripting #1: como utilizar as declarações var, let e const?](https://dev.to/anewrites/javascripting-1-como-utilizar-as-declaracoes-var-let-e-const-1paa)
-- [Dev.to/JS] [JavaScript: The Event Loop](https://dev.to/stansey92/javascript-the-event-loop-28i6)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
