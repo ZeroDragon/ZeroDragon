@@ -23,20 +23,22 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Mobile App using HTML, CSS, and JavaScript](https://dev.to/asayerio_techblog/building-a-mobile-app-using-html-css-and-javascript-209)
+- [Dev.to/JS] [typeof and lookup type in typescript](https://dev.to/rubiin/typeof-and-lookup-type-in-typescript-40o4)
+- [Lifehacker] [The 10 Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009)
+- [Dev.to/JS] [Dynamic HTML Select Drop Down List Using JavaScript](https://dev.to/hirajatamil/dynamic-html-select-drop-down-list-using-javascript-4d72)
+- [Dev.to/JS] [Search and Filter items of table using pure JavaScript.](https://dev.to/technicalvandar885/search-and-filter-items-of-table-using-pure-javascript-4ioi)
+- [Dev.to/JS] [Take a Data Adventure with MongoDB Aggregations, Part 1](https://dev.to/derekb_wi/take-a-data-adventure-with-mongodb-aggregations-part-1-2m0g)
+- [Dev.to/JS] [First Project in React &amp; Ts | Valorant Wiki inn](https://dev.to/matteol/first-project-in-react-ts-valorant-wiki-inn-4en4)
+- [Lifehacker] [The 7 Deadly Sins of Commuting](https://lifehacker.com/the-7-deadly-sins-of-commuting-1848863017)
 - [Dev.to/JS] [Ultime Guide to Data Types in JavaScript](https://dev.to/koladev/ultime-guide-to-data-types-in-javascipt-3nof)
 - [Dev.to/JS] [React Material UI Visual Editor](https://dev.to/darkartistry/react-material-ui-visual-editor-3if8)
 - [Dev.to/JS] [Best JavaScript UI Component Libraries to use in 2022](https://dev.to/chadwinjdeysel/best-javascript-ui-component-libraries-to-use-in-2022-1b48)
 - [Dev.to/JS] [Nx v14 is out - Here is all you need to know!](https://dev.to/nx/nx-v14-is-out-here-is-all-you-need-to-know-2nhc)
 - [Dev.to/JS] [How to get promoted and get ahead as a developer.](https://dev.to/tyaga001/how-to-get-promoted-and-get-ahead-as-a-developer-lhc)
 - [Dev.to/JS] [Learning React js and learned about forms need more practice](https://dev.to/shrey802/learning-react-js-and-learned-about-forms-need-more-practice-1cl1)
-- [Dev.to/JS] [Fastify basics for beginners | A better alternative to Express.js](https://dev.to/thatanjan/fastify-basics-for-beginners-a-better-alternative-to-expressjs-34il)
-- [Dev.to/JS] [can someone help me, I&#39;m trying to simulate the click in the html only for specific keys](https://dev.to/lordghapa/can-someone-help-me-im-trying-to-simulate-the-click-in-the-html-only-for-specific-keys-1ppi)
 - [Lifehacker] [The Seven Different Types of Jerks at Work &lpar;and How to Deal With Them&rpar;](https://lifehacker.com/the-seven-different-types-of-jerks-at-work-and-how-to-1848847911)
 - [Lifehacker] [Five Spring Allium Recipes to Make Before It’s too Late](https://lifehacker.com/five-spring-allium-recipes-to-make-before-it-s-too-late-1848857028)
-- [Dev.to/JS] [Web Developers, which is your favorite open source Dashboard template?](https://dev.to/prahladyeri/web-developers-which-is-your-favorite-open-source-dashboard-template-3ofo)
-- [Dev.to/JS] [Amazing preview images with Next.js and LQIP Modern](https://dev.to/anishde12020/amazing-preview-images-with-nextjs-and-lqip-modern-1io9)
-- [Dev.to/JS] [Copy to clipboard using javascript.](https://dev.to/technicalvandar885/copy-to-clipboard-using-javascript-25n4)
-- [Dev.to/JS] [A Guide to Understanding Vue Lifecycle Hooks](https://dev.to/smpnjn/a-guide-to-understanding-vue-lifecycle-hooks-kdl)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Only Right Way to Serve a Mom Breakfast in Bed on Mother’s Day](https://lifehacker.com/this-is-the-only-right-way-to-serve-a-mom-breakfast-in-1848855194)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
-- [Lifehacker] [Telltale Signs You’re Looking at a Manipulated Image](https://lifehacker.com/telltale-signs-you-re-looking-at-a-manipulated-image-1848855015)
-- [Lifehacker] [How to Skip the Office Pizza Party and Still Be a ‘Team Player’](https://lifehacker.com/how-to-skip-the-office-pizza-party-and-still-be-a-team-1848855137)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
