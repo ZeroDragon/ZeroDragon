@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Star Wars Crawler with Azure Static Web Apps - Part 3](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-3-41ip)
+- [Dev.to/JS] [Membuat Objek Bersarang Dengan Memanfaatkan Composite Class](https://dev.to/arisca_abdullah/membuat-objek-bersarang-dengan-memanfaatkan-composite-class-8ef)
+- [Dev.to/JS] [Building Star Wars Crawler with Azure Static Web Apps - Part 2](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-2-3hc0)
+- [Dev.to/JS] [React Refs: The Complete Story](https://dev.to/this-is-learning/react-refs-the-complete-story-16km)
+- [Dev.to/JS] [Putting Dev.to to work - using it as a CMS](https://dev.to/plutonus/putting-devto-to-work-using-it-as-a-cms-1234)
+- [Lifehacker] [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
 - [Dev.to/JS] [Building Star Wars Crawler with Azure Static Web Apps - Part 1](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-1-3o39)
 - [Dev.to/JS] [Ng-News: Episode 22/17](https://dev.to/rainerhahnekamp/ng-news-episode-2217-3085)
 - [Dev.to/JS] [Best Decision I Ever Made Since I Started Coding?](https://dev.to/soclarence/best-decision-i-ever-made-since-i-started-coding-4o9h)
@@ -34,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a JavaScript Product Catalog Application](https://dev.to/grapecity/how-to-build-a-javascript-product-catalog-application-5c1l)
 - [Lifehacker] [What’s the Worst Advice You’ve Ever Received?](https://lifehacker.com/what-s-the-worst-advice-you-ve-ever-received-1848869696)
 - [Dev.to/JS] [#01: Introducing Static Web Apps](https://dev.to/azure/01-introducing-static-web-apps-58hd)
-- [Dev.to/JS] [Nodejs: cd my-journey00](https://dev.to/adebiyiitunuayo/nodejs-cd-my-journey00-3d91)
-- [Dev.to/JS] [How to debug a React app](https://dev.to/colocodes/how-to-debug-a-react-app-51l4)
 - [Lifehacker] [This Article Was Written by AI](https://lifehacker.com/this-article-was-written-by-ai-1848869022)
 - [Lifehacker] [20 of the Most Misunderstood and Misinterpreted Movies Ever Made](https://lifehacker.com/20-of-the-most-misunderstood-and-misinterpreted-movies-1848864261)
-- [Dev.to/JS] [Managing Secrets and Output Variables With Serverless Framework Enterprise](https://dev.to/serverless_inc/managing-secrets-and-output-variables-with-serverless-framework-enterprise-1lao)
-- [Dev.to/JS] [Adding Animated Illustrations to an Angular App with Lottie &lpar;ngx-lottie&rpar;](https://dev.to/riapacheco/adding-animated-illustrations-to-an-angular-app-with-lottie-ngx-lottie-4j0o)
-- [Dev.to/JS] [Scoped Slots in Vue for Dummies](https://dev.to/carstenbehrens/scoped-slots-in-vue-for-dummies-2jjg)
 - [Lifehacker] [Should You Remove the Gills From Your Portobello Mushrooms?](https://lifehacker.com/should-you-remove-the-gills-from-your-portobello-mushro-1848868829)
 - [Lifehacker] [5 of the Most Useful Google Maps Settings](https://lifehacker.com/5-of-the-most-useful-google-maps-settings-1848868085)
 - [Lifehacker] [How to Spot a Bad Viral Recipe](https://lifehacker.com/how-to-spot-a-bad-viral-recipe-1848859610)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
-- [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
