@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Star Wars Crawler with Azure Static Web Apps - Part 1](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-1-3o39)
+- [Dev.to/JS] [Ng-News: Episode 22/17](https://dev.to/rainerhahnekamp/ng-news-episode-2217-3085)
+- [Dev.to/JS] [Best Decision I Ever Made Since I Started Coding?](https://dev.to/soclarence/best-decision-i-ever-made-since-i-started-coding-4o9h)
+- [Lifehacker] [Five Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/five-things-in-your-home-you-should-probably-replace-ri-1848869645)
+- [Lifehacker] [When to Watch the Lunar Eclipse in May](https://lifehacker.com/when-to-watch-the-lunar-eclipse-in-may-1848869638)
 - [Dev.to/JS] [&lpar;React&rpar;ion news : Easy As Pie](https://dev.to/charleebrown/reaction-news-easy-as-pie-204l)
 - [Dev.to/JS] [Throwing around text - Kinetic typography part 3: The Walking Text thet follows you 🧟🧟](https://dev.to/thormeier/throwing-around-text-kinetic-typography-part-3-the-walking-text-thet-follows-you-17mb)
 - [Lifehacker] [Are Gas Stoves Bad for Your Health?](https://lifehacker.com/are-gas-stoves-bad-for-your-health-1848869920)
@@ -37,12 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Animated Illustrations to an Angular App with Lottie &lpar;ngx-lottie&rpar;](https://dev.to/riapacheco/adding-animated-illustrations-to-an-angular-app-with-lottie-ngx-lottie-4j0o)
 - [Dev.to/JS] [Scoped Slots in Vue for Dummies](https://dev.to/carstenbehrens/scoped-slots-in-vue-for-dummies-2jjg)
 - [Lifehacker] [Should You Remove the Gills From Your Portobello Mushrooms?](https://lifehacker.com/should-you-remove-the-gills-from-your-portobello-mushro-1848868829)
-- [Dev.to/JS] [Methods in Javascript](https://dev.to/kibetamos/methods-in-javascript-50c6)
 - [Lifehacker] [5 of the Most Useful Google Maps Settings](https://lifehacker.com/5-of-the-most-useful-google-maps-settings-1848868085)
-- [Dev.to/JS] [Building ArcGIS API for JavaScript Apps with NextJS](https://dev.to/odoenet/building-arcgis-api-for-javascript-apps-with-nextjs-2pp2)
 - [Lifehacker] [How to Spot a Bad Viral Recipe](https://lifehacker.com/how-to-spot-a-bad-viral-recipe-1848859610)
 - [Lifehacker] [How to Avoid Getting Bumped From Your Next Flight](https://lifehacker.com/how-to-avoid-getting-bumped-from-your-next-flight-1848868554)
-- [Dev.to/JS] [thin.dev: Realtime-by-default BaaS &lpar;Backend-as-a-Service&rpar;](https://dev.to/digitallyinduced/thindev-realtime-by-default-baas-backend-as-a-service-32po)
 - [Lifehacker] [How to Stop Your Pixel 6 From Overheating](https://lifehacker.com/how-to-stop-your-pixel-6-from-overheating-1848867797)
 - [Lifehacker] [15 of the Best Shows on Every Streaming Service in May 2022](https://lifehacker.com/15-of-the-best-shows-on-every-streaming-service-in-may-1848856576)
 - [Lifehacker] [The 10 Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Get Your Personal Information Off Google](https://lifehacker.com/you-can-finally-get-your-personal-information-off-googl-1848861331)
 - [Lifehacker] [How to Get Your Resume Past an Automated Applicant Tracking System](https://lifehacker.com/how-to-get-your-resume-past-an-automated-applicant-trac-1848856694)
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
-- [Lifehacker] [How to Fix &lpar;or Prevent&rpar; Blackouts on Your Nintendo Switch](https://lifehacker.com/how-to-fix-or-prevent-blackouts-on-your-nintendo-swit-1848859631)
-- [Lifehacker] [Why You Should Pre-Sprout Your Seeds](https://lifehacker.com/why-you-should-pre-sprout-your-seeds-1848859050)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
