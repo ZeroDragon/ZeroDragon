@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 High-Quality Free Resources That Will Make Every Web Developer&#39;s Life Easier](https://dev.to/pankod/10-high-quality-free-resources-that-will-make-every-web-developers-life-easier-4e34)
+- [Dev.to/JS] [4 steps for developing the DeX application](https://dev.to/shreyvijayvargiya/4-steps-for-developing-the-dex-application-55hk)
+- [Dev.to/JS] [[HELP]::Problem Solving](https://dev.to/machineno15/helpproblem-solving-50kd)
+- [Dev.to/JS] [Best Open-Source Headless CMS to Try for Your Next Application](https://dev.to/pankod/best-open-source-headless-cms-to-try-for-your-next-application-lpl)
+- [Dev.to/JS] [How to Create Full Stack React/Next.JS Web App in Few Hour](https://dev.to/pankod/how-to-create-full-stack-reactnextjs-web-app-in-few-hour-2o2p)
 - [Dev.to/JS] [NodeJS.dev의 거짓말.](https://dev.to/jechol/nodejs-geojismal-pp4)
 - [Dev.to/JS] [Full stack software engineer](https://dev.to/nipunsanjula/full-stack-software-engineer-3en1)
 - [Dev.to/JS] [Programing is Like a Dandelion](https://dev.to/orionaon/programing-is-like-a-dandelion-2lig)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Month 5 of my Coding Journey](https://dev.to/taepal467/month-5-of-my-coding-journey-1b9c)
 - [Dev.to/JS] [Axios some info](https://dev.to/swislokdev/axios-some-info-30p7)
 - [Dev.to/JS] [How to make a CLI based movie scrapper using NodeJS](https://dev.to/raptorcentauri/how-to-make-a-cli-based-movie-scrapper-using-nodejs-1252)
-- [Dev.to/JS] [How to mock FileList on Vitest](https://dev.to/akirakashihara/how-to-mock-filelist-on-vitest-or-jest-4494)
-- [Dev.to/JS] [22 JavaScript Canvas Filters &lpar;Just like Instagram&rpar; #SmartHack](https://dev.to/vipertechofficial/22-javascript-canvas-filters-just-like-instagram-smarthack-55b)
-- [Dev.to/JS] [Svelte: Labeled Statements](https://dev.to/aryakris/svelte-labeled-statements-1c6n)
-- [Dev.to/JS] [Javascript Assíncrono - Fluxo assíncrono e Event Loop](https://dev.to/cjvaz/javascript-assincrono-fluxo-assincrono-e-event-loop-1jp6)
-- [Dev.to/JS] [Coding partner](https://dev.to/korneldoe/coding-partner-3l30)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
