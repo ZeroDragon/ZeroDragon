@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&lpar;React&rpar;ion news : Easy As Pie](https://dev.to/charleebrown/reaction-news-easy-as-pie-204l)
+- [Dev.to/JS] [Throwing around text - Kinetic typography part 3: The Walking Text thet follows you 🧟🧟](https://dev.to/thormeier/throwing-around-text-kinetic-typography-part-3-the-walking-text-thet-follows-you-17mb)
+- [Lifehacker] [Are Gas Stoves Bad for Your Health?](https://lifehacker.com/are-gas-stoves-bad-for-your-health-1848869920)
+- [Dev.to/JS] [How to Build a JavaScript Product Catalog Application](https://dev.to/grapecity/how-to-build-a-javascript-product-catalog-application-5c1l)
+- [Lifehacker] [What’s the Worst Advice You’ve Ever Received?](https://lifehacker.com/what-s-the-worst-advice-you-ve-ever-received-1848869696)
 - [Dev.to/JS] [#01: Introducing Static Web Apps](https://dev.to/azure/01-introducing-static-web-apps-58hd)
 - [Dev.to/JS] [Nodejs: cd my-journey00](https://dev.to/adebiyiitunuayo/nodejs-cd-my-journey00-3d91)
 - [Dev.to/JS] [How to debug a React app](https://dev.to/colocodes/how-to-debug-a-react-app-51l4)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Spot a Bad Viral Recipe](https://lifehacker.com/how-to-spot-a-bad-viral-recipe-1848859610)
 - [Lifehacker] [How to Avoid Getting Bumped From Your Next Flight](https://lifehacker.com/how-to-avoid-getting-bumped-from-your-next-flight-1848868554)
 - [Dev.to/JS] [thin.dev: Realtime-by-default BaaS &lpar;Backend-as-a-Service&rpar;](https://dev.to/digitallyinduced/thindev-realtime-by-default-baas-backend-as-a-service-32po)
-- [Dev.to/JS] [How to Avoid React Context Trap](https://dev.to/perssondennis/how-to-avoid-react-context-trap-1705)
-- [Dev.to/JS] [Is there any way to Hide element for online website from screensharing &lpar; Mikogo , Screenleap , JoinMe&rpar;](https://dev.to/7amz799/is-there-any-way-to-hide-element-for-online-website-from-screensharing-mikogo-screenleap-joinme-1k6c)
-- [Dev.to/JS] [The HTML first approach](https://dev.to/rocambille/the-html-first-approach-2lbl)
 - [Lifehacker] [How to Stop Your Pixel 6 From Overheating](https://lifehacker.com/how-to-stop-your-pixel-6-from-overheating-1848867797)
 - [Lifehacker] [15 of the Best Shows on Every Streaming Service in May 2022](https://lifehacker.com/15-of-the-best-shows-on-every-streaming-service-in-may-1848856576)
 - [Lifehacker] [The 10 Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easy Way to Roll Your Dough Into the Shape You Actually Need](https://lifehacker.com/the-easy-way-to-roll-your-dough-into-the-shape-you-actu-1848859936)
 - [Lifehacker] [How to Fix &lpar;or Prevent&rpar; Blackouts on Your Nintendo Switch](https://lifehacker.com/how-to-fix-or-prevent-blackouts-on-your-nintendo-swit-1848859631)
 - [Lifehacker] [Why You Should Pre-Sprout Your Seeds](https://lifehacker.com/why-you-should-pre-sprout-your-seeds-1848859050)
-- [Lifehacker] [5 Movies Best Watched in Total Ignorance](https://lifehacker.com/5-movies-best-watched-in-total-ignorance-1848859792)
-- [Lifehacker] [Which ePaper Tablet Is Best for Digital Notes?](https://lifehacker.com/which-epaper-tablet-is-best-for-digital-notes-1848859314)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
