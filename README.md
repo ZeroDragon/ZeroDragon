@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide to Understanding Vue Lifecycle Hooks](https://dev.to/smpnjn/a-guide-to-understanding-vue-lifecycle-hooks-kdl)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😍.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-37kc)
+- [Dev.to/JS] [ESLint settings for TypeScript](https://dev.to/jtakahashi64/eslint-settings-for-typescript-1o36)
 - [Dev.to/JS] [How to merge objects in javascript](https://dev.to/learnersbucket/how-to-merge-objects-in-javascript-5cil)
 - [Dev.to/JS] [My Experiences of Participating in Holiday Hacks Hackathon](https://dev.to/susmitadey/my-experiences-of-participating-in-holiday-hacks-hackathon-58nn)
 - [Dev.to/JS] [10 Key Factors to Consider When Hiring React Developers](https://dev.to/hiwilliam2/10-key-factors-to-consider-when-hiring-react-developers-4af2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Have you tried piping in Javascript?](https://dev.to/karmablackshaw/have-you-tried-piping-your-javascript-funtions-ihk)
 - [Dev.to/JS] [Top React Component Libraries and Frameworks Every Developer Should Know](https://dev.to/pankod/top-react-component-libraries-and-frameworks-every-developer-should-know-3j06)
 - [Dev.to/JS] [I Created A LISP-like Scripting Language](https://dev.to/rareearth/so-i-created-a-lisp-like-language-40bg)
-- [Dev.to/JS] [We bake high-quality fusion cakes](https://dev.to/cakesncakesshop/we-bake-high-quality-fusion-cakes-15pi)
-- [Dev.to/JS] [10 High-Quality Free Resources That Will Make Every Web Developer&#39;s Life Easier](https://dev.to/pankod/10-high-quality-free-resources-that-will-make-every-web-developers-life-easier-4e34)
-- [Dev.to/JS] [4 steps for developing the DeX application](https://dev.to/shreyvijayvargiya/4-steps-for-developing-the-dex-application-55hk)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
