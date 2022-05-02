@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [5 of the Most Useful Google Maps Settings](https://lifehacker.com/5-of-the-most-useful-google-maps-settings-1848868085)
+- [Dev.to/JS] [Building ArcGIS API for JavaScript Apps with NextJS](https://dev.to/odoenet/building-arcgis-api-for-javascript-apps-with-nextjs-2pp2)
+- [Lifehacker] [How to Spot a Bad Viral Recipe](https://lifehacker.com/how-to-spot-a-bad-viral-recipe-1848859610)
+- [Lifehacker] [How to Avoid Getting Bumped From Your Next Flight](https://lifehacker.com/how-to-avoid-getting-bumped-from-your-next-flight-1848868554)
 - [Dev.to/JS] [thin.dev: Realtime-by-default BaaS &lpar;Backend-as-a-Service&rpar;](https://dev.to/digitallyinduced/thindev-realtime-by-default-baas-backend-as-a-service-32po)
 - [Dev.to/JS] [How to Avoid React Context Trap](https://dev.to/perssondennis/how-to-avoid-react-context-trap-1705)
 - [Dev.to/JS] [Is there any way to Hide element for online website from screensharing &lpar; Mikogo , Screenleap , JoinMe&rpar;](https://dev.to/7amz799/is-there-any-way-to-hide-element-for-online-website-from-screensharing-mikogo-screenleap-joinme-1k6c)
@@ -36,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use the GitHub rest API with SvelteKit](https://dev.to/fllewellyn/how-to-use-the-github-rest-api-with-sveltekit-3pbn)
 - [Lifehacker] [15 of the Best Shows on Every Streaming Service in May 2022](https://lifehacker.com/15-of-the-best-shows-on-every-streaming-service-in-may-1848856576)
 - [Dev.to/JS] [Building a Mobile App using HTML, CSS, and JavaScript](https://dev.to/asayerio_techblog/building-a-mobile-app-using-html-css-and-javascript-209)
-- [Dev.to/JS] [typeof and lookup type in typescript](https://dev.to/rubiin/typeof-and-lookup-type-in-typescript-40o4)
 - [Lifehacker] [The 10 Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009)
 - [Lifehacker] [The 7 Deadly Sins of Commuting](https://lifehacker.com/the-7-deadly-sins-of-commuting-1848863017)
 - [Lifehacker] [The Seven Different Types of Jerks at Work &lpar;and How to Deal With Them&rpar;](https://lifehacker.com/the-seven-different-types-of-jerks-at-work-and-how-to-1848847911)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Least Popular States to Visit in the U.S. &lpar;and Why You Should Travel There&rpar;](https://lifehacker.com/the-least-popular-states-to-visit-in-the-u-s-and-why-1848859294)
 - [Lifehacker] [16 Movies That Prove Social Media Was Horrifying Even Before Elon Musk Bought Twitter](https://lifehacker.com/16-movies-that-prove-social-media-was-horrifying-even-b-1848853135)
 - [Lifehacker] [How to Sign In to Your Windows PC Without a Password](https://lifehacker.com/how-to-sign-in-to-your-windows-pc-without-a-password-1848858181)
-- [Lifehacker] [Use This App to Track Changes or Updates on Any Website](https://lifehacker.com/use-this-app-to-track-changes-or-updates-on-any-website-1848856696)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Does &#39;This is Miyamoto&#39; Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848856733)
-- [Lifehacker] [You Can Control Yourself Better](https://lifehacker.com/you-can-control-yourself-better-1848855315)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
