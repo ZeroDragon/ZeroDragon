@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to merge objects in javascript](https://dev.to/learnersbucket/how-to-merge-objects-in-javascript-5cil)
+- [Dev.to/JS] [My Experiences of Participating in Holiday Hacks Hackathon](https://dev.to/susmitadey/my-experiences-of-participating-in-holiday-hacks-hackathon-58nn)
 - [Dev.to/JS] [10 Key Factors to Consider When Hiring React Developers](https://dev.to/hiwilliam2/10-key-factors-to-consider-when-hiring-react-developers-4af2)
 - [Dev.to/JS] [WHAT IS SEARCH ENGINE MARKETING?](https://dev.to/dureabhishek/what-is-search-engine-marketing-1kd8)
 - [Dev.to/JS] [A beginner&#39;s guide to participating in Hackathons](https://dev.to/sidhanti/a-beginners-guide-to-participating-in-hackathons-89p)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We bake high-quality fusion cakes](https://dev.to/cakesncakesshop/we-bake-high-quality-fusion-cakes-15pi)
 - [Dev.to/JS] [10 High-Quality Free Resources That Will Make Every Web Developer&#39;s Life Easier](https://dev.to/pankod/10-high-quality-free-resources-that-will-make-every-web-developers-life-easier-4e34)
 - [Dev.to/JS] [4 steps for developing the DeX application](https://dev.to/shreyvijayvargiya/4-steps-for-developing-the-dex-application-55hk)
-- [Dev.to/JS] [[HELP]::Problem Solving](https://dev.to/machineno15/helpproblem-solving-50kd)
-- [Dev.to/JS] [How the lack of internal state makes your classes easier to test and refactor](https://dev.to/how-to-dev/how-the-lack-of-internal-state-makes-your-classes-easier-to-test-and-refactor-35kb)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
