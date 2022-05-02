@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Tricks Miniseries 3: How to remove element from useState array](https://dev.to/urielbitton/react-tricks-miniseries-3-how-to-remove-element-from-usestate-array-13h1)
+- [Dev.to/JS] [A Frameworkless Store In TypeScript](https://dev.to/daviddalbusco/a-frameworkless-store-in-typescript-2b9e)
+- [Dev.to/JS] [Create Tag Input Box using HTML, CSS, and Javascript](https://dev.to/incoderweb/create-tag-input-box-using-html-css-and-javascript-hi6)
+- [Dev.to/JS] [How to use the GitHub rest API with SvelteKit](https://dev.to/fllewellyn/how-to-use-the-github-rest-api-with-sveltekit-3pbn)
+- [Lifehacker] [15 of the Best Shows on Every Streaming Service in May 2022](https://lifehacker.com/15-of-the-best-shows-on-every-streaming-service-in-may-1848856576)
 - [Dev.to/JS] [Building a Mobile App using HTML, CSS, and JavaScript](https://dev.to/asayerio_techblog/building-a-mobile-app-using-html-css-and-javascript-209)
 - [Dev.to/JS] [typeof and lookup type in typescript](https://dev.to/rubiin/typeof-and-lookup-type-in-typescript-40o4)
 - [Lifehacker] [The 10 Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Commuting](https://lifehacker.com/the-7-deadly-sins-of-commuting-1848863017)
 - [Dev.to/JS] [Ultime Guide to Data Types in JavaScript](https://dev.to/koladev/ultime-guide-to-data-types-in-javascipt-3nof)
 - [Dev.to/JS] [React Material UI Visual Editor](https://dev.to/darkartistry/react-material-ui-visual-editor-3if8)
-- [Dev.to/JS] [Best JavaScript UI Component Libraries to use in 2022](https://dev.to/chadwinjdeysel/best-javascript-ui-component-libraries-to-use-in-2022-1b48)
-- [Dev.to/JS] [Nx v14 is out - Here is all you need to know!](https://dev.to/nx/nx-v14-is-out-here-is-all-you-need-to-know-2nhc)
-- [Dev.to/JS] [How to get promoted and get ahead as a developer.](https://dev.to/tyaga001/how-to-get-promoted-and-get-ahead-as-a-developer-lhc)
-- [Dev.to/JS] [Learning React js and learned about forms need more practice](https://dev.to/shrey802/learning-react-js-and-learned-about-forms-need-more-practice-1cl1)
 - [Lifehacker] [The Seven Different Types of Jerks at Work &lpar;and How to Deal With Them&rpar;](https://lifehacker.com/the-seven-different-types-of-jerks-at-work-and-how-to-1848847911)
 - [Lifehacker] [Five Spring Allium Recipes to Make Before It’s too Late](https://lifehacker.com/five-spring-allium-recipes-to-make-before-it-s-too-late-1848857028)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Control Yourself Better](https://lifehacker.com/you-can-control-yourself-better-1848855315)
 - [Lifehacker] [This Is the Only Right Way to Serve a Mom Breakfast in Bed on Mother’s Day](https://lifehacker.com/this-is-the-only-right-way-to-serve-a-mom-breakfast-in-1848855194)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
-- [Lifehacker] [Why Safe Drug Disposal Matters &lpar;and How to Do It&rpar;](https://lifehacker.com/why-safe-drug-disposal-matters-and-how-to-do-it-1848855898)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
 
