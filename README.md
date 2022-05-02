@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [I Created A LISP-like Scripting Language](https://dev.to/rwbeast/so-i-created-a-lisp-like-language-40bg)
+- [Dev.to/JS] [Which String methods you wish JavaScript API had?](https://dev.to/joelbonetr/which-string-methods-you-wish-javascript-api-had-50jp)
+- [Dev.to/JS] [Have you tried piping in Javascript?](https://dev.to/karmablackshaw/have-you-tried-piping-your-javascript-funtions-ihk)
+- [Dev.to/JS] [Top React Component Libraries and Frameworks Every Developer Should Know](https://dev.to/pankod/top-react-component-libraries-and-frameworks-every-developer-should-know-3j06)
+- [Dev.to/JS] [I Created A LISP-like Scripting Language](https://dev.to/rareearth/so-i-created-a-lisp-like-language-40bg)
 - [Dev.to/JS] [We bake high-quality fusion cakes](https://dev.to/cakesncakesshop/we-bake-high-quality-fusion-cakes-15pi)
 - [Dev.to/JS] [10 High-Quality Free Resources That Will Make Every Web Developer&#39;s Life Easier](https://dev.to/pankod/10-high-quality-free-resources-that-will-make-every-web-developers-life-easier-4e34)
 - [Dev.to/JS] [4 steps for developing the DeX application](https://dev.to/shreyvijayvargiya/4-steps-for-developing-the-dex-application-55hk)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Open-Source Headless CMS to Try for Your Next Application](https://dev.to/pankod/best-open-source-headless-cms-to-try-for-your-next-application-lpl)
 - [Dev.to/JS] [How to Create Full Stack React/Next.JS Web App in Few Hour](https://dev.to/pankod/how-to-create-full-stack-reactnextjs-web-app-in-few-hour-2o2p)
 - [Dev.to/JS] [Full stack software engineer](https://dev.to/nipunsanjula/full-stack-software-engineer-3en1)
-- [Dev.to/JS] [Programing is Like a Dandelion](https://dev.to/orionaon/programing-is-like-a-dandelion-2lig)
-- [Dev.to/JS] [Medusa images uploading using Imgur API](https://dev.to/ivanchiou/medusa-images-uploading-using-imgur-api-2hli)
-- [Dev.to/JS] [Month 5 of my Coding Journey](https://dev.to/taepal467/month-5-of-my-coding-journey-1b9c)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
 - [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
