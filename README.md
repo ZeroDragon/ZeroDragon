@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [thin.dev: Realtime-by-default BaaS &lpar;Backend-as-a-Service&rpar;](https://dev.to/digitallyinduced/thindev-realtime-by-default-baas-backend-as-a-service-32po)
+- [Dev.to/JS] [How to Avoid React Context Trap](https://dev.to/perssondennis/how-to-avoid-react-context-trap-1705)
+- [Dev.to/JS] [Is there any way to Hide element for online website from screensharing &lpar; Mikogo , Screenleap , JoinMe&rpar;](https://dev.to/7amz799/is-there-any-way-to-hide-element-for-online-website-from-screensharing-mikogo-screenleap-joinme-1k6c)
+- [Dev.to/JS] [The HTML first approach](https://dev.to/rocambille/the-html-first-approach-2lbl)
+- [Lifehacker] [How to Stop Your Pixel 6 From Overheating](https://lifehacker.com/how-to-stop-your-pixel-6-from-overheating-1848867797)
+- [Dev.to/JS] [State management in SolidJS applications](https://dev.to/phongnn/state-management-in-solidjs-applications-62p)
+- [Dev.to/JS] [Day-78 Training At Ryaz](https://dev.to/mahin651/day-78-training-at-ryaz-3h1h)
 - [Dev.to/JS] [React Tricks Miniseries 3: How to remove element from useState array](https://dev.to/urielbitton/react-tricks-miniseries-3-how-to-remove-element-from-usestate-array-13h1)
 - [Dev.to/JS] [A Frameworkless Store In TypeScript](https://dev.to/daviddalbusco/a-frameworkless-store-in-typescript-2b9e)
 - [Dev.to/JS] [Create Tag Input Box using HTML, CSS, and Javascript](https://dev.to/incoderweb/create-tag-input-box-using-html-css-and-javascript-hi6)
@@ -31,13 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Mobile App using HTML, CSS, and JavaScript](https://dev.to/asayerio_techblog/building-a-mobile-app-using-html-css-and-javascript-209)
 - [Dev.to/JS] [typeof and lookup type in typescript](https://dev.to/rubiin/typeof-and-lookup-type-in-typescript-40o4)
 - [Lifehacker] [The 10 Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009)
-- [Dev.to/JS] [Dynamic HTML Select Drop Down List Using JavaScript](https://dev.to/hirajatamil/dynamic-html-select-drop-down-list-using-javascript-4d72)
-- [Dev.to/JS] [Search and Filter items of table using pure JavaScript.](https://dev.to/technicalvandar885/search-and-filter-items-of-table-using-pure-javascript-4ioi)
-- [Dev.to/JS] [Take a Data Adventure with MongoDB Aggregations, Part 1](https://dev.to/derekb_wi/take-a-data-adventure-with-mongodb-aggregations-part-1-2m0g)
-- [Dev.to/JS] [First Project in React &amp; Ts | Valorant Wiki inn](https://dev.to/matteol/first-project-in-react-ts-valorant-wiki-inn-4en4)
 - [Lifehacker] [The 7 Deadly Sins of Commuting](https://lifehacker.com/the-7-deadly-sins-of-commuting-1848863017)
-- [Dev.to/JS] [Ultime Guide to Data Types in JavaScript](https://dev.to/koladev/ultime-guide-to-data-types-in-javascipt-3nof)
-- [Dev.to/JS] [React Material UI Visual Editor](https://dev.to/darkartistry/react-material-ui-visual-editor-3if8)
 - [Lifehacker] [The Seven Different Types of Jerks at Work &lpar;and How to Deal With Them&rpar;](https://lifehacker.com/the-seven-different-types-of-jerks-at-work-and-how-to-1848847911)
 - [Lifehacker] [Five Spring Allium Recipes to Make Before It’s too Late](https://lifehacker.com/five-spring-allium-recipes-to-make-before-it-s-too-late-1848857028)
 - [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This App to Track Changes or Updates on Any Website](https://lifehacker.com/use-this-app-to-track-changes-or-updates-on-any-website-1848856696)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: What Does &#39;This is Miyamoto&#39; Mean?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-what-does-1848856733)
 - [Lifehacker] [You Can Control Yourself Better](https://lifehacker.com/you-can-control-yourself-better-1848855315)
-- [Lifehacker] [This Is the Only Right Way to Serve a Mom Breakfast in Bed on Mother’s Day](https://lifehacker.com/this-is-the-only-right-way-to-serve-a-mom-breakfast-in-1848855194)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
