@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
+- [Dev.to/JS] [Build React components with Fluent UI](https://dev.to/asayerio_techblog/build-react-components-with-fluent-ui-4m9b)
+- [Dev.to/JS] [#02: Building Static Web Apps](https://dev.to/azure/02-building-static-web-apps-2j72)
+- [Lifehacker] [You Are Overlooking the Best Mother’s Day Gift](https://lifehacker.com/you-are-overlooking-the-best-mother-s-day-gift-1848874934)
+- [Dev.to/JS] [What I learned making Scrimba&#39;s Colour Tool 🍭](https://dev.to/pharaohnutz/what-i-learned-making-scrimbas-colour-tool-4lhi)
+- [Lifehacker] [Everything New in Firefox 100 on Desktop and Mobile](https://lifehacker.com/everything-new-in-firefox-100-on-desktop-and-mobile-1848875763)
 - [Dev.to/JS] [How to build a serverless notification system on AWS](https://dev.to/serverless_inc/how-to-build-a-serverless-notification-system-on-aws-g4e)
 - [Lifehacker] [How to Grow Plants That Eat Things](https://lifehacker.com/how-to-grow-plants-that-eat-things-1848875703)
 - [Dev.to/JS] [I built JS Diary📙- Browser based coding environment for JavaScript](https://dev.to/karishmashukla/i-built-js-diary-browser-based-coding-environment-for-javascript-4lm5)
@@ -41,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pseudocode Like a Badass: Breaking Down Problems and Figuring Out What They’re Asking For](https://dev.to/holistictechnologist/pseudocode-like-a-badass-breaking-down-problems-and-figuring-out-what-theyre-asking-for-3edf)
 - [Lifehacker] [Here’s Where Your Teacher Discount Works Year-Round](https://lifehacker.com/here-s-where-your-teacher-discount-works-year-round-1848873513)
 - [Lifehacker] [The ‘Four Horsemen’ That Can Predict Whether You’ll Get Divorced](https://lifehacker.com/the-four-horsemen-that-can-predict-whether-you-ll-get-1848870580)
-- [Dev.to/JS] [TMStats: Trackmania Tracker](https://dev.to/meldiron/tmstats-trackmania-tracker-1k1a)
-- [Dev.to/JS] [Day-79 Training At Ryaz](https://dev.to/mahin651/day-79-training-at-ryaz-5646)
 - [Lifehacker] [This Site Helps You Find Books Set Where You Live](https://lifehacker.com/this-site-helps-you-find-books-set-where-you-live-1848873520)
-- [Dev.to/JS] [Build a GraphQl server with NodeJS and Express](https://dev.to/ghoulkingr/build-a-graphql-server-with-nodejs-and-express-20g9)
 - [Lifehacker] [How to Stock an Apocalypse Pantry](https://lifehacker.com/how-to-stock-an-apocalypse-pantry-with-nutritious-food-1848873174)
 - [Lifehacker] [How to Avoid Passing Your Fears on to Your Children](https://lifehacker.com/how-to-avoid-passing-your-fears-on-to-your-children-1848871152)
 - [Lifehacker] [How to Make Your Front Door More Secure](https://lifehacker.com/how-to-make-your-front-door-more-secure-1848871492)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Watch the Lunar Eclipse in May](https://lifehacker.com/when-to-watch-the-lunar-eclipse-in-may-1848869638)
 - [Lifehacker] [Are Gas Stoves Bad for Your Health?](https://lifehacker.com/are-gas-stoves-bad-for-your-health-1848869920)
 - [Lifehacker] [What’s the Worst Advice You’ve Ever Received?](https://lifehacker.com/what-s-the-worst-advice-you-ve-ever-received-1848869696)
-- [Lifehacker] [This Article Was Written by AI](https://lifehacker.com/this-article-was-written-by-ai-1848869022)
-- [Lifehacker] [20 of the Most Misunderstood and Misinterpreted Movies Ever Made](https://lifehacker.com/20-of-the-most-misunderstood-and-misinterpreted-movies-1848864261)
-- [Lifehacker] [Should You Remove the Gills From Your Portobello Mushrooms?](https://lifehacker.com/should-you-remove-the-gills-from-your-portobello-mushro-1848868829)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
