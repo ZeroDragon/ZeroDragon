@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Introduction to Vue 3 and Typescript: Functional components, attributes, and slots](https://dev.to/tqbit/an-introduction-to-vue-3-and-typescript-functional-components-attributes-and-slots-4akm)
 - [Dev.to/JS] [JS Tip: #1 - async/await over arrays](https://dev.to/devjosemanuel/js-tip-1-asyncawait-over-arrays-50hf)
 - [Dev.to/JS] [JS Tip: #1 - async/await sobre arrays](https://dev.to/devjosemanuel/js-tip-1-asyncawait-sobre-arrays-1hb8)
 - [Dev.to/JS] [https://www.facebook.com/OptimumKetoReviewsOfficial/](https://dev.to/ketooptimu/httpswwwfacebookcomoptimumketoreviewsofficial-3dmh)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handling Errors in ASP.Net Core 3.1 - iFour Technolab](https://dev.to/harshalsuthar/handling-errors-in-aspnet-core-31-ifour-technolab-4be0)
 - [Dev.to/JS] [Starting the git course at profy.dev](https://dev.to/lawrencemcdo/starting-the-git-course-at-profydev-34ag)
 - [Dev.to/JS] [Day 3 - What are fragments in React?](https://dev.to/sanjaybabu/day-3-what-are-fragments-in-react-4n11)
-- [Dev.to/JS] [Utilizar Single File Components ou separar em pastas?](https://dev.to/stefanyrepetcki/utilizar-single-file-components-ou-separar-em-pastas-4eb1)
 - [Lifehacker] [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
 - [Lifehacker] [Five Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/five-things-in-your-home-you-should-probably-replace-ri-1848869645)
 - [Lifehacker] [When to Watch the Lunar Eclipse in May](https://lifehacker.com/when-to-watch-the-lunar-eclipse-in-may-1848869638)
