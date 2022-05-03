@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handling Errors in ASP.Net Core 3.1 - iFour Technolab](https://dev.to/harshalsuthar/handling-errors-in-aspnet-core-31-ifour-technolab-4be0)
+- [Dev.to/JS] [Starting the git course at profy.dev](https://dev.to/lawrencemcdo/starting-the-git-course-at-profydev-34ag)
+- [Dev.to/JS] [Day 3 - What are fragments in React?](https://dev.to/sanjaybabu/day-3-what-are-fragments-in-react-4n11)
 - [Dev.to/JS] [Utilizar Single File Components ou separar em pastas?](https://dev.to/stefanyrepetcki/utilizar-single-file-components-ou-separar-em-pastas-4eb1)
 - [Dev.to/JS] [We shouldn&#39;t use Enums on TypeScript anymore.](https://dev.to/taishi/we-shouldnt-use-enums-on-typescript-anymore-18d3)
 - [Dev.to/JS] [Next.js - How to optimize fonts](https://dev.to/perkinsjr/nextjs-how-to-optimize-fonts-4i7e)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Refs: The Complete Story](https://dev.to/this-is-learning/react-refs-the-complete-story-16km)
 - [Dev.to/JS] [Putting Dev.to to work - using it as a CMS](https://dev.to/plutonus/putting-devto-to-work-using-it-as-a-cms-1234)
 - [Lifehacker] [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
-- [Dev.to/JS] [Building Star Wars Crawler with Azure Static Web Apps - Part 1](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-1-3o39)
-- [Dev.to/JS] [Ng-News: Episode 22/17](https://dev.to/rainerhahnekamp/ng-news-episode-2217-3085)
-- [Dev.to/JS] [Best Decision I Ever Made Since I Started Coding?](https://dev.to/soclarence/best-decision-i-ever-made-since-i-started-coding-4o9h)
 - [Lifehacker] [Five Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/five-things-in-your-home-you-should-probably-replace-ri-1848869645)
 - [Lifehacker] [When to Watch the Lunar Eclipse in May](https://lifehacker.com/when-to-watch-the-lunar-eclipse-in-may-1848869638)
 - [Lifehacker] [Are Gas Stoves Bad for Your Health?](https://lifehacker.com/are-gas-stoves-bad-for-your-health-1848869920)
