@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here’s Where Your Teacher Discount Works Year-Round](https://lifehacker.com/here-s-where-your-teacher-discount-works-year-round-1848873513)
+- [Lifehacker] [The ‘Four Horsemen’ That Can Predict Whether You’ll Get Divorced](https://lifehacker.com/the-four-horsemen-that-can-predict-whether-you-ll-get-1848870580)
+- [Dev.to/JS] [TMStats: Trackmania Tracker](https://dev.to/meldiron/tmstats-trackmania-tracker-1k1a)
+- [Dev.to/JS] [Day-79 Training At Ryaz](https://dev.to/mahin651/day-79-training-at-ryaz-5646)
+- [Dev.to/JS] [The two ways to find min or max values of the array in JavaScript](https://dev.to/sawabe0912/the-two-ways-to-find-min-or-max-values-of-the-array-in-javascript-4432)
 - [Lifehacker] [This Site Helps You Find Books Set Where You Live](https://lifehacker.com/this-site-helps-you-find-books-set-where-you-live-1848873520)
 - [Dev.to/JS] [Build a GraphQl server with NodeJS and Express](https://dev.to/ghoulkingr/build-a-graphql-server-with-nodejs-and-express-20g9)
 - [Dev.to/JS] [Create a random quote generator using HTML, CSS, and Javascript](https://dev.to/incoderweb/create-a-random-quote-generator-using-html-css-and-javascript-4c3l)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Front Door More Secure](https://lifehacker.com/how-to-make-your-front-door-more-secure-1848871492)
 - [Lifehacker] [What Cinco de Mayo Actually Celebrates](https://lifehacker.com/what-cinco-de-mayo-actually-celebrates-1848871447)
 - [Dev.to/JS] [Made a Photo Gallery web-app for Appwrite Hackathon](https://dev.to/plabankr/made-a-photo-gallery-web-app-for-appwrite-hackathon-4jip)
-- [Dev.to/JS] [Tutorial hell: The escape &lpar;part one&rpar;](https://dev.to/joaohass/my-first-34dk)
-- [Dev.to/JS] [No more redux action creator functions](https://dev.to/devsmitra/no-more-redux-action-creators-functions-30j)
 - [Lifehacker] [What Are the Worst Wedding Guest Faux Pas You’ve Ever Seen?](https://lifehacker.com/what-are-the-worst-wedding-guest-faux-pas-you-ve-ever-s-1848869546)
-- [Dev.to/JS] [My thoughts on Mithril.js](https://dev.to/jesperhoy/my-thoughts-on-mithriljs-319f)
 - [Lifehacker] [12 Clever Ways You Didn’t Know You Could Use Sandpaper](https://lifehacker.com/12-clever-ways-you-didn-t-know-you-could-use-sandpaper-1848867904)
 - [Lifehacker] [The Right Way to Take a &lpar;Wild&rpar; Leek](https://lifehacker.com/the-right-way-to-take-a-wild-leek-1848869797)
 - [Lifehacker] [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Shows on Every Streaming Service in May 2022](https://lifehacker.com/15-of-the-best-shows-on-every-streaming-service-in-may-1848856576)
 - [Lifehacker] [The 10 Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009)
 - [Lifehacker] [The 7 Deadly Sins of Commuting](https://lifehacker.com/the-7-deadly-sins-of-commuting-1848863017)
-- [Lifehacker] [The Seven Different Types of Jerks at Work &lpar;and How to Deal With Them&rpar;](https://lifehacker.com/the-seven-different-types-of-jerks-at-work-and-how-to-1848847911)
-- [Lifehacker] [Five Spring Allium Recipes to Make Before It’s too Late](https://lifehacker.com/five-spring-allium-recipes-to-make-before-it-s-too-late-1848857028)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
