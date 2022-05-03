@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Site Helps You Find Books Set Where You Live](https://lifehacker.com/this-site-helps-you-find-books-set-where-you-live-1848873520)
+- [Dev.to/JS] [Build a GraphQl server with NodeJS and Express](https://dev.to/ghoulkingr/build-a-graphql-server-with-nodejs-and-express-20g9)
+- [Dev.to/JS] [Create a random quote generator using HTML, CSS, and Javascript](https://dev.to/incoderweb/create-a-random-quote-generator-using-html-css-and-javascript-4c3l)
+- [Lifehacker] [How to Stock an Apocalypse Pantry](https://lifehacker.com/how-to-stock-an-apocalypse-pantry-with-nutritious-food-1848873174)
+- [Dev.to/JS] [Paracetamol.js💊| #112: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-112-explica-este-codigo-javascript-20fb)
 - [Lifehacker] [How to Avoid Passing Your Fears on to Your Children](https://lifehacker.com/how-to-avoid-passing-your-fears-on-to-your-children-1848871152)
 - [Dev.to/JS] [Digital Clock Display](https://dev.to/zmfreecodecamper/digital-clock-display-5f45)
 - [Dev.to/JS] [Changing Colored Rotating Forms](https://dev.to/zmfreecodecamper/changing-colored-rotating-forms-2gd5)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [No more redux action creator functions](https://dev.to/devsmitra/no-more-redux-action-creators-functions-30j)
 - [Lifehacker] [What Are the Worst Wedding Guest Faux Pas You’ve Ever Seen?](https://lifehacker.com/what-are-the-worst-wedding-guest-faux-pas-you-ve-ever-s-1848869546)
 - [Dev.to/JS] [My thoughts on Mithril.js](https://dev.to/jesperhoy/my-thoughts-on-mithriljs-319f)
-- [Dev.to/JS] [How to Watch for Nested Changes in Vue](https://dev.to/smpnjn/how-to-watch-for-nested-changes-in-vue-25b7)
-- [Dev.to/JS] [Tired of debugging alone?](https://dev.to/royaljain/tired-of-debugging-alone-426d)
 - [Lifehacker] [12 Clever Ways You Didn’t Know You Could Use Sandpaper](https://lifehacker.com/12-clever-ways-you-didn-t-know-you-could-use-sandpaper-1848867904)
-- [Dev.to/JS] [Expose yourself to the open-source world please!!!](https://dev.to/dorbellmas/expose-yourself-to-the-open-source-world-please-2jlk)
 - [Lifehacker] [The Right Way to Take a &lpar;Wild&rpar; Leek](https://lifehacker.com/the-right-way-to-take-a-wild-leek-1848869797)
 - [Lifehacker] [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
 - [Lifehacker] [Five Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/five-things-in-your-home-you-should-probably-replace-ri-1848869645)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Commuting](https://lifehacker.com/the-7-deadly-sins-of-commuting-1848863017)
 - [Lifehacker] [The Seven Different Types of Jerks at Work &lpar;and How to Deal With Them&rpar;](https://lifehacker.com/the-seven-different-types-of-jerks-at-work-and-how-to-1848847911)
 - [Lifehacker] [Five Spring Allium Recipes to Make Before It’s too Late](https://lifehacker.com/five-spring-allium-recipes-to-make-before-it-s-too-late-1848857028)
-- [Lifehacker] [These U.S. Cities Are Seeing the Biggest Drops in Home Prices](https://lifehacker.com/these-u-s-cities-are-seeing-the-biggest-drops-in-home-1848847929)
-- [Lifehacker] [How to Keep Woodpeckers Away From Your House](https://lifehacker.com/how-to-get-woodpeckers-to-fuck-off-1848847616)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
