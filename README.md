@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Tip: #1 - async/await over arrays](https://dev.to/devjosemanuel/js-tip-1-asyncawait-over-arrays-50hf)
+- [Dev.to/JS] [JS Tip: #1 - async/await sobre arrays](https://dev.to/devjosemanuel/js-tip-1-asyncawait-sobre-arrays-1hb8)
+- [Dev.to/JS] [https://www.facebook.com/OptimumKetoReviewsOfficial/](https://dev.to/ketooptimu/httpswwwfacebookcomoptimumketoreviewsofficial-3dmh)
+- [Dev.to/JS] [An Underrated Gem](https://dev.to/atinypixel/an-underrated-gem-mgo)
 - [Dev.to/JS] [K1 Keto Life [U.S Review 2022]: A Healing Up Supplement for Burn Your Fat!](https://dev.to/k1ketolifeget/k1-keto-life-us-review-2022-a-healing-up-supplement-for-burn-your-fat-96m)
 - [Dev.to/JS] [Job Aid: Developing an A/B Testing Roadmap](https://dev.to/nipunsanjula/job-aid-developing-an-ab-testing-roadmap-k2b)
 - [Dev.to/JS] [Create your first custom hook with React](https://dev.to/horhorou/create-your-first-custom-hook-with-react-2hp2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Starting the git course at profy.dev](https://dev.to/lawrencemcdo/starting-the-git-course-at-profydev-34ag)
 - [Dev.to/JS] [Day 3 - What are fragments in React?](https://dev.to/sanjaybabu/day-3-what-are-fragments-in-react-4n11)
 - [Dev.to/JS] [Utilizar Single File Components ou separar em pastas?](https://dev.to/stefanyrepetcki/utilizar-single-file-components-ou-separar-em-pastas-4eb1)
-- [Dev.to/JS] [We shouldn&#39;t use Enums on TypeScript anymore.](https://dev.to/taishi/we-shouldnt-use-enums-on-typescript-anymore-18d3)
-- [Dev.to/JS] [Next.js - How to optimize fonts](https://dev.to/perkinsjr/nextjs-how-to-optimize-fonts-4i7e)
-- [Dev.to/JS] [React state management - Part 1: Introduction &amp; local state management](https://dev.to/iamshour/react-state-management-part-1-introduction-local-state-management-23h0)
-- [Dev.to/JS] [Building Star Wars Crawler with Azure Static Web Apps - Part 3](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-3-41ip)
 - [Lifehacker] [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
 - [Lifehacker] [Five Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/five-things-in-your-home-you-should-probably-replace-ri-1848869645)
 - [Lifehacker] [When to Watch the Lunar Eclipse in May](https://lifehacker.com/when-to-watch-the-lunar-eclipse-in-may-1848869638)
