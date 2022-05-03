@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTML + JS + Python = hard](https://dev.to/vulcanwm/html-js-python-hard-519g)
+- [Dev.to/JS] [Low-code and no-code make tech more inclusive](https://dev.to/richkurtzman/low-code-and-no-code-make-tech-more-inclusive-27pe)
+- [Dev.to/JS] [Building My First Chrome Extension - Reddit Filter](https://dev.to/tommyli97/building-my-first-chrome-extension-reddit-filter-312m)
+- [Lifehacker] [How to Make Friends While Traveling Alone](https://lifehacker.com/how-to-make-friends-while-traveling-alone-1848873458)
+- [Dev.to/JS] [102. Binary Tree Level Order Traversal 🚀](https://dev.to/samuelhinchliffe/102-binary-tree-level-order-traversal-2oh5)
+- [Dev.to/JS] [Learning React &lpar;I&rpar;: Three HelloWorld examples](https://dev.to/davidjguru/learning-react-i-three-helloworld-examples-276)
+- [Lifehacker] [The Best Phones for People Who Hate Upgrading](https://lifehacker.com/the-best-phones-for-people-who-hate-upgrading-1848872793)
 - [Dev.to/JS] [Simple Interest Calculator in Javascript | Html Simple Interest Calculator for beginners](https://dev.to/ziontutorial/simple-interest-calculator-in-javascript-html-simple-interest-calculator-for-beginners-15m5)
 - [Lifehacker] [Where to Donate Locally to Help People Access Abortions](https://lifehacker.com/where-to-donate-locally-to-help-people-access-abortions-1848873651)
 - [Dev.to/JS] [Pseudocode Like a Badass: Breaking Down Problems and Figuring Out What They’re Asking For](https://dev.to/holistictechnologist/pseudocode-like-a-badass-breaking-down-problems-and-figuring-out-what-theyre-asking-for-3edf)
@@ -35,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a GraphQl server with NodeJS and Express](https://dev.to/ghoulkingr/build-a-graphql-server-with-nodejs-and-express-20g9)
 - [Dev.to/JS] [Create a random quote generator using HTML, CSS, and Javascript](https://dev.to/incoderweb/create-a-random-quote-generator-using-html-css-and-javascript-4c3l)
 - [Lifehacker] [How to Stock an Apocalypse Pantry](https://lifehacker.com/how-to-stock-an-apocalypse-pantry-with-nutritious-food-1848873174)
-- [Dev.to/JS] [Paracetamol.js💊| #112: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-112-explica-este-codigo-javascript-20fb)
 - [Lifehacker] [How to Avoid Passing Your Fears on to Your Children](https://lifehacker.com/how-to-avoid-passing-your-fears-on-to-your-children-1848871152)
-- [Dev.to/JS] [Digital Clock Display](https://dev.to/zmfreecodecamper/digital-clock-display-5f45)
-- [Dev.to/JS] [Changing Colored Rotating Forms](https://dev.to/zmfreecodecamper/changing-colored-rotating-forms-2gd5)
-- [Dev.to/JS] [How to escape from memory leaks in JavaScript](https://dev.to/logrocket/how-to-escape-from-memory-leaks-in-javascript-6m)
-- [Dev.to/JS] [NextJS / React SSR: 21 Universal Data Fetching Patterns &amp; Best Practices](https://dev.to/wundergraph/nextjs-react-ssr-21-universal-data-fetching-patterns-best-practices-32c9)
 - [Lifehacker] [How to Make Your Front Door More Secure](https://lifehacker.com/how-to-make-your-front-door-more-secure-1848871492)
 - [Lifehacker] [What Cinco de Mayo Actually Celebrates](https://lifehacker.com/what-cinco-de-mayo-actually-celebrates-1848871447)
 - [Lifehacker] [What Are the Worst Wedding Guest Faux Pas You’ve Ever Seen?](https://lifehacker.com/what-are-the-worst-wedding-guest-faux-pas-you-ve-ever-s-1848869546)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Spot a Bad Viral Recipe](https://lifehacker.com/how-to-spot-a-bad-viral-recipe-1848859610)
 - [Lifehacker] [How to Avoid Getting Bumped From Your Next Flight](https://lifehacker.com/how-to-avoid-getting-bumped-from-your-next-flight-1848868554)
 - [Lifehacker] [How to Stop Your Pixel 6 From Overheating](https://lifehacker.com/how-to-stop-your-pixel-6-from-overheating-1848867797)
-- [Lifehacker] [15 of the Best Shows on Every Streaming Service in May 2022](https://lifehacker.com/15-of-the-best-shows-on-every-streaming-service-in-may-1848856576)
-- [Lifehacker] [The 10 Best Wordle Alternatives, Ranked by Difficulty](https://lifehacker.com/the-10-best-wordle-alternatives-ranked-by-difficulty-1848859009)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
