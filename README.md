@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing SpectaQL 1.0 - an even better way to autogenerate GraphQL API documentation](https://dev.to/useanvil/introducing-spectaql-10-an-even-better-way-to-autogenerate-graphql-api-documentation-32cg)
 - [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
 - [Dev.to/JS] [Build React components with Fluent UI](https://dev.to/asayerio_techblog/build-react-components-with-fluent-ui-4m9b)
 - [Dev.to/JS] [#02: Building Static Web Apps](https://dev.to/azure/02-building-static-web-apps-2j72)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Phones for People Who Hate Upgrading](https://lifehacker.com/the-best-phones-for-people-who-hate-upgrading-1848872793)
 - [Dev.to/JS] [Simple Interest Calculator in Javascript | Html Simple Interest Calculator for beginners](https://dev.to/ziontutorial/simple-interest-calculator-in-javascript-html-simple-interest-calculator-for-beginners-15m5)
 - [Lifehacker] [Where to Donate Locally to Help People Access Abortions](https://lifehacker.com/where-to-donate-locally-to-help-people-access-abortions-1848873651)
-- [Dev.to/JS] [Pseudocode Like a Badass: Breaking Down Problems and Figuring Out What They’re Asking For](https://dev.to/holistictechnologist/pseudocode-like-a-badass-breaking-down-problems-and-figuring-out-what-theyre-asking-for-3edf)
 - [Lifehacker] [Here’s Where Your Teacher Discount Works Year-Round](https://lifehacker.com/here-s-where-your-teacher-discount-works-year-round-1848873513)
 - [Lifehacker] [The ‘Four Horsemen’ That Can Predict Whether You’ll Get Divorced](https://lifehacker.com/the-four-horsemen-that-can-predict-whether-you-ll-get-1848870580)
 - [Lifehacker] [This Site Helps You Find Books Set Where You Live](https://lifehacker.com/this-site-helps-you-find-books-set-where-you-live-1848873520)
