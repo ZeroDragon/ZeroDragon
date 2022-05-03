@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js - How to optimize fonts](https://dev.to/perkinsjr/nextjs-how-to-optimize-fonts-4i7e)
+- [Dev.to/JS] [React state management - Part 1: Introduction &amp; local state management](https://dev.to/iamshour/react-state-management-part-1-introduction-local-state-management-23h0)
 - [Dev.to/JS] [Building Star Wars Crawler with Azure Static Web Apps - Part 3](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-3-41ip)
 - [Dev.to/JS] [Membuat Objek Bersarang Dengan Memanfaatkan Composite Class](https://dev.to/arisca_abdullah/membuat-objek-bersarang-dengan-memanfaatkan-composite-class-8ef)
 - [Dev.to/JS] [Building Star Wars Crawler with Azure Static Web Apps - Part 2](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-2-3hc0)
@@ -37,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&lpar;React&rpar;ion news : Easy As Pie](https://dev.to/charleebrown/reaction-news-easy-as-pie-204l)
 - [Dev.to/JS] [Throwing around text - Kinetic typography part 3: The Walking Text thet follows you 🧟🧟](https://dev.to/thormeier/throwing-around-text-kinetic-typography-part-3-the-walking-text-thet-follows-you-17mb)
 - [Lifehacker] [Are Gas Stoves Bad for Your Health?](https://lifehacker.com/are-gas-stoves-bad-for-your-health-1848869920)
-- [Dev.to/JS] [How to Build a JavaScript Product Catalog Application](https://dev.to/grapecity/how-to-build-a-javascript-product-catalog-application-5c1l)
 - [Lifehacker] [What’s the Worst Advice You’ve Ever Received?](https://lifehacker.com/what-s-the-worst-advice-you-ve-ever-received-1848869696)
-- [Dev.to/JS] [#01: Introducing Static Web Apps](https://dev.to/azure/01-introducing-static-web-apps-58hd)
 - [Lifehacker] [This Article Was Written by AI](https://lifehacker.com/this-article-was-written-by-ai-1848869022)
 - [Lifehacker] [20 of the Most Misunderstood and Misinterpreted Movies Ever Made](https://lifehacker.com/20-of-the-most-misunderstood-and-misinterpreted-movies-1848864261)
 - [Lifehacker] [Should You Remove the Gills From Your Portobello Mushrooms?](https://lifehacker.com/should-you-remove-the-gills-from-your-portobello-mushro-1848868829)
