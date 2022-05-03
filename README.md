@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [K1 Keto Life [U.S Review 2022]: A Healing Up Supplement for Burn Your Fat!](https://dev.to/k1ketolifeget/k1-keto-life-us-review-2022-a-healing-up-supplement-for-burn-your-fat-96m)
+- [Dev.to/JS] [Job Aid: Developing an A/B Testing Roadmap](https://dev.to/nipunsanjula/job-aid-developing-an-ab-testing-roadmap-k2b)
+- [Dev.to/JS] [Create your first custom hook with React](https://dev.to/horhorou/create-your-first-custom-hook-with-react-2hp2)
+- [Dev.to/JS] [Rules for Simplifying Big O Notations](https://dev.to/aryakris/rules-for-simplifying-big-o-notations-2gl3)
 - [Dev.to/JS] [Handling Errors in ASP.Net Core 3.1 - iFour Technolab](https://dev.to/harshalsuthar/handling-errors-in-aspnet-core-31-ifour-technolab-4be0)
 - [Dev.to/JS] [Starting the git course at profy.dev](https://dev.to/lawrencemcdo/starting-the-git-course-at-profydev-34ag)
 - [Dev.to/JS] [Day 3 - What are fragments in React?](https://dev.to/sanjaybabu/day-3-what-are-fragments-in-react-4n11)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js - How to optimize fonts](https://dev.to/perkinsjr/nextjs-how-to-optimize-fonts-4i7e)
 - [Dev.to/JS] [React state management - Part 1: Introduction &amp; local state management](https://dev.to/iamshour/react-state-management-part-1-introduction-local-state-management-23h0)
 - [Dev.to/JS] [Building Star Wars Crawler with Azure Static Web Apps - Part 3](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-3-41ip)
-- [Dev.to/JS] [Membuat Objek Bersarang Dengan Memanfaatkan Composite Class](https://dev.to/arisca_abdullah/membuat-objek-bersarang-dengan-memanfaatkan-composite-class-8ef)
-- [Dev.to/JS] [Building Star Wars Crawler with Azure Static Web Apps - Part 2](https://dev.to/azure/building-star-wars-crawler-with-azure-static-web-apps-part-2-3hc0)
-- [Dev.to/JS] [React Refs: The Complete Story](https://dev.to/this-is-learning/react-refs-the-complete-story-16km)
-- [Dev.to/JS] [Putting Dev.to to work - using it as a CMS](https://dev.to/plutonus/putting-devto-to-work-using-it-as-a-cms-1234)
 - [Lifehacker] [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
 - [Lifehacker] [Five Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/five-things-in-your-home-you-should-probably-replace-ri-1848869645)
 - [Lifehacker] [When to Watch the Lunar Eclipse in May](https://lifehacker.com/when-to-watch-the-lunar-eclipse-in-may-1848869638)
