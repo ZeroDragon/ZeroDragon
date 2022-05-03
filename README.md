@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No more redux action creator functions](https://dev.to/devsmitra/no-more-redux-action-creators-functions-30j)
+- [Lifehacker] [What Are the Worst Wedding Guest Faux Pas You’ve Ever Seen?](https://lifehacker.com/what-are-the-worst-wedding-guest-faux-pas-you-ve-ever-s-1848869546)
+- [Dev.to/JS] [My thoughts on Mithril.js](https://dev.to/jesperhoy/my-thoughts-on-mithriljs-319f)
+- [Dev.to/JS] [How to Watch for Nested Changes in Vue](https://dev.to/smpnjn/how-to-watch-for-nested-changes-in-vue-25b7)
 - [Dev.to/JS] [Tired of debugging alone?](https://dev.to/royaljain/tired-of-debugging-alone-426d)
 - [Lifehacker] [12 Clever Ways You Didn’t Know You Could Use Sandpaper](https://lifehacker.com/12-clever-ways-you-didn-t-know-you-could-use-sandpaper-1848867904)
-- [Dev.to/JS] [Expose yourself to the open-source world already!!!](https://dev.to/dorbellmas/expose-yourself-to-the-open-source-world-please-2jlk)
+- [Dev.to/JS] [Expose yourself to the open-source world please!!!](https://dev.to/dorbellmas/expose-yourself-to-the-open-source-world-please-2jlk)
 - [Lifehacker] [The Right Way to Take a &lpar;Wild&rpar; Leek](https://lifehacker.com/the-right-way-to-take-a-wild-leek-1848869797)
 - [Dev.to/JS] [React Context API &amp; useReducer , Part 2](https://dev.to/terenvelan/react-context-api-usereducer-part-2-o7g)
 - [Dev.to/JS] [React Context API &amp; useReducer , Part 1](https://dev.to/terenvelan/react-context-api-usereducer-part-1-4bgp)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An Introduction to Vue 3 and Typescript: Functional components, attributes, and slots](https://dev.to/tqbit/an-introduction-to-vue-3-and-typescript-functional-components-attributes-and-slots-4akm)
 - [Dev.to/JS] [JS Tip: #1 - async/await over arrays](https://dev.to/devjosemanuel/js-tip-1-asyncawait-over-arrays-50hf)
 - [Dev.to/JS] [JS Tip: #1 - async/await sobre arrays](https://dev.to/devjosemanuel/js-tip-1-asyncawait-sobre-arrays-1hb8)
-- [Dev.to/JS] [An Underrated Gem](https://dev.to/atinypixel/an-underrated-gem-mgo)
-- [Dev.to/JS] [Job Aid: Developing an A/B Testing Roadmap](https://dev.to/nipunsanjula/job-aid-developing-an-ab-testing-roadmap-k2b)
-- [Dev.to/JS] [Create your first custom hook with React](https://dev.to/horhorou/create-your-first-custom-hook-with-react-2hp2)
 - [Lifehacker] [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
 - [Lifehacker] [Five Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/five-things-in-your-home-you-should-probably-replace-ri-1848869645)
 - [Lifehacker] [When to Watch the Lunar Eclipse in May](https://lifehacker.com/when-to-watch-the-lunar-eclipse-in-may-1848869638)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Rid of Powdery Mildew on Your Plants](https://lifehacker.com/how-to-get-rid-of-powdery-mildew-on-your-plants-1848847805)
 - [Lifehacker] [Why Your Washing Machine is Shaking, and How to Fix It](https://lifehacker.com/why-your-washing-machine-is-shaking-and-how-to-fix-it-1848847765)
 - [Lifehacker] [Plant These Hard-to-Kill Flowers in Window Boxes](https://lifehacker.com/plant-these-hard-to-kill-flowers-in-window-boxes-1848847682)
-- [Lifehacker] [Why Your Dog Smells Worse Than Their Friends](https://lifehacker.com/why-your-dog-smells-worse-than-their-friends-1848847864)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
