@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Context API &amp; useReducer , Part 1](https://dev.to/terenvelan/react-context-api-usereducer-part-1-4bgp)
+- [Dev.to/JS] [Javascript function call and apply methods](https://dev.to/hacker4world/javascript-function-call-and-apply-methods-3d27)
 - [Dev.to/JS] [JavaScript and Logic.](https://dev.to/adebiyiitunuayo/javascript-and-logic-442d)
 - [Dev.to/JS] [K1 Keto Life - Weight Loss Results, Price, Uses &amp; Ingredients?](https://dev.to/k1ketolifebuys/k1-keto-life-weight-loss-results-price-uses-ingredients-198p)
 - [Dev.to/JS] [An Introduction to Vue 3 and Typescript: Functional components, attributes, and slots](https://dev.to/tqbit/an-introduction-to-vue-3-and-typescript-functional-components-attributes-and-slots-4akm)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [K1 Keto Life [U.S Review 2022]: A Healing Up Supplement for Burn Your Fat!](https://dev.to/k1ketolifeget/k1-keto-life-us-review-2022-a-healing-up-supplement-for-burn-your-fat-96m)
 - [Dev.to/JS] [Job Aid: Developing an A/B Testing Roadmap](https://dev.to/nipunsanjula/job-aid-developing-an-ab-testing-roadmap-k2b)
 - [Dev.to/JS] [Create your first custom hook with React](https://dev.to/horhorou/create-your-first-custom-hook-with-react-2hp2)
-- [Dev.to/JS] [Rules for Simplifying Big O Notations](https://dev.to/aryakris/rules-for-simplifying-big-o-notations-2gl3)
-- [Dev.to/JS] [Handling Errors in ASP.Net Core 3.1 - iFour Technolab](https://dev.to/harshalsuthar/handling-errors-in-aspnet-core-31-ifour-technolab-4be0)
 - [Lifehacker] [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
 - [Lifehacker] [Five Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/five-things-in-your-home-you-should-probably-replace-ri-1848869645)
 - [Lifehacker] [When to Watch the Lunar Eclipse in May](https://lifehacker.com/when-to-watch-the-lunar-eclipse-in-may-1848869638)
