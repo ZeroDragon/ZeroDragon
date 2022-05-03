@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Know These Terms Before Jumping Into an Abortion Debate](https://lifehacker.com/know-these-terms-before-jumping-into-an-abortion-debate-1848873487)
+- [Lifehacker] [Just Make One Giant Crouton](https://lifehacker.com/just-make-one-giant-crouton-1848874432)
+- [Lifehacker] [These Habits Are Making You More Irritable](https://lifehacker.com/these-habits-are-making-you-more-irritable-1848874006)
 - [Dev.to/JS] [HTML + JS + Python = hard](https://dev.to/vulcanwm/html-js-python-hard-519g)
 - [Dev.to/JS] [Low-code and no-code make tech more inclusive](https://dev.to/richkurtzman/low-code-and-no-code-make-tech-more-inclusive-27pe)
 - [Dev.to/JS] [Building My First Chrome Extension - Reddit Filter](https://dev.to/tommyli97/building-my-first-chrome-extension-reddit-filter-312m)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 of the Most Misunderstood and Misinterpreted Movies Ever Made](https://lifehacker.com/20-of-the-most-misunderstood-and-misinterpreted-movies-1848864261)
 - [Lifehacker] [Should You Remove the Gills From Your Portobello Mushrooms?](https://lifehacker.com/should-you-remove-the-gills-from-your-portobello-mushro-1848868829)
 - [Lifehacker] [5 of the Most Useful Google Maps Settings](https://lifehacker.com/5-of-the-most-useful-google-maps-settings-1848868085)
-- [Lifehacker] [How to Spot a Bad Viral Recipe](https://lifehacker.com/how-to-spot-a-bad-viral-recipe-1848859610)
-- [Lifehacker] [How to Avoid Getting Bumped From Your Next Flight](https://lifehacker.com/how-to-avoid-getting-bumped-from-your-next-flight-1848868554)
-- [Lifehacker] [How to Stop Your Pixel 6 From Overheating](https://lifehacker.com/how-to-stop-your-pixel-6-from-overheating-1848867797)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
