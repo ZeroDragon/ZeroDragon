@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to build a serverless notification system on AWS](https://dev.to/serverless_inc/how-to-build-a-serverless-notification-system-on-aws-g4e)
+- [Lifehacker] [How to Grow Plants That Eat Things](https://lifehacker.com/how-to-grow-plants-that-eat-things-1848875703)
+- [Dev.to/JS] [I built JS Diary📙- Browser based coding environment for JavaScript](https://dev.to/karishmashukla/i-built-js-diary-browser-based-coding-environment-for-javascript-4lm5)
 - [Lifehacker] [Know These Terms Before Jumping Into an Abortion Debate](https://lifehacker.com/know-these-terms-before-jumping-into-an-abortion-debate-1848873487)
 - [Lifehacker] [Just Make One Giant Crouton](https://lifehacker.com/just-make-one-giant-crouton-1848874432)
 - [Lifehacker] [These Habits Are Making You More Irritable](https://lifehacker.com/these-habits-are-making-you-more-irritable-1848874006)
@@ -40,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The ‘Four Horsemen’ That Can Predict Whether You’ll Get Divorced](https://lifehacker.com/the-four-horsemen-that-can-predict-whether-you-ll-get-1848870580)
 - [Dev.to/JS] [TMStats: Trackmania Tracker](https://dev.to/meldiron/tmstats-trackmania-tracker-1k1a)
 - [Dev.to/JS] [Day-79 Training At Ryaz](https://dev.to/mahin651/day-79-training-at-ryaz-5646)
-- [Dev.to/JS] [The two ways to find min or max values of the array in JavaScript](https://dev.to/sawabe0912/the-two-ways-to-find-min-or-max-values-of-the-array-in-javascript-4432)
 - [Lifehacker] [This Site Helps You Find Books Set Where You Live](https://lifehacker.com/this-site-helps-you-find-books-set-where-you-live-1848873520)
 - [Dev.to/JS] [Build a GraphQl server with NodeJS and Express](https://dev.to/ghoulkingr/build-a-graphql-server-with-nodejs-and-express-20g9)
-- [Dev.to/JS] [Create a random quote generator using HTML, CSS, and Javascript](https://dev.to/incoderweb/create-a-random-quote-generator-using-html-css-and-javascript-4c3l)
 - [Lifehacker] [How to Stock an Apocalypse Pantry](https://lifehacker.com/how-to-stock-an-apocalypse-pantry-with-nutritious-food-1848873174)
 - [Lifehacker] [How to Avoid Passing Your Fears on to Your Children](https://lifehacker.com/how-to-avoid-passing-your-fears-on-to-your-children-1848871152)
 - [Lifehacker] [How to Make Your Front Door More Secure](https://lifehacker.com/how-to-make-your-front-door-more-secure-1848871492)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Article Was Written by AI](https://lifehacker.com/this-article-was-written-by-ai-1848869022)
 - [Lifehacker] [20 of the Most Misunderstood and Misinterpreted Movies Ever Made](https://lifehacker.com/20-of-the-most-misunderstood-and-misinterpreted-movies-1848864261)
 - [Lifehacker] [Should You Remove the Gills From Your Portobello Mushrooms?](https://lifehacker.com/should-you-remove-the-gills-from-your-portobello-mushro-1848868829)
-- [Lifehacker] [5 of the Most Useful Google Maps Settings](https://lifehacker.com/5-of-the-most-useful-google-maps-settings-1848868085)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
