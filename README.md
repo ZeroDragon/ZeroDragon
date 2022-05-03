@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utilizar Single File Components ou separar em pastas?](https://dev.to/stefanyrepetcki/utilizar-single-file-components-ou-separar-em-pastas-4eb1)
 - [Dev.to/JS] [We shouldn&#39;t use Enums on TypeScript anymore.](https://dev.to/taishi/we-shouldnt-use-enums-on-typescript-anymore-18d3)
 - [Dev.to/JS] [Next.js - How to optimize fonts](https://dev.to/perkinsjr/nextjs-how-to-optimize-fonts-4i7e)
 - [Dev.to/JS] [React state management - Part 1: Introduction &amp; local state management](https://dev.to/iamshour/react-state-management-part-1-introduction-local-state-management-23h0)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best Decision I Ever Made Since I Started Coding?](https://dev.to/soclarence/best-decision-i-ever-made-since-i-started-coding-4o9h)
 - [Lifehacker] [Five Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/five-things-in-your-home-you-should-probably-replace-ri-1848869645)
 - [Lifehacker] [When to Watch the Lunar Eclipse in May](https://lifehacker.com/when-to-watch-the-lunar-eclipse-in-may-1848869638)
-- [Dev.to/JS] [&lpar;React&rpar;ion news : Easy As Pie](https://dev.to/charleebrown/reaction-news-easy-as-pie-204l)
 - [Lifehacker] [Are Gas Stoves Bad for Your Health?](https://lifehacker.com/are-gas-stoves-bad-for-your-health-1848869920)
 - [Lifehacker] [What’s the Worst Advice You’ve Ever Received?](https://lifehacker.com/what-s-the-worst-advice-you-ve-ever-received-1848869696)
 - [Lifehacker] [This Article Was Written by AI](https://lifehacker.com/this-article-was-written-by-ai-1848869022)
