@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Space Complexity in Algorithm](https://dev.to/aryakris/space-complexity-in-algorithm-474g)
+- [Dev.to/JS] [Developer led Kubernetes experience - No DevOps experience needed](https://dev.to/brunoa19/developer-led-kubernetes-experience-no-devops-experience-needed-319m)
 - [Dev.to/JS] [Como funciona el compilador de Angular](https://dev.to/macaoblog/como-funciona-el-compilador-de-angular-3e5k)
 - [Dev.to/JS] [Introducing SpectaQL 1.0 - an even better way to autogenerate GraphQL API documentation](https://dev.to/useanvil/introducing-spectaql-10-an-even-better-way-to-autogenerate-graphql-api-documentation-32cg)
 - [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Low-code and no-code make tech more inclusive](https://dev.to/richkurtzman/low-code-and-no-code-make-tech-more-inclusive-27pe)
 - [Dev.to/JS] [Building My First Chrome Extension - Reddit Filter](https://dev.to/tommyli97/building-my-first-chrome-extension-reddit-filter-312m)
 - [Lifehacker] [How to Make Friends While Traveling Alone](https://lifehacker.com/how-to-make-friends-while-traveling-alone-1848873458)
-- [Dev.to/JS] [102. Binary Tree Level Order Traversal 🚀](https://dev.to/samuelhinchliffe/102-binary-tree-level-order-traversal-2oh5)
-- [Dev.to/JS] [Learning React &lpar;I&rpar;: Three HelloWorld examples](https://dev.to/davidjguru/learning-react-i-three-helloworld-examples-276)
 - [Lifehacker] [The Best Phones for People Who Hate Upgrading](https://lifehacker.com/the-best-phones-for-people-who-hate-upgrading-1848872793)
 - [Lifehacker] [Where to Donate Locally to Help People Access Abortions](https://lifehacker.com/where-to-donate-locally-to-help-people-access-abortions-1848873651)
 - [Lifehacker] [Here’s Where Your Teacher Discount Works Year-Round](https://lifehacker.com/here-s-where-your-teacher-discount-works-year-round-1848873513)
