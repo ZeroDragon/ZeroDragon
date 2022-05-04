@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What and how do I perform a search operation in Typesense?](https://dev.to/aviyel/what-and-how-do-i-perform-a-search-operation-in-typesense-5gc5)
+- [Dev.to/JS] [How to make a word count tool with vanilla JavaScript](https://dev.to/emmykolic/how-to-make-a-word-count-tool-with-vanilla-javascript-285n)
+- [Dev.to/JS] [Dockerize NodeJs Application](https://dev.to/drsimplegraffiti/dockerize-nodejs-application-2p3i)
 - [Dev.to/JS] [Svelte Capsize Styling: Typography Tooling](https://dev.to/askrodney/svelte-capsize-styling-typography-tooling-2d66)
 - [Dev.to/JS] [Day 4 -Difference between slice&lpar;&rpar; and splice&lpar;&rpar; in javascript!](https://dev.to/sanjaybabu/day-4-difference-between-slice-and-splice-in-javascript-309n)
 - [Dev.to/JS] [12 javascript pro snippet codes for everyday problems😎😎](https://dev.to/ashishdonga/12-javascript-pro-snippet-codes-for-everyday-problems-hfn)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [https://www.facebook.com/UnabisCBDGummiesReviewsOfficial/](https://dev.to/unabisgum/httpswwwfacebookcomunabiscbdgummiesreviewsofficial-3i4l)
 - [Dev.to/JS] [What is difference between undefined &amp; null in javascript ? 🚀 🚀](https://dev.to/ashishdonga/what-is-difference-between-undefined-null-in-javascript--40gc)
 - [Dev.to/JS] [JavaScript Refersher](https://dev.to/vigneshm243/javascript-refersher-4385)
-- [Dev.to/JS] [Writing cross-platform components for web and React Native](https://dev.to/sapegin/writing-cross-platform-components-for-web-and-react-native-c56)
-- [Dev.to/JS] [Don&#39;t use 100vh for mobile responsive](https://dev.to/nirazanbasnet/dont-use-100vh-for-mobile-responsive-3o97)
-- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak184/kamal-acharya-4db4)
 - [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
 - [Lifehacker] [You Are Overlooking the Best Mother’s Day Gift](https://lifehacker.com/you-are-overlooking-the-best-mother-s-day-gift-1848874934)
 - [Lifehacker] [Everything New in Firefox 100 on Desktop and Mobile](https://lifehacker.com/everything-new-in-firefox-100-on-desktop-and-mobile-1848875763)
