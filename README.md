@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Quick Guide to Mitosis: Why You Need It and How You Can Use It](https://dev.to/builderio/a-quick-guide-to-mitosis-why-you-need-it-and-how-you-can-use-it-3klc)
+- [Lifehacker] [Are Movie Theater Subscriptions Actually Worth It?](https://lifehacker.com/are-movie-theater-subscriptions-actually-worth-it-1848880483)
+- [Dev.to/JS] [Building a non-blocking page loader](https://dev.to/jmau111/building-a-non-blocking-page-loader-3ml7)
 - [Lifehacker] [8 of the Most Delicious Vegetarian Snacks to Feed Your Kids](https://lifehacker.com/8-of-the-most-delicious-vegetarian-snacks-to-feed-your-1848879303)
+- [Dev.to/JS] [Don&#39;t blame the developer for what the frameworks did!](https://dev.to/builderio/dont-blame-the-developer-for-what-the-frameworks-did-402g)
 - [Dev.to/JS] [Memory Game](https://dev.to/danny_ricchf34/memory-game-2j4k)
 - [Dev.to/JS] [Top 7 features of ES6 in Javascript](https://dev.to/code_with_aravind/top-7-features-of-es6-in-javascript-2p8c)
 - [Dev.to/JS] [React Native-Theming support!](https://dev.to/kjgm/react-native-theming-support-nod)
@@ -37,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Battle of Frontend Frameworks &lpar;2022&rpar;](https://dev.to/shubhamseth/battle-of-frontend-frameworks-2022-4iim)
 - [Dev.to/JS] [Day-80 Training At Ryaz](https://dev.to/mahin651/day-80-training-at-ryaz-4po8)
 - [Lifehacker] [The 5 Worst Bugs to Find in Your House &lpar;and 5 That Aren’t So Bad&rpar;](https://lifehacker.com/the-5-worst-bugs-to-find-in-your-house-and-5-that-aren-1848875915)
-- [Dev.to/JS] [6 GitHub Repositories for Web3](https://dev.to/surajondev/6-github-repositories-for-web3-25hc)
 - [Lifehacker] [May the Fourth, Rex Manning Day, and 10 More Made-Up Movie and TV Holidays](https://lifehacker.com/may-the-fourth-rex-manning-day-and-10-more-made-up-mo-1848873299)
 - [Lifehacker] [How to Stop Windows 11 From Updating Automatically](https://lifehacker.com/how-to-stop-windows-11-from-updating-automatically-1848877844)
-- [Dev.to/JS] [How we learned to paginate data](https://dev.to/learninglocker/how-we-learned-to-paginate-data-1kc1)
-- [Dev.to/JS] [ELI5: Dependency Injection &lpar;Javascript&rpar;](https://dev.to/stansey92/eli5-dependency-injection-javascript-i1d)
 - [Lifehacker] [What Is a Power of Attorney Agent &lpar;and How Do You Choose One&rpar;?](https://lifehacker.com/what-is-a-power-of-attorney-agent-and-how-do-you-choos-1848875598)
 - [Lifehacker] [You Should Be Using Orange Peels in Your Garden](https://lifehacker.com/you-should-be-using-orange-peels-in-your-garden-1848875790)
 - [Lifehacker] [Why Knowing Your Area&#39;s &#39;Hardiness Zone&#39; Can Keep Your Plants Alive](https://lifehacker.com/why-knowing-your-areas-hardiness-zone-can-keep-your-pla-1848877091)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Donate Locally to Help People Access Abortions](https://lifehacker.com/where-to-donate-locally-to-help-people-access-abortions-1848873651)
 - [Lifehacker] [Here’s Where Your Teacher Discount Works Year-Round](https://lifehacker.com/here-s-where-your-teacher-discount-works-year-round-1848873513)
 - [Lifehacker] [The ‘Four Horsemen’ That Can Predict Whether You’ll Get Divorced](https://lifehacker.com/the-four-horsemen-that-can-predict-whether-you-ll-get-1848870580)
-- [Lifehacker] [This Site Helps You Find Books Set Where You Live](https://lifehacker.com/this-site-helps-you-find-books-set-where-you-live-1848873520)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
