@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Docker and Dockerfile](https://dev.to/evanhameed99/docker-and-dockerfile-111a)
+- [Dev.to/JS] [How to make your website work offline](https://dev.to/lukeecart/how-to-make-your-website-work-offline-3ick)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 - [Dev.to/JS] [Tutorial: Connect to MetaMask using vanilla JavaScript](https://dev.to/lnmunhoz/tutorial-connect-to-metamask-using-vanilla-javascript-45gm)
 - [Dev.to/JS] [TypeScript vs JavaScript: What&#39;s the difference?](https://dev.to/educative/typescript-vs-javascript-whats-the-difference-n5m)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 7 features of ES6 in Javascript](https://dev.to/code_with_aravind/top-7-features-of-es6-in-javascript-2p8c)
 - [Dev.to/JS] [React Native-Theming support!](https://dev.to/kjgm/react-native-theming-support-nod)
 - [Lifehacker] [What to Expect at Your First Therapy Appointment &lpar;and How to Prepare for It&rpar;](https://lifehacker.com/what-to-expect-at-your-first-therapy-appointment-and-h-1848879319)
-- [Dev.to/JS] [Create button to download image using HTML, CSS, and Javascript](https://dev.to/incoderweb/create-button-to-download-image-using-html-css-and-javascript-3l6o)
-- [Dev.to/JS] [let var const - variables in js](https://dev.to/nameismani/let-var-const-variables-in-js-4d61)
 - [Lifehacker] [8 of the Best Bachelor or Bachelorette Party Destinations &lpar;That Aren’t Las Vegas or Miami&rpar;](https://lifehacker.com/8-of-the-best-bachelor-or-bachelorette-party-destinatio-1848875899)
 - [Lifehacker] [How to Parent an Empath](https://lifehacker.com/how-to-parent-an-empath-1848876177)
 - [Lifehacker] [The 5 Worst Bugs to Find in Your House &lpar;and 5 That Aren’t So Bad&rpar;](https://lifehacker.com/the-5-worst-bugs-to-find-in-your-house-and-5-that-aren-1848875915)
