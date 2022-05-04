@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Etch A Sketch Done!](https://dev.to/warmastr/etch-a-sketch-done-2o2i)
+- [Dev.to/JS] [Refactoring React: Manage page paths through path functions](https://dev.to/gustavofsantos/refactoring-react-manage-page-paths-through-path-functions-2dk0)
 - [Dev.to/JS] [Space Complexity in Algorithm](https://dev.to/aryakris/space-complexity-in-algorithm-474g)
 - [Dev.to/JS] [Developer led Kubernetes experience - No DevOps experience needed](https://dev.to/brunoa19/developer-led-kubernetes-experience-no-devops-experience-needed-319m)
 - [Dev.to/JS] [Como funciona el compilador de Angular](https://dev.to/macaoblog/como-funciona-el-compilador-de-angular-3e5k)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Just Make One Giant Crouton](https://lifehacker.com/just-make-one-giant-crouton-1848874432)
 - [Lifehacker] [These Habits Are Making You More Irritable](https://lifehacker.com/these-habits-are-making-you-more-irritable-1848874006)
 - [Dev.to/JS] [HTML + JS + Python = hard](https://dev.to/vulcanwm/html-js-python-hard-519g)
-- [Dev.to/JS] [Low-code and no-code make tech more inclusive](https://dev.to/richkurtzman/low-code-and-no-code-make-tech-more-inclusive-27pe)
-- [Dev.to/JS] [Building My First Chrome Extension - Reddit Filter](https://dev.to/tommyli97/building-my-first-chrome-extension-reddit-filter-312m)
 - [Lifehacker] [How to Make Friends While Traveling Alone](https://lifehacker.com/how-to-make-friends-while-traveling-alone-1848873458)
 - [Lifehacker] [The Best Phones for People Who Hate Upgrading](https://lifehacker.com/the-best-phones-for-people-who-hate-upgrading-1848872793)
 - [Lifehacker] [Where to Donate Locally to Help People Access Abortions](https://lifehacker.com/where-to-donate-locally-to-help-people-access-abortions-1848873651)
