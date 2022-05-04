@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte Capsize Styling: Typography Tooling](https://dev.to/askrodney/svelte-capsize-styling-typography-tooling-2d66)
+- [Dev.to/JS] [Day 4 -Difference between slice&lpar;&rpar; and splice&lpar;&rpar; in javascript!](https://dev.to/sanjaybabu/day-4-difference-between-slice-and-splice-in-javascript-309n)
 - [Dev.to/JS] [12 javascript pro snippet codes for everyday problems😎😎](https://dev.to/ashishdonga/12-javascript-pro-snippet-codes-for-everyday-problems-hfn)
 - [Dev.to/JS] [This Week In React #104: Zag, Next.js, Remix, Ultra, ClickToComponent, Tilg, Component Party, Expo, Skia, TypeScript...](https://dev.to/sebastienlorber/this-week-in-react-104-zag-nextjs-remix-ultra-clicktocomponent-tilg-component-party-expo-skia-typescript-5g8i)
 - [Dev.to/JS] [Building a Nuxt Modules clone with Nuxt 3, TailwindCSS, Storyblok, and Vercel](https://dev.to/jacobandrewsky/building-a-nuxt-modules-clone-with-nuxt-3-tailwindcss-storyblok-and-vercel-3g4k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing cross-platform components for web and React Native](https://dev.to/sapegin/writing-cross-platform-components-for-web-and-react-native-c56)
 - [Dev.to/JS] [Don&#39;t use 100vh for mobile responsive](https://dev.to/nirazanbasnet/dont-use-100vh-for-mobile-responsive-3o97)
 - [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak184/kamal-acharya-4db4)
-- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak184/kamal-acharya-3odl)
-- [Dev.to/JS] [What Other than Coding You Should Prepare?](https://dev.to/keshavgbpecdel/what-other-than-coding-you-should-prepare-57g3)
 - [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
 - [Lifehacker] [You Are Overlooking the Best Mother’s Day Gift](https://lifehacker.com/you-are-overlooking-the-best-mother-s-day-gift-1848874934)
 - [Lifehacker] [Everything New in Firefox 100 on Desktop and Mobile](https://lifehacker.com/everything-new-in-firefox-100-on-desktop-and-mobile-1848875763)
