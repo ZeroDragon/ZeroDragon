@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t use 100vh for mobile responsive](https://dev.to/nirazanbasnet/dont-use-100vh-for-mobile-responsive-3o97)
+- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak184/kamal-acharya-4db4)
+- [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak184/kamal-acharya-3odl)
 - [Dev.to/JS] [What Other than Coding You Should Prepare?](https://dev.to/keshavgbpecdel/what-other-than-coding-you-should-prepare-57g3)
+- [Dev.to/JS] [How to make your web application fully responsive with WebSockets](https://dev.to/contreras9/how-to-make-your-web-application-fully-responsive-with-websockets-35k8)
 - [Dev.to/JS] [Etch A Sketch Done!](https://dev.to/warmastr/etch-a-sketch-done-2o2i)
 - [Dev.to/JS] [Refactoring React: Manage page paths through path functions](https://dev.to/gustavofsantos/refactoring-react-manage-page-paths-through-path-functions-2dk0)
 - [Dev.to/JS] [Space Complexity in Algorithm](https://dev.to/aryakris/space-complexity-in-algorithm-474g)
@@ -32,13 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing SpectaQL 1.0 - an even better way to autogenerate GraphQL API documentation](https://dev.to/useanvil/introducing-spectaql-10-an-even-better-way-to-autogenerate-graphql-api-documentation-32cg)
 - [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
 - [Dev.to/JS] [Build React components with Fluent UI](https://dev.to/asayerio_techblog/build-react-components-with-fluent-ui-4m9b)
-- [Dev.to/JS] [#02: Building Static Web Apps](https://dev.to/azure/02-building-static-web-apps-2j72)
 - [Lifehacker] [You Are Overlooking the Best Mother’s Day Gift](https://lifehacker.com/you-are-overlooking-the-best-mother-s-day-gift-1848874934)
-- [Dev.to/JS] [What I learned making Scrimba&#39;s Colour Tool 🍭](https://dev.to/pharaohnutz/what-i-learned-making-scrimbas-colour-tool-4lhi)
 - [Lifehacker] [Everything New in Firefox 100 on Desktop and Mobile](https://lifehacker.com/everything-new-in-firefox-100-on-desktop-and-mobile-1848875763)
-- [Dev.to/JS] [How to build a serverless notification system on AWS](https://dev.to/serverless_inc/how-to-build-a-serverless-notification-system-on-aws-g4e)
 - [Lifehacker] [How to Grow Plants That Eat Things](https://lifehacker.com/how-to-grow-plants-that-eat-things-1848875703)
-- [Dev.to/JS] [I built JS Diary📙- Browser based coding environment for JavaScript](https://dev.to/karishmashukla/i-built-js-diary-browser-based-coding-environment-for-javascript-4lm5)
 - [Lifehacker] [Know These Terms Before Jumping Into an Abortion Debate](https://lifehacker.com/know-these-terms-before-jumping-into-an-abortion-debate-1848873487)
 - [Lifehacker] [Just Make One Giant Crouton](https://lifehacker.com/just-make-one-giant-crouton-1848874432)
 - [Lifehacker] [These Habits Are Making You More Irritable](https://lifehacker.com/these-habits-are-making-you-more-irritable-1848874006)
