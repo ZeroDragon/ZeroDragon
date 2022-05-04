@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Nuxt Modules clone with Nuxt 3, TailwindCSS, Storyblok, and Vercel](https://dev.to/jacobandrewsky/building-a-nuxt-modules-clone-with-nuxt-3-tailwindcss-storyblok-and-vercel-3g4k)
+- [Dev.to/JS] [ShowDEV - A open source job Board](https://dev.to/namanvyas/showdev-a-open-source-job-board-3nhd)
 - [Dev.to/JS] [https://www.facebook.com/UnabisCBDGummiesReviewsOfficial/](https://dev.to/unabisgum/httpswwwfacebookcomunabiscbdgummiesreviewsofficial-3i4l)
 - [Dev.to/JS] [What is difference between undefined &amp; null in javascript ? 🚀 🚀](https://dev.to/ashishdonga/what-is-difference-between-undefined-null-in-javascript--40gc)
 - [Dev.to/JS] [JavaScript Refersher](https://dev.to/vigneshm243/javascript-refersher-4385)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Other than Coding You Should Prepare?](https://dev.to/keshavgbpecdel/what-other-than-coding-you-should-prepare-57g3)
 - [Dev.to/JS] [How to make your web application fully responsive with WebSockets](https://dev.to/contreras9/how-to-make-your-web-application-fully-responsive-with-websockets-35k8)
 - [Dev.to/JS] [Etch A Sketch Done!](https://dev.to/warmastr/etch-a-sketch-done-2o2i)
-- [Dev.to/JS] [Refactoring React: Manage page paths through path functions](https://dev.to/gustavofsantos/refactoring-react-manage-page-paths-through-path-functions-2dk0)
-- [Dev.to/JS] [Space Complexity in Algorithm](https://dev.to/aryakris/space-complexity-in-algorithm-474g)
 - [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
 - [Lifehacker] [You Are Overlooking the Best Mother’s Day Gift](https://lifehacker.com/you-are-overlooking-the-best-mother-s-day-gift-1848874934)
 - [Lifehacker] [Everything New in Firefox 100 on Desktop and Mobile](https://lifehacker.com/everything-new-in-firefox-100-on-desktop-and-mobile-1848875763)
