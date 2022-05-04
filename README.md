@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
+- [Dev.to/JS] [Tutorial: Connect to MetaMask using vanilla JavaScript](https://dev.to/lnmunhoz/tutorial-connect-to-metamask-using-vanilla-javascript-45gm)
+- [Dev.to/JS] [TypeScript vs JavaScript: What&#39;s the difference?](https://dev.to/educative/typescript-vs-javascript-whats-the-difference-n5m)
+- [Lifehacker] [Why You Should Get Your REAL ID Now](https://lifehacker.com/why-you-should-get-your-real-id-now-1848881027)
+- [Lifehacker] [FFS, Sunscreen Isn&#39;t Bad for You](https://lifehacker.com/ffs-sunscreen-isnt-bad-for-you-1848880914)
 - [Dev.to/JS] [814. Binary Tree Pruning 🚀](https://dev.to/samuelhinchliffe/814-binary-tree-pruning-56c1)
 - [Lifehacker] [Set This Hidden iPhone Timer to Shut Your Music Off After You Fall Asleep](https://lifehacker.com/set-this-hidden-iphone-timer-to-shut-your-music-off-aft-1848880266)
 - [Dev.to/JS] [How web browsers work - executing the Javascript &lpar;part 5, with illustrations&rpar;💻🌠](https://dev.to/arikaturika/how-web-browsers-work-executing-the-javascript-part-5-with-illustrations-21ok)
@@ -39,8 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create button to download image using HTML, CSS, and Javascript](https://dev.to/incoderweb/create-button-to-download-image-using-html-css-and-javascript-3l6o)
 - [Dev.to/JS] [let var const - variables in js](https://dev.to/nameismani/let-var-const-variables-in-js-4d61)
 - [Lifehacker] [8 of the Best Bachelor or Bachelorette Party Destinations &lpar;That Aren’t Las Vegas or Miami&rpar;](https://lifehacker.com/8-of-the-best-bachelor-or-bachelorette-party-destinatio-1848875899)
-- [Dev.to/JS] [Orientação a objetos baseada em protótipos parte 2](https://dev.to/urielsouza29/orientacao-a-objetos-baseada-em-prototipos-parte-2-pck)
-- [Dev.to/JS] [run python code in html files](https://dev.to/m7d/run-python-code-in-html-files-c8n)
 - [Lifehacker] [How to Parent an Empath](https://lifehacker.com/how-to-parent-an-empath-1848876177)
 - [Lifehacker] [The 5 Worst Bugs to Find in Your House &lpar;and 5 That Aren’t So Bad&rpar;](https://lifehacker.com/the-5-worst-bugs-to-find-in-your-house-and-5-that-aren-1848875915)
 - [Lifehacker] [May the Fourth, Rex Manning Day, and 10 More Made-Up Movie and TV Holidays](https://lifehacker.com/may-the-fourth-rex-manning-day-and-10-more-made-up-mo-1848873299)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Know These Terms Before Jumping Into an Abortion Debate](https://lifehacker.com/know-these-terms-before-jumping-into-an-abortion-debate-1848873487)
 - [Lifehacker] [Just Make One Giant Crouton](https://lifehacker.com/just-make-one-giant-crouton-1848874432)
 - [Lifehacker] [These Habits Are Making You More Irritable](https://lifehacker.com/these-habits-are-making-you-more-irritable-1848874006)
-- [Lifehacker] [How to Make Friends While Traveling Alone](https://lifehacker.com/how-to-make-friends-while-traveling-alone-1848873458)
-- [Lifehacker] [The Best Phones for People Who Hate Upgrading](https://lifehacker.com/the-best-phones-for-people-who-hate-upgrading-1848872793)
-- [Lifehacker] [Where to Donate Locally to Help People Access Abortions](https://lifehacker.com/where-to-donate-locally-to-help-people-access-abortions-1848873651)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
