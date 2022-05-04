@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [814. Binary Tree Pruning 🚀](https://dev.to/samuelhinchliffe/814-binary-tree-pruning-56c1)
+- [Lifehacker] [Set This Hidden iPhone Timer to Shut Your Music Off After You Fall Asleep](https://lifehacker.com/set-this-hidden-iphone-timer-to-shut-your-music-off-aft-1848880266)
+- [Dev.to/JS] [How web browsers work - executing the Javascript &lpar;part 5, with illustrations&rpar;💻🌠](https://dev.to/arikaturika/how-web-browsers-work-executing-the-javascript-part-5-with-illustrations-21ok)
+- [Lifehacker] [9 Ways to Foster Financial Intimacy in a New Relationship](https://lifehacker.com/9-ways-to-foster-financial-intimacy-in-a-new-relationsh-1848878428)
 - [Dev.to/JS] [A Quick Guide to Mitosis: Why You Need It and How You Can Use It](https://dev.to/builderio/a-quick-guide-to-mitosis-why-you-need-it-and-how-you-can-use-it-3klc)
 - [Lifehacker] [Are Movie Theater Subscriptions Actually Worth It?](https://lifehacker.com/are-movie-theater-subscriptions-actually-worth-it-1848880483)
 - [Dev.to/JS] [Building a non-blocking page loader](https://dev.to/jmau111/building-a-non-blocking-page-loader-3ml7)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Orientação a objetos baseada em protótipos parte 2](https://dev.to/urielsouza29/orientacao-a-objetos-baseada-em-prototipos-parte-2-pck)
 - [Dev.to/JS] [run python code in html files](https://dev.to/m7d/run-python-code-in-html-files-c8n)
 - [Lifehacker] [How to Parent an Empath](https://lifehacker.com/how-to-parent-an-empath-1848876177)
-- [Dev.to/JS] [Battle of Frontend Frameworks &lpar;2022&rpar;](https://dev.to/shubhamseth/battle-of-frontend-frameworks-2022-4iim)
-- [Dev.to/JS] [Day-80 Training At Ryaz](https://dev.to/mahin651/day-80-training-at-ryaz-4po8)
 - [Lifehacker] [The 5 Worst Bugs to Find in Your House &lpar;and 5 That Aren’t So Bad&rpar;](https://lifehacker.com/the-5-worst-bugs-to-find-in-your-house-and-5-that-aren-1848875915)
 - [Lifehacker] [May the Fourth, Rex Manning Day, and 10 More Made-Up Movie and TV Holidays](https://lifehacker.com/may-the-fourth-rex-manning-day-and-10-more-made-up-mo-1848873299)
 - [Lifehacker] [How to Stop Windows 11 From Updating Automatically](https://lifehacker.com/how-to-stop-windows-11-from-updating-automatically-1848877844)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Friends While Traveling Alone](https://lifehacker.com/how-to-make-friends-while-traveling-alone-1848873458)
 - [Lifehacker] [The Best Phones for People Who Hate Upgrading](https://lifehacker.com/the-best-phones-for-people-who-hate-upgrading-1848872793)
 - [Lifehacker] [Where to Donate Locally to Help People Access Abortions](https://lifehacker.com/where-to-donate-locally-to-help-people-access-abortions-1848873651)
-- [Lifehacker] [Here’s Where Your Teacher Discount Works Year-Round](https://lifehacker.com/here-s-where-your-teacher-discount-works-year-round-1848873513)
-- [Lifehacker] [The ‘Four Horsemen’ That Can Predict Whether You’ll Get Divorced](https://lifehacker.com/the-four-horsemen-that-can-predict-whether-you-ll-get-1848870580)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
