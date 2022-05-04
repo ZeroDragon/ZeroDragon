@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Be Using Orange Peels in Your Garden](https://lifehacker.com/you-should-be-using-orange-peels-in-your-garden-1848875790)
+- [Dev.to/JS] [smooth scrolling](https://dev.to/vasanths/smooth-scrolling-12gn)
+- [Dev.to/JS] [230. Kth Smallest Element in a BST 🚀](https://dev.to/samuelhinchliffe/230-kth-smallest-element-in-a-bst-1k3i)
+- [Dev.to/JS] [Redirect with React Router v6](https://dev.to/jkap100/redirect-with-react-router-v6-1og4)
+- [Lifehacker] [Why Knowing Your Area&#39;s &#39;Hardiness Zone&#39; Can Keep Your Plants Alive](https://lifehacker.com/why-knowing-your-areas-hardiness-zone-can-keep-your-pla-1848877091)
 - [Dev.to/JS] [Can I have a Full Stack Mentor?](https://dev.to/abhiwebby/can-i-have-a-full-stack-mentor-20pi)
 - [Dev.to/JS] [Vue3 Learning Record.](https://dev.to/vophanlee/vue3-learning-record-51mi)
 - [Dev.to/JS] [5 ways that converting to optional chaining can break your JavaScript code](https://dev.to/lgrammel/5-ways-that-converting-to-optional-chaining-can-break-your-javascript-code-153b)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What and how do I perform a search operation in Typesense?](https://dev.to/aviyel/what-and-how-do-i-perform-a-search-operation-in-typesense-5gc5)
 - [Dev.to/JS] [How to make a word count tool with vanilla JavaScript](https://dev.to/emmykolic/how-to-make-a-word-count-tool-with-vanilla-javascript-285n)
 - [Dev.to/JS] [Dockerize NodeJs Application](https://dev.to/drsimplegraffiti/dockerize-nodejs-application-2p3i)
-- [Dev.to/JS] [Svelte Capsize Styling: Typography Tooling](https://dev.to/askrodney/svelte-capsize-styling-typography-tooling-2d66)
-- [Dev.to/JS] [Day 4 -Difference between slice&lpar;&rpar; and splice&lpar;&rpar; in javascript!](https://dev.to/sanjaybabu/day-4-difference-between-slice-and-splice-in-javascript-309n)
-- [Dev.to/JS] [12 javascript pro snippet codes for everyday problems😎😎](https://dev.to/ashishdonga/12-javascript-pro-snippet-codes-for-everyday-problems-hfn)
 - [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
 - [Lifehacker] [You Are Overlooking the Best Mother’s Day Gift](https://lifehacker.com/you-are-overlooking-the-best-mother-s-day-gift-1848874934)
 - [Lifehacker] [Everything New in Firefox 100 on Desktop and Mobile](https://lifehacker.com/everything-new-in-firefox-100-on-desktop-and-mobile-1848875763)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 Clever Ways You Didn’t Know You Could Use Sandpaper](https://lifehacker.com/12-clever-ways-you-didn-t-know-you-could-use-sandpaper-1848867904)
 - [Lifehacker] [The Right Way to Take a &lpar;Wild&rpar; Leek](https://lifehacker.com/the-right-way-to-take-a-wild-leek-1848869797)
 - [Lifehacker] [Update Your Pixel Now to Squash These Bugs](https://lifehacker.com/update-your-pixel-now-to-squash-these-bugs-1848869608)
-- [Lifehacker] [Five Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/five-things-in-your-home-you-should-probably-replace-ri-1848869645)
-- [Lifehacker] [When to Watch the Lunar Eclipse in May](https://lifehacker.com/when-to-watch-the-lunar-eclipse-in-may-1848869638)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
