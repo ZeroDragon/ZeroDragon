@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 5 Worst Bugs to Find in Your House &lpar;and 5 That Aren’t So Bad&rpar;](https://lifehacker.com/the-5-worst-bugs-to-find-in-your-house-and-5-that-aren-1848875915)
+- [Dev.to/JS] [6 GitHub Repositories for Web3](https://dev.to/surajondev/6-github-repositories-for-web3-25hc)
+- [Lifehacker] [May the Fourth, Rex Manning Day, and 10 More Made-Up Movie and TV Holidays](https://lifehacker.com/may-the-fourth-rex-manning-day-and-10-more-made-up-mo-1848873299)
 - [Lifehacker] [How to Stop Windows 11 From Updating Automatically](https://lifehacker.com/how-to-stop-windows-11-from-updating-automatically-1848877844)
 - [Dev.to/JS] [How we learned to paginate data](https://dev.to/learninglocker/how-we-learned-to-paginate-data-1kc1)
 - [Dev.to/JS] [ELI5: Dependency Injection &lpar;Javascript&rpar;](https://dev.to/stansey92/eli5-dependency-injection-javascript-i1d)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue3 Learning Record.](https://dev.to/vophanlee/vue3-learning-record-51mi)
 - [Dev.to/JS] [JavaScript Refactoring Gotchas: 5 Ways Converting to Optional Chaining Can Break Your Code](https://dev.to/lgrammel/5-ways-that-converting-to-optional-chaining-can-break-your-javascript-code-153b)
 - [Lifehacker] [Once You’re Done Reposting Infographics About Injustice, Do This](https://lifehacker.com/once-you-re-done-reposting-infographics-about-injustice-1848875824)
-- [Dev.to/JS] [Javascript — 7 useful concepts with example](https://dev.to/canopassoftware/javascript-7-useful-concepts-with-example-1abn)
 - [Lifehacker] [How to Navigate the Ongoing Baby Formula Shortage](https://lifehacker.com/how-to-navigate-the-ongoing-baby-formula-shortage-1848873787)
 - [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
 - [Lifehacker] [You Are Overlooking the Best Mother’s Day Gift](https://lifehacker.com/you-are-overlooking-the-best-mother-s-day-gift-1848874934)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid Passing Your Fears on to Your Children](https://lifehacker.com/how-to-avoid-passing-your-fears-on-to-your-children-1848871152)
 - [Lifehacker] [How to Make Your Front Door More Secure](https://lifehacker.com/how-to-make-your-front-door-more-secure-1848871492)
 - [Lifehacker] [What Cinco de Mayo Actually Celebrates](https://lifehacker.com/what-cinco-de-mayo-actually-celebrates-1848871447)
-- [Lifehacker] [What Are the Worst Wedding Guest Faux Pas You’ve Ever Seen?](https://lifehacker.com/what-are-the-worst-wedding-guest-faux-pas-you-ve-ever-s-1848869546)
-- [Lifehacker] [12 Clever Ways You Didn’t Know You Could Use Sandpaper](https://lifehacker.com/12-clever-ways-you-didn-t-know-you-could-use-sandpaper-1848867904)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
