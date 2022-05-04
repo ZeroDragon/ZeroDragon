@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Docker and Dockerfile](https://dev.to/evanhameed99/docker-and-dockerfile-111a)
+- [Dev.to/JS] [Microservices](https://dev.to/zainbinfurqan/microservices-3b12)
+- [Dev.to/JS] [Manual form input bindings in Vue.js](https://dev.to/kouts/manual-form-input-bindings-in-vuejs-4hjo)
+- [Dev.to/JS] [Video to gif converter using Wasm](https://dev.to/aryank21/video-to-gif-convertor-using-wasm-4c41)
 - [Dev.to/JS] [How to make your website work offline](https://dev.to/lukeecart/how-to-make-your-website-work-offline-3ick)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 - [Dev.to/JS] [Tutorial: Connect to MetaMask using vanilla JavaScript](https://dev.to/lnmunhoz/tutorial-connect-to-metamask-using-vanilla-javascript-45gm)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of the Most Delicious Vegetarian Snacks to Feed Your Kids](https://lifehacker.com/8-of-the-most-delicious-vegetarian-snacks-to-feed-your-1848879303)
 - [Dev.to/JS] [Don&#39;t blame the developer for what the frameworks did!](https://dev.to/builderio/dont-blame-the-developer-for-what-the-frameworks-did-402g)
 - [Dev.to/JS] [Memory Game](https://dev.to/danny_ricchf34/memory-game-2j4k)
-- [Dev.to/JS] [Top 7 features of ES6 in Javascript](https://dev.to/code_with_aravind/top-7-features-of-es6-in-javascript-2p8c)
-- [Dev.to/JS] [React Native-Theming support!](https://dev.to/kjgm/react-native-theming-support-nod)
 - [Lifehacker] [What to Expect at Your First Therapy Appointment &lpar;and How to Prepare for It&rpar;](https://lifehacker.com/what-to-expect-at-your-first-therapy-appointment-and-h-1848879319)
 - [Lifehacker] [8 of the Best Bachelor or Bachelorette Party Destinations &lpar;That Aren’t Las Vegas or Miami&rpar;](https://lifehacker.com/8-of-the-best-bachelor-or-bachelorette-party-destinatio-1848875899)
 - [Lifehacker] [How to Parent an Empath](https://lifehacker.com/how-to-parent-an-empath-1848876177)
