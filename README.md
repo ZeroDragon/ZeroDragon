@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 of the Most Delicious Vegetarian Snacks to Feed Your Kids](https://lifehacker.com/8-of-the-most-delicious-vegetarian-snacks-to-feed-your-1848879303)
+- [Dev.to/JS] [Memory Game](https://dev.to/danny_ricchf34/memory-game-2j4k)
+- [Dev.to/JS] [Top 7 features of ES6 in Javascript](https://dev.to/code_with_aravind/top-7-features-of-es6-in-javascript-2p8c)
+- [Dev.to/JS] [React Native-Theming support!](https://dev.to/kjgm/react-native-theming-support-nod)
+- [Lifehacker] [What to Expect at Your First Therapy Appointment &lpar;and How to Prepare for It&rpar;](https://lifehacker.com/what-to-expect-at-your-first-therapy-appointment-and-h-1848879319)
+- [Dev.to/JS] [Create button to download image using HTML, CSS, and Javascript](https://dev.to/incoderweb/create-button-to-download-image-using-html-css-and-javascript-3l6o)
 - [Dev.to/JS] [let var const - variables in js](https://dev.to/nameismani/let-var-const-variables-in-js-4d61)
 - [Lifehacker] [8 of the Best Bachelor or Bachelorette Party Destinations &lpar;That Aren’t Las Vegas or Miami&rpar;](https://lifehacker.com/8-of-the-best-bachelor-or-bachelorette-party-destinatio-1848875899)
 - [Dev.to/JS] [Orientação a objetos baseada em protótipos parte 2](https://dev.to/urielsouza29/orientacao-a-objetos-baseada-em-prototipos-parte-2-pck)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Windows 11 From Updating Automatically](https://lifehacker.com/how-to-stop-windows-11-from-updating-automatically-1848877844)
 - [Dev.to/JS] [How we learned to paginate data](https://dev.to/learninglocker/how-we-learned-to-paginate-data-1kc1)
 - [Dev.to/JS] [ELI5: Dependency Injection &lpar;Javascript&rpar;](https://dev.to/stansey92/eli5-dependency-injection-javascript-i1d)
-- [Dev.to/JS] [How to add a CMS to your Gatsby Website](https://dev.to/hr21don/how-to-add-a-cms-to-your-gatsby-website-1bka)
-- [Dev.to/JS] [The programmers experience](https://dev.to/adebiyiitunuayo/the-programmers-experience-70h)
 - [Lifehacker] [What Is a Power of Attorney Agent &lpar;and How Do You Choose One&rpar;?](https://lifehacker.com/what-is-a-power-of-attorney-agent-and-how-do-you-choos-1848875598)
-- [Dev.to/JS] [Understanding Functional Component and Class Component](https://dev.to/chukshon/understanding-functional-component-and-class-component-4ak6)
 - [Lifehacker] [You Should Be Using Orange Peels in Your Garden](https://lifehacker.com/you-should-be-using-orange-peels-in-your-garden-1848875790)
-- [Dev.to/JS] [smooth scrolling](https://dev.to/vasanths/smooth-scrolling-12gn)
 - [Lifehacker] [Why Knowing Your Area&#39;s &#39;Hardiness Zone&#39; Can Keep Your Plants Alive](https://lifehacker.com/why-knowing-your-areas-hardiness-zone-can-keep-your-pla-1848877091)
 - [Lifehacker] [Once You’re Done Reposting Infographics About Injustice, Do This](https://lifehacker.com/once-you-re-done-reposting-infographics-about-injustice-1848875824)
 - [Lifehacker] [How to Navigate the Ongoing Baby Formula Shortage](https://lifehacker.com/how-to-navigate-the-ongoing-baby-formula-shortage-1848873787)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here’s Where Your Teacher Discount Works Year-Round](https://lifehacker.com/here-s-where-your-teacher-discount-works-year-round-1848873513)
 - [Lifehacker] [The ‘Four Horsemen’ That Can Predict Whether You’ll Get Divorced](https://lifehacker.com/the-four-horsemen-that-can-predict-whether-you-ll-get-1848870580)
 - [Lifehacker] [This Site Helps You Find Books Set Where You Live](https://lifehacker.com/this-site-helps-you-find-books-set-where-you-live-1848873520)
-- [Lifehacker] [How to Stock an Apocalypse Pantry](https://lifehacker.com/how-to-stock-an-apocalypse-pantry-with-nutritious-food-1848873174)
-- [Lifehacker] [How to Avoid Passing Your Fears on to Your Children](https://lifehacker.com/how-to-avoid-passing-your-fears-on-to-your-children-1848871152)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
