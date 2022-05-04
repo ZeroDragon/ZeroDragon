@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [let var const - variables in js](https://dev.to/nameismani/let-var-const-variables-in-js-4d61)
+- [Lifehacker] [8 of the Best Bachelor or Bachelorette Party Destinations &lpar;That Aren’t Las Vegas or Miami&rpar;](https://lifehacker.com/8-of-the-best-bachelor-or-bachelorette-party-destinatio-1848875899)
+- [Dev.to/JS] [Orientação a objetos baseada em protótipos parte 2](https://dev.to/urielsouza29/orientacao-a-objetos-baseada-em-prototipos-parte-2-pck)
+- [Dev.to/JS] [run python code in html files](https://dev.to/m7d/run-python-code-in-html-files-c8n)
+- [Lifehacker] [How to Parent an Empath](https://lifehacker.com/how-to-parent-an-empath-1848876177)
+- [Dev.to/JS] [Battle of Frontend Frameworks &lpar;2022&rpar;](https://dev.to/shubhamseth/battle-of-frontend-frameworks-2022-4iim)
+- [Dev.to/JS] [Day-80 Training At Ryaz](https://dev.to/mahin651/day-80-training-at-ryaz-4po8)
 - [Lifehacker] [The 5 Worst Bugs to Find in Your House &lpar;and 5 That Aren’t So Bad&rpar;](https://lifehacker.com/the-5-worst-bugs-to-find-in-your-house-and-5-that-aren-1848875915)
 - [Dev.to/JS] [6 GitHub Repositories for Web3](https://dev.to/surajondev/6-github-repositories-for-web3-25hc)
 - [Lifehacker] [May the Fourth, Rex Manning Day, and 10 More Made-Up Movie and TV Holidays](https://lifehacker.com/may-the-fourth-rex-manning-day-and-10-more-made-up-mo-1848873299)
@@ -35,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Functional Component and Class Component](https://dev.to/chukshon/understanding-functional-component-and-class-component-4ak6)
 - [Lifehacker] [You Should Be Using Orange Peels in Your Garden](https://lifehacker.com/you-should-be-using-orange-peels-in-your-garden-1848875790)
 - [Dev.to/JS] [smooth scrolling](https://dev.to/vasanths/smooth-scrolling-12gn)
-- [Dev.to/JS] [230. Kth Smallest Element in a BST 🚀](https://dev.to/samuelhinchliffe/230-kth-smallest-element-in-a-bst-1k3i)
-- [Dev.to/JS] [Redirect with React Router v6](https://dev.to/jkap100/redirect-with-react-router-v6-1og4)
 - [Lifehacker] [Why Knowing Your Area&#39;s &#39;Hardiness Zone&#39; Can Keep Your Plants Alive](https://lifehacker.com/why-knowing-your-areas-hardiness-zone-can-keep-your-pla-1848877091)
-- [Dev.to/JS] [Can I have a Full Stack Mentor?](https://dev.to/abhiwebby/can-i-have-a-full-stack-mentor-20pi)
-- [Dev.to/JS] [Vue3 Learning Record.](https://dev.to/vophanlee/vue3-learning-record-51mi)
-- [Dev.to/JS] [JavaScript Refactoring Gotchas: 5 Ways Converting to Optional Chaining Can Break Your Code](https://dev.to/lgrammel/5-ways-that-converting-to-optional-chaining-can-break-your-javascript-code-153b)
 - [Lifehacker] [Once You’re Done Reposting Infographics About Injustice, Do This](https://lifehacker.com/once-you-re-done-reposting-infographics-about-injustice-1848875824)
 - [Lifehacker] [How to Navigate the Ongoing Baby Formula Shortage](https://lifehacker.com/how-to-navigate-the-ongoing-baby-formula-shortage-1848873787)
 - [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Site Helps You Find Books Set Where You Live](https://lifehacker.com/this-site-helps-you-find-books-set-where-you-live-1848873520)
 - [Lifehacker] [How to Stock an Apocalypse Pantry](https://lifehacker.com/how-to-stock-an-apocalypse-pantry-with-nutritious-food-1848873174)
 - [Lifehacker] [How to Avoid Passing Your Fears on to Your Children](https://lifehacker.com/how-to-avoid-passing-your-fears-on-to-your-children-1848871152)
-- [Lifehacker] [How to Make Your Front Door More Secure](https://lifehacker.com/how-to-make-your-front-door-more-secure-1848871492)
-- [Lifehacker] [What Cinco de Mayo Actually Celebrates](https://lifehacker.com/what-cinco-de-mayo-actually-celebrates-1848871447)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
