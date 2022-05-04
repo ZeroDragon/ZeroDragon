@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing cross-platform components for web and React Native](https://dev.to/sapegin/writing-cross-platform-components-for-web-and-react-native-c56)
 - [Dev.to/JS] [Don&#39;t use 100vh for mobile responsive](https://dev.to/nirazanbasnet/dont-use-100vh-for-mobile-responsive-3o97)
 - [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak184/kamal-acharya-4db4)
 - [Dev.to/JS] [Kamal Acharya](https://dev.to/acharyak184/kamal-acharya-3odl)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Como funciona el compilador de Angular](https://dev.to/macaoblog/como-funciona-el-compilador-de-angular-3e5k)
 - [Dev.to/JS] [Introducing SpectaQL 1.0 - an even better way to autogenerate GraphQL API documentation](https://dev.to/useanvil/introducing-spectaql-10-an-even-better-way-to-autogenerate-graphql-api-documentation-32cg)
 - [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
-- [Dev.to/JS] [Build React components with Fluent UI](https://dev.to/asayerio_techblog/build-react-components-with-fluent-ui-4m9b)
 - [Lifehacker] [You Are Overlooking the Best Mother’s Day Gift](https://lifehacker.com/you-are-overlooking-the-best-mother-s-day-gift-1848874934)
 - [Lifehacker] [Everything New in Firefox 100 on Desktop and Mobile](https://lifehacker.com/everything-new-in-firefox-100-on-desktop-and-mobile-1848875763)
 - [Lifehacker] [How to Grow Plants That Eat Things](https://lifehacker.com/how-to-grow-plants-that-eat-things-1848875703)
