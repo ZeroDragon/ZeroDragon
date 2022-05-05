@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Avoid Dead-End Tasks at Work &lpar;Without Risking Your Job&rpar;](https://lifehacker.com/how-to-avoid-dead-end-tasks-at-work-without-risking-yo-1848883718)
+- [Dev.to/JS] [300+ Free Programming Books &lpar;Updated For 2022&rpar;](https://dev.to/faijanofficial/300-free-programming-books-30dn)
+- [Lifehacker] [When to See the Eta Aquarid Meteor Shower Peak](https://lifehacker.com/when-to-see-the-eta-aquarid-meteor-shower-peak-1848885590)
+- [Dev.to/JS] [Babel ES6+ Base Project Example](https://dev.to/rafaelrferreira/babel-es6-base-project-example-44dn)
+- [Dev.to/JS] [Complete guide to understanding the React UseState hook](https://dev.to/efkumah/complete-guide-to-understanding-the-react-usestate-hook-2gmk)
+- [Lifehacker] [What You Should Know Before Self-Publishing a Book](https://lifehacker.com/what-you-should-know-before-self-publishing-a-book-1848885033)
 - [Dev.to/JS] [Day-81 Training At Ryaz](https://dev.to/mahin651/day-81-training-at-ryaz-4i2e)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Immature at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-immature-at-wor-1848880761)
 - [Dev.to/JS] [JavaScript Exercises](https://dev.to/warmastr/javascript-exercises-1dd5)
@@ -37,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redux in PURE React Native](https://dev.to/silvenleaf/redux-in-pure-react-native-31d8)
 - [Dev.to/JS] [tricky css selector](https://dev.to/frankwisniewski/tricky-css-selector-ib7)
 - [Lifehacker] [13 Persistent Online Scams &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/13-persistent-online-scams-and-how-to-avoid-them-1848882890)
-- [Dev.to/JS] [Tutorial hell: The escape &lpar;part two&rpar;](https://dev.to/joaohass/tutorial-hell-the-escape-part-two-2efi)
-- [Dev.to/JS] [Resources for Learning Atomic Testing](https://dev.to/nikolayadvolodkin/resources-for-learning-atomic-testing-20gn)
 - [Lifehacker] [How Long Does Liquor Last After You Open a Bottle?](https://lifehacker.com/how-long-does-liquor-last-after-you-open-a-bottle-1848884450)
-- [Dev.to/JS] [Open Source Adventures: Episode 51: Polishing Russian Losses App](https://dev.to/taw/open-source-adventures-episode-51-polishing-russian-losses-app-2a91)
 - [Lifehacker] [Where to Find Greeting Cards That Aren’t Sappy, Cliché, or Otherwise Annoying](https://lifehacker.com/where-to-find-greeting-cards-that-aren-t-sappy-cliche-1848875459)
 - [Lifehacker] [Here Are the Signs You Might Have Adult Dyslexia &lpar;and What to Do About It&rpar;](https://lifehacker.com/here-are-the-signs-you-might-have-adult-dyslexia-and-w-1848868925)
 - [Lifehacker] [Your Passwords Are Worse Than You Think &lpar;and the Easiest Ways to Fix Them&rpar;](https://lifehacker.com/your-passwords-are-worse-than-you-think-and-the-easies-1848874581)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Parent an Empath](https://lifehacker.com/how-to-parent-an-empath-1848876177)
 - [Lifehacker] [The 5 Worst Bugs to Find in Your House &lpar;and 5 That Aren’t So Bad&rpar;](https://lifehacker.com/the-5-worst-bugs-to-find-in-your-house-and-5-that-aren-1848875915)
 - [Lifehacker] [May the Fourth, Rex Manning Day, and 10 More Made-Up Movie and TV Holidays](https://lifehacker.com/may-the-fourth-rex-manning-day-and-10-more-made-up-mo-1848873299)
-- [Lifehacker] [How to Stop Windows 11 From Updating Automatically](https://lifehacker.com/how-to-stop-windows-11-from-updating-automatically-1848877844)
-- [Lifehacker] [What Is a Power of Attorney Agent &lpar;and How Do You Choose One&rpar;?](https://lifehacker.com/what-is-a-power-of-attorney-agent-and-how-do-you-choos-1848875598)
-- [Lifehacker] [You Should Be Using Orange Peels in Your Garden](https://lifehacker.com/you-should-be-using-orange-peels-in-your-garden-1848875790)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
