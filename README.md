@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Unlimited perspective animation with HTML, CSS](https://dev.to/fullstackhacker/unlimited-perspective-animation-with-html-css-bob)
+- [Dev.to/JS] [#03: API-Enabling Static Web Apps](https://dev.to/azure/03-api-enabling-static-web-apps-25kh)
 - [Dev.to/JS] [DDD Services](https://dev.to/yanpiing/ddd-services-1cm7)
 - [Dev.to/JS] [Voice enabled forms in React with Speechly](https://dev.to/asayerio_techblog/voice-enabled-forms-in-react-with-speechly-1i8m)
 - [Dev.to/JS] [Hoisting in Javascript](https://dev.to/hacker4world/hoisting-in-javascript-252j)
@@ -34,10 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to make your website work offline](https://dev.to/lukeecart/how-to-make-your-website-work-offline-3ick)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 - [Dev.to/JS] [Tutorial: Connect to MetaMask using vanilla JavaScript](https://dev.to/lnmunhoz/tutorial-connect-to-metamask-using-vanilla-javascript-45gm)
-- [Dev.to/JS] [TypeScript vs JavaScript: What&#39;s the difference?](https://dev.to/educative/typescript-vs-javascript-whats-the-difference-n5m)
 - [Lifehacker] [Why You Should Get Your REAL ID Now](https://lifehacker.com/why-you-should-get-your-real-id-now-1848881027)
 - [Lifehacker] [FFS, Sunscreen Isn&#39;t Bad for You](https://lifehacker.com/ffs-sunscreen-isnt-bad-for-you-1848880914)
-- [Dev.to/JS] [814. Binary Tree Pruning 🚀](https://dev.to/samuelhinchliffe/814-binary-tree-pruning-56c1)
 - [Lifehacker] [Set This Hidden iPhone Timer to Shut Your Music Off After You Fall Asleep](https://lifehacker.com/set-this-hidden-iphone-timer-to-shut-your-music-off-aft-1848880266)
 - [Lifehacker] [9 Ways to Foster Financial Intimacy in a New Relationship](https://lifehacker.com/9-ways-to-foster-financial-intimacy-in-a-new-relationsh-1848878428)
 - [Lifehacker] [Are Movie Theater Subscriptions Actually Worth It?](https://lifehacker.com/are-movie-theater-subscriptions-actually-worth-it-1848880483)
