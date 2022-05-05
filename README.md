@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hire Android Developer](https://dev.to/hiredeveloper/hire-android-developer-3854)
+- [Dev.to/JS] [Why You Should Ditch Create-React-App for Vite](https://dev.to/israelmitolu/why-you-should-ditch-create-react-app-for-vite-57kj)
+- [Dev.to/JS] [Navigation in PURE React Native](https://dev.to/silvenleaf/navigation-in-pure-react-native-2ilf)
+- [Dev.to/JS] [Solidity, smart contracts et IPFS](https://dev.to/younup/solidity-smart-contracts-et-ipfs-5h2o)
 - [Dev.to/JS] [Become the warrior of the night&lpar;Shhh! It&#39;s dark mode&rpar;](https://dev.to/sobhandash/become-the-warrior-of-the-nightshhh-its-dark-mode-45e1)
 - [Dev.to/JS] [Javascript Animation 6](https://dev.to/fullstackhacker/javascript-animation-6-3fb8)
 - [Dev.to/JS] [12 Modern CSS Techniques For Older CSS Problems](https://dev.to/lambdatest/12-modern-css-techniques-for-older-css-problems-5abb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Animation 3](https://dev.to/fullstackhacker/javascript-animation-3-55mg)
 - [Dev.to/JS] [IGenics - Eye Benefits, Uses, Price &amp; Ingredients?](https://dev.to/igenicspills/igenics-eye-benefits-uses-price-ingredients-1k7a)
 - [Dev.to/JS] [Javascript Animation 2](https://dev.to/fullstackhacker/javascript-animation-2-2bc7)
-- [Dev.to/JS] [Javascript Animation 1](https://dev.to/fullstackhacker/javascript-animation-1-2g7c)
-- [Dev.to/JS] [We will OSS the Next.js + web3 starter kit](https://dev.to/petertakahashi/we-will-oss-the-nextjs-web3-starter-kit-oec)
-- [Dev.to/JS] [The Big O of Objects](https://dev.to/aryakris/the-big-o-of-objects-40mi)
-- [Dev.to/JS] [Mock new Date with sinon](https://dev.to/ilumin/mock-new-date-with-sinon-1n4a)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 - [Lifehacker] [Why You Should Get Your REAL ID Now](https://lifehacker.com/why-you-should-get-your-real-id-now-1848881027)
 - [Lifehacker] [FFS, Sunscreen Isn&#39;t Bad for You](https://lifehacker.com/ffs-sunscreen-isnt-bad-for-you-1848880914)
