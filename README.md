@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple qr/barcode scanning with svelte and Html5Qrcode](https://dev.to/myleftshoe/simple-qrbarcode-scanning-with-svelte-and-html5qrcode-1d59)
+- [Dev.to/JS] [Why unity is considered as best for developing mobile games?](https://dev.to/hiwilliam2/why-unity-is-considered-as-best-for-developing-mobile-games-1hlp)
 - [Dev.to/JS] [Hire Android Developer](https://dev.to/hiredeveloper/hire-android-developer-3854)
 - [Dev.to/JS] [Why You Should Ditch Create-React-App for Vite](https://dev.to/israelmitolu/why-you-should-ditch-create-react-app-for-vite-57kj)
 - [Dev.to/JS] [Navigation in PURE React Native](https://dev.to/silvenleaf/navigation-in-pure-react-native-2ilf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Animation 5](https://dev.to/fullstackhacker/javascript-animation-5-4if5)
 - [Dev.to/JS] [Javascript Animation 4](https://dev.to/fullstackhacker/javascript-animation-4-2jl9)
 - [Dev.to/JS] [Javascript Animation 3](https://dev.to/fullstackhacker/javascript-animation-3-55mg)
-- [Dev.to/JS] [IGenics - Eye Benefits, Uses, Price &amp; Ingredients?](https://dev.to/igenicspills/igenics-eye-benefits-uses-price-ingredients-1k7a)
-- [Dev.to/JS] [Javascript Animation 2](https://dev.to/fullstackhacker/javascript-animation-2-2bc7)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 - [Lifehacker] [Why You Should Get Your REAL ID Now](https://lifehacker.com/why-you-should-get-your-real-id-now-1848881027)
 - [Lifehacker] [FFS, Sunscreen Isn&#39;t Bad for You](https://lifehacker.com/ffs-sunscreen-isnt-bad-for-you-1848880914)
