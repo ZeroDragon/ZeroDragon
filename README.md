@@ -23,9 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Need Help from Professionals !!!](https://dev.to/himanshupal0001/need-help-from-professionals--3mo7)
+- [Dev.to/JS] [From building to selling - EP.05](https://dev.to/twankrui/from-building-to-selling-ep05-31i9)
 - [Dev.to/JS] [Simple qr/barcode scanning with svelte and Html5Qrcode](https://dev.to/myleftshoe/simple-qrbarcode-scanning-with-svelte-and-html5qrcode-1d59)
-- [Dev.to/JS] [Why unity is considered as best for developing mobile games?](https://dev.to/hiwilliam2/why-unity-is-considered-as-best-for-developing-mobile-games-1hlp)
-- [Dev.to/JS] [Hire Android Developer](https://dev.to/hiredeveloper/hire-android-developer-3854)
 - [Dev.to/JS] [Why You Should Ditch Create-React-App for Vite](https://dev.to/israelmitolu/why-you-should-ditch-create-react-app-for-vite-57kj)
 - [Dev.to/JS] [Navigation in PURE React Native](https://dev.to/silvenleaf/navigation-in-pure-react-native-2ilf)
 - [Dev.to/JS] [Solidity, smart contracts et IPFS](https://dev.to/younup/solidity-smart-contracts-et-ipfs-5h2o)
