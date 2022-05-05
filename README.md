@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [A Beginner’s Guide to Runners’ Terminology](https://lifehacker.com/a-beginner-s-guide-to-runners-terminology-1848884759)
+- [Dev.to/JS] [Porquê todos deveriam aprender programação](https://dev.to/darrow/porque-todos-deveriam-aprender-programacao-5f2n)
+- [Dev.to/JS] [Frontend State Management: keep it simple](https://dev.to/aleixsuau/frontend-state-management-keep-it-simple-b47)
+- [Lifehacker] [What It Actually Means to &#39;Tone&#39; Your Muscles](https://lifehacker.com/what-it-actually-means-to-tone-your-muscles-1848881975)
 - [Lifehacker] [This AI Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
 - [Dev.to/JS] [Redux in PURE React Native](https://dev.to/silvenleaf/redux-in-pure-react-native-31d8)
 - [Dev.to/JS] [tricky css selector](https://dev.to/frankwisniewski/tricky-css-selector-ib7)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tools of the Trade: Dyte CLI](https://dev.to/atechnohazard/tools-of-the-trade-dyte-cli-52ia)
 - [Dev.to/JS] [Starting time](https://dev.to/omar_majdi/starting-time-enl)
 - [Dev.to/JS] [7 killer JavaScript One-Liners You Must Know 😎😎](https://dev.to/ashishdonga/7-killer-javascript-one-liners-you-must-know-nhm)
-- [Dev.to/JS] [Array.reduce&lpar;&rpar; - for reducing an array to a single value](https://dev.to/dillionmegida/arrayreduce-for-reducing-an-array-to-a-single-value-31a6)
-- [Dev.to/JS] [High order functions in Javascript](https://dev.to/hacker4world/high-order-functions-in-javascript-1nf2)
 - [Lifehacker] [You Can Finally Use VRR on PlayStation 5](https://lifehacker.com/you-can-finally-use-vrr-on-playstation-5-1848880760)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 - [Lifehacker] [Why You Should Get Your REAL ID Now](https://lifehacker.com/why-you-should-get-your-real-id-now-1848881027)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is a Power of Attorney Agent &lpar;and How Do You Choose One&rpar;?](https://lifehacker.com/what-is-a-power-of-attorney-agent-and-how-do-you-choos-1848875598)
 - [Lifehacker] [You Should Be Using Orange Peels in Your Garden](https://lifehacker.com/you-should-be-using-orange-peels-in-your-garden-1848875790)
 - [Lifehacker] [Why Knowing Your Area&#39;s &#39;Hardiness Zone&#39; Can Keep Your Plants Alive](https://lifehacker.com/why-knowing-your-areas-hardiness-zone-can-keep-your-pla-1848877091)
-- [Lifehacker] [Once You’re Done Reposting Infographics About Injustice, Do This](https://lifehacker.com/once-you-re-done-reposting-infographics-about-injustice-1848875824)
-- [Lifehacker] [How to Navigate the Ongoing Baby Formula Shortage](https://lifehacker.com/how-to-navigate-the-ongoing-baby-formula-shortage-1848873787)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
