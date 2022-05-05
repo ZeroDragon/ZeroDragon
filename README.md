@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Animation 1](https://dev.to/fullstackhacker/javascript-animation-1-2g7c)
+- [Dev.to/JS] [We will OSS the Next.js + web3 starter kit](https://dev.to/petertakahashi/we-will-oss-the-nextjs-web3-starter-kit-oec)
 - [Dev.to/JS] [The Big O of Objects](https://dev.to/aryakris/the-big-o-of-objects-40mi)
 - [Dev.to/JS] [Mock new Date with sinon](https://dev.to/ilumin/mock-new-date-with-sinon-1n4a)
 - [Dev.to/JS] [How to implement Magic Link Authentication with Next.js and Altogic](https://dev.to/altogic/how-to-implement-magic-link-authentication-with-nextjs-and-altogic-4dc9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rubber Ducky You&#39;re The One](https://dev.to/lostoneway/rubber-ducky-youre-the-one-25p6)
 - [Dev.to/JS] [Unlimited perspective animation with HTML, CSS](https://dev.to/fullstackhacker/unlimited-perspective-animation-with-html-css-bob)
 - [Dev.to/JS] [#03: API-Enabling Static Web Apps](https://dev.to/azure/03-api-enabling-static-web-apps-25kh)
-- [Dev.to/JS] [DDD Services](https://dev.to/yanpiing/ddd-services-1cm7)
-- [Dev.to/JS] [Voice enabled forms in React with Speechly](https://dev.to/asayerio_techblog/voice-enabled-forms-in-react-with-speechly-1i8m)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 - [Lifehacker] [Why You Should Get Your REAL ID Now](https://lifehacker.com/why-you-should-get-your-real-id-now-1848881027)
 - [Lifehacker] [FFS, Sunscreen Isn&#39;t Bad for You](https://lifehacker.com/ffs-sunscreen-isnt-bad-for-you-1848880914)
