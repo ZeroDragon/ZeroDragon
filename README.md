@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useReducer Is A Better Option Than useState](https://dev.to/asayerio_techblog/usereducer-is-a-better-option-than-usestate-3e60)
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 - [Dev.to/JS] [DDD Repositórios](https://dev.to/yanpiing/ddd-repositorios-3kk9)
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Babel ES6+ Base Project Example](https://dev.to/rafaelrferreira/babel-es6-base-project-example-44dn)
 - [Dev.to/JS] [Complete guide to understanding the React UseState hook](https://dev.to/efkumah/complete-guide-to-understanding-the-react-usestate-hook-2gmk)
 - [Lifehacker] [What You Should Know Before Self-Publishing a Book](https://lifehacker.com/what-you-should-know-before-self-publishing-a-book-1848885033)
-- [Dev.to/JS] [Day-81 Training At Ryaz](https://dev.to/mahin651/day-81-training-at-ryaz-4i2e)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Immature at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-immature-at-wor-1848880761)
 - [Lifehacker] [A Beginner’s Guide to Runners’ Terminology](https://lifehacker.com/a-beginner-s-guide-to-runners-terminology-1848884759)
 - [Lifehacker] [What It Actually Means to &#39;Tone&#39; Your Muscles](https://lifehacker.com/what-it-actually-means-to-tone-your-muscles-1848881975)
