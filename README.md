@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Setup and Start Using TailWind](https://dev.to/codesphere/how-to-setup-and-start-using-tailwind-2khk)
+- [Lifehacker] [Your Passwords Are Worse Than You Think &lpar;and the Easiest Ways to Fix Them&rpar;](https://lifehacker.com/your-passwords-are-worse-than-you-think-and-the-easies-1848874581)
+- [Dev.to/JS] [Tools of the Trade: Dyte CLI](https://dev.to/atechnohazard/tools-of-the-trade-dyte-cli-52ia)
 - [Dev.to/JS] [Starting time](https://dev.to/omar_majdi/starting-time-enl)
 - [Dev.to/JS] [7 killer JavaScript One-Liners You Must Know 😎😎](https://dev.to/ashishdonga/7-killer-javascript-one-liners-you-must-know-nhm)
 - [Dev.to/JS] [Array.reduce&lpar;&rpar; - for reducing an array to a single value](https://dev.to/dillionmegida/arrayreduce-for-reducing-an-array-to-a-single-value-31a6)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Document Editing Made Easy: Syncfusion Word Processor + Wisej](https://dev.to/syncfusion/document-editing-made-easy-syncfusion-word-processor-wisej-14gj)
 - [Dev.to/JS] [Need Help from Professionals !!!](https://dev.to/himanshupal0001/need-help-from-professionals--3mo7)
 - [Dev.to/JS] [From building to selling - EP.05](https://dev.to/twankrui/from-building-to-selling-ep05-31i9)
-- [Dev.to/JS] [Simple qr/barcode scanning with svelte and Html5Qrcode](https://dev.to/myleftshoe/simple-qrbarcode-scanning-with-svelte-and-html5qrcode-1d59)
-- [Dev.to/JS] [Why You Should Ditch Create-React-App for Vite](https://dev.to/israelmitolu/why-you-should-ditch-create-react-app-for-vite-57kj)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 - [Lifehacker] [Why You Should Get Your REAL ID Now](https://lifehacker.com/why-you-should-get-your-real-id-now-1848881027)
 - [Lifehacker] [FFS, Sunscreen Isn&#39;t Bad for You](https://lifehacker.com/ffs-sunscreen-isnt-bad-for-you-1848880914)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything New in Firefox 100 on Desktop and Mobile](https://lifehacker.com/everything-new-in-firefox-100-on-desktop-and-mobile-1848875763)
 - [Lifehacker] [How to Grow Plants That Eat Things](https://lifehacker.com/how-to-grow-plants-that-eat-things-1848875703)
 - [Lifehacker] [Know These Terms Before Jumping Into an Abortion Debate](https://lifehacker.com/know-these-terms-before-jumping-into-an-abortion-debate-1848873487)
-- [Lifehacker] [Just Make One Giant Crouton](https://lifehacker.com/just-make-one-giant-crouton-1848874432)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
