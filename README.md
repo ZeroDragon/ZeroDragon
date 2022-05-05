@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This AI Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
+- [Dev.to/JS] [Redux in PURE React Native](https://dev.to/silvenleaf/redux-in-pure-react-native-31d8)
+- [Dev.to/JS] [tricky css selector](https://dev.to/frankwisniewski/tricky-css-selector-ib7)
+- [Lifehacker] [13 Persistent Online Scams &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/13-persistent-online-scams-and-how-to-avoid-them-1848882890)
+- [Dev.to/JS] [Tutorial hell: The escape &lpar;part two&rpar;](https://dev.to/joaohass/tutorial-hell-the-escape-part-two-2efi)
+- [Dev.to/JS] [Resources for Learning Atomic Testing](https://dev.to/nikolayadvolodkin/resources-for-learning-atomic-testing-20gn)
 - [Lifehacker] [How Long Does Liquor Last After You Open a Bottle?](https://lifehacker.com/how-long-does-liquor-last-after-you-open-a-bottle-1848884450)
 - [Dev.to/JS] [Open Source Adventures: Episode 51: Polishing Russian Losses App](https://dev.to/taw/open-source-adventures-episode-51-polishing-russian-losses-app-2a91)
 - [Lifehacker] [Where to Find Greeting Cards That Aren’t Sappy, Cliché, or Otherwise Annoying](https://lifehacker.com/where-to-find-greeting-cards-that-aren-t-sappy-cliche-1848875459)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 killer JavaScript One-Liners You Must Know 😎😎](https://dev.to/ashishdonga/7-killer-javascript-one-liners-you-must-know-nhm)
 - [Dev.to/JS] [Array.reduce&lpar;&rpar; - for reducing an array to a single value](https://dev.to/dillionmegida/arrayreduce-for-reducing-an-array-to-a-single-value-31a6)
 - [Dev.to/JS] [High order functions in Javascript](https://dev.to/hacker4world/high-order-functions-in-javascript-1nf2)
-- [Dev.to/JS] [The Beginning](https://dev.to/omar_majdi/the-beginning-3p1m)
 - [Lifehacker] [You Can Finally Use VRR on PlayStation 5](https://lifehacker.com/you-can-finally-use-vrr-on-playstation-5-1848880760)
-- [Dev.to/JS] [Fist day in the community](https://dev.to/jmarcosjova/fist-day-in-the-community-478n)
-- [Dev.to/JS] [SIM Card Based Mobile Authentication with iOS](https://dev.to/tru-id/sim-card-based-mobile-authentication-with-ios-884)
-- [Dev.to/JS] [Document Editing Made Easy: Syncfusion Word Processor + Wisej](https://dev.to/syncfusion/document-editing-made-easy-syncfusion-word-processor-wisej-14gj)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 - [Lifehacker] [Why You Should Get Your REAL ID Now](https://lifehacker.com/why-you-should-get-your-real-id-now-1848881027)
 - [Lifehacker] [FFS, Sunscreen Isn&#39;t Bad for You](https://lifehacker.com/ffs-sunscreen-isnt-bad-for-you-1848880914)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Knowing Your Area&#39;s &#39;Hardiness Zone&#39; Can Keep Your Plants Alive](https://lifehacker.com/why-knowing-your-areas-hardiness-zone-can-keep-your-pla-1848877091)
 - [Lifehacker] [Once You’re Done Reposting Infographics About Injustice, Do This](https://lifehacker.com/once-you-re-done-reposting-infographics-about-injustice-1848875824)
 - [Lifehacker] [How to Navigate the Ongoing Baby Formula Shortage](https://lifehacker.com/how-to-navigate-the-ongoing-baby-formula-shortage-1848873787)
-- [Lifehacker] [5 Underrated Netflix Features You Should Be Using](https://lifehacker.com/5-underrated-netflix-features-you-should-be-using-1848876028)
-- [Lifehacker] [You Are Overlooking the Best Mother’s Day Gift](https://lifehacker.com/you-are-overlooking-the-best-mother-s-day-gift-1848874934)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
