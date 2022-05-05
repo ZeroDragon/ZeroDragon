@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding closures in JavaScript](https://dev.to/digomic/understanding-closures-in-javascript-54pg)
+- [Dev.to/JS] [Learn to deploy Links in an Application using Huawei App Linking](https://dev.to/hmscommunity/learn-to-deploy-links-in-an-application-using-huawei-app-linking-3ekk)
 - [Dev.to/JS] [Rubber Ducky You&#39;re The One](https://dev.to/lostoneway/rubber-ducky-youre-the-one-25p6)
 - [Dev.to/JS] [Unlimited perspective animation with HTML, CSS](https://dev.to/fullstackhacker/unlimited-perspective-animation-with-html-css-bob)
 - [Dev.to/JS] [#03: API-Enabling Static Web Apps](https://dev.to/azure/03-api-enabling-static-web-apps-25kh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Http Server Using Nodejs Net Module](https://dev.to/osmanmrtacar/simple-http-server-using-nodejs-net-module-5aoa)
 - [Dev.to/JS] [Microservices](https://dev.to/zainbinfurqan/microservices-3b12)
 - [Dev.to/JS] [Manual form input bindings in Vue.js](https://dev.to/kouts/manual-form-input-bindings-in-vuejs-4hjo)
-- [Dev.to/JS] [Video to gif converter using Wasm](https://dev.to/aryank21/video-to-gif-convertor-using-wasm-4c41)
-- [Dev.to/JS] [How to make your website work offline](https://dev.to/lukeecart/how-to-make-your-website-work-offline-3ick)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
 - [Lifehacker] [Why You Should Get Your REAL ID Now](https://lifehacker.com/why-you-should-get-your-real-id-now-1848881027)
 - [Lifehacker] [FFS, Sunscreen Isn&#39;t Bad for You](https://lifehacker.com/ffs-sunscreen-isnt-bad-for-you-1848880914)
