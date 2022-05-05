@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DDD Services](https://dev.to/yanpiing/ddd-services-1cm7)
+- [Dev.to/JS] [Voice enabled forms in React with Speechly](https://dev.to/asayerio_techblog/voice-enabled-forms-in-react-with-speechly-1i8m)
+- [Dev.to/JS] [Hoisting in Javascript](https://dev.to/hacker4world/hoisting-in-javascript-252j)
+- [Dev.to/JS] [Fetch API is new old version of AJAX](https://dev.to/diogorodrigues/fetch-api-is-new-old-version-of-ajax-1m14)
+- [Dev.to/JS] [Simple Http Server Using Nodejs Net Module](https://dev.to/osmanmrtacar/simple-http-server-using-nodejs-net-module-5aoa)
 - [Dev.to/JS] [Microservices](https://dev.to/zainbinfurqan/microservices-3b12)
 - [Dev.to/JS] [Manual form input bindings in Vue.js](https://dev.to/kouts/manual-form-input-bindings-in-vuejs-4hjo)
 - [Dev.to/JS] [Video to gif converter using Wasm](https://dev.to/aryank21/video-to-gif-convertor-using-wasm-4c41)
@@ -34,14 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [FFS, Sunscreen Isn&#39;t Bad for You](https://lifehacker.com/ffs-sunscreen-isnt-bad-for-you-1848880914)
 - [Dev.to/JS] [814. Binary Tree Pruning 🚀](https://dev.to/samuelhinchliffe/814-binary-tree-pruning-56c1)
 - [Lifehacker] [Set This Hidden iPhone Timer to Shut Your Music Off After You Fall Asleep](https://lifehacker.com/set-this-hidden-iphone-timer-to-shut-your-music-off-aft-1848880266)
-- [Dev.to/JS] [How web browsers work - executing the Javascript &lpar;part 5, with illustrations&rpar;💻🌠](https://dev.to/arikaturika/how-web-browsers-work-executing-the-javascript-part-5-with-illustrations-21ok)
 - [Lifehacker] [9 Ways to Foster Financial Intimacy in a New Relationship](https://lifehacker.com/9-ways-to-foster-financial-intimacy-in-a-new-relationsh-1848878428)
-- [Dev.to/JS] [A Quick Guide to Mitosis: Why You Need It and How You Can Use It](https://dev.to/builderio/a-quick-guide-to-mitosis-why-you-need-it-and-how-you-can-use-it-3klc)
 - [Lifehacker] [Are Movie Theater Subscriptions Actually Worth It?](https://lifehacker.com/are-movie-theater-subscriptions-actually-worth-it-1848880483)
-- [Dev.to/JS] [Building a non-blocking page loader](https://dev.to/jmau111/building-a-non-blocking-page-loader-3ml7)
 - [Lifehacker] [8 of the Most Delicious Vegetarian Snacks to Feed Your Kids](https://lifehacker.com/8-of-the-most-delicious-vegetarian-snacks-to-feed-your-1848879303)
-- [Dev.to/JS] [Don&#39;t blame the developer for what the frameworks did!](https://dev.to/builderio/dont-blame-the-developer-for-what-the-frameworks-did-402g)
-- [Dev.to/JS] [Memory Game](https://dev.to/danny_ricchf34/memory-game-2j4k)
 - [Lifehacker] [What to Expect at Your First Therapy Appointment &lpar;and How to Prepare for It&rpar;](https://lifehacker.com/what-to-expect-at-your-first-therapy-appointment-and-h-1848879319)
 - [Lifehacker] [8 of the Best Bachelor or Bachelorette Party Destinations &lpar;That Aren’t Las Vegas or Miami&rpar;](https://lifehacker.com/8-of-the-best-bachelor-or-bachelorette-party-destinatio-1848875899)
 - [Lifehacker] [How to Parent an Empath](https://lifehacker.com/how-to-parent-an-empath-1848876177)
