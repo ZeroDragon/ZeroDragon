@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Async Storage in PURE React Native](https://dev.to/silvenleaf/async-storage-in-pure-react-native-177a)
 - [Dev.to/JS] [#04: Configuring Static Web Apps](https://dev.to/azure/04-configuring-static-web-apps-2oa7)
 - [Dev.to/JS] [Javascript Animation 9](https://dev.to/fullstackhacker/javascript-animation-9-3k1h)
 - [Dev.to/JS] [Javascript Animation 7](https://dev.to/fullstackhacker/javascript-animation-7-150l)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making iframes work better](https://dev.to/gilesdring/making-iframes-work-better-49md)
 - [Dev.to/JS] [103. Binary Tree Zigzag Level Order Traversal 🚀](https://dev.to/samuelhinchliffe/103-binary-tree-zigzag-level-order-traversal-3ina)
 - [Lifehacker] [5 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/5-movies-so-bad-theyre-actually-really-good-1848887079)
-- [Dev.to/JS] [Part 3: Creating an embeddable chat widget](https://dev.to/evertvdw/part-3-creating-an-embeddable-chat-widget-3843)
 - [Lifehacker] [Is It Allergies, or Is It COVID?](https://lifehacker.com/is-it-allergies-or-is-it-covid-1848885895)
 - [Lifehacker] [How to Avoid Dead-End Tasks at Work &lpar;Without Risking Your Job&rpar;](https://lifehacker.com/how-to-avoid-dead-end-tasks-at-work-without-risking-yo-1848883718)
 - [Lifehacker] [When to See the Eta Aquarid Meteor Shower Peak](https://lifehacker.com/when-to-see-the-eta-aquarid-meteor-shower-peak-1848885590)
