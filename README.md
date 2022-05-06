@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Object Oriented Programming in JavaScript](https://dev.to/melguachun/object-oriented-programming-in-javascript-447b)
+- [Dev.to/JS] [How to Become a Full Stack Web Developer | Practical Step by Step Frontend and Backend Guideline](https://dev.to/iamraufu/how-to-become-a-full-stack-web-developer-practical-step-by-step-frontend-and-backend-guideline-hme)
 - [Dev.to/JS] [Build Cashflow Reports From JavaScript Spreadsheets and Dynamic Arrays](https://dev.to/grapecity/build-cashflow-reports-from-javascript-spreadsheets-and-dynamic-arrays-3kjg)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day-82 Training At Ryaz](https://dev.to/mahin651/day-82-training-at-ryaz-55b6)
 - [Dev.to/JS] [Document Object Model Specification](https://dev.to/cleancodestudio/document-object-model-specification-2a9o)
 - [Dev.to/JS] [How to build a react application using Codiga Smart Code Snippets?](https://dev.to/codiga/how-to-build-a-react-application-using-codiga-smart-code-snippets-5hdn)
-- [Dev.to/JS] [State of React Wrap-up | April 26, 2022](https://dev.to/thisdotmedia/state-of-react-wrap-up-april-26-2022-2jnj)
-- [Dev.to/JS] [Simple guide to useReducer in react.](https://dev.to/piyushsh/simple-guide-to-usereducer-in-react-4cpb)
 - [Lifehacker] [What to Give Your Parents When They Have Everything and Want Nothing](https://lifehacker.com/what-to-give-your-parents-when-they-have-everything-and-1848887581)
 - [Lifehacker] [How to Create a Home Office in a Tiny-Ass Space](https://lifehacker.com/how-to-create-a-home-office-in-a-tiny-ass-space-1848890951)
 - [Lifehacker] [How to Deal With Traumatizing News Images While Still Staying Informed](https://lifehacker.com/how-to-deal-with-traumatizing-news-images-while-still-s-1848887655)
