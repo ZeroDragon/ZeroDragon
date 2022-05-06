@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use Dynamic Routing in React to Improve UX](https://dev.to/nickmendez/how-to-use-dynamic-routing-in-react-to-improve-ux-4i5e)
+- [Dev.to/JS] [2 NEW killer features coming to TypeScript](https://dev.to/pffigueiredo/2-new-killer-features-coming-to-typescript-3b5j)
 - [Dev.to/JS] [useReducer Is A Better Option Than useState](https://dev.to/asayerio_techblog/usereducer-is-a-better-option-than-usestate-3e60)
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 - [Dev.to/JS] [DDD Repositórios](https://dev.to/yanpiing/ddd-repositorios-3kk9)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid Dead-End Tasks at Work &lpar;Without Risking Your Job&rpar;](https://lifehacker.com/how-to-avoid-dead-end-tasks-at-work-without-risking-yo-1848883718)
 - [Dev.to/JS] [300+ Free Programming Books &lpar;Updated For 2022&rpar;](https://dev.to/faijanofficial/300-free-programming-books-30dn)
 - [Lifehacker] [When to See the Eta Aquarid Meteor Shower Peak](https://lifehacker.com/when-to-see-the-eta-aquarid-meteor-shower-peak-1848885590)
-- [Dev.to/JS] [Babel ES6+ Base Project Example](https://dev.to/rafaelrferreira/babel-es6-base-project-example-44dn)
-- [Dev.to/JS] [Complete guide to understanding the React UseState hook](https://dev.to/efkumah/complete-guide-to-understanding-the-react-usestate-hook-2gmk)
 - [Lifehacker] [What You Should Know Before Self-Publishing a Book](https://lifehacker.com/what-you-should-know-before-self-publishing-a-book-1848885033)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Immature at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-immature-at-wor-1848880761)
 - [Lifehacker] [A Beginner’s Guide to Runners’ Terminology](https://lifehacker.com/a-beginner-s-guide-to-runners-terminology-1848884759)
