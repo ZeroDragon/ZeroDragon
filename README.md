@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improving Upon My React Application &quot;Postr&quot;](https://dev.to/bperez3237/improving-upon-my-react-application-postr-5d60)
 - [Dev.to/JS] [Async Storage in PURE React Native](https://dev.to/silvenleaf/async-storage-in-pure-react-native-177a)
 - [Dev.to/JS] [#04: Configuring Static Web Apps](https://dev.to/azure/04-configuring-static-web-apps-2oa7)
 - [Dev.to/JS] [Javascript Animation 9](https://dev.to/fullstackhacker/javascript-animation-9-3k1h)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
 - [Dev.to/JS] [Making iframes work better](https://dev.to/gilesdring/making-iframes-work-better-49md)
-- [Dev.to/JS] [103. Binary Tree Zigzag Level Order Traversal 🚀](https://dev.to/samuelhinchliffe/103-binary-tree-zigzag-level-order-traversal-3ina)
 - [Lifehacker] [5 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/5-movies-so-bad-theyre-actually-really-good-1848887079)
 - [Lifehacker] [Is It Allergies, or Is It COVID?](https://lifehacker.com/is-it-allergies-or-is-it-covid-1848885895)
 - [Lifehacker] [How to Avoid Dead-End Tasks at Work &lpar;Without Risking Your Job&rpar;](https://lifehacker.com/how-to-avoid-dead-end-tasks-at-work-without-risking-yo-1848883718)
