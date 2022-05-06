@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Are ‘Active Recovery Days’ &lpar;and How Can You Make the Most of Them&rpar;?](https://lifehacker.com/what-are-active-recovery-days-and-how-can-you-make-t-1848886228)
+- [Dev.to/JS] [WordPress Web Application Development: An Unquestionable Choice](https://dev.to/sumitpargen/wordpress-web-application-development-an-unquestionable-choice-4c0b)
+- [Dev.to/JS] [¿Cómo incluir tu librería de js desde un repositorio git privado y desplegar tu proyecto en Netlify?](https://dev.to/raccode/como-incluir-tu-libreria-de-js-desde-un-repositorio-git-privado-en-una-app-hosteada-en-netlify-1a55)
+- [Dev.to/JS] [A Beginner&#39;s Guide to Create SPA with React Js](https://dev.to/hiteshtech/a-beginners-guide-to-create-spa-with-react-js-491c)
 - [Dev.to/JS] [Building Command-Line Apps Using React Ink](https://dev.to/asayerio_techblog/building-command-line-apps-using-react-ink-443o)
 - [Dev.to/JS] [Javascript scope and scope chain](https://dev.to/hacker4world/javascript-scope-and-scope-chain-2515)
 - [Dev.to/JS] [Panda Express Keto - Results, Scam Or Legit Reviews &amp; Where To Buy?](https://dev.to/pandaexpressbu1/panda-express-keto-results-scam-or-legit-reviews-where-to-buy-3ke0)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Prototypes in Javascript in 5 minutes](https://dev.to/juliecherner/prototypes-in-javascript-in-5-minutes-18i0)
 - [Dev.to/JS] [From building to selling - EP.06](https://dev.to/twankrui/from-building-to-selling-ep06-j21)
 - [Dev.to/JS] [IT coder / Project manager &lpar;looking for a job&rpar;](https://dev.to/oivanova74/it-coder-project-manager-looking-for-a-job-2pc7)
-- [Dev.to/JS] [Interact with Confluence Server via REST API using NodeJS&lpar;JS&rpar;](https://dev.to/andriimaliuta/interact-with-confluence-server-via-rest-api-using-nodejsjs-4m93)
-- [Dev.to/JS] [Optimizing database query - In a loop](https://dev.to/ddouble___d/optimizing-database-query-in-a-loop-5hnb)
-- [Dev.to/JS] [Github commits.Why a good commit message is important?](https://dev.to/talenttinaapi/github-commitswhy-a-good-commit-message-is-important-3hdl)
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Set This Hidden iPhone Timer to Shut Your Music Off After You Fall Asleep](https://lifehacker.com/set-this-hidden-iphone-timer-to-shut-your-music-off-aft-1848880266)
 - [Lifehacker] [9 Ways to Foster Financial Intimacy in a New Relationship](https://lifehacker.com/9-ways-to-foster-financial-intimacy-in-a-new-relationsh-1848878428)
 - [Lifehacker] [Are Movie Theater Subscriptions Actually Worth It?](https://lifehacker.com/are-movie-theater-subscriptions-actually-worth-it-1848880483)
-- [Lifehacker] [8 of the Most Delicious Vegetarian Snacks to Feed Your Kids](https://lifehacker.com/8-of-the-most-delicious-vegetarian-snacks-to-feed-your-1848879303)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
