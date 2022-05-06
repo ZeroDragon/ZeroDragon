@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Running a ransomware attack in a Node.js module](https://dev.to/devdevcharlie/running-a-ransomware-attack-in-a-nodejs-module-4hgb)
+- [Lifehacker] [How to Create a Home Office in a Tiny-Ass Space](https://lifehacker.com/how-to-create-a-home-office-in-a-tiny-ass-space-1848890951)
+- [Dev.to/JS] [Object, cyclic or not?](https://dev.to/sonai95/object-cyclic-or-not-568a)
 - [Lifehacker] [How to Deal With Traumatizing News Images While Still Staying Informed](https://lifehacker.com/how-to-deal-with-traumatizing-news-images-while-still-s-1848887655)
 - [Dev.to/JS] [JavaScript Refactoring Combo: Extract array constant from string comparison chain](https://dev.to/lgrammel/javascript-refactoring-combo-extract-array-constant-from-string-comparison-chain-3bm2)
 - [Dev.to/JS] [Best platform for a MERN app deployment &lpar;Heroku or Serverless.com&rpar; ?](https://dev.to/learnacadman/best-platform-for-a-mern-app-deployment-heroku-or-serverlesscom--4ejf)
@@ -36,10 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Worst Wedding Guest Faux Pas, According to Lifehacker Readers](https://lifehacker.com/12-of-the-worst-wedding-guest-faux-pas-according-to-li-1848880628)
 - [Dev.to/JS] [Docker: Ins and Outs](https://dev.to/drsimplegraffiti/docker-ins-and-outs-40hb)
 - [Lifehacker] [What Are ‘Active Recovery Days’ &lpar;and How Can You Make the Most of Them&rpar;?](https://lifehacker.com/what-are-active-recovery-days-and-how-can-you-make-t-1848886228)
-- [Dev.to/JS] [WordPress Web Application Development: An Unquestionable Choice](https://dev.to/sumitpargen/wordpress-web-application-development-an-unquestionable-choice-4c0b)
 - [Dev.to/JS] [¿Cómo incluir tu librería de js desde un repositorio git privado y desplegar tu proyecto en Netlify?](https://dev.to/raccode/como-incluir-tu-libreria-de-js-desde-un-repositorio-git-privado-en-una-app-hosteada-en-netlify-1a55)
 - [Dev.to/JS] [A Beginner&#39;s Guide to Create SPA with React Js](https://dev.to/hiteshtech/a-beginners-guide-to-create-spa-with-react-js-491c)
-- [Dev.to/JS] [Building Command-Line Apps Using React Ink](https://dev.to/asayerio_techblog/building-command-line-apps-using-react-ink-443o)
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Passwords Are Worse Than You Think &lpar;and the Easiest Ways to Fix Them&rpar;](https://lifehacker.com/your-passwords-are-worse-than-you-think-and-the-easies-1848874581)
 - [Lifehacker] [You Can Finally Use VRR on PlayStation 5](https://lifehacker.com/you-can-finally-use-vrr-on-playstation-5-1848880760)
 - [Lifehacker] [Don&#39;t Make These Common Mistakes When You&#39;re in a Courtroom](https://lifehacker.com/dont-make-these-common-mistakes-when-youre-in-a-courtro-1848881175)
-- [Lifehacker] [Why You Should Get Your REAL ID Now](https://lifehacker.com/why-you-should-get-your-real-id-now-1848881027)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
