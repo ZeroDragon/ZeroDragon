@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I discovered an ideal stack for small funny web projects - Vue without build](https://dev.to/apayrus/how-i-discovered-an-ideal-stack-for-small-funny-web-projects-vue-without-build-3i46)
+- [Dev.to/JS] [The complete guide to internationalization in Next.js](https://dev.to/ivandotv/the-complete-guide-to-internationalization-in-nextjs-e6p)
+- [Dev.to/JS] [Prototypes in Javascript in 5 minutes](https://dev.to/juliecherner/prototypes-in-javascript-in-5-minutes-18i0)
+- [Dev.to/JS] [From building to selling - EP.06](https://dev.to/twankrui/from-building-to-selling-ep06-j21)
+- [Dev.to/JS] [IT coder / Project manager &lpar;looking for a job&rpar;](https://dev.to/oivanova74/it-coder-project-manager-looking-for-a-job-2pc7)
 - [Dev.to/JS] [Interact with Confluence Server via REST API using NodeJS&lpar;JS&rpar;](https://dev.to/andriimaliuta/interact-with-confluence-server-via-rest-api-using-nodejsjs-4m93)
 - [Dev.to/JS] [Optimizing database query - In a loop](https://dev.to/ddouble___d/optimizing-database-query-in-a-loop-5hnb)
 - [Dev.to/JS] [Github commits.Why a good commit message is important?](https://dev.to/talenttinaapi/github-commitswhy-a-good-commit-message-is-important-3hdl)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Monolith vs Microservices](https://dev.to/webandappstudio/monolith-vs-microservices-4kg3)
 - [Dev.to/JS] [Switch-cased Error Handling in JavaScript](https://dev.to/zirkelc/switch-cased-error-handling-in-javascript-1h36)
 - [Dev.to/JS] [https://www.facebook.com/KetoStartACVGummiesReviewsOfficial/](https://dev.to/ketostartak/httpswwwfacebookcomketostartacvgummiesreviewsofficial-235m)
-- [Dev.to/JS] [Gradient Color Collection by tishraq28](https://dev.to/tishraq28/gradient-color-collection-by-tishraq28-43c9)
-- [Dev.to/JS] [Typescript Shorts - Module Augmentation](https://dev.to/imkarthikeyan/typescript-shorts-module-augmentation-36jb)
-- [Dev.to/JS] [Introduction to Deep Zoom in WPF - iFour Technolab](https://dev.to/harshalsuthar/introduction-to-deep-zoom-in-wpf-ifour-technolab-48cj)
-- [Dev.to/JS] [Improving Upon My React Application &quot;Postr&quot;](https://dev.to/bperez3237/improving-upon-my-react-application-postr-5d60)
-- [Dev.to/JS] [Async Storage in PURE React Native](https://dev.to/silvenleaf/async-storage-in-pure-react-native-177a)
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
