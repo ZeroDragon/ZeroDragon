@@ -23,10 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testes com NestJs e Prisma](https://dev.to/mrtinsvitor/testes-com-nestjs-e-prisma-24bo)
+- [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
+- [Lifehacker] [Three Good Reasons to Update WhatsApp Right Now](https://lifehacker.com/three-good-reasons-to-update-whatsapp-right-now-1848891855)
 - [Dev.to/JS] [JavaScript - Event Listeners and Handlers](https://dev.to/justtanwa/javascript-event-listeners-and-handlers-1g9)
 - [Lifehacker] [What Are Relationship ‘Pink Flags’ &lpar;and What Can You Do About Them&rpar;?](https://lifehacker.com/what-are-relationship-pink-flags-and-what-can-you-do-1848891493)
 - [Lifehacker] [You Need to Move Your Bethesda Launcher Games and Save Data to Steam](https://lifehacker.com/you-need-to-move-your-bethesda-launcher-games-and-save-1848887077)
 - [Dev.to/JS] [Open Source Adventures: Episode 53: Setting up JSON imports for a Svelte project](https://dev.to/taw/open-source-adventures-episode-53-setting-up-json-imports-for-a-svelte-project-165d)
+- [Dev.to/JS] [How to migrate to Turbo from Lerna for Monorepo managemnt.](https://dev.to/icruzr93/how-to-migrate-to-turbo-from-lerna-5a6b)
 - [Lifehacker] [How to Fix a PS4 That Won&#39;t Read Discs](https://lifehacker.com/how-to-fix-a-ps4-that-wont-read-discs-1848890850)
 - [Dev.to/JS] [Day-6 - Is javascript pass by value or pass by reference?](https://dev.to/sanjaybabu/day-6-is-javascript-pass-by-value-or-pass-by-reference-1p19)
 - [Dev.to/JS] [Making your form more inclusive](https://dev.to/unnotedme/making-your-form-more-inclusive-2imf)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Give Your Parents When They Have Everything and Want Nothing](https://lifehacker.com/what-to-give-your-parents-when-they-have-everything-and-1848887581)
 - [Dev.to/JS] [Running a ransomware attack in a Node.js module](https://dev.to/devdevcharlie/running-a-ransomware-attack-in-a-nodejs-module-4hgb)
 - [Lifehacker] [How to Create a Home Office in a Tiny-Ass Space](https://lifehacker.com/how-to-create-a-home-office-in-a-tiny-ass-space-1848890951)
-- [Dev.to/JS] [Object, cyclic or not?](https://dev.to/sonai95/object-cyclic-or-not-568a)
 - [Lifehacker] [How to Deal With Traumatizing News Images While Still Staying Informed](https://lifehacker.com/how-to-deal-with-traumatizing-news-images-while-still-s-1848887655)
-- [Dev.to/JS] [JavaScript Refactoring: Extract Array Constant From String Comparison Chain](https://dev.to/lgrammel/javascript-refactoring-combo-extract-array-constant-from-string-comparison-chain-3bm2)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Meme-ing the Johnny Depp/Amber Heard Trial](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848889381)
 - [Lifehacker] [A Beginner’s Guide to Designing and Installing Outdoor Lighting](https://lifehacker.com/a-beginner-s-guide-to-designing-and-installing-outdoor-1848887618)
 - [Lifehacker] [12 of the Worst Wedding Guest Faux Pas, According to Lifehacker Readers](https://lifehacker.com/12-of-the-worst-wedding-guest-faux-pas-according-to-li-1848880628)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Beginner’s Guide to Runners’ Terminology](https://lifehacker.com/a-beginner-s-guide-to-runners-terminology-1848884759)
 - [Lifehacker] [What It Actually Means to &#39;Tone&#39; Your Muscles](https://lifehacker.com/what-it-actually-means-to-tone-your-muscles-1848881975)
 - [Lifehacker] [This AI Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
-- [Lifehacker] [13 Persistent Online Scams &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/13-persistent-online-scams-and-how-to-avoid-them-1848882890)
-- [Lifehacker] [How Long Does Liquor Last After You Open a Bottle?](https://lifehacker.com/how-long-does-liquor-last-after-you-open-a-bottle-1848884450)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
