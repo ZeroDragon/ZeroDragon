@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typescript Shorts - Module Augmentation](https://dev.to/imkarthikeyan/typescript-shorts-module-augmentation-36jb)
 - [Dev.to/JS] [Introduction to Deep Zoom in WPF - iFour Technolab](https://dev.to/harshalsuthar/introduction-to-deep-zoom-in-wpf-ifour-technolab-48cj)
 - [Dev.to/JS] [Improving Upon My React Application &quot;Postr&quot;](https://dev.to/bperez3237/improving-upon-my-react-application-postr-5d60)
 - [Dev.to/JS] [Async Storage in PURE React Native](https://dev.to/silvenleaf/async-storage-in-pure-react-native-177a)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [2 NEW killer features coming to TypeScript](https://dev.to/pffigueiredo/2-new-killer-features-coming-to-typescript-3b5j)
 - [Dev.to/JS] [useReducer Is A Better Option Than useState](https://dev.to/asayerio_techblog/usereducer-is-a-better-option-than-usestate-3e60)
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
-- [Dev.to/JS] [DDD Repositórios](https://dev.to/yanpiing/ddd-repositorios-3kk9)
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
 - [Lifehacker] [5 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/5-movies-so-bad-theyre-actually-really-good-1848887079)
