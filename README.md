@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#04: Configuring Static Web Apps](https://dev.to/azure/04-configuring-static-web-apps-2oa7)
+- [Dev.to/JS] [Javascript Animation 9](https://dev.to/fullstackhacker/javascript-animation-9-3k1h)
+- [Dev.to/JS] [Javascript Animation 7](https://dev.to/fullstackhacker/javascript-animation-7-150l)
+- [Dev.to/JS] [Image Optimization with NextJS](https://dev.to/jideabdqudus/image-optimization-with-nextjs-5p7)
+- [Dev.to/JS] [Microfrontend&lpar;MF&rpar; - Uso del patrón MVP &lpar;Modelo, Vista, Presentación&rpar;](https://dev.to/jasa1704/microfrontendmf-uso-del-patron-mvp-modelo-vista-presentacion-4dc2)
 - [Dev.to/JS] [How to Use Dynamic Routing in React to Improve UX](https://dev.to/nickmendez/how-to-use-dynamic-routing-in-react-to-improve-ux-4i5e)
 - [Dev.to/JS] [2 NEW killer features coming to TypeScript](https://dev.to/pffigueiredo/2-new-killer-features-coming-to-typescript-3b5j)
 - [Dev.to/JS] [useReducer Is A Better Option Than useState](https://dev.to/asayerio_techblog/usereducer-is-a-better-option-than-usestate-3e60)
@@ -34,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [103. Binary Tree Zigzag Level Order Traversal 🚀](https://dev.to/samuelhinchliffe/103-binary-tree-zigzag-level-order-traversal-3ina)
 - [Lifehacker] [5 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/5-movies-so-bad-theyre-actually-really-good-1848887079)
 - [Dev.to/JS] [Part 3: Creating an embeddable chat widget](https://dev.to/evertvdw/part-3-creating-an-embeddable-chat-widget-3843)
-- [Dev.to/JS] [React Slideshow Component with autoplay, fullscreen mode and expand all](https://dev.to/andrewheinke/react-slideshow-component-with-autoplay-fullscreen-mode-and-expand-all-4o9b)
-- [Dev.to/JS] [Binary Heap | How to Implement in Javascript in 2022?](https://dev.to/ajayv1/binary-heap-how-to-implement-in-javascript-in-2022-3dl9)
 - [Lifehacker] [Is It Allergies, or Is It COVID?](https://lifehacker.com/is-it-allergies-or-is-it-covid-1848885895)
-- [Dev.to/JS] [Why we chose WebComponents for our Design System](https://dev.to/brunnerlivio/why-we-chose-webcomponents-for-our-design-system-mkp)
-- [Dev.to/JS] [StripeDev Live - RedwoodJS](https://dev.to/stripe/stripedev-live-redwoodjs-37m9)
 - [Lifehacker] [How to Avoid Dead-End Tasks at Work &lpar;Without Risking Your Job&rpar;](https://lifehacker.com/how-to-avoid-dead-end-tasks-at-work-without-risking-yo-1848883718)
-- [Dev.to/JS] [300+ Free Programming Books &lpar;Updated For 2022&rpar;](https://dev.to/faijanofficial/300-free-programming-books-30dn)
 - [Lifehacker] [When to See the Eta Aquarid Meteor Shower Peak](https://lifehacker.com/when-to-see-the-eta-aquarid-meteor-shower-peak-1848885590)
 - [Lifehacker] [What You Should Know Before Self-Publishing a Book](https://lifehacker.com/what-you-should-know-before-self-publishing-a-book-1848885033)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Immature at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-immature-at-wor-1848880761)
