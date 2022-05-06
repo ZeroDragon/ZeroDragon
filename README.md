@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Interact with Confluence Server via REST API using NodeJS&lpar;JS&rpar;](https://dev.to/andriimaliuta/interact-with-confluence-server-via-rest-api-using-nodejsjs-4m93)
 - [Dev.to/JS] [Optimizing database query - In a loop](https://dev.to/ddouble___d/optimizing-database-query-in-a-loop-5hnb)
 - [Dev.to/JS] [Github commits.Why a good commit message is important?](https://dev.to/talenttinaapi/github-commitswhy-a-good-commit-message-is-important-3hdl)
 - [Dev.to/JS] [The difference between var, let and const in JavaScript](https://dev.to/talenttinaapi/the-difference-between-var-let-and-const-in-javascript-3eo6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to Deep Zoom in WPF - iFour Technolab](https://dev.to/harshalsuthar/introduction-to-deep-zoom-in-wpf-ifour-technolab-48cj)
 - [Dev.to/JS] [Improving Upon My React Application &quot;Postr&quot;](https://dev.to/bperez3237/improving-upon-my-react-application-postr-5d60)
 - [Dev.to/JS] [Async Storage in PURE React Native](https://dev.to/silvenleaf/async-storage-in-pure-react-native-177a)
-- [Dev.to/JS] [#04: Configuring Static Web Apps](https://dev.to/azure/04-configuring-static-web-apps-2oa7)
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
