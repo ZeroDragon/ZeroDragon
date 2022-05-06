@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Command-Line Apps Using React Ink](https://dev.to/asayerio_techblog/building-command-line-apps-using-react-ink-443o)
+- [Dev.to/JS] [Javascript scope and scope chain](https://dev.to/hacker4world/javascript-scope-and-scope-chain-2515)
+- [Dev.to/JS] [Panda Express Keto - Results, Scam Or Legit Reviews &amp; Where To Buy?](https://dev.to/pandaexpressbu1/panda-express-keto-results-scam-or-legit-reviews-where-to-buy-3ke0)
+- [Dev.to/JS] [SyntaxError: JSON.parse: bad parsing](https://dev.to/lambdatest/syntaxerror-jsonparse-bad-parsing-45i9)
 - [Dev.to/JS] [How I discovered an ideal stack for small funny web projects - Vue without build](https://dev.to/apayrus/how-i-discovered-an-ideal-stack-for-small-funny-web-projects-vue-without-build-3i46)
 - [Dev.to/JS] [The complete guide to internationalization in Next.js](https://dev.to/ivandotv/the-complete-guide-to-internationalization-in-nextjs-e6p)
 - [Dev.to/JS] [Prototypes in Javascript in 5 minutes](https://dev.to/juliecherner/prototypes-in-javascript-in-5-minutes-18i0)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interact with Confluence Server via REST API using NodeJS&lpar;JS&rpar;](https://dev.to/andriimaliuta/interact-with-confluence-server-via-rest-api-using-nodejsjs-4m93)
 - [Dev.to/JS] [Optimizing database query - In a loop](https://dev.to/ddouble___d/optimizing-database-query-in-a-loop-5hnb)
 - [Dev.to/JS] [Github commits.Why a good commit message is important?](https://dev.to/talenttinaapi/github-commitswhy-a-good-commit-message-is-important-3hdl)
-- [Dev.to/JS] [The difference between var, let and const in JavaScript](https://dev.to/talenttinaapi/the-difference-between-var-let-and-const-in-javascript-3eo6)
-- [Dev.to/JS] [Monolith vs Microservices](https://dev.to/webandappstudio/monolith-vs-microservices-4kg3)
-- [Dev.to/JS] [Switch-cased Error Handling in JavaScript](https://dev.to/zirkelc/switch-cased-error-handling-in-javascript-1h36)
-- [Dev.to/JS] [https://www.facebook.com/KetoStartACVGummiesReviewsOfficial/](https://dev.to/ketostartak/httpswwwfacebookcomketostartacvgummiesreviewsofficial-235m)
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
