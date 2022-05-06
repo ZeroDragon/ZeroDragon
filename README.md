@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build Cashflow Reports From JavaScript Spreadsheets and Dynamic Arrays](https://dev.to/grapecity/build-cashflow-reports-from-javascript-spreadsheets-and-dynamic-arrays-3kjg)
+- [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
+- [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Dev.to/JS] [Testes com NestJs e Prisma](https://dev.to/mrtinsvitor/testes-com-nestjs-e-prisma-24bo)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
 - [Lifehacker] [Three Good Reasons to Update WhatsApp Right Now](https://lifehacker.com/three-good-reasons-to-update-whatsapp-right-now-1848891855)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State of React Wrap-up | April 26, 2022](https://dev.to/thisdotmedia/state-of-react-wrap-up-april-26-2022-2jnj)
 - [Dev.to/JS] [Simple guide to useReducer in react.](https://dev.to/piyushsh/simple-guide-to-usereducer-in-react-4cpb)
 - [Lifehacker] [What to Give Your Parents When They Have Everything and Want Nothing](https://lifehacker.com/what-to-give-your-parents-when-they-have-everything-and-1848887581)
-- [Dev.to/JS] [Running a ransomware attack in a Node.js module](https://dev.to/devdevcharlie/running-a-ransomware-attack-in-a-nodejs-module-4hgb)
 - [Lifehacker] [How to Create a Home Office in a Tiny-Ass Space](https://lifehacker.com/how-to-create-a-home-office-in-a-tiny-ass-space-1848890951)
 - [Lifehacker] [How to Deal With Traumatizing News Images While Still Staying Informed](https://lifehacker.com/how-to-deal-with-traumatizing-news-images-while-still-s-1848887655)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Meme-ing the Johnny Depp/Amber Heard Trial](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848889381)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should Know Before Self-Publishing a Book](https://lifehacker.com/what-you-should-know-before-self-publishing-a-book-1848885033)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Immature at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-immature-at-wor-1848880761)
 - [Lifehacker] [A Beginner’s Guide to Runners’ Terminology](https://lifehacker.com/a-beginner-s-guide-to-runners-terminology-1848884759)
-- [Lifehacker] [What It Actually Means to &#39;Tone&#39; Your Muscles](https://lifehacker.com/what-it-actually-means-to-tone-your-muscles-1848881975)
-- [Lifehacker] [This AI Will Draw Anything You Tell It To](https://lifehacker.com/this-ai-will-draw-anything-you-tell-it-to-1848884444)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
