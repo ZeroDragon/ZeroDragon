@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The difference between var, let and const in JavaScript](https://dev.to/talenttinaapi/the-difference-between-var-let-and-const-in-javascript-3eo6)
 - [Dev.to/JS] [Monolith vs Microservices](https://dev.to/webandappstudio/monolith-vs-microservices-4kg3)
 - [Dev.to/JS] [Switch-cased Error Handling in JavaScript](https://dev.to/zirkelc/switch-cased-error-handling-in-javascript-1h36)
 - [Dev.to/JS] [https://www.facebook.com/KetoStartACVGummiesReviewsOfficial/](https://dev.to/ketostartak/httpswwwfacebookcomketostartacvgummiesreviewsofficial-235m)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#04: Configuring Static Web Apps](https://dev.to/azure/04-configuring-static-web-apps-2oa7)
 - [Dev.to/JS] [Javascript Animation 9](https://dev.to/fullstackhacker/javascript-animation-9-3k1h)
 - [Dev.to/JS] [Javascript Animation 7](https://dev.to/fullstackhacker/javascript-animation-7-150l)
-- [Dev.to/JS] [Image Optimization with NextJS](https://dev.to/jideabdqudus/image-optimization-with-nextjs-5p7)
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
