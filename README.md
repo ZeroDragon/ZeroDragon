@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Adventures: Episode 53: Setting up JSON imports for a Svelte project](https://dev.to/taw/open-source-adventures-episode-53-setting-up-json-imports-for-a-svelte-project-165d)
+- [Lifehacker] [How to Fix a PS4 That Won&#39;t Read Discs](https://lifehacker.com/how-to-fix-a-ps4-that-wont-read-discs-1848890850)
+- [Dev.to/JS] [Day-6 - Is javascript pass by value or pass by reference?](https://dev.to/sanjaybabu/day-6-is-javascript-pass-by-value-or-pass-by-reference-1p19)
 - [Dev.to/JS] [Making your form more inclusive](https://dev.to/unnotedme/making-your-form-more-inclusive-2imf)
 - [Lifehacker] [Stop Cleaning Your Ears](https://lifehacker.com/stop-cleaning-your-ears-1848887657)
 - [Dev.to/JS] [Day-82 Training At Ryaz](https://dev.to/mahin651/day-82-training-at-ryaz-55b6)
@@ -35,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Create a Home Office in a Tiny-Ass Space](https://lifehacker.com/how-to-create-a-home-office-in-a-tiny-ass-space-1848890951)
 - [Dev.to/JS] [Object, cyclic or not?](https://dev.to/sonai95/object-cyclic-or-not-568a)
 - [Lifehacker] [How to Deal With Traumatizing News Images While Still Staying Informed](https://lifehacker.com/how-to-deal-with-traumatizing-news-images-while-still-s-1848887655)
-- [Dev.to/JS] [JavaScript Refactoring Combo: Extract array constant from string comparison chain](https://dev.to/lgrammel/javascript-refactoring-combo-extract-array-constant-from-string-comparison-chain-3bm2)
+- [Dev.to/JS] [JavaScript Refactoring: Extract Array Constant From String Comparison Chain](https://dev.to/lgrammel/javascript-refactoring-combo-extract-array-constant-from-string-comparison-chain-3bm2)
 - [Dev.to/JS] [Best platform for a MERN app deployment &lpar;Heroku or Serverless.com&rpar; ?](https://dev.to/learnacadman/best-platform-for-a-mern-app-deployment-heroku-or-serverlesscom--4ejf)
-- [Dev.to/JS] [el próximo miércoles](https://dev.to/correa_quentin/el-proximo-miercoles-45k4)
-- [Dev.to/JS] [Symfony Station Communiqué — 6 May 2022. A look at Symfony, PHP, and Cybersecurity News!](https://dev.to/reubenwalker64/symfony-station-communique-6-may-2022-a-look-at-symfony-php-and-cybersecurity-news-26nk)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Meme-ing the Johnny Depp/Amber Heard Trial](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848889381)
 - [Lifehacker] [A Beginner’s Guide to Designing and Installing Outdoor Lighting](https://lifehacker.com/a-beginner-s-guide-to-designing-and-installing-outdoor-1848887618)
 - [Lifehacker] [12 of the Worst Wedding Guest Faux Pas, According to Lifehacker Readers](https://lifehacker.com/12-of-the-worst-wedding-guest-faux-pas-according-to-li-1848880628)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Long Does Liquor Last After You Open a Bottle?](https://lifehacker.com/how-long-does-liquor-last-after-you-open-a-bottle-1848884450)
 - [Lifehacker] [Where to Find Greeting Cards That Aren’t Sappy, Cliché, or Otherwise Annoying](https://lifehacker.com/where-to-find-greeting-cards-that-aren-t-sappy-cliche-1848875459)
 - [Lifehacker] [Here Are the Signs You Might Have Adult Dyslexia &lpar;and What to Do About It&rpar;](https://lifehacker.com/here-are-the-signs-you-might-have-adult-dyslexia-and-w-1848868925)
-- [Lifehacker] [Your Passwords Are Worse Than You Think &lpar;and the Easiest Ways to Fix Them&rpar;](https://lifehacker.com/your-passwords-are-worse-than-you-think-and-the-easies-1848874581)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
