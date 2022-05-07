@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Logical-Comparison-Operators in Javascript](https://dev.to/aryakris/logical-comparison-operators-in-javascript-5gn6)
 - [Dev.to/JS] [NestJS ⚡ Multiple DB Setup with TypeORM](https://dev.to/sanzocarlos/nestjs-multiple-db-setup-with-typeorm-31k9)
 - [Dev.to/JS] [Must Read blogs](https://dev.to/tarunsankhla/must-read-blogs-4df5)
 - [Dev.to/JS] [Svelte components have file location meta data](https://dev.to/petermekhaeil/svelte-components-have-file-location-meta-data-1h0c)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cleo -- A Simple Game Made in 1 Week](https://dev.to/stcollier/cleo-a-simple-game-made-in-1-week-1l8o)
 - [Dev.to/JS] [validation password and confirm password with Yup](https://dev.to/agiksetiawan/validation-password-and-confirm-password-with-yup-3gfj)
 - [Dev.to/JS] [#05: Securing Static Web Apps](https://dev.to/azure/05-securing-static-web-apps-5fe3)
-- [Dev.to/JS] [DDD Domain events](https://dev.to/yanpiing/domain-events-f90)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
