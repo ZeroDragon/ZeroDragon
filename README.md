@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Handle CAPS-LOCK on/off event in Angular](https://dev.to/anirbmuk/handle-caps-lock-onoff-event-in-angular-52go)
+- [Dev.to/JS] [Overview of ExpressJS](https://dev.to/ghoulkingr/overview-of-expressjs-g1b)
+- [Dev.to/JS] [Learn Web development](https://dev.to/onyenaucheyaemmanuel/learn-web-development-5023)
+- [Dev.to/JS] [JavaScript Calculator - The DOM way](https://dev.to/joelbonetr/javascript-calculator-the-dom-way-3p22)
+- [Dev.to/JS] [Build Dynamic Dependent Dropdown using React JS](https://dev.to/jps27cse/build-dynamic-dependent-dropdown-using-react-js-3d9c)
 - [Dev.to/JS] [Writing a wrapper for console.log for better control in JavaScript, Part I](https://dev.to/ayyash/writing-a-wrapper-for-consolelog-for-better-control-in-javascript-part-i-3d53)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Dev.to/JS] [Trendingtags.io free youtube automation tool](https://dev.to/amitsin6h/trendingtagsio-free-youtube-automation-tool-3a8m)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting up an expo CLI for development](https://dev.to/abhijeetgavali/setting-up-an-expo-cli-for-development-54kl)
 - [Dev.to/JS] [DevSpaceForum x Appwrite Part 4: Installing Appwrite on Digital Ocean](https://dev.to/georgeisiguzo/devspaceforum-x-appwrite-part-4-installing-appwrite-on-digital-ocean-30hi)
 - [Dev.to/JS] [next-export-i18n v2: updated to react v18 and next v12](https://dev.to/martinkr/next-export-i18n-v2-updated-to-react-v18-and-next-v12-2p9h)
-- [Dev.to/JS] [JavaScript + Python =&gt; conquer the world!](https://dev.to/krishnaagarwal/javascript-python-conquer-the-world-1ji5)
-- [Dev.to/JS] [Nestjs: Introduction and setup](https://dev.to/hacker4world/nestjs-introduction-and-setup-4hha)
-- [Dev.to/JS] [Sparkline charts in Ruby on Rails app](https://dev.to/igorkasyanchuk/sparkline-charts-in-ruby-on-rails-app-38p6)
-- [Dev.to/JS] [How to create a simple like button component with React.](https://dev.to/domolanya/how-to-create-a-simple-like-button-component-with-react-13nl)
-- [Dev.to/JS] [How to use multiple Environment Variables in Angular](https://dev.to/ankit_k_sharma/how-to-use-multiple-environment-variables-in-angular-2bm7)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
