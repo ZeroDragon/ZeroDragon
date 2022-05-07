@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nestjs: Introduction and setup](https://dev.to/hacker4world/nestjs-introduction-and-setup-4hha)
+- [Dev.to/JS] [Sparkline charts in Ruby on Rails app](https://dev.to/igorkasyanchuk/sparkline-charts-in-ruby-on-rails-app-38p6)
+- [Dev.to/JS] [How to create a simple like button component with React.](https://dev.to/domolanya/how-to-create-a-simple-like-button-component-with-react-13nl)
+- [Dev.to/JS] [How to use multiple Environment Variables in Angular](https://dev.to/ankit_k_sharma/how-to-use-multiple-environment-variables-in-angular-2bm7)
+- [Dev.to/JS] [The Reduce Method](https://dev.to/virgomoon/the-reduce-method-16pl)
+- [Dev.to/JS] [Function Composition In JavaScript with multiple parameters](https://dev.to/ambitiousrahul/function-composition-in-javascript-with-multiple-parameters-57e)
 - [Dev.to/JS] [Arrays iteration in JavaScript](https://dev.to/ukobaandrew/arrays-iteration-in-javascript-1fga)
 - [Dev.to/JS] [shitjs!](https://dev.to/naz365/shitjs-4dn8)
 - [Dev.to/JS] [TypeScript Vs JavaScript: What is the Difference?](https://dev.to/softhunt/typescript-vs-javascript-what-is-the-difference-n82)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What I learn from taking my first junior developer test.](https://dev.to/tomyotwongjai/what-i-learn-from-taking-my-first-junior-developer-test-2kl1)
 - [Dev.to/JS] [How to Create a Navbar | Creating Navbar using HTML, CSS &amp; JavaScript](https://dev.to/codewith_random/how-to-create-a-navbar-creating-navbar-using-html-css-javascript-31a7)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
-- [Dev.to/JS] [The simplest way to deal with modal dialogs in Vue 3](https://dev.to/harmyderoman/the-simplest-way-to-deal-with-modal-dialogs-in-vue-3-59hl)
-- [Dev.to/JS] [Add Video Calls in WordPress in Just 3 Steps](https://dev.to/video-sdk/video-calls-in-wordpress-3i17)
-- [Dev.to/JS] [Getting understand &quot;useReducer in React&quot; from real life sample](https://dev.to/kaziusan/getting-understand-usereducer-in-react-from-real-life-sample-h02)
-- [Dev.to/JS] [📖 History of &quot;Stop unnecessary re-rendering component in React !!&quot;](https://dev.to/kaziusan/history-of-stop-unnecessary-re-rendering-component-in-react--146f)
-- [Dev.to/JS] [Open Source Adventures: Episode 55: Sliders for BATTLETECH Weapon Ranking App](https://dev.to/taw/open-source-adventures-episode-55-sliders-for-battletech-weapon-ranking-app-4l09)
-- [Dev.to/JS] [How to make your own programming language in JavaScript](https://dev.to/jcubic/how-to-make-your-own-programming-language-in-javascript-8ma)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
