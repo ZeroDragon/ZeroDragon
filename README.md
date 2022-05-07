@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add Table of Contents to Jekyll Blog](https://dev.to/tgbaodeeptry/how-to-add-table-of-contents-to-jekyll-blog-1onc)
+- [Dev.to/JS] [Polymorphism in TypeScript, Or: Your Pocket Monster Fantasy Fighting Game Sucks!](https://dev.to/lifelongthinker/polymorphism-in-typescript-or-your-pocket-monster-fantasy-fighting-game-sucks-5ee1)
+- [Dev.to/JS] [How to have more knowledge as a Web Developer ?](https://dev.to/salyndev0/how-to-have-more-knowledge-as-a-web-developer-5b8e)
 - [Dev.to/JS] [Learning Web Development](https://dev.to/think__n_encode_/learning-web-development-njk)
 - [Dev.to/JS] [My day is being planned by an algorithm](https://dev.to/mortenolsen/my-day-is-being-planned-by-an-algorithm-46ja)
 - [Dev.to/JS] [&quot;The only Superpower I have.&quot;](https://dev.to/think__n_encode_/the-only-superpower-i-have-1fnj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Svelte components have file location meta data](https://dev.to/petermekhaeil/svelte-components-have-file-location-meta-data-1h0c)
 - [Dev.to/JS] [Javascript Animation 13](https://dev.to/fullstackhacker/javascript-animation-13-1akj)
 - [Dev.to/JS] [Javascript Animation 12](https://dev.to/fullstackhacker/javascript-animation-12-3n07)
-- [Dev.to/JS] [Javascript Animation 11](https://dev.to/fullstackhacker/javascript-animation-11-f4o)
-- [Dev.to/JS] [Open Source Adventures: Episode 54: BATTLETECH Weapon Ranking App](https://dev.to/taw/open-source-adventures-episode-54-battletech-weapon-ranking-app-11h5)
-- [Dev.to/JS] [Javascript Animation 10](https://dev.to/fullstackhacker/javascript-animation-10-45bn)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
