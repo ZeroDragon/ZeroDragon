@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
+- [Dev.to/JS] [Geeking-out on SVG Graphics part-two](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-two-4aih)
 - [Dev.to/JS] [Birdle: A Medium Clone built with Appwrite](https://dev.to/smppatel99999/birdle-a-medium-clone-built-with-appwrite-mdn)
 - [Dev.to/JS] [Setting up an expo CLI for development](https://dev.to/abhijeetgavali/setting-up-an-expo-cli-for-development-54kl)
 - [Dev.to/JS] [DevSpaceForum x Appwrite Part 4: Installing Appwrite on Digital Ocean](https://dev.to/georgeisiguzo/devspaceforum-x-appwrite-part-4-installing-appwrite-on-digital-ocean-30hi)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use multiple Environment Variables in Angular](https://dev.to/ankit_k_sharma/how-to-use-multiple-environment-variables-in-angular-2bm7)
 - [Dev.to/JS] [The Reduce Method](https://dev.to/virgomoon/the-reduce-method-16pl)
 - [Dev.to/JS] [Function Composition In JavaScript with multiple parameters](https://dev.to/ambitiousrahul/function-composition-in-javascript-with-multiple-parameters-57e)
-- [Dev.to/JS] [Arrays iteration in JavaScript](https://dev.to/ukobaandrew/arrays-iteration-in-javascript-1fga)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid Dead-End Tasks at Work &lpar;Without Risking Your Job&rpar;](https://lifehacker.com/how-to-avoid-dead-end-tasks-at-work-without-risking-yo-1848883718)
 - [Lifehacker] [When to See the Eta Aquarid Meteor Shower Peak](https://lifehacker.com/when-to-see-the-eta-aquarid-meteor-shower-peak-1848885590)
 - [Lifehacker] [What You Should Know Before Self-Publishing a Book](https://lifehacker.com/what-you-should-know-before-self-publishing-a-book-1848885033)
-- [Lifehacker] [Avoid These Phrases That Make You Sound Immature at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-immature-at-wor-1848880761)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
