@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arrays iteration in JavaScript](https://dev.to/ukobaandrew/arrays-iteration-in-javascript-1fga)
+- [Dev.to/JS] [shitjs!](https://dev.to/naz365/shitjs-4dn8)
+- [Dev.to/JS] [TypeScript Vs JavaScript: What is the Difference?](https://dev.to/softhunt/typescript-vs-javascript-what-is-the-difference-n82)
+- [Dev.to/JS] [Lets connect on github](https://dev.to/hqshtag/lets-connect-on-github-3g0)
 - [Dev.to/JS] [What I learn from taking my first junior developer test.](https://dev.to/tomyotwongjai/what-i-learn-from-taking-my-first-junior-developer-test-2kl1)
 - [Dev.to/JS] [How to Create a Navbar | Creating Navbar using HTML, CSS &amp; JavaScript](https://dev.to/codewith_random/how-to-create-a-navbar-creating-navbar-using-html-css-javascript-31a7)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [📖 History of &quot;Stop unnecessary re-rendering component in React !!&quot;](https://dev.to/kaziusan/history-of-stop-unnecessary-re-rendering-component-in-react--146f)
 - [Dev.to/JS] [Open Source Adventures: Episode 55: Sliders for BATTLETECH Weapon Ranking App](https://dev.to/taw/open-source-adventures-episode-55-sliders-for-battletech-weapon-ranking-app-4l09)
 - [Dev.to/JS] [How to make your own programming language in JavaScript](https://dev.to/jcubic/how-to-make-your-own-programming-language-in-javascript-8ma)
-- [Dev.to/JS] [Some of the JS.](https://dev.to/foolhardy21/some-of-the-js-3j12)
-- [Dev.to/JS] [.This keyword in javascript](https://dev.to/harshitpaliwal95/this-keyword-in-javascript-3djn)
-- [Dev.to/JS] [Tech Notes](https://dev.to/harshitpaneri/tech-notes-1286)
-- [Dev.to/JS] [A better CSV import](https://dev.to/canolcer/a-better-csv-import-264k)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
