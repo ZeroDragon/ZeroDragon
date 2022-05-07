@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Run Cypress tests in Cross-browser Using the testing tool LambdaTest](https://dev.to/kailashpathak7/run-cypress-tests-in-cross-browser-using-the-testing-tool-lambdatest-3lkj)
 - [Dev.to/JS] [How to Add Table of Contents to Jekyll Blog](https://dev.to/tgbaodeeptry/how-to-add-table-of-contents-to-jekyll-blog-1onc)
 - [Dev.to/JS] [Polymorphism in TypeScript, Or: Your Pocket Monster Fantasy Fighting Game Sucks!](https://dev.to/lifelongthinker/polymorphism-in-typescript-or-your-pocket-monster-fantasy-fighting-game-sucks-5ee1)
 - [Dev.to/JS] [How to have more knowledge as a Web Developer ?](https://dev.to/salyndev0/how-to-have-more-knowledge-as-a-web-developer-5b8e)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Must Read blogs](https://dev.to/tarunsankhla/must-read-blogs-4df5)
 - [Dev.to/JS] [Svelte components have file location meta data](https://dev.to/petermekhaeil/svelte-components-have-file-location-meta-data-1h0c)
 - [Dev.to/JS] [Javascript Animation 13](https://dev.to/fullstackhacker/javascript-animation-13-1akj)
-- [Dev.to/JS] [Javascript Animation 12](https://dev.to/fullstackhacker/javascript-animation-12-3n07)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
