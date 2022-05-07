@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Birdle: A Medium Clone built with Appwrite](https://dev.to/smppatel99999/birdle-a-medium-clone-built-with-appwrite-mdn)
+- [Dev.to/JS] [Setting up an expo CLI for development](https://dev.to/abhijeetgavali/setting-up-an-expo-cli-for-development-54kl)
+- [Dev.to/JS] [DevSpaceForum x Appwrite Part 4: Installing Appwrite on Digital Ocean](https://dev.to/georgeisiguzo/devspaceforum-x-appwrite-part-4-installing-appwrite-on-digital-ocean-30hi)
 - [Dev.to/JS] [next-export-i18n v2: updated to react v18 and next v12](https://dev.to/martinkr/next-export-i18n-v2-updated-to-react-v18-and-next-v12-2p9h)
 - [Dev.to/JS] [JavaScript + Python =&gt; conquer the world!](https://dev.to/krishnaagarwal/javascript-python-conquer-the-world-1ji5)
 - [Dev.to/JS] [Nestjs: Introduction and setup](https://dev.to/hacker4world/nestjs-introduction-and-setup-4hha)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Reduce Method](https://dev.to/virgomoon/the-reduce-method-16pl)
 - [Dev.to/JS] [Function Composition In JavaScript with multiple parameters](https://dev.to/ambitiousrahul/function-composition-in-javascript-with-multiple-parameters-57e)
 - [Dev.to/JS] [Arrays iteration in JavaScript](https://dev.to/ukobaandrew/arrays-iteration-in-javascript-1fga)
-- [Dev.to/JS] [shitjs!](https://dev.to/naz365/shitjs-4dn8)
-- [Dev.to/JS] [TypeScript Vs JavaScript: What is the Difference?](https://dev.to/softhunt/typescript-vs-javascript-what-is-the-difference-n82)
-- [Dev.to/JS] [Lets connect on github](https://dev.to/hqshtag/lets-connect-on-github-3g0)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
