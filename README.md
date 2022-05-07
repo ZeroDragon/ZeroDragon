@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testing a Smart Contract](https://dev.to/iamephraim/testing-a-smart-contract-plm)
+- [Dev.to/JS] [Nodejs: cd my-journey01](https://dev.to/adebiyiitunuayo/nodejs-cd-my-journey01-1bin)
+- [Dev.to/JS] [PyScript :- The JS Killer?](https://dev.to/riteshshukla04/pyscript-the-new-js-422a)
 - [Dev.to/JS] [Handle CAPS-LOCK on/off event in Angular](https://dev.to/anirbmuk/handle-caps-lock-onoff-event-in-angular-52go)
 - [Dev.to/JS] [Overview of ExpressJS](https://dev.to/ghoulkingr/overview-of-expressjs-g1b)
 - [Dev.to/JS] [Learn Web development](https://dev.to/onyenaucheyaemmanuel/learn-web-development-5023)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Dev.to/JS] [Geeking-out on SVG Graphics part-two](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-two-4aih)
 - [Dev.to/JS] [Birdle: A Medium Clone built with Appwrite](https://dev.to/smppatel99999/birdle-a-medium-clone-built-with-appwrite-mdn)
-- [Dev.to/JS] [Setting up an expo CLI for development](https://dev.to/abhijeetgavali/setting-up-an-expo-cli-for-development-54kl)
-- [Dev.to/JS] [DevSpaceForum x Appwrite Part 4: Installing Appwrite on Digital Ocean](https://dev.to/georgeisiguzo/devspaceforum-x-appwrite-part-4-installing-appwrite-on-digital-ocean-30hi)
-- [Dev.to/JS] [next-export-i18n v2: updated to react v18 and next v12](https://dev.to/martinkr/next-export-i18n-v2-updated-to-react-v18-and-next-v12-2p9h)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
