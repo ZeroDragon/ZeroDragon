@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing a wrapper for console.log for better control in JavaScript, Part I](https://dev.to/ayyash/writing-a-wrapper-for-consolelog-for-better-control-in-javascript-part-i-3d53)
+- [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
+- [Dev.to/JS] [Trendingtags.io free youtube automation tool](https://dev.to/amitsin6h/trendingtagsio-free-youtube-automation-tool-3a8m)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Dev.to/JS] [Geeking-out on SVG Graphics part-two](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-two-4aih)
 - [Dev.to/JS] [Birdle: A Medium Clone built with Appwrite](https://dev.to/smppatel99999/birdle-a-medium-clone-built-with-appwrite-mdn)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sparkline charts in Ruby on Rails app](https://dev.to/igorkasyanchuk/sparkline-charts-in-ruby-on-rails-app-38p6)
 - [Dev.to/JS] [How to create a simple like button component with React.](https://dev.to/domolanya/how-to-create-a-simple-like-button-component-with-react-13nl)
 - [Dev.to/JS] [How to use multiple Environment Variables in Angular](https://dev.to/ankit_k_sharma/how-to-use-multiple-environment-variables-in-angular-2bm7)
-- [Dev.to/JS] [The Reduce Method](https://dev.to/virgomoon/the-reduce-method-16pl)
-- [Dev.to/JS] [Function Composition In JavaScript with multiple parameters](https://dev.to/ambitiousrahul/function-composition-in-javascript-with-multiple-parameters-57e)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is It Allergies, or Is It COVID?](https://lifehacker.com/is-it-allergies-or-is-it-covid-1848885895)
 - [Lifehacker] [How to Avoid Dead-End Tasks at Work &lpar;Without Risking Your Job&rpar;](https://lifehacker.com/how-to-avoid-dead-end-tasks-at-work-without-risking-yo-1848883718)
 - [Lifehacker] [When to See the Eta Aquarid Meteor Shower Peak](https://lifehacker.com/when-to-see-the-eta-aquarid-meteor-shower-peak-1848885590)
-- [Lifehacker] [What You Should Know Before Self-Publishing a Book](https://lifehacker.com/what-you-should-know-before-self-publishing-a-book-1848885033)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
