@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What I learn from taking my first junior developer test.](https://dev.to/tomyotwongjai/what-i-learn-from-taking-my-first-junior-developer-test-2kl1)
+- [Dev.to/JS] [How to Create a Navbar | Creating Navbar using HTML, CSS &amp; JavaScript](https://dev.to/codewith_random/how-to-create-a-navbar-creating-navbar-using-html-css-javascript-31a7)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
 - [Dev.to/JS] [The simplest way to deal with modal dialogs in Vue 3](https://dev.to/harmyderoman/the-simplest-way-to-deal-with-modal-dialogs-in-vue-3-59hl)
 - [Dev.to/JS] [Add Video Calls in WordPress in Just 3 Steps](https://dev.to/video-sdk/video-calls-in-wordpress-3i17)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [.This keyword in javascript](https://dev.to/harshitpaliwal95/this-keyword-in-javascript-3djn)
 - [Dev.to/JS] [Tech Notes](https://dev.to/harshitpaneri/tech-notes-1286)
 - [Dev.to/JS] [A better CSV import](https://dev.to/canolcer/a-better-csv-import-264k)
-- [Dev.to/JS] [Announcing Chakra UI Svelte](https://dev.to/elcharitas/announcing-chakra-ui-svelte-23dl)
-- [Dev.to/JS] [Batching events with RxJS](https://dev.to/d521bb85/batching-events-with-rxjs-46p7)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
