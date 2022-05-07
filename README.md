@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [next-export-i18n v2: updated to react v18 and next v12](https://dev.to/martinkr/next-export-i18n-v2-updated-to-react-v18-and-next-v12-2p9h)
+- [Dev.to/JS] [JavaScript + Python =&gt; conquer the world!](https://dev.to/krishnaagarwal/javascript-python-conquer-the-world-1ji5)
 - [Dev.to/JS] [Nestjs: Introduction and setup](https://dev.to/hacker4world/nestjs-introduction-and-setup-4hha)
 - [Dev.to/JS] [Sparkline charts in Ruby on Rails app](https://dev.to/igorkasyanchuk/sparkline-charts-in-ruby-on-rails-app-38p6)
 - [Dev.to/JS] [How to create a simple like button component with React.](https://dev.to/domolanya/how-to-create-a-simple-like-button-component-with-react-13nl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [shitjs!](https://dev.to/naz365/shitjs-4dn8)
 - [Dev.to/JS] [TypeScript Vs JavaScript: What is the Difference?](https://dev.to/softhunt/typescript-vs-javascript-what-is-the-difference-n82)
 - [Dev.to/JS] [Lets connect on github](https://dev.to/hqshtag/lets-connect-on-github-3g0)
-- [Dev.to/JS] [What I learn from taking my first junior developer test.](https://dev.to/tomyotwongjai/what-i-learn-from-taking-my-first-junior-developer-test-2kl1)
-- [Dev.to/JS] [How to Create a Navbar | Creating Navbar using HTML, CSS &amp; JavaScript](https://dev.to/codewith_random/how-to-create-a-navbar-creating-navbar-using-html-css-javascript-31a7)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
