@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Batching events with RxJS](https://dev.to/d521bb85/batching-events-with-rxjs-46p7)
+- [Dev.to/JS] [Restaurant Menu With Filter Option using HTML, CSS, and React JS](https://dev.to/incoderweb/restaurant-menu-with-filter-option-using-html-css-and-react-js-5hln)
+- [Dev.to/JS] [How to create and test a GitHub Action that generates Supabase database types](https://dev.to/lyqht/how-to-create-and-test-a-github-action-that-generates-supabase-database-types-1l6b)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;07-05-2022&rpar; - The Big Sandwich](https://dev.to/mjgs/this-weeks-newsletter-is-out-07-06-2022-the-big-sandwich-41jc)
 - [Dev.to/JS] [Angular with clean URL&#39;s using Apache&#39;s mod_rewrite](https://dev.to/timetc/angular-with-clean-urls-using-apaches-modrewrite-2bjb)
 - [Dev.to/JS] [Run Cypress tests in Cross-browser Using the testing tool LambdaTest](https://dev.to/kailashpathak7/run-cypress-tests-in-cross-browser-using-the-testing-tool-lambdatest-3lkj)
 - [Dev.to/JS] [How to Add Table of Contents to Jekyll Blog](https://dev.to/tgbaodeeptry/how-to-add-table-of-contents-to-jekyll-blog-1onc)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning Web Development](https://dev.to/think__n_encode_/learning-web-development-njk)
 - [Dev.to/JS] [My day is being planned by an algorithm](https://dev.to/mortenolsen/my-day-is-being-planned-by-an-algorithm-46ja)
 - [Dev.to/JS] [&quot;The only Superpower I have.&quot;](https://dev.to/think__n_encode_/the-only-superpower-i-have-1fnj)
-- [Dev.to/JS] [Video processing in browser using FFmpeg.wasm and Solidjs](https://dev.to/kcdchennai/video-processing-in-browser-using-ffmpegwasm-and-solidjs-1jl3)
-- [Dev.to/JS] [Logical-Comparison-Operators in Javascript](https://dev.to/aryakris/logical-comparison-operators-in-javascript-5gn6)
-- [Dev.to/JS] [NestJS ⚡ Multiple DB Setup with TypeORM](https://dev.to/sanzocarlos/nestjs-multiple-db-setup-with-typeorm-31k9)
-- [Dev.to/JS] [Must Read blogs](https://dev.to/tarunsankhla/must-read-blogs-4df5)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
