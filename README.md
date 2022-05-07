@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#05: Securing Static Web Apps](https://dev.to/azure/05-securing-static-web-apps-5fe3)
 - [Dev.to/JS] [DDD Domain events](https://dev.to/yanpiing/domain-events-f90)
 - [Dev.to/JS] [Object Oriented Programming in JavaScript](https://dev.to/melguachun/object-oriented-programming-in-javascript-447b)
 - [Dev.to/JS] [How to Become a Full Stack Web Developer | Practical Step by Step Frontend and Backend Guideline](https://dev.to/iamraufu/how-to-become-a-full-stack-web-developer-practical-step-by-step-frontend-and-backend-guideline-hme)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making your form more inclusive](https://dev.to/unnotedme/making-your-form-more-inclusive-2imf)
 - [Lifehacker] [Stop Cleaning Your Ears](https://lifehacker.com/stop-cleaning-your-ears-1848887657)
 - [Dev.to/JS] [Day-82 Training At Ryaz](https://dev.to/mahin651/day-82-training-at-ryaz-55b6)
-- [Dev.to/JS] [Document Object Model Specification](https://dev.to/cleancodestudio/document-object-model-specification-2a9o)
 - [Lifehacker] [What to Give Your Parents When They Have Everything and Want Nothing](https://lifehacker.com/what-to-give-your-parents-when-they-have-everything-and-1848887581)
 - [Lifehacker] [How to Create a Home Office in a Tiny-Ass Space](https://lifehacker.com/how-to-create-a-home-office-in-a-tiny-ass-space-1848890951)
 - [Lifehacker] [How to Deal With Traumatizing News Images While Still Staying Informed](https://lifehacker.com/how-to-deal-with-traumatizing-news-images-while-still-s-1848887655)
