@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Must Read blogs](https://dev.to/tarunsankhla/must-read-blogs-4df5)
+- [Dev.to/JS] [Svelte components have file location meta data](https://dev.to/petermekhaeil/svelte-components-have-file-location-meta-data-1h0c)
+- [Dev.to/JS] [Javascript Animation 13](https://dev.to/fullstackhacker/javascript-animation-13-1akj)
 - [Dev.to/JS] [Javascript Animation 12](https://dev.to/fullstackhacker/javascript-animation-12-3n07)
 - [Dev.to/JS] [Javascript Animation 11](https://dev.to/fullstackhacker/javascript-animation-11-f4o)
 - [Dev.to/JS] [Open Source Adventures: Episode 54: BATTLETECH Weapon Ranking App](https://dev.to/taw/open-source-adventures-episode-54-battletech-weapon-ranking-app-11h5)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#05: Securing Static Web Apps](https://dev.to/azure/05-securing-static-web-apps-5fe3)
 - [Dev.to/JS] [DDD Domain events](https://dev.to/yanpiing/domain-events-f90)
 - [Dev.to/JS] [Object Oriented Programming in JavaScript](https://dev.to/melguachun/object-oriented-programming-in-javascript-447b)
-- [Dev.to/JS] [How to Become a Full Stack Web Developer | Practical Step by Step Frontend and Backend Guideline](https://dev.to/iamraufu/how-to-become-a-full-stack-web-developer-practical-step-by-step-frontend-and-backend-guideline-hme)
-- [Dev.to/JS] [Build Cashflow Reports From JavaScript Spreadsheets and Dynamic Arrays](https://dev.to/grapecity/build-cashflow-reports-from-javascript-spreadsheets-and-dynamic-arrays-3kjg)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
-- [Dev.to/JS] [Testes com NestJs e Prisma](https://dev.to/mrtinsvitor/testes-com-nestjs-e-prisma-24bo)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
 - [Lifehacker] [Three Good Reasons to Update WhatsApp Right Now](https://lifehacker.com/three-good-reasons-to-update-whatsapp-right-now-1848891855)
 - [Lifehacker] [What Are Relationship ‘Pink Flags’ &lpar;and What Can You Do About Them&rpar;?](https://lifehacker.com/what-are-relationship-pink-flags-and-what-can-you-do-1848891493)
