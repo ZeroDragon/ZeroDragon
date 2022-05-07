@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
+- [Dev.to/JS] [The simplest way to deal with modal dialogs in Vue 3](https://dev.to/harmyderoman/the-simplest-way-to-deal-with-modal-dialogs-in-vue-3-59hl)
+- [Dev.to/JS] [Add Video Calls in WordPress in Just 3 Steps](https://dev.to/video-sdk/video-calls-in-wordpress-3i17)
+- [Dev.to/JS] [Getting understand &quot;useReducer in React&quot; from real life sample](https://dev.to/kaziusan/getting-understand-usereducer-in-react-from-real-life-sample-h02)
 - [Dev.to/JS] [📖 History of &quot;Stop unnecessary re-rendering component in React !!&quot;](https://dev.to/kaziusan/history-of-stop-unnecessary-re-rendering-component-in-react--146f)
 - [Dev.to/JS] [Open Source Adventures: Episode 55: Sliders for BATTLETECH Weapon Ranking App](https://dev.to/taw/open-source-adventures-episode-55-sliders-for-battletech-weapon-ranking-app-4l09)
 - [Dev.to/JS] [How to make your own programming language in JavaScript](https://dev.to/jcubic/how-to-make-your-own-programming-language-in-javascript-8ma)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A better CSV import](https://dev.to/canolcer/a-better-csv-import-264k)
 - [Dev.to/JS] [Announcing Chakra UI Svelte](https://dev.to/elcharitas/announcing-chakra-ui-svelte-23dl)
 - [Dev.to/JS] [Batching events with RxJS](https://dev.to/d521bb85/batching-events-with-rxjs-46p7)
-- [Dev.to/JS] [Restaurant Menu With Filter Option using HTML, CSS, and React JS](https://dev.to/incoderweb/restaurant-menu-with-filter-option-using-html-css-and-react-js-5hln)
-- [Dev.to/JS] [How to create and test a GitHub Action that generates Supabase database types](https://dev.to/lyqht/how-to-create-and-test-a-github-action-that-generates-supabase-database-types-1l6b)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;07-05-2022&rpar; - The Big Sandwich](https://dev.to/mjgs/this-weeks-newsletter-is-out-07-06-2022-the-big-sandwich-41jc)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the Eta Aquarid Meteor Shower Peak](https://lifehacker.com/when-to-see-the-eta-aquarid-meteor-shower-peak-1848885590)
 - [Lifehacker] [What You Should Know Before Self-Publishing a Book](https://lifehacker.com/what-you-should-know-before-self-publishing-a-book-1848885033)
 - [Lifehacker] [Avoid These Phrases That Make You Sound Immature at Work](https://lifehacker.com/avoid-these-phrases-that-make-you-sound-immature-at-wor-1848880761)
-- [Lifehacker] [A Beginner’s Guide to Runners’ Terminology](https://lifehacker.com/a-beginner-s-guide-to-runners-terminology-1848884759)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
