@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NextJs Course for Beginners - Create a REST api](https://dev.to/wenura/nextjs-course-for-beginners-create-a-rest-api-2gkc)
+- [Dev.to/JS] [How web browsers work - creating the accessibility tree &lpar;part 6, with illustrations&rpar;🌴🐱‍💻](https://dev.to/arikaturika/how-web-browsers-work-creating-the-accessibility-tree-part-6-with-illustrations-2hl2)
+- [Dev.to/JS] [No Setup Development: Productivity Experience with Docker](https://dev.to/shandesai/no-setup-development-productivity-experience-with-docker-2pbf)
 - [Dev.to/JS] [7 Productive website for web developers](https://dev.to/suprabhasupi/7-productive-website-for-web-developers-gn1)
 - [Dev.to/JS] [Optional chaining in Javascript](https://dev.to/anjalyyy1/optional-chaining-in-javascript-26ih)
 - [Dev.to/JS] [The Brain 🧠 Game : Sudoku](https://dev.to/think__n_encode_/the-brain-game-sudoku-lb7)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Popup Registration Form Javascript | Create A Popup Form In Html](https://dev.to/codewith_random/popup-registration-form-javascript-create-a-popup-form-in-html-3g6o)
 - [Dev.to/JS] [What is PyScript? And Why Should You Care?](https://dev.to/devsmitra/what-is-pyscript-and-why-should-you-care-10f)
 - [Dev.to/JS] [React Redux is this a Thing of the Past after Context API.](https://dev.to/apoorvtomar/react-redux-is-this-a-thing-of-the-past-after-context-api-440i)
-- [Dev.to/JS] [Image Slider](https://dev.to/vasanths/image-slider-414e)
-- [Dev.to/JS] [Amplication &amp; React: Using GraphQL](https://dev.to/amplication/amplication-react-using-graphql-235a)
-- [Dev.to/JS] [React Fragments in 5 minutes &lpar;with examples&rpar;](https://dev.to/kairatorozobekov/react-fragments-in-5-minutes-with-examples-3p2a)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
