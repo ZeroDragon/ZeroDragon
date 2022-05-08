@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Structs in JavaScript](https://dev.to/joelbonetr/structs-in-javascript-1p9l)
+- [Dev.to/JS] [Kaprekar&#39;s Constant in JavaScript](https://dev.to/justinethier/kaprekars-constant-in-javascript-if7)
+- [Dev.to/JS] [Asset Management System - AMS](https://dev.to/kavyanshpandey/asset-management-system-ams-2kei)
 - [Dev.to/JS] [Testing a Smart Contract](https://dev.to/iamephraim/testing-a-smart-contract-plm)
 - [Dev.to/JS] [Nodejs: cd my-journey01](https://dev.to/adebiyiitunuayo/nodejs-cd-my-journey01-1bin)
 - [Dev.to/JS] [PyScript :- The JS Killer?](https://dev.to/riteshshukla04/pyscript-the-new-js-422a)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build Dynamic Dependent Dropdown using React JS](https://dev.to/jps27cse/build-dynamic-dependent-dropdown-using-react-js-3d9c)
 - [Dev.to/JS] [Writing a wrapper for console.log for better control in JavaScript, Part I](https://dev.to/ayyash/writing-a-wrapper-for-consolelog-for-better-control-in-javascript-part-i-3d53)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
-- [Dev.to/JS] [Trendingtags.io free youtube automation tool](https://dev.to/amitsin6h/trendingtagsio-free-youtube-automation-tool-3a8m)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
-- [Dev.to/JS] [Geeking-out on SVG Graphics part-two](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-two-4aih)
-- [Dev.to/JS] [Birdle: A Medium Clone built with Appwrite](https://dev.to/smppatel99999/birdle-a-medium-clone-built-with-appwrite-mdn)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
