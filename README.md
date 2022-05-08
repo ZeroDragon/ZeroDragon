@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
+- [Dev.to/JS] [Upgrading React Router From V5 to V6](https://dev.to/jumbo02/upgrading-react-router-from-v5-to-v6-4286)
+- [Dev.to/JS] [Introduce new default prop name &quot;visible or show&quot;](https://dev.to/shafiquemalik/introduce-new-default-prop-name-visible-or-show-3dde)
+- [Dev.to/JS] [create your own personal web page using Github](https://dev.to/mohammadhassani/create-your-own-personal-web-page-using-github-2kn7)
 - [Dev.to/JS] [Hi Guys,](https://dev.to/yaswanth/hi-guys-591n)
 - [Dev.to/JS] [Quick React Native Android Set Up without Android Studio &lpar;2022&rpar;](https://dev.to/igorves/quick-react-native-android-set-up-without-android-studio-2022-1ai9)
 - [Dev.to/JS] [Nx NestJs - How to autogenerate OpenApi/Swagger specs](https://dev.to/ipreda/nx-nestjs-how-to-autogenerate-openapiswagger-specs-518n)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NextJs Course for Beginners - Create a REST api](https://dev.to/wenura/nextjs-course-for-beginners-create-a-rest-api-2gkc)
 - [Dev.to/JS] [How web browsers work - creating the accessibility tree &lpar;part 6, with illustrations&rpar;🌴🐱‍💻](https://dev.to/arikaturika/how-web-browsers-work-creating-the-accessibility-tree-part-6-with-illustrations-2hl2)
 - [Dev.to/JS] [No Setup Development: Productivity Experience with Docker](https://dev.to/shandesai/no-setup-development-productivity-experience-with-docker-2pbf)
-- [Dev.to/JS] [7 Productive website for web developers](https://dev.to/suprabhasupi/7-productive-website-for-web-developers-gn1)
-- [Dev.to/JS] [Optional chaining in Javascript](https://dev.to/anjalyyy1/optional-chaining-in-javascript-26ih)
-- [Dev.to/JS] [The Brain 🧠 Game : Sudoku](https://dev.to/think__n_encode_/the-brain-game-sudoku-lb7)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/5-movies-so-bad-theyre-actually-really-good-1848887079)
 - [Lifehacker] [Is It Allergies, or Is It COVID?](https://lifehacker.com/is-it-allergies-or-is-it-covid-1848885895)
 - [Lifehacker] [How to Avoid Dead-End Tasks at Work &lpar;Without Risking Your Job&rpar;](https://lifehacker.com/how-to-avoid-dead-end-tasks-at-work-without-risking-yo-1848883718)
-- [Lifehacker] [When to See the Eta Aquarid Meteor Shower Peak](https://lifehacker.com/when-to-see-the-eta-aquarid-meteor-shower-peak-1848885590)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
