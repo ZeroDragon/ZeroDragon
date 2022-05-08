@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add custom fonts react-native for iOS and don&#39;t die trying](https://dev.to/antoomartini/add-custom-fonts-react-native-for-ios-and-dont-die-trying-7bg)
+- [Dev.to/JS] [Create a Responsive Personal Portfolio Website Design using HTML CSS and JavaScript](https://dev.to/wenura/create-a-responsive-personal-portfolio-website-design-using-html-css-and-javascript-3ikp)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Dev.to/JS] [100 days of code challenge](https://dev.to/themmako/100-days-of-code-challenge-pdo)
 - [Dev.to/JS] [React tips for beginner.](https://dev.to/mnd/react-tips-for-beginner-3kga)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Insights into your git commits: Git Commit Analyzer](https://dev.to/leopfeiffer/insights-into-your-git-commits-git-commit-analyzer-o1o)
 - [Dev.to/JS] [Top 5 Mistakes Beginners Make While Starting Programming](https://dev.to/darklegend36/top-5-mistakes-beginners-make-while-starting-programming-2a27)
 - [Dev.to/JS] [Some Unknown Operators in JavaScript](https://dev.to/yetanotherdeveloper/some-unknown-operators-in-javascript-2joj)
-- [Dev.to/JS] [Day 8- Undefined, Not defined &amp; null in javascript](https://dev.to/sanjaybabu/day-8-undefined-not-defined-null-in-javascript-e9a)
-- [Dev.to/JS] [Create Simple Weather App using Angular &amp; Rapid API](https://dev.to/shijoshaji/create-simple-weather-app-using-angular-rapid-api-3nc1)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
