@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
+- [Dev.to/JS] [Understanding React Higher Order Component &lpar;HOC&rpar;](https://dev.to/sayanide/understanding-react-higher-order-component-hoc-4i06)
+- [Dev.to/JS] [Academic vs Intuitive understanding &lpar;aka practice makes competent&rpar;](https://dev.to/nkulik94/academic-vs-intuitive-understanding-aka-practice-makes-competent-4kc0)
+- [Dev.to/JS] [Weekly Digest 18/2022](https://dev.to/marcobiedermann/weekly-digest-182022-cbi)
+- [Dev.to/JS] [How to not get stuck in tutorial hell?](https://dev.to/happi89/how-to-not-get-stuck-in-tutorial-hell-5god)
 - [Dev.to/JS] [Add custom fonts react-native for iOS and don&#39;t die trying](https://dev.to/antoomartini/add-custom-fonts-react-native-for-ios-and-dont-die-trying-7bg)
 - [Dev.to/JS] [Create a Responsive Personal Portfolio Website Design using HTML CSS and JavaScript](https://dev.to/wenura/create-a-responsive-personal-portfolio-website-design-using-html-css-and-javascript-3ikp)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Landing a tech job](https://dev.to/mnd/landing-a-tech-job-boh)
 - [Dev.to/JS] [Firebase Miniseries Intro](https://dev.to/theeasydev/firebase-miniseries-intro-35nj)
 - [Dev.to/JS] [LOREM IPSUM](https://dev.to/helloflare/lorem-ipsum-2epl)
-- [Dev.to/JS] [How to get all object values without loop](https://dev.to/elukuro/how-to-get-all-object-values-without-loop-2fj9)
-- [Dev.to/JS] [Insights into your git commits: Git Commit Analyzer](https://dev.to/leopfeiffer/insights-into-your-git-commits-git-commit-analyzer-o1o)
-- [Dev.to/JS] [Top 5 Mistakes Beginners Make While Starting Programming](https://dev.to/darklegend36/top-5-mistakes-beginners-make-while-starting-programming-2a27)
-- [Dev.to/JS] [Some Unknown Operators in JavaScript](https://dev.to/yetanotherdeveloper/some-unknown-operators-in-javascript-2joj)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
 - [Lifehacker] [5 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/5-movies-so-bad-theyre-actually-really-good-1848887079)
-- [Lifehacker] [Is It Allergies, or Is It COVID?](https://lifehacker.com/is-it-allergies-or-is-it-covid-1848885895)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
 - [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
