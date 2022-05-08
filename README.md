@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optional chaining in Javascript](https://dev.to/anjalyyy1/optional-chaining-in-javascript-26ih)
+- [Dev.to/JS] [The Brain 🧠 Game : Sudoku](https://dev.to/think__n_encode_/the-brain-game-sudoku-lb7)
+- [Dev.to/JS] [Learn Game Development In Unity](https://dev.to/kavyargb/learn-game-development-in-unity-2lgb)
+- [Dev.to/JS] [Why I love pattern matching](https://dev.to/theallenc/why-i-love-pattern-matching-1ahh)
 - [Dev.to/JS] [This keyword &lpar;new operator&rpar; arrow function part II](https://dev.to/harshitpaliwal95/this-keyword-new-operator-arrow-function-part-ii-1lj3)
 - [Dev.to/JS] [Popup Registration Form Javascript | Create A Popup Form In Html](https://dev.to/codewith_random/popup-registration-form-javascript-create-a-popup-form-in-html-3g6o)
 - [Dev.to/JS] [What is PyScript? And Why Should You Care?](https://dev.to/devsmitra/what-is-pyscript-and-why-should-you-care-10f)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Amplication &amp; React: Using GraphQL](https://dev.to/amplication/amplication-react-using-graphql-235a)
 - [Dev.to/JS] [React Fragments in 5 minutes &lpar;with examples&rpar;](https://dev.to/kairatorozobekov/react-fragments-in-5-minutes-with-examples-3p2a)
 - [Dev.to/JS] [[Almost Netflix clone]](https://dev.to/soham0047/almost-netflix-clone-2eoj)
-- [Dev.to/JS] [傳送 物件/陣列 到 FORMDATA](https://dev.to/mesak/chuan-song-wu-jian-zhen-lie-dao-formdata-212k)
-- [Dev.to/JS] [Javascript Animation 19](https://dev.to/fullstackhacker/javascript-animation-19-3cg0)
-- [Dev.to/JS] [Javascript Animation 18](https://dev.to/fullstackhacker/javascript-animation-18-22b5)
-- [Dev.to/JS] [Javascript Animation 17](https://dev.to/fullstackhacker/javascript-animation-17-4i51)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
