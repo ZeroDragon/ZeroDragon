@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My firsthand experience with web component - learnings and limitations](https://dev.to/akdevcraft/my-firsthand-experience-with-web-component-learnings-and-limitations-4dd8)
 - [Dev.to/JS] [10 Best JavaScript Video Courses – with Samples 2022](https://dev.to/esteecodes/10-best-javascript-video-courses-with-samples-2022-53cj)
 - [Dev.to/JS] [New Project!!](https://dev.to/advikguptadev/new-project-19hh)
 - [Dev.to/JS] [AWS - Decouple configuration from code](https://dev.to/prabusah_53/aws-decouple-configuration-from-code-2oco)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Dev.to/JS] [100 days of code challenge](https://dev.to/themmako/100-days-of-code-challenge-pdo)
 - [Dev.to/JS] [React tips for beginner.](https://dev.to/mnd/react-tips-for-beginner-3kga)
-- [Dev.to/JS] [Portfolio Website Tutorial – Frontend Development with HTML, CSS, JavaScript](https://dev.to/wenura/portfolio-website-tutorial-frontend-development-with-html-css-javascript-3del)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
