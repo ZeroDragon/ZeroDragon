@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Productive website for web developers](https://dev.to/suprabhasupi/7-productive-website-for-web-developers-gn1)
 - [Dev.to/JS] [Optional chaining in Javascript](https://dev.to/anjalyyy1/optional-chaining-in-javascript-26ih)
 - [Dev.to/JS] [The Brain 🧠 Game : Sudoku](https://dev.to/think__n_encode_/the-brain-game-sudoku-lb7)
 - [Dev.to/JS] [Learn Game Development In Unity](https://dev.to/kavyargb/learn-game-development-in-unity-2lgb)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Image Slider](https://dev.to/vasanths/image-slider-414e)
 - [Dev.to/JS] [Amplication &amp; React: Using GraphQL](https://dev.to/amplication/amplication-react-using-graphql-235a)
 - [Dev.to/JS] [React Fragments in 5 minutes &lpar;with examples&rpar;](https://dev.to/kairatorozobekov/react-fragments-in-5-minutes-with-examples-3p2a)
-- [Dev.to/JS] [[Almost Netflix clone]](https://dev.to/soham0047/almost-netflix-clone-2eoj)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
