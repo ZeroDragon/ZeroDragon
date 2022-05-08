@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get all object values without loop](https://dev.to/elukuro/how-to-get-all-object-values-without-loop-2fj9)
+- [Dev.to/JS] [Insights into your git commits: Git Commit Analyzer](https://dev.to/leopfeiffer/insights-into-your-git-commits-git-commit-analyzer-o1o)
+- [Dev.to/JS] [Top 5 Mistakes Beginners Make While Starting Programming](https://dev.to/darklegend36/top-5-mistakes-beginners-make-while-starting-programming-2a27)
+- [Dev.to/JS] [Some Unknown Operators in JavaScript](https://dev.to/yetanotherdeveloper/some-unknown-operators-in-javascript-2joj)
+- [Dev.to/JS] [Day 8- Undefined, Not defined &amp; null in javascript](https://dev.to/sanjaybabu/day-8-undefined-not-defined-null-in-javascript-e9a)
+- [Dev.to/JS] [Create Simple Weather App using Angular &amp; Rapid API](https://dev.to/shijoshaji/create-simple-weather-app-using-angular-rapid-api-3nc1)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
 - [Dev.to/JS] [Upgrading React Router From V5 to V6](https://dev.to/jumbo02/upgrading-react-router-from-v5-to-v6-4286)
 - [Dev.to/JS] [Introduce new default prop name &quot;visible or show&quot;](https://dev.to/shafiquemalik/introduce-new-default-prop-name-visible-or-show-3dde)
@@ -30,12 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hi Guys,](https://dev.to/yaswanth/hi-guys-591n)
 - [Dev.to/JS] [Quick React Native Android Set Up without Android Studio &lpar;2022&rpar;](https://dev.to/igorves/quick-react-native-android-set-up-without-android-studio-2022-1ai9)
 - [Dev.to/JS] [Nx NestJs - How to autogenerate OpenApi/Swagger specs](https://dev.to/ipreda/nx-nestjs-how-to-autogenerate-openapiswagger-specs-518n)
-- [Dev.to/JS] [Como implementar page loader no angular 13](https://dev.to/rubalaine/como-implementar-page-loader-no-angular-13-30jb)
-- [Dev.to/JS] [I hated React JS, but nowadays I can’t live without it…](https://dev.to/developerbishwas/i-hated-react-js-but-nowadays-i-cant-live-without-it-51i6)
-- [Dev.to/JS] [Upload Files to S3 Object Storage &lpar;or MinIo&rpar; with Apollo Server](https://dev.to/franciscomendes10866/upload-files-to-s3-object-storage-or-minio-with-apollo-server-4m46)
-- [Dev.to/JS] [NextJs Course for Beginners - Create a REST api](https://dev.to/wenura/nextjs-course-for-beginners-create-a-rest-api-2gkc)
-- [Dev.to/JS] [How web browsers work - creating the accessibility tree &lpar;part 6, with illustrations&rpar;🌴🐱‍💻](https://dev.to/arikaturika/how-web-browsers-work-creating-the-accessibility-tree-part-6-with-illustrations-2hl2)
-- [Dev.to/JS] [No Setup Development: Productivity Experience with Docker](https://dev.to/shandesai/no-setup-development-productivity-experience-with-docker-2pbf)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
