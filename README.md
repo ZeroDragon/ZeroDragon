@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [傳送 物件/陣列 到 FORMDATA](https://dev.to/mesak/chuan-song-wu-jian-zhen-lie-dao-formdata-212k)
 - [Dev.to/JS] [Javascript Animation 19](https://dev.to/fullstackhacker/javascript-animation-19-3cg0)
 - [Dev.to/JS] [Javascript Animation 18](https://dev.to/fullstackhacker/javascript-animation-18-22b5)
 - [Dev.to/JS] [Javascript Animation 17](https://dev.to/fullstackhacker/javascript-animation-17-4i51)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Structs in JavaScript](https://dev.to/joelbonetr/structs-in-javascript-1p9l)
 - [Dev.to/JS] [Kaprekar&#39;s Constant in JavaScript](https://dev.to/justinethier/kaprekars-constant-in-javascript-if7)
 - [Dev.to/JS] [Asset Management System - AMS](https://dev.to/kavyanshpandey/asset-management-system-ams-2kei)
-- [Dev.to/JS] [Testing a Smart Contract](https://dev.to/iamephraim/testing-a-smart-contract-plm)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
