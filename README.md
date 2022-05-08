@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como implementar page loader no angular 13](https://dev.to/rubalaine/como-implementar-page-loader-no-angular-13-30jb)
+- [Dev.to/JS] [I hated React JS, but nowadays I can’t live without it…](https://dev.to/developerbishwas/i-hated-react-js-but-nowadays-i-cant-live-without-it-51i6)
+- [Dev.to/JS] [Upload Files to S3 Object Storage &lpar;or MinIo&rpar; with Apollo Server](https://dev.to/franciscomendes10866/upload-files-to-s3-object-storage-or-minio-with-apollo-server-4m46)
 - [Dev.to/JS] [NextJs Course for Beginners - Create a REST api](https://dev.to/wenura/nextjs-course-for-beginners-create-a-rest-api-2gkc)
 - [Dev.to/JS] [How web browsers work - creating the accessibility tree &lpar;part 6, with illustrations&rpar;🌴🐱‍💻](https://dev.to/arikaturika/how-web-browsers-work-creating-the-accessibility-tree-part-6-with-illustrations-2hl2)
 - [Dev.to/JS] [No Setup Development: Productivity Experience with Docker](https://dev.to/shandesai/no-setup-development-productivity-experience-with-docker-2pbf)
@@ -31,10 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Brain 🧠 Game : Sudoku](https://dev.to/think__n_encode_/the-brain-game-sudoku-lb7)
 - [Dev.to/JS] [Learn Game Development In Unity](https://dev.to/kavyargb/learn-game-development-in-unity-2lgb)
 - [Dev.to/JS] [Why I love pattern matching](https://dev.to/theallenc/why-i-love-pattern-matching-1ahh)
-- [Dev.to/JS] [This keyword &lpar;new operator&rpar; arrow function part II](https://dev.to/harshitpaliwal95/this-keyword-new-operator-arrow-function-part-ii-1lj3)
-- [Dev.to/JS] [Popup Registration Form Javascript | Create A Popup Form In Html](https://dev.to/codewith_random/popup-registration-form-javascript-create-a-popup-form-in-html-3g6o)
-- [Dev.to/JS] [What is PyScript? And Why Should You Care?](https://dev.to/devsmitra/what-is-pyscript-and-why-should-you-care-10f)
-- [Dev.to/JS] [React Redux is this a Thing of the Past after Context API.](https://dev.to/apoorvtomar/react-redux-is-this-a-thing-of-the-past-after-context-api-440i)
+- [Dev.to/JS] [this keyword &lpar;new operator&rpar; arrow function part II](https://dev.to/harshitpaliwal95/this-keyword-new-operator-arrow-function-part-ii-1lj3)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
