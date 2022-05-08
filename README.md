@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This keyword &lpar;new operator&rpar; arrow function part II](https://dev.to/harshitpaliwal95/this-keyword-new-operator-arrow-function-part-ii-1lj3)
+- [Dev.to/JS] [Popup Registration Form Javascript | Create A Popup Form In Html](https://dev.to/codewith_random/popup-registration-form-javascript-create-a-popup-form-in-html-3g6o)
+- [Dev.to/JS] [What is PyScript? And Why Should You Care?](https://dev.to/devsmitra/what-is-pyscript-and-why-should-you-care-10f)
 - [Dev.to/JS] [React Redux is this a Thing of the Past after Context API.](https://dev.to/apoorvtomar/react-redux-is-this-a-thing-of-the-past-after-context-api-440i)
 - [Dev.to/JS] [Image Slider](https://dev.to/vasanths/image-slider-414e)
 - [Dev.to/JS] [Amplication &amp; React: Using GraphQL](https://dev.to/amplication/amplication-react-using-graphql-235a)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Animation 19](https://dev.to/fullstackhacker/javascript-animation-19-3cg0)
 - [Dev.to/JS] [Javascript Animation 18](https://dev.to/fullstackhacker/javascript-animation-18-22b5)
 - [Dev.to/JS] [Javascript Animation 17](https://dev.to/fullstackhacker/javascript-animation-17-4i51)
-- [Dev.to/JS] [Javascript Animation 16](https://dev.to/fullstackhacker/javascript-animation-16-3m51)
-- [Dev.to/JS] [Javascript Animation 15](https://dev.to/fullstackhacker/javascript-animation-15-4i52)
-- [Dev.to/JS] [Javascript Animation 14](https://dev.to/fullstackhacker/javascript-animation-14-4j2)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
 - [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
