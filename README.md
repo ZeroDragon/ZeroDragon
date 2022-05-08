@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conditionally Comparing Strings in JavaScript](https://dev.to/kibetamos/conditionally-comparing-strings-in-javascript-37hh)
 - [Dev.to/JS] [Concatenating Two or More Strings in JavaScript](https://dev.to/kibetamos/concatenating-two-or-more-strings-in-javascript-14ho)
 - [Dev.to/JS] [563. Binary Tree Tilt 🚀](https://dev.to/samuelhinchliffe/563-binary-tree-tilt-c1o)
 - [Dev.to/JS] [#43 - If you can read this... - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/43-if-you-can-read-this-codewars-kata-6-kyu-57a4)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Academic vs Intuitive understanding &lpar;aka practice makes competent&rpar;](https://dev.to/nkulik94/academic-vs-intuitive-understanding-aka-practice-makes-competent-4kc0)
 - [Dev.to/JS] [Weekly Digest 18/2022](https://dev.to/marcobiedermann/weekly-digest-182022-cbi)
 - [Dev.to/JS] [How to not get stuck in tutorial hell?](https://dev.to/happi89/how-to-not-get-stuck-in-tutorial-hell-5god)
-- [Dev.to/JS] [Add custom fonts react-native for iOS and don&#39;t die trying](https://dev.to/antoomartini/add-custom-fonts-react-native-for-ios-and-dont-die-trying-7bg)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
