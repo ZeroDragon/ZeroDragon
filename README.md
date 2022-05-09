@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Delete Your Autofill Passwords in Chrome &lpar;and Move to Something More Secure&rpar;](https://lifehacker.com/how-to-delete-your-autofill-passwords-in-chrome-and-mo-1848897217)
+- [Dev.to/JS] [Var vs Let vs Const in JavaScript - What should you be using?](https://dev.to/bhavzlearn/var-vs-let-vs-const-in-javascript-what-should-you-be-using-1mmm)
+- [Dev.to/JS] [The Difference Between the Composition API and Options API in Vue](https://dev.to/smpnjn/the-difference-between-the-composition-api-and-options-api-in-vue-2m7c)
+- [Dev.to/JS] [Using Transifex Native to add internationalization &lpar;i18n&rpar; to a React app](https://dev.to/amanhimself/using-transifex-native-to-add-internationalization-i18n-to-a-react-app-h32)
+- [Dev.to/JS] [Day-83 Training At Ryaz](https://dev.to/mahin651/day-82-training-at-ryaz-3o5)
+- [Lifehacker] [You Can Now Get a Bunch of Pokémon Games for Way Less Money](https://lifehacker.com/you-can-now-get-a-bunch-of-pokemon-games-for-way-less-m-1848899521)
+- [Dev.to/JS] [Web Workers are the Future! 🏗](https://dev.to/bryce/web-workers-are-the-future-3nkg)
 - [Lifehacker] [7 Things Science Actually Hasn&#39;t Proven Are Healthy or Unhealthy](https://lifehacker.com/7-things-science-actually-hasnt-proven-are-healthy-or-u-1848893489)
 - [Dev.to/JS] [Ultimate Guide to Backend Developer Career Paths [Templates]](https://dev.to/vectorly/ultimate-guide-to-backend-developer-career-paths-templates-ljn)
 - [Dev.to/JS] [Build a URL Shortener with NodeJS](https://dev.to/heymich/build-a-url-shortener-with-nodejs-4pnp)
@@ -33,15 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Carrusel React personalizable con tailwind CSS](https://dev.to/ragandroll/simple-carrusel-react-personalizable-con-tailwind-css-446k)
 - [Dev.to/JS] [&#39;Queendom2Data&#39; -A data visualization app bulilt by React+Flask](https://dev.to/effylh/queendom2data-a-data-visualization-app-bulilt-by-reactflask-4300)
 - [Dev.to/JS] [My newest dev project is done - YouBarter.us | 🔥Roast Me 🔥](https://dev.to/ironcladdev/my-newest-dev-project-is-done-youbarterus-roast-me-2ka3)
-- [Dev.to/JS] [How to Build Loading Component in React [DETAIL TUTORIAL]](https://dev.to/codecoursessite/how-to-build-loading-component-in-react-detail-tutorial-58p9)
 - [Lifehacker] [10 Surprising Ways to Use Windex Around Your Home](https://lifehacker.com/10-surprising-ways-to-use-windex-around-your-home-1848890775)
-- [Dev.to/JS] [&#39;Bout Rewester](https://dev.to/stringent/bout-rewester-10ie)
 - [Lifehacker] [Does Sex Position Matter When You&#39;re Trying to Get Pregnant?](https://lifehacker.com/does-sex-position-matter-when-youre-trying-to-get-pregn-1848839836)
-- [Dev.to/JS] [Week 2 - JavaScript and Beyond...](https://dev.to/jwhitt3r/week-2-javascript-and-beyond-pm5)
 - [Lifehacker] [Use This Shortcut to Expel Water From Your iPhone](https://lifehacker.com/use-this-shortcut-to-expel-water-from-your-iphone-1848897129)
-- [Dev.to/JS] [Pure Reduce Functions - Use Aggregator As A State](https://dev.to/mimafogeus2/pure-reduce-functions-use-aggregator-as-a-state-32h6)
 - [Lifehacker] [These Tricks Will Help You Relieve Yourself of Your Bathroom ‘Stage Fright’](https://lifehacker.com/these-tricks-will-help-you-relieve-yourself-of-your-bat-1848892835)
-- [Dev.to/JS] [5 Amazing React Component Libraries to Consider for your Next Project](https://dev.to/anishde12020/5-amazing-react-component-libraries-to-consider-for-your-next-project-1me9)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Cleaning Your Ears](https://lifehacker.com/stop-cleaning-your-ears-1848887657)
 - [Lifehacker] [What to Give Your Parents When They Have Everything and Want Nothing](https://lifehacker.com/what-to-give-your-parents-when-they-have-everything-and-1848887581)
 - [Lifehacker] [How to Create a Home Office in a Tiny-Ass Space](https://lifehacker.com/how-to-create-a-home-office-in-a-tiny-ass-space-1848890951)
-- [Lifehacker] [How to Deal With Traumatizing News Images While Still Staying Informed](https://lifehacker.com/how-to-deal-with-traumatizing-news-images-while-still-s-1848887655)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Meme-ing the Johnny Depp/Amber Heard Trial](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848889381)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
