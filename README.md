@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week👿.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2eio)
+- [Dev.to/JS] [The Most Underrated Frontend Framework - PrimeFaces](https://dev.to/chadwinjdeysel/the-most-underrated-frontend-framework-primefaces-25g6)
 - [Dev.to/JS] [An Introduction to Logical Operators in JavaScript](https://dev.to/codecupdev/an-introduction-to-logical-operators-in-javascript-4l63)
 - [Dev.to/JS] [Painless development setup for React using Parcel &lpar;Part 1&rpar;](https://dev.to/ethanchenyenpeng/painless-development-setup-for-react-using-parcel-part-1-5544)
 - [Dev.to/JS] [How to Build Counter App with React [DETAIL]](https://dev.to/codecoursessite/how-to-build-counter-app-with-react-detail-2676)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to deploy Vue Storefront 2 to Heroku 🚀](https://dev.to/vue-storefront/how-to-deploy-vue-storefront-2-to-heroku-fg3)
 - [Dev.to/JS] [JavaScript SDE Cheat Sheet](https://dev.to/learnersbucket/javascript-sde-cheat-sheet-4h2)
 - [Dev.to/JS] [Why you should not use pixels&lpar;px&rpar; in CSS](https://dev.to/freebeliever/why-you-should-not-use-pixelspx-in-css-2342)
-- [Dev.to/JS] [Which functions/methods do you...](https://dev.to/joelbonetr/which-functionsmethods-do-you-484m)
-- [Dev.to/JS] [Creating Queues Using JavaScript](https://dev.to/deyemiobaa/creating-queues-using-javascript-lb4)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
