@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
+- [Dev.to/JS] [How to deploy Vue Storefront 2 to Heroku 🚀](https://dev.to/vue-storefront/how-to-deploy-vue-storefront-2-to-heroku-fg3)
+- [Dev.to/JS] [JavaScript SDE Cheat Sheet](https://dev.to/learnersbucket/javascript-sde-cheat-sheet-4h2)
+- [Dev.to/JS] [Why you should not use pixels&lpar;px&rpar; in CSS](https://dev.to/freebeliever/why-you-should-not-use-pixelspx-in-css-2342)
+- [Dev.to/JS] [Which functions/methods do you...](https://dev.to/joelbonetr/which-functionsmethods-do-you-484m)
+- [Dev.to/JS] [Creating Queues Using JavaScript](https://dev.to/deyemiobaa/creating-queues-using-javascript-lb4)
 - [Dev.to/JS] [Conditional statements in Javascript](https://dev.to/aryakris/conditional-statements-in-javascript-ghm)
 - [Dev.to/JS] [String Literals in JavaScript: Should I Use Double-quotes or Single-quotes?](https://dev.to/bhaeussermann/string-literals-in-javascript-should-i-use-double-quotes-or-single-quotes-7no)
 - [Dev.to/JS] [10 Main Advantages of React JS Development](https://dev.to/whotarusharora/10-main-advantages-of-react-js-development-5447)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authentication using Appwrite in React - Part 2](https://dev.to/thevinitgupta/authentication-using-appwrite-in-react-part-2-4bfa)
 - [Dev.to/JS] [To create a class,](https://dev.to/nipunsanjula/to-create-a-class-496o)
 - [Dev.to/JS] [How to upload files to Google Cloud Storage using Javascript on only the browser](https://dev.to/akirakashihara/how-to-upload-files-to-google-cloud-storage-using-javascript-on-only-the-browser-11ei)
-- [Dev.to/JS] [VAR, LET, DAN CONST JAVASCRIPT ES6](https://dev.to/mahib22/var-let-dan-const-javascript-es6-cgf)
-- [Dev.to/JS] [Building Applications with Astro Build &amp; Azure Static Web Apps CLI!](https://dev.to/azure/building-applications-with-astro-build-azure-static-web-apps-cli-a20)
-- [Dev.to/JS] [React + Eslint + Prettier + Tailwind Configuration](https://dev.to/raview69/react-eslint-prettier-tailwind-configuration-ek8)
-- [Dev.to/JS] [Javascript Animation 25](https://dev.to/fullstackhacker/javascript-animation-25-3mmh)
-- [Dev.to/JS] [Practice LeetCode Problem - Implement strStr&lpar;&rpar;](https://dev.to/kristenkinnearohlmann/practice-leetcode-problem-implement-strstr-279j)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
 - [Lifehacker] [5 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/5-movies-so-bad-theyre-actually-really-good-1848887079)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
-- [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)
-- [Crazy Programmer] [How to Develop IoT Applications: A Complete Guide for 2022](https://www.thecrazyprogrammer.com/2022/04/how-to-develop-iot-applications.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
 ---
 
