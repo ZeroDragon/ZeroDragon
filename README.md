@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You’re Doing Environment Variables All Wrong - A Node.js Perspective](https://dev.to/saikojosh/youre-doing-environment-variables-all-wrong-a-nodejs-perspective-20g0)
 - [Dev.to/JS] [Functional Programming in javascript](https://dev.to/digomic/functional-programming-in-javascript-m11)
 - [Dev.to/JS] [Conditionally Comparing Strings in JavaScript](https://dev.to/kibetamos/conditionally-comparing-strings-in-javascript-37hh)
 - [Dev.to/JS] [Concatenating Two or More Strings in JavaScript](https://dev.to/kibetamos/concatenating-two-or-more-strings-in-javascript-14ho)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Dev.to/JS] [Understanding React Higher Order Component &lpar;HOC&rpar;](https://dev.to/sayanide/understanding-react-higher-order-component-hoc-4i06)
 - [Dev.to/JS] [Academic vs Intuitive understanding &lpar;aka practice makes competent&rpar;](https://dev.to/nkulik94/academic-vs-intuitive-understanding-aka-practice-makes-competent-4kc0)
-- [Dev.to/JS] [Weekly Digest 18/2022](https://dev.to/marcobiedermann/weekly-digest-182022-cbi)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
 - [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
