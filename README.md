@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [7 Things Science Actually Hasn&#39;t Proven Are Healthy or Unhealthy](https://lifehacker.com/7-things-science-actually-hasnt-proven-are-healthy-or-u-1848893489)
+- [Dev.to/JS] [Ultimate Guide to Backend Developer Career Paths [Templates]](https://dev.to/vectorly/ultimate-guide-to-backend-developer-career-paths-templates-ljn)
+- [Dev.to/JS] [Build a URL Shortener with NodeJS](https://dev.to/heymich/build-a-url-shortener-with-nodejs-4pnp)
+- [Dev.to/JS] [VSCode - Markdown Edition](https://dev.to/dendron/vscode-markdown-edition-e73)
+- [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1848893119)
+- [Dev.to/JS] [What is a closure? Example use cases in JavaScript and React](https://dev.to/mattdclarke/what-is-a-closure-example-use-cases-in-javascript-and-react-2e6j)
+- [Lifehacker] [How to Know If Your Symptoms Are Bad Enough to See an Allergist](https://lifehacker.com/how-to-know-if-your-symptoms-are-bad-enough-to-see-an-a-1848893822)
+- [Dev.to/JS] [Simple Carrusel React personalizable con tailwind CSS](https://dev.to/ragandroll/simple-carrusel-react-personalizable-con-tailwind-css-446k)
 - [Dev.to/JS] [&#39;Queendom2Data&#39; -A data visualization app bulilt by React+Flask](https://dev.to/effylh/queendom2data-a-data-visualization-app-bulilt-by-reactflask-4300)
 - [Dev.to/JS] [My newest dev project is done - YouBarter.us | 🔥Roast Me 🔥](https://dev.to/ironcladdev/my-newest-dev-project-is-done-youbarterus-roast-me-2ka3)
 - [Dev.to/JS] [How to Build Loading Component in React [DETAIL TUTORIAL]](https://dev.to/codecoursessite/how-to-build-loading-component-in-react-detail-tutorial-58p9)
@@ -34,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pure Reduce Functions - Use Aggregator As A State](https://dev.to/mimafogeus2/pure-reduce-functions-use-aggregator-as-a-state-32h6)
 - [Lifehacker] [These Tricks Will Help You Relieve Yourself of Your Bathroom ‘Stage Fright’](https://lifehacker.com/these-tricks-will-help-you-relieve-yourself-of-your-bat-1848892835)
 - [Dev.to/JS] [5 Amazing React Component Libraries to Consider for your Next Project](https://dev.to/anishde12020/5-amazing-react-component-libraries-to-consider-for-your-next-project-1me9)
-- [Dev.to/JS] [Open Source Adventures: Episode 57: Extending BATTLETECH Weapon app](https://dev.to/taw/open-source-adventures-episode-57-extending-battletech-weapon-app-1iml)
-- [Dev.to/JS] [JavaScript - Array](https://dev.to/lechangzhang/javascript-array-5006)
-- [Dev.to/JS] [Dynamic HTML Radio Button Using JavaScript](https://dev.to/hirajatamil/dynamic-html-radio-button-using-javascript-bgj)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week👿.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2eio)
-- [Dev.to/JS] [The Most Underrated Frontend Framework - PrimeFaces](https://dev.to/chadwinjdeysel/the-most-underrated-frontend-framework-primefaces-25g6)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Create a Home Office in a Tiny-Ass Space](https://lifehacker.com/how-to-create-a-home-office-in-a-tiny-ass-space-1848890951)
 - [Lifehacker] [How to Deal With Traumatizing News Images While Still Staying Informed](https://lifehacker.com/how-to-deal-with-traumatizing-news-images-while-still-s-1848887655)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: Meme-ing the Johnny Depp/Amber Heard Trial](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-meme-ing-1848889381)
-- [Lifehacker] [A Beginner’s Guide to Designing and Installing Outdoor Lighting](https://lifehacker.com/a-beginner-s-guide-to-designing-and-installing-outdoor-1848887618)
-- [Lifehacker] [12 of the Worst Wedding Guest Faux Pas, According to Lifehacker Readers](https://lifehacker.com/12-of-the-worst-wedding-guest-faux-pas-according-to-li-1848880628)
-- [Lifehacker] [What Are ‘Active Recovery Days’ &lpar;and How Can You Make the Most of Them&rpar;?](https://lifehacker.com/what-are-active-recovery-days-and-how-can-you-make-t-1848886228)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
