@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conditional statements in Javascript](https://dev.to/aryakris/conditional-statements-in-javascript-ghm)
 - [Dev.to/JS] [String Literals in JavaScript: Should I Use Double-quotes or Single-quotes?](https://dev.to/bhaeussermann/string-literals-in-javascript-should-i-use-double-quotes-or-single-quotes-7no)
 - [Dev.to/JS] [10 Main Advantages of React JS Development](https://dev.to/whotarusharora/10-main-advantages-of-react-js-development-5447)
 - [Dev.to/JS] [Having Fun With .filter&lpar; &rpar;](https://dev.to/rstarksmith/having-fun-with-filter--45n)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React + Eslint + Prettier + Tailwind Configuration](https://dev.to/raview69/react-eslint-prettier-tailwind-configuration-ek8)
 - [Dev.to/JS] [Javascript Animation 25](https://dev.to/fullstackhacker/javascript-animation-25-3mmh)
 - [Dev.to/JS] [Practice LeetCode Problem - Implement strStr&lpar;&rpar;](https://dev.to/kristenkinnearohlmann/practice-leetcode-problem-implement-strstr-279j)
-- [Dev.to/JS] [vesfse es](https://dev.to/aagiidev/vesfse-es-d7n)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
