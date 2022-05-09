@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NFT Components](https://dev.to/kumard3/nft-components-3h7d)
+- [Dev.to/JS] [Services in Angular12](https://dev.to/deepachaurasia1/services-in-angular12-3f6n)
+- [Dev.to/JS] [Simple weather API Project Javascript | Weather App Javascript](https://dev.to/codewith_random/simple-weather-api-project-javascript-weather-app-javascript-ac4)
+- [Dev.to/JS] [Simple Footer Using HTML and CSS | Responsive Footer Html CSS](https://dev.to/codewith_random/simple-footer-using-html-and-css-responsive-footer-html-css-3o49)
+- [Lifehacker] [How to Spot an Explosive Phone Battery &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-an-explosive-phone-battery-and-what-to-do-1848899784)
+- [Dev.to/JS] [Phase 2 of Flatiron](https://dev.to/jss475/phase-2-of-flatiron-4dkm)
+- [Dev.to/JS] [A Guide on How to use Emit in Vue](https://dev.to/smpnjn/a-guide-on-how-to-use-emit-in-vue-57aj)
 - [Lifehacker] [How to Delete Your Autofill Passwords in Chrome &lpar;and Move to Something More Secure&rpar;](https://lifehacker.com/how-to-delete-your-autofill-passwords-in-chrome-and-mo-1848897217)
 - [Dev.to/JS] [Var vs Let vs Const in JavaScript - What should you be using?](https://dev.to/bhavzlearn/var-vs-let-vs-const-in-javascript-what-should-you-be-using-1mmm)
 - [Dev.to/JS] [The Difference Between the Composition API and Options API in Vue](https://dev.to/smpnjn/the-difference-between-the-composition-api-and-options-api-in-vue-2m7c)
@@ -32,14 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Workers are the Future! 🏗](https://dev.to/bryce/web-workers-are-the-future-3nkg)
 - [Lifehacker] [7 Things Science Actually Hasn&#39;t Proven Are Healthy or Unhealthy](https://lifehacker.com/7-things-science-actually-hasnt-proven-are-healthy-or-u-1848893489)
 - [Dev.to/JS] [Ultimate Guide to Backend Developer Career Paths [Templates]](https://dev.to/vectorly/ultimate-guide-to-backend-developer-career-paths-templates-ljn)
-- [Dev.to/JS] [Build a URL Shortener with NodeJS](https://dev.to/heymich/build-a-url-shortener-with-nodejs-4pnp)
-- [Dev.to/JS] [VSCode - Markdown Edition](https://dev.to/dendron/vscode-markdown-edition-e73)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1848893119)
-- [Dev.to/JS] [What is a closure? Example use cases in JavaScript and React](https://dev.to/mattdclarke/what-is-a-closure-example-use-cases-in-javascript-and-react-2e6j)
 - [Lifehacker] [How to Know If Your Symptoms Are Bad Enough to See an Allergist](https://lifehacker.com/how-to-know-if-your-symptoms-are-bad-enough-to-see-an-a-1848893822)
-- [Dev.to/JS] [Simple Carrusel React personalizable con tailwind CSS](https://dev.to/ragandroll/simple-carrusel-react-personalizable-con-tailwind-css-446k)
-- [Dev.to/JS] [&#39;Queendom2Data&#39; -A data visualization app bulilt by React+Flask](https://dev.to/effylh/queendom2data-a-data-visualization-app-bulilt-by-reactflask-4300)
-- [Dev.to/JS] [My newest dev project is done - YouBarter.us | 🔥Roast Me 🔥](https://dev.to/ironcladdev/my-newest-dev-project-is-done-youbarterus-roast-me-2ka3)
 - [Lifehacker] [10 Surprising Ways to Use Windex Around Your Home](https://lifehacker.com/10-surprising-ways-to-use-windex-around-your-home-1848890775)
 - [Lifehacker] [Does Sex Position Matter When You&#39;re Trying to Get Pregnant?](https://lifehacker.com/does-sex-position-matter-when-youre-trying-to-get-pregn-1848839836)
 - [Lifehacker] [Use This Shortcut to Expel Water From Your iPhone](https://lifehacker.com/use-this-shortcut-to-expel-water-from-your-iphone-1848897129)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix a PS4 That Won&#39;t Read Discs](https://lifehacker.com/how-to-fix-a-ps4-that-wont-read-discs-1848890850)
 - [Lifehacker] [Stop Cleaning Your Ears](https://lifehacker.com/stop-cleaning-your-ears-1848887657)
 - [Lifehacker] [What to Give Your Parents When They Have Everything and Want Nothing](https://lifehacker.com/what-to-give-your-parents-when-they-have-everything-and-1848887581)
-- [Lifehacker] [How to Create a Home Office in a Tiny-Ass Space](https://lifehacker.com/how-to-create-a-home-office-in-a-tiny-ass-space-1848890951)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
