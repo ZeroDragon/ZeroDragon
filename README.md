@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VAR, LET, DAN CONST JAVASCRIPT ES6](https://dev.to/mahib22/var-let-dan-const-javascript-es6-cgf)
+- [Dev.to/JS] [Building Applications with Astro Build &amp; Azure Static Web Apps CLI!](https://dev.to/azure/building-applications-with-astro-build-azure-static-web-apps-cli-a20)
+- [Dev.to/JS] [React + Eslint + Prettier + Tailwind Configuration](https://dev.to/raview69/react-eslint-prettier-tailwind-configuration-ek8)
+- [Dev.to/JS] [Javascript Animation 25](https://dev.to/fullstackhacker/javascript-animation-25-3mmh)
 - [Dev.to/JS] [Practice LeetCode Problem - Implement strStr&lpar;&rpar;](https://dev.to/kristenkinnearohlmann/practice-leetcode-problem-implement-strstr-279j)
 - [Dev.to/JS] [vesfse es](https://dev.to/aagiidev/vesfse-es-d7n)
 - [Dev.to/JS] [How can you help?](https://dev.to/cesar__dlr/how-can-you-help-3cp2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Animation 23](https://dev.to/fullstackhacker/javascript-animation-23-4ib5)
 - [Dev.to/JS] [Javascript Animation 22](https://dev.to/fullstackhacker/javascript-animation-22-1apm)
 - [Dev.to/JS] [Javascript Binary heap data structure](https://dev.to/bvnkumar/javascript-binary-heap-data-structure-1d9l)
-- [Dev.to/JS] [Javascript Animation 21](https://dev.to/fullstackhacker/javascript-animation-21-4lg1)
-- [Dev.to/JS] [Javascript Animation 20](https://dev.to/fullstackhacker/javascript-animation-20-2kln)
-- [Dev.to/JS] [#07: Deploying Static Web Apps](https://dev.to/azure/07-deploying-static-web-apps-48e)
-- [Dev.to/JS] [You’re Doing Environment Variables All Wrong - A Node.js Perspective](https://dev.to/saikojosh/youre-doing-environment-variables-all-wrong-a-nodejs-perspective-20g0)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
