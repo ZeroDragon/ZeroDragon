@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Tricks Will Help You Relieve Yourself of Your Bathroom ‘Stage Fright’](https://lifehacker.com/these-tricks-will-help-you-relieve-yourself-of-your-bat-1848892835)
+- [Dev.to/JS] [5 Amazing React Component Libraries to Consider for your Next Project](https://dev.to/anishde12020/5-amazing-react-component-libraries-to-consider-for-your-next-project-1me9)
+- [Dev.to/JS] [Open Source Adventures: Episode 57: Extending BATTLETECH Weapon app](https://dev.to/taw/open-source-adventures-episode-57-extending-battletech-weapon-app-1iml)
+- [Dev.to/JS] [JavaScript - Array](https://dev.to/lechangzhang/javascript-array-5006)
+- [Dev.to/JS] [Dynamic HTML Radio Button Using JavaScript](https://dev.to/hirajatamil/dynamic-html-radio-button-using-javascript-bgj)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week👿.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2eio)
 - [Dev.to/JS] [The Most Underrated Frontend Framework - PrimeFaces](https://dev.to/chadwinjdeysel/the-most-underrated-frontend-framework-primefaces-25g6)
 - [Dev.to/JS] [An Introduction to Logical Operators in JavaScript](https://dev.to/codecupdev/an-introduction-to-logical-operators-in-javascript-4l63)
@@ -31,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Self - Taught, Need Advice Please](https://dev.to/cjmm666/self-taught-need-advise-please-32k7)
 - [Dev.to/JS] [Khi nào dùng useMemo và useCallback - Phần 1](https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-1-1f75)
 - [Dev.to/JS] [HTML Table Sorting using Vanila JavaScript](https://dev.to/html_tamizhan/html-table-sorting-using-vanila-javascript-4mbo)
-- [Dev.to/JS] [Create a toast alert using only HTML, CSS, and Javascript](https://dev.to/incoderweb/create-a-toast-alert-using-only-html-css-and-javascript-1add)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
-- [Dev.to/JS] [How to deploy Vue Storefront 2 to Heroku 🚀](https://dev.to/vue-storefront/how-to-deploy-vue-storefront-2-to-heroku-fg3)
-- [Dev.to/JS] [JavaScript SDE Cheat Sheet](https://dev.to/learnersbucket/javascript-sde-cheat-sheet-4h2)
-- [Dev.to/JS] [Why you should not use pixels&lpar;px&rpar; in CSS](https://dev.to/freebeliever/why-you-should-not-use-pixelspx-in-css-2342)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
-- [Lifehacker] [5 Movies So Bad, They&#39;re Actually Really Good](https://lifehacker.com/5-movies-so-bad-theyre-actually-really-good-1848887079)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
