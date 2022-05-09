@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [&#39;Queendom2Data&#39; -A data visualization app bulilt by React+Flask](https://dev.to/effylh/queendom2data-a-data-visualization-app-bulilt-by-reactflask-4300)
+- [Dev.to/JS] [My newest dev project is done - YouBarter.us | 🔥Roast Me 🔥](https://dev.to/ironcladdev/my-newest-dev-project-is-done-youbarterus-roast-me-2ka3)
+- [Dev.to/JS] [How to Build Loading Component in React [DETAIL TUTORIAL]](https://dev.to/codecoursessite/how-to-build-loading-component-in-react-detail-tutorial-58p9)
+- [Lifehacker] [10 Surprising Ways to Use Windex Around Your Home](https://lifehacker.com/10-surprising-ways-to-use-windex-around-your-home-1848890775)
+- [Dev.to/JS] [&#39;Bout Rewester](https://dev.to/stringent/bout-rewester-10ie)
+- [Lifehacker] [Does Sex Position Matter When You&#39;re Trying to Get Pregnant?](https://lifehacker.com/does-sex-position-matter-when-youre-trying-to-get-pregn-1848839836)
 - [Dev.to/JS] [Week 2 - JavaScript and Beyond...](https://dev.to/jwhitt3r/week-2-javascript-and-beyond-pm5)
 - [Lifehacker] [Use This Shortcut to Expel Water From Your iPhone](https://lifehacker.com/use-this-shortcut-to-expel-water-from-your-iphone-1848897129)
 - [Dev.to/JS] [Pure Reduce Functions - Use Aggregator As A State](https://dev.to/mimafogeus2/pure-reduce-functions-use-aggregator-as-a-state-32h6)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamic HTML Radio Button Using JavaScript](https://dev.to/hirajatamil/dynamic-html-radio-button-using-javascript-bgj)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week👿.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2eio)
 - [Dev.to/JS] [The Most Underrated Frontend Framework - PrimeFaces](https://dev.to/chadwinjdeysel/the-most-underrated-frontend-framework-primefaces-25g6)
-- [Dev.to/JS] [Blazor Vs. Angular](https://dev.to/syncfusion/blazor-vs-angular-4aj8)
-- [Dev.to/JS] [An Introduction to Logical Operators in JavaScript](https://dev.to/codecupdev/an-introduction-to-logical-operators-in-javascript-4l63)
-- [Dev.to/JS] [Painless development setup for React using Parcel &lpar;Part 1&rpar;](https://dev.to/ethanchenyenpeng/painless-development-setup-for-react-using-parcel-part-1-5544)
-- [Dev.to/JS] [How to Build Counter App with React [DETAIL]](https://dev.to/codecoursessite/how-to-build-counter-app-with-react-detail-2676)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Beginner’s Guide to Designing and Installing Outdoor Lighting](https://lifehacker.com/a-beginner-s-guide-to-designing-and-installing-outdoor-1848887618)
 - [Lifehacker] [12 of the Worst Wedding Guest Faux Pas, According to Lifehacker Readers](https://lifehacker.com/12-of-the-worst-wedding-guest-faux-pas-according-to-li-1848880628)
 - [Lifehacker] [What Are ‘Active Recovery Days’ &lpar;and How Can You Make the Most of Them&rpar;?](https://lifehacker.com/what-are-active-recovery-days-and-how-can-you-make-t-1848886228)
-- [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
-- [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
