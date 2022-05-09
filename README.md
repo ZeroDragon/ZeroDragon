@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Having Fun with .filter&lpar; &rpar;](https://dev.to/rstarksmith/having-fun-with-filter--45n)
+- [Dev.to/JS] [Authentication using Appwrite in React - Part 2](https://dev.to/thevinitgupta/authentication-using-appwrite-in-react-part-2-4bfa)
+- [Dev.to/JS] [To create a class,](https://dev.to/nipunsanjula/to-create-a-class-496o)
+- [Dev.to/JS] [How to upload files to Google Cloud Storage using Javascript on only the browser](https://dev.to/akirakashihara/how-to-upload-files-to-google-cloud-storage-using-javascript-on-only-the-browser-11ei)
 - [Dev.to/JS] [VAR, LET, DAN CONST JAVASCRIPT ES6](https://dev.to/mahib22/var-let-dan-const-javascript-es6-cgf)
 - [Dev.to/JS] [Building Applications with Astro Build &amp; Azure Static Web Apps CLI!](https://dev.to/azure/building-applications-with-astro-build-azure-static-web-apps-cli-a20)
 - [Dev.to/JS] [React + Eslint + Prettier + Tailwind Configuration](https://dev.to/raview69/react-eslint-prettier-tailwind-configuration-ek8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [vesfse es](https://dev.to/aagiidev/vesfse-es-d7n)
 - [Dev.to/JS] [How can you help?](https://dev.to/cesar__dlr/how-can-you-help-3cp2)
 - [Dev.to/JS] [Javascript Animation 24](https://dev.to/fullstackhacker/javascript-animation-24-48dh)
-- [Dev.to/JS] [Nx NestJs - Easy way to get, autofill and validate environment variables](https://dev.to/ipreda/nx-nestjs-easy-way-to-get-autofill-and-validate-environment-variables-a4m)
-- [Dev.to/JS] [Javascript Animation 23](https://dev.to/fullstackhacker/javascript-animation-23-4ib5)
-- [Dev.to/JS] [Javascript Animation 22](https://dev.to/fullstackhacker/javascript-animation-22-1apm)
-- [Dev.to/JS] [Javascript Binary heap data structure](https://dev.to/bvnkumar/javascript-binary-heap-data-structure-1d9l)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
