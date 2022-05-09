@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [vesfse es](https://dev.to/aagiidev/vesfse-es-d7n)
 - [Dev.to/JS] [How can you help?](https://dev.to/cesar__dlr/how-can-you-help-3cp2)
 - [Dev.to/JS] [Javascript Animation 24](https://dev.to/fullstackhacker/javascript-animation-24-48dh)
 - [Dev.to/JS] [Nx NestJs - Easy way to get, autofill and validate environment variables](https://dev.to/ipreda/nx-nestjs-easy-way-to-get-autofill-and-validate-environment-variables-a4m)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#07: Deploying Static Web Apps](https://dev.to/azure/07-deploying-static-web-apps-48e)
 - [Dev.to/JS] [You’re Doing Environment Variables All Wrong - A Node.js Perspective](https://dev.to/saikojosh/youre-doing-environment-variables-all-wrong-a-nodejs-perspective-20g0)
 - [Dev.to/JS] [Functional Programming in javascript](https://dev.to/digomic/functional-programming-in-javascript-m11)
-- [Dev.to/JS] [Conditionally Comparing Strings in JavaScript](https://dev.to/kibetamos/conditionally-comparing-strings-in-javascript-37hh)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
