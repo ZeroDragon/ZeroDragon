@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Converting your vanilla Javascript app to TypeScript](https://dev.to/useanvil/converting-your-vanilla-javascript-app-to-typescript-1bki)
+- [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Dev.to/JS] [DTOs In Javascript](https://dev.to/tareksalem/dtos-in-javascript-118p)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Dev.to/JS] [Which Frontend Javascript Framework/library is the Best?](https://dev.to/mojodev/which-frontend-javascript-frameworklibrary-is-the-best-3ddi)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript getters and setters](https://dev.to/amitavmishra99/javascript-getters-and-setters-2ldk)
 - [Dev.to/JS] [Creating advanced reusable forms in Next.js](https://dev.to/propelauth/creating-advanced-reusable-forms-in-nextjs-58ap)
 - [Lifehacker] [Don’t Buy the Wrong Vacuum for Your Home](https://lifehacker.com/don-t-buy-the-wrong-vacuum-for-your-home-1848899622)
-- [Dev.to/JS] [Temporal Dead Zone &lpar;TDZ&rpar;](https://dev.to/vidhithakur/temporal-dead-zone-tdz-1kp)
 - [Lifehacker] [Three Free Ways to Boost Your Wifi Signal](https://lifehacker.com/three-free-ways-to-boost-your-wifi-signal-1848900141)
 - [Lifehacker] [How to Spot an Explosive Phone Battery &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-an-explosive-phone-battery-and-what-to-do-1848899784)
 - [Lifehacker] [How to Delete Your Autofill Passwords in Chrome &lpar;and Move to Something More Secure&rpar;](https://lifehacker.com/how-to-delete-your-autofill-passwords-in-chrome-and-mo-1848897217)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Your Dog From Bringing Outdoor Allergens Into Your Home](https://lifehacker.com/how-to-stop-your-dog-from-bringing-outdoor-allergens-in-1848880261)
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
-- [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
