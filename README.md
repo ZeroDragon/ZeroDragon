@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I made Telegram to Notion Bot](https://dev.to/franpcode/how-i-made-telegram-to-notion-bot-c2o)
+- [Dev.to/JS] [Nx NestJs - Typeorm database connection with environment variables](https://dev.to/ipreda/nx-nestjs-typeorm-database-connection-with-environment-variables-1na6)
+- [Dev.to/JS] [Is web penetration testing worth it?](https://dev.to/intesar/is-web-penetration-testing-worth-it-nmh)
+- [Dev.to/JS] [Ng-News: Episode 22/18](https://dev.to/rainerhahnekamp/ng-news-episode-2218-586h)
+- [Dev.to/JS] [Build an inventory management app with Azure Static Web Apps with + React, part 1](https://dev.to/azure/build-an-inventory-management-app-with-azure-static-web-apps-with-react-part-1-2l2e)
 - [Dev.to/JS] [Converting your vanilla Javascript app to TypeScript](https://dev.to/useanvil/converting-your-vanilla-javascript-app-to-typescript-1bki)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Dev.to/JS] [DTOs In Javascript](https://dev.to/tareksalem/dtos-in-javascript-118p)
@@ -35,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pigshell - Pixel Image Filter](https://dev.to/thevinitgupta/pigshell-pixel-image-filter-4277)
 - [Lifehacker] [Which Airlines Offer Free Wifi or Free Messaging &lpar;and Which Ones Make You Pay&rpar;](https://lifehacker.com/which-airlines-offer-free-wifi-or-free-messaging-and-w-1848899990)
 - [Dev.to/JS] [How do colors plays important role in UI/UX development?](https://dev.to/miketech_13/how-do-colors-plays-important-role-in-uiux-development-llc)
-- [Dev.to/JS] [How 2 Quickly Create a Lightbox Photo Gallery in Your Bootstrap 5 Site](https://dev.to/sieis/how-2-quickly-create-a-lightbox-photo-gallery-in-your-bootstrap-5-site-4b2m)
-- [Dev.to/JS] [The paired hook pattern](https://dev.to/vangware/the-paired-hook-pattern-4mo0)
-- [Dev.to/JS] [114. Flatten Binary Tree to Linked List 🚀](https://dev.to/samuelhinchliffe/114-flatten-binary-tree-to-linked-list-41d0)
-- [Dev.to/JS] [JavaScript getters and setters](https://dev.to/amitavmishra99/javascript-getters-and-setters-2ldk)
-- [Dev.to/JS] [Creating advanced reusable forms in Next.js](https://dev.to/propelauth/creating-advanced-reusable-forms-in-nextjs-58ap)
 - [Lifehacker] [Don’t Buy the Wrong Vacuum for Your Home](https://lifehacker.com/don-t-buy-the-wrong-vacuum-for-your-home-1848899622)
 - [Lifehacker] [Three Free Ways to Boost Your Wifi Signal](https://lifehacker.com/three-free-ways-to-boost-your-wifi-signal-1848900141)
 - [Lifehacker] [How to Spot an Explosive Phone Battery &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-an-explosive-phone-battery-and-what-to-do-1848899784)
