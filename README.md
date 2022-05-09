@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [DTOs In Javascript](https://dev.to/tareksalem/dtos-in-javascript-118p)
+- [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
+- [Dev.to/JS] [Which Frontend Javascript Framework/library is the Best?](https://dev.to/mojodev/which-frontend-javascript-frameworklibrary-is-the-best-3ddi)
+- [Dev.to/JS] [A New Speed testing extension came to chrome.](https://dev.to/junaid_dev/a-new-speed-testing-extension-came-to-chrome-2dej)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
 - [Dev.to/JS] [Generate TypeScript Declaration Files for JavaScript Files](https://dev.to/hkamran/generate-typescript-declaration-files-for-javascript-files-1dij)
 - [Lifehacker] [Stop Refrigerating Your Watermelon](https://lifehacker.com/stop-refrigerating-your-watermelon-1848900347)
@@ -36,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating advanced reusable forms in Next.js](https://dev.to/propelauth/creating-advanced-reusable-forms-in-nextjs-58ap)
 - [Lifehacker] [Don’t Buy the Wrong Vacuum for Your Home](https://lifehacker.com/don-t-buy-the-wrong-vacuum-for-your-home-1848899622)
 - [Dev.to/JS] [Temporal Dead Zone &lpar;TDZ&rpar;](https://dev.to/vidhithakur/temporal-dead-zone-tdz-1kp)
-- [Dev.to/JS] [Why I&#39;m ditching Axios &lpar;Spoiler: I moved to Wretch!&rpar;](https://dev.to/marklai1998/why-im-ditching-axios-spoiler-i-moved-to-wretch-4i2)
-- [Dev.to/JS] [NFT Components](https://dev.to/kumard3/nft-components-3h7d)
 - [Lifehacker] [Three Free Ways to Boost Your Wifi Signal](https://lifehacker.com/three-free-ways-to-boost-your-wifi-signal-1848900141)
-- [Dev.to/JS] [Services in Angular12](https://dev.to/deepachaurasia1/services-in-angular12-3f6n)
 - [Lifehacker] [How to Spot an Explosive Phone Battery &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-an-explosive-phone-battery-and-what-to-do-1848899784)
 - [Lifehacker] [How to Delete Your Autofill Passwords in Chrome &lpar;and Move to Something More Secure&rpar;](https://lifehacker.com/how-to-delete-your-autofill-passwords-in-chrome-and-mo-1848897217)
 - [Lifehacker] [You Can Now Get a Bunch of Pokémon Games for Way Less Money](https://lifehacker.com/you-can-now-get-a-bunch-of-pokemon-games-for-way-less-m-1848899521)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Set Boundaries With Your Mom](https://lifehacker.com/how-to-set-boundaries-with-your-mom-1848893283)
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
-- [Lifehacker] [Three Good Reasons to Update WhatsApp Right Now](https://lifehacker.com/three-good-reasons-to-update-whatsapp-right-now-1848891855)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
