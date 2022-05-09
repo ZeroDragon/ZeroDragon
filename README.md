@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Introduction to Logical Operators in JavaScript](https://dev.to/codecupdev/an-introduction-to-logical-operators-in-javascript-4l63)
+- [Dev.to/JS] [Painless development setup for React using Parcel &lpar;Part 1&rpar;](https://dev.to/ethanchenyenpeng/painless-development-setup-for-react-using-parcel-part-1-5544)
+- [Dev.to/JS] [How to Build Counter App with React [DETAIL]](https://dev.to/codecoursessite/how-to-build-counter-app-with-react-detail-2676)
+- [Dev.to/JS] [Self - Taught, Need Advice Please](https://dev.to/cjmm666/self-taught-need-advise-please-32k7)
 - [Dev.to/JS] [Khi nào dùng useMemo và useCallback - Phần 1](https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-1-1f75)
 - [Dev.to/JS] [HTML Table Sorting using Vanila JavaScript](https://dev.to/html_tamizhan/html-table-sorting-using-vanila-javascript-4mbo)
 - [Dev.to/JS] [Create a toast alert using only HTML, CSS, and Javascript](https://dev.to/incoderweb/create-a-toast-alert-using-only-html-css-and-javascript-1add)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why you should not use pixels&lpar;px&rpar; in CSS](https://dev.to/freebeliever/why-you-should-not-use-pixelspx-in-css-2342)
 - [Dev.to/JS] [Which functions/methods do you...](https://dev.to/joelbonetr/which-functionsmethods-do-you-484m)
 - [Dev.to/JS] [Creating Queues Using JavaScript](https://dev.to/deyemiobaa/creating-queues-using-javascript-lb4)
-- [Dev.to/JS] [Conditional statements in Javascript](https://dev.to/aryakris/conditional-statements-in-javascript-ghm)
-- [Dev.to/JS] [String Literals in JavaScript: Should I Use Double-quotes or Single-quotes?](https://dev.to/bhaeussermann/string-literals-in-javascript-should-i-use-double-quotes-or-single-quotes-7no)
-- [Dev.to/JS] [10 Main Advantages of React JS Development](https://dev.to/whotarusharora/10-main-advantages-of-react-js-development-5447)
-- [Dev.to/JS] [Having Fun With .filter&lpar; &rpar;](https://dev.to/rstarksmith/having-fun-with-filter--45n)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
