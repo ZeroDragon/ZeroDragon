@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Week 2 - JavaScript and Beyond...](https://dev.to/jwhitt3r/week-2-javascript-and-beyond-pm5)
+- [Lifehacker] [Use This Shortcut to Expel Water From Your iPhone](https://lifehacker.com/use-this-shortcut-to-expel-water-from-your-iphone-1848897129)
+- [Dev.to/JS] [Pure Reduce Functions - Use Aggregator As A State](https://dev.to/mimafogeus2/pure-reduce-functions-use-aggregator-as-a-state-32h6)
 - [Lifehacker] [These Tricks Will Help You Relieve Yourself of Your Bathroom ‘Stage Fright’](https://lifehacker.com/these-tricks-will-help-you-relieve-yourself-of-your-bat-1848892835)
 - [Dev.to/JS] [5 Amazing React Component Libraries to Consider for your Next Project](https://dev.to/anishde12020/5-amazing-react-component-libraries-to-consider-for-your-next-project-1me9)
 - [Dev.to/JS] [Open Source Adventures: Episode 57: Extending BATTLETECH Weapon app](https://dev.to/taw/open-source-adventures-episode-57-extending-battletech-weapon-app-1iml)
@@ -30,12 +33,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamic HTML Radio Button Using JavaScript](https://dev.to/hirajatamil/dynamic-html-radio-button-using-javascript-bgj)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week👿.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2eio)
 - [Dev.to/JS] [The Most Underrated Frontend Framework - PrimeFaces](https://dev.to/chadwinjdeysel/the-most-underrated-frontend-framework-primefaces-25g6)
+- [Dev.to/JS] [Blazor Vs. Angular](https://dev.to/syncfusion/blazor-vs-angular-4aj8)
 - [Dev.to/JS] [An Introduction to Logical Operators in JavaScript](https://dev.to/codecupdev/an-introduction-to-logical-operators-in-javascript-4l63)
 - [Dev.to/JS] [Painless development setup for React using Parcel &lpar;Part 1&rpar;](https://dev.to/ethanchenyenpeng/painless-development-setup-for-react-using-parcel-part-1-5544)
 - [Dev.to/JS] [How to Build Counter App with React [DETAIL]](https://dev.to/codecoursessite/how-to-build-counter-app-with-react-detail-2676)
-- [Dev.to/JS] [Self - Taught, Need Advice Please](https://dev.to/cjmm666/self-taught-need-advise-please-32k7)
-- [Dev.to/JS] [Khi nào dùng useMemo và useCallback - Phần 1](https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-1-1f75)
-- [Dev.to/JS] [HTML Table Sorting using Vanila JavaScript](https://dev.to/html_tamizhan/html-table-sorting-using-vanila-javascript-4mbo)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are ‘Active Recovery Days’ &lpar;and How Can You Make the Most of Them&rpar;?](https://lifehacker.com/what-are-active-recovery-days-and-how-can-you-make-t-1848886228)
 - [Lifehacker] [Let’s Bring Back the Restaurant Reservation](https://lifehacker.com/let-s-bring-back-the-restaurant-reservation-1848886970)
 - [Lifehacker] [Why Allergy Season Is Getting Longer](https://lifehacker.com/why-allergy-season-is-getting-longer-1848887231)
-- [Lifehacker] [9 Zelda-esque Switch Games to Play While You Wait for ‘Breath of the Wild 2’](https://lifehacker.com/9-zelda-esque-switch-games-to-play-while-you-wait-for-1848833889)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
