@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Khi nào dùng useMemo và useCallback - Phần 1](https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-1-1f75)
 - [Dev.to/JS] [HTML Table Sorting using Vanila JavaScript](https://dev.to/html_tamizhan/html-table-sorting-using-vanila-javascript-4mbo)
 - [Dev.to/JS] [Create a toast alert using only HTML, CSS, and Javascript](https://dev.to/incoderweb/create-a-toast-alert-using-only-html-css-and-javascript-1add)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [String Literals in JavaScript: Should I Use Double-quotes or Single-quotes?](https://dev.to/bhaeussermann/string-literals-in-javascript-should-i-use-double-quotes-or-single-quotes-7no)
 - [Dev.to/JS] [10 Main Advantages of React JS Development](https://dev.to/whotarusharora/10-main-advantages-of-react-js-development-5447)
 - [Dev.to/JS] [Having Fun With .filter&lpar; &rpar;](https://dev.to/rstarksmith/having-fun-with-filter--45n)
-- [Dev.to/JS] [Authentication using Appwrite in React - Part 2](https://dev.to/thevinitgupta/authentication-using-appwrite-in-react-part-2-4bfa)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
