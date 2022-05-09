@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
+- [Dev.to/JS] [Generate TypeScript Declaration Files for JavaScript Files](https://dev.to/hkamran/generate-typescript-declaration-files-for-javascript-files-1dij)
+- [Lifehacker] [Stop Refrigerating Your Watermelon](https://lifehacker.com/stop-refrigerating-your-watermelon-1848900347)
+- [Dev.to/JS] [Pigshell - Pixel Image Filter](https://dev.to/thevinitgupta/pigshell-pixel-image-filter-4277)
 - [Lifehacker] [Which Airlines Offer Free Wifi or Free Messaging &lpar;and Which Ones Make You Pay&rpar;](https://lifehacker.com/which-airlines-offer-free-wifi-or-free-messaging-and-w-1848899990)
 - [Dev.to/JS] [How do colors plays important role in UI/UX development?](https://dev.to/miketech_13/how-do-colors-plays-important-role-in-uiux-development-llc)
+- [Dev.to/JS] [How 2 Quickly Create a Lightbox Photo Gallery in Your Bootstrap 5 Site](https://dev.to/sieis/how-2-quickly-create-a-lightbox-photo-gallery-in-your-bootstrap-5-site-4b2m)
 - [Dev.to/JS] [The paired hook pattern](https://dev.to/vangware/the-paired-hook-pattern-4mo0)
 - [Dev.to/JS] [114. Flatten Binary Tree to Linked List 🚀](https://dev.to/samuelhinchliffe/114-flatten-binary-tree-to-linked-list-41d0)
 - [Dev.to/JS] [JavaScript getters and setters](https://dev.to/amitavmishra99/javascript-getters-and-setters-2ldk)
@@ -35,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NFT Components](https://dev.to/kumard3/nft-components-3h7d)
 - [Lifehacker] [Three Free Ways to Boost Your Wifi Signal](https://lifehacker.com/three-free-ways-to-boost-your-wifi-signal-1848900141)
 - [Dev.to/JS] [Services in Angular12](https://dev.to/deepachaurasia1/services-in-angular12-3f6n)
-- [Dev.to/JS] [Simple weather API Project Javascript | Weather App Javascript](https://dev.to/codewith_random/simple-weather-api-project-javascript-weather-app-javascript-ac4)
-- [Dev.to/JS] [Simple Footer Using HTML and CSS | Responsive Footer Html CSS](https://dev.to/codewith_random/simple-footer-using-html-and-css-responsive-footer-html-css-3o49)
 - [Lifehacker] [How to Spot an Explosive Phone Battery &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-an-explosive-phone-battery-and-what-to-do-1848899784)
-- [Dev.to/JS] [Phase 2 of Flatiron](https://dev.to/jss475/phase-2-of-flatiron-4dkm)
 - [Lifehacker] [How to Delete Your Autofill Passwords in Chrome &lpar;and Move to Something More Secure&rpar;](https://lifehacker.com/how-to-delete-your-autofill-passwords-in-chrome-and-mo-1848897217)
 - [Lifehacker] [You Can Now Get a Bunch of Pokémon Games for Way Less Money](https://lifehacker.com/you-can-now-get-a-bunch-of-pokemon-games-for-way-less-m-1848899521)
 - [Lifehacker] [7 Things Science Actually Hasn&#39;t Proven Are Healthy or Unhealthy](https://lifehacker.com/7-things-science-actually-hasnt-proven-are-healthy-or-u-1848893489)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Free Online Tools to Map Your Own Bike Routes](https://lifehacker.com/the-best-free-online-tools-to-map-your-own-bike-routes-1848892049)
 - [Lifehacker] [5 New Shows to Watch in May](https://lifehacker.com/5-new-shows-to-watch-in-may-1848892576)
 - [Lifehacker] [Three Good Reasons to Update WhatsApp Right Now](https://lifehacker.com/three-good-reasons-to-update-whatsapp-right-now-1848891855)
-- [Lifehacker] [What Are Relationship ‘Pink Flags’ &lpar;and What Can You Do About Them&rpar;?](https://lifehacker.com/what-are-relationship-pink-flags-and-what-can-you-do-1848891493)
-- [Lifehacker] [You Need to Move Your Bethesda Launcher Games and Save Data to Steam](https://lifehacker.com/you-need-to-move-your-bethesda-launcher-games-and-save-1848887077)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
