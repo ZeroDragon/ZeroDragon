@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Oddly Conventional](https://dev.to/benlimpic/oddly-conventional-5e41)
+- [Dev.to/JS] [Array.shift&lpar;&rpar; - for shifting the first item in an array](https://dev.to/dillionmegida/arrayshift-for-shifting-the-first-item-in-an-array-3lka)
+- [Dev.to/JS] [Array.pop&lpar;&rpar; - for popping the last item of an array](https://dev.to/dillionmegida/arraypop-for-popping-the-last-item-of-an-array-5025)
+- [Dev.to/JS] [Create the fastest search for your website in minutes, without any dependencies ⚡🔎](https://dev.to/dhravya/create-the-fastest-search-for-your-website-in-minutes-without-any-dependencies-56me)
 - [Dev.to/JS] [Destructuring in JavaScript. What is it? How does it work? Why should you use it?](https://dev.to/focusinsky/destructuring-in-javascript-what-is-it-how-does-it-work-why-should-you-use-it-3oon)
 - [Dev.to/JS] [https://www.facebook.com/TitanXLPills](https://dev.to/rtitanxl/httpswwwfacebookcomtitanxlpills-46l1)
 - [Dev.to/JS] [Asynchronous JavaScript Course &lpar;Async/Await, Promises, Callbacks&rpar;](https://dev.to/wenura/asynchronous-javascript-course-asyncawait-promises-callbacks-2nof)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The &quot;mangabank.org&quot; has disappeared.](https://dev.to/dauuricus/the-mangabankorg-has-disappeared-b68)
 - [Dev.to/JS] [day 3/100 days of code i forgot](https://dev.to/themmako/day-3100-days-of-code-i-forgot-hk)
 - [Dev.to/JS] [Javascript is still free, so study it and earn money](https://dev.to/krishnaagarwal/javascript-is-still-free-so-study-it-and-earn-money-5ed7)
-- [Dev.to/JS] [Learn JavaScript. Thank me later.](https://dev.to/krishnaagarwal/learn-javascriptthank-me-later-2nei)
-- [Dev.to/JS] [Static Typing VS Dynamic Typing: The Difference Explained](https://dev.to/arjunms/static-typing-vs-dynamic-typing-the-difference-explained-4n39)
-- [Dev.to/JS] [How to Upload and Preview Image in React [DETAIL COURSE]](https://dev.to/codecoursessite/how-to-upload-and-preview-image-in-react-detail-course-3b0j)
-- [Dev.to/JS] [Everything or Enough !!](https://dev.to/think__n_encode_/everything-or-enough--375d)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
