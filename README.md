@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Firebase Miniseries 1: Auth](https://dev.to/theeasydev/firebase-miniseries-1-auth-2fbl)
+- [Dev.to/JS] [How to get user IP address, location, and device info using JavaScript in browser](https://dev.to/chaoming/how-to-get-user-ip-address-location-and-device-info-using-javascript-in-browser-1bok)
 - [Dev.to/JS] [I know why you don&#39;t use Typescript](https://dev.to/mmatheuspalma/i-know-why-you-dont-use-typescript-45in)
 - [Dev.to/JS] [JavaScript - Set](https://dev.to/justtanwa/javascript-set-4mbf)
 - [Dev.to/JS] [How to integrate YouTrack and Azure DevOps](https://dev.to/darkym/how-to-integrate-youtrack-and-azure-devops-5hcj)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Navigating the JavaScript Event Object](https://dev.to/williamluck/navigating-the-javascript-event-object-2po8)
 - [Dev.to/JS] [Need of package.lock.json ?and npm clean install](https://dev.to/tarunsankhla/need-of-packagelockjson-and-npm-clean-install-3alk)
 - [Lifehacker] [Ten Websites Where You Can Find Free Stuff](https://lifehacker.com/ten-websites-where-you-can-find-free-stuff-1848905689)
-- [Dev.to/JS] [Multiplayer Logo Quiz? 😳](https://dev.to/anshsaini/multiplayer-logo-quiz-16hn)
-- [Dev.to/JS] [Introducing ts-jackson, a typescript library to deserialize/serialize deeply nested json structures.](https://dev.to/eljoy/introducing-ts-jackson-a-typescript-library-to-deserializeserialize-deeply-nested-json-structures-1o1)
 - [Lifehacker] [Don&#39;t Eat This &#39;Ready-to-Eat&#39; Chicken, USDA Says](https://lifehacker.com/dont-eat-this-ready-to-eat-chicken-usda-says-1848905229)
 - [Lifehacker] [How to Parent With Depression](https://lifehacker.com/how-to-parent-with-depression-1848892904)
 - [Lifehacker] [How to Get Cell Phone Insurance for Free](https://lifehacker.com/how-to-get-cell-phone-insurance-for-free-1848897040)
