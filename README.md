@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Aprendendo JS no Android](https://dev.to/hnrq-br/aprendendo-js-no-android-1bdl)
+- [Dev.to/JS] [Learning JS on Android](https://dev.to/hnrq/learning-js-on-android-58eg)
+- [Dev.to/JS] [Amplication &amp; Angular: Create the App](https://dev.to/amplication/amplication-angular-create-the-app-4dl2)
 - [Dev.to/JS] [How I made Telegram to Notion Bot](https://dev.to/franpcode/how-i-made-telegram-to-notion-bot-c2o)
 - [Dev.to/JS] [Nx NestJs - Typeorm database connection with environment variables](https://dev.to/ipreda/nx-nestjs-typeorm-database-connection-with-environment-variables-1na6)
 - [Dev.to/JS] [Is web penetration testing worth it?](https://dev.to/intesar/is-web-penetration-testing-worth-it-nmh)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which Frontend Javascript Framework/library is the Best?](https://dev.to/mojodev/which-frontend-javascript-frameworklibrary-is-the-best-3ddi)
 - [Dev.to/JS] [A New Speed testing extension came to chrome.](https://dev.to/junaid_dev/a-new-speed-testing-extension-came-to-chrome-2dej)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
-- [Dev.to/JS] [Generate TypeScript Declaration Files for JavaScript Files](https://dev.to/hkamran/generate-typescript-declaration-files-for-javascript-files-1dij)
 - [Lifehacker] [Stop Refrigerating Your Watermelon](https://lifehacker.com/stop-refrigerating-your-watermelon-1848900347)
-- [Dev.to/JS] [Pigshell - Pixel Image Filter](https://dev.to/thevinitgupta/pigshell-pixel-image-filter-4277)
 - [Lifehacker] [Which Airlines Offer Free Wifi or Free Messaging &lpar;and Which Ones Make You Pay&rpar;](https://lifehacker.com/which-airlines-offer-free-wifi-or-free-messaging-and-w-1848899990)
-- [Dev.to/JS] [How do colors plays important role in UI/UX development?](https://dev.to/miketech_13/how-do-colors-plays-important-role-in-uiux-development-llc)
 - [Lifehacker] [Don’t Buy the Wrong Vacuum for Your Home](https://lifehacker.com/don-t-buy-the-wrong-vacuum-for-your-home-1848899622)
 - [Lifehacker] [Three Free Ways to Boost Your Wifi Signal](https://lifehacker.com/three-free-ways-to-boost-your-wifi-signal-1848900141)
 - [Lifehacker] [How to Spot an Explosive Phone Battery &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-spot-an-explosive-phone-battery-and-what-to-do-1848899784)
