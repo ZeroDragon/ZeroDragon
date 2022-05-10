@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everything or Enough !!](https://dev.to/think__n_encode_/everything-or-enough--375d)
+- [Dev.to/JS] [Strings acting as Arrays](https://dev.to/issaclewkowicz/strings-acting-as-arrays-27c1)
+- [Dev.to/JS] [#08: Build a Blog - With Astro!](https://dev.to/azure/08-build-a-blog-with-astro-1lb2)
 - [Dev.to/JS] [Finalmente consegui a primeira vaga!](https://dev.to/fabiodeandrade/finalmente-consegui-a-primeira-vaga-4240)
 - [Dev.to/JS] [How to Implement Redux Reducers for React](https://dev.to/asayerio_techblog/how-to-implement-redux-reducers-for-react-5fak)
 - [Dev.to/JS] [Doesn&#39;t work refresh page on react app](https://dev.to/blkdot/doesnt-work-refresh-page-on-react-app-1j72)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning JS on Android](https://dev.to/hnrq/learning-js-on-android-58eg)
 - [Dev.to/JS] [Amplication &amp; Angular: Create the App](https://dev.to/amplication/amplication-angular-create-the-app-4dl2)
 - [Dev.to/JS] [How I made Telegram to Notion Bot](https://dev.to/franpcode/how-i-made-telegram-to-notion-bot-c2o)
-- [Dev.to/JS] [Nx NestJs - Typeorm database connection with environment variables](https://dev.to/ipreda/nx-nestjs-typeorm-database-connection-with-environment-variables-1na6)
-- [Dev.to/JS] [Is web penetration testing worth it?](https://dev.to/intesar/is-web-penetration-testing-worth-it-nmh)
-- [Dev.to/JS] [Ng-News: Episode 22/18](https://dev.to/rainerhahnekamp/ng-news-episode-2218-586h)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
