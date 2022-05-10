@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Finalmente consegui a primeira vaga!](https://dev.to/fabiodeandrade/finalmente-consegui-a-primeira-vaga-4240)
+- [Dev.to/JS] [How to Implement Redux Reducers for React](https://dev.to/asayerio_techblog/how-to-implement-redux-reducers-for-react-5fak)
+- [Dev.to/JS] [Doesn&#39;t work refresh page on react app](https://dev.to/blkdot/doesnt-work-refresh-page-on-react-app-1j72)
+- [Dev.to/JS] [Do you want to use PyScript?](https://dev.to/jmau111/do-you-want-to-use-pyscript-4f6k)
+- [Dev.to/JS] [ReactJS Hook Series - useState&lpar;&rpar;](https://dev.to/mertcannkocerr/reactjs-hook-series-usestate-4acc)
 - [Dev.to/JS] [Aprendendo JS no Android](https://dev.to/hnrq-br/aprendendo-js-no-android-1bdl)
 - [Dev.to/JS] [Learning JS on Android](https://dev.to/hnrq/learning-js-on-android-58eg)
 - [Dev.to/JS] [Amplication &amp; Angular: Create the App](https://dev.to/amplication/amplication-angular-create-the-app-4dl2)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nx NestJs - Typeorm database connection with environment variables](https://dev.to/ipreda/nx-nestjs-typeorm-database-connection-with-environment-variables-1na6)
 - [Dev.to/JS] [Is web penetration testing worth it?](https://dev.to/intesar/is-web-penetration-testing-worth-it-nmh)
 - [Dev.to/JS] [Ng-News: Episode 22/18](https://dev.to/rainerhahnekamp/ng-news-episode-2218-586h)
-- [Dev.to/JS] [Build an inventory management app with Azure Static Web Apps with + React, part 1](https://dev.to/azure/build-an-inventory-management-app-with-azure-static-web-apps-with-react-part-1-2l2e)
-- [Dev.to/JS] [Converting your vanilla Javascript app to TypeScript](https://dev.to/useanvil/converting-your-vanilla-javascript-app-to-typescript-1bki)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
-- [Dev.to/JS] [DTOs In Javascript](https://dev.to/tareksalem/dtos-in-javascript-118p)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
-- [Dev.to/JS] [Which Frontend Javascript Framework/library is the Best?](https://dev.to/mojodev/which-frontend-javascript-frameworklibrary-is-the-best-3ddi)
-- [Dev.to/JS] [A New Speed testing extension came to chrome.](https://dev.to/junaid_dev/a-new-speed-testing-extension-came-to-chrome-2dej)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
 - [Lifehacker] [Stop Refrigerating Your Watermelon](https://lifehacker.com/stop-refrigerating-your-watermelon-1848900347)
 - [Lifehacker] [Which Airlines Offer Free Wifi or Free Messaging &lpar;and Which Ones Make You Pay&rpar;](https://lifehacker.com/which-airlines-offer-free-wifi-or-free-messaging-and-w-1848899990)
