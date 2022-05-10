@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Static Typing VS Dynamic Typing: The Difference Explained](https://dev.to/arjunms/static-typing-vs-dynamic-typing-the-difference-explained-4n39)
+- [Dev.to/JS] [How to Upload and Preview Image in React [DETAIL COURSE]](https://dev.to/codecoursessite/how-to-upload-and-preview-image-in-react-detail-course-3b0j)
 - [Dev.to/JS] [Everything or Enough !!](https://dev.to/think__n_encode_/everything-or-enough--375d)
 - [Dev.to/JS] [Strings acting as Arrays](https://dev.to/issaclewkowicz/strings-acting-as-arrays-27c1)
 - [Dev.to/JS] [#08: Build a Blog - With Astro!](https://dev.to/azure/08-build-a-blog-with-astro-1lb2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ReactJS Hook Series - useState&lpar;&rpar;](https://dev.to/mertcannkocerr/reactjs-hook-series-usestate-4acc)
 - [Dev.to/JS] [Aprendendo JS no Android](https://dev.to/hnrq-br/aprendendo-js-no-android-1bdl)
 - [Dev.to/JS] [Learning JS on Android](https://dev.to/hnrq/learning-js-on-android-58eg)
-- [Dev.to/JS] [Amplication &amp; Angular: Create the App](https://dev.to/amplication/amplication-angular-create-the-app-4dl2)
-- [Dev.to/JS] [How I made Telegram to Notion Bot](https://dev.to/franpcode/how-i-made-telegram-to-notion-bot-c2o)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
