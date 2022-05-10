@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [There&#39;s No Such Thing As a &#39;Clean&#39; Toothbrush](https://lifehacker.com/theres-no-such-thing-as-a-clean-toothbrush-1848901927)
+- [Dev.to/JS] [How to rank the search results in Typesense?](https://dev.to/aviyel/how-to-rank-the-search-results-in-typesense-26h6)
+- [Dev.to/JS] [Dependency arrays trong React?](https://dev.to/buiminh15/dependency-arrays-trong-react-1b3i)
+- [Lifehacker] [How Young Is Too Young to Run a Marathon?](https://lifehacker.com/how-young-is-too-young-to-run-a-marathon-1848901266)
+- [Dev.to/JS] [useReducer Hook in React](https://dev.to/vanshsh/usereducer-hook-in-react-5h5h)
 - [Dev.to/JS] [JavaScript - Set](https://dev.to/lechangzhang/javascript-set-38go)
 - [Dev.to/JS] [JavaScript - Object](https://dev.to/lechangzhang/javascript-object-emj)
 - [Lifehacker] [How to Preserve Your Digital Legacy &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-preserve-your-digital-legacy-and-why-you-should-1848900489)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s Learn](https://dev.to/edehemma09/lets-learn-2n0)
 - [Lifehacker] [Stop Using Dish Soap on Your Wine Glasses](https://lifehacker.com/stop-using-dish-soap-on-your-wine-glasses-1848901553)
 - [Dev.to/JS] [Renaming Imports to Avoid Naming Collisions](https://dev.to/gabrieliuspocevicius/renaming-imports-to-avoid-naming-collisions-2kc3)
-- [Dev.to/JS] [How to Build Counter App in React [DETAIL COURSE]](https://dev.to/codecoursessite/how-to-build-counter-app-with-react-detail-course-fkp)
-- [Dev.to/JS] [Best ChannelAdvisor Alternative](https://dev.to/ashutoshsonker786/best-channeladvisor-alternative-m60)
-- [Dev.to/JS] [Easily Create a Fillable Form Using JavaScript Word Processor](https://dev.to/syncfusion/easily-create-a-fillable-form-using-javascript-word-processor-2fno)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
 - [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
-- [Lifehacker] [How to Make Your Ground-Floor Apartment More Private and Secure](https://lifehacker.com/how-to-make-your-ground-floor-apartment-more-private-an-1848880558)
-- [Lifehacker] [Why You Should Participate in ‘No Mow May’](https://lifehacker.com/why-you-should-participate-in-no-mow-may-1848880512)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
