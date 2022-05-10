@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React key attribute: best practices for performant lists](https://dev.to/adevnadia/react-key-attribute-best-practices-for-performant-lists-2djc)
+- [Lifehacker] [How to Avoid a Last-Minute Extra Baggage Fee at the Airport](https://lifehacker.com/how-to-avoid-a-last-minute-extra-baggage-fee-at-the-air-1848901536)
+- [Dev.to/JS] [Day-84 Training At Ryaz](https://dev.to/mahin651/day-82-training-at-ryaz-2i9p)
+- [Lifehacker] [How to Watch Google I/O 2022 &lpar;and What to Expect&rpar;](https://lifehacker.com/how-to-watch-google-i-o-2022-and-what-to-expect-1848905197)
+- [Dev.to/JS] [How to Use Environment Variables in React [DETAIL COURSE]](https://dev.to/codecoursessite/how-to-use-environment-variables-in-react-detail-course-3ig0)
+- [Dev.to/JS] [React Batching and how it can make your page faster](https://dev.to/aryclenio/react-batching-and-how-it-can-make-your-page-faster-1e2k)
+- [Dev.to/JS] [The Easiest and Hardest Programming Languages to Learn](https://dev.to/techreviewer_co/the-easiest-and-hardest-programming-languages-to-learn-2nja)
+- [Dev.to/JS] [3 Practical Use Cases for Vercel Edge Functions](https://dev.to/thetombomb/3-practical-use-cases-for-vercel-edge-functions-b5p)
 - [Lifehacker] [How to Grow an Edible Flower Garden](https://lifehacker.com/how-to-grow-an-edible-flower-garden-1848903798)
 - [Dev.to/JS] [React and React Native for Web are not the same!](https://dev.to/chad_r_stewart/react-and-react-native-for-web-are-not-the-same-574k)
 - [Dev.to/JS] [How to send emails from Node.js with SendInBlue](https://dev.to/thatanjan/how-to-send-emails-from-nodejs-with-sendinblue-3adc)
@@ -31,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common JavaScript interview questions](https://dev.to/charlesceejay5/common-javascript-interview-questions-248d)
 - [Dev.to/JS] [Javascript](https://dev.to/ebyjoan/javascript-2md7)
 - [Dev.to/JS] [What is React ? Why React ?](https://dev.to/ark2002/what-is-react-why-react--9pg)
-- [Dev.to/JS] [Previous and Next Post using Next.js](https://dev.to/psypher1/previous-and-next-post-using-nextjs-51md)
-- [Dev.to/JS] [Prototype and Prototypical Inheritance](https://dev.to/tarunsankhla/prototype-and-prototypical-inheritance-2p3n)
-- [Dev.to/JS] [The denotational semantics of server-side rendering](https://dev.to/mikesol/the-denotational-semantics-of-server-side-rendering-5g53)
-- [Dev.to/JS] [Animation with react-native-reanimated](https://dev.to/devmarcos24/animation-with-react-native-reanimated-1ddc)
 - [Lifehacker] [The 7 Deadly Sins of Online Dating](https://lifehacker.com/the-7-deadly-sins-of-online-dating-1848902317)
-- [Dev.to/JS] [Animação com react-native-reanimated](https://dev.to/devmarcos24/animation-with-react-native-reanimated-49m6)
-- [Dev.to/JS] [Copy to Clipboard - Clipboard.js](https://dev.to/foxinfotech/copy-to-clipboard-clipboardjs-k6o)
 - [Lifehacker] [Unexpected Things You Can Buy With ‘Food Stamps’](https://lifehacker.com/unexpected-things-you-can-buy-with-food-stamps-1848901836)
 - [Lifehacker] [There&#39;s No Such Thing As a &#39;Clean&#39; Toothbrush](https://lifehacker.com/theres-no-such-thing-as-a-clean-toothbrush-1848901927)
 - [Lifehacker] [How Young Is Too Young to Run a Marathon?](https://lifehacker.com/how-young-is-too-young-to-run-a-marathon-1848901266)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1848893119)
 - [Lifehacker] [How to Know If Your Symptoms Are Bad Enough to See an Allergist](https://lifehacker.com/how-to-know-if-your-symptoms-are-bad-enough-to-see-an-a-1848893822)
 - [Lifehacker] [10 Surprising Ways to Use Windex Around Your Home](https://lifehacker.com/10-surprising-ways-to-use-windex-around-your-home-1848890775)
-- [Lifehacker] [Does Sex Position Matter When You&#39;re Trying to Get Pregnant?](https://lifehacker.com/does-sex-position-matter-when-youre-trying-to-get-pregn-1848839836)
-- [Lifehacker] [Use This Shortcut to Expel Water From Your iPhone](https://lifehacker.com/use-this-shortcut-to-expel-water-from-your-iphone-1848897129)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
