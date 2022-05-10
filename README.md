@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tangled with front-end state management? Use the store!!!](https://dev.to/parthmakawana/tangled-with-front-end-state-management-use-the-store-4974)
+- [Dev.to/JS] [Khi nào dùng useMemo và useCallback - Phần 3](https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-3-475o)
+- [Dev.to/JS] [Create button with hover effect like microsoft in HTML, CSS, and Javascript](https://dev.to/incoderweb/create-button-with-hover-effect-like-microsoft-in-html-css-and-javascript-1gbl)
+- [Dev.to/JS] [Tell me a stupid app idea and I&#39;ll make it](https://dev.to/virejdasani/tell-me-a-stupid-app-idea-and-ill-make-it-1a9f)
+- [Dev.to/JS] [Docker with MongoDb](https://dev.to/drsimplegraffiti/docker-with-mongodb-57g8)
 - [Dev.to/JS] [Top 13 Mistakes Committed By Angular JavaScript Developers](https://dev.to/lambdatest/top-13-mistakes-committed-by-angular-javascript-developers-375a)
 - [Dev.to/JS] [Best Online Converter Tools You Need for Your Next Project](https://dev.to/foxinfotech/best-online-converter-tools-you-need-for-your-next-project-50c3)
 - [Dev.to/JS] [Vue 2 Spa Routing, Back buttons](https://dev.to/neophen/vue-2-spa-routing-back-buttons-2g57)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array.shift&lpar;&rpar; - for shifting the first item in an array](https://dev.to/dillionmegida/arrayshift-for-shifting-the-first-item-in-an-array-3lka)
 - [Dev.to/JS] [Array.pop&lpar;&rpar; - for popping the last item of an array](https://dev.to/dillionmegida/arraypop-for-popping-the-last-item-of-an-array-5025)
 - [Dev.to/JS] [Create the fastest search for your website in minutes, without any dependencies ⚡🔎](https://dev.to/dhravya/create-the-fastest-search-for-your-website-in-minutes-without-any-dependencies-56me)
-- [Dev.to/JS] [Destructuring in JavaScript. What is it? How does it work? Why should you use it?](https://dev.to/focusinsky/destructuring-in-javascript-what-is-it-how-does-it-work-why-should-you-use-it-3oon)
-- [Dev.to/JS] [https://www.facebook.com/TitanXLPills](https://dev.to/rtitanxl/httpswwwfacebookcomtitanxlpills-46l1)
-- [Dev.to/JS] [Asynchronous JavaScript Course &lpar;Async/Await, Promises, Callbacks&rpar;](https://dev.to/wenura/asynchronous-javascript-course-asyncawait-promises-callbacks-2nof)
-- [Dev.to/JS] [React Node.js Booking App Full Tutorial | MERN Stack Reservation App &lpar;JWT, Cookies, Context API&rpar;](https://dev.to/wenura/react-nodejs-booking-app-full-tutorial-mern-stack-reservation-app-jwt-cookies-context-api-314e)
-- [Dev.to/JS] [Thoughts on our first production hasura deployment](https://dev.to/simonhorlick/thoughts-on-our-first-production-hasura-deployment-4i2g)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
