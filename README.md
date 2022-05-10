@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Parent With Depression](https://lifehacker.com/how-to-parent-with-depression-1848892904)
+- [Dev.to/JS] [Animating in React &lpar;The Many Ways!&rpar;](https://dev.to/israelmitolu/animating-in-react-the-many-ways-gm5)
+- [Dev.to/JS] [Full Duplex Communication Between Web App and Desktop Application Using WebSocket](https://dev.to/mark0960/full-duplex-communication-between-web-app-and-desktop-application-using-websocket-51gd)
+- [Dev.to/JS] [App progress - Day 2](https://dev.to/advikguptadev/app-progress-day-2-2d97)
+- [Dev.to/JS] [What is Event Loop?](https://dev.to/prakashsakari/what-is-event-loop-3hdo)
+- [Dev.to/JS] [Dynamically Create Canister Smart Contracts In Motoko](https://dev.to/daviddalbusco/dynamically-create-canister-smart-contracts-in-motoko-1a18)
+- [Dev.to/JS] [A Todo App With PyScript](https://dev.to/bascodes/a-todo-app-with-pyscript-3435)
 - [Dev.to/JS] [React key attribute: best practices for performant lists](https://dev.to/adevnadia/react-key-attribute-best-practices-for-performant-lists-2djc)
 - [Lifehacker] [How to Avoid a Last-Minute Extra Baggage Fee at the Airport](https://lifehacker.com/how-to-avoid-a-last-minute-extra-baggage-fee-at-the-air-1848901536)
 - [Dev.to/JS] [Day-84 Training At Ryaz](https://dev.to/mahin651/day-82-training-at-ryaz-2i9p)
@@ -32,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Easiest and Hardest Programming Languages to Learn](https://dev.to/techreviewer_co/the-easiest-and-hardest-programming-languages-to-learn-2nja)
 - [Dev.to/JS] [3 Practical Use Cases for Vercel Edge Functions](https://dev.to/thetombomb/3-practical-use-cases-for-vercel-edge-functions-b5p)
 - [Lifehacker] [How to Grow an Edible Flower Garden](https://lifehacker.com/how-to-grow-an-edible-flower-garden-1848903798)
-- [Dev.to/JS] [React and React Native for Web are not the same!](https://dev.to/chad_r_stewart/react-and-react-native-for-web-are-not-the-same-574k)
-- [Dev.to/JS] [How to send emails from Node.js with SendInBlue](https://dev.to/thatanjan/how-to-send-emails-from-nodejs-with-sendinblue-3adc)
-- [Dev.to/JS] [Weather app built with Svelte on Vite](https://dev.to/alimansoorcreate/weather-app-built-with-sveltets-2mjl)
 - [Lifehacker] [What You Can Buy With Just One Single Bitcoin](https://lifehacker.com/what-you-can-buy-with-just-one-single-bitcoin-1848903827)
-- [Dev.to/JS] [Common JavaScript interview questions](https://dev.to/charlesceejay5/common-javascript-interview-questions-248d)
-- [Dev.to/JS] [Javascript](https://dev.to/ebyjoan/javascript-2md7)
-- [Dev.to/JS] [What is React ? Why React ?](https://dev.to/ark2002/what-is-react-why-react--9pg)
 - [Lifehacker] [The 7 Deadly Sins of Online Dating](https://lifehacker.com/the-7-deadly-sins-of-online-dating-1848902317)
 - [Lifehacker] [Unexpected Things You Can Buy With ‘Food Stamps’](https://lifehacker.com/unexpected-things-you-can-buy-with-food-stamps-1848901836)
 - [Lifehacker] [There&#39;s No Such Thing As a &#39;Clean&#39; Toothbrush](https://lifehacker.com/theres-no-such-thing-as-a-clean-toothbrush-1848901927)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Things Science Actually Hasn&#39;t Proven Are Healthy or Unhealthy](https://lifehacker.com/7-things-science-actually-hasnt-proven-are-healthy-or-u-1848893489)
 - [Lifehacker] [How to Stop Yourself From Throwing Up](https://lifehacker.com/how-to-stop-yourself-from-throwing-up-1848893119)
 - [Lifehacker] [How to Know If Your Symptoms Are Bad Enough to See an Allergist](https://lifehacker.com/how-to-know-if-your-symptoms-are-bad-enough-to-see-an-a-1848893822)
-- [Lifehacker] [10 Surprising Ways to Use Windex Around Your Home](https://lifehacker.com/10-surprising-ways-to-use-windex-around-your-home-1848890775)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
