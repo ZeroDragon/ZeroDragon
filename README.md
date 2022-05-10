@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animação com react-native-reanimated](https://dev.to/devmarcos24/animation-with-react-native-reanimated-49m6)
+- [Dev.to/JS] [Copy to Clipboard - Clipboard.js](https://dev.to/foxinfotech/copy-to-clipboard-clipboardjs-k6o)
+- [Dev.to/JS] [Fetch All Countries in a React.js App in any Language](https://dev.to/hackmamba/fetch-all-countries-in-a-reactjs-app-in-any-language-4f17)
+- [Lifehacker] [Unexpected Things You Can Buy With ‘Food Stamps’](https://lifehacker.com/unexpected-things-you-can-buy-with-food-stamps-1848901836)
+- [Dev.to/JS] [Paracetamol.js💊| #113: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-113-explica-este-codigo-javascript-4l4b)
 - [Lifehacker] [There&#39;s No Such Thing As a &#39;Clean&#39; Toothbrush](https://lifehacker.com/theres-no-such-thing-as-a-clean-toothbrush-1848901927)
 - [Dev.to/JS] [How to rank the search results in Typesense?](https://dev.to/aviyel/how-to-rank-the-search-results-in-typesense-26h6)
 - [Dev.to/JS] [Dependency arrays trong React?](https://dev.to/buiminh15/dependency-arrays-trong-react-1b3i)
@@ -35,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make and Freeze a Whole Bunch of Caramelized Onions](https://lifehacker.com/you-should-make-and-freeze-a-whole-bunch-of-caramelized-1848901284)
 - [Dev.to/JS] [Common JavaScript Questions and Answers.](https://dev.to/vhinwe/common-javascript-questions-and-answers-3o7d)
 - [Dev.to/JS] [How to Upload and Preview Image in React [DETAIL COURSE]](https://dev.to/codecoursessite/how-to-upload-and-preview-image-in-react-detail-course-4e83)
-- [Dev.to/JS] [JavaScript Assginment](https://dev.to/melodymimi/javascript-assginment-4ilm)
-- [Dev.to/JS] [JAVASCRIPT QUESTIONS AND ANSWER](https://dev.to/chibuzodaniel/javascript-questions-and-answer-l0l)
-- [Dev.to/JS] [Let&#39;s Learn](https://dev.to/edehemma09/lets-learn-2n0)
 - [Lifehacker] [Stop Using Dish Soap on Your Wine Glasses](https://lifehacker.com/stop-using-dish-soap-on-your-wine-glasses-1848901553)
-- [Dev.to/JS] [Renaming Imports to Avoid Naming Collisions](https://dev.to/gabrieliuspocevicius/renaming-imports-to-avoid-naming-collisions-2kc3)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Lifehacker] [You Can Design Your Own ‘Official’ Emoji](https://lifehacker.com/you-can-design-your-own-official-emoji-1848880624)
 - [Lifehacker] [How to Compost Weeds Without Actually Planting Them](https://lifehacker.com/how-to-compost-weeds-without-actually-planting-them-1848880652)
-- [Lifehacker] [Why These Are the Most Freelancer-Friendly Cities in the U.S.](https://lifehacker.com/why-these-are-the-most-freelancer-friendly-cities-in-th-1848880660)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
 
