@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I know why you don&#39;t use Typescript](https://dev.to/mmatheuspalma/i-know-why-you-dont-use-typescript-45in)
+- [Dev.to/JS] [JavaScript - Set](https://dev.to/justtanwa/javascript-set-4mbf)
+- [Dev.to/JS] [How to integrate YouTrack and Azure DevOps](https://dev.to/darkym/how-to-integrate-youtrack-and-azure-devops-5hcj)
+- [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
+- [Dev.to/JS] [Consuming Restful Apis in reactjs](https://dev.to/marrie/consuming-restful-apis-in-reactjs-360p)
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Dev.to/JS] [#09: Manage Inventory - With React](https://dev.to/azure/09-manage-inventory-with-react-39lc)
 - [Dev.to/JS] [Figma + FireJet + Fathym = F-yeah!](https://dev.to/richkurtzman/figma-firejet-fathym-f-yeah-401)
@@ -35,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ten Websites Where You Can Find Free Stuff](https://lifehacker.com/ten-websites-where-you-can-find-free-stuff-1848905689)
 - [Dev.to/JS] [Multiplayer Logo Quiz? 😳](https://dev.to/anshsaini/multiplayer-logo-quiz-16hn)
 - [Dev.to/JS] [Introducing ts-jackson, a typescript library to deserialize/serialize deeply nested json structures.](https://dev.to/eljoy/introducing-ts-jackson-a-typescript-library-to-deserializeserialize-deeply-nested-json-structures-1o1)
-- [Dev.to/JS] [Asynchronous vs Synchronous Callbacks in JS](https://dev.to/melguachun/asynchronous-vs-synchronous-callbacks-in-js-hif)
 - [Lifehacker] [Don&#39;t Eat This &#39;Ready-to-Eat&#39; Chicken, USDA Says](https://lifehacker.com/dont-eat-this-ready-to-eat-chicken-usda-says-1848905229)
-- [Dev.to/JS] [JavaScript Array and String common methods.](https://dev.to/yadabsd/javascript-array-and-string-common-methods-1oo0)
-- [Dev.to/JS] [I created the first interplanetary exchange platform.](https://dev.to/simerca/i-created-the-first-interplanetary-exchange-platform-61d)
 - [Lifehacker] [How to Parent With Depression](https://lifehacker.com/how-to-parent-with-depression-1848892904)
-- [Dev.to/JS] [Animating in React &lpar;The Many Ways!&rpar;](https://dev.to/israelmitolu/animating-in-react-the-many-ways-gm5)
 - [Lifehacker] [How to Get Cell Phone Insurance for Free](https://lifehacker.com/how-to-get-cell-phone-insurance-for-free-1848897040)
 - [Lifehacker] [How to Avoid a Last-Minute Extra Baggage Fee at the Airport](https://lifehacker.com/how-to-avoid-a-last-minute-extra-baggage-fee-at-the-air-1848901536)
 - [Lifehacker] [How to Watch Google I/O 2022 &lpar;and What to Expect&rpar;](https://lifehacker.com/how-to-watch-google-i-o-2022-and-what-to-expect-1848905197)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Refrigerating Your Watermelon](https://lifehacker.com/stop-refrigerating-your-watermelon-1848900347)
 - [Lifehacker] [Which Airlines Offer Free Wifi or Free Messaging &lpar;and Which Ones Make You Pay&rpar;](https://lifehacker.com/which-airlines-offer-free-wifi-or-free-messaging-and-w-1848899990)
 - [Lifehacker] [Don’t Buy the Wrong Vacuum for Your Home](https://lifehacker.com/don-t-buy-the-wrong-vacuum-for-your-home-1848899622)
-- [Lifehacker] [Three Free Ways to Boost Your Wifi Signal](https://lifehacker.com/three-free-ways-to-boost-your-wifi-signal-1848900141)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
