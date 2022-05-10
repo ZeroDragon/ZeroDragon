@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The &quot;mangabank.org&quot; has disappeared.](https://dev.to/dauuricus/the-mangabankorg-has-disappeared-b68)
+- [Dev.to/JS] [day 3/100 days of code i forgot](https://dev.to/themmako/day-3100-days-of-code-i-forgot-hk)
+- [Dev.to/JS] [Javascript is still free, so study it and earn money](https://dev.to/krishnaagarwal/javascript-is-still-free-so-study-it-and-earn-money-5ed7)
+- [Dev.to/JS] [Learn JavaScript. Thank me later.](https://dev.to/krishnaagarwal/learn-javascriptthank-me-later-2nei)
 - [Dev.to/JS] [Static Typing VS Dynamic Typing: The Difference Explained](https://dev.to/arjunms/static-typing-vs-dynamic-typing-the-difference-explained-4n39)
 - [Dev.to/JS] [How to Upload and Preview Image in React [DETAIL COURSE]](https://dev.to/codecoursessite/how-to-upload-and-preview-image-in-react-detail-course-3b0j)
 - [Dev.to/JS] [Everything or Enough !!](https://dev.to/think__n_encode_/everything-or-enough--375d)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Finalmente consegui a primeira vaga!](https://dev.to/fabiodeandrade/finalmente-consegui-a-primeira-vaga-4240)
 - [Dev.to/JS] [How to Implement Redux Reducers for React](https://dev.to/asayerio_techblog/how-to-implement-redux-reducers-for-react-5fak)
 - [Dev.to/JS] [Doesn&#39;t work refresh page on react app](https://dev.to/blkdot/doesnt-work-refresh-page-on-react-app-1j72)
-- [Dev.to/JS] [Do you want to use PyScript?](https://dev.to/jmau111/do-you-want-to-use-pyscript-4f6k)
-- [Dev.to/JS] [ReactJS Hook Series - useState&lpar;&rpar;](https://dev.to/mertcannkocerr/reactjs-hook-series-usestate-4acc)
-- [Dev.to/JS] [Aprendendo JS no Android](https://dev.to/hnrq-br/aprendendo-js-no-android-1bdl)
-- [Dev.to/JS] [Learning JS on Android](https://dev.to/hnrq/learning-js-on-android-58eg)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
