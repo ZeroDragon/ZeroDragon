@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 13 Mistakes Committed By Angular JavaScript Developers](https://dev.to/lambdatest/top-13-mistakes-committed-by-angular-javascript-developers-375a)
+- [Dev.to/JS] [Best Online Converter Tools You Need for Your Next Project](https://dev.to/foxinfotech/best-online-converter-tools-you-need-for-your-next-project-50c3)
+- [Dev.to/JS] [Vue 2 Spa Routing, Back buttons](https://dev.to/neophen/vue-2-spa-routing-back-buttons-2g57)
 - [Dev.to/JS] [Oddly Conventional](https://dev.to/benlimpic/oddly-conventional-5e41)
 - [Dev.to/JS] [Array.shift&lpar;&rpar; - for shifting the first item in an array](https://dev.to/dillionmegida/arrayshift-for-shifting-the-first-item-in-an-array-3lka)
 - [Dev.to/JS] [Array.pop&lpar;&rpar; - for popping the last item of an array](https://dev.to/dillionmegida/arraypop-for-popping-the-last-item-of-an-array-5025)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Asynchronous JavaScript Course &lpar;Async/Await, Promises, Callbacks&rpar;](https://dev.to/wenura/asynchronous-javascript-course-asyncawait-promises-callbacks-2nof)
 - [Dev.to/JS] [React Node.js Booking App Full Tutorial | MERN Stack Reservation App &lpar;JWT, Cookies, Context API&rpar;](https://dev.to/wenura/react-nodejs-booking-app-full-tutorial-mern-stack-reservation-app-jwt-cookies-context-api-314e)
 - [Dev.to/JS] [Thoughts on our first production hasura deployment](https://dev.to/simonhorlick/thoughts-on-our-first-production-hasura-deployment-4i2g)
-- [Dev.to/JS] [The &quot;mangabank.org&quot; has disappeared.](https://dev.to/dauuricus/the-mangabankorg-has-disappeared-b68)
-- [Dev.to/JS] [day 3/100 days of code i forgot](https://dev.to/themmako/day-3100-days-of-code-i-forgot-hk)
-- [Dev.to/JS] [Javascript is still free, so study it and earn money](https://dev.to/krishnaagarwal/javascript-is-still-free-so-study-it-and-earn-money-5ed7)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
