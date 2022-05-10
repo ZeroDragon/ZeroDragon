@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Destructuring in JavaScript. What is it? How does it work? Why should you use it?](https://dev.to/focusinsky/destructuring-in-javascript-what-is-it-how-does-it-work-why-should-you-use-it-3oon)
+- [Dev.to/JS] [https://www.facebook.com/TitanXLPills](https://dev.to/rtitanxl/httpswwwfacebookcomtitanxlpills-46l1)
+- [Dev.to/JS] [Asynchronous JavaScript Course &lpar;Async/Await, Promises, Callbacks&rpar;](https://dev.to/wenura/asynchronous-javascript-course-asyncawait-promises-callbacks-2nof)
+- [Dev.to/JS] [React Node.js Booking App Full Tutorial | MERN Stack Reservation App &lpar;JWT, Cookies, Context API&rpar;](https://dev.to/wenura/react-nodejs-booking-app-full-tutorial-mern-stack-reservation-app-jwt-cookies-context-api-314e)
 - [Dev.to/JS] [Thoughts on our first production hasura deployment](https://dev.to/simonhorlick/thoughts-on-our-first-production-hasura-deployment-4i2g)
 - [Dev.to/JS] [The &quot;mangabank.org&quot; has disappeared.](https://dev.to/dauuricus/the-mangabankorg-has-disappeared-b68)
 - [Dev.to/JS] [day 3/100 days of code i forgot](https://dev.to/themmako/day-3100-days-of-code-i-forgot-hk)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Static Typing VS Dynamic Typing: The Difference Explained](https://dev.to/arjunms/static-typing-vs-dynamic-typing-the-difference-explained-4n39)
 - [Dev.to/JS] [How to Upload and Preview Image in React [DETAIL COURSE]](https://dev.to/codecoursessite/how-to-upload-and-preview-image-in-react-detail-course-3b0j)
 - [Dev.to/JS] [Everything or Enough !!](https://dev.to/think__n_encode_/everything-or-enough--375d)
-- [Dev.to/JS] [Strings acting as Arrays](https://dev.to/issaclewkowicz/strings-acting-as-arrays-27c1)
-- [Dev.to/JS] [#08: Build a Blog - With Astro!](https://dev.to/azure/08-build-a-blog-with-astro-1lb2)
-- [Dev.to/JS] [Finalmente consegui a primeira vaga!](https://dev.to/fabiodeandrade/finalmente-consegui-a-primeira-vaga-4240)
-- [Dev.to/JS] [How to Implement Redux Reducers for React](https://dev.to/asayerio_techblog/how-to-implement-redux-reducers-for-react-5fak)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
