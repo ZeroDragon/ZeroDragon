@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You don&#39;t need void 0](https://dev.to/p42/you-dont-need-void-0-663)
+- [Dev.to/JS] [The Complete Modern React Developer 2022](https://dev.to/andrewbaisden/the-complete-modern-react-developer-2022-3257)
 - [Dev.to/JS] [Tangled with front-end state management? Use the store!!!](https://dev.to/parthmakawana/tangled-with-front-end-state-management-use-the-store-4974)
 - [Dev.to/JS] [Khi nào dùng useMemo và useCallback - Phần 3](https://dev.to/buiminh15/khi-nao-dung-usememo-va-usecallback-phan-3-475o)
 - [Dev.to/JS] [Create button with hover effect like microsoft in HTML, CSS, and Javascript](https://dev.to/incoderweb/create-button-with-hover-effect-like-microsoft-in-html-css-and-javascript-1gbl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue 2 Spa Routing, Back buttons](https://dev.to/neophen/vue-2-spa-routing-back-buttons-2g57)
 - [Dev.to/JS] [Oddly Conventional](https://dev.to/benlimpic/oddly-conventional-5e41)
 - [Dev.to/JS] [Array.shift&lpar;&rpar; - for shifting the first item in an array](https://dev.to/dillionmegida/arrayshift-for-shifting-the-first-item-in-an-array-3lka)
-- [Dev.to/JS] [Array.pop&lpar;&rpar; - for popping the last item of an array](https://dev.to/dillionmegida/arraypop-for-popping-the-last-item-of-an-array-5025)
-- [Dev.to/JS] [Create the fastest search for your website in minutes, without any dependencies ⚡🔎](https://dev.to/dhravya/create-the-fastest-search-for-your-website-in-minutes-without-any-dependencies-56me)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
