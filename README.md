@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t parse CSVs by hand!](https://dev.to/mistval/dont-parse-csvs-by-hand-5944)
+- [Dev.to/JS] [What&#39;s the simplest way to compile ClojureScript to JS? Like 1 file, no overhead.](https://dev.to/bop/whats-the-simplest-to-compile-clojurescript-to-js-like-1-file-no-overhead-54md)
 - [Dev.to/JS] [Build an inventory management app with Azure Static Web Apps with + React, part 2](https://dev.to/azure/build-an-inventory-management-app-with-azure-static-web-apps-with-react-part-2-26jg)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
@@ -42,9 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use variables in your package.json](https://dev.to/tykok/use-variables-in-your-packagejson-331j)
 - [Lifehacker] [Five of Our Favorite Cult Classic Movies](https://lifehacker.com/five-of-our-favorite-cult-classic-movies-1848911286)
 - [Dev.to/JS] [Day-85 Training At Ryaz](https://dev.to/mahin651/day-82-training-at-ryaz-4kpp)
-- [Dev.to/JS] [PERSONALIZAR TU VISUAL STUDIO CODE](https://dev.to/cesaracjotamerma/personalizar-tu-visual-studio-code-mgc)
 - [Lifehacker] [All the Ways to Repurpose an Old Garden Hose &lpar;Instead of Throwing It Away&rpar;](https://lifehacker.com/all-the-ways-to-repurpose-an-old-garden-hose-instead-o-1848909027)
-- [Dev.to/JS] [How to create Drag &amp; Drop or Browse Feature in Javascript](https://dev.to/incoderweb/how-to-create-drag-drop-or-browse-feature-in-javascript-2ng6)
 - [Lifehacker] [11 of the Best Exercises You Can Do on TRX Straps at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [15 Shows That Are Basically Lifestyle Porn](https://lifehacker.com/15-shows-that-are-basically-lifestyle-porn-1848901576)
 - [Lifehacker] [You Should Be Cutting These Foods With Dental Floss](https://lifehacker.com/you-should-be-cutting-these-foods-with-dental-floss-1848910295)
