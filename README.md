@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Every Parent Needs to Heed These Tie-Dye Do&#39;s and Don&#39;ts](https://lifehacker.com/every-parent-needs-to-heed-these-tie-dye-dos-and-donts-1848906162)
+- [Dev.to/JS] [Create Beautiful Reports with Custom Pivot Tables and JavaScript Spreadsheets](https://dev.to/grapecity/create-beautiful-reports-with-custom-pivot-tables-and-javascript-spreadsheets-38kb)
+- [Lifehacker] [The Best Way to Bribe a Toddler to Eat Their Veggies](https://lifehacker.com/the-best-way-to-bribe-a-toddler-to-eat-their-veggies-1848909219)
+- [Dev.to/JS] [Tech Notes](https://dev.to/harshitpaneri/tech-notes-4im1)
+- [Dev.to/JS] [Nullish coalescing operator &lpar;??&rpar; &amp; Optional chaining operator &lpar;?.&rpar;](https://dev.to/devashishsethi/nullish-coalescing-operator-optional-chaining-o4e)
+- [Lifehacker] [How to Tell If You Qualify for Discounted Internet From the Government](https://lifehacker.com/how-to-tell-if-you-qualify-for-discounted-internet-from-1848911370)
 - [Dev.to/JS] [Use variables in your package.json](https://dev.to/tykok/use-variables-in-your-packagejson-331j)
 - [Lifehacker] [Five of Our Favorite Cult Classic Movies](https://lifehacker.com/five-of-our-favorite-cult-classic-movies-1848911286)
 - [Dev.to/JS] [Day-85 Training At Ryaz](https://dev.to/mahin651/day-82-training-at-ryaz-4kpp)
@@ -35,11 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is React?](https://dev.to/sharmayatendra/what-is-react-gmp)
 - [Lifehacker] [11 of the Best Exercises You Can Do on TRX Straps at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Dev.to/JS] [#10: Get Creative - with Vue.js](https://dev.to/azure/10-get-creative-with-vuejs-33k1)
-- [Dev.to/JS] [useEvent: the new upcoming hook?](https://dev.to/romaintrotard/useevent-the-new-upcoming-hook-3482)
-- [Dev.to/JS] [&#39;___&#39; is most popular hook in ReactJs ?](https://dev.to/i_am_onkar/-is-most-popular-hook-in-reactjs--3chb)
 - [Lifehacker] [15 Shows That Are Basically Lifestyle Porn](https://lifehacker.com/15-shows-that-are-basically-lifestyle-porn-1848901576)
 - [Lifehacker] [You Should Be Cutting These Foods With Dental Floss](https://lifehacker.com/you-should-be-cutting-these-foods-with-dental-floss-1848910295)
-- [Dev.to/JS] [React useRef Hook](https://dev.to/rutvikumak/react-useref-hook-2hc4)
 - [Lifehacker] [13 Clever Ways to Create More Storage Space in Your Home](https://lifehacker.com/13-clever-ways-to-create-more-storage-space-in-your-hom-1848905348)
 - [Lifehacker] [Enough With the Pop Culture-Themed Weddings, I Beg of You](https://lifehacker.com/enough-with-the-pop-culture-themed-weddings-i-beg-of-y-1848905625)
 - [Lifehacker] [You Need to Update Windows Right Now](https://lifehacker.com/you-need-to-update-windows-right-now-1848909833)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid a Last-Minute Extra Baggage Fee at the Airport](https://lifehacker.com/how-to-avoid-a-last-minute-extra-baggage-fee-at-the-air-1848901536)
 - [Lifehacker] [How to Watch Google I/O 2022 &lpar;and What to Expect&rpar;](https://lifehacker.com/how-to-watch-google-i-o-2022-and-what-to-expect-1848905197)
 - [Lifehacker] [How to Grow an Edible Flower Garden](https://lifehacker.com/how-to-grow-an-edible-flower-garden-1848903798)
-- [Lifehacker] [What You Can Buy With Just One Single Bitcoin](https://lifehacker.com/what-you-can-buy-with-just-one-single-bitcoin-1848903827)
-- [Lifehacker] [The 7 Deadly Sins of Online Dating](https://lifehacker.com/the-7-deadly-sins-of-online-dating-1848902317)
-- [Lifehacker] [Unexpected Things You Can Buy With ‘Food Stamps’](https://lifehacker.com/unexpected-things-you-can-buy-with-food-stamps-1848901836)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
