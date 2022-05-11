@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Astro Turbolinks: fast AstroJS Navigation](https://dev.to/askrodney/astro-turbolinks-fast-astrojs-navigation-5809)
+- [Dev.to/JS] [Tuna Fish Market Size, Share &amp; Trends Analysis Report](https://dev.to/ashleyh51318037/tuna-fish-market-size-share-trends-analysis-report-3m0k)
+- [Dev.to/JS] [a quick easy js quiz](https://dev.to/themmako/a-quick-easy-js-quiz-1g40)
+- [Dev.to/JS] [Altai Balance Supplement Reviews: Does It Scam Or Not?](https://dev.to/altaibalanceweb/altai-balance-supplement-reviews-does-it-scam-or-not-5d8j)
+- [Dev.to/JS] [HTML Tutorial #1](https://dev.to/goodboyks/html-tutorial-1-1f)
 - [Dev.to/JS] [Merge Sort](https://dev.to/henryong92/merge-sort-5821)
 - [Dev.to/JS] [Using Custom Controllers to Power a Next.js App](https://dev.to/strapi/using-custom-controllers-to-power-a-nextjs-app-2ebd)
 - [Dev.to/JS] [What are your reusable parts of code for js and scss?](https://dev.to/reckit075/what-are-your-reusable-parts-of-code-for-js-and-scss-59m2)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Should You Learn Bootstrap In 2022? 🤔 - Honest Opinion 🤯](https://dev.to/rammcodes/should-you-learn-bootstrap-in-2022-honest-opinion-3j4h)
 - [Dev.to/JS] [Promises in JS and its functions](https://dev.to/devashishsethi/promises-in-js-and-its-functions-1fbg)
 - [Dev.to/JS] [How to connect wordpress user and Ojbect storage?](https://dev.to/ramprogrammer/how-to-connect-wordpress-user-and-ojbect-storage-o9b)
-- [Dev.to/JS] [Express doesn&#39;t save cookie](https://dev.to/maole/express-doesnt-saving-cookie-pbf)
-- [Dev.to/JS] [Learn Azure Static Web Apps the fun way with #30DaysOfSWA !!](https://dev.to/reshmisriram/learn-azure-static-web-apps-the-fun-way-with-30daysofswa--2n7k)
-- [Dev.to/JS] [Bubble Sort](https://dev.to/henryong92/bubble-sort-2ge8)
-- [Dev.to/JS] [Top Common Java Interview Questions in 2022 | Optymize](https://dev.to/optymize123/top-common-java-interview-questions-in-2022-optymize-15nf)
-- [Dev.to/JS] [App progress - Day 3](https://dev.to/advikguptadev/app-progress-day-3-2j4g)
 - [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Lifehacker] [Are Nonstick Pans Bad For You?](https://lifehacker.com/are-nonstick-pans-bad-for-you-1848907371)
