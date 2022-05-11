@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [UNFOLLOW all your Instagram friends automatically for free in 2022 with this simple script!](https://dev.to/prim4t/unfollow-all-your-instagram-friends-automatically-for-free-in-2022-with-this-simple-script-30e1)
+- [Dev.to/JS] [DOCKET APPLICATION USING APPWRITE](https://dev.to/maturusupriya/docket-application-using-appwrite-27f9)
 - [Dev.to/JS] [Insertion Sort](https://dev.to/henryong92/insertion-sort-2il9)
 - [Dev.to/JS] [Astro Turbolinks: fast AstroJS Navigation](https://dev.to/askrodney/astro-turbolinks-fast-astrojs-navigation-5809)
 - [Dev.to/JS] [Tuna Fish Market Size, Share &amp; Trends Analysis Report](https://dev.to/ashleyh51318037/tuna-fish-market-size-share-trends-analysis-report-3m0k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Custom Controllers to Power a Next.js App](https://dev.to/strapi/using-custom-controllers-to-power-a-nextjs-app-2ebd)
 - [Dev.to/JS] [What are your reusable parts of code for js and scss?](https://dev.to/reckit075/what-are-your-reusable-parts-of-code-for-js-and-scss-59m2)
 - [Dev.to/JS] [[Appwrite + node-red]](https://dev.to/gigonzalezs/appwrite-submission-post-placeholder-title-2c0f)
-- [Dev.to/JS] [Should You Learn Bootstrap In 2022? 🤔 - Honest Opinion 🤯](https://dev.to/rammcodes/should-you-learn-bootstrap-in-2022-honest-opinion-3j4h)
-- [Dev.to/JS] [Promises in JS and its functions](https://dev.to/devashishsethi/promises-in-js-and-its-functions-1fbg)
 - [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Lifehacker] [Are Nonstick Pans Bad For You?](https://lifehacker.com/are-nonstick-pans-bad-for-you-1848907371)
