@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build an inventory management app with Azure Static Web Apps with + React, part 2](https://dev.to/azure/build-an-inventory-management-app-with-azure-static-web-apps-with-react-part-2-26jg)
+- [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
 - [Dev.to/JS] [Acquiring the Auth Code](https://dev.to/lodenh16/acquiring-the-auth-code-2b9o)
 - [Dev.to/JS] [Pet and Vet a Micro Social Network for pets using AppWrite](https://dev.to/andreslopezrm/pet-and-vet-a-micro-social-network-for-pets-using-appwrite-1jo7)
@@ -43,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PERSONALIZAR TU VISUAL STUDIO CODE](https://dev.to/cesaracjotamerma/personalizar-tu-visual-studio-code-mgc)
 - [Lifehacker] [All the Ways to Repurpose an Old Garden Hose &lpar;Instead of Throwing It Away&rpar;](https://lifehacker.com/all-the-ways-to-repurpose-an-old-garden-hose-instead-o-1848909027)
 - [Dev.to/JS] [How to create Drag &amp; Drop or Browse Feature in Javascript](https://dev.to/incoderweb/how-to-create-drag-drop-or-browse-feature-in-javascript-2ng6)
-- [Dev.to/JS] [Hatching JavaScript](https://dev.to/hatchingcode/hatching-javascript-pj8)
 - [Lifehacker] [11 of the Best Exercises You Can Do on TRX Straps at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [15 Shows That Are Basically Lifestyle Porn](https://lifehacker.com/15-shows-that-are-basically-lifestyle-porn-1848901576)
 - [Lifehacker] [You Should Be Cutting These Foods With Dental Floss](https://lifehacker.com/you-should-be-cutting-these-foods-with-dental-floss-1848910295)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Yakamein in Your Instant Pot](https://lifehacker.com/you-should-make-yakamein-in-your-instant-pot-1848869641)
 - [Lifehacker] [Ten Websites Where You Can Find Free Stuff](https://lifehacker.com/ten-websites-where-you-can-find-free-stuff-1848905689)
 - [Lifehacker] [Don&#39;t Eat This &#39;Ready-to-Eat&#39; Chicken, USDA Says](https://lifehacker.com/dont-eat-this-ready-to-eat-chicken-usda-says-1848905229)
-- [Lifehacker] [How to Parent With Depression](https://lifehacker.com/how-to-parent-with-depression-1848892904)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
