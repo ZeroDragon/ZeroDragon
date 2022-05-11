@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Guide to Events in Vue](https://dev.to/smpnjn/a-guide-to-events-in-vue-56pl)
 - [Dev.to/JS] [Firebase Miniseries 1: Auth](https://dev.to/theeasydev/firebase-miniseries-1-auth-2fbl)
 - [Dev.to/JS] [How to get user IP address, location, and device info using JavaScript in browser](https://dev.to/chaoming/how-to-get-user-ip-address-location-and-device-info-using-javascript-in-browser-1bok)
 - [Dev.to/JS] [I know why you don&#39;t use Typescript](https://dev.to/mmatheuspalma/i-know-why-you-dont-use-typescript-45in)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Guitarists, Drummers, and Javascript Developers](https://dev.to/mrispoli24/guitarists-drummers-and-javascript-developers-5c3f)
 - [Lifehacker] [You Should Make Yakamein in Your Instant Pot](https://lifehacker.com/you-should-make-yakamein-in-your-instant-pot-1848869641)
 - [Dev.to/JS] [Navigating the JavaScript Event Object](https://dev.to/williamluck/navigating-the-javascript-event-object-2po8)
-- [Dev.to/JS] [Need of package.lock.json ?and npm clean install](https://dev.to/tarunsankhla/need-of-packagelockjson-and-npm-clean-install-3alk)
 - [Lifehacker] [Ten Websites Where You Can Find Free Stuff](https://lifehacker.com/ten-websites-where-you-can-find-free-stuff-1848905689)
 - [Lifehacker] [Don&#39;t Eat This &#39;Ready-to-Eat&#39; Chicken, USDA Says](https://lifehacker.com/dont-eat-this-ready-to-eat-chicken-usda-says-1848905229)
 - [Lifehacker] [How to Parent With Depression](https://lifehacker.com/how-to-parent-with-depression-1848892904)
