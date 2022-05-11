@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are the real life use of match&lpar;&rpar; function in javascript?](https://dev.to/coditdoc/what-are-the-real-life-use-of-match-function-in-javascript-3pl5)
+- [Dev.to/JS] [Aesthetic Symbols | ✩ ✼ ｡ﾟ・ ☆ ｡ | Copy &amp; Paste](https://dev.to/aestheticsymbols/aesthetic-symbols-deg-copy-paste-70j)
+- [Dev.to/JS] [Paracetamol.js💊| #114: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-114-explica-este-codigo-javascript-45oi)
+- [Lifehacker] [Enough With the Pop Culture-Themed Weddings, I Beg of You](https://lifehacker.com/enough-with-the-pop-culture-themed-weddings-i-beg-of-y-1848905625)
+- [Dev.to/JS] [Concurrent Rendering in SolidJS](https://dev.to/phongnn/concurrent-rendering-in-solidjs-3m9i)
+- [Dev.to/JS] [Our open-source project got funded!](https://dev.to/scopsy/our-open-source-project-got-funded-1bon)
+- [Lifehacker] [You Need to Update Windows Right Now](https://lifehacker.com/you-need-to-update-windows-right-now-1848909833)
 - [Dev.to/JS] [Event propagation in javascript](https://dev.to/saran_chakravarthi/event-propagation-in-javascript-36mi)
 - [Lifehacker] [Is Your Food Delivery Coming From a &#39;Ghost Kitchen&#39;?](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
 - [Dev.to/JS] [The Findings - Finding A CMS](https://dev.to/psypher1/the-findings-finding-a-cms-3p10)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [UNFOLLOW all your Instagram friends automatically for free in 2022 with this simple script!](https://dev.to/prim4t/unfollow-all-your-instagram-friends-automatically-for-free-in-2022-with-this-simple-script-30e1)
 - [Dev.to/JS] [DOCKET APPLICATION USING APPWRITE](https://dev.to/maturusupriya/docket-application-using-appwrite-27f9)
 - [Dev.to/JS] [Insertion Sort](https://dev.to/henryong92/insertion-sort-2il9)
-- [Dev.to/JS] [Astro Turbolinks: fast AstroJS Navigation](https://dev.to/askrodney/astro-turbolinks-fast-astrojs-navigation-5809)
-- [Dev.to/JS] [Tuna Fish Market Size, Share &amp; Trends Analysis Report](https://dev.to/ashleyh51318037/tuna-fish-market-size-share-trends-analysis-report-3m0k)
-- [Dev.to/JS] [a quick easy js quiz](https://dev.to/themmako/a-quick-easy-js-quiz-1g40)
-- [Dev.to/JS] [Altai Balance Supplement Reviews: Does It Scam Or Not?](https://dev.to/altaibalanceweb/altai-balance-supplement-reviews-does-it-scam-or-not-5d8j)
-- [Dev.to/JS] [HTML Tutorial #1](https://dev.to/goodboyks/html-tutorial-1-1f)
 - [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Lifehacker] [Are Nonstick Pans Bad For You?](https://lifehacker.com/are-nonstick-pans-bad-for-you-1848907371)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make and Freeze a Whole Bunch of Caramelized Onions](https://lifehacker.com/you-should-make-and-freeze-a-whole-bunch-of-caramelized-1848901284)
 - [Lifehacker] [Stop Using Dish Soap on Your Wine Glasses](https://lifehacker.com/stop-using-dish-soap-on-your-wine-glasses-1848901553)
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
-- [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
-- [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
