@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Be Cutting These Foods With Dental Floss](https://lifehacker.com/you-should-be-cutting-these-foods-with-dental-floss-1848910295)
+- [Dev.to/JS] [React useRef Hook](https://dev.to/rutvikumak/react-useref-hook-2hc4)
+- [Dev.to/JS] [Join LiveChat Incubator and bring your product idea to life!](https://dev.to/livechat/join-livechat-incubator-and-bring-your-product-idea-to-life-4a7g)
+- [Dev.to/JS] [Email Form with Recapcha v3](https://dev.to/madeinmilwaukee/email-form-with-recapcha-v3-kb0)
 - [Dev.to/JS] [What are the real life use of match&lpar;&rpar; function in javascript?](https://dev.to/coditdoc/what-are-the-real-life-use-of-match-function-in-javascript-3pl5)
+- [Lifehacker] [13 Clever Ways to Create More Storage Space in Your Home](https://lifehacker.com/13-clever-ways-to-create-more-storage-space-in-your-hom-1848905348)
 - [Dev.to/JS] [Aesthetic Symbols | ✩ ✼ ｡ﾟ・ ☆ ｡ | Copy &amp; Paste](https://dev.to/aestheticsymbols/aesthetic-symbols-deg-copy-paste-70j)
 - [Dev.to/JS] [Paracetamol.js💊| #114: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-114-explica-este-codigo-javascript-45oi)
 - [Lifehacker] [Enough With the Pop Culture-Themed Weddings, I Beg of You](https://lifehacker.com/enough-with-the-pop-culture-themed-weddings-i-beg-of-y-1848905625)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why a Rainy Day Is the Perfect Day to House-Hunt &lpar;and What to Look for While You’re There&rpar;](https://lifehacker.com/why-a-rainy-day-is-the-perfect-day-to-house-hunt-and-w-1848905014)
 - [Lifehacker] [Three Ingredients That Instantly Make Any Dip Better](https://lifehacker.com/three-ingredients-that-instantly-make-any-dip-better-1848907206)
 - [Dev.to/JS] [Simple REST API Tutorial For Beginners](https://dev.to/hr21don/simple-rest-api-tutorial-for-beginners-3512)
-- [Dev.to/JS] [UNFOLLOW all your Instagram friends automatically for free in 2022 with this simple script!](https://dev.to/prim4t/unfollow-all-your-instagram-friends-automatically-for-free-in-2022-with-this-simple-script-30e1)
-- [Dev.to/JS] [DOCKET APPLICATION USING APPWRITE](https://dev.to/maturusupriya/docket-application-using-appwrite-27f9)
-- [Dev.to/JS] [Insertion Sort](https://dev.to/henryong92/insertion-sort-2il9)
 - [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Lifehacker] [Are Nonstick Pans Bad For You?](https://lifehacker.com/are-nonstick-pans-bad-for-you-1848907371)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Young Is Too Young to Run a Marathon?](https://lifehacker.com/how-young-is-too-young-to-run-a-marathon-1848901266)
 - [Lifehacker] [How to Preserve Your Digital Legacy &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-preserve-your-digital-legacy-and-why-you-should-1848900489)
 - [Lifehacker] [You Should Make and Freeze a Whole Bunch of Caramelized Onions](https://lifehacker.com/you-should-make-and-freeze-a-whole-bunch-of-caramelized-1848901284)
-- [Lifehacker] [Stop Using Dish Soap on Your Wine Glasses](https://lifehacker.com/stop-using-dish-soap-on-your-wine-glasses-1848901553)
-- [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
