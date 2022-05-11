@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Event propagation in javascript](https://dev.to/saran_chakravarthi/event-propagation-in-javascript-36mi)
+- [Lifehacker] [Is Your Food Delivery Coming From a &#39;Ghost Kitchen&#39;?](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
+- [Dev.to/JS] [The Findings - Finding A CMS](https://dev.to/psypher1/the-findings-finding-a-cms-3p10)
 - [Dev.to/JS] [Free HTML Form builder](https://dev.to/magarrent/free-html-form-builder-2e3b)
 - [Lifehacker] [Why a Rainy Day Is the Perfect Day to House-Hunt &lpar;and What to Look for While You’re There&rpar;](https://lifehacker.com/why-a-rainy-day-is-the-perfect-day-to-house-hunt-and-w-1848905014)
 - [Lifehacker] [Three Ingredients That Instantly Make Any Dip Better](https://lifehacker.com/three-ingredients-that-instantly-make-any-dip-better-1848907206)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [a quick easy js quiz](https://dev.to/themmako/a-quick-easy-js-quiz-1g40)
 - [Dev.to/JS] [Altai Balance Supplement Reviews: Does It Scam Or Not?](https://dev.to/altaibalanceweb/altai-balance-supplement-reviews-does-it-scam-or-not-5d8j)
 - [Dev.to/JS] [HTML Tutorial #1](https://dev.to/goodboyks/html-tutorial-1-1f)
-- [Dev.to/JS] [Merge Sort](https://dev.to/henryong92/merge-sort-5821)
-- [Dev.to/JS] [Using Custom Controllers to Power a Next.js App](https://dev.to/strapi/using-custom-controllers-to-power-a-nextjs-app-2ebd)
 - [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Lifehacker] [Are Nonstick Pans Bad For You?](https://lifehacker.com/are-nonstick-pans-bad-for-you-1848907371)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Do a Factory Reset on All Your Older Tech](https://lifehacker.com/why-you-should-do-a-factory-reset-on-all-your-older-tec-1848899346)
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
-- [Lifehacker] [Stop Refrigerating Your Watermelon](https://lifehacker.com/stop-refrigerating-your-watermelon-1848900347)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
