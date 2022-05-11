@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [STOP using require&lpar;&rpar; in node backend](https://dev.to/harshkumar77/stop-using-require-in-node-backend-1470)
+- [Dev.to/JS] [Hooked: useState&lpar;&rpar;](https://dev.to/kale_leach/hooked-usestate-31n1)
+- [Dev.to/JS] [Create an Object in java](https://dev.to/nipunsanjula/create-an-object-in-java-3mba)
 - [Dev.to/JS] [How to Dockerize a Next.js Application for beginners.](https://dev.to/rashidalikalwar/how-to-dockerize-a-nextjs-application-for-beginners-38k0)
 - [Dev.to/JS] [REACT HOOKS](https://dev.to/cesaracjotamerma/hola-este-es-mi-primer-post-1khb)
 - [Dev.to/JS] [Comparing Astro and Next for React apps](https://dev.to/asayerio_techblog/comparing-astro-and-next-for-react-apps-4jo0)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to pass arguments to events like on:click in Svelte](https://dev.to/smpnjn/how-to-pass-arguments-to-events-like-onclick-in-svelte-79l)
 - [Dev.to/JS] [Getting Started with Events in Svelte](https://dev.to/smpnjn/getting-started-with-events-in-svelte-1pgg)
 - [Dev.to/JS] [How the TypeScript ReturnType Type works](https://dev.to/smpnjn/how-the-typescript-returntype-type-works-hao)
-- [Dev.to/JS] [A Guide to Events in Vue](https://dev.to/smpnjn/a-guide-to-events-in-vue-56pl)
-- [Dev.to/JS] [Firebase Miniseries 1: Auth](https://dev.to/theeasydev/firebase-miniseries-1-auth-2fbl)
-- [Dev.to/JS] [How to get user IP address, location, and device info using JavaScript in browser](https://dev.to/chaoming/how-to-get-user-ip-address-location-and-device-info-using-javascript-in-browser-1bok)
 - [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Lifehacker] [Are Nonstick Pans Bad For You?](https://lifehacker.com/are-nonstick-pans-bad-for-you-1848907371)
