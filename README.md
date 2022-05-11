@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Day-82 Training At Ryaz](https://dev.to/mahin651/day-82-training-at-ryaz-4kpp)
+- [Dev.to/JS] [Use variables in your package.json](https://dev.to/tykok/use-variables-in-your-packagejson-331j)
+- [Lifehacker] [Five of Our Favorite Cult Classic Movies](https://lifehacker.com/five-of-our-favorite-cult-classic-movies-1848911286)
+- [Dev.to/JS] [Day-85 Training At Ryaz](https://dev.to/mahin651/day-82-training-at-ryaz-4kpp)
 - [Dev.to/JS] [PERSONALIZAR TU VISUAL STUDIO CODE](https://dev.to/cesaracjotamerma/personalizar-tu-visual-studio-code-mgc)
 - [Lifehacker] [All the Ways to Repurpose an Old Garden Hose &lpar;Instead of Throwing It Away&rpar;](https://lifehacker.com/all-the-ways-to-repurpose-an-old-garden-hose-instead-o-1848909027)
 - [Dev.to/JS] [How to create Drag &amp; Drop or Browse Feature in Javascript](https://dev.to/incoderweb/how-to-create-drag-drop-or-browse-feature-in-javascript-2ng6)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Shows That Are Basically Lifestyle Porn](https://lifehacker.com/15-shows-that-are-basically-lifestyle-porn-1848901576)
 - [Lifehacker] [You Should Be Cutting These Foods With Dental Floss](https://lifehacker.com/you-should-be-cutting-these-foods-with-dental-floss-1848910295)
 - [Dev.to/JS] [React useRef Hook](https://dev.to/rutvikumak/react-useref-hook-2hc4)
-- [Dev.to/JS] [Join LiveChat Incubator and bring your product idea to life!](https://dev.to/livechat/join-livechat-incubator-and-bring-your-product-idea-to-life-4a7g)
 - [Lifehacker] [13 Clever Ways to Create More Storage Space in Your Home](https://lifehacker.com/13-clever-ways-to-create-more-storage-space-in-your-hom-1848905348)
 - [Lifehacker] [Enough With the Pop Culture-Themed Weddings, I Beg of You](https://lifehacker.com/enough-with-the-pop-culture-themed-weddings-i-beg-of-y-1848905625)
 - [Lifehacker] [You Need to Update Windows Right Now](https://lifehacker.com/you-need-to-update-windows-right-now-1848909833)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Can Buy With Just One Single Bitcoin](https://lifehacker.com/what-you-can-buy-with-just-one-single-bitcoin-1848903827)
 - [Lifehacker] [The 7 Deadly Sins of Online Dating](https://lifehacker.com/the-7-deadly-sins-of-online-dating-1848902317)
 - [Lifehacker] [Unexpected Things You Can Buy With ‘Food Stamps’](https://lifehacker.com/unexpected-things-you-can-buy-with-food-stamps-1848901836)
-- [Lifehacker] [There&#39;s No Such Thing As a &#39;Clean&#39; Toothbrush](https://lifehacker.com/theres-no-such-thing-as-a-clean-toothbrush-1848901927)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
