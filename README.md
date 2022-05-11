@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Free HTML Form builder](https://dev.to/magarrent/free-html-form-builder-2e3b)
+- [Lifehacker] [Why a Rainy Day Is the Perfect Day to House-Hunt &lpar;and What to Look for While You’re There&rpar;](https://lifehacker.com/why-a-rainy-day-is-the-perfect-day-to-house-hunt-and-w-1848905014)
+- [Lifehacker] [Three Ingredients That Instantly Make Any Dip Better](https://lifehacker.com/three-ingredients-that-instantly-make-any-dip-better-1848907206)
+- [Dev.to/JS] [Simple REST API Tutorial For Beginners](https://dev.to/hr21don/simple-rest-api-tutorial-for-beginners-3512)
 - [Dev.to/JS] [UNFOLLOW all your Instagram friends automatically for free in 2022 with this simple script!](https://dev.to/prim4t/unfollow-all-your-instagram-friends-automatically-for-free-in-2022-with-this-simple-script-30e1)
 - [Dev.to/JS] [DOCKET APPLICATION USING APPWRITE](https://dev.to/maturusupriya/docket-application-using-appwrite-27f9)
 - [Dev.to/JS] [Insertion Sort](https://dev.to/henryong92/insertion-sort-2il9)
@@ -33,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTML Tutorial #1](https://dev.to/goodboyks/html-tutorial-1-1f)
 - [Dev.to/JS] [Merge Sort](https://dev.to/henryong92/merge-sort-5821)
 - [Dev.to/JS] [Using Custom Controllers to Power a Next.js App](https://dev.to/strapi/using-custom-controllers-to-power-a-nextjs-app-2ebd)
-- [Dev.to/JS] [What are your reusable parts of code for js and scss?](https://dev.to/reckit075/what-are-your-reusable-parts-of-code-for-js-and-scss-59m2)
-- [Dev.to/JS] [[Appwrite + node-red]](https://dev.to/gigonzalezs/appwrite-submission-post-placeholder-title-2c0f)
 - [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Lifehacker] [Are Nonstick Pans Bad For You?](https://lifehacker.com/are-nonstick-pans-bad-for-you-1848907371)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to &#39;Steal&#39; Free Routes From Strava](https://lifehacker.com/how-to-steal-free-routes-from-strava-1848900774)
 - [Lifehacker] [How to Recognize the Signs of Parental Burnout &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-recognize-the-signs-of-parental-burnout-and-wha-1848900468)
 - [Lifehacker] [Stop Refrigerating Your Watermelon](https://lifehacker.com/stop-refrigerating-your-watermelon-1848900347)
-- [Lifehacker] [Which Airlines Offer Free Wifi or Free Messaging &lpar;and Which Ones Make You Pay&rpar;](https://lifehacker.com/which-airlines-offer-free-wifi-or-free-messaging-and-w-1848899990)
-- [Lifehacker] [Don’t Buy the Wrong Vacuum for Your Home](https://lifehacker.com/don-t-buy-the-wrong-vacuum-for-your-home-1848899622)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
