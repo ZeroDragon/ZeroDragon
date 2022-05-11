@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [twoSum solution with O&lpar;n&rpar;](https://dev.to/urstrulyvishwak/twosum-solution-with-on-3be0)
+- [Dev.to/JS] [Should You Learn Bootstrap In 2022? - Honest Opinion 🤔](https://dev.to/rammcodes/should-you-learn-bootstrap-in-2022-honest-opinion-3j4h)
+- [Dev.to/JS] [Promises in JS and its functions](https://dev.to/devashishsethi/promises-in-js-and-its-functions-1fbg)
+- [Dev.to/JS] [How to connect wordpress user and Ojbect storage?](https://dev.to/ramprogrammer/how-to-connect-wordpress-user-and-ojbect-storage-o9b)
 - [Dev.to/JS] [Express doesn&#39;t save cookie](https://dev.to/maole/express-doesnt-saving-cookie-pbf)
 - [Dev.to/JS] [Learn Azure Static Web Apps the fun way with #30DaysOfSWA !!](https://dev.to/reshmisriram/learn-azure-static-web-apps-the-fun-way-with-30daysofswa--2n7k)
 - [Dev.to/JS] [Bubble Sort](https://dev.to/henryong92/bubble-sort-2ge8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Gzip - compress a gcp file while uploading to google cloud , AWS for better SEO](https://dev.to/prems5/how-to-gzip-compress-a-gcp-file-while-uploading-to-google-cloud-aws-for-better-seo-1cfa)
 - [Dev.to/JS] [Data Structure &amp; Algorithms](https://dev.to/henryong92/data-structure-algorithms-5c30)
 - [Dev.to/JS] [🚀 The Ultimate Monorepo Starter for Node.js Serverless Applications](https://dev.to/netanelbasal/the-ultimate-monorepo-starter-for-nodejs-serverless-applications-3k6l)
-- [Dev.to/JS] [STOP using require&lpar;&rpar; in node backend](https://dev.to/harshkumar77/stop-using-require-in-node-backend-1470)
-- [Dev.to/JS] [Hooked: useState&lpar;&rpar;](https://dev.to/kale_leach/hooked-usestate-31n1)
-- [Dev.to/JS] [Create an Object in java](https://dev.to/nipunsanjula/create-an-object-in-java-3mba)
-- [Dev.to/JS] [How to Dockerize a Next.js Application for beginners.](https://dev.to/rashidalikalwar/how-to-dockerize-a-nextjs-application-for-beginners-38k0)
 - [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Lifehacker] [Are Nonstick Pans Bad For You?](https://lifehacker.com/are-nonstick-pans-bad-for-you-1848907371)
