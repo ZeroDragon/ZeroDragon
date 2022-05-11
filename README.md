@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid Small Towns on Sundays, and Other Ways to Have a Better Road Trip](https://lifehacker.com/avoid-small-towns-on-sundays-and-other-ways-to-have-a-1848907843)
+- [Dev.to/JS] [How to Use React &amp; Firebase Storage [DETAIL COURSE]](https://dev.to/codecoursessite/how-to-use-react-firebase-storage-detail-course-2end)
 - [Lifehacker] [Every Parent Needs to Heed These Tie-Dye Do&#39;s and Don&#39;ts](https://lifehacker.com/every-parent-needs-to-heed-these-tie-dye-dos-and-donts-1848906162)
 - [Dev.to/JS] [Create Beautiful Reports with Custom Pivot Tables and JavaScript Spreadsheets](https://dev.to/grapecity/create-beautiful-reports-with-custom-pivot-tables-and-javascript-spreadsheets-38kb)
 - [Lifehacker] [The Best Way to Bribe a Toddler to Eat Their Veggies](https://lifehacker.com/the-best-way-to-bribe-a-toddler-to-eat-their-veggies-1848909219)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lerna is dead - Long Live Lerna](https://dev.to/nrwl/lerna-is-dead-long-live-lerna-3jal)
 - [Dev.to/JS] [What is React?](https://dev.to/sharmayatendra/what-is-react-gmp)
 - [Lifehacker] [11 of the Best Exercises You Can Do on TRX Straps at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
-- [Dev.to/JS] [#10: Get Creative - with Vue.js](https://dev.to/azure/10-get-creative-with-vuejs-33k1)
 - [Lifehacker] [15 Shows That Are Basically Lifestyle Porn](https://lifehacker.com/15-shows-that-are-basically-lifestyle-porn-1848901576)
 - [Lifehacker] [You Should Be Cutting These Foods With Dental Floss](https://lifehacker.com/you-should-be-cutting-these-foods-with-dental-floss-1848910295)
 - [Lifehacker] [13 Clever Ways to Create More Storage Space in Your Home](https://lifehacker.com/13-clever-ways-to-create-more-storage-space-in-your-hom-1848905348)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Cell Phone Insurance for Free](https://lifehacker.com/how-to-get-cell-phone-insurance-for-free-1848897040)
 - [Lifehacker] [How to Avoid a Last-Minute Extra Baggage Fee at the Airport](https://lifehacker.com/how-to-avoid-a-last-minute-extra-baggage-fee-at-the-air-1848901536)
 - [Lifehacker] [How to Watch Google I/O 2022 &lpar;and What to Expect&rpar;](https://lifehacker.com/how-to-watch-google-i-o-2022-and-what-to-expect-1848905197)
-- [Lifehacker] [How to Grow an Edible Flower Garden](https://lifehacker.com/how-to-grow-an-edible-flower-garden-1848903798)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
