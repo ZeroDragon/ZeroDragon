@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Dockerize a Next.js Application for beginners.](https://dev.to/rashidalikalwar/how-to-dockerize-a-nextjs-application-for-beginners-38k0)
+- [Dev.to/JS] [REACT HOOKS](https://dev.to/cesaracjotamerma/hola-este-es-mi-primer-post-1khb)
 - [Dev.to/JS] [Comparing Astro and Next for React apps](https://dev.to/asayerio_techblog/comparing-astro-and-next-for-react-apps-4jo0)
 - [Dev.to/JS] [Flatten the Object - JavaScript](https://dev.to/abhishekkgautam/flatten-the-object-javascript-5389)
 - [Dev.to/JS] [The difference between created and mounted in Vue](https://dev.to/smpnjn/the-difference-between-created-and-mounted-in-vue-48mi)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Guide to Events in Vue](https://dev.to/smpnjn/a-guide-to-events-in-vue-56pl)
 - [Dev.to/JS] [Firebase Miniseries 1: Auth](https://dev.to/theeasydev/firebase-miniseries-1-auth-2fbl)
 - [Dev.to/JS] [How to get user IP address, location, and device info using JavaScript in browser](https://dev.to/chaoming/how-to-get-user-ip-address-location-and-device-info-using-javascript-in-browser-1bok)
-- [Dev.to/JS] [I know why you don&#39;t use Typescript](https://dev.to/mmatheuspalma/i-know-why-you-dont-use-typescript-45in)
-- [Dev.to/JS] [JavaScript - Set](https://dev.to/justtanwa/javascript-set-4mbf)
 - [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Lifehacker] [Are Nonstick Pans Bad For You?](https://lifehacker.com/are-nonstick-pans-bad-for-you-1848907371)
