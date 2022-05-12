@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 ES6 Concepts for React Developers](https://dev.to/iprankurpandey/10-es6-concepts-for-react-developers-4had)
+- [Lifehacker] [Use the ‘Four Tendencies’ Quiz to Be More Productive](https://lifehacker.com/use-the-four-tendencies-quiz-to-be-more-productive-1848913191)
 - [Lifehacker] [The 7 Deadly Sins of a Best Man Speech](https://lifehacker.com/the-7-deadly-sins-of-a-best-man-speech-1848913435)
 - [Dev.to/JS] [Run Next.js functions in the background with events and cron schedules](https://dev.to/djfarrelly/run-nextjs-functions-in-the-background-with-events-and-cron-schedules-g7g)
 - [Dev.to/JS] [5 maneiras de exibir dados com Javascript](https://dev.to/fraconca/5-maneiras-de-exibir-para-exibir-dados-com-javascript-n90)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Plan Your Next Vacation on Google Travel Instead of a Spreadsheet](https://lifehacker.com/why-you-should-plan-your-next-vacation-on-google-travel-1848911324)
 - [Dev.to/JS] [Anyone to know how to create - Styled Components - Tags component?](https://dev.to/domolanya/anyone-to-know-how-to-create-styled-components-tags-component-3c8j)
 - [Dev.to/JS] [Random Meme Generator with Appwrite DEV.to Hackathon](https://dev.to/adityaaryam/random-meme-generator-with-appwrite-devto-hackathon-2ecj)
-- [Dev.to/JS] [You Don’t Need React to Create a Reusable Button!](https://dev.to/mariusbongarts/you-dont-need-react-to-create-a-reusable-button-25p8)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
 - [Lifehacker] [Anti-Allergy Face Wipes Aren&#39;t What You Think They Are](https://lifehacker.com/anti-allergy-face-wipes-are-bullshit-sort-of-1848911194)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why a Rainy Day Is the Perfect Day to House-Hunt &lpar;and What to Look for While You’re There&rpar;](https://lifehacker.com/why-a-rainy-day-is-the-perfect-day-to-house-hunt-and-w-1848905014)
 - [Lifehacker] [Three Ingredients That Instantly Make Any Dip Better](https://lifehacker.com/three-ingredients-that-instantly-make-any-dip-better-1848907206)
 - [Lifehacker] [Three Ways to Save Money at the Ballpark This Season](https://lifehacker.com/three-ways-to-save-money-at-the-ballpark-this-season-1848905508)
-- [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
