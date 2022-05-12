@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Learn React &amp; Firebase Storage [DETAIL COURSE]](https://dev.to/codecoursessite/how-to-learn-react-firebase-storage-detail-course-phh)
+- [Dev.to/JS] [How’s the weather outside? Learn to integrate Site Kit in a Weather Application in React Native](https://dev.to/hmscommunity/hows-the-weather-outside-learn-to-integrate-site-kit-in-a-weather-application-in-react-native-3gnl)
+- [Dev.to/JS] [Generate Laravel PDF with Image Example](https://dev.to/codeanddeploy/generate-laravel-pdf-with-image-example-3i87)
+- [Dev.to/JS] [Ecosystem and Frameworks: My Role at Netlify](https://dev.to/nickytonline/ecosystem-and-frameworks-my-role-at-netlify-306b)
 - [Dev.to/JS] [How to Update Google Cloud Run Instance using an API Axios Request](https://dev.to/cormacncheese/how-to-update-google-cloud-run-instance-using-an-api-axios-request-25hc)
 - [Dev.to/JS] [Implementing user authentication in React with SuperTokens](https://dev.to/asayerio_techblog/implementing-user-authentication-in-react-with-supertokens-17ne)
 - [Dev.to/JS] [Jest + Typescript minus TS-Jest](https://dev.to/tylim88/jest-typescript-minus-ts-jest-38ic)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to auto reload node.js server](https://dev.to/taowen/how-to-auto-reload-nodejs-server-ebm)
 - [Dev.to/JS] [How to Fix error with openai in your nodeJS app](https://dev.to/adeleke5140/how-to-fix-error-with-openai-in-your-nodejs-app-5en2)
 - [Dev.to/JS] [Exploring Web Animations](https://dev.to/angelinawhite/exploring-web-animations-55pl)
-- [Dev.to/JS] [Season 9 of DevDiscuss is here! Let&#39;s talk about design patterns...](https://dev.to/devteam/season-9-of-devdiscuss-is-here-lets-talk-about-design-patterns-16bj)
-- [Dev.to/JS] [Don&#39;t parse CSVs by hand!](https://dev.to/mistval/dont-parse-csvs-by-hand-5944)
-- [Dev.to/JS] [What&#39;s the simplest way to compile ClojureScript to JS? Like 1 file, no overhead.](https://dev.to/bop/whats-the-simplest-to-compile-clojurescript-to-js-like-1-file-no-overhead-54md)
-- [Dev.to/JS] [Build an inventory management app with Azure Static Web Apps with + React, part 2](https://dev.to/azure/build-an-inventory-management-app-with-azure-static-web-apps-with-react-part-2-26jg)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
 - [Lifehacker] [Anti-Allergy Face Wipes Aren&#39;t What You Think They Are](https://lifehacker.com/anti-allergy-face-wipes-are-bullshit-sort-of-1848911194)
