@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Validando links com o Promise.all&lpar; &rpar;!](https://dev.to/ricardogithub84/validando-links-com-o-promiseall--43b1)
+- [Dev.to/JS] [Completing Phase 1 &lpar;JavaScript &amp; Code Challenge&rpar;.. part 2](https://dev.to/inversed/completing-phase-1-javascript-code-challenge-part-2-jp)
+- [Dev.to/JS] [Execute a function with arguments using chrome extension scripting API](https://dev.to/awalakaushik/execute-a-function-with-arguments-using-chrome-extension-scripting-api-2b7m)
 - [Dev.to/JS] [How to Wrap Around a Range of Numbers with the Modulo](https://dev.to/jvon1904/how-to-wrap-around-a-range-of-numbers-with-the-modulo-cdo)
 - [Dev.to/JS] [Taskly - better way to manage your tasks](https://dev.to/capjavert/taskly-better-way-to-manage-your-tasks-2d2m)
 - [Dev.to/JS] [State management in React with MobX](https://dev.to/asayerio_techblog/state-management-in-react-with-mobx-4di2)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
 - [Dev.to/JS] [Javascript reserved keywords || Javascriptdagi ta&#39;qiqlangan kalit so&#39;zlar](https://dev.to/dawroun/javascript-reserved-keywords-javascriptdagi-taqiqlangan-kalit-sozlar-5136)
 - [Dev.to/JS] [Best time to buy and sell stock](https://dev.to/juliansjy/best-time-to-buy-and-sell-stock-1mnh)
-- [Dev.to/JS] [#11: Share Content with Docusaurus &amp; Azure Static Web Apps](https://dev.to/azure/11-share-content-with-docusaurus-azure-static-web-apps-30hc)
-- [Dev.to/JS] [Michelin Chef turned Software Engineer](https://dev.to/fabiojonathanarifin/michelin-chef-turned-software-engineer-35i0)
 - [Lifehacker] [Everything You Never Thought You’d Need to Know About Adult Ear Infections](https://lifehacker.com/everything-you-never-thought-you-d-need-to-know-about-a-1848917104)
-- [Dev.to/JS] [Simplest Uploader? Creating Powerful Node.js Object Uploader](https://dev.to/ali_a_koye/simplest-uploader-creating-powerful-nodejs-object-uploader-359o)
 - [Lifehacker] [Should You Cancel Your Streaming Subscriptions?](https://lifehacker.com/should-you-cancel-your-streaming-subscriptions-1848916913)
 - [Lifehacker] [How to Survive Sleeping in the Heat When You Don&#39;t Have Air Conditioning](https://lifehacker.com/how-to-survive-sleeping-in-the-heat-when-you-dont-have-1848917337)
 - [Lifehacker] [The Best &#39;Friend Date&#39; Ideas That Aren&#39;t Just Getting Drinks](https://lifehacker.com/the-best-friend-date-ideas-that-arent-just-getting-drin-1848917321)
