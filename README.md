@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Update Google Cloud Run Instance using an API Axios Request](https://dev.to/cormacncheese/how-to-update-google-cloud-run-instance-using-an-api-axios-request-25hc)
 - [Dev.to/JS] [Implementing user authentication in React with SuperTokens](https://dev.to/asayerio_techblog/implementing-user-authentication-in-react-with-supertokens-17ne)
 - [Dev.to/JS] [Jest + Typescript minus TS-Jest](https://dev.to/tylim88/jest-typescript-minus-ts-jest-38ic)
 - [Dev.to/JS] [JavaScript Array Methods](https://dev.to/carlos0318/javascript-array-methods-28h7)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build an inventory management app with Azure Static Web Apps with + React, part 2](https://dev.to/azure/build-an-inventory-management-app-with-azure-static-web-apps-with-react-part-2-26jg)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
-- [Dev.to/JS] [Acquiring the Auth Code](https://dev.to/lodenh16/acquiring-the-auth-code-2b9o)
 - [Lifehacker] [Anti-Allergy Face Wipes Aren&#39;t What You Think They Are](https://lifehacker.com/anti-allergy-face-wipes-are-bullshit-sort-of-1848911194)
 - [Lifehacker] [The Best French Toast Sticks Are Made With Stale Hot Dog Buns](https://lifehacker.com/the-best-french-toast-sticks-are-made-with-stale-hot-do-1848912873)
 - [Lifehacker] [Avoid Small Towns on Sundays, and Other Ways to Have a Better Road Trip](https://lifehacker.com/avoid-small-towns-on-sundays-and-other-ways-to-have-a-1848907843)
