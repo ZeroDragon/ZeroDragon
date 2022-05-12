@@ -34,7 +34,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing a wrapper for console.log for better control in Angular, Part II](https://dev.to/ayyash/writing-a-wrapper-for-consolelog-for-better-control-in-angular-part-ii-11ij)
 - [Dev.to/JS] [Counting Sort](https://dev.to/henryong92/counting-sort-2jf)
 - [Dev.to/JS] [JavaScript Evolutsiyasi Qisqa Satrlarda!](https://dev.to/humoyun/javascript-evolutsiyasi-qisqa-satrlarda-4c77)
-- [Dev.to/JS] [Serve your business/services on google&#39;s FIRST PAGE](https://dev.to/cefnogiseo/serve-your-businessservices-on-googles-first-page-4o5f)
+- [Dev.to/JS] [Quick Sort](https://dev.to/henryong92/quick-sort-14d9)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
 - [Lifehacker] [Anti-Allergy Face Wipes Aren&#39;t What You Think They Are](https://lifehacker.com/anti-allergy-face-wipes-are-bullshit-sort-of-1848911194)
