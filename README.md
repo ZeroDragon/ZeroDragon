@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [My Website redesign](https://dev.to/lukasw12v/my-website-redesign-4pia)
+- [Dev.to/JS] [Cloudy- a storage service to store your files &amp; folders](https://dev.to/gulshanaggarwal/cloudy-a-storage-service-to-store-your-files-folders-26aa)
+- [Dev.to/JS] [The JavaScript Array.filter&lpar;&rpar; method](https://dev.to/debs_obrien/the-javascript-arrayfilter-method-2eef)
+- [Dev.to/JS] [The JavaScript Array.at&lpar;&rpar; method](https://dev.to/debs_obrien/the-javascript-arrayat-method-1eh)
+- [Lifehacker] [The Most Overrated Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-and-where-to-g-1848911182)
+- [Dev.to/JS] [Token injection in Angular](https://dev.to/es404020/token-injection-in-angular-4j16)
+- [Lifehacker] [Why You Should Plan Your Next Vacation on Google Travel Instead of a Spreadsheet](https://lifehacker.com/why-you-should-plan-your-next-vacation-on-google-travel-1848911324)
+- [Dev.to/JS] [Anyone to know how to create - Styled Components - Tags component?](https://dev.to/domolanya/anyone-to-know-how-to-create-styled-components-tags-component-3c8j)
 - [Dev.to/JS] [Random Meme Generator with Appwrite DEV.to Hackathon](https://dev.to/adityaaryam/random-meme-generator-with-appwrite-devto-hackathon-2ecj)
 - [Dev.to/JS] [You Don’t Need React to Create a Reusable Button!](https://dev.to/mariusbongarts/you-dont-need-react-to-create-a-reusable-button-25p8)
 - [Dev.to/JS] [Radix Sort](https://dev.to/henryong92/radix-sort-57p6)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Problem: turning an image into a canvas ignores the filters](https://dev.to/andybullet/turing-an-image-into-a-canvas-ignore-the-filters-3dg1)
 - [Dev.to/JS] [How to Use a Monorepo to Deploy Your Gatsby Ecommerce Storefront and Admin](https://dev.to/medusajs/how-to-use-a-monorepo-to-deploy-your-gatsby-ecommerce-storefront-and-admin-24kf)
 - [Dev.to/JS] [How to create SEO friendly documentation with DocZ? 📜✍️](https://dev.to/aviyel/how-to-create-seo-friendly-documentation-with-docz-1b9h)
-- [Dev.to/JS] [Anyone to know - Styled Component in React?](https://dev.to/domolanya/styled-component-in-react-52aa)
-- [Dev.to/JS] [Implementing SMACSS: A Scalable And Modular Architecture For CSS](https://dev.to/lambdatest/implementing-smacss-a-scalable-and-modular-architecture-for-css-607)
-- [Dev.to/JS] [Exhale CBD Gummies Reviews: It Is A Big Scam or Not?](https://dev.to/exhalecbdbuynow/exhale-cbd-gummies-reviews-it-is-a-big-scam-or-not-55ak)
-- [Dev.to/JS] [Hoisting and Temporal Dead Zone &lpar;TDZ&rpar; in JavaScript?](https://dev.to/devashishsethi/hoisting-and-temporal-dead-zone-tdz-in-javascript-fb3)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
 - [Lifehacker] [Anti-Allergy Face Wipes Aren&#39;t What You Think They Are](https://lifehacker.com/anti-allergy-face-wipes-are-bullshit-sort-of-1848911194)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Money Can Turning Off the Lights Really Save You?](https://lifehacker.com/how-much-money-can-turning-off-the-lights-really-save-y-1848906414)
 - [Lifehacker] [Are Nonstick Pans Bad For You?](https://lifehacker.com/are-nonstick-pans-bad-for-you-1848907371)
 - [Lifehacker] [You Should Make Yakamein in Your Instant Pot](https://lifehacker.com/you-should-make-yakamein-in-your-instant-pot-1848869641)
-- [Lifehacker] [Ten Websites Where You Can Find Free Stuff](https://lifehacker.com/ten-websites-where-you-can-find-free-stuff-1848905689)
-- [Lifehacker] [Don&#39;t Eat This &#39;Ready-to-Eat&#39; Chicken, USDA Says](https://lifehacker.com/dont-eat-this-ready-to-eat-chicken-usda-says-1848905229)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
