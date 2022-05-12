@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Typesafe useReducer with React Context](https://dev.to/kardell/typesafe-usereducer-with-react-context-53c3)
+- [Dev.to/JS] [The quick story of Crash-only System](https://dev.to/kedzierskidawid/the-quick-story-of-crash-only-system-3198)
+- [Dev.to/JS] [Writing a wrapper for console.log for better control in Angular, Part II](https://dev.to/ayyash/writing-a-wrapper-for-consolelog-for-better-control-in-angular-part-ii-11ij)
+- [Dev.to/JS] [Counting Sort](https://dev.to/henryong92/counting-sort-2jf)
+- [Dev.to/JS] [JavaScript Evolutsiyasi Qisqa Satrlarda!](https://dev.to/humoyun/javascript-evolutsiyasi-qisqa-satrlarda-4c77)
 - [Dev.to/JS] [Serve your business/services on google&#39;s FIRST PAGE](https://dev.to/cefnogiseo/serve-your-businessservices-on-googles-first-page-4o5f)
 - [Dev.to/JS] [Quick Sort](https://dev.to/henryong92/quick-sort-14d9)
 - [Dev.to/JS] [React, Vue and Svelte: Comparing Multi Select binding](https://dev.to/ccreusat/react-vue-and-svelte-comparing-multi-select-binding-17jk)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Shorts : null and undefined](https://dev.to/imkarthikeyan/javascript-shorts-null-and-undefined-32c6)
 - [Dev.to/JS] [How to use Spotify API with Next.js](https://dev.to/j471n/how-to-use-spotify-api-with-nextjs-50o5)
 - [Dev.to/JS] [JavaScript Technical Interview Questions 1](https://dev.to/aryakris/javascript-technical-interview-questions-1-1mel)
-- [Dev.to/JS] [Cryptography in Node.js](https://dev.to/rosekamallove/cryptography-in-nodejs-22ai)
-- [Dev.to/JS] [Geeking-out on SVG Graphics part-three](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-three-3adg)
-- [Dev.to/JS] [https://www.facebook.com/GlucoTrustReviewsOfficial/](https://dev.to/glucotreviews/httpswwwfacebookcomglucotrustreviewsofficial-525o)
-- [Dev.to/JS] [Merging two arrays and sort the resultant without sort functions using recursion in Javascript](https://dev.to/nsijwali/merging-two-arrays-and-sort-the-resultant-without-sort-functions-using-recursion-in-javascript-37f8)
-- [Dev.to/JS] [Selection Sort](https://dev.to/henryong92/selection-sort-4nl3)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
 - [Lifehacker] [Anti-Allergy Face Wipes Aren&#39;t What You Think They Are](https://lifehacker.com/anti-allergy-face-wipes-are-bullshit-sort-of-1848911194)
