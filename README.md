@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Technical Interview Questions 1](https://dev.to/aryakris/javascript-technical-interview-questions-1-1mel)
 - [Dev.to/JS] [Cryptography in Node.js](https://dev.to/rosekamallove/cryptography-in-nodejs-22ai)
 - [Dev.to/JS] [Geeking-out on SVG Graphics part-three](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-three-3adg)
 - [Dev.to/JS] [https://www.facebook.com/GlucoTrustReviewsOfficial/](https://dev.to/glucotreviews/httpswwwfacebookcomglucotrustreviewsofficial-525o)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Best Easiest Programming Languages to Learn In 2022](https://dev.to/codeavailcom/5-best-easiest-programming-languages-to-learn-in-2022-25)
 - [Dev.to/JS] [How’s the weather outside? Learn to integrate Site Kit in a Weather Application in React Native](https://dev.to/hmscommunity/hows-the-weather-outside-learn-to-integrate-site-kit-in-a-weather-application-in-react-native-3gnl)
 - [Dev.to/JS] [Generate Laravel PDF with Image Example](https://dev.to/codeanddeploy/generate-laravel-pdf-with-image-example-3i87)
-- [Dev.to/JS] [Ecosystem and Frameworks: My Role at Netlify](https://dev.to/nickytonline/ecosystem-and-frameworks-my-role-at-netlify-306b)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
 - [Lifehacker] [Anti-Allergy Face Wipes Aren&#39;t What You Think They Are](https://lifehacker.com/anti-allergy-face-wipes-are-bullshit-sort-of-1848911194)
