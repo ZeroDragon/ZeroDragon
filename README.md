@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Wrap Around a Range of Numbers with the Modulo](https://dev.to/jvon1904/how-to-wrap-around-a-range-of-numbers-with-the-modulo-cdo)
+- [Dev.to/JS] [Taskly - better way to manage your tasks](https://dev.to/capjavert/taskly-better-way-to-manage-your-tasks-2d2m)
+- [Dev.to/JS] [State management in React with MobX](https://dev.to/asayerio_techblog/state-management-in-react-with-mobx-4di2)
 - [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
 - [Dev.to/JS] [HopeKnight-Appwrite!](https://dev.to/smartmind12/hopeknight-appwrite-5g5g)
 - [Dev.to/JS] [The Best Design Pattern for React Component](https://dev.to/jurijs99/the-best-design-pattern-for-react-component-2i36)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Michelin Chef turned Software Engineer](https://dev.to/fabiojonathanarifin/michelin-chef-turned-software-engineer-35i0)
 - [Lifehacker] [Everything You Never Thought You’d Need to Know About Adult Ear Infections](https://lifehacker.com/everything-you-never-thought-you-d-need-to-know-about-a-1848917104)
 - [Dev.to/JS] [Simplest Uploader? Creating Powerful Node.js Object Uploader](https://dev.to/ali_a_koye/simplest-uploader-creating-powerful-nodejs-object-uploader-359o)
-- [Dev.to/JS] [Appwrite Submission Post MerkleWrite- A decentralised blogging website built using ethereum, defi and appwrite](https://dev.to/mbcse/appwrite-submission-post-merklewrite-a-decentralised-blogging-website-built-using-ethereum-defi-and-appwrite-2)
 - [Lifehacker] [Should You Cancel Your Streaming Subscriptions?](https://lifehacker.com/should-you-cancel-your-streaming-subscriptions-1848916913)
-- [Dev.to/JS] [Angular and RxJS: Refresh a Component From Another](https://dev.to/stackblogger/angular-and-rxjs-refresh-a-component-from-another-33ko)
-- [Dev.to/JS] [Businesses aren&#39;t using IoT data well, IoT Ensemble can help](https://dev.to/richkurtzman/businesses-arent-using-iot-data-well-iot-ensemble-can-help-10ee)
 - [Lifehacker] [How to Survive Sleeping in the Heat When You Don&#39;t Have Air Conditioning](https://lifehacker.com/how-to-survive-sleeping-in-the-heat-when-you-dont-have-1848917337)
 - [Lifehacker] [The Best &#39;Friend Date&#39; Ideas That Aren&#39;t Just Getting Drinks](https://lifehacker.com/the-best-friend-date-ideas-that-arent-just-getting-drin-1848917321)
 - [Lifehacker] [Edible Plates and Cutlery Are Good, Actually](https://lifehacker.com/edible-plates-and-cutlery-are-good-actually-1848916166)
