@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular and RxJS: Refresh a Component From Another](https://dev.to/stackblogger/angular-and-rxjs-refresh-a-component-from-another-33ko)
+- [Dev.to/JS] [Businesses aren&#39;t using IoT data well, IoT Ensemble can help](https://dev.to/richkurtzman/businesses-arent-using-iot-data-well-iot-ensemble-can-help-10ee)
+- [Lifehacker] [How to Survive Sleeping in the Heat When You Don&#39;t Have Air Conditioning](https://lifehacker.com/how-to-survive-sleeping-in-the-heat-when-you-dont-have-1848917337)
 - [Lifehacker] [The Best &#39;Friend Date&#39; Ideas That Aren&#39;t Just Getting Drinks](https://lifehacker.com/the-best-friend-date-ideas-that-arent-just-getting-drin-1848917321)
 - [Dev.to/JS] [Anonymous Controller](https://dev.to/raghavdhingra/anonymous-controller-49lo)
 - [Dev.to/JS] [Using SweetAlerts2](https://dev.to/bc_kelly/using-sweetalerts2-2a09)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Home Services in India - The Service Mitra](https://dev.to/theservicemitra/home-services-in-india-the-service-mitra-hne)
 - [Dev.to/JS] [You Can Actually Build Your Own...](https://dev.to/hr21don/you-can-actually-build-your-own-1ilf)
 - [Lifehacker] [Build Your Own &#39;Smokeless&#39; Fire Pit](https://lifehacker.com/build-your-own-smokeless-fire-pit-1848914910)
-- [Dev.to/JS] [Why Testing Your Code Is Important](https://dev.to/simeg/why-testing-your-code-is-important-2114)
-- [Dev.to/JS] [The DEV Analytical - More analytics on your posting](https://dev.to/surajondev/the-dev-analytical-more-analytics-on-your-posting-501i)
 - [Lifehacker] [The Easiest Way to Cook a Whole Bunch of Shrimp](https://lifehacker.com/the-easiest-way-to-cook-a-whole-bunch-of-shrimp-1848913687)
 - [Lifehacker] [Use the ‘Four Tendencies’ Quiz to Be More Productive](https://lifehacker.com/use-the-four-tendencies-quiz-to-be-more-productive-1848913191)
 - [Lifehacker] [The 7 Deadly Sins of a Best Man Speech](https://lifehacker.com/the-7-deadly-sins-of-a-best-man-speech-1848913435)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways to Repurpose an Old Garden Hose &lpar;Instead of Throwing It Away&rpar;](https://lifehacker.com/all-the-ways-to-repurpose-an-old-garden-hose-instead-o-1848909027)
 - [Lifehacker] [11 of the Best Exercises You Can Do on TRX Straps at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [15 Shows That Are Basically Lifestyle Porn](https://lifehacker.com/15-shows-that-are-basically-lifestyle-porn-1848901576)
-- [Lifehacker] [You Should Be Cutting These Foods With Dental Floss](https://lifehacker.com/you-should-be-cutting-these-foods-with-dental-floss-1848910295)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
