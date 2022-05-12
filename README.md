@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
+- [Dev.to/JS] [HopeKnight-Appwrite!](https://dev.to/smartmind12/hopeknight-appwrite-5g5g)
+- [Dev.to/JS] [The Best Design Pattern for React Component](https://dev.to/jurijs99/the-best-design-pattern-for-react-component-2i36)
+- [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
+- [Dev.to/JS] [Flatiron Phase1](https://dev.to/yluo3421/flatiron-phase1-15pi)
+- [Dev.to/JS] [Paracetamol.js💊| #115: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-115-explica-este-codigo-javascript-34gj)
+- [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
 - [Dev.to/JS] [Javascript reserved keywords || Javascriptdagi ta&#39;qiqlangan kalit so&#39;zlar](https://dev.to/dawroun/javascript-reserved-keywords-javascriptdagi-taqiqlangan-kalit-sozlar-5136)
 - [Dev.to/JS] [Best time to buy and sell stock](https://dev.to/juliansjy/best-time-to-buy-and-sell-stock-1mnh)
 - [Dev.to/JS] [#11: Share Content with Docusaurus &amp; Azure Static Web Apps](https://dev.to/azure/11-share-content-with-docusaurus-azure-static-web-apps-30hc)
@@ -35,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Businesses aren&#39;t using IoT data well, IoT Ensemble can help](https://dev.to/richkurtzman/businesses-arent-using-iot-data-well-iot-ensemble-can-help-10ee)
 - [Lifehacker] [How to Survive Sleeping in the Heat When You Don&#39;t Have Air Conditioning](https://lifehacker.com/how-to-survive-sleeping-in-the-heat-when-you-dont-have-1848917337)
 - [Lifehacker] [The Best &#39;Friend Date&#39; Ideas That Aren&#39;t Just Getting Drinks](https://lifehacker.com/the-best-friend-date-ideas-that-arent-just-getting-drin-1848917321)
-- [Dev.to/JS] [Anonymous Controller](https://dev.to/raghavdhingra/anonymous-controller-49lo)
-- [Dev.to/JS] [Using SweetAlerts2](https://dev.to/bc_kelly/using-sweetalerts2-2a09)
-- [Dev.to/JS] [Add personalized content to your docs with Markdoc, Next.js, and PropelAuth](https://dev.to/propelauth/add-personalized-content-to-your-docs-with-markdoc-nextjs-and-propelauth-8ee)
-- [Dev.to/JS] [Merge Two Sorted Lists Problem](https://dev.to/juliansjy/merge-two-sorted-lists-problem-l36)
 - [Lifehacker] [Edible Plates and Cutlery Are Good, Actually](https://lifehacker.com/edible-plates-and-cutlery-are-good-actually-1848916166)
 - [Lifehacker] [Use the 37% Rule to Make Better Decisions](https://lifehacker.com/use-the-37-rule-to-make-better-decisions-1848916008)
 - [Lifehacker] [Why the Pixel 6a Is Better Than the iPhone SE](https://lifehacker.com/why-the-pixel-6a-is-better-than-the-iphone-se-1848916012)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid Small Towns on Sundays, and Other Ways to Have a Better Road Trip](https://lifehacker.com/avoid-small-towns-on-sundays-and-other-ways-to-have-a-1848907843)
 - [Lifehacker] [Every Parent Needs to Heed These Tie-Dye Do&#39;s and Don&#39;ts](https://lifehacker.com/every-parent-needs-to-heed-these-tie-dye-dos-and-donts-1848906162)
 - [Lifehacker] [The Best Way to Bribe a Toddler to Eat Their Veggies](https://lifehacker.com/the-best-way-to-bribe-a-toddler-to-eat-their-veggies-1848909219)
-- [Lifehacker] [How to Tell If You Qualify for Discounted Internet From the Government](https://lifehacker.com/how-to-tell-if-you-qualify-for-discounted-internet-from-1848911370)
-- [Lifehacker] [Five of Our Favorite Cult Classic Movies](https://lifehacker.com/five-of-our-favorite-cult-classic-movies-1848911286)
-- [Lifehacker] [All the Ways to Repurpose an Old Garden Hose &lpar;Instead of Throwing It Away&rpar;](https://lifehacker.com/all-the-ways-to-repurpose-an-old-garden-hose-instead-o-1848909027)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
