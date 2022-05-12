@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best &#39;Friend Date&#39; Ideas That Aren&#39;t Just Getting Drinks](https://lifehacker.com/the-best-friend-date-ideas-that-arent-just-getting-drin-1848917321)
+- [Dev.to/JS] [Anonymous Controller](https://dev.to/raghavdhingra/anonymous-controller-49lo)
+- [Dev.to/JS] [Using SweetAlerts2](https://dev.to/bc_kelly/using-sweetalerts2-2a09)
+- [Dev.to/JS] [Add personalized content to your docs with Markdoc, Next.js, and PropelAuth](https://dev.to/propelauth/add-personalized-content-to-your-docs-with-markdoc-nextjs-and-propelauth-8ee)
+- [Dev.to/JS] [Merge Two Sorted Lists Problem](https://dev.to/juliansjy/merge-two-sorted-lists-problem-l36)
+- [Dev.to/JS] [The Complete Web Developer in 2022: Zero to Mastery](https://dev.to/aswin2001barath/the-complete-web-developer-in-2022-zero-to-mastery-5dm1)
+- [Lifehacker] [Edible Plates and Cutlery Are Good, Actually](https://lifehacker.com/edible-plates-and-cutlery-are-good-actually-1848916166)
 - [Lifehacker] [Use the 37% Rule to Make Better Decisions](https://lifehacker.com/use-the-37-rule-to-make-better-decisions-1848916008)
 - [Dev.to/JS] [Moder React Avatar 😎](https://dev.to/fathiimuhamed/moder-react-avatar-501k)
 - [Dev.to/JS] [Top 7 JavaScript Animation Libraries that you must know 🤓🤓](https://dev.to/ashishdonga/top-7-javascript-animation-libraries-that-you-must-know-pld)
@@ -34,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Build Your Own &#39;Smokeless&#39; Fire Pit](https://lifehacker.com/build-your-own-smokeless-fire-pit-1848914910)
 - [Dev.to/JS] [Why Testing Your Code Is Important](https://dev.to/simeg/why-testing-your-code-is-important-2114)
 - [Dev.to/JS] [The DEV Analytical - More analytics on your posting](https://dev.to/surajondev/the-dev-analytical-more-analytics-on-your-posting-501i)
-- [Dev.to/JS] [Created AnonPasteBin Using appwrite&#39;s Anonymous Login functionality](https://dev.to/sharadcodes/created-anonpastebin-using-appwrites-anonymous-login-functionality-2k1c)
 - [Lifehacker] [The Easiest Way to Cook a Whole Bunch of Shrimp](https://lifehacker.com/the-easiest-way-to-cook-a-whole-bunch-of-shrimp-1848913687)
-- [Dev.to/JS] [10 ES6 Concepts for React Developers](https://dev.to/iprankurpandey/10-es6-concepts-for-react-developers-4had)
 - [Lifehacker] [Use the ‘Four Tendencies’ Quiz to Be More Productive](https://lifehacker.com/use-the-four-tendencies-quiz-to-be-more-productive-1848913191)
 - [Lifehacker] [The 7 Deadly Sins of a Best Man Speech](https://lifehacker.com/the-7-deadly-sins-of-a-best-man-speech-1848913435)
-- [Dev.to/JS] [Run Next.js functions in the background with events and cron schedules](https://dev.to/djfarrelly/run-nextjs-functions-in-the-background-with-events-and-cron-schedules-g7g)
-- [Dev.to/JS] [5 maneiras de exibir dados com Javascript](https://dev.to/fraconca/5-maneiras-de-exibir-para-exibir-dados-com-javascript-n90)
-- [Dev.to/JS] [✨ Conditional rendering in React with finesse](https://dev.to/brettthurs10/conditional-rendering-in-react-with-finesse-5eod)
 - [Lifehacker] [The Only States That Teach Personal Finance &lpar;and What You’ll Have to Teach Kids Yourself&rpar;](https://lifehacker.com/the-only-states-that-teach-personal-finance-and-what-y-1848912220)
 - [Lifehacker] [The Most Overrated Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-and-where-to-g-1848911182)
 - [Lifehacker] [Why You Should Plan Your Next Vacation on Google Travel Instead of a Spreadsheet](https://lifehacker.com/why-you-should-plan-your-next-vacation-on-google-travel-1848911324)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 of the Best Exercises You Can Do on TRX Straps at the Gym](https://lifehacker.com/11-of-the-best-exercises-you-can-do-on-trx-straps-at-th-1848908010)
 - [Lifehacker] [15 Shows That Are Basically Lifestyle Porn](https://lifehacker.com/15-shows-that-are-basically-lifestyle-porn-1848901576)
 - [Lifehacker] [You Should Be Cutting These Foods With Dental Floss](https://lifehacker.com/you-should-be-cutting-these-foods-with-dental-floss-1848910295)
-- [Lifehacker] [13 Clever Ways to Create More Storage Space in Your Home](https://lifehacker.com/13-clever-ways-to-create-more-storage-space-in-your-hom-1848905348)
-- [Lifehacker] [Enough With the Pop Culture-Themed Weddings, I Beg of You](https://lifehacker.com/enough-with-the-pop-culture-themed-weddings-i-beg-of-y-1848905625)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
