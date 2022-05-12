@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use the 37% Rule to Make Better Decisions](https://lifehacker.com/use-the-37-rule-to-make-better-decisions-1848916008)
+- [Dev.to/JS] [Moder React Avatar 😎](https://dev.to/fathiimuhamed/moder-react-avatar-501k)
+- [Dev.to/JS] [Top 7 JavaScript Animation Libraries that you must know 🤓🤓](https://dev.to/ashishdonga/top-7-javascript-animation-libraries-that-you-must-know-pld)
+- [Dev.to/JS] [Day-86 Training At Ryaz](https://dev.to/mahin651/day-86-training-at-ryaz-lmi)
+- [Lifehacker] [Why the Pixel 6a Is Better Than the iPhone SE](https://lifehacker.com/why-the-pixel-6a-is-better-than-the-iphone-se-1848916012)
+- [Lifehacker] [Customize Your Mouse With This Mac App](https://lifehacker.com/customize-your-mouse-with-this-mac-app-1848904910)
 - [Dev.to/JS] [Home Services in India - The Service Mitra](https://dev.to/theservicemitra/home-services-in-india-the-service-mitra-hne)
 - [Dev.to/JS] [You Can Actually Build Your Own...](https://dev.to/hr21don/you-can-actually-build-your-own-1ilf)
 - [Lifehacker] [Build Your Own &#39;Smokeless&#39; Fire Pit](https://lifehacker.com/build-your-own-smokeless-fire-pit-1848914910)
@@ -36,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Run Next.js functions in the background with events and cron schedules](https://dev.to/djfarrelly/run-nextjs-functions-in-the-background-with-events-and-cron-schedules-g7g)
 - [Dev.to/JS] [5 maneiras de exibir dados com Javascript](https://dev.to/fraconca/5-maneiras-de-exibir-para-exibir-dados-com-javascript-n90)
 - [Dev.to/JS] [✨ Conditional rendering in React with finesse](https://dev.to/brettthurs10/conditional-rendering-in-react-with-finesse-5eod)
-- [Dev.to/JS] [Unique Values Counter](https://dev.to/henryong92/unique-values-counter-20pd)
-- [Dev.to/JS] [[TRACKER] Never Lose Track of a Job Application](https://dev.to/codewarsfx/tracker-never-lose-track-of-a-job-application-236e)
 - [Lifehacker] [The Only States That Teach Personal Finance &lpar;and What You’ll Have to Teach Kids Yourself&rpar;](https://lifehacker.com/the-only-states-that-teach-personal-finance-and-what-y-1848912220)
-- [Dev.to/JS] [Cloudy- a storage service to store your files &amp; folders](https://dev.to/gulshanaggarwal/cloudy-a-storage-service-to-store-your-files-folders-26aa)
 - [Lifehacker] [The Most Overrated Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-and-where-to-g-1848911182)
 - [Lifehacker] [Why You Should Plan Your Next Vacation on Google Travel Instead of a Spreadsheet](https://lifehacker.com/why-you-should-plan-your-next-vacation-on-google-travel-1848911324)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be Cutting These Foods With Dental Floss](https://lifehacker.com/you-should-be-cutting-these-foods-with-dental-floss-1848910295)
 - [Lifehacker] [13 Clever Ways to Create More Storage Space in Your Home](https://lifehacker.com/13-clever-ways-to-create-more-storage-space-in-your-hom-1848905348)
 - [Lifehacker] [Enough With the Pop Culture-Themed Weddings, I Beg of You](https://lifehacker.com/enough-with-the-pop-culture-themed-weddings-i-beg-of-y-1848905625)
-- [Lifehacker] [You Need to Update Windows Right Now](https://lifehacker.com/you-need-to-update-windows-right-now-1848909833)
-- [Lifehacker] [Is Your Food Delivery Coming From a &#39;Ghost Kitchen&#39;?](https://lifehacker.com/is-your-food-delivery-coming-from-a-ghost-kitchen-1848907749)
-- [Lifehacker] [Why a Rainy Day Is the Perfect Day to House-Hunt &lpar;and What to Look for While You’re There&rpar;](https://lifehacker.com/why-a-rainy-day-is-the-perfect-day-to-house-hunt-and-w-1848905014)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
