@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Face Scan](https://dev.to/prajyu/face-scan-2770)
+- [Dev.to/JS] [Pensioner&#39;s Portal](https://dev.to/abhinandh_c/pensioners-portal-4k79)
+- [Dev.to/JS] [Chapter 2: Welcome to my application.](https://dev.to/thisismeaditya/chapter-2-welcome-to-my-application-4j7)
+- [Lifehacker] [How to Fix Slow Messaging on Your Pixel](https://lifehacker.com/how-to-fix-slow-messaging-on-your-pixel-1848921960)
+- [Dev.to/JS] [Any idea on where one can learn JavaScript really well on YouTube ?](https://dev.to/wonuola_w/any-idea-on-where-one-can-learn-javascript-really-well-on-youtube--1753)
+- [Dev.to/JS] [Fully Responsive UP Business Landing PageTemplate](https://dev.to/kumard3/fully-responsive-up-business-landing-pagetemplate-16jh)
+- [Dev.to/JS] [Twitter bots](https://dev.to/toust/twitter-bots-4gm5)
+- [Dev.to/JS] [Hoisting and Temporal Dead Zone &lpar;TDZ&rpar;](https://dev.to/surajmore98/hoisting-and-temporal-dead-zone-tdz-580o)
 - [Dev.to/JS] [Paracetamol.js💊| #116: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-116-explica-este-codigo-javascript-5fmd)
 - [Dev.to/JS] [Tutorial: Learn how to reverse a string in Javascript](https://dev.to/judis07/tutorial-learn-how-to-reverse-a-string-in-javascript-58fn)
 - [Dev.to/JS] [🍔Animated Menu Toggle Button | Html CSS &amp; Javascript](https://dev.to/robsonmuniz16/animated-menu-toggle-button-html-css-javascript-296a)
@@ -32,14 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fight a Goose and Win &lpar;Just Kidding, You Won’t Win&rpar;](https://lifehacker.com/how-to-fight-a-goose-and-win-just-kidding-you-won-t-w-1848918670)
 - [Dev.to/JS] [Chapter 1: Building my first full scale app.](https://dev.to/thisismeaditya/chapter-1-building-my-first-full-scale-app-2l9)
 - [Dev.to/JS] [JavaScript Classes pt. 1](https://dev.to/wonuola_w/javascript-classes-pt-1-1k3)
-- [Dev.to/JS] [How to implement Two-Factor Authentication using Next.js, Twilio and Altogic](https://dev.to/altogic/how-to-implement-two-factor-authentication-using-nextjs-twilio-and-altogic-ok0)
-- [Dev.to/JS] [Destructuring Assignment](https://dev.to/flocodes/destructuring-assignment-1han)
-- [Dev.to/JS] [Coding World](https://dev.to/flocodes/coding-world-3d75)
 - [Lifehacker] [12 Myths About Sunscreen You Need to Stop Believing](https://lifehacker.com/12-myths-about-sunscreen-you-need-to-stop-believing-1848916363)
-- [Dev.to/JS] [6 essential skills for React web developers](https://dev.to/joseph_kitheka/6-essential-skills-for-react-web-developers-12g1)
-- [Dev.to/JS] [Setup jest from scratch in a vanilla js project.](https://dev.to/manuartero/setup-jest-from-scratch-in-a-vanilla-js-project-47o0)
-- [Dev.to/JS] [Top 10 trending github repos of the week🏆.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-58o5)
-- [Dev.to/JS] [Implementing Route Protection in Angular using CanActivate](https://dev.to/syncfusion/implementing-route-protection-in-angular-using-canactivate-3ppl)
 - [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
 - [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
 - [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Overrated Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-and-where-to-g-1848911182)
 - [Lifehacker] [Why You Should Plan Your Next Vacation on Google Travel Instead of a Spreadsheet](https://lifehacker.com/why-you-should-plan-your-next-vacation-on-google-travel-1848911324)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
-- [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
