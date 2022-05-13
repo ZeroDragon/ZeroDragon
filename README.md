@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day-87 Training At Ryaz](https://dev.to/mahin651/day-87-training-at-ryaz-3hjc)
+- [Dev.to/JS] [Introducing BibleUp: A Web Tool For Bible References 💡](https://dev.to/bukunmikuti/introducing-bibleup-a-web-tool-for-bible-references-8nb)
+- [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
+- [Dev.to/JS] [Promises Methods- At a glance](https://dev.to/aditi05/promises-methods-at-a-glance-4d88)
+- [Lifehacker] [How Much RAM Do You Really Need?](https://lifehacker.com/how-much-ram-do-you-really-need-1848924012)
 - [Dev.to/JS] [Hide API key without Node](https://dev.to/route15/hide-api-key-without-node-4gkc)
 - [Lifehacker] [7 Gross Food Myths That Don&#39;t Make Sense &lpar;but People Still Believe&rpar;](https://lifehacker.com/7-gross-food-myths-that-dont-make-sense-but-people-sti-1848919243)
 - [Lifehacker] [How to Really Decide How Early to Get to the Airport](https://lifehacker.com/how-to-really-decide-how-early-to-get-to-the-airport-1848923019)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Symfony Station Communiqué — 13 May 2022. A look at Symfony, PHP, and Cybersecurity News!](https://dev.to/reubenwalker64/symfony-station-communique-13-may-2022-a-look-at-symfony-php-and-cybersecurity-news-2156)
 - [Dev.to/JS] [Data structure everywhere](https://dev.to/kinginthenorthcodez/data-structure-everywhere-292d)
 - [Dev.to/JS] [What&#39;s you&#39;re best Code Editor?](https://dev.to/hvm3/whats-youre-best-code-editor-94m)
-- [Dev.to/JS] [What&#39;s you&#39;re favorite programming language?](https://dev.to/hvm3/whats-youre-favorite-programming-language-2hlh)
 - [Lifehacker] [25 of the Most Expensive Movies Ever, Adjusted for Inflation](https://lifehacker.com/25-of-the-most-expensive-movies-ever-adjusted-for-infl-1848910713)
-- [Dev.to/JS] [Extracting reactive component logic in Svelte and Vue](https://dev.to/vmoe/extracting-reactive-component-logic-in-svelte-and-vue-8c7)
-- [Dev.to/JS] [Cache a response in Vercel using SSR and serverless functions in SvelteKit](https://dev.to/aspnxdd/cache-a-response-in-vercel-using-ssr-and-serverless-functions-in-svelte-kit-g92)
 - [Lifehacker] [These Are the Best Alternatives to a Keurig](https://lifehacker.com/these-are-the-best-alternatives-to-a-keurig-1848922199)
 - [Lifehacker] [How to Fix Slow Messaging on Your Pixel](https://lifehacker.com/how-to-fix-slow-messaging-on-your-pixel-1848921960)
 - [Lifehacker] [10 Google I/O Reveals You Probably Missed](https://lifehacker.com/10-of-the-best-google-i-o-reveals-you-probably-missed-1848921119)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best &#39;Friend Date&#39; Ideas That Aren&#39;t Just Getting Drinks](https://lifehacker.com/the-best-friend-date-ideas-that-arent-just-getting-drin-1848917321)
 - [Lifehacker] [Edible Plates and Cutlery Are Good, Actually](https://lifehacker.com/edible-plates-and-cutlery-are-good-actually-1848916166)
 - [Lifehacker] [Use the 37% Rule to Make Better Decisions](https://lifehacker.com/use-the-37-rule-to-make-better-decisions-1848916008)
-- [Lifehacker] [Why the Pixel 6a Is Better Than the iPhone SE](https://lifehacker.com/why-the-pixel-6a-is-better-than-the-iphone-se-1848916012)
-- [Lifehacker] [Customize Your Mouse With This Mac App](https://lifehacker.com/customize-your-mouse-with-this-mac-app-1848904910)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
