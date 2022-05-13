@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #116: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-116-explica-este-codigo-javascript-5fmd)
+- [Dev.to/JS] [Tutorial: Learn how to reverse a string in Javascript](https://dev.to/judis07/tutorial-learn-how-to-reverse-a-string-in-javascript-58fn)
+- [Dev.to/JS] [🍔Animated Menu Toggle Button | Html CSS &amp; Javascript](https://dev.to/robsonmuniz16/animated-menu-toggle-button-html-css-javascript-296a)
+- [Lifehacker] [10 Google I/O Reveals You Probably Missed](https://lifehacker.com/10-of-the-best-google-i-o-reveals-you-probably-missed-1848921119)
+- [Lifehacker] [Paint a Stenciled Pattern Onto That Old Concrete Patio](https://lifehacker.com/paint-a-stenciled-pattern-onto-that-old-concrete-patio-1848920075)
 - [Lifehacker] [The Difference Between Honing and Sharpening Your Knives &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-honing-and-sharpening-your-knive-1848919780)
 - [Lifehacker] [How to Fight a Goose and Win &lpar;Just Kidding, You Won’t Win&rpar;](https://lifehacker.com/how-to-fight-a-goose-and-win-just-kidding-you-won-t-w-1848918670)
 - [Dev.to/JS] [Chapter 1: Building my first full scale app.](https://dev.to/thisismeaditya/chapter-1-building-my-first-full-scale-app-2l9)
@@ -35,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setup jest from scratch in a vanilla js project.](https://dev.to/manuartero/setup-jest-from-scratch-in-a-vanilla-js-project-47o0)
 - [Dev.to/JS] [Top 10 trending github repos of the week🏆.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-58o5)
 - [Dev.to/JS] [Implementing Route Protection in Angular using CanActivate](https://dev.to/syncfusion/implementing-route-protection-in-angular-using-canactivate-3ppl)
-- [Dev.to/JS] [Ahmedabad Escorts Service](https://dev.to/diyaescorts/ahmedabad-escorts-service-48ep)
-- [Dev.to/JS] [6 Unique APIs For Your Next Project Along With Ideas](https://dev.to/anuragkanoria11/6-unique-apis-for-your-next-project-along-with-ideas-2h42)
-- [Dev.to/JS] [Introducing Klay - An end-to-end encrypted chat application](https://dev.to/arnu515/introducing-klay-an-end-to-end-encrypted-chat-application-6lp)
 - [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
 - [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
 - [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Plan Your Next Vacation on Google Travel Instead of a Spreadsheet](https://lifehacker.com/why-you-should-plan-your-next-vacation-on-google-travel-1848911324)
 - [Lifehacker] [How to Navigate Air Travel When You&#39;re Breastfeeding](https://lifehacker.com/how-to-navigate-air-travel-when-youre-breastfeeding-1848912901)
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
-- [Lifehacker] [Anti-Allergy Face Wipes Aren&#39;t What You Think They Are](https://lifehacker.com/anti-allergy-face-wipes-are-bullshit-sort-of-1848911194)
-- [Lifehacker] [The Best French Toast Sticks Are Made With Stale Hot Dog Buns](https://lifehacker.com/the-best-french-toast-sticks-are-made-with-stale-hot-do-1848912873)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
