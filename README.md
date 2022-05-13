@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NextJS Authentication With Social OAuth Provider&#39;s-Next-Auth &lpar;full course 2022&rpar;](https://dev.to/flutter_hub/nextjs-authentication-with-social-oauth-providers-next-auth-full-course-2022-1o50)
+- [Dev.to/JS] [VS Code plugin to share errors easily](https://dev.to/royaljain/vs-code-plugin-to-share-errors-easily-4ml0)
 - [Dev.to/JS] [JavaScript Technical Interview Questions 2](https://dev.to/aryakris/javascript-technical-interview-questions-2-984)
 - [Dev.to/JS] [For-Loop in JavaScript](https://dev.to/aryakris/for-loop-in-javascript-169e)
 - [Dev.to/JS] [Load More Data in Laravel Using Ajax jQuery](https://dev.to/techsolutionstuff/load-more-data-in-laravel-using-ajax-jquery-3d84)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing VisualBox ! Animation and Motion Graphics Builder](https://dev.to/vishnuxx/introducing-visualbox-animation-and-motion-graphics-builder-1791)
 - [Dev.to/JS] [Validando links com o Promise.all&lpar; &rpar;!](https://dev.to/ricardogithub84/validando-links-com-o-promiseall--43b1)
 - [Dev.to/JS] [Codeswap - Submission for Appwrite&#39;s + DEV Hackathon](https://dev.to/llxd/codeswap-submission-for-appwrites-dev-hackathon-37ol)
-- [Dev.to/JS] [Completing Phase 1 &lpar;JavaScript &amp; Code Challenge&rpar;.. part 2](https://dev.to/inversed/completing-phase-1-javascript-code-challenge-part-2-jp)
-- [Dev.to/JS] [Execute a function with arguments using chrome extension scripting API](https://dev.to/awalakaushik/execute-a-function-with-arguments-using-chrome-extension-scripting-api-2b7m)
 - [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
 - [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
 - [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
