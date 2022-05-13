@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Find The Average Pair](https://dev.to/henryong92/multi-pointers-question-2-3hj9)
+- [Dev.to/JS] [GlucoTrust Reviews: Read All Warning Report And Deals!!](https://dev.to/glucotrustbuy/glucotrust-reviews-read-all-warning-report-and-deals-2ph8)
+- [Dev.to/JS] [Duplicate Arguments](https://dev.to/henryong92/frequency-counter-question-2-15jl)
+- [Dev.to/JS] [Can I use next-seo in my angular project ?](https://dev.to/sunysunysuny/can-i-use-next-seo-in-my-angular-project--2la2)
 - [Dev.to/JS] [Understanding linked lists using JavaScript](https://dev.to/chukwutosin_/understanding-linked-lists-using-javascript-138h)
 - [Dev.to/JS] [Creating a component design system using React, TypeScript and Storybook](https://dev.to/andrewbaisden/creating-a-component-design-system-using-react-typescript-and-storybook-381g)
 - [Dev.to/JS] [The Adapter Pattern?](https://dev.to/vikirobles/adapter-pattern-hbo)
-- [Dev.to/JS] [Frequency Counter Question](https://dev.to/henryong92/frequency-counter-question-2baf)
+- [Dev.to/JS] [Valid Numeric Anagram](https://dev.to/henryong92/frequency-counter-question-2baf)
 - [Dev.to/JS] [Call, Bind and Apply - The Trinity](https://dev.to/aditi05/call-bind-and-apply-the-trinity-19eb)
 - [Dev.to/JS] [PDFToImage PDF Box](https://dev.to/mshafnas125/pdftoimage-pdf-box-2mjn)
 - [Dev.to/JS] [How to change navbar style on scroll in React JS/Next JS](https://dev.to/bilalmohib/how-to-change-navbar-style-on-scroll-in-react-jsnext-js-582n)
 - [Dev.to/JS] [Redux Toolkit: createAsyncThunk](https://dev.to/pritamkr_63/redux-toolkit-createasyncthunk-2792)
-- [Dev.to/JS] [NextJS Authentication With Social OAuth Provider&#39;s-Next-Auth &lpar;full course 2022&rpar;](https://dev.to/flutter_hub/nextjs-authentication-with-social-oauth-providers-next-auth-full-course-2022-1o50)
-- [Dev.to/JS] [VS Code plugin to share errors easily](https://dev.to/royaljain/vs-code-plugin-to-share-errors-easily-4ml0)
-- [Dev.to/JS] [JavaScript Technical Interview Questions 2](https://dev.to/aryakris/javascript-technical-interview-questions-2-984)
-- [Dev.to/JS] [For-Loop in JavaScript](https://dev.to/aryakris/for-loop-in-javascript-169e)
 - [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
 - [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
 - [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
