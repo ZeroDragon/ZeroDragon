@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Load More Data in Laravel Using Ajax jQuery](https://dev.to/techsolutionstuff/load-more-data-in-laravel-using-ajax-jquery-3d84)
 - [Dev.to/JS] [Stop Missing Out On A Trouble-Free Trip With This Advice](https://dev.to/topcarsminicab/stop-missing-out-on-a-trouble-free-trip-with-this-advice-3mp7)
 - [Dev.to/JS] [Binary search algorithm implementation in JavaScript](https://dev.to/bvnkumar/binary-search-javascript-algorithm-9j9)
 - [Dev.to/JS] [Javascript Loops](https://dev.to/carlos0318/javascript-loops-6c)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Execute a function with arguments using chrome extension scripting API](https://dev.to/awalakaushik/execute-a-function-with-arguments-using-chrome-extension-scripting-api-2b7m)
 - [Dev.to/JS] [How to Wrap Around a Range of Numbers with the Modulo](https://dev.to/jvon1904/how-to-wrap-around-a-range-of-numbers-with-the-modulo-cdo)
 - [Dev.to/JS] [Taskly - better way to manage your tasks](https://dev.to/capjavert/taskly-better-way-to-manage-your-tasks-2d2m)
-- [Dev.to/JS] [State management in React with MobX](https://dev.to/asayerio_techblog/state-management-in-react-with-mobx-4di2)
 - [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
 - [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
 - [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
