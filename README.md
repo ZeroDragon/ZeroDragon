@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Really Decide How Early to Get to the Airport](https://lifehacker.com/how-to-really-decide-how-early-to-get-to-the-airport-1848923019)
+- [Dev.to/JS] [Using Webpack with Typescript](https://dev.to/evanhameed99/using-webpack-with-typescript-10g1)
+- [Dev.to/JS] [Client-Side Routing vs. Server-Side Routing with React Router](https://dev.to/bradbieselin/client-side-routing-vs-server-side-routing-with-react-router-l79)
+- [Dev.to/JS] [Top 3 Coding Tutorials of the Week](https://dev.to/codecast/top-3-coding-tutorials-of-the-week-45kl)
+- [Lifehacker] [Why Zoomed Photos Look Bad on Your iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/why-zoomed-photos-look-bad-on-your-iphone-and-how-to-f-1848922895)
 - [Dev.to/JS] [Embedded videos with react but make it easy.](https://dev.to/montgomerykate/embedded-videos-with-react-but-make-it-easy-2123)
 - [Lifehacker] [Get &#39;Girl Drink Drunk&#39; With a Strawberry Daiquiri](https://lifehacker.com/get-girl-drink-drunk-with-a-strawberry-daiquiri-1848922988)
 - [Dev.to/JS] [Function Composition in Javascript](https://dev.to/nsijwali/function-composition-in-javascript-158e)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cache a response in Vercel using SSR and serverless functions in SvelteKit](https://dev.to/aspnxdd/cache-a-response-in-vercel-using-ssr-and-serverless-functions-in-svelte-kit-g92)
 - [Dev.to/JS] [JavaScript Array Methods : Concat&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-concat-2e13)
 - [Lifehacker] [These Are the Best Alternatives to a Keurig](https://lifehacker.com/these-are-the-best-alternatives-to-a-keurig-1848922199)
-- [Dev.to/JS] [Face Scan project to socialize](https://dev.to/prajyu/face-scan-2770)
-- [Dev.to/JS] [Pensioner&#39;s Portal](https://dev.to/abhinandh_c/pensioners-portal-4k79)
-- [Dev.to/JS] [Chapter 2: Welcome to my application.](https://dev.to/thisismeaditya/chapter-2-welcome-to-my-application-4j7)
 - [Lifehacker] [How to Fix Slow Messaging on Your Pixel](https://lifehacker.com/how-to-fix-slow-messaging-on-your-pixel-1848921960)
 - [Lifehacker] [10 Google I/O Reveals You Probably Missed](https://lifehacker.com/10-of-the-best-google-i-o-reveals-you-probably-missed-1848921119)
 - [Lifehacker] [Paint a Stenciled Pattern Onto That Old Concrete Patio](https://lifehacker.com/paint-a-stenciled-pattern-onto-that-old-concrete-patio-1848920075)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why the Pixel 6a Is Better Than the iPhone SE](https://lifehacker.com/why-the-pixel-6a-is-better-than-the-iphone-se-1848916012)
 - [Lifehacker] [Customize Your Mouse With This Mac App](https://lifehacker.com/customize-your-mouse-with-this-mac-app-1848904910)
 - [Lifehacker] [Build Your Own &#39;Smokeless&#39; Fire Pit](https://lifehacker.com/build-your-own-smokeless-fire-pit-1848914910)
-- [Lifehacker] [The Easiest Way to Cook a Whole Bunch of Shrimp](https://lifehacker.com/the-easiest-way-to-cook-a-whole-bunch-of-shrimp-1848913687)
-- [Lifehacker] [Use the ‘Four Tendencies’ Quiz to Be More Productive](https://lifehacker.com/use-the-four-tendencies-quiz-to-be-more-productive-1848913191)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
