@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Honing and Sharpening Your Knives &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-honing-and-sharpening-your-knive-1848919780)
 - [Lifehacker] [How to Fight a Goose and Win &lpar;Just Kidding, You Won’t Win&rpar;](https://lifehacker.com/how-to-fight-a-goose-and-win-just-kidding-you-won-t-w-1848918670)
 - [Dev.to/JS] [Chapter 1: Building my first full scale app.](https://dev.to/thisismeaditya/chapter-1-building-my-first-full-scale-app-2l9)
 - [Dev.to/JS] [JavaScript Classes pt. 1](https://dev.to/wonuola_w/javascript-classes-pt-1-1k3)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the New Android Features Announced at Google I/O](https://lifehacker.com/all-the-new-android-features-announced-at-google-i-o-1848912756)
 - [Lifehacker] [Anti-Allergy Face Wipes Aren&#39;t What You Think They Are](https://lifehacker.com/anti-allergy-face-wipes-are-bullshit-sort-of-1848911194)
 - [Lifehacker] [The Best French Toast Sticks Are Made With Stale Hot Dog Buns](https://lifehacker.com/the-best-french-toast-sticks-are-made-with-stale-hot-do-1848912873)
-- [Lifehacker] [Avoid Small Towns on Sundays, and Other Ways to Have a Better Road Trip](https://lifehacker.com/avoid-small-towns-on-sundays-and-other-ways-to-have-a-1848907843)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
