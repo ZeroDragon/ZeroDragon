@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [6 Unique APIs For Your Next Project Along With Ideas](https://dev.to/anuragkanoria11/6-unique-apis-for-your-next-project-along-with-ideas-2h42)
+- [Dev.to/JS] [Introducing Klay - An end-to-end encrypted chat application](https://dev.to/arnu515/introducing-klay-an-end-to-end-encrypted-chat-application-6lp)
 - [Dev.to/JS] [Find The Average Pair](https://dev.to/henryong92/multi-pointers-question-2-3hj9)
 - [Dev.to/JS] [GlucoTrust Reviews: Read All Warning Report And Deals!!](https://dev.to/glucotrustbuy/glucotrust-reviews-read-all-warning-report-and-deals-2ph8)
 - [Dev.to/JS] [Duplicate Arguments](https://dev.to/henryong92/frequency-counter-question-2-15jl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Valid Numeric Anagram](https://dev.to/henryong92/frequency-counter-question-2baf)
 - [Dev.to/JS] [Call, Bind and Apply - The Trinity](https://dev.to/aditi05/call-bind-and-apply-the-trinity-19eb)
 - [Dev.to/JS] [PDFToImage PDF Box](https://dev.to/mshafnas125/pdftoimage-pdf-box-2mjn)
-- [Dev.to/JS] [How to change navbar style on scroll in React JS/Next JS](https://dev.to/bilalmohib/how-to-change-navbar-style-on-scroll-in-react-jsnext-js-582n)
-- [Dev.to/JS] [Redux Toolkit: createAsyncThunk](https://dev.to/pritamkr_63/redux-toolkit-createasyncthunk-2792)
 - [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
 - [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
 - [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
