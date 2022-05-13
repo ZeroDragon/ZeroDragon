@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hide API key without Node](https://dev.to/route15/hide-api-key-without-node-4gkc)
+- [Lifehacker] [7 Gross Food Myths That Don&#39;t Make Sense &lpar;but People Still Believe&rpar;](https://lifehacker.com/7-gross-food-myths-that-dont-make-sense-but-people-sti-1848919243)
 - [Lifehacker] [How to Really Decide How Early to Get to the Airport](https://lifehacker.com/how-to-really-decide-how-early-to-get-to-the-airport-1848923019)
 - [Dev.to/JS] [Using Webpack with Typescript](https://dev.to/evanhameed99/using-webpack-with-typescript-10g1)
 - [Dev.to/JS] [Client-Side Routing vs. Server-Side Routing with React Router](https://dev.to/bradbieselin/client-side-routing-vs-server-side-routing-with-react-router-l79)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Most Expensive Movies Ever, Adjusted for Inflation](https://lifehacker.com/25-of-the-most-expensive-movies-ever-adjusted-for-infl-1848910713)
 - [Dev.to/JS] [Extracting reactive component logic in Svelte and Vue](https://dev.to/vmoe/extracting-reactive-component-logic-in-svelte-and-vue-8c7)
 - [Dev.to/JS] [Cache a response in Vercel using SSR and serverless functions in SvelteKit](https://dev.to/aspnxdd/cache-a-response-in-vercel-using-ssr-and-serverless-functions-in-svelte-kit-g92)
-- [Dev.to/JS] [JavaScript Array Methods : Concat&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-concat-2e13)
 - [Lifehacker] [These Are the Best Alternatives to a Keurig](https://lifehacker.com/these-are-the-best-alternatives-to-a-keurig-1848922199)
 - [Lifehacker] [How to Fix Slow Messaging on Your Pixel](https://lifehacker.com/how-to-fix-slow-messaging-on-your-pixel-1848921960)
 - [Lifehacker] [10 Google I/O Reveals You Probably Missed](https://lifehacker.com/10-of-the-best-google-i-o-reveals-you-probably-missed-1848921119)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use the 37% Rule to Make Better Decisions](https://lifehacker.com/use-the-37-rule-to-make-better-decisions-1848916008)
 - [Lifehacker] [Why the Pixel 6a Is Better Than the iPhone SE](https://lifehacker.com/why-the-pixel-6a-is-better-than-the-iphone-se-1848916012)
 - [Lifehacker] [Customize Your Mouse With This Mac App](https://lifehacker.com/customize-your-mouse-with-this-mac-app-1848904910)
-- [Lifehacker] [Build Your Own &#39;Smokeless&#39; Fire Pit](https://lifehacker.com/build-your-own-smokeless-fire-pit-1848914910)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
