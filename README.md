@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Embedded videos with react but make it easy.](https://dev.to/montgomerykate/embedded-videos-with-react-but-make-it-easy-2123)
+- [Lifehacker] [Get &#39;Girl Drink Drunk&#39; With a Strawberry Daiquiri](https://lifehacker.com/get-girl-drink-drunk-with-a-strawberry-daiquiri-1848922988)
+- [Dev.to/JS] [Function Composition in Javascript](https://dev.to/nsijwali/function-composition-in-javascript-158e)
+- [Lifehacker] [This Chrome Extension Helps You Work Less](https://lifehacker.com/this-chrome-extension-helps-you-work-less-1848918834)
+- [Lifehacker] [How to Know If You Have a Fear of Abandonment &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-know-if-you-have-a-fear-of-abandonment-and-what-1848908061)
 - [Dev.to/JS] [Symfony Station Communiqué — 13 May 2022. A look at Symfony, PHP, and Cybersecurity News!](https://dev.to/reubenwalker64/symfony-station-communique-13-may-2022-a-look-at-symfony-php-and-cybersecurity-news-2156)
 - [Dev.to/JS] [Data structure everywhere](https://dev.to/kinginthenorthcodez/data-structure-everywhere-292d)
 - [Dev.to/JS] [What&#39;s you&#39;re best Code Editor?](https://dev.to/hvm3/whats-youre-best-code-editor-94m)
@@ -36,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pensioner&#39;s Portal](https://dev.to/abhinandh_c/pensioners-portal-4k79)
 - [Dev.to/JS] [Chapter 2: Welcome to my application.](https://dev.to/thisismeaditya/chapter-2-welcome-to-my-application-4j7)
 - [Lifehacker] [How to Fix Slow Messaging on Your Pixel](https://lifehacker.com/how-to-fix-slow-messaging-on-your-pixel-1848921960)
-- [Dev.to/JS] [Any idea on where one can learn JavaScript really well on YouTube ?](https://dev.to/wonuola_w/any-idea-on-where-one-can-learn-javascript-really-well-on-youtube--1753)
-- [Dev.to/JS] [Fully Responsive UP Business Landing PageTemplate](https://dev.to/kumard3/fully-responsive-up-business-landing-pagetemplate-16jh)
 - [Lifehacker] [10 Google I/O Reveals You Probably Missed](https://lifehacker.com/10-of-the-best-google-i-o-reveals-you-probably-missed-1848921119)
 - [Lifehacker] [Paint a Stenciled Pattern Onto That Old Concrete Patio](https://lifehacker.com/paint-a-stenciled-pattern-onto-that-old-concrete-patio-1848920075)
 - [Lifehacker] [The Difference Between Honing and Sharpening Your Knives &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-honing-and-sharpening-your-knive-1848919780)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Build Your Own &#39;Smokeless&#39; Fire Pit](https://lifehacker.com/build-your-own-smokeless-fire-pit-1848914910)
 - [Lifehacker] [The Easiest Way to Cook a Whole Bunch of Shrimp](https://lifehacker.com/the-easiest-way-to-cook-a-whole-bunch-of-shrimp-1848913687)
 - [Lifehacker] [Use the ‘Four Tendencies’ Quiz to Be More Productive](https://lifehacker.com/use-the-four-tendencies-quiz-to-be-more-productive-1848913191)
-- [Lifehacker] [The 7 Deadly Sins of a Best Man Speech](https://lifehacker.com/the-7-deadly-sins-of-a-best-man-speech-1848913435)
-- [Lifehacker] [The Only States That Teach Personal Finance &lpar;and What You’ll Have to Teach Kids Yourself&rpar;](https://lifehacker.com/the-only-states-that-teach-personal-finance-and-what-y-1848912220)
-- [Lifehacker] [The Most Overrated Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-and-where-to-g-1848911182)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
