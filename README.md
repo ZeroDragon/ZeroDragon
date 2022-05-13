@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript Loops](https://dev.to/carlos0318/javascript-loops-6c)
+- [Dev.to/JS] [Handling Errors In JavaScript](https://dev.to/omoyemi/handling-errors-in-javascript-36g7)
+- [Dev.to/JS] [Introducing VisualBox ! Animation and Motion Graphics Builder](https://dev.to/vishnuxx/introducing-visualbox-animation-and-motion-graphics-builder-1791)
 - [Dev.to/JS] [Validando links com o Promise.all&lpar; &rpar;!](https://dev.to/ricardogithub84/validando-links-com-o-promiseall--43b1)
+- [Dev.to/JS] [Codeswap - Submission for Appwrite&#39;s + DEV Hackathon](https://dev.to/llxd/codeswap-submission-for-appwrites-dev-hackathon-37ol)
 - [Dev.to/JS] [Completing Phase 1 &lpar;JavaScript &amp; Code Challenge&rpar;.. part 2](https://dev.to/inversed/completing-phase-1-javascript-code-challenge-part-2-jp)
 - [Dev.to/JS] [Execute a function with arguments using chrome extension scripting API](https://dev.to/awalakaushik/execute-a-function-with-arguments-using-chrome-extension-scripting-api-2b7m)
 - [Dev.to/JS] [How to Wrap Around a Range of Numbers with the Modulo](https://dev.to/jvon1904/how-to-wrap-around-a-range-of-numbers-with-the-modulo-cdo)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HopeKnight-Appwrite!](https://dev.to/smartmind12/hopeknight-appwrite-5g5g)
 - [Dev.to/JS] [The Best Design Pattern for React Component](https://dev.to/jurijs99/the-best-design-pattern-for-react-component-2i36)
 - [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
-- [Dev.to/JS] [Flatiron Phase1](https://dev.to/yluo3421/flatiron-phase1-15pi)
-- [Dev.to/JS] [Paracetamol.js💊| #115: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-115-explica-este-codigo-javascript-34gj)
 - [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
-- [Dev.to/JS] [Javascript reserved keywords || Javascriptdagi ta&#39;qiqlangan kalit so&#39;zlar](https://dev.to/dawroun/javascript-reserved-keywords-javascriptdagi-taqiqlangan-kalit-sozlar-5136)
-- [Dev.to/JS] [Best time to buy and sell stock](https://dev.to/juliansjy/best-time-to-buy-and-sell-stock-1mnh)
 - [Lifehacker] [Everything You Never Thought You’d Need to Know About Adult Ear Infections](https://lifehacker.com/everything-you-never-thought-you-d-need-to-know-about-a-1848917104)
 - [Lifehacker] [Should You Cancel Your Streaming Subscriptions?](https://lifehacker.com/should-you-cancel-your-streaming-subscriptions-1848916913)
 - [Lifehacker] [How to Survive Sleeping in the Heat When You Don&#39;t Have Air Conditioning](https://lifehacker.com/how-to-survive-sleeping-in-the-heat-when-you-dont-have-1848917337)
