@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is your favorite programming font?](https://dev.to/alesbe/what-is-your-favorite-programming-font-3ja9)
+- [Dev.to/JS] [About El Salvador Buying BTC](https://dev.to/alyssamalin55/about-el-salvador-buying-btc-578k)
+- [Dev.to/JS] [#44 - Where is my parent!?&lpar;cry&rpar; - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/44-where-is-my-parentcry-codewars-kata-6-kyu-446)
+- [Dev.to/JS] [JavaScript - Map](https://dev.to/justtanwa/javascript-map-ko1)
 - [Dev.to/JS] [Three.js infinite runner game](https://dev.to/shujaagideon/threejs-infinite-runner-game-1cgo)
 - [Dev.to/JS] [Understanding var, let and const in Javascript](https://dev.to/azharahmed98/understanding-var-let-and-const-in-javascript-3oo)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Stack](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-stack-3d0j)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reddit API is such a mess](https://dev.to/pilcrowonpaper/reddit-api-is-such-a-mess-me2)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Dev.to/JS] [When I need use Typescript?](https://dev.to/matheusmprado/when-i-need-use-typescript-41lh)
-- [Dev.to/JS] [Data Fetching in React.js](https://dev.to/anuraggharat/data-fetching-in-reactjs-3pjf)
-- [Dev.to/JS] [Create Multi Select Checkbox at ease :D](https://dev.to/satel/create-multi-select-checkbox-at-ease-d-454)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
-- [Dev.to/JS] [Marko: A return to the good ol&#39; days of web development](https://dev.to/khauri/marko-a-return-to-the-good-ol-days-of-web-development-o10)
-- [Dev.to/JS] [How to save up on AWS Parameter Store with serverless framework](https://dev.to/davidshaek/how-to-save-up-on-aws-parameter-store-with-serverless-framework-44mm)
 - [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
