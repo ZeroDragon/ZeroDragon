@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS: &quot;CTR + Wheel&quot; Event](https://dev.to/brojenuel/js-ctr-wheel-event-49i5)
+- [Dev.to/JS] [NFT Landing Page Template](https://dev.to/kumard3/nft-landing-page-template-b7b)
+- [Dev.to/JS] [What is Map object and its applications](https://dev.to/sobhandash/what-is-map-object-and-its-applications-44j0)
 - [Dev.to/JS] [Open Source Adventures: Episode 58: PyScript: First Impressions](https://dev.to/taw/open-source-adventures-episode-58-pyscript-first-impressions-4684)
 - [Dev.to/JS] [How to calculate the difference of days between two dates in JavaScript](https://dev.to/dillionmegida/how-to-calculate-the-difference-of-days-between-two-dates-in-javascript-chd)
 - [Dev.to/JS] [A NETFLIX clone build using react js and tmdb API](https://dev.to/prajyu/a-netflix-clone-build-using-react-js-and-tmdb-api-cil)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;14-05-2022&rpar; - Culture Smash](https://dev.to/mjgs/this-weeks-newsletter-is-out-14-05-2022-culture-smash-424c)
 - [Dev.to/JS] [Let’s repair ternary in React JSX](https://dev.to/sameer1612/lets-repair-ternary-in-react-jsx-2jem)
 - [Dev.to/JS] [How to setmeta - Set metadata on already uploaded objects,multiple Objects -GCS](https://dev.to/prems5/how-to-setmeta-set-metadata-on-already-uploaded-objectsmultiple-objects-18ji)
-- [Dev.to/JS] [Drag &amp; Drop or Sortable List using HTML, CSS, and Sortable JS](https://dev.to/incoderweb/drag-drop-or-sortable-list-using-html-css-and-sortable-js-1jbe)
-- [Dev.to/JS] [How to elegantly use BEM in vue3](https://dev.to/kesion/how-to-elegantly-use-bem-in-vue3-91k)
-- [Dev.to/JS] [Creating an expandable profile card](https://dev.to/thremulant/creating-an-expandable-profile-card-hpa)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
 - [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
