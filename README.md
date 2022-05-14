@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Free Full Stack Developer course offered by the University of Moratuwa with Certification](https://dev.to/wenura/free-full-stack-developer-course-offered-by-the-university-of-moratuwa-with-certification-2hg4)
 - [Dev.to/JS] [Fixing 3rd party cookies issue with Firebase Auth](https://dev.to/killdozerx2/fixing-3rd-party-cookies-issue-with-firebase-auth-28ng)
 - [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
 - [Dev.to/JS] [JavaScript: Destructuring Assignment](https://dev.to/rfornal/javascript-destructuring-assignment-4m31)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Map object and its applications](https://dev.to/sobhandash/what-is-map-object-and-its-applications-44j0)
 - [Dev.to/JS] [Open Source Adventures: Episode 58: PyScript: First Impressions](https://dev.to/taw/open-source-adventures-episode-58-pyscript-first-impressions-4684)
 - [Dev.to/JS] [How to calculate the difference of days between two dates in JavaScript](https://dev.to/dillionmegida/how-to-calculate-the-difference-of-days-between-two-dates-in-javascript-chd)
-- [Dev.to/JS] [A NETFLIX clone build using react js and tmdb API](https://dev.to/prajyu/a-netflix-clone-build-using-react-js-and-tmdb-api-cil)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
 - [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
