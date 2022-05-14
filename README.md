@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fixing 3rd party cookies issue with Firebase Auth](https://dev.to/killdozerx2/fixing-3rd-party-cookies-issue-with-firebase-auth-28ng)
+- [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
+- [Dev.to/JS] [JavaScript: Destructuring Assignment](https://dev.to/rfornal/javascript-destructuring-assignment-4m31)
+- [Dev.to/JS] [How to use Bulma CSS in React Js](https://dev.to/codeshinobee/how-to-use-bulma-css-in-react-js-43d8)
+- [Dev.to/JS] [Why I am considering Go](https://dev.to/gusain/why-i-am-considering-go-5c8g)
+- [Dev.to/JS] [PyScript - JavaScript&#39;s sweet cousin.](https://dev.to/sameer1612/pyscript-javascripts-cousin-df3)
+- [Dev.to/JS] [Simple exercise for Javascript Ajax](https://dev.to/haamid/simple-exercise-for-javascript-ajax-1o9f)
 - [Dev.to/JS] [JS: &quot;CTR + Wheel&quot; Event](https://dev.to/brojenuel/js-ctr-wheel-event-49i5)
 - [Dev.to/JS] [NFT Landing Page Template](https://dev.to/kumard3/nft-landing-page-template-b7b)
 - [Dev.to/JS] [What is Map object and its applications](https://dev.to/sobhandash/what-is-map-object-and-its-applications-44j0)
 - [Dev.to/JS] [Open Source Adventures: Episode 58: PyScript: First Impressions](https://dev.to/taw/open-source-adventures-episode-58-pyscript-first-impressions-4684)
 - [Dev.to/JS] [How to calculate the difference of days between two dates in JavaScript](https://dev.to/dillionmegida/how-to-calculate-the-difference-of-days-between-two-dates-in-javascript-chd)
 - [Dev.to/JS] [A NETFLIX clone build using react js and tmdb API](https://dev.to/prajyu/a-netflix-clone-build-using-react-js-and-tmdb-api-cil)
-- [Dev.to/JS] [Test Data Factories in Javascript](https://dev.to/mlowen/test-data-factories-in-javascript-obo)
-- [Dev.to/JS] [Build an invoice management system using React &amp; Firebase](https://dev.to/arshadayvid/build-an-invoice-management-system-using-react-firebase-5535)
-- [Dev.to/JS] [PollyFill for map&lpar;&rpar;, filter&lpar;&rpar;, forEach&lpar;&rpar;.](https://dev.to/pritamkr_63/pollyfill-for-map-filter-foreach-27k4)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;14-05-2022&rpar; - Culture Smash](https://dev.to/mjgs/this-weeks-newsletter-is-out-14-05-2022-culture-smash-424c)
-- [Dev.to/JS] [Let’s repair ternary in React JSX](https://dev.to/sameer1612/lets-repair-ternary-in-react-jsx-2jem)
-- [Dev.to/JS] [How to setmeta - Set metadata on already uploaded objects,multiple Objects -GCS](https://dev.to/prems5/how-to-setmeta-set-metadata-on-already-uploaded-objectsmultiple-objects-18ji)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
 - [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Never Thought You’d Need to Know About Adult Ear Infections](https://lifehacker.com/everything-you-never-thought-you-d-need-to-know-about-a-1848917104)
 - [Lifehacker] [Should You Cancel Your Streaming Subscriptions?](https://lifehacker.com/should-you-cancel-your-streaming-subscriptions-1848916913)
 - [Lifehacker] [How to Survive Sleeping in the Heat When You Don&#39;t Have Air Conditioning](https://lifehacker.com/how-to-survive-sleeping-in-the-heat-when-you-dont-have-1848917337)
-- [Lifehacker] [The Best &#39;Friend Date&#39; Ideas That Aren&#39;t Just Getting Drinks](https://lifehacker.com/the-best-friend-date-ideas-that-arent-just-getting-drin-1848917321)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
 - [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
