@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Adventures: Episode 58: PyScript: First Impressions](https://dev.to/taw/open-source-adventures-episode-58-pyscript-first-impressions-4684)
 - [Dev.to/JS] [How to calculate the difference of days between two dates in JavaScript](https://dev.to/dillionmegida/how-to-calculate-the-difference-of-days-between-two-dates-in-javascript-chd)
 - [Dev.to/JS] [A NETFLIX clone build using react js and tmdb API](https://dev.to/prajyu/a-netflix-clone-build-using-react-js-and-tmdb-api-cil)
 - [Dev.to/JS] [Test Data Factories in Javascript](https://dev.to/mlowen/test-data-factories-in-javascript-obo)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drag &amp; Drop or Sortable List using HTML, CSS, and Sortable JS](https://dev.to/incoderweb/drag-drop-or-sortable-list-using-html-css-and-sortable-js-1jbe)
 - [Dev.to/JS] [How to elegantly use BEM in vue3](https://dev.to/kesion/how-to-elegantly-use-bem-in-vue3-91k)
 - [Dev.to/JS] [Creating an expandable profile card](https://dev.to/thremulant/creating-an-expandable-profile-card-hpa)
-- [Dev.to/JS] [Piping in JS, or what Elm taught me about partial application](https://dev.to/charlesloder/piping-in-js-or-what-elm-taught-me-about-partial-application-494l)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
 - [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
