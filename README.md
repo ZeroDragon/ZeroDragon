@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
+- [Dev.to/JS] [Reddit API is such a mess](https://dev.to/pilcrowonpaper/reddit-api-is-such-a-mess-me2)
+- [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
+- [Dev.to/JS] [When I need use Typescript?](https://dev.to/matheusmprado/when-i-need-use-typescript-41lh)
 - [Dev.to/JS] [Data Fetching in React.js](https://dev.to/anuraggharat/data-fetching-in-reactjs-3pjf)
 - [Dev.to/JS] [Create Multi Select Checkbox at ease :D](https://dev.to/satel/create-multi-select-checkbox-at-ease-d-454)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Free Full Stack Developer course offered by the University of Moratuwa with Certification](https://dev.to/wenura/free-full-stack-developer-course-offered-by-the-university-of-moratuwa-with-certification-2hg4)
 - [Dev.to/JS] [Fixing 3rd party cookies issue with Firebase Auth](https://dev.to/killdozerx2/fixing-3rd-party-cookies-issue-with-firebase-auth-28ng)
 - [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
-- [Dev.to/JS] [JavaScript: Destructuring Assignment](https://dev.to/rfornal/javascript-destructuring-assignment-4m31)
-- [Dev.to/JS] [How to use Bulma CSS in React Js](https://dev.to/codeshinobee/how-to-use-bulma-css-in-react-js-43d8)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
 - [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
@@ -59,10 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
 - [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
 - [Lifehacker] [Everything You Never Thought You’d Need to Know About Adult Ear Infections](https://lifehacker.com/everything-you-never-thought-you-d-need-to-know-about-a-1848917104)
-- [Lifehacker] [Should You Cancel Your Streaming Subscriptions?](https://lifehacker.com/should-you-cancel-your-streaming-subscriptions-1848916913)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
-- [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)
-- [Crazy Programmer] [Web 3.0 is Future – But Why Will It Use Open-Source Coding And Decentralize Technology?](https://www.thecrazyprogrammer.com/2022/04/web-3-0.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
 ---
 
