@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data Fetching in React.js](https://dev.to/anuraggharat/data-fetching-in-reactjs-3pjf)
+- [Dev.to/JS] [Create Multi Select Checkbox at ease :D](https://dev.to/satel/create-multi-select-checkbox-at-ease-d-454)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
 - [Dev.to/JS] [Marko: A return to the good ol&#39; days of web development](https://dev.to/khauri/marko-a-return-to-the-good-ol-days-of-web-development-o10)
 - [Dev.to/JS] [How to save up on AWS Parameter Store with serverless framework](https://dev.to/davidshaek/how-to-save-up-on-aws-parameter-store-with-serverless-framework-44mm)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
 - [Dev.to/JS] [JavaScript: Destructuring Assignment](https://dev.to/rfornal/javascript-destructuring-assignment-4m31)
 - [Dev.to/JS] [How to use Bulma CSS in React Js](https://dev.to/codeshinobee/how-to-use-bulma-css-in-react-js-43d8)
-- [Dev.to/JS] [Why I am considering Go](https://dev.to/gusain/why-i-am-considering-go-5c8g)
-- [Dev.to/JS] [PyScript - JavaScript&#39;s sweet cousin.](https://dev.to/sameer1612/pyscript-javascripts-cousin-df3)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
 - [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
