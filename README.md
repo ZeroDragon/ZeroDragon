@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an expandable profile card](https://dev.to/thremulant/creating-an-expandable-profile-card-hpa)
 - [Dev.to/JS] [Piping in JS, or what Elm taught me about partial application](https://dev.to/charlesloder/piping-in-js-or-what-elm-taught-me-about-partial-application-494l)
 - [Dev.to/JS] [#12: Headless CMS &amp; SWA - Built With Blazor](https://dev.to/azure/12-headless-cms-swa-built-with-blazor-1e2d)
 - [Dev.to/JS] [Best nodejs course?](https://dev.to/happi89/best-nodejs-course-4m6a)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
 - [Dev.to/JS] [Promises Methods- At a glance](https://dev.to/aditi05/promises-methods-at-a-glance-4d88)
 - [Lifehacker] [How Much RAM Do You Really Need?](https://lifehacker.com/how-much-ram-do-you-really-need-1848924012)
-- [Dev.to/JS] [Hide API key without Node](https://dev.to/route15/hide-api-key-without-node-4gkc)
 - [Lifehacker] [7 Gross Food Myths That Don&#39;t Make Sense &lpar;but People Still Believe&rpar;](https://lifehacker.com/7-gross-food-myths-that-dont-make-sense-but-people-sti-1848919243)
 - [Lifehacker] [How to Really Decide How Early to Get to the Airport](https://lifehacker.com/how-to-really-decide-how-early-to-get-to-the-airport-1848923019)
 - [Lifehacker] [Why Zoomed Photos Look Bad on Your iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/why-zoomed-photos-look-bad-on-your-iphone-and-how-to-f-1848922895)
