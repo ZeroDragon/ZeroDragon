@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Back to Lisp Part 1 - Working Inside the Language](https://dev.to/wesen/back-to-lisp-part-1-working-inside-the-language-1f9h)
 - [Dev.to/JS] [What is your favorite programming font?](https://dev.to/alesbe/what-is-your-favorite-programming-font-3ja9)
 - [Dev.to/JS] [About El Salvador Buying BTC](https://dev.to/alyssamalin55/about-el-salvador-buying-btc-578k)
 - [Dev.to/JS] [#44 - Where is my parent!?&lpar;cry&rpar; - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/44-where-is-my-parentcry-codewars-kata-6-kyu-446)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Dev.to/JS] [Reddit API is such a mess](https://dev.to/pilcrowonpaper/reddit-api-is-such-a-mess-me2)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
-- [Dev.to/JS] [When I need use Typescript?](https://dev.to/matheusmprado/when-i-need-use-typescript-41lh)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
 - [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
