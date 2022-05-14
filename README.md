@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Linked Lists &lpar;pt. 1&rpar;](https://dev.to/seantansey/javascript-linked-lists-pt-1-7na)
 - [Dev.to/JS] [What is Declaration merging in Typescript?](https://dev.to/shakvilla/what-is-declaration-merging-in-typescript-1o9p)
 - [Dev.to/JS] [Por qué Storybook?: la herramienta de desarrollo de componentes utilizada por más de 30_000 proyectos](https://dev.to/khriztianmoreno/por-que-storybook-la-herramienta-de-desarrollo-de-componentes-utilizada-por-mas-de-30000-proyectos-5h77)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Zoomed Photos Look Bad on Your iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/why-zoomed-photos-look-bad-on-your-iphone-and-how-to-f-1848922895)
 - [Dev.to/JS] [Embedded videos with react but make it easy.](https://dev.to/montgomerykate/embedded-videos-with-react-but-make-it-easy-2123)
 - [Lifehacker] [Get &#39;Girl Drink Drunk&#39; With a Strawberry Daiquiri](https://lifehacker.com/get-girl-drink-drunk-with-a-strawberry-daiquiri-1848922988)
-- [Dev.to/JS] [Function Composition in Javascript](https://dev.to/nsijwali/function-composition-in-javascript-158e)
 - [Lifehacker] [This Chrome Extension Helps You Work Less](https://lifehacker.com/this-chrome-extension-helps-you-work-less-1848918834)
 - [Lifehacker] [How to Know If You Have a Fear of Abandonment &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-know-if-you-have-a-fear-of-abandonment-and-what-1848908061)
 - [Lifehacker] [25 of the Most Expensive Movies Ever, Adjusted for Inflation](https://lifehacker.com/25-of-the-most-expensive-movies-ever-adjusted-for-infl-1848910713)
