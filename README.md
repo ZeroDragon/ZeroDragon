@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Next.js Image Component Cheatsheet](https://dev.to/iskurbanov/nextjs-image-component-cheatsheet-524d)
+- [Dev.to/JS] [⚗️ Testing Tips: Fetch, Process, Store](https://dev.to/mistval/testing-tips-fetch-calculate-store-2i07)
 - [Dev.to/JS] [Back to Lisp Part 1 - Working Inside the Language](https://dev.to/wesen/back-to-lisp-part-1-working-inside-the-language-1f9h)
 - [Dev.to/JS] [What is your favorite programming font?](https://dev.to/alesbe/what-is-your-favorite-programming-font-3ja9)
 - [Dev.to/JS] [About El Salvador Buying BTC](https://dev.to/alyssamalin55/about-el-salvador-buying-btc-578k)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Stack](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-stack-3d0j)
 - [Dev.to/JS] [Refresh Your React App Discretely](https://dev.to/lightpohl/refresh-your-react-app-discretely-9g5)
 - [Dev.to/JS] [Two-step Authentication using NodeJS and Termii](https://dev.to/drchibs/two-step-authentication-using-nodejs-and-termii-25lp)
-- [Dev.to/JS] [Lessons learned from my Chrome extension migration to Manifest V3](https://dev.to/wtetsu/lessons-learned-from-my-chrome-extension-migration-to-manifest-v3-76j)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
-- [Dev.to/JS] [Reddit API is such a mess](https://dev.to/pilcrowonpaper/reddit-api-is-such-a-mess-me2)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
 - [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
