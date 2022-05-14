@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Three.js infinite runner game](https://dev.to/shujaagideon/threejs-infinite-runner-game-1cgo)
+- [Dev.to/JS] [Understanding var, let and const in Javascript](https://dev.to/azharahmed98/understanding-var-let-and-const-in-javascript-3oo)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Stack](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-stack-3d0j)
 - [Dev.to/JS] [Refresh Your React App Discretely](https://dev.to/lightpohl/refresh-your-react-app-discretely-9g5)
 - [Dev.to/JS] [Two-step Authentication using NodeJS and Termii](https://dev.to/drchibs/two-step-authentication-using-nodejs-and-termii-25lp)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
 - [Dev.to/JS] [Marko: A return to the good ol&#39; days of web development](https://dev.to/khauri/marko-a-return-to-the-good-ol-days-of-web-development-o10)
 - [Dev.to/JS] [How to save up on AWS Parameter Store with serverless framework](https://dev.to/davidshaek/how-to-save-up-on-aws-parameter-store-with-serverless-framework-44mm)
-- [Dev.to/JS] [A Beginner&#39;s Guide to HTTP - Part 5: Authentication](https://dev.to/abbeyperini/beginners-guide-to-http-part-5-authentication-3p2p)
-- [Dev.to/JS] [How to Deploy a React App to Heroku in 5 Minutes in 5 Easy Steps](https://dev.to/terieyenike/how-to-deploy-a-react-app-to-heroku-in-5-minutes-in-5-easy-steps-80o)
 - [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
