@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Two-step Authentication using NodeJS and Termii](https://dev.to/drchibs/two-step-authentication-using-nodejs-and-termii-25lp)
+- [Dev.to/JS] [Lessons learned from my Chrome extension migration to Manifest V3](https://dev.to/wtetsu/lessons-learned-from-my-chrome-extension-migration-to-manifest-v3-76j)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Dev.to/JS] [Reddit API is such a mess](https://dev.to/pilcrowonpaper/reddit-api-is-such-a-mess-me2)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Deploy a React App to Heroku in 5 Minutes in 5 Easy Steps](https://dev.to/terieyenike/how-to-deploy-a-react-app-to-heroku-in-5-minutes-in-5-easy-steps-80o)
 - [Dev.to/JS] [Node.js - Otimize e escale com ele](https://dev.to/jhonywalkeer/nodejs-otimize-e-escale-com-ele-3m9b)
 - [Dev.to/JS] [How to use Lodash chunk function?](https://dev.to/harithzainudin/how-to-use-lodash-chunk-function-50p1)
-- [Dev.to/JS] [Free Full Stack Developer course offered by the University of Moratuwa with Certification](https://dev.to/wenura/free-full-stack-developer-course-offered-by-the-university-of-moratuwa-with-certification-2hg4)
-- [Dev.to/JS] [Fixing 3rd party cookies issue with Firebase Auth](https://dev.to/killdozerx2/fixing-3rd-party-cookies-issue-with-firebase-auth-28ng)
 - [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
