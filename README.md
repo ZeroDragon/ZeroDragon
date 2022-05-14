@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PollyFill for map&lpar;&rpar;, filter&lpar;&rpar;, forEach&lpar;&rpar;.](https://dev.to/pritamkr_63/pollyfill-for-map-filter-foreach-27k4)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;14-05-2022&rpar; - Culture Smash](https://dev.to/mjgs/this-weeks-newsletter-is-out-14-05-2022-culture-smash-424c)
 - [Dev.to/JS] [Let’s repair ternary in React JSX](https://dev.to/sameer1612/lets-repair-ternary-in-react-jsx-2jem)
 - [Dev.to/JS] [How to setmeta - Set metadata on already uploaded objects,multiple Objects -GCS](https://dev.to/prems5/how-to-setmeta-set-metadata-on-already-uploaded-objectsmultiple-objects-18ji)
 - [Dev.to/JS] [Drag &amp; Drop or Sortable List using HTML, CSS, and Sortable JS](https://dev.to/incoderweb/drag-drop-or-sortable-list-using-html-css-and-sortable-js-1jbe)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Best nodejs course?](https://dev.to/happi89/best-nodejs-course-4m6a)
 - [Dev.to/JS] [i need help! my back to top btn its only working once.](https://dev.to/jmarcosjova/i-need-help-my-back-to-top-btn-its-only-working-once-c3l)
 - [Dev.to/JS] [JavaScript: Linked Lists &lpar;pt. 1&rpar;](https://dev.to/seantansey/javascript-linked-lists-pt-1-7na)
-- [Dev.to/JS] [What is Declaration merging in Typescript?](https://dev.to/shakvilla/what-is-declaration-merging-in-typescript-1o9p)
-- [Dev.to/JS] [Por qué Storybook?: la herramienta de desarrollo de componentes utilizada por más de 30_000 proyectos](https://dev.to/khriztianmoreno/por-que-storybook-la-herramienta-de-desarrollo-de-componentes-utilizada-por-mas-de-30000-proyectos-5h77)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
 - [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
