@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#12: Headless CMS &amp; SWA - Built With Blazor](https://dev.to/azure/12-headless-cms-swa-built-with-blazor-1e2d)
+- [Dev.to/JS] [Best nodejs course?](https://dev.to/happi89/best-nodejs-course-4m6a)
+- [Dev.to/JS] [Javascript](https://dev.to/irvinmx/javascript-3ab0)
+- [Dev.to/JS] [i need help! my back to top btn its only working once.](https://dev.to/jmarcosjova/i-need-help-my-back-to-top-btn-its-only-working-once-c3l)
 - [Dev.to/JS] [JavaScript: Linked Lists &lpar;pt. 1&rpar;](https://dev.to/seantansey/javascript-linked-lists-pt-1-7na)
 - [Dev.to/JS] [What is Declaration merging in Typescript?](https://dev.to/shakvilla/what-is-declaration-merging-in-typescript-1o9p)
 - [Dev.to/JS] [Por qué Storybook?: la herramienta de desarrollo de componentes utilizada por más de 30_000 proyectos](https://dev.to/khriztianmoreno/por-que-storybook-la-herramienta-de-desarrollo-de-componentes-utilizada-por-mas-de-30000-proyectos-5h77)
@@ -37,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hide API key without Node](https://dev.to/route15/hide-api-key-without-node-4gkc)
 - [Lifehacker] [7 Gross Food Myths That Don&#39;t Make Sense &lpar;but People Still Believe&rpar;](https://lifehacker.com/7-gross-food-myths-that-dont-make-sense-but-people-sti-1848919243)
 - [Lifehacker] [How to Really Decide How Early to Get to the Airport](https://lifehacker.com/how-to-really-decide-how-early-to-get-to-the-airport-1848923019)
-- [Dev.to/JS] [Using Webpack with Typescript](https://dev.to/evanhameed99/using-webpack-with-typescript-10g1)
-- [Dev.to/JS] [Client-Side Routing vs. Server-Side Routing with React Router](https://dev.to/bradbieselin/client-side-routing-vs-server-side-routing-with-react-router-l79)
-- [Dev.to/JS] [Top 3 Coding Tutorials of the Week](https://dev.to/codecast/top-3-coding-tutorials-of-the-week-45kl)
 - [Lifehacker] [Why Zoomed Photos Look Bad on Your iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/why-zoomed-photos-look-bad-on-your-iphone-and-how-to-f-1848922895)
-- [Dev.to/JS] [Embedded videos with react but make it easy.](https://dev.to/montgomerykate/embedded-videos-with-react-but-make-it-easy-2123)
 - [Lifehacker] [Get &#39;Girl Drink Drunk&#39; With a Strawberry Daiquiri](https://lifehacker.com/get-girl-drink-drunk-with-a-strawberry-daiquiri-1848922988)
 - [Lifehacker] [This Chrome Extension Helps You Work Less](https://lifehacker.com/this-chrome-extension-helps-you-work-less-1848918834)
 - [Lifehacker] [How to Know If You Have a Fear of Abandonment &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-know-if-you-have-a-fear-of-abandonment-and-what-1848908061)
