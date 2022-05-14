@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let’s repair ternary in React JSX](https://dev.to/sameer1612/lets-repair-ternary-in-react-jsx-2jem)
+- [Dev.to/JS] [How to setmeta - Set metadata on already uploaded objects,multiple Objects -GCS](https://dev.to/prems5/how-to-setmeta-set-metadata-on-already-uploaded-objectsmultiple-objects-18ji)
+- [Dev.to/JS] [Drag &amp; Drop or Sortable List using HTML, CSS, and Sortable JS](https://dev.to/incoderweb/drag-drop-or-sortable-list-using-html-css-and-sortable-js-1jbe)
+- [Dev.to/JS] [How to elegantly use BEM in vue3](https://dev.to/kesion/how-to-elegantly-use-bem-in-vue3-91k)
 - [Dev.to/JS] [Creating an expandable profile card](https://dev.to/thremulant/creating-an-expandable-profile-card-hpa)
 - [Dev.to/JS] [Piping in JS, or what Elm taught me about partial application](https://dev.to/charlesloder/piping-in-js-or-what-elm-taught-me-about-partial-application-494l)
 - [Dev.to/JS] [#12: Headless CMS &amp; SWA - Built With Blazor](https://dev.to/azure/12-headless-cms-swa-built-with-blazor-1e2d)
@@ -32,12 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Declaration merging in Typescript?](https://dev.to/shakvilla/what-is-declaration-merging-in-typescript-1o9p)
 - [Dev.to/JS] [Por qué Storybook?: la herramienta de desarrollo de componentes utilizada por más de 30_000 proyectos](https://dev.to/khriztianmoreno/por-que-storybook-la-herramienta-de-desarrollo-de-componentes-utilizada-por-mas-de-30000-proyectos-5h77)
 - [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
-- [Dev.to/JS] [Building a photo gallery app with Gatsby and GraphCMS](https://dev.to/asayerio_techblog/building-a-photo-gallery-app-with-gatsby-and-graphcms-nh3)
 - [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
-- [Dev.to/JS] [Day-87 Training At Ryaz](https://dev.to/mahin651/day-87-training-at-ryaz-3hjc)
-- [Dev.to/JS] [Introducing BibleUp: A Web Tool For Bible References 💡](https://dev.to/bukunmikuti/introducing-bibleup-a-web-tool-for-bible-references-8nb)
 - [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
-- [Dev.to/JS] [Promises Methods- At a glance](https://dev.to/aditi05/promises-methods-at-a-glance-4d88)
 - [Lifehacker] [How Much RAM Do You Really Need?](https://lifehacker.com/how-much-ram-do-you-really-need-1848924012)
 - [Lifehacker] [7 Gross Food Myths That Don&#39;t Make Sense &lpar;but People Still Believe&rpar;](https://lifehacker.com/7-gross-food-myths-that-dont-make-sense-but-people-sti-1848919243)
 - [Lifehacker] [How to Really Decide How Early to Get to the Airport](https://lifehacker.com/how-to-really-decide-how-early-to-get-to-the-airport-1848923019)
