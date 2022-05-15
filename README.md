@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
+- [Dev.to/JS] [Making Multiple API Calls in Javascript](https://dev.to/alexmercedcoder/making-multiple-api-calls-in-javascript-kip)
+- [Dev.to/JS] [render prop and children in react](https://dev.to/code_with_aravind/render-prop-and-children-in-react-3j6l)
+- [Dev.to/JS] [Host static css, javascript, json, xml and txt files online for free](https://dev.to/staticsave/host-static-css-javascript-json-xml-and-txt-files-online-for-free-29j5)
 - [Dev.to/JS] [Nullish Coalescing operator in JS &quot;??&quot; ?](https://dev.to/coldpigli/nullish-coalescing-operator-in-js--4l2c)
 - [Dev.to/JS] [Chainlink External Adapters, Sanity, ERC20 and stuff like that – Part 2: Building the Chainlink External Adapter](https://dev.to/abhikbanerjee99/chainlink-external-adapters-sanity-erc20-and-stuff-like-that-part-2-building-the-chainlink-external-adapter-610)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FLEX BOX](https://dev.to/allison_m_08b9005267b3bcf/flex-box-2jck)
 - [Dev.to/JS] [Make a beautiful Connect Wallet Button with RainbowKit and React](https://dev.to/anishde12020/make-a-beautiful-connect-wallet-button-with-rainbowkit-and-react-1mdj)
 - [Dev.to/JS] [How SASS, SCSS is making our life easier](https://dev.to/imhamad/how-sass-scss-is-making-our-life-easier-3h50)
-- [Dev.to/JS] [Responsive, interactive and accessible before-after image slider infographic effect](https://dev.to/kaliedarik/responsive-interactive-and-accessible-before-after-image-slider-infographic-effect-258l)
-- [Dev.to/JS] [Cache API in JavaScript - with just 20 lines of code.](https://dev.to/rajeshroyal/cache-api-in-javascript-with-just-20-lines-of-code-49kg)
-- [Dev.to/JS] [Java Class Attributes](https://dev.to/nipunsanjula/java-class-attributes-4h50)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fight a Goose and Win &lpar;Just Kidding, You Won’t Win&rpar;](https://lifehacker.com/how-to-fight-a-goose-and-win-just-kidding-you-won-t-w-1848918670)
 - [Lifehacker] [12 Myths About Sunscreen You Need to Stop Believing](https://lifehacker.com/12-myths-about-sunscreen-you-need-to-stop-believing-1848916363)
 - [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
-- [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
