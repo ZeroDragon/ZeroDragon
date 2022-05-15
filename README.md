@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flatiron Phase One Blog: API keys](https://dev.to/omar3o3/flatiron-phase-one-blog-api-keys-4mj5)
+- [Dev.to/JS] [Data Visualization Using Chart.js and Gatsby](https://dev.to/terieyenike/data-visualization-using-chartjs-and-gatsby-2die)
+- [Dev.to/JS] [Weekly Digest 19/2022](https://dev.to/marcobiedermann/weekly-digest-192022-58g3)
 - [Dev.to/JS] [Part 4: Portal login &amp; authorization of socket connection](https://dev.to/evertvdw/part-4-portal-login-authorization-3fnn)
 - [Dev.to/JS] [Valid Anagram. &lpar;Javascript DSA Series&rpar;](https://dev.to/olumidesamuel_/valid-anagram-javascript-dsa-series-2j9)
 - [Dev.to/JS] [Week 3 - Array of Objects](https://dev.to/jwhitt3r/week-3-array-of-objects-1mje)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hang Man in vanilla JavaScript](https://dev.to/prajyu/hang-man-in-vanilla-javascript-3581)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Dev.to/JS] [Making Multiple API Calls in Javascript](https://dev.to/alexmercedcoder/making-multiple-api-calls-in-javascript-kip)
-- [Dev.to/JS] [render prop and children in react](https://dev.to/code_with_aravind/render-prop-and-children-in-react-3j6l)
-- [Dev.to/JS] [Host static css, javascript, json, xml and txt files online for free](https://dev.to/staticsave/host-static-css-javascript-json-xml-and-txt-files-online-for-free-29j5)
-- [Dev.to/JS] [Nullish Coalescing operator in JS &quot;??&quot; ?](https://dev.to/coldpigli/nullish-coalescing-operator-in-js--4l2c)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
