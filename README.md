@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nullish Coalescing operator in JS &quot;??&quot; ?](https://dev.to/coldpigli/nullish-coalescing-operator-in-js--4l2c)
+- [Dev.to/JS] [Chainlink External Adapters, Sanity, ERC20 and stuff like that – Part 2: Building the Chainlink External Adapter](https://dev.to/abhikbanerjee99/chainlink-external-adapters-sanity-erc20-and-stuff-like-that-part-2-building-the-chainlink-external-adapter-610)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Dev.to/JS] [Chainlink External Adapters, Sanity, ERC20 and stuff like that – Part 1: Setting up Sanity.](https://dev.to/abhikbanerjee99/chainlink-external-adapters-sanity-erc20-and-stuff-like-that-part-1-setting-up-sanity-nko)
 - [Dev.to/JS] [Webpack Cheatsheet](https://dev.to/zinox9/webpack-cheatsheet-7pj)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Responsive, interactive and accessible before-after image slider infographic effect](https://dev.to/kaliedarik/responsive-interactive-and-accessible-before-after-image-slider-infographic-effect-258l)
 - [Dev.to/JS] [Cache API in JavaScript - with just 20 lines of code.](https://dev.to/rajeshroyal/cache-api-in-javascript-with-just-20-lines-of-code-49kg)
 - [Dev.to/JS] [Java Class Attributes](https://dev.to/nipunsanjula/java-class-attributes-4h50)
-- [Dev.to/JS] [React v18: useTransition hook — Why???](https://dev.to/sameer1612/react-v18-usetransition-hook-why-3bml)
-- [Dev.to/JS] [Build an on-chain DAO for your NFT holders on Ethereum using Solidity, Next.js, ethers.js, Web3Modal](https://dev.to/learnweb3/build-an-on-chain-dao-for-your-nft-holders-on-ethereum-using-solidity-nextjs-ethersjs-web3modal-481a)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
