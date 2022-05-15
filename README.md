@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Aromajoin | Made with Vue JS](https://dev.to/madewithjavascript/aromajoin-made-with-vue-js-mm9)
+- [Dev.to/JS] [I built my first JS game! 🎉](https://dev.to/louiseann93/i-built-my-first-js-game-3haa)
+- [Dev.to/JS] [Storyblok | Made with Vue JS](https://dev.to/madewithjavascript/storyblok-made-with-vue-js-2h3n)
 - [Dev.to/JS] [Trim the fat: tips for keeping bundle size small 🏋️](https://dev.to/bryce/trim-the-fat-tips-for-keeping-bundle-size-small-20b6)
 - [Dev.to/JS] [How to manage keyboard shortcuts in Angular application &lpar;The easy way&rpar;](https://dev.to/omridevk/how-to-manage-keyboard-shortcuts-in-angular-application-the-easy-way-2p3o)
 - [Dev.to/JS] [Limit access of Strapi users to their own entries](https://dev.to/paratron/limit-access-of-strapi-users-to-their-own-entries-298l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Visualization Using Chart.js and Gatsby](https://dev.to/terieyenike/data-visualization-using-chartjs-and-gatsby-2die)
 - [Dev.to/JS] [Weekly Digest 19/2022](https://dev.to/marcobiedermann/weekly-digest-192022-58g3)
 - [Dev.to/JS] [Part 4: Portal login &amp; authorization of socket connection](https://dev.to/evertvdw/part-4-portal-login-authorization-3fnn)
-- [Dev.to/JS] [Valid Anagram. &lpar;Javascript DSA Series&rpar;](https://dev.to/olumidesamuel_/valid-anagram-javascript-dsa-series-2j9)
-- [Dev.to/JS] [Week 3 - Array of Objects](https://dev.to/jwhitt3r/week-3-array-of-objects-1mje)
-- [Dev.to/JS] [Complete Guide to Multi-Provider OAuth 2 Authorization in Node.js](https://dev.to/rishabh570/complete-guide-to-multi-provider-oauth-2-authorization-in-nodejs-36j5)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
