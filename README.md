@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Winning Card &lpar;DSA Series&rpar;](https://dev.to/olumidesamuel_/winning-card-dsa-series-4k73)
+- [Dev.to/JS] [NPM Library to get a list of WordPress posts&#39; character counts using the WP REST API](https://dev.to/shinshin86/npm-library-to-get-a-list-of-wordpress-posts-character-counts-using-the-wp-rest-api-4929)
+- [Dev.to/JS] [The infamous Two Sum problem. &lpar;DSA Series 3&rpar;](https://dev.to/olumidesamuel_/the-infamous-two-sum-problem-dsa-series-3-5f6d)
+- [Dev.to/JS] [Group Anagram. &lpar;DSA Series 2&rpar;](https://dev.to/olumidesamuel_/group-anagram-dsa-series-2-2cc8)
 - [Dev.to/JS] [Aromajoin | Made with Vue JS](https://dev.to/madewithjavascript/aromajoin-made-with-vue-js-mm9)
 - [Dev.to/JS] [I built my first JS game! 🎉](https://dev.to/louiseann93/i-built-my-first-js-game-3haa)
 - [Dev.to/JS] [Storyblok | Made with Vue JS](https://dev.to/madewithjavascript/storyblok-made-with-vue-js-2h3n)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Limit access of Strapi users to their own entries](https://dev.to/paratron/limit-access-of-strapi-users-to-their-own-entries-298l)
 - [Dev.to/JS] [Difference between Reflect.ownKeys&lpar;&rpar; and Object.keys&lpar;&rpar;?](https://dev.to/jasmin/difference-between-reflectownkeys-and-objectkeys-58n4)
 - [Dev.to/JS] [Get Hands On With Unit Testing - Jest Testing Tutorial](https://dev.to/hr21don/get-hands-on-with-unit-testing-jest-testing-tutorial-5he1)
-- [Dev.to/JS] [Flatiron Phase One Blog: API keys](https://dev.to/omar3o3/flatiron-phase-one-blog-api-keys-4mj5)
-- [Dev.to/JS] [Data Visualization Using Chart.js and Gatsby](https://dev.to/terieyenike/data-visualization-using-chartjs-and-gatsby-2die)
-- [Dev.to/JS] [Weekly Digest 19/2022](https://dev.to/marcobiedermann/weekly-digest-192022-58g3)
-- [Dev.to/JS] [Part 4: Portal login &amp; authorization of socket connection](https://dev.to/evertvdw/part-4-portal-login-authorization-3fnn)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
