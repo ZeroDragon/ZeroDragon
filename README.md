@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Webpack Cheatsheet](https://dev.to/zinox9/webpack-cheatsheet-7pj)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
 - [Dev.to/JS] [Python vs. JavaScript: Is It a Fair Comparison?](https://dev.to/stx-next/python-vs-javascript-is-it-a-fair-comparison-531a)
 - [Dev.to/JS] [Building a startup | Days 1 - 5](https://dev.to/advikguptadev/building-a-startup-days-1-5-2h97)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React v18: useTransition hook — Why???](https://dev.to/sameer1612/react-v18-usetransition-hook-why-3bml)
 - [Dev.to/JS] [Build an on-chain DAO for your NFT holders on Ethereum using Solidity, Next.js, ethers.js, Web3Modal](https://dev.to/learnweb3/build-an-on-chain-dao-for-your-nft-holders-on-ethereum-using-solidity-nextjs-ethersjs-web3modal-481a)
 - [Dev.to/JS] [Launch an ICO on Ethereum using Solidity, Next.js, ethers.js, Web3Modal. Airdrop free tokens to NFT holders.](https://dev.to/learnweb3/launch-an-ico-on-ethereum-using-solidity-nextjs-ethersjs-web3modal-airdrop-free-tokens-to-nft-holders-4l3c)
-- [Dev.to/JS] [Build an entire NFT Collection on Ethereum using Solidity, Next.js, Web3Modal, Ethers.js](https://dev.to/learnweb3/build-an-entire-nft-collection-on-ethereum-using-solidity-nextjs-web3modal-ethersjs-37d6)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
