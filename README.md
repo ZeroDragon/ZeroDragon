@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Python vs. JavaScript: Is It a Fair Comparison?](https://dev.to/stx-next/python-vs-javascript-is-it-a-fair-comparison-531a)
+- [Dev.to/JS] [Building a startup | Days 1 - 5](https://dev.to/advikguptadev/building-a-startup-days-1-5-2h97)
+- [Dev.to/JS] [FLEX BOX](https://dev.to/allison_m_08b9005267b3bcf/flex-box-2jck)
+- [Dev.to/JS] [Make a beautiful Connect Wallet Button with RainbowKit and React](https://dev.to/anishde12020/make-a-beautiful-connect-wallet-button-with-rainbowkit-and-react-1mdj)
+- [Dev.to/JS] [How SASS, SCSS is making our life easier](https://dev.to/imhamad/how-sass-scss-is-making-our-life-easier-3h50)
 - [Dev.to/JS] [Responsive, interactive and accessible before-after image slider infographic effect](https://dev.to/kaliedarik/responsive-interactive-and-accessible-before-after-image-slider-infographic-effect-258l)
 - [Dev.to/JS] [Cache API in JavaScript - with just 20 lines of code.](https://dev.to/rajeshroyal/cache-api-in-javascript-with-just-20-lines-of-code-49kg)
 - [Dev.to/JS] [Java Class Attributes](https://dev.to/nipunsanjula/java-class-attributes-4h50)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build an on-chain DAO for your NFT holders on Ethereum using Solidity, Next.js, ethers.js, Web3Modal](https://dev.to/learnweb3/build-an-on-chain-dao-for-your-nft-holders-on-ethereum-using-solidity-nextjs-ethersjs-web3modal-481a)
 - [Dev.to/JS] [Launch an ICO on Ethereum using Solidity, Next.js, ethers.js, Web3Modal. Airdrop free tokens to NFT holders.](https://dev.to/learnweb3/launch-an-ico-on-ethereum-using-solidity-nextjs-ethersjs-web3modal-airdrop-free-tokens-to-nft-holders-4l3c)
 - [Dev.to/JS] [Build an entire NFT Collection on Ethereum using Solidity, Next.js, Web3Modal, Ethers.js](https://dev.to/learnweb3/build-an-entire-nft-collection-on-ethereum-using-solidity-nextjs-web3modal-ethersjs-37d6)
-- [Dev.to/JS] [Build a simple whitelist dApp using Solidity, Next.js, ethers.js on Ethereum](https://dev.to/learnweb3/build-a-simple-whitelist-dapp-using-solidity-nextjs-ethersjs-on-ethereum-4c21)
-- [Dev.to/JS] [How to Install React.js On Windows- Codexashish](https://dev.to/mailashish/how-to-install-reactjs-on-windows-codexashish-34oa)
-- [Dev.to/JS] [Jobilist: Side project to product](https://dev.to/namanvyas/jobilist-side-project-to-product-30nc)
-- [Dev.to/JS] [Debug Any React App in Seconds](https://dev.to/zirkelc/debug-any-react-app-in-seconds-5df7)
-- [Dev.to/JS] [JavaScript ES6 #Challenge](https://dev.to/halimshams/javascript-es6-challenge-47bj)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
