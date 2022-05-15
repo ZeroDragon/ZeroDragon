@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Responsive, interactive and accessible before-after image slider infographic effect](https://dev.to/kaliedarik/responsive-interactive-and-accessible-before-after-image-slider-infographic-effect-258l)
+- [Dev.to/JS] [Cache API in JavaScript - with just 20 lines of code.](https://dev.to/rajeshroyal/cache-api-in-javascript-with-just-20-lines-of-code-49kg)
+- [Dev.to/JS] [Java Class Attributes](https://dev.to/nipunsanjula/java-class-attributes-4h50)
 - [Dev.to/JS] [React v18: useTransition hook — Why???](https://dev.to/sameer1612/react-v18-usetransition-hook-why-3bml)
 - [Dev.to/JS] [Build an on-chain DAO for your NFT holders on Ethereum using Solidity, Next.js, ethers.js, Web3Modal](https://dev.to/learnweb3/build-an-on-chain-dao-for-your-nft-holders-on-ethereum-using-solidity-nextjs-ethersjs-web3modal-481a)
 - [Dev.to/JS] [Launch an ICO on Ethereum using Solidity, Next.js, ethers.js, Web3Modal. Airdrop free tokens to NFT holders.](https://dev.to/learnweb3/launch-an-ico-on-ethereum-using-solidity-nextjs-ethersjs-web3modal-airdrop-free-tokens-to-nft-holders-4l3c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jobilist: Side project to product](https://dev.to/namanvyas/jobilist-side-project-to-product-30nc)
 - [Dev.to/JS] [Debug Any React App in Seconds](https://dev.to/zirkelc/debug-any-react-app-in-seconds-5df7)
 - [Dev.to/JS] [JavaScript ES6 #Challenge](https://dev.to/halimshams/javascript-es6-challenge-47bj)
-- [Dev.to/JS] [What is SASS | All-time-dev?](https://dev.to/alltimedevlopment/what-is-sass-all-time-dev-47k8)
-- [Dev.to/JS] [Custom &amp; Reusable Toast Component with Angular Animations, Async Pipe, and RxJS&#39; BehaviorSubject](https://dev.to/riapacheco/custom-reusable-toast-component-with-angular-animations-async-pipe-and-rxjs-behaviorsubject-2bdf)
-- [Dev.to/JS] [How To Build A Nuxt 3 Ionic Capacitor Starter App - Adding Ionic Vue Components](https://dev.to/aaronksaunders/how-to-build-a-nuxt-3-ionic-capacitor-starter-app-adding-ionic-vue-components-2ia6)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
