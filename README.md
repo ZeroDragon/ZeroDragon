@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Build A Nuxt 3 Ionic Capacitor Starter App - Adding Ionic Vue Components](https://dev.to/aaronksaunders/how-to-build-a-nuxt-3-ionic-capacitor-starter-app-adding-ionic-vue-components-2ia6)
 - [Dev.to/JS] [An Intro to UmiJS](https://dev.to/ld8/an-intro-to-umijs-1630)
 - [Dev.to/JS] [TECH BLOGGER](https://dev.to/allison_m_08b9005267b3bcf/tech-blogger-57ak)
 - [Dev.to/JS] [Advantages And Disadvantages Of Java Programming Language](https://dev.to/deknurulaja/advantages-and-disadvantages-of-java-programming-language-3m7m)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Back to Lisp Part 1 - Working Inside the Language](https://dev.to/wesen/back-to-lisp-part-1-working-inside-the-language-1f9h)
 - [Dev.to/JS] [What is your favorite programming font?](https://dev.to/alesbe/what-is-your-favorite-programming-font-3ja9)
 - [Dev.to/JS] [About El Salvador Buying BTC](https://dev.to/alyssamalin55/about-el-salvador-buying-btc-578k)
-- [Dev.to/JS] [#44 - Where is my parent!?&lpar;cry&rpar; - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/44-where-is-my-parentcry-codewars-kata-6-kyu-446)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
