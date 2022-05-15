@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Limit access of Strapi users to their own entries](https://dev.to/paratron/limit-access-of-strapi-users-to-their-own-entries-298l)
+- [Dev.to/JS] [Difference between Reflect.ownKeys&lpar;&rpar; and Object.keys&lpar;&rpar;?](https://dev.to/jasmin/difference-between-reflectownkeys-and-objectkeys-58n4)
+- [Dev.to/JS] [Get Hands On With Unit Testing - Jest Testing Tutorial](https://dev.to/hr21don/get-hands-on-with-unit-testing-jest-testing-tutorial-5he1)
 - [Dev.to/JS] [Flatiron Phase One Blog: API keys](https://dev.to/omar3o3/flatiron-phase-one-blog-api-keys-4mj5)
 - [Dev.to/JS] [Data Visualization Using Chart.js and Gatsby](https://dev.to/terieyenike/data-visualization-using-chartjs-and-gatsby-2die)
 - [Dev.to/JS] [Weekly Digest 19/2022](https://dev.to/marcobiedermann/weekly-digest-192022-58g3)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Complete Guide to Multi-Provider OAuth 2 Authorization in Node.js](https://dev.to/rishabh570/complete-guide-to-multi-provider-oauth-2-authorization-in-nodejs-36j5)
 - [Dev.to/JS] [Creating a Node.js module for both CommonJS &amp; ESM consumption](https://dev.to/mathbraddock/creating-a-nodejs-module-for-both-commonjs-esm-consumption-174j)
 - [Dev.to/JS] [Getting initiated into algorithmic thinking. How to think like a programmer for newbies like myself.](https://dev.to/coloene/getting-initiated-into-algorithmic-thinking-how-to-think-like-a-programmer-for-newbies-like-myself-4dai)
-- [Dev.to/JS] [Front-end Developer roadmap](https://dev.to/dealwith/front-end-developer-roadmap-2gi0)
-- [Dev.to/JS] [Hang Man in vanilla JavaScript](https://dev.to/prajyu/hang-man-in-vanilla-javascript-3581)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
-- [Dev.to/JS] [Making Multiple API Calls in Javascript](https://dev.to/alexmercedcoder/making-multiple-api-calls-in-javascript-kip)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
