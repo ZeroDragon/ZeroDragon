@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Install React.js On Windows- Codexashish](https://dev.to/mailashish/how-to-install-reactjs-on-windows-codexashish-34oa)
+- [Dev.to/JS] [Jobilist: Side project to product](https://dev.to/namanvyas/jobilist-side-project-to-product-30nc)
+- [Dev.to/JS] [Debug Any React App in Seconds](https://dev.to/zirkelc/debug-any-react-app-in-seconds-5df7)
 - [Dev.to/JS] [JavaScript ES6 #Challenge](https://dev.to/halimshams/javascript-es6-challenge-47bj)
 - [Dev.to/JS] [What is SASS | All-time-dev?](https://dev.to/alltimedevlopment/what-is-sass-all-time-dev-47k8)
 - [Dev.to/JS] [Custom &amp; Reusable Toast Component with Angular Animations, Async Pipe, and RxJS&#39; BehaviorSubject](https://dev.to/riapacheco/custom-reusable-toast-component-with-angular-animations-async-pipe-and-rxjs-behaviorsubject-2bdf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advantages And Disadvantages Of Java Programming Language](https://dev.to/deknurulaja/advantages-and-disadvantages-of-java-programming-language-3m7m)
 - [Dev.to/JS] [#13: Hosting PWA on Static Web Apps](https://dev.to/azure/13-hosting-pwa-on-static-web-apps-16la)
 - [Dev.to/JS] [React tailwind responsive sidebar &amp; dark mode with react-router](https://dev.to/malikidrees/react-tailwind-responsive-sidebar-dark-mode-with-react-router-4g3e)
-- [Dev.to/JS] [For...of? Or for...in? Which to choose!](https://dev.to/jaidoutani/forof-or-forin-which-to-choose-8l2)
-- [Dev.to/JS] [Next.js Image Component Cheatsheet](https://dev.to/iskurbanov/nextjs-image-component-cheatsheet-524d)
-- [Dev.to/JS] [⚗️ Testing Tips: Fetch, Process, Store](https://dev.to/mistval/testing-tips-fetch-calculate-store-2i07)
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
