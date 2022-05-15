@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
 - [Dev.to/JS] [Python vs. JavaScript: Is It a Fair Comparison?](https://dev.to/stx-next/python-vs-javascript-is-it-a-fair-comparison-531a)
 - [Dev.to/JS] [Building a startup | Days 1 - 5](https://dev.to/advikguptadev/building-a-startup-days-1-5-2h97)
 - [Dev.to/JS] [FLEX BOX](https://dev.to/allison_m_08b9005267b3bcf/flex-box-2jck)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
 - [Lifehacker] [How to Update Your AirPods](https://lifehacker.com/how-to-update-your-airpods-1848911869)
 - [Lifehacker] [The World Needs More Cook-Offs &lpar;and How to Host a Good One&rpar;](https://lifehacker.com/the-world-needs-more-cook-offs-and-how-to-host-a-good-1848917757)
-- [Lifehacker] [Everything You Never Thought You’d Need to Know About Adult Ear Infections](https://lifehacker.com/everything-you-never-thought-you-d-need-to-know-about-a-1848917104)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
