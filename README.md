@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What did this week: 5/15/22](https://dev.to/fig781/what-did-this-week-51522-4djn)
+- [Dev.to/JS] [Millimeter wave radar detection parameters](https://dev.to/ailee/millimeter-wave-radar-detection-parameters-6ph)
 - [Dev.to/JS] [MongoDB and Express CRUD](https://dev.to/swislokdev/mongodb-and-express-crud-4m6h)
 - [Dev.to/JS] [How to add Dark mode in Next.js Application using Tailwind CSS.](https://dev.to/rashidalikalwar/how-to-add-dark-mode-in-nextjs-application-using-tailwind-css-49bg)
 - [Dev.to/JS] [#14: Show &amp; Tell: A SWArm of Apps!](https://dev.to/azure/14-show-tell-a-swarm-of-apps-4kp6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tailwind CSS Customization Summary](https://dev.to/nrikiji/tailwind-css-customization-summary-3421)
 - [Dev.to/JS] [What is `this`? Technical debt!](https://dev.to/vangware/what-is-this-technical-debt-3150)
 - [Dev.to/JS] [Winning Card &lpar;DSA Series&rpar;](https://dev.to/olumidesamuel_/winning-card-dsa-series-4k73)
-- [Dev.to/JS] [NPM Library to get a list of WordPress posts&#39; character counts using the WP REST API](https://dev.to/shinshin86/npm-library-to-get-a-list-of-wordpress-posts-character-counts-using-the-wp-rest-api-4929)
-- [Dev.to/JS] [The infamous Two Sum problem. &lpar;DSA Series 3&rpar;](https://dev.to/olumidesamuel_/the-infamous-two-sum-problem-dsa-series-3-5f6d)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
