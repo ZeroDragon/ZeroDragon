@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Find a &lpar;Good&rpar; Therapist When You Don’t Have Insurance](https://lifehacker.com/how-to-find-a-good-therapist-when-you-don-t-have-insu-1848918177)
+- [Dev.to/JS] [1 month into the Coding Lifestyle](https://dev.to/ohmzs/1-month-into-the-coding-lifestyle-476h)
+- [Dev.to/JS] [How to Create PR Review Apps with Render](https://dev.to/thawkin3/how-to-create-pr-review-apps-with-render-2cfk)
+- [Lifehacker] [What Not to Do When You Slip Up at Work](https://lifehacker.com/what-not-to-do-when-you-fuck-up-at-work-1848923881)
+- [Dev.to/JS] [Animated Search Bar Using HTML &amp; CSS](https://dev.to/sreeju/animated-search-bar-using-html-css-p9)
+- [Dev.to/JS] [Marker Clustering Google Maps in JavaScript](https://dev.to/hirajatamil/marker-clustering-google-maps-in-javascript-2e7m)
 - [Dev.to/JS] [The Best Node JS Framework List for 2022](https://dev.to/whotarusharora/the-best-node-js-framework-list-for-2022-188d)
 - [Dev.to/JS] [MultiLevel Inheritance in Java](https://dev.to/akshays81992169/multilevel-inheritance-in-java-5adl)
 - [Dev.to/JS] [Next.js API routes with Koa.js](https://dev.to/ivandotv/nextjs-api-routes-with-koajs-3i19)
 - [Dev.to/JS] [Optimizing Your Web App for Maximum Runtime Performance and Premature Optimization 🦄](https://dev.to/tkvishal/optimizing-your-web-app-for-maximum-runtime-performance-and-premature-optimization-3loj)
+- [Dev.to/JS] [How to fetch NFT collection using JavaScript and OpenSea API](https://dev.to/codegino/how-to-fetch-nft-collection-using-javascript-and-opensea-api-2ij8)
 - [Dev.to/JS] [1 Minute Tip | Make your promises faster](https://dev.to/charliesay/1-minute-tip-make-your-promises-faster-377n)
 - [Dev.to/JS] [Windows 12, but for web](https://dev.to/rehman0/windows-12-but-for-web-2k42)
 - [Dev.to/JS] [Windows 22,But for web](https://dev.to/rehman0/windows-22but-for-web-4pd9)
-- [Dev.to/JS] [How to add RSS feed in Next.js Blog](https://dev.to/j471n/how-to-add-rss-feed-in-nextjs-blog-34j1)
-- [Dev.to/JS] [Windows 22, but for Web](https://dev.to/rehman0/windows-22-but-for-web-1ho0)
-- [Dev.to/JS] [Add Survey Creator / Form Builder to Your React Application](https://dev.to/surveyjs/add-survey-creator-form-builder-to-your-react-application-50gd)
-- [Dev.to/JS] [Getting Started with Appwrite &lpar;Web&rpar;+Realtime data updating in Appwrite](https://dev.to/irshit033/getting-started-with-appwrite-webrealtime-data-updating-in-appwrite-1jeb)
-- [Dev.to/JS] [Learn The Django REST Framework. Part 2 Creating API Views &lpar;Function Based API Views&rpar;](https://dev.to/jod35/learn-the-django-rest-framework-part-2-creating-api-views-function-based-api-views-51pe)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Paint a Stenciled Pattern Onto That Old Concrete Patio](https://lifehacker.com/paint-a-stenciled-pattern-onto-that-old-concrete-patio-1848920075)
 - [Lifehacker] [The Difference Between Honing and Sharpening Your Knives &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-honing-and-sharpening-your-knive-1848919780)
 - [Lifehacker] [How to Fight a Goose and Win &lpar;Just Kidding, You Won’t Win&rpar;](https://lifehacker.com/how-to-fight-a-goose-and-win-just-kidding-you-won-t-w-1848918670)
-- [Lifehacker] [12 Myths About Sunscreen You Need to Stop Believing](https://lifehacker.com/12-myths-about-sunscreen-you-need-to-stop-believing-1848916363)
-- [Lifehacker] [How to Use Your Android Phone&#39;s Built-In Password Manager](https://lifehacker.com/how-to-use-your-android-phones-built-in-password-manage-1848918409)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
