@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with Appwrite &lpar;Web&rpar;+Realtime data updating in Appwrite](https://dev.to/irshit033/getting-started-with-appwrite-webrealtime-data-updating-in-appwrite-1jeb)
+- [Dev.to/JS] [Learn The Django REST Framework. Part 2 Creating API Views &lpar;Function Based API Views&rpar;](https://dev.to/jod35/learn-the-django-rest-framework-part-2-creating-api-views-function-based-api-views-51pe)
+- [Dev.to/JS] [Full Screen Background Image With HTML &amp; CSS | Responsive Full Page Background Image Using CSS 🤯](https://dev.to/rammcodes/full-screen-background-image-with-html-css-responsive-full-page-background-image-using-css-3eia)
 - [Dev.to/JS] [Fullstack Authentication with Remix using Prisma, MongoDB and Typescript](https://dev.to/ishanme/fullstack-authentication-with-remix-using-prisma-mongodb-and-typescript-c1e)
 - [Dev.to/JS] [Use Vite for React Apps instead of CRA](https://dev.to/nilanth/use-vite-for-react-apps-instead-of-cra-3pkg)
 - [Dev.to/JS] [yourid.js](https://dev.to/lassv/youridjs-2766)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Laravel 9 Update an Existing Model](https://dev.to/codeanddeploy/laravel-9-update-an-existing-model-2cfa)
 - [Dev.to/JS] [Laravel 9 2FA - Two Factor Authentication with Authy](https://dev.to/codeanddeploy/laravel-9-2fa-two-factor-authentication-with-authy-p07)
 - [Dev.to/JS] [Stop Using Divs for Buttons!](https://dev.to/mariusbongarts/stop-uding-divs-for-buttons-2n15)
-- [Dev.to/JS] [Why should you learn JavaScript?](https://dev.to/kibetamos/why-should-you-learn-javascript-11a)
-- [Dev.to/JS] [Introduction to Sveltekit](https://dev.to/aryakris/introduction-to-sveltekit-2gco)
-- [Dev.to/JS] [How to speed up a Web App loading time by 10x faster!](https://dev.to/mtwn105/how-to-speed-up-a-web-app-loading-time-by-10x-faster-1oke)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
