@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stop Using Divs for Buttons!](https://dev.to/mariusbongarts/stop-uding-divs-for-buttons-2n15)
+- [Dev.to/JS] [Why should you learn JavaScript?](https://dev.to/kibetamos/why-should-you-learn-javascript-11a)
+- [Dev.to/JS] [Introduction to Sveltekit](https://dev.to/aryakris/introduction-to-sveltekit-2gco)
 - [Dev.to/JS] [How to speed up a Web App loading time by 10x faster!](https://dev.to/mtwn105/how-to-speed-up-a-web-app-loading-time-by-10x-faster-1oke)
 - [Dev.to/JS] [Pagekit](https://dev.to/madewithjavascript/pagekit-5jk)
 - [Dev.to/JS] [How to properly internationalize a Vue application using i18next](https://dev.to/adrai/how-to-properly-internationalize-a-vue-application-using-i18next-1doj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MongoDB and Express CRUD](https://dev.to/swislokdev/mongodb-and-express-crud-4m6h)
 - [Dev.to/JS] [How to add Dark mode in Next.js Application using Tailwind CSS.](https://dev.to/rashidalikalwar/how-to-add-dark-mode-in-nextjs-application-using-tailwind-css-49bg)
 - [Dev.to/JS] [#14: Show &amp; Tell: A SWArm of Apps!](https://dev.to/azure/14-show-tell-a-swarm-of-apps-4kp6)
-- [Dev.to/JS] [Error Boundaries](https://dev.to/buiminh15/error-boundaries-576h)
-- [Dev.to/JS] [Building a simple invoice generator with Node Js](https://dev.to/olaf_ranai/building-a-simple-invoice-generator-with-node-js-lah)
-- [Dev.to/JS] [How To Create a Contact Form in React With KendoReact Form](https://dev.to/chineduimoh/how-to-create-a-contact-form-in-react-with-kendoreact-form-1n3i)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
