@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Best Node JS Framework List for 2022](https://dev.to/whotarusharora/the-best-node-js-framework-list-for-2022-188d)
+- [Dev.to/JS] [MultiLevel Inheritance in Java](https://dev.to/akshays81992169/multilevel-inheritance-in-java-5adl)
+- [Dev.to/JS] [Next.js API routes with Koa.js](https://dev.to/ivandotv/nextjs-api-routes-with-koajs-3i19)
+- [Dev.to/JS] [Optimizing Your Web App for Maximum Runtime Performance and Premature Optimization 🦄](https://dev.to/tkvishal/optimizing-your-web-app-for-maximum-runtime-performance-and-premature-optimization-3loj)
 - [Dev.to/JS] [1 Minute Tip | Make your promises faster](https://dev.to/charliesay/1-minute-tip-make-your-promises-faster-377n)
 - [Dev.to/JS] [Windows 12, but for web](https://dev.to/rehman0/windows-12-but-for-web-2k42)
 - [Dev.to/JS] [Windows 22,But for web](https://dev.to/rehman0/windows-22but-for-web-4pd9)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Survey Creator / Form Builder to Your React Application](https://dev.to/surveyjs/add-survey-creator-form-builder-to-your-react-application-50gd)
 - [Dev.to/JS] [Getting Started with Appwrite &lpar;Web&rpar;+Realtime data updating in Appwrite](https://dev.to/irshit033/getting-started-with-appwrite-webrealtime-data-updating-in-appwrite-1jeb)
 - [Dev.to/JS] [Learn The Django REST Framework. Part 2 Creating API Views &lpar;Function Based API Views&rpar;](https://dev.to/jod35/learn-the-django-rest-framework-part-2-creating-api-views-function-based-api-views-51pe)
-- [Dev.to/JS] [Full Screen Background Image With HTML &amp; CSS | Responsive Full Page Background Image Using CSS 🤯](https://dev.to/rammcodes/full-screen-background-image-with-html-css-responsive-full-page-background-image-using-css-3eia)
-- [Dev.to/JS] [Fullstack Authentication with Remix using Prisma, MongoDB and Typescript](https://dev.to/ishanme/fullstack-authentication-with-remix-using-prisma-mongodb-and-typescript-c1e)
-- [Dev.to/JS] [Use Vite for React Apps instead of CRA](https://dev.to/nilanth/use-vite-for-react-apps-instead-of-cra-3pkg)
-- [Dev.to/JS] [yourid.js](https://dev.to/lassv/youridjs-2766)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
