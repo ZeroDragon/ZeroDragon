@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-do-when-a-cop-asks-to-search-your-vehicle-1848930764)
+- [Dev.to/JS] [Agiloo | Made with Vue JS](https://dev.to/madewithjavascript/agiloo-made-with-vue-js-4k3f)
+- [Dev.to/JS] [Quirks and Features of Weird JavaScript](https://dev.to/pramit_marattha/quirks-and-features-of-weird-javascript-25jk)
+- [Dev.to/JS] [Gatsby Graphql schema customization for beginners](https://dev.to/alex_barashkov/gatsby-graphql-schema-customization-for-beginners-ngg)
+- [Dev.to/JS] [Convertendo callbacks em promises em JavaScript](https://dev.to/pbalduino/convertendo-callbacks-em-promises-em-javascript-1egi)
+- [Dev.to/JS] [Paracetamol.js💊| #117: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-117-explica-este-codigo-javascript-18d5)
+- [Lifehacker] [How I Trick My Kids Into Going on Walks With Me](https://lifehacker.com/how-i-trick-my-kids-into-going-on-walks-with-me-1848920552)
+- [Dev.to/JS] [Javascript Closures](https://dev.to/talenttinaapi/javascript-closures-4f5f)
+- [Dev.to/JS] [Components &amp; Props](https://dev.to/erick12/components-props-466i)
 - [Lifehacker] [This Free App Removes Any Photo Background](https://lifehacker.com/this-free-app-removes-any-photo-background-1848930015)
 - [Dev.to/JS] [Understanding and using Relations in Strapi](https://dev.to/strapi/understanding-and-using-relations-in-strapi-4jpc)
 - [Lifehacker] [You Can Design Your Garden to Deter Snakes](https://lifehacker.com/how-to-design-your-garden-to-deter-snakes-1848929165)
@@ -32,15 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Raising a Teenager](https://lifehacker.com/the-7-deadly-sins-of-raising-a-teenager-1848924362)
 - [Dev.to/JS] [Pre-rendered Angular Site Flickers](https://dev.to/rtc/pre-rendered-angular-site-flickers-1k5k)
 - [Lifehacker] [14 of the Best Movies and TV Shows That Dared to Tackle Abortion](https://lifehacker.com/14-of-the-best-movies-and-tv-shows-that-dared-to-tackle-1848919004)
-- [Dev.to/JS] [Refactoring With Confidence](https://dev.to/zigamiklic/refactoring-with-confidence-jm8)
-- [Dev.to/JS] [Most fast function to extract numbers from string!](https://dev.to/matheusmprado/how-to-extract-numbers-from-string-fast-35nd)
 - [Lifehacker] [How to Find a &lpar;Good&rpar; Therapist When You Don’t Have Insurance](https://lifehacker.com/how-to-find-a-good-therapist-when-you-don-t-have-insu-1848918177)
-- [Dev.to/JS] [1 month into the Coding Lifestyle](https://dev.to/ohmzs/1-month-into-the-coding-lifestyle-476h)
-- [Dev.to/JS] [How to Create PR Review Apps with Render](https://dev.to/thawkin3/how-to-create-pr-review-apps-with-render-2cfk)
-- [Dev.to/JS] [NodeJS API Circuit Breaker Pattern](https://dev.to/kevin_htun/nodejs-api-circuit-breaker-pattern-5fon)
 - [Lifehacker] [What Not to Do When You Slip Up at Work](https://lifehacker.com/what-not-to-do-when-you-fuck-up-at-work-1848923881)
-- [Dev.to/JS] [Animated Search Bar Using HTML &amp; CSS](https://dev.to/sreeju/animated-search-bar-using-html-css-p9)
-- [Dev.to/JS] [Marker Clustering Google Maps in JavaScript](https://dev.to/hirajatamil/marker-clustering-google-maps-in-javascript-2e7m)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Chrome Extension Helps You Work Less](https://lifehacker.com/this-chrome-extension-helps-you-work-less-1848918834)
 - [Lifehacker] [How to Know If You Have a Fear of Abandonment &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-know-if-you-have-a-fear-of-abandonment-and-what-1848908061)
 - [Lifehacker] [25 of the Most Expensive Movies Ever, Adjusted for Inflation](https://lifehacker.com/25-of-the-most-expensive-movies-ever-adjusted-for-infl-1848910713)
-- [Lifehacker] [These Are the Best Alternatives to a Keurig](https://lifehacker.com/these-are-the-best-alternatives-to-a-keurig-1848922199)
-- [Lifehacker] [How to Fix Slow Messaging on Your Pixel](https://lifehacker.com/how-to-fix-slow-messaging-on-your-pixel-1848921960)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
