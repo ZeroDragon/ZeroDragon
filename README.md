@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add RSS feed in Next.js Blog](https://dev.to/j471n/how-to-add-rss-feed-in-nextjs-blog-34j1)
+- [Dev.to/JS] [Windows 22, but for Web](https://dev.to/rehman0/windows-22-but-for-web-1ho0)
+- [Dev.to/JS] [Add Survey Creator / Form Builder to Your React Application](https://dev.to/surveyjs/add-survey-creator-form-builder-to-your-react-application-50gd)
 - [Dev.to/JS] [Getting Started with Appwrite &lpar;Web&rpar;+Realtime data updating in Appwrite](https://dev.to/irshit033/getting-started-with-appwrite-webrealtime-data-updating-in-appwrite-1jeb)
 - [Dev.to/JS] [Learn The Django REST Framework. Part 2 Creating API Views &lpar;Function Based API Views&rpar;](https://dev.to/jod35/learn-the-django-rest-framework-part-2-creating-api-views-function-based-api-views-51pe)
 - [Dev.to/JS] [Full Screen Background Image With HTML &amp; CSS | Responsive Full Page Background Image Using CSS 🤯](https://dev.to/rammcodes/full-screen-background-image-with-html-css-responsive-full-page-background-image-using-css-3eia)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jquery Checkbox Assign Multiple Permissions to a Role](https://dev.to/codeanddeploy/jquery-checkbox-assign-multiple-permissions-to-a-role-28h0)
 - [Dev.to/JS] [Single Responsibility with React Components](https://dev.to/drayeleo/single-responsibility-with-react-components-35n2)
 - [Dev.to/JS] [Extra Strength Keto [U.S Reviews]: Let&#39;s Start To Burn fat In 2022](https://dev.to/extraketobutnow/extra-strength-keto-us-reviews-lets-start-to-burn-fat-in-2022-2l7g)
-- [Dev.to/JS] [Laravel 9 Update an Existing Model](https://dev.to/codeanddeploy/laravel-9-update-an-existing-model-2cfa)
-- [Dev.to/JS] [Laravel 9 2FA - Two Factor Authentication with Authy](https://dev.to/codeanddeploy/laravel-9-2fa-two-factor-authentication-with-authy-p07)
-- [Dev.to/JS] [Stop Using Divs for Buttons!](https://dev.to/mariusbongarts/stop-uding-divs-for-buttons-2n15)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
