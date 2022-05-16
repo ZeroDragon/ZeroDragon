@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [1 Minute Tip | Make your promises faster](https://dev.to/charliesay/1-minute-tip-make-your-promises-faster-377n)
+- [Dev.to/JS] [Windows 12, but for web](https://dev.to/rehman0/windows-12-but-for-web-2k42)
+- [Dev.to/JS] [Windows 22,But for web](https://dev.to/rehman0/windows-22but-for-web-4pd9)
 - [Dev.to/JS] [How to add RSS feed in Next.js Blog](https://dev.to/j471n/how-to-add-rss-feed-in-nextjs-blog-34j1)
 - [Dev.to/JS] [Windows 22, but for Web](https://dev.to/rehman0/windows-22-but-for-web-1ho0)
 - [Dev.to/JS] [Add Survey Creator / Form Builder to Your React Application](https://dev.to/surveyjs/add-survey-creator-form-builder-to-your-react-application-50gd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fullstack Authentication with Remix using Prisma, MongoDB and Typescript](https://dev.to/ishanme/fullstack-authentication-with-remix-using-prisma-mongodb-and-typescript-c1e)
 - [Dev.to/JS] [Use Vite for React Apps instead of CRA](https://dev.to/nilanth/use-vite-for-react-apps-instead-of-cra-3pkg)
 - [Dev.to/JS] [yourid.js](https://dev.to/lassv/youridjs-2766)
-- [Dev.to/JS] [Jquery Checkbox Assign Multiple Permissions to a Role](https://dev.to/codeanddeploy/jquery-checkbox-assign-multiple-permissions-to-a-role-28h0)
-- [Dev.to/JS] [Single Responsibility with React Components](https://dev.to/drayeleo/single-responsibility-with-react-components-35n2)
-- [Dev.to/JS] [Extra Strength Keto [U.S Reviews]: Let&#39;s Start To Burn fat In 2022](https://dev.to/extraketobutnow/extra-strength-keto-us-reviews-lets-start-to-burn-fat-in-2022-2l7g)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
