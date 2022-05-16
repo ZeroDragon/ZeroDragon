@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is there really a &#39;fun&#39; in functions?](https://dev.to/jaythoven/is-there-really-a-fun-in-functions-3bf1)
 - [Dev.to/JS] [What did this week: 5/15/22](https://dev.to/fig781/what-did-this-week-51522-4djn)
 - [Dev.to/JS] [Millimeter wave radar detection parameters](https://dev.to/ailee/millimeter-wave-radar-detection-parameters-6ph)
 - [Dev.to/JS] [MongoDB and Express CRUD](https://dev.to/swislokdev/mongodb-and-express-crud-4m6h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s your most used JavaScript framework?](https://dev.to/asheeshh/whats-your-most-used-javascript-framework-1nip)
 - [Dev.to/JS] [Tailwind CSS Customization Summary](https://dev.to/nrikiji/tailwind-css-customization-summary-3421)
 - [Dev.to/JS] [What is `this`? Technical debt!](https://dev.to/vangware/what-is-this-technical-debt-3150)
-- [Dev.to/JS] [Winning Card &lpar;DSA Series&rpar;](https://dev.to/olumidesamuel_/winning-card-dsa-series-4k73)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
