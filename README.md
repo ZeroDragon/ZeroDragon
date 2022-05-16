@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Free App Removes Any Photo Background](https://lifehacker.com/this-free-app-removes-any-photo-background-1848930015)
+- [Dev.to/JS] [Understanding and using Relations in Strapi](https://dev.to/strapi/understanding-and-using-relations-in-strapi-4jpc)
+- [Lifehacker] [You Can Design Your Garden to Deter Snakes](https://lifehacker.com/how-to-design-your-garden-to-deter-snakes-1848929165)
+- [Dev.to/JS] [Pitch me on TypeScript](https://dev.to/ben/pitch-me-on-typescript-1n5n)
+- [Dev.to/JS] [FizzBuzz program in javascript](https://dev.to/nsijwali/fizzbuzz-program-in-javascript-51bo)
+- [Dev.to/JS] [Javascript:5 common error messages](https://dev.to/talenttinaapi/javascript5-common-error-messages-1fep)
 - [Lifehacker] [The 7 Deadly Sins of Raising a Teenager](https://lifehacker.com/the-7-deadly-sins-of-raising-a-teenager-1848924362)
 - [Dev.to/JS] [Pre-rendered Angular Site Flickers](https://dev.to/rtc/pre-rendered-angular-site-flickers-1k5k)
 - [Lifehacker] [14 of the Best Movies and TV Shows That Dared to Tackle Abortion](https://lifehacker.com/14-of-the-best-movies-and-tv-shows-that-dared-to-tackle-1848919004)
@@ -31,14 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find a &lpar;Good&rpar; Therapist When You Don’t Have Insurance](https://lifehacker.com/how-to-find-a-good-therapist-when-you-don-t-have-insu-1848918177)
 - [Dev.to/JS] [1 month into the Coding Lifestyle](https://dev.to/ohmzs/1-month-into-the-coding-lifestyle-476h)
 - [Dev.to/JS] [How to Create PR Review Apps with Render](https://dev.to/thawkin3/how-to-create-pr-review-apps-with-render-2cfk)
+- [Dev.to/JS] [NodeJS API Circuit Breaker Pattern](https://dev.to/kevin_htun/nodejs-api-circuit-breaker-pattern-5fon)
 - [Lifehacker] [What Not to Do When You Slip Up at Work](https://lifehacker.com/what-not-to-do-when-you-fuck-up-at-work-1848923881)
 - [Dev.to/JS] [Animated Search Bar Using HTML &amp; CSS](https://dev.to/sreeju/animated-search-bar-using-html-css-p9)
 - [Dev.to/JS] [Marker Clustering Google Maps in JavaScript](https://dev.to/hirajatamil/marker-clustering-google-maps-in-javascript-2e7m)
-- [Dev.to/JS] [The Best Node JS Framework List for 2022](https://dev.to/whotarusharora/the-best-node-js-framework-list-for-2022-188d)
-- [Dev.to/JS] [MultiLevel Inheritance in Java](https://dev.to/akshays81992169/multilevel-inheritance-in-java-5adl)
-- [Dev.to/JS] [Next.js API routes with Koa.js](https://dev.to/ivandotv/nextjs-api-routes-with-koajs-3i19)
-- [Dev.to/JS] [Optimizing Your Web App for Maximum Runtime Performance and Premature Optimization 🦄](https://dev.to/tkvishal/optimizing-your-web-app-for-maximum-runtime-performance-and-premature-optimization-3loj)
-- [Dev.to/JS] [How to fetch NFT collection using JavaScript and OpenSea API](https://dev.to/codegino/how-to-fetch-nft-collection-using-javascript-and-opensea-api-2ij8)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 of the Most Expensive Movies Ever, Adjusted for Inflation](https://lifehacker.com/25-of-the-most-expensive-movies-ever-adjusted-for-infl-1848910713)
 - [Lifehacker] [These Are the Best Alternatives to a Keurig](https://lifehacker.com/these-are-the-best-alternatives-to-a-keurig-1848922199)
 - [Lifehacker] [How to Fix Slow Messaging on Your Pixel](https://lifehacker.com/how-to-fix-slow-messaging-on-your-pixel-1848921960)
-- [Lifehacker] [10 Google I/O Reveals You Probably Missed](https://lifehacker.com/10-of-the-best-google-i-o-reveals-you-probably-missed-1848921119)
-- [Lifehacker] [Paint a Stenciled Pattern Onto That Old Concrete Patio](https://lifehacker.com/paint-a-stenciled-pattern-onto-that-old-concrete-patio-1848920075)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
