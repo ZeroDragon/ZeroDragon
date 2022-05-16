@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 7 Deadly Sins of Raising a Teenager](https://lifehacker.com/the-7-deadly-sins-of-raising-a-teenager-1848924362)
+- [Dev.to/JS] [Pre-rendered Angular Site Flickers](https://dev.to/rtc/pre-rendered-angular-site-flickers-1k5k)
+- [Lifehacker] [14 of the Best Movies and TV Shows That Dared to Tackle Abortion](https://lifehacker.com/14-of-the-best-movies-and-tv-shows-that-dared-to-tackle-1848919004)
+- [Dev.to/JS] [Refactoring With Confidence](https://dev.to/zigamiklic/refactoring-with-confidence-jm8)
+- [Dev.to/JS] [Most fast function to extract numbers from string!](https://dev.to/matheusmprado/how-to-extract-numbers-from-string-fast-35nd)
 - [Lifehacker] [How to Find a &lpar;Good&rpar; Therapist When You Don’t Have Insurance](https://lifehacker.com/how-to-find-a-good-therapist-when-you-don-t-have-insu-1848918177)
 - [Dev.to/JS] [1 month into the Coding Lifestyle](https://dev.to/ohmzs/1-month-into-the-coding-lifestyle-476h)
 - [Dev.to/JS] [How to Create PR Review Apps with Render](https://dev.to/thawkin3/how-to-create-pr-review-apps-with-render-2cfk)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js API routes with Koa.js](https://dev.to/ivandotv/nextjs-api-routes-with-koajs-3i19)
 - [Dev.to/JS] [Optimizing Your Web App for Maximum Runtime Performance and Premature Optimization 🦄](https://dev.to/tkvishal/optimizing-your-web-app-for-maximum-runtime-performance-and-premature-optimization-3loj)
 - [Dev.to/JS] [How to fetch NFT collection using JavaScript and OpenSea API](https://dev.to/codegino/how-to-fetch-nft-collection-using-javascript-and-opensea-api-2ij8)
-- [Dev.to/JS] [1 Minute Tip | Make your promises faster](https://dev.to/charliesay/1-minute-tip-make-your-promises-faster-377n)
-- [Dev.to/JS] [Windows 12, but for web](https://dev.to/rehman0/windows-12-but-for-web-2k42)
-- [Dev.to/JS] [Windows 22,But for web](https://dev.to/rehman0/windows-22but-for-web-4pd9)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix Slow Messaging on Your Pixel](https://lifehacker.com/how-to-fix-slow-messaging-on-your-pixel-1848921960)
 - [Lifehacker] [10 Google I/O Reveals You Probably Missed](https://lifehacker.com/10-of-the-best-google-i-o-reveals-you-probably-missed-1848921119)
 - [Lifehacker] [Paint a Stenciled Pattern Onto That Old Concrete Patio](https://lifehacker.com/paint-a-stenciled-pattern-onto-that-old-concrete-patio-1848920075)
-- [Lifehacker] [The Difference Between Honing and Sharpening Your Knives &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-honing-and-sharpening-your-knive-1848919780)
-- [Lifehacker] [How to Fight a Goose and Win &lpar;Just Kidding, You Won’t Win&rpar;](https://lifehacker.com/how-to-fight-a-goose-and-win-just-kidding-you-won-t-w-1848918670)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
