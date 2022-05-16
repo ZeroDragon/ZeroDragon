@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ng-News: Episode 22/19](https://dev.to/rainerhahnekamp/ng-news-episode-2219-221o)
+- [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
+- [Dev.to/JS] [SQL: One to Many Join Query in an Optimal way with Node.js](https://dev.to/ali_a_koye/sql-one-to-many-join-query-in-an-optimal-way-with-nodejs-2da2)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Dev.to/JS] [The best 4 ways to styling a React App](https://dev.to/joselatines/the-best-4-ways-to-styling-a-react-app-4ehk)
 - [Dev.to/JS] [Como desestruturar um Array no JavaScript](https://dev.to/viniciuslucena/como-desestruturar-um-array-no-javascript-15i0)
@@ -38,10 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Free or Cheap Things Meant to Bring You Good Luck](https://lifehacker.com/13-free-or-cheap-things-meant-to-bring-you-good-luck-1848923978)
 - [Dev.to/JS] [98. Validate Binary Search Tree 🚀](https://dev.to/samuelhinchliffe/98-validate-binary-search-tree-1cc9)
 - [Dev.to/JS] [AT&amp;T | Made with Next JS](https://dev.to/madewithjavascript/att-made-with-next-js-3f21)
-- [Dev.to/JS] [How to read a CSV file using React functional components](https://dev.to/dbrownsoftware/how-to-read-a-csv-file-using-react-functional-components-44m9)
 - [Lifehacker] [What&#39;s New in iOS 15.5](https://lifehacker.com/whats-new-in-ios-15-5-1848931987)
 - [Lifehacker] [A Delayed Honeymoon Is a Better Honeymoon](https://lifehacker.com/why-a-delayed-honeymoon-is-a-better-honeymoon-1848931261)
-- [Dev.to/JS] [Don&#39;t Nest Callbacks. Use Promise Chaining Instead.](https://dev.to/hunghvu/javascript-promise-chaining-avoid-callback-hell-16ef)
 - [Lifehacker] [Does Stepping on Ants Actually Attract More Ants?](https://lifehacker.com/does-stepping-on-ants-actually-attract-more-ants-1848930844)
 - [Lifehacker] [Here Are &lpar;Almost&rpar; All the Free Games Available at the PlayStation Plus Launch](https://lifehacker.com/here-are-almost-all-the-free-games-available-at-the-p-1848931055)
 - [Lifehacker] [Why You Should Never Make Your Own Baby Formula](https://lifehacker.com/why-you-should-never-make-your-own-baby-formula-1848931559)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
-- [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
