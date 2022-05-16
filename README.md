@@ -23,11 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why a Delayed Honeymoon Is a Better Honeymoon](https://lifehacker.com/why-a-delayed-honeymoon-is-a-better-honeymoon-1848931261)
+- [Dev.to/JS] [JavaScript Promise Chaining - Avoid Callback Hell](https://dev.to/hunghvu/javascript-promise-chaining-avoid-callback-hell-16ef)
+- [Lifehacker] [Does Stepping on Ants Actually Attract More Ants?](https://lifehacker.com/does-stepping-on-ants-actually-attract-more-ants-1848930844)
+- [Dev.to/JS] [Google Tasks Chrome Extension](https://dev.to/junaid_dev/google-tasks-chrome-extension-3d93)
+- [Dev.to/JS] [Defference Between target=_blank &amp; target=blank](https://dev.to/sreeju/defference-between-targetblank-targetblank-2m5d)
+- [Dev.to/JS] [The Use of .forEach&lpar;&rpar;](https://dev.to/jct20xx/the-use-of-foreach-11lk)
 - [Lifehacker] [Here Are &lpar;Almost&rpar; All the Free Games Available at the PlayStation Plus Launch](https://lifehacker.com/here-are-almost-all-the-free-games-available-at-the-p-1848931055)
-- [Dev.to/JS] [Today&#39;s Svelte App With Minimal UI...](https://dev.to/hr21don/todays-svelte-app-with-minimal-ui-1e96)
+- [Dev.to/JS] [Today&#39;s Svelte App With Minimal UI!](https://dev.to/hr21don/todays-svelte-app-with-minimal-ui-1e96)
 - [Dev.to/JS] [Day-88 Training At Ryaz](https://dev.to/mahin651/day-88-training-at-ryaz-nhh)
 - [Lifehacker] [Why You Should Never Make Your Own Baby Formula](https://lifehacker.com/why-you-should-never-make-your-own-baby-formula-1848931559)
-- [Dev.to/JS] [Responsive Obround Element](https://dev.to/colinintj/responsive-obround-element-dl)
 - [Lifehacker] [Don&#39;t Eat These Recalled Skittles, Starburst, and Life Savers Gummies](https://lifehacker.com/dont-eat-these-recalled-skittles-starburst-and-life-s-1848930601)
 - [Dev.to/JS] [Introducing SpotCoders, a Free Coding Meetup](https://dev.to/srmagura/introducing-spotcoders-a-free-coding-meetup-3b4)
 - [Dev.to/JS] [Temporal API Cheatsheet: Quick Guide to new JS API](https://dev.to/askrodney/temporal-api-cheatsheet-quick-guide-to-new-js-api-3n1f)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Agiloo | Made with Vue JS](https://dev.to/madewithjavascript/agiloo-made-with-vue-js-4k3f)
 - [Dev.to/JS] [Quirks and Features of Weird JavaScript 😵](https://dev.to/pramit_marattha/quirks-and-features-of-weird-javascript-25jk)
 - [Dev.to/JS] [Gatsby Graphql schema customization for beginners](https://dev.to/alex_barashkov/gatsby-graphql-schema-customization-for-beginners-ngg)
-- [Dev.to/JS] [[pt-BR] Convertendo callbacks em promises em JavaScript](https://dev.to/pbalduino/convertendo-callbacks-em-promises-em-javascript-1egi)
-- [Dev.to/JS] [Paracetamol.js💊| #117: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-117-explica-este-codigo-javascript-18d5)
 - [Lifehacker] [How I Trick My Kids Into Going on Walks With Me](https://lifehacker.com/how-i-trick-my-kids-into-going-on-walks-with-me-1848920552)
-- [Dev.to/JS] [Javascript Closures](https://dev.to/talenttinaapi/javascript-closures-4f5f)
 - [Lifehacker] [This Free App Removes Any Photo Background](https://lifehacker.com/this-free-app-removes-any-photo-background-1848930015)
 - [Lifehacker] [You Can Design Your Garden to Deter Snakes](https://lifehacker.com/how-to-design-your-garden-to-deter-snakes-1848929165)
 - [Lifehacker] [The 7 Deadly Sins of Raising a Teenager](https://lifehacker.com/the-7-deadly-sins-of-raising-a-teenager-1848924362)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much RAM Do You Really Need?](https://lifehacker.com/how-much-ram-do-you-really-need-1848924012)
 - [Lifehacker] [7 Gross Food Myths That Don&#39;t Make Sense &lpar;but People Still Believe&rpar;](https://lifehacker.com/7-gross-food-myths-that-dont-make-sense-but-people-sti-1848919243)
 - [Lifehacker] [How to Really Decide How Early to Get to the Airport](https://lifehacker.com/how-to-really-decide-how-early-to-get-to-the-airport-1848923019)
-- [Lifehacker] [Why Zoomed Photos Look Bad on Your iPhone &lpar;and How to Fix Them&rpar;](https://lifehacker.com/why-zoomed-photos-look-bad-on-your-iphone-and-how-to-f-1848922895)
-- [Lifehacker] [Get &#39;Girl Drink Drunk&#39; With a Strawberry Daiquiri](https://lifehacker.com/get-girl-drink-drunk-with-a-strawberry-daiquiri-1848922988)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
