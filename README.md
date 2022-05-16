@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
+- [Dev.to/JS] [The best 4 ways to styling a React App](https://dev.to/joselatines/the-best-4-ways-to-styling-a-react-app-4ehk)
+- [Dev.to/JS] [Como desestruturar um Array no JavaScript](https://dev.to/viniciuslucena/como-desestruturar-um-array-no-javascript-15i0)
+- [Dev.to/JS] [Best websites to get free 3d illustration](https://dev.to/_zoka/best-websites-to-get-free-3d-illustration-53ha)
+- [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
+- [Dev.to/JS] [Maps and Sets in JavaScript](https://dev.to/kibetamos/maps-and-sets-in-javascript-320e)
+- [Lifehacker] [Does Bitcoin Belong in Your 401k?](https://lifehacker.com/does-bitcoin-belong-in-your-401k-1848931631)
 - [Dev.to/JS] [Why still write articles to teach JavaScript?](https://dev.to/mshahbazm/why-still-write-articles-to-teach-javascript-342)
 - [Dev.to/JS] [226. Invert Binary Tree 🚀](https://dev.to/samuelhinchliffe/226-invert-binary-tree-117j)
 - [Lifehacker] [The Easiest Way to Get Every Unpopped Kernel From Your Popcorn](https://lifehacker.com/the-easiest-way-to-get-every-unpopped-kernel-from-your-1848931892)
@@ -36,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Delayed Honeymoon Is a Better Honeymoon](https://lifehacker.com/why-a-delayed-honeymoon-is-a-better-honeymoon-1848931261)
 - [Dev.to/JS] [Don&#39;t Nest Callbacks. Use Promise Chaining Instead.](https://dev.to/hunghvu/javascript-promise-chaining-avoid-callback-hell-16ef)
 - [Lifehacker] [Does Stepping on Ants Actually Attract More Ants?](https://lifehacker.com/does-stepping-on-ants-actually-attract-more-ants-1848930844)
-- [Dev.to/JS] [Google Tasks Chrome Extension](https://dev.to/junaid_dev/google-tasks-chrome-extension-3d93)
-- [Dev.to/JS] [Defference Between target=_blank &amp; target=blank](https://dev.to/sreeju/defference-between-targetblank-targetblank-2m5d)
-- [Dev.to/JS] [The Use of .forEach&lpar;&rpar;](https://dev.to/jct20xx/the-use-of-foreach-11lk)
 - [Lifehacker] [Here Are &lpar;Almost&rpar; All the Free Games Available at the PlayStation Plus Launch](https://lifehacker.com/here-are-almost-all-the-free-games-available-at-the-p-1848931055)
-- [Dev.to/JS] [Today&#39;s Svelte App With Minimal UI!](https://dev.to/hr21don/todays-svelte-app-with-minimal-ui-1e96)
 - [Lifehacker] [Why You Should Never Make Your Own Baby Formula](https://lifehacker.com/why-you-should-never-make-your-own-baby-formula-1848931559)
 - [Lifehacker] [Don&#39;t Eat These Recalled Skittles, Starburst, and Life Savers Gummies](https://lifehacker.com/dont-eat-these-recalled-skittles-starburst-and-life-s-1848930601)
 - [Lifehacker] [What to Do When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-do-when-a-cop-asks-to-search-your-vehicle-1848930764)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
 - [Lifehacker] [Why Your Seeds Aren&#39;t Sprouting](https://lifehacker.com/why-your-seeds-arent-sprouting-1848920464)
-- [Lifehacker] [Hula Hooping for Fitness Is a Thing &lpar;and Why You Should Try It&rpar;](https://lifehacker.com/hula-hooping-for-fitness-is-a-thing-and-why-you-should-1848924232)
-- [Lifehacker] [How to Stop Annoying YouTube Bots From Spamming Everyone](https://lifehacker.com/how-to-stop-annoying-youtube-bots-from-spamming-everyon-1848924366)
-- [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
