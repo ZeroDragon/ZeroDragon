@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tailwind CSS Customization Summary](https://dev.to/nrikiji/tailwind-css-customization-summary-3421)
+- [Dev.to/JS] [What is `this`? Technical debt!](https://dev.to/vangware/what-is-this-technical-debt-3150)
 - [Dev.to/JS] [Winning Card &lpar;DSA Series&rpar;](https://dev.to/olumidesamuel_/winning-card-dsa-series-4k73)
 - [Dev.to/JS] [NPM Library to get a list of WordPress posts&#39; character counts using the WP REST API](https://dev.to/shinshin86/npm-library-to-get-a-list-of-wordpress-posts-character-counts-using-the-wp-rest-api-4929)
 - [Dev.to/JS] [The infamous Two Sum problem. &lpar;DSA Series 3&rpar;](https://dev.to/olumidesamuel_/the-infamous-two-sum-problem-dsa-series-3-5f6d)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Trim the fat: tips for keeping bundle size small 🏋️](https://dev.to/bryce/trim-the-fat-tips-for-keeping-bundle-size-small-20b6)
 - [Dev.to/JS] [How to manage keyboard shortcuts in Angular application &lpar;The easy way&rpar;](https://dev.to/omridevk/how-to-manage-keyboard-shortcuts-in-angular-application-the-easy-way-2p3o)
 - [Dev.to/JS] [Limit access of Strapi users to their own entries](https://dev.to/paratron/limit-access-of-strapi-users-to-their-own-entries-298l)
-- [Dev.to/JS] [Difference between Reflect.ownKeys&lpar;&rpar; and Object.keys&lpar;&rpar;?](https://dev.to/jasmin/difference-between-reflectownkeys-and-objectkeys-58n4)
-- [Dev.to/JS] [Get Hands On With Unit Testing - Jest Testing Tutorial](https://dev.to/hr21don/get-hands-on-with-unit-testing-jest-testing-tutorial-5he1)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
