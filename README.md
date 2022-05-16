@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#14: Show &amp; Tell: A SWArm of Apps!](https://dev.to/azure/14-show-tell-a-swarm-of-apps-4kp6)
+- [Dev.to/JS] [Error Boundaries](https://dev.to/buiminh15/error-boundaries-576h)
 - [Dev.to/JS] [Building a simple invoice generator with Node Js](https://dev.to/olaf_ranai/building-a-simple-invoice-generator-with-node-js-lah)
 - [Dev.to/JS] [How To Create a Contact Form in React With KendoReact Form](https://dev.to/chineduimoh/how-to-create-a-contact-form-in-react-with-kendoreact-form-1n3i)
 - [Dev.to/JS] [What&#39;s your most used JavaScript framework?](https://dev.to/asheeshh/whats-your-most-used-javascript-framework-1nip)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The infamous Two Sum problem. &lpar;DSA Series 3&rpar;](https://dev.to/olumidesamuel_/the-infamous-two-sum-problem-dsa-series-3-5f6d)
 - [Dev.to/JS] [Group Anagram. &lpar;DSA Series 2&rpar;](https://dev.to/olumidesamuel_/group-anagram-dsa-series-2-2cc8)
 - [Dev.to/JS] [Aromajoin | Made with Vue JS](https://dev.to/madewithjavascript/aromajoin-made-with-vue-js-mm9)
-- [Dev.to/JS] [I built my first JS game! 🎉](https://dev.to/louiseann93/i-built-my-first-js-game-3haa)
-- [Dev.to/JS] [Storyblok | Made with Vue JS](https://dev.to/madewithjavascript/storyblok-made-with-vue-js-2h3n)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
