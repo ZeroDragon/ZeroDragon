@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [Why a Delayed Honeymoon Is a Better Honeymoon](https://lifehacker.com/why-a-delayed-honeymoon-is-a-better-honeymoon-1848931261)
+- [Dev.to/JS] [AT&amp;T | Made with Next JS](https://dev.to/madewithjavascript/att-made-with-next-js-3f21)
+- [Dev.to/JS] [How to read a CSV file using React functional components](https://dev.to/dbrownsoftware/how-to-read-a-csv-file-using-react-functional-components-44m9)
+- [Lifehacker] [What&#39;s New in iOS 15.5](https://lifehacker.com/whats-new-in-ios-15-5-1848931987)
+- [Lifehacker] [A Delayed Honeymoon Is a Better Honeymoon](https://lifehacker.com/why-a-delayed-honeymoon-is-a-better-honeymoon-1848931261)
 - [Dev.to/JS] [JavaScript Promise Chaining - Avoid Callback Hell](https://dev.to/hunghvu/javascript-promise-chaining-avoid-callback-hell-16ef)
 - [Lifehacker] [Does Stepping on Ants Actually Attract More Ants?](https://lifehacker.com/does-stepping-on-ants-actually-attract-more-ants-1848930844)
 - [Dev.to/JS] [Google Tasks Chrome Extension](https://dev.to/junaid_dev/google-tasks-chrome-extension-3d93)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I Created XOH-XAPI, a JavaSCript/TypeScript Library For Trading Financial Markets](https://dev.to/peterndomano/i-created-xoh-xapi-a-javascripttypescript-library-for-trading-financial-markets-206o)
 - [Lifehacker] [What to Do When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-do-when-a-cop-asks-to-search-your-vehicle-1848930764)
 - [Dev.to/JS] [Agiloo | Made with Vue JS](https://dev.to/madewithjavascript/agiloo-made-with-vue-js-4k3f)
-- [Dev.to/JS] [Quirks and Features of Weird JavaScript 😵](https://dev.to/pramit_marattha/quirks-and-features-of-weird-javascript-25jk)
-- [Dev.to/JS] [Gatsby Graphql schema customization for beginners](https://dev.to/alex_barashkov/gatsby-graphql-schema-customization-for-beginners-ngg)
 - [Lifehacker] [How I Trick My Kids Into Going on Walks With Me](https://lifehacker.com/how-i-trick-my-kids-into-going-on-walks-with-me-1848920552)
 - [Lifehacker] [This Free App Removes Any Photo Background](https://lifehacker.com/this-free-app-removes-any-photo-background-1848930015)
 - [Lifehacker] [You Can Design Your Garden to Deter Snakes](https://lifehacker.com/how-to-design-your-garden-to-deter-snakes-1848929165)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why &#39;Just Breastfeed&#39; Isn&#39;t a Solution to the Formula Shortage](https://lifehacker.com/why-just-breastfeed-isnt-a-solution-to-the-formula-shor-1848923802)
 - [Lifehacker] [How Much RAM Do You Really Need?](https://lifehacker.com/how-much-ram-do-you-really-need-1848924012)
 - [Lifehacker] [7 Gross Food Myths That Don&#39;t Make Sense &lpar;but People Still Believe&rpar;](https://lifehacker.com/7-gross-food-myths-that-dont-make-sense-but-people-sti-1848919243)
-- [Lifehacker] [How to Really Decide How Early to Get to the Airport](https://lifehacker.com/how-to-really-decide-how-early-to-get-to-the-airport-1848923019)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
