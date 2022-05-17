@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Serverless NextJS/GPT-3 Template](https://dev.to/madewithjavascript/serverless-nextjsgpt-3-template-5g1m)
+- [Dev.to/JS] [React 18: Features Breakdown](https://dev.to/asayerio_techblog/react-18-features-breakdown-4053)
 - [Dev.to/JS] [3 Extensions from chrome web store](https://dev.to/matheusmprado/3-extensions-from-chrome-web-store-1ei0)
 - [Dev.to/JS] [Setup Jest and React Testing Library in a React project | a step-by-step guide](https://dev.to/yvad60/setup-jest-and-react-testing-library-in-a-react-project-a-step-by-step-guide-1mf0)
 - [Dev.to/JS] [Google Firebase Authentication with AWS Lambda + Serverless Framework + Custom Authorizer](https://dev.to/aacitelli/google-firebase-authentication-with-aws-lambda-serverless-framework-custom-authorizer-3nlj)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
 - [Dev.to/JS] [Maps and Sets in JavaScript](https://dev.to/kibetamos/maps-and-sets-in-javascript-320e)
 - [Lifehacker] [Does Bitcoin Belong in Your 401k?](https://lifehacker.com/does-bitcoin-belong-in-your-401k-1848931631)
-- [Dev.to/JS] [Why still write articles to teach JavaScript?](https://dev.to/mshahbazm/why-still-write-articles-to-teach-javascript-342)
-- [Dev.to/JS] [226. Invert Binary Tree 🚀](https://dev.to/samuelhinchliffe/226-invert-binary-tree-117j)
 - [Lifehacker] [The Easiest Way to Get Every Unpopped Kernel From Your Popcorn](https://lifehacker.com/the-easiest-way-to-get-every-unpopped-kernel-from-your-1848931892)
 - [Lifehacker] [13 Free or Cheap Things Meant to Bring You Good Luck](https://lifehacker.com/13-free-or-cheap-things-meant-to-bring-you-good-luck-1848923978)
 - [Lifehacker] [What&#39;s New in iOS 15.5](https://lifehacker.com/whats-new-in-ios-15-5-1848931987)
