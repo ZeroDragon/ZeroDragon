@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Top 12 Node.js Frameworks on GitHub️](https://dev.to/andrewbaisden/the-top-12-nodejs-frameworks-on-github-beg)
+- [Dev.to/JS] [Is LinkedIn useful for B2B marketing?](https://dev.to/trentboult520/is-linkedin-useful-for-b2b-marketing-526l)
+- [Dev.to/JS] [Best Online Java Training Course with 100% Job Guarantee](https://dev.to/kag222/best-online-java-training-course-with-100-job-guarantee-3ohm)
 - [Dev.to/JS] [useEffect vs useLayoutEffect](https://dev.to/satel/useeffect-vs-uselayouteffect-5869)
 - [Dev.to/JS] [How to use Redux for state management in React App](https://dev.to/javinpaul/how-to-use-redux-for-state-management-in-react-app-2gmg)
 - [Dev.to/JS] [Painless development setup for React Part 2: Linting &amp; Formatting](https://dev.to/ethanchenyenpeng/painless-development-setup-for-react-part-2-linting-formatting-53n9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [On the red carpet for the BBMAs, which celebrities displayed PDA?](https://dev.to/resolvefossil/on-the-red-carpet-for-the-bbmas-which-celebrities-displayed-pda-1868)
 - [Dev.to/JS] [Svelte Components](https://dev.to/aryakris/svelte-components-266d)
 - [Dev.to/JS] [Introducing ReactPlay - Learn, Create, Share ReactJS projects](https://dev.to/atapas/introducing-reactplay-learn-create-share-reactjs-projects-3eei)
-- [Dev.to/JS] [#15: Develop with Azure Tools!](https://dev.to/azure/15-develop-with-azure-tools-3h47)
-- [Dev.to/JS] [Don&#39;t Use Console.log to Log a List of Objects!](https://dev.to/koladev/dont-use-consolelog-to-log-a-list-of-objects-1nga)
-- [Dev.to/JS] [Pure vs Impure Functions](https://dev.to/suprabhasupi/pure-vs-impure-functions-3e33)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
