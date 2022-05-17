@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 Telegram Privacy Settings You Should Enable Immediately](https://lifehacker.com/8-telegram-privacy-settings-you-should-enable-immediate-1848931353)
+- [Dev.to/JS] [Check out BudLib, a modern open-source Library Management System](https://dev.to/mlee2021/check-out-budlib-a-modern-open-source-library-management-system-11id)
+- [Dev.to/JS] [Practice](https://dev.to/arnoldesquivel/practice-408f)
+- [Lifehacker] [13 of the Most Misheard Lyrics in Music History](https://lifehacker.com/13-of-the-most-misheard-lyrics-in-music-history-1848931396)
+- [Dev.to/JS] [A beginners guide to Web3](https://dev.to/surajondev/a-beginners-guide-to-web3-5f9d)
+- [Dev.to/JS] [j](https://dev.to/1saurabhkumar1/j-25ac)
 - [Lifehacker] [Make Crispy, Caramelized Brittle With Stale Pastries](https://lifehacker.com/make-crispy-caramelized-brittle-with-stale-pastries-1848933809)
 - [Dev.to/JS] [From OpenAPI to a working integration in minutes](https://dev.to/superface/from-openapi-to-a-working-integration-in-minutes-3p36)
 - [Dev.to/JS] [Installing Tailwind CSS with Create React App](https://dev.to/codeshinobee/installing-tailwind-css-with-create-react-app-1b32)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create beautiful loading notification in React in 20 lines of code!](https://dev.to/asheeshh/create-beautiful-loading-notification-in-react-in-20-lines-of-code-3cen)
 - [Dev.to/JS] [Flatfile | Made with Gatsby JS](https://dev.to/madewithjavascript/flatfile-made-with-gatsby-js-p03)
 - [Dev.to/JS] [React component that renders a table with pagination. Coding Challenges - your solution&lpar;!&rpar;](https://dev.to/domolanya/coding-challenges-your-solution-2agd)
-- [Dev.to/JS] [GitLive Now Works With Any Git Repository in WebStorm!](https://dev.to/gitlive/gitlive-now-works-with-any-git-repository-in-webstorm-39bh)
-- [Dev.to/JS] [Would You Make A Svelte Todo App?](https://dev.to/hr21don/would-you-make-a-svelte-todo-app-pb2)
-- [Dev.to/JS] [I made your stupid app ideas!](https://dev.to/virejdasani/i-made-your-stupid-app-ideas-428b)
-- [Dev.to/JS] [How to Handle Events in a Node.js Ecommerce Platform](https://dev.to/medusajs/how-to-handle-events-in-a-nodejs-ecommerce-platform-1nnh)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Raising a Teenager](https://lifehacker.com/the-7-deadly-sins-of-raising-a-teenager-1848924362)
 - [Lifehacker] [14 of the Best Movies and TV Shows That Dared to Tackle Abortion](https://lifehacker.com/14-of-the-best-movies-and-tv-shows-that-dared-to-tackle-1848919004)
 - [Lifehacker] [How to Find a &lpar;Good&rpar; Therapist When You Don’t Have Insurance](https://lifehacker.com/how-to-find-a-good-therapist-when-you-don-t-have-insu-1848918177)
-- [Lifehacker] [What Not to Do When You Slip Up at Work](https://lifehacker.com/what-not-to-do-when-you-fuck-up-at-work-1848923881)
-- [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
