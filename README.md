@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Millimeter wave radar development trend](https://dev.to/ailee/millimeter-wave-radar-development-trend-k0a)
+- [Dev.to/JS] [Hosting sveltekit on AWS Amplify](https://dev.to/marcdaframe/hosting-sveltekit-on-aws-amplify-7ec)
 - [Dev.to/JS] [Serverless NextJS/GPT-3 Template](https://dev.to/madewithjavascript/serverless-nextjsgpt-3-template-5g1m)
 - [Dev.to/JS] [React 18: Features Breakdown](https://dev.to/asayerio_techblog/react-18-features-breakdown-4053)
 - [Dev.to/JS] [3 Extensions from chrome web store](https://dev.to/matheusmprado/3-extensions-from-chrome-web-store-1ei0)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Dev.to/JS] [The best 4 ways to styling a React App](https://dev.to/joselatines/the-best-4-ways-to-styling-a-react-app-4ehk)
 - [Dev.to/JS] [Como desestruturar um Array no JavaScript](https://dev.to/viniciuslucena/como-desestruturar-um-array-no-javascript-15i0)
-- [Dev.to/JS] [Best websites to get free 3d illustration](https://dev.to/_zoka/best-websites-to-get-free-3d-illustration-53ha)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
-- [Dev.to/JS] [Maps and Sets in JavaScript](https://dev.to/kibetamos/maps-and-sets-in-javascript-320e)
 - [Lifehacker] [Does Bitcoin Belong in Your 401k?](https://lifehacker.com/does-bitcoin-belong-in-your-401k-1848931631)
 - [Lifehacker] [The Easiest Way to Get Every Unpopped Kernel From Your Popcorn](https://lifehacker.com/the-easiest-way-to-get-every-unpopped-kernel-from-your-1848931892)
 - [Lifehacker] [13 Free or Cheap Things Meant to Bring You Good Luck](https://lifehacker.com/13-free-or-cheap-things-meant-to-bring-you-good-luck-1848923978)
