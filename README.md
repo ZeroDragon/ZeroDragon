@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Spot an &#39;Emotional Vampire&#39; &lpar;and Know If You Are One&rpar;](https://lifehacker.com/how-to-spot-an-emotional-vampire-and-know-if-you-are-o-1848935096)
+- [Dev.to/JS] [Day-89 Training At Ryaz](https://dev.to/mahin651/day-89-training-at-ryaz-2oi3)
+- [Lifehacker] [You Can Block Those Annoying Cookie Banners on Every Website](https://lifehacker.com/you-can-block-those-annoying-cookie-banners-on-every-we-1848936142)
+- [Dev.to/JS] [React Dashboards - Why Are They So Popular And How To Build One?](https://dev.to/thomasfindlay/react-dashboards-why-are-they-so-popular-and-how-to-build-one-4pnb)
+- [Lifehacker] [Throw Your Neckties in the Damn Garbage Already](https://lifehacker.com/throw-your-neckties-in-the-damn-garbage-already-1848936151)
 - [Lifehacker] [You Can Make It Way Harder for Cookies to Track You in Edge](https://lifehacker.com/you-can-make-it-way-harder-for-cookies-to-track-you-in-1848925898)
 - [Lifehacker] [8 Telegram Privacy Settings You Should Enable Immediately](https://lifehacker.com/8-telegram-privacy-settings-you-should-enable-immediate-1848931353)
 - [Dev.to/JS] [Building a Stats Website for a Sports Club](https://dev.to/bangsluke/building-a-stats-website-for-a-sports-club-4g5m)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Ditch Your Smartwatch and Jog Like It&#39;s 1982](https://lifehacker.com/how-to-ditch-your-smartwatch-and-jog-like-its-1982-1848933522)
 - [Dev.to/JS] [Add dark mode in react admin panel](https://dev.to/gurupal/add-dark-mode-in-react-admin-panel-with-toggle-6no)
 - [Lifehacker] [14 Music Festivals Worth Traveling to This Summer &lpar;and Beyond&rpar;](https://lifehacker.com/14-music-festivals-worth-traveling-to-this-summer-and-1848933022)
-- [Dev.to/JS] [Remix-Run, React and Uncontrolled Inputs](https://dev.to/neohed/remix-run-react-and-uncontrolled-inputs-3b3o)
-- [Dev.to/JS] [Create beautiful loading notification in React in 20 lines of code!](https://dev.to/asheeshh/create-beautiful-loading-notification-in-react-in-20-lines-of-code-3cen)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-do-when-a-cop-asks-to-search-your-vehicle-1848930764)
 - [Lifehacker] [How I Trick My Kids Into Going on Walks With Me](https://lifehacker.com/how-i-trick-my-kids-into-going-on-walks-with-me-1848920552)
 - [Lifehacker] [This Free App Removes Any Photo Background](https://lifehacker.com/this-free-app-removes-any-photo-background-1848930015)
-- [Lifehacker] [You Can Design Your Garden to Deter Snakes](https://lifehacker.com/how-to-design-your-garden-to-deter-snakes-1848929165)
-- [Lifehacker] [The 7 Deadly Sins of Raising a Teenager](https://lifehacker.com/the-7-deadly-sins-of-raising-a-teenager-1848924362)
-- [Lifehacker] [14 of the Best Movies and TV Shows That Dared to Tackle Abortion](https://lifehacker.com/14-of-the-best-movies-and-tv-shows-that-dared-to-tackle-1848919004)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
