@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding Challenges - your solution&lpar;!&rpar;](https://dev.to/domolanya/coding-challenges-your-solution-2agd)
+- [Dev.to/JS] [GitLive Now Works With Any Git Repository in WebStorm!](https://dev.to/gitlive/gitlive-now-works-with-any-git-repository-in-webstorm-39bh)
+- [Dev.to/JS] [Would You Make A Svelte Todo App?](https://dev.to/hr21don/would-you-make-a-svelte-todo-app-pb2)
 - [Dev.to/JS] [I made your stupid app ideas!](https://dev.to/virejdasani/i-made-your-stupid-app-ideas-428b)
 - [Dev.to/JS] [How to Handle Events in a Node.js Ecommerce Platform](https://dev.to/medusajs/how-to-handle-events-in-a-nodejs-ecommerce-platform-1nnh)
 - [Dev.to/JS] [crisp-game-lib, a game library for creating mini-games with minimal effort](https://dev.to/abagames/crisp-game-lib-a-game-library-for-creating-mini-games-with-minimal-effort-3816)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Top 12 Node.js Frameworks on GitHub️](https://dev.to/andrewbaisden/the-top-12-nodejs-frameworks-on-github-beg)
 - [Dev.to/JS] [Is LinkedIn useful for B2B marketing?](https://dev.to/trentboult520/is-linkedin-useful-for-b2b-marketing-526l)
 - [Dev.to/JS] [¿Es siempre necesario usar un framework de javascript en desarrollo web?](https://dev.to/raccode/es-siempre-necesario-usar-un-framework-de-javascript-en-desarrollo-web-17jm)
-- [Dev.to/JS] [useEffect vs useLayoutEffect](https://dev.to/satel/useeffect-vs-uselayouteffect-5869)
-- [Dev.to/JS] [How to use Redux for state management in React App](https://dev.to/javinpaul/how-to-use-redux-for-state-management-in-react-app-2gmg)
-- [Dev.to/JS] [Painless development setup for React Part 2: Linting &amp; Formatting](https://dev.to/ethanchenyenpeng/painless-development-setup-for-react-part-2-linting-formatting-53n9)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
