@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google Firebase Authentication with AWS Lambda + Serverless Framework + Custom Authorizer](https://dev.to/aacitelli/google-firebase-authentication-with-aws-lambda-serverless-framework-custom-authorizer-3nlj)
 - [Dev.to/JS] [The Hyperverse](https://dev.to/shaincodes/the-hyperverse-m5f)
 - [Dev.to/JS] [Ng-News: Episode 22/19](https://dev.to/rainerhahnekamp/ng-news-episode-2219-221o)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I&#39;ve made a RESTful HTTP client which will make your life much easier](https://dev.to/liorvainer/ive-made-a-restful-http-client-which-will-make-your-life-much-easier-1olm)
 - [Dev.to/JS] [101. Symmetric Tree 🚀](https://dev.to/samuelhinchliffe/101-symmetric-tree-582e)
 - [Lifehacker] [13 Free or Cheap Things Meant to Bring You Good Luck](https://lifehacker.com/13-free-or-cheap-things-meant-to-bring-you-good-luck-1848923978)
-- [Dev.to/JS] [98. Validate Binary Search Tree 🚀](https://dev.to/samuelhinchliffe/98-validate-binary-search-tree-1cc9)
 - [Lifehacker] [What&#39;s New in iOS 15.5](https://lifehacker.com/whats-new-in-ios-15-5-1848931987)
 - [Lifehacker] [A Delayed Honeymoon Is a Better Honeymoon](https://lifehacker.com/why-a-delayed-honeymoon-is-a-better-honeymoon-1848931261)
 - [Lifehacker] [Does Stepping on Ants Actually Attract More Ants?](https://lifehacker.com/does-stepping-on-ants-actually-attract-more-ants-1848930844)
