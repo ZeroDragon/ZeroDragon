@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Much Sleep Do You Really Need?](https://lifehacker.com/how-much-sleep-do-you-really-need-1848933245)
+- [Lifehacker] [You Can Now Get Eight More Free COVID Tests by Mail](https://lifehacker.com/you-can-now-get-eight-more-free-covid-tests-by-mail-1848937728)
+- [Dev.to/JS] [React.js Lifecycle Methods](https://dev.to/asi309/reactjs-lifecycle-methods-e8)
+- [Dev.to/JS] [Rest vs Spread Operator](https://dev.to/melguachun/rest-vs-spread-operator-1ne5)
+- [Lifehacker] [Why You Can’t Just Order Baby Formula From Canada](https://lifehacker.com/why-you-can-t-just-order-baby-formula-from-canada-1848938040)
 - [Lifehacker] [The Most Overrated Tourist Destinations in the US &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-in-the-us-and-1848937679)
 - [Lifehacker] [The Best Ways to Get Your Kids to Listen Without Nagging](https://lifehacker.com/the-best-ways-to-get-your-kids-to-listen-without-naggin-1848917787)
 - [Dev.to/JS] [Paracetamol.js💊| #118: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-118-explica-este-codigo-javascript-3nc4)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Check out BudLib, a modern open-source Library Management System](https://dev.to/mlee2021/check-out-budlib-a-modern-open-source-library-management-system-11id)
 - [Dev.to/JS] [Practice](https://dev.to/arnoldesquivel/practice-408f)
 - [Lifehacker] [13 of the Most Misheard Lyrics in Music History](https://lifehacker.com/13-of-the-most-misheard-lyrics-in-music-history-1848931396)
-- [Dev.to/JS] [A beginners guide to Web3](https://dev.to/surajondev/a-beginners-guide-to-web3-5f9d)
-- [Dev.to/JS] [j](https://dev.to/1saurabhkumar1/j-25ac)
 - [Lifehacker] [Make Crispy, Caramelized Brittle With Stale Pastries](https://lifehacker.com/make-crispy-caramelized-brittle-with-stale-pastries-1848933809)
 - [Lifehacker] [Tender Hooks, Expresso, and Other Malapropisms That Will Make People Laugh at You](https://lifehacker.com/tender-hooks-expresso-and-other-malapropisms-that-wil-1848931843)
 - [Lifehacker] [How to Ditch Your Smartwatch and Jog Like It&#39;s 1982](https://lifehacker.com/how-to-ditch-your-smartwatch-and-jog-like-its-1982-1848933522)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New in iOS 15.5](https://lifehacker.com/whats-new-in-ios-15-5-1848931987)
 - [Lifehacker] [A Delayed Honeymoon Is a Better Honeymoon](https://lifehacker.com/why-a-delayed-honeymoon-is-a-better-honeymoon-1848931261)
 - [Lifehacker] [Does Stepping on Ants Actually Attract More Ants?](https://lifehacker.com/does-stepping-on-ants-actually-attract-more-ants-1848930844)
-- [Lifehacker] [Here Are &lpar;Almost&rpar; All the Free Games Available at the PlayStation Plus Launch](https://lifehacker.com/here-are-almost-all-the-free-games-available-at-the-p-1848931055)
-- [Lifehacker] [Why You Should Never Make Your Own Baby Formula](https://lifehacker.com/why-you-should-never-make-your-own-baby-formula-1848931559)
-- [Lifehacker] [Don&#39;t Eat These Recalled Skittles, Starburst, and Life Savers Gummies](https://lifehacker.com/dont-eat-these-recalled-skittles-starburst-and-life-s-1848930601)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
