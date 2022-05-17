@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most Overrated Tourist Destinations in the US &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-in-the-us-and-1848937679)
+- [Lifehacker] [The Best Ways to Get Your Kids to Listen Without Nagging](https://lifehacker.com/the-best-ways-to-get-your-kids-to-listen-without-naggin-1848917787)
 - [Dev.to/JS] [Paracetamol.js💊| #118: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-118-explica-este-codigo-javascript-3nc4)
 - [Dev.to/JS] [We used our Arcade to illustrate how simple micro frontends are](https://dev.to/richkurtzman/we-used-our-arcade-to-illustrate-how-simple-micro-frontends-are-47cb)
 - [Dev.to/JS] [Software Dev Update #12: The World Of DOM](https://dev.to/realnerdethan/software-dev-update-12-the-world-of-dom-4f49)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Here Are &lpar;Almost&rpar; All the Free Games Available at the PlayStation Plus Launch](https://lifehacker.com/here-are-almost-all-the-free-games-available-at-the-p-1848931055)
 - [Lifehacker] [Why You Should Never Make Your Own Baby Formula](https://lifehacker.com/why-you-should-never-make-your-own-baby-formula-1848931559)
 - [Lifehacker] [Don&#39;t Eat These Recalled Skittles, Starburst, and Life Savers Gummies](https://lifehacker.com/dont-eat-these-recalled-skittles-starburst-and-life-s-1848930601)
-- [Lifehacker] [What to Do When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-do-when-a-cop-asks-to-search-your-vehicle-1848930764)
-- [Lifehacker] [How I Trick My Kids Into Going on Walks With Me](https://lifehacker.com/how-i-trick-my-kids-into-going-on-walks-with-me-1848920552)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
