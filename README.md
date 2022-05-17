@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Crispy, Caramelized Brittle With Stale Pastries](https://lifehacker.com/make-crispy-caramelized-brittle-with-stale-pastries-1848933809)
+- [Dev.to/JS] [From OpenAPI to a working integration in minutes](https://dev.to/superface/from-openapi-to-a-working-integration-in-minutes-3p36)
+- [Dev.to/JS] [Installing Tailwind CSS with Create React App](https://dev.to/codeshinobee/installing-tailwind-css-with-create-react-app-1b32)
+- [Lifehacker] [Tender Hooks, Expresso, and Other Malapropisms That Will Make People Laugh at You](https://lifehacker.com/tender-hooks-expresso-and-other-malapropisms-that-wil-1848931843)
 - [Dev.to/JS] [Payload has been accepted into Y Combinator S22](https://dev.to/payloadcms/payload-has-been-accepted-into-y-combinator-s22-4m4n)
 - [Lifehacker] [How to Ditch Your Smartwatch and Jog Like It&#39;s 1982](https://lifehacker.com/how-to-ditch-your-smartwatch-and-jog-like-its-1982-1848933522)
 - [Dev.to/JS] [Add dark mode in react admin panel](https://dev.to/gurupal/add-dark-mode-in-react-admin-panel-with-toggle-6no)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Would You Make A Svelte Todo App?](https://dev.to/hr21don/would-you-make-a-svelte-todo-app-pb2)
 - [Dev.to/JS] [I made your stupid app ideas!](https://dev.to/virejdasani/i-made-your-stupid-app-ideas-428b)
 - [Dev.to/JS] [How to Handle Events in a Node.js Ecommerce Platform](https://dev.to/medusajs/how-to-handle-events-in-a-nodejs-ecommerce-platform-1nnh)
-- [Dev.to/JS] [crisp-game-lib, a game library for creating mini-games with minimal effort](https://dev.to/abagames/crisp-game-lib-a-game-library-for-creating-mini-games-with-minimal-effort-3816)
-- [Dev.to/JS] [How to Connect Strapi to PostgreSQL](https://dev.to/strapi/how-to-connect-strapi-to-postgresql-29d8)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find a &lpar;Good&rpar; Therapist When You Don’t Have Insurance](https://lifehacker.com/how-to-find-a-good-therapist-when-you-don-t-have-insu-1848918177)
 - [Lifehacker] [What Not to Do When You Slip Up at Work](https://lifehacker.com/what-not-to-do-when-you-fuck-up-at-work-1848923881)
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
-- [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
-- [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
