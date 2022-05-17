@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get a Free Fitbit or Apple Watch From Your Insurance Company](https://lifehacker.com/how-to-get-a-free-fitbit-or-apple-watch-from-your-insur-1848937750)
+- [Lifehacker] [The Right Way to Freeze Milk, Half &amp; Half, and Heavy Cream](https://lifehacker.com/the-right-way-to-freeze-milk-half-half-and-heavy-cr-1848938121)
+- [Dev.to/JS] [Node: cd myjourney02](https://dev.to/adebiyiitunuayo/node-cd-myjourney02-3fk0)
 - [Lifehacker] [How Much Sleep Do You Really Need?](https://lifehacker.com/how-much-sleep-do-you-really-need-1848933245)
 - [Lifehacker] [You Can Now Get Eight More Free COVID Tests by Mail](https://lifehacker.com/you-can-now-get-eight-more-free-covid-tests-by-mail-1848937728)
 - [Dev.to/JS] [React.js Lifecycle Methods](https://dev.to/asi309/reactjs-lifecycle-methods-e8)
@@ -45,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Stats Website for a Sports Club](https://dev.to/bangsluke/building-a-stats-website-for-a-sports-club-4g5m)
 - [Dev.to/JS] [Advantages and Disadvantages of React.js](https://dev.to/asi309/advantages-and-disadvantages-of-reactjs-bl2)
 - [Dev.to/JS] [Check out BudLib, a modern open-source Library Management System](https://dev.to/mlee2021/check-out-budlib-a-modern-open-source-library-management-system-11id)
-- [Dev.to/JS] [Practice](https://dev.to/arnoldesquivel/practice-408f)
 - [Lifehacker] [13 of the Most Misheard Lyrics in Music History](https://lifehacker.com/13-of-the-most-misheard-lyrics-in-music-history-1848931396)
 - [Lifehacker] [Make Crispy, Caramelized Brittle With Stale Pastries](https://lifehacker.com/make-crispy-caramelized-brittle-with-stale-pastries-1848933809)
 - [Lifehacker] [Tender Hooks, Expresso, and Other Malapropisms That Will Make People Laugh at You](https://lifehacker.com/tender-hooks-expresso-and-other-malapropisms-that-wil-1848931843)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Get Every Unpopped Kernel From Your Popcorn](https://lifehacker.com/the-easiest-way-to-get-every-unpopped-kernel-from-your-1848931892)
 - [Lifehacker] [13 Free or Cheap Things Meant to Bring You Good Luck](https://lifehacker.com/13-free-or-cheap-things-meant-to-bring-you-good-luck-1848923978)
 - [Lifehacker] [What&#39;s New in iOS 15.5](https://lifehacker.com/whats-new-in-ios-15-5-1848931987)
-- [Lifehacker] [A Delayed Honeymoon Is a Better Honeymoon](https://lifehacker.com/why-a-delayed-honeymoon-is-a-better-honeymoon-1848931261)
-- [Lifehacker] [Does Stepping on Ants Actually Attract More Ants?](https://lifehacker.com/does-stepping-on-ants-actually-attract-more-ants-1848930844)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
