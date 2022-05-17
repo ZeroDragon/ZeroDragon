@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #118: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-118-explica-este-codigo-javascript-3nc4)
+- [Dev.to/JS] [We used our Arcade to illustrate how simple micro frontends are](https://dev.to/richkurtzman/we-used-our-arcade-to-illustrate-how-simple-micro-frontends-are-47cb)
+- [Dev.to/JS] [Software Dev Update #12: The World Of DOM](https://dev.to/realnerdethan/software-dev-update-12-the-world-of-dom-4f49)
+- [Lifehacker] [How to Make a Restaurant-Quality Burger at Home](https://lifehacker.com/how-to-make-a-restaurant-quality-burger-at-home-1848937093)
+- [Dev.to/JS] [How To Fix CORS Issue Permanently Right Now &lpar;2022&rpar;](https://dev.to/hirajatamil/how-to-fix-cors-issue-permanently-right-now-2022-1c8f)
 - [Lifehacker] [How to Spot an &#39;Emotional Vampire&#39; &lpar;and Know If You Are One&rpar;](https://lifehacker.com/how-to-spot-an-emotional-vampire-and-know-if-you-are-o-1848935096)
 - [Dev.to/JS] [Day-89 Training At Ryaz](https://dev.to/mahin651/day-89-training-at-ryaz-2oi3)
 - [Lifehacker] [You Can Block Those Annoying Cookie Banners on Every Website](https://lifehacker.com/you-can-block-those-annoying-cookie-banners-on-every-we-1848936142)
@@ -38,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A beginners guide to Web3](https://dev.to/surajondev/a-beginners-guide-to-web3-5f9d)
 - [Dev.to/JS] [j](https://dev.to/1saurabhkumar1/j-25ac)
 - [Lifehacker] [Make Crispy, Caramelized Brittle With Stale Pastries](https://lifehacker.com/make-crispy-caramelized-brittle-with-stale-pastries-1848933809)
-- [Dev.to/JS] [From OpenAPI to a working integration in minutes](https://dev.to/superface/from-openapi-to-a-working-integration-in-minutes-3p36)
-- [Dev.to/JS] [Installing Tailwind CSS with Create React App](https://dev.to/codeshinobee/installing-tailwind-css-with-create-react-app-1b32)
 - [Lifehacker] [Tender Hooks, Expresso, and Other Malapropisms That Will Make People Laugh at You](https://lifehacker.com/tender-hooks-expresso-and-other-malapropisms-that-wil-1848931843)
-- [Dev.to/JS] [Payload has been accepted into Y Combinator S22](https://dev.to/payloadcms/payload-has-been-accepted-into-y-combinator-s22-4m4n)
 - [Lifehacker] [How to Ditch Your Smartwatch and Jog Like It&#39;s 1982](https://lifehacker.com/how-to-ditch-your-smartwatch-and-jog-like-its-1982-1848933522)
-- [Dev.to/JS] [Add dark mode in react admin panel](https://dev.to/gurupal/add-dark-mode-in-react-admin-panel-with-toggle-6no)
 - [Lifehacker] [14 Music Festivals Worth Traveling to This Summer &lpar;and Beyond&rpar;](https://lifehacker.com/14-music-festivals-worth-traveling-to-this-summer-and-1848933022)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Eat These Recalled Skittles, Starburst, and Life Savers Gummies](https://lifehacker.com/dont-eat-these-recalled-skittles-starburst-and-life-s-1848930601)
 - [Lifehacker] [What to Do When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-do-when-a-cop-asks-to-search-your-vehicle-1848930764)
 - [Lifehacker] [How I Trick My Kids Into Going on Walks With Me](https://lifehacker.com/how-i-trick-my-kids-into-going-on-walks-with-me-1848920552)
-- [Lifehacker] [This Free App Removes Any Photo Background](https://lifehacker.com/this-free-app-removes-any-photo-background-1848930015)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
