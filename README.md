@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Coding Challenges - your solution&lpar;!&rpar;](https://dev.to/domolanya/coding-challenges-your-solution-2agd)
+- [Dev.to/JS] [Payload has been accepted into Y Combinator S22](https://dev.to/payloadcms/payload-has-been-accepted-into-y-combinator-s22-4m4n)
+- [Lifehacker] [How to Ditch Your Smartwatch and Jog Like It&#39;s 1982](https://lifehacker.com/how-to-ditch-your-smartwatch-and-jog-like-its-1982-1848933522)
+- [Dev.to/JS] [Add dark mode in react admin panel](https://dev.to/gurupal/add-dark-mode-in-react-admin-panel-with-toggle-6no)
+- [Lifehacker] [14 Music Festivals Worth Traveling to This Summer &lpar;and Beyond&rpar;](https://lifehacker.com/14-music-festivals-worth-traveling-to-this-summer-and-1848933022)
+- [Dev.to/JS] [Remix-Run, React and Uncontrolled Inputs](https://dev.to/neohed/remix-run-react-and-uncontrolled-inputs-3b3o)
+- [Dev.to/JS] [Create beautiful loading notification in React in 20 lines of code!](https://dev.to/asheeshh/create-beautiful-loading-notification-in-react-in-20-lines-of-code-3cen)
+- [Dev.to/JS] [Flatfile | Made with Gatsby JS](https://dev.to/madewithjavascript/flatfile-made-with-gatsby-js-p03)
+- [Dev.to/JS] [React component that renders a table with pagination. Coding Challenges - your solution&lpar;!&rpar;](https://dev.to/domolanya/coding-challenges-your-solution-2agd)
 - [Dev.to/JS] [GitLive Now Works With Any Git Repository in WebStorm!](https://dev.to/gitlive/gitlive-now-works-with-any-git-repository-in-webstorm-39bh)
 - [Dev.to/JS] [Would You Make A Svelte Todo App?](https://dev.to/hr21don/would-you-make-a-svelte-todo-app-pb2)
 - [Dev.to/JS] [I made your stupid app ideas!](https://dev.to/virejdasani/i-made-your-stupid-app-ideas-428b)
 - [Dev.to/JS] [How to Handle Events in a Node.js Ecommerce Platform](https://dev.to/medusajs/how-to-handle-events-in-a-nodejs-ecommerce-platform-1nnh)
 - [Dev.to/JS] [crisp-game-lib, a game library for creating mini-games with minimal effort](https://dev.to/abagames/crisp-game-lib-a-game-library-for-creating-mini-games-with-minimal-effort-3816)
 - [Dev.to/JS] [How to Connect Strapi to PostgreSQL](https://dev.to/strapi/how-to-connect-strapi-to-postgresql-29d8)
-- [Dev.to/JS] [Coin change problem](https://dev.to/nantipatsoften/coin-change-problem-4fa3)
-- [Dev.to/JS] [Should I learn typescript?](https://dev.to/yobretyo/should-i-learn-typescript-eji)
-- [Dev.to/JS] [The Top 12 Node.js Frameworks on GitHub️](https://dev.to/andrewbaisden/the-top-12-nodejs-frameworks-on-github-beg)
-- [Dev.to/JS] [Is LinkedIn useful for B2B marketing?](https://dev.to/trentboult520/is-linkedin-useful-for-b2b-marketing-526l)
-- [Dev.to/JS] [¿Es siempre necesario usar un framework de javascript en desarrollo web?](https://dev.to/raccode/es-siempre-necesario-usar-un-framework-de-javascript-en-desarrollo-web-17jm)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
@@ -58,9 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Perennial Herbs You Should Plant in Your Garden](https://lifehacker.com/the-best-perennial-herbs-you-should-plant-in-your-garde-1848920514)
 - [Lifehacker] [Never Buy These Things at a Yard Sale](https://lifehacker.com/never-buy-these-things-at-a-yard-sale-1848920515)
 - [Lifehacker] [How to Clean Tar Off of Your Car](https://lifehacker.com/how-to-clean-tar-off-of-your-car-1848920523)
-- [Lifehacker] [What to Do &lpar;and What Not to Do&rpar; With Visible Tree Roots in Your Lawn](https://lifehacker.com/what-to-do-and-what-not-to-do-with-visible-tree-roots-1848920451)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
-- [Lifehacker] [How to Get Rid of That Musty Mothball Smell](https://lifehacker.com/how-to-get-rid-of-that-musty-mothball-smell-1848920459)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
 
