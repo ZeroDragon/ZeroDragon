@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Make It Way Harder for Cookies to Track You in Edge](https://lifehacker.com/you-can-make-it-way-harder-for-cookies-to-track-you-in-1848925898)
 - [Lifehacker] [8 Telegram Privacy Settings You Should Enable Immediately](https://lifehacker.com/8-telegram-privacy-settings-you-should-enable-immediate-1848931353)
+- [Dev.to/JS] [Building a Stats Website for a Sports Club](https://dev.to/bangsluke/building-a-stats-website-for-a-sports-club-4g5m)
+- [Dev.to/JS] [Advantages and Disadvantages of React.js](https://dev.to/asi309/advantages-and-disadvantages-of-reactjs-bl2)
 - [Dev.to/JS] [Check out BudLib, a modern open-source Library Management System](https://dev.to/mlee2021/check-out-budlib-a-modern-open-source-library-management-system-11id)
 - [Dev.to/JS] [Practice](https://dev.to/arnoldesquivel/practice-408f)
 - [Lifehacker] [13 of the Most Misheard Lyrics in Music History](https://lifehacker.com/13-of-the-most-misheard-lyrics-in-music-history-1848931396)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 Music Festivals Worth Traveling to This Summer &lpar;and Beyond&rpar;](https://lifehacker.com/14-music-festivals-worth-traveling-to-this-summer-and-1848933022)
 - [Dev.to/JS] [Remix-Run, React and Uncontrolled Inputs](https://dev.to/neohed/remix-run-react-and-uncontrolled-inputs-3b3o)
 - [Dev.to/JS] [Create beautiful loading notification in React in 20 lines of code!](https://dev.to/asheeshh/create-beautiful-loading-notification-in-react-in-20-lines-of-code-3cen)
-- [Dev.to/JS] [Flatfile | Made with Gatsby JS](https://dev.to/madewithjavascript/flatfile-made-with-gatsby-js-p03)
-- [Dev.to/JS] [React component that renders a table with pagination. Coding Challenges - your solution&lpar;!&rpar;](https://dev.to/domolanya/coding-challenges-your-solution-2agd)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Design Your Garden to Deter Snakes](https://lifehacker.com/how-to-design-your-garden-to-deter-snakes-1848929165)
 - [Lifehacker] [The 7 Deadly Sins of Raising a Teenager](https://lifehacker.com/the-7-deadly-sins-of-raising-a-teenager-1848924362)
 - [Lifehacker] [14 of the Best Movies and TV Shows That Dared to Tackle Abortion](https://lifehacker.com/14-of-the-best-movies-and-tv-shows-that-dared-to-tackle-1848919004)
-- [Lifehacker] [How to Find a &lpar;Good&rpar; Therapist When You Don’t Have Insurance](https://lifehacker.com/how-to-find-a-good-therapist-when-you-don-t-have-insu-1848918177)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
