@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#15: Develop with Azure Tools!](https://dev.to/azure/15-develop-with-azure-tools-3h47)
+- [Dev.to/JS] [Don&#39;t Use Console.log to Log a List of Objects!](https://dev.to/koladev/dont-use-consolelog-to-log-a-list-of-objects-1nga)
+- [Dev.to/JS] [Pure vs Impure Functions](https://dev.to/suprabhasupi/pure-vs-impure-functions-3e33)
 - [Dev.to/JS] [Como o prototype chain do Javascript é uma Linked List](https://dev.to/tttecnology/como-o-prototype-chain-do-javascript-e-uma-linked-list-4o35)
 - [Dev.to/JS] [Questions](https://dev.to/warmastr/questions-32ck)
 - [Dev.to/JS] [Responsive Hover Animated Card Using HTML &amp; CSS + Source Code](https://dev.to/sreeju/responsive-hover-animated-card-using-html-css-source-code-3ohi)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hosting sveltekit on AWS Amplify](https://dev.to/marcdaframe/hosting-sveltekit-on-aws-amplify-7ec)
 - [Dev.to/JS] [Serverless NextJS/GPT-3 Template](https://dev.to/madewithjavascript/serverless-nextjsgpt-3-template-5g1m)
 - [Dev.to/JS] [React 18: Features Breakdown](https://dev.to/asayerio_techblog/react-18-features-breakdown-4053)
-- [Dev.to/JS] [3 Extensions from chrome web store](https://dev.to/matheusmprado/3-extensions-from-chrome-web-store-1ei0)
-- [Dev.to/JS] [Setup Jest and React Testing Library in a React project | a step-by-step guide](https://dev.to/yvad60/setup-jest-and-react-testing-library-in-a-react-project-a-step-by-step-guide-1mf0)
-- [Dev.to/JS] [Google Firebase Authentication with AWS Lambda + Serverless Framework + Custom Authorizer](https://dev.to/aacitelli/google-firebase-authentication-with-aws-lambda-serverless-framework-custom-authorizer-3nlj)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
