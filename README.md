@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What tools/frameworks do you use for styling you web app?](https://dev.to/asheeshh/what-toolsframeworks-do-you-use-for-styling-you-web-app-50jd)
+- [Dev.to/JS] [Google-clone - Google Search Clone Built Using React/Next js And Tailwind CSS](https://dev.to/cosmicwanderer7/google-clone-google-search-clone-built-using-reactnext-js-and-tailwind-css-4j09)
 - [Dev.to/JS] [Millimeter wave radar development trend](https://dev.to/ailee/millimeter-wave-radar-development-trend-k0a)
 - [Dev.to/JS] [Hosting sveltekit on AWS Amplify](https://dev.to/marcdaframe/hosting-sveltekit-on-aws-amplify-7ec)
 - [Dev.to/JS] [Serverless NextJS/GPT-3 Template](https://dev.to/madewithjavascript/serverless-nextjsgpt-3-template-5g1m)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Dev.to/JS] [SQL: One to Many Join Query in an Optimal way with Node.js](https://dev.to/ali_a_koye/sql-one-to-many-join-query-in-an-optimal-way-with-nodejs-2da2)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
-- [Dev.to/JS] [The best 4 ways to styling a React App](https://dev.to/joselatines/the-best-4-ways-to-styling-a-react-app-4ehk)
-- [Dev.to/JS] [Como desestruturar um Array no JavaScript](https://dev.to/viniciuslucena/como-desestruturar-um-array-no-javascript-15i0)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
 - [Lifehacker] [Does Bitcoin Belong in Your 401k?](https://lifehacker.com/does-bitcoin-belong-in-your-401k-1848931631)
 - [Lifehacker] [The Easiest Way to Get Every Unpopped Kernel From Your Popcorn](https://lifehacker.com/the-easiest-way-to-get-every-unpopped-kernel-from-your-1848931892)
