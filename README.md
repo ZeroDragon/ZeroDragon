@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte Components](https://dev.to/aryakris/svelte-components-266d)
+- [Dev.to/JS] [Introducing ReactPlay - Learn, Create, Share ReactJS projects](https://dev.to/atapas/introducing-reactplay-learn-create-share-reactjs-projects-3eei)
 - [Dev.to/JS] [#15: Develop with Azure Tools!](https://dev.to/azure/15-develop-with-azure-tools-3h47)
 - [Dev.to/JS] [Don&#39;t Use Console.log to Log a List of Objects!](https://dev.to/koladev/dont-use-consolelog-to-log-a-list-of-objects-1nga)
 - [Dev.to/JS] [Pure vs Impure Functions](https://dev.to/suprabhasupi/pure-vs-impure-functions-3e33)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google-clone - Google Search Clone Built Using React/Next js And Tailwind CSS](https://dev.to/cosmicwanderer7/google-clone-google-search-clone-built-using-reactnext-js-and-tailwind-css-4j09)
 - [Dev.to/JS] [Millimeter wave radar development trend](https://dev.to/ailee/millimeter-wave-radar-development-trend-k0a)
 - [Dev.to/JS] [Hosting sveltekit on AWS Amplify](https://dev.to/marcdaframe/hosting-sveltekit-on-aws-amplify-7ec)
-- [Dev.to/JS] [Serverless NextJS/GPT-3 Template](https://dev.to/madewithjavascript/serverless-nextjsgpt-3-template-5g1m)
-- [Dev.to/JS] [React 18: Features Breakdown](https://dev.to/asayerio_techblog/react-18-features-breakdown-4053)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
