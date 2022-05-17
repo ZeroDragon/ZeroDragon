@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Como o prototype chain do Javascript é uma Linked List](https://dev.to/tttecnology/como-o-prototype-chain-do-javascript-e-uma-linked-list-4o35)
+- [Dev.to/JS] [Questions](https://dev.to/warmastr/questions-32ck)
+- [Dev.to/JS] [Responsive Hover Animated Card Using HTML &amp; CSS + Source Code](https://dev.to/sreeju/responsive-hover-animated-card-using-html-css-source-code-3ohi)
 - [Dev.to/JS] [What tools/frameworks do you use for styling you web app?](https://dev.to/asheeshh/what-toolsframeworks-do-you-use-for-styling-you-web-app-50jd)
 - [Dev.to/JS] [Google-clone - Google Search Clone Built Using React/Next js And Tailwind CSS](https://dev.to/cosmicwanderer7/google-clone-google-search-clone-built-using-reactnext-js-and-tailwind-css-4j09)
 - [Dev.to/JS] [Millimeter wave radar development trend](https://dev.to/ailee/millimeter-wave-radar-development-trend-k0a)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Extensions from chrome web store](https://dev.to/matheusmprado/3-extensions-from-chrome-web-store-1ei0)
 - [Dev.to/JS] [Setup Jest and React Testing Library in a React project | a step-by-step guide](https://dev.to/yvad60/setup-jest-and-react-testing-library-in-a-react-project-a-step-by-step-guide-1mf0)
 - [Dev.to/JS] [Google Firebase Authentication with AWS Lambda + Serverless Framework + Custom Authorizer](https://dev.to/aacitelli/google-firebase-authentication-with-aws-lambda-serverless-framework-custom-authorizer-3nlj)
-- [Dev.to/JS] [The Hyperverse](https://dev.to/shaincodes/the-hyperverse-m5f)
-- [Dev.to/JS] [Ng-News: Episode 22/19](https://dev.to/rainerhahnekamp/ng-news-episode-2219-221o)
 - [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
-- [Dev.to/JS] [SQL: One to Many Join Query in an Optimal way with Node.js](https://dev.to/ali_a_koye/sql-one-to-many-join-query-in-an-optimal-way-with-nodejs-2da2)
 - [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Lifehacker] [Stop Saying These Things When You Don’t Know How to Pronounce Someone’s Name](https://lifehacker.com/stop-saying-these-things-when-you-don-t-know-how-to-pro-1848932584)
 - [Lifehacker] [Does Bitcoin Belong in Your 401k?](https://lifehacker.com/does-bitcoin-belong-in-your-401k-1848931631)
