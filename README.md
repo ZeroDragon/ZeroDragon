@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Animated Modal with Framer Motion](https://dev.to/satel/animated-modal-with-framer-motion-52h)
+- [Dev.to/JS] [Javascript Objects](https://dev.to/talenttinaapi/javascript-objects-4cc0)
 - [Dev.to/JS] [Splash season is on! Integration of Huawei Ads Kit &lpar;Splash Ads&rpar; in Application using React Native](https://dev.to/hmscommunity/splash-season-is-on-integration-of-huawei-ads-kit-splash-ads-in-application-using-react-native-3cd0)
 - [Dev.to/JS] [Use jsx as server side html template](https://dev.to/taowen/use-jsx-as-server-side-html-template-3k40)
 - [Dev.to/JS] [Zero-Runtime Scoped Component Styling Made Easy!](https://dev.to/blusk/zero-runtime-scoped-component-styling-made-easy-2cno)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add colorpicker to Ant Design form](https://dev.to/igaponov/add-colorpicker-to-ant-design-form-15l6)
 - [Dev.to/JS] [Create React App With Netlify CMS](https://dev.to/wenura/create-react-app-with-netlify-cms-l8d)
 - [Dev.to/JS] [Build and Deploy 5 JavaScript &amp; React API Projects in 10 Hours - Full Course | RapidAPI](https://dev.to/wenura/build-and-deploy-5-javascript-react-api-projects-in-10-hours-full-course-rapidapi-5057)
-- [Dev.to/JS] [How do I refactor IF_ELSE condition](https://dev.to/parvejcode/how-do-i-refactor-ifelse-condition-2gje)
-- [Dev.to/JS] [Blush | Made with Next JS](https://dev.to/madewithjavascript/blush-made-with-next-js-4cef)
 - [Lifehacker] [Noobs Should Embrace This New PlayStation ‘Gamer Dictionary’](https://lifehacker.com/noobs-should-embrace-this-new-playstation-gamer-dictio-1848938731)
 - [Lifehacker] [What’s Really Included in a Food’s Calorie Count &lpar;and What Isn&#39;t&rpar;](https://lifehacker.com/what-s-really-included-in-a-food-s-calorie-count-and-w-1848938626)
 - [Lifehacker] [How to Get a Free Fitbit or Apple Watch From Your Insurance Company](https://lifehacker.com/how-to-get-a-free-fitbit-or-apple-watch-from-your-insur-1848937750)
