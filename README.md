@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add colorpicker to Ant Design form](https://dev.to/igaponov/add-colorpicker-to-ant-design-form-15l6)
 - [Dev.to/JS] [Create React App With Netlify CMS](https://dev.to/wenura/create-react-app-with-netlify-cms-l8d)
 - [Dev.to/JS] [Build and Deploy 5 JavaScript &amp; React API Projects in 10 Hours - Full Course | RapidAPI](https://dev.to/wenura/build-and-deploy-5-javascript-react-api-projects-in-10-hours-full-course-rapidapi-5057)
 - [Dev.to/JS] [How do I refactor IF_ELSE condition](https://dev.to/parvejcode/how-do-i-refactor-ifelse-condition-2gje)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Javascript from Scratch in 2022 &lpar;5.13&rpar;](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022-513-5ha1)
 - [Dev.to/JS] [Learn Javascript from Scratch in 2022 &lpar;5.12&rpar;](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022-512-1cbj)
 - [Dev.to/JS] [Idea to Production in 2 days, thanks to...](https://dev.to/zernonia/idea-to-production-in-2-days-thanks-to-372b)
-- [Dev.to/JS] [How to close the current tab in a browser window?](https://dev.to/sinhapiyush/how-to-close-the-current-tab-in-a-browser-window-22km)
 - [Lifehacker] [Noobs Should Embrace This New PlayStation ‘Gamer Dictionary’](https://lifehacker.com/noobs-should-embrace-this-new-playstation-gamer-dictio-1848938731)
 - [Lifehacker] [What’s Really Included in a Food’s Calorie Count &lpar;and What Isn&#39;t&rpar;](https://lifehacker.com/what-s-really-included-in-a-food-s-calorie-count-and-w-1848938626)
 - [Lifehacker] [How to Get a Free Fitbit or Apple Watch From Your Insurance Company](https://lifehacker.com/how-to-get-a-free-fitbit-or-apple-watch-from-your-insur-1848937750)
