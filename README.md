@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create React App With Netlify CMS](https://dev.to/wenura/create-react-app-with-netlify-cms-l8d)
+- [Dev.to/JS] [Build and Deploy 5 JavaScript &amp; React API Projects in 10 Hours - Full Course | RapidAPI](https://dev.to/wenura/build-and-deploy-5-javascript-react-api-projects-in-10-hours-full-course-rapidapi-5057)
 - [Dev.to/JS] [How do I refactor IF_ELSE condition](https://dev.to/parvejcode/how-do-i-refactor-ifelse-condition-2gje)
 - [Dev.to/JS] [Blush | Made with Next JS](https://dev.to/madewithjavascript/blush-made-with-next-js-4cef)
 - [Dev.to/JS] [Bar Chart using D3.js](https://dev.to/sababg/bar-chart-using-d3js-3nfd)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn Javascript from Scratch in 2022 &lpar;5.12&rpar;](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022-512-1cbj)
 - [Dev.to/JS] [Idea to Production in 2 days, thanks to...](https://dev.to/zernonia/idea-to-production-in-2-days-thanks-to-372b)
 - [Dev.to/JS] [How to close the current tab in a browser window?](https://dev.to/sinhapiyush/how-to-close-the-current-tab-in-a-browser-window-22km)
-- [Dev.to/JS] [Very easy customizing console.log with CSS](https://dev.to/matheusmprado/very-easy-customizing-consolelog-with-css-kee)
 - [Lifehacker] [Noobs Should Embrace This New PlayStation ‘Gamer Dictionary’](https://lifehacker.com/noobs-should-embrace-this-new-playstation-gamer-dictio-1848938731)
-- [Dev.to/JS] [Redis and cache](https://dev.to/evanhameed99/redis-and-cache-3db8)
 - [Lifehacker] [What’s Really Included in a Food’s Calorie Count &lpar;and What Isn&#39;t&rpar;](https://lifehacker.com/what-s-really-included-in-a-food-s-calorie-count-and-w-1848938626)
 - [Lifehacker] [How to Get a Free Fitbit or Apple Watch From Your Insurance Company](https://lifehacker.com/how-to-get-a-free-fitbit-or-apple-watch-from-your-insur-1848937750)
 - [Lifehacker] [The Right Way to Freeze Milk, Half &amp; Half, and Heavy Cream](https://lifehacker.com/the-right-way-to-freeze-milk-half-half-and-heavy-cr-1848938121)
