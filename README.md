@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel 8 Google Pie Chart Example](https://dev.to/techsolutionstuff/laravel-8-google-pie-chart-example-43pe)
+- [Dev.to/JS] [Learn Javascript from Scratch in 2022（5.17）](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022517-1p6f)
+- [Dev.to/JS] [Learn Javascript from Scratch in 2022 &lpar;5.16&rpar;](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022-516-3h26)
 - [Dev.to/JS] [Learn Javascript from Scratch in 2022 &lpar;5.13&rpar;](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022-513-5ha1)
 - [Dev.to/JS] [Learn Javascript from Scratch in 2022 &lpar;5.12&rpar;](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022-512-1cbj)
 - [Dev.to/JS] [Idea to Production in 2 days, thanks to...](https://dev.to/zernonia/idea-to-production-in-2-days-thanks-to-372b)
@@ -41,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Can’t Just Order Baby Formula From Canada](https://lifehacker.com/why-you-can-t-just-order-baby-formula-from-canada-1848938040)
 - [Lifehacker] [The Most Overrated Tourist Destinations in the US &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-in-the-us-and-1848937679)
 - [Lifehacker] [The Best Ways to Get Your Kids to Listen Without Nagging](https://lifehacker.com/the-best-ways-to-get-your-kids-to-listen-without-naggin-1848917787)
-- [Dev.to/JS] [Paracetamol.js💊| #118: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-118-explica-este-codigo-javascript-3nc4)
-- [Dev.to/JS] [We used our Arcade to illustrate how simple micro frontends are](https://dev.to/richkurtzman/we-used-our-arcade-to-illustrate-how-simple-micro-frontends-are-47cb)
-- [Dev.to/JS] [Software Dev Update #12: The World Of DOM](https://dev.to/realnerdethan/software-dev-update-12-the-world-of-dom-4f49)
 - [Lifehacker] [How to Make a Restaurant-Quality Burger at Home](https://lifehacker.com/how-to-make-a-restaurant-quality-burger-at-home-1848937093)
 - [Lifehacker] [How to Spot an &#39;Emotional Vampire&#39; &lpar;and Know If You Are One&rpar;](https://lifehacker.com/how-to-spot-an-emotional-vampire-and-know-if-you-are-o-1848935096)
 - [Lifehacker] [You Can Block Those Annoying Cookie Banners on Every Website](https://lifehacker.com/you-can-block-those-annoying-cookie-banners-on-every-we-1848936142)
