@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving IPv4 Exhaustion with JavaScript](https://dev.to/seansamarov/solving-ipv4-exhaustion-with-javascript-4k4g)
+- [Dev.to/JS] [Our current frameworks are O&lpar;n&rpar;; we need O&lpar;1&rpar;](https://dev.to/builderio/our-current-frameworks-are-on-we-need-o1-4545)
+- [Dev.to/JS] [110. Balanced Binary Tree 🚀](https://dev.to/samuelhinchliffe/110-balanced-binary-tree-432n)
+- [Dev.to/JS] [New start](https://dev.to/sergiorsanchez/new-start-582k)
+- [Lifehacker] [How Elsa Taught My Kids to Tame Their Tantrums &lpar;and Do Chores&rpar;](https://lifehacker.com/how-elsa-taught-my-kids-to-tame-their-tantrums-and-do-1848942467)
+- [Dev.to/JS] [JavaScript - for...of and for...in](https://dev.to/justtanwa/javascript-forof-and-forin-3f67)
+- [Lifehacker] [Why You Need to Audit Your iPhone Auto-Renew App Subscriptions Right Now](https://lifehacker.com/why-you-need-to-audit-your-iphone-auto-renew-app-subscr-1848942555)
 - [Dev.to/JS] [Dialogbox made simple !](https://dev.to/neeswebservices/dialogbox-made-simple--4789)
 - [Lifehacker] [You Should Rub Raw Garlic on These Things](https://lifehacker.com/you-should-rub-raw-garlic-on-these-things-1848943412)
 - [Dev.to/JS] [Easy Multi-Page Form with React-Router and React-Hook-Form](https://dev.to/noface/easy-multi-page-form-with-react-router-and-react-hook-form-2joe)
@@ -33,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Cypress E2E testing has taught us about our code](https://dev.to/devteam/what-cypress-e2e-testing-has-taught-us-about-our-code-5aco)
 - [Dev.to/JS] [😇 &quot;Javascript Closure&quot; I think you can get what it is finally after reading this](https://dev.to/kaziusan/javascript-closure-i-think-you-can-get-what-it-is-finally-after-reading-this-14d6)
 - [Dev.to/JS] [Upload files with NextJS + Fetch + Api routes + Typescript](https://dev.to/igaponov/upload-files-with-nextjs-fetch-api-routes-typescript-4k23)
-- [Dev.to/JS] [Nodemon &amp; Express](https://dev.to/rogerdimonte/nodemon-express-2i1g)
 - [Lifehacker] [Things Only Assholes Say After a Celebrity Death](https://lifehacker.com/things-only-assholes-say-after-a-celebrity-death-1848938918)
-- [Dev.to/JS] [Shrink.media | Made with React JS](https://dev.to/madewithjavascript/shrinkmedia-made-with-react-js-ibl)
-- [Dev.to/JS] [Tu primer app de Express](https://dev.to/rogerdimonte/tu-primer-app-de-express-4ecm)
 - [Lifehacker] [How to Access the Hidden Special Characters on Your Keyboard](https://lifehacker.com/how-to-access-the-hidden-special-characters-on-your-key-1848929877)
-- [Dev.to/JS] [How To Write Your First Plugin For The Serverless Framework — Part 1](https://dev.to/goserverless/how-to-write-your-first-plugin-for-the-serverless-framework-part-1-3kce)
-- [Dev.to/JS] [Responsive Navbar In Vue.js](https://dev.to/w3hubs/responsive-navbar-in-vuejs-55cd)
 - [Lifehacker] [Beware the Latest Android Malware on Google Play](https://lifehacker.com/beware-the-latest-android-malware-on-google-play-1848939703)
 - [Lifehacker] [Stephanie Hsu Talks &#39;Everything, Everywhere All at Once&#39;](https://lifehacker.com/stephanie-hsu-talks-everything-everywhere-all-at-once-1848942058)
 - [Lifehacker] [You Can &#39;Warm Up&#39; Your Boring White Room Without Repainting](https://lifehacker.com/you-can-warm-up-your-boring-white-room-without-repainti-1848937908)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Get Your Kids to Listen Without Nagging](https://lifehacker.com/the-best-ways-to-get-your-kids-to-listen-without-naggin-1848917787)
 - [Lifehacker] [How to Make a Restaurant-Quality Burger at Home](https://lifehacker.com/how-to-make-a-restaurant-quality-burger-at-home-1848937093)
 - [Lifehacker] [How to Spot an &#39;Emotional Vampire&#39; &lpar;and Know If You Are One&rpar;](https://lifehacker.com/how-to-spot-an-emotional-vampire-and-know-if-you-are-o-1848935096)
-- [Lifehacker] [You Can Block Those Annoying Cookie Banners on Every Website](https://lifehacker.com/you-can-block-those-annoying-cookie-banners-on-every-we-1848936142)
-- [Lifehacker] [Throw Your Neckties in the Damn Garbage Already](https://lifehacker.com/throw-your-neckties-in-the-damn-garbage-already-1848936151)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
