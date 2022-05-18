@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Javascript from Scratch in 2022 &lpar;5.13&rpar;](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022-513-5ha1)
+- [Dev.to/JS] [Learn Javascript from Scratch in 2022 &lpar;5.12&rpar;](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022-512-1cbj)
+- [Dev.to/JS] [Idea to Production in 2 days, thanks to...](https://dev.to/zernonia/idea-to-production-in-2-days-thanks-to-372b)
+- [Dev.to/JS] [How to close the current tab in a browser window?](https://dev.to/sinhapiyush/how-to-close-the-current-tab-in-a-browser-window-22km)
 - [Dev.to/JS] [Very easy customizing console.log with CSS](https://dev.to/matheusmprado/very-easy-customizing-consolelog-with-css-kee)
 - [Lifehacker] [Noobs Should Embrace This New PlayStation ‘Gamer Dictionary’](https://lifehacker.com/noobs-should-embrace-this-new-playstation-gamer-dictio-1848938731)
 - [Dev.to/JS] [Redis and cache](https://dev.to/evanhameed99/redis-and-cache-3db8)
@@ -41,15 +45,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [We used our Arcade to illustrate how simple micro frontends are](https://dev.to/richkurtzman/we-used-our-arcade-to-illustrate-how-simple-micro-frontends-are-47cb)
 - [Dev.to/JS] [Software Dev Update #12: The World Of DOM](https://dev.to/realnerdethan/software-dev-update-12-the-world-of-dom-4f49)
 - [Lifehacker] [How to Make a Restaurant-Quality Burger at Home](https://lifehacker.com/how-to-make-a-restaurant-quality-burger-at-home-1848937093)
-- [Dev.to/JS] [How To Fix CORS Issue Permanently Right Now &lpar;2022&rpar;](https://dev.to/hirajatamil/how-to-fix-cors-issue-permanently-right-now-2022-1c8f)
 - [Lifehacker] [How to Spot an &#39;Emotional Vampire&#39; &lpar;and Know If You Are One&rpar;](https://lifehacker.com/how-to-spot-an-emotional-vampire-and-know-if-you-are-o-1848935096)
-- [Dev.to/JS] [Day-89 Training At Ryaz](https://dev.to/mahin651/day-89-training-at-ryaz-2oi3)
 - [Lifehacker] [You Can Block Those Annoying Cookie Banners on Every Website](https://lifehacker.com/you-can-block-those-annoying-cookie-banners-on-every-we-1848936142)
-- [Dev.to/JS] [React Dashboards - Why Are They So Popular And How To Build One?](https://dev.to/thomasfindlay/react-dashboards-why-are-they-so-popular-and-how-to-build-one-4pnb)
 - [Lifehacker] [Throw Your Neckties in the Damn Garbage Already](https://lifehacker.com/throw-your-neckties-in-the-damn-garbage-already-1848936151)
 - [Lifehacker] [You Can Make It Way Harder for Cookies to Track You in Edge](https://lifehacker.com/you-can-make-it-way-harder-for-cookies-to-track-you-in-1848925898)
 - [Lifehacker] [8 Telegram Privacy Settings You Should Enable Immediately](https://lifehacker.com/8-telegram-privacy-settings-you-should-enable-immediate-1848931353)
-- [Dev.to/JS] [Building a Stats Website for a Sports Club](https://dev.to/bangsluke/building-a-stats-website-for-a-sports-club-4g5m)
 - [Lifehacker] [13 of the Most Misheard Lyrics in Music History](https://lifehacker.com/13-of-the-most-misheard-lyrics-in-music-history-1848931396)
 - [Lifehacker] [Make Crispy, Caramelized Brittle With Stale Pastries](https://lifehacker.com/make-crispy-caramelized-brittle-with-stale-pastries-1848933809)
 - [Lifehacker] [Tender Hooks, Expresso, and Other Malapropisms That Will Make People Laugh at You](https://lifehacker.com/tender-hooks-expresso-and-other-malapropisms-that-wil-1848931843)
