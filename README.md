@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to gradually add an eslint rule](https://dev.to/strdr4605/how-to-gradually-add-an-eslint-rule-1ced)
+- [Dev.to/JS] [How to add Storyblok CMS to Vue Storefront 2](https://dev.to/vue-storefront/how-to-add-storyblok-cms-to-vue-storefront-2-h94)
+- [Dev.to/JS] [Hire React native developer in India| Outsource React native developer](https://dev.to/johnpet90775541/hire-react-native-developer-in-india-outsource-react-native-developer-48i6)
+- [Dev.to/JS] [Hire AngularJS developer in India for web development for full time at low cost](https://dev.to/johnpet90775541/hire-angularjs-developer-in-india-for-web-development-for-full-time-at-low-cost-3d0m)
 - [Dev.to/JS] [Animated Modal with Framer Motion](https://dev.to/satel/animated-modal-with-framer-motion-52h)
 - [Dev.to/JS] [Javascript Objects](https://dev.to/talenttinaapi/javascript-objects-4cc0)
 - [Dev.to/JS] [Splash season is on! Integration of Huawei Ads Kit &lpar;Splash Ads&rpar; in Application using React Native](https://dev.to/hmscommunity/splash-season-is-on-integration-of-huawei-ads-kit-splash-ads-in-application-using-react-native-3cd0)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Maps in JavaScript](https://dev.to/kibetamos/maps-in-javascript-3c38)
 - [Dev.to/JS] [Array.splice&lpar;&rpar; - for removing, replacing or adding values to an array](https://dev.to/dillionmegida/arraysplice-for-removing-replacing-or-adding-values-to-an-array-1k6c)
 - [Dev.to/JS] [Manipulating the DOM using Javascript - how to select nodes &lpar;part 1&rpar; 👨🏼‍🔬🎯](https://dev.to/arikaturika/manipulating-the-dom-using-javascript-how-to-select-nodes-part-1-38j)
-- [Dev.to/JS] [Volta—simple and fast node version manager](https://dev.to/climbing_dev/volta-simple-and-fast-node-version-manager-1me5)
-- [Dev.to/JS] [Add colorpicker to Ant Design form](https://dev.to/igaponov/add-colorpicker-to-ant-design-form-15l6)
-- [Dev.to/JS] [Create React App With Netlify CMS](https://dev.to/wenura/create-react-app-with-netlify-cms-l8d)
-- [Dev.to/JS] [Build and Deploy 5 JavaScript &amp; React API Projects in 10 Hours - Full Course | RapidAPI](https://dev.to/wenura/build-and-deploy-5-javascript-react-api-projects-in-10-hours-full-course-rapidapi-5057)
 - [Lifehacker] [Noobs Should Embrace This New PlayStation ‘Gamer Dictionary’](https://lifehacker.com/noobs-should-embrace-this-new-playstation-gamer-dictio-1848938731)
 - [Lifehacker] [What’s Really Included in a Food’s Calorie Count &lpar;and What Isn&#39;t&rpar;](https://lifehacker.com/what-s-really-included-in-a-food-s-calorie-count-and-w-1848938626)
 - [Lifehacker] [How to Get a Free Fitbit or Apple Watch From Your Insurance Company](https://lifehacker.com/how-to-get-a-free-fitbit-or-apple-watch-from-your-insur-1848937750)
