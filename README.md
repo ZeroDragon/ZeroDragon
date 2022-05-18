@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How do I refactor IF_ELSE condition](https://dev.to/parvejcode/how-do-i-refactor-ifelse-condition-2gje)
+- [Dev.to/JS] [Blush | Made with Next JS](https://dev.to/madewithjavascript/blush-made-with-next-js-4cef)
+- [Dev.to/JS] [Bar Chart using D3.js](https://dev.to/sababg/bar-chart-using-d3js-3nfd)
 - [Dev.to/JS] [Laravel 8 Google Pie Chart Example](https://dev.to/techsolutionstuff/laravel-8-google-pie-chart-example-43pe)
 - [Dev.to/JS] [Learn Javascript from Scratch in 2022（5.17）](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022517-1p6f)
 - [Dev.to/JS] [Learn Javascript from Scratch in 2022 &lpar;5.16&rpar;](https://dev.to/earlydaysdeeproots/learn-javascript-from-scratch-in-2022-516-3h26)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What’s Really Included in a Food’s Calorie Count &lpar;and What Isn&#39;t&rpar;](https://lifehacker.com/what-s-really-included-in-a-food-s-calorie-count-and-w-1848938626)
 - [Lifehacker] [How to Get a Free Fitbit or Apple Watch From Your Insurance Company](https://lifehacker.com/how-to-get-a-free-fitbit-or-apple-watch-from-your-insur-1848937750)
 - [Lifehacker] [The Right Way to Freeze Milk, Half &amp; Half, and Heavy Cream](https://lifehacker.com/the-right-way-to-freeze-milk-half-half-and-heavy-cr-1848938121)
-- [Dev.to/JS] [Node: cd myjourney02](https://dev.to/adebiyiitunuayo/node-cd-myjourney02-3fk0)
 - [Lifehacker] [How Much Sleep Do You Really Need?](https://lifehacker.com/how-much-sleep-do-you-really-need-1848933245)
 - [Lifehacker] [You Can Now Get Eight More Free COVID Tests by Mail](https://lifehacker.com/you-can-now-get-eight-more-free-covid-tests-by-mail-1848937728)
-- [Dev.to/JS] [React.js Lifecycle Methods](https://dev.to/asi309/reactjs-lifecycle-methods-e8)
-- [Dev.to/JS] [Rest vs Spread Operator](https://dev.to/melguachun/rest-vs-spread-operator-1ne5)
 - [Lifehacker] [Why You Can’t Just Order Baby Formula From Canada](https://lifehacker.com/why-you-can-t-just-order-baby-formula-from-canada-1848938040)
 - [Lifehacker] [The Most Overrated Tourist Destinations in the US &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-in-the-us-and-1848937679)
 - [Lifehacker] [The Best Ways to Get Your Kids to Listen Without Nagging](https://lifehacker.com/the-best-ways-to-get-your-kids-to-listen-without-naggin-1848917787)
