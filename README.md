@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What the hell is 👿 Hasura 👿](https://dev.to/i_am_onkar/what-the-hell-is-hasura-466)
+- [Lifehacker] [Why We &#39;Choke&#39; Under Pressure &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-we-choke-under-pressure-and-how-to-avoid-it-1848943365)
 - [Dev.to/JS] [700. Search in a Binary Search Tree 🚀](https://dev.to/samuelhinchliffe/700-search-in-a-binary-search-tree-1mpn)
 - [Lifehacker] [How to Know If You Qualify for Paxlovid, the Oral COVID Antiviral](https://lifehacker.com/how-to-know-if-you-qualify-for-paxlovid-the-oral-covid-1848944146)
 - [Dev.to/JS] [Clean code resumo](https://dev.to/ysrael12/clean-code-resumo-3eej)
@@ -41,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy Multi-Page Form with React-Router and React-Hook-Form](https://dev.to/noface/easy-multi-page-form-with-react-router-and-react-hook-form-2joe)
 - [Lifehacker] [This Online Calculator Will Help You Pack Your Next Bag](https://lifehacker.com/this-online-calculator-will-help-you-pack-your-next-bag-1848939238)
 - [Lifehacker] [The Lies You Can Get Away With in a Job Interview &lpar;and the Ones You Can&#39;t&rpar;](https://lifehacker.com/the-lies-you-can-get-away-with-in-a-job-interview-and-1848942843)
-- [Dev.to/JS] [Building an Open Source Blogging Platform with Appwrite and Hugo](https://dev.to/appwrite/building-an-open-source-blogging-platform-with-appwrite-and-hugo-2hf7)
 - [Lifehacker] [Things Only Assholes Say After a Celebrity Death](https://lifehacker.com/things-only-assholes-say-after-a-celebrity-death-1848938918)
 - [Lifehacker] [How to Access the Hidden Special Characters on Your Keyboard](https://lifehacker.com/how-to-access-the-hidden-special-characters-on-your-key-1848929877)
 - [Lifehacker] [Beware the Latest Android Malware on Google Play](https://lifehacker.com/beware-the-latest-android-malware-on-google-play-1848939703)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Now Get Eight More Free COVID Tests by Mail](https://lifehacker.com/you-can-now-get-eight-more-free-covid-tests-by-mail-1848937728)
 - [Lifehacker] [Why You Can’t Just Order Baby Formula From Canada](https://lifehacker.com/why-you-can-t-just-order-baby-formula-from-canada-1848938040)
 - [Lifehacker] [The Most Overrated Tourist Destinations in the US &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-in-the-us-and-1848937679)
-- [Lifehacker] [The Best Ways to Get Your Kids to Listen Without Nagging](https://lifehacker.com/the-best-ways-to-get-your-kids-to-listen-without-naggin-1848917787)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
