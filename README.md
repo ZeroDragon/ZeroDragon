@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [700. Search in a Binary Search Tree 🚀](https://dev.to/samuelhinchliffe/700-search-in-a-binary-search-tree-1mpn)
+- [Lifehacker] [How to Know If You Qualify for Paxlovid, the Oral COVID Antiviral](https://lifehacker.com/how-to-know-if-you-qualify-for-paxlovid-the-oral-covid-1848944146)
+- [Dev.to/JS] [Clean code resumo](https://dev.to/ysrael12/clean-code-resumo-3eej)
+- [Dev.to/JS] [Understanding Redux &lpar;Part 1&rpar;: Demystifying Store, Action and Reducers](https://dev.to/sohamderoy/understanding-redux-part-1-demystifying-store-action-and-reducers-k4j)
+- [Dev.to/JS] [Beginner&#39;s Guide to Regex](https://dev.to/rahulyadav139/beginners-guide-to-regex-37ho)
+- [Lifehacker] [You Should Know Which &#39;Financial Phase&#39; You&#39;re In](https://lifehacker.com/you-should-know-which-financial-phase-youre-in-1848943305)
 - [Dev.to/JS] [Solving IPv4 Exhaustion with JavaScript](https://dev.to/seansamarov/solving-ipv4-exhaustion-with-javascript-4k4g)
 - [Dev.to/JS] [Our current frameworks are O&lpar;n&rpar;; we need O&lpar;1&rpar;](https://dev.to/builderio/our-current-frameworks-are-on-we-need-o1-4545)
 - [Dev.to/JS] [110. Balanced Binary Tree 🚀](https://dev.to/samuelhinchliffe/110-balanced-binary-tree-432n)
@@ -36,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Online Calculator Will Help You Pack Your Next Bag](https://lifehacker.com/this-online-calculator-will-help-you-pack-your-next-bag-1848939238)
 - [Lifehacker] [The Lies You Can Get Away With in a Job Interview &lpar;and the Ones You Can&#39;t&rpar;](https://lifehacker.com/the-lies-you-can-get-away-with-in-a-job-interview-and-1848942843)
 - [Dev.to/JS] [Building an Open Source Blogging Platform with Appwrite and Hugo](https://dev.to/appwrite/building-an-open-source-blogging-platform-with-appwrite-and-hugo-2hf7)
-- [Dev.to/JS] [Day-90 Training At Ryaz](https://dev.to/mahin651/day-90-training-at-ryaz-4n7i)
-- [Dev.to/JS] [What Cypress E2E testing has taught us about our code](https://dev.to/devteam/what-cypress-e2e-testing-has-taught-us-about-our-code-5aco)
-- [Dev.to/JS] [😇 &quot;Javascript Closure&quot; I think you can get what it is finally after reading this](https://dev.to/kaziusan/javascript-closure-i-think-you-can-get-what-it-is-finally-after-reading-this-14d6)
-- [Dev.to/JS] [Upload files with NextJS + Fetch + Api routes + Typescript](https://dev.to/igaponov/upload-files-with-nextjs-fetch-api-routes-typescript-4k23)
 - [Lifehacker] [Things Only Assholes Say After a Celebrity Death](https://lifehacker.com/things-only-assholes-say-after-a-celebrity-death-1848938918)
 - [Lifehacker] [How to Access the Hidden Special Characters on Your Keyboard](https://lifehacker.com/how-to-access-the-hidden-special-characters-on-your-key-1848929877)
 - [Lifehacker] [Beware the Latest Android Malware on Google Play](https://lifehacker.com/beware-the-latest-android-malware-on-google-play-1848939703)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Can’t Just Order Baby Formula From Canada](https://lifehacker.com/why-you-can-t-just-order-baby-formula-from-canada-1848938040)
 - [Lifehacker] [The Most Overrated Tourist Destinations in the US &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/the-most-overrated-tourist-destinations-in-the-us-and-1848937679)
 - [Lifehacker] [The Best Ways to Get Your Kids to Listen Without Nagging](https://lifehacker.com/the-best-ways-to-get-your-kids-to-listen-without-naggin-1848917787)
-- [Lifehacker] [How to Make a Restaurant-Quality Burger at Home](https://lifehacker.com/how-to-make-a-restaurant-quality-burger-at-home-1848937093)
-- [Lifehacker] [How to Spot an &#39;Emotional Vampire&#39; &lpar;and Know If You Are One&rpar;](https://lifehacker.com/how-to-spot-an-emotional-vampire-and-know-if-you-are-o-1848935096)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
