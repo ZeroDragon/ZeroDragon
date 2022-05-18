@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dialogbox made simple !](https://dev.to/neeswebservices/dialogbox-made-simple--4789)
+- [Lifehacker] [You Should Rub Raw Garlic on These Things](https://lifehacker.com/you-should-rub-raw-garlic-on-these-things-1848943412)
+- [Dev.to/JS] [Easy Multi-Page Form with React-Router and React-Hook-Form](https://dev.to/noface/easy-multi-page-form-with-react-router-and-react-hook-form-2joe)
 - [Lifehacker] [This Online Calculator Will Help You Pack Your Next Bag](https://lifehacker.com/this-online-calculator-will-help-you-pack-your-next-bag-1848939238)
 - [Lifehacker] [The Lies You Can Get Away With in a Job Interview &lpar;and the Ones You Can&#39;t&rpar;](https://lifehacker.com/the-lies-you-can-get-away-with-in-a-job-interview-and-1848942843)
 - [Dev.to/JS] [Building an Open Source Blogging Platform with Appwrite and Hugo](https://dev.to/appwrite/building-an-open-source-blogging-platform-with-appwrite-and-hugo-2hf7)
@@ -37,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Access the Hidden Special Characters on Your Keyboard](https://lifehacker.com/how-to-access-the-hidden-special-characters-on-your-key-1848929877)
 - [Dev.to/JS] [How To Write Your First Plugin For The Serverless Framework — Part 1](https://dev.to/goserverless/how-to-write-your-first-plugin-for-the-serverless-framework-part-1-3kce)
 - [Dev.to/JS] [Responsive Navbar In Vue.js](https://dev.to/w3hubs/responsive-navbar-in-vuejs-55cd)
-- [Dev.to/JS] [JavaScript History with Quizzes](https://dev.to/codewithshahan/javascript-history-with-quizzes-3h4d)
 - [Lifehacker] [Beware the Latest Android Malware on Google Play](https://lifehacker.com/beware-the-latest-android-malware-on-google-play-1848939703)
-- [Dev.to/JS] [Paracetamol.js💊| #119: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-119-explica-este-codigo-javascript-5bl3)
 - [Lifehacker] [Stephanie Hsu Talks &#39;Everything, Everywhere All at Once&#39;](https://lifehacker.com/stephanie-hsu-talks-everything-everywhere-all-at-once-1848942058)
 - [Lifehacker] [You Can &#39;Warm Up&#39; Your Boring White Room Without Repainting](https://lifehacker.com/you-can-warm-up-your-boring-white-room-without-repainti-1848937908)
 - [Lifehacker] [Your Dating App Voice Prompt Sucks &lpar;and How to Make It Better&rpar;](https://lifehacker.com/your-dating-app-voice-prompt-sucks-and-how-to-make-it-1848939137)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Spot an &#39;Emotional Vampire&#39; &lpar;and Know If You Are One&rpar;](https://lifehacker.com/how-to-spot-an-emotional-vampire-and-know-if-you-are-o-1848935096)
 - [Lifehacker] [You Can Block Those Annoying Cookie Banners on Every Website](https://lifehacker.com/you-can-block-those-annoying-cookie-banners-on-every-we-1848936142)
 - [Lifehacker] [Throw Your Neckties in the Damn Garbage Already](https://lifehacker.com/throw-your-neckties-in-the-damn-garbage-already-1848936151)
-- [Lifehacker] [You Can Make It Way Harder for Cookies to Track You in Edge](https://lifehacker.com/you-can-make-it-way-harder-for-cookies-to-track-you-in-1848925898)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
