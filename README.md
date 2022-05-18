@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can &#39;Warm Up&#39; Your Boring White Room Without Repainting](https://lifehacker.com/you-can-warm-up-your-boring-white-room-without-repainti-1848937908)
+- [Lifehacker] [Your Dating App Voice Prompt Sucks &lpar;and How to Make It Better&rpar;](https://lifehacker.com/your-dating-app-voice-prompt-sucks-and-how-to-make-it-1848939137)
+- [Dev.to/JS] [Improve your Testing with Custom Matchers in Jest](https://dev.to/zirkelc/improve-your-testing-with-custom-matchers-in-jest-2ibm)
 - [Dev.to/JS] [12 Great Free Tools For Developers in 2022](https://dev.to/getscreen/12-great-free-tools-for-developers-in-2022-3809)
 - [Lifehacker] [Why You Should Always Buy Both Canned Milks](https://lifehacker.com/why-you-should-always-buy-both-canned-milks-1848938774)
 - [Dev.to/JS] [Explaining source code with literate diff](https://dev.to/abagames/explaining-source-code-with-literate-diff-319j)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Learn JavaScript](https://dev.to/jemimaabu/how-to-learn-javascript-4g9a)
 - [Dev.to/JS] [Any projects with node js?](https://dev.to/shresthadev403/any-projects-with-node-js-5g0f)
 - [Dev.to/JS] [#16: Test Automation with Playwright](https://dev.to/azure/16-test-automation-with-playwright-odk)
-- [Dev.to/JS] [The power of React refs](https://dev.to/josephciullo/the-power-of-react-refs-e3h)
 - [Lifehacker] [Noobs Should Embrace This New PlayStation ‘Gamer Dictionary’](https://lifehacker.com/noobs-should-embrace-this-new-playstation-gamer-dictio-1848938731)
 - [Lifehacker] [What’s Really Included in a Food’s Calorie Count &lpar;and What Isn&#39;t&rpar;](https://lifehacker.com/what-s-really-included-in-a-food-s-calorie-count-and-w-1848938626)
 - [Lifehacker] [How to Get a Free Fitbit or Apple Watch From Your Insurance Company](https://lifehacker.com/how-to-get-a-free-fitbit-or-apple-watch-from-your-insur-1848937750)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Tender Hooks, Expresso, and Other Malapropisms That Will Make People Laugh at You](https://lifehacker.com/tender-hooks-expresso-and-other-malapropisms-that-wil-1848931843)
 - [Lifehacker] [How to Ditch Your Smartwatch and Jog Like It&#39;s 1982](https://lifehacker.com/how-to-ditch-your-smartwatch-and-jog-like-its-1982-1848933522)
 - [Lifehacker] [14 Music Festivals Worth Traveling to This Summer &lpar;and Beyond&rpar;](https://lifehacker.com/14-music-festivals-worth-traveling-to-this-summer-and-1848933022)
-- [Lifehacker] [You Should Know How to Scan a QR Code From a Screenshot](https://lifehacker.com/you-should-know-how-to-scan-a-qr-code-from-a-screenshot-1848929906)
-- [Lifehacker] [Why You Should Trade-In Your Old iPhone Before June](https://lifehacker.com/why-you-should-trade-in-your-old-iphone-before-june-1848932319)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
