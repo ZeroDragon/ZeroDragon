@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Horizontal scaling of socket.io with RabbitMQ](https://dev.to/ant0ine_gt/horizontal-scaling-of-socketio-with-rabbitmq-5g1p)
+- [Dev.to/JS] [Any projects with node js?](https://dev.to/shresthadev403/any-projects-with-node-js-5g0f)
+- [Dev.to/JS] [#16: Test Automation with Playwright](https://dev.to/azure/16-test-automation-with-playwright-odk)
 - [Dev.to/JS] [How to gradually add an eslint rule](https://dev.to/strdr4605/how-to-gradually-add-an-eslint-rule-1ced)
 - [Dev.to/JS] [How to add Storyblok CMS to Vue Storefront 2](https://dev.to/vue-storefront/how-to-add-storyblok-cms-to-vue-storefront-2-h94)
 - [Dev.to/JS] [Hire React native developer in India| Outsource React native developer](https://dev.to/johnpet90775541/hire-react-native-developer-in-india-outsource-react-native-developer-48i6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Splash season is on! Integration of Huawei Ads Kit &lpar;Splash Ads&rpar; in Application using React Native](https://dev.to/hmscommunity/splash-season-is-on-integration-of-huawei-ads-kit-splash-ads-in-application-using-react-native-3cd0)
 - [Dev.to/JS] [Use jsx as server side html template](https://dev.to/taowen/use-jsx-as-server-side-html-template-3k40)
 - [Dev.to/JS] [Zero-Runtime Scoped Component Styling Made Easy!](https://dev.to/blusk/zero-runtime-scoped-component-styling-made-easy-2cno)
-- [Dev.to/JS] [Maps in JavaScript](https://dev.to/kibetamos/maps-in-javascript-3c38)
-- [Dev.to/JS] [Array.splice&lpar;&rpar; - for removing, replacing or adding values to an array](https://dev.to/dillionmegida/arraysplice-for-removing-replacing-or-adding-values-to-an-array-1k6c)
-- [Dev.to/JS] [Manipulating the DOM using Javascript - how to select nodes &lpar;part 1&rpar; 👨🏼‍🔬🎯](https://dev.to/arikaturika/manipulating-the-dom-using-javascript-how-to-select-nodes-part-1-38j)
 - [Lifehacker] [Noobs Should Embrace This New PlayStation ‘Gamer Dictionary’](https://lifehacker.com/noobs-should-embrace-this-new-playstation-gamer-dictio-1848938731)
 - [Lifehacker] [What’s Really Included in a Food’s Calorie Count &lpar;and What Isn&#39;t&rpar;](https://lifehacker.com/what-s-really-included-in-a-food-s-calorie-count-and-w-1848938626)
 - [Lifehacker] [How to Get a Free Fitbit or Apple Watch From Your Insurance Company](https://lifehacker.com/how-to-get-a-free-fitbit-or-apple-watch-from-your-insur-1848937750)
