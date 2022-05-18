@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Shrink.media | Made with React JS](https://dev.to/madewithjavascript/shrinkmedia-made-with-react-js-ibl)
+- [Dev.to/JS] [Tu primer app de Express](https://dev.to/rogerdimonte/tu-primer-app-de-express-4ecm)
+- [Lifehacker] [How to Access the Hidden Special Characters on Your Keyboard](https://lifehacker.com/how-to-access-the-hidden-special-characters-on-your-key-1848929877)
+- [Dev.to/JS] [How To Write Your First Plugin For The Serverless Framework — Part 1](https://dev.to/goserverless/how-to-write-your-first-plugin-for-the-serverless-framework-part-1-3kce)
+- [Dev.to/JS] [Responsive Navbar In Vue.js](https://dev.to/w3hubs/responsive-navbar-in-vuejs-55cd)
+- [Dev.to/JS] [JavaScript History with Quizzes](https://dev.to/codewithshahan/javascript-history-with-quizzes-3h4d)
 - [Lifehacker] [Beware the Latest Android Malware on Google Play](https://lifehacker.com/beware-the-latest-android-malware-on-google-play-1848939703)
 - [Dev.to/JS] [Paracetamol.js💊| #119: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-119-explica-este-codigo-javascript-5bl3)
 - [Dev.to/JS] [You should know about xicons.org](https://dev.to/brojenuel/you-should-know-about-xiconsorg-keh)
@@ -32,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pixel art from pictures](https://dev.to/emiliodominguez/pixel-art-from-pictures-2lnk)
 - [Lifehacker] [Stephanie Hsu Talks &#39;Everything, Everywhere All at Once&#39;](https://lifehacker.com/stephanie-hsu-talks-everything-everywhere-all-at-once-1848942058)
 - [Dev.to/JS] [El Consejo ayudará](https://dev.to/juangon42673591/el-consejo-ayudara-223i)
-- [Dev.to/JS] [META anuncia que](https://dev.to/juangon42673591/meta-anuncia-que-3aa4)
-- [Dev.to/JS] [Top 10 Must-have VSCode Extensions for Angular Developers in 2022](https://dev.to/sd_sasidharan/top-10-must-have-vscode-extensions-for-angular-developers-in-2022-56fb)
-- [Dev.to/JS] [When an SSG Isn&#39;t Just Static, What Is It?](https://dev.to/remotesynth/when-an-ssg-isnt-just-static-what-is-it-568a)
-- [Dev.to/JS] [PixelSnap 2 for Mac | Made with Vue JS](https://dev.to/madewithjavascript/pixelsnap-2-for-mac-made-with-vue-js-2n6a)
-- [Dev.to/JS] [Fix Javascript Date Woes](https://dev.to/philthedev/fix-javascript-date-woes-38hl)
 - [Lifehacker] [You Can &#39;Warm Up&#39; Your Boring White Room Without Repainting](https://lifehacker.com/you-can-warm-up-your-boring-white-room-without-repainti-1848937908)
 - [Lifehacker] [Your Dating App Voice Prompt Sucks &lpar;and How to Make It Better&rpar;](https://lifehacker.com/your-dating-app-voice-prompt-sucks-and-how-to-make-it-1848939137)
 - [Lifehacker] [Why You Should Always Buy Both Canned Milks](https://lifehacker.com/why-you-should-always-buy-both-canned-milks-1848938774)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Telegram Privacy Settings You Should Enable Immediately](https://lifehacker.com/8-telegram-privacy-settings-you-should-enable-immediate-1848931353)
 - [Lifehacker] [13 of the Most Misheard Lyrics in Music History](https://lifehacker.com/13-of-the-most-misheard-lyrics-in-music-history-1848931396)
 - [Lifehacker] [Make Crispy, Caramelized Brittle With Stale Pastries](https://lifehacker.com/make-crispy-caramelized-brittle-with-stale-pastries-1848933809)
-- [Lifehacker] [Tender Hooks, Expresso, and Other Malapropisms That Will Make People Laugh at You](https://lifehacker.com/tender-hooks-expresso-and-other-malapropisms-that-wil-1848931843)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
 - [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
