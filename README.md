@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array and Object Manipulation + DOM differences](https://dev.to/sberdup/array-and-object-manipulation-dom-differences-2ijf)
 - [Dev.to/JS] [How to present Axios data as list](https://dev.to/agentggg/how-to-present-axios-data-as-list-3l3c)
 - [Dev.to/JS] [Part 5: Getting ready for deployment &amp; deploy](https://dev.to/evertvdw/part-5-getting-ready-for-deployment-deploy-346o)
 - [Dev.to/JS] [What I learnt at Reactathon 2022](https://dev.to/shrutikapoor08/what-i-learnt-at-reactathon-2022-3e3a)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clean code resumo](https://dev.to/ysrael12/clean-code-resumo-3eej)
 - [Dev.to/JS] [Understanding Redux &lpar;Part 1&rpar;: Demystifying Store, Action and Reducers](https://dev.to/sohamderoy/understanding-redux-part-1-demystifying-store-action-and-reducers-k4j)
 - [Dev.to/JS] [Beginner&#39;s Guide to Regex](https://dev.to/rahulyadav139/beginners-guide-to-regex-37ho)
-- [Dev.to/JS] [Considerations for Incremental Static Regeneration in Next.js](https://dev.to/chrisrhymes/considerations-for-incremental-static-regeneration-in-nextjs-anb)
 - [Lifehacker] [You Should Know Which &#39;Financial Phase&#39; You&#39;re In](https://lifehacker.com/you-should-know-which-financial-phase-youre-in-1848943305)
 - [Lifehacker] [How Elsa Taught My Kids to Tame Their Tantrums &lpar;and Do Chores&rpar;](https://lifehacker.com/how-elsa-taught-my-kids-to-tame-their-tantrums-and-do-1848942467)
 - [Lifehacker] [Why You Need to Audit Your iPhone Auto-Renew App Subscriptions Right Now](https://lifehacker.com/why-you-need-to-audit-your-iphone-auto-renew-app-subscr-1848942555)
