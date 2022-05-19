@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Time to Buy Cars, Appliances, and Other Things That Have Been Hit Hard by Inflation](https://lifehacker.com/the-best-time-to-buy-cars-appliances-and-other-things-1848948337)
+- [Dev.to/JS] [Two-way data binding for concise APIs in Vue. The dialog example.](https://dev.to/vmoe/two-way-data-binding-for-concise-apis-in-vue-the-dialog-example-59m4)
+- [Dev.to/JS] [Get started with the new Azure Static Web Apps CLI](https://dev.to/azure/get-started-with-the-new-azure-static-web-apps-cli-mm3)
+- [Dev.to/JS] [16 useful TypeScript and JavaScript shorthands to know](https://dev.to/logrocket/16-useful-typescript-and-javascript-shorthands-to-know-2h9n)
+- [Dev.to/JS] [How Babel transforms JSX to JS](https://dev.to/a89529294/how-babel-transforms-jsx-to-js-5hg2)
+- [Lifehacker] [12 Reasons Why Cruises Are Terrible Vacations](https://lifehacker.com/12-reasons-why-cruises-are-terrible-vacations-1848945802)
+- [Dev.to/JS] [How we used JSDoc &amp; Webpack to write some custom JavaScript decorators &amp; annotations](https://dev.to/thomas_101/how-we-used-jsdoc-webpack-to-write-some-custom-javascript-decorators-annotations-1h42)
+- [Dev.to/JS] [Making a Podcast Transcription Server with Express.js](https://dev.to/laves/making-a-podcast-transcription-server-with-expressjs-26i3)
+- [Dev.to/JS] [Tutorial To Build Full Stack Amazon Clone with Admin Panel](https://dev.to/rivaanranawat/tutorial-to-build-full-stack-amazon-clone-with-admin-panel-49n4)
+- [Dev.to/JS] [Interested in getting deeper into Web Components?](https://dev.to/devteam/interested-in-getting-deeper-into-web-components-1dom)
 - [Lifehacker] [How to Tell If Someone’s Been Sneaking Into Your Bedroom](https://lifehacker.com/how-to-tell-if-someone-s-been-sneaking-into-your-bedroo-1848944525)
 - [Lifehacker] [You Can Now Use Your iPhone to Identify Animals, Plants, and Landmarks](https://lifehacker.com/you-can-now-use-your-iphone-to-identify-animals-plants-1848945035)
 - [Dev.to/JS] [JS Fundamentals - Break VS Continue](https://dev.to/rahimshahad/js-fundamentals-break-vs-continue-23ji)
@@ -30,15 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Different ways to create an Object in Javascript](https://dev.to/satel/different-ways-to-create-an-object-in-javascript-232a)
 - [Lifehacker] [Forget Pesto—Make an Easy Herb Oil Instead](https://lifehacker.com/forget-pesto-make-an-easy-herb-oil-instead-1848946382)
 - [Dev.to/JS] [🎉 After 2 years I finally finished my portfolio🎉](https://dev.to/nicolasbiondini/after-2-years-i-finally-finished-my-portfolio-413o)
-- [Dev.to/JS] [#18: Debug Static Web Apps with Edge DevTools](https://dev.to/azure/18-debug-static-web-apps-with-edge-devtools-34c8)
 - [Lifehacker] [Who Knew You Could Turn Off a Family Member&#39;s iPhone Alarm?](https://lifehacker.com/who-knew-you-could-turn-off-a-family-members-iphone-ala-1848943873)
-- [Dev.to/JS] [Pitch me on Salesforce CRM](https://dev.to/hvm3/pitch-me-on-salesforce-crm-8hn)
-- [Dev.to/JS] [Build an interactive user interface with React.js](https://dev.to/joemack/build-an-interactive-user-interface-with-reactjs-2252)
-- [Dev.to/JS] [AFSP.org | Made with Gatsby JS](https://dev.to/madewithjavascript/afsporg-made-with-gatsby-js-38mi)
-- [Dev.to/JS] [Welcome](https://dev.to/iamkingsleydems/hello-1m2p)
-- [Dev.to/JS] [Create an Open Source Ecommerce Marketplace Part 2: Vender-Specific Orders](https://dev.to/medusajs/create-an-open-source-ecommerce-marketplace-part-2-vender-specific-orders-1m80)
-- [Dev.to/JS] [Ortto | Made with Next JS](https://dev.to/madewithjavascript/ortto-made-with-next-js-333f)
-- [Dev.to/JS] [ساينتفك عرب: الدليل الكامل لأمان القنبلة النووية](https://dev.to/sientificarab/syntfk-rb-ldlyl-lkml-lmn-lqnbl-lnwwy-53f3)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
 - [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Always Buy Both Canned Milks](https://lifehacker.com/why-you-should-always-buy-both-canned-milks-1848938774)
 - [Lifehacker] [100 Things You Didn&#39;t Know About the 100 Most-Streamed Songs on Spotify](https://lifehacker.com/100-things-you-didnt-know-about-the-100-most-streamed-s-1848908623)
 - [Lifehacker] [7 of the Best Summer Jobs for a Teenager](https://lifehacker.com/7-of-the-best-summer-jobs-for-a-teenager-1848939253)
-- [Lifehacker] [Noobs Should Embrace This New PlayStation ‘Gamer Dictionary’](https://lifehacker.com/noobs-should-embrace-this-new-playstation-gamer-dictio-1848938731)
-- [Lifehacker] [What’s Really Included in a Food’s Calorie Count &lpar;and What Isn&#39;t&rpar;](https://lifehacker.com/what-s-really-included-in-a-food-s-calorie-count-and-w-1848938626)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
