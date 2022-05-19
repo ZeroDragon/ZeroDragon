@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
+- [Dev.to/JS] [Explore the Architecture Behind a Typical Notification](https://dev.to/apoorvtomar/explore-the-architecture-behind-a-typical-notification-3feh)
+- [Lifehacker] [When Did You Realize You Were Truly an Adult?](https://lifehacker.com/when-did-you-realize-you-were-truly-an-adult-1848950188)
 - [Lifehacker] [Mordle Lets You Play Wordle Against 100 People, and I Love It](https://lifehacker.com/mordle-lets-you-play-wordle-against-100-people-and-i-l-1848950108)
 - [Dev.to/JS] [How to Build a JavaScript Global Meeting Planner Application](https://dev.to/grapecity/how-to-build-a-javascript-global-meeting-planner-application-3eo9)
 - [Lifehacker] [5 of Our Favorite Old School Games on Steam](https://lifehacker.com/5-of-our-favorite-old-school-games-on-steam-1848949380)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Red Lightsaber](https://dev.to/rembertdesigns/red-lightsaber-bgj)
 - [Dev.to/JS] [Media queries](https://dev.to/goodboyks/media-queries-290j)
 - [Lifehacker] [The Best Vegan &#39;Fish Sauce&#39; is a Bottle of Maggi Seasoning](https://lifehacker.com/the-best-vegan-fish-sauce-is-a-bottle-of-maggi-seasonin-1848945167)
-- [Dev.to/JS] [Web Development === Accessibility](https://dev.to/abbeyperini/web-development-accessibility-f8i)
 - [Lifehacker] [How to Date Someone Who Has Anxiety](https://lifehacker.com/how-to-date-someone-who-has-anxiety-1848945945)
 - [Lifehacker] [The Best Time to Buy Cars, Appliances, and Other Things That Have Been Hit Hard by Inflation](https://lifehacker.com/the-best-time-to-buy-cars-appliances-and-other-things-1848948337)
 - [Lifehacker] [12 Reasons Why Cruises Are Terrible Vacations](https://lifehacker.com/12-reasons-why-cruises-are-terrible-vacations-1848945802)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Online Calculator Will Help You Pack Your Next Bag](https://lifehacker.com/this-online-calculator-will-help-you-pack-your-next-bag-1848939238)
 - [Lifehacker] [The Lies You Can Get Away With in a Job Interview &lpar;and the Ones You Can&#39;t&rpar;](https://lifehacker.com/the-lies-you-can-get-away-with-in-a-job-interview-and-1848942843)
 - [Lifehacker] [Things Only Assholes Say After a Celebrity Death](https://lifehacker.com/things-only-assholes-say-after-a-celebrity-death-1848938918)
-- [Lifehacker] [How to Access the Hidden Special Characters on Your Keyboard](https://lifehacker.com/how-to-access-the-hidden-special-characters-on-your-key-1848929877)
-- [Lifehacker] [Beware the Latest Android Malware on Google Play](https://lifehacker.com/beware-the-latest-android-malware-on-google-play-1848939703)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
