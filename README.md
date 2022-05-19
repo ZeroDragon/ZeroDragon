@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ساينتفك عرب: الدليل الكامل لأمان القنبلة النووية](https://dev.to/sientificarab/syntfk-rb-ldlyl-lkml-lmn-lqnbl-lnwwy-53f3)
+- [Dev.to/JS] [Master Two Pointers Technique with JavaScript](https://dev.to/igorves/master-two-pointers-technique-with-javascript-5-leetcode-problems-2mbg)
+- [Dev.to/JS] [Dependency Injection in under 2minutes](https://dev.to/codewithluke/dependency-injection-in-under-2minutes-1pjn)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Dev.to/JS] [Introduction](https://dev.to/goodboyks/introduction-1fd2)
 - [Dev.to/JS] [A ReactJS Hook : useState&lpar;&rpar;](https://dev.to/je_et15/a-reactjs-hook-usestate-25bb)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What do you use while working with Storybook?](https://dev.to/pavelkeyzik/what-do-you-use-while-working-with-storybook-3f3k)
 - [Dev.to/JS] [Apple Keto Gummies Australia Reviews 2022: 100% Useful Supplement For Fat Burn!](https://dev.to/appleketobuy/apple-keto-gummies-australia-reviews-2022-100-useful-supplement-for-fat-burn-2jgh)
 - [Dev.to/JS] [Closures in JavaScirpt](https://dev.to/pritamkr_63/closures-in-javascirpt-dd6)
-- [Dev.to/JS] [How to use String includes&lpar;&rpar; in JavaScript](https://dev.to/jodharishi/how-to-use-string-includes-in-javascript-4i6h)
-- [Dev.to/JS] [Fixes all eslint on save](https://dev.to/ilumin/fixes-all-eslint-on-save-2kn6)
-- [Dev.to/JS] [Getting Started with PouchDB](https://dev.to/imkarthikeyan/getting-started-with-pouchdb-541k)
 - [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
 - [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
 - [Lifehacker] [Why We &#39;Choke&#39; Under Pressure &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-we-choke-under-pressure-and-how-to-avoid-it-1848943365)
