@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use String includes&lpar;&rpar; in JavaScript](https://dev.to/jodharishi/how-to-use-string-includes-in-javascript-4i6h)
+- [Dev.to/JS] [Fixes all eslint on save](https://dev.to/ilumin/fixes-all-eslint-on-save-2kn6)
 - [Dev.to/JS] [Getting Started with PouchDB](https://dev.to/imkarthikeyan/getting-started-with-pouchdb-541k)
 - [Dev.to/JS] [[Free]Google is giving free courses for everyone.](https://dev.to/pramit_marattha/freegoogle-is-giving-free-courses-for-everyone-1f1o)
 - [Dev.to/JS] [empty/undefined/null string in JavaScript?](https://dev.to/gbarreradev/emptyundefinednull-string-in-javascript-443)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [response.json is not a function TypeError](https://dev.to/aishanipach/responsejson-is-not-a-function-typeerror-3g3p)
 - [Dev.to/JS] [Does functional programming have any advantage in real environments?](https://dev.to/alesbe/does-functional-programming-have-any-advantage-in-real-environments-3dek)
 - [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
-- [Dev.to/JS] [What JWTs are Really Used for](https://dev.to/j4rola/what-jwts-are-really-used-for-i4k)
 - [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
-- [Dev.to/JS] [What the hell is 👿 Hasura 👿](https://dev.to/i_am_onkar/what-the-hell-is-hasura-466)
 - [Lifehacker] [Why We &#39;Choke&#39; Under Pressure &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-we-choke-under-pressure-and-how-to-avoid-it-1848943365)
 - [Lifehacker] [How to Know If You Qualify for Paxlovid, the Oral COVID Antiviral](https://lifehacker.com/how-to-know-if-you-qualify-for-paxlovid-the-oral-covid-1848944146)
 - [Lifehacker] [You Should Know Which &#39;Financial Phase&#39; You&#39;re In](https://lifehacker.com/you-should-know-which-financial-phase-youre-in-1848943305)
