@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Convert your texts into &quot;Bionic Reading&quot; mode online](https://dev.to/fatihtelis/convert-your-texts-into-bionic-reading-mode-online-5og)
+- [Dev.to/JS] [Breaking down an advanced Typescript type!](https://dev.to/aspnxdd/breaking-down-an-advanced-typescript-type-3pnj)
 - [Dev.to/JS] [HTML](https://dev.to/buchman/html-14ob)
 - [Dev.to/JS] [The Ultimate Guide to Static Websites with S3 and Terraform](https://dev.to/mxro/the-ultimate-guide-to-static-websites-with-s3-and-terraform-296e)
 - [Dev.to/JS] [Academic vs Intuitive Understanding Part II: Speaking the Language](https://dev.to/nkulik94/academic-vs-intuitive-understanding-part-ii-speaking-the-language-5647)
@@ -38,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is Truly the Best Way to Eat a Grapefruit](https://lifehacker.com/this-is-truly-the-best-way-to-eat-a-grapefruit-1848950853)
 - [Dev.to/JS] [09 Common JavaScript Math Functions](https://dev.to/piyushpatil1243/09-common-javascript-math-functions-12gj)
 - [Lifehacker] [Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
-- [Dev.to/JS] [Explore the Architecture Behind a Typical Notification](https://dev.to/apoorvtomar/explore-the-architecture-behind-a-typical-notification-3feh)
 - [Lifehacker] [When Did You Realize You Were Truly an Adult?](https://lifehacker.com/when-did-you-realize-you-were-truly-an-adult-1848950188)
 - [Lifehacker] [Mordle Lets You Play Wordle Against 100 People, and I Love It](https://lifehacker.com/mordle-lets-you-play-wordle-against-100-people-and-i-l-1848950108)
-- [Dev.to/JS] [How to Build a JavaScript Global Meeting Planner Application](https://dev.to/grapecity/how-to-build-a-javascript-global-meeting-planner-application-3eo9)
 - [Lifehacker] [5 of Our Favorite Old School Games on Steam](https://lifehacker.com/5-of-our-favorite-old-school-games-on-steam-1848949380)
 - [Lifehacker] [These Goods and Services Have Actually Dropped in Price This Year](https://lifehacker.com/these-goods-and-services-have-actually-dropped-in-price-1848949486)
 - [Lifehacker] [Five Cruise Alternatives With the Same Relaxing Vibes](https://lifehacker.com/five-cruise-alternatives-with-the-same-relaxing-vibes-1848948936)
