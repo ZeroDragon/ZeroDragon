@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
+- [Dev.to/JS] [How to Use a JavaScript Reporting Tool in Your Python Web App](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-in-your-python-web-app-2j15)
+- [Lifehacker] [This Is Truly the Best Way to Eat a Grapefruit](https://lifehacker.com/this-is-truly-the-best-way-to-eat-a-grapefruit-1848950853)
+- [Dev.to/JS] [09 Common JavaScript Math Functions](https://dev.to/piyushpatil1243/09-common-javascript-math-functions-12gj)
 - [Lifehacker] [Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
 - [Dev.to/JS] [Explore the Architecture Behind a Typical Notification](https://dev.to/apoorvtomar/explore-the-architecture-behind-a-typical-notification-3feh)
 - [Lifehacker] [When Did You Realize You Were Truly an Adult?](https://lifehacker.com/when-did-you-realize-you-were-truly-an-adult-1848950188)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Cruise Alternatives With the Same Relaxing Vibes](https://lifehacker.com/five-cruise-alternatives-with-the-same-relaxing-vibes-1848948936)
 - [Dev.to/JS] [Build C# Web Apps using a Designer in Wisej.NET](https://dev.to/lrufenacht/build-c-web-apps-using-a-designer-in-wisejnet-g1d)
 - [Dev.to/JS] [Day-91 Training At Ryaz](https://dev.to/mahin651/day-91-training-at-ryaz-1b22)
-- [Dev.to/JS] [Red Lightsaber](https://dev.to/rembertdesigns/red-lightsaber-bgj)
-- [Dev.to/JS] [Media queries](https://dev.to/goodboyks/media-queries-290j)
 - [Lifehacker] [The Best Vegan &#39;Fish Sauce&#39; is a Bottle of Maggi Seasoning](https://lifehacker.com/the-best-vegan-fish-sauce-is-a-bottle-of-maggi-seasonin-1848945167)
 - [Lifehacker] [How to Date Someone Who Has Anxiety](https://lifehacker.com/how-to-date-someone-who-has-anxiety-1848945945)
 - [Lifehacker] [The Best Time to Buy Cars, Appliances, and Other Things That Have Been Hit Hard by Inflation](https://lifehacker.com/the-best-time-to-buy-cars-appliances-and-other-things-1848948337)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Need to Audit Your iPhone Auto-Renew App Subscriptions Right Now](https://lifehacker.com/why-you-need-to-audit-your-iphone-auto-renew-app-subscr-1848942555)
 - [Lifehacker] [You Should Rub Raw Garlic on These Things](https://lifehacker.com/you-should-rub-raw-garlic-on-these-things-1848943412)
 - [Lifehacker] [This Online Calculator Will Help You Pack Your Next Bag](https://lifehacker.com/this-online-calculator-will-help-you-pack-your-next-bag-1848939238)
-- [Lifehacker] [The Lies You Can Get Away With in a Job Interview &lpar;and the Ones You Can&#39;t&rpar;](https://lifehacker.com/the-lies-you-can-get-away-with-in-a-job-interview-and-1848942843)
-- [Lifehacker] [Things Only Assholes Say After a Celebrity Death](https://lifehacker.com/things-only-assholes-say-after-a-celebrity-death-1848938918)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
