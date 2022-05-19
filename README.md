@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell If Someone’s Been Sneaking Into Your Bedroom](https://lifehacker.com/how-to-tell-if-someone-s-been-sneaking-into-your-bedroo-1848944525)
+- [Lifehacker] [You Can Now Use Your iPhone to Identify Animals, Plants, and Landmarks](https://lifehacker.com/you-can-now-use-your-iphone-to-identify-animals-plants-1848945035)
+- [Dev.to/JS] [JS Fundamentals - Break VS Continue](https://dev.to/rahimshahad/js-fundamentals-break-vs-continue-23ji)
+- [Dev.to/JS] [How to warn users about external links](https://dev.to/jmau111/how-to-warn-users-about-external-links-2haj)
 - [Dev.to/JS] [Different ways to create an Object in Javascript](https://dev.to/satel/different-ways-to-create-an-object-in-javascript-232a)
 - [Lifehacker] [Forget Pesto—Make an Easy Herb Oil Instead](https://lifehacker.com/forget-pesto-make-an-easy-herb-oil-instead-1848946382)
 - [Dev.to/JS] [🎉 After 2 years I finally finished my portfolio🎉](https://dev.to/nicolasbiondini/after-2-years-i-finally-finished-my-portfolio-413o)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create an Open Source Ecommerce Marketplace Part 2: Vender-Specific Orders](https://dev.to/medusajs/create-an-open-source-ecommerce-marketplace-part-2-vender-specific-orders-1m80)
 - [Dev.to/JS] [Ortto | Made with Next JS](https://dev.to/madewithjavascript/ortto-made-with-next-js-333f)
 - [Dev.to/JS] [ساينتفك عرب: الدليل الكامل لأمان القنبلة النووية](https://dev.to/sientificarab/syntfk-rb-ldlyl-lkml-lmn-lqnbl-lnwwy-53f3)
-- [Dev.to/JS] [Master Two Pointers Technique with JavaScript](https://dev.to/igorves/master-two-pointers-technique-with-javascript-5-leetcode-problems-2mbg)
-- [Dev.to/JS] [Dependency Injection in under 2minutes](https://dev.to/codewithluke/dependency-injection-in-under-2minutes-1pjn)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
 - [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 of the Best Summer Jobs for a Teenager](https://lifehacker.com/7-of-the-best-summer-jobs-for-a-teenager-1848939253)
 - [Lifehacker] [Noobs Should Embrace This New PlayStation ‘Gamer Dictionary’](https://lifehacker.com/noobs-should-embrace-this-new-playstation-gamer-dictio-1848938731)
 - [Lifehacker] [What’s Really Included in a Food’s Calorie Count &lpar;and What Isn&#39;t&rpar;](https://lifehacker.com/what-s-really-included-in-a-food-s-calorie-count-and-w-1848938626)
-- [Lifehacker] [How to Get a Free Fitbit or Apple Watch From Your Insurance Company](https://lifehacker.com/how-to-get-a-free-fitbit-or-apple-watch-from-your-insur-1848937750)
-- [Lifehacker] [The Right Way to Freeze Milk, Half &amp; Half, and Heavy Cream](https://lifehacker.com/the-right-way-to-freeze-milk-half-half-and-heavy-cr-1848938121)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
