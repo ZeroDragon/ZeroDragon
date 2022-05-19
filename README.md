@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AFSP.org | Made with Gatsby JS](https://dev.to/madewithjavascript/afsporg-made-with-gatsby-js-38mi)
+- [Dev.to/JS] [Welcome](https://dev.to/iamkingsleydems/hello-1m2p)
+- [Dev.to/JS] [Create an Open Source Ecommerce Marketplace Part 2: Vender-Specific Orders](https://dev.to/medusajs/create-an-open-source-ecommerce-marketplace-part-2-vender-specific-orders-1m80)
+- [Dev.to/JS] [Ortto | Made with Next JS](https://dev.to/madewithjavascript/ortto-made-with-next-js-333f)
 - [Dev.to/JS] [ساينتفك عرب: الدليل الكامل لأمان القنبلة النووية](https://dev.to/sientificarab/syntfk-rb-ldlyl-lkml-lmn-lqnbl-lnwwy-53f3)
 - [Dev.to/JS] [Master Two Pointers Technique with JavaScript](https://dev.to/igorves/master-two-pointers-technique-with-javascript-5-leetcode-problems-2mbg)
 - [Dev.to/JS] [Dependency Injection in under 2minutes](https://dev.to/codewithluke/dependency-injection-in-under-2minutes-1pjn)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Custom Controllers to Power a Next.js App](https://dev.to/ravgeetdhillon/using-custom-controllers-to-power-a-nextjs-app-3apl)
 - [Dev.to/JS] [Async Js let&#39;s Make It Happen With Promises](https://dev.to/je_et15/async-js-lets-make-it-happen-with-promises-5gh6)
 - [Dev.to/JS] [Welcome to Learn Responsive Design!](https://dev.to/goodboyks/welcome-to-learn-responsive-design-35dp)
-- [Dev.to/JS] [Test](https://dev.to/thangvmodev/test-4anf)
-- [Dev.to/JS] [What do you use while working with Storybook?](https://dev.to/pavelkeyzik/what-do-you-use-while-working-with-storybook-3f3k)
-- [Dev.to/JS] [Apple Keto Gummies Australia Reviews 2022: 100% Useful Supplement For Fat Burn!](https://dev.to/appleketobuy/apple-keto-gummies-australia-reviews-2022-100-useful-supplement-for-fat-burn-2jgh)
-- [Dev.to/JS] [Closures in JavaScirpt](https://dev.to/pritamkr_63/closures-in-javascirpt-dd6)
 - [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
 - [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
 - [Lifehacker] [Why We &#39;Choke&#39; Under Pressure &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-we-choke-under-pressure-and-how-to-avoid-it-1848943365)
