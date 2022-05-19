@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What do you use while working with Storybook?](https://dev.to/pavelkeyzik/what-do-you-use-while-working-with-storybook-3f3k)
+- [Dev.to/JS] [Apple Keto Gummies Australia Reviews 2022: 100% Useful Supplement For Fat Burn!](https://dev.to/appleketobuy/apple-keto-gummies-australia-reviews-2022-100-useful-supplement-for-fat-burn-2jgh)
+- [Dev.to/JS] [Closures in JavaScirpt](https://dev.to/pritamkr_63/closures-in-javascirpt-dd6)
 - [Dev.to/JS] [How to use String includes&lpar;&rpar; in JavaScript](https://dev.to/jodharishi/how-to-use-string-includes-in-javascript-4i6h)
 - [Dev.to/JS] [Fixes all eslint on save](https://dev.to/ilumin/fixes-all-eslint-on-save-2kn6)
 - [Dev.to/JS] [Getting Started with PouchDB](https://dev.to/imkarthikeyan/getting-started-with-pouchdb-541k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Array and Object Manipulation + DOM differences](https://dev.to/sberdup/array-and-object-manipulation-dom-differences-2ijf)
 - [Dev.to/JS] [How to present Axios data as list](https://dev.to/agentggg/how-to-present-axios-data-as-list-3l3c)
 - [Dev.to/JS] [Part 5: Getting ready for deployment &amp; deploy](https://dev.to/evertvdw/part-5-getting-ready-for-deployment-deploy-346o)
-- [Dev.to/JS] [What I learnt at Reactathon 2022](https://dev.to/shrutikapoor08/what-i-learnt-at-reactathon-2022-3e3a)
-- [Dev.to/JS] [response.json is not a function TypeError](https://dev.to/aishanipach/responsejson-is-not-a-function-typeerror-3g3p)
-- [Dev.to/JS] [Does functional programming have any advantage in real environments?](https://dev.to/alesbe/does-functional-programming-have-any-advantage-in-real-environments-3dek)
 - [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
 - [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
 - [Lifehacker] [Why We &#39;Choke&#39; Under Pressure &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-we-choke-under-pressure-and-how-to-avoid-it-1848943365)
