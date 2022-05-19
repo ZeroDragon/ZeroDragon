@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Different ways to create an Object in Javascript](https://dev.to/satel/different-ways-to-create-an-object-in-javascript-232a)
+- [Lifehacker] [Forget Pesto—Make an Easy Herb Oil Instead](https://lifehacker.com/forget-pesto-make-an-easy-herb-oil-instead-1848946382)
+- [Dev.to/JS] [🎉 After 2 years I finally finished my portfolio🎉](https://dev.to/nicolasbiondini/after-2-years-i-finally-finished-my-portfolio-413o)
+- [Dev.to/JS] [#18: Debug Static Web Apps with Edge DevTools](https://dev.to/azure/18-debug-static-web-apps-with-edge-devtools-34c8)
+- [Lifehacker] [Who Knew You Could Turn Off a Family Member&#39;s iPhone Alarm?](https://lifehacker.com/who-knew-you-could-turn-off-a-family-members-iphone-ala-1848943873)
+- [Dev.to/JS] [Pitch me on Salesforce CRM](https://dev.to/hvm3/pitch-me-on-salesforce-crm-8hn)
+- [Dev.to/JS] [Build an interactive user interface with React.js](https://dev.to/joemack/build-an-interactive-user-interface-with-reactjs-2252)
 - [Dev.to/JS] [AFSP.org | Made with Gatsby JS](https://dev.to/madewithjavascript/afsporg-made-with-gatsby-js-38mi)
 - [Dev.to/JS] [Welcome](https://dev.to/iamkingsleydems/hello-1m2p)
 - [Dev.to/JS] [Create an Open Source Ecommerce Marketplace Part 2: Vender-Specific Orders](https://dev.to/medusajs/create-an-open-source-ecommerce-marketplace-part-2-vender-specific-orders-1m80)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Master Two Pointers Technique with JavaScript](https://dev.to/igorves/master-two-pointers-technique-with-javascript-5-leetcode-problems-2mbg)
 - [Dev.to/JS] [Dependency Injection in under 2minutes](https://dev.to/codewithluke/dependency-injection-in-under-2minutes-1pjn)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
-- [Dev.to/JS] [Introduction](https://dev.to/goodboyks/introduction-1fd2)
-- [Dev.to/JS] [A ReactJS Hook : useState&lpar;&rpar;](https://dev.to/je_et15/a-reactjs-hook-usestate-25bb)
-- [Dev.to/JS] [Using Custom Controllers to Power a Next.js App](https://dev.to/ravgeetdhillon/using-custom-controllers-to-power-a-nextjs-app-3apl)
-- [Dev.to/JS] [Async Js let&#39;s Make It Happen With Promises](https://dev.to/je_et15/async-js-lets-make-it-happen-with-promises-5gh6)
-- [Dev.to/JS] [Welcome to Learn Responsive Design!](https://dev.to/goodboyks/welcome-to-learn-responsive-design-35dp)
 - [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
 - [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
 - [Lifehacker] [Why We &#39;Choke&#39; Under Pressure &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-we-choke-under-pressure-and-how-to-avoid-it-1848943365)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What’s Really Included in a Food’s Calorie Count &lpar;and What Isn&#39;t&rpar;](https://lifehacker.com/what-s-really-included-in-a-food-s-calorie-count-and-w-1848938626)
 - [Lifehacker] [How to Get a Free Fitbit or Apple Watch From Your Insurance Company](https://lifehacker.com/how-to-get-a-free-fitbit-or-apple-watch-from-your-insur-1848937750)
 - [Lifehacker] [The Right Way to Freeze Milk, Half &amp; Half, and Heavy Cream](https://lifehacker.com/the-right-way-to-freeze-milk-half-half-and-heavy-cr-1848938121)
-- [Lifehacker] [How Much Sleep Do You Really Need?](https://lifehacker.com/how-much-sleep-do-you-really-need-1848933245)
-- [Lifehacker] [You Can Now Get Eight More Free COVID Tests by Mail](https://lifehacker.com/you-can-now-get-eight-more-free-covid-tests-by-mail-1848937728)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
