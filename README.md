@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
+- [Dev.to/JS] [Introduction](https://dev.to/goodboyks/introduction-1fd2)
+- [Dev.to/JS] [A ReactJS Hook : useState&lpar;&rpar;](https://dev.to/je_et15/a-reactjs-hook-usestate-25bb)
+- [Dev.to/JS] [Using Custom Controllers to Power a Next.js App](https://dev.to/ravgeetdhillon/using-custom-controllers-to-power-a-nextjs-app-3apl)
+- [Dev.to/JS] [Async Js let&#39;s Make It Happen With Promises](https://dev.to/je_et15/async-js-lets-make-it-happen-with-promises-5gh6)
+- [Dev.to/JS] [Welcome to Learn Responsive Design!](https://dev.to/goodboyks/welcome-to-learn-responsive-design-35dp)
+- [Dev.to/JS] [Test](https://dev.to/thangvmodev/test-4anf)
 - [Dev.to/JS] [What do you use while working with Storybook?](https://dev.to/pavelkeyzik/what-do-you-use-while-working-with-storybook-3f3k)
 - [Dev.to/JS] [Apple Keto Gummies Australia Reviews 2022: 100% Useful Supplement For Fat Burn!](https://dev.to/appleketobuy/apple-keto-gummies-australia-reviews-2022-100-useful-supplement-for-fat-burn-2jgh)
 - [Dev.to/JS] [Closures in JavaScirpt](https://dev.to/pritamkr_63/closures-in-javascirpt-dd6)
 - [Dev.to/JS] [How to use String includes&lpar;&rpar; in JavaScript](https://dev.to/jodharishi/how-to-use-string-includes-in-javascript-4i6h)
 - [Dev.to/JS] [Fixes all eslint on save](https://dev.to/ilumin/fixes-all-eslint-on-save-2kn6)
 - [Dev.to/JS] [Getting Started with PouchDB](https://dev.to/imkarthikeyan/getting-started-with-pouchdb-541k)
-- [Dev.to/JS] [[Free]Google is giving free courses for everyone.](https://dev.to/pramit_marattha/freegoogle-is-giving-free-courses-for-everyone-1f1o)
-- [Dev.to/JS] [empty/undefined/null string in JavaScript?](https://dev.to/gbarreradev/emptyundefinednull-string-in-javascript-443)
-- [Dev.to/JS] [How to use p5.js with TypeScript and webpack](https://dev.to/tendonnman/how-to-use-p5js-with-typescript-and-webpack-57ae)
-- [Dev.to/JS] [Array and Object Manipulation + DOM differences](https://dev.to/sberdup/array-and-object-manipulation-dom-differences-2ijf)
-- [Dev.to/JS] [How to present Axios data as list](https://dev.to/agentggg/how-to-present-axios-data-as-list-3l3c)
-- [Dev.to/JS] [Part 5: Getting ready for deployment &amp; deploy](https://dev.to/evertvdw/part-5-getting-ready-for-deployment-deploy-346o)
 - [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
 - [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
 - [Lifehacker] [Why We &#39;Choke&#39; Under Pressure &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-we-choke-under-pressure-and-how-to-avoid-it-1848943365)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Sleep Do You Really Need?](https://lifehacker.com/how-much-sleep-do-you-really-need-1848933245)
 - [Lifehacker] [You Can Now Get Eight More Free COVID Tests by Mail](https://lifehacker.com/you-can-now-get-eight-more-free-covid-tests-by-mail-1848937728)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
-- [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)
-- [Crazy Programmer] [3 Best Programming Languages for Cyber Security](https://www.thecrazyprogrammer.com/2022/04/programming-languages-for-cyber-security.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
 ---
 
