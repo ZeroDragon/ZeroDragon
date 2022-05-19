@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Media queries](https://dev.to/goodboyks/media-queries-290j)
+- [Lifehacker] [The Best Vegan &#39;Fish Sauce&#39; is a Bottle of Maggi Seasoning](https://lifehacker.com/the-best-vegan-fish-sauce-is-a-bottle-of-maggi-seasonin-1848945167)
+- [Dev.to/JS] [Web Development === Accessibility](https://dev.to/abbeyperini/web-development-accessibility-f8i)
+- [Dev.to/JS] [Beginner&#39;s Guide to NextJS](https://dev.to/rahulyadav139/beginners-guide-to-nextjs-2pcp)
+- [Lifehacker] [How to Date Someone Who Has Anxiety](https://lifehacker.com/how-to-date-someone-who-has-anxiety-1848945945)
+- [Dev.to/JS] [Paracetamol.js💊| #120: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-120-explica-este-codigo-javascript-1b6i)
+- [Dev.to/JS] [Is it worth developing MERN Stack Template ?](https://dev.to/zelal/is-it-worth-developing-mern-stack-template--2anp)
 - [Lifehacker] [The Best Time to Buy Cars, Appliances, and Other Things That Have Been Hit Hard by Inflation](https://lifehacker.com/the-best-time-to-buy-cars-appliances-and-other-things-1848948337)
 - [Dev.to/JS] [Two-way data binding for concise APIs in Vue. The dialog example.](https://dev.to/vmoe/two-way-data-binding-for-concise-apis-in-vue-the-dialog-example-59m4)
 - [Dev.to/JS] [Get started with the new Azure Static Web Apps CLI](https://dev.to/azure/get-started-with-the-new-azure-static-web-apps-cli-mm3)
@@ -32,14 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How we used JSDoc &amp; Webpack to write some custom JavaScript decorators &amp; annotations](https://dev.to/thomas_101/how-we-used-jsdoc-webpack-to-write-some-custom-javascript-decorators-annotations-1h42)
 - [Dev.to/JS] [Making a Podcast Transcription Server with Express.js](https://dev.to/laves/making-a-podcast-transcription-server-with-expressjs-26i3)
 - [Dev.to/JS] [Tutorial To Build Full Stack Amazon Clone with Admin Panel](https://dev.to/rivaanranawat/tutorial-to-build-full-stack-amazon-clone-with-admin-panel-49n4)
-- [Dev.to/JS] [Interested in getting deeper into Web Components?](https://dev.to/devteam/interested-in-getting-deeper-into-web-components-1dom)
 - [Lifehacker] [How to Tell If Someone’s Been Sneaking Into Your Bedroom](https://lifehacker.com/how-to-tell-if-someone-s-been-sneaking-into-your-bedroo-1848944525)
 - [Lifehacker] [You Can Now Use Your iPhone to Identify Animals, Plants, and Landmarks](https://lifehacker.com/you-can-now-use-your-iphone-to-identify-animals-plants-1848945035)
-- [Dev.to/JS] [JS Fundamentals - Break VS Continue](https://dev.to/rahimshahad/js-fundamentals-break-vs-continue-23ji)
-- [Dev.to/JS] [How to warn users about external links](https://dev.to/jmau111/how-to-warn-users-about-external-links-2haj)
-- [Dev.to/JS] [Different ways to create an Object in Javascript](https://dev.to/satel/different-ways-to-create-an-object-in-javascript-232a)
 - [Lifehacker] [Forget Pesto—Make an Easy Herb Oil Instead](https://lifehacker.com/forget-pesto-make-an-easy-herb-oil-instead-1848946382)
-- [Dev.to/JS] [🎉 After 2 years I finally finished my portfolio🎉](https://dev.to/nicolasbiondini/after-2-years-i-finally-finished-my-portfolio-413o)
 - [Lifehacker] [Who Knew You Could Turn Off a Family Member&#39;s iPhone Alarm?](https://lifehacker.com/who-knew-you-could-turn-off-a-family-members-iphone-ala-1848943873)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can &#39;Warm Up&#39; Your Boring White Room Without Repainting](https://lifehacker.com/you-can-warm-up-your-boring-white-room-without-repainti-1848937908)
 - [Lifehacker] [Your Dating App Voice Prompt Sucks &lpar;and How to Make It Better&rpar;](https://lifehacker.com/your-dating-app-voice-prompt-sucks-and-how-to-make-it-1848939137)
 - [Lifehacker] [Why You Should Always Buy Both Canned Milks](https://lifehacker.com/why-you-should-always-buy-both-canned-milks-1848938774)
-- [Lifehacker] [100 Things You Didn&#39;t Know About the 100 Most-Streamed Songs on Spotify](https://lifehacker.com/100-things-you-didnt-know-about-the-100-most-streamed-s-1848908623)
-- [Lifehacker] [7 of the Best Summer Jobs for a Teenager](https://lifehacker.com/7-of-the-best-summer-jobs-for-a-teenager-1848939253)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
