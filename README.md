@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [empty/undefined/null string in JavaScript?](https://dev.to/gbarreradev/emptyundefinednull-string-in-javascript-443)
 - [Dev.to/JS] [How to use p5.js with TypeScript and webpack](https://dev.to/tendonnman/how-to-use-p5js-with-typescript-and-webpack-57ae)
 - [Dev.to/JS] [Array and Object Manipulation + DOM differences](https://dev.to/sberdup/array-and-object-manipulation-dom-differences-2ijf)
 - [Dev.to/JS] [How to present Axios data as list](https://dev.to/agentggg/how-to-present-axios-data-as-list-3l3c)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [700. Search in a Binary Search Tree 🚀](https://dev.to/samuelhinchliffe/700-search-in-a-binary-search-tree-1mpn)
 - [Lifehacker] [How to Know If You Qualify for Paxlovid, the Oral COVID Antiviral](https://lifehacker.com/how-to-know-if-you-qualify-for-paxlovid-the-oral-covid-1848944146)
 - [Dev.to/JS] [Clean code resumo](https://dev.to/ysrael12/clean-code-resumo-3eej)
-- [Dev.to/JS] [Understanding Redux &lpar;Part 1&rpar;: Demystifying Store, Action and Reducers](https://dev.to/sohamderoy/understanding-redux-part-1-demystifying-store-action-and-reducers-k4j)
 - [Lifehacker] [You Should Know Which &#39;Financial Phase&#39; You&#39;re In](https://lifehacker.com/you-should-know-which-financial-phase-youre-in-1848943305)
 - [Lifehacker] [How Elsa Taught My Kids to Tame Their Tantrums &lpar;and Do Chores&rpar;](https://lifehacker.com/how-elsa-taught-my-kids-to-tame-their-tantrums-and-do-1848942467)
 - [Lifehacker] [Why You Need to Audit Your iPhone Auto-Renew App Subscriptions Right Now](https://lifehacker.com/why-you-need-to-audit-your-iphone-auto-renew-app-subscr-1848942555)
