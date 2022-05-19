@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Mordle Lets You Play Wordle Against 100 People, and I Love It](https://lifehacker.com/mordle-lets-you-play-wordle-against-100-people-and-i-l-1848950108)
+- [Dev.to/JS] [How to Build a JavaScript Global Meeting Planner Application](https://dev.to/grapecity/how-to-build-a-javascript-global-meeting-planner-application-3eo9)
+- [Lifehacker] [5 of Our Favorite Old School Games on Steam](https://lifehacker.com/5-of-our-favorite-old-school-games-on-steam-1848949380)
+- [Dev.to/JS] [How to parse HTML to React](https://dev.to/dellyson/how-to-parse-html-to-react-38im)
 - [Dev.to/JS] [Building a SPA using Vue-Router](https://dev.to/harithmetic1/building-a-spa-using-vue-router-1abc)
 - [Dev.to/JS] [Searching Media to Find Loudness and Music Sections](https://dev.to/dolbyio/searching-media-to-find-loudness-and-music-sections-21ii)
 - [Lifehacker] [These Goods and Services Have Actually Dropped in Price This Year](https://lifehacker.com/these-goods-and-services-have-actually-dropped-in-price-1848949486)
@@ -36,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Media queries](https://dev.to/goodboyks/media-queries-290j)
 - [Lifehacker] [The Best Vegan &#39;Fish Sauce&#39; is a Bottle of Maggi Seasoning](https://lifehacker.com/the-best-vegan-fish-sauce-is-a-bottle-of-maggi-seasonin-1848945167)
 - [Dev.to/JS] [Web Development === Accessibility](https://dev.to/abbeyperini/web-development-accessibility-f8i)
-- [Dev.to/JS] [Beginner&#39;s Guide to NextJS](https://dev.to/rahulyadav139/beginners-guide-to-nextjs-2pcp)
 - [Lifehacker] [How to Date Someone Who Has Anxiety](https://lifehacker.com/how-to-date-someone-who-has-anxiety-1848945945)
-- [Dev.to/JS] [Paracetamol.js💊| #120: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-120-explica-este-codigo-javascript-1b6i)
 - [Lifehacker] [The Best Time to Buy Cars, Appliances, and Other Things That Have Been Hit Hard by Inflation](https://lifehacker.com/the-best-time-to-buy-cars-appliances-and-other-things-1848948337)
 - [Lifehacker] [12 Reasons Why Cruises Are Terrible Vacations](https://lifehacker.com/12-reasons-why-cruises-are-terrible-vacations-1848945802)
 - [Lifehacker] [How to Tell If Someone’s Been Sneaking Into Your Bedroom](https://lifehacker.com/how-to-tell-if-someone-s-been-sneaking-into-your-bedroo-1848944525)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Things Only Assholes Say After a Celebrity Death](https://lifehacker.com/things-only-assholes-say-after-a-celebrity-death-1848938918)
 - [Lifehacker] [How to Access the Hidden Special Characters on Your Keyboard](https://lifehacker.com/how-to-access-the-hidden-special-characters-on-your-key-1848929877)
 - [Lifehacker] [Beware the Latest Android Malware on Google Play](https://lifehacker.com/beware-the-latest-android-malware-on-google-play-1848939703)
-- [Lifehacker] [Stephanie Hsu Talks &#39;Everything, Everywhere All at Once&#39;](https://lifehacker.com/stephanie-hsu-talks-everything-everywhere-all-at-once-1848942058)
-- [Lifehacker] [You Can &#39;Warm Up&#39; Your Boring White Room Without Repainting](https://lifehacker.com/you-can-warm-up-your-boring-white-room-without-repainti-1848937908)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
