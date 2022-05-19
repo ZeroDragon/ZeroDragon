@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
+- [Dev.to/JS] [Why a React developer used Svelte for an Arcade](https://dev.to/richkurtzman/why-a-react-developer-used-svelte-for-an-arcade-3gdo)
+- [Dev.to/JS] [React: Using native dialogs to make a modal popup](https://dev.to/link2twenty/react-using-native-dialogs-to-make-a-modal-popup-4b25)
+- [Dev.to/JS] [Create React App &amp; Folder Structures](https://dev.to/achykez/create-react-app-folder-structures-120m)
+- [Dev.to/JS] [Top 5 Headless CMS for Jamstack in 2022](https://dev.to/maxikius/top-5-headless-cms-for-jamstack-in-2022-4e22)
+- [Dev.to/JS] [Отправка сообщений клиенту в реальном времени с помощью NodeJS и Server-Sent Events](https://dev.to/andreysm/otpravka-soobshchienii-kliientu-v-riealnom-vriemieni-s-pomoshchiu-nodejs-i-server-sent-events-4jak)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
 - [Dev.to/JS] [How to Use a JavaScript Reporting Tool in Your Python Web App](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-in-your-python-web-app-2j15)
 - [Lifehacker] [This Is Truly the Best Way to Eat a Grapefruit](https://lifehacker.com/this-is-truly-the-best-way-to-eat-a-grapefruit-1848950853)
@@ -37,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a SPA using Vue-Router](https://dev.to/harithmetic1/building-a-spa-using-vue-router-1abc)
 - [Dev.to/JS] [Searching Media to Find Loudness and Music Sections](https://dev.to/dolbyio/searching-media-to-find-loudness-and-music-sections-21ii)
 - [Lifehacker] [These Goods and Services Have Actually Dropped in Price This Year](https://lifehacker.com/these-goods-and-services-have-actually-dropped-in-price-1848949486)
-- [Dev.to/JS] [Figma | Made with Gatsby JS](https://dev.to/madewithjavascript/figma-made-with-gatsby-js-3ei9)
-- [Dev.to/JS] [&#39;Alternative to Blazor&#39; Wisej 3 Ships - Visual Studio Magazine](https://dev.to/lrufenacht/alternative-to-blazor-wisej-3-ships-visual-studio-magazine-1kd3)
-- [Dev.to/JS] [Introducing AutoAnimate — add motion to your apps with a single line of code.](https://dev.to/justinschroeder/introducing-autoanimate-add-motion-to-your-apps-with-a-single-line-of-code-34bp)
 - [Lifehacker] [Five Cruise Alternatives With the Same Relaxing Vibes](https://lifehacker.com/five-cruise-alternatives-with-the-same-relaxing-vibes-1848948936)
-- [Dev.to/JS] [Build C# Web Apps using a Designer in Wisej.NET](https://dev.to/lrufenacht/build-c-web-apps-using-a-designer-in-wisejnet-g1d)
-- [Dev.to/JS] [Day-91 Training At Ryaz](https://dev.to/mahin651/day-91-training-at-ryaz-1b22)
 - [Lifehacker] [The Best Vegan &#39;Fish Sauce&#39; is a Bottle of Maggi Seasoning](https://lifehacker.com/the-best-vegan-fish-sauce-is-a-bottle-of-maggi-seasonin-1848945167)
 - [Lifehacker] [How to Date Someone Who Has Anxiety](https://lifehacker.com/how-to-date-someone-who-has-anxiety-1848945945)
 - [Lifehacker] [The Best Time to Buy Cars, Appliances, and Other Things That Have Been Hit Hard by Inflation](https://lifehacker.com/the-best-time-to-buy-cars-appliances-and-other-things-1848948337)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Elsa Taught My Kids to Tame Their Tantrums &lpar;and Do Chores&rpar;](https://lifehacker.com/how-elsa-taught-my-kids-to-tame-their-tantrums-and-do-1848942467)
 - [Lifehacker] [Why You Need to Audit Your iPhone Auto-Renew App Subscriptions Right Now](https://lifehacker.com/why-you-need-to-audit-your-iphone-auto-renew-app-subscr-1848942555)
 - [Lifehacker] [You Should Rub Raw Garlic on These Things](https://lifehacker.com/you-should-rub-raw-garlic-on-these-things-1848943412)
-- [Lifehacker] [This Online Calculator Will Help You Pack Your Next Bag](https://lifehacker.com/this-online-calculator-will-help-you-pack-your-next-bag-1848939238)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
