@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Ultimate Guide to Upgrading to React 18](https://dev.to/asayerio_techblog/an-ultimate-guide-to-upgrading-to-react-18-2n8o)
+- [Dev.to/JS] [A pick of recent React articles](https://dev.to/asayerio_techblog/a-pick-of-recent-react-articles-k4g)
+- [Dev.to/JS] [My Journey of Thought as a Developer](https://dev.to/kuchotony/my-journey-of-thought-as-a-developer-30b7)
 - [Dev.to/JS] [React Router Dom v6](https://dev.to/w3tsa/react-router-dom-v6-4b7a)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Dev.to/JS] [Getac, fabricante líder en soluciones](https://dev.to/pabloco33316011/getac-fabricante-lider-en-soluciones-fc5)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Change CSS Styles with JavaScript – From Basic to Advanced Methods](https://dev.to/itstrueintheory/how-to-change-css-styles-with-javascript-from-basic-to-advanced-methods-355p)
 - [Dev.to/JS] [What is localStorage?](https://dev.to/tanishk15sharma/what-is-localstorage-37fj)
 - [Lifehacker] [Why 1Password Is Now the Best Password Manager for Mac](https://lifehacker.com/why-1password-is-now-the-best-password-manager-for-mac-1848947731)
-- [Dev.to/JS] [launching a new platform called dofeedbackin](https://dev.to/lmas3009/launching-a-new-platform-called-dofeedbackin-5395)
 - [Lifehacker] [8 of the Best Cheap and Healthy Convenience Foods, According to Reddit](https://lifehacker.com/8-of-the-best-cheap-and-healthy-convenience-foods-acco-1848954708)
-- [Dev.to/JS] [JavaScript Callback functions?](https://dev.to/barksanto/javascript-callback-functions-3kdc)
-- [Dev.to/JS] [#19: Develop with SWA CLI](https://dev.to/azure/19-develop-with-swa-cli-1mic)
 - [Lifehacker] [You Should Prank Call Some Russian Officials to Protest the War in Ukraine](https://lifehacker.com/you-should-prank-call-some-russian-officials-to-protest-1848955269)
 - [Lifehacker] [Jammed Lemon Seeds and Other Dishwasher Mishaps &lpar;and How to Fix Them&rpar;](https://lifehacker.com/jammed-lemon-seeds-and-other-dishwasher-mishaps-and-ho-1848954814)
 - [Lifehacker] [8 Podcasts About Fascinating Scams](https://lifehacker.com/8-podcasts-about-fascinating-scams-1848954495)
