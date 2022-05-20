@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Technology Minimalist](https://dev.to/taowen/technology-minimalist-3b66)
+- [Dev.to/JS] [Solve &#39;Not all code paths return a value in TypeScript&#39; by properly using ReturnTypes | CodeReview Chronicles](https://dev.to/dvddpl/solve-not-all-code-paths-return-a-value-in-typescript-by-properly-using-returntypes-codereview-chronicles-15fb)
+- [Dev.to/JS] [First post](https://dev.to/tongzhenyu0312/first-post-4ic3)
 - [Dev.to/JS] [Playing with JSON in your browser](https://dev.to/thewritingdev/playing-with-json-in-your-browser-427k)
 - [Dev.to/JS] [Integration of unit testing with ASP.NET Core - iFour](https://dev.to/harshalsuthar/integration-of-unit-testing-with-aspnet-core-ifour-22o3)
 - [Dev.to/JS] [Light/Dark Theme Calculator](https://dev.to/rembertdesigns/lightdark-theme-calculator-18pb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dynamic image resizing with Node.js and the Serverless Framework](https://dev.to/serverless_inc/dynamic-image-resizing-with-nodejs-and-the-serverless-framework-4025)
 - [Dev.to/JS] [What&#39;s your current tech stack for web dev?](https://dev.to/asheeshh/whats-your-current-tech-stack-for-web-dev-5g19)
 - [Dev.to/JS] [React Three Fiber and NextJS Starter Template](https://dev.to/whoisryosuke/react-three-fiber-and-nextjs-starter-template-3cp0)
-- [Dev.to/JS] [Convert your texts into &quot;Bionic Reading&quot; mode online](https://dev.to/fatihtelis/convert-your-texts-into-bionic-reading-mode-online-5og)
-- [Dev.to/JS] [Breaking down an advanced Typescript type!](https://dev.to/aspnxdd/breaking-down-an-advanced-typescript-type-3pnj)
-- [Dev.to/JS] [HTML](https://dev.to/buchman/html-14ob)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
