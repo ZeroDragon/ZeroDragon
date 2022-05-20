@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Export Data To Excel From Api Using React &lpar;incl. Custom Headers&rpar;](https://dev.to/jasurkurbanovinit/how-to-export-data-to-excel-from-api-using-react-incl-custom-headers-5ded)
+- [Dev.to/JS] [Internationalization](https://dev.to/goodboyks/internationalization-2ca3)
+- [Dev.to/JS] [Taking Your App Offline with the Salesforce Mobile SDK](https://dev.to/johnjvester/taking-your-app-offline-with-the-salesforce-mobile-sdk-gdg)
+- [Dev.to/JS] [I made a VSCode extension](https://dev.to/virejdasani/i-made-a-vscode-extension-4i0e)
+- [Dev.to/JS] [Learn how React Context API works by Building a Minimal Ecommerce Shopping App](https://dev.to/israelmitolu/learn-how-react-context-api-works-by-building-a-minimal-ecommerce-shopping-app-2479)
 - [Dev.to/JS] [Building an NFT Minting platform That Mint Selfies with Bunzz.](https://dev.to/bunzzdev/building-an-nft-minting-platform-that-mint-selfies-with-bunzz-h4f)
 - [Dev.to/JS] [HTML Styles #8](https://dev.to/goodboyks/html-styles-8-o3j)
 - [Dev.to/JS] [Getting started with SolidJs – A Beginner&#39;s Guide](https://dev.to/devsmitra/getting-started-with-solidjs-a-beginners-guide-5af4)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animated Carousel with Framer Motion](https://dev.to/satel/animated-carousel-with-framer-motion-2fp)
 - [Dev.to/JS] [How to use Debounce in React &lpar;Lodash&rpar;](https://dev.to/jideabdqudus/how-to-use-debounce-in-react-lodash-44dh)
 - [Dev.to/JS] [Why I Specialize in Next.js Website Development](https://dev.to/austinshelby/why-i-specialize-in-nextjs-website-development-3ha6)
-- [Dev.to/JS] [5 essential free resources to learn Javascript](https://dev.to/judis07/5-essential-free-resources-to-learn-javascript-1eld)
-- [Dev.to/JS] [How to Use Google Spreadsheets as a Database &lpar;Free Blog Hosting Included&rpar;](https://dev.to/redacodes/how-to-use-google-spreadsheets-as-a-database-free-blog-hosting-included-3j1o)
-- [Dev.to/JS] [Finding commands](https://dev.to/johanna_avila_92fb79cdc75/finding-commands-2a79)
-- [Dev.to/JS] [Cardio Clear 7 Reviews: Must Read All Results Before Buy?](https://dev.to/cardioclear7web/cardio-clear-7-reviews-must-read-all-results-before-buy-coc)
-- [Dev.to/JS] [Deep Diving into JavaScript Variables II](https://dev.to/bharati21/deep-diving-into-javascript-variables-ii-i26)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
