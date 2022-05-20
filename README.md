@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cardio Clear 7 Reviews: Must Read All Results Before Buy?](https://dev.to/cardioclear7web/cardio-clear-7-reviews-must-read-all-results-before-buy-coc)
+- [Dev.to/JS] [Deep Diving into JavaScript Variables II](https://dev.to/bharati21/deep-diving-into-javascript-variables-ii-i26)
 - [Dev.to/JS] [Technology Minimalist](https://dev.to/taowen/technology-minimalist-3b66)
 - [Dev.to/JS] [Solve &#39;Not all code paths return a value in TypeScript&#39; by properly using ReturnTypes | CodeReview Chronicles](https://dev.to/dvddpl/solve-not-all-code-paths-return-a-value-in-typescript-by-properly-using-returntypes-codereview-chronicles-15fb)
 - [Dev.to/JS] [First post](https://dev.to/tongzhenyu0312/first-post-4ic3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [static mean](https://dev.to/nipunsanjula/static-mean-4khi)
 - [Dev.to/JS] [🤖 Brand New Remote IT Jobs - Week #21 of 2022](https://dev.to/shman/brand-new-remote-it-jobs-week-21-of-2022-186a)
 - [Dev.to/JS] [Dynamic image resizing with Node.js and the Serverless Framework](https://dev.to/serverless_inc/dynamic-image-resizing-with-nodejs-and-the-serverless-framework-4025)
-- [Dev.to/JS] [What&#39;s your current tech stack for web dev?](https://dev.to/asheeshh/whats-your-current-tech-stack-for-web-dev-5g19)
-- [Dev.to/JS] [React Three Fiber and NextJS Starter Template](https://dev.to/whoisryosuke/react-three-fiber-and-nextjs-starter-template-3cp0)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
