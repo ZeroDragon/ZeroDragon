@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Read a Whiskey Label Without Embarrassing Yourself](https://lifehacker.com/how-to-read-a-whiskey-label-without-embarrassing-yourse-1848954670)
+- [Dev.to/JS] [Multi Stage Docker builds with Angular and Nginx](https://dev.to/this-is-angular/multi-stage-docker-builds-with-angular-and-nginx-4j9d)
+- [Dev.to/JS] [👨‍💻 FullStack simple tutorial to fetch data and display it](https://dev.to/nicolasbiondini/fullstack-simple-tutorial-to-fetch-data-and-display-it-435m)
+- [Lifehacker] [What Really Happens When You Block Someone on your iPhone?](https://lifehacker.com/what-really-happens-when-you-block-someone-on-your-ipho-1848955621)
+- [Dev.to/JS] [How to Change CSS Styles with JavaScript – From Basic to Advanced Methods](https://dev.to/itstrueintheory/how-to-change-css-styles-with-javascript-from-basic-to-advanced-methods-355p)
+- [Dev.to/JS] [What is localStorage?](https://dev.to/tanishk15sharma/what-is-localstorage-37fj)
+- [Lifehacker] [Why 1Password Is Now the Best Password Manager for Mac](https://lifehacker.com/why-1password-is-now-the-best-password-manager-for-mac-1848947731)
 - [Dev.to/JS] [launching a new platform called dofeedbackin](https://dev.to/lmas3009/launching-a-new-platform-called-dofeedbackin-5395)
 - [Lifehacker] [8 of the Best Cheap and Healthy Convenience Foods, According to Reddit](https://lifehacker.com/8-of-the-best-cheap-and-healthy-convenience-foods-acco-1848954708)
 - [Dev.to/JS] [JavaScript Callback functions?](https://dev.to/barksanto/javascript-callback-functions-3kdc)
@@ -34,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [You are doing testing wrong](https://dev.to/hi_iam_chris/you-are-doing-testing-wrong-1e6j)
 - [Dev.to/JS] [Temperature Converter](https://dev.to/rembertdesigns/temperature-converter-56fp)
 - [Lifehacker] [Jammed Lemon Seeds and Other Dishwasher Mishaps &lpar;and How to Fix Them&rpar;](https://lifehacker.com/jammed-lemon-seeds-and-other-dishwasher-mishaps-and-ho-1848954814)
-- [Dev.to/JS] [To-Do List](https://dev.to/rembertdesigns/to-do-list-2p8l)
-- [Dev.to/JS] [Gradient Background Picker](https://dev.to/rembertdesigns/gradient-background-picker-2kpd)
-- [Dev.to/JS] [Building accessible modals](https://dev.to/topcode007/building-accessible-modals-3h4l)
-- [Dev.to/JS] [RGB Color Slider](https://dev.to/rembertdesigns/rgb-color-slider-2fk2)
 - [Lifehacker] [8 Podcasts About Fascinating Scams](https://lifehacker.com/8-podcasts-about-fascinating-scams-1848954495)
 - [Lifehacker] [How to Complain About Bad Service Without Being a Jerk](https://lifehacker.com/how-to-complain-about-bad-service-without-being-an-assh-1848951818)
 - [Lifehacker] [How to Get Your Reluctant Toddler to Poop in the Potty](https://lifehacker.com/how-to-get-your-reluctant-toddler-to-poop-in-the-potty-1848953163)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Goods and Services Have Actually Dropped in Price This Year](https://lifehacker.com/these-goods-and-services-have-actually-dropped-in-price-1848949486)
 - [Lifehacker] [Five Cruise Alternatives With the Same Relaxing Vibes](https://lifehacker.com/five-cruise-alternatives-with-the-same-relaxing-vibes-1848948936)
 - [Lifehacker] [The Best Vegan &#39;Fish Sauce&#39; is a Bottle of Maggi Seasoning](https://lifehacker.com/the-best-vegan-fish-sauce-is-a-bottle-of-maggi-seasonin-1848945167)
-- [Lifehacker] [How to Date Someone Who Has Anxiety](https://lifehacker.com/how-to-date-someone-who-has-anxiety-1848945945)
-- [Lifehacker] [The Best Time to Buy Cars, Appliances, and Other Things That Have Been Hit Hard by Inflation](https://lifehacker.com/the-best-time-to-buy-cars-appliances-and-other-things-1848948337)
-- [Lifehacker] [12 Reasons Why Cruises Are Terrible Vacations](https://lifehacker.com/12-reasons-why-cruises-are-terrible-vacations-1848945802)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
