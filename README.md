@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Higher-Order Components vs React Hook](https://dev.to/hiteshtech/react-higher-order-componentsvs-react-hook-2lfp)
+- [Dev.to/JS] [Implement binary search tree in JavaScript - simplest possible.](https://dev.to/rajeshroyal/implement-binary-search-tree-in-javascript-simplest-possible-1pm1)
 - [Dev.to/JS] [How To Export Data To Excel From Api Using React &lpar;incl. Custom Headers&rpar;](https://dev.to/jasurkurbanovinit/how-to-export-data-to-excel-from-api-using-react-incl-custom-headers-5ded)
 - [Dev.to/JS] [Internationalization](https://dev.to/goodboyks/internationalization-2ca3)
 - [Dev.to/JS] [Taking Your App Offline with the Salesforce Mobile SDK](https://dev.to/johnjvester/taking-your-app-offline-with-the-salesforce-mobile-sdk-gdg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started with SolidJs – A Beginner&#39;s Guide](https://dev.to/devsmitra/getting-started-with-solidjs-a-beginners-guide-5af4)
 - [Dev.to/JS] [Why You Should Drop Shopify for Medusa, An Open Source Alternative](https://dev.to/aldrichalvarez/why-you-should-drop-shopify-for-medusa-an-open-source-alternative-l93)
 - [Dev.to/JS] [Animated Carousel with Framer Motion](https://dev.to/satel/animated-carousel-with-framer-motion-2fp)
-- [Dev.to/JS] [How to use Debounce in React &lpar;Lodash&rpar;](https://dev.to/jideabdqudus/how-to-use-debounce-in-react-lodash-44dh)
-- [Dev.to/JS] [Why I Specialize in Next.js Website Development](https://dev.to/austinshelby/why-i-specialize-in-nextjs-website-development-3ha6)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
