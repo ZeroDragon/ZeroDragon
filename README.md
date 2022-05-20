@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Light/Dark Theme Calculator](https://dev.to/rembertdesigns/lightdark-theme-calculator-18pb)
+- [Dev.to/JS] [Upwork | Made with Nuxt JS](https://dev.to/madewithjavascript/upwork-made-with-nuxt-js-3h92)
 - [Dev.to/JS] [static mean](https://dev.to/nipunsanjula/static-mean-4khi)
 - [Dev.to/JS] [🤖 Brand New Remote IT Jobs - Week #21 of 2022](https://dev.to/shman/brand-new-remote-it-jobs-week-21-of-2022-186a)
 - [Dev.to/JS] [Dynamic image resizing with Node.js and the Serverless Framework](https://dev.to/serverless_inc/dynamic-image-resizing-with-nodejs-and-the-serverless-framework-4025)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Academic vs Intuitive Understanding Part II: Speaking the Language](https://dev.to/nkulik94/academic-vs-intuitive-understanding-part-ii-speaking-the-language-5647)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
-- [Dev.to/JS] [Why a React developer used Svelte for an Arcade](https://dev.to/richkurtzman/why-a-react-developer-used-svelte-for-an-arcade-3gdo)
-- [Dev.to/JS] [React: Using native dialogs to make a modal popup](https://dev.to/link2twenty/react-using-native-dialogs-to-make-a-modal-popup-4b25)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
 - [Lifehacker] [This Is Truly the Best Way to Eat a Grapefruit](https://lifehacker.com/this-is-truly-the-best-way-to-eat-a-grapefruit-1848950853)
 - [Lifehacker] [Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
