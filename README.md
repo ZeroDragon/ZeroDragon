@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #121: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-121-explica-este-codigo-javascript-i6b)
+- [Dev.to/JS] [Let&#39;s talk React - How to use a Custom Hook multiple times](https://dev.to/ccreusat/lets-talk-react-how-to-use-a-custom-hook-multiple-times-hil)
+- [Dev.to/JS] [Top 10 Most Popular JavaScript Frameworks for 2022-Codexashish](https://dev.to/mailashish/top-10-most-popular-javascript-frameworks-for-2022-codexashish-1j12)
+- [Lifehacker] [20 Movies That Capture the All the Drama of Prom](https://lifehacker.com/20-movies-that-capture-the-all-the-drama-of-prom-1848942635)
+- [Dev.to/JS] [Creating a custom Checkbox Component in Vue 3 &lpar;a better approach&rpar;](https://dev.to/maxwelladapoe/creating-a-custom-checkbox-component-in-vue-3-a-better-approach-2jjd)
+- [Dev.to/JS] [Your own github shield server in 50 loc!](https://dev.to/myleftshoe/your-own-github-shield-server-in-50-loc-13g5)
 - [Dev.to/JS] [Deploy your Static Web Apps to Azure directly from the command line](https://dev.to/azure/deploy-your-static-web-apps-to-azure-directly-from-the-command-line-2ip8)
 - [Dev.to/JS] [Lessons learned integrating AppSignal APM with NestJS](https://dev.to/superface/lessons-learned-integrating-appsignal-apm-with-nestjs-he7)
 - [Lifehacker] [WeWordle Is the Multiplayer Wordle That Is Currently Stressing Me Out](https://lifehacker.com/wewordle-is-the-multiplayer-wordle-that-is-currently-st-1848949895)
@@ -30,13 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Theme Toggle.](https://dev.to/jovickcoder/javascript-theme-toggle-5hdj)
 - [Lifehacker] [13 Things Bleach Can Do Aside From Lifting Stains](https://lifehacker.com/13-things-bleach-can-do-aside-from-lifting-stains-1848948792)
 - [Dev.to/JS] [Redux explained from a beginner perspective &lpar;simplified&rpar;](https://dev.to/yvad60/redux-explained-from-a-beginner-perspective-simplified-413g)
-- [Dev.to/JS] [Career in coding and Full Stack](https://dev.to/syevale/career-in-coding-and-full-stack-105j)
 - [Dev.to/JS] [React Higher-Order Components vs React Hook](https://dev.to/hiteshtech/react-higher-order-componentsvs-react-hook-2lfp)
 - [Dev.to/JS] [Implement binary search tree in JavaScript - simplest possible.](https://dev.to/rajeshroyal/implement-binary-search-tree-in-javascript-simplest-possible-1pm1)
-- [Dev.to/JS] [How To Export Data To Excel From Api Using React &lpar;incl. Custom Headers&rpar;](https://dev.to/jasurkurbanovinit/how-to-export-data-to-excel-from-api-using-react-incl-custom-headers-5ded)
-- [Dev.to/JS] [Internationalization](https://dev.to/goodboyks/internationalization-2ca3)
-- [Dev.to/JS] [Taking Your App Offline with the Salesforce Mobile SDK](https://dev.to/johnjvester/taking-your-app-offline-with-the-salesforce-mobile-sdk-gdg)
-- [Dev.to/JS] [I made a VSCode extension](https://dev.to/virejdasani/i-made-a-vscode-extension-4i0e)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
 - [Lifehacker] [Why We &#39;Choke&#39; Under Pressure &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-we-choke-under-pressure-and-how-to-avoid-it-1848943365)
 - [Lifehacker] [How to Know If You Qualify for Paxlovid, the Oral COVID Antiviral](https://lifehacker.com/how-to-know-if-you-qualify-for-paxlovid-the-oral-covid-1848944146)
-- [Lifehacker] [You Should Know Which &#39;Financial Phase&#39; You&#39;re In](https://lifehacker.com/you-should-know-which-financial-phase-youre-in-1848943305)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
