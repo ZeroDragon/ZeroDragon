@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Playing with JSON in your browser](https://dev.to/thewritingdev/playing-with-json-in-your-browser-427k)
 - [Dev.to/JS] [Integration of unit testing with ASP.NET Core - iFour](https://dev.to/harshalsuthar/integration-of-unit-testing-with-aspnet-core-ifour-22o3)
 - [Dev.to/JS] [Light/Dark Theme Calculator](https://dev.to/rembertdesigns/lightdark-theme-calculator-18pb)
 - [Dev.to/JS] [Upwork | Made with Nuxt JS](https://dev.to/madewithjavascript/upwork-made-with-nuxt-js-3h92)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Convert your texts into &quot;Bionic Reading&quot; mode online](https://dev.to/fatihtelis/convert-your-texts-into-bionic-reading-mode-online-5og)
 - [Dev.to/JS] [Breaking down an advanced Typescript type!](https://dev.to/aspnxdd/breaking-down-an-advanced-typescript-type-3pnj)
 - [Dev.to/JS] [HTML](https://dev.to/buchman/html-14ob)
-- [Dev.to/JS] [The Ultimate Guide to Static Websites with S3 and Terraform](https://dev.to/mxro/the-ultimate-guide-to-static-websites-with-s3-and-terraform-296e)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
