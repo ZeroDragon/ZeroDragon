@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Complain About Bad Service Without Being a Jerk](https://lifehacker.com/how-to-complain-about-bad-service-without-being-an-assh-1848951818)
+- [Dev.to/JS] [Write an audio visualizer from scratch with vanilla JavaScript](https://dev.to/logrocket/write-an-audio-visualizer-from-scratch-with-vanilla-javascript-13ba)
+- [Dev.to/JS] [11 Major Mistakes That Can Lead to a Software Engineer Getting Fired](https://dev.to/techmaniacc/11-major-mistakes-that-can-lead-to-a-software-engineer-getting-fired-220f)
+- [Dev.to/JS] [RGBA Color Picker](https://dev.to/rembertdesigns/rgba-color-picker-2flh)
+- [Dev.to/JS] [Using the ESBuild plug-in mechanism to achieve the desired functionality](https://dev.to/rxliuli/using-the-esbuild-plug-in-mechanism-to-achieve-the-desired-functionality-4fh9)
+- [Dev.to/JS] [How an Interview Convinced Me to Use an Event Bus for RxJS in React](https://dev.to/deanius/how-an-interview-convinced-me-to-use-an-event-bus-for-rxjs-in-react-396l)
+- [Dev.to/JS] [Random Password Generator](https://dev.to/rembertdesigns/random-password-generator-5762)
+- [Lifehacker] [How to Get Your Reluctant Toddler to Poop in the Potty](https://lifehacker.com/how-to-get-your-reluctant-toddler-to-poop-in-the-potty-1848953163)
+- [Dev.to/JS] [Interest Loan Calculator](https://dev.to/rembertdesigns/interest-loan-calculator-4kc5)
 - [Dev.to/JS] [Get daily stock price updates using Node.js and Twilio SMS API](https://dev.to/ikausik/get-daily-stock-price-updates-using-nodejs-and-twilio-sms-api-29pm)
 - [Dev.to/JS] [Tip Calculator](https://dev.to/rembertdesigns/tip-calculator-2oei)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Taylor Swift Talks Cringe](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-taylor-sw-1848951959)
@@ -30,15 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Safely Landed!](https://dev.to/ikmalsaid/safely-landed-33fh)
 - [Lifehacker] [11 of the Worst Pieces of &quot;Practical&quot; Advice Lifehacker Readers Ever Received](https://lifehacker.com/11-of-the-worst-pieces-of-practical-advice-lifehacker-1848951744)
 - [Dev.to/JS] [Paracetamol.js💊| #121: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-121-explica-este-codigo-javascript-i6b)
-- [Dev.to/JS] [Let&#39;s talk React - How to use a Custom Hook multiple times](https://dev.to/ccreusat/lets-talk-react-how-to-use-a-custom-hook-multiple-times-hil)
-- [Dev.to/JS] [Top 10 Most Popular JavaScript Frameworks for 2022-Codexashish](https://dev.to/mailashish/top-10-most-popular-javascript-frameworks-for-2022-codexashish-1j12)
 - [Lifehacker] [20 Movies That Capture the All the Drama of Prom](https://lifehacker.com/20-movies-that-capture-the-all-the-drama-of-prom-1848942635)
-- [Dev.to/JS] [Creating a custom Checkbox Component in Vue 3 &lpar;a better approach&rpar;](https://dev.to/maxwelladapoe/creating-a-custom-checkbox-component-in-vue-3-a-better-approach-2jjd)
-- [Dev.to/JS] [Your own github shield server in 50 loc!](https://dev.to/myleftshoe/your-own-github-shield-server-in-50-loc-13g5)
-- [Dev.to/JS] [Deploy your Static Web Apps to Azure directly from the command line](https://dev.to/azure/deploy-your-static-web-apps-to-azure-directly-from-the-command-line-2ip8)
-- [Dev.to/JS] [Lessons learned integrating AppSignal APM with NestJS](https://dev.to/superface/lessons-learned-integrating-appsignal-apm-with-nestjs-he7)
 - [Lifehacker] [WeWordle Is the Multiplayer Wordle That Is Currently Stressing Me Out](https://lifehacker.com/wewordle-is-the-multiplayer-wordle-that-is-currently-st-1848949895)
-- [Dev.to/JS] [Why I switched to TypeScript in 2022 and why you should to 😉](https://dev.to/dev_avocado/why-i-switched-to-typescript-in-2022-and-why-you-should-to-mkc)
 - [Lifehacker] [13 Things Bleach Can Do Aside From Lifting Stains](https://lifehacker.com/13-things-bleach-can-do-aside-from-lifting-stains-1848948792)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Forget Pesto—Make an Easy Herb Oil Instead](https://lifehacker.com/forget-pesto-make-an-easy-herb-oil-instead-1848946382)
 - [Lifehacker] [Who Knew You Could Turn Off a Family Member&#39;s iPhone Alarm?](https://lifehacker.com/who-knew-you-could-turn-off-a-family-members-iphone-ala-1848943873)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
-- [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
-- [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
