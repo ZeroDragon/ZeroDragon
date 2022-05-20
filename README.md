@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [launching a new platform called dofeedbackin](https://dev.to/lmas3009/launching-a-new-platform-called-dofeedbackin-5395)
+- [Lifehacker] [8 of the Best Cheap and Healthy Convenience Foods, According to Reddit](https://lifehacker.com/8-of-the-best-cheap-and-healthy-convenience-foods-acco-1848954708)
+- [Dev.to/JS] [JavaScript Callback functions?](https://dev.to/barksanto/javascript-callback-functions-3kdc)
+- [Dev.to/JS] [#19: Develop with SWA CLI](https://dev.to/azure/19-develop-with-swa-cli-1mic)
+- [Dev.to/JS] [TESTING DOCKER CONTAINER STRUCTURE](https://dev.to/emmygozi/testing-docker-container-structure-na9)
 - [Lifehacker] [You Should Prank Call Some Russian Officials to Protest the War in Ukraine](https://lifehacker.com/you-should-prank-call-some-russian-officials-to-protest-1848955269)
 - [Dev.to/JS] [JavaScript Array Methods : Filter&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-filter-1bmb)
 - [Dev.to/JS] [HTML DOM Manipulation in JavaScript](https://dev.to/rajamuhammadasher/html-dom-manipulation-in-javascript-2p8o)
@@ -34,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building accessible modals](https://dev.to/topcode007/building-accessible-modals-3h4l)
 - [Dev.to/JS] [RGB Color Slider](https://dev.to/rembertdesigns/rgb-color-slider-2fk2)
 - [Lifehacker] [8 Podcasts About Fascinating Scams](https://lifehacker.com/8-podcasts-about-fascinating-scams-1848954495)
-- [Dev.to/JS] [HEX Color Picker](https://dev.to/rembertdesigns/hex-color-picker-4d8h)
 - [Lifehacker] [How to Complain About Bad Service Without Being a Jerk](https://lifehacker.com/how-to-complain-about-bad-service-without-being-an-assh-1848951818)
-- [Dev.to/JS] [Write an audio visualizer from scratch with vanilla JavaScript](https://dev.to/logrocket/write-an-audio-visualizer-from-scratch-with-vanilla-javascript-13ba)
-- [Dev.to/JS] [11 Major Mistakes That Can Lead to a Software Engineer Getting Fired](https://dev.to/techmaniacc/11-major-mistakes-that-can-lead-to-a-software-engineer-getting-fired-220f)
-- [Dev.to/JS] [RGBA Color Picker](https://dev.to/rembertdesigns/rgba-color-picker-2flh)
 - [Lifehacker] [How to Get Your Reluctant Toddler to Poop in the Potty](https://lifehacker.com/how-to-get-your-reluctant-toddler-to-poop-in-the-potty-1848953163)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Taylor Swift Talks Cringe](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-taylor-sw-1848951959)
 - [Lifehacker] [11 of the Worst Pieces of &quot;Practical&quot; Advice Lifehacker Readers Ever Received](https://lifehacker.com/11-of-the-worst-pieces-of-practical-advice-lifehacker-1848951744)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Date Someone Who Has Anxiety](https://lifehacker.com/how-to-date-someone-who-has-anxiety-1848945945)
 - [Lifehacker] [The Best Time to Buy Cars, Appliances, and Other Things That Have Been Hit Hard by Inflation](https://lifehacker.com/the-best-time-to-buy-cars-appliances-and-other-things-1848948337)
 - [Lifehacker] [12 Reasons Why Cruises Are Terrible Vacations](https://lifehacker.com/12-reasons-why-cruises-are-terrible-vacations-1848945802)
-- [Lifehacker] [How to Tell If Someone’s Been Sneaking Into Your Bedroom](https://lifehacker.com/how-to-tell-if-someone-s-been-sneaking-into-your-bedroo-1848944525)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
