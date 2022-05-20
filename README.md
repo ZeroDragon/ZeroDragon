@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5 essential free resources to learn Javascript](https://dev.to/judis07/5-essential-free-resources-to-learn-javascript-1eld)
+- [Dev.to/JS] [How to Use Google Spreadsheets as a Database &lpar;Free Blog Hosting Included&rpar;](https://dev.to/redacodes/how-to-use-google-spreadsheets-as-a-database-free-blog-hosting-included-3j1o)
+- [Dev.to/JS] [Finding commands](https://dev.to/johanna_avila_92fb79cdc75/finding-commands-2a79)
 - [Dev.to/JS] [Cardio Clear 7 Reviews: Must Read All Results Before Buy?](https://dev.to/cardioclear7web/cardio-clear-7-reviews-must-read-all-results-before-buy-coc)
 - [Dev.to/JS] [Deep Diving into JavaScript Variables II](https://dev.to/bharati21/deep-diving-into-javascript-variables-ii-i26)
 - [Dev.to/JS] [Technology Minimalist](https://dev.to/taowen/technology-minimalist-3b66)
-- [Dev.to/JS] [Solve &#39;Not all code paths return a value in TypeScript&#39; by properly using ReturnTypes | CodeReview Chronicles](https://dev.to/dvddpl/solve-not-all-code-paths-return-a-value-in-typescript-by-properly-using-returntypes-codereview-chronicles-15fb)
+- [Dev.to/JS] [Solve TypeScript &#39;Not all code paths return a value&#39; by properly using ReturnTypes | CodeReview Chronicles](https://dev.to/dvddpl/solve-not-all-code-paths-return-a-value-in-typescript-by-properly-using-returntypes-codereview-chronicles-15fb)
 - [Dev.to/JS] [First post](https://dev.to/tongzhenyu0312/first-post-4ic3)
 - [Dev.to/JS] [Playing with JSON in your browser](https://dev.to/thewritingdev/playing-with-json-in-your-browser-427k)
 - [Dev.to/JS] [Integration of unit testing with ASP.NET Core - iFour](https://dev.to/harshalsuthar/integration-of-unit-testing-with-aspnet-core-ifour-22o3)
 - [Dev.to/JS] [Light/Dark Theme Calculator](https://dev.to/rembertdesigns/lightdark-theme-calculator-18pb)
 - [Dev.to/JS] [Upwork | Made with Nuxt JS](https://dev.to/madewithjavascript/upwork-made-with-nuxt-js-3h92)
-- [Dev.to/JS] [static mean](https://dev.to/nipunsanjula/static-mean-4khi)
-- [Dev.to/JS] [🤖 Brand New Remote IT Jobs - Week #21 of 2022](https://dev.to/shman/brand-new-remote-it-jobs-week-21-of-2022-186a)
-- [Dev.to/JS] [Dynamic image resizing with Node.js and the Serverless Framework](https://dev.to/serverless_inc/dynamic-image-resizing-with-nodejs-and-the-serverless-framework-4025)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
