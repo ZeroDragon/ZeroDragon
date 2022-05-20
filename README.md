@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamic image resizing with Node.js and the Serverless Framework](https://dev.to/serverless_inc/dynamic-image-resizing-with-nodejs-and-the-serverless-framework-4025)
 - [Dev.to/JS] [What&#39;s your current tech stack for web dev?](https://dev.to/asheeshh/whats-your-current-tech-stack-for-web-dev-5g19)
 - [Dev.to/JS] [React Three Fiber and NextJS Starter Template](https://dev.to/whoisryosuke/react-three-fiber-and-nextjs-starter-template-3cp0)
 - [Dev.to/JS] [Convert your texts into &quot;Bionic Reading&quot; mode online](https://dev.to/fatihtelis/convert-your-texts-into-bionic-reading-mode-online-5og)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React: Using native dialogs to make a modal popup](https://dev.to/link2twenty/react-using-native-dialogs-to-make-a-modal-popup-4b25)
 - [Dev.to/JS] [Create React App &amp; Folder Structures](https://dev.to/achykez/create-react-app-folder-structures-120m)
 - [Dev.to/JS] [Top 5 Headless CMS for Jamstack in 2022](https://dev.to/maxikius/top-5-headless-cms-for-jamstack-in-2022-4e22)
-- [Dev.to/JS] [Отправка сообщений клиенту в реальном времени с помощью NodeJS и Server-Sent Events](https://dev.to/andreysm/otpravka-soobshchienii-kliientu-v-riealnom-vriemieni-s-pomoshchiu-nodejs-i-server-sent-events-4jak)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
 - [Lifehacker] [This Is Truly the Best Way to Eat a Grapefruit](https://lifehacker.com/this-is-truly-the-best-way-to-eat-a-grapefruit-1848950853)
 - [Lifehacker] [Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
