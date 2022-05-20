@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [History of JavaScript: How it all Began](https://dev.to/dboateng/history-of-javascript-how-it-all-began-92a)
+- [Dev.to/JS] [⚛¿Qué es React?⚛](https://dev.to/alison304/que-es-react-3gfm)
 - [Dev.to/JS] [An Ultimate Guide to Upgrading to React 18](https://dev.to/asayerio_techblog/an-ultimate-guide-to-upgrading-to-react-18-2n8o)
 - [Dev.to/JS] [A pick of recent React articles](https://dev.to/asayerio_techblog/a-pick-of-recent-react-articles-k4g)
 - [Dev.to/JS] [My Journey of Thought as a Developer](https://dev.to/kuchotony/my-journey-of-thought-as-a-developer-30b7)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Multi Stage Docker builds with Angular and Nginx](https://dev.to/this-is-angular/multi-stage-docker-builds-with-angular-and-nginx-4j9d)
 - [Dev.to/JS] [👨‍💻 FullStack simple tutorial to fetch data and display it](https://dev.to/nicolasbiondini/fullstack-simple-tutorial-to-fetch-data-and-display-it-435m)
 - [Lifehacker] [What Really Happens When You Block Someone on your iPhone?](https://lifehacker.com/what-really-happens-when-you-block-someone-on-your-ipho-1848955621)
-- [Dev.to/JS] [How to Change CSS Styles with JavaScript – From Basic to Advanced Methods](https://dev.to/itstrueintheory/how-to-change-css-styles-with-javascript-from-basic-to-advanced-methods-355p)
-- [Dev.to/JS] [What is localStorage?](https://dev.to/tanishk15sharma/what-is-localstorage-37fj)
 - [Lifehacker] [Why 1Password Is Now the Best Password Manager for Mac](https://lifehacker.com/why-1password-is-now-the-best-password-manager-for-mac-1848947731)
 - [Lifehacker] [8 of the Best Cheap and Healthy Convenience Foods, According to Reddit](https://lifehacker.com/8-of-the-best-cheap-and-healthy-convenience-foods-acco-1848954708)
 - [Lifehacker] [You Should Prank Call Some Russian Officials to Protest the War in Ukraine](https://lifehacker.com/you-should-prank-call-some-russian-officials-to-protest-1848955269)
