@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get daily stock price updates using Node.js and Twilio SMS API](https://dev.to/ikausik/get-daily-stock-price-updates-using-nodejs-and-twilio-sms-api-29pm)
+- [Dev.to/JS] [Tip Calculator](https://dev.to/rembertdesigns/tip-calculator-2oei)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Taylor Swift Talks Cringe](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-taylor-sw-1848951959)
+- [Dev.to/JS] [Dots | Made with Next JS](https://dev.to/madewithjavascript/dots-made-with-next-js-c99)
+- [Dev.to/JS] [Safely Landed!](https://dev.to/ikmalsaid/safely-landed-33fh)
+- [Lifehacker] [11 of the Worst Pieces of &quot;Practical&quot; Advice Lifehacker Readers Ever Received](https://lifehacker.com/11-of-the-worst-pieces-of-practical-advice-lifehacker-1848951744)
 - [Dev.to/JS] [Paracetamol.js💊| #121: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-121-explica-este-codigo-javascript-i6b)
 - [Dev.to/JS] [Let&#39;s talk React - How to use a Custom Hook multiple times](https://dev.to/ccreusat/lets-talk-react-how-to-use-a-custom-hook-multiple-times-hil)
 - [Dev.to/JS] [Top 10 Most Popular JavaScript Frameworks for 2022-Codexashish](https://dev.to/mailashish/top-10-most-popular-javascript-frameworks-for-2022-codexashish-1j12)
@@ -33,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lessons learned integrating AppSignal APM with NestJS](https://dev.to/superface/lessons-learned-integrating-appsignal-apm-with-nestjs-he7)
 - [Lifehacker] [WeWordle Is the Multiplayer Wordle That Is Currently Stressing Me Out](https://lifehacker.com/wewordle-is-the-multiplayer-wordle-that-is-currently-st-1848949895)
 - [Dev.to/JS] [Why I switched to TypeScript in 2022 and why you should to 😉](https://dev.to/dev_avocado/why-i-switched-to-typescript-in-2022-and-why-you-should-to-mkc)
-- [Dev.to/JS] [JavaScript Theme Toggle.](https://dev.to/jovickcoder/javascript-theme-toggle-5hdj)
 - [Lifehacker] [13 Things Bleach Can Do Aside From Lifting Stains](https://lifehacker.com/13-things-bleach-can-do-aside-from-lifting-stains-1848948792)
-- [Dev.to/JS] [Redux explained from a beginner perspective &lpar;simplified&rpar;](https://dev.to/yvad60/redux-explained-from-a-beginner-perspective-simplified-413g)
-- [Dev.to/JS] [React Higher-Order Components vs React Hook](https://dev.to/hiteshtech/react-higher-order-componentsvs-react-hook-2lfp)
-- [Dev.to/JS] [Implement binary search tree in JavaScript - simplest possible.](https://dev.to/rajeshroyal/implement-binary-search-tree-in-javascript-simplest-possible-1pm1)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Lifehacker] [Great, Now We Have to Worry About Monkeypox?](https://lifehacker.com/great-now-we-have-to-worry-about-monkeypox-1848945600)
 - [Lifehacker] [How to Make Going to the Beach Not Suck](https://lifehacker.com/how-to-make-going-to-the-beach-not-suck-1848944545)
-- [Lifehacker] [Why We &#39;Choke&#39; Under Pressure &lpar;and How to Avoid It&rpar;](https://lifehacker.com/why-we-choke-under-pressure-and-how-to-avoid-it-1848943365)
-- [Lifehacker] [How to Know If You Qualify for Paxlovid, the Oral COVID Antiviral](https://lifehacker.com/how-to-know-if-you-qualify-for-paxlovid-the-oral-covid-1848944146)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
 
