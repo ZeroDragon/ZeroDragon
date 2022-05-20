@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [All Higher Order Functions Under the Hood in JavaScript](https://dev.to/gabrielpedroza/all-higher-order-functions-under-the-hood-in-javascript-2fij)
+- [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
+- [Dev.to/JS] [State VS props 🤔](https://dev.to/carolinaguzman89/state-vs-props-1ij9)
 - [Lifehacker] [How to Read a Whiskey Label Without Embarrassing Yourself](https://lifehacker.com/how-to-read-a-whiskey-label-without-embarrassing-yourse-1848954670)
 - [Dev.to/JS] [Multi Stage Docker builds with Angular and Nginx](https://dev.to/this-is-angular/multi-stage-docker-builds-with-angular-and-nginx-4j9d)
 - [Dev.to/JS] [👨‍💻 FullStack simple tutorial to fetch data and display it](https://dev.to/nicolasbiondini/fullstack-simple-tutorial-to-fetch-data-and-display-it-435m)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Prank Call Some Russian Officials to Protest the War in Ukraine](https://lifehacker.com/you-should-prank-call-some-russian-officials-to-protest-1848955269)
 - [Dev.to/JS] [JavaScript Array Methods : Filter&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-filter-1bmb)
 - [Dev.to/JS] [HTML DOM Manipulation in JavaScript](https://dev.to/rajamuhammadasher/html-dom-manipulation-in-javascript-2p8o)
-- [Dev.to/JS] [You are doing testing wrong](https://dev.to/hi_iam_chris/you-are-doing-testing-wrong-1e6j)
-- [Dev.to/JS] [Temperature Converter](https://dev.to/rembertdesigns/temperature-converter-56fp)
 - [Lifehacker] [Jammed Lemon Seeds and Other Dishwasher Mishaps &lpar;and How to Fix Them&rpar;](https://lifehacker.com/jammed-lemon-seeds-and-other-dishwasher-mishaps-and-ho-1848954814)
 - [Lifehacker] [8 Podcasts About Fascinating Scams](https://lifehacker.com/8-podcasts-about-fascinating-scams-1848954495)
 - [Lifehacker] [How to Complain About Bad Service Without Being a Jerk](https://lifehacker.com/how-to-complain-about-bad-service-without-being-an-assh-1848951818)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [5 of Our Favorite Old School Games on Steam](https://lifehacker.com/5-of-our-favorite-old-school-games-on-steam-1848949380)
 - [Lifehacker] [These Goods and Services Have Actually Dropped in Price This Year](https://lifehacker.com/these-goods-and-services-have-actually-dropped-in-price-1848949486)
 - [Lifehacker] [Five Cruise Alternatives With the Same Relaxing Vibes](https://lifehacker.com/five-cruise-alternatives-with-the-same-relaxing-vibes-1848948936)
-- [Lifehacker] [The Best Vegan &#39;Fish Sauce&#39; is a Bottle of Maggi Seasoning](https://lifehacker.com/the-best-vegan-fish-sauce-is-a-bottle-of-maggi-seasonin-1848945167)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
