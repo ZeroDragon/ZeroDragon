@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s your current tech stack for web dev?](https://dev.to/asheeshh/whats-your-current-tech-stack-for-web-dev-5g19)
+- [Dev.to/JS] [React Three Fiber and NextJS Starter Template](https://dev.to/whoisryosuke/react-three-fiber-and-nextjs-starter-template-3cp0)
 - [Dev.to/JS] [Convert your texts into &quot;Bionic Reading&quot; mode online](https://dev.to/fatihtelis/convert-your-texts-into-bionic-reading-mode-online-5og)
 - [Dev.to/JS] [Breaking down an advanced Typescript type!](https://dev.to/aspnxdd/breaking-down-an-advanced-typescript-type-3pnj)
 - [Dev.to/JS] [HTML](https://dev.to/buchman/html-14ob)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 Headless CMS for Jamstack in 2022](https://dev.to/maxikius/top-5-headless-cms-for-jamstack-in-2022-4e22)
 - [Dev.to/JS] [Отправка сообщений клиенту в реальном времени с помощью NodeJS и Server-Sent Events](https://dev.to/andreysm/otpravka-soobshchienii-kliientu-v-riealnom-vriemieni-s-pomoshchiu-nodejs-i-server-sent-events-4jak)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
-- [Dev.to/JS] [How to Use a JavaScript Reporting Tool in Your Python Web App](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-in-your-python-web-app-2j15)
 - [Lifehacker] [This Is Truly the Best Way to Eat a Grapefruit](https://lifehacker.com/this-is-truly-the-best-way-to-eat-a-grapefruit-1848950853)
-- [Dev.to/JS] [09 Common JavaScript Math Functions](https://dev.to/piyushpatil1243/09-common-javascript-math-functions-12gj)
 - [Lifehacker] [Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
 - [Lifehacker] [When Did You Realize You Were Truly an Adult?](https://lifehacker.com/when-did-you-realize-you-were-truly-an-adult-1848950188)
 - [Lifehacker] [Mordle Lets You Play Wordle Against 100 People, and I Love It](https://lifehacker.com/mordle-lets-you-play-wordle-against-100-people-and-i-l-1848950108)
