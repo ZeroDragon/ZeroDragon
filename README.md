@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help wanted, Setting API tests for my project](https://dev.to/bacloud22/help-wanted-setting-api-tests-for-my-project-141j)
+- [Dev.to/JS] [await, then, return?](https://dev.to/bacloud22/await-then-return-51gf)
+- [Dev.to/JS] [Custom Slide-Out Menu Component: Populated with Dynamic Component Data, and Styled with Angular Animations &amp; SCSS](https://dev.to/riapacheco/custom-slide-out-menu-component-with-angular-animations-and-scss-453l)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;21-05-2022&rpar; - Demons be gone](https://dev.to/mjgs/this-weeks-newsletter-is-out-21-05-2022-demons-be-gone-ple)
 - [Dev.to/JS] [Native deep clone in JS](https://dev.to/rdinakely/native-deep-clone-in-js-2420)
 - [Dev.to/JS] [How I created a minimal linktree like page for me in just 2 hours.](https://dev.to/asheeshh/how-i-created-a-minimal-linktree-like-page-for-me-in-just-2-hours-ncp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to `this`, `new` &amp; OOP](https://dev.to/topcode007/introduction-to-this-new-oop-1o1b)
 - [Dev.to/JS] [History of JavaScript: How it all Began](https://dev.to/dboateng/history-of-javascript-how-it-all-began-92a)
 - [Dev.to/JS] [⚛¿Qué es React?⚛](https://dev.to/alison304/que-es-react-3gfm)
-- [Dev.to/JS] [An Ultimate Guide to Upgrading to React 18](https://dev.to/asayerio_techblog/an-ultimate-guide-to-upgrading-to-react-18-2n8o)
-- [Dev.to/JS] [A pick of recent React articles](https://dev.to/asayerio_techblog/a-pick-of-recent-react-articles-k4g)
-- [Dev.to/JS] [My Journey of Thought as a Developer](https://dev.to/kuchotony/my-journey-of-thought-as-a-developer-30b7)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
