@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why you should use anonymous functions!](https://dev.to/kai_wenzel/why-you-should-use-anonymous-functions-52bg)
+- [Dev.to/JS] [5 open source packages to gain time for React.js](https://dev.to/horhorou/5-open-source-packages-to-gain-time-for-reactjs-1oco)
 - [Dev.to/JS] [Top 6 opensource repositories to learn JavaScript in 2022](https://dev.to/kumarkalyan/top-6-opensource-repositories-to-learn-javascript-in-2022-1d1p)
 - [Dev.to/JS] [NestJs e Typeorm: Recuperando a entidade pelo parâmetro de rota](https://dev.to/skay1994/nestjs-e-typeorm-recuperando-a-entidade-pelo-parametro-de-rota-ida)
 - [Dev.to/JS] [Solution for problem with useState and eventHandlers](https://dev.to/subbiahc/solution-for-problem-with-usestate-and-eventhandlers-41e5)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#45 - Persistent Bugger - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/45-persistent-bugger-codewars-kata-6-kyu-4ah4)
 - [Dev.to/JS] [How to find length of string in Solidity, from the smart contract of ens](https://dev.to/deep1144/how-to-find-length-of-string-in-solidity-from-the-smart-contract-of-ens-415a)
 - [Dev.to/JS] [Entendendo a diferença entre null e undefined em Javascript](https://dev.to/lazarocontato/entendendo-a-diferenca-entre-null-e-undefined-em-javascript-58h9)
-- [Dev.to/JS] [Data types conversion in JavaScript](https://dev.to/ebakecode/data-type-conversion-in-javascript-2chl)
-- [Dev.to/JS] [Click To Load](https://dev.to/creatorsock/click-to-load-d78)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
 - [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
