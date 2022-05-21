@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Avoid Redux ,Build an Optimal add to cart system with UseReducer and useContext in React NEXT.js 😎](https://dev.to/aframson/avoid-redux-build-an-optimal-add-to-cart-system-with-usereducer-and-usecontext-in-react-nextjs-9c2)
 - [Dev.to/JS] [Read this before using React 18...](https://dev.to/josiahayres/read-this-before-using-react-18-5971)
 - [Dev.to/JS] [Generating retro arcade game-style music with Magenta.js](https://dev.to/abagames/generating-retro-arcade-game-style-music-with-magentajs-1bd4)
 - [Dev.to/JS] [Introduction to `this`, `new` &amp; OOP](https://dev.to/topcode007/introduction-to-this-new-oop-1o1b)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getac, fabricante líder en soluciones](https://dev.to/pabloco33316011/getac-fabricante-lider-en-soluciones-fc5)
 - [Dev.to/JS] [sector de la Minería](https://dev.to/pabloco33316011/sector-de-la-mineria-4lp4)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
-- [Dev.to/JS] [All Higher Order Functions Under the Hood in JavaScript](https://dev.to/gabrielpedroza/all-higher-order-functions-under-the-hood-in-javascript-2fij)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
 - [Lifehacker] [How to Read a Whiskey Label Without Embarrassing Yourself](https://lifehacker.com/how-to-read-a-whiskey-label-without-embarrassing-yourse-1848954670)
 - [Lifehacker] [What Really Happens When You Block Someone on your iPhone?](https://lifehacker.com/what-really-happens-when-you-block-someone-on-your-ipho-1848955621)
