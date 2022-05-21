@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Loop Over An Object In Javascript](https://dev.to/naimahmedshuvo/how-to-loop-over-an-object-in-javascript-15pj)
+- [Dev.to/JS] [Console.log and his Ninja Pals 🥷](https://dev.to/sameer1612/consolelog-and-his-ninja-pals-2n4f)
 - [Dev.to/JS] [dofeedbackin A platform to connect database to your feedback forms](https://dev.to/lmas3009/dofeedbackin-a-platform-to-connect-database-to-your-feedback-forms-43pj)
 - [Dev.to/JS] [What are Template Literals in JavaScript](https://dev.to/codecupdev/what-are-template-literals-in-javascript-3j3e)
 - [Dev.to/JS] [100 Days of Code](https://dev.to/kanikasm20/100-days-of-code-412f)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Native deep clone in JS](https://dev.to/rdinakely/native-deep-clone-in-js-2420)
 - [Dev.to/JS] [How I created a minimal linktree like page for me in just 2 hours.](https://dev.to/asheeshh/how-i-created-a-minimal-linktree-like-page-for-me-in-just-2-hours-ncp)
 - [Dev.to/JS] [Avoid Redux ,Build an Optimal add to cart system with UseReducer and useContext in React NEXT.js 😎](https://dev.to/aframson/avoid-redux-build-an-optimal-add-to-cart-system-with-usereducer-and-usecontext-in-react-nextjs-9c2)
-- [Dev.to/JS] [Read this before using React 18...](https://dev.to/josiahayres/read-this-before-using-react-18-5971)
-- [Dev.to/JS] [Generating retro arcade game-style music with Magenta.js](https://dev.to/abagames/generating-retro-arcade-game-style-music-with-magentajs-1bd4)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
