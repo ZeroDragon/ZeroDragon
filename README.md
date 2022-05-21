@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to `this`, `new` &amp; OOP](https://dev.to/topcode007/introduction-to-this-new-oop-1o1b)
 - [Dev.to/JS] [History of JavaScript: How it all Began](https://dev.to/dboateng/history-of-javascript-how-it-all-began-92a)
 - [Dev.to/JS] [⚛¿Qué es React?⚛](https://dev.to/alison304/que-es-react-3gfm)
 - [Dev.to/JS] [An Ultimate Guide to Upgrading to React 18](https://dev.to/asayerio_techblog/an-ultimate-guide-to-upgrading-to-react-18-2n8o)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [State VS props 🤔](https://dev.to/carolinaguzman89/state-vs-props-1ij9)
 - [Lifehacker] [How to Read a Whiskey Label Without Embarrassing Yourself](https://lifehacker.com/how-to-read-a-whiskey-label-without-embarrassing-yourse-1848954670)
 - [Dev.to/JS] [Multi Stage Docker builds with Angular and Nginx](https://dev.to/this-is-angular/multi-stage-docker-builds-with-angular-and-nginx-4j9d)
-- [Dev.to/JS] [👨‍💻 FullStack simple tutorial to fetch data and display it](https://dev.to/nicolasbiondini/fullstack-simple-tutorial-to-fetch-data-and-display-it-435m)
 - [Lifehacker] [What Really Happens When You Block Someone on your iPhone?](https://lifehacker.com/what-really-happens-when-you-block-someone-on-your-ipho-1848955621)
 - [Lifehacker] [Why 1Password Is Now the Best Password Manager for Mac](https://lifehacker.com/why-1password-is-now-the-best-password-manager-for-mac-1848947731)
 - [Lifehacker] [8 of the Best Cheap and Healthy Convenience Foods, According to Reddit](https://lifehacker.com/8-of-the-best-cheap-and-healthy-convenience-foods-acco-1848954708)
