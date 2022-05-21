@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
+- [Dev.to/JS] [Packaging Reusable Code for Micro-services &lpar;NodeJS&rpar;](https://dev.to/kinjalrk2k/packaging-reusable-code-for-micro-services-nodejs-2jp2)
+- [Dev.to/JS] [How to get into big tech](https://dev.to/bisvarup/how-to-get-into-big-tech-fg4)
+- [Dev.to/JS] [Simple Snake Game -Written In Svelte](https://dev.to/hr21don/simple-snake-game-written-in-svelte-4o58)
 - [Dev.to/JS] [NestJs: 🐶 Puppies Api](https://dev.to/drsimplegraffiti/nestjs-puppies-api-k4d)
 - [Dev.to/JS] [Error when update @adonisjs/ally version 2.1.3 to 4.1.3](https://dev.to/atjab/error-when-update-adonisjsally-version-213-to-413-11a3)
 - [Dev.to/JS] [Serverless Application is not as secure as you might think!](https://dev.to/smartscanner/serverless-application-is-not-as-secure-as-you-might-think-4dpb)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Loop Over An Object In Javascript](https://dev.to/naimahmedshuvo/how-to-loop-over-an-object-in-javascript-15pj)
 - [Dev.to/JS] [Console.log and his Ninja Pals 🥷](https://dev.to/sameer1612/consolelog-and-his-ninja-pals-2n4f)
 - [Dev.to/JS] [dofeedbackin A platform to connect database to your feedback forms](https://dev.to/lmas3009/dofeedbackin-a-platform-to-connect-database-to-your-feedback-forms-43pj)
-- [Dev.to/JS] [What are Template Literals in JavaScript](https://dev.to/codecupdev/what-are-template-literals-in-javascript-3j3e)
-- [Dev.to/JS] [100 Days of Code](https://dev.to/kanikasm20/100-days-of-code-412f)
-- [Dev.to/JS] [Help wanted, Setting API tests for my project](https://dev.to/bacloud22/help-wanted-setting-api-tests-for-my-project-141j)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
 - [Lifehacker] [When Did You Realize You Were Truly an Adult?](https://lifehacker.com/when-did-you-realize-you-were-truly-an-adult-1848950188)
 - [Lifehacker] [Mordle Lets You Play Wordle Against 100 People, and I Love It](https://lifehacker.com/mordle-lets-you-play-wordle-against-100-people-and-i-l-1848950108)
-- [Lifehacker] [5 of Our Favorite Old School Games on Steam](https://lifehacker.com/5-of-our-favorite-old-school-games-on-steam-1848949380)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
