@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [The Complete Rules to `new`](https://dev.to/topcode007/the-complete-rules-to-new-50b)
+- [Dev.to/JS] [Why JS Ecosystem is a MESS?](https://dev.to/devash/why-js-ecosystem-is-a-mess-44f2)
+- [Dev.to/JS] [The Complete Rules to `new` &lpar;Object Oriented Programming: The Core&rpar;](https://dev.to/topcode007/the-complete-rules-to-new-50b)
 - [Dev.to/JS] [Creating Custom File Drag and Drop Component](https://dev.to/satel/creating-custom-file-drag-and-drop-component-3pie)
 - [Dev.to/JS] [ChillWell Portable AC Reviews: First Read All Reviews Before Purchase?](https://dev.to/chillwellacinfo/chillwell-portable-ac-reviews-first-read-all-reviews-before-purchase-43g)
 - [Dev.to/JS] [How To Loop Over An Object In Javascript](https://dev.to/naimahmedshuvo/how-to-loop-over-an-object-in-javascript-15pj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Help wanted, Setting API tests for my project](https://dev.to/bacloud22/help-wanted-setting-api-tests-for-my-project-141j)
 - [Dev.to/JS] [await, then, return?](https://dev.to/bacloud22/await-then-return-51gf)
 - [Dev.to/JS] [Custom Slide-Out Menu Component: Populated with Dynamic Component Data, and Styled with Angular Animations &amp; SCSS](https://dev.to/riapacheco/custom-slide-out-menu-component-with-angular-animations-and-scss-453l)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;21-05-2022&rpar; - Demons be gone](https://dev.to/mjgs/this-weeks-newsletter-is-out-21-05-2022-demons-be-gone-ple)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
