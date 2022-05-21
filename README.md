@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Click To Load](https://dev.to/creatorsock/click-to-load-d78)
+- [Dev.to/JS] [What is ECMA and what is the latest version of it ?](https://dev.to/sadiqshah786/what-is-ecma-and-what-is-the-latest-version-of-it--4c2p)
+- [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
+- [Dev.to/JS] [Website templates](https://dev.to/eric23/website-templates-5f9l)
+- [Dev.to/JS] [Content Security Policy Nightmare](https://dev.to/lonewolf2002/content-security-policy-nightmare-f9b)
+- [Dev.to/JS] [Eazy Way to, How to Fetch API using JavaScript..🎇](https://dev.to/roshan_100kar/eazy-way-to-how-to-fetch-api-using-javascript-5ghk)
 - [Dev.to/JS] [Paracetamol.js💊| #122: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-122-explica-este-codigo-javascript-l4m)
 - [Dev.to/JS] [how to host MERN Stack Project on share hosting?](https://dev.to/amirgull/how-to-host-mern-stack-project-on-share-hosting-ng6)
 - [Dev.to/JS] [Epub Reader in Ruby on Rails with EpubJs](https://dev.to/timnans/epub-reader-in-ruby-on-rails-with-epubjs-3k1h)
@@ -31,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript for Beginners](https://dev.to/romeopeter/typescript-for-beginners-50h0)
 - [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
 - [Dev.to/JS] [Packaging Reusable Code for Micro-services &lpar;NodeJS&rpar;](https://dev.to/kinjalrk2k/packaging-reusable-code-for-micro-services-nodejs-2jp2)
-- [Dev.to/JS] [How to get into big tech](https://dev.to/bisvarup/how-to-get-into-big-tech-fg4)
-- [Dev.to/JS] [Simple Snake Game -Written In Svelte](https://dev.to/hr21don/simple-snake-game-written-in-svelte-4o58)
-- [Dev.to/JS] [NestJs: 🐶 Puppies Api](https://dev.to/drsimplegraffiti/nestjs-puppies-api-k4d)
-- [Dev.to/JS] [Error when update @adonisjs/ally version 2.1.3 to 4.1.3](https://dev.to/atjab/error-when-update-adonisjsally-version-213-to-413-11a3)
-- [Dev.to/JS] [Serverless Application is not as secure as you might think!](https://dev.to/smartscanner/serverless-application-is-not-as-secure-as-you-might-think-4dpb)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is Truly the Best Way to Eat a Grapefruit](https://lifehacker.com/this-is-truly-the-best-way-to-eat-a-grapefruit-1848950853)
 - [Lifehacker] [Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
 - [Lifehacker] [When Did You Realize You Were Truly an Adult?](https://lifehacker.com/when-did-you-realize-you-were-truly-an-adult-1848950188)
-- [Lifehacker] [Mordle Lets You Play Wordle Against 100 People, and I Love It](https://lifehacker.com/mordle-lets-you-play-wordle-against-100-people-and-i-l-1848950108)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
 - [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
