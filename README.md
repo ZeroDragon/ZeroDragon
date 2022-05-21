@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Want Free Wordpress Hosting?](https://dev.to/goodboyks/want-free-wordpress-hosting-4mni)
+- [Dev.to/JS] [TypeScript for Beginners](https://dev.to/romeopeter/typescript-for-beginners-50h0)
 - [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
 - [Dev.to/JS] [Packaging Reusable Code for Micro-services &lpar;NodeJS&rpar;](https://dev.to/kinjalrk2k/packaging-reusable-code-for-micro-services-nodejs-2jp2)
 - [Dev.to/JS] [How to get into big tech](https://dev.to/bisvarup/how-to-get-into-big-tech-fg4)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Complete Rules to `new` &lpar;Object Oriented Programming: The Core&rpar;](https://dev.to/topcode007/the-complete-rules-to-new-50b)
 - [Dev.to/JS] [Creating Custom File Drag and Drop Component](https://dev.to/satel/creating-custom-file-drag-and-drop-component-3pie)
 - [Dev.to/JS] [How To Loop Over An Object In Javascript](https://dev.to/naimahmedshuvo/how-to-loop-over-an-object-in-javascript-15pj)
-- [Dev.to/JS] [Console.log and his Ninja Pals 🥷](https://dev.to/sameer1612/consolelog-and-his-ninja-pals-2n4f)
-- [Dev.to/JS] [dofeedbackin A platform to connect database to your feedback forms](https://dev.to/lmas3009/dofeedbackin-a-platform-to-connect-database-to-your-feedback-forms-43pj)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
