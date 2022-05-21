@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [dofeedbackin A platform to connect database to your feedback forms](https://dev.to/lmas3009/dofeedbackin-a-platform-to-connect-database-to-your-feedback-forms-43pj)
+- [Dev.to/JS] [What are Template Literals in JavaScript](https://dev.to/codecupdev/what-are-template-literals-in-javascript-3j3e)
+- [Dev.to/JS] [100 Days of Code](https://dev.to/kanikasm20/100-days-of-code-412f)
 - [Dev.to/JS] [Help wanted, Setting API tests for my project](https://dev.to/bacloud22/help-wanted-setting-api-tests-for-my-project-141j)
 - [Dev.to/JS] [await, then, return?](https://dev.to/bacloud22/await-then-return-51gf)
 - [Dev.to/JS] [Custom Slide-Out Menu Component: Populated with Dynamic Component Data, and Styled with Angular Animations &amp; SCSS](https://dev.to/riapacheco/custom-slide-out-menu-component-with-angular-animations-and-scss-453l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Avoid Redux ,Build an Optimal add to cart system with UseReducer and useContext in React NEXT.js 😎](https://dev.to/aframson/avoid-redux-build-an-optimal-add-to-cart-system-with-usereducer-and-usecontext-in-react-nextjs-9c2)
 - [Dev.to/JS] [Read this before using React 18...](https://dev.to/josiahayres/read-this-before-using-react-18-5971)
 - [Dev.to/JS] [Generating retro arcade game-style music with Magenta.js](https://dev.to/abagames/generating-retro-arcade-game-style-music-with-magentajs-1bd4)
-- [Dev.to/JS] [Introduction to `this`, `new` &amp; OOP](https://dev.to/topcode007/introduction-to-this-new-oop-1o1b)
-- [Dev.to/JS] [History of JavaScript: How it all Began](https://dev.to/dboateng/history-of-javascript-how-it-all-began-92a)
-- [Dev.to/JS] [⚛¿Qué es React?⚛](https://dev.to/alison304/que-es-react-3gfm)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
