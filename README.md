@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Data type conversion in JavaScript](https://dev.to/ebakecode/data-type-conversion-in-javascript-2chl)
 - [Dev.to/JS] [Click To Load](https://dev.to/creatorsock/click-to-load-d78)
 - [Dev.to/JS] [What is ECMA and what is the latest version of it ?](https://dev.to/sadiqshah786/what-is-ecma-and-what-is-the-latest-version-of-it--4c2p)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Want Free Wordpress Hosting?](https://dev.to/goodboyks/want-free-wordpress-hosting-4mni)
 - [Dev.to/JS] [TypeScript for Beginners](https://dev.to/romeopeter/typescript-for-beginners-50h0)
 - [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
-- [Dev.to/JS] [Packaging Reusable Code for Micro-services &lpar;NodeJS&rpar;](https://dev.to/kinjalrk2k/packaging-reusable-code-for-micro-services-nodejs-2jp2)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
