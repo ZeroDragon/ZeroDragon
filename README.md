@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Error Boundaries](https://dev.to/evanhameed99/react-error-boundaries-425p)
+- [Dev.to/JS] [LinkedIn Invite Automation](https://dev.to/ayush_singh_dev/linkedin-invite-automation-4i77)
+- [Dev.to/JS] [🙅🏽‍♂️ Don&#39;t use AWAIT inside FOREACH](https://dev.to/shrihari/dont-use-await-inside-foreach-h86)
+- [Dev.to/JS] [Basic Explanation of Javascript to Beginners](https://dev.to/dovey21/basic-explanation-of-javascript-to-beginners-26k1)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Dev.to/JS] [#45 - Persistent Bugger - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/45-persistent-bugger-codewars-kata-6-kyu-4ah4)
@@ -34,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
 - [Dev.to/JS] [Website templates](https://dev.to/eric23/website-templates-5f9l)
 - [Dev.to/JS] [Content Security Policy Nightmare](https://dev.to/lonewolf2002/content-security-policy-nightmare-f9b)
-- [Dev.to/JS] [Eazy Way to, How to Fetch API using JavaScript..🎇](https://dev.to/roshan_100kar/eazy-way-to-how-to-fetch-api-using-javascript-5ghk)
-- [Dev.to/JS] [Paracetamol.js💊| #122: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-122-explica-este-codigo-javascript-l4m)
-- [Dev.to/JS] [how to host MERN Stack Project on share hosting?](https://dev.to/amirgull/how-to-host-mern-stack-project-on-share-hosting-ng6)
-- [Dev.to/JS] [Epub Reader in Ruby on Rails with EpubJs](https://dev.to/timnans/epub-reader-in-ruby-on-rails-with-epubjs-3k1h)
 - [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
