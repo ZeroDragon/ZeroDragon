@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Data type conversion in JavaScript](https://dev.to/ebakecode/data-type-conversion-in-javascript-2chl)
+- [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
+- [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
+- [Dev.to/JS] [#45 - Persistent Bugger - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/45-persistent-bugger-codewars-kata-6-kyu-4ah4)
+- [Dev.to/JS] [How to find length of string in Solidity, from the smart contract of ens](https://dev.to/deep1144/how-to-find-length-of-string-in-solidity-from-the-smart-contract-of-ens-415a)
+- [Dev.to/JS] [Entendendo a diferença entre null e undefined em Javascript](https://dev.to/lazarocontato/entendendo-a-diferenca-entre-null-e-undefined-em-javascript-58h9)
+- [Dev.to/JS] [Data types conversion in JavaScript](https://dev.to/ebakecode/data-type-conversion-in-javascript-2chl)
 - [Dev.to/JS] [Click To Load](https://dev.to/creatorsock/click-to-load-d78)
 - [Dev.to/JS] [What is ECMA and what is the latest version of it ?](https://dev.to/sadiqshah786/what-is-ecma-and-what-is-the-latest-version-of-it--4c2p)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #122: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-122-explica-este-codigo-javascript-l4m)
 - [Dev.to/JS] [how to host MERN Stack Project on share hosting?](https://dev.to/amirgull/how-to-host-mern-stack-project-on-share-hosting-ng6)
 - [Dev.to/JS] [Epub Reader in Ruby on Rails with EpubJs](https://dev.to/timnans/epub-reader-in-ruby-on-rails-with-epubjs-3k1h)
-- [Dev.to/JS] [JavaScript typeof null likes to play tricks](https://dev.to/laurentyson85/javascript-typeof-null-likes-to-play-tricks-41oa)
-- [Dev.to/JS] [Want Free Wordpress Hosting?](https://dev.to/goodboyks/want-free-wordpress-hosting-4mni)
-- [Dev.to/JS] [TypeScript for Beginners](https://dev.to/romeopeter/typescript-for-beginners-50h0)
 - [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
@@ -59,10 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
 - [Lifehacker] [This Is Truly the Best Way to Eat a Grapefruit](https://lifehacker.com/this-is-truly-the-best-way-to-eat-a-grapefruit-1848950853)
 - [Lifehacker] [Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
-- [Lifehacker] [When Did You Realize You Were Truly an Adult?](https://lifehacker.com/when-did-you-realize-you-were-truly-an-adult-1848950188)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
-- [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)
-- [Crazy Programmer] [C++ Nested for Loop](https://www.thecrazyprogrammer.com/2022/05/c-nested-for-loop.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
 ---
 
