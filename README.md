@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;21-05-2022&rpar; - Demons be gone](https://dev.to/mjgs/this-weeks-newsletter-is-out-21-05-2022-demons-be-gone-ple)
+- [Dev.to/JS] [Native deep clone in JS](https://dev.to/rdinakely/native-deep-clone-in-js-2420)
+- [Dev.to/JS] [How I created a minimal linktree like page for me in just 2 hours.](https://dev.to/asheeshh/how-i-created-a-minimal-linktree-like-page-for-me-in-just-2-hours-ncp)
 - [Dev.to/JS] [Avoid Redux ,Build an Optimal add to cart system with UseReducer and useContext in React NEXT.js 😎](https://dev.to/aframson/avoid-redux-build-an-optimal-add-to-cart-system-with-usereducer-and-usecontext-in-react-nextjs-9c2)
 - [Dev.to/JS] [Read this before using React 18...](https://dev.to/josiahayres/read-this-before-using-react-18-5971)
 - [Dev.to/JS] [Generating retro arcade game-style music with Magenta.js](https://dev.to/abagames/generating-retro-arcade-game-style-music-with-magentajs-1bd4)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An Ultimate Guide to Upgrading to React 18](https://dev.to/asayerio_techblog/an-ultimate-guide-to-upgrading-to-react-18-2n8o)
 - [Dev.to/JS] [A pick of recent React articles](https://dev.to/asayerio_techblog/a-pick-of-recent-react-articles-k4g)
 - [Dev.to/JS] [My Journey of Thought as a Developer](https://dev.to/kuchotony/my-journey-of-thought-as-a-developer-30b7)
-- [Dev.to/JS] [React Router Dom v6](https://dev.to/w3tsa/react-router-dom-v6-4b7a)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
-- [Dev.to/JS] [Getac, fabricante líder en soluciones](https://dev.to/pabloco33316011/getac-fabricante-lider-en-soluciones-fc5)
-- [Dev.to/JS] [sector de la Minería](https://dev.to/pabloco33316011/sector-de-la-mineria-4lp4)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
 - [Lifehacker] [How to Read a Whiskey Label Without Embarrassing Yourself](https://lifehacker.com/how-to-read-a-whiskey-label-without-embarrassing-yourse-1848954670)
