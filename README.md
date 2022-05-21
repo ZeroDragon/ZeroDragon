@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to accept online payments using Fincra](https://dev.to/voxboy2/how-to-accept-online-payments-using-fincra-4onc)
+- [Dev.to/JS] [FlatIron Journey: The Beginning](https://dev.to/smohiudd1688/flatiron-journey-the-beginning-39ji)
+- [Dev.to/JS] [FOREVER FUNCTIONAL: Structuring a React project functionally](https://dev.to/asayerio_techblog/forever-functional-structuring-a-react-project-functionally-4k7l)
+- [Dev.to/JS] [Building a React Application with Vite](https://dev.to/asayerio_techblog/building-a-react-application-with-vite-bco)
+- [Dev.to/JS] [Authentication in React 18 using Firebase v9](https://dev.to/asayerio_techblog/authentication-in-react-18-using-firebase-v9-5664)
 - [Dev.to/JS] [Why you should use anonymous functions!](https://dev.to/kai_wenzel/why-you-should-use-anonymous-functions-52bg)
 - [Dev.to/JS] [5 open source packages to gain time for React.js](https://dev.to/horhorou/5-open-source-packages-to-gain-time-for-reactjs-1oco)
 - [Dev.to/JS] [Top 6 opensource repositories to learn JavaScript in 2022](https://dev.to/kumarkalyan/top-6-opensource-repositories-to-learn-javascript-in-2022-1d1p)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solution for problem with useState and eventHandlers](https://dev.to/subbiahc/solution-for-problem-with-usestate-and-eventhandlers-41e5)
 - [Dev.to/JS] [React Error Boundaries](https://dev.to/evanhameed99/react-error-boundaries-425p)
 - [Dev.to/JS] [LinkedIn Invite Automation](https://dev.to/ayush_singh_dev/linkedin-invite-automation-4i77)
-- [Dev.to/JS] [🙅🏽‍♂️ Don&#39;t use AWAIT inside FOREACH](https://dev.to/shrihari/dont-use-await-inside-foreach-h86)
-- [Dev.to/JS] [Basic Explanation of Javascript to Beginners](https://dev.to/dovey21/basic-explanation-of-javascript-to-beginners-26k1)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
-- [Dev.to/JS] [#45 - Persistent Bugger - Codewars Kata &lpar;6 kyu&rpar;](https://dev.to/cesar__dlr/45-persistent-bugger-codewars-kata-6-kyu-4ah4)
-- [Dev.to/JS] [How to find length of string in Solidity, from the smart contract of ens](https://dev.to/deep1144/how-to-find-length-of-string-in-solidity-from-the-smart-contract-of-ens-415a)
-- [Dev.to/JS] [Entendendo a diferença entre null e undefined em Javascript](https://dev.to/lazarocontato/entendendo-a-diferenca-entre-null-e-undefined-em-javascript-58h9)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
 - [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
