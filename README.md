@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #122: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-122-explica-este-codigo-javascript-l4m)
+- [Dev.to/JS] [how to host MERN Stack Project on share hosting?](https://dev.to/amirgull/how-to-host-mern-stack-project-on-share-hosting-ng6)
+- [Dev.to/JS] [Epub Reader in Ruby on Rails with EpubJs](https://dev.to/timnans/epub-reader-in-ruby-on-rails-with-epubjs-3k1h)
+- [Dev.to/JS] [JavaScript typeof null likes to play tricks](https://dev.to/laurentyson85/javascript-typeof-null-likes-to-play-tricks-41oa)
 - [Dev.to/JS] [Want Free Wordpress Hosting?](https://dev.to/goodboyks/want-free-wordpress-hosting-4mni)
 - [Dev.to/JS] [TypeScript for Beginners](https://dev.to/romeopeter/typescript-for-beginners-50h0)
 - [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NestJs: 🐶 Puppies Api](https://dev.to/drsimplegraffiti/nestjs-puppies-api-k4d)
 - [Dev.to/JS] [Error when update @adonisjs/ally version 2.1.3 to 4.1.3](https://dev.to/atjab/error-when-update-adonisjsally-version-213-to-413-11a3)
 - [Dev.to/JS] [Serverless Application is not as secure as you might think!](https://dev.to/smartscanner/serverless-application-is-not-as-secure-as-you-might-think-4dpb)
-- [Dev.to/JS] [Why JS Ecosystem is a MESS?](https://dev.to/devash/why-js-ecosystem-is-a-mess-44f2)
-- [Dev.to/JS] [The Complete Rules to `new` &lpar;Object Oriented Programming: The Core&rpar;](https://dev.to/topcode007/the-complete-rules-to-new-50b)
-- [Dev.to/JS] [Creating Custom File Drag and Drop Component](https://dev.to/satel/creating-custom-file-drag-and-drop-component-3pie)
-- [Dev.to/JS] [How To Loop Over An Object In Javascript](https://dev.to/naimahmedshuvo/how-to-loop-over-an-object-in-javascript-15pj)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
