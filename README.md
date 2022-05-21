@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NestJs: 🐶 Puppies Api](https://dev.to/drsimplegraffiti/nestjs-puppies-api-k4d)
+- [Dev.to/JS] [Error when update @adonisjs/ally version 2.1.3 to 4.1.3](https://dev.to/atjab/error-when-update-adonisjsally-version-213-to-413-11a3)
+- [Dev.to/JS] [Serverless Application is not as secure as you might think!](https://dev.to/smartscanner/serverless-application-is-not-as-secure-as-you-might-think-4dpb)
 - [Dev.to/JS] [Why JS Ecosystem is a MESS?](https://dev.to/devash/why-js-ecosystem-is-a-mess-44f2)
 - [Dev.to/JS] [The Complete Rules to `new` &lpar;Object Oriented Programming: The Core&rpar;](https://dev.to/topcode007/the-complete-rules-to-new-50b)
 - [Dev.to/JS] [Creating Custom File Drag and Drop Component](https://dev.to/satel/creating-custom-file-drag-and-drop-component-3pie)
-- [Dev.to/JS] [ChillWell Portable AC Reviews: First Read All Reviews Before Purchase?](https://dev.to/chillwellacinfo/chillwell-portable-ac-reviews-first-read-all-reviews-before-purchase-43g)
 - [Dev.to/JS] [How To Loop Over An Object In Javascript](https://dev.to/naimahmedshuvo/how-to-loop-over-an-object-in-javascript-15pj)
 - [Dev.to/JS] [Console.log and his Ninja Pals 🥷](https://dev.to/sameer1612/consolelog-and-his-ninja-pals-2n4f)
 - [Dev.to/JS] [dofeedbackin A platform to connect database to your feedback forms](https://dev.to/lmas3009/dofeedbackin-a-platform-to-connect-database-to-your-feedback-forms-43pj)
 - [Dev.to/JS] [What are Template Literals in JavaScript](https://dev.to/codecupdev/what-are-template-literals-in-javascript-3j3e)
 - [Dev.to/JS] [100 Days of Code](https://dev.to/kanikasm20/100-days-of-code-412f)
 - [Dev.to/JS] [Help wanted, Setting API tests for my project](https://dev.to/bacloud22/help-wanted-setting-api-tests-for-my-project-141j)
-- [Dev.to/JS] [await, then, return?](https://dev.to/bacloud22/await-then-return-51gf)
-- [Dev.to/JS] [Custom Slide-Out Menu Component: Populated with Dynamic Component Data, and Styled with Angular Animations &amp; SCSS](https://dev.to/riapacheco/custom-slide-out-menu-component-with-angular-animations-and-scss-453l)
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
