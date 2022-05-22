@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding JavaScript and origin.](https://dev.to/callmebobonwa/understanding-javascript-and-origin-1bai)
+- [Dev.to/JS] [Garage Floor Coating of Nashville](https://dev.to/jannydan1/garage-floor-coating-of-nashville-1e09)
+- [Dev.to/JS] [#BehindTheGame](https://dev.to/ikmalsaid/behindthegame-b9d)
 - [Dev.to/JS] [How to create and deploy an Express.js app to Vercel?](https://dev.to/murtuzaalisurti/how-to-create-and-deploy-an-expressjs-app-to-vercel-2c42)
 - [Dev.to/JS] [Create parallax scrolling effect with vanilla Javascript](https://dev.to/javascriptacademy/create-parallax-scrolling-effect-with-vanilla-javascript-5b4h)
 - [Dev.to/JS] [JavaScript Function](https://dev.to/aasif247/javascript-function-e43)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s Talk About Hooks - Part 1 &lpar;useState and useEffect&rpar;](https://dev.to/alserembani/lets-talk-about-hooks-part-1-usestate-and-useeffect-5afl)
 - [Dev.to/JS] [Event Object Properties](https://dev.to/shorifur/event-object-properties-30hn)
 - [Dev.to/JS] [Get GitHub Release Information with Node.js](https://dev.to/saar_memphis/get-github-release-information-with-nodejs-5b0i)
-- [Dev.to/JS] [Geeking-out on SVG Graphics part-five](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-five-cg0)
-- [Dev.to/JS] [This is where ReactJs won the front-end game!](https://dev.to/swastikyadav/this-is-where-reactjs-won-the-front-end-game-ecp)
-- [Dev.to/JS] [Load JavaScript optimally by utilizing defer.](https://dev.to/pramit_marattha/load-javascript-optimally-by-utilizing-defer-4k77)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
