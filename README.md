@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
+- [Dev.to/JS] [[Discussion]What is your main aim of becoming a programmer?](https://dev.to/callmebobonwa/discussionwhat-is-your-main-aim-of-becoming-a-programmer-2d4e)
+- [Dev.to/JS] [JavaScript Ellipses: The Spread and Rest Syntax](https://dev.to/kai_wenzel/javascript-ellipses-the-spread-and-rest-syntax-307b)
+- [Dev.to/JS] [JS Solutions for CodeWars Katas](https://dev.to/kimanikevin254/js-solutions-for-codewars-katas-5532)
+- [Dev.to/JS] [From a HTML JS PHP Website to an Installable Desktop Application](https://dev.to/mmj/from-a-html-js-php-website-to-an-installable-desktop-application-1i41)
+- [Dev.to/JS] [How to learn hmtl,css and JavaScript easily.](https://dev.to/callmebobonwa/how-to-learn-hmtlcss-and-javascript-easily-37bo)
+- [Dev.to/JS] [What is Variable? How to declare? and Legal and Illegal variables declaration in JavaScript?](https://dev.to/sadiqshah786/what-is-variable-how-to-declare-and-legal-and-illegal-variables-declaration-in-javascript-4g9k)
+- [Dev.to/JS] [New Landmove platform redesign, what do you think?](https://dev.to/landmove/new-landmove-platform-redesign-what-do-you-think-3h24)
 - [Dev.to/JS] [Demystifying &#39;this&#39; keyword in JS](https://dev.to/asi309/demystifying-this-keyword-in-js-3130)
 - [Dev.to/JS] [#21: Run &amp; Debug With VS Code](https://dev.to/azure/20-deploy-with-swa-cli-1oan)
 - [Dev.to/JS] [Understanding JavaScript](https://dev.to/callmebobonwa/understanding-javascript-4ffk)
 - [Dev.to/JS] [React vs. Svelte](https://dev.to/northwillov/react-vs-svelte-25e6)
 - [Dev.to/JS] [35+ HTML 404 Page Templates](https://dev.to/stackfindover/35-html-404-page-templates-5bge)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
-- [Dev.to/JS] [Build a carousel postcard like Instagram with Reactjs, Material-UI, and Swiperjs](https://dev.to/thatanjan/build-a-carousel-postcard-like-instagram-with-reactjs-material-ui-and-swiperjs-39cg)
-- [Dev.to/JS] [Micro frontends](https://dev.to/kerryconvery/microfrontends-ke4)
-- [Dev.to/JS] [Understanding JavaScript and origin.](https://dev.to/callmebobonwa/understanding-javascript-and-origin-1bai)
-- [Dev.to/JS] [#BehindTheGame](https://dev.to/ikmalsaid/behindthegame-b9d)
-- [Dev.to/JS] [How to create and deploy an Express.js app to Vercel?](https://dev.to/murtuzaalisurti/how-to-create-and-deploy-an-expressjs-app-to-vercel-2c42)
-- [Dev.to/JS] [Create parallax scrolling effect with vanilla Javascript](https://dev.to/javascriptacademy/create-parallax-scrolling-effect-with-vanilla-javascript-5b4h)
-- [Dev.to/JS] [JavaScript Function](https://dev.to/aasif247/javascript-function-e43)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
-- [Lifehacker] [This Is Truly the Best Way to Eat a Grapefruit](https://lifehacker.com/this-is-truly-the-best-way-to-eat-a-grapefruit-1848950853)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
