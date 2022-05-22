@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wanna copy Data Objects? Shallow copy And Deep copy is the way: In JS](https://dev.to/je_et15/wanna-copy-data-objects-shallow-copy-and-deep-copy-is-the-way-in-js-d75)
+- [Dev.to/JS] [Hyperspace travel in JavaScript Canvas](https://dev.to/dillir07/hyperspace-travel-in-javascript-canvas-418g)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Dev.to/JS] [Weekly Digest 20/2022](https://dev.to/marcobiedermann/weekly-digest-202022-4hi8)
 - [Dev.to/JS] [Target Learning](https://dev.to/nash4253/target-learning-1m1k)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From a HTML JS PHP Website to an Installable Desktop Application](https://dev.to/mmj/from-a-html-js-php-website-to-an-installable-desktop-application-1i41)
 - [Dev.to/JS] [How to learn hmtl,css and JavaScript easily.](https://dev.to/callmebobonwa/how-to-learn-hmtlcss-and-javascript-easily-37bo)
 - [Dev.to/JS] [What is Variable? How to declare? and Legal and Illegal variables declaration in JavaScript?](https://dev.to/sadiqshah786/what-is-variable-how-to-declare-and-legal-and-illegal-variables-declaration-in-javascript-4g9k)
-- [Dev.to/JS] [New Landmove platform redesign, what do you think?](https://dev.to/landmove/new-landmove-platform-redesign-what-do-you-think-3h24)
-- [Dev.to/JS] [Demystifying &#39;this&#39; keyword in JS](https://dev.to/asi309/demystifying-this-keyword-in-js-3130)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
