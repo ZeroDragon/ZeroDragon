@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Function](https://dev.to/aasif247/javascript-function-e43)
+- [Dev.to/JS] [How to Rotate a String in JavaScript](https://dev.to/kimanikevin254/rotate-a-string-in-javascript-2and)
+- [Dev.to/JS] [Sidebar Menu Dashboard - Side Navigation Bar | Using HTML And CSS + Source Code](https://dev.to/sreeju/sidebar-menu-dashboard-side-navigation-bar-using-html-and-css-source-code-413k)
+- [Dev.to/JS] [Javascript tips](https://dev.to/bhaggu/javascript-tips-11gp)
+- [Dev.to/JS] [Let&#39;s Talk About Hooks - Part 1 &lpar;useState and useEffect&rpar;](https://dev.to/alserembani/lets-talk-about-hooks-part-1-usestate-and-useeffect-5afl)
 - [Dev.to/JS] [Event Object Properties](https://dev.to/shorifur/event-object-properties-30hn)
 - [Dev.to/JS] [Get GitHub Release Information with Node.js](https://dev.to/saar_memphis/get-github-release-information-with-nodejs-5b0i)
 - [Dev.to/JS] [Geeking-out on SVG Graphics part-five](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-five-cg0)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Load JavaScript optimally by utilizing defer.](https://dev.to/pramit_marattha/load-javascript-optimally-by-utilizing-defer-4k77)
 - [Dev.to/JS] [React v18: Why useEffect suddenly go crazy?](https://dev.to/sameer1612/react-v18-why-useeffect-suddenly-go-crazy-2678)
 - [Dev.to/JS] [GuideChimp Ecosystem - Open-Source Plugins](https://dev.to/netlicensing/guidechimp-ecosystem-open-source-plugins-3g0j)
-- [Dev.to/JS] [100DaysOfCode](https://dev.to/kirzin/100daysofcode-d45)
-- [Dev.to/JS] [My First Web App!](https://dev.to/eggowaffle/my-first-web-app-46ca)
-- [Dev.to/JS] [Transitioning Component Between Pages in Vue.js](https://dev.to/akbarnafisa/transitioning-component-between-pages-in-vuejs-30jd)
-- [Dev.to/JS] [How to change the development server port in Next.js](https://dev.to/codewithsnowbit/how-to-change-the-development-server-port-in-nextjs-3ohn)
-- [Dev.to/JS] [#20: Deploy with SWA CLI](https://dev.to/azure/20-deploy-with-swa-cli-2338)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
