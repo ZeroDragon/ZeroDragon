@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create and deploy an Express.js app to Vercel?](https://dev.to/murtuzaalisurti/how-to-create-and-deploy-an-expressjs-app-to-vercel-2c42)
+- [Dev.to/JS] [Create parallax scrolling effect with vanilla Javascript](https://dev.to/javascriptacademy/create-parallax-scrolling-effect-with-vanilla-javascript-5b4h)
 - [Dev.to/JS] [JavaScript Function](https://dev.to/aasif247/javascript-function-e43)
 - [Dev.to/JS] [How to Rotate a String in JavaScript](https://dev.to/kimanikevin254/rotate-a-string-in-javascript-2and)
 - [Dev.to/JS] [Sidebar Menu Dashboard - Side Navigation Bar | Using HTML And CSS + Source Code](https://dev.to/sreeju/sidebar-menu-dashboard-side-navigation-bar-using-html-and-css-source-code-413k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Geeking-out on SVG Graphics part-five](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-five-cg0)
 - [Dev.to/JS] [This is where ReactJs won the front-end game!](https://dev.to/swastikyadav/this-is-where-reactjs-won-the-front-end-game-ecp)
 - [Dev.to/JS] [Load JavaScript optimally by utilizing defer.](https://dev.to/pramit_marattha/load-javascript-optimally-by-utilizing-defer-4k77)
-- [Dev.to/JS] [React v18: Why useEffect suddenly go crazy?](https://dev.to/sameer1612/react-v18-why-useeffect-suddenly-go-crazy-2678)
-- [Dev.to/JS] [GuideChimp Ecosystem - Open-Source Plugins](https://dev.to/netlicensing/guidechimp-ecosystem-open-source-plugins-3g0j)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
