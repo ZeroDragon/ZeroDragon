@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Cache with JavaScript examples](https://dev.to/costamatheus97/using-cache-with-javascript-examples-520i)
+- [Dev.to/JS] [Que es un contexto en React](https://dev.to/davidponc/que-es-un-contexto-en-react-3f9i)
+- [Dev.to/JS] [Have a crystal clear understanding about a Blockchain](https://dev.to/charliehexx/have-a-crystal-clear-understanding-about-a-blockchain-6cg)
 - [Dev.to/JS] [User registration and login with React and Axios](https://dev.to/asayerio_techblog/user-registration-and-login-with-react-and-axios-3o6j)
 - [Dev.to/JS] [How to build a dynamically resizable textarea?](https://dev.to/gabrielmlinassi/how-to-build-a-dynamic-resizable-textarea-38pf)
 - [Dev.to/JS] [How to accept online payments using Fincra](https://dev.to/voxboy2/how-to-accept-online-payments-using-fincra-4onc)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authentication in React 18 using Firebase v9](https://dev.to/asayerio_techblog/authentication-in-react-18-using-firebase-v9-5664)
 - [Dev.to/JS] [Why you should use anonymous functions!](https://dev.to/kai_wenzel/why-you-should-use-anonymous-functions-52bg)
 - [Dev.to/JS] [5 open source packages to gain time for React.js](https://dev.to/horhorou/5-open-source-packages-to-gain-time-for-reactjs-1oco)
-- [Dev.to/JS] [Top 6 opensource repositories to learn JavaScript in 2022](https://dev.to/kumarkalyan/top-6-opensource-repositories-to-learn-javascript-in-2022-1d1p)
-- [Dev.to/JS] [NestJs e Typeorm: Recuperando a entidade pelo parâmetro de rota](https://dev.to/skay1994/nestjs-e-typeorm-recuperando-a-entidade-pelo-parametro-de-rota-ida)
-- [Dev.to/JS] [Solution for problem with useState and eventHandlers](https://dev.to/subbiahc/solution-for-problem-with-usestate-and-eventhandlers-41e5)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
