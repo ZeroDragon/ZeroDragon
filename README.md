@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#20: Deploy with SWA CLI](https://dev.to/azure/20-deploy-with-swa-cli-2338)
+- [Dev.to/JS] [6 Best TypeScript Tutorials For Beginners in 2022](https://dev.to/yashtiwari1k/6-best-typescript-tutorials-for-beginners-in-2022-4gbp)
 - [Dev.to/JS] [Using Cache with JavaScript examples](https://dev.to/costamatheus97/using-cache-with-javascript-examples-520i)
 - [Dev.to/JS] [Que es un contexto en React](https://dev.to/davidponc/que-es-un-contexto-en-react-3f9i)
 - [Dev.to/JS] [Have a crystal clear understanding about a Blockchain](https://dev.to/charliehexx/have-a-crystal-clear-understanding-about-a-blockchain-6cg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FOREVER FUNCTIONAL: Structuring a React project functionally](https://dev.to/asayerio_techblog/forever-functional-structuring-a-react-project-functionally-4k7l)
 - [Dev.to/JS] [Building a React Application with Vite](https://dev.to/asayerio_techblog/building-a-react-application-with-vite-bco)
 - [Dev.to/JS] [Authentication in React 18 using Firebase v9](https://dev.to/asayerio_techblog/authentication-in-react-18-using-firebase-v9-5664)
-- [Dev.to/JS] [Why you should use anonymous functions!](https://dev.to/kai_wenzel/why-you-should-use-anonymous-functions-52bg)
-- [Dev.to/JS] [5 open source packages to gain time for React.js](https://dev.to/horhorou/5-open-source-packages-to-gain-time-for-reactjs-1oco)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
