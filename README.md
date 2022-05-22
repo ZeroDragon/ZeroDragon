@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Fully Fledged Trivia Games in Discord.JS](https://dev.to/elitezen/code-fully-fledged-trivia-games-in-discordjs-ge8)
 - [Dev.to/JS] [Creating a Character Count Progress Bar in React](https://dev.to/salehmubashar/creating-a-character-count-progress-bar-in-react-3gni)
 - [Dev.to/JS] [Week 4 - Class is in session](https://dev.to/jwhitt3r/week-4-class-is-in-session-4m78)
 - [Dev.to/JS] [Koa Js : Part 1 - How to make a Koa server in 10 minutes!](https://dev.to/kachiic/koa-js-part-1-how-to-make-a-koa-server-in-10-minutes-3og9)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hyperspace travel in JavaScript Canvas](https://dev.to/dillir07/hyperspace-travel-in-javascript-canvas-418g)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Dev.to/JS] [Weekly Digest 20/2022](https://dev.to/marcobiedermann/weekly-digest-202022-4hi8)
-- [Dev.to/JS] [Target Learning](https://dev.to/nash4253/target-learning-1m1k)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
