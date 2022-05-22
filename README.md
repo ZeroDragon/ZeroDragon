@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
+- [Dev.to/JS] [Weekly Digest 20/2022](https://dev.to/marcobiedermann/weekly-digest-202022-4hi8)
+- [Dev.to/JS] [Target Learning](https://dev.to/nash4253/target-learning-1m1k)
 - [Dev.to/JS] [About &#39;key&#39; prop in React](https://dev.to/lico/about-key-prop-in-react-2mno)
 - [Dev.to/JS] [Form Validation In Remix Using Zod](https://dev.to/ishanme/form-validation-in-remix-using-zod-4h3b)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Variable? How to declare? and Legal and Illegal variables declaration in JavaScript?](https://dev.to/sadiqshah786/what-is-variable-how-to-declare-and-legal-and-illegal-variables-declaration-in-javascript-4g9k)
 - [Dev.to/JS] [New Landmove platform redesign, what do you think?](https://dev.to/landmove/new-landmove-platform-redesign-what-do-you-think-3h24)
 - [Dev.to/JS] [Demystifying &#39;this&#39; keyword in JS](https://dev.to/asi309/demystifying-this-keyword-in-js-3130)
-- [Dev.to/JS] [#21: Run &amp; Debug With VS Code](https://dev.to/azure/20-deploy-with-swa-cli-1oan)
-- [Dev.to/JS] [Understanding JavaScript](https://dev.to/callmebobonwa/understanding-javascript-4ffk)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Things Bleach Can Do Aside From Lifting Stains](https://lifehacker.com/13-things-bleach-can-do-aside-from-lifting-stains-1848948792)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
-- [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
