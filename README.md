@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
+- [Dev.to/JS] [Build a carousel postcard like Instagram with Reactjs, Material-UI, and Swiperjs](https://dev.to/thatanjan/build-a-carousel-postcard-like-instagram-with-reactjs-material-ui-and-swiperjs-39cg)
+- [Dev.to/JS] [Micro frontends](https://dev.to/kerryconvery/microfrontends-ke4)
 - [Dev.to/JS] [Understanding JavaScript and origin.](https://dev.to/callmebobonwa/understanding-javascript-and-origin-1bai)
 - [Dev.to/JS] [Garage Floor Coating of Nashville](https://dev.to/jannydan1/garage-floor-coating-of-nashville-1e09)
 - [Dev.to/JS] [#BehindTheGame](https://dev.to/ikmalsaid/behindthegame-b9d)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sidebar Menu Dashboard - Side Navigation Bar | Using HTML And CSS + Source Code](https://dev.to/sreeju/sidebar-menu-dashboard-side-navigation-bar-using-html-and-css-source-code-413k)
 - [Dev.to/JS] [Javascript tips](https://dev.to/bhaggu/javascript-tips-11gp)
 - [Dev.to/JS] [Let&#39;s Talk About Hooks - Part 1 &lpar;useState and useEffect&rpar;](https://dev.to/alserembani/lets-talk-about-hooks-part-1-usestate-and-useeffect-5afl)
-- [Dev.to/JS] [Event Object Properties](https://dev.to/shorifur/event-object-properties-30hn)
-- [Dev.to/JS] [Get GitHub Release Information with Node.js](https://dev.to/saar_memphis/get-github-release-information-with-nodejs-5b0i)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Lifehacker] [The Real Way to Find a Bra That Fits Your Big Boobs](https://lifehacker.com/the-real-way-to-find-a-bra-that-fits-your-big-boobs-1848950734)
 - [Lifehacker] [This Is Truly the Best Way to Eat a Grapefruit](https://lifehacker.com/this-is-truly-the-best-way-to-eat-a-grapefruit-1848950853)
-- [Lifehacker] [Everything You Can Do With a Locked iPhone](https://lifehacker.com/everything-you-can-do-with-a-locked-iphone-1848948883)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
