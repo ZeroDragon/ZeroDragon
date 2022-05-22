@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [About &#39;key&#39; prop in React](https://dev.to/lico/about-key-prop-in-react-2mno)
+- [Dev.to/JS] [Form Validation In Remix Using Zod](https://dev.to/ishanme/form-validation-in-remix-using-zod-4h3b)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Dev.to/JS] [[Discussion]What is your main aim of becoming a programmer?](https://dev.to/callmebobonwa/discussionwhat-is-your-main-aim-of-becoming-a-programmer-2d4e)
 - [Dev.to/JS] [JavaScript Ellipses: The Spread and Rest Syntax](https://dev.to/kai_wenzel/javascript-ellipses-the-spread-and-rest-syntax-307b)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying &#39;this&#39; keyword in JS](https://dev.to/asi309/demystifying-this-keyword-in-js-3130)
 - [Dev.to/JS] [#21: Run &amp; Debug With VS Code](https://dev.to/azure/20-deploy-with-swa-cli-1oan)
 - [Dev.to/JS] [Understanding JavaScript](https://dev.to/callmebobonwa/understanding-javascript-4ffk)
-- [Dev.to/JS] [React vs. Svelte](https://dev.to/northwillov/react-vs-svelte-25e6)
-- [Dev.to/JS] [35+ HTML 404 Page Templates](https://dev.to/stackfindover/35-html-404-page-templates-5bge)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
