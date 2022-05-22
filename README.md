@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [100DaysOfCode](https://dev.to/kirzin/100daysofcode-d45)
 - [Dev.to/JS] [My First Web App!](https://dev.to/eggowaffle/my-first-web-app-46ca)
 - [Dev.to/JS] [Transitioning Component Between Pages in Vue.js](https://dev.to/akbarnafisa/transitioning-component-between-pages-in-vuejs-30jd)
 - [Dev.to/JS] [How to change the development server port in Next.js](https://dev.to/codewithsnowbit/how-to-change-the-development-server-port-in-nextjs-3ohn)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [User registration and login with React and Axios](https://dev.to/asayerio_techblog/user-registration-and-login-with-react-and-axios-3o6j)
 - [Dev.to/JS] [How to build a dynamically resizable textarea?](https://dev.to/gabrielmlinassi/how-to-build-a-dynamic-resizable-textarea-38pf)
 - [Dev.to/JS] [How to accept online payments using Fincra](https://dev.to/voxboy2/how-to-accept-online-payments-using-fincra-4onc)
-- [Dev.to/JS] [FlatIron Journey: The Beginning](https://dev.to/smohiudd1688/flatiron-journey-the-beginning-39ji)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
