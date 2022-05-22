@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [what is defer attribute for script tag in html ?](https://dev.to/ili/what-is-defer-attribute-for-script-tag-in-html--1ol5)
 - [Dev.to/JS] [Open Source Adventures: Episode 59: What Opal Ruby is not](https://dev.to/taw/open-source-adventures-episode-59-what-opal-ruby-is-not-23mb)
 - [Dev.to/JS] [React Interview Challenge #2: Create a ToDo Component](https://dev.to/andrewheinke/react-interview-challenge-2-create-a-todo-component-1bhi)
 - [Dev.to/JS] [Quick guide to FaceApi Machine learning model for web - ML5.js](https://dev.to/seek4samurai/quick-guide-to-faceapi-machine-learning-model-for-web-ml5js-9mo)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Form Validation In Remix Using Zod](https://dev.to/ishanme/form-validation-in-remix-using-zod-4h3b)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Dev.to/JS] [[Discussion]What is your main aim of becoming a programmer?](https://dev.to/callmebobonwa/discussionwhat-is-your-main-aim-of-becoming-a-programmer-2d4e)
-- [Dev.to/JS] [JavaScript Ellipses: The Spread and Rest Syntax](https://dev.to/kai_wenzel/javascript-ellipses-the-spread-and-rest-syntax-307b)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
