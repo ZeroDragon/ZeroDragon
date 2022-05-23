@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Any advice for Google STEP program?](https://dev.to/cesar__dlr/any-advice-for-google-step-program-54l)
 - [Dev.to/JS] [How Iterators Work in javascript](https://dev.to/digomic/how-iterators-work-in-javascript-36oi)
 - [Dev.to/JS] [Thoughts on Abramov &amp; Appleton’s “Just JavaScript” by a Former Language Teacher, Current Coder, &amp; Serial Tutorial Buyer](https://dev.to/stackoverturf/thoughts-on-abramov-appletons-just-javascript-by-a-former-language-teacher-current-coder-serial-tutorial-buyer-58hi)
 - [Dev.to/JS] [Backend For MERN app](https://dev.to/swislokdev/backend-for-mern-app-3np6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Open Source Adventures: Episode 59: What Opal Ruby is not](https://dev.to/taw/open-source-adventures-episode-59-what-opal-ruby-is-not-23mb)
 - [Dev.to/JS] [React Interview Challenge #2: Create a ToDo Component](https://dev.to/andrewheinke/react-interview-challenge-2-create-a-todo-component-1bhi)
 - [Dev.to/JS] [Quick guide to FaceApi Machine learning model for web - ML5.js](https://dev.to/seek4samurai/quick-guide-to-faceapi-machine-learning-model-for-web-ml5js-9mo)
-- [Dev.to/JS] [Beginner&#39;s Guide to OOP in JavaScript](https://dev.to/rahulyadav139/beginners-guide-to-oop-in-javascript-4f8h)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
