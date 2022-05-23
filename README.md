@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
+- [Dev.to/JS] [Add spinner in Angular application with ngx-spinner](https://dev.to/pantpapasavvas/add-spinner-in-angular-application-with-ngx-spinner-10an)
+- [Lifehacker] [You’re Wrong About ‘Less’ vs. ‘Fewer’](https://lifehacker.com/you-re-wrong-about-less-vs-fewer-1848965273)
+- [Lifehacker] [What&#39;s New on HBO Max in June 2022](https://lifehacker.com/whats-new-on-hbo-max-in-june-2022-1848965468)
 - [Dev.to/JS] [I&#39;m working on an Expense Tracking App and I need your feedback](https://dev.to/pavelkeyzik/im-working-on-an-expense-tracking-app-and-i-need-your-feedback-44ad)
 - [Lifehacker] [What to Do If WhatsDrop Is Dropping Support for Your iPhone](https://lifehacker.com/what-to-do-if-whatsdrop-is-dropping-support-for-your-ip-1848963767)
 - [Dev.to/JS] [NodeJS and ExpressJS - Hello World 👨🏻‍💻](https://dev.to/justtanwa/nodejs-and-expressjs-hello-world-3eb3)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is learning font-end a prerequisite for a blockchain developer](https://dev.to/hassansayyed/is-learning-font-end-a-prerequisite-for-a-blockchain-developer-4a03)
 - [Dev.to/JS] [I built my first NPM package - it&#39;s a cache ⭐](https://dev.to/tqbit/i-created-my-first-npm-package-1ik6)
 - [Lifehacker] [The Best Way to Freeze Individual Portions of Shredded Chicken](https://lifehacker.com/the-best-way-to-freeze-individual-portions-of-shredded-1848962608)
-- [Dev.to/JS] [Open Source Adventures: Episode 60: How Opal Ruby represents basic data types](https://dev.to/taw/open-source-adventures-episode-60-how-opal-ruby-represents-basic-data-types-4gmk)
 - [Lifehacker] [How to Date Someone With Kids](https://lifehacker.com/how-to-date-someone-with-kids-1848946372)
 - [Lifehacker] [What We Know About Cannabis and Depression](https://lifehacker.com/what-we-know-about-cannabis-and-depression-1848963215)
 - [Lifehacker] [How to Make Your Camping and Outdoor Adventure Gear Actually Last](https://lifehacker.com/how-to-make-your-camping-and-outdoor-adventure-gear-act-1848962840)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
 - [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
-- [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
-- [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
-- [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
