@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Interview Question series](https://dev.to/talenttinaapi/react-interview-question-series-1agf)
 - [Dev.to/JS] [Kerassentials Reviews: Is It Worth Your Money Or Not?](https://dev.to/kerassentialsgo/kerassentials-reviews-is-it-worth-your-money-or-not-3kda)
 - [Dev.to/JS] [Transpiler vs Polyfills](https://dev.to/hshoja/transpiler-vs-polyfills-2j8a)
 - [Dev.to/JS] [Building React App with Module Federation and NextJS/React](https://dev.to/omher/building-react-app-with-module-federation-and-nextjsreact-1pkh)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to simply use Font Awesome 6 in React](https://dev.to/sobhandash/how-to-simply-use-font-awesome-6-in-react-1bm8)
 - [Dev.to/JS] [Callback Functions: Do we Need Them?](https://dev.to/smohiudd1688/callback-functions-whats-the-tea-1j8i)
 - [Dev.to/JS] [React Native Haptic Feedbacks](https://dev.to/santhoshumapathi/react-native-haptic-feedbacks-ieh)
-- [Dev.to/JS] [First Phase Reflection](https://dev.to/adriculous/first-phase-reflection-3652)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
