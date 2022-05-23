@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Learning Functional Programming in JavaScript Will Make You a Better Developer](https://dev.to/simeg/why-learning-functional-programming-in-javascript-will-make-you-a-better-developer-j72)
+- [Dev.to/JS] [Safeway | Made with Angular JS](https://dev.to/madewithjavascript/safeway-made-with-angular-js-2m92)
+- [Dev.to/JS] [AssemblyAI | Made with Next JS](https://dev.to/madewithjavascript/assemblyai-made-with-next-js-56f8)
+- [Lifehacker] [Add This Sneaky Speedwork Into Your Long Runs](https://lifehacker.com/add-this-sneaky-speedwork-into-your-long-runs-1848962307)
+- [Dev.to/JS] [Paracetamol.js💊| #123: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-123-explica-este-codigo-javascript-54j0)
+- [Dev.to/JS] [O que levar para viagem?](https://dev.to/fabiodeandrade/o-que-levar-para-viagem-4gbg)
+- [Lifehacker] [You Can Talk to Apple Support Using Sign Language](https://lifehacker.com/you-can-talk-to-apple-support-using-sign-language-1848962044)
 - [Dev.to/JS] [📚 Redux Toolkit Setup Tutorial](https://dev.to/raaynaldo/redux-toolkit-setup-tutorial-5fjf)
 - [Lifehacker] [11 Moments That Prove You&#39;re Finally an Adult, According to Lifehacker Readers](https://lifehacker.com/11-moments-that-prove-youre-finally-an-adult-according-1848956004)
 - [Dev.to/JS] [Writing local rules for ESLint](https://dev.to/jacobandrewsky/writing-local-rules-for-eslint-58bl)
@@ -32,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Framework Updates Suck, How to Make Them Suck&lpar;less&rpar;](https://dev.to/lob/javascript-framework-updates-suck-how-to-make-them-suckless-2nj3)
 - [Dev.to/JS] [Firebase 8 Vs 9: Compare Cloud Firestore CRUD Queries](https://dev.to/hirajatamil/firebase-8-vs-9-compare-cloud-firestore-crud-queries-5cn2)
 - [Dev.to/JS] [Node.js MySQL vs Node.js MySQL + Sculter.js &lpar;which one is better?&rpar;](https://dev.to/jahongir2007/nodejs-mysql-vs-nodejs-mysql-sculterjs-which-one-is-better-4649)
-- [Dev.to/JS] [Angular Standalone Components y su impacto en la modularidad](https://dev.to/danyparedes/angular-standalone-components-y-su-impacto-en-la-modularidad-195h)
-- [Dev.to/JS] [It&#39;s Back! QuasarConf 2022 - Call for Proposals](https://dev.to/quasar/its-back-quasarconf-2022-call-for-proposals-13mn)
-- [Dev.to/JS] [Local Storage for shopping cart in Javascript](https://dev.to/haamid/local-storage-for-shopping-cart-in-javascript-2mef)
-- [Dev.to/JS] [Teaching web applications to read QR codes and barcodes](https://dev.to/evrone/teaching-web-applications-to-read-qr-codes-and-barcodes-2308)
-- [Dev.to/JS] [Understanding React’s useEffect and useState Hooks](https://dev.to/syncfusion/understanding-reacts-useeffect-and-usestate-hooks-p13)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Taylor Swift Talks Cringe](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-taylor-sw-1848951959)
 - [Lifehacker] [11 of the Worst Pieces of &quot;Practical&quot; Advice Lifehacker Readers Ever Received](https://lifehacker.com/11-of-the-worst-pieces-of-practical-advice-lifehacker-1848951744)
 - [Lifehacker] [20 Movies That Capture the All the Drama of Prom](https://lifehacker.com/20-movies-that-capture-the-all-the-drama-of-prom-1848942635)
-- [Lifehacker] [WeWordle Is the Multiplayer Wordle That Is Currently Stressing Me Out](https://lifehacker.com/wewordle-is-the-multiplayer-wordle-that-is-currently-st-1848949895)
-- [Lifehacker] [13 Things Bleach Can Do Aside From Lifting Stains](https://lifehacker.com/13-things-bleach-can-do-aside-from-lifting-stains-1848948792)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
