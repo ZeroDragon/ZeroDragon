@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Callback Functions: Do we Need Them?](https://dev.to/smohiudd1688/callback-functions-whats-the-tea-1j8i)
+- [Dev.to/JS] [React Native Haptic Feedbacks](https://dev.to/santhoshumapathi/react-native-haptic-feedbacks-ieh)
 - [Dev.to/JS] [First Phase Reflection](https://dev.to/adriculous/first-phase-reflection-3652)
 - [Dev.to/JS] [Micro Frontends 101 👨🏻‍🏫](https://dev.to/rdforte/micro-frontends-101-han)
 - [Dev.to/JS] [Any advice for Google STEP program?](https://dev.to/cesar__dlr/any-advice-for-google-step-program-54l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Character Count Progress Bar in React](https://dev.to/salehmubashar/creating-a-character-count-progress-bar-in-react-3gni)
 - [Dev.to/JS] [Week 4 - Class is in session](https://dev.to/jwhitt3r/week-4-class-is-in-session-4m78)
 - [Dev.to/JS] [Koa Js : Part 1 - How to make a Koa server in 10 minutes!](https://dev.to/kachiic/koa-js-part-1-how-to-make-a-koa-server-in-10-minutes-3og9)
-- [Dev.to/JS] [what is defer attribute for script tag in html ?](https://dev.to/ili/what-is-defer-attribute-for-script-tag-in-html--1ol5)
-- [Dev.to/JS] [Open Source Adventures: Episode 59: What Opal Ruby is not](https://dev.to/taw/open-source-adventures-episode-59-what-opal-ruby-is-not-23mb)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
