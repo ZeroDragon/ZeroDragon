@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [📚 Redux Toolkit Setup Tutorial](https://dev.to/raaynaldo/redux-toolkit-setup-tutorial-5fjf)
+- [Lifehacker] [11 Moments That Prove You&#39;re Finally an Adult, According to Lifehacker Readers](https://lifehacker.com/11-moments-that-prove-youre-finally-an-adult-according-1848956004)
+- [Dev.to/JS] [Writing local rules for ESLint](https://dev.to/jacobandrewsky/writing-local-rules-for-eslint-58bl)
+- [Dev.to/JS] [Youtube/Twitch like hovering video player,keeps playing across pages](https://dev.to/sahilkashyap64/youtubetwitch-like-hovering-video-playerkeeps-playing-across-pages-3ej9)
 - [Dev.to/JS] [Vue Use State Effect - Your small and fast alternative to Vuex and Pinia.](https://dev.to/vue-storefront/vue-use-state-effect-your-small-and-fast-alternative-to-vuex-and-pinia-1gde)
 - [Lifehacker] [Don&#39;t Overthink These Things When You&#39;re Getting Into Fitness](https://lifehacker.com/dont-overthink-these-things-when-youre-getting-into-fit-1848957097)
 - [Dev.to/JS] [JavaScript Framework Updates Suck, How to Make Them Suck&lpar;less&rpar;](https://dev.to/lob/javascript-framework-updates-suck-how-to-make-them-suckless-2nj3)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Local Storage for shopping cart in Javascript](https://dev.to/haamid/local-storage-for-shopping-cart-in-javascript-2mef)
 - [Dev.to/JS] [Teaching web applications to read QR codes and barcodes](https://dev.to/evrone/teaching-web-applications-to-read-qr-codes-and-barcodes-2308)
 - [Dev.to/JS] [Understanding React’s useEffect and useState Hooks](https://dev.to/syncfusion/understanding-reacts-useeffect-and-usestate-hooks-p13)
-- [Dev.to/JS] [Introducing remotify.place](https://dev.to/flodev/introducing-remotifyplace-22p9)
-- [Dev.to/JS] [Open to suggestions on how I can learn more](https://dev.to/akinolapo/open-to-suggestion-on-how-i-can-learn-more-440f)
-- [Dev.to/JS] [Which Frontend Framework Would You Use For an Ecommerce Storefront?](https://dev.to/medusajs/which-frontend-framework-would-you-use-for-an-ecommerce-storefront-3apg)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [20 Movies That Capture the All the Drama of Prom](https://lifehacker.com/20-movies-that-capture-the-all-the-drama-of-prom-1848942635)
 - [Lifehacker] [WeWordle Is the Multiplayer Wordle That Is Currently Stressing Me Out](https://lifehacker.com/wewordle-is-the-multiplayer-wordle-that-is-currently-st-1848949895)
 - [Lifehacker] [13 Things Bleach Can Do Aside From Lifting Stains](https://lifehacker.com/13-things-bleach-can-do-aside-from-lifting-stains-1848948792)
-- [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
