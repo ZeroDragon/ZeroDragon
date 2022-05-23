@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Redux Walk-through](https://dev.to/aydotvin/react-redux-walk-through-4il1)
+- [Dev.to/JS] [Pure CSS Switch](https://dev.to/creatorsock/pure-css-switch-4fo1)
+- [Dev.to/JS] [NPM packages to generate Unique IDs for your next project 😎](https://dev.to/gulshanaggarwal/npm-packages-to-generate-unique-ids-for-your-next-project-1p3b)
+- [Dev.to/JS] [How to simply use Font Awesome 6 in React](https://dev.to/sobhandash/how-to-simply-use-font-awesome-6-in-react-1bm8)
 - [Dev.to/JS] [Callback Functions: Do we Need Them?](https://dev.to/smohiudd1688/callback-functions-whats-the-tea-1j8i)
 - [Dev.to/JS] [React Native Haptic Feedbacks](https://dev.to/santhoshumapathi/react-native-haptic-feedbacks-ieh)
 - [Dev.to/JS] [First Phase Reflection](https://dev.to/adriculous/first-phase-reflection-3652)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Iterators Work in javascript](https://dev.to/digomic/how-iterators-work-in-javascript-36oi)
 - [Dev.to/JS] [Thoughts on Abramov &amp; Appleton’s “Just JavaScript” by a Former Language Teacher, Current Coder, &amp; Serial Tutorial Buyer](https://dev.to/stackoverturf/thoughts-on-abramov-appletons-just-javascript-by-a-former-language-teacher-current-coder-serial-tutorial-buyer-58hi)
 - [Dev.to/JS] [Backend For MERN app](https://dev.to/swislokdev/backend-for-mern-app-3np6)
-- [Dev.to/JS] [Code Fully Fledged Trivia Games in Discord.JS](https://dev.to/elitezen/code-fully-fledged-trivia-games-in-discordjs-ge8)
-- [Dev.to/JS] [Creating a Character Count Progress Bar in React](https://dev.to/salehmubashar/creating-a-character-count-progress-bar-in-react-3gni)
-- [Dev.to/JS] [Week 4 - Class is in session](https://dev.to/jwhitt3r/week-4-class-is-in-session-4m78)
-- [Dev.to/JS] [Koa Js : Part 1 - How to make a Koa server in 10 minutes!](https://dev.to/kachiic/koa-js-part-1-how-to-make-a-koa-server-in-10-minutes-3og9)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
