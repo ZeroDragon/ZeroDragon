@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sending messages to clients in realtime using Server-sent Events, NodeJS and React](https://dev.to/andreyen/sending-messages-to-clients-in-realtime-using-server-sent-events-nodejs-and-react-2g90)
+- [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Compare the Triplets](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-compare-the-triplets-294h)
+- [Dev.to/JS] [Javascript Function number masking](https://dev.to/talenttinaapi/javascript-function-number-masking-553l)
+- [Lifehacker] [Throw Out These Recalled Jif Peanut Butters &#39;Immediately,&#39; FDA Says](https://lifehacker.com/throw-out-these-recalled-jif-peanut-butters-immediately-1848962436)
+- [Dev.to/JS] [How to Get Hooked Up to the Hyperverse From Scratch](https://dev.to/shaincodes/how-to-get-hooked-up-to-the-hyperverse-from-scratch-1o6b)
+- [Lifehacker] [Don’t Retire on a Cruise Ship, FFS](https://lifehacker.com/don-t-retire-on-a-cruise-ship-ffs-1848962437)
 - [Dev.to/JS] [Why Learning Functional Programming in JavaScript Will Make You a Better Developer](https://dev.to/simeg/why-learning-functional-programming-in-javascript-will-make-you-a-better-developer-j72)
 - [Dev.to/JS] [Safeway | Made with Angular JS](https://dev.to/madewithjavascript/safeway-made-with-angular-js-2m92)
 - [Dev.to/JS] [AssemblyAI | Made with Next JS](https://dev.to/madewithjavascript/assemblyai-made-with-next-js-56f8)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Moments That Prove You&#39;re Finally an Adult, According to Lifehacker Readers](https://lifehacker.com/11-moments-that-prove-youre-finally-an-adult-according-1848956004)
 - [Dev.to/JS] [Writing local rules for ESLint](https://dev.to/jacobandrewsky/writing-local-rules-for-eslint-58bl)
 - [Dev.to/JS] [Youtube/Twitch like hovering video player,keeps playing across pages](https://dev.to/sahilkashyap64/youtubetwitch-like-hovering-video-playerkeeps-playing-across-pages-3ej9)
-- [Dev.to/JS] [Vue Use State Effect - Your small and fast alternative to Vuex and Pinia.](https://dev.to/vue-storefront/vue-use-state-effect-your-small-and-fast-alternative-to-vuex-and-pinia-1gde)
 - [Lifehacker] [Don&#39;t Overthink These Things When You&#39;re Getting Into Fitness](https://lifehacker.com/dont-overthink-these-things-when-youre-getting-into-fit-1848957097)
-- [Dev.to/JS] [JavaScript Framework Updates Suck, How to Make Them Suck&lpar;less&rpar;](https://dev.to/lob/javascript-framework-updates-suck-how-to-make-them-suckless-2nj3)
-- [Dev.to/JS] [Firebase 8 Vs 9: Compare Cloud Firestore CRUD Queries](https://dev.to/hirajatamil/firebase-8-vs-9-compare-cloud-firestore-crud-queries-5cn2)
-- [Dev.to/JS] [Node.js MySQL vs Node.js MySQL + Sculter.js &lpar;which one is better?&rpar;](https://dev.to/jahongir2007/nodejs-mysql-vs-nodejs-mysql-sculterjs-which-one-is-better-4649)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Complain About Bad Service Without Being a Jerk](https://lifehacker.com/how-to-complain-about-bad-service-without-being-an-assh-1848951818)
 - [Lifehacker] [How to Get Your Reluctant Toddler to Poop in the Potty](https://lifehacker.com/how-to-get-your-reluctant-toddler-to-poop-in-the-potty-1848953163)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Taylor Swift Talks Cringe](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-taylor-sw-1848951959)
-- [Lifehacker] [11 of the Worst Pieces of &quot;Practical&quot; Advice Lifehacker Readers Ever Received](https://lifehacker.com/11-of-the-worst-pieces-of-practical-advice-lifehacker-1848951744)
-- [Lifehacker] [20 Movies That Capture the All the Drama of Prom](https://lifehacker.com/20-movies-that-capture-the-all-the-drama-of-prom-1848942635)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
