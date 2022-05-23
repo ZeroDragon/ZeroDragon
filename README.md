@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Adventures: Episode 60: How Opal Ruby represents basic data types](https://dev.to/taw/open-source-adventures-episode-60-how-opal-ruby-represents-basic-data-types-4gmk)
+- [Lifehacker] [How to Date Someone With Kids](https://lifehacker.com/how-to-date-someone-with-kids-1848946372)
+- [Dev.to/JS] [Basics to Master topics in javascript 🔥🔥everyone must know](https://dev.to/ranaharoon3222/basics-to-master-topics-in-javascript-everyone-must-know-3p23)
 - [Lifehacker] [What We Know About Cannabis and Depression](https://lifehacker.com/what-we-know-about-cannabis-and-depression-1848963215)
 - [Dev.to/JS] [JavaScript: Not-Not &lpar;!!&rpar; Anti-Pattern](https://dev.to/rfornal/javascript-not-not-anti-pattern-3m5n)
 - [Dev.to/JS] [Plumbing](https://dev.to/pab2lo/plumbing-i6g)
@@ -37,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Compare the Triplets](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-compare-the-triplets-294h)
 - [Dev.to/JS] [Javascript Function number masking](https://dev.to/talenttinaapi/javascript-function-number-masking-553l)
 - [Lifehacker] [Throw Out These Recalled Jif Peanut Butters &#39;Immediately,&#39; FDA Says](https://lifehacker.com/throw-out-these-recalled-jif-peanut-butters-immediately-1848962436)
-- [Dev.to/JS] [How to Get Hooked Up to the Hyperverse From Scratch](https://dev.to/shaincodes/how-to-get-hooked-up-to-the-hyperverse-from-scratch-1o6b)
 - [Lifehacker] [Don’t Retire on a Cruise Ship, FFS](https://lifehacker.com/don-t-retire-on-a-cruise-ship-ffs-1848962437)
-- [Dev.to/JS] [Why Learning Functional Programming in JavaScript Will Make You a Better Developer](https://dev.to/simeg/why-learning-functional-programming-in-javascript-will-make-you-a-better-developer-j72)
 - [Lifehacker] [Add This Sneaky Speedwork Into Your Long Runs](https://lifehacker.com/add-this-sneaky-speedwork-into-your-long-runs-1848962307)
 - [Lifehacker] [You Can Talk to Apple Support Using Sign Language](https://lifehacker.com/you-can-talk-to-apple-support-using-sign-language-1848962044)
 - [Lifehacker] [11 Moments That Prove You&#39;re Finally an Adult, According to Lifehacker Readers](https://lifehacker.com/11-moments-that-prove-youre-finally-an-adult-according-1848956004)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 of the Best Cheap and Healthy Convenience Foods, According to Reddit](https://lifehacker.com/8-of-the-best-cheap-and-healthy-convenience-foods-acco-1848954708)
 - [Lifehacker] [You Should Prank Call Some Russian Officials to Protest the War in Ukraine](https://lifehacker.com/you-should-prank-call-some-russian-officials-to-protest-1848955269)
 - [Lifehacker] [Jammed Lemon Seeds and Other Dishwasher Mishaps &lpar;and How to Fix Them&rpar;](https://lifehacker.com/jammed-lemon-seeds-and-other-dishwasher-mishaps-and-ho-1848954814)
-- [Lifehacker] [8 Podcasts About Fascinating Scams](https://lifehacker.com/8-podcasts-about-fascinating-scams-1848954495)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
