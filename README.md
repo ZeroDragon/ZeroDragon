@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building React App with Module Federation and NextJS/React](https://dev.to/omher/building-react-app-with-module-federation-and-nextjsreact-1pkh)
+- [Dev.to/JS] [Change Detection without Change Detection](https://dev.to/this-is-angular/change-detection-without-change-detection-5pa)
+- [Dev.to/JS] [Upload to S3 without losing you sanity](https://dev.to/datner/upload-to-s3-without-losing-you-sanity-291n)
 - [Dev.to/JS] [React Redux Walk-through](https://dev.to/aydotvin/react-redux-walk-through-4il1)
 - [Dev.to/JS] [Pure CSS Switch](https://dev.to/creatorsock/pure-css-switch-4fo1)
 - [Dev.to/JS] [NPM packages to generate Unique IDs for your next project 😎](https://dev.to/gulshanaggarwal/npm-packages-to-generate-unique-ids-for-your-next-project-1p3b)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [First Phase Reflection](https://dev.to/adriculous/first-phase-reflection-3652)
 - [Dev.to/JS] [Micro Frontends 101 👨🏻‍🏫](https://dev.to/rdforte/micro-frontends-101-han)
 - [Dev.to/JS] [Any advice for Google STEP program?](https://dev.to/cesar__dlr/any-advice-for-google-step-program-54l)
-- [Dev.to/JS] [How Iterators Work in javascript](https://dev.to/digomic/how-iterators-work-in-javascript-36oi)
-- [Dev.to/JS] [Thoughts on Abramov &amp; Appleton’s “Just JavaScript” by a Former Language Teacher, Current Coder, &amp; Serial Tutorial Buyer](https://dev.to/stackoverturf/thoughts-on-abramov-appletons-just-javascript-by-a-former-language-teacher-current-coder-serial-tutorial-buyer-58hi)
-- [Dev.to/JS] [Backend For MERN app](https://dev.to/swislokdev/backend-for-mern-app-3np6)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
