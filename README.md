@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Local Storage for shopping cart in Javascript](https://dev.to/haamid/local-storage-for-shopping-cart-in-javascript-2mef)
+- [Dev.to/JS] [Teaching web applications to read QR codes and barcodes](https://dev.to/evrone/teaching-web-applications-to-read-qr-codes-and-barcodes-2308)
+- [Dev.to/JS] [Introducing remotify.place](https://dev.to/flodev/introducing-remotifyplace-22p9)
 - [Dev.to/JS] [Open to suggestions on how I can learn more](https://dev.to/akinolapo/open-to-suggestion-on-how-i-can-learn-more-440f)
 - [Dev.to/JS] [Which Frontend Framework Would You Use For an Ecommerce Storefront?](https://dev.to/medusajs/which-frontend-framework-would-you-use-for-an-ecommerce-storefront-3apg)
 - [Dev.to/JS] [Prevent Endless Loops in JavaScript](https://dev.to/ingosteinke/prevent-endless-loops-in-javascript-4chi)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Interview Question series](https://dev.to/talenttinaapi/react-interview-question-series-1agf)
 - [Dev.to/JS] [Kerassentials Reviews: Is It Worth Your Money Or Not?](https://dev.to/kerassentialsgo/kerassentials-reviews-is-it-worth-your-money-or-not-3kda)
 - [Dev.to/JS] [Transpiler vs Polyfills](https://dev.to/hshoja/transpiler-vs-polyfills-2j8a)
-- [Dev.to/JS] [Building React App with Module Federation and NextJS/React](https://dev.to/omher/building-react-app-with-module-federation-and-nextjsreact-1pkh)
-- [Dev.to/JS] [Change Detection without Change Detection](https://dev.to/this-is-angular/change-detection-without-change-detection-5pa)
-- [Dev.to/JS] [Upload to S3 without losing you sanity](https://dev.to/datner/upload-to-s3-without-losing-you-sanity-291n)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
