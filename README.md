@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing Scrum Toolkit #3 - Server with Node, TypeScript, Websocket and TypeORM](https://dev.to/meatboy/writing-scrum-toolkit-3-server-with-node-typescript-websocket-and-typeorm-47ka)
+- [Lifehacker] [How to Get on an Interviewer’s Good Side &lpar;Before Your Interview&rpar;](https://lifehacker.com/how-to-get-on-an-interviewer-s-good-side-before-your-i-1848963259)
+- [Dev.to/JS] [Writing Scrum Toolkit #2 - React, TypeScript &amp; Websocket Setup for Client](https://dev.to/meatboy/writing-scrum-toolkit-2-react-typescript-websocket-setup-for-client-3320)
+- [Dev.to/JS] [Open Source Adventures: Episode 61: How Opal Ruby represents classes](https://dev.to/taw/open-source-adventures-episode-61-how-opal-ruby-represents-classes-2eo0)
+- [Dev.to/JS] [Marketcube | Made with Meteor JS](https://dev.to/madewithjavascript/marketcube-made-with-meteor-js-1ifa)
 - [Lifehacker] [Google&#39;s AI Can Help You Get Your Next Job](https://lifehacker.com/googles-ai-can-help-you-get-your-next-job-1848962921)
 - [Dev.to/JS] [CORS issues resolved](https://dev.to/randywritescode/cors-issues-resolved-4p9h)
 - [Lifehacker] [Five Ways to Get a Healthier, Greener Lawn](https://lifehacker.com/five-ways-to-get-a-healthier-greener-lawn-1848963601)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What We Know About Cannabis and Depression](https://lifehacker.com/what-we-know-about-cannabis-and-depression-1848963215)
 - [Dev.to/JS] [JavaScript: Not-Not &lpar;!!&rpar; Anti-Pattern](https://dev.to/rfornal/javascript-not-not-anti-pattern-3m5n)
 - [Dev.to/JS] [Plumbing](https://dev.to/pab2lo/plumbing-i6g)
-- [Dev.to/JS] [Question: How to import Nuxt object in External JS file? to allow me to use all project plugins](https://dev.to/muhammadmoftah/question-how-to-import-nuxt-object-in-external-js-fileto-allow-me-to-use-all-project-plugins-pnl)
-- [Dev.to/JS] [Intro To creating a React App and Understanding React Folder Structure.](https://dev.to/skkyfallen/intro-to-creating-a-react-app-and-understanding-react-folder-structure-1hgk)
-- [Dev.to/JS] [Day-92 Training At Ryaz](https://dev.to/mahin651/day-91-training-at-ryaz-1m54)
 - [Lifehacker] [How to Make Your Camping and Outdoor Adventure Gear Actually Last](https://lifehacker.com/how-to-make-your-camping-and-outdoor-adventure-gear-act-1848962840)
-- [Dev.to/JS] [console.log&lpar;&#39;How to master arrays?&#39;&rpar;](https://dev.to/kai_wenzel/consoleloghow-to-master-arrays-3i0o)
 - [Lifehacker] [Chicken Thighs Are &#39;Healthy,&#39; Too](https://lifehacker.com/chicken-thighs-are-healthy-too-1848954478)
 - [Lifehacker] [Throw Out These Recalled Jif Peanut Butters &#39;Immediately,&#39; FDA Says](https://lifehacker.com/throw-out-these-recalled-jif-peanut-butters-immediately-1848962436)
 - [Lifehacker] [Don’t Retire on a Cruise Ship, FFS](https://lifehacker.com/don-t-retire-on-a-cruise-ship-ffs-1848962437)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
 - [Lifehacker] [How to Read a Whiskey Label Without Embarrassing Yourself](https://lifehacker.com/how-to-read-a-whiskey-label-without-embarrassing-yourse-1848954670)
 - [Lifehacker] [What Really Happens When You Block Someone on your iPhone?](https://lifehacker.com/what-really-happens-when-you-block-someone-on-your-ipho-1848955621)
-- [Lifehacker] [Why 1Password Is Now the Best Password Manager for Mac](https://lifehacker.com/why-1password-is-now-the-best-password-manager-for-mac-1848947731)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
