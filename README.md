@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I&#39;m working on an Expense Tracking App and I need your feedback](https://dev.to/pavelkeyzik/im-working-on-an-expense-tracking-app-and-i-need-your-feedback-44ad)
+- [Lifehacker] [What to Do If WhatsDrop Is Dropping Support for Your iPhone](https://lifehacker.com/what-to-do-if-whatsdrop-is-dropping-support-for-your-ip-1848963767)
+- [Dev.to/JS] [NodeJS and ExpressJS - Hello World 👨🏻‍💻](https://dev.to/justtanwa/nodejs-and-expressjs-hello-world-3eb3)
+- [Dev.to/JS] [5 Best JavaScript libraries 2022](https://dev.to/naddurkostia/5-best-javascript-libraries-2022-46b1)
+- [Lifehacker] [You Don’t Need ADHD to Use These ADHD Productivity Hacks](https://lifehacker.com/you-don-t-need-adhd-to-use-these-adhd-productivity-hack-1848964773)
 - [Dev.to/JS] [Writing Scrum Toolkit #3 - Server with Node, TypeScript, Websocket and TypeORM](https://dev.to/meatboy/writing-scrum-toolkit-3-server-with-node-typescript-websocket-and-typeorm-47ka)
 - [Lifehacker] [How to Get on an Interviewer’s Good Side &lpar;Before Your Interview&rpar;](https://lifehacker.com/how-to-get-on-an-interviewer-s-good-side-before-your-i-1848963259)
 - [Dev.to/JS] [Writing Scrum Toolkit #2 - React, TypeScript &amp; Websocket Setup for Client](https://dev.to/meatboy/writing-scrum-toolkit-2-react-typescript-websocket-setup-for-client-3320)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Freeze Individual Portions of Shredded Chicken](https://lifehacker.com/the-best-way-to-freeze-individual-portions-of-shredded-1848962608)
 - [Dev.to/JS] [Open Source Adventures: Episode 60: How Opal Ruby represents basic data types](https://dev.to/taw/open-source-adventures-episode-60-how-opal-ruby-represents-basic-data-types-4gmk)
 - [Lifehacker] [How to Date Someone With Kids](https://lifehacker.com/how-to-date-someone-with-kids-1848946372)
-- [Dev.to/JS] [Basics to Master topics in javascript 🔥🔥everyone must know](https://dev.to/ranaharoon3222/basics-to-master-topics-in-javascript-everyone-must-know-3p23)
 - [Lifehacker] [What We Know About Cannabis and Depression](https://lifehacker.com/what-we-know-about-cannabis-and-depression-1848963215)
-- [Dev.to/JS] [JavaScript: Not-Not &lpar;!!&rpar; Anti-Pattern](https://dev.to/rfornal/javascript-not-not-anti-pattern-3m5n)
-- [Dev.to/JS] [Plumbing](https://dev.to/pab2lo/plumbing-i6g)
 - [Lifehacker] [How to Make Your Camping and Outdoor Adventure Gear Actually Last](https://lifehacker.com/how-to-make-your-camping-and-outdoor-adventure-gear-act-1848962840)
 - [Lifehacker] [Chicken Thighs Are &#39;Healthy,&#39; Too](https://lifehacker.com/chicken-thighs-are-healthy-too-1848954478)
 - [Lifehacker] [Throw Out These Recalled Jif Peanut Butters &#39;Immediately,&#39; FDA Says](https://lifehacker.com/throw-out-these-recalled-jif-peanut-butters-immediately-1848962436)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Pick Up the Tab Without Things Getting Awkward](https://lifehacker.com/how-to-pick-up-the-tab-without-things-getting-awkward-1848956316)
 - [Lifehacker] [Your Next Seltzer Needs Some Jam](https://lifehacker.com/your-next-seltzer-needs-some-jam-1848954237)
 - [Lifehacker] [How to Help Convince Tech Companies to Make a Smaller Smartphone](https://lifehacker.com/how-to-help-convince-tech-companies-to-make-a-smaller-s-1848954626)
-- [Lifehacker] [How to Read a Whiskey Label Without Embarrassing Yourself](https://lifehacker.com/how-to-read-a-whiskey-label-without-embarrassing-yourse-1848954670)
-- [Lifehacker] [What Really Happens When You Block Someone on your iPhone?](https://lifehacker.com/what-really-happens-when-you-block-someone-on-your-ipho-1848955621)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
