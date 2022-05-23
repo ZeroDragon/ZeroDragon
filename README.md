@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Node.js MySQL vs Node.js MySQL + Sculter.js &lpar;which one is better?&rpar;](https://dev.to/jahongir2007/nodejs-mysql-vs-nodejs-mysql-sculterjs-which-one-is-better-4649)
+- [Dev.to/JS] [Angular Standalone Components y su impacto en la modularidad](https://dev.to/danyparedes/angular-standalone-components-y-su-impacto-en-la-modularidad-195h)
+- [Dev.to/JS] [It&#39;s Back! QuasarConf 2022 - Call for Proposals](https://dev.to/quasar/its-back-quasarconf-2022-call-for-proposals-13mn)
 - [Dev.to/JS] [Local Storage for shopping cart in Javascript](https://dev.to/haamid/local-storage-for-shopping-cart-in-javascript-2mef)
 - [Dev.to/JS] [Teaching web applications to read QR codes and barcodes](https://dev.to/evrone/teaching-web-applications-to-read-qr-codes-and-barcodes-2308)
 - [Dev.to/JS] [Introducing remotify.place](https://dev.to/flodev/introducing-remotifyplace-22p9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ng-News: Episode 22/20](https://dev.to/rainerhahnekamp/ng-news-episode-2220-5c2a)
 - [Dev.to/JS] [A UseDarkMode react hook for everyone!](https://dev.to/willholmes/a-usedarkmode-react-hook-for-everyone-2nka)
 - [Dev.to/JS] [D3.js](https://dev.to/youssefbendrio5/d3js-1j28)
-- [Dev.to/JS] [React Interview Question series](https://dev.to/talenttinaapi/react-interview-question-series-1agf)
-- [Dev.to/JS] [Kerassentials Reviews: Is It Worth Your Money Or Not?](https://dev.to/kerassentialsgo/kerassentials-reviews-is-it-worth-your-money-or-not-3kda)
-- [Dev.to/JS] [Transpiler vs Polyfills](https://dev.to/hshoja/transpiler-vs-polyfills-2j8a)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
