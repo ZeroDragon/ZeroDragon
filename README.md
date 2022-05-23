@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue Use State Effect - Your small and fast alternative to Vuex and Pinia.](https://dev.to/vue-storefront/vue-use-state-effect-your-small-and-fast-alternative-to-vuex-and-pinia-1gde)
+- [Lifehacker] [Don&#39;t Overthink These Things When You&#39;re Getting Into Fitness](https://lifehacker.com/dont-overthink-these-things-when-youre-getting-into-fit-1848957097)
+- [Dev.to/JS] [JavaScript Framework Updates Suck, How to Make Them Suck&lpar;less&rpar;](https://dev.to/lob/javascript-framework-updates-suck-how-to-make-them-suckless-2nj3)
+- [Dev.to/JS] [Firebase 8 Vs 9: Compare Cloud Firestore CRUD Queries](https://dev.to/hirajatamil/firebase-8-vs-9-compare-cloud-firestore-crud-queries-5cn2)
 - [Dev.to/JS] [Node.js MySQL vs Node.js MySQL + Sculter.js &lpar;which one is better?&rpar;](https://dev.to/jahongir2007/nodejs-mysql-vs-nodejs-mysql-sculterjs-which-one-is-better-4649)
 - [Dev.to/JS] [Angular Standalone Components y su impacto en la modularidad](https://dev.to/danyparedes/angular-standalone-components-y-su-impacto-en-la-modularidad-195h)
 - [Dev.to/JS] [It&#39;s Back! QuasarConf 2022 - Call for Proposals](https://dev.to/quasar/its-back-quasarconf-2022-call-for-proposals-13mn)
 - [Dev.to/JS] [Local Storage for shopping cart in Javascript](https://dev.to/haamid/local-storage-for-shopping-cart-in-javascript-2mef)
 - [Dev.to/JS] [Teaching web applications to read QR codes and barcodes](https://dev.to/evrone/teaching-web-applications-to-read-qr-codes-and-barcodes-2308)
+- [Dev.to/JS] [Understanding React’s useEffect and useState Hooks](https://dev.to/syncfusion/understanding-reacts-useeffect-and-usestate-hooks-p13)
 - [Dev.to/JS] [Introducing remotify.place](https://dev.to/flodev/introducing-remotifyplace-22p9)
 - [Dev.to/JS] [Open to suggestions on how I can learn more](https://dev.to/akinolapo/open-to-suggestion-on-how-i-can-learn-more-440f)
 - [Dev.to/JS] [Which Frontend Framework Would You Use For an Ecommerce Storefront?](https://dev.to/medusajs/which-frontend-framework-would-you-use-for-an-ecommerce-storefront-3apg)
-- [Dev.to/JS] [Prevent Endless Loops in JavaScript](https://dev.to/ingosteinke/prevent-endless-loops-in-javascript-4chi)
-- [Dev.to/JS] [Ng-News: Episode 22/20](https://dev.to/rainerhahnekamp/ng-news-episode-2220-5c2a)
-- [Dev.to/JS] [A UseDarkMode react hook for everyone!](https://dev.to/willholmes/a-usedarkmode-react-hook-for-everyone-2nka)
-- [Dev.to/JS] [D3.js](https://dev.to/youssefbendrio5/d3js-1j28)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [WeWordle Is the Multiplayer Wordle That Is Currently Stressing Me Out](https://lifehacker.com/wewordle-is-the-multiplayer-wordle-that-is-currently-st-1848949895)
 - [Lifehacker] [13 Things Bleach Can Do Aside From Lifting Stains](https://lifehacker.com/13-things-bleach-can-do-aside-from-lifting-stains-1848948792)
 - [Lifehacker] [How to Prevent a Bear Attack](https://lifehacker.com/how-to-prevent-a-bear-attack-1848951820)
-- [Lifehacker] [How to Install the Windows 11 2H22 Beta Now](https://lifehacker.com/how-to-install-the-windows-11-2h22-beta-now-1848950683)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
