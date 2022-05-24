@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Adventures: Episode 62: Ruby2JS](https://dev.to/taw/open-source-adventures-episode-62-ruby2js-119i)
 - [Dev.to/JS] [Why Javascript async functions return promises?!](https://dev.to/johiny/why-javascript-async-functions-return-promises-dkf)
 - [Dev.to/JS] [#22: E2E Development With Static Web Apps](https://dev.to/azure/22-e2e-development-with-static-web-apps-1bi)
 - [Lifehacker] [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google&#39;s AI Can Help You Get Your Next Job](https://lifehacker.com/googles-ai-can-help-you-get-your-next-job-1848962921)
 - [Dev.to/JS] [CORS issues resolved](https://dev.to/randywritescode/cors-issues-resolved-4p9h)
 - [Lifehacker] [Five Ways to Get a Healthier, Greener Lawn](https://lifehacker.com/five-ways-to-get-a-healthier-greener-lawn-1848963601)
-- [Dev.to/JS] [8 Fun APIs For Your Next Project [ PART-II ]](https://dev.to/harshsinha17/8-fun-apis-for-your-next-project-part-ii--m9h)
 - [Lifehacker] [The Best Way to Freeze Individual Portions of Shredded Chicken](https://lifehacker.com/the-best-way-to-freeze-individual-portions-of-shredded-1848962608)
 - [Lifehacker] [How to Date Someone With Kids](https://lifehacker.com/how-to-date-someone-with-kids-1848946372)
 - [Lifehacker] [What We Know About Cannabis and Depression](https://lifehacker.com/what-we-know-about-cannabis-and-depression-1848963215)
