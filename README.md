@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use These Strategies to Dominate Your Scattered Brain](https://lifehacker.com/use-these-strategies-to-dominate-your-scattered-brain-1848969564)
+- [Dev.to/JS] [Payload is now completely free and open source](https://dev.to/payloadcms/payload-is-now-completely-free-and-open-source-5ack)
+- [Lifehacker] [How to Fix the &#39;LG IMS&#39; Phone Bug on T-Mobile](https://lifehacker.com/how-to-fix-the-lg-ims-phone-bug-on-t-mobile-1848968855)
 - [Dev.to/JS] [Day-93 Training At Ryaz](https://dev.to/mahin651/day-93-training-at-ryaz-3ep9)
 - [Lifehacker] [Why You Should Use an eSIM Card the Next Time You Travel](https://lifehacker.com/why-you-should-use-an-esim-card-the-next-time-you-trave-1848953726)
 - [Dev.to/JS] [How To Use EJS to Template Your Node Application with nodejs pure](https://dev.to/shadyalefrangy/how-to-use-ejs-to-template-your-node-application-with-nodejs-pure-3i26)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Avion | Made with Meteor JS](https://dev.to/madewithjavascript/avion-made-with-meteor-js-1he9)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2022](https://lifehacker.com/whats-new-on-disney-in-june-2022-1848968485)
 - [Dev.to/JS] [Multiple themes with JS and JSON](https://dev.to/bawelna0225/multiple-themes-with-js-and-json-2oba)
-- [Dev.to/JS] [Automate Your Teams Code Style Guide with Prettier](https://dev.to/thetombomb/automate-your-teams-code-style-guide-with-prettier-2bc8)
 - [Lifehacker] [The 7 Deadly Sins of Managing People](https://lifehacker.com/the-7-deadly-sins-of-managing-people-1848966408)
 - [Lifehacker] [Banish Squirrels From Your Garden Without Chemicals, Poison, or Traps](https://lifehacker.com/banish-squirrels-from-your-garden-without-chemicals-po-1848967074)
 - [Lifehacker] [10 Myths You Should Stop Believing About Your Pet](https://lifehacker.com/10-animal-myths-you-should-stop-believing-already-1848965671)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What We Know About Cannabis and Depression](https://lifehacker.com/what-we-know-about-cannabis-and-depression-1848963215)
 - [Lifehacker] [How to Make Your Camping and Outdoor Adventure Gear Actually Last](https://lifehacker.com/how-to-make-your-camping-and-outdoor-adventure-gear-act-1848962840)
 - [Lifehacker] [Chicken Thighs Are &#39;Healthy,&#39; Too](https://lifehacker.com/chicken-thighs-are-healthy-too-1848954478)
-- [Lifehacker] [Throw Out These Recalled Jif Peanut Butters &#39;Immediately,&#39; FDA Says](https://lifehacker.com/throw-out-these-recalled-jif-peanut-butters-immediately-1848962436)
-- [Lifehacker] [Don’t Retire on a Cruise Ship, FFS](https://lifehacker.com/don-t-retire-on-a-cruise-ship-ffs-1848962437)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
