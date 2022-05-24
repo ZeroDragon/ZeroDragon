@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WHY LEARN JAVASCRIPT?](https://dev.to/dovey21/why-learn-javascript-ng6)
+- [Dev.to/JS] [Creating Client-Serverless Apps with FaunaDB and Nuxt JS](https://dev.to/asayerio_techblog/creating-client-serverless-apps-with-faunadb-and-nuxt-js-25oe)
+- [Dev.to/JS] [React &lpar;Native?&rpar; project](https://dev.to/brampayrequest/react-native-project-3ghp)
 - [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 - [Dev.to/JS] [Qué es React?](https://dev.to/djackskellington/que-es-react-4l76)
 - [Dev.to/JS] [[JS] Simple carousel](https://dev.to/emiliodominguez/simple-carousel-js-15md)
@@ -41,11 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Microsoft Teams Toolkit for VS Code is now GA 🎉](https://dev.to/azure/microsoft-teams-toolkit-for-vs-code-is-now-ga-4830)
 - [Dev.to/JS] [Day 2 : React start for Beginner - Component &lpar;Class&rpar;](https://dev.to/bipon68/day-2-react-start-for-beginner-component-class-4d0f)
 - [Lifehacker] [Use These Strategies to Dominate Your Scattered Brain](https://lifehacker.com/use-these-strategies-to-dominate-your-scattered-brain-1848969564)
-- [Dev.to/JS] [Payload is now completely free and open source](https://dev.to/payloadcms/payload-is-now-completely-free-and-open-source-5ack)
 - [Lifehacker] [How to Fix the &#39;LG IMS&#39; Phone Bug on T-Mobile](https://lifehacker.com/how-to-fix-the-lg-ims-phone-bug-on-t-mobile-1848968855)
-- [Dev.to/JS] [Day-93 Training At Ryaz](https://dev.to/mahin651/day-93-training-at-ryaz-3ep9)
 - [Lifehacker] [Why You Should Use an eSIM Card the Next Time You Travel](https://lifehacker.com/why-you-should-use-an-esim-card-the-next-time-you-trave-1848953726)
-- [Dev.to/JS] [How To Use EJS to Template Your Node Application with nodejs pure](https://dev.to/shadyalefrangy/how-to-use-ejs-to-template-your-node-application-with-nodejs-pure-3i26)
 - [Lifehacker] [It&#39;s OK to Make Ramen With Spaghetti, Actually &lpar;and How to Do It&rpar;](https://lifehacker.com/its-ok-to-make-ramen-with-spaghetti-actually-and-how-1848968667)
 - [Lifehacker] [How to Know If You’re in a Codependent Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-know-if-you-re-in-a-codependent-relationship-an-1848966032)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2022](https://lifehacker.com/whats-new-on-disney-in-june-2022-1848968485)
