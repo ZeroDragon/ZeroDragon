@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Created a Comic Book Store with Medusa, Gatsby, PayPal, and MeiliSearch](https://dev.to/medusajs/how-i-created-a-comic-book-store-with-medusa-gatsby-paypal-and-meilisearch-2k01)
+- [Dev.to/JS] [Cursus NestJS - Validation via les DTO](https://dev.to/webeleon/cursus-nestjs-validation-via-les-dto-2h25)
+- [Dev.to/JS] [Create Simple Tab Component with Pure React](https://dev.to/satel/create-simple-tab-component-with-pure-react-2pkd)
 - [Dev.to/JS] [Node.Js vs PHP: Which One Should You Choose?](https://dev.to/architprajapati/nodejs-vs-php-which-one-should-you-choose-5bel)
 - [Dev.to/JS] [Webhooks and How to Use Them in Strapi](https://dev.to/strapi/webhooks-and-how-to-use-them-in-strapi-34ni)
 - [Dev.to/JS] [What Is JavaScript Doing On Your Page](https://dev.to/lambdatest/what-is-javascript-doing-on-your-page-1oej)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unable to Log In](https://dev.to/piedadakers/unable-to-log-in-3jld)
 - [Dev.to/JS] [What level of React are you in?](https://dev.to/thremulant/what-level-of-react-are-you-in-46g)
 - [Dev.to/JS] [JavaScript Context Thoughts](https://dev.to/steveage/javascript-context-thoughts-1kei)
-- [Dev.to/JS] [0. CSS - Fundamentals](https://dev.to/maole/0-css-fundamentals-i06)
-- [Dev.to/JS] [How to create contract in solidity - iFour Technolab](https://dev.to/harshalsuthar/how-to-create-contract-in-solidity-ifour-technolab-4gko)
-- [Dev.to/JS] [Resist the Mist: Bouncing From Topic to Topic](https://dev.to/lostoneway/resist-the-mist-bouncing-from-topic-to-topic-4)
 - [Lifehacker] [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
 - [Lifehacker] [You’re Wrong About ‘Less’ vs. ‘Fewer’](https://lifehacker.com/you-re-wrong-about-less-vs-fewer-1848965273)
 - [Lifehacker] [What&#39;s New on HBO Max in June 2022](https://lifehacker.com/whats-new-on-hbo-max-in-june-2022-1848965468)
