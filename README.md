@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Are The Unwritten Rules of Flying?](https://lifehacker.com/what-are-the-unwritten-rules-of-flying-1848965043)
+- [Dev.to/JS] [The NodeJS 18 Fetch API](https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m)
+- [Dev.to/JS] [Condour - A simple way to interact with the backend from the frontend](https://dev.to/nigelrex/condour-a-simple-way-to-interact-with-the-backend-from-the-frontend-5be4)
 - [Dev.to/JS] [How to create a slick CSS animation from The Marvelous Mrs Maisel &lpar;TV series title sequence&rpar;](https://dev.to/robole/how-to-create-a-slick-css-animation-from-the-marvelous-mrs-maisel-tv-series-title-sequence-2c64)
 - [Dev.to/JS] [How to use async/await inside for loop in JavaScript](https://dev.to/rajeshroyal/how-to-use-asyncawait-inside-for-loop-in-javascript-4kh6)
 - [Dev.to/JS] [Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More](https://dev.to/wenura/build-and-deploy-a-react-admin-dashboard-app-with-theming-tables-charts-calendar-kanban-and-more-3nng)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Webhooks and How to Use Them in Strapi](https://dev.to/strapi/webhooks-and-how-to-use-them-in-strapi-34ni)
 - [Dev.to/JS] [What Is JavaScript Doing On Your Page](https://dev.to/lambdatest/what-is-javascript-doing-on-your-page-1oej)
 - [Dev.to/JS] [I made an AI that knows absolutely EVERYTHING](https://dev.to/virejdasani/i-made-an-ai-that-knows-absolutely-everything-4p0d)
-- [Dev.to/JS] [JS Solutions for CodeWars Katas: Part 2](https://dev.to/kimanikevin254/js-solutions-for-codewars-katas-part-2-30bm)
-- [Dev.to/JS] [Fit Form Keto [U.S] Reviews: A Healing Up Supplement For Fat Burn In 2022!](https://dev.to/fitformketoget/fit-form-keto-us-reviews-a-healing-up-supplement-for-fat-burn-in-2022-2n4n)
 - [Lifehacker] [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
 - [Lifehacker] [You’re Wrong About ‘Less’ vs. ‘Fewer’](https://lifehacker.com/you-re-wrong-about-less-vs-fewer-1848965273)
 - [Lifehacker] [What&#39;s New on HBO Max in June 2022](https://lifehacker.com/whats-new-on-hbo-max-in-june-2022-1848965468)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
 - [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
-- [Lifehacker] [How to Harvest Basil All Season Without Killing It](https://lifehacker.com/how-to-harvest-basil-all-season-without-killing-it-1848947116)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
