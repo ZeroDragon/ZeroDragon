@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Resist the Mist: Bouncing From Topic to Topic](https://dev.to/lostoneway/resist-the-mist-bouncing-from-topic-to-topic-4)
+- [Dev.to/JS] [Build forms using React-Hook-Form and ChakraUi](https://dev.to/wonder2210/build-forms-using-react-hook-form-and-chakraui-4087)
+- [Dev.to/JS] [Learn about open source and how to contribute](https://dev.to/anamdiazs/learn-about-open-source-and-how-to-contribute-3l52)
 - [Dev.to/JS] [Practices - Day1.Expanding cards](https://dev.to/lachellezhang/practices-day1expanding-cards-56od)
 - [Dev.to/JS] [Print left view of binary tree](https://dev.to/bvnkumar/print-left-view-of-binary-tree-554g)
 - [Dev.to/JS] [¿Qué es JavaScript?](https://dev.to/kprieto/que-es-javascript-3i00)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I&#39;m working on an Expense Tracking App and I need your feedback](https://dev.to/pavelkeyzik/im-working-on-an-expense-tracking-app-and-i-need-your-feedback-44ad)
 - [Lifehacker] [What to Do If WhatsDrop Is Dropping Support for Your iPhone](https://lifehacker.com/what-to-do-if-whatsdrop-is-dropping-support-for-your-ip-1848963767)
 - [Dev.to/JS] [NodeJS and ExpressJS - Hello World 👨🏻‍💻](https://dev.to/justtanwa/nodejs-and-expressjs-hello-world-3eb3)
-- [Dev.to/JS] [5 Best JavaScript libraries 2022](https://dev.to/naddurkostia/5-best-javascript-libraries-2022-46b1)
 - [Lifehacker] [You Don’t Need ADHD to Use These ADHD Productivity Hacks](https://lifehacker.com/you-don-t-need-adhd-to-use-these-adhd-productivity-hack-1848964773)
-- [Dev.to/JS] [Writing Scrum Toolkit #3 - Server with Node, TypeScript, Websocket and TypeORM](https://dev.to/meatboy/writing-scrum-toolkit-3-server-with-node-typescript-websocket-and-typeorm-47ka)
 - [Lifehacker] [How to Get on an Interviewer’s Good Side &lpar;Before Your Interview&rpar;](https://lifehacker.com/how-to-get-on-an-interviewer-s-good-side-before-your-i-1848963259)
-- [Dev.to/JS] [Writing Scrum Toolkit #2 - React, TypeScript &amp; Websocket Setup for Client](https://dev.to/meatboy/writing-scrum-toolkit-2-react-typescript-websocket-setup-for-client-3320)
 - [Lifehacker] [Google&#39;s AI Can Help You Get Your Next Job](https://lifehacker.com/googles-ai-can-help-you-get-your-next-job-1848962921)
 - [Lifehacker] [Five Ways to Get a Healthier, Greener Lawn](https://lifehacker.com/five-ways-to-get-a-healthier-greener-lawn-1848963601)
 - [Lifehacker] [The Best Way to Freeze Individual Portions of Shredded Chicken](https://lifehacker.com/the-best-way-to-freeze-individual-portions-of-shredded-1848962608)
