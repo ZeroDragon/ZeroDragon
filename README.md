@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scalable Frontend Architecture 🛫](https://dev.to/awedis/scalable-frontend-architecture-55g7)
+- [Dev.to/JS] [Titanium RC 11 available](https://dev.to/miga/titanium-rc-11-available-22ga)
+- [Lifehacker] [How to Know If You’re in a Codependent Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-know-if-you-re-in-a-codependent-relationship-an-1848966032)
+- [Dev.to/JS] [Avion | Made with Meteor JS](https://dev.to/madewithjavascript/avion-made-with-meteor-js-1he9)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2022](https://lifehacker.com/whats-new-on-disney-in-june-2022-1848968485)
 - [Dev.to/JS] [Multiple themes with JS and JSON](https://dev.to/bawelna0225/multiple-themes-with-js-and-json-2oba)
 - [Dev.to/JS] [Automate Your Teams Code Style Guide with Prettier](https://dev.to/thetombomb/automate-your-teams-code-style-guide-with-prettier-2bc8)
@@ -34,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Managing People](https://lifehacker.com/the-7-deadly-sins-of-managing-people-1848966408)
 - [Dev.to/JS] [Create a Modern Application with Django and Vue – Part One](https://dev.to/ericnanhu/create-a-modern-application-with-django-and-vue-part-one-11l5)
 - [Dev.to/JS] [Paracetamol.js💊| #124: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-124-explica-este-codigo-javascript-3d7g)
-- [Dev.to/JS] [Use NextAuth to authenticate API requests](https://dev.to/henrikvtcodes/use-nextauth-to-authenticate-api-requests-6gf)
 - [Lifehacker] [Banish Squirrels From Your Garden Without Chemicals, Poison, or Traps](https://lifehacker.com/banish-squirrels-from-your-garden-without-chemicals-po-1848967074)
-- [Dev.to/JS] [Logging variables in Chrome DevTools using logpoints](https://dev.to/petermekhaeil/logging-variables-in-chrome-devtools-using-logpoints-5fae)
-- [Dev.to/JS] [Complete guide to GraphQL in Angular [with example] 🚀](https://dev.to/signoz/complete-guide-to-graphql-in-angular-with-example-2fh5)
 - [Lifehacker] [10 Myths You Should Stop Believing About Your Pet](https://lifehacker.com/10-animal-myths-you-should-stop-believing-already-1848965671)
 - [Lifehacker] [The Hidden Meanings of Real Estate Jargon](https://lifehacker.com/the-hidden-meanings-of-real-estate-jargon-1848964620)
 - [Lifehacker] [We Should Be Eating More Savory Cookies](https://lifehacker.com/we-should-be-eating-more-savory-cookies-1848946154)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Retire on a Cruise Ship, FFS](https://lifehacker.com/don-t-retire-on-a-cruise-ship-ffs-1848962437)
 - [Lifehacker] [Add This Sneaky Speedwork Into Your Long Runs](https://lifehacker.com/add-this-sneaky-speedwork-into-your-long-runs-1848962307)
 - [Lifehacker] [You Can Talk to Apple Support Using Sign Language](https://lifehacker.com/you-can-talk-to-apple-support-using-sign-language-1848962044)
-- [Lifehacker] [11 Moments That Prove You&#39;re Finally an Adult, According to Lifehacker Readers](https://lifehacker.com/11-moments-that-prove-youre-finally-an-adult-according-1848956004)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
