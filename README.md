@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
+- [Dev.to/JS] [How to use celebrate with Node.js](https://dev.to/logrocket/how-to-use-celebrate-with-nodejs-15f5)
+- [Lifehacker] [‘Abbott Elementary’s’ Sheryl Lee Ralph Takes Us to School](https://lifehacker.com/abbott-elementary-s-sheryl-lee-ralph-takes-us-to-scho-1848969982)
 - [Lifehacker] [When to Watch the Tau Herculid Meteor Shower](https://lifehacker.com/when-to-watch-the-tau-herculid-meteor-shower-1848969011)
 - [Lifehacker] [WordAll Makes You Guess All the Words](https://lifehacker.com/wordall-makes-you-guess-all-the-words-1848968860)
 - [Dev.to/JS] [Slow network is detected. Fallback font will be used while loading...](https://dev.to/kodwings/slow-network-is-detected-fallback-font-will-be-used-while-loading-dnh)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It&#39;s OK to Make Ramen With Spaghetti, Actually &lpar;and How to Do It&rpar;](https://lifehacker.com/its-ok-to-make-ramen-with-spaghetti-actually-and-how-1848968667)
 - [Dev.to/JS] [Internet Explorer retires on June 15 - what can a developer do?](https://dev.to/ekeijl/internet-explorer-retires-on-june-15-what-can-a-developer-do-11d3)
 - [Dev.to/JS] [199. Binary Tree Right Side View 🚀](https://dev.to/samuelhinchliffe/199-binary-tree-right-side-view-14bp)
-- [Dev.to/JS] [Developing state of the art web apps with Node.js &lpar;QEWD-Up&rpar; back-end + NuxtJS/Vue.js front-end](https://dev.to/intersystems/developing-state-of-the-art-web-apps-with-nodejs-qewd-up-back-end-nuxtjsvuejs-front-end-4h7d)
 - [Lifehacker] [How to Know If You’re in a Codependent Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-know-if-you-re-in-a-codependent-relationship-an-1848966032)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2022](https://lifehacker.com/whats-new-on-disney-in-june-2022-1848968485)
 - [Lifehacker] [The 7 Deadly Sins of Managing People](https://lifehacker.com/the-7-deadly-sins-of-managing-people-1848966408)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Don’t Need ADHD to Use These ADHD Productivity Hacks](https://lifehacker.com/you-don-t-need-adhd-to-use-these-adhd-productivity-hack-1848964773)
 - [Lifehacker] [How to Get on an Interviewer’s Good Side &lpar;Before Your Interview&rpar;](https://lifehacker.com/how-to-get-on-an-interviewer-s-good-side-before-your-i-1848963259)
 - [Lifehacker] [Google&#39;s AI Can Help You Get Your Next Job](https://lifehacker.com/googles-ai-can-help-you-get-your-next-job-1848962921)
-- [Lifehacker] [Five Ways to Get a Healthier, Greener Lawn](https://lifehacker.com/five-ways-to-get-a-healthier-greener-lawn-1848963601)
-- [Lifehacker] [The Best Way to Freeze Individual Portions of Shredded Chicken](https://lifehacker.com/the-best-way-to-freeze-individual-portions-of-shredded-1848962608)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
