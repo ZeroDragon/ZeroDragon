@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Practices - Day1.Expanding cards](https://dev.to/lachellezhang/practices-day1expanding-cards-56od)
+- [Dev.to/JS] [Print left view of binary tree](https://dev.to/bvnkumar/print-left-view-of-binary-tree-554g)
 - [Dev.to/JS] [¿Qué es JavaScript?](https://dev.to/kprieto/que-es-javascript-3i00)
 - [Dev.to/JS] [Open Source Adventures: Episode 62: Ruby2JS](https://dev.to/taw/open-source-adventures-episode-62-ruby2js-119i)
 - [Dev.to/JS] [Why Javascript async functions return promises?!](https://dev.to/johiny/why-javascript-async-functions-return-promises-dkf)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing Scrum Toolkit #3 - Server with Node, TypeScript, Websocket and TypeORM](https://dev.to/meatboy/writing-scrum-toolkit-3-server-with-node-typescript-websocket-and-typeorm-47ka)
 - [Lifehacker] [How to Get on an Interviewer’s Good Side &lpar;Before Your Interview&rpar;](https://lifehacker.com/how-to-get-on-an-interviewer-s-good-side-before-your-i-1848963259)
 - [Dev.to/JS] [Writing Scrum Toolkit #2 - React, TypeScript &amp; Websocket Setup for Client](https://dev.to/meatboy/writing-scrum-toolkit-2-react-typescript-websocket-setup-for-client-3320)
-- [Dev.to/JS] [Open Source Adventures: Episode 61: How Opal Ruby represents classes](https://dev.to/taw/open-source-adventures-episode-61-how-opal-ruby-represents-classes-2eo0)
-- [Dev.to/JS] [Marketcube | Made with Meteor JS](https://dev.to/madewithjavascript/marketcube-made-with-meteor-js-1ifa)
 - [Lifehacker] [Google&#39;s AI Can Help You Get Your Next Job](https://lifehacker.com/googles-ai-can-help-you-get-your-next-job-1848962921)
 - [Lifehacker] [Five Ways to Get a Healthier, Greener Lawn](https://lifehacker.com/five-ways-to-get-a-healthier-greener-lawn-1848963601)
 - [Lifehacker] [The Best Way to Freeze Individual Portions of Shredded Chicken](https://lifehacker.com/the-best-way-to-freeze-individual-portions-of-shredded-1848962608)
