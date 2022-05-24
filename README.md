@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [What Are The Unwritten Rules of Flying?](https://lifehacker.com/what-are-the-unwritten-rules-of-flying-1848965043)
+- [Lifehacker] [The Hidden Meanings of Real Estate Jargon](https://lifehacker.com/the-hidden-meanings-of-real-estate-jargon-1848964620)
+- [Dev.to/JS] [Javascript Object.keys method](https://dev.to/talenttinaapi/javascript-objectkeys-method-fdn)
+- [Lifehacker] [We Should Be Eating More Savory Cookies](https://lifehacker.com/we-should-be-eating-more-savory-cookies-1848946154)
+- [Dev.to/JS] [Why Use ReactJS: The Complete Guide to Building Your Next Website](https://dev.to/maryajames/why-use-reactjs-the-complete-guide-to-building-your-next-website-3ad5)
+- [Dev.to/JS] [How to code a complete task management tool with Next.js and Altogic?](https://dev.to/altogic/how-to-code-a-complete-task-management-tool-with-nextjs-and-altogic-54c2)
+- [Dev.to/JS] [Store landing-page leads without a backend server in Next.js](https://dev.to/hackmamba/store-landing-page-leads-without-a-backend-server-in-nextjs-f9i)
+- [Lifehacker] [What Are Your Unwritten Rules of Flying?](https://lifehacker.com/what-are-the-unwritten-rules-of-flying-1848965043)
 - [Dev.to/JS] [The NodeJS 18 Fetch API](https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m)
 - [Dev.to/JS] [Condour - A simple way to interact with the backend from the frontend](https://dev.to/nigelrex/condour-a-simple-way-to-interact-with-the-backend-from-the-frontend-5be4)
 - [Dev.to/JS] [How to create a slick CSS animation from The Marvelous Mrs Maisel &lpar;TV series title sequence&rpar;](https://dev.to/robole/how-to-create-a-slick-css-animation-from-the-marvelous-mrs-maisel-tv-series-title-sequence-2c64)
@@ -32,14 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Created a Comic Book Store with Medusa, Gatsby, PayPal, and MeiliSearch](https://dev.to/medusajs/how-i-created-a-comic-book-store-with-medusa-gatsby-paypal-and-meilisearch-2k01)
 - [Dev.to/JS] [Cursus NestJS - Validation via les DTO](https://dev.to/webeleon/cursus-nestjs-validation-via-les-dto-2h25)
 - [Dev.to/JS] [Create Simple Tab Component with Pure React](https://dev.to/satel/create-simple-tab-component-with-pure-react-2pkd)
-- [Dev.to/JS] [Node.Js vs PHP: Which One Should You Choose?](https://dev.to/architprajapati/nodejs-vs-php-which-one-should-you-choose-5bel)
-- [Dev.to/JS] [Webhooks and How to Use Them in Strapi](https://dev.to/strapi/webhooks-and-how-to-use-them-in-strapi-34ni)
-- [Dev.to/JS] [What Is JavaScript Doing On Your Page](https://dev.to/lambdatest/what-is-javascript-doing-on-your-page-1oej)
-- [Dev.to/JS] [I made an AI that knows absolutely EVERYTHING](https://dev.to/virejdasani/i-made-an-ai-that-knows-absolutely-everything-4p0d)
 - [Lifehacker] [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
 - [Lifehacker] [You’re Wrong About ‘Less’ vs. ‘Fewer’](https://lifehacker.com/you-re-wrong-about-less-vs-fewer-1848965273)
 - [Lifehacker] [What&#39;s New on HBO Max in June 2022](https://lifehacker.com/whats-new-on-hbo-max-in-june-2022-1848965468)
-- [Lifehacker] [What to Do If WhatsDrop Is Dropping Support for Your iPhone](https://lifehacker.com/what-to-do-if-whatsdrop-is-dropping-support-for-your-ip-1848963767)
+- [Lifehacker] [What to Do If WhatsApp Is Dropping Support for Your iPhone](https://lifehacker.com/what-to-do-if-whatsdrop-is-dropping-support-for-your-ip-1848963767)
 - [Lifehacker] [You Don’t Need ADHD to Use These ADHD Productivity Hacks](https://lifehacker.com/you-don-t-need-adhd-to-use-these-adhd-productivity-hack-1848964773)
 - [Lifehacker] [How to Get on an Interviewer’s Good Side &lpar;Before Your Interview&rpar;](https://lifehacker.com/how-to-get-on-an-interviewer-s-good-side-before-your-i-1848963259)
 - [Lifehacker] [Google&#39;s AI Can Help You Get Your Next Job](https://lifehacker.com/googles-ai-can-help-you-get-your-next-job-1848962921)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
 - [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
-- [Lifehacker] [When to Wash Your Walls Before Painting, and When You Can Skip It](https://lifehacker.com/when-to-wash-your-walls-before-painting-and-when-you-c-1848946748)
-- [Lifehacker] [Use This Map to Find Out When Your Sent Mail Should Arrive](https://lifehacker.com/use-this-map-to-find-out-when-your-sent-mail-should-arr-1848946948)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
 
