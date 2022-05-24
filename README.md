@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
+- [Dev.to/JS] [Qué es React?](https://dev.to/djackskellington/que-es-react-4l76)
+- [Dev.to/JS] [[JS] Simple carousel](https://dev.to/emiliodominguez/simple-carousel-js-15md)
+- [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
+- [Dev.to/JS] [What I&#39;ve learned about React so far..](https://dev.to/c3m3z4c4/what-ive-learned-about-react-so-far-d6b)
 - [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
 - [Dev.to/JS] [How to use celebrate with Node.js](https://dev.to/logrocket/how-to-use-celebrate-with-nodejs-15f5)
 - [Lifehacker] [‘Abbott Elementary’s’ Sheryl Lee Ralph Takes Us to School](https://lifehacker.com/abbott-elementary-s-sheryl-lee-ralph-takes-us-to-scho-1848969982)
@@ -41,10 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day-93 Training At Ryaz](https://dev.to/mahin651/day-93-training-at-ryaz-3ep9)
 - [Lifehacker] [Why You Should Use an eSIM Card the Next Time You Travel](https://lifehacker.com/why-you-should-use-an-esim-card-the-next-time-you-trave-1848953726)
 - [Dev.to/JS] [How To Use EJS to Template Your Node Application with nodejs pure](https://dev.to/shadyalefrangy/how-to-use-ejs-to-template-your-node-application-with-nodejs-pure-3i26)
-- [Dev.to/JS] [Simple data fetching with custom React hooks and SWR](https://dev.to/cdransf/simple-data-fetching-with-custom-react-hooks-and-swr-3mcb)
 - [Lifehacker] [It&#39;s OK to Make Ramen With Spaghetti, Actually &lpar;and How to Do It&rpar;](https://lifehacker.com/its-ok-to-make-ramen-with-spaghetti-actually-and-how-1848968667)
-- [Dev.to/JS] [Internet Explorer retires on June 15 - what can a developer do?](https://dev.to/ekeijl/internet-explorer-retires-on-june-15-what-can-a-developer-do-11d3)
-- [Dev.to/JS] [199. Binary Tree Right Side View 🚀](https://dev.to/samuelhinchliffe/199-binary-tree-right-side-view-14bp)
 - [Lifehacker] [How to Know If You’re in a Codependent Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-know-if-you-re-in-a-codependent-relationship-an-1848966032)
 - [Lifehacker] [What&#39;s New on Disney+ in June 2022](https://lifehacker.com/whats-new-on-disney-in-june-2022-1848968485)
 - [Lifehacker] [The 7 Deadly Sins of Managing People](https://lifehacker.com/the-7-deadly-sins-of-managing-people-1848966408)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on HBO Max in June 2022](https://lifehacker.com/whats-new-on-hbo-max-in-june-2022-1848965468)
 - [Lifehacker] [What to Do If WhatsApp Is Dropping Support for Your iPhone](https://lifehacker.com/what-to-do-if-whatsdrop-is-dropping-support-for-your-ip-1848963767)
 - [Lifehacker] [You Don’t Need ADHD to Use These ADHD Productivity Hacks](https://lifehacker.com/you-don-t-need-adhd-to-use-these-adhd-productivity-hack-1848964773)
-- [Lifehacker] [How to Get on an Interviewer’s Good Side &lpar;Before Your Interview&rpar;](https://lifehacker.com/how-to-get-on-an-interviewer-s-good-side-before-your-i-1848963259)
-- [Lifehacker] [Google&#39;s AI Can Help You Get Your Next Job](https://lifehacker.com/googles-ai-can-help-you-get-your-next-job-1848962921)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
