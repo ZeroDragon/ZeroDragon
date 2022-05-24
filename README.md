@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Banish Squirrels From Your Garden Without Chemicals, Poison, or Traps](https://lifehacker.com/banish-squirrels-from-your-garden-without-chemicals-po-1848967074)
+- [Dev.to/JS] [Logging variables in Chrome DevTools using logpoints](https://dev.to/petermekhaeil/logging-variables-in-chrome-devtools-using-logpoints-5fae)
+- [Dev.to/JS] [Complete guide to GraphQL in Angular [with example] 🚀](https://dev.to/signoz/complete-guide-to-graphql-in-angular-with-example-2fh5)
+- [Lifehacker] [10 Myths You Should Stop Believing About Your Pet](https://lifehacker.com/10-animal-myths-you-should-stop-believing-already-1848965671)
 - [Lifehacker] [The Hidden Meanings of Real Estate Jargon](https://lifehacker.com/the-hidden-meanings-of-real-estate-jargon-1848964620)
 - [Dev.to/JS] [Javascript Object.keys method](https://dev.to/talenttinaapi/javascript-objectkeys-method-fdn)
 - [Lifehacker] [We Should Be Eating More Savory Cookies](https://lifehacker.com/we-should-be-eating-more-savory-cookies-1848946154)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use async/await inside for loop in JavaScript](https://dev.to/rajeshroyal/how-to-use-asyncawait-inside-for-loop-in-javascript-4kh6)
 - [Dev.to/JS] [Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More](https://dev.to/wenura/build-and-deploy-a-react-admin-dashboard-app-with-theming-tables-charts-calendar-kanban-and-more-3nng)
 - [Dev.to/JS] [How I Created a Comic Book Store with Medusa, Gatsby, PayPal, and MeiliSearch](https://dev.to/medusajs/how-i-created-a-comic-book-store-with-medusa-gatsby-paypal-and-meilisearch-2k01)
-- [Dev.to/JS] [Cursus NestJS - Validation via les DTO](https://dev.to/webeleon/cursus-nestjs-validation-via-les-dto-2h25)
-- [Dev.to/JS] [Create Simple Tab Component with Pure React](https://dev.to/satel/create-simple-tab-component-with-pure-react-2pkd)
 - [Lifehacker] [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
 - [Lifehacker] [You’re Wrong About ‘Less’ vs. ‘Fewer’](https://lifehacker.com/you-re-wrong-about-less-vs-fewer-1848965273)
 - [Lifehacker] [What&#39;s New on HBO Max in June 2022](https://lifehacker.com/whats-new-on-hbo-max-in-june-2022-1848965468)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Moments That Prove You&#39;re Finally an Adult, According to Lifehacker Readers](https://lifehacker.com/11-moments-that-prove-youre-finally-an-adult-according-1848956004)
 - [Lifehacker] [Don&#39;t Overthink These Things When You&#39;re Getting Into Fitness](https://lifehacker.com/dont-overthink-these-things-when-youre-getting-into-fit-1848957097)
 - [Lifehacker] [When to Book the Cheapest Summer Flights](https://lifehacker.com/when-to-book-the-cheapest-summer-flights-1848947242)
-- [Lifehacker] [When You Should Use Sand on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sand-on-your-lawn-and-when-you-sho-1848947235)
-- [Lifehacker] [How to Get Tough Stains Off Your White Dishes](https://lifehacker.com/how-to-get-tough-stains-off-your-white-dishes-1848947227)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
