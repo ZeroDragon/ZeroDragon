@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fit Form Keto [U.S] Reviews: A Healing Up Supplement For Fat Burn In 2022!](https://dev.to/fitformketoget/fit-form-keto-us-reviews-a-healing-up-supplement-for-fat-burn-in-2022-2n4n)
+- [Dev.to/JS] [Unable to Log In](https://dev.to/piedadakers/unable-to-log-in-3jld)
+- [Dev.to/JS] [What level of React are you in?](https://dev.to/thremulant/what-level-of-react-are-you-in-46g)
+- [Dev.to/JS] [JavaScript Context Thoughts](https://dev.to/steveage/javascript-context-thoughts-1kei)
 - [Dev.to/JS] [0. CSS - Fundamentals](https://dev.to/maole/0-css-fundamentals-i06)
 - [Dev.to/JS] [How to create contract in solidity - iFour Technolab](https://dev.to/harshalsuthar/how-to-create-contract-in-solidity-ifour-technolab-4gko)
 - [Dev.to/JS] [Resist the Mist: Bouncing From Topic to Topic](https://dev.to/lostoneway/resist-the-mist-bouncing-from-topic-to-topic-4)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Practices - Day1.Expanding cards](https://dev.to/lachellezhang/practices-day1expanding-cards-56od)
 - [Dev.to/JS] [Print left view of binary tree](https://dev.to/bvnkumar/print-left-view-of-binary-tree-554g)
 - [Dev.to/JS] [¿Qué es JavaScript?](https://dev.to/kprieto/que-es-javascript-3i00)
-- [Dev.to/JS] [Open Source Adventures: Episode 62: Ruby2JS](https://dev.to/taw/open-source-adventures-episode-62-ruby2js-119i)
-- [Dev.to/JS] [Why Javascript async functions return promises?!](https://dev.to/johiny/why-javascript-async-functions-return-promises-dkf)
-- [Dev.to/JS] [#22: E2E Development With Static Web Apps](https://dev.to/azure/22-e2e-development-with-static-web-apps-1bi)
 - [Lifehacker] [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
-- [Dev.to/JS] [Add spinner in Angular application with ngx-spinner](https://dev.to/pantpapasavvas/add-spinner-in-angular-application-with-ngx-spinner-10an)
 - [Lifehacker] [You’re Wrong About ‘Less’ vs. ‘Fewer’](https://lifehacker.com/you-re-wrong-about-less-vs-fewer-1848965273)
 - [Lifehacker] [What&#39;s New on HBO Max in June 2022](https://lifehacker.com/whats-new-on-hbo-max-in-june-2022-1848965468)
 - [Lifehacker] [What to Do If WhatsDrop Is Dropping Support for Your iPhone](https://lifehacker.com/what-to-do-if-whatsdrop-is-dropping-support-for-your-ip-1848963767)
