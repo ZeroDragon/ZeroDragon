@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a slick CSS animation from The Marvelous Mrs Maisel &lpar;TV series title sequence&rpar;](https://dev.to/robole/how-to-create-a-slick-css-animation-from-the-marvelous-mrs-maisel-tv-series-title-sequence-2c64)
+- [Dev.to/JS] [How to use async/await inside for loop in JavaScript](https://dev.to/rajeshroyal/how-to-use-asyncawait-inside-for-loop-in-javascript-4kh6)
+- [Dev.to/JS] [Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More](https://dev.to/wenura/build-and-deploy-a-react-admin-dashboard-app-with-theming-tables-charts-calendar-kanban-and-more-3nng)
 - [Dev.to/JS] [How I Created a Comic Book Store with Medusa, Gatsby, PayPal, and MeiliSearch](https://dev.to/medusajs/how-i-created-a-comic-book-store-with-medusa-gatsby-paypal-and-meilisearch-2k01)
 - [Dev.to/JS] [Cursus NestJS - Validation via les DTO](https://dev.to/webeleon/cursus-nestjs-validation-via-les-dto-2h25)
 - [Dev.to/JS] [Create Simple Tab Component with Pure React](https://dev.to/satel/create-simple-tab-component-with-pure-react-2pkd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I made an AI that knows absolutely EVERYTHING](https://dev.to/virejdasani/i-made-an-ai-that-knows-absolutely-everything-4p0d)
 - [Dev.to/JS] [JS Solutions for CodeWars Katas: Part 2](https://dev.to/kimanikevin254/js-solutions-for-codewars-katas-part-2-30bm)
 - [Dev.to/JS] [Fit Form Keto [U.S] Reviews: A Healing Up Supplement For Fat Burn In 2022!](https://dev.to/fitformketoget/fit-form-keto-us-reviews-a-healing-up-supplement-for-fat-burn-in-2022-2n4n)
-- [Dev.to/JS] [Unable to Log In](https://dev.to/piedadakers/unable-to-log-in-3jld)
-- [Dev.to/JS] [What level of React are you in?](https://dev.to/thremulant/what-level-of-react-are-you-in-46g)
-- [Dev.to/JS] [JavaScript Context Thoughts](https://dev.to/steveage/javascript-context-thoughts-1kei)
 - [Lifehacker] [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
 - [Lifehacker] [You’re Wrong About ‘Less’ vs. ‘Fewer’](https://lifehacker.com/you-re-wrong-about-less-vs-fewer-1848965273)
 - [Lifehacker] [What&#39;s New on HBO Max in June 2022](https://lifehacker.com/whats-new-on-hbo-max-in-june-2022-1848965468)
