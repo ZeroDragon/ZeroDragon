@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [0. CSS - Fundamentals](https://dev.to/maole/0-css-fundamentals-i06)
+- [Dev.to/JS] [How to create contract in solidity - iFour Technolab](https://dev.to/harshalsuthar/how-to-create-contract-in-solidity-ifour-technolab-4gko)
 - [Dev.to/JS] [Resist the Mist: Bouncing From Topic to Topic](https://dev.to/lostoneway/resist-the-mist-bouncing-from-topic-to-topic-4)
 - [Dev.to/JS] [Build forms using React-Hook-Form and ChakraUi](https://dev.to/wonder2210/build-forms-using-react-hook-form-and-chakraui-4087)
 - [Dev.to/JS] [Learn about open source and how to contribute](https://dev.to/anamdiazs/learn-about-open-source-and-how-to-contribute-3l52)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add spinner in Angular application with ngx-spinner](https://dev.to/pantpapasavvas/add-spinner-in-angular-application-with-ngx-spinner-10an)
 - [Lifehacker] [You’re Wrong About ‘Less’ vs. ‘Fewer’](https://lifehacker.com/you-re-wrong-about-less-vs-fewer-1848965273)
 - [Lifehacker] [What&#39;s New on HBO Max in June 2022](https://lifehacker.com/whats-new-on-hbo-max-in-june-2022-1848965468)
-- [Dev.to/JS] [I&#39;m working on an Expense Tracking App and I need your feedback](https://dev.to/pavelkeyzik/im-working-on-an-expense-tracking-app-and-i-need-your-feedback-44ad)
 - [Lifehacker] [What to Do If WhatsDrop Is Dropping Support for Your iPhone](https://lifehacker.com/what-to-do-if-whatsdrop-is-dropping-support-for-your-ip-1848963767)
-- [Dev.to/JS] [NodeJS and ExpressJS - Hello World 👨🏻‍💻](https://dev.to/justtanwa/nodejs-and-expressjs-hello-world-3eb3)
 - [Lifehacker] [You Don’t Need ADHD to Use These ADHD Productivity Hacks](https://lifehacker.com/you-don-t-need-adhd-to-use-these-adhd-productivity-hack-1848964773)
 - [Lifehacker] [How to Get on an Interviewer’s Good Side &lpar;Before Your Interview&rpar;](https://lifehacker.com/how-to-get-on-an-interviewer-s-good-side-before-your-i-1848963259)
 - [Lifehacker] [Google&#39;s AI Can Help You Get Your Next Job](https://lifehacker.com/googles-ai-can-help-you-get-your-next-job-1848962921)
