@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open Source Adventures: Episode 63: Accessing Browser APIs Directly with Opal Ruby](https://dev.to/taw/open-source-adventures-episode-63-accessing-browser-apis-directly-with-opal-ruby-215m)
+- [Dev.to/JS] [Popup Share Modal with Social Icons using HTML, CSS and JavaScript](https://dev.to/tilakjain123/popup-share-modal-with-social-icons-using-html-css-and-javascript-468f)
+- [Dev.to/JS] [Javascript array methods!](https://dev.to/dawroun/javascript-array-metodlari-51l3)
+- [Lifehacker] [This Hidden Apple Setting Makes You Sound So Much Better on Video Calls](https://lifehacker.com/this-hidden-apple-setting-makes-you-sound-so-much-bette-1848970372)
+- [Dev.to/JS] [Build a telegram bot using node.js](https://dev.to/aryaanish121/build-a-telegram-bot-using-nodejs-1i34)
+- [Dev.to/JS] [Explain Memoization in a pure Javascript](https://dev.to/satel/explain-memoization-in-a-pure-javascript-4oj2)
+- [Dev.to/JS] [My Experience with AstroJS](https://dev.to/tinfoil_knight/my-experience-with-astrojs-294h)
 - [Dev.to/JS] [Software Dev Update #13: DOM Events](https://dev.to/realnerdethan/software-dev-update-13-dom-events-3p6j)
 - [Lifehacker] [Is a $10 Gym Membership Ever Really Worth It?](https://lifehacker.com/is-a-10-gym-membership-ever-really-worth-it-1848970889)
 - [Dev.to/JS] [My profile website is now a terminal](https://dev.to/protium/my-profile-website-is-now-a-terminal-2j57)
@@ -31,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript closures, explained](https://dev.to/nicozerpa/javascript-closures-explained-46jn)
 - [Dev.to/JS] [5 VSCode Extension that Make Maintenance Easy🌱](https://dev.to/alexomeyer/5-vscode-extension-that-make-maintenance-easy-4eb1)
 - [Dev.to/JS] [Tracing MongoDB calls with OpenTelemetry](https://dev.to/signoz/tracing-mongodb-calls-with-opentelemetry-3bk4)
-- [Dev.to/JS] [How to do Test Driven Development in React using React Testing Library, Jest and Cypress](https://dev.to/andrewbaisden/how-to-do-test-driven-development-in-react-using-react-testing-library-jest-and-cypress-1d1i)
-- [Dev.to/JS] [call&lpar;&rpar;, apply&lpar;&rpar;, bind&lpar;&rpar; in Javascript](https://dev.to/dawroun/call-apply-bind-in-javascript-3dil)
-- [Dev.to/JS] [Lightning Fast Headless Commerce with Vendure and Remix](https://dev.to/michlbrmly/lightning-fast-headless-commerce-with-vendure-and-remix-4jbj)
-- [Dev.to/JS] [The Easy Way To Build A Tic Tac Toe Game!](https://dev.to/hr21don/the-easy-way-to-build-a-tic-tac-toe-game-51h7)
-- [Dev.to/JS] [Code Assignment That Was Given To Me During My Web Developer Interview - Episode 1](https://dev.to/rammcodes/code-assignment-that-i-got-during-my-web-developer-interview-episode-1-b2j)
-- [Dev.to/JS] [Entendendo let, const e escopo em javascript](https://dev.to/g101/entendendo-let-const-e-escopo-em-javascript-5ddp)
 - [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 - [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
 - [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are Your Unwritten Rules of Flying?](https://lifehacker.com/what-are-the-unwritten-rules-of-flying-1848965043)
 - [Lifehacker] [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
 - [Lifehacker] [You’re Wrong About ‘Less’ vs. ‘Fewer’](https://lifehacker.com/you-re-wrong-about-less-vs-fewer-1848965273)
-- [Lifehacker] [What&#39;s New on HBO Max in June 2022](https://lifehacker.com/whats-new-on-hbo-max-in-june-2022-1848965468)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
