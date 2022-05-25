@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First post on Dev. Connect with me!](https://dev.to/dilungasr/first-post-on-dev-connect-with-me-49i5)
+- [Dev.to/JS] [Logging Ethereum events with NodeJS](https://dev.to/theagilemonkeys/logging-ethereum-events-with-node-5b37)
+- [Dev.to/JS] [Zero: One API Key to Rule Them All](https://dev.to/srmagura/zero-one-api-key-to-rule-them-all-32l5)
+- [Dev.to/JS] [Parent-Child Component Communication with Angular and Vanilla JS](https://dev.to/riapacheco/parent-child-component-communication-with-angular-and-vanilla-js-1pae)
+- [Dev.to/JS] [Next.js and Tumblr as a CMS Part 2: Data Fetching](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-part-2-data-fetching-1fa8)
+- [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Dev.to/JS] [Creating an HLS VOD &lpar;Video on Demand&rpar; Streaming Platform with Typescript, AdonisJS, and AWS](https://dev.to/adamkatora/creating-an-hls-vod-video-on-demand-streaming-platform-with-typescript-adonisjs-and-aws-59gg)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Dev.to/JS] [Intro to reactiveUtils in ArcGIS JSAPI](https://dev.to/odoenet/intro-to-reactiveutils-in-arcgis-jsapi-2i3m)
@@ -34,12 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Drought-Resistant Alternatives to a Thirsty Grass Lawn](https://lifehacker.com/the-best-drought-resistant-alternatives-to-a-thirsty-gr-1848975951)
 - [Lifehacker] [The Personal Finance Advice Every College Graduate Needs](https://lifehacker.com/the-personal-finance-advice-every-college-graduate-need-1848975100)
 - [Dev.to/JS] [Back to basics: Data fetching in React](https://dev.to/juanfrank77/back-to-basics-data-fetching-in-react-42o4)
-- [Dev.to/JS] [How to Build a Responsive Dashboard Application in Angular](https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-4idn)
-- [Dev.to/JS] [Did you know JavaScript Array Destructuring?](https://dev.to/codewithshahan/did-you-know-javascript-array-distructuring-4pgf)
 - [Lifehacker] [How to Choose a Portable Power Station &lpar;and Why You Want One&rpar;](https://lifehacker.com/how-to-choose-a-portable-power-station-and-why-you-wan-1848975019)
-- [Dev.to/JS] [Azure Static Web Apps CLI is now GA 🚀](https://dev.to/wassimchegham/azure-static-web-apps-cli-is-now-ga-3d7e)
-- [Dev.to/JS] [Just Deployed Something](https://dev.to/saachikaup/just-deployed-something-50l5)
-- [Dev.to/JS] [NestJS Rest API boilerplate using MongoDB](https://dev.to/deadwin19/nestjs-rest-api-boilerplate-using-mongodb-20ji)
 - [Lifehacker] [How &#39;Nudge Theory&#39; Can Help You &lpar;and Others&rpar; Make Better Choices](https://lifehacker.com/how-nudge-theory-can-help-you-and-others-make-better-1848970422)
 - [Lifehacker] [Everything New in Chrome 102](https://lifehacker.com/everything-new-in-chrome-102-1848975172)
 - [Lifehacker] [How to Sell a Video Game You Made Yourself](https://lifehacker.com/how-to-sell-a-video-game-you-made-yourself-1848971894)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
 - [Lifehacker] [‘Abbott Elementary’s’ Sheryl Lee Ralph Takes Us to School](https://lifehacker.com/abbott-elementary-s-sheryl-lee-ralph-takes-us-to-scho-1848969982)
 - [Lifehacker] [When to Watch the Tau Herculid Meteor Shower](https://lifehacker.com/when-to-watch-the-tau-herculid-meteor-shower-1848969011)
-- [Lifehacker] [WordAll Makes You Guess All the Words](https://lifehacker.com/wordall-makes-you-guess-all-the-words-1848968860)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
