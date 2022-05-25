@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Free and Open-Source Responsive Portfolio Template built with Astro.js and React](https://dev.to/ixartz/a-free-and-open-source-responsive-portfolio-template-built-with-astrojs-and-react-5fnc)
+- [Lifehacker] [Cheaper Ways to Take Your Kids to the Movies This Summer](https://lifehacker.com/cheaper-ways-to-take-your-kids-to-the-movies-this-summe-1848971005)
+- [Dev.to/JS] [Implement Facebook login in laravel](https://dev.to/rohiturane/implement-facebook-login-in-laravel-22me)
+- [Lifehacker] [21 of the Best Movies for Anyone Who Ever Wanted to Fly](https://lifehacker.com/21-of-the-best-movies-for-anyone-who-ever-wanted-to-fly-1848962703)
 - [Dev.to/JS] [Open Source Adventures: Episode 63: Accessing Browser APIs Directly with Opal Ruby](https://dev.to/taw/open-source-adventures-episode-63-accessing-browser-apis-directly-with-opal-ruby-215m)
 - [Dev.to/JS] [Popup Share Modal with Social Icons using HTML, CSS and JavaScript](https://dev.to/tilakjain123/popup-share-modal-with-social-icons-using-html-css-and-javascript-468f)
 - [Dev.to/JS] [Javascript array methods!](https://dev.to/dawroun/javascript-array-metodlari-51l3)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Strapi Internals: Customizing the Backend [Part 1 - Models, Controllers &amp; Routes]](https://dev.to/strapi/strapi-internals-customizing-the-backend-part-1-models-controllers-routes-4hkb)
 - [Lifehacker] [Snag These Memorial Day Food Deals All Weekend Long](https://lifehacker.com/snag-these-memorial-day-food-deals-all-weekend-long-1848967791)
 - [Dev.to/JS] [JavaScript closures, explained](https://dev.to/nicozerpa/javascript-closures-explained-46jn)
-- [Dev.to/JS] [5 VSCode Extension that Make Maintenance Easy🌱](https://dev.to/alexomeyer/5-vscode-extension-that-make-maintenance-easy-4eb1)
-- [Dev.to/JS] [Tracing MongoDB calls with OpenTelemetry](https://dev.to/signoz/tracing-mongodb-calls-with-opentelemetry-3bk4)
 - [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 - [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
 - [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Hidden Meanings of Real Estate Jargon](https://lifehacker.com/the-hidden-meanings-of-real-estate-jargon-1848964620)
 - [Lifehacker] [We Should Be Eating More Savory Cookies](https://lifehacker.com/we-should-be-eating-more-savory-cookies-1848946154)
 - [Lifehacker] [What Are Your Unwritten Rules of Flying?](https://lifehacker.com/what-are-the-unwritten-rules-of-flying-1848965043)
-- [Lifehacker] [The Easiest Ways to Make Your Sponges Last Longer](https://lifehacker.com/the-easiest-ways-to-make-your-sponges-last-longer-1848965367)
-- [Lifehacker] [You’re Wrong About ‘Less’ vs. ‘Fewer’](https://lifehacker.com/you-re-wrong-about-less-vs-fewer-1848965273)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
