@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Polypane | Browser for Developers](https://dev.to/imhamad/polypane-browser-for-developers-48kn)
+- [Dev.to/JS] [Learn how to apply CSS-in-JS to your React app with the Emotion library.](https://dev.to/kibetamos/learn-how-to-apply-css-in-js-to-your-react-app-with-the-emotion-library-1e0k)
+- [Dev.to/JS] [JavaScript Array methods explained](https://dev.to/denicmarko/javascript-array-methods-explained-28fb)
+- [Dev.to/JS] [First commit!](https://dev.to/tanishqkrk/first-commit-14a6)
 - [Dev.to/JS] [Create a custom React stopwatch timer component](https://dev.to/michaelburrows/create-a-custom-react-stopwatch-timer-component-de1)
 - [Dev.to/JS] [#23: Cognitive Search &amp; SWA](https://dev.to/azure/23-cognitive-search-swa-19ki)
 - [Dev.to/JS] [Method-Method Array Pada Javascript](https://dev.to/mohamadadithya/method-method-array-pada-javascript-1925)
@@ -33,15 +37,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Qué es React?](https://dev.to/djackskellington/que-es-react-4l76)
 - [Dev.to/JS] [[JS] Simple carousel](https://dev.to/emiliodominguez/simple-carousel-js-15md)
 - [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
-- [Dev.to/JS] [What I&#39;ve learned about React so far..](https://dev.to/c3m3z4c4/what-ive-learned-about-react-so-far-d6b)
 - [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
-- [Dev.to/JS] [How to use celebrate with Node.js](https://dev.to/logrocket/how-to-use-celebrate-with-nodejs-15f5)
 - [Lifehacker] [‘Abbott Elementary’s’ Sheryl Lee Ralph Takes Us to School](https://lifehacker.com/abbott-elementary-s-sheryl-lee-ralph-takes-us-to-scho-1848969982)
 - [Lifehacker] [When to Watch the Tau Herculid Meteor Shower](https://lifehacker.com/when-to-watch-the-tau-herculid-meteor-shower-1848969011)
 - [Lifehacker] [WordAll Makes You Guess All the Words](https://lifehacker.com/wordall-makes-you-guess-all-the-words-1848968860)
-- [Dev.to/JS] [Slow network is detected. Fallback font will be used while loading...](https://dev.to/kodwings/slow-network-is-detected-fallback-font-will-be-used-while-loading-dnh)
 - [Lifehacker] [True Genius Is Knowing How to Shop a Junk Yard](https://lifehacker.com/true-genius-is-knowing-how-to-shop-a-junk-yard-1848968367)
-- [Dev.to/JS] [Building a Stripe App in 5 easy steps](https://dev.to/stripe/building-a-stripe-app-in-5-easy-steps-40k)
 - [Lifehacker] [Does Lip Balm Actually Chap Your Lips?](https://lifehacker.com/does-lip-balm-actually-chap-your-lips-1848969095)
 - [Lifehacker] [Use These Strategies to Dominate Your Scattered Brain](https://lifehacker.com/use-these-strategies-to-dominate-your-scattered-brain-1848969564)
 - [Lifehacker] [How to Fix the &#39;LG IMS&#39; Phone Bug on T-Mobile](https://lifehacker.com/how-to-fix-the-lg-ims-phone-bug-on-t-mobile-1848968855)
