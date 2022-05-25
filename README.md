@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a custom React stopwatch timer component](https://dev.to/michaelburrows/create-a-custom-react-stopwatch-timer-component-de1)
 - [Dev.to/JS] [#23: Cognitive Search &amp; SWA](https://dev.to/azure/23-cognitive-search-swa-19ki)
 - [Dev.to/JS] [Method-Method Array Pada Javascript](https://dev.to/mohamadadithya/method-method-array-pada-javascript-1925)
 - [Dev.to/JS] [WHY LEARN JAVASCRIPT?](https://dev.to/dovey21/why-learn-javascript-ng6)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [True Genius Is Knowing How to Shop a Junk Yard](https://lifehacker.com/true-genius-is-knowing-how-to-shop-a-junk-yard-1848968367)
 - [Dev.to/JS] [Building a Stripe App in 5 easy steps](https://dev.to/stripe/building-a-stripe-app-in-5-easy-steps-40k)
 - [Lifehacker] [Does Lip Balm Actually Chap Your Lips?](https://lifehacker.com/does-lip-balm-actually-chap-your-lips-1848969095)
-- [Dev.to/JS] [NestJS - overview](https://dev.to/ilyary/nestjs-overview-p36)
 - [Lifehacker] [Use These Strategies to Dominate Your Scattered Brain](https://lifehacker.com/use-these-strategies-to-dominate-your-scattered-brain-1848969564)
 - [Lifehacker] [How to Fix the &#39;LG IMS&#39; Phone Bug on T-Mobile](https://lifehacker.com/how-to-fix-the-lg-ims-phone-bug-on-t-mobile-1848968855)
 - [Lifehacker] [Why You Should Use an eSIM Card the Next Time You Travel](https://lifehacker.com/why-you-should-use-an-esim-card-the-next-time-you-trave-1848953726)
