@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NestJS boilerplate using GraphQL and MongoDB](https://dev.to/deadwin19/nestjs-boilerplate-using-graphql-and-mongodb-37od)
+- [Lifehacker] [Everything New in Chrome 102](https://lifehacker.com/everything-new-in-chrome-102-1848975172)
+- [Dev.to/JS] [Recommend me webdev softwares and packages I need to try](https://dev.to/error434/recommend-me-webdev-softwares-and-packages-i-need-to-try-o67)
+- [Dev.to/JS] [Add custom methods to Javascript built-in classes](https://dev.to/hacker4world/add-custom-methods-to-javascript-built-in-classes-35em)
+- [Dev.to/JS] [JavaScript Array Methods](https://dev.to/melguachun/javascript-array-methods-3fb4)
 - [Lifehacker] [How to Sell a Video Game You Made Yourself](https://lifehacker.com/how-to-sell-a-video-game-you-made-yourself-1848971894)
 - [Lifehacker] [7 Ways You Didn’t Know You Could Search for Photos on Your iPhone](https://lifehacker.com/7-ways-you-didn-t-know-you-could-search-for-photos-on-y-1848973669)
 - [Dev.to/JS] [Mapping the African Tech Ecosystem](https://dev.to/agnesnm/mapping-the-african-tech-ecosystem-5eh)
@@ -34,11 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
 - [Dev.to/JS] [Amplication &amp; Angular: Create the Backend](https://dev.to/amplication/amplication-angular-create-the-backend-3bko)
 - [Dev.to/JS] [ERROR: Access denied for user &#39;root&#39;@&#39;localhost&#39; &lpar;using password: NO&rpar;](https://dev.to/waynecamara061/error-access-denied-for-user-rootlocalhost-using-password-no-2a48)
-- [Dev.to/JS] [React should change the documentation to React Hooks](https://dev.to/alesbe/react-should-change-the-documentation-to-react-hooks-3pon)
-- [Dev.to/JS] [Mastering Regular Expression &lpar;RegEx&rpar; in Javascript](https://dev.to/kai_wenzel/mastering-regular-expression-regex-in-javascript-54jo)
-- [Dev.to/JS] [Top JavaScript Interview Questions and Answers for 2022](https://dev.to/dragosnedelcu/top-javascript-interview-questions-and-answers-for-2022-3h2d)
 - [Lifehacker] [What&#39;s New on Netflix in June 2022](https://lifehacker.com/whats-new-on-netflix-in-june-2022-1848975521)
-- [Dev.to/JS] [Do I need to add license keys?](https://dev.to/awesomemg/do-i-need-to-add-license-keys-2e2a)
 - [Lifehacker] [You Can Actually Do Something About How Clumsy You Are](https://lifehacker.com/you-can-actually-do-something-about-how-clumsy-you-are-1848970465)
 - [Lifehacker] [How to Kill Mold In Your Washing Machine](https://lifehacker.com/how-to-kill-mold-in-your-washing-machine-1848972468)
 - [Lifehacker] [Make Vegan Cevapi With Impossible Meat](https://lifehacker.com/make-vegan-cevapi-with-impossible-meat-1848972375)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix the &#39;LG IMS&#39; Phone Bug on T-Mobile](https://lifehacker.com/how-to-fix-the-lg-ims-phone-bug-on-t-mobile-1848968855)
 - [Lifehacker] [Why You Should Use an eSIM Card the Next Time You Travel](https://lifehacker.com/why-you-should-use-an-esim-card-the-next-time-you-trave-1848953726)
 - [Lifehacker] [It&#39;s OK to Make Ramen With Spaghetti, Actually &lpar;and How to Do It&rpar;](https://lifehacker.com/its-ok-to-make-ramen-with-spaghetti-actually-and-how-1848968667)
-- [Lifehacker] [How to Know If You’re in a Codependent Relationship &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-know-if-you-re-in-a-codependent-relationship-an-1848966032)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
