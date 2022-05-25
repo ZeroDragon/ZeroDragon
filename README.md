@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#23: Cognitive Search &amp; SWA](https://dev.to/azure/23-cognitive-search-swa-19ki)
+- [Dev.to/JS] [Method-Method Array Pada Javascript](https://dev.to/mohamadadithya/method-method-array-pada-javascript-1925)
 - [Dev.to/JS] [WHY LEARN JAVASCRIPT?](https://dev.to/dovey21/why-learn-javascript-ng6)
 - [Dev.to/JS] [Creating Client-Serverless Apps with FaunaDB and Nuxt JS](https://dev.to/asayerio_techblog/creating-client-serverless-apps-with-faunadb-and-nuxt-js-25oe)
 - [Dev.to/JS] [React &lpar;Native?&rpar; project](https://dev.to/brampayrequest/react-native-project-3ghp)
@@ -41,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Stripe App in 5 easy steps](https://dev.to/stripe/building-a-stripe-app-in-5-easy-steps-40k)
 - [Lifehacker] [Does Lip Balm Actually Chap Your Lips?](https://lifehacker.com/does-lip-balm-actually-chap-your-lips-1848969095)
 - [Dev.to/JS] [NestJS - overview](https://dev.to/ilyary/nestjs-overview-p36)
-- [Dev.to/JS] [Microsoft Teams Toolkit for VS Code is now GA 🎉](https://dev.to/azure/microsoft-teams-toolkit-for-vs-code-is-now-ga-4830)
-- [Dev.to/JS] [Day 2 : React start for Beginner - Component &lpar;Class&rpar;](https://dev.to/bipon68/day-2-react-start-for-beginner-component-class-4d0f)
 - [Lifehacker] [Use These Strategies to Dominate Your Scattered Brain](https://lifehacker.com/use-these-strategies-to-dominate-your-scattered-brain-1848969564)
 - [Lifehacker] [How to Fix the &#39;LG IMS&#39; Phone Bug on T-Mobile](https://lifehacker.com/how-to-fix-the-lg-ims-phone-bug-on-t-mobile-1848968855)
 - [Lifehacker] [Why You Should Use an eSIM Card the Next Time You Travel](https://lifehacker.com/why-you-should-use-an-esim-card-the-next-time-you-trave-1848953726)
