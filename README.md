@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Mengenal Bahan Baju Konveksi Jakarta Cara Merawatnya](https://dev.to/konveksijakarta/mengenal-bahan-baju-konveksi-jakarta-cara-merawatnya-3m8p)
+- [Dev.to/JS] [NEW WAVE OF WRITING REACT-NATIVE](https://dev.to/olabisim/new-wave-of-writing-react-native-11hj)
+- [Dev.to/JS] [Hello world, this is RoboStreamer](https://dev.to/paratron/hello-world-this-is-robostreamer-35n9)
+- [Dev.to/JS] [Canny | Made with React JS](https://dev.to/madewithjavascript/canny-made-with-react-js-55jl)
+- [Dev.to/JS] [Burnout | Made with React JS](https://dev.to/madewithjavascript/burnout-made-with-react-js-4i0b)
+- [Dev.to/JS] [How to Connect a React DApp to MetaMask](https://dev.to/olawanle_joel/how-to-connect-a-react-dapp-to-metamask-2gdh)
 - [Dev.to/JS] [From building to selling - EP.09 😢](https://dev.to/twankrui/from-building-to-selling-ep09-54ep)
 - [Dev.to/JS] [VueJs - Introduction à la Composition Api](https://dev.to/valentin_lethiot/vuejs-introduction-a-la-composition-api-14f)
 - [Dev.to/JS] [Why Beginners should learn React](https://dev.to/arjuncodess/why-beginners-should-learn-react-5h42)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Multiple Themes using JS and CSS](https://dev.to/bawelna0225/multiple-themes-using-js-and-css-1596)
 - [Dev.to/JS] [This Week In React #105: useEvent, Next.js Layouts, Remix, Storybook, Reanimated 3, Expo 45, Tamagui, TypeScript, Markdoc...](https://dev.to/sebastienlorber/this-week-in-react-105-useevent-nextjs-layouts-remix-storybook-reanimated-3-expo-45-tamagui-typescript-markdoc-1oh8)
 - [Dev.to/JS] [How Much Does It Cost to Build an App for a Small Business?](https://dev.to/stevenmartin431/how-much-does-it-cost-to-build-an-app-for-a-small-business-5663)
-- [Dev.to/JS] [I created a platform where you can solve React challenges &lpar;https://reactchallenges.live&rpar; 🚀 &lpar;PWA&rpar;](https://dev.to/mvskiran/i-created-a-platform-where-you-can-solve-react-challenges-pwa-lmg)
-- [Dev.to/JS] [Polypane | Browser for Developers](https://dev.to/imhamad/polypane-browser-for-developers-48kn)
-- [Dev.to/JS] [Learn how to apply CSS-in-JS to your React app with the Emotion library.](https://dev.to/kibetamos/learn-how-to-apply-css-in-js-to-your-react-app-with-the-emotion-library-1e0k)
-- [Dev.to/JS] [JavaScript Array methods explained](https://dev.to/denicmarko/javascript-array-methods-explained-28fb)
 - [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 - [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
 - [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
