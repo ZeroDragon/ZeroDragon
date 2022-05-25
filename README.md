@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VueJs - Introduction à la Composition Api](https://dev.to/valentin_lethiot/vuejs-introduction-a-la-composition-api-14f)
 - [Dev.to/JS] [Why Beginners should learn React](https://dev.to/arjuncodess/why-beginners-should-learn-react-5h42)
 - [Dev.to/JS] [What is Web3 and Why and How should you learn it](https://dev.to/arjuncodess/what-is-web3-and-why-and-how-should-you-learn-it-4iom)
 - [Dev.to/JS] [Multiple Themes using JS and CSS](https://dev.to/bawelna0225/multiple-themes-using-js-and-css-1596)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Array methods explained](https://dev.to/denicmarko/javascript-array-methods-explained-28fb)
 - [Dev.to/JS] [First commit!](https://dev.to/tanishqkrk/first-commit-14a6)
 - [Dev.to/JS] [Create a custom React stopwatch timer component](https://dev.to/michaelburrows/create-a-custom-react-stopwatch-timer-component-de1)
-- [Dev.to/JS] [what sql builder in nodejs using odbc connectivity for querying datasource](https://dev.to/rmanjaiah/what-sql-builder-in-nodejs-using-odbc-connectivity-for-querying-datasource-4ak5)
 - [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 - [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
 - [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
