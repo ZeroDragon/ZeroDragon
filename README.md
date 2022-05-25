@@ -23,12 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
+- [Dev.to/JS] [How to Use a JavaScript Reporting Tool in a GoLang Web App](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-in-a-golang-web-app-5b8k)
+- [Dev.to/JS] [OOP JAVASCRIPT PROBLEM !!!](https://dev.to/ayoubelsvg/oop-javascript-problem--8jj)
 - [Lifehacker] [The Best Drought-Resistant Alternatives to a Thirsty Grass Lawn](https://lifehacker.com/the-best-drought-resistant-alternatives-to-a-thirsty-gr-1848975951)
 - [Lifehacker] [The Personal Finance Advice Every College Graduate Needs](https://lifehacker.com/the-personal-finance-advice-every-college-graduate-need-1848975100)
 - [Dev.to/JS] [Back to basics: Data fetching in React](https://dev.to/juanfrank77/back-to-basics-data-fetching-in-react-42o4)
 - [Dev.to/JS] [How to Build a Responsive Dashboard Application in Angular](https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-4idn)
 - [Dev.to/JS] [Did you know JavaScript Array Destructuring?](https://dev.to/codewithshahan/did-you-know-javascript-array-distructuring-4pgf)
-- [Lifehacker] [How to Choose a Portable Power Station &lpar;And Why You Want One&rpar;](https://lifehacker.com/how-to-choose-a-portable-power-station-and-why-you-wan-1848975019)
+- [Lifehacker] [How to Choose a Portable Power Station &lpar;and Why You Want One&rpar;](https://lifehacker.com/how-to-choose-a-portable-power-station-and-why-you-wan-1848975019)
 - [Dev.to/JS] [Azure Static Web Apps CLI is now GA 🚀](https://dev.to/wassimchegham/azure-static-web-apps-cli-is-now-ga-3d7e)
 - [Dev.to/JS] [Just Deployed Something](https://dev.to/saachikaup/just-deployed-something-50l5)
 - [Dev.to/JS] [NestJS Rest API boilerplate using MongoDB](https://dev.to/deadwin19/nestjs-rest-api-boilerplate-using-mongodb-20ji)
@@ -38,10 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything New in Chrome 102](https://lifehacker.com/everything-new-in-chrome-102-1848975172)
 - [Dev.to/JS] [Recommend me webdev softwares and packages I need to try](https://dev.to/error434/recommend-me-webdev-softwares-and-packages-i-need-to-try-o67)
 - [Dev.to/JS] [Add custom methods to Javascript built-in classes](https://dev.to/hacker4world/add-custom-methods-to-javascript-built-in-classes-35em)
-- [Dev.to/JS] [JavaScript Array Methods](https://dev.to/melguachun/javascript-array-methods-3fb4)
 - [Lifehacker] [How to Sell a Video Game You Made Yourself](https://lifehacker.com/how-to-sell-a-video-game-you-made-yourself-1848971894)
 - [Lifehacker] [7 Ways You Didn’t Know You Could Search for Photos on Your iPhone](https://lifehacker.com/7-ways-you-didn-t-know-you-could-search-for-photos-on-y-1848973669)
-- [Dev.to/JS] [Mapping the African Tech Ecosystem](https://dev.to/agnesnm/mapping-the-african-tech-ecosystem-5eh)
 - [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
 - [Lifehacker] [What&#39;s New on Netflix in June 2022](https://lifehacker.com/whats-new-on-netflix-in-june-2022-1848975521)
 - [Lifehacker] [You Can Actually Do Something About How Clumsy You Are](https://lifehacker.com/you-can-actually-do-something-about-how-clumsy-you-are-1848970465)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Watch the Tau Herculid Meteor Shower](https://lifehacker.com/when-to-watch-the-tau-herculid-meteor-shower-1848969011)
 - [Lifehacker] [WordAll Makes You Guess All the Words](https://lifehacker.com/wordall-makes-you-guess-all-the-words-1848968860)
 - [Lifehacker] [True Genius Is Knowing How to Shop a Junk Yard](https://lifehacker.com/true-genius-is-knowing-how-to-shop-a-junk-yard-1848968367)
-- [Lifehacker] [Does Lip Balm Actually Chap Your Lips?](https://lifehacker.com/does-lip-balm-actually-chap-your-lips-1848969095)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
