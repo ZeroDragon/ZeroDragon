@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mengenal Bahan Baju Konveksi Jakarta Cara Merawatnya](https://dev.to/konveksijakarta/mengenal-bahan-baju-konveksi-jakarta-cara-merawatnya-3m8p)
+- [Dev.to/JS] [From building to selling - EP.09 😢](https://dev.to/twankrui/from-building-to-selling-ep09-54ep)
 - [Dev.to/JS] [VueJs - Introduction à la Composition Api](https://dev.to/valentin_lethiot/vuejs-introduction-a-la-composition-api-14f)
 - [Dev.to/JS] [Why Beginners should learn React](https://dev.to/arjuncodess/why-beginners-should-learn-react-5h42)
 - [Dev.to/JS] [What is Web3 and Why and How should you learn it](https://dev.to/arjuncodess/what-is-web3-and-why-and-how-should-you-learn-it-4iom)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Polypane | Browser for Developers](https://dev.to/imhamad/polypane-browser-for-developers-48kn)
 - [Dev.to/JS] [Learn how to apply CSS-in-JS to your React app with the Emotion library.](https://dev.to/kibetamos/learn-how-to-apply-css-in-js-to-your-react-app-with-the-emotion-library-1e0k)
 - [Dev.to/JS] [JavaScript Array methods explained](https://dev.to/denicmarko/javascript-array-methods-explained-28fb)
-- [Dev.to/JS] [First commit!](https://dev.to/tanishqkrk/first-commit-14a6)
-- [Dev.to/JS] [Create a custom React stopwatch timer component](https://dev.to/michaelburrows/create-a-custom-react-stopwatch-timer-component-de1)
 - [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 - [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
 - [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
