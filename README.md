@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lerna used to walk, now it can fly!](https://dev.to/nx/lerna-used-to-walk-now-it-can-fly-3661)
+- [Lifehacker] [How to Kill Mold In Your Washing Machine](https://lifehacker.com/how-to-kill-mold-in-your-washing-machine-1848972468)
+- [Dev.to/JS] [Fetch API has finally landed Node v18.0](https://dev.to/ishanme/fetch-api-has-finally-landed-node-v180-1oal)
+- [Dev.to/JS] [Paracetamol.js💊| #125: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-125-explica-este-codigo-javascript-4hgg)
+- [Lifehacker] [Make Vegan Cevapi With Impossible Meat](https://lifehacker.com/make-vegan-cevapi-with-impossible-meat-1848972375)
 - [Dev.to/JS] [A Free and Open-Source Responsive Portfolio Template built with Astro.js and React](https://dev.to/ixartz/a-free-and-open-source-responsive-portfolio-template-built-with-astrojs-and-react-5fnc)
 - [Lifehacker] [Cheaper Ways to Take Your Kids to the Movies This Summer](https://lifehacker.com/cheaper-ways-to-take-your-kids-to-the-movies-this-summe-1848971005)
 - [Dev.to/JS] [Implement Facebook login in laravel](https://dev.to/rohiturane/implement-facebook-login-in-laravel-22me)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Experience with AstroJS](https://dev.to/tinfoil_knight/my-experience-with-astrojs-294h)
 - [Dev.to/JS] [Software Dev Update #13: DOM Events](https://dev.to/realnerdethan/software-dev-update-13-dom-events-3p6j)
 - [Lifehacker] [Is a $10 Gym Membership Ever Really Worth It?](https://lifehacker.com/is-a-10-gym-membership-ever-really-worth-it-1848970889)
-- [Dev.to/JS] [My profile website is now a terminal](https://dev.to/protium/my-profile-website-is-now-a-terminal-2j57)
-- [Dev.to/JS] [Strapi Internals: Customizing the Backend [Part 1 - Models, Controllers &amp; Routes]](https://dev.to/strapi/strapi-internals-customizing-the-backend-part-1-models-controllers-routes-4hkb)
 - [Lifehacker] [Snag These Memorial Day Food Deals All Weekend Long](https://lifehacker.com/snag-these-memorial-day-food-deals-all-weekend-long-1848967791)
-- [Dev.to/JS] [JavaScript closures, explained](https://dev.to/nicozerpa/javascript-closures-explained-46jn)
 - [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 - [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
 - [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Banish Squirrels From Your Garden Without Chemicals, Poison, or Traps](https://lifehacker.com/banish-squirrels-from-your-garden-without-chemicals-po-1848967074)
 - [Lifehacker] [10 Myths You Should Stop Believing About Your Pet](https://lifehacker.com/10-animal-myths-you-should-stop-believing-already-1848965671)
 - [Lifehacker] [The Hidden Meanings of Real Estate Jargon](https://lifehacker.com/the-hidden-meanings-of-real-estate-jargon-1848964620)
-- [Lifehacker] [We Should Be Eating More Savory Cookies](https://lifehacker.com/we-should-be-eating-more-savory-cookies-1848946154)
-- [Lifehacker] [What Are Your Unwritten Rules of Flying?](https://lifehacker.com/what-are-the-unwritten-rules-of-flying-1848965043)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
