@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an HLS VOD &lpar;Video on Demand&rpar; Streaming Platform with Typescript, AdonisJS, and AWS](https://dev.to/adamkatora/creating-an-hls-vod-video-on-demand-streaming-platform-with-typescript-adonisjs-and-aws-59gg)
+- [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
+- [Dev.to/JS] [Intro to reactiveUtils in ArcGIS JSAPI](https://dev.to/odoenet/intro-to-reactiveutils-in-arcgis-jsapi-2i3m)
+- [Dev.to/JS] [What is Jamstack](https://dev.to/maxikius/what-is-jamstack-3khe)
+- [Dev.to/JS] [Prevent re-renders with useRef](https://dev.to/brettthurs10/prevent-re-renders-with-useref-1fgf)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
 - [Dev.to/JS] [How to Use a JavaScript Reporting Tool in a GoLang Web App](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-in-a-golang-web-app-5b8k)
 - [Dev.to/JS] [OOP JAVASCRIPT PROBLEM !!!](https://dev.to/ayoubelsvg/oop-javascript-problem--8jj)
@@ -35,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Azure Static Web Apps CLI is now GA 🚀](https://dev.to/wassimchegham/azure-static-web-apps-cli-is-now-ga-3d7e)
 - [Dev.to/JS] [Just Deployed Something](https://dev.to/saachikaup/just-deployed-something-50l5)
 - [Dev.to/JS] [NestJS Rest API boilerplate using MongoDB](https://dev.to/deadwin19/nestjs-rest-api-boilerplate-using-mongodb-20ji)
-- [Dev.to/JS] [Plotting my Web Components path](https://dev.to/dannyengelman/plotting-my-web-components-path-38h4)
 - [Lifehacker] [How &#39;Nudge Theory&#39; Can Help You &lpar;and Others&rpar; Make Better Choices](https://lifehacker.com/how-nudge-theory-can-help-you-and-others-make-better-1848970422)
-- [Dev.to/JS] [NestJS boilerplate using GraphQL and MongoDB](https://dev.to/deadwin19/nestjs-boilerplate-using-graphql-and-mongodb-37od)
 - [Lifehacker] [Everything New in Chrome 102](https://lifehacker.com/everything-new-in-chrome-102-1848975172)
-- [Dev.to/JS] [Recommend me webdev softwares and packages I need to try](https://dev.to/error434/recommend-me-webdev-softwares-and-packages-i-need-to-try-o67)
-- [Dev.to/JS] [Add custom methods to Javascript built-in classes](https://dev.to/hacker4world/add-custom-methods-to-javascript-built-in-classes-35em)
 - [Lifehacker] [How to Sell a Video Game You Made Yourself](https://lifehacker.com/how-to-sell-a-video-game-you-made-yourself-1848971894)
 - [Lifehacker] [7 Ways You Didn’t Know You Could Search for Photos on Your iPhone](https://lifehacker.com/7-ways-you-didn-t-know-you-could-search-for-photos-on-y-1848973669)
 - [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Abbott Elementary’s’ Sheryl Lee Ralph Takes Us to School](https://lifehacker.com/abbott-elementary-s-sheryl-lee-ralph-takes-us-to-scho-1848969982)
 - [Lifehacker] [When to Watch the Tau Herculid Meteor Shower](https://lifehacker.com/when-to-watch-the-tau-herculid-meteor-shower-1848969011)
 - [Lifehacker] [WordAll Makes You Guess All the Words](https://lifehacker.com/wordall-makes-you-guess-all-the-words-1848968860)
-- [Lifehacker] [True Genius Is Knowing How to Shop a Junk Yard](https://lifehacker.com/true-genius-is-knowing-how-to-shop-a-junk-yard-1848968367)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
