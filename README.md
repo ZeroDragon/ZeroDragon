@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Smoothly test React components with multiple Contexts.](https://dev.to/alexandprivate/smoothly-test-react-components-with-multiple-contexts-453f)
+- [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
 - [Lifehacker] [What to Know About the Tick That Can Make You Allergic to Meat](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
 - [Dev.to/JS] [JavaScript Array Methods: join&lpar;&rpar;](https://dev.to/boldodev_/javascript-array-methods-join-4590)
 - [Lifehacker] [11 Rigged Carnival Games You Won’t Win &lpar;and One You Might&rpar;](https://lifehacker.com/11-rigged-carnival-games-you-won-t-win-and-one-you-mig-1848978227)
@@ -42,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Help a Child Who Struggles With Executive Function](https://lifehacker.com/how-to-help-a-child-who-struggles-with-executive-functi-1848979094)
 - [Dev.to/JS] [3 Things To Know Before Building with PyScript](https://dev.to/dolbyio/3-things-to-know-before-building-with-pyscript-4f6n)
 - [Dev.to/JS] [How to Resolve Circular Dependency on Angular Build ?.](https://dev.to/arvi2k17/how-to-resolve-circular-dependency-on-angular-build--28hm)
-- [Dev.to/JS] [Javascript map&lpar;&rpar;method](https://dev.to/talenttinaapi/javascript-mapmethod-42ne)
 - [Lifehacker] [9 Strava Settings You Should Change to Keep Your Fitness Data Private](https://lifehacker.com/9-strava-settings-you-should-change-to-keep-your-fitnes-1848979818)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Lifehacker] [The Best and Worst Times to Drive This Memorial Day Weekend](https://lifehacker.com/the-best-and-worst-times-to-drive-this-memorial-day-wee-1848980705)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose a Portable Power Station &lpar;and Why You Want One&rpar;](https://lifehacker.com/how-to-choose-a-portable-power-station-and-why-you-wan-1848975019)
 - [Lifehacker] [How &#39;Nudge Theory&#39; Can Help You &lpar;and Others&rpar; Make Better Choices](https://lifehacker.com/how-nudge-theory-can-help-you-and-others-make-better-1848970422)
 - [Lifehacker] [Everything New in Chrome 102](https://lifehacker.com/everything-new-in-chrome-102-1848975172)
-- [Lifehacker] [How to Sell a Video Game You Made Yourself](https://lifehacker.com/how-to-sell-a-video-game-you-made-yourself-1848971894)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
 
