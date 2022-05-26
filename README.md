@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conducted a free webinar on Angular Essentials for Corporate Folks](https://dev.to/ankit_k_sharma/conducted-a-free-webinar-on-angular-essentials-for-corporate-folks-1ppp)
+- [Lifehacker] [Are These Tangle-Free USB Cables Worth It?](https://lifehacker.com/are-these-tangle-free-usb-cables-worth-it-1848980704)
+- [Dev.to/JS] [#24: Cognitive Services &amp; SWA](https://dev.to/azure/24-cognitive-services-swa-4bgd)
 - [Dev.to/JS] [Code improvement tips](https://dev.to/soujanyasatpute/code-improvement-tips-lj9)
 - [Lifehacker] [How to Help a Child Who Struggles With Executive Function](https://lifehacker.com/how-to-help-a-child-who-struggles-with-executive-functi-1848979094)
 - [Dev.to/JS] [3 Things To Know Before Building with PyScript](https://dev.to/dolbyio/3-things-to-know-before-building-with-pyscript-4f6n)
@@ -37,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best and Worst Times to Drive This Memorial Day Weekend](https://lifehacker.com/the-best-and-worst-times-to-drive-this-memorial-day-wee-1848980705)
 - [Dev.to/JS] [¿Qué es una API Rest?](https://dev.to/rogerdimonte/que-es-una-api-rest-5eg5)
 - [Dev.to/JS] [Beginners Guide to Consuming REST APIs in React](https://dev.to/olawanle_joel/beginners-guide-to-consuming-rest-apis-in-react-2blg)
-- [Dev.to/JS] [Managing Form state with React useState hook 🪝.](https://dev.to/barksanto/managing-form-state-with-react-usestate-hook--54a6)
 - [Lifehacker] [10 Uses for Baby Powder That Don&#39;t Involve Your Baby](https://lifehacker.com/10-uses-for-baby-powder-that-dont-involve-your-baby-1848980323)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When a Cop Knocks on Your Door](https://lifehacker.com/what-to-do-and-not-do-when-a-cop-knocks-on-your-door-1848980595)
-- [Dev.to/JS] [How You Can Create a Custom Endpoint in a Node.js Ecommerce Platform](https://dev.to/medusajs/how-you-can-create-a-custom-endpoint-in-a-nodejs-ecommerce-platform-4fb5)
 - [Lifehacker] [Should You Really Make Group Fitness Classes &#39;Your Own?&#39;](https://lifehacker.com/should-you-really-make-group-fitness-classes-your-own-1848972137)
 - [Lifehacker] [How to Poop on Vacation](https://lifehacker.com/how-to-poop-on-vacation-1848977225)
 - [Lifehacker] [How to Grow a Wildflower Garden From Seed &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-wildflower-garden-from-seed-and-why-you-1848973275)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Actually Do Something About How Clumsy You Are](https://lifehacker.com/you-can-actually-do-something-about-how-clumsy-you-are-1848970465)
 - [Lifehacker] [How to Kill Mold In Your Washing Machine](https://lifehacker.com/how-to-kill-mold-in-your-washing-machine-1848972468)
 - [Lifehacker] [Make Vegan Cevapi With Impossible Meat](https://lifehacker.com/make-vegan-cevapi-with-impossible-meat-1848972375)
-- [Lifehacker] [Cheaper Ways to Take Your Kids to the Movies This Summer](https://lifehacker.com/cheaper-ways-to-take-your-kids-to-the-movies-this-summe-1848971005)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
 
