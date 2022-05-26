@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Svelte app: create Loading Overlay component using svelte/motion](https://dev.to/pavlov/svelte-app-create-loading-overlay-component-using-sveltemotion-5jp)
+- [Dev.to/JS] [Active Navbar with Next.js Routes](https://dev.to/j471n/active-navbar-with-nextjs-routes-k8l)
+- [Dev.to/JS] [Building a startup | Days 11 - 15](https://dev.to/advikguptadev/building-a-startup-days-1-15-od9)
+- [Dev.to/JS] [Blast Auxiliary Portable AC Reviews: It Is A Scam Or What? Read All Reports Before Buying!](https://dev.to/blastacbuynow/blast-auxiliary-portable-ac-reviews-it-is-a-scam-or-what-read-all-reports-before-buying-2mof)
 - [Dev.to/JS] [Neumorphism Pyramid](https://dev.to/rembertdesigns/neumorphism-pyramid-5cg7)
 - [Dev.to/JS] [Uses of JSON.parse&lpar;&rpar; and JSON.stringify&lpar;&rpar;](https://dev.to/mizanur919/uses-of-jsonparse-and-jsonstringify-2c17)
 - [Dev.to/JS] [Create Wavy Underline in just 2 lines](https://dev.to/codewithsnowbit/create-wavy-underline-in-just-2-lines-ol5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hey guys what&#39;s better Vue or React?](https://dev.to/a4akki/hey-guys-whats-better-vue-or-react-3aka)
 - [Dev.to/JS] [groupbuyseotoolsorg](https://dev.to/groupbuyseotoolsorg/groupbuyseotoolsorg-41eo)
 - [Dev.to/JS] [Read the latest news! Integration of Huawei Push Kit in Application using React Native](https://dev.to/hmscommunity/read-the-latest-news-integration-of-huawei-push-kit-in-application-using-react-native-598g)
-- [Dev.to/JS] [Roteando as api do NextJS usando verbos HTTP](https://dev.to/pedroramon/roteando-as-api-do-nextjs-usando-verbos-http-1oa7)
-- [Dev.to/JS] [Cross Browser testing with cypress✨](https://dev.to/marlo2222/cross-browser-testing-with-cypress-38ll)
-- [Dev.to/JS] [Camadas da Arquitetura &lpar;Clean Architecture&rpar;](https://dev.to/gj_developer/camadas-de-arquitetura-clean-architecture-50ll)
-- [Dev.to/JS] [Vue3 Composition API: watchEffect vs. watch](https://dev.to/asayerio_techblog/vue3-composition-api-watcheffect-vs-watch-20e0)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
