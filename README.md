@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Use React Native AsyncStorage](https://dev.to/jscrambler/how-to-use-react-native-asyncstorage-13kd)
+- [Dev.to/JS] [Understanding Redux &lpar;Part 2&rpar;: Creating a small Redux powered React App in 10 easy steps &lpar;with code snippets&rpar;](https://dev.to/sohamderoy/understanding-redux-part-2-creating-a-small-redux-powered-react-app-in-10-easy-steps-with-code-snippets-4clb)
+- [Dev.to/JS] [Vue-Nuxt remove html tags from rendered text for SEO](https://dev.to/siumhossain/vue-nuxt-remove-html-tags-from-rendered-text-for-seo-5e47)
+- [Dev.to/JS] [Ditch Dynamic Imports and Start Using Absolute Imports!](https://dev.to/madflows/ditch-dynamic-imports-and-start-using-absolute-imports-2p80)
 - [Dev.to/JS] [The 5 best HTTP request API`s for Javascript](https://dev.to/kai_wenzel/the-5-best-http-requests-apis-for-javascript-3ban)
-- [Dev.to/JS] [How To Use React Native AsyncStorage](https://dev.to/jscrambler/how-to-use-react-native-asyncstorage-n23)
 - [Dev.to/JS] [Freshworks MarketPlace apps using JavaScript Frameworks](https://dev.to/rajasegar/freshworks-marketplace-apps-using-javascript-frameworks-20pn)
 - [Dev.to/JS] [Start Using TailwindCSS Now!](https://dev.to/madflows/start-using-tailwindcss-now-42ii)
 - [Dev.to/JS] [How to create a file downloader via url using pure javascript](https://dev.to/incoderweb/how-to-create-a-file-downloader-via-url-using-pure-javascript-obp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My New Macbook Setup &lpar;2022&rpar;](https://dev.to/nazha/my-new-macbook-setup-2022-213m)
 - [Dev.to/JS] [Vue 3 Composition API + socket.io](https://dev.to/grawl/vue-3-composition-api-socketio-5den)
 - [Dev.to/JS] [Learn all the Array methods in JavaScript](https://dev.to/posandu/learn-all-the-array-methods-in-javascript-1j1k)
-- [Dev.to/JS] [Top JavaScript Frameworks to Use in 2022](https://dev.to/architprajapati/top-javascript-frameworks-to-use-in-2022-2fl5)
-- [Dev.to/JS] [Grouping and aggregating your data like a pro 🚀](https://dev.to/get_infinite/grouping-and-aggregating-your-data-like-a-pro-3eoc)
-- [Dev.to/JS] [Turboprop: JS Arrays as Property Accessors!?!](https://dev.to/jonrandy/turboprop-js-arrays-as-property-accessors-52h)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
