@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reemo | Made with Nuxt JS](https://dev.to/madewithjavascript/reemo-made-with-nuxt-js-4i8b)
+- [Dev.to/JS] [JavaScript Array Methods : Find&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-find-96g)
+- [Dev.to/JS] [Comonetize | Made with React JS](https://dev.to/madewithjavascript/comonetize-made-with-react-js-2fg8)
+- [Lifehacker] [How to Poop on Vacation](https://lifehacker.com/how-to-poop-on-vacation-1848977225)
+- [Dev.to/JS] [Optimize Your Career for Growth](https://dev.to/thawkin3/optimize-your-career-for-growth-93n)
 - [Lifehacker] [How to Grow a Wildflower Garden From Seed &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-wildflower-garden-from-seed-and-why-you-1848973275)
 - [Dev.to/JS] [From building to selling - EP.10](https://dev.to/twankrui/from-building-to-selling-ep10-ic9)
 - [Lifehacker] [How Couples Should Decide Whether Counseling Is Worth It, According to Therapists](https://lifehacker.com/how-couples-should-decide-whether-counseling-is-worth-i-1848975355)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Variable explanation help:](https://dev.to/callmebobonwa/variable-explanation-help-4md2)
 - [Dev.to/JS] [Building a Code Snippet Highlighter in Next.js](https://dev.to/asayerio_techblog/building-a-code-snippet-highlighter-in-nextjs-31mk)
 - [Dev.to/JS] [How To Use React Native AsyncStorage](https://dev.to/jscrambler/how-to-use-react-native-asyncstorage-13kd)
-- [Dev.to/JS] [Understanding Redux &lpar;Part 2&rpar;: Creating a small Redux powered React App in 10 easy steps &lpar;with code snippets&rpar;](https://dev.to/sohamderoy/understanding-redux-part-2-creating-a-small-redux-powered-react-app-in-10-easy-steps-with-code-snippets-4clb)
-- [Dev.to/JS] [Vue-Nuxt remove html tags from rendered text for SEO](https://dev.to/siumhossain/vue-nuxt-remove-html-tags-from-rendered-text-for-seo-5e47)
-- [Dev.to/JS] [Ditch Dynamic Imports and Start Using Absolute Imports!](https://dev.to/madflows/ditch-dynamic-imports-and-start-using-absolute-imports-2p80)
-- [Dev.to/JS] [The 5 best HTTP request API`s for Javascript](https://dev.to/kai_wenzel/the-5-best-http-requests-apis-for-javascript-3ban)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Snag These Memorial Day Food Deals All Weekend Long](https://lifehacker.com/snag-these-memorial-day-food-deals-all-weekend-long-1848967791)
 - [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 - [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
-- [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
