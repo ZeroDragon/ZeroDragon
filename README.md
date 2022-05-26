@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build on Flow: Learn FCL - Introduction](https://dev.to/maxstalker/build-on-flow-learn-fcl-introduction-51bp)
+- [Dev.to/JS] [Variable explanation help:](https://dev.to/callmebobonwa/variable-explanation-help-4md2)
+- [Dev.to/JS] [Building a Code Snippet Highlighter in Next.js](https://dev.to/asayerio_techblog/building-a-code-snippet-highlighter-in-nextjs-31mk)
 - [Dev.to/JS] [How To Use React Native AsyncStorage](https://dev.to/jscrambler/how-to-use-react-native-asyncstorage-13kd)
 - [Dev.to/JS] [Understanding Redux &lpar;Part 2&rpar;: Creating a small Redux powered React App in 10 easy steps &lpar;with code snippets&rpar;](https://dev.to/sohamderoy/understanding-redux-part-2-creating-a-small-redux-powered-react-app-in-10-easy-steps-with-code-snippets-4clb)
 - [Dev.to/JS] [Vue-Nuxt remove html tags from rendered text for SEO](https://dev.to/siumhossain/vue-nuxt-remove-html-tags-from-rendered-text-for-seo-5e47)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Start Using TailwindCSS Now!](https://dev.to/madflows/start-using-tailwindcss-now-42ii)
 - [Dev.to/JS] [How to create a file downloader via url using pure javascript](https://dev.to/incoderweb/how-to-create-a-file-downloader-via-url-using-pure-javascript-obp)
 - [Dev.to/JS] [Preloader for your website](https://dev.to/bawelna0225/preloader-for-your-website-495)
-- [Dev.to/JS] [My New Macbook Setup &lpar;2022&rpar;](https://dev.to/nazha/my-new-macbook-setup-2022-213m)
-- [Dev.to/JS] [Vue 3 Composition API + socket.io](https://dev.to/grawl/vue-3-composition-api-socketio-5den)
-- [Dev.to/JS] [Learn all the Array methods in JavaScript](https://dev.to/posandu/learn-all-the-array-methods-in-javascript-1j1k)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
