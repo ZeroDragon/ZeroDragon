@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Roteando as api do NextJS usando verbos HTTP](https://dev.to/pedroramon/roteando-as-api-do-nextjs-usando-verbos-http-1oa7)
+- [Dev.to/JS] [Cross Browser testing with cypress✨](https://dev.to/marlo2222/cross-browser-testing-with-cypress-38ll)
+- [Dev.to/JS] [Camadas da Arquitetura &lpar;Clean Architecture&rpar;](https://dev.to/gj_developer/camadas-de-arquitetura-clean-architecture-50ll)
+- [Dev.to/JS] [Vue3 Composition API: watchEffect vs. watch](https://dev.to/asayerio_techblog/vue3-composition-api-watcheffect-vs-watch-20e0)
 - [Dev.to/JS] [First post on Dev. Connect with me!](https://dev.to/dilungasr/first-post-on-dev-connect-with-me-49i5)
 - [Dev.to/JS] [Logging Ethereum events with NodeJS](https://dev.to/theagilemonkeys/logging-ethereum-events-with-node-5b37)
 - [Dev.to/JS] [Zero: One API Key to Rule Them All](https://dev.to/srmagura/zero-one-api-key-to-rule-them-all-32l5)
@@ -33,13 +37,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Dev.to/JS] [Intro to reactiveUtils in ArcGIS JSAPI](https://dev.to/odoenet/intro-to-reactiveutils-in-arcgis-jsapi-2i3m)
 - [Dev.to/JS] [What is Jamstack](https://dev.to/maxikius/what-is-jamstack-3khe)
-- [Dev.to/JS] [Prevent re-renders with useRef](https://dev.to/brettthurs10/prevent-re-renders-with-useref-1fgf)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
-- [Dev.to/JS] [How to Use a JavaScript Reporting Tool in a GoLang Web App](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-in-a-golang-web-app-5b8k)
-- [Dev.to/JS] [OOP JAVASCRIPT PROBLEM !!!](https://dev.to/ayoubelsvg/oop-javascript-problem--8jj)
 - [Lifehacker] [The Best Drought-Resistant Alternatives to a Thirsty Grass Lawn](https://lifehacker.com/the-best-drought-resistant-alternatives-to-a-thirsty-gr-1848975951)
 - [Lifehacker] [The Personal Finance Advice Every College Graduate Needs](https://lifehacker.com/the-personal-finance-advice-every-college-graduate-need-1848975100)
-- [Dev.to/JS] [Back to basics: Data fetching in React](https://dev.to/juanfrank77/back-to-basics-data-fetching-in-react-42o4)
 - [Lifehacker] [How to Choose a Portable Power Station &lpar;and Why You Want One&rpar;](https://lifehacker.com/how-to-choose-a-portable-power-station-and-why-you-wan-1848975019)
 - [Lifehacker] [How &#39;Nudge Theory&#39; Can Help You &lpar;and Others&rpar; Make Better Choices](https://lifehacker.com/how-nudge-theory-can-help-you-and-others-make-better-1848970422)
 - [Lifehacker] [Everything New in Chrome 102](https://lifehacker.com/everything-new-in-chrome-102-1848975172)
