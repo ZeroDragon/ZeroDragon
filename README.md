@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How You Can Create a Custom Endpoint in a Node.js Ecommerce Platform](https://dev.to/medusajs/how-you-can-create-a-custom-endpoint-in-a-nodejs-ecommerce-platform-4fb5)
+- [Dev.to/JS] [Paracetamol.js💊| #126: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-126-explica-este-codigo-javascript-13lk)
+- [Dev.to/JS] [Day 25-33: JS Calculator](https://dev.to/kemystra/day-25-33-js-calculator-5fp8)
+- [Dev.to/JS] [nfkfdmkdm](https://dev.to/liu101/nfkfdmkdm-569g)
+- [Dev.to/JS] [dsnkdsnkfd](https://dev.to/liu101/dsnkdsnkfd-3nb6)
+- [Dev.to/JS] [ggggggggggg](https://dev.to/liu101/ggggggggggg-4bak)
+- [Lifehacker] [Should You Really Make Group Fitness Classes &#39;Your Own?&#39;](https://lifehacker.com/should-you-really-make-group-fitness-classes-your-own-1848972137)
 - [Dev.to/JS] [Reemo | Made with Nuxt JS](https://dev.to/madewithjavascript/reemo-made-with-nuxt-js-4i8b)
 - [Dev.to/JS] [JavaScript Array Methods : Find&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-find-96g)
 - [Dev.to/JS] [Comonetize | Made with React JS](https://dev.to/madewithjavascript/comonetize-made-with-react-js-2fg8)
@@ -32,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [From building to selling - EP.10](https://dev.to/twankrui/from-building-to-selling-ep10-ic9)
 - [Lifehacker] [How Couples Should Decide Whether Counseling Is Worth It, According to Therapists](https://lifehacker.com/how-couples-should-decide-whether-counseling-is-worth-i-1848975355)
 - [Dev.to/JS] [A guide to building a Virtual Meet App with 100ms and React](https://dev.to/emmanuelthecoder/a-guide-to-building-a-virtual-meet-app-with-100ms-and-react-58mh)
-- [Dev.to/JS] [My First Dev post](https://dev.to/panditraghav/my-first-dev-post-5h80)
-- [Dev.to/JS] [How to rehydrate typed data?](https://dev.to/kamil7x/how-to-rehydrate-typed-data-1a7)
-- [Dev.to/JS] [Build on Flow: Learn FCL - Introduction](https://dev.to/onflow/build-on-flow-learn-fcl-introduction-51bp)
-- [Dev.to/JS] [Variable explanation help:](https://dev.to/callmebobonwa/variable-explanation-help-4md2)
-- [Dev.to/JS] [Building a Code Snippet Highlighter in Next.js](https://dev.to/asayerio_techblog/building-a-code-snippet-highlighter-in-nextjs-31mk)
-- [Dev.to/JS] [How To Use React Native AsyncStorage](https://dev.to/jscrambler/how-to-use-react-native-asyncstorage-13kd)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is a $10 Gym Membership Ever Really Worth It?](https://lifehacker.com/is-a-10-gym-membership-ever-really-worth-it-1848970889)
 - [Lifehacker] [Snag These Memorial Day Food Deals All Weekend Long](https://lifehacker.com/snag-these-memorial-day-food-deals-all-weekend-long-1848967791)
 - [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
-- [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
