@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The 5 best HTTP request API`s for Javascript](https://dev.to/kai_wenzel/the-5-best-http-requests-apis-for-javascript-3ban)
+- [Dev.to/JS] [How To Use React Native AsyncStorage](https://dev.to/jscrambler/how-to-use-react-native-asyncstorage-n23)
+- [Dev.to/JS] [Freshworks MarketPlace apps using JavaScript Frameworks](https://dev.to/rajasegar/freshworks-marketplace-apps-using-javascript-frameworks-20pn)
+- [Dev.to/JS] [Start Using TailwindCSS Now!](https://dev.to/madflows/start-using-tailwindcss-now-42ii)
+- [Dev.to/JS] [How to create a file downloader via url using pure javascript](https://dev.to/incoderweb/how-to-create-a-file-downloader-via-url-using-pure-javascript-obp)
 - [Dev.to/JS] [Preloader for your website](https://dev.to/bawelna0225/preloader-for-your-website-495)
 - [Dev.to/JS] [My New Macbook Setup &lpar;2022&rpar;](https://dev.to/nazha/my-new-macbook-setup-2022-213m)
 - [Dev.to/JS] [Vue 3 Composition API + socket.io](https://dev.to/grawl/vue-3-composition-api-socketio-5den)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top JavaScript Frameworks to Use in 2022](https://dev.to/architprajapati/top-javascript-frameworks-to-use-in-2022-2fl5)
 - [Dev.to/JS] [Grouping and aggregating your data like a pro 🚀](https://dev.to/get_infinite/grouping-and-aggregating-your-data-like-a-pro-3eoc)
 - [Dev.to/JS] [Turboprop: JS Arrays as Property Accessors!?!](https://dev.to/jonrandy/turboprop-js-arrays-as-property-accessors-52h)
-- [Dev.to/JS] [What does it even mean to be Asynchronous in JavaScript?](https://dev.to/ianmcbull/what-does-it-even-mean-to-be-asynchronous-in-javascript-3a8i)
-- [Dev.to/JS] [What is the use of Proxy and Reflect in JavaScript?](https://dev.to/rajeshroyal/what-is-the-use-of-proxy-and-reflect-in-javascript-1a02)
-- [Dev.to/JS] [Svelte app: create Loading Overlay component using svelte/motion](https://dev.to/pavlov/svelte-app-create-loading-overlay-component-using-sveltemotion-5jp)
-- [Dev.to/JS] [Active Navbar with Next.js Routes](https://dev.to/j471n/active-navbar-with-nextjs-routes-k8l)
-- [Dev.to/JS] [Building a startup | Days 11 - 15](https://dev.to/advikguptadev/building-a-startup-days-1-15-od9)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
