@@ -23,24 +23,28 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code improvement tips](https://dev.to/soujanyasatpute/code-improvement-tips-lj9)
+- [Lifehacker] [How to Help a Child Who Struggles With Executive Function](https://lifehacker.com/how-to-help-a-child-who-struggles-with-executive-functi-1848979094)
+- [Dev.to/JS] [3 Things To Know Before Building with PyScript](https://dev.to/dolbyio/3-things-to-know-before-building-with-pyscript-4f6n)
+- [Dev.to/JS] [How to Resolve Circular Dependency on Angular Build ?.](https://dev.to/arvi2k17/how-to-resolve-circular-dependency-on-angular-build--28hm)
+- [Dev.to/JS] [Javascript map&lpar;&rpar;method](https://dev.to/talenttinaapi/javascript-mapmethod-42ne)
+- [Dev.to/JS] [Attach methods to a function component in React](https://dev.to/bkirova/attach-methods-to-a-function-component-in-react-acj)
+- [Lifehacker] [9 Strava Settings You Should Change to Keep Your Fitness Data Private](https://lifehacker.com/9-strava-settings-you-should-change-to-keep-your-fitnes-1848979818)
+- [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
+- [Dev.to/JS] [Day-95 Training At Ryaz](https://dev.to/mahin651/day-95-training-at-ryaz-jpe)
+- [Dev.to/JS] [How can I learn javascript myself and understand in a way that I will be able to build a project myself](https://dev.to/oladize1/how-can-i-learn-javascript-myself-and-understand-in-a-way-that-i-will-be-able-to-build-a-project-myself-2kce)
+- [Dev.to/JS] [Python vs JavaScript: Main Differences, Performance Comparison, and Areas of Application](https://dev.to/sergeylaptick/python-vs-javascript-main-differences-performance-comparison-and-areas-of-application-3l5d)
+- [Lifehacker] [The Best and Worst Times to Drive This Memorial Day Weekend](https://lifehacker.com/the-best-and-worst-times-to-drive-this-memorial-day-wee-1848980705)
 - [Dev.to/JS] [¿Qué es una API Rest?](https://dev.to/rogerdimonte/que-es-una-api-rest-5eg5)
 - [Dev.to/JS] [Beginners Guide to Consuming REST APIs in React](https://dev.to/olawanle_joel/beginners-guide-to-consuming-rest-apis-in-react-2blg)
 - [Dev.to/JS] [Managing Form state with React useState hook 🪝.](https://dev.to/barksanto/managing-form-state-with-react-usestate-hook--54a6)
 - [Lifehacker] [10 Uses for Baby Powder That Don&#39;t Involve Your Baby](https://lifehacker.com/10-uses-for-baby-powder-that-dont-involve-your-baby-1848980323)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When a Cop Knocks on Your Door](https://lifehacker.com/what-to-do-and-not-do-when-a-cop-knocks-on-your-door-1848980595)
 - [Dev.to/JS] [How You Can Create a Custom Endpoint in a Node.js Ecommerce Platform](https://dev.to/medusajs/how-you-can-create-a-custom-endpoint-in-a-nodejs-ecommerce-platform-4fb5)
-- [Dev.to/JS] [Paracetamol.js💊| #126: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-126-explica-este-codigo-javascript-13lk)
-- [Dev.to/JS] [Day 25-33: JS Calculator](https://dev.to/kemystra/day-25-33-js-calculator-5fp8)
 - [Lifehacker] [Should You Really Make Group Fitness Classes &#39;Your Own?&#39;](https://lifehacker.com/should-you-really-make-group-fitness-classes-your-own-1848972137)
-- [Dev.to/JS] [Reemo | Made with Nuxt JS](https://dev.to/madewithjavascript/reemo-made-with-nuxt-js-4i8b)
-- [Dev.to/JS] [JavaScript Array Methods : Find&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-find-96g)
-- [Dev.to/JS] [Comonetize | Made with React JS](https://dev.to/madewithjavascript/comonetize-made-with-react-js-2fg8)
 - [Lifehacker] [How to Poop on Vacation](https://lifehacker.com/how-to-poop-on-vacation-1848977225)
-- [Dev.to/JS] [Optimize Your Career for Growth](https://dev.to/thawkin3/optimize-your-career-for-growth-93n)
 - [Lifehacker] [How to Grow a Wildflower Garden From Seed &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-wildflower-garden-from-seed-and-why-you-1848973275)
-- [Dev.to/JS] [From building to selling - EP.10](https://dev.to/twankrui/from-building-to-selling-ep10-ic9)
 - [Lifehacker] [How Couples Should Decide Whether Counseling Is Worth It, According to Therapists](https://lifehacker.com/how-couples-should-decide-whether-counseling-is-worth-i-1848975355)
-- [Dev.to/JS] [A guide to building a Virtual Meet App with 100ms and React](https://dev.to/emmanuelthecoder/a-guide-to-building-a-virtual-meet-app-with-100ms-and-react-58mh)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
@@ -57,12 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Kill Mold In Your Washing Machine](https://lifehacker.com/how-to-kill-mold-in-your-washing-machine-1848972468)
 - [Lifehacker] [Make Vegan Cevapi With Impossible Meat](https://lifehacker.com/make-vegan-cevapi-with-impossible-meat-1848972375)
 - [Lifehacker] [Cheaper Ways to Take Your Kids to the Movies This Summer](https://lifehacker.com/cheaper-ways-to-take-your-kids-to-the-movies-this-summe-1848971005)
-- [Lifehacker] [21 of the Best Movies for Anyone Who Ever Wanted to Fly](https://lifehacker.com/21-of-the-best-movies-for-anyone-who-ever-wanted-to-fly-1848962703)
-- [Lifehacker] [This Hidden Apple Setting Makes You Sound So Much Better on Video Calls](https://lifehacker.com/this-hidden-apple-setting-makes-you-sound-so-much-bette-1848970372)
-- [Lifehacker] [Is a $10 Gym Membership Ever Really Worth It?](https://lifehacker.com/is-a-10-gym-membership-ever-really-worth-it-1848970889)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
-- [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
-- [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
 
 ---
 
