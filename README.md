@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Build on Flow: Learn FCL - Introduction](https://dev.to/maxstalker/build-on-flow-learn-fcl-introduction-51bp)
+- [Lifehacker] [How to Grow a Wildflower Garden From Seed &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-wildflower-garden-from-seed-and-why-you-1848973275)
+- [Dev.to/JS] [From building to selling - EP.10](https://dev.to/twankrui/from-building-to-selling-ep10-ic9)
+- [Lifehacker] [How Couples Should Decide Whether Counseling Is Worth It, According to Therapists](https://lifehacker.com/how-couples-should-decide-whether-counseling-is-worth-i-1848975355)
+- [Dev.to/JS] [A guide to building a Virtual Meet App with 100ms and React](https://dev.to/emmanuelthecoder/a-guide-to-building-a-virtual-meet-app-with-100ms-and-react-58mh)
+- [Dev.to/JS] [My First Dev post](https://dev.to/panditraghav/my-first-dev-post-5h80)
+- [Dev.to/JS] [How to rehydrate typed data?](https://dev.to/kamil7x/how-to-rehydrate-typed-data-1a7)
+- [Dev.to/JS] [Build on Flow: Learn FCL - Introduction](https://dev.to/onflow/build-on-flow-learn-fcl-introduction-51bp)
 - [Dev.to/JS] [Variable explanation help:](https://dev.to/callmebobonwa/variable-explanation-help-4md2)
 - [Dev.to/JS] [Building a Code Snippet Highlighter in Next.js](https://dev.to/asayerio_techblog/building-a-code-snippet-highlighter-in-nextjs-31mk)
 - [Dev.to/JS] [How To Use React Native AsyncStorage](https://dev.to/jscrambler/how-to-use-react-native-asyncstorage-13kd)
@@ -31,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue-Nuxt remove html tags from rendered text for SEO](https://dev.to/siumhossain/vue-nuxt-remove-html-tags-from-rendered-text-for-seo-5e47)
 - [Dev.to/JS] [Ditch Dynamic Imports and Start Using Absolute Imports!](https://dev.to/madflows/ditch-dynamic-imports-and-start-using-absolute-imports-2p80)
 - [Dev.to/JS] [The 5 best HTTP request API`s for Javascript](https://dev.to/kai_wenzel/the-5-best-http-requests-apis-for-javascript-3ban)
-- [Dev.to/JS] [Freshworks MarketPlace apps using JavaScript Frameworks](https://dev.to/rajasegar/freshworks-marketplace-apps-using-javascript-frameworks-20pn)
-- [Dev.to/JS] [Start Using TailwindCSS Now!](https://dev.to/madflows/start-using-tailwindcss-now-42ii)
-- [Dev.to/JS] [How to create a file downloader via url using pure javascript](https://dev.to/incoderweb/how-to-create-a-file-downloader-via-url-using-pure-javascript-obp)
-- [Dev.to/JS] [Preloader for your website](https://dev.to/bawelna0225/preloader-for-your-website-495)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 - [Lifehacker] [What&#39;s New on Hulu in June 2022](https://lifehacker.com/whats-new-on-hulu-in-june-2022-1848970783)
 - [Lifehacker] [Ten Items That Belong in Every Carry-On Bag](https://lifehacker.com/ten-items-that-belong-in-every-carry-on-bag-1848969619)
-- [Lifehacker] [‘Abbott Elementary’s’ Sheryl Lee Ralph Takes Us to School](https://lifehacker.com/abbott-elementary-s-sheryl-lee-ralph-takes-us-to-scho-1848969982)
-- [Lifehacker] [When to Watch the Tau Herculid Meteor Shower](https://lifehacker.com/when-to-watch-the-tau-herculid-meteor-shower-1848969011)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
