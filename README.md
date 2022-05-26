@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What does it even mean to be Asynchronous in JavaScript?](https://dev.to/ianmcbull/what-does-it-even-mean-to-be-asynchronous-in-javascript-3a8i)
+- [Dev.to/JS] [What is the use of Proxy and Reflect in JavaScript?](https://dev.to/rajeshroyal/what-is-the-use-of-proxy-and-reflect-in-javascript-1a02)
 - [Dev.to/JS] [Svelte app: create Loading Overlay component using svelte/motion](https://dev.to/pavlov/svelte-app-create-loading-overlay-component-using-sveltemotion-5jp)
 - [Dev.to/JS] [Active Navbar with Next.js Routes](https://dev.to/j471n/active-navbar-with-nextjs-routes-k8l)
 - [Dev.to/JS] [Building a startup | Days 11 - 15](https://dev.to/advikguptadev/building-a-startup-days-1-15-od9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [💡 50+ JavaScript Project ideas!](https://dev.to/ranaharoon3222/50-javascript-project-ideas-13pp)
 - [Dev.to/JS] [Understanding the need for useEvent&lpar;&rpar; React hook.](https://dev.to/swastikyadav/understanding-the-need-for-useevent-react-hook-51g2)
 - [Dev.to/JS] [Hey guys what&#39;s better Vue or React?](https://dev.to/a4akki/hey-guys-whats-better-vue-or-react-3aka)
-- [Dev.to/JS] [groupbuyseotoolsorg](https://dev.to/groupbuyseotoolsorg/groupbuyseotoolsorg-41eo)
-- [Dev.to/JS] [Read the latest news! Integration of Huawei Push Kit in Application using React Native](https://dev.to/hmscommunity/read-the-latest-news-integration-of-huawei-push-kit-in-application-using-react-native-598g)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
