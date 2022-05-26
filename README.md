@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Know About the Tick That Can Make You Allergic to Meat](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
+- [Dev.to/JS] [JavaScript Array Methods: join&lpar;&rpar;](https://dev.to/boldodev_/javascript-array-methods-join-4590)
+- [Lifehacker] [11 Rigged Carnival Games You Won’t Win &lpar;and One You Might&rpar;](https://lifehacker.com/11-rigged-carnival-games-you-won-t-win-and-one-you-mig-1848978227)
+- [Lifehacker] [All the Ways to Save on Gas This Memorial Day Weekend](https://lifehacker.com/all-the-ways-to-save-on-gas-this-memorial-day-weekend-1848982450)
+- [Dev.to/JS] [CodeAcademy Backend Project: E-Commerce](https://dev.to/belljohan3/codeacademy-backend-project-e-commerce-535j)
+- [Lifehacker] [Why Your iPhone Takes So Long to Install Updates Automatically](https://lifehacker.com/why-your-iphone-takes-so-long-to-install-updates-automa-1848982208)
 - [Dev.to/JS] [Timely Advice: How long does dataviz take?](https://dev.to/elibryan/timely-advice-how-long-does-dataviz-take-52go)
 - [Dev.to/JS] [A Simple Overview of JavaScript Object Destructuring](https://dev.to/jaredsurya/a-simple-overview-of-object-destructuring-in-javascript-28g8)
 - [Lifehacker] [The Difference Between Being a Hoarder and Just Messy &lpar;and What to Do Either Way&rpar;](https://lifehacker.com/the-difference-between-being-a-hoarder-and-just-messy-1848981899)
@@ -37,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Things To Know Before Building with PyScript](https://dev.to/dolbyio/3-things-to-know-before-building-with-pyscript-4f6n)
 - [Dev.to/JS] [How to Resolve Circular Dependency on Angular Build ?.](https://dev.to/arvi2k17/how-to-resolve-circular-dependency-on-angular-build--28hm)
 - [Dev.to/JS] [Javascript map&lpar;&rpar;method](https://dev.to/talenttinaapi/javascript-mapmethod-42ne)
-- [Dev.to/JS] [Attach methods to a function component in React](https://dev.to/bkirova/attach-methods-to-a-function-component-in-react-acj)
 - [Lifehacker] [9 Strava Settings You Should Change to Keep Your Fitness Data Private](https://lifehacker.com/9-strava-settings-you-should-change-to-keep-your-fitnes-1848979818)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
-- [Dev.to/JS] [Day-95 Training At Ryaz](https://dev.to/mahin651/day-95-training-at-ryaz-jpe)
 - [Lifehacker] [The Best and Worst Times to Drive This Memorial Day Weekend](https://lifehacker.com/the-best-and-worst-times-to-drive-this-memorial-day-wee-1848980705)
 - [Lifehacker] [10 Uses for Baby Powder That Don&#39;t Involve Your Baby](https://lifehacker.com/10-uses-for-baby-powder-that-dont-involve-your-baby-1848980323)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When a Cop Knocks on Your Door](https://lifehacker.com/what-to-do-and-not-do-when-a-cop-knocks-on-your-door-1848980595)
@@ -57,10 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How &#39;Nudge Theory&#39; Can Help You &lpar;and Others&rpar; Make Better Choices](https://lifehacker.com/how-nudge-theory-can-help-you-and-others-make-better-1848970422)
 - [Lifehacker] [Everything New in Chrome 102](https://lifehacker.com/everything-new-in-chrome-102-1848975172)
 - [Lifehacker] [How to Sell a Video Game You Made Yourself](https://lifehacker.com/how-to-sell-a-video-game-you-made-yourself-1848971894)
-- [Lifehacker] [7 Ways You Didn’t Know You Could Search for Photos on Your iPhone](https://lifehacker.com/7-ways-you-didn-t-know-you-could-search-for-photos-on-y-1848973669)
-- [Lifehacker] [How to Talk to Your Kids About School Shootings](https://lifehacker.com/how-to-talk-to-your-kids-about-school-shootings-1848975621)
-- [Lifehacker] [What&#39;s New on Netflix in June 2022](https://lifehacker.com/whats-new-on-netflix-in-june-2022-1848975521)
-- [Lifehacker] [You Can Actually Do Something About How Clumsy You Are](https://lifehacker.com/you-can-actually-do-something-about-how-clumsy-you-are-1848970465)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
 
