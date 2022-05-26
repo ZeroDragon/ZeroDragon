@@ -23,12 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Qué es una API Rest?](https://dev.to/rogerdimonte/que-es-una-api-rest-5eg5)
+- [Dev.to/JS] [Beginners Guide to Consuming REST APIs in React](https://dev.to/olawanle_joel/beginners-guide-to-consuming-rest-apis-in-react-2blg)
+- [Dev.to/JS] [Managing Form state with React useState hook 🪝.](https://dev.to/barksanto/managing-form-state-with-react-usestate-hook--54a6)
+- [Lifehacker] [10 Uses for Baby Powder That Don&#39;t Involve Your Baby](https://lifehacker.com/10-uses-for-baby-powder-that-dont-involve-your-baby-1848980323)
+- [Lifehacker] [What to Do &lpar;and Not Do&rpar; When a Cop Knocks on Your Door](https://lifehacker.com/what-to-do-and-not-do-when-a-cop-knocks-on-your-door-1848980595)
 - [Dev.to/JS] [How You Can Create a Custom Endpoint in a Node.js Ecommerce Platform](https://dev.to/medusajs/how-you-can-create-a-custom-endpoint-in-a-nodejs-ecommerce-platform-4fb5)
 - [Dev.to/JS] [Paracetamol.js💊| #126: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-126-explica-este-codigo-javascript-13lk)
 - [Dev.to/JS] [Day 25-33: JS Calculator](https://dev.to/kemystra/day-25-33-js-calculator-5fp8)
-- [Dev.to/JS] [nfkfdmkdm](https://dev.to/liu101/nfkfdmkdm-569g)
-- [Dev.to/JS] [dsnkdsnkfd](https://dev.to/liu101/dsnkdsnkfd-3nb6)
-- [Dev.to/JS] [ggggggggggg](https://dev.to/liu101/ggggggggggg-4bak)
 - [Lifehacker] [Should You Really Make Group Fitness Classes &#39;Your Own?&#39;](https://lifehacker.com/should-you-really-make-group-fitness-classes-your-own-1848972137)
 - [Dev.to/JS] [Reemo | Made with Nuxt JS](https://dev.to/madewithjavascript/reemo-made-with-nuxt-js-4i8b)
 - [Dev.to/JS] [JavaScript Array Methods : Find&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-find-96g)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [21 of the Best Movies for Anyone Who Ever Wanted to Fly](https://lifehacker.com/21-of-the-best-movies-for-anyone-who-ever-wanted-to-fly-1848962703)
 - [Lifehacker] [This Hidden Apple Setting Makes You Sound So Much Better on Video Calls](https://lifehacker.com/this-hidden-apple-setting-makes-you-sound-so-much-bette-1848970372)
 - [Lifehacker] [Is a $10 Gym Membership Ever Really Worth It?](https://lifehacker.com/is-a-10-gym-membership-ever-really-worth-it-1848970889)
-- [Lifehacker] [Snag These Memorial Day Food Deals All Weekend Long](https://lifehacker.com/snag-these-memorial-day-food-deals-all-weekend-long-1848967791)
-- [Lifehacker] [These Hyundai Cars Are Being Recalled for Potentially Explosive Seatbelt Parts](https://lifehacker.com/these-hyundai-cars-are-being-recalled-for-potentially-e-1848971582)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)
 - [Crazy Programmer] [Solve TypeError: list indices must be integers or slices, not str in Python](https://www.thecrazyprogrammer.com/2022/05/list-indices-must-be-integers-or-slices-not-str.html)<!-- TECH-POSTS:END -->
