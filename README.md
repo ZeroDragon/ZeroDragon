@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Read the latest news! Integration of Huawei Push Kit in Application using React Native](https://dev.to/hmscommunity/read-the-latest-news-integration-of-huawei-push-kit-in-application-using-react-native-598g)
 - [Dev.to/JS] [Roteando as api do NextJS usando verbos HTTP](https://dev.to/pedroramon/roteando-as-api-do-nextjs-usando-verbos-http-1oa7)
 - [Dev.to/JS] [Cross Browser testing with cypress✨](https://dev.to/marlo2222/cross-browser-testing-with-cypress-38ll)
 - [Dev.to/JS] [Camadas da Arquitetura &lpar;Clean Architecture&rpar;](https://dev.to/gj_developer/camadas-de-arquitetura-clean-architecture-50ll)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating an HLS VOD &lpar;Video on Demand&rpar; Streaming Platform with Typescript, AdonisJS, and AWS](https://dev.to/adamkatora/creating-an-hls-vod-video-on-demand-streaming-platform-with-typescript-adonisjs-and-aws-59gg)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Dev.to/JS] [Intro to reactiveUtils in ArcGIS JSAPI](https://dev.to/odoenet/intro-to-reactiveutils-in-arcgis-jsapi-2i3m)
-- [Dev.to/JS] [What is Jamstack](https://dev.to/maxikius/what-is-jamstack-3khe)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
 - [Lifehacker] [The Best Drought-Resistant Alternatives to a Thirsty Grass Lawn](https://lifehacker.com/the-best-drought-resistant-alternatives-to-a-thirsty-gr-1848975951)
 - [Lifehacker] [The Personal Finance Advice Every College Graduate Needs](https://lifehacker.com/the-personal-finance-advice-every-college-graduate-need-1848975100)
