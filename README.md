@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Neumorphism Pyramid](https://dev.to/rembertdesigns/neumorphism-pyramid-5cg7)
 - [Dev.to/JS] [Uses of JSON.parse&lpar;&rpar; and JSON.stringify&lpar;&rpar;](https://dev.to/mizanur919/uses-of-jsonparse-and-jsonstringify-2c17)
 - [Dev.to/JS] [Create Wavy Underline in just 2 lines](https://dev.to/codewithsnowbit/create-wavy-underline-in-just-2-lines-ol5)
 - [Dev.to/JS] [💡 50+ JavaScript Project ideas!](https://dev.to/ranaharoon3222/50-javascript-project-ideas-13pp)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cross Browser testing with cypress✨](https://dev.to/marlo2222/cross-browser-testing-with-cypress-38ll)
 - [Dev.to/JS] [Camadas da Arquitetura &lpar;Clean Architecture&rpar;](https://dev.to/gj_developer/camadas-de-arquitetura-clean-architecture-50ll)
 - [Dev.to/JS] [Vue3 Composition API: watchEffect vs. watch](https://dev.to/asayerio_techblog/vue3-composition-api-watcheffect-vs-watch-20e0)
-- [Dev.to/JS] [First post on Dev. Connect with me!](https://dev.to/dilungasr/first-post-on-dev-connect-with-me-49i5)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
