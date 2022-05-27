@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tricks to Debug JavaScript Faster](https://dev.to/tulusibrahim/tricks-to-debug-javascript-faster-23h6)
+- [Dev.to/JS] [**Some of the things you need to learn before getting started on Node**](https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi)
 - [Dev.to/JS] [Clean Architecture: implementando meu primeiro Use Case](https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7)
 - [Dev.to/JS] [Tools of the Trade: Declarative DNS with dnscontrol](https://dev.to/sphericalkat/tools-of-the-trade-declarative-dns-with-dnscontrol-21n)
 - [Dev.to/JS] [Dear Web Devs, Please Use Anchors Instead of Divs for Buttons](https://dev.to/cppshane/dear-web-devs-please-use-anchors-instead-of-divs-for-buttons-4koi)
@@ -35,10 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Dev.to/JS] [AI Chatbot](https://dev.to/diogovski/ai-chatbot-1maf)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
-- [Dev.to/JS] [Smoothly test React components with multiple Contexts.](https://dev.to/alexandprivate/smoothly-test-react-components-with-multiple-contexts-453f)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
 - [Lifehacker] [What to Know About the Tick That Can Make You Allergic to Meat](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
-- [Dev.to/JS] [JavaScript Array Methods: join&lpar;&rpar;](https://dev.to/boldodev_/javascript-array-methods-join-4590)
 - [Lifehacker] [11 Rigged Carnival Games You Won’t Win &lpar;and One You Might&rpar;](https://lifehacker.com/11-rigged-carnival-games-you-won-t-win-and-one-you-mig-1848978227)
 - [Lifehacker] [All the Ways to Save on Gas This Memorial Day Weekend](https://lifehacker.com/all-the-ways-to-save-on-gas-this-memorial-day-weekend-1848982450)
 - [Lifehacker] [Why Your iPhone Takes So Long to Install Updates Automatically](https://lifehacker.com/why-your-iphone-takes-so-long-to-install-updates-automa-1848982208)
