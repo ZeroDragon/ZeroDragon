@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reducing JS code in your Vue bundle](https://dev.to/vmoe/reducing-js-code-in-your-vue-bundle-3mad)
+- [Lifehacker] [Can You Actually Fix Your Tech By Smacking It?](https://lifehacker.com/can-you-actually-fix-your-tech-by-smacking-it-1848983083)
+- [Dev.to/JS] [Am addicted to this drug 😊...](https://dev.to/evansifyke/am-addicted-to-this-drug--357f)
+- [Dev.to/JS] [Build on Flow | Learn FCL - 2. Pass Arguments to Scripts](https://dev.to/onflow/build-on-flow-learn-fcl-2-pass-arguments-to-scripts-393f)
 - [Dev.to/JS] [Send an email without being redirected or reloading Page](https://dev.to/bawelna0225/send-an-email-without-being-redirected-or-reloading-page-1c5j)
 - [Dev.to/JS] [Building a static website using Iles.js](https://dev.to/asayerio_techblog/building-a-static-website-using-ilesjs-1pim)
 - [Dev.to/JS] [How to Find The Best Backend Development Company for Your Dream Web or App Project in 2022](https://dev.to/radhika_majithiya/how-to-find-the-bestbackend-developmentcompany-for-your-dreamweb-or-app-project-in-2022-23be)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getters And Setters: What Are Getters And Setters In JavaScript ?](https://dev.to/ezinne_anne/getters-and-setters-what-are-getters-and-setters-in-javascript--212n)
 - [Dev.to/JS] [EASIEST way to copy text to clipboard when button is pressed - using JavaScript](https://dev.to/anatugreen/easiest-way-to-copy-text-to-clipboard-when-button-is-pressed-using-javascript-55m7)
 - [Dev.to/JS] [React Holmes 🔍 - Elementary State Orchestrator for React](https://dev.to/riktar/react-holmes-elementary-state-orchestrator-for-react-4djd)
-- [Dev.to/JS] [7 Questions to Ask Yourself Before Taking Outsourcing Data Entry Services](https://dev.to/walliam89/7-questions-to-ask-yourself-before-taking-outsourcing-data-entry-services-ci7)
-- [Dev.to/JS] [How can I join the open source community](https://dev.to/wonuola_w/how-can-i-join-the-open-source-community-3jb6)
-- [Dev.to/JS] [What happened to “Javascript Killer” WebAssembly? Is it already dead?](https://dev.to/parthmakawana/what-happened-to-javascript-killer-webassembly-is-it-already-dead-3817)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
 - [Lifehacker] [The Best Drought-Resistant Alternatives to a Thirsty Grass Lawn](https://lifehacker.com/the-best-drought-resistant-alternatives-to-a-thirsty-gr-1848975951)
 - [Lifehacker] [The Personal Finance Advice Every College Graduate Needs](https://lifehacker.com/the-personal-finance-advice-every-college-graduate-need-1848975100)
-- [Lifehacker] [How to Choose a Portable Power Station &lpar;and Why You Want One&rpar;](https://lifehacker.com/how-to-choose-a-portable-power-station-and-why-you-wan-1848975019)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
 
