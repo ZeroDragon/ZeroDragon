@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get SCS-C01 Dumps PDF To Prepare Exam Inside a Less Time_](https://dev.to/davidjerry4311/get-scs-c01-dumps-pdf-to-prepare-exam-inside-a-less-time-4pjp)
+- [Dev.to/JS] [Pantangan Setelah Filler](https://dev.to/beautynewsindo/pantangan-setelah-filler-183a)
+- [Dev.to/JS] [Common JavaScript Errors and How To Handle Them](https://dev.to/lambdatest/common-javascript-errors-and-how-to-handle-them-5em9)
+- [Dev.to/JS] [What s the best javascript 3D libarie to learn right now?](https://dev.to/felicio2310/whats-the-best-javascript-3d-libarie-to-learn-right-now-4ib0)
+- [Dev.to/JS] [5 VSCode Extensions You Must Use](https://dev.to/murtuzaalisurti/5-vscode-extensions-you-must-use-961)
 - [Dev.to/JS] [Matching faces to Twitter DPs #ngIndia](https://dev.to/epilot/matching-faces-to-twitter-dps-ngindia-1j9j)
 - [Dev.to/JS] [Javascript Array Methods With Example](https://dev.to/harendra21/javascript-array-methods-with-example-3fac)
 - [Dev.to/JS] [Tricks to Debug JavaScript Faster](https://dev.to/tulusibrahim/tricks-to-debug-javascript-faster-23h6)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clean Architecture: implementando meu primeiro Use Case](https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7)
 - [Dev.to/JS] [Tools of the Trade: Declarative DNS with dnscontrol](https://dev.to/sphericalkat/tools-of-the-trade-declarative-dns-with-dnscontrol-21n)
 - [Dev.to/JS] [Dear Web Devs, Please Use Anchors Instead of Divs for Buttons](https://dev.to/cppshane/dear-web-devs-please-use-anchors-instead-of-divs-for-buttons-4koi)
-- [Dev.to/JS] [JavaScript library for client-side non-blocking notifications](https://dev.to/gil_finkelstein/javascript-library-for-client-side-non-blocking-notifications-16d5)
-- [Dev.to/JS] [How to Make Your Own Livestreaming Service with api.video](https://dev.to/rahulbanerjee99/how-to-make-your-own-livestreaming-service-with-apivideo-23fo)
-- [Dev.to/JS] [React Tip](https://dev.to/talenttinaapi/react-tip-4ck)
-- [Dev.to/JS] [How To Create Sankey Diiagram with JavaScript](https://dev.to/andreykh1985/how-to-create-sankey-diiagram-with-javascript-3o6n)
-- [Dev.to/JS] [Hi there!](https://dev.to/damanita/hi-there-2jap)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
