@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Holmes 🔍 - Elementary State Orchestrator for React](https://dev.to/riktar/react-holmes-elementary-state-orchestrator-for-react-4djd)
+- [Dev.to/JS] [7 Questions to Ask Yourself Before Taking Outsourcing Data Entry Services](https://dev.to/walliam89/7-questions-to-ask-yourself-before-taking-outsourcing-data-entry-services-ci7)
+- [Dev.to/JS] [How can I join the open source community](https://dev.to/wonuola_w/how-can-i-join-the-open-source-community-3jb6)
 - [Dev.to/JS] [What happened to “Javascript Killer” WebAssembly? Is it already dead?](https://dev.to/parthmakawana/what-happened-to-javascript-killer-webassembly-is-it-already-dead-3817)
 - [Dev.to/JS] [Get SCS-C01 Dumps PDF To Prepare Exam Inside a Less Time_](https://dev.to/davidjerry4311/get-scs-c01-dumps-pdf-to-prepare-exam-inside-a-less-time-4pjp)
 - [Dev.to/JS] [Pantangan Setelah Filler](https://dev.to/beautynewsindo/pantangan-setelah-filler-183a)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Matching faces to Twitter DPs #ngIndia](https://dev.to/epilot/matching-faces-to-twitter-dps-ngindia-1j9j)
 - [Dev.to/JS] [Javascript Array Methods With Example](https://dev.to/harendra21/javascript-array-methods-with-example-3fac)
 - [Dev.to/JS] [Tricks to Debug JavaScript Faster](https://dev.to/tulusibrahim/tricks-to-debug-javascript-faster-23h6)
-- [Dev.to/JS] [**Some of the things you need to learn before getting started on Node**](https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi)
-- [Dev.to/JS] [Clean Architecture: implementando meu primeiro Use Case](https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7)
-- [Dev.to/JS] [Tools of the Trade: Declarative DNS with dnscontrol](https://dev.to/sphericalkat/tools-of-the-trade-declarative-dns-with-dnscontrol-21n)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
