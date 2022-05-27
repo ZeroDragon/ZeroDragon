@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dear Web Devs, Please Use Anchors Instead of Divs for Buttons](https://dev.to/cppshane/dear-web-devs-please-use-anchors-instead-of-divs-for-buttons-4koi)
+- [Dev.to/JS] [JavaScript library for client-side non-blocking notifications](https://dev.to/gil_finkelstein/javascript-library-for-client-side-non-blocking-notifications-16d5)
 - [Dev.to/JS] [How to Make Your Own Livestreaming Service with api.video](https://dev.to/rahulbanerjee99/how-to-make-your-own-livestreaming-service-with-apivideo-23fo)
 - [Dev.to/JS] [React Tip](https://dev.to/talenttinaapi/react-tip-4ck)
 - [Dev.to/JS] [How To Create Sankey Diiagram with JavaScript](https://dev.to/andreykh1985/how-to-create-sankey-diiagram-with-javascript-3o6n)
@@ -40,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CodeAcademy Backend Project: E-Commerce](https://dev.to/belljohan3/codeacademy-backend-project-e-commerce-535j)
 - [Lifehacker] [Why Your iPhone Takes So Long to Install Updates Automatically](https://lifehacker.com/why-your-iphone-takes-so-long-to-install-updates-automa-1848982208)
 - [Dev.to/JS] [Timely Advice: How long does dataviz take?](https://dev.to/elibryan/timely-advice-how-long-does-dataviz-take-52go)
-- [Dev.to/JS] [A Simple Overview of JavaScript Object Destructuring](https://dev.to/jaredsurya/a-simple-overview-of-object-destructuring-in-javascript-28g8)
 - [Lifehacker] [The Difference Between Being a Hoarder and Just Messy &lpar;and What to Do Either Way&rpar;](https://lifehacker.com/the-difference-between-being-a-hoarder-and-just-messy-1848981899)
 - [Lifehacker] [Chrome Can Identify the Song Playing in Any Streaming Video](https://lifehacker.com/chrome-can-identify-the-song-playing-in-any-streaming-v-1848981380)
-- [Dev.to/JS] [What is Styled-Components?](https://dev.to/jc21romadulce/what-is-styled-components-51o)
 - [Lifehacker] [Are These Tangle-Free USB Cables Worth It?](https://lifehacker.com/are-these-tangle-free-usb-cables-worth-it-1848980704)
 - [Lifehacker] [How to Help a Child Who Struggles With Executive Function](https://lifehacker.com/how-to-help-a-child-who-struggles-with-executive-functi-1848979094)
 - [Lifehacker] [9 Strava Settings You Should Change to Keep Your Fitness Data Private](https://lifehacker.com/9-strava-settings-you-should-change-to-keep-your-fitnes-1848979818)
