@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Jest Configuration in The Svelte Application](https://dev.to/deotyma/the-jest-configuration-in-the-svelte-application-4dm5)
 - [Dev.to/JS] [Chattery | Made with React JS](https://dev.to/madewithjavascript/chattery-made-with-react-js-149o)
 - [Dev.to/JS] [Add maps and location services to your apps](https://dev.to/jf990/add-maps-and-location-services-to-your-apps-3m88)
 - [Dev.to/JS] [Becoming a JavaScript Code Warrior](https://dev.to/nats_tech_notes/becoming-a-javascript-code-warrior-f96)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
 - [Dev.to/JS] [GIAY U2](https://dev.to/giayu2/giay-u2-2dh6)
 - [Lifehacker] [When to See the Full Strawberry Supermoon in June](https://lifehacker.com/when-to-see-the-full-strawberry-supermoon-in-june-1848987372)
-- [Dev.to/JS] [Loop through Object in Javascript](https://dev.to/yohanesss/loop-through-object-in-javascript-23o0)
 - [Lifehacker] [Why You Shouldn’t Wait to Sell Your Used Car](https://lifehacker.com/why-you-shouldn-t-wait-to-sell-your-used-car-1848986523)
 - [Lifehacker] [How to Avoid the Seat-Selection Fee on Flights](https://lifehacker.com/how-to-avoid-the-seat-selection-fee-on-flights-1848986404)
 - [Lifehacker] [Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
