@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What happened to “Javascript Killer” WebAssembly? Is it already dead?](https://dev.to/parthmakawana/what-happened-to-javascript-killer-webassembly-is-it-already-dead-3817)
 - [Dev.to/JS] [Get SCS-C01 Dumps PDF To Prepare Exam Inside a Less Time_](https://dev.to/davidjerry4311/get-scs-c01-dumps-pdf-to-prepare-exam-inside-a-less-time-4pjp)
 - [Dev.to/JS] [Pantangan Setelah Filler](https://dev.to/beautynewsindo/pantangan-setelah-filler-183a)
 - [Dev.to/JS] [Common JavaScript Errors and How To Handle Them](https://dev.to/lambdatest/common-javascript-errors-and-how-to-handle-them-5em9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [**Some of the things you need to learn before getting started on Node**](https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi)
 - [Dev.to/JS] [Clean Architecture: implementando meu primeiro Use Case](https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7)
 - [Dev.to/JS] [Tools of the Trade: Declarative DNS with dnscontrol](https://dev.to/sphericalkat/tools-of-the-trade-declarative-dns-with-dnscontrol-21n)
-- [Dev.to/JS] [Dear Web Devs, Please Use Anchors Instead of Divs for Buttons](https://dev.to/cppshane/dear-web-devs-please-use-anchors-instead-of-divs-for-buttons-4koi)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
