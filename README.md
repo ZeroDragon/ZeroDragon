@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
+- [Dev.to/JS] [React useEffect](https://dev.to/khriztianmoreno/react-useeffect-56g2)
+- [Dev.to/JS] [CI/CD o&#39;zi nima?](https://dev.to/humoyun/cicd-ozi-nima-14ba)
+- [Lifehacker] [Why Your Pixel’s 4x Zoom Doesn&#39;t Work When You Shoot Video &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-pixel-s-4x-zoom-doesnt-work-when-you-shoot-vid-1848986470)
+- [Dev.to/JS] [Symfony Station Communiqué — 27 May 2022. A look at Symfony, PHP, and Cybersecurity News!](https://dev.to/reubenwalker64/symfony-station-communique-27-may-2022-a-look-at-symfony-php-and-cybersecurity-news-6a2)
+- [Lifehacker] [10 More &#39;80s Masterpieces That Deserve Sequels](https://lifehacker.com/10-more-80s-masterpieces-that-deserve-sequels-1848979835)
 - [Dev.to/JS] [Can anyone suggest some interesting backend projects ??](https://dev.to/rishabh0906/can-anyone-suggest-some-interesting-backend-projects--4gg0)
 - [Dev.to/JS] [Paracetamol.js💊| #127: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-127-explica-este-codigo-javascript-4jlo)
 - [Lifehacker] [9 Games You Can Beat in an Afternoon &lpar;and 3 You Can Tackle in a Weekend&rpar;](https://lifehacker.com/9-games-you-can-beat-in-an-afternoon-and-3-you-can-tac-1848939148)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build on Flow | Learn FCL - 2. Pass Arguments to Scripts](https://dev.to/onflow/build-on-flow-learn-fcl-2-pass-arguments-to-scripts-393f)
 - [Dev.to/JS] [Send an email without being redirected or reloading Page](https://dev.to/bawelna0225/send-an-email-without-being-redirected-or-reloading-page-1c5j)
 - [Dev.to/JS] [Building a static website using Iles.js](https://dev.to/asayerio_techblog/building-a-static-website-using-ilesjs-1pim)
-- [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;4&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-4-1di3)
-- [Dev.to/JS] [Adding Voice Assistant to React Apps with Alan AI](https://dev.to/kanak22/adding-voice-assistant-to-react-apps-with-alan-ai-5f37)
-- [Dev.to/JS] [CoPY to CLIPBOARD in JavaScript !](https://dev.to/neeswebservices/copy-to-clipboard-in-javascript--5gam)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Really Make Group Fitness Classes &#39;Your Own?&#39;](https://lifehacker.com/should-you-really-make-group-fitness-classes-your-own-1848972137)
 - [Lifehacker] [How to Poop on Vacation](https://lifehacker.com/how-to-poop-on-vacation-1848977225)
 - [Lifehacker] [How to Grow a Wildflower Garden From Seed &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-wildflower-garden-from-seed-and-why-you-1848973275)
-- [Lifehacker] [How Couples Should Decide Whether Counseling Is Worth It, According to Therapists](https://lifehacker.com/how-couples-should-decide-whether-counseling-is-worth-i-1848975355)
-- [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
-- [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
 
