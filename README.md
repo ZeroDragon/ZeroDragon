@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Make Your Own Livestreaming Service with api.video](https://dev.to/rahulbanerjee99/how-to-make-your-own-livestreaming-service-with-apivideo-23fo)
+- [Dev.to/JS] [React Tip](https://dev.to/talenttinaapi/react-tip-4ck)
+- [Dev.to/JS] [How To Create Sankey Diiagram with JavaScript](https://dev.to/andreykh1985/how-to-create-sankey-diiagram-with-javascript-3o6n)
+- [Dev.to/JS] [Hi there!](https://dev.to/damanita/hi-there-2jap)
 - [Dev.to/JS] [Promises: Five Tips to Work Smarter](https://dev.to/oculus42/promises-five-tips-to-work-smarter-mme)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Dev.to/JS] [AI Chatbot](https://dev.to/diogovski/ai-chatbot-1maf)
@@ -40,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Being a Hoarder and Just Messy &lpar;and What to Do Either Way&rpar;](https://lifehacker.com/the-difference-between-being-a-hoarder-and-just-messy-1848981899)
 - [Lifehacker] [Chrome Can Identify the Song Playing in Any Streaming Video](https://lifehacker.com/chrome-can-identify-the-song-playing-in-any-streaming-v-1848981380)
 - [Dev.to/JS] [What is Styled-Components?](https://dev.to/jc21romadulce/what-is-styled-components-51o)
-- [Dev.to/JS] [Learn JavaScript in 10 minutes [part-1]](https://dev.to/acesif/learn-javascript-in-10-minutes-part-1-cni)
-- [Dev.to/JS] [Conducted a free webinar on Angular Essentials for Corporate Folks](https://dev.to/ankit_k_sharma/conducted-a-free-webinar-on-angular-essentials-for-corporate-folks-1ppp)
 - [Lifehacker] [Are These Tangle-Free USB Cables Worth It?](https://lifehacker.com/are-these-tangle-free-usb-cables-worth-it-1848980704)
-- [Dev.to/JS] [#24: Cognitive Services &amp; SWA](https://dev.to/azure/24-cognitive-services-swa-4bgd)
-- [Dev.to/JS] [Code improvement tips](https://dev.to/soujanyasatpute/code-improvement-tips-lj9)
 - [Lifehacker] [How to Help a Child Who Struggles With Executive Function](https://lifehacker.com/how-to-help-a-child-who-struggles-with-executive-functi-1848979094)
 - [Lifehacker] [9 Strava Settings You Should Change to Keep Your Fitness Data Private](https://lifehacker.com/9-strava-settings-you-should-change-to-keep-your-fitnes-1848979818)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
