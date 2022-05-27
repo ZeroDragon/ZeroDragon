@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Matching faces to Twitter DPs #ngIndia](https://dev.to/epilot/matching-faces-to-twitter-dps-ngindia-1j9j)
 - [Dev.to/JS] [Javascript Array Methods With Example](https://dev.to/harendra21/javascript-array-methods-with-example-3fac)
 - [Dev.to/JS] [Tricks to Debug JavaScript Faster](https://dev.to/tulusibrahim/tricks-to-debug-javascript-faster-23h6)
 - [Dev.to/JS] [**Some of the things you need to learn before getting started on Node**](https://dev.to/jane49cloud/some-of-the-things-you-need-to-learn-before-getting-started-on-node-38hi)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Tip](https://dev.to/talenttinaapi/react-tip-4ck)
 - [Dev.to/JS] [How To Create Sankey Diiagram with JavaScript](https://dev.to/andreykh1985/how-to-create-sankey-diiagram-with-javascript-3o6n)
 - [Dev.to/JS] [Hi there!](https://dev.to/damanita/hi-there-2jap)
-- [Dev.to/JS] [Promises: Five Tips to Work Smarter](https://dev.to/oculus42/promises-five-tips-to-work-smarter-mme)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
