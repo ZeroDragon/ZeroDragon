@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Can anyone suggest some interesting backend projects ??](https://dev.to/rishabh0906/can-anyone-suggest-some-interesting-backend-projects--4gg0)
+- [Dev.to/JS] [Paracetamol.js💊| #127: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-127-explica-este-codigo-javascript-4jlo)
+- [Lifehacker] [9 Games You Can Beat in an Afternoon &lpar;and 3 You Can Tackle in a Weekend&rpar;](https://lifehacker.com/9-games-you-can-beat-in-an-afternoon-and-3-you-can-tac-1848939148)
+- [Lifehacker] [The Hidden iPhone Calculator Tips You Should Be Using](https://lifehacker.com/the-hidden-iphone-calculator-tips-you-should-be-using-1848985678)
 - [Dev.to/JS] [Customize the Homepage of Our Next.js Storefront And Win a T-Shirt From Medusa!](https://dev.to/medusajs/customize-the-homepage-of-our-nextjs-storefront-and-win-a-t-shirt-from-medusa-2fde)
 - [Dev.to/JS] [What would you like me to cover](https://dev.to/gabrielpedroza/what-would-you-like-me-to-cover-17bd)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is Halsey an Industry Plant?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-halsey-1848984854)
@@ -32,11 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build on Flow | Learn FCL - 2. Pass Arguments to Scripts](https://dev.to/onflow/build-on-flow-learn-fcl-2-pass-arguments-to-scripts-393f)
 - [Dev.to/JS] [Send an email without being redirected or reloading Page](https://dev.to/bawelna0225/send-an-email-without-being-redirected-or-reloading-page-1c5j)
 - [Dev.to/JS] [Building a static website using Iles.js](https://dev.to/asayerio_techblog/building-a-static-website-using-ilesjs-1pim)
-- [Dev.to/JS] [How to Find The Best Backend Development Company for Your Dream Web or App Project in 2022](https://dev.to/radhika_majithiya/how-to-find-the-bestbackend-developmentcompany-for-your-dreamweb-or-app-project-in-2022-23be)
 - [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;4&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-4-1di3)
 - [Dev.to/JS] [Adding Voice Assistant to React Apps with Alan AI](https://dev.to/kanak22/adding-voice-assistant-to-react-apps-with-alan-ai-5f37)
 - [Dev.to/JS] [CoPY to CLIPBOARD in JavaScript !](https://dev.to/neeswebservices/copy-to-clipboard-in-javascript--5gam)
-- [Dev.to/JS] [Getters And Setters: What Are Getters And Setters In JavaScript ?](https://dev.to/ezinne_anne/getters-and-setters-what-are-getters-and-setters-in-javascript--212n)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Couples Should Decide Whether Counseling Is Worth It, According to Therapists](https://lifehacker.com/how-couples-should-decide-whether-counseling-is-worth-i-1848975355)
 - [Lifehacker] [These Things Are Blocking Your Home’s Wifi Signal](https://lifehacker.com/these-things-are-blocking-your-home-s-wifi-signal-1848976736)
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
-- [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
-- [Lifehacker] [The Best Drought-Resistant Alternatives to a Thirsty Grass Lawn](https://lifehacker.com/the-best-drought-resistant-alternatives-to-a-thirsty-gr-1848975951)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
 
