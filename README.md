@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Loop through Object in Javascript](https://dev.to/yohanesss/loop-through-object-in-javascript-23o0)
+- [Dev.to/JS] [😑 Mistakes I made when I started with Angular &lpar;Applies to any web framework&rpar;](https://dev.to/shrihari/mistakes-i-made-when-i-started-with-angular-applies-to-any-web-framework-180c)
 - [Dev.to/JS] [Day-96 Training At Ryaz](https://dev.to/mahin651/day-96-training-at-ryaz-4nk4)
 - [Lifehacker] [Why You Shouldn’t Wait to Sell Your Used Car](https://lifehacker.com/why-you-shouldn-t-wait-to-sell-your-used-car-1848986523)
 - [Dev.to/JS] [Fastify - your next Web Framework](https://dev.to/leandroandrade/fastify-your-next-web-framework-3o25)
@@ -38,10 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Symfony Station Communiqué — 27 May 2022. A look at Symfony, PHP, and Cybersecurity News!](https://dev.to/reubenwalker64/symfony-station-communique-27-may-2022-a-look-at-symfony-php-and-cybersecurity-news-6a2)
 - [Lifehacker] [10 More &#39;80s Masterpieces That Deserve Sequels](https://lifehacker.com/10-more-80s-masterpieces-that-deserve-sequels-1848979835)
 - [Dev.to/JS] [Can anyone suggest some interesting backend projects ??](https://dev.to/rishabh0906/can-anyone-suggest-some-interesting-backend-projects--4gg0)
-- [Dev.to/JS] [Paracetamol.js💊| #127: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-127-explica-este-codigo-javascript-4jlo)
 - [Lifehacker] [9 Games You Can Beat in an Afternoon &lpar;and 3 You Can Tackle in a Weekend&rpar;](https://lifehacker.com/9-games-you-can-beat-in-an-afternoon-and-3-you-can-tac-1848939148)
 - [Lifehacker] [The Hidden iPhone Calculator Tips You Should Be Using](https://lifehacker.com/the-hidden-iphone-calculator-tips-you-should-be-using-1848985678)
-- [Dev.to/JS] [Customize the Homepage of Our Next.js Storefront And Win a T-Shirt From Medusa!](https://dev.to/medusajs/customize-the-homepage-of-our-nextjs-storefront-and-win-a-t-shirt-from-medusa-2fde)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is Halsey an Industry Plant?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-halsey-1848984854)
 - [Lifehacker] [Can You Actually Fix Your Tech By Smacking It?](https://lifehacker.com/can-you-actually-fix-your-tech-by-smacking-it-1848983083)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
