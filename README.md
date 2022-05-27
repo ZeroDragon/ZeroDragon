@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Tools of the Trade: Declarative DNS with dnscontrol](https://dev.to/atechnohazard/tools-of-the-trade-declarative-dns-with-dnscontrol-21n)
+- [Dev.to/JS] [Clean Architecture: implementando meu primeiro Use Case](https://dev.to/yanpiing/clean-architecture-implementando-meu-primeiro-use-case-4oe7)
+- [Dev.to/JS] [Tools of the Trade: Declarative DNS with dnscontrol](https://dev.to/sphericalkat/tools-of-the-trade-declarative-dns-with-dnscontrol-21n)
 - [Dev.to/JS] [Dear Web Devs, Please Use Anchors Instead of Divs for Buttons](https://dev.to/cppshane/dear-web-devs-please-use-anchors-instead-of-divs-for-buttons-4koi)
 - [Dev.to/JS] [JavaScript library for client-side non-blocking notifications](https://dev.to/gil_finkelstein/javascript-library-for-client-side-non-blocking-notifications-16d5)
 - [Dev.to/JS] [How to Make Your Own Livestreaming Service with api.video](https://dev.to/rahulbanerjee99/how-to-make-your-own-livestreaming-service-with-apivideo-23fo)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Array Methods: join&lpar;&rpar;](https://dev.to/boldodev_/javascript-array-methods-join-4590)
 - [Lifehacker] [11 Rigged Carnival Games You Won’t Win &lpar;and One You Might&rpar;](https://lifehacker.com/11-rigged-carnival-games-you-won-t-win-and-one-you-mig-1848978227)
 - [Lifehacker] [All the Ways to Save on Gas This Memorial Day Weekend](https://lifehacker.com/all-the-ways-to-save-on-gas-this-memorial-day-weekend-1848982450)
-- [Dev.to/JS] [CodeAcademy Backend Project: E-Commerce](https://dev.to/belljohan3/codeacademy-backend-project-e-commerce-535j)
 - [Lifehacker] [Why Your iPhone Takes So Long to Install Updates Automatically](https://lifehacker.com/why-your-iphone-takes-so-long-to-install-updates-automa-1848982208)
 - [Lifehacker] [The Difference Between Being a Hoarder and Just Messy &lpar;and What to Do Either Way&rpar;](https://lifehacker.com/the-difference-between-being-a-hoarder-and-just-messy-1848981899)
 - [Lifehacker] [Chrome Can Identify the Song Playing in Any Streaming Video](https://lifehacker.com/chrome-can-identify-the-song-playing-in-any-streaming-v-1848981380)
