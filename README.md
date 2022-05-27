@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Customize the Homepage of Our Next.js Storefront And Win a T-Shirt From Medusa!](https://dev.to/medusajs/customize-the-homepage-of-our-nextjs-storefront-and-win-a-t-shirt-from-medusa-2fde)
+- [Dev.to/JS] [What would you like me to cover](https://dev.to/gabrielpedroza/what-would-you-like-me-to-cover-17bd)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is Halsey an Industry Plant?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-halsey-1848984854)
 - [Dev.to/JS] [Reducing JS code in your Vue bundle](https://dev.to/vmoe/reducing-js-code-in-your-vue-bundle-3mad)
 - [Lifehacker] [Can You Actually Fix Your Tech By Smacking It?](https://lifehacker.com/can-you-actually-fix-your-tech-by-smacking-it-1848983083)
 - [Dev.to/JS] [Am addicted to this drug 😊...](https://dev.to/evansifyke/am-addicted-to-this-drug--357f)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding Voice Assistant to React Apps with Alan AI](https://dev.to/kanak22/adding-voice-assistant-to-react-apps-with-alan-ai-5f37)
 - [Dev.to/JS] [CoPY to CLIPBOARD in JavaScript !](https://dev.to/neeswebservices/copy-to-clipboard-in-javascript--5gam)
 - [Dev.to/JS] [Getters And Setters: What Are Getters And Setters In JavaScript ?](https://dev.to/ezinne_anne/getters-and-setters-what-are-getters-and-setters-in-javascript--212n)
-- [Dev.to/JS] [EASIEST way to copy text to clipboard when button is pressed - using JavaScript](https://dev.to/anatugreen/easiest-way-to-copy-text-to-clipboard-when-button-is-pressed-using-javascript-55m7)
-- [Dev.to/JS] [React Holmes 🔍 - Elementary State Orchestrator for React](https://dev.to/riktar/react-holmes-elementary-state-orchestrator-for-react-4djd)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [A Glossary of Terms You Should Know Before Jumping Into the Gun Control Debate](https://lifehacker.com/a-glossary-of-terms-you-should-know-before-jumping-into-1848977088)
 - [Lifehacker] [Five of the Most Expensive Movies Ever Made, Adjusted for Inflation](https://lifehacker.com/five-of-the-most-expensive-movies-ever-made-adjusted-f-1848976395)
 - [Lifehacker] [The Best Drought-Resistant Alternatives to a Thirsty Grass Lawn](https://lifehacker.com/the-best-drought-resistant-alternatives-to-a-thirsty-gr-1848975951)
-- [Lifehacker] [The Personal Finance Advice Every College Graduate Needs](https://lifehacker.com/the-personal-finance-advice-every-college-graduate-need-1848975100)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
 
