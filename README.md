@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day-96 Training At Ryaz](https://dev.to/mahin651/day-96-training-at-ryaz-4nk4)
+- [Lifehacker] [Why You Shouldn’t Wait to Sell Your Used Car](https://lifehacker.com/why-you-shouldn-t-wait-to-sell-your-used-car-1848986523)
+- [Dev.to/JS] [Fastify - your next Web Framework](https://dev.to/leandroandrade/fastify-your-next-web-framework-3o25)
+- [Dev.to/JS] [Web framework for building virtual reality experiences](https://dev.to/gil_finkelstein/web-framework-for-building-virtual-reality-experiences-4ei2)
+- [Lifehacker] [How to Avoid the Seat-Selection Fee on Flights](https://lifehacker.com/how-to-avoid-the-seat-selection-fee-on-flights-1848986404)
+- [Dev.to/JS] [Como conectarse a una API &lpar;Async, Await, Fetch&rpar;](https://dev.to/rogerdimonte/como-conectarse-a-una-api-async-await-fetch-3ekn)
+- [Dev.to/JS] [Tricks to write less JavaScript Code](https://dev.to/shamaz332/tricks-to-write-less-javascript-code-5gj8)
+- [Dev.to/JS] [Construye en Flow | Aprende FCL - 1. Introducción](https://dev.to/brunogonzales/construye-en-flow-aprende-fcl-1-introduccion-5463)
 - [Lifehacker] [Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
 - [Dev.to/JS] [React useEffect](https://dev.to/khriztianmoreno/react-useeffect-56g2)
 - [Dev.to/JS] [CI/CD o&#39;zi nima?](https://dev.to/humoyun/cicd-ozi-nima-14ba)
@@ -34,14 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Games You Can Beat in an Afternoon &lpar;and 3 You Can Tackle in a Weekend&rpar;](https://lifehacker.com/9-games-you-can-beat-in-an-afternoon-and-3-you-can-tac-1848939148)
 - [Lifehacker] [The Hidden iPhone Calculator Tips You Should Be Using](https://lifehacker.com/the-hidden-iphone-calculator-tips-you-should-be-using-1848985678)
 - [Dev.to/JS] [Customize the Homepage of Our Next.js Storefront And Win a T-Shirt From Medusa!](https://dev.to/medusajs/customize-the-homepage-of-our-nextjs-storefront-and-win-a-t-shirt-from-medusa-2fde)
-- [Dev.to/JS] [What would you like me to cover](https://dev.to/gabrielpedroza/what-would-you-like-me-to-cover-17bd)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is Halsey an Industry Plant?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-halsey-1848984854)
-- [Dev.to/JS] [Reducing JS code in your Vue bundle](https://dev.to/vmoe/reducing-js-code-in-your-vue-bundle-3mad)
 - [Lifehacker] [Can You Actually Fix Your Tech By Smacking It?](https://lifehacker.com/can-you-actually-fix-your-tech-by-smacking-it-1848983083)
-- [Dev.to/JS] [Am addicted to this drug 😊...](https://dev.to/evansifyke/am-addicted-to-this-drug--357f)
-- [Dev.to/JS] [Build on Flow | Learn FCL - 2. Pass Arguments to Scripts](https://dev.to/onflow/build-on-flow-learn-fcl-2-pass-arguments-to-scripts-393f)
-- [Dev.to/JS] [Send an email without being redirected or reloading Page](https://dev.to/bawelna0225/send-an-email-without-being-redirected-or-reloading-page-1c5j)
-- [Dev.to/JS] [Building a static website using Iles.js](https://dev.to/asayerio_techblog/building-a-static-website-using-ilesjs-1pim)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Uses for Baby Powder That Don&#39;t Involve Your Baby](https://lifehacker.com/10-uses-for-baby-powder-that-dont-involve-your-baby-1848980323)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; When a Cop Knocks on Your Door](https://lifehacker.com/what-to-do-and-not-do-when-a-cop-knocks-on-your-door-1848980595)
 - [Lifehacker] [Should You Really Make Group Fitness Classes &#39;Your Own?&#39;](https://lifehacker.com/should-you-really-make-group-fitness-classes-your-own-1848972137)
-- [Lifehacker] [How to Poop on Vacation](https://lifehacker.com/how-to-poop-on-vacation-1848977225)
-- [Lifehacker] [How to Grow a Wildflower Garden From Seed &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-grow-a-wildflower-garden-from-seed-and-why-you-1848973275)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
 
