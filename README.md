@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scanning Files with ClamAV on AWS with a NodeJS Fargate SQS Consumer with Terraform](https://dev.to/sutt0n/scanning-files-with-clamav-on-aws-with-a-nodejs-fargate-sqs-consumer-with-terraform-5048)
+- [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
+- [Dev.to/JS] [GIAY U2](https://dev.to/giayu2/giay-u2-2dh6)
+- [Lifehacker] [When to See the Full Strawberry Supermoon in June](https://lifehacker.com/when-to-see-the-full-strawberry-supermoon-in-june-1848987372)
 - [Dev.to/JS] [Loop through Object in Javascript](https://dev.to/yohanesss/loop-through-object-in-javascript-23o0)
 - [Dev.to/JS] [😑 Mistakes I made when I started with Angular &lpar;Applies to any web framework&rpar;](https://dev.to/shrihari/mistakes-i-made-when-i-started-with-angular-applies-to-any-web-framework-180c)
 - [Dev.to/JS] [Day-96 Training At Ryaz](https://dev.to/mahin651/day-96-training-at-ryaz-4nk4)
@@ -37,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React useEffect](https://dev.to/khriztianmoreno/react-useeffect-56g2)
 - [Dev.to/JS] [CI/CD o&#39;zi nima?](https://dev.to/humoyun/cicd-ozi-nima-14ba)
 - [Lifehacker] [Why Your Pixel’s 4x Zoom Doesn&#39;t Work When You Shoot Video &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-pixel-s-4x-zoom-doesnt-work-when-you-shoot-vid-1848986470)
-- [Dev.to/JS] [Symfony Station Communiqué — 27 May 2022. A look at Symfony, PHP, and Cybersecurity News!](https://dev.to/reubenwalker64/symfony-station-communique-27-may-2022-a-look-at-symfony-php-and-cybersecurity-news-6a2)
 - [Lifehacker] [10 More &#39;80s Masterpieces That Deserve Sequels](https://lifehacker.com/10-more-80s-masterpieces-that-deserve-sequels-1848979835)
-- [Dev.to/JS] [Can anyone suggest some interesting backend projects ??](https://dev.to/rishabh0906/can-anyone-suggest-some-interesting-backend-projects--4gg0)
 - [Lifehacker] [9 Games You Can Beat in an Afternoon &lpar;and 3 You Can Tackle in a Weekend&rpar;](https://lifehacker.com/9-games-you-can-beat-in-an-afternoon-and-3-you-can-tac-1848939148)
 - [Lifehacker] [The Hidden iPhone Calculator Tips You Should Be Using](https://lifehacker.com/the-hidden-iphone-calculator-tips-you-should-be-using-1848985678)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is Halsey an Industry Plant?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-halsey-1848984854)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Lifehacker] [The Best and Worst Times to Drive This Memorial Day Weekend](https://lifehacker.com/the-best-and-worst-times-to-drive-this-memorial-day-wee-1848980705)
 - [Lifehacker] [10 Uses for Baby Powder That Don&#39;t Involve Your Baby](https://lifehacker.com/10-uses-for-baby-powder-that-dont-involve-your-baby-1848980323)
-- [Lifehacker] [What to Do &lpar;and Not Do&rpar; When a Cop Knocks on Your Door](https://lifehacker.com/what-to-do-and-not-do-when-a-cop-knocks-on-your-door-1848980595)
-- [Lifehacker] [Should You Really Make Group Fitness Classes &#39;Your Own?&#39;](https://lifehacker.com/should-you-really-make-group-fitness-classes-your-own-1848972137)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
 
