@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Используем Throttle и Debounce в React](https://dev.to/andreysm/ispolzuiem-throttle-i-debounce-v-react-3cn9)
+- [Dev.to/JS] [Affirm | Made with Gatsby JS](https://dev.to/madewithjavascript/affirm-made-with-gatsby-js-2m8f)
+- [Dev.to/JS] [JS Refactoring Combo: Inline Function as Method](https://dev.to/p42/js-refactoring-combo-inline-named-function-as-method-hkf)
 - [Dev.to/JS] [Understanding Javascript Normal Function VS Arrow Function](https://dev.to/naimahmedshuvo/understanding-javascript-normal-function-vs-arrow-function-4mpc)
 - [Dev.to/JS] [Unloved Project | Made with Next JS](https://dev.to/madewithjavascript/unloved-project-made-with-next-js-4im7)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;28-05-2022&rpar; - Transitioning empires](https://dev.to/mjgs/this-weeks-newsletter-is-out-28-05-2022-transitioning-empires-3g0l)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dark Mattr: A New VS Code Theme](https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a)
 - [Dev.to/JS] [Setting up your first ReactJS &amp; Firebase Auth project](https://dev.to/catevee/setting-up-your-first-reactjs-firebase-auth-project-4i0j)
 - [Dev.to/JS] [Don&#39;t lose your Github contributions when you leave an organization](https://dev.to/bhatvikrant/dont-lose-your-github-contributions-when-you-leave-an-organization-10pf)
-- [Dev.to/JS] [5 things you need to know about &lt;Input&gt; tag](https://dev.to/fidalmathew/5-things-you-need-to-know-about-tag-3a40)
-- [Dev.to/JS] [Summer Vacation and Coding](https://dev.to/sanjaysinghrajpoot/summer-vacation-and-coding-107h)
-- [Dev.to/JS] [How to create a shared context between asynchronous calls in nodejs](https://dev.to/pahanperera/how-to-create-a-shared-context-between-asynchronous-calls-in-nodejs-4kim)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
