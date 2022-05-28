@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sell Me On Typescript](https://dev.to/psypher1/sell-me-on-typescript-112b)
+- [Dev.to/JS] [Optimizing Performance in React Apps - I](https://dev.to/sinhapiyush/optimizing-performance-in-react-apps-i-4d5d)
+- [Dev.to/JS] [#27: Video Conferencing with ACS &amp; SWA](https://dev.to/azure/27-video-conferencing-with-acs-swa-2o54)
+- [Dev.to/JS] [Adding Feature Flags in Your React Codebase](https://dev.to/thesanjeevsharma/adding-feature-flags-to-your-react-codebase-22a8)
 - [Dev.to/JS] [Nodejs + express + mongodb](https://dev.to/yashkapure06/nodejs-express-mongodb-2pnm)
 - [Dev.to/JS] [101 Create your first Substrate blockchain](https://dev.to/565ee/101-create-your-first-substrate-blockchain-4kak)
-- [Dev.to/JS] [Adding Feature Flags in Your React Codebase](https://dev.to/thesanjeevsharma/adding-feature-flags-in-a-react-codebase-4de0)
 - [Dev.to/JS] [I accidentally created my new favorite search plugin.](https://dev.to/codewithcaen/i-accidentally-created-my-new-favorite-search-plugin-4bhe)
 - [Dev.to/JS] [Animated Circular Navigation Menu using Pure Html &amp; CSS Without JavaScript](https://dev.to/shahriarwebdev/animated-circular-navigation-menu-using-pure-html-css-without-javascript-ip4)
 - [Dev.to/JS] [How To Identity Components In A Design Mockup To Build A React Application](https://dev.to/surelay/how-to-identity-components-in-a-design-mockup-to-build-a-react-application-86g)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [UI/UX Developer Portfolio](https://dev.to/kumard3/uiux-developer-portfolio-3ge3)
 - [Dev.to/JS] [Say No to NgModule in Angular 14!](https://dev.to/pranambhat/say-no-to-ngmodule-in-angular-14-39hl)
 - [Dev.to/JS] [Geeking-out on SVG Graphics part-six](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-six-5517)
-- [Dev.to/JS] [How to build your first VR app with React360 today!](https://dev.to/kai_wenzel/how-to-build-your-first-vr-app-with-react360-today-4loi)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
-- [Dev.to/JS] [Learning Web Development from YouTube](https://dev.to/hamid2117/learning-web-development-from-youtube-3ej3)
-- [Dev.to/JS] [Cut a few braids: new NPM package](https://dev.to/urbanisierung/cut-a-few-braids-new-npm-package-1234)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
