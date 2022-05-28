@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Newbie](https://dev.to/cicinati/newbie-2n3h)
+- [Dev.to/JS] [Dark Mattr: A New VS Code Theme](https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a)
+- [Dev.to/JS] [Setting up your first ReactJS &amp; Firebase Auth project](https://dev.to/catevee/setting-up-your-first-reactjs-firebase-auth-project-4i0j)
 - [Dev.to/JS] [Don&#39;t lose your Github contributions when you leave an organization](https://dev.to/bhatvikrant/dont-lose-your-github-contributions-when-you-leave-an-organization-10pf)
 - [Dev.to/JS] [5 things you need to know about &lt;Input&gt; tag](https://dev.to/fidalmathew/5-things-you-need-to-know-about-tag-3a40)
 - [Dev.to/JS] [Summer Vacation and Coding](https://dev.to/sanjaysinghrajpoot/summer-vacation-and-coding-107h)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How do websites work? Super Simplified Explanation](https://dev.to/chandanbsd/how-do-websites-work-super-simplified-explanation-2eha)
 - [Dev.to/JS] [Floating Action Button for Vue](https://dev.to/gil_finkelstein/floating-action-button-for-vue-37e)
 - [Dev.to/JS] [The Jest Configuration in The Svelte Application](https://dev.to/deotyma/the-jest-configuration-in-the-svelte-application-4dm5)
-- [Dev.to/JS] [Chattery | Made with React JS](https://dev.to/madewithjavascript/chattery-made-with-react-js-149o)
-- [Dev.to/JS] [Add maps and location services to your apps](https://dev.to/jf990/add-maps-and-location-services-to-your-apps-3m88)
-- [Dev.to/JS] [Becoming a JavaScript Code Warrior](https://dev.to/nats_tech_notes/becoming-a-javascript-code-warrior-f96)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
