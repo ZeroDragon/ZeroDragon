@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
+- [Dev.to/JS] [How to work with Django forms.](https://dev.to/shivamrohilla/how-to-work-with-django-forms-48n4)
 - [Dev.to/JS] [Используем Throttle и Debounce в React](https://dev.to/andreysm/ispolzuiem-throttle-i-debounce-v-react-3cn9)
 - [Dev.to/JS] [Affirm | Made with Gatsby JS](https://dev.to/madewithjavascript/affirm-made-with-gatsby-js-2m8f)
 - [Dev.to/JS] [JS Refactoring Combo: Inline Function as Method](https://dev.to/p42/js-refactoring-combo-inline-named-function-as-method-hkf)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Newbie](https://dev.to/cicinati/newbie-2n3h)
 - [Dev.to/JS] [Dark Mattr: A New VS Code Theme](https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a)
 - [Dev.to/JS] [Setting up your first ReactJS &amp; Firebase Auth project](https://dev.to/catevee/setting-up-your-first-reactjs-firebase-auth-project-4i0j)
-- [Dev.to/JS] [Don&#39;t lose your Github contributions when you leave an organization](https://dev.to/bhatvikrant/dont-lose-your-github-contributions-when-you-leave-an-organization-10pf)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Chrome Can Identify the Song Playing in Any Streaming Video](https://lifehacker.com/chrome-can-identify-the-song-playing-in-any-streaming-v-1848981380)
 - [Lifehacker] [Are These Tangle-Free USB Cables Worth It?](https://lifehacker.com/are-these-tangle-free-usb-cables-worth-it-1848980704)
 - [Lifehacker] [How to Help a Child Who Struggles With Executive Function](https://lifehacker.com/how-to-help-a-child-who-struggles-with-executive-functi-1848979094)
-- [Lifehacker] [9 Strava Settings You Should Change to Keep Your Fitness Data Private](https://lifehacker.com/9-strava-settings-you-should-change-to-keep-your-fitnes-1848979818)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
