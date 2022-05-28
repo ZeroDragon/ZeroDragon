@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Summer Vacation and Coding](https://dev.to/sanjaysinghrajpoot/summer-vacation-and-coding-107h)
 - [Dev.to/JS] [How to create a shared context between asynchronous calls in nodejs](https://dev.to/pahanperera/how-to-create-a-shared-context-between-asynchronous-calls-in-nodejs-4kim)
 - [Dev.to/JS] [Writing a Recursive Utility Type in TypeScript](https://dev.to/knyzorg/writing-a-nested-omit-utility-type-in-typescript-20me)
 - [Dev.to/JS] [Learn How to Click a Button when Angular Unit Testing](https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Becoming a JavaScript Code Warrior](https://dev.to/nats_tech_notes/becoming-a-javascript-code-warrior-f96)
 - [Dev.to/JS] [Resources to Learn react better way!!](https://dev.to/thisisyogeshkp/resources-to-learn-react-better-way-13m)
 - [Dev.to/JS] [Node: cd myjourney03](https://dev.to/adebiyiitunuayo/node-cd-myjourney03-327)
-- [Dev.to/JS] [Unlock | Made with Next JS](https://dev.to/madewithjavascript/unlock-made-with-next-js-5gja)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
