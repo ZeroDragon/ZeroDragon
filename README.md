@@ -24,7 +24,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [How to create a shared context between asynchronous calls in nodejs](https://dev.to/pahanperera/how-to-create-a-shared-context-between-asynchronous-calls-in-nodejs-4kim)
-- [Dev.to/JS] [Writing a Nested Omit Utility Type in TypeScript](https://dev.to/knyzorg/writing-a-nested-omit-utility-type-in-typescript-20me)
+- [Dev.to/JS] [Writing a Recursive Utility Type in TypeScript](https://dev.to/knyzorg/writing-a-nested-omit-utility-type-in-typescript-20me)
 - [Dev.to/JS] [Learn How to Click a Button when Angular Unit Testing](https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9)
 - [Dev.to/JS] [How do websites work? Super Simplified Explanation](https://dev.to/chandanbsd/how-do-websites-work-super-simplified-explanation-2eha)
 - [Dev.to/JS] [Floating Action Button for Vue](https://dev.to/gil_finkelstein/floating-action-button-for-vue-37e)
