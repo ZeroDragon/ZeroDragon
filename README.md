@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning Web Development from YouTube](https://dev.to/hamid2117/learning-web-development-from-youtube-3ej3)
+- [Dev.to/JS] [Cut a few braids: new NPM package](https://dev.to/urbanisierung/cut-a-few-braids-new-npm-package-1234)
 - [Dev.to/JS] [How I redesigned my portfolio, from start to finish.](https://dev.to/anuarshaidenov/how-i-redesigned-my-portfolio-from-start-to-finish-4h8)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
 - [Dev.to/JS] [How to work with Django forms.](https://dev.to/shivamrohilla/how-to-work-with-django-forms-48n4)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;28-05-2022&rpar; - Transitioning empires](https://dev.to/mjgs/this-weeks-newsletter-is-out-28-05-2022-transitioning-empires-3g0l)
 - [Dev.to/JS] [Vibrating your phone with JavaScript 📱](https://dev.to/codewithsnowbit/vibrating-your-phone-with-javascript-b30)
 - [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/maitrakhatri/understanding-closures-in-javascript-21pl)
-- [Dev.to/JS] [Newbie](https://dev.to/cicinati/newbie-2n3h)
-- [Dev.to/JS] [Dark Mattr: A New VS Code Theme](https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
