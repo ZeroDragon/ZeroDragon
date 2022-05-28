@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn How to Click a Button when Angular Unit Testing](https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9)
+- [Dev.to/JS] [How do websites work? Super Simplified Explanation](https://dev.to/chandanbsd/how-do-websites-work-super-simplified-explanation-2eha)
+- [Dev.to/JS] [Floating Action Button for Vue](https://dev.to/gil_finkelstein/floating-action-button-for-vue-37e)
 - [Dev.to/JS] [The Jest Configuration in The Svelte Application](https://dev.to/deotyma/the-jest-configuration-in-the-svelte-application-4dm5)
 - [Dev.to/JS] [Chattery | Made with React JS](https://dev.to/madewithjavascript/chattery-made-with-react-js-149o)
 - [Dev.to/JS] [Add maps and location services to your apps](https://dev.to/jf990/add-maps-and-location-services-to-your-apps-3m88)
@@ -33,11 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [School Morning Routine | Made with Next JS](https://dev.to/madewithjavascript/school-morning-routine-made-with-next-js-1kb8)
 - [Dev.to/JS] [Vue.js Global Summit &#39;22 - Senior Track Event Summary #1](https://dev.to/matheusgomes062/vuejs-global-summit-22-senior-track-event-summary-1-2f49)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
-- [Dev.to/JS] [Lazy Loading Images In Next.js](https://dev.to/dephraiim/lazy-loading-images-in-nextjs-3am8)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
-- [Dev.to/JS] [Scanning Files with ClamAV on AWS with a NodeJS Fargate SQS Consumer with Terraform](https://dev.to/sutt0n/scanning-files-with-clamav-on-aws-with-a-nodejs-fargate-sqs-consumer-with-terraform-5048)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
-- [Dev.to/JS] [GIAY U2](https://dev.to/giayu2/giay-u2-2dh6)
 - [Lifehacker] [When to See the Full Strawberry Supermoon in June](https://lifehacker.com/when-to-see-the-full-strawberry-supermoon-in-june-1848987372)
 - [Lifehacker] [Why You Shouldn’t Wait to Sell Your Used Car](https://lifehacker.com/why-you-shouldn-t-wait-to-sell-your-used-car-1848986523)
 - [Lifehacker] [How to Avoid the Seat-Selection Fee on Flights](https://lifehacker.com/how-to-avoid-the-seat-selection-fee-on-flights-1848986404)
