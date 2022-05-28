@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nodejs + express + mongodb](https://dev.to/yashkapure06/nodejs-express-mongodb-2pnm)
+- [Dev.to/JS] [101 Create your first Substrate blockchain](https://dev.to/565ee/101-create-your-first-substrate-blockchain-4kak)
+- [Dev.to/JS] [Adding Feature Flags in Your React Codebase](https://dev.to/thesanjeevsharma/adding-feature-flags-in-a-react-codebase-4de0)
+- [Dev.to/JS] [I accidentally created my new favorite search plugin.](https://dev.to/codewithcaen/i-accidentally-created-my-new-favorite-search-plugin-4bhe)
+- [Dev.to/JS] [Animated Circular Navigation Menu using Pure Html &amp; CSS Without JavaScript](https://dev.to/shahriarwebdev/animated-circular-navigation-menu-using-pure-html-css-without-javascript-ip4)
 - [Dev.to/JS] [How To Identity Components In A Design Mockup To Build A React Application](https://dev.to/surelay/how-to-identity-components-in-a-design-mockup-to-build-a-react-application-86g)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Dev.to/JS] [UI/UX Developer Portfolio](https://dev.to/kumard3/uiux-developer-portfolio-3ge3)
@@ -32,12 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Dev.to/JS] [Learning Web Development from YouTube](https://dev.to/hamid2117/learning-web-development-from-youtube-3ej3)
 - [Dev.to/JS] [Cut a few braids: new NPM package](https://dev.to/urbanisierung/cut-a-few-braids-new-npm-package-1234)
-- [Dev.to/JS] [How I redesigned my portfolio, from start to finish.](https://dev.to/anuarshaidenov/how-i-redesigned-my-portfolio-from-start-to-finish-4h8)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
-- [Dev.to/JS] [How to work with Django forms.](https://dev.to/shivamrohilla/how-to-work-with-django-forms-48n4)
-- [Dev.to/JS] [Используем Throttle и Debounce в React](https://dev.to/andreysm/ispolzuiem-throttle-i-debounce-v-react-3cn9)
-- [Dev.to/JS] [Affirm | Made with Gatsby JS](https://dev.to/madewithjavascript/affirm-made-with-gatsby-js-2m8f)
-- [Dev.to/JS] [JS Refactoring Combo: Inline Function as Method](https://dev.to/p42/js-refactoring-combo-inline-named-function-as-method-hkf)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
