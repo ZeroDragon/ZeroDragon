@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I redesigned my portfolio, from start to finish.](https://dev.to/anuarshaidenov/how-i-redesigned-my-portfolio-from-start-to-finish-4h8)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
 - [Dev.to/JS] [How to work with Django forms.](https://dev.to/shivamrohilla/how-to-work-with-django-forms-48n4)
 - [Dev.to/JS] [Используем Throttle и Debounce в React](https://dev.to/andreysm/ispolzuiem-throttle-i-debounce-v-react-3cn9)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/maitrakhatri/understanding-closures-in-javascript-21pl)
 - [Dev.to/JS] [Newbie](https://dev.to/cicinati/newbie-2n3h)
 - [Dev.to/JS] [Dark Mattr: A New VS Code Theme](https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a)
-- [Dev.to/JS] [Setting up your first ReactJS &amp; Firebase Auth project](https://dev.to/catevee/setting-up-your-first-reactjs-firebase-auth-project-4i0j)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
