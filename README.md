@@ -23,9 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Identity Components In A Design Mockup To Build A React Application](https://dev.to/surelay/how-to-identity-components-in-a-design-mockup-to-build-a-react-application-86g)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Dev.to/JS] [UI/UX Developer Portfolio](https://dev.to/kumard3/uiux-developer-portfolio-3ge3)
-- [Dev.to/JS] [Next vs React](https://dev.to/gabrielpedroza/next-vs-react-52ob)
 - [Dev.to/JS] [Say No to NgModule in Angular 14!](https://dev.to/pranambhat/say-no-to-ngmodule-in-angular-14-39hl)
 - [Dev.to/JS] [Geeking-out on SVG Graphics part-six](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-six-5517)
 - [Dev.to/JS] [How to build your first VR app with React360 today!](https://dev.to/kai_wenzel/how-to-build-your-first-vr-app-with-react360-today-4loi)
