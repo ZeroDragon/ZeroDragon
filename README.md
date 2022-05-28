@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a shared context between asynchronous calls in nodejs](https://dev.to/pahanperera/how-to-create-a-shared-context-between-asynchronous-calls-in-nodejs-4kim)
 - [Dev.to/JS] [Learn How to Click a Button when Angular Unit Testing](https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9)
 - [Dev.to/JS] [How do websites work? Super Simplified Explanation](https://dev.to/chandanbsd/how-do-websites-work-super-simplified-explanation-2eha)
 - [Dev.to/JS] [Floating Action Button for Vue](https://dev.to/gil_finkelstein/floating-action-button-for-vue-37e)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Node: cd myjourney03](https://dev.to/adebiyiitunuayo/node-cd-myjourney03-327)
 - [Dev.to/JS] [Unlock | Made with Next JS](https://dev.to/madewithjavascript/unlock-made-with-next-js-5gja)
 - [Dev.to/JS] [School Morning Routine | Made with Next JS](https://dev.to/madewithjavascript/school-morning-routine-made-with-next-js-1kb8)
-- [Dev.to/JS] [Vue.js Global Summit &#39;22 - Senior Track Event Summary #1](https://dev.to/matheusgomes062/vuejs-global-summit-22-senior-track-event-summary-1-2f49)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
