@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Don&#39;t lose your Github contributions when you leave an organization](https://dev.to/bhatvikrant/dont-lose-your-github-contributions-when-you-leave-an-organization-10pf)
+- [Dev.to/JS] [5 things you need to know about &lt;Input&gt; tag](https://dev.to/fidalmathew/5-things-you-need-to-know-about-tag-3a40)
 - [Dev.to/JS] [Summer Vacation and Coding](https://dev.to/sanjaysinghrajpoot/summer-vacation-and-coding-107h)
 - [Dev.to/JS] [How to create a shared context between asynchronous calls in nodejs](https://dev.to/pahanperera/how-to-create-a-shared-context-between-asynchronous-calls-in-nodejs-4kim)
 - [Dev.to/JS] [Writing a Recursive Utility Type in TypeScript](https://dev.to/knyzorg/writing-a-nested-omit-utility-type-in-typescript-20me)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chattery | Made with React JS](https://dev.to/madewithjavascript/chattery-made-with-react-js-149o)
 - [Dev.to/JS] [Add maps and location services to your apps](https://dev.to/jf990/add-maps-and-location-services-to-your-apps-3m88)
 - [Dev.to/JS] [Becoming a JavaScript Code Warrior](https://dev.to/nats_tech_notes/becoming-a-javascript-code-warrior-f96)
-- [Dev.to/JS] [Resources to Learn react better way!!](https://dev.to/thisisyogeshkp/resources-to-learn-react-better-way-13m)
-- [Dev.to/JS] [Node: cd myjourney03](https://dev.to/adebiyiitunuayo/node-cd-myjourney03-327)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
