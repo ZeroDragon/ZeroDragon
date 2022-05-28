@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Geeking-out on SVG Graphics part-six](https://dev.to/tracygjg/geeking-out-on-svg-graphics-part-six-5517)
+- [Dev.to/JS] [How to build your first VR app with React360 today!](https://dev.to/kai_wenzel/how-to-build-your-first-vr-app-with-react360-today-4loi)
+- [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Dev.to/JS] [Learning Web Development from YouTube](https://dev.to/hamid2117/learning-web-development-from-youtube-3ej3)
 - [Dev.to/JS] [Cut a few braids: new NPM package](https://dev.to/urbanisierung/cut-a-few-braids-new-npm-package-1234)
 - [Dev.to/JS] [How I redesigned my portfolio, from start to finish.](https://dev.to/anuarshaidenov/how-i-redesigned-my-portfolio-from-start-to-finish-4h8)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding Javascript Normal Function VS Arrow Function](https://dev.to/naimahmedshuvo/understanding-javascript-normal-function-vs-arrow-function-4mpc)
 - [Dev.to/JS] [Unloved Project | Made with Next JS](https://dev.to/madewithjavascript/unloved-project-made-with-next-js-4im7)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;28-05-2022&rpar; - Transitioning empires](https://dev.to/mjgs/this-weeks-newsletter-is-out-28-05-2022-transitioning-empires-3g0l)
-- [Dev.to/JS] [Vibrating your phone with JavaScript 📱](https://dev.to/codewithsnowbit/vibrating-your-phone-with-javascript-b30)
-- [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/maitrakhatri/understanding-closures-in-javascript-21pl)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Being a Hoarder and Just Messy &lpar;and What to Do Either Way&rpar;](https://lifehacker.com/the-difference-between-being-a-hoarder-and-just-messy-1848981899)
 - [Lifehacker] [Chrome Can Identify the Song Playing in Any Streaming Video](https://lifehacker.com/chrome-can-identify-the-song-playing-in-any-streaming-v-1848981380)
 - [Lifehacker] [Are These Tangle-Free USB Cables Worth It?](https://lifehacker.com/are-these-tangle-free-usb-cables-worth-it-1848980704)
-- [Lifehacker] [How to Help a Child Who Struggles With Executive Function](https://lifehacker.com/how-to-help-a-child-who-struggles-with-executive-functi-1848979094)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
