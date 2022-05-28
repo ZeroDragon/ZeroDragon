@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vibrating your phone with JavaScript 📱](https://dev.to/codewithsnowbit/vibrating-your-phone-with-javascript-b30)
+- [Dev.to/JS] [Understanding Closures in JavaScript](https://dev.to/maitrakhatri/understanding-closures-in-javascript-21pl)
 - [Dev.to/JS] [Newbie](https://dev.to/cicinati/newbie-2n3h)
 - [Dev.to/JS] [Dark Mattr: A New VS Code Theme](https://dev.to/tamojay/dark-mattr-a-new-vs-code-theme-2i0a)
 - [Dev.to/JS] [Setting up your first ReactJS &amp; Firebase Auth project](https://dev.to/catevee/setting-up-your-first-reactjs-firebase-auth-project-4i0j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Writing a Recursive Utility Type in TypeScript](https://dev.to/knyzorg/writing-a-nested-omit-utility-type-in-typescript-20me)
 - [Dev.to/JS] [Learn How to Click a Button when Angular Unit Testing](https://dev.to/braydoncoyer/learn-how-to-click-a-button-when-angular-unit-testing-3mb9)
 - [Dev.to/JS] [How do websites work? Super Simplified Explanation](https://dev.to/chandanbsd/how-do-websites-work-super-simplified-explanation-2eha)
-- [Dev.to/JS] [Floating Action Button for Vue](https://dev.to/gil_finkelstein/floating-action-button-for-vue-37e)
-- [Dev.to/JS] [The Jest Configuration in The Svelte Application](https://dev.to/deotyma/the-jest-configuration-in-the-svelte-application-4dm5)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
