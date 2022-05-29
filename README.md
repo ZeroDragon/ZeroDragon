@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Week 5 - Promises, promises, promises](https://dev.to/jwhitt3r/week-5-promises-promises-promises-o47)
+- [Dev.to/JS] [Get Started with React Hooks](https://dev.to/phanimurari/get-started-with-react-hooks-188p)
+- [Dev.to/JS] [Weekly Digest 21/2022](https://dev.to/marcobiedermann/weekly-digest-212022-o37)
+- [Dev.to/JS] [How to import SVG in React](https://dev.to/zougari47/how-to-import-svg-in-react-4ne3)
 - [Dev.to/JS] [Web3 Solidity + JavaScript 32 hour course recap #3](https://dev.to/detwiler_amy/web3-solidity-javascript-32-hour-course-recap-3-d68)
 - [Dev.to/JS] [This Project Got Me a Full-time Software Engineering Job](https://dev.to/mkasulecoder/this-project-got-me-a-full-time-job-14fk)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
@@ -33,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Dev.to/JS] [Freshman Software Engneering](https://dev.to/lindotex/freshman-software-engneering-3pg9)
 - [Dev.to/JS] [Terminal style website. &lpar;UPDATE&rpar;](https://dev.to/m4tt72/terminal-style-website-update-2pnn)
-- [Dev.to/JS] [7 Free Node.js Tutorials For Beginners in 2022](https://dev.to/coursesity/7-free-nodejs-tutorials-for-beginners-in-2022-lcl)
-- [Dev.to/JS] [CVisor : Using Computer Vision to stop COVID-19](https://dev.to/shoray2002/cvisor-using-computer-vision-to-stop-covid-19-10ka)
-- [Dev.to/JS] [Adding route transition animations in Remix](https://dev.to/thomasledoux1/adding-route-transition-animations-in-remix-52jm)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
-- [Dev.to/JS] [How to use Lodash compact function?](https://dev.to/harithzainudin/how-to-use-lodash-compact-function-pp3)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
