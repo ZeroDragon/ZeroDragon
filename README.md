@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤳 VR/AR with react-three-fiber](https://dev.to/gil_finkelstein/vrar-with-react-three-fiber-1j14)
+- [Dev.to/JS] [Programming a Cake](https://dev.to/jjhiggz/programming-a-cake-3g7c)
 - [Dev.to/JS] [Find all substring of a given string in O&lpar;n^2&rpar; time.](https://dev.to/rajeshroyal/find-all-substring-of-a-given-string-in-on2-time-2ip7)
 - [Dev.to/JS] [How JavaScript became a backend language &lpar;node.js&rpar;](https://dev.to/ahnafahamed4/how-javascript-became-a-backend-language-nodejs-5730)
 - [Dev.to/JS] [Js Tricks #0: Iterando un Array de Objetos.](https://dev.to/alexissossa/js-tricks-0-iterando-un-array-de-objetos-3kgf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn about Closure in JavaScript](https://dev.to/nazifbara/learn-about-closure-in-javascript-1542)
 - [Dev.to/JS] [Protecting Private API Keys using a Simple Proxy Server](https://dev.to/darrian/protecting-private-api-keys-using-a-simple-proxy-server-45cc)
 - [Dev.to/JS] [Sell Me On Typescript](https://dev.to/psypher1/sell-me-on-typescript-112b)
-- [Dev.to/JS] [Optimizing Performance in React Apps - I](https://dev.to/sinhapiyush/optimizing-performance-in-react-apps-i-4d5d)
-- [Dev.to/JS] [#27: Video Conferencing with ACS &amp; SWA](https://dev.to/azure/27-video-conferencing-with-acs-swa-2o54)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
