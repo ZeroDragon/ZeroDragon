@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
+- [Dev.to/JS] [Javascript Array Methods](https://dev.to/sobhandash/javascript-array-methods-1m50)
+- [Dev.to/JS] [Typescript | Made with Gatsby JS](https://dev.to/madewithjavascript/typescript-made-with-gatsby-js-5122)
+- [Dev.to/JS] [Simple Crypto Price Widget](https://dev.to/hr21don/simple-crypto-price-widget-30cp)
 - [Dev.to/JS] [Debugging in Javascript](https://dev.to/abhirajb/debugging-in-javascript-3de6)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Dev.to/JS] [Freshman Software Engneering](https://dev.to/lindotex/freshman-software-engneering-3pg9)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Lodash compact function?](https://dev.to/harithzainudin/how-to-use-lodash-compact-function-pp3)
 - [Dev.to/JS] [Please, don&#39;t give up on programming!](https://dev.to/alesbe/please-dont-give-up-on-programming-4pop)
 - [Dev.to/JS] [Understanding CSRF Attacks](https://dev.to/zellwk/understanding-csrf-attacks-36ao)
-- [Dev.to/JS] [Five concepts I found difficult to explain when teaching JavaScript &lpar;part 1&rpar;](https://dev.to/konohamaru/five-concepts-i-found-difficult-to-explain-when-teaching-javascript-part-1-14ea)
-- [Dev.to/JS] [Performant React 101: `useEffect` or `useLayoutEffect`?](https://dev.to/jwwnz/performant-react-101-useeffect-or-uselayouteffect-30b)
-- [Dev.to/JS] [React authentication tutorial with Firebase V9 and Firestore](https://dev.to/vcnsiqueira/react-authentication-tutorial-with-firebase-v9-and-firestore-id6)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Know About the Tick That Can Make You Allergic to Meat](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
 - [Lifehacker] [11 Rigged Carnival Games You Won’t Win &lpar;and One You Might&rpar;](https://lifehacker.com/11-rigged-carnival-games-you-won-t-win-and-one-you-mig-1848978227)
 - [Lifehacker] [All the Ways to Save on Gas This Memorial Day Weekend](https://lifehacker.com/all-the-ways-to-save-on-gas-this-memorial-day-weekend-1848982450)
-- [Lifehacker] [Why Your iPhone Takes So Long to Install Updates Automatically](https://lifehacker.com/why-your-iphone-takes-so-long-to-install-updates-automa-1848982208)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
