@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Feeling Bloaty? File Cleanup After Create-React-App](https://dev.to/shujaatazim/feeling-bloaty-file-cleanup-after-create-react-app-23dm)
+- [Dev.to/JS] [Remix prefetch: Fetch data ahead of time](https://dev.to/ishanme/remix-prefetch-fetch-data-ahead-of-time-1dhb)
 - [Dev.to/JS] [🤳 VR/AR with react-three-fiber](https://dev.to/gil_finkelstein/vrar-with-react-three-fiber-1j14)
 - [Dev.to/JS] [Programming a Cake](https://dev.to/jjhiggz/programming-a-cake-3g7c)
 - [Dev.to/JS] [Find all substring of a given string in O&lpar;n^2&rpar; time.](https://dev.to/rajeshroyal/find-all-substring-of-a-given-string-in-on2-time-2ip7)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I&#39;m currently working on a secure JSON database and would like some feedback/ideas](https://dev.to/nikolap994/im-currently-working-on-a-secure-json-database-and-would-like-some-feedbackideas-1kpd)
 - [Dev.to/JS] [Build and Deploy a Fake REST API Server for CRUD with Nodejs in 5 minutes](https://dev.to/koladev/build-and-deploy-a-fake-rest-api-server-for-crud-with-nodejs-in-5-minutes-5gf9)
 - [Dev.to/JS] [Learn about Closure in JavaScript](https://dev.to/nazifbara/learn-about-closure-in-javascript-1542)
-- [Dev.to/JS] [Protecting Private API Keys using a Simple Proxy Server](https://dev.to/darrian/protecting-private-api-keys-using-a-simple-proxy-server-45cc)
-- [Dev.to/JS] [Sell Me On Typescript](https://dev.to/psypher1/sell-me-on-typescript-112b)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
