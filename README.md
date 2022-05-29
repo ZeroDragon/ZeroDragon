@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React 18 - performance improvements](https://dev.to/markoarsenal/react-18-performance-improvements-26el)
 - [Dev.to/JS] [The 7-Step System To Running Successful And Profitable Webinars](https://dev.to/sameer87575/the-7-step-system-to-running-successful-and-profitable-webinars-24i4)
 - [Dev.to/JS] [How to migrate from yarn / npm to pnpm](https://dev.to/andreychernykh/yarn-npm-to-pnpm-migration-guide-2n04)
 - [Dev.to/JS] [Improve your iframe UX with React LoadingIframes](https://dev.to/tealover418/improve-your-iframe-ux-with-react-loadingiframes-16j6)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Dev.to/JS] [Javascript Array Methods](https://dev.to/sobhandash/javascript-array-methods-1m50)
 - [Dev.to/JS] [Typescript | Made with Gatsby JS](https://dev.to/madewithjavascript/typescript-made-with-gatsby-js-5122)
-- [Dev.to/JS] [Simple Crypto Price Widget](https://dev.to/hr21don/simple-crypto-price-widget-30cp)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
