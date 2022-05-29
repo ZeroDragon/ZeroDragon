@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use dark mode and light mode with tailwindcss and reactjs](https://dev.to/mustafazahedi/how-to-use-dark-mode-and-light-mode-with-tailwindcss-and-reactjs-4c9l)
+- [Dev.to/JS] [61 Frontend Web Development Buzz Words every Developer Should have in their Vocabulary](https://dev.to/ruppysuppy/61-frontend-web-development-buzz-words-every-developer-should-have-in-their-vocabulary-3c9)
 - [Dev.to/JS] [Feeling Bloaty? File Cleanup After Create-React-App](https://dev.to/shujaatazim/feeling-bloaty-file-cleanup-after-create-react-app-23dm)
 - [Dev.to/JS] [Remix prefetch: Fetch data ahead of time](https://dev.to/ishanme/remix-prefetch-fetch-data-ahead-of-time-1dhb)
 - [Dev.to/JS] [🤳 VR/AR with react-three-fiber](https://dev.to/gil_finkelstein/vrar-with-react-three-fiber-1j14)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Virtual DOM It’s Not Rocket Science](https://dev.to/loreprocks_7/react-virtual-dom-its-not-rocket-science-2247)
 - [Dev.to/JS] [Parsing Lambda Error Logs in ReScript &amp; Python](https://dev.to/jesterxl/parsing-lambda-error-logs-in-rescript-python-m3o)
 - [Dev.to/JS] [I&#39;m currently working on a secure JSON database and would like some feedback/ideas](https://dev.to/nikolap994/im-currently-working-on-a-secure-json-database-and-would-like-some-feedbackideas-1kpd)
-- [Dev.to/JS] [Build and Deploy a Fake REST API Server for CRUD with Nodejs in 5 minutes](https://dev.to/koladev/build-and-deploy-a-fake-rest-api-server-for-crud-with-nodejs-in-5-minutes-5gf9)
-- [Dev.to/JS] [Learn about Closure in JavaScript](https://dev.to/nazifbara/learn-about-closure-in-javascript-1542)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
