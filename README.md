@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Find all substring of a given string in O&lpar;n^2&rpar; time.](https://dev.to/rajeshroyal/find-all-substring-of-a-given-string-in-on2-time-2ip7)
 - [Dev.to/JS] [How JavaScript became a backend language &lpar;node.js&rpar;](https://dev.to/ahnafahamed4/how-javascript-became-a-backend-language-nodejs-5730)
 - [Dev.to/JS] [Js Tricks #0: Iterando un Array de Objetos.](https://dev.to/alexissossa/js-tricks-0-iterando-un-array-de-objetos-3kgf)
 - [Dev.to/JS] [React Virtual DOM It’s Not Rocket Science](https://dev.to/loreprocks_7/react-virtual-dom-its-not-rocket-science-2247)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sell Me On Typescript](https://dev.to/psypher1/sell-me-on-typescript-112b)
 - [Dev.to/JS] [Optimizing Performance in React Apps - I](https://dev.to/sinhapiyush/optimizing-performance-in-react-apps-i-4d5d)
 - [Dev.to/JS] [#27: Video Conferencing with ACS &amp; SWA](https://dev.to/azure/27-video-conferencing-with-acs-swa-2o54)
-- [Dev.to/JS] [Adding Feature Flags in Your React Codebase](https://dev.to/thesanjeevsharma/adding-feature-flags-to-your-react-codebase-22a8)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
