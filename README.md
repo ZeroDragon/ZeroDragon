@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CVisor : Using Computer Vision to stop COVID-19](https://dev.to/shoray2002/cvisor-using-computer-vision-to-stop-covid-19-10ka)
+- [Dev.to/JS] [Adding route transition animations in Remix](https://dev.to/thomasledoux1/adding-route-transition-animations-in-remix-52jm)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
 - [Dev.to/JS] [How to use Lodash compact function?](https://dev.to/harithzainudin/how-to-use-lodash-compact-function-pp3)
 - [Dev.to/JS] [Please, don&#39;t give up on programming!](https://dev.to/alesbe/please-dont-give-up-on-programming-4pop)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Video Calling App using Python &amp; Flask](https://dev.to/yash_makan/building-a-video-calling-app-using-python-flask-17m5)
 - [Dev.to/JS] [Digital Clock](https://dev.to/sanketbodake/digital-clock-3ifo)
 - [Dev.to/JS] [How to use the dark utile with tailwindcss and reactjs](https://dev.to/mustafazahedi/how-to-use-dark-mode-and-light-mode-with-tailwindcss-and-reactjs-4c9l)
-- [Dev.to/JS] [61 Frontend Web Development Buzz Words every Developer Should have in their Vocabulary](https://dev.to/ruppysuppy/61-frontend-web-development-buzz-words-every-developer-should-have-in-their-vocabulary-3c9)
-- [Dev.to/JS] [Feeling Bloaty? File Cleanup After Create-React-App](https://dev.to/shujaatazim/feeling-bloaty-file-cleanup-after-create-react-app-23dm)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
