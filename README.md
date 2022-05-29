@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web3 Solidity + JavaScript 32 hour course recap #3](https://dev.to/detwiler_amy/web3-solidity-javascript-32-hour-course-recap-3-d68)
+- [Dev.to/JS] [This Project Got Me a Full-time Software Engineering Job](https://dev.to/mkasulecoder/this-project-got-me-a-full-time-job-14fk)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Dev.to/JS] [Javascript Array Methods](https://dev.to/sobhandash/javascript-array-methods-1m50)
 - [Dev.to/JS] [Typescript | Made with Gatsby JS](https://dev.to/madewithjavascript/typescript-made-with-gatsby-js-5122)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Adding route transition animations in Remix](https://dev.to/thomasledoux1/adding-route-transition-animations-in-remix-52jm)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
 - [Dev.to/JS] [How to use Lodash compact function?](https://dev.to/harithzainudin/how-to-use-lodash-compact-function-pp3)
-- [Dev.to/JS] [Please, don&#39;t give up on programming!](https://dev.to/alesbe/please-dont-give-up-on-programming-4pop)
-- [Dev.to/JS] [Understanding CSRF Attacks](https://dev.to/zellwk/understanding-csrf-attacks-36ao)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
