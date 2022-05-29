@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Debugging in Javascript](https://dev.to/abhirajb/debugging-in-javascript-3de6)
+- [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Dev.to/JS] [Freshman Software Engneering](https://dev.to/lindotex/freshman-software-engneering-3pg9)
 - [Dev.to/JS] [Terminal style website. &lpar;UPDATE&rpar;](https://dev.to/m4tt72/terminal-style-website-update-2pnn)
 - [Dev.to/JS] [7 Free Node.js Tutorials For Beginners in 2022](https://dev.to/coursesity/7-free-nodejs-tutorials-for-beginners-in-2022-lcl)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Five concepts I found difficult to explain when teaching JavaScript &lpar;part 1&rpar;](https://dev.to/konohamaru/five-concepts-i-found-difficult-to-explain-when-teaching-javascript-part-1-14ea)
 - [Dev.to/JS] [Performant React 101: `useEffect` or `useLayoutEffect`?](https://dev.to/jwwnz/performant-react-101-useeffect-or-uselayouteffect-30b)
 - [Dev.to/JS] [React authentication tutorial with Firebase V9 and Firestore](https://dev.to/vcnsiqueira/react-authentication-tutorial-with-firebase-v9-and-firestore-id6)
-- [Dev.to/JS] [JavaScript - Conditional Operator](https://dev.to/justtanwa/javascript-conditional-operator-594f)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Rigged Carnival Games You Won’t Win &lpar;and One You Might&rpar;](https://lifehacker.com/11-rigged-carnival-games-you-won-t-win-and-one-you-mig-1848978227)
 - [Lifehacker] [All the Ways to Save on Gas This Memorial Day Weekend](https://lifehacker.com/all-the-ways-to-save-on-gas-this-memorial-day-weekend-1848982450)
 - [Lifehacker] [Why Your iPhone Takes So Long to Install Updates Automatically](https://lifehacker.com/why-your-iphone-takes-so-long-to-install-updates-automa-1848982208)
-- [Lifehacker] [The Difference Between Being a Hoarder and Just Messy &lpar;and What to Do Either Way&rpar;](https://lifehacker.com/the-difference-between-being-a-hoarder-and-just-messy-1848981899)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
