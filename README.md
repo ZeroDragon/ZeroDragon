@@ -25,7 +25,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 <!-- TECH-POSTS:START -->
 - [Dev.to/JS] [Building a Video Calling App using Python &amp; Flask](https://dev.to/yash_makan/building-a-video-calling-app-using-python-flask-17m5)
 - [Dev.to/JS] [Digital Clock](https://dev.to/sanketbodake/digital-clock-3ifo)
-- [Dev.to/JS] [How to use dark mode and light mode with tailwindcss and reactjs](https://dev.to/mustafazahedi/how-to-use-dark-mode-and-light-mode-with-tailwindcss-and-reactjs-4c9l)
+- [Dev.to/JS] [How to use the dark utile with tailwindcss and reactjs](https://dev.to/mustafazahedi/how-to-use-dark-mode-and-light-mode-with-tailwindcss-and-reactjs-4c9l)
 - [Dev.to/JS] [61 Frontend Web Development Buzz Words every Developer Should have in their Vocabulary](https://dev.to/ruppysuppy/61-frontend-web-development-buzz-words-every-developer-should-have-in-their-vocabulary-3c9)
 - [Dev.to/JS] [Feeling Bloaty? File Cleanup After Create-React-App](https://dev.to/shujaatazim/feeling-bloaty-file-cleanup-after-create-react-app-23dm)
 - [Dev.to/JS] [Remix prefetch: Fetch data ahead of time](https://dev.to/ishanme/remix-prefetch-fetch-data-ahead-of-time-1dhb)
