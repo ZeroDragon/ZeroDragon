@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Please, don&#39;t give up on programming!](https://dev.to/alesbe/please-dont-give-up-on-programming-4pop)
+- [Dev.to/JS] [Understanding CSRF Attacks](https://dev.to/zellwk/understanding-csrf-attacks-36ao)
+- [Dev.to/JS] [Five concepts I found difficult to explain when teaching JavaScript &lpar;part 1&rpar;](https://dev.to/konohamaru/five-concepts-i-found-difficult-to-explain-when-teaching-javascript-part-1-14ea)
+- [Dev.to/JS] [Performant React 101: `useEffect` or `useLayoutEffect`?](https://dev.to/jwwnz/performant-react-101-useeffect-or-uselayouteffect-30b)
+- [Dev.to/JS] [React authentication tutorial with Firebase V9 and Firestore](https://dev.to/vcnsiqueira/react-authentication-tutorial-with-firebase-v9-and-firestore-id6)
 - [Dev.to/JS] [JavaScript - Conditional Operator](https://dev.to/justtanwa/javascript-conditional-operator-594f)
 - [Dev.to/JS] [Building a Video Calling App using Python &amp; Flask](https://dev.to/yash_makan/building-a-video-calling-app-using-python-flask-17m5)
 - [Dev.to/JS] [Digital Clock](https://dev.to/sanketbodake/digital-clock-3ifo)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [61 Frontend Web Development Buzz Words every Developer Should have in their Vocabulary](https://dev.to/ruppysuppy/61-frontend-web-development-buzz-words-every-developer-should-have-in-their-vocabulary-3c9)
 - [Dev.to/JS] [Feeling Bloaty? File Cleanup After Create-React-App](https://dev.to/shujaatazim/feeling-bloaty-file-cleanup-after-create-react-app-23dm)
 - [Dev.to/JS] [Remix prefetch: Fetch data ahead of time](https://dev.to/ishanme/remix-prefetch-fetch-data-ahead-of-time-1dhb)
-- [Dev.to/JS] [🤳 VR/AR with react-three-fiber](https://dev.to/gil_finkelstein/vrar-with-react-three-fiber-1j14)
-- [Dev.to/JS] [Programming a Cake](https://dev.to/jjhiggz/programming-a-cake-3g7c)
-- [Dev.to/JS] [Find all substring of a given string in O&lpar;n^2&rpar; time.](https://dev.to/rajeshroyal/find-all-substring-of-a-given-string-in-on2-time-2ip7)
-- [Dev.to/JS] [How JavaScript became a backend language &lpar;node.js&rpar;](https://dev.to/ahnafahamed4/how-javascript-became-a-backend-language-nodejs-5730)
-- [Dev.to/JS] [Js Tricks #0: Iterando un Array de Objetos.](https://dev.to/alexissossa/js-tricks-0-iterando-un-array-de-objetos-3kgf)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
