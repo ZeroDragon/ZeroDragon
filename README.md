@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The 7-Step System To Running Successful And Profitable Webinars](https://dev.to/sameer87575/the-7-step-system-to-running-successful-and-profitable-webinars-24i4)
+- [Dev.to/JS] [How to migrate from yarn / npm to pnpm](https://dev.to/andreychernykh/yarn-npm-to-pnpm-migration-guide-2n04)
+- [Dev.to/JS] [Improve your iframe UX with React LoadingIframes](https://dev.to/tealover418/improve-your-iframe-ux-with-react-loadingiframes-16j6)
 - [Dev.to/JS] [Week 5 - Promises, promises, promises](https://dev.to/jwhitt3r/week-5-promises-promises-promises-o47)
 - [Dev.to/JS] [Get Started with React Hooks](https://dev.to/phanimurari/get-started-with-react-hooks-188p)
 - [Dev.to/JS] [Weekly Digest 21/2022](https://dev.to/marcobiedermann/weekly-digest-212022-o37)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Array Methods](https://dev.to/sobhandash/javascript-array-methods-1m50)
 - [Dev.to/JS] [Typescript | Made with Gatsby JS](https://dev.to/madewithjavascript/typescript-made-with-gatsby-js-5122)
 - [Dev.to/JS] [Simple Crypto Price Widget](https://dev.to/hr21don/simple-crypto-price-widget-30cp)
-- [Dev.to/JS] [Debugging in Javascript](https://dev.to/abhirajb/debugging-in-javascript-3de6)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
-- [Dev.to/JS] [Freshman Software Engneering](https://dev.to/lindotex/freshman-software-engneering-3pg9)
-- [Dev.to/JS] [Terminal style website. &lpar;UPDATE&rpar;](https://dev.to/m4tt72/terminal-style-website-update-2pnn)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
