@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Freshman Software Engneering](https://dev.to/lindotex/freshman-software-engneering-3pg9)
+- [Dev.to/JS] [Terminal style website. &lpar;UPDATE&rpar;](https://dev.to/m4tt72/terminal-style-website-update-2pnn)
+- [Dev.to/JS] [7 Free Node.js Tutorials For Beginners in 2022](https://dev.to/coursesity/7-free-nodejs-tutorials-for-beginners-in-2022-lcl)
 - [Dev.to/JS] [CVisor : Using Computer Vision to stop COVID-19](https://dev.to/shoray2002/cvisor-using-computer-vision-to-stop-covid-19-10ka)
 - [Dev.to/JS] [Adding route transition animations in Remix](https://dev.to/thomasledoux1/adding-route-transition-animations-in-remix-52jm)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Performant React 101: `useEffect` or `useLayoutEffect`?](https://dev.to/jwwnz/performant-react-101-useeffect-or-uselayouteffect-30b)
 - [Dev.to/JS] [React authentication tutorial with Firebase V9 and Firestore](https://dev.to/vcnsiqueira/react-authentication-tutorial-with-firebase-v9-and-firestore-id6)
 - [Dev.to/JS] [JavaScript - Conditional Operator](https://dev.to/justtanwa/javascript-conditional-operator-594f)
-- [Dev.to/JS] [Building a Video Calling App using Python &amp; Flask](https://dev.to/yash_makan/building-a-video-calling-app-using-python-flask-17m5)
-- [Dev.to/JS] [Digital Clock](https://dev.to/sanketbodake/digital-clock-3ifo)
-- [Dev.to/JS] [How to use the dark utile with tailwindcss and reactjs](https://dev.to/mustafazahedi/how-to-use-dark-mode-and-light-mode-with-tailwindcss-and-reactjs-4c9l)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
