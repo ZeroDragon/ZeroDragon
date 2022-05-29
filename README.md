@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
+- [Dev.to/JS] [How to use Lodash compact function?](https://dev.to/harithzainudin/how-to-use-lodash-compact-function-pp3)
 - [Dev.to/JS] [Please, don&#39;t give up on programming!](https://dev.to/alesbe/please-dont-give-up-on-programming-4pop)
 - [Dev.to/JS] [Understanding CSRF Attacks](https://dev.to/zellwk/understanding-csrf-attacks-36ao)
 - [Dev.to/JS] [Five concepts I found difficult to explain when teaching JavaScript &lpar;part 1&rpar;](https://dev.to/konohamaru/five-concepts-i-found-difficult-to-explain-when-teaching-javascript-part-1-14ea)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use the dark utile with tailwindcss and reactjs](https://dev.to/mustafazahedi/how-to-use-dark-mode-and-light-mode-with-tailwindcss-and-reactjs-4c9l)
 - [Dev.to/JS] [61 Frontend Web Development Buzz Words every Developer Should have in their Vocabulary](https://dev.to/ruppysuppy/61-frontend-web-development-buzz-words-every-developer-should-have-in-their-vocabulary-3c9)
 - [Dev.to/JS] [Feeling Bloaty? File Cleanup After Create-React-App](https://dev.to/shujaatazim/feeling-bloaty-file-cleanup-after-create-react-app-23dm)
-- [Dev.to/JS] [Remix prefetch: Fetch data ahead of time](https://dev.to/ishanme/remix-prefetch-fetch-data-ahead-of-time-1dhb)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways to Save on Gas This Memorial Day Weekend](https://lifehacker.com/all-the-ways-to-save-on-gas-this-memorial-day-weekend-1848982450)
 - [Lifehacker] [Why Your iPhone Takes So Long to Install Updates Automatically](https://lifehacker.com/why-your-iphone-takes-so-long-to-install-updates-automa-1848982208)
 - [Lifehacker] [The Difference Between Being a Hoarder and Just Messy &lpar;and What to Do Either Way&rpar;](https://lifehacker.com/the-difference-between-being-a-hoarder-and-just-messy-1848981899)
-- [Lifehacker] [Chrome Can Identify the Song Playing in Any Streaming Video](https://lifehacker.com/chrome-can-identify-the-song-playing-in-any-streaming-v-1848981380)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
 - [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
