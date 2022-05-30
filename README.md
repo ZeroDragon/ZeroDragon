@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Discord bot with JavaScript!](https://dev.to/swislokdev/discord-bot-with-javascript-1bg2)
+- [Dev.to/JS] [#28: Full-Stack SWA: React + Mongoose](https://dev.to/azure/28-full-stack-swa-react-mongoose-3bpp)
 - [Dev.to/JS] [JAVASCRIPT DISPLAY POSSIBILITIES.](https://dev.to/dovey21/javascript-display-possibilities-5go9)
 - [Dev.to/JS] [100+ Project Idea Resources for Web Developers](https://dev.to/asheeshh/100-project-ideas-web-developers-2fn8)
 - [Dev.to/JS] [How does JavaScript work in browsers? A quick explanation?](https://dev.to/kamruldev/how-does-javascript-work-in-browsers-a-quick-explanation-4ogl)
-- [Dev.to/JS] [RxJS uma biblioteca versátil par a programação reativa](https://dev.to/heltonss/rxjs-uma-biblioteca-versatil-par-a-programacao-reativa-4k54)
+- [Dev.to/JS] [RxJS uma biblioteca versátil para programação reativa](https://dev.to/heltonss/rxjs-uma-biblioteca-versatil-par-a-programacao-reativa-4k54)
 - [Dev.to/JS] [IP Location Grabbing](https://dev.to/shubhampatilsd/ip-location-grabbing-595e)
 - [Dev.to/JS] [Just signed up!](https://dev.to/williamtroup/just-signed-up-pkg)
 - [Dev.to/JS] [Quote to image Next.js App Devlog | Part 1](https://dev.to/arcaege/quote-to-image-nextjs-app-devlog-part-1-4lja)
 - [Dev.to/JS] [QUAL É A SUA PRETENSÃO SALARIAL?](https://dev.to/diegosilvatech/qual-e-a-sua-pretensao-salarial-44mo)
 - [Dev.to/JS] [React 18 - performance improvements](https://dev.to/markoarsenal/react-18-performance-improvements-26el)
 - [Dev.to/JS] [The 7-Step System To Running Successful And Profitable Webinars](https://dev.to/sameer87575/the-7-step-system-to-running-successful-and-profitable-webinars-24i4)
-- [Dev.to/JS] [How to migrate from yarn / npm to pnpm](https://dev.to/andreychernykh/yarn-npm-to-pnpm-migration-guide-2n04)
-- [Dev.to/JS] [Improve your iframe UX with React LoadingIframes](https://dev.to/tealover418/improve-your-iframe-ux-with-react-loadingiframes-16j6)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
