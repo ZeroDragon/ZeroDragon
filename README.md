@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Watch Porn Safely](https://dev.to/pagalworldsong/how-to-watch-porn-safely-3pi7)
+- [Dev.to/JS] [Top 5 Reasons Why Software Engineers Change Careers](https://dev.to/techmaniacc/top-5-reasons-why-software-engineers-change-careers-34dm)
+- [Dev.to/JS] [Construye en Flow: Aprende FCL - 2. Pasando argumentos a Scripts](https://dev.to/brunogonzales/construye-en-flow-aprende-fcl-2-pasando-argumentos-a-scripts-4ode)
+- [Dev.to/JS] [Dark Theme Toggle - How to create a dark mode switch in a few lines of JS + CSS](https://dev.to/luciacenetiempo/dark-theme-toggle-56p9)
+- [Dev.to/JS] [85 JavaScript Code Assists for Visual Studio Code](https://dev.to/lgrammel/85-javascript-code-assists-for-visual-studio-code-1akh)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Dev.to/JS] [How Keyboard Events Work in JavaScript](https://dev.to/nnekajenny/how-keyboard-events-work-in-javascript-1g66)
 - [Dev.to/JS] [Paracetamol.js💊| #128: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-128-explica-este-codigo-javascript-3405)
@@ -33,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Our New Release Laravel eCommerce Script](https://dev.to/sharifur/our-new-release-laravel-ecommerce-script-1b29)
 - [Dev.to/JS] [Day-97 Training At Ryaz](https://dev.to/mahin651/day-97-training-at-ryaz-f4k)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
-- [Dev.to/JS] [Ng-News: Episode 22/21](https://dev.to/rainerhahnekamp/ng-news-episode-2221-4ojf)
-- [Dev.to/JS] [Build on FLOW | Learn FCL - 3. How to Return Custom Value from Script](https://dev.to/onflow/build-on-flow-learn-fcl-3-how-to-return-custom-value-from-script-3fp6)
-- [Dev.to/JS] [O que são Higher Order Functions?](https://dev.to/g101/o-que-sao-higher-order-functions-524b)
-- [Dev.to/JS] [Solidjs and React.js - Difference and Comparison](https://dev.to/devsmitra/solidjs-and-reactjs-difference-and-comparison-1p3e)
-- [Dev.to/JS] [How to Improve DOM Structure with React Portal](https://dev.to/napoleon039/how-to-improve-dom-structure-with-react-portal-5fbd)
 - [Lifehacker] [Avoid These Common Gardening Mistakes](https://lifehacker.com/avoid-these-common-gardening-mistakes-1848984869)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
