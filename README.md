@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Optimizations in React Part #2](https://dev.to/vithano/optimizations-in-react-2-242k)
+- [Dev.to/JS] [Implementing IRIS Integrations with .NET or Java using PEX](https://dev.to/intersystems/implementing-iris-integrations-with-net-or-java-using-pex-2c32)
 - [Dev.to/JS] [Learn this before jumping into React](https://dev.to/gabrielpedroza/learn-this-before-jumping-into-react-with-quiz-3k64)
-- [Dev.to/JS] [Setup Tailwind CSS in a React project configured from scratch | a step-by-step guide](https://dev.to/yvad60/setup-tailwind-css-in-a-react-project-configured-from-scratch-a-step-by-step-guide-2jc8)
+- [Dev.to/JS] [Setup Tailwind CSS in a React project configured from scratch with Webpack | a step-by-step guide](https://dev.to/yvad60/setup-tailwind-css-in-a-react-project-configured-from-scratch-a-step-by-step-guide-2jc8)
 - [Dev.to/JS] [How To Watch Porn Safely](https://dev.to/pagalworldsong/how-to-watch-porn-safely-3pi7)
 - [Dev.to/JS] [Top 5 Reasons Why Software Engineers Change Careers](https://dev.to/techmaniacc/top-5-reasons-why-software-engineers-change-careers-34dm)
 - [Dev.to/JS] [Construye en Flow: Aprende FCL - 2. Pasando argumentos a Scripts](https://dev.to/brunogonzales/construye-en-flow-aprende-fcl-2-pasando-argumentos-a-scripts-4ode)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #128: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-128-explica-este-codigo-javascript-3405)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Dev.to/JS] [Entendendo dados estruturados](https://dev.to/bendevoficial/entendendo-dados-estruturados-50e)
-- [Dev.to/JS] [Improving the DX with Git Aliases](https://dev.to/daniloab/improving-the-dx-with-git-aliases-4hb)
-- [Dev.to/JS] [Merge multiple Media Stream and save into a single file in React js](https://dev.to/hatimtekri/merge-multiple-media-stream-and-save-into-a-single-file-in-react-js-24c0)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
 - [Lifehacker] [Avoid These Common Gardening Mistakes](https://lifehacker.com/avoid-these-common-gardening-mistakes-1848984869)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
