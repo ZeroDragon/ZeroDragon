@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Avoid These Common Gardening Mistakes](https://lifehacker.com/avoid-these-common-gardening-mistakes-1848984869)
+- [Dev.to/JS] [Unidirectional and Bidirectional Data Flow - The Ultimate Front-End Interview Questions Guide Pt: 1](https://dev.to/aryclenio/unidirectional-and-bidirectional-data-flow-the-ultimate-front-end-interview-questions-guide-pt-1-5cnc)
+- [Dev.to/JS] [How to set up Next.js with TypeScript](https://dev.to/jtakahashi64/how-to-set-up-nextjs-with-typescript-20in)
+- [Dev.to/JS] [Create Simple Count Down Timer Component](https://dev.to/satel/create-simple-count-down-timer-component-13j2)
+- [Dev.to/JS] [Patch an NPM dependency with yarn](https://dev.to/abereghici/patch-an-npm-dependency-with-yarn-4oa)
+- [Dev.to/JS] [Which is preferable: JSX or HTML?](https://dev.to/khansa/which-is-preferable-jsx-or-html-399i)
 - [Dev.to/JS] [CSS Grid: grid-items](https://dev.to/mateuszkirmuc/css-grid-grid-items-2ej4)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😳.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3aae)
 - [Dev.to/JS] [Up and Running With NodeJS Express App In A Minute &lpar;2022&rpar;](https://dev.to/hirajatamil/up-and-running-with-nodejs-express-app-in-a-minute-2022-473p)
@@ -30,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;5&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-5-4f05)
 - [Dev.to/JS] [At Gateway to Cosmos, Prague was the center of the blockchain multiverse](https://dev.to/filipkidtweet/at-gateway-to-cosmos-prague-was-the-center-of-the-blockchain-multiverse-2ph)
 - [Dev.to/JS] [Building search-bar with JavaScript 🧐](https://dev.to/evansifyke/building-search-bar-with-javascript-2gi4)
-- [Dev.to/JS] [Why CSS-in-JS?](https://dev.to/kibetamos/why-css-in-js-394i)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
-- [Dev.to/JS] [4 popular JavaScript style guides that will help your team write better code](https://dev.to/codacy/4-popular-javascript-style-guides-that-will-help-your-team-write-better-code-3830)
-- [Dev.to/JS] [JavaScript: Tips and Tricks](https://dev.to/nguyenphatit/javascript-tips-and-tricks-a0a)
-- [Dev.to/JS] [How to Use Throttle and Debounce in React to Increase Performance](https://dev.to/andreyen/how-to-use-throttle-and-debounce-in-react-app-13af)
-- [Dev.to/JS] [Day 1/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-130-days-of-codewars-javascript-edition-3560)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
 - [Lifehacker] [What to Know About the Tick That Can Make You Allergic to Meat](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
 - [Lifehacker] [11 Rigged Carnival Games You Won’t Win &lpar;and One You Might&rpar;](https://lifehacker.com/11-rigged-carnival-games-you-won-t-win-and-one-you-mig-1848978227)
-- [Lifehacker] [All the Ways to Save on Gas This Memorial Day Weekend](https://lifehacker.com/all-the-ways-to-save-on-gas-this-memorial-day-weekend-1848982450)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
