@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solidjs and React.js - Difference and Comparison](https://dev.to/devsmitra/solidjs-and-reactjs-difference-and-comparison-1p3e)
+- [Dev.to/JS] [How to Improve DOM Structure with React Portal](https://dev.to/napoleon039/how-to-improve-dom-structure-with-react-portal-5fbd)
 - [Lifehacker] [Avoid These Common Gardening Mistakes](https://lifehacker.com/avoid-these-common-gardening-mistakes-1848984869)
 - [Dev.to/JS] [Unidirectional and Bidirectional Data Flow - The Ultimate Front-End Interview Questions Guide Pt: 1](https://dev.to/aryclenio/unidirectional-and-bidirectional-data-flow-the-ultimate-front-end-interview-questions-guide-pt-1-5cnc)
 - [Dev.to/JS] [How to set up Next.js with TypeScript](https://dev.to/jtakahashi64/how-to-set-up-nextjs-with-typescript-20in)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Up and Running With NodeJS Express App In A Minute &lpar;2022&rpar;](https://dev.to/hirajatamil/up-and-running-with-nodejs-express-app-in-a-minute-2022-473p)
 - [Dev.to/JS] [How To Build An App With React Context API](https://dev.to/elijahtrillionz/how-to-build-an-app-with-react-context-api-512e)
 - [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;5&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-5-4f05)
-- [Dev.to/JS] [At Gateway to Cosmos, Prague was the center of the blockchain multiverse](https://dev.to/filipkidtweet/at-gateway-to-cosmos-prague-was-the-center-of-the-blockchain-multiverse-2ph)
-- [Dev.to/JS] [Building search-bar with JavaScript 🧐](https://dev.to/evansifyke/building-search-bar-with-javascript-2gi4)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
