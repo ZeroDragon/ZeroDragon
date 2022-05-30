@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
+- [Dev.to/JS] [Entendendo dados estruturados](https://dev.to/bendevoficial/entendendo-dados-estruturados-50e)
+- [Dev.to/JS] [Improving the DX with Git Aliases](https://dev.to/daniloab/improving-the-dx-with-git-aliases-4hb)
+- [Dev.to/JS] [Merge multiple Media Stream and save into a single file in React js](https://dev.to/hatimtekri/merge-multiple-media-stream-and-save-into-a-single-file-in-react-js-24c0)
+- [Dev.to/JS] [Our New Release Laravel eCommerce Script](https://dev.to/sharifur/our-new-release-laravel-ecommerce-script-1b29)
+- [Dev.to/JS] [Day-97 Training At Ryaz](https://dev.to/mahin651/day-97-training-at-ryaz-f4k)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
 - [Dev.to/JS] [Ng-News: Episode 22/21](https://dev.to/rainerhahnekamp/ng-news-episode-2221-4ojf)
 - [Dev.to/JS] [Build on FLOW | Learn FCL - 3. How to Return Custom Value from Script](https://dev.to/onflow/build-on-flow-learn-fcl-3-how-to-return-custom-value-from-script-3fp6)
@@ -32,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Common Gardening Mistakes](https://lifehacker.com/avoid-these-common-gardening-mistakes-1848984869)
 - [Dev.to/JS] [Unidirectional and Bidirectional Data Flow - The Ultimate Front-End Interview Questions Guide Pt: 1](https://dev.to/aryclenio/unidirectional-and-bidirectional-data-flow-the-ultimate-front-end-interview-questions-guide-pt-1-5cnc)
 - [Dev.to/JS] [How to set up Next.js with TypeScript](https://dev.to/jtakahashi64/how-to-set-up-nextjs-with-typescript-20in)
-- [Dev.to/JS] [Create Simple Count Down Timer Component](https://dev.to/satel/create-simple-count-down-timer-component-13j2)
-- [Dev.to/JS] [Patch an NPM dependency with yarn](https://dev.to/abereghici/patch-an-npm-dependency-with-yarn-4oa)
-- [Dev.to/JS] [Which is preferable: JSX or HTML?](https://dev.to/khansa/which-is-preferable-jsx-or-html-399i)
-- [Dev.to/JS] [CSS Grid: grid-items](https://dev.to/mateuszkirmuc/css-grid-grid-items-2ej4)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😳.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3aae)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
-- [Lifehacker] [What to Know About the Tick That Can Make You Allergic to Meat](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
