@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JAVASCRIPT DISPLAY POSSIBILITIES.](https://dev.to/dovey21/javascript-display-possibilities-5go9)
+- [Dev.to/JS] [100+ Project Idea Resources for Web Developers](https://dev.to/asheeshh/100-project-ideas-web-developers-2fn8)
+- [Dev.to/JS] [How does JavaScript work in browsers? A quick explanation?](https://dev.to/kamruldev/how-does-javascript-work-in-browsers-a-quick-explanation-4ogl)
+- [Dev.to/JS] [RxJS uma biblioteca versátil par a programação reativa](https://dev.to/heltonss/rxjs-uma-biblioteca-versatil-par-a-programacao-reativa-4k54)
 - [Dev.to/JS] [IP Location Grabbing](https://dev.to/shubhampatilsd/ip-location-grabbing-595e)
 - [Dev.to/JS] [Just signed up!](https://dev.to/williamtroup/just-signed-up-pkg)
 - [Dev.to/JS] [Quote to image Next.js App Devlog | Part 1](https://dev.to/arcaege/quote-to-image-nextjs-app-devlog-part-1-4lja)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The 7-Step System To Running Successful And Profitable Webinars](https://dev.to/sameer87575/the-7-step-system-to-running-successful-and-profitable-webinars-24i4)
 - [Dev.to/JS] [How to migrate from yarn / npm to pnpm](https://dev.to/andreychernykh/yarn-npm-to-pnpm-migration-guide-2n04)
 - [Dev.to/JS] [Improve your iframe UX with React LoadingIframes](https://dev.to/tealover418/improve-your-iframe-ux-with-react-loadingiframes-16j6)
-- [Dev.to/JS] [Week 5 - Promises, promises, promises](https://dev.to/jwhitt3r/week-5-promises-promises-promises-o47)
-- [Dev.to/JS] [Get Started with React Hooks](https://dev.to/phanimurari/get-started-with-react-hooks-188p)
-- [Dev.to/JS] [Weekly Digest 21/2022](https://dev.to/marcobiedermann/weekly-digest-212022-o37)
-- [Dev.to/JS] [How to import SVG in React](https://dev.to/zougari47/how-to-import-svg-in-react-4ne3)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
