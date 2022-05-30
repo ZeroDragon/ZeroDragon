@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;5&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-5-4f05)
+- [Dev.to/JS] [At Gateway to Cosmos, Prague was the center of the blockchain multiverse](https://dev.to/filipkidtweet/at-gateway-to-cosmos-prague-was-the-center-of-the-blockchain-multiverse-2ph)
+- [Dev.to/JS] [Building search-bar with JavaScript 🧐](https://dev.to/evansifyke/building-search-bar-with-javascript-2gi4)
+- [Dev.to/JS] [Why CSS-in-JS?](https://dev.to/kibetamos/why-css-in-js-394i)
+- [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
+- [Dev.to/JS] [4 popular JavaScript style guides that will help your team write better code](https://dev.to/codacy/4-popular-javascript-style-guides-that-will-help-your-team-write-better-code-3830)
 - [Dev.to/JS] [JavaScript: Tips and Tricks](https://dev.to/nguyenphatit/javascript-tips-and-tricks-a0a)
 - [Dev.to/JS] [How to Use Throttle and Debounce in React to Increase Performance](https://dev.to/andreyen/how-to-use-throttle-and-debounce-in-react-app-13af)
 - [Dev.to/JS] [Day 1/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-130-days-of-codewars-javascript-edition-3560)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Use Web Components in React](https://dev.to/mariusbongarts/how-to-use-web-components-in-react-5e43)
 - [Dev.to/JS] [How to add TailwindCSS to Vue Storefront 2](https://dev.to/vue-storefront/how-to-add-tailwindcss-to-vue-storefront-2-1i7j)
 - [Dev.to/JS] [Chart JS scatter diagram with 2 datasets](https://dev.to/genvejen/chart-js-scatter-diagram-with-2-datasets-5g06)
-- [Dev.to/JS] [Introduction to Command Query Responsibility Segregation &lpar;CQRS&rpar; -iFour](https://dev.to/harshalsuthar/introduction-to-command-query-responsibility-segregation-cqrs-ifour-42jk)
-- [Dev.to/JS] [FoalTS framework - Version 2.9 is here 🎉](https://dev.to/loicpoullain/foalts-framework-version-29-is-here-1j2i)
-- [Dev.to/JS] [Cardio Clear 7 {USA Reviews}: Real Truth Reveable From Its Official Website!](https://dev.to/cardioclearget/cardio-clear-7-usa-reviews-real-truth-reveable-from-its-official-website-4p44)
-- [Dev.to/JS] [JavaScript types feaver](https://dev.to/bacloud22/javascript-types-feaver-1gh)
-- [Dev.to/JS] [Exploring Chart.js with Star Wars data](https://dev.to/devpower/exploring-chartjs-with-star-wars-data-2607)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Rigged Carnival Games You Won’t Win &lpar;and One You Might&rpar;](https://lifehacker.com/11-rigged-carnival-games-you-won-t-win-and-one-you-mig-1848978227)
 - [Lifehacker] [All the Ways to Save on Gas This Memorial Day Weekend](https://lifehacker.com/all-the-ways-to-save-on-gas-this-memorial-day-weekend-1848982450)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
-- [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)
-- [Crazy Programmer] [Tips for Building SaaS Products Efficiently](https://www.thecrazyprogrammer.com/2022/05/tips-for-building-saas-products-efficiently.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
 ---
 
