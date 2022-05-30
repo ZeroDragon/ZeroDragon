@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS Grid: grid-items](https://dev.to/mateuszkirmuc/css-grid-grid-items-2ej4)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😳.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3aae)
+- [Dev.to/JS] [Up and Running With NodeJS Express App In A Minute &lpar;2022&rpar;](https://dev.to/hirajatamil/up-and-running-with-nodejs-express-app-in-a-minute-2022-473p)
 - [Dev.to/JS] [How To Build An App With React Context API](https://dev.to/elijahtrillionz/how-to-build-an-app-with-react-context-api-512e)
 - [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;5&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-5-4f05)
 - [Dev.to/JS] [At Gateway to Cosmos, Prague was the center of the blockchain multiverse](https://dev.to/filipkidtweet/at-gateway-to-cosmos-prague-was-the-center-of-the-blockchain-multiverse-2ph)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript: Tips and Tricks](https://dev.to/nguyenphatit/javascript-tips-and-tricks-a0a)
 - [Dev.to/JS] [How to Use Throttle and Debounce in React to Increase Performance](https://dev.to/andreyen/how-to-use-throttle-and-debounce-in-react-app-13af)
 - [Dev.to/JS] [Day 1/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-130-days-of-codewars-javascript-edition-3560)
-- [Dev.to/JS] [Improve your project workflow with these bitbucket pipelines/github actions automations - ClickPesa way](https://dev.to/clickpesa/improve-your-project-workflow-with-these-bitbucket-pipelinesgithub-actions-automations-clickpesa-way-3f6k)
-- [Dev.to/JS] [How To Use Web Components in React](https://dev.to/mariusbongarts/how-to-use-web-components-in-react-5e43)
-- [Dev.to/JS] [How to add TailwindCSS to Vue Storefront 2](https://dev.to/vue-storefront/how-to-add-tailwindcss-to-vue-storefront-2-1i7j)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
