@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Build An App With React Context API](https://dev.to/elijahtrillionz/how-to-build-an-app-with-react-context-api-512e)
 - [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;5&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-5-4f05)
 - [Dev.to/JS] [At Gateway to Cosmos, Prague was the center of the blockchain multiverse](https://dev.to/filipkidtweet/at-gateway-to-cosmos-prague-was-the-center-of-the-blockchain-multiverse-2ph)
 - [Dev.to/JS] [Building search-bar with JavaScript 🧐](https://dev.to/evansifyke/building-search-bar-with-javascript-2gi4)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Improve your project workflow with these bitbucket pipelines/github actions automations - ClickPesa way](https://dev.to/clickpesa/improve-your-project-workflow-with-these-bitbucket-pipelinesgithub-actions-automations-clickpesa-way-3f6k)
 - [Dev.to/JS] [How To Use Web Components in React](https://dev.to/mariusbongarts/how-to-use-web-components-in-react-5e43)
 - [Dev.to/JS] [How to add TailwindCSS to Vue Storefront 2](https://dev.to/vue-storefront/how-to-add-tailwindcss-to-vue-storefront-2-1i7j)
-- [Dev.to/JS] [Chart JS scatter diagram with 2 datasets](https://dev.to/genvejen/chart-js-scatter-diagram-with-2-datasets-5g06)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
