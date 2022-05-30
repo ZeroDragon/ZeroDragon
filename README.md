@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 Programming Languages in 2022- Codexashish](https://dev.to/mailashish/top-10-programming-languages-in-2022-codexashish-4i7a)
+- [Dev.to/JS] [Nora | Made with Next JS](https://dev.to/madewithjavascript/nora-made-with-next-js-6oj)
 - [Dev.to/JS] [Discord bot with JavaScript!](https://dev.to/swislokdev/discord-bot-with-javascript-1bg2)
 - [Dev.to/JS] [#28: Full-Stack SWA: React + Mongoose](https://dev.to/azure/28-full-stack-swa-react-mongoose-3bpp)
 - [Dev.to/JS] [JAVASCRIPT DISPLAY POSSIBILITIES.](https://dev.to/dovey21/javascript-display-possibilities-5go9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Just signed up!](https://dev.to/williamtroup/just-signed-up-pkg)
 - [Dev.to/JS] [Quote to image Next.js App Devlog | Part 1](https://dev.to/arcaege/quote-to-image-nextjs-app-devlog-part-1-4lja)
 - [Dev.to/JS] [QUAL É A SUA PRETENSÃO SALARIAL?](https://dev.to/diegosilvatech/qual-e-a-sua-pretensao-salarial-44mo)
-- [Dev.to/JS] [React 18 - performance improvements](https://dev.to/markoarsenal/react-18-performance-improvements-26el)
-- [Dev.to/JS] [The 7-Step System To Running Successful And Profitable Webinars](https://dev.to/sameer87575/the-7-step-system-to-running-successful-and-profitable-webinars-24i4)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
