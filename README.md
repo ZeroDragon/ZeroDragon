@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [IP Location Grabbing](https://dev.to/shubhampatilsd/ip-location-grabbing-595e)
+- [Dev.to/JS] [Just signed up!](https://dev.to/williamtroup/just-signed-up-pkg)
+- [Dev.to/JS] [Quote to image Next.js App Devlog | Part 1](https://dev.to/arcaege/quote-to-image-nextjs-app-devlog-part-1-4lja)
 - [Dev.to/JS] [QUAL É A SUA PRETENSÃO SALARIAL?](https://dev.to/diegosilvatech/qual-e-a-sua-pretensao-salarial-44mo)
 - [Dev.to/JS] [React 18 - performance improvements](https://dev.to/markoarsenal/react-18-performance-improvements-26el)
 - [Dev.to/JS] [The 7-Step System To Running Successful And Profitable Webinars](https://dev.to/sameer87575/the-7-step-system-to-running-successful-and-profitable-webinars-24i4)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get Started with React Hooks](https://dev.to/phanimurari/get-started-with-react-hooks-188p)
 - [Dev.to/JS] [Weekly Digest 21/2022](https://dev.to/marcobiedermann/weekly-digest-212022-o37)
 - [Dev.to/JS] [How to import SVG in React](https://dev.to/zougari47/how-to-import-svg-in-react-4ne3)
-- [Dev.to/JS] [Web3 Solidity + JavaScript 32 hour course recap #3](https://dev.to/detwiler_amy/web3-solidity-javascript-32-hour-course-recap-3-d68)
-- [Dev.to/JS] [This Project Got Me a Full-time Software Engineering Job](https://dev.to/mkasulecoder/this-project-got-me-a-full-time-job-14fk)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
-- [Dev.to/JS] [Javascript Array Methods](https://dev.to/sobhandash/javascript-array-methods-1m50)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
