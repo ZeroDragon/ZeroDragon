@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Javascript reduce method explained!](https://dev.to/talenttinaapi/javascript-reduce-method-explained-331j)
 - [Dev.to/JS] [Facial recognition + good faces bot = best faces 🏆](https://dev.to/bryce/facial-recognition-good-faces-bot-best-faces-5ae1)
 - [Dev.to/JS] [Nested Routes- React Router](https://dev.to/kibetamos/nested-routes-react-router-2m54)
 - [Dev.to/JS] [Autocomplete with fuzzy search and Fuse.js](https://dev.to/lucaspaganini/autocomplete-with-fuzzy-search-and-fusejs-3pj9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Watch Porn Safely](https://dev.to/pagalworldsong/how-to-watch-porn-safely-3pi7)
 - [Dev.to/JS] [Top 5 Reasons Why Software Engineers Change Careers](https://dev.to/techmaniacc/top-5-reasons-why-software-engineers-change-careers-34dm)
 - [Dev.to/JS] [Construye en Flow: Aprende FCL - 2. Pasando argumentos a Scripts](https://dev.to/brunogonzales/construye-en-flow-aprende-fcl-2-pasando-argumentos-a-scripts-4ode)
-- [Dev.to/JS] [Dark Theme Toggle - How to create a dark mode switch in a few lines of JS + CSS](https://dev.to/luciacenetiempo/dark-theme-toggle-56p9)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
