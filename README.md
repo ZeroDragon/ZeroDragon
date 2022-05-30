@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
+- [Dev.to/JS] [How Keyboard Events Work in JavaScript](https://dev.to/nnekajenny/how-keyboard-events-work-in-javascript-1g66)
+- [Dev.to/JS] [Paracetamol.js💊| #128: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-128-explica-este-codigo-javascript-3405)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Dev.to/JS] [Entendendo dados estruturados](https://dev.to/bendevoficial/entendendo-dados-estruturados-50e)
 - [Dev.to/JS] [Improving the DX with Git Aliases](https://dev.to/daniloab/improving-the-dx-with-git-aliases-4hb)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solidjs and React.js - Difference and Comparison](https://dev.to/devsmitra/solidjs-and-reactjs-difference-and-comparison-1p3e)
 - [Dev.to/JS] [How to Improve DOM Structure with React Portal](https://dev.to/napoleon039/how-to-improve-dom-structure-with-react-portal-5fbd)
 - [Lifehacker] [Avoid These Common Gardening Mistakes](https://lifehacker.com/avoid-these-common-gardening-mistakes-1848984869)
-- [Dev.to/JS] [Unidirectional and Bidirectional Data Flow - The Ultimate Front-End Interview Questions Guide Pt: 1](https://dev.to/aryclenio/unidirectional-and-bidirectional-data-flow-the-ultimate-front-end-interview-questions-guide-pt-1-5cnc)
-- [Dev.to/JS] [How to set up Next.js with TypeScript](https://dev.to/jtakahashi64/how-to-set-up-nextjs-with-typescript-20in)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Actually Fix Your Tech By Smacking It?](https://lifehacker.com/can-you-actually-fix-your-tech-by-smacking-it-1848983083)
 - [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
-- [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
