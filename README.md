@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Tips and Tricks](https://dev.to/nguyenphatit/javascript-tips-and-tricks-a0a)
+- [Dev.to/JS] [How to Use Throttle and Debounce in React to Increase Performance](https://dev.to/andreyen/how-to-use-throttle-and-debounce-in-react-app-13af)
+- [Dev.to/JS] [Day 1/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-130-days-of-codewars-javascript-edition-3560)
+- [Dev.to/JS] [Improve your project workflow with these bitbucket pipelines/github actions automations - ClickPesa way](https://dev.to/clickpesa/improve-your-project-workflow-with-these-bitbucket-pipelinesgithub-actions-automations-clickpesa-way-3f6k)
 - [Dev.to/JS] [How To Use Web Components in React](https://dev.to/mariusbongarts/how-to-use-web-components-in-react-5e43)
 - [Dev.to/JS] [How to add TailwindCSS to Vue Storefront 2](https://dev.to/vue-storefront/how-to-add-tailwindcss-to-vue-storefront-2-1i7j)
 - [Dev.to/JS] [Chart JS scatter diagram with 2 datasets](https://dev.to/genvejen/chart-js-scatter-diagram-with-2-datasets-5g06)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cardio Clear 7 {USA Reviews}: Real Truth Reveable From Its Official Website!](https://dev.to/cardioclearget/cardio-clear-7-usa-reviews-real-truth-reveable-from-its-official-website-4p44)
 - [Dev.to/JS] [JavaScript types feaver](https://dev.to/bacloud22/javascript-types-feaver-1gh)
 - [Dev.to/JS] [Exploring Chart.js with Star Wars data](https://dev.to/devpower/exploring-chartjs-with-star-wars-data-2607)
-- [Dev.to/JS] [How to abort API requests in JavaScript](https://dev.to/dulah/how-to-abort-api-requests-in-javascript-k53)
-- [Dev.to/JS] [Top 10 Programming Languages in 2022- Codexashish](https://dev.to/mailashish/top-10-programming-languages-in-2022-codexashish-4i7a)
-- [Dev.to/JS] [Nora | Made with Next JS](https://dev.to/madewithjavascript/nora-made-with-next-js-6oj)
-- [Dev.to/JS] [Discord bot with JavaScript!](https://dev.to/swislokdev/discord-bot-with-javascript-1bg2)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
