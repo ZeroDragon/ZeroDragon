@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
+- [Dev.to/JS] [Ng-News: Episode 22/21](https://dev.to/rainerhahnekamp/ng-news-episode-2221-4ojf)
+- [Dev.to/JS] [Build on FLOW | Learn FCL - 3. How to Return Custom Value from Script](https://dev.to/onflow/build-on-flow-learn-fcl-3-how-to-return-custom-value-from-script-3fp6)
+- [Dev.to/JS] [O que são Higher Order Functions?](https://dev.to/g101/o-que-sao-higher-order-functions-524b)
 - [Dev.to/JS] [Solidjs and React.js - Difference and Comparison](https://dev.to/devsmitra/solidjs-and-reactjs-difference-and-comparison-1p3e)
 - [Dev.to/JS] [How to Improve DOM Structure with React Portal](https://dev.to/napoleon039/how-to-improve-dom-structure-with-react-portal-5fbd)
 - [Lifehacker] [Avoid These Common Gardening Mistakes](https://lifehacker.com/avoid-these-common-gardening-mistakes-1848984869)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which is preferable: JSX or HTML?](https://dev.to/khansa/which-is-preferable-jsx-or-html-399i)
 - [Dev.to/JS] [CSS Grid: grid-items](https://dev.to/mateuszkirmuc/css-grid-grid-items-2ej4)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😳.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-3aae)
-- [Dev.to/JS] [Up and Running With NodeJS Express App In A Minute &lpar;2022&rpar;](https://dev.to/hirajatamil/up-and-running-with-nodejs-express-app-in-a-minute-2022-473p)
-- [Dev.to/JS] [How To Build An App With React Context API](https://dev.to/elijahtrillionz/how-to-build-an-app-with-react-context-api-512e)
-- [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;5&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-5-4f05)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Lifehacker] [These Seven Banks Reimburse ATM Fees](https://lifehacker.com/these-seven-banks-reimburse-atm-fees-1848982111)
 - [Lifehacker] [What to Know About the Tick That Can Make You Allergic to Meat](https://lifehacker.com/what-to-know-about-the-tick-that-can-make-you-allergic-1848982558)
-- [Lifehacker] [11 Rigged Carnival Games You Won’t Win &lpar;and One You Might&rpar;](https://lifehacker.com/11-rigged-carnival-games-you-won-t-win-and-one-you-mig-1848978227)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
