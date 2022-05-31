@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
+- [Dev.to/JS] [Why you should consider JavaScript as a general scripting language?](https://dev.to/aclarembeau/why-you-should-consider-javascript-as-a-general-scripting-language-4lk7)
+- [Dev.to/JS] [Framer | Made with React JS](https://dev.to/madewithjavascript/framer-made-with-react-js-11da)
+- [Dev.to/JS] [Build on FLOW | Learn FCL - 4. How to Resolve .find Identity Name to an Address](https://dev.to/onflow/build-on-flow-learn-fcl-4-how-to-resolve-find-identity-name-to-an-address-2po0)
+- [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
+- [Dev.to/JS] [How to modularize your monolith frontend](https://dev.to/richkurtzman/how-to-modularize-your-monolith-frontend-48b5)
+- [Dev.to/JS] [Getting Started with Remix: Firebase Email &amp; Google Authentication](https://dev.to/aaronksaunders/getting-started-with-remix-firebase-email-google-authentication-40mh)
+- [Dev.to/JS] [Arrays are major key](https://dev.to/immabefamous/arrays-are-major-key-igm)
+- [Lifehacker] [Should You Install Windows 10 LTSC?](https://lifehacker.com/should-you-install-windows-10-ltsc-1848997569)
 - [Lifehacker] [You Can Get a Free Replacement for Your Cloud Cam](https://lifehacker.com/how-to-replace-your-cloud-cam-with-a-free-blink-mini-1848996113)
 - [Dev.to/JS] [#29: Looking Back &lpar;Recap&rpar;](https://dev.to/azure/29-looking-back-recap-49od)
 - [Dev.to/JS] [How to choose a javascript framework](https://dev.to/lucaspaganini/how-to-choose-a-javascript-framework-5hcf)
@@ -32,14 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I want to learn React](https://dev.to/santimenendez19/i-want-to-learn-react-3o74)
 - [Lifehacker] [What&#39;s New on Prime Video in June 2022](https://lifehacker.com/whats-new-on-prime-video-in-june-2022-1848996724)
 - [Lifehacker] [VRBO&#39;s 2022 Vacation Homes of the Year &lpar;and How Much They Cost&rpar;](https://lifehacker.com/vrbos-2022-vacation-homes-of-the-year-and-how-much-the-1848995648)
-- [Dev.to/JS] [Imagine Dat Podcast: Episode 1](https://dev.to/imagine_dat_dyt/imagine-dat-podcast-episode-1-241b)
-- [Dev.to/JS] [by developer, for developers](https://dev.to/mohamedation/by-developer-for-developers-45gg)
 - [Lifehacker] [Why You Should Join Your Local Garden Club](https://lifehacker.com/why-you-should-join-your-local-garden-club-1848995994)
-- [Dev.to/JS] [What you can learn from the tennis GOATS as a freelancer](https://dev.to/gabrilator/what-you-can-learn-from-the-tennis-goats-as-a-freelancer-5fd2)
 - [Lifehacker] [10 Podcasts to Help You Find Your Next Favorite Book](https://lifehacker.com/10-podcasts-to-help-you-find-your-next-favorite-book-1848996337)
-- [Dev.to/JS] [https://healthtipforyou.com/defense-bracelet/](https://dev.to/defensebracelet/httpshealthtipforyoucomdefense-bracelet-545m)
-- [Dev.to/JS] [Please remove that console.log](https://dev.to/jmau111/please-remove-that-consolelog-mi5)
-- [Dev.to/JS] [Day-98 Training At Ryaz](https://dev.to/mahin651/day-98-training-at-ryaz-51nk)
 - [Lifehacker] [Everything You Should Do Right Now to Prepare for a Hurricane](https://lifehacker.com/everything-you-should-do-right-now-to-prepare-for-a-hur-1848995841)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2022](https://lifehacker.com/whats-new-on-paramount-in-june-2022-1848995617)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If the Police Hand You a Search Warrant](https://lifehacker.com/what-to-do-and-not-do-if-the-police-hand-you-a-search-1848995409)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
-- [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
-- [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
-- [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
