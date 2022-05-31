@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Asynchronous Programming in javascript&lpar;Callbacks&rpar;](https://dev.to/digomic/asynchronous-programming-in-javascriptcallbacks-2kkm)
+- [Lifehacker] [Everything You Should Do Right Now to Prepare for a Hurricane](https://lifehacker.com/everything-you-should-do-right-now-to-prepare-for-a-hur-1848995841)
+- [Dev.to/JS] [How web browsers work - the render tree + reflow &amp; paint &lpar;part 7, with illustrations&rpar; 👁‍🗨☑️](https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-reflow-paint-part-7-with-illustrations-2o5)
+- [Dev.to/JS] [How to Customize your Medusa Server and Next.js Storefront to Add Product Reviews](https://dev.to/medusajs/how-to-customize-your-medusa-server-and-nextjs-storefront-to-add-product-reviews-j8c)
+- [Lifehacker] [What&#39;s New on Paramount+ in June 2022](https://lifehacker.com/whats-new-on-paramount-in-june-2022-1848995617)
+- [Dev.to/JS] [Learn How New Tech Stacks and Developing Methods Help Taxi Businesses to Provide Seamless Service](https://dev.to/cudojohn/learn-how-new-tech-stacks-and-developing-methods-help-taxi-businesses-to-provide-seamless-service-217o)
+- [Dev.to/JS] [Typescript Generics explained easily](https://dev.to/thatanjan/typescript-generics-explained-easily-113a)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If the Police Hand You a Search Warrant](https://lifehacker.com/what-to-do-and-not-do-if-the-police-hand-you-a-search-1848995409)
 - [Dev.to/JS] [Cleaner More Accessible Code With HTML](https://dev.to/steady5063/cleaner-more-accessible-code-with-html-1ghd)
 - [Dev.to/JS] [Design pattern &lpar;I&rpar;](https://dev.to/isoscar/design-pattern-i-4f31)
@@ -36,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Modern React Chrome Extension with a New Framework](https://dev.to/stayfun_/building-a-modern-react-chrome-extension-with-a-new-framework-4ho1)
 - [Lifehacker] [The Difference Between Mat and Reformer Pilates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-mat-and-reformer-pilates-and-wh-1848992167)
 - [Dev.to/JS] [How did Javascript click for you?](https://dev.to/glowreeyah/how-did-javascript-click-for-you-23n)
-- [Dev.to/JS] [208. Implement Trie &lpar;Prefix Tree&rpar; 🚀](https://dev.to/samuelhinchliffe/208-implement-trie-prefix-tree-4k4m)
-- [Dev.to/JS] [Koa Js : Part 3 - Connect a NoSQL database to your Koa server](https://dev.to/kachiic/koa-js-part-3-connect-a-nosql-database-to-your-koa-server-2nl5)
-- [Dev.to/JS] [5 Basic Tips for Angular Unit Testing](https://dev.to/braydoncoyer/5-basic-tips-for-angular-unit-testing-38b3)
-- [Dev.to/JS] [Full React Course - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://dev.to/wenura/full-react-course-learn-fundamentals-hooks-context-api-react-router-custom-hooks-30m4)
 - [Lifehacker] [The 7 Deadly Sins of Friendship](https://lifehacker.com/the-7-deadly-sins-of-friendship-1848988469)
-- [Dev.to/JS] [How To Find and Fix Ajax Errors using the Network Tab](https://dev.to/emmykolic/how-to-find-and-fix-ajax-errors-using-the-network-tab-49np)
 - [Lifehacker] [What to Watch on Netflix in June](https://lifehacker.com/what-to-watch-on-netflix-in-june-1848987601)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
 - [Lifehacker] [When to See the Full Strawberry Supermoon in June](https://lifehacker.com/when-to-see-the-full-strawberry-supermoon-in-june-1848987372)
 - [Lifehacker] [Why You Shouldn’t Wait to Sell Your Used Car](https://lifehacker.com/why-you-shouldn-t-wait-to-sell-your-used-car-1848986523)
-- [Lifehacker] [How to Avoid the Seat-Selection Fee on Flights](https://lifehacker.com/how-to-avoid-the-seat-selection-fee-on-flights-1848986404)
-- [Lifehacker] [Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
