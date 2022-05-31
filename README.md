@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Mat and Reformer Pilates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-mat-and-reformer-pilates-and-wh-1848992167)
+- [Dev.to/JS] [How did Javascript click for you?](https://dev.to/glowreeyah/how-did-javascript-click-for-you-23n)
+- [Dev.to/JS] [208. Implement Trie &lpar;Prefix Tree&rpar; 🚀](https://dev.to/samuelhinchliffe/208-implement-trie-prefix-tree-4k4m)
+- [Dev.to/JS] [Koa Js : Part 3 - Connect a NoSQL database to your Koa server](https://dev.to/kachiic/koa-js-part-3-connect-a-nosql-database-to-your-koa-server-2nl5)
+- [Dev.to/JS] [5 Basic Tips for Angular Unit Testing](https://dev.to/braydoncoyer/5-basic-tips-for-angular-unit-testing-38b3)
 - [Dev.to/JS] [Full React Course - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://dev.to/wenura/full-react-course-learn-fundamentals-hooks-context-api-react-router-custom-hooks-30m4)
 - [Lifehacker] [The 7 Deadly Sins of Friendship](https://lifehacker.com/the-7-deadly-sins-of-friendship-1848988469)
 - [Dev.to/JS] [How To Find and Fix Ajax Errors using the Network Tab](https://dev.to/emmykolic/how-to-find-and-fix-ajax-errors-using-the-network-tab-49np)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Continuous integration for a CPaaS for voice, video &amp; messaging](https://dev.to/imaximova/continuous-integration-for-a-cpaas-for-voice-video-messaging-1l7b)
 - [Dev.to/JS] [Create a Real-Time Food Ordering Notification Service in Vue.js](https://dev.to/hackmamba/create-a-real-time-food-ordering-notification-service-in-vuejs-1909)
 - [Dev.to/JS] [React Router - Query Parameters](https://dev.to/kibetamos/react-router-query-parameters-518e)
-- [Dev.to/JS] [Create massive random data using faker.js](https://dev.to/shreyvijayvargiya/create-massive-random-data-using-fakerjs-2jci)
-- [Dev.to/JS] [Broke hand](https://dev.to/optimisedu/broke-hand-1pi6)
-- [Dev.to/JS] [How implement firebase authentication persistence across two web apps?](https://dev.to/bohdan/how-implement-firebase-authentication-persistence-across-two-web-apps-2bpp)
-- [Dev.to/JS] [NestJS: Controllers](https://dev.to/ilyary/nestjs-controllers-5ap8)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Games You Can Beat in an Afternoon &lpar;and 3 You Can Tackle in a Weekend&rpar;](https://lifehacker.com/9-games-you-can-beat-in-an-afternoon-and-3-you-can-tac-1848939148)
 - [Lifehacker] [The Hidden iPhone Calculator Tips You Should Be Using](https://lifehacker.com/the-hidden-iphone-calculator-tips-you-should-be-using-1848985678)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is Halsey an Industry Plant?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-halsey-1848984854)
-- [Lifehacker] [Can You Actually Fix Your Tech By Smacking It?](https://lifehacker.com/can-you-actually-fix-your-tech-by-smacking-it-1848983083)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
