@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do &lpar;and Not Do&rpar; If the Police Hand You a Search Warrant](https://lifehacker.com/what-to-do-and-not-do-if-the-police-hand-you-a-search-1848995409)
+- [Dev.to/JS] [Cleaner More Accessible Code With HTML](https://dev.to/steady5063/cleaner-more-accessible-code-with-html-1ghd)
+- [Dev.to/JS] [Design pattern &lpar;I&rpar;](https://dev.to/isoscar/design-pattern-i-4f31)
+- [Lifehacker] [All the Ways You Should Be Using Witch Hazel but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-witch-hazel-but-aren-t-1848982938)
 - [Lifehacker] [How to Fix Kirby 64&#39;s Game-Breaking Bug](https://lifehacker.com/how-to-fix-kirby-64s-game-breaking-bug-1848995216)
 - [Lifehacker] [Change These uBlock Origin Settings for Even More Privacy](https://lifehacker.com/change-these-ublock-origin-settings-for-even-more-priva-1848995058)
 - [Dev.to/JS] [Paracetamol.js💊| #129: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-129-explica-este-codigo-javascript-4od5)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Friendship](https://lifehacker.com/the-7-deadly-sins-of-friendship-1848988469)
 - [Dev.to/JS] [How To Find and Fix Ajax Errors using the Network Tab](https://dev.to/emmykolic/how-to-find-and-fix-ajax-errors-using-the-network-tab-49np)
 - [Lifehacker] [What to Watch on Netflix in June](https://lifehacker.com/what-to-watch-on-netflix-in-june-1848987601)
-- [Dev.to/JS] [Fast web applications using Astro](https://dev.to/asayerio_techblog/fast-web-applications-using-astro-3mdk)
-- [Dev.to/JS] [This Week I Learned - 2022 #Week 22](https://dev.to/arnaudmanaranche/this-week-i-learned-2022-week-22-3oac)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn’t Wait to Sell Your Used Car](https://lifehacker.com/why-you-shouldn-t-wait-to-sell-your-used-car-1848986523)
 - [Lifehacker] [How to Avoid the Seat-Selection Fee on Flights](https://lifehacker.com/how-to-avoid-the-seat-selection-fee-on-flights-1848986404)
 - [Lifehacker] [Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
-- [Lifehacker] [Why Your Pixel’s 4x Zoom Doesn&#39;t Work When You Shoot Video &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-pixel-s-4x-zoom-doesnt-work-when-you-shoot-vid-1848986470)
-- [Lifehacker] [10 More &#39;80s Masterpieces That Deserve Sequels](https://lifehacker.com/10-more-80s-masterpieces-that-deserve-sequels-1848979835)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
