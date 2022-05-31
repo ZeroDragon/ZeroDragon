@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web3 Solidity + JavaScript 32 hour course recap #3](https://dev.to/detwiler_amy/web3-solidity-javascript-32-hour-course-recap-3-5ejk)
 - [Dev.to/JS] [Build a React Timer Application with useRef](https://dev.to/asayerio_techblog/build-a-react-timer-application-with-useref-j2o)
 - [Dev.to/JS] [Javascript reduce method explained!](https://dev.to/talenttinaapi/javascript-reduce-method-explained-331j)
 - [Dev.to/JS] [JavaScript LeetCode Valid Anagram](https://dev.to/diballesteros/javascript-leetcode-valid-anagram-2001)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing IRIS Integrations with .NET or Java using PEX](https://dev.to/intersystems/implementing-iris-integrations-with-net-or-java-using-pex-2c32)
 - [Dev.to/JS] [Learn this before jumping into React](https://dev.to/gabrielpedroza/learn-this-before-jumping-into-react-with-quiz-3k64)
 - [Dev.to/JS] [Setup Tailwind CSS in a React project configured from scratch with Webpack | a step-by-step guide](https://dev.to/yvad60/setup-tailwind-css-in-a-react-project-configured-from-scratch-a-step-by-step-guide-2jc8)
-- [Dev.to/JS] [How To Watch Porn Safely](https://dev.to/pagalworldsong/how-to-watch-porn-safely-3pi7)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
