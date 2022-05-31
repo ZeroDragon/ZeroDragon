@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Join Your Local Garden Club](https://lifehacker.com/why-you-should-join-your-local-garden-club-1848995994)
+- [Dev.to/JS] [What you can learn from the tennis GOATS as a freelancer](https://dev.to/gabrilator/what-you-can-learn-from-the-tennis-goats-as-a-freelancer-5fd2)
+- [Lifehacker] [10 Podcasts to Help You Find Your Next Favorite Book](https://lifehacker.com/10-podcasts-to-help-you-find-your-next-favorite-book-1848996337)
+- [Dev.to/JS] [https://healthtipforyou.com/defense-bracelet/](https://dev.to/defensebracelet/httpshealthtipforyoucomdefense-bracelet-545m)
+- [Dev.to/JS] [Please remove that console.log](https://dev.to/jmau111/please-remove-that-consolelog-mi5)
+- [Dev.to/JS] [Day-98 Training At Ryaz](https://dev.to/mahin651/day-98-training-at-ryaz-51nk)
 - [Dev.to/JS] [Asynchronous Programming in javascript&lpar;Callbacks&rpar;](https://dev.to/digomic/asynchronous-programming-in-javascriptcallbacks-2kkm)
 - [Lifehacker] [Everything You Should Do Right Now to Prepare for a Hurricane](https://lifehacker.com/everything-you-should-do-right-now-to-prepare-for-a-hur-1848995841)
 - [Dev.to/JS] [How web browsers work - the render tree + reflow &amp; paint &lpar;part 7, with illustrations&rpar; 👁‍🗨☑️](https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-reflow-paint-part-7-with-illustrations-2o5)
@@ -37,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix Kirby 64&#39;s Game-Breaking Bug](https://lifehacker.com/how-to-fix-kirby-64s-game-breaking-bug-1848995216)
 - [Lifehacker] [Change These uBlock Origin Settings for Even More Privacy](https://lifehacker.com/change-these-ublock-origin-settings-for-even-more-priva-1848995058)
 - [Dev.to/JS] [Paracetamol.js💊| #129: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-129-explica-este-codigo-javascript-4od5)
-- [Dev.to/JS] [Javascript: Sum diagonal and counter diagonal elements of n * n matrix](https://dev.to/nsijwali/javascript-sum-diagonal-and-counter-diagonal-elements-of-n-n-matrix-ghc)
-- [Dev.to/JS] [The first version of Flappy Bird](https://dev.to/gracehuynh/the-first-version-of-flappy-bird-4k7o)
 - [Lifehacker] [Use the Google App to Make Your iPhone Work More Like an Android](https://lifehacker.com/use-the-google-app-to-make-your-iphone-work-more-like-a-1848994627)
-- [Dev.to/JS] [Building a Modern React Chrome Extension with a New Framework](https://dev.to/stayfun_/building-a-modern-react-chrome-extension-with-a-new-framework-4ho1)
 - [Lifehacker] [The Difference Between Mat and Reformer Pilates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-mat-and-reformer-pilates-and-wh-1848992167)
-- [Dev.to/JS] [How did Javascript click for you?](https://dev.to/glowreeyah/how-did-javascript-click-for-you-23n)
 - [Lifehacker] [The 7 Deadly Sins of Friendship](https://lifehacker.com/the-7-deadly-sins-of-friendship-1848988469)
 - [Lifehacker] [What to Watch on Netflix in June](https://lifehacker.com/what-to-watch-on-netflix-in-june-1848987601)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
-- [Lifehacker] [When to See the Full Strawberry Supermoon in June](https://lifehacker.com/when-to-see-the-full-strawberry-supermoon-in-june-1848987372)
-- [Lifehacker] [Why You Shouldn’t Wait to Sell Your Used Car](https://lifehacker.com/why-you-shouldn-t-wait-to-sell-your-used-car-1848986523)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
