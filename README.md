@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Continuous integration for a CPaaS for voice, video &amp; messaging](https://dev.to/imaximova/continuous-integration-for-a-cpaas-for-voice-video-messaging-1l7b)
+- [Dev.to/JS] [Create a Real-Time Food Ordering Notification Service in Vue.js](https://dev.to/hackmamba/create-a-real-time-food-ordering-notification-service-in-vuejs-1909)
 - [Dev.to/JS] [React Router - Query Parameters](https://dev.to/kibetamos/react-router-query-parameters-518e)
 - [Dev.to/JS] [Create massive random data using faker.js](https://dev.to/shreyvijayvargiya/create-massive-random-data-using-fakerjs-2jci)
 - [Dev.to/JS] [Broke hand](https://dev.to/optimisedu/broke-hand-1pi6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JS Date-Time libraries you should use instead of traditional methods 😋](https://dev.to/gulshanaggarwal/js-date-time-libraries-you-should-use-instead-of-traditional-methods-1lc4)
 - [Dev.to/JS] [React client error](https://dev.to/manojap/react-client-error-5821)
 - [Dev.to/JS] [Client-side Web Storage APIs](https://dev.to/manismk/client-side-web-storage-apis-642)
-- [Dev.to/JS] [How to submit an HTML form without reloading the page](https://dev.to/vadimfilimonov/how-to-submit-an-html-form-without-reloading-the-page-2lgi)
-- [Dev.to/JS] [What is the Hyperverse from a Developer POV?](https://dev.to/shaincodes/what-is-the-hyperverse-from-a-developer-pov-5a9b)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
