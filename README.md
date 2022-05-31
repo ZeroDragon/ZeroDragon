@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Tips for Writing an SEO Friendly Blog Post - Zarar Blogger](https://dev.to/zararblogger/7-tips-for-writing-an-seo-friendly-blog-post-zarar-blogger-3f95)
+- [Dev.to/JS] [JS Date-Time libraries you should use instead of traditional methods 😋](https://dev.to/gulshanaggarwal/js-date-time-libraries-you-should-use-instead-of-traditional-methods-1lc4)
 - [Dev.to/JS] [React client error](https://dev.to/manojap/react-client-error-5821)
 - [Dev.to/JS] [Client-side Web Storage APIs](https://dev.to/manismk/client-side-web-storage-apis-642)
 - [Dev.to/JS] [How to submit an HTML form without reloading the page](https://dev.to/vadimfilimonov/how-to-submit-an-html-form-without-reloading-the-page-2lgi)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web3 Solidity + JavaScript 32 hour course recap #3](https://dev.to/detwiler_amy/web3-solidity-javascript-32-hour-course-recap-3-5ejk)
 - [Dev.to/JS] [Build a React Timer Application with useRef](https://dev.to/asayerio_techblog/build-a-react-timer-application-with-useref-j2o)
 - [Dev.to/JS] [Javascript reduce method explained!](https://dev.to/talenttinaapi/javascript-reduce-method-explained-331j)
-- [Dev.to/JS] [JavaScript LeetCode Valid Anagram](https://dev.to/diballesteros/javascript-leetcode-valid-anagram-2001)
-- [Dev.to/JS] [Facial recognition + good faces bot = best faces 🏆](https://dev.to/bryce/facial-recognition-good-faces-bot-best-faces-5ae1)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
