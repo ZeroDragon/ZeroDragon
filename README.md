@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [VRBO&#39;s 2022 Vacation Homes of the Year &lpar;and How Much They Cost&rpar;](https://lifehacker.com/vrbos-2022-vacation-homes-of-the-year-and-how-much-the-1848995648)
+- [Dev.to/JS] [Imagine Dat Podcast: Episode 1](https://dev.to/imagine_dat_dyt/imagine-dat-podcast-episode-1-241b)
+- [Dev.to/JS] [by developer, for developers](https://dev.to/mohamedation/by-developer-for-developers-45gg)
 - [Lifehacker] [Why You Should Join Your Local Garden Club](https://lifehacker.com/why-you-should-join-your-local-garden-club-1848995994)
 - [Dev.to/JS] [What you can learn from the tennis GOATS as a freelancer](https://dev.to/gabrilator/what-you-can-learn-from-the-tennis-goats-as-a-freelancer-5fd2)
 - [Lifehacker] [10 Podcasts to Help You Find Your Next Favorite Book](https://lifehacker.com/10-podcasts-to-help-you-find-your-next-favorite-book-1848996337)
@@ -38,11 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript Generics explained easily](https://dev.to/thatanjan/typescript-generics-explained-easily-113a)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If the Police Hand You a Search Warrant](https://lifehacker.com/what-to-do-and-not-do-if-the-police-hand-you-a-search-1848995409)
 - [Dev.to/JS] [Cleaner More Accessible Code With HTML](https://dev.to/steady5063/cleaner-more-accessible-code-with-html-1ghd)
-- [Dev.to/JS] [Design pattern &lpar;I&rpar;](https://dev.to/isoscar/design-pattern-i-4f31)
 - [Lifehacker] [All the Ways You Should Be Using Witch Hazel but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-witch-hazel-but-aren-t-1848982938)
 - [Lifehacker] [How to Fix Kirby 64&#39;s Game-Breaking Bug](https://lifehacker.com/how-to-fix-kirby-64s-game-breaking-bug-1848995216)
 - [Lifehacker] [Change These uBlock Origin Settings for Even More Privacy](https://lifehacker.com/change-these-ublock-origin-settings-for-even-more-priva-1848995058)
-- [Dev.to/JS] [Paracetamol.js💊| #129: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-129-explica-este-codigo-javascript-4od5)
 - [Lifehacker] [Use the Google App to Make Your iPhone Work More Like an Android](https://lifehacker.com/use-the-google-app-to-make-your-iphone-work-more-like-a-1848994627)
 - [Lifehacker] [The Difference Between Mat and Reformer Pilates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-mat-and-reformer-pilates-and-wh-1848992167)
 - [Lifehacker] [The 7 Deadly Sins of Friendship](https://lifehacker.com/the-7-deadly-sins-of-friendship-1848988469)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
 - [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
 - [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
-- [Lifehacker] [Don&#39;t Buy Google&#39;s Official Pixel Cases](https://lifehacker.com/dont-buy-googles-official-pixel-cases-1848987227)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
