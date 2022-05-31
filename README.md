@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebPageTest LIVE! Special Edition at 10am PT/5pm UTC on June 1!](https://dev.to/jeenaj/webpagetest-live-special-edition-at-10am-pt5pm-utc-on-june-1-3gin)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
 - [Dev.to/JS] [Manipulating Arrays in JavaScript](https://dev.to/smartduke/manipulating-arrays-in-javascript-17of)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to choose a javascript framework](https://dev.to/lucaspaganini/how-to-choose-a-javascript-framework-5hcf)
 - [Dev.to/JS] [Common React Design patterns: Custom Hooks](https://dev.to/rezab/common-react-design-patterns-custom-hooks-4i9p)
 - [Dev.to/JS] [Node.js Design Patterns and Common Use Cases](https://dev.to/lihemen/nodejs-design-patterns-and-common-use-cases-3a40)
-- [Dev.to/JS] [Dev Discussions: Ryan Carniato of SolidJS on Building “The Tesla of JavaScript UI Frameworks”](https://dev.to/coderpad/dev-discussions-ryan-carniato-of-solidjs-on-building-the-tesla-of-javascript-ui-frameworks-45p4)
 - [Lifehacker] [What&#39;s New on Prime Video in June 2022](https://lifehacker.com/whats-new-on-prime-video-in-june-2022-1848996724)
 - [Lifehacker] [VRBO&#39;s 2022 Vacation Homes of the Year &lpar;and How Much They Cost&rpar;](https://lifehacker.com/vrbos-2022-vacation-homes-of-the-year-and-how-much-the-1848995648)
 - [Lifehacker] [Why You Should Join Your Local Garden Club](https://lifehacker.com/why-you-should-join-your-local-garden-club-1848995994)
