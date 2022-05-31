@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Full React Course - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://dev.to/wenura/full-react-course-learn-fundamentals-hooks-context-api-react-router-custom-hooks-30m4)
+- [Lifehacker] [The 7 Deadly Sins of Friendship](https://lifehacker.com/the-7-deadly-sins-of-friendship-1848988469)
+- [Dev.to/JS] [How To Find and Fix Ajax Errors using the Network Tab](https://dev.to/emmykolic/how-to-find-and-fix-ajax-errors-using-the-network-tab-49np)
+- [Lifehacker] [What to Watch on Netflix in June](https://lifehacker.com/what-to-watch-on-netflix-in-june-1848987601)
+- [Dev.to/JS] [Fast web applications using Astro](https://dev.to/asayerio_techblog/fast-web-applications-using-astro-3mdk)
+- [Dev.to/JS] [This Week I Learned - 2022 #Week 22](https://dev.to/arnaudmanaranche/this-week-i-learned-2022-week-22-3oac)
+- [Dev.to/JS] [First Website](https://dev.to/hycord/first-website-3041)
 - [Dev.to/JS] [Continuous integration for a CPaaS for voice, video &amp; messaging](https://dev.to/imaximova/continuous-integration-for-a-cpaas-for-voice-video-messaging-1l7b)
 - [Dev.to/JS] [Create a Real-Time Food Ordering Notification Service in Vue.js](https://dev.to/hackmamba/create-a-real-time-food-ordering-notification-service-in-vuejs-1909)
 - [Dev.to/JS] [React Router - Query Parameters](https://dev.to/kibetamos/react-router-query-parameters-518e)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Broke hand](https://dev.to/optimisedu/broke-hand-1pi6)
 - [Dev.to/JS] [How implement firebase authentication persistence across two web apps?](https://dev.to/bohdan/how-implement-firebase-authentication-persistence-across-two-web-apps-2bpp)
 - [Dev.to/JS] [NestJS: Controllers](https://dev.to/ilyary/nestjs-controllers-5ap8)
-- [Dev.to/JS] [5 Tools to Boost Your Productivity While Development](https://dev.to/anushka23g/5-tools-to-boost-your-productivity-while-development-2p23)
-- [Dev.to/JS] [7 Tips for Writing an SEO Friendly Blog Post - Zarar Blogger](https://dev.to/zararblogger/7-tips-for-writing-an-seo-friendly-blog-post-zarar-blogger-3f95)
-- [Dev.to/JS] [JS Date-Time libraries you should use instead of traditional methods 😋](https://dev.to/gulshanaggarwal/js-date-time-libraries-you-should-use-instead-of-traditional-methods-1lc4)
-- [Dev.to/JS] [React client error](https://dev.to/manojap/react-client-error-5821)
-- [Dev.to/JS] [Client-side Web Storage APIs](https://dev.to/manismk/client-side-web-storage-apis-642)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Hidden iPhone Calculator Tips You Should Be Using](https://lifehacker.com/the-hidden-iphone-calculator-tips-you-should-be-using-1848985678)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is Halsey an Industry Plant?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-halsey-1848984854)
 - [Lifehacker] [Can You Actually Fix Your Tech By Smacking It?](https://lifehacker.com/can-you-actually-fix-your-tech-by-smacking-it-1848983083)
-- [Lifehacker] [Your &#39;Fresh&#39; Fish Was Probably Frozen, Too](https://lifehacker.com/your-fresh-fish-was-probably-frozen-too-1848983328)
-- [Lifehacker] [What to Do If Someone Starts an Online Rumor About You](https://lifehacker.com/what-to-do-if-someone-starts-an-online-rumor-about-you-1848983104)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
