@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix Kirby 64&#39;s Game-Breaking Bug](https://lifehacker.com/how-to-fix-kirby-64s-game-breaking-bug-1848995216)
+- [Lifehacker] [Change These uBlock Origin Settings for Even More Privacy](https://lifehacker.com/change-these-ublock-origin-settings-for-even-more-priva-1848995058)
+- [Dev.to/JS] [Paracetamol.js💊| #129: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-129-explica-este-codigo-javascript-4od5)
+- [Dev.to/JS] [Javascript: Sum diagonal and counter diagonal elements of n * n matrix](https://dev.to/nsijwali/javascript-sum-diagonal-and-counter-diagonal-elements-of-n-n-matrix-ghc)
+- [Dev.to/JS] [The first version of Flappy Bird](https://dev.to/gracehuynh/the-first-version-of-flappy-bird-4k7o)
+- [Lifehacker] [Use the Google App to Make Your iPhone Work More Like an Android](https://lifehacker.com/use-the-google-app-to-make-your-iphone-work-more-like-a-1848994627)
+- [Dev.to/JS] [Building a Modern React Chrome Extension with a New Framework](https://dev.to/stayfun_/building-a-modern-react-chrome-extension-with-a-new-framework-4ho1)
 - [Lifehacker] [The Difference Between Mat and Reformer Pilates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-mat-and-reformer-pilates-and-wh-1848992167)
 - [Dev.to/JS] [How did Javascript click for you?](https://dev.to/glowreeyah/how-did-javascript-click-for-you-23n)
 - [Dev.to/JS] [208. Implement Trie &lpar;Prefix Tree&rpar; 🚀](https://dev.to/samuelhinchliffe/208-implement-trie-prefix-tree-4k4m)
@@ -34,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Watch on Netflix in June](https://lifehacker.com/what-to-watch-on-netflix-in-june-1848987601)
 - [Dev.to/JS] [Fast web applications using Astro](https://dev.to/asayerio_techblog/fast-web-applications-using-astro-3mdk)
 - [Dev.to/JS] [This Week I Learned - 2022 #Week 22](https://dev.to/arnaudmanaranche/this-week-i-learned-2022-week-22-3oac)
-- [Dev.to/JS] [First Website](https://dev.to/hycord/first-website-3041)
-- [Dev.to/JS] [Continuous integration for a CPaaS for voice, video &amp; messaging](https://dev.to/imaximova/continuous-integration-for-a-cpaas-for-voice-video-messaging-1l7b)
-- [Dev.to/JS] [Create a Real-Time Food Ordering Notification Service in Vue.js](https://dev.to/hackmamba/create-a-real-time-food-ordering-notification-service-in-vuejs-1909)
-- [Dev.to/JS] [React Router - Query Parameters](https://dev.to/kibetamos/react-router-query-parameters-518e)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Spray Your Shoes With Permethrin This Summer](https://lifehacker.com/spray-your-shoes-with-permethrin-this-summer-1848986173)
 - [Lifehacker] [Why Your Pixel’s 4x Zoom Doesn&#39;t Work When You Shoot Video &lpar;and How to Fix It&rpar;](https://lifehacker.com/why-your-pixel-s-4x-zoom-doesnt-work-when-you-shoot-vid-1848986470)
 - [Lifehacker] [10 More &#39;80s Masterpieces That Deserve Sequels](https://lifehacker.com/10-more-80s-masterpieces-that-deserve-sequels-1848979835)
-- [Lifehacker] [9 Games You Can Beat in an Afternoon &lpar;and 3 You Can Tackle in a Weekend&rpar;](https://lifehacker.com/9-games-you-can-beat-in-an-afternoon-and-3-you-can-tac-1848939148)
-- [Lifehacker] [The Hidden iPhone Calculator Tips You Should Be Using](https://lifehacker.com/the-hidden-iphone-calculator-tips-you-should-be-using-1848985678)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Is Halsey an Industry Plant?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-is-halsey-1848984854)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
