@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How implement firebase authentication persistence across two web apps?](https://dev.to/bohdan/how-implement-firebase-authentication-persistence-across-two-web-apps-2bpp)
+- [Dev.to/JS] [NestJS: Controllers](https://dev.to/ilyary/nestjs-controllers-5ap8)
 - [Dev.to/JS] [5 Tools to Boost Your Productivity While Development](https://dev.to/anushka23g/5-tools-to-boost-your-productivity-while-development-2p23)
 - [Dev.to/JS] [7 Tips for Writing an SEO Friendly Blog Post - Zarar Blogger](https://dev.to/zararblogger/7-tips-for-writing-an-seo-friendly-blog-post-zarar-blogger-3f95)
 - [Dev.to/JS] [JS Date-Time libraries you should use instead of traditional methods 😋](https://dev.to/gulshanaggarwal/js-date-time-libraries-you-should-use-instead-of-traditional-methods-1lc4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 137 - Inheritance Tree Too Deep](https://dev.to/mcsee/code-smell-137-inheritance-tree-too-deep-3j5p)
 - [Dev.to/JS] [Speech commander terminal](https://dev.to/dhanush9952/speech-commander-terminal-5d7b)
 - [Dev.to/JS] [Writing and Testing a stdin script with TypeScript](https://dev.to/viglioni/writing-and-testing-a-stdin-script-with-typescript-57mb)
-- [Dev.to/JS] [Web3 Solidity + JavaScript 32 hour course recap #3](https://dev.to/detwiler_amy/web3-solidity-javascript-32-hour-course-recap-3-5ejk)
-- [Dev.to/JS] [Build a React Timer Application with useRef](https://dev.to/asayerio_techblog/build-a-react-timer-application-with-useref-j2o)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
