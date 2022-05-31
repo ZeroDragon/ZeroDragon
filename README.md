@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
+- [Dev.to/JS] [Manipulating Arrays in JavaScript](https://dev.to/smartduke/manipulating-arrays-in-javascript-17of)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
 - [Dev.to/JS] [Why you should consider JavaScript as a general scripting language?](https://dev.to/aclarembeau/why-you-should-consider-javascript-as-a-general-scripting-language-4lk7)
 - [Dev.to/JS] [Framer | Made with React JS](https://dev.to/madewithjavascript/framer-made-with-react-js-11da)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common React Design patterns: Custom Hooks](https://dev.to/rezab/common-react-design-patterns-custom-hooks-4i9p)
 - [Dev.to/JS] [Node.js Design Patterns and Common Use Cases](https://dev.to/lihemen/nodejs-design-patterns-and-common-use-cases-3a40)
 - [Dev.to/JS] [Dev Discussions: Ryan Carniato of SolidJS on Building “The Tesla of JavaScript UI Frameworks”](https://dev.to/coderpad/dev-discussions-ryan-carniato-of-solidjs-on-building-the-tesla-of-javascript-ui-frameworks-45p4)
-- [Dev.to/JS] [I want to learn React](https://dev.to/santimenendez19/i-want-to-learn-react-3o74)
 - [Lifehacker] [What&#39;s New on Prime Video in June 2022](https://lifehacker.com/whats-new-on-prime-video-in-june-2022-1848996724)
 - [Lifehacker] [VRBO&#39;s 2022 Vacation Homes of the Year &lpar;and How Much They Cost&rpar;](https://lifehacker.com/vrbos-2022-vacation-homes-of-the-year-and-how-much-the-1848995648)
 - [Lifehacker] [Why You Should Join Your Local Garden Club](https://lifehacker.com/why-you-should-join-your-local-garden-club-1848995994)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
 - [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
-- [Lifehacker] [How to Get Pet Vomit &lpar;and Its Smell&rpar; Out of Your Carpet](https://lifehacker.com/how-to-get-pet-vomit-and-its-smell-out-of-your-carpet-1848980277)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
