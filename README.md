@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Free Replacement for Your Cloud Cam](https://lifehacker.com/how-to-replace-your-cloud-cam-with-a-free-blink-mini-1848996113)
+- [Dev.to/JS] [#29: Looking Back &lpar;Recap&rpar;](https://dev.to/azure/29-looking-back-recap-49od)
+- [Dev.to/JS] [How to choose a javascript framework](https://dev.to/lucaspaganini/how-to-choose-a-javascript-framework-5hcf)
+- [Dev.to/JS] [Common React Design patterns: Custom Hooks](https://dev.to/rezab/common-react-design-patterns-custom-hooks-4i9p)
+- [Dev.to/JS] [Node.js Design Patterns and Common Use Cases](https://dev.to/lihemen/nodejs-design-patterns-and-common-use-cases-3a40)
+- [Dev.to/JS] [Dev Discussions: Ryan Carniato of SolidJS on Building “The Tesla of JavaScript UI Frameworks”](https://dev.to/coderpad/dev-discussions-ryan-carniato-of-solidjs-on-building-the-tesla-of-javascript-ui-frameworks-45p4)
+- [Dev.to/JS] [I want to learn React](https://dev.to/santimenendez19/i-want-to-learn-react-3o74)
+- [Lifehacker] [What&#39;s New on Prime Video in June 2022](https://lifehacker.com/whats-new-on-prime-video-in-june-2022-1848996724)
 - [Lifehacker] [VRBO&#39;s 2022 Vacation Homes of the Year &lpar;and How Much They Cost&rpar;](https://lifehacker.com/vrbos-2022-vacation-homes-of-the-year-and-how-much-the-1848995648)
 - [Dev.to/JS] [Imagine Dat Podcast: Episode 1](https://dev.to/imagine_dat_dyt/imagine-dat-podcast-episode-1-241b)
 - [Dev.to/JS] [by developer, for developers](https://dev.to/mohamedation/by-developer-for-developers-45gg)
@@ -32,15 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [https://healthtipforyou.com/defense-bracelet/](https://dev.to/defensebracelet/httpshealthtipforyoucomdefense-bracelet-545m)
 - [Dev.to/JS] [Please remove that console.log](https://dev.to/jmau111/please-remove-that-consolelog-mi5)
 - [Dev.to/JS] [Day-98 Training At Ryaz](https://dev.to/mahin651/day-98-training-at-ryaz-51nk)
-- [Dev.to/JS] [Asynchronous Programming in javascript&lpar;Callbacks&rpar;](https://dev.to/digomic/asynchronous-programming-in-javascriptcallbacks-2kkm)
 - [Lifehacker] [Everything You Should Do Right Now to Prepare for a Hurricane](https://lifehacker.com/everything-you-should-do-right-now-to-prepare-for-a-hur-1848995841)
-- [Dev.to/JS] [How web browsers work - the render tree + reflow &amp; paint &lpar;part 7, with illustrations&rpar; 👁‍🗨☑️](https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-reflow-paint-part-7-with-illustrations-2o5)
-- [Dev.to/JS] [How to Customize your Medusa Server and Next.js Storefront to Add Product Reviews](https://dev.to/medusajs/how-to-customize-your-medusa-server-and-nextjs-storefront-to-add-product-reviews-j8c)
 - [Lifehacker] [What&#39;s New on Paramount+ in June 2022](https://lifehacker.com/whats-new-on-paramount-in-june-2022-1848995617)
-- [Dev.to/JS] [Learn How New Tech Stacks and Developing Methods Help Taxi Businesses to Provide Seamless Service](https://dev.to/cudojohn/learn-how-new-tech-stacks-and-developing-methods-help-taxi-businesses-to-provide-seamless-service-217o)
-- [Dev.to/JS] [Typescript Generics explained easily](https://dev.to/thatanjan/typescript-generics-explained-easily-113a)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If the Police Hand You a Search Warrant](https://lifehacker.com/what-to-do-and-not-do-if-the-police-hand-you-a-search-1848995409)
-- [Dev.to/JS] [Cleaner More Accessible Code With HTML](https://dev.to/steady5063/cleaner-more-accessible-code-with-html-1ghd)
 - [Lifehacker] [All the Ways You Should Be Using Witch Hazel but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-witch-hazel-but-aren-t-1848982938)
 - [Lifehacker] [How to Fix Kirby 64&#39;s Game-Breaking Bug](https://lifehacker.com/how-to-fix-kirby-64s-game-breaking-bug-1848995216)
 - [Lifehacker] [Change These uBlock Origin Settings for Even More Privacy](https://lifehacker.com/change-these-ublock-origin-settings-for-even-more-priva-1848995058)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Gardening From Ruining Your Hands](https://lifehacker.com/how-to-keep-gardening-from-ruining-your-hands-1848976829)
 - [Lifehacker] [You Should Know How to Hang a Hammock](https://lifehacker.com/you-should-know-how-to-hang-a-hammock-1848976818)
 - [Lifehacker] [The Difference Between &#39;Rain&#39; and &#39;Showers&#39; in Your Weather Forecast](https://lifehacker.com/the-difference-between-rain-and-showers-in-your-weather-1848976806)
-- [Lifehacker] [These Airlines Still Let You Change Your Flight for Free](https://lifehacker.com/these-airlines-still-let-you-change-your-flight-for-fre-1848987886)
-- [Lifehacker] [You&#39;re Still Not &#39;Too Old&#39; to Do What You Want](https://lifehacker.com/stop-thinking-youre-too-old-to-do-what-you-want-to-do-1848987700)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
