@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to submit an HTML form without reloading the page](https://dev.to/vadimfilimonov/how-to-submit-an-html-form-without-reloading-the-page-2lgi)
+- [Dev.to/JS] [What is the Hyperverse from a Developer POV?](https://dev.to/shaincodes/what-is-the-hyperverse-from-a-developer-pov-5a9b)
 - [Dev.to/JS] [Code Smell 137 - Inheritance Tree Too Deep](https://dev.to/mcsee/code-smell-137-inheritance-tree-too-deep-3j5p)
 - [Dev.to/JS] [Speech commander terminal](https://dev.to/dhanush9952/speech-commander-terminal-5d7b)
 - [Dev.to/JS] [Writing and Testing a stdin script with TypeScript](https://dev.to/viglioni/writing-and-testing-a-stdin-script-with-typescript-57mb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Facial recognition + good faces bot = best faces 🏆](https://dev.to/bryce/facial-recognition-good-faces-bot-best-faces-5ae1)
 - [Dev.to/JS] [Nested Routes- React Router](https://dev.to/kibetamos/nested-routes-react-router-2m54)
 - [Dev.to/JS] [Autocomplete with fuzzy search and Fuse.js](https://dev.to/lucaspaganini/autocomplete-with-fuzzy-search-and-fusejs-3pj9)
-- [Dev.to/JS] [Buscar e armazenar valores do HTML em JavaScript](https://dev.to/boldodev_/buscar-e-armazenar-valores-do-html-em-javascript-34c3)
-- [Dev.to/JS] [Optimizations in React Part 2](https://dev.to/vithano/optimizations-in-react-2-242k)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
