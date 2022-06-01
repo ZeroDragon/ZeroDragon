@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 of the Best Movies and TV Shows Available to Stream in June 2022](https://lifehacker.com/12-of-the-best-movies-and-tv-shows-available-to-stream-1848996215)
 - [Lifehacker] [The &#39;Three T’s&#39; that Build Your Baby&#39;s Brain, According to a Pediatric Surgeon](https://lifehacker.com/the-three-t-s-that-build-your-babys-brain-according-to-1849000872)
 - [Dev.to/JS] [Day-99 Training At Ryaz](https://dev.to/mahin651/day-99-training-at-ryaz-50ea)
 - [Dev.to/JS] [What is Time Compression &lpar;Time Warp&rpar; in Virtual Reality?](https://dev.to/babatunde/what-is-time-compression-time-warp-in-virtual-reality-40k2)
@@ -40,9 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Personal Habit Tracker App with Custom DB Queries in Strapi](https://dev.to/strapi/building-a-personal-habit-tracker-app-with-custom-db-queries-in-strapi-48g3)
 - [Lifehacker] [Do Not Eat Any of These Products That Contain Peanut Butter, FDA Says](https://lifehacker.com/do-not-eat-any-of-these-products-that-contain-peanut-bu-1849000220)
 - [Lifehacker] [How to Finally Cut, Copy, and Paste Files in Google Drive](https://lifehacker.com/how-to-finally-cut-copy-and-paste-files-in-google-dri-1849000671)
-- [Dev.to/JS] [init&lpar;&rpar;](https://dev.to/jmacapagal90/my-first-blog-post-53o7)
 - [Dev.to/JS] [Data Analytics Training in Gurgaon | Data Analytics Course in Gurgaon](https://dev.to/sanasin04984541/data-analytics-training-in-gurgaon-data-analytics-course-in-gurgaon-5cmg)
 - [Lifehacker] [11 Animal Species That Prove Being Gay Is Natural](https://lifehacker.com/11-animal-species-that-prove-being-gay-is-natural-1848997897)
+- [Dev.to/JS] [Is web scraping legal?](https://dev.to/ariansohrabi/is-web-scraping-legal-2mfd)
 - [Lifehacker] [Three of the Best Ways to Improve Your Credit Score](https://lifehacker.com/three-of-the-best-ways-to-improve-your-credit-score-1848996415)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Should Be Using Witch Hazel but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-witch-hazel-but-aren-t-1848982938)
 - [Lifehacker] [How to Fix Kirby 64&#39;s Game-Breaking Bug](https://lifehacker.com/how-to-fix-kirby-64s-game-breaking-bug-1848995216)
 - [Lifehacker] [Change These uBlock Origin Settings for Even More Privacy](https://lifehacker.com/change-these-ublock-origin-settings-for-even-more-priva-1848995058)
-- [Lifehacker] [Use the Google App to Make Your iPhone Work More Like an Android](https://lifehacker.com/use-the-google-app-to-make-your-iphone-work-more-like-a-1848994627)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
