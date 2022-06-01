@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How web browsers work - the render tree &lpar;part 7, with illustrations&rpar;💻 ⏳](https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-part-7-with-illustrations-24h3)
+- [Dev.to/JS] [Simple accordion in vanilla JavaScript](https://dev.to/vadimfilimonov/simple-accordion-in-vanilla-javascript-5d2m)
 - [Dev.to/JS] [Send Files to IPFS using Pinata API in ReactJS](https://dev.to/fidalmathew/send-files-to-ipfs-using-pinata-api-in-reactjs-3c3)
 - [Dev.to/JS] [25 React component libraries you just might need for your next project!](https://dev.to/asheeshh/25-react-component-libraries-you-just-might-need-for-your-next-project-3610)
 - [Dev.to/JS] [SMS Notifications On Pageviews with Segment and JavaScript](https://dev.to/lizziepika/sms-notifications-on-pageviews-with-segment-and-javascript-1igd)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build on FLOW | Learn FCL - 4. How to Resolve .find Identity Name to an Address](https://dev.to/onflow/build-on-flow-learn-fcl-4-how-to-resolve-find-identity-name-to-an-address-2po0)
 - [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
 - [Dev.to/JS] [How to modularize your monolith frontend](https://dev.to/richkurtzman/how-to-modularize-your-monolith-frontend-48b5)
-- [Dev.to/JS] [Getting Started with Remix: Firebase Email &amp; Google Authentication](https://dev.to/aaronksaunders/getting-started-with-remix-firebase-email-google-authentication-40mh)
-- [Dev.to/JS] [Arrays are major key](https://dev.to/immabefamous/arrays-are-major-key-igm)
 - [Lifehacker] [Should You Install Windows 10 LTSC?](https://lifehacker.com/should-you-install-windows-10-ltsc-1848997569)
 - [Lifehacker] [You Can Get a Free Replacement for Your Cloud Cam](https://lifehacker.com/how-to-replace-your-cloud-cam-with-a-free-blink-mini-1848996113)
 - [Lifehacker] [What&#39;s New on Prime Video in June 2022](https://lifehacker.com/whats-new-on-prime-video-in-june-2022-1848996724)
