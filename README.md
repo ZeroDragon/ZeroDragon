@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Send Files to IPFS using Pinata API in ReactJS](https://dev.to/fidalmathew/send-files-to-ipfs-using-pinata-api-in-reactjs-3c3)
 - [Dev.to/JS] [25 React component libraries you just might need for your next project!](https://dev.to/asheeshh/25-react-component-libraries-you-just-might-need-for-your-next-project-3610)
 - [Dev.to/JS] [SMS Notifications On Pageviews with Segment and JavaScript](https://dev.to/lizziepika/sms-notifications-on-pageviews-with-segment-and-javascript-1igd)
 - [Dev.to/JS] [Learn MERN like a pro](https://dev.to/foyzulkarim/learn-mern-like-a-pro-4hf)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Arrays are major key](https://dev.to/immabefamous/arrays-are-major-key-igm)
 - [Lifehacker] [Should You Install Windows 10 LTSC?](https://lifehacker.com/should-you-install-windows-10-ltsc-1848997569)
 - [Lifehacker] [You Can Get a Free Replacement for Your Cloud Cam](https://lifehacker.com/how-to-replace-your-cloud-cam-with-a-free-blink-mini-1848996113)
-- [Dev.to/JS] [#29: Looking Back &lpar;Recap&rpar;](https://dev.to/azure/29-looking-back-recap-49od)
 - [Lifehacker] [What&#39;s New on Prime Video in June 2022](https://lifehacker.com/whats-new-on-prime-video-in-june-2022-1848996724)
 - [Lifehacker] [VRBO&#39;s 2022 Vacation Homes of the Year &lpar;and How Much They Cost&rpar;](https://lifehacker.com/vrbos-2022-vacation-homes-of-the-year-and-how-much-the-1848995648)
 - [Lifehacker] [Why You Should Join Your Local Garden Club](https://lifehacker.com/why-you-should-join-your-local-garden-club-1848995994)
