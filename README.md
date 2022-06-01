@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Defer vs Async Attributes](https://dev.to/shemjay/defer-vs-async-attributes-4p2k)
+- [Dev.to/JS] [Dark Mode on! Learn to integrate Awareness Kit &lpar;Dark Mode&rpar; in a Travel Application in React Native](https://dev.to/hmscommunity/dark-mode-on-learn-to-integrate-awareness-kit-dark-mode-in-a-travel-application-in-react-native-30ao)
 - [Dev.to/JS] [I made React with a faster Virtual DOM](https://dev.to/aidenybai/i-made-react-with-a-faster-virtual-dom-37hd)
 - [Dev.to/JS] [5 Programming Languages That Will Revolutionize The World](https://dev.to/metamark/5-programming-languages-that-will-revolutionize-the-world-5elo)
 - [Dev.to/JS] [How web browsers work - the render tree &lpar;part 7, with illustrations&rpar;💻 ⏳](https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-part-7-with-illustrations-24h3)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn MERN like a pro](https://dev.to/foyzulkarim/learn-mern-like-a-pro-4hf)
 - [Dev.to/JS] [WebPageTest LIVE! Special Edition at 10am PT/5pm UTC on June 1!](https://dev.to/jeenaj/webpagetest-live-special-edition-at-10am-pt5pm-utc-on-june-1-3gin)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
-- [Dev.to/JS] [Manipulating Arrays in JavaScript](https://dev.to/smartduke/manipulating-arrays-in-javascript-17of)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
-- [Dev.to/JS] [Why you should consider JavaScript as a general scripting language?](https://dev.to/aclarembeau/why-you-should-consider-javascript-as-a-general-scripting-language-4lk7)
 - [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
 - [Lifehacker] [Should You Install Windows 10 LTSC?](https://lifehacker.com/should-you-install-windows-10-ltsc-1848997569)
 - [Lifehacker] [You Can Get a Free Replacement for Your Cloud Cam](https://lifehacker.com/how-to-replace-your-cloud-cam-with-a-free-blink-mini-1848996113)
