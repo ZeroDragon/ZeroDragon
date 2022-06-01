@@ -23,9 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The &#39;Three T’s&#39; that Build Your Baby&#39;s Brain, According to a Pediatric Surgeon](https://lifehacker.com/the-three-t-s-that-build-your-babys-brain-according-to-1849000872)
+- [Dev.to/JS] [Day-99 Training At Ryaz](https://dev.to/mahin651/day-99-training-at-ryaz-50ea)
+- [Dev.to/JS] [What is Time Compression &lpar;Time Warp&rpar; in Virtual Reality?](https://dev.to/babatunde/what-is-time-compression-time-warp-in-virtual-reality-40k2)
+- [Lifehacker] [Why You Shouldn&#39;t Store Your Avocados in Water After All](https://lifehacker.com/why-you-shouldnt-store-your-avocados-in-water-after-all-1849001266)
+- [Lifehacker] [How to Watch Apple&#39;s WWDC 2022](https://lifehacker.com/how-to-watch-apples-wwdc-2022-1849001407)
 - [Dev.to/JS] [How to work effectively with strings in JS!](https://dev.to/kai_wenzel/how-to-work-effectively-with-strings-in-js-25ko)
 - [Dev.to/JS] [Closure, A Confused topic](https://dev.to/sushantagupta007/closurea-confused-topic-396k)
-- [Dev.to/JS] [Migrating to Cypress 10](https://dev.to/jordanpowell88/migrating-to-cypress-10-2gbe)
+- [Dev.to/JS] [Migrating to Cypress 10](https://dev.to/cypress/migrating-to-cypress-10-2gbe)
 - [Lifehacker] [Always Do This Before Letting Someone Borrow Your Phone](https://lifehacker.com/always-do-this-before-letting-someone-borrow-your-phone-1849000861)
 - [Dev.to/JS] [JavaScript: Declaring Multiple Variables 📦📦📦](https://dev.to/richclarke0/javascript-declaring-multiple-variables-3m2d)
 - [Dev.to/JS] [AnotherPomodoro 1.2: export settings and non-strict timers](https://dev.to/hanziness/anotherpomodoro-12-export-settings-and-non-strict-timers-3l5o)
@@ -38,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [init&lpar;&rpar;](https://dev.to/jmacapagal90/my-first-blog-post-53o7)
 - [Dev.to/JS] [Data Analytics Training in Gurgaon | Data Analytics Course in Gurgaon](https://dev.to/sanasin04984541/data-analytics-training-in-gurgaon-data-analytics-course-in-gurgaon-5cmg)
 - [Lifehacker] [11 Animal Species That Prove Being Gay Is Natural](https://lifehacker.com/11-animal-species-that-prove-being-gay-is-natural-1848997897)
-- [Dev.to/JS] [Is web scraping legal?](https://dev.to/ariansohrabi/is-web-scraping-legal-2mfd)
-- [Dev.to/JS] [JS LexicalEnvironment - short overview](https://dev.to/ilyary/js-lexicalenvironment-short-overview-3b4k)
 - [Lifehacker] [Three of the Best Ways to Improve Your Credit Score](https://lifehacker.com/three-of-the-best-ways-to-improve-your-credit-score-1848996415)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix Kirby 64&#39;s Game-Breaking Bug](https://lifehacker.com/how-to-fix-kirby-64s-game-breaking-bug-1848995216)
 - [Lifehacker] [Change These uBlock Origin Settings for Even More Privacy](https://lifehacker.com/change-these-ublock-origin-settings-for-even-more-priva-1848995058)
 - [Lifehacker] [Use the Google App to Make Your iPhone Work More Like an Android](https://lifehacker.com/use-the-google-app-to-make-your-iphone-work-more-like-a-1848994627)
-- [Lifehacker] [The Difference Between Mat and Reformer Pilates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-difference-between-mat-and-reformer-pilates-and-wh-1848992167)
-- [Lifehacker] [The 7 Deadly Sins of Friendship](https://lifehacker.com/the-7-deadly-sins-of-friendship-1848988469)
-- [Lifehacker] [What to Watch on Netflix in June](https://lifehacker.com/what-to-watch-on-netflix-in-june-1848987601)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
