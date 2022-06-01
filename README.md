@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Truketo 2022 United States Reviews: The 100% Super Shield Supplement For Metabolism And Fat Burner](https://dev.to/truketogetnow/truketo-2022-united-states-reviews-the-100-super-shield-supplement-for-metabolism-and-fat-burner-4i0c)
+- [Dev.to/JS] [Best digital Marketing Agency in Tennessee, USA](https://dev.to/greenleafg7942/best-digital-marketing-agency-in-tennessee-usa-4993)
 - [Dev.to/JS] [Defer vs Async Attributes](https://dev.to/shemjay/defer-vs-async-attributes-4p2k)
 - [Dev.to/JS] [Dark Mode on! Learn to integrate Awareness Kit &lpar;Dark Mode&rpar; in a Travel Application in React Native](https://dev.to/hmscommunity/dark-mode-on-learn-to-integrate-awareness-kit-dark-mode-in-a-travel-application-in-react-native-30ao)
 - [Dev.to/JS] [I made React with a faster Virtual DOM](https://dev.to/aidenybai/i-made-react-with-a-faster-virtual-dom-37hd)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Send Files to IPFS using Pinata API in ReactJS](https://dev.to/fidalmathew/send-files-to-ipfs-using-pinata-api-in-reactjs-3c3)
 - [Dev.to/JS] [25 React component libraries you just might need for your next project!](https://dev.to/asheeshh/25-react-component-libraries-you-just-might-need-for-your-next-project-3610)
 - [Dev.to/JS] [SMS Notifications On Pageviews with Segment and JavaScript](https://dev.to/lizziepika/sms-notifications-on-pageviews-with-segment-and-javascript-1igd)
-- [Dev.to/JS] [Learn MERN like a pro](https://dev.to/foyzulkarim/learn-mern-like-a-pro-4hf)
-- [Dev.to/JS] [WebPageTest LIVE! Special Edition at 10am PT/5pm UTC on June 1!](https://dev.to/jeenaj/webpagetest-live-special-edition-at-10am-pt5pm-utc-on-june-1-3gin)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
 - [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
