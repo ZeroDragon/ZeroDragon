@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤖 Just Added Tech Open Positions - Week #23 of 2022](https://dev.to/shman/just-added-tech-open-positions-week-23-of-2022-5f7k)
+- [Dev.to/JS] [Building a Personal Habit Tracker App with Custom DB Queries in Strapi](https://dev.to/strapi/building-a-personal-habit-tracker-app-with-custom-db-queries-in-strapi-48g3)
+- [Lifehacker] [Do Not Eat Any of These Products That Contain Peanut Butter, FDA Says](https://lifehacker.com/do-not-eat-any-of-these-products-that-contain-peanut-bu-1849000220)
+- [Lifehacker] [How to Finally Cut, Copy, and Paste Files in Google Drive](https://lifehacker.com/how-to-finally-cut-copy-and-paste-files-in-google-dri-1849000671)
 - [Dev.to/JS] [init&lpar;&rpar;](https://dev.to/jmacapagal90/my-first-blog-post-53o7)
 - [Dev.to/JS] [Data Analytics Training in Gurgaon | Data Analytics Course in Gurgaon](https://dev.to/sanasin04984541/data-analytics-training-in-gurgaon-data-analytics-course-in-gurgaon-5cmg)
 - [Lifehacker] [11 Animal Species That Prove Being Gay Is Natural](https://lifehacker.com/11-animal-species-that-prove-being-gay-is-natural-1848997897)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #130: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-130-explica-este-codigo-javascript-3oni)
 - [Dev.to/JS] [QR Codes generation with React](https://dev.to/asayerio_techblog/qr-codes-generation-with-react-kib)
 - [Dev.to/JS] [JavaScript Higher-Order Functions: A Complete Guide](https://dev.to/syncfusion/javascript-higher-order-functions-a-complete-guide-35g2)
-- [Dev.to/JS] [React headless components](https://dev.to/johnb8005/react-headless-components-2fmo)
-- [Dev.to/JS] [Pure functions are anti modules](https://dev.to/adam_cyclones/pure-functions-are-anti-modules-14mn)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
 - [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Watch on Netflix in June](https://lifehacker.com/what-to-watch-on-netflix-in-june-1848987601)
 - [Lifehacker] [How to Fix a Chip in Your Bathtub](https://lifehacker.com/how-to-fix-a-chip-in-your-bathtub-1848984857)
 - [Lifehacker] [Five of the Most Overrated US Tourist Destinations &lpar;and Where to Go Instead&rpar;](https://lifehacker.com/five-of-the-most-overrated-us-tourist-destinations-and-1848988490)
-- [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
-- [Lifehacker] [Avoid These Common Gardening Mistakes](https://lifehacker.com/avoid-these-common-gardening-mistakes-1848984869)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
