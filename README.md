@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From building to selling - EP.11](https://dev.to/twankrui/from-building-to-selling-ep11-3m4n)
+- [Dev.to/JS] [Kindle like reading on our website](https://dev.to/shreyvijayvargiya/kindle-like-reading-on-our-website-49ak)
 - [Dev.to/JS] [The Real Reason Why 93% Of JS Devs Are Underpaid While The “Elite Few” Get All The Cash](https://dev.to/dragosnedelcu/the-real-reason-why-93-of-js-devs-are-underpaid-while-the-elite-few-get-all-the-cash-134p)
 - [Dev.to/JS] [JavaScript Array Methods : Shift&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-shift-3iid)
 - [Dev.to/JS] [4 Helpful Javascript Array tricks you should know](https://dev.to/talenttinaapi/5-helpful-javascript-array-tricks-you-should-know-1lpg)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dark Mode on! Learn to integrate Awareness Kit &lpar;Dark Mode&rpar; in a Travel Application in React Native](https://dev.to/hmscommunity/dark-mode-on-learn-to-integrate-awareness-kit-dark-mode-in-a-travel-application-in-react-native-30ao)
 - [Dev.to/JS] [I made React with a faster Virtual DOM](https://dev.to/aidenybai/i-made-react-with-a-faster-virtual-dom-37hd)
 - [Dev.to/JS] [5 Programming Languages That Will Revolutionize The World](https://dev.to/metamark/5-programming-languages-that-will-revolutionize-the-world-5elo)
-- [Dev.to/JS] [How web browsers work - the render tree &lpar;part 7, with illustrations&rpar;💻 ⏳](https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-part-7-with-illustrations-24h3)
-- [Dev.to/JS] [RedGradient - Css Gradient Editor Release](https://dev.to/redcamel/redgradient-css-gradient-editor-release-30kb)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
 - [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
