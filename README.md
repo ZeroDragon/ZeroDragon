@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 Animal Species That Prove Being Gay Is Natural](https://lifehacker.com/11-animal-species-that-prove-being-gay-is-natural-1848997897)
+- [Dev.to/JS] [Is web scraping legal?](https://dev.to/ariansohrabi/is-web-scraping-legal-2mfd)
+- [Dev.to/JS] [JS LexicalEnvironment - short overview](https://dev.to/ilyary/js-lexicalenvironment-short-overview-3b4k)
+- [Dev.to/JS] [Intro to Hoisting in JavaScript](https://dev.to/sdwn/intro-to-hoisting-in-javascript-3bla)
+- [Lifehacker] [Three of the Best Ways to Improve Your Credit Score](https://lifehacker.com/three-of-the-best-ways-to-improve-your-credit-score-1848996415)
+- [Dev.to/JS] [Roadmap And Resources To Become a Full Stack Developer](https://dev.to/karthikbhandary2/roadmap-and-resources-to-become-a-full-stack-developer-4659)
+- [Dev.to/JS] [Hoisting in JavaScript 🔥 😍[Visually Explained]](https://dev.to/narottam04/hoisting-in-javascript-visually-explained-cfa)
 - [Dev.to/JS] [Paracetamol.js💊| #130: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-130-explica-este-codigo-javascript-3oni)
 - [Dev.to/JS] [QR Codes generation with React](https://dev.to/asayerio_techblog/qr-codes-generation-with-react-kib)
 - [Dev.to/JS] [JavaScript Higher-Order Functions: A Complete Guide](https://dev.to/syncfusion/javascript-higher-order-functions-a-complete-guide-35g2)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pure functions are anti modules](https://dev.to/adam_cyclones/pure-functions-are-anti-modules-14mn)
 - [Dev.to/JS] [From building to selling - EP.11](https://dev.to/twankrui/from-building-to-selling-ep11-3m4n)
 - [Dev.to/JS] [Kindle like reading on our website](https://dev.to/shreyvijayvargiya/kindle-like-reading-on-our-website-49ak)
-- [Dev.to/JS] [The Real Reason Why 93% Of JS Devs Are Underpaid While The “Elite Few” Get All The Cash](https://dev.to/dragosnedelcu/the-real-reason-why-93-of-js-devs-are-underpaid-while-the-elite-few-get-all-the-cash-134p)
-- [Dev.to/JS] [JavaScript Array Methods : Shift&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-shift-3iid)
-- [Dev.to/JS] [4 Helpful Javascript Array tricks you should know](https://dev.to/talenttinaapi/5-helpful-javascript-array-tricks-you-should-know-1lpg)
-- [Dev.to/JS] [This Week In React #106: Remix, Framer Motion, Storybook, Gatsby, Remotion, Metro, Lerna, TypeScript, Three.js, LocatorJS...](https://dev.to/sebastienlorber/this-week-in-react-106-remix-framer-motion-storybook-gatsby-remotion-metro-lerna-typescript-threejs-locatorjs-13lh)
-- [Dev.to/JS] [Truketo 2022 United States Reviews: The 100% Super Shield Supplement For Metabolism And Fat Burner](https://dev.to/truketogetnow/truketo-2022-united-states-reviews-the-100-super-shield-supplement-for-metabolism-and-fat-burner-4i0c)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
 - [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep You Garbage Disposal From Crapping Out on You](https://lifehacker.com/how-to-keep-you-garbage-disposal-from-crapping-out-on-y-1848984851)
 - [Lifehacker] [Avoid These Common Gardening Mistakes](https://lifehacker.com/avoid-these-common-gardening-mistakes-1848984869)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
-- [Lifehacker] [Should You Use Shower Gel, Body Wash, or Bar Soap?](https://lifehacker.com/should-you-use-shower-gel-body-wash-or-bar-soap-1848980683)
-- [Lifehacker] [How and When to Add Pumice to Your Soil](https://lifehacker.com/how-and-when-to-add-pumice-to-your-soil-1848980676)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
 
