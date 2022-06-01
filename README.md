@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Real Reason Why 93% Of JS Devs Are Underpaid While The “Elite Few” Get All The Cash](https://dev.to/dragosnedelcu/the-real-reason-why-93-of-js-devs-are-underpaid-while-the-elite-few-get-all-the-cash-134p)
+- [Dev.to/JS] [JavaScript Array Methods : Shift&lpar;&rpar;](https://dev.to/jps27cse/javascript-array-methods-shift-3iid)
+- [Dev.to/JS] [4 Helpful Javascript Array tricks you should know](https://dev.to/talenttinaapi/5-helpful-javascript-array-tricks-you-should-know-1lpg)
+- [Dev.to/JS] [This Week In React #106: Remix, Framer Motion, Storybook, Gatsby, Remotion, Metro, Lerna, TypeScript, Three.js, LocatorJS...](https://dev.to/sebastienlorber/this-week-in-react-106-remix-framer-motion-storybook-gatsby-remotion-metro-lerna-typescript-threejs-locatorjs-13lh)
 - [Dev.to/JS] [Truketo 2022 United States Reviews: The 100% Super Shield Supplement For Metabolism And Fat Burner](https://dev.to/truketogetnow/truketo-2022-united-states-reviews-the-100-super-shield-supplement-for-metabolism-and-fat-burner-4i0c)
 - [Dev.to/JS] [Best digital Marketing Agency in Tennessee, USA](https://dev.to/greenleafg7942/best-digital-marketing-agency-in-tennessee-usa-4993)
 - [Dev.to/JS] [Defer vs Async Attributes](https://dev.to/shemjay/defer-vs-async-attributes-4p2k)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Programming Languages That Will Revolutionize The World](https://dev.to/metamark/5-programming-languages-that-will-revolutionize-the-world-5elo)
 - [Dev.to/JS] [How web browsers work - the render tree &lpar;part 7, with illustrations&rpar;💻 ⏳](https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-part-7-with-illustrations-24h3)
 - [Dev.to/JS] [RedGradient - Css Gradient Editor Release](https://dev.to/redcamel/redgradient-css-gradient-editor-release-30kb)
-- [Dev.to/JS] [Simple accordion in vanilla JavaScript](https://dev.to/vadimfilimonov/simple-accordion-in-vanilla-javascript-5d2m)
-- [Dev.to/JS] [Send Files to IPFS using Pinata API in ReactJS](https://dev.to/fidalmathew/send-files-to-ipfs-using-pinata-api-in-reactjs-3c3)
-- [Dev.to/JS] [25 React component libraries you just might need for your next project!](https://dev.to/asheeshh/25-react-component-libraries-you-just-might-need-for-your-next-project-3610)
-- [Dev.to/JS] [SMS Notifications On Pageviews with Segment and JavaScript](https://dev.to/lizziepika/sms-notifications-on-pageviews-with-segment-and-javascript-1igd)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
 - [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
