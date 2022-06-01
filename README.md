@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [init&lpar;&rpar;](https://dev.to/jmacapagal90/my-first-blog-post-53o7)
+- [Dev.to/JS] [Data Analytics Training in Gurgaon | Data Analytics Course in Gurgaon](https://dev.to/sanasin04984541/data-analytics-training-in-gurgaon-data-analytics-course-in-gurgaon-5cmg)
 - [Lifehacker] [11 Animal Species That Prove Being Gay Is Natural](https://lifehacker.com/11-animal-species-that-prove-being-gay-is-natural-1848997897)
 - [Dev.to/JS] [Is web scraping legal?](https://dev.to/ariansohrabi/is-web-scraping-legal-2mfd)
 - [Dev.to/JS] [JS LexicalEnvironment - short overview](https://dev.to/ilyary/js-lexicalenvironment-short-overview-3b4k)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Higher-Order Functions: A Complete Guide](https://dev.to/syncfusion/javascript-higher-order-functions-a-complete-guide-35g2)
 - [Dev.to/JS] [React headless components](https://dev.to/johnb8005/react-headless-components-2fmo)
 - [Dev.to/JS] [Pure functions are anti modules](https://dev.to/adam_cyclones/pure-functions-are-anti-modules-14mn)
-- [Dev.to/JS] [From building to selling - EP.11](https://dev.to/twankrui/from-building-to-selling-ep11-3m4n)
-- [Dev.to/JS] [Kindle like reading on our website](https://dev.to/shreyvijayvargiya/kindle-like-reading-on-our-website-49ak)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
 - [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
