@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sorting Arrays in JavaScript](https://dev.to/melguachun/sorting-arrays-in-javascript-3809)
+- [Dev.to/JS] [Just published NPM package](https://dev.to/nikolap994/just-published-npm-package-23lg)
+- [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
+- [Lifehacker] [17 Unbreakable Rules of Flight Etiquette, According to Lifehacker Readers](https://lifehacker.com/17-unbreakable-rules-of-flight-etiquette-according-to-1849001695)
 - [Dev.to/JS] [20-line DSL in typescript or js without a library](https://dev.to/qpwo/20-line-dsl-in-typescript-or-js-without-a-library-pk7)
 - [Dev.to/JS] [AJAX and Fetch API Crash Courses](https://dev.to/thedevdrawer/ajax-and-fetch-api-crash-courses-32im)
 - [Lifehacker] [How Do You Keep From Becoming Cynical As You Get Older?](https://lifehacker.com/how-do-you-keep-from-becoming-cynical-as-you-get-older-1849002675)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Time Compression &lpar;Time Warp&rpar; in Virtual Reality?](https://dev.to/babatunde/what-is-time-compression-time-warp-in-virtual-reality-40k2)
 - [Lifehacker] [Why You Shouldn&#39;t Store Your Avocados in Water After All](https://lifehacker.com/why-you-shouldnt-store-your-avocados-in-water-after-all-1849001266)
 - [Lifehacker] [How to Watch Apple&#39;s WWDC 2022](https://lifehacker.com/how-to-watch-apples-wwdc-2022-1849001407)
-- [Dev.to/JS] [How to work effectively with strings in JS!](https://dev.to/kai_wenzel/how-to-work-effectively-with-strings-in-js-25ko)
-- [Dev.to/JS] [Closure, A Confused topic](https://dev.to/sushantagupta007/closurea-confused-topic-396k)
 - [Lifehacker] [Always Do This Before Letting Someone Borrow Your Phone](https://lifehacker.com/always-do-this-before-letting-someone-borrow-your-phone-1849000861)
 - [Lifehacker] [How to Bring Back the iTunes MiniPlayer](https://lifehacker.com/how-to-bring-back-the-itunes-miniplayer-1849000588)
 - [Lifehacker] [Do Not Eat Any of These Products That Contain Peanut Butter, FDA Says](https://lifehacker.com/do-not-eat-any-of-these-products-that-contain-peanut-bu-1849000220)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [VRBO&#39;s 2022 Vacation Homes of the Year &lpar;and How Much They Cost&rpar;](https://lifehacker.com/vrbos-2022-vacation-homes-of-the-year-and-how-much-the-1848995648)
 - [Lifehacker] [Why You Should Join Your Local Garden Club](https://lifehacker.com/why-you-should-join-your-local-garden-club-1848995994)
 - [Lifehacker] [10 Podcasts to Help You Find Your Next Favorite Book](https://lifehacker.com/10-podcasts-to-help-you-find-your-next-favorite-book-1848996337)
-- [Lifehacker] [Everything You Should Do Right Now to Prepare for a Hurricane](https://lifehacker.com/everything-you-should-do-right-now-to-prepare-for-a-hur-1848995841)
-- [Lifehacker] [What&#39;s New on Paramount+ in June 2022](https://lifehacker.com/whats-new-on-paramount-in-june-2022-1848995617)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
