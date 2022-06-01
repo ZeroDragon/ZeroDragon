@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Conceptos básicos de Angular - Angular Basics &lpar;1/n&rpar;](https://dev.to/joeaspiazudeveloper/conceptos-basicos-de-angular-angular-basics-1n-l3f)
+- [Dev.to/JS] [VS Code Extension](https://dev.to/zainbinfurqan/vs-code-extension-4k30)
 - [Dev.to/JS] [JavaScript: Unary Operators](https://dev.to/thatgirlvictoria/javascript-unary-operators-43dk)
 - [Dev.to/JS] [Skiff - Mail | Made with Next JS](https://dev.to/madewithjavascript/skiff-mail-made-with-next-js-4n39)
 - [Dev.to/JS] [Sorting Arrays in JavaScript](https://dev.to/melguachun/sorting-arrays-in-javascript-3809)
@@ -37,10 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Virtualization with fixed size items &lpar;part 1&rpar;](https://dev.to/romaintrotard/virtualization-with-fixed-size-items-part-1-4kid)
 - [Lifehacker] [The Best Grocery Store Alternatives to Girl Scout Cookies](https://lifehacker.com/the-best-grocery-store-alternatives-to-girl-scout-cooki-1849002409)
 - [Dev.to/JS] [My personal practice while building websites.](https://dev.to/tanishqkrk/my-personal-practice-while-building-websites-183d)
-- [Dev.to/JS] [PUBG Mobile KR APK Free Download Here](https://dev.to/biggbos36253463/pubg-mobile-kr-apk-free-download-here-19ed)
 - [Lifehacker] [18 of the Best Dinosaur Movies and Documentaries Ever &lpar;Besides ‘Jurassic Park’&rpar;](https://lifehacker.com/18-of-the-best-dinosaur-movies-and-documentaries-ever-1848997520)
 - [Dev.to/JS] [Manipulación de Arrays en JavaScript 😎Part 1](https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-1-5gjf)
-- [Dev.to/JS] [How to persistently store state in React? [usePersist]](https://dev.to/t410/persistent-usestate-hook-in-react-usepersist-571l)
 - [Lifehacker] [The Best Beach Sandwich Has Only Three Ingredients](https://lifehacker.com/the-best-beach-sandwich-has-only-three-ingredients-1849002302)
 - [Lifehacker] [12 of the Best Movies and TV Shows Available to Stream in June 2022](https://lifehacker.com/12-of-the-best-movies-and-tv-shows-available-to-stream-1848996215)
 - [Lifehacker] [The &#39;Three T’s&#39; that Build Your Baby&#39;s Brain, According to a Pediatric Surgeon](https://lifehacker.com/the-three-t-s-that-build-your-babys-brain-according-to-1849000872)
