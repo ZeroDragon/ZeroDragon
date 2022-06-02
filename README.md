@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
+- [Dev.to/JS] [VinlaStudio](https://dev.to/adhamta/vinlastudio-pm)
+- [Lifehacker] [Seven Easy Ways to Cut Costs on Everyday Household Items](https://lifehacker.com/seven-easy-ways-to-cut-costs-on-everyday-household-item-1849009641)
+- [Dev.to/JS] [Accordion in vanilla JavaScript](https://dev.to/vadimfilimonov/accordion-in-vanilla-javascript-2a85)
+- [Dev.to/JS] [how can i improve the popularity of my site?](https://dev.to/matiasdandrea/how-can-i-increase-the-popularity-of-my-site-af2)
+- [Lifehacker] [The Tastiest Way to Keep Fish From Sticking to the Grill](https://lifehacker.com/the-tastiest-way-to-keep-fish-from-sticking-to-the-gril-1849009316)
+- [Dev.to/JS] [Beginner&#39;s Guide in Testing APIs](https://dev.to/ekqt/beginners-guide-in-testing-apis-1jd8)
 - [Dev.to/JS] [Part 6: Styling the chat widget](https://dev.to/evertvdw/part-6-styling-the-chat-widget-1f2m)
 - [Lifehacker] [You Should Be Shopping Open Box Deals at These Retailers](https://lifehacker.com/you-should-be-shopping-open-box-deals-at-these-retailer-1849007471)
 - [Lifehacker] [How to &#39;Steal&#39; Enough Food From Your Employer to Make Your Commute Worth It](https://lifehacker.com/how-to-steal-enough-food-from-your-employer-to-make-you-1849008703)
@@ -36,11 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple tic-tac-toe AI using minimax](https://dev.to/carlomonroy/simple-tic-tac-toe-ai-using-minimax-2dfi)
 - [Dev.to/JS] [Buy or sell cryptogoods on your own site!](https://dev.to/gil_finkelstein/buy-or-sell-cryptogoods-on-your-own-site-1gpg)
 - [Lifehacker] [The Difference Between a Deck and Patio &lpar;and How to Choose Which Is Better for You&rpar;](https://lifehacker.com/the-difference-between-a-deck-and-patio-and-how-to-cho-1849006074)
-- [Dev.to/JS] [Building a Full Stack Application on AWS: 100% Serverless](https://dev.to/ixartz/building-a-full-stack-application-on-aws-100-serverless-3idm)
 - [Lifehacker] [The Best Real Estate Apps for Broke, Unmortgaged Millennials](https://lifehacker.com/the-best-real-estate-apps-for-broke-unmortgaged-millen-1849007630)
-- [Dev.to/JS] [The Basics of Web Development.](https://dev.to/barksanto/the-basics-of-web-development-16f5)
-- [Dev.to/JS] [How To Move Objects Around Your Webpage Using Arrow Keys In JavaScript](https://dev.to/nnekajenny/how-to-move-objects-around-your-webpage-using-arrow-keys-in-javascript-23m9)
-- [Dev.to/JS] [Amplication &amp; Angular: Adding Custom Endpoints](https://dev.to/amplication/amplication-angular-adding-custom-endpoints-4pc0)
 - [Lifehacker] [How to Tell If Your Sunburn Might Actually Need Medical Attention](https://lifehacker.com/how-to-tell-if-your-sunburn-might-actually-need-medical-1848996583)
 - [Lifehacker] [How to Search, Translate, or OCR Any Image In Chrome on Desktop](https://lifehacker.com/how-to-search-translate-or-ocr-any-image-in-chrome-on-1849006247)
 - [Lifehacker] [How to Raise Chickens Even If You Live in a City](https://lifehacker.com/how-to-raise-chickens-even-if-you-live-in-a-city-1849004512)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Best Movies and TV Shows Available to Stream in June 2022](https://lifehacker.com/12-of-the-best-movies-and-tv-shows-available-to-stream-1848996215)
 - [Lifehacker] [The &#39;Three T’s&#39; that Build Your Baby&#39;s Brain, According to a Pediatric Surgeon](https://lifehacker.com/the-three-t-s-that-build-your-babys-brain-according-to-1849000872)
 - [Lifehacker] [Why You Shouldn&#39;t Store Your Avocados in Water After All](https://lifehacker.com/why-you-shouldnt-store-your-avocados-in-water-after-all-1849001266)
-- [Lifehacker] [How to Watch Apple&#39;s WWDC 2022](https://lifehacker.com/how-to-watch-apples-wwdc-2022-1849001407)
-- [Lifehacker] [Always Do This Before Letting Someone Borrow Your Phone](https://lifehacker.com/always-do-this-before-letting-someone-borrow-your-phone-1849000861)
-- [Lifehacker] [How to Bring Back the iTunes MiniPlayer](https://lifehacker.com/how-to-bring-back-the-itunes-miniplayer-1849000588)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
