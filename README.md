@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I used to hate typescript, now it&#39;s my favorite 💖](https://dev.to/evansifyke/i-used-to-hate-typescript-now-its-my-favorite-1im3)
+- [Dev.to/JS] [🛑 STOP thinking about React lifecycle methods.](https://dev.to/swastikyadav/stop-thinking-about-react-lifecycle-methods-248)
+- [Dev.to/JS] [From building to selling - EP.12](https://dev.to/twankrui/from-building-to-selling-ep12-26f9)
 - [Dev.to/JS] [NestJS-TypeORM Listener &amp; Subscriber](https://dev.to/kezios/nestjs-typeorm-listener-subscriber-3p9j)
 - [Dev.to/JS] [JS Interview Question #3 &lpar;Polyfill for array.flat&lpar;&rpar;&rpar;](https://dev.to/learndaily1/js-interview-question-3-polyfill-for-arrayflat-4hp3)
 - [Dev.to/JS] [Medusa storefront with multiple vendors](https://dev.to/ivanchiou/medusa-storefront-with-multiple-vendors-23jp)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conceptos básicos de Angular - Angular Basics &lpar;1/n&rpar;](https://dev.to/joeaspiazudeveloper/conceptos-basicos-de-angular-angular-basics-1n-l3f)
 - [Dev.to/JS] [VS Code Extension](https://dev.to/zainbinfurqan/vs-code-extension-4k30)
 - [Dev.to/JS] [JavaScript: Unary Operators](https://dev.to/thatgirlvictoria/javascript-unary-operators-43dk)
-- [Dev.to/JS] [Skiff - Mail | Made with Next JS](https://dev.to/madewithjavascript/skiff-mail-made-with-next-js-4n39)
-- [Dev.to/JS] [Sorting Arrays in JavaScript](https://dev.to/melguachun/sorting-arrays-in-javascript-3809)
 - [Lifehacker] [How to Remove Stubborn Cherry Stains From Clothes and Couches](https://lifehacker.com/how-to-remove-stubborn-cherry-stains-from-clothes-and-c-1849003421)
-- [Dev.to/JS] [Just published NPM package](https://dev.to/nikolap994/just-published-npm-package-23lg)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
 - [Lifehacker] [17 Unbreakable Rules of Flight Etiquette, According to Lifehacker Readers](https://lifehacker.com/17-unbreakable-rules-of-flight-etiquette-according-to-1849001695)
 - [Lifehacker] [How Do You Keep From Becoming Cynical As You Get Older?](https://lifehacker.com/how-do-you-keep-from-becoming-cynical-as-you-get-older-1849002675)
