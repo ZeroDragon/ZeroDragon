@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Move Objects Around Your Webpage Using Arrow Keys In JavaScript](https://dev.to/nnekajenny/how-to-move-objects-around-your-webpage-using-arrow-keys-in-javascript-23m9)
+- [Dev.to/JS] [Amplication &amp; Angular: Adding Custom Endpoints](https://dev.to/amplication/amplication-angular-adding-custom-endpoints-4pc0)
+- [Dev.to/JS] [useEffect&lpar;&rpar; makes life easier](https://dev.to/amritshenava98/useeffect-makes-life-easier-4532)
+- [Lifehacker] [How to Tell If Your Sunburn Might Actually Need Medical Attention](https://lifehacker.com/how-to-tell-if-your-sunburn-might-actually-need-medical-1848996583)
+- [Lifehacker] [How to Search, Translate, or OCR Any Image In Chrome on Desktop](https://lifehacker.com/how-to-search-translate-or-ocr-any-image-in-chrome-on-1849006247)
 - [Lifehacker] [How to Raise Chickens Even If You Live in a City](https://lifehacker.com/how-to-raise-chickens-even-if-you-live-in-a-city-1849004512)
 - [Dev.to/JS] [Should I write my own lib for a work project?](https://dev.to/arodionova/should-i-write-my-own-lib-for-a-work-project-2j0f)
 - [Dev.to/JS] [RFC: A Full-stack Analytics Platform Architecture](https://dev.to/haydenmcp/rfc-a-full-stack-analytics-platform-architecture-56n5)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Medusa v1.3.1: PriceList API, Promotions API, Migrations, And More!](https://dev.to/medusajs/medusa-v131-pricelist-api-promotions-api-migrations-and-more-57jb)
 - [Lifehacker] [Why You Can&#39;t Trust Your Fitness Tracker on Calorie Burn](https://lifehacker.com/why-you-cant-trust-your-fitness-tracker-on-calorie-burn-1849003730)
 - [Dev.to/JS] [Full-Stack Development Has Changed](https://dev.to/mikhailkaran/full-stack-development-has-changed-3pd5)
-- [Dev.to/JS] [What are the most underrated browser features and APIs?](https://dev.to/sherrydays/what-are-the-most-underrated-browser-features-and-apis-m19)
-- [Dev.to/JS] [Angular lazy loading directive with IntersectionObserver](https://dev.to/anirbmuk/angular-lazy-loading-directive-with-intersectionobserver-4m92)
-- [Dev.to/JS] [Redux 101: Using `forwardRef` with Redux](https://dev.to/jwwnz/redux-101-using-forwardref-with-redux-kj3)
 - [Lifehacker] [How to Remove Stubborn Cherry Stains From Clothes and Couches](https://lifehacker.com/how-to-remove-stubborn-cherry-stains-from-clothes-and-c-1849003421)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
 - [Lifehacker] [17 Unbreakable Rules of Flight Etiquette, According to Lifehacker Readers](https://lifehacker.com/17-unbreakable-rules-of-flight-etiquette-according-to-1849001695)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three of the Best Ways to Improve Your Credit Score](https://lifehacker.com/three-of-the-best-ways-to-improve-your-credit-score-1848996415)
 - [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
-- [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
-- [Lifehacker] [Should You Install Windows 10 LTSC?](https://lifehacker.com/should-you-install-windows-10-ltsc-1848997569)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
