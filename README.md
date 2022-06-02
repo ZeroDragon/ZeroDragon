@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NestJS-TypeORM Listener &amp; Subscriber](https://dev.to/kezios/nestjs-typeorm-listener-subscriber-3p9j)
 - [Dev.to/JS] [JS Interview Question #3 &lpar;Polyfill for array.flat&lpar;&rpar;&rpar;](https://dev.to/learndaily1/js-interview-question-3-polyfill-for-arrayflat-4hp3)
 - [Dev.to/JS] [Medusa storefront with multiple vendors](https://dev.to/ivanchiou/medusa-storefront-with-multiple-vendors-23jp)
 - [Dev.to/JS] [Releasing MineTrax 1.0.0-alpha!](https://dev.to/xinecraft/releasing-minetrax-100-alpha-40dh)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Just published NPM package](https://dev.to/nikolap994/just-published-npm-package-23lg)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
 - [Lifehacker] [17 Unbreakable Rules of Flight Etiquette, According to Lifehacker Readers](https://lifehacker.com/17-unbreakable-rules-of-flight-etiquette-according-to-1849001695)
-- [Dev.to/JS] [20-line DSL in typescript or js without a library](https://dev.to/qpwo/20-line-dsl-in-typescript-or-js-without-a-library-pk7)
 - [Lifehacker] [How Do You Keep From Becoming Cynical As You Get Older?](https://lifehacker.com/how-do-you-keep-from-becoming-cynical-as-you-get-older-1849002675)
 - [Lifehacker] [The Best Grocery Store Alternatives to Girl Scout Cookies](https://lifehacker.com/the-best-grocery-store-alternatives-to-girl-scout-cooki-1849002409)
 - [Lifehacker] [18 of the Best Dinosaur Movies and Documentaries Ever &lpar;Besides ‘Jurassic Park’&rpar;](https://lifehacker.com/18-of-the-best-dinosaur-movies-and-documentaries-ever-1848997520)
