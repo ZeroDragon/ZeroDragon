@@ -23,11 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Raise Chickens Even If You Live in a City](https://lifehacker.com/how-to-raise-chickens-even-if-you-live-in-a-city-1849004512)
+- [Dev.to/JS] [Should I write my own lib for a work project?](https://dev.to/arodionova/should-i-write-my-own-lib-for-a-work-project-2j0f)
+- [Dev.to/JS] [RFC: A Full-stack Analytics Platform Architecture](https://dev.to/haydenmcp/rfc-a-full-stack-analytics-platform-architecture-56n5)
+- [Dev.to/JS] [Custom Content in ArcGIS API Popups](https://dev.to/odoenet/custom-content-in-arcgis-api-popups-51kk)
 - [Lifehacker] [How to Remove Thin Bacon From Its Packaging Without Tearing It](https://lifehacker.com/how-to-remove-thin-bacon-from-its-packaging-without-tea-1849004618)
 - [Dev.to/JS] [Iniciando em Testes Automatizados em JS/React - Cypress e Playwright [PT-BR]](https://dev.to/llxd/iniciando-em-testes-automatizados-em-jsreact-cypress-e-playwright-pt-br-4hg9)
 - [Dev.to/JS] [Predis.ai | Made with Vue JS](https://dev.to/madewithjavascript/predisai-made-with-vue-js-5984)
 - [Dev.to/JS] [Javascript books to get on your shelf](https://dev.to/glowreeyah/javascript-books-to-get-on-your-shelf-2j8e)
-- [Lifehacker] [You Should Air Fry Your Corn Nuts](https://lifehacker.com/you-should-air-fry-your-corn-nuts-1849003851)
+- [Lifehacker] [You Need to Make These Corn Nuts in Your Air Fryer](https://lifehacker.com/you-should-air-fry-your-corn-nuts-1849003851)
 - [Dev.to/JS] [当我们进行性能优化，我们在优化什么（LightHouse优化实操）](https://dev.to/liuyue/dang-wo-men-jin-xing-xing-neng-you-hua-wo-men-zai-you-hua-shi-yao-lighthouseyou-hua-shi-cao--34o1)
 - [Dev.to/JS] [Medusa v1.3.1: PriceList API, Promotions API, Migrations, And More!](https://dev.to/medusajs/medusa-v131-pricelist-api-promotions-api-migrations-and-more-57jb)
 - [Lifehacker] [Why You Can&#39;t Trust Your Fitness Tracker on Calorie Burn](https://lifehacker.com/why-you-cant-trust-your-fitness-tracker-on-calorie-burn-1849003730)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are the most underrated browser features and APIs?](https://dev.to/sherrydays/what-are-the-most-underrated-browser-features-and-apis-m19)
 - [Dev.to/JS] [Angular lazy loading directive with IntersectionObserver](https://dev.to/anirbmuk/angular-lazy-loading-directive-with-intersectionobserver-4m92)
 - [Dev.to/JS] [Redux 101: Using `forwardRef` with Redux](https://dev.to/jwwnz/redux-101-using-forwardref-with-redux-kj3)
-- [Dev.to/JS] [React useState with History](https://dev.to/zirkelc/react-usestate-with-history-2m5f)
-- [Dev.to/JS] [Web3 Authentication with Next.js, React, and Moralis](https://dev.to/asayerio_techblog/web3-authentication-with-nextjs-react-and-moralis-l6)
-- [Dev.to/JS] [Arrow Function](https://dev.to/reddydivya/arrow-function-4eob)
 - [Lifehacker] [How to Remove Stubborn Cherry Stains From Clothes and Couches](https://lifehacker.com/how-to-remove-stubborn-cherry-stains-from-clothes-and-c-1849003421)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
 - [Lifehacker] [17 Unbreakable Rules of Flight Etiquette, According to Lifehacker Readers](https://lifehacker.com/17-unbreakable-rules-of-flight-etiquette-according-to-1849001695)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
 - [Lifehacker] [Can Listening to Music Really Make Your Baby Smarter?](https://lifehacker.com/can-listening-to-classical-music-really-make-your-baby-1848997669)
 - [Lifehacker] [Should You Install Windows 10 LTSC?](https://lifehacker.com/should-you-install-windows-10-ltsc-1848997569)
-- [Lifehacker] [You Can Get a Free Replacement for Your Cloud Cam](https://lifehacker.com/how-to-replace-your-cloud-cam-with-a-free-blink-mini-1848996113)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
