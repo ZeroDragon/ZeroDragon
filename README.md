@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
+- [Dev.to/JS] [How low-code and no-code tools help foster inclusivity](https://dev.to/richkurtzman/how-low-code-and-no-code-tools-help-foster-inclusivity-hhh)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
+- [Dev.to/JS] [Criando Crons no Nestjs](https://dev.to/yanpiing/criando-crons-no-nestjs-4dkf)
 - [Dev.to/JS] [VinlaStudio](https://dev.to/adhamta/vinlastudio-pm)
 - [Lifehacker] [Seven Easy Ways to Cut Costs on Everyday Household Items](https://lifehacker.com/seven-easy-ways-to-cut-costs-on-everyday-household-item-1849009641)
 - [Dev.to/JS] [Accordion in vanilla JavaScript](https://dev.to/vadimfilimonov/accordion-in-vanilla-javascript-2a85)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Animation Finds for React](https://dev.to/angelinawhite/animation-finds-for-react-4a93)
 - [Dev.to/JS] [Organização de projetos React](https://dev.to/carvalhodanielg/organizacao-de-projetos-react-28fm)
 - [Lifehacker] [Should You Use Nextdoor Instead of Facebook Marketplace?](https://lifehacker.com/should-you-use-nextdoor-instead-of-facebook-marketplace-1849008071)
-- [Dev.to/JS] [Simple tic-tac-toe AI using minimax](https://dev.to/carlomonroy/simple-tic-tac-toe-ai-using-minimax-2dfi)
-- [Dev.to/JS] [Buy or sell cryptogoods on your own site!](https://dev.to/gil_finkelstein/buy-or-sell-cryptogoods-on-your-own-site-1gpg)
 - [Lifehacker] [The Difference Between a Deck and Patio &lpar;and How to Choose Which Is Better for You&rpar;](https://lifehacker.com/the-difference-between-a-deck-and-patio-and-how-to-cho-1849006074)
 - [Lifehacker] [The Best Real Estate Apps for Broke, Unmortgaged Millennials](https://lifehacker.com/the-best-real-estate-apps-for-broke-unmortgaged-millen-1849007630)
 - [Lifehacker] [How to Tell If Your Sunburn Might Actually Need Medical Attention](https://lifehacker.com/how-to-tell-if-your-sunburn-might-actually-need-medical-1848996583)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Beach Sandwich Has Only Three Ingredients](https://lifehacker.com/the-best-beach-sandwich-has-only-three-ingredients-1849002302)
 - [Lifehacker] [12 of the Best Movies and TV Shows Available to Stream in June 2022](https://lifehacker.com/12-of-the-best-movies-and-tv-shows-available-to-stream-1848996215)
 - [Lifehacker] [The &#39;Three T’s&#39; that Build Your Baby&#39;s Brain, According to a Pediatric Surgeon](https://lifehacker.com/the-three-t-s-that-build-your-babys-brain-according-to-1849000872)
-- [Lifehacker] [Why You Shouldn&#39;t Store Your Avocados in Water After All](https://lifehacker.com/why-you-shouldnt-store-your-avocados-in-water-after-all-1849001266)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
