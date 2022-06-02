@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Medusa storefront with multiple vendors](https://dev.to/ivanchiou/medusa-storefront-with-multiple-vendors-23jp)
+- [Dev.to/JS] [Releasing MineTrax 1.0.0-alpha!](https://dev.to/xinecraft/releasing-minetrax-100-alpha-40dh)
 - [Dev.to/JS] [Are native web components useful?](https://dev.to/matiasdandrea/are-native-web-components-useful-18kd)
 - [Dev.to/JS] [[Asia + Europe] No-Code Experiments for WebPerf &amp; more on WebPageTest LIVE! on June 2](https://dev.to/jeenaj/no-code-experiments-for-webperf-more-on-webpagetest-live-on-june-2-36b5)
 - [Dev.to/JS] [Conceptos básicos de Angular - Angular Basics &lpar;1/n&rpar;](https://dev.to/joeaspiazudeveloper/conceptos-basicos-de-angular-angular-basics-1n-l3f)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [20-line DSL in typescript or js without a library](https://dev.to/qpwo/20-line-dsl-in-typescript-or-js-without-a-library-pk7)
 - [Dev.to/JS] [AJAX and Fetch API Crash Courses](https://dev.to/thedevdrawer/ajax-and-fetch-api-crash-courses-32im)
 - [Lifehacker] [How Do You Keep From Becoming Cynical As You Get Older?](https://lifehacker.com/how-do-you-keep-from-becoming-cynical-as-you-get-older-1849002675)
-- [Dev.to/JS] [Create a Cookie Consent Banner with Vanilla JS](https://dev.to/ryanallmad/create-a-cookie-consent-banner-with-vanilla-js-ibf)
-- [Dev.to/JS] [Virtualization with fixed size items &lpar;part 1&rpar;](https://dev.to/romaintrotard/virtualization-with-fixed-size-items-part-1-4kid)
 - [Lifehacker] [The Best Grocery Store Alternatives to Girl Scout Cookies](https://lifehacker.com/the-best-grocery-store-alternatives-to-girl-scout-cooki-1849002409)
 - [Lifehacker] [18 of the Best Dinosaur Movies and Documentaries Ever &lpar;Besides ‘Jurassic Park’&rpar;](https://lifehacker.com/18-of-the-best-dinosaur-movies-and-documentaries-ever-1848997520)
 - [Lifehacker] [The Best Beach Sandwich Has Only Three Ingredients](https://lifehacker.com/the-best-beach-sandwich-has-only-three-ingredients-1849002302)
