@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Web3 portals for your next web3 job](https://dev.to/shreyvijayvargiya/web3-portals-for-your-next-web3-job-17f9)
 - [Dev.to/JS] [Meta Jobs | MERN Stack Job Board Theme | Made with Next JS](https://dev.to/madewithjavascript/meta-jobs-mern-stack-job-board-theme-made-with-next-js-4glk)
 - [Dev.to/JS] [VAMOS CONSTRUIR: Um componente de paginação React!](https://dev.to/ivangomestr/vamos-construir-um-componente-de-paginacao-react-1hg8)
 - [Dev.to/JS] [Linktree | Made with Gatsby JS](https://dev.to/madewithjavascript/linktree-made-with-gatsby-js-13h9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🛑 STOP thinking about React lifecycle methods.](https://dev.to/swastikyadav/stop-thinking-about-react-lifecycle-methods-248)
 - [Dev.to/JS] [From building to selling - EP.12](https://dev.to/twankrui/from-building-to-selling-ep12-26f9)
 - [Dev.to/JS] [NestJS-TypeORM Listener &amp; Subscriber](https://dev.to/kezios/nestjs-typeorm-listener-subscriber-3p9j)
-- [Dev.to/JS] [JS Interview Question #3 &lpar;Polyfill for array.flat&lpar;&rpar;&rpar;](https://dev.to/learndaily1/js-interview-question-3-polyfill-for-arrayflat-4hp3)
 - [Lifehacker] [How to Remove Stubborn Cherry Stains From Clothes and Couches](https://lifehacker.com/how-to-remove-stubborn-cherry-stains-from-clothes-and-c-1849003421)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
 - [Lifehacker] [17 Unbreakable Rules of Flight Etiquette, According to Lifehacker Readers](https://lifehacker.com/17-unbreakable-rules-of-flight-etiquette-according-to-1849001695)
