@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [button onclick popup video player using react](https://dev.to/iamharrydev/button-onclick-popup-video-player-using-react-4h21)
 - [Dev.to/JS] [I used to hate typescript, now it&#39;s my favorite 💖](https://dev.to/evansifyke/i-used-to-hate-typescript-now-its-my-favorite-1im3)
 - [Dev.to/JS] [🛑 STOP thinking about React lifecycle methods.](https://dev.to/swastikyadav/stop-thinking-about-react-lifecycle-methods-248)
 - [Dev.to/JS] [From building to selling - EP.12](https://dev.to/twankrui/from-building-to-selling-ep12-26f9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [[Asia + Europe] No-Code Experiments for WebPerf &amp; more on WebPageTest LIVE! on June 2](https://dev.to/jeenaj/no-code-experiments-for-webperf-more-on-webpagetest-live-on-june-2-36b5)
 - [Dev.to/JS] [Conceptos básicos de Angular - Angular Basics &lpar;1/n&rpar;](https://dev.to/joeaspiazudeveloper/conceptos-basicos-de-angular-angular-basics-1n-l3f)
 - [Dev.to/JS] [VS Code Extension](https://dev.to/zainbinfurqan/vs-code-extension-4k30)
-- [Dev.to/JS] [JavaScript: Unary Operators](https://dev.to/thatgirlvictoria/javascript-unary-operators-43dk)
 - [Lifehacker] [How to Remove Stubborn Cherry Stains From Clothes and Couches](https://lifehacker.com/how-to-remove-stubborn-cherry-stains-from-clothes-and-c-1849003421)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
 - [Lifehacker] [17 Unbreakable Rules of Flight Etiquette, According to Lifehacker Readers](https://lifehacker.com/17-unbreakable-rules-of-flight-etiquette-according-to-1849001695)
