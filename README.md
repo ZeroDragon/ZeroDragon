@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Falsy and Truthy in JavaScript](https://dev.to/lucaspaganini/falsy-and-truthy-in-javascript-56li)
+- [Dev.to/JS] [Early Returns/Exits - Code Patterns in JavaScript](https://dev.to/lucaspaganini/early-returnsexits-code-patterns-in-javascript-113g)
+- [Dev.to/JS] [Despliega tu aplicación NodeJS o Typescript con PM2](https://dev.to/victorargento/despliega-tu-aplicacion-nodejs-o-typescript-con-pm2-5fno)
+- [Lifehacker] [You Can Plan a Cheaper Wedding](https://lifehacker.com/you-can-plan-a-cheaper-wedding-1849007035)
+- [Dev.to/JS] [Animation Finds for React](https://dev.to/angelinawhite/animation-finds-for-react-4a93)
+- [Dev.to/JS] [Organização de projetos React](https://dev.to/carvalhodanielg/organizacao-de-projetos-react-28fm)
 - [Lifehacker] [Should You Use Nextdoor Instead of Facebook Marketplace?](https://lifehacker.com/should-you-use-nextdoor-instead-of-facebook-marketplace-1849008071)
 - [Dev.to/JS] [Simple tic-tac-toe AI using minimax](https://dev.to/carlomonroy/simple-tic-tac-toe-ai-using-minimax-2dfi)
 - [Dev.to/JS] [Buy or sell cryptogoods on your own site!](https://dev.to/gil_finkelstein/buy-or-sell-cryptogoods-on-your-own-site-1gpg)
@@ -36,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Your Sunburn Might Actually Need Medical Attention](https://lifehacker.com/how-to-tell-if-your-sunburn-might-actually-need-medical-1848996583)
 - [Lifehacker] [How to Search, Translate, or OCR Any Image In Chrome on Desktop](https://lifehacker.com/how-to-search-translate-or-ocr-any-image-in-chrome-on-1849006247)
 - [Lifehacker] [How to Raise Chickens Even If You Live in a City](https://lifehacker.com/how-to-raise-chickens-even-if-you-live-in-a-city-1849004512)
-- [Dev.to/JS] [Should I write my own lib for a work project?](https://dev.to/arodionova/should-i-write-my-own-lib-for-a-work-project-2j0f)
-- [Dev.to/JS] [RFC: A Full-stack Analytics Platform Architecture](https://dev.to/haydenmcp/rfc-a-full-stack-analytics-platform-architecture-56n5)
-- [Dev.to/JS] [Custom Content in ArcGIS API Popups](https://dev.to/odoenet/custom-content-in-arcgis-api-popups-51kk)
 - [Lifehacker] [How to Remove Thin Bacon From Its Packaging Without Tearing It](https://lifehacker.com/how-to-remove-thin-bacon-from-its-packaging-without-tea-1849004618)
-- [Dev.to/JS] [Iniciando em Testes Automatizados em JS/React - Cypress e Playwright [PT-BR]](https://dev.to/llxd/iniciando-em-testes-automatizados-em-jsreact-cypress-e-playwright-pt-br-4hg9)
-- [Dev.to/JS] [Predis.ai | Made with Vue JS](https://dev.to/madewithjavascript/predisai-made-with-vue-js-5984)
 - [Lifehacker] [You Need to Make These Corn Nuts in Your Air Fryer](https://lifehacker.com/you-should-air-fry-your-corn-nuts-1849003851)
 - [Lifehacker] [Why You Can&#39;t Trust Your Fitness Tracker on Calorie Burn](https://lifehacker.com/why-you-cant-trust-your-fitness-tracker-on-calorie-burn-1849003730)
 - [Lifehacker] [How to Remove Stubborn Cherry Stains From Clothes and Couches](https://lifehacker.com/how-to-remove-stubborn-cherry-stains-from-clothes-and-c-1849003421)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Bring Back the iTunes MiniPlayer](https://lifehacker.com/how-to-bring-back-the-itunes-miniplayer-1849000588)
 - [Lifehacker] [Do Not Eat Any of These Products That Contain Peanut Butter, FDA Says](https://lifehacker.com/do-not-eat-any-of-these-products-that-contain-peanut-bu-1849000220)
 - [Lifehacker] [How to Finally Cut, Copy, and Paste Files in Google Drive](https://lifehacker.com/how-to-finally-cut-copy-and-paste-files-in-google-dri-1849000671)
-- [Lifehacker] [11 Animal Species That Prove Being Gay Is Natural](https://lifehacker.com/11-animal-species-that-prove-being-gay-is-natural-1848997897)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
