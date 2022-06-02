@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Part 6: Styling the chat widget](https://dev.to/evertvdw/part-6-styling-the-chat-widget-1f2m)
+- [Lifehacker] [You Should Be Shopping Open Box Deals at These Retailers](https://lifehacker.com/you-should-be-shopping-open-box-deals-at-these-retailer-1849007471)
+- [Lifehacker] [How to &#39;Steal&#39; Enough Food From Your Employer to Make Your Commute Worth It](https://lifehacker.com/how-to-steal-enough-food-from-your-employer-to-make-you-1849008703)
 - [Dev.to/JS] [Falsy and Truthy in JavaScript](https://dev.to/lucaspaganini/falsy-and-truthy-in-javascript-56li)
 - [Dev.to/JS] [Early Returns/Exits - Code Patterns in JavaScript](https://dev.to/lucaspaganini/early-returnsexits-code-patterns-in-javascript-113g)
 - [Dev.to/JS] [Despliega tu aplicación NodeJS o Typescript con PM2](https://dev.to/victorargento/despliega-tu-aplicacion-nodejs-o-typescript-con-pm2-5fno)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Basics of Web Development.](https://dev.to/barksanto/the-basics-of-web-development-16f5)
 - [Dev.to/JS] [How To Move Objects Around Your Webpage Using Arrow Keys In JavaScript](https://dev.to/nnekajenny/how-to-move-objects-around-your-webpage-using-arrow-keys-in-javascript-23m9)
 - [Dev.to/JS] [Amplication &amp; Angular: Adding Custom Endpoints](https://dev.to/amplication/amplication-angular-adding-custom-endpoints-4pc0)
-- [Dev.to/JS] [useEffect&lpar;&rpar; makes life easier](https://dev.to/amritshenava98/useeffect-makes-life-easier-4532)
 - [Lifehacker] [How to Tell If Your Sunburn Might Actually Need Medical Attention](https://lifehacker.com/how-to-tell-if-your-sunburn-might-actually-need-medical-1848996583)
 - [Lifehacker] [How to Search, Translate, or OCR Any Image In Chrome on Desktop](https://lifehacker.com/how-to-search-translate-or-ocr-any-image-in-chrome-on-1849006247)
 - [Lifehacker] [How to Raise Chickens Even If You Live in a City](https://lifehacker.com/how-to-raise-chickens-even-if-you-live-in-a-city-1849004512)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Watch Apple&#39;s WWDC 2022](https://lifehacker.com/how-to-watch-apples-wwdc-2022-1849001407)
 - [Lifehacker] [Always Do This Before Letting Someone Borrow Your Phone](https://lifehacker.com/always-do-this-before-letting-someone-borrow-your-phone-1849000861)
 - [Lifehacker] [How to Bring Back the iTunes MiniPlayer](https://lifehacker.com/how-to-bring-back-the-itunes-miniplayer-1849000588)
-- [Lifehacker] [Do Not Eat Any of These Products That Contain Peanut Butter, FDA Says](https://lifehacker.com/do-not-eat-any-of-these-products-that-contain-peanut-bu-1849000220)
-- [Lifehacker] [How to Finally Cut, Copy, and Paste Files in Google Drive](https://lifehacker.com/how-to-finally-cut-copy-and-paste-files-in-google-dri-1849000671)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
