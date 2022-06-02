@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dicas para deixar seu relatório de code coverage do Jest mais completo](https://dev.to/brunopinho/dicas-para-deixar-seu-relatorio-de-code-coverage-do-jest-mais-completo-3n6n)
+- [Dev.to/JS] [Paracetamol.js💊| #131: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-131-explica-este-codigo-javascript-4343)
+- [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Dev.to/JS] [How low-code and no-code tools help foster inclusivity](https://dev.to/richkurtzman/how-low-code-and-no-code-tools-help-foster-inclusivity-hhh)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Early Returns/Exits - Code Patterns in JavaScript](https://dev.to/lucaspaganini/early-returnsexits-code-patterns-in-javascript-113g)
 - [Dev.to/JS] [Despliega tu aplicación NodeJS o Typescript con PM2](https://dev.to/victorargento/despliega-tu-aplicacion-nodejs-o-typescript-con-pm2-5fno)
 - [Lifehacker] [You Can Plan a Cheaper Wedding](https://lifehacker.com/you-can-plan-a-cheaper-wedding-1849007035)
-- [Dev.to/JS] [Animation Finds for React](https://dev.to/angelinawhite/animation-finds-for-react-4a93)
-- [Dev.to/JS] [Organização de projetos React](https://dev.to/carvalhodanielg/organizacao-de-projetos-react-28fm)
 - [Lifehacker] [Should You Use Nextdoor Instead of Facebook Marketplace?](https://lifehacker.com/should-you-use-nextdoor-instead-of-facebook-marketplace-1849008071)
 - [Lifehacker] [The Difference Between a Deck and Patio &lpar;and How to Choose Which Is Better for You&rpar;](https://lifehacker.com/the-difference-between-a-deck-and-patio-and-how-to-cho-1849006074)
 - [Lifehacker] [The Best Real Estate Apps for Broke, Unmortgaged Millennials](https://lifehacker.com/the-best-real-estate-apps-for-broke-unmortgaged-millen-1849007630)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 of the Best Dinosaur Movies and Documentaries Ever &lpar;Besides ‘Jurassic Park’&rpar;](https://lifehacker.com/18-of-the-best-dinosaur-movies-and-documentaries-ever-1848997520)
 - [Lifehacker] [The Best Beach Sandwich Has Only Three Ingredients](https://lifehacker.com/the-best-beach-sandwich-has-only-three-ingredients-1849002302)
 - [Lifehacker] [12 of the Best Movies and TV Shows Available to Stream in June 2022](https://lifehacker.com/12-of-the-best-movies-and-tv-shows-available-to-stream-1848996215)
-- [Lifehacker] [The &#39;Three T’s&#39; that Build Your Baby&#39;s Brain, According to a Pediatric Surgeon](https://lifehacker.com/the-three-t-s-that-build-your-babys-brain-according-to-1849000872)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
