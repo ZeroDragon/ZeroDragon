@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Compare Objects in JavaScript](https://dev.to/ugorji_simon/how-to-compare-objects-in-javascript-1jci)
+- [Dev.to/JS] [Redis: Data Caching](https://dev.to/drsimplegraffiti/redis-data-caching-3lla)
+- [Dev.to/JS] [Next.js and Tumblr as a CMS Part 3: Sitemap and RSS](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-part-3-sitemap-and-rss-5go)
+- [Dev.to/JS] [ESLint, Prettier and VSCode Troubleshooting](https://dev.to/bonnie/eslint-prettier-and-vscode-troubleshooting-ljh)
 - [Dev.to/JS] [Dicas para deixar seu relatório de code coverage do Jest mais completo](https://dev.to/brunopinho/dicas-para-deixar-seu-relatorio-de-code-coverage-do-jest-mais-completo-3n6n)
 - [Dev.to/JS] [Paracetamol.js💊| #131: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-131-explica-este-codigo-javascript-4343)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
@@ -36,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [how can i improve the popularity of my site?](https://dev.to/matiasdandrea/how-can-i-increase-the-popularity-of-my-site-af2)
 - [Lifehacker] [The Tastiest Way to Keep Fish From Sticking to the Grill](https://lifehacker.com/the-tastiest-way-to-keep-fish-from-sticking-to-the-gril-1849009316)
 - [Dev.to/JS] [Beginner&#39;s Guide in Testing APIs](https://dev.to/ekqt/beginners-guide-in-testing-apis-1jd8)
-- [Dev.to/JS] [Part 6: Styling the chat widget](https://dev.to/evertvdw/part-6-styling-the-chat-widget-1f2m)
 - [Lifehacker] [You Should Be Shopping Open Box Deals at These Retailers](https://lifehacker.com/you-should-be-shopping-open-box-deals-at-these-retailer-1849007471)
 - [Lifehacker] [How to &#39;Steal&#39; Enough Food From Your Employer to Make Your Commute Worth It](https://lifehacker.com/how-to-steal-enough-food-from-your-employer-to-make-you-1849008703)
-- [Dev.to/JS] [Falsy and Truthy in JavaScript](https://dev.to/lucaspaganini/falsy-and-truthy-in-javascript-56li)
-- [Dev.to/JS] [Early Returns/Exits - Code Patterns in JavaScript](https://dev.to/lucaspaganini/early-returnsexits-code-patterns-in-javascript-113g)
-- [Dev.to/JS] [Despliega tu aplicación NodeJS o Typescript con PM2](https://dev.to/victorargento/despliega-tu-aplicacion-nodejs-o-typescript-con-pm2-5fno)
 - [Lifehacker] [You Can Plan a Cheaper Wedding](https://lifehacker.com/you-can-plan-a-cheaper-wedding-1849007035)
 - [Lifehacker] [Should You Use Nextdoor Instead of Facebook Marketplace?](https://lifehacker.com/should-you-use-nextdoor-instead-of-facebook-marketplace-1849008071)
 - [Lifehacker] [The Difference Between a Deck and Patio &lpar;and How to Choose Which Is Better for You&rpar;](https://lifehacker.com/the-difference-between-a-deck-and-patio-and-how-to-cho-1849006074)
