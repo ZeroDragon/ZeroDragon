@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Should You Use Nextdoor Instead of Facebook Marketplace?](https://lifehacker.com/should-you-use-nextdoor-instead-of-facebook-marketplace-1849008071)
+- [Dev.to/JS] [Simple tic-tac-toe AI using minimax](https://dev.to/carlomonroy/simple-tic-tac-toe-ai-using-minimax-2dfi)
+- [Dev.to/JS] [Buy or sell cryptogoods on your own site!](https://dev.to/gil_finkelstein/buy-or-sell-cryptogoods-on-your-own-site-1gpg)
+- [Lifehacker] [The Difference Between a Deck and Patio &lpar;and How to Choose Which Is Better for You&rpar;](https://lifehacker.com/the-difference-between-a-deck-and-patio-and-how-to-cho-1849006074)
+- [Dev.to/JS] [Building a Full Stack Application on AWS: 100% Serverless](https://dev.to/ixartz/building-a-full-stack-application-on-aws-100-serverless-3idm)
+- [Lifehacker] [The Best Real Estate Apps for Broke, Unmortgaged Millennials](https://lifehacker.com/the-best-real-estate-apps-for-broke-unmortgaged-millen-1849007630)
+- [Dev.to/JS] [The Basics of Web Development.](https://dev.to/barksanto/the-basics-of-web-development-16f5)
 - [Dev.to/JS] [How To Move Objects Around Your Webpage Using Arrow Keys In JavaScript](https://dev.to/nnekajenny/how-to-move-objects-around-your-webpage-using-arrow-keys-in-javascript-23m9)
 - [Dev.to/JS] [Amplication &amp; Angular: Adding Custom Endpoints](https://dev.to/amplication/amplication-angular-adding-custom-endpoints-4pc0)
 - [Dev.to/JS] [useEffect&lpar;&rpar; makes life easier](https://dev.to/amritshenava98/useeffect-makes-life-easier-4532)
@@ -35,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Remove Thin Bacon From Its Packaging Without Tearing It](https://lifehacker.com/how-to-remove-thin-bacon-from-its-packaging-without-tea-1849004618)
 - [Dev.to/JS] [Iniciando em Testes Automatizados em JS/React - Cypress e Playwright [PT-BR]](https://dev.to/llxd/iniciando-em-testes-automatizados-em-jsreact-cypress-e-playwright-pt-br-4hg9)
 - [Dev.to/JS] [Predis.ai | Made with Vue JS](https://dev.to/madewithjavascript/predisai-made-with-vue-js-5984)
-- [Dev.to/JS] [Javascript books to get on your shelf](https://dev.to/glowreeyah/javascript-books-to-get-on-your-shelf-2j8e)
 - [Lifehacker] [You Need to Make These Corn Nuts in Your Air Fryer](https://lifehacker.com/you-should-air-fry-your-corn-nuts-1849003851)
-- [Dev.to/JS] [当我们进行性能优化，我们在优化什么（LightHouse优化实操）](https://dev.to/liuyue/dang-wo-men-jin-xing-xing-neng-you-hua-wo-men-zai-you-hua-shi-yao-lighthouseyou-hua-shi-cao--34o1)
-- [Dev.to/JS] [Medusa v1.3.1: PriceList API, Promotions API, Migrations, And More!](https://dev.to/medusajs/medusa-v131-pricelist-api-promotions-api-migrations-and-more-57jb)
 - [Lifehacker] [Why You Can&#39;t Trust Your Fitness Tracker on Calorie Burn](https://lifehacker.com/why-you-cant-trust-your-fitness-tracker-on-calorie-burn-1849003730)
-- [Dev.to/JS] [Full-Stack Development Has Changed](https://dev.to/mikhailkaran/full-stack-development-has-changed-3pd5)
 - [Lifehacker] [How to Remove Stubborn Cherry Stains From Clothes and Couches](https://lifehacker.com/how-to-remove-stubborn-cherry-stains-from-clothes-and-c-1849003421)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
 - [Lifehacker] [17 Unbreakable Rules of Flight Etiquette, According to Lifehacker Readers](https://lifehacker.com/17-unbreakable-rules-of-flight-etiquette-according-to-1849001695)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do Not Eat Any of These Products That Contain Peanut Butter, FDA Says](https://lifehacker.com/do-not-eat-any-of-these-products-that-contain-peanut-bu-1849000220)
 - [Lifehacker] [How to Finally Cut, Copy, and Paste Files in Google Drive](https://lifehacker.com/how-to-finally-cut-copy-and-paste-files-in-google-dri-1849000671)
 - [Lifehacker] [11 Animal Species That Prove Being Gay Is Natural](https://lifehacker.com/11-animal-species-that-prove-being-gay-is-natural-1848997897)
-- [Lifehacker] [Three of the Best Ways to Improve Your Credit Score](https://lifehacker.com/three-of-the-best-ways-to-improve-your-credit-score-1848996415)
-- [Lifehacker] [The Best Fast Food Apps For Getting Free Stuff](https://lifehacker.com/the-best-fast-food-apps-for-getting-free-stuff-1848997670)
-- [Lifehacker] [Work in These Industries If You Want to Be in a Union](https://lifehacker.com/work-in-these-industries-if-you-want-to-be-in-a-union-1848986455)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
