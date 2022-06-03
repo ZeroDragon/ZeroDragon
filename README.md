@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [https://www.facebook.com/SimpliACVKetoGummiesReviewsOfficial/](https://dev.to/ketoacvreview/httpswwwfacebookcomsimpliacvketogummiesreviewsofficial-497)
+- [Dev.to/JS] [Easily Generate a Horizontal Table with JavaScript](https://dev.to/ugorji_simon/easily-generate-a-horizontal-table-with-javascript-352f)
+- [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;6&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-6-5d4)
 - [Dev.to/JS] [:is&lpar;&rpar; pseudo class](https://dev.to/deepakydv9315/is-pseudo-class-4ojf)
 - [Dev.to/JS] [Cómo tener diferentes versiones de Node.js](https://dev.to/achamorro_dev/como-tener-diferentes-versiones-de-nodejs-17a0)
 - [Dev.to/JS] [How to show the user it&#39;s location in your website](https://dev.to/satvik/how-to-show-the-user-its-location-in-your-website-3if8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#1470 Crazy mathematics. Shuffle the Array in place O&lpar;1&rpar;;](https://dev.to/rajeshroyal/1470-crazy-mathematics-shuffle-the-array-in-place-o1-35cg)
 - [Dev.to/JS] [Rails Join Table - Step by Step Guide to Create a Favoriting Feature in an Ecommerce App](https://dev.to/nissrinecan/rails-join-table-step-by-step-guide-to-create-a-favoriting-feature-in-an-ecommerce-app-ol3)
 - [Dev.to/JS] [Currency Conversion With Fixer: Fixer&#39;s currency conversion and how to use it on your website](https://dev.to/dishamandaar/currency-conversion-with-fixer-fixers-currency-conversion-and-how-to-use-it-on-your-website-lha)
-- [Dev.to/JS] [React - Add prop to component if matches specific condition](https://dev.to/luispuentesvega/react-add-prop-to-component-if-matches-specific-condition-56bm)
-- [Dev.to/JS] [Set Current Date with Format on PostMan Request](https://dev.to/krixnaas/set-current-date-with-format-on-postman-request-1mog)
-- [Dev.to/JS] [How to write Nested Functions in JS &amp; PHP](https://dev.to/ugorji_simon/how-to-write-nested-functions-in-js-php-2c4l)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
