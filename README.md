@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Pathfinding with Javascript: The A* Algorithm](https://dev.to/codesphere/pathfinding-with-javascript-the-a-algorithm-3jlb)
+- [Lifehacker] [Where You Should &lpar;and Shouldn’t&rpar; Tip When You Travel Abroad](https://lifehacker.com/where-you-should-and-shouldn-t-tip-when-you-travel-ab-1849010821)
+- [Dev.to/JS] [tryna make dev.to, with dev.to](https://dev.to/atordvairn/tryna-make-devto-with-devto-5cc6)
+- [Dev.to/JS] [JavaScript Hoisting and Function Types](https://dev.to/lucaspaganini/javascript-hoisting-and-function-types-8db)
+- [Dev.to/JS] [Intersection observer and infinite scroll in a visual way](https://dev.to/lucaspaganini/intersection-observer-and-infinite-scroll-in-a-visual-way-1i99)
+- [Dev.to/JS] [How to Integrate Microsoft Office in react application](https://dev.to/gopusrikanth04/hot-to-integrate-microsoft-office-in-react-apllication-2bjk)
 - [Dev.to/JS] [Improving developer experience as well as front-end performance with webpack.](https://dev.to/nickbahson/improving-developer-experience-as-well-as-front-end-performance-with-webpack-2bke)
 - [Dev.to/JS] [LeetCode : Maximum 69 Number with Solutions](https://dev.to/rohan2596/leetcode-maximum-69-number-with-solutions-14bf)
 - [Dev.to/JS] [Spring Boot](https://dev.to/abdessalambou/spring-boot-2jk0)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easily Generate a Horizontal Table with JavaScript](https://dev.to/ugorji_simon/easily-generate-a-horizontal-table-with-javascript-352f)
 - [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;6&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-6-5d4)
 - [Dev.to/JS] [:is&lpar;&rpar; pseudo class](https://dev.to/deepakydv9315/is-pseudo-class-4ojf)
-- [Dev.to/JS] [Cómo tener diferentes versiones de Node.js](https://dev.to/achamorro_dev/como-tener-diferentes-versiones-de-nodejs-17a0)
-- [Dev.to/JS] [How to show the user it&#39;s location in your website](https://dev.to/satvik/how-to-show-the-user-its-location-in-your-website-3if8)
-- [Dev.to/JS] [Angular 14 is here!](https://dev.to/pranambhat/angular-14-is-here-4hdn)
-- [Dev.to/JS] [Finding the Way with useNavigate&lpar;&rpar; in React](https://dev.to/penelopedurand/finding-the-way-with-usenavigate-in-react-2632)
-- [Dev.to/JS] [Convert a Roman numeral into a number with TDD and javascript](https://dev.to/emunhoz/convert-a-roman-numeral-into-a-number-with-tdd-13d7)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Grocery Store Alternatives to Girl Scout Cookies](https://lifehacker.com/the-best-grocery-store-alternatives-to-girl-scout-cooki-1849002409)
 - [Lifehacker] [18 of the Best Dinosaur Movies and Documentaries Ever &lpar;Besides ‘Jurassic Park’&rpar;](https://lifehacker.com/18-of-the-best-dinosaur-movies-and-documentaries-ever-1848997520)
 - [Lifehacker] [The Best Beach Sandwich Has Only Three Ingredients](https://lifehacker.com/the-best-beach-sandwich-has-only-three-ingredients-1849002302)
-- [Lifehacker] [12 of the Best Movies and TV Shows Available to Stream in June 2022](https://lifehacker.com/12-of-the-best-movies-and-tv-shows-available-to-stream-1848996215)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
