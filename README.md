@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular 14 is here!](https://dev.to/pranambhat/angular-14-is-here-4hdn)
 - [Dev.to/JS] [Finding the Way with useNavigate&lpar;&rpar; in React](https://dev.to/penelopedurand/finding-the-way-with-usenavigate-in-react-2632)
 - [Dev.to/JS] [Convert a Roman numeral into a number with TDD and javascript](https://dev.to/emunhoz/convert-a-roman-numeral-into-a-number-with-tdd-13d7)
 - [Dev.to/JS] [#1470 Crazy mathematics. Shuffle the Array in place O&lpar;1&rpar;;](https://dev.to/rajeshroyal/1470-crazy-mathematics-shuffle-the-array-in-place-o1-35cg)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redis For Javascript | Redis clients and connecting to Redis | part 2](https://dev.to/itsvinayak/redis-for-javascript-redis-clients-and-connecting-to-redis-part-2-1865)
 - [Dev.to/JS] [Calculate The Difference Between Two &lpar;2&rpar; dates with JavaScript](https://dev.to/ugorji_simon/calculate-the-difference-between-two-2-dates-with-javascript-17dd)
 - [Dev.to/JS] [Easily Generate Custom Date Field Input with JavaScript](https://dev.to/ugorji_simon/easily-generate-custom-date-field-input-with-javascript-mp1)
-- [Dev.to/JS] [How I Copied About 3968 Records From a Website Using JavaScript](https://dev.to/ugorji_simon/how-i-copied-about-3968-records-from-a-website-using-javascript-593m)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
