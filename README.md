@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [VIDEO: How to modularize your monolith frontend](https://dev.to/richkurtzman/video-how-to-modularize-your-monolith-frontend-15eg)
+- [Dev.to/JS] [Build on FLOW | Learn FCL - 5. Get a List of NFTs Living at Known Address](https://dev.to/onflow/build-on-flow-learn-fcl-5-get-a-list-of-nfts-living-at-known-address-23on)
+- [Dev.to/JS] [E2E Testing a Video Game](https://dev.to/philscode/e2e-testing-a-video-game-2okh)
+- [Dev.to/JS] [Trigger Event when Element Scrolled into Viewport with Angular&#39;s @HostListener](https://dev.to/riapacheco/trigger-event-when-element-scrolled-into-viewport-with-angulars-hostlistener-3ofh)
+- [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
+- [Dev.to/JS] [How to Build a Responsive Dashboard Application in Angular — Part 3](https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-part-3-m0g)
 - [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
 - [Dev.to/JS] [Enhance Your Audio With Dolby.io For Higher Quality Transcripts](https://dev.to/deepgram/enhance-your-audio-with-dolbyio-for-higher-quality-transcripts-1c7e)
 - [Lifehacker] [Try These Breakfast Ideas That Aren&#39;t All Carbs](https://lifehacker.com/try-these-breakfast-ideas-that-arent-all-carbs-1848963897)
@@ -34,15 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Speed Up JavaScript Testing With Selenium and WebDriverIO?](https://dev.to/lambdatest/how-to-speed-up-javascript-testing-with-selenium-and-webdriverio-4ceb)
 - [Dev.to/JS] [Symfony Station Communiqué — 03 June 2022. A look at Symfony, PHP, and Cybersecurity news!](https://dev.to/reubenwalker64/symfony-station-communique-03-june-2022-a-look-at-symfony-php-and-cybersecurity-news-4i4p)
 - [Dev.to/JS] [Builder pattern: validation class](https://dev.to/jucian0/builder-pattern-validation-class-2nc3)
-- [Dev.to/JS] [How to Use a JavaScript Reporting Tool in Your Java Web Application](https://dev.to/chelseadevereaux/how-to-use-a-javascript-reporting-tool-in-your-java-web-application-j1h)
-- [Dev.to/JS] [How to Upload Files in 2022?](https://dev.to/_ezell_/how-to-upload-files-in-2022-ile)
-- [Dev.to/JS] [2D sketches with React and the Canvas API](https://dev.to/asayerio_techblog/2d-sketches-with-react-and-the-canvas-api-4hdg)
 - [Lifehacker] [This Cucumber Gimlet Is a Weekend Necessity](https://lifehacker.com/this-cucumber-gimlet-is-a-weekend-necessity-1849014429)
 - [Lifehacker] [Don&#39;t Get Burned by These Five Sunscreen Myths](https://lifehacker.com/dont-get-burned-by-these-five-sunscreen-myths-1849014936)
 - [Lifehacker] [The Easiest Ways to Make Your Cell Phone Bill Cheaper](https://lifehacker.com/the-easiest-ways-to-cut-down-your-cell-phone-bill-1849014104)
 - [Lifehacker] [Why You Should Book a Budget Hotel Over Luxury Lodging &lpar;Besides Saving Money&rpar;](https://lifehacker.com/why-you-should-book-a-budget-hotel-over-luxury-lodging-1849011167)
-- [Dev.to/JS] [⭐Angular 14 Features ⭐](https://dev.to/sandeepbalachandran/angular-14-features-14ip)
-- [Dev.to/JS] [My misadventures with the useSelector hook](https://dev.to/tsbrun/my-misadventures-with-the-useselector-hook-5gdl)
 - [Lifehacker] [How to Make Staying at a Hotel With Your Kids Suck Less](https://lifehacker.com/how-to-make-staying-at-a-hotel-with-your-kids-suck-less-1849013334)
 - [Lifehacker] [The Best Cheap and Easy DIY Planters](https://lifehacker.com/the-best-cheap-and-easy-diy-planters-1849012418)
 - [Lifehacker] [You Can Make Instagram DMs Better](https://lifehacker.com/you-can-make-instagram-dms-better-1849012763)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Tastiest Way to Keep Fish From Sticking to the Grill](https://lifehacker.com/the-tastiest-way-to-keep-fish-from-sticking-to-the-gril-1849009316)
 - [Lifehacker] [You Should Be Shopping Open Box Deals at These Retailers](https://lifehacker.com/you-should-be-shopping-open-box-deals-at-these-retailer-1849007471)
 - [Lifehacker] [How to &#39;Steal&#39; Enough Food From Your Employer to Make Your Commute Worth It](https://lifehacker.com/how-to-steal-enough-food-from-your-employer-to-make-you-1849008703)
-- [Lifehacker] [You Can Plan a Cheaper Wedding](https://lifehacker.com/you-can-plan-a-cheaper-wedding-1849007035)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
