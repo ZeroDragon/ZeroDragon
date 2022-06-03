@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How I Copied About 3968 Records From a Website Using JavaScript](https://dev.to/ugorji_simon/how-i-copied-about-3968-records-from-a-website-using-javascript-593m)
+- [Dev.to/JS] [Client-Side Form Validation Using octaValidate](https://dev.to/ugorji_simon/client-side-form-validation-using-octavalidate-1ja2)
+- [Dev.to/JS] [Consistent Hashing Simulator](https://dev.to/ion/consistent-hashing-simulator-go3)
+- [Dev.to/JS] [How To Build A Stopwatch in JavaScript](https://dev.to/ugorji_simon/how-to-build-a-stopwatch-in-javascript-58gg)
+- [Dev.to/JS] [Grokking Partial Application](https://dev.to/pancy/grokking-partial-application-e8l)
 - [Dev.to/JS] [How to Compare Objects in JavaScript](https://dev.to/ugorji_simon/how-to-compare-objects-in-javascript-1jci)
 - [Dev.to/JS] [Redis: Data Caching](https://dev.to/drsimplegraffiti/redis-data-caching-3lla)
 - [Dev.to/JS] [Next.js and Tumblr as a CMS Part 3: Sitemap and RSS](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-part-3-sitemap-and-rss-5go)
@@ -33,13 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Dev.to/JS] [How low-code and no-code tools help foster inclusivity](https://dev.to/richkurtzman/how-low-code-and-no-code-tools-help-foster-inclusivity-hhh)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
-- [Dev.to/JS] [Criando Crons no Nestjs](https://dev.to/yanpiing/criando-crons-no-nestjs-4dkf)
-- [Dev.to/JS] [VinlaStudio](https://dev.to/adhamta/vinlastudio-pm)
 - [Lifehacker] [Seven Easy Ways to Cut Costs on Everyday Household Items](https://lifehacker.com/seven-easy-ways-to-cut-costs-on-everyday-household-item-1849009641)
-- [Dev.to/JS] [Accordion in vanilla JavaScript](https://dev.to/vadimfilimonov/accordion-in-vanilla-javascript-2a85)
-- [Dev.to/JS] [how can i improve the popularity of my site?](https://dev.to/matiasdandrea/how-can-i-increase-the-popularity-of-my-site-af2)
 - [Lifehacker] [The Tastiest Way to Keep Fish From Sticking to the Grill](https://lifehacker.com/the-tastiest-way-to-keep-fish-from-sticking-to-the-gril-1849009316)
-- [Dev.to/JS] [Beginner&#39;s Guide in Testing APIs](https://dev.to/ekqt/beginners-guide-in-testing-apis-1jd8)
 - [Lifehacker] [You Should Be Shopping Open Box Deals at These Retailers](https://lifehacker.com/you-should-be-shopping-open-box-deals-at-these-retailer-1849007471)
 - [Lifehacker] [How to &#39;Steal&#39; Enough Food From Your Employer to Make Your Commute Worth It](https://lifehacker.com/how-to-steal-enough-food-from-your-employer-to-make-you-1849008703)
 - [Lifehacker] [You Can Plan a Cheaper Wedding](https://lifehacker.com/you-can-plan-a-cheaper-wedding-1849007035)
