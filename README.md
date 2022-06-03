@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rails Join Table - Step by Step Guide to Create a Favoriting Feature in an Ecommerce App](https://dev.to/nissrinecan/rails-join-table-step-by-step-guide-to-create-a-favoriting-feature-in-an-ecommerce-app-ol3)
+- [Dev.to/JS] [Currency Conversion With Fixer: Fixer&#39;s currency conversion and how to use it on your website](https://dev.to/dishamandaar/currency-conversion-with-fixer-fixers-currency-conversion-and-how-to-use-it-on-your-website-lha)
 - [Dev.to/JS] [React - Add prop to component if matches specific condition](https://dev.to/luispuentesvega/react-add-prop-to-component-if-matches-specific-condition-56bm)
 - [Dev.to/JS] [Set Current Date with Format on PostMan Request](https://dev.to/krixnaas/set-current-date-with-format-on-postman-request-1mog)
 - [Dev.to/JS] [How to write Nested Functions in JS &amp; PHP](https://dev.to/ugorji_simon/how-to-write-nested-functions-in-js-php-2c4l)
+- [Dev.to/JS] [Redis For Javascript | Redis clients and connecting to Redis | part 2](https://dev.to/itsvinayak/redis-for-javascript-redis-clients-and-connecting-to-redis-part-2-1865)
 - [Dev.to/JS] [Calculate The Difference Between Two &lpar;2&rpar; dates with JavaScript](https://dev.to/ugorji_simon/calculate-the-difference-between-two-2-dates-with-javascript-17dd)
 - [Dev.to/JS] [Easily Generate Custom Date Field Input with JavaScript](https://dev.to/ugorji_simon/easily-generate-custom-date-field-input-with-javascript-mp1)
 - [Dev.to/JS] [How I Copied About 3968 Records From a Website Using JavaScript](https://dev.to/ugorji_simon/how-i-copied-about-3968-records-from-a-website-using-javascript-593m)
 - [Dev.to/JS] [Client-Side Form Validation Using octaValidate](https://dev.to/ugorji_simon/client-side-form-validation-using-octavalidate-1ja2)
 - [Dev.to/JS] [Consistent Hashing Simulator](https://dev.to/ion/consistent-hashing-simulator-go3)
 - [Dev.to/JS] [How To Build A Stopwatch in JavaScript](https://dev.to/ugorji_simon/how-to-build-a-stopwatch-in-javascript-58gg)
-- [Dev.to/JS] [Grokking Partial Application](https://dev.to/pancy/grokking-partial-application-e8l)
-- [Dev.to/JS] [How to Compare Objects in JavaScript](https://dev.to/ugorji_simon/how-to-compare-objects-in-javascript-1jci)
-- [Dev.to/JS] [Redis: Data Caching](https://dev.to/drsimplegraffiti/redis-data-caching-3lla)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
