@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Make Instagram DMs Better](https://lifehacker.com/you-can-make-instagram-dms-better-1849012763)
+- [Lifehacker] [How to Date When You Still Live With Your Parents](https://lifehacker.com/how-to-date-when-you-still-live-with-your-parents-1849011669)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Who Actually Won the Depp v. Heard Trial?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-actua-1849012625)
 - [Dev.to/JS] [My First NPM Package react-native-paginated-modal-picker](https://dev.to/ahmedhalbas/my-first-npm-package-react-native-paginated-modal-picker-4d1l)
 - [Dev.to/JS] [Paracetamol.js💊| #132: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-132-explica-este-codigo-javascript-1fpn)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Can&#39;t Trust Your Fitness Tracker on Calorie Burn](https://lifehacker.com/why-you-cant-trust-your-fitness-tracker-on-calorie-burn-1849003730)
 - [Lifehacker] [How to Remove Stubborn Cherry Stains From Clothes and Couches](https://lifehacker.com/how-to-remove-stubborn-cherry-stains-from-clothes-and-c-1849003421)
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
-- [Lifehacker] [17 Unbreakable Rules of Flight Etiquette, According to Lifehacker Readers](https://lifehacker.com/17-unbreakable-rules-of-flight-etiquette-according-to-1849001695)
-- [Lifehacker] [How Do You Keep From Becoming Cynical As You Get Older?](https://lifehacker.com/how-do-you-keep-from-becoming-cynical-as-you-get-older-1849002675)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
