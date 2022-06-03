@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Who Actually Won the Depp v. Heard Trial?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-actua-1849012625)
+- [Dev.to/JS] [My First NPM Package react-native-paginated-modal-picker](https://dev.to/ahmedhalbas/my-first-npm-package-react-native-paginated-modal-picker-4d1l)
+- [Dev.to/JS] [Paracetamol.js💊| #132: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-132-explica-este-codigo-javascript-1fpn)
+- [Dev.to/JS] [Using Workers KV to build an edge cached blog 🌍](https://dev.to/bryce/using-workers-kv-to-build-an-edge-cached-blog-23fo)
+- [Lifehacker] [Should You Play This ‘Swear Word Alphabet’ Game With Your Kids?](https://lifehacker.com/should-you-play-this-swear-word-alphabet-game-with-yo-1849012292)
+- [Dev.to/JS] [Builder pattern: with an example](https://dev.to/jucian0/builder-pattern-with-an-example-1k10)
 - [Dev.to/JS] [Running Perp-maker for Profits and Fun: Part 1](https://dev.to/perpprotocol/running-perp-maker-for-profits-and-fun-part-1-5597)
 - [Dev.to/JS] [Convert number to string in JS](https://dev.to/nsijwali/convert-number-to-string-in-js-822)
 - [Dev.to/JS] [Customize select with vanilla JavaScript](https://dev.to/vadimfilimonov/customize-select-with-vanilla-javascript-32ig)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pathfinding with Javascript: The A* Algorithm](https://dev.to/codesphere/pathfinding-with-javascript-the-a-algorithm-3jlb)
 - [Lifehacker] [Where You Should &lpar;and Shouldn’t&rpar; Tip When You Travel Abroad](https://lifehacker.com/where-you-should-and-shouldn-t-tip-when-you-travel-ab-1849010821)
 - [Dev.to/JS] [tryna make dev.to, with dev.to](https://dev.to/atordvairn/tryna-make-devto-with-devto-5cc6)
-- [Dev.to/JS] [JavaScript Hoisting and Function Types](https://dev.to/lucaspaganini/javascript-hoisting-and-function-types-8db)
-- [Dev.to/JS] [Intersection observer and infinite scroll in a visual way](https://dev.to/lucaspaganini/intersection-observer-and-infinite-scroll-in-a-visual-way-1i99)
-- [Dev.to/JS] [How to Integrate Microsoft Office in react application](https://dev.to/gopusrikanth04/hot-to-integrate-microsoft-office-in-react-apllication-2bjk)
-- [Dev.to/JS] [Improving developer experience as well as front-end performance with webpack.](https://dev.to/nickbahson/improving-developer-experience-as-well-as-front-end-performance-with-webpack-2bke)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
 - [Lifehacker] [17 Unbreakable Rules of Flight Etiquette, According to Lifehacker Readers](https://lifehacker.com/17-unbreakable-rules-of-flight-etiquette-according-to-1849001695)
 - [Lifehacker] [How Do You Keep From Becoming Cynical As You Get Older?](https://lifehacker.com/how-do-you-keep-from-becoming-cynical-as-you-get-older-1849002675)
-- [Lifehacker] [The Best Grocery Store Alternatives to Girl Scout Cookies](https://lifehacker.com/the-best-grocery-store-alternatives-to-girl-scout-cooki-1849002409)
-- [Lifehacker] [18 of the Best Dinosaur Movies and Documentaries Ever &lpar;Besides ‘Jurassic Park’&rpar;](https://lifehacker.com/18-of-the-best-dinosaur-movies-and-documentaries-ever-1848997520)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
