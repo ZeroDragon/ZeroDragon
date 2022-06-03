@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Spring Boot](https://dev.to/abdessalambou/spring-boot-2jk0)
 - [Dev.to/JS] [https://www.facebook.com/SimpliACVKetoGummiesReviewsOfficial/](https://dev.to/ketoacvreview/httpswwwfacebookcomsimpliacvketogummiesreviewsofficial-497)
 - [Dev.to/JS] [Easily Generate a Horizontal Table with JavaScript](https://dev.to/ugorji_simon/easily-generate-a-horizontal-table-with-javascript-352f)
 - [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;6&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-6-5d4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Convert a Roman numeral into a number with TDD and javascript](https://dev.to/emunhoz/convert-a-roman-numeral-into-a-number-with-tdd-13d7)
 - [Dev.to/JS] [#1470 Crazy mathematics. Shuffle the Array in place O&lpar;1&rpar;;](https://dev.to/rajeshroyal/1470-crazy-mathematics-shuffle-the-array-in-place-o1-35cg)
 - [Dev.to/JS] [Rails Join Table - Step by Step Guide to Create a Favoriting Feature in an Ecommerce App](https://dev.to/nissrinecan/rails-join-table-step-by-step-guide-to-create-a-favoriting-feature-in-an-ecommerce-app-ol3)
-- [Dev.to/JS] [Currency Conversion With Fixer: Fixer&#39;s currency conversion and how to use it on your website](https://dev.to/dishamandaar/currency-conversion-with-fixer-fixers-currency-conversion-and-how-to-use-it-on-your-website-lha)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
