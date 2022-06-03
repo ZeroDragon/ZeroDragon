@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don&#39;t Get Burned by These Five Sunscreen Myths](https://lifehacker.com/dont-get-burned-by-these-five-sunscreen-myths-1849014936)
+- [Lifehacker] [The Easiest Ways to Make Your Cell Phone Bill Cheaper](https://lifehacker.com/the-easiest-ways-to-cut-down-your-cell-phone-bill-1849014104)
 - [Lifehacker] [Why You Should Book a Budget Hotel Over Luxury Lodging &lpar;Besides Saving Money&rpar;](https://lifehacker.com/why-you-should-book-a-budget-hotel-over-luxury-lodging-1849011167)
 - [Dev.to/JS] [⭐Angular 14 Features ⭐](https://dev.to/sandeepbalachandran/angular-14-features-14ip)
 - [Dev.to/JS] [My misadventures with the useSelector hook](https://dev.to/tsbrun/my-misadventures-with-the-useselector-hook-5gdl)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Your Sunburn Might Actually Need Medical Attention](https://lifehacker.com/how-to-tell-if-your-sunburn-might-actually-need-medical-1848996583)
 - [Lifehacker] [How to Search, Translate, or OCR Any Image In Chrome on Desktop](https://lifehacker.com/how-to-search-translate-or-ocr-any-image-in-chrome-on-1849006247)
 - [Lifehacker] [How to Raise Chickens Even If You Live in a City](https://lifehacker.com/how-to-raise-chickens-even-if-you-live-in-a-city-1849004512)
-- [Lifehacker] [How to Remove Thin Bacon From Its Packaging Without Tearing It](https://lifehacker.com/how-to-remove-thin-bacon-from-its-packaging-without-tea-1849004618)
-- [Lifehacker] [You Need to Make These Corn Nuts in Your Air Fryer](https://lifehacker.com/you-should-air-fry-your-corn-nuts-1849003851)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
