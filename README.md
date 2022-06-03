@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Book a Budget Hotel Over Luxury Lodging &lpar;Besides Saving Money&rpar;](https://lifehacker.com/why-you-should-book-a-budget-hotel-over-luxury-lodging-1849011167)
+- [Dev.to/JS] [⭐Angular 14 Features ⭐](https://dev.to/sandeepbalachandran/angular-14-features-14ip)
+- [Dev.to/JS] [My misadventures with the useSelector hook](https://dev.to/tsbrun/my-misadventures-with-the-useselector-hook-5gdl)
+- [Lifehacker] [How to Make Staying at a Hotel With Your Kids Suck Less](https://lifehacker.com/how-to-make-staying-at-a-hotel-with-your-kids-suck-less-1849013334)
+- [Dev.to/JS] [JAVASCRIPT](https://dev.to/dantechnologics/javascript-5fm0)
+- [Dev.to/JS] [Nullish Coalescing Operator&lpar;??&rpar;](https://dev.to/sahiba0915/nullish-coalescing-operator-452i)
+- [Dev.to/JS] [Angular: Lifecycle hooks and their practical usage](https://dev.to/rohitsingh09/angular-lifecycle-hooks-and-their-practical-usage-7k4)
+- [Lifehacker] [The Best Cheap and Easy DIY Planters](https://lifehacker.com/the-best-cheap-and-easy-diy-planters-1849012418)
 - [Lifehacker] [You Can Make Instagram DMs Better](https://lifehacker.com/you-can-make-instagram-dms-better-1849012763)
 - [Lifehacker] [How to Date When You Still Live With Your Parents](https://lifehacker.com/how-to-date-when-you-still-live-with-your-parents-1849011669)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Who Actually Won the Depp v. Heard Trial?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-actua-1849012625)
@@ -35,12 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Convert number to string in JS](https://dev.to/nsijwali/convert-number-to-string-in-js-822)
 - [Dev.to/JS] [Customize select with vanilla JavaScript](https://dev.to/vadimfilimonov/customize-select-with-vanilla-javascript-32ig)
 - [Lifehacker] [How to Share Your Sex Fantasies With Your Partner Without Feeling Weird](https://lifehacker.com/how-to-share-your-sex-fantasies-with-your-partner-witho-1849011174)
-- [Dev.to/JS] [A super lightweight javascript library for manual data masking.](https://dev.to/hc200ok/a-super-lightweight-javascript-library-for-manual-data-masking-19a3)
-- [Dev.to/JS] [Building fast data visualization apps with Cube and Supabase](https://dev.to/cubejs/building-fast-data-visualization-apps-with-cube-and-supabase-f89)
-- [Dev.to/JS] [Code Smell 138 - Packages Dependency](https://dev.to/mcsee/code-smell-138-packages-dependency-36d8)
-- [Dev.to/JS] [Pathfinding with Javascript: The A* Algorithm](https://dev.to/codesphere/pathfinding-with-javascript-the-a-algorithm-3jlb)
 - [Lifehacker] [Where You Should &lpar;and Shouldn’t&rpar; Tip When You Travel Abroad](https://lifehacker.com/where-you-should-and-shouldn-t-tip-when-you-travel-ab-1849010821)
-- [Dev.to/JS] [tryna make dev.to, with dev.to](https://dev.to/atordvairn/tryna-make-devto-with-devto-5cc6)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Raise Chickens Even If You Live in a City](https://lifehacker.com/how-to-raise-chickens-even-if-you-live-in-a-city-1849004512)
 - [Lifehacker] [How to Remove Thin Bacon From Its Packaging Without Tearing It](https://lifehacker.com/how-to-remove-thin-bacon-from-its-packaging-without-tea-1849004618)
 - [Lifehacker] [You Need to Make These Corn Nuts in Your Air Fryer](https://lifehacker.com/you-should-air-fry-your-corn-nuts-1849003851)
-- [Lifehacker] [Why You Can&#39;t Trust Your Fitness Tracker on Calorie Burn](https://lifehacker.com/why-you-cant-trust-your-fitness-tracker-on-calorie-burn-1849003730)
-- [Lifehacker] [How to Remove Stubborn Cherry Stains From Clothes and Couches](https://lifehacker.com/how-to-remove-stubborn-cherry-stains-from-clothes-and-c-1849003421)
-- [Lifehacker] [What to Do &lpar;and Not Do&rpar; If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-and-not-do-if-you-ever-get-fired-or-laid-o-1849003222)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
