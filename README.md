@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;7&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-7-3ij6)
+- [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Dev.to/JS] [VIDEO: How to modularize your monolith frontend](https://dev.to/richkurtzman/video-how-to-modularize-your-monolith-frontend-15eg)
 - [Dev.to/JS] [Build on FLOW | Learn FCL - 5. Get a List of NFTs Living at Known Address](https://dev.to/onflow/build-on-flow-learn-fcl-5-get-a-list-of-nfts-living-at-known-address-23on)
 - [Dev.to/JS] [E2E Testing a Video Game](https://dev.to/philscode/e2e-testing-a-video-game-2okh)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Up Your Ice Cream Game With One of These Easy Sundae Sauces](https://lifehacker.com/up-your-ice-cream-game-with-one-of-these-easy-sundae-sa-1849015466)
 - [Dev.to/JS] [How To Speed Up JavaScript Testing With Selenium and WebDriverIO?](https://dev.to/lambdatest/how-to-speed-up-javascript-testing-with-selenium-and-webdriverio-4ceb)
 - [Dev.to/JS] [Symfony Station Communiqué — 03 June 2022. A look at Symfony, PHP, and Cybersecurity news!](https://dev.to/reubenwalker64/symfony-station-communique-03-june-2022-a-look-at-symfony-php-and-cybersecurity-news-4i4p)
-- [Dev.to/JS] [Builder pattern: validation class](https://dev.to/jucian0/builder-pattern-validation-class-2nc3)
 - [Lifehacker] [This Cucumber Gimlet Is a Weekend Necessity](https://lifehacker.com/this-cucumber-gimlet-is-a-weekend-necessity-1849014429)
 - [Lifehacker] [Don&#39;t Get Burned by These Five Sunscreen Myths](https://lifehacker.com/dont-get-burned-by-these-five-sunscreen-myths-1849014936)
 - [Lifehacker] [The Easiest Ways to Make Your Cell Phone Bill Cheaper](https://lifehacker.com/the-easiest-ways-to-cut-down-your-cell-phone-bill-1849014104)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Reasons to Buy a Wii in 2022](https://lifehacker.com/10-reasons-to-buy-a-wii-in-2022-1849008114)
 - [Lifehacker] [The Tastiest Way to Keep Fish From Sticking to the Grill](https://lifehacker.com/the-tastiest-way-to-keep-fish-from-sticking-to-the-gril-1849009316)
 - [Lifehacker] [You Should Be Shopping Open Box Deals at These Retailers](https://lifehacker.com/you-should-be-shopping-open-box-deals-at-these-retailer-1849007471)
-- [Lifehacker] [How to &#39;Steal&#39; Enough Food From Your Employer to Make Your Commute Worth It](https://lifehacker.com/how-to-steal-enough-food-from-your-employer-to-make-you-1849008703)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
