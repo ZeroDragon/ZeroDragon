@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Speed Up JavaScript Testing With Selenium and WebDriverIO?](https://dev.to/lambdatest/how-to-speed-up-javascript-testing-with-selenium-and-webdriverio-4ceb)
+- [Dev.to/JS] [Symfony Station Communiqué — 03 June 2022. A look at Symfony, PHP, and Cybersecurity news!](https://dev.to/reubenwalker64/symfony-station-communique-03-june-2022-a-look-at-symfony-php-and-cybersecurity-news-4i4p)
+- [Dev.to/JS] [Builder pattern: validation class](https://dev.to/jucian0/builder-pattern-validation-class-2nc3)
+- [Dev.to/JS] [How to Use a JavaScript Reporting Tool in Your Java Web Application](https://dev.to/chelseadevereaux/how-to-use-a-javascript-reporting-tool-in-your-java-web-application-j1h)
+- [Dev.to/JS] [How to Upload Files in 2022?](https://dev.to/_ezell_/how-to-upload-files-in-2022-ile)
+- [Dev.to/JS] [2D sketches with React and the Canvas API](https://dev.to/asayerio_techblog/2d-sketches-with-react-and-the-canvas-api-4hdg)
+- [Lifehacker] [This Cucumber Gimlet Is a Weekend Necessity](https://lifehacker.com/this-cucumber-gimlet-is-a-weekend-necessity-1849014429)
 - [Lifehacker] [Don&#39;t Get Burned by These Five Sunscreen Myths](https://lifehacker.com/dont-get-burned-by-these-five-sunscreen-myths-1849014936)
 - [Lifehacker] [The Easiest Ways to Make Your Cell Phone Bill Cheaper](https://lifehacker.com/the-easiest-ways-to-cut-down-your-cell-phone-bill-1849014104)
 - [Lifehacker] [Why You Should Book a Budget Hotel Over Luxury Lodging &lpar;Besides Saving Money&rpar;](https://lifehacker.com/why-you-should-book-a-budget-hotel-over-luxury-lodging-1849011167)
@@ -37,13 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Date When You Still Live With Your Parents](https://lifehacker.com/how-to-date-when-you-still-live-with-your-parents-1849011669)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide To Kid Culture: Who Actually Won the Depp v. Heard Trial?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-actua-1849012625)
 - [Dev.to/JS] [My First NPM Package react-native-paginated-modal-picker](https://dev.to/ahmedhalbas/my-first-npm-package-react-native-paginated-modal-picker-4d1l)
-- [Dev.to/JS] [Paracetamol.js💊| #132: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-132-explica-este-codigo-javascript-1fpn)
-- [Dev.to/JS] [Using Workers KV to build an edge cached blog 🌍](https://dev.to/bryce/using-workers-kv-to-build-an-edge-cached-blog-23fo)
 - [Lifehacker] [Should You Play This ‘Swear Word Alphabet’ Game With Your Kids?](https://lifehacker.com/should-you-play-this-swear-word-alphabet-game-with-yo-1849012292)
-- [Dev.to/JS] [Builder pattern: with an example](https://dev.to/jucian0/builder-pattern-with-an-example-1k10)
-- [Dev.to/JS] [Running Perp-maker for Profits and Fun: Part 1](https://dev.to/perpprotocol/running-perp-maker-for-profits-and-fun-part-1-5597)
-- [Dev.to/JS] [Convert number to string in JS](https://dev.to/nsijwali/convert-number-to-string-in-js-822)
-- [Dev.to/JS] [Customize select with vanilla JavaScript](https://dev.to/vadimfilimonov/customize-select-with-vanilla-javascript-32ig)
 - [Lifehacker] [How to Share Your Sex Fantasies With Your Partner Without Feeling Weird](https://lifehacker.com/how-to-share-your-sex-fantasies-with-your-partner-witho-1849011174)
 - [Lifehacker] [Where You Should &lpar;and Shouldn’t&rpar; Tip When You Travel Abroad](https://lifehacker.com/where-you-should-and-shouldn-t-tip-when-you-travel-ab-1849010821)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Real Estate Apps for Broke, Unmortgaged Millennials](https://lifehacker.com/the-best-real-estate-apps-for-broke-unmortgaged-millen-1849007630)
 - [Lifehacker] [How to Tell If Your Sunburn Might Actually Need Medical Attention](https://lifehacker.com/how-to-tell-if-your-sunburn-might-actually-need-medical-1848996583)
 - [Lifehacker] [How to Search, Translate, or OCR Any Image In Chrome on Desktop](https://lifehacker.com/how-to-search-translate-or-ocr-any-image-in-chrome-on-1849006247)
-- [Lifehacker] [How to Raise Chickens Even If You Live in a City](https://lifehacker.com/how-to-raise-chickens-even-if-you-live-in-a-city-1849004512)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
