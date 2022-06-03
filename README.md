@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
+- [Dev.to/JS] [Enhance Your Audio With Dolby.io For Higher Quality Transcripts](https://dev.to/deepgram/enhance-your-audio-with-dolbyio-for-higher-quality-transcripts-1c7e)
+- [Lifehacker] [Try These Breakfast Ideas That Aren&#39;t All Carbs](https://lifehacker.com/try-these-breakfast-ideas-that-arent-all-carbs-1848963897)
+- [Lifehacker] [Are Sit-Ups Actually Bad for Your Back?](https://lifehacker.com/are-sit-ups-actually-bad-for-your-back-1849015354)
 - [Dev.to/JS] [How to Build a Responsive Dashboard Application in Angular — Part 2](https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-part-2-1d1e)
 - [Dev.to/JS] [React Fiber, Virtual DOM and Shadow DOM - The Ultimate Front-End Interview Questions Guide Pt: 2](https://dev.to/aryclenio/react-fiber-virtual-dom-and-shadow-dom-the-ultimate-front-end-interview-questions-guide-pt-2-11fd)
 - [Dev.to/JS] [Python 8 Important Concepts to learn](https://dev.to/bekbrace/python-8-important-concepts-to-learn-jg6)
@@ -40,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [⭐Angular 14 Features ⭐](https://dev.to/sandeepbalachandran/angular-14-features-14ip)
 - [Dev.to/JS] [My misadventures with the useSelector hook](https://dev.to/tsbrun/my-misadventures-with-the-useselector-hook-5gdl)
 - [Lifehacker] [How to Make Staying at a Hotel With Your Kids Suck Less](https://lifehacker.com/how-to-make-staying-at-a-hotel-with-your-kids-suck-less-1849013334)
-- [Dev.to/JS] [JAVASCRIPT](https://dev.to/dantechnologics/javascript-5fm0)
 - [Lifehacker] [The Best Cheap and Easy DIY Planters](https://lifehacker.com/the-best-cheap-and-easy-diy-planters-1849012418)
 - [Lifehacker] [You Can Make Instagram DMs Better](https://lifehacker.com/you-can-make-instagram-dms-better-1849012763)
 - [Lifehacker] [How to Date When You Still Live With Your Parents](https://lifehacker.com/how-to-date-when-you-still-live-with-your-parents-1849011669)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Be Shopping Open Box Deals at These Retailers](https://lifehacker.com/you-should-be-shopping-open-box-deals-at-these-retailer-1849007471)
 - [Lifehacker] [How to &#39;Steal&#39; Enough Food From Your Employer to Make Your Commute Worth It](https://lifehacker.com/how-to-steal-enough-food-from-your-employer-to-make-you-1849008703)
 - [Lifehacker] [You Can Plan a Cheaper Wedding](https://lifehacker.com/you-can-plan-a-cheaper-wedding-1849007035)
-- [Lifehacker] [Should You Use Nextdoor Instead of Facebook Marketplace?](https://lifehacker.com/should-you-use-nextdoor-instead-of-facebook-marketplace-1849008071)
-- [Lifehacker] [The Difference Between a Deck and Patio &lpar;and How to Choose Which Is Better for You&rpar;](https://lifehacker.com/the-difference-between-a-deck-and-patio-and-how-to-cho-1849006074)
-- [Lifehacker] [The Best Real Estate Apps for Broke, Unmortgaged Millennials](https://lifehacker.com/the-best-real-estate-apps-for-broke-unmortgaged-millen-1849007630)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)
 - [Crazy Programmer] [Quick Guide to Building an ETL Pipeline Process](https://www.thecrazyprogrammer.com/2022/05/quick-guide-to-building-an-etl-pipeline-process.html)<!-- TECH-POSTS:END -->
