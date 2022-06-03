@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React - Add prop to component if matches specific condition](https://dev.to/luispuentesvega/react-add-prop-to-component-if-matches-specific-condition-56bm)
+- [Dev.to/JS] [Set Current Date with Format on PostMan Request](https://dev.to/krixnaas/set-current-date-with-format-on-postman-request-1mog)
+- [Dev.to/JS] [How to write Nested Functions in JS &amp; PHP](https://dev.to/ugorji_simon/how-to-write-nested-functions-in-js-php-2c4l)
+- [Dev.to/JS] [Calculate The Difference Between Two &lpar;2&rpar; dates with JavaScript](https://dev.to/ugorji_simon/calculate-the-difference-between-two-2-dates-with-javascript-17dd)
+- [Dev.to/JS] [Easily Generate Custom Date Field Input with JavaScript](https://dev.to/ugorji_simon/easily-generate-custom-date-field-input-with-javascript-mp1)
 - [Dev.to/JS] [How I Copied About 3968 Records From a Website Using JavaScript](https://dev.to/ugorji_simon/how-i-copied-about-3968-records-from-a-website-using-javascript-593m)
 - [Dev.to/JS] [Client-Side Form Validation Using octaValidate](https://dev.to/ugorji_simon/client-side-form-validation-using-octavalidate-1ja2)
 - [Dev.to/JS] [Consistent Hashing Simulator](https://dev.to/ion/consistent-hashing-simulator-go3)
@@ -30,13 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Grokking Partial Application](https://dev.to/pancy/grokking-partial-application-e8l)
 - [Dev.to/JS] [How to Compare Objects in JavaScript](https://dev.to/ugorji_simon/how-to-compare-objects-in-javascript-1jci)
 - [Dev.to/JS] [Redis: Data Caching](https://dev.to/drsimplegraffiti/redis-data-caching-3lla)
-- [Dev.to/JS] [Next.js and Tumblr as a CMS Part 3: Sitemap and RSS](https://dev.to/laurenashpole/nextjs-and-tumblr-as-a-cms-part-3-sitemap-and-rss-5go)
-- [Dev.to/JS] [ESLint, Prettier and VSCode Troubleshooting](https://dev.to/bonnie/eslint-prettier-and-vscode-troubleshooting-ljh)
-- [Dev.to/JS] [Dicas para deixar seu relatório de code coverage do Jest mais completo](https://dev.to/brunopinho/dicas-para-deixar-seu-relatorio-de-code-coverage-do-jest-mais-completo-3n6n)
-- [Dev.to/JS] [Paracetamol.js💊| #131: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-131-explica-este-codigo-javascript-4343)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
-- [Dev.to/JS] [How low-code and no-code tools help foster inclusivity](https://dev.to/richkurtzman/how-low-code-and-no-code-tools-help-foster-inclusivity-hhh)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
 - [Lifehacker] [Seven Easy Ways to Cut Costs on Everyday Household Items](https://lifehacker.com/seven-easy-ways-to-cut-costs-on-everyday-household-item-1849009641)
 - [Lifehacker] [The Tastiest Way to Keep Fish From Sticking to the Grill](https://lifehacker.com/the-tastiest-way-to-keep-fish-from-sticking-to-the-gril-1849009316)
