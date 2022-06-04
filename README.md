@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Preview File before uploading in React](https://dev.to/j471n/preview-file-before-uploading-in-react-27kn)
+- [Dev.to/JS] [Side project: Life-Advise Web App](https://dev.to/osam1010/side-project-life-advise-web-app-34e0)
+- [Dev.to/JS] [🙅🏼‍♀️ Mistakes I made when I started Nodejs + MongoDb](https://dev.to/shrihari/mistakes-i-made-when-i-started-nodejs-mongodb-5g92)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Dev.to/JS] [binding.pry by many programming languages](https://dev.to/hiromichinomata/bindingpry-by-many-programming-languages-4h2f)
 - [Dev.to/JS] [Talk to people who are on the same site 🌎 | Chrome Extension](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-chrome-extension-5hh7)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Power of the &quot;new&quot; keyword during constructor instantiation in JavaScript](https://dev.to/emmanuelonah/power-of-the-new-keyword-during-constructor-instantiation-in-javascript-482c)
 - [Dev.to/JS] [Debounce and Throttle &lpar; Javascript Edition &rpar;](https://dev.to/premjeet/debounce-and-throttle-javascript-edition--467k)
 - [Dev.to/JS] [Fluent UI/react-northstar Theming and Component Styling](https://dev.to/pearlzsquare/fluent-uireact-northstar-theming-and-component-styling-mlk)
-- [Dev.to/JS] [Daily.dev, an article feed service developers need](https://dev.to/drift_dev/dailydev-an-article-feed-service-developers-need-2904)
-- [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;7&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-7-3ij6)
-- [Dev.to/JS] [How to use GraphQL Directives efficiently?](https://dev.to/mohamedmayallo/how-to-use-graphql-directives-efficiently-k54)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
 - [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
