@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No-build TODO app using HTM + Preact](https://dev.to/ekeijl/no-build-todo-app-using-htm-preact-209p)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Dev.to/JS] [JavaScript - JSON](https://dev.to/justtanwa/javascript-json-510f)
 - [Dev.to/JS] [Paracetamol.js💊| #133: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-133-explica-este-codigo-javascript-68)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
 - [Dev.to/JS] [How To Search Through a Table with JavaScript](https://dev.to/ugorji_simon/how-to-search-through-a-table-with-javascript-3lg6)
 - [Dev.to/JS] [JavaScript modules: The real difference between `import`, `require` and `import&lpar;&rpar;`](https://dev.to/jwwnz/javascript-modules-the-real-difference-between-import-require-and-import-1b2d)
-- [Dev.to/JS] [Karate Game](https://dev.to/harshitpaneri/karate-game-444g)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
