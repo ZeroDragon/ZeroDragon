@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I built a terminal-like portfolio with Vue 3](https://dev.to/samzhangjy/i-built-a-terminal-like-portfolio-with-vue-3-81j)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;04-06-2022&rpar; - Pain in the eyes](https://dev.to/mjgs/this-weeks-newsletter-is-out-04-06-2022-pain-in-the-eyes-3na8)
 - [Dev.to/JS] [7 Javascript Basics For Beginners You Should Know](https://dev.to/tarunfulera/7-javascript-basics-for-beginners-you-should-know-6bd)
 - [Dev.to/JS] [Power of the &quot;new&quot; keyword during constructor instantiation in JavaScript](https://dev.to/emmanuelonah/power-of-the-new-keyword-during-constructor-instantiation-in-javascript-482c)
 - [Dev.to/JS] [Debounce and Throttle &lpar; Javascript Edition &rpar;](https://dev.to/premjeet/debounce-and-throttle-javascript-edition--467k)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [VIDEO: How to modularize your monolith frontend](https://dev.to/richkurtzman/video-how-to-modularize-your-monolith-frontend-15eg)
 - [Dev.to/JS] [Build on FLOW | Learn FCL - 5. Get a List of NFTs Living at Known Address](https://dev.to/onflow/build-on-flow-learn-fcl-5-get-a-list-of-nfts-living-at-known-address-23on)
 - [Dev.to/JS] [E2E Testing a Video Game](https://dev.to/philscode/e2e-testing-a-video-game-2okh)
-- [Dev.to/JS] [Trigger Event when Element Scrolled into Viewport with Angular&#39;s @HostListener](https://dev.to/riapacheco/trigger-event-when-element-scrolled-into-viewport-with-angulars-hostlistener-3ofh)
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
-- [Dev.to/JS] [How to Build a Responsive Dashboard Application in Angular — Part 3](https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-part-3-m0g)
 - [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
 - [Lifehacker] [Try These Breakfast Ideas That Aren&#39;t All Carbs](https://lifehacker.com/try-these-breakfast-ideas-that-arent-all-carbs-1848963897)
 - [Lifehacker] [Are Sit-Ups Actually Bad for Your Back?](https://lifehacker.com/are-sit-ups-actually-bad-for-your-back-1849015354)
