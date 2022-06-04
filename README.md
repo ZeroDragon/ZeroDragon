@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to fix MongoCompatibility Error when connecting to Azure Cosmos DB](https://dev.to/dmarinere/how-to-connect-cosmos-db-to-your-node-js-app-using-mongo-db-api-connector-42da)
+- [Dev.to/JS] [Code 15 React Projects - Complete Course](https://dev.to/wenura/code-15-react-projects-complete-course-2b28)
 - [Dev.to/JS] [Preview File before uploading in React](https://dev.to/j471n/preview-file-before-uploading-in-react-27kn)
 - [Dev.to/JS] [Side project: Life-Advise Web App](https://dev.to/osam1010/side-project-life-advise-web-app-34e0)
 - [Dev.to/JS] [🙅🏼‍♀️ Mistakes I made when I started Nodejs + MongoDb](https://dev.to/shrihari/mistakes-i-made-when-i-started-nodejs-mongodb-5g92)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;04-06-2022&rpar; - Pain in the eyes](https://dev.to/mjgs/this-weeks-newsletter-is-out-04-06-2022-pain-in-the-eyes-3na8)
 - [Dev.to/JS] [7 Javascript Basics For Beginners You Should Know](https://dev.to/tarunfulera/7-javascript-basics-for-beginners-you-should-know-6bd)
 - [Dev.to/JS] [Power of the &quot;new&quot; keyword during constructor instantiation in JavaScript](https://dev.to/emmanuelonah/power-of-the-new-keyword-during-constructor-instantiation-in-javascript-482c)
-- [Dev.to/JS] [Debounce and Throttle &lpar; Javascript Edition &rpar;](https://dev.to/premjeet/debounce-and-throttle-javascript-edition--467k)
-- [Dev.to/JS] [Fluent UI/react-northstar Theming and Component Styling](https://dev.to/pearlzsquare/fluent-uireact-northstar-theming-and-component-styling-mlk)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
 - [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
