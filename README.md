@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Looking for a solid Templating engine for document generation built in JavaScript](https://dev.to/camco/looking-for-a-solid-templating-engine-for-document-generation-built-in-javascript-4emd)
 - [Dev.to/JS] [Web Dev setup in WSL2 Kali Linux 2022 Edition - Part 2: Coding Tools setup - Python, C++, Go, JS, PHP](https://dev.to/yuiltripathee/web-dev-setup-in-wsl2-kali-linux-2022-edition-part-2-coding-tools-setup-python-c-go-js-php-4f4m)
 - [Dev.to/JS] [ORMs in JavaScript](https://dev.to/gsingh/orms-in-javascript-54e8)
 - [Dev.to/JS] [Slate.js + dnd-kit = 🔥. Improving Rich Text Editor UX by adding Drag and Drop.](https://dev.to/devterminal/slatejs-dnd-kit-improving-rich-text-editor-ux-by-adding-drag-and-drop-23d3)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to invert a string](https://dev.to/ianfelix/how-to-invert-a-string-ojf)
 - [Dev.to/JS] [Scope in Javascript](https://dev.to/masterifeanyi/scope-in-javascript-2nf6)
 - [Dev.to/JS] [TypeError: Cannot read properties of undefined &lpar;reading &#39;forEach&#39;&rpar;](https://dev.to/masterifeanyi/typeerror-cannot-read-properties-of-undefined-reading-foreach-1i72)
-- [Dev.to/JS] [Bootstrap open Accordion after Ajax loaded](https://dev.to/haamid/bootstrap-open-accordion-after-ajax-loaded-3md2)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
