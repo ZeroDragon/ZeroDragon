@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Talk to people who are on the same site 🌎 | Chrome Extension](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-chrome-extension-5hh7)
 - [Dev.to/JS] [Closure and Scope in JavaScript](https://dev.to/heynitin/closure-and-scope-in-javascript-503p)
 - [Dev.to/JS] [I built a terminal-like portfolio with Vue 3](https://dev.to/samzhangjy/i-built-a-terminal-like-portfolio-with-vue-3-81j)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;04-06-2022&rpar; - Pain in the eyes](https://dev.to/mjgs/this-weeks-newsletter-is-out-04-06-2022-pain-in-the-eyes-3na8)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use GraphQL Directives efficiently?](https://dev.to/mohamedmayallo/how-to-use-graphql-directives-efficiently-k54)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Dev.to/JS] [VIDEO: How to modularize your monolith frontend](https://dev.to/richkurtzman/video-how-to-modularize-your-monolith-frontend-15eg)
-- [Dev.to/JS] [Build on FLOW | Learn FCL - 5. Get a List of NFTs Living at Known Address](https://dev.to/onflow/build-on-flow-learn-fcl-5-get-a-list-of-nfts-living-at-known-address-23on)
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
 - [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
 - [Lifehacker] [Try These Breakfast Ideas That Aren&#39;t All Carbs](https://lifehacker.com/try-these-breakfast-ideas-that-arent-all-carbs-1848963897)
