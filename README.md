@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Javascript Basics For Beginners You Should Know](https://dev.to/tarunfulera/7-javascript-basics-for-beginners-you-should-know-6bd)
+- [Dev.to/JS] [Power of the &quot;new&quot; keyword during constructor instantiation in JavaScript](https://dev.to/emmanuelonah/power-of-the-new-keyword-during-constructor-instantiation-in-javascript-482c)
+- [Dev.to/JS] [Debounce and Throttle &lpar; Javascript Edition &rpar;](https://dev.to/premjeet/debounce-and-throttle-javascript-edition--467k)
 - [Dev.to/JS] [Fluent UI/react-northstar Theming and Component Styling](https://dev.to/pearlzsquare/fluent-uireact-northstar-theming-and-component-styling-mlk)
 - [Dev.to/JS] [Daily.dev, an article feed service developers need](https://dev.to/drift_dev/dailydev-an-article-feed-service-developers-need-2904)
 - [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;7&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-7-3ij6)
+- [Dev.to/JS] [How to use GraphQL Directives efficiently?](https://dev.to/mohamedmayallo/how-to-use-graphql-directives-efficiently-k54)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Dev.to/JS] [VIDEO: How to modularize your monolith frontend](https://dev.to/richkurtzman/video-how-to-modularize-your-monolith-frontend-15eg)
 - [Dev.to/JS] [Build on FLOW | Learn FCL - 5. Get a List of NFTs Living at Known Address](https://dev.to/onflow/build-on-flow-learn-fcl-5-get-a-list-of-nfts-living-at-known-address-23on)
@@ -34,12 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
 - [Dev.to/JS] [How to Build a Responsive Dashboard Application in Angular — Part 3](https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-part-3-m0g)
 - [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
-- [Dev.to/JS] [Enhance Your Audio With Dolby.io For Higher Quality Transcripts](https://dev.to/deepgram/enhance-your-audio-with-dolbyio-for-higher-quality-transcripts-1c7e)
 - [Lifehacker] [Try These Breakfast Ideas That Aren&#39;t All Carbs](https://lifehacker.com/try-these-breakfast-ideas-that-arent-all-carbs-1848963897)
 - [Lifehacker] [Are Sit-Ups Actually Bad for Your Back?](https://lifehacker.com/are-sit-ups-actually-bad-for-your-back-1849015354)
-- [Dev.to/JS] [How to Build a Responsive Dashboard Application in Angular — Part 2](https://dev.to/grapecity/how-to-build-a-responsive-dashboard-application-in-angular-part-2-1d1e)
-- [Dev.to/JS] [React Fiber, Virtual DOM and Shadow DOM - The Ultimate Front-End Interview Questions Guide Pt: 2](https://dev.to/aryclenio/react-fiber-virtual-dom-and-shadow-dom-the-ultimate-front-end-interview-questions-guide-pt-2-11fd)
-- [Dev.to/JS] [Python 8 Important Concepts to learn](https://dev.to/bekbrace/python-8-important-concepts-to-learn-jg6)
 - [Lifehacker] [Up Your Ice Cream Game With One of These Easy Sundae Sauces](https://lifehacker.com/up-your-ice-cream-game-with-one-of-these-easy-sundae-sa-1849015466)
 - [Lifehacker] [This Cucumber Gimlet Is a Weekend Necessity](https://lifehacker.com/this-cucumber-gimlet-is-a-weekend-necessity-1849014429)
 - [Lifehacker] [Don&#39;t Get Burned by These Five Sunscreen Myths](https://lifehacker.com/dont-get-burned-by-these-five-sunscreen-myths-1849014936)
