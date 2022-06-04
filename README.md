@@ -23,20 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
+- [Dev.to/JS] [JavaScript - JSON](https://dev.to/justtanwa/javascript-json-510f)
+- [Dev.to/JS] [Paracetamol.js💊| #133: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-133-explica-este-codigo-javascript-68)
 - [Dev.to/JS] [React Native Awesome Text](https://dev.to/tejachundru/react-native-awesome-text-4ah1)
 - [Dev.to/JS] [Hi Devs, Here is Part 2 of the &quot;This Project Got Me a Full-time Software Engineering Job&quot; Series.💻](https://dev.to/mkasulecoder/hi-devs-here-is-part-2-of-the-this-project-got-me-a-full-time-software-engineering-job-series-3ndk)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Dev.to/JS] [How to invert a string](https://dev.to/ianfelix/how-to-invert-a-string-ojf)
+- [Dev.to/JS] [Scope in Javascript](https://dev.to/masterifeanyi/scope-in-javascript-2nf6)
+- [Dev.to/JS] [TypeError: Cannot read properties of undefined &lpar;reading &#39;forEach&#39;&rpar;](https://dev.to/masterifeanyi/typeerror-cannot-read-properties-of-undefined-reading-foreach-1i72)
 - [Dev.to/JS] [Bootstrap open Accordion after Ajax loaded](https://dev.to/haamid/bootstrap-open-accordion-after-ajax-loaded-3md2)
 - [Dev.to/JS] [How to Build a to-do list with typescript &amp; local-storage 😊](https://dev.to/evansifyke/how-to-build-a-to-do-list-with-typescript-local-storage-gb)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
 - [Dev.to/JS] [How To Search Through a Table with JavaScript](https://dev.to/ugorji_simon/how-to-search-through-a-table-with-javascript-3lg6)
 - [Dev.to/JS] [JavaScript modules: The real difference between `import`, `require` and `import&lpar;&rpar;`](https://dev.to/jwwnz/javascript-modules-the-real-difference-between-import-require-and-import-1b2d)
 - [Dev.to/JS] [Karate Game](https://dev.to/harshitpaneri/karate-game-444g)
-- [Dev.to/JS] [Page rendering with JavaScript](https://dev.to/vadimfilimonov/page-rendering-with-javascript-10ed)
-- [Dev.to/JS] [How to fix MongoCompatibility Error when connecting to Azure Cosmos DB](https://dev.to/dmarinere/how-to-connect-cosmos-db-to-your-node-js-app-using-mongo-db-api-connector-42da)
-- [Dev.to/JS] [Code 15 React Projects - Complete Course](https://dev.to/wenura/code-15-react-projects-complete-course-2b28)
-- [Dev.to/JS] [Preview File before uploading in React](https://dev.to/j471n/preview-file-before-uploading-in-react-27kn)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
 - [Lifehacker] [Seven Easy Ways to Cut Costs on Everyday Household Items](https://lifehacker.com/seven-easy-ways-to-cut-costs-on-everyday-household-item-1849009641)
-- [Lifehacker] [10 Reasons to Buy a Wii in 2022](https://lifehacker.com/10-reasons-to-buy-a-wii-in-2022-1849008114)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)<!-- TECH-POSTS:END -->
 
