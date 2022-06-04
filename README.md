@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bootstrap open Accordion after Ajax loaded](https://dev.to/haamid/bootstrap-open-accordion-after-ajax-loaded-3md2)
+- [Dev.to/JS] [How to Build a to-do list with typescript &amp; local-storage 😊](https://dev.to/evansifyke/how-to-build-a-to-do-list-with-typescript-local-storage-gb)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
 - [Dev.to/JS] [How To Search Through a Table with JavaScript](https://dev.to/ugorji_simon/how-to-search-through-a-table-with-javascript-3lg6)
 - [Dev.to/JS] [JavaScript modules: The real difference between `import`, `require` and `import&lpar;&rpar;`](https://dev.to/jwwnz/javascript-modules-the-real-difference-between-import-require-and-import-1b2d)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🙅🏼‍♀️ Mistakes I made when I started Nodejs + MongoDb](https://dev.to/shrihari/mistakes-i-made-when-i-started-nodejs-mongodb-5g92)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Dev.to/JS] [binding.pry by many programming languages](https://dev.to/hiromichinomata/bindingpry-by-many-programming-languages-4h2f)
-- [Dev.to/JS] [Talk to people who are on the same site 🌎 | Chrome Extension](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-chrome-extension-5hh7)
-- [Dev.to/JS] [Closure and Scope in JavaScript](https://dev.to/heynitin/closure-and-scope-in-javascript-503p)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
 - [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
