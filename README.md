@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fluent UI/react-northstar Theming and Component Styling](https://dev.to/pearlzsquare/fluent-uireact-northstar-theming-and-component-styling-mlk)
 - [Dev.to/JS] [Daily.dev, an article feed service developers need](https://dev.to/drift_dev/dailydev-an-article-feed-service-developers-need-2904)
 - [Dev.to/JS] [Self-documentation of Hire +Plus: V1 &lpar;7&rpar;](https://dev.to/ajeasmith/self-documentation-of-hire-plus-v1-7-3ij6)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Fiber, Virtual DOM and Shadow DOM - The Ultimate Front-End Interview Questions Guide Pt: 2](https://dev.to/aryclenio/react-fiber-virtual-dom-and-shadow-dom-the-ultimate-front-end-interview-questions-guide-pt-2-11fd)
 - [Dev.to/JS] [Python 8 Important Concepts to learn](https://dev.to/bekbrace/python-8-important-concepts-to-learn-jg6)
 - [Lifehacker] [Up Your Ice Cream Game With One of These Easy Sundae Sauces](https://lifehacker.com/up-your-ice-cream-game-with-one-of-these-easy-sundae-sa-1849015466)
-- [Dev.to/JS] [How To Speed Up JavaScript Testing With Selenium and WebDriverIO?](https://dev.to/lambdatest/how-to-speed-up-javascript-testing-with-selenium-and-webdriverio-4ceb)
 - [Lifehacker] [This Cucumber Gimlet Is a Weekend Necessity](https://lifehacker.com/this-cucumber-gimlet-is-a-weekend-necessity-1849014429)
 - [Lifehacker] [Don&#39;t Get Burned by These Five Sunscreen Myths](https://lifehacker.com/dont-get-burned-by-these-five-sunscreen-myths-1849014936)
 - [Lifehacker] [The Easiest Ways to Make Your Cell Phone Bill Cheaper](https://lifehacker.com/the-easiest-ways-to-cut-down-your-cell-phone-bill-1849014104)
