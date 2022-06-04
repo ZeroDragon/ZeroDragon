@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
+- [Dev.to/JS] [How To Search Through a Table with JavaScript](https://dev.to/ugorji_simon/how-to-search-through-a-table-with-javascript-3lg6)
+- [Dev.to/JS] [JavaScript modules: The real difference between `import`, `require` and `import&lpar;&rpar;`](https://dev.to/jwwnz/javascript-modules-the-real-difference-between-import-require-and-import-1b2d)
+- [Dev.to/JS] [Karate Game](https://dev.to/harshitpaneri/karate-game-444g)
+- [Dev.to/JS] [Page rendering with JavaScript](https://dev.to/vadimfilimonov/page-rendering-with-javascript-10ed)
 - [Dev.to/JS] [How to fix MongoCompatibility Error when connecting to Azure Cosmos DB](https://dev.to/dmarinere/how-to-connect-cosmos-db-to-your-node-js-app-using-mongo-db-api-connector-42da)
 - [Dev.to/JS] [Code 15 React Projects - Complete Course](https://dev.to/wenura/code-15-react-projects-complete-course-2b28)
 - [Dev.to/JS] [Preview File before uploading in React](https://dev.to/j471n/preview-file-before-uploading-in-react-27kn)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [binding.pry by many programming languages](https://dev.to/hiromichinomata/bindingpry-by-many-programming-languages-4h2f)
 - [Dev.to/JS] [Talk to people who are on the same site 🌎 | Chrome Extension](https://dev.to/rajeshj3/talk-to-people-who-are-on-the-same-site-chrome-extension-5hh7)
 - [Dev.to/JS] [Closure and Scope in JavaScript](https://dev.to/heynitin/closure-and-scope-in-javascript-503p)
-- [Dev.to/JS] [I built a terminal-like portfolio with Vue 3](https://dev.to/samzhangjy/i-built-a-terminal-like-portfolio-with-vue-3-81j)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;04-06-2022&rpar; - Pain in the eyes](https://dev.to/mjgs/this-weeks-newsletter-is-out-04-06-2022-pain-in-the-eyes-3na8)
-- [Dev.to/JS] [7 Javascript Basics For Beginners You Should Know](https://dev.to/tarunfulera/7-javascript-basics-for-beginners-you-should-know-6bd)
-- [Dev.to/JS] [Power of the &quot;new&quot; keyword during constructor instantiation in JavaScript](https://dev.to/emmanuelonah/power-of-the-new-keyword-during-constructor-instantiation-in-javascript-482c)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
 - [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Seven Easy Ways to Cut Costs on Everyday Household Items](https://lifehacker.com/seven-easy-ways-to-cut-costs-on-everyday-household-item-1849009641)
 - [Lifehacker] [10 Reasons to Buy a Wii in 2022](https://lifehacker.com/10-reasons-to-buy-a-wii-in-2022-1849008114)
 - [Lifehacker] [The Tastiest Way to Keep Fish From Sticking to the Grill](https://lifehacker.com/the-tastiest-way-to-keep-fish-from-sticking-to-the-gril-1849009316)
-- [Lifehacker] [You Should Be Shopping Open Box Deals at These Retailers](https://lifehacker.com/you-should-be-shopping-open-box-deals-at-these-retailer-1849007471)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)<!-- TECH-POSTS:END -->
 
