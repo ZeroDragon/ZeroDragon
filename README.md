@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
+- [Dev.to/JS] [The #1 Presentation Creator Software! The World’s #1 Presentation Creator!](https://dev.to/sameer87575/the-1-presentation-creator-softwarethe-worlds-1-presentation-creator-4dg0)
+- [Dev.to/JS] [Just created a fantastic looking temporary chat-room.](https://dev.to/sambhavsaxena/just-created-a-fantastic-looking-temporary-chat-room-32pa)
 - [Dev.to/JS] [100 Days of JS](https://dev.to/leo1612d/100-days-of-js-4f3a)
 - [Dev.to/JS] [SvelteKit + Surge](https://dev.to/alexanderczigler/sveltekit-surge-b4h)
 - [Dev.to/JS] [Ounce To Cup Calculation](https://dev.to/w3percentcalc/ounce-to-cup-calculation-2ejd)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducing prosql.io!](https://dev.to/kargirwar/introducing-prosqlio-560i)
 - [Dev.to/JS] [search through a table in one line of code](https://dev.to/frankwisniewski/search-through-a-table-in-one-line-of-code-23ne)
 - [Dev.to/JS] [Smart contract for document registry](https://dev.to/shreyvijayvargiya/smart-contract-for-document-registry-55p6)
-- [Dev.to/JS] [Separate array of arrays into arrays](https://dev.to/nicm42/separate-array-of-arrays-into-arrays-34hg)
-- [Dev.to/JS] [JS Arrow Function](https://dev.to/mursalfk/js-arrow-function-2085)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
 - [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
-- [Lifehacker] [Seven Easy Ways to Cut Costs on Everyday Household Items](https://lifehacker.com/seven-easy-ways-to-cut-costs-on-everyday-household-item-1849009641)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)<!-- TECH-POSTS:END -->
 
