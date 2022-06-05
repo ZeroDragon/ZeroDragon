@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sorting Array In Different Languages JavaScript, Ruby, Python](https://dev.to/vishal8236/sorting-array-in-different-languages-javascript-ruby-python-27h4)
 - [Lifehacker] [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
 - [Dev.to/JS] [== versus ===](https://dev.to/karamkoujan/-versus--70e)
 - [Dev.to/JS] [Authenticate users with Firebase](https://dev.to/leandroandrade/authenticate-users-with-firebase-35l9)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working with JavaScript Arrays Pt. 2](https://dev.to/ambush3/working-with-javascript-arrays-pt-2-3m71)
 - [Dev.to/JS] [Working with JavaScript Arrays Pt.1](https://dev.to/ambush3/working-with-javascript-arrays-pt1-56a7)
 - [Dev.to/JS] [Appwrite Hand-In-Hand with Svelte Kit &lpar;SSR&rpar;](https://dev.to/meldiron/appwrite-hand-in-hand-with-svelte-kit-ssr-5097)
-- [Dev.to/JS] [40 projects ideas for web developer](https://dev.to/mooktar/40-projects-ideas-for-web-developer-4d6i)
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
