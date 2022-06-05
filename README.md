@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What the heck is JSON.parse&lpar;&rpar; and JSON.stringify&lpar;&rpar;?](https://dev.to/sobhandash/what-the-heck-is-jsonparse-and-jsonstringify-9hf)
 - [Dev.to/JS] [Serverless Functions with Netlify](https://dev.to/maxrpark/serverless-functions-with-netlify-23gi)
 - [Dev.to/JS] [50 Projects In 50 Days — HTML, CSS &amp; JavaScript](https://dev.to/maxrpark/50-projects-in-50-days-html-css-javascript-lo6)
 - [Dev.to/JS] [I want to show the names of all but two collections.](https://dev.to/ivkemilioner/i-want-to-show-the-names-of-all-but-two-collections-1nb4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Generate Random Gradients for HTML](https://dev.to/mursalfk/generate-random-gradients-for-html-30k2)
 - [Dev.to/JS] [React - Stateless function](https://dev.to/sandrocagara/react-stateless-function-e25)
 - [Dev.to/JS] [Do you use semicolon in JS?](https://dev.to/3indblown_leaf/do-you-use-semicolon-in-js-42b1)
-- [Dev.to/JS] [React - JSX Conditional](https://dev.to/sandrocagara/react-jsx-conditional-320m)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
