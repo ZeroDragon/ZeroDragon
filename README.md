@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Create Node Package](https://dev.to/sandrocagara/create-node-package-1cj3)
 - [Dev.to/JS] [Angular Services](https://dev.to/seshubabubatchu/angular-services-2gcl)
 - [Dev.to/JS] [Handle form better in Nextjs with react-hook-form](https://dev.to/hellodemola/handle-form-better-in-nextjs-with-react-hook-form-3o61)
 - [Dev.to/JS] [How YOU can build a GraphQL API with Apollo](https://dev.to/itnext/creating-a-graphql-server-with-apollo-1f4e)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript - JSON](https://dev.to/justtanwa/javascript-json-510f)
 - [Dev.to/JS] [Paracetamol.js💊| #133: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-133-explica-este-codigo-javascript-68)
 - [Dev.to/JS] [React Native Awesome Text](https://dev.to/tejachundru/react-native-awesome-text-4ah1)
-- [Dev.to/JS] [Hi Devs, Here is Part 2 of the &quot;This Project Got Me a Full-time Software Engineering Job&quot; Series.💻](https://dev.to/mkasulecoder/hi-devs-here-is-part-2-of-the-this-project-got-me-a-full-time-software-engineering-job-series-3ndk)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
