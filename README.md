@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are you testing?](https://dev.to/noriller/what-are-you-testing-35jd)
+- [Dev.to/JS] [Part One: Building a Decentralized Exchange with Solidity and React](https://dev.to/sleepytenor/part-one-building-a-decentralized-exchange-with-solidity-and-react-2ne0)
+- [Dev.to/JS] [Would you like to know what I&#39;ve learned by building Expense Tracking App?](https://dev.to/pavelkeyzik/would-you-like-to-know-what-ive-learned-by-building-expense-tracking-app-1e3j)
 - [Dev.to/JS] [Everything about Promises in JavaScript](https://dev.to/junaidshaikhjs/everything-about-promises-in-javascript-5a8o)
 - [Dev.to/JS] [How to Cache bust frontend app](https://dev.to/mnathani/how-to-cache-bust-frontend-app-132l)
 - [Dev.to/JS] [Sorting Array In Different Languages JavaScript, Ruby, Python](https://dev.to/vishal8236/sorting-array-in-different-languages-javascript-ruby-python-27h4)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner&#39;s guide: Your first test](https://dev.to/skirianov/beginners-guide-your-first-test-2pda)
 - [Dev.to/JS] [create table from array of objects in one line of code](https://dev.to/frankwisniewski/create-table-from-array-of-objects-in-one-line-of-code-c57)
 - [Dev.to/JS] [Weekly Digest 22/2022](https://dev.to/marcobiedermann/weekly-digest-222022-37a5)
-- [Dev.to/JS] [GraphQL learning path](https://dev.to/srele96/graphql-learning-path-3b5c)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
-- [Dev.to/JS] [How to use Media Query in React? | useMediaQuery](https://dev.to/thatanjan/how-to-use-media-query-in-react-usemediaquery-k49)
-- [Dev.to/JS] [Working with JavaScript Arrays Pt. 3](https://dev.to/ambush3/working-with-javascript-pt-3-46e)
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
