@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do you use semicolon in JS?](https://dev.to/3indblown_leaf/do-you-use-semicolon-in-js-42b1)
+- [Dev.to/JS] [React - JSX Conditional](https://dev.to/sandrocagara/react-jsx-conditional-320m)
+- [Dev.to/JS] [NestJS: Modules](https://dev.to/ilyary/nestjs-modules-37k1)
+- [Dev.to/JS] [The roadmap to learning JavaScript](https://dev.to/checoslbches/the-roadmap-to-learning-javascript-3iec)
 - [Dev.to/JS] [7 Console Methods Used by Pros](https://dev.to/ruppysuppy/7-console-methods-used-by-pros-1g00)
 - [Dev.to/JS] [Varaiants for Drag and Drop in Framer Motion](https://dev.to/satel/varaiants-for-drag-and-drop-in-framer-motion-26ee)
 - [Dev.to/JS] [React - How To Create Node Package](https://dev.to/sandrocagara/create-node-package-1cj3)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How YOU can build a GraphQL API with Apollo](https://dev.to/itnext/creating-a-graphql-server-with-apollo-1f4e)
 - [Dev.to/JS] [Looking for a solid Templating engine for document generation built in JavaScript](https://dev.to/camco/looking-for-a-solid-templating-engine-for-document-generation-built-in-javascript-4emd)
 - [Dev.to/JS] [Web Dev setup in WSL2 Kali Linux 2022 Edition - Part 2: Coding Tools setup - Python, C++, Go, JS, PHP](https://dev.to/yuiltripathee/web-dev-setup-in-wsl2-kali-linux-2022-edition-part-2-coding-tools-setup-python-c-go-js-php-4f4m)
-- [Dev.to/JS] [ORMs in JavaScript](https://dev.to/gsingh/orms-in-javascript-54e8)
-- [Dev.to/JS] [Slate.js + dnd-kit = 🔥. Improving Rich Text Editor UX by adding Drag and Drop.](https://dev.to/devterminal/slatejs-dnd-kit-improving-rich-text-editor-ux-by-adding-drag-and-drop-23d3)
-- [Dev.to/JS] [Building a TODO app without a bundler](https://dev.to/ekeijl/no-build-todo-app-using-htm-preact-209p)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
-- [Dev.to/JS] [JavaScript - JSON](https://dev.to/justtanwa/javascript-json-510f)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
