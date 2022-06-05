@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Console Methods Used by Pros](https://dev.to/ruppysuppy/7-console-methods-used-by-pros-1g00)
 - [Dev.to/JS] [Varaiants for Drag and Drop in Framer Motion](https://dev.to/satel/varaiants-for-drag-and-drop-in-framer-motion-26ee)
 - [Dev.to/JS] [React - How To Create Node Package](https://dev.to/sandrocagara/create-node-package-1cj3)
 - [Dev.to/JS] [Angular Services](https://dev.to/seshubabubatchu/angular-services-2gcl)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a TODO app without a bundler](https://dev.to/ekeijl/no-build-todo-app-using-htm-preact-209p)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Dev.to/JS] [JavaScript - JSON](https://dev.to/justtanwa/javascript-json-510f)
-- [Dev.to/JS] [Paracetamol.js💊| #133: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-133-explica-este-codigo-javascript-68)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
