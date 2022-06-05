@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular Services](https://dev.to/seshubabubatchu/angular-services-2gcl)
 - [Dev.to/JS] [Handle form better in Nextjs with react-hook-form](https://dev.to/hellodemola/handle-form-better-in-nextjs-with-react-hook-form-3o61)
 - [Dev.to/JS] [How YOU can build a GraphQL API with Apollo](https://dev.to/itnext/creating-a-graphql-server-with-apollo-1f4e)
 - [Dev.to/JS] [Looking for a solid Templating engine for document generation built in JavaScript](https://dev.to/camco/looking-for-a-solid-templating-engine-for-document-generation-built-in-javascript-4emd)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Native Awesome Text](https://dev.to/tejachundru/react-native-awesome-text-4ah1)
 - [Dev.to/JS] [Hi Devs, Here is Part 2 of the &quot;This Project Got Me a Full-time Software Engineering Job&quot; Series.💻](https://dev.to/mkasulecoder/hi-devs-here-is-part-2-of-the-this-project-got-me-a-full-time-software-engineering-job-series-3ndk)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
-- [Dev.to/JS] [How to invert a string](https://dev.to/ianfelix/how-to-invert-a-string-ojf)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
