@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing prosql.io!](https://dev.to/kargirwar/introducing-prosqlio-560i)
+- [Dev.to/JS] [search through a table in one line of code](https://dev.to/frankwisniewski/search-through-a-table-in-one-line-of-code-23ne)
+- [Dev.to/JS] [Smart contract for document registry](https://dev.to/shreyvijayvargiya/smart-contract-for-document-registry-55p6)
+- [Dev.to/JS] [Separate array of arrays into arrays](https://dev.to/nicm42/separate-array-of-arrays-into-arrays-34hg)
 - [Dev.to/JS] [JS Arrow Function](https://dev.to/mursalfk/js-arrow-function-2085)
 - [Dev.to/JS] [Generate Random Gradients for HTML](https://dev.to/mursalfk/generate-random-gradients-for-html-30k2)
 - [Dev.to/JS] [React - Stateless function](https://dev.to/sandrocagara/react-stateless-function-e25)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NestJS: Modules](https://dev.to/ilyary/nestjs-modules-37k1)
 - [Dev.to/JS] [The roadmap to learning JavaScript](https://dev.to/checoslbches/the-roadmap-to-learning-javascript-3iec)
 - [Dev.to/JS] [7 Console Methods Used by Pros](https://dev.to/ruppysuppy/7-console-methods-used-by-pros-1g00)
-- [Dev.to/JS] [Varaiants for Drag and Drop in Framer Motion](https://dev.to/satel/varaiants-for-drag-and-drop-in-framer-motion-26ee)
-- [Dev.to/JS] [React - How To Create Node Package](https://dev.to/sandrocagara/create-node-package-1cj3)
-- [Dev.to/JS] [Angular Services](https://dev.to/seshubabubatchu/angular-services-2gcl)
-- [Dev.to/JS] [Handle form better in Nextjs with react-hook-form](https://dev.to/hellodemola/handle-form-better-in-nextjs-with-react-hook-form-3o61)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
