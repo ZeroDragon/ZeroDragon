@@ -27,7 +27,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Dev setup in WSL2 Kali Linux 2022 Edition - Part 2: Coding Tools setup - Python, C++, Go, JS, PHP](https://dev.to/yuiltripathee/web-dev-setup-in-wsl2-kali-linux-2022-edition-part-2-coding-tools-setup-python-c-go-js-php-4f4m)
 - [Dev.to/JS] [ORMs in JavaScript](https://dev.to/gsingh/orms-in-javascript-54e8)
 - [Dev.to/JS] [Slate.js + dnd-kit = 🔥. Improving Rich Text Editor UX by adding Drag and Drop.](https://dev.to/devterminal/slatejs-dnd-kit-improving-rich-text-editor-ux-by-adding-drag-and-drop-23d3)
-- [Dev.to/JS] [No-build TODO app using HTM + Preact](https://dev.to/ekeijl/no-build-todo-app-using-htm-preact-209p)
+- [Dev.to/JS] [Building a TODO app without a bundler](https://dev.to/ekeijl/no-build-todo-app-using-htm-preact-209p)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Dev.to/JS] [JavaScript - JSON](https://dev.to/justtanwa/javascript-json-510f)
 - [Dev.to/JS] [Paracetamol.js💊| #133: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-133-explica-este-codigo-javascript-68)
