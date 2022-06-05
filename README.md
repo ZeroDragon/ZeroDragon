@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Beginner&#39;s guide: Your first test](https://dev.to/skirianov/beginners-guide-your-first-test-2pda)
+- [Dev.to/JS] [Weekly Digest 22/2022](https://dev.to/marcobiedermann/weekly-digest-222022-37a5)
+- [Dev.to/JS] [GraphQL learning path](https://dev.to/srele96/graphql-learning-path-3b5c)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
 - [Dev.to/JS] [How to use Media Query in React? | useMediaQuery](https://dev.to/thatanjan/how-to-use-media-query-in-react-usemediaquery-k49)
 - [Dev.to/JS] [Working with JavaScript Arrays Pt. 3](https://dev.to/ambush3/working-with-javascript-pt-3-46e)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The #1 Presentation Creator Software! The World’s #1 Presentation Creator!](https://dev.to/sameer87575/the-1-presentation-creator-softwarethe-worlds-1-presentation-creator-4dg0)
 - [Dev.to/JS] [Just created a fantastic looking temporary chat-room.](https://dev.to/sambhavsaxena/just-created-a-fantastic-looking-temporary-chat-room-32pa)
 - [Dev.to/JS] [100 Days of JS](https://dev.to/leo1612d/100-days-of-js-4f3a)
-- [Dev.to/JS] [SvelteKit + Surge](https://dev.to/alexanderczigler/sveltekit-surge-b4h)
-- [Dev.to/JS] [Ounce To Cup Calculation](https://dev.to/w3percentcalc/ounce-to-cup-calculation-2ejd)
-- [Dev.to/JS] [What the heck is JSON.parse&lpar;&rpar; and JSON.stringify&lpar;&rpar;?](https://dev.to/sobhandash/what-the-heck-is-jsonparse-and-jsonstringify-9hf)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
