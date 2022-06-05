@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
+- [Dev.to/JS] [How to use Media Query in React? | useMediaQuery](https://dev.to/thatanjan/how-to-use-media-query-in-react-usemediaquery-k49)
+- [Dev.to/JS] [Working with JavaScript Arrays Pt. 3](https://dev.to/ambush3/working-with-javascript-pt-3-46e)
+- [Dev.to/JS] [Working with JavaScript Arrays Pt. 2](https://dev.to/ambush3/working-with-javascript-arrays-pt-2-3m71)
+- [Dev.to/JS] [Working with JavaScript Arrays Pt.1](https://dev.to/ambush3/working-with-javascript-arrays-pt1-56a7)
+- [Dev.to/JS] [Appwrite Hand-In-Hand with Svelte Kit &lpar;SSR&rpar;](https://dev.to/meldiron/appwrite-hand-in-hand-with-svelte-kit-ssr-5097)
+- [Dev.to/JS] [40 projects ideas for web developer](https://dev.to/mooktar/40-projects-ideas-for-web-developer-4d6i)
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
 - [Dev.to/JS] [The #1 Presentation Creator Software! The World’s #1 Presentation Creator!](https://dev.to/sameer87575/the-1-presentation-creator-softwarethe-worlds-1-presentation-creator-4dg0)
 - [Dev.to/JS] [Just created a fantastic looking temporary chat-room.](https://dev.to/sambhavsaxena/just-created-a-fantastic-looking-temporary-chat-room-32pa)
@@ -30,12 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SvelteKit + Surge](https://dev.to/alexanderczigler/sveltekit-surge-b4h)
 - [Dev.to/JS] [Ounce To Cup Calculation](https://dev.to/w3percentcalc/ounce-to-cup-calculation-2ejd)
 - [Dev.to/JS] [What the heck is JSON.parse&lpar;&rpar; and JSON.stringify&lpar;&rpar;?](https://dev.to/sobhandash/what-the-heck-is-jsonparse-and-jsonstringify-9hf)
-- [Dev.to/JS] [Serverless Functions with Netlify](https://dev.to/maxrpark/serverless-functions-with-netlify-23gi)
-- [Dev.to/JS] [50 Projects In 50 Days — HTML, CSS &amp; JavaScript](https://dev.to/maxrpark/50-projects-in-50-days-html-css-javascript-lo6)
-- [Dev.to/JS] [I want to show the names of all but two collections.](https://dev.to/ivkemilioner/i-want-to-show-the-names-of-all-but-two-collections-1nb4)
-- [Dev.to/JS] [Introducing prosql.io!](https://dev.to/kargirwar/introducing-prosqlio-560i)
-- [Dev.to/JS] [search through a table in one line of code](https://dev.to/frankwisniewski/search-through-a-table-in-one-line-of-code-23ne)
-- [Dev.to/JS] [Smart contract for document registry](https://dev.to/shreyvijayvargiya/smart-contract-for-document-registry-55p6)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where You Should &lpar;and Shouldn’t&rpar; Tip When You Travel Abroad](https://lifehacker.com/where-you-should-and-shouldn-t-tip-when-you-travel-ab-1849010821)
 - [Lifehacker] [How to Do a Flawless Donut](https://lifehacker.com/how-to-do-a-flawless-donut-1849010251)
 - [Lifehacker] [How to Get Fit on a Budget](https://lifehacker.com/how-to-get-fit-on-a-budget-1849007624)
-- [Lifehacker] [12 Summer Vacation Ideas You’ve Never Thought of But Really Should Try](https://lifehacker.com/12-summer-vacation-ideas-you-ve-never-thought-of-but-re-1849008993)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)
 - [Crazy Programmer] [Callback Function in C](https://www.thecrazyprogrammer.com/2022/05/callback-function-in-c.html)<!-- TECH-POSTS:END -->
 
