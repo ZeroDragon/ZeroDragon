@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Arrow Function](https://dev.to/mursalfk/js-arrow-function-2085)
+- [Dev.to/JS] [Generate Random Gradients for HTML](https://dev.to/mursalfk/generate-random-gradients-for-html-30k2)
+- [Dev.to/JS] [React - Stateless function](https://dev.to/sandrocagara/react-stateless-function-e25)
 - [Dev.to/JS] [Do you use semicolon in JS?](https://dev.to/3indblown_leaf/do-you-use-semicolon-in-js-42b1)
 - [Dev.to/JS] [React - JSX Conditional](https://dev.to/sandrocagara/react-jsx-conditional-320m)
 - [Dev.to/JS] [NestJS: Modules](https://dev.to/ilyary/nestjs-modules-37k1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React - How To Create Node Package](https://dev.to/sandrocagara/create-node-package-1cj3)
 - [Dev.to/JS] [Angular Services](https://dev.to/seshubabubatchu/angular-services-2gcl)
 - [Dev.to/JS] [Handle form better in Nextjs with react-hook-form](https://dev.to/hellodemola/handle-form-better-in-nextjs-with-react-hook-form-3o61)
-- [Dev.to/JS] [How YOU can build a GraphQL API with Apollo](https://dev.to/itnext/creating-a-graphql-server-with-apollo-1f4e)
-- [Dev.to/JS] [Looking for a solid Templating engine for document generation built in JavaScript](https://dev.to/camco/looking-for-a-solid-templating-engine-for-document-generation-built-in-javascript-4emd)
-- [Dev.to/JS] [Web Dev setup in WSL2 Kali Linux 2022 Edition - Part 2: Coding Tools setup - Python, C++, Go, JS, PHP](https://dev.to/yuiltripathee/web-dev-setup-in-wsl2-kali-linux-2022-edition-part-2-coding-tools-setup-python-c-go-js-php-4f4m)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
