@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Promises are monadic... just not the way you&#39;d expect](https://dev.to/voltra/js-promises-are-monadic-just-not-the-way-youd-expect-2h2h)
+- [Dev.to/JS] [A simple explainer of fully modular frontends](https://dev.to/richkurtzman/a-simple-explainer-of-fully-modular-frontends-305h)
+- [Dev.to/JS] [Redux-Toolkit CRUD example with React Hooks](https://dev.to/julfikarhaidar/redux-toolkit-crud-example-with-react-hooks-4d98)
+- [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
+- [Dev.to/JS] [A technical tale of NodeSecure - Chapter 2](https://dev.to/fraxken/a-technical-tale-of-nodesecure-chapter-2-2p17)
+- [Dev.to/JS] [#1 Front-end things and not only](https://dev.to/dbarabashdev/1-front-end-things-and-not-only-5gkj)
+- [Dev.to/JS] [Performance CSS x JS](https://dev.to/viviurbano/performance-css-x-js-4cjd)
 - [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
+- [Dev.to/JS] [How to make firebase queries more readable](https://dev.to/dbarabashdev/how-to-make-firebase-quries-more-readable-3ajf)
 - [Dev.to/JS] [Paracetamol.js💊| #134: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-134-explica-este-codigo-javascript-14ja)
 - [Dev.to/JS] [Ng-News: Episode 22/22](https://dev.to/rainerhahnekamp/ng-news-episode-2222-360f)
 - [Lifehacker] [How to Wash a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
@@ -31,15 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 1 : Objects in javascript](https://dev.to/leo1612d/day-1-objects-in-javascript-4h9p)
 - [Dev.to/JS] [Day-102 Training At Ryaz](https://dev.to/mahin651/day-102-training-at-ryaz-jh3)
 - [Dev.to/JS] [Null vs undefined in javascript](https://dev.to/lucaspaganini/null-vs-undefined-in-javascript-2lfn)
-- [Dev.to/JS] [Native Smooth Scroll with pure CSS and JS](https://dev.to/lucaspaganini/native-smooth-scroll-with-pure-css-and-js-2dfk)
-- [Dev.to/JS] [Day 3/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-330-days-of-codewars-javascript-edition-4ch8)
 - [Lifehacker] [The Best Method to Evenly Season Your Meat](https://lifehacker.com/the-best-method-to-evenly-season-your-meat-1849023672)
-- [Dev.to/JS] [YouTube subscribe button animation](https://dev.to/deepakydv9315/youtube-subscribe-button-animation-41b)
-- [Dev.to/JS] [How can I Make Web Developer&#39;s Life Easier?](https://dev.to/zelal/how-can-i-make-web-developers-life-easier-hde)
 - [Lifehacker] [What Are Your Unwritten Rules of Driving Etiquette?](https://lifehacker.com/what-are-your-unwritten-rules-of-driving-etiquette-1849023077)
-- [Dev.to/JS] [Avoid Stale Closures In React](https://dev.to/kaankorkmaz/avoid-stale-closures-in-react-1oai)
-- [Dev.to/JS] [master the `rootMargin` option in intersection observer.](https://dev.to/_hariti/master-the-rootmargin-in-intersection-observer-b3d)
-- [Dev.to/JS] [Scrape all images from websites](https://dev.to/pikashow5/scrape-all-images-from-websites-288d)
 - [Lifehacker] [3 Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/3-things-in-your-home-you-should-probably-replace-right-1849023094)
 - [Lifehacker] [All the Ways You Should be Using Your Vacuum, but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-your-vacuum-but-aren-1849022823)
 - [Lifehacker] [Here&#39;s How Often You Really Need to Wash Your Swimsuit](https://lifehacker.com/heres-how-often-you-really-need-to-wash-your-swimsuit-1849022413)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
 - [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
 - [Lifehacker] [Try These Breakfast Ideas That Aren&#39;t All Carbs](https://lifehacker.com/try-these-breakfast-ideas-that-arent-all-carbs-1848963897)
-- [Lifehacker] [Are Sit-Ups Actually Bad for Your Back?](https://lifehacker.com/are-sit-ups-actually-bad-for-your-back-1849015354)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
 ---
