@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Symbols in package.json](https://dev.to/snikhill/symbols-in-packagejson-47io)
+- [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
+- [Dev.to/JS] [200. Number of Islands 🚀](https://dev.to/samuelhinchliffe/200-number-of-islands-22gn)
+- [Dev.to/JS] [SEO Meta Tags, Rich Text, Canonical Tag, Favicon Set up in Next.js/React.js](https://dev.to/neaten_network/seo-meta-tags-rich-text-canonical-favicon-set-up-nextjsreactjs-1hff)
+- [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
 - [Dev.to/JS] [JS Promises are monadic... just not the way you&#39;d expect](https://dev.to/voltra/js-promises-are-monadic-just-not-the-way-youd-expect-2h2h)
 - [Dev.to/JS] [A simple explainer of fully modular frontends](https://dev.to/richkurtzman/a-simple-explainer-of-fully-modular-frontends-305h)
 - [Dev.to/JS] [Redux-Toolkit CRUD example with React Hooks](https://dev.to/julfikarhaidar/redux-toolkit-crud-example-with-react-hooks-4d98)
@@ -36,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ng-News: Episode 22/22](https://dev.to/rainerhahnekamp/ng-news-episode-2222-360f)
 - [Lifehacker] [How to Wash a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
 - [Lifehacker] [The Airlines Most Likely to Suck, According to Department of Transportation Data](https://lifehacker.com/the-airlines-most-likely-to-suck-according-to-departme-1849023546)
-- [Dev.to/JS] [Day 1 : Objects in javascript](https://dev.to/leo1612d/day-1-objects-in-javascript-4h9p)
-- [Dev.to/JS] [Day-102 Training At Ryaz](https://dev.to/mahin651/day-102-training-at-ryaz-jh3)
-- [Dev.to/JS] [Null vs undefined in javascript](https://dev.to/lucaspaganini/null-vs-undefined-in-javascript-2lfn)
 - [Lifehacker] [The Best Method to Evenly Season Your Meat](https://lifehacker.com/the-best-method-to-evenly-season-your-meat-1849023672)
 - [Lifehacker] [What Are Your Unwritten Rules of Driving Etiquette?](https://lifehacker.com/what-are-your-unwritten-rules-of-driving-etiquette-1849023077)
 - [Lifehacker] [3 Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/3-things-in-your-home-you-should-probably-replace-right-1849023094)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Lifehacker] [Make a Gift Registry for These Other Life Events](https://lifehacker.com/make-a-gift-registry-for-these-other-life-events-1849015570)
-- [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
-- [Lifehacker] [Try These Breakfast Ideas That Aren&#39;t All Carbs](https://lifehacker.com/try-these-breakfast-ideas-that-arent-all-carbs-1848963897)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
 ---
