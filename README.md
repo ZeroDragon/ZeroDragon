@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting and Temporal Dead Zone in Javascript](https://dev.to/manismk/hoisting-and-temporal-dead-zone-in-javascript-41ko)
+- [Dev.to/JS] [Scan your website metadata in 10 seconds](https://dev.to/shreyvijayvargiya/scan-your-website-metadata-in-10-seconds-9hl)
+- [Dev.to/JS] [test post](https://dev.to/anki0/test-post-23m0)
+- [Dev.to/JS] [Jvascript Inheritance](https://dev.to/talenttinaapi/jvascript-inheritance-499)
 - [Dev.to/JS] [Top 15 Best Books for JavaScript Beginners](https://dev.to/lambdatest/top-15-best-books-for-javascript-beginners-4nmm)
 - [Dev.to/JS] [Conditional Statements: Part 3](https://dev.to/rahulrajrd/conditional-statements-part-3-4hc6)
 - [Dev.to/JS] [Angular - Array destructuring](https://dev.to/sandrocagara/angular-v13-array-destructuring-31m5)
-- [Dev.to/JS] [Creating Gooey Tooltips for Range Sliders using SVG Filters](https://dev.to/n3r4zzurr0/creating-gooey-tooltips-for-range-sliders-using-svg-filters-54a7)
+- [Dev.to/JS] [Creating Gooey Tooltips for Range Sliders using SVG Filters ✨](https://dev.to/n3r4zzurr0/creating-gooey-tooltips-for-range-sliders-using-svg-filters-54a7)
 - [Dev.to/JS] [Asteroid Trivia ☄️🐋](https://dev.to/stelianok/asteroid-trivia-3k6c)
 - [Dev.to/JS] [Quick sort vs. Insertion sort](https://dev.to/abagames/quick-sort-vs-insertion-sort-1m5h)
 - [Dev.to/JS] [Setting Up Slash Commands For Discord Bot](https://dev.to/swislokdev/setting-up-slash-commands-for-discord-bot-51j5)
 - [Dev.to/JS] [Using Input Element as Display](https://dev.to/kristenkinnearohlmann/using-input-element-as-display-2ob7)
-- [Dev.to/JS] [Response validation with Yup](https://dev.to/hurricaneinteractive/response-validation-with-yup-2018)
-- [Dev.to/JS] [How to use Chrome as a Code Editor and Debugger](https://dev.to/asayerio_techblog/how-to-use-chrome-as-a-code-editor-and-debugger-294b)
-- [Dev.to/JS] [Weekend Project: US Congressional Trading Cards &lpar;In Progress&rpar;](https://dev.to/connorthemiller/weekend-project-us-congressional-trading-cards-in-progress-1ncm)
-- [Dev.to/JS] [What are you testing?](https://dev.to/noriller/what-are-you-testing-35jd)
 - [Lifehacker] [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
