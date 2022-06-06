@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 15 Best Books for JavaScript Beginners](https://dev.to/lambdatest/top-15-best-books-for-javascript-beginners-4nmm)
+- [Dev.to/JS] [Conditional Statements: Part 3](https://dev.to/rahulrajrd/conditional-statements-part-3-4hc6)
 - [Dev.to/JS] [Angular - Array destructuring](https://dev.to/sandrocagara/angular-v13-array-destructuring-31m5)
 - [Dev.to/JS] [Creating Gooey Tooltips for Range Sliders using SVG Filters](https://dev.to/n3r4zzurr0/creating-gooey-tooltips-for-range-sliders-using-svg-filters-54a7)
 - [Dev.to/JS] [Asteroid Trivia ☄️🐋](https://dev.to/stelianok/asteroid-trivia-3k6c)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Chrome as a Code Editor and Debugger](https://dev.to/asayerio_techblog/how-to-use-chrome-as-a-code-editor-and-debugger-294b)
 - [Dev.to/JS] [Weekend Project: US Congressional Trading Cards &lpar;In Progress&rpar;](https://dev.to/connorthemiller/weekend-project-us-congressional-trading-cards-in-progress-1ncm)
 - [Dev.to/JS] [What are you testing?](https://dev.to/noriller/what-are-you-testing-35jd)
-- [Dev.to/JS] [Part One: Building a Decentralized Exchange with Solidity and React](https://dev.to/sleepytenor/part-one-building-a-decentralized-exchange-with-solidity-and-react-2ne0)
-- [Dev.to/JS] [Would you like to know what I&#39;ve learned by building Expense Tracking App?](https://dev.to/pavelkeyzik/would-you-like-to-know-what-ive-learned-by-building-expense-tracking-app-1e3j)
 - [Lifehacker] [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
