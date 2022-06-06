@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
+- [Dev.to/JS] [Paracetamol.js💊| #134: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-134-explica-este-codigo-javascript-14ja)
+- [Dev.to/JS] [Ng-News: Episode 22/22](https://dev.to/rainerhahnekamp/ng-news-episode-2222-360f)
+- [Lifehacker] [How to Wash a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
+- [Lifehacker] [The Airlines Most Likely to Suck, According to Department of Transportation Data](https://lifehacker.com/the-airlines-most-likely-to-suck-according-to-departme-1849023546)
+- [Dev.to/JS] [Day 1 : Objects in javascript](https://dev.to/leo1612d/day-1-objects-in-javascript-4h9p)
 - [Dev.to/JS] [Day-102 Training At Ryaz](https://dev.to/mahin651/day-102-training-at-ryaz-jh3)
 - [Dev.to/JS] [Null vs undefined in javascript](https://dev.to/lucaspaganini/null-vs-undefined-in-javascript-2lfn)
 - [Dev.to/JS] [Native Smooth Scroll with pure CSS and JS](https://dev.to/lucaspaganini/native-smooth-scroll-with-pure-css-and-js-2dfk)
@@ -34,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Avoid Stale Closures In React](https://dev.to/kaankorkmaz/avoid-stale-closures-in-react-1oai)
 - [Dev.to/JS] [master the `rootMargin` option in intersection observer.](https://dev.to/_hariti/master-the-rootmargin-in-intersection-observer-b3d)
 - [Dev.to/JS] [Scrape all images from websites](https://dev.to/pikashow5/scrape-all-images-from-websites-288d)
-- [Dev.to/JS] [Javascript Objects](https://dev.to/nameismani/javascript-object-2od9)
 - [Lifehacker] [3 Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/3-things-in-your-home-you-should-probably-replace-right-1849023094)
-- [Dev.to/JS] [Fullscreen API](https://dev.to/matiaslopezd/fullscreen-api-33p4)
-- [Dev.to/JS] [How to avoid problems on your javaScript code.](https://dev.to/callmebobonwa/how-to-avoid-problems-on-your-javascript-code-p4k)
 - [Lifehacker] [All the Ways You Should be Using Your Vacuum, but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-your-vacuum-but-aren-1849022823)
 - [Lifehacker] [Here&#39;s How Often You Really Need to Wash Your Swimsuit](https://lifehacker.com/heres-how-often-you-really-need-to-wash-your-swimsuit-1849022413)
 - [Lifehacker] [Use ‘Body Doubling’ to Increase Your Productivity](https://lifehacker.com/use-body-doubling-to-increase-your-productivity-1849021265)
@@ -59,9 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get a Free Chipotle Burrito for Watching the NBA Finals](https://lifehacker.com/you-can-get-a-free-chipotle-burrito-for-watching-the-nb-1849015357)
 - [Lifehacker] [Try These Breakfast Ideas That Aren&#39;t All Carbs](https://lifehacker.com/try-these-breakfast-ideas-that-arent-all-carbs-1848963897)
 - [Lifehacker] [Are Sit-Ups Actually Bad for Your Back?](https://lifehacker.com/are-sit-ups-actually-bad-for-your-back-1849015354)
-- [Lifehacker] [Up Your Ice Cream Game With One of These Easy Sundae Sauces](https://lifehacker.com/up-your-ice-cream-game-with-one-of-these-easy-sundae-sa-1849015466)
-- [Lifehacker] [This Cucumber Gimlet Is a Weekend Necessity](https://lifehacker.com/this-cucumber-gimlet-is-a-weekend-necessity-1849014429)
-- [Lifehacker] [Don&#39;t Get Burned by These Five Sunscreen Myths](https://lifehacker.com/dont-get-burned-by-these-five-sunscreen-myths-1849014936)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
 ---
