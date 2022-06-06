@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Are Your Unwritten Rules of Driving Etiquette?](https://lifehacker.com/what-are-your-unwritten-rules-of-driving-etiquette-1849023077)
+- [Dev.to/JS] [Avoid Stale Closures In React](https://dev.to/kaankorkmaz/avoid-stale-closures-in-react-1oai)
+- [Dev.to/JS] [master the `rootMargin` option in intersection observer.](https://dev.to/_hariti/master-the-rootmargin-in-intersection-observer-b3d)
+- [Dev.to/JS] [Scrape all images from websites](https://dev.to/pikashow5/scrape-all-images-from-websites-288d)
+- [Dev.to/JS] [Javascript Objects](https://dev.to/nameismani/javascript-object-2od9)
+- [Lifehacker] [3 Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/3-things-in-your-home-you-should-probably-replace-right-1849023094)
+- [Dev.to/JS] [Fullscreen API](https://dev.to/matiaslopezd/fullscreen-api-33p4)
+- [Dev.to/JS] [How to avoid problems on your javaScript code.](https://dev.to/callmebobonwa/how-to-avoid-problems-on-your-javascript-code-p4k)
+- [Dev.to/JS] [Data Types in Javascript](https://dev.to/nameismani/data-types-in-javascript-2gdc)
 - [Lifehacker] [All the Ways You Should be Using Your Vacuum, but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-your-vacuum-but-aren-1849022823)
 - [Dev.to/JS] [PROJECTS FOR BEGINNERS](https://dev.to/kentgaurana/projects-for-beginners-4j58)
 - [Dev.to/JS] [NFT Export | Made with Next JS](https://dev.to/madewithjavascript/nft-export-made-with-next-js-4ghj)
@@ -33,16 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My story with Cubecubed](https://dev.to/imaphatduc/my-story-with-cubecubed-2da2)
 - [Dev.to/JS] [Testing a React Application Creating a Cypress Test](https://dev.to/diballesteros/testing-a-react-application-creating-a-cypress-test-53dn)
 - [Lifehacker] [How to Keep Your Swim From Damaging Your Hair](https://lifehacker.com/how-to-keep-your-swim-from-damaging-your-hair-1849019603)
-- [Dev.to/JS] [i18next Crash Course | the JavaScript i18n framework](https://dev.to/adrai/i18next-crash-course-the-javascript-i18n-framework-2a4p)
-- [Dev.to/JS] [👉 REST API vs GRAPHQL , which one is better? 🤔](https://dev.to/rohan2734/rest-api-vs-graphql-which-one-is-better-33nk)
-- [Dev.to/JS] [Custom React Hook to get Contentful Entries Dynamically](https://dev.to/neaten_network/custom-react-hook-to-get-contentful-entries-dynamically-19h5)
 - [Lifehacker] [Should You Use Babbel or Duolingo?](https://lifehacker.com/should-you-use-babbel-or-duolingo-1849015665)
-- [Dev.to/JS] [New Web App Launch - WordSearch360.com](https://dev.to/abdularis/new-web-app-launch-wordsearch360com-27fc)
-- [Dev.to/JS] [Shallow Copy and Deep Copy](https://dev.to/aditi05/shallow-copy-and-deep-copy-10hh)
-- [Dev.to/JS] [Hitchweb! Browser Extension🧩, Talk to people on same website 🤩](https://dev.to/rajeshj3/hitchweb-browser-extension-talk-to-people-on-same-website-1ic)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Lifehacker] [The 7 Deadly Sins of Car Maintenance](https://lifehacker.com/the-7-deadly-sins-of-car-maintenance-1849015935)
-- [Dev.to/JS] [Simple Contact form using Next.js &amp; Netlify + G-mail notification](https://dev.to/neaten_network/simple-contact-form-using-nextjs-netlify-g-mail-notification-492o)
 - [Lifehacker] [How to Tell If Your Child Has Binge Eating Disorder &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-your-child-has-binge-eating-disorder-an-1849008247)
 - [Lifehacker] [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Cucumber Gimlet Is a Weekend Necessity](https://lifehacker.com/this-cucumber-gimlet-is-a-weekend-necessity-1849014429)
 - [Lifehacker] [Don&#39;t Get Burned by These Five Sunscreen Myths](https://lifehacker.com/dont-get-burned-by-these-five-sunscreen-myths-1849014936)
 - [Lifehacker] [The Easiest Ways to Make Your Cell Phone Bill Cheaper](https://lifehacker.com/the-easiest-ways-to-cut-down-your-cell-phone-bill-1849014104)
-- [Lifehacker] [Why You Should Book a Budget Hotel Over Luxury Lodging &lpar;Besides Saving Money&rpar;](https://lifehacker.com/why-you-should-book-a-budget-hotel-over-luxury-lodging-1849011167)
-- [Lifehacker] [How to Make Staying at a Hotel With Your Kids Suck Less](https://lifehacker.com/how-to-make-staying-at-a-hotel-with-your-kids-suck-less-1849013334)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
 ---
