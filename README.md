@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day-102 Training At Ryaz](https://dev.to/mahin651/day-102-training-at-ryaz-jh3)
+- [Dev.to/JS] [Null vs undefined in javascript](https://dev.to/lucaspaganini/null-vs-undefined-in-javascript-2lfn)
+- [Dev.to/JS] [Native Smooth Scroll with pure CSS and JS](https://dev.to/lucaspaganini/native-smooth-scroll-with-pure-css-and-js-2dfk)
+- [Dev.to/JS] [Day 3/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-330-days-of-codewars-javascript-edition-4ch8)
+- [Lifehacker] [The Best Method to Evenly Season Your Meat](https://lifehacker.com/the-best-method-to-evenly-season-your-meat-1849023672)
+- [Dev.to/JS] [YouTube subscribe button animation](https://dev.to/deepakydv9315/youtube-subscribe-button-animation-41b)
+- [Dev.to/JS] [How can I Make Web Developer&#39;s Life Easier?](https://dev.to/zelal/how-can-i-make-web-developers-life-easier-hde)
 - [Lifehacker] [What Are Your Unwritten Rules of Driving Etiquette?](https://lifehacker.com/what-are-your-unwritten-rules-of-driving-etiquette-1849023077)
 - [Dev.to/JS] [Avoid Stale Closures In React](https://dev.to/kaankorkmaz/avoid-stale-closures-in-react-1oai)
 - [Dev.to/JS] [master the `rootMargin` option in intersection observer.](https://dev.to/_hariti/master-the-rootmargin-in-intersection-observer-b3d)
@@ -31,16 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [3 Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/3-things-in-your-home-you-should-probably-replace-right-1849023094)
 - [Dev.to/JS] [Fullscreen API](https://dev.to/matiaslopezd/fullscreen-api-33p4)
 - [Dev.to/JS] [How to avoid problems on your javaScript code.](https://dev.to/callmebobonwa/how-to-avoid-problems-on-your-javascript-code-p4k)
-- [Dev.to/JS] [Data Types in Javascript](https://dev.to/nameismani/data-types-in-javascript-2gdc)
 - [Lifehacker] [All the Ways You Should be Using Your Vacuum, but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-your-vacuum-but-aren-1849022823)
-- [Dev.to/JS] [PROJECTS FOR BEGINNERS](https://dev.to/kentgaurana/projects-for-beginners-4j58)
-- [Dev.to/JS] [NFT Export | Made with Next JS](https://dev.to/madewithjavascript/nft-export-made-with-next-js-4ghj)
 - [Lifehacker] [Here&#39;s How Often You Really Need to Wash Your Swimsuit](https://lifehacker.com/heres-how-often-you-really-need-to-wash-your-swimsuit-1849022413)
 - [Lifehacker] [Use ‘Body Doubling’ to Increase Your Productivity](https://lifehacker.com/use-body-doubling-to-increase-your-productivity-1849021265)
-- [Dev.to/JS] [What is create react app?](https://dev.to/davidwilliam_/what-is-create-react-app-2b3h)
 - [Lifehacker] [These Are the Best Credit Cards for People With Bad Credit](https://lifehacker.com/these-are-the-best-credit-cards-for-people-with-bad-cre-1849020987)
-- [Dev.to/JS] [My story with Cubecubed](https://dev.to/imaphatduc/my-story-with-cubecubed-2da2)
-- [Dev.to/JS] [Testing a React Application Creating a Cypress Test](https://dev.to/diballesteros/testing-a-react-application-creating-a-cypress-test-53dn)
 - [Lifehacker] [How to Keep Your Swim From Damaging Your Hair](https://lifehacker.com/how-to-keep-your-swim-from-damaging-your-hair-1849019603)
 - [Lifehacker] [Should You Use Babbel or Duolingo?](https://lifehacker.com/should-you-use-babbel-or-duolingo-1849015665)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Up Your Ice Cream Game With One of These Easy Sundae Sauces](https://lifehacker.com/up-your-ice-cream-game-with-one-of-these-easy-sundae-sa-1849015466)
 - [Lifehacker] [This Cucumber Gimlet Is a Weekend Necessity](https://lifehacker.com/this-cucumber-gimlet-is-a-weekend-necessity-1849014429)
 - [Lifehacker] [Don&#39;t Get Burned by These Five Sunscreen Myths](https://lifehacker.com/dont-get-burned-by-these-five-sunscreen-myths-1849014936)
-- [Lifehacker] [The Easiest Ways to Make Your Cell Phone Bill Cheaper](https://lifehacker.com/the-easiest-ways-to-cut-down-your-cell-phone-bill-1849014104)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
 ---
