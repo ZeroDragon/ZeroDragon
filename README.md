@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use Chrome as a Code Editor and Debugger](https://dev.to/asayerio_techblog/how-to-use-chrome-as-a-code-editor-and-debugger-294b)
 - [Dev.to/JS] [Weekend Project: US Congressional Trading Cards &lpar;In Progress&rpar;](https://dev.to/connorthemiller/weekend-project-us-congressional-trading-cards-in-progress-1ncm)
 - [Dev.to/JS] [What are you testing?](https://dev.to/noriller/what-are-you-testing-35jd)
 - [Dev.to/JS] [Part One: Building a Decentralized Exchange with Solidity and React](https://dev.to/sleepytenor/part-one-building-a-decentralized-exchange-with-solidity-and-react-2ne0)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [== versus ===](https://dev.to/karamkoujan/-versus--70e)
 - [Dev.to/JS] [Authenticate users with Firebase](https://dev.to/leandroandrade/authenticate-users-with-firebase-35l9)
 - [Dev.to/JS] [Beginner&#39;s guide: Your first test](https://dev.to/skirianov/beginners-guide-your-first-test-2pda)
-- [Dev.to/JS] [create table from array of objects in one line of code](https://dev.to/frankwisniewski/create-table-from-array-of-objects-in-one-line-of-code-c57)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
