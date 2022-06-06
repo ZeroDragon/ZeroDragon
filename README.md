@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Setup NextJS with typescript, EsLint, prettier and husky](https://dev.to/abhisheksrajput/setup-nextjs-with-typescript-eslint-prettier-and-husky-49lb)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😡.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2lk3)
+- [Dev.to/JS] [JavaScript project](https://dev.to/mohitbilala/javascript-project-53n7)
 - [Dev.to/JS] [Learn Qt by Udemy course](https://dev.to/hiromichinomata/learn-qt-by-udemy-course-26jc)
 - [Dev.to/JS] [uses of useNavigate instead of useHistory](https://dev.to/remonhasan/uses-of-usenavigate-instead-of-usehistory-5fg6)
 - [Dev.to/JS] [Can we publish Power Apps Portal to App Source like Power Apps?](https://dev.to/syamalakancharla/can-we-publish-power-apps-portal-to-app-source-like-power-apps-52d1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jvascript Inheritance](https://dev.to/talenttinaapi/jvascript-inheritance-499)
 - [Dev.to/JS] [Top 15 Best Books for JavaScript Beginners](https://dev.to/lambdatest/top-15-best-books-for-javascript-beginners-4nmm)
 - [Dev.to/JS] [Conditional Statements: Part 3](https://dev.to/rahulrajrd/conditional-statements-part-3-4hc6)
-- [Dev.to/JS] [Angular - Array destructuring](https://dev.to/sandrocagara/angular-v13-array-destructuring-31m5)
-- [Dev.to/JS] [Creating Gooey Tooltips for Range Sliders using SVG Filters ✨](https://dev.to/n3r4zzurr0/creating-gooey-tooltips-for-range-sliders-using-svg-filters-54a7)
-- [Dev.to/JS] [Asteroid Trivia ☄️🐋](https://dev.to/stelianok/asteroid-trivia-3k6c)
 - [Lifehacker] [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
