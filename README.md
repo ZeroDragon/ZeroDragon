@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Wonderful World of JavaScript Scopes](https://dev.to/stejosi/the-wonderful-world-of-javascript-scopes-2c29)
+- [Dev.to/JS] [Assigning and Declaring Values and Variables](https://dev.to/stejosi/assigning-and-declaring-values-and-variables-2k0a)
+- [Dev.to/JS] [Update for Host and Database.](https://dev.to/pastes/update-for-host-and-database-2fi5)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Dev.to/JS] [Symbols in package.json](https://dev.to/snikhill/symbols-in-packagejson-47io)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
@@ -37,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [#1 Front-end things and not only](https://dev.to/dbarabashdev/1-front-end-things-and-not-only-5gkj)
 - [Dev.to/JS] [Performance CSS x JS](https://dev.to/viviurbano/performance-css-x-js-4cjd)
 - [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
-- [Dev.to/JS] [How to make firebase queries more readable](https://dev.to/dbarabashdev/how-to-make-firebase-quries-more-readable-3ajf)
-- [Dev.to/JS] [Paracetamol.js💊| #134: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-134-explica-este-codigo-javascript-14ja)
-- [Dev.to/JS] [Ng-News: Episode 22/22](https://dev.to/rainerhahnekamp/ng-news-episode-2222-360f)
 - [Lifehacker] [How to Wash a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
 - [Lifehacker] [The Airlines Most Likely to Suck, According to Department of Transportation Data](https://lifehacker.com/the-airlines-most-likely-to-suck-according-to-departme-1849023546)
 - [Lifehacker] [The Best Method to Evenly Season Your Meat](https://lifehacker.com/the-best-method-to-evenly-season-your-meat-1849023672)
