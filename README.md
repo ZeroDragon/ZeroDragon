@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Input Element as Display](https://dev.to/kristenkinnearohlmann/using-input-element-as-display-2ob7)
 - [Dev.to/JS] [Response validation with Yup](https://dev.to/hurricaneinteractive/response-validation-with-yup-2018)
 - [Dev.to/JS] [How to use Chrome as a Code Editor and Debugger](https://dev.to/asayerio_techblog/how-to-use-chrome-as-a-code-editor-and-debugger-294b)
 - [Dev.to/JS] [Weekend Project: US Congressional Trading Cards &lpar;In Progress&rpar;](https://dev.to/connorthemiller/weekend-project-us-congressional-trading-cards-in-progress-1ncm)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Error: listen EADDRINUSE: address already in use XXXX](https://dev.to/binarybeast880/error-listen-eaddrinuse-address-already-in-use-xxxx-jho)
 - [Lifehacker] [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
 - [Dev.to/JS] [== versus ===](https://dev.to/karamkoujan/-versus--70e)
-- [Dev.to/JS] [Authenticate users with Firebase](https://dev.to/leandroandrade/authenticate-users-with-firebase-35l9)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
