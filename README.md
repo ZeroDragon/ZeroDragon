@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways You Should be Using Your Vacuum, but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-your-vacuum-but-aren-1849022823)
+- [Dev.to/JS] [PROJECTS FOR BEGINNERS](https://dev.to/kentgaurana/projects-for-beginners-4j58)
+- [Dev.to/JS] [NFT Export | Made with Next JS](https://dev.to/madewithjavascript/nft-export-made-with-next-js-4ghj)
+- [Lifehacker] [Here&#39;s How Often You Really Need to Wash Your Swimsuit](https://lifehacker.com/heres-how-often-you-really-need-to-wash-your-swimsuit-1849022413)
 - [Lifehacker] [Use ‘Body Doubling’ to Increase Your Productivity](https://lifehacker.com/use-body-doubling-to-increase-your-productivity-1849021265)
 - [Dev.to/JS] [What is create react app?](https://dev.to/davidwilliam_/what-is-create-react-app-2b3h)
 - [Lifehacker] [These Are the Best Credit Cards for People With Bad Credit](https://lifehacker.com/these-are-the-best-credit-cards-for-people-with-bad-cre-1849020987)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Lifehacker] [The 7 Deadly Sins of Car Maintenance](https://lifehacker.com/the-7-deadly-sins-of-car-maintenance-1849015935)
 - [Dev.to/JS] [Simple Contact form using Next.js &amp; Netlify + G-mail notification](https://dev.to/neaten_network/simple-contact-form-using-nextjs-netlify-g-mail-notification-492o)
-- [Dev.to/JS] [Bootstrap + JQuery - How to create a button checkbox](https://dev.to/sandrocagara/bootstrap-jquery-how-to-create-a-button-checkbox-5ekn)
 - [Lifehacker] [How to Tell If Your Child Has Binge Eating Disorder &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-your-child-has-binge-eating-disorder-an-1849008247)
-- [Dev.to/JS] [Create Blog Post Bookmarks in Next.js](https://dev.to/hackmamba/create-blog-post-bookmarks-in-nextjs-344)
 - [Lifehacker] [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Ways to Make Your Cell Phone Bill Cheaper](https://lifehacker.com/the-easiest-ways-to-cut-down-your-cell-phone-bill-1849014104)
 - [Lifehacker] [Why You Should Book a Budget Hotel Over Luxury Lodging &lpar;Besides Saving Money&rpar;](https://lifehacker.com/why-you-should-book-a-budget-hotel-over-luxury-lodging-1849011167)
 - [Lifehacker] [How to Make Staying at a Hotel With Your Kids Suck Less](https://lifehacker.com/how-to-make-staying-at-a-hotel-with-your-kids-suck-less-1849013334)
-- [Lifehacker] [The Best Cheap and Easy DIY Planters](https://lifehacker.com/the-best-cheap-and-easy-diy-planters-1849012418)
-- [Lifehacker] [You Can Make Instagram DMs Better](https://lifehacker.com/you-can-make-instagram-dms-better-1849012763)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
 ---
