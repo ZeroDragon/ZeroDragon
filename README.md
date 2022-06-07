@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why I always &quot;advocate&quot; for typescript 😊](https://dev.to/evansifyke/why-i-always-advocate-for-typescript-44dl)
 - [Dev.to/JS] [Building a Phone Number Verificator with JavaScript](https://dev.to/elli/building-a-phone-number-verificator-with-javascript-8ai)
 - [Dev.to/JS] [How to open and analyse large JSON files online](https://dev.to/pavlopaska/how-to-open-and-analyse-large-json-files-online-b08)
 - [Dev.to/JS] [EASY PEASY ROAD MAP TO FRONTEND DEVELOPMENT🗺️](https://dev.to/glowreeyah/easy-peasy-road-map-to-frontend-development-2ail)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why we should use Node.js?](https://dev.to/nethsaraliyanage/why-we-should-use-nodejs-4b43)
 - [Dev.to/JS] [Pigeonhole Sort](https://dev.to/henryong92/pigeonhole-sort-jnd)
 - [Dev.to/JS] [Guideline to Integrate Huawei ID button to Sign in &lpar;Account Kit&rpar; using React Native](https://dev.to/hmscommunity/guideline-to-integrate-huawei-id-button-to-sign-in-account-kit-using-react-native-1mpj)
-- [Dev.to/JS] [A Beginner’s Guide To Test Automation With Javascript&lpar;Nightwatch.js&rpar;. Part 3.](https://dev.to/loadero/a-beginners-guide-to-test-automation-with-javascriptnightwatchjs-part-3-1kh9)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
