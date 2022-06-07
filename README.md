@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Crash Notes](https://dev.to/sujithvsuresh/javascript-crash-notes-31b5)
+- [Dev.to/JS] [What is Serverless Architecture? Popular Use Cases, Pros &amp; Cons](https://dev.to/dhiwise/what-is-serverless-architecture-popular-use-cases-the-advantages-and-limitations-5feb)
 - [Dev.to/JS] [Refactoring 005 - Replace Comment with Function Name](https://dev.to/mcsee/refactoring-005-replace-comment-with-function-name-4lpf)
 - [Dev.to/JS] [Sourcecode syntax highlighting in html with highlight.js](https://dev.to/coderallan/sourcecode-syntax-highlighting-in-html-with-highlightjs-2nm2)
 - [Dev.to/JS] [Reduce the use of if-else nesting, you need a better selective structure!](https://dev.to/akarachen/reduce-the-use-of-if-else-nesting-you-need-a-better-selective-structure-32ce)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Dev.to/JS] [Symbols in package.json](https://dev.to/snikhill/symbols-in-packagejson-47io)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
-- [Dev.to/JS] [200. Number of Islands 🚀](https://dev.to/samuelhinchliffe/200-number-of-islands-22gn)
-- [Dev.to/JS] [SEO Meta Tags, Rich Text, Canonical Tag, Favicon Set up in Next.js/React.js](https://dev.to/neaten_network/seo-meta-tags-rich-text-canonical-favicon-set-up-nextjsreactjs-1hff)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
 - [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
 - [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
