@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#1.Basic algorithms problems for frontend developers.](https://dev.to/talenttinaapi/1basic-algorithms-problems-for-frontend-developers-3kja)
+- [Dev.to/JS] [Why we should use Node.js?](https://dev.to/nethsaraliyanage/why-we-should-use-nodejs-4b43)
+- [Dev.to/JS] [Pigeonhole Sort](https://dev.to/henryong92/pigeonhole-sort-jnd)
 - [Dev.to/JS] [Guideline to Integrate Huawei ID button to Sign in &lpar;Account Kit&rpar; using React Native](https://dev.to/hmscommunity/guideline-to-integrate-huawei-id-button-to-sign-in-account-kit-using-react-native-1mpj)
 - [Dev.to/JS] [A Beginner’s Guide To Test Automation With Javascript&lpar;Nightwatch.js&rpar;. Part 3.](https://dev.to/loadero/a-beginners-guide-to-test-automation-with-javascriptnightwatchjs-part-3-1kh9)
 - [Dev.to/JS] [JavaScript Crash Notes](https://dev.to/sujithvsuresh/javascript-crash-notes-31b5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reduce the use of if-else nesting, you need a better selective structure!](https://dev.to/akarachen/reduce-the-use-of-if-else-nesting-you-need-a-better-selective-structure-32ce)
 - [Dev.to/JS] [Eliminating duplicates in an array **Writing in-progress**](https://dev.to/jmjkim/eliminating-duplicates-in-an-array-writing-in-progress-3gl4)
 - [Dev.to/JS] [Longest string without repeating characters in javaascript](https://dev.to/bvnkumar/longest-string-without-repeating-characters-150k)
-- [Dev.to/JS] [Ultrasonic payments](https://dev.to/stripe/ultrasonic-payments-2958)
-- [Dev.to/JS] [The Wonderful World of JavaScript Scopes](https://dev.to/stejosi/the-wonderful-world-of-javascript-scopes-2c29)
-- [Dev.to/JS] [Assigning and Declaring Values and Variables](https://dev.to/stejosi/assigning-and-declaring-values-and-variables-2k0a)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
