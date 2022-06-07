@@ -23,9 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How would you call this transition effect?](https://dev.to/genejams/how-would-you-call-this-transition-effect-k0o)
+- [Dev.to/JS] [Get the Largest Number](https://dev.to/mrmatteorusso/get-the-largest-number-294n)
+- [Lifehacker] [Make Spam Fries in Your Air Fryer](https://lifehacker.com/make-spam-fries-in-your-air-fryer-1849029707)
+- [Dev.to/JS] [Clean code exercises - part 2](https://dev.to/ederchrono/clean-code-exercises-part-2-3ee3)
 - [Lifehacker] [All the Hidden iOS 16 Features Worth Knowing About](https://lifehacker.com/all-the-hidden-ios-16-features-worth-knowing-about-1849028747)
 - [Lifehacker] [Real Estate Reality Shows Are Lying to You](https://lifehacker.com/real-estate-reality-shows-are-lying-to-you-1849028260)
-- [Dev.to/JS] [Midnight Fun- Sharing Meme 😆](https://dev.to/devash98/midnight-fun-sharing-meme-49g2)
+- [Dev.to/JS] [Midnight Fun- Meme on JavaScript splice&lpar; &rpar; 😆](https://dev.to/devash98/midnight-fun-sharing-meme-49g2)
 - [Dev.to/JS] [How to Delete the node modules Folder on Windows](https://dev.to/raaj/how-to-delete-the-node-modules-folder-on-windows-3a2b)
 - [Dev.to/JS] [Testing your Chainlink VRF powered Smart Contract](https://dev.to/abhikbanerjee99/testing-your-chainlink-vrf-powered-smart-contract-m3i)
 - [Lifehacker] [The Best Ways to Get Kids to Exercise When They Hate Team Sports](https://lifehacker.com/the-best-ways-to-get-kids-to-exercise-when-they-hate-te-1849029225)
@@ -36,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is it a good idea to build backend with nextJS?](https://dev.to/mozammelh/is-it-a-good-idea-to-build-backend-with-nextjs-2oeg)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 6. How to Query Latest Block in the Chain](https://dev.to/onflow/build-on-flow-learn-fcl-6-how-to-query-latest-block-in-the-chain-8gh)
 - [Dev.to/JS] [Top Javascript and Typescript Short-hand You must know](https://dev.to/vsvaibhav20161/top-javascript-and-typescript-short-hand-you-must-know-hpl)
-- [Dev.to/JS] [Day 2 : What is pure function in JS ?](https://dev.to/leo1612d/what-is-pure-function-in-js--ef8)
-- [Dev.to/JS] [Which is your best tutorial or website to learn javaScript?](https://dev.to/fairywsr/which-is-your-best-tutorial-or-website-to-learn-javascript-2gmp)
 - [Lifehacker] [Is It Actually Bad to Leave Sunscreen on Overnight?](https://lifehacker.com/is-it-actually-bad-to-leave-sunscreen-on-overnight-1849028522)
-- [Dev.to/JS] [Any Suggestion and Advise for beginners to learn javaScript easily!](https://dev.to/fairywsr/any-suggestion-and-advise-for-beginners-to-learn-javascript-easily-23be)
 - [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
 - [Lifehacker] [You Need Smarter Window Treatments This Summer](https://lifehacker.com/you-need-smarter-window-treatments-this-summer-1849027162)
 - [Lifehacker] [How to Keep Your AC Unit Working All Summer](https://lifehacker.com/how-to-keep-your-ac-unit-working-all-summer-1849027071)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are Your Unwritten Rules of Driving Etiquette?](https://lifehacker.com/what-are-your-unwritten-rules-of-driving-etiquette-1849023077)
 - [Lifehacker] [3 Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/3-things-in-your-home-you-should-probably-replace-right-1849023094)
 - [Lifehacker] [All the Ways You Should be Using Your Vacuum, but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-your-vacuum-but-aren-1849022823)
-- [Lifehacker] [Here&#39;s How Often You Really Need to Wash Your Swimsuit](https://lifehacker.com/heres-how-often-you-really-need-to-wash-your-swimsuit-1849022413)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
