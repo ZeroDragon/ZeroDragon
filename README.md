@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Get Started With Plugin Development for Strapi JS](https://dev.to/paulbratslavsky/how-to-get-started-with-plugin-development-for-strapi-js-2nbn)
+- [Lifehacker] [What to Do When You&#39;re Caught Stealing From Work](https://lifehacker.com/what-to-do-when-youre-caught-stealing-from-work-1849022521)
+- [Dev.to/JS] [5 Proven ways to Solve any Coding Problems Like an Expert in 2022](https://dev.to/sojinsamuel/5-proven-ways-to-solve-any-coding-problems-like-an-expert-in-2022-1adh)
+- [Dev.to/JS] [Solving For Binary Gap Using JavaScript](https://dev.to/_algowhacks/solving-for-binary-gap-using-javascript-a1p)
 - [Lifehacker] [How to Install the macOS 13 Ventura Developer Beta](https://lifehacker.com/how-to-install-the-macos-13-ventura-developer-beta-1849026306)
 - [Dev.to/JS] [Link Preview Set Up](https://dev.to/neaten_network/link-preview-set-up-27nd)
 - [Lifehacker] [The Best New macOS Ventura Features Coming to Your MacBook](https://lifehacker.com/the-best-new-macos-ventura-features-coming-to-your-macb-1849027260)
@@ -32,13 +36,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Cope With Not Feeling &#39;Adult&#39; Enough](https://lifehacker.com/how-to-cope-with-not-feeling-adult-enough-1849024003)
 - [Dev.to/JS] [How to calculate the distance between two points, using math](https://dev.to/steinbring/how-to-calculate-the-distance-between-two-points-using-math-27gh)
 - [Dev.to/JS] [Building cross browser extensions - My experience](https://dev.to/fireping32/building-cross-browser-extensions-my-experience-1jll)
-- [Dev.to/JS] [Most Popular Mobile App Development Frameworks in 2022](https://dev.to/ameliawenham/most-popular-mobile-app-development-frameworks-in-2022-a9h)
 - [Dev.to/JS] [How do you fetch and process your data](https://dev.to/get_infinite/how-do-you-fetch-and-process-your-data-1icm)
 - [Dev.to/JS] [Navigating your react datagrid](https://dev.to/get_infinite/navigating-your-react-datagrid-42h5)
 - [Dev.to/JS] [What is a Variable in Programming?](https://dev.to/hermitex/what-is-a-variable-in-programming-5990)
 - [Dev.to/JS] [Fast Connect - Make a fast video call without registration](https://dev.to/huseyn0w/fast-connect-make-a-fast-video-call-without-registration-4oci)
-- [Dev.to/JS] [Why I always &quot;advocate&quot; for typescript 😊](https://dev.to/evansifyke/why-i-always-advocate-for-typescript-44dl)
-- [Dev.to/JS] [Building a Phone Number Verificator with JavaScript](https://dev.to/elli/building-a-phone-number-verificator-with-javascript-8ai)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Your Child Has Binge Eating Disorder &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-your-child-has-binge-eating-disorder-an-1849008247)
 - [Lifehacker] [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
-- [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
