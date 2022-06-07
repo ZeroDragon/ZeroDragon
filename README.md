@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Hidden iOS 16 Features Worth Knowing About](https://lifehacker.com/all-the-hidden-ios-16-features-worth-knowing-about-1849028747)
+- [Lifehacker] [Real Estate Reality Shows Are Lying to You](https://lifehacker.com/real-estate-reality-shows-are-lying-to-you-1849028260)
+- [Dev.to/JS] [Midnight Fun- Sharing Meme 😆](https://dev.to/devash98/midnight-fun-sharing-meme-49g2)
+- [Dev.to/JS] [How to Delete the node modules Folder on Windows](https://dev.to/raaj/how-to-delete-the-node-modules-folder-on-windows-3a2b)
+- [Dev.to/JS] [Testing your Chainlink VRF powered Smart Contract](https://dev.to/abhikbanerjee99/testing-your-chainlink-vrf-powered-smart-contract-m3i)
+- [Lifehacker] [The Best Ways to Get Kids to Exercise When They Hate Team Sports](https://lifehacker.com/the-best-ways-to-get-kids-to-exercise-when-they-hate-te-1849029225)
 - [Dev.to/JS] [Running Your First Test With NightWatchJS](https://dev.to/lambdatest/running-your-first-test-with-nightwatchjs-20jn)
 - [Dev.to/JS] [Scraping Amazon using Puppeteer and Browserless](https://dev.to/tyry327/scraping-amazon-using-puppeteer-and-browserless-3n24)
 - [Dev.to/JS] [Day-103 Training At Ryaz](https://dev.to/mahin651/day-103-training-at-ryaz-13dh)
@@ -34,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which is your best tutorial or website to learn javaScript?](https://dev.to/fairywsr/which-is-your-best-tutorial-or-website-to-learn-javascript-2gmp)
 - [Lifehacker] [Is It Actually Bad to Leave Sunscreen on Overnight?](https://lifehacker.com/is-it-actually-bad-to-leave-sunscreen-on-overnight-1849028522)
 - [Dev.to/JS] [Any Suggestion and Advise for beginners to learn javaScript easily!](https://dev.to/fairywsr/any-suggestion-and-advise-for-beginners-to-learn-javascript-easily-23be)
-- [Dev.to/JS] [[JS Quiz] Guess the Order of Execution &lpar;chances of getting this right are slim&rpar;](https://dev.to/domiii/js-quiz-guess-the-order-of-execution-chances-of-getting-this-right-are-slim-50eh)
 - [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
-- [Dev.to/JS] [MongoDB and PostgreSQL database testing with Jest and Docker containers](https://dev.to/ivandotv/mongodb-and-postgresql-database-testing-with-jest-and-docker-containers-56bc)
-- [Dev.to/JS] [Get Up and Running With React, Tailwind and Storybook in 2022](https://dev.to/bhison/get-up-and-running-with-react-tailwind-and-storybook-in-2022-10p0)
 - [Lifehacker] [You Need Smarter Window Treatments This Summer](https://lifehacker.com/you-need-smarter-window-treatments-this-summer-1849027162)
 - [Lifehacker] [How to Keep Your AC Unit Working All Summer](https://lifehacker.com/how-to-keep-your-ac-unit-working-all-summer-1849027071)
 - [Lifehacker] [What to Do When You&#39;re Caught Stealing From Work](https://lifehacker.com/what-to-do-when-youre-caught-stealing-from-work-1849022521)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [3 Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/3-things-in-your-home-you-should-probably-replace-right-1849023094)
 - [Lifehacker] [All the Ways You Should be Using Your Vacuum, but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-your-vacuum-but-aren-1849022823)
 - [Lifehacker] [Here&#39;s How Often You Really Need to Wash Your Swimsuit](https://lifehacker.com/heres-how-often-you-really-need-to-wash-your-swimsuit-1849022413)
-- [Lifehacker] [Use ‘Body Doubling’ to Increase Your Productivity](https://lifehacker.com/use-body-doubling-to-increase-your-productivity-1849021265)
-- [Lifehacker] [These Are the Best Credit Cards for People With Bad Credit](https://lifehacker.com/these-are-the-best-credit-cards-for-people-with-bad-cre-1849020987)
-- [Lifehacker] [How to Keep Your Swim From Damaging Your Hair](https://lifehacker.com/how-to-keep-your-swim-from-damaging-your-hair-1849019603)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
