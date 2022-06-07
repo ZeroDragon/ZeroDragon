@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Eliminating duplicates in an array **Writing in-progress**](https://dev.to/jmjkim/eliminating-duplicates-in-an-array-writing-in-progress-3gl4)
 - [Dev.to/JS] [Longest string without repeating characters in javaascript](https://dev.to/bvnkumar/longest-string-without-repeating-characters-150k)
 - [Dev.to/JS] [Ultrasonic payments](https://dev.to/stripe/ultrasonic-payments-2958)
 - [Dev.to/JS] [The Wonderful World of JavaScript Scopes](https://dev.to/stejosi/the-wonderful-world-of-javascript-scopes-2c29)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A simple explainer of fully modular frontends](https://dev.to/richkurtzman/a-simple-explainer-of-fully-modular-frontends-305h)
 - [Dev.to/JS] [Redux-Toolkit CRUD example with React Hooks](https://dev.to/julfikarhaidar/redux-toolkit-crud-example-with-react-hooks-4d98)
 - [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
-- [Dev.to/JS] [A technical tale of NodeSecure - Chapter 2](https://dev.to/fraxken/a-technical-tale-of-nodesecure-chapter-2-2p17)
 - [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
 - [Lifehacker] [How to Wash a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
 - [Lifehacker] [The Airlines Most Likely to Suck, According to Department of Transportation Data](https://lifehacker.com/the-airlines-most-likely-to-suck-according-to-departme-1849023546)
