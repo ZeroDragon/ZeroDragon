@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Refactoring 005 - Replace Comment with Function Name](https://dev.to/mcsee/refactoring-005-replace-comment-with-function-name-4lpf)
+- [Dev.to/JS] [Sourcecode syntax highlighting in html with highlight.js](https://dev.to/coderallan/sourcecode-syntax-highlighting-in-html-with-highlightjs-2nm2)
+- [Dev.to/JS] [Reduce the use of if-else nesting, you need a better selective structure!](https://dev.to/akarachen/reduce-the-use-of-if-else-nesting-you-need-a-better-selective-structure-32ce)
 - [Dev.to/JS] [Eliminating duplicates in an array **Writing in-progress**](https://dev.to/jmjkim/eliminating-duplicates-in-an-array-writing-in-progress-3gl4)
 - [Dev.to/JS] [Longest string without repeating characters in javaascript](https://dev.to/bvnkumar/longest-string-without-repeating-characters-150k)
 - [Dev.to/JS] [Ultrasonic payments](https://dev.to/stripe/ultrasonic-payments-2958)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [200. Number of Islands 🚀](https://dev.to/samuelhinchliffe/200-number-of-islands-22gn)
 - [Dev.to/JS] [SEO Meta Tags, Rich Text, Canonical Tag, Favicon Set up in Next.js/React.js](https://dev.to/neaten_network/seo-meta-tags-rich-text-canonical-favicon-set-up-nextjsreactjs-1hff)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
-- [Dev.to/JS] [JS Promises are monadic... just not the way you&#39;d expect](https://dev.to/voltra/js-promises-are-monadic-just-not-the-way-youd-expect-2h2h)
-- [Dev.to/JS] [A simple explainer of fully modular frontends](https://dev.to/richkurtzman/a-simple-explainer-of-fully-modular-frontends-305h)
-- [Dev.to/JS] [Redux-Toolkit CRUD example with React Hooks](https://dev.to/julfikarhaidar/redux-toolkit-crud-example-with-react-hooks-4d98)
 - [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
 - [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
 - [Lifehacker] [How to Wash a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
