@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways You Could Be Saving Money on Your Energy Bill, but Probably Aren&#39;t](https://lifehacker.com/all-the-ways-you-could-be-saving-money-on-your-energy-b-1849028593)
+- [Dev.to/JS] [Is it a good idea to build backend with nextJS?](https://dev.to/mozammelh/is-it-a-good-idea-to-build-backend-with-nextjs-2oeg)
+- [Dev.to/JS] [Build on Flow | Learn FCL - 6. How to Query Latest Block in the Chain](https://dev.to/onflow/build-on-flow-learn-fcl-6-how-to-query-latest-block-in-the-chain-8gh)
+- [Dev.to/JS] [Top Javascript and Typescript Short-hand You must know](https://dev.to/vsvaibhav20161/top-javascript-and-typescript-short-hand-you-must-know-hpl)
+- [Dev.to/JS] [Day 2 : What is pure function in JS ?](https://dev.to/leo1612d/what-is-pure-function-in-js--ef8)
+- [Dev.to/JS] [Which is your best tutorial or website to learn javaScript?](https://dev.to/fairywsr/which-is-your-best-tutorial-or-website-to-learn-javascript-2gmp)
+- [Lifehacker] [Is It Actually Bad to Leave Sunscreen on Overnight?](https://lifehacker.com/is-it-actually-bad-to-leave-sunscreen-on-overnight-1849028522)
+- [Dev.to/JS] [Any Suggestion and Advise for beginners to learn javaScript easily!](https://dev.to/fairywsr/any-suggestion-and-advise-for-beginners-to-learn-javascript-easily-23be)
+- [Dev.to/JS] [[JS Quiz] Guess the Order of Execution &lpar;chances of getting this right are slim&rpar;](https://dev.to/domiii/js-quiz-guess-the-order-of-execution-chances-of-getting-this-right-are-slim-50eh)
 - [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
 - [Dev.to/JS] [MongoDB and PostgreSQL database testing with Jest and Docker containers](https://dev.to/ivandotv/mongodb-and-postgresql-database-testing-with-jest-and-docker-containers-56bc)
 - [Dev.to/JS] [Get Up and Running With React, Tailwind and Storybook in 2022](https://dev.to/bhison/get-up-and-running-with-react-tailwind-and-storybook-in-2022-10p0)
@@ -32,17 +41,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Your AC Unit Working All Summer](https://lifehacker.com/how-to-keep-your-ac-unit-working-all-summer-1849027071)
 - [Dev.to/JS] [How To Get Started With Plugin Development for Strapi JS](https://dev.to/paulbratslavsky/how-to-get-started-with-plugin-development-for-strapi-js-2nbn)
 - [Lifehacker] [What to Do When You&#39;re Caught Stealing From Work](https://lifehacker.com/what-to-do-when-youre-caught-stealing-from-work-1849022521)
-- [Dev.to/JS] [5 Proven ways to Solve any Coding Problems Like an Expert in 2022](https://dev.to/sojinsamuel/5-proven-ways-to-solve-any-coding-problems-like-an-expert-in-2022-1adh)
-- [Dev.to/JS] [Solving For Binary Gap Using JavaScript](https://dev.to/_algowhacks/solving-for-binary-gap-using-javascript-a1p)
 - [Lifehacker] [How to Install the macOS 13 Ventura Developer Beta](https://lifehacker.com/how-to-install-the-macos-13-ventura-developer-beta-1849026306)
-- [Dev.to/JS] [Link Preview Set Up](https://dev.to/neaten_network/link-preview-set-up-27nd)
 - [Lifehacker] [The Best New macOS Ventura Features Coming to Your MacBook](https://lifehacker.com/the-best-new-macos-ventura-features-coming-to-your-macb-1849027260)
-- [Dev.to/JS] [Get first date and last date of months with date-fns](https://dev.to/ilumin/get-first-date-and-last-date-of-months-with-date-fns-45f0)
 - [Lifehacker] [This Is How You Fix a Messy Summer Ice Cream Cone](https://lifehacker.com/this-is-how-you-fix-a-messy-summer-ice-cream-cone-1849025130)
-- [Dev.to/JS] [dappKit — The simple way to start your web3 project](https://dev.to/taikai/dappkit-the-simple-way-to-start-your-web3-project-43em)
 - [Lifehacker] [How to Cope With Not Feeling &#39;Adult&#39; Enough](https://lifehacker.com/how-to-cope-with-not-feeling-adult-enough-1849024003)
-- [Dev.to/JS] [How to calculate the distance between two points, using math](https://dev.to/steinbring/how-to-calculate-the-distance-between-two-points-using-math-27gh)
-- [Dev.to/JS] [Building cross browser extensions - My experience](https://dev.to/fireping32/building-cross-browser-extensions-my-experience-1jll)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
@@ -58,9 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use ‘Body Doubling’ to Increase Your Productivity](https://lifehacker.com/use-body-doubling-to-increase-your-productivity-1849021265)
 - [Lifehacker] [These Are the Best Credit Cards for People With Bad Credit](https://lifehacker.com/these-are-the-best-credit-cards-for-people-with-bad-cre-1849020987)
 - [Lifehacker] [How to Keep Your Swim From Damaging Your Hair](https://lifehacker.com/how-to-keep-your-swim-from-damaging-your-hair-1849019603)
-- [Lifehacker] [Should You Use Babbel or Duolingo?](https://lifehacker.com/should-you-use-babbel-or-duolingo-1849015665)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
-- [Lifehacker] [The 7 Deadly Sins of Car Maintenance](https://lifehacker.com/the-7-deadly-sins-of-car-maintenance-1849015935)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
