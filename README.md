@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Benefits of ERP: PROS, CONS &amp; Selecting an Enterprise Resource Planning System](https://dev.to/usman91340287/benefits-of-erp-pros-cons-selecting-an-enterprise-resource-planning-system-2hnk)
 - [Dev.to/JS] [Building cross browser extensions - My experience](https://dev.to/fireping32/building-cross-browser-extensions-my-experience-1jll)
 - [Dev.to/JS] [Most Popular Mobile App Development Frameworks in 2022](https://dev.to/ameliawenham/most-popular-mobile-app-development-frameworks-in-2022-a9h)
 - [Dev.to/JS] [How do you fetch and process your data](https://dev.to/get_infinite/how-do-you-fetch-and-process-your-data-1icm)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to open and analyse large JSON files online](https://dev.to/pavlopaska/how-to-open-and-analyse-large-json-files-online-b08)
 - [Dev.to/JS] [EASY PEASY ROAD MAP TO FRONTEND DEVELOPMENT🗺️](https://dev.to/glowreeyah/easy-peasy-road-map-to-frontend-development-2ail)
 - [Dev.to/JS] [Search by Category followed by Subcategory](https://dev.to/anishmandal939/search-by-category-followed-by-subcategory-3mbd)
-- [Dev.to/JS] [见微知著，细节上雕花：SVG生成矢量格式网站图标&lpar;Favicon&rpar;探究](https://dev.to/liuyue/jian-wei-zhi-zhu-xi-jie-shang-diao-hua-svgsheng-cheng-shi-liang-ge-shi-wang-zhan-tu-biao-favicontan-jiu-104g)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
