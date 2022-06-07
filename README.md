@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Running Your First Test With NightWatchJS](https://dev.to/lambdatest/running-your-first-test-with-nightwatchjs-20jn)
+- [Dev.to/JS] [Scraping Amazon using Puppeteer and Browserless](https://dev.to/tyry327/scraping-amazon-using-puppeteer-and-browserless-3n24)
+- [Dev.to/JS] [Day-103 Training At Ryaz](https://dev.to/mahin651/day-103-training-at-ryaz-13dh)
 - [Lifehacker] [All the Ways You Could Be Saving Money on Your Energy Bill, but Probably Aren&#39;t](https://lifehacker.com/all-the-ways-you-could-be-saving-money-on-your-energy-b-1849028593)
 - [Dev.to/JS] [Is it a good idea to build backend with nextJS?](https://dev.to/mozammelh/is-it-a-good-idea-to-build-backend-with-nextjs-2oeg)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 6. How to Query Latest Block in the Chain](https://dev.to/onflow/build-on-flow-learn-fcl-6-how-to-query-latest-block-in-the-chain-8gh)
@@ -35,11 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
 - [Dev.to/JS] [MongoDB and PostgreSQL database testing with Jest and Docker containers](https://dev.to/ivandotv/mongodb-and-postgresql-database-testing-with-jest-and-docker-containers-56bc)
 - [Dev.to/JS] [Get Up and Running With React, Tailwind and Storybook in 2022](https://dev.to/bhison/get-up-and-running-with-react-tailwind-and-storybook-in-2022-10p0)
-- [Dev.to/JS] [Stateless standalone components in Angular](https://dev.to/madhust/stateless-standalone-components-in-angular-9gl)
 - [Lifehacker] [You Need Smarter Window Treatments This Summer](https://lifehacker.com/you-need-smarter-window-treatments-this-summer-1849027162)
-- [Dev.to/JS] [this post was not written on dev.to](https://dev.to/atordvairn/this-post-was-not-written-on-devto-2e71)
 - [Lifehacker] [How to Keep Your AC Unit Working All Summer](https://lifehacker.com/how-to-keep-your-ac-unit-working-all-summer-1849027071)
-- [Dev.to/JS] [How To Get Started With Plugin Development for Strapi JS](https://dev.to/paulbratslavsky/how-to-get-started-with-plugin-development-for-strapi-js-2nbn)
 - [Lifehacker] [What to Do When You&#39;re Caught Stealing From Work](https://lifehacker.com/what-to-do-when-youre-caught-stealing-from-work-1849022521)
 - [Lifehacker] [How to Install the macOS 13 Ventura Developer Beta](https://lifehacker.com/how-to-install-the-macos-13-ventura-developer-beta-1849026306)
 - [Lifehacker] [The Best New macOS Ventura Features Coming to Your MacBook](https://lifehacker.com/the-best-new-macos-ventura-features-coming-to-your-macb-1849027260)
