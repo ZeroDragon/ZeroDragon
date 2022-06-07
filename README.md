@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Install the macOS 13 Ventura Developer Beta](https://lifehacker.com/how-to-install-the-macos-13-ventura-developer-beta-1849026306)
+- [Dev.to/JS] [Link Preview Set Up](https://dev.to/neaten_network/link-preview-set-up-27nd)
+- [Lifehacker] [The Best New macOS Ventura Features Coming to Your MacBook](https://lifehacker.com/the-best-new-macos-ventura-features-coming-to-your-macb-1849027260)
+- [Dev.to/JS] [Get first date and last date of months with date-fns](https://dev.to/ilumin/get-first-date-and-last-date-of-months-with-date-fns-45f0)
 - [Lifehacker] [This Is How You Fix a Messy Summer Ice Cream Cone](https://lifehacker.com/this-is-how-you-fix-a-messy-summer-ice-cream-cone-1849025130)
 - [Dev.to/JS] [dappKit — The simple way to start your web3 project](https://dev.to/taikai/dappkit-the-simple-way-to-start-your-web3-project-43em)
 - [Lifehacker] [How to Cope With Not Feeling &#39;Adult&#39; Enough](https://lifehacker.com/how-to-cope-with-not-feeling-adult-enough-1849024003)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fast Connect - Make a fast video call without registration](https://dev.to/huseyn0w/fast-connect-make-a-fast-video-call-without-registration-4oci)
 - [Dev.to/JS] [Why I always &quot;advocate&quot; for typescript 😊](https://dev.to/evansifyke/why-i-always-advocate-for-typescript-44dl)
 - [Dev.to/JS] [Building a Phone Number Verificator with JavaScript](https://dev.to/elli/building-a-phone-number-verificator-with-javascript-8ai)
-- [Dev.to/JS] [How to open and analyse large JSON files online](https://dev.to/pavlopaska/how-to-open-and-analyse-large-json-files-online-b08)
-- [Dev.to/JS] [EASY PEASY ROAD MAP TO FRONTEND DEVELOPMENT🗺️](https://dev.to/glowreeyah/easy-peasy-road-map-to-frontend-development-2ail)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
 - [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
-- [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
-- [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
