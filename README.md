@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Angular 14 en 3 features](https://dev.to/necraidan/angular-14-en-3-features-23pn)
+- [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
+- [Dev.to/JS] [I created a simple Morse Code Converter that can generate equivalent sounds](https://dev.to/decodedcipher/i-created-a-simple-morse-code-converter-that-can-generate-equivalent-sounds-4pd9)
+- [Dev.to/JS] [Animación de máscaras CSS.](https://dev.to/jairdev/animacion-de-mascaras-css-15p2)
+- [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Dev.to/JS] [Paracetamol.js💊| #135: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-135-explica-este-codigo-javascript-4oi4)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
 - [Dev.to/JS] [How would you call this transition effect?](https://dev.to/genejams/how-would-you-call-this-transition-effect-k0o)
@@ -37,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Get Kids to Exercise When They Hate Team Sports](https://lifehacker.com/the-best-ways-to-get-kids-to-exercise-when-they-hate-te-1849029225)
 - [Dev.to/JS] [Running Your First Test With NightWatchJS](https://dev.to/lambdatest/running-your-first-test-with-nightwatchjs-20jn)
 - [Dev.to/JS] [Scraping Amazon using Puppeteer and Browserless](https://dev.to/tyry327/scraping-amazon-using-puppeteer-and-browserless-3n24)
-- [Dev.to/JS] [Day-103 Training At Ryaz](https://dev.to/mahin651/day-103-training-at-ryaz-13dh)
 - [Lifehacker] [All the Ways You Could Be Saving Money on Your Energy Bill, but Probably Aren&#39;t](https://lifehacker.com/all-the-ways-you-could-be-saving-money-on-your-energy-b-1849028593)
-- [Dev.to/JS] [Is it a good idea to build backend with nextJS?](https://dev.to/mozammelh/is-it-a-good-idea-to-build-backend-with-nextjs-2oeg)
-- [Dev.to/JS] [Build on Flow | Learn FCL - 6. How to Query Latest Block in the Chain](https://dev.to/onflow/build-on-flow-learn-fcl-6-how-to-query-latest-block-in-the-chain-8gh)
 - [Lifehacker] [Is It Actually Bad to Leave Sunscreen on Overnight?](https://lifehacker.com/is-it-actually-bad-to-leave-sunscreen-on-overnight-1849028522)
 - [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
 - [Lifehacker] [You Need Smarter Window Treatments This Summer](https://lifehacker.com/you-need-smarter-window-treatments-this-summer-1849027162)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Wash a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
 - [Lifehacker] [The Airlines Most Likely to Suck, According to Department of Transportation Data](https://lifehacker.com/the-airlines-most-likely-to-suck-according-to-departme-1849023546)
 - [Lifehacker] [The Best Method to Evenly Season Your Meat](https://lifehacker.com/the-best-method-to-evenly-season-your-meat-1849023672)
-- [Lifehacker] [What Are Your Unwritten Rules of Driving Etiquette?](https://lifehacker.com/what-are-your-unwritten-rules-of-driving-etiquette-1849023077)
-- [Lifehacker] [3 Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/3-things-in-your-home-you-should-probably-replace-right-1849023094)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
