@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Guideline to Integrate Huawei ID button to Sign in &lpar;Account Kit&rpar; using React Native](https://dev.to/hmscommunity/guideline-to-integrate-huawei-id-button-to-sign-in-account-kit-using-react-native-1mpj)
+- [Dev.to/JS] [A Beginner’s Guide To Test Automation With Javascript&lpar;Nightwatch.js&rpar;. Part 3.](https://dev.to/loadero/a-beginners-guide-to-test-automation-with-javascriptnightwatchjs-part-3-1kh9)
 - [Dev.to/JS] [JavaScript Crash Notes](https://dev.to/sujithvsuresh/javascript-crash-notes-31b5)
 - [Dev.to/JS] [What is Serverless Architecture? Popular Use Cases, Pros &amp; Cons](https://dev.to/dhiwise/what-is-serverless-architecture-popular-use-cases-the-advantages-and-limitations-5feb)
 - [Dev.to/JS] [Refactoring 005 - Replace Comment with Function Name](https://dev.to/mcsee/refactoring-005-replace-comment-with-function-name-4lpf)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ultrasonic payments](https://dev.to/stripe/ultrasonic-payments-2958)
 - [Dev.to/JS] [The Wonderful World of JavaScript Scopes](https://dev.to/stejosi/the-wonderful-world-of-javascript-scopes-2c29)
 - [Dev.to/JS] [Assigning and Declaring Values and Variables](https://dev.to/stejosi/assigning-and-declaring-values-and-variables-2k0a)
-- [Dev.to/JS] [Update for Host and Database.](https://dev.to/pastes/update-for-host-and-database-2fi5)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
-- [Dev.to/JS] [Symbols in package.json](https://dev.to/snikhill/symbols-in-packagejson-47io)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
 - [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
