@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learning what I thought I knew: Pipes functions](https://dev.to/klish3/learning-what-i-thought-i-knew-pipes-functions-49j2)
+- [Dev.to/JS] [This Week In React #107: Plasmo, Panapasi, Fastify-DX, Remix, Solid, useInsertionEffect, JSI, Vite, Angular, Safari...](https://dev.to/sebastienlorber/this-week-in-react-107-plasmo-panapasi-fastify-dx-remix-solid-useinsertioneffect-jsi-vite-angular-safari-36ij)
+- [Dev.to/JS] [Demystifying useRef and useMemo in React](https://dev.to/bhavzlearn/demystifying-useref-and-usememo-in-react-4jcl)
 - [Dev.to/JS] [Angular 14 en 3 features](https://dev.to/necraidan/angular-14-en-3-features-23pn)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Dev.to/JS] [I created a simple Morse Code Converter that can generate equivalent sounds](https://dev.to/decodedcipher/i-created-a-simple-morse-code-converter-that-can-generate-equivalent-sounds-4pd9)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Real Estate Reality Shows Are Lying to You](https://lifehacker.com/real-estate-reality-shows-are-lying-to-you-1849028260)
 - [Dev.to/JS] [Midnight Fun- Meme on JavaScript splice&lpar; &rpar; 😆](https://dev.to/devash98/midnight-fun-sharing-meme-49g2)
 - [Dev.to/JS] [How to Delete the node modules Folder on Windows](https://dev.to/raaj/how-to-delete-the-node-modules-folder-on-windows-3a2b)
-- [Dev.to/JS] [Testing your Chainlink VRF powered Smart Contract](https://dev.to/abhikbanerjee99/testing-your-chainlink-vrf-powered-smart-contract-m3i)
 - [Lifehacker] [The Best Ways to Get Kids to Exercise When They Hate Team Sports](https://lifehacker.com/the-best-ways-to-get-kids-to-exercise-when-they-hate-te-1849029225)
-- [Dev.to/JS] [Running Your First Test With NightWatchJS](https://dev.to/lambdatest/running-your-first-test-with-nightwatchjs-20jn)
-- [Dev.to/JS] [Scraping Amazon using Puppeteer and Browserless](https://dev.to/tyry327/scraping-amazon-using-puppeteer-and-browserless-3n24)
 - [Lifehacker] [All the Ways You Could Be Saving Money on Your Energy Bill, but Probably Aren&#39;t](https://lifehacker.com/all-the-ways-you-could-be-saving-money-on-your-energy-b-1849028593)
 - [Lifehacker] [Is It Actually Bad to Leave Sunscreen on Overnight?](https://lifehacker.com/is-it-actually-bad-to-leave-sunscreen-on-overnight-1849028522)
 - [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
