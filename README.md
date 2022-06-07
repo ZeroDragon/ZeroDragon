@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
+- [Dev.to/JS] [MongoDB and PostgreSQL database testing with Jest and Docker containers](https://dev.to/ivandotv/mongodb-and-postgresql-database-testing-with-jest-and-docker-containers-56bc)
+- [Dev.to/JS] [Get Up and Running With React, Tailwind and Storybook in 2022](https://dev.to/bhison/get-up-and-running-with-react-tailwind-and-storybook-in-2022-10p0)
+- [Dev.to/JS] [Stateless standalone components in Angular](https://dev.to/madhust/stateless-standalone-components-in-angular-9gl)
+- [Lifehacker] [You Need Smarter Window Treatments This Summer](https://lifehacker.com/you-need-smarter-window-treatments-this-summer-1849027162)
+- [Dev.to/JS] [this post was not written on dev.to](https://dev.to/atordvairn/this-post-was-not-written-on-devto-2e71)
+- [Lifehacker] [How to Keep Your AC Unit Working All Summer](https://lifehacker.com/how-to-keep-your-ac-unit-working-all-summer-1849027071)
 - [Dev.to/JS] [How To Get Started With Plugin Development for Strapi JS](https://dev.to/paulbratslavsky/how-to-get-started-with-plugin-development-for-strapi-js-2nbn)
 - [Lifehacker] [What to Do When You&#39;re Caught Stealing From Work](https://lifehacker.com/what-to-do-when-youre-caught-stealing-from-work-1849022521)
 - [Dev.to/JS] [5 Proven ways to Solve any Coding Problems Like an Expert in 2022](https://dev.to/sojinsamuel/5-proven-ways-to-solve-any-coding-problems-like-an-expert-in-2022-1adh)
@@ -36,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Cope With Not Feeling &#39;Adult&#39; Enough](https://lifehacker.com/how-to-cope-with-not-feeling-adult-enough-1849024003)
 - [Dev.to/JS] [How to calculate the distance between two points, using math](https://dev.to/steinbring/how-to-calculate-the-distance-between-two-points-using-math-27gh)
 - [Dev.to/JS] [Building cross browser extensions - My experience](https://dev.to/fireping32/building-cross-browser-extensions-my-experience-1jll)
-- [Dev.to/JS] [How do you fetch and process your data](https://dev.to/get_infinite/how-do-you-fetch-and-process-your-data-1icm)
-- [Dev.to/JS] [Navigating your react datagrid](https://dev.to/get_infinite/navigating-your-react-datagrid-42h5)
-- [Dev.to/JS] [What is a Variable in Programming?](https://dev.to/hermitex/what-is-a-variable-in-programming-5990)
-- [Dev.to/JS] [Fast Connect - Make a fast video call without registration](https://dev.to/huseyn0w/fast-connect-make-a-fast-video-call-without-registration-4oci)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Use Babbel or Duolingo?](https://lifehacker.com/should-you-use-babbel-or-duolingo-1849015665)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Lifehacker] [The 7 Deadly Sins of Car Maintenance](https://lifehacker.com/the-7-deadly-sins-of-car-maintenance-1849015935)
-- [Lifehacker] [How to Tell If Your Child Has Binge Eating Disorder &lpar;and What to Do About It&rpar;](https://lifehacker.com/how-to-tell-if-your-child-has-binge-eating-disorder-an-1849008247)
-- [Lifehacker] [How to Stop Grass From Growing in Your Flower Bed Without Killing Your Flowers](https://lifehacker.com/how-to-stop-grass-from-growing-in-your-flower-bed-witho-1849013658)
-- [Lifehacker] [How to Get Sweat Stains Out of Your Clothes](https://lifehacker.com/how-to-get-sweat-stains-out-of-your-clothes-1849013664)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
