@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #135: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-135-explica-este-codigo-javascript-4oi4)
+- [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
 - [Dev.to/JS] [How would you call this transition effect?](https://dev.to/genejams/how-would-you-call-this-transition-effect-k0o)
 - [Dev.to/JS] [Get the Largest Number](https://dev.to/mrmatteorusso/get-the-largest-number-294n)
 - [Lifehacker] [Make Spam Fries in Your Air Fryer](https://lifehacker.com/make-spam-fries-in-your-air-fryer-1849029707)
@@ -39,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Could Be Saving Money on Your Energy Bill, but Probably Aren&#39;t](https://lifehacker.com/all-the-ways-you-could-be-saving-money-on-your-energy-b-1849028593)
 - [Dev.to/JS] [Is it a good idea to build backend with nextJS?](https://dev.to/mozammelh/is-it-a-good-idea-to-build-backend-with-nextjs-2oeg)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 6. How to Query Latest Block in the Chain](https://dev.to/onflow/build-on-flow-learn-fcl-6-how-to-query-latest-block-in-the-chain-8gh)
-- [Dev.to/JS] [Top Javascript and Typescript Short-hand You must know](https://dev.to/vsvaibhav20161/top-javascript-and-typescript-short-hand-you-must-know-hpl)
 - [Lifehacker] [Is It Actually Bad to Leave Sunscreen on Overnight?](https://lifehacker.com/is-it-actually-bad-to-leave-sunscreen-on-overnight-1849028522)
 - [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
 - [Lifehacker] [You Need Smarter Window Treatments This Summer](https://lifehacker.com/you-need-smarter-window-treatments-this-summer-1849027162)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Method to Evenly Season Your Meat](https://lifehacker.com/the-best-method-to-evenly-season-your-meat-1849023672)
 - [Lifehacker] [What Are Your Unwritten Rules of Driving Etiquette?](https://lifehacker.com/what-are-your-unwritten-rules-of-driving-etiquette-1849023077)
 - [Lifehacker] [3 Things in Your Home You Should Probably Replace Right Now](https://lifehacker.com/3-things-in-your-home-you-should-probably-replace-right-1849023094)
-- [Lifehacker] [All the Ways You Should be Using Your Vacuum, but Aren’t](https://lifehacker.com/all-the-ways-you-should-be-using-your-vacuum-but-aren-1849022823)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
