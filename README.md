@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Benefits of ERP: PROS, CONS &amp; Selecting an Enterprise Resource Planning System](https://dev.to/usman91340287/benefits-of-erp-pros-cons-selecting-an-enterprise-resource-planning-system-2hnk)
+- [Lifehacker] [This Is How You Fix a Messy Summer Ice Cream Cone](https://lifehacker.com/this-is-how-you-fix-a-messy-summer-ice-cream-cone-1849025130)
+- [Dev.to/JS] [dappKit — The simple way to start your web3 project](https://dev.to/taikai/dappkit-the-simple-way-to-start-your-web3-project-43em)
+- [Lifehacker] [How to Cope With Not Feeling &#39;Adult&#39; Enough](https://lifehacker.com/how-to-cope-with-not-feeling-adult-enough-1849024003)
+- [Dev.to/JS] [How to calculate the distance between two points, using math](https://dev.to/steinbring/how-to-calculate-the-distance-between-two-points-using-math-27gh)
 - [Dev.to/JS] [Building cross browser extensions - My experience](https://dev.to/fireping32/building-cross-browser-extensions-my-experience-1jll)
 - [Dev.to/JS] [Most Popular Mobile App Development Frameworks in 2022](https://dev.to/ameliawenham/most-popular-mobile-app-development-frameworks-in-2022-a9h)
 - [Dev.to/JS] [How do you fetch and process your data](https://dev.to/get_infinite/how-do-you-fetch-and-process-your-data-1icm)
@@ -34,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Phone Number Verificator with JavaScript](https://dev.to/elli/building-a-phone-number-verificator-with-javascript-8ai)
 - [Dev.to/JS] [How to open and analyse large JSON files online](https://dev.to/pavlopaska/how-to-open-and-analyse-large-json-files-online-b08)
 - [Dev.to/JS] [EASY PEASY ROAD MAP TO FRONTEND DEVELOPMENT🗺️](https://dev.to/glowreeyah/easy-peasy-road-map-to-frontend-development-2ail)
-- [Dev.to/JS] [Search by Category followed by Subcategory](https://dev.to/anishmandal939/search-by-category-followed-by-subcategory-3mbd)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
 - [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
@@ -59,9 +61,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Enabling Your Dog&#39;s Bad Behavior](https://lifehacker.com/stop-enabling-your-dogs-bad-behavior-1849013679)
 - [Lifehacker] [How to Fix a Wobbly Ceiling Fan](https://lifehacker.com/how-to-fix-a-wobbly-ceiling-fan-1849013491)
 - [Lifehacker] [Avoid Wearing These Fabrics in the Heat &lpar;and What to Wear Instead&rpar;](https://lifehacker.com/avoid-wearing-these-fabrics-in-the-heat-and-what-to-we-1849013486)
-- [Lifehacker] [You Need to Clean Your Outdoor Umbrella](https://lifehacker.com/you-need-to-clean-your-outdoor-umbrella-1849013460)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
-- [Lifehacker] [What Your Sexts &lpar;or Lack Thereof&rpar; Say About Your Relationship](https://lifehacker.com/what-your-sexts-or-lack-thereof-say-about-your-relati-1849014868)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
 
 ---
