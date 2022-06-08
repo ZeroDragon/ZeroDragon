@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Metamask Web Utilities](https://dev.to/alex20465/metamask-web-utilities-475d)
+- [Dev.to/JS] [The tiny trick of the day: html[data-local-storage]](https://dev.to/merri/the-tiny-trick-of-the-day-htmldata-local-storage-3pl3)
+- [Dev.to/JS] [Enabling Preview mode in your Next.js application](https://dev.to/kaspera/enabling-preview-mode-in-your-nextjs-application-30do)
+- [Dev.to/JS] [Complete guide about Mergify and the gain it represents.](https://dev.to/tyaga001/complete-guide-about-mergify-and-the-gain-it-represents-22ji)
 - [Dev.to/JS] [Day.js a cool library for working with Dates in JavaScript🙈](https://dev.to/gulshanaggarwal/dayjs-a-cool-library-for-working-with-dates-in-javascript-h23)
 - [Dev.to/JS] [The Lenra team](https://dev.to/lenra/the-lenra-team-1g70)
 - [Dev.to/JS] [The beauty of Sanity](https://dev.to/aor2405/the-beauty-of-sanity-4421)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to handle forms on static sites for FREE?](https://dev.to/basharath/how-to-handle-forms-on-static-sites-for-free-30c8)
 - [Dev.to/JS] [Eleventy - Shortcode for Embedding Codepen](https://dev.to/murtuzaalisurti/eleventy-shortcode-for-embedding-codepen-3oa2)
 - [Dev.to/JS] [Blogging Website](https://dev.to/yashkapure06/blogging-website-23j2)
-- [Dev.to/JS] [New Ideas](https://dev.to/prfsor1/new-ideas-2fph)
-- [Dev.to/JS] [Javascript String Methods: A Cheat Sheet for Developer](https://dev.to/devsmitra/javascript-string-methods-a-cheat-sheet-for-developer-4kbk)
-- [Dev.to/JS] [Generate API key in JavaScript, Ruby and Python](https://dev.to/vishal8236/generate-api-key-in-javascript-ruby-and-python-1id6)
-- [Dev.to/JS] [Validating repository content with GitHub GraphQL API](https://dev.to/nsantos16/validating-repository-content-with-github-graphql-api-2i93)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
