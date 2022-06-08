@@ -23,7 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [‘Dower Rights’ Still Exist?](https://lifehacker.com/dower-rights-still-exist-1849034668)
+- [Dev.to/JS] [Handel repeatedly triggered events with Javascript](https://dev.to/premjeet/handel-repeatedly-triggered-events-with-javascript-1jj2)
+- [Dev.to/JS] [Controlled components vs Uncontrolled components](https://dev.to/t007rushi/what-are-react-controlled-components-and-uncontrolled-components-2hhl)
+- [Dev.to/JS] [JS Refactoring Combo: Introduce Object Destructuring](https://dev.to/p42/js-refactoring-combo-introduce-object-destructuring-5c0o)
+- [Lifehacker] [You Thought &#39;Bugdom&#39; and &#39;Nanosaur&#39; Were Lost Forever](https://lifehacker.com/you-thought-bugdom-and-nanosaur-were-lost-forever-1849034468)
 - [Lifehacker] [What Color Should You Paint Your Garage Door?](https://lifehacker.com/what-color-should-you-paint-your-garage-door-1849034637)
+- [Dev.to/JS] [#2 Front-end things and not only](https://dev.to/dbarabashdev/2-front-end-things-and-not-only-2fl1)
 - [Dev.to/JS] [Your own loader without any dependencies with React](https://dev.to/aminnairi/your-own-loader-without-any-dependencies-with-react-2b41)
 - [Dev.to/JS] [JavaScript Methods and this Keyword](https://dev.to/nameismani/javascript-methods-and-this-keyword-4c9f)
 - [Lifehacker] [This Sweet and Salty Beet Dip Is a Breeze to Make](https://lifehacker.com/this-sweet-and-salty-beet-dip-is-a-breeze-to-make-1849034941)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Go Gray As Gracefully As Possible](https://lifehacker.com/how-to-go-gray-as-gracefully-as-possible-1849034710)
 - [Lifehacker] [When to See a Bunch of Planets Line Up in the Sky This Month](https://lifehacker.com/when-to-see-a-bunch-of-planets-line-up-in-the-sky-this-1849034247)
 - [Dev.to/JS] [Unary function - Javascript](https://dev.to/therahul_gupta/unary-function-javascript-3d8h)
-- [Dev.to/JS] [Destructuring in JavaScript](https://dev.to/melguachun/destructuring-in-javascript-55eo)
-- [Dev.to/JS] [Paracetamol.js💊| #136: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-136-explica-este-codigo-javascript-261n)
-- [Dev.to/JS] [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
 - [Lifehacker] [Why You Shouldn’t Dump Your Family Goldfish Into a Pond](https://lifehacker.com/why-you-shouldn-t-dump-your-family-goldfish-into-a-pond-1849034215)
-- [Dev.to/JS] [JavaScript Libraries You Should Try Out in 2022](https://dev.to/workshub/javascript-libraries-you-should-try-out-in-2022-4b4p)
 - [Lifehacker] [Why You Shouldn’t Install Apple’s Betas Without a Developer Account &lpar;Yet&rpar;](https://lifehacker.com/why-you-shouldn-t-install-apple-s-betas-without-a-devel-1849032993)
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1849033297)
 - [Lifehacker] [When Is It Illegal to Lie?](https://lifehacker.com/when-is-it-illegal-to-lie-1849032446)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
 - [Lifehacker] [You Need Smarter Window Treatments This Summer](https://lifehacker.com/you-need-smarter-window-treatments-this-summer-1849027162)
 - [Lifehacker] [How to Keep Your AC Unit Working All Summer](https://lifehacker.com/how-to-keep-your-ac-unit-working-all-summer-1849027071)
-- [Lifehacker] [What to Do When You&#39;re Caught Stealing From Work](https://lifehacker.com/what-to-do-when-youre-caught-stealing-from-work-1849022521)
-- [Lifehacker] [How to Install the macOS 13 Ventura Developer Beta](https://lifehacker.com/how-to-install-the-macos-13-ventura-developer-beta-1849026306)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)<!-- TECH-POSTS:END -->
 
