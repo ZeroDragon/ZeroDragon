@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Chocolate Is a Chip Dip](https://lifehacker.com/chocolate-is-a-chip-dip-1849031459)
+- [Dev.to/JS] [What are the Types of Functions in JavaScript?](https://dev.to/hermitex/what-are-the-types-of-functions-in-javascript-1clp)
+- [Dev.to/JS] [Which Headless CMS Should I Use?](https://dev.to/endymion1818/which-headless-cms-should-i-use-56h1)
+- [Dev.to/JS] [Use reactjs app build in script tag of HTML file](https://dev.to/pradeeprano/use-reactjs-app-build-in-script-tag-of-html-file-16l2)
 - [Dev.to/JS] [AG Grid Community Roundup May 2022](https://dev.to/ag-grid/ag-grid-community-roundup-may-2022-29nf)
 - [Dev.to/JS] [My Portfolio Website](https://dev.to/krishnaagarwal/my-portfolio-website-446o)
 - [Dev.to/JS] [Barber Shop Website](https://dev.to/sanketbodake/barber-shop-website-1287)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The tiny trick of the day: html[data-local-storage]](https://dev.to/merri/the-tiny-trick-of-the-day-htmldata-local-storage-3pl3)
 - [Dev.to/JS] [Enabling Preview mode in your Next.js application](https://dev.to/kaspera/enabling-preview-mode-in-your-nextjs-application-30do)
 - [Dev.to/JS] [Complete guide about Mergify and the gain it represents.](https://dev.to/tyaga001/complete-guide-about-mergify-and-the-gain-it-represents-22ji)
-- [Dev.to/JS] [Day.js a cool library for working with Dates in JavaScript🙈](https://dev.to/gulshanaggarwal/dayjs-a-cool-library-for-working-with-dates-in-javascript-h23)
-- [Dev.to/JS] [The Lenra team](https://dev.to/lenra/the-lenra-team-1g70)
-- [Dev.to/JS] [The beauty of Sanity](https://dev.to/aor2405/the-beauty-of-sanity-4421)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
 - [Lifehacker] [How to Wash a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
 - [Lifehacker] [The Airlines Most Likely to Suck, According to Department of Transportation Data](https://lifehacker.com/the-airlines-most-likely-to-suck-according-to-departme-1849023546)
-- [Lifehacker] [The Best Method to Evenly Season Your Meat](https://lifehacker.com/the-best-method-to-evenly-season-your-meat-1849023672)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
