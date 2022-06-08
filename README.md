@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [AG Grid Community Roundup May 2022](https://dev.to/ag-grid/ag-grid-community-roundup-may-2022-29nf)
+- [Dev.to/JS] [My Portfolio Website](https://dev.to/krishnaagarwal/my-portfolio-website-446o)
+- [Dev.to/JS] [Barber Shop Website](https://dev.to/sanketbodake/barber-shop-website-1287)
+- [Dev.to/JS] [3 Weird Reasons Why You Should Learn Programming](https://dev.to/mohitbilala/3-weird-reasons-why-you-should-learn-programming-38j0)
 - [Dev.to/JS] [Top 9 sites for staying up to date as a software developer](https://dev.to/devtoolzz/top-9-sites-for-staying-up-to-date-as-a-software-developer-57j0)
 - [Dev.to/JS] [Metamask Web Utilities](https://dev.to/alex20465/metamask-web-utilities-475d)
 - [Dev.to/JS] [The tiny trick of the day: html[data-local-storage]](https://dev.to/merri/the-tiny-trick-of-the-day-htmldata-local-storage-3pl3)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day.js a cool library for working with Dates in JavaScript🙈](https://dev.to/gulshanaggarwal/dayjs-a-cool-library-for-working-with-dates-in-javascript-h23)
 - [Dev.to/JS] [The Lenra team](https://dev.to/lenra/the-lenra-team-1g70)
 - [Dev.to/JS] [The beauty of Sanity](https://dev.to/aor2405/the-beauty-of-sanity-4421)
-- [Dev.to/JS] [Boost NextJS TTI &amp; FID performance without compromise and pain](https://dev.to/thanhlm/boost-nextjs-tti-fid-performance-without-compromise-and-pain-5h0n)
-- [Dev.to/JS] [Parallax In Next.js using React-Scroll-Parallax 😉](https://dev.to/nyctonio/parallax-in-nextjs-using-react-scroll-parallax-2110)
-- [Dev.to/JS] [How to handle forms on static sites for FREE?](https://dev.to/basharath/how-to-handle-forms-on-static-sites-for-free-30c8)
-- [Dev.to/JS] [Eleventy - Shortcode for Embedding Codepen](https://dev.to/murtuzaalisurti/eleventy-shortcode-for-embedding-codepen-3oa2)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
