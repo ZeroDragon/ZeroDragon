@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Publish an NPM Package from a GitLab CI/CD Pipeline](https://dev.to/saikojosh/how-to-publish-an-npm-package-from-a-gitlab-cicd-pipeline-2p83)
+- [Dev.to/JS] [Introduction of React Context](https://dev.to/yohanesss/introduction-of-react-context-1b5g)
+- [Dev.to/JS] [How to get cool animations in your React projects](https://dev.to/dastasoft/how-to-get-cool-animations-in-your-react-projects-6bi)
 - [Dev.to/JS] [FIDO authentication through NPMJS](https://dev.to/ncb879/fido-authentication-through-npmjs-27cf)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Color Should You Paint Your Garage Door?](https://lifehacker.com/what-color-should-you-paint-your-garage-door-1849034637)
 - [Dev.to/JS] [#2 Front-end things and not only](https://dev.to/dbarabashdev/2-front-end-things-and-not-only-2fl1)
 - [Dev.to/JS] [Your own loader without any dependencies with React](https://dev.to/aminnairi/your-own-loader-without-any-dependencies-with-react-2b41)
-- [Dev.to/JS] [JavaScript Methods and this Keyword](https://dev.to/nameismani/javascript-methods-and-this-keyword-4c9f)
 - [Lifehacker] [This Sweet and Salty Beet Dip Is a Breeze to Make](https://lifehacker.com/this-sweet-and-salty-beet-dip-is-a-breeze-to-make-1849034941)
-- [Dev.to/JS] [Day 3 : What Is IIFE in Javascript ?](https://dev.to/leo1612d/day-3-what-is-iife-in-javascript--d32)
-- [Dev.to/JS] [Cryptle - Wordle clone for Enarx](https://dev.to/aryank21/cryptle-wordle-clone-for-enarx-bdf)
 - [Lifehacker] [How to Go Gray As Gracefully As Possible](https://lifehacker.com/how-to-go-gray-as-gracefully-as-possible-1849034710)
 - [Lifehacker] [When to See a Bunch of Planets Line Up in the Sky This Month](https://lifehacker.com/when-to-see-a-bunch-of-planets-line-up-in-the-sky-this-1849034247)
 - [Lifehacker] [Why You Shouldn’t Dump Your Family Goldfish Into a Pond](https://lifehacker.com/why-you-shouldn-t-dump-your-family-goldfish-into-a-pond-1849034215)
