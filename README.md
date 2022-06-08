@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Firebase Cloud Storage for React apps](https://dev.to/asayerio_techblog/firebase-cloud-storage-for-react-apps-557h)
 - [Dev.to/JS] [How to Publish an NPM Package from a GitLab CI/CD Pipeline](https://dev.to/saikojosh/how-to-publish-an-npm-package-from-a-gitlab-cicd-pipeline-2p83)
 - [Dev.to/JS] [Introduction of React Context](https://dev.to/yohanesss/introduction-of-react-context-1b5g)
 - [Dev.to/JS] [How to get cool animations in your React projects](https://dev.to/dastasoft/how-to-get-cool-animations-in-your-react-projects-6bi)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Thought &#39;Bugdom&#39; and &#39;Nanosaur&#39; Were Lost Forever](https://lifehacker.com/you-thought-bugdom-and-nanosaur-were-lost-forever-1849034468)
 - [Lifehacker] [What Color Should You Paint Your Garage Door?](https://lifehacker.com/what-color-should-you-paint-your-garage-door-1849034637)
 - [Dev.to/JS] [#2 Front-end things and not only](https://dev.to/dbarabashdev/2-front-end-things-and-not-only-2fl1)
-- [Dev.to/JS] [Your own loader without any dependencies with React](https://dev.to/aminnairi/your-own-loader-without-any-dependencies-with-react-2b41)
 - [Lifehacker] [This Sweet and Salty Beet Dip Is a Breeze to Make](https://lifehacker.com/this-sweet-and-salty-beet-dip-is-a-breeze-to-make-1849034941)
 - [Lifehacker] [How to Go Gray As Gracefully As Possible](https://lifehacker.com/how-to-go-gray-as-gracefully-as-possible-1849034710)
 - [Lifehacker] [When to See a Bunch of Planets Line Up in the Sky This Month](https://lifehacker.com/when-to-see-a-bunch-of-planets-line-up-in-the-sky-this-1849034247)
