@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Boost NextJS TTI &amp; FID performance without compromise and pain](https://dev.to/thanhlm/boost-nextjs-tti-fid-performance-without-compromise-and-pain-5h0n)
+- [Dev.to/JS] [Parallax In Next.js using React-Scroll-Parallax 😉](https://dev.to/nyctonio/parallax-in-nextjs-using-react-scroll-parallax-2110)
 - [Dev.to/JS] [How to handle forms on static sites for FREE?](https://dev.to/basharath/how-to-handle-forms-on-static-sites-for-free-30c8)
 - [Dev.to/JS] [Eleventy - Shortcode for Embedding Codepen](https://dev.to/murtuzaalisurti/eleventy-shortcode-for-embedding-codepen-3oa2)
 - [Dev.to/JS] [Blogging Website](https://dev.to/yashkapure06/blogging-website-23j2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing a Token Store with APIM Authorizations](https://dev.to/azure/implementing-a-token-store-with-apim-authorizations-5dep)
 - [Dev.to/JS] [Cabal | Made with React JS](https://dev.to/madewithjavascript/cabal-made-with-react-js-1ng5)
 - [Dev.to/JS] [Creating a Responsive Admin Dashboard with React](https://dev.to/asayerio_techblog/creating-a-responsive-admin-dashboard-with-react-424f)
-- [Dev.to/JS] [Learning what I thought I knew: Pipes functions](https://dev.to/klish3/learning-what-i-thought-i-knew-pipes-functions-49j2)
-- [Dev.to/JS] [This Week In React #107: Plasmo, Panapasi, Fastify-DX, Remix, Solid, useInsertionEffect, JSI, Vite, Angular, Safari...](https://dev.to/sebastienlorber/this-week-in-react-107-plasmo-panapasi-fastify-dx-remix-solid-useinsertioneffect-jsi-vite-angular-safari-36ij)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
