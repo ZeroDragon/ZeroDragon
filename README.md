@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Go Gray As Gracefully As Possible](https://lifehacker.com/how-to-go-gray-as-gracefully-as-possible-1849034710)
+- [Lifehacker] [When to See a Bunch of Planets Line Up in the Sky This Month](https://lifehacker.com/when-to-see-a-bunch-of-planets-line-up-in-the-sky-this-1849034247)
+- [Dev.to/JS] [Unary function - Javascript](https://dev.to/therahul_gupta/unary-function-javascript-3d8h)
+- [Dev.to/JS] [Destructuring in JavaScript](https://dev.to/melguachun/destructuring-in-javascript-55eo)
+- [Dev.to/JS] [Paracetamol.js💊| #136: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-136-explica-este-codigo-javascript-261n)
+- [Dev.to/JS] [Patterns for Building JavaScript Websites in 2022](https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93)
+- [Lifehacker] [Why You Shouldn’t Dump Your Family Goldfish Into a Pond](https://lifehacker.com/why-you-shouldn-t-dump-your-family-goldfish-into-a-pond-1849034215)
 - [Dev.to/JS] [JavaScript Libraries You Should Try Out in 2022](https://dev.to/workshub/javascript-libraries-you-should-try-out-in-2022-4b4p)
 - [Lifehacker] [Why You Shouldn’t Install Apple’s Betas Without a Developer Account &lpar;Yet&rpar;](https://lifehacker.com/why-you-shouldn-t-install-apple-s-betas-without-a-devel-1849032993)
 - [Dev.to/JS] [6 Lessons Learned Maintaining a Popular Open-Source Project](https://dev.to/simeg/6-lessons-learned-maintaining-a-popular-open-source-project-1fpg)
@@ -36,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A stage for our open-source contributors](https://dev.to/scopsy/a-stage-for-our-open-source-contributors-1f52)
 - [Dev.to/JS] [What is Node.js used for and Why it is the Most Popular Server-Side JavaScript](https://dev.to/kane_jason/what-is-nodejs-used-for-and-why-it-is-the-most-popular-server-side-javascript-4pi8)
 - [Lifehacker] [How to Avoid The Worst of This Summer&#39;s Travel Hell](https://lifehacker.com/how-to-avoid-the-worst-of-this-summers-travel-hell-1849031575)
-- [Dev.to/JS] [1138. Copy List with Random Pointer 🚀](https://dev.to/samuelhinchliffe/1138-copy-list-with-random-pointer-2777)
-- [Dev.to/JS] [Typesense integration with any Headless CMS: a step-by-step guide](https://dev.to/aviyel/typesense-guide-for-headless-cms-integration-31aa)
 - [Lifehacker] [Do You Have a &#39;Body Checking&#39; Problem?](https://lifehacker.com/do-you-have-a-body-checking-problem-1849030433)
-- [Dev.to/JS] [133. Clone Graph](https://dev.to/samuelhinchliffe/133-clone-graph-1494)
 - [Lifehacker] [Chocolate Is a Chip Dip](https://lifehacker.com/chocolate-is-a-chip-dip-1849031459)
-- [Dev.to/JS] [What are the Types of Functions in JavaScript?](https://dev.to/hermitex/what-are-the-types-of-functions-in-javascript-1clp)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Install the macOS 13 Ventura Developer Beta](https://lifehacker.com/how-to-install-the-macos-13-ventura-developer-beta-1849026306)
 - [Lifehacker] [The Best New macOS Ventura Features Coming to Your MacBook](https://lifehacker.com/the-best-new-macos-ventura-features-coming-to-your-macb-1849027260)
 - [Lifehacker] [This Is How You Fix a Messy Summer Ice Cream Cone](https://lifehacker.com/this-is-how-you-fix-a-messy-summer-ice-cream-cone-1849025130)
-- [Lifehacker] [How to Cope With Not Feeling &#39;Adult&#39; Enough](https://lifehacker.com/how-to-cope-with-not-feeling-adult-enough-1849024003)
-- [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
-- [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)<!-- TECH-POSTS:END -->
 
