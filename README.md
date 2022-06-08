@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [FIDO authentication through NPMJS](https://dev.to/ncb879/fido-authentication-through-npmjs-27cf)
+- [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
+- [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
 - [Dev.to/JS] [esbuild - Desarrollo sin dolor.](https://dev.to/ushieru/esbuild-desarrollo-sin-dolor-5hmf)
 - [Dev.to/JS] [The latest 2022 standards and trends in web development](https://dev.to/marveluck/the-latest-2022-standards-and-trends-in-web-development-2h7i)
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
@@ -39,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Sweet and Salty Beet Dip Is a Breeze to Make](https://lifehacker.com/this-sweet-and-salty-beet-dip-is-a-breeze-to-make-1849034941)
 - [Dev.to/JS] [Day 3 : What Is IIFE in Javascript ?](https://dev.to/leo1612d/day-3-what-is-iife-in-javascript--d32)
 - [Dev.to/JS] [Cryptle - Wordle clone for Enarx](https://dev.to/aryank21/cryptle-wordle-clone-for-enarx-bdf)
-- [Dev.to/JS] [Day-104 Training At Ryaz](https://dev.to/mahin651/day-104-training-at-ryaz-1lk3)
 - [Lifehacker] [How to Go Gray As Gracefully As Possible](https://lifehacker.com/how-to-go-gray-as-gracefully-as-possible-1849034710)
 - [Lifehacker] [When to See a Bunch of Planets Line Up in the Sky This Month](https://lifehacker.com/when-to-see-a-bunch-of-planets-line-up-in-the-sky-this-1849034247)
 - [Lifehacker] [Why You Shouldn’t Dump Your Family Goldfish Into a Pond](https://lifehacker.com/why-you-shouldn-t-dump-your-family-goldfish-into-a-pond-1849034215)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Get Kids to Exercise When They Hate Team Sports](https://lifehacker.com/the-best-ways-to-get-kids-to-exercise-when-they-hate-te-1849029225)
 - [Lifehacker] [All the Ways You Could Be Saving Money on Your Energy Bill, but Probably Aren&#39;t](https://lifehacker.com/all-the-ways-you-could-be-saving-money-on-your-energy-b-1849028593)
 - [Lifehacker] [Is It Actually Bad to Leave Sunscreen on Overnight?](https://lifehacker.com/is-it-actually-bad-to-leave-sunscreen-on-overnight-1849028522)
-- [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
-- [Lifehacker] [You Need Smarter Window Treatments This Summer](https://lifehacker.com/you-need-smarter-window-treatments-this-summer-1849027162)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)<!-- TECH-POSTS:END -->
 
