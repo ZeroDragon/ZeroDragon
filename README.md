@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [1138. Copy List with Random Pointer 🚀](https://dev.to/samuelhinchliffe/1138-copy-list-with-random-pointer-2777)
+- [Dev.to/JS] [Typesense guide for Headless CMS Integration](https://dev.to/aviyel/typesense-guide-for-headless-cms-integration-31aa)
+- [Lifehacker] [Do You Have a &#39;Body Checking&#39; Problem?](https://lifehacker.com/do-you-have-a-body-checking-problem-1849030433)
+- [Dev.to/JS] [133. Clone Graph](https://dev.to/samuelhinchliffe/133-clone-graph-1494)
 - [Lifehacker] [Chocolate Is a Chip Dip](https://lifehacker.com/chocolate-is-a-chip-dip-1849031459)
 - [Dev.to/JS] [What are the Types of Functions in JavaScript?](https://dev.to/hermitex/what-are-the-types-of-functions-in-javascript-1clp)
 - [Dev.to/JS] [Which Headless CMS Should I Use?](https://dev.to/endymion1818/which-headless-cms-should-i-use-56h1)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [3 Weird Reasons Why You Should Learn Programming](https://dev.to/mohitbilala/3-weird-reasons-why-you-should-learn-programming-38j0)
 - [Dev.to/JS] [Top 9 sites for staying up to date as a software developer](https://dev.to/devtoolzz/top-9-sites-for-staying-up-to-date-as-a-software-developer-57j0)
 - [Dev.to/JS] [Metamask Web Utilities](https://dev.to/alex20465/metamask-web-utilities-475d)
-- [Dev.to/JS] [The tiny trick of the day: html[data-local-storage]](https://dev.to/merri/the-tiny-trick-of-the-day-htmldata-local-storage-3pl3)
-- [Dev.to/JS] [Enabling Preview mode in your Next.js application](https://dev.to/kaspera/enabling-preview-mode-in-your-nextjs-application-30do)
-- [Dev.to/JS] [Complete guide about Mergify and the gain it represents.](https://dev.to/tyaga001/complete-guide-about-mergify-and-the-gain-it-represents-22ji)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
 - [Lifehacker] [How to Grill the Perfect Hot Dog](https://lifehacker.com/how-to-grill-the-perfect-hot-dog-1849024040)
 - [Lifehacker] [How to Wash a Weighted Blanket](https://lifehacker.com/how-to-wash-a-weighted-blanket-1849022834)
-- [Lifehacker] [The Airlines Most Likely to Suck, According to Department of Transportation Data](https://lifehacker.com/the-airlines-most-likely-to-suck-according-to-departme-1849023546)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)
 - [Crazy Programmer] [Dataquest vs DataCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/05/dataquest-vs-datacamp.html)<!-- TECH-POSTS:END -->
