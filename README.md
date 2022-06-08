@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [New Ideas](https://dev.to/prfsor1/new-ideas-2fph)
+- [Dev.to/JS] [Javascript String Methods: A Cheat Sheet for Developer](https://dev.to/devsmitra/javascript-string-methods-a-cheat-sheet-for-developer-4kbk)
 - [Dev.to/JS] [Generate API key in JavaScript, Ruby and Python](https://dev.to/vishal8236/generate-api-key-in-javascript-ruby-and-python-1id6)
 - [Dev.to/JS] [Validating repository content with GitHub GraphQL API](https://dev.to/nsantos16/validating-repository-content-with-github-graphql-api-2i93)
 - [Dev.to/JS] [Implementing a Token Store with APIM Authorizations](https://dev.to/azure/implementing-a-token-store-with-apim-authorizations-5dep)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular 14 en 3 features](https://dev.to/necraidan/angular-14-en-3-features-23pn)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Dev.to/JS] [I created a simple Morse Code Converter that can generate equivalent sounds](https://dev.to/decodedcipher/i-created-a-simple-morse-code-converter-that-can-generate-equivalent-sounds-4pd9)
-- [Dev.to/JS] [Animación de máscaras CSS.](https://dev.to/jairdev/animacion-de-mascaras-css-15p2)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
-- [Dev.to/JS] [Paracetamol.js💊| #135: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-135-explica-este-codigo-javascript-4oi4)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
 - [Lifehacker] [Make Spam Fries in Your Air Fryer](https://lifehacker.com/make-spam-fries-in-your-air-fryer-1849029707)
 - [Lifehacker] [All the Hidden iOS 16 Features Worth Knowing About](https://lifehacker.com/all-the-hidden-ios-16-features-worth-knowing-about-1849028747)
