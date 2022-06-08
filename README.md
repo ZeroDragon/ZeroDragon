@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Libraries You Should Try Out in 2022](https://dev.to/workshub/javascript-libraries-you-should-try-out-in-2022-4b4p)
+- [Lifehacker] [Why You Shouldn’t Install Apple’s Betas Without a Developer Account &lpar;Yet&rpar;](https://lifehacker.com/why-you-shouldn-t-install-apple-s-betas-without-a-devel-1849032993)
+- [Dev.to/JS] [6 Lessons Learned Maintaining a Popular Open-Source Project](https://dev.to/simeg/6-lessons-learned-maintaining-a-popular-open-source-project-1fpg)
+- [Dev.to/JS] [How to create a server with Node, Fastify and MongoDB](https://dev.to/deotyma/how-to-create-a-server-with-node-fastify-and-mongodb-1gbe)
+- [Dev.to/JS] [From building to selling - EP.14](https://dev.to/twankrui/from-building-to-selling-ep14-oan)
+- [Dev.to/JS] [What are the different JavaScript Loops?](https://dev.to/hackmamba/what-are-the-different-javascript-loops-3p84)
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1849033297)
 - [Lifehacker] [When Is It Illegal to Lie?](https://lifehacker.com/when-is-it-illegal-to-lie-1849032446)
 - [Dev.to/JS] [695. Max Area of Island 🚀](https://dev.to/samuelhinchliffe/695-max-area-of-island-2mem)
@@ -36,11 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [133. Clone Graph](https://dev.to/samuelhinchliffe/133-clone-graph-1494)
 - [Lifehacker] [Chocolate Is a Chip Dip](https://lifehacker.com/chocolate-is-a-chip-dip-1849031459)
 - [Dev.to/JS] [What are the Types of Functions in JavaScript?](https://dev.to/hermitex/what-are-the-types-of-functions-in-javascript-1clp)
-- [Dev.to/JS] [Which Headless CMS Should I Use?](https://dev.to/endymion1818/which-headless-cms-should-i-use-56h1)
-- [Dev.to/JS] [Use reactjs app build in script tag of HTML file](https://dev.to/pradeeprano/use-reactjs-app-build-in-script-tag-of-html-file-16l2)
-- [Dev.to/JS] [AG Grid Community Roundup May 2022](https://dev.to/ag-grid/ag-grid-community-roundup-may-2022-29nf)
-- [Dev.to/JS] [My Portfolio Website](https://dev.to/krishnaagarwal/my-portfolio-website-446o)
-- [Dev.to/JS] [Barber Shop Website](https://dev.to/sanketbodake/barber-shop-website-1287)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Cope With Not Feeling &#39;Adult&#39; Enough](https://lifehacker.com/how-to-cope-with-not-feeling-adult-enough-1849024003)
 - [Lifehacker] [The Best New Features in iOS 16 and iPadOS 16](https://lifehacker.com/the-best-new-features-in-ios-16-and-ipados-16-1849023814)
 - [Lifehacker] [Why You Should Chop Your Sundae Cherries](https://lifehacker.com/why-you-should-chop-your-sundae-cherries-1849024945)
-- [Lifehacker] [How to Prepare for &lpar;and Live Through&rpar; a Drought](https://lifehacker.com/how-to-prepare-for-and-live-through-a-drought-1849024478)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)<!-- TECH-POSTS:END -->
 
