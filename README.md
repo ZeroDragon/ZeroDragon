@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [esbuild - Desarrollo sin dolor.](https://dev.to/ushieru/esbuild-desarrollo-sin-dolor-5hmf)
+- [Dev.to/JS] [The latest 2022 standards and trends in web development](https://dev.to/marveluck/the-latest-2022-standards-and-trends-in-web-development-2h7i)
+- [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
+- [Dev.to/JS] [Case Study - Lana Cookie Notice WordPress Plugin](https://dev.to/lanacodes/case-study-lana-cookie-notice-wordpress-plugin-8jl)
 - [Lifehacker] [‘Dower Rights’ Still Exist?](https://lifehacker.com/dower-rights-still-exist-1849034668)
 - [Dev.to/JS] [Handel repeatedly triggered events with Javascript](https://dev.to/premjeet/handel-repeatedly-triggered-events-with-javascript-1jj2)
 - [Dev.to/JS] [Controlled components vs Uncontrolled components](https://dev.to/t007rushi/what-are-react-controlled-components-and-uncontrolled-components-2hhl)
@@ -33,14 +37,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Your own loader without any dependencies with React](https://dev.to/aminnairi/your-own-loader-without-any-dependencies-with-react-2b41)
 - [Dev.to/JS] [JavaScript Methods and this Keyword](https://dev.to/nameismani/javascript-methods-and-this-keyword-4c9f)
 - [Lifehacker] [This Sweet and Salty Beet Dip Is a Breeze to Make](https://lifehacker.com/this-sweet-and-salty-beet-dip-is-a-breeze-to-make-1849034941)
-- [Dev.to/JS] [Crack Softwares](https://dev.to/ammieliones/crack-softwares-22hd)
 - [Dev.to/JS] [Day 3 : What Is IIFE in Javascript ?](https://dev.to/leo1612d/day-3-what-is-iife-in-javascript--d32)
 - [Dev.to/JS] [Cryptle - Wordle clone for Enarx](https://dev.to/aryank21/cryptle-wordle-clone-for-enarx-bdf)
 - [Dev.to/JS] [Day-104 Training At Ryaz](https://dev.to/mahin651/day-104-training-at-ryaz-1lk3)
-- [Dev.to/JS] [My Next.js Boilerplate now has 2000+ GitHub stars](https://dev.to/ixartz/my-nextjs-boilerplate-now-has-2000-github-stars-dne)
 - [Lifehacker] [How to Go Gray As Gracefully As Possible](https://lifehacker.com/how-to-go-gray-as-gracefully-as-possible-1849034710)
 - [Lifehacker] [When to See a Bunch of Planets Line Up in the Sky This Month](https://lifehacker.com/when-to-see-a-bunch-of-planets-line-up-in-the-sky-this-1849034247)
-- [Dev.to/JS] [Unary function - Javascript](https://dev.to/therahul_gupta/unary-function-javascript-3d8h)
 - [Lifehacker] [Why You Shouldn’t Dump Your Family Goldfish Into a Pond](https://lifehacker.com/why-you-shouldn-t-dump-your-family-goldfish-into-a-pond-1849034215)
 - [Lifehacker] [Why You Shouldn’t Install Apple’s Betas Without a Developer Account &lpar;Yet&rpar;](https://lifehacker.com/why-you-shouldn-t-install-apple-s-betas-without-a-devel-1849032993)
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1849033297)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is It Actually Bad to Leave Sunscreen on Overnight?](https://lifehacker.com/is-it-actually-bad-to-leave-sunscreen-on-overnight-1849028522)
 - [Lifehacker] [The Best New Features in watchOS 9](https://lifehacker.com/the-best-new-features-in-watchos-9-1849027953)
 - [Lifehacker] [You Need Smarter Window Treatments This Summer](https://lifehacker.com/you-need-smarter-window-treatments-this-summer-1849027162)
-- [Lifehacker] [How to Keep Your AC Unit Working All Summer](https://lifehacker.com/how-to-keep-your-ac-unit-working-all-summer-1849027071)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)<!-- TECH-POSTS:END -->
 
