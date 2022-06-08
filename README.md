@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day.js a cool library for working with Dates in JavaScript🙈](https://dev.to/gulshanaggarwal/dayjs-a-cool-library-for-working-with-dates-in-javascript-h23)
+- [Dev.to/JS] [The Lenra team](https://dev.to/lenra/the-lenra-team-1g70)
+- [Dev.to/JS] [The beauty of Sanity](https://dev.to/aor2405/the-beauty-of-sanity-4421)
 - [Dev.to/JS] [Boost NextJS TTI &amp; FID performance without compromise and pain](https://dev.to/thanhlm/boost-nextjs-tti-fid-performance-without-compromise-and-pain-5h0n)
 - [Dev.to/JS] [Parallax In Next.js using React-Scroll-Parallax 😉](https://dev.to/nyctonio/parallax-in-nextjs-using-react-scroll-parallax-2110)
 - [Dev.to/JS] [How to handle forms on static sites for FREE?](https://dev.to/basharath/how-to-handle-forms-on-static-sites-for-free-30c8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript String Methods: A Cheat Sheet for Developer](https://dev.to/devsmitra/javascript-string-methods-a-cheat-sheet-for-developer-4kbk)
 - [Dev.to/JS] [Generate API key in JavaScript, Ruby and Python](https://dev.to/vishal8236/generate-api-key-in-javascript-ruby-and-python-1id6)
 - [Dev.to/JS] [Validating repository content with GitHub GraphQL API](https://dev.to/nsantos16/validating-repository-content-with-github-graphql-api-2i93)
-- [Dev.to/JS] [Implementing a Token Store with APIM Authorizations](https://dev.to/azure/implementing-a-token-store-with-apim-authorizations-5dep)
-- [Dev.to/JS] [Cabal | Made with React JS](https://dev.to/madewithjavascript/cabal-made-with-react-js-1ng5)
-- [Dev.to/JS] [Creating a Responsive Admin Dashboard with React](https://dev.to/asayerio_techblog/creating-a-responsive-admin-dashboard-with-react-424f)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
