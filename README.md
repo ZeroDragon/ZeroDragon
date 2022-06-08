@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Color Should You Paint Your Garage Door?](https://lifehacker.com/what-color-should-you-paint-your-garage-door-1849034637)
+- [Dev.to/JS] [Your own loader without any dependencies with React](https://dev.to/aminnairi/your-own-loader-without-any-dependencies-with-react-2b41)
+- [Dev.to/JS] [JavaScript Methods and this Keyword](https://dev.to/nameismani/javascript-methods-and-this-keyword-4c9f)
+- [Lifehacker] [This Sweet and Salty Beet Dip Is a Breeze to Make](https://lifehacker.com/this-sweet-and-salty-beet-dip-is-a-breeze-to-make-1849034941)
+- [Dev.to/JS] [Crack Softwares](https://dev.to/ammieliones/crack-softwares-22hd)
+- [Dev.to/JS] [Day 3 : What Is IIFE in Javascript ?](https://dev.to/leo1612d/day-3-what-is-iife-in-javascript--d32)
+- [Dev.to/JS] [Cryptle - Wordle clone for Enarx](https://dev.to/aryank21/cryptle-wordle-clone-for-enarx-bdf)
+- [Dev.to/JS] [Day-104 Training At Ryaz](https://dev.to/mahin651/day-104-training-at-ryaz-1lk3)
+- [Dev.to/JS] [My Next.js Boilerplate now has 2000+ GitHub stars](https://dev.to/ixartz/my-nextjs-boilerplate-now-has-2000-github-stars-dne)
 - [Lifehacker] [How to Go Gray As Gracefully As Possible](https://lifehacker.com/how-to-go-gray-as-gracefully-as-possible-1849034710)
 - [Lifehacker] [When to See a Bunch of Planets Line Up in the Sky This Month](https://lifehacker.com/when-to-see-a-bunch-of-planets-line-up-in-the-sky-this-1849034247)
 - [Dev.to/JS] [Unary function - Javascript](https://dev.to/therahul_gupta/unary-function-javascript-3d8h)
@@ -32,16 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn’t Dump Your Family Goldfish Into a Pond](https://lifehacker.com/why-you-shouldn-t-dump-your-family-goldfish-into-a-pond-1849034215)
 - [Dev.to/JS] [JavaScript Libraries You Should Try Out in 2022](https://dev.to/workshub/javascript-libraries-you-should-try-out-in-2022-4b4p)
 - [Lifehacker] [Why You Shouldn’t Install Apple’s Betas Without a Developer Account &lpar;Yet&rpar;](https://lifehacker.com/why-you-shouldn-t-install-apple-s-betas-without-a-devel-1849032993)
-- [Dev.to/JS] [6 Lessons Learned Maintaining a Popular Open-Source Project](https://dev.to/simeg/6-lessons-learned-maintaining-a-popular-open-source-project-1fpg)
-- [Dev.to/JS] [How to create a server with Node, Fastify and MongoDB](https://dev.to/deotyma/how-to-create-a-server-with-node-fastify-and-mongodb-1gbe)
-- [Dev.to/JS] [From building to selling - EP.14](https://dev.to/twankrui/from-building-to-selling-ep14-oan)
-- [Dev.to/JS] [What are the different JavaScript Loops?](https://dev.to/hackmamba/what-are-the-different-javascript-loops-3p84)
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1849033297)
 - [Lifehacker] [When Is It Illegal to Lie?](https://lifehacker.com/when-is-it-illegal-to-lie-1849032446)
-- [Dev.to/JS] [695. Max Area of Island 🚀](https://dev.to/samuelhinchliffe/695-max-area-of-island-2mem)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
-- [Dev.to/JS] [A stage for our open-source contributors](https://dev.to/scopsy/a-stage-for-our-open-source-contributors-1f52)
-- [Dev.to/JS] [What is Node.js used for and Why it is the Most Popular Server-Side JavaScript](https://dev.to/kane_jason/what-is-nodejs-used-for-and-why-it-is-the-most-popular-server-side-javascript-4pi8)
 - [Lifehacker] [How to Avoid The Worst of This Summer&#39;s Travel Hell](https://lifehacker.com/how-to-avoid-the-worst-of-this-summers-travel-hell-1849031575)
 - [Lifehacker] [Do You Have a &#39;Body Checking&#39; Problem?](https://lifehacker.com/do-you-have-a-body-checking-problem-1849030433)
 - [Lifehacker] [Chocolate Is a Chip Dip](https://lifehacker.com/chocolate-is-a-chip-dip-1849031459)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Your AC Unit Working All Summer](https://lifehacker.com/how-to-keep-your-ac-unit-working-all-summer-1849027071)
 - [Lifehacker] [What to Do When You&#39;re Caught Stealing From Work](https://lifehacker.com/what-to-do-when-youre-caught-stealing-from-work-1849022521)
 - [Lifehacker] [How to Install the macOS 13 Ventura Developer Beta](https://lifehacker.com/how-to-install-the-macos-13-ventura-developer-beta-1849026306)
-- [Lifehacker] [The Best New macOS Ventura Features Coming to Your MacBook](https://lifehacker.com/the-best-new-macos-ventura-features-coming-to-your-macb-1849027260)
-- [Lifehacker] [This Is How You Fix a Messy Summer Ice Cream Cone](https://lifehacker.com/this-is-how-you-fix-a-messy-summer-ice-cream-cone-1849025130)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)
 - [Crazy Programmer] [Codecademy vs freeCodeCamp 2022 – Which is Better?](https://www.thecrazyprogrammer.com/2022/06/codecademy-vs-freecodecamp.html)<!-- TECH-POSTS:END -->
 
