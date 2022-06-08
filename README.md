@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Implementing a Token Store with APIM Authorizations](https://dev.to/azure/implementing-a-token-store-with-apim-authorizations-5dep)
+- [Dev.to/JS] [Cabal | Made with React JS](https://dev.to/madewithjavascript/cabal-made-with-react-js-1ng5)
 - [Dev.to/JS] [Creating a Responsive Admin Dashboard with React](https://dev.to/asayerio_techblog/creating-a-responsive-admin-dashboard-with-react-424f)
 - [Dev.to/JS] [Learning what I thought I knew: Pipes functions](https://dev.to/klish3/learning-what-i-thought-i-knew-pipes-functions-49j2)
 - [Dev.to/JS] [This Week In React #107: Plasmo, Panapasi, Fastify-DX, Remix, Solid, useInsertionEffect, JSI, Vite, Angular, Safari...](https://dev.to/sebastienlorber/this-week-in-react-107-plasmo-panapasi-fastify-dx-remix-solid-useinsertioneffect-jsi-vite-angular-safari-36ij)
@@ -37,10 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How would you call this transition effect?](https://dev.to/genejams/how-would-you-call-this-transition-effect-k0o)
 - [Dev.to/JS] [Get the Largest Number](https://dev.to/mrmatteorusso/get-the-largest-number-294n)
 - [Lifehacker] [Make Spam Fries in Your Air Fryer](https://lifehacker.com/make-spam-fries-in-your-air-fryer-1849029707)
-- [Dev.to/JS] [Clean code exercises - part 2](https://dev.to/ederchrono/clean-code-exercises-part-2-3ee3)
 - [Lifehacker] [All the Hidden iOS 16 Features Worth Knowing About](https://lifehacker.com/all-the-hidden-ios-16-features-worth-knowing-about-1849028747)
 - [Lifehacker] [Real Estate Reality Shows Are Lying to You](https://lifehacker.com/real-estate-reality-shows-are-lying-to-you-1849028260)
-- [Dev.to/JS] [Midnight Fun- Meme on JavaScript splice&lpar; &rpar; 😆](https://dev.to/devash98/midnight-fun-sharing-meme-49g2)
 - [Lifehacker] [The Best Ways to Get Kids to Exercise When They Hate Team Sports](https://lifehacker.com/the-best-ways-to-get-kids-to-exercise-when-they-hate-te-1849029225)
 - [Lifehacker] [All the Ways You Could Be Saving Money on Your Energy Bill, but Probably Aren&#39;t](https://lifehacker.com/all-the-ways-you-could-be-saving-money-on-your-energy-b-1849028593)
 - [Lifehacker] [Is It Actually Bad to Leave Sunscreen on Overnight?](https://lifehacker.com/is-it-actually-bad-to-leave-sunscreen-on-overnight-1849028522)
