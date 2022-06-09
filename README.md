@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Save Your Kid&#39;s Artwork Without Taking Up Space](https://lifehacker.com/the-best-way-to-save-your-kids-artwork-without-taking-u-1849036306)
+- [Lifehacker] [How to Share Your .MOV iPhone Videos as MP4s &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-share-your-mov-iphone-videos-as-mp4s-and-why-y-1849038670)
+- [Dev.to/JS] [How to use variables in CSS with v-bind in VueJs 3](https://dev.to/zelig880/how-to-use-variables-in-css-with-v-bind-in-vuejs-3-802)
+- [Dev.to/JS] [Pass Functions as Arguments in JavaScript?](https://dev.to/hermitex/pass-functions-as-arguments-in-javascript-1c5b)
+- [Dev.to/JS] [Imagine Dat Podcast: 99 Bottles of OOP: Chapters 3 and 4 Chat](https://dev.to/imagine_dat_dyt/imagine-dat-podcast-99-bottles-of-oop-chapters-3-and-4-chat-3goo)
+- [Dev.to/JS] [Redux Without React](https://dev.to/vedanthb/redux-without-react-558e)
+- [Lifehacker] [11 Things That Lose Value As Soon As You Buy Them](https://lifehacker.com/11-things-that-lose-value-as-soon-as-you-buy-them-1849036728)
 - [Lifehacker] [Mosquito Repelling Plants Are a Lie](https://lifehacker.com/mosquito-repelling-plants-are-a-lie-1849036607)
 - [Dev.to/JS] [Learning Reactjs](https://dev.to/aakas/learning-reactjs-ck9)
 - [Dev.to/JS] [Closures In JavaScript](https://dev.to/kaankorkmaz/closures-in-javascript-23p3)
@@ -34,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Unbreakable Rules of Driving Etiquette, According to Lifehacker Readers](https://lifehacker.com/15-unbreakable-rules-of-driving-etiquette-according-to-1849036345)
 - [Dev.to/JS] [MEVN stack tutorial | Build a CRUD app using Vue 3, Node, Express &amp; MongoDB](https://dev.to/signoz/mevn-stack-tutorial-build-a-crud-app-using-vue-3-node-express-mongodb-bmp)
 - [Dev.to/JS] [Code Smell 139 - Business Code in the User Interface](https://dev.to/mcsee/code-smell-139-business-code-in-the-user-interface-1i4o)
-- [Dev.to/JS] [How to Use localStorage with React Hooks to Set and Get Items](https://dev.to/dantechnologics/how-to-use-localstorage-with-react-hooks-to-set-and-get-items-2436)
-- [Dev.to/JS] [Build a business card CLI tool](https://dev.to/whitep4nth3r/build-a-business-card-cli-tool-3c70)
-- [Dev.to/JS] [Content Management Systems for Gatsby](https://dev.to/asayerio_techblog/content-management-systems-for-gatsby-58i8)
-- [Dev.to/JS] [Difference Between Libraries and Frameworks A Reference Guide For 2022 Noobs](https://dev.to/sojinsamuel/difference-between-libraries-and-frameworks-a-reference-guide-for-2022-noobs-e0)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
@@ -59,9 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
-- [Lifehacker] [Make Spam Fries in Your Air Fryer](https://lifehacker.com/make-spam-fries-in-your-air-fryer-1849029707)
-- [Lifehacker] [All the Hidden iOS 16 Features Worth Knowing About](https://lifehacker.com/all-the-hidden-ios-16-features-worth-knowing-about-1849028747)
-- [Lifehacker] [Real Estate Reality Shows Are Lying to You](https://lifehacker.com/real-estate-reality-shows-are-lying-to-you-1849028260)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
 ---
