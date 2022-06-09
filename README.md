@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #137: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-137-explica-este-codigo-javascript-2k01)
+- [Lifehacker] [How Long Does Liquor Really Last After You Open the Bottle?](https://lifehacker.com/how-long-does-liquor-really-last-after-you-open-the-bot-1849040293)
+- [Dev.to/JS] [Answering micro frontends criticisms | Environmental Differences](https://dev.to/richkurtzman/answering-micro-frontends-criticisms-environmental-differences-2ale)
 - [Lifehacker] [You Should Make Broccoli Salad, but With Asparagus](https://lifehacker.com/you-should-make-broccoli-salad-but-with-asparagus-1849036832)
 - [Dev.to/JS] [Day 4 : What is memoization in javascript ?](https://dev.to/leo1612d/day-4-what-is-memoization-in-javascript--2ie3)
 - [Lifehacker] [Why Everyone Should Have a Night Light &lpar;and How to Choose the Best One&rpar;](https://lifehacker.com/why-everyone-should-have-a-night-light-and-how-to-choo-1849039622)
@@ -41,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use variables in CSS with v-bind in VueJs 3](https://dev.to/zelig880/how-to-use-variables-in-css-with-v-bind-in-vuejs-3-802)
 - [Dev.to/JS] [Pass Functions as Arguments in JavaScript?](https://dev.to/hermitex/pass-functions-as-arguments-in-javascript-1c5b)
 - [Dev.to/JS] [Imagine Dat Podcast: 99 Bottles of OOP: Chapters 3 and 4 Chat](https://dev.to/imagine_dat_dyt/imagine-dat-podcast-99-bottles-of-oop-chapters-3-and-4-chat-3goo)
-- [Dev.to/JS] [Redux Without React](https://dev.to/vedanthb/redux-without-react-558e)
 - [Lifehacker] [11 Things That Lose Value As Soon As You Buy Them](https://lifehacker.com/11-things-that-lose-value-as-soon-as-you-buy-them-1849036728)
 - [Lifehacker] [Mosquito Repelling Plants Are a Lie](https://lifehacker.com/mosquito-repelling-plants-are-a-lie-1849036607)
-- [Dev.to/JS] [Learning Reactjs](https://dev.to/aakas/learning-reactjs-ck9)
 - [Lifehacker] [You Should Make Your Own &#39;Spotify Pie&#39; Chart](https://lifehacker.com/you-should-make-your-own-spotify-pie-chart-1849035508)
 - [Lifehacker] [15 Unbreakable Rules of Driving Etiquette, According to Lifehacker Readers](https://lifehacker.com/15-unbreakable-rules-of-driving-etiquette-according-to-1849036345)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Shouldn’t Dump Your Family Goldfish Into a Pond](https://lifehacker.com/why-you-shouldn-t-dump-your-family-goldfish-into-a-pond-1849034215)
 - [Lifehacker] [Why You Shouldn’t Install Apple’s Betas Without a Developer Account &lpar;Yet&rpar;](https://lifehacker.com/why-you-shouldn-t-install-apple-s-betas-without-a-devel-1849032993)
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1849033297)
-- [Lifehacker] [When Is It Illegal to Lie?](https://lifehacker.com/when-is-it-illegal-to-lie-1849032446)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
