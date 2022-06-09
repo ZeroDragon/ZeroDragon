@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Community Resource Web-Apps with Google Maps API](https://dev.to/holistictechnologist/building-community-resource-web-apps-with-google-maps-api-1plj)
+- [Dev.to/JS] [Paracetalmol.test.js, retos de testing con Jest en Javascript 💊](https://dev.to/duxtech/paracetalmoltestjs-retos-de-testing-con-jest-en-javascript-53dk)
+- [Dev.to/JS] [Construye en Flow: Aprende FCL - 3. Como retornar valores arbitrarios desde un script](https://dev.to/onflow/construye-en-flow-aprende-fcl-3-como-retornar-valores-arbitrarios-desde-un-script-2oa6)
+- [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
+- [Dev.to/JS] [Use htpasswd to secure your node-RED Container](https://dev.to/shandesai/use-htpasswd-to-secure-your-node-red-container-15cl)
+- [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
 - [Dev.to/JS] [React-Scripts from an empty directory](https://dev.to/srele96/react-scripts-from-an-empty-directory-4ek2)
 - [Dev.to/JS] [creando una base de datos de películas con la API de OMDB y REACT](https://dev.to/rtagliavia/creando-una-base-de-datos-de-peliculas-con-la-api-de-omdb-y-react-of4)
 - [Lifehacker] [Does Balsamic Vinegar and Sparkling Water Really Taste Like Coke?](https://lifehacker.com/does-balsamic-vinegar-and-sparkling-water-really-taste-1849041883)
@@ -38,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Broccoli Salad, but With Asparagus](https://lifehacker.com/you-should-make-broccoli-salad-but-with-asparagus-1849036832)
 - [Dev.to/JS] [Day 4 : What is memoization in javascript ?](https://dev.to/leo1612d/day-4-what-is-memoization-in-javascript--2ie3)
 - [Lifehacker] [Why Everyone Should Have a Night Light &lpar;and How to Choose the Best One&rpar;](https://lifehacker.com/why-everyone-should-have-a-night-light-and-how-to-choo-1849039622)
-- [Dev.to/JS] [Using a react widget/micro-frontend in Angular app](https://dev.to/anwaradil/using-a-react-widgetmicro-frontend-in-angular-app-3afj)
 - [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
-- [Dev.to/JS] [Updates from the 90th TC39 meeting](https://dev.to/hemanth/updates-from-the-90th-tc39-meeting-1789)
-- [Dev.to/JS] [Common Searching Algorithms in JavaScript](https://dev.to/hannahglazier/common-searching-algorithms-in-javascript-207e)
-- [Dev.to/JS] [Nx 14.2 - Angular v14, Storybook update, lightweight Nx and more!](https://dev.to/nx/nx-142-angular-v14-storybook-update-lightweight-nx-and-more-c5p)
 - [Lifehacker] [This Browser Can Use Chrome and Firefox Extensions at the Same Time](https://lifehacker.com/this-browser-can-use-chrome-and-firefox-extensions-at-t-1849038809)
 - [Lifehacker] [How to Get the Best Exchange Rate Before Traveling Abroad](https://lifehacker.com/how-to-get-the-best-exchange-rate-before-traveling-abro-1849035823)
 - [Lifehacker] [How to Host an Orgy](https://lifehacker.com/how-to-host-an-orgy-1849029735)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Dower Rights’ Still Exist?](https://lifehacker.com/dower-rights-still-exist-1849034668)
 - [Lifehacker] [You Thought &#39;Bugdom&#39; and &#39;Nanosaur&#39; Were Lost Forever](https://lifehacker.com/you-thought-bugdom-and-nanosaur-were-lost-forever-1849034468)
 - [Lifehacker] [What Color Should You Paint Your Garage Door?](https://lifehacker.com/what-color-should-you-paint-your-garage-door-1849034637)
-- [Lifehacker] [This Sweet and Salty Beet Dip Is a Breeze to Make](https://lifehacker.com/this-sweet-and-salty-beet-dip-is-a-breeze-to-make-1849034941)
-- [Lifehacker] [How to Go Gray As Gracefully As Possible](https://lifehacker.com/how-to-go-gray-as-gracefully-as-possible-1849034710)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
