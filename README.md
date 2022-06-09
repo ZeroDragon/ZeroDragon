@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sum 2 numbers, wrong answers only](https://dev.to/danielhansson/how-to-sum-2-numbers-wrong-answers-only-19m5)
+- [Dev.to/JS] [Introduction JavaScript](https://dev.to/ajidk16/introduction-javascript-1d0k)
+- [Dev.to/JS] [Your weapon 🔫.](https://dev.to/hik8hik/your-weapon--1k9d)
+- [Dev.to/JS] [Best AngularJS Frameworks for Web Development](https://dev.to/architprajapati/best-angularjs-frameworks-for-web-development-1hdn)
 - [Dev.to/JS] [How To Install Gnome Shell Extension System Monitor on Ubuntu 22.04](https://dev.to/linuxhintbd/how-to-install-gnome-shell-extension-system-monitor-on-ubuntu-2204-o88)
 - [Dev.to/JS] [[React] Passing State to a Sister Component](https://dev.to/trevortx/react-passing-state-to-a-sister-component-570d)
 - [Dev.to/JS] [How to debug errors in Javascript as a newbie](https://dev.to/dmarinere/how-to-debug-errors-in-javascript-as-a-newbie-nog)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The correct way to fetch data from API](https://dev.to/shashank1503cipher/the-correct-way-to-fetch-data-from-api-4l4b)
 - [Dev.to/JS] [Implement state in React using Redux Toolkit &lpar;easy way🔥&rpar;](https://dev.to/rahulyr/implement-state-in-react-using-redux-toolkit-easy-way-2eff)
 - [Dev.to/JS] [🤖 Just Listed Tech Opportunities - Week #24 of 2022](https://dev.to/shman/just-listed-tech-opportunities-week-24-of-2022-4ahk)
-- [Dev.to/JS] [TFUZ JS - A Tiny JavaScript Utility Library](https://dev.to/bretgeek/tfuz-js-a-tiny-javascript-utility-library-29c8)
-- [Dev.to/JS] [Sinatra-React Project Server-Side Cool Features](https://dev.to/bperez3237/sinatra-react-project-server-side-cool-features-216o)
-- [Dev.to/JS] [Frontend Madness: SPAs, MPAs, PWAs, Decoupled, Hybrid, Monolithic, Libraries, Frameworks! WTF for your PHP backend?](https://dev.to/reubenwalker64/frontend-madness-spas-mpas-pwas-decoupled-hybrid-monolithic-libraries-frameworks-wtf-for-your-php-backend-24mj)
-- [Dev.to/JS] [Firebase Cloud Storage for React apps](https://dev.to/asayerio_techblog/firebase-cloud-storage-for-react-apps-557h)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
