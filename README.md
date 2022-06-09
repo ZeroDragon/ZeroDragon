@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Mosquito Repelling Plants Are a Lie](https://lifehacker.com/mosquito-repelling-plants-are-a-lie-1849036607)
+- [Dev.to/JS] [Learning Reactjs](https://dev.to/aakas/learning-reactjs-ck9)
 - [Dev.to/JS] [Closures In JavaScript](https://dev.to/kaankorkmaz/closures-in-javascript-23p3)
 - [Lifehacker] [You Should Make Your Own &#39;Spotify Pie&#39; Chart](https://lifehacker.com/you-should-make-your-own-spotify-pie-chart-1849035508)
 - [Dev.to/JS] [Why isn&#39;t there Tinder for coding partners?](https://dev.to/james_palermo_bc208e463e4/why-isnt-there-tinder-for-coding-partners-4cp6)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a business card CLI tool](https://dev.to/whitep4nth3r/build-a-business-card-cli-tool-3c70)
 - [Dev.to/JS] [Content Management Systems for Gatsby](https://dev.to/asayerio_techblog/content-management-systems-for-gatsby-58i8)
 - [Dev.to/JS] [Difference Between Libraries and Frameworks A Reference Guide For 2022 Noobs](https://dev.to/sojinsamuel/difference-between-libraries-and-frameworks-a-reference-guide-for-2022-noobs-e0)
-- [Dev.to/JS] [Sum of All Odd Length Subarrays O&lpar;N&rpar; Leetcode #1588.](https://dev.to/rajeshroyal/sum-of-all-odd-length-subarrays-on-leetcode-1588-1f2c)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make Spam Fries in Your Air Fryer](https://lifehacker.com/make-spam-fries-in-your-air-fryer-1849029707)
 - [Lifehacker] [All the Hidden iOS 16 Features Worth Knowing About](https://lifehacker.com/all-the-hidden-ios-16-features-worth-knowing-about-1849028747)
 - [Lifehacker] [Real Estate Reality Shows Are Lying to You](https://lifehacker.com/real-estate-reality-shows-are-lying-to-you-1849028260)
-- [Lifehacker] [The Best Ways to Get Kids to Exercise When They Hate Team Sports](https://lifehacker.com/the-best-ways-to-get-kids-to-exercise-when-they-hate-te-1849029225)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
 ---
