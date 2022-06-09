@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to debug errors in Javascript as a newbie](https://dev.to/dmarinere/how-to-debug-errors-in-javascript-as-a-newbie-nog)
+- [Dev.to/JS] [Learning Javascript Promise Patterns](https://dev.to/altamashali/learning-javascript-promise-patterns-11ao)
+- [Dev.to/JS] [Part 2: Building a Decentralized Exchange with Solidity and React](https://dev.to/sleepytenor/part-2-building-a-decentralized-exchange-with-solidity-and-react-4g4p)
 - [Dev.to/JS] [The correct way to fetch data from API](https://dev.to/shashank1503cipher/the-correct-way-to-fetch-data-from-api-4l4b)
 - [Dev.to/JS] [Implement state in React using Redux Toolkit &lpar;easy way🔥&rpar;](https://dev.to/rahulyr/implement-state-in-react-using-redux-toolkit-easy-way-2eff)
 - [Dev.to/JS] [🤖 Just Listed Tech Opportunities - Week #24 of 2022](https://dev.to/shman/just-listed-tech-opportunities-week-24-of-2022-4ahk)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Firebase Cloud Storage for React apps](https://dev.to/asayerio_techblog/firebase-cloud-storage-for-react-apps-557h)
 - [Dev.to/JS] [How to Publish an NPM Package from a GitLab CI/CD Pipeline](https://dev.to/saikojosh/how-to-publish-an-npm-package-from-a-gitlab-cicd-pipeline-2p83)
 - [Dev.to/JS] [Introduction of React Context](https://dev.to/yohanesss/introduction-of-react-context-1b5g)
-- [Dev.to/JS] [How to get cool animations in your React projects](https://dev.to/dastasoft/how-to-get-cool-animations-in-your-react-projects-6bi)
-- [Dev.to/JS] [FIDO authentication through NPMJS](https://dev.to/ncb879/fido-authentication-through-npmjs-27cf)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
-- [Dev.to/JS] [esbuild - Desarrollo sin dolor.](https://dev.to/ushieru/esbuild-desarrollo-sin-dolor-5hmf)
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
 - [Lifehacker] [‘Dower Rights’ Still Exist?](https://lifehacker.com/dower-rights-still-exist-1849034668)
 - [Lifehacker] [You Thought &#39;Bugdom&#39; and &#39;Nanosaur&#39; Were Lost Forever](https://lifehacker.com/you-thought-bugdom-and-nanosaur-were-lost-forever-1849034468)
