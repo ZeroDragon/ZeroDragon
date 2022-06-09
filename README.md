@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use localStorage with React Hooks to Set and Get Items](https://dev.to/dantechnologics/how-to-use-localstorage-with-react-hooks-to-set-and-get-items-2436)
+- [Dev.to/JS] [Build a business card CLI tool](https://dev.to/whitep4nth3r/build-a-business-card-cli-tool-3c70)
+- [Dev.to/JS] [Content Management Systems for Gatsby](https://dev.to/asayerio_techblog/content-management-systems-for-gatsby-58i8)
+- [Dev.to/JS] [Difference Between Libraries and Frameworks A Reference Guide For 2022 Noobs](https://dev.to/sojinsamuel/difference-between-libraries-and-frameworks-a-reference-guide-for-2022-noobs-e0)
 - [Dev.to/JS] [Sum of All Odd Length Subarrays O&lpar;N&rpar; Leetcode #1588.](https://dev.to/rajeshroyal/sum-of-all-odd-length-subarrays-on-leetcode-1588-1f2c)
 - [Dev.to/JS] [Question,Help, React local Storage](https://dev.to/evansifyke/questionhelp-react-local-storage-6gi)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quickstart: How to build Blog App using React &amp; Altogic?](https://dev.to/altogic/quickstart-how-to-build-blog-app-using-react-altogic-5aic)
 - [Dev.to/JS] [Memomization? how and the why in Javascript.](https://dev.to/srbh/memomization-how-and-the-why-in-javascript-10k0)
 - [Dev.to/JS] [All you need to know about console.log&lpar;&rpar;](https://dev.to/eagle1309/all-you-need-to-know-about-consolelog-2idi)
-- [Dev.to/JS] [Sum 2 numbers, wrong answers only](https://dev.to/danielhansson/how-to-sum-2-numbers-wrong-answers-only-19m5)
-- [Dev.to/JS] [Introduction JavaScript](https://dev.to/ajidk16/introduction-javascript-1d0k)
-- [Dev.to/JS] [Your weapon 🔫.](https://dev.to/hik8hik/your-weapon--1k9d)
-- [Dev.to/JS] [Best AngularJS Frameworks for Web Development](https://dev.to/architprajapati/best-angularjs-frameworks-for-web-development-1hdn)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
