@@ -23,8 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sum of All Odd Length Subarrays O&lpar;N&rpar; Leetcode #1588.](https://dev.to/rajeshroyal/sum-of-all-odd-length-subarrays-on-leetcode-1588-1f2c)
 - [Dev.to/JS] [Question,Help, React local Storage](https://dev.to/evansifyke/questionhelp-react-local-storage-6gi)
-- [Crazy Programmer] [FusionGrid – Javascript Grid Library to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
+- [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Dev.to/JS] [Conway&#39;s Game of Life with Kaboom.js](https://dev.to/ritza/conways-game-of-life-with-kaboomjs-i60)
 - [Dev.to/JS] [I Created A Simple SMS Site Using MERN Stack](https://dev.to/ethand91/i-created-a-simple-sms-site-using-mern-stack-13io)
 - [Dev.to/JS] [Create your own Array methods - map&lpar;&rpar; and reduce&lpar;&rpar; in JavaScript.](https://dev.to/swastikyadav/create-your-own-array-methods-map-and-reduce-in-javascript-ifo)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction JavaScript](https://dev.to/ajidk16/introduction-javascript-1d0k)
 - [Dev.to/JS] [Your weapon 🔫.](https://dev.to/hik8hik/your-weapon--1k9d)
 - [Dev.to/JS] [Best AngularJS Frameworks for Web Development](https://dev.to/architprajapati/best-angularjs-frameworks-for-web-development-1hdn)
-- [Dev.to/JS] [How To Install Gnome Shell Extension System Monitor on Ubuntu 22.04](https://dev.to/linuxhintbd/how-to-install-gnome-shell-extension-system-monitor-on-ubuntu-2204-o88)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
