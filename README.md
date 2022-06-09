@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Install Gnome Shell Extension System Monitor on Ubuntu 22.04](https://dev.to/linuxhintbd/how-to-install-gnome-shell-extension-system-monitor-on-ubuntu-2204-o88)
+- [Dev.to/JS] [[React] Passing State to a Sister Component](https://dev.to/trevortx/react-passing-state-to-a-sister-component-570d)
 - [Dev.to/JS] [How to debug errors in Javascript as a newbie](https://dev.to/dmarinere/how-to-debug-errors-in-javascript-as-a-newbie-nog)
 - [Dev.to/JS] [Learning Javascript Promise Patterns](https://dev.to/altamashali/learning-javascript-promise-patterns-11ao)
 - [Dev.to/JS] [Part 2: Building a Decentralized Exchange with Solidity and React](https://dev.to/sleepytenor/part-2-building-a-decentralized-exchange-with-solidity-and-react-4g4p)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sinatra-React Project Server-Side Cool Features](https://dev.to/bperez3237/sinatra-react-project-server-side-cool-features-216o)
 - [Dev.to/JS] [Frontend Madness: SPAs, MPAs, PWAs, Decoupled, Hybrid, Monolithic, Libraries, Frameworks! WTF for your PHP backend?](https://dev.to/reubenwalker64/frontend-madness-spas-mpas-pwas-decoupled-hybrid-monolithic-libraries-frameworks-wtf-for-your-php-backend-24mj)
 - [Dev.to/JS] [Firebase Cloud Storage for React apps](https://dev.to/asayerio_techblog/firebase-cloud-storage-for-react-apps-557h)
-- [Dev.to/JS] [How to Publish an NPM Package from a GitLab CI/CD Pipeline](https://dev.to/saikojosh/how-to-publish-an-npm-package-from-a-gitlab-cicd-pipeline-2p83)
-- [Dev.to/JS] [Introduction of React Context](https://dev.to/yohanesss/introduction-of-react-context-1b5g)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
