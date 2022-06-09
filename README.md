@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The correct way to fetch data from API](https://dev.to/shashank1503cipher/the-correct-way-to-fetch-data-from-api-4l4b)
 - [Dev.to/JS] [Implement state in React using Redux Toolkit &lpar;easy way🔥&rpar;](https://dev.to/rahulyr/implement-state-in-react-using-redux-toolkit-easy-way-2eff)
 - [Dev.to/JS] [🤖 Just Listed Tech Opportunities - Week #24 of 2022](https://dev.to/shman/just-listed-tech-opportunities-week-24-of-2022-4ahk)
 - [Dev.to/JS] [TFUZ JS - A Tiny JavaScript Utility Library](https://dev.to/bretgeek/tfuz-js-a-tiny-javascript-utility-library-29c8)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
 - [Dev.to/JS] [esbuild - Desarrollo sin dolor.](https://dev.to/ushieru/esbuild-desarrollo-sin-dolor-5hmf)
-- [Dev.to/JS] [The latest 2022 standards and trends in web development](https://dev.to/marveluck/the-latest-2022-standards-and-trends-in-web-development-2h7i)
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
 - [Lifehacker] [‘Dower Rights’ Still Exist?](https://lifehacker.com/dower-rights-still-exist-1849034668)
 - [Lifehacker] [You Thought &#39;Bugdom&#39; and &#39;Nanosaur&#39; Were Lost Forever](https://lifehacker.com/you-thought-bugdom-and-nanosaur-were-lost-forever-1849034468)
