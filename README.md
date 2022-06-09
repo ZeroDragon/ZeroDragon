@@ -23,19 +23,21 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Closures In JavaScript](https://dev.to/kaankorkmaz/closures-in-javascript-23p3)
+- [Lifehacker] [You Should Make Your Own &#39;Spotify Pie&#39; Chart](https://lifehacker.com/you-should-make-your-own-spotify-pie-chart-1849035508)
+- [Dev.to/JS] [Why isn&#39;t there Tinder for coding partners?](https://dev.to/james_palermo_bc208e463e4/why-isnt-there-tinder-for-coding-partners-4cp6)
+- [Dev.to/JS] [How I Created an Ecommerce App from Scratch Using React Native and Medusa](https://dev.to/medusajs/how-i-created-an-ecommerce-app-from-scratch-using-react-native-and-medusa-56ej)
+- [Dev.to/JS] [How I Built My Own Insomnia Plugin](https://dev.to/thawkin3/how-i-built-my-own-insomnia-plugin-4o8e)
+- [Dev.to/JS] [Convert your website into an android app using capacitor 😱.](https://dev.to/narottam04/convert-your-website-into-an-android-app-using-capacitor--5bh2)
+- [Lifehacker] [15 Unbreakable Rules of Driving Etiquette, According to Lifehacker Readers](https://lifehacker.com/15-unbreakable-rules-of-driving-etiquette-according-to-1849036345)
+- [Dev.to/JS] [MEVN stack tutorial | Build a CRUD app using Vue 3, Node, Express &amp; MongoDB](https://dev.to/signoz/mevn-stack-tutorial-build-a-crud-app-using-vue-3-node-express-mongodb-bmp)
+- [Dev.to/JS] [Code Smell 139 - Business Code in the User Interface](https://dev.to/mcsee/code-smell-139-business-code-in-the-user-interface-1i4o)
 - [Dev.to/JS] [How to Use localStorage with React Hooks to Set and Get Items](https://dev.to/dantechnologics/how-to-use-localstorage-with-react-hooks-to-set-and-get-items-2436)
 - [Dev.to/JS] [Build a business card CLI tool](https://dev.to/whitep4nth3r/build-a-business-card-cli-tool-3c70)
 - [Dev.to/JS] [Content Management Systems for Gatsby](https://dev.to/asayerio_techblog/content-management-systems-for-gatsby-58i8)
 - [Dev.to/JS] [Difference Between Libraries and Frameworks A Reference Guide For 2022 Noobs](https://dev.to/sojinsamuel/difference-between-libraries-and-frameworks-a-reference-guide-for-2022-noobs-e0)
 - [Dev.to/JS] [Sum of All Odd Length Subarrays O&lpar;N&rpar; Leetcode #1588.](https://dev.to/rajeshroyal/sum-of-all-odd-length-subarrays-on-leetcode-1588-1f2c)
-- [Dev.to/JS] [Question,Help, React local Storage](https://dev.to/evansifyke/questionhelp-react-local-storage-6gi)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
-- [Dev.to/JS] [Conway&#39;s Game of Life with Kaboom.js](https://dev.to/ritza/conways-game-of-life-with-kaboomjs-i60)
-- [Dev.to/JS] [I Created A Simple SMS Site Using MERN Stack](https://dev.to/ethand91/i-created-a-simple-sms-site-using-mern-stack-13io)
-- [Dev.to/JS] [Create your own Array methods - map&lpar;&rpar; and reduce&lpar;&rpar; in JavaScript.](https://dev.to/swastikyadav/create-your-own-array-methods-map-and-reduce-in-javascript-ifo)
-- [Dev.to/JS] [Quickstart: How to build Blog App using React &amp; Altogic?](https://dev.to/altogic/quickstart-how-to-build-blog-app-using-react-altogic-5aic)
-- [Dev.to/JS] [Memomization? how and the why in Javascript.](https://dev.to/srbh/memomization-how-and-the-why-in-javascript-10k0)
-- [Dev.to/JS] [All you need to know about console.log&lpar;&rpar;](https://dev.to/eagle1309/all-you-need-to-know-about-consolelog-2idi)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Hidden iOS 16 Features Worth Knowing About](https://lifehacker.com/all-the-hidden-ios-16-features-worth-knowing-about-1849028747)
 - [Lifehacker] [Real Estate Reality Shows Are Lying to You](https://lifehacker.com/real-estate-reality-shows-are-lying-to-you-1849028260)
 - [Lifehacker] [The Best Ways to Get Kids to Exercise When They Hate Team Sports](https://lifehacker.com/the-best-ways-to-get-kids-to-exercise-when-they-hate-te-1849029225)
-- [Lifehacker] [All the Ways You Could Be Saving Money on Your Energy Bill, but Probably Aren&#39;t](https://lifehacker.com/all-the-ways-you-could-be-saving-money-on-your-energy-b-1849028593)
-- [Lifehacker] [Is It Actually Bad to Leave Sunscreen on Overnight?](https://lifehacker.com/is-it-actually-bad-to-leave-sunscreen-on-overnight-1849028522)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
 ---
