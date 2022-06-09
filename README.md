@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.test.js💊| #1: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-1-testea-este-codigo-javascript-57d4)
+- [Dev.to/JS] [Construye en Flow: Aprende FCL - 4. Como resolver identidades en .find a direcciones en Flow](https://dev.to/onflow/construye-en-flow-aprende-fcl-4-como-resolver-identidades-en-find-a-direcciones-en-flow-26nm)
+- [Dev.to/JS] [Cookies in Javascript](https://dev.to/masterifeanyi/cookies-in-javascript-18dj)
+- [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Dev.to/JS] [Building Community Resource Web-Apps with Google Maps API](https://dev.to/holistictechnologist/building-community-resource-web-apps-with-google-maps-api-1plj)
 - [Dev.to/JS] [Paracetalmol.test.js, retos de testing con Jest en Javascript 💊](https://dev.to/duxtech/paracetalmoltestjs-retos-de-testing-con-jest-en-javascript-53dk)
 - [Dev.to/JS] [Construye en Flow: Aprende FCL - 3. Como retornar valores arbitrarios desde un script](https://dev.to/onflow/construye-en-flow-aprende-fcl-3-como-retornar-valores-arbitrarios-desde-un-script-2oa6)
@@ -38,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Common Beginner Sorting Algorithms in JavaScript](https://dev.to/hannahglazier/common-beginner-sorting-algorithms-in-javascript-4mid)
 - [Lifehacker] [Make the Pervert&#39;s Magic Shell With Chocolate and Duck Fat](https://lifehacker.com/make-the-perverts-magic-shell-with-chocolate-and-duck-f-1849041657)
 - [Lifehacker] [Why You Should Schedule Your Stress](https://lifehacker.com/why-you-should-schedule-your-stress-1849040319)
-- [Dev.to/JS] [Paracetamol.js💊| #137: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-137-explica-este-codigo-javascript-2k01)
 - [Lifehacker] [How Long Does Liquor Really Last After You Open the Bottle?](https://lifehacker.com/how-long-does-liquor-really-last-after-you-open-the-bot-1849040293)
-- [Dev.to/JS] [Answering micro frontends criticisms | Environmental Differences](https://dev.to/richkurtzman/answering-micro-frontends-criticisms-environmental-differences-2ale)
 - [Lifehacker] [You Should Make Broccoli Salad, but With Asparagus](https://lifehacker.com/you-should-make-broccoli-salad-but-with-asparagus-1849036832)
-- [Dev.to/JS] [Day 4 : What is memoization in javascript ?](https://dev.to/leo1612d/day-4-what-is-memoization-in-javascript--2ie3)
 - [Lifehacker] [Why Everyone Should Have a Night Light &lpar;and How to Choose the Best One&rpar;](https://lifehacker.com/why-everyone-should-have-a-night-light-and-how-to-choo-1849039622)
 - [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
 - [Lifehacker] [This Browser Can Use Chrome and Firefox Extensions at the Same Time](https://lifehacker.com/this-browser-can-use-chrome-and-firefox-extensions-at-t-1849038809)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
 - [Lifehacker] [‘Dower Rights’ Still Exist?](https://lifehacker.com/dower-rights-still-exist-1849034668)
 - [Lifehacker] [You Thought &#39;Bugdom&#39; and &#39;Nanosaur&#39; Were Lost Forever](https://lifehacker.com/you-thought-bugdom-and-nanosaur-were-lost-forever-1849034468)
-- [Lifehacker] [What Color Should You Paint Your Garage Door?](https://lifehacker.com/what-color-should-you-paint-your-garage-door-1849034637)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
