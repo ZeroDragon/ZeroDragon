@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React-Scripts from an empty directory](https://dev.to/srele96/react-scripts-from-an-empty-directory-4ek2)
+- [Dev.to/JS] [creando una base de datos de películas con la API de OMDB y REACT](https://dev.to/rtagliavia/creando-una-base-de-datos-de-peliculas-con-la-api-de-omdb-y-react-of4)
+- [Lifehacker] [Does Balsamic Vinegar and Sparkling Water Really Taste Like Coke?](https://lifehacker.com/does-balsamic-vinegar-and-sparkling-water-really-taste-1849041883)
+- [Dev.to/JS] [Tech Explained - a low-level primer on frontend technology](https://dev.to/allbitsequal/tech-explained-a-low-level-primer-on-frontend-technology-2fd1)
 - [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
 - [Dev.to/JS] [Working With Remix Router In A Vue Application with Ionic Framework UI Components](https://dev.to/aaronksaunders/working-with-remix-router-in-a-vue-application-with-ionic-framework-ui-components-1o5m)
 - [Dev.to/JS] [Common Beginner Sorting Algorithms in JavaScript](https://dev.to/hannahglazier/common-beginner-sorting-algorithms-in-javascript-4mid)
@@ -41,12 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nx 14.2 - Angular v14, Storybook update, lightweight Nx and more!](https://dev.to/nx/nx-142-angular-v14-storybook-update-lightweight-nx-and-more-c5p)
 - [Lifehacker] [This Browser Can Use Chrome and Firefox Extensions at the Same Time](https://lifehacker.com/this-browser-can-use-chrome-and-firefox-extensions-at-t-1849038809)
 - [Lifehacker] [How to Get the Best Exchange Rate Before Traveling Abroad](https://lifehacker.com/how-to-get-the-best-exchange-rate-before-traveling-abro-1849035823)
-- [Dev.to/JS] [Top JavaScript Spreadsheet Components for Data Management Apps](https://dev.to/plazarev/top-javascript-spreadsheet-components-for-data-management-apps-2ek0)
 - [Lifehacker] [How to Host an Orgy](https://lifehacker.com/how-to-host-an-orgy-1849029735)
-- [Dev.to/JS] [From building to selling - EP.15](https://dev.to/twankrui/from-building-to-selling-ep15-1cg2)
 - [Lifehacker] [The Best Way to Save Your Kid&#39;s Artwork Without Taking Up Space](https://lifehacker.com/the-best-way-to-save-your-kids-artwork-without-taking-u-1849036306)
 - [Lifehacker] [How to Share Your .MOV iPhone Videos as MP4s &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-share-your-mov-iphone-videos-as-mp4s-and-why-y-1849038670)
-- [Dev.to/JS] [How to use variables in CSS with v-bind in VueJs 3](https://dev.to/zelig880/how-to-use-variables-in-css-with-v-bind-in-vuejs-3-802)
 - [Lifehacker] [11 Things That Lose Value As Soon As You Buy Them](https://lifehacker.com/11-things-that-lose-value-as-soon-as-you-buy-them-1849036728)
 - [Lifehacker] [Mosquito Repelling Plants Are a Lie](https://lifehacker.com/mosquito-repelling-plants-are-a-lie-1849036607)
 - [Lifehacker] [You Should Make Your Own &#39;Spotify Pie&#39; Chart](https://lifehacker.com/you-should-make-your-own-spotify-pie-chart-1849035508)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Color Should You Paint Your Garage Door?](https://lifehacker.com/what-color-should-you-paint-your-garage-door-1849034637)
 - [Lifehacker] [This Sweet and Salty Beet Dip Is a Breeze to Make](https://lifehacker.com/this-sweet-and-salty-beet-dip-is-a-breeze-to-make-1849034941)
 - [Lifehacker] [How to Go Gray As Gracefully As Possible](https://lifehacker.com/how-to-go-gray-as-gracefully-as-possible-1849034710)
-- [Lifehacker] [When to See a Bunch of Planets Line Up in the Sky This Month](https://lifehacker.com/when-to-see-a-bunch-of-planets-line-up-in-the-sky-this-1849034247)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
