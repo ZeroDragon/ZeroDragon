@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
+- [Dev.to/JS] [Updates from the 90th TC39 meeting](https://dev.to/hemanth/updates-from-the-90th-tc39-meeting-1789)
+- [Dev.to/JS] [Common Searching Algorithms in JavaScript](https://dev.to/hannahglazier/common-searching-algorithms-in-javascript-207e)
+- [Dev.to/JS] [Nx 14.2 - Angular v14, Storybook update, lightweight Nx and more!](https://dev.to/nx/nx-142-angular-v14-storybook-update-lightweight-nx-and-more-c5p)
+- [Lifehacker] [This Browser Can Use Chrome and Firefox Extensions at the Same Time](https://lifehacker.com/this-browser-can-use-chrome-and-firefox-extensions-at-t-1849038809)
+- [Lifehacker] [How to Get the Best Exchange Rate Before Traveling Abroad](https://lifehacker.com/how-to-get-the-best-exchange-rate-before-traveling-abro-1849035823)
 - [Dev.to/JS] [Top JavaScript Spreadsheet Components for Data Management Apps](https://dev.to/plazarev/top-javascript-spreadsheet-components-for-data-management-apps-2ek0)
 - [Lifehacker] [How to Host an Orgy](https://lifehacker.com/how-to-host-an-orgy-1849029735)
 - [Dev.to/JS] [From building to selling - EP.15](https://dev.to/twankrui/from-building-to-selling-ep15-1cg2)
@@ -38,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Closures In JavaScript](https://dev.to/kaankorkmaz/closures-in-javascript-23p3)
 - [Lifehacker] [You Should Make Your Own &#39;Spotify Pie&#39; Chart](https://lifehacker.com/you-should-make-your-own-spotify-pie-chart-1849035508)
 - [Dev.to/JS] [Why isn&#39;t there Tinder for coding partners?](https://dev.to/james_palermo_bc208e463e4/why-isnt-there-tinder-for-coding-partners-4cp6)
-- [Dev.to/JS] [How I Created an Ecommerce App from Scratch Using React Native and Medusa](https://dev.to/medusajs/how-i-created-an-ecommerce-app-from-scratch-using-react-native-and-medusa-56ej)
-- [Dev.to/JS] [How I Built My Own Insomnia Plugin](https://dev.to/thawkin3/how-i-built-my-own-insomnia-plugin-4o8e)
-- [Dev.to/JS] [Convert your website into an android app using capacitor 😱.](https://dev.to/narottam04/convert-your-website-into-an-android-app-using-capacitor--5bh2)
 - [Lifehacker] [15 Unbreakable Rules of Driving Etiquette, According to Lifehacker Readers](https://lifehacker.com/15-unbreakable-rules-of-driving-etiquette-according-to-1849036345)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
@@ -59,9 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Lifehacker] [How to Avoid The Worst of This Summer&#39;s Travel Hell](https://lifehacker.com/how-to-avoid-the-worst-of-this-summers-travel-hell-1849031575)
 - [Lifehacker] [Do You Have a &#39;Body Checking&#39; Problem?](https://lifehacker.com/do-you-have-a-body-checking-problem-1849030433)
-- [Lifehacker] [Chocolate Is a Chip Dip](https://lifehacker.com/chocolate-is-a-chip-dip-1849031459)
-- [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
-- [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
 ---
