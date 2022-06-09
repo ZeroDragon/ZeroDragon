@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [TFUZ JS - A Tiny JavaScript Utility Library](https://dev.to/bretgeek/tfuz-js-a-tiny-javascript-utility-library-29c8)
+- [Dev.to/JS] [Sinatra-React Project Server-Side Cool Features](https://dev.to/bperez3237/sinatra-react-project-server-side-cool-features-216o)
 - [Dev.to/JS] [Frontend Madness: SPAs, MPAs, PWAs, Decoupled, Hybrid, Monolithic, Libraries, Frameworks! WTF for your PHP backend?](https://dev.to/reubenwalker64/frontend-madness-spas-mpas-pwas-decoupled-hybrid-monolithic-libraries-frameworks-wtf-for-your-php-backend-24mj)
 - [Dev.to/JS] [Firebase Cloud Storage for React apps](https://dev.to/asayerio_techblog/firebase-cloud-storage-for-react-apps-557h)
 - [Dev.to/JS] [How to Publish an NPM Package from a GitLab CI/CD Pipeline](https://dev.to/saikojosh/how-to-publish-an-npm-package-from-a-gitlab-cicd-pipeline-2p83)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Case Study - Lana Cookie Notice WordPress Plugin](https://dev.to/lanacodes/case-study-lana-cookie-notice-wordpress-plugin-8jl)
 - [Lifehacker] [‘Dower Rights’ Still Exist?](https://lifehacker.com/dower-rights-still-exist-1849034668)
 - [Dev.to/JS] [Handel repeatedly triggered events with Javascript](https://dev.to/premjeet/handel-repeatedly-triggered-events-with-javascript-1jj2)
-- [Dev.to/JS] [Controlled components vs Uncontrolled components](https://dev.to/t007rushi/what-are-react-controlled-components-and-uncontrolled-components-2hhl)
-- [Dev.to/JS] [JS Refactoring Combo: Introduce Object Destructuring](https://dev.to/p42/js-refactoring-combo-introduce-object-destructuring-5c0o)
 - [Lifehacker] [You Thought &#39;Bugdom&#39; and &#39;Nanosaur&#39; Were Lost Forever](https://lifehacker.com/you-thought-bugdom-and-nanosaur-were-lost-forever-1849034468)
 - [Lifehacker] [What Color Should You Paint Your Garage Door?](https://lifehacker.com/what-color-should-you-paint-your-garage-door-1849034637)
 - [Lifehacker] [This Sweet and Salty Beet Dip Is a Breeze to Make](https://lifehacker.com/this-sweet-and-salty-beet-dip-is-a-breeze-to-make-1849034941)
