@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
+- [Dev.to/JS] [Working With Remix Router In A Vue Application with Ionic Framework UI Components](https://dev.to/aaronksaunders/working-with-remix-router-in-a-vue-application-with-ionic-framework-ui-components-1o5m)
+- [Dev.to/JS] [Common Beginner Sorting Algorithms in JavaScript](https://dev.to/hannahglazier/common-beginner-sorting-algorithms-in-javascript-4mid)
+- [Lifehacker] [Make the Pervert&#39;s Magic Shell With Chocolate and Duck Fat](https://lifehacker.com/make-the-perverts-magic-shell-with-chocolate-and-duck-f-1849041657)
+- [Lifehacker] [Why You Should Schedule Your Stress](https://lifehacker.com/why-you-should-schedule-your-stress-1849040319)
 - [Dev.to/JS] [Paracetamol.js💊| #137: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-137-explica-este-codigo-javascript-2k01)
 - [Lifehacker] [How Long Does Liquor Really Last After You Open the Bottle?](https://lifehacker.com/how-long-does-liquor-really-last-after-you-open-the-bot-1849040293)
 - [Dev.to/JS] [Answering micro frontends criticisms | Environmental Differences](https://dev.to/richkurtzman/answering-micro-frontends-criticisms-environmental-differences-2ale)
@@ -42,8 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Save Your Kid&#39;s Artwork Without Taking Up Space](https://lifehacker.com/the-best-way-to-save-your-kids-artwork-without-taking-u-1849036306)
 - [Lifehacker] [How to Share Your .MOV iPhone Videos as MP4s &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-share-your-mov-iphone-videos-as-mp4s-and-why-y-1849038670)
 - [Dev.to/JS] [How to use variables in CSS with v-bind in VueJs 3](https://dev.to/zelig880/how-to-use-variables-in-css-with-v-bind-in-vuejs-3-802)
-- [Dev.to/JS] [Pass Functions as Arguments in JavaScript?](https://dev.to/hermitex/pass-functions-as-arguments-in-javascript-1c5b)
-- [Dev.to/JS] [Imagine Dat Podcast: 99 Bottles of OOP: Chapters 3 and 4 Chat](https://dev.to/imagine_dat_dyt/imagine-dat-podcast-99-bottles-of-oop-chapters-3-and-4-chat-3goo)
 - [Lifehacker] [11 Things That Lose Value As Soon As You Buy Them](https://lifehacker.com/11-things-that-lose-value-as-soon-as-you-buy-them-1849036728)
 - [Lifehacker] [Mosquito Repelling Plants Are a Lie](https://lifehacker.com/mosquito-repelling-plants-are-a-lie-1849036607)
 - [Lifehacker] [You Should Make Your Own &#39;Spotify Pie&#39; Chart](https://lifehacker.com/you-should-make-your-own-spotify-pie-chart-1849035508)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Sweet and Salty Beet Dip Is a Breeze to Make](https://lifehacker.com/this-sweet-and-salty-beet-dip-is-a-breeze-to-make-1849034941)
 - [Lifehacker] [How to Go Gray As Gracefully As Possible](https://lifehacker.com/how-to-go-gray-as-gracefully-as-possible-1849034710)
 - [Lifehacker] [When to See a Bunch of Planets Line Up in the Sky This Month](https://lifehacker.com/when-to-see-a-bunch-of-planets-line-up-in-the-sky-this-1849034247)
-- [Lifehacker] [Why You Shouldn’t Dump Your Family Goldfish Into a Pond](https://lifehacker.com/why-you-shouldn-t-dump-your-family-goldfish-into-a-pond-1849034215)
-- [Lifehacker] [Why You Shouldn’t Install Apple’s Betas Without a Developer Account &lpar;Yet&rpar;](https://lifehacker.com/why-you-shouldn-t-install-apple-s-betas-without-a-devel-1849032993)
-- [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1849033297)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
