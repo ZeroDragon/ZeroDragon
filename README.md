@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top JavaScript Spreadsheet Components for Data Management Apps](https://dev.to/plazarev/top-javascript-spreadsheet-components-for-data-management-apps-2ek0)
+- [Lifehacker] [How to Host an Orgy](https://lifehacker.com/how-to-host-an-orgy-1849029735)
+- [Dev.to/JS] [From building to selling - EP.15](https://dev.to/twankrui/from-building-to-selling-ep15-1cg2)
 - [Lifehacker] [The Best Way to Save Your Kid&#39;s Artwork Without Taking Up Space](https://lifehacker.com/the-best-way-to-save-your-kids-artwork-without-taking-u-1849036306)
 - [Lifehacker] [How to Share Your .MOV iPhone Videos as MP4s &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-share-your-mov-iphone-videos-as-mp4s-and-why-y-1849038670)
 - [Dev.to/JS] [How to use variables in CSS with v-bind in VueJs 3](https://dev.to/zelig880/how-to-use-variables-in-css-with-v-bind-in-vuejs-3-802)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I Built My Own Insomnia Plugin](https://dev.to/thawkin3/how-i-built-my-own-insomnia-plugin-4o8e)
 - [Dev.to/JS] [Convert your website into an android app using capacitor 😱.](https://dev.to/narottam04/convert-your-website-into-an-android-app-using-capacitor--5bh2)
 - [Lifehacker] [15 Unbreakable Rules of Driving Etiquette, According to Lifehacker Readers](https://lifehacker.com/15-unbreakable-rules-of-driving-etiquette-according-to-1849036345)
-- [Dev.to/JS] [MEVN stack tutorial | Build a CRUD app using Vue 3, Node, Express &amp; MongoDB](https://dev.to/signoz/mevn-stack-tutorial-build-a-crud-app-using-vue-3-node-express-mongodb-bmp)
-- [Dev.to/JS] [Code Smell 139 - Business Code in the User Interface](https://dev.to/mcsee/code-smell-139-business-code-in-the-user-interface-1i4o)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Chocolate Is a Chip Dip](https://lifehacker.com/chocolate-is-a-chip-dip-1849031459)
 - [Lifehacker] [Use These 1930s Acronyms to Sext Like a WWII Soldier](https://lifehacker.com/use-these-1930s-acronyms-to-sext-like-a-wwii-soldier-1849029538)
 - [Lifehacker] [Five Ways to Make Flying Coach Better](https://lifehacker.com/five-ways-to-make-flying-coach-better-1849030411)
-- [Lifehacker] [Don’t Make These Food Safety Mistakes at Your Summer Barbecue](https://lifehacker.com/don-t-make-these-food-safety-mistakes-at-your-summer-ba-1849030244)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
 ---
