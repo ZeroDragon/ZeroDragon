@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Make Broccoli Salad, but With Asparagus](https://lifehacker.com/you-should-make-broccoli-salad-but-with-asparagus-1849036832)
+- [Dev.to/JS] [Day 4 : What is memoization in javascript ?](https://dev.to/leo1612d/day-4-what-is-memoization-in-javascript--2ie3)
+- [Lifehacker] [Why Everyone Should Have a Night Light &lpar;and How to Choose the Best One&rpar;](https://lifehacker.com/why-everyone-should-have-a-night-light-and-how-to-choo-1849039622)
+- [Dev.to/JS] [Using a react widget/micro-frontend in Angular app](https://dev.to/anwaradil/using-a-react-widgetmicro-frontend-in-angular-app-3afj)
 - [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
 - [Dev.to/JS] [Updates from the 90th TC39 meeting](https://dev.to/hemanth/updates-from-the-90th-tc39-meeting-1789)
 - [Dev.to/JS] [Common Searching Algorithms in JavaScript](https://dev.to/hannahglazier/common-searching-algorithms-in-javascript-207e)
@@ -41,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Things That Lose Value As Soon As You Buy Them](https://lifehacker.com/11-things-that-lose-value-as-soon-as-you-buy-them-1849036728)
 - [Lifehacker] [Mosquito Repelling Plants Are a Lie](https://lifehacker.com/mosquito-repelling-plants-are-a-lie-1849036607)
 - [Dev.to/JS] [Learning Reactjs](https://dev.to/aakas/learning-reactjs-ck9)
-- [Dev.to/JS] [Closures In JavaScript](https://dev.to/kaankorkmaz/closures-in-javascript-23p3)
 - [Lifehacker] [You Should Make Your Own &#39;Spotify Pie&#39; Chart](https://lifehacker.com/you-should-make-your-own-spotify-pie-chart-1849035508)
-- [Dev.to/JS] [Why isn&#39;t there Tinder for coding partners?](https://dev.to/james_palermo_bc208e463e4/why-isnt-there-tinder-for-coding-partners-4cp6)
 - [Lifehacker] [15 Unbreakable Rules of Driving Etiquette, According to Lifehacker Readers](https://lifehacker.com/15-unbreakable-rules-of-driving-etiquette-according-to-1849036345)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Apple Devices Won’t Get Software Updates Anymore](https://lifehacker.com/these-apple-devices-won-t-get-software-updates-anymore-1849033297)
 - [Lifehacker] [When Is It Illegal to Lie?](https://lifehacker.com/when-is-it-illegal-to-lie-1849032446)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
-- [Lifehacker] [How to Avoid The Worst of This Summer&#39;s Travel Hell](https://lifehacker.com/how-to-avoid-the-worst-of-this-summers-travel-hell-1849031575)
-- [Lifehacker] [Do You Have a &#39;Body Checking&#39; Problem?](https://lifehacker.com/do-you-have-a-body-checking-problem-1849030433)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
 ---
