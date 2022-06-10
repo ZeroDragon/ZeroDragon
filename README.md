@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React beautiful animation reordering the list of items](https://dev.to/toantd90/react-beautiful-animation-reordering-the-list-of-items-1mbp)
 - [Dev.to/JS] [The experience of creating my own JavaScript runtime - #1](https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-1-4h9j)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stuff Marshmallows With Chocolate Chips for Easier S&#39;mores](https://lifehacker.com/stuff-marshmallows-with-chocolate-chips-for-easier-smor-1849046162)
 - [Lifehacker] [How to Try Windows 11&#39;s New File Explorer Tabs Before It Comes Out](https://lifehacker.com/how-to-try-windows-11s-new-file-explorer-tabs-before-it-1849045449)
 - [Dev.to/JS] [How to Use React Hooks in Your Datagrid &amp; Chart Web Applications](https://dev.to/grapecity/how-to-use-react-hooks-in-your-datagrid-chart-web-applications-3dfd)
-- [Dev.to/JS] [Build a Group Video Call System using PHP,Javascript + WebRTC Day 0](https://dev.to/benpobi/build-a-group-video-call-system-using-phpjavascript-webrtc-day-0-5k4)
 - [Lifehacker] [What&#39;s So Special About White Whiskey?](https://lifehacker.com/whats-so-special-about-white-whiskey-1849044936)
 - [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
 - [Lifehacker] [How to React to Road Rage When Your Kids Are in the Car](https://lifehacker.com/how-to-react-to-road-rage-when-your-kids-are-in-the-car-1849042942)
