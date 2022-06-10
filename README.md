@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create country dropdown in Sanity Studio](https://dev.to/parthpatel108/create-country-dropdown-in-sanity-studio-2nng)
+- [Dev.to/JS] [Prueba API DEV.to](https://dev.to/alinares98/prueba-api-devto-bpp)
 - [Dev.to/JS] [The missing WeatherKit REST API Docs](https://dev.to/allthecode/the-missing-weatherkit-rest-api-docs-1ci6)
 - [Dev.to/JS] [Quickstart: How to build Blog App using Vue &amp; Altogic?](https://dev.to/altogic/quickstart-how-to-build-blog-app-using-vue-altogic-1n0j)
 - [Dev.to/JS] [Are you a YARNer or a NPMer?](https://dev.to/charliesay/are-you-a-yarner-or-a-npmer-337j)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Trendiest Admin Template for React &amp; Chakra UI!](https://dev.to/fredy/trendiest-admin-template-for-react-now-discounted-447i)
 - [Dev.to/JS] [Mobile Recharge Software](https://dev.to/cyrustechnoedge/mobile-recharge-software-441j)
 - [Dev.to/JS] [One liner - remove html tags from a string](https://dev.to/suri66/one-liner-remove-html-tags-from-a-string-55e2)
-- [Dev.to/JS] [Top 7 Uses of JavaScript You Must Know](https://dev.to/codeavailcom/top-7-uses-of-javascript-you-must-know-d48)
-- [Dev.to/JS] [Execute cypress test cases in Jenkin Pipeline by Integrating mochawesome report](https://dev.to/kailashpathak7/execute-cypress-test-cases-in-jenkin-pipline-by-integrating-mochawesome-report-1go7)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
