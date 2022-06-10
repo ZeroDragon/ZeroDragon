@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Practical Use of Builder Pattern in Javascript](https://dev.to/yohanesss/practical-use-of-builder-pattern-in-javascript-4hg4)
+- [Dev.to/JS] [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://dev.to/wenura/nodejs-tutorial-for-beginners-learn-node-in-1-hour-40b)
+- [Lifehacker] [The Best Ways to Play Vintage Games on Your Modern TV](https://lifehacker.com/the-best-ways-to-play-vintage-games-on-your-modern-tv-1849021233)
+- [Dev.to/JS] [Top 7 Ways to Become A Better Coder](https://dev.to/mohitbilala/top-7-ways-to-become-a-better-coder-3akp)
+- [Dev.to/JS] [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://dev.to/wenura/javascript-tutorial-for-beginners-learn-javascript-in-1-hour-304m)
+- [Lifehacker] [Stuff Marshmallows With Chocolate Chips for Easier S&#39;mores](https://lifehacker.com/stuff-marshmallows-with-chocolate-chips-for-easier-smor-1849046162)
 - [Lifehacker] [How to Try Windows 11&#39;s New File Explorer Tabs Before It Comes Out](https://lifehacker.com/how-to-try-windows-11s-new-file-explorer-tabs-before-it-1849045449)
 - [Dev.to/JS] [How to Use React Hooks in Your Datagrid &amp; Chart Web Applications](https://dev.to/grapecity/how-to-use-react-hooks-in-your-datagrid-chart-web-applications-3dfd)
 - [Dev.to/JS] [Build a Group Video Call System using PHP,Javascript + WebRTC Day 0](https://dev.to/benpobi/build-a-group-video-call-system-using-phpjavascript-webrtc-day-0-5k4)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bad Request in nestjs, help me!](https://dev.to/alanaguiar01/bad-request-in-nestjs-help-me-1a0p)
 - [Dev.to/JS] [Getting started with Mongoose Querying](https://dev.to/beerenjian/getting-started-with-mongoose-querying-40jn)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who is Graggle Simpson?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-gr-1849043884)
-- [Dev.to/JS] [Resumão de JavaScript para iniciantes [PT-BR]](https://dev.to/llxd/resumao-de-javascript-para-iniciantes-pt-br-2235)
-- [Dev.to/JS] [React Hooks - Introdução](https://dev.to/iamdevmarcos/react-hooks-introducao-4gi5)
 - [Lifehacker] [You Need an &#39;If I Go Missing&#39; File](https://lifehacker.com/you-need-an-if-i-go-missing-file-1849040574)
 - [Lifehacker] [How to Write the Most Doable To-Do List](https://lifehacker.com/how-micro-to-do-lists-can-help-you-get-more-done-1849041268)
-- [Dev.to/JS] [Jest parametrized test that throws errors](https://dev.to/eomiso/jest-parametrized-test-that-throws-errors-3p7o)
-- [Dev.to/JS] [PNpm is much cooler than npm and yarn.](https://dev.to/suri66/pnpm-is-much-cooler-than-npm-and-yarn-59pn)
 - [Lifehacker] [All the Ways to Spend the Leftovers From Your Kid&#39;s 529 Savings](https://lifehacker.com/all-the-ways-to-spend-the-leftovers-from-your-kids-529-1849039176)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get the Best Exchange Rate Before Traveling Abroad](https://lifehacker.com/how-to-get-the-best-exchange-rate-before-traveling-abro-1849035823)
 - [Lifehacker] [How to Host an Orgy](https://lifehacker.com/how-to-host-an-orgy-1849029735)
 - [Lifehacker] [The Best Way to Save Your Kid&#39;s Artwork Without Taking Up Space](https://lifehacker.com/the-best-way-to-save-your-kids-artwork-without-taking-u-1849036306)
-- [Lifehacker] [How to Share Your .MOV iPhone Videos as MP4s &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-share-your-mov-iphone-videos-as-mp4s-and-why-y-1849038670)
-- [Lifehacker] [11 Things That Lose Value As Soon As You Buy Them](https://lifehacker.com/11-things-that-lose-value-as-soon-as-you-buy-them-1849036728)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
