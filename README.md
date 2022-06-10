@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Mobile Recharge Software](https://dev.to/cyrustechnoedge/mobile-recharge-software-441j)
+- [Dev.to/JS] [One liner - remove html tags from a string](https://dev.to/suri66/one-liner-remove-html-tags-from-a-string-55e2)
+- [Dev.to/JS] [Top 7 Uses of JavaScript You Must Know](https://dev.to/codeavailcom/top-7-uses-of-javascript-you-must-know-d48)
 - [Dev.to/JS] [Execute cypress test cases in Jenkin Pipeline by Integrating mochawesome report](https://dev.to/kailashpathak7/execute-cypress-test-cases-in-jenkin-pipline-by-integrating-mochawesome-report-1go7)
 - [Dev.to/JS] [iOS 上使用 getUserMedia&lpar;&rpar; 取用相機但畫面鎖死、黑屏](https://dev.to/codemee/ios-shang-shi-yong-getusermedia-qu-yong-xiang-ji-dan-hua-mian-suo-si-hei-ping-57fa)
 - [Dev.to/JS] [Foundations of Asynchronous programming](https://dev.to/vedanthb/foundations-of-asynchronous-programming-4flc)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Crate a simple React movie database app with The OMDB api](https://dev.to/rtagliavia/crate-a-simple-react-movie-database-app-with-the-omdb-api-16kd)
 - [Dev.to/JS] [Quando não utilizar o spread operator](https://dev.to/yanpiing/quando-nao-utilizar-o-spread-operator-3j33)
 - [Dev.to/JS] [You need to know about req and res objects to build an API in Node.js using Express.js](https://dev.to/luizcalaca/you-need-to-know-about-req-and-res-objects-to-build-an-api-in-nodejs-using-expressjs-4f3i)
-- [Dev.to/JS] [Decoding The React useState hook](https://dev.to/vedanthb/decoding-the-react-usestate-hook-2nf8)
-- [Dev.to/JS] [Gemint Product Updates](https://dev.to/gemint_cards/gemint-product-updates-1gc6)
-- [Dev.to/JS] [Paracetamol.test.js💊| #1: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-1-testea-este-codigo-javascript-57d4)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
