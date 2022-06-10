@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to mock function that called inside module](https://dev.to/edwinwong90/how-to-mock-function-that-called-inside-module-7f7)
+- [Dev.to/JS] [Trendiest Admin Template for React &amp; Chakra UI!](https://dev.to/fredy/trendiest-admin-template-for-react-now-discounted-447i)
 - [Dev.to/JS] [Mobile Recharge Software](https://dev.to/cyrustechnoedge/mobile-recharge-software-441j)
 - [Dev.to/JS] [One liner - remove html tags from a string](https://dev.to/suri66/one-liner-remove-html-tags-from-a-string-55e2)
 - [Dev.to/JS] [Top 7 Uses of JavaScript You Must Know](https://dev.to/codeavailcom/top-7-uses-of-javascript-you-must-know-d48)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [AudiPlayV2 Integration - Customizable HTML5 Audio Player with Template](https://dev.to/sh20raj/audiplayv2-integration-customizable-html5-audio-player-with-template-o54)
 - [Dev.to/JS] [Variables and scoping](https://dev.to/vedanthb/variables-and-scoping-2ige)
 - [Dev.to/JS] [Crate a simple React movie database app with The OMDB api](https://dev.to/rtagliavia/crate-a-simple-react-movie-database-app-with-the-omdb-api-16kd)
-- [Dev.to/JS] [Quando não utilizar o spread operator](https://dev.to/yanpiing/quando-nao-utilizar-o-spread-operator-3j33)
-- [Dev.to/JS] [You need to know about req and res objects to build an API in Node.js using Express.js](https://dev.to/luizcalaca/you-need-to-know-about-req-and-res-objects-to-build-an-api-in-nodejs-using-expressjs-4f3i)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
