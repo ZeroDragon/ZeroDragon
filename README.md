@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When Your Landlord Can Legally Enter Your Apartment &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-your-landlord-can-legally-enter-your-apartment-an-1849045944)
+- [Dev.to/JS] [Custom React Native WheelPicker with Reanimated](https://dev.to/igorves/custom-react-native-wheelpicker-with-reanimated-473c)
+- [Dev.to/JS] [Pagination in React](https://dev.to/shraddha1402/pagination-in-react-37lo)
+- [Lifehacker] [Five of the Best Dinosaur Movies and Documentaries Ever Made](https://lifehacker.com/five-of-the-best-dinosaur-movies-and-documentaries-ever-1849045596)
 - [Dev.to/JS] [Practical Use of Builder Pattern in Javascript](https://dev.to/yohanesss/practical-use-of-builder-pattern-in-javascript-4hg4)
 - [Dev.to/JS] [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://dev.to/wenura/nodejs-tutorial-for-beginners-learn-node-in-1-hour-40b)
 - [Lifehacker] [The Best Ways to Play Vintage Games on Your Modern TV](https://lifehacker.com/the-best-ways-to-play-vintage-games-on-your-modern-tv-1849021233)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
 - [Lifehacker] [How to React to Road Rage When Your Kids Are in the Car](https://lifehacker.com/how-to-react-to-road-rage-when-your-kids-are-in-the-car-1849042942)
 - [Dev.to/JS] [Paracetamol.js💊| #138: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-138-explica-este-codigo-javascript-3agm)
-- [Dev.to/JS] [Bad Request in nestjs, help me!](https://dev.to/alanaguiar01/bad-request-in-nestjs-help-me-1a0p)
-- [Dev.to/JS] [Getting started with Mongoose Querying](https://dev.to/beerenjian/getting-started-with-mongoose-querying-40jn)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who is Graggle Simpson?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-gr-1849043884)
 - [Lifehacker] [You Need an &#39;If I Go Missing&#39; File](https://lifehacker.com/you-need-an-if-i-go-missing-file-1849040574)
 - [Lifehacker] [How to Write the Most Doable To-Do List](https://lifehacker.com/how-micro-to-do-lists-can-help-you-get-more-done-1849041268)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
 - [Lifehacker] [This Browser Can Use Chrome and Firefox Extensions at the Same Time](https://lifehacker.com/this-browser-can-use-chrome-and-firefox-extensions-at-t-1849038809)
 - [Lifehacker] [How to Get the Best Exchange Rate Before Traveling Abroad](https://lifehacker.com/how-to-get-the-best-exchange-rate-before-traveling-abro-1849035823)
-- [Lifehacker] [How to Host an Orgy](https://lifehacker.com/how-to-host-an-orgy-1849029735)
-- [Lifehacker] [The Best Way to Save Your Kid&#39;s Artwork Without Taking Up Space](https://lifehacker.com/the-best-way-to-save-your-kids-artwork-without-taking-u-1849036306)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
