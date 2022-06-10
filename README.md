@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Decoding The React useState hook](https://dev.to/vedanthb/decoding-the-react-usestate-hook-2nf8)
+- [Dev.to/JS] [Gemint Product Updates](https://dev.to/gemint_cards/gemint-product-updates-1gc6)
 - [Dev.to/JS] [Paracetamol.test.js💊| #1: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-1-testea-este-codigo-javascript-57d4)
 - [Dev.to/JS] [Construye en Flow: Aprende FCL - 4. Como resolver identidades en .find a direcciones en Flow](https://dev.to/onflow/construye-en-flow-aprende-fcl-4-como-resolver-identidades-en-find-a-direcciones-en-flow-26nm)
 - [Dev.to/JS] [Cookies in Javascript](https://dev.to/masterifeanyi/cookies-in-javascript-18dj)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Does Balsamic Vinegar and Sparkling Water Really Taste Like Coke?](https://lifehacker.com/does-balsamic-vinegar-and-sparkling-water-really-taste-1849041883)
 - [Dev.to/JS] [Tech Explained - a low-level primer on frontend technology](https://dev.to/allbitsequal/tech-explained-a-low-level-primer-on-frontend-technology-2fd1)
 - [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
-- [Dev.to/JS] [Working With Remix Router In A Vue Application with Ionic Framework UI Components](https://dev.to/aaronksaunders/working-with-remix-router-in-a-vue-application-with-ionic-framework-ui-components-1o5m)
-- [Dev.to/JS] [Common Beginner Sorting Algorithms in JavaScript](https://dev.to/hannahglazier/common-beginner-sorting-algorithms-in-javascript-4mid)
 - [Lifehacker] [Make the Pervert&#39;s Magic Shell With Chocolate and Duck Fat](https://lifehacker.com/make-the-perverts-magic-shell-with-chocolate-and-duck-f-1849041657)
 - [Lifehacker] [Why You Should Schedule Your Stress](https://lifehacker.com/why-you-should-schedule-your-stress-1849040319)
 - [Lifehacker] [How Long Does Liquor Really Last After You Open the Bottle?](https://lifehacker.com/how-long-does-liquor-really-last-after-you-open-the-bot-1849040293)
