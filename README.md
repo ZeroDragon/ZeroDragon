@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
+- [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
+- [Dev.to/JS] [How to Make a Treemap in JavaScript](https://dev.to/andreykh1985/how-to-make-a-treemap-in-javascript-5bn6)
 - [Lifehacker] [How to Figure Out Where You First Heard That Damn Song](https://lifehacker.com/how-to-figure-out-where-you-first-heard-that-damn-song-1849046553)
 - [Lifehacker] [Can You Fight a Shark and Win?](https://lifehacker.com/can-you-fight-a-shark-and-win-1849045603)
 - [Dev.to/JS] [With Dynamic SQL Queries on TypeScript &amp; NodeJS](https://dev.to/ssibrahimbas/with-dynamic-sql-queries-on-typescript-nodejs-3o2o)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s So Special About White Whiskey?](https://lifehacker.com/whats-so-special-about-white-whiskey-1849044936)
 - [Dev.to/JS] [📝 Learn JavaScript the right way with this beginner&#39;s cheat sheet](https://dev.to/prajwal056/learn-javascript-the-right-way-with-this-beginners-cheat-sheet-3m85)
 - [Dev.to/JS] [How to Create a Slack Bot](https://dev.to/ekqt/how-to-create-a-slack-bot-3mk3)
-- [Dev.to/JS] [How to Copy object?](https://dev.to/ravikumar1002/how-to-copy-object-2hmf)
 - [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
 - [Lifehacker] [How to React to Road Rage When Your Kids Are in the Car](https://lifehacker.com/how-to-react-to-road-rage-when-your-kids-are-in-the-car-1849042942)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who is Graggle Simpson?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-gr-1849043884)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Schedule Your Stress](https://lifehacker.com/why-you-should-schedule-your-stress-1849040319)
 - [Lifehacker] [How Long Does Liquor Really Last After You Open the Bottle?](https://lifehacker.com/how-long-does-liquor-really-last-after-you-open-the-bot-1849040293)
 - [Lifehacker] [You Should Make Broccoli Salad, but With Asparagus](https://lifehacker.com/you-should-make-broccoli-salad-but-with-asparagus-1849036832)
-- [Lifehacker] [Why Everyone Should Have a Night Light &lpar;and How to Choose the Best One&rpar;](https://lifehacker.com/why-everyone-should-have-a-night-light-and-how-to-choo-1849039622)
-- [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
