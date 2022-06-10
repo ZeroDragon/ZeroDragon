@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Slack Bot](https://dev.to/ekqt/how-to-create-a-slack-bot-3mk3)
+- [Dev.to/JS] [How to Copy object?](https://dev.to/ravikumar1002/how-to-copy-object-2hmf)
+- [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
 - [Lifehacker] [How to React to Road Rage When Your Kids Are in the Car](https://lifehacker.com/how-to-react-to-road-rage-when-your-kids-are-in-the-car-1849042942)
 - [Dev.to/JS] [Paracetamol.js💊| #138: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-138-explica-este-codigo-javascript-3agm)
 - [Dev.to/JS] [Bad Request in nestjs, help me!](https://dev.to/alanaguiar01/bad-request-in-nestjs-help-me-1a0p)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create NFT Market Place without any libraries](https://dev.to/sananayab/create-nft-market-place-without-any-libraries-3hj9)
 - [Dev.to/JS] [Object-Oriented JavaScript: Objects and their property types](https://dev.to/vsvaibhav20161/object-oriented-javascript-objects-and-their-property-types-2i4b)
 - [Dev.to/JS] [Routing with React Router 6](https://dev.to/asayerio_techblog/routing-with-react-router-6-4l50)
-- [Dev.to/JS] [The way up is down](https://dev.to/roseokpe/the-way-up-is-down-kh1)
-- [Dev.to/JS] [Create country dropdown in Sanity Studio](https://dev.to/parthpatel108/create-country-dropdown-in-sanity-studio-2nng)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [11 Things That Lose Value As Soon As You Buy Them](https://lifehacker.com/11-things-that-lose-value-as-soon-as-you-buy-them-1849036728)
 - [Lifehacker] [Mosquito Repelling Plants Are a Lie](https://lifehacker.com/mosquito-repelling-plants-are-a-lie-1849036607)
 - [Lifehacker] [You Should Make Your Own &#39;Spotify Pie&#39; Chart](https://lifehacker.com/you-should-make-your-own-spotify-pie-chart-1849035508)
-- [Lifehacker] [15 Unbreakable Rules of Driving Etiquette, According to Lifehacker Readers](https://lifehacker.com/15-unbreakable-rules-of-driving-etiquette-according-to-1849036345)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
