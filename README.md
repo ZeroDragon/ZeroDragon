@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [iOS 上使用 getUserMedia&lpar;&rpar; 取用相機但畫面鎖死、黑屏](https://dev.to/codemee/ios-shang-shi-yong-getusermedia-qu-yong-xiang-ji-dan-hua-mian-suo-si-hei-ping-57fa)
 - [Dev.to/JS] [Foundations of Asynchronous programming](https://dev.to/vedanthb/foundations-of-asynchronous-programming-4flc)
 - [Dev.to/JS] [ES6 Handbook](https://dev.to/vedanthb/es6-handbook-12bd)
 - [Dev.to/JS] [AudiPlayV2 Integration - Customizable HTML5 Audio Player with Template](https://dev.to/sh20raj/audiplayv2-integration-customizable-html5-audio-player-with-template-o54)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gemint Product Updates](https://dev.to/gemint_cards/gemint-product-updates-1gc6)
 - [Dev.to/JS] [Paracetamol.test.js💊| #1: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-1-testea-este-codigo-javascript-57d4)
 - [Dev.to/JS] [Construye en Flow: Aprende FCL - 4. Como resolver identidades en .find a direcciones en Flow](https://dev.to/onflow/construye-en-flow-aprende-fcl-4-como-resolver-identidades-en-find-a-direcciones-en-flow-26nm)
-- [Dev.to/JS] [Cookies in Javascript](https://dev.to/masterifeanyi/cookies-in-javascript-18dj)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
