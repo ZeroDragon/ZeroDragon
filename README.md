@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Figure Out Where You First Heard That Damn Song](https://lifehacker.com/how-to-figure-out-where-you-first-heard-that-damn-song-1849046553)
+- [Lifehacker] [Can You Fight a Shark and Win?](https://lifehacker.com/can-you-fight-a-shark-and-win-1849045603)
+- [Dev.to/JS] [With Dynamic SQL Queries on TypeScript &amp; NodeJS](https://dev.to/ssibrahimbas/with-dynamic-sql-queries-on-typescript-nodejs-3o2o)
 - [Lifehacker] [When Your Landlord Can Legally Enter Your Apartment &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-your-landlord-can-legally-enter-your-apartment-an-1849045944)
 - [Dev.to/JS] [Custom React Native WheelPicker with Reanimated](https://dev.to/igorves/custom-react-native-wheelpicker-with-reanimated-473c)
 - [Dev.to/JS] [Pagination in React](https://dev.to/shraddha1402/pagination-in-react-37lo)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Copy object?](https://dev.to/ravikumar1002/how-to-copy-object-2hmf)
 - [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
 - [Lifehacker] [How to React to Road Rage When Your Kids Are in the Car](https://lifehacker.com/how-to-react-to-road-rage-when-your-kids-are-in-the-car-1849042942)
-- [Dev.to/JS] [Paracetamol.js💊| #138: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-138-explica-este-codigo-javascript-3agm)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who is Graggle Simpson?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-gr-1849043884)
 - [Lifehacker] [You Need an &#39;If I Go Missing&#39; File](https://lifehacker.com/you-need-an-if-i-go-missing-file-1849040574)
 - [Lifehacker] [How to Write the Most Doable To-Do List](https://lifehacker.com/how-micro-to-do-lists-can-help-you-get-more-done-1849041268)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Broccoli Salad, but With Asparagus](https://lifehacker.com/you-should-make-broccoli-salad-but-with-asparagus-1849036832)
 - [Lifehacker] [Why Everyone Should Have a Night Light &lpar;and How to Choose the Best One&rpar;](https://lifehacker.com/why-everyone-should-have-a-night-light-and-how-to-choo-1849039622)
 - [Lifehacker] [How to Identify Any Song Just by Singing It](https://lifehacker.com/how-to-identify-any-song-just-by-singing-it-1849039953)
-- [Lifehacker] [This Browser Can Use Chrome and Firefox Extensions at the Same Time](https://lifehacker.com/this-browser-can-use-chrome-and-firefox-extensions-at-t-1849038809)
-- [Lifehacker] [How to Get the Best Exchange Rate Before Traveling Abroad](https://lifehacker.com/how-to-get-the-best-exchange-rate-before-traveling-abro-1849035823)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
