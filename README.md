@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The experience of creating my own JavaScript runtime - #1](https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-1-4h9j)
+- [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
+- [Dev.to/JS] [Why to use Vue&#39;s v-on object syntax?](https://dev.to/migsarnavarro/why-to-use-vues-v-on-object-syntax-1991)
 - [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
 - [Dev.to/JS] [How to Make a Treemap in JavaScript](https://dev.to/andreykh1985/how-to-make-a-treemap-in-javascript-5bn6)
 - [Lifehacker] [How to Figure Out Where You First Heard That Damn Song](https://lifehacker.com/how-to-figure-out-where-you-first-heard-that-damn-song-1849046553)
@@ -43,8 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Use React Hooks in Your Datagrid &amp; Chart Web Applications](https://dev.to/grapecity/how-to-use-react-hooks-in-your-datagrid-chart-web-applications-3dfd)
 - [Dev.to/JS] [Build a Group Video Call System using PHP,Javascript + WebRTC Day 0](https://dev.to/benpobi/build-a-group-video-call-system-using-phpjavascript-webrtc-day-0-5k4)
 - [Lifehacker] [What&#39;s So Special About White Whiskey?](https://lifehacker.com/whats-so-special-about-white-whiskey-1849044936)
-- [Dev.to/JS] [📝 Learn JavaScript the right way with this beginner&#39;s cheat sheet](https://dev.to/prajwal056/learn-javascript-the-right-way-with-this-beginners-cheat-sheet-3m85)
-- [Dev.to/JS] [How to Create a Slack Bot](https://dev.to/ekqt/how-to-create-a-slack-bot-3mk3)
 - [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
 - [Lifehacker] [How to React to Road Rage When Your Kids Are in the Car](https://lifehacker.com/how-to-react-to-road-rage-when-your-kids-are-in-the-car-1849042942)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who is Graggle Simpson?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-gr-1849043884)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Make the Pervert&#39;s Magic Shell With Chocolate and Duck Fat](https://lifehacker.com/make-the-perverts-magic-shell-with-chocolate-and-duck-f-1849041657)
 - [Lifehacker] [Why You Should Schedule Your Stress](https://lifehacker.com/why-you-should-schedule-your-stress-1849040319)
 - [Lifehacker] [How Long Does Liquor Really Last After You Open the Bottle?](https://lifehacker.com/how-long-does-liquor-really-last-after-you-open-the-bot-1849040293)
-- [Lifehacker] [You Should Make Broccoli Salad, but With Asparagus](https://lifehacker.com/you-should-make-broccoli-salad-but-with-asparagus-1849036832)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
