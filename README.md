@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways to Spend the Leftovers From Your Kid&#39;s 529 Savings](https://lifehacker.com/all-the-ways-to-spend-the-leftovers-from-your-kids-529-1849039176)
+- [Dev.to/JS] [Create NFT Market Place without any libraries](https://dev.to/sananayab/create-nft-market-place-without-any-libraries-3hj9)
+- [Dev.to/JS] [Thali restaurant bangkok](https://dev.to/hariprasadcjssd/thali-restaurant-bangkok-2mnj)
 - [Dev.to/JS] [Object-Oriented JavaScript: Objects and their property types](https://dev.to/vsvaibhav20161/object-oriented-javascript-objects-and-their-property-types-2i4b)
 - [Dev.to/JS] [Routing with React Router 6](https://dev.to/asayerio_techblog/routing-with-react-router-6-4l50)
 - [Dev.to/JS] [The way up is down](https://dev.to/roseokpe/the-way-up-is-down-kh1)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Are you a YARNer or a NPMer?](https://dev.to/charliesay/are-you-a-yarner-or-a-npmer-337j)
 - [Dev.to/JS] [Developer Path #2 - Choosing the tech-stack](https://dev.to/bilalelhaj/developer-path-2-choosing-the-tech-stack-cnk)
 - [Dev.to/JS] [A Complete Detailed Guide On The Uses Of SQL](https://dev.to/calltutors/a-complete-detailed-guide-on-the-uses-of-sql-2j02)
-- [Dev.to/JS] [User re-authentication in your web app.](https://dev.to/chani24/user-re-authentication-in-your-web-app-16bj)
-- [Dev.to/JS] [How to mock function that called inside module](https://dev.to/edwinwong90/how-to-mock-function-that-called-inside-module-7f7)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
 - [Lifehacker] [‘Dower Rights’ Still Exist?](https://lifehacker.com/dower-rights-still-exist-1849034668)
-- [Lifehacker] [You Thought &#39;Bugdom&#39; and &#39;Nanosaur&#39; Were Lost Forever](https://lifehacker.com/you-thought-bugdom-and-nanosaur-were-lost-forever-1849034468)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
