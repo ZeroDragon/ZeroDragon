@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Try Windows 11&#39;s New File Explorer Tabs Before It Comes Out](https://lifehacker.com/how-to-try-windows-11s-new-file-explorer-tabs-before-it-1849045449)
+- [Dev.to/JS] [How to Use React Hooks in Your Datagrid &amp; Chart Web Applications](https://dev.to/grapecity/how-to-use-react-hooks-in-your-datagrid-chart-web-applications-3dfd)
+- [Dev.to/JS] [Build a Group Video Call System using PHP,Javascript + WebRTC Day 0](https://dev.to/benpobi/build-a-group-video-call-system-using-phpjavascript-webrtc-day-0-5k4)
+- [Lifehacker] [What&#39;s So Special About White Whiskey?](https://lifehacker.com/whats-so-special-about-white-whiskey-1849044936)
+- [Dev.to/JS] [📝 Learn JavaScript the right way with this beginner&#39;s cheat sheet](https://dev.to/prajwal056/learn-javascript-the-right-way-with-this-beginners-cheat-sheet-3m85)
 - [Dev.to/JS] [How to Create a Slack Bot](https://dev.to/ekqt/how-to-create-a-slack-bot-3mk3)
 - [Dev.to/JS] [How to Copy object?](https://dev.to/ravikumar1002/how-to-copy-object-2hmf)
 - [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Jest parametrized test that throws errors](https://dev.to/eomiso/jest-parametrized-test-that-throws-errors-3p7o)
 - [Dev.to/JS] [PNpm is much cooler than npm and yarn.](https://dev.to/suri66/pnpm-is-much-cooler-than-npm-and-yarn-59pn)
 - [Lifehacker] [All the Ways to Spend the Leftovers From Your Kid&#39;s 529 Savings](https://lifehacker.com/all-the-ways-to-spend-the-leftovers-from-your-kids-529-1849039176)
-- [Dev.to/JS] [Create NFT Market Place without any libraries](https://dev.to/sananayab/create-nft-market-place-without-any-libraries-3hj9)
-- [Dev.to/JS] [Object-Oriented JavaScript: Objects and their property types](https://dev.to/vsvaibhav20161/object-oriented-javascript-objects-and-their-property-types-2i4b)
-- [Dev.to/JS] [Routing with React Router 6](https://dev.to/asayerio_techblog/routing-with-react-router-6-4l50)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Save Your Kid&#39;s Artwork Without Taking Up Space](https://lifehacker.com/the-best-way-to-save-your-kids-artwork-without-taking-u-1849036306)
 - [Lifehacker] [How to Share Your .MOV iPhone Videos as MP4s &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-share-your-mov-iphone-videos-as-mp4s-and-why-y-1849038670)
 - [Lifehacker] [11 Things That Lose Value As Soon As You Buy Them](https://lifehacker.com/11-things-that-lose-value-as-soon-as-you-buy-them-1849036728)
-- [Lifehacker] [Mosquito Repelling Plants Are a Lie](https://lifehacker.com/mosquito-repelling-plants-are-a-lie-1849036607)
-- [Lifehacker] [You Should Make Your Own &#39;Spotify Pie&#39; Chart](https://lifehacker.com/you-should-make-your-own-spotify-pie-chart-1849035508)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
