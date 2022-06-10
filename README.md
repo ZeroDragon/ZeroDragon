@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Variables and scoping](https://dev.to/vedanthb/variables-and-scoping-2ige)
+- [Dev.to/JS] [Crate a simple React movie database app with The OMDB api](https://dev.to/rtagliavia/crate-a-simple-react-movie-database-app-with-the-omdb-api-16kd)
+- [Dev.to/JS] [Quando não utilizar o spread operator](https://dev.to/yanpiing/quando-nao-utilizar-o-spread-operator-3j33)
+- [Dev.to/JS] [You need to know about req and res objects to build an API in Node.js using Express.js](https://dev.to/luizcalaca/you-need-to-know-about-req-and-res-objects-to-build-an-api-in-nodejs-using-expressjs-4f3i)
 - [Dev.to/JS] [Decoding The React useState hook](https://dev.to/vedanthb/decoding-the-react-usestate-hook-2nf8)
 - [Dev.to/JS] [Gemint Product Updates](https://dev.to/gemint_cards/gemint-product-updates-1gc6)
 - [Dev.to/JS] [Paracetamol.test.js💊| #1: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-1-testea-este-codigo-javascript-57d4)
@@ -33,12 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetalmol.test.js, retos de testing con Jest en Javascript 💊](https://dev.to/duxtech/paracetalmoltestjs-retos-de-testing-con-jest-en-javascript-53dk)
 - [Dev.to/JS] [Construye en Flow: Aprende FCL - 3. Como retornar valores arbitrarios desde un script](https://dev.to/onflow/construye-en-flow-aprende-fcl-3-como-retornar-valores-arbitrarios-desde-un-script-2oa6)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
-- [Dev.to/JS] [Use htpasswd to secure your node-RED Container](https://dev.to/shandesai/use-htpasswd-to-secure-your-node-red-container-15cl)
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
-- [Dev.to/JS] [React-Scripts from an empty directory](https://dev.to/srele96/react-scripts-from-an-empty-directory-4ek2)
-- [Dev.to/JS] [creando una base de datos de películas con la API de OMDB y REACT](https://dev.to/rtagliavia/creando-una-base-de-datos-de-peliculas-con-la-api-de-omdb-y-react-of4)
 - [Lifehacker] [Does Balsamic Vinegar and Sparkling Water Really Taste Like Coke?](https://lifehacker.com/does-balsamic-vinegar-and-sparkling-water-really-taste-1849041883)
-- [Dev.to/JS] [Tech Explained - a low-level primer on frontend technology](https://dev.to/allbitsequal/tech-explained-a-low-level-primer-on-frontend-technology-2fd1)
 - [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
 - [Lifehacker] [Make the Pervert&#39;s Magic Shell With Chocolate and Duck Fat](https://lifehacker.com/make-the-perverts-magic-shell-with-chocolate-and-duck-f-1849041657)
 - [Lifehacker] [Why You Should Schedule Your Stress](https://lifehacker.com/why-you-should-schedule-your-stress-1849040319)
