@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Write the Most Doable To-Do List](https://lifehacker.com/how-micro-to-do-lists-can-help-you-get-more-done-1849041268)
+- [Dev.to/JS] [Jest parametrized test that throws errors](https://dev.to/eomiso/jest-parametrized-test-that-throws-errors-3p7o)
+- [Dev.to/JS] [PNpm is much cooler than npm and yarn.](https://dev.to/suri66/pnpm-is-much-cooler-than-npm-and-yarn-59pn)
 - [Lifehacker] [All the Ways to Spend the Leftovers From Your Kid&#39;s 529 Savings](https://lifehacker.com/all-the-ways-to-spend-the-leftovers-from-your-kids-529-1849039176)
 - [Dev.to/JS] [Create NFT Market Place without any libraries](https://dev.to/sananayab/create-nft-market-place-without-any-libraries-3hj9)
 - [Dev.to/JS] [Thali restaurant bangkok](https://dev.to/hariprasadcjssd/thali-restaurant-bangkok-2mnj)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The missing WeatherKit REST API Docs](https://dev.to/allthecode/the-missing-weatherkit-rest-api-docs-1ci6)
 - [Dev.to/JS] [Quickstart: How to build Blog App using Vue &amp; Altogic?](https://dev.to/altogic/quickstart-how-to-build-blog-app-using-vue-altogic-1n0j)
 - [Dev.to/JS] [Are you a YARNer or a NPMer?](https://dev.to/charliesay/are-you-a-yarner-or-a-npmer-337j)
-- [Dev.to/JS] [Developer Path #2 - Choosing the tech-stack](https://dev.to/bilalelhaj/developer-path-2-choosing-the-tech-stack-cnk)
-- [Dev.to/JS] [A Complete Detailed Guide On The Uses Of SQL](https://dev.to/calltutors/a-complete-detailed-guide-on-the-uses-of-sql-2j02)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [We Are Not Ready for Monkeypox](https://lifehacker.com/we-are-not-ready-for-monkeypox-1849035126)
 - [Lifehacker] [How to Decide Between a Gas and Charcoal Grill](https://lifehacker.com/how-to-decide-between-a-gas-and-charcoal-grill-1849031298)
 - [Lifehacker] [Quit Rage-Tweeting at Airlines](https://lifehacker.com/quit-rage-tweeting-at-airlines-1849035151)
-- [Lifehacker] [‘Dower Rights’ Still Exist?](https://lifehacker.com/dower-rights-still-exist-1849034668)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
 - [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
 
