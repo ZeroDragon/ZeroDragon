@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ES6 Handbook](https://dev.to/vedanthb/es6-handbook-12bd)
+- [Dev.to/JS] [AudiPlayV2 Integration - Customizable HTML5 Audio Player with Template](https://dev.to/sh20raj/audiplayv2-integration-customizable-html5-audio-player-with-template-o54)
 - [Dev.to/JS] [Variables and scoping](https://dev.to/vedanthb/variables-and-scoping-2ige)
 - [Dev.to/JS] [Crate a simple React movie database app with The OMDB api](https://dev.to/rtagliavia/crate-a-simple-react-movie-database-app-with-the-omdb-api-16kd)
 - [Dev.to/JS] [Quando não utilizar o spread operator](https://dev.to/yanpiing/quando-nao-utilizar-o-spread-operator-3j33)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cookies in Javascript](https://dev.to/masterifeanyi/cookies-in-javascript-18dj)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Dev.to/JS] [Building Community Resource Web-Apps with Google Maps API](https://dev.to/holistictechnologist/building-community-resource-web-apps-with-google-maps-api-1plj)
-- [Dev.to/JS] [Paracetalmol.test.js, retos de testing con Jest en Javascript 💊](https://dev.to/duxtech/paracetalmoltestjs-retos-de-testing-con-jest-en-javascript-53dk)
-- [Dev.to/JS] [Construye en Flow: Aprende FCL - 3. Como retornar valores arbitrarios desde un script](https://dev.to/onflow/construye-en-flow-aprende-fcl-3-como-retornar-valores-arbitrarios-desde-un-script-2oa6)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
 - [Lifehacker] [Does Balsamic Vinegar and Sparkling Water Really Taste Like Coke?](https://lifehacker.com/does-balsamic-vinegar-and-sparkling-water-really-taste-1849041883)
