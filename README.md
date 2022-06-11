@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Currying function? – JavaScript](https://dev.to/therahul_gupta/what-is-currying-function-javascript-534f)
 - [Dev.to/JS] [How To Implement an Infinite Scroll with Vue and Nuxt](https://dev.to/siumhossain/how-to-implement-an-infinite-scroll-with-vue-and-nuxt-4d6k)
 - [Dev.to/JS] [8 SEO Best Practices Every Developer Should Know &lpar;I mean it&rpar;](https://dev.to/sojinsamuel/8-seo-best-practices-every-developer-should-know-i-mean-it-42jl)
 - [Dev.to/JS] [Array of Object Manipulation in JavaScript](https://dev.to/jacksonkasi/array-of-object-manipulation-in-javascript-6bd)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I made a classless CSS framework](https://dev.to/501a/i-made-a-classless-css-framework-h7m)
 - [Dev.to/JS] [Wonderful designed french sites](https://dev.to/deotyma/wonderful-designed-french-sites-1d05)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;11-06-2022&rpar; - Due diligence](https://dev.to/mjgs/this-weeks-newsletter-is-out-11-06-2022-due-diligence-4dmp)
-- [Dev.to/JS] [I updated my portfolio site!](https://dev.to/radocode/i-updated-my-portfolio-site-h6l)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
 - [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
