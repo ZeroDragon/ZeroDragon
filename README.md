@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript - Hoisting](https://dev.to/justtanwa/javascript-hoisting-24if)
+- [Dev.to/JS] [React - Clean Architecture - Redux Toolkit](https://dev.to/abouelyatim/react-clean-architecture-redux-toolkit-24mi)
+- [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Dev.to/JS] [🤓 Handle Asynchronous errors on expressJs without try/catch !](https://dev.to/shrihari/handle-asynchronous-errors-on-expressjs-without-trycatch--1e5b)
 - [Dev.to/JS] [Paracetamol.js💊| #139: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-139-explica-este-codigo-javascript-1634)
 - [Dev.to/JS] [I created my own 1st website 🙏 and hosted it on GitHub visit on 👇](https://dev.to/godlykmathews/i-created-my-own-1st-website-and-hosted-it-on-github-visit-on-5590)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
 - [Dev.to/JS] [What is Currying function? – JavaScript](https://dev.to/therahul_gupta/what-is-currying-function-javascript-534f)
 - [Dev.to/JS] [How To Implement an Infinite Scroll with Vue and Nuxt](https://dev.to/siumhossain/how-to-implement-an-infinite-scroll-with-vue-and-nuxt-4d6k)
-- [Dev.to/JS] [8 SEO Best Practices Every Developer Should Know &lpar;I mean it&rpar;](https://dev.to/sojinsamuel/8-seo-best-practices-every-developer-should-know-i-mean-it-42jl)
-- [Dev.to/JS] [Array of Object Manipulation in JavaScript](https://dev.to/jacksonkasi/array-of-object-manipulation-in-javascript-6bd)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Does Balsamic Vinegar and Sparkling Water Really Taste Like Coke?](https://lifehacker.com/does-balsamic-vinegar-and-sparkling-water-really-taste-1849041883)
 - [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
 - [Lifehacker] [Make the Pervert&#39;s Magic Shell With Chocolate and Duck Fat](https://lifehacker.com/make-the-perverts-magic-shell-with-chocolate-and-duck-f-1849041657)
-- [Lifehacker] [Why You Should Schedule Your Stress](https://lifehacker.com/why-you-should-schedule-your-stress-1849040319)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
