@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part I](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-i-3b2m)
+- [Dev.to/JS] [SolidJS your thoughts?](https://dev.to/rayluxembourg/solidjs-your-thoughts-2pij)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
 - [Dev.to/JS] [What is Currying function? – JavaScript](https://dev.to/therahul_gupta/what-is-currying-function-javascript-534f)
 - [Dev.to/JS] [How To Implement an Infinite Scroll with Vue and Nuxt](https://dev.to/siumhossain/how-to-implement-an-infinite-scroll-with-vue-and-nuxt-4d6k)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is parser-blocking?](https://dev.to/anewman15/what-is-parser-blocking-30h8)
 - [Dev.to/JS] [🥁 I built a complete decentralized MultiSig Wallet with Solidity and ReactJS.](https://dev.to/shafayeatsumit/i-built-a-complete-decentralized-multisig-wallet-with-solidity-and-reactjs-124a)
 - [Dev.to/JS] [I made a classless CSS framework](https://dev.to/501a/i-made-a-classless-css-framework-h7m)
-- [Dev.to/JS] [Wonderful designed french sites](https://dev.to/deotyma/wonderful-designed-french-sites-1d05)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;11-06-2022&rpar; - Due diligence](https://dev.to/mjgs/this-weeks-newsletter-is-out-11-06-2022-due-diligence-4dmp)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
 - [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
