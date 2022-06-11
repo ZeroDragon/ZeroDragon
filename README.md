@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is parser-blocking?](https://dev.to/anewman15/what-is-parser-blocking-30h8)
+- [Dev.to/JS] [🥁 I built a complete decentralized MultiSig Wallet with Solidity and ReactJS.](https://dev.to/shafayeatsumit/i-built-a-complete-decentralized-multisig-wallet-with-solidity-and-reactjs-124a)
+- [Dev.to/JS] [I made a classless CSS framework](https://dev.to/501a/i-made-a-classless-css-framework-h7m)
+- [Dev.to/JS] [Wonderful designed french sites](https://dev.to/deotyma/wonderful-designed-french-sites-1d05)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;11-06-2022&rpar; - Due diligence](https://dev.to/mjgs/this-weeks-newsletter-is-out-11-06-2022-due-diligence-4dmp)
 - [Dev.to/JS] [I updated my portfolio site!](https://dev.to/radocode/i-updated-my-portfolio-site-h6l)
 - [Dev.to/JS] [Tailwindcss is beautiful 👌](https://dev.to/ikausik/tailwindcss-is-beautiful-53f0)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a Music Visualizer with Three.JS](https://dev.to/harryholland/how-to-create-a-music-visualizer-with-threejs-1il6)
 - [Dev.to/JS] [Fantastic New way for deep copy of JavaScript Object](https://dev.to/satel/fantastic-new-way-for-deep-copy-of-javascript-object-19ja)
 - [Dev.to/JS] [This is why everyone is using Reactjs](https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5)
-- [Dev.to/JS] [Vanilla Dark Mode](https://dev.to/ashalfarhan/vanilla-dark-mode-3a0l)
-- [Dev.to/JS] [Manipulación de Arrays en JavaScript 😎Part 2](https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do)
-- [Dev.to/JS] [Free APIs List](https://dev.to/theplugjumbo/free-apis-list-h3d)
-- [Dev.to/JS] [Using NodeJS library `dotenv` to Handle Environmental Variables and Secret Keys — Tutorial](https://dev.to/cireneirbo/using-nodejs-library-dotenv-to-handle-environmental-variables-and-secret-keys-tutorial-173j)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
 - [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
