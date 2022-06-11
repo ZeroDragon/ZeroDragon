@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Music Visualizer with Three.JS](https://dev.to/harryholland/how-to-create-a-music-visualizer-with-threejs-1il6)
+- [Dev.to/JS] [Fantastic New way for deep copy of JavaScript Object](https://dev.to/satel/fantastic-new-way-for-deep-copy-of-javascript-object-19ja)
+- [Dev.to/JS] [key features that comes with React Js](https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5)
 - [Dev.to/JS] [Vanilla Dark Mode](https://dev.to/ashalfarhan/vanilla-dark-mode-3a0l)
 - [Dev.to/JS] [Manipulación de Arrays en JavaScript 😎Part 2](https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do)
 - [Dev.to/JS] [Free APIs List](https://dev.to/theplugjumbo/free-apis-list-h3d)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Can You Fight a Shark and Win?](https://lifehacker.com/can-you-fight-a-shark-and-win-1849045603)
 - [Dev.to/JS] [With Dynamic SQL Queries on TypeScript &amp; NodeJS](https://dev.to/ssibrahimbas/with-dynamic-sql-queries-on-typescript-nodejs-3o2o)
 - [Lifehacker] [When Your Landlord Can Legally Enter Your Apartment &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-your-landlord-can-legally-enter-your-apartment-an-1849045944)
-- [Dev.to/JS] [Custom React Native WheelPicker with Reanimated](https://dev.to/igorves/custom-react-native-wheelpicker-with-reanimated-473c)
-- [Dev.to/JS] [Pagination in React](https://dev.to/shraddha1402/pagination-in-react-37lo)
 - [Lifehacker] [Five of the Best Dinosaur Movies and Documentaries Ever Made](https://lifehacker.com/five-of-the-best-dinosaur-movies-and-documentaries-ever-1849045596)
-- [Dev.to/JS] [Practical Use of Builder Pattern in Javascript](https://dev.to/yohanesss/practical-use-of-builder-pattern-in-javascript-4hg4)
 - [Lifehacker] [The Best Ways to Play Vintage Games on Your Modern TV](https://lifehacker.com/the-best-ways-to-play-vintage-games-on-your-modern-tv-1849021233)
 - [Lifehacker] [Stuff Marshmallows With Chocolate Chips for Easier S&#39;mores](https://lifehacker.com/stuff-marshmallows-with-chocolate-chips-for-easier-smor-1849046162)
 - [Lifehacker] [How to Try Windows 11&#39;s New File Explorer Tabs Before It Comes Out](https://lifehacker.com/how-to-try-windows-11s-new-file-explorer-tabs-before-it-1849045449)
