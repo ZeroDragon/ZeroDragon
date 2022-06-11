@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn to build a background changer in just 5 mins](https://dev.to/kumarkalyan/learn-to-build-a-background-chnager-in-just-5-mins-3hne)
+- [Dev.to/JS] [Get started with Chakra-UI](https://dev.to/thatanjan/get-started-with-chakra-ui-1638)
 - [Dev.to/JS] [iterate , iterate, iterate](https://dev.to/kuncheriakuruvilla/iterate-iterate-iterate-2340)
 - [Dev.to/JS] [Filtering an array against another array conditionally](https://dev.to/kuncheriakuruvilla/filtering-an-array-against-another-array-conditionally-1k9g)
 - [Dev.to/JS] [What is JavaScript Strict Mode?](https://dev.to/ahmedmansoor012/what-is-javascript-strict-mode-bl0)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React - Clean Architecture - Redux Toolkit](https://dev.to/abouelyatim/react-clean-architecture-redux-toolkit-24mi)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Dev.to/JS] [🤓 Handle Asynchronous errors on expressJs without try/catch !](https://dev.to/shrihari/handle-asynchronous-errors-on-expressjs-without-trycatch--1e5b)
-- [Dev.to/JS] [Paracetamol.js💊| #139: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-139-explica-este-codigo-javascript-1634)
-- [Dev.to/JS] [I created my own 1st website 🙏 and hosted it on GitHub visit on 👇](https://dev.to/godlykmathews/i-created-my-own-1st-website-and-hosted-it-on-github-visit-on-5590)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
