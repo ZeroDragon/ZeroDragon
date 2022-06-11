@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
+- [Dev.to/JS] [Adding Animated Wallpapers to my Personal Website / Desktop Environment](https://dev.to/dustinbrett/adding-animated-wallpapers-to-my-personal-website-desktop-environment-11do)
+- [Dev.to/JS] [Symfony Station Communiqué — 10 June 2022. A look at Symfony, PHP, and Cybersecurity News.](https://dev.to/reubenwalker64/symfony-station-communique-10-june-2022-a-look-at-symfony-php-and-cybersecurity-news-49n)
+- [Dev.to/JS] [Como automatizar o processo de versionamento de um projeto em Javascript](https://dev.to/andraderaul/como-automatizar-o-processo-de-versionamento-de-um-projeto-em-javascript-1kc9)
 - [Dev.to/JS] [JavaScript - Hoisting](https://dev.to/justtanwa/javascript-hoisting-24if)
 - [Dev.to/JS] [React - Clean Architecture - Redux Toolkit](https://dev.to/abouelyatim/react-clean-architecture-redux-toolkit-24mi)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
@@ -33,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Become a Freelance Content Writer in India](https://dev.to/raviguptaseoexprt/how-to-become-a-freelance-content-writer-in-india-1og2)
 - [Dev.to/JS] [Learn How to use React Router v6](https://dev.to/franciscomendes10866/how-to-use-react-router-v6-2bce)
 - [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part I](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-i-3b2m)
-- [Dev.to/JS] [SolidJS your thoughts?](https://dev.to/rayluxembourg/solidjs-your-thoughts-2pij)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
-- [Dev.to/JS] [What is Currying function? – JavaScript](https://dev.to/therahul_gupta/what-is-currying-function-javascript-534f)
-- [Dev.to/JS] [How To Implement an Infinite Scroll with Vue and Nuxt](https://dev.to/siumhossain/how-to-implement-an-infinite-scroll-with-vue-and-nuxt-4d6k)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
 - [Lifehacker] [Does Balsamic Vinegar and Sparkling Water Really Taste Like Coke?](https://lifehacker.com/does-balsamic-vinegar-and-sparkling-water-really-taste-1849041883)
 - [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
-- [Lifehacker] [Make the Pervert&#39;s Magic Shell With Chocolate and Duck Fat](https://lifehacker.com/make-the-perverts-magic-shell-with-chocolate-and-duck-f-1849041657)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
