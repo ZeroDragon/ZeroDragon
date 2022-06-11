@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [iterate , iterate, iterate](https://dev.to/kuncheriakuruvilla/iterate-iterate-iterate-2340)
+- [Dev.to/JS] [Filtering an array against another array conditionally](https://dev.to/kuncheriakuruvilla/filtering-an-array-against-another-array-conditionally-1k9g)
+- [Dev.to/JS] [What is JavaScript Strict Mode?](https://dev.to/ahmedmansoor012/what-is-javascript-strict-mode-bl0)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
+- [Dev.to/JS] [Do you use PNPM? If yes why?](https://dev.to/eagle1309/do-you-use-pnpm-if-yes-why-423c)
 - [Dev.to/JS] [Adding Animated Wallpapers to my Personal Website / Desktop Environment](https://dev.to/dustinbrett/adding-animated-wallpapers-to-my-personal-website-desktop-environment-11do)
 - [Dev.to/JS] [Symfony Station Communiqué — 10 June 2022. A look at Symfony, PHP, and Cybersecurity News.](https://dev.to/reubenwalker64/symfony-station-communique-10-june-2022-a-look-at-symfony-php-and-cybersecurity-news-49n)
 - [Dev.to/JS] [Como automatizar o processo de versionamento de um projeto em Javascript](https://dev.to/andraderaul/como-automatizar-o-processo-de-versionamento-de-um-projeto-em-javascript-1kc9)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🤓 Handle Asynchronous errors on expressJs without try/catch !](https://dev.to/shrihari/handle-asynchronous-errors-on-expressjs-without-trycatch--1e5b)
 - [Dev.to/JS] [Paracetamol.js💊| #139: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-139-explica-este-codigo-javascript-1634)
 - [Dev.to/JS] [I created my own 1st website 🙏 and hosted it on GitHub visit on 👇](https://dev.to/godlykmathews/i-created-my-own-1st-website-and-hosted-it-on-github-visit-on-5590)
-- [Dev.to/JS] [Yüzde yüz animasyon](https://dev.to/metak47/yuzde-yuz-animasyon-1fk1)
-- [Dev.to/JS] [How to Become a Freelance Content Writer in India](https://dev.to/raviguptaseoexprt/how-to-become-a-freelance-content-writer-in-india-1og2)
-- [Dev.to/JS] [Learn How to use React Router v6](https://dev.to/franciscomendes10866/how-to-use-react-router-v6-2bce)
-- [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part I](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-i-3b2m)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
