@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
 - [Dev.to/JS] [What is Currying function? – JavaScript](https://dev.to/therahul_gupta/what-is-currying-function-javascript-534f)
 - [Dev.to/JS] [How To Implement an Infinite Scroll with Vue and Nuxt](https://dev.to/siumhossain/how-to-implement-an-infinite-scroll-with-vue-and-nuxt-4d6k)
 - [Dev.to/JS] [8 SEO Best Practices Every Developer Should Know &lpar;I mean it&rpar;](https://dev.to/sojinsamuel/8-seo-best-practices-every-developer-should-know-i-mean-it-42jl)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Going to Get Caught Skiplagging, and It’s Not Going to Be Pretty](https://lifehacker.com/youre-going-to-get-caught-skiplagging-and-it-s-not-goi-1849041104)
 - [Lifehacker] [Make the Pervert&#39;s Magic Shell With Chocolate and Duck Fat](https://lifehacker.com/make-the-perverts-magic-shell-with-chocolate-and-duck-f-1849041657)
 - [Lifehacker] [Why You Should Schedule Your Stress](https://lifehacker.com/why-you-should-schedule-your-stress-1849040319)
-- [Lifehacker] [How Long Does Liquor Really Last After You Open the Bottle?](https://lifehacker.com/how-long-does-liquor-really-last-after-you-open-the-bot-1849040293)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
