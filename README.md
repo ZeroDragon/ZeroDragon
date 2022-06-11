@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Describe the difference between &lt;script&gt;, &lt;script async&gt; and &lt;script defer&gt;](https://dev.to/anewman15/describe-the-difference-between-and-5ai3)
+- [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
+- [Dev.to/JS] [Build a Group Video Call System using PHP,Javascript + WebRTC Day 1](https://dev.to/benpobi/build-a-group-video-call-system-using-phpjavascript-webrtc-day-1-4cf)
+- [Dev.to/JS] [Coinbase Interview — Part II](https://dev.to/shreyvijayvargiya/coinbase-interview-part-ii-2cfi)
 - [Dev.to/JS] [What is parser-blocking?](https://dev.to/anewman15/what-is-parser-blocking-30h8)
 - [Dev.to/JS] [🥁 I built a complete decentralized MultiSig Wallet with Solidity and ReactJS.](https://dev.to/shafayeatsumit/i-built-a-complete-decentralized-multisig-wallet-with-solidity-and-reactjs-124a)
 - [Dev.to/JS] [I made a classless CSS framework](https://dev.to/501a/i-made-a-classless-css-framework-h7m)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tailwindcss is beautiful 👌](https://dev.to/ikausik/tailwindcss-is-beautiful-53f0)
 - [Dev.to/JS] [How to create a scroll to top button with vanilla JS &amp; CSS](https://dev.to/amirlotfi/how-to-create-a-scroll-to-top-button-with-vanilla-js-css-ji8)
 - [Dev.to/JS] [How to Create a Music Visualizer with Three.JS](https://dev.to/harryholland/how-to-create-a-music-visualizer-with-threejs-3jik)
-- [Dev.to/JS] [How to Create a Music Visualizer with Three.JS](https://dev.to/harryholland/how-to-create-a-music-visualizer-with-threejs-1il6)
-- [Dev.to/JS] [Fantastic New way for deep copy of JavaScript Object](https://dev.to/satel/fantastic-new-way-for-deep-copy-of-javascript-object-19ja)
-- [Dev.to/JS] [This is why everyone is using Reactjs](https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
 - [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Schedule Your Stress](https://lifehacker.com/why-you-should-schedule-your-stress-1849040319)
 - [Lifehacker] [How Long Does Liquor Really Last After You Open the Bottle?](https://lifehacker.com/how-long-does-liquor-really-last-after-you-open-the-bot-1849040293)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
-- [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)
-- [Crazy Programmer] [Top 5 Python Frameworks You Must Know in 2022](https://www.thecrazyprogrammer.com/2022/06/top-5-python-frameworks-you-must-know-in-2022.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
 ---
 
