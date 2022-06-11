@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Manipulación de Arrays en JavaScript 😎Part 2](https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do)
+- [Dev.to/JS] [Free APIs List](https://dev.to/theplugjumbo/free-apis-list-h3d)
+- [Dev.to/JS] [Using NodeJS library `dotenv` to Handle Environmental Variables and Secret Keys — Tutorial](https://dev.to/cireneirbo/using-nodejs-library-dotenv-to-handle-environmental-variables-and-secret-keys-tutorial-173j)
 - [Dev.to/JS] [React beautiful animation reordering the list of items](https://dev.to/toantd90/react-beautiful-animation-reordering-the-list-of-items-1mbp)
 - [Dev.to/JS] [The experience of creating my own JavaScript runtime - #1](https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-1-4h9j)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
@@ -40,11 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Practical Use of Builder Pattern in Javascript](https://dev.to/yohanesss/practical-use-of-builder-pattern-in-javascript-4hg4)
 - [Dev.to/JS] [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://dev.to/wenura/nodejs-tutorial-for-beginners-learn-node-in-1-hour-40b)
 - [Lifehacker] [The Best Ways to Play Vintage Games on Your Modern TV](https://lifehacker.com/the-best-ways-to-play-vintage-games-on-your-modern-tv-1849021233)
-- [Dev.to/JS] [Top 7 Ways to Become A Better Coder](https://dev.to/mohitbilala/top-7-ways-to-become-a-better-coder-3akp)
-- [Dev.to/JS] [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://dev.to/wenura/javascript-tutorial-for-beginners-learn-javascript-in-1-hour-304m)
 - [Lifehacker] [Stuff Marshmallows With Chocolate Chips for Easier S&#39;mores](https://lifehacker.com/stuff-marshmallows-with-chocolate-chips-for-easier-smor-1849046162)
 - [Lifehacker] [How to Try Windows 11&#39;s New File Explorer Tabs Before It Comes Out](https://lifehacker.com/how-to-try-windows-11s-new-file-explorer-tabs-before-it-1849045449)
-- [Dev.to/JS] [How to Use React Hooks in Your Datagrid &amp; Chart Web Applications](https://dev.to/grapecity/how-to-use-react-hooks-in-your-datagrid-chart-web-applications-3dfd)
 - [Lifehacker] [What&#39;s So Special About White Whiskey?](https://lifehacker.com/whats-so-special-about-white-whiskey-1849044936)
 - [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
 - [Lifehacker] [How to React to Road Rage When Your Kids Are in the Car](https://lifehacker.com/how-to-react-to-road-rage-when-your-kids-are-in-the-car-1849042942)
