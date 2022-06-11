@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vanilla Dark Mode](https://dev.to/ashalfarhan/vanilla-dark-mode-3a0l)
 - [Dev.to/JS] [Manipulación de Arrays en JavaScript 😎Part 2](https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do)
 - [Dev.to/JS] [Free APIs List](https://dev.to/theplugjumbo/free-apis-list-h3d)
 - [Dev.to/JS] [Using NodeJS library `dotenv` to Handle Environmental Variables and Secret Keys — Tutorial](https://dev.to/cireneirbo/using-nodejs-library-dotenv-to-handle-environmental-variables-and-secret-keys-tutorial-173j)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pagination in React](https://dev.to/shraddha1402/pagination-in-react-37lo)
 - [Lifehacker] [Five of the Best Dinosaur Movies and Documentaries Ever Made](https://lifehacker.com/five-of-the-best-dinosaur-movies-and-documentaries-ever-1849045596)
 - [Dev.to/JS] [Practical Use of Builder Pattern in Javascript](https://dev.to/yohanesss/practical-use-of-builder-pattern-in-javascript-4hg4)
-- [Dev.to/JS] [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://dev.to/wenura/nodejs-tutorial-for-beginners-learn-node-in-1-hour-40b)
 - [Lifehacker] [The Best Ways to Play Vintage Games on Your Modern TV](https://lifehacker.com/the-best-ways-to-play-vintage-games-on-your-modern-tv-1849021233)
 - [Lifehacker] [Stuff Marshmallows With Chocolate Chips for Easier S&#39;mores](https://lifehacker.com/stuff-marshmallows-with-chocolate-chips-for-easier-smor-1849046162)
 - [Lifehacker] [How to Try Windows 11&#39;s New File Explorer Tabs Before It Comes Out](https://lifehacker.com/how-to-try-windows-11s-new-file-explorer-tabs-before-it-1849045449)
