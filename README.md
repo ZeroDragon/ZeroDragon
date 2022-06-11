@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;11-06-2022&rpar; - Due diligence](https://dev.to/mjgs/this-weeks-newsletter-is-out-11-06-2022-due-diligence-4dmp)
+- [Dev.to/JS] [I updated my portfolio site!](https://dev.to/radocode/i-updated-my-portfolio-site-h6l)
+- [Dev.to/JS] [Tailwindcss is beautiful 👌](https://dev.to/ikausik/tailwindcss-is-beautiful-53f0)
 - [Dev.to/JS] [How to create a scroll to top button with vanilla JS &amp; CSS](https://dev.to/amirlotfi/how-to-create-a-scroll-to-top-button-with-vanilla-js-css-ji8)
 - [Dev.to/JS] [How to Create a Music Visualizer with Three.JS](https://dev.to/harryholland/how-to-create-a-music-visualizer-with-threejs-3jik)
 - [Dev.to/JS] [How to Create a Music Visualizer with Three.JS](https://dev.to/harryholland/how-to-create-a-music-visualizer-with-threejs-1il6)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Manipulación de Arrays en JavaScript 😎Part 2](https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do)
 - [Dev.to/JS] [Free APIs List](https://dev.to/theplugjumbo/free-apis-list-h3d)
 - [Dev.to/JS] [Using NodeJS library `dotenv` to Handle Environmental Variables and Secret Keys — Tutorial](https://dev.to/cireneirbo/using-nodejs-library-dotenv-to-handle-environmental-variables-and-secret-keys-tutorial-173j)
-- [Dev.to/JS] [React beautiful animation reordering the list of items](https://dev.to/toantd90/react-beautiful-animation-reordering-the-list-of-items-1mbp)
-- [Dev.to/JS] [The experience of creating my own JavaScript runtime - #1](https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-1-4h9j)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
-- [Dev.to/JS] [Why to use Vue&#39;s v-on object syntax?](https://dev.to/migsarnavarro/why-to-use-vues-v-on-object-syntax-1991)
 - [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
 - [Lifehacker] [How to Figure Out Where You First Heard That Damn Song](https://lifehacker.com/how-to-figure-out-where-you-first-heard-that-damn-song-1849046553)
 - [Lifehacker] [Can You Fight a Shark and Win?](https://lifehacker.com/can-you-fight-a-shark-and-win-1849045603)
