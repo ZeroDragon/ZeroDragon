@@ -23,9 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a scroll to top button with vanilla JS &amp; CSS](https://dev.to/amirlotfi/how-to-create-a-scroll-to-top-button-with-vanilla-js-css-ji8)
+- [Dev.to/JS] [How to Create a Music Visualizer with Three.JS](https://dev.to/harryholland/how-to-create-a-music-visualizer-with-threejs-3jik)
 - [Dev.to/JS] [How to Create a Music Visualizer with Three.JS](https://dev.to/harryholland/how-to-create-a-music-visualizer-with-threejs-1il6)
 - [Dev.to/JS] [Fantastic New way for deep copy of JavaScript Object](https://dev.to/satel/fantastic-new-way-for-deep-copy-of-javascript-object-19ja)
-- [Dev.to/JS] [key features that comes with React Js](https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5)
+- [Dev.to/JS] [This is why everyone is using Reactjs](https://dev.to/sanjaysinghrajpoot/key-features-that-comes-with-react-js-5fb5)
 - [Dev.to/JS] [Vanilla Dark Mode](https://dev.to/ashalfarhan/vanilla-dark-mode-3a0l)
 - [Dev.to/JS] [Manipulación de Arrays en JavaScript 😎Part 2](https://dev.to/rogerdimonte/manipulacion-de-arrays-en-javascript-part-2-30do)
 - [Dev.to/JS] [Free APIs List](https://dev.to/theplugjumbo/free-apis-list-h3d)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
 - [Dev.to/JS] [Why to use Vue&#39;s v-on object syntax?](https://dev.to/migsarnavarro/why-to-use-vues-v-on-object-syntax-1991)
 - [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
-- [Dev.to/JS] [How to Make a Treemap in JavaScript](https://dev.to/andreykh1985/how-to-make-a-treemap-in-javascript-5bn6)
 - [Lifehacker] [How to Figure Out Where You First Heard That Damn Song](https://lifehacker.com/how-to-figure-out-where-you-first-heard-that-damn-song-1849046553)
 - [Lifehacker] [Can You Fight a Shark and Win?](https://lifehacker.com/can-you-fight-a-shark-and-win-1849045603)
-- [Dev.to/JS] [With Dynamic SQL Queries on TypeScript &amp; NodeJS](https://dev.to/ssibrahimbas/with-dynamic-sql-queries-on-typescript-nodejs-3o2o)
 - [Lifehacker] [When Your Landlord Can Legally Enter Your Apartment &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-your-landlord-can-legally-enter-your-apartment-an-1849045944)
 - [Lifehacker] [Five of the Best Dinosaur Movies and Documentaries Ever Made](https://lifehacker.com/five-of-the-best-dinosaur-movies-and-documentaries-ever-1849045596)
 - [Lifehacker] [The Best Ways to Play Vintage Games on Your Modern TV](https://lifehacker.com/the-best-ways-to-play-vintage-games-on-your-modern-tv-1849021233)
