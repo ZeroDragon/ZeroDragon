@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prototypeless namespaces examples in JS](https://dev.to/projektorius96/prototypeless-namespaces-examples-in-js-2mf9)
+- [Dev.to/JS] [5+5=? Converting values to a string or number in JavaScript](https://dev.to/ra1nbow1/55-converting-values-to-a-string-or-number-in-javascript-43cc)
+- [Dev.to/JS] [Basic State Management in reactjs](https://dev.to/iretos/basic-state-management-in-reactjs-37o5)
 - [Dev.to/JS] [Websockets Chat Sample](https://dev.to/ion/websockets-chat-sample-470e)
 - [Dev.to/JS] [Loop com SCSS para sistema de grid](https://dev.to/andrerodriguesdevweb/loop-com-scss-para-sistema-de-grid-1d2b)
 - [Dev.to/JS] [PM2 + Express + NextJS &lpar;with GitHub source&rpar;: zero downtime deploys](https://dev.to/alexeydc/pm2-express-nextjs-with-github-source-zero-downtime-deploys-n71)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is JavaScript Strict Mode?](https://dev.to/ahmedmansoor012/what-is-javascript-strict-mode-bl0)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Dev.to/JS] [Do you use PNPM? If yes why?](https://dev.to/eagle1309/do-you-use-pnpm-if-yes-why-423c)
-- [Dev.to/JS] [Adding Animated Wallpapers to my Personal Website / Desktop Environment](https://dev.to/dustinbrett/adding-animated-wallpapers-to-my-personal-website-desktop-environment-11do)
-- [Dev.to/JS] [Symfony Station Communiqué — 10 June 2022. A look at Symfony, PHP, and Cybersecurity News.](https://dev.to/reubenwalker64/symfony-station-communique-10-june-2022-a-look-at-symfony-php-and-cybersecurity-news-49n)
-- [Dev.to/JS] [Como automatizar o processo de versionamento de um projeto em Javascript](https://dev.to/andraderaul/como-automatizar-o-processo-de-versionamento-de-um-projeto-em-javascript-1kc9)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
