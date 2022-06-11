@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Implement an Infinite Scroll with Vue and Nuxt](https://dev.to/siumhossain/how-to-implement-an-infinite-scroll-with-vue-and-nuxt-4d6k)
+- [Dev.to/JS] [8 SEO Best Practices Every Developer Should Know &lpar;I mean it&rpar;](https://dev.to/sojinsamuel/8-seo-best-practices-every-developer-should-know-i-mean-it-42jl)
+- [Dev.to/JS] [Array of Object Manipulation in JavaScript](https://dev.to/jacksonkasi/array-of-object-manipulation-in-javascript-6bd)
 - [Dev.to/JS] [Describe the difference between &lt;script&gt;, &lt;script async&gt; and &lt;script defer&gt;](https://dev.to/anewman15/describe-the-difference-between-and-5ai3)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Dev.to/JS] [Build a Group Video Call System using PHP,Javascript + WebRTC Day 1](https://dev.to/benpobi/build-a-group-video-call-system-using-phpjavascript-webrtc-day-1-4cf)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wonderful designed french sites](https://dev.to/deotyma/wonderful-designed-french-sites-1d05)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;11-06-2022&rpar; - Due diligence](https://dev.to/mjgs/this-weeks-newsletter-is-out-11-06-2022-due-diligence-4dmp)
 - [Dev.to/JS] [I updated my portfolio site!](https://dev.to/radocode/i-updated-my-portfolio-site-h6l)
-- [Dev.to/JS] [Tailwindcss is beautiful 👌](https://dev.to/ikausik/tailwindcss-is-beautiful-53f0)
-- [Dev.to/JS] [How to create a scroll to top button with vanilla JS &amp; CSS](https://dev.to/amirlotfi/how-to-create-a-scroll-to-top-button-with-vanilla-js-css-ji8)
-- [Dev.to/JS] [How to Create a Music Visualizer with Three.JS](https://dev.to/harryholland/how-to-create-a-music-visualizer-with-threejs-3jik)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
 - [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
