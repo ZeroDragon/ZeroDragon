@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rust in javascript](https://dev.to/akshay9677/rust-in-javascript-5ac2)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
 - [Dev.to/JS] [UI\UX Developer / HTML / UI / Frontend Developer | Remote Links are given in comment.](https://dev.to/prafulnarkhede/uiux-developer-html-ui-frontend-developer-remote-links-are-given-in-comment-383n)
 - [Dev.to/JS] [Which is your favourite react component library?](https://dev.to/eagle1309/which-is-your-favourite-react-component-library-4d37)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding react hook&lpar;Part:1&rpar;-useState&lpar;&rpar;](https://dev.to/srishtikprasad/understanding-react-hookpart1-usestate-5he1)
 - [Dev.to/JS] [Modern JavaScript, 10 things you should be using, starting today](https://dev.to/azure/modern-javascript-10-things-you-should-be-using-starting-today-1adm)
 - [Dev.to/JS] [9 Beautiful Cool Text Effects using Google font Effects👌](https://dev.to/gulshanaggarwal/9-beautiful-cool-text-effects-using-google-font-effects-mn6)
-- [Dev.to/JS] [Using Chart JS in Angular App](https://dev.to/prathameshk73/using-chart-js-in-angular-app-11ek)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
