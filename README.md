@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My End OF the week Practice Check my codes out](https://dev.to/aliyugambo/my-end-of-the-week-practice-check-my-codes-out-456j)
+- [Dev.to/JS] [A native package that you should use on React](https://dev.to/horhorou/a-native-package-that-you-should-use-on-react-3f62)
+- [Dev.to/JS] [Gradient Color Generator](https://dev.to/tilakjain123/gradient-color-generator-3ei1)
 - [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part IV](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-iv-24p4)
 - [Dev.to/JS] [How to send emails from Node.js with SendInBlue](https://dev.to/thatanjan/how-to-send-emails-from-nodejs-with-sendinblue-1cho)
 - [Dev.to/JS] [Using Web Bluetooth in an Electron App in 2022](https://dev.to/maneetgoyal/using-web-bluetooth-in-an-electron-app-in-2022-4f69)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&lpar;Parte 1&rpar; Padrões JavaScript: Dicas rápidas](https://dev.to/karolinedealencar/parte-1-padroes-javascript-dicas-rapidas-24lh)
 - [Dev.to/JS] [Little React productivity boost by &#39;curried&#39; function](https://dev.to/humoyun/little-react-productivity-boost-by-curried-function-1k29)
 - [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part III](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-iii-2cfl)
-- [Dev.to/JS] [React Hooks - useState](https://dev.to/iamdevmarcos/react-hooks-usestate-20k4)
-- [Dev.to/JS] [React.js Essential: Understanding the Basics of React.js](https://dev.to/rakeshkumawat/reactjs-essential-understanding-the-basics-of-reactjs-4hjc)
-- [Dev.to/JS] [Text Formatting on HTML using JS Functions vs Angular Pipe.](https://dev.to/shrihari/text-formatting-on-html-using-js-functions-vs-angular-pipe-1f8g)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
