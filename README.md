@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part IV](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-iv-24p4)
+- [Dev.to/JS] [How to send emails from Node.js with SendInBlue](https://dev.to/thatanjan/how-to-send-emails-from-nodejs-with-sendinblue-1cho)
+- [Dev.to/JS] [Using Web Bluetooth in an Electron App in 2022](https://dev.to/maneetgoyal/using-web-bluetooth-in-an-electron-app-in-2022-4f69)
 - [Dev.to/JS] [Rust in javascript](https://dev.to/akshay9677/rust-in-javascript-5ac2)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
 - [Dev.to/JS] [UI\UX Developer / HTML / UI / Frontend Developer | Remote Links are given in comment.](https://dev.to/prafulnarkhede/uiux-developer-html-ui-frontend-developer-remote-links-are-given-in-comment-383n)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Hooks - useState](https://dev.to/iamdevmarcos/react-hooks-usestate-20k4)
 - [Dev.to/JS] [React.js Essential: Understanding the Basics of React.js](https://dev.to/rakeshkumawat/reactjs-essential-understanding-the-basics-of-reactjs-4hjc)
 - [Dev.to/JS] [Text Formatting on HTML using JS Functions vs Angular Pipe.](https://dev.to/shrihari/text-formatting-on-html-using-js-functions-vs-angular-pipe-1f8g)
-- [Dev.to/JS] [Understanding react hook&lpar;Part:1&rpar;-useState&lpar;&rpar;](https://dev.to/srishtikprasad/understanding-react-hookpart1-usestate-5he1)
-- [Dev.to/JS] [Modern JavaScript, 10 things you should be using, starting today](https://dev.to/azure/modern-javascript-10-things-you-should-be-using-starting-today-1adm)
-- [Dev.to/JS] [9 Beautiful Cool Text Effects using Google font Effects👌](https://dev.to/gulshanaggarwal/9-beautiful-cool-text-effects-using-google-font-effects-mn6)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
