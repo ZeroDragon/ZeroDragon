@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Make your app speak with React-Speech-kit](https://dev.to/asayerio_techblog/make-your-app-speak-with-react-speech-kit-59o8)
 - [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part II](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-ii-8o0)
 - [Dev.to/JS] [Prototypeless namespaces examples in JS](https://dev.to/projektorius96/prototypeless-namespaces-examples-in-js-2mf9)
 - [Dev.to/JS] [5+5=? Converting values to a string or number in JavaScript](https://dev.to/ra1nbow1/55-converting-values-to-a-string-or-number-in-javascript-43cc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get started with Chakra-UI](https://dev.to/thatanjan/get-started-with-chakra-ui-1638)
 - [Dev.to/JS] [iterate , iterate, iterate](https://dev.to/kuncheriakuruvilla/iterate-iterate-iterate-2340)
 - [Dev.to/JS] [Filtering an array against another array conditionally](https://dev.to/kuncheriakuruvilla/filtering-an-array-against-another-array-conditionally-1k9g)
-- [Dev.to/JS] [What is JavaScript Strict Mode?](https://dev.to/ahmedmansoor012/what-is-javascript-strict-mode-bl0)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
