@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Factories and Closures, or Classes and Constructors... Does It Matter?](https://dev.to/parenttobias/factories-and-closures-or-classes-and-constructors-does-it-matter-8p0)
+- [Dev.to/JS] [Immediately Invoked Function Expression](https://dev.to/kimani_dev/immediately-invoked-function-expression-59g0)
+- [Dev.to/JS] [A Cool Way To Learn JavaScript](https://dev.to/s_soumyakanta/a-cool-way-to-learn-javascript-5cbp)
 - [Dev.to/JS] [Make your app speak with React-Speech-kit](https://dev.to/asayerio_techblog/make-your-app-speak-with-react-speech-kit-59o8)
 - [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part II](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-ii-8o0)
 - [Dev.to/JS] [Prototypeless namespaces examples in JS](https://dev.to/projektorius96/prototypeless-namespaces-examples-in-js-2mf9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Loop com SCSS para sistema de grid](https://dev.to/andrerodriguesdevweb/loop-com-scss-para-sistema-de-grid-1d2b)
 - [Dev.to/JS] [PM2 + Express + NextJS &lpar;with GitHub source&rpar;: zero downtime deploys](https://dev.to/alexeydc/pm2-express-nextjs-with-github-source-zero-downtime-deploys-n71)
 - [Dev.to/JS] [Learn to build a background changer in just 5 mins](https://dev.to/kumarkalyan/learn-to-build-a-background-chnager-in-just-5-mins-3hne)
-- [Dev.to/JS] [Get started with Chakra-UI](https://dev.to/thatanjan/get-started-with-chakra-ui-1638)
-- [Dev.to/JS] [iterate , iterate, iterate](https://dev.to/kuncheriakuruvilla/iterate-iterate-iterate-2340)
-- [Dev.to/JS] [Filtering an array against another array conditionally](https://dev.to/kuncheriakuruvilla/filtering-an-array-against-another-array-conditionally-1k9g)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
