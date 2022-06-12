@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Component Lifecycle](https://dev.to/vkton115/react-component-lifecycle-13c9)
 - [Dev.to/JS] [How I build my Personal Expense Management App and what I learn from it](https://dev.to/pavelkeyzik/how-i-build-my-personal-expense-management-app-and-what-i-learn-from-it-55gg)
 - [Dev.to/JS] [A simple RPG game - personal project to improve my programming skills](https://dev.to/damanita/a-simple-rpg-game-personal-project-to-improve-my-programming-skills-3og7)
 - [Dev.to/JS] [Google chrome extension manifest v3 for beginners](https://dev.to/ericawanja/google-chrome-extension-manifest-v3-for-beginners-5ao3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Weekly Digest 23/2022](https://dev.to/marcobiedermann/weekly-digest-232022-1kj9)
 - [Dev.to/JS] [DSA: Search algorithms with JavaScript](https://dev.to/ale3oula/dsa-search-algorithms-with-javascript-2km9)
 - [Dev.to/JS] [What is JavaScript ? Why use JavaScript? 🔥🚀](https://dev.to/rahmanmajeed/what-is-javascript-why-use-javascript-2ba6)
-- [Dev.to/JS] [7 JavaScript Concepts You Should Be Familiar With As a Developer](https://dev.to/yashtiwari1k/7-javascript-concepts-you-should-be-familiar-with-as-a-developer-fo3)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
