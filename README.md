@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ng-News: Episode 22/23](https://dev.to/rainerhahnekamp/ng-news-episode-2223-503b)
+- [Dev.to/JS] [Typescript - Myths vs Reality](https://dev.to/codeandchaos/lessons-learned-from-a-take-home-assignment-gone-wrong-3210)
+- [Dev.to/JS] [I want help you](https://dev.to/pab2lo/i-want-help-you-20po)
+- [Dev.to/JS] [What is Node.js?](https://dev.to/ahmedmansoor012/what-is-nodejs-1n98)
 - [Dev.to/JS] [Weekly Digest 23/2022](https://dev.to/marcobiedermann/weekly-digest-232022-1kj9)
 - [Dev.to/JS] [DSA: Search algorithms with JavaScript](https://dev.to/ale3oula/dsa-search-algorithms-with-javascript-2km9)
 - [Dev.to/JS] [What is JavaScript ? Why use JavaScript? 🔥🚀](https://dev.to/rahmanmajeed/what-is-javascript-why-use-javascript-2ba6)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Dev.to/JS] [A Complete Beginners Guide to JavaScript Modules &lpar;2022 Noobs are Welcome&rpar;](https://dev.to/sojinsamuel/a-complete-beginners-guide-to-javascript-modules-2022-noobs-are-welcome-4lhm)
 - [Dev.to/JS] [How to Write a Simple Test for Your Next.js App](https://dev.to/anichidera/how-to-write-a-simple-test-for-your-nextjs-app-2k1j)
-- [Dev.to/JS] [Array Reduce Method in JavaScript](https://dev.to/kaankorkmaz/array-reduce-method-in-javascript-jc)
-- [Dev.to/JS] [My End OF the week Practice Check my codes out](https://dev.to/aliyugambo/my-end-of-the-week-practice-check-my-codes-out-456j)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
-- [Dev.to/JS] [A native package that you should use on React](https://dev.to/horhorou/a-native-package-that-you-should-use-on-react-3f62)
-- [Dev.to/JS] [Gradient Color Generator](https://dev.to/tilakjain123/gradient-color-generator-3ei1)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
