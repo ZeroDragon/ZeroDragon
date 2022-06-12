@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding react hook&lpar;Part:1&rpar;-useState&lpar;&rpar;](https://dev.to/srishtikprasad/understanding-react-hookpart1-usestate-5he1)
+- [Dev.to/JS] [Modern JavaScript, 10 things you should be using, starting today](https://dev.to/azure/modern-javascript-10-things-you-should-be-using-starting-today-1adm)
+- [Dev.to/JS] [9 Beautiful Cool Text Effects using Google font Effects👌](https://dev.to/gulshanaggarwal/9-beautiful-cool-text-effects-using-google-font-effects-mn6)
+- [Dev.to/JS] [Using Chart JS in Angular App](https://dev.to/prathameshk73/using-chart-js-in-angular-app-11ek)
 - [Dev.to/JS] [15 Beautiful Color Gradients using CSS](https://dev.to/devash98/15-beautiful-colour-gradients-using-css-4em1)
 - [Dev.to/JS] [You either make &#39;var&#39;, &#39;let&#39; or keep &#39;const&#39; in JavaScript](https://dev.to/lodyne/you-either-make-var-let-or-keep-const-in-javascript-g0o)
 - [Dev.to/JS] [HTML | UI Developer JOB Vacancies](https://dev.to/prafulnarkhede/html-ui-developer-job-vacancies-345b)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [&#39;use strict&#39; is not working in VSCode](https://dev.to/mittakarthik/use-strict-is-not-working-in-vscode-11lo)
 - [Dev.to/JS] [How to create a custom Hook in React with typescript?](https://dev.to/ritikbanger/how-to-create-a-custom-hook-in-react-with-typescript-5c1j)
 - [Dev.to/JS] [From No Programming Experience to Web Developer in 11 Small Steps](https://dev.to/ruppysuppy/from-no-programming-experience-to-web-developer-in-11-small-steps-4fbn)
-- [Dev.to/JS] [Use of setTimeout method in Javascript](https://dev.to/therahul_gupta/use-of-settimeout-method-in-javascript-1kb1)
-- [Dev.to/JS] [What are the Best JavaScript Opensource projects to contribute?](https://dev.to/saiarlen/what-are-the-best-javascript-opensource-projects-to-work-on-5d9g)
-- [Dev.to/JS] [Factories and Closures, or Classes and Constructors... Does It Matter?](https://dev.to/parenttobias/factories-and-closures-or-classes-and-constructors-does-it-matter-8p0)
-- [Dev.to/JS] [Immediately Invoked Function Expression](https://dev.to/kimani_dev/immediately-invoked-function-expression-59g0)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
