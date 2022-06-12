@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 JavaScript Concepts You Should Be Familiar With As a Developer](https://dev.to/yashtiwari1k/7-javascript-concepts-you-should-be-familiar-with-as-a-developer-fo3)
+- [Dev.to/JS] [Contemplate with me : mitt.js](https://dev.to/abrahemalhofe/contemplate-with-me-mittjs-39ib)
+- [Dev.to/JS] [HTML tips](https://dev.to/bhaggu/html-tips-3o0o)
+- [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Dev.to/JS] [A Complete Beginners Guide to JavaScript Modules &lpar;2022 Noobs are Welcome&rpar;](https://dev.to/sojinsamuel/a-complete-beginners-guide-to-javascript-modules-2022-noobs-are-welcome-4lhm)
-- [Dev.to/JS] [How to Write a Simple Test for Your Next.js App](https://dev.to/chani24/how-to-write-a-simple-test-for-your-nextjs-app-2k1j)
+- [Dev.to/JS] [How to Write a Simple Test for Your Next.js App](https://dev.to/anichidera/how-to-write-a-simple-test-for-your-nextjs-app-2k1j)
 - [Dev.to/JS] [Array Reduce Method in JavaScript](https://dev.to/kaankorkmaz/array-reduce-method-in-javascript-jc)
 - [Dev.to/JS] [My End OF the week Practice Check my codes out](https://dev.to/aliyugambo/my-end-of-the-week-practice-check-my-codes-out-456j)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
@@ -33,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part IV](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-iv-24p4)
 - [Dev.to/JS] [How to send emails from Node.js with SendInBlue](https://dev.to/thatanjan/how-to-send-emails-from-nodejs-with-sendinblue-1cho)
 - [Dev.to/JS] [Using Web Bluetooth in an Electron App in 2022](https://dev.to/maneetgoyal/using-web-bluetooth-in-an-electron-app-in-2022-4f69)
-- [Dev.to/JS] [Rust in javascript](https://dev.to/akshay9677/rust-in-javascript-5ac2)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
-- [Dev.to/JS] [UI\UX Developer / HTML / UI / Frontend Developer | Remote Links are given in comment.](https://dev.to/prafulnarkhede/uiux-developer-html-ui-frontend-developer-remote-links-are-given-in-comment-383n)
-- [Dev.to/JS] [Which is your favourite react component library?](https://dev.to/eagle1309/which-is-your-favourite-react-component-library-4d37)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways to Spend the Leftovers From Your Kid&#39;s 529 Savings](https://lifehacker.com/all-the-ways-to-spend-the-leftovers-from-your-kids-529-1849039176)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
-- [Lifehacker] [How to Recycle Any Fisher-Price Toy for Free](https://lifehacker.com/how-to-recycle-any-fisher-price-toy-for-free-1849042114)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
