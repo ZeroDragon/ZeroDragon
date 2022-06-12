@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [15 Beautiful Color Gradients using CSS](https://dev.to/devash98/15-beautiful-colour-gradients-using-css-4em1)
+- [Dev.to/JS] [You either make &#39;var&#39;, &#39;let&#39; or keep &#39;const&#39; in JavaScript](https://dev.to/lodyne/you-either-make-var-let-or-keep-const-in-javascript-g0o)
+- [Dev.to/JS] [HTML | UI Developer JOB Vacancies](https://dev.to/prafulnarkhede/html-ui-developer-job-vacancies-345b)
 - [Dev.to/JS] [Hoisting In JavaScript](https://dev.to/abidullah786/hoisting-in-javascript-30b1)
 - [Dev.to/JS] [Setting up Redux using Redux Toolkit](https://dev.to/anjalyyy1/setting-up-redux-using-redux-toolkit-3cen)
 - [Dev.to/JS] [&#39;use strict&#39; is not working in VSCode](https://dev.to/mittakarthik/use-strict-is-not-working-in-vscode-11lo)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are the Best JavaScript Opensource projects to contribute?](https://dev.to/saiarlen/what-are-the-best-javascript-opensource-projects-to-work-on-5d9g)
 - [Dev.to/JS] [Factories and Closures, or Classes and Constructors... Does It Matter?](https://dev.to/parenttobias/factories-and-closures-or-classes-and-constructors-does-it-matter-8p0)
 - [Dev.to/JS] [Immediately Invoked Function Expression](https://dev.to/kimani_dev/immediately-invoked-function-expression-59g0)
-- [Dev.to/JS] [A Cool Way To Learn JavaScript](https://dev.to/s_soumyakanta/a-cool-way-to-learn-javascript-5cbp)
-- [Dev.to/JS] [Make your app speak with React-Speech-kit](https://dev.to/asayerio_techblog/make-your-app-speak-with-react-speech-kit-59o8)
-- [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part II](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-ii-8o0)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
