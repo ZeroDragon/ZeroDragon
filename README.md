@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is JavaScript ? Why use JavaScript? 🔥🚀](https://dev.to/rahmanmajeed/what-is-javascript-why-use-javascript-2ba6)
 - [Dev.to/JS] [7 JavaScript Concepts You Should Be Familiar With As a Developer](https://dev.to/yashtiwari1k/7-javascript-concepts-you-should-be-familiar-with-as-a-developer-fo3)
 - [Dev.to/JS] [Contemplate with me : mitt.js](https://dev.to/abrahemalhofe/contemplate-with-me-mittjs-39ib)
 - [Dev.to/JS] [HTML tips](https://dev.to/bhaggu/html-tips-3o0o)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gradient Color Generator](https://dev.to/tilakjain123/gradient-color-generator-3ei1)
 - [Dev.to/JS] [JSWorld Conference 2022 Summary - 1 June 2022 - Part IV](https://dev.to/mohsen_vaziri/jsworld-conference-2022-summary-1-june-2022-part-iv-24p4)
 - [Dev.to/JS] [How to send emails from Node.js with SendInBlue](https://dev.to/thatanjan/how-to-send-emails-from-nodejs-with-sendinblue-1cho)
-- [Dev.to/JS] [Using Web Bluetooth in an Electron App in 2022](https://dev.to/maneetgoyal/using-web-bluetooth-in-an-electron-app-in-2022-4f69)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
