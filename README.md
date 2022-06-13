@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lizard Engine, A new engine to be?](https://dev.to/mreggo/lizard-engine-a-new-engine-to-be-421k)
+- [Dev.to/JS] [How To Build A Task Management App With React in 2022](https://dev.to/architprajapati/how-to-build-a-task-management-app-with-react-in-2022-4dk0)
+- [Dev.to/JS] [#2.Basic algorithms problems for frontend developers.](https://dev.to/talenttinaapi/2basic-algorithms-problems-for-frontend-developers-5a1d)
 - [Dev.to/JS] [Android Application Projects](https://dev.to/takeoffprojects/android-application-projects-55c0)
 - [Dev.to/JS] [Instagram Profile Picture Telegram Bot!! 🤖](https://dev.to/dedomil/instagram-profile-picture-telegram-bot-2005)
 - [Dev.to/JS] [How has my portfolio evolved?](https://dev.to/tazim404/how-has-my-portfolio-evolved-2nd5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is Getters and Setters in JavaScript](https://dev.to/vetrivel/what-is-getters-and-setters-in-javascript-1pag)
 - [Dev.to/JS] [A Beginner’s Guide To Test Automation With Javascript &lpar;Nightwatch.js&rpar;. Part 4.](https://dev.to/loadero/a-beginners-guide-to-test-automation-with-javascript-nightwatchjs-part-4-3f2d)
 - [Dev.to/JS] [TOP foundations completed](https://dev.to/datamoshing/top-foundations-completed-5bfi)
-- [Dev.to/JS] [The Destructuring Assignment](https://dev.to/stejosi/the-destructuring-assignment-n54)
-- [Dev.to/JS] [FoalTS 2022 survey is open!](https://dev.to/loicpoullain/foalts-2022-survey-is-open-117c)
-- [Dev.to/JS] [Use of setInterval method in Javascript](https://dev.to/therahul_gupta/use-of-setinterval-method-in-javascript-h4o)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
