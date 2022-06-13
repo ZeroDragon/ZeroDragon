@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is javascript?](https://dev.to/abhopewal/what-is-javascript-43di)
+- [Dev.to/JS] [Deep Insights into JavaScript Frameworks](https://dev.to/ossinsight/deep-insights-into-javascript-frameworks-30d2)
+- [Dev.to/JS] [Code Smell 140 - Short Circuit Evaluation](https://dev.to/mcsee/code-smell-140-short-circuit-evaluation-20kc)
+- [Dev.to/JS] [[AWS Experiment] 7 - Using STS:AssumeRole with AWS SDK](https://dev.to/_ben/aws-experiment-7-using-stsassumerole-with-aws-sdk-3lh3)
 - [Dev.to/JS] [Is Virtual DOM overhyped?](https://dev.to/paul_emechebe/is-virtual-dom-overhyped-96)
 - [Dev.to/JS] [Construye en Flow: Aprende FCL - 6. Como consultar el último bloque de la cadena.](https://dev.to/brunogonzales/construye-en-flow-aprende-fcl-6-como-consultar-el-ultimo-bloque-de-la-cadena-4n0o)
 - [Dev.to/JS] [Construye en Flow: Aprende FCL - 5. Obtener una lista de NFTs viviendo una direccion conocida](https://dev.to/onflow/construye-en-flow-aprende-fcl-5-obtener-una-lista-de-nfts-viviendo-una-direccion-conocida-29n7)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I build my Personal Expense Management App and what I learn from it](https://dev.to/pavelkeyzik/how-i-build-my-personal-expense-management-app-and-what-i-learn-from-it-55gg)
 - [Dev.to/JS] [A simple RPG game - personal project to improve my programming skills](https://dev.to/damanita/a-simple-rpg-game-personal-project-to-improve-my-programming-skills-3og7)
 - [Dev.to/JS] [Google chrome extension manifest v3 for beginners](https://dev.to/ericawanja/google-chrome-extension-manifest-v3-for-beginners-5ao3)
-- [Dev.to/JS] [Testing: Better Specs](https://dev.to/noriller/testing-better-specs-2nig)
-- [Dev.to/JS] [Ng-News: Episode 22/23](https://dev.to/rainerhahnekamp/ng-news-episode-2223-503b)
-- [Dev.to/JS] [Typescript - Myths vs Reality](https://dev.to/codeandchaos/lessons-learned-from-a-take-home-assignment-gone-wrong-3210)
-- [Dev.to/JS] [I want help you](https://dev.to/pab2lo/i-want-help-you-20po)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
