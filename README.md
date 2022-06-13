@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Construye en Flow: Aprende FCL - 6. Como consultar el último bloque de la cadena.](https://dev.to/brunogonzales/construye-en-flow-aprende-fcl-6-como-consultar-el-ultimo-bloque-de-la-cadena-4n0o)
 - [Dev.to/JS] [Construye en Flow: Aprende FCL - 5. Obtener una lista de NFTs viviendo una direccion conocida](https://dev.to/onflow/construye-en-flow-aprende-fcl-5-obtener-una-lista-de-nfts-viviendo-una-direccion-conocida-29n7)
 - [Dev.to/JS] [Understanding the Template Element in HTML](https://dev.to/asayerio_techblog/understanding-the-template-element-in-html-3e61)
 - [Dev.to/JS] [React Component Lifecycle](https://dev.to/vkton115/react-component-lifecycle-13c9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Typescript - Myths vs Reality](https://dev.to/codeandchaos/lessons-learned-from-a-take-home-assignment-gone-wrong-3210)
 - [Dev.to/JS] [I want help you](https://dev.to/pab2lo/i-want-help-you-20po)
 - [Dev.to/JS] [What is Node.js?](https://dev.to/ahmedmansoor012/what-is-nodejs-1n98)
-- [Dev.to/JS] [Weekly Digest 23/2022](https://dev.to/marcobiedermann/weekly-digest-232022-1kj9)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
