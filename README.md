@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Get this Browser Extension now!](https://dev.to/sharadcodes/get-this-firefox-extension-now-c9c)
+- [Dev.to/JS] [Learn how to use loops in JavaScript](https://dev.to/azure/learn-how-to-use-loops-in-javascript-4bhb)
+- [Lifehacker] [Cheese Is a Crouton](https://lifehacker.com/cheese-is-a-crouton-1849051473)
 - [Lifehacker] [The 7 Deadly Sins of Being a Co-Worker](https://lifehacker.com/the-7-deadly-sins-of-being-a-co-worker-1849047027)
 - [Dev.to/JS] [BUILDING A FANCY CALCULATOR WITH JAVASCRIPT](https://dev.to/allison_m_08b9005267b3bcf/building-a-fancy-calculator-with-javascript-5c61)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1d5i)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which Open Source Javascript Project can one contribute to?](https://dev.to/glowreeyah/which-open-source-javascript-project-can-one-contribute-to-2enj)
 - [Dev.to/JS] [Let&#39;s create our own selector library.](https://dev.to/frankwisniewski/lets-create-our-own-selector-library-5ei1)
 - [Dev.to/JS] [How React.js taken over the front end web development](https://dev.to/shahbazkhann12/how-reactjs-taken-over-the-front-end-web-development-4hj0)
-- [Dev.to/JS] [Building a live chart with Deno, WebSockets, Chart.js and Materialize](https://dev.to/bobbyiliev/building-a-live-chart-with-deno-websockets-chartjs-and-materialize-3cd7)
-- [Dev.to/JS] [Lizard Engine, A new engine to be?](https://dev.to/mreggo/lizard-engine-a-new-engine-to-be-421k)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need an &#39;If I Go Missing&#39; File](https://lifehacker.com/you-need-an-if-i-go-missing-file-1849040574)
 - [Lifehacker] [How to Write the Most Doable To-Do List](https://lifehacker.com/how-micro-to-do-lists-can-help-you-get-more-done-1849041268)
 - [Lifehacker] [All the Ways to Spend the Leftovers From Your Kid&#39;s 529 Savings](https://lifehacker.com/all-the-ways-to-spend-the-leftovers-from-your-kids-529-1849039176)
-- [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
