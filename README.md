@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 7 Deadly Sins of Being a Co-Worker](https://lifehacker.com/the-7-deadly-sins-of-being-a-co-worker-1849047027)
 - [Dev.to/JS] [BUILDING A FANCY CALCULATOR WITH JAVASCRIPT](https://dev.to/allison_m_08b9005267b3bcf/building-a-fancy-calculator-with-javascript-5c61)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1d5i)
 - [Dev.to/JS] [Working with Node.js File System](https://dev.to/godswillumukoro/working-with-nodejs-file-system-2c7d)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Write the Most Doable To-Do List](https://lifehacker.com/how-micro-to-do-lists-can-help-you-get-more-done-1849041268)
 - [Lifehacker] [All the Ways to Spend the Leftovers From Your Kid&#39;s 529 Savings](https://lifehacker.com/all-the-ways-to-spend-the-leftovers-from-your-kids-529-1849039176)
 - [Lifehacker] [What to Do Before You Elope so Your Marriage Is Actually Legal](https://lifehacker.com/what-to-do-before-you-elope-so-your-marriage-is-actuall-1849042486)
-- [Lifehacker] [All the New Features Your Older Apple Products Won’t Be Getting](https://lifehacker.com/all-the-new-features-your-older-apple-products-won-t-be-1849040851)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
