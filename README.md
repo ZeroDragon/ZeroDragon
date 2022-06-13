@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [BUILDING A FANCY CALCULATOR WITH JAVASCRIPT](https://dev.to/allison_m_08b9005267b3bcf/building-a-fancy-calculator-with-javascript-5c61)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1d5i)
+- [Dev.to/JS] [Working with Node.js File System](https://dev.to/godswillumukoro/working-with-nodejs-file-system-2c7d)
+- [Dev.to/JS] [Namespaces are just fine - No need to destructure every object in JavaScript](https://dev.to/michi/namespaces-are-just-fine-no-need-to-destructure-every-object-in-javascript-g8l)
+- [Dev.to/JS] [How to Improve the Usability of JavaScript Web Applications with Web Vitals](https://dev.to/syncfusion/how-to-improve-the-usability-of-javascript-web-applications-with-web-vitals-20c8)
 - [Dev.to/JS] [JavaScript 的 var、let 與 const](https://dev.to/codemee/javascript-de-var-let-yu-const-4e61)
 - [Dev.to/JS] [JavaScript Interview Questions Part 1](https://dev.to/arjuncodess/javascript-interview-questions-part-1-1mo0)
 - [Dev.to/JS] [Which Open Source Javascript Project can one contribute to?](https://dev.to/glowreeyah/which-open-source-javascript-project-can-one-contribute-to-2enj)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How React.js taken over the front end web development](https://dev.to/shahbazkhann12/how-reactjs-taken-over-the-front-end-web-development-4hj0)
 - [Dev.to/JS] [Building a live chart with Deno, WebSockets, Chart.js and Materialize](https://dev.to/bobbyiliev/building-a-live-chart-with-deno-websockets-chartjs-and-materialize-3cd7)
 - [Dev.to/JS] [Lizard Engine, A new engine to be?](https://dev.to/mreggo/lizard-engine-a-new-engine-to-be-421k)
-- [Dev.to/JS] [How To Build A Task Management App With React in 2022](https://dev.to/architprajapati/how-to-build-a-task-management-app-with-react-in-2022-4dk0)
-- [Dev.to/JS] [#2.Basic algorithms problems for frontend developers.](https://dev.to/talenttinaapi/2basic-algorithms-problems-for-frontend-developers-5a1d)
-- [Dev.to/JS] [Android Application Projects](https://dev.to/takeoffprojects/android-application-projects-55c0)
-- [Dev.to/JS] [Instagram Profile Picture Telegram Bot!! 🤖](https://dev.to/dedomil/instagram-profile-picture-telegram-bot-2005)
-- [Dev.to/JS] [How has my portfolio evolved?](https://dev.to/tazim404/how-has-my-portfolio-evolved-2nd5)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
