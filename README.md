@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How has my portfolio evolved?](https://dev.to/tazim404/how-has-my-portfolio-evolved-2nd5)
+- [Dev.to/JS] [Pick one: VS code or Sublime Text](https://dev.to/deepakydv9315/pick-one-vs-code-or-sublime-text-2dpe)
 - [Dev.to/JS] [Building Blog with Nuxt 2 and Contentrain Headless CMS](https://dev.to/jacobandrewsky/building-blog-with-nuxt-2-and-contentrain-headless-cms-33dn)
 - [Dev.to/JS] [Access JavaScript variable from a URL using php and regex](https://dev.to/sh20raj/access-javascript-variable-from-a-url-using-php-and-regex-3bjn)
 - [Dev.to/JS] [What is Getters and Setters in JavaScript](https://dev.to/vetrivel/what-is-getters-and-setters-in-javascript-1pag)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Use of setInterval method in Javascript](https://dev.to/therahul_gupta/use-of-setinterval-method-in-javascript-h4o)
 - [Dev.to/JS] [async and await in javascript](https://dev.to/digomic/async-and-await-in-javascript-2bc4)
 - [Dev.to/JS] [Learn how to Dynamically Add App Features with AWS AppConfig Feature Flags &lpar;+ Linux 101&rpar;](https://dev.to/aws-builders/learn-how-to-dynamically-add-app-features-with-aws-appconfig-feature-flags-linux-101-4cai)
-- [Dev.to/JS] [Construye en Flow: Aprende FCL - 7. Como consultar una cuenta en Flow por su dirección](https://dev.to/onflow/construye-en-flow-aprende-fcl-7-como-consultar-una-cuenta-en-flow-por-su-direccion-1jji)
-- [Dev.to/JS] [What is javascript?](https://dev.to/abhopewal/what-is-javascript-43di)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
