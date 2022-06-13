@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Tech communities](https://dev.to/wonuola_w/tech-communities-5a2i)
+- [Dev.to/JS] [Fastify Basics Tutorial | Alternative to Express.js](https://dev.to/thatanjan/fastify-basics-tutorial-alternative-to-expressjs-5ci8)
+- [Dev.to/JS] [Countdown to js13kGames 2022](https://dev.to/js13kgames/countdown-to-js13kgames-2022-20md)
+- [Dev.to/JS] [Is math important in web development?](https://dev.to/elayachiabdelmajid/is-math-important-in-web-development-4ac)
+- [Lifehacker] [Escape the &#39;Grind Mentality&#39; and Stop Saving Every Single Penny](https://lifehacker.com/escape-the-grind-mentality-and-stop-saving-every-fuck-1849044866)
 - [Dev.to/JS] [Get this Browser Extension now!](https://dev.to/sharadcodes/get-this-firefox-extension-now-c9c)
 - [Dev.to/JS] [Learn how to use loops in JavaScript](https://dev.to/azure/learn-how-to-use-loops-in-javascript-4bhb)
 - [Lifehacker] [Cheese Is a Crouton](https://lifehacker.com/cheese-is-a-crouton-1849051473)
@@ -33,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Namespaces are just fine - No need to destructure every object in JavaScript](https://dev.to/michi/namespaces-are-just-fine-no-need-to-destructure-every-object-in-javascript-g8l)
 - [Dev.to/JS] [How to Improve the Usability of JavaScript Web Applications with Web Vitals](https://dev.to/syncfusion/how-to-improve-the-usability-of-javascript-web-applications-with-web-vitals-20c8)
 - [Dev.to/JS] [JavaScript 的 var、let 與 const](https://dev.to/codemee/javascript-de-var-let-yu-const-4e61)
-- [Dev.to/JS] [JavaScript Interview Questions Part 1](https://dev.to/arjuncodess/javascript-interview-questions-part-1-1mo0)
-- [Dev.to/JS] [Which Open Source Javascript Project can one contribute to?](https://dev.to/glowreeyah/which-open-source-javascript-project-can-one-contribute-to-2enj)
-- [Dev.to/JS] [Let&#39;s create our own selector library.](https://dev.to/frankwisniewski/lets-create-our-own-selector-library-5ei1)
-- [Dev.to/JS] [How React.js taken over the front end web development](https://dev.to/shahbazkhann12/how-reactjs-taken-over-the-front-end-web-development-4hj0)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who is Graggle Simpson?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-gr-1849043884)
 - [Lifehacker] [You Need an &#39;If I Go Missing&#39; File](https://lifehacker.com/you-need-an-if-i-go-missing-file-1849040574)
 - [Lifehacker] [How to Write the Most Doable To-Do List](https://lifehacker.com/how-micro-to-do-lists-can-help-you-get-more-done-1849041268)
-- [Lifehacker] [All the Ways to Spend the Leftovers From Your Kid&#39;s 529 Savings](https://lifehacker.com/all-the-ways-to-spend-the-leftovers-from-your-kids-529-1849039176)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
