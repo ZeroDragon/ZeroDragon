@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
+- [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
+- [Dev.to/JS] [Implementing Dark Mode in React](https://dev.to/horsemaker/implementing-dark-mode-in-react-17he)
+- [Dev.to/JS] [Web Storage API - Explain Like I&#39;m Five](https://dev.to/patik123/web-storage-api-explain-like-im-five-7mm)
+- [Dev.to/JS] [Build a basic form in react without a library](https://dev.to/iretos/build-a-basic-form-in-react-without-a-library-3dla)
 - [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
 - [Dev.to/JS] [Drag and Drop feature in HTML and Vanilla JS](https://dev.to/subhendudash02/drag-and-drop-feature-in-html-and-vanilla-js-2nk0)
 - [Dev.to/JS] [Header text colorise and animate effects](https://dev.to/kaliedarik/header-text-colorise-and-animate-effects-28o4)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Buy a Used iPhone, Now More Than Ever](https://lifehacker.com/why-you-should-buy-a-used-iphone-now-more-than-ever-1849053369)
 - [Dev.to/JS] [Paracetamol.test.js🧪| #2: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-2-testea-este-codigo-javascript-2pba)
 - [Dev.to/JS] [Paracetamol.js💊| #140: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-140-explica-este-codigo-javascript-2n3g)
-- [Dev.to/JS] [JavaScript DOM](https://dev.to/patilganesh1010/javascript-dom-3929)
-- [Dev.to/JS] [ES6? ECMAScript? Entenda o que isso tem a ver com o Javascript](https://dev.to/magoacademico/es6-ecmascript-entenda-o-que-isso-tem-a-ver-com-o-javascript-4coc)
-- [Dev.to/JS] [Responsive Store React](https://dev.to/lucvankerkvoort/responsive-store-react-442)
 - [Lifehacker] [Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/cheap-ways-to-make-your-house-look-more-expensive-1849044863)
 - [Lifehacker] [How to Stop Someone From Editing the iMessages They Send You](https://lifehacker.com/how-to-stop-someone-from-editing-the-imessages-they-sen-1849052774)
 - [Lifehacker] [How Often You Should Mow Your Lawn, Based on the Type of Grass You Have](https://lifehacker.com/how-often-you-should-mow-your-lawn-based-on-the-type-o-1849052919)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Figure Out Where You First Heard That Damn Song](https://lifehacker.com/how-to-figure-out-where-you-first-heard-that-damn-song-1849046553)
 - [Lifehacker] [Can You Fight a Shark and Win?](https://lifehacker.com/can-you-fight-a-shark-and-win-1849045603)
 - [Lifehacker] [When Your Landlord Can Legally Enter Your Apartment &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-your-landlord-can-legally-enter-your-apartment-an-1849045944)
-- [Lifehacker] [Five of the Best Dinosaur Movies and Documentaries Ever Made](https://lifehacker.com/five-of-the-best-dinosaur-movies-and-documentaries-ever-1849045596)
-- [Lifehacker] [The Best Ways to Play Vintage Games on Your Modern TV](https://lifehacker.com/the-best-ways-to-play-vintage-games-on-your-modern-tv-1849021233)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
