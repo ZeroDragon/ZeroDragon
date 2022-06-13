@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript 的 var、let 與 const](https://dev.to/codemee/javascript-de-var-let-yu-const-4e61)
+- [Dev.to/JS] [JavaScript Interview Questions Part 1](https://dev.to/arjuncodess/javascript-interview-questions-part-1-1mo0)
 - [Dev.to/JS] [Which Open Source Javascript Project can one contribute to?](https://dev.to/glowreeyah/which-open-source-javascript-project-can-one-contribute-to-2enj)
 - [Dev.to/JS] [Let&#39;s create our own selector library.](https://dev.to/frankwisniewski/lets-create-our-own-selector-library-5ei1)
 - [Dev.to/JS] [How React.js taken over the front end web development](https://dev.to/shahbazkhann12/how-reactjs-taken-over-the-front-end-web-development-4hj0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Android Application Projects](https://dev.to/takeoffprojects/android-application-projects-55c0)
 - [Dev.to/JS] [Instagram Profile Picture Telegram Bot!! 🤖](https://dev.to/dedomil/instagram-profile-picture-telegram-bot-2005)
 - [Dev.to/JS] [How has my portfolio evolved?](https://dev.to/tazim404/how-has-my-portfolio-evolved-2nd5)
-- [Dev.to/JS] [Pick one: VS code or Sublime Text](https://dev.to/deepakydv9315/pick-one-vs-code-or-sublime-text-2dpe)
-- [Dev.to/JS] [Building Blog with Nuxt 2 and Contentrain Headless CMS](https://dev.to/jacobandrewsky/building-blog-with-nuxt-2-and-contentrain-headless-cms-33dn)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
