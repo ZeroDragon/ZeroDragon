@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Someone From Editing the iMessages They Send You](https://lifehacker.com/how-to-stop-someone-from-editing-the-imessages-they-sen-1849052774)
+- [Lifehacker] [How Often You Should Mow Your Lawn, Based on the Type of Grass You Have](https://lifehacker.com/how-often-you-should-mow-your-lawn-based-on-the-type-o-1849052919)
 - [Dev.to/JS] [Tech communities](https://dev.to/wonuola_w/tech-communities-5a2i)
 - [Dev.to/JS] [Fastify Basics Tutorial | Alternative to Express.js](https://dev.to/thatanjan/fastify-basics-tutorial-alternative-to-expressjs-5ci8)
 - [Dev.to/JS] [Countdown to js13kGames 2022](https://dev.to/js13kgames/countdown-to-js13kgames-2022-20md)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
 - [Lifehacker] [How to React to Road Rage When Your Kids Are in the Car](https://lifehacker.com/how-to-react-to-road-rage-when-your-kids-are-in-the-car-1849042942)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who is Graggle Simpson?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-gr-1849043884)
-- [Lifehacker] [You Need an &#39;If I Go Missing&#39; File](https://lifehacker.com/you-need-an-if-i-go-missing-file-1849040574)
-- [Lifehacker] [How to Write the Most Doable To-Do List](https://lifehacker.com/how-micro-to-do-lists-can-help-you-get-more-done-1849041268)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
