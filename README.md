@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dynamic Module Imports in javascript](https://dev.to/raaj/dynamic-module-imports-in-javascript-30fl)
+- [Dev.to/JS] [How to Solve Cors Error in Frontend](https://dev.to/raaj/how-to-solve-cors-error-in-frontend-5630)
+- [Lifehacker] [Five Carry-On Essentials for Your Next Flight](https://lifehacker.com/five-carry-on-essentials-for-your-next-flight-1849053795)
+- [Dev.to/JS] [Make your React Native app 3x smaller with one simple command](https://dev.to/raaj/make-your-react-native-app-3x-smaller-with-one-simple-command-3opc)
+- [Dev.to/JS] [Reticências com tooltip automático &lpar;Vue&rpar;](https://dev.to/jonyhayama/reticencias-com-tooltip-automatico-vue-40pj)
+- [Lifehacker] [Why You Should Buy a Used iPhone, Now More Than Ever](https://lifehacker.com/why-you-should-buy-a-used-iphone-now-more-than-ever-1849053369)
 - [Dev.to/JS] [Paracetamol.test.js🧪| #2: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-2-testea-este-codigo-javascript-2pba)
 - [Dev.to/JS] [Paracetamol.js💊| #140: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-140-explica-este-codigo-javascript-2n3g)
 - [Dev.to/JS] [JavaScript DOM](https://dev.to/patilganesh1010/javascript-dom-3929)
@@ -34,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tech communities](https://dev.to/wonuola_w/tech-communities-5a2i)
 - [Dev.to/JS] [Fastify Basics Tutorial | Alternative to Express.js](https://dev.to/thatanjan/fastify-basics-tutorial-alternative-to-expressjs-5ci8)
 - [Dev.to/JS] [Countdown to js13kGames 2022](https://dev.to/js13kgames/countdown-to-js13kgames-2022-20md)
-- [Dev.to/JS] [Is math important in web development?](https://dev.to/elayachiabdelmajid/is-math-important-in-web-development-4ac)
 - [Lifehacker] [Escape the &#39;Grind Mentality&#39; and Stop Saving Every Single Penny](https://lifehacker.com/escape-the-grind-mentality-and-stop-saving-every-fuck-1849044866)
-- [Dev.to/JS] [Get this Browser Extension now!](https://dev.to/sharadcodes/get-this-firefox-extension-now-c9c)
-- [Dev.to/JS] [Learn how to use loops in JavaScript](https://dev.to/azure/learn-how-to-use-loops-in-javascript-4bhb)
 - [Lifehacker] [Cheese Is a Crouton](https://lifehacker.com/cheese-is-a-crouton-1849051473)
 - [Lifehacker] [The 7 Deadly Sins of Being a Co-Worker](https://lifehacker.com/the-7-deadly-sins-of-being-a-co-worker-1849047027)
-- [Dev.to/JS] [BUILDING A FANCY CALCULATOR WITH JAVASCRIPT](https://dev.to/allison_m_08b9005267b3bcf/building-a-fancy-calculator-with-javascript-5c61)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stuff Marshmallows With Chocolate Chips for Easier S&#39;mores](https://lifehacker.com/stuff-marshmallows-with-chocolate-chips-for-easier-smor-1849046162)
 - [Lifehacker] [How to Try Windows 11&#39;s New File Explorer Tabs Before It Comes Out](https://lifehacker.com/how-to-try-windows-11s-new-file-explorer-tabs-before-it-1849045449)
 - [Lifehacker] [What&#39;s So Special About White Whiskey?](https://lifehacker.com/whats-so-special-about-white-whiskey-1849044936)
-- [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
-- [Lifehacker] [How to React to Road Rage When Your Kids Are in the Car](https://lifehacker.com/how-to-react-to-road-rage-when-your-kids-are-in-the-car-1849042942)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
