@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A practical example of Suspense in React 18](https://dev.to/darkmavis1980/a-practical-example-of-suspense-in-react-18-3lln)
+- [Dev.to/JS] [Funciones de flecha en JavaScript + this](https://dev.to/jairdev/funciones-de-flecha-en-javascript-this-480a)
+- [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
+- [Dev.to/JS] [Deconstruction to not work](https://dev.to/ivkemilioner/deconstruction-to-not-work-23lg)
+- [Dev.to/JS] [Custom OTP input component with VueJS](https://dev.to/otrex/custom-otp-input-component-with-vuejs-54dl)
+- [Dev.to/JS] [Deploying WordPress on Kubernetes](https://dev.to/brunoa19/deploying-wordpress-on-kubernetes-18ao)
 - [Dev.to/JS] [How to scrap data with Cheerio](https://dev.to/rtagliavia/how-to-scrap-data-with-cheerio-cdc)
 - [Dev.to/JS] [11ty Second 11ty: Basics of Collections](https://dev.to/brob/11ty-second-11ty-basics-of-collections-286f)
 - [Dev.to/JS] [How many people has loops affected their system during coding 😀](https://dev.to/callmebobonwa/how-many-people-has-loops-affected-their-system-during-coding-3mk)
@@ -33,14 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a basic form in react without a library](https://dev.to/iretos/build-a-basic-form-in-react-without-a-library-3dla)
 - [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
 - [Dev.to/JS] [Drag and Drop feature in HTML and Vanilla JS](https://dev.to/subhendudash02/drag-and-drop-feature-in-html-and-vanilla-js-2nk0)
-- [Dev.to/JS] [Header text colorise and animate effects](https://dev.to/kaliedarik/header-text-colorise-and-animate-effects-28o4)
 - [Lifehacker] [You Can Revive Saggy Old Couch Cushions for Cheap](https://lifehacker.com/you-can-revive-saggy-old-couch-cushions-for-cheap-1849053477)
 - [Lifehacker] [What to Do If You Think Your Partner Has Borderline Personality Disorder](https://lifehacker.com/what-to-do-if-you-think-your-partner-has-borderline-per-1849053402)
-- [Dev.to/JS] [How to build a headless WordPress with Angular](https://dev.to/richkurtzman/how-to-build-a-headless-wordpress-with-angular-1bi0)
-- [Dev.to/JS] [Dynamic Module Imports in javascript](https://dev.to/raaj/dynamic-module-imports-in-javascript-30fl)
-- [Dev.to/JS] [How to Solve Cors Error in Frontend](https://dev.to/raaj/how-to-solve-cors-error-in-frontend-5630)
 - [Lifehacker] [Five Carry-On Essentials for Your Next Flight](https://lifehacker.com/five-carry-on-essentials-for-your-next-flight-1849053795)
-- [Dev.to/JS] [Make your React Native app 3x smaller with one simple command](https://dev.to/raaj/make-your-react-native-app-3x-smaller-with-one-simple-command-3opc)
 - [Lifehacker] [Why You Should Buy a Used iPhone, Now More Than Ever](https://lifehacker.com/why-you-should-buy-a-used-iphone-now-more-than-ever-1849053369)
 - [Lifehacker] [Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/cheap-ways-to-make-your-house-look-more-expensive-1849044863)
 - [Lifehacker] [How to Stop Someone From Editing the iMessages They Send You](https://lifehacker.com/how-to-stop-someone-from-editing-the-imessages-they-sen-1849052774)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
 - [Lifehacker] [How to Figure Out Where You First Heard That Damn Song](https://lifehacker.com/how-to-figure-out-where-you-first-heard-that-damn-song-1849046553)
 - [Lifehacker] [Can You Fight a Shark and Win?](https://lifehacker.com/can-you-fight-a-shark-and-win-1849045603)
-- [Lifehacker] [When Your Landlord Can Legally Enter Your Apartment &lpar;and When They Can&#39;t&rpar;](https://lifehacker.com/when-your-landlord-can-legally-enter-your-apartment-an-1849045944)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
