@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.test.js🧪| #2: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-2-testea-este-codigo-javascript-2pba)
+- [Dev.to/JS] [Paracetamol.js💊| #140: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-140-explica-este-codigo-javascript-2n3g)
+- [Dev.to/JS] [JavaScript DOM](https://dev.to/patilganesh1010/javascript-dom-3929)
+- [Dev.to/JS] [ES6? ECMAScript? Entenda o que isso tem a ver com o Javascript](https://dev.to/magoacademico/es6-ecmascript-entenda-o-que-isso-tem-a-ver-com-o-javascript-4coc)
+- [Dev.to/JS] [Responsive Store React](https://dev.to/lucvankerkvoort/responsive-store-react-442)
+- [Lifehacker] [Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/cheap-ways-to-make-your-house-look-more-expensive-1849044863)
 - [Lifehacker] [How to Stop Someone From Editing the iMessages They Send You](https://lifehacker.com/how-to-stop-someone-from-editing-the-imessages-they-sen-1849052774)
 - [Lifehacker] [How Often You Should Mow Your Lawn, Based on the Type of Grass You Have](https://lifehacker.com/how-often-you-should-mow-your-lawn-based-on-the-type-o-1849052919)
 - [Dev.to/JS] [Tech communities](https://dev.to/wonuola_w/tech-communities-5a2i)
@@ -35,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cheese Is a Crouton](https://lifehacker.com/cheese-is-a-crouton-1849051473)
 - [Lifehacker] [The 7 Deadly Sins of Being a Co-Worker](https://lifehacker.com/the-7-deadly-sins-of-being-a-co-worker-1849047027)
 - [Dev.to/JS] [BUILDING A FANCY CALCULATOR WITH JAVASCRIPT](https://dev.to/allison_m_08b9005267b3bcf/building-a-fancy-calculator-with-javascript-5c61)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💀.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1d5i)
-- [Dev.to/JS] [Working with Node.js File System](https://dev.to/godswillumukoro/working-with-nodejs-file-system-2c7d)
-- [Dev.to/JS] [Namespaces are just fine - No need to destructure every object in JavaScript](https://dev.to/michi/namespaces-are-just-fine-no-need-to-destructure-every-object-in-javascript-g8l)
-- [Dev.to/JS] [How to Improve the Usability of JavaScript Web Applications with Web Vitals](https://dev.to/syncfusion/how-to-improve-the-usability-of-javascript-web-applications-with-web-vitals-20c8)
-- [Dev.to/JS] [JavaScript 的 var、let 與 const](https://dev.to/codemee/javascript-de-var-let-yu-const-4e61)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s So Special About White Whiskey?](https://lifehacker.com/whats-so-special-about-white-whiskey-1849044936)
 - [Lifehacker] [15 Great Feminist Movies That Fail the Bechdel Test](https://lifehacker.com/15-great-feminist-movies-that-fail-the-bechdel-test-1849038944)
 - [Lifehacker] [How to React to Road Rage When Your Kids Are in the Car](https://lifehacker.com/how-to-react-to-road-rage-when-your-kids-are-in-the-car-1849042942)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who is Graggle Simpson?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-who-is-gr-1849043884)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
