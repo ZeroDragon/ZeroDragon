@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to scrap data with Cheerio](https://dev.to/rtagliavia/how-to-scrap-data-with-cheerio-cdc)
+- [Dev.to/JS] [11ty Second 11ty: Basics of Collections](https://dev.to/brob/11ty-second-11ty-basics-of-collections-286f)
+- [Dev.to/JS] [How many people has loops affected their system during coding 😀](https://dev.to/callmebobonwa/how-many-people-has-loops-affected-their-system-during-coding-3mk)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
 - [Dev.to/JS] [Implementing Dark Mode in React](https://dev.to/horsemaker/implementing-dark-mode-in-react-17he)
@@ -38,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Solve Cors Error in Frontend](https://dev.to/raaj/how-to-solve-cors-error-in-frontend-5630)
 - [Lifehacker] [Five Carry-On Essentials for Your Next Flight](https://lifehacker.com/five-carry-on-essentials-for-your-next-flight-1849053795)
 - [Dev.to/JS] [Make your React Native app 3x smaller with one simple command](https://dev.to/raaj/make-your-react-native-app-3x-smaller-with-one-simple-command-3opc)
-- [Dev.to/JS] [Reticências com tooltip automático &lpar;Vue&rpar;](https://dev.to/jonyhayama/reticencias-com-tooltip-automatico-vue-40pj)
 - [Lifehacker] [Why You Should Buy a Used iPhone, Now More Than Ever](https://lifehacker.com/why-you-should-buy-a-used-iphone-now-more-than-ever-1849053369)
-- [Dev.to/JS] [Paracetamol.test.js🧪| #2: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-2-testea-este-codigo-javascript-2pba)
-- [Dev.to/JS] [Paracetamol.js💊| #140: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-140-explica-este-codigo-javascript-2n3g)
 - [Lifehacker] [Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/cheap-ways-to-make-your-house-look-more-expensive-1849044863)
 - [Lifehacker] [How to Stop Someone From Editing the iMessages They Send You](https://lifehacker.com/how-to-stop-someone-from-editing-the-imessages-they-sen-1849052774)
 - [Lifehacker] [How Often You Should Mow Your Lawn, Based on the Type of Grass You Have](https://lifehacker.com/how-often-you-should-mow-your-lawn-based-on-the-type-o-1849052919)
