@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Android Application Projects](https://dev.to/takeoffprojects/android-application-projects-55c0)
+- [Dev.to/JS] [Instagram Profile Picture Telegram Bot!! 🤖](https://dev.to/dedomil/instagram-profile-picture-telegram-bot-2005)
 - [Dev.to/JS] [How has my portfolio evolved?](https://dev.to/tazim404/how-has-my-portfolio-evolved-2nd5)
 - [Dev.to/JS] [Pick one: VS code or Sublime Text](https://dev.to/deepakydv9315/pick-one-vs-code-or-sublime-text-2dpe)
 - [Dev.to/JS] [Building Blog with Nuxt 2 and Contentrain Headless CMS](https://dev.to/jacobandrewsky/building-blog-with-nuxt-2-and-contentrain-headless-cms-33dn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Destructuring Assignment](https://dev.to/stejosi/the-destructuring-assignment-n54)
 - [Dev.to/JS] [FoalTS 2022 survey is open!](https://dev.to/loicpoullain/foalts-2022-survey-is-open-117c)
 - [Dev.to/JS] [Use of setInterval method in Javascript](https://dev.to/therahul_gupta/use-of-setinterval-method-in-javascript-h4o)
-- [Dev.to/JS] [async and await in javascript](https://dev.to/digomic/async-and-await-in-javascript-2bc4)
-- [Dev.to/JS] [Learn how to Dynamically Add App Features with AWS AppConfig Feature Flags &lpar;+ Linux 101&rpar;](https://dev.to/aws-builders/learn-how-to-dynamically-add-app-features-with-aws-appconfig-feature-flags-linux-101-4cai)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
