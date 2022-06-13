@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which Open Source Javascript Project can one contribute to?](https://dev.to/glowreeyah/which-open-source-javascript-project-can-one-contribute-to-2enj)
+- [Dev.to/JS] [Let&#39;s create our own selector library.](https://dev.to/frankwisniewski/lets-create-our-own-selector-library-5ei1)
+- [Dev.to/JS] [How React.js taken over the front end web development](https://dev.to/shahbazkhann12/how-reactjs-taken-over-the-front-end-web-development-4hj0)
+- [Dev.to/JS] [Building a live chart with Deno, WebSockets, Chart.js and Materialize](https://dev.to/bobbyiliev/building-a-live-chart-with-deno-websockets-chartjs-and-materialize-3cd7)
 - [Dev.to/JS] [Lizard Engine, A new engine to be?](https://dev.to/mreggo/lizard-engine-a-new-engine-to-be-421k)
 - [Dev.to/JS] [How To Build A Task Management App With React in 2022](https://dev.to/architprajapati/how-to-build-a-task-management-app-with-react-in-2022-4dk0)
 - [Dev.to/JS] [#2.Basic algorithms problems for frontend developers.](https://dev.to/talenttinaapi/2basic-algorithms-problems-for-frontend-developers-5a1d)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How has my portfolio evolved?](https://dev.to/tazim404/how-has-my-portfolio-evolved-2nd5)
 - [Dev.to/JS] [Pick one: VS code or Sublime Text](https://dev.to/deepakydv9315/pick-one-vs-code-or-sublime-text-2dpe)
 - [Dev.to/JS] [Building Blog with Nuxt 2 and Contentrain Headless CMS](https://dev.to/jacobandrewsky/building-blog-with-nuxt-2-and-contentrain-headless-cms-33dn)
-- [Dev.to/JS] [Access JavaScript variable from a URL using php and regex](https://dev.to/sh20raj/access-javascript-variable-from-a-url-using-php-and-regex-3bjn)
-- [Dev.to/JS] [What is Getters and Setters in JavaScript](https://dev.to/vetrivel/what-is-getters-and-setters-in-javascript-1pag)
-- [Dev.to/JS] [A Beginner’s Guide To Test Automation With Javascript &lpar;Nightwatch.js&rpar;. Part 4.](https://dev.to/loadero/a-beginners-guide-to-test-automation-with-javascript-nightwatchjs-part-4-3f2d)
-- [Dev.to/JS] [TOP foundations completed](https://dev.to/datamoshing/top-foundations-completed-5bfi)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
