@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React + TypeScript + ESLint + Prettier Full Setup ✈](https://dev.to/suchintan/reacttypescripteslint-prettier-full-setup-p7j)
 - [Dev.to/JS] [Wasp - language for developing full-stack Javascript web apps with no boilerplate](https://dev.to/wasp/wasp-language-for-developing-full-stack-javascript-web-apps-with-no-boilerplate-2fo4)
 - [Dev.to/JS] [How to deploy an Astro site](https://dev.to/whitep4nth3r/how-to-deploy-an-astro-site-m8h)
 - [Dev.to/JS] [Hitchweb is now Open Source | 🚀 OSS 🚀](https://dev.to/rajeshj3/hitchweb-is-now-open-source-oss-3lh3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Select button in html](https://dev.to/shraysalvi/select-button-in-html-4ggd)
 - [Dev.to/JS] [Coinbase Interview Part IV](https://dev.to/shreyvijayvargiya/coinbase-interview-part-iv-313)
 - [Dev.to/JS] [Slice Vs Splice in Javascript](https://dev.to/deepachaurasia1/slice-vs-splice-in-javascript-4knn)
-- [Dev.to/JS] [fs.writeSync](https://dev.to/radhe65gupta/fswritesync-50mh)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
