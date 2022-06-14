@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Wasp - language for developing full-stack Javascript web apps with no boilerplate](https://dev.to/wasp/wasp-language-for-developing-full-stack-javascript-web-apps-with-no-boilerplate-2fo4)
+- [Dev.to/JS] [How to deploy an Astro site](https://dev.to/whitep4nth3r/how-to-deploy-an-astro-site-m8h)
+- [Dev.to/JS] [Hitchweb is now Open Source | 🚀 OSS 🚀](https://dev.to/rajeshj3/hitchweb-is-now-open-source-oss-3lh3)
 - [Dev.to/JS] [Function Declaration vs Function Expression](https://dev.to/jarethtan/function-declaration-vs-function-expression-2ndb)
 - [Dev.to/JS] [How to Use MQTT in Node.js](https://dev.to/emqtech/how-to-use-mqtt-in-nodejs-15c4)
 - [Dev.to/JS] [What is your GitHub profile? Share it here!](https://dev.to/dantechnologics/what-is-your-github-profile-share-it-here-5de1)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Coinbase Interview Part IV](https://dev.to/shreyvijayvargiya/coinbase-interview-part-iv-313)
 - [Dev.to/JS] [Slice Vs Splice in Javascript](https://dev.to/deepachaurasia1/slice-vs-splice-in-javascript-4knn)
 - [Dev.to/JS] [fs.writeSync](https://dev.to/radhe65gupta/fswritesync-50mh)
-- [Dev.to/JS] [is there any possibility to print pdf directly to the default printer without any popup](https://dev.to/karthikeyans1998/is-there-any-possibility-to-print-pdf-directly-to-the-default-printer-without-any-popup-1em5)
-- [Dev.to/JS] [Callback in Javascript](https://dev.to/therahul_gupta/callback-in-javascript-30cl)
-- [Dev.to/JS] [There are 10 types of people in this world...](https://dev.to/mattborja/there-are-10-types-of-people-in-this-world-5581)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
