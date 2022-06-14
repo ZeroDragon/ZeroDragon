@@ -23,8 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [8 Ways We Use Euphemisms to Speak About the Unspeakable](https://lifehacker.com/8-ways-we-use-euphemisms-to-speak-about-the-unspeakable-1849060696)
+- [Dev.to/JS] [Google identity service/Google Auth 2022 in React node](https://dev.to/sahilkashyap64/google-identity-servicegoogle-auth-2022-in-react-node-27lh)
+- [Lifehacker] [50 of the Cheapest Day Trips to Take Across the US](https://lifehacker.com/50-of-the-cheapest-day-trips-to-take-across-the-us-1849058582)
+- [Dev.to/JS] [Setting Up Your First WebGL Project With CurtainsJS - Four Part Setup](https://dev.to/hr21don/setting-up-your-first-webgl-project-with-curtainsjs-four-part-setup-3l3m)
+- [Dev.to/JS] [Paracetamol.js💊| #141: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-141-explica-este-codigo-javascript-5gp)
+- [Lifehacker] [How to Make a Good Vinaigrette With Cheap Oil and Vinegar](https://lifehacker.com/how-to-make-a-good-vinaigrette-with-cheap-oil-and-vineg-1849060494)
 - [Dev.to/JS] [Modifying classes in mapped list items in Vue3](https://dev.to/muratcanyuksel/modifying-classes-in-mapped-list-items-in-vue3-1md6)
-- [Lifehacker] [You Should Probably Change Your Phone Number](https://lifehacker.com/you-should-probably-change-your-phone-number-1849059296)
+- [Lifehacker] [Why You Should Change Your Phone Number](https://lifehacker.com/you-should-probably-change-your-phone-number-1849059296)
 - [Lifehacker] [You Can Finally Transfer Your WhatsApp Chats Between iPhone and Android [Updated]](https://lifehacker.com/you-can-finally-transfer-your-whatsapp-chats-between-ip-1847981775)
 - [Dev.to/JS] [Working With Remix-Router In React JS - A Look at New Data APIs in DataBrowserRouter](https://dev.to/aaronksaunders/working-with-remix-router-in-react-js-a-look-at-new-data-apis-in-databrowserrouter-1b0l)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
@@ -41,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Quickest Ways to Redownload Your Apple Music Library](https://lifehacker.com/the-quickest-ways-to-redownload-your-apple-music-librar-1849058089)
 - [Lifehacker] [How to Get Through a Dry Spell in Your Relationship](https://lifehacker.com/how-to-get-through-a-dry-spell-in-your-relationship-1849055783)
 - [Dev.to/JS] [Promise vs async/await - Stupid Version](https://dev.to/jesterxl/promise-vs-asyncawait-stupid-version-2p99)
-- [Dev.to/JS] [Top 5 JavaScript Frameworks for Frontend in 2022](https://dev.to/deepakydv9315/top-5-javascript-frameworks-for-frontend-in-2022-d6f)
-- [Dev.to/JS] [KNEX.JS SQL Query builder for Nodejs](https://dev.to/taiworoqeeb/knexjs-sql-query-builder-for-nodejs-2728)
 - [Lifehacker] [Stop Using the iOS Highlighter to Hide Personal Info in Your Photos](https://lifehacker.com/stop-using-the-ios-highlighter-to-hide-personal-info-in-1849055607)
-- [Dev.to/JS] [Responsiveness and Container-Queries](https://dev.to/abboud/responsiveness-and-container-queries-3l12)
 - [Lifehacker] [You Should Bake the Biscuit Scraps With Your Biscuits](https://lifehacker.com/you-should-bake-biscuit-scraps-with-your-biscuits-1849054918)
 - [Lifehacker] [How to Add Speed Dial to Your iPhone](https://lifehacker.com/how-to-add-speed-dial-to-your-iphone-1849054371)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/cheap-ways-to-make-your-house-look-more-expensive-1849044863)
 - [Lifehacker] [How to Stop Someone From Editing the iMessages They Send You](https://lifehacker.com/how-to-stop-someone-from-editing-the-imessages-they-sen-1849052774)
 - [Lifehacker] [How Often You Should Mow Your Lawn, Based on the Type of Grass You Have](https://lifehacker.com/how-often-you-should-mow-your-lawn-based-on-the-type-o-1849052919)
-- [Lifehacker] [Escape the &#39;Grind Mentality&#39; and Stop Saving Every Single Penny](https://lifehacker.com/escape-the-grind-mentality-and-stop-saving-every-fuck-1849044866)
-- [Lifehacker] [Cheese Is a Crouton](https://lifehacker.com/cheese-is-a-crouton-1849051473)
-- [Lifehacker] [The 7 Deadly Sins of Being a Co-Worker](https://lifehacker.com/the-7-deadly-sins-of-being-a-co-worker-1849047027)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
