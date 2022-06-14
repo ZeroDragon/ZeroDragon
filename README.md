@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Select button in html](https://dev.to/shraysalvi/select-button-in-html-4ggd)
+- [Dev.to/JS] [Coinbase Interview Part IV](https://dev.to/shreyvijayvargiya/coinbase-interview-part-iv-313)
+- [Dev.to/JS] [Slice Vs Splice in Javascript](https://dev.to/deepachaurasia1/slice-vs-splice-in-javascript-4knn)
+- [Dev.to/JS] [fs.writeSync](https://dev.to/radhe65gupta/fswritesync-50mh)
 - [Dev.to/JS] [is there any possibility to print pdf directly to the default printer without any popup](https://dev.to/karthikeyans1998/is-there-any-possibility-to-print-pdf-directly-to-the-default-printer-without-any-popup-1em5)
 - [Dev.to/JS] [Callback in Javascript](https://dev.to/therahul_gupta/callback-in-javascript-30cl)
 - [Dev.to/JS] [There are 10 types of people in this world...](https://dev.to/mattborja/there-are-10-types-of-people-in-this-world-5581)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is ðere a way to compare possible RegExp lengþs wiþout re-parsing ðe regex?](https://dev.to/baenencalin/is-dere-a-way-to-compare-possible-regexp-lengths-without-re-parsing-de-regex-2i49)
 - [Dev.to/JS] [Data Instances](https://dev.to/ajidk16/data-instances-39nn)
 - [Dev.to/JS] [Website development with no code.](https://dev.to/jopaleti/website-development-with-no-code-4od8)
-- [Dev.to/JS] [React Slider Responsive Help Needed](https://dev.to/retroquiz/react-slider-responsive-help-needed-1j4)
-- [Dev.to/JS] [ES6 - Shorthand Properties e Method Names](https://dev.to/iamdevmarcos/es6-shorthand-properties-e-method-names-31k4)
-- [Dev.to/JS] [A practical example of Suspense in React 18](https://dev.to/darkmavis1980/a-practical-example-of-suspense-in-react-18-3lln)
-- [Dev.to/JS] [Funciones de flecha en JavaScript + this](https://dev.to/jairdev/funciones-de-flecha-en-javascript-this-480a)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
