@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Through a Dry Spell in Your Relationship](https://lifehacker.com/how-to-get-through-a-dry-spell-in-your-relationship-1849055783)
+- [Dev.to/JS] [Promise vs async/await - Stupid Version](https://dev.to/jesterxl/promise-vs-asyncawait-stupid-version-2p99)
+- [Dev.to/JS] [Top 5 JavaScript Frameworks for Frontend in 2022](https://dev.to/deepakydv9315/top-5-javascript-frameworks-for-frontend-in-2022-d6f)
+- [Dev.to/JS] [KNEX.JS SQL Query builder for Nodejs](https://dev.to/taiworoqeeb/knexjs-sql-query-builder-for-nodejs-2728)
 - [Lifehacker] [Stop Using the iOS Highlighter to Hide Personal Info in Your Photos](https://lifehacker.com/stop-using-the-ios-highlighter-to-hide-personal-info-in-1849055607)
 - [Dev.to/JS] [Responsiveness and Container-Queries](https://dev.to/abboud/responsiveness-and-container-queries-3l12)
 - [Dev.to/JS] [JS tips - Operator which can detect null and undefined but no other falsy values like zero,false, empty string in javascript](https://dev.to/mkrishnancodes/operator-which-can-detect-null-and-undefined-but-no-other-falsy-values-like-zerofalse-empty-string-in-javascript-3mbo)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Displaying TwicPics Images When Working Offline With Nuxt.js](https://dev.to/strift/displaying-twicpics-images-when-working-offline-with-nuxtjs-hd3)
 - [Dev.to/JS] [How to Create a Nuxt.js Ecommerce Storefront from Scratch Using Medusa Part 2: Adding Cart Functionality](https://dev.to/medusajs/how-to-create-a-nuxtjs-ecommerce-storefront-from-scratch-using-medusa-part-2-adding-cart-functionality-9be)
 - [Dev.to/JS] [Learn how linking works in an application using Huawei App Linking &lpar;React Native&rpar;](https://dev.to/hmscommunity/learn-how-linking-works-in-an-application-using-huawei-app-linking-react-native-5b1c)
-- [Dev.to/JS] [Create a button with ripple effect from where you click](https://dev.to/wenura/create-a-button-with-ripple-effect-from-where-you-click-4kpl)
-- [Dev.to/JS] [React + TypeScript + ESLint + Prettier Full Setup ✈](https://dev.to/suchintan/reacttypescripteslint-prettier-full-setup-p7j)
-- [Dev.to/JS] [Wasp - language for developing full-stack Javascript web apps with no boilerplate](https://dev.to/wasp/wasp-language-for-developing-full-stack-javascript-web-apps-with-no-boilerplate-2fo4)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
-- [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
