@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a Meta Tag Validator by scraping the website in NEXT JS](https://dev.to/codewithmarish/how-to-create-a-meta-tag-validator-by-scraping-the-website-in-next-js-1lp0)
+- [Dev.to/JS] [Common Array Opreations](https://dev.to/naimahmedshuvo/common-array-opreations-2kgp)
+- [Lifehacker] [How Long It’ll Really Take You to Save for a Down Payment](https://lifehacker.com/how-long-it-ll-really-take-you-to-save-for-a-down-payme-1849058574)
+- [Dev.to/JS] [Learn React Concepts](https://dev.to/drsimplegraffiti/learn-react-concepts-54o0)
+- [Lifehacker] [17 of the Most Disturbing Films Ever Made](https://lifehacker.com/17-of-the-most-disturbing-films-ever-made-1849057023)
 - [Lifehacker] [What to Say When a Recruiter Asks Your Salary Requirement](https://lifehacker.com/what-to-say-when-a-recruiter-asks-your-salary-requireme-1849058068)
 - [Dev.to/JS] [What is functional programming](https://dev.to/learnfrontendio/what-is-functional-programming-3eo1)
 - [Dev.to/JS] [Form-associated custom elements FTW!](https://dev.to/steveblue/form-associated-custom-elements-ftw-16bi)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Add Speed Dial to Your iPhone](https://lifehacker.com/how-to-add-speed-dial-to-your-iphone-1849054371)
 - [Dev.to/JS] [Using Angular to create a Micro Frontend](https://dev.to/entando/using-angular-to-create-a-micro-frontend-5fci)
 - [Dev.to/JS] [Dependency injection without the decorators](https://dev.to/ivandotv/dependency-injection-without-the-decorators-3i2p)
-- [Dev.to/JS] [How to calculate the distance between two points, using the MapQuest API](https://dev.to/steinbring/how-to-calculate-the-distance-between-two-points-using-the-mapquest-api-308m)
-- [Dev.to/JS] [How to detect user location and auto-fill forms in React with VisitorAPI](https://dev.to/chaoming/how-to-detect-user-location-and-auto-fill-forms-in-react-with-visitorapi-4l3k)
-- [Dev.to/JS] [Displaying TwicPics Images When Working Offline With Nuxt.js](https://dev.to/strift/displaying-twicpics-images-when-working-offline-with-nuxtjs-hd3)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Being a Co-Worker](https://lifehacker.com/the-7-deadly-sins-of-being-a-co-worker-1849047027)
 - [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
-- [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
-- [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
