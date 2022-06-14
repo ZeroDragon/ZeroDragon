@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Callback in Javascript](https://dev.to/therahul_gupta/callback-in-javascript-30cl)
+- [Dev.to/JS] [There are 10 types of people in this world...](https://dev.to/mattborja/there-are-10-types-of-people-in-this-world-5581)
 - [Dev.to/JS] [Google Charts visualization JavaScript API](https://dev.to/coderallan/google-charts-visualization-javascript-api-4ahj)
 - [Dev.to/JS] [Creating a simple web server using NodeJS](https://dev.to/davidfree2/creating-a-simple-web-server-using-nodejs-17k7)
 - [Dev.to/JS] [Is ðere a way to compare possible RegExp lengþs wiþout re-parsing ðe regex?](https://dev.to/baenencalin/is-dere-a-way-to-compare-possible-regexp-lengths-without-re-parsing-de-regex-2i49)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Funciones de flecha en JavaScript + this](https://dev.to/jairdev/funciones-de-flecha-en-javascript-this-480a)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 - [Dev.to/JS] [Deconstruction to not work](https://dev.to/ivkemilioner/deconstruction-to-not-work-23lg)
-- [Dev.to/JS] [Custom OTP input component with VueJS](https://dev.to/otrex/custom-otp-input-component-with-vuejs-54dl)
-- [Dev.to/JS] [Deploying WordPress on Kubernetes](https://dev.to/brunoa19/deploying-wordpress-on-kubernetes-18ao)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
 - [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
