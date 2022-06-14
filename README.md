@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Slider Responsive Help Needed](https://dev.to/retroquiz/react-slider-responsive-help-needed-1j4)
+- [Dev.to/JS] [ES6 - Shorthand Properties e Method Names](https://dev.to/iamdevmarcos/es6-shorthand-properties-e-method-names-31k4)
 - [Dev.to/JS] [A practical example of Suspense in React 18](https://dev.to/darkmavis1980/a-practical-example-of-suspense-in-react-18-3lln)
 - [Dev.to/JS] [Funciones de flecha en JavaScript + this](https://dev.to/jairdev/funciones-de-flecha-en-javascript-this-480a)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
 - [Dev.to/JS] [Implementing Dark Mode in React](https://dev.to/horsemaker/implementing-dark-mode-in-react-17he)
 - [Dev.to/JS] [Web Storage API - Explain Like I&#39;m Five](https://dev.to/patik123/web-storage-api-explain-like-im-five-7mm)
-- [Dev.to/JS] [Build a basic form in react without a library](https://dev.to/iretos/build-a-basic-form-in-react-without-a-library-3dla)
 - [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
-- [Dev.to/JS] [Drag and Drop feature in HTML and Vanilla JS](https://dev.to/subhendudash02/drag-and-drop-feature-in-html-and-vanilla-js-2nk0)
 - [Lifehacker] [You Can Revive Saggy Old Couch Cushions for Cheap](https://lifehacker.com/you-can-revive-saggy-old-couch-cushions-for-cheap-1849053477)
 - [Lifehacker] [What to Do If You Think Your Partner Has Borderline Personality Disorder](https://lifehacker.com/what-to-do-if-you-think-your-partner-has-borderline-per-1849053402)
 - [Lifehacker] [Five Carry-On Essentials for Your Next Flight](https://lifehacker.com/five-carry-on-essentials-for-your-next-flight-1849053795)
