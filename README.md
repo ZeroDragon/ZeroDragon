@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [is there any possibility to print pdf directly to the default printer without any popup](https://dev.to/karthikeyans1998/is-there-any-possibility-to-print-pdf-directly-to-the-default-printer-without-any-popup-1em5)
 - [Dev.to/JS] [Callback in Javascript](https://dev.to/therahul_gupta/callback-in-javascript-30cl)
 - [Dev.to/JS] [There are 10 types of people in this world...](https://dev.to/mattborja/there-are-10-types-of-people-in-this-world-5581)
 - [Dev.to/JS] [Google Charts visualization JavaScript API](https://dev.to/coderallan/google-charts-visualization-javascript-api-4ahj)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A practical example of Suspense in React 18](https://dev.to/darkmavis1980/a-practical-example-of-suspense-in-react-18-3lln)
 - [Dev.to/JS] [Funciones de flecha en JavaScript + this](https://dev.to/jairdev/funciones-de-flecha-en-javascript-this-480a)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
-- [Dev.to/JS] [Deconstruction to not work](https://dev.to/ivkemilioner/deconstruction-to-not-work-23lg)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
 - [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
