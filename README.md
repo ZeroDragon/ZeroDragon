@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Writing a Game in Typescript](https://dev.to/iamschulz/writing-a-game-in-typescript-13em)
+- [Dev.to/JS] [Select Box And Scroll Vue js 2 and Bootsrap 5](https://dev.to/mazdevelop/select-box-and-scroll-vue-js-2-and-bootsrap-5-1la8)
 - [Dev.to/JS] [Select button in html](https://dev.to/shraysalvi/select-button-in-html-4ggd)
 - [Dev.to/JS] [Coinbase Interview Part IV](https://dev.to/shreyvijayvargiya/coinbase-interview-part-iv-313)
 - [Dev.to/JS] [Slice Vs Splice in Javascript](https://dev.to/deepachaurasia1/slice-vs-splice-in-javascript-4knn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google Charts visualization JavaScript API](https://dev.to/coderallan/google-charts-visualization-javascript-api-4ahj)
 - [Dev.to/JS] [Creating a simple web server using NodeJS](https://dev.to/davidfree2/creating-a-simple-web-server-using-nodejs-17k7)
 - [Dev.to/JS] [Is ðere a way to compare possible RegExp lengþs wiþout re-parsing ðe regex?](https://dev.to/baenencalin/is-dere-a-way-to-compare-possible-regexp-lengths-without-re-parsing-de-regex-2i49)
-- [Dev.to/JS] [Data Instances](https://dev.to/ajidk16/data-instances-39nn)
-- [Dev.to/JS] [Website development with no code.](https://dev.to/jopaleti/website-development-with-no-code-4od8)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
