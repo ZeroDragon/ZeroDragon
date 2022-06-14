@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
+- [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
+- [Dev.to/JS] [Prevent Acid Redux with Redux Toolkit](https://dev.to/brettthurs10/prevent-acid-redux-with-redux-toolkit-p7g)
+- [Dev.to/JS] [Reducing Reduce](https://dev.to/loganward/reducing-reduce-3pof)
 - [Lifehacker] [You Can Get a ‘Digital Nomad’ Visa in These 46 Countries](https://lifehacker.com/you-can-get-a-digital-nomad-visa-in-these-46-countrie-1849058910)
 - [Dev.to/JS] [Web Speech API with ArcGIS RouteLayer](https://dev.to/odoenet/web-speech-api-with-arcgis-routelayer-4hkc)
 - [Lifehacker] [You Should Air-Fry Some Canned Potatoes](https://lifehacker.com/you-should-air-fy-some-canned-potatoes-1849061013)
@@ -44,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn React Concepts](https://dev.to/drsimplegraffiti/learn-react-concepts-54o0)
 - [Lifehacker] [17 of the Most Disturbing Films Ever Made](https://lifehacker.com/17-of-the-most-disturbing-films-ever-made-1849057023)
 - [Lifehacker] [What to Say When a Recruiter Asks Your Salary Requirement](https://lifehacker.com/what-to-say-when-a-recruiter-asks-your-salary-requireme-1849058068)
-- [Dev.to/JS] [What is functional programming](https://dev.to/learnfrontendio/what-is-functional-programming-3eo1)
-- [Dev.to/JS] [Form-associated custom elements FTW!](https://dev.to/steveblue/form-associated-custom-elements-ftw-16bi)
 - [Lifehacker] [Your Nervous System Is to Blame for How You Argue With Your Partner](https://lifehacker.com/your-nervous-system-is-to-blame-for-how-you-argue-with-1849056649)
 - [Lifehacker] [The Quickest Ways to Redownload Your Apple Music Library](https://lifehacker.com/the-quickest-ways-to-redownload-your-apple-music-librar-1849058089)
 - [Lifehacker] [How to Get Through a Dry Spell in Your Relationship](https://lifehacker.com/how-to-get-through-a-dry-spell-in-your-relationship-1849055783)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Revive Saggy Old Couch Cushions for Cheap](https://lifehacker.com/you-can-revive-saggy-old-couch-cushions-for-cheap-1849053477)
 - [Lifehacker] [What to Do If You Think Your Partner Has Borderline Personality Disorder](https://lifehacker.com/what-to-do-if-you-think-your-partner-has-borderline-per-1849053402)
 - [Lifehacker] [Five Carry-On Essentials for Your Next Flight](https://lifehacker.com/five-carry-on-essentials-for-your-next-flight-1849053795)
-- [Lifehacker] [Why You Should Buy a Used iPhone, Now More Than Ever](https://lifehacker.com/why-you-should-buy-a-used-iphone-now-more-than-ever-1849053369)
-- [Lifehacker] [Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/cheap-ways-to-make-your-house-look-more-expensive-1849044863)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
