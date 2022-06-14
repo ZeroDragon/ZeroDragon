@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Is ðere a way to compare possible RegExp lengþs wiþout re-parsing ðe regex?](https://dev.to/baenencalin/is-dere-a-way-to-compare-possible-regexp-lengths-without-re-parsing-de-regex-2i49)
+- [Dev.to/JS] [Data Instances](https://dev.to/ajidk16/data-instances-39nn)
 - [Dev.to/JS] [Website development with no code.](https://dev.to/jopaleti/website-development-with-no-code-4od8)
 - [Dev.to/JS] [React Slider Responsive Help Needed](https://dev.to/retroquiz/react-slider-responsive-help-needed-1j4)
 - [Dev.to/JS] [ES6 - Shorthand Properties e Method Names](https://dev.to/iamdevmarcos/es6-shorthand-properties-e-method-names-31k4)
@@ -34,10 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploying WordPress on Kubernetes](https://dev.to/brunoa19/deploying-wordpress-on-kubernetes-18ao)
 - [Dev.to/JS] [How to scrap data with Cheerio](https://dev.to/rtagliavia/how-to-scrap-data-with-cheerio-cdc)
 - [Dev.to/JS] [11ty Second 11ty: Basics of Collections](https://dev.to/brob/11ty-second-11ty-basics-of-collections-286f)
-- [Dev.to/JS] [How many people has loops affected their system during coding 😀](https://dev.to/callmebobonwa/how-many-people-has-loops-affected-their-system-during-coding-3mk)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
-- [Dev.to/JS] [Implementing Dark Mode in React](https://dev.to/horsemaker/implementing-dark-mode-in-react-17he)
 - [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
 - [Lifehacker] [You Can Revive Saggy Old Couch Cushions for Cheap](https://lifehacker.com/you-can-revive-saggy-old-couch-cushions-for-cheap-1849053477)
 - [Lifehacker] [What to Do If You Think Your Partner Has Borderline Personality Disorder](https://lifehacker.com/what-to-do-if-you-think-your-partner-has-borderline-per-1849053402)
