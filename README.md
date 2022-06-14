@@ -23,11 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [You Should Bake the Biscuit Scraps With Your Biscuits](https://lifehacker.com/you-should-bake-the-biscuit-scraps-with-your-biscuits-1849054918)
+- [Lifehacker] [Stop Using the iOS Highlighter to Hide Personal Info in Your Photos](https://lifehacker.com/stop-using-the-ios-highlighter-to-hide-personal-info-in-1849055607)
+- [Dev.to/JS] [Responsiveness and Container-Queries](https://dev.to/abboud/responsiveness-and-container-queries-3l12)
+- [Dev.to/JS] [JS tips - Operator which can detect null and undefined but no other falsy values like zero,false, empty string in javascript](https://dev.to/mkrishnancodes/operator-which-can-detect-null-and-undefined-but-no-other-falsy-values-like-zerofalse-empty-string-in-javascript-3mbo)
+- [Lifehacker] [You Should Bake the Biscuit Scraps With Your Biscuits](https://lifehacker.com/you-should-bake-biscuit-scraps-with-your-biscuits-1849054918)
 - [Lifehacker] [How to Add Speed Dial to Your iPhone](https://lifehacker.com/how-to-add-speed-dial-to-your-iphone-1849054371)
 - [Dev.to/JS] [Using Angular to create a Micro Frontend](https://dev.to/entando/using-angular-to-create-a-micro-frontend-5fci)
 - [Dev.to/JS] [Dependency injection without the decorators](https://dev.to/ivandotv/dependency-injection-without-the-decorators-3i2p)
-- [Dev.to/JS] [https://www.facebook.com/ViaKetoAppleGummiesUKOfficial/](https://dev.to/gummviaappleuk/httpswwwfacebookcomviaketoapplegummiesukofficial-oa0)
 - [Dev.to/JS] [How to calculate the distance between two points, using the MapQuest API](https://dev.to/steinbring/how-to-calculate-the-distance-between-two-points-using-the-mapquest-api-308m)
 - [Dev.to/JS] [How to detect user location and auto-fill forms in React with VisitorAPI](https://dev.to/chaoming/how-to-detect-user-location-and-auto-fill-forms-in-react-with-visitorapi-4l3k)
 - [Dev.to/JS] [Displaying TwicPics Images When Working Offline With Nuxt.js](https://dev.to/strift/displaying-twicpics-images-when-working-offline-with-nuxtjs-hd3)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a button with ripple effect from where you click](https://dev.to/wenura/create-a-button-with-ripple-effect-from-where-you-click-4kpl)
 - [Dev.to/JS] [React + TypeScript + ESLint + Prettier Full Setup ✈](https://dev.to/suchintan/reacttypescripteslint-prettier-full-setup-p7j)
 - [Dev.to/JS] [Wasp - language for developing full-stack Javascript web apps with no boilerplate](https://dev.to/wasp/wasp-language-for-developing-full-stack-javascript-web-apps-with-no-boilerplate-2fo4)
-- [Dev.to/JS] [How to deploy an Astro site](https://dev.to/whitep4nth3r/how-to-deploy-an-astro-site-m8h)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Lifehacker] [The Most Important Things to Clean When You Only Have 10 Minutes Until Company Arrives](https://lifehacker.com/the-most-important-things-to-clean-when-you-only-have-1-1849047012)
-- [Lifehacker] [This Chip &#39;n&#39; Dip Omelette Is the Breakfast of Champions](https://lifehacker.com/this-chip-n-dip-omelette-is-the-breakfast-of-champions-1849047017)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
