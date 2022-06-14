@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modifying classes in mapped list items in Vue3](https://dev.to/muratcanyuksel/modifying-classes-in-mapped-list-items-in-vue3-1md6)
+- [Lifehacker] [You Should Probably Change Your Phone Number](https://lifehacker.com/you-should-probably-change-your-phone-number-1849059296)
+- [Lifehacker] [You Can Finally Transfer Your WhatsApp Chats Between iPhone and Android [Updated]](https://lifehacker.com/you-can-finally-transfer-your-whatsapp-chats-between-ip-1847981775)
 - [Dev.to/JS] [Working With Remix-Router In React JS - A Look at New Data APIs in DataBrowserRouter](https://dev.to/aaronksaunders/working-with-remix-router-in-react-js-a-look-at-new-data-apis-in-databrowserrouter-1b0l)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Queue](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-queue-3if7)
@@ -42,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [KNEX.JS SQL Query builder for Nodejs](https://dev.to/taiworoqeeb/knexjs-sql-query-builder-for-nodejs-2728)
 - [Lifehacker] [Stop Using the iOS Highlighter to Hide Personal Info in Your Photos](https://lifehacker.com/stop-using-the-ios-highlighter-to-hide-personal-info-in-1849055607)
 - [Dev.to/JS] [Responsiveness and Container-Queries](https://dev.to/abboud/responsiveness-and-container-queries-3l12)
-- [Dev.to/JS] [JS tips - Operator which can detect null and undefined but no other falsy values like zero,false, empty string in javascript](https://dev.to/mkrishnancodes/operator-which-can-detect-null-and-undefined-but-no-other-falsy-values-like-zerofalse-empty-string-in-javascript-3mbo)
 - [Lifehacker] [You Should Bake the Biscuit Scraps With Your Biscuits](https://lifehacker.com/you-should-bake-biscuit-scraps-with-your-biscuits-1849054918)
 - [Lifehacker] [How to Add Speed Dial to Your iPhone](https://lifehacker.com/how-to-add-speed-dial-to-your-iphone-1849054371)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Escape the &#39;Grind Mentality&#39; and Stop Saving Every Single Penny](https://lifehacker.com/escape-the-grind-mentality-and-stop-saving-every-fuck-1849044866)
 - [Lifehacker] [Cheese Is a Crouton](https://lifehacker.com/cheese-is-a-crouton-1849051473)
 - [Lifehacker] [The 7 Deadly Sins of Being a Co-Worker](https://lifehacker.com/the-7-deadly-sins-of-being-a-co-worker-1849047027)
-- [Lifehacker] [Use These Email Templates to Say No in Any Situation](https://lifehacker.com/use-these-email-templates-to-say-no-in-any-situation-1849050067)
-- [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
