@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Say When a Recruiter Asks Your Salary Requirement](https://lifehacker.com/what-to-say-when-a-recruiter-asks-your-salary-requireme-1849058068)
+- [Dev.to/JS] [What is functional programming](https://dev.to/learnfrontendio/what-is-functional-programming-3eo1)
+- [Dev.to/JS] [Form-associated custom elements FTW!](https://dev.to/steveblue/form-associated-custom-elements-ftw-16bi)
+- [Lifehacker] [Your Nervous System Is to Blame for How You Argue With Your Partner](https://lifehacker.com/your-nervous-system-is-to-blame-for-how-you-argue-with-1849056649)
+- [Lifehacker] [The Quickest Ways to Redownload Your Apple Music Library](https://lifehacker.com/the-quickest-ways-to-redownload-your-apple-music-librar-1849058089)
 - [Lifehacker] [How to Get Through a Dry Spell in Your Relationship](https://lifehacker.com/how-to-get-through-a-dry-spell-in-your-relationship-1849055783)
 - [Dev.to/JS] [Promise vs async/await - Stupid Version](https://dev.to/jesterxl/promise-vs-asyncawait-stupid-version-2p99)
 - [Dev.to/JS] [Top 5 JavaScript Frameworks for Frontend in 2022](https://dev.to/deepakydv9315/top-5-javascript-frameworks-for-frontend-in-2022-d6f)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to calculate the distance between two points, using the MapQuest API](https://dev.to/steinbring/how-to-calculate-the-distance-between-two-points-using-the-mapquest-api-308m)
 - [Dev.to/JS] [How to detect user location and auto-fill forms in React with VisitorAPI](https://dev.to/chaoming/how-to-detect-user-location-and-auto-fill-forms-in-react-with-visitorapi-4l3k)
 - [Dev.to/JS] [Displaying TwicPics Images When Working Offline With Nuxt.js](https://dev.to/strift/displaying-twicpics-images-when-working-offline-with-nuxtjs-hd3)
-- [Dev.to/JS] [How to Create a Nuxt.js Ecommerce Storefront from Scratch Using Medusa Part 2: Adding Cart Functionality](https://dev.to/medusajs/how-to-create-a-nuxtjs-ecommerce-storefront-from-scratch-using-medusa-part-2-adding-cart-functionality-9be)
-- [Dev.to/JS] [Learn how linking works in an application using Huawei App Linking &lpar;React Native&rpar;](https://dev.to/hmscommunity/learn-how-linking-works-in-an-application-using-huawei-app-linking-react-native-5b1c)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
@@ -57,10 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Consider a AAA Membership, Even If You Don&#39;t Have a Car](https://lifehacker.com/why-you-should-consider-a-aaa-membership-even-if-you-d-1849050075)
 - [Lifehacker] [How to Use Google Maps to Find Fresher Air](https://lifehacker.com/how-to-use-google-maps-to-find-fresher-air-1849050091)
 - [Lifehacker] [What &#39;UL Listed&#39; Means on Electronics, and Why You Should Look for It](https://lifehacker.com/what-ul-listed-means-on-electronics-and-why-you-should-1849047109)
-- [Lifehacker] [U.S. Cities Where Nature Lovers Can Actually Afford to Buy a Home](https://lifehacker.com/u-s-cities-where-nature-lovers-can-actually-afford-to-1849047330)
-- [Lifehacker] [How to Get a Free Krispy Kreme Doughnut Every Day Until Labor Day](https://lifehacker.com/how-to-get-a-free-krispy-kreme-doughnut-every-day-until-1849047338)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
-- [Lifehacker] [These Food Prices Actually Went Down This Month](https://lifehacker.com/these-food-prices-actually-went-down-this-month-1849046356)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)
 - [Crazy Programmer] [12 Different Types of Computer Network](https://www.thecrazyprogrammer.com/2022/06/types-of-computer-network.html)<!-- TECH-POSTS:END -->
 
