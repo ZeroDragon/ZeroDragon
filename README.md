@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get a ‘Digital Nomad’ Visa in These 46 Countries](https://lifehacker.com/you-can-get-a-digital-nomad-visa-in-these-46-countrie-1849058910)
+- [Dev.to/JS] [Web Speech API with ArcGIS RouteLayer](https://dev.to/odoenet/web-speech-api-with-arcgis-routelayer-4hkc)
+- [Lifehacker] [You Should Air-Fry Some Canned Potatoes](https://lifehacker.com/you-should-air-fy-some-canned-potatoes-1849061013)
 - [Lifehacker] [8 Ways We Use Euphemisms to Speak About the Unspeakable](https://lifehacker.com/8-ways-we-use-euphemisms-to-speak-about-the-unspeakable-1849060696)
 - [Dev.to/JS] [Google identity service/Google Auth 2022 in React node](https://dev.to/sahilkashyap64/google-identity-servicegoogle-auth-2022-in-react-node-27lh)
 - [Lifehacker] [50 of the Cheapest Day Trips to Take Across the US](https://lifehacker.com/50-of-the-cheapest-day-trips-to-take-across-the-us-1849058582)
@@ -46,7 +49,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Nervous System Is to Blame for How You Argue With Your Partner](https://lifehacker.com/your-nervous-system-is-to-blame-for-how-you-argue-with-1849056649)
 - [Lifehacker] [The Quickest Ways to Redownload Your Apple Music Library](https://lifehacker.com/the-quickest-ways-to-redownload-your-apple-music-librar-1849058089)
 - [Lifehacker] [How to Get Through a Dry Spell in Your Relationship](https://lifehacker.com/how-to-get-through-a-dry-spell-in-your-relationship-1849055783)
-- [Dev.to/JS] [Promise vs async/await - Stupid Version](https://dev.to/jesterxl/promise-vs-asyncawait-stupid-version-2p99)
 - [Lifehacker] [Stop Using the iOS Highlighter to Hide Personal Info in Your Photos](https://lifehacker.com/stop-using-the-ios-highlighter-to-hide-personal-info-in-1849055607)
 - [Lifehacker] [You Should Bake the Biscuit Scraps With Your Biscuits](https://lifehacker.com/you-should-bake-biscuit-scraps-with-your-biscuits-1849054918)
 - [Lifehacker] [How to Add Speed Dial to Your iPhone](https://lifehacker.com/how-to-add-speed-dial-to-your-iphone-1849054371)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Carry-On Essentials for Your Next Flight](https://lifehacker.com/five-carry-on-essentials-for-your-next-flight-1849053795)
 - [Lifehacker] [Why You Should Buy a Used iPhone, Now More Than Ever](https://lifehacker.com/why-you-should-buy-a-used-iphone-now-more-than-ever-1849053369)
 - [Lifehacker] [Cheap Ways to Make Your House Look More Expensive](https://lifehacker.com/cheap-ways-to-make-your-house-look-more-expensive-1849044863)
-- [Lifehacker] [How to Stop Someone From Editing the iMessages They Send You](https://lifehacker.com/how-to-stop-someone-from-editing-the-imessages-they-sen-1849052774)
-- [Lifehacker] [How Often You Should Mow Your Lawn, Based on the Type of Grass You Have](https://lifehacker.com/how-often-you-should-mow-your-lawn-based-on-the-type-o-1849052919)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
