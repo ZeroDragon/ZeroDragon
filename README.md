@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google Charts visualization JavaScript API](https://dev.to/coderallan/google-charts-visualization-javascript-api-4ahj)
+- [Dev.to/JS] [Creating a simple web server using NodeJS](https://dev.to/davidfree2/creating-a-simple-web-server-using-nodejs-17k7)
 - [Dev.to/JS] [Is ðere a way to compare possible RegExp lengþs wiþout re-parsing ðe regex?](https://dev.to/baenencalin/is-dere-a-way-to-compare-possible-regexp-lengths-without-re-parsing-de-regex-2i49)
 - [Dev.to/JS] [Data Instances](https://dev.to/ajidk16/data-instances-39nn)
 - [Dev.to/JS] [Website development with no code.](https://dev.to/jopaleti/website-development-with-no-code-4od8)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deconstruction to not work](https://dev.to/ivkemilioner/deconstruction-to-not-work-23lg)
 - [Dev.to/JS] [Custom OTP input component with VueJS](https://dev.to/otrex/custom-otp-input-component-with-vuejs-54dl)
 - [Dev.to/JS] [Deploying WordPress on Kubernetes](https://dev.to/brunoa19/deploying-wordpress-on-kubernetes-18ao)
-- [Dev.to/JS] [How to scrap data with Cheerio](https://dev.to/rtagliavia/how-to-scrap-data-with-cheerio-cdc)
-- [Dev.to/JS] [11ty Second 11ty: Basics of Collections](https://dev.to/brob/11ty-second-11ty-basics-of-collections-286f)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
 - [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
