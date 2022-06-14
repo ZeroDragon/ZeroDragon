@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Website development with no code.](https://dev.to/jopaleti/website-development-with-no-code-4od8)
 - [Dev.to/JS] [React Slider Responsive Help Needed](https://dev.to/retroquiz/react-slider-responsive-help-needed-1j4)
 - [Dev.to/JS] [ES6 - Shorthand Properties e Method Names](https://dev.to/iamdevmarcos/es6-shorthand-properties-e-method-names-31k4)
 - [Dev.to/JS] [A practical example of Suspense in React 18](https://dev.to/darkmavis1980/a-practical-example-of-suspense-in-react-18-3lln)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
 - [Dev.to/JS] [Implementing Dark Mode in React](https://dev.to/horsemaker/implementing-dark-mode-in-react-17he)
-- [Dev.to/JS] [Web Storage API - Explain Like I&#39;m Five](https://dev.to/patik123/web-storage-api-explain-like-im-five-7mm)
 - [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
 - [Lifehacker] [You Can Revive Saggy Old Couch Cushions for Cheap](https://lifehacker.com/you-can-revive-saggy-old-couch-cushions-for-cheap-1849053477)
 - [Lifehacker] [What to Do If You Think Your Partner Has Borderline Personality Disorder](https://lifehacker.com/what-to-do-if-you-think-your-partner-has-borderline-per-1849053402)
