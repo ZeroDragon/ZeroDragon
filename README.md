@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [15 Games to Play While You Wait for &#39;Starfield&#39;](https://lifehacker.com/15-games-to-play-while-you-wait-for-starfield-1849061541)
+- [Dev.to/JS] [Need React Tutorial ASAP](https://dev.to/kevincp17/need-react-tutorial-asap-79)
+- [Dev.to/JS] [Using Absolute Paths in React Native](https://dev.to/abrahamlawson/using-absolute-paths-in-react-native-24ak)
+- [Lifehacker] [Stop Popping Your Sunburn Blisters](https://lifehacker.com/stop-popping-your-sunburn-blisters-1849042568)
+- [Lifehacker] [Google Chrome Has a Hidden Search Sidebar](https://lifehacker.com/google-chrome-has-a-hidden-search-sidebar-1849064065)
 - [Dev.to/JS] [Screenbean - Pimp your screenshots](https://dev.to/brunnerlivio/screenbean-pimp-your-screenshots-102m)
 - [Lifehacker] [You&#39;re Wrong About &#39;Breaking the Seal&#39;](https://lifehacker.com/youre-wrong-about-breaking-the-seal-1849053517)
 - [Dev.to/JS] [How To Loop Through An Object in JavaScript](https://dev.to/ugorji_simon/how-to-loop-through-an-object-in-javascript-4fck)
@@ -35,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Generate api automatic from tables!](https://dev.to/sreerajkarippala/generate-api-automatic-from-tables-35pl)
 - [Dev.to/JS] [Managing SECRETS in React-Native &lpar;2022&rpar;](https://dev.to/santhoshumapathi/managing-secrets-in-react-native-2022-2b9d)
 - [Dev.to/JS] [JavaSript Shorthands](https://dev.to/mursalfk/javasript-shorthands-1on5)
-- [Dev.to/JS] [How to write redux middleware - sample code snippet](https://dev.to/mkrishnancodes/how-to-write-redux-middleware-sample-code-snippet-3g8f)
-- [Dev.to/JS] [Fluid Player - Custom HTML5 Video Player Integration 🚀](https://dev.to/sh20raj/fluid-player-custom-html5-video-player-integration-2l0)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 - [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
 - [Lifehacker] [You Can Get a ‘Digital Nomad’ Visa in These 46 Countries](https://lifehacker.com/you-can-get-a-digital-nomad-visa-in-these-46-countrie-1849058910)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Add Speed Dial to Your iPhone](https://lifehacker.com/how-to-add-speed-dial-to-your-iphone-1849054371)
 - [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
 - [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
-- [Lifehacker] [Stop Checking Your 401k So Much](https://lifehacker.com/stop-checking-your-401k-so-much-1849054622)
-- [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
-- [Lifehacker] [You Can Revive Saggy Old Couch Cushions for Cheap](https://lifehacker.com/you-can-revive-saggy-old-couch-cushions-for-cheap-1849053477)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
