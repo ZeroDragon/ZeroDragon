@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No unsafe optional chaining is crazy |:](https://dev.to/mnathani/no-unsafe-optional-chaining-is-crazy--4icm)
+- [Dev.to/JS] [Design Patterns in Angular &lpar;part I&rpar;](https://dev.to/armandotrue/design-patterns-in-angular-part-i-3ld7)
 - [Dev.to/JS] [This Week In React #108: App.js, Fresh, Reassure, Million, Hydrogen, Gatsby, Treasured, WebComponents, RNW, Zeego, TC39...](https://dev.to/sebastienlorber/this-week-in-react-108-appjs-fresh-reassure-million-hydrogen-gatsby-treasured-webcomponents-rnw-zeego-tc39-4bmh)
 - [Dev.to/JS] [Open-Source Contribution Guide : Express NodeJs](https://dev.to/royaljain/open-source-contribution-guide-express-nodejs-4i1g)
 - [Dev.to/JS] [Node For Dummies](https://dev.to/ckmonish2000/node-for-dummies-1mbk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn React Concept 2](https://dev.to/drsimplegraffiti/learn-react-concept-2-343d)
 - [Dev.to/JS] [Embeddable Music Player](https://dev.to/yizack/embeddable-music-player-1p53)
 - [Dev.to/JS] [This is a way to Grow Your Business Exponentially with Salesforce Einstein](https://dev.to/iqratechnology4/this-is-a-way-to-grow-your-business-exponentially-with-salesforce-einstein-229a)
-- [Dev.to/JS] [Typedream | Made with Next JS](https://dev.to/madewithjavascript/typedream-made-with-next-js-26n4)
-- [Dev.to/JS] [Call Stack in Javascript](https://dev.to/therahul_gupta/call-stack-in-javascript-692)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 - [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
 - [Lifehacker] [You Can Get a ‘Digital Nomad’ Visa in These 46 Countries](https://lifehacker.com/you-can-get-a-digital-nomad-visa-in-these-46-countrie-1849058910)
