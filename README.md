@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Exploring Teams and SMTP with Appwrite](https://dev.to/gewenyu99/exploring-teams-and-smtp-with-appwrite-8fn)
+- [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
+- [Dev.to/JS] [Beginners Guide to DynamoDB with Node.js](https://dev.to/mxro/beginners-guide-to-dynamodb-with-nodejs-m60)
+- [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Dev.to/JS] [Paracetamol.js💊| #143: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-143-explica-este-codigo-javascript-1ood)
 - [Dev.to/JS] [Q: As a #CodeNewbie, what web development framework are you learning - and why?](https://dev.to/azure/q-as-a-codenewbie-what-web-development-framework-are-you-learning-and-why-5b07)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
@@ -39,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript functions](https://dev.to/nameismani/javascript-function-4f9c)
 - [Lifehacker] [Update Windows Right Now to Fix These Security Vulnerabilities](https://lifehacker.com/update-windows-right-now-to-fix-these-security-vulnerab-1849065009)
 - [Dev.to/JS] [Book Wyrms 2.0: &quot;React&quot;ing to my First Project](https://dev.to/nkulik94/book-wyrms-20-reacting-to-my-first-project-1omf)
-- [Dev.to/JS] [From a list to one number](https://dev.to/nonsoo/from-a-list-to-one-number-55pi)
 - [Lifehacker] [Every Major Streaming Service That Offers a College Discount](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [You Need a New Sheet Cake in Your Life](https://lifehacker.com/you-need-a-new-sheet-cake-in-your-life-1849062136)
-- [Dev.to/JS] [Build smart wizards with react-wizardry](https://dev.to/prabhuignoto/build-smart-wizards-with-react-wizardry-3pbo)
 - [Lifehacker] [How to Get Rid of Slugs in Your Garden](https://lifehacker.com/how-to-get-rid-of-slugs-in-your-garden-1849063465)
 - [Lifehacker] [Your Recalled Ford Might Unexpectedly Roll Away](https://lifehacker.com/your-recalled-ford-might-unexpectedly-roll-away-1849064395)
 - [Lifehacker] [How to Stop Instagram From Repeating Stories](https://lifehacker.com/how-to-stop-instagram-from-repeating-stories-1849064452)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Ways We Use Euphemisms to Speak About the Unspeakable](https://lifehacker.com/8-ways-we-use-euphemisms-to-speak-about-the-unspeakable-1849060696)
 - [Lifehacker] [50 of the Cheapest Day Trips to Take Across the US](https://lifehacker.com/50-of-the-cheapest-day-trips-to-take-across-the-us-1849058582)
 - [Lifehacker] [How to Make a Good Vinaigrette With Cheap Oil and Vinegar](https://lifehacker.com/how-to-make-a-good-vinaigrette-with-cheap-oil-and-vineg-1849060494)
-- [Lifehacker] [Why You Should Change Your Phone Number](https://lifehacker.com/you-should-probably-change-your-phone-number-1849059296)
-- [Lifehacker] [You Can Finally Transfer Your WhatsApp Chats Between iPhone and Android [Updated]](https://lifehacker.com/you-can-finally-transfer-your-whatsapp-chats-between-ip-1847981775)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
