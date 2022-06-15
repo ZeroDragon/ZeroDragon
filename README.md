@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #143: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-143-explica-este-codigo-javascript-1ood)
+- [Dev.to/JS] [Q: As a #CodeNewbie, what web development framework are you learning - and why?](https://dev.to/azure/q-as-a-codenewbie-what-web-development-framework-are-you-learning-and-why-5b07)
+- [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
 - [Lifehacker] [9 Things Our Parents Did That We Should Absolutely Bring Back](https://lifehacker.com/9-things-our-parents-did-that-we-should-absolutely-brin-1849064190)
 - [Dev.to/JS] [The Reason Why Order in Hooks Matters](https://dev.to/itsrennyman/the-reason-why-order-in-hooks-matters-34ba)
 - [Lifehacker] [How to Get the Best Prices on Your Prescriptions](https://lifehacker.com/how-to-get-the-best-prices-on-your-prescriptions-1849066164)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Major Streaming Service That Offers a College Discount](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [You Need a New Sheet Cake in Your Life](https://lifehacker.com/you-need-a-new-sheet-cake-in-your-life-1849062136)
 - [Dev.to/JS] [Build smart wizards with react-wizardry](https://dev.to/prabhuignoto/build-smart-wizards-with-react-wizardry-3pbo)
-- [Dev.to/JS] [Top Software for Running your Business](https://dev.to/sandra_parker/top-software-for-running-your-business-27cn)
-- [Dev.to/JS] [Announcing Strapi v4.2 with logo customization, in-app providers, media library folders in beta and more](https://dev.to/strapi/announcing-strapi-v42-with-logo-customization-in-app-providers-media-library-folders-in-beta-and-more-2edc)
 - [Lifehacker] [How to Get Rid of Slugs in Your Garden](https://lifehacker.com/how-to-get-rid-of-slugs-in-your-garden-1849063465)
 - [Lifehacker] [Your Recalled Ford Might Unexpectedly Roll Away](https://lifehacker.com/your-recalled-ford-might-unexpectedly-roll-away-1849064395)
 - [Lifehacker] [How to Stop Instagram From Repeating Stories](https://lifehacker.com/how-to-stop-instagram-from-repeating-stories-1849064452)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Change Your Phone Number](https://lifehacker.com/you-should-probably-change-your-phone-number-1849059296)
 - [Lifehacker] [You Can Finally Transfer Your WhatsApp Chats Between iPhone and Android [Updated]](https://lifehacker.com/you-can-finally-transfer-your-whatsapp-chats-between-ip-1847981775)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
-- [Lifehacker] [How Long It’ll Really Take You to Save for a Down Payment](https://lifehacker.com/how-long-it-ll-really-take-you-to-save-for-a-down-payme-1849058574)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
