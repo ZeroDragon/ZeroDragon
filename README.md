@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [From a list to one number](https://dev.to/nonsoo/from-a-list-to-one-number-55pi)
+- [Lifehacker] [Every Major Streaming Service That Offers a College Discount](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [You Need a New Sheet Cake in Your Life](https://lifehacker.com/you-need-a-new-sheet-cake-in-your-life-1849062136)
+- [Dev.to/JS] [Build smart wizards with react-wizardry](https://dev.to/prabhuignoto/build-smart-wizards-with-react-wizardry-3pbo)
+- [Dev.to/JS] [Top Software for Running your Business](https://dev.to/sandra_parker/top-software-for-running-your-business-27cn)
 - [Dev.to/JS] [Announcing Strapi v4.2 with logo customization, in-app providers, media library folders in beta and more](https://dev.to/strapi/announcing-strapi-v42-with-logo-customization-in-app-providers-media-library-folders-in-beta-and-more-2edc)
 - [Dev.to/JS] [Lerna 5.1 - New website, new guides, new Lerna example repo, distributed caching support and speed!](https://dev.to/nrwl/lerna-51-new-website-new-guides-new-lerna-example-repo-distributed-caching-support-and-speed-31oe)
 - [Lifehacker] [How to Get Rid of Slugs in Your Garden](https://lifehacker.com/how-to-get-rid-of-slugs-in-your-garden-1849063465)
@@ -37,12 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Games to Play While You Wait for &#39;Starfield&#39;](https://lifehacker.com/15-games-to-play-while-you-wait-for-starfield-1849061541)
 - [Dev.to/JS] [Hiding Images with Content Warnings in React](https://dev.to/heyitsstacey/hiding-images-with-content-warnings-in-react-36c9)
 - [Dev.to/JS] [Need React Tutorial ASAP](https://dev.to/kevincp17/need-react-tutorial-asap-79)
-- [Dev.to/JS] [Using Absolute Paths in React Native](https://dev.to/abrahamlawson/using-absolute-paths-in-react-native-24ak)
 - [Lifehacker] [Stop Popping Your Sunburn Blisters](https://lifehacker.com/stop-popping-your-sunburn-blisters-1849042568)
 - [Lifehacker] [Google Chrome Has a Hidden Search Sidebar](https://lifehacker.com/google-chrome-has-a-hidden-search-sidebar-1849064065)
-- [Dev.to/JS] [Screenbean - Pimp your screenshots](https://dev.to/brunnerlivio/screenbean-pimp-your-screenshots-102m)
 - [Lifehacker] [You&#39;re Wrong About &#39;Breaking the Seal&#39;](https://lifehacker.com/youre-wrong-about-breaking-the-seal-1849053517)
-- [Dev.to/JS] [How To Loop Through An Object in JavaScript](https://dev.to/ugorji_simon/how-to-loop-through-an-object-in-javascript-4fck)
 - [Lifehacker] [Always Double Your Frosting Recipe](https://lifehacker.com/always-double-your-frosting-recipe-1849061845)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 - [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Nervous System Is to Blame for How You Argue With Your Partner](https://lifehacker.com/your-nervous-system-is-to-blame-for-how-you-argue-with-1849056649)
 - [Lifehacker] [The Quickest Ways to Redownload Your Apple Music Library](https://lifehacker.com/the-quickest-ways-to-redownload-your-apple-music-librar-1849058089)
 - [Lifehacker] [How to Get Through a Dry Spell in Your Relationship](https://lifehacker.com/how-to-get-through-a-dry-spell-in-your-relationship-1849055783)
-- [Lifehacker] [Stop Using the iOS Highlighter to Hide Personal Info in Your Photos](https://lifehacker.com/stop-using-the-ios-highlighter-to-hide-personal-info-in-1849055607)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
