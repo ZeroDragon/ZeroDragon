@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reveal the hackerman with js getters and setters](https://dev.to/datadeer/reveal-the-hackerman-with-js-getters-and-setters-4203)
+- [Dev.to/JS] [Boost your productivity by closing the VSCode Sidebar](https://dev.to/ivanjeremic/boost-your-productivity-by-closing-the-vscode-sidebar-35j8)
+- [Lifehacker] [Stop Following This Bad Life Advice](https://lifehacker.com/stop-following-this-bad-life-advice-1849065723)
+- [Dev.to/JS] [React BoardBuilder](https://dev.to/jordantaylorj/react-boardbuilder-efe)
+- [Dev.to/JS] [Javascript functions](https://dev.to/nameismani/javascript-function-4f9c)
+- [Lifehacker] [Update Windows Right Now to Fix These Security Vulnerabilities](https://lifehacker.com/update-windows-right-now-to-fix-these-security-vulnerab-1849065009)
+- [Dev.to/JS] [Book Wyrms 2.0: &quot;React&quot;ing to my First Project](https://dev.to/nkulik94/book-wyrms-20-reacting-to-my-first-project-1omf)
 - [Dev.to/JS] [From a list to one number](https://dev.to/nonsoo/from-a-list-to-one-number-55pi)
 - [Lifehacker] [Every Major Streaming Service That Offers a College Discount](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [You Need a New Sheet Cake in Your Life](https://lifehacker.com/you-need-a-new-sheet-cake-in-your-life-1849062136)
@@ -34,13 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Recalled Ford Might Unexpectedly Roll Away](https://lifehacker.com/your-recalled-ford-might-unexpectedly-roll-away-1849064395)
 - [Dev.to/JS] [Search for a template](https://dev.to/merite15/search-for-a-template-33a2)
 - [Dev.to/JS] [AJAX Project help](https://dev.to/taikawatiti191/ajax-project-help-29di)
-- [Dev.to/JS] [How can we create a real-time search filter?](https://dev.to/nonsoo/how-can-we-create-a-real-time-search-filter-4ojo)
-- [Dev.to/JS] [Paracetamol.test.js🧪| #4: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-4-testea-este-codigo-javascript-1hkh)
 - [Lifehacker] [How to Stop Instagram From Repeating Stories](https://lifehacker.com/how-to-stop-instagram-from-repeating-stories-1849064452)
-- [Dev.to/JS] [Paracetamol.js💊| #142: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-142-explica-este-codigo-javascript-4n1e)
 - [Lifehacker] [15 Games to Play While You Wait for &#39;Starfield&#39;](https://lifehacker.com/15-games-to-play-while-you-wait-for-starfield-1849061541)
-- [Dev.to/JS] [Hiding Images with Content Warnings in React](https://dev.to/heyitsstacey/hiding-images-with-content-warnings-in-react-36c9)
-- [Dev.to/JS] [Need React Tutorial ASAP](https://dev.to/kevincp17/need-react-tutorial-asap-79)
 - [Lifehacker] [Stop Popping Your Sunburn Blisters](https://lifehacker.com/stop-popping-your-sunburn-blisters-1849042568)
 - [Lifehacker] [Google Chrome Has a Hidden Search Sidebar](https://lifehacker.com/google-chrome-has-a-hidden-search-sidebar-1849064065)
 - [Lifehacker] [You&#39;re Wrong About &#39;Breaking the Seal&#39;](https://lifehacker.com/youre-wrong-about-breaking-the-seal-1849053517)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [17 of the Most Disturbing Films Ever Made](https://lifehacker.com/17-of-the-most-disturbing-films-ever-made-1849057023)
 - [Lifehacker] [What to Say When a Recruiter Asks Your Salary Requirement](https://lifehacker.com/what-to-say-when-a-recruiter-asks-your-salary-requireme-1849058068)
 - [Lifehacker] [Your Nervous System Is to Blame for How You Argue With Your Partner](https://lifehacker.com/your-nervous-system-is-to-blame-for-how-you-argue-with-1849056649)
-- [Lifehacker] [The Quickest Ways to Redownload Your Apple Music Library](https://lifehacker.com/the-quickest-ways-to-redownload-your-apple-music-librar-1849058089)
-- [Lifehacker] [How to Get Through a Dry Spell in Your Relationship](https://lifehacker.com/how-to-get-through-a-dry-spell-in-your-relationship-1849055783)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
