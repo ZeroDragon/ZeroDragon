@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Always Double Your Frosting Recipe](https://lifehacker.com/always-double-your-frosting-recipe-1849061845)
+- [Dev.to/JS] [How YOU can create your first React project and create your first component](https://dev.to/azure/how-you-can-create-your-first-react-project-and-create-your-first-component-cn8)
+- [Dev.to/JS] [Speed Up Your Javascript With These Simple Methods](https://dev.to/code_jedi/speed-up-your-javascript-with-these-simple-methods-1509)
+- [Dev.to/JS] [How to useMemo and useCallback: you can remove most of them](https://dev.to/adevnadia/how-to-usememo-and-usecallback-you-can-remove-most-of-them-3b50)
+- [Dev.to/JS] [How we built a Trello clone with Wasp - Waspello!](https://dev.to/wasp/how-we-built-a-trello-clone-with-wasp-waspello-30b9)
 - [Dev.to/JS] [Generate api automatic from tables!](https://dev.to/sreerajkarippala/generate-api-automatic-from-tables-35pl)
+- [Dev.to/JS] [Managing SECRETS in React-Native &lpar;2022&rpar;](https://dev.to/santhoshumapathi/managing-secrets-in-react-native-2022-2b9d)
 - [Dev.to/JS] [JavaSript Shorthands](https://dev.to/mursalfk/javasript-shorthands-1on5)
 - [Dev.to/JS] [How to write redux middleware - sample code snippet](https://dev.to/mkrishnancodes/how-to-write-redux-middleware-sample-code-snippet-3g8f)
-- [Dev.to/JS] [This St. Barts hotel has postcard-worthy views?](https://dev.to/enchantdevote/this-st-barts-hotel-has-postcard-worthy-views-n58)
 - [Dev.to/JS] [Fluid Player - Custom HTML5 Video Player Integration 🚀](https://dev.to/sh20raj/fluid-player-custom-html5-video-player-integration-2l0)
 - [Dev.to/JS] [A revolution in resizing images online !](https://dev.to/reyanraj/a-revolution-in-resizing-images-online--1e3d)
 - [Dev.to/JS] [vLitejs Integration - fast and lightweight JavaScript library to customize media player](https://dev.to/sh20raj/vlitejs-integration-fast-and-lightweight-javascript-library-to-customize-media-player-542g)
 - [Dev.to/JS] [How to use Docker in your Node and React Applications](https://dev.to/andrewbaisden/how-to-use-docker-in-your-node-and-react-applications-597e)
-- [Dev.to/JS] [Top Node.JS Frameworks for Developers in 2022](https://dev.to/architprajapati/top-nodejs-frameworks-for-developers-in-2022-2fha)
-- [Dev.to/JS] [Create an Electron app on Fedora](https://dev.to/austincunningham/create-an-electron-app-on-fedora-4gm5)
-- [Dev.to/JS] [maybe the better way to echarts](https://dev.to/yuhongda/maybe-the-better-way-to-echarts-4n1k)
-- [Dev.to/JS] [Advanced TypeScript Cheat Sheet for Types, Interfaces, Control Flow, and More](https://dev.to/dhiwise/advanced-typescript-cheat-sheet-for-types-interfaces-control-flow-and-more-3e83)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 - [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
 - [Lifehacker] [You Can Get a ‘Digital Nomad’ Visa in These 46 Countries](https://lifehacker.com/you-can-get-a-digital-nomad-visa-in-these-46-countrie-1849058910)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
 - [Lifehacker] [You Can Revive Saggy Old Couch Cushions for Cheap](https://lifehacker.com/you-can-revive-saggy-old-couch-cushions-for-cheap-1849053477)
 - [Lifehacker] [What to Do If You Think Your Partner Has Borderline Personality Disorder](https://lifehacker.com/what-to-do-if-you-think-your-partner-has-borderline-per-1849053402)
-- [Lifehacker] [Five Carry-On Essentials for Your Next Flight](https://lifehacker.com/five-carry-on-essentials-for-your-next-flight-1849053795)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
