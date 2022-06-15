@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This Week In React #108: App.js, Fresh, Reassure, Million, Hydrogen, Gatsby, Treasured, WebComponents, RNW, Zeego, TC39...](https://dev.to/sebastienlorber/this-week-in-react-108-appjs-fresh-reassure-million-hydrogen-gatsby-treasured-webcomponents-rnw-zeego-tc39-4bmh)
+- [Dev.to/JS] [Open-Source Contribution Guide : Express NodeJs](https://dev.to/royaljain/open-source-contribution-guide-express-nodejs-4i1g)
+- [Dev.to/JS] [Node For Dummies](https://dev.to/ckmonish2000/node-for-dummies-1mbk)
+- [Dev.to/JS] [Checking for internet speed using Javascript](https://dev.to/talenttinaapi/checking-for-internet-speed-using-javascript-4mcg)
 - [Dev.to/JS] [Let&#39;s build a Sorting Visualizer using React - Part I](https://dev.to/codewithmarish/lets-build-a-sorting-visualizer-using-react-part-i-5e7k)
 - [Dev.to/JS] [You don&#39;t need a JavaScript library for your components](https://dev.to/helmuthdu/you-dont-need-a-javascript-library-for-your-components-35bk)
 - [Dev.to/JS] [One Line of Code to Format Dates in JavaScript &lpar;I mean it&rpar;](https://dev.to/sojinsamuel/one-line-of-code-to-format-dates-in-javascript-i-mean-it-567a)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [This is a way to Grow Your Business Exponentially with Salesforce Einstein](https://dev.to/iqratechnology4/this-is-a-way-to-grow-your-business-exponentially-with-salesforce-einstein-229a)
 - [Dev.to/JS] [Typedream | Made with Next JS](https://dev.to/madewithjavascript/typedream-made-with-next-js-26n4)
 - [Dev.to/JS] [Call Stack in Javascript](https://dev.to/therahul_gupta/call-stack-in-javascript-692)
-- [Dev.to/JS] [Building a dead simple Rating component without any dependencies](https://dev.to/gabrielmlinassi/building-a-dead-simple-rating-component-without-any-dependencies-1mnd)
-- [Dev.to/JS] [Video and Audio conferencing in few minutes with React](https://dev.to/asayerio_techblog/video-and-audio-conferencing-in-few-minutes-with-react-3fni)
-- [Dev.to/JS] [Better Form Validation in React with Formik](https://dev.to/asayerio_techblog/better-form-validation-in-react-with-formik-j3m)
-- [Dev.to/JS] [Expanding on .Reduce&lpar;&rpar;](https://dev.to/codingmustache/expanding-on-reduce-5hdp)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 - [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
 - [Lifehacker] [You Can Get a ‘Digital Nomad’ Visa in These 46 Countries](https://lifehacker.com/you-can-get-a-digital-nomad-visa-in-these-46-countrie-1849058910)
