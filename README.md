@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Video and Audio conferencing in few minutes with React](https://dev.to/asayerio_techblog/video-and-audio-conferencing-in-few-minutes-with-react-3fni)
+- [Dev.to/JS] [Better Form Validation in React with Formik](https://dev.to/asayerio_techblog/better-form-validation-in-react-with-formik-j3m)
+- [Dev.to/JS] [Expanding on .Reduce&lpar;&rpar;](https://dev.to/codingmustache/expanding-on-reduce-5hdp)
 - [Dev.to/JS] [Paracetamol.test.js🧪| #3: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-3-testea-este-codigo-javascript-3hl)
 - [Dev.to/JS] [Test-Driven Infrastructure Development with Pulumi and Jest](https://dev.to/pulumi/test-driven-infrastructure-development-with-pulumi-and-jest-121f)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
@@ -41,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Modifying classes in mapped list items in Vue3](https://dev.to/muratcanyuksel/modifying-classes-in-mapped-list-items-in-vue3-1md6)
 - [Lifehacker] [Why You Should Change Your Phone Number](https://lifehacker.com/you-should-probably-change-your-phone-number-1849059296)
 - [Lifehacker] [You Can Finally Transfer Your WhatsApp Chats Between iPhone and Android [Updated]](https://lifehacker.com/you-can-finally-transfer-your-whatsapp-chats-between-ip-1847981775)
-- [Dev.to/JS] [Working With Remix-Router In React JS - A Look at New Data APIs in DataBrowserRouter](https://dev.to/aaronksaunders/working-with-remix-router-in-react-js-a-look-at-new-data-apis-in-databrowserrouter-1b0l)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
-- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Queue](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-queue-3if7)
-- [Dev.to/JS] [How to create a Meta Tag Validator by scraping the website in NEXT JS](https://dev.to/codewithmarish/how-to-create-a-meta-tag-validator-by-scraping-the-website-in-next-js-1lp0)
 - [Lifehacker] [How Long It’ll Really Take You to Save for a Down Payment](https://lifehacker.com/how-long-it-ll-really-take-you-to-save-for-a-down-payme-1849058574)
 - [Lifehacker] [17 of the Most Disturbing Films Ever Made](https://lifehacker.com/17-of-the-most-disturbing-films-ever-made-1849057023)
 - [Lifehacker] [What to Say When a Recruiter Asks Your Salary Requirement](https://lifehacker.com/what-to-say-when-a-recruiter-asks-your-salary-requireme-1849058068)
