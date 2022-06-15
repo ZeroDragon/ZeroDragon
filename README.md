@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [9 Things Our Parents Did That We Should Absolutely Bring Back](https://lifehacker.com/9-things-our-parents-did-that-we-should-absolutely-brin-1849064190)
+- [Dev.to/JS] [The Reason Why Order in Hooks Matters](https://dev.to/itsrennyman/the-reason-why-order-in-hooks-matters-34ba)
+- [Lifehacker] [How to Get the Best Prices on Your Prescriptions](https://lifehacker.com/how-to-get-the-best-prices-on-your-prescriptions-1849066164)
+- [Dev.to/JS] [How to Maximize your Job Offer as a Remote Engineer](https://dev.to/hired/how-to-maximize-your-job-offer-as-a-remote-engineer-37g1)
+- [Dev.to/JS] [A Suggestion to publicize our work in many countries](https://dev.to/browned86/a-suggestion-to-publicize-our-work-in-many-countries-2a5f)
+- [Lifehacker] [Is It Worth Wearing a Mask If You&#39;re the Only One Doing It?](https://lifehacker.com/is-it-worth-wearing-a-mask-if-youre-the-only-one-doing-1849065951)
 - [Dev.to/JS] [Reveal the hackerman with js getters and setters](https://dev.to/datadeer/reveal-the-hackerman-with-js-getters-and-setters-4203)
 - [Dev.to/JS] [Boost your productivity by closing the VSCode Sidebar](https://dev.to/ivanjeremic/boost-your-productivity-by-closing-the-vscode-sidebar-35j8)
 - [Lifehacker] [Stop Following This Bad Life Advice](https://lifehacker.com/stop-following-this-bad-life-advice-1849065723)
@@ -36,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build smart wizards with react-wizardry](https://dev.to/prabhuignoto/build-smart-wizards-with-react-wizardry-3pbo)
 - [Dev.to/JS] [Top Software for Running your Business](https://dev.to/sandra_parker/top-software-for-running-your-business-27cn)
 - [Dev.to/JS] [Announcing Strapi v4.2 with logo customization, in-app providers, media library folders in beta and more](https://dev.to/strapi/announcing-strapi-v42-with-logo-customization-in-app-providers-media-library-folders-in-beta-and-more-2edc)
-- [Dev.to/JS] [Lerna 5.1 - New website, new guides, new Lerna example repo, distributed caching support and speed!](https://dev.to/nrwl/lerna-51-new-website-new-guides-new-lerna-example-repo-distributed-caching-support-and-speed-31oe)
 - [Lifehacker] [How to Get Rid of Slugs in Your Garden](https://lifehacker.com/how-to-get-rid-of-slugs-in-your-garden-1849063465)
 - [Lifehacker] [Your Recalled Ford Might Unexpectedly Roll Away](https://lifehacker.com/your-recalled-ford-might-unexpectedly-roll-away-1849064395)
-- [Dev.to/JS] [Search for a template](https://dev.to/merite15/search-for-a-template-33a2)
-- [Dev.to/JS] [AJAX Project help](https://dev.to/taikawatiti191/ajax-project-help-29di)
 - [Lifehacker] [How to Stop Instagram From Repeating Stories](https://lifehacker.com/how-to-stop-instagram-from-repeating-stories-1849064452)
 - [Lifehacker] [15 Games to Play While You Wait for &#39;Starfield&#39;](https://lifehacker.com/15-games-to-play-while-you-wait-for-starfield-1849061541)
 - [Lifehacker] [Stop Popping Your Sunburn Blisters](https://lifehacker.com/stop-popping-your-sunburn-blisters-1849042568)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Transfer Your WhatsApp Chats Between iPhone and Android [Updated]](https://lifehacker.com/you-can-finally-transfer-your-whatsapp-chats-between-ip-1847981775)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Lifehacker] [How Long It’ll Really Take You to Save for a Down Payment](https://lifehacker.com/how-long-it-ll-really-take-you-to-save-for-a-down-payme-1849058574)
-- [Lifehacker] [17 of the Most Disturbing Films Ever Made](https://lifehacker.com/17-of-the-most-disturbing-films-ever-made-1849057023)
-- [Lifehacker] [What to Say When a Recruiter Asks Your Salary Requirement](https://lifehacker.com/what-to-say-when-a-recruiter-asks-your-salary-requireme-1849058068)
-- [Lifehacker] [Your Nervous System Is to Blame for How You Argue With Your Partner](https://lifehacker.com/your-nervous-system-is-to-blame-for-how-you-argue-with-1849056649)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
