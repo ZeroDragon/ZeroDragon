@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s build a Sorting Visualizer using React - Part I](https://dev.to/codewithmarish/lets-build-a-sorting-visualizer-using-react-part-i-5e7k)
+- [Dev.to/JS] [You don&#39;t need a JavaScript library for your components](https://dev.to/helmuthdu/you-dont-need-a-javascript-library-for-your-components-35bk)
+- [Dev.to/JS] [One Line of Code to Format Dates in JavaScript &lpar;I mean it&rpar;](https://dev.to/sojinsamuel/one-line-of-code-to-format-dates-in-javascript-i-mean-it-567a)
 - [Dev.to/JS] [Learn React Concept 2](https://dev.to/drsimplegraffiti/learn-react-concept-2-343d)
 - [Dev.to/JS] [Embeddable Music Player](https://dev.to/yizack/embeddable-music-player-1p53)
 - [Dev.to/JS] [This is a way to Grow Your Business Exponentially with Salesforce Einstein](https://dev.to/iqratechnology4/this-is-a-way-to-grow-your-business-exponentially-with-salesforce-einstein-229a)
@@ -32,11 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Video and Audio conferencing in few minutes with React](https://dev.to/asayerio_techblog/video-and-audio-conferencing-in-few-minutes-with-react-3fni)
 - [Dev.to/JS] [Better Form Validation in React with Formik](https://dev.to/asayerio_techblog/better-form-validation-in-react-with-formik-j3m)
 - [Dev.to/JS] [Expanding on .Reduce&lpar;&rpar;](https://dev.to/codingmustache/expanding-on-reduce-5hdp)
-- [Dev.to/JS] [Paracetamol.test.js🧪| #3: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-3-testea-este-codigo-javascript-3hl)
-- [Dev.to/JS] [Test-Driven Infrastructure Development with Pulumi and Jest](https://dev.to/pulumi/test-driven-infrastructure-development-with-pulumi-and-jest-121f)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 - [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
-- [Dev.to/JS] [Prevent Acid Redux with Redux Toolkit](https://dev.to/brettthurs10/prevent-acid-redux-with-redux-toolkit-p7g)
 - [Lifehacker] [You Can Get a ‘Digital Nomad’ Visa in These 46 Countries](https://lifehacker.com/you-can-get-a-digital-nomad-visa-in-these-46-countrie-1849058910)
 - [Lifehacker] [You Should Air-Fry Some Canned Potatoes](https://lifehacker.com/you-should-air-fy-some-canned-potatoes-1849061013)
 - [Lifehacker] [8 Ways We Use Euphemisms to Speak About the Unspeakable](https://lifehacker.com/8-ways-we-use-euphemisms-to-speak-about-the-unspeakable-1849060696)
@@ -44,6 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make a Good Vinaigrette With Cheap Oil and Vinegar](https://lifehacker.com/how-to-make-a-good-vinaigrette-with-cheap-oil-and-vineg-1849060494)
 - [Lifehacker] [Why You Should Change Your Phone Number](https://lifehacker.com/you-should-probably-change-your-phone-number-1849059296)
 - [Lifehacker] [You Can Finally Transfer Your WhatsApp Chats Between iPhone and Android [Updated]](https://lifehacker.com/you-can-finally-transfer-your-whatsapp-chats-between-ip-1847981775)
+- [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Lifehacker] [How Long It’ll Really Take You to Save for a Down Payment](https://lifehacker.com/how-long-it-ll-really-take-you-to-save-for-a-down-payme-1849058574)
 - [Lifehacker] [17 of the Most Disturbing Films Ever Made](https://lifehacker.com/17-of-the-most-disturbing-films-ever-made-1849057023)
 - [Lifehacker] [What to Say When a Recruiter Asks Your Salary Requirement](https://lifehacker.com/what-to-say-when-a-recruiter-asks-your-salary-requireme-1849058068)
@@ -59,7 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five Sites to Score Free Stuff &lpar;Other Than Facebook Marketplace&rpar;](https://lifehacker.com/five-sites-to-score-free-stuff-other-than-facebook-mar-1849053961)
 - [Lifehacker] [You Can Revive Saggy Old Couch Cushions for Cheap](https://lifehacker.com/you-can-revive-saggy-old-couch-cushions-for-cheap-1849053477)
 - [Lifehacker] [What to Do If You Think Your Partner Has Borderline Personality Disorder](https://lifehacker.com/what-to-do-if-you-think-your-partner-has-borderline-per-1849053402)
-- [Lifehacker] [Five Carry-On Essentials for Your Next Flight](https://lifehacker.com/five-carry-on-essentials-for-your-next-flight-1849053795)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Five Carry-On Essentials for Your Next Flight](https://lifehacker.com/five-carry-on-essentials-for-your-next-flight-1849053795)
+- [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
+- [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
 ---
 
