@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a dead simple Rating component without any dependencies](https://dev.to/gabrielmlinassi/building-a-dead-simple-rating-component-without-any-dependencies-1mnd)
 - [Dev.to/JS] [Video and Audio conferencing in few minutes with React](https://dev.to/asayerio_techblog/video-and-audio-conferencing-in-few-minutes-with-react-3fni)
 - [Dev.to/JS] [Better Form Validation in React with Formik](https://dev.to/asayerio_techblog/better-form-validation-in-react-with-formik-j3m)
 - [Dev.to/JS] [Expanding on .Reduce&lpar;&rpar;](https://dev.to/codingmustache/expanding-on-reduce-5hdp)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setting Up Your First WebGL Project With CurtainsJS - Four Part Setup](https://dev.to/hr21don/setting-up-your-first-webgl-project-with-curtainsjs-four-part-setup-3l3m)
 - [Dev.to/JS] [Paracetamol.js💊| #141: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-141-explica-este-codigo-javascript-5gp)
 - [Lifehacker] [How to Make a Good Vinaigrette With Cheap Oil and Vinegar](https://lifehacker.com/how-to-make-a-good-vinaigrette-with-cheap-oil-and-vineg-1849060494)
-- [Dev.to/JS] [Modifying classes in mapped list items in Vue3](https://dev.to/muratcanyuksel/modifying-classes-in-mapped-list-items-in-vue3-1md6)
 - [Lifehacker] [Why You Should Change Your Phone Number](https://lifehacker.com/you-should-probably-change-your-phone-number-1849059296)
 - [Lifehacker] [You Can Finally Transfer Your WhatsApp Chats Between iPhone and Android [Updated]](https://lifehacker.com/you-can-finally-transfer-your-whatsapp-chats-between-ip-1847981775)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
