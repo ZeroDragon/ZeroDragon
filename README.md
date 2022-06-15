@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Recalled Ford Might Unexpectedly Roll Away](https://lifehacker.com/your-recalled-ford-might-unexpectedly-roll-away-1849064395)
+- [Dev.to/JS] [Search for a template](https://dev.to/merite15/search-for-a-template-33a2)
+- [Dev.to/JS] [AJAX Project help](https://dev.to/taikawatiti191/ajax-project-help-29di)
+- [Dev.to/JS] [How can we create a real-time search filter?](https://dev.to/nonsoo/how-can-we-create-a-real-time-search-filter-4ojo)
+- [Dev.to/JS] [Paracetamol.test.js🧪| #4: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-4-testea-este-codigo-javascript-1hkh)
+- [Lifehacker] [How to Stop Instagram From Repeating Stories](https://lifehacker.com/how-to-stop-instagram-from-repeating-stories-1849064452)
+- [Dev.to/JS] [Paracetamol.js💊| #142: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-142-explica-este-codigo-javascript-4n1e)
 - [Lifehacker] [15 Games to Play While You Wait for &#39;Starfield&#39;](https://lifehacker.com/15-games-to-play-while-you-wait-for-starfield-1849061541)
+- [Dev.to/JS] [Hiding Images with Content Warnings in React](https://dev.to/heyitsstacey/hiding-images-with-content-warnings-in-react-36c9)
 - [Dev.to/JS] [Need React Tutorial ASAP](https://dev.to/kevincp17/need-react-tutorial-asap-79)
 - [Dev.to/JS] [Using Absolute Paths in React Native](https://dev.to/abrahamlawson/using-absolute-paths-in-react-native-24ak)
 - [Lifehacker] [Stop Popping Your Sunburn Blisters](https://lifehacker.com/stop-popping-your-sunburn-blisters-1849042568)
@@ -34,12 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build on Flow | Learn FCL - 8. How to Query Transaction by Id](https://dev.to/onflow/build-on-flow-learn-fcl-8-how-to-query-transaction-by-id-2pch)
 - [Lifehacker] [Always Double Your Frosting Recipe](https://lifehacker.com/always-double-your-frosting-recipe-1849061845)
 - [Dev.to/JS] [[React course] How YOU can create your first React project and create your first component](https://dev.to/azure/how-you-can-create-your-first-react-project-and-create-your-first-component-cn8)
-- [Dev.to/JS] [Speed Up Your Javascript With These Simple Methods](https://dev.to/code_jedi/speed-up-your-javascript-with-these-simple-methods-1509)
-- [Dev.to/JS] [How to useMemo and useCallback: you can remove most of them](https://dev.to/adevnadia/how-to-usememo-and-usecallback-you-can-remove-most-of-them-3b50)
-- [Dev.to/JS] [How we built a Trello clone with Wasp - Waspello!](https://dev.to/wasp/how-we-built-a-trello-clone-with-wasp-waspello-30b9)
-- [Dev.to/JS] [Generate api automatic from tables!](https://dev.to/sreerajkarippala/generate-api-automatic-from-tables-35pl)
-- [Dev.to/JS] [Managing SECRETS in React-Native &lpar;2022&rpar;](https://dev.to/santhoshumapathi/managing-secrets-in-react-native-2022-2b9d)
-- [Dev.to/JS] [JavaSript Shorthands](https://dev.to/mursalfk/javasript-shorthands-1on5)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 - [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
 - [Lifehacker] [You Can Get a ‘Digital Nomad’ Visa in These 46 Countries](https://lifehacker.com/you-can-get-a-digital-nomad-visa-in-these-46-countrie-1849058910)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Using the iOS Highlighter to Hide Personal Info in Your Photos](https://lifehacker.com/stop-using-the-ios-highlighter-to-hide-personal-info-in-1849055607)
 - [Lifehacker] [You Should Bake the Biscuit Scraps With Your Biscuits](https://lifehacker.com/you-should-bake-biscuit-scraps-with-your-biscuits-1849054918)
 - [Lifehacker] [How to Add Speed Dial to Your iPhone](https://lifehacker.com/how-to-add-speed-dial-to-your-iphone-1849054371)
-- [Lifehacker] [Are There Rules in a Fistfight?](https://lifehacker.com/are-there-rules-in-a-fistfight-1849055349)
-- [Lifehacker] [Why Is My Garlic Blue?](https://lifehacker.com/why-is-my-garlic-blue-1849054278)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
