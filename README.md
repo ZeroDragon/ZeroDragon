@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.test.js🧪| #3: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-3-testea-este-codigo-javascript-3hl)
+- [Dev.to/JS] [Test-Driven Infrastructure Development with Pulumi and Jest](https://dev.to/pulumi/test-driven-infrastructure-development-with-pulumi-and-jest-121f)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 - [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
 - [Dev.to/JS] [Prevent Acid Redux with Redux Toolkit](https://dev.to/brettthurs10/prevent-acid-redux-with-redux-toolkit-p7g)
@@ -43,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Queue](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-queue-3if7)
 - [Dev.to/JS] [How to create a Meta Tag Validator by scraping the website in NEXT JS](https://dev.to/codewithmarish/how-to-create-a-meta-tag-validator-by-scraping-the-website-in-next-js-1lp0)
-- [Dev.to/JS] [Common Array Opreations](https://dev.to/naimahmedshuvo/common-array-opreations-2kgp)
 - [Lifehacker] [How Long It’ll Really Take You to Save for a Down Payment](https://lifehacker.com/how-long-it-ll-really-take-you-to-save-for-a-down-payme-1849058574)
-- [Dev.to/JS] [Learn React Concepts](https://dev.to/drsimplegraffiti/learn-react-concepts-54o0)
 - [Lifehacker] [17 of the Most Disturbing Films Ever Made](https://lifehacker.com/17-of-the-most-disturbing-films-ever-made-1849057023)
 - [Lifehacker] [What to Say When a Recruiter Asks Your Salary Requirement](https://lifehacker.com/what-to-say-when-a-recruiter-asks-your-salary-requireme-1849058068)
 - [Lifehacker] [Your Nervous System Is to Blame for How You Argue With Your Partner](https://lifehacker.com/your-nervous-system-is-to-blame-for-how-you-argue-with-1849056649)
