@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced TypeScript Cheat Sheet for Types, Interfaces, Control Flow, and More](https://dev.to/dhiwise/advanced-typescript-cheat-sheet-for-types-interfaces-control-flow-and-more-3e83)
+- [Dev.to/JS] [View this solution on Exercism](https://dev.to/webdevlondon/view-this-solution-on-exercism-558c)
+- [Dev.to/JS] [Top HTML5 Custom Video Players 🚀 with documentation video](https://dev.to/sh20raj/top-html5-custom-video-players-with-documentation-video-5142)
 - [Dev.to/JS] [No unsafe optional chaining is crazy |:](https://dev.to/mnathani/no-unsafe-optional-chaining-is-crazy--4icm)
 - [Dev.to/JS] [Design Patterns in Angular &lpar;part I&rpar;](https://dev.to/armandotrue/design-patterns-in-angular-part-i-3ld7)
 - [Dev.to/JS] [This Week In React #108: App.js, Fresh, Reassure, Million, Hydrogen, Gatsby, Treasured, WebComponents, RNW, Zeego, TC39...](https://dev.to/sebastienlorber/this-week-in-react-108-appjs-fresh-reassure-million-hydrogen-gatsby-treasured-webcomponents-rnw-zeego-tc39-4bmh)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s build a Sorting Visualizer using React - Part I](https://dev.to/codewithmarish/lets-build-a-sorting-visualizer-using-react-part-i-5e7k)
 - [Dev.to/JS] [You don&#39;t need a JavaScript library for your components](https://dev.to/helmuthdu/you-dont-need-a-javascript-library-for-your-components-35bk)
 - [Dev.to/JS] [One Line of Code to Format Dates in JavaScript &lpar;I mean it&rpar;](https://dev.to/sojinsamuel/one-line-of-code-to-format-dates-in-javascript-i-mean-it-567a)
-- [Dev.to/JS] [Learn React Concept 2](https://dev.to/drsimplegraffiti/learn-react-concept-2-343d)
-- [Dev.to/JS] [Embeddable Music Player](https://dev.to/yizack/embeddable-music-player-1p53)
-- [Dev.to/JS] [This is a way to Grow Your Business Exponentially with Salesforce Einstein](https://dev.to/iqratechnology4/this-is-a-way-to-grow-your-business-exponentially-with-salesforce-einstein-229a)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 - [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
 - [Lifehacker] [You Can Get a ‘Digital Nomad’ Visa in These 46 Countries](https://lifehacker.com/you-can-get-a-digital-nomad-visa-in-these-46-countrie-1849058910)
