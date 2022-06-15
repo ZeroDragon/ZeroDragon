@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Intersection Observer ?](https://dev.to/shailseen/why-intersection-observer--1gnj)
 - [Dev.to/JS] [Exploring Teams and SMTP with Appwrite](https://dev.to/gewenyu99/exploring-teams-and-smtp-with-appwrite-8fn)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Dev.to/JS] [Beginners Guide to DynamoDB with Node.js](https://dev.to/mxro/beginners-guide-to-dynamodb-with-nodejs-m60)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React BoardBuilder](https://dev.to/jordantaylorj/react-boardbuilder-efe)
 - [Dev.to/JS] [Javascript functions](https://dev.to/nameismani/javascript-function-4f9c)
 - [Lifehacker] [Update Windows Right Now to Fix These Security Vulnerabilities](https://lifehacker.com/update-windows-right-now-to-fix-these-security-vulnerab-1849065009)
-- [Dev.to/JS] [Book Wyrms 2.0: &quot;React&quot;ing to my First Project](https://dev.to/nkulik94/book-wyrms-20-reacting-to-my-first-project-1omf)
 - [Lifehacker] [Every Major Streaming Service That Offers a College Discount](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [You Need a New Sheet Cake in Your Life](https://lifehacker.com/you-need-a-new-sheet-cake-in-your-life-1849062136)
 - [Lifehacker] [How to Get Rid of Slugs in Your Garden](https://lifehacker.com/how-to-get-rid-of-slugs-in-your-garden-1849063465)
