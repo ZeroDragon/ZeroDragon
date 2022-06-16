@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I built a tool that analyses your code and configures AWS to run it](https://dev.to/zij/i-built-a-tool-that-analyses-your-code-and-configures-aws-to-run-it-43il)
+- [Dev.to/JS] [How to optimize image upload in Appwrite and Vuejs](https://dev.to/hackmamba/how-to-optimize-image-upload-in-appwrite-and-vuejs-4og5)
+- [Dev.to/JS] [How not to write clean code in React? 🧹](https://dev.to/avneesh0612/how-not-to-write-clean-code-in-react-4b7p)
 - [Lifehacker] [8 of the Most Consequential Bear Markets in U.S. History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/8-of-the-most-consequential-bear-markets-in-u-s-histor-1849068363)
 - [Dev.to/JS] [Using SWR hook with Suspense in React 18](https://dev.to/darkmavis1980/using-swr-hook-with-suspense-in-react-18-1clk)
 - [Dev.to/JS] [How YOU can learn enough RegEx in JavaScript to be dangerous](https://dev.to/azure/how-you-can-learn-enough-regex-in-javascript-to-be-dangerous-49d)
@@ -35,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hackathon environment + boilerplate from scratch in five steps](https://dev.to/wasp/hackathon-environment-boilerplate-from-scratch-in-five-steps-4oaa)
 - [Dev.to/JS] [Summon The JSON status update](https://dev.to/tomaszs2/summon-the-json-status-update-n6f)
 - [Dev.to/JS] [How to make a Slackbot &lpar;2022 GUIDE&rpar;](https://dev.to/onni3000/how-to-make-a-slackbot-2022-guide-ln1)
-- [Dev.to/JS] [Veniselle - Price, Results | Benefits? Ingredients Or Scam?](https://dev.to/veniselleinfo1/veniselle-price-results-benefits-ingredients-or-scam-2kdo)
-- [Dev.to/JS] [Which Frontend Framework to Pick for Your E-commerce Storefront?](https://dev.to/medusajs/which-frontend-framework-to-pick-for-your-e-commerce-storefront-12km)
-- [Dev.to/JS] [Quickstart: How to build To-Do App using React &amp; Altogic?](https://dev.to/altogic/quickstart-how-to-build-to-do-app-using-react-altogic-4kjd)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
