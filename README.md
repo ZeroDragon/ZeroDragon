@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
 - [Lifehacker] [Maybe You Should Just Ship Your Luggage](https://lifehacker.com/maybe-you-should-just-ship-your-luggage-1849072240)
 - [Lifehacker] [All the Ways You&#39;re Setting Up Your TV Wrong](https://lifehacker.com/all-the-ways-youre-setting-up-your-tv-wrong-1849072675)
 - [Dev.to/JS] [Understanding Scope In JavaScript](https://dev.to/spencerwmathews/understanding-scope-in-javascript-40e3)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Update Windows Right Now to Fix These Security Vulnerabilities](https://lifehacker.com/update-windows-right-now-to-fix-these-security-vulnerab-1849065009)
 - [Lifehacker] [Every Major Streaming Service That Offers a College Discount](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [You Need a New Sheet Cake in Your Life](https://lifehacker.com/you-need-a-new-sheet-cake-in-your-life-1849062136)
-- [Lifehacker] [How to Get Rid of Slugs in Your Garden](https://lifehacker.com/how-to-get-rid-of-slugs-in-your-garden-1849063465)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
