@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use ESLint and Prettier for code analysis and formatting](https://dev.to/andrewbaisden/how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g)
+- [Dev.to/JS] [Hey fork&#39;s i have started Mantine-UI Series on YouTube](https://dev.to/joseph_kitheka/hey-forks-i-have-started-mantine-ui-series-on-youtube-2a60)
 - [Dev.to/JS] [Website Feedback and Ask plugin - Vue3, NodeJS](https://dev.to/ahmetilhan24/website-feedback-and-ask-plugin-vue3-nodejs-5em8)
 - [Dev.to/JS] [NPM package development with Vite](https://dev.to/brifiction/npm-package-development-with-vite-4jc6)
 - [Dev.to/JS] [Awesome Blog on Cypress | Cypress.io](https://dev.to/kailashpathak7/awesome-blog-on-cypress-cypressio-1hnk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript DSA for Non-CS Background](https://dev.to/lakharashubham007/javascript-dsa-for-non-cs-background-4eca)
 - [Dev.to/JS] [🤖 New Engineering Opportunities - Week #25 of 2022](https://dev.to/shman/new-engineering-opportunities-week-25-of-2022-5e7e)
 - [Dev.to/JS] [Entendendo Redux com ReactJS](https://dev.to/engwilson/entendendo-redux-com-reactjs-p2l)
-- [Dev.to/JS] [Q: As a #CodeNewbie, what are your learning goals for the next #30Days?](https://dev.to/azure/q-as-a-codenewbie-what-are-your-learning-goals-for-the-next-30days-3om9)
-- [Dev.to/JS] [How To Bypass Or Solve A Captcha With JavaScript &amp; 2Captcha](https://dev.to/ugorji_simon/how-to-bypass-or-solve-a-captcha-with-javascript-2captcha-5ekk)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
