@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Q: As a #CodeNewbie, what are your learning goals for the next #30Days?](https://dev.to/azure/q-as-a-codenewbie-what-are-your-learning-goals-for-the-next-30days-3om9)
+- [Dev.to/JS] [How To Bypass Or Solve A Captcha With JavaScript &amp; 2Captcha](https://dev.to/ugorji_simon/how-to-bypass-or-solve-a-captcha-with-javascript-2captcha-5ekk)
 - [Dev.to/JS] [Why Intersection Observer ?](https://dev.to/shailseen/why-intersection-observer--1gnj)
 - [Dev.to/JS] [Exploring Teams and SMTP with Appwrite](https://dev.to/gewenyu99/exploring-teams-and-smtp-with-appwrite-8fn)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reveal the hackerman with js getters and setters](https://dev.to/datadeer/reveal-the-hackerman-with-js-getters-and-setters-4203)
 - [Dev.to/JS] [Boost your productivity by closing the VSCode Sidebar](https://dev.to/ivanjeremic/boost-your-productivity-by-closing-the-vscode-sidebar-35j8)
 - [Lifehacker] [Stop Following This Bad Life Advice](https://lifehacker.com/stop-following-this-bad-life-advice-1849065723)
-- [Dev.to/JS] [React BoardBuilder](https://dev.to/jordantaylorj/react-boardbuilder-efe)
-- [Dev.to/JS] [Javascript functions](https://dev.to/nameismani/javascript-function-4f9c)
 - [Lifehacker] [Update Windows Right Now to Fix These Security Vulnerabilities](https://lifehacker.com/update-windows-right-now-to-fix-these-security-vulnerab-1849065009)
 - [Lifehacker] [Every Major Streaming Service That Offers a College Discount](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [You Need a New Sheet Cake in Your Life](https://lifehacker.com/you-need-a-new-sheet-cake-in-your-life-1849062136)
