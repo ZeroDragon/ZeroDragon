@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Minimal landing page for developers - Responsive Front-End Components Ep 2](https://dev.to/hr21don/minimal-landing-page-for-developers-responsive-front-end-components-ep-2-1jai)
+- [Lifehacker] [How to Navigate Away From a Website That Disabled the &#39;Back&#39; Button](https://lifehacker.com/how-to-navigate-away-from-a-website-that-disabled-the-b-1849070714)
+- [Dev.to/JS] [LUX TECH ACADEMY- Data Structure and Algorithms Week 1](https://dev.to/gitonga123/lux-tech-academy-data-structure-and-algorithms-week-1-1gmo)
 - [Lifehacker] [When Kids Under 5 Can Finally Get Their COVID Vaccines](https://lifehacker.com/when-kids-under-5-can-finally-get-their-covid-vaccines-1849070799)
 - [Lifehacker] [How to Kill Your Lawn &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-kill-your-lawn-and-why-you-might-want-to-1849070489)
 - [Dev.to/JS] [How to use React with Redux](https://dev.to/learnfrontendio/how-to-use-react-with-redux-20d7)
@@ -39,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blind 75 - 1. Two Sum Javascript](https://dev.to/diganta06/blind-75-1-two-sum-3gkj)
 - [Lifehacker] [Is It Safe to Give Kids Melatonin?](https://lifehacker.com/is-it-safe-to-give-kids-melatonin-1849043653)
 - [Dev.to/JS] [The big secret of React](https://dev.to/cloudx/the-big-secret-of-react-3if0)
-- [Dev.to/JS] [Hackathon environment + boilerplate from scratch in five steps](https://dev.to/wasp/hackathon-environment-boilerplate-from-scratch-in-five-steps-4oaa)
-- [Dev.to/JS] [Summon The JSON status update](https://dev.to/tomaszs2/summon-the-json-status-update-n6f)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Google Chrome Has a Hidden Search Sidebar](https://lifehacker.com/google-chrome-has-a-hidden-search-sidebar-1849064065)
 - [Lifehacker] [You&#39;re Wrong About &#39;Breaking the Seal&#39;](https://lifehacker.com/youre-wrong-about-breaking-the-seal-1849053517)
 - [Lifehacker] [Always Double Your Frosting Recipe](https://lifehacker.com/always-double-your-frosting-recipe-1849061845)
-- [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
