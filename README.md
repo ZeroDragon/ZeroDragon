@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Awesome Blog on Cypress | Cypress.io](https://dev.to/kailashpathak7/awesome-blog-on-cypress-cypressio-1hnk)
+- [Dev.to/JS] [PowerApps Attachments](https://dev.to/syamalakancharla/powerapps-attachments-7m8)
 - [Dev.to/JS] [Day 4/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-430-days-of-codewars-javascript-edition-44j5)
 - [Dev.to/JS] [Building our first project: A prototype using React js and Material UI](https://dev.to/anamdiazs/building-our-first-project-a-prototype-using-react-js-and-material-ui-blk)
 - [Dev.to/JS] [Polyfills And Helpers - How To Save Your Bundle Size](https://dev.to/nazha/polyfills-and-helpers-how-to-save-your-bundle-size-4lp0)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Intersection Observer ?](https://dev.to/shailseen/why-intersection-observer--1gnj)
 - [Dev.to/JS] [Exploring Teams and SMTP with Appwrite](https://dev.to/gewenyu99/exploring-teams-and-smtp-with-appwrite-8fn)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
-- [Dev.to/JS] [Beginners Guide to DynamoDB with Node.js](https://dev.to/mxro/beginners-guide-to-dynamodb-with-nodejs-m60)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
-- [Dev.to/JS] [Paracetamol.js💊| #143: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-143-explica-este-codigo-javascript-1ood)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
 - [Lifehacker] [9 Things Our Parents Did That We Should Absolutely Bring Back](https://lifehacker.com/9-things-our-parents-did-that-we-should-absolutely-brin-1849064190)
 - [Lifehacker] [How to Get the Best Prices on Your Prescriptions](https://lifehacker.com/how-to-get-the-best-prices-on-your-prescriptions-1849066164)
