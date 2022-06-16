@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript DSA for Non-CS Background](https://dev.to/lakharashubham007/javascript-dsa-for-non-cs-background-4eca)
 - [Dev.to/JS] [🤖 New Engineering Opportunities - Week #25 of 2022](https://dev.to/shman/new-engineering-opportunities-week-25-of-2022-5e7e)
 - [Dev.to/JS] [Entendendo Redux com ReactJS](https://dev.to/engwilson/entendendo-redux-com-reactjs-p2l)
 - [Dev.to/JS] [Q: As a #CodeNewbie, what are your learning goals for the next #30Days?](https://dev.to/azure/q-as-a-codenewbie-what-are-your-learning-goals-for-the-next-30days-3om9)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Reason Why Order in Hooks Matters](https://dev.to/itsrennyman/the-reason-why-order-in-hooks-matters-34ba)
 - [Lifehacker] [How to Get the Best Prices on Your Prescriptions](https://lifehacker.com/how-to-get-the-best-prices-on-your-prescriptions-1849066164)
 - [Dev.to/JS] [How to Maximize your Job Offer as a Remote Engineer](https://dev.to/hired/how-to-maximize-your-job-offer-as-a-remote-engineer-37g1)
-- [Dev.to/JS] [A Suggestion to publicize our work in many countries](https://dev.to/browned86/a-suggestion-to-publicize-our-work-in-many-countries-2a5f)
 - [Lifehacker] [Is It Worth Wearing a Mask If You&#39;re the Only One Doing It?](https://lifehacker.com/is-it-worth-wearing-a-mask-if-youre-the-only-one-doing-1849065951)
 - [Lifehacker] [Stop Following This Bad Life Advice](https://lifehacker.com/stop-following-this-bad-life-advice-1849065723)
 - [Lifehacker] [Update Windows Right Now to Fix These Security Vulnerabilities](https://lifehacker.com/update-windows-right-now-to-fix-these-security-vulnerab-1849065009)
