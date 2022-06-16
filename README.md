@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Decadent &quot;Duck Frosting&quot; With Just Two Ingredients](https://lifehacker.com/make-decadent-duck-frosting-with-just-two-ingredients-1849072147)
+- [Dev.to/JS] [Headless CMS vs. DXP: What Are the Differences and Benefits?](https://dev.to/strapi/headless-cms-vs-dxp-what-are-the-differences-and-benefits-2bjk)
+- [Dev.to/JS] [A simple RPG game - Part 2- a new look for my project.](https://dev.to/damanita/a-simple-rpg-game-part-2-a-new-look-for-my-project-4em1)
+- [Lifehacker] [Use This Trick to Stop Yourself From Throwing Up](https://lifehacker.com/use-this-trick-to-stop-yourself-from-throwing-up-1849070937)
 - [Lifehacker] [Where You&#39;ll Need a National Park Reservation This Summer &lpar;and How to Get In Without One&rpar;](https://lifehacker.com/where-youll-need-a-national-park-reservation-this-summe-1849071260)
 - [Dev.to/JS] [Responsive Minimal landing page for developers with WebGL](https://dev.to/hr21don/responsive-minimal-landing-page-for-developers-with-webgl-3noi)
 - [Lifehacker] [You Should Definitely Air Fry a Banana](https://lifehacker.com/you-should-definitely-air-fry-a-banana-1849071675)
@@ -41,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need Spoon Cake This Summer](https://lifehacker.com/you-need-spoon-cake-this-summer-1849066440)
 - [Dev.to/JS] [7 Powerful hacks for skyrocketing your career in 2022.](https://dev.to/tyaga001/7-powerful-hacks-for-skyrocketing-your-career-in-2022-5epe)
 - [Dev.to/JS] [Verify password with a single regex](https://dev.to/abiria/verify-password-with-a-single-regex-on2)
-- [Dev.to/JS] [Blind 75 - 1. Two Sum Javascript](https://dev.to/diganta06/blind-75-1-two-sum-3gkj)
 - [Lifehacker] [Is It Safe to Give Kids Melatonin?](https://lifehacker.com/is-it-safe-to-give-kids-melatonin-1849043653)
-- [Dev.to/JS] [The big secret of React](https://dev.to/cloudx/the-big-secret-of-react-3if0)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
@@ -57,12 +59,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Rid of Slugs in Your Garden](https://lifehacker.com/how-to-get-rid-of-slugs-in-your-garden-1849063465)
 - [Lifehacker] [Your Recalled Ford Might Unexpectedly Roll Away](https://lifehacker.com/your-recalled-ford-might-unexpectedly-roll-away-1849064395)
 - [Lifehacker] [How to Stop Instagram From Repeating Stories](https://lifehacker.com/how-to-stop-instagram-from-repeating-stories-1849064452)
-- [Lifehacker] [15 Games to Play While You Wait for &#39;Starfield&#39;](https://lifehacker.com/15-games-to-play-while-you-wait-for-starfield-1849061541)
-- [Lifehacker] [Stop Popping Your Sunburn Blisters](https://lifehacker.com/stop-popping-your-sunburn-blisters-1849042568)
-- [Lifehacker] [Google Chrome Has a Hidden Search Sidebar](https://lifehacker.com/google-chrome-has-a-hidden-search-sidebar-1849064065)
-- [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
-- [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
-- [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [15 Games to Play While You Wait for &#39;Starfield&#39;](https://lifehacker.com/15-games-to-play-while-you-wait-for-starfield-1849061541)<!-- TECH-POSTS:END -->
 
 ---
 
