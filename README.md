@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Remove Duplicates From Array](https://dev.to/hermitex/remove-duplicates-from-array-1d6h)
+- [Dev.to/JS] [Rekomendasi Klinik Kecantikan di Bandung](https://dev.to/gemaprilia/rekomendasi-klinik-kecantikan-di-bandung-jk7)
+- [Dev.to/JS] [I’ve fucked up in an interview](https://dev.to/shreyvijayvargiya/ive-fucked-up-in-an-interview-16l0)
 - [Dev.to/JS] [How to use ESLint and Prettier for code analysis and formatting](https://dev.to/andrewbaisden/how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g)
 - [Dev.to/JS] [Hey fork&#39;s i have started Mantine-UI Series on YouTube](https://dev.to/joseph_kitheka/hey-forks-i-have-started-mantine-ui-series-on-youtube-2a60)
 - [Dev.to/JS] [Website Feedback and Ask plugin - Vue3, NodeJS](https://dev.to/ahmetilhan24/website-feedback-and-ask-plugin-vue3-nodejs-5em8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 4/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-430-days-of-codewars-javascript-edition-44j5)
 - [Dev.to/JS] [Building our first project: A prototype using React js and Material UI](https://dev.to/anamdiazs/building-our-first-project-a-prototype-using-react-js-and-material-ui-blk)
 - [Dev.to/JS] [Polyfills And Helpers - How To Save Your Bundle Size](https://dev.to/nazha/polyfills-and-helpers-how-to-save-your-bundle-size-4lp0)
-- [Dev.to/JS] [JavaScript DSA for Non-CS Background](https://dev.to/lakharashubham007/javascript-dsa-for-non-cs-background-4eca)
-- [Dev.to/JS] [🤖 New Engineering Opportunities - Week #25 of 2022](https://dev.to/shman/new-engineering-opportunities-week-25-of-2022-5e7e)
-- [Dev.to/JS] [Entendendo Redux com ReactJS](https://dev.to/engwilson/entendendo-redux-com-reactjs-p2l)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
