@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blind 75 - 1. Two Sum Javascript](https://dev.to/diganta06/blind-75-1-two-sum-3gkj)
+- [Lifehacker] [Is It Safe to Give Kids Melatonin?](https://lifehacker.com/is-it-safe-to-give-kids-melatonin-1849043653)
+- [Dev.to/JS] [The big secret of React](https://dev.to/cloudx/the-big-secret-of-react-3if0)
+- [Dev.to/JS] [Hackathon environment + boilerplate from scratch in five steps](https://dev.to/wasp/hackathon-environment-boilerplate-from-scratch-in-five-steps-4oaa)
 - [Dev.to/JS] [Summon The JSON status update](https://dev.to/tomaszs2/summon-the-json-status-update-n6f)
 - [Dev.to/JS] [How to make a Slackbot &lpar;2022 GUIDE&rpar;](https://dev.to/onni3000/how-to-make-a-slackbot-2022-guide-ln1)
 - [Dev.to/JS] [https://www.facebook.com/ViaKetoCapsulesAvisPills/](https://dev.to/aviscapsule/httpswwwfacebookcomviaketocapsulesavispills-2p63)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Google Sheets as your CMS](https://dev.to/kaspera/using-google-sheets-as-your-cms-1h1p)
 - [Dev.to/JS] [Remove Duplicates From Array](https://dev.to/hermitex/remove-duplicates-from-array-1d6h)
 - [Dev.to/JS] [Rekomendasi Klinik Kecantikan di Bandung](https://dev.to/gemaprilia/rekomendasi-klinik-kecantikan-di-bandung-jk7)
-- [Dev.to/JS] [I’ve fucked up in an interview](https://dev.to/shreyvijayvargiya/ive-fucked-up-in-an-interview-16l0)
-- [Dev.to/JS] [How to use ESLint and Prettier for code analysis and formatting](https://dev.to/andrewbaisden/how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g)
-- [Dev.to/JS] [Hey fork&#39;s i have started Mantine-UI Series on YouTube](https://dev.to/joseph_kitheka/hey-forks-i-have-started-mantine-ui-series-on-youtube-2a60)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Air-Fry Some Canned Potatoes](https://lifehacker.com/you-should-air-fy-some-canned-potatoes-1849061013)
 - [Lifehacker] [8 Ways We Use Euphemisms to Speak About the Unspeakable](https://lifehacker.com/8-ways-we-use-euphemisms-to-speak-about-the-unspeakable-1849060696)
 - [Lifehacker] [50 of the Cheapest Day Trips to Take Across the US](https://lifehacker.com/50-of-the-cheapest-day-trips-to-take-across-the-us-1849058582)
-- [Lifehacker] [How to Make a Good Vinaigrette With Cheap Oil and Vinegar](https://lifehacker.com/how-to-make-a-good-vinaigrette-with-cheap-oil-and-vineg-1849060494)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
