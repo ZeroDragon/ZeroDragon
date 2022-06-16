@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Summon The JSON status update](https://dev.to/tomaszs2/summon-the-json-status-update-n6f)
+- [Dev.to/JS] [How to make a Slackbot &lpar;2022 GUIDE&rpar;](https://dev.to/onni3000/how-to-make-a-slackbot-2022-guide-ln1)
+- [Dev.to/JS] [https://www.facebook.com/ViaKetoCapsulesAvisPills/](https://dev.to/aviscapsule/httpswwwfacebookcomviaketocapsulesavispills-2p63)
+- [Dev.to/JS] [Veniselle - Price, Results | Benefits? Ingredients Or Scam?](https://dev.to/veniselleinfo1/veniselle-price-results-benefits-ingredients-or-scam-2kdo)
+- [Dev.to/JS] [Which Frontend Framework to Pick for Your E-commerce Storefront?](https://dev.to/medusajs/which-frontend-framework-to-pick-for-your-e-commerce-storefront-12km)
 - [Dev.to/JS] [Quickstart: How to build To-Do App using React &amp; Altogic?](https://dev.to/altogic/quickstart-how-to-build-to-do-app-using-react-altogic-4kjd)
 - [Dev.to/JS] [Using Google Sheets as your CMS](https://dev.to/kaspera/using-google-sheets-as-your-cms-1h1p)
 - [Dev.to/JS] [Remove Duplicates From Array](https://dev.to/hermitex/remove-duplicates-from-array-1d6h)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I’ve fucked up in an interview](https://dev.to/shreyvijayvargiya/ive-fucked-up-in-an-interview-16l0)
 - [Dev.to/JS] [How to use ESLint and Prettier for code analysis and formatting](https://dev.to/andrewbaisden/how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g)
 - [Dev.to/JS] [Hey fork&#39;s i have started Mantine-UI Series on YouTube](https://dev.to/joseph_kitheka/hey-forks-i-have-started-mantine-ui-series-on-youtube-2a60)
-- [Dev.to/JS] [Website Feedback and Ask plugin - Vue3, NodeJS](https://dev.to/ahmetilhan24/website-feedback-and-ask-plugin-vue3-nodejs-5em8)
-- [Dev.to/JS] [NPM package development with Vite](https://dev.to/brifiction/npm-package-development-with-vite-4jc6)
-- [Dev.to/JS] [Awesome Blog on Cypress | Cypress.io](https://dev.to/kailashpathak7/awesome-blog-on-cypress-cypressio-1hnk)
-- [Dev.to/JS] [PowerApps Attachments](https://dev.to/syamalakancharla/powerapps-attachments-7m8)
-- [Dev.to/JS] [Day 4/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-430-days-of-codewars-javascript-edition-44j5)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
