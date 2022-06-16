@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 4/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-430-days-of-codewars-javascript-edition-44j5)
 - [Dev.to/JS] [Building our first project: A prototype using React js and Material UI](https://dev.to/anamdiazs/building-our-first-project-a-prototype-using-react-js-and-material-ui-blk)
 - [Dev.to/JS] [Polyfills And Helpers - How To Save Your Bundle Size](https://dev.to/nazha/polyfills-and-helpers-how-to-save-your-bundle-size-4lp0)
 - [Dev.to/JS] [JavaScript DSA for Non-CS Background](https://dev.to/lakharashubham007/javascript-dsa-for-non-cs-background-4eca)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginners Guide to DynamoDB with Node.js](https://dev.to/mxro/beginners-guide-to-dynamodb-with-nodejs-m60)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Dev.to/JS] [Paracetamol.js💊| #143: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-143-explica-este-codigo-javascript-1ood)
-- [Dev.to/JS] [Q: As a #CodeNewbie, what web development framework are you learning - and why?](https://dev.to/azure/q-as-a-codenewbie-what-web-development-framework-are-you-learning-and-why-5b07)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
 - [Lifehacker] [9 Things Our Parents Did That We Should Absolutely Bring Back](https://lifehacker.com/9-things-our-parents-did-that-we-should-absolutely-brin-1849064190)
 - [Lifehacker] [How to Get the Best Prices on Your Prescriptions](https://lifehacker.com/how-to-get-the-best-prices-on-your-prescriptions-1849066164)
