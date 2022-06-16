@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🤖 New Engineering Opportunities - Week #25 of 2022](https://dev.to/shman/new-engineering-opportunities-week-25-of-2022-5e7e)
+- [Dev.to/JS] [Entendendo Redux com ReactJS](https://dev.to/engwilson/entendendo-redux-com-reactjs-p2l)
 - [Dev.to/JS] [Q: As a #CodeNewbie, what are your learning goals for the next #30Days?](https://dev.to/azure/q-as-a-codenewbie-what-are-your-learning-goals-for-the-next-30days-3om9)
 - [Dev.to/JS] [How To Bypass Or Solve A Captcha With JavaScript &amp; 2Captcha](https://dev.to/ugorji_simon/how-to-bypass-or-solve-a-captcha-with-javascript-2captcha-5ekk)
 - [Dev.to/JS] [Why Intersection Observer ?](https://dev.to/shailseen/why-intersection-observer--1gnj)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Maximize your Job Offer as a Remote Engineer](https://dev.to/hired/how-to-maximize-your-job-offer-as-a-remote-engineer-37g1)
 - [Dev.to/JS] [A Suggestion to publicize our work in many countries](https://dev.to/browned86/a-suggestion-to-publicize-our-work-in-many-countries-2a5f)
 - [Lifehacker] [Is It Worth Wearing a Mask If You&#39;re the Only One Doing It?](https://lifehacker.com/is-it-worth-wearing-a-mask-if-youre-the-only-one-doing-1849065951)
-- [Dev.to/JS] [Reveal the hackerman with js getters and setters](https://dev.to/datadeer/reveal-the-hackerman-with-js-getters-and-setters-4203)
-- [Dev.to/JS] [Boost your productivity by closing the VSCode Sidebar](https://dev.to/ivanjeremic/boost-your-productivity-by-closing-the-vscode-sidebar-35j8)
 - [Lifehacker] [Stop Following This Bad Life Advice](https://lifehacker.com/stop-following-this-bad-life-advice-1849065723)
 - [Lifehacker] [Update Windows Right Now to Fix These Security Vulnerabilities](https://lifehacker.com/update-windows-right-now-to-fix-these-security-vulnerab-1849065009)
 - [Lifehacker] [Every Major Streaming Service That Offers a College Discount](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
