@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Maybe You Should Just Ship Your Luggage](https://lifehacker.com/maybe-you-should-just-ship-your-luggage-1849072240)
+- [Lifehacker] [All the Ways You&#39;re Setting Up Your TV Wrong](https://lifehacker.com/all-the-ways-youre-setting-up-your-tv-wrong-1849072675)
+- [Dev.to/JS] [Understanding Scope In JavaScript](https://dev.to/spencerwmathews/understanding-scope-in-javascript-40e3)
+- [Dev.to/JS] [Koa Js : Part 4 - Connect a Relational SQL database to your Koa server](https://dev.to/kachiic/koa-js-part-4-connect-a-relational-sql-database-to-your-koa-server-ddc)
+- [Lifehacker] [This App Is Like a Homing Device for Bluetooth Signals](https://lifehacker.com/this-app-is-like-a-homing-device-for-bluetooth-signals-1849072052)
 - [Lifehacker] [Make Decadent &quot;Duck Frosting&quot; With Just Two Ingredients](https://lifehacker.com/make-decadent-duck-frosting-with-just-two-ingredients-1849072147)
 - [Dev.to/JS] [Headless CMS vs. DXP: What Are the Differences and Benefits?](https://dev.to/strapi/headless-cms-vs-dxp-what-are-the-differences-and-benefits-2bjk)
 - [Dev.to/JS] [A simple RPG game - Part 2- a new look for my project.](https://dev.to/damanita/a-simple-rpg-game-part-2-a-new-look-for-my-project-4em1)
@@ -43,8 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using SWR hook with Suspense in React 18](https://dev.to/darkmavis1980/using-swr-hook-with-suspense-in-react-18-1clk)
 - [Dev.to/JS] [How YOU can learn enough RegEx in JavaScript to be dangerous](https://dev.to/azure/how-you-can-learn-enough-regex-in-javascript-to-be-dangerous-49d)
 - [Lifehacker] [You Need Spoon Cake This Summer](https://lifehacker.com/you-need-spoon-cake-this-summer-1849066440)
-- [Dev.to/JS] [7 Powerful hacks for skyrocketing your career in 2022.](https://dev.to/tyaga001/7-powerful-hacks-for-skyrocketing-your-career-in-2022-5epe)
-- [Dev.to/JS] [Verify password with a single regex](https://dev.to/abiria/verify-password-with-a-single-regex-on2)
 - [Lifehacker] [Is It Safe to Give Kids Melatonin?](https://lifehacker.com/is-it-safe-to-give-kids-melatonin-1849043653)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
@@ -57,9 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Every Major Streaming Service That Offers a College Discount](https://lifehacker.com/every-major-streaming-service-that-offers-a-college-dis-1849065322)
 - [Lifehacker] [You Need a New Sheet Cake in Your Life](https://lifehacker.com/you-need-a-new-sheet-cake-in-your-life-1849062136)
 - [Lifehacker] [How to Get Rid of Slugs in Your Garden](https://lifehacker.com/how-to-get-rid-of-slugs-in-your-garden-1849063465)
-- [Lifehacker] [Your Recalled Ford Might Unexpectedly Roll Away](https://lifehacker.com/your-recalled-ford-might-unexpectedly-roll-away-1849064395)
-- [Lifehacker] [How to Stop Instagram From Repeating Stories](https://lifehacker.com/how-to-stop-instagram-from-repeating-stories-1849064452)
-- [Lifehacker] [15 Games to Play While You Wait for &#39;Starfield&#39;](https://lifehacker.com/15-games-to-play-while-you-wait-for-starfield-1849061541)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
+- [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
+- [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
 
 ---
 
