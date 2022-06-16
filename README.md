@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Minimal landing page for developers - Responsive Front-End Components Ep 2](https://dev.to/hr21don/minimal-landing-page-for-developers-responsive-front-end-components-ep-2-1jai)
+- [Lifehacker] [Where You&#39;ll Need a National Park Reservation This Summer &lpar;and How to Get In Without One&rpar;](https://lifehacker.com/where-youll-need-a-national-park-reservation-this-summe-1849071260)
+- [Dev.to/JS] [Responsive Minimal landing page for developers with WebGL](https://dev.to/hr21don/responsive-minimal-landing-page-for-developers-with-webgl-3noi)
+- [Lifehacker] [You Should Definitely Air Fry a Banana](https://lifehacker.com/you-should-definitely-air-fry-a-banana-1849071675)
 - [Lifehacker] [How to Navigate Away From a Website That Disabled the &#39;Back&#39; Button](https://lifehacker.com/how-to-navigate-away-from-a-website-that-disabled-the-b-1849070714)
 - [Dev.to/JS] [LUX TECH ACADEMY- Data Structure and Algorithms Week 1](https://dev.to/gitonga123/lux-tech-academy-data-structure-and-algorithms-week-1-1gmo)
 - [Lifehacker] [When Kids Under 5 Can Finally Get Their COVID Vaccines](https://lifehacker.com/when-kids-under-5-can-finally-get-their-covid-vaccines-1849070799)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 Games to Play While You Wait for &#39;Starfield&#39;](https://lifehacker.com/15-games-to-play-while-you-wait-for-starfield-1849061541)
 - [Lifehacker] [Stop Popping Your Sunburn Blisters](https://lifehacker.com/stop-popping-your-sunburn-blisters-1849042568)
 - [Lifehacker] [Google Chrome Has a Hidden Search Sidebar](https://lifehacker.com/google-chrome-has-a-hidden-search-sidebar-1849064065)
-- [Lifehacker] [You&#39;re Wrong About &#39;Breaking the Seal&#39;](https://lifehacker.com/youre-wrong-about-breaking-the-seal-1849053517)
-- [Lifehacker] [Always Double Your Frosting Recipe](https://lifehacker.com/always-double-your-frosting-recipe-1849061845)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
