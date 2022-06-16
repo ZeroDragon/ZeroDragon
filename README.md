@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quickstart: How to build To-Do App using React &amp; Altogic?](https://dev.to/altogic/quickstart-how-to-build-to-do-app-using-react-altogic-4kjd)
+- [Dev.to/JS] [Using Google Sheets as your CMS](https://dev.to/kaspera/using-google-sheets-as-your-cms-1h1p)
 - [Dev.to/JS] [Remove Duplicates From Array](https://dev.to/hermitex/remove-duplicates-from-array-1d6h)
 - [Dev.to/JS] [Rekomendasi Klinik Kecantikan di Bandung](https://dev.to/gemaprilia/rekomendasi-klinik-kecantikan-di-bandung-jk7)
 - [Dev.to/JS] [I’ve fucked up in an interview](https://dev.to/shreyvijayvargiya/ive-fucked-up-in-an-interview-16l0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Awesome Blog on Cypress | Cypress.io](https://dev.to/kailashpathak7/awesome-blog-on-cypress-cypressio-1hnk)
 - [Dev.to/JS] [PowerApps Attachments](https://dev.to/syamalakancharla/powerapps-attachments-7m8)
 - [Dev.to/JS] [Day 4/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-430-days-of-codewars-javascript-edition-44j5)
-- [Dev.to/JS] [Building our first project: A prototype using React js and Material UI](https://dev.to/anamdiazs/building-our-first-project-a-prototype-using-react-js-and-material-ui-blk)
-- [Dev.to/JS] [Polyfills And Helpers - How To Save Your Bundle Size](https://dev.to/nazha/polyfills-and-helpers-how-to-save-your-bundle-size-4lp0)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
