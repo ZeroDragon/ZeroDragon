@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NPM package development with Vite](https://dev.to/brifiction/npm-package-development-with-vite-4jc6)
 - [Dev.to/JS] [Awesome Blog on Cypress | Cypress.io](https://dev.to/kailashpathak7/awesome-blog-on-cypress-cypressio-1hnk)
 - [Dev.to/JS] [PowerApps Attachments](https://dev.to/syamalakancharla/powerapps-attachments-7m8)
 - [Dev.to/JS] [Day 4/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-430-days-of-codewars-javascript-edition-44j5)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Q: As a #CodeNewbie, what are your learning goals for the next #30Days?](https://dev.to/azure/q-as-a-codenewbie-what-are-your-learning-goals-for-the-next-30days-3om9)
 - [Dev.to/JS] [How To Bypass Or Solve A Captcha With JavaScript &amp; 2Captcha](https://dev.to/ugorji_simon/how-to-bypass-or-solve-a-captcha-with-javascript-2captcha-5ekk)
 - [Dev.to/JS] [Why Intersection Observer ?](https://dev.to/shailseen/why-intersection-observer--1gnj)
-- [Dev.to/JS] [Exploring Teams and SMTP with Appwrite](https://dev.to/gewenyu99/exploring-teams-and-smtp-with-appwrite-8fn)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
