@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When Kids Under 5 Can Finally Get Their COVID Vaccines](https://lifehacker.com/when-kids-under-5-can-finally-get-their-covid-vaccines-1849070799)
+- [Lifehacker] [How to Kill Your Lawn &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-kill-your-lawn-and-why-you-might-want-to-1849070489)
+- [Dev.to/JS] [How to use React with Redux](https://dev.to/learnfrontendio/how-to-use-react-with-redux-20d7)
+- [Lifehacker] [18 Movies for Times of Economic Turmoil](https://lifehacker.com/18-movies-for-times-of-economic-turmoil-1849062789)
 - [Dev.to/JS] [I built a tool that analyses your code and configures AWS to run it](https://dev.to/zij/i-built-a-tool-that-analyses-your-code-and-configures-aws-to-run-it-43il)
 - [Dev.to/JS] [How to optimize image upload in Appwrite and Vuejs](https://dev.to/hackmamba/how-to-optimize-image-upload-in-appwrite-and-vuejs-4og5)
 - [Dev.to/JS] [How not to write clean code in React? 🧹](https://dev.to/avneesh0612/how-not-to-write-clean-code-in-react-4b7p)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The big secret of React](https://dev.to/cloudx/the-big-secret-of-react-3if0)
 - [Dev.to/JS] [Hackathon environment + boilerplate from scratch in five steps](https://dev.to/wasp/hackathon-environment-boilerplate-from-scratch-in-five-steps-4oaa)
 - [Dev.to/JS] [Summon The JSON status update](https://dev.to/tomaszs2/summon-the-json-status-update-n6f)
-- [Dev.to/JS] [How to make a Slackbot &lpar;2022 GUIDE&rpar;](https://dev.to/onni3000/how-to-make-a-slackbot-2022-guide-ln1)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Wrong About &#39;Breaking the Seal&#39;](https://lifehacker.com/youre-wrong-about-breaking-the-seal-1849053517)
 - [Lifehacker] [Always Double Your Frosting Recipe](https://lifehacker.com/always-double-your-frosting-recipe-1849061845)
 - [Lifehacker] [Why the &#39;PACMAN&#39; Exploit Is Proof You Should Always Update Your Mac](https://lifehacker.com/why-the-pacman-exploit-is-proof-you-should-always-updat-1849061590)
-- [Lifehacker] [The Fastest Growing Entry-Level Jobs, According to LinkedIn](https://lifehacker.com/the-fastest-growing-entry-level-jobs-according-to-link-1849060596)
-- [Lifehacker] [You Can Get a ‘Digital Nomad’ Visa in These 46 Countries](https://lifehacker.com/you-can-get-a-digital-nomad-visa-in-these-46-countrie-1849058910)
-- [Lifehacker] [You Should Air-Fry Some Canned Potatoes](https://lifehacker.com/you-should-air-fy-some-canned-potatoes-1849061013)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
