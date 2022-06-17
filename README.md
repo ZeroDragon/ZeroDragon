@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Email Testing using Ethereal](https://dev.to/berviantoleo/email-testing-using-ethereal-inb)
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 - [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
@@ -49,7 +50,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How not to write clean code in React? 🧹](https://dev.to/avneesh0612/how-not-to-write-clean-code-in-react-4b7p)
 - [Lifehacker] [8 of the Most Consequential Bear Markets in U.S. History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/8-of-the-most-consequential-bear-markets-in-u-s-histor-1849068363)
 - [Dev.to/JS] [Using SWR hook with Suspense in React 18](https://dev.to/darkmavis1980/using-swr-hook-with-suspense-in-react-18-1clk)
-- [Dev.to/JS] [How YOU can learn enough RegEx in JavaScript to be dangerous](https://dev.to/azure/how-you-can-learn-enough-regex-in-javascript-to-be-dangerous-49d)
 - [Lifehacker] [You Need Spoon Cake This Summer](https://lifehacker.com/you-need-spoon-cake-this-summer-1849066440)
 - [Lifehacker] [Is It Safe to Give Kids Melatonin?](https://lifehacker.com/is-it-safe-to-give-kids-melatonin-1849043653)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
