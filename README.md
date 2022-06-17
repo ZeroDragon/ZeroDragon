@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stop Flickity from scrolling when swiping](https://dev.to/greggcbs/stop-flickity-from-scrolling-when-swiping-44i3)
+- [Dev.to/JS] [Let&#39;s code golf with JavaScript!](https://dev.to/posandu/lets-code-golf-with-javascript-2i5e)
 - [Dev.to/JS] [15+ VS Code Extensions For Web Developers 🤯](https://dev.to/souptikdn/15-vs-code-extensions-for-web-developers-1dp8)
 - [Dev.to/JS] [PIC Projects](https://dev.to/arunprakash142/pic-projects-58j0)
 - [Dev.to/JS] [Facebook Login React Js Node.js](https://dev.to/sahilkashyap64/facebook-login-react-js-nodejs-3im0)
@@ -42,10 +44,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A simple RPG game - Part 2- a new look for my project.](https://dev.to/damanita/a-simple-rpg-game-part-2-a-new-look-for-my-project-4em1)
 - [Lifehacker] [Use This Trick to Stop Yourself From Throwing Up](https://lifehacker.com/use-this-trick-to-stop-yourself-from-throwing-up-1849070937)
 - [Lifehacker] [Where You&#39;ll Need a National Park Reservation This Summer &lpar;and How to Get In Without One&rpar;](https://lifehacker.com/where-youll-need-a-national-park-reservation-this-summe-1849071260)
-- [Dev.to/JS] [Responsive Minimal landing page for developers with WebGL](https://dev.to/hr21don/responsive-minimal-landing-page-for-developers-with-webgl-3noi)
 - [Lifehacker] [You Should Definitely Air Fry a Banana](https://lifehacker.com/you-should-definitely-air-fry-a-banana-1849071675)
 - [Lifehacker] [How to Navigate Away From a Website That Disabled the &#39;Back&#39; Button](https://lifehacker.com/how-to-navigate-away-from-a-website-that-disabled-the-b-1849070714)
-- [Dev.to/JS] [LUX TECH ACADEMY- Data Structure and Algorithms Week 1](https://dev.to/gitonga123/lux-tech-academy-data-structure-and-algorithms-week-1-1gmo)
 - [Lifehacker] [When Kids Under 5 Can Finally Get Their COVID Vaccines](https://lifehacker.com/when-kids-under-5-can-finally-get-their-covid-vaccines-1849070799)
 - [Lifehacker] [How to Kill Your Lawn &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-kill-your-lawn-and-why-you-might-want-to-1849070489)
 - [Lifehacker] [18 Movies for Times of Economic Turmoil](https://lifehacker.com/18-movies-for-times-of-economic-turmoil-1849062789)
