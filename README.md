@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [How to Protect Your Vehicle From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
+- [Dev.to/JS] [Blockchain Development](https://dev.to/victorsalatiel/blockchain-development-2kjo)
+- [Lifehacker] [Stop Washing Your Baseball Cap in the Washing Machine &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-washing-your-baseball-cap-in-the-washing-machine-1849077682)
+- [Dev.to/JS] [Composition api or Options api?](https://dev.to/the_one/composition-api-or-options-api-59gf)
+- [Dev.to/JS] [ReactJS mouse-move throttle](https://dev.to/srele96/reactjs-mouse-move-throttle-hb3)
+- [Dev.to/JS] [Visions Of the Future &amp;&amp; Reflections Of the Past](https://dev.to/edmund635/visions-of-the-future-reflections-of-the-past-30bo)
+- [Dev.to/JS] [Troubleshooting a JavaScript memory leak](https://dev.to/itstrueintheory/troubleshooting-a-javascript-memory-leak-15oc)
+- [Dev.to/JS] [20 Alternatives for moment &lpar;momentjs&rpar;](https://dev.to/gil_finkelstein/20-alternatives-for-moment-momentjs-43pm)
+- [Dev.to/JS] [The 5 Best JavaScript Frameworks of 2022](https://dev.to/yashtiwari1k/the-5-best-javascript-frameworks-of-2022-1fad)
+- [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
 - [Dev.to/JS] [Angular 14 Standalone Components](https://dev.to/blove/angular-14-standalone-components-5ghj)
 - [Lifehacker] [The Hidden &lpar;and Easiest&rpar; Way to Use Google Lens](https://lifehacker.com/the-hidden-and-easiest-way-to-use-google-lens-1849076911)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
@@ -37,16 +45,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #144: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-144-explica-este-codigo-javascript-41j9)
 - [Dev.to/JS] [Interaction to Next Paint](https://dev.to/imkevdev/interaction-to-next-paint-2eam)
 - [Lifehacker] [How to Stop Birds From Building Nests in the Worst Places](https://lifehacker.com/how-to-stop-birds-from-building-nests-in-the-worst-plac-1849075439)
-- [Dev.to/JS] [An Introduction to Version Control Using Git](https://dev.to/eekbk/an-introduction-to-version-control-using-git-4i8j)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Young Is Too Young to Go to Hooters?](https://lifehacker.com/how-young-is-too-young-to-go-to-hooters-1849074770)
-- [Dev.to/JS] [Higher Order Functions: The Higher Order of Javascript](https://dev.to/djmay13/higher-order-functions-the-higher-order-of-javascript-2p6i)
 - [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
-- [Dev.to/JS] [A great component library to boost your performance and speed: Chakra UI](https://dev.to/muhammetacin/a-great-component-library-to-boost-your-performance-and-speed-chakra-ui-2ck3)
 - [Lifehacker] [Should You Use Shaving Cream, Gel, or Foam?](https://lifehacker.com/should-you-use-shaving-cream-gel-or-foam-1849073471)
-- [Dev.to/JS] [Beginning with automated tests using Cypress with ReactJS](https://dev.to/llxd/beginning-with-automated-tests-using-cypress-with-reactjs-5eef)
-- [Dev.to/JS] [Network Information API In JavaScript](https://dev.to/kaankorkmaz/network-information-api-in-javascript-95m)
-- [Dev.to/JS] [Promises in JavaScript](https://dev.to/ahmedmohmd/promises-in-javascript-4jjl)
-- [Dev.to/JS] [Remote API | Made with Next JS](https://dev.to/madewithjavascript/remote-api-made-with-next-js-3k1k)
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 - [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Navigate Away From a Website That Disabled the &#39;Back&#39; Button](https://lifehacker.com/how-to-navigate-away-from-a-website-that-disabled-the-b-1849070714)
 - [Lifehacker] [When Kids Under 5 Can Finally Get Their COVID Vaccines](https://lifehacker.com/when-kids-under-5-can-finally-get-their-covid-vaccines-1849070799)
 - [Lifehacker] [How to Kill Your Lawn &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-kill-your-lawn-and-why-you-might-want-to-1849070489)
-- [Lifehacker] [18 Movies for Times of Economic Turmoil](https://lifehacker.com/18-movies-for-times-of-economic-turmoil-1849062789)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
