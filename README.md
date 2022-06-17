@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Remote API | Made with Next JS](https://dev.to/madewithjavascript/remote-api-made-with-next-js-3k1k)
+- [Dev.to/JS] [How to create a blog website with React &amp; firebase -&gt; Series](https://dev.to/evansifyke/how-to-create-a-blog-website-with-react-firebase-series-34pk)
 - [Dev.to/JS] [Metricks | Made with Next JS](https://dev.to/madewithjavascript/metricks-made-with-next-js-1ngb)
 - [Dev.to/JS] [Scaleway | Made with Gatsby JS](https://dev.to/madewithjavascript/scaleway-made-with-gatsby-js-218g)
 - [Dev.to/JS] [Building your own Authentication!](https://dev.to/iamgjert/building-your-own-authentication-77o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s code golf with JavaScript!](https://dev.to/posandu/lets-code-golf-with-javascript-2i5e)
 - [Dev.to/JS] [15+ VS Code Extensions For Web Developers 🤯](https://dev.to/souptikdn/15-vs-code-extensions-for-web-developers-1dp8)
 - [Dev.to/JS] [PIC Projects](https://dev.to/arunprakash142/pic-projects-58j0)
-- [Dev.to/JS] [Facebook Login React Js Node.js](https://dev.to/sahilkashyap64/facebook-login-react-js-nodejs-3im0)
-- [Dev.to/JS] [Building a simple REST API with NodeJS and Express.](https://dev.to/blazeee/building-a-simple-rest-api-with-nodejs-and-express-2d6e)
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 - [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
