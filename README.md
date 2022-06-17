@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [15+ VS Code Extensions For Web Developers 🤯](https://dev.to/souptikdn/15-vs-code-extensions-for-web-developers-1dp8)
+- [Dev.to/JS] [PIC Projects](https://dev.to/arunprakash142/pic-projects-58j0)
+- [Dev.to/JS] [Facebook Login React Js Node.js](https://dev.to/sahilkashyap64/facebook-login-react-js-nodejs-3im0)
+- [Dev.to/JS] [Building a simple REST API with NodeJS and Express.](https://dev.to/blazeee/building-a-simple-rest-api-with-nodejs-and-express-2d6e)
 - [Dev.to/JS] [Jamstack in Action](https://dev.to/ushieru/jamstack-in-action-4b2l)
 - [Dev.to/JS] [Email Testing using Ethereal](https://dev.to/berviantoleo/email-testing-using-ethereal-inb)
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
@@ -44,11 +48,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [LUX TECH ACADEMY- Data Structure and Algorithms Week 1](https://dev.to/gitonga123/lux-tech-academy-data-structure-and-algorithms-week-1-1gmo)
 - [Lifehacker] [When Kids Under 5 Can Finally Get Their COVID Vaccines](https://lifehacker.com/when-kids-under-5-can-finally-get-their-covid-vaccines-1849070799)
 - [Lifehacker] [How to Kill Your Lawn &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-kill-your-lawn-and-why-you-might-want-to-1849070489)
-- [Dev.to/JS] [How to use React with Redux](https://dev.to/learnfrontendio/how-to-use-react-with-redux-20d7)
 - [Lifehacker] [18 Movies for Times of Economic Turmoil](https://lifehacker.com/18-movies-for-times-of-economic-turmoil-1849062789)
-- [Dev.to/JS] [I built a tool that analyses your code and configures AWS to run it](https://dev.to/zij/i-built-a-tool-that-analyses-your-code-and-configures-aws-to-run-it-43il)
-- [Dev.to/JS] [How to optimize image upload in Appwrite and Vuejs](https://dev.to/hackmamba/how-to-optimize-image-upload-in-appwrite-and-vuejs-4og5)
-- [Dev.to/JS] [How not to write clean code in React? 🧹](https://dev.to/avneesh0612/how-not-to-write-clean-code-in-react-4b7p)
 - [Lifehacker] [8 of the Most Consequential Bear Markets in U.S. History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/8-of-the-most-consequential-bear-markets-in-u-s-histor-1849068363)
 - [Lifehacker] [You Need Spoon Cake This Summer](https://lifehacker.com/you-need-spoon-cake-this-summer-1849066440)
 - [Lifehacker] [Is It Safe to Give Kids Melatonin?](https://lifehacker.com/is-it-safe-to-give-kids-melatonin-1849043653)
