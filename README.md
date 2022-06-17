@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #144: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-144-explica-este-codigo-javascript-41j9)
+- [Dev.to/JS] [Interaction to Next Paint](https://dev.to/imkevdev/interaction-to-next-paint-2eam)
+- [Lifehacker] [How to Stop Birds From Building Nests in the Worst Places](https://lifehacker.com/how-to-stop-birds-from-building-nests-in-the-worst-plac-1849075439)
 - [Dev.to/JS] [An Introduction to Version Control Using Git](https://dev.to/eekbk/an-introduction-to-version-control-using-git-4i8j)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Young Is Too Young to Go to Hooters?](https://lifehacker.com/how-young-is-too-young-to-go-to-hooters-1849074770)
 - [Dev.to/JS] [Higher Order Functions: The Higher Order of Javascript](https://dev.to/djmay13/higher-order-functions-the-higher-order-of-javascript-2p6i)
 - [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
 - [Dev.to/JS] [A great component library to boost your performance and speed: Chakra UI](https://dev.to/muhammetacin/a-great-component-library-to-boost-your-performance-and-speed-chakra-ui-2ck3)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a blog website with React &amp; firebase -&gt; Series](https://dev.to/evansifyke/how-to-create-a-blog-website-with-react-firebase-series-34pk)
 - [Dev.to/JS] [Metricks | Made with Next JS](https://dev.to/madewithjavascript/metricks-made-with-next-js-1ngb)
 - [Dev.to/JS] [Scaleway | Made with Gatsby JS](https://dev.to/madewithjavascript/scaleway-made-with-gatsby-js-218g)
-- [Dev.to/JS] [Building your own Authentication!](https://dev.to/iamgjert/building-your-own-authentication-77o)
-- [Dev.to/JS] [How to use Solana Web3 in Unity](https://dev.to/imaijiro/how-to-use-solana-web3-in-unity-52fo)
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 - [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
 - [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
 - [Lifehacker] [9 Things Our Parents Did That We Should Absolutely Bring Back](https://lifehacker.com/9-things-our-parents-did-that-we-should-absolutely-brin-1849064190)
-- [Lifehacker] [How to Get the Best Prices on Your Prescriptions](https://lifehacker.com/how-to-get-the-best-prices-on-your-prescriptions-1849066164)
-- [Lifehacker] [Is It Worth Wearing a Mask If You&#39;re the Only One Doing It?](https://lifehacker.com/is-it-worth-wearing-a-mask-if-youre-the-only-one-doing-1849065951)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
