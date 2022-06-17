@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Lower Your Risk of Getting Monkeypox During Sex](https://lifehacker.com/how-to-lower-your-risk-of-getting-monkeypox-during-sex-1849077183)
+- [Lifehacker] [Don’t Buy These Apple Products &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/don-t-buy-these-apple-products-and-what-to-buy-instead-1849076734)
 - [Lifehacker] [How to Get the Best Price for a Car That Doesn&#39;t Run Anymore](https://lifehacker.com/how-to-get-the-best-price-for-a-car-that-doesnt-run-any-1849076865)
 - [Lifehacker] [Your iPhone Needs Custom Battery Alerts](https://lifehacker.com/your-iphone-needs-custom-battery-alerts-1849076371)
 - [Dev.to/JS] [HTML &lt;portal&gt;: Chrome&#39;s weird navigational element](https://dev.to/js_bits_bill/html-chromes-weird-navigational-element-5b38)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [18 Movies for Times of Economic Turmoil](https://lifehacker.com/18-movies-for-times-of-economic-turmoil-1849062789)
 - [Lifehacker] [8 of the Most Consequential Bear Markets in U.S. History &lpar;and What We Can Learn From Them&rpar;](https://lifehacker.com/8-of-the-most-consequential-bear-markets-in-u-s-histor-1849068363)
 - [Lifehacker] [You Need Spoon Cake This Summer](https://lifehacker.com/you-need-spoon-cake-this-summer-1849066440)
-- [Lifehacker] [Is It Safe to Give Kids Melatonin?](https://lifehacker.com/is-it-safe-to-give-kids-melatonin-1849043653)
-- [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
