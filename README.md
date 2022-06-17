@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Introduction to Version Control Using Git](https://dev.to/eekbk/an-introduction-to-version-control-using-git-4i8j)
+- [Dev.to/JS] [Higher Order Functions: The Higher Order of Javascript](https://dev.to/djmay13/higher-order-functions-the-higher-order-of-javascript-2p6i)
+- [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
 - [Dev.to/JS] [A great component library to boost your performance and speed: Chakra UI](https://dev.to/muhammetacin/a-great-component-library-to-boost-your-performance-and-speed-chakra-ui-2ck3)
 - [Lifehacker] [Should You Use Shaving Cream, Gel, or Foam?](https://lifehacker.com/should-you-use-shaving-cream-gel-or-foam-1849073471)
 - [Dev.to/JS] [Beginning with automated tests using Cypress with ReactJS](https://dev.to/llxd/beginning-with-automated-tests-using-cypress-with-reactjs-5eef)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scaleway | Made with Gatsby JS](https://dev.to/madewithjavascript/scaleway-made-with-gatsby-js-218g)
 - [Dev.to/JS] [Building your own Authentication!](https://dev.to/iamgjert/building-your-own-authentication-77o)
 - [Dev.to/JS] [How to use Solana Web3 in Unity](https://dev.to/imaijiro/how-to-use-solana-web3-in-unity-52fo)
-- [Dev.to/JS] [Java Full Stack Course](https://dev.to/ajaychitnis65/java-full-stack-course-i8o)
-- [Dev.to/JS] [Type Safety &lpar;Tip — Tür Güvenliği&rpar;](https://dev.to/cengiztoru/type-safety-tip-tur-guvenligi-34j1)
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 - [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [9 Things Our Parents Did That We Should Absolutely Bring Back](https://lifehacker.com/9-things-our-parents-did-that-we-should-absolutely-brin-1849064190)
 - [Lifehacker] [How to Get the Best Prices on Your Prescriptions](https://lifehacker.com/how-to-get-the-best-prices-on-your-prescriptions-1849066164)
 - [Lifehacker] [Is It Worth Wearing a Mask If You&#39;re the Only One Doing It?](https://lifehacker.com/is-it-worth-wearing-a-mask-if-youre-the-only-one-doing-1849065951)
-- [Lifehacker] [Stop Following This Bad Life Advice](https://lifehacker.com/stop-following-this-bad-life-advice-1849065723)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
