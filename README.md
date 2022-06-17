@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Java Full Stack Course](https://dev.to/ajaychitnis65/java-full-stack-course-i8o)
+- [Dev.to/JS] [Type Safety &lpar;Tip — Tür Güvenliği&rpar;](https://dev.to/cengiztoru/type-safety-tip-tur-guvenligi-34j1)
 - [Dev.to/JS] [Stop Flickity from scrolling when swiping](https://dev.to/greggcbs/stop-flickity-from-scrolling-when-swiping-44i3)
 - [Dev.to/JS] [Let&#39;s code golf with JavaScript!](https://dev.to/posandu/lets-code-golf-with-javascript-2i5e)
 - [Dev.to/JS] [15+ VS Code Extensions For Web Developers 🤯](https://dev.to/souptikdn/15-vs-code-extensions-for-web-developers-1dp8)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Koa Js : Part 4 - Connect a Relational SQL database to your Koa server](https://dev.to/kachiic/koa-js-part-4-connect-a-relational-sql-database-to-your-koa-server-ddc)
 - [Lifehacker] [This App Is Like a Homing Device for Bluetooth Signals](https://lifehacker.com/this-app-is-like-a-homing-device-for-bluetooth-signals-1849072052)
 - [Lifehacker] [Make Decadent &quot;Duck Frosting&quot; With Just Two Ingredients](https://lifehacker.com/make-decadent-duck-frosting-with-just-two-ingredients-1849072147)
-- [Dev.to/JS] [Headless CMS vs. DXP: What Are the Differences and Benefits?](https://dev.to/strapi/headless-cms-vs-dxp-what-are-the-differences-and-benefits-2bjk)
-- [Dev.to/JS] [A simple RPG game - Part 2- a new look for my project.](https://dev.to/damanita/a-simple-rpg-game-part-2-a-new-look-for-my-project-4em1)
 - [Lifehacker] [Use This Trick to Stop Yourself From Throwing Up](https://lifehacker.com/use-this-trick-to-stop-yourself-from-throwing-up-1849070937)
 - [Lifehacker] [Where You&#39;ll Need a National Park Reservation This Summer &lpar;and How to Get In Without One&rpar;](https://lifehacker.com/where-youll-need-a-national-park-reservation-this-summe-1849071260)
 - [Lifehacker] [You Should Definitely Air Fry a Banana](https://lifehacker.com/you-should-definitely-air-fry-a-banana-1849071675)
