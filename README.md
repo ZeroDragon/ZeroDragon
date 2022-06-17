@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building your own Authentication!](https://dev.to/iamgjert/building-your-own-authentication-77o)
+- [Dev.to/JS] [How to use Solana Web3 in Unity](https://dev.to/imaijiro/how-to-use-solana-web3-in-unity-52fo)
 - [Dev.to/JS] [Java Full Stack Course](https://dev.to/ajaychitnis65/java-full-stack-course-i8o)
 - [Dev.to/JS] [Type Safety &lpar;Tip — Tür Güvenliği&rpar;](https://dev.to/cengiztoru/type-safety-tip-tur-guvenligi-34j1)
 - [Dev.to/JS] [Stop Flickity from scrolling when swiping](https://dev.to/greggcbs/stop-flickity-from-scrolling-when-swiping-44i3)
@@ -38,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
 - [Lifehacker] [Maybe You Should Just Ship Your Luggage](https://lifehacker.com/maybe-you-should-just-ship-your-luggage-1849072240)
 - [Lifehacker] [All the Ways You&#39;re Setting Up Your TV Wrong](https://lifehacker.com/all-the-ways-youre-setting-up-your-tv-wrong-1849072675)
-- [Dev.to/JS] [Understanding Scope In JavaScript](https://dev.to/spencerwmathews/understanding-scope-in-javascript-40e3)
-- [Dev.to/JS] [Koa Js : Part 4 - Connect a Relational SQL database to your Koa server](https://dev.to/kachiic/koa-js-part-4-connect-a-relational-sql-database-to-your-koa-server-ddc)
 - [Lifehacker] [This App Is Like a Homing Device for Bluetooth Signals](https://lifehacker.com/this-app-is-like-a-homing-device-for-bluetooth-signals-1849072052)
 - [Lifehacker] [Make Decadent &quot;Duck Frosting&quot; With Just Two Ingredients](https://lifehacker.com/make-decadent-duck-frosting-with-just-two-ingredients-1849072147)
 - [Lifehacker] [Use This Trick to Stop Yourself From Throwing Up](https://lifehacker.com/use-this-trick-to-stop-yourself-from-throwing-up-1849070937)
