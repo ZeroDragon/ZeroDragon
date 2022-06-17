@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get the Best Price for a Car That Doesn&#39;t Run Anymore](https://lifehacker.com/how-to-get-the-best-price-for-a-car-that-doesnt-run-any-1849076865)
+- [Lifehacker] [Your iPhone Needs Custom Battery Alerts](https://lifehacker.com/your-iphone-needs-custom-battery-alerts-1849076371)
+- [Dev.to/JS] [HTML &lt;portal&gt;: Chrome&#39;s weird navigational element](https://dev.to/js_bits_bill/html-chromes-weird-navigational-element-5b38)
+- [Dev.to/JS] [Set Up Your First ThreeJS Scene - Three Part Setup](https://dev.to/hr21don/set-up-your-first-threejs-scene-three-part-setup-550i)
+- [Lifehacker] [How to Disable Google Assistant When You Don&#39;t Need Its Damn Assistance](https://lifehacker.com/how-to-disable-google-assistant-when-you-dont-need-its-1849075535)
 - [Dev.to/JS] [Paracetamol.js💊| #144: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-144-explica-este-codigo-javascript-41j9)
 - [Dev.to/JS] [Interaction to Next Paint](https://dev.to/imkevdev/interaction-to-next-paint-2eam)
 - [Lifehacker] [How to Stop Birds From Building Nests in the Worst Places](https://lifehacker.com/how-to-stop-birds-from-building-nests-in-the-worst-plac-1849075439)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promises in JavaScript](https://dev.to/ahmedmohmd/promises-in-javascript-4jjl)
 - [Dev.to/JS] [Remote API | Made with Next JS](https://dev.to/madewithjavascript/remote-api-made-with-next-js-3k1k)
 - [Dev.to/JS] [How to create a blog website with React &amp; firebase -&gt; Series](https://dev.to/evansifyke/how-to-create-a-blog-website-with-react-firebase-series-34pk)
-- [Dev.to/JS] [Metricks | Made with Next JS](https://dev.to/madewithjavascript/metricks-made-with-next-js-1ngb)
-- [Dev.to/JS] [Scaleway | Made with Gatsby JS](https://dev.to/madewithjavascript/scaleway-made-with-gatsby-js-218g)
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 - [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need Spoon Cake This Summer](https://lifehacker.com/you-need-spoon-cake-this-summer-1849066440)
 - [Lifehacker] [Is It Safe to Give Kids Melatonin?](https://lifehacker.com/is-it-safe-to-give-kids-melatonin-1849043653)
 - [Lifehacker] [Solo Tabletop RPGs Are Really Fun, Actually](https://lifehacker.com/solo-tabletop-rpgs-are-really-fun-actually-1849067606)
-- [Lifehacker] [The Best Ways to Salvage Your Muddy Sneakers](https://lifehacker.com/the-best-ways-to-salvage-your-muddy-sneakers-1849067156)
-- [Lifehacker] [How to Spot a Shady Online Pharmacy](https://lifehacker.com/how-to-spot-a-shady-online-pharmacy-1849067055)
-- [Lifehacker] [9 Things Our Parents Did That We Should Absolutely Bring Back](https://lifehacker.com/9-things-our-parents-did-that-we-should-absolutely-brin-1849064190)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)
 - [Crazy Programmer] [FusionGrid – Javascript Data Grid Component to Speed Up App Development](https://www.thecrazyprogrammer.com/2022/06/fusiongrid.html)<!-- TECH-POSTS:END -->
