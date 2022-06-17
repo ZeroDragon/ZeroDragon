@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Higher Order Functions](https://dev.to/seanniehus/higher-order-functions-2p2)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Dev.to/JS] [From Cookie strings into usable JavaScript](https://dev.to/asg5704/from-cookie-strings-into-usable-javascript-2nj9)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [20 Alternatives for moment &lpar;momentjs&rpar;](https://dev.to/gil_finkelstein/20-alternatives-for-moment-momentjs-43pm)
 - [Dev.to/JS] [The 5 Best JavaScript Frameworks of 2022](https://dev.to/yashtiwari1k/the-5-best-javascript-frameworks-of-2022-1fad)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
-- [Dev.to/JS] [Angular 14 Standalone Components](https://dev.to/blove/angular-14-standalone-components-5ghj)
 - [Lifehacker] [The Hidden &lpar;and Easiest&rpar; Way to Use Google Lens](https://lifehacker.com/the-hidden-and-easiest-way-to-use-google-lens-1849076911)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Lifehacker] [How to Lower Your Risk of Getting Monkeypox During Sex](https://lifehacker.com/how-to-lower-your-risk-of-getting-monkeypox-during-sex-1849077183)
