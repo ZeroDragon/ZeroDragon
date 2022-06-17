@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Metricks | Made with Next JS](https://dev.to/madewithjavascript/metricks-made-with-next-js-1ngb)
+- [Dev.to/JS] [Scaleway | Made with Gatsby JS](https://dev.to/madewithjavascript/scaleway-made-with-gatsby-js-218g)
 - [Dev.to/JS] [Building your own Authentication!](https://dev.to/iamgjert/building-your-own-authentication-77o)
 - [Dev.to/JS] [How to use Solana Web3 in Unity](https://dev.to/imaijiro/how-to-use-solana-web3-in-unity-52fo)
 - [Dev.to/JS] [Java Full Stack Course](https://dev.to/ajaychitnis65/java-full-stack-course-i8o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PIC Projects](https://dev.to/arunprakash142/pic-projects-58j0)
 - [Dev.to/JS] [Facebook Login React Js Node.js](https://dev.to/sahilkashyap64/facebook-login-react-js-nodejs-3im0)
 - [Dev.to/JS] [Building a simple REST API with NodeJS and Express.](https://dev.to/blazeee/building-a-simple-rest-api-with-nodejs-and-express-2d6e)
-- [Dev.to/JS] [Jamstack in Action](https://dev.to/ushieru/jamstack-in-action-4b2l)
-- [Dev.to/JS] [Email Testing using Ethereal](https://dev.to/berviantoleo/email-testing-using-ethereal-inb)
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 - [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
