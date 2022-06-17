@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
+- [Lifehacker] [Use Uncooked Pasta as an Impromptu Skewer](https://lifehacker.com/use-uncooked-pasta-as-an-impromptu-skewer-1849078386)
+- [Dev.to/JS] [Whatsapp-Status-React-Native](https://dev.to/ajmal_hasan/whatsapp-status-react-native-2591)
+- [Lifehacker] [What Is a &#39;Likability Quotient&#39; &lpar;and How Can You Increase Yours&rpar;?](https://lifehacker.com/what-is-a-likability-quotient-and-how-can-you-increase-1849078291)
 - [Dev.to/JS] [Blockchain Development](https://dev.to/victorsalatiel/blockchain-development-2kjo)
 - [Lifehacker] [Stop Washing Your Baseball Cap in the Washing Machine &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-washing-your-baseball-cap-in-the-washing-machine-1849077682)
 - [Dev.to/JS] [Composition api or Options api?](https://dev.to/the_one/composition-api-or-options-api-59gf)
@@ -43,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Set Up Your First ThreeJS Project - Three Part Setup](https://dev.to/hr21don/set-up-your-first-threejs-scene-three-part-setup-550i)
 - [Lifehacker] [How to Disable Google Assistant When You Don&#39;t Need Its Damn Assistance](https://lifehacker.com/how-to-disable-google-assistant-when-you-dont-need-its-1849075535)
 - [Dev.to/JS] [Paracetamol.js💊| #144: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-144-explica-este-codigo-javascript-41j9)
-- [Dev.to/JS] [Interaction to Next Paint](https://dev.to/imkevdev/interaction-to-next-paint-2eam)
 - [Lifehacker] [How to Stop Birds From Building Nests in the Worst Places](https://lifehacker.com/how-to-stop-birds-from-building-nests-in-the-worst-plac-1849075439)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Young Is Too Young to Go to Hooters?](https://lifehacker.com/how-young-is-too-young-to-go-to-hooters-1849074770)
 - [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Trick to Stop Yourself From Throwing Up](https://lifehacker.com/use-this-trick-to-stop-yourself-from-throwing-up-1849070937)
 - [Lifehacker] [Where You&#39;ll Need a National Park Reservation This Summer &lpar;and How to Get In Without One&rpar;](https://lifehacker.com/where-youll-need-a-national-park-reservation-this-summe-1849071260)
 - [Lifehacker] [You Should Definitely Air Fry a Banana](https://lifehacker.com/you-should-definitely-air-fry-a-banana-1849071675)
-- [Lifehacker] [How to Navigate Away From a Website That Disabled the &#39;Back&#39; Button](https://lifehacker.com/how-to-navigate-away-from-a-website-that-disabled-the-b-1849070714)
-- [Lifehacker] [When Kids Under 5 Can Finally Get Their COVID Vaccines](https://lifehacker.com/when-kids-under-5-can-finally-get-their-covid-vaccines-1849070799)
-- [Lifehacker] [How to Kill Your Lawn &lpar;and Why You Might Want To&rpar;](https://lifehacker.com/how-to-kill-your-lawn-and-why-you-might-want-to-1849070489)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
