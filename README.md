@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get better quality 3D text in WebGL?](https://dev.to/hr21don/how-to-get-better-quality-3d-text-in-webgl-2lml)
 - [Dev.to/JS] [Accessing Vue Component Data with $ref.](https://dev.to/martinsonuoha/accessing-vue-component-data-with-ref-n)
 - [Dev.to/JS] [Making a dynamic &#39;select&#39; box more appealing with &#39;optgroup&#39;](https://dev.to/indikaur/making-a-dynamic-select-box-more-appealing-with-optgroup-1a5n)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;18-06-2022&rpar; - Swimming against the current](https://dev.to/mjgs/this-weeks-newsletter-is-out-18-06-2022-swimming-against-the-current-ace)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A brief Javascript guide](https://dev.to/chabulsqu/a-brief-javascript-guide-9g0)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/seanniehus/higher-order-functions-2p2)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
-- [Dev.to/JS] [From Cookie strings into usable JavaScript](https://dev.to/asg5704/from-cookie-strings-into-usable-javascript-2nj9)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
 - [Lifehacker] [Use Uncooked Pasta as an Impromptu Skewer](https://lifehacker.com/use-uncooked-pasta-as-an-impromptu-skewer-1849078386)
