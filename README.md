@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Temporal Dead Zone &lpar;TDZ&rpar; in JavaScript](https://dev.to/abidullah786/temporal-dead-zone-tdz-in-javascript-30h8)
+- [Dev.to/JS] [Install Playwright in a few mins](https://dev.to/kailashpathak7/install-playwright-in-few-mins-2462)
 - [Dev.to/JS] [Principios Básicos de Redux](https://dev.to/arielcalix/principios-basicos-de-redux-4ln3)
 - [Dev.to/JS] [Custom Tooltip Component using Angular&#39;s Style Directive and Coordinates from Web APIs MouseEvent](https://dev.to/riapacheco/custom-tooltip-component-using-angulars-style-directive-and-coordinates-from-web-apis-mouseevent-13f6)
 - [Dev.to/JS] [What is website URL](https://dev.to/itsnx7/what-is-website-url-17jh)
@@ -32,15 +34,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Dev.to/JS] [From Cookie strings into usable JavaScript](https://dev.to/asg5704/from-cookie-strings-into-usable-javascript-2nj9)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
+- [Dev.to/JS] [JavaScript async and await in loops](https://dev.to/gondar00/javascript-async-and-await-in-loops-28bg)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
 - [Lifehacker] [Use Uncooked Pasta as an Impromptu Skewer](https://lifehacker.com/use-uncooked-pasta-as-an-impromptu-skewer-1849078386)
 - [Dev.to/JS] [Whatsapp-Status-React-Native](https://dev.to/ajmal_hasan/whatsapp-status-react-native-2591)
 - [Dev.to/JS] [Public and Private key cryptography](https://dev.to/datadeer/public-and-private-key-cryptography-57cn)
-- [Dev.to/JS] [Random Password Generator app in Javascript &lpar;Free source code&rpar;](https://dev.to/codewithayan10/random-password-generator-app-in-javascript-free-source-code-1o51)
 - [Lifehacker] [What Is a &#39;Likability Quotient&#39; &lpar;and How Can You Increase Yours&rpar;?](https://lifehacker.com/what-is-a-likability-quotient-and-how-can-you-increase-1849078291)
-- [Dev.to/JS] [Blockchain Development](https://dev.to/victorsalatiel/blockchain-development-2kjo)
 - [Lifehacker] [Stop Washing Your Baseball Cap in the Washing Machine &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-washing-your-baseball-cap-in-the-washing-machine-1849077682)
-- [Dev.to/JS] [Composition api or Options api?](https://dev.to/the_one/composition-api-or-options-api-59gf)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
 - [Lifehacker] [The Hidden &lpar;and Easiest&rpar; Way to Use Google Lens](https://lifehacker.com/the-hidden-and-easiest-way-to-use-google-lens-1849076911)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
