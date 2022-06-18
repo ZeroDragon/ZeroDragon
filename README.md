@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is website URL](https://dev.to/itsnx7/what-is-website-url-17jh)
+- [Dev.to/JS] [Symfony Station Communiqué — 17 June 2022. A look at Symfony, PHP, and Cybersecurity News!](https://dev.to/reubenwalker64/symfony-station-communique-17-june-2022-a-look-at-symfony-php-and-cybersecurity-news-4293)
+- [Dev.to/JS] [A brief Javascript guide](https://dev.to/chabulsqu/a-brief-javascript-guide-9g0)
 - [Dev.to/JS] [Higher Order Functions](https://dev.to/seanniehus/higher-order-functions-2p2)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Dev.to/JS] [From Cookie strings into usable JavaScript](https://dev.to/asg5704/from-cookie-strings-into-usable-javascript-2nj9)
@@ -38,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Composition api or Options api?](https://dev.to/the_one/composition-api-or-options-api-59gf)
 - [Dev.to/JS] [ReactJS mouse-move throttle](https://dev.to/srele96/reactjs-mouse-move-throttle-hb3)
 - [Dev.to/JS] [Visions Of the Future &amp;&amp; Reflections Of the Past](https://dev.to/edmund635/visions-of-the-future-reflections-of-the-past-30bo)
-- [Dev.to/JS] [Troubleshooting a JavaScript memory leak](https://dev.to/itstrueintheory/troubleshooting-a-javascript-memory-leak-15oc)
-- [Dev.to/JS] [20 Alternatives for moment &lpar;momentjs&rpar;](https://dev.to/gil_finkelstein/20-alternatives-for-moment-momentjs-43pm)
-- [Dev.to/JS] [The 5 Best JavaScript Frameworks of 2022](https://dev.to/yashtiwari1k/the-5-best-javascript-frameworks-of-2022-1fad)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
 - [Lifehacker] [The Hidden &lpar;and Easiest&rpar; Way to Use Google Lens](https://lifehacker.com/the-hidden-and-easiest-way-to-use-google-lens-1849076911)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
