@@ -23,10 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making a dynamic &#39;select&#39; box more appealing with &#39;optgroup&#39;](https://dev.to/indikaur/making-a-dynamic-select-box-more-appealing-with-optgroup-1a5n)
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;18-06-2022&rpar; - Swimming against the current](https://dev.to/mjgs/this-weeks-newsletter-is-out-18-06-2022-swimming-against-the-current-ace)
 - [Dev.to/JS] [Temporal Dead Zone &lpar;TDZ&rpar; in JavaScript](https://dev.to/abidullah786/temporal-dead-zone-tdz-in-javascript-30h8)
 - [Dev.to/JS] [Install Playwright in a few mins](https://dev.to/kailashpathak7/install-playwright-in-few-mins-2462)
 - [Dev.to/JS] [Principios Básicos de Redux](https://dev.to/arielcalix/principios-basicos-de-redux-4ln3)
-- [Dev.to/JS] [Custom Tooltip Component using Angular&#39;s Style Directive and Coordinates from Web APIs MouseEvent](https://dev.to/riapacheco/custom-tooltip-component-using-angulars-style-directive-and-coordinates-from-web-apis-mouseevent-13f6)
+- [Dev.to/JS] [Custom Tooltip Component using Angular&#39;s Style Directive with Coordinates from Web APIs MouseEvent](https://dev.to/riapacheco/custom-tooltip-component-using-angulars-style-directive-and-coordinates-from-web-apis-mouseevent-13f6)
 - [Dev.to/JS] [What is website URL](https://dev.to/itsnx7/what-is-website-url-17jh)
 - [Dev.to/JS] [Symfony Station Communiqué — 17 June 2022. A look at Symfony, PHP, and Cybersecurity News!](https://dev.to/reubenwalker64/symfony-station-communique-17-june-2022-a-look-at-symfony-php-and-cybersecurity-news-4293)
 - [Dev.to/JS] [A brief Javascript guide](https://dev.to/chabulsqu/a-brief-javascript-guide-9g0)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript async and await in loops](https://dev.to/gondar00/javascript-async-and-await-in-loops-28bg)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
 - [Lifehacker] [Use Uncooked Pasta as an Impromptu Skewer](https://lifehacker.com/use-uncooked-pasta-as-an-impromptu-skewer-1849078386)
-- [Dev.to/JS] [Whatsapp-Status-React-Native](https://dev.to/ajmal_hasan/whatsapp-status-react-native-2591)
-- [Dev.to/JS] [Public and Private key cryptography](https://dev.to/datadeer/public-and-private-key-cryptography-57cn)
 - [Lifehacker] [What Is a &#39;Likability Quotient&#39; &lpar;and How Can You Increase Yours&rpar;?](https://lifehacker.com/what-is-a-likability-quotient-and-how-can-you-increase-1849078291)
 - [Lifehacker] [Stop Washing Your Baseball Cap in the Washing Machine &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-washing-your-baseball-cap-in-the-washing-machine-1849077682)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
