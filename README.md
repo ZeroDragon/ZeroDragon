@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
+- [Dev.to/JS] [State of the Vuenion — Vue Amsterdam Conference 2022 Summary series — First Talk](https://dev.to/mohsen_vaziri/state-of-the-vuenion-vue-amsterdam-conference-2022-summary-series-first-talk-i6b)
+- [Dev.to/JS] [Auto change repo name with Github action](https://dev.to/thuongtruong1009/auto-change-repo-name-with-github-action-3of3)
+- [Dev.to/JS] [HTML &amp; CSS &amp; Pure Javascript Carousel](https://dev.to/atakde/html-css-pure-javascript-carousel-13ch)
 - [Dev.to/JS] [What&#39;s New in React 18](https://dev.to/annysah/whats-new-in-react-18-g03)
 - [Dev.to/JS] [CustomEvent 客製一個 addEventListener](https://dev.to/letswrite/customevent-ke-zhi-ge-addeventlistener-3njh)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Web Sockets : The Handshake Technology](https://dev.to/iamshahnawaz7/web-sockets-the-handshake-technology-149d)
 - [Dev.to/JS] [https://sites.google.com/view/ketoextremeinsouthafrica/home](https://dev.to/southketextrem/httpssitesgooglecomviewketoextremeinsouthafricahome-49ca)
 - [Dev.to/JS] [How to add push notification in a Next/React JS App?](https://dev.to/codewithmarish/how-to-add-push-notification-in-a-nextreact-js-app-51c5)
-- [Dev.to/JS] [F**K ETH IS UNDER $1K](https://dev.to/medavid1/fk-eth-is-under-1k-1bb)
-- [Dev.to/JS] [Variable](https://dev.to/gohomewho/variable-2n4g)
-- [Dev.to/JS] [Newsletter Subscription using NEXT JS and Mailchimp API](https://dev.to/codewithmarish/newsletter-subscription-using-next-js-and-mailchimp-api-2n8k)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Maybe You Should Just Ship Your Luggage](https://lifehacker.com/maybe-you-should-just-ship-your-luggage-1849072240)
 - [Lifehacker] [All the Ways You&#39;re Setting Up Your TV Wrong](https://lifehacker.com/all-the-ways-youre-setting-up-your-tv-wrong-1849072675)
 - [Lifehacker] [This App Is Like a Homing Device for Bluetooth Signals](https://lifehacker.com/this-app-is-like-a-homing-device-for-bluetooth-signals-1849072052)
-- [Lifehacker] [Make Decadent &quot;Duck Frosting&quot; With Just Two Ingredients](https://lifehacker.com/make-decadent-duck-frosting-with-just-two-ingredients-1849072147)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
