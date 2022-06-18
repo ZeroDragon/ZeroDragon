@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
+- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 1 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-1-report-4h88)
+- [Dev.to/JS] [Forever Functional: Many flavors of currying](https://dev.to/asayerio_techblog/forever-functional-many-flavors-of-currying-43p1)
 - [Dev.to/JS] [Edit and synchronize subtitles in react.](https://dev.to/alirezatav/edit-and-synchronize-subtitles-in-react-1dg7)
 - [Dev.to/JS] [MongoDB Connection using Mongoose](https://dev.to/iamshahnawaz7/mongodb-connection-using-mongoose-5951)
 - [Dev.to/JS] [Web Sockets : The Handshake Technology](https://dev.to/iamshahnawaz7/web-sockets-the-handshake-technology-149d)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Newsletter Subscription using NEXT JS and Mailchimp API](https://dev.to/codewithmarish/newsletter-subscription-using-next-js-and-mailchimp-api-2n8k)
 - [Dev.to/JS] [Hoisting in JavaScript&lpar;Variables &amp; function&rpar;](https://dev.to/srishtikprasad/hoisting-in-javascriptvariables-function-1j4h)
 - [Dev.to/JS] [How to get better quality 3D text in WebGL?](https://dev.to/hr21don/how-to-get-better-quality-3d-text-in-webgl-2lml)
-- [Dev.to/JS] [Mocking window.location in Jest](https://dev.to/chrisrhymes/mocking-windowlocation-in-jest-45b6)
-- [Dev.to/JS] [Accessing Vue Component Data with $ref.](https://dev.to/martinsonuoha/accessing-vue-component-data-with-ref-n)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You&#39;re Setting Up Your TV Wrong](https://lifehacker.com/all-the-ways-youre-setting-up-your-tv-wrong-1849072675)
 - [Lifehacker] [This App Is Like a Homing Device for Bluetooth Signals](https://lifehacker.com/this-app-is-like-a-homing-device-for-bluetooth-signals-1849072052)
 - [Lifehacker] [Make Decadent &quot;Duck Frosting&quot; With Just Two Ingredients](https://lifehacker.com/make-decadent-duck-frosting-with-just-two-ingredients-1849072147)
-- [Lifehacker] [Use This Trick to Stop Yourself From Throwing Up](https://lifehacker.com/use-this-trick-to-stop-yourself-from-throwing-up-1849070937)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
