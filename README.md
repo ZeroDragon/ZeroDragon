@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #145: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-145-explica-este-codigo-javascript-1bjm)
+- [Dev.to/JS] [How to Refresh Json Web Tokens &lpar;JWT&rpar; using Axios Interceptors](https://dev.to/franciscomendes10866/how-to-use-axios-interceptors-b7d)
+- [Dev.to/JS] [Dockerizing a Node.js / Express app from the very first [Part 1]](https://dev.to/msrumon/dockerizing-a-nodejs-express-app-from-the-very-first-part-1-50c1)
+- [Dev.to/JS] [JavaScript - Destructuring assignment](https://dev.to/justtanwa/javascript-destructuring-assignment-4pfp)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Dev.to/JS] [State of the Vuenion — Vue Amsterdam Conference 2022 Summary series — First Talk](https://dev.to/mohsen_vaziri/state-of-the-vuenion-vue-amsterdam-conference-2022-summary-series-first-talk-i6b)
 - [Dev.to/JS] [Auto change repo name with Github action](https://dev.to/thuongtruong1009/auto-change-repo-name-with-github-action-3of3)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 1 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-1-report-4h88)
 - [Dev.to/JS] [Forever Functional: Many flavors of currying](https://dev.to/asayerio_techblog/forever-functional-many-flavors-of-currying-43p1)
 - [Dev.to/JS] [Edit and synchronize subtitles in react.](https://dev.to/alirezatav/edit-and-synchronize-subtitles-in-react-1dg7)
-- [Dev.to/JS] [MongoDB Connection using Mongoose](https://dev.to/iamshahnawaz7/mongodb-connection-using-mongoose-5951)
-- [Dev.to/JS] [Web Sockets : The Handshake Technology](https://dev.to/iamshahnawaz7/web-sockets-the-handshake-technology-149d)
-- [Dev.to/JS] [https://sites.google.com/view/ketoextremeinsouthafrica/home](https://dev.to/southketextrem/httpssitesgooglecomviewketoextremeinsouthafricahome-49ca)
-- [Dev.to/JS] [How to add push notification in a Next/React JS App?](https://dev.to/codewithmarish/how-to-add-push-notification-in-a-nextreact-js-app-51c5)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
