@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
+- [Dev.to/JS] [Paracetamol.js💊| #146: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-146-explica-este-codigo-javascript-52me)
+- [Dev.to/JS] [Understanding JavaScript Closure in depth](https://dev.to/srishtikprasad/understanding-javascript-closure-in-depth-411d)
 - [Dev.to/JS] [Paracetamol.js💊| #145: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-145-explica-este-codigo-javascript-1bjm)
 - [Dev.to/JS] [How to Refresh Json Web Tokens &lpar;JWT&rpar; using Axios Interceptors](https://dev.to/franciscomendes10866/how-to-use-axios-interceptors-b7d)
 - [Dev.to/JS] [Dockerizing a Node.js / Express app from the very first [Part 1]](https://dev.to/msrumon/dockerizing-a-nodejs-express-app-from-the-very-first-part-1-50c1)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [CustomEvent 客製一個 addEventListener](https://dev.to/letswrite/customevent-ke-zhi-ge-addeventlistener-3njh)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 1 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-1-report-4h88)
-- [Dev.to/JS] [Forever Functional: Many flavors of currying](https://dev.to/asayerio_techblog/forever-functional-many-flavors-of-currying-43p1)
-- [Dev.to/JS] [Edit and synchronize subtitles in react.](https://dev.to/alirezatav/edit-and-synchronize-subtitles-in-react-1dg7)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
 - [Lifehacker] [Maybe You Should Just Ship Your Luggage](https://lifehacker.com/maybe-you-should-just-ship-your-luggage-1849072240)
 - [Lifehacker] [All the Ways You&#39;re Setting Up Your TV Wrong](https://lifehacker.com/all-the-ways-youre-setting-up-your-tv-wrong-1849072675)
-- [Lifehacker] [This App Is Like a Homing Device for Bluetooth Signals](https://lifehacker.com/this-app-is-like-a-homing-device-for-bluetooth-signals-1849072052)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
