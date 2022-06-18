@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Scatter Plot in JavaScript](https://dev.to/andreykh1985/scatter-plot-in-javascript-32h8)
 - [Dev.to/JS] [¿Por qué React 18 llama dos veces a useEffect?🙄](https://dev.to/leobar37/por-que-react-18-llama-dos-veces-a-useeffect-25bp)
 - [Dev.to/JS] [Write code for people: Dos and don&#39;ts to improve your React code](https://dev.to/merlos/write-code-for-people-dos-and-donts-to-improve-your-react-code-59j7)
 - [Dev.to/JS] [What is data Binding in Angular 12](https://dev.to/deepachaurasia1/what-is-data-binding-in-angular-12-9cb)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #145: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-145-explica-este-codigo-javascript-1bjm)
 - [Dev.to/JS] [How to Refresh Json Web Tokens &lpar;JWT&rpar; using Axios Interceptors](https://dev.to/franciscomendes10866/how-to-use-axios-interceptors-b7d)
 - [Dev.to/JS] [Dockerizing a Node.js / Express app from the very first [Part 1]](https://dev.to/msrumon/dockerizing-a-nodejs-express-app-from-the-very-first-part-1-50c1)
-- [Dev.to/JS] [JavaScript - Destructuring assignment](https://dev.to/justtanwa/javascript-destructuring-assignment-4pfp)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
