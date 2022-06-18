@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Principios Básicos de Redux](https://dev.to/arielcalix/principios-basicos-de-redux-4ln3)
+- [Dev.to/JS] [Custom Tooltip Component using Angular&#39;s Style Directive and Coordinates from Web APIs MouseEvent](https://dev.to/riapacheco/custom-tooltip-component-using-angulars-style-directive-and-coordinates-from-web-apis-mouseevent-13f6)
 - [Dev.to/JS] [What is website URL](https://dev.to/itsnx7/what-is-website-url-17jh)
 - [Dev.to/JS] [Symfony Station Communiqué — 17 June 2022. A look at Symfony, PHP, and Cybersecurity News!](https://dev.to/reubenwalker64/symfony-station-communique-17-june-2022-a-look-at-symfony-php-and-cybersecurity-news-4293)
 - [Dev.to/JS] [A brief Javascript guide](https://dev.to/chabulsqu/a-brief-javascript-guide-9g0)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Blockchain Development](https://dev.to/victorsalatiel/blockchain-development-2kjo)
 - [Lifehacker] [Stop Washing Your Baseball Cap in the Washing Machine &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-washing-your-baseball-cap-in-the-washing-machine-1849077682)
 - [Dev.to/JS] [Composition api or Options api?](https://dev.to/the_one/composition-api-or-options-api-59gf)
-- [Dev.to/JS] [ReactJS mouse-move throttle](https://dev.to/srele96/reactjs-mouse-move-throttle-hb3)
-- [Dev.to/JS] [Visions Of the Future &amp;&amp; Reflections Of the Past](https://dev.to/edmund635/visions-of-the-future-reflections-of-the-past-30bo)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
 - [Lifehacker] [The Hidden &lpar;and Easiest&rpar; Way to Use Google Lens](https://lifehacker.com/the-hidden-and-easiest-way-to-use-google-lens-1849076911)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
