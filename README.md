@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Edit and synchronize subtitles in react.](https://dev.to/alirezatav/edit-and-synchronize-subtitles-in-react-1dg7)
+- [Dev.to/JS] [MongoDB Connection using Mongoose](https://dev.to/iamshahnawaz7/mongodb-connection-using-mongoose-5951)
+- [Dev.to/JS] [Web Sockets : The Handshake Technology](https://dev.to/iamshahnawaz7/web-sockets-the-handshake-technology-149d)
 - [Dev.to/JS] [https://sites.google.com/view/ketoextremeinsouthafrica/home](https://dev.to/southketextrem/httpssitesgooglecomviewketoextremeinsouthafricahome-49ca)
 - [Dev.to/JS] [How to add push notification in a Next/React JS App?](https://dev.to/codewithmarish/how-to-add-push-notification-in-a-nextreact-js-app-51c5)
 - [Dev.to/JS] [F**K ETH IS UNDER $1K](https://dev.to/medavid1/fk-eth-is-under-1k-1bb)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get better quality 3D text in WebGL?](https://dev.to/hr21don/how-to-get-better-quality-3d-text-in-webgl-2lml)
 - [Dev.to/JS] [Mocking window.location in Jest](https://dev.to/chrisrhymes/mocking-windowlocation-in-jest-45b6)
 - [Dev.to/JS] [Accessing Vue Component Data with $ref.](https://dev.to/martinsonuoha/accessing-vue-component-data-with-ref-n)
-- [Dev.to/JS] [Making a dynamic &#39;select&#39; box more appealing with &#39;optgroup&#39;](https://dev.to/indikaur/making-a-dynamic-select-box-more-appealing-with-optgroup-1a5n)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;18-06-2022&rpar; - Swimming against the current](https://dev.to/mjgs/this-weeks-newsletter-is-out-18-06-2022-swimming-against-the-current-ace)
-- [Dev.to/JS] [Temporal Dead Zone &lpar;TDZ&rpar; in JavaScript](https://dev.to/abidullah786/temporal-dead-zone-tdz-in-javascript-30h8)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
