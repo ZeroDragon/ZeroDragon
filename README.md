@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Por qué React 18 llama dos veces a useEffect?🙄](https://dev.to/leobar37/por-que-react-18-llama-dos-veces-a-useeffect-25bp)
+- [Dev.to/JS] [Write code for people: Dos and don&#39;ts to improve your React code](https://dev.to/merlos/write-code-for-people-dos-and-donts-to-improve-your-react-code-59j7)
 - [Dev.to/JS] [What is data Binding in Angular 12](https://dev.to/deepachaurasia1/what-is-data-binding-in-angular-12-9cb)
 - [Dev.to/JS] [Request and Response Stream - Observations](https://dev.to/srele96/request-and-response-stream-observations-37on)
 - [Dev.to/JS] [Code Smell 141 - IEngine , AVehicle, ImplCar](https://dev.to/mcsee/code-smell-141-iengine-avehicle-implcar-58ch)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dockerizing a Node.js / Express app from the very first [Part 1]](https://dev.to/msrumon/dockerizing-a-nodejs-express-app-from-the-very-first-part-1-50c1)
 - [Dev.to/JS] [JavaScript - Destructuring assignment](https://dev.to/justtanwa/javascript-destructuring-assignment-4pfp)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
-- [Dev.to/JS] [State of the Vuenion — Vue Amsterdam Conference 2022 Summary series — First Talk](https://dev.to/mohsen_vaziri/state-of-the-vuenion-vue-amsterdam-conference-2022-summary-series-first-talk-i6b)
-- [Dev.to/JS] [Auto change repo name with Github action](https://dev.to/thuongtruong1009/auto-change-repo-name-with-github-action-3of3)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
