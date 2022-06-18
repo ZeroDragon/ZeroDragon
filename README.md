@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 JavaScript Libraries for Machine Learning, Deep Learning](https://dev.to/saiarlen/top-5-javascript-libraries-for-machine-learning-deep-learning-126f)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Dev.to/JS] [Paracetamol.js💊| #146: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-146-explica-este-codigo-javascript-52me)
 - [Dev.to/JS] [Understanding JavaScript Closure in depth](https://dev.to/srishtikprasad/understanding-javascript-closure-in-depth-411d)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s New in React 18](https://dev.to/annysah/whats-new-in-react-18-g03)
 - [Dev.to/JS] [CustomEvent 客製一個 addEventListener](https://dev.to/letswrite/customevent-ke-zhi-ge-addeventlistener-3njh)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
-- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 1 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-1-report-4h88)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
