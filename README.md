@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Accessing Vue Component Data with $ref.](https://dev.to/martinsonuoha/accessing-vue-component-data-with-ref-n)
 - [Dev.to/JS] [Making a dynamic &#39;select&#39; box more appealing with &#39;optgroup&#39;](https://dev.to/indikaur/making-a-dynamic-select-box-more-appealing-with-optgroup-1a5n)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;18-06-2022&rpar; - Swimming against the current](https://dev.to/mjgs/this-weeks-newsletter-is-out-18-06-2022-swimming-against-the-current-ace)
 - [Dev.to/JS] [Temporal Dead Zone &lpar;TDZ&rpar; in JavaScript](https://dev.to/abidullah786/temporal-dead-zone-tdz-in-javascript-30h8)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Dev.to/JS] [From Cookie strings into usable JavaScript](https://dev.to/asg5704/from-cookie-strings-into-usable-javascript-2nj9)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
-- [Dev.to/JS] [JavaScript async and await in loops](https://dev.to/gondar00/javascript-async-and-await-in-loops-28bg)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
 - [Lifehacker] [Use Uncooked Pasta as an Impromptu Skewer](https://lifehacker.com/use-uncooked-pasta-as-an-impromptu-skewer-1849078386)
 - [Lifehacker] [What Is a &#39;Likability Quotient&#39; &lpar;and How Can You Increase Yours&rpar;?](https://lifehacker.com/what-is-a-likability-quotient-and-how-can-you-increase-1849078291)
