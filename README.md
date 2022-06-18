@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is data Binding in Angular 12](https://dev.to/deepachaurasia1/what-is-data-binding-in-angular-12-9cb)
+- [Dev.to/JS] [Request and Response Stream - Observations](https://dev.to/srele96/request-and-response-stream-observations-37on)
+- [Dev.to/JS] [Code Smell 141 - IEngine , AVehicle, ImplCar](https://dev.to/mcsee/code-smell-141-iengine-avehicle-implcar-58ch)
 - [Dev.to/JS] [Top 5 JavaScript Libraries for Machine Learning, Deep Learning](https://dev.to/saiarlen/top-5-javascript-libraries-for-machine-learning-deep-learning-126f)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Dev.to/JS] [Paracetamol.js💊| #146: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-146-explica-este-codigo-javascript-52me)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Dev.to/JS] [State of the Vuenion — Vue Amsterdam Conference 2022 Summary series — First Talk](https://dev.to/mohsen_vaziri/state-of-the-vuenion-vue-amsterdam-conference-2022-summary-series-first-talk-i6b)
 - [Dev.to/JS] [Auto change repo name with Github action](https://dev.to/thuongtruong1009/auto-change-repo-name-with-github-action-3of3)
-- [Dev.to/JS] [HTML &amp; CSS &amp; Pure Javascript Carousel](https://dev.to/atakde/html-css-pure-javascript-carousel-13ch)
-- [Dev.to/JS] [What&#39;s New in React 18](https://dev.to/annysah/whats-new-in-react-18-g03)
-- [Dev.to/JS] [CustomEvent 客製一個 addEventListener](https://dev.to/letswrite/customevent-ke-zhi-ge-addeventlistener-3njh)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
