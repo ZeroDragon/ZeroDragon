@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What&#39;s New in React 18](https://dev.to/annysah/whats-new-in-react-18-g03)
+- [Dev.to/JS] [CustomEvent 客製一個 addEventListener](https://dev.to/letswrite/customevent-ke-zhi-ge-addeventlistener-3njh)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 1 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-1-report-4h88)
 - [Dev.to/JS] [Forever Functional: Many flavors of currying](https://dev.to/asayerio_techblog/forever-functional-many-flavors-of-currying-43p1)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [F**K ETH IS UNDER $1K](https://dev.to/medavid1/fk-eth-is-under-1k-1bb)
 - [Dev.to/JS] [Variable](https://dev.to/gohomewho/variable-2n4g)
 - [Dev.to/JS] [Newsletter Subscription using NEXT JS and Mailchimp API](https://dev.to/codewithmarish/newsletter-subscription-using-next-js-and-mailchimp-api-2n8k)
-- [Dev.to/JS] [Hoisting in JavaScript&lpar;Variables &amp; function&rpar;](https://dev.to/srishtikprasad/hoisting-in-javascriptvariables-function-1j4h)
-- [Dev.to/JS] [How to get better quality 3D text in WebGL?](https://dev.to/hr21don/how-to-get-better-quality-3d-text-in-webgl-2lml)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
