@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Components AI | Made with Next JS](https://dev.to/madewithjavascript/components-ai-made-with-next-js-19i2)
+- [Dev.to/JS] [JavaScript to TypeScript | Complete Guide with React ⚛️](https://dev.to/suchintan/javascript-to-typescript-complete-guide-with-react-1nd8)
 - [Dev.to/JS] [SaasRock v0.2.7 - Roles, Permissions, Groups, and Row-level visibility](https://dev.to/alexandromtzg/saasrock-v027-roles-permissions-groups-and-row-level-visibility-40af)
 - [Dev.to/JS] [MakeMeFamous🤩.md](https://dev.to/heydrdev/makemefamousmd-54k9)
 - [Dev.to/JS] [XOX Game with JavaScript](https://dev.to/ahmetilhan24/xox-game-with-javascript-21o6)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Write code for people: Dos and don&#39;ts to improve your React code](https://dev.to/merlos/write-code-for-people-dos-and-donts-to-improve-your-react-code-59j7)
 - [Dev.to/JS] [What is data Binding in Angular 12](https://dev.to/deepachaurasia1/what-is-data-binding-in-angular-12-9cb)
 - [Dev.to/JS] [Request and Response Stream - Observations](https://dev.to/srele96/request-and-response-stream-observations-37on)
-- [Dev.to/JS] [Code Smell 141 - IEngine , AVehicle, ImplCar](https://dev.to/mcsee/code-smell-141-iengine-avehicle-implcar-58ch)
-- [Dev.to/JS] [Top 5 JavaScript Libraries for Machine Learning, Deep Learning](https://dev.to/saiarlen/top-5-javascript-libraries-for-machine-learning-deep-learning-126f)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
