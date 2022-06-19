@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building Todo app with Zustand in React](https://dev.to/vigneshiyergithub/building-todo-app-with-zustand-in-react-3dgc)
+- [Dev.to/JS] [How to use fetch in JavaScript: GET, POST, PUT and DELETE requests](https://dev.to/jimmywilliams/how-to-use-fetch-in-javascript-get-post-put-and-delete-requests-54l0)
 - [Dev.to/JS] [Handling Undo/Redo Functions in Rich Text Editors](https://dev.to/ravgeetdhillon/handling-undoredo-functions-in-rich-text-editors-idm)
 - [Dev.to/JS] [Add your portfolio here so everyone can see it.](https://dev.to/technophileguy/add-your-porfolio-here-so-everyone-can-see-it-2ife)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unit testing: #1 - Test one behaviour at a time.](https://dev.to/ms_74/unit-testing-1-test-one-behaviour-at-a-time-44i5)
 - [Dev.to/JS] [Starting my 100 days of code](https://dev.to/motuncoded/starting-my-100-days-of-code-13bk)
 - [Dev.to/JS] [How to create a blog website with React &amp; firebase -&gt; Series2](https://dev.to/evansifyke/how-to-create-a-blog-website-with-react-firebase-series2-3jdd)
-- [Dev.to/JS] [Event Emitter with Typescript- Advanced Usage](https://dev.to/ritikbanger/event-emitter-with-typescript-advanced-usage-328c)
-- [Dev.to/JS] [Scan your website metadata in 10 seconds](https://dev.to/shreyvijayvargiya/scan-your-website-metadata-in-10-seconds-2g1c)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
