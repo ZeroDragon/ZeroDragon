@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Redux Best Practices](https://dev.to/learnfrontendio/redux-best-practices-231c)
+- [Dev.to/JS] [NolybabJS - i18n-to-csv and csv-to-i18n converter](https://dev.to/vbanditv/nolybabjs-i18n-to-csv-and-csv-to-i18n-converter-43fk)
+- [Dev.to/JS] [Interview experience at Google - SDE II](https://dev.to/rajeshroyal/interview-experience-at-google-sde-ii-n09)
+- [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
+- [Dev.to/JS] [Async/Await in JavaScript Tutorial for Beginners](https://dev.to/jimmywilliams/asyncawait-in-javascript-tutorial-for-beginners-2l4j)
 - [Dev.to/JS] [Building Todo app with Zustand in React](https://dev.to/vigneshiyergithub/building-todo-app-with-zustand-in-react-3dgc)
 - [Dev.to/JS] [How to use fetch in JavaScript: GET, POST, PUT and DELETE requests](https://dev.to/jimmywilliams/how-to-use-fetch-in-javascript-get-post-put-and-delete-requests-54l0)
 - [Dev.to/JS] [Handling Undo/Redo Functions in Rich Text Editors](https://dev.to/ravgeetdhillon/handling-undoredo-functions-in-rich-text-editors-idm)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Notebook with Tailwind Css and JS pure](https://dev.to/mazdevelop/notebook-with-tailwind-css-and-js-pure-ojh)
 - [Dev.to/JS] [Cheatsheet for Web Developers](https://dev.to/suprabhasupi/cheatsheet-for-web-developers-1opg)
 - [Dev.to/JS] [Fetching Medium Posts And Showing In GitHub Profile](https://dev.to/atakde/fetching-medium-posts-and-showing-in-github-profile-1ccb)
-- [Dev.to/JS] [Data Types in JavaScript](https://dev.to/ahmedmansoor012/data-types-in-javascript-40d3)
-- [Dev.to/JS] [Unit testing: #1 - Test one behaviour at a time.](https://dev.to/ms_74/unit-testing-1-test-one-behaviour-at-a-time-44i5)
-- [Dev.to/JS] [Starting my 100 days of code](https://dev.to/motuncoded/starting-my-100-days-of-code-13bk)
-- [Dev.to/JS] [How to create a blog website with React &amp; firebase -&gt; Series2](https://dev.to/evansifyke/how-to-create-a-blog-website-with-react-firebase-series2-3jdd)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 - [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
-- [Lifehacker] [Maybe You Should Just Ship Your Luggage](https://lifehacker.com/maybe-you-should-just-ship-your-luggage-1849072240)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
