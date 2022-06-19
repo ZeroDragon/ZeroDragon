@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fetching Medium Posts And Showing In GitHub Profile](https://dev.to/atakde/fetching-medium-posts-and-showing-in-github-profile-1ccb)
+- [Dev.to/JS] [Data Types in JavaScript](https://dev.to/ahmedmansoor012/data-types-in-javascript-40d3)
+- [Dev.to/JS] [Unit testing: #1 - Test one behaviour at a time.](https://dev.to/ms_74/unit-testing-1-test-one-behaviour-at-a-time-44i5)
 - [Dev.to/JS] [Starting my 100 days of code](https://dev.to/motuncoded/starting-my-100-days-of-code-13bk)
 - [Dev.to/JS] [How to create a blog website with React &amp; firebase -&gt; Series2](https://dev.to/evansifyke/how-to-create-a-blog-website-with-react-firebase-series2-3jdd)
 - [Dev.to/JS] [Event Emitter with Typescript- Advanced Usage](https://dev.to/ritikbanger/event-emitter-with-typescript-advanced-usage-328c)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dev Tools Unleashed: 7 things you probably didn&#39;t know Dev Tools could do](https://dev.to/ruppysuppy/dev-tools-unleashed-7-things-you-probably-didnt-know-dev-tools-could-do-4b5d)
 - [Dev.to/JS] [Framer 101 | Basics and How to Start with Framer Motion.](https://dev.to/srbh/framer-101-basics-and-how-to-start-with-framer-motion-23lf)
 - [Dev.to/JS] [Components AI | Made with Next JS](https://dev.to/madewithjavascript/components-ai-made-with-next-js-19i2)
-- [Dev.to/JS] [JavaScript to TypeScript | With React Project⚛️](https://dev.to/suchintan/javascript-to-typescript-complete-guide-with-react-1nd8)
-- [Dev.to/JS] [SaasRock v0.2.7 - Roles, Permissions, Groups, and Row-level visibility](https://dev.to/alexandromtzg/saasrock-v027-roles-permissions-groups-and-row-level-visibility-40af)
-- [Dev.to/JS] [MakeMeFamous🤩.md](https://dev.to/heydrdev/makemefamousmd-54k9)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
