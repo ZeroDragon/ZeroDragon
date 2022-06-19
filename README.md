@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scan your website metadata in 10 seconds](https://dev.to/shreyvijayvargiya/scan-your-website-metadata-in-10-seconds-2g1c)
+- [Dev.to/JS] [Use the power of a JavaScript framework right in your HTML file!!](https://dev.to/asheeshh/use-the-power-of-a-javascript-framework-right-in-your-html-file-1d88)
 - [Dev.to/JS] [#Short_note- Redirect and catch errors in fetch hook Nuxt &lpar;SSR&rpar;](https://dev.to/siumhossain/shortnote-redirect-and-catch-errors-in-fetch-hook-nuxt-ssr-33k2)
 - [Dev.to/JS] [Dev Tools Unleashed: 7 things you probably didn&#39;t know Dev Tools could do](https://dev.to/ruppysuppy/dev-tools-unleashed-7-things-you-probably-didnt-know-dev-tools-could-do-4b5d)
 - [Dev.to/JS] [Framer 101 | Basics and How to Start with Framer Motion.](https://dev.to/srbh/framer-101-basics-and-how-to-start-with-framer-motion-23lf)
 - [Dev.to/JS] [Components AI | Made with Next JS](https://dev.to/madewithjavascript/components-ai-made-with-next-js-19i2)
-- [Dev.to/JS] [JavaScript to TypeScript | Complete Guide with React ⚛️](https://dev.to/suchintan/javascript-to-typescript-complete-guide-with-react-1nd8)
+- [Dev.to/JS] [JavaScript to TypeScript | With React Project⚛️](https://dev.to/suchintan/javascript-to-typescript-complete-guide-with-react-1nd8)
 - [Dev.to/JS] [SaasRock v0.2.7 - Roles, Permissions, Groups, and Row-level visibility](https://dev.to/alexandromtzg/saasrock-v027-roles-permissions-groups-and-row-level-visibility-40af)
 - [Dev.to/JS] [MakeMeFamous🤩.md](https://dev.to/heydrdev/makemefamousmd-54k9)
 - [Dev.to/JS] [XOX Game with JavaScript](https://dev.to/ahmetilhan24/xox-game-with-javascript-21o6)
 - [Dev.to/JS] [tsParticles 2.1.0 Released](https://dev.to/matteobruni/tsparticles-210-released-33mg)
 - [Dev.to/JS] [Identifying code with Typescript compiler](https://dev.to/jennieji/identifying-code-with-typescript-compiler-bl9)
-- [Dev.to/JS] [Building a Scatter Plot in JavaScript](https://dev.to/andreykh1985/scatter-plot-in-javascript-32h8)
-- [Dev.to/JS] [¿Por qué React 18 llama dos veces a useEffect?🙄](https://dev.to/leobar37/por-que-react-18-llama-dos-veces-a-useeffect-25bp)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
