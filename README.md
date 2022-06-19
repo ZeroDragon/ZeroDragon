@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.test.js🧪| #6: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-6-testea-este-codigo-javascript-2ka4)
+- [Dev.to/JS] [Create a Google Chrome extension with ReactJS](https://dev.to/pacholoamit/create-a-google-chrome-extension-with-reactjs-3one)
 - [Dev.to/JS] [Weekly Digest 24/2022](https://dev.to/marcobiedermann/weekly-digest-242022-1il6)
 - [Dev.to/JS] [Week 6, 7, and 8 - The DOM, the extras, and the wrap up](https://dev.to/jwhitt3r/week-6-7-and-8-the-dom-the-extras-and-the-wrap-up-l42)
 - [Dev.to/JS] [How Template Literal Types work in TypeScript](https://dev.to/smpnjn/how-template-literal-types-work-in-typescript-mdi)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Intrinsic Type Manipulations work in TypeScript](https://dev.to/smpnjn/how-intrinsic-type-manipulations-work-in-typescript-869)
 - [Dev.to/JS] [How to convert a String to a Number in TypeScript](https://dev.to/smpnjn/how-to-convert-a-string-to-a-number-in-typescript-4ei4)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
-- [Dev.to/JS] [Paracetamol.js💊| #147: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-147-explica-este-codigo-javascript-3ce)
-- [Dev.to/JS] [Was JavaScript Destructuring a mistake?](https://dev.to/ivanjeremic/was-javascript-destructuring-a-mistake-3ekn)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
