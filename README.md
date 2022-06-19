@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Blob - Manipulando dados binários em javascript](https://dev.to/flacorlopes/blob-manipulando-dados-binarios-em-javascript-2nak)
 - [Dev.to/JS] [Paracetamol.test.js🧪| #6: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-6-testea-este-codigo-javascript-2ka4)
 - [Dev.to/JS] [Create a Google Chrome extension with ReactJS](https://dev.to/pacholoamit/create-a-google-chrome-extension-with-reactjs-3one)
 - [Dev.to/JS] [Weekly Digest 24/2022](https://dev.to/marcobiedermann/weekly-digest-242022-1il6)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to send events from a child to parent in Svelte](https://dev.to/smpnjn/how-to-send-events-from-a-child-to-parent-in-svelte-3lo9)
 - [Dev.to/JS] [Deployee Angular 13 on Node server](https://dev.to/joynathbarman/deployee-angular-13-to-node-server-51ap)
 - [Dev.to/JS] [How Intrinsic Type Manipulations work in TypeScript](https://dev.to/smpnjn/how-intrinsic-type-manipulations-work-in-typescript-869)
-- [Dev.to/JS] [How to convert a String to a Number in TypeScript](https://dev.to/smpnjn/how-to-convert-a-string-to-a-number-in-typescript-4ei4)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
