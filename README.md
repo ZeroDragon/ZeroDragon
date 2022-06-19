@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Framer 101 | Basics and How to Start with Framer Motion.](https://dev.to/srbh/framer-101-basics-and-how-to-start-with-framer-motion-23lf)
 - [Dev.to/JS] [Components AI | Made with Next JS](https://dev.to/madewithjavascript/components-ai-made-with-next-js-19i2)
 - [Dev.to/JS] [JavaScript to TypeScript | Complete Guide with React ⚛️](https://dev.to/suchintan/javascript-to-typescript-complete-guide-with-react-1nd8)
 - [Dev.to/JS] [SaasRock v0.2.7 - Roles, Permissions, Groups, and Row-level visibility](https://dev.to/alexandromtzg/saasrock-v027-roles-permissions-groups-and-row-level-visibility-40af)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [¿Por qué React 18 llama dos veces a useEffect?🙄](https://dev.to/leobar37/por-que-react-18-llama-dos-veces-a-useeffect-25bp)
 - [Dev.to/JS] [Write code for people: Dos and don&#39;ts to improve your React code](https://dev.to/merlos/write-code-for-people-dos-and-donts-to-improve-your-react-code-59j7)
 - [Dev.to/JS] [What is data Binding in Angular 12](https://dev.to/deepachaurasia1/what-is-data-binding-in-angular-12-9cb)
-- [Dev.to/JS] [Request and Response Stream - Observations](https://dev.to/srele96/request-and-response-stream-observations-37on)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
