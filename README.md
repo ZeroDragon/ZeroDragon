@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
+- [Dev.to/JS] [Paracetamol.js💊| #147: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-147-explica-este-codigo-javascript-3ce)
+- [Dev.to/JS] [Was JavaScript Destructuring a mistake?](https://dev.to/ivanjeremic/was-javascript-destructuring-a-mistake-3ekn)
+- [Dev.to/JS] [Los poderes secretos de las Web Device APIS](https://dev.to/jmrsuarez/los-poderes-de-las-web-device-apis-652)
 - [Dev.to/JS] [Redux Best Practices](https://dev.to/learnfrontendio/redux-best-practices-231c)
 - [Dev.to/JS] [NolybabJS - i18n-to-csv and csv-to-i18n converter](https://dev.to/vbanditv/nolybabjs-i18n-to-csv-and-csv-to-i18n-converter-43fk)
 - [Dev.to/JS] [Interview experience at Google - SDE II](https://dev.to/rajeshroyal/interview-experience-at-google-sde-ii-n09)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add your portfolio here so everyone can see it.](https://dev.to/technophileguy/add-your-porfolio-here-so-everyone-can-see-it-2ife)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
 - [Dev.to/JS] [#100DaysOfCode Recap day1-6](https://dev.to/tomyotwongjai/100daysofcode-recap-day1-6-52h0)
-- [Dev.to/JS] [Notebook with Tailwind Css and JS pure](https://dev.to/mazdevelop/notebook-with-tailwind-css-and-js-pure-ojh)
-- [Dev.to/JS] [Cheatsheet for Web Developers](https://dev.to/suprabhasupi/cheatsheet-for-web-developers-1opg)
-- [Dev.to/JS] [Fetching Medium Posts And Showing In GitHub Profile](https://dev.to/atakde/fetching-medium-posts-and-showing-in-github-profile-1ccb)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Use Shaving Cream, Gel, or Foam?](https://lifehacker.com/should-you-use-shaving-cream-gel-or-foam-1849073471)
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 - [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
-- [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
