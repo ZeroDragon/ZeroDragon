@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add your porfolio here so everyone can see it.](https://dev.to/technophileguy/add-your-porfolio-here-so-everyone-can-see-it-2ife)
+- [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
+- [Dev.to/JS] [#100DaysOfCode Recap day1-6](https://dev.to/tomyotwongjai/100daysofcode-recap-day1-6-52h0)
+- [Dev.to/JS] [Notebook with Tailwind Css and JS pure](https://dev.to/mazdevelop/notebook-with-tailwind-css-and-js-pure-ojh)
+- [Dev.to/JS] [Cheatsheet for Web Developers](https://dev.to/suprabhasupi/cheatsheet-for-web-developers-1opg)
 - [Dev.to/JS] [Fetching Medium Posts And Showing In GitHub Profile](https://dev.to/atakde/fetching-medium-posts-and-showing-in-github-profile-1ccb)
 - [Dev.to/JS] [Data Types in JavaScript](https://dev.to/ahmedmansoor012/data-types-in-javascript-40d3)
 - [Dev.to/JS] [Unit testing: #1 - Test one behaviour at a time.](https://dev.to/ms_74/unit-testing-1-test-one-behaviour-at-a-time-44i5)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event Emitter with Typescript- Advanced Usage](https://dev.to/ritikbanger/event-emitter-with-typescript-advanced-usage-328c)
 - [Dev.to/JS] [Scan your website metadata in 10 seconds](https://dev.to/shreyvijayvargiya/scan-your-website-metadata-in-10-seconds-2g1c)
 - [Dev.to/JS] [Use the power of a JavaScript framework right in your HTML file!!](https://dev.to/asheeshh/use-the-power-of-a-javascript-framework-right-in-your-html-file-1d88)
-- [Dev.to/JS] [#Short_note- Redirect and catch errors in fetch hook Nuxt &lpar;SSR&rpar;](https://dev.to/siumhossain/shortnote-redirect-and-catch-errors-in-fetch-hook-nuxt-ssr-33k2)
-- [Dev.to/JS] [Dev Tools Unleashed: 7 things you probably didn&#39;t know Dev Tools could do](https://dev.to/ruppysuppy/dev-tools-unleashed-7-things-you-probably-didnt-know-dev-tools-could-do-4b5d)
-- [Dev.to/JS] [Framer 101 | Basics and How to Start with Framer Motion.](https://dev.to/srbh/framer-101-basics-and-how-to-start-with-framer-motion-23lf)
-- [Dev.to/JS] [Components AI | Made with Next JS](https://dev.to/madewithjavascript/components-ai-made-with-next-js-19i2)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
 - [Lifehacker] [Use This ‘Celebration Formula’ for Father’s Day](https://lifehacker.com/use-this-celebration-formula-for-father-s-day-1848890743)
 - [Lifehacker] [Maybe You Should Just Ship Your Luggage](https://lifehacker.com/maybe-you-should-just-ship-your-luggage-1849072240)
-- [Lifehacker] [All the Ways You&#39;re Setting Up Your TV Wrong](https://lifehacker.com/all-the-ways-youre-setting-up-your-tv-wrong-1849072675)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
