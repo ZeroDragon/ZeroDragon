@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build and publish your npm package](https://dev.to/leopold/build-and-publish-your-npm-package-48mb)
+- [Dev.to/JS] [A new OAuth2 client for Javascript](https://dev.to/evertp/a-new-oauth2-client-for-javascript-jjb)
 - [Dev.to/JS] [Autenticação no Next.js com Usuário e Senha e criando Rotas Privadas.](https://dev.to/portugues/autenticacao-no-nextjs-com-usuario-e-senha-e-criando-rotas-privadas-137)
 - [Dev.to/JS] [State of the WebAssembly 2022](https://dev.to/sendilkumarn/state-of-the-webassembly-2022-2h1i)
 - [Dev.to/JS] [What is the best way to enter in Backend?](https://dev.to/gabrielpedroza/best-way-to-enter-in-backend-4hhb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The document could not be saved. A number is out of range- Fixed](https://dev.to/kodwings/the-document-could-not-be-saved-a-number-is-out-of-range-fixed-4ifi)
 - [Dev.to/JS] [Practical WEBPACK Basics: Pure Javascript frontend](https://dev.to/steffanboodhoo/practical-webpack-basics-pure-javascript-frontend-356)
 - [Dev.to/JS] [Build a Password Generator and Deploy to Cloudfare Pages in 3 minutes](https://dev.to/tosyn/build-a-password-generator-and-deploy-to-cloudfare-pages-in-3-minutes-4a3a)
-- [Dev.to/JS] [Day 21 - 30](https://dev.to/sianwa11/day-21-30-4cmj)
-- [Dev.to/JS] [Simple Feedback Form using Html, CSS and Javascript](https://dev.to/codewithayan10/simple-feedback-form-using-html-css-and-javascript-3bj3)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
