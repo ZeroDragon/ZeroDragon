@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Proactivation](https://dev.to/importedlinks/proactivation-3023)
+- [Dev.to/JS] [How to Use TypeScript with Vue.js: Your Go-to Guide](https://dev.to/uche_azubuko/how-to-use-typescript-with-vuejs-your-go-to-guide-3j52)
+- [Dev.to/JS] [Senior Python Full Stack Developer &lpar;100% Remote Job&rpar;](https://dev.to/sojinsamuel/senior-python-full-stack-developer-100-remote-job-297j)
 - [Dev.to/JS] [Using React to create a Micro Frontend](https://dev.to/entando/using-react-to-create-a-micro-frontend-4jn2)
 - [Dev.to/JS] [How to Scrape Data through a Data Scraping API?](https://dev.to/zenscrape/how-to-scrape-data-through-a-data-scraping-api-4ip3)
 - [Dev.to/JS] [Dockerizing a Node.js / Express app from the very first [Part 2]](https://dev.to/msrumon/dockerizing-a-nodejs-express-app-from-the-very-first-part-2-o9)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ng-News: Episode 22/24](https://dev.to/rainerhahnekamp/ng-news-episode-2224-4b8h)
 - [Dev.to/JS] [Getting Started With ReactJS](https://dev.to/susmitadey/getting-started-with-reactjs-1dc5)
 - [Dev.to/JS] [How to properly set up Prettier in less than 2 minutes](https://dev.to/bokub/how-to-properly-set-up-prettier-in-less-than-2-minutes-2ld0)
-- [Dev.to/JS] [MERN ECOMMERCE Part-1](https://dev.to/bikramjeetsarmah/mern-ecommerce-part-1-59b0)
-- [Dev.to/JS] [MERN ECOMMERCE](https://dev.to/bikramjeetsarmah/mern-ecommerce-21ha)
-- [Dev.to/JS] [How to find your first open source project as a frontend developer?](https://dev.to/aspiringdev22/how-to-find-your-first-open-source-project-as-a-frontend-developer-1hno)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
