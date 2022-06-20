@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dockerizing a Node.js / Express app from the very first [Part 2]](https://dev.to/msrumon/dockerizing-a-nodejs-express-app-from-the-very-first-part-2-o9)
+- [Dev.to/JS] [#3.Basic algorithms problems for frontend developers.](https://dev.to/talenttinaapi/3basic-algorithms-problems-for-frontend-developers-52oe)
+- [Dev.to/JS] [One-Stop Solution for your all eCommerce Needs - Storeemart](https://dev.to/store_emart/one-stop-solution-for-your-all-ecommerce-needs-storeemart-m3p)
 - [Dev.to/JS] [The Power of Pissing Code, and its Place in Answering the Age-Old Question: “TypeScript, or JavaScript?”](https://dev.to/rida/the-power-of-pissing-code-and-its-place-in-answering-the-age-old-question-typescript-or-javascript-2pbn)
 - [Dev.to/JS] [Ng-News: Episode 22/24](https://dev.to/rainerhahnekamp/ng-news-episode-2224-4b8h)
 - [Dev.to/JS] [Getting Started With ReactJS](https://dev.to/susmitadey/getting-started-with-reactjs-1dc5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to find your first open source project as a frontend developer?](https://dev.to/aspiringdev22/how-to-find-your-first-open-source-project-as-a-frontend-developer-1hno)
 - [Dev.to/JS] [Revive your JSON &lpar;examples with TDD and composition&rpar;](https://dev.to/dvddpl/revive-your-json-examples-with-tdd-and-composition-3)
 - [Dev.to/JS] [Roadmap to learn MERN stack.](https://dev.to/itskunal/roadmap-to-learn-mern-stack-34fh)
-- [Dev.to/JS] [How to Loop in React JSX](https://dev.to/sureshramani/how-to-loop-in-react-jsx-bl7)
-- [Dev.to/JS] [Convert any type into boolean — JS](https://dev.to/hidaytrahman/convert-any-type-into-boolean-js-3ab4)
-- [Dev.to/JS] [npm install care-package](https://dev.to/jimenezfede/npm-install-care-package-22jn)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
