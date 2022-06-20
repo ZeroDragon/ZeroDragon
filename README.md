@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Hitman](https://dev.to/rinxan/hitman-2g74)
+- [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
+- [Dev.to/JS] [How to Build a Forum App with Next.Js and Strapi CMS](https://dev.to/strapi/how-to-build-a-forum-app-with-nextjs-and-strapi-cms-3786)
+- [Dev.to/JS] [Wait, what is this Web 5 stuff?](https://dev.to/khansa/wait-what-is-this-web-5-stuff-1kgb)
+- [Dev.to/JS] [Routing and Using React Router](https://dev.to/killerkvothe117/routing-and-using-react-router-19fi)
+- [Dev.to/JS] [How to use require&lpar;&rpar; in ECMAScript modules](https://dev.to/caspergeek/how-to-use-require-in-ecmascript-modules-1l42)
 - [Dev.to/JS] [React and Node.js E-Commerce Admin Dashboard - Free Course 🔥](https://dev.to/chaoocharles/react-and-nodejs-e-commerce-admin-dashboard-free-course-550d)
 - [Dev.to/JS] [Axios API for JavaScript: GET, POST, PUT and DELETE requests](https://dev.to/jimmywilliams/axios-api-for-javascript-get-post-put-and-delete-requests-2h3h)
 - [Dev.to/JS] [Using Fetch API in React with Function Components](https://dev.to/jimmywilliams/using-fetch-api-in-react-with-function-components-465a)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Lyric Synchronizer](https://dev.to/mcanam/javascript-lyric-synchronizer-4i15)
 - [Dev.to/JS] [How to create and publish a react component library &lpar;not the storybook way&rpar;](https://dev.to/sidmohanty11/how-to-create-and-publish-a-react-component-library-not-the-storybook-way-3b07)
 - [Dev.to/JS] [How to use serverless functions on Netlify &lpar;JS/TS&rpar;](https://dev.to/nickgabe/how-to-use-serverless-functions-on-netlify-jsts-olj)
-- [Dev.to/JS] [Is Cypress Easy to Learn? GET and FIND Command Hacks💻 | Cypress Tutorial | Part II](https://dev.to/lambdatestteam/is-cypress-easy-to-learn-get-and-find-command-hacks-cypress-tutorial-part-ii-125g)
-- [Dev.to/JS] [Paracetamol.js💊| #148: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-148-explica-este-codigo-javascript-gpo)
-- [Dev.to/JS] [Interval | Made with React JS](https://dev.to/madewithjavascript/interval-made-with-react-js-1lm3)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Birds From Building Nests in the Worst Places](https://lifehacker.com/how-to-stop-birds-from-building-nests-in-the-worst-plac-1849075439)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Young Is Too Young to Go to Hooters?](https://lifehacker.com/how-young-is-too-young-to-go-to-hooters-1849074770)
 - [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
-- [Lifehacker] [Should You Use Shaving Cream, Gel, or Foam?](https://lifehacker.com/should-you-use-shaving-cream-gel-or-foam-1849073471)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
