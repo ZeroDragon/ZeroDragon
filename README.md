@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Loop in React JSX](https://dev.to/sureshramani/how-to-loop-in-react-jsx-bl7)
+- [Dev.to/JS] [Convert any type into boolean — JS](https://dev.to/hidaytrahman/convert-any-type-into-boolean-js-3ab4)
 - [Dev.to/JS] [npm install care-package](https://dev.to/jimenezfede/npm-install-care-package-22jn)
 - [Dev.to/JS] [Reverse Phone API: The Future of preventing fraudulent phone calls](https://dev.to/numverify/reverse-phone-api-the-future-of-preventing-fraudulent-phone-calls-4205)
 - [Dev.to/JS] [TypeScript Utility Types: The 6 Most Useful](https://dev.to/sachinchaurasiya/typescript-utility-types-the-6-most-useful-2bp4)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beautiful Masonry Gallery with Bootstrap and Unsplash Random Photos](https://dev.to/typo3freelancer/masonry-gallery-with-bootstrap-and-unsplash-random-photos-fkj)
 - [Dev.to/JS] [Blob - Manipulando dados binários em javascript](https://dev.to/flacorlopes/blob-manipulando-dados-binarios-em-javascript-2nak)
 - [Dev.to/JS] [Lua Script in Redis using node_redis](https://dev.to/itsvinayak/lua-script-in-redis-using-noderedis-147f)
-- [Dev.to/JS] [Paracetamol.test.js🧪| #6: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-6-testea-este-codigo-javascript-2ka4)
-- [Dev.to/JS] [Create a Google Chrome extension with ReactJS](https://dev.to/pacholoamit/create-a-google-chrome-extension-with-reactjs-3one)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
