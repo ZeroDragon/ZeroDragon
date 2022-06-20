@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating an avatar based in the user name with React](https://dev.to/juancarloscruz/creating-an-avatar-based-in-the-user-name-with-react-5k1)
+- [Dev.to/JS] [The document could not be saved. A number is out of range- Fixed](https://dev.to/kodwings/the-document-could-not-be-saved-a-number-is-out-of-range-fixed-4ifi)
+- [Dev.to/JS] [Practical WEBPACK Basics: Pure Javascript frontend](https://dev.to/steffanboodhoo/practical-webpack-basics-pure-javascript-frontend-356)
+- [Dev.to/JS] [Build a Password Generator and Deploy to Cloudfare Pages in 3 minutes](https://dev.to/tosyn/build-a-password-generator-and-deploy-to-cloudfare-pages-in-3-minutes-4a3a)
+- [Dev.to/JS] [Day 21 - 30](https://dev.to/sianwa11/day-21-30-4cmj)
 - [Dev.to/JS] [Simple Feedback Form using Html, CSS and Javascript](https://dev.to/codewithayan10/simple-feedback-form-using-html-css-and-javascript-3bj3)
 - [Dev.to/JS] [The Best Ways to Learn Fundamental Programming Concepts](https://dev.to/mohitbilala/the-best-ways-to-learn-fundamental-programming-concepts-4nfi)
 - [Dev.to/JS] [TypeFast | Made with React JS](https://dev.to/madewithjavascript/typefast-made-with-react-js-2p4i)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Practical Guide to Harlem](https://dev.to/martinsonuoha/a-practical-guide-to-harlem-2h1g)
 - [Dev.to/JS] [How to Build a Forum App with Next.Js and Strapi CMS](https://dev.to/strapi/how-to-build-a-forum-app-with-nextjs-and-strapi-cms-3786)
 - [Dev.to/JS] [Wait, what is this Web 5 stuff?](https://dev.to/khansa/wait-what-is-this-web-5-stuff-1kgb)
-- [Dev.to/JS] [Routing and Using React Router](https://dev.to/killerkvothe117/routing-and-using-react-router-19fi)
-- [Dev.to/JS] [How to use require&lpar;&rpar; in ECMAScript modules](https://dev.to/caspergeek/how-to-use-require-in-ecmascript-modules-1l42)
-- [Dev.to/JS] [React and Node.js E-Commerce Admin Dashboard - Free Course 🔥](https://dev.to/chaoocharles/react-and-nodejs-e-commerce-admin-dashboard-free-course-550d)
-- [Dev.to/JS] [Axios API for JavaScript: GET, POST, PUT and DELETE requests](https://dev.to/jimmywilliams/axios-api-for-javascript-get-post-put-and-delete-requests-2h3h)
-- [Dev.to/JS] [Using Fetch API in React with Function Components](https://dev.to/jimmywilliams/using-fetch-api-in-react-with-function-components-465a)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
