@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
+- [Dev.to/JS] [Introducing Cryptocademy: A real time virtual crypto trading simulator](https://dev.to/narottam04/introducing-cryptocademy-a-real-time-crypto-trading-simulator-15ca)
+- [Dev.to/JS] [Google Maps API Geocode Explained [2022]](https://dev.to/hirajatamil/google-maps-api-geocode-explained-2022-22n3)
 - [Dev.to/JS] [How to bulk upload files to S3 using node script](https://dev.to/gondar00/how-to-bulk-upload-files-to-s3-using-node-script-c37)
 - [Dev.to/JS] [Write Regex Password Validation Like a Pro](https://dev.to/rasaf_ibrahim/write-regex-password-validation-like-a-pro-5175)
 - [Dev.to/JS] [Kotlin vs Scala vs Java](https://dev.to/ameliawenham/kotlin-vs-scala-vs-java-4fgp)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🌟.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2fl4)
-- [Dev.to/JS] [Proactivation](https://dev.to/importedlinks/proactivation-3023)
 - [Dev.to/JS] [How to Use TypeScript with Vue.js: Your Go-to Guide](https://dev.to/uche_azubuko/how-to-use-typescript-with-vuejs-your-go-to-guide-3j52)
 - [Dev.to/JS] [Senior Python Full Stack Developer &lpar;100% Remote Job&rpar;](https://dev.to/sojinsamuel/senior-python-full-stack-developer-100-remote-job-297j)
 - [Dev.to/JS] [Using React to create a Micro Frontend](https://dev.to/entando/using-react-to-create-a-micro-frontend-4jn2)
 - [Dev.to/JS] [How to Scrape Data through a Data Scraping API?](https://dev.to/zenscrape/how-to-scrape-data-through-a-data-scraping-api-4ip3)
 - [Dev.to/JS] [Dockerizing a Node.js / Express app from the very first [Part 2]](https://dev.to/msrumon/dockerizing-a-nodejs-express-app-from-the-very-first-part-2-o9)
 - [Dev.to/JS] [#3.Basic algorithms problems for frontend developers.](https://dev.to/talenttinaapi/3basic-algorithms-problems-for-frontend-developers-52oe)
-- [Dev.to/JS] [One-Stop Solution for your all eCommerce Needs - Storeemart](https://dev.to/store_emart/one-stop-solution-for-your-all-ecommerce-needs-storeemart-m3p)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
 - [Lifehacker] [Should You Use Shaving Cream, Gel, or Foam?](https://lifehacker.com/should-you-use-shaving-cream-gel-or-foam-1849073471)
 - [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
-- [Lifehacker] [Why Do so Many TikTok Influencers Want Us to Do Pilates?](https://lifehacker.com/why-do-so-many-tiktok-influencers-want-us-to-do-pilates-1849072506)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
