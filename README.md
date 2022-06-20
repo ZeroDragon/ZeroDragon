@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to bulk upload files to S3 using node script](https://dev.to/gondar00/how-to-bulk-upload-files-to-s3-using-node-script-c37)
+- [Dev.to/JS] [Write Regex Password Validation Like a Pro](https://dev.to/rasaf_ibrahim/write-regex-password-validation-like-a-pro-5175)
+- [Dev.to/JS] [Kotlin vs Scala vs Java](https://dev.to/ameliawenham/kotlin-vs-scala-vs-java-4fgp)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🌟.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2fl4)
 - [Dev.to/JS] [Proactivation](https://dev.to/importedlinks/proactivation-3023)
 - [Dev.to/JS] [How to Use TypeScript with Vue.js: Your Go-to Guide](https://dev.to/uche_azubuko/how-to-use-typescript-with-vuejs-your-go-to-guide-3j52)
 - [Dev.to/JS] [Senior Python Full Stack Developer &lpar;100% Remote Job&rpar;](https://dev.to/sojinsamuel/senior-python-full-stack-developer-100-remote-job-297j)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dockerizing a Node.js / Express app from the very first [Part 2]](https://dev.to/msrumon/dockerizing-a-nodejs-express-app-from-the-very-first-part-2-o9)
 - [Dev.to/JS] [#3.Basic algorithms problems for frontend developers.](https://dev.to/talenttinaapi/3basic-algorithms-problems-for-frontend-developers-52oe)
 - [Dev.to/JS] [One-Stop Solution for your all eCommerce Needs - Storeemart](https://dev.to/store_emart/one-stop-solution-for-your-all-ecommerce-needs-storeemart-m3p)
-- [Dev.to/JS] [The Power of Pissing Code, and its Place in Answering the Age-Old Question: “TypeScript, or JavaScript?”](https://dev.to/rida/the-power-of-pissing-code-and-its-place-in-answering-the-age-old-question-typescript-or-javascript-2pbn)
-- [Dev.to/JS] [Ng-News: Episode 22/24](https://dev.to/rainerhahnekamp/ng-news-episode-2224-4b8h)
-- [Dev.to/JS] [Getting Started With ReactJS](https://dev.to/susmitadey/getting-started-with-reactjs-1dc5)
-- [Dev.to/JS] [How to properly set up Prettier in less than 2 minutes](https://dev.to/bokub/how-to-properly-set-up-prettier-in-less-than-2-minutes-2ld0)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
