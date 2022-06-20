@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ES6: Promises](https://dev.to/vkton115/es6-promises-5eh9)
 - [Dev.to/JS] [Microfrontends - Primer](https://dev.to/sushantkulkarni/microfrontends-primer-4n3h)
 - [Dev.to/JS] [Making a regex engine in Rust from scratch.](https://dev.to/baenencalin/making-a-regex-engine-in-rust-from-scratch-in-rust-1b0c)
 - [Dev.to/JS] [Beautiful Masonry Gallery with Bootstrap and Unsplash Random Photos](https://dev.to/typo3freelancer/masonry-gallery-with-bootstrap-and-unsplash-random-photos-fkj)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How Template Literal Types work in TypeScript](https://dev.to/smpnjn/how-template-literal-types-work-in-typescript-mdi)
 - [Dev.to/JS] [Making your own Express Middleware](https://dev.to/smpnjn/making-your-own-express-middleware-3a2)
 - [Dev.to/JS] [Creating a Reusable Tab Component in Vue](https://dev.to/smpnjn/creating-a-reusable-tab-component-in-vue-2ni5)
-- [Dev.to/JS] [How to get the Full URL in Express on Node.js](https://dev.to/smpnjn/how-to-get-the-full-url-in-express-on-nodejs-2h23)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
