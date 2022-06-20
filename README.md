@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
+- [Dev.to/JS] [mojo.js 1.0 - from Perl to Node.js](https://dev.to/kraih/mojojs-10-from-perl-to-nodejs-d4c)
+- [Dev.to/JS] [Javascript Lyric Synchronizer](https://dev.to/mcanam/javascript-lyric-synchronizer-4i15)
+- [Dev.to/JS] [How to create and publish a react component library &lpar;not the storybook way&rpar;](https://dev.to/sidmohanty11/how-to-create-and-publish-a-react-component-library-not-the-storybook-way-3b07)
+- [Dev.to/JS] [How to use serverless functions on Netlify &lpar;JS/TS&rpar;](https://dev.to/nickgabe/how-to-use-serverless-functions-on-netlify-jsts-olj)
 - [Dev.to/JS] [Is Cypress Easy to Learn? GET and FIND Command Hacks💻 | Cypress Tutorial | Part II](https://dev.to/lambdatestteam/is-cypress-easy-to-learn-get-and-find-command-hacks-cypress-tutorial-part-ii-125g)
 - [Dev.to/JS] [Paracetamol.js💊| #148: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-148-explica-este-codigo-javascript-gpo)
 - [Dev.to/JS] [Interval | Made with React JS](https://dev.to/madewithjavascript/interval-made-with-react-js-1lm3)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Google Maps API Geocode Explained [2022]](https://dev.to/hirajatamil/google-maps-api-geocode-explained-2022-22n3)
 - [Dev.to/JS] [Qu’est-ce que l’OWASP ?](https://dev.to/euro_tech_conseil_france/quest-ce-que-lowasp--pf4)
 - [Dev.to/JS] [How to bulk upload files to S3 using node script](https://dev.to/gondar00/how-to-bulk-upload-files-to-s3-using-node-script-c37)
-- [Dev.to/JS] [Write Regex Password Validation Like a Pro](https://dev.to/rasaf_ibrahim/write-regex-password-validation-like-a-pro-5175)
-- [Dev.to/JS] [Kotlin vs Scala vs Java](https://dev.to/ameliawenham/kotlin-vs-scala-vs-java-4fgp)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🌟.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-2fl4)
-- [Dev.to/JS] [How to Use TypeScript with Vue.js: Your Go-to Guide](https://dev.to/uche_azubuko/how-to-use-typescript-with-vuejs-your-go-to-guide-3j52)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Young Is Too Young to Go to Hooters?](https://lifehacker.com/how-young-is-too-young-to-go-to-hooters-1849074770)
 - [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
 - [Lifehacker] [Should You Use Shaving Cream, Gel, or Foam?](https://lifehacker.com/should-you-use-shaving-cream-gel-or-foam-1849073471)
-- [Lifehacker] [How to Tell If Someone Accessed Your Google Account](https://lifehacker.com/how-to-tell-if-someone-accessed-your-google-account-1849072623)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
 - [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
