@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Feedback Form using Html, CSS and Javascript](https://dev.to/codewithayan10/simple-feedback-form-using-html-css-and-javascript-3bj3)
+- [Dev.to/JS] [The Best Ways to Learn Fundamental Programming Concepts](https://dev.to/mohitbilala/the-best-ways-to-learn-fundamental-programming-concepts-4nfi)
+- [Dev.to/JS] [TypeFast | Made with React JS](https://dev.to/madewithjavascript/typefast-made-with-react-js-2p4i)
+- [Dev.to/JS] [What is Throttle, What is the Throttle use, and how to create Throttle?](https://dev.to/amirlotfi/what-is-throttle-what-is-the-throttle-use-and-how-to-create-throttle-78j)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
+- [Dev.to/JS] [A Practical Guide to Harlem](https://dev.to/martinsonuoha/a-practical-guide-to-harlem-2h1g)
 - [Dev.to/JS] [How to Build a Forum App with Next.Js and Strapi CMS](https://dev.to/strapi/how-to-build-a-forum-app-with-nextjs-and-strapi-cms-3786)
 - [Dev.to/JS] [Wait, what is this Web 5 stuff?](https://dev.to/khansa/wait-what-is-this-web-5-stuff-1kgb)
 - [Dev.to/JS] [Routing and Using React Router](https://dev.to/killerkvothe117/routing-and-using-react-router-19fi)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React and Node.js E-Commerce Admin Dashboard - Free Course 🔥](https://dev.to/chaoocharles/react-and-nodejs-e-commerce-admin-dashboard-free-course-550d)
 - [Dev.to/JS] [Axios API for JavaScript: GET, POST, PUT and DELETE requests](https://dev.to/jimmywilliams/axios-api-for-javascript-get-post-put-and-delete-requests-2h3h)
 - [Dev.to/JS] [Using Fetch API in React with Function Components](https://dev.to/jimmywilliams/using-fetch-api-in-react-with-function-components-465a)
-- [Dev.to/JS] [Vuejs Login and Register Form](https://dev.to/w3hubs/vuejs-login-and-register-form-1d2d)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
-- [Dev.to/JS] [mojo.js 1.0 - from Perl to Node.js](https://dev.to/kraih/mojojs-10-from-perl-to-nodejs-d4c)
-- [Dev.to/JS] [Javascript Lyric Synchronizer](https://dev.to/mcanam/javascript-lyric-synchronizer-4i15)
-- [Dev.to/JS] [How to create and publish a react component library &lpar;not the storybook way&rpar;](https://dev.to/sidmohanty11/how-to-create-and-publish-a-react-component-library-not-the-storybook-way-3b07)
-- [Dev.to/JS] [How to use serverless functions on Netlify &lpar;JS/TS&rpar;](https://dev.to/nickgabe/how-to-use-serverless-functions-on-netlify-jsts-olj)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
