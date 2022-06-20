@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [npm install care-package](https://dev.to/jimenezfede/npm-install-care-package-22jn)
+- [Dev.to/JS] [Reverse Phone API: The Future of preventing fraudulent phone calls](https://dev.to/numverify/reverse-phone-api-the-future-of-preventing-fraudulent-phone-calls-4205)
+- [Dev.to/JS] [TypeScript Utility Types: The 6 Most Useful](https://dev.to/sachinchaurasiya/typescript-utility-types-the-6-most-useful-2bp4)
+- [Dev.to/JS] [Building Headless Commerce with Nuxt 3, Shopify, and TailwindCSS](https://dev.to/jacobandrewsky/building-headless-commerce-with-nuxt-3-shopify-and-tailwindcss-293c)
 - [Dev.to/JS] [ES6: Promises](https://dev.to/vkton115/es6-promises-5eh9)
 - [Dev.to/JS] [Microfrontends - Primer](https://dev.to/sushantkulkarni/microfrontends-primer-4n3h)
 - [Dev.to/JS] [Making a regex engine in Rust from scratch.](https://dev.to/baenencalin/making-a-regex-engine-in-rust-from-scratch-in-rust-1b0c)
 - [Dev.to/JS] [Beautiful Masonry Gallery with Bootstrap and Unsplash Random Photos](https://dev.to/typo3freelancer/masonry-gallery-with-bootstrap-and-unsplash-random-photos-fkj)
 - [Dev.to/JS] [Blob - Manipulando dados binários em javascript](https://dev.to/flacorlopes/blob-manipulando-dados-binarios-em-javascript-2nak)
+- [Dev.to/JS] [Lua Script in Redis using node_redis](https://dev.to/itsvinayak/lua-script-in-redis-using-noderedis-147f)
 - [Dev.to/JS] [Paracetamol.test.js🧪| #6: Testea este código JavaScript](https://dev.to/duxtech/paracetamoltestjs-6-testea-este-codigo-javascript-2ka4)
 - [Dev.to/JS] [Create a Google Chrome extension with ReactJS](https://dev.to/pacholoamit/create-a-google-chrome-extension-with-reactjs-3one)
-- [Dev.to/JS] [Weekly Digest 24/2022](https://dev.to/marcobiedermann/weekly-digest-242022-1il6)
-- [Dev.to/JS] [Week 6, 7, and 8 - The DOM, the extras, and the wrap up](https://dev.to/jwhitt3r/week-6-7-and-8-the-dom-the-extras-and-the-wrap-up-l42)
-- [Dev.to/JS] [How Template Literal Types work in TypeScript](https://dev.to/smpnjn/how-template-literal-types-work-in-typescript-mdi)
-- [Dev.to/JS] [Making your own Express Middleware](https://dev.to/smpnjn/making-your-own-express-middleware-3a2)
-- [Dev.to/JS] [Creating a Reusable Tab Component in Vue](https://dev.to/smpnjn/creating-a-reusable-tab-component-in-vue-2ni5)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
