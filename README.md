@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to AlpineJS](https://dev.to/parables/how-to-alpinejs-i91)
+- [Dev.to/JS] [Infinite scrolling with React Query](https://dev.to/asayerio_techblog/infinite-scrolling-with-react-query-1hgl)
+- [Dev.to/JS] [How to use async function in useEffect?](https://dev.to/jasmin/how-to-use-async-function-in-useeffect-5efc)
 - [Dev.to/JS] [Build and publish your npm package](https://dev.to/leopold/build-and-publish-your-npm-package-48mb)
 - [Dev.to/JS] [A new OAuth2 client for Javascript](https://dev.to/evertp/a-new-oauth2-client-for-javascript-jjb)
 - [Dev.to/JS] [Autenticação no Next.js com Usuário e Senha e criando Rotas Privadas.](https://dev.to/portugues/autenticacao-no-nextjs-com-usuario-e-senha-e-criando-rotas-privadas-137)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WebGL Liquid Distortion Image Hover Effect - Three Part Setup](https://dev.to/hr21don/webgl-liquid-distortion-image-hover-effect-three-part-setup-5640)
 - [Dev.to/JS] [SSH-BM, An SSH bookmarking program](https://dev.to/therealdakotal/ssh-bm-an-ssh-bookmarking-program-5ch4)
 - [Dev.to/JS] [Creating an avatar based in the user name with React](https://dev.to/juancarloscruz/creating-an-avatar-based-in-the-user-name-with-react-5k1)
-- [Dev.to/JS] [The document could not be saved. A number is out of range- Fixed](https://dev.to/kodwings/the-document-could-not-be-saved-a-number-is-out-of-range-fixed-4ifi)
-- [Dev.to/JS] [Practical WEBPACK Basics: Pure Javascript frontend](https://dev.to/steffanboodhoo/practical-webpack-basics-pure-javascript-frontend-356)
-- [Dev.to/JS] [Build a Password Generator and Deploy to Cloudfare Pages in 3 minutes](https://dev.to/tosyn/build-a-password-generator-and-deploy-to-cloudfare-pages-in-3-minutes-4a3a)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
