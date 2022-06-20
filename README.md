@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hitman](https://dev.to/rinxan/hitman-2g74)
+- [Dev.to/JS] [React and Node.js E-Commerce Admin Dashboard - Free Course 🔥](https://dev.to/chaoocharles/react-and-nodejs-e-commerce-admin-dashboard-free-course-550d)
+- [Dev.to/JS] [Axios API for JavaScript: GET, POST, PUT and DELETE requests](https://dev.to/jimmywilliams/axios-api-for-javascript-get-post-put-and-delete-requests-2h3h)
+- [Dev.to/JS] [Using Fetch API in React with Function Components](https://dev.to/jimmywilliams/using-fetch-api-in-react-with-function-components-465a)
+- [Dev.to/JS] [Vuejs Login and Register Form](https://dev.to/w3hubs/vuejs-login-and-register-form-1d2d)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Dev.to/JS] [mojo.js 1.0 - from Perl to Node.js](https://dev.to/kraih/mojojs-10-from-perl-to-nodejs-d4c)
 - [Dev.to/JS] [Javascript Lyric Synchronizer](https://dev.to/mcanam/javascript-lyric-synchronizer-4i15)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is Cypress Easy to Learn? GET and FIND Command Hacks💻 | Cypress Tutorial | Part II](https://dev.to/lambdatestteam/is-cypress-easy-to-learn-get-and-find-command-hacks-cypress-tutorial-part-ii-125g)
 - [Dev.to/JS] [Paracetamol.js💊| #148: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-148-explica-este-codigo-javascript-gpo)
 - [Dev.to/JS] [Interval | Made with React JS](https://dev.to/madewithjavascript/interval-made-with-react-js-1lm3)
-- [Dev.to/JS] [Are Web Components Dead?](https://dev.to/mariusbongarts/are-web-components-dead-3hj7)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
-- [Dev.to/JS] [Introducing Cryptocademy: A real time virtual crypto trading simulator](https://dev.to/narottam04/introducing-cryptocademy-a-real-time-crypto-trading-simulator-15ca)
-- [Dev.to/JS] [Google Maps API Geocode Explained [2022]](https://dev.to/hirajatamil/google-maps-api-geocode-explained-2022-22n3)
-- [Dev.to/JS] [Qu’est-ce que l’OWASP ?](https://dev.to/euro_tech_conseil_france/quest-ce-que-lowasp--pf4)
-- [Dev.to/JS] [How to bulk upload files to S3 using node script](https://dev.to/gondar00/how-to-bulk-upload-files-to-s3-using-node-script-c37)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
