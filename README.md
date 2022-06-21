@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Module Federation Learnings](https://dev.to/kerryconvery/module-federation-learnings-37oi)
+- [Dev.to/JS] [ERROR: Cannot set headers after they are sent to client!!!](https://dev.to/himanshupal0001/error-cannot-set-headers-after-they-are-sent-to-client-177a)
+- [Dev.to/JS] [Create a Marketplace with Medusa Part 3: Implement User Management and Permissions](https://dev.to/medusajs/create-a-marketplace-with-medusa-part-3-implement-user-management-and-permissions-d32)
+- [Dev.to/JS] [Better than Math.random&lpar;&rpar; password generator!](https://dev.to/jimmywilliams/better-than-mathrandom-password-generator-3mk2)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-3.2 &lpar; Product Controllers&rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-32-product-controllers-pcb)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Dev.to/JS] [Data structures and algorithms](https://dev.to/nemwelboniface/data-structures-and-algorithms-277f)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What&#39;s new in P42? Summer 2022 Summary](https://dev.to/p42/whats-new-in-p42-summer-2022-summary-22nh)
 - [Dev.to/JS] [Synology Speed Test](https://dev.to/openspeedtest/synology-speed-test-5fbk)
 - [Dev.to/JS] [Vue 3.2 에서 필수로 짚고 넘어가야 할 미래](https://dev.to/composite/vue-32-eseo-pilsuro-jipgo-neomeogaya-hal-mirae-4mcc)
-- [Dev.to/JS] [State of Vue 2022: Amsterdam recap](https://dev.to/strift/state-of-vue-2022-amsterdam-recap-36jp)
-- [Dev.to/JS] [Getting more out of your Pinia Stores  — Vue Amsterdam Conference 2022 Summary series — Second Talk](https://dev.to/mohsen_vaziri/getting-more-out-of-your-pinia-stores-vue-amsterdam-conference-2022-summary-series-second-talk-4n54)
-- [Dev.to/JS] [Daily routine](https://dev.to/rinxan/youtube-472g)
-- [Dev.to/JS] [Question: Is it possible to separate a Reactjs project with git submodules?](https://dev.to/chaoming/question-is-it-possible-to-separate-a-reactjs-project-with-git-submodules-knh)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
