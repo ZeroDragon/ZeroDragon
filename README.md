@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everything you need to know about Markdown](https://dev.to/patilganesh1010/everything-you-need-to-know-about-markdown-1da3)
 - [Dev.to/JS] [What is the Google Shopping API?](https://dev.to/zenserpapi/what-is-the-google-shopping-api-13nf)
 - [Dev.to/JS] [How to scan QR code using Xamarin.Forms?](https://dev.to/harshalsuthar/how-to-scan-qr-code-using-xamarinforms-2ipl)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-3.1 &lpar; Product Model &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-31-product-model--3n0i)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is this async function recursive?](https://dev.to/mistval/is-this-async-function-recursive-1m9m)
 - [Dev.to/JS] [Auto dismissing alert](https://dev.to/parables/how-to-alpinejs-auto-dismissing-alert-3ff3)
 - [Dev.to/JS] [How to AlpineJS - Introduction](https://dev.to/parables/how-to-alpinejs-i91)
-- [Dev.to/JS] [Infinite scrolling with React Query](https://dev.to/asayerio_techblog/infinite-scrolling-with-react-query-1hgl)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
@@ -52,7 +52,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Washing Your Baseball Cap in the Washing Machine &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-washing-your-baseball-cap-in-the-washing-machine-1849077682)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
 - [Lifehacker] [The Hidden &lpar;and Easiest&rpar; Way to Use Google Lens](https://lifehacker.com/the-hidden-and-easiest-way-to-use-google-lens-1849076911)
-- [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Lifehacker] [How to Lower Your Risk of Getting Monkeypox During Sex](https://lifehacker.com/how-to-lower-your-risk-of-getting-monkeypox-during-sex-1849077183)
 - [Lifehacker] [Don’t Buy These Apple Products &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/don-t-buy-these-apple-products-and-what-to-buy-instead-1849076734)
 - [Lifehacker] [How to Get the Best Price for a Car That Doesn&#39;t Run Anymore](https://lifehacker.com/how-to-get-the-best-price-for-a-car-that-doesnt-run-any-1849076865)
@@ -60,9 +59,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Disable Google Assistant When You Don&#39;t Need Its Damn Assistance](https://lifehacker.com/how-to-disable-google-assistant-when-you-dont-need-its-1849075535)
 - [Lifehacker] [How to Stop Birds From Building Nests in the Worst Places](https://lifehacker.com/how-to-stop-birds-from-building-nests-in-the-worst-plac-1849075439)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Young Is Too Young to Go to Hooters?](https://lifehacker.com/how-young-is-too-young-to-go-to-hooters-1849074770)
-- [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
-- [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
-- [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)<!-- TECH-POSTS:END -->
 
 ---
 
