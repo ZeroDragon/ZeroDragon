@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-3.1 &lpar; Product Model &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-31-product-model--3n0i)
+- [Dev.to/JS] [Building the backend: APIs with Express and implementing security with Node js on our project](https://dev.to/anamdiazs/building-the-backend-apis-with-express-and-implementing-security-with-node-js-on-our-project-2hcb)
 - [Dev.to/JS] [The Top 10 Data Science Facebook Groups for Data Scientists](https://dev.to/sojinsamuel/the-top-10-data-science-facebook-groups-for-data-scientists-4090)
 - [Dev.to/JS] [Solving CAPTCHA Using 2Captcha](https://dev.to/ethand91/solving-captcha-using-2captcha-32ad)
 - [Dev.to/JS] [Android development web page, how to carry out screen compatibility？](https://dev.to/spierr/android-development-web-page-how-to-carry-out-screen-compatibility-35cn)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Infinite scrolling with React Query](https://dev.to/asayerio_techblog/infinite-scrolling-with-react-query-1hgl)
 - [Dev.to/JS] [How to use async function in useEffect?](https://dev.to/jasmin/how-to-use-async-function-in-useeffect-5efc)
 - [Dev.to/JS] [Build and publish your npm package](https://dev.to/leopold/build-and-publish-your-npm-package-48mb)
-- [Dev.to/JS] [A new OAuth2 client for Javascript](https://dev.to/evertp/a-new-oauth2-client-for-javascript-jjb)
-- [Dev.to/JS] [Autenticação no Next.js com Usuário e Senha e criando Rotas Privadas.](https://dev.to/portugues/autenticacao-no-nextjs-com-usuario-e-senha-e-criando-rotas-privadas-137)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
