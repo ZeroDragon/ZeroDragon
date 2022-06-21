@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Chickenpox Vaccine Protects Against More Than Chickenpox](https://lifehacker.com/the-chickenpox-vaccine-protects-against-more-than-chick-1849080190)
+- [Lifehacker] [17 of the Best Non-Porn Movies Rated NC-17](https://lifehacker.com/17-of-the-best-non-porn-movies-rated-nc-17-1849076415)
+- [Dev.to/JS] [lol](https://dev.to/sauciestcode/lol-ml)
+- [Dev.to/JS] [How to Build a Notion Clone with Strapi v4 and Next.js &lpar;Part 1 of 2&rpar;](https://dev.to/strapi/how-to-build-a-notion-clone-with-strapi-v4-and-nextjs-part-1-of-2-1cdb)
 - [Dev.to/JS] [Important Meta Tags that you should have on your website](https://dev.to/codewithmarish/important-meta-tags-that-you-should-have-on-your-website-2a9a)
+- [Lifehacker] [7 Apple Watch Accessibility Features That Everyone Should Consider Using](https://lifehacker.com/7-apple-watch-accessibility-features-that-everyone-shou-1849084821)
 - [Dev.to/JS] [Build PWA &lpar;Progressive Web App&rpar; with Next JS under 1 minute](https://dev.to/codewithmarish/build-pwa-progressive-web-app-with-next-js-under-1-minute-4397)
 - [Dev.to/JS] [How to improve the load and response time of your websites.](https://dev.to/otonye7/how-to-improve-the-load-and-response-time-of-your-websites-5bka)
 - [Dev.to/JS] [How to create a contact form in Next JS and Firebase?](https://dev.to/codewithmarish/how-to-create-a-contact-form-in-next-js-and-firebase-ci7)
@@ -34,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Translation Apps and Extensions Without Sacrificing Your Privacy](https://lifehacker.com/how-to-use-translation-apps-and-extensions-without-sacr-1849087236)
 - [Dev.to/JS] [Fetch Hosted Audio Streams In The Browser](https://dev.to/deepgram/fetch-hosted-audio-streams-in-the-browser-354c)
 - [Dev.to/JS] [Build a real-time text-typing indicator in Next.js](https://dev.to/hackmamba/build-a-real-time-text-typing-indicator-in-nextjs-dc0)
-- [Dev.to/JS] [Simple tool to convert array to CSV](https://dev.to/ml318097/simple-tool-to-convert-array-to-csv-1d47)
 - [Lifehacker] [How to Tell If That Crack in Your Wall is Really a Problem](https://lifehacker.com/how-to-tell-if-that-crack-in-your-wall-is-really-a-prob-1849084185)
-- [Dev.to/JS] [How low-level API calls can stabilize your end-to-end tests](https://dev.to/checkly/how-low-level-api-calls-can-stabilize-your-end-to-end-tests-1o8m)
 - [Lifehacker] [The 7 Deadly Sins of Decorating Your Home](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-home-1849077171)
 - [Lifehacker] [The Best New Tool to Spend Your Airline Miles](https://lifehacker.com/the-best-new-tool-to-spend-your-airline-miles-1849087341)
 - [Lifehacker] [How to Navigate the Tampon Shortage](https://lifehacker.com/how-to-navigate-the-tampon-shortage-1849077433)
@@ -58,10 +61,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is a &#39;Likability Quotient&#39; &lpar;and How Can You Increase Yours&rpar;?](https://lifehacker.com/what-is-a-likability-quotient-and-how-can-you-increase-1849078291)
 - [Lifehacker] [Stop Washing Your Baseball Cap in the Washing Machine &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-washing-your-baseball-cap-in-the-washing-machine-1849077682)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
-- [Lifehacker] [The Hidden &lpar;and Easiest&rpar; Way to Use Google Lens](https://lifehacker.com/the-hidden-and-easiest-way-to-use-google-lens-1849076911)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
-- [Lifehacker] [How to Lower Your Risk of Getting Monkeypox During Sex](https://lifehacker.com/how-to-lower-your-risk-of-getting-monkeypox-during-sex-1849077183)
-- [Lifehacker] [Don’t Buy These Apple Products &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/don-t-buy-these-apple-products-and-what-to-buy-instead-1849076734)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
 ---
