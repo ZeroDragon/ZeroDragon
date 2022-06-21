@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best New Tool to Spend Your Airline Miles](https://lifehacker.com/the-best-new-tool-to-spend-your-airline-miles-1849087341)
+- [Dev.to/JS] [Data Structures: Graphs II](https://dev.to/m13ha/data-structures-graphs-ii-11i9)
+- [Dev.to/JS] [How To Handle Cypress Async Commands? Smart Hacks | Cypress Tutorial | Part IV](https://dev.to/lambdatest/how-to-handle-cypress-async-commands-smart-hacks-cypress-tutorial-part-iv-5g9m)
+- [Dev.to/JS] [How to install Cypress Plugin | Set Environment Variables | Cypress Tutorial | Part III](https://dev.to/lambdatest/how-to-install-cypress-plugin-set-environment-variables-cypress-tutorial-part-iii-1jfg)
+- [Dev.to/JS] [Paracetamol.js💊| #149: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-149-explica-este-codigo-javascript-30c7)
+- [Lifehacker] [How to Navigate the Tampon Shortage](https://lifehacker.com/how-to-navigate-the-tampon-shortage-1849077433)
 - [Lifehacker] [You Deserve This Fancy No-Bake Dessert](https://lifehacker.com/you-deserve-this-fancy-no-bake-dessert-1849073903)
 - [Dev.to/JS] [JavaScript Clipboard API](https://dev.to/kaankorkmaz/javascript-clipboard-api-2b5i)
 - [Dev.to/JS] [Data structures and algorithms](https://dev.to/kimutai01/data-structures-and-algorithms-4ipe)
@@ -32,11 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Verbum - Rich Text Editor For React](https://dev.to/ozanyurtsever/verbum-rich-text-editor-for-react-1ia1)
 - [Dev.to/JS] [ERROR: Cannot set headers after they are sent to client!!!](https://dev.to/himanshupal0001/error-cannot-set-headers-after-they-are-sent-to-client-177a)
 - [Dev.to/JS] [Create a Marketplace with Medusa Part 3: Implement User Management and Permissions](https://dev.to/medusajs/create-a-marketplace-with-medusa-part-3-implement-user-management-and-permissions-d32)
-- [Dev.to/JS] [Better than Math.random&lpar;&rpar; password generator!](https://dev.to/jimmywilliams/better-than-mathrandom-password-generator-3mk2)
-- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-3.2 &lpar; Product Controllers&rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-32-product-controllers-pcb)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
-- [Dev.to/JS] [Data structures and algorithms](https://dev.to/nemwelboniface/data-structures-and-algorithms-277f)
-- [Dev.to/JS] [PDF USING NODEJS &amp; PUPPETEER](https://dev.to/elvissautet/pdf-using-nodejs-puppeteer-ag7)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
@@ -60,8 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get the Best Price for a Car That Doesn&#39;t Run Anymore](https://lifehacker.com/how-to-get-the-best-price-for-a-car-that-doesnt-run-any-1849076865)
 - [Lifehacker] [Your iPhone Needs Custom Battery Alerts](https://lifehacker.com/your-iphone-needs-custom-battery-alerts-1849076371)
 - [Lifehacker] [How to Disable Google Assistant When You Don&#39;t Need Its Damn Assistance](https://lifehacker.com/how-to-disable-google-assistant-when-you-dont-need-its-1849075535)
-- [Lifehacker] [How to Stop Birds From Building Nests in the Worst Places](https://lifehacker.com/how-to-stop-birds-from-building-nests-in-the-worst-plac-1849075439)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Young Is Too Young to Go to Hooters?](https://lifehacker.com/how-young-is-too-young-to-go-to-hooters-1849074770)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
 ---
