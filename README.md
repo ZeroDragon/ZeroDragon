@@ -52,6 +52,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stop Washing Your Baseball Cap in the Washing Machine &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-washing-your-baseball-cap-in-the-washing-machine-1849077682)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
 - [Lifehacker] [The Hidden &lpar;and Easiest&rpar; Way to Use Google Lens](https://lifehacker.com/the-hidden-and-easiest-way-to-use-google-lens-1849076911)
+- [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Lifehacker] [How to Lower Your Risk of Getting Monkeypox During Sex](https://lifehacker.com/how-to-lower-your-risk-of-getting-monkeypox-during-sex-1849077183)
 - [Lifehacker] [Don’t Buy These Apple Products &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/don-t-buy-these-apple-products-and-what-to-buy-instead-1849076734)
 - [Lifehacker] [How to Get the Best Price for a Car That Doesn&#39;t Run Anymore](https://lifehacker.com/how-to-get-the-best-price-for-a-car-that-doesnt-run-any-1849076865)
@@ -59,7 +60,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Disable Google Assistant When You Don&#39;t Need Its Damn Assistance](https://lifehacker.com/how-to-disable-google-assistant-when-you-dont-need-its-1849075535)
 - [Lifehacker] [How to Stop Birds From Building Nests in the Worst Places](https://lifehacker.com/how-to-stop-birds-from-building-nests-in-the-worst-plac-1849075439)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Young Is Too Young to Go to Hooters?](https://lifehacker.com/how-young-is-too-young-to-go-to-hooters-1849074770)
-- [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)<!-- TECH-POSTS:END -->
+- [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
+- [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
+- [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
 
 ---
 
