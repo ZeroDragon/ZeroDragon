@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to AlpineJS](https://dev.to/parables/how-to-alpinejs-i91)
+- [Dev.to/JS] [How to AlpineJS - Introduction](https://dev.to/parables/how-to-alpinejs-i91)
 - [Dev.to/JS] [Infinite scrolling with React Query](https://dev.to/asayerio_techblog/infinite-scrolling-with-react-query-1hgl)
 - [Dev.to/JS] [How to use async function in useEffect?](https://dev.to/jasmin/how-to-use-async-function-in-useeffect-5efc)
 - [Dev.to/JS] [Build and publish your npm package](https://dev.to/leopold/build-and-publish-your-npm-package-48mb)
