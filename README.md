@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Day Drink Without Overdoing It](https://lifehacker.com/how-to-day-drink-without-overdoing-it-1849090132)
+- [Lifehacker] [What to Say When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-say-when-a-cop-asks-to-search-your-vehicle-1849090424)
+- [Dev.to/JS] [Good assertion messages with EmberJS + sinon](https://dev.to/michalbryxi/good-assertion-messages-with-emberjs-sinon-3phc)
 - [Lifehacker] [When to See the Biggest, Brightest Full Moon of the Year](https://lifehacker.com/when-to-see-the-biggest-brightest-full-moon-of-the-yea-1849089660)
 - [Dev.to/JS] [Solve UK time changes &lpar;DST&rpar; with NodeJS and date-fns and Docker &lpar;epoch/unix format&rpar;](https://dev.to/reallycantcode/solve-uk-time-changes-dst-with-nodejs-and-date-fns-and-docker-epochunix-format-2hok)
 - [Lifehacker] [The Two Best Ways to Make Limoncello at Home](https://lifehacker.com/the-two-best-ways-to-make-limoncello-at-home-1849089119)
@@ -44,7 +47,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Chickenpox Vaccine Protects Against More Than Chickenpox](https://lifehacker.com/the-chickenpox-vaccine-protects-against-more-than-chick-1849080190)
 - [Lifehacker] [17 of the Best Non-Porn Movies Rated NC-17](https://lifehacker.com/17-of-the-best-non-porn-movies-rated-nc-17-1849076415)
 - [Dev.to/JS] [lol](https://dev.to/sauciestcode/lol-ml)
-- [Dev.to/JS] [How to Build a Notion Clone with Strapi v4 and Next.js &lpar;Part 1 of 2&rpar;](https://dev.to/strapi/how-to-build-a-notion-clone-with-strapi-v4-and-nextjs-part-1-of-2-1cdb)
 - [Lifehacker] [7 Apple Watch Accessibility Features That Everyone Should Consider Using](https://lifehacker.com/7-apple-watch-accessibility-features-that-everyone-shou-1849084821)
 - [Lifehacker] [How to Use Translation Apps and Extensions Without Sacrificing Your Privacy](https://lifehacker.com/how-to-use-translation-apps-and-extensions-without-sacr-1849087236)
 - [Lifehacker] [How to Tell If That Crack in Your Wall is Really a Problem](https://lifehacker.com/how-to-tell-if-that-crack-in-your-wall-is-really-a-prob-1849084185)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
-- [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
-- [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
