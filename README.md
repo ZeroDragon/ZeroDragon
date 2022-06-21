@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-3.2 &lpar; Product Controllers&rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-32-product-controllers-pcb)
+- [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
+- [Dev.to/JS] [Data structures and algorithms](https://dev.to/nemwelboniface/data-structures-and-algorithms-277f)
+- [Dev.to/JS] [PDF USING NODEJS &amp; PUPPETEER](https://dev.to/elvissautet/pdf-using-nodejs-puppeteer-ag7)
 - [Dev.to/JS] [How we built a themeable multi-brand design system with Vue.js](https://dev.to/monisnap/how-we-built-a-themeable-multi-brand-design-system-with-vuejs-4flk)
 - [Dev.to/JS] [Get Up And Running With The useEffect Hook.](https://dev.to/ayo_dev/get-up-and-running-with-the-useeffect-hook-3481)
 - [Dev.to/JS] [What&#39;s new in P42? Summer 2022 Summary](https://dev.to/p42/whats-new-in-p42-summer-2022-summary-22nh)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting more out of your Pinia Stores  — Vue Amsterdam Conference 2022 Summary series — Second Talk](https://dev.to/mohsen_vaziri/getting-more-out-of-your-pinia-stores-vue-amsterdam-conference-2022-summary-series-second-talk-4n54)
 - [Dev.to/JS] [Daily routine](https://dev.to/rinxan/youtube-472g)
 - [Dev.to/JS] [Question: Is it possible to separate a Reactjs project with git submodules?](https://dev.to/chaoming/question-is-it-possible-to-separate-a-reactjs-project-with-git-submodules-knh)
-- [Dev.to/JS] [Everything you need to know about Markdown](https://dev.to/patilganesh1010/everything-you-need-to-know-about-markdown-1da3)
-- [Dev.to/JS] [What is the Google Shopping API?](https://dev.to/zenserpapi/what-is-the-google-shopping-api-13nf)
-- [Dev.to/JS] [How to scan QR code using Xamarin.Forms?](https://dev.to/harshalsuthar/how-to-scan-qr-code-using-xamarinforms-2ipl)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Birds From Building Nests in the Worst Places](https://lifehacker.com/how-to-stop-birds-from-building-nests-in-the-worst-plac-1849075439)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Young Is Too Young to Go to Hooters?](https://lifehacker.com/how-young-is-too-young-to-go-to-hooters-1849074770)
 - [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
-- [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)
-- [Crazy Programmer] [What is Filegroup in Sql Server? When &amp; How to Create?](https://www.thecrazyprogrammer.com/2022/06/filegroup-in-sql-server.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
 ---
 
