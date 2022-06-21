@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Module Federation Learnings](https://dev.to/kerryconvery/module-federation-learnings-37oi)
+- [Dev.to/JS] [JavaScript&lpar;ES6&rpar; Symbols](https://dev.to/pujakundu/javascriptes6-symbols-41l)
+- [Dev.to/JS] [Clash of clans](https://dev.to/rinxan/clash-of-clans-1h4i)
+- [Dev.to/JS] [Verbum - Rich Text Editor For React](https://dev.to/ozanyurtsever/verbum-rich-text-editor-for-react-1ia1)
 - [Dev.to/JS] [ERROR: Cannot set headers after they are sent to client!!!](https://dev.to/himanshupal0001/error-cannot-set-headers-after-they-are-sent-to-client-177a)
 - [Dev.to/JS] [Create a Marketplace with Medusa Part 3: Implement User Management and Permissions](https://dev.to/medusajs/create-a-marketplace-with-medusa-part-3-implement-user-management-and-permissions-d32)
 - [Dev.to/JS] [Better than Math.random&lpar;&rpar; password generator!](https://dev.to/jimmywilliams/better-than-mathrandom-password-generator-3mk2)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [PDF USING NODEJS &amp; PUPPETEER](https://dev.to/elvissautet/pdf-using-nodejs-puppeteer-ag7)
 - [Dev.to/JS] [How we built a themeable multi-brand design system with Vue.js](https://dev.to/monisnap/how-we-built-a-themeable-multi-brand-design-system-with-vuejs-4flk)
 - [Dev.to/JS] [Get Up And Running With The useEffect Hook.](https://dev.to/ayo_dev/get-up-and-running-with-the-useeffect-hook-3481)
-- [Dev.to/JS] [What&#39;s new in P42? Summer 2022 Summary](https://dev.to/p42/whats-new-in-p42-summer-2022-summary-22nh)
-- [Dev.to/JS] [Synology Speed Test](https://dev.to/openspeedtest/synology-speed-test-5fbk)
-- [Dev.to/JS] [Vue 3.2 에서 필수로 짚고 넘어가야 할 미래](https://dev.to/composite/vue-32-eseo-pilsuro-jipgo-neomeogaya-hal-mirae-4mcc)
+- [Dev.to/JS] [What&#39;s new in P42? Summer 2022](https://dev.to/p42/whats-new-in-p42-summer-2022-summary-22nh)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
