@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Create a PDF From Any Website, on Any Device](https://lifehacker.com/how-to-create-a-pdf-from-any-website-on-any-device-1849087231)
+- [Dev.to/JS] [Creating Your Own Custom StreamElements Widgets](https://dev.to/talk2megooseman/creating-your-own-custom-streamelements-widgets-6dl)
+- [Lifehacker] [You Want to Try This Iced Mocha Cola?](https://lifehacker.com/you-want-to-try-this-iced-mocha-cola-1849081053)
+- [Dev.to/JS] [Getting started with Rust as a web developer](https://dev.to/tqbit/getting-started-with-rust-as-a-web-developer-8e8)
 - [Lifehacker] [The Chickenpox Vaccine Protects Against More Than Chickenpox](https://lifehacker.com/the-chickenpox-vaccine-protects-against-more-than-chick-1849080190)
 - [Lifehacker] [17 of the Best Non-Porn Movies Rated NC-17](https://lifehacker.com/17-of-the-best-non-porn-movies-rated-nc-17-1849076415)
 - [Dev.to/JS] [lol](https://dev.to/sauciestcode/lol-ml)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a Tic Tac Toe Game using NEXT JS](https://dev.to/codewithmarish/create-a-tic-tac-toe-game-using-next-js-4am4)
 - [Dev.to/JS] [Regular Expression &lpar;Regex&rpar; Essentials for Developers](https://dev.to/codewithmarish/regular-expression-regex-essentials-for-developers-5gk6)
 - [Lifehacker] [How to Use Translation Apps and Extensions Without Sacrificing Your Privacy](https://lifehacker.com/how-to-use-translation-apps-and-extensions-without-sacr-1849087236)
-- [Dev.to/JS] [Fetch Hosted Audio Streams In The Browser](https://dev.to/deepgram/fetch-hosted-audio-streams-in-the-browser-354c)
-- [Dev.to/JS] [Build a real-time text-typing indicator in Next.js](https://dev.to/hackmamba/build-a-real-time-text-typing-indicator-in-nextjs-dc0)
 - [Lifehacker] [How to Tell If That Crack in Your Wall is Really a Problem](https://lifehacker.com/how-to-tell-if-that-crack-in-your-wall-is-really-a-prob-1849084185)
 - [Lifehacker] [The 7 Deadly Sins of Decorating Your Home](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-home-1849077171)
 - [Lifehacker] [The Best New Tool to Spend Your Airline Miles](https://lifehacker.com/the-best-new-tool-to-spend-your-airline-miles-1849087341)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
 - [Lifehacker] [Use Uncooked Pasta as an Impromptu Skewer](https://lifehacker.com/use-uncooked-pasta-as-an-impromptu-skewer-1849078386)
 - [Lifehacker] [What Is a &#39;Likability Quotient&#39; &lpar;and How Can You Increase Yours&rpar;?](https://lifehacker.com/what-is-a-likability-quotient-and-how-can-you-increase-1849078291)
-- [Lifehacker] [Stop Washing Your Baseball Cap in the Washing Machine &lpar;and Do This Instead&rpar;](https://lifehacker.com/stop-washing-your-baseball-cap-in-the-washing-machine-1849077682)
-- [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-vehicle-from-sun-and-heat-damage-1849077805)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
