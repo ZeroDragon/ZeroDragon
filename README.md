@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Deserve This Fancy No-Bake Dessert](https://lifehacker.com/you-deserve-this-fancy-no-bake-dessert-1849073903)
+- [Dev.to/JS] [JavaScript Clipboard API](https://dev.to/kaankorkmaz/javascript-clipboard-api-2b5i)
+- [Dev.to/JS] [Data structures and algorithms](https://dev.to/kimutai01/data-structures-and-algorithms-4ipe)
+- [Dev.to/JS] [How to add a JavaScript calendar to your app](https://dev.to/steinbring/how-to-add-a-javascript-calendar-to-your-app-59oo)
 - [Dev.to/JS] [JavaScript&lpar;ES6&rpar; Symbols](https://dev.to/pujakundu/javascriptes6-symbols-41l)
 - [Dev.to/JS] [Clash of clans](https://dev.to/rinxan/clash-of-clans-1h4i)
 - [Dev.to/JS] [Verbum - Rich Text Editor For React](https://dev.to/ozanyurtsever/verbum-rich-text-editor-for-react-1ia1)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Dev.to/JS] [Data structures and algorithms](https://dev.to/nemwelboniface/data-structures-and-algorithms-277f)
 - [Dev.to/JS] [PDF USING NODEJS &amp; PUPPETEER](https://dev.to/elvissautet/pdf-using-nodejs-puppeteer-ag7)
-- [Dev.to/JS] [How we built a themeable multi-brand design system with Vue.js](https://dev.to/monisnap/how-we-built-a-themeable-multi-brand-design-system-with-vuejs-4flk)
-- [Dev.to/JS] [Get Up And Running With The useEffect Hook.](https://dev.to/ayo_dev/get-up-and-running-with-the-useeffect-hook-3481)
-- [Dev.to/JS] [What&#39;s new in P42? Summer 2022](https://dev.to/p42/whats-new-in-p42-summer-2022-summary-22nh)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Disable Google Assistant When You Don&#39;t Need Its Damn Assistance](https://lifehacker.com/how-to-disable-google-assistant-when-you-dont-need-its-1849075535)
 - [Lifehacker] [How to Stop Birds From Building Nests in the Worst Places](https://lifehacker.com/how-to-stop-birds-from-building-nests-in-the-worst-plac-1849075439)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Young Is Too Young to Go to Hooters?](https://lifehacker.com/how-young-is-too-young-to-go-to-hooters-1849074770)
-- [Lifehacker] [Caviar Belongs on Potato Chips](https://lifehacker.com/caviar-belongs-on-potato-chips-1849073840)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
 ---
