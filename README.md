@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving CAPTCHA Using 2Captcha](https://dev.to/ethand91/solving-captcha-using-2captcha-32ad)
 - [Dev.to/JS] [Android development web page, how to carry out screen compatibility？](https://dev.to/spierr/android-development-web-page-how-to-carry-out-screen-compatibility-35cn)
 - [Dev.to/JS] [How JavaScript work behind the scene](https://dev.to/esraaismail/how-javascript-work-behind-the-scene-3on3)
 - [Dev.to/JS] [Is this async function recursive?](https://dev.to/mistval/is-this-async-function-recursive-1m9m)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A new OAuth2 client for Javascript](https://dev.to/evertp/a-new-oauth2-client-for-javascript-jjb)
 - [Dev.to/JS] [Autenticação no Next.js com Usuário e Senha e criando Rotas Privadas.](https://dev.to/portugues/autenticacao-no-nextjs-com-usuario-e-senha-e-criando-rotas-privadas-137)
 - [Dev.to/JS] [State of the WebAssembly 2022](https://dev.to/sendilkumarn/state-of-the-webassembly-2022-2h1i)
-- [Dev.to/JS] [What is the best way to enter in Backend?](https://dev.to/gabrielpedroza/best-way-to-enter-in-backend-4hhb)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
