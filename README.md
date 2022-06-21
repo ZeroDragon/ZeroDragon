@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to See the Biggest, Brightest Full Moon of the Year](https://lifehacker.com/when-to-see-the-biggest-brightest-full-moon-of-the-yea-1849089660)
+- [Dev.to/JS] [Solve UK time changes &lpar;DST&rpar; with NodeJS and date-fns and Docker &lpar;epoch/unix format&rpar;](https://dev.to/reallycantcode/solve-uk-time-changes-dst-with-nodejs-and-date-fns-and-docker-epochunix-format-2hok)
+- [Lifehacker] [The Two Best Ways to Make Limoncello at Home](https://lifehacker.com/the-two-best-ways-to-make-limoncello-at-home-1849089119)
+- [Dev.to/JS] [Integrating reCAPTCHA with Next.js](https://dev.to/sumukhakb210/integrating-recaptcha-with-nextjs-4ig6)
+- [Dev.to/JS] [Building sepia theme for mobile browser using CSS](https://dev.to/usamaeltmsah/building-sepia-theme-for-mobile-browser-using-css-3ei4)
 - [Lifehacker] [Put These Things in a Cooler for Your Baby&#39;s First Beach Trip](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
 - [Dev.to/JS] [Short Babel memo to configure it!](https://dev.to/leopold/short-babel-memo-to-configure-it-19c7)
 - [Dev.to/JS] [Introduction to the VueJs Framework](https://dev.to/xinnks/introduction-to-the-vuejs-framework-2ob6)
@@ -40,10 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [17 of the Best Non-Porn Movies Rated NC-17](https://lifehacker.com/17-of-the-best-non-porn-movies-rated-nc-17-1849076415)
 - [Dev.to/JS] [lol](https://dev.to/sauciestcode/lol-ml)
 - [Dev.to/JS] [How to Build a Notion Clone with Strapi v4 and Next.js &lpar;Part 1 of 2&rpar;](https://dev.to/strapi/how-to-build-a-notion-clone-with-strapi-v4-and-nextjs-part-1-of-2-1cdb)
-- [Dev.to/JS] [Important Meta Tags that you should have on your website](https://dev.to/codewithmarish/important-meta-tags-that-you-should-have-on-your-website-2a9a)
 - [Lifehacker] [7 Apple Watch Accessibility Features That Everyone Should Consider Using](https://lifehacker.com/7-apple-watch-accessibility-features-that-everyone-shou-1849084821)
-- [Dev.to/JS] [Build PWA &lpar;Progressive Web App&rpar; with Next JS under 1 minute](https://dev.to/codewithmarish/build-pwa-progressive-web-app-with-next-js-under-1-minute-4397)
-- [Dev.to/JS] [How to improve the load and response time of your websites.](https://dev.to/otonye7/how-to-improve-the-load-and-response-time-of-your-websites-5bka)
 - [Lifehacker] [How to Use Translation Apps and Extensions Without Sacrificing Your Privacy](https://lifehacker.com/how-to-use-translation-apps-and-extensions-without-sacr-1849087236)
 - [Lifehacker] [How to Tell If That Crack in Your Wall is Really a Problem](https://lifehacker.com/how-to-tell-if-that-crack-in-your-wall-is-really-a-prob-1849084185)
 - [Lifehacker] [The 7 Deadly Sins of Decorating Your Home](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-home-1849077171)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
 - [Lifehacker] [The Difference Between Blackouts and Brownouts](https://lifehacker.com/the-difference-between-blackouts-and-brownouts-1849079269)
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
-- [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
-- [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
