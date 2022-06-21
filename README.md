@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is the Google Shopping API?](https://dev.to/zenserpapi/what-is-the-google-shopping-api-13nf)
+- [Dev.to/JS] [How to scan QR code using Xamarin.Forms?](https://dev.to/harshalsuthar/how-to-scan-qr-code-using-xamarinforms-2ipl)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-3.1 &lpar; Product Model &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-31-product-model--3n0i)
 - [Dev.to/JS] [Building the backend: APIs with Express and implementing security with Node js on our project](https://dev.to/anamdiazs/building-the-backend-apis-with-express-and-implementing-security-with-node-js-on-our-project-2hcb)
 - [Dev.to/JS] [The Top 10 Data Science Facebook Groups for Data Scientists](https://dev.to/sojinsamuel/the-top-10-data-science-facebook-groups-for-data-scientists-4090)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Auto dismissing alert](https://dev.to/parables/how-to-alpinejs-auto-dismissing-alert-3ff3)
 - [Dev.to/JS] [How to AlpineJS - Introduction](https://dev.to/parables/how-to-alpinejs-i91)
 - [Dev.to/JS] [Infinite scrolling with React Query](https://dev.to/asayerio_techblog/infinite-scrolling-with-react-query-1hgl)
-- [Dev.to/JS] [How to use async function in useEffect?](https://dev.to/jasmin/how-to-use-async-function-in-useeffect-5efc)
-- [Dev.to/JS] [Build and publish your npm package](https://dev.to/leopold/build-and-publish-your-npm-package-48mb)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
