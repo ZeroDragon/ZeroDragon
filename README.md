@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How low-level API calls can stabilize your end-to-end tests](https://dev.to/checkly/how-low-level-api-calls-can-stabilize-your-end-to-end-tests-1o8m)
+- [Lifehacker] [The 7 Deadly Sins of Decorating Your Home](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-home-1849077171)
+- [Dev.to/JS] [What does console.log mean to you?](https://dev.to/sojinsamuel/what-does-consolelog-mean-to-you-45c)
+- [Dev.to/JS] [12 Design Inspiration Websites That Are 100% Free](https://dev.to/sojinsamuel/12-design-inspiration-websites-that-are-100-free-3lp3)
 - [Lifehacker] [The Best New Tool to Spend Your Airline Miles](https://lifehacker.com/the-best-new-tool-to-spend-your-airline-miles-1849087341)
 - [Dev.to/JS] [Data Structures: Graphs II](https://dev.to/m13ha/data-structures-graphs-ii-11i9)
 - [Dev.to/JS] [How To Handle Cypress Async Commands? Smart Hacks | Cypress Tutorial | Part IV](https://dev.to/lambdatest/how-to-handle-cypress-async-commands-smart-hacks-cypress-tutorial-part-iv-5g9m)
@@ -35,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add a JavaScript calendar to your app](https://dev.to/steinbring/how-to-add-a-javascript-calendar-to-your-app-59oo)
 - [Dev.to/JS] [JavaScript&lpar;ES6&rpar; Symbols](https://dev.to/pujakundu/javascriptes6-symbols-41l)
 - [Dev.to/JS] [Clash of clans](https://dev.to/rinxan/clash-of-clans-1h4i)
-- [Dev.to/JS] [Verbum - Rich Text Editor For React](https://dev.to/ozanyurtsever/verbum-rich-text-editor-for-react-1ia1)
-- [Dev.to/JS] [ERROR: Cannot set headers after they are sent to client!!!](https://dev.to/himanshupal0001/error-cannot-set-headers-after-they-are-sent-to-client-177a)
-- [Dev.to/JS] [Create a Marketplace with Medusa Part 3: Implement User Management and Permissions](https://dev.to/medusajs/create-a-marketplace-with-medusa-part-3-implement-user-management-and-permissions-d32)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Buy These Apple Products &lpar;and What to Buy Instead&rpar;](https://lifehacker.com/don-t-buy-these-apple-products-and-what-to-buy-instead-1849076734)
 - [Lifehacker] [How to Get the Best Price for a Car That Doesn&#39;t Run Anymore](https://lifehacker.com/how-to-get-the-best-price-for-a-car-that-doesnt-run-any-1849076865)
 - [Lifehacker] [Your iPhone Needs Custom Battery Alerts](https://lifehacker.com/your-iphone-needs-custom-battery-alerts-1849076371)
-- [Lifehacker] [How to Disable Google Assistant When You Don&#39;t Need Its Damn Assistance](https://lifehacker.com/how-to-disable-google-assistant-when-you-dont-need-its-1849075535)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
 ---
