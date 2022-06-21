@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Android development web page, how to carry out screen compatibility？](https://dev.to/spierr/android-development-web-page-how-to-carry-out-screen-compatibility-35cn)
+- [Dev.to/JS] [How JavaScript work behind the scene](https://dev.to/esraaismail/how-javascript-work-behind-the-scene-3on3)
+- [Dev.to/JS] [Is this async function recursive?](https://dev.to/mistval/is-this-async-function-recursive-1m9m)
+- [Dev.to/JS] [Auto dismissing alert](https://dev.to/parables/how-to-alpinejs-auto-dismissing-alert-3ff3)
 - [Dev.to/JS] [How to AlpineJS - Introduction](https://dev.to/parables/how-to-alpinejs-i91)
 - [Dev.to/JS] [Infinite scrolling with React Query](https://dev.to/asayerio_techblog/infinite-scrolling-with-react-query-1hgl)
 - [Dev.to/JS] [How to use async function in useEffect?](https://dev.to/jasmin/how-to-use-async-function-in-useeffect-5efc)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Autenticação no Next.js com Usuário e Senha e criando Rotas Privadas.](https://dev.to/portugues/autenticacao-no-nextjs-com-usuario-e-senha-e-criando-rotas-privadas-137)
 - [Dev.to/JS] [State of the WebAssembly 2022](https://dev.to/sendilkumarn/state-of-the-webassembly-2022-2h1i)
 - [Dev.to/JS] [What is the best way to enter in Backend?](https://dev.to/gabrielpedroza/best-way-to-enter-in-backend-4hhb)
-- [Dev.to/JS] [DxDD - developer experience driven development](https://dev.to/_alexblokh/dxdd-developer-experience-driven-development-4ond)
-- [Dev.to/JS] [WebGL Liquid Distortion Image Hover Effect - Three Part Setup](https://dev.to/hr21don/webgl-liquid-distortion-image-hover-effect-three-part-setup-5640)
-- [Dev.to/JS] [SSH-BM, An SSH bookmarking program](https://dev.to/therealdakotal/ssh-bm-an-ssh-bookmarking-program-5ch4)
-- [Dev.to/JS] [Creating an avatar based in the user name with React](https://dev.to/juancarloscruz/creating-an-avatar-based-in-the-user-name-with-react-5k1)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
