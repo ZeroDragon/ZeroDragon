@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Put These Things in a Cooler for Your Baby&#39;s First Beach Trip](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
+- [Dev.to/JS] [Short Babel memo to configure it!](https://dev.to/leopold/short-babel-memo-to-configure-it-19c7)
+- [Dev.to/JS] [Introduction to the VueJs Framework](https://dev.to/xinnks/introduction-to-the-vuejs-framework-2ob6)
+- [Dev.to/JS] [The Power of Filter&lpar;&rpar;](https://dev.to/ae95medina/the-power-of-filter-41fa)
+- [Dev.to/JS] [Display html form values in same page after submit using javaScript](https://dev.to/kodwings/display-html-form-values-in-same-page-after-submit-using-javascript-agk)
+- [Lifehacker] [The Best Vacation Rental Alternatives to Airbnb](https://lifehacker.com/the-best-vacation-rental-alternatives-to-airbnb-1849088885)
 - [Lifehacker] [Never Mail These Things in Paper Envelopes](https://lifehacker.com/never-mail-these-things-in-paper-envelopes-1849089269)
 - [Dev.to/JS] [GTA V and Online are coming to PS5: How do you transfer what&#39;s saved?](https://dev.to/bunga_isnaini2/gta-v-and-online-are-coming-to-ps5-how-do-you-transfer-whats-saved-1oh3)
 - [Lifehacker] [Everything New in Chrome 103](https://lifehacker.com/everything-new-in-chrome-103-1849088598)
@@ -38,10 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Apple Watch Accessibility Features That Everyone Should Consider Using](https://lifehacker.com/7-apple-watch-accessibility-features-that-everyone-shou-1849084821)
 - [Dev.to/JS] [Build PWA &lpar;Progressive Web App&rpar; with Next JS under 1 minute](https://dev.to/codewithmarish/build-pwa-progressive-web-app-with-next-js-under-1-minute-4397)
 - [Dev.to/JS] [How to improve the load and response time of your websites.](https://dev.to/otonye7/how-to-improve-the-load-and-response-time-of-your-websites-5bka)
-- [Dev.to/JS] [How to create a contact form in Next JS and Firebase?](https://dev.to/codewithmarish/how-to-create-a-contact-form-in-next-js-and-firebase-ci7)
-- [Dev.to/JS] [Como escribir funciones en Typescript](https://dev.to/matiasfha/como-escribir-funciones-en-typescript-3n3e)
-- [Dev.to/JS] [How to create a responsive navbar in NEXT JS?](https://dev.to/codewithmarish/how-to-create-a-responsive-navbar-in-next-js-14ac)
-- [Dev.to/JS] [Create a Tic Tac Toe Game using NEXT JS](https://dev.to/codewithmarish/create-a-tic-tac-toe-game-using-next-js-4am4)
 - [Lifehacker] [How to Use Translation Apps and Extensions Without Sacrificing Your Privacy](https://lifehacker.com/how-to-use-translation-apps-and-extensions-without-sacr-1849087236)
 - [Lifehacker] [How to Tell If That Crack in Your Wall is Really a Problem](https://lifehacker.com/how-to-tell-if-that-crack-in-your-wall-is-really-a-prob-1849084185)
 - [Lifehacker] [The 7 Deadly Sins of Decorating Your Home](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-home-1849077171)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Should Use Sugar on Your Lawn &lpar;and When You Shouldn&#39;t&rpar;](https://lifehacker.com/when-you-should-use-sugar-on-your-lawn-and-when-you-sh-1849079274)
 - [Lifehacker] [You Should Know Airbnb&#39;s New Safety Feature](https://lifehacker.com/you-should-know-airbnbs-new-safety-feature-1849079284)
 - [Lifehacker] [Lifehacker vs. Rainn Wilson](https://lifehacker.com/lifehacker-vs-rainn-wilson-1849078586)
-- [Lifehacker] [14 of the Best Cheap and Healthy Two-Ingredient Meals, According to Reddit](https://lifehacker.com/14-of-the-best-cheap-and-healthy-two-ingredient-meals-1849078242)
-- [Lifehacker] [You Should Make Make AI-Generated Memes With Dall-E Mini](https://lifehacker.com/you-should-make-make-ai-generated-memes-with-dall-e-min-1849078340)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
