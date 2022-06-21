@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Energy Bars With the Best Ingredients &lpar;and Least Sugar&rpar;](https://lifehacker.com/the-energy-bars-with-the-best-ingredients-and-least-su-1849088219)
+- [Dev.to/JS] [Alternatives to React: Solid JS](https://dev.to/asayerio_techblog/alternatives-to-react-solid-js-1a6c)
+- [Dev.to/JS] [When to use Map instead of Loop](https://dev.to/kaleemniz/when-to-use-map-instead-of-loop-3cda)
+- [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
+- [Dev.to/JS] [Hooks in React ....... and bonus content on using photos in your applications](https://dev.to/lyzarddz/hooks-in-react-and-bonus-content-on-using-photos-in-your-applications-54nn)
 - [Lifehacker] [How to Day Drink Without Overdoing It](https://lifehacker.com/how-to-day-drink-without-overdoing-it-1849090132)
 - [Lifehacker] [What to Say When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-say-when-a-cop-asks-to-search-your-vehicle-1849090424)
 - [Dev.to/JS] [Good assertion messages with EmberJS + sinon](https://dev.to/michalbryxi/good-assertion-messages-with-emberjs-sinon-3phc)
@@ -41,12 +46,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [GTA V and Online are coming to PS5: How do you transfer what&#39;s saved?](https://dev.to/bunga_isnaini2/gta-v-and-online-are-coming-to-ps5-how-do-you-transfer-whats-saved-1oh3)
 - [Lifehacker] [Everything New in Chrome 103](https://lifehacker.com/everything-new-in-chrome-103-1849088598)
 - [Lifehacker] [How to Create a PDF From Any Website, on Any Device](https://lifehacker.com/how-to-create-a-pdf-from-any-website-on-any-device-1849087231)
-- [Dev.to/JS] [Creating Your Own Custom StreamElements Widgets](https://dev.to/talk2megooseman/creating-your-own-custom-streamelements-widgets-6dl)
 - [Lifehacker] [You Want to Try This Iced Mocha Cola?](https://lifehacker.com/you-want-to-try-this-iced-mocha-cola-1849081053)
-- [Dev.to/JS] [Getting started with Rust as a web developer](https://dev.to/tqbit/getting-started-with-rust-as-a-web-developer-8e8)
 - [Lifehacker] [The Chickenpox Vaccine Protects Against More Than Chickenpox](https://lifehacker.com/the-chickenpox-vaccine-protects-against-more-than-chick-1849080190)
 - [Lifehacker] [17 of the Best Non-Porn Movies Rated NC-17](https://lifehacker.com/17-of-the-best-non-porn-movies-rated-nc-17-1849076415)
-- [Dev.to/JS] [lol](https://dev.to/sauciestcode/lol-ml)
 - [Lifehacker] [7 Apple Watch Accessibility Features That Everyone Should Consider Using](https://lifehacker.com/7-apple-watch-accessibility-features-that-everyone-shou-1849084821)
 - [Lifehacker] [How to Use Translation Apps and Extensions Without Sacrificing Your Privacy](https://lifehacker.com/how-to-use-translation-apps-and-extensions-without-sacr-1849087236)
 - [Lifehacker] [How to Tell If That Crack in Your Wall is Really a Problem](https://lifehacker.com/how-to-tell-if-that-crack-in-your-wall-is-really-a-prob-1849084185)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
 - [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
-- [Lifehacker] [You Can Embrace &#39;Cluttercore&#39; Without Your House Looking Like a Yard Sale](https://lifehacker.com/you-can-embrace-cluttercore-without-your-house-looking-1849079164)
-- [Lifehacker] [Plant These Succulents to Attract Pollinators to Your Garden](https://lifehacker.com/plant-these-succulents-to-attract-pollinators-to-your-g-1849079161)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
