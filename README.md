@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Router: Understanding How We Interact with Web Pages Today](https://dev.to/jgarberosource/react-router-understanding-how-we-interact-with-web-pages-today-35lh)
 - [Dev.to/JS] [My experience with Javascript &lpar;JS&rpar;](https://dev.to/albuhrrito/my-experience-with-javascript-js-3k4p)
 - [Dev.to/JS] [Javascript Style Guides](https://dev.to/glowreeyah/javascript-style-guides-5fba)
 - [Lifehacker] [Shaving Should Be a Fancy Ritual](https://lifehacker.com/shaving-should-be-a-fancy-ritual-1849090730)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Put These Things in a Cooler for Your Baby&#39;s First Beach Trip](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
 - [Dev.to/JS] [Short Babel memo to configure it!](https://dev.to/leopold/short-babel-memo-to-configure-it-19c7)
 - [Dev.to/JS] [Introduction to the VueJs Framework](https://dev.to/xinnks/introduction-to-the-vuejs-framework-2ob6)
-- [Dev.to/JS] [The Power of Filter&lpar;&rpar;](https://dev.to/ae95medina/the-power-of-filter-41fa)
 - [Lifehacker] [The Best Vacation Rental Alternatives to Airbnb](https://lifehacker.com/the-best-vacation-rental-alternatives-to-airbnb-1849088885)
 - [Lifehacker] [Never Mail These Things in Paper Envelopes](https://lifehacker.com/never-mail-these-things-in-paper-envelopes-1849089269)
 - [Lifehacker] [Everything New in Chrome 103](https://lifehacker.com/everything-new-in-chrome-103-1849088598)
