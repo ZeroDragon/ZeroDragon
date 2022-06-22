@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automate npm publishing with GitHub Actions, proper changelog, and release notes](https://dev.to/superface/automate-npm-publishing-with-github-actions-proper-changelog-and-release-notes-2pii)
+- [Dev.to/JS] [Building and Deploying a Next.js App on Vercel](https://dev.to/tosyn/building-and-deploying-a-nextjs-app-on-vercel-23no)
 - [Dev.to/JS] [Best NPM Package for React.js](https://dev.to/muhammad_asif/best-npm-package-for-reactjs-j6e)
 - [Dev.to/JS] [Introducing CodeGuard: The open-source tool to obfuscate your JavaScript or Python code](https://dev.to/omardev100/introducing-codeguard-the-open-source-tool-to-obfuscate-your-javascript-or-python-code-4k51)
 - [Dev.to/JS] [Advanced TypeScript With Code Challenges: Const Assertions](https://dev.to/mariusbongarts/advanced-typescript-with-code-challenges-const-assertions-a5n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lonely Integer - Hackerrank Challenge in Javascript](https://dev.to/costamatheus97/lonely-integer-hackerrank-challenge-in-javascript-562f)
 - [Dev.to/JS] [How to Use MQTT in the React Project](https://dev.to/emqtech/how-to-use-mqtt-in-the-react-project-177e)
 - [Dev.to/JS] [Vue Argon Design System | Free Vue JS template](https://dev.to/madewithjavascript/vue-argon-design-system-free-vue-js-template-1op4)
-- [Dev.to/JS] [InVision | Made with Next JS](https://dev.to/madewithjavascript/invision-made-with-next-js-24da)
-- [Dev.to/JS] [Build on Flow | Learn FCL - 9. How to pass Optional and Path Arguments to Scripts](https://dev.to/onflow/build-on-flow-learn-fcl-9-how-to-pass-optional-and-path-arguments-to-scripts-3cgn)
 - [Lifehacker] [Shaving Should Be a Fancy Ritual](https://lifehacker.com/shaving-should-be-a-fancy-ritual-1849090730)
 - [Lifehacker] [The Energy Bars With the Best Ingredients &lpar;and Least Sugar&rpar;](https://lifehacker.com/the-energy-bars-with-the-best-ingredients-and-least-su-1849088219)
 - [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
