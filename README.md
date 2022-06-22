@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My experience with Javascript &lpar;JS&rpar;](https://dev.to/albuhrrito/my-experience-with-javascript-js-3k4p)
+- [Dev.to/JS] [Javascript Style Guides](https://dev.to/glowreeyah/javascript-style-guides-5fba)
+- [Lifehacker] [Shaving Should Be a Fancy Ritual](https://lifehacker.com/shaving-should-be-a-fancy-ritual-1849090730)
 - [Lifehacker] [The Energy Bars With the Best Ingredients &lpar;and Least Sugar&rpar;](https://lifehacker.com/the-energy-bars-with-the-best-ingredients-and-least-su-1849088219)
 - [Dev.to/JS] [Alternatives to React: Solid JS](https://dev.to/asayerio_techblog/alternatives-to-react-solid-js-1a6c)
-- [Dev.to/JS] [When to use Map instead of Loop](https://dev.to/kaleemniz/when-to-use-map-instead-of-loop-3cda)
+- [Dev.to/JS] [When to use HashMap instead of Loop](https://dev.to/kaleemniz/when-to-use-map-instead-of-loop-3cda)
 - [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
 - [Dev.to/JS] [Hooks in React ....... and bonus content on using photos in your applications](https://dev.to/lyzarddz/hooks-in-react-and-bonus-content-on-using-photos-in-your-applications-54nn)
 - [Lifehacker] [How to Day Drink Without Overdoing It](https://lifehacker.com/how-to-day-drink-without-overdoing-it-1849090132)
@@ -40,10 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Short Babel memo to configure it!](https://dev.to/leopold/short-babel-memo-to-configure-it-19c7)
 - [Dev.to/JS] [Introduction to the VueJs Framework](https://dev.to/xinnks/introduction-to-the-vuejs-framework-2ob6)
 - [Dev.to/JS] [The Power of Filter&lpar;&rpar;](https://dev.to/ae95medina/the-power-of-filter-41fa)
-- [Dev.to/JS] [Display html form values in same page after submit using javaScript](https://dev.to/kodwings/display-html-form-values-in-same-page-after-submit-using-javascript-agk)
 - [Lifehacker] [The Best Vacation Rental Alternatives to Airbnb](https://lifehacker.com/the-best-vacation-rental-alternatives-to-airbnb-1849088885)
 - [Lifehacker] [Never Mail These Things in Paper Envelopes](https://lifehacker.com/never-mail-these-things-in-paper-envelopes-1849089269)
-- [Dev.to/JS] [GTA V and Online are coming to PS5: How do you transfer what&#39;s saved?](https://dev.to/bunga_isnaini2/gta-v-and-online-are-coming-to-ps5-how-do-you-transfer-whats-saved-1oh3)
 - [Lifehacker] [Everything New in Chrome 103](https://lifehacker.com/everything-new-in-chrome-103-1849088598)
 - [Lifehacker] [How to Create a PDF From Any Website, on Any Device](https://lifehacker.com/how-to-create-a-pdf-from-any-website-on-any-device-1849087231)
 - [Lifehacker] [You Want to Try This Iced Mocha Cola?](https://lifehacker.com/you-want-to-try-this-iced-mocha-cola-1849081053)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
 - [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
-- [Lifehacker] [How to Get Rid of Water Stains From Your Ceiling](https://lifehacker.com/how-to-get-rid-of-water-stains-from-your-ceiling-1849079168)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
