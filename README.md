@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Monkey Stone Js](https://dev.to/toutpuissantged/monkey-stone-js-22j1)
+- [Lifehacker] [How to Choose Your Group Vacation Without Being a Jerk](https://lifehacker.com/how-to-choose-your-group-vacation-without-being-an-assh-1849094367)
+- [Dev.to/JS] [Here&#39;s my TOP Landing Page Project](https://dev.to/taepal467/heres-my-top-landing-page-project-56b1)
+- [Dev.to/JS] [Best way to learn Closure in JavaScript ?](https://dev.to/mnathani/best-way-to-learn-closure-in-javascript--29dp)
+- [Lifehacker] [Take These Shortcake Fixings Along When You Go Berry-Picking](https://lifehacker.com/take-these-shortcake-fixings-along-when-you-go-berry-pi-1849094307)
 - [Dev.to/JS] [React Native - How to approach design collaboration with Figma](https://dev.to/alexandrughinea/react-native-how-to-approach-design-collaboration-with-figma-4pnf)
 - [Dev.to/JS] [Fast stories powered by Vite; Histoire — Vue Amsterdam Conference 2022 Summary series — Third Talk](https://dev.to/mohsen_vaziri/fast-stories-powered-by-vite-histoire-vue-amsterdam-conference-2022-summary-series-third-talk-543n)
 - [Lifehacker] [Lifehacker vs. Lea DeLaria](https://lifehacker.com/lifehacker-vs-lea-delaria-1849093598)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Possible to develop a fiddler extension which convert js code to golang code?](https://dev.to/zerobuilder/possible-to-develop-a-fiddler-extension-which-convert-js-code-to-golang-code-577h)
 - [Dev.to/JS] [How to Build a Simple CLI with oclif](https://dev.to/alvinslee/how-to-build-a-simple-cli-with-oclif-2hjk)
 - [Dev.to/JS] [My tools for front end development](https://dev.to/gaurbprajapati/my-tools-for-front-end-development-4mma)
-- [Dev.to/JS] [RegEx Validation: A Cheatsheet &lpar;most used&rpar;](https://dev.to/webdeasy/regex-validation-a-cheatsheet-most-used-3mnh)
 - [Lifehacker] [The Best and Worst Times to Drive This 4th of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-this-4th-of-july-week-1849092740)
-- [Dev.to/JS] [Cypress - counting the number of elements on a page](https://dev.to/zainzzkk/cypress-counting-the-number-of-elements-on-a-page-aka)
-- [Dev.to/JS] [Aporte inicial.](https://dev.to/fernandog494/aporte-inicial-1cii)
 - [Lifehacker] [How to Make a Textured Accent Wall With Limewash](https://lifehacker.com/how-to-make-a-textured-accent-wall-with-limewash-1849091886)
 - [Lifehacker] [Check If Your New Circuit Breaker Is Part of This Serious Recall](https://lifehacker.com/check-if-your-new-circuit-breaker-is-part-of-this-serio-1849092339)
 - [Lifehacker] [How to Finally Hide Your WhatsApp &#39;Last Seen&#39; Status From Specific People](https://lifehacker.com/how-to-finally-hide-your-whatsapp-last-seen-status-from-1849092145)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Put These Things in a Cooler for Your Baby&#39;s First Beach Trip](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
 - [Lifehacker] [The Best Vacation Rental Alternatives to Airbnb](https://lifehacker.com/the-best-vacation-rental-alternatives-to-airbnb-1849088885)
 - [Lifehacker] [Never Mail These Things in Paper Envelopes](https://lifehacker.com/never-mail-these-things-in-paper-envelopes-1849089269)
-- [Lifehacker] [Everything New in Chrome 103](https://lifehacker.com/everything-new-in-chrome-103-1849088598)
-- [Lifehacker] [How to Create a PDF From Any Website, on Any Device](https://lifehacker.com/how-to-create-a-pdf-from-any-website-on-any-device-1849087231)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
