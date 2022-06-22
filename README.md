@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Finally Hide Your WhatsApp &#39;Last Seen&#39; Status From Specific People](https://lifehacker.com/how-to-finally-hide-your-whatsapp-last-seen-status-from-1849092145)
+- [Dev.to/JS] [Node.js Vs. Deno](https://dev.to/lukahietala/nodejs-vs-deno-3ngf)
+- [Lifehacker] [What&#39;s New on Disney+ in July 2022](https://lifehacker.com/whats-new-on-disney-in-july-2022-1849092538)
 - [Dev.to/JS] [I Made an entire FULL-STACK App using ONLY my Phone 🤯️](https://dev.to/eludadev/i-made-an-entire-full-stack-app-using-only-my-phone-4apg)
 - [Lifehacker] [Why You Shouldn’t Call Your Partner &#39;Needy&#39;](https://lifehacker.com/why-you-shouldn-t-call-your-partner-needy-1849076984)
 - [Dev.to/JS] [A Blogging Web You Can Share Everything to People | My React Project](https://dev.to/technophileguy/a-blogging-web-you-can-share-everything-to-people-my-react-project-2d7f)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [In App Messaging is now easy! Learn to integrate Huawei In App Messaging services using React Native](https://dev.to/hmscommunity/in-app-messaging-is-now-easy-learn-to-integrate-huawei-in-app-messaging-services-using-react-native-552e)
 - [Dev.to/JS] [Angular CLI and Nx - Why?](https://dev.to/nx/angular-cli-and-nx-why-4dpk)
 - [Dev.to/JS] [How To Write Tests With Cypress UI Commands | Cypress Tutorial | Part VII](https://dev.to/lambdatest/how-to-write-tests-with-cypress-ui-commands-cypress-tutorial-part-vii-5hdm)
-- [Dev.to/JS] [How to use Assertion in Cypress? | Cypress Tutorial | Part VI](https://dev.to/lambdatest/how-to-use-assertion-in-cypress-cypress-tutorial-part-vi-121m)
 - [Lifehacker] [Shaving Should Be a Fancy Ritual](https://lifehacker.com/shaving-should-be-a-fancy-ritual-1849090730)
 - [Lifehacker] [The Energy Bars With the Best Ingredients &lpar;and Least Sugar&rpar;](https://lifehacker.com/the-energy-bars-with-the-best-ingredients-and-least-su-1849088219)
 - [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Translation Apps and Extensions Without Sacrificing Your Privacy](https://lifehacker.com/how-to-use-translation-apps-and-extensions-without-sacr-1849087236)
 - [Lifehacker] [How to Tell If That Crack in Your Wall is Really a Problem](https://lifehacker.com/how-to-tell-if-that-crack-in-your-wall-is-really-a-prob-1849084185)
 - [Lifehacker] [The 7 Deadly Sins of Decorating Your Home](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-home-1849077171)
-- [Lifehacker] [The Best New Tool to Spend Your Airline Miles](https://lifehacker.com/the-best-new-tool-to-spend-your-airline-miles-1849087341)
-- [Lifehacker] [How to Navigate the Tampon Shortage](https://lifehacker.com/how-to-navigate-the-tampon-shortage-1849077433)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
