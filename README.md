@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue Argon Design System | Free Vue JS template](https://dev.to/madewithjavascript/vue-argon-design-system-free-vue-js-template-1op4)
+- [Dev.to/JS] [InVision | Made with Next JS](https://dev.to/madewithjavascript/invision-made-with-next-js-24da)
+- [Dev.to/JS] [Build on Flow | Learn FCL - 9. How to pass Optional and Path Arguments to Scripts](https://dev.to/onflow/build-on-flow-learn-fcl-9-how-to-pass-optional-and-path-arguments-to-scripts-3cgn)
 - [Dev.to/JS] [React Router: Understanding How We Interact with Web Pages Today](https://dev.to/jgarberosource/react-router-understanding-how-we-interact-with-web-pages-today-35lh)
 - [Dev.to/JS] [My experience with Javascript &lpar;JS&rpar;](https://dev.to/albuhrrito/my-experience-with-javascript-js-3k4p)
 - [Dev.to/JS] [Javascript Style Guides](https://dev.to/glowreeyah/javascript-style-guides-5fba)
@@ -39,10 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Solve UK time changes &lpar;DST&rpar; with NodeJS and date-fns and Docker &lpar;epoch/unix format&rpar;](https://dev.to/reallycantcode/solve-uk-time-changes-dst-with-nodejs-and-date-fns-and-docker-epochunix-format-2hok)
 - [Lifehacker] [The Two Best Ways to Make Limoncello at Home](https://lifehacker.com/the-two-best-ways-to-make-limoncello-at-home-1849089119)
 - [Dev.to/JS] [Integrating reCAPTCHA with Next.js](https://dev.to/sumukhakb210/integrating-recaptcha-with-nextjs-4ig6)
-- [Dev.to/JS] [Building sepia theme for mobile browser using CSS](https://dev.to/usamaeltmsah/building-sepia-theme-for-mobile-browser-using-css-3ei4)
 - [Lifehacker] [Put These Things in a Cooler for Your Baby&#39;s First Beach Trip](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
-- [Dev.to/JS] [Short Babel memo to configure it!](https://dev.to/leopold/short-babel-memo-to-configure-it-19c7)
-- [Dev.to/JS] [Introduction to the VueJs Framework](https://dev.to/xinnks/introduction-to-the-vuejs-framework-2ob6)
 - [Lifehacker] [The Best Vacation Rental Alternatives to Airbnb](https://lifehacker.com/the-best-vacation-rental-alternatives-to-airbnb-1849088885)
 - [Lifehacker] [Never Mail These Things in Paper Envelopes](https://lifehacker.com/never-mail-these-things-in-paper-envelopes-1849089269)
 - [Lifehacker] [Everything New in Chrome 103](https://lifehacker.com/everything-new-in-chrome-103-1849088598)
