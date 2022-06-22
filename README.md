@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-3.3 &lpar; Product Routes &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-33-product-routes--3ipo)
 - [Dev.to/JS] [Lonely Integer - Hackerrank Challenge in Javascript](https://dev.to/costamatheus97/lonely-integer-hackerrank-challenge-in-javascript-562f)
 - [Dev.to/JS] [How to Use MQTT in the React Project](https://dev.to/emqtech/how-to-use-mqtt-in-the-react-project-177e)
 - [Dev.to/JS] [Vue Argon Design System | Free Vue JS template](https://dev.to/madewithjavascript/vue-argon-design-system-free-vue-js-template-1op4)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hooks in React ....... and bonus content on using photos in your applications](https://dev.to/lyzarddz/hooks-in-react-and-bonus-content-on-using-photos-in-your-applications-54nn)
 - [Lifehacker] [How to Day Drink Without Overdoing It](https://lifehacker.com/how-to-day-drink-without-overdoing-it-1849090132)
 - [Lifehacker] [What to Say When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-say-when-a-cop-asks-to-search-your-vehicle-1849090424)
-- [Dev.to/JS] [Good assertion messages with EmberJS + sinon](https://dev.to/michalbryxi/good-assertion-messages-with-emberjs-sinon-3phc)
 - [Lifehacker] [When to See the Biggest, Brightest Full Moon of the Year](https://lifehacker.com/when-to-see-the-biggest-brightest-full-moon-of-the-yea-1849089660)
 - [Lifehacker] [The Two Best Ways to Make Limoncello at Home](https://lifehacker.com/the-two-best-ways-to-make-limoncello-at-home-1849089119)
 - [Lifehacker] [Put These Things in a Cooler for Your Baby&#39;s First Beach Trip](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
