@@ -23,18 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introduction to the File System Module &lpar;&#39;fs&#39;&rpar; in Node.js](https://dev.to/jimmywilliams/introduction-to-the-file-system-module-fs-in-nodejs-44k1)
+- [Dev.to/JS] [Why you need to start using Intersection Observer](https://dev.to/ekqt/why-you-need-to-start-using-intersection-observer-1b8l)
+- [Dev.to/JS] [File Upload using Fetch API - JavaScript Tutorial](https://dev.to/jimmywilliams/file-upload-using-fetch-api-javascript-tutorial-2jj4)
+- [Dev.to/JS] [POST form data using JavaScript&#39;s Fetch API](https://dev.to/jimmywilliams/post-form-data-using-javascripts-fetch-api-515p)
+- [Lifehacker] [How to Keep Flies Away From Your Yard &lpar;and Out of Your House&rpar;](https://lifehacker.com/how-to-keep-flies-away-from-your-yard-and-out-of-your-1849091606)
+- [Dev.to/JS] [Closures and useEffects](https://dev.to/sebzz/closures-and-useeffects-1ai7)
+- [Lifehacker] [10 Ways Listening to Your Health Apps Can Backfire](https://lifehacker.com/10-ways-listening-to-your-health-apps-can-backfire-1849090828)
+- [Dev.to/JS] [In App Messaging is now easy! Learn to integrate Huawei In App Messaging services using React Native](https://dev.to/hmscommunity/in-app-messaging-is-now-easy-learn-to-integrate-huawei-in-app-messaging-services-using-react-native-552e)
+- [Dev.to/JS] [Angular CLI and Nx - Why?](https://dev.to/nx/angular-cli-and-nx-why-4dpk)
 - [Dev.to/JS] [How To Write Tests With Cypress UI Commands | Cypress Tutorial | Part VII](https://dev.to/lambdatest/how-to-write-tests-with-cypress-ui-commands-cypress-tutorial-part-vii-5hdm)
 - [Dev.to/JS] [How to use Assertion in Cypress? | Cypress Tutorial | Part VI](https://dev.to/lambdatest/how-to-use-assertion-in-cypress-cypress-tutorial-part-vi-121m)
 - [Dev.to/JS] [Simple trick to use Array.includes&lpar;&rpar; for conditionals](https://dev.to/jwwnz/simple-trick-to-use-arrayincludes-for-conditionals-3kkp)
 - [Dev.to/JS] [How to Handle Non-Cypress Async Promises using &quot;.then&quot; command? | Cypress Tutorial | Part V](https://dev.to/lambdatest/how-to-handle-non-cypress-async-promises-using-then-command-cypress-tutorial-part-v-5g6m)
 - [Dev.to/JS] [How to Handle Errors in React](https://dev.to/appsignal/how-to-handle-errors-in-react-27ad)
-- [Dev.to/JS] [Revise and Read React.Js with me](https://dev.to/naweli777/revise-and-read-reactjs-with-me-5523)
-- [Dev.to/JS] [Upload a huge file with little RAM &amp; space in Go](https://dev.to/tobychui/upload-a-huge-file-with-little-ram-space-in-go-5aie)
-- [Dev.to/JS] [My hometown homepage project with html &amp; css](https://dev.to/mariamaitbella/my-hometown-homepage-project-with-html-css-5gg1)
-- [Dev.to/JS] [!Comment your code](https://dev.to/leandroskounadis/comment-your-code-548)
-- [Dev.to/JS] [Guide for Developing Startup Mobile App with Flutter](https://dev.to/ameliawenham/guide-for-developing-startup-mobile-app-with-flutter-42k0)
-- [Dev.to/JS] [The beauty of Google Analytics](https://dev.to/aor2405/the-beauty-of-google-analytics-1gdg)
-- [Dev.to/JS] [How to Deploy the Qwik JavaScript Framework](https://dev.to/brittneypostma/how-to-deploy-the-qwik-javascript-framework-ecd)
 - [Lifehacker] [Shaving Should Be a Fancy Ritual](https://lifehacker.com/shaving-should-be-a-fancy-ritual-1849090730)
 - [Lifehacker] [The Energy Bars With the Best Ingredients &lpar;and Least Sugar&rpar;](https://lifehacker.com/the-energy-bars-with-the-best-ingredients-and-least-su-1849088219)
 - [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Deserve This Fancy No-Bake Dessert](https://lifehacker.com/you-deserve-this-fancy-no-bake-dessert-1849073903)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
-- [Lifehacker] [Yes, Your Dog Can Drink Too Much Water &lpar;and How to Tell&rpar;](https://lifehacker.com/yes-your-dog-can-drink-too-much-water-and-how-to-tell-1849079054)
-- [Lifehacker] [All the Ways You Should Be Cleaning Your Wood Furniture, but Aren&#39;t](https://lifehacker.com/all-the-ways-you-should-be-cleaning-your-wood-furniture-1849079038)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
