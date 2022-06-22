@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This Week In React #109: React Labs, Linaria, React-Aria, Design System, Ladle, Sandpack, Redwood, React-Native, Moon...](https://dev.to/sebastienlorber/this-week-in-react-109-react-labs-linaria-react-aria-design-system-ladle-sandpack-redwood-react-native-moon-38a7)
+- [Dev.to/JS] [API/ENDPOINT](https://dev.to/roshan9597/apiendpoint-4mfh)
+- [Dev.to/JS] [Corporate Data Backup: Benefits and Best Practices](https://dev.to/alextraytech/corporate-data-backup-benefits-and-best-practices-560n)
 - [Dev.to/JS] [Automate npm publishing with GitHub Actions, proper changelog, and release notes](https://dev.to/superface/automate-npm-publishing-with-github-actions-proper-changelog-and-release-notes-2pii)
 - [Dev.to/JS] [Building and Deploying a Next.js App on Vercel](https://dev.to/tosyn/building-and-deploying-a-nextjs-app-on-vercel-23no)
 - [Dev.to/JS] [Best NPM Package for React.js](https://dev.to/muhammad_asif/best-npm-package-for-reactjs-j6e)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add Bootstrap studio components to my react app?](https://dev.to/rohan7530/how-to-add-bootstrap-studio-components-to-my-react-app-an7)
 - [Dev.to/JS] [Generating Sitemap XML for Static and Dynamic &lpar;from multiple API endpoint&rpar; in Nuxt js](https://dev.to/siumhossain/generating-sitemap-xml-for-static-and-dynamic-from-multiple-api-endpoint-in-nuxt-js-2cij)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-3.3 &lpar; Product Routes &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-33-product-routes--3ipo)
-- [Dev.to/JS] [Lonely Integer - Hackerrank Challenge in Javascript](https://dev.to/costamatheus97/lonely-integer-hackerrank-challenge-in-javascript-562f)
-- [Dev.to/JS] [How to Use MQTT in the React Project](https://dev.to/emqtech/how-to-use-mqtt-in-the-react-project-177e)
-- [Dev.to/JS] [Vue Argon Design System | Free Vue JS template](https://dev.to/madewithjavascript/vue-argon-design-system-free-vue-js-template-1op4)
 - [Lifehacker] [Shaving Should Be a Fancy Ritual](https://lifehacker.com/shaving-should-be-a-fancy-ritual-1849090730)
 - [Lifehacker] [The Energy Bars With the Best Ingredients &lpar;and Least Sugar&rpar;](https://lifehacker.com/the-energy-bars-with-the-best-ingredients-and-least-su-1849088219)
 - [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
