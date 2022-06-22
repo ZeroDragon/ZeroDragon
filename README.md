@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [V8 Isolates are taking over the world](https://dev.to/tomlienard/v8-isolates-are-taking-over-the-world-3h4m)
+- [Dev.to/JS] [Purchasing power parity: A simple low-code proof of concept](https://dev.to/orliesaurus/purchasing-power-parity-a-simple-low-code-proof-of-concept-3c5o)
+- [Dev.to/JS] [Polyfills for Array methods: forEach&lpar;&rpar;, map&lpar;&rpar;, filter&lpar;&rpar;, reduce&lpar;&rpar;,find&lpar;&rpar;](https://dev.to/yashvant/polyfills-for-array-methods-foreach-map-filter-reducefind-3heg)
+- [Lifehacker] [Check If Your New Circuit Breaker Is Part of This Serious Recall](https://lifehacker.com/check-if-your-new-circuit-breaker-is-part-of-this-serio-1849092339)
+- [Dev.to/JS] [Build a landing page with Tailwind CSS in 5 minutes using Flowbite](https://dev.to/themesberg/build-a-landing-page-in-5-minutes-with-flowbite-blocks-and-tailwind-css-2fm0)
+- [Dev.to/JS] [⏳Custom Countdown Timer | JavaScript](https://dev.to/robsonmuniz16/custom-countdown-timer-javascript-2ph8)
 - [Lifehacker] [How to Finally Hide Your WhatsApp &#39;Last Seen&#39; Status From Specific People](https://lifehacker.com/how-to-finally-hide-your-whatsapp-last-seen-status-from-1849092145)
 - [Dev.to/JS] [Node.js Vs. Deno](https://dev.to/lukahietala/nodejs-vs-deno-3ngf)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2022](https://lifehacker.com/whats-new-on-disney-in-july-2022-1849092538)
@@ -34,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introduction to the File System Module &lpar;&#39;fs&#39;&rpar; in Node.js](https://dev.to/jimmywilliams/introduction-to-the-file-system-module-fs-in-nodejs-44k1)
 - [Dev.to/JS] [Why you need to start using Intersection Observer](https://dev.to/ekqt/why-you-need-to-start-using-intersection-observer-1b8l)
 - [Dev.to/JS] [File Upload using Fetch API - JavaScript Tutorial](https://dev.to/jimmywilliams/file-upload-using-fetch-api-javascript-tutorial-2jj4)
-- [Dev.to/JS] [POST form data using JavaScript&#39;s Fetch API](https://dev.to/jimmywilliams/post-form-data-using-javascripts-fetch-api-515p)
 - [Lifehacker] [How to Keep Flies Away From Your Yard &lpar;and Out of Your House&rpar;](https://lifehacker.com/how-to-keep-flies-away-from-your-yard-and-out-of-your-1849091606)
-- [Dev.to/JS] [Closures and useEffects](https://dev.to/sebzz/closures-and-useeffects-1ai7)
 - [Lifehacker] [10 Ways Listening to Your Health Apps Can Backfire](https://lifehacker.com/10-ways-listening-to-your-health-apps-can-backfire-1849090828)
-- [Dev.to/JS] [In App Messaging is now easy! Learn to integrate Huawei In App Messaging services using React Native](https://dev.to/hmscommunity/in-app-messaging-is-now-easy-learn-to-integrate-huawei-in-app-messaging-services-using-react-native-552e)
-- [Dev.to/JS] [Angular CLI and Nx - Why?](https://dev.to/nx/angular-cli-and-nx-why-4dpk)
-- [Dev.to/JS] [How To Write Tests With Cypress UI Commands | Cypress Tutorial | Part VII](https://dev.to/lambdatest/how-to-write-tests-with-cypress-ui-commands-cypress-tutorial-part-vii-5hdm)
 - [Lifehacker] [Shaving Should Be a Fancy Ritual](https://lifehacker.com/shaving-should-be-a-fancy-ritual-1849090730)
 - [Lifehacker] [The Energy Bars With the Best Ingredients &lpar;and Least Sugar&rpar;](https://lifehacker.com/the-energy-bars-with-the-best-ingredients-and-least-su-1849088219)
 - [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [7 Apple Watch Accessibility Features That Everyone Should Consider Using](https://lifehacker.com/7-apple-watch-accessibility-features-that-everyone-shou-1849084821)
 - [Lifehacker] [How to Use Translation Apps and Extensions Without Sacrificing Your Privacy](https://lifehacker.com/how-to-use-translation-apps-and-extensions-without-sacr-1849087236)
 - [Lifehacker] [How to Tell If That Crack in Your Wall is Really a Problem](https://lifehacker.com/how-to-tell-if-that-crack-in-your-wall-is-really-a-prob-1849084185)
-- [Lifehacker] [The 7 Deadly Sins of Decorating Your Home](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-home-1849077171)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
