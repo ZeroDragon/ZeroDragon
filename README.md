@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Speech-to-text with Deepgram](https://dev.to/nickytonline/speech-to-text-with-deepgram-2b6i)
+- [Dev.to/JS] [A debounced function call with JavaScript in a vue app](https://dev.to/readwarn/a-debounced-function-call-with-javascript-in-a-vue-app-3f69)
+- [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
+- [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
+- [Dev.to/JS] [Palindrome Scanner Using JavaScript](https://dev.to/xinnks/palindrome-scanner-using-javascript-4i1a)
+- [Dev.to/JS] [Use fake static classes to protect your namespace &lpar;js/ts&rpar;](https://dev.to/qpwo/use-fake-static-classes-to-protect-your-namespace-jsts-2pfd)
+- [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
 - [Dev.to/JS] [Display json data in html table using jquery ajax](https://dev.to/kodwings/display-json-data-in-html-table-using-jquery-ajax-2f92)
 - [Lifehacker] [What&#39;s New on Hulu in July 2022](https://lifehacker.com/whats-new-on-hulu-in-july-2022-1849095278)
 - [Dev.to/JS] [React Native - How to build a simple and scalable app theming strategy](https://dev.to/alexandrughinea/react-native-how-to-build-a-simple-and-scalable-app-theming-strategy-4427)
@@ -38,11 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WHAT YOU NEED TO KNOW ABOUT FULL STACK WEB DEVELOPMENT](https://dev.to/fliptotech/what-you-need-to-know-about-full-stack-web-development-2hk5)
 - [Lifehacker] [YouTube Has a Hidden List of Keyboard Shortcuts](https://lifehacker.com/youtube-has-a-hidden-list-of-keyboard-shortcuts-1849093707)
 - [Lifehacker] [Ask Yourself These Questions Before Committing to a Much Younger Partner](https://lifehacker.com/ask-yourself-these-questions-before-committing-to-a-muc-1849068844)
-- [Dev.to/JS] [Simple JSON to Excel in JavaScript - Code Snippet](https://dev.to/costamatheus97/simple-json-to-excel-in-javascript-43p2)
-- [Dev.to/JS] [A unique Angular hover directive](https://dev.to/anirbmuk/a-unique-angular-hover-directive-dk4)
-- [Dev.to/JS] [When creating an API, keep these five things in mind &lpar;I mean it&rpar;](https://dev.to/sojinsamuel/when-creating-an-api-keep-these-five-things-in-mind-i-mean-it-4h2f)
 - [Lifehacker] [Use This App to Watch YouTube Videos on Your Apple Watch](https://lifehacker.com/use-this-app-to-watch-youtube-videos-on-your-apple-watc-1849092759)
-- [Dev.to/JS] [Possible to develop a fiddler extension which convert js code to golang code?](https://dev.to/zerobuilder/possible-to-develop-a-fiddler-extension-which-convert-js-code-to-golang-code-577h)
 - [Lifehacker] [The Best and Worst Times to Drive This 4th of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-this-4th-of-july-week-1849092740)
 - [Lifehacker] [How to Make a Textured Accent Wall With Limewash](https://lifehacker.com/how-to-make-a-textured-accent-wall-with-limewash-1849091886)
 - [Lifehacker] [Check If Your New Circuit Breaker Is Part of This Serious Recall](https://lifehacker.com/check-if-your-new-circuit-breaker-is-part-of-this-serio-1849092339)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
 - [Lifehacker] [How to Day Drink Without Overdoing It](https://lifehacker.com/how-to-day-drink-without-overdoing-it-1849090132)
 - [Lifehacker] [What to Say When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-say-when-a-cop-asks-to-search-your-vehicle-1849090424)
-- [Lifehacker] [When to See the Biggest, Brightest Full Moon of the Year](https://lifehacker.com/when-to-see-the-biggest-brightest-full-moon-of-the-yea-1849089660)
-- [Lifehacker] [The Two Best Ways to Make Limoncello at Home](https://lifehacker.com/the-two-best-ways-to-make-limoncello-at-home-1849089119)
-- [Lifehacker] [Put These Things in a Cooler for Your Baby&#39;s First Beach Trip](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
