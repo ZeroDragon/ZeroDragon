@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I Made an entire FULL-STACK App using ONLY my Phone 🤯️](https://dev.to/eludadev/i-made-an-entire-full-stack-app-using-only-my-phone-4apg)
+- [Lifehacker] [Why You Shouldn’t Call Your Partner &#39;Needy&#39;](https://lifehacker.com/why-you-shouldn-t-call-your-partner-needy-1849076984)
+- [Dev.to/JS] [A Blogging Web You Can Share Everything to People | My React Project](https://dev.to/technophileguy/a-blogging-web-you-can-share-everything-to-people-my-react-project-2d7f)
+- [Dev.to/JS] [LambdaTest | Made with Next JS](https://dev.to/madewithjavascript/lambdatest-made-with-next-js-1ilc)
+- [Lifehacker] [14 Things You Should Always Have on Hand for Overnight Guests](https://lifehacker.com/14-things-you-should-always-have-on-hand-for-overnight-1849090450)
 - [Dev.to/JS] [Introduction to the File System Module &lpar;&#39;fs&#39;&rpar; in Node.js](https://dev.to/jimmywilliams/introduction-to-the-file-system-module-fs-in-nodejs-44k1)
 - [Dev.to/JS] [Why you need to start using Intersection Observer](https://dev.to/ekqt/why-you-need-to-start-using-intersection-observer-1b8l)
 - [Dev.to/JS] [File Upload using Fetch API - JavaScript Tutorial](https://dev.to/jimmywilliams/file-upload-using-fetch-api-javascript-tutorial-2jj4)
@@ -34,9 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular CLI and Nx - Why?](https://dev.to/nx/angular-cli-and-nx-why-4dpk)
 - [Dev.to/JS] [How To Write Tests With Cypress UI Commands | Cypress Tutorial | Part VII](https://dev.to/lambdatest/how-to-write-tests-with-cypress-ui-commands-cypress-tutorial-part-vii-5hdm)
 - [Dev.to/JS] [How to use Assertion in Cypress? | Cypress Tutorial | Part VI](https://dev.to/lambdatest/how-to-use-assertion-in-cypress-cypress-tutorial-part-vi-121m)
-- [Dev.to/JS] [Simple trick to use Array.includes&lpar;&rpar; for conditionals](https://dev.to/jwwnz/simple-trick-to-use-arrayincludes-for-conditionals-3kkp)
-- [Dev.to/JS] [How to Handle Non-Cypress Async Promises using &quot;.then&quot; command? | Cypress Tutorial | Part V](https://dev.to/lambdatest/how-to-handle-non-cypress-async-promises-using-then-command-cypress-tutorial-part-v-5g6m)
-- [Dev.to/JS] [How to Handle Errors in React](https://dev.to/appsignal/how-to-handle-errors-in-react-27ad)
 - [Lifehacker] [Shaving Should Be a Fancy Ritual](https://lifehacker.com/shaving-should-be-a-fancy-ritual-1849090730)
 - [Lifehacker] [The Energy Bars With the Best Ingredients &lpar;and Least Sugar&rpar;](https://lifehacker.com/the-energy-bars-with-the-best-ingredients-and-least-su-1849088219)
 - [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
@@ -58,9 +60,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Decorating Your Home](https://lifehacker.com/the-7-deadly-sins-of-decorating-your-home-1849077171)
 - [Lifehacker] [The Best New Tool to Spend Your Airline Miles](https://lifehacker.com/the-best-new-tool-to-spend-your-airline-miles-1849087341)
 - [Lifehacker] [How to Navigate the Tampon Shortage](https://lifehacker.com/how-to-navigate-the-tampon-shortage-1849077433)
-- [Lifehacker] [You Deserve This Fancy No-Bake Dessert](https://lifehacker.com/you-deserve-this-fancy-no-bake-dessert-1849073903)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
-- [Lifehacker] [Avoid These Common Bathroom Renovation Mistakes](https://lifehacker.com/avoid-these-common-bathroom-renovation-mistakes-1849079056)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
 
