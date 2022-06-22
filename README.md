@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Lonely Integer - Hackerrank Challenge in Javascript](https://dev.to/costamatheus97/lonely-integer-hackerrank-challenge-in-javascript-562f)
 - [Dev.to/JS] [How to Use MQTT in the React Project](https://dev.to/emqtech/how-to-use-mqtt-in-the-react-project-177e)
 - [Dev.to/JS] [Vue Argon Design System | Free Vue JS template](https://dev.to/madewithjavascript/vue-argon-design-system-free-vue-js-template-1op4)
 - [Dev.to/JS] [InVision | Made with Next JS](https://dev.to/madewithjavascript/invision-made-with-next-js-24da)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Say When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-say-when-a-cop-asks-to-search-your-vehicle-1849090424)
 - [Dev.to/JS] [Good assertion messages with EmberJS + sinon](https://dev.to/michalbryxi/good-assertion-messages-with-emberjs-sinon-3phc)
 - [Lifehacker] [When to See the Biggest, Brightest Full Moon of the Year](https://lifehacker.com/when-to-see-the-biggest-brightest-full-moon-of-the-yea-1849089660)
-- [Dev.to/JS] [Solve UK time changes &lpar;DST&rpar; with NodeJS and date-fns and Docker &lpar;epoch/unix format&rpar;](https://dev.to/reallycantcode/solve-uk-time-changes-dst-with-nodejs-and-date-fns-and-docker-epochunix-format-2hok)
 - [Lifehacker] [The Two Best Ways to Make Limoncello at Home](https://lifehacker.com/the-two-best-ways-to-make-limoncello-at-home-1849089119)
 - [Lifehacker] [Put These Things in a Cooler for Your Baby&#39;s First Beach Trip](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
 - [Lifehacker] [The Best Vacation Rental Alternatives to Airbnb](https://lifehacker.com/the-best-vacation-rental-alternatives-to-airbnb-1849088885)
