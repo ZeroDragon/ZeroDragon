@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [YouTube Has a Hidden List of Keyboard Shortcuts](https://lifehacker.com/youtube-has-a-hidden-list-of-keyboard-shortcuts-1849093707)
+- [Lifehacker] [Ask Yourself These Questions Before Committing to a Much Younger Partner](https://lifehacker.com/ask-yourself-these-questions-before-committing-to-a-muc-1849068844)
+- [Dev.to/JS] [Simple JSON to Excel in JavaScript - Code Snippet](https://dev.to/costamatheus97/simple-json-to-excel-in-javascript-43p2)
+- [Dev.to/JS] [A unique Angular hover directive](https://dev.to/anirbmuk/a-unique-angular-hover-directive-dk4)
 - [Dev.to/JS] [When creating an API, keep these five things in mind &lpar;I mean it&rpar;](https://dev.to/sojinsamuel/when-creating-an-api-keep-these-five-things-in-mind-i-mean-it-4h2f)
 - [Lifehacker] [Use This App to Watch YouTube Videos on Your Apple Watch](https://lifehacker.com/use-this-app-to-watch-youtube-videos-on-your-apple-watc-1849092759)
 - [Dev.to/JS] [Possible to develop a fiddler extension which convert js code to golang code?](https://dev.to/zerobuilder/possible-to-develop-a-fiddler-extension-which-convert-js-code-to-golang-code-577h)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #150: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-150-explica-este-codigo-javascript-18a1)
 - [Lifehacker] [How to Make a Textured Accent Wall With Limewash](https://lifehacker.com/how-to-make-a-textured-accent-wall-with-limewash-1849091886)
 - [Dev.to/JS] [End-to-end testing with our Chaos Stream Proxy](https://dev.to/video/end-to-end-testing-with-our-chaos-stream-proxy-45cc)
-- [Dev.to/JS] [V8 Isolates are taking over the world](https://dev.to/tomlienard/v8-isolates-are-taking-over-the-world-3h4m)
-- [Dev.to/JS] [Purchasing power parity: A simple low-code proof of concept](https://dev.to/orliesaurus/purchasing-power-parity-a-simple-low-code-proof-of-concept-3c5o)
 - [Lifehacker] [Check If Your New Circuit Breaker Is Part of This Serious Recall](https://lifehacker.com/check-if-your-new-circuit-breaker-is-part-of-this-serio-1849092339)
 - [Lifehacker] [How to Finally Hide Your WhatsApp &#39;Last Seen&#39; Status From Specific People](https://lifehacker.com/how-to-finally-hide-your-whatsapp-last-seen-status-from-1849092145)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2022](https://lifehacker.com/whats-new-on-disney-in-july-2022-1849092538)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything New in Chrome 103](https://lifehacker.com/everything-new-in-chrome-103-1849088598)
 - [Lifehacker] [How to Create a PDF From Any Website, on Any Device](https://lifehacker.com/how-to-create-a-pdf-from-any-website-on-any-device-1849087231)
 - [Lifehacker] [You Want to Try This Iced Mocha Cola?](https://lifehacker.com/you-want-to-try-this-iced-mocha-cola-1849081053)
-- [Lifehacker] [The Chickenpox Vaccine Protects Against More Than Chickenpox](https://lifehacker.com/the-chickenpox-vaccine-protects-against-more-than-chick-1849080190)
-- [Lifehacker] [17 of the Best Non-Porn Movies Rated NC-17](https://lifehacker.com/17-of-the-best-non-porn-movies-rated-nc-17-1849076415)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
