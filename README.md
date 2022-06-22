@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Native - How to approach design collaboration with Figma](https://dev.to/alexandrughinea/react-native-how-to-approach-design-collaboration-with-figma-4pnf)
+- [Dev.to/JS] [Fast stories powered by Vite; Histoire — Vue Amsterdam Conference 2022 Summary series — Third Talk](https://dev.to/mohsen_vaziri/fast-stories-powered-by-vite-histoire-vue-amsterdam-conference-2022-summary-series-third-talk-543n)
+- [Lifehacker] [Lifehacker vs. Lea DeLaria](https://lifehacker.com/lifehacker-vs-lea-delaria-1849093598)
+- [Dev.to/JS] [WHAT YOU NEED TO KNOW ABOUT FULL STACK WEB DEVELOPMENT](https://dev.to/fliptotech/what-you-need-to-know-about-full-stack-web-development-2hk5)
 - [Lifehacker] [YouTube Has a Hidden List of Keyboard Shortcuts](https://lifehacker.com/youtube-has-a-hidden-list-of-keyboard-shortcuts-1849093707)
 - [Lifehacker] [Ask Yourself These Questions Before Committing to a Much Younger Partner](https://lifehacker.com/ask-yourself-these-questions-before-committing-to-a-muc-1849068844)
 - [Dev.to/JS] [Simple JSON to Excel in JavaScript - Code Snippet](https://dev.to/costamatheus97/simple-json-to-excel-in-javascript-43p2)
@@ -36,10 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best and Worst Times to Drive This 4th of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-this-4th-of-july-week-1849092740)
 - [Dev.to/JS] [Cypress - counting the number of elements on a page](https://dev.to/zainzzkk/cypress-counting-the-number-of-elements-on-a-page-aka)
 - [Dev.to/JS] [Aporte inicial.](https://dev.to/fernandog494/aporte-inicial-1cii)
-- [Dev.to/JS] [Should you use semicolons in JavaScript?](https://dev.to/nicozerpa/should-you-use-semicolons-in-javascript-4io8)
-- [Dev.to/JS] [Paracetamol.js💊| #150: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-150-explica-este-codigo-javascript-18a1)
 - [Lifehacker] [How to Make a Textured Accent Wall With Limewash](https://lifehacker.com/how-to-make-a-textured-accent-wall-with-limewash-1849091886)
-- [Dev.to/JS] [End-to-end testing with our Chaos Stream Proxy](https://dev.to/video/end-to-end-testing-with-our-chaos-stream-proxy-45cc)
 - [Lifehacker] [Check If Your New Circuit Breaker Is Part of This Serious Recall](https://lifehacker.com/check-if-your-new-circuit-breaker-is-part-of-this-serio-1849092339)
 - [Lifehacker] [How to Finally Hide Your WhatsApp &#39;Last Seen&#39; Status From Specific People](https://lifehacker.com/how-to-finally-hide-your-whatsapp-last-seen-status-from-1849092145)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2022](https://lifehacker.com/whats-new-on-disney-in-july-2022-1849092538)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Mail These Things in Paper Envelopes](https://lifehacker.com/never-mail-these-things-in-paper-envelopes-1849089269)
 - [Lifehacker] [Everything New in Chrome 103](https://lifehacker.com/everything-new-in-chrome-103-1849088598)
 - [Lifehacker] [How to Create a PDF From Any Website, on Any Device](https://lifehacker.com/how-to-create-a-pdf-from-any-website-on-any-device-1849087231)
-- [Lifehacker] [You Want to Try This Iced Mocha Cola?](https://lifehacker.com/you-want-to-try-this-iced-mocha-cola-1849081053)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
 - [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
