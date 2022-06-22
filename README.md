@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Use MQTT in the React Project](https://dev.to/emqtech/how-to-use-mqtt-in-the-react-project-177e)
 - [Dev.to/JS] [Vue Argon Design System | Free Vue JS template](https://dev.to/madewithjavascript/vue-argon-design-system-free-vue-js-template-1op4)
 - [Dev.to/JS] [InVision | Made with Next JS](https://dev.to/madewithjavascript/invision-made-with-next-js-24da)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 9. How to pass Optional and Path Arguments to Scripts](https://dev.to/onflow/build-on-flow-learn-fcl-9-how-to-pass-optional-and-path-arguments-to-scripts-3cgn)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to See the Biggest, Brightest Full Moon of the Year](https://lifehacker.com/when-to-see-the-biggest-brightest-full-moon-of-the-yea-1849089660)
 - [Dev.to/JS] [Solve UK time changes &lpar;DST&rpar; with NodeJS and date-fns and Docker &lpar;epoch/unix format&rpar;](https://dev.to/reallycantcode/solve-uk-time-changes-dst-with-nodejs-and-date-fns-and-docker-epochunix-format-2hok)
 - [Lifehacker] [The Two Best Ways to Make Limoncello at Home](https://lifehacker.com/the-two-best-ways-to-make-limoncello-at-home-1849089119)
-- [Dev.to/JS] [Integrating reCAPTCHA with Next.js](https://dev.to/sumukhakb210/integrating-recaptcha-with-nextjs-4ig6)
 - [Lifehacker] [Put These Things in a Cooler for Your Baby&#39;s First Beach Trip](https://lifehacker.com/put-these-things-in-a-cooler-for-your-babys-first-beach-1849089429)
 - [Lifehacker] [The Best Vacation Rental Alternatives to Airbnb](https://lifehacker.com/the-best-vacation-rental-alternatives-to-airbnb-1849088885)
 - [Lifehacker] [Never Mail These Things in Paper Envelopes](https://lifehacker.com/never-mail-these-things-in-paper-envelopes-1849089269)
