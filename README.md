@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 143 - Data Clumps](https://dev.to/mcsee/code-smell-143-data-clumps-52f6)
 - [Dev.to/JS] [Speech-to-text with Deepgram](https://dev.to/nickytonline/speech-to-text-with-deepgram-2b6i)
 - [Dev.to/JS] [A debounced function call with JavaScript in a vue app](https://dev.to/readwarn/a-debounced-function-call-with-javascript-in-a-vue-app-3f69)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React Native - How to approach design collaboration with Figma](https://dev.to/alexandrughinea/react-native-how-to-approach-design-collaboration-with-figma-4pnf)
 - [Dev.to/JS] [Fast stories powered by Vite; Histoire — Vue Amsterdam Conference 2022 Summary series — Third Talk](https://dev.to/mohsen_vaziri/fast-stories-powered-by-vite-histoire-vue-amsterdam-conference-2022-summary-series-third-talk-543n)
 - [Lifehacker] [Lifehacker vs. Lea DeLaria](https://lifehacker.com/lifehacker-vs-lea-delaria-1849093598)
-- [Dev.to/JS] [WHAT YOU NEED TO KNOW ABOUT FULL STACK WEB DEVELOPMENT](https://dev.to/fliptotech/what-you-need-to-know-about-full-stack-web-development-2hk5)
 - [Lifehacker] [YouTube Has a Hidden List of Keyboard Shortcuts](https://lifehacker.com/youtube-has-a-hidden-list-of-keyboard-shortcuts-1849093707)
 - [Lifehacker] [Ask Yourself These Questions Before Committing to a Much Younger Partner](https://lifehacker.com/ask-yourself-these-questions-before-committing-to-a-muc-1849068844)
 - [Lifehacker] [Use This App to Watch YouTube Videos on Your Apple Watch](https://lifehacker.com/use-this-app-to-watch-youtube-videos-on-your-apple-watc-1849092759)
