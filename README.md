@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Native Error: Task :app:mergeDexDebug FAILED](https://dev.to/anditorx/react-native-error-task-appmergedexdebug-failed-26m)
+- [Dev.to/JS] [How to fix EsLint Error: Must use import to load ES Module](https://dev.to/anditorx/how-to-fix-eslint-error-must-use-import-to-load-es-module-e2n)
+- [Dev.to/JS] [How to read and write files in JavaScript](https://dev.to/rahulbanerjee99/how-to-read-and-write-files-in-javascript-257h)
+- [Dev.to/JS] [How much HTML &amp; CSS should you know before learning JavaScript? 🤔](https://dev.to/rammcodes/how-much-html-css-should-you-know-before-learning-javascript-2njd)
 - [Dev.to/JS] [Seu código vai quebrar se você não usar this. nesse caso &lpar;Java Script&rpar;](https://dev.to/gabrielalvino/seu-codigo-vai-quebrar-se-voce-nao-usar-this-nesse-caso-java-script-of2)
 - [Dev.to/JS] [How to secure our react website source code?](https://dev.to/gauravsoni97/how-to-secure-our-react-website-source-code-2fne)
 - [Dev.to/JS] [Differences between Promises and async / await in Javascript](https://dev.to/hamzaelmoualed/differences-between-promises-and-async-await-in-javascript-3dni)
@@ -31,12 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Authentication and DB access with Next, Prisma, and MongoDB](https://dev.to/asayerio_techblog/authentication-and-db-access-with-next-prisma-and-mongodb-2gp2)
 - [Dev.to/JS] [Kelsey Hightower&#39;s #Codeland22 Keynote: My 5 Takeaways on Building Meaningful Careers](https://dev.to/nitya/kelsey-hightowers-codeland22-keynote-my-5-takeaways-on-building-meaningful-careers-2olk)
 - [Dev.to/JS] [Code Smell 143 - Data Clumps](https://dev.to/mcsee/code-smell-143-data-clumps-52f6)
-- [Dev.to/JS] [Speech-to-text with Deepgram](https://dev.to/nickytonline/speech-to-text-with-deepgram-2b6i)
-- [Dev.to/JS] [A debounced function call with JavaScript in a vue app](https://dev.to/readwarn/a-debounced-function-call-with-javascript-in-a-vue-app-3f69)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
 - [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
-- [Dev.to/JS] [Palindrome Scanner Using JavaScript](https://dev.to/xinnks/palindrome-scanner-using-javascript-4i1a)
-- [Dev.to/JS] [Use fake static classes to protect your namespace &lpar;js/ts&rpar;](https://dev.to/qpwo/use-fake-static-classes-to-protect-your-namespace-jsts-2pfd)
 - [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
 - [Lifehacker] [What&#39;s New on Hulu in July 2022](https://lifehacker.com/whats-new-on-hulu-in-july-2022-1849095278)
 - [Lifehacker] [How to Find a Good Apartment in a Bad Housing Market, According to Reddit](https://lifehacker.com/how-to-find-a-good-apartment-in-a-bad-housing-market-a-1849094224)
