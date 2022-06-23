@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hide password in MongoDb](https://dev.to/drsimplegraffiti/hide-password-in-mongodb-8nf)
+- [Dev.to/JS] [When to use HashMap instead of Loop Part 2](https://dev.to/kaleemniz/when-to-use-hashmap-instead-of-loop-part-2-130g)
 - [Dev.to/JS] [Fleet | Made with Next JS](https://dev.to/madewithjavascript/fleet-made-with-next-js-58mn)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Dev.to/JS] [How to monitor ETH Transactions using Web3.js](https://dev.to/mihaiandrei97/how-to-monitor-eth-transactions-using-web3js-46p7)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quick branded light and dark modes with Fluent UI React v9](https://dev.to/paulgildea/quick-branded-light-and-dark-modes-with-fluent-ui-react-v9-1pe6)
 - [Dev.to/JS] [5x10 CNC Router Machine for Cabinets Making](https://dev.to/acctek/5x10-cnc-router-machine-for-cabinets-making-ndl)
 - [Dev.to/JS] [Reason Why You Should Timely Migrate Your Online Store To Another eCommerce Solution](https://dev.to/maryajames/reason-why-you-should-timely-migrate-your-online-store-to-another-ecommerce-solution-4l19)
-- [Dev.to/JS] [Build React Pagination using React Paginate](https://dev.to/jps27cse/build-react-pagination-using-react-paginate-1lal)
-- [Dev.to/JS] [Re-creating Apple’s Dark Mode Icon](https://dev.to/madsstoumann/re-creating-apples-dark-mode-icon-199j)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
 - [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
 - [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
