@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First React App and Folder Structure](https://dev.to/naweli_verma/first-react-app-and-folder-structure-581o)
+- [Lifehacker] [How to Get a Rub to Stick to Your Meat](https://lifehacker.com/how-to-get-a-rub-to-stick-to-your-meat-1849096219)
+- [Dev.to/JS] [Went shopping today and saw this](https://dev.to/hobart2967/went-shopping-today-and-saw-this-1n5i)
+- [Dev.to/JS] [How to Hire the Best Amazon Product Photographer](https://dev.to/sonamsingh/how-to-hire-the-best-amazon-product-photographer-5d55)
 - [Dev.to/JS] [Hide password in MongoDb](https://dev.to/drsimplegraffiti/hide-password-in-mongodb-8nf)
-- [Dev.to/JS] [When to use HashMap instead of Loop Part 2](https://dev.to/kaleemniz/when-to-use-hashmap-instead-of-loop-part-2-130g)
 - [Dev.to/JS] [Fleet | Made with Next JS](https://dev.to/madewithjavascript/fleet-made-with-next-js-58mn)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Dev.to/JS] [How to monitor ETH Transactions using Web3.js](https://dev.to/mihaiandrei97/how-to-monitor-eth-transactions-using-web3js-46p7)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 Remote Software Developer Jobs in 2022 | Optymize](https://dev.to/optymize123/top-10-remote-software-developer-jobs-in-2022-optymize-84d)
 - [Dev.to/JS] [Crushing Job Interviews&lpar;DSA&rpar; - Two Number Sum](https://dev.to/dhruvindev/crushing-job-interviewsdsa-two-number-sum-2joa)
 - [Dev.to/JS] [Quick branded light and dark modes with Fluent UI React v9](https://dev.to/paulgildea/quick-branded-light-and-dark-modes-with-fluent-ui-react-v9-1pe6)
-- [Dev.to/JS] [5x10 CNC Router Machine for Cabinets Making](https://dev.to/acctek/5x10-cnc-router-machine-for-cabinets-making-ndl)
-- [Dev.to/JS] [Reason Why You Should Timely Migrate Your Online Store To Another eCommerce Solution](https://dev.to/maryajames/reason-why-you-should-timely-migrate-your-online-store-to-another-ecommerce-solution-4l19)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
 - [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
 - [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Energy Bars With the Best Ingredients &lpar;and Least Sugar&rpar;](https://lifehacker.com/the-energy-bars-with-the-best-ingredients-and-least-su-1849088219)
 - [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
 - [Lifehacker] [How to Day Drink Without Overdoing It](https://lifehacker.com/how-to-day-drink-without-overdoing-it-1849090132)
-- [Lifehacker] [What to Say When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-say-when-a-cop-asks-to-search-your-vehicle-1849090424)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
