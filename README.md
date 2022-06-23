@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Surprising Foods You Can &lpar;and Can&#39;t&rpar; Take Through Airport Security](https://lifehacker.com/surprising-foods-you-can-and-cant-take-through-airpor-1849099435)
+- [Dev.to/JS] [Compress any data in JS with LZP3 &lpar;very powerful algorithm&rpar;.](https://dev.to/vipertechofficial/compress-any-data-in-js-with-lzp3-very-powerful-algorithm-2a0j)
+- [Dev.to/JS] [Add analytics to NextJS with Plausible.io](https://dev.to/dimitarstbc/add-analytics-to-nextjs-with-plausibleio-2g2a)
+- [Dev.to/JS] [Warning: Current Server Discovery and Monitoring engine](https://dev.to/robiulman/warning-current-server-discovery-and-monitoring-engine-56mm)
+- [Lifehacker] [What to Do If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-if-you-ever-get-fired-or-laid-off-1849101305)
+- [Lifehacker] [The Most Efficient Ways to Remove Food Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
 - [Dev.to/JS] [Understanding useEffect&lpar;&rpar; lifeCycle hook in React with Examples](https://dev.to/muneebejaz/understanding-useeffect-lifecycle-hook-in-react-with-examples-47g3)
 - [Lifehacker] [You Can Block Specific iPhone Contacts From Seeing Your ‘Focus’ Status](https://lifehacker.com/you-can-block-specific-iphone-contacts-from-seeing-your-1849099491)
 - [Lifehacker] [The Gym ‘Rules’ Teens Need to Learn Before They Get Their First Membership](https://lifehacker.com/the-gym-rules-teens-need-to-learn-before-they-get-the-1849095197)
@@ -41,11 +47,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #151: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-151-explica-este-codigo-javascript-41hf)
 - [Lifehacker] [Here’s How to Make Sense of All the New ‘Final Fantasy VII’ Games](https://lifehacker.com/here-s-how-to-make-sense-of-all-the-new-final-fantasy-1849095769)
 - [Dev.to/JS] [Page Object Model with Playwright and JAVA Part -1](https://dev.to/kailashpathak7/page-object-model-with-playwright-and-java-part-1-4h68)
-- [Dev.to/JS] [Everything you need to know about Web Performance &lpar;in 5 Minutes&rpar;](https://dev.to/vue-storefront/everything-you-need-to-know-about-web-performance-as-a-dev-in-5-minutes-450l)
 - [Lifehacker] [What Are Your Best Survival Strategies for Parenting While Sick?](https://lifehacker.com/what-are-your-best-survival-strategies-for-parenting-wh-1849096020)
-- [Dev.to/JS] [329. Longest Increasing Path in a Matrix 🚀](https://dev.to/samuelhinchliffe/329-longest-increasing-path-in-a-matrix-1opa)
 - [Lifehacker] [How to Make a Duckling Think You&#39;re Its Mother](https://lifehacker.com/how-to-make-a-duckling-think-youre-its-mother-1849095859)
-- [Dev.to/JS] [Your First React App?!](https://dev.to/dedomil/your-first-react-app-5021)
 - [Lifehacker] [How to Date Someone Who&#39;s in an Open Relationship](https://lifehacker.com/how-to-date-someone-whos-in-an-open-relationship-1849095029)
 - [Lifehacker] [How to Stop a Panic Attack With Frozen Meat](https://lifehacker.com/how-to-stop-a-panic-attack-with-frozen-meat-1849094302)
 - [Lifehacker] [How to Get a Rub to Stick to Your Meat](https://lifehacker.com/how-to-get-a-rub-to-stick-to-your-meat-1849096219)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose Your Group Vacation Without Being a Jerk](https://lifehacker.com/how-to-choose-your-group-vacation-without-being-an-assh-1849094367)
 - [Lifehacker] [Take These Shortcake Fixings Along When You Go Berry-Picking](https://lifehacker.com/take-these-shortcake-fixings-along-when-you-go-berry-pi-1849094307)
 - [Lifehacker] [Lifehacker vs. Lea DeLaria](https://lifehacker.com/lifehacker-vs-lea-delaria-1849093598)
-- [Lifehacker] [YouTube Has a Hidden List of Keyboard Shortcuts](https://lifehacker.com/youtube-has-a-hidden-list-of-keyboard-shortcuts-1849093707)
-- [Lifehacker] [Ask Yourself These Questions Before Committing to a Much Younger Partner](https://lifehacker.com/ask-yourself-these-questions-before-committing-to-a-muc-1849068844)
-- [Lifehacker] [Use This App to Watch YouTube Videos on Your Apple Watch](https://lifehacker.com/use-this-app-to-watch-youtube-videos-on-your-apple-watc-1849092759)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
