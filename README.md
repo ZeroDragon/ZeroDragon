@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everything you need to know about Web Performance as a dev in 5 Minutes](https://dev.to/vue-storefront/everything-you-need-to-know-about-web-performance-as-a-dev-in-5-minutes-450l)
+- [Lifehacker] [What Are Your Best Survival Strategies for Parenting While Sick?](https://lifehacker.com/what-are-your-best-survival-strategies-for-parenting-wh-1849096020)
+- [Dev.to/JS] [329. Longest Increasing Path in a Matrix 🚀](https://dev.to/samuelhinchliffe/329-longest-increasing-path-in-a-matrix-1opa)
+- [Lifehacker] [How to Make a Duckling Think You&#39;re Its Mother](https://lifehacker.com/how-to-make-a-duckling-think-youre-its-mother-1849095859)
+- [Dev.to/JS] [Your First React App?!](https://dev.to/dedomil/your-first-react-app-5021)
+- [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — A Very Big Sum](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-a-very-big-sum-4h64)
+- [Lifehacker] [How to Date Someone Who&#39;s in an Open Relationship](https://lifehacker.com/how-to-date-someone-whos-in-an-open-relationship-1849095029)
 - [Dev.to/JS] [Split commands and options from CLI](https://dev.to/luctst/split-commands-and-options-from-cli-203l)
 - [Dev.to/JS] [Infinite grid](https://dev.to/mortis_666/infinite-grid-3656)
 - [Lifehacker] [How to Stop a Panic Attack With Frozen Meat](https://lifehacker.com/how-to-stop-a-panic-attack-with-frozen-meat-1849094302)
@@ -33,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Rub to Stick to Your Meat](https://lifehacker.com/how-to-get-a-rub-to-stick-to-your-meat-1849096219)
 - [Dev.to/JS] [Went shopping today and saw this](https://dev.to/hobart2967/went-shopping-today-and-saw-this-1n5i)
 - [Dev.to/JS] [How to Hire the Best Amazon Product Photographer](https://dev.to/sonamsingh/how-to-hire-the-best-amazon-product-photographer-5d55)
-- [Dev.to/JS] [Hide password in MongoDb](https://dev.to/drsimplegraffiti/hide-password-in-mongodb-8nf)
-- [Dev.to/JS] [Fleet | Made with Next JS](https://dev.to/madewithjavascript/fleet-made-with-next-js-58mn)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
-- [Dev.to/JS] [How to monitor ETH Transactions using Web3.js](https://dev.to/mihaiandrei97/how-to-monitor-eth-transactions-using-web3js-46p7)
-- [Dev.to/JS] [5 things I wish I knew before starting serious development &lpar;a journey into code perfection&rpar;](https://dev.to/dcichorski/five-things-i-wish-i-knew-before-starting-serious-development-a-journey-into-code-perfection-2e3j)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
 - [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
 - [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [14 Things You Should Always Have on Hand for Overnight Guests](https://lifehacker.com/14-things-you-should-always-have-on-hand-for-overnight-1849090450)
 - [Lifehacker] [How to Keep Flies Away From Your Yard &lpar;and Out of Your House&rpar;](https://lifehacker.com/how-to-keep-flies-away-from-your-yard-and-out-of-your-1849091606)
 - [Lifehacker] [10 Ways Listening to Your Health Apps Can Backfire](https://lifehacker.com/10-ways-listening-to-your-health-apps-can-backfire-1849090828)
-- [Lifehacker] [Shaving Should Be a Fancy Ritual](https://lifehacker.com/shaving-should-be-a-fancy-ritual-1849090730)
-- [Lifehacker] [The Energy Bars With the Best Ingredients &lpar;and Least Sugar&rpar;](https://lifehacker.com/the-energy-bars-with-the-best-ingredients-and-least-su-1849088219)
-- [Lifehacker] [Reddit Has Hidden Search Tools](https://lifehacker.com/reddit-has-hidden-search-tools-1849089864)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
