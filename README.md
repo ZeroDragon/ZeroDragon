@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [React App File Structure.](https://dev.to/jchouse/react-app-file-structure-36b8)
+- [Dev.to/JS] [Five things I wish I knew before starting serious development &lpar;a journey into code perfection&rpar;](https://dev.to/dcichorski/five-things-i-wish-i-knew-before-starting-serious-development-a-journey-into-code-perfection-2e3j)
+- [Dev.to/JS] [cdpap home care agency](https://dev.to/axzonshomecare04/cdpap-home-care-agency-3ldp)
 - [Dev.to/JS] [Jest Tutorial For Beginners: Introduction [1/5]](https://dev.to/abidullah786/jest-tutorial-for-beginners-introduction-15-10im)
 - [Dev.to/JS] [Top 10 Remote Software Developer Jobs in 2022 | Optymize](https://dev.to/optymize123/top-10-remote-software-developer-jobs-in-2022-optymize-84d)
 - [Dev.to/JS] [Crushing Job Interviews&lpar;DSA&rpar; - Two Number Sum](https://dev.to/dhruvindev/crushing-job-interviewsdsa-two-number-sum-2joa)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Re-creating Apple’s Dark Mode Icon](https://dev.to/madsstoumann/re-creating-apples-dark-mode-icon-199j)
 - [Dev.to/JS] [How to Use SWR with React](https://dev.to/ahmedmohmd/how-to-use-useswr-hook-with-react-1dij)
 - [Dev.to/JS] [Between python and javascript which one should I focus on?](https://dev.to/umeya_kassim/between-python-and-javascript-which-one-should-i-forcus-on-io2)
-- [Dev.to/JS] [React Native Error: Task :app:mergeDexDebug FAILED](https://dev.to/anditorx/react-native-error-task-appmergedexdebug-failed-26m)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
 - [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
 - [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
