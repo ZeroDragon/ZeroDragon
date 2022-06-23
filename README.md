@@ -23,7 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Everything you need to know about Web Performance as a dev in 5 Minutes](https://dev.to/vue-storefront/everything-you-need-to-know-about-web-performance-as-a-dev-in-5-minutes-450l)
+- [Lifehacker] [The States With the Highest Home Vacancy Rates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-states-with-the-highest-home-vacancy-rates-and-why-1849097184)
+- [Dev.to/JS] [Should I write a new JavaScript framework?](https://dev.to/whitep4nth3r/should-i-write-a-new-javascript-framework-199)
+- [Dev.to/JS] [Paracetamol.js💊| #151: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-151-explica-este-codigo-javascript-41hf)
+- [Lifehacker] [Here’s How to Make Sense of All the New ‘Final Fantasy VII’ Games](https://lifehacker.com/here-s-how-to-make-sense-of-all-the-new-final-fantasy-1849095769)
+- [Dev.to/JS] [Page Object Model with Playwright and JAVA Part -1](https://dev.to/kailashpathak7/page-object-model-with-playwright-and-java-part-1-4h68)
+- [Dev.to/JS] [Everything you need to know about Web Performance &lpar;in 5 Minutes&rpar;](https://dev.to/vue-storefront/everything-you-need-to-know-about-web-performance-as-a-dev-in-5-minutes-450l)
 - [Lifehacker] [What Are Your Best Survival Strategies for Parenting While Sick?](https://lifehacker.com/what-are-your-best-survival-strategies-for-parenting-wh-1849096020)
 - [Dev.to/JS] [329. Longest Increasing Path in a Matrix 🚀](https://dev.to/samuelhinchliffe/329-longest-increasing-path-in-a-matrix-1opa)
 - [Lifehacker] [How to Make a Duckling Think You&#39;re Its Mother](https://lifehacker.com/how-to-make-a-duckling-think-youre-its-mother-1849095859)
@@ -36,10 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Link: When You Should Prefer Map Over Object In JavaScript](https://dev.to/jesterxl/link-when-you-should-prefer-map-over-object-in-javascript-3cnh)
 - [Dev.to/JS] [Fusion Charts | Made with Vue JS](https://dev.to/madewithjavascript/fusion-charts-made-with-vue-js-1ge)
 - [Dev.to/JS] [Create A Popover In Svelte](https://dev.to/daviddalbusco/create-a-popover-in-svelte-2ofn)
-- [Dev.to/JS] [First React App and Folder Structure](https://dev.to/naweli_verma/first-react-app-and-folder-structure-581o)
 - [Lifehacker] [How to Get a Rub to Stick to Your Meat](https://lifehacker.com/how-to-get-a-rub-to-stick-to-your-meat-1849096219)
-- [Dev.to/JS] [Went shopping today and saw this](https://dev.to/hobart2967/went-shopping-today-and-saw-this-1n5i)
-- [Dev.to/JS] [How to Hire the Best Amazon Product Photographer](https://dev.to/sonamsingh/how-to-hire-the-best-amazon-product-photographer-5d55)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
 - [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Disney+ in July 2022](https://lifehacker.com/whats-new-on-disney-in-july-2022-1849092538)
 - [Lifehacker] [Why You Shouldn’t Call Your Partner &#39;Needy&#39;](https://lifehacker.com/why-you-shouldn-t-call-your-partner-needy-1849076984)
 - [Lifehacker] [14 Things You Should Always Have on Hand for Overnight Guests](https://lifehacker.com/14-things-you-should-always-have-on-hand-for-overnight-1849090450)
-- [Lifehacker] [How to Keep Flies Away From Your Yard &lpar;and Out of Your House&rpar;](https://lifehacker.com/how-to-keep-flies-away-from-your-yard-and-out-of-your-1849091606)
-- [Lifehacker] [10 Ways Listening to Your Health Apps Can Backfire](https://lifehacker.com/10-ways-listening-to-your-health-apps-can-backfire-1849090828)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
