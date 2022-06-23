@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An extensive guide to build your NPM package and publish it.](https://dev.to/shreyazz/an-extensive-guide-to-building-your-npm-package-and-publishing-it-29k3)
+- [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
+- [Dev.to/JS] [¿Cómo crear un buscador con efecto &quot;debounce&quot;? 🔎](https://dev.to/franklin030601/como-crear-un-buscador-con-efecto-debounce-4jcp)
+- [Dev.to/JS] [How to create a search engine with &quot;debounce effect&quot;? 🔎](https://dev.to/franklin030601/how-to-create-a-search-engine-with-debounce-effect-4hef)
 - [Lifehacker] [Surprising Foods You Can &lpar;and Can&#39;t&rpar; Take Through Airport Security](https://lifehacker.com/surprising-foods-you-can-and-cant-take-through-airpor-1849099435)
 - [Dev.to/JS] [Compress any data in JS with LZP3 &lpar;very powerful algorithm&rpar;.](https://dev.to/vipertechofficial/compress-any-data-in-js-with-lzp3-very-powerful-algorithm-2a0j)
 - [Dev.to/JS] [Add analytics to NextJS with Plausible.io](https://dev.to/dimitarstbc/add-analytics-to-nextjs-with-plausibleio-2g2a)
@@ -43,10 +47,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These G Suite Alternatives Are Cheaper or Free](https://lifehacker.com/these-g-suite-alternatives-are-cheaper-or-free-1849097965)
 - [Dev.to/JS] [Must use import to load ES Module Error in AWS Pipeline](https://dev.to/vchaurasia95/must-use-import-to-load-es-module-error-4ho8)
 - [Lifehacker] [The States With the Highest Home Vacancy Rates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-states-with-the-highest-home-vacancy-rates-and-why-1849097184)
-- [Dev.to/JS] [Should I write a new JavaScript framework?](https://dev.to/whitep4nth3r/should-i-write-a-new-javascript-framework-199)
-- [Dev.to/JS] [Paracetamol.js💊| #151: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-151-explica-este-codigo-javascript-41hf)
 - [Lifehacker] [Here’s How to Make Sense of All the New ‘Final Fantasy VII’ Games](https://lifehacker.com/here-s-how-to-make-sense-of-all-the-new-final-fantasy-1849095769)
-- [Dev.to/JS] [Page Object Model with Playwright and JAVA Part -1](https://dev.to/kailashpathak7/page-object-model-with-playwright-and-java-part-1-4h68)
 - [Lifehacker] [What Are Your Best Survival Strategies for Parenting While Sick?](https://lifehacker.com/what-are-your-best-survival-strategies-for-parenting-wh-1849096020)
 - [Lifehacker] [How to Make a Duckling Think You&#39;re Its Mother](https://lifehacker.com/how-to-make-a-duckling-think-youre-its-mother-1849095859)
 - [Lifehacker] [How to Date Someone Who&#39;s in an Open Relationship](https://lifehacker.com/how-to-date-someone-whos-in-an-open-relationship-1849095029)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find a Good Apartment in a Bad Housing Market, According to Reddit](https://lifehacker.com/how-to-find-a-good-apartment-in-a-bad-housing-market-a-1849094224)
 - [Lifehacker] [How to Choose Your Group Vacation Without Being a Jerk](https://lifehacker.com/how-to-choose-your-group-vacation-without-being-an-assh-1849094367)
 - [Lifehacker] [Take These Shortcake Fixings Along When You Go Berry-Picking](https://lifehacker.com/take-these-shortcake-fixings-along-when-you-go-berry-pi-1849094307)
-- [Lifehacker] [Lifehacker vs. Lea DeLaria](https://lifehacker.com/lifehacker-vs-lea-delaria-1849093598)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
