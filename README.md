@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [25 Fake Fan-Made Trailers Better Than Real Movies](https://lifehacker.com/25-fake-fan-made-trailers-better-than-real-movies-1849093910)
+- [Dev.to/JS] [Persisted State for Vuex](https://dev.to/ahmetilhan24/persisted-state-for-vuex-23id)
+- [Lifehacker] [These G Suite Alternatives Are Cheaper or Free](https://lifehacker.com/these-g-suite-alternatives-are-cheaper-or-free-1849097965)
+- [Dev.to/JS] [Must use import to load ES Module Error in AWS Pipeline](https://dev.to/vchaurasia95/must-use-import-to-load-es-module-error-4ho8)
 - [Lifehacker] [The States With the Highest Home Vacancy Rates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-states-with-the-highest-home-vacancy-rates-and-why-1849097184)
 - [Dev.to/JS] [Should I write a new JavaScript framework?](https://dev.to/whitep4nth3r/should-i-write-a-new-javascript-framework-199)
 - [Dev.to/JS] [Paracetamol.js💊| #151: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-151-explica-este-codigo-javascript-41hf)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Infinite grid](https://dev.to/mortis_666/infinite-grid-3656)
 - [Lifehacker] [How to Stop a Panic Attack With Frozen Meat](https://lifehacker.com/how-to-stop-a-panic-attack-with-frozen-meat-1849094302)
 - [Dev.to/JS] [Link: When You Should Prefer Map Over Object In JavaScript](https://dev.to/jesterxl/link-when-you-should-prefer-map-over-object-in-javascript-3cnh)
-- [Dev.to/JS] [Fusion Charts | Made with Vue JS](https://dev.to/madewithjavascript/fusion-charts-made-with-vue-js-1ge)
-- [Dev.to/JS] [Create A Popover In Svelte](https://dev.to/daviddalbusco/create-a-popover-in-svelte-2ofn)
 - [Lifehacker] [How to Get a Rub to Stick to Your Meat](https://lifehacker.com/how-to-get-a-rub-to-stick-to-your-meat-1849096219)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Check If Your New Circuit Breaker Is Part of This Serious Recall](https://lifehacker.com/check-if-your-new-circuit-breaker-is-part-of-this-serio-1849092339)
 - [Lifehacker] [How to Finally Hide Your WhatsApp &#39;Last Seen&#39; Status From Specific People](https://lifehacker.com/how-to-finally-hide-your-whatsapp-last-seen-status-from-1849092145)
 - [Lifehacker] [What&#39;s New on Disney+ in July 2022](https://lifehacker.com/whats-new-on-disney-in-july-2022-1849092538)
-- [Lifehacker] [Why You Shouldn’t Call Your Partner &#39;Needy&#39;](https://lifehacker.com/why-you-shouldn-t-call-your-partner-needy-1849076984)
-- [Lifehacker] [14 Things You Should Always Have on Hand for Overnight Guests](https://lifehacker.com/14-things-you-should-always-have-on-hand-for-overnight-1849090450)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
