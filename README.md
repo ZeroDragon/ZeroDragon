@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fleet | Made with Next JS](https://dev.to/madewithjavascript/fleet-made-with-next-js-58mn)
+- [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
+- [Dev.to/JS] [How to monitor ETH Transactions using Web3.js](https://dev.to/mihaiandrei97/how-to-monitor-eth-transactions-using-web3js-46p7)
 - [Dev.to/JS] [Five things I wish I knew before starting serious development &lpar;a journey into code perfection&rpar;](https://dev.to/dcichorski/five-things-i-wish-i-knew-before-starting-serious-development-a-journey-into-code-perfection-2e3j)
 - [Dev.to/JS] [cdpap home care agency](https://dev.to/axzonshomecare04/cdpap-home-care-agency-3ldp)
 - [Dev.to/JS] [Jest Tutorial For Beginners: Introduction [1/5]](https://dev.to/abidullah786/jest-tutorial-for-beginners-introduction-15-10im)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reason Why You Should Timely Migrate Your Online Store To Another eCommerce Solution](https://dev.to/maryajames/reason-why-you-should-timely-migrate-your-online-store-to-another-ecommerce-solution-4l19)
 - [Dev.to/JS] [Build React Pagination using React Paginate](https://dev.to/jps27cse/build-react-pagination-using-react-paginate-1lal)
 - [Dev.to/JS] [Re-creating Apple’s Dark Mode Icon](https://dev.to/madsstoumann/re-creating-apples-dark-mode-icon-199j)
-- [Dev.to/JS] [How to Use SWR with React](https://dev.to/ahmedmohmd/how-to-use-useswr-hook-with-react-1dij)
-- [Dev.to/JS] [Between python and javascript which one should I focus on?](https://dev.to/umeya_kassim/between-python-and-javascript-which-one-should-i-forcus-on-io2)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
 - [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
 - [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Day Drink Without Overdoing It](https://lifehacker.com/how-to-day-drink-without-overdoing-it-1849090132)
 - [Lifehacker] [What to Say When a Cop Asks to Search Your Vehicle](https://lifehacker.com/what-to-say-when-a-cop-asks-to-search-your-vehicle-1849090424)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
-- [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)
-- [Crazy Programmer] [Components of Computer Network](https://www.thecrazyprogrammer.com/2022/06/components-of-computer-network.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
 ---
 
