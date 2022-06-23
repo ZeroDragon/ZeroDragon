@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chakra-UI + Next.js - Breaking React &quot;Rules&quot;](https://dev.to/riceboyler/chakra-ui-nextjs-breaking-react-rules-2g01)
+- [Lifehacker] [This One Ingredient Will Make Your Mayo More Dippable](https://lifehacker.com/this-one-ingredient-will-make-your-mayo-more-dippable-1849100379)
+- [Dev.to/JS] [Beginner React Mistakes](https://dev.to/rstarksmith/beginner-react-mistakes-a46)
+- [Lifehacker] [How to Do Your Own Basic Bike Maintenance](https://lifehacker.com/how-to-do-your-own-basic-bike-maintenance-1849097471)
 - [Lifehacker] [What to Do When There’s No Toilet Paper in a Public Restroom](https://lifehacker.com/what-to-do-when-there-s-no-toilet-paper-in-a-public-res-1849098841)
 - [Dev.to/JS] [convert your website to android app from your mobile in a few minutes](https://dev.to/amreldessouki/convert-your-website-to-android-app-from-your-mobile-in-a-few-minutes-2457)
 - [Lifehacker] [25 Fake Fan-Made Trailers Better Than Real Movies](https://lifehacker.com/25-fake-fan-made-trailers-better-than-real-movies-1849093910)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Your First React App?!](https://dev.to/dedomil/your-first-react-app-5021)
 - [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — A Very Big Sum](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-a-very-big-sum-4h64)
 - [Lifehacker] [How to Date Someone Who&#39;s in an Open Relationship](https://lifehacker.com/how-to-date-someone-whos-in-an-open-relationship-1849095029)
-- [Dev.to/JS] [Split commands and options from CLI](https://dev.to/luctst/split-commands-and-options-from-cli-203l)
-- [Dev.to/JS] [Infinite grid](https://dev.to/mortis_666/infinite-grid-3656)
 - [Lifehacker] [How to Stop a Panic Attack With Frozen Meat](https://lifehacker.com/how-to-stop-a-panic-attack-with-frozen-meat-1849094302)
 - [Lifehacker] [How to Get a Rub to Stick to Your Meat](https://lifehacker.com/how-to-get-a-rub-to-stick-to-your-meat-1849096219)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This App to Watch YouTube Videos on Your Apple Watch](https://lifehacker.com/use-this-app-to-watch-youtube-videos-on-your-apple-watc-1849092759)
 - [Lifehacker] [The Best and Worst Times to Drive This 4th of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-this-4th-of-july-week-1849092740)
 - [Lifehacker] [How to Make a Textured Accent Wall With Limewash](https://lifehacker.com/how-to-make-a-textured-accent-wall-with-limewash-1849091886)
-- [Lifehacker] [Check If Your New Circuit Breaker Is Part of This Serious Recall](https://lifehacker.com/check-if-your-new-circuit-breaker-is-part-of-this-serio-1849092339)
-- [Lifehacker] [How to Finally Hide Your WhatsApp &#39;Last Seen&#39; Status From Specific People](https://lifehacker.com/how-to-finally-hide-your-whatsapp-last-seen-status-from-1849092145)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
