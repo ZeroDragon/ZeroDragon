@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Seu código vai quebrar se você não usar this. nesse caso &lpar;Java Script&rpar;](https://dev.to/gabrielalvino/seu-codigo-vai-quebrar-se-voce-nao-usar-this-nesse-caso-java-script-of2)
 - [Dev.to/JS] [How to secure our react website source code?](https://dev.to/gauravsoni97/how-to-secure-our-react-website-source-code-2fne)
 - [Dev.to/JS] [Differences between Promises and async / await in Javascript](https://dev.to/hamzaelmoualed/differences-between-promises-and-async-await-in-javascript-3dni)
 - [Dev.to/JS] [APIs relacionados con Audio, Poderes secretos web.](https://dev.to/jmrsuarez/apis-relacionados-con-audio-poderes-secretos-web-5e88)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Palindrome Scanner Using JavaScript](https://dev.to/xinnks/palindrome-scanner-using-javascript-4i1a)
 - [Dev.to/JS] [Use fake static classes to protect your namespace &lpar;js/ts&rpar;](https://dev.to/qpwo/use-fake-static-classes-to-protect-your-namespace-jsts-2pfd)
 - [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
-- [Dev.to/JS] [Display json data in html table using jquery ajax](https://dev.to/kodwings/display-json-data-in-html-table-using-jquery-ajax-2f92)
 - [Lifehacker] [What&#39;s New on Hulu in July 2022](https://lifehacker.com/whats-new-on-hulu-in-july-2022-1849095278)
 - [Lifehacker] [How to Find a Good Apartment in a Bad Housing Market, According to Reddit](https://lifehacker.com/how-to-find-a-good-apartment-in-a-bad-housing-market-a-1849094224)
 - [Lifehacker] [How to Choose Your Group Vacation Without Being a Jerk](https://lifehacker.com/how-to-choose-your-group-vacation-without-being-an-assh-1849094367)
