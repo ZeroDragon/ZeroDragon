@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Sabes cuanto mide un &quot;CSS Pixel&quot;?](https://dev.to/jmrsuarez/css-pixel-4g7i)
 - [Dev.to/JS] [Authentication and DB access with Next, Prisma, and MongoDB](https://dev.to/asayerio_techblog/authentication-and-db-access-with-next-prisma-and-mongodb-2gp2)
 - [Dev.to/JS] [Kelsey Hightower&#39;s #Codeland22 Keynote: My 5 Takeaways on Building Meaningful Careers](https://dev.to/nitya/kelsey-hightowers-codeland22-keynote-my-5-takeaways-on-building-meaningful-careers-2olk)
 - [Dev.to/JS] [Code Smell 143 - Data Clumps](https://dev.to/mcsee/code-smell-143-data-clumps-52f6)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Monkey Stone Js](https://dev.to/toutpuissantged/monkey-stone-js-22j1)
 - [Lifehacker] [How to Choose Your Group Vacation Without Being a Jerk](https://lifehacker.com/how-to-choose-your-group-vacation-without-being-an-assh-1849094367)
 - [Dev.to/JS] [Here&#39;s my TOP Landing Page Project](https://dev.to/taepal467/heres-my-top-landing-page-project-56b1)
-- [Dev.to/JS] [Best way to learn Closure in JavaScript ?](https://dev.to/mnathani/best-way-to-learn-closure-in-javascript--29dp)
 - [Lifehacker] [Take These Shortcake Fixings Along When You Go Berry-Picking](https://lifehacker.com/take-these-shortcake-fixings-along-when-you-go-berry-pi-1849094307)
 - [Lifehacker] [Lifehacker vs. Lea DeLaria](https://lifehacker.com/lifehacker-vs-lea-delaria-1849093598)
 - [Lifehacker] [YouTube Has a Hidden List of Keyboard Shortcuts](https://lifehacker.com/youtube-has-a-hidden-list-of-keyboard-shortcuts-1849093707)
