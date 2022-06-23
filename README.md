@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Authentication and DB access with Next, Prisma, and MongoDB](https://dev.to/asayerio_techblog/authentication-and-db-access-with-next-prisma-and-mongodb-2gp2)
+- [Dev.to/JS] [Kelsey Hightower&#39;s #Codeland22 Keynote: My 5 Takeaways on Building Meaningful Careers](https://dev.to/nitya/kelsey-hightowers-codeland22-keynote-my-5-takeaways-on-building-meaningful-careers-2olk)
 - [Dev.to/JS] [Code Smell 143 - Data Clumps](https://dev.to/mcsee/code-smell-143-data-clumps-52f6)
 - [Dev.to/JS] [Speech-to-text with Deepgram](https://dev.to/nickytonline/speech-to-text-with-deepgram-2b6i)
 - [Dev.to/JS] [A debounced function call with JavaScript in a vue app](https://dev.to/readwarn/a-debounced-function-call-with-javascript-in-a-vue-app-3f69)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Here&#39;s my TOP Landing Page Project](https://dev.to/taepal467/heres-my-top-landing-page-project-56b1)
 - [Dev.to/JS] [Best way to learn Closure in JavaScript ?](https://dev.to/mnathani/best-way-to-learn-closure-in-javascript--29dp)
 - [Lifehacker] [Take These Shortcake Fixings Along When You Go Berry-Picking](https://lifehacker.com/take-these-shortcake-fixings-along-when-you-go-berry-pi-1849094307)
-- [Dev.to/JS] [React Native - How to approach design collaboration with Figma](https://dev.to/alexandrughinea/react-native-how-to-approach-design-collaboration-with-figma-4pnf)
-- [Dev.to/JS] [Fast stories powered by Vite; Histoire — Vue Amsterdam Conference 2022 Summary series — Third Talk](https://dev.to/mohsen_vaziri/fast-stories-powered-by-vite-histoire-vue-amsterdam-conference-2022-summary-series-third-talk-543n)
 - [Lifehacker] [Lifehacker vs. Lea DeLaria](https://lifehacker.com/lifehacker-vs-lea-delaria-1849093598)
 - [Lifehacker] [YouTube Has a Hidden List of Keyboard Shortcuts](https://lifehacker.com/youtube-has-a-hidden-list-of-keyboard-shortcuts-1849093707)
 - [Lifehacker] [Ask Yourself These Questions Before Committing to a Much Younger Partner](https://lifehacker.com/ask-yourself-these-questions-before-committing-to-a-muc-1849068844)
