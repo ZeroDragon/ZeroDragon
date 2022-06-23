@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Understanding useEffect&lpar;&rpar; lifeCycle hook in React with Examples](https://dev.to/muneebejaz/understanding-useeffect-lifecycle-hook-in-react-with-examples-47g3)
+- [Lifehacker] [You Can Block Specific iPhone Contacts From Seeing Your ‘Focus’ Status](https://lifehacker.com/you-can-block-specific-iphone-contacts-from-seeing-your-1849099491)
+- [Lifehacker] [The Gym ‘Rules’ Teens Need to Learn Before They Get Their First Membership](https://lifehacker.com/the-gym-rules-teens-need-to-learn-before-they-get-the-1849095197)
 - [Dev.to/JS] [Chakra-UI + Next.js - Breaking React &quot;Rules&quot;](https://dev.to/riceboyler/chakra-ui-nextjs-breaking-react-rules-2g01)
 - [Lifehacker] [This One Ingredient Will Make Your Mayo More Dippable](https://lifehacker.com/this-one-ingredient-will-make-your-mayo-more-dippable-1849100379)
 - [Dev.to/JS] [Beginner React Mistakes](https://dev.to/rstarksmith/beginner-react-mistakes-a46)
@@ -43,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [329. Longest Increasing Path in a Matrix 🚀](https://dev.to/samuelhinchliffe/329-longest-increasing-path-in-a-matrix-1opa)
 - [Lifehacker] [How to Make a Duckling Think You&#39;re Its Mother](https://lifehacker.com/how-to-make-a-duckling-think-youre-its-mother-1849095859)
 - [Dev.to/JS] [Your First React App?!](https://dev.to/dedomil/your-first-react-app-5021)
-- [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — A Very Big Sum](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-a-very-big-sum-4h64)
 - [Lifehacker] [How to Date Someone Who&#39;s in an Open Relationship](https://lifehacker.com/how-to-date-someone-whos-in-an-open-relationship-1849095029)
 - [Lifehacker] [How to Stop a Panic Attack With Frozen Meat](https://lifehacker.com/how-to-stop-a-panic-attack-with-frozen-meat-1849094302)
 - [Lifehacker] [How to Get a Rub to Stick to Your Meat](https://lifehacker.com/how-to-get-a-rub-to-stick-to-your-meat-1849096219)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [YouTube Has a Hidden List of Keyboard Shortcuts](https://lifehacker.com/youtube-has-a-hidden-list-of-keyboard-shortcuts-1849093707)
 - [Lifehacker] [Ask Yourself These Questions Before Committing to a Much Younger Partner](https://lifehacker.com/ask-yourself-these-questions-before-committing-to-a-muc-1849068844)
 - [Lifehacker] [Use This App to Watch YouTube Videos on Your Apple Watch](https://lifehacker.com/use-this-app-to-watch-youtube-videos-on-your-apple-watc-1849092759)
-- [Lifehacker] [The Best and Worst Times to Drive This 4th of July Weekend, According to AAA](https://lifehacker.com/the-best-and-worst-times-to-drive-this-4th-of-july-week-1849092740)
-- [Lifehacker] [How to Make a Textured Accent Wall With Limewash](https://lifehacker.com/how-to-make-a-textured-accent-wall-with-limewash-1849091886)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
