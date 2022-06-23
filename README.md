@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
+- [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Dev.to/JS] [An extensive guide to build your NPM package and publish it.](https://dev.to/shreyazz/an-extensive-guide-to-building-your-npm-package-and-publishing-it-29k3)
 - [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
 - [Dev.to/JS] [¿Cómo crear un buscador con efecto &quot;debounce&quot;? 🔎](https://dev.to/franklin030601/como-crear-un-buscador-con-efecto-debounce-4jcp)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
 - [Lifehacker] [What&#39;s New on Hulu in July 2022](https://lifehacker.com/whats-new-on-hulu-in-july-2022-1849095278)
 - [Lifehacker] [How to Find a Good Apartment in a Bad Housing Market, According to Reddit](https://lifehacker.com/how-to-find-a-good-apartment-in-a-bad-housing-market-a-1849094224)
-- [Lifehacker] [How to Choose Your Group Vacation Without Being a Jerk](https://lifehacker.com/how-to-choose-your-group-vacation-without-being-an-assh-1849094367)
-- [Lifehacker] [Take These Shortcake Fixings Along When You Go Berry-Picking](https://lifehacker.com/take-these-shortcake-fixings-along-when-you-go-berry-pi-1849094307)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
