@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Crushing Job Interviews&lpar;DSA&rpar; - Two Number Sum](https://dev.to/dhruvindev/crushing-job-interviewsdsa-two-number-sum-2joa)
+- [Dev.to/JS] [Quick branded light and dark modes with Fluent UI React v9](https://dev.to/paulgildea/quick-branded-light-and-dark-modes-with-fluent-ui-react-v9-1pe6)
+- [Dev.to/JS] [5x10 CNC Router Machine for Cabinets Making](https://dev.to/acctek/5x10-cnc-router-machine-for-cabinets-making-ndl)
 - [Dev.to/JS] [Reason Why You Should Timely Migrate Your Online Store To Another eCommerce Solution](https://dev.to/maryajames/reason-why-you-should-timely-migrate-your-online-store-to-another-ecommerce-solution-4l19)
 - [Dev.to/JS] [Build React Pagination using React Paginate](https://dev.to/jps27cse/build-react-pagination-using-react-paginate-1lal)
 - [Dev.to/JS] [How to Use SWR with React](https://dev.to/ahmedmohmd/how-to-use-useswr-hook-with-react-1dij)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to read and write files in JavaScript](https://dev.to/rahulbanerjee99/how-to-read-and-write-files-in-javascript-257h)
 - [Dev.to/JS] [How much HTML &amp; CSS should you know before learning JavaScript? 🤔](https://dev.to/rammcodes/how-much-html-css-should-you-know-before-learning-javascript-2njd)
 - [Dev.to/JS] [Seu código vai quebrar se você não usar this. nesse caso &lpar;Java Script&rpar;](https://dev.to/gabrielalvino/seu-codigo-vai-quebrar-se-voce-nao-usar-this-nesse-caso-java-script-of2)
-- [Dev.to/JS] [How to secure our react website source code?](https://dev.to/gauravsoni97/how-to-secure-our-react-website-source-code-2fne)
-- [Dev.to/JS] [Differences between Promises and async / await in Javascript](https://dev.to/hamzaelmoualed/differences-between-promises-and-async-await-in-javascript-3dni)
-- [Dev.to/JS] [APIs relacionados con Audio, Poderes secretos web.](https://dev.to/jmrsuarez/apis-relacionados-con-audio-poderes-secretos-web-5e88)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
 - [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
 - [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
