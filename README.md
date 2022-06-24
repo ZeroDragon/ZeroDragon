@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Destructuring in Javascript](https://dev.to/deepachaurasia1/destructuring-in-javascript-2p8a)
 - [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Dev.to/JS] [An extensive guide to build your NPM package and publish it.](https://dev.to/shreyazz/an-extensive-guide-to-building-your-npm-package-and-publishing-it-29k3)
@@ -47,7 +48,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 Fake Fan-Made Trailers Better Than Real Movies](https://lifehacker.com/25-fake-fan-made-trailers-better-than-real-movies-1849093910)
 - [Dev.to/JS] [Persisted State for Vuex](https://dev.to/ahmetilhan24/persisted-state-for-vuex-23id)
 - [Lifehacker] [These G Suite Alternatives Are Cheaper or Free](https://lifehacker.com/these-g-suite-alternatives-are-cheaper-or-free-1849097965)
-- [Dev.to/JS] [Must use import to load ES Module Error in AWS Pipeline](https://dev.to/vchaurasia95/must-use-import-to-load-es-module-error-4ho8)
 - [Lifehacker] [The States With the Highest Home Vacancy Rates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-states-with-the-highest-home-vacancy-rates-and-why-1849097184)
 - [Lifehacker] [Here’s How to Make Sense of All the New ‘Final Fantasy VII’ Games](https://lifehacker.com/here-s-how-to-make-sense-of-all-the-new-final-fantasy-1849095769)
 - [Lifehacker] [What Are Your Best Survival Strategies for Parenting While Sick?](https://lifehacker.com/what-are-your-best-survival-strategies-for-parenting-wh-1849096020)
