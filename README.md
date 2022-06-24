@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 10 trending github repos of the week⚽.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-1o9b)
+- [Dev.to/JS] [Monitoring a full-stack Nodejs application with open-source tools](https://dev.to/signoz/monitoring-a-full-stack-nodejs-application-with-open-source-tools-3bjj)
 - [Dev.to/JS] [JavaScript is not an untyped language](https://dev.to/miguelmj/javascript-is-not-an-untyped-language-1jkg)
 - [Dev.to/JS] [Send SMS with Node.js App](https://dev.to/sujeetgund/send-sms-with-nodejs-app-1c38)
 - [Dev.to/JS] [Anyone completed the 30 days of coding challenge in javascript](https://dev.to/mohitbilala/anyone-completed-the-30-days-of-coding-challenge-in-javascript-2fb8)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Project Management Site Review](https://dev.to/shalomking/project-management-site-review-11i2)
 - [Dev.to/JS] [How to handle same endpoints with different http methods ??](https://dev.to/rishabh0906/how-to-handle-same-endpoints-with-different-http-methods--4egg)
 - [Dev.to/JS] [How Laravel Version 9 is Better Than Laravel Version 8](https://dev.to/store_emart/how-laravel-version-9-is-better-than-laravel-version-8-2i1o)
-- [Dev.to/JS] [Counter App in Open Harmony](https://dev.to/applibgroup/counter-app-in-open-harmony-1khe)
-- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-4.2 &lpar; Backend Error Handler {asynchronous} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-42-backend-error-handler-asynchronous--475l)
 - [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
