@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Your Marshmallows From Getting Stale](https://lifehacker.com/how-to-stop-your-marshmallows-from-getting-stale-1849106190)
+- [Lifehacker] [Why You Probably Shouldn&#39;t Pay for Telegram Premium](https://lifehacker.com/why-you-probably-shouldnt-pay-for-telegram-premium-1849104588)
+- [Dev.to/JS] [Super flexible container](https://dev.to/sitonimbus/super-flexible-container-11kc)
 - [Lifehacker] [Three Ways to Lower Your Cell Phone Bill Right Now](https://lifehacker.com/three-ways-to-lower-your-cell-phone-bill-right-now-1849105105)
 - [Dev.to/JS] [Working with emits in Vue 3 + Typescript](https://dev.to/caio2k/working-with-emits-in-vue-3-typescript-2a1j)
 - [Dev.to/JS] [NPM - CLI tool to generate .gitignore file](https://dev.to/luctst/npm-cli-tool-to-generate-gitignore-file-am7)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Missing Introduction To React](https://dev.to/khansa/missing-introduction-to-react-2ddo)
 - [Dev.to/JS] [Javasc-ordle, making a JS function guessing game with React](https://dev.to/codesphere/javasc-ordle-making-a-js-function-guessing-game-with-react-33fl)
 - [Lifehacker] [What&#39;s a Good Resting Heart Rate, Anyway?](https://lifehacker.com/whats-a-good-resting-heart-rate-anyway-1849102456)
-- [Dev.to/JS] [Haha.me | Made with Next JS](https://dev.to/madewithjavascript/hahame-made-with-next-js-51e3)
 - [Lifehacker] [These Free Store Loyalty Programs Are Actually Worth Signing Up For](https://lifehacker.com/these-store-loyalty-programs-are-actually-worth-signing-1849101510)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who &lpar;or What&rpar; Is Horace?](https://lifehacker.com/who-or-what-is-horace-1849102989)
 - [Lifehacker] [Everything You Should Do to Keep Your Lawnmower Running All Summer](https://lifehacker.com/everything-you-should-do-to-keep-your-lawnmower-running-1849102625)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [25 Fake Fan-Made Trailers Better Than Real Movies](https://lifehacker.com/25-fake-fan-made-trailers-better-than-real-movies-1849093910)
 - [Lifehacker] [These G Suite Alternatives Are Cheaper or Free](https://lifehacker.com/these-g-suite-alternatives-are-cheaper-or-free-1849097965)
 - [Lifehacker] [The States With the Highest Home Vacancy Rates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-states-with-the-highest-home-vacancy-rates-and-why-1849097184)
-- [Lifehacker] [Here’s How to Make Sense of All the New ‘Final Fantasy VII’ Games](https://lifehacker.com/here-s-how-to-make-sense-of-all-the-new-final-fantasy-1849095769)
-- [Lifehacker] [What Are Your Best Survival Strategies for Parenting While Sick?](https://lifehacker.com/what-are-your-best-survival-strategies-for-parenting-wh-1849096020)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
