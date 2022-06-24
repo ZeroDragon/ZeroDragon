@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Counter App in Open Harmony](https://dev.to/applibgroup/counter-app-in-open-harmony-1khe)
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-4.2 &lpar; Backend Error Handler {asynchronous} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-42-backend-error-handler-asynchronous--475l)
+- [Dev.to/JS] [Custom React Hook to Check Nested Child Component Types](https://dev.to/ozanyurtsever/custom-react-hook-to-check-nested-child-component-types-4dd9)
 - [Dev.to/JS] [When to &lpar;Not&rpar; Use React Context API for State?](https://dev.to/jannikwempe/when-to-not-use-react-context-api-for-state-4g2n)
 - [Dev.to/JS] [Gettin Started With &lpar;Arrow&rpar;=&gt; Functions](https://dev.to/catchthembodies/gettin-started-with-arrow-functions-274k)
 - [Dev.to/JS] [Say Goodbye to console.log from Production environment](https://dev.to/gulshanaggarwal/say-goodbye-to-consolelog-from-production-environment-5382)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Remove Elements From Array In Javascript](https://dev.to/techsolutionstuff/how-to-remove-elements-from-array-in-javascript-1d8d)
 - [Dev.to/JS] [Leverage data from RapidApi using Redux Toolkit](https://dev.to/asayerio_techblog/leverage-data-from-rapidapi-using-redux-toolkit-1emo)
 - [Dev.to/JS] [[dagger-demo] Tic Tac Toe](https://dev.to/dagger8224/dagger-demo-tic-tac-toe-1pf8)
-- [Dev.to/JS] [Chrome Extension Could Be Your Starter IT Project to Make Passive income](https://dev.to/caopengau/chrome-extension-could-be-your-starter-it-project-to-make-passive-income-3ico)
-- [Dev.to/JS] [A Step-by-Step Guide on Building a Passive Income Stream from Telegram Bot](https://dev.to/caopengau/a-step-by-step-guide-on-building-a-passive-income-stream-from-telegram-bot-3kcj)
-- [Dev.to/JS] [JavaScript objects in depth.](https://dev.to/aamchora/javascript-objects-in-depth-5g71)
 - [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
