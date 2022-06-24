@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Haha.me | Made with Next JS](https://dev.to/madewithjavascript/hahame-made-with-next-js-51e3)
+- [Dev.to/JS] [InboxPro | Made with Angular JS](https://dev.to/madewithjavascript/inboxpro-made-with-angular-js-3mjo)
+- [Dev.to/JS] [Simple Homemade Loading Screen in React](https://dev.to/angelinawhite/simple-homemade-loading-screen-in-react-250c)
+- [Dev.to/JS] [Reng Player and how it&#39;s different](https://dev.to/amirition/reng-player-and-how-its-different-49i2)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who &lpar;or What&rpar; Is Horace?](https://lifehacker.com/who-or-what-is-horace-1849102989)
+- [Dev.to/JS] [Working with props declaration in Vue 3 + Typescript](https://dev.to/caio2k/working-with-props-declaration-in-vue-3-ts-included-4o4f)
 - [Lifehacker] [Everything You Should Do to Keep Your Lawnmower Running All Summer](https://lifehacker.com/everything-you-should-do-to-keep-your-lawnmower-running-1849102625)
 - [Dev.to/JS] [Optional Chaining: Uses &amp; Limits](https://dev.to/oculus42/optional-chaining-uses-limits-5bk8)
 - [Lifehacker] [What to Do When Your Dishwasher Isn’t Draining](https://lifehacker.com/what-to-do-when-your-dishwasher-isn-t-draining-1849101679)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Make Adaptive Card Color Depending On Image Background](https://dev.to/mcanam/how-to-make-adaptive-card-color-depending-on-image-background-555b)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-4.1 &lpar; Backend Error Handler {More Errors} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-41-backend-error-handler-more-errors--1001)
 - [Dev.to/JS] [Top 10 trending github repos of the week⚽.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-1o9b)
-- [Dev.to/JS] [Monitoring a full-stack Nodejs application with open-source tools](https://dev.to/signoz/monitoring-a-full-stack-nodejs-application-with-open-source-tools-3bjj)
-- [Dev.to/JS] [JavaScript is not an untyped language](https://dev.to/miguelmj/javascript-is-not-an-untyped-language-1jkg)
-- [Dev.to/JS] [Send SMS with Node.js App](https://dev.to/sujeetgund/send-sms-with-nodejs-app-1c38)
-- [Dev.to/JS] [Anyone completed the 30 days of coding challenge in javascript](https://dev.to/mohitbilala/anyone-completed-the-30-days-of-coding-challenge-in-javascript-2fb8)
-- [Dev.to/JS] [How to mock AWS SDK with Jest](https://dev.to/ritaly/how-to-mock-aws-sdk-with-jest-361j)
 - [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Rub to Stick to Your Meat](https://lifehacker.com/how-to-get-a-rub-to-stick-to-your-meat-1849096219)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Lifehacker] [Sellers Are Already Lowering Home Prices in These Cities](https://lifehacker.com/sellers-are-already-lowering-home-prices-in-these-citie-1849094355)
-- [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
