@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chrome Extension Could Be Your Starter IT Project to Make Passive income](https://dev.to/caopengau/chrome-extension-could-be-your-starter-it-project-to-make-passive-income-3ico)
+- [Dev.to/JS] [A Step-by-Step Guide on Building a Passive Income Stream from Telegram Bot](https://dev.to/caopengau/a-step-by-step-guide-on-building-a-passive-income-stream-from-telegram-bot-3kcj)
 - [Dev.to/JS] [JavaScript objects in depth.](https://dev.to/aamchora/javascript-objects-in-depth-5g71)
 - [Dev.to/JS] [Copywriting Prompts | Made with Next JS](https://dev.to/madewithjavascript/copywriting-prompts-made-with-next-js-4gpf)
 - [Dev.to/JS] [Destructuring in Javascript](https://dev.to/deepachaurasia1/destructuring-in-javascript-2p8a)
@@ -41,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Understanding useEffect&lpar;&rpar; lifeCycle hook in React with Examples](https://dev.to/muneebejaz/understanding-useeffect-lifecycle-hook-in-react-with-examples-47g3)
 - [Lifehacker] [You Can Block Specific iPhone Contacts From Seeing Your ‘Focus’ Status](https://lifehacker.com/you-can-block-specific-iphone-contacts-from-seeing-your-1849099491)
 - [Lifehacker] [The Gym ‘Rules’ Teens Need to Learn Before They Get Their First Membership](https://lifehacker.com/the-gym-rules-teens-need-to-learn-before-they-get-the-1849095197)
-- [Dev.to/JS] [Chakra-UI + Next.js - Breaking React &quot;Rules&quot;](https://dev.to/riceboyler/chakra-ui-nextjs-breaking-react-rules-2g01)
 - [Lifehacker] [This One Ingredient Will Make Your Mayo More Dippable](https://lifehacker.com/this-one-ingredient-will-make-your-mayo-more-dippable-1849100379)
-- [Dev.to/JS] [Beginner React Mistakes](https://dev.to/rstarksmith/beginner-react-mistakes-a46)
 - [Lifehacker] [How to Do Your Own Basic Bike Maintenance](https://lifehacker.com/how-to-do-your-own-basic-bike-maintenance-1849097471)
 - [Lifehacker] [What to Do When There’s No Toilet Paper in a Public Restroom](https://lifehacker.com/what-to-do-when-there-s-no-toilet-paper-in-a-public-res-1849098841)
 - [Lifehacker] [25 Fake Fan-Made Trailers Better Than Real Movies](https://lifehacker.com/25-fake-fan-made-trailers-better-than-real-movies-1849093910)
