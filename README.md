@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript objects in depth.](https://dev.to/aamchora/javascript-objects-in-depth-5g71)
+- [Dev.to/JS] [Copywriting Prompts | Made with Next JS](https://dev.to/madewithjavascript/copywriting-prompts-made-with-next-js-4gpf)
 - [Dev.to/JS] [Destructuring in Javascript](https://dev.to/deepachaurasia1/destructuring-in-javascript-2p8a)
 - [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
@@ -44,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Beginner React Mistakes](https://dev.to/rstarksmith/beginner-react-mistakes-a46)
 - [Lifehacker] [How to Do Your Own Basic Bike Maintenance](https://lifehacker.com/how-to-do-your-own-basic-bike-maintenance-1849097471)
 - [Lifehacker] [What to Do When There’s No Toilet Paper in a Public Restroom](https://lifehacker.com/what-to-do-when-there-s-no-toilet-paper-in-a-public-res-1849098841)
-- [Dev.to/JS] [convert your website to android app from your mobile in a few minutes](https://dev.to/amreldessouki/convert-your-website-to-android-app-from-your-mobile-in-a-few-minutes-2457)
 - [Lifehacker] [25 Fake Fan-Made Trailers Better Than Real Movies](https://lifehacker.com/25-fake-fan-made-trailers-better-than-real-movies-1849093910)
-- [Dev.to/JS] [Persisted State for Vuex](https://dev.to/ahmetilhan24/persisted-state-for-vuex-23id)
 - [Lifehacker] [These G Suite Alternatives Are Cheaper or Free](https://lifehacker.com/these-g-suite-alternatives-are-cheaper-or-free-1849097965)
 - [Lifehacker] [The States With the Highest Home Vacancy Rates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-states-with-the-highest-home-vacancy-rates-and-why-1849097184)
 - [Lifehacker] [Here’s How to Make Sense of All the New ‘Final Fantasy VII’ Games](https://lifehacker.com/here-s-how-to-make-sense-of-all-the-new-final-fantasy-1849095769)
