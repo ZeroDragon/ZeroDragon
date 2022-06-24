@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [When to &lpar;Not&rpar; Use React Context API for State?](https://dev.to/jannikwempe/when-to-not-use-react-context-api-for-state-4g2n)
+- [Dev.to/JS] [Gettin Started With &lpar;Arrow&rpar;=&gt; Functions](https://dev.to/catchthembodies/gettin-started-with-arrow-functions-274k)
 - [Dev.to/JS] [Say Goodbye to console.log from Production environment](https://dev.to/gulshanaggarwal/say-goodbye-to-consolelog-from-production-environment-5382)
 - [Dev.to/JS] [Why is there hype around Module Federation](https://dev.to/burhanuday/why-is-there-hype-around-module-federation-1cc4)
 - [Dev.to/JS] [The Beginners Approach to Algorithm.](https://dev.to/janicera2880/the-beginners-approach-to-algorithm-1efj)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chrome Extension Could Be Your Starter IT Project to Make Passive income](https://dev.to/caopengau/chrome-extension-could-be-your-starter-it-project-to-make-passive-income-3ico)
 - [Dev.to/JS] [A Step-by-Step Guide on Building a Passive Income Stream from Telegram Bot](https://dev.to/caopengau/a-step-by-step-guide-on-building-a-passive-income-stream-from-telegram-bot-3kcj)
 - [Dev.to/JS] [JavaScript objects in depth.](https://dev.to/aamchora/javascript-objects-in-depth-5g71)
-- [Dev.to/JS] [Copywriting Prompts | Made with Next JS](https://dev.to/madewithjavascript/copywriting-prompts-made-with-next-js-4gpf)
-- [Dev.to/JS] [Destructuring in Javascript](https://dev.to/deepachaurasia1/destructuring-in-javascript-2p8a)
 - [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
