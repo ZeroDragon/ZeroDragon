@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Project Management Site Review](https://dev.to/shalomking/project-management-site-review-11i2)
 - [Dev.to/JS] [How to handle same endpoints with different http methods ??](https://dev.to/rishabh0906/how-to-handle-same-endpoints-with-different-http-methods--4egg)
 - [Dev.to/JS] [How Laravel Version 9 is Better Than Laravel Version 8](https://dev.to/store_emart/how-laravel-version-9-is-better-than-laravel-version-8-2i1o)
 - [Dev.to/JS] [Counter App in Open Harmony](https://dev.to/applibgroup/counter-app-in-open-harmony-1khe)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why is there hype around Module Federation](https://dev.to/burhanuday/why-is-there-hype-around-module-federation-1cc4)
 - [Dev.to/JS] [The Beginners Approach to Algorithm.](https://dev.to/janicera2880/the-beginners-approach-to-algorithm-1efj)
 - [Dev.to/JS] [“hi18n”, a TypeScript-first internationalization library — getting started guide](https://dev.to/wantedly/hi18n-a-typescript-first-internationalization-library-getting-started-guide-4cdl)
-- [Dev.to/JS] [How to Remove Elements From Array In Javascript](https://dev.to/techsolutionstuff/how-to-remove-elements-from-array-in-javascript-1d8d)
 - [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
