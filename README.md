@@ -23,10 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Youbified - Implementing a LiveStream API](https://dev.to/hermitex/youbified-a-web-app-to-manage-livestreams-3je2)
+- [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
 - [Dev.to/JS] [Paracetamol.js💊| #152: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-152-explica-este-codigo-javascript-4med)
 - [Lifehacker] [10 Ways to Make Chrome a Better Android Browser](https://lifehacker.com/10-ways-to-make-chrome-a-better-android-browser-1849103996)
-- [Lifehacker] [Finally, an Easier Way to Use Google Password Manager on Android](https://lifehacker.com/finally-an-easier-way-to-use-google-password-manager-o-1849099204)
 - [Dev.to/JS] [JS Básico - Estructura básica de una página web I.](https://dev.to/incuerd0/js-basico-estructura-basica-de-una-pagina-web-i-272l)
 - [Dev.to/JS] [Just Finished my 1st #100daysOfCode Challenge](https://dev.to/catevee/just-finished-my-1st-100daysofcode-challenge-37j0)
 - [Dev.to/JS] [DJ&#39;ing with different Tech Stacks.](https://dev.to/kritika27/djing-with-different-tech-stacks-1hdl)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Most Popular Programming Languages In Demand Right Now](https://dev.to/yashtiwari1k/5-most-popular-programming-languages-in-demand-right-now-3296)
 - [Dev.to/JS] [Why I chose flutter and you also should.](https://dev.to/bioleg/why-i-chose-flutter-and-you-also-should-59f5)
 - [Dev.to/JS] [React to Google Spreadsheets](https://dev.to/diethrone/react-to-google-spreadsheets-2in2)
-- [Dev.to/JS] [I developed a random quote generating app using react and api.adviceslip.com](https://dev.to/nikeshkumartk/i-developed-a-random-quote-generating-app-using-react-and-apiadviceslipcom-5646)
 - [Lifehacker] [What&#39;s New on HBO Max in July 2022](https://lifehacker.com/whats-new-on-hbo-max-in-july-2022-1849105041)
 - [Lifehacker] [What&#39;s a Good Resting Heart Rate, Anyway?](https://lifehacker.com/whats-a-good-resting-heart-rate-anyway-1849102456)
 - [Lifehacker] [These Free Store Loyalty Programs Are Actually Worth Signing Up For](https://lifehacker.com/these-store-loyalty-programs-are-actually-worth-signing-1849101510)
