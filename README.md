@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Print Matrix in form of a Spiral. Can you do it ? #exercise](https://dev.to/prateek951/print-matrix-in-form-of-a-spiral-can-you-do-it-exercise-50e8)
+- [Dev.to/JS] [Testing for Children Sum Property in a Binary Tree](https://dev.to/prateek951/testing-for-children-sum-property-in-a-binary-tree-4n15)
+- [Lifehacker] [What Are Your Unwritten Rules of Parking Lot Etiquette?](https://lifehacker.com/what-are-your-unwritten-rules-of-parking-lot-etiquette-1849099906)
+- [Dev.to/JS] [React Components](https://dev.to/naweli_verma/react-components-5gef)
+- [Dev.to/JS] [How To Make Adaptive Card Color Depending On Image Background](https://dev.to/mcanam/how-to-make-adaptive-card-color-depending-on-image-background-555b)
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-4.1 &lpar; Backend Error Handler {More Errors} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-41-backend-error-handler-more-errors--1001)
 - [Dev.to/JS] [Top 10 trending github repos of the week⚽.](https://dev.to/ksengine/top-10-trending-github-repos-of-the-week-1o9b)
 - [Dev.to/JS] [Monitoring a full-stack Nodejs application with open-source tools](https://dev.to/signoz/monitoring-a-full-stack-nodejs-application-with-open-source-tools-3bjj)
 - [Dev.to/JS] [JavaScript is not an untyped language](https://dev.to/miguelmj/javascript-is-not-an-untyped-language-1jkg)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Anyone completed the 30 days of coding challenge in javascript](https://dev.to/mohitbilala/anyone-completed-the-30-days-of-coding-challenge-in-javascript-2fb8)
 - [Dev.to/JS] [How to mock AWS SDK with Jest](https://dev.to/ritaly/how-to-mock-aws-sdk-with-jest-361j)
 - [Dev.to/JS] [https://www.facebook.com/ViaKetoGummiesAustraliaOfficial/](https://dev.to/gummketoviapp/httpswwwfacebookcomviaketogummiesaustraliaofficial-18pa)
-- [Dev.to/JS] [Working with JavaScript functions...](https://dev.to/keziahokyere41/working-with-javascript-functions-nig)
-- [Dev.to/JS] [Test Images in React with Jest](https://dev.to/robmarshall/test-images-in-react-with-jest-kc2)
-- [Dev.to/JS] [Project Management Site Review](https://dev.to/shalomking/project-management-site-review-11i2)
-- [Dev.to/JS] [How to handle same endpoints with different http methods ??](https://dev.to/rishabh0906/how-to-handle-same-endpoints-with-different-http-methods--4egg)
-- [Dev.to/JS] [How Laravel Version 9 is Better Than Laravel Version 8](https://dev.to/store_emart/how-laravel-version-9-is-better-than-laravel-version-8-2i1o)
 - [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Netflix in July 2022](https://lifehacker.com/whats-new-on-netflix-in-july-2022-1849095434)
 - [Lifehacker] [10 Exercise Videos for Super Beginners](https://lifehacker.com/10-exercise-videos-for-super-beginners-1849094703)
 - [Lifehacker] [What&#39;s New on Hulu in July 2022](https://lifehacker.com/whats-new-on-hulu-in-july-2022-1849095278)
-- [Lifehacker] [How to Find a Good Apartment in a Bad Housing Market, According to Reddit](https://lifehacker.com/how-to-find-a-good-apartment-in-a-bad-housing-market-a-1849094224)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
 
