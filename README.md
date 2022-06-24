@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React vs Angular: who wins?](https://dev.to/asayerio_techblog/react-vs-angular-who-wins-2gai)
 - [Dev.to/JS] [How to use Slots and Attrs with the Composition API](https://dev.to/zelig880/how-to-use-slots-and-attrs-with-the-composition-api-k75)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Dev.to/JS] [How to do API Testing using Mocha and Chai for JavaScript Applications](https://dev.to/shehanat/how-to-do-api-testing-using-mocha-and-chai-for-javascript-applications-4hhm)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working with emits in Vue 3 + Typescript](https://dev.to/caio2k/working-with-emits-in-vue-3-typescript-2a1j)
 - [Dev.to/JS] [NPM - CLI tool to generate .gitignore file](https://dev.to/luctst/npm-cli-tool-to-generate-gitignore-file-am7)
 - [Lifehacker] [How to Find a COVID Vaccine for Your Young Child](https://lifehacker.com/how-to-find-a-covid-vaccine-for-your-young-child-1849104900)
-- [Dev.to/JS] [5 Most Popular Programming Languages In Demand Right Now](https://dev.to/yashtiwari1k/5-most-popular-programming-languages-in-demand-right-now-3296)
 - [Lifehacker] [What&#39;s New on HBO Max in July 2022](https://lifehacker.com/whats-new-on-hbo-max-in-july-2022-1849105041)
 - [Lifehacker] [What&#39;s a Good Resting Heart Rate, Anyway?](https://lifehacker.com/whats-a-good-resting-heart-rate-anyway-1849102456)
 - [Lifehacker] [These Free Store Loyalty Programs Are Actually Worth Signing Up For](https://lifehacker.com/these-store-loyalty-programs-are-actually-worth-signing-1849101510)
