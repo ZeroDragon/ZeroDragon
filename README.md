@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
+- [Dev.to/JS] [Paracetamol.js💊| #152: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-152-explica-este-codigo-javascript-4med)
+- [Lifehacker] [10 Ways to Make Chrome a Better Android Browser](https://lifehacker.com/10-ways-to-make-chrome-a-better-android-browser-1849103996)
+- [Lifehacker] [Finally, an Easier Way to Use Google Password Manager on Android](https://lifehacker.com/finally-an-easier-way-to-use-google-password-manager-o-1849099204)
+- [Dev.to/JS] [JS Básico - Estructura básica de una página web I.](https://dev.to/incuerd0/js-basico-estructura-basica-de-una-pagina-web-i-272l)
+- [Dev.to/JS] [Just Finished my 1st #100daysOfCode Challenge](https://dev.to/catevee/just-finished-my-1st-100daysofcode-challenge-37j0)
+- [Dev.to/JS] [DJ&#39;ing with different Tech Stacks.](https://dev.to/kritika27/djing-with-different-tech-stacks-1hdl)
+- [Dev.to/JS] [Top Five Best Practices for JavaScript](https://dev.to/codiga/top-five-best-practices-for-javascript-gb4)
 - [Lifehacker] [How to Stop Your Marshmallows From Getting Stale](https://lifehacker.com/how-to-stop-your-marshmallows-from-getting-stale-1849106190)
 - [Lifehacker] [Why You Probably Shouldn&#39;t Pay for Telegram Premium](https://lifehacker.com/why-you-probably-shouldnt-pay-for-telegram-premium-1849104588)
 - [Dev.to/JS] [Super flexible container](https://dev.to/sitonimbus/super-flexible-container-11kc)
@@ -34,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why I chose flutter and you also should.](https://dev.to/bioleg/why-i-chose-flutter-and-you-also-should-59f5)
 - [Dev.to/JS] [React to Google Spreadsheets](https://dev.to/diethrone/react-to-google-spreadsheets-2in2)
 - [Dev.to/JS] [I developed a random quote generating app using react and api.adviceslip.com](https://dev.to/nikeshkumartk/i-developed-a-random-quote-generating-app-using-react-and-apiadviceslipcom-5646)
-- [Dev.to/JS] [Code with me: selectpicker and max options](https://dev.to/joolsmcfly/code-with-me-selectpicker-and-max-options-56i7)
 - [Lifehacker] [What&#39;s New on HBO Max in July 2022](https://lifehacker.com/whats-new-on-hbo-max-in-july-2022-1849105041)
-- [Dev.to/JS] [Setting up &amp; serving static files in ExpressJS](https://dev.to/dejiborewa/setting-up-serving-static-files-in-expressjs-36f4)
-- [Dev.to/JS] [Best NPM Package for React.js Part - 2](https://dev.to/muhammad_asif/best-npm-package-for-reactjs-part-2-5h0e)
-- [Dev.to/JS] [Missing Introduction To React](https://dev.to/khansa/missing-introduction-to-react-2ddo)
-- [Dev.to/JS] [Javasc-ordle, making a JS function guessing game with React](https://dev.to/codesphere/javasc-ordle-making-a-js-function-guessing-game-with-react-33fl)
 - [Lifehacker] [What&#39;s a Good Resting Heart Rate, Anyway?](https://lifehacker.com/whats-a-good-resting-heart-rate-anyway-1849102456)
 - [Lifehacker] [These Free Store Loyalty Programs Are Actually Worth Signing Up For](https://lifehacker.com/these-store-loyalty-programs-are-actually-worth-signing-1849101510)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who &lpar;or What&rpar; Is Horace?](https://lifehacker.com/who-or-what-is-horace-1849102989)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This One Ingredient Will Make Your Mayo More Dippable](https://lifehacker.com/this-one-ingredient-will-make-your-mayo-more-dippable-1849100379)
 - [Lifehacker] [How to Do Your Own Basic Bike Maintenance](https://lifehacker.com/how-to-do-your-own-basic-bike-maintenance-1849097471)
 - [Lifehacker] [What to Do When There’s No Toilet Paper in a Public Restroom](https://lifehacker.com/what-to-do-when-there-s-no-toilet-paper-in-a-public-res-1849098841)
-- [Lifehacker] [25 Fake Fan-Made Trailers Better Than Real Movies](https://lifehacker.com/25-fake-fan-made-trailers-better-than-real-movies-1849093910)
-- [Lifehacker] [These G Suite Alternatives Are Cheaper or Free](https://lifehacker.com/these-g-suite-alternatives-are-cheaper-or-free-1849097965)
-- [Lifehacker] [The States With the Highest Home Vacancy Rates &lpar;and Why It Matters&rpar;](https://lifehacker.com/the-states-with-the-highest-home-vacancy-rates-and-why-1849097184)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
