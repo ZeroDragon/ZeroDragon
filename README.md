@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Remove Elements From Array In Javascript](https://dev.to/techsolutionstuff/how-to-remove-elements-from-array-in-javascript-1d8d)
+- [Dev.to/JS] [Leverage data from RapidApi using Redux Toolkit](https://dev.to/asayerio_techblog/leverage-data-from-rapidapi-using-redux-toolkit-1emo)
+- [Dev.to/JS] [[dagger-demo] Tic Tac Toe](https://dev.to/dagger8224/dagger-demo-tic-tac-toe-1pf8)
 - [Dev.to/JS] [Chrome Extension Could Be Your Starter IT Project to Make Passive income](https://dev.to/caopengau/chrome-extension-could-be-your-starter-it-project-to-make-passive-income-3ico)
 - [Dev.to/JS] [A Step-by-Step Guide on Building a Passive Income Stream from Telegram Bot](https://dev.to/caopengau/a-step-by-step-guide-on-building-a-passive-income-stream-from-telegram-bot-3kcj)
 - [Dev.to/JS] [JavaScript objects in depth.](https://dev.to/aamchora/javascript-objects-in-depth-5g71)
@@ -36,11 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create a search engine with &quot;debounce effect&quot;? 🔎](https://dev.to/franklin030601/how-to-create-a-search-engine-with-debounce-effect-4hef)
 - [Lifehacker] [Surprising Foods You Can &lpar;and Can&#39;t&rpar; Take Through Airport Security](https://lifehacker.com/surprising-foods-you-can-and-cant-take-through-airpor-1849099435)
 - [Dev.to/JS] [Compress any data in JS with LZP3 &lpar;very powerful algorithm&rpar;.](https://dev.to/vipertechofficial/compress-any-data-in-js-with-lzp3-very-powerful-algorithm-2a0j)
-- [Dev.to/JS] [Add analytics to NextJS with Plausible.io](https://dev.to/dimitarstbc/add-analytics-to-nextjs-with-plausibleio-2g2a)
-- [Dev.to/JS] [Warning: Current Server Discovery and Monitoring engine](https://dev.to/robiulman/warning-current-server-discovery-and-monitoring-engine-56mm)
 - [Lifehacker] [What to Do If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-if-you-ever-get-fired-or-laid-off-1849101305)
 - [Lifehacker] [The Most Efficient Ways to Remove Food Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
-- [Dev.to/JS] [Understanding useEffect&lpar;&rpar; lifeCycle hook in React with Examples](https://dev.to/muneebejaz/understanding-useeffect-lifecycle-hook-in-react-with-examples-47g3)
 - [Lifehacker] [You Can Block Specific iPhone Contacts From Seeing Your ‘Focus’ Status](https://lifehacker.com/you-can-block-specific-iphone-contacts-from-seeing-your-1849099491)
 - [Lifehacker] [The Gym ‘Rules’ Teens Need to Learn Before They Get Their First Membership](https://lifehacker.com/the-gym-rules-teens-need-to-learn-before-they-get-the-1849095197)
 - [Lifehacker] [This One Ingredient Will Make Your Mayo More Dippable](https://lifehacker.com/this-one-ingredient-will-make-your-mayo-more-dippable-1849100379)
