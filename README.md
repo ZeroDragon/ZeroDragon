@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use React Props like a Pro !](https://dev.to/suchintan/use-react-props-like-a-pro--1gll)
+- [Dev.to/JS] [Decode a Legacy Website](https://dev.to/danielbellmas/decode-a-legacy-website-1ag1)
 - [Dev.to/JS] [Project Moon - GSAP Cursor Animation + Navigation Menu + WebGl Slider](https://dev.to/hr21don/project-moon-gsap-cursor-animation-navigation-menu-webgl-slider-57dh)
 - [Dev.to/JS] [Mtech Projects For ECE](https://dev.to/arunprakash142/mtech-projects-for-ece-3l78)
 - [Dev.to/JS] [Đất Nền Sổ Hồng](https://dev.to/datnensohong/dat-nen-so-hong-2jjb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Advanced customizations](https://dev.to/topcode007/advanced-customizations-n7l)
 - [Dev.to/JS] [Excluding certain paths](https://dev.to/topcode007/excluding-certain-paths-h62)
 - [Dev.to/JS] [Leveraging the ecosystem](https://dev.to/topcode007/leveraging-the-ecosystem-1kf)
-- [Dev.to/JS] [What is an XML Sitemap?](https://dev.to/topcode007/what-is-an-xml-sitemap-54aa)
-- [Dev.to/JS] [Improving Angular initial load time](https://dev.to/cristianflorincalina/improving-angular-initial-load-time-561a)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
