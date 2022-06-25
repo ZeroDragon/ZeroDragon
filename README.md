@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Project Moon - GSAP Cursor Animation + Navigation Menu + WebGl Slider](https://dev.to/hr21don/project-moon-gsap-cursor-animation-navigation-menu-webgl-slider-57dh)
 - [Dev.to/JS] [Mtech Projects For ECE](https://dev.to/arunprakash142/mtech-projects-for-ece-3l78)
 - [Dev.to/JS] [Đất Nền Sổ Hồng](https://dev.to/datnensohong/dat-nen-so-hong-2jjb)
 - [Dev.to/JS] [Poorman Bionic Reading](https://dev.to/asinkxcoswt/poorman-bionic-reading-bpi)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Leveraging the ecosystem](https://dev.to/topcode007/leveraging-the-ecosystem-1kf)
 - [Dev.to/JS] [What is an XML Sitemap?](https://dev.to/topcode007/what-is-an-xml-sitemap-54aa)
 - [Dev.to/JS] [Improving Angular initial load time](https://dev.to/cristianflorincalina/improving-angular-initial-load-time-561a)
-- [Dev.to/JS] [Let&#39;s write an image converter in 20 lines of html+js](https://dev.to/ninofiliu/lets-write-an-image-converter-in-20-lines-of-htmljs-bng)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
