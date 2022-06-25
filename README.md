@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Desarrollando un Bot para Telegram](https://dev.to/enzotrucchi/desarrollando-un-bot-para-telegram-51ek)
 - [Dev.to/JS] [Como sobrescrever uma regra do eslint para uma pasta específica](https://dev.to/vinibispo/como-sobrescrever-uma-regra-do-eslint-para-uma-pasta-especifica-4o19)
 - [Dev.to/JS] [Day in a life of a fullstack student #1](https://dev.to/bip3r/day-in-a-life-of-a-fullstack-student-1-11p7)
 - [Dev.to/JS] [React with Typescript or Javascript](https://dev.to/tmchuynh/react-with-typescript-or-javascript-3eni)
 - [Dev.to/JS] [Insert an Ellipsis into the Middle of a String](https://dev.to/mikekennedydev/insert-an-ellipsis-into-the-middle-of-a-string-152c)
 - [Dev.to/JS] [Javascript](https://dev.to/jana009/javascript-cgg)
-- [Dev.to/JS] [🤖 Automate your version management](https://dev.to/mikgross/automate-your-version-management-4ik5)
+- [Dev.to/JS] [🤖 Automate your version management 🤖](https://dev.to/mikgross/automate-your-version-management-4ik5)
 - [Dev.to/JS] [React Hooks - useContext](https://dev.to/shubhamtiwari909/react-hooks-usecontext-1ml2)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-5.1 &lpar; Api Features {Setup} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-51-551i)
 - [Dev.to/JS] [What is Regression Testing?](https://dev.to/javatpoint/what-is-regression-testing-50bd)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Dev.to/JS] [Implementing reCAPTCHA V3](https://dev.to/thedevdrawer/implementing-recaptcha-v3-1mm6)
 - [Dev.to/JS] [Split is not a function Error in JavaScript](https://dev.to/kodwings/split-is-not-a-function-error-in-javascript-4a7n)
-- [Dev.to/JS] [Docker denied: requested access to the resource is denied](https://dev.to/kodwings/docker-denied-requested-access-to-the-resource-is-denied-1j67)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
