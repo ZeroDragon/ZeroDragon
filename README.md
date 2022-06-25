@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Poorman Bionic Reading](https://dev.to/asinkxcoswt/poorman-bionic-reading-bpi)
+- [Dev.to/JS] [8 Helpful Tools For Frontend Developers 🦄](https://dev.to/souptikdn/8-helpful-tools-for-frontend-developers-4fb4)
+- [Dev.to/JS] [React Element vs React Component](https://dev.to/bmchaithu/react-element-vs-react-component-330i)
 - [Dev.to/JS] [Page-specific options](https://dev.to/topcode007/page-specific-options-1djl)
 - [Dev.to/JS] [Advanced customizations](https://dev.to/topcode007/advanced-customizations-n7l)
 - [Dev.to/JS] [Excluding certain paths](https://dev.to/topcode007/excluding-certain-paths-h62)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Let&#39;s write an image converter in 20 lines of html+js](https://dev.to/ninofiliu/lets-write-an-image-converter-in-20-lines-of-htmljs-bng)
 - [Dev.to/JS] [First person character controllers in Three.js](https://dev.to/malted/first-person-character-controllers-in-threejs-g97)
 - [Dev.to/JS] [React vs Angular: who wins?](https://dev.to/asayerio_techblog/react-vs-angular-who-wins-2gai)
-- [Dev.to/JS] [How to use Slots and Attrs with the Composition API](https://dev.to/zelig880/how-to-use-slots-and-attrs-with-the-composition-api-k75)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
-- [Dev.to/JS] [How to do API Testing using Mocha and Chai for JavaScript Applications](https://dev.to/shehanat/how-to-do-api-testing-using-mocha-and-chai-for-javascript-applications-4hhm)
-- [Dev.to/JS] [Youbified - Implementing a LiveStream API](https://dev.to/hermitex/youbified-a-web-app-to-manage-livestreams-3je2)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
 - [Lifehacker] [10 Ways to Make Chrome a Better Android Browser](https://lifehacker.com/10-ways-to-make-chrome-a-better-android-browser-1849103996)
