@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
+- [Dev.to/JS] [Implementing reCAPTCHA V3](https://dev.to/thedevdrawer/implementing-recaptcha-v3-1mm6)
+- [Dev.to/JS] [Split is not a function Error in JavaScript](https://dev.to/kodwings/split-is-not-a-function-error-in-javascript-4a7n)
+- [Dev.to/JS] [Docker denied: requested access to the resource is denied](https://dev.to/kodwings/docker-denied-requested-access-to-the-resource-is-denied-1j67)
 - [Dev.to/JS] [Dark theme solo CSS, MediaQuery y también con Javascript](https://dev.to/geepk/dark-theme-solo-css-mediaquery-y-tambien-con-javascript-30og)
 - [Dev.to/JS] [Hello Testing... 1,2,3](https://dev.to/kuzu2000/hello-testing-123-134a)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 2 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-2-report-519a)
@@ -30,13 +34,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #153: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-153-explica-este-codigo-javascript-4n32)
 - [Dev.to/JS] [Daily Emoji - My first NextJS project](https://dev.to/llxd/daily-emoji-my-first-nextjs-project-1od8)
 - [Dev.to/JS] [What is an API?](https://dev.to/sahilfruitwala/what-is-an-api-483o)
-- [Dev.to/JS] [Video Sintesis, software defined video with MLT](https://dev.to/jmrsuarez/video-sintesis-software-defined-video-with-mlt-35am)
+- [Dev.to/JS] [Video Sintesis, &quot;Software Defined Video&quot; with ShotCut MLT](https://dev.to/jmrsuarez/video-sintesis-software-defined-video-with-mlt-35am)
 - [Dev.to/JS] [Detect swipes with reactive programming](https://dev.to/this-is-learning/detect-swipes-with-reactive-programming-1bph)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
 - [Dev.to/JS] [Script tag integrity attribute](https://dev.to/jppradhan/script-tag-integrity-attribute-37e7)
-- [Dev.to/JS] [What are Progressive Web Applications? Get started with creating PWA](https://dev.to/this-is-learning/what-are-progressive-web-applications-get-started-with-creating-pwa-184b)
-- [Dev.to/JS] [16 Top Chrome Extensions for Developers](https://dev.to/asayerio_techblog/16-top-chrome-extensions-for-developers-28lp)
-- [Dev.to/JS] [This VS Code customs combo is lit! 🔥](https://dev.to/sujeetgund/this-vs-code-customs-combo-is-lit-1hd9)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-if-you-ever-get-fired-or-laid-off-1849101305)
 - [Lifehacker] [The Most Efficient Ways to Remove Food Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
 - [Lifehacker] [You Can Block Specific iPhone Contacts From Seeing Your ‘Focus’ Status](https://lifehacker.com/you-can-block-specific-iphone-contacts-from-seeing-your-1849099491)
-- [Lifehacker] [The Gym ‘Rules’ Teens Need to Learn Before They Get Their First Membership](https://lifehacker.com/the-gym-rules-teens-need-to-learn-before-they-get-the-1849095197)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
