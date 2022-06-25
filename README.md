@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improving Angular initial load time](https://dev.to/cristianflorincalina/improving-angular-initial-load-time-561a)
 - [Dev.to/JS] [Let&#39;s write an image converter in 20 lines of html+js](https://dev.to/ninofiliu/lets-write-an-image-converter-in-20-lines-of-htmljs-bng)
 - [Dev.to/JS] [First person character controllers in Three.js](https://dev.to/malted/first-person-character-controllers-in-threejs-g97)
 - [Dev.to/JS] [React vs Angular: who wins?](https://dev.to/asayerio_techblog/react-vs-angular-who-wins-2gai)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top Five Best Practices for JavaScript](https://dev.to/codiga/top-five-best-practices-for-javascript-gb4)
 - [Lifehacker] [How to Stop Your Marshmallows From Getting Stale](https://lifehacker.com/how-to-stop-your-marshmallows-from-getting-stale-1849106190)
 - [Lifehacker] [Why You Probably Shouldn&#39;t Pay for Telegram Premium](https://lifehacker.com/why-you-probably-shouldnt-pay-for-telegram-premium-1849104588)
-- [Dev.to/JS] [Super flexible container](https://dev.to/sitonimbus/super-flexible-container-11kc)
 - [Lifehacker] [Three Ways to Lower Your Cell Phone Bill Right Now](https://lifehacker.com/three-ways-to-lower-your-cell-phone-bill-right-now-1849105105)
 - [Lifehacker] [How to Find a COVID Vaccine for Your Young Child](https://lifehacker.com/how-to-find-a-covid-vaccine-for-your-young-child-1849104900)
 - [Lifehacker] [What&#39;s New on HBO Max in July 2022](https://lifehacker.com/whats-new-on-hbo-max-in-july-2022-1849105041)
