@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Dark theme solo CSS, MediaQuery y también con Javascript](https://dev.to/geepk/dark-theme-solo-css-mediaquery-y-tambien-con-javascript-30og)
+- [Dev.to/JS] [Hello Testing... 1,2,3](https://dev.to/kuzu2000/hello-testing-123-134a)
+- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 2 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-2-report-519a)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
 - [Dev.to/JS] [Paracetamol.js💊| #153: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-153-explica-este-codigo-javascript-4n32)
 - [Dev.to/JS] [Daily Emoji - My first NextJS project](https://dev.to/llxd/daily-emoji-my-first-nextjs-project-1od8)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are Progressive Web Applications? Get started with creating PWA](https://dev.to/this-is-learning/what-are-progressive-web-applications-get-started-with-creating-pwa-184b)
 - [Dev.to/JS] [16 Top Chrome Extensions for Developers](https://dev.to/asayerio_techblog/16-top-chrome-extensions-for-developers-28lp)
 - [Dev.to/JS] [This VS Code customs combo is lit! 🔥](https://dev.to/sujeetgund/this-vs-code-customs-combo-is-lit-1hd9)
-- [Dev.to/JS] [WHY YOU NEED TO LEARN FRONT-END DEVELOPMENT](https://dev.to/fliptotech/why-you-need-to-learn-front-end-development-7me)
-- [Dev.to/JS] [Vanilla&lpar;ts&rpar; configuration with Webpack. a little bit different.](https://dev.to/rezanazari/vanillats-configuration-with-webpack-a-little-bit-different-4apo)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;25-06-2022&rpar; - Sentient AI](https://dev.to/mjgs/this-weeks-newsletter-is-out-25-06-2022-sentient-ai-8c1)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
