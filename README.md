@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-5.1](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-51-551i)
+- [Dev.to/JS] [What is Regression Testing?](https://dev.to/javatpoint/what-is-regression-testing-50bd)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Dev.to/JS] [Implementing reCAPTCHA V3](https://dev.to/thedevdrawer/implementing-recaptcha-v3-1mm6)
 - [Dev.to/JS] [Split is not a function Error in JavaScript](https://dev.to/kodwings/split-is-not-a-function-error-in-javascript-4a7n)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Daily Emoji - My first NextJS project](https://dev.to/llxd/daily-emoji-my-first-nextjs-project-1od8)
 - [Dev.to/JS] [What is an API?](https://dev.to/sahilfruitwala/what-is-an-api-483o)
 - [Dev.to/JS] [Video Sintesis, &quot;Software Defined Video&quot; with ShotCut MLT](https://dev.to/jmrsuarez/video-sintesis-software-defined-video-with-mlt-35am)
-- [Dev.to/JS] [Detect swipes with reactive programming](https://dev.to/this-is-learning/detect-swipes-with-reactive-programming-1bph)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
-- [Dev.to/JS] [Script tag integrity attribute](https://dev.to/jppradhan/script-tag-integrity-attribute-37e7)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
