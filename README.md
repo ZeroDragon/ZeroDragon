@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
+- [Dev.to/JS] [Paracetamol.js💊| #153: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-153-explica-este-codigo-javascript-4n32)
 - [Dev.to/JS] [Daily Emoji - My first NextJS project](https://dev.to/llxd/daily-emoji-my-first-nextjs-project-1od8)
 - [Dev.to/JS] [What is an API?](https://dev.to/sahilfruitwala/what-is-an-api-483o)
 - [Dev.to/JS] [Video Sintesis, software defined video with MLT](https://dev.to/jmrsuarez/video-sintesis-software-defined-video-with-mlt-35am)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WHY YOU NEED TO LEARN FRONT-END DEVELOPMENT](https://dev.to/fliptotech/why-you-need-to-learn-front-end-development-7me)
 - [Dev.to/JS] [Vanilla&lpar;ts&rpar; configuration with Webpack. a little bit different.](https://dev.to/rezanazari/vanillats-configuration-with-webpack-a-little-bit-different-4apo)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;25-06-2022&rpar; - Sentient AI](https://dev.to/mjgs/this-weeks-newsletter-is-out-25-06-2022-sentient-ai-8c1)
-- [Dev.to/JS] [How to embed YouTube and Vimeo the light way](https://dev.to/madsstoumann/how-to-embed-youtube-and-vimeo-the-light-way-2pek)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Efficient Ways to Remove Food Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
 - [Lifehacker] [You Can Block Specific iPhone Contacts From Seeing Your ‘Focus’ Status](https://lifehacker.com/you-can-block-specific-iphone-contacts-from-seeing-your-1849099491)
 - [Lifehacker] [The Gym ‘Rules’ Teens Need to Learn Before They Get Their First Membership](https://lifehacker.com/the-gym-rules-teens-need-to-learn-before-they-get-the-1849095197)
-- [Lifehacker] [This One Ingredient Will Make Your Mayo More Dippable](https://lifehacker.com/this-one-ingredient-will-make-your-mayo-more-dippable-1849100379)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
