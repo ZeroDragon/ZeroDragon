@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Page-specific options](https://dev.to/topcode007/page-specific-options-1djl)
+- [Dev.to/JS] [Advanced customizations](https://dev.to/topcode007/advanced-customizations-n7l)
+- [Dev.to/JS] [Excluding certain paths](https://dev.to/topcode007/excluding-certain-paths-h62)
+- [Dev.to/JS] [Leveraging the ecosystem](https://dev.to/topcode007/leveraging-the-ecosystem-1kf)
+- [Dev.to/JS] [What is an XML Sitemap?](https://dev.to/topcode007/what-is-an-xml-sitemap-54aa)
 - [Dev.to/JS] [Improving Angular initial load time](https://dev.to/cristianflorincalina/improving-angular-initial-load-time-561a)
 - [Dev.to/JS] [Let&#39;s write an image converter in 20 lines of html+js](https://dev.to/ninofiliu/lets-write-an-image-converter-in-20-lines-of-htmljs-bng)
 - [Dev.to/JS] [First person character controllers in Three.js](https://dev.to/malted/first-person-character-controllers-in-threejs-g97)
@@ -33,12 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Youbified - Implementing a LiveStream API](https://dev.to/hermitex/youbified-a-web-app-to-manage-livestreams-3je2)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
-- [Dev.to/JS] [Paracetamol.js💊| #152: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-152-explica-este-codigo-javascript-4med)
 - [Lifehacker] [10 Ways to Make Chrome a Better Android Browser](https://lifehacker.com/10-ways-to-make-chrome-a-better-android-browser-1849103996)
-- [Dev.to/JS] [JS Básico - Estructura básica de una página web I.](https://dev.to/incuerd0/js-basico-estructura-basica-de-una-pagina-web-i-272l)
-- [Dev.to/JS] [Just Finished my 1st #100daysOfCode Challenge](https://dev.to/catevee/just-finished-my-1st-100daysofcode-challenge-37j0)
-- [Dev.to/JS] [DJ&#39;ing with different Tech Stacks.](https://dev.to/kritika27/djing-with-different-tech-stacks-1hdl)
-- [Dev.to/JS] [Top Five Best Practices for JavaScript](https://dev.to/codiga/top-five-best-practices-for-javascript-gb4)
 - [Lifehacker] [How to Stop Your Marshmallows From Getting Stale](https://lifehacker.com/how-to-stop-your-marshmallows-from-getting-stale-1849106190)
 - [Lifehacker] [Why You Probably Shouldn&#39;t Pay for Telegram Premium](https://lifehacker.com/why-you-probably-shouldnt-pay-for-telegram-premium-1849104588)
 - [Lifehacker] [Three Ways to Lower Your Cell Phone Bill Right Now](https://lifehacker.com/three-ways-to-lower-your-cell-phone-bill-right-now-1849105105)
