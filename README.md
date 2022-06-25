@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Insert an Ellipsis into the Middle of a String](https://dev.to/mikekennedydev/insert-an-ellipsis-into-the-middle-of-a-string-152c)
+- [Dev.to/JS] [Javascript](https://dev.to/jana009/javascript-cgg)
 - [Dev.to/JS] [🤖 Automate your version management](https://dev.to/mikgross/automate-your-version-management-4ik5)
 - [Dev.to/JS] [React Hooks - useContext](https://dev.to/shubhamtiwari909/react-hooks-usecontext-1ml2)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-5.1 &lpar; Api Features {Setup} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-51-551i)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hello Testing... 1,2,3](https://dev.to/kuzu2000/hello-testing-123-134a)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 2 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-2-report-519a)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
-- [Dev.to/JS] [Paracetamol.js💊| #153: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-153-explica-este-codigo-javascript-4n32)
-- [Dev.to/JS] [Daily Emoji - My first NextJS project](https://dev.to/llxd/daily-emoji-my-first-nextjs-project-1od8)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
