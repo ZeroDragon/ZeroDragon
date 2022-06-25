@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This VS Code customs combo is lit! 🔥](https://dev.to/sujeetgund/this-vs-code-customs-combo-is-lit-1hd9)
+- [Dev.to/JS] [WHY YOU NEED TO LEARN FRONT-END DEVELOPMENT](https://dev.to/fliptotech/why-you-need-to-learn-front-end-development-7me)
 - [Dev.to/JS] [Vanilla&lpar;ts&rpar; configuration with Webpack. a little bit different.](https://dev.to/rezanazari/vanillats-configuration-with-webpack-a-little-bit-different-4apo)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;25-06-2022&rpar; - Sentient AI](https://dev.to/mjgs/this-weeks-newsletter-is-out-25-06-2022-sentient-ai-8c1)
 - [Dev.to/JS] [How to embed YouTube and Vimeo the light way](https://dev.to/madsstoumann/how-to-embed-youtube-and-vimeo-the-light-way-2pek)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HTTP: An Introduction](https://dev.to/wanguiwaweru/http-an-introduction-305f)
 - [Dev.to/JS] [Create Singleton with ES2022](https://dev.to/bwca/create-singleton-with-es2022-51ic)
 - [Dev.to/JS] [Jest Tutorial For Beginners: Jest Matchers [2/5]](https://dev.to/abidullah786/jest-tutorial-for-beginners-jest-matchers-25-5fh9)
-- [Dev.to/JS] [React Native - How to better organise your app with react-native-navigation](https://dev.to/alexandrughinea/react-native-how-to-better-organise-your-app-with-react-native-navigation-39a6)
-- [Dev.to/JS] [React Props complete guide for beginners](https://dev.to/suchintan/use-react-props-like-a-pro--1gll)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
