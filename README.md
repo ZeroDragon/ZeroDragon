@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#100DaysOfCode Recap day 7-13](https://dev.to/tomyotwongjai/100daysofcode-recap-day-7-13-10ja)
+- [Dev.to/JS] [Persisted State for VUEX](https://dev.to/ahmetilhan24/persisted-state-for-vuex-14cp)
+- [Dev.to/JS] [Using an Array as Function Parameter in JavaScript](https://dev.to/smpnjn/using-an-array-as-function-parameter-in-javascript-33jo)
 - [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
 - [Dev.to/JS] [How to improve performance of Next.js website?](https://dev.to/sumukhakb210/how-to-improve-performance-of-nextjs-website-2kf9)
 - [Dev.to/JS] [🚴🏻‍♀️Build an Exercise Planner App using React Hooks and React Router](https://dev.to/prateek951/build-an-exercise-planner-app-using-react-hooks-and-react-router-2fj4)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Scopes](https://dev.to/kirtymeena/javascript-scopes-608)
 - [Dev.to/JS] [How to Write Our Own Custom Hooks in React](https://dev.to/thisurathenuka/how-to-write-our-own-custom-hooks-in-react-1b1e)
 - [Dev.to/JS] [JavaScript mini challenge - solution](https://dev.to/joolsmcfly/javascript-mini-challenge-solution-86n)
-- [Dev.to/JS] [Getting Started With GraphQL and Apollo-Server](https://dev.to/jamiescript/getting-started-with-graphql-and-apollo-server-55od)
-- [Dev.to/JS] [Smart input box with auto-suggestions for the users &lpar;two methods&rpar;](https://dev.to/indikaur/smart-input-box-with-auto-suggestions-for-the-users-two-methods-2ge8)
-- [Dev.to/JS] [Как пользоваться cookie в NestJS и локальном фронте](https://dev.to/kesio/kak-polzovatsia-cookie-v-nestjs-i-lokalnom-frontie-380)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
