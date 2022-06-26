@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What exactly JavaScript is?](https://dev.to/aamchora/what-exactly-javascript-is-14jo)
+- [Dev.to/JS] [MongoDB connections using mongoose - 3](https://dev.to/shubhamtiwari909/mongodb-connections-using-mongoose-3bl6)
+- [Dev.to/JS] [Another small Javascript Tidbit for enforcing a number](https://dev.to/kylefontenot/another-small-javascript-tidbit-for-enforcing-a-number-3cm4)
+- [Dev.to/JS] [get database or api for specs of smart mobile](https://dev.to/shresthadev403/get-database-or-api-for-specs-of-smart-mobile-84i)
 - [Dev.to/JS] [Learn Redux toolkit guide step by step with project](https://dev.to/itznur07/learn-redux-toolkit-guide-step-by-step-with-project-19e1)
 - [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 - [Dev.to/JS] [Weekly Digest 25/2022](https://dev.to/marcobiedermann/weekly-digest-252022-469f)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Unpacking JavaScript 02: Object Oriented JS&lpar;OOJS&rpar; part 2 - Classes](https://dev.to/sfundomhlungu/unpacking-javascript-02-object-oriented-jsoojs-part-2-classes-31nk)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
 - [Dev.to/JS] [Node JS Convert Image File to Base64 String Example](https://dev.to/mhsagor110090/node-js-convert-image-file-to-base64-string-example-50md)
-- [Dev.to/JS] [Node JS Resize Image Before Upload using Multer Sharp](https://dev.to/mhsagor110090/node-js-resize-image-before-upload-using-multer-sharp-gla)
-- [Dev.to/JS] [File Upload in Node JS using Multer Example](https://dev.to/mhsagor110090/file-upload-in-node-js-using-multer-example-335f)
-- [Dev.to/JS] [How to upgrade node.js version in Ubuntu?](https://dev.to/mhsagor110090/how-to-upgrade-nodejs-version-in-ubuntu-1ng9)
-- [Dev.to/JS] [Paracetamol.js💊| #154: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-154-explica-este-codigo-javascript-1a6d)
 - [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
