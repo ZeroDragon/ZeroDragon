@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Как пользоваться cookie в NestJS и локальном фронте](https://dev.to/kesio/kak-polzovatsia-cookie-v-nestjs-i-lokalnom-frontie-380)
+- [Dev.to/JS] [How to setup a Svelte + TailwindCSS +DaisyUI development environment?](https://dev.to/hr21don/how-to-setup-a-svelte-tailwindcss-daisyui-development-environment-1j1a)
 - [Dev.to/JS] [Flat Nested Array: JavaScript](https://dev.to/pampapati/flat-nested-array-javascript-930)
 - [Dev.to/JS] [How to create JavaScript Objects](https://dev.to/pampapati/how-to-create-javascript-objects-5fed)
 - [Dev.to/JS] [Demystifying Shadow DOM](https://dev.to/mathumitha/demystifying-shadow-dom-2obk)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A-Frame : Web XR Thunderstorm Scene w/ Teleportation Types &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-thunderstorm-scene-w-teleportation-types-and-overview-3g3h)
 - [Dev.to/JS] [A-Frame : Web XR Animation Testing Scene &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-animation-testing-scene-and-overview-3llj)
 - [Dev.to/JS] [A-Frame : Web XR Orb Sky Changer Scene &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-orb-sky-changer-scene-and-overview-17f5)
-- [Dev.to/JS] [9 useful code snippets for everyday JavaScript development || Part 1](https://dev.to/swastikyadav/9-useful-code-snippets-for-everyday-javascript-development-part-1-478a)
-- [Dev.to/JS] [What is hoisting in JavaScript](https://dev.to/ip127001/what-is-hoisting-in-javascript-3eo8)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
