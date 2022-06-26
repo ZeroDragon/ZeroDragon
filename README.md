@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React - You might not need that many states!](https://dev.to/noriller/react-you-might-not-need-that-many-states-5el)
+- [Dev.to/JS] [Build a Full Stack App with Next.js, Tailwind, tRPC and Prisma ORM](https://dev.to/franciscomendes10866/build-a-full-stack-app-with-nextjs-tailwind-trpc-and-prisma-orm-4ail)
 - [Dev.to/JS] [Asynchronous CRUD Operations in Node js](https://dev.to/crackingdemon/asynchronous-crud-operations-in-node-js-lgj)
 - [Dev.to/JS] [What exactly JavaScript is?](https://dev.to/aamchora/what-exactly-javascript-is-14jo)
 - [Dev.to/JS] [MongoDB connections using mongoose - 3](https://dev.to/shubhamtiwari909/mongodb-connections-using-mongoose-3bl6)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular - Use ChangeDetectionStrategy.OnPush](https://dev.to/sandrocagara/angular-use-changedetectionstrategyonpush-4n0g)
 - [Dev.to/JS] [How to resolve CORS issue in VueJs](https://dev.to/gayathri_r/how-to-resolve-cors-issue-in-vuejs-2m62)
 - [Dev.to/JS] [What is mutable in JavaScript ?](https://dev.to/ditaisy/what-is-mutable-in-javascript--52gf)
-- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-5.2 &lpar; Api Features {Search} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-52-api-features-search--5c3b)
-- [Dev.to/JS] [Unpacking JavaScript 02: Object Oriented JS&lpar;OOJS&rpar; part 2 - Classes](https://dev.to/sfundomhlungu/unpacking-javascript-02-object-oriented-jsoojs-part-2-classes-31nk)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
 - [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
