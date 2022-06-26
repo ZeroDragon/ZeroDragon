@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Learn Redux toolkit guide step by step with project](https://dev.to/itznur07/learn-redux-toolkit-guide-step-by-step-with-project-19e1)
+- [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 - [Dev.to/JS] [Weekly Digest 25/2022](https://dev.to/marcobiedermann/weekly-digest-252022-469f)
 - [Dev.to/JS] [Angular - Use ChangeDetectionStrategy.OnPush](https://dev.to/sandrocagara/angular-use-changedetectionstrategyonpush-4n0g)
 - [Dev.to/JS] [How to resolve CORS issue in VueJs](https://dev.to/gayathri_r/how-to-resolve-cors-issue-in-vuejs-2m62)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [File Upload in Node JS using Multer Example](https://dev.to/mhsagor110090/file-upload-in-node-js-using-multer-example-335f)
 - [Dev.to/JS] [How to upgrade node.js version in Ubuntu?](https://dev.to/mhsagor110090/how-to-upgrade-nodejs-version-in-ubuntu-1ng9)
 - [Dev.to/JS] [Paracetamol.js💊| #154: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-154-explica-este-codigo-javascript-1a6d)
-- [Dev.to/JS] [Create private fields in JavaScript](https://dev.to/hermitex/create-private-fields-in-javascript-3ean)
 - [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
 - [Lifehacker] [Surprising Foods You Can &lpar;and Can&#39;t&rpar; Take Through Airport Security](https://lifehacker.com/surprising-foods-you-can-and-cant-take-through-airpor-1849099435)
-- [Lifehacker] [What to Do If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-if-you-ever-get-fired-or-laid-off-1849101305)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
