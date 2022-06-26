@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript mini challenge - solution](https://dev.to/joolsmcfly/javascript-mini-challenge-solution-86n)
+- [Dev.to/JS] [Getting Started With GraphQL and Apollo-Server](https://dev.to/jamiescript/getting-started-with-graphql-and-apollo-server-55od)
+- [Dev.to/JS] [Smart input box with auto-suggestions for the users &lpar;two methods&rpar;](https://dev.to/indikaur/smart-input-box-with-auto-suggestions-for-the-users-two-methods-2ge8)
 - [Dev.to/JS] [Как пользоваться cookie в NestJS и локальном фронте](https://dev.to/kesio/kak-polzovatsia-cookie-v-nestjs-i-lokalnom-frontie-380)
 - [Dev.to/JS] [How to setup a Svelte + TailwindCSS +DaisyUI development environment?](https://dev.to/hr21don/how-to-setup-a-svelte-tailwindcss-daisyui-development-environment-1j1a)
 - [Dev.to/JS] [Flat Nested Array: JavaScript](https://dev.to/pampapati/flat-nested-array-javascript-930)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A-Frame : Web XR Isometric Node Navigation &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-isometric-node-navigation-overview-4cni)
 - [Dev.to/JS] [A-Frame : Web XR Asset Color Customization &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-asset-color-customization-overview-2o86)
 - [Dev.to/JS] [A-Frame : Web XR Hub Home, UI, Locomotion &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-hub-home-ui-locomotion-4m38)
-- [Dev.to/JS] [A-Frame : Web XR Thunderstorm Scene w/ Teleportation Types &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-thunderstorm-scene-w-teleportation-types-and-overview-3g3h)
-- [Dev.to/JS] [A-Frame : Web XR Animation Testing Scene &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-animation-testing-scene-and-overview-3llj)
-- [Dev.to/JS] [A-Frame : Web XR Orb Sky Changer Scene &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-orb-sky-changer-scene-and-overview-17f5)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
