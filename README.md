@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [9 useful code snippets for everyday JavaScript development || Part 1](https://dev.to/swastikyadav/9-useful-code-snippets-for-everyday-javascript-development-part-1-478a)
 - [Dev.to/JS] [What is hoisting in JavaScript](https://dev.to/ip127001/what-is-hoisting-in-javascript-3eo8)
 - [Dev.to/JS] [Not A Beginner Ternary Statement](https://dev.to/kylefontenot/not-a-beginner-ternary-statement-74e)
 - [Dev.to/JS] [Using Operators in JavaScript](https://dev.to/joshuaivie/using-operators-in-javascript-10em)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript](https://dev.to/jana009/javascript-cgg)
 - [Dev.to/JS] [🤖 Automate your version management 🤖](https://dev.to/mikgross/automate-your-version-management-4ik5)
 - [Dev.to/JS] [React Hooks - useContext](https://dev.to/shubhamtiwari909/react-hooks-usecontext-1ml2)
-- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-5.1 &lpar; Api Features {Setup} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-51-551i)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
