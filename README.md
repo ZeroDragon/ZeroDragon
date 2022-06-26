@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Flat Nested Array: JavaScript](https://dev.to/pampapati/flat-nested-array-javascript-930)
+- [Dev.to/JS] [How to create JavaScript Objects](https://dev.to/pampapati/how-to-create-javascript-objects-5fed)
+- [Dev.to/JS] [Demystifying Shadow DOM](https://dev.to/mathumitha/demystifying-shadow-dom-2obk)
 - [Dev.to/JS] [A-Frame : Web XR Idle Click Game Progress &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-idle-click-game-progress-overview-32l8)
 - [Dev.to/JS] [A-Frame : Web XR Isometric Node Navigation &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-isometric-node-navigation-overview-4cni)
 - [Dev.to/JS] [A-Frame : Web XR Asset Color Customization &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-asset-color-customization-overview-2o86)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A-Frame : Web XR Orb Sky Changer Scene &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-orb-sky-changer-scene-and-overview-17f5)
 - [Dev.to/JS] [9 useful code snippets for everyday JavaScript development || Part 1](https://dev.to/swastikyadav/9-useful-code-snippets-for-everyday-javascript-development-part-1-478a)
 - [Dev.to/JS] [What is hoisting in JavaScript](https://dev.to/ip127001/what-is-hoisting-in-javascript-3eo8)
-- [Dev.to/JS] [Not A Beginner Ternary Statement](https://dev.to/kylefontenot/not-a-beginner-ternary-statement-74e)
-- [Dev.to/JS] [Using Operators in JavaScript](https://dev.to/joshuaivie/using-operators-in-javascript-10em)
-- [Dev.to/JS] [Desarrollando un Bot para Telegram](https://dev.to/enzotrucchi/desarrollando-un-bot-para-telegram-51ek)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
