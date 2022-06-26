@@ -23,7 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [What is hoisting in JavaScript](https://dev.to/ip127001/what-is-hoisting-in-javascript-2g9g)
+- [Dev.to/JS] [What is hoisting in JavaScript](https://dev.to/ip127001/what-is-hoisting-in-javascript-3eo8)
 - [Dev.to/JS] [Not A Beginner Ternary Statement](https://dev.to/kylefontenot/not-a-beginner-ternary-statement-74e)
 - [Dev.to/JS] [Using Operators in JavaScript](https://dev.to/joshuaivie/using-operators-in-javascript-10em)
 - [Dev.to/JS] [Desarrollando un Bot para Telegram](https://dev.to/enzotrucchi/desarrollando-un-bot-para-telegram-51ek)
