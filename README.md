@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Website Speed Impacts Conversion Rate of Website?](https://dev.to/farhadmalegam/how-website-speed-impacts-conversion-rate-of-website-2519)
+- [Dev.to/JS] [The Unwanted Stack — Vue Amsterdam Conference 2022 Summary series — Forth Talk](https://dev.to/mohsen_vaziri/the-unwanted-stack-vue-amsterdam-conference-2022-summary-series-forth-talk-3n94)
+- [Dev.to/JS] [Javascript Scopes](https://dev.to/kirtymeena/javascript-scopes-608)
+- [Dev.to/JS] [How to Write Our Own Custom Hooks in React](https://dev.to/thisurathenuka/how-to-write-our-own-custom-hooks-in-react-1b1e)
 - [Dev.to/JS] [JavaScript mini challenge - solution](https://dev.to/joolsmcfly/javascript-mini-challenge-solution-86n)
 - [Dev.to/JS] [Getting Started With GraphQL and Apollo-Server](https://dev.to/jamiescript/getting-started-with-graphql-and-apollo-server-55od)
 - [Dev.to/JS] [Smart input box with auto-suggestions for the users &lpar;two methods&rpar;](https://dev.to/indikaur/smart-input-box-with-auto-suggestions-for-the-users-two-methods-2ge8)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Flat Nested Array: JavaScript](https://dev.to/pampapati/flat-nested-array-javascript-930)
 - [Dev.to/JS] [How to create JavaScript Objects](https://dev.to/pampapati/how-to-create-javascript-objects-5fed)
 - [Dev.to/JS] [Demystifying Shadow DOM](https://dev.to/mathumitha/demystifying-shadow-dom-2obk)
-- [Dev.to/JS] [A-Frame : Web XR Idle Click Game Progress &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-idle-click-game-progress-overview-32l8)
-- [Dev.to/JS] [A-Frame : Web XR Isometric Node Navigation &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-isometric-node-navigation-overview-4cni)
-- [Dev.to/JS] [A-Frame : Web XR Asset Color Customization &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-asset-color-customization-overview-2o86)
-- [Dev.to/JS] [A-Frame : Web XR Hub Home, UI, Locomotion &amp; Overview](https://dev.to/mintycrisp/a-frame-web-xr-hub-home-ui-locomotion-4m38)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
