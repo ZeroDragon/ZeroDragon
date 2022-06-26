@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
+- [Dev.to/JS] [How to improve performance of Next.js website?](https://dev.to/sumukhakb210/how-to-improve-performance-of-nextjs-website-2kf9)
+- [Dev.to/JS] [🚴🏻‍♀️Build an Exercise Planner App using React Hooks and React Router](https://dev.to/prateek951/build-an-exercise-planner-app-using-react-hooks-and-react-router-2fj4)
+- [Dev.to/JS] [Testing for whether a string is a palindrome or not.](https://dev.to/prateek951/testing-for-whether-a-string-is-a-palindrome-or-not-5f0)
+- [Dev.to/JS] [How to integrate Cypress with Database in Azure Cloud for Test cases Execution](https://dev.to/kailashpathak7/how-to-integrate-cypress-with-database-in-azure-cloud-for-test-cases-execution-122i)
 - [Dev.to/JS] [How Website Speed Impacts Conversion Rate of Website?](https://dev.to/farhadmalegam/how-website-speed-impacts-conversion-rate-of-website-2519)
 - [Dev.to/JS] [The Unwanted Stack — Vue Amsterdam Conference 2022 Summary series — Forth Talk](https://dev.to/mohsen_vaziri/the-unwanted-stack-vue-amsterdam-conference-2022-summary-series-forth-talk-3n94)
 - [Dev.to/JS] [Javascript Scopes](https://dev.to/kirtymeena/javascript-scopes-608)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting Started With GraphQL and Apollo-Server](https://dev.to/jamiescript/getting-started-with-graphql-and-apollo-server-55od)
 - [Dev.to/JS] [Smart input box with auto-suggestions for the users &lpar;two methods&rpar;](https://dev.to/indikaur/smart-input-box-with-auto-suggestions-for-the-users-two-methods-2ge8)
 - [Dev.to/JS] [Как пользоваться cookie в NestJS и локальном фронте](https://dev.to/kesio/kak-polzovatsia-cookie-v-nestjs-i-lokalnom-frontie-380)
-- [Dev.to/JS] [How to setup a Svelte + TailwindCSS +DaisyUI development environment?](https://dev.to/hr21don/how-to-setup-a-svelte-tailwindcss-daisyui-development-environment-1j1a)
-- [Dev.to/JS] [Flat Nested Array: JavaScript](https://dev.to/pampapati/flat-nested-array-javascript-930)
-- [Dev.to/JS] [How to create JavaScript Objects](https://dev.to/pampapati/how-to-create-javascript-objects-5fed)
-- [Dev.to/JS] [Demystifying Shadow DOM](https://dev.to/mathumitha/demystifying-shadow-dom-2obk)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Surprising Foods You Can &lpar;and Can&#39;t&rpar; Take Through Airport Security](https://lifehacker.com/surprising-foods-you-can-and-cant-take-through-airpor-1849099435)
 - [Lifehacker] [What to Do If You Ever Get Fired or Laid Off](https://lifehacker.com/what-to-do-if-you-ever-get-fired-or-laid-off-1849101305)
 - [Lifehacker] [The Most Efficient Ways to Remove Food Stuck in Your Throat](https://lifehacker.com/the-most-efficient-ways-to-remove-food-stuck-in-your-th-1849099666)
-- [Lifehacker] [You Can Block Specific iPhone Contacts From Seeing Your ‘Focus’ Status](https://lifehacker.com/you-can-block-specific-iphone-contacts-from-seeing-your-1849099491)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
 - [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
