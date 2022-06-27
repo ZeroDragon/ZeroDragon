@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 7 Deadly Sins of Being an American Tourist Overseas](https://lifehacker.com/the-7-deadly-sins-of-being-an-american-tourist-overseas-1849106955)
+- [Dev.to/JS] [React Query and Forms](https://dev.to/tkdodo/react-query-and-forms-4odi)
+- [Dev.to/JS] [Build Agency Website with ReactJS, Styled-components and GSAP for Scrolling Animations](https://dev.to/sahuljr7/build-agency-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-f71)
+- [Dev.to/JS] [10+ Free JavaScript Chart Library📊you must use in 2022.](https://dev.to/theme_selection/10-javascript-chart-library-you-must-use-k20)
+- [Lifehacker] [Why Everyone Hates Landlords Now](https://lifehacker.com/why-everyone-hates-landlords-now-1849100799)
+- [Dev.to/JS] [Using Vue.js to create a Micro Frontend](https://dev.to/entando/using-vuejs-to-create-a-micro-frontend-4815)
 - [Dev.to/JS] [What makes a software development company a good option for your company?](https://dev.to/jessmann1/what-makes-a-software-development-company-a-good-option-for-your-company-226i)
+- [Dev.to/JS] [i made a programming language!](https://dev.to/virejdasani/i-made-a-programming-language-44j8)
 - [Dev.to/JS] [Twitter Clone Part 1: Connecting Users to Stream Feeds and Creating a Tweet](https://dev.to/dillionmegida/twitter-clone-part-1-connecting-users-to-stream-feeds-and-creating-a-tweet-13c2)
 - [Lifehacker] [Finally, an Easier Way to Use Google Password Manager on Android](https://lifehacker.com/finally-an-easier-way-to-use-google-password-manager-o-1849099204)
 - [Dev.to/JS] [Insquad | Made with React JS](https://dev.to/madewithjavascript/insquad-made-with-react-js-463i)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Add Firebase SDK V9 to JavaScript Web App In Minutes [2022]](https://dev.to/hirajatamil/add-firebase-sdk-v9-to-javascript-web-app-in-minutes-2022-34hi)
 - [Dev.to/JS] [Simply Learn Full-Stack Web - Part 1, Create The Client](https://dev.to/neohed/simply-learn-full-stack-web-part-1-create-the-client-440e)
 - [Dev.to/JS] [Simply Learn Full-Stack Web - Introduction](https://dev.to/neohed/simply-learn-full-stack-web-introduction-2dfi)
-- [Dev.to/JS] [React Component as Prop with Props, The Easy Way](https://dev.to/tylim88/react-component-as-prop-with-props-the-easy-way-2lge)
-- [Dev.to/JS] [Forever Functional: Working with functions... but partially!](https://dev.to/asayerio_techblog/forever-functional-working-with-functions-but-partially-4nic)
-- [Dev.to/JS] [Interacting with Smart Contracts using Web3](https://dev.to/asayerio_techblog/interacting-with-smart-contracts-using-web3-1oo3)
-- [Dev.to/JS] [UI/UX DESIGN, WHY LEARN IT?](https://dev.to/fliptotech/uiux-design-why-learn-it-23cp)
-- [Dev.to/JS] [Add a table of contents &lpar;TOC&rpar; to your blog posts](https://dev.to/robole/add-a-table-of-contents-toc-to-your-blog-posts-99p)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When Your Dishwasher Isn’t Draining](https://lifehacker.com/what-to-do-when-your-dishwasher-isn-t-draining-1849101679)
 - [Lifehacker] [What Are Your Unwritten Rules of Parking Lot Etiquette?](https://lifehacker.com/what-are-your-unwritten-rules-of-parking-lot-etiquette-1849099906)
 - [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
-- [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
-- [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
