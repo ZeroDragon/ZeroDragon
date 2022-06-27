@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Typescript in React: a Crash Course](https://dev.to/asayerio_techblog/using-typescript-in-react-a-crash-course-4h7i)
+- [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
+- [Dev.to/JS] [Own reduce method using Typescript](https://dev.to/icelandico/own-reduce-method-using-typescript-n6l)
 - [Lifehacker] [11 Beginner-Friendly Exercises to Do With Kettlebells](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
 - [Dev.to/JS] [Creating a &quot;Candidates&quot; Pattern in Your Codebase](https://dev.to/michaelmangial1/creating-a-candidates-pattern-in-your-codebase-2k3e)
 - [Dev.to/JS] [Recursion in JavaScript](https://dev.to/kadeesterline/recursion-in-javascript-3jk4)
@@ -39,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript Tutorial for beginners to advance](https://dev.to/itznur07/typescript-tutorial-for-beginners-to-advance-54h6)
 - [Dev.to/JS] [GETTING A JOB IN TECH AS A NEWBIE](https://dev.to/fliptotech/getting-a-job-in-tech-as-a-newbie-2n6i)
 - [Dev.to/JS] [The sliding window pattern](https://dev.to/bradbieselin/the-sliding-window-pattern-3nei)
-- [Dev.to/JS] [Paracetamol.js💊| #155: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-155-explica-este-codigo-javascript-nb3)
 - [Lifehacker] [How to Use Apple Notes to Have Secret Chats With Others](https://lifehacker.com/how-to-use-apple-notes-to-have-secret-chats-with-others-1849112538)
-- [Dev.to/JS] [Full-Stack React &amp; Node.js - Create the server](https://dev.to/neohed/full-stack-react-nodejs-3-create-the-server-5a83)
 - [Lifehacker] [Why You Should Stop Hiring Full-Service Movers](https://lifehacker.com/why-you-should-stop-hiring-full-service-movers-1849112477)
 - [Lifehacker] [How to Manage an Emotional Breakdown at Work](https://lifehacker.com/how-to-manage-an-emotional-breakdown-at-work-1849110866)
 - [Lifehacker] [Why a ‘Buy-Back’ Program May be a Cheaper Way to Rent a Car in Europe](https://lifehacker.com/why-a-buy-back-program-may-be-a-cheaper-way-to-rent-a-1849112205)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
 - [Lifehacker] [10 Ways to Make Chrome a Better Android Browser](https://lifehacker.com/10-ways-to-make-chrome-a-better-android-browser-1849103996)
-- [Lifehacker] [How to Stop Your Marshmallows From Getting Stale](https://lifehacker.com/how-to-stop-your-marshmallows-from-getting-stale-1849106190)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
