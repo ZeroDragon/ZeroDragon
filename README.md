@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Quickstart Tutorial](https://dev.to/steffanboodhoo/react-quickstart-tutorial-3ibk)
+- [Dev.to/JS] [20 Array Methods](https://dev.to/benboorstein/20-array-methods-25pc)
+- [Dev.to/JS] [5 gamified learning experiences to learn Web Dev](https://dev.to/itnext/5-gamified-learning-experiences-to-learn-web-dev-450a)
 - [Dev.to/JS] [How To Run VueJs Code Locally](https://dev.to/xinnks/how-to-run-vuejs-code-locally-2chn)
 - [Dev.to/JS] [React - You might not need that many states!](https://dev.to/noriller/react-you-might-not-need-that-many-states-5el)
 - [Dev.to/JS] [Build a Full Stack App with Next.js, Tailwind, tRPC and Prisma ORM](https://dev.to/franciscomendes10866/build-a-full-stack-app-with-nextjs-tailwind-trpc-and-prisma-orm-4ail)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [get database or api for specs of smart mobile](https://dev.to/shresthadev403/get-database-or-api-for-specs-of-smart-mobile-84i)
 - [Dev.to/JS] [Learn Redux toolkit guide step by step with project](https://dev.to/itznur07/learn-redux-toolkit-guide-step-by-step-with-project-19e1)
 - [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
-- [Dev.to/JS] [Weekly Digest 25/2022](https://dev.to/marcobiedermann/weekly-digest-252022-469f)
-- [Dev.to/JS] [Angular - Use ChangeDetectionStrategy.OnPush](https://dev.to/sandrocagara/angular-use-changedetectionstrategyonpush-4n0g)
-- [Dev.to/JS] [How to resolve CORS issue in VueJs](https://dev.to/gayathri_r/how-to-resolve-cors-issue-in-vuejs-2m62)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
 - [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
