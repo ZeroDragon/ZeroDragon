@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Microfrontend](https://dev.to/tirthgpatel27/microfrontend-58ao)
+- [Lifehacker] [What&#39;s New on Prime Video in July 2022](https://lifehacker.com/whats-new-on-prime-video-in-july-2022-1849113524)
+- [Dev.to/JS] [How to Extract URL Query Parameters](https://dev.to/hermitex/how-to-extract-url-search-parameters-4k58)
+- [Dev.to/JS] [Introducing GTM to nuxt webapps.](https://dev.to/takeshi_sawaki/introducing-gtm-to-nuxt-webapps-1hio)
+- [Lifehacker] [Kids Can Still Eat for Free at These Restaurants](https://lifehacker.com/kids-can-still-eat-for-free-at-these-restaurants-1849112880)
+- [Dev.to/JS] [TypeScript Tutorial for beginners to advance](https://dev.to/itznur07/typescript-tutorial-for-beginners-to-advance-54h6)
 - [Dev.to/JS] [GETTING A JOB IN TECH AS A NEWBIE](https://dev.to/fliptotech/getting-a-job-in-tech-as-a-newbie-2n6i)
 - [Dev.to/JS] [The sliding window pattern](https://dev.to/bradbieselin/the-sliding-window-pattern-3nei)
 - [Dev.to/JS] [Paracetamol.js💊| #155: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-155-explica-este-codigo-javascript-nb3)
@@ -34,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full-Stack React &amp; Node.js - Add a form](https://dev.to/neohed/full-stack-react-nodejs-part-2-add-a-form-2e9b)
 - [Dev.to/JS] [Devoxx Morocco biggest tech conference in MEA region!](https://dev.to/essaydyoumayma/devoxx-morocco-biggest-tech-conference-in-mea-region-4kf)
 - [Lifehacker] [How to Manage an Emotional Breakdown at Work](https://lifehacker.com/how-to-manage-an-emotional-breakdown-at-work-1849110866)
-- [Dev.to/JS] [Hoisting in JS](https://dev.to/suhail/hoisting-in-js-oj8)
-- [Dev.to/JS] [HTML Introduction](https://dev.to/fenikix/html-introduction-1p04)
-- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-5.3 &lpar; Api Features {Filters} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-53-api-features-filters--33bp)
 - [Lifehacker] [Why a ‘Buy-Back’ Program May be a Cheaper Way to Rent a Car in Europe](https://lifehacker.com/why-a-buy-back-program-may-be-a-cheaper-way-to-rent-a-1849112205)
-- [Dev.to/JS] [New JavaScript Features ECMAScript 2022 &lpar;with examples&rpar;](https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2022-with-examples-4nhg)
 - [Lifehacker] [These Snakes Are Actually Great for Your Garden](https://lifehacker.com/these-snakes-are-actually-great-for-your-garden-1849110406)
 - [Lifehacker] [The 7 Deadly Sins of Being an American Tourist Overseas](https://lifehacker.com/the-7-deadly-sins-of-being-an-american-tourist-overseas-1849106955)
 - [Lifehacker] [Why Everyone Hates Landlords Now](https://lifehacker.com/why-everyone-hates-landlords-now-1849100799)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Ways to Lower Your Cell Phone Bill Right Now](https://lifehacker.com/three-ways-to-lower-your-cell-phone-bill-right-now-1849105105)
 - [Lifehacker] [How to Find a COVID Vaccine for Your Young Child](https://lifehacker.com/how-to-find-a-covid-vaccine-for-your-young-child-1849104900)
 - [Lifehacker] [What&#39;s New on HBO Max in July 2022](https://lifehacker.com/whats-new-on-hbo-max-in-july-2022-1849105041)
-- [Lifehacker] [What&#39;s a Good Resting Heart Rate, Anyway?](https://lifehacker.com/whats-a-good-resting-heart-rate-anyway-1849102456)
-- [Lifehacker] [These Free Store Loyalty Programs Are Actually Worth Signing Up For](https://lifehacker.com/these-store-loyalty-programs-are-actually-worth-signing-1849101510)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
