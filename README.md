@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Socket event listener fires multiple times in React component](https://dev.to/tuenguyen2911_67/socket-event-listener-fires-multiple-times-in-react-component-536o)
+- [Dev.to/JS] [SDVideo Syntesis codigo generativo.](https://dev.to/jmrsuarez/sdvideo-syntesis-codigo-generativo-4fhj)
 - [Dev.to/JS] [Scopes in Javascript](https://dev.to/dfeliciano3/scopes-in-javascript-4525)
 - [Dev.to/JS] [Software Engineering Journey Update &lpar;6/19/22 - 6/25/22&rpar;](https://dev.to/ejolikestocode/software-engineering-journey-update-61922-62522-4nfk)
 - [Dev.to/JS] [Don’t prioritize speed for e2e testing but consider smarter test schedules](https://dev.to/hiroyone/dont-prioritize-speed-for-e2e-testing-but-consider-smarter-test-schedules-17f3)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Run VueJs Code Locally](https://dev.to/xinnks/how-to-run-vuejs-code-locally-2chn)
 - [Dev.to/JS] [React - You might not need that many states!](https://dev.to/noriller/react-you-might-not-need-that-many-states-5el)
 - [Dev.to/JS] [Build a Full Stack App with Next.js, Tailwind, tRPC and Prisma ORM](https://dev.to/franciscomendes10866/build-a-full-stack-app-with-nextjs-tailwind-trpc-and-prisma-orm-4ail)
-- [Dev.to/JS] [Asynchronous CRUD Operations in Node js](https://dev.to/crackingdemon/asynchronous-crud-operations-in-node-js-lgj)
-- [Dev.to/JS] [What exactly JavaScript is?](https://dev.to/aamchora/what-exactly-javascript-is-14jo)
 - [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
 - [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
