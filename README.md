@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
+- [Dev.to/JS] [Hello World!](https://dev.to/zannetdev/hello-world-2fgc)
+- [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Dev.to/JS] [Using Typescript in React: a Crash Course](https://dev.to/asayerio_techblog/using-typescript-in-react-a-crash-course-4h7i)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
 - [Dev.to/JS] [Own reduce method using Typescript](https://dev.to/icelandico/own-reduce-method-using-typescript-n6l)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Kids Can Still Eat for Free at These Restaurants](https://lifehacker.com/kids-can-still-eat-for-free-at-these-restaurants-1849112880)
 - [Dev.to/JS] [TypeScript Tutorial for beginners to advance](https://dev.to/itznur07/typescript-tutorial-for-beginners-to-advance-54h6)
 - [Dev.to/JS] [GETTING A JOB IN TECH AS A NEWBIE](https://dev.to/fliptotech/getting-a-job-in-tech-as-a-newbie-2n6i)
-- [Dev.to/JS] [The sliding window pattern](https://dev.to/bradbieselin/the-sliding-window-pattern-3nei)
 - [Lifehacker] [How to Use Apple Notes to Have Secret Chats With Others](https://lifehacker.com/how-to-use-apple-notes-to-have-secret-chats-with-others-1849112538)
 - [Lifehacker] [Why You Should Stop Hiring Full-Service Movers](https://lifehacker.com/why-you-should-stop-hiring-full-service-movers-1849112477)
 - [Lifehacker] [How to Manage an Emotional Breakdown at Work](https://lifehacker.com/how-to-manage-an-emotional-breakdown-at-work-1849110866)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
 - [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Lifehacker] [These Airlines Let You ‘Carry on’ for Free](https://lifehacker.com/these-airlines-let-you-carry-on-for-free-1849106506)
-- [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
-- [Lifehacker] [10 Ways to Make Chrome a Better Android Browser](https://lifehacker.com/10-ways-to-make-chrome-a-better-android-browser-1849103996)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
