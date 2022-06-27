@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Finish Your Dish With a Splash of Pickle Juice](https://lifehacker.com/finish-your-dish-with-a-splash-of-pickle-juice-1849113712)
 - [Dev.to/JS] [Microfrontend](https://dev.to/tirthgpatel27/microfrontend-58ao)
 - [Lifehacker] [What&#39;s New on Prime Video in July 2022](https://lifehacker.com/whats-new-on-prime-video-in-july-2022-1849113524)
 - [Dev.to/JS] [How to Extract URL Query Parameters](https://dev.to/hermitex/how-to-extract-url-search-parameters-4k58)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Probably Shouldn&#39;t Pay for Telegram Premium](https://lifehacker.com/why-you-probably-shouldnt-pay-for-telegram-premium-1849104588)
 - [Lifehacker] [Three Ways to Lower Your Cell Phone Bill Right Now](https://lifehacker.com/three-ways-to-lower-your-cell-phone-bill-right-now-1849105105)
 - [Lifehacker] [How to Find a COVID Vaccine for Your Young Child](https://lifehacker.com/how-to-find-a-covid-vaccine-for-your-young-child-1849104900)
-- [Lifehacker] [What&#39;s New on HBO Max in July 2022](https://lifehacker.com/whats-new-on-hbo-max-in-july-2022-1849105041)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
