@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Benefits of Yellow Pages Scraping in 2022](https://dev.to/kevinbuttler1/the-benefits-of-yellow-pages-scraping-in-2022-1lnl)
+- [Dev.to/JS] [Envio de email com nodejs](https://dev.to/oscarjeremiasdev/envio-de-email-com-nodejs-4e5o)
+- [Dev.to/JS] [Reactjs no celular](https://dev.to/oscarjeremiasdev/reactjs-no-celular-b14)
+- [Dev.to/JS] [Learning Web Development](https://dev.to/khalilonline99/learning-web-development-b8)
 - [Dev.to/JS] [Design Patterns With TypeScript Examples: Facade](https://dev.to/mariusbongarts/design-patterns-with-typescript-examples-facade-2okm)
 - [Dev.to/JS] [Flutter VS Reactjs: Which One to Choose in 2022?](https://dev.to/ameliawenham/flutter-vs-reactjs-which-one-to-choose-in-2022-lfi)
 - [Dev.to/JS] [How to debug a React App](https://dev.to/adityatyagi/how-to-debug-a-react-app-4gm0)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Climan is a small npm package that automates long &amp; boring commands for you.](https://dev.to/quachhengtony/climan-is-a-small-npm-package-that-automates-long-boring-commands-for-you-4247)
 - [Dev.to/JS] [Socket event listener fires multiple times in React component](https://dev.to/tuenguyen2911_67/socket-event-listener-fires-multiple-times-in-react-component-536o)
 - [Dev.to/JS] [SDVideo Syntesis codigo generativo.](https://dev.to/jmrsuarez/sdvideo-syntesis-codigo-generativo-4fhj)
-- [Dev.to/JS] [Scopes in Javascript](https://dev.to/dfeliciano3/scopes-in-javascript-4525)
-- [Dev.to/JS] [Software Engineering Journey Update &lpar;6/19/22 - 6/25/22&rpar;](https://dev.to/ejolikestocode/software-engineering-journey-update-61922-62522-4nfk)
-- [Dev.to/JS] [Don’t prioritize speed for e2e testing but consider smarter test schedules](https://dev.to/hiroyone/dont-prioritize-speed-for-e2e-testing-but-consider-smarter-test-schedules-17f3)
-- [Dev.to/JS] [How to make your JS/TS app logging better](https://dev.to/ajstacy/how-to-make-your-app-logging-better-2edj)
 - [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
 - [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
