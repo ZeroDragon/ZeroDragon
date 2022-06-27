@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Add an awesome table of contents &lpar;TOC&rpar; to your blog posts](https://dev.to/robole/add-a-table-of-contents-toc-to-your-blog-posts-99p)
+- [Dev.to/JS] [Build a Twitter Clone with Activity Feeds and React](https://dev.to/dillionmegida/build-a-twitter-clone-with-activity-feeds-and-react-5fa0)
+- [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Dev.to/JS] [Template String in ES6 Javascript](https://dev.to/izzycious/template-string-in-es6-javascript-1i19)
 - [Dev.to/JS] [Adding Content with Storyblok CMS](https://dev.to/jacobandrewsky/adding-content-with-storyblok-cms-365p)
 - [Dev.to/JS] [Introduction to Javascript](https://dev.to/jamil/introduction-to-javascript-3c6e)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Strapi’s User Roles and Permissions for Admin Panel](https://dev.to/strapi/strapis-user-roles-and-permissions-for-admin-panel-70g)
 - [Dev.to/JS] [表單驗證：中文姓名、身分證、手機條碼、生日、信箱、手機、選擇縣市](https://dev.to/letswrite/biao-dan-yan-zheng-zhong-wen-xing-ming-shen-fen-zheng-shou-ji-tiao-ma-sheng-ri-xin-xiang-shou-ji-xuan-ze-xian-shi-1ico)
 - [Dev.to/JS] [When to use Link tag and useRouter hook in nextjs??](https://dev.to/rishabh0906/when-to-use-link-tag-and-userouter-hook-in-nextjs-ljo)
-- [Dev.to/JS] [To Node or not ? Deta is the answer !](https://dev.to/lebcit/to-node-or-not-deta-is-the-answer--3lmb)
-- [Dev.to/JS] [DOCUMENT OBJECT MODEL&lpar;DOM&rpar;](https://dev.to/izzycious/document-object-modeldom-2o5c)
 - [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
 - [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
 - [Lifehacker] [Surprising Foods You Can &lpar;and Can&#39;t&rpar; Take Through Airport Security](https://lifehacker.com/surprising-foods-you-can-and-cant-take-through-airpor-1849099435)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
-- [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)
-- [Crazy Programmer] [CCNA vs CCNP – Detailed Guide and Differences](https://www.thecrazyprogrammer.com/2022/06/ccna-vs-ccnp.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
 ---
 
