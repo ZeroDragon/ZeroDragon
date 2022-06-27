@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What makes a software development company a good option for your company?](https://dev.to/jessmann1/what-makes-a-software-development-company-a-good-option-for-your-company-226i)
+- [Dev.to/JS] [Twitter Clone Part 1: Connecting Users to Stream Feeds and Creating a Tweet](https://dev.to/dillionmegida/twitter-clone-part-1-connecting-users-to-stream-feeds-and-creating-a-tweet-13c2)
+- [Lifehacker] [Finally, an Easier Way to Use Google Password Manager on Android](https://lifehacker.com/finally-an-easier-way-to-use-google-password-manager-o-1849099204)
+- [Dev.to/JS] [Insquad | Made with React JS](https://dev.to/madewithjavascript/insquad-made-with-react-js-463i)
+- [Dev.to/JS] [The express.js alternative web framework for 2022: aex](https://dev.to/610470416/the-expressjs-alternative-web-framework-for-2022-aex-159m)
+- [Dev.to/JS] [Add Firebase SDK V9 to JavaScript Web App In Minutes [2022]](https://dev.to/hirajatamil/add-firebase-sdk-v9-to-javascript-web-app-in-minutes-2022-34hi)
 - [Dev.to/JS] [Simply Learn Full-Stack Web - Part 1, Create The Client](https://dev.to/neohed/simply-learn-full-stack-web-part-1-create-the-client-440e)
 - [Dev.to/JS] [Simply Learn Full-Stack Web - Introduction](https://dev.to/neohed/simply-learn-full-stack-web-introduction-2dfi)
 - [Dev.to/JS] [React Component as Prop with Props, The Easy Way](https://dev.to/tylim88/react-component-as-prop-with-props-the-easy-way-2lge)
@@ -30,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interacting with Smart Contracts using Web3](https://dev.to/asayerio_techblog/interacting-with-smart-contracts-using-web3-1oo3)
 - [Dev.to/JS] [UI/UX DESIGN, WHY LEARN IT?](https://dev.to/fliptotech/uiux-design-why-learn-it-23cp)
 - [Dev.to/JS] [Add a table of contents &lpar;TOC&rpar; to your blog posts](https://dev.to/robole/add-a-table-of-contents-toc-to-your-blog-posts-99p)
-- [Dev.to/JS] [Build a Twitter Clone with Activity Feeds and React](https://dev.to/dillionmegida/build-a-twitter-clone-with-activity-feeds-and-react-5fa0)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
-- [Dev.to/JS] [Template String in ES6 Javascript](https://dev.to/izzycious/template-string-in-es6-javascript-1i19)
-- [Dev.to/JS] [Adding Content with Storyblok CMS](https://dev.to/jacobandrewsky/adding-content-with-storyblok-cms-365p)
-- [Dev.to/JS] [Introduction to Javascript](https://dev.to/jamil/introduction-to-javascript-3c6e)
-- [Dev.to/JS] [When to use HashMap instead of Loop Part 2](https://dev.to/kaleemniz/when-to-use-hashmap-instead-of-loop-part-2-31pi)
 - [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
 - [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
 - [Lifehacker] [What to Do If You Find Bed Bugs In Your Hotel Room](https://lifehacker.com/what-to-do-if-you-find-bed-bugs-in-your-hotel-room-1849101627)
 - [Lifehacker] [Juuls Weren&#39;t Real Vaping Anyway](https://lifehacker.com/juuls-werent-real-vaping-anyway-1849101683)
-- [Lifehacker] [Surprising Foods You Can &lpar;and Can&#39;t&rpar; Take Through Airport Security](https://lifehacker.com/surprising-foods-you-can-and-cant-take-through-airpor-1849099435)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
