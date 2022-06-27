@@ -23,9 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GETTING A JOB IN TECH AS A NEWBIE](https://dev.to/fliptotech/getting-a-job-in-tech-as-a-newbie-2n6i)
+- [Dev.to/JS] [The sliding window pattern](https://dev.to/bradbieselin/the-sliding-window-pattern-3nei)
+- [Dev.to/JS] [Paracetamol.js💊| #155: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-155-explica-este-codigo-javascript-nb3)
+- [Lifehacker] [How to Use Apple Notes to Have Secret Chats With Others](https://lifehacker.com/how-to-use-apple-notes-to-have-secret-chats-with-others-1849112538)
+- [Dev.to/JS] [Full-Stack React &amp; Node.js - Create the server](https://dev.to/neohed/full-stack-react-nodejs-3-create-the-server-5a83)
+- [Dev.to/JS] [CFP is open for DevoxxMA, apply and don&#39;t miss out this unique experience in your tech career!](https://dev.to/essaydyoumayma/cfp-is-open-for-devoxxma-apply-and-dont-miss-out-this-unique-experience-in-your-tech-career-2od0)
 - [Lifehacker] [Why You Should Stop Hiring Full-Service Movers](https://lifehacker.com/why-you-should-stop-hiring-full-service-movers-1849112477)
 - [Dev.to/JS] [Open Source GraphQL CDN / Edge Cache with Cloudflare, Fastly, and Fly.io](https://dev.to/wundergraph/open-source-graphql-cdn-edge-cache-with-cloudflare-fastly-and-flyio-1jm6)
-- [Dev.to/JS] [Full-Stack React &amp; Node.js - #2 Add a form](https://dev.to/neohed/full-stack-react-nodejs-part-2-add-a-form-2e9b)
+- [Dev.to/JS] [Full-Stack React &amp; Node.js - Add a form](https://dev.to/neohed/full-stack-react-nodejs-part-2-add-a-form-2e9b)
 - [Dev.to/JS] [Devoxx Morocco biggest tech conference in MEA region!](https://dev.to/essaydyoumayma/devoxx-morocco-biggest-tech-conference-in-mea-region-4kf)
 - [Lifehacker] [How to Manage an Emotional Breakdown at Work](https://lifehacker.com/how-to-manage-an-emotional-breakdown-at-work-1849110866)
 - [Dev.to/JS] [Hoisting in JS](https://dev.to/suhail/hoisting-in-js-oj8)
@@ -33,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-5.3 &lpar; Api Features {Filters} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-53-api-features-filters--33bp)
 - [Lifehacker] [Why a ‘Buy-Back’ Program May be a Cheaper Way to Rent a Car in Europe](https://lifehacker.com/why-a-buy-back-program-may-be-a-cheaper-way-to-rent-a-1849112205)
 - [Dev.to/JS] [New JavaScript Features ECMAScript 2022 &lpar;with examples&rpar;](https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2022-with-examples-4nhg)
-- [Dev.to/JS] [Material Dashboard Angular | Made with Angular JS | Template](https://dev.to/madewithjavascript/material-dashboard-angular-made-with-angular-js-template-3ibn)
-- [Dev.to/JS] [Are You A React js Developer? These Are Reasons You Should Learn Next js.](https://dev.to/ayo_dev/are-you-a-react-js-developer-these-are-reasons-you-should-learn-next-js-oh7)
-- [Dev.to/JS] [3 Javascript features you probably didn&#39;t know](https://dev.to/__victorchan/3-javascript-features-you-probably-didnt-know-2936)
 - [Lifehacker] [These Snakes Are Actually Great for Your Garden](https://lifehacker.com/these-snakes-are-actually-great-for-your-garden-1849110406)
-- [Dev.to/JS] [CSS Selectors And XPath Locators In Selenium Test Automation Scripts](https://dev.to/loadero/css-selectors-and-xpath-locators-in-selenium-test-automation-scripts-1i1n)
 - [Lifehacker] [The 7 Deadly Sins of Being an American Tourist Overseas](https://lifehacker.com/the-7-deadly-sins-of-being-an-american-tourist-overseas-1849106955)
-- [Dev.to/JS] [React Query and Forms](https://dev.to/tkdodo/react-query-and-forms-4odi)
 - [Lifehacker] [Why Everyone Hates Landlords Now](https://lifehacker.com/why-everyone-hates-landlords-now-1849100799)
 - [Lifehacker] [Finally, an Easier Way to Use Google Password Manager on Android](https://lifehacker.com/finally-an-easier-way-to-use-google-password-manager-o-1849099204)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on HBO Max in July 2022](https://lifehacker.com/whats-new-on-hbo-max-in-july-2022-1849105041)
 - [Lifehacker] [What&#39;s a Good Resting Heart Rate, Anyway?](https://lifehacker.com/whats-a-good-resting-heart-rate-anyway-1849102456)
 - [Lifehacker] [These Free Store Loyalty Programs Are Actually Worth Signing Up For](https://lifehacker.com/these-store-loyalty-programs-are-actually-worth-signing-1849101510)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who &lpar;or What&rpar; Is Horace?](https://lifehacker.com/who-or-what-is-horace-1849102989)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
