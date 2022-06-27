@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 Beginner-Friendly Exercises to Do With Kettlebells](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
+- [Dev.to/JS] [Creating a &quot;Candidates&quot; Pattern in Your Codebase](https://dev.to/michaelmangial1/creating-a-candidates-pattern-in-your-codebase-2k3e)
+- [Dev.to/JS] [Recursion in JavaScript](https://dev.to/kadeesterline/recursion-in-javascript-3jk4)
+- [Dev.to/JS] [Full-Stack React &amp; Node.js - Get data from server](https://dev.to/neohed/full-stack-react-nodejs-4-get-data-from-server-3m8h)
+- [Lifehacker] [How to Renounce Your U.S. Citizenship](https://lifehacker.com/how-to-renounce-your-u-s-citizenship-1849114349)
+- [Dev.to/JS] [for...of Loop in JavaSript](https://dev.to/chibukasia/forof-loop-in-javasript-4j9h)
+- [Lifehacker] [Should You Choose a Hotel or an Airbnb for Your Next Trip?](https://lifehacker.com/should-you-choose-a-hotel-or-an-airbnb-for-your-next-tr-1849114093)
 - [Lifehacker] [Finish Your Dish With a Splash of Pickle Juice](https://lifehacker.com/finish-your-dish-with-a-splash-of-pickle-juice-1849113712)
 - [Dev.to/JS] [Microfrontend](https://dev.to/tirthgpatel27/microfrontend-58ao)
 - [Lifehacker] [What&#39;s New on Prime Video in July 2022](https://lifehacker.com/whats-new-on-prime-video-in-july-2022-1849113524)
@@ -35,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #155: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-155-explica-este-codigo-javascript-nb3)
 - [Lifehacker] [How to Use Apple Notes to Have Secret Chats With Others](https://lifehacker.com/how-to-use-apple-notes-to-have-secret-chats-with-others-1849112538)
 - [Dev.to/JS] [Full-Stack React &amp; Node.js - Create the server](https://dev.to/neohed/full-stack-react-nodejs-3-create-the-server-5a83)
-- [Dev.to/JS] [CFP is open for DevoxxMA, apply and don&#39;t miss out this unique experience in your tech career!](https://dev.to/essaydyoumayma/cfp-is-open-for-devoxxma-apply-and-dont-miss-out-this-unique-experience-in-your-tech-career-2od0)
 - [Lifehacker] [Why You Should Stop Hiring Full-Service Movers](https://lifehacker.com/why-you-should-stop-hiring-full-service-movers-1849112477)
-- [Dev.to/JS] [Open Source GraphQL CDN / Edge Cache with Cloudflare, Fastly, and Fly.io](https://dev.to/wundergraph/open-source-graphql-cdn-edge-cache-with-cloudflare-fastly-and-flyio-1jm6)
-- [Dev.to/JS] [Full-Stack React &amp; Node.js - Add a form](https://dev.to/neohed/full-stack-react-nodejs-part-2-add-a-form-2e9b)
-- [Dev.to/JS] [Devoxx Morocco biggest tech conference in MEA region!](https://dev.to/essaydyoumayma/devoxx-morocco-biggest-tech-conference-in-mea-region-4kf)
 - [Lifehacker] [How to Manage an Emotional Breakdown at Work](https://lifehacker.com/how-to-manage-an-emotional-breakdown-at-work-1849110866)
 - [Lifehacker] [Why a ‘Buy-Back’ Program May be a Cheaper Way to Rent a Car in Europe](https://lifehacker.com/why-a-buy-back-program-may-be-a-cheaper-way-to-rent-a-1849112205)
 - [Lifehacker] [These Snakes Are Actually Great for Your Garden](https://lifehacker.com/these-snakes-are-actually-great-for-your-garden-1849110406)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best New Chrome 103 Features for iPhone](https://lifehacker.com/the-best-new-chrome-103-features-for-iphone-1849105924)
 - [Lifehacker] [10 Ways to Make Chrome a Better Android Browser](https://lifehacker.com/10-ways-to-make-chrome-a-better-android-browser-1849103996)
 - [Lifehacker] [How to Stop Your Marshmallows From Getting Stale](https://lifehacker.com/how-to-stop-your-marshmallows-from-getting-stale-1849106190)
-- [Lifehacker] [Why You Probably Shouldn&#39;t Pay for Telegram Premium](https://lifehacker.com/why-you-probably-shouldnt-pay-for-telegram-premium-1849104588)
-- [Lifehacker] [Three Ways to Lower Your Cell Phone Bill Right Now](https://lifehacker.com/three-ways-to-lower-your-cell-phone-bill-right-now-1849105105)
-- [Lifehacker] [How to Find a COVID Vaccine for Your Young Child](https://lifehacker.com/how-to-find-a-covid-vaccine-for-your-young-child-1849104900)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
