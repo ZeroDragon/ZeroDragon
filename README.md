@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MakerBox | Made with Next JS](https://dev.to/madewithjavascript/makerbox-made-with-next-js-28b8)
+- [Dev.to/JS] [Get URL Parameters with JavaScript](https://dev.to/robert96/get-url-parameters-with-javascript-1ah6)
+- [Dev.to/JS] [Full-Stack React &amp; Node.js - Get client &amp; server talking](https://dev.to/neohed/full-stack-react-nodejs-get-client-server-talking-of9)
+- [Dev.to/JS] [2 steps to display cache tables data on the web by using jquery datatable and embedded python](https://dev.to/intersystems/2-steps-to-display-cache-tables-data-on-the-web-by-using-jquery-datatable-and-embedded-python-3idm)
+- [Dev.to/JS] [A brief introduction on how to draw diagrams with mermaid library](https://dev.to/intersystems/a-brief-introduction-on-how-to-draw-diagrams-with-mermaid-library-b7i)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Dev.to/JS] [Hello World!](https://dev.to/zannetdev/hello-world-2fgc)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
@@ -37,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [for...of Loop in JavaSript](https://dev.to/chibukasia/forof-loop-in-javasript-4j9h)
 - [Lifehacker] [Should You Choose a Hotel or an Airbnb for Your Next Trip?](https://lifehacker.com/should-you-choose-a-hotel-or-an-airbnb-for-your-next-tr-1849114093)
 - [Lifehacker] [Finish Your Dish With a Splash of Pickle Juice](https://lifehacker.com/finish-your-dish-with-a-splash-of-pickle-juice-1849113712)
-- [Dev.to/JS] [Microfrontend](https://dev.to/tirthgpatel27/microfrontend-58ao)
 - [Lifehacker] [What&#39;s New on Prime Video in July 2022](https://lifehacker.com/whats-new-on-prime-video-in-july-2022-1849113524)
-- [Dev.to/JS] [How to Extract URL Query Parameters](https://dev.to/hermitex/how-to-extract-url-search-parameters-4k58)
-- [Dev.to/JS] [Introducing GTM to nuxt webapps.](https://dev.to/takeshi_sawaki/introducing-gtm-to-nuxt-webapps-1hio)
 - [Lifehacker] [Kids Can Still Eat for Free at These Restaurants](https://lifehacker.com/kids-can-still-eat-for-free-at-these-restaurants-1849112880)
-- [Dev.to/JS] [TypeScript Tutorial for beginners to advance](https://dev.to/itznur07/typescript-tutorial-for-beginners-to-advance-54h6)
-- [Dev.to/JS] [GETTING A JOB IN TECH AS A NEWBIE](https://dev.to/fliptotech/getting-a-job-in-tech-as-a-newbie-2n6i)
 - [Lifehacker] [How to Use Apple Notes to Have Secret Chats With Others](https://lifehacker.com/how-to-use-apple-notes-to-have-secret-chats-with-others-1849112538)
 - [Lifehacker] [Why You Should Stop Hiring Full-Service Movers](https://lifehacker.com/why-you-should-stop-hiring-full-service-movers-1849112477)
 - [Lifehacker] [How to Manage an Emotional Breakdown at Work](https://lifehacker.com/how-to-manage-an-emotional-breakdown-at-work-1849110866)
