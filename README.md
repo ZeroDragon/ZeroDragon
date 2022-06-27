@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why a ‘Buy-Back’ Program May be a Cheaper Way to Rent a Car in Europe](https://lifehacker.com/why-a-buy-back-program-may-be-a-cheaper-way-to-rent-a-1849112205)
+- [Dev.to/JS] [New JavaScript Features ECMAScript 2022 &lpar;with examples&rpar;](https://dev.to/brayanarrieta/new-javascript-features-ecmascript-2022-with-examples-4nhg)
+- [Dev.to/JS] [Material Dashboard Angular | Made with Angular JS | Template](https://dev.to/madewithjavascript/material-dashboard-angular-made-with-angular-js-template-3ibn)
+- [Dev.to/JS] [Are You A React js Developer? These Are Reasons You Should Learn Next js.](https://dev.to/ayo_dev/are-you-a-react-js-developer-these-are-reasons-you-should-learn-next-js-oh7)
+- [Dev.to/JS] [3 Javascript features you probably didn&#39;t know](https://dev.to/__victorchan/3-javascript-features-you-probably-didnt-know-2936)
+- [Lifehacker] [These Snakes Are Actually Great for Your Garden](https://lifehacker.com/these-snakes-are-actually-great-for-your-garden-1849110406)
+- [Dev.to/JS] [CSS Selectors And XPath Locators In Selenium Test Automation Scripts](https://dev.to/loadero/css-selectors-and-xpath-locators-in-selenium-test-automation-scripts-1i1n)
 - [Lifehacker] [The 7 Deadly Sins of Being an American Tourist Overseas](https://lifehacker.com/the-7-deadly-sins-of-being-an-american-tourist-overseas-1849106955)
 - [Dev.to/JS] [React Query and Forms](https://dev.to/tkdodo/react-query-and-forms-4odi)
 - [Dev.to/JS] [Build Agency Website with ReactJS, Styled-components and GSAP for Scrolling Animations](https://dev.to/sahuljr7/build-agency-website-with-reactjs-styled-components-and-gsap-for-scrolling-animations-f71)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [i made a programming language!](https://dev.to/virejdasani/i-made-a-programming-language-44j8)
 - [Dev.to/JS] [Twitter Clone Part 1: Connecting Users to Stream Feeds and Creating a Tweet](https://dev.to/dillionmegida/twitter-clone-part-1-connecting-users-to-stream-feeds-and-creating-a-tweet-13c2)
 - [Lifehacker] [Finally, an Easier Way to Use Google Password Manager on Android](https://lifehacker.com/finally-an-easier-way-to-use-google-password-manager-o-1849099204)
-- [Dev.to/JS] [Insquad | Made with React JS](https://dev.to/madewithjavascript/insquad-made-with-react-js-463i)
-- [Dev.to/JS] [The express.js alternative web framework for 2022: aex](https://dev.to/610470416/the-expressjs-alternative-web-framework-for-2022-aex-159m)
-- [Dev.to/JS] [Add Firebase SDK V9 to JavaScript Web App In Minutes [2022]](https://dev.to/hirajatamil/add-firebase-sdk-v9-to-javascript-web-app-in-minutes-2022-34hi)
-- [Dev.to/JS] [Simply Learn Full-Stack Web - Part 1, Create The Client](https://dev.to/neohed/simply-learn-full-stack-web-part-1-create-the-client-440e)
-- [Dev.to/JS] [Simply Learn Full-Stack Web - Introduction](https://dev.to/neohed/simply-learn-full-stack-web-introduction-2dfi)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Who &lpar;or What&rpar; Is Horace?](https://lifehacker.com/who-or-what-is-horace-1849102989)
 - [Lifehacker] [Everything You Should Do to Keep Your Lawnmower Running All Summer](https://lifehacker.com/everything-you-should-do-to-keep-your-lawnmower-running-1849102625)
 - [Lifehacker] [What to Do When Your Dishwasher Isn’t Draining](https://lifehacker.com/what-to-do-when-your-dishwasher-isn-t-draining-1849101679)
-- [Lifehacker] [What Are Your Unwritten Rules of Parking Lot Etiquette?](https://lifehacker.com/what-are-your-unwritten-rules-of-parking-lot-etiquette-1849099906)
-- [Lifehacker] [How to Perform CPR on a Dog](https://lifehacker.com/how-to-perform-cpr-on-a-dog-1849101317)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
