@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducing $createdAt And $updatedAt On Each Resource](https://dev.to/appwrite/introducing-createdat-and-updatedat-on-each-resource-5pa)
+- [Dev.to/JS] [Clean Code is About Reducing Complexity &lpar;Not Improving Readability&rpar;](https://dev.to/michaelmangial1/clean-code-is-about-reducing-complexity-not-improving-readability-4do3)
 - [Lifehacker] [Can You Guess a Movie Based on a Single Frame?](https://lifehacker.com/can-you-guess-a-movie-based-on-a-single-frame-1849118203)
 - [Dev.to/JS] [Buenas Prácticas con NgRx: Parte 3 Modularidad](https://dev.to/danyparedes/buenas-practicas-con-ngrx-parte-3-modularidad-ki5)
 - [Dev.to/JS] [Javascript Object methods every developer should know!](https://dev.to/kai_wenzel/javascript-object-methods-every-developer-should-know-ed)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gaining remote access to a computer with a reverse shell attack in Node.js](https://dev.to/devdevcharlie/gaining-remote-access-to-a-computer-with-a-reverse-shell-attack-in-nodejs-3a40)
 - [Dev.to/JS] [How to Get Data from the Twitter API in JavaScript](https://dev.to/sahilfruitwala/how-to-get-data-from-the-twitter-api-in-javascript-458g)
 - [Lifehacker] [Why You Should Always Close Your Windows During Fireworks](https://lifehacker.com/why-you-should-always-close-your-windows-during-firewor-1849117124)
-- [Dev.to/JS] [Paracetamol.js💊| #156: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-156-explica-este-codigo-javascript-3le5)
-- [Dev.to/JS] [I am too lazy for a test framework](https://dev.to/dmail/i-am-too-lazy-for-a-test-framework-92f)
 - [Lifehacker] [Everything You Need to Know About Getting a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205)
 - [Lifehacker] [You Should Consider a Relationship Contract](https://lifehacker.com/you-should-consider-a-relationship-contract-1849115328)
 - [Lifehacker] [9 of the Best Travel Podcasts to Take You Away](https://lifehacker.com/9-of-the-best-travel-podcasts-to-take-you-away-1849117348)
