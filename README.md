@@ -23,7 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [File Sharing Site](https://dev.to/lassev/file-sharing-site-1a6i)
+- [Dev.to/JS] [How Do I Index My Appwrite Collection?](https://dev.to/appwrite/how-do-i-index-my-appwrite-collection-2o4n)
+- [Dev.to/JS] [Event Bubbling](https://dev.to/julianepires/event-bubbling-3m3p)
+- [Dev.to/JS] [5 Essential Web Development Tools in 2022](https://dev.to/yashtiwari1k/5-essential-web-development-tools-in-2022-4d7n)
+- [Dev.to/JS] [Amp up your React workflow with these &quot;Gen Z&quot; toolings](https://dev.to/h3mandev/amp-up-your-react-workflow-with-these-gen-z-toolings-5m3)
+- [Dev.to/JS] [Creating a Gantt chart with vanilla JavaScript](https://dev.to/bryntum/creating-a-gantt-chart-with-vanilla-javascript-3ng8)
+- [Lifehacker] [These Credit Cards Come With Sweet Airport Perks](https://lifehacker.com/these-credit-cards-come-with-sweet-airport-perks-1849118498)
 - [Dev.to/JS] [Introducing $createdAt And $updatedAt On Each Resource](https://dev.to/appwrite/introducing-createdat-and-updatedat-on-each-resource-5pa)
+- [Lifehacker] [How to Make Tomato Ranch, the Ranch of the Summer](https://lifehacker.com/how-to-make-tomato-ranch-the-ranch-of-the-summer-1849119027)
 - [Dev.to/JS] [Clean Code is About Reducing Complexity &lpar;Not Improving Readability&rpar;](https://dev.to/michaelmangial1/clean-code-is-about-reducing-complexity-not-improving-readability-4do3)
 - [Lifehacker] [Can You Guess a Movie Based on a Single Frame?](https://lifehacker.com/can-you-guess-a-movie-based-on-a-single-frame-1849118203)
 - [Dev.to/JS] [Buenas Prácticas con NgRx: Parte 3 Modularidad](https://dev.to/danyparedes/buenas-practicas-con-ngrx-parte-3-modularidad-ki5)
@@ -31,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Full-Stack React &amp; Node.js - HTTP POST](https://dev.to/neohed/full-stack-react-nodejs--346m)
 - [Lifehacker] [‘Fish Pedicures’ Should Go to Hell](https://lifehacker.com/fuck-fish-pedicures-1849117825)
 - [Dev.to/JS] [Using ESLint to help find bugs in your JavaScript Projects](https://dev.to/sahilnare/using-eslint-to-help-find-bugs-in-your-javascript-projects-311o)
-- [Dev.to/JS] [How to Use a Javascript Reporting Tool with Next.js](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-with-nextjs-2lai)
-- [Dev.to/JS] [MERN - React Form - 5](https://dev.to/shubhamtiwari909/mern-react-form-5-53ln)
 - [Lifehacker] [Edible Things You Should Never Actually Eat](https://lifehacker.com/edible-things-you-should-never-actually-eat-1849117770)
-- [Dev.to/JS] [Quiz: JavaScript](https://dev.to/joolsmcfly/quiz-javascript-2b6i)
-- [Dev.to/JS] [Paper Dashboard Angular | Made with Angular JS | Template](https://dev.to/madewithjavascript/paper-dashboard-angular-made-with-angular-js-template-2dm3)
-- [Dev.to/JS] [Gaining remote access to a computer with a reverse shell attack in Node.js](https://dev.to/devdevcharlie/gaining-remote-access-to-a-computer-with-a-reverse-shell-attack-in-nodejs-3a40)
-- [Dev.to/JS] [How to Get Data from the Twitter API in JavaScript](https://dev.to/sahilfruitwala/how-to-get-data-from-the-twitter-api-in-javascript-458g)
 - [Lifehacker] [Why You Should Always Close Your Windows During Fireworks](https://lifehacker.com/why-you-should-always-close-your-windows-during-firewor-1849117124)
 - [Lifehacker] [Everything You Need to Know About Getting a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205)
 - [Lifehacker] [You Should Consider a Relationship Contract](https://lifehacker.com/you-should-consider-a-relationship-contract-1849115328)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why a ‘Buy-Back’ Program May be a Cheaper Way to Rent a Car in Europe](https://lifehacker.com/why-a-buy-back-program-may-be-a-cheaper-way-to-rent-a-1849112205)
 - [Lifehacker] [These Snakes Are Actually Great for Your Garden](https://lifehacker.com/these-snakes-are-actually-great-for-your-garden-1849110406)
 - [Lifehacker] [The 7 Deadly Sins of Being an American Tourist Overseas](https://lifehacker.com/the-7-deadly-sins-of-being-an-american-tourist-overseas-1849106955)
-- [Lifehacker] [Why Everyone Hates Landlords Now](https://lifehacker.com/why-everyone-hates-landlords-now-1849100799)
-- [Lifehacker] [Finally, an Easier Way to Use Google Password Manager on Android](https://lifehacker.com/finally-an-easier-way-to-use-google-password-manager-o-1849099204)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
