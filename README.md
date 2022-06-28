@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Engage your site visitors with live updates using Ably, Next.js, Prisma, and PlanetScale](https://dev.to/ably/engage-your-site-visitors-with-live-updates-using-ably-nextjs-prisma-and-planetscale-36f6)
+- [Dev.to/JS] [Do you have any idea what tracks Devoxx Morocco covers?](https://dev.to/essaydyoumayma/do-you-have-any-idea-what-tracks-devoxx-morocco-covers-38f5)
+- [Dev.to/JS] [Medusa + Nuxt.js + Stripe - How to Create a Nuxt.js Ecommerce Storefront from Scratch Using Medusa Part 3](https://dev.to/medusajs/medusa-nuxtjs-stripe-how-to-create-a-nuxtjs-ecommerce-storefront-from-scratch-using-medusa-part-3-3jg0)
 - [Dev.to/JS] [NestJS - Middleware](https://dev.to/ilyary/nestjs-middleware-18ki)
 - [Dev.to/JS] [Remaking my first childhood project - a virtual pet fish](https://dev.to/inputduck/remaking-my-first-childhood-project-a-virtual-pet-fish-3c7i)
 - [Dev.to/JS] [Looking to Deploy a highly secure crypto trading platform like poloniex clone script](https://dev.to/thecryptoapeo/looking-to-deploy-a-highly-secure-crypto-trading-platform-like-poloniex-clone-script-5gaf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mocking Web Push notification in Cypress](https://dev.to/chinchang/mocking-web-push-notification-in-cypress-35a7)
 - [Dev.to/JS] [The Power of Variable Names](https://dev.to/adillaumam/the-power-of-variable-names-2cm4)
 - [Dev.to/JS] [Smarter Next.js API routes with custom createApiRoute function](https://dev.to/jussinevavuori/smarter-nextjs-api-routes-with-custom-createapiroute-function-29l5)
-- [Dev.to/JS] [Generate 1,000 Personalized Videos With Node.js In Minutes](https://dev.to/kushal_70/generate-1000-personalized-videos-with-nodejs-in-minutes-3d7a)
-- [Dev.to/JS] [Implementing Jest and RTL for beginners &lpar;2/3&rpar;](https://dev.to/jarethtan/implementing-jest-and-rtl-for-beginners-23-ao0)
-- [Dev.to/JS] [Learn to integrate Login via Facebook using Huawei Auth Service &lpar;React Native&rpar;](https://dev.to/hmscommunity/learn-to-integrate-login-via-facebook-using-huawei-auth-service-react-native-206k)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
