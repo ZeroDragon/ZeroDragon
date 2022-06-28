@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [PragueJS Community 2022: Developer Experience](https://dev.to/superface/praguejs-community-2022-developer-experience-51kj)
+- [Dev.to/JS] [Binary to Decimal App using Typescript. #beginner2advanced](https://dev.to/zt4ff_1/binary-to-decimal-app-using-typescript-beginner2advanced-1nd5)
+- [Dev.to/JS] [10hr&lt;2min](https://dev.to/hik8hik/10hr2min-285g)
+- [Dev.to/JS] [Title](https://dev.to/coder19/title-2n44)
+- [Dev.to/JS] [Mocking Web Push notification in Cypress](https://dev.to/chinchang/mocking-web-push-notification-in-cypress-35a7)
 - [Dev.to/JS] [The Power of Variable Names](https://dev.to/adillaumam/the-power-of-variable-names-2cm4)
 - [Dev.to/JS] [Smarter Next.js API routes with custom createApiRoute function](https://dev.to/jussinevavuori/smarter-nextjs-api-routes-with-custom-createapiroute-function-29l5)
 - [Dev.to/JS] [Generate 1,000 Personalized Videos With Node.js In Minutes](https://dev.to/kushal_70/generate-1000-personalized-videos-with-nodejs-in-minutes-3d7a)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learn to integrate Login via Facebook using Huawei Auth Service &lpar;React Native&rpar;](https://dev.to/hmscommunity/learn-to-integrate-login-via-facebook-using-huawei-auth-service-react-native-206k)
 - [Dev.to/JS] [How to Add Script Tags in React](https://dev.to/clumsycoder/how-to-add-script-tags-in-react-mpe)
 - [Dev.to/JS] [Hire vetted quality DevOps developers within 48 Hours](https://dev.to/optymize123/hire-vetted-quality-devops-developers-within-48-hours-mji)
-- [Dev.to/JS] [What is debouncing in JavaScript?](https://dev.to/aamchora/what-is-debouncing-in-javascript-21om)
-- [Dev.to/JS] [Why javascript is a badass?](https://dev.to/arorachakit/why-javascript-is-a-badass-3p5a)
-- [Dev.to/JS] [Update all the Node.js dependencies to their latest version](https://dev.to/mrbotdeveloper/update-all-the-nodejs-dependencies-to-their-latest-version-5607)
-- [Dev.to/JS] [Send Notifications Through Node.js App! 🔥](https://dev.to/sujeetgund/send-notifications-through-nodejs-app-58fc)
-- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-5.4 &lpar; Api Features {pagination} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-54-api-features-pagination--3jko)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
