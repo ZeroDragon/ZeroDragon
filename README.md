@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Nested Routes with React Router](https://dev.to/drayeleo/nested-routes-with-react-router-37hd)
 - [Dev.to/JS] [MakerBox | Made with Next JS](https://dev.to/madewithjavascript/makerbox-made-with-next-js-28b8)
 - [Dev.to/JS] [Get URL Parameters with JavaScript](https://dev.to/robert96/get-url-parameters-with-javascript-1ah6)
 - [Dev.to/JS] [Full-Stack React &amp; Node.js - Get client &amp; server talking](https://dev.to/neohed/full-stack-react-nodejs-get-client-server-talking-of9)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Recursion in JavaScript](https://dev.to/kadeesterline/recursion-in-javascript-3jk4)
 - [Dev.to/JS] [Full-Stack React &amp; Node.js - Get data from server](https://dev.to/neohed/full-stack-react-nodejs-4-get-data-from-server-3m8h)
 - [Lifehacker] [How to Renounce Your U.S. Citizenship](https://lifehacker.com/how-to-renounce-your-u-s-citizenship-1849114349)
-- [Dev.to/JS] [for...of Loop in JavaSript](https://dev.to/chibukasia/forof-loop-in-javasript-4j9h)
 - [Lifehacker] [Should You Choose a Hotel or an Airbnb for Your Next Trip?](https://lifehacker.com/should-you-choose-a-hotel-or-an-airbnb-for-your-next-tr-1849114093)
 - [Lifehacker] [Finish Your Dish With a Splash of Pickle Juice](https://lifehacker.com/finish-your-dish-with-a-splash-of-pickle-juice-1849113712)
 - [Lifehacker] [What&#39;s New on Prime Video in July 2022](https://lifehacker.com/whats-new-on-prime-video-in-july-2022-1849113524)
