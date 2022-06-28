@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why javascript is a badass?](https://dev.to/arorachakit/why-javascript-is-a-badass-3p5a)
+- [Dev.to/JS] [Update all the Node.js dependencies to their latest version](https://dev.to/mrbotdeveloper/update-all-the-nodejs-dependencies-to-their-latest-version-5607)
+- [Dev.to/JS] [Send Notifications Through Node.js App! 🔥](https://dev.to/sujeetgund/send-notifications-through-nodejs-app-58fc)
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-5.4 &lpar; Api Features {pagination} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-54-api-features-pagination--3jko)
 - [Dev.to/JS] [INSTALL DOCKER](https://dev.to/reynaldoz/install-docker-2oa4)
 - [Dev.to/JS] [Ace Data Structures and Algorithm in 9 steps](https://dev.to/upskillie/ace-data-structures-and-algorithm-in-9-steps-4930)
 - [Dev.to/JS] [A Handbook for acing take home Coding Assignments](https://dev.to/upskillie/a-handbook-for-acing-take-home-coding-assignments-4b18)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [memoapp.pro | Made with Backbone JS](https://dev.to/madewithjavascript/memoapppro-made-with-backbone-js-5cak)
 - [Dev.to/JS] [Employer branding as a hiring moat in competitive times](https://dev.to/upskillie/employer-branding-as-a-hiring-moat-in-competitive-times-1hk)
 - [Dev.to/JS] [Softer Sides of a Technical Interview](https://dev.to/upskillie/softer-sides-of-a-technical-interview-mo)
-- [Dev.to/JS] [Tips that work magic for your LinkedIn profile!!!](https://dev.to/upskillie/tips-that-work-magic-for-your-linkedin-profile-7ck)
-- [Dev.to/JS] [Top 3 companies that sponsor work visa for their employees in Spain](https://dev.to/upskillie/top-3-companies-that-sponsor-work-visa-for-their-employees-in-spain-g7n)
-- [Dev.to/JS] [Online coding platforms as a signal for tech hiring](https://dev.to/upskillie/online-coding-platforms-as-a-signal-for-tech-hiring-2ndi)
-- [Dev.to/JS] [13 Companies Sponsoring Visa for International](https://dev.to/upskillie/13-companies-sponsoring-visa-for-international-3g5p)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
