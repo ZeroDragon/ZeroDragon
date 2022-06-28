@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build on Flow | Learn FCL - 10. How to Create a New Testnet Account with Blocto Wallet](https://dev.to/maxstalker/build-on-flow-learn-fcl-10-how-to-create-a-new-testnet-account-with-blocto-wallet-4lda)
+- [Dev.to/JS] [Managing Markdown content doesn&#39;t have to be hard!](https://dev.to/ekqt/managing-markdown-content-doesnt-have-to-be-hard-6ja)
+- [Lifehacker] [How to Create a Spotify ‘Iceberg’](https://lifehacker.com/how-to-create-a-spotify-iceberg-1849119743)
+- [Dev.to/JS] [QuasarConf 2022 - Speakers and Schedule](https://dev.to/quasar/quasarconf-2022-speakers-and-schedule-dp3)
+- [Lifehacker] [What to Do If You Find an Injured Bird](https://lifehacker.com/what-to-do-if-you-find-an-injured-bird-1849119429)
+- [Dev.to/JS] [tinwayJs example](https://dev.to/tinway/tinwayjs-example-5aj8)
+- [Dev.to/JS] [Javascript E𝗺𝗽𝘁𝘆 𝗼𝗯𝗷𝗲𝗰𝘁 𝗮𝘀 𝗮 𝗳𝗮𝗹𝗹𝗯𝗮𝗰𝗸 𝘄𝗵𝗶𝗹𝗲 𝗱𝗲𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗶𝗻𝗴](https://dev.to/talenttinaapi/javascript-e-13h4)
 - [Dev.to/JS] [File Sharing Site](https://dev.to/lassev/file-sharing-site-1a6i)
 - [Dev.to/JS] [How Do I Index My Appwrite Collection?](https://dev.to/appwrite/how-do-i-index-my-appwrite-collection-2o4n)
 - [Dev.to/JS] [Event Bubbling](https://dev.to/julianepires/event-bubbling-3m3p)
@@ -32,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Credit Cards Come With Sweet Airport Perks](https://lifehacker.com/these-credit-cards-come-with-sweet-airport-perks-1849118498)
 - [Dev.to/JS] [Introducing $createdAt And $updatedAt On Each Resource](https://dev.to/appwrite/introducing-createdat-and-updatedat-on-each-resource-5pa)
 - [Lifehacker] [How to Make Tomato Ranch, the Ranch of the Summer](https://lifehacker.com/how-to-make-tomato-ranch-the-ranch-of-the-summer-1849119027)
-- [Dev.to/JS] [Clean Code is About Reducing Complexity &lpar;Not Improving Readability&rpar;](https://dev.to/michaelmangial1/clean-code-is-about-reducing-complexity-not-improving-readability-4do3)
 - [Lifehacker] [Can You Guess a Movie Based on a Single Frame?](https://lifehacker.com/can-you-guess-a-movie-based-on-a-single-frame-1849118203)
-- [Dev.to/JS] [Buenas Prácticas con NgRx: Parte 3 Modularidad](https://dev.to/danyparedes/buenas-practicas-con-ngrx-parte-3-modularidad-ki5)
-- [Dev.to/JS] [Javascript Object methods every developer should know!](https://dev.to/kai_wenzel/javascript-object-methods-every-developer-should-know-ed)
-- [Dev.to/JS] [Full-Stack React &amp; Node.js - HTTP POST](https://dev.to/neohed/full-stack-react-nodejs--346m)
 - [Lifehacker] [‘Fish Pedicures’ Should Go to Hell](https://lifehacker.com/fuck-fish-pedicures-1849117825)
-- [Dev.to/JS] [Using ESLint to help find bugs in your JavaScript Projects](https://dev.to/sahilnare/using-eslint-to-help-find-bugs-in-your-javascript-projects-311o)
 - [Lifehacker] [Edible Things You Should Never Actually Eat](https://lifehacker.com/edible-things-you-should-never-actually-eat-1849117770)
 - [Lifehacker] [Why You Should Always Close Your Windows During Fireworks](https://lifehacker.com/why-you-should-always-close-your-windows-during-firewor-1849117124)
 - [Lifehacker] [Everything You Need to Know About Getting a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Stop Hiring Full-Service Movers](https://lifehacker.com/why-you-should-stop-hiring-full-service-movers-1849112477)
 - [Lifehacker] [How to Manage an Emotional Breakdown at Work](https://lifehacker.com/how-to-manage-an-emotional-breakdown-at-work-1849110866)
 - [Lifehacker] [Why a ‘Buy-Back’ Program May be a Cheaper Way to Rent a Car in Europe](https://lifehacker.com/why-a-buy-back-program-may-be-a-cheaper-way-to-rent-a-1849112205)
-- [Lifehacker] [These Snakes Are Actually Great for Your Garden](https://lifehacker.com/these-snakes-are-actually-great-for-your-garden-1849110406)
-- [Lifehacker] [The 7 Deadly Sins of Being an American Tourist Overseas](https://lifehacker.com/the-7-deadly-sins-of-being-an-american-tourist-overseas-1849106955)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
