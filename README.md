@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [MERN - React Form - 5](https://dev.to/shubhamtiwari909/mern-react-form-5-53ln)
+- [Lifehacker] [Edible Things You Should Never Actually Eat](https://lifehacker.com/edible-things-you-should-never-actually-eat-1849117770)
+- [Dev.to/JS] [Quiz: JavaScript](https://dev.to/joolsmcfly/quiz-javascript-2b6i)
+- [Dev.to/JS] [Paper Dashboard Angular | Made with Angular JS | Template](https://dev.to/madewithjavascript/paper-dashboard-angular-made-with-angular-js-template-2dm3)
+- [Dev.to/JS] [Gaining remote access to a computer with a reverse shell attack in Node.js](https://dev.to/devdevcharlie/gaining-remote-access-to-a-computer-with-a-reverse-shell-attack-in-nodejs-3a40)
+- [Dev.to/JS] [How to Get Data from the Twitter API in JavaScript](https://dev.to/sahilfruitwala/how-to-get-data-from-the-twitter-api-in-javascript-458g)
 - [Lifehacker] [Why You Should Always Close Your Windows During Fireworks](https://lifehacker.com/why-you-should-always-close-your-windows-during-firewor-1849117124)
 - [Dev.to/JS] [Paracetamol.js💊| #156: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-156-explica-este-codigo-javascript-3le5)
 - [Dev.to/JS] [I am too lazy for a test framework](https://dev.to/dmail/i-am-too-lazy-for-a-test-framework-92f)
@@ -33,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a React App with Firebase Serverless Functions](https://dev.to/oktadev/build-a-react-app-with-firebase-serverless-functions-1m53)
 - [Lifehacker] [You Should Consider a Relationship Contract](https://lifehacker.com/you-should-consider-a-relationship-contract-1849115328)
 - [Dev.to/JS] [Drag and Drop card](https://dev.to/sanketbodake/drag-and-drop-card-1222)
-- [Dev.to/JS] [The journey to Software Development](https://dev.to/hnic07/the-journey-of-software-development-3604)
 - [Lifehacker] [9 of the Best Travel Podcasts to Take You Away](https://lifehacker.com/9-of-the-best-travel-podcasts-to-take-you-away-1849117348)
-- [Dev.to/JS] [Away with your Errors - A Short Tutorial on Running Sentry with Deno](https://dev.to/gjzwiers/away-with-your-errors-a-short-tutorial-on-running-sentry-with-deno-4nld)
 - [Lifehacker] [13 Host Gifts That Will Make You the Hero of the Barbecue](https://lifehacker.com/13-host-gifts-that-will-make-you-the-hero-of-the-barbec-1849101208)
-- [Dev.to/JS] [How to add a JavaScript calendar to your Vue.js app](https://dev.to/steinbring/how-to-add-a-javascript-calendar-to-your-vuejs-app-1omo)
-- [Dev.to/JS] [An Alternative Approach to State Management with Redux](https://dev.to/mpscholten/an-alternative-approach-to-state-management-with-redux-52nb)
-- [Dev.to/JS] [Xtreaming - Movie and TV Show Streaming Script](https://dev.to/knnguler/xtreaming-movie-and-tv-show-streaming-script-2k4b)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
-- [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
