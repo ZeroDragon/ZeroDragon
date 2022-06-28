@@ -23,6 +23,15 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Always Close Your Windows During Fireworks](https://lifehacker.com/why-you-should-always-close-your-windows-during-firewor-1849117124)
+- [Dev.to/JS] [Paracetamol.js💊| #156: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-156-explica-este-codigo-javascript-3le5)
+- [Dev.to/JS] [I am too lazy for a test framework](https://dev.to/dmail/i-am-too-lazy-for-a-test-framework-92f)
+- [Dev.to/JS] [The first JavaScript conference in Ireland is back!](https://dev.to/wolksoftware/the-first-javascript-conference-in-ireland-is-back-1k0i)
+- [Dev.to/JS] [My first job interview for a front-end developer role](https://dev.to/mikeyxx/my-first-job-interview-for-a-front-end-developer-role-2o62)
+- [Lifehacker] [Everything You Need to Know About Getting a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205)
+- [Dev.to/JS] [How YOU can boost your developer productivity with Snippets for VS Code](https://dev.to/azure/how-you-can-boost-your-developer-productivity-with-snippets-for-vs-code-4lk5)
+- [Dev.to/JS] [Build a React App with Firebase Serverless Functions](https://dev.to/oktadev/build-a-react-app-with-firebase-serverless-functions-1m53)
+- [Lifehacker] [You Should Consider a Relationship Contract](https://lifehacker.com/you-should-consider-a-relationship-contract-1849115328)
 - [Dev.to/JS] [Drag and Drop card](https://dev.to/sanketbodake/drag-and-drop-card-1222)
 - [Dev.to/JS] [The journey to Software Development](https://dev.to/hnic07/the-journey-of-software-development-3604)
 - [Lifehacker] [9 of the Best Travel Podcasts to Take You Away](https://lifehacker.com/9-of-the-best-travel-podcasts-to-take-you-away-1849117348)
@@ -31,12 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add a JavaScript calendar to your Vue.js app](https://dev.to/steinbring/how-to-add-a-javascript-calendar-to-your-vuejs-app-1omo)
 - [Dev.to/JS] [An Alternative Approach to State Management with Redux](https://dev.to/mpscholten/an-alternative-approach-to-state-management-with-redux-52nb)
 - [Dev.to/JS] [Xtreaming - Movie and TV Show Streaming Script](https://dev.to/knnguler/xtreaming-movie-and-tv-show-streaming-script-2k4b)
-- [Dev.to/JS] [Make your React Apps more performant using Debouncing &amp; Throttling! 🔥🚀](https://dev.to/devansuyadav/make-your-react-apps-more-performant-using-debouncing-throttling-5e1d)
-- [Dev.to/JS] [Engage your site visitors with live updates using Ably, Next.js, Prisma, and PlanetScale](https://dev.to/ably/engage-your-site-visitors-with-live-updates-using-ably-nextjs-prisma-and-planetscale-36f6)
-- [Dev.to/JS] [Do you have any idea what tracks Devoxx Morocco covers?](https://dev.to/essaydyoumayma/do-you-have-any-idea-what-tracks-devoxx-morocco-covers-38f5)
-- [Dev.to/JS] [Medusa + Nuxt.js + Stripe - How to Create a Nuxt.js Ecommerce Storefront from Scratch Using Medusa Part 3](https://dev.to/medusajs/medusa-nuxtjs-stripe-how-to-create-a-nuxtjs-ecommerce-storefront-from-scratch-using-medusa-part-3-3jg0)
-- [Dev.to/JS] [NestJS - Middleware](https://dev.to/ilyary/nestjs-middleware-18ki)
-- [Dev.to/JS] [Remaking my first childhood project - a virtual pet fish](https://dev.to/inputduck/remaking-my-first-childhood-project-a-virtual-pet-fish-3c7i)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
 - [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
 - [Lifehacker] [Where to Get Free and Cheap Food for the 4th of July](https://lifehacker.com/where-to-get-free-and-cheap-food-for-the-4th-of-july-1849102944)
-- [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
-- [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
-- [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
