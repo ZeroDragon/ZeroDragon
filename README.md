@@ -23,19 +23,20 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Drag and Drop card](https://dev.to/sanketbodake/drag-and-drop-card-1222)
+- [Dev.to/JS] [The journey to Software Development](https://dev.to/hnic07/the-journey-of-software-development-3604)
+- [Lifehacker] [9 of the Best Travel Podcasts to Take You Away](https://lifehacker.com/9-of-the-best-travel-podcasts-to-take-you-away-1849117348)
 - [Dev.to/JS] [Away with your Errors - A Short Tutorial on Running Sentry with Deno](https://dev.to/gjzwiers/away-with-your-errors-a-short-tutorial-on-running-sentry-with-deno-4nld)
 - [Lifehacker] [13 Host Gifts That Will Make You the Hero of the Barbecue](https://lifehacker.com/13-host-gifts-that-will-make-you-the-hero-of-the-barbec-1849101208)
 - [Dev.to/JS] [How to add a JavaScript calendar to your Vue.js app](https://dev.to/steinbring/how-to-add-a-javascript-calendar-to-your-vuejs-app-1omo)
 - [Dev.to/JS] [An Alternative Approach to State Management with Redux](https://dev.to/mpscholten/an-alternative-approach-to-state-management-with-redux-52nb)
 - [Dev.to/JS] [Xtreaming - Movie and TV Show Streaming Script](https://dev.to/knnguler/xtreaming-movie-and-tv-show-streaming-script-2k4b)
+- [Dev.to/JS] [Make your React Apps more performant using Debouncing &amp; Throttling! 🔥🚀](https://dev.to/devansuyadav/make-your-react-apps-more-performant-using-debouncing-throttling-5e1d)
 - [Dev.to/JS] [Engage your site visitors with live updates using Ably, Next.js, Prisma, and PlanetScale](https://dev.to/ably/engage-your-site-visitors-with-live-updates-using-ably-nextjs-prisma-and-planetscale-36f6)
 - [Dev.to/JS] [Do you have any idea what tracks Devoxx Morocco covers?](https://dev.to/essaydyoumayma/do-you-have-any-idea-what-tracks-devoxx-morocco-covers-38f5)
 - [Dev.to/JS] [Medusa + Nuxt.js + Stripe - How to Create a Nuxt.js Ecommerce Storefront from Scratch Using Medusa Part 3](https://dev.to/medusajs/medusa-nuxtjs-stripe-how-to-create-a-nuxtjs-ecommerce-storefront-from-scratch-using-medusa-part-3-3jg0)
 - [Dev.to/JS] [NestJS - Middleware](https://dev.to/ilyary/nestjs-middleware-18ki)
 - [Dev.to/JS] [Remaking my first childhood project - a virtual pet fish](https://dev.to/inputduck/remaking-my-first-childhood-project-a-virtual-pet-fish-3c7i)
-- [Dev.to/JS] [Looking to Deploy a highly secure crypto trading platform like poloniex clone script](https://dev.to/thecryptoapeo/looking-to-deploy-a-highly-secure-crypto-trading-platform-like-poloniex-clone-script-5gaf)
-- [Dev.to/JS] [PragueJS Community 2022: Developer Experience](https://dev.to/superface/praguejs-community-2022-developer-experience-51kj)
-- [Dev.to/JS] [Binary to Decimal App using Typescript. #beginner2advanced](https://dev.to/zt4ff_1/binary-to-decimal-app-using-typescript-beginner2advanced-1nd5)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between a Guard Dog and a Watch Dog](https://lifehacker.com/the-difference-between-a-guard-dog-and-a-watch-dog-1849102832)
 - [Lifehacker] [How to Plant a Tapestry Lawn &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-plant-a-tapestry-lawn-and-why-you-should-1849102852)
 - [Lifehacker] [How to Tell Whether Your Window Fan Should Be Facing In or Out](https://lifehacker.com/how-to-tell-whether-your-window-fan-should-be-facing-in-1849102863)
-- [Lifehacker] [How to Bring Your Dog to Work Without Being a Jerk](https://lifehacker.com/how-to-bring-your-dog-to-work-without-being-an-asshole-1849106867)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
