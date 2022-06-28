@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Five Best Apps for Cheap and Discounted Groceries](https://lifehacker.com/the-five-best-apps-for-cheap-and-discounted-groceries-1849120113)
+- [Lifehacker] [The Best Strength Training Routine for Kids &lpar;and Maybe for You, Too&rpar;](https://lifehacker.com/the-best-strength-training-routine-for-kids-and-maybe-1849120364)
 - [Lifehacker] [16 Unbreakable Rules of Parking Lot Etiquette, According to Lifehacker Readers](https://lifehacker.com/16-unbreakable-rules-of-parking-lot-etiquette-accordin-1849120052)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 12. How to Create a New Account with Flow CLI and Testnet Faucet](https://dev.to/onflow/build-on-flow-learn-fcl-12-how-to-create-a-new-account-with-flow-cli-and-testnet-faucet-4hki)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 11. How to Install and Create a New Testnet Account with Lillico](https://dev.to/onflow/build-on-flow-learn-fcl-11-how-to-install-and-create-a-new-testnet-account-with-lillico-18i)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Finish Your Dish With a Splash of Pickle Juice](https://lifehacker.com/finish-your-dish-with-a-splash-of-pickle-juice-1849113712)
 - [Lifehacker] [What&#39;s New on Prime Video in July 2022](https://lifehacker.com/whats-new-on-prime-video-in-july-2022-1849113524)
 - [Lifehacker] [Kids Can Still Eat for Free at These Restaurants](https://lifehacker.com/kids-can-still-eat-for-free-at-these-restaurants-1849112880)
-- [Lifehacker] [How to Use Apple Notes to Have Secret Chats With Others](https://lifehacker.com/how-to-use-apple-notes-to-have-secret-chats-with-others-1849112538)
-- [Lifehacker] [Why You Should Stop Hiring Full-Service Movers](https://lifehacker.com/why-you-should-stop-hiring-full-service-movers-1849112477)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
