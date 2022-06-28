@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Troubleshooting API through Binding.Pry](https://dev.to/josettetgarcia/troubleshooting-api-through-bindingpry-3lpe)
+- [Dev.to/JS] [Searchable list modal component in vanilla js.](https://dev.to/danishkhanzaada/searchable-list-modal-component-in-vanilla-js-1el4)
+- [Dev.to/JS] [How to Build Loading Component in React [DETAIL COURSE]](https://dev.to/codecourses_/how-to-build-loading-component-in-react-detail-course-1ii0)
 - [Dev.to/JS] [5 nifty VScode shortcuts I use regularly](https://dev.to/vinaybomma/5-nifty-vscode-shortcuts-i-use-regularly-4ec5)
 - [Dev.to/JS] [Dark theme only CSS, Media Query and also with Javascript](https://dev.to/geepk/dark-theme-only-css-media-query-and-also-with-javascript-2ph2)
 - [Dev.to/JS] [Nested Routes with React Router](https://dev.to/drayeleo/nested-routes-with-react-router-37hd)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Dev.to/JS] [Hello World!](https://dev.to/zannetdev/hello-world-2fgc)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
-- [Dev.to/JS] [Using Typescript in React: a Crash Course](https://dev.to/asayerio_techblog/using-typescript-in-react-a-crash-course-4h7i)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
-- [Dev.to/JS] [Own reduce method using Typescript](https://dev.to/icelandico/own-reduce-method-using-typescript-n6l)
 - [Lifehacker] [11 Beginner-Friendly Exercises to Do With Kettlebells](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
-- [Dev.to/JS] [Creating a &quot;Candidates&quot; Pattern in Your Codebase](https://dev.to/michaelmangial1/creating-a-candidates-pattern-in-your-codebase-2k3e)
 - [Lifehacker] [How to Renounce Your U.S. Citizenship](https://lifehacker.com/how-to-renounce-your-u-s-citizenship-1849114349)
 - [Lifehacker] [Should You Choose a Hotel or an Airbnb for Your Next Trip?](https://lifehacker.com/should-you-choose-a-hotel-or-an-airbnb-for-your-next-tr-1849114093)
 - [Lifehacker] [Finish Your Dish With a Splash of Pickle Juice](https://lifehacker.com/finish-your-dish-with-a-splash-of-pickle-juice-1849113712)
