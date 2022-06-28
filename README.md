@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [16 Unbreakable Rules of Parking Lot Etiquette, According to Lifehacker Readers](https://lifehacker.com/16-unbreakable-rules-of-parking-lot-etiquette-accordin-1849120052)
+- [Dev.to/JS] [Build on Flow | Learn FCL - 12. How to Create a New Account with Flow CLI and Testnet Faucet](https://dev.to/onflow/build-on-flow-learn-fcl-12-how-to-create-a-new-account-with-flow-cli-and-testnet-faucet-4hki)
+- [Dev.to/JS] [Build on Flow | Learn FCL - 11. How to Install and Create a New Testnet Account with Lillico](https://dev.to/onflow/build-on-flow-learn-fcl-11-how-to-install-and-create-a-new-testnet-account-with-lillico-18i)
+- [Lifehacker] [How to See Rare &#39;Night-Shining&#39; Clouds, Thanks to Climate Change](https://lifehacker.com/how-to-see-rare-night-shining-clouds-thanks-to-climate-1849119685)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 10. How to Create a New Testnet Account with Blocto Wallet](https://dev.to/maxstalker/build-on-flow-learn-fcl-10-how-to-create-a-new-testnet-account-with-blocto-wallet-4lda)
 - [Dev.to/JS] [Managing Markdown content doesn&#39;t have to be hard!](https://dev.to/ekqt/managing-markdown-content-doesnt-have-to-be-hard-6ja)
 - [Lifehacker] [How to Create a Spotify ‘Iceberg’](https://lifehacker.com/how-to-create-a-spotify-iceberg-1849119743)
@@ -35,9 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event Bubbling](https://dev.to/julianepires/event-bubbling-3m3p)
 - [Dev.to/JS] [5 Essential Web Development Tools in 2022](https://dev.to/yashtiwari1k/5-essential-web-development-tools-in-2022-4d7n)
 - [Dev.to/JS] [Amp up your React workflow with these &quot;Gen Z&quot; toolings](https://dev.to/h3mandev/amp-up-your-react-workflow-with-these-gen-z-toolings-5m3)
-- [Dev.to/JS] [Creating a Gantt chart with vanilla JavaScript](https://dev.to/bryntum/creating-a-gantt-chart-with-vanilla-javascript-3ng8)
 - [Lifehacker] [These Credit Cards Come With Sweet Airport Perks](https://lifehacker.com/these-credit-cards-come-with-sweet-airport-perks-1849118498)
-- [Dev.to/JS] [Introducing $createdAt And $updatedAt On Each Resource](https://dev.to/appwrite/introducing-createdat-and-updatedat-on-each-resource-5pa)
 - [Lifehacker] [How to Make Tomato Ranch, the Ranch of the Summer](https://lifehacker.com/how-to-make-tomato-ranch-the-ranch-of-the-summer-1849119027)
 - [Lifehacker] [Can You Guess a Movie Based on a Single Frame?](https://lifehacker.com/can-you-guess-a-movie-based-on-a-single-frame-1849118203)
 - [Lifehacker] [‘Fish Pedicures’ Should Go to Hell](https://lifehacker.com/fuck-fish-pedicures-1849117825)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Kids Can Still Eat for Free at These Restaurants](https://lifehacker.com/kids-can-still-eat-for-free-at-these-restaurants-1849112880)
 - [Lifehacker] [How to Use Apple Notes to Have Secret Chats With Others](https://lifehacker.com/how-to-use-apple-notes-to-have-secret-chats-with-others-1849112538)
 - [Lifehacker] [Why You Should Stop Hiring Full-Service Movers](https://lifehacker.com/why-you-should-stop-hiring-full-service-movers-1849112477)
-- [Lifehacker] [How to Manage an Emotional Breakdown at Work](https://lifehacker.com/how-to-manage-an-emotional-breakdown-at-work-1849110866)
-- [Lifehacker] [Why a ‘Buy-Back’ Program May be a Cheaper Way to Rent a Car in Europe](https://lifehacker.com/why-a-buy-back-program-may-be-a-cheaper-way-to-rent-a-1849112205)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
