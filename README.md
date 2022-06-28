@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Add Script Tags in React](https://dev.to/clumsycoder/how-to-add-script-tags-in-react-mpe)
+- [Dev.to/JS] [Hire vetted quality DevOps developers within 48 Hours](https://dev.to/optymize123/hire-vetted-quality-devops-developers-within-48-hours-mji)
 - [Dev.to/JS] [What is debouncing in JavaScript?](https://dev.to/aamchora/what-is-debouncing-in-javascript-21om)
 - [Dev.to/JS] [Why javascript is a badass?](https://dev.to/arorachakit/why-javascript-is-a-badass-3p5a)
 - [Dev.to/JS] [Update all the Node.js dependencies to their latest version](https://dev.to/mrbotdeveloper/update-all-the-nodejs-dependencies-to-their-latest-version-5607)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Handbook for acing take home Coding Assignments](https://dev.to/upskillie/a-handbook-for-acing-take-home-coding-assignments-4b18)
 - [Dev.to/JS] [Crafting your Github Profile](https://dev.to/upskillie/crafting-your-github-profile-2cjf)
 - [Dev.to/JS] [Cutting wage bills while hiring remote tech teams in Covid](https://dev.to/upskillie/cutting-wage-bills-while-hiring-remote-tech-teams-in-covid-2pi4)
-- [Dev.to/JS] [memoapp.pro | Made with Backbone JS](https://dev.to/madewithjavascript/memoapppro-made-with-backbone-js-5cak)
-- [Dev.to/JS] [Employer branding as a hiring moat in competitive times](https://dev.to/upskillie/employer-branding-as-a-hiring-moat-in-competitive-times-1hk)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
