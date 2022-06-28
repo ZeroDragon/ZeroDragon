@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Can You Guess a Movie Based on a Single Frame?](https://lifehacker.com/can-you-guess-a-movie-based-on-a-single-frame-1849118203)
+- [Dev.to/JS] [Buenas Prácticas con NgRx: Parte 3 Modularidad](https://dev.to/danyparedes/buenas-practicas-con-ngrx-parte-3-modularidad-ki5)
+- [Dev.to/JS] [Javascript Object methods every developer should know!](https://dev.to/kai_wenzel/javascript-object-methods-every-developer-should-know-ed)
+- [Dev.to/JS] [Full-Stack React &amp; Node.js - HTTP POST](https://dev.to/neohed/full-stack-react-nodejs--346m)
+- [Lifehacker] [‘Fish Pedicures’ Should Go to Hell](https://lifehacker.com/fuck-fish-pedicures-1849117825)
+- [Dev.to/JS] [Using ESLint to help find bugs in your JavaScript Projects](https://dev.to/sahilnare/using-eslint-to-help-find-bugs-in-your-javascript-projects-311o)
+- [Dev.to/JS] [How to Use a Javascript Reporting Tool with Next.js](https://dev.to/grapecity/how-to-use-a-javascript-reporting-tool-with-nextjs-2lai)
 - [Dev.to/JS] [MERN - React Form - 5](https://dev.to/shubhamtiwari909/mern-react-form-5-53ln)
 - [Lifehacker] [Edible Things You Should Never Actually Eat](https://lifehacker.com/edible-things-you-should-never-actually-eat-1849117770)
 - [Dev.to/JS] [Quiz: JavaScript](https://dev.to/joolsmcfly/quiz-javascript-2b6i)
@@ -32,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should Always Close Your Windows During Fireworks](https://lifehacker.com/why-you-should-always-close-your-windows-during-firewor-1849117124)
 - [Dev.to/JS] [Paracetamol.js💊| #156: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-156-explica-este-codigo-javascript-3le5)
 - [Dev.to/JS] [I am too lazy for a test framework](https://dev.to/dmail/i-am-too-lazy-for-a-test-framework-92f)
-- [Dev.to/JS] [The first JavaScript conference in Ireland is back!](https://dev.to/wolksoftware/the-first-javascript-conference-in-ireland-is-back-1k0i)
-- [Dev.to/JS] [My first job interview for a front-end developer role](https://dev.to/mikeyxx/my-first-job-interview-for-a-front-end-developer-role-2o62)
 - [Lifehacker] [Everything You Need to Know About Getting a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205)
-- [Dev.to/JS] [How YOU can boost your developer productivity with Snippets for VS Code](https://dev.to/azure/how-you-can-boost-your-developer-productivity-with-snippets-for-vs-code-4lk5)
-- [Dev.to/JS] [Build a React App with Firebase Serverless Functions](https://dev.to/oktadev/build-a-react-app-with-firebase-serverless-functions-1m53)
 - [Lifehacker] [You Should Consider a Relationship Contract](https://lifehacker.com/you-should-consider-a-relationship-contract-1849115328)
-- [Dev.to/JS] [Drag and Drop card](https://dev.to/sanketbodake/drag-and-drop-card-1222)
 - [Lifehacker] [9 of the Best Travel Podcasts to Take You Away](https://lifehacker.com/9-of-the-best-travel-podcasts-to-take-you-away-1849117348)
 - [Lifehacker] [13 Host Gifts That Will Make You the Hero of the Barbecue](https://lifehacker.com/13-host-gifts-that-will-make-you-the-hero-of-the-barbec-1849101208)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Everyone Hates Landlords Now](https://lifehacker.com/why-everyone-hates-landlords-now-1849100799)
 - [Lifehacker] [Finally, an Easier Way to Use Google Password Manager on Android](https://lifehacker.com/finally-an-easier-way-to-use-google-password-manager-o-1849099204)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
-- [Lifehacker] [The Difference Between Power Strips and Surge Protectors](https://lifehacker.com/the-difference-between-power-strips-and-surge-protector-1849102988)
-- [Lifehacker] [How to Make a Hospitable Outdoor Space In Less Than a Day](https://lifehacker.com/how-to-make-a-hospitable-outdoor-space-in-less-than-a-d-1849102966)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
 
