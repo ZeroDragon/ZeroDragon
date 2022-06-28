@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Power of Variable Names](https://dev.to/adillaumam/the-power-of-variable-names-2cm4)
+- [Dev.to/JS] [Smarter Next.js API routes with custom createApiRoute function](https://dev.to/jussinevavuori/smarter-nextjs-api-routes-with-custom-createapiroute-function-29l5)
+- [Dev.to/JS] [Generate 1,000 Personalized Videos With Node.js In Minutes](https://dev.to/kushal_70/generate-1000-personalized-videos-with-nodejs-in-minutes-3d7a)
+- [Dev.to/JS] [Implementing Jest and RTL for beginners &lpar;2/3&rpar;](https://dev.to/jarethtan/implementing-jest-and-rtl-for-beginners-23-ao0)
+- [Dev.to/JS] [Learn to integrate Login via Facebook using Huawei Auth Service &lpar;React Native&rpar;](https://dev.to/hmscommunity/learn-to-integrate-login-via-facebook-using-huawei-auth-service-react-native-206k)
 - [Dev.to/JS] [How to Add Script Tags in React](https://dev.to/clumsycoder/how-to-add-script-tags-in-react-mpe)
 - [Dev.to/JS] [Hire vetted quality DevOps developers within 48 Hours](https://dev.to/optymize123/hire-vetted-quality-devops-developers-within-48-hours-mji)
 - [Dev.to/JS] [What is debouncing in JavaScript?](https://dev.to/aamchora/what-is-debouncing-in-javascript-21om)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Update all the Node.js dependencies to their latest version](https://dev.to/mrbotdeveloper/update-all-the-nodejs-dependencies-to-their-latest-version-5607)
 - [Dev.to/JS] [Send Notifications Through Node.js App! 🔥](https://dev.to/sujeetgund/send-notifications-through-nodejs-app-58fc)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-5.4 &lpar; Api Features {pagination} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-54-api-features-pagination--3jko)
-- [Dev.to/JS] [INSTALL DOCKER](https://dev.to/reynaldoz/install-docker-2oa4)
-- [Dev.to/JS] [Ace Data Structures and Algorithm in 9 steps](https://dev.to/upskillie/ace-data-structures-and-algorithm-in-9-steps-4930)
-- [Dev.to/JS] [A Handbook for acing take home Coding Assignments](https://dev.to/upskillie/a-handbook-for-acing-take-home-coding-assignments-4b18)
-- [Dev.to/JS] [Crafting your Github Profile](https://dev.to/upskillie/crafting-your-github-profile-2cjf)
-- [Dev.to/JS] [Cutting wage bills while hiring remote tech teams in Covid](https://dev.to/upskillie/cutting-wage-bills-while-hiring-remote-tech-teams-in-covid-2pi4)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
