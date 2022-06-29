@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Never Use Pennyroyal Tea to Induce an Abortion](https://lifehacker.com/you-should-never-use-pennyroyal-tea-to-induce-an-aborti-1849124593)
+- [Dev.to/JS] [How to do API Automation using Axios, Mocha, Chai and JavaScript](https://dev.to/codewithmmak/how-to-do-api-automation-using-axios-mocha-chai-and-javascript-2p6p)
+- [Lifehacker] [What&#39;s New on Paramount+ in July 2022](https://lifehacker.com/whats-new-on-paramount-in-july-2022-1849125036)
+- [Dev.to/JS] [Exit animation with `framer-motion` demystified](https://dev.to/romaintrotard/exit-animation-with-framer-motion-demystified-3gik)
 - [Lifehacker] [How to Add an Easy DIY Water Feature to Your Garden](https://lifehacker.com/how-to-add-an-easy-diy-water-feature-to-your-garden-1849124830)
 - [Dev.to/JS] [Using promise &amp; async/await with HTML Form](https://dev.to/nazmussayad/using-promise-asyncawait-with-html-form-31bh)
 - [Dev.to/JS] [Virtual Pet Fish - Progress update 29th June](https://dev.to/inputduck/virtual-pet-fish-progress-update-29th-june-3km3)
@@ -37,11 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Rerender react element](https://dev.to/harshad69/rerender-react-element-2080)
 - [Dev.to/JS] [The positives and negatives of no-code tools](https://dev.to/richkurtzman/the-positives-and-negatives-of-no-code-tools-336e)
 - [Dev.to/JS] [Recreate iPod state machine with XState and Vue 3](https://dev.to/michalkuncio/recreate-ipod-state-machine-with-xstate-and-vue-3-46pj)
-- [Dev.to/JS] [Detailed JavaScript Function Overview](https://dev.to/neon010/detailed-javascript-function-overview-1i97)
 - [Lifehacker] [Buy These Adapters Instead of Apple&#39;s $59 USB-C Dual Charger](https://lifehacker.com/buy-these-adapters-instead-of-apples-59-usb-c-dual-cha-1849123442)
 - [Lifehacker] [12 of the Worst Parenting Trends of the Last Century](https://lifehacker.com/12-of-the-worst-parenting-trends-of-the-last-century-1849121608)
 - [Lifehacker] [Use a Subscription Manager to Stop Paying for Services You Don&#39;t Use](https://lifehacker.com/use-a-subscription-manager-to-stop-paying-for-services-1849121341)
-- [Dev.to/JS] [Try {Catch/Except} All The Way](https://dev.to/hik8hik/try-catchexcept-all-the-way-5e1b)
 - [Lifehacker] [How Fireworks Became a Fourth of July Tradition](https://lifehacker.com/how-fireworks-became-a-fourth-of-july-tradition-1849120838)
 - [Lifehacker] [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197)
 - [Lifehacker] [How to Conquer Your Fear of Flying, According to a Pilot](https://lifehacker.com/how-to-conquer-your-fear-of-flying-according-to-a-pilo-1849119523)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Edible Things You Should Never Actually Eat](https://lifehacker.com/edible-things-you-should-never-actually-eat-1849117770)
 - [Lifehacker] [Why You Should Always Close Your Windows During Fireworks](https://lifehacker.com/why-you-should-always-close-your-windows-during-firewor-1849117124)
 - [Lifehacker] [Everything You Need to Know About Getting a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205)
-- [Lifehacker] [You Should Consider a Relationship Contract](https://lifehacker.com/you-should-consider-a-relationship-contract-1849115328)
-- [Lifehacker] [9 of the Best Travel Podcasts to Take You Away](https://lifehacker.com/9-of-the-best-travel-podcasts-to-take-you-away-1849117348)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
