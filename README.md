@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Add an Easy DIY Water Feature to Your Garden](https://lifehacker.com/how-to-add-an-easy-diy-water-feature-to-your-garden-1849124830)
+- [Dev.to/JS] [Using promise &amp; async/await with HTML Form](https://dev.to/nazmussayad/using-promise-asyncawait-with-html-form-31bh)
+- [Dev.to/JS] [Virtual Pet Fish - Progress update 29th June](https://dev.to/inputduck/virtual-pet-fish-progress-update-29th-june-3km3)
+- [Dev.to/JS] [Full-Stack React &amp; Node.js - Database!](https://dev.to/neohed/full-stack-react-nodejs-database-3c3l)
+- [Lifehacker] [You Should Flambé Your American Flag Cake](https://lifehacker.com/you-should-flambe-your-american-flag-cake-1849124255)
+- [Dev.to/JS] [The experience of creating my own JavaScript runtime - #2](https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-2-494c)
+- [Lifehacker] [The Most Common Relationship Money Conflicts &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-relationship-money-conflicts-and-how-t-1849124414)
 - [Dev.to/JS] [10 Minimal Portfolio Examples for Web Developers Who Aren’t Good at Design](https://dev.to/scrimba/10-minimal-portfolio-examples-for-web-developers-who-arent-good-at-design-40gj)
 - [Dev.to/JS] [RhinoJS runs node.js](https://dev.to/adam_cyclones/rhinojs-runs-nodejs-2763)
 - [Lifehacker] [How to Get a Slew of Free Moving Boxes](https://lifehacker.com/how-to-get-a-slew-of-free-moving-boxes-1849124266)
@@ -35,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Worst Parenting Trends of the Last Century](https://lifehacker.com/12-of-the-worst-parenting-trends-of-the-last-century-1849121608)
 - [Lifehacker] [Use a Subscription Manager to Stop Paying for Services You Don&#39;t Use](https://lifehacker.com/use-a-subscription-manager-to-stop-paying-for-services-1849121341)
 - [Dev.to/JS] [Try {Catch/Except} All The Way](https://dev.to/hik8hik/try-catchexcept-all-the-way-5e1b)
-- [Dev.to/JS] [Twitter Clone Part 3: Adding Tweet Reactions and Showing Notifications](https://dev.to/dillionmegida/twitter-clone-part-3-adding-tweet-reactions-and-showing-notifications-3e1p)
-- [Dev.to/JS] [7 Promising JavaScript Timeline Components to Improve Your Project Management App](https://dev.to/plazarev/7-promising-javascript-timeline-components-to-improve-your-project-management-app-2ji0)
-- [Dev.to/JS] [Nx - The fastest growing monorepo solution in the JS ecosystem](https://dev.to/nx/nx-the-fastest-growing-monorepo-solution-in-the-js-ecosystem-5en9)
-- [Dev.to/JS] [Phone Authentication with Appwrite and Twilio](https://dev.to/appwrite/phone-authentication-with-appwrite-and-twilio-26ek)
 - [Lifehacker] [How Fireworks Became a Fourth of July Tradition](https://lifehacker.com/how-fireworks-became-a-fourth-of-july-tradition-1849120838)
 - [Lifehacker] [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197)
 - [Lifehacker] [How to Conquer Your Fear of Flying, According to a Pilot](https://lifehacker.com/how-to-conquer-your-fear-of-flying-according-to-a-pilo-1849119523)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything You Need to Know About Getting a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205)
 - [Lifehacker] [You Should Consider a Relationship Contract](https://lifehacker.com/you-should-consider-a-relationship-contract-1849115328)
 - [Lifehacker] [9 of the Best Travel Podcasts to Take You Away](https://lifehacker.com/9-of-the-best-travel-podcasts-to-take-you-away-1849117348)
-- [Lifehacker] [13 Host Gifts That Will Make You the Hero of the Barbecue](https://lifehacker.com/13-host-gifts-that-will-make-you-the-hero-of-the-barbec-1849101208)
-- [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
-- [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
