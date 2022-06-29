@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to access to dynamically created DOM elements - Event delegation/Event bubbling/Event propagation](https://dev.to/daaahailey/how-to-access-to-dynamically-created-dom-elements-event-delegation-event-bubbling-event-propagation-5619)
+- [Dev.to/JS] [Rerender react element](https://dev.to/harshad69/rerender-react-element-2080)
+- [Dev.to/JS] [The positives and negatives of no-code tools](https://dev.to/richkurtzman/the-positives-and-negatives-of-no-code-tools-336e)
+- [Dev.to/JS] [Recreate iPod state machine with XState and Vue 3](https://dev.to/michalkuncio/recreate-ipod-state-machine-with-xstate-and-vue-3-46pj)
+- [Dev.to/JS] [Detailed JavaScript Function Overview](https://dev.to/neon010/detailed-javascript-function-overview-1i97)
+- [Lifehacker] [Buy These Adapters Instead of Apple&#39;s $59 USB-C Dual Charger](https://lifehacker.com/buy-these-adapters-instead-of-apples-59-usb-c-dual-cha-1849123442)
 - [Lifehacker] [12 of the Worst Parenting Trends of the Last Century](https://lifehacker.com/12-of-the-worst-parenting-trends-of-the-last-century-1849121608)
 - [Lifehacker] [Use a Subscription Manager to Stop Paying for Services You Don&#39;t Use](https://lifehacker.com/use-a-subscription-manager-to-stop-paying-for-services-1849121341)
 - [Dev.to/JS] [Try {Catch/Except} All The Way](https://dev.to/hik8hik/try-catchexcept-all-the-way-5e1b)
@@ -33,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Fireworks Became a Fourth of July Tradition](https://lifehacker.com/how-fireworks-became-a-fourth-of-july-tradition-1849120838)
 - [Dev.to/JS] [POO et encapsulation JS](https://dev.to/zorky/poo-et-encapsulation-js-42n1)
 - [Dev.to/JS] [Paracetamol.js💊| #157: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-157-explica-este-codigo-javascript-27j9)
-- [Dev.to/JS] [Lapse | Made with Next JS](https://dev.to/madewithjavascript/lapse-made-with-next-js-54p9)
 - [Lifehacker] [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197)
-- [Dev.to/JS] [EXPRESS Server - 6](https://dev.to/shubhamtiwari909/creating-express-server-6-9gf)
-- [Dev.to/JS] [How To Use Web Components in Vue.js](https://dev.to/mariusbongarts/how-to-use-web-components-in-vuejs-26e)
 - [Lifehacker] [How to Conquer Your Fear of Flying, According to a Pilot](https://lifehacker.com/how-to-conquer-your-fear-of-flying-according-to-a-pilo-1849119523)
-- [Dev.to/JS] [Создаем на Flow | Изучаем FCL - 1. Введение](https://dev.to/onflow/sozdaiem-na-flow-izuchaiem-fcl-1-vviedieniie-4g8j)
-- [Dev.to/JS] [Twitter Clone Part 2: Creating a Profile Page and Following Users](https://dev.to/dillionmegida/twitter-clone-part-2-creating-a-profile-page-and-following-users-62m)
 - [Lifehacker] [The Five Best Apps for Cheap and Discounted Groceries](https://lifehacker.com/the-five-best-apps-for-cheap-and-discounted-groceries-1849120113)
 - [Lifehacker] [The Best Strength Training Routine for Kids &lpar;and Maybe for You, Too&rpar;](https://lifehacker.com/the-best-strength-training-routine-for-kids-and-maybe-1849120364)
 - [Lifehacker] [16 Unbreakable Rules of Parking Lot Etiquette, According to Lifehacker Readers](https://lifehacker.com/16-unbreakable-rules-of-parking-lot-etiquette-accordin-1849120052)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
-- [Lifehacker] [11 Beginner-Friendly Exercises to Do With Kettlebells](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
