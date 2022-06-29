@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeSecure CLI v2.0.0](https://dev.to/fraxken/nodesecure-cli-v200-2ai7)
+- [Dev.to/JS] [Wrap your library in a React hook](https://dev.to/this-is-learning/wrapping-library-in-a-react-hook-193e)
+- [Dev.to/JS] [Wrap your library in an Angular directive](https://dev.to/this-is-angular/wrap-your-library-in-an-angular-directive-2pc9)
+- [Dev.to/JS] [Find max and min values of an array using sort with compare functions](https://dev.to/chibukasia/find-max-and-min-values-of-an-array-using-sort-with-compare-functions-2pdd)
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.1 &lpar; Authentication { Setup } &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-61-authentication-setup--3nbd)
 - [Dev.to/JS] [How to import cdbreact components to typescript projects](https://dev.to/amin_gholami/how-to-add-typescript-to-cdbreact-components-mbd)
 - [Dev.to/JS] [How to add dark mode using javascript](https://dev.to/jimajs/how-to-add-dark-mode-using-javascript-a4b)
 - [Dev.to/JS] [Why NextJs should not be ignored.](https://dev.to/adityatyagi/why-nextjs-should-not-be-ignored-28gk)
@@ -30,15 +35,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scraping Google Shopping using Puppeteer and Browserless](https://dev.to/tyry327/scraping-google-shopping-using-puppeteer-and-browserless-46ae)
 - [Dev.to/JS] [Array Iteration for Beginners](https://dev.to/albam476/array-iteration-for-beginners-2i46)
 - [Dev.to/JS] [JavaScript Treats 🍬 #1: Iterating An Object With Array Destructuring](https://dev.to/helloitsian/javascript-treats-1-iterating-an-object-with-array-destructuring-3lm6)
-- [Dev.to/JS] [Ember.js: Installing Tailwind CSS](https://dev.to/robert96/emberjs-installing-tailwind-css-386i)
-- [Dev.to/JS] [My Solution to TOP Fundamentals Part 3 Problems](https://dev.to/taepal467/my-solution-to-top-fundamentals-part-3-problems-1bgo)
 - [Lifehacker] [The Five Best Apps for Cheap and Discounted Groceries](https://lifehacker.com/the-five-best-apps-for-cheap-and-discounted-groceries-1849120113)
 - [Lifehacker] [The Best Strength Training Routine for Kids &lpar;and Maybe for You, Too&rpar;](https://lifehacker.com/the-best-strength-training-routine-for-kids-and-maybe-1849120364)
 - [Lifehacker] [16 Unbreakable Rules of Parking Lot Etiquette, According to Lifehacker Readers](https://lifehacker.com/16-unbreakable-rules-of-parking-lot-etiquette-accordin-1849120052)
-- [Dev.to/JS] [Build on Flow | Learn FCL - 12. How to Create a New Account with Flow CLI and Testnet Faucet](https://dev.to/onflow/build-on-flow-learn-fcl-12-how-to-create-a-new-account-with-flow-cli-and-testnet-faucet-4hki)
-- [Dev.to/JS] [Build on Flow | Learn FCL - 11. How to Install and Create a New Testnet Account with Lillico](https://dev.to/onflow/build-on-flow-learn-fcl-11-how-to-install-and-create-a-new-testnet-account-with-lillico-18i)
 - [Lifehacker] [How to See Rare &#39;Night-Shining&#39; Clouds, Thanks to Climate Change](https://lifehacker.com/how-to-see-rare-night-shining-clouds-thanks-to-climate-1849119685)
-- [Dev.to/JS] [Build on Flow | Learn FCL - 10. How to Create a New Testnet Account with Blocto Wallet](https://dev.to/maxstalker/build-on-flow-learn-fcl-10-how-to-create-a-new-testnet-account-with-blocto-wallet-4lda)
 - [Lifehacker] [How to Create a Spotify ‘Iceberg’](https://lifehacker.com/how-to-create-a-spotify-iceberg-1849119743)
 - [Lifehacker] [What to Do If You Find an Injured Bird](https://lifehacker.com/what-to-do-if-you-find-an-injured-bird-1849119429)
 - [Lifehacker] [These Credit Cards Come With Sweet Airport Perks](https://lifehacker.com/these-credit-cards-come-with-sweet-airport-perks-1849118498)
