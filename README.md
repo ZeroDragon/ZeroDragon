@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ember.js: Installing Tailwind CSS](https://dev.to/robert96/emberjs-installing-tailwind-css-386i)
+- [Dev.to/JS] [My Solution to TOP Fundamentals Part 3 Problems](https://dev.to/taepal467/my-solution-to-top-fundamentals-part-3-problems-1bgo)
 - [Lifehacker] [The Five Best Apps for Cheap and Discounted Groceries](https://lifehacker.com/the-five-best-apps-for-cheap-and-discounted-groceries-1849120113)
 - [Lifehacker] [The Best Strength Training Routine for Kids &lpar;and Maybe for You, Too&rpar;](https://lifehacker.com/the-best-strength-training-routine-for-kids-and-maybe-1849120364)
 - [Lifehacker] [16 Unbreakable Rules of Parking Lot Etiquette, According to Lifehacker Readers](https://lifehacker.com/16-unbreakable-rules-of-parking-lot-etiquette-accordin-1849120052)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [File Sharing Site](https://dev.to/lassev/file-sharing-site-1a6i)
 - [Dev.to/JS] [How Do I Index My Appwrite Collection?](https://dev.to/appwrite/how-do-i-index-my-appwrite-collection-2o4n)
 - [Dev.to/JS] [Event Bubbling](https://dev.to/julianepires/event-bubbling-3m3p)
-- [Dev.to/JS] [5 Essential Web Development Tools in 2022](https://dev.to/yashtiwari1k/5-essential-web-development-tools-in-2022-4d7n)
-- [Dev.to/JS] [Amp up your React workflow with these &quot;Gen Z&quot; toolings](https://dev.to/h3mandev/amp-up-your-react-workflow-with-these-gen-z-toolings-5m3)
 - [Lifehacker] [These Credit Cards Come With Sweet Airport Perks](https://lifehacker.com/these-credit-cards-come-with-sweet-airport-perks-1849118498)
 - [Lifehacker] [How to Make Tomato Ranch, the Ranch of the Summer](https://lifehacker.com/how-to-make-tomato-ranch-the-ranch-of-the-summer-1849119027)
 - [Lifehacker] [Can You Guess a Movie Based on a Single Frame?](https://lifehacker.com/can-you-guess-a-movie-based-on-a-single-frame-1849118203)
