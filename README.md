@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [12 of the Worst Parenting Trends of the Last Century](https://lifehacker.com/12-of-the-worst-parenting-trends-of-the-last-century-1849121608)
+- [Lifehacker] [Use a Subscription Manager to Stop Paying for Services You Don&#39;t Use](https://lifehacker.com/use-a-subscription-manager-to-stop-paying-for-services-1849121341)
 - [Dev.to/JS] [Try {Catch/Except} All The Way](https://dev.to/hik8hik/try-catchexcept-all-the-way-5e1b)
 - [Dev.to/JS] [Twitter Clone Part 3: Adding Tweet Reactions and Showing Notifications](https://dev.to/dillionmegida/twitter-clone-part-3-adding-tweet-reactions-and-showing-notifications-3e1p)
 - [Dev.to/JS] [7 Promising JavaScript Timeline Components to Improve Your Project Management App](https://dev.to/plazarev/7-promising-javascript-timeline-components-to-improve-your-project-management-app-2ji0)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
 - [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
 - [Lifehacker] [11 Beginner-Friendly Exercises to Do With Kettlebells](https://lifehacker.com/11-beginner-friendly-exercises-to-do-with-kettlebells-1849114553)
-- [Lifehacker] [How to Renounce Your U.S. Citizenship](https://lifehacker.com/how-to-renounce-your-u-s-citizenship-1849114349)
-- [Lifehacker] [Should You Choose a Hotel or an Airbnb for Your Next Trip?](https://lifehacker.com/should-you-choose-a-hotel-or-an-airbnb-for-your-next-tr-1849114093)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
