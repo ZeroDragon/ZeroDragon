@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting started with MEAN stack development](https://dev.to/harshalsuthar/getting-started-with-mean-stack-development-1djd)
 - [Dev.to/JS] [Scraping Google Shopping using Puppeteer and Browserless](https://dev.to/tyry327/scraping-google-shopping-using-puppeteer-and-browserless-46ae)
 - [Dev.to/JS] [Array Iteration for Beginners](https://dev.to/albam476/array-iteration-for-beginners-2i46)
 - [Dev.to/JS] [JavaScript Treats 🍬 #1: Iterating An Object With Array Destructuring](https://dev.to/helloitsian/javascript-treats-1-iterating-an-object-with-array-destructuring-3lm6)
@@ -39,8 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Create a Spotify ‘Iceberg’](https://lifehacker.com/how-to-create-a-spotify-iceberg-1849119743)
 - [Dev.to/JS] [QuasarConf 2022 - Speakers and Schedule](https://dev.to/quasar/quasarconf-2022-speakers-and-schedule-dp3)
 - [Lifehacker] [What to Do If You Find an Injured Bird](https://lifehacker.com/what-to-do-if-you-find-an-injured-bird-1849119429)
-- [Dev.to/JS] [tinwayJs example](https://dev.to/tinway/tinwayjs-example-5aj8)
-- [Dev.to/JS] [Javascript E𝗺𝗽𝘁𝘆 𝗼𝗯𝗷𝗲𝗰𝘁 𝗮𝘀 𝗮 𝗳𝗮𝗹𝗹𝗯𝗮𝗰𝗸 𝘄𝗵𝗶𝗹𝗲 𝗱𝗲𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗶𝗻𝗴](https://dev.to/talenttinaapi/javascript-e-13h4)
+- [Dev.to/JS] [tinwayJs 0.1 example](https://dev.to/tinway/tinwayjs-example-5aj8)
 - [Lifehacker] [These Credit Cards Come With Sweet Airport Perks](https://lifehacker.com/these-credit-cards-come-with-sweet-airport-perks-1849118498)
 - [Lifehacker] [How to Make Tomato Ranch, the Ranch of the Summer](https://lifehacker.com/how-to-make-tomato-ranch-the-ranch-of-the-summer-1849119027)
 - [Lifehacker] [Can You Guess a Movie Based on a Single Frame?](https://lifehacker.com/can-you-guess-a-movie-based-on-a-single-frame-1849118203)
