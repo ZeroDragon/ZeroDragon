@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array Iteration for Beginners](https://dev.to/albam476/array-iteration-for-beginners-2i46)
+- [Dev.to/JS] [JavaScript Treats 🍬 #1: Iterating An Object With Array Destructuring](https://dev.to/helloitsian/javascript-treats-1-iterating-an-object-with-array-destructuring-3lm6)
 - [Dev.to/JS] [Ember.js: Installing Tailwind CSS](https://dev.to/robert96/emberjs-installing-tailwind-css-386i)
 - [Dev.to/JS] [My Solution to TOP Fundamentals Part 3 Problems](https://dev.to/taepal467/my-solution-to-top-fundamentals-part-3-problems-1bgo)
 - [Lifehacker] [The Five Best Apps for Cheap and Discounted Groceries](https://lifehacker.com/the-five-best-apps-for-cheap-and-discounted-groceries-1849120113)
@@ -39,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tinwayJs example](https://dev.to/tinway/tinwayjs-example-5aj8)
 - [Dev.to/JS] [Javascript E𝗺𝗽𝘁𝘆 𝗼𝗯𝗷𝗲𝗰𝘁 𝗮𝘀 𝗮 𝗳𝗮𝗹𝗹𝗯𝗮𝗰𝗸 𝘄𝗵𝗶𝗹𝗲 𝗱𝗲𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗶𝗻𝗴](https://dev.to/talenttinaapi/javascript-e-13h4)
 - [Dev.to/JS] [File Sharing Site](https://dev.to/lassev/file-sharing-site-1a6i)
-- [Dev.to/JS] [How Do I Index My Appwrite Collection?](https://dev.to/appwrite/how-do-i-index-my-appwrite-collection-2o4n)
-- [Dev.to/JS] [Event Bubbling](https://dev.to/julianepires/event-bubbling-3m3p)
 - [Lifehacker] [These Credit Cards Come With Sweet Airport Perks](https://lifehacker.com/these-credit-cards-come-with-sweet-airport-perks-1849118498)
 - [Lifehacker] [How to Make Tomato Ranch, the Ranch of the Summer](https://lifehacker.com/how-to-make-tomato-ranch-the-ranch-of-the-summer-1849119027)
 - [Lifehacker] [Can You Guess a Movie Based on a Single Frame?](https://lifehacker.com/can-you-guess-a-movie-based-on-a-single-frame-1849118203)
