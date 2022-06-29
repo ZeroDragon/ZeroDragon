@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Conquer Your Fear of Flying, According to a Pilot](https://lifehacker.com/how-to-conquer-your-fear-of-flying-according-to-a-pilo-1849119523)
+- [Dev.to/JS] [Создаем на Flow | Изучаем FCL - 1. Введение](https://dev.to/onflow/sozdaiem-na-flow-izuchaiem-fcl-1-vviedieniie-4g8j)
+- [Dev.to/JS] [Twitter Clone Part 2: Creating a Profile Page and Following Users](https://dev.to/dillionmegida/twitter-clone-part-2-creating-a-profile-page-and-following-users-62m)
+- [Dev.to/JS] [Help me get familiar with Tailwind CSS](https://dev.to/nitzanhen/help-me-get-familiar-with-tailwind-css-d1g)
+- [Dev.to/JS] [Javascript Map](https://dev.to/deepachaurasia1/javascript-map-55fm)
+- [Dev.to/JS] [How cache data with Express and node-cache - a 10 minute tutorial](https://dev.to/kachiic/how-cache-data-with-express-and-node-cache-a-10-minute-tutorial-48o9)
 - [Dev.to/JS] [Programming - Imperative vs Declarative](https://dev.to/asayerio_techblog/programming-imperative-vs-declarative-48on)
 - [Dev.to/JS] [Learn to build a real-world Vue.js app for FREE at Vue.js Forge this July](https://dev.to/anaamarijaa/learn-to-build-a-real-world-vuejs-app-for-free-at-vuejs-forge-this-july-5n7)
 - [Dev.to/JS] [JavaScript Struggles - Part 5 | Data Types](https://dev.to/abdelrahman_dwedar/javascript-struggles-part-5-data-types-12an)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Wrap your library in a React hook](https://dev.to/this-is-learning/wrapping-library-in-a-react-hook-193e)
 - [Dev.to/JS] [Wrap your library in an Angular directive](https://dev.to/this-is-angular/wrap-your-library-in-an-angular-directive-2pc9)
 - [Dev.to/JS] [Find max and min values of an array using sort with compare functions](https://dev.to/chibukasia/find-max-and-min-values-of-an-array-using-sort-with-compare-functions-2pdd)
-- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.1 &lpar; Authentication { Setup } &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-61-authentication-setup--3nbd)
-- [Dev.to/JS] [How to import cdbreact components to typescript projects](https://dev.to/amin_gholami/how-to-add-typescript-to-cdbreact-components-mbd)
-- [Dev.to/JS] [How to add dark mode using javascript](https://dev.to/jimajs/how-to-add-dark-mode-using-javascript-a4b)
-- [Dev.to/JS] [Why NextJs should not be ignored.](https://dev.to/adityatyagi/why-nextjs-should-not-be-ignored-28gk)
-- [Dev.to/JS] [Getting started with MEAN stack development](https://dev.to/harshalsuthar/getting-started-with-mean-stack-development-1djd)
 - [Lifehacker] [The Five Best Apps for Cheap and Discounted Groceries](https://lifehacker.com/the-five-best-apps-for-cheap-and-discounted-groceries-1849120113)
 - [Lifehacker] [The Best Strength Training Routine for Kids &lpar;and Maybe for You, Too&rpar;](https://lifehacker.com/the-best-strength-training-routine-for-kids-and-maybe-1849120364)
 - [Lifehacker] [16 Unbreakable Rules of Parking Lot Etiquette, According to Lifehacker Readers](https://lifehacker.com/16-unbreakable-rules-of-parking-lot-etiquette-accordin-1849120052)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Choose a Hotel or an Airbnb for Your Next Trip?](https://lifehacker.com/should-you-choose-a-hotel-or-an-airbnb-for-your-next-tr-1849114093)
 - [Lifehacker] [Finish Your Dish With a Splash of Pickle Juice](https://lifehacker.com/finish-your-dish-with-a-splash-of-pickle-juice-1849113712)
 - [Lifehacker] [What&#39;s New on Prime Video in July 2022](https://lifehacker.com/whats-new-on-prime-video-in-july-2022-1849113524)
-- [Lifehacker] [Kids Can Still Eat for Free at These Restaurants](https://lifehacker.com/kids-can-still-eat-for-free-at-these-restaurants-1849112880)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
