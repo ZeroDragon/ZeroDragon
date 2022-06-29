@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
+- [Dev.to/JS] [Ententendo o useEffect](https://dev.to/devigor/ententendo-o-useeffect-5gg4)
+- [Dev.to/JS] [What&#39;s the most useful feature for a DataGrid?](https://dev.to/get_infinite/whats-the-most-useful-feature-for-a-datagrid-3m13)
+- [Dev.to/JS] [How to use Reduct Storage with TypeScript](https://dev.to/reduct-storage/how-to-use-reduct-storage-with-typescript-c74)
+- [Dev.to/JS] [Material Design 3 - Dynamic colors by Beercss](https://dev.to/leonardorafael/material-design-3-dynamic-colors-by-beercss-h26)
 - [Lifehacker] [You Should Never Use Pennyroyal Tea to Induce an Abortion](https://lifehacker.com/you-should-never-use-pennyroyal-tea-to-induce-an-aborti-1849124593)
 - [Dev.to/JS] [How to do API Automation using Axios, Mocha, Chai and JavaScript](https://dev.to/codewithmmak/how-to-do-api-automation-using-axios-mocha-chai-and-javascript-2p6p)
 - [Lifehacker] [What&#39;s New on Paramount+ in July 2022](https://lifehacker.com/whats-new-on-paramount-in-july-2022-1849125036)
@@ -31,16 +36,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using promise &amp; async/await with HTML Form](https://dev.to/nazmussayad/using-promise-asyncawait-with-html-form-31bh)
 - [Dev.to/JS] [Virtual Pet Fish - Progress update 29th June](https://dev.to/inputduck/virtual-pet-fish-progress-update-29th-june-3km3)
 - [Dev.to/JS] [Full-Stack React &amp; Node.js - Database!](https://dev.to/neohed/full-stack-react-nodejs-database-3c3l)
-- [Lifehacker] [You Should Flambé Your American Flag Cake](https://lifehacker.com/you-should-flambe-your-american-flag-cake-1849124255)
+- [Lifehacker] [This Year, You Should Flambé Your American Flag Cake](https://lifehacker.com/you-should-flambe-your-american-flag-cake-1849124255)
 - [Dev.to/JS] [The experience of creating my own JavaScript runtime - #2](https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-2-494c)
 - [Lifehacker] [The Most Common Relationship Money Conflicts &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-relationship-money-conflicts-and-how-t-1849124414)
 - [Dev.to/JS] [10 Minimal Portfolio Examples for Web Developers Who Aren’t Good at Design](https://dev.to/scrimba/10-minimal-portfolio-examples-for-web-developers-who-arent-good-at-design-40gj)
 - [Dev.to/JS] [RhinoJS runs node.js](https://dev.to/adam_cyclones/rhinojs-runs-nodejs-2763)
 - [Lifehacker] [How to Get a Slew of Free Moving Boxes](https://lifehacker.com/how-to-get-a-slew-of-free-moving-boxes-1849124266)
-- [Dev.to/JS] [How to access to dynamically created DOM elements - Event delegation/Event bubbling/Event propagation](https://dev.to/daaahailey/how-to-access-to-dynamically-created-dom-elements-event-delegation-event-bubbling-event-propagation-5619)
-- [Dev.to/JS] [Rerender react element](https://dev.to/harshad69/rerender-react-element-2080)
-- [Dev.to/JS] [The positives and negatives of no-code tools](https://dev.to/richkurtzman/the-positives-and-negatives-of-no-code-tools-336e)
-- [Dev.to/JS] [Recreate iPod state machine with XState and Vue 3](https://dev.to/michalkuncio/recreate-ipod-state-machine-with-xstate-and-vue-3-46pj)
 - [Lifehacker] [Buy These Adapters Instead of Apple&#39;s $59 USB-C Dual Charger](https://lifehacker.com/buy-these-adapters-instead-of-apples-59-usb-c-dual-cha-1849123442)
 - [Lifehacker] [12 of the Worst Parenting Trends of the Last Century](https://lifehacker.com/12-of-the-worst-parenting-trends-of-the-last-century-1849121608)
 - [Lifehacker] [Use a Subscription Manager to Stop Paying for Services You Don&#39;t Use](https://lifehacker.com/use-a-subscription-manager-to-stop-paying-for-services-1849121341)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [‘Fish Pedicures’ Should Go to Hell](https://lifehacker.com/fuck-fish-pedicures-1849117825)
 - [Lifehacker] [Edible Things You Should Never Actually Eat](https://lifehacker.com/edible-things-you-should-never-actually-eat-1849117770)
 - [Lifehacker] [Why You Should Always Close Your Windows During Fireworks](https://lifehacker.com/why-you-should-always-close-your-windows-during-firewor-1849117124)
-- [Lifehacker] [Everything You Need to Know About Getting a Vasectomy](https://lifehacker.com/what-to-expect-when-you-get-a-vasectomy-1844701205)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
