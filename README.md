@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Minimal Portfolio Examples for Web Developers Who Aren’t Good at Design](https://dev.to/scrimba/10-minimal-portfolio-examples-for-web-developers-who-arent-good-at-design-40gj)
+- [Dev.to/JS] [RhinoJS runs node.js](https://dev.to/adam_cyclones/rhinojs-runs-nodejs-2763)
+- [Lifehacker] [How to Get a Slew of Free Moving Boxes](https://lifehacker.com/how-to-get-a-slew-of-free-moving-boxes-1849124266)
 - [Dev.to/JS] [How to access to dynamically created DOM elements - Event delegation/Event bubbling/Event propagation](https://dev.to/daaahailey/how-to-access-to-dynamically-created-dom-elements-event-delegation-event-bubbling-event-propagation-5619)
 - [Dev.to/JS] [Rerender react element](https://dev.to/harshad69/rerender-react-element-2080)
 - [Dev.to/JS] [The positives and negatives of no-code tools](https://dev.to/richkurtzman/the-positives-and-negatives-of-no-code-tools-336e)
@@ -37,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Nx - The fastest growing monorepo solution in the JS ecosystem](https://dev.to/nx/nx-the-fastest-growing-monorepo-solution-in-the-js-ecosystem-5en9)
 - [Dev.to/JS] [Phone Authentication with Appwrite and Twilio](https://dev.to/appwrite/phone-authentication-with-appwrite-and-twilio-26ek)
 - [Lifehacker] [How Fireworks Became a Fourth of July Tradition](https://lifehacker.com/how-fireworks-became-a-fourth-of-july-tradition-1849120838)
-- [Dev.to/JS] [POO et encapsulation JS](https://dev.to/zorky/poo-et-encapsulation-js-42n1)
-- [Dev.to/JS] [Paracetamol.js💊| #157: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-157-explica-este-codigo-javascript-27j9)
 - [Lifehacker] [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197)
 - [Lifehacker] [How to Conquer Your Fear of Flying, According to a Pilot](https://lifehacker.com/how-to-conquer-your-fear-of-flying-according-to-a-pilo-1849119523)
 - [Lifehacker] [The Five Best Apps for Cheap and Discounted Groceries](https://lifehacker.com/the-five-best-apps-for-cheap-and-discounted-groceries-1849120113)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 Host Gifts That Will Make You the Hero of the Barbecue](https://lifehacker.com/13-host-gifts-that-will-make-you-the-hero-of-the-barbec-1849101208)
 - [Lifehacker] [What If, Hypothetically, You Really Want to Move to Canada ASAP](https://lifehacker.com/what-if-hypothetically-you-really-want-to-move-to-can-1849114954)
 - [Lifehacker] [Oh No, Your Eyes Can Get Sunburned](https://lifehacker.com/oh-fuck-your-eyes-can-get-sunburned-1849114825)
-- [Lifehacker] [How to Calculate Your Personal Inflation Rate &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-calculate-your-personal-inflation-rate-and-why-1849114950)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
