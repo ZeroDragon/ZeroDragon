@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Struggles - Part 5 | Data Types](https://dev.to/abdelrahman_dwedar/javascript-struggles-part-5-data-types-12an)
 - [Dev.to/JS] [NodeSecure CLI v2.0.0](https://dev.to/fraxken/nodesecure-cli-v200-2ai7)
 - [Dev.to/JS] [Wrap your library in a React hook](https://dev.to/this-is-learning/wrapping-library-in-a-react-hook-193e)
 - [Dev.to/JS] [Wrap your library in an Angular directive](https://dev.to/this-is-angular/wrap-your-library-in-an-angular-directive-2pc9)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started with MEAN stack development](https://dev.to/harshalsuthar/getting-started-with-mean-stack-development-1djd)
 - [Dev.to/JS] [Scraping Google Shopping using Puppeteer and Browserless](https://dev.to/tyry327/scraping-google-shopping-using-puppeteer-and-browserless-46ae)
 - [Dev.to/JS] [Array Iteration for Beginners](https://dev.to/albam476/array-iteration-for-beginners-2i46)
-- [Dev.to/JS] [JavaScript Treats 🍬 #1: Iterating An Object With Array Destructuring](https://dev.to/helloitsian/javascript-treats-1-iterating-an-object-with-array-destructuring-3lm6)
 - [Lifehacker] [The Five Best Apps for Cheap and Discounted Groceries](https://lifehacker.com/the-five-best-apps-for-cheap-and-discounted-groceries-1849120113)
 - [Lifehacker] [The Best Strength Training Routine for Kids &lpar;and Maybe for You, Too&rpar;](https://lifehacker.com/the-best-strength-training-routine-for-kids-and-maybe-1849120364)
 - [Lifehacker] [16 Unbreakable Rules of Parking Lot Etiquette, According to Lifehacker Readers](https://lifehacker.com/16-unbreakable-rules-of-parking-lot-etiquette-accordin-1849120052)
