@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use $refs in Vue 3 with Composition API and Script Setup](https://dev.to/zelig880/how-to-use-refs-in-vue-3-with-composition-api-and-script-setup-121n)
 - [Dev.to/JS] [Show Google Calendar events in Fullcalendar with React](https://dev.to/fr0gs/show-google-calendar-events-in-fullcalendar-with-react-fld)
 - [Dev.to/JS] [Take the Jamstack Community Survey 2022!](https://dev.to/seldo/take-the-jamstack-community-survey-2022-4ekg)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Easy CRUD setup with Meteor in only 4 steps from scratch](https://dev.to/jankapunkt/easy-crud-setup-with-meteor-in-only-4-steps-from-scratch-4m9n)
 - [Dev.to/JS] [Dry Bar Cocktails](https://dev.to/mbolonzi_/dry-bar-cocktails-1883)
 - [Lifehacker] [Who Can Get a Monkeypox Vaccine?](https://lifehacker.com/who-can-get-a-monkeypox-vaccine-1849129874)
-- [Dev.to/JS] [Deep Copy and Shallow Copy in JavaScript](https://dev.to/vedanthb/deep-copy-and-shallow-copy-in-javascript-183m)
 - [Lifehacker] [What You Should Do Now to Prepare for a Recession](https://lifehacker.com/what-you-should-do-now-to-prepare-for-a-recession-1849129353)
 - [Lifehacker] [Don’t React to a Bison the Way You Would a Bear](https://lifehacker.com/don-t-react-to-a-bison-the-way-you-would-a-bear-1849129502)
 - [Lifehacker] [Is Owner Financing Ever a Good Idea?](https://lifehacker.com/is-owner-financing-ever-a-good-idea-1849129075)
