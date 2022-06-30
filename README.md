@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deep Copy and Shallow Copy in JavaScript](https://dev.to/vedanthb/deep-copy-and-shallow-copy-in-javascript-183m)
+- [Lifehacker] [What You Should Do Now to Prepare for a Recession](https://lifehacker.com/what-you-should-do-now-to-prepare-for-a-recession-1849129353)
+- [Dev.to/JS] [POV - Why Angular or React to web applications?](https://dev.to/cezarmzz/pov-why-angular-or-react-to-web-applications-3mam)
 - [Lifehacker] [Don’t React to a Bison the Way You Would a Bear](https://lifehacker.com/don-t-react-to-a-bison-the-way-you-would-a-bear-1849129502)
 - [Dev.to/JS] [20 Javascript snippets that will make your day easier!](https://dev.to/kai_wenzel/20-javascript-snippets-that-will-make-your-day-easier-133k)
 - [Lifehacker] [Is Owner Financing Ever a Good Idea?](https://lifehacker.com/is-owner-financing-ever-a-good-idea-1849129075)
@@ -40,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quickly authenticate a dashboard in Vue.js using Appwrite and Auth0](https://dev.to/hackmamba/quickly-authenticate-a-dashboard-in-vuejs-using-appwrite-and-auth0-44hk)
 - [Dev.to/JS] [Node.js fundamentals allegorically](https://dev.to/projektorius96/nodejs-fundamentals-allegorically-1099)
 - [Dev.to/JS] [The Art of Transpilers - From One Programming Language to Another](https://dev.to/evantypanski/the-art-of-transpilers-from-one-programming-language-to-another-5419)
-- [Dev.to/JS] [JavaScript News and Updates of June 2022](https://dev.to/plazarev/javascript-news-and-updates-of-june-2022-116o)
 - [Lifehacker] [Garlic Has Greens and You Should Cook With Them](https://lifehacker.com/garlic-has-greens-and-you-should-cook-with-them-1849125892)
-- [Dev.to/JS] [Firebase/Firestore is becoming too complicated of a product. Am I the only one?](https://dev.to/obedtandadjaja/firebasefirestore-is-becoming-too-complicated-of-a-product-am-i-the-only-one-3ljj)
 - [Lifehacker] [13 of the Best Things to Stream in July 2022](https://lifehacker.com/13-of-the-best-things-to-stream-in-july-2022-1849123135)
 - [Lifehacker] [These Exercises Actually Get Easier When You Add Weight](https://lifehacker.com/these-exercises-actually-get-easier-when-you-add-weight-1849125570)
 - [Lifehacker] [Transfer Your Music Library and Playlists Among Any Streaming Services With This App](https://lifehacker.com/transfer-your-music-library-and-playlists-among-any-str-1849125094)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [12 of the Worst Parenting Trends of the Last Century](https://lifehacker.com/12-of-the-worst-parenting-trends-of-the-last-century-1849121608)
 - [Lifehacker] [Use a Subscription Manager to Stop Paying for Services You Don&#39;t Use](https://lifehacker.com/use-a-subscription-manager-to-stop-paying-for-services-1849121341)
 - [Lifehacker] [How Fireworks Became a Fourth of July Tradition](https://lifehacker.com/how-fireworks-became-a-fourth-of-july-tradition-1849120838)
-- [Lifehacker] [Everything You Need to Know Before Getting Your Tubes Tied](https://lifehacker.com/everything-you-need-to-know-before-getting-your-tubes-t-1849121197)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
