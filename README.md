@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Read Uploaded File Content In JavaScript](https://dev.to/ideradevtools/how-to-read-uploaded-file-content-in-javascript-4of7)
 - [Dev.to/JS] [Sanity.io: a really good CMS](https://dev.to/shubhampatilsd/sanityio-a-really-good-cms-42h9)
 - [Dev.to/JS] [10 Mind Blowing JavaScript libraries Of 2022 &lpar;I mean it Javascript Noob&rpar;](https://dev.to/sojinsamuel/6-mind-blowing-javascript-libraries-of-2022-i-mean-it-javascript-noob-243i)
 - [Dev.to/JS] [How to keep a history of MQTT messages with Node.js](https://dev.to/reduct-storage/how-to-keep-a-history-of-mqtt-messages-in-reduct-storage-with-nodejs-emn)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Never Use Pennyroyal Tea to Induce an Abortion](https://lifehacker.com/you-should-never-use-pennyroyal-tea-to-induce-an-aborti-1849124593)
 - [Dev.to/JS] [How to do API Automation using Axios, Mocha, Chai and JavaScript](https://dev.to/codewithmmak/how-to-do-api-automation-using-axios-mocha-chai-and-javascript-2p6p)
 - [Lifehacker] [What&#39;s New on Paramount+ in July 2022](https://lifehacker.com/whats-new-on-paramount-in-july-2022-1849125036)
-- [Dev.to/JS] [Exit animation with `framer-motion` demystified](https://dev.to/romaintrotard/exit-animation-with-framer-motion-demystified-3gik)
 - [Lifehacker] [How to Add an Easy DIY Water Feature to Your Garden](https://lifehacker.com/how-to-add-an-easy-diy-water-feature-to-your-garden-1849124830)
 - [Lifehacker] [This Year, You Should Flambé Your American Flag Cake](https://lifehacker.com/you-should-flambe-your-american-flag-cake-1849124255)
 - [Lifehacker] [The Most Common Relationship Money Conflicts &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-relationship-money-conflicts-and-how-t-1849124414)
