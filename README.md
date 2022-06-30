@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quickly authenticate a dashboard in Vue.js using Appwrite and Auth0](https://dev.to/hackmamba/quickly-authenticate-a-dashboard-in-vuejs-using-appwrite-and-auth0-44hk)
+- [Dev.to/JS] [Node.js fundamentals allegorically](https://dev.to/projektorius96/nodejs-fundamentals-allegorically-1099)
+- [Dev.to/JS] [The Art of Transpilers - From One Programming Language to Another](https://dev.to/evantypanski/the-art-of-transpilers-from-one-programming-language-to-another-5419)
+- [Dev.to/JS] [JavaScript News and Updates of June 2022](https://dev.to/plazarev/javascript-news-and-updates-of-june-2022-116o)
+- [Lifehacker] [Garlic Has Greens and You Should Cook With Them](https://lifehacker.com/garlic-has-greens-and-you-should-cook-with-them-1849125892)
+- [Dev.to/JS] [Firebase/Firestore is becoming too complicated of a product. Am I the only one?](https://dev.to/obedtandadjaja/firebasefirestore-is-becoming-too-complicated-of-a-product-am-i-the-only-one-3ljj)
+- [Dev.to/JS] [Paracetamol.js💊| #158: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-158-explica-este-codigo-javascript-3g2l)
 - [Dev.to/JS] [Testando datas mais facilmente com Jest](https://dev.to/andersonmalheiro/testando-datas-mais-facilmente-com-jest-18cp)
 - [Lifehacker] [13 of the Best Things to Stream in July 2022](https://lifehacker.com/13-of-the-best-things-to-stream-in-july-2022-1849123135)
 - [Dev.to/JS] [Electronics And Communication Engineering Projects](https://dev.to/arunprakash142/electronics-and-communication-engineering-projects-660)
@@ -32,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Transfer Your Music Library and Playlists Among Any Streaming Services With This App](https://lifehacker.com/transfer-your-music-library-and-playlists-among-any-str-1849125094)
 - [Dev.to/JS] [JavaScript concepts you must know](https://dev.to/shshank/javascript-concepts-you-must-know-3ogp)
 - [Dev.to/JS] [Do you need a selector engine like jQuery, Sizzle or something else?](https://dev.to/frankwisniewski/do-you-need-a-selector-engine-like-jquery-sizzle-or-something-else-19ob)
-- [Dev.to/JS] [Computed local-only fields in Apollo Client](https://dev.to/joshconsole/computed-local-only-fields-in-apollo-client-3714)
-- [Dev.to/JS] [Mobile-First Design: What it is and How to Implement it?](https://dev.to/ameliawenham/mobile-first-design-what-it-is-and-how-to-implement-it-33hl)
-- [Dev.to/JS] [Authentication in Next with LoginRadius](https://dev.to/asayerio_techblog/authentication-in-next-with-loginradius-150h)
-- [Dev.to/JS] [A Guide for Beginners into Medusa, the Open Source Ecommerce Platform](https://dev.to/medusajs/a-guide-for-beginners-into-medusa-the-open-source-ecommerce-platform-2m08)
-- [Dev.to/JS] [Step-by-Step Guide on How to Create Your Proptech Solutions](https://dev.to/mukeshram/step-by-step-guide-on-how-to-create-your-proptech-solutions-442n)
-- [Dev.to/JS] [11 Reasons To Choose Magento 2 For eCommerce Development In 2022](https://dev.to/ecommerceevents/11-reasons-to-choose-magento-2-for-ecommerce-development-in-2022-53pj)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 - [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to See Rare &#39;Night-Shining&#39; Clouds, Thanks to Climate Change](https://lifehacker.com/how-to-see-rare-night-shining-clouds-thanks-to-climate-1849119685)
 - [Lifehacker] [How to Create a Spotify ‘Iceberg’](https://lifehacker.com/how-to-create-a-spotify-iceberg-1849119743)
 - [Lifehacker] [What to Do If You Find an Injured Bird](https://lifehacker.com/what-to-do-if-you-find-an-injured-bird-1849119429)
-- [Lifehacker] [These Credit Cards Come With Sweet Airport Perks](https://lifehacker.com/these-credit-cards-come-with-sweet-airport-perks-1849118498)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
