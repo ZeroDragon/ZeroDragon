@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Function is an Object?](https://dev.to/lnquy065/function-is-an-object-2pb8)
+- [Lifehacker] [Ditch Ads, and Other Reasons to Use These Hidden Chrome ‘Flags’ on Your Android](https://lifehacker.com/ditch-ads-and-other-reasons-to-use-these-hidden-chrome-1849127987)
+- [Dev.to/JS] [Building a Livestream Platform](https://dev.to/dolbyio/building-a-livestream-platform-4253)
+- [Lifehacker] [Vinegar, Ketchup, and Other Household Items That Can Remove Rust From Tools](https://lifehacker.com/vinegar-ketchup-and-other-household-items-that-can-re-1849127168)
+- [Lifehacker] [How to Add a Website Shortcut to Your Android Home Screen](https://lifehacker.com/how-to-add-a-website-shortcut-to-your-android-home-scre-1849125415)
 - [Dev.to/JS] [Quickly authenticate a dashboard in Vue.js using Appwrite and Auth0](https://dev.to/hackmamba/quickly-authenticate-a-dashboard-in-vuejs-using-appwrite-and-auth0-44hk)
 - [Dev.to/JS] [Node.js fundamentals allegorically](https://dev.to/projektorius96/nodejs-fundamentals-allegorically-1099)
 - [Dev.to/JS] [The Art of Transpilers - From One Programming Language to Another](https://dev.to/evantypanski/the-art-of-transpilers-from-one-programming-language-to-another-5419)
@@ -37,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Exercises Actually Get Easier When You Add Weight](https://lifehacker.com/these-exercises-actually-get-easier-when-you-add-weight-1849125570)
 - [Dev.to/JS] [📇How To Make Circular Progress Bar | HTML CSS JavaScript](https://dev.to/robsonmuniz16/how-to-make-circular-progress-bar-html-css-javascript-1cl8)
 - [Lifehacker] [Transfer Your Music Library and Playlists Among Any Streaming Services With This App](https://lifehacker.com/transfer-your-music-library-and-playlists-among-any-str-1849125094)
-- [Dev.to/JS] [JavaScript concepts you must know](https://dev.to/shshank/javascript-concepts-you-must-know-3ogp)
-- [Dev.to/JS] [Do you need a selector engine like jQuery, Sizzle or something else?](https://dev.to/frankwisniewski/do-you-need-a-selector-engine-like-jquery-sizzle-or-something-else-19ob)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 - [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Five Best Apps for Cheap and Discounted Groceries](https://lifehacker.com/the-five-best-apps-for-cheap-and-discounted-groceries-1849120113)
 - [Lifehacker] [The Best Strength Training Routine for Kids &lpar;and Maybe for You, Too&rpar;](https://lifehacker.com/the-best-strength-training-routine-for-kids-and-maybe-1849120364)
 - [Lifehacker] [16 Unbreakable Rules of Parking Lot Etiquette, According to Lifehacker Readers](https://lifehacker.com/16-unbreakable-rules-of-parking-lot-etiquette-accordin-1849120052)
-- [Lifehacker] [How to See Rare &#39;Night-Shining&#39; Clouds, Thanks to Climate Change](https://lifehacker.com/how-to-see-rare-night-shining-clouds-thanks-to-climate-1849119685)
-- [Lifehacker] [How to Create a Spotify ‘Iceberg’](https://lifehacker.com/how-to-create-a-spotify-iceberg-1849119743)
-- [Lifehacker] [What to Do If You Find an Injured Bird](https://lifehacker.com/what-to-do-if-you-find-an-injured-bird-1849119429)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
