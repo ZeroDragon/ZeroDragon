@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
+- [Dev.to/JS] [Why you should be careful using setInterval?](https://dev.to/rakshit/why-you-should-be-careful-using-setinterval-2ief)
+- [Dev.to/JS] [useRef vs useState in React](https://dev.to/vedanthb/useref-vs-usestate-in-react-168j)
+- [Dev.to/JS] [Call, Bind And Apply in JavaScript](https://dev.to/vedanthb/call-bind-and-apply-in-javascript-3hk)
+- [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Dev.to/JS] [Passing arguments to npm commands](https://dev.to/victoriarose/passing-arguments-to-npm-commands-26pm)
 - [Dev.to/JS] [Debouncing and Throttling in JavaScript](https://dev.to/vedanthb/debouncing-and-throttling-in-javascript-48aj)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
@@ -39,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Forgetting to Take Your Medication, Once and for All](https://lifehacker.com/how-to-stop-forgetting-to-take-your-medication-once-an-1849128110)
 - [Dev.to/JS] [AdaptJS - The Most Adaptable JavaScript Writing Style!](https://dev.to/itsmeadarsh/adaptjs-the-most-adaptable-javascript-writing-style-4h28)
 - [Lifehacker] [Fuel Your Anger With a Free Popeyes Chicken Sandwich Every Friday This Summer](https://lifehacker.com/fuel-your-anger-with-a-free-popeyes-chicken-sandwich-ev-1849125358)
-- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.2 &lpar; Authentication { Securing Password } &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-62-authentication-securing-password--2ig9)
-- [Dev.to/JS] [Function is an Object?](https://dev.to/lnquy065/function-is-an-object-2pb8)
 - [Lifehacker] [Ditch Ads, and Other Reasons to Use These Hidden Chrome ‘Flags’ on Your Android](https://lifehacker.com/ditch-ads-and-other-reasons-to-use-these-hidden-chrome-1849127987)
-- [Dev.to/JS] [Building a Livestream Platform](https://dev.to/dolbyio/building-a-livestream-platform-4253)
 - [Lifehacker] [Vinegar, Ketchup, and Other Household Items That Can Remove Rust From Tools](https://lifehacker.com/vinegar-ketchup-and-other-household-items-that-can-re-1849127168)
 - [Lifehacker] [How to Add a Website Shortcut to Your Android Home Screen](https://lifehacker.com/how-to-add-a-website-shortcut-to-your-android-home-scre-1849125415)
 - [Lifehacker] [Garlic Has Greens and You Should Cook With Them](https://lifehacker.com/garlic-has-greens-and-you-should-cook-with-them-1849125892)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Year, You Should Flambé Your American Flag Cake](https://lifehacker.com/you-should-flambe-your-american-flag-cake-1849124255)
 - [Lifehacker] [The Most Common Relationship Money Conflicts &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-relationship-money-conflicts-and-how-t-1849124414)
 - [Lifehacker] [How to Get a Slew of Free Moving Boxes](https://lifehacker.com/how-to-get-a-slew-of-free-moving-boxes-1849124266)
-- [Lifehacker] [Buy These Adapters Instead of Apple&#39;s $59 USB-C Dual Charger](https://lifehacker.com/buy-these-adapters-instead-of-apples-59-usb-c-dual-cha-1849123442)
-- [Lifehacker] [12 of the Worst Parenting Trends of the Last Century](https://lifehacker.com/12-of-the-worst-parenting-trends-of-the-last-century-1849121608)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
