@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Chrome Extensions of the Month - June](https://dev.to/j471n/chrome-extensions-of-the-month-june-b0i)
+- [Dev.to/JS] [HTML Complete Basic To Advanced Course](https://dev.to/fenikix/html-complete-basic-to-advanced-course-fm0)
+- [Dev.to/JS] [React is awesome but have you tried fresh?](https://dev.to/asheeshh/react-is-awesome-but-have-you-tried-fresh-47ho)
 - [Dev.to/JS] [How To Read Uploaded File Content In JavaScript](https://dev.to/ideradevtools/how-to-read-uploaded-file-content-in-javascript-4of7)
 - [Dev.to/JS] [Sanity.io: a really good CMS](https://dev.to/shubhampatilsd/sanityio-a-really-good-cms-42h9)
 - [Dev.to/JS] [10 Mind Blowing JavaScript libraries Of 2022 &lpar;I mean it Javascript Noob&rpar;](https://dev.to/sojinsamuel/6-mind-blowing-javascript-libraries-of-2022-i-mean-it-javascript-noob-243i)
@@ -35,10 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
 - [Dev.to/JS] [Ententendo o useEffect](https://dev.to/devigor/ententendo-o-useeffect-5gg4)
 - [Dev.to/JS] [What&#39;s the most useful feature for a DataGrid?](https://dev.to/get_infinite/whats-the-most-useful-feature-for-a-datagrid-3m13)
-- [Dev.to/JS] [How to use Reduct Storage with TypeScript](https://dev.to/reduct-storage/how-to-use-reduct-storage-with-typescript-c74)
-- [Dev.to/JS] [Material Design 3 - Dynamic colors by Beercss](https://dev.to/leonardorafael/material-design-3-dynamic-colors-by-beercss-h26)
 - [Lifehacker] [You Should Never Use Pennyroyal Tea to Induce an Abortion](https://lifehacker.com/you-should-never-use-pennyroyal-tea-to-induce-an-aborti-1849124593)
-- [Dev.to/JS] [How to do API Automation using Axios, Mocha, Chai and JavaScript](https://dev.to/codewithmmak/how-to-do-api-automation-using-axios-mocha-chai-and-javascript-2p6p)
 - [Lifehacker] [What&#39;s New on Paramount+ in July 2022](https://lifehacker.com/whats-new-on-paramount-in-july-2022-1849125036)
 - [Lifehacker] [How to Add an Easy DIY Water Feature to Your Garden](https://lifehacker.com/how-to-add-an-easy-diy-water-feature-to-your-garden-1849124830)
 - [Lifehacker] [This Year, You Should Flambé Your American Flag Cake](https://lifehacker.com/you-should-flambe-your-american-flag-cake-1849124255)
