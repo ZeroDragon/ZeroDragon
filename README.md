@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fast Pages with React](https://dev.to/florianrappl/fast-pages-with-react-27og)
 - [Dev.to/JS] [Open-source contributors worth sponsoring](https://dev.to/astoilkov/open-source-contributors-worth-sponsoring-2ml4)
 - [Dev.to/JS] [How the animation engine of Cubecubed works?](https://dev.to/imaphatduc/how-the-animation-engine-of-cubecubed-works-4m06)
 - [Dev.to/JS] [How to create a chatbot , can anyone help me please.](https://dev.to/manojastroo/how-to-create-a-chatbot-can-anyone-help-me-please-48bc)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Read Uploaded File Content In JavaScript](https://dev.to/ideradevtools/how-to-read-uploaded-file-content-in-javascript-4of7)
 - [Dev.to/JS] [Sanity.io: a really good CMS](https://dev.to/shubhampatilsd/sanityio-a-really-good-cms-42h9)
 - [Dev.to/JS] [10 Mind Blowing JavaScript libraries Of 2022 &lpar;I mean it Javascript Noob&rpar;](https://dev.to/sojinsamuel/6-mind-blowing-javascript-libraries-of-2022-i-mean-it-javascript-noob-243i)
-- [Dev.to/JS] [How to keep a history of MQTT messages with Node.js](https://dev.to/reduct-storage/how-to-keep-a-history-of-mqtt-messages-in-reduct-storage-with-nodejs-emn)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 - [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
