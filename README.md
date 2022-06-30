@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Show Google Calendar events in Fullcalendar with React](https://dev.to/fr0gs/show-google-calendar-events-in-fullcalendar-with-react-fld)
+- [Dev.to/JS] [Take the Jamstack Community Survey 2022!](https://dev.to/seldo/take-the-jamstack-community-survey-2022-4ekg)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
+- [Dev.to/JS] [Creating link tags to locales for SEO in NextJS](https://dev.to/jethrolarson/creating-link-tags-to-locales-for-seo-in-nextjs-8d1)
 - [Dev.to/JS] [Why you should be careful using setInterval?](https://dev.to/rakshit/why-you-should-be-careful-using-setinterval-2ief)
+- [Dev.to/JS] [How to inspect files packaged by webpack before they are emitted](https://dev.to/mellis481/how-to-inspect-files-packaged-by-webpack-before-they-are-emitted-337j)
 - [Dev.to/JS] [useRef vs useState in React](https://dev.to/vedanthb/useref-vs-usestate-in-react-168j)
 - [Dev.to/JS] [Call, Bind And Apply in JavaScript](https://dev.to/vedanthb/call-bind-and-apply-in-javascript-3hk)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
@@ -36,13 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Who Can Get a Monkeypox Vaccine?](https://lifehacker.com/who-can-get-a-monkeypox-vaccine-1849129874)
 - [Dev.to/JS] [Deep Copy and Shallow Copy in JavaScript](https://dev.to/vedanthb/deep-copy-and-shallow-copy-in-javascript-183m)
 - [Lifehacker] [What You Should Do Now to Prepare for a Recession](https://lifehacker.com/what-you-should-do-now-to-prepare-for-a-recession-1849129353)
-- [Dev.to/JS] [POV - Why Angular or React to web applications?](https://dev.to/cezarmzz/pov-why-angular-or-react-to-web-applications-3mam)
 - [Lifehacker] [Don’t React to a Bison the Way You Would a Bear](https://lifehacker.com/don-t-react-to-a-bison-the-way-you-would-a-bear-1849129502)
-- [Dev.to/JS] [20 Javascript snippets that will make your day easier!](https://dev.to/kai_wenzel/20-javascript-snippets-that-will-make-your-day-easier-133k)
 - [Lifehacker] [Is Owner Financing Ever a Good Idea?](https://lifehacker.com/is-owner-financing-ever-a-good-idea-1849129075)
-- [Dev.to/JS] [Best Practices of React JS Development: Developers Guide](https://dev.to/whotarusharora/best-practices-of-react-js-development-developers-guide-1122)
 - [Lifehacker] [How to Stop Forgetting to Take Your Medication, Once and for All](https://lifehacker.com/how-to-stop-forgetting-to-take-your-medication-once-an-1849128110)
-- [Dev.to/JS] [AdaptJS - The Most Adaptable JavaScript Writing Style!](https://dev.to/itsmeadarsh/adaptjs-the-most-adaptable-javascript-writing-style-4h28)
 - [Lifehacker] [Fuel Your Anger With a Free Popeyes Chicken Sandwich Every Friday This Summer](https://lifehacker.com/fuel-your-anger-with-a-free-popeyes-chicken-sandwich-ev-1849125358)
 - [Lifehacker] [Ditch Ads, and Other Reasons to Use These Hidden Chrome ‘Flags’ on Your Android](https://lifehacker.com/ditch-ads-and-other-reasons-to-use-these-hidden-chrome-1849127987)
 - [Lifehacker] [Vinegar, Ketchup, and Other Household Items That Can Remove Rust From Tools](https://lifehacker.com/vinegar-ketchup-and-other-household-items-that-can-re-1849127168)
