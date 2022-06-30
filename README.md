@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testando datas mais facilmente com Jest](https://dev.to/andersonmalheiro/testando-datas-mais-facilmente-com-jest-18cp)
+- [Lifehacker] [13 of the Best Things to Stream in July 2022](https://lifehacker.com/13-of-the-best-things-to-stream-in-july-2022-1849123135)
+- [Dev.to/JS] [Electronics And Communication Engineering Projects](https://dev.to/arunprakash142/electronics-and-communication-engineering-projects-660)
+- [Dev.to/JS] [A practical approach to creating graphql APIs in node.js - part one &lpar;Schemas and Queries&rpar;](https://dev.to/princewhyte2/a-practical-approach-to-creating-graphql-apis-in-nodejs-part-one-schemas-and-queries-26e4)
+- [Lifehacker] [These Exercises Actually Get Easier When You Add Weight](https://lifehacker.com/these-exercises-actually-get-easier-when-you-add-weight-1849125570)
+- [Dev.to/JS] [📇How To Make Circular Progress Bar | HTML CSS JavaScript](https://dev.to/robsonmuniz16/how-to-make-circular-progress-bar-html-css-javascript-1cl8)
 - [Lifehacker] [Transfer Your Music Library and Playlists Among Any Streaming Services With This App](https://lifehacker.com/transfer-your-music-library-and-playlists-among-any-str-1849125094)
 - [Dev.to/JS] [JavaScript concepts you must know](https://dev.to/shshank/javascript-concepts-you-must-know-3ogp)
 - [Dev.to/JS] [Do you need a selector engine like jQuery, Sizzle or something else?](https://dev.to/frankwisniewski/do-you-need-a-selector-engine-like-jquery-sizzle-or-something-else-19ob)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A Guide for Beginners into Medusa, the Open Source Ecommerce Platform](https://dev.to/medusajs/a-guide-for-beginners-into-medusa-the-open-source-ecommerce-platform-2m08)
 - [Dev.to/JS] [Step-by-Step Guide on How to Create Your Proptech Solutions](https://dev.to/mukeshram/step-by-step-guide-on-how-to-create-your-proptech-solutions-442n)
 - [Dev.to/JS] [11 Reasons To Choose Magento 2 For eCommerce Development In 2022](https://dev.to/ecommerceevents/11-reasons-to-choose-magento-2-for-ecommerce-development-in-2022-53pj)
-- [Dev.to/JS] [What Are Cypress Custom Commands? | Cypress Automation | Part X](https://dev.to/lambdatest/what-are-cypress-custom-commands-cypress-automation-part-x-38eo)
-- [Dev.to/JS] [What Are Cypress Fixtures? | Setting Up Cypress Fixtures | Cypress Tutorial | Part IX](https://dev.to/lambdatest/what-are-cypress-fixtures-setting-up-cypress-fixtures-cypress-tutorial-part-ix-2cok)
-- [Dev.to/JS] [What Are Cypress Hooks? | Hooks In Cypress | Cypress Tutorial | Part VIII](https://dev.to/lambdatest/what-are-cypress-hooks-hooks-in-cypress-cypress-tutorial-part-viii-1cg0)
-- [Dev.to/JS] [Best stacks to build vue applications](https://dev.to/jesusantguerrero/best-stacks-to-build-vue-applications-2man)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 - [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Create a Spotify ‘Iceberg’](https://lifehacker.com/how-to-create-a-spotify-iceberg-1849119743)
 - [Lifehacker] [What to Do If You Find an Injured Bird](https://lifehacker.com/what-to-do-if-you-find-an-injured-bird-1849119429)
 - [Lifehacker] [These Credit Cards Come With Sweet Airport Perks](https://lifehacker.com/these-credit-cards-come-with-sweet-airport-perks-1849118498)
-- [Lifehacker] [How to Make Tomato Ranch, the Ranch of the Summer](https://lifehacker.com/how-to-make-tomato-ranch-the-ranch-of-the-summer-1849119027)
-- [Lifehacker] [Can You Guess a Movie Based on a Single Frame?](https://lifehacker.com/can-you-guess-a-movie-based-on-a-single-frame-1849118203)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
