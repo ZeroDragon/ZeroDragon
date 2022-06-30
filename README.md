@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Passing arguments to npm commands](https://dev.to/victoriarose/passing-arguments-to-npm-commands-26pm)
+- [Dev.to/JS] [Debouncing and Throttling in JavaScript](https://dev.to/vedanthb/debouncing-and-throttling-in-javascript-48aj)
+- [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
+- [Dev.to/JS] [Easy CRUD setup with Meteor in only 4 steps from scratch](https://dev.to/jankapunkt/easy-crud-setup-with-meteor-in-only-4-steps-from-scratch-4m9n)
+- [Dev.to/JS] [Dry Bar Cocktails](https://dev.to/mbolonzi_/dry-bar-cocktails-1883)
+- [Lifehacker] [Who Can Get a Monkeypox Vaccine?](https://lifehacker.com/who-can-get-a-monkeypox-vaccine-1849129874)
 - [Dev.to/JS] [Deep Copy and Shallow Copy in JavaScript](https://dev.to/vedanthb/deep-copy-and-shallow-copy-in-javascript-183m)
 - [Lifehacker] [What You Should Do Now to Prepare for a Recession](https://lifehacker.com/what-you-should-do-now-to-prepare-for-a-recession-1849129353)
 - [Dev.to/JS] [POV - Why Angular or React to web applications?](https://dev.to/cezarmzz/pov-why-angular-or-react-to-web-applications-3mam)
@@ -30,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [20 Javascript snippets that will make your day easier!](https://dev.to/kai_wenzel/20-javascript-snippets-that-will-make-your-day-easier-133k)
 - [Lifehacker] [Is Owner Financing Ever a Good Idea?](https://lifehacker.com/is-owner-financing-ever-a-good-idea-1849129075)
 - [Dev.to/JS] [Best Practices of React JS Development: Developers Guide](https://dev.to/whotarusharora/best-practices-of-react-js-development-developers-guide-1122)
-- [Dev.to/JS] [How To Take Photo In Webcam and Save From Camera Laravel 9 ?](https://dev.to/itsolutionstuf/how-to-take-photo-in-webcam-and-save-from-camera-laravel-9--22m)
 - [Lifehacker] [How to Stop Forgetting to Take Your Medication, Once and for All](https://lifehacker.com/how-to-stop-forgetting-to-take-your-medication-once-an-1849128110)
 - [Dev.to/JS] [AdaptJS - The Most Adaptable JavaScript Writing Style!](https://dev.to/itsmeadarsh/adaptjs-the-most-adaptable-javascript-writing-style-4h28)
 - [Lifehacker] [Fuel Your Anger With a Free Popeyes Chicken Sandwich Every Friday This Summer](https://lifehacker.com/fuel-your-anger-with-a-free-popeyes-chicken-sandwich-ev-1849125358)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Building a Livestream Platform](https://dev.to/dolbyio/building-a-livestream-platform-4253)
 - [Lifehacker] [Vinegar, Ketchup, and Other Household Items That Can Remove Rust From Tools](https://lifehacker.com/vinegar-ketchup-and-other-household-items-that-can-re-1849127168)
 - [Lifehacker] [How to Add a Website Shortcut to Your Android Home Screen](https://lifehacker.com/how-to-add-a-website-shortcut-to-your-android-home-scre-1849125415)
-- [Dev.to/JS] [Quickly authenticate a dashboard in Vue.js using Appwrite and Auth0](https://dev.to/hackmamba/quickly-authenticate-a-dashboard-in-vuejs-using-appwrite-and-auth0-44hk)
-- [Dev.to/JS] [Node.js fundamentals allegorically](https://dev.to/projektorius96/nodejs-fundamentals-allegorically-1099)
-- [Dev.to/JS] [The Art of Transpilers - From One Programming Language to Another](https://dev.to/evantypanski/the-art-of-transpilers-from-one-programming-language-to-another-5419)
 - [Lifehacker] [Garlic Has Greens and You Should Cook With Them](https://lifehacker.com/garlic-has-greens-and-you-should-cook-with-them-1849125892)
 - [Lifehacker] [13 of the Best Things to Stream in July 2022](https://lifehacker.com/13-of-the-best-things-to-stream-in-july-2022-1849123135)
 - [Lifehacker] [These Exercises Actually Get Easier When You Add Weight](https://lifehacker.com/these-exercises-actually-get-easier-when-you-add-weight-1849125570)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Slew of Free Moving Boxes](https://lifehacker.com/how-to-get-a-slew-of-free-moving-boxes-1849124266)
 - [Lifehacker] [Buy These Adapters Instead of Apple&#39;s $59 USB-C Dual Charger](https://lifehacker.com/buy-these-adapters-instead-of-apples-59-usb-c-dual-cha-1849123442)
 - [Lifehacker] [12 of the Worst Parenting Trends of the Last Century](https://lifehacker.com/12-of-the-worst-parenting-trends-of-the-last-century-1849121608)
-- [Lifehacker] [Use a Subscription Manager to Stop Paying for Services You Don&#39;t Use](https://lifehacker.com/use-a-subscription-manager-to-stop-paying-for-services-1849121341)
-- [Lifehacker] [How Fireworks Became a Fourth of July Tradition](https://lifehacker.com/how-fireworks-became-a-fourth-of-july-tradition-1849120838)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
