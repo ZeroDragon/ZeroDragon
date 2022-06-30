@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open-source contributors worth sponsoring](https://dev.to/astoilkov/open-source-contributors-worth-sponsoring-2ml4)
+- [Dev.to/JS] [How the animation engine of Cubecubed works?](https://dev.to/imaphatduc/how-the-animation-engine-of-cubecubed-works-4m06)
+- [Dev.to/JS] [How to create a chatbot , can anyone help me please.](https://dev.to/manojastroo/how-to-create-a-chatbot-can-anyone-help-me-please-48bc)
+- [Dev.to/JS] [What is throttling in JavaScript?](https://dev.to/aamchora/what-is-throttling-in-javascript-2e9p)
 - [Dev.to/JS] [Protecting your JavaScript APIs](https://dev.to/omerwow/protecting-your-javascript-apis-2ofm)
 - [Dev.to/JS] [Chrome Extensions of the Month - June](https://dev.to/j471n/chrome-extensions-of-the-month-june-b0i)
 - [Dev.to/JS] [HTML Complete Basic To Advanced Course](https://dev.to/fenikix/html-complete-basic-to-advanced-course-fm0)
@@ -31,13 +35,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Sanity.io: a really good CMS](https://dev.to/shubhampatilsd/sanityio-a-really-good-cms-42h9)
 - [Dev.to/JS] [10 Mind Blowing JavaScript libraries Of 2022 &lpar;I mean it Javascript Noob&rpar;](https://dev.to/sojinsamuel/6-mind-blowing-javascript-libraries-of-2022-i-mean-it-javascript-noob-243i)
 - [Dev.to/JS] [How to keep a history of MQTT messages with Node.js](https://dev.to/reduct-storage/how-to-keep-a-history-of-mqtt-messages-in-reduct-storage-with-nodejs-emn)
-- [Dev.to/JS] [Border Radius Previewer App using Typescript. #beginner2advanced](https://dev.to/zt4ff_1/border-radius-previewer-app-using-typescript-beginner2advanced-3agj)
-- [Dev.to/JS] [Are you sure you know Promises?](https://dev.to/latobibor/are-you-sure-you-know-promises-gd5)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 - [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
-- [Dev.to/JS] [What is your favourite ES6 feature?](https://dev.to/justtanwa/what-is-your-favourite-es6-feature-2i3f)
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
-- [Dev.to/JS] [Ententendo o useEffect](https://dev.to/devigor/ententendo-o-useeffect-5gg4)
 - [Lifehacker] [You Should Never Use Pennyroyal Tea to Induce an Abortion](https://lifehacker.com/you-should-never-use-pennyroyal-tea-to-induce-an-aborti-1849124593)
 - [Lifehacker] [What&#39;s New on Paramount+ in July 2022](https://lifehacker.com/whats-new-on-paramount-in-july-2022-1849125036)
 - [Lifehacker] [How to Add an Easy DIY Water Feature to Your Garden](https://lifehacker.com/how-to-add-an-easy-diy-water-feature-to-your-garden-1849124830)
