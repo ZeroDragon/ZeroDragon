@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to keep a history of MQTT messages with Node.js](https://dev.to/reduct-storage/how-to-keep-a-history-of-mqtt-messages-in-reduct-storage-with-nodejs-emn)
 - [Dev.to/JS] [Border Radius Previewer App using Typescript. #beginner2advanced](https://dev.to/zt4ff_1/border-radius-previewer-app-using-typescript-beginner2advanced-3agj)
 - [Dev.to/JS] [Are you sure you know Promises?](https://dev.to/latobibor/are-you-sure-you-know-promises-gd5)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Add an Easy DIY Water Feature to Your Garden](https://lifehacker.com/how-to-add-an-easy-diy-water-feature-to-your-garden-1849124830)
 - [Dev.to/JS] [Using promise &amp; async/await with HTML Form](https://dev.to/nazmussayad/using-promise-asyncawait-with-html-form-31bh)
 - [Dev.to/JS] [Virtual Pet Fish - Progress update 29th June](https://dev.to/inputduck/virtual-pet-fish-progress-update-29th-june-3km3)
-- [Dev.to/JS] [Full-Stack React &amp; Node.js - Database!](https://dev.to/neohed/full-stack-react-nodejs-database-3c3l)
 - [Lifehacker] [This Year, You Should Flambé Your American Flag Cake](https://lifehacker.com/you-should-flambe-your-american-flag-cake-1849124255)
 - [Lifehacker] [The Most Common Relationship Money Conflicts &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-relationship-money-conflicts-and-how-t-1849124414)
 - [Lifehacker] [How to Get a Slew of Free Moving Boxes](https://lifehacker.com/how-to-get-a-slew-of-free-moving-boxes-1849124266)
