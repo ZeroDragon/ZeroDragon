@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Border Radius Previewer App using Typescript. #beginner2advanced](https://dev.to/zt4ff_1/border-radius-previewer-app-using-typescript-beginner2advanced-3agj)
 - [Dev.to/JS] [Are you sure you know Promises?](https://dev.to/latobibor/are-you-sure-you-know-promises-gd5)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 - [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Virtual Pet Fish - Progress update 29th June](https://dev.to/inputduck/virtual-pet-fish-progress-update-29th-june-3km3)
 - [Dev.to/JS] [Full-Stack React &amp; Node.js - Database!](https://dev.to/neohed/full-stack-react-nodejs-database-3c3l)
 - [Lifehacker] [This Year, You Should Flambé Your American Flag Cake](https://lifehacker.com/you-should-flambe-your-american-flag-cake-1849124255)
-- [Dev.to/JS] [The experience of creating my own JavaScript runtime - #2](https://dev.to/victoriarose/the-experience-of-creating-my-own-javascript-runtime-2-494c)
 - [Lifehacker] [The Most Common Relationship Money Conflicts &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-relationship-money-conflicts-and-how-t-1849124414)
 - [Lifehacker] [How to Get a Slew of Free Moving Boxes](https://lifehacker.com/how-to-get-a-slew-of-free-moving-boxes-1849124266)
 - [Lifehacker] [Buy These Adapters Instead of Apple&#39;s $59 USB-C Dual Charger](https://lifehacker.com/buy-these-adapters-instead-of-apples-59-usb-c-dual-cha-1849123442)
