@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Protecting your JavaScript APIs](https://dev.to/omerwow/protecting-your-javascript-apis-2ofm)
 - [Dev.to/JS] [Chrome Extensions of the Month - June](https://dev.to/j471n/chrome-extensions-of-the-month-june-b0i)
 - [Dev.to/JS] [HTML Complete Basic To Advanced Course](https://dev.to/fenikix/html-complete-basic-to-advanced-course-fm0)
 - [Dev.to/JS] [React is awesome but have you tried fresh?](https://dev.to/asheeshh/react-is-awesome-but-have-you-tried-fresh-47ho)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is your favourite ES6 feature?](https://dev.to/justtanwa/what-is-your-favourite-es6-feature-2i3f)
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
 - [Dev.to/JS] [Ententendo o useEffect](https://dev.to/devigor/ententendo-o-useeffect-5gg4)
-- [Dev.to/JS] [What&#39;s the most useful feature for a DataGrid?](https://dev.to/get_infinite/whats-the-most-useful-feature-for-a-datagrid-3m13)
 - [Lifehacker] [You Should Never Use Pennyroyal Tea to Induce an Abortion](https://lifehacker.com/you-should-never-use-pennyroyal-tea-to-induce-an-aborti-1849124593)
 - [Lifehacker] [What&#39;s New on Paramount+ in July 2022](https://lifehacker.com/whats-new-on-paramount-in-july-2022-1849125036)
 - [Lifehacker] [How to Add an Easy DIY Water Feature to Your Garden](https://lifehacker.com/how-to-add-an-easy-diy-water-feature-to-your-garden-1849124830)
