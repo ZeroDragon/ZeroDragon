@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Transfer Your Music Library and Playlists Among Any Streaming Services With This App](https://lifehacker.com/transfer-your-music-library-and-playlists-among-any-str-1849125094)
+- [Dev.to/JS] [JavaScript concepts you must know](https://dev.to/shshank/javascript-concepts-you-must-know-3ogp)
+- [Dev.to/JS] [Do you need a selector engine like jQuery, Sizzle or something else?](https://dev.to/frankwisniewski/do-you-need-a-selector-engine-like-jquery-sizzle-or-something-else-19ob)
+- [Dev.to/JS] [Computed local-only fields in Apollo Client](https://dev.to/joshconsole/computed-local-only-fields-in-apollo-client-3714)
+- [Dev.to/JS] [Mobile-First Design: What it is and How to Implement it?](https://dev.to/ameliawenham/mobile-first-design-what-it-is-and-how-to-implement-it-33hl)
 - [Dev.to/JS] [Authentication in Next with LoginRadius](https://dev.to/asayerio_techblog/authentication-in-next-with-loginradius-150h)
 - [Dev.to/JS] [A Guide for Beginners into Medusa, the Open Source Ecommerce Platform](https://dev.to/medusajs/a-guide-for-beginners-into-medusa-the-open-source-ecommerce-platform-2m08)
 - [Dev.to/JS] [Step-by-Step Guide on How to Create Your Proptech Solutions](https://dev.to/mukeshram/step-by-step-guide-on-how-to-create-your-proptech-solutions-442n)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Are Cypress Fixtures? | Setting Up Cypress Fixtures | Cypress Tutorial | Part IX](https://dev.to/lambdatest/what-are-cypress-fixtures-setting-up-cypress-fixtures-cypress-tutorial-part-ix-2cok)
 - [Dev.to/JS] [What Are Cypress Hooks? | Hooks In Cypress | Cypress Tutorial | Part VIII](https://dev.to/lambdatest/what-are-cypress-hooks-hooks-in-cypress-cypress-tutorial-part-viii-1cg0)
 - [Dev.to/JS] [Best stacks to build vue applications](https://dev.to/jesusantguerrero/best-stacks-to-build-vue-applications-2man)
-- [Dev.to/JS] [Core Features of Our Coinbase Clone Script](https://dev.to/thecryptoapeo/core-features-of-our-coinbase-clone-script-2b8j)
-- [Dev.to/JS] [🎨 From waiting time metrics to Generative art](https://dev.to/optnc/from-waiting-time-metrics-to-generative-art-2d6d)
-- [Dev.to/JS] [Personal Portfolio Website](https://dev.to/ombhusal/personal-portfolio-website-3k6l)
-- [Dev.to/JS] [Registration and Login &lpar;Authentication&rpar; with Vue.js and Strapi](https://dev.to/strapi/registration-and-login-authentication-with-vuejs-and-strapi-481g)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 - [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Credit Cards Come With Sweet Airport Perks](https://lifehacker.com/these-credit-cards-come-with-sweet-airport-perks-1849118498)
 - [Lifehacker] [How to Make Tomato Ranch, the Ranch of the Summer](https://lifehacker.com/how-to-make-tomato-ranch-the-ranch-of-the-summer-1849119027)
 - [Lifehacker] [Can You Guess a Movie Based on a Single Frame?](https://lifehacker.com/can-you-guess-a-movie-based-on-a-single-frame-1849118203)
-- [Lifehacker] [‘Fish Pedicures’ Should Go to Hell](https://lifehacker.com/fuck-fish-pedicures-1849117825)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
 - [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
