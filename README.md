@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Authentication in Next with LoginRadius](https://dev.to/asayerio_techblog/authentication-in-next-with-loginradius-150h)
+- [Dev.to/JS] [A Guide for Beginners into Medusa, the Open Source Ecommerce Platform](https://dev.to/medusajs/a-guide-for-beginners-into-medusa-the-open-source-ecommerce-platform-2m08)
 - [Dev.to/JS] [Step-by-Step Guide on How to Create Your Proptech Solutions](https://dev.to/mukeshram/step-by-step-guide-on-how-to-create-your-proptech-solutions-442n)
 - [Dev.to/JS] [11 Reasons To Choose Magento 2 For eCommerce Development In 2022](https://dev.to/ecommerceevents/11-reasons-to-choose-magento-2-for-ecommerce-development-in-2022-53pj)
 - [Dev.to/JS] [What Are Cypress Custom Commands? | Cypress Automation | Part X](https://dev.to/lambdatest/what-are-cypress-custom-commands-cypress-automation-part-x-38eo)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎨 From waiting time metrics to Generative art](https://dev.to/optnc/from-waiting-time-metrics-to-generative-art-2d6d)
 - [Dev.to/JS] [Personal Portfolio Website](https://dev.to/ombhusal/personal-portfolio-website-3k6l)
 - [Dev.to/JS] [Registration and Login &lpar;Authentication&rpar; with Vue.js and Strapi](https://dev.to/strapi/registration-and-login-authentication-with-vuejs-and-strapi-481g)
-- [Dev.to/JS] [Fast Pages with React](https://dev.to/florianrappl/fast-pages-with-react-27og)
-- [Dev.to/JS] [Open-source contributors worth sponsoring](https://dev.to/astoilkov/open-source-contributors-worth-sponsoring-2ml4)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 - [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
