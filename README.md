@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🎨 From waiting time metrics to Generative art](https://dev.to/optnc/from-waiting-time-metrics-to-generative-art-2d6d)
+- [Dev.to/JS] [Personal Portfolio Website](https://dev.to/ombhusal/personal-portfolio-website-3k6l)
+- [Dev.to/JS] [Registration and Login &lpar;Authentication&rpar; with Vue.js and Strapi](https://dev.to/strapi/registration-and-login-authentication-with-vuejs-and-strapi-481g)
 - [Dev.to/JS] [Fast Pages with React](https://dev.to/florianrappl/fast-pages-with-react-27og)
 - [Dev.to/JS] [Open-source contributors worth sponsoring](https://dev.to/astoilkov/open-source-contributors-worth-sponsoring-2ml4)
 - [Dev.to/JS] [How the animation engine of Cubecubed works?](https://dev.to/imaphatduc/how-the-animation-engine-of-cubecubed-works-4m06)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chrome Extensions of the Month - June](https://dev.to/j471n/chrome-extensions-of-the-month-june-b0i)
 - [Dev.to/JS] [HTML Complete Basic To Advanced Course](https://dev.to/fenikix/html-complete-basic-to-advanced-course-fm0)
 - [Dev.to/JS] [React is awesome but have you tried fresh?](https://dev.to/asheeshh/react-is-awesome-but-have-you-tried-fresh-47ho)
-- [Dev.to/JS] [How To Read Uploaded File Content In JavaScript](https://dev.to/ideradevtools/how-to-read-uploaded-file-content-in-javascript-4of7)
-- [Dev.to/JS] [Sanity.io: a really good CMS](https://dev.to/shubhampatilsd/sanityio-a-really-good-cms-42h9)
-- [Dev.to/JS] [10 Mind Blowing JavaScript libraries Of 2022 &lpar;I mean it Javascript Noob&rpar;](https://dev.to/sojinsamuel/6-mind-blowing-javascript-libraries-of-2022-i-mean-it-javascript-noob-243i)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 - [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
