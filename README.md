@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Redis is the new best database ?](https://dev.to/samthom/why-redis-is-the-new-best-database--11ag)
+- [Dev.to/JS] [Jest Tutorial For Beginners: Different Ways of Running Test [3/5]](https://dev.to/abidullah786/jest-tutorial-for-beginners-different-ways-of-running-test-35-5m9)
 - [Dev.to/JS] [Making Pretty / Responsive Charts with Angular v14 and ng2-charts v3.1.0](https://dev.to/riapacheco/making-pretty-responsive-charts-with-angular-v14-and-ng2-charts-v310-4ibh)
 - [Dev.to/JS] [So I&#39;m in a bootcamp...](https://dev.to/acw0415/so-im-in-a-bootcamp-5ne)
 - [Dev.to/JS] [Variables: Var, Let, Const - JavaScript Basics](https://dev.to/ianferrier777/variables-var-let-const-javascript-basics-819)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Device native share UI with Web Share API](https://dev.to/lucasm/web-share-api-how-to-use-the-device-native-share-548b)
 - [Dev.to/JS] [How Does Gatsby Actually Work?](https://dev.to/helloitsian/how-does-gatsby-actually-work-152n)
 - [Dev.to/JS] [How to use $refs in Vue 3 with Composition API and Script Setup](https://dev.to/zelig880/how-to-use-refs-in-vue-3-with-composition-api-and-script-setup-121n)
-- [Dev.to/JS] [Show Google Calendar events in Fullcalendar with React](https://dev.to/fr0gs/show-google-calendar-events-in-fullcalendar-with-react-fld)
-- [Dev.to/JS] [Take the Jamstack Community Survey 2022!](https://dev.to/seldo/take-the-jamstack-community-survey-2022-4ekg)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
