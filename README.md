@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Solving a medium algorithm challenge step by step — Minimum Number of Platforms Required for a Railway Station](https://dev.to/adavize/solving-a-medium-algorithm-challenge-step-by-step-minimum-number-of-platforms-required-for-a-railway-station-1cpe)
+- [Dev.to/JS] [An Easy Guide to Publishing npm packages](https://dev.to/saurabh190802/an-easy-guide-to-publishing-npm-packages-2ili)
+- [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
+- [Dev.to/JS] [TypeScript Cheat sheet](https://dev.to/prems5/typescript-cheat-sheet-2k33)
+- [Dev.to/JS] [Why am i Seeing an Alert Box on dev.to](https://dev.to/sojinsamuel/why-am-i-seeing-an-alert-box-on-devto-556d)
 - [Dev.to/JS] [test](https://dev.to/testvulnbug/test-1mip)
 - [Dev.to/JS] [Send emails asynchronously with Sendgrid and node.js, AWS SQS, AWS Lambda](https://dev.to/fr0gs/send-emails-asynchronously-with-sendgrid-and-nodejs-aws-sqs-aws-lambda-459k)
 - [Dev.to/JS] [colorful rain fall](https://dev.to/codeauthor/colorful-rain-fall-aag)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Redis is the new best database ?](https://dev.to/samthom/why-redis-is-the-new-best-database--11ag)
 - [Dev.to/JS] [Jest Tutorial For Beginners: Different Ways of Running Test [3/5]](https://dev.to/abidullah786/jest-tutorial-for-beginners-different-ways-of-running-test-35-5m9)
 - [Dev.to/JS] [Make Pretty and User-Friendly Charts with Angular 14 &amp; ng2-charts v3.1.0](https://dev.to/riapacheco/making-pretty-responsive-charts-with-angular-v14-and-ng2-charts-v310-4ibh)
-- [Dev.to/JS] [So I&#39;m in a bootcamp...](https://dev.to/acw0415/so-im-in-a-bootcamp-5ne)
-- [Dev.to/JS] [Variables: Var, Let, Const - JavaScript Basics](https://dev.to/ianferrier777/variables-var-let-const-javascript-basics-819)
-- [Dev.to/JS] [Scrolla - jQuery Plugin for Reveal Animations](https://dev.to/techsolutionstuff/scrolla-jquery-plugin-for-reveal-animations-54ia)
-- [Dev.to/JS] [Test post](https://dev.to/dersibcha/test-post-4mdo)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Most Common Relationship Money Conflicts &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-relationship-money-conflicts-and-how-t-1849124414)
 - [Lifehacker] [How to Get a Slew of Free Moving Boxes](https://lifehacker.com/how-to-get-a-slew-of-free-moving-boxes-1849124266)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
-- [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)
-- [Crazy Programmer] [How to Become a Software Developer Fast?](https://www.thecrazyprogrammer.com/2022/06/how-to-become-a-software-developer-fast.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
 ---
 
