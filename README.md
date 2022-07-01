@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Building a Simple HTML Highlighter with JavaScript](https://dev.to/ugorji_simon/building-a-simple-html-highlighter-with-javascript-5919)
 - [Dev.to/JS] [Getting Started with React](https://dev.to/sdwn/getting-started-with-react-8ph)
 - [Dev.to/JS] [Graphql test](https://dev.to/dersibcha/graphql-test-282f)
 - [Dev.to/JS] [Introduction to Web Development: HTML + CSS + Javascript](https://dev.to/michelledeveloper/introduction-to-web-development-html-css-javascript-a84)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [FloodlightJS](https://dev.to/rajnandan1/floodlightjs-1gn7)
 - [Dev.to/JS] [Roadmap, Quick cheatsheet, Study materials for Front End Web Development](https://dev.to/gaurbprajapati/roadmap-quick-cheetsheet-study-materials-nia)
 - [Lifehacker] [20 Movies That&#39;ll Remind You the Government Can’t Be Trusted](https://lifehacker.com/20-movies-thatll-remind-you-the-government-can-t-be-tru-1849125096)
-- [Dev.to/JS] [Ultimate guide on the JavaScript Event loop](https://dev.to/srishtikprasad/ultimate-guide-on-the-javascript-event-loop-3h79)
 - [Lifehacker] [10 of the Hardest Video Games Ever](https://lifehacker.com/10-of-the-hardest-video-games-ever-1849044055)
 - [Lifehacker] [Why You Might Want to Shower Before Your Run](https://lifehacker.com/why-you-might-want-to-shower-before-your-run-1849131818)
 - [Lifehacker] [10 Uses for Hand Sanitizer That Aren&#39;t Cleaning Your Hands](https://lifehacker.com/10-uses-for-hand-sanitizer-that-arent-cleaning-your-han-1849131155)
