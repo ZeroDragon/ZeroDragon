@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Rash Might Be a Sun Allergy](https://lifehacker.com/your-rash-might-be-a-sun-allergy-1849134956)
+- [Dev.to/JS] [first node app.](https://dev.to/itskunal/first-node-app-52cg)
+- [Dev.to/JS] [WEEK 1 : The Beginning](https://dev.to/heydrdev/what-i-did-this-week--2ehm)
+- [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/the-best-sites-and-apps-to-track-your-books-movies-mu-1849131164)
+- [Dev.to/JS] [13 Javascript one-liner tricks with Arrays.](https://dev.to/bimbowande/13-javascript-one-liner-tricks-with-arrays-5a38)
+- [Dev.to/JS] [TypeScript Generics 101](https://dev.to/romeopeter/typescript-generics-101-3ngp)
+- [Lifehacker] [Improve Your Heart Health With This Checklist](https://lifehacker.com/improve-your-heart-health-with-this-checklist-1849134479)
 - [Lifehacker] [How to Rent an RV for $1 a Day](https://lifehacker.com/how-to-rent-an-rv-for-1-a-day-1849134033)
 - [Dev.to/JS] [FloodlightJS](https://dev.to/rajnandan1/floodlightjs-1gn7)
 - [Dev.to/JS] [Roadmap, Quick cheatsheet, Study materials for Front End Web Development](https://dev.to/gaurbprajapati/roadmap-quick-cheetsheet-study-materials-nia)
@@ -34,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.3.1 &lpar; Authentication { Token Generation} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-62-authentication-securing-password--3b3g)
 - [Lifehacker] [10 of the Hardest Video Games Ever](https://lifehacker.com/10-of-the-hardest-video-games-ever-1849044055)
 - [Dev.to/JS] [I developed a live news app using bling news API and react.](https://dev.to/nikeshkumartk/i-developed-a-live-news-app-using-bling-news-api-and-react-5ch6)
-- [Dev.to/JS] [Exporting html dom elements as png in javascript](https://dev.to/addelec/exporting-html-dom-elements-as-png-in-javascript-1i9e)
-- [Dev.to/JS] [VIDEO | IoT Ensemble overview](https://dev.to/richkurtzman/video-iot-ensemble-overview-23fa)
 - [Lifehacker] [Why You Might Want to Shower Before Your Run](https://lifehacker.com/why-you-might-want-to-shower-before-your-run-1849131818)
-- [Dev.to/JS] [How I passed 3 AWS Exams in 3 Months and 5 Study Strategies for this Exam](https://dev.to/ankitdubey74/how-i-passed-3-aws-exams-in-3-months-5-study-strategies-for-this-exam-3605)
-- [Dev.to/JS] [Reusable Widgets that work! — Vue Amsterdam Conference 2022 Summary series — Fifth Talk](https://dev.to/mohsen_vaziri/reusable-widgets-that-work-vue-amsterdam-conference-2022-summary-series-fifth-talk-473f)
 - [Lifehacker] [10 Uses for Hand Sanitizer That Aren&#39;t Cleaning Your Hands](https://lifehacker.com/10-uses-for-hand-sanitizer-that-arent-cleaning-your-han-1849131155)
 - [Lifehacker] [Why You Shouldn&#39;t Trust Fuel Cost Estimates on New Car Window Stickers](https://lifehacker.com/why-you-shouldnt-trust-fuel-cost-estimates-on-new-car-w-1849125349)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Young People Wearing Suits to &#39;Minions&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-y-1849132606)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Ditch Ads, and Other Reasons to Use These Hidden Chrome ‘Flags’ on Your Android](https://lifehacker.com/ditch-ads-and-other-reasons-to-use-these-hidden-chrome-1849127987)
 - [Lifehacker] [Vinegar, Ketchup, and Other Household Items That Can Remove Rust From Tools](https://lifehacker.com/vinegar-ketchup-and-other-household-items-that-can-re-1849127168)
 - [Lifehacker] [How to Add a Website Shortcut to Your Android Home Screen](https://lifehacker.com/how-to-add-a-website-shortcut-to-your-android-home-scre-1849125415)
-- [Lifehacker] [Garlic Has Greens and You Should Cook With Them](https://lifehacker.com/garlic-has-greens-and-you-should-cook-with-them-1849125892)
-- [Lifehacker] [13 of the Best Things to Stream in July 2022](https://lifehacker.com/13-of-the-best-things-to-stream-in-july-2022-1849123135)
-- [Lifehacker] [These Exercises Actually Get Easier When You Add Weight](https://lifehacker.com/these-exercises-actually-get-easier-when-you-add-weight-1849125570)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
