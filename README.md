@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Check if named slot exists in your page with Vue.js](https://dev.to/caio2k/check-if-named-slot-exists-in-your-page-with-vuejs-i47)
+- [Dev.to/JS] [Fresh – Is this new Javascript framework the Node-killer](https://dev.to/codesphere/fresh-is-this-new-javascript-framework-the-node-killer-4dgn)
 - [Dev.to/JS] [[PART-I] GSoC 2022 | Rocket.Chat | EmbeddedChat](https://dev.to/sidmohanty11/part-i-gsoc-2022-rocketchat-embeddedchat-3njh)
 - [Dev.to/JS] [Let&#39;s create a mini programming language!](https://dev.to/posandu/lets-create-a-mini-programming-language-2426)
 - [Dev.to/JS] [Build beautiful UI components with NextUI](https://dev.to/asayerio_techblog/build-beautiful-ui-components-with-nextui-43lm)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why am i Seeing an Alert Box on dev.to](https://dev.to/sojinsamuel/why-am-i-seeing-an-alert-box-on-devto-556d)
 - [Dev.to/JS] [test](https://dev.to/testvulnbug/test-1mip)
 - [Dev.to/JS] [Send emails asynchronously with Sendgrid and node.js, AWS SQS, AWS Lambda](https://dev.to/fr0gs/send-emails-asynchronously-with-sendgrid-and-nodejs-aws-sqs-aws-lambda-459k)
-- [Dev.to/JS] [colorful rain fall](https://dev.to/codeauthor/colorful-rain-fall-aag)
-- [Dev.to/JS] [Nodejs Frameworks for App Development in 2022](https://dev.to/brettsmith03/nodejs-frameworks-for-app-development-in-2022-1nio)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
