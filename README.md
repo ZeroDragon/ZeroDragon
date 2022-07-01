@@ -23,6 +23,16 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [20 Movies That&#39;ll Remind You the Government Can’t Be Trusted](https://lifehacker.com/20-movies-thatll-remind-you-the-government-can-t-be-tru-1849125096)
+- [Dev.to/JS] [Ultimate guide on the JavaScript Event loop](https://dev.to/srishtikprasad/ultimate-guide-on-the-javascript-event-loop-3h79)
+- [Dev.to/JS] [The Collab Lab TCL-44 Recap](https://dev.to/the-collab-lab/the-collab-lab-tcl-44-recap-2h29)
+- [Dev.to/JS] [Reporting messages in TalkJS](https://dev.to/talkjs/reporting-messages-in-talkjs-1ndk)
+- [Dev.to/JS] [Why JavaScript is confusing?, Learn it by knowing the difference](https://dev.to/mahmoudgalal/why-javascript-is-confusing-learn-it-by-knowing-the-difference-4p91)
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.3.1 &lpar; Authentication { Token Generation} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-62-authentication-securing-password--3b3g)
+- [Lifehacker] [10 of the Hardest Video Games Ever](https://lifehacker.com/10-of-the-hardest-video-games-ever-1849044055)
+- [Dev.to/JS] [I developed a live news app using bling news API and react.](https://dev.to/nikeshkumartk/i-developed-a-live-news-app-using-bling-news-api-and-react-5ch6)
+- [Dev.to/JS] [Exporting html dom elements as png in javascript](https://dev.to/addelec/exporting-html-dom-elements-as-png-in-javascript-1i9e)
+- [Dev.to/JS] [VIDEO | IoT Ensemble overview](https://dev.to/richkurtzman/video-iot-ensemble-overview-23fa)
 - [Lifehacker] [Why You Might Want to Shower Before Your Run](https://lifehacker.com/why-you-might-want-to-shower-before-your-run-1849131818)
 - [Dev.to/JS] [How I passed 3 AWS Exams in 3 Months and 5 Study Strategies for this Exam](https://dev.to/ankitdubey74/how-i-passed-3-aws-exams-in-3-months-5-study-strategies-for-this-exam-3605)
 - [Dev.to/JS] [Reusable Widgets that work! — Vue Amsterdam Conference 2022 Summary series — Fifth Talk](https://dev.to/mohsen_vaziri/reusable-widgets-that-work-vue-amsterdam-conference-2022-summary-series-fifth-talk-473f)
@@ -31,16 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Follow Friday: React Edition &lpar;1 July 2022&rpar;](https://dev.to/devteam/follow-friday-react-edition-1-july-2022-2kpa)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Young People Wearing Suits to &#39;Minions&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-y-1849132606)
 - [Dev.to/JS] [Getting Started with React Navigation v6 and TypeScript in React Native](https://dev.to/jscrambler/getting-started-with-react-navigation-v6-and-typescript-in-react-native-h9n)
-- [Dev.to/JS] [Angular json server Deploy](https://dev.to/himxx/angular-json-server-deploy-1kko)
-- [Dev.to/JS] [New CSS framework](https://dev.to/getlookover/new-css-framework-2465)
-- [Dev.to/JS] [MERN CRUD&lpar;Read&rpar; - 7](https://dev.to/shubhamtiwari909/mern-crudread-7-101g)
-- [Dev.to/JS] [Paracetamol.js💊| #159: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-159-explica-este-codigo-javascript-587h)
 - [Lifehacker] [Take Advantage of These Personal Finance Tips While You’re Still Single](https://lifehacker.com/take-advantage-of-these-personal-finance-tips-while-you-1849131207)
-- [Dev.to/JS] [Showing MapBox map with React. 🗺️](https://dev.to/franklin030601/showing-mapbox-map-with-react-55g)
-- [Dev.to/JS] [Mostrando mapa de MapBox con React. 🗺️](https://dev.to/franklin030601/mostrando-mapa-de-mapbox-con-react-82k)
 - [Lifehacker] [How to Back Up Your Google Hangouts Data Before It&#39;s Gone for Good](https://lifehacker.com/how-to-back-up-your-google-hangouts-data-before-its-gon-1849130692)
-- [Dev.to/JS] [Google Maps API 學習筆記 – 1：地圖、標記、客製樣式](https://dev.to/letswrite/google-maps-api-xue-xi-bi-ji-1di-tu-biao-ji-ke-zhi-yang-shi-2192)
-- [Dev.to/JS] [Week 9 - Trial and Error](https://dev.to/jwhitt3r/week-9-trial-and-error-g0d)
 - [Lifehacker] [How to Set Boundaries Around Toy Guns](https://lifehacker.com/how-to-set-boundaries-around-toy-guns-1848976354)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 of the Best Things to Stream in July 2022](https://lifehacker.com/13-of-the-best-things-to-stream-in-july-2022-1849123135)
 - [Lifehacker] [These Exercises Actually Get Easier When You Add Weight](https://lifehacker.com/these-exercises-actually-get-easier-when-you-add-weight-1849125570)
 - [Lifehacker] [Transfer Your Music Library and Playlists Among Any Streaming Services With This App](https://lifehacker.com/transfer-your-music-library-and-playlists-among-any-str-1849125094)
-- [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
-- [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
