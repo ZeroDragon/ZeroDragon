@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [[PART-I] GSoC 2022 | Rocket.Chat | EmbeddedChat](https://dev.to/sidmohanty11/part-i-gsoc-2022-rocketchat-embeddedchat-3njh)
+- [Dev.to/JS] [Let&#39;s create a mini programming language!](https://dev.to/posandu/lets-create-a-mini-programming-language-2426)
+- [Dev.to/JS] [Build beautiful UI components with NextUI](https://dev.to/asayerio_techblog/build-beautiful-ui-components-with-nextui-43lm)
+- [Dev.to/JS] [Getting started with Barebones components - A component library without design constraints built for Vue and Nuxt](https://dev.to/wearethreebears/getting-started-with-barebones-components-a-component-library-without-design-constraints-built-for-vue-and-nuxt-3n64)
 - [Dev.to/JS] [Solving a medium algorithm challenge step by step — Minimum Number of Platforms Required for a Railway Station](https://dev.to/adavize/solving-a-medium-algorithm-challenge-step-by-step-minimum-number-of-platforms-required-for-a-railway-station-1cpe)
 - [Dev.to/JS] [An Easy Guide to Publishing npm packages](https://dev.to/saurabh190802/an-easy-guide-to-publishing-npm-packages-2ili)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Send emails asynchronously with Sendgrid and node.js, AWS SQS, AWS Lambda](https://dev.to/fr0gs/send-emails-asynchronously-with-sendgrid-and-nodejs-aws-sqs-aws-lambda-459k)
 - [Dev.to/JS] [colorful rain fall](https://dev.to/codeauthor/colorful-rain-fall-aag)
 - [Dev.to/JS] [Nodejs Frameworks for App Development in 2022](https://dev.to/brettsmith03/nodejs-frameworks-for-app-development-in-2022-1nio)
-- [Dev.to/JS] [How to auto-prefix and minify CSS?](https://dev.to/murtuzaalisurti/how-to-auto-prefix-and-minify-css-4272)
-- [Dev.to/JS] [Why Redis is the new best database ?](https://dev.to/samthom/why-redis-is-the-new-best-database--11ag)
-- [Dev.to/JS] [Jest Tutorial For Beginners: Different Ways of Running Test [3/5]](https://dev.to/abidullah786/jest-tutorial-for-beginners-different-ways-of-running-test-35-5m9)
-- [Dev.to/JS] [Make Pretty and User-Friendly Charts with Angular 14 &amp; ng2-charts v3.1.0](https://dev.to/riapacheco/making-pretty-responsive-charts-with-angular-v14-and-ng2-charts-v310-4ibh)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
