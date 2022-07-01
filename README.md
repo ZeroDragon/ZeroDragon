@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making Pretty / Responsive Charts with Angular v14 and ng2-charts v3.1.0](https://dev.to/riapacheco/making-pretty-responsive-charts-with-angular-v14-and-ng2-charts-v310-4ibh)
 - [Dev.to/JS] [So I&#39;m in a bootcamp...](https://dev.to/acw0415/so-im-in-a-bootcamp-5ne)
 - [Dev.to/JS] [Variables: Var, Let, Const - JavaScript Basics](https://dev.to/ianferrier777/variables-var-let-const-javascript-basics-819)
 - [Dev.to/JS] [Scrolla - jQuery Plugin for Reveal Animations](https://dev.to/techsolutionstuff/scrolla-jquery-plugin-for-reveal-animations-54ia)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Show Google Calendar events in Fullcalendar with React](https://dev.to/fr0gs/show-google-calendar-events-in-fullcalendar-with-react-fld)
 - [Dev.to/JS] [Take the Jamstack Community Survey 2022!](https://dev.to/seldo/take-the-jamstack-community-survey-2022-4ekg)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
-- [Dev.to/JS] [Creating link tags to locales for SEO in NextJS](https://dev.to/jethrolarson/creating-link-tags-to-locales-for-seo-in-nextjs-8d1)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
 - [Lifehacker] [Who Can Get a Monkeypox Vaccine?](https://lifehacker.com/who-can-get-a-monkeypox-vaccine-1849129874)
