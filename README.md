@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Web Share API: How to Use the Device Native Share](https://dev.to/lucasm/web-share-api-how-to-use-the-device-native-share-548b)
+- [Dev.to/JS] [Future-Proofing Your React File Uploader](https://dev.to/ideradevtools/future-proofing-your-react-file-uploader-4ae9)
+- [Dev.to/JS] [4 weeks in](https://dev.to/keeganmcroberts/4-weeks-in-4o73)
+- [Dev.to/JS] [Web Share API: how to use the Device native share](https://dev.to/lucasm/web-share-api-how-to-use-the-device-native-share-548b)
 - [Dev.to/JS] [How Does Gatsby Actually Work?](https://dev.to/helloitsian/how-does-gatsby-actually-work-152n)
 - [Dev.to/JS] [How to use $refs in Vue 3 with Composition API and Script Setup](https://dev.to/zelig880/how-to-use-refs-in-vue-3-with-composition-api-and-script-setup-121n)
 - [Dev.to/JS] [Show Google Calendar events in Fullcalendar with React](https://dev.to/fr0gs/show-google-calendar-events-in-fullcalendar-with-react-fld)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useRef vs useState in React](https://dev.to/vedanthb/useref-vs-usestate-in-react-168j)
 - [Dev.to/JS] [Call, Bind And Apply in JavaScript](https://dev.to/vedanthb/call-bind-and-apply-in-javascript-3hk)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
-- [Dev.to/JS] [Passing arguments to npm commands](https://dev.to/victoriarose/passing-arguments-to-npm-commands-26pm)
-- [Dev.to/JS] [Debouncing and Throttling in JavaScript](https://dev.to/vedanthb/debouncing-and-throttling-in-javascript-48aj)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
 - [Lifehacker] [Who Can Get a Monkeypox Vaccine?](https://lifehacker.com/who-can-get-a-monkeypox-vaccine-1849129874)
 - [Lifehacker] [What You Should Do Now to Prepare for a Recession](https://lifehacker.com/what-you-should-do-now-to-prepare-for-a-recession-1849129353)
