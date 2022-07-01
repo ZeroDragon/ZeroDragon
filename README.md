@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Showing MapBox map with React. 🗺️](https://dev.to/franklin030601/showing-mapbox-map-with-react-55g)
+- [Dev.to/JS] [Mostrando mapa de MapBox con React. 🗺️](https://dev.to/franklin030601/mostrando-mapa-de-mapbox-con-react-82k)
+- [Lifehacker] [How to Back Up Your Google Hangouts Data Before It&#39;s Gone for Good](https://lifehacker.com/how-to-back-up-your-google-hangouts-data-before-its-gon-1849130692)
+- [Dev.to/JS] [Google Maps API 學習筆記 – 1：地圖、標記、客製樣式](https://dev.to/letswrite/google-maps-api-xue-xi-bi-ji-1di-tu-biao-ji-ke-zhi-yang-shi-2192)
+- [Dev.to/JS] [Week 9 - Trial and Error](https://dev.to/jwhitt3r/week-9-trial-and-error-g0d)
 - [Dev.to/JS] [Gaming on a Virtual Machine: Your Guide to Improving Performance in Hyper-V](https://dev.to/alextraytech/gaming-on-a-virtual-machine-your-guide-to-improving-performance-in-hyper-v-1o0i)
 - [Lifehacker] [How to Set Boundaries Around Toy Guns](https://lifehacker.com/how-to-set-boundaries-around-toy-guns-1848976354)
 - [Dev.to/JS] [Write Git Commit Messages That Your Colleagues Will Love](https://dev.to/simeg/write-git-commit-messages-that-your-colleagues-will-love-1757)
@@ -30,12 +35,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fixing a Promise return object to be typed in Typescript](https://dev.to/metal3d/fixing-a-promise-return-object-to-be-typed-in-typescript-4jp6)
 - [Dev.to/JS] [tsParticles 2.1.3 Released](https://dev.to/matteobruni/tsparticles-213-released-42dk)
 - [Dev.to/JS] [Check if named slot exists in your page with Vue.js](https://dev.to/caio2k/check-if-named-slot-exists-in-your-page-with-vuejs-i47)
-- [Dev.to/JS] [Fresh – Is this new Javascript framework the Node-killer](https://dev.to/codesphere/fresh-is-this-new-javascript-framework-the-node-killer-4dgn)
+- [Dev.to/JS] [Fresh – Is this new Javascript framework the Node-killer?](https://dev.to/codesphere/fresh-is-this-new-javascript-framework-the-node-killer-4dgn)
 - [Dev.to/JS] [[PART-I] GSoC 2022 | Rocket.Chat | EmbeddedChat](https://dev.to/sidmohanty11/part-i-gsoc-2022-rocketchat-embeddedchat-3njh)
-- [Dev.to/JS] [Let&#39;s create a mini programming language!](https://dev.to/posandu/lets-create-a-mini-programming-language-2426)
-- [Dev.to/JS] [Build beautiful UI components with NextUI](https://dev.to/asayerio_techblog/build-beautiful-ui-components-with-nextui-43lm)
-- [Dev.to/JS] [Getting started with Barebones components - A component library without design constraints built for Vue and Nuxt](https://dev.to/wearethreebears/getting-started-with-barebones-components-a-component-library-without-design-constraints-built-for-vue-and-nuxt-3n64)
-- [Dev.to/JS] [Solving a medium algorithm challenge step by step — Minimum Number of Platforms Required for a Railway Station](https://dev.to/adavize/solving-a-medium-algorithm-challenge-step-by-step-minimum-number-of-platforms-required-for-a-railway-station-1cpe)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Paramount+ in July 2022](https://lifehacker.com/whats-new-on-paramount-in-july-2022-1849125036)
 - [Lifehacker] [How to Add an Easy DIY Water Feature to Your Garden](https://lifehacker.com/how-to-add-an-easy-diy-water-feature-to-your-garden-1849124830)
 - [Lifehacker] [This Year, You Should Flambé Your American Flag Cake](https://lifehacker.com/you-should-flambe-your-american-flag-cake-1849124255)
-- [Lifehacker] [The Most Common Relationship Money Conflicts &lpar;and How to Avoid Them&rpar;](https://lifehacker.com/the-most-common-relationship-money-conflicts-and-how-t-1849124414)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
