@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
+- [Dev.to/JS] [Yes! There is no integer data type in JavaScript.](https://dev.to/saiarlen/yes-there-is-no-integer-data-type-in-javascript-5acf)
+- [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
 - [Lifehacker] [Your Rash Might Be a Sun Allergy](https://lifehacker.com/your-rash-might-be-a-sun-allergy-1849134956)
 - [Dev.to/JS] [first node app.](https://dev.to/itskunal/first-node-app-52cg)
 - [Dev.to/JS] [WEEK 1 : The Beginning](https://dev.to/heydrdev/what-i-did-this-week--2ehm)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why JavaScript is confusing?, Learn it by knowing the difference](https://dev.to/mahmoudgalal/why-javascript-is-confusing-learn-it-by-knowing-the-difference-4p91)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.3.1 &lpar; Authentication { Token Generation} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-62-authentication-securing-password--3b3g)
 - [Lifehacker] [10 of the Hardest Video Games Ever](https://lifehacker.com/10-of-the-hardest-video-games-ever-1849044055)
-- [Dev.to/JS] [I developed a live news app using bling news API and react.](https://dev.to/nikeshkumartk/i-developed-a-live-news-app-using-bling-news-api-and-react-5ch6)
 - [Lifehacker] [Why You Might Want to Shower Before Your Run](https://lifehacker.com/why-you-might-want-to-shower-before-your-run-1849131818)
 - [Lifehacker] [10 Uses for Hand Sanitizer That Aren&#39;t Cleaning Your Hands](https://lifehacker.com/10-uses-for-hand-sanitizer-that-arent-cleaning-your-han-1849131155)
 - [Lifehacker] [Why You Shouldn&#39;t Trust Fuel Cost Estimates on New Car Window Stickers](https://lifehacker.com/why-you-shouldnt-trust-fuel-cost-estimates-on-new-car-w-1849125349)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Forgetting to Take Your Medication, Once and for All](https://lifehacker.com/how-to-stop-forgetting-to-take-your-medication-once-an-1849128110)
 - [Lifehacker] [Fuel Your Anger With a Free Popeyes Chicken Sandwich Every Friday This Summer](https://lifehacker.com/fuel-your-anger-with-a-free-popeyes-chicken-sandwich-ev-1849125358)
 - [Lifehacker] [Ditch Ads, and Other Reasons to Use These Hidden Chrome ‘Flags’ on Your Android](https://lifehacker.com/ditch-ads-and-other-reasons-to-use-these-hidden-chrome-1849127987)
-- [Lifehacker] [Vinegar, Ketchup, and Other Household Items That Can Remove Rust From Tools](https://lifehacker.com/vinegar-ketchup-and-other-household-items-that-can-re-1849127168)
-- [Lifehacker] [How to Add a Website Shortcut to Your Android Home Screen](https://lifehacker.com/how-to-add-a-website-shortcut-to-your-android-home-scre-1849125415)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
