@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Might Want to Shower Before Your Run](https://lifehacker.com/why-you-might-want-to-shower-before-your-run-1849131818)
+- [Dev.to/JS] [How I passed 3 AWS Exams in 3 Months and 5 Study Strategies for this Exam](https://dev.to/ankitdubey74/how-i-passed-3-aws-exams-in-3-months-5-study-strategies-for-this-exam-3605)
+- [Dev.to/JS] [Reusable Widgets that work! — Vue Amsterdam Conference 2022 Summary series — Fifth Talk](https://dev.to/mohsen_vaziri/reusable-widgets-that-work-vue-amsterdam-conference-2022-summary-series-fifth-talk-473f)
+- [Lifehacker] [10 Uses for Hand Sanitizer That Aren&#39;t Cleaning Your Hands](https://lifehacker.com/10-uses-for-hand-sanitizer-that-arent-cleaning-your-han-1849131155)
+- [Lifehacker] [Why You Shouldn&#39;t Trust Fuel Cost Estimates on New Car Window Stickers](https://lifehacker.com/why-you-shouldnt-trust-fuel-cost-estimates-on-new-car-w-1849125349)
 - [Dev.to/JS] [Follow Friday: React Edition &lpar;1 July 2022&rpar;](https://dev.to/devteam/follow-friday-react-edition-1-july-2022-2kpa)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Young People Wearing Suits to &#39;Minions&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-y-1849132606)
 - [Dev.to/JS] [Getting Started with React Navigation v6 and TypeScript in React Native](https://dev.to/jscrambler/getting-started-with-react-navigation-v6-and-typescript-in-react-native-h9n)
@@ -36,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Back Up Your Google Hangouts Data Before It&#39;s Gone for Good](https://lifehacker.com/how-to-back-up-your-google-hangouts-data-before-its-gon-1849130692)
 - [Dev.to/JS] [Google Maps API 學習筆記 – 1：地圖、標記、客製樣式](https://dev.to/letswrite/google-maps-api-xue-xi-bi-ji-1di-tu-biao-ji-ke-zhi-yang-shi-2192)
 - [Dev.to/JS] [Week 9 - Trial and Error](https://dev.to/jwhitt3r/week-9-trial-and-error-g0d)
-- [Dev.to/JS] [Gaming on a Virtual Machine: Your Guide to Improving Performance in Hyper-V](https://dev.to/alextraytech/gaming-on-a-virtual-machine-your-guide-to-improving-performance-in-hyper-v-1o0i)
 - [Lifehacker] [How to Set Boundaries Around Toy Guns](https://lifehacker.com/how-to-set-boundaries-around-toy-guns-1848976354)
-- [Dev.to/JS] [Write Git Commit Messages That Your Colleagues Will Love](https://dev.to/simeg/write-git-commit-messages-that-your-colleagues-will-love-1757)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Transfer Your Music Library and Playlists Among Any Streaming Services With This App](https://lifehacker.com/transfer-your-music-library-and-playlists-among-any-str-1849125094)
 - [Lifehacker] [Why You Should Check Your Luggage As Late As Possible](https://lifehacker.com/why-you-should-check-your-luggage-as-late-as-possible-1849125685)
 - [Lifehacker] [10 of the Easiest Countries to Emigrate to When You&#39;ve Had Enough](https://lifehacker.com/10-of-the-easiest-countries-to-emigrate-to-when-youve-h-1849125605)
-- [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
-- [Lifehacker] [You Should Never Use Pennyroyal Tea to Induce an Abortion](https://lifehacker.com/you-should-never-use-pennyroyal-tea-to-induce-an-aborti-1849124593)
-- [Lifehacker] [What&#39;s New on Paramount+ in July 2022](https://lifehacker.com/whats-new-on-paramount-in-july-2022-1849125036)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
