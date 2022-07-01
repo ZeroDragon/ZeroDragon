@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Rent an RV for $1 a Day](https://lifehacker.com/how-to-rent-an-rv-for-1-a-day-1849134033)
+- [Dev.to/JS] [FloodlightJS](https://dev.to/rajnandan1/floodlightjs-1gn7)
+- [Dev.to/JS] [Roadmap, Quick cheatsheet, Study materials for Front End Web Development](https://dev.to/gaurbprajapati/roadmap-quick-cheetsheet-study-materials-nia)
 - [Lifehacker] [20 Movies That&#39;ll Remind You the Government Can’t Be Trusted](https://lifehacker.com/20-movies-thatll-remind-you-the-government-can-t-be-tru-1849125096)
 - [Dev.to/JS] [Ultimate guide on the JavaScript Event loop](https://dev.to/srishtikprasad/ultimate-guide-on-the-javascript-event-loop-3h79)
 - [Dev.to/JS] [The Collab Lab TCL-44 Recap](https://dev.to/the-collab-lab/the-collab-lab-tcl-44-recap-2h29)
@@ -38,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Reusable Widgets that work! — Vue Amsterdam Conference 2022 Summary series — Fifth Talk](https://dev.to/mohsen_vaziri/reusable-widgets-that-work-vue-amsterdam-conference-2022-summary-series-fifth-talk-473f)
 - [Lifehacker] [10 Uses for Hand Sanitizer That Aren&#39;t Cleaning Your Hands](https://lifehacker.com/10-uses-for-hand-sanitizer-that-arent-cleaning-your-han-1849131155)
 - [Lifehacker] [Why You Shouldn&#39;t Trust Fuel Cost Estimates on New Car Window Stickers](https://lifehacker.com/why-you-shouldnt-trust-fuel-cost-estimates-on-new-car-w-1849125349)
-- [Dev.to/JS] [Follow Friday: React Edition &lpar;1 July 2022&rpar;](https://dev.to/devteam/follow-friday-react-edition-1-july-2022-2kpa)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Young People Wearing Suits to &#39;Minions&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-y-1849132606)
-- [Dev.to/JS] [Getting Started with React Navigation v6 and TypeScript in React Native](https://dev.to/jscrambler/getting-started-with-react-navigation-v6-and-typescript-in-react-native-h9n)
 - [Lifehacker] [Take Advantage of These Personal Finance Tips While You’re Still Single](https://lifehacker.com/take-advantage-of-these-personal-finance-tips-while-you-1849131207)
 - [Lifehacker] [How to Back Up Your Google Hangouts Data Before It&#39;s Gone for Good](https://lifehacker.com/how-to-back-up-your-google-hangouts-data-before-its-gon-1849130692)
 - [Lifehacker] [How to Set Boundaries Around Toy Guns](https://lifehacker.com/how-to-set-boundaries-around-toy-guns-1848976354)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Garlic Has Greens and You Should Cook With Them](https://lifehacker.com/garlic-has-greens-and-you-should-cook-with-them-1849125892)
 - [Lifehacker] [13 of the Best Things to Stream in July 2022](https://lifehacker.com/13-of-the-best-things-to-stream-in-july-2022-1849123135)
 - [Lifehacker] [These Exercises Actually Get Easier When You Add Weight](https://lifehacker.com/these-exercises-actually-get-easier-when-you-add-weight-1849125570)
-- [Lifehacker] [Transfer Your Music Library and Playlists Among Any Streaming Services With This App](https://lifehacker.com/transfer-your-music-library-and-playlists-among-any-str-1849125094)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
