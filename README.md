@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with React](https://dev.to/sdwn/getting-started-with-react-8ph)
+- [Dev.to/JS] [Graphql test](https://dev.to/dersibcha/graphql-test-282f)
+- [Dev.to/JS] [Introduction to Web Development: HTML + CSS + Javascript](https://dev.to/michelledeveloper/introduction-to-web-development-html-css-javascript-a84)
+- [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
+- [Dev.to/JS] [How to get a High paying MERN Job](https://dev.to/shoyeb001/how-to-get-a-high-paying-mern-job-36g1)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Dev.to/JS] [Yes! There is no integer data type in JavaScript.](https://dev.to/saiarlen/yes-there-is-no-integer-data-type-in-javascript-5acf)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
@@ -38,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Roadmap, Quick cheatsheet, Study materials for Front End Web Development](https://dev.to/gaurbprajapati/roadmap-quick-cheetsheet-study-materials-nia)
 - [Lifehacker] [20 Movies That&#39;ll Remind You the Government Can’t Be Trusted](https://lifehacker.com/20-movies-thatll-remind-you-the-government-can-t-be-tru-1849125096)
 - [Dev.to/JS] [Ultimate guide on the JavaScript Event loop](https://dev.to/srishtikprasad/ultimate-guide-on-the-javascript-event-loop-3h79)
-- [Dev.to/JS] [The Collab Lab TCL-44 Recap](https://dev.to/the-collab-lab/the-collab-lab-tcl-44-recap-2h29)
-- [Dev.to/JS] [Reporting messages in TalkJS](https://dev.to/talkjs/reporting-messages-in-talkjs-1ndk)
-- [Dev.to/JS] [Why JavaScript is confusing?, Learn it by knowing the difference](https://dev.to/mahmoudgalal/why-javascript-is-confusing-learn-it-by-knowing-the-difference-4p91)
-- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.3.1 &lpar; Authentication { Token Generation} &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-62-authentication-securing-password--3b3g)
 - [Lifehacker] [10 of the Hardest Video Games Ever](https://lifehacker.com/10-of-the-hardest-video-games-ever-1849044055)
 - [Lifehacker] [Why You Might Want to Shower Before Your Run](https://lifehacker.com/why-you-might-want-to-shower-before-your-run-1849131818)
 - [Lifehacker] [10 Uses for Hand Sanitizer That Aren&#39;t Cleaning Your Hands](https://lifehacker.com/10-uses-for-hand-sanitizer-that-arent-cleaning-your-han-1849131155)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Is Owner Financing Ever a Good Idea?](https://lifehacker.com/is-owner-financing-ever-a-good-idea-1849129075)
 - [Lifehacker] [How to Stop Forgetting to Take Your Medication, Once and for All](https://lifehacker.com/how-to-stop-forgetting-to-take-your-medication-once-an-1849128110)
 - [Lifehacker] [Fuel Your Anger With a Free Popeyes Chicken Sandwich Every Friday This Summer](https://lifehacker.com/fuel-your-anger-with-a-free-popeyes-chicken-sandwich-ev-1849125358)
-- [Lifehacker] [Ditch Ads, and Other Reasons to Use These Hidden Chrome ‘Flags’ on Your Android](https://lifehacker.com/ditch-ads-and-other-reasons-to-use-these-hidden-chrome-1849127987)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
