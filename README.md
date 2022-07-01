@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [test](https://dev.to/testvulnbug/test-1mip)
+- [Dev.to/JS] [Send emails asynchronously with Sendgrid and node.js, AWS SQS, AWS Lambda](https://dev.to/fr0gs/send-emails-asynchronously-with-sendgrid-and-nodejs-aws-sqs-aws-lambda-459k)
+- [Dev.to/JS] [colorful rain fall](https://dev.to/codeauthor/colorful-rain-fall-aag)
 - [Dev.to/JS] [Nodejs Frameworks for App Development in 2022](https://dev.to/brettsmith03/nodejs-frameworks-for-app-development-in-2022-1nio)
 - [Dev.to/JS] [How to auto-prefix and minify CSS?](https://dev.to/murtuzaalisurti/how-to-auto-prefix-and-minify-css-4272)
 - [Dev.to/JS] [Why Redis is the new best database ?](https://dev.to/samthom/why-redis-is-the-new-best-database--11ag)
 - [Dev.to/JS] [Jest Tutorial For Beginners: Different Ways of Running Test [3/5]](https://dev.to/abidullah786/jest-tutorial-for-beginners-different-ways-of-running-test-35-5m9)
-- [Dev.to/JS] [Making Pretty / Responsive Charts with Angular v14 and ng2-charts v3.1.0](https://dev.to/riapacheco/making-pretty-responsive-charts-with-angular-v14-and-ng2-charts-v310-4ibh)
+- [Dev.to/JS] [Make Pretty and User-Friendly Charts with Angular 14 &amp; ng2-charts v3.1.0](https://dev.to/riapacheco/making-pretty-responsive-charts-with-angular-v14-and-ng2-charts-v310-4ibh)
 - [Dev.to/JS] [So I&#39;m in a bootcamp...](https://dev.to/acw0415/so-im-in-a-bootcamp-5ne)
 - [Dev.to/JS] [Variables: Var, Let, Const - JavaScript Basics](https://dev.to/ianferrier777/variables-var-let-const-javascript-basics-819)
 - [Dev.to/JS] [Scrolla - jQuery Plugin for Reveal Animations](https://dev.to/techsolutionstuff/scrolla-jquery-plugin-for-reveal-animations-54ia)
 - [Dev.to/JS] [Test post](https://dev.to/dersibcha/test-post-4mdo)
-- [Dev.to/JS] [Future-Proofing Your React File Uploader](https://dev.to/ideradevtools/future-proofing-your-react-file-uploader-4ae9)
-- [Dev.to/JS] [4 weeks in](https://dev.to/keeganmcroberts/4-weeks-in-4o73)
-- [Dev.to/JS] [How to use Device native share UI with Web Share API](https://dev.to/lucasm/web-share-api-how-to-use-the-device-native-share-548b)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
