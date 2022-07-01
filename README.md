@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Test post](https://dev.to/dersibcha/test-post-4mdo)
 - [Dev.to/JS] [Future-Proofing Your React File Uploader](https://dev.to/ideradevtools/future-proofing-your-react-file-uploader-4ae9)
 - [Dev.to/JS] [4 weeks in](https://dev.to/keeganmcroberts/4-weeks-in-4o73)
 - [Dev.to/JS] [Web Share API: how to use the Device native share](https://dev.to/lucasm/web-share-api-how-to-use-the-device-native-share-548b)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why you should be careful using setInterval?](https://dev.to/rakshit/why-you-should-be-careful-using-setinterval-2ief)
 - [Dev.to/JS] [How to inspect files packaged by webpack before they are emitted](https://dev.to/mellis481/how-to-inspect-files-packaged-by-webpack-before-they-are-emitted-337j)
 - [Dev.to/JS] [useRef vs useState in React](https://dev.to/vedanthb/useref-vs-usestate-in-react-168j)
-- [Dev.to/JS] [Call, Bind And Apply in JavaScript](https://dev.to/vedanthb/call-bind-and-apply-in-javascript-3hk)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
 - [Lifehacker] [Who Can Get a Monkeypox Vaccine?](https://lifehacker.com/who-can-get-a-monkeypox-vaccine-1849129874)
