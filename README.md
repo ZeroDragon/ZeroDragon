@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Follow Friday: React Edition &lpar;1 July 2022&rpar;](https://dev.to/devteam/follow-friday-react-edition-1-july-2022-2kpa)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Young People Wearing Suits to &#39;Minions&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-y-1849132606)
+- [Dev.to/JS] [Getting Started with React Navigation v6 and TypeScript in React Native](https://dev.to/jscrambler/getting-started-with-react-navigation-v6-and-typescript-in-react-native-h9n)
+- [Dev.to/JS] [Angular json server Deploy](https://dev.to/himxx/angular-json-server-deploy-1kko)
+- [Dev.to/JS] [New CSS framework](https://dev.to/getlookover/new-css-framework-2465)
+- [Dev.to/JS] [MERN CRUD&lpar;Read&rpar; - 7](https://dev.to/shubhamtiwari909/mern-crudread-7-101g)
+- [Dev.to/JS] [Paracetamol.js💊| #159: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-159-explica-este-codigo-javascript-587h)
+- [Lifehacker] [Take Advantage of These Personal Finance Tips While You’re Still Single](https://lifehacker.com/take-advantage-of-these-personal-finance-tips-while-you-1849131207)
 - [Dev.to/JS] [Showing MapBox map with React. 🗺️](https://dev.to/franklin030601/showing-mapbox-map-with-react-55g)
 - [Dev.to/JS] [Mostrando mapa de MapBox con React. 🗺️](https://dev.to/franklin030601/mostrando-mapa-de-mapbox-con-react-82k)
 - [Lifehacker] [How to Back Up Your Google Hangouts Data Before It&#39;s Gone for Good](https://lifehacker.com/how-to-back-up-your-google-hangouts-data-before-its-gon-1849130692)
@@ -31,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Gaming on a Virtual Machine: Your Guide to Improving Performance in Hyper-V](https://dev.to/alextraytech/gaming-on-a-virtual-machine-your-guide-to-improving-performance-in-hyper-v-1o0i)
 - [Lifehacker] [How to Set Boundaries Around Toy Guns](https://lifehacker.com/how-to-set-boundaries-around-toy-guns-1848976354)
 - [Dev.to/JS] [Write Git Commit Messages That Your Colleagues Will Love](https://dev.to/simeg/write-git-commit-messages-that-your-colleagues-will-love-1757)
-- [Dev.to/JS] [🔥 Top 3 React Tricks Pros 😎 like to Use to Reduce the Size of a Component](https://dev.to/kai_wenzel/top-3-react-tricks-pros-like-to-use-to-reduce-the-size-of-a-component-4hl)
-- [Dev.to/JS] [Fixing a Promise return object to be typed in Typescript](https://dev.to/metal3d/fixing-a-promise-return-object-to-be-typed-in-typescript-4jp6)
-- [Dev.to/JS] [tsParticles 2.1.3 Released](https://dev.to/matteobruni/tsparticles-213-released-42dk)
-- [Dev.to/JS] [Check if named slot exists in your page with Vue.js](https://dev.to/caio2k/check-if-named-slot-exists-in-your-page-with-vuejs-i47)
-- [Dev.to/JS] [Fresh – Is this new Javascript framework the Node-killer?](https://dev.to/codesphere/fresh-is-this-new-javascript-framework-the-node-killer-4dgn)
-- [Dev.to/JS] [[PART-I] GSoC 2022 | Rocket.Chat | EmbeddedChat](https://dev.to/sidmohanty11/part-i-gsoc-2022-rocketchat-embeddedchat-3njh)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do You Need Dimensional, the Social Media App for Personality Tests?](https://lifehacker.com/do-you-need-dimensional-the-social-media-app-for-perso-1849125369)
 - [Lifehacker] [You Should Never Use Pennyroyal Tea to Induce an Abortion](https://lifehacker.com/you-should-never-use-pennyroyal-tea-to-induce-an-aborti-1849124593)
 - [Lifehacker] [What&#39;s New on Paramount+ in July 2022](https://lifehacker.com/whats-new-on-paramount-in-july-2022-1849125036)
-- [Lifehacker] [How to Add an Easy DIY Water Feature to Your Garden](https://lifehacker.com/how-to-add-an-easy-diy-water-feature-to-your-garden-1849124830)
-- [Lifehacker] [This Year, You Should Flambé Your American Flag Cake](https://lifehacker.com/you-should-flambe-your-american-flag-cake-1849124255)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
