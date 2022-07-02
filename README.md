@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Meet Software Developers](https://dev.to/kukovisuals/meets-software-developers-lge)
+- [Dev.to/JS] [Telegram Web Apps &lpar;Reopening last page&rpar;](https://dev.to/bogdanaks/telegram-web-apps-reopening-last-page-5b04)
 - [Dev.to/JS] [#100Devs Software Engineering Bootcamp](https://dev.to/juliafmorgado/100devs-software-engineering-bootcamp-545)
 - [Dev.to/JS] [How to Build a Verification Code Based Sign Up](https://dev.to/icchatechnologies/how-to-build-a-verification-code-based-sign-up-3fka)
 - [Dev.to/JS] [Using GraphQL for Your APIs](https://dev.to/icchatechnologies/using-graphql-api-for-your-apis-212k)
@@ -35,10 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to get a High paying MERN Job](https://dev.to/shoyeb001/how-to-get-a-high-paying-mern-job-36g1)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Dev.to/JS] [Yes! There is no integer data type in JavaScript.](https://dev.to/saiarlen/yes-there-is-no-integer-data-type-in-javascript-5acf)
-- [Dev.to/JS] [Here&#39;s why I Recommend Svelte To Every New Web Developer In 2022](https://dev.to/hr21don/heres-why-i-recommend-svelte-to-every-new-web-developer-in-2022-9ii)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
 - [Lifehacker] [Your Rash Might Be a Sun Allergy](https://lifehacker.com/your-rash-might-be-a-sun-allergy-1849134956)
-- [Dev.to/JS] [first node app.](https://dev.to/itskunal/first-node-app-52cg)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/the-best-sites-and-apps-to-track-your-books-movies-mu-1849131164)
 - [Lifehacker] [Improve Your Heart Health With This Checklist](https://lifehacker.com/improve-your-heart-health-with-this-checklist-1849134479)
 - [Lifehacker] [How to Rent an RV for $1 a Day](https://lifehacker.com/how-to-rent-an-rv-for-1-a-day-1849134033)
