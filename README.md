@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.3.2 &lpar; Authentication { Login } &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-632-authentication-login--543c)
+- [Dev.to/JS] [Food is life](https://dev.to/kalashikari/food-is-life-4ief)
+- [Dev.to/JS] [How to Detect Duplicate Code in a Project!](https://dev.to/kai_wenzel/how-to-detect-duplicate-code-in-a-project-3ln3)
+- [Dev.to/JS] [Os primeiros passos em javascript](https://dev.to/oscarjeremiasdev/os-primeiros-passos-em-javascript-130g)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Dev.to/JS] [Top 5 JavaScript Courses!](https://dev.to/itsmeadarsh/top-5-javascript-courses-22bp)
 - [Dev.to/JS] [Set a div or block to its content&#39;s width in CSS](https://dev.to/smpnjn/set-a-div-or-block-to-its-contents-width-in-css-29fl)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [a11y-twitter: a browser extension for making Twitter more accessible](https://dev.to/nickytonline/a11y-twitter-a-browser-extension-for-making-twitter-more-accessible-17kg)
 - [Dev.to/JS] [How to Make a Gaming Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-gaming-website-using-html-css-javascript-2m05)
 - [Dev.to/JS] [JavaScript shorthand tips and tricks](https://dev.to/amitavmishra99/javascript-shorthand-tips-and-tricks-4i7h)
-- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 3 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-3-report-4af1)
-- [Dev.to/JS] [Function](https://dev.to/gohomewho/function-5fgn)
-- [Dev.to/JS] [Rough notes about Google reCAPTCHA &lpar;v2 checkbox type&rpar;](https://dev.to/moogoo78/rough-notes-about-google-recaptcha-v2-checkbox-type-4e0i)
-- [Dev.to/JS] [WHY THE DEMAND FOR FRONT-END DEVELOPERS WILL KEEP INCREASING](https://dev.to/fliptotech/why-the-demand-for-front-end-developers-will-keep-increasing-404k)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
