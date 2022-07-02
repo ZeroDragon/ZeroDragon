@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;02-07-2022&rpar; - Bad help](https://dev.to/mjgs/this-weeks-newsletter-is-out-02-07-2022-bad-help-5cf9)
+- [Dev.to/JS] [a classic watch , width HTML CSS JS](https://dev.to/kiumad/a-classic-watch-width-html-css-js-36p)
+- [Dev.to/JS] [Deno](https://dev.to/lakharashubham007/deno-4hml)
 - [Dev.to/JS] [Improving LCP in webpage with this extension](https://dev.to/poudyal_rabin/improving-lcp-in-webpage-with-this-extension-57eg)
 - [Dev.to/JS] [Push.js&#39;s Help](https://dev.to/tsumuri1017/pushjss-help-3a2c)
 - [Dev.to/JS] [Meet Software Developers](https://dev.to/kukovisuals/meets-software-developers-lge)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using GraphQL for Your APIs](https://dev.to/icchatechnologies/using-graphql-api-for-your-apis-212k)
 - [Dev.to/JS] [Internationalization with ReactJS and i18n](https://dev.to/icchatechnologies/internationalization-with-reactjs-and-i18n-4ko3)
 - [Dev.to/JS] [Building a Simple HTML Highlighter with JavaScript](https://dev.to/ugorji_simon/building-a-simple-html-highlighter-with-javascript-5919)
-- [Dev.to/JS] [Getting Started with React](https://dev.to/sdwn/getting-started-with-react-8ph)
-- [Dev.to/JS] [Graphql test](https://dev.to/dersibcha/graphql-test-282f)
-- [Dev.to/JS] [Introduction to Web Development: HTML + CSS + Javascript](https://dev.to/michelledeveloper/introduction-to-web-development-html-css-javascript-a84)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
