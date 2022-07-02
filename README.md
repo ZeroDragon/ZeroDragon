@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improving LCP in webpage with this extension](https://dev.to/poudyal_rabin/improving-lcp-in-webpage-with-this-extension-57eg)
+- [Dev.to/JS] [Push.js&#39;s Help](https://dev.to/tsumuri1017/pushjss-help-3a2c)
 - [Dev.to/JS] [Meet Software Developers](https://dev.to/kukovisuals/meets-software-developers-lge)
 - [Dev.to/JS] [Telegram Web Apps &lpar;Reopening last page&rpar;](https://dev.to/bogdanaks/telegram-web-apps-reopening-last-page-5b04)
 - [Dev.to/JS] [#100Devs Software Engineering Bootcamp](https://dev.to/juliafmorgado/100devs-software-engineering-bootcamp-545)
@@ -34,9 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Graphql test](https://dev.to/dersibcha/graphql-test-282f)
 - [Dev.to/JS] [Introduction to Web Development: HTML + CSS + Javascript](https://dev.to/michelledeveloper/introduction-to-web-development-html-css-javascript-a84)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
-- [Dev.to/JS] [How to get a High paying MERN Job](https://dev.to/shoyeb001/how-to-get-a-high-paying-mern-job-36g1)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
-- [Dev.to/JS] [Yes! There is no integer data type in JavaScript.](https://dev.to/saiarlen/yes-there-is-no-integer-data-type-in-javascript-5acf)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
 - [Lifehacker] [Your Rash Might Be a Sun Allergy](https://lifehacker.com/your-rash-might-be-a-sun-allergy-1849134956)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/the-best-sites-and-apps-to-track-your-books-movies-mu-1849131164)
