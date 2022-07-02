@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
+- [Dev.to/JS] [a11y-twitter: a browser extension for making Twitter more accessible](https://dev.to/nickytonline/a11y-twitter-a-browser-extension-for-making-twitter-more-accessible-17kg)
+- [Dev.to/JS] [How to Make a Gaming Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-gaming-website-using-html-css-javascript-2m05)
+- [Dev.to/JS] [JavaScript shorthand tips and tricks](https://dev.to/amitavmishra99/javascript-shorthand-tips-and-tricks-4i7h)
+- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 3 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-3-report-4af1)
 - [Dev.to/JS] [Function](https://dev.to/gohomewho/function-5fgn)
 - [Dev.to/JS] [Rough notes about Google reCAPTCHA &lpar;v2 checkbox type&rpar;](https://dev.to/moogoo78/rough-notes-about-google-recaptcha-v2-checkbox-type-4e0i)
 - [Dev.to/JS] [WHY THE DEMAND FOR FRONT-END DEVELOPERS WILL KEEP INCREASING](https://dev.to/fliptotech/why-the-demand-for-front-end-developers-will-keep-increasing-404k)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a url shortener in nodejs](https://dev.to/mehanalavimajd/creating-a-url-shortener-in-nodejs-1o55)
 - [Dev.to/JS] [Create ToDo App With Nuxt 3 Composition API](https://dev.to/burakgur/create-todo-app-with-nuxt-3-composition-api-2mfc)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;02-07-2022&rpar; - Bad help](https://dev.to/mjgs/this-weeks-newsletter-is-out-02-07-2022-bad-help-5cf9)
-- [Dev.to/JS] [a classic watch , width HTML CSS JS](https://dev.to/kiumad/a-classic-watch-width-html-css-js-36p)
-- [Dev.to/JS] [Deno](https://dev.to/lakharashubham007/deno-4hml)
-- [Dev.to/JS] [Improving LCP in webpage with this extension](https://dev.to/poudyal_rabin/improving-lcp-in-webpage-with-this-extension-57eg)
-- [Dev.to/JS] [Push.js&#39;s Help](https://dev.to/tsumuri1017/pushjss-help-3a2c)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t React to a Bison the Way You Would a Bear](https://lifehacker.com/don-t-react-to-a-bison-the-way-you-would-a-bear-1849129502)
 - [Lifehacker] [Is Owner Financing Ever a Good Idea?](https://lifehacker.com/is-owner-financing-ever-a-good-idea-1849129075)
 - [Lifehacker] [How to Stop Forgetting to Take Your Medication, Once and for All](https://lifehacker.com/how-to-stop-forgetting-to-take-your-medication-once-an-1849128110)
-- [Lifehacker] [Fuel Your Anger With a Free Popeyes Chicken Sandwich Every Friday This Summer](https://lifehacker.com/fuel-your-anger-with-a-free-popeyes-chicken-sandwich-ev-1849125358)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
