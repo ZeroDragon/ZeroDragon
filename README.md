@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [#100Devs Software Engineering Bootcamp](https://dev.to/juliafmorgado/100devs-software-engineering-bootcamp-545)
+- [Dev.to/JS] [How to Build a Verification Code Based Sign Up](https://dev.to/icchatechnologies/how-to-build-a-verification-code-based-sign-up-3fka)
+- [Dev.to/JS] [Using GraphQL for Your APIs](https://dev.to/icchatechnologies/using-graphql-api-for-your-apis-212k)
+- [Dev.to/JS] [Internationalization with ReactJS and i18n](https://dev.to/icchatechnologies/internationalization-with-reactjs-and-i18n-4ko3)
 - [Dev.to/JS] [Building a Simple HTML Highlighter with JavaScript](https://dev.to/ugorji_simon/building-a-simple-html-highlighter-with-javascript-5919)
 - [Dev.to/JS] [Getting Started with React](https://dev.to/sdwn/getting-started-with-react-8ph)
 - [Dev.to/JS] [Graphql test](https://dev.to/dersibcha/graphql-test-282f)
@@ -35,13 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
 - [Lifehacker] [Your Rash Might Be a Sun Allergy](https://lifehacker.com/your-rash-might-be-a-sun-allergy-1849134956)
 - [Dev.to/JS] [first node app.](https://dev.to/itskunal/first-node-app-52cg)
-- [Dev.to/JS] [WEEK 1 : The Beginning](https://dev.to/heydrdev/what-i-did-this-week--2ehm)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/the-best-sites-and-apps-to-track-your-books-movies-mu-1849131164)
-- [Dev.to/JS] [13 Javascript one-liner tricks with Arrays.](https://dev.to/bimbowande/13-javascript-one-liner-tricks-with-arrays-5a38)
-- [Dev.to/JS] [TypeScript Generics 101](https://dev.to/romeopeter/typescript-generics-101-3ngp)
 - [Lifehacker] [Improve Your Heart Health With This Checklist](https://lifehacker.com/improve-your-heart-health-with-this-checklist-1849134479)
 - [Lifehacker] [How to Rent an RV for $1 a Day](https://lifehacker.com/how-to-rent-an-rv-for-1-a-day-1849134033)
-- [Dev.to/JS] [FloodlightJS](https://dev.to/rajnandan1/floodlightjs-1gn7)
 - [Lifehacker] [20 Movies That&#39;ll Remind You the Government Can’t Be Trusted](https://lifehacker.com/20-movies-thatll-remind-you-the-government-can-t-be-tru-1849125096)
 - [Lifehacker] [10 of the Hardest Video Games Ever](https://lifehacker.com/10-of-the-hardest-video-games-ever-1849044055)
 - [Lifehacker] [Why You Might Want to Shower Before Your Run](https://lifehacker.com/why-you-might-want-to-shower-before-your-run-1849131818)
