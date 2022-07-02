@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #160: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-160-explica-este-codigo-javascript-59m2)
+- [Dev.to/JS] [Telegram Bot - Parte 3: Deploy a Heroku](https://dev.to/enzotrucchi/telegram-bot-parte-3-deploy-a-heroku-1d47)
 - [Dev.to/JS] [How to iterate over an object in Javascript?](https://dev.to/rakshit/how-to-iterate-over-an-object-in-javascript-2apj)
 - [Dev.to/JS] [Testing a project contained in a monorepo](https://dev.to/ericapisani/testing-a-project-contained-in-a-monorepo-594i)
 - [Dev.to/JS] [Cloud Resume Challenge - AWS](https://dev.to/mbennettlowe/cloud-resume-challenge-aws-52b9)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create a React 18 / TypeScript bundle using esbuild](https://dev.to/fabiobiondi/create-a-react-18-typescript-bundle-using-esbuild-4n6o)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.3.2 &lpar; Authentication { Login } &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-632-authentication-login--543c)
 - [Dev.to/JS] [Food is life](https://dev.to/kalashikari/food-is-life-4ief)
-- [Dev.to/JS] [How to Detect Duplicate Code in a Project!](https://dev.to/kai_wenzel/how-to-detect-duplicate-code-in-a-project-3ln3)
-- [Dev.to/JS] [Os primeiros passos em javascript](https://dev.to/oscarjeremiasdev/os-primeiros-passos-em-javascript-130g)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
