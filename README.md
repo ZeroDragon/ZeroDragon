@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
+- [Dev.to/JS] [Create a React 18 / TypeScript bundle using esbuild](https://dev.to/fabiobiondi/create-a-react-18-typescript-bundle-using-esbuild-4n6o)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.3.2 &lpar; Authentication { Login } &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-632-authentication-login--543c)
 - [Dev.to/JS] [Food is life](https://dev.to/kalashikari/food-is-life-4ief)
 - [Dev.to/JS] [How to Detect Duplicate Code in a Project!](https://dev.to/kai_wenzel/how-to-detect-duplicate-code-in-a-project-3ln3)
@@ -36,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
 - [Dev.to/JS] [a11y-twitter: a browser extension for making Twitter more accessible](https://dev.to/nickytonline/a11y-twitter-a-browser-extension-for-making-twitter-more-accessible-17kg)
 - [Dev.to/JS] [How to Make a Gaming Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-gaming-website-using-html-css-javascript-2m05)
-- [Dev.to/JS] [JavaScript shorthand tips and tricks](https://dev.to/amitavmishra99/javascript-shorthand-tips-and-tricks-4i7h)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Who Can Get a Monkeypox Vaccine?](https://lifehacker.com/who-can-get-a-monkeypox-vaccine-1849129874)
 - [Lifehacker] [What You Should Do Now to Prepare for a Recession](https://lifehacker.com/what-you-should-do-now-to-prepare-for-a-recession-1849129353)
 - [Lifehacker] [Don’t React to a Bison the Way You Would a Bear](https://lifehacker.com/don-t-react-to-a-bison-the-way-you-would-a-bear-1849129502)
-- [Lifehacker] [Is Owner Financing Ever a Good Idea?](https://lifehacker.com/is-owner-financing-ever-a-good-idea-1849129075)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
