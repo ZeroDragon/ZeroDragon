@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [localhost not point to correct ip address in node 18](https://dev.to/amitiwary999/localhost-not-point-to-correct-ip-address-in-node-18-4onl)
+- [Dev.to/JS] [Have you heard of function decorators](https://dev.to/6lackbjorn/have-you-heard-of-function-decorators-36ee)
+- [Dev.to/JS] [React JS Gif : Starter Kit](https://dev.to/egfx/react-js-gif-starter-kit-306c)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Dev.to/JS] [Create a React 18 / TypeScript bundle using esbuild](https://dev.to/fabiobiondi/create-a-react-18-typescript-bundle-using-esbuild-4n6o)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-6.3.2 &lpar; Authentication { Login } &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-632-authentication-login--543c)
@@ -34,10 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Set a div or block to its content&#39;s width in CSS](https://dev.to/smpnjn/set-a-div-or-block-to-its-contents-width-in-css-29fl)
 - [Dev.to/JS] [How the typeof Operator works in TypeScript](https://dev.to/smpnjn/how-the-typeof-operator-works-in-typescript-4gld)
 - [Dev.to/JS] [Code Smell 146 - Getter Comments](https://dev.to/mcsee/code-smell-146-getter-comments-3pjn)
-- [Dev.to/JS] [How Typescript Enums Work](https://dev.to/smpnjn/how-typescript-enums-work-31jl)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
-- [Dev.to/JS] [a11y-twitter: a browser extension for making Twitter more accessible](https://dev.to/nickytonline/a11y-twitter-a-browser-extension-for-making-twitter-more-accessible-17kg)
-- [Dev.to/JS] [How to Make a Gaming Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-gaming-website-using-html-css-javascript-2m05)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
