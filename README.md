@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create ToDo App With Nuxt 3 Composition API](https://dev.to/burakgur/create-todo-app-with-nuxt-3-composition-api-2mfc)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;02-07-2022&rpar; - Bad help](https://dev.to/mjgs/this-weeks-newsletter-is-out-02-07-2022-bad-help-5cf9)
 - [Dev.to/JS] [a classic watch , width HTML CSS JS](https://dev.to/kiumad/a-classic-watch-width-html-css-js-36p)
 - [Dev.to/JS] [Deno](https://dev.to/lakharashubham007/deno-4hml)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Verification Code Based Sign Up](https://dev.to/icchatechnologies/how-to-build-a-verification-code-based-sign-up-3fka)
 - [Dev.to/JS] [Using GraphQL for Your APIs](https://dev.to/icchatechnologies/using-graphql-api-for-your-apis-212k)
 - [Dev.to/JS] [Internationalization with ReactJS and i18n](https://dev.to/icchatechnologies/internationalization-with-reactjs-and-i18n-4ko3)
-- [Dev.to/JS] [Building a Simple HTML Highlighter with JavaScript](https://dev.to/ugorji_simon/building-a-simple-html-highlighter-with-javascript-5919)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
