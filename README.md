@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
+- [Dev.to/JS] [Top 5 JavaScript Courses!](https://dev.to/itsmeadarsh/top-5-javascript-courses-22bp)
+- [Dev.to/JS] [Set a div or block to its content&#39;s width in CSS](https://dev.to/smpnjn/set-a-div-or-block-to-its-contents-width-in-css-29fl)
 - [Dev.to/JS] [How the typeof Operator works in TypeScript](https://dev.to/smpnjn/how-the-typeof-operator-works-in-typescript-4gld)
 - [Dev.to/JS] [Code Smell 146 - Getter Comments](https://dev.to/mcsee/code-smell-146-getter-comments-3pjn)
 - [Dev.to/JS] [How Typescript Enums Work](https://dev.to/smpnjn/how-typescript-enums-work-31jl)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Function](https://dev.to/gohomewho/function-5fgn)
 - [Dev.to/JS] [Rough notes about Google reCAPTCHA &lpar;v2 checkbox type&rpar;](https://dev.to/moogoo78/rough-notes-about-google-recaptcha-v2-checkbox-type-4e0i)
 - [Dev.to/JS] [WHY THE DEMAND FOR FRONT-END DEVELOPERS WILL KEEP INCREASING](https://dev.to/fliptotech/why-the-demand-for-front-end-developers-will-keep-increasing-404k)
-- [Dev.to/JS] [What the heck is Prototypal Inheritance? Part 1: Object Prototypes](https://dev.to/saunved/what-the-heck-is-prototypal-inheritance-part-1-object-prototypes-53j1)
-- [Dev.to/JS] [#2. Setting up server , Db connectivity and custom script☀](https://dev.to/himanshupal0001/2-setting-up-server-db-connectivity-and-custom-script-1hif)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What You Should Do Now to Prepare for a Recession](https://lifehacker.com/what-you-should-do-now-to-prepare-for-a-recession-1849129353)
 - [Lifehacker] [Don’t React to a Bison the Way You Would a Bear](https://lifehacker.com/don-t-react-to-a-bison-the-way-you-would-a-bear-1849129502)
 - [Lifehacker] [Is Owner Financing Ever a Good Idea?](https://lifehacker.com/is-owner-financing-ever-a-good-idea-1849129075)
-- [Lifehacker] [How to Stop Forgetting to Take Your Medication, Once and for All](https://lifehacker.com/how-to-stop-forgetting-to-take-your-medication-once-an-1849128110)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
