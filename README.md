@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Rough notes about Google reCAPTCHA &lpar;v2 checkbox type&rpar;](https://dev.to/moogoo78/rough-notes-about-google-recaptcha-v2-checkbox-type-4e0i)
+- [Dev.to/JS] [WHY THE DEMAND FOR FRONT-END DEVELOPERS WILL KEEP INCREASING](https://dev.to/fliptotech/why-the-demand-for-front-end-developers-will-keep-increasing-404k)
+- [Dev.to/JS] [What the heck is Prototypal Inheritance? Part 1: Object Prototypes](https://dev.to/saunved/what-the-heck-is-prototypal-inheritance-part-1-object-prototypes-53j1)
 - [Dev.to/JS] [#2. Setting up server , Db connectivity and custom script☀](https://dev.to/himanshupal0001/2-setting-up-server-db-connectivity-and-custom-script-1hif)
 - [Dev.to/JS] [Creating a url shortener in nodejs](https://dev.to/mehanalavimajd/creating-a-url-shortener-in-nodejs-1o55)
 - [Dev.to/JS] [Create ToDo App With Nuxt 3 Composition API](https://dev.to/burakgur/create-todo-app-with-nuxt-3-composition-api-2mfc)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Improving LCP in webpage with this extension](https://dev.to/poudyal_rabin/improving-lcp-in-webpage-with-this-extension-57eg)
 - [Dev.to/JS] [Push.js&#39;s Help](https://dev.to/tsumuri1017/pushjss-help-3a2c)
 - [Dev.to/JS] [Meet Software Developers](https://dev.to/kukovisuals/meets-software-developers-lge)
-- [Dev.to/JS] [Telegram Web Apps &lpar;Reopening last page&rpar;](https://dev.to/bogdanaks/telegram-web-apps-reopening-last-page-5b04)
-- [Dev.to/JS] [#100Devs Software Engineering Bootcamp](https://dev.to/juliafmorgado/100devs-software-engineering-bootcamp-545)
-- [Dev.to/JS] [How to Build a Verification Code Based Sign Up](https://dev.to/icchatechnologies/how-to-build-a-verification-code-based-sign-up-3fka)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
