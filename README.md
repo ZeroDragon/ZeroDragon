@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How the typeof Operator works in TypeScript](https://dev.to/smpnjn/how-the-typeof-operator-works-in-typescript-4gld)
+- [Dev.to/JS] [Code Smell 146 - Getter Comments](https://dev.to/mcsee/code-smell-146-getter-comments-3pjn)
+- [Dev.to/JS] [How Typescript Enums Work](https://dev.to/smpnjn/how-typescript-enums-work-31jl)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
 - [Dev.to/JS] [a11y-twitter: a browser extension for making Twitter more accessible](https://dev.to/nickytonline/a11y-twitter-a-browser-extension-for-making-twitter-more-accessible-17kg)
 - [Dev.to/JS] [How to Make a Gaming Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-gaming-website-using-html-css-javascript-2m05)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [WHY THE DEMAND FOR FRONT-END DEVELOPERS WILL KEEP INCREASING](https://dev.to/fliptotech/why-the-demand-for-front-end-developers-will-keep-increasing-404k)
 - [Dev.to/JS] [What the heck is Prototypal Inheritance? Part 1: Object Prototypes](https://dev.to/saunved/what-the-heck-is-prototypal-inheritance-part-1-object-prototypes-53j1)
 - [Dev.to/JS] [#2. Setting up server , Db connectivity and custom script☀](https://dev.to/himanshupal0001/2-setting-up-server-db-connectivity-and-custom-script-1hif)
-- [Dev.to/JS] [Creating a url shortener in nodejs](https://dev.to/mehanalavimajd/creating-a-url-shortener-in-nodejs-1o55)
-- [Dev.to/JS] [Create ToDo App With Nuxt 3 Composition API](https://dev.to/burakgur/create-todo-app-with-nuxt-3-composition-api-2mfc)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;02-07-2022&rpar; - Bad help](https://dev.to/mjgs/this-weeks-newsletter-is-out-02-07-2022-bad-help-5cf9)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
