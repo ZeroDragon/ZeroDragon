@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To use ES6 import &amp; export in your project](https://dev.to/medaminefh/how-to-use-es6-import-export-in-your-project-3i4b)
 - [Dev.to/JS] [localhost not point to correct ip address in node 18](https://dev.to/amitiwary999/localhost-not-point-to-correct-ip-address-in-node-18-4onl)
 - [Dev.to/JS] [Have you heard of function decorators](https://dev.to/6lackbjorn/have-you-heard-of-function-decorators-36ee)
 - [Dev.to/JS] [React JS Gif : Starter Kit](https://dev.to/egfx/react-js-gif-starter-kit-306c)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 JavaScript Courses!](https://dev.to/itsmeadarsh/top-5-javascript-courses-22bp)
 - [Dev.to/JS] [Set a div or block to its content&#39;s width in CSS](https://dev.to/smpnjn/set-a-div-or-block-to-its-contents-width-in-css-29fl)
 - [Dev.to/JS] [How the typeof Operator works in TypeScript](https://dev.to/smpnjn/how-the-typeof-operator-works-in-typescript-4gld)
-- [Dev.to/JS] [Code Smell 146 - Getter Comments](https://dev.to/mcsee/code-smell-146-getter-comments-3pjn)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
