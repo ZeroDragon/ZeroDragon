@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to iterate over an object in Javascript?](https://dev.to/rakshit/how-to-iterate-over-an-object-in-javascript-2apj)
+- [Dev.to/JS] [Testing a project contained in a monorepo](https://dev.to/ericapisani/testing-a-project-contained-in-a-monorepo-594i)
+- [Dev.to/JS] [Cloud Resume Challenge - AWS](https://dev.to/mbennettlowe/cloud-resume-challenge-aws-52b9)
 - [Dev.to/JS] [How To use ES6 import &amp; export in your project](https://dev.to/medaminefh/how-to-use-es6-import-export-in-your-project-3i4b)
 - [Dev.to/JS] [localhost not point to correct ip address in node 18](https://dev.to/amitiwary999/localhost-not-point-to-correct-ip-address-in-node-18-4onl)
 - [Dev.to/JS] [Have you heard of function decorators](https://dev.to/6lackbjorn/have-you-heard-of-function-decorators-36ee)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Detect Duplicate Code in a Project!](https://dev.to/kai_wenzel/how-to-detect-duplicate-code-in-a-project-3ln3)
 - [Dev.to/JS] [Os primeiros passos em javascript](https://dev.to/oscarjeremiasdev/os-primeiros-passos-em-javascript-130g)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
-- [Dev.to/JS] [Top 5 JavaScript Courses!](https://dev.to/itsmeadarsh/top-5-javascript-courses-22bp)
-- [Dev.to/JS] [Set a div or block to its content&#39;s width in CSS](https://dev.to/smpnjn/set-a-div-or-block-to-its-contents-width-in-css-29fl)
-- [Dev.to/JS] [How the typeof Operator works in TypeScript](https://dev.to/smpnjn/how-the-typeof-operator-works-in-typescript-4gld)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
