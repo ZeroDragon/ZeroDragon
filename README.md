@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Titanium News #9](https://dev.to/miga/titanium-news-9-3091)
+- [Dev.to/JS] [MakeMyTrip Frontend Machine Coding Interview](https://dev.to/shiv1998/makemytrip-frontend-machine-coding-interview-c7b)
 - [Dev.to/JS] [Create quick keyboard shortcuts for your JS functions](https://dev.to/rajnandan1/create-quick-keyboard-shortcuts-for-your-js-functions-142n)
 - [Dev.to/JS] [LeetCode - Rotate Array](https://dev.to/_alkesh26/leetcode-rotate-array-4ac7)
 - [Dev.to/JS] [Objectifs et plan d&#39;action - Real World To-Do App - AdonisJS](https://dev.to/barbapapazes/objectifs-et-plan-dactions-real-world-to-do-app-adonisjs-bjc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [10 Websites To Practice Your Frontend Development Skills 😲](https://dev.to/souptikdn/10-websites-to-practice-your-frontend-development-skills-3noi)
 - [Dev.to/JS] [Conditional Routing with React Router V6](https://dev.to/salehmubashar/conditional-routing-with-react-router-v6-229g)
 - [Dev.to/JS] [THE LIVING EMOJI](https://dev.to/heydrdev/the-living-emoji-42d3)
-- [Dev.to/JS] [How I make my GitHub Profile Interactive](https://dev.to/heydrdev/how-i-make-my-github-profile-interactive-1bje)
-- [Dev.to/JS] [Day 1: A beginners take on JS scope. Var vs Let vs Const.](https://dev.to/nicklane/day-1-a-beginners-take-on-js-scope-var-vs-let-vs-const-511o)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
