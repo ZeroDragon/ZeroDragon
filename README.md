@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SolidJS Intro in 5 minutes &lpar;for React Developers&rpar;](https://dev.to/fabiobiondi/solidjs-intro-in-5-minutes-for-react-developers-3dh1)
+- [Dev.to/JS] [SolidJS #2: state management and custom components](https://dev.to/fabiobiondi/solidjs-2-state-management-and-custom-components-1k0e)
+- [Dev.to/JS] [TinyStacks | Made with Next JS](https://dev.to/madewithjavascript/tinystacks-made-with-next-js-1oe)
 - [Dev.to/JS] [Utilizing a Nested GET Request](https://dev.to/laurentyson85/utilizing-a-nested-get-request-3dj9)
 - [Dev.to/JS] [Get Lookover](https://dev.to/getlookover/get-lookover-2lgp)
 - [Dev.to/JS] [Simple Bootstrap Lightbox](https://dev.to/typo3freelancer/simple-bootstrap-lightbox-3kcd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Angular 14 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-14-eslint-material-transloco-jest-testcafe-docker-prettier-1pn1)
 - [Dev.to/JS] [How to setup Infinite Scroll in your react component?](https://dev.to/ritikbanger/how-to-setup-infinite-scroll-in-your-react-component-3mop)
 - [Dev.to/JS] [Go 5 Interesting Concepts as a js developer](https://dev.to/lico/go-5-interesting-concepts-as-a-js-developer-485d)
-- [Dev.to/JS] [How to remove a specific item from an array](https://dev.to/smpnjn/how-to-remove-a-specific-item-from-an-array-1dhm)
-- [Dev.to/JS] [How to Write Better Performing React Function Components!](https://dev.to/kai_wenzel/how-to-write-better-performing-react-function-components-5ac9)
-- [Dev.to/JS] [Weekly Digest 26/2022](https://dev.to/marcobiedermann/weekly-digest-262022-1b3b)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
