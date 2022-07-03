@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
+- [Dev.to/JS] [Create a React / TypeScript Generic Component](https://dev.to/fabiobiondi/create-a-react-typescript-generic-component-2dal)
+- [Dev.to/JS] [Ultimate Guide To Write Reusable Components In React](https://dev.to/danishkhanzaada/ultimate-guide-to-write-reusable-components-in-react-1l26)
 - [Dev.to/JS] [How to use Memoization in JavaScript](https://dev.to/nazifbara/how-to-use-memoization-in-javascript-5fjl)
 - [Dev.to/JS] [Trust Issues with setTimeout&lpar;&rpar;](https://dev.to/ahana001/trust-issues-with-settimeout-43pb)
 - [Dev.to/JS] [Struggling with Promises? You Are Not Alone!](https://dev.to/polymathsomnath/struggling-with-promises-you-are-not-alone-530g)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MakeMyTrip Frontend Machine Coding Interview](https://dev.to/shiv1998/makemytrip-frontend-machine-coding-interview-c7b)
 - [Dev.to/JS] [Create quick keyboard shortcuts for your JS functions](https://dev.to/rajnandan1/create-quick-keyboard-shortcuts-for-your-js-functions-142n)
 - [Dev.to/JS] [LeetCode - Rotate Array](https://dev.to/_alkesh26/leetcode-rotate-array-4ac7)
-- [Dev.to/JS] [Objectifs et plan d&#39;action - Real World To-Do App - AdonisJS](https://dev.to/barbapapazes/objectifs-et-plan-dactions-real-world-to-do-app-adonisjs-bjc)
-- [Dev.to/JS] [can you &quot;AppendChild&quot; same element multiple times in js ? Probably not](https://dev.to/kiumad/can-you-appendchild-same-element-multiple-times-in-js-probably-not-4j)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
 - [Lifehacker] [Who Can Get a Monkeypox Vaccine?](https://lifehacker.com/who-can-get-a-monkeypox-vaccine-1849129874)
-- [Lifehacker] [What You Should Do Now to Prepare for a Recession](https://lifehacker.com/what-you-should-do-now-to-prepare-for-a-recession-1849129353)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
