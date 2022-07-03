@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Bootstrap Lightbox](https://dev.to/typo3freelancer/simple-bootstrap-lightbox-3kcd)
 - [Dev.to/JS] [Software Engineering Journey Update &lpar;6/26/22 - 7/2/22&rpar;](https://dev.to/nycdevethan/software-engineering-journey-update-62622-7222-2gf)
 - [Dev.to/JS] [Learning and finding solution](https://dev.to/grisha/learning-and-finding-solution-1g37)
 - [Dev.to/JS] [Prevent onClick event on clicking child component](https://dev.to/notetomyself/prevent-onclick-event-on-clicking-child-component-4o3j)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Dev.to/JS] [Remember to whitelist your IP when you can&#39;t connect to Mongo DB 📡💡](https://dev.to/arikaturika/remember-to-whitelist-your-ip-when-you-cant-connect-to-mongo-db-1pgn)
 - [Dev.to/JS] [Aprendendo JavaScript: Objetos parte 2](https://dev.to/h4ck3rtr4d3r/aprendendo-javascript-objetos-parte-2-4ln1)
-- [Dev.to/JS] [Pepper Valley: A Game Made for Kajam! 2022](https://dev.to/stcollier/pepper-valley-a-game-made-for-kajam-2022-47mg)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
