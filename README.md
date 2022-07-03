@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [10 Websites To Practice Your Frontend Development Skills 😲](https://dev.to/souptikdn/10-websites-to-practice-your-frontend-development-skills-3noi)
+- [Dev.to/JS] [Conditional Routing with React Router V6](https://dev.to/salehmubashar/conditional-routing-with-react-router-v6-229g)
 - [Dev.to/JS] [THE LIVING EMOJI](https://dev.to/heydrdev/the-living-emoji-42d3)
 - [Dev.to/JS] [How I make my GitHub Profile Interactive](https://dev.to/heydrdev/how-i-make-my-github-profile-interactive-1bje)
 - [Dev.to/JS] [Day 1: A beginners take on JS scope. Var vs Let vs Const.](https://dev.to/nicklane/day-1-a-beginners-take-on-js-scope-var-vs-let-vs-const-511o)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cloud Resume Challenge - AWS](https://dev.to/mbennettlowe/cloud-resume-challenge-aws-52b9)
 - [Dev.to/JS] [How To use ES6 import &amp; export in your project](https://dev.to/medaminefh/how-to-use-es6-import-export-in-your-project-3i4b)
 - [Dev.to/JS] [localhost not point to correct ip address in node 18](https://dev.to/amitiwary999/localhost-not-point-to-correct-ip-address-in-node-18-4onl)
-- [Dev.to/JS] [Have you heard of function decorators](https://dev.to/6lackbjorn/have-you-heard-of-function-decorators-36ee)
-- [Dev.to/JS] [React JS Gif : Starter Kit](https://dev.to/egfx/react-js-gif-starter-kit-306c)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
