@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What are Promises in Javascript ? &lpar;Help&rpar;](https://dev.to/sojinsamuel/what-are-promises-in-javascript-help-47gi)
+- [Dev.to/JS] [Most Useful JavaScript functions for Web Developers](https://dev.to/suchintan/most-useful-javascript-functions-for-web-developers-2d3g)
+- [Dev.to/JS] [Medium To Markdown Converter](https://dev.to/atakde/medium-to-markdown-converter-2jdn)
+- [Dev.to/JS] [Getting started with micro frontends](https://dev.to/ibtisamarif831/getting-started-with-micro-frontends-c4)
+- [Dev.to/JS] [Simple yet Fast QRCode Generator](https://dev.to/mrepol742/simple-yet-fast-qrcode-generator-3df2)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Dev.to/JS] [Create a React / TypeScript Generic Component](https://dev.to/fabiobiondi/create-a-react-typescript-generic-component-2dal)
 - [Dev.to/JS] [Ultimate Guide To Write Reusable Components In React](https://dev.to/danishkhanzaada/ultimate-guide-to-write-reusable-components-in-react-1l26)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Coding a Toggle switch with React.js and Material UI](https://dev.to/bekbrace/coding-a-toggle-switch-with-reactjs-and-material-ui-578d)
 - [Dev.to/JS] [Cleaner imports with aliases in react and typescript ✨✨](https://dev.to/mliakos/cleaner-imports-with-aliases-in-react-and-typescript-1bcl)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
-- [Dev.to/JS] [Using Chart.js plugins with webpack](https://dev.to/fdocr/using-chartjs-plugins-with-webpack-3774)
-- [Dev.to/JS] [Titanium News #9](https://dev.to/miga/titanium-news-9-3091)
-- [Dev.to/JS] [MakeMyTrip Frontend Machine Coding Interview](https://dev.to/shiv1998/makemytrip-frontend-machine-coding-interview-c7b)
-- [Dev.to/JS] [Create quick keyboard shortcuts for your JS functions](https://dev.to/rajnandan1/create-quick-keyboard-shortcuts-for-your-js-functions-142n)
-- [Dev.to/JS] [LeetCode - Rotate Array](https://dev.to/_alkesh26/leetcode-rotate-array-4ac7)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
