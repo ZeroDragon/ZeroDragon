@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSON server getting started](https://dev.to/avinashvagh/json-server-getting-started-4475)
 - [Dev.to/JS] [Titanium News #9](https://dev.to/miga/titanium-news-9-3091)
 - [Dev.to/JS] [MakeMyTrip Frontend Machine Coding Interview](https://dev.to/shiv1998/makemytrip-frontend-machine-coding-interview-c7b)
 - [Dev.to/JS] [Create quick keyboard shortcuts for your JS functions](https://dev.to/rajnandan1/create-quick-keyboard-shortcuts-for-your-js-functions-142n)
@@ -30,7 +31,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Objectifs et plan d&#39;action - Real World To-Do App - AdonisJS](https://dev.to/barbapapazes/objectifs-et-plan-dactions-real-world-to-do-app-adonisjs-bjc)
 - [Dev.to/JS] [can you &quot;AppendChild&quot; same element multiple times in js ? Probably not](https://dev.to/kiumad/can-you-appendchild-same-element-multiple-times-in-js-probably-not-4j)
 - [Dev.to/JS] [Court Marriage Fees In India Or Delhi](https://dev.to/vinayprat123/court-marriage-fees-in-india-or-delhi-21ni)
-- [Dev.to/JS] [ExpressJs Authentication Starter Project](https://dev.to/shahriar_programmer/express-authentication-starter-project-1b4k)
 - [Dev.to/JS] [How to use API with Fetch API and Promises.](https://dev.to/ahana001/how-to-use-api-with-fetch-api-and-promises-5hh3)
 - [Dev.to/JS] [10 Websites To Practice Your Frontend Development Skills 😲](https://dev.to/souptikdn/10-websites-to-practice-your-frontend-development-skills-3noi)
 - [Dev.to/JS] [Conditional Routing with React Router V6](https://dev.to/salehmubashar/conditional-routing-with-react-router-v6-229g)
