@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Go 5 Interesting Concepts as a js developer](https://dev.to/lico/go-5-interesting-concepts-as-a-js-developer-485d)
+- [Dev.to/JS] [How to remove a specific item from an array](https://dev.to/smpnjn/how-to-remove-a-specific-item-from-an-array-1dhm)
+- [Dev.to/JS] [How to Write Better Performing React Function Components!](https://dev.to/kai_wenzel/how-to-write-better-performing-react-function-components-5ac9)
+- [Dev.to/JS] [Weekly Digest 26/2022](https://dev.to/marcobiedermann/weekly-digest-262022-1b3b)
+- [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Dev.to/JS] [Remember to whitelist your IP when you can&#39;t connect to Mongo DB 📡💡](https://dev.to/arikaturika/remember-to-whitelist-your-ip-when-you-cant-connect-to-mongo-db-1pgn)
 - [Dev.to/JS] [Aprendendo JavaScript: Objetos parte 2](https://dev.to/h4ck3rtr4d3r/aprendendo-javascript-objetos-parte-2-4ln1)
 - [Dev.to/JS] [Pepper Valley: A Game Made for Kajam! 2022](https://dev.to/stcollier/pepper-valley-a-game-made-for-kajam-2022-47mg)
@@ -32,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started with micro frontends](https://dev.to/ibtisamarif831/getting-started-with-micro-frontends-c4)
 - [Dev.to/JS] [Simple yet Fast QRCode Generator](https://dev.to/mrepol742/simple-yet-fast-qrcode-generator-3df2)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
-- [Dev.to/JS] [Create a React / TypeScript Generic Component](https://dev.to/fabiobiondi/create-a-react-typescript-generic-component-2dal)
-- [Dev.to/JS] [Ultimate Guide To Write Reusable Components In React](https://dev.to/danishkhanzaada/ultimate-guide-to-write-reusable-components-in-react-1l26)
-- [Dev.to/JS] [How to use Memoization in JavaScript](https://dev.to/nazifbara/how-to-use-memoization-in-javascript-5fjl)
-- [Dev.to/JS] [Trust Issues with setTimeout&lpar;&rpar;](https://dev.to/ahana001/trust-issues-with-settimeout-43pb)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
-- [Lifehacker] [Who Can Get a Monkeypox Vaccine?](https://lifehacker.com/who-can-get-a-monkeypox-vaccine-1849129874)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
