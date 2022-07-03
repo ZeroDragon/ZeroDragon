@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create quick keyboard shortcuts for your JS functions](https://dev.to/rajnandan1/create-quick-keyboard-shortcuts-for-your-js-functions-142n)
+- [Dev.to/JS] [LeetCode - Rotate Array](https://dev.to/_alkesh26/leetcode-rotate-array-4ac7)
+- [Dev.to/JS] [Objectifs et plan d&#39;action - Real World To-Do App - AdonisJS](https://dev.to/barbapapazes/objectifs-et-plan-dactions-real-world-to-do-app-adonisjs-bjc)
 - [Dev.to/JS] [can you &quot;AppendChild&quot; same element multiple times in js ? Probably not](https://dev.to/kiumad/can-you-appendchild-same-element-multiple-times-in-js-probably-not-4j)
 - [Dev.to/JS] [Court Marriage Fees In India Or Delhi](https://dev.to/vinayprat123/court-marriage-fees-in-india-or-delhi-21ni)
 - [Dev.to/JS] [ExpressJs Authentication Starter Project](https://dev.to/shahriar_programmer/express-authentication-starter-project-1b4k)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [THE LIVING EMOJI](https://dev.to/heydrdev/the-living-emoji-42d3)
 - [Dev.to/JS] [How I make my GitHub Profile Interactive](https://dev.to/heydrdev/how-i-make-my-github-profile-interactive-1bje)
 - [Dev.to/JS] [Day 1: A beginners take on JS scope. Var vs Let vs Const.](https://dev.to/nicklane/day-1-a-beginners-take-on-js-scope-var-vs-let-vs-const-511o)
-- [Dev.to/JS] [Paracetamol.js💊| #160: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-160-explica-este-codigo-javascript-59m2)
-- [Dev.to/JS] [Telegram Bot - Parte 3: Deploy a Heroku](https://dev.to/enzotrucchi/telegram-bot-parte-3-deploy-a-heroku-1d47)
-- [Dev.to/JS] [How to iterate over an object in Javascript?](https://dev.to/rakshit/how-to-iterate-over-an-object-in-javascript-2apj)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
