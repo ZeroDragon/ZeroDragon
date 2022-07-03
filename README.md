@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Prevent onClick event on clicking child component](https://dev.to/notetomyself/prevent-onclick-event-on-clicking-child-component-4o3j)
+- [Dev.to/JS] [🚀 Angular 14 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-14-eslint-material-transloco-jest-testcafe-docker-prettier-1pn1)
+- [Dev.to/JS] [How to setup Infinite Scroll in your react component?](https://dev.to/ritikbanger/how-to-setup-infinite-scroll-in-your-react-component-3mop)
 - [Dev.to/JS] [Go 5 Interesting Concepts as a js developer](https://dev.to/lico/go-5-interesting-concepts-as-a-js-developer-485d)
 - [Dev.to/JS] [How to remove a specific item from an array](https://dev.to/smpnjn/how-to-remove-a-specific-item-from-an-array-1dhm)
 - [Dev.to/JS] [How to Write Better Performing React Function Components!](https://dev.to/kai_wenzel/how-to-write-better-performing-react-function-components-5ac9)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Pepper Valley: A Game Made for Kajam! 2022](https://dev.to/stcollier/pepper-valley-a-game-made-for-kajam-2022-47mg)
 - [Dev.to/JS] [What are Promises in Javascript ? &lpar;Help&rpar;](https://dev.to/sojinsamuel/what-are-promises-in-javascript-help-47gi)
 - [Dev.to/JS] [Most Useful JavaScript functions for Web Developers](https://dev.to/suchintan/most-useful-javascript-functions-for-web-developers-2d3g)
-- [Dev.to/JS] [Medium To Markdown Converter](https://dev.to/atakde/medium-to-markdown-converter-2jdn)
-- [Dev.to/JS] [Getting started with micro frontends](https://dev.to/ibtisamarif831/getting-started-with-micro-frontends-c4)
-- [Dev.to/JS] [Simple yet Fast QRCode Generator](https://dev.to/mrepol742/simple-yet-fast-qrcode-generator-3df2)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
