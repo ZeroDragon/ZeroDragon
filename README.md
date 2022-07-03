@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to use API with Fetch API and Promises.](https://dev.to/ahana001/how-to-use-api-with-fetch-api-and-promises-5hh3)
 - [Dev.to/JS] [10 Websites To Practice Your Frontend Development Skills 😲](https://dev.to/souptikdn/10-websites-to-practice-your-frontend-development-skills-3noi)
 - [Dev.to/JS] [Conditional Routing with React Router V6](https://dev.to/salehmubashar/conditional-routing-with-react-router-v6-229g)
 - [Dev.to/JS] [THE LIVING EMOJI](https://dev.to/heydrdev/the-living-emoji-42d3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing a project contained in a monorepo](https://dev.to/ericapisani/testing-a-project-contained-in-a-monorepo-594i)
 - [Dev.to/JS] [Cloud Resume Challenge - AWS](https://dev.to/mbennettlowe/cloud-resume-challenge-aws-52b9)
 - [Dev.to/JS] [How To use ES6 import &amp; export in your project](https://dev.to/medaminefh/how-to-use-es6-import-export-in-your-project-3i4b)
-- [Dev.to/JS] [localhost not point to correct ip address in node 18](https://dev.to/amitiwary999/localhost-not-point-to-correct-ip-address-in-node-18-4onl)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
