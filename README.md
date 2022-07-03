@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Utilizing a Nested GET Request](https://dev.to/laurentyson85/utilizing-a-nested-get-request-3dj9)
+- [Dev.to/JS] [Get Lookover](https://dev.to/getlookover/get-lookover-2lgp)
 - [Dev.to/JS] [Simple Bootstrap Lightbox](https://dev.to/typo3freelancer/simple-bootstrap-lightbox-3kcd)
 - [Dev.to/JS] [Software Engineering Journey Update &lpar;6/26/22 - 7/2/22&rpar;](https://dev.to/nycdevethan/software-engineering-journey-update-62622-7222-2gf)
 - [Dev.to/JS] [Learning and finding solution](https://dev.to/grisha/learning-and-finding-solution-1g37)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Write Better Performing React Function Components!](https://dev.to/kai_wenzel/how-to-write-better-performing-react-function-components-5ac9)
 - [Dev.to/JS] [Weekly Digest 26/2022](https://dev.to/marcobiedermann/weekly-digest-262022-1b3b)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
-- [Dev.to/JS] [Remember to whitelist your IP when you can&#39;t connect to Mongo DB 📡💡](https://dev.to/arikaturika/remember-to-whitelist-your-ip-when-you-cant-connect-to-mongo-db-1pgn)
-- [Dev.to/JS] [Aprendendo JavaScript: Objetos parte 2](https://dev.to/h4ck3rtr4d3r/aprendendo-javascript-objetos-parte-2-4ln1)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
