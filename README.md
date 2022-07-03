@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [THE LIVING EMOJI](https://dev.to/heydrdev/the-living-emoji-42d3)
 - [Dev.to/JS] [How I make my GitHub Profile Interactive](https://dev.to/heydrdev/how-i-make-my-github-profile-interactive-1bje)
 - [Dev.to/JS] [Day 1: A beginners take on JS scope. Var vs Let vs Const.](https://dev.to/nicklane/day-1-a-beginners-take-on-js-scope-var-vs-let-vs-const-511o)
 - [Dev.to/JS] [Paracetamol.js💊| #160: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-160-explica-este-codigo-javascript-59m2)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Have you heard of function decorators](https://dev.to/6lackbjorn/have-you-heard-of-function-decorators-36ee)
 - [Dev.to/JS] [React JS Gif : Starter Kit](https://dev.to/egfx/react-js-gif-starter-kit-306c)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
-- [Dev.to/JS] [Create a React 18 / TypeScript bundle using esbuild](https://dev.to/fabiobiondi/create-a-react-18-typescript-bundle-using-esbuild-4n6o)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
