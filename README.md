@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
+- [Dev.to/JS] [Using Chart.js plugins with webpack](https://dev.to/fdocr/using-chartjs-plugins-with-webpack-3774)
 - [Dev.to/JS] [JSON server getting started](https://dev.to/avinashvagh/json-server-getting-started-4475)
 - [Dev.to/JS] [Titanium News #9](https://dev.to/miga/titanium-news-9-3091)
 - [Dev.to/JS] [MakeMyTrip Frontend Machine Coding Interview](https://dev.to/shiv1998/makemytrip-frontend-machine-coding-interview-c7b)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use API with Fetch API and Promises.](https://dev.to/ahana001/how-to-use-api-with-fetch-api-and-promises-5hh3)
 - [Dev.to/JS] [10 Websites To Practice Your Frontend Development Skills 😲](https://dev.to/souptikdn/10-websites-to-practice-your-frontend-development-skills-3noi)
 - [Dev.to/JS] [Conditional Routing with React Router V6](https://dev.to/salehmubashar/conditional-routing-with-react-router-v6-229g)
-- [Dev.to/JS] [THE LIVING EMOJI](https://dev.to/heydrdev/the-living-emoji-42d3)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
 - [Lifehacker] [Who Can Get a Monkeypox Vaccine?](https://lifehacker.com/who-can-get-a-monkeypox-vaccine-1849129874)
 - [Lifehacker] [What You Should Do Now to Prepare for a Recession](https://lifehacker.com/what-you-should-do-now-to-prepare-for-a-recession-1849129353)
-- [Lifehacker] [Don’t React to a Bison the Way You Would a Bear](https://lifehacker.com/don-t-react-to-a-bison-the-way-you-would-a-bear-1849129502)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
 - [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
 
