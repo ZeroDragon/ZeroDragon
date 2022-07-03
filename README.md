@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Remember to whitelist your IP when you can&#39;t connect to Mongo DB 📡💡](https://dev.to/arikaturika/remember-to-whitelist-your-ip-when-you-cant-connect-to-mongo-db-1pgn)
+- [Dev.to/JS] [Aprendendo JavaScript: Objetos parte 2](https://dev.to/h4ck3rtr4d3r/aprendendo-javascript-objetos-parte-2-4ln1)
+- [Dev.to/JS] [Pepper Valley: A Game Made for Kajam! 2022](https://dev.to/stcollier/pepper-valley-a-game-made-for-kajam-2022-47mg)
 - [Dev.to/JS] [What are Promises in Javascript ? &lpar;Help&rpar;](https://dev.to/sojinsamuel/what-are-promises-in-javascript-help-47gi)
 - [Dev.to/JS] [Most Useful JavaScript functions for Web Developers](https://dev.to/suchintan/most-useful-javascript-functions-for-web-developers-2d3g)
 - [Dev.to/JS] [Medium To Markdown Converter](https://dev.to/atakde/medium-to-markdown-converter-2jdn)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ultimate Guide To Write Reusable Components In React](https://dev.to/danishkhanzaada/ultimate-guide-to-write-reusable-components-in-react-1l26)
 - [Dev.to/JS] [How to use Memoization in JavaScript](https://dev.to/nazifbara/how-to-use-memoization-in-javascript-5fjl)
 - [Dev.to/JS] [Trust Issues with setTimeout&lpar;&rpar;](https://dev.to/ahana001/trust-issues-with-settimeout-43pb)
-- [Dev.to/JS] [Struggling with Promises? You Are Not Alone!](https://dev.to/polymathsomnath/struggling-with-promises-you-are-not-alone-530g)
-- [Dev.to/JS] [Coding a Toggle switch with React.js and Material UI](https://dev.to/bekbrace/coding-a-toggle-switch-with-reactjs-and-material-ui-578d)
-- [Dev.to/JS] [Cleaner imports with aliases in react and typescript ✨✨](https://dev.to/mliakos/cleaner-imports-with-aliases-in-react-and-typescript-1bcl)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
 - [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
