@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Undefined](https://dev.to/h4ck3rtr4d3r/undefined-4c6c)
+- [Dev.to/JS] [Composição de objetos em JavaScript!](https://dev.to/urielsouza29/composicao-de-objetos-em-javascript-2l5l)
+- [Dev.to/JS] [Ng-News: Episode 22/26](https://dev.to/rainerhahnekamp/ng-news-episode-2226-397o)
 - [Dev.to/JS] [Best Next.js CMS in 2022](https://dev.to/maxikius/best-nextjs-cms-in-2022-n78)
 - [Dev.to/JS] [Next.js development 101](https://dev.to/maxikius/nextjs-development-101-37ha)
 - [Dev.to/JS] [Criando um tema escuro com JS e CSS](https://dev.to/lfrigodesouza/criando-um-tema-escuro-com-js-e-css-3cd7)
@@ -33,10 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using NPM VS Yarn in React](https://dev.to/nickeabennett/using-npm-vs-yarn-in-react-2o1b)
 - [Dev.to/JS] [CommonJS vs ES Modules](https://dev.to/hanancs/commonjs-vs-es-modules-3eb)
 - [Dev.to/JS] [AWS Step Functions In-Depth | Serverless](https://dev.to/aws-builders/aws-step-functions-in-depth-serverless-5e4i)
-- [Dev.to/JS] [130. Surrounded Regions 🚀](https://dev.to/samuelhinchliffe/130-surrounded-regions-4ll9)
-- [Dev.to/JS] [Zink Tips | Made with Next JS](https://dev.to/madewithjavascript/zink-tips-made-with-next-js-2fpm)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
-- [Dev.to/JS] [Fresh: The Next-Gen JavaScript Web Framework](https://dev.to/harshhhdev/fresh-the-next-gen-javascript-web-framework-b39)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
