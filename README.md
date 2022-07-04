@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Component Breakdown &amp; State Management ⚙ - Building a tic-tac-toe game with React from scratch](https://dev.to/alimansoorcreate/component-breakdown-state-management-building-a-tic-tac-toe-game-with-react-from-scratch-16l6)
+- [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Dev.to/JS] [Intro to useRef hook](https://dev.to/sberdup/intro-to-useref-hook-1aj7)
 - [Dev.to/JS] [New to JS? Understand ‘this’](https://dev.to/aman894/new-to-js-understand-this-1g19)
 - [Dev.to/JS] [Supercharging your React projects with Memoization](https://dev.to/paul_emechebe/supercharging-react-with-memoization-1999)
@@ -34,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Get Lookover](https://dev.to/getlookover/get-lookover-2lgp)
 - [Dev.to/JS] [Simple Bootstrap Lightbox](https://dev.to/typo3freelancer/simple-bootstrap-lightbox-3kcd)
 - [Dev.to/JS] [Software Engineering Journey Update &lpar;6/26/22 - 7/2/22&rpar;](https://dev.to/nycdevethan/software-engineering-journey-update-62622-7222-2gf)
-- [Dev.to/JS] [Learning and finding solution](https://dev.to/grisha/learning-and-finding-solution-1g37)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
-- [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)
-- [Crazy Programmer] [Python Single vs Double Quotes](https://www.thecrazyprogrammer.com/2022/06/python-single-vs-double-quotes.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
 ---
 
