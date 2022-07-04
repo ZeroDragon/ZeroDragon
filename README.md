@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using NPM VS Yarn in React](https://dev.to/nickeabennett/using-npm-vs-yarn-in-react-2o1b)
+- [Dev.to/JS] [CommonJS vs ES Modules](https://dev.to/hanancs/commonjs-vs-es-modules-3eb)
+- [Dev.to/JS] [AWS Step Functions In-Depth | Serverless](https://dev.to/aws-builders/aws-step-functions-in-depth-serverless-5e4i)
+- [Dev.to/JS] [130. Surrounded Regions 🚀](https://dev.to/samuelhinchliffe/130-surrounded-regions-4ll9)
+- [Dev.to/JS] [Zink Tips | Made with Next JS](https://dev.to/madewithjavascript/zink-tips-made-with-next-js-2fpm)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Dev.to/JS] [Fresh: The Next-Gen JavaScript Web Framework](https://dev.to/harshhhdev/fresh-the-next-gen-javascript-web-framework-b39)
 - [Dev.to/JS] [🔒 How to build an end-to-end encrypted chat, with PubNub and Seald 💬](https://dev.to/arantes555/how-to-build-an-end-to-end-encrypted-chat-with-pubnub-and-seald-53kn)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [TypeScript Decorators](https://dev.to/kaankorkmaz/typescript-decorators-2b8i)
 - [Dev.to/JS] [One min tips: JSON second parameter](https://dev.to/adam_cyclones/1-minuite-tip-json-second-parameter-3g9n)
 - [Dev.to/JS] [Firebase V9 Firestore Add Document Data Using addDoc&lpar;&rpar; [2022]](https://dev.to/hirajatamil/firebase-v9-firestore-add-document-data-using-adddoc-2022-3o23)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😜.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-kib)
-- [Dev.to/JS] [How to use Handlebars to send emails via SendGrid in a Node.js application](https://dev.to/novu/how-to-use-handlebars-to-send-emails-via-sendgrid-in-a-nodejs-application-1nnh)
-- [Dev.to/JS] [Most Ignored&lpar;USELESS?&rpar; feature of JavaScript: GENERATORS?](https://dev.to/devash/most-ignoreduseless-feature-of-javascript-generators-5eb5)
-- [Dev.to/JS] [A front-end developer&#39;s skills are what most companies are looking for](https://dev.to/mohitbilala/a-front-end-developers-skills-are-what-most-companies-are-looking-for-30ep)
-- [Dev.to/JS] [Features of starting a cryptocurrency exchange platform](https://dev.to/thecryptoapeo/features-of-starting-a-cryptocurrency-exchange-platform-4e9)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
