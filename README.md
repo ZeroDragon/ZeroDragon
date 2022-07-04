@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Supercharging your React projects with Memoization](https://dev.to/paul_emechebe/supercharging-react-with-memoization-1999)
 - [Dev.to/JS] [Implementing A Dark and Light Mode Toggle](https://dev.to/kristenkinnearohlmann/implementing-a-dark-and-light-mode-toggle-2225)
 - [Dev.to/JS] [SolidJS Intro in 5 minutes &lpar;for React Developers&rpar;](https://dev.to/fabiobiondi/solidjs-intro-in-5-minutes-for-react-developers-3dh1)
 - [Dev.to/JS] [SolidJS #2: state management and custom components](https://dev.to/fabiobiondi/solidjs-2-state-management-and-custom-components-1k0e)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Learning and finding solution](https://dev.to/grisha/learning-and-finding-solution-1g37)
 - [Dev.to/JS] [Prevent onClick event on clicking child component](https://dev.to/notetomyself/prevent-onclick-event-on-clicking-child-component-4o3j)
 - [Dev.to/JS] [Connect React TypeScript to Express TypeScript](https://dev.to/denisseab/connect-react-typescript-to-express-typescript-57b8)
-- [Dev.to/JS] [🚀 Angular 14 + ESLint, Material + Transloco + Jest, TestCafe + Docker + Prettier 🚀](https://dev.to/wlucha/angular-14-eslint-material-transloco-jest-testcafe-docker-prettier-1pn1)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
