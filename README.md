@@ -23,19 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Let&#39;s generate cover for your blogs using Cover Builder](https://dev.to/gulshanaggarwal/lets-generate-cover-for-your-blogs-using-cover-builder-4ec0)
+- [Dev.to/JS] [#3 Building Headless Commerce - Adding Search Engine with Algolia](https://dev.to/jacobandrewsky/adding-search-engine-with-algolia-48j3)
+- [Dev.to/JS] [What are Promises in Javascript ?](https://dev.to/aurelkurtula/what-are-promises-in-javascript--m5k)
 - [Dev.to/JS] [Advanced TypeScript With Code Challenges: Mapped Types](https://dev.to/mariusbongarts/advanced-typescript-with-code-challenges-mapped-types-53d4)
 - [Dev.to/JS] [A library to make localStorage easier to use](https://dev.to/zellwk/a-library-to-make-localstorage-easier-to-use-4kpg)
 - [Dev.to/JS] [Sitecore shared db](https://dev.to/syamalakancharla/sitecore-shared-db-2i2a)
 - [Dev.to/JS] [Component Breakdown &amp; State Management ⚙ - Building a tic-tac-toe game with React from scratch](https://dev.to/alimansoorcreate/component-breakdown-state-management-building-a-tic-tac-toe-game-with-react-from-scratch-16l6)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
+- [Dev.to/JS] [How to start a new project using Vue.js](https://dev.to/priteshbhoi/how-to-start-a-new-project-using-vuejs-335h)
 - [Dev.to/JS] [Intro to useRef hook](https://dev.to/sberdup/intro-to-useref-hook-1aj7)
 - [Dev.to/JS] [New to JS? Understand ‘this’](https://dev.to/aman894/new-to-js-understand-this-1g19)
 - [Dev.to/JS] [Supercharging your React projects with Memoization](https://dev.to/paul_emechebe/supercharging-react-with-memoization-1999)
 - [Dev.to/JS] [Implementing A Dark and Light Mode Toggle](https://dev.to/kristenkinnearohlmann/implementing-a-dark-and-light-mode-toggle-2225)
-- [Dev.to/JS] [SolidJS Intro in 5 minutes &lpar;for React Developers&rpar;](https://dev.to/fabiobiondi/solidjs-intro-in-5-minutes-for-react-developers-3dh1)
-- [Dev.to/JS] [SolidJS #2: state management and custom components](https://dev.to/fabiobiondi/solidjs-2-state-management-and-custom-components-1k0e)
-- [Dev.to/JS] [TinyStacks | Made with Next JS](https://dev.to/madewithjavascript/tinystacks-made-with-next-js-1oe)
-- [Dev.to/JS] [Utilizing a Nested GET Request](https://dev.to/laurentyson85/utilizing-a-nested-get-request-3dj9)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
