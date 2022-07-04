@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Refactoring 007 - Extract Class](https://dev.to/mcsee/refactoring-007-extract-class-18ei)
+- [Dev.to/JS] [Struggling With Context API ? You Are Not Alone.](https://dev.to/ayo_dev/struggling-with-context-api-you-are-not-alone-20i)
+- [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
+- [Dev.to/JS] [TypeScript Decorators](https://dev.to/kaankorkmaz/typescript-decorators-2b8i)
+- [Dev.to/JS] [One min tips: JSON second parameter](https://dev.to/adam_cyclones/1-minuite-tip-json-second-parameter-3g9n)
 - [Dev.to/JS] [Firebase V9 Firestore Add Document Data Using addDoc&lpar;&rpar; [2022]](https://dev.to/hirajatamil/firebase-v9-firestore-add-document-data-using-adddoc-2022-3o23)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week😜.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-kib)
 - [Dev.to/JS] [How to use Handlebars to send emails via SendGrid in a Node.js application](https://dev.to/novu/how-to-use-handlebars-to-send-emails-via-sendgrid-in-a-nodejs-application-1nnh)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Features of starting a cryptocurrency exchange platform](https://dev.to/thecryptoapeo/features-of-starting-a-cryptocurrency-exchange-platform-4e9)
 - [Dev.to/JS] [PROGRAMMING LANGUAGES NEEDED FOR DATA SCIENCE](https://dev.to/fliptotech/programming-languages-needed-for-data-science-28a1)
 - [Dev.to/JS] [Perform Cross Browser Testing on Cloud with Cypress &amp; LambdaTest | Cypress Tutorial | Part XIII](https://dev.to/lambdatest/perform-cross-browser-testing-on-cloud-with-cypress-lambdatest-cypress-tutorial-part-xiii-2l6e)
-- [Dev.to/JS] [What Are Cypress Actions? | GitHub Actions | Cypress Automation | Cypress Tutorial | Part XII](https://dev.to/lambdatest/what-are-cypress-actions-github-actions-cypress-automation-cypress-tutorial-part-xii-5340)
-- [Dev.to/JS] [What Are Cypress Mouse Commands? | Cypress E2E Automation | Cypress Tutorial | Part XI](https://dev.to/lambdatest/what-are-cypress-mouse-commands-cypress-e2e-automation-cypress-tutorial-part-xi-4gjk)
-- [Dev.to/JS] [Common Ninja&#39;s Summer Hackathon: Build E-Commerce Apps, and Win Awesome Prizes!](https://dev.to/commonninja/common-ninjas-summer-hackathon-build-e-commerce-apps-and-win-awesome-prizes-1f8j)
-- [Dev.to/JS] [Prisma 101](https://dev.to/uur_oruc/prisma-101-34pp)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
-- [Lifehacker] [What to Say &lpar;and Not to Say&rpar; When You Break Up With Someone](https://lifehacker.com/what-to-say-and-not-to-say-when-you-break-up-with-som-1849130535)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
 ---
