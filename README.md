@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Intro to useRef hook](https://dev.to/sberdup/intro-to-useref-hook-1aj7)
 - [Dev.to/JS] [New to JS? Understand ‘this’](https://dev.to/aman894/new-to-js-understand-this-1g19)
 - [Dev.to/JS] [Supercharging your React projects with Memoization](https://dev.to/paul_emechebe/supercharging-react-with-memoization-1999)
 - [Dev.to/JS] [Implementing A Dark and Light Mode Toggle](https://dev.to/kristenkinnearohlmann/implementing-a-dark-and-light-mode-toggle-2225)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple Bootstrap Lightbox](https://dev.to/typo3freelancer/simple-bootstrap-lightbox-3kcd)
 - [Dev.to/JS] [Software Engineering Journey Update &lpar;6/26/22 - 7/2/22&rpar;](https://dev.to/nycdevethan/software-engineering-journey-update-62622-7222-2gf)
 - [Dev.to/JS] [Learning and finding solution](https://dev.to/grisha/learning-and-finding-solution-1g37)
-- [Dev.to/JS] [Prevent onClick event on clicking child component](https://dev.to/notetomyself/prevent-onclick-event-on-clicking-child-component-4o3j)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
