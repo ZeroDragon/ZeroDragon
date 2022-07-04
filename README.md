@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Advanced TypeScript With Code Challenges: Mapped Types](https://dev.to/mariusbongarts/advanced-typescript-with-code-challenges-mapped-types-53d4)
+- [Dev.to/JS] [A library to make localStorage easier to use](https://dev.to/zellwk/a-library-to-make-localstorage-easier-to-use-4kpg)
+- [Dev.to/JS] [Sitecore shared db](https://dev.to/syamalakancharla/sitecore-shared-db-2i2a)
 - [Dev.to/JS] [Component Breakdown &amp; State Management ⚙ - Building a tic-tac-toe game with React from scratch](https://dev.to/alimansoorcreate/component-breakdown-state-management-building-a-tic-tac-toe-game-with-react-from-scratch-16l6)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Dev.to/JS] [Intro to useRef hook](https://dev.to/sberdup/intro-to-useref-hook-1aj7)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [SolidJS #2: state management and custom components](https://dev.to/fabiobiondi/solidjs-2-state-management-and-custom-components-1k0e)
 - [Dev.to/JS] [TinyStacks | Made with Next JS](https://dev.to/madewithjavascript/tinystacks-made-with-next-js-1oe)
 - [Dev.to/JS] [Utilizing a Nested GET Request](https://dev.to/laurentyson85/utilizing-a-nested-get-request-3dj9)
-- [Dev.to/JS] [Get Lookover](https://dev.to/getlookover/get-lookover-2lgp)
-- [Dev.to/JS] [Simple Bootstrap Lightbox](https://dev.to/typo3freelancer/simple-bootstrap-lightbox-3kcd)
-- [Dev.to/JS] [Software Engineering Journey Update &lpar;6/26/22 - 7/2/22&rpar;](https://dev.to/nycdevethan/software-engineering-journey-update-62622-7222-2gf)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
