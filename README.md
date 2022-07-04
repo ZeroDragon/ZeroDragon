@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick guide to Resize Observer](https://dev.to/murashow/quick-guide-to-resize-observer-gam)
+- [Dev.to/JS] [⚛ React Portfolio](https://dev.to/cutioluis/react-portfolio-4nnk)
 - [Dev.to/JS] [Color scheme generator js project](https://dev.to/mariamaitbella/color-scheme-generator-js-project-6j8)
 - [Dev.to/JS] [Cómo comprobar si un número es un cuadrado perfecto con Javascript](https://dev.to/victorjordan95/como-comprobar-si-un-numero-es-un-cuadrado-perfecto-con-javascript-4h5d)
 - [Dev.to/JS] [Implementing Stacks in JavaScript](https://dev.to/collins87mbathi/implementing-stack-in-javascript-37if)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ng-News: Episode 22/26](https://dev.to/rainerhahnekamp/ng-news-episode-2226-397o)
 - [Dev.to/JS] [Best Next.js CMS in 2022](https://dev.to/maxikius/best-nextjs-cms-in-2022-n78)
 - [Dev.to/JS] [Next.js development 101](https://dev.to/maxikius/nextjs-development-101-37ha)
-- [Dev.to/JS] [Criando um tema escuro com JS e CSS](https://dev.to/lfrigodesouza/criando-um-tema-escuro-com-js-e-css-3cd7)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
-- [Dev.to/JS] [How to Create an Ecommerce Store with Vue Storefront UI and Medusa](https://dev.to/medusajs/how-to-create-an-ecommerce-store-with-vue-storefront-ui-and-medusa-37jp)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
