@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
+- [Dev.to/JS] [How to Create an Ecommerce Store with Vue Storefront UI and Medusa](https://dev.to/medusajs/how-to-create-an-ecommerce-store-with-vue-storefront-ui-and-medusa-37jp)
+- [Dev.to/JS] [p5.js Loading Spinner](https://dev.to/mrwolferinc/p5js-loading-spinner-5a98)
+- [Dev.to/JS] [How to add an object to localStorage?](https://dev.to/ertanozdemir/how-to-add-an-object-to-localstorage-761)
 - [Dev.to/JS] [Using NPM VS Yarn in React](https://dev.to/nickeabennett/using-npm-vs-yarn-in-react-2o1b)
 - [Dev.to/JS] [CommonJS vs ES Modules](https://dev.to/hanancs/commonjs-vs-es-modules-3eb)
 - [Dev.to/JS] [AWS Step Functions In-Depth | Serverless](https://dev.to/aws-builders/aws-step-functions-in-depth-serverless-5e4i)
@@ -34,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Refactoring 007 - Extract Class](https://dev.to/mcsee/refactoring-007-extract-class-18ei)
 - [Dev.to/JS] [Struggling With Context API ? You Are Not Alone.](https://dev.to/ayo_dev/struggling-with-context-api-you-are-not-alone-20i)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
-- [Dev.to/JS] [TypeScript Decorators](https://dev.to/kaankorkmaz/typescript-decorators-2b8i)
-- [Dev.to/JS] [One min tips: JSON second parameter](https://dev.to/adam_cyclones/1-minuite-tip-json-second-parameter-3g9n)
-- [Dev.to/JS] [Firebase V9 Firestore Add Document Data Using addDoc&lpar;&rpar; [2022]](https://dev.to/hirajatamil/firebase-v9-firestore-add-document-data-using-adddoc-2022-3o23)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Back Up Your Google Hangouts Data Before It&#39;s Gone for Good](https://lifehacker.com/how-to-back-up-your-google-hangouts-data-before-its-gon-1849130692)
 - [Lifehacker] [How to Set Boundaries Around Toy Guns](https://lifehacker.com/how-to-set-boundaries-around-toy-guns-1848976354)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
-- [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
 ---
