@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
+- [Dev.to/JS] [Fresh: The Next-Gen JavaScript Web Framework](https://dev.to/harshhhdev/fresh-the-next-gen-javascript-web-framework-b39)
+- [Dev.to/JS] [🔒 How to build an end-to-end encrypted chat, with PubNub and Seald 💬](https://dev.to/arantes555/how-to-build-an-end-to-end-encrypted-chat-with-pubnub-and-seald-53kn)
 - [Dev.to/JS] [Refactoring 007 - Extract Class](https://dev.to/mcsee/refactoring-007-extract-class-18ei)
 - [Dev.to/JS] [Struggling With Context API ? You Are Not Alone.](https://dev.to/ayo_dev/struggling-with-context-api-you-are-not-alone-20i)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Most Ignored&lpar;USELESS?&rpar; feature of JavaScript: GENERATORS?](https://dev.to/devash/most-ignoreduseless-feature-of-javascript-generators-5eb5)
 - [Dev.to/JS] [A front-end developer&#39;s skills are what most companies are looking for](https://dev.to/mohitbilala/a-front-end-developers-skills-are-what-most-companies-are-looking-for-30ep)
 - [Dev.to/JS] [Features of starting a cryptocurrency exchange platform](https://dev.to/thecryptoapeo/features-of-starting-a-cryptocurrency-exchange-platform-4e9)
-- [Dev.to/JS] [PROGRAMMING LANGUAGES NEEDED FOR DATA SCIENCE](https://dev.to/fliptotech/programming-languages-needed-for-data-science-28a1)
-- [Dev.to/JS] [Perform Cross Browser Testing on Cloud with Cypress &amp; LambdaTest | Cypress Tutorial | Part XIII](https://dev.to/lambdatest/perform-cross-browser-testing-on-cloud-with-cypress-lambdatest-cypress-tutorial-part-xiii-2l6e)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
@@ -61,7 +62,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Set Boundaries Around Toy Guns](https://lifehacker.com/how-to-set-boundaries-around-toy-guns-1848976354)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Lifehacker] [Nordic Walking Is Pretty Badass, Actually](https://lifehacker.com/nordic-walking-is-pretty-badass-actually-1849130967)
-- [Lifehacker] [How to Choose the Best Cheese for Any Burger](https://lifehacker.com/how-to-choose-the-best-cheese-for-any-burger-1849129610)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
 ---
