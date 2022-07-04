@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Connect a React app to the NEAR Blockchain](https://dev.to/asayerio_techblog/connect-a-react-app-to-the-near-blockchain-1f79)
+- [Dev.to/JS] [Mobile push notifications with Firebase](https://dev.to/asayerio_techblog/mobile-push-notifications-with-firebase-3c54)
 - [Dev.to/JS] [Undefined](https://dev.to/h4ck3rtr4d3r/undefined-4c6c)
 - [Dev.to/JS] [Composição de objetos em JavaScript!](https://dev.to/urielsouza29/composicao-de-objetos-em-javascript-2l5l)
 - [Dev.to/JS] [Ng-News: Episode 22/26](https://dev.to/rainerhahnekamp/ng-news-episode-2226-397o)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [p5.js Loading Spinner](https://dev.to/mrwolferinc/p5js-loading-spinner-5a98)
 - [Dev.to/JS] [How to add an object to localStorage?](https://dev.to/ertanozdemir/how-to-add-an-object-to-localstorage-761)
 - [Dev.to/JS] [Using NPM VS Yarn in React](https://dev.to/nickeabennett/using-npm-vs-yarn-in-react-2o1b)
-- [Dev.to/JS] [CommonJS vs ES Modules](https://dev.to/hanancs/commonjs-vs-es-modules-3eb)
-- [Dev.to/JS] [AWS Step Functions In-Depth | Serverless](https://dev.to/aws-builders/aws-step-functions-in-depth-serverless-5e4i)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
