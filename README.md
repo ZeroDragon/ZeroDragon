@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Perform Cross Browser Testing on Cloud with Cypress &amp; LambdaTest | Cypress Tutorial | Part XIII](https://dev.to/lambdatest/perform-cross-browser-testing-on-cloud-with-cypress-lambdatest-cypress-tutorial-part-xiii-2l6e)
+- [Dev.to/JS] [What Are Cypress Actions? | GitHub Actions | Cypress Automation | Cypress Tutorial | Part XII](https://dev.to/lambdatest/what-are-cypress-actions-github-actions-cypress-automation-cypress-tutorial-part-xii-5340)
+- [Dev.to/JS] [What Are Cypress Mouse Commands? | Cypress E2E Automation | Cypress Tutorial | Part XI](https://dev.to/lambdatest/what-are-cypress-mouse-commands-cypress-e2e-automation-cypress-tutorial-part-xi-4gjk)
+- [Dev.to/JS] [Common Ninja&#39;s Summer Hackathon: Build E-Commerce Apps, and Win Awesome Prizes!](https://dev.to/commonninja/common-ninjas-summer-hackathon-build-e-commerce-apps-and-win-awesome-prizes-1f8j)
+- [Dev.to/JS] [Prisma 101](https://dev.to/uur_oruc/prisma-101-34pp)
 - [Dev.to/JS] [Zoom Clone App with React and 100ms SDK &lpar;part II&rpar;](https://dev.to/benjaminbusari/zoom-clone-app-with-react-and-100ms-sdk-part-ii-57lc)
 - [Dev.to/JS] [Zoom Clone with React and 100ms SDK &lpar;part I&rpar;](https://dev.to/benjaminbusari/zoom-clone-with-react-and-100ms-sdk-part-i-3o7b)
 - [Dev.to/JS] [javascript 中常见的可中断执行编程范式](https://dev.to/allen_yao/xie-ke-zhong-duan-zhi-xing-de-bian-cheng-fan-shi-2jcn)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Programming Rule Vs Machine Learning](https://dev.to/panupongdeve/programming-rule-vs-machine-learning-a7j)
 - [Dev.to/JS] [JavaScript generators ELI5](https://dev.to/pramit_marattha/javascript-generators-eli5-2o61)
 - [Dev.to/JS] [Scaling up with Strapi: how RemitBee adapts the CMS to their needs since 2019](https://dev.to/strapi/scaling-up-with-strapi-how-remitbee-adapts-the-cms-to-their-needs-since-2019-106j)
-- [Dev.to/JS] [5 Reasons to Choose ReactJs for Your Next project](https://dev.to/garudswarali/5-reasons-to-choose-reactjs-for-your-next-project-5f0p)
-- [Dev.to/JS] [Local Storage and Session Storage explained](https://dev.to/talenttinaapi/local-storage-and-session-storage-explained-4p1l)
-- [Dev.to/JS] [Change Image brightness then download](https://dev.to/arnosolo/change-image-brightness-then-download-17n9)
-- [Dev.to/JS] [Safe and predictable inline scripts](https://dev.to/angelmm/safe-and-predictable-inline-scripts-4d09)
-- [Dev.to/JS] [ECE Projects](https://dev.to/arunprakash142/ece-projects-553l)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
