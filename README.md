@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build Web Services Relying on CVM](https://dev.to/junoma/how-to-build-web-services-relying-on-cvm-1pn)
 - [Dev.to/JS] [Comparing English and Spanish Words in JavaScript](https://dev.to/bobbybates/comparing-english-and-spanish-words-in-javascript-3dhb)
 - [Dev.to/JS] [Day 5/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-530-days-of-codewars-javascript-edition-41mn)
 - [Dev.to/JS] [Quick guide to Resize Observer](https://dev.to/murashow/quick-guide-to-resize-observer-gam)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Mobile push notifications with Firebase](https://dev.to/asayerio_techblog/mobile-push-notifications-with-firebase-3c54)
 - [Dev.to/JS] [Undefined](https://dev.to/h4ck3rtr4d3r/undefined-4c6c)
 - [Dev.to/JS] [Composição de objetos em JavaScript!](https://dev.to/urielsouza29/composicao-de-objetos-em-javascript-2l5l)
-- [Dev.to/JS] [Ng-News: Episode 22/26](https://dev.to/rainerhahnekamp/ng-news-episode-2226-397o)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
