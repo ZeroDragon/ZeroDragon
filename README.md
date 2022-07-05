@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Day 0 - Birth of Dynastorm](https://dev.to/dlmarques/day-1-birth-of-dynastorm-2662)
+- [Lifehacker] [Make This Strawberry Salsa Before the Season Is Over](https://lifehacker.com/make-this-strawberry-salsa-before-the-season-is-over-1849134247)
+- [Dev.to/JS] [Why String is immutable in Javascript &lpar;Help&rpar;](https://dev.to/sojinsamuel/why-string-is-immutable-in-javascript-help-38g4)
+- [Dev.to/JS] [Alternatives to React: Inferno.JS](https://dev.to/asayerio_techblog/alternatives-to-react-infernojs-5da3)
+- [Dev.to/JS] [6 Ways to Make Sure You&#39;re Using the Right Array Method](https://dev.to/juliafmorgado/6-ways-to-make-sure-youre-using-the-right-array-method-p6j)
+- [Dev.to/JS] [Node.js Import Aliases](https://dev.to/kretaceous/nodejs-import-aliases-41eb)
 - [Dev.to/JS] [Hoisting and Temporal Dead Zone](https://dev.to/pushanverma/hoisting-and-temporal-dead-zone-1m0f)
 - [Dev.to/JS] [CallBack Functions in JavaScript](https://dev.to/pushanverma/callback-functions-in-javascript-lid)
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/pushanverma/functions-in-javascript-2knh)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 APIs that you as a developer will love it 💖](https://dev.to/monicafidalgo/12-apis-that-you-as-a-developer-will-love-it-4ec6)
 - [Dev.to/JS] [A practical approach to creating graphql APIs in node.js - part two&lpar;How to setup Apollo Server&rpar;](https://dev.to/princewhyte2/a-practical-approach-to-creating-graphql-apis-in-nodejs-part-twohow-to-setup-apollo-server-30on)
 - [Dev.to/JS] [Choosing The Right JavaScript Framework](https://dev.to/robin99r/choosing-the-right-javascript-framework-1nac)
-- [Dev.to/JS] [Functions are Objects in javaScript](https://dev.to/aamchora/functions-are-objects-in-javascript-4jf1)
-- [Dev.to/JS] [Day 2: How I Integrated an Express JS Server with my React App.](https://dev.to/nicklane/day-2-how-i-integrated-an-express-js-server-with-my-react-app-3njf)
-- [Dev.to/JS] [Merge Two Sorted Lists using recursion ,Leetcode Problem &lpar;Leetcode:21&rpar;](https://dev.to/shubhamb/merge-two-sorted-lists-using-recursion-leetcode-problem-leetcode21-5dd9)
-- [Dev.to/JS] [Optimize your bundle size by eliminating dead code / tree-shaking in Webpack](https://dev.to/mfyz/optimize-your-bundle-size-by-eliminating-dead-code-tree-shaking-in-webpack-19m0)
-- [Dev.to/JS] [Learning Strapi Authentication Flows with the Facebook Provider](https://dev.to/strapi/learning-strapi-authentication-flows-with-the-facebook-provider-p5l)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Young People Wearing Suits to &#39;Minions&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-y-1849132606)
 - [Lifehacker] [Take Advantage of These Personal Finance Tips While You’re Still Single](https://lifehacker.com/take-advantage-of-these-personal-finance-tips-while-you-1849131207)
 - [Lifehacker] [How to Back Up Your Google Hangouts Data Before It&#39;s Gone for Good](https://lifehacker.com/how-to-back-up-your-google-hangouts-data-before-its-gon-1849130692)
-- [Lifehacker] [How to Set Boundaries Around Toy Guns](https://lifehacker.com/how-to-set-boundaries-around-toy-guns-1848976354)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
