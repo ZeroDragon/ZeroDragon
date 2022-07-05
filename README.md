@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HTTP Response Status Codes: A Beginner Guide](https://dev.to/trillionclues/http-response-status-codes-a-beginner-guide-1k13)
+- [Dev.to/JS] [if-else ,ternary Operator,switch statements in JavaScript](https://dev.to/pushanverma/if-else-ternary-operatorswitch-statements-in-javascript-3nhi)
+- [Dev.to/JS] [Arrays and Objects](https://dev.to/pushanverma/arrays-and-objects-1jof)
+- [Dev.to/JS] [Strings in JavaScript and their Important Methods](https://dev.to/pushanverma/strings-in-javascript-and-their-important-methods-5gnm)
 - [Dev.to/JS] [Why to Buy Residential Apartments in Navyug Smart Mini City Prayagraj](https://dev.to/nmbuildwell_76/why-to-buy-residential-apartments-in-navyug-smart-mini-city-prayagraj-61e)
 - [Dev.to/JS] [Introduction to syntax of Arrays and Objects](https://dev.to/pushanverma/introduction-to-syntax-of-arrays-and-objects-3h74)
 - [Dev.to/JS] [Decoding image CAPTCHA using 2captcha](https://dev.to/shreyvijayvargiya/decoding-image-captcha-using-2captcha-20ei)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript check if property exists in Object](https://dev.to/dailydevtips1/javascript-check-if-property-exists-in-object-57ed)
 - [Dev.to/JS] [I created an entire dynamic website with NextJs on android!](https://dev.to/eagle1309/i-created-an-entire-dynamic-website-with-nextjs-on-android-2g9e)
 - [Dev.to/JS] [Hooks in React](https://dev.to/smohiudd1688/hooks-in-react-a75)
-- [Dev.to/JS] [#3. Creating api endpoints and routes for different functionalities ☀](https://dev.to/himanshupal0001/3-creating-api-endpoints-and-routes-for-different-functionalities-2ppe)
-- [Dev.to/JS] [Vue Js 3 - Single-File Component](https://dev.to/priteshbhoi/vue-js-3-single-file-component-11gd)
-- [Dev.to/JS] [How to Build Web Services Relying on CVM](https://dev.to/junoma/how-to-build-web-services-relying-on-cvm-1pn)
-- [Dev.to/JS] [Comparing English and Spanish Words in JavaScript](https://dev.to/bobbybates/comparing-english-and-spanish-words-in-javascript-3dhb)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
