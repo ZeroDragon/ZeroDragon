@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why to Buy Residential Apartments in Navyug Smart Mini City Prayagraj](https://dev.to/nmbuildwell_76/why-to-buy-residential-apartments-in-navyug-smart-mini-city-prayagraj-61e)
+- [Dev.to/JS] [Introduction to syntax of Arrays and Objects](https://dev.to/pushanverma/introduction-to-syntax-of-arrays-and-objects-3h74)
+- [Dev.to/JS] [Decoding image CAPTCHA using 2captcha](https://dev.to/shreyvijayvargiya/decoding-image-captcha-using-2captcha-20ei)
+- [Dev.to/JS] [Data Types in JavaScript](https://dev.to/pushanverma/data-types-in-javascript-5cln)
 - [Dev.to/JS] [Open a JavaScript IDE by going to `js.new` or a new pen on CodePen by `pen.new` and more!🤯](https://dev.to/dhammu/open-a-javascript-ide-by-going-to-jsnew-or-a-new-pen-on-codepen-by-pennew-and-more-edp)
 - [Dev.to/JS] [JavaScript check if property exists in Object](https://dev.to/dailydevtips1/javascript-check-if-property-exists-in-object-57ed)
 - [Dev.to/JS] [I created an entire dynamic website with NextJs on android!](https://dev.to/eagle1309/i-created-an-entire-dynamic-website-with-nextjs-on-android-2g9e)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Vue Js 3 - Single-File Component](https://dev.to/priteshbhoi/vue-js-3-single-file-component-11gd)
 - [Dev.to/JS] [How to Build Web Services Relying on CVM](https://dev.to/junoma/how-to-build-web-services-relying-on-cvm-1pn)
 - [Dev.to/JS] [Comparing English and Spanish Words in JavaScript](https://dev.to/bobbybates/comparing-english-and-spanish-words-in-javascript-3dhb)
-- [Dev.to/JS] [Day 5/30 Days of CodeWars: JavaScript Edition](https://dev.to/nats_tech_notes/day-530-days-of-codewars-javascript-edition-41mn)
-- [Dev.to/JS] [Quick guide to Resize Observer](https://dev.to/murashow/quick-guide-to-resize-observer-gam)
-- [Dev.to/JS] [⚛ React Portfolio](https://dev.to/cutioluis/react-portfolio-4nnk)
-- [Dev.to/JS] [Color scheme generator js project](https://dev.to/mariamaitbella/color-scheme-generator-js-project-6j8)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
