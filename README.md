@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sliders are like onions: three gradient layers of a single slider](https://dev.to/angular/sliders-are-like-onions-three-gradient-layers-of-a-single-slider-1nia)
+- [Dev.to/JS] [Object.freeze&lpar; &rpar; in JavaScript](https://dev.to/connectaryal/objectfreeze-in-javascript-2emd)
+- [Dev.to/JS] [React: Introduction to useEffect hook](https://dev.to/sanjosedennis/react-introduction-to-useeffect-hook-4d1m)
+- [Dev.to/JS] [Data Structure 102: Types of Data Structure](https://dev.to/mremeka/data-structure-102-types-of-data-structure-4c5j)
+- [Lifehacker] [Why Is Everyone Using NGL on Instagram?](https://lifehacker.com/why-is-everyone-using-ngl-on-instagram-1849135510)
+- [Dev.to/JS] [V8 Engine and How it Optimizes Your JavaScript Code](https://dev.to/cyannrogue/v8-engine-and-how-it-optimizes-your-javascript-code-cgm)
+- [Dev.to/JS] [HackerRank Series #1: Simple Array Sum](https://dev.to/ndegwajm/hackerrank-series-1-simple-array-sum-3nd8)
 - [Lifehacker] [How to Finally Format Text in Google Docs Using Basic Syntax](https://lifehacker.com/how-to-finally-format-text-in-google-docs-using-basic-s-1849137251)
 - [Dev.to/JS] [Using to Implement Image Uploading in Ruby](https://dev.to/sheridan95/using-to-implement-image-uploading-in-ruby-4862)
 - [Dev.to/JS] [Make Keyboard ShortCut in Javascript](https://dev.to/kiumad/make-keyboard-shortcut-in-javascript-46oc)
@@ -32,12 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why String is immutable in Javascript &lpar;Help&rpar;](https://dev.to/sojinsamuel/why-string-is-immutable-in-javascript-help-38g4)
 - [Dev.to/JS] [Alternatives to React: Inferno.JS](https://dev.to/asayerio_techblog/alternatives-to-react-infernojs-5da3)
 - [Dev.to/JS] [6 Ways to Make Sure You&#39;re Using the Right Array Method](https://dev.to/juliafmorgado/6-ways-to-make-sure-youre-using-the-right-array-method-p6j)
-- [Dev.to/JS] [Node.js Import Aliases](https://dev.to/kretaceous/nodejs-import-aliases-41eb)
-- [Dev.to/JS] [Hoisting and Temporal Dead Zone](https://dev.to/pushanverma/hoisting-and-temporal-dead-zone-1m0f)
-- [Dev.to/JS] [CallBack Functions in JavaScript](https://dev.to/pushanverma/callback-functions-in-javascript-lid)
-- [Dev.to/JS] [Functions in JavaScript](https://dev.to/pushanverma/functions-in-javascript-2knh)
-- [Dev.to/JS] [for Loop,while loop ,do-while loop,forEach Loop and forin loop](https://dev.to/pushanverma/for-loopwhile-loop-do-while-loopforeach-loop-and-forin-loop-4a56)
-- [Dev.to/JS] [12 APIs that you as a developer will love it 💖](https://dev.to/monicafidalgo/12-apis-that-you-as-a-developer-will-love-it-4ec6)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Might Want to Shower Before Your Run](https://lifehacker.com/why-you-might-want-to-shower-before-your-run-1849131818)
 - [Lifehacker] [10 Uses for Hand Sanitizer That Aren&#39;t Cleaning Your Hands](https://lifehacker.com/10-uses-for-hand-sanitizer-that-arent-cleaning-your-han-1849131155)
 - [Lifehacker] [Why You Shouldn&#39;t Trust Fuel Cost Estimates on New Car Window Stickers](https://lifehacker.com/why-you-shouldnt-trust-fuel-cost-estimates-on-new-car-w-1849125349)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Young People Wearing Suits to &#39;Minions&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-y-1849132606)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
