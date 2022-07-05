@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hooks in React](https://dev.to/smohiudd1688/hooks-in-react-a75)
 - [Dev.to/JS] [#3. Creating api endpoints and routes for different functionalities ☀](https://dev.to/himanshupal0001/3-creating-api-endpoints-and-routes-for-different-functionalities-2ppe)
 - [Dev.to/JS] [Vue Js 3 - Single-File Component](https://dev.to/priteshbhoi/vue-js-3-single-file-component-11gd)
 - [Dev.to/JS] [How to Build Web Services Relying on CVM](https://dev.to/junoma/how-to-build-web-services-relying-on-cvm-1pn)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cómo comprobar si un número es un cuadrado perfecto con Javascript](https://dev.to/victorjordan95/como-comprobar-si-un-numero-es-un-cuadrado-perfecto-con-javascript-4h5d)
 - [Dev.to/JS] [Implementing Stacks in JavaScript](https://dev.to/collins87mbathi/implementing-stack-in-javascript-37if)
 - [Dev.to/JS] [Connect a React app to the NEAR Blockchain](https://dev.to/asayerio_techblog/connect-a-react-app-to-the-near-blockchain-1f79)
-- [Dev.to/JS] [Mobile push notifications with Firebase](https://dev.to/asayerio_techblog/mobile-push-notifications-with-firebase-3c54)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
