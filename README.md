@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting and Temporal Dead Zone](https://dev.to/pushanverma/hoisting-and-temporal-dead-zone-1m0f)
+- [Dev.to/JS] [CallBack Functions in JavaScript](https://dev.to/pushanverma/callback-functions-in-javascript-lid)
+- [Dev.to/JS] [Functions in JavaScript](https://dev.to/pushanverma/functions-in-javascript-2knh)
+- [Dev.to/JS] [for Loop,while loop ,do-while loop,forEach Loop and forin loop](https://dev.to/pushanverma/for-loopwhile-loop-do-while-loopforeach-loop-and-forin-loop-4a56)
+- [Dev.to/JS] [12 APIs that you as a developer will love it 💖](https://dev.to/monicafidalgo/12-apis-that-you-as-a-developer-will-love-it-4ec6)
 - [Dev.to/JS] [A practical approach to creating graphql APIs in node.js - part two&lpar;How to setup Apollo Server&rpar;](https://dev.to/princewhyte2/a-practical-approach-to-creating-graphql-apis-in-nodejs-part-twohow-to-setup-apollo-server-30on)
 - [Dev.to/JS] [Choosing The Right JavaScript Framework](https://dev.to/robin99r/choosing-the-right-javascript-framework-1nac)
 - [Dev.to/JS] [Functions are Objects in javaScript](https://dev.to/aamchora/functions-are-objects-in-javascript-4jf1)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Merge Two Sorted Lists using recursion ,Leetcode Problem &lpar;Leetcode:21&rpar;](https://dev.to/shubhamb/merge-two-sorted-lists-using-recursion-leetcode-problem-leetcode21-5dd9)
 - [Dev.to/JS] [Optimize your bundle size by eliminating dead code / tree-shaking in Webpack](https://dev.to/mfyz/optimize-your-bundle-size-by-eliminating-dead-code-tree-shaking-in-webpack-19m0)
 - [Dev.to/JS] [Learning Strapi Authentication Flows with the Facebook Provider](https://dev.to/strapi/learning-strapi-authentication-flows-with-the-facebook-provider-p5l)
-- [Dev.to/JS] [Simple Barcode Generator Using JavaScript &lpar;Free Code&rpar;](https://dev.to/groundtutorial/simple-barcode-generator-using-javascript-free-code-1oo)
-- [Dev.to/JS] [HTTP Response Status Codes: A Beginner Guide](https://dev.to/trillionclues/http-response-status-codes-a-beginner-guide-1k13)
-- [Dev.to/JS] [if-else ,ternary Operator,switch statements in JavaScript](https://dev.to/pushanverma/if-else-ternary-operatorswitch-statements-in-javascript-3nhi)
-- [Dev.to/JS] [Arrays and Objects](https://dev.to/pushanverma/arrays-and-objects-1jof)
-- [Dev.to/JS] [Strings in JavaScript and their Important Methods](https://dev.to/pushanverma/strings-in-javascript-and-their-important-methods-5gnm)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
