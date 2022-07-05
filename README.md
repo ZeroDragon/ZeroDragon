@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Replacements for TweetDeck on Mac](https://lifehacker.com/these-are-the-best-replacements-for-tweetdeck-on-mac-1849132982)
+- [Dev.to/JS] [Deeply Compare 2 Objects in JavaScript with Recursive Function](https://dev.to/rasaf_ibrahim/deeply-compare-2-objects-in-javascript-with-recursive-function-50j)
+- [Lifehacker] [How to Get Money Back From Southwest When Their Fares Drop](https://lifehacker.com/how-to-get-money-back-from-southwest-when-their-fares-d-1849141847)
+- [Dev.to/JS] [Cool sign up page design using HTML, CSS, and Javascript](https://dev.to/incoderweb/cool-sign-up-page-design-using-html-css-and-javascript-1m3j)
+- [Dev.to/JS] [Bootstrap 5 Button Loading Example Using Javascript](https://dev.to/w3hubs/bootstrap-5-button-loading-example-using-javascript-420j)
+- [Dev.to/JS] [Un viaje a las Single Page Application a través de React y JavaScript](https://dev.to/khriztianmoreno/un-viaje-a-las-single-page-application-a-traves-de-react-y-javascript-3hl4)
+- [Lifehacker] [Never Do These Things at a Nude Beach](https://lifehacker.com/never-do-these-things-at-a-nude-beach-1849142296)
 - [Dev.to/JS] [Nx 14.4 - Inputs, optional npm scope, project graph cache directory and more!](https://dev.to/nx/nx-144-inputs-optional-npm-scope-project-graph-cache-directory-and-more-4fe7)
 - [Dev.to/JS] [Why Deno won&#39;t get much success?](https://dev.to/610470416/why-deno-wont-get-much-success-5de9)
 - [Lifehacker] [Is Your Smoke Detector Good Enough?](https://lifehacker.com/is-your-smoke-detector-good-enough-1849142169)
@@ -33,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ES6: Object property of undefined? Not anymore! &lpar;revised&rpar;](https://dev.to/adam_cyclones/es6-object-property-of-undefined-not-anymore-revised-26a7)
 - [Dev.to/JS] [subtitle translate video](https://dev.to/bellacio/subtitle-translate-video-5h06)
 - [Lifehacker] [It’s Not Too Late to Start Your Summer Garden](https://lifehacker.com/it-s-not-too-late-to-start-your-summer-garden-1849141457)
-- [Dev.to/JS] [Sliders are like onions: three gradient layers of a single slider](https://dev.to/angular/sliders-are-like-onions-three-gradient-layers-of-a-single-slider-1nia)
-- [Dev.to/JS] [Object.freeze&lpar; &rpar; in JavaScript](https://dev.to/connectaryal/objectfreeze-in-javascript-2emd)
-- [Dev.to/JS] [React: Introduction to useEffect hook](https://dev.to/sanjosedennis/react-introduction-to-useeffect-hook-4d1m)
-- [Dev.to/JS] [Data Structure 102: Types of Data Structure](https://dev.to/mremeka/data-structure-102-types-of-data-structure-4c5j)
 - [Lifehacker] [Why Is Everyone Using NGL on Instagram?](https://lifehacker.com/why-is-everyone-using-ngl-on-instagram-1849135510)
 - [Lifehacker] [How to Finally Format Text in Google Docs Using Basic Syntax](https://lifehacker.com/how-to-finally-format-text-in-google-docs-using-basic-s-1849137251)
 - [Lifehacker] [The 7 Deadly Sins of Learning How to Cook](https://lifehacker.com/the-7-deadly-sins-of-learning-how-to-cook-1849135069)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/the-best-sites-and-apps-to-track-your-books-movies-mu-1849131164)
 - [Lifehacker] [Improve Your Heart Health With This Checklist](https://lifehacker.com/improve-your-heart-health-with-this-checklist-1849134479)
 - [Lifehacker] [How to Rent an RV for $1 a Day](https://lifehacker.com/how-to-rent-an-rv-for-1-a-day-1849134033)
-- [Lifehacker] [20 Movies That&#39;ll Remind You the Government Can’t Be Trusted](https://lifehacker.com/20-movies-thatll-remind-you-the-government-can-t-be-tru-1849125096)
-- [Lifehacker] [10 of the Hardest Video Games Ever](https://lifehacker.com/10-of-the-hardest-video-games-ever-1849044055)
-- [Lifehacker] [Why You Might Want to Shower Before Your Run](https://lifehacker.com/why-you-might-want-to-shower-before-your-run-1849131818)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
