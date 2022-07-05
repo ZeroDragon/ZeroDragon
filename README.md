@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Finally Format Text in Google Docs Using Basic Syntax](https://lifehacker.com/how-to-finally-format-text-in-google-docs-using-basic-s-1849137251)
+- [Dev.to/JS] [Using to Implement Image Uploading in Ruby](https://dev.to/sheridan95/using-to-implement-image-uploading-in-ruby-4862)
+- [Dev.to/JS] [Make Keyboard ShortCut in Javascript](https://dev.to/kiumad/make-keyboard-shortcut-in-javascript-46oc)
+- [Lifehacker] [The 7 Deadly Sins of Learning How to Cook](https://lifehacker.com/the-7-deadly-sins-of-learning-how-to-cook-1849135069)
 - [Dev.to/JS] [Day 0 - Birth of Dynastorm](https://dev.to/dlmarques/day-1-birth-of-dynastorm-2662)
 - [Lifehacker] [Make This Strawberry Salsa Before the Season Is Over](https://lifehacker.com/make-this-strawberry-salsa-before-the-season-is-over-1849134247)
 - [Dev.to/JS] [Why String is immutable in Javascript &lpar;Help&rpar;](https://dev.to/sojinsamuel/why-string-is-immutable-in-javascript-help-38g4)
@@ -34,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functions in JavaScript](https://dev.to/pushanverma/functions-in-javascript-2knh)
 - [Dev.to/JS] [for Loop,while loop ,do-while loop,forEach Loop and forin loop](https://dev.to/pushanverma/for-loopwhile-loop-do-while-loopforeach-loop-and-forin-loop-4a56)
 - [Dev.to/JS] [12 APIs that you as a developer will love it 💖](https://dev.to/monicafidalgo/12-apis-that-you-as-a-developer-will-love-it-4ec6)
-- [Dev.to/JS] [A practical approach to creating graphql APIs in node.js - part two&lpar;How to setup Apollo Server&rpar;](https://dev.to/princewhyte2/a-practical-approach-to-creating-graphql-apis-in-nodejs-part-twohow-to-setup-apollo-server-30on)
-- [Dev.to/JS] [Choosing The Right JavaScript Framework](https://dev.to/robin99r/choosing-the-right-javascript-framework-1nac)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 Uses for Hand Sanitizer That Aren&#39;t Cleaning Your Hands](https://lifehacker.com/10-uses-for-hand-sanitizer-that-arent-cleaning-your-han-1849131155)
 - [Lifehacker] [Why You Shouldn&#39;t Trust Fuel Cost Estimates on New Car Window Stickers](https://lifehacker.com/why-you-shouldnt-trust-fuel-cost-estimates-on-new-car-w-1849125349)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are Young People Wearing Suits to &#39;Minions&#39;?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-why-are-y-1849132606)
-- [Lifehacker] [Take Advantage of These Personal Finance Tips While You’re Still Single](https://lifehacker.com/take-advantage-of-these-personal-finance-tips-while-you-1849131207)
-- [Lifehacker] [How to Back Up Your Google Hangouts Data Before It&#39;s Gone for Good](https://lifehacker.com/how-to-back-up-your-google-hangouts-data-before-its-gon-1849130692)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
