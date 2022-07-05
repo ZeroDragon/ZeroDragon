@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Converting a Javascript project to Typescript](https://dev.to/kai_wenzel/converting-a-javascript-project-to-typescript-2jkh)
+- [Dev.to/JS] [3 JS Interactions](https://dev.to/yashkumat/3-js-interactions-3f75)
+- [Dev.to/JS] [O que é TDD?](https://dev.to/cristuker/tdd-o-que-e-e-como-comecar-15g0)
+- [Lifehacker] [How to Decide Whether a Home Renovation Is Worth the Cost](https://lifehacker.com/how-to-decide-whether-a-home-renovation-is-worth-the-co-1849142781)
 - [Lifehacker] [These Are the Best Replacements for TweetDeck on Mac](https://lifehacker.com/these-are-the-best-replacements-for-tweetdeck-on-mac-1849132982)
 - [Dev.to/JS] [Deeply Compare 2 Objects in JavaScript with Recursive Function](https://dev.to/rasaf_ibrahim/deeply-compare-2-objects-in-javascript-with-recursive-function-50j)
 - [Lifehacker] [How to Get Money Back From Southwest When Their Fares Drop](https://lifehacker.com/how-to-get-money-back-from-southwest-when-their-fares-d-1849141847)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [p5.js Sine Wave](https://dev.to/mrwolferinc/p5js-sine-wave-3730)
 - [Dev.to/JS] [Talk to your app with Alan AI](https://dev.to/asayerio_techblog/talk-to-your-app-with-alan-ai-3p3n)
 - [Dev.to/JS] [My Open Source Contribution using JavaScript to Open Sauced ft. Rizel Scarlett](https://dev.to/abeck617/my-open-source-contribution-using-javascript-to-open-sauced-ft-rizel-scarlett-1pg9)
-- [Dev.to/JS] [Invoke that Function, Call that Function.. Does this all mean the same &lpar;Or are there any Difference&rpar;](https://dev.to/sojinsamuel/invoke-that-function-call-that-function-does-this-all-mean-the-same-or-are-there-any-difference-1pki)
-- [Dev.to/JS] [ES6: Object property of undefined? Not anymore! &lpar;revised&rpar;](https://dev.to/adam_cyclones/es6-object-property-of-undefined-not-anymore-revised-26a7)
-- [Dev.to/JS] [subtitle translate video](https://dev.to/bellacio/subtitle-translate-video-5h06)
 - [Lifehacker] [It’s Not Too Late to Start Your Summer Garden](https://lifehacker.com/it-s-not-too-late-to-start-your-summer-garden-1849141457)
 - [Lifehacker] [Why Is Everyone Using NGL on Instagram?](https://lifehacker.com/why-is-everyone-using-ngl-on-instagram-1849135510)
 - [Lifehacker] [How to Finally Format Text in Google Docs Using Basic Syntax](https://lifehacker.com/how-to-finally-format-text-in-google-docs-using-basic-s-1849137251)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Rash Might Be a Sun Allergy](https://lifehacker.com/your-rash-might-be-a-sun-allergy-1849134956)
 - [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/the-best-sites-and-apps-to-track-your-books-movies-mu-1849131164)
 - [Lifehacker] [Improve Your Heart Health With This Checklist](https://lifehacker.com/improve-your-heart-health-with-this-checklist-1849134479)
-- [Lifehacker] [How to Rent an RV for $1 a Day](https://lifehacker.com/how-to-rent-an-rv-for-1-a-day-1849134033)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
