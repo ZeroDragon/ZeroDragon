@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A practical approach to creating graphql APIs in node.js - part two&lpar;How to setup Apollo Server&rpar;](https://dev.to/princewhyte2/a-practical-approach-to-creating-graphql-apis-in-nodejs-part-twohow-to-setup-apollo-server-30on)
+- [Dev.to/JS] [Choosing The Right JavaScript Framework](https://dev.to/robin99r/choosing-the-right-javascript-framework-1nac)
 - [Dev.to/JS] [Functions are Objects in javaScript](https://dev.to/aamchora/functions-are-objects-in-javascript-4jf1)
 - [Dev.to/JS] [Day 2: How I Integrated an Express JS Server with my React App.](https://dev.to/nicklane/day-2-how-i-integrated-an-express-js-server-with-my-react-app-3njf)
 - [Dev.to/JS] [Merge Two Sorted Lists using recursion ,Leetcode Problem &lpar;Leetcode:21&rpar;](https://dev.to/shubhamb/merge-two-sorted-lists-using-recursion-leetcode-problem-leetcode21-5dd9)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [if-else ,ternary Operator,switch statements in JavaScript](https://dev.to/pushanverma/if-else-ternary-operatorswitch-statements-in-javascript-3nhi)
 - [Dev.to/JS] [Arrays and Objects](https://dev.to/pushanverma/arrays-and-objects-1jof)
 - [Dev.to/JS] [Strings in JavaScript and their Important Methods](https://dev.to/pushanverma/strings-in-javascript-and-their-important-methods-5gnm)
-- [Dev.to/JS] [Why to Buy Residential Apartments in Navyug Smart Mini City Prayagraj](https://dev.to/nmbuildwell_76/why-to-buy-residential-apartments-in-navyug-smart-mini-city-prayagraj-61e)
-- [Dev.to/JS] [Introduction to syntax of Arrays and Objects](https://dev.to/pushanverma/introduction-to-syntax-of-arrays-and-objects-3h74)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
