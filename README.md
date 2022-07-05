@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Open a JavaScript IDE by going to `js.new` or a new pen on CodePen by `pen.new` and more!🤯](https://dev.to/dhammu/open-a-javascript-ide-by-going-to-jsnew-or-a-new-pen-on-codepen-by-pennew-and-more-edp)
+- [Dev.to/JS] [JavaScript check if property exists in Object](https://dev.to/dailydevtips1/javascript-check-if-property-exists-in-object-57ed)
+- [Dev.to/JS] [I created an entire dynamic website with NextJs on android!](https://dev.to/eagle1309/i-created-an-entire-dynamic-website-with-nextjs-on-android-2g9e)
 - [Dev.to/JS] [Hooks in React](https://dev.to/smohiudd1688/hooks-in-react-a75)
 - [Dev.to/JS] [#3. Creating api endpoints and routes for different functionalities ☀](https://dev.to/himanshupal0001/3-creating-api-endpoints-and-routes-for-different-functionalities-2ppe)
 - [Dev.to/JS] [Vue Js 3 - Single-File Component](https://dev.to/priteshbhoi/vue-js-3-single-file-component-11gd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Quick guide to Resize Observer](https://dev.to/murashow/quick-guide-to-resize-observer-gam)
 - [Dev.to/JS] [⚛ React Portfolio](https://dev.to/cutioluis/react-portfolio-4nnk)
 - [Dev.to/JS] [Color scheme generator js project](https://dev.to/mariamaitbella/color-scheme-generator-js-project-6j8)
-- [Dev.to/JS] [Cómo comprobar si un número es un cuadrado perfecto con Javascript](https://dev.to/victorjordan95/como-comprobar-si-un-numero-es-un-cuadrado-perfecto-con-javascript-4h5d)
-- [Dev.to/JS] [Implementing Stacks in JavaScript](https://dev.to/collins87mbathi/implementing-stack-in-javascript-37if)
-- [Dev.to/JS] [Connect a React app to the NEAR Blockchain](https://dev.to/asayerio_techblog/connect-a-react-app-to-the-near-blockchain-1f79)
 - [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
 - [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
