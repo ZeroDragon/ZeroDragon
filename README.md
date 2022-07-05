@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [File Database in Node Js part 2](https://dev.to/sfundomhlungu/file-database-in-node-js-part-2-1gn0)
+- [Lifehacker] [How to Find Out What Your Health Insurance Will Pay Beforehand](https://lifehacker.com/how-to-find-out-what-your-health-insurance-will-pay-bef-1849143837)
+- [Dev.to/JS] [JavaScript `Option` type.](https://dev.to/baenencalin/javascript-option-type-1oco)
+- [Lifehacker] [When You Should Take a Taxi Instead of a Rideshare](https://lifehacker.com/when-you-should-take-a-taxi-instead-of-a-rideshare-1849142985)
 - [Dev.to/JS] [React vs Vue - Which should you choose?](https://dev.to/anthonygilbertt/react-vs-vue-which-should-you-choose-26g1)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-car-from-sun-and-heat-damage-1849142607)
 - [Dev.to/JS] [How to Build Transport Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-transport-website-using-html-css-javascript-1f6h)
@@ -39,9 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Un viaje a las Single Page Application a través de React y JavaScript](https://dev.to/khriztianmoreno/un-viaje-a-las-single-page-application-a-traves-de-react-y-javascript-3hl4)
 - [Lifehacker] [Never Do These Things at a Nude Beach](https://lifehacker.com/never-do-these-things-at-a-nude-beach-1849142296)
 - [Dev.to/JS] [Nx 14.4 - Inputs, optional npm scope, project graph cache directory and more!](https://dev.to/nx/nx-144-inputs-optional-npm-scope-project-graph-cache-directory-and-more-4fe7)
-- [Dev.to/JS] [Why Deno won&#39;t get much success?](https://dev.to/610470416/why-deno-wont-get-much-success-5de9)
 - [Lifehacker] [Is Your Smoke Detector Good Enough?](https://lifehacker.com/is-your-smoke-detector-good-enough-1849142169)
-- [Dev.to/JS] [p5.js Sine Wave](https://dev.to/mrwolferinc/p5js-sine-wave-3730)
 - [Lifehacker] [It’s Not Too Late to Start Your Summer Garden](https://lifehacker.com/it-s-not-too-late-to-start-your-summer-garden-1849141457)
 - [Lifehacker] [Why Is Everyone Using NGL on Instagram?](https://lifehacker.com/why-is-everyone-using-ngl-on-instagram-1849135510)
 - [Lifehacker] [How to Finally Format Text in Google Docs Using Basic Syntax](https://lifehacker.com/how-to-finally-format-text-in-google-docs-using-basic-s-1849137251)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
-- [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
-- [Lifehacker] [Your Rash Might Be a Sun Allergy](https://lifehacker.com/your-rash-might-be-a-sun-allergy-1849134956)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
