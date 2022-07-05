@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React vs Vue - Which should you choose?](https://dev.to/anthonygilbertt/react-vs-vue-which-should-you-choose-26g1)
+- [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-car-from-sun-and-heat-damage-1849142607)
+- [Dev.to/JS] [How to Build Transport Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-transport-website-using-html-css-javascript-1f6h)
 - [Dev.to/JS] [Converting a Javascript project to Typescript](https://dev.to/kai_wenzel/converting-a-javascript-project-to-typescript-2jkh)
+- [Lifehacker] [You Might Actually Learn Something From This Wordle for Works of Art](https://lifehacker.com/you-might-actually-learn-something-from-this-wordle-for-1849142844)
 - [Dev.to/JS] [3 JS Interactions](https://dev.to/yashkumat/3-js-interactions-3f75)
 - [Dev.to/JS] [O que é TDD?](https://dev.to/cristuker/tdd-o-que-e-e-como-comecar-15g0)
 - [Lifehacker] [How to Decide Whether a Home Renovation Is Worth the Cost](https://lifehacker.com/how-to-decide-whether-a-home-renovation-is-worth-the-co-1849142781)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Deno won&#39;t get much success?](https://dev.to/610470416/why-deno-wont-get-much-success-5de9)
 - [Lifehacker] [Is Your Smoke Detector Good Enough?](https://lifehacker.com/is-your-smoke-detector-good-enough-1849142169)
 - [Dev.to/JS] [p5.js Sine Wave](https://dev.to/mrwolferinc/p5js-sine-wave-3730)
-- [Dev.to/JS] [Talk to your app with Alan AI](https://dev.to/asayerio_techblog/talk-to-your-app-with-alan-ai-3p3n)
-- [Dev.to/JS] [My Open Source Contribution using JavaScript to Open Sauced ft. Rizel Scarlett](https://dev.to/abeck617/my-open-source-contribution-using-javascript-to-open-sauced-ft-rizel-scarlett-1pg9)
 - [Lifehacker] [It’s Not Too Late to Start Your Summer Garden](https://lifehacker.com/it-s-not-too-late-to-start-your-summer-garden-1849141457)
 - [Lifehacker] [Why Is Everyone Using NGL on Instagram?](https://lifehacker.com/why-is-everyone-using-ngl-on-instagram-1849135510)
 - [Lifehacker] [How to Finally Format Text in Google Docs Using Basic Syntax](https://lifehacker.com/how-to-finally-format-text-in-google-docs-using-basic-s-1849137251)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Lifehacker] [The Best Alternatives When You&#39;re Out of Laundry Detergent](https://lifehacker.com/the-best-alternatives-when-youre-out-of-laundry-deterge-1849134905)
 - [Lifehacker] [Your Rash Might Be a Sun Allergy](https://lifehacker.com/your-rash-might-be-a-sun-allergy-1849134956)
-- [Lifehacker] [The Best Sites and Apps to Track Your Books, Movies, Music, and Video Games](https://lifehacker.com/the-best-sites-and-apps-to-track-your-books-movies-mu-1849131164)
-- [Lifehacker] [Improve Your Heart Health With This Checklist](https://lifehacker.com/improve-your-heart-health-with-this-checklist-1849134479)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
