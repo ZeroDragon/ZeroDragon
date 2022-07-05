@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [No-code tools expected to increase in usage for years](https://dev.to/richkurtzman/no-code-tools-expected-to-increase-in-usage-for-years-429b)
+- [Dev.to/JS] [Angular &amp; RxJS Tips #5: Multiple Http calls - combineLatest vs forkJoin](https://dev.to/fabiobiondi/angular-rxjs-tips-5-multiple-http-calls-combinelatest-vs-forkjoin-2ni5)
+- [Dev.to/JS] [Angular &amp; RxJS Tips #4: HttpClient &amp; Reactive Forms](https://dev.to/fabiobiondi/angular-rxjs-tips-4-httpclient-reactive-forms-5e67)
+- [Dev.to/JS] [Angular &amp; RxJS Tips #3: HttpClient &amp; Router Params](https://dev.to/fabiobiondi/angular-rxjs-tips-3-httpclient-router-params-5gf6)
+- [Dev.to/JS] [Angular &amp; RxJS Tips #2: Higher Order Observables - switchMap vs mergeMap vs concatMap vs exhaustMap](https://dev.to/fabiobiondi/angular-rxjs-tips-2-higher-order-observables-switchmap-vs-mergemap-vs-concatmap-vs-exhaustmap-cg8)
+- [Dev.to/JS] [Angular &amp; RxJS Tips #1: HttpClient &amp; Async Pipe](https://dev.to/fabiobiondi/angular-rxjs-tips-1-httpclient-async-pipe-5em5)
+- [Dev.to/JS] [Geolocation Tutorial - Get User Location using Vanilla JS](https://dev.to/thedevdrawer/geolocation-tutorial-get-user-location-using-vanilla-js-46a)
+- [Lifehacker] [The Difference Between Clarified Butter and Ghee](https://lifehacker.com/the-difference-between-clarified-butter-and-ghee-1849143100)
 - [Dev.to/JS] [File Database in Node Js part 2](https://dev.to/sfundomhlungu/file-database-in-node-js-part-2-1gn0)
 - [Lifehacker] [How to Find Out What Your Health Insurance Will Pay Beforehand](https://lifehacker.com/how-to-find-out-what-your-health-insurance-will-pay-bef-1849143837)
 - [Dev.to/JS] [JavaScript `Option` type.](https://dev.to/baenencalin/javascript-option-type-1oco)
@@ -32,17 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build Transport Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-transport-website-using-html-css-javascript-1f6h)
 - [Dev.to/JS] [Converting a Javascript project to Typescript](https://dev.to/kai_wenzel/converting-a-javascript-project-to-typescript-2jkh)
 - [Lifehacker] [You Might Actually Learn Something From This Wordle for Works of Art](https://lifehacker.com/you-might-actually-learn-something-from-this-wordle-for-1849142844)
-- [Dev.to/JS] [3 JS Interactions](https://dev.to/yashkumat/3-js-interactions-3f75)
-- [Dev.to/JS] [O que é TDD?](https://dev.to/cristuker/tdd-o-que-e-e-como-comecar-15g0)
 - [Lifehacker] [How to Decide Whether a Home Renovation Is Worth the Cost](https://lifehacker.com/how-to-decide-whether-a-home-renovation-is-worth-the-co-1849142781)
 - [Lifehacker] [These Are the Best Replacements for TweetDeck on Mac](https://lifehacker.com/these-are-the-best-replacements-for-tweetdeck-on-mac-1849132982)
-- [Dev.to/JS] [Deeply Compare 2 Objects in JavaScript with Recursive Function](https://dev.to/rasaf_ibrahim/deeply-compare-2-objects-in-javascript-with-recursive-function-50j)
 - [Lifehacker] [How to Get Money Back From Southwest When Their Fares Drop](https://lifehacker.com/how-to-get-money-back-from-southwest-when-their-fares-d-1849141847)
-- [Dev.to/JS] [Cool sign up page design using HTML, CSS, and Javascript](https://dev.to/incoderweb/cool-sign-up-page-design-using-html-css-and-javascript-1m3j)
-- [Dev.to/JS] [Bootstrap 5 Button Loading Example Using Javascript](https://dev.to/w3hubs/bootstrap-5-button-loading-example-using-javascript-420j)
-- [Dev.to/JS] [Un viaje a las Single Page Application a través de React y JavaScript](https://dev.to/khriztianmoreno/un-viaje-a-las-single-page-application-a-traves-de-react-y-javascript-3hl4)
 - [Lifehacker] [Never Do These Things at a Nude Beach](https://lifehacker.com/never-do-these-things-at-a-nude-beach-1849142296)
-- [Dev.to/JS] [Nx 14.4 - Inputs, optional npm scope, project graph cache directory and more!](https://dev.to/nx/nx-144-inputs-optional-npm-scope-project-graph-cache-directory-and-more-4fe7)
 - [Lifehacker] [Is Your Smoke Detector Good Enough?](https://lifehacker.com/is-your-smoke-detector-good-enough-1849142169)
 - [Lifehacker] [It’s Not Too Late to Start Your Summer Garden](https://lifehacker.com/it-s-not-too-late-to-start-your-summer-garden-1849141457)
 - [Lifehacker] [Why Is Everyone Using NGL on Instagram?](https://lifehacker.com/why-is-everyone-using-ngl-on-instagram-1849135510)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prevent Swimmer&#39;s Ear](https://lifehacker.com/how-to-prevent-swimmers-ear-1849136083)
 - [Lifehacker] [The Best Way to Serve Cold Food During Your Cookout](https://lifehacker.com/the-best-way-to-serve-cold-food-during-your-cookout-1849136088)
 - [Lifehacker] [Make Your Dirty Martini With Tequila](https://lifehacker.com/fuck-it-make-your-dirty-martini-with-tequila-1849135066)
-- [Lifehacker] [The Difference Between Emotional Neglect and Emotional Invalidation &lpar;and How They Affect Children&rpar;](https://lifehacker.com/the-difference-between-emotional-neglect-and-emotional-1849134036)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
