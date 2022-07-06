@@ -23,8 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Reduct Storage Client SDK for JavaScript 0.5 released](https://dev.to/reduct-storage/reduct-storage-client-sdk-for-javascript-05-released-21i6)
+- [Dev.to/JS] [Style your React.js website faster with Stylify CSS](https://dev.to/machy8/style-your-reactjs-website-faster-with-stylify-css-3m0)
+- [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
 - [Dev.to/JS] [Stripe API calls from Airtable scripts](https://dev.to/stripe/stripe-api-calls-from-airtable-scripts-31cm)
 - [Dev.to/JS] [Calculating the Mean of an Array in JavaScript](https://dev.to/mrwolferinc/calculating-the-mean-of-an-array-in-javascript-3f1e)
+- [Lifehacker] [What to Do When There&#39;s an Excessive Heat Warning](https://lifehacker.com/what-to-do-when-theres-an-excessive-heat-warning-1849148961)
 - [Dev.to/JS] [Learn Front-End Web Development from Scratch](https://dev.to/itsrennyman/learn-front-end-web-development-from-scratch-56cb)
 - [Dev.to/JS] [Array.prototype.reduce&lpar;&rpar;](https://dev.to/esdev/arrayprototypereduce-fd)
 - [Dev.to/JS] [Execution of JS Code](https://dev.to/aishanipach/execution-of-js-code-44ea)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to Use Your Leftover Amarena Cherry Syrup](https://lifehacker.com/four-ways-to-use-your-leftover-amarena-cherry-syrup-1849144181)
 - [Lifehacker] [Update Chrome ASAP on Android and Windows](https://lifehacker.com/update-chrome-asap-on-android-and-windows-1849147018)
 - [Dev.to/JS] [Kaedim | Made with Next JS](https://dev.to/madewithjavascript/kaedim-made-with-next-js-4eb6)
-- [Dev.to/JS] [Top IT Company of Bangladesh](https://dev.to/iamraufu/top-it-company-of-bangladesh-1opf)
-- [Dev.to/JS] [Adding tests to your Discord Bot - Discord Bot Series &lpar;Part 3&rpar;](https://dev.to/kevinschildhorn/adding-tests-to-your-discord-bot-discord-bot-series-part-3-513)
 - [Lifehacker] [These Credit Cards Have the Best Built-In Travel Insurance](https://lifehacker.com/these-credit-cards-have-the-best-built-in-travel-insura-1849146516)
 - [Lifehacker] [How to Never Pay Full Price for an iPhone App Again](https://lifehacker.com/how-to-never-pay-full-price-for-an-iphone-app-again-1849146728)
 - [Lifehacker] [How to Never Get Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Replacements for TweetDeck on Mac](https://lifehacker.com/these-are-the-best-replacements-for-tweetdeck-on-mac-1849132982)
 - [Lifehacker] [How to Get Money Back From Southwest When Their Fares Drop](https://lifehacker.com/how-to-get-money-back-from-southwest-when-their-fares-d-1849141847)
 - [Lifehacker] [Never Do These Things at a Nude Beach](https://lifehacker.com/never-do-these-things-at-a-nude-beach-1849142296)
-- [Lifehacker] [Is Your Smoke Detector Good Enough?](https://lifehacker.com/is-your-smoke-detector-good-enough-1849142169)
-- [Lifehacker] [It’s Not Too Late to Start Your Summer Garden](https://lifehacker.com/it-s-not-too-late-to-start-your-summer-garden-1849141457)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
