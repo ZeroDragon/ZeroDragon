@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Stripe API calls from Airtable scripts](https://dev.to/stripe/stripe-api-calls-from-airtable-scripts-31cm)
+- [Dev.to/JS] [Calculating the Mean of an Array in JavaScript](https://dev.to/mrwolferinc/calculating-the-mean-of-an-array-in-javascript-3f1e)
+- [Dev.to/JS] [Learn Front-End Web Development from Scratch](https://dev.to/itsrennyman/learn-front-end-web-development-from-scratch-56cb)
 - [Dev.to/JS] [Array.prototype.reduce&lpar;&rpar;](https://dev.to/esdev/arrayprototypereduce-fd)
 - [Dev.to/JS] [Execution of JS Code](https://dev.to/aishanipach/execution-of-js-code-44ea)
 - [Dev.to/JS] [Hoisting in Javascript](https://dev.to/deepachaurasia1/hoisting-in-javascript-2ep3)
@@ -37,12 +40,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top IT Company of Bangladesh](https://dev.to/iamraufu/top-it-company-of-bangladesh-1opf)
 - [Dev.to/JS] [Adding tests to your Discord Bot - Discord Bot Series &lpar;Part 3&rpar;](https://dev.to/kevinschildhorn/adding-tests-to-your-discord-bot-discord-bot-series-part-3-513)
 - [Lifehacker] [These Credit Cards Have the Best Built-In Travel Insurance](https://lifehacker.com/these-credit-cards-have-the-best-built-in-travel-insura-1849146516)
-- [Dev.to/JS] [6.2 Polishing your Firebase webapp - Responsive / Adaptive Design - a React &quot;cards&quot; layout example.](https://dev.to/mjoycemilburn/62-polishing-your-firebase-webapp-responsive-adaptive-design-a-react-cards-layout-example-k0l)
 - [Lifehacker] [How to Never Pay Full Price for an iPhone App Again](https://lifehacker.com/how-to-never-pay-full-price-for-an-iphone-app-again-1849146728)
 - [Lifehacker] [How to Never Get Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
-- [Dev.to/JS] [Web Components at Big Tech Companies: Github](https://dev.to/mariusbongarts/web-components-at-big-tech-companies-github-1l0m)
 - [Lifehacker] [The Simplest Way to Make Your Android Run Faster](https://lifehacker.com/the-simplest-way-to-make-your-android-run-faster-1849146167)
-- [Dev.to/JS] [Kohomai | Made with React JS](https://dev.to/madewithjavascript/kohomai-made-with-react-js-3m66)
 - [Lifehacker] [25 of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/25-of-the-best-movies-based-on-mythology-and-folklore-1849139098)
 - [Lifehacker] [8 Social Quandaries That Will Make You Doubt Our Shared Reality](https://lifehacker.com/8-social-quandaries-that-will-make-you-doubt-our-shared-1849144732)
 - [Lifehacker] [You Should Fry a Hard Boiled Egg](https://lifehacker.com/you-should-fry-a-hard-boiled-egg-1849144291)
