@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Array.prototype.reduce&lpar;&rpar;](https://dev.to/esdev/arrayprototypereduce-fd)
+- [Dev.to/JS] [Execution of JS Code](https://dev.to/aishanipach/execution-of-js-code-44ea)
+- [Dev.to/JS] [Hoisting in Javascript](https://dev.to/deepachaurasia1/hoisting-in-javascript-2ep3)
+- [Lifehacker] [Three Easy Ways to Lower Your Monthly Energy Bill](https://lifehacker.com/three-easy-ways-to-lower-your-monthly-energy-bill-1849147465)
+- [Dev.to/JS] [How to create Electron app with Vite 2 with minimal boilerplate](https://dev.to/rafaelpimpa/how-to-create-electron-app-with-vite-2-with-minimal-boilerplate-4did)
+- [Dev.to/JS] [Recreate Pokemon game in 70 lines of JavaScript](https://dev.to/marinsborg/recreate-pokemon-game-in-70-lines-of-javascript-1m3h)
 - [Lifehacker] [Your Kitchen Scale&#39;s &quot;Fluid Ounces&quot; Setting Is a Lie](https://lifehacker.com/your-kitchen-scales-fluid-ounces-setting-is-a-lie-1849147616)
 - [Dev.to/JS] [DevTools-like JavaScript Object Viewer](https://dev.to/mcanam/devtools-like-javascript-object-viewer-n5g)
 - [Lifehacker] [Four Ways to Use Your Leftover Amarena Cherry Syrup](https://lifehacker.com/four-ways-to-use-your-leftover-amarena-cherry-syrup-1849144181)
@@ -38,12 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Simplest Way to Make Your Android Run Faster](https://lifehacker.com/the-simplest-way-to-make-your-android-run-faster-1849146167)
 - [Dev.to/JS] [Kohomai | Made with React JS](https://dev.to/madewithjavascript/kohomai-made-with-react-js-3m66)
 - [Lifehacker] [25 of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/25-of-the-best-movies-based-on-mythology-and-folklore-1849139098)
-- [Dev.to/JS] [How to Build Todo App With Vanilla JavaScript](https://dev.to/codewithsadee/build-todo-app-with-vanilla-javascript-2bnn)
-- [Dev.to/JS] [Symfony Station Communiqué - 1 July 2022. A look at Symfony, PHP, and Cybersecurity News](https://dev.to/reubenwalker64/symfony-station-communique-1-july-2022-a-look-at-symfony-php-and-cybersecurity-news-e77)
-- [Dev.to/JS] [Can you list out some amazing things Javascript can do](https://dev.to/sojinsamuel/can-you-list-out-some-amazing-things-javascript-can-do-95k)
 - [Lifehacker] [8 Social Quandaries That Will Make You Doubt Our Shared Reality](https://lifehacker.com/8-social-quandaries-that-will-make-you-doubt-our-shared-1849144732)
-- [Dev.to/JS] [Angular &amp; RxJS Tips #1: HttpClient &amp; Async Pipe](https://dev.to/fabiobiondi/angular-rxjs-tips-1-httpclient-async-pipe-2dp3)
-- [Dev.to/JS] [Using Insomnia to Upgrade Dependencies — with Confidence](https://dev.to/thawkin3/using-insomnia-to-upgrade-dependencies-with-confidence-4l3)
 - [Lifehacker] [You Should Fry a Hard Boiled Egg](https://lifehacker.com/you-should-fry-a-hard-boiled-egg-1849144291)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Never Do These Things at a Nude Beach](https://lifehacker.com/never-do-these-things-at-a-nude-beach-1849142296)
 - [Lifehacker] [Is Your Smoke Detector Good Enough?](https://lifehacker.com/is-your-smoke-detector-good-enough-1849142169)
 - [Lifehacker] [It’s Not Too Late to Start Your Summer Garden](https://lifehacker.com/it-s-not-too-late-to-start-your-summer-garden-1849141457)
-- [Lifehacker] [Why Is Everyone Using NGL on Instagram?](https://lifehacker.com/why-is-everyone-using-ngl-on-instagram-1849135510)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
