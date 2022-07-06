@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ReactJS Demo Project - Party Planner Web App - Github](https://dev.to/santosh3700/reactjs-demo-project-party-planner-web-app-github-5c9e)
+- [Dev.to/JS] [Bluewaters ?](https://dev.to/wounddoading/bluewaters--2jlm)
+- [Dev.to/JS] [JavaScript: What the **** is Recursion?](https://dev.to/aor2405/javascript-what-the-is-recursion-3770)
+- [Dev.to/JS] [Let&#39;s build an AI Tic-Tac-Toe in React within 1 hour](https://dev.to/sadeedpv/lets-build-an-ai-tic-tac-toe-in-react-within-1-hour-nkk)
 - [Dev.to/JS] [X marks the &#39;ngin&#39;](https://dev.to/iamgjert/x-marks-the-ngin-58jj)
 - [Dev.to/JS] [Bun.sh - A fast all-in-one JavaScript runtime powered by ZIG](https://dev.to/jeromek13/bunsh-a-fast-all-in-one-javascript-runtime-powered-by-zig-55cj)
 - [Dev.to/JS] [Why svelte is the best web framework !!](https://dev.to/mahmoudshalaby/why-svelte-is-the-best-web-framework--2l6m)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript overwrite property in an Object](https://dev.to/dailydevtips1/javascript-overwrite-property-in-an-object-3g32)
 - [Dev.to/JS] [Add Github Star Icon to your project in just 1 HTML tag](https://dev.to/gulshanaggarwal/add-github-star-icon-to-your-project-in-just-1-html-tag-2nc0)
 - [Dev.to/JS] [The concept of Triple CCC: Currying, Closure, Callback in JavaScript](https://dev.to/rahulbanerjee99/the-concept-of-triple-ccc-currying-closure-callback-in-javascript-5a14)
-- [Dev.to/JS] [Appwrite: Get it cause we write Apps](https://dev.to/hyperthd/appwrite-get-it-cause-we-write-apps-1bi3)
-- [Dev.to/JS] [Moving A Laravel Webpack Project To Vite](https://dev.to/sureshramani/moving-a-laravel-webpack-project-to-vite-2f22)
-- [Dev.to/JS] [Build a Basic CRUD App with Laravel 9 and React.js](https://dev.to/sureshramani/build-a-basic-crud-app-with-laravel-9-and-reactjs-49e)
-- [Dev.to/JS] [Github Repositories to learn Javascript](https://dev.to/glowreeyah/github-repositories-to-learn-javascript-19me)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
 - [Lifehacker] [The Best Way to Respond When Someone Insults You](https://lifehacker.com/the-best-way-to-respond-when-someone-insults-you-1849144070)
