@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Fry a Hard Boiled Egg](https://lifehacker.com/you-should-fry-a-hard-boiled-egg-1849144291)
+- [Dev.to/JS] [hello world~](https://dev.to/ofthewildfire/hello-world-4j8g)
+- [Dev.to/JS] [Experimental class composition with Angular 14](https://dev.to/mmuscat/experimental-class-composition-with-angular-14-ief)
+- [Dev.to/JS] [How to Connect Stripe to Vue.js?](https://dev.to/denisseab/how-to-connect-stripe-to-vuejs-ikl)
 - [Dev.to/JS] [5.2M Developers Joined the Javascript Community in the Last Two Years](https://dev.to/stateofdevnation/52m-developers-joined-the-javascript-community-in-the-last-two-years-2ipi)
 - [Dev.to/JS] [JavaScript Portfolio](https://dev.to/mohitbilala/javascript-portfolio-484d)
 - [Dev.to/JS] [I Hope to work with this age](https://dev.to/mahmoudshalaby/i-hope-to-work-with-this-age-59bo)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Implementing VideoJs in Ruby on Rails](https://dev.to/timnans/implementing-videojs-in-ruby-on-rails-72h)
 - [Dev.to/JS] [what is createAsyncThunk in redux ?](https://dev.to/masterifeanyi/what-is-createasyncthunk-in-redux--mhe)
 - [Dev.to/JS] [CFP for Devoxx Morocco is still open!](https://dev.to/essaydyoumayma/cfp-for-devoxx-morocco-is-still-open-inn)
-- [Dev.to/JS] [Educational App Development: 15 Must-Have Features for Smart and Systematic Learning](https://dev.to/ameliawenham/educational-app-development-15-must-have-features-for-smart-and-systematic-learning-1mc)
-- [Dev.to/JS] [What is a deep dive session in Devoxx Morocco?](https://dev.to/essaydyoumayma/what-is-a-deep-dive-session-in-devoxx-morocco-43jf)
-- [Dev.to/JS] [ReactJS Demo Project - Party Planner Web App - Github](https://dev.to/santosh3700/reactjs-demo-project-party-planner-web-app-github-5c9e)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
 - [Lifehacker] [The Best Way to Respond When Someone Insults You](https://lifehacker.com/the-best-way-to-respond-when-someone-insults-you-1849144070)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
 - [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
 - [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
-- [Lifehacker] [How to Make Your Hydrangeas Change Color](https://lifehacker.com/how-to-make-your-hydrangeas-change-color-1849136056)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
