@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Moving A Laravel Webpack Project To Vite](https://dev.to/sureshramani/moving-a-laravel-webpack-project-to-vite-2f22)
+- [Dev.to/JS] [Build a Basic CRUD App with Laravel 9 and React.js](https://dev.to/sureshramani/build-a-basic-crud-app-with-laravel-9-and-reactjs-49e)
 - [Dev.to/JS] [Github Repositories to learn Javascript](https://dev.to/glowreeyah/github-repositories-to-learn-javascript-19me)
 - [Dev.to/JS] [Const is applicable on For of Loops but not on For Loops &lpar;Why&rpar;](https://dev.to/sojinsamuel/const-is-applicable-on-for-of-loops-but-not-on-for-loops-why-4f6a)
 - [Dev.to/JS] [Filter out the geese &lpar;Codewars - 8kyu&rpar;](https://dev.to/juliafmorgado/filter-out-the-geese-codewars-8kyu-4mea)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Angular &amp; RxJS Tips #3: HttpClient &amp; Router Params](https://dev.to/fabiobiondi/angular-rxjs-tips-3-httpclient-router-params-5gf6)
 - [Dev.to/JS] [Angular &amp; RxJS Tips #2: Higher Order Observables - switchMap vs mergeMap vs concatMap vs exhaustMap](https://dev.to/fabiobiondi/angular-rxjs-tips-2-higher-order-observables-switchmap-vs-mergemap-vs-concatmap-vs-exhaustmap-cg8)
 - [Dev.to/JS] [Angular &amp; RxJS Tips #1: HttpClient &amp; Async Pipe](https://dev.to/fabiobiondi/angular-rxjs-tips-1-httpclient-async-pipe-5em5)
-- [Dev.to/JS] [Geolocation Tutorial - Get User Location using Vanilla JS](https://dev.to/thedevdrawer/geolocation-tutorial-get-user-location-using-vanilla-js-46a)
 - [Lifehacker] [The Difference Between Clarified Butter and Ghee](https://lifehacker.com/the-difference-between-clarified-butter-and-ghee-1849143100)
-- [Dev.to/JS] [File Database in Node Js part 2](https://dev.to/sfundomhlungu/file-database-in-node-js-part-2-1gn0)
 - [Lifehacker] [How to Find Out What Your Health Insurance Will Pay Beforehand](https://lifehacker.com/how-to-find-out-what-your-health-insurance-will-pay-bef-1849143837)
 - [Lifehacker] [When You Should Take a Taxi Instead of a Rideshare](https://lifehacker.com/when-you-should-take-a-taxi-instead-of-a-rideshare-1849142985)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-car-from-sun-and-heat-damage-1849142607)
