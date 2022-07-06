@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Kohomai | Made with React JS](https://dev.to/madewithjavascript/kohomai-made-with-react-js-3m66)
+- [Lifehacker] [25 of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/25-of-the-best-movies-based-on-mythology-and-folklore-1849139098)
+- [Dev.to/JS] [Build Todo App With Vanilla JavaScript](https://dev.to/codewithsadee/build-todo-app-with-vanilla-javascript-2bnn)
+- [Dev.to/JS] [Symfony Station Communiqué - 1 July 2022. A look at Symfony, PHP, and Cybersecurity News](https://dev.to/reubenwalker64/symfony-station-communique-1-july-2022-a-look-at-symfony-php-and-cybersecurity-news-e77)
+- [Dev.to/JS] [Can you list out some amazing things Javascript can do](https://dev.to/sojinsamuel/can-you-list-out-some-amazing-things-javascript-can-do-95k)
+- [Lifehacker] [8 Social Quandaries That Will Make You Doubt Our Shared Reality](https://lifehacker.com/8-social-quandaries-that-will-make-you-doubt-our-shared-1849144732)
+- [Dev.to/JS] [Angular &amp; RxJS Tips #1: HttpClient &amp; Async Pipe](https://dev.to/fabiobiondi/angular-rxjs-tips-1-httpclient-async-pipe-2dp3)
+- [Dev.to/JS] [Using Insomnia to Upgrade Dependencies — with Confidence](https://dev.to/thawkin3/using-insomnia-to-upgrade-dependencies-with-confidence-4l3)
 - [Lifehacker] [You Should Fry a Hard Boiled Egg](https://lifehacker.com/you-should-fry-a-hard-boiled-egg-1849144291)
 - [Dev.to/JS] [hello world~](https://dev.to/ofthewildfire/hello-world-4j8g)
 - [Dev.to/JS] [Experimental class composition with Angular 14](https://dev.to/mmuscat/experimental-class-composition-with-angular-14-ief)
@@ -30,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5.2M Developers Joined the Javascript Community in the Last Two Years](https://dev.to/stateofdevnation/52m-developers-joined-the-javascript-community-in-the-last-two-years-2ipi)
 - [Dev.to/JS] [JavaScript Portfolio](https://dev.to/mohitbilala/javascript-portfolio-484d)
 - [Dev.to/JS] [I Hope to work with this age](https://dev.to/mahmoudshalaby/i-hope-to-work-with-this-age-59bo)
-- [Dev.to/JS] [Zustand: simple, modern state management for React](https://dev.to/asayerio_techblog/zustand-simple-modern-state-management-for-react-3ann)
-- [Dev.to/JS] [Build a URL Shortener in React with Shrtcode](https://dev.to/asayerio_techblog/build-a-url-shortener-in-react-with-shrtcode-375)
-- [Dev.to/JS] [Testing Your Upgradeable Smart Contract](https://dev.to/abhikbanerjee99/testing-your-upgradeable-smart-contract-2fjd)
-- [Dev.to/JS] [Implementing VideoJs in Ruby on Rails](https://dev.to/timnans/implementing-videojs-in-ruby-on-rails-72h)
-- [Dev.to/JS] [what is createAsyncThunk in redux ?](https://dev.to/masterifeanyi/what-is-createasyncthunk-in-redux--mhe)
-- [Dev.to/JS] [CFP for Devoxx Morocco is still open!](https://dev.to/essaydyoumayma/cfp-for-devoxx-morocco-is-still-open-inn)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
 - [Lifehacker] [The Best Way to Respond When Someone Insults You](https://lifehacker.com/the-best-way-to-respond-when-someone-insults-you-1849144070)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Lifehacker] [How to Make Your Car Battery Last Longer Than You Think](https://lifehacker.com/how-to-make-your-car-battery-last-longer-than-you-think-1849137022)
-- [Lifehacker] [Your Wood Furniture Needs a Walnut](https://lifehacker.com/your-wood-furniture-needs-a-walnut-1849137027)
-- [Lifehacker] [How to Soften Rough, Scratchy Sheets Without Fabric Softener](https://lifehacker.com/how-to-soften-rough-scratchy-sheets-without-fabric-sof-1849137033)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
 
