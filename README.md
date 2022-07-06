@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript overwrite property in an Object](https://dev.to/dailydevtips1/javascript-overwrite-property-in-an-object-3g32)
+- [Dev.to/JS] [Add Github Star Icon to your project in just 1 HTML tag](https://dev.to/gulshanaggarwal/add-github-star-icon-to-your-project-in-just-1-html-tag-2nc0)
 - [Dev.to/JS] [The concept of Triple CCC: Currying, Closure, Callback in JavaScript](https://dev.to/rahulbanerjee99/the-concept-of-triple-ccc-currying-closure-callback-in-javascript-5a14)
 - [Dev.to/JS] [Appwrite: Get it cause we write Apps](https://dev.to/hyperthd/appwrite-get-it-cause-we-write-apps-1bi3)
 - [Dev.to/JS] [Moving A Laravel Webpack Project To Vite](https://dev.to/sureshramani/moving-a-laravel-webpack-project-to-vite-2f22)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Respond When Someone Insults You](https://lifehacker.com/the-best-way-to-respond-when-someone-insults-you-1849144070)
 - [Dev.to/JS] [No-code tools expected to increase in usage for years](https://dev.to/richkurtzman/no-code-tools-expected-to-increase-in-usage-for-years-429b)
 - [Dev.to/JS] [Angular &amp; RxJS Tips #5: Multiple Http calls - combineLatest vs forkJoin](https://dev.to/fabiobiondi/angular-rxjs-tips-5-multiple-http-calls-combinelatest-vs-forkjoin-2ni5)
-- [Dev.to/JS] [Angular &amp; RxJS Tips #4: HttpClient &amp; Reactive Forms](https://dev.to/fabiobiondi/angular-rxjs-tips-4-httpclient-reactive-forms-5e67)
-- [Dev.to/JS] [Angular &amp; RxJS Tips #3: HttpClient &amp; Router Params](https://dev.to/fabiobiondi/angular-rxjs-tips-3-httpclient-router-params-5gf6)
 - [Lifehacker] [The Difference Between Clarified Butter and Ghee](https://lifehacker.com/the-difference-between-clarified-butter-and-ghee-1849143100)
 - [Lifehacker] [How to Find Out What Your Health Insurance Will Pay Beforehand](https://lifehacker.com/how-to-find-out-what-your-health-insurance-will-pay-bef-1849143837)
 - [Lifehacker] [When You Should Take a Taxi Instead of a Rideshare](https://lifehacker.com/when-you-should-take-a-taxi-instead-of-a-rideshare-1849142985)
