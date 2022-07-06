@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Github Repositories to learn Javascript](https://dev.to/glowreeyah/github-repositories-to-learn-javascript-19me)
 - [Dev.to/JS] [Const is applicable on For of Loops but not on For Loops &lpar;Why&rpar;](https://dev.to/sojinsamuel/const-is-applicable-on-for-of-loops-but-not-on-for-loops-why-4f6a)
 - [Dev.to/JS] [Filter out the geese &lpar;Codewars - 8kyu&rpar;](https://dev.to/juliafmorgado/filter-out-the-geese-codewars-8kyu-4mea)
 - [Dev.to/JS] [OPEN SOURCE](https://dev.to/abhisehkdev/open-source-33g6)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Clarified Butter and Ghee](https://lifehacker.com/the-difference-between-clarified-butter-and-ghee-1849143100)
 - [Dev.to/JS] [File Database in Node Js part 2](https://dev.to/sfundomhlungu/file-database-in-node-js-part-2-1gn0)
 - [Lifehacker] [How to Find Out What Your Health Insurance Will Pay Beforehand](https://lifehacker.com/how-to-find-out-what-your-health-insurance-will-pay-bef-1849143837)
-- [Dev.to/JS] [JavaScript `Option` type.](https://dev.to/baenencalin/javascript-option-type-1oco)
 - [Lifehacker] [When You Should Take a Taxi Instead of a Rideshare](https://lifehacker.com/when-you-should-take-a-taxi-instead-of-a-rideshare-1849142985)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-car-from-sun-and-heat-damage-1849142607)
 - [Lifehacker] [You Might Actually Learn Something From This Wordle for Works of Art](https://lifehacker.com/you-might-actually-learn-something-from-this-wordle-for-1849142844)
