@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Four Ways to Use Your Leftover Amarena Cherry Syrup](https://lifehacker.com/four-ways-to-use-your-leftover-amarena-cherry-syrup-1849144181)
+- [Lifehacker] [Update Chrome ASAP on Android and Windows](https://lifehacker.com/update-chrome-asap-on-android-and-windows-1849147018)
+- [Dev.to/JS] [Kaedim | Made with Next JS](https://dev.to/madewithjavascript/kaedim-made-with-next-js-4eb6)
 - [Dev.to/JS] [Top IT Company of Bangladesh](https://dev.to/iamraufu/top-it-company-of-bangladesh-1opf)
 - [Dev.to/JS] [Adding tests to your Discord Bot - Discord Bot Series &lpar;Part 3&rpar;](https://dev.to/kevinschildhorn/adding-tests-to-your-discord-bot-discord-bot-series-part-3-513)
 - [Lifehacker] [These Credit Cards Have the Best Built-In Travel Insurance](https://lifehacker.com/these-credit-cards-have-the-best-built-in-travel-insura-1849146516)
@@ -41,7 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Using Insomnia to Upgrade Dependencies — with Confidence](https://dev.to/thawkin3/using-insomnia-to-upgrade-dependencies-with-confidence-4l3)
 - [Lifehacker] [You Should Fry a Hard Boiled Egg](https://lifehacker.com/you-should-fry-a-hard-boiled-egg-1849144291)
 - [Dev.to/JS] [hello world~](https://dev.to/ofthewildfire/hello-world-4j8g)
-- [Dev.to/JS] [Experimental class composition with Angular 14](https://dev.to/mmuscat/experimental-class-composition-with-angular-14-ief)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
 - [Lifehacker] [The Best Way to Respond When Someone Insults You](https://lifehacker.com/the-best-way-to-respond-when-someone-insults-you-1849144070)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [It’s Not Too Late to Start Your Summer Garden](https://lifehacker.com/it-s-not-too-late-to-start-your-summer-garden-1849141457)
 - [Lifehacker] [Why Is Everyone Using NGL on Instagram?](https://lifehacker.com/why-is-everyone-using-ngl-on-instagram-1849135510)
 - [Lifehacker] [How to Finally Format Text in Google Docs Using Basic Syntax](https://lifehacker.com/how-to-finally-format-text-in-google-docs-using-basic-s-1849137251)
-- [Lifehacker] [The 7 Deadly Sins of Learning How to Cook](https://lifehacker.com/the-7-deadly-sins-of-learning-how-to-cook-1849135069)
-- [Lifehacker] [Make This Strawberry Salsa Before the Season Is Over](https://lifehacker.com/make-this-strawberry-salsa-before-the-season-is-over-1849134247)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
