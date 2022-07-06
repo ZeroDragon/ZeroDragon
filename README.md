@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [X marks the &#39;ngin&#39;](https://dev.to/iamgjert/x-marks-the-ngin-58jj)
+- [Dev.to/JS] [Bun.sh - A fast all-in-one JavaScript runtime powered by ZIG](https://dev.to/jeromek13/bunsh-a-fast-all-in-one-javascript-runtime-powered-by-zig-55cj)
+- [Dev.to/JS] [Why svelte is the best web framework !!](https://dev.to/mahmoudshalaby/why-svelte-is-the-best-web-framework--2l6m)
 - [Dev.to/JS] [How I Integrated Live Chat into Gatsby with Tidio and Medusa](https://dev.to/medusajs/how-i-integrated-live-chat-into-gatsby-with-tidio-and-medusa-5a3i)
 - [Dev.to/JS] [Flame Effect in Text Mode](https://dev.to/artydev/flame-effect-in-text-mode-2b4f)
 - [Dev.to/JS] [JavaScript overwrite property in an Object](https://dev.to/dailydevtips1/javascript-overwrite-property-in-an-object-3g32)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Moving A Laravel Webpack Project To Vite](https://dev.to/sureshramani/moving-a-laravel-webpack-project-to-vite-2f22)
 - [Dev.to/JS] [Build a Basic CRUD App with Laravel 9 and React.js](https://dev.to/sureshramani/build-a-basic-crud-app-with-laravel-9-and-reactjs-49e)
 - [Dev.to/JS] [Github Repositories to learn Javascript](https://dev.to/glowreeyah/github-repositories-to-learn-javascript-19me)
-- [Dev.to/JS] [Const is applicable on For of Loops but not on For Loops &lpar;Why&rpar;](https://dev.to/sojinsamuel/const-is-applicable-on-for-of-loops-but-not-on-for-loops-why-4f6a)
-- [Dev.to/JS] [Filter out the geese &lpar;Codewars - 8kyu&rpar;](https://dev.to/juliafmorgado/filter-out-the-geese-codewars-8kyu-4mea)
-- [Dev.to/JS] [OPEN SOURCE](https://dev.to/abhisehkdev/open-source-33g6)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
 - [Lifehacker] [The Best Way to Respond When Someone Insults You](https://lifehacker.com/the-best-way-to-respond-when-someone-insults-you-1849144070)
