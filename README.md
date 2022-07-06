@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [5.2M Developers Joined the Javascript Community in the Last Two Years](https://dev.to/stateofdevnation/52m-developers-joined-the-javascript-community-in-the-last-two-years-2ipi)
+- [Dev.to/JS] [JavaScript Portfolio](https://dev.to/mohitbilala/javascript-portfolio-484d)
+- [Dev.to/JS] [I Hope to work with this age](https://dev.to/mahmoudshalaby/i-hope-to-work-with-this-age-59bo)
+- [Dev.to/JS] [Zustand: simple, modern state management for React](https://dev.to/asayerio_techblog/zustand-simple-modern-state-management-for-react-3ann)
 - [Dev.to/JS] [Build a URL Shortener in React with Shrtcode](https://dev.to/asayerio_techblog/build-a-url-shortener-in-react-with-shrtcode-375)
 - [Dev.to/JS] [Testing Your Upgradeable Smart Contract](https://dev.to/abhikbanerjee99/testing-your-upgradeable-smart-contract-2fjd)
-- [Dev.to/JS] [The Most Comprehensive Guide on WebRTC](https://dev.to/yashsrivastava176/the-most-comprehensive-guide-on-webrtc-5051)
 - [Dev.to/JS] [Implementing VideoJs in Ruby on Rails](https://dev.to/timnans/implementing-videojs-in-ruby-on-rails-72h)
 - [Dev.to/JS] [what is createAsyncThunk in redux ?](https://dev.to/masterifeanyi/what-is-createasyncthunk-in-redux--mhe)
 - [Dev.to/JS] [CFP for Devoxx Morocco is still open!](https://dev.to/essaydyoumayma/cfp-for-devoxx-morocco-is-still-open-inn)
 - [Dev.to/JS] [Educational App Development: 15 Must-Have Features for Smart and Systematic Learning](https://dev.to/ameliawenham/educational-app-development-15-must-have-features-for-smart-and-systematic-learning-1mc)
 - [Dev.to/JS] [What is a deep dive session in Devoxx Morocco?](https://dev.to/essaydyoumayma/what-is-a-deep-dive-session-in-devoxx-morocco-43jf)
 - [Dev.to/JS] [ReactJS Demo Project - Party Planner Web App - Github](https://dev.to/santosh3700/reactjs-demo-project-party-planner-web-app-github-5c9e)
-- [Dev.to/JS] [Bluewaters ?](https://dev.to/wounddoading/bluewaters--2jlm)
-- [Dev.to/JS] [JavaScript: What the **** is Recursion?](https://dev.to/aor2405/javascript-what-the-is-recursion-3770)
-- [Dev.to/JS] [Let&#39;s build an AI Tic-Tac-Toe in React within 1 hour](https://dev.to/sadeedpv/lets-build-an-ai-tic-tac-toe-in-react-within-1-hour-nkk)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
 - [Lifehacker] [The Best Way to Respond When Someone Insults You](https://lifehacker.com/the-best-way-to-respond-when-someone-insults-you-1849144070)
