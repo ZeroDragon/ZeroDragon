@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Const is applicable on For of Loops but not on For Loops &lpar;Why&rpar;](https://dev.to/sojinsamuel/const-is-applicable-on-for-of-loops-but-not-on-for-loops-why-4f6a)
+- [Dev.to/JS] [Filter out the geese &lpar;Codewars - 8kyu&rpar;](https://dev.to/juliafmorgado/filter-out-the-geese-codewars-8kyu-4mea)
 - [Dev.to/JS] [OPEN SOURCE](https://dev.to/abhisehkdev/open-source-33g6)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find Out What Your Health Insurance Will Pay Beforehand](https://lifehacker.com/how-to-find-out-what-your-health-insurance-will-pay-bef-1849143837)
 - [Dev.to/JS] [JavaScript `Option` type.](https://dev.to/baenencalin/javascript-option-type-1oco)
 - [Lifehacker] [When You Should Take a Taxi Instead of a Rideshare](https://lifehacker.com/when-you-should-take-a-taxi-instead-of-a-rideshare-1849142985)
-- [Dev.to/JS] [React vs Vue - Which should you choose?](https://dev.to/anthonygilbertt/react-vs-vue-which-should-you-choose-26g1)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-car-from-sun-and-heat-damage-1849142607)
-- [Dev.to/JS] [How to Build Transport Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-transport-website-using-html-css-javascript-1f6h)
 - [Lifehacker] [You Might Actually Learn Something From This Wordle for Works of Art](https://lifehacker.com/you-might-actually-learn-something-from-this-wordle-for-1849142844)
 - [Lifehacker] [How to Decide Whether a Home Renovation Is Worth the Cost](https://lifehacker.com/how-to-decide-whether-a-home-renovation-is-worth-the-co-1849142781)
 - [Lifehacker] [These Are the Best Replacements for TweetDeck on Mac](https://lifehacker.com/these-are-the-best-replacements-for-tweetdeck-on-mac-1849132982)
