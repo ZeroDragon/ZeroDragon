@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top IT Company of Bangladesh](https://dev.to/iamraufu/top-it-company-of-bangladesh-1opf)
+- [Dev.to/JS] [Adding tests to your Discord Bot - Discord Bot Series &lpar;Part 3&rpar;](https://dev.to/kevinschildhorn/adding-tests-to-your-discord-bot-discord-bot-series-part-3-513)
+- [Lifehacker] [These Credit Cards Have the Best Built-In Travel Insurance](https://lifehacker.com/these-credit-cards-have-the-best-built-in-travel-insura-1849146516)
+- [Dev.to/JS] [6.2 Polishing your Firebase webapp - Responsive / Adaptive Design - a React &quot;cards&quot; layout example.](https://dev.to/mjoycemilburn/62-polishing-your-firebase-webapp-responsive-adaptive-design-a-react-cards-layout-example-k0l)
+- [Lifehacker] [How to Never Pay Full Price for an iPhone App Again](https://lifehacker.com/how-to-never-pay-full-price-for-an-iphone-app-again-1849146728)
+- [Lifehacker] [How to Never Get Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
 - [Dev.to/JS] [Web Components at Big Tech Companies: Github](https://dev.to/mariusbongarts/web-components-at-big-tech-companies-github-1l0m)
 - [Lifehacker] [The Simplest Way to Make Your Android Run Faster](https://lifehacker.com/the-simplest-way-to-make-your-android-run-faster-1849146167)
 - [Dev.to/JS] [Kohomai | Made with React JS](https://dev.to/madewithjavascript/kohomai-made-with-react-js-3m66)
@@ -36,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Fry a Hard Boiled Egg](https://lifehacker.com/you-should-fry-a-hard-boiled-egg-1849144291)
 - [Dev.to/JS] [hello world~](https://dev.to/ofthewildfire/hello-world-4j8g)
 - [Dev.to/JS] [Experimental class composition with Angular 14](https://dev.to/mmuscat/experimental-class-composition-with-angular-14-ief)
-- [Dev.to/JS] [How to Connect Stripe to Vue.js?](https://dev.to/denisseab/how-to-connect-stripe-to-vuejs-ikl)
-- [Dev.to/JS] [5.2M Developers Joined the Javascript Community in the Last Two Years](https://dev.to/stateofdevnation/52m-developers-joined-the-javascript-community-in-the-last-two-years-2ipi)
-- [Dev.to/JS] [JavaScript Portfolio](https://dev.to/mohitbilala/javascript-portfolio-484d)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
 - [Lifehacker] [The Best Way to Respond When Someone Insults You](https://lifehacker.com/the-best-way-to-respond-when-someone-insults-you-1849144070)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Finally Format Text in Google Docs Using Basic Syntax](https://lifehacker.com/how-to-finally-format-text-in-google-docs-using-basic-s-1849137251)
 - [Lifehacker] [The 7 Deadly Sins of Learning How to Cook](https://lifehacker.com/the-7-deadly-sins-of-learning-how-to-cook-1849135069)
 - [Lifehacker] [Make This Strawberry Salsa Before the Season Is Over](https://lifehacker.com/make-this-strawberry-salsa-before-the-season-is-over-1849134247)
-- [Lifehacker] [How to Shop Excess Inventory From Retailers](https://lifehacker.com/how-to-shop-excess-inventory-from-retailers-1849139681)
-- [Lifehacker] [How to Stop Your AC Unit From Making All That Damn Noise](https://lifehacker.com/how-to-stop-your-ac-unit-from-making-all-that-damn-nois-1849139683)
-- [Lifehacker] [The Best Tall-Growing House Plants Money Can Buy](https://lifehacker.com/the-best-tall-growing-house-plants-money-can-buy-1849139692)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
