@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy Express API with Docker](https://dev.to/mcnaveen/deploy-express-api-with-docker-5b64)
+- [Dev.to/JS] [Some useful JavaScript One-Liners](https://dev.to/shshank/some-useful-javascript-one-liners-4eoe)
 - [Dev.to/JS] [Why Choose CryptoApe for Remitano Clone Development?](https://dev.to/thecryptoapeo/why-choose-cryptoape-for-remitano-clone-development-23i3)
 - [Dev.to/JS] [best software institute in Chennai](https://dev.to/ficusoft/best-software-institute-in-chennai-46h0)
 - [Dev.to/JS] [Vue Js Binding text and HTML](https://dev.to/priteshbhoi/vue-js-binding-text-and-html-2el0)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What You Should Know About Logging with Micro-Frontends In 2022](https://dev.to/ajstacy/what-you-should-know-about-logging-with-micro-frontends-in-2022-1nob)
 - [Dev.to/JS] [Jest Tutorial For Beginners: SuperTest or APIs Test [4/5]](https://dev.to/abidullah786/jest-tutorial-for-beginners-supertest-or-apis-test-45-39ae)
 - [Dev.to/JS] [Generate tests for your React components with jest-test-gen](https://dev.to/egm0121/generate-tests-for-your-react-components-with-jest-test-gen-4cf0)
-- [Dev.to/JS] [Como criar um app Electron usando Vite](https://dev.to/rafaelpimpa/como-criar-um-app-electron-usando-vite-52d6)
-- [Dev.to/JS] [JavaScript Lexical Environment](https://dev.to/cleveroscar/javascript-lexical-environment-3ed4)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
