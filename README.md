@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made a premium Fintech admin template with 42+ pages for React! Feedback?](https://dev.to/fredy/i-made-a-premium-fintech-dashboard-for-react-with-42-pages-feedback-4i47)
+- [Dev.to/JS] [Twitter validator cards](https://dev.to/shreyvijayvargiya/twitter-validator-cards-52lp)
+- [Dev.to/JS] [HarperDB: a Modern Tool for Fullstack Development](https://dev.to/tyaga001/harperdb-a-modern-tool-for-fullstack-development-1e13)
 - [Dev.to/JS] [Tools in Cloud](https://dev.to/sharmaji27/tools-in-cloud-183o)
 - [Dev.to/JS] [Using the native web share JavaScript API](https://dev.to/dailydevtips1/using-the-native-web-share-javascript-api-23ei)
 - [Dev.to/JS] [let &amp; const in js](https://dev.to/aishanipach/let-const-in-js-3841)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why Choose CryptoApe for Remitano Clone Development?](https://dev.to/thecryptoapeo/why-choose-cryptoape-for-remitano-clone-development-23i3)
 - [Dev.to/JS] [best software institute in Chennai](https://dev.to/ficusoft/best-software-institute-in-chennai-46h0)
 - [Dev.to/JS] [Vue Js Binding text and HTML](https://dev.to/priteshbhoi/vue-js-binding-text-and-html-2el0)
-- [Dev.to/JS] [Feature Spotlight: Trends Models in Recommend](https://dev.to/algolia/feature-spotlight-trends-models-in-recommend-47a2)
-- [Dev.to/JS] [Leetcode: Best Time to Buy and Sell Stock II in JavaScript](https://dev.to/costamatheus97/leetcode-best-time-to-buy-and-sell-stock-ii-in-javascript-3lpe)
-- [Dev.to/JS] [Use Custom Fonts In ReactNative App](https://dev.to/ashirbadgudu/use-custom-fonts-in-reactnative-app-2gkn)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
