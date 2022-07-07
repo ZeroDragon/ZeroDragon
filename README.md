@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeJS handling POST requests.](https://dev.to/davidfree2/nodejs-handling-post-requests-131c)
+- [Dev.to/JS] [What You Should Know About Logging with Micro-Frontends In 2022](https://dev.to/ajstacy/what-you-should-know-about-logging-with-micro-frontends-in-2022-1nob)
 - [Dev.to/JS] [Jest Tutorial For Beginners: SuperTest or APIs Test [4/5]](https://dev.to/abidullah786/jest-tutorial-for-beginners-supertest-or-apis-test-45-39ae)
 - [Dev.to/JS] [Generate tests for your React components with jest-test-gen](https://dev.to/egm0121/generate-tests-for-your-react-components-with-jest-test-gen-4cf0)
 - [Dev.to/JS] [Como criar um app Electron usando Vite](https://dev.to/rafaelpimpa/como-criar-um-app-electron-usando-vite-52d6)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Funções parte 2](https://dev.to/h4ck3rtr4d3r/funcoes-parte-2-7ge)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Dev.to/JS] [Code Smell 147 - Too Many Methods](https://dev.to/mcsee/code-smell-147-too-many-methods-4ech)
-- [Dev.to/JS] [Variables: Data and Computed Properties in Vue.js](https://dev.to/xinnks/variables-data-and-computed-properties-in-vuejs-1khp)
-- [Dev.to/JS] [Bun - Ya esta aqui.](https://dev.to/ushieru/bun-ya-esta-aqui-c6e)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
 - [Lifehacker] [What to Do When There&#39;s an Excessive Heat Warning](https://lifehacker.com/what-to-do-when-theres-an-excessive-heat-warning-1849148961)
