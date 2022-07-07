@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Feature Spotlight: Trends Models in Recommend](https://dev.to/algolia/feature-spotlight-trends-models-in-recommend-47a2)
+- [Dev.to/JS] [Leetcode: Best Time to Buy and Sell Stock II in JavaScript](https://dev.to/costamatheus97/leetcode-best-time-to-buy-and-sell-stock-ii-in-javascript-3lpe)
 - [Dev.to/JS] [Use Custom Fonts In ReactNative App](https://dev.to/ashirbadgudu/use-custom-fonts-in-reactnative-app-2gkn)
 - [Dev.to/JS] [NodeJS handling POST requests.](https://dev.to/davidfree2/nodejs-handling-post-requests-131c)
 - [Dev.to/JS] [What You Should Know About Logging with Micro-Frontends In 2022](https://dev.to/ajstacy/what-you-should-know-about-logging-with-micro-frontends-in-2022-1nob)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Day 1 - Dynastorm](https://dev.to/dlmarques/day-1-dynastorm-3d3n)
 - [Dev.to/JS] [Manipulando opções com a tag Select e funções no JavaScript #2](https://dev.to/drumond_dev/manipulando-opcoes-com-a-tag-select-e-funcoes-no-javascript-2-2bj0)
 - [Dev.to/JS] [¿Cómo Conectar Stripe a Vue?](https://dev.to/denisseab/como-conectar-stripe-a-vue-44o2)
-- [Dev.to/JS] [Build on Coreum: Comos SDK / WASM Smart Contract](https://dev.to/coreum/build-on-coreum-comos-sdk-wasm-smart-contracts-1m95)
-- [Dev.to/JS] [Funções parte 2](https://dev.to/h4ck3rtr4d3r/funcoes-parte-2-7ge)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
