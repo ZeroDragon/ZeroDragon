@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript - Funções parte 3](https://dev.to/h4ck3rtr4d3r/javascript-funcao-parte-3-1men)
+- [Lifehacker] [What to Do If You&#39;re Struck by Lightning &lpar;and How to Avoid It&rpar;](https://lifehacker.com/what-to-do-if-youre-struck-by-lightning-and-how-to-avo-1849152991)
+- [Dev.to/JS] [Writing Tests for Custom Matchers in Jest](https://dev.to/chiubaka/writing-tests-for-custom-matchers-in-jest-1cb3)
 - [Lifehacker] [How to Request House Arrest Instead of Going to Jail](https://lifehacker.com/how-to-request-house-arrest-instead-of-going-to-jail-1849152592)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Lifehacker] [Why You Should Never Plug In an Unknown USB Device](https://lifehacker.com/why-you-should-never-plug-in-an-unknown-usb-device-1849152035)
@@ -42,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where Are the Erogenous Zones, Anyway?](https://lifehacker.com/where-are-the-erogenous-zones-anyway-1849149916)
 - [Lifehacker] [How to Tell You&#39;re About to be Laid Off](https://lifehacker.com/how-to-tell-youre-about-to-be-laid-off-1849150165)
 - [Lifehacker] [Lentils Make the Best Fake Minced Meat](https://lifehacker.com/lentils-make-the-best-fake-minced-meat-1849146006)
-- [Dev.to/JS] [Every Programmer Should Know](https://dev.to/mrepol742/every-programmer-should-know-4e5b)
-- [Dev.to/JS] [Major Features of Java Programming](https://dev.to/chennaiseo2/major-features-of-java-programming-5fjj)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [8 Social Quandaries That Will Make You Doubt Our Shared Reality](https://lifehacker.com/8-social-quandaries-that-will-make-you-doubt-our-shared-1849144732)
 - [Lifehacker] [You Should Fry a Hard Boiled Egg](https://lifehacker.com/you-should-fry-a-hard-boiled-egg-1849144291)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
-- [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
