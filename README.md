@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Dev.to/JS] [Generic VAST Transformer Lambda](https://dev.to/video/generic-vast-transformer-lambda-ddm)
 - [Dev.to/JS] [Compare Anything in JavaScript with Just A Function](https://dev.to/rasaf_ibrahim/compare-anything-in-javascript-with-just-a-function-5g1a)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Credit Cards Have the Best Built-In Travel Insurance](https://lifehacker.com/these-credit-cards-have-the-best-built-in-travel-insura-1849146516)
 - [Lifehacker] [How to Never Pay Full Price for an iPhone App Again](https://lifehacker.com/how-to-never-pay-full-price-for-an-iphone-app-again-1849146728)
 - [Lifehacker] [How to Never Get Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
-- [Lifehacker] [The Simplest Way to Make Your Android Run Faster](https://lifehacker.com/the-simplest-way-to-make-your-android-run-faster-1849146167)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
