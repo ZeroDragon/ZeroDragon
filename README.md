@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Lentils Make the Best Fake Minced Meat](https://lifehacker.com/lentils-make-the-best-fake-minced-meat-1849146006)
+- [Dev.to/JS] [Every Programmer Should Know](https://dev.to/mrepol742/every-programmer-should-know-4e5b)
+- [Dev.to/JS] [Major Features of Java Programming](https://dev.to/chennaiseo2/major-features-of-java-programming-5fjj)
+- [Dev.to/JS] [How I began using TypeScript](https://dev.to/omerwow/how-i-began-using-typescript-3noe)
+- [Dev.to/JS] [Tech Stack Used to Build Airbnb Vacation Rental App - Now Revealed!!!](https://dev.to/pm_dustin/tech-stack-used-to-build-airbnb-vacation-rental-app-now-revealed-418a)
+- [Dev.to/JS] [How to Setup and run Cypress Test cases In Azure DevOps](https://dev.to/kailashpathak7/how-to-setup-and-run-cypress-test-cases-in-azure-devops-310e)
 - [Dev.to/JS] [My interactive web based terminal made ^ JS](https://dev.to/mrepol742/my-interactive-web-based-terminal-made-js-33dj)
 - [Dev.to/JS] [Redwood, a new framework](https://dev.to/asayerio_techblog/redwood-a-new-framework-5oi)
 - [Dev.to/JS] [Public APIs](https://dev.to/mrepol742/public-apis-592l)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Performance optimization tips for React projects](https://dev.to/samaghapour/performance-optimization-tips-for-react-projects-4mj)
 - [Dev.to/JS] [Bun - The fastest Javascript Runtime](https://dev.to/yenyih/bun-the-fastest-javascript-runtime-3nl3)
 - [Dev.to/JS] [Medusa v1.3.3: BatchJob API, Advanced Next.js Storefront, Feature Flags, and More!](https://dev.to/medusajs/medusa-v133-batchjob-api-advanced-nextjs-storefront-feature-flags-and-more-19fo)
-- [Dev.to/JS] [Found an awesome code learning platform](https://dev.to/abishaalini/found-an-awesome-code-learning-platform-50pc)
-- [Dev.to/JS] [Asynchronous vs Deferred JavaScript](https://dev.to/tizhad/asynchronous-vs-deferred-javascript-1444)
-- [Dev.to/JS] [Share your Portfolio](https://dev.to/ahmadswalih/share-your-portfolio-4oko)
-- [Dev.to/JS] [DVHDecor](https://dev.to/dvhdecor/dvhdecor-jan)
-- [Dev.to/JS] [Creating a Strapi Analytics Plugin](https://dev.to/strapi/creating-a-strapi-analytics-plugin-ppg)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-car-from-sun-and-heat-damage-1849142607)
 - [Lifehacker] [You Might Actually Learn Something From This Wordle for Works of Art](https://lifehacker.com/you-might-actually-learn-something-from-this-wordle-for-1849142844)
 - [Lifehacker] [How to Decide Whether a Home Renovation Is Worth the Cost](https://lifehacker.com/how-to-decide-whether-a-home-renovation-is-worth-the-co-1849142781)
-- [Lifehacker] [These Are the Best Replacements for TweetDeck on Mac](https://lifehacker.com/these-are-the-best-replacements-for-tweetdeck-on-mac-1849132982)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
