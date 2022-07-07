@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Please, Never Open a PDF from a Strange Text](https://lifehacker.com/please-never-open-a-pdf-from-a-strange-text-1849153405)
+- [Lifehacker] [When Are Cameras Legal in an Airbnb &lpar;and How Can You Spot Them&rpar;?](https://lifehacker.com/when-are-cameras-legal-in-an-airbnb-and-how-can-you-sp-1849151842)
 - [Dev.to/JS] [JavaScript - Funções parte 3](https://dev.to/h4ck3rtr4d3r/javascript-funcao-parte-3-1men)
 - [Lifehacker] [What to Do If You&#39;re Struck by Lightning &lpar;and How to Avoid It&rpar;](https://lifehacker.com/what-to-do-if-youre-struck-by-lightning-and-how-to-avo-1849152991)
 - [Dev.to/JS] [Writing Tests for Custom Matchers in Jest](https://dev.to/chiubaka/writing-tests-for-custom-matchers-in-jest-1cb3)
@@ -30,7 +32,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Lifehacker] [Why You Should Never Plug In an Unknown USB Device](https://lifehacker.com/why-you-should-never-plug-in-an-unknown-usb-device-1849152035)
 - [Lifehacker] [Your Hotel Mini-Fridge Might Not Be a Real Fridge](https://lifehacker.com/your-hotel-mini-fridge-might-not-be-a-real-fridge-1849152582)
-- [Dev.to/JS] [Replace your test fixtures with builders](https://dev.to/pnarielwala/replace-your-test-fixtures-with-builders-4602)
+- [Dev.to/JS] [Replace your test fixtures with builders](https://dev.to/everlyhealth/replace-your-test-fixtures-with-builders-4602)
 - [Dev.to/JS] [How to do Test Automation using Playwright and JavaScript?](https://dev.to/codewithmmak/how-to-do-test-automation-using-playwright-and-javascript-2ebg)
 - [Dev.to/JS] [useConfirm — A custom React hook to prompt confirmation before action🎬](https://dev.to/kai_wenzel/useconfirm-a-custom-react-hook-to-prompt-confirmation-before-action-4ld4)
 - [Lifehacker] [The Weirdest Ways You Never Knew You Could Reuse Banana Peels](https://lifehacker.com/the-weirdest-ways-you-never-knew-you-could-reuse-your-b-1849152343)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Simplest Way to Make Your Android Run Faster](https://lifehacker.com/the-simplest-way-to-make-your-android-run-faster-1849146167)
 - [Lifehacker] [25 of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/25-of-the-best-movies-based-on-mythology-and-folklore-1849139098)
 - [Lifehacker] [8 Social Quandaries That Will Make You Doubt Our Shared Reality](https://lifehacker.com/8-social-quandaries-that-will-make-you-doubt-our-shared-1849144732)
-- [Lifehacker] [You Should Fry a Hard Boiled Egg](https://lifehacker.com/you-should-fry-a-hard-boiled-egg-1849144291)
-- [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
