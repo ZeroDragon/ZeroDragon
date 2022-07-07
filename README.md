@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [YouTube coding channel for absolute beginners 💖](https://dev.to/codeguppy/youtube-coding-channel-for-absolute-beginners-2mjb)
+- [Dev.to/JS] [Bun: This may just be the most exciting announcement this year for web development! 🔥](https://dev.to/hr21don/bun-this-may-just-be-the-most-exciting-announcement-this-year-for-web-development-2f25)
 - [Dev.to/JS] [Projects](https://dev.to/eddyscion/projects-1cl0)
 - [Lifehacker] [Do This Android App Privacy Audit, I Beg You](https://lifehacker.com/do-this-android-app-privacy-audit-i-beg-you-1849151056)
 - [Lifehacker] [Where Are the Erogenous Zones, Anyway?](https://lifehacker.com/where-are-the-erogenous-zones-anyway-1849149916)
@@ -37,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Redwood, a new framework](https://dev.to/asayerio_techblog/redwood-a-new-framework-5oi)
 - [Dev.to/JS] [Public APIs](https://dev.to/mrepol742/public-apis-592l)
 - [Dev.to/JS] [Multiple component Conditional Reactjs](https://dev.to/mamedev/multiple-component-conditional-reactjs-262o)
-- [Dev.to/JS] [Performance optimization tips for React projects](https://dev.to/samaghapour/performance-optimization-tips-for-react-projects-4mj)
-- [Dev.to/JS] [Bun - The fastest Javascript Runtime](https://dev.to/yenyih/bun-the-fastest-javascript-runtime-3nl3)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
