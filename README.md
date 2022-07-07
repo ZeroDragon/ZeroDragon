@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Medusa v1.3.3: BatchJob API, Advanced Next.js Storefront, Feature Flags, and More!](https://dev.to/medusajs/medusa-v133-batchjob-api-advanced-nextjs-storefront-feature-flags-and-more-19fo)
+- [Dev.to/JS] [Found an awesome code learning platform](https://dev.to/abishaalini/found-an-awesome-code-learning-platform-50pc)
 - [Dev.to/JS] [Asynchronous vs Deferred JavaScript](https://dev.to/tizhad/asynchronous-vs-deferred-javascript-1444)
 - [Dev.to/JS] [Share your Portfolio](https://dev.to/ahmadswalih/share-your-portfolio-4oko)
 - [Dev.to/JS] [DVHDecor](https://dev.to/dvhdecor/dvhdecor-jan)
@@ -31,10 +33,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create Multidimensional Array from an Object](https://dev.to/hermitex/create-multidimensional-array-from-object-1603)
 - [Dev.to/JS] [You decide the new features!](https://dev.to/joelbonetr/you-decide-the-new-features-59pn)
 - [Dev.to/JS] [I made a premium Fintech admin template with 42+ pages for React! Feedback?](https://dev.to/fredy/i-made-a-premium-fintech-dashboard-for-react-with-42-pages-feedback-4i47)
+- [Dev.to/JS] [Creating a Production-Ready WebRTC App for Video Calls: 5 Considerations for Developers](https://dev.to/yashsrivastava176/creating-a-production-ready-webrtc-app-for-video-calls-5-considerations-for-developers-2946)
 - [Dev.to/JS] [Twitter validator cards](https://dev.to/shreyvijayvargiya/twitter-validator-cards-52lp)
-- [Dev.to/JS] [HarperDB: a Modern Tool for Fullstack Development](https://dev.to/tyaga001/harperdb-a-modern-tool-for-fullstack-development-1e13)
-- [Dev.to/JS] [Tools in Cloud](https://dev.to/sharmaji27/tools-in-cloud-183o)
-- [Dev.to/JS] [Using the native web share JavaScript API](https://dev.to/dailydevtips1/using-the-native-web-share-javascript-api-23ei)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
