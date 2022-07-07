@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Use Custom Fonts In ReactNative App](https://dev.to/ashirbadgudu/use-custom-fonts-in-reactnative-app-2gkn)
 - [Dev.to/JS] [NodeJS handling POST requests.](https://dev.to/davidfree2/nodejs-handling-post-requests-131c)
 - [Dev.to/JS] [What You Should Know About Logging with Micro-Frontends In 2022](https://dev.to/ajstacy/what-you-should-know-about-logging-with-micro-frontends-in-2022-1nob)
 - [Dev.to/JS] [Jest Tutorial For Beginners: SuperTest or APIs Test [4/5]](https://dev.to/abidullah786/jest-tutorial-for-beginners-supertest-or-apis-test-45-39ae)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build on Coreum: Comos SDK / WASM Smart Contract](https://dev.to/coreum/build-on-coreum-comos-sdk-wasm-smart-contracts-1m95)
 - [Dev.to/JS] [Funções parte 2](https://dev.to/h4ck3rtr4d3r/funcoes-parte-2-7ge)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
-- [Dev.to/JS] [Code Smell 147 - Too Many Methods](https://dev.to/mcsee/code-smell-147-too-many-methods-4ech)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
 - [Lifehacker] [What to Do When There&#39;s an Excessive Heat Warning](https://lifehacker.com/what-to-do-when-theres-an-excessive-heat-warning-1849148961)
