@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Syntax &amp; Structure Tutorial](https://dev.to/rembertdesigns/javascript-syntax-structure-tutorial-hf3)
+- [Dev.to/JS] [Unpacking JavaScript 02: Object Oriented JS&lpar;OOJS&rpar; part 3 - 2D array Module](https://dev.to/sfundomhlungu/unpacking-javascript-02-object-oriented-jsoojs-part-3-2d-array-module-2epp)
+- [Dev.to/JS] [Breakout clone](https://dev.to/codeguppy/breakout-clone-5b6g)
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Dev.to/JS] [Generic VAST Transformer Lambda](https://dev.to/video/generic-vast-transformer-lambda-ddm)
 - [Dev.to/JS] [Compare Anything in JavaScript with Just A Function](https://dev.to/rasaf_ibrahim/compare-anything-in-javascript-with-just-a-function-5g1a)
@@ -43,9 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [useConfirm — A custom React hook to prompt confirmation before action🎬](https://dev.to/kai_wenzel/useconfirm-a-custom-react-hook-to-prompt-confirmation-before-action-4ld4)
 - [Lifehacker] [The Weirdest Ways You Never Knew You Could Reuse Banana Peels](https://lifehacker.com/the-weirdest-ways-you-never-knew-you-could-reuse-your-b-1849152343)
 - [Dev.to/JS] [JS1024, the most challenging JavaScript/GLSL competition](https://dev.to/js1024fun/js1024-the-most-challenging-javascriptglsl-competition-35jg)
-- [Dev.to/JS] [Strict mode in JavaScript](https://dev.to/nicozerpa/strict-mode-in-javascript-22gd)
-- [Dev.to/JS] [My portfolio but in dark mode](https://dev.to/mrepol742/my-portfolio-but-in-dark-mode-4g9b)
-- [Dev.to/JS] [YouTube coding channel for absolute beginners 💖](https://dev.to/codeguppy/youtube-coding-channel-for-absolute-beginners-2mjb)
 - [Lifehacker] [Do This Android App Privacy Audit, I Beg You](https://lifehacker.com/do-this-android-app-privacy-audit-i-beg-you-1849151056)
 - [Lifehacker] [Where Are the Erogenous Zones, Anyway?](https://lifehacker.com/where-are-the-erogenous-zones-anyway-1849149916)
 - [Lifehacker] [How to Tell You&#39;re About to be Laid Off](https://lifehacker.com/how-to-tell-youre-about-to-be-laid-off-1849150165)
