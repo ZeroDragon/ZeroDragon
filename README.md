@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell You&#39;re About to be Laid Off](https://lifehacker.com/how-to-tell-youre-about-to-be-laid-off-1849150165)
 - [Lifehacker] [Lentils Make the Best Fake Minced Meat](https://lifehacker.com/lentils-make-the-best-fake-minced-meat-1849146006)
 - [Dev.to/JS] [Every Programmer Should Know](https://dev.to/mrepol742/every-programmer-should-know-4e5b)
 - [Dev.to/JS] [Major Features of Java Programming](https://dev.to/chennaiseo2/major-features-of-java-programming-5fjj)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When You Should Take a Taxi Instead of a Rideshare](https://lifehacker.com/when-you-should-take-a-taxi-instead-of-a-rideshare-1849142985)
 - [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-car-from-sun-and-heat-damage-1849142607)
 - [Lifehacker] [You Might Actually Learn Something From This Wordle for Works of Art](https://lifehacker.com/you-might-actually-learn-something-from-this-wordle-for-1849142844)
-- [Lifehacker] [How to Decide Whether a Home Renovation Is Worth the Cost](https://lifehacker.com/how-to-decide-whether-a-home-renovation-is-worth-the-co-1849142781)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
