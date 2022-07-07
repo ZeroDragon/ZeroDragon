@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Choose CryptoApe for Remitano Clone Development?](https://dev.to/thecryptoapeo/why-choose-cryptoape-for-remitano-clone-development-23i3)
+- [Dev.to/JS] [best software institute in Chennai](https://dev.to/ficusoft/best-software-institute-in-chennai-46h0)
+- [Dev.to/JS] [Vue Js Binding text and HTML](https://dev.to/priteshbhoi/vue-js-binding-text-and-html-2el0)
 - [Dev.to/JS] [Feature Spotlight: Trends Models in Recommend](https://dev.to/algolia/feature-spotlight-trends-models-in-recommend-47a2)
 - [Dev.to/JS] [Leetcode: Best Time to Buy and Sell Stock II in JavaScript](https://dev.to/costamatheus97/leetcode-best-time-to-buy-and-sell-stock-ii-in-javascript-3lpe)
 - [Dev.to/JS] [Use Custom Fonts In ReactNative App](https://dev.to/ashirbadgudu/use-custom-fonts-in-reactnative-app-2gkn)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Generate tests for your React components with jest-test-gen](https://dev.to/egm0121/generate-tests-for-your-react-components-with-jest-test-gen-4cf0)
 - [Dev.to/JS] [Como criar um app Electron usando Vite](https://dev.to/rafaelpimpa/como-criar-um-app-electron-usando-vite-52d6)
 - [Dev.to/JS] [JavaScript Lexical Environment](https://dev.to/cleveroscar/javascript-lexical-environment-3ed4)
-- [Dev.to/JS] [Day 1 - Dynastorm](https://dev.to/dlmarques/day-1-dynastorm-3d3n)
-- [Dev.to/JS] [Manipulando opções com a tag Select e funções no JavaScript #2](https://dev.to/drumond_dev/manipulando-opcoes-com-a-tag-select-e-funcoes-no-javascript-2-2bj0)
-- [Dev.to/JS] [¿Cómo Conectar Stripe a Vue?](https://dev.to/denisseab/como-conectar-stripe-a-vue-44o2)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
