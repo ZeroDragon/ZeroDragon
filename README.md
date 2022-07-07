@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Generic VAST Transformer Lambda](https://dev.to/video/generic-vast-transformer-lambda-ddm)
+- [Dev.to/JS] [Compare Anything in JavaScript with Just A Function](https://dev.to/rasaf_ibrahim/compare-anything-in-javascript-with-just-a-function-5g1a)
+- [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
+- [Dev.to/JS] [Angular Standalone Component — Future of Angular](https://dev.to/ankit_k_sharma/angular-standalone-component-future-of-angular-37l2)
+- [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
 - [Lifehacker] [Please, Never Open a PDF from a Strange Text](https://lifehacker.com/please-never-open-a-pdf-from-a-strange-text-1849153405)
 - [Lifehacker] [When Are Cameras Legal in an Airbnb &lpar;and How Can You Spot Them&rpar;?](https://lifehacker.com/when-are-cameras-legal-in-an-airbnb-and-how-can-you-sp-1849151842)
 - [Dev.to/JS] [JavaScript - Funções parte 3](https://dev.to/h4ck3rtr4d3r/javascript-funcao-parte-3-1men)
@@ -40,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Strict mode in JavaScript](https://dev.to/nicozerpa/strict-mode-in-javascript-22gd)
 - [Dev.to/JS] [My portfolio but in dark mode](https://dev.to/mrepol742/my-portfolio-but-in-dark-mode-4g9b)
 - [Dev.to/JS] [YouTube coding channel for absolute beginners 💖](https://dev.to/codeguppy/youtube-coding-channel-for-absolute-beginners-2mjb)
-- [Dev.to/JS] [Bun: This may just be the most exciting announcement this year for web development! 🔥](https://dev.to/hr21don/bun-this-may-just-be-the-most-exciting-announcement-this-year-for-web-development-2f25)
-- [Dev.to/JS] [Interpreted Languages: Reading Source Code](https://dev.to/jobber/interpreted-languages-reading-source-code-2b2o)
-- [Dev.to/JS] [Projects](https://dev.to/eddyscion/projects-1cl0)
 - [Lifehacker] [Do This Android App Privacy Audit, I Beg You](https://lifehacker.com/do-this-android-app-privacy-audit-i-beg-you-1849151056)
 - [Lifehacker] [Where Are the Erogenous Zones, Anyway?](https://lifehacker.com/where-are-the-erogenous-zones-anyway-1849149916)
 - [Lifehacker] [How to Tell You&#39;re About to be Laid Off](https://lifehacker.com/how-to-tell-youre-about-to-be-laid-off-1849150165)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Never Pay Full Price for an iPhone App Again](https://lifehacker.com/how-to-never-pay-full-price-for-an-iphone-app-again-1849146728)
 - [Lifehacker] [How to Never Get Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
 - [Lifehacker] [The Simplest Way to Make Your Android Run Faster](https://lifehacker.com/the-simplest-way-to-make-your-android-run-faster-1849146167)
-- [Lifehacker] [25 of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/25-of-the-best-movies-based-on-mythology-and-folklore-1849139098)
-- [Lifehacker] [8 Social Quandaries That Will Make You Doubt Our Shared Reality](https://lifehacker.com/8-social-quandaries-that-will-make-you-doubt-our-shared-1849144732)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
