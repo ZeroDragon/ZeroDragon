@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Request House Arrest Instead of Going to Jail](https://lifehacker.com/how-to-request-house-arrest-instead-of-going-to-jail-1849152592)
+- [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
+- [Lifehacker] [Why You Should Never Plug In an Unknown USB Device](https://lifehacker.com/why-you-should-never-plug-in-an-unknown-usb-device-1849152035)
 - [Lifehacker] [Your Hotel Mini-Fridge Might Not Be a Real Fridge](https://lifehacker.com/your-hotel-mini-fridge-might-not-be-a-real-fridge-1849152582)
 - [Dev.to/JS] [Replace your test fixtures with builders](https://dev.to/pnarielwala/replace-your-test-fixtures-with-builders-4602)
 - [Dev.to/JS] [How to do Test Automation using Playwright and JavaScript?](https://dev.to/codewithmmak/how-to-do-test-automation-using-playwright-and-javascript-2ebg)
@@ -58,11 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Fry a Hard Boiled Egg](https://lifehacker.com/you-should-fry-a-hard-boiled-egg-1849144291)
 - [Lifehacker] [How Soon Is Too Soon for Couples Therapy?](https://lifehacker.com/how-soon-is-too-soon-for-couples-therapy-1849144628)
 - [Lifehacker] [The Best Apps for Splitting the Check](https://lifehacker.com/use-these-apps-to-seamlessly-split-restaurant-bills-1849144659)
-- [Lifehacker] [The Best Way to Respond When Someone Insults You](https://lifehacker.com/the-best-way-to-respond-when-someone-insults-you-1849144070)
-- [Lifehacker] [The Difference Between Clarified Butter and Ghee](https://lifehacker.com/the-difference-between-clarified-butter-and-ghee-1849143100)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
-- [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
-- [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
 ---
 
