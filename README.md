@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Projects](https://dev.to/eddyscion/projects-1cl0)
+- [Lifehacker] [Do This Android App Privacy Audit, I Beg You](https://lifehacker.com/do-this-android-app-privacy-audit-i-beg-you-1849151056)
+- [Lifehacker] [Where Are the Erogenous Zones, Anyway?](https://lifehacker.com/where-are-the-erogenous-zones-anyway-1849149916)
 - [Lifehacker] [How to Tell You&#39;re About to be Laid Off](https://lifehacker.com/how-to-tell-youre-about-to-be-laid-off-1849150165)
 - [Lifehacker] [Lentils Make the Best Fake Minced Meat](https://lifehacker.com/lentils-make-the-best-fake-minced-meat-1849146006)
 - [Dev.to/JS] [Every Programmer Should Know](https://dev.to/mrepol742/every-programmer-should-know-4e5b)
@@ -36,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Multiple component Conditional Reactjs](https://dev.to/mamedev/multiple-component-conditional-reactjs-262o)
 - [Dev.to/JS] [Performance optimization tips for React projects](https://dev.to/samaghapour/performance-optimization-tips-for-react-projects-4mj)
 - [Dev.to/JS] [Bun - The fastest Javascript Runtime](https://dev.to/yenyih/bun-the-fastest-javascript-runtime-3nl3)
-- [Dev.to/JS] [Medusa v1.3.3: BatchJob API, Advanced Next.js Storefront, Feature Flags, and More!](https://dev.to/medusajs/medusa-v133-batchjob-api-advanced-nextjs-storefront-feature-flags-and-more-19fo)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Difference Between Clarified Butter and Ghee](https://lifehacker.com/the-difference-between-clarified-butter-and-ghee-1849143100)
 - [Lifehacker] [How to Find Out What Your Health Insurance Will Pay Beforehand](https://lifehacker.com/how-to-find-out-what-your-health-insurance-will-pay-bef-1849143837)
 - [Lifehacker] [When You Should Take a Taxi Instead of a Rideshare](https://lifehacker.com/when-you-should-take-a-taxi-instead-of-a-rideshare-1849142985)
-- [Lifehacker] [How to Protect Your Car From Sun and Heat Damage](https://lifehacker.com/how-to-protect-your-car-from-sun-and-heat-damage-1849142607)
-- [Lifehacker] [You Might Actually Learn Something From This Wordle for Works of Art](https://lifehacker.com/you-might-actually-learn-something-from-this-wordle-for-1849142844)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in USA 2022](https://www.thecrazyprogrammer.com/2022/06/computer-science-universities-in-usa.html)<!-- TECH-POSTS:END -->
