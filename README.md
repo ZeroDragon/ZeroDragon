@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [WebRTC video performance compared to Zoom](https://dev.to/yashsrivastava176/webrtc-video-performance-compared-to-zoom-5e7a)
+- [Dev.to/JS] [BUN IS A LIGHTWEIGHT ALL-IN-ONE JAVASCRIPT RUNTIME.](https://dev.to/khansa/bun-is-a-lightweight-all-in-one-javascript-runtime-19oe)
 - [Dev.to/JS] [Life Update: Pursuing Master’s Degree](https://dev.to/yehezkielgunawan/life-update-pursuing-masters-degree-1hj8)
 - [Dev.to/JS] [Naya Tab: A NEW TAB Browser extension like Brave Browser&#39;s new tab page](https://dev.to/sharadcodes/naya-tab-a-new-tab-browser-extension-like-brave-browsers-new-tab-page-57kp)
 - [Dev.to/JS] [Why React Native is the Best Choice for Mobile App Development](https://dev.to/katleenbrown440/why-react-native-is-the-best-choice-for-mobile-app-development-1efi)
-- [Dev.to/JS] [Tech Imposters Anonymous](https://dev.to/madame_robot/tech-imposters-anonymous-1aja)
+- [Dev.to/JS] [Read &amp; share secret confessions with a community of Tech Imposters](https://dev.to/madame_robot/tech-imposters-anonymous-1aja)
 - [Dev.to/JS] [Code snippet: a simple rate limiter](https://dev.to/pyrsmk/code-snippet-a-simple-rate-limiter-3gfk)
 - [Dev.to/JS] [Code snippet: How to test and understand DOM events better with this simple HTML snippet](https://dev.to/pyrsmk/code-snippet-how-to-test-and-understand-dom-events-better-with-this-simple-html-snippet-3dd6)
 - [Dev.to/JS] [Code snippet: A performant async queue](https://dev.to/pyrsmk/code-snippet-a-performant-async-queue-kdb)
 - [Dev.to/JS] [Code snippet: How to browse a directory recursively](https://dev.to/pyrsmk/code-snippet-how-to-browse-a-directory-recursively-2mh5)
 - [Dev.to/JS] [Life Cycle of a Component](https://dev.to/mdanassabah/life-cycle-of-a-component-56cp)
 - [Dev.to/JS] [Redux Demystified](https://dev.to/markved17/redux-demystified-ig6)
-- [Dev.to/JS] [NodeJS Event Emitter](https://dev.to/kalashin1/nodejs-event-emitter-37oe)
-- [Dev.to/JS] [How to insert an element at a specific array index with JavaScript](https://dev.to/dailydevtips1/how-to-insert-an-element-at-a-specific-array-index-with-javascript-5f5m)
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
