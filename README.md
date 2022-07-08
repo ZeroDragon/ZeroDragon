@@ -23,7 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [How to write React UIKIT components in TypeScript that extends native HTML Elements](https://dev.to/fabiobiondi/how-to-write-react-uikit-components-in-typescript-that-extends-native-elements-1f2k)
+- [Dev.to/JS] [NextJs SEO Checklist: The Ultimate Roadmap To A Fast, SEO-ready Website](https://dev.to/sashevuchkov/nextjs-seo-checklist-the-ultimate-roadmap-to-a-fast-seo-ready-website-40f6)
+- [Dev.to/JS] [Use The DEV API With This NodeJS Package](https://dev.to/elitezen/use-the-dev-api-with-this-nodejs-package-2ij)
+- [Dev.to/JS] [Routing in React with React Location](https://dev.to/asayerio_techblog/routing-in-react-with-react-location-58kd)
+- [Dev.to/JS] [How to create React UIKIT components in TypeScript that extends native HTML Elements](https://dev.to/fabiobiondi/how-to-write-react-uikit-components-in-typescript-that-extends-native-elements-1f2k)
 - [Dev.to/JS] [Import external Javascript libraries with just HTML&lpar; No npm install &rpar;🔥](https://dev.to/smitterhane/import-external-javascript-libraries-with-just-html-no-npm-install--552o)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
@@ -39,12 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways Amazon Tricks You Into Spending More on Prime Day](https://lifehacker.com/all-the-ways-amazon-tricks-you-into-spending-more-on-pr-1849158042)
 - [Dev.to/JS] [How to Create a React Dropdown Control in Your Web Application](https://dev.to/grapecity/how-to-create-a-react-dropdown-control-in-your-web-application-ghk)
 - [Dev.to/JS] [Asynchronous](https://dev.to/ditaisy/asynchronous-and-callback-4gek)
-- [Dev.to/JS] [Spaceships and Testing in JavaScript](https://dev.to/helmuthdu/spaceships-and-testing-in-javascript-5b3h)
 - [Lifehacker] [6 of the Best Podcasts About Radical American Movements](https://lifehacker.com/6-of-the-best-podcasts-about-radical-american-movements-1849158055)
 - [Lifehacker] [Where to Get Free Breakfast, Lunch, and Dinner on Your Birthday](https://lifehacker.com/where-to-get-free-breakfast-lunch-and-dinner-on-your-1849157226)
-- [Dev.to/JS] [Late to React 18? My Top 4 awesome features and real-use examples.](https://dev.to/resourcefulmind/late-to-react-18-my-top-4-awesome-features-and-real-use-examples-23ln)
 - [Lifehacker] [The First Things You Need to Buy After Moving Into Your Starter Home](https://lifehacker.com/the-first-things-you-need-to-buy-after-moving-into-your-1849157065)
-- [Dev.to/JS] [JavaScript Data Types &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/javascript-data-types-with-examples-3dnp)
 - [Lifehacker] [15 of the Best Foodie Movies and TV Shows That Aren&#39;t &#39;The Bear&#39;](https://lifehacker.com/15-of-the-best-foodie-movies-and-tv-shows-that-arent-th-1849154310)
 - [Lifehacker] [Don&#39;t Set These Bills to Autopay](https://lifehacker.com/dont-set-these-bills-to-autopay-1849156790)
 - [Lifehacker] [How to Talk to Teachers and Coaches About Your Child’s Neurodivergency](https://lifehacker.com/how-to-talk-to-teachers-and-coaches-about-your-child-s-1849155910)
