@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Where to Get Free Breakfast, Lunch, and Dinner on Your Birthday](https://lifehacker.com/where-to-get-free-breakfast-lunch-and-dinner-on-your-1849157226)
+- [Dev.to/JS] [Late to React 18? My Top 4 awesome features and real-use examples.](https://dev.to/resourcefulmind/late-to-react-18-my-top-4-awesome-features-and-real-use-examples-23ln)
+- [Lifehacker] [The First Things You Need to Buy After Moving Into Your Starter Home](https://lifehacker.com/the-first-things-you-need-to-buy-after-moving-into-your-1849157065)
+- [Dev.to/JS] [JavaScript Data Types &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/javascript-data-types-with-examples-3dnp)
 - [Dev.to/JS] [Making RedwoodJS Easier with VSCode Dev Containers](https://dev.to/talk2megooseman/making-redwoodjs-easier-with-vscode-dev-containers-4j4)
 - [Dev.to/JS] [How to perform CRUD operations with PostgreeSQL,NodeJS,ExpressJS and KnexJS using Restful API](https://dev.to/bilalmohib/getting-started-with-restful-api-development-with-pern-38h9)
 - [Lifehacker] [15 of the Best Foodie Movies and TV Shows That Aren&#39;t &#39;The Bear&#39;](https://lifehacker.com/15-of-the-best-foodie-movies-and-tv-shows-that-arent-th-1849154310)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Silky Sous Vide Eggs Without a Sous Vide](https://lifehacker.com/how-to-make-silky-sous-vide-eggs-without-a-sous-vide-1849153289)
 - [Dev.to/JS] [Biggest Casino Jackpot](https://dev.to/njoycasino/biggest-casino-jackpot-125h)
 - [Lifehacker] [The Only Good Advice for Shopping Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
-- [Dev.to/JS] [332. Reconstruct Itinerary 🚀](https://dev.to/samuelhinchliffe/332-reconstruct-itinerary-14kf)
-- [Dev.to/JS] [ChainBrake: Building the world&#39;s cheapest Agricultural Robot](https://dev.to/surgbc/chainbrake-building-the-worlds-cheapest-agricultural-robot-15kk)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are &#39;Gentleminions&#39; Being Banned?](https://lifehacker.com/minions-movie-gentleminions-banned-theaters-1849155607)
 - [Lifehacker] [You Can Get Some of the Benefits of Sleeping While You&#39;re Still Awake](https://lifehacker.com/you-can-get-some-of-the-benefits-of-sleeping-while-your-1849154311)
 - [Lifehacker] [You Need These Yogurt Cup Biscuits](https://lifehacker.com/you-need-these-yogurt-cup-biscuits-1849154731)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell You&#39;re About to be Laid Off](https://lifehacker.com/how-to-tell-youre-about-to-be-laid-off-1849150165)
 - [Lifehacker] [Lentils Make the Best Fake Minced Meat](https://lifehacker.com/lentils-make-the-best-fake-minced-meat-1849146006)
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
-- [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
-- [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
