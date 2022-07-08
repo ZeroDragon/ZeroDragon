@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Conversão de tipo de dados - Parte 1](https://dev.to/h4ck3rtr4d3r/javascript-conversao-de-tipo-de-dados-parte-1-1612)
+- [Lifehacker] [Another Day, Another Dangerous Social Media Challenge](https://lifehacker.com/another-day-another-dangerous-social-media-challenge-1849157825)
+- [Dev.to/JS] [How to host Netlify CMS website on Fathym](https://dev.to/richkurtzman/how-to-host-netlify-cms-website-on-fathym-baf)
+- [Dev.to/JS] [How to Create an Angular Dropdown Control in Your Web Application](https://dev.to/grapecity/how-to-create-an-angular-dropdown-control-in-your-web-application-ogh)
+- [Lifehacker] [5 of the Most Difficult Video Games in Recent Memory](https://lifehacker.com/5-of-the-most-difficult-video-games-in-recent-memory-1849157905)
+- [Dev.to/JS] [How to Create a Vue Dropdown Control in Your Web Application](https://dev.to/grapecity/how-to-create-a-vue-dropdown-control-in-your-web-application-2pkd)
 - [Dev.to/JS] [Using Slots with Fluent UI React v9](https://dev.to/paulgildea/using-slots-with-fluent-ui-react-v9-jf1)
 - [Lifehacker] [All the Ways Amazon Tricks You Into Spending More on Prime Day](https://lifehacker.com/all-the-ways-amazon-tricks-you-into-spending-more-on-pr-1849158042)
 - [Dev.to/JS] [How to Create a React Dropdown Control in Your Web Application](https://dev.to/grapecity/how-to-create-a-react-dropdown-control-in-your-web-application-ghk)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making RedwoodJS Easier with VSCode Dev Containers](https://dev.to/talk2megooseman/making-redwoodjs-easier-with-vscode-dev-containers-4j4)
 - [Dev.to/JS] [How to perform CRUD operations with PostgreeSQL,NodeJS,ExpressJS and KnexJS using Restful API](https://dev.to/bilalmohib/getting-started-with-restful-api-development-with-pern-38h9)
 - [Lifehacker] [15 of the Best Foodie Movies and TV Shows That Aren&#39;t &#39;The Bear&#39;](https://lifehacker.com/15-of-the-best-foodie-movies-and-tv-shows-that-arent-th-1849154310)
-- [Dev.to/JS] [Trimtone - Fat Loss Reviews, Results, Benefits &amp; Price?](https://dev.to/trimtonebuys/trimtone-fat-loss-reviews-results-benefits-price-455a)
-- [Dev.to/JS] [Rails or Express?](https://dev.to/swislokdev/rails-or-express-3d8)
-- [Dev.to/JS] [From adopting spaghetti code to 100% test coverage](https://dev.to/c6z3h/from-adopting-spaghetti-code-to-100-test-coverage-5b6o)
 - [Lifehacker] [Don&#39;t Set These Bills to Autopay](https://lifehacker.com/dont-set-these-bills-to-autopay-1849156790)
-- [Dev.to/JS] [Microfrontends - uma visão geral e histórica sobre essa arquitetura.](https://dev.to/heltonss/microfrontends-uma-visao-geral-e-historica-sobre-essa-arquitetura-a45)
 - [Lifehacker] [How to Talk to Teachers and Coaches About Your Child’s Neurodivergency](https://lifehacker.com/how-to-talk-to-teachers-and-coaches-about-your-child-s-1849155910)
 - [Lifehacker] [How to Make Silky Sous Vide Eggs Without a Sous Vide](https://lifehacker.com/how-to-make-silky-sous-vide-eggs-without-a-sous-vide-1849153289)
 - [Lifehacker] [The Only Good Advice for Shopping Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Hotel Mini-Fridge Might Not Be a Real Fridge](https://lifehacker.com/your-hotel-mini-fridge-might-not-be-a-real-fridge-1849152582)
 - [Lifehacker] [The Weirdest Ways You Never Knew You Could Reuse Banana Peels](https://lifehacker.com/the-weirdest-ways-you-never-knew-you-could-reuse-your-b-1849152343)
 - [Lifehacker] [Do This Android App Privacy Audit, I Beg You](https://lifehacker.com/do-this-android-app-privacy-audit-i-beg-you-1849151056)
-- [Lifehacker] [Where Are the Erogenous Zones, Anyway?](https://lifehacker.com/where-are-the-erogenous-zones-anyway-1849149916)
-- [Lifehacker] [How to Tell You&#39;re About to be Laid Off](https://lifehacker.com/how-to-tell-youre-about-to-be-laid-off-1849150165)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
