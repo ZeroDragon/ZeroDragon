@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to write React UIKIT components in TypeScript that extends native HTML Elements](https://dev.to/fabiobiondi/how-to-write-react-uikit-components-in-typescript-that-extends-native-elements-1f2k)
+- [Dev.to/JS] [Import external Javascript libraries with just HTML&lpar; No npm install &rpar;🔥](https://dev.to/smitterhane/import-external-javascript-libraries-with-just-html-no-npm-install--552o)
+- [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
+- [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
 - [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
 - [Lifehacker] [How to Wash Silk Sheets If You Hate Wrinkles](https://lifehacker.com/how-to-wash-silk-sheets-if-you-hate-wrinkles-1849158413)
 - [Dev.to/JS] [JavaScript Conversão de tipo de dados - Parte 1](https://dev.to/h4ck3rtr4d3r/javascript-conversao-de-tipo-de-dados-parte-1-1612)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Late to React 18? My Top 4 awesome features and real-use examples.](https://dev.to/resourcefulmind/late-to-react-18-my-top-4-awesome-features-and-real-use-examples-23ln)
 - [Lifehacker] [The First Things You Need to Buy After Moving Into Your Starter Home](https://lifehacker.com/the-first-things-you-need-to-buy-after-moving-into-your-1849157065)
 - [Dev.to/JS] [JavaScript Data Types &lpar;With Examples&rpar;](https://dev.to/rembertdesigns/javascript-data-types-with-examples-3dnp)
-- [Dev.to/JS] [Making RedwoodJS Easier with VSCode Dev Containers](https://dev.to/talk2megooseman/making-redwoodjs-easier-with-vscode-dev-containers-4j4)
-- [Dev.to/JS] [How to perform CRUD operations with PostgreeSQL,NodeJS,ExpressJS and KnexJS using Restful API](https://dev.to/bilalmohib/getting-started-with-restful-api-development-with-pern-38h9)
 - [Lifehacker] [15 of the Best Foodie Movies and TV Shows That Aren&#39;t &#39;The Bear&#39;](https://lifehacker.com/15-of-the-best-foodie-movies-and-tv-shows-that-arent-th-1849154310)
 - [Lifehacker] [Don&#39;t Set These Bills to Autopay](https://lifehacker.com/dont-set-these-bills-to-autopay-1849156790)
 - [Lifehacker] [How to Talk to Teachers and Coaches About Your Child’s Neurodivergency](https://lifehacker.com/how-to-talk-to-teachers-and-coaches-about-your-child-s-1849155910)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You&#39;re Struck by Lightning &lpar;and How to Avoid It&rpar;](https://lifehacker.com/what-to-do-if-youre-struck-by-lightning-and-how-to-avo-1849152991)
 - [Lifehacker] [How to Request House Arrest Instead of Going to Jail](https://lifehacker.com/how-to-request-house-arrest-instead-of-going-to-jail-1849152592)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
-- [Lifehacker] [Why You Should Never Plug In an Unknown USB Device](https://lifehacker.com/why-you-should-never-plug-in-an-unknown-usb-device-1849152035)
-- [Lifehacker] [Your Hotel Mini-Fridge Might Not Be a Real Fridge](https://lifehacker.com/your-hotel-mini-fridge-might-not-be-a-real-fridge-1849152582)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
