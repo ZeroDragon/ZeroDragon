@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Clean Code where to start](https://dev.to/patrick0806/clean-code-where-to-start-2lpm)
+- [Dev.to/JS] [Bionic Reading and &quot;mini-library&quot; for it](https://dev.to/kylefontenot/bionic-reading-and-mini-library-for-it-ndn)
 - [Dev.to/JS] [Why typescript is unnecessary.](https://dev.to/qk/why-typescript-is-unnecessary-mac)
 - [Dev.to/JS] [Body parsing in App Search](https://dev.to/llermaly/body-parsing-in-app-search-4ckc)
 - [Dev.to/JS] [JavaScript Syntax &amp; Structure Tutorial](https://dev.to/rembertdesigns/javascript-syntax-structure-tutorial-hf3)
@@ -43,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Lifehacker] [Why You Should Never Plug In an Unknown USB Device](https://lifehacker.com/why-you-should-never-plug-in-an-unknown-usb-device-1849152035)
 - [Lifehacker] [Your Hotel Mini-Fridge Might Not Be a Real Fridge](https://lifehacker.com/your-hotel-mini-fridge-might-not-be-a-real-fridge-1849152582)
-- [Dev.to/JS] [Replace your test fixtures with builders](https://dev.to/everlyhealth/replace-your-test-fixtures-with-builders-4602)
-- [Dev.to/JS] [How to do Test Automation using Playwright and JavaScript?](https://dev.to/codewithmmak/how-to-do-test-automation-using-playwright-and-javascript-2ebg)
 - [Lifehacker] [The Weirdest Ways You Never Knew You Could Reuse Banana Peels](https://lifehacker.com/the-weirdest-ways-you-never-knew-you-could-reuse-your-b-1849152343)
 - [Lifehacker] [Do This Android App Privacy Audit, I Beg You](https://lifehacker.com/do-this-android-app-privacy-audit-i-beg-you-1849151056)
 - [Lifehacker] [Where Are the Erogenous Zones, Anyway?](https://lifehacker.com/where-are-the-erogenous-zones-anyway-1849149916)
