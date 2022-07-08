@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using Slots with Fluent UI React v9](https://dev.to/paulgildea/using-slots-with-fluent-ui-react-v9-jf1)
+- [Lifehacker] [All the Ways Amazon Tricks You Into Spending More on Prime Day](https://lifehacker.com/all-the-ways-amazon-tricks-you-into-spending-more-on-pr-1849158042)
+- [Dev.to/JS] [How to Create a React Dropdown Control in Your Web Application](https://dev.to/grapecity/how-to-create-a-react-dropdown-control-in-your-web-application-ghk)
+- [Dev.to/JS] [Asynchronous](https://dev.to/ditaisy/asynchronous-and-callback-4gek)
+- [Dev.to/JS] [Spaceships and Testing in JavaScript](https://dev.to/helmuthdu/spaceships-and-testing-in-javascript-5b3h)
+- [Lifehacker] [6 of the Best Podcasts About Radical American Movements](https://lifehacker.com/6-of-the-best-podcasts-about-radical-american-movements-1849158055)
 - [Lifehacker] [Where to Get Free Breakfast, Lunch, and Dinner on Your Birthday](https://lifehacker.com/where-to-get-free-breakfast-lunch-and-dinner-on-your-1849157226)
 - [Dev.to/JS] [Late to React 18? My Top 4 awesome features and real-use examples.](https://dev.to/resourcefulmind/late-to-react-18-my-top-4-awesome-features-and-real-use-examples-23ln)
 - [Lifehacker] [The First Things You Need to Buy After Moving Into Your Starter Home](https://lifehacker.com/the-first-things-you-need-to-buy-after-moving-into-your-1849157065)
@@ -36,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Set These Bills to Autopay](https://lifehacker.com/dont-set-these-bills-to-autopay-1849156790)
 - [Dev.to/JS] [Microfrontends - uma visão geral e histórica sobre essa arquitetura.](https://dev.to/heltonss/microfrontends-uma-visao-geral-e-historica-sobre-essa-arquitetura-a45)
 - [Lifehacker] [How to Talk to Teachers and Coaches About Your Child’s Neurodivergency](https://lifehacker.com/how-to-talk-to-teachers-and-coaches-about-your-child-s-1849155910)
-- [Dev.to/JS] [Assorted Svelte demos: conditional wrappers, page transitions, actions](https://dev.to/geoffrich/assorted-svelte-demos-conditional-wrappers-page-transitions-actions-2ec4)
-- [Dev.to/JS] [Paracetamol.js💊| #162: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-162-explica-este-codigo-javascript-m42)
-- [Dev.to/JS] [Paracetamol.js💊| #161: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-161-explica-este-codigo-javascript-1kd6)
 - [Lifehacker] [How to Make Silky Sous Vide Eggs Without a Sous Vide](https://lifehacker.com/how-to-make-silky-sous-vide-eggs-without-a-sous-vide-1849153289)
-- [Dev.to/JS] [Biggest Casino Jackpot](https://dev.to/njoycasino/biggest-casino-jackpot-125h)
 - [Lifehacker] [The Only Good Advice for Shopping Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are &#39;Gentleminions&#39; Being Banned?](https://lifehacker.com/minions-movie-gentleminions-banned-theaters-1849155607)
 - [Lifehacker] [You Can Get Some of the Benefits of Sleeping While You&#39;re Still Awake](https://lifehacker.com/you-can-get-some-of-the-benefits-of-sleeping-while-your-1849154311)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do This Android App Privacy Audit, I Beg You](https://lifehacker.com/do-this-android-app-privacy-audit-i-beg-you-1849151056)
 - [Lifehacker] [Where Are the Erogenous Zones, Anyway?](https://lifehacker.com/where-are-the-erogenous-zones-anyway-1849149916)
 - [Lifehacker] [How to Tell You&#39;re About to be Laid Off](https://lifehacker.com/how-to-tell-youre-about-to-be-laid-off-1849150165)
-- [Lifehacker] [Lentils Make the Best Fake Minced Meat](https://lifehacker.com/lentils-make-the-best-fake-minced-meat-1849146006)
-- [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
