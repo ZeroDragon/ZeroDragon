@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Block scope in javascript](https://dev.to/aishanipach/block-scope-2g3n)
+- [Dev.to/JS] [How to add React to Angular app with PubSub.](https://dev.to/maparr/how-to-add-react-to-angular-app-with-pubsub-4h9k)
+- [Dev.to/JS] [Creating SVG Icons from JSON](https://dev.to/madsstoumann/creating-svg-icons-from-json-100a)
 - [Dev.to/JS] [WebRTC video performance compared to Zoom](https://dev.to/yashsrivastava176/webrtc-video-performance-compared-to-zoom-5e7a)
 - [Dev.to/JS] [BUN IS A LIGHTWEIGHT ALL-IN-ONE JAVASCRIPT RUNTIME.](https://dev.to/khansa/bun-is-a-lightweight-all-in-one-javascript-runtime-19oe)
 - [Dev.to/JS] [Life Update: Pursuing Master’s Degree](https://dev.to/yehezkielgunawan/life-update-pursuing-masters-degree-1hj8)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code snippet: a simple rate limiter](https://dev.to/pyrsmk/code-snippet-a-simple-rate-limiter-3gfk)
 - [Dev.to/JS] [Code snippet: How to test and understand DOM events better with this simple HTML snippet](https://dev.to/pyrsmk/code-snippet-how-to-test-and-understand-dom-events-better-with-this-simple-html-snippet-3dd6)
 - [Dev.to/JS] [Code snippet: A performant async queue](https://dev.to/pyrsmk/code-snippet-a-performant-async-queue-kdb)
-- [Dev.to/JS] [Code snippet: How to browse a directory recursively](https://dev.to/pyrsmk/code-snippet-how-to-browse-a-directory-recursively-2mh5)
-- [Dev.to/JS] [Life Cycle of a Component](https://dev.to/mdanassabah/life-cycle-of-a-component-56cp)
-- [Dev.to/JS] [Redux Demystified](https://dev.to/markved17/redux-demystified-ig6)
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
