@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Make Silky Sous Vide Eggs Without a Sous Vide](https://lifehacker.com/how-to-make-silky-sous-vide-eggs-without-a-sous-vide-1849153289)
+- [Dev.to/JS] [Biggest Casino Jackpot](https://dev.to/njoycasino/biggest-casino-jackpot-125h)
+- [Lifehacker] [The Only Good Advice for Shopping Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
+- [Dev.to/JS] [332. Reconstruct Itinerary 🚀](https://dev.to/samuelhinchliffe/332-reconstruct-itinerary-14kf)
 - [Dev.to/JS] [ChainBrake: Building the world&#39;s cheapest Agricultural Robot](https://dev.to/surgbc/chainbrake-building-the-worlds-cheapest-agricultural-robot-15kk)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are &#39;Gentleminions&#39; Being Banned?](https://lifehacker.com/minions-movie-gentleminions-banned-theaters-1849155607)
 - [Lifehacker] [You Can Get Some of the Benefits of Sleeping While You&#39;re Still Awake](https://lifehacker.com/you-can-get-some-of-the-benefits-of-sleeping-while-your-1849154311)
@@ -36,8 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Co-browsing: Redefine Your Contact Centre Operations](https://dev.to/yashsrivastava176/co-browsing-redefine-your-contact-centre-operations-idl)
 - [Dev.to/JS] [Block scope in javascript](https://dev.to/aishanipach/block-scope-2g3n)
 - [Dev.to/JS] [How to add React to Angular app with PubSub.](https://dev.to/maparr/how-to-add-react-to-angular-app-with-pubsub-4h9k)
-- [Dev.to/JS] [Creating SVG Icons from JSON](https://dev.to/madsstoumann/creating-svg-icons-from-json-100a)
-- [Dev.to/JS] [WebRTC video performance compared to Zoom](https://dev.to/yashsrivastava176/webrtc-video-performance-compared-to-zoom-5e7a)
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do When There&#39;s an Excessive Heat Warning](https://lifehacker.com/what-to-do-when-theres-an-excessive-heat-warning-1849148961)
 - [Lifehacker] [Three Easy Ways to Lower Your Monthly Energy Bill](https://lifehacker.com/three-easy-ways-to-lower-your-monthly-energy-bill-1849147465)
 - [Lifehacker] [Your Kitchen Scale&#39;s &quot;Fluid Ounces&quot; Setting Is a Lie](https://lifehacker.com/your-kitchen-scales-fluid-ounces-setting-is-a-lie-1849147616)
-- [Lifehacker] [Four Ways to Use Your Leftover Amarena Cherry Syrup](https://lifehacker.com/four-ways-to-use-your-leftover-amarena-cherry-syrup-1849144181)
-- [Lifehacker] [Update Chrome ASAP on Android and Windows](https://lifehacker.com/update-chrome-asap-on-android-and-windows-1849147018)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
