@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Automatically Turn Images Into Slideshow Video Using Node.js](https://dev.to/shotstack/automatically-turn-images-into-slideshow-video-using-nodejs-dka)
 - [Dev.to/JS] [JS Promise Example](https://dev.to/leoanimesh/js-promise-example-4oa9)
 - [Dev.to/JS] [So tried bun! the new JS runtime.](https://dev.to/theabhayprajapati/so-tried-bun-the-new-js-runtime-1bdd)
 - [Dev.to/JS] [Implement a CPU emulator &lpar;a virtual machine&rpar; in JavaScript](https://dev.to/codeguppy/implement-a-cpu-emulator-a-virtual-machine-in-javascript-4g95)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Breakout clone](https://dev.to/codeguppy/breakout-clone-5b6g)
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Dev.to/JS] [Generic VAST Transformer Lambda](https://dev.to/video/generic-vast-transformer-lambda-ddm)
-- [Dev.to/JS] [Compare Anything in JavaScript with Just A Function](https://dev.to/rasaf_ibrahim/compare-anything-in-javascript-with-just-a-function-5g1a)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
 - [Lifehacker] [Please, Never Open a PDF from a Strange Text](https://lifehacker.com/please-never-open-a-pdf-from-a-strange-text-1849153405)
