@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Promise Example](https://dev.to/leoanimesh/js-promise-example-4oa9)
+- [Dev.to/JS] [So tried bun! the new JS runtime.](https://dev.to/theabhayprajapati/so-tried-bun-the-new-js-runtime-1bdd)
+- [Dev.to/JS] [Implement a CPU emulator &lpar;a virtual machine&rpar; in JavaScript](https://dev.to/codeguppy/implement-a-cpu-emulator-a-virtual-machine-in-javascript-4g95)
 - [Dev.to/JS] [Clean Code where to start](https://dev.to/patrick0806/clean-code-where-to-start-2lpm)
 - [Dev.to/JS] [Bionic Reading and &quot;mini-library&quot; for it](https://dev.to/kylefontenot/bionic-reading-and-mini-library-for-it-ndn)
 - [Dev.to/JS] [Why typescript is unnecessary.](https://dev.to/qk/why-typescript-is-unnecessary-mac)
@@ -34,13 +37,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Generic VAST Transformer Lambda](https://dev.to/video/generic-vast-transformer-lambda-ddm)
 - [Dev.to/JS] [Compare Anything in JavaScript with Just A Function](https://dev.to/rasaf_ibrahim/compare-anything-in-javascript-with-just-a-function-5g1a)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
-- [Dev.to/JS] [Angular Standalone Component — Future of Angular](https://dev.to/ankit_k_sharma/angular-standalone-component-future-of-angular-37l2)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
 - [Lifehacker] [Please, Never Open a PDF from a Strange Text](https://lifehacker.com/please-never-open-a-pdf-from-a-strange-text-1849153405)
 - [Lifehacker] [When Are Cameras Legal in an Airbnb &lpar;and How Can You Spot Them&rpar;?](https://lifehacker.com/when-are-cameras-legal-in-an-airbnb-and-how-can-you-sp-1849151842)
-- [Dev.to/JS] [JavaScript - Funções parte 3](https://dev.to/h4ck3rtr4d3r/javascript-funcao-parte-3-1men)
 - [Lifehacker] [What to Do If You&#39;re Struck by Lightning &lpar;and How to Avoid It&rpar;](https://lifehacker.com/what-to-do-if-youre-struck-by-lightning-and-how-to-avo-1849152991)
-- [Dev.to/JS] [Writing Tests for Custom Matchers in Jest](https://dev.to/chiubaka/writing-tests-for-custom-matchers-in-jest-1cb3)
 - [Lifehacker] [How to Request House Arrest Instead of Going to Jail](https://lifehacker.com/how-to-request-house-arrest-instead-of-going-to-jail-1849152592)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Lifehacker] [Why You Should Never Plug In an Unknown USB Device](https://lifehacker.com/why-you-should-never-plug-in-an-unknown-usb-device-1849152035)
