@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Microfrontends - uma visão geral e histórica sobre essa arquitetura.](https://dev.to/heltonss/microfrontends-uma-visao-geral-e-historica-sobre-essa-arquitetura-a45)
+- [Lifehacker] [How to Talk to Teachers and Coaches About Your Child’s Neurodivergency](https://lifehacker.com/how-to-talk-to-teachers-and-coaches-about-your-child-s-1849155910)
+- [Dev.to/JS] [Assorted Svelte demos: conditional wrappers, page transitions, actions](https://dev.to/geoffrich/assorted-svelte-demos-conditional-wrappers-page-transitions-actions-2ec4)
+- [Dev.to/JS] [Paracetamol.js💊| #162: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-162-explica-este-codigo-javascript-m42)
+- [Dev.to/JS] [Paracetamol.js💊| #161: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-161-explica-este-codigo-javascript-1kd6)
 - [Lifehacker] [How to Make Silky Sous Vide Eggs Without a Sous Vide](https://lifehacker.com/how-to-make-silky-sous-vide-eggs-without-a-sous-vide-1849153289)
 - [Dev.to/JS] [Biggest Casino Jackpot](https://dev.to/njoycasino/biggest-casino-jackpot-125h)
 - [Lifehacker] [The Only Good Advice for Shopping Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
@@ -36,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Matrix time](https://dev.to/imagineeeinc/matrix-time-5enn)
 - [Dev.to/JS] [Using Dark Mode in your react app! 🌙](https://dev.to/franklin030601/using-dark-mode-in-your-react-app-5364)
 - [Dev.to/JS] [Usando Modo oscuro en tu aplicación de react! 🌙](https://dev.to/franklin030601/usando-modo-oscuro-en-tu-aplicacion-de-react-m48)
-- [Dev.to/JS] [White label Binance Clone Script with Exclusive Features](https://dev.to/thecryptoapeo/white-label-binance-clone-script-with-exclusive-features-4jid)
-- [Dev.to/JS] [Co-browsing: Redefine Your Contact Centre Operations](https://dev.to/yashsrivastava176/co-browsing-redefine-your-contact-centre-operations-idl)
-- [Dev.to/JS] [Block scope in javascript](https://dev.to/aishanipach/block-scope-2g3n)
-- [Dev.to/JS] [How to add React to Angular app with PubSub.](https://dev.to/maparr/how-to-add-react-to-angular-app-with-pubsub-4h9k)
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
 - [Lifehacker] [What to Do When There&#39;s an Excessive Heat Warning](https://lifehacker.com/what-to-do-when-theres-an-excessive-heat-warning-1849148961)
 - [Lifehacker] [Three Easy Ways to Lower Your Monthly Energy Bill](https://lifehacker.com/three-easy-ways-to-lower-your-monthly-energy-bill-1849147465)
-- [Lifehacker] [Your Kitchen Scale&#39;s &quot;Fluid Ounces&quot; Setting Is a Lie](https://lifehacker.com/your-kitchen-scales-fluid-ounces-setting-is-a-lie-1849147616)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
