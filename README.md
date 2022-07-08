@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeJS Event Emitter](https://dev.to/kalashin1/nodejs-event-emitter-37oe)
+- [Dev.to/JS] [How to insert an element at a specific array index with JavaScript](https://dev.to/dailydevtips1/how-to-insert-an-element-at-a-specific-array-index-with-javascript-5f5m)
 - [Dev.to/JS] [Memoization](https://dev.to/solexy/memoization-27c3)
 - [Dev.to/JS] [The story of web rendering patterns.](https://dev.to/swastikyadav/the-story-of-web-rendering-patterns-36lp)
 - [Dev.to/JS] [A simple hta program to document oracle tables](https://dev.to/casualwriter/a-simple-hta-program-to-document-oracle-tables-5b21)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Clean Code where to start](https://dev.to/patrick0806/clean-code-where-to-start-2lpm)
 - [Dev.to/JS] [Bionic Reading and &quot;mini-library&quot; for it](https://dev.to/kylefontenot/bionic-reading-and-mini-library-for-it-ndn)
 - [Dev.to/JS] [Why typescript is unnecessary.](https://dev.to/qk/why-typescript-is-unnecessary-mac)
-- [Dev.to/JS] [Body parsing in App Search](https://dev.to/llermaly/body-parsing-in-app-search-4ckc)
-- [Dev.to/JS] [JavaScript Syntax &amp; Structure Tutorial](https://dev.to/rembertdesigns/javascript-syntax-structure-tutorial-hf3)
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
