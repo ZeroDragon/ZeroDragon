@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
+- [Lifehacker] [How to Wash Silk Sheets If You Hate Wrinkles](https://lifehacker.com/how-to-wash-silk-sheets-if-you-hate-wrinkles-1849158413)
 - [Dev.to/JS] [JavaScript Conversão de tipo de dados - Parte 1](https://dev.to/h4ck3rtr4d3r/javascript-conversao-de-tipo-de-dados-parte-1-1612)
 - [Lifehacker] [Another Day, Another Dangerous Social Media Challenge](https://lifehacker.com/another-day-another-dangerous-social-media-challenge-1849157825)
 - [Dev.to/JS] [How to host Netlify CMS website on Fathym](https://dev.to/richkurtzman/how-to-host-netlify-cms-website-on-fathym-baf)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Lifehacker] [Why You Should Never Plug In an Unknown USB Device](https://lifehacker.com/why-you-should-never-plug-in-an-unknown-usb-device-1849152035)
 - [Lifehacker] [Your Hotel Mini-Fridge Might Not Be a Real Fridge](https://lifehacker.com/your-hotel-mini-fridge-might-not-be-a-real-fridge-1849152582)
-- [Lifehacker] [The Weirdest Ways You Never Knew You Could Reuse Banana Peels](https://lifehacker.com/the-weirdest-ways-you-never-knew-you-could-reuse-your-b-1849152343)
-- [Lifehacker] [Do This Android App Privacy Audit, I Beg You](https://lifehacker.com/do-this-android-app-privacy-audit-i-beg-you-1849151056)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
