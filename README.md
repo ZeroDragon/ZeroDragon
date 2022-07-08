@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Making RedwoodJS Easier with VSCode Dev Containers](https://dev.to/talk2megooseman/making-redwoodjs-easier-with-vscode-dev-containers-4j4)
+- [Dev.to/JS] [How to perform CRUD operations with PostgreeSQL,NodeJS,ExpressJS and KnexJS using Restful API](https://dev.to/bilalmohib/getting-started-with-restful-api-development-with-pern-38h9)
+- [Lifehacker] [15 of the Best Foodie Movies and TV Shows That Aren&#39;t &#39;The Bear&#39;](https://lifehacker.com/15-of-the-best-foodie-movies-and-tv-shows-that-arent-th-1849154310)
+- [Dev.to/JS] [Trimtone - Fat Loss Reviews, Results, Benefits &amp; Price?](https://dev.to/trimtonebuys/trimtone-fat-loss-reviews-results-benefits-price-455a)
+- [Dev.to/JS] [Rails or Express?](https://dev.to/swislokdev/rails-or-express-3d8)
+- [Dev.to/JS] [From adopting spaghetti code to 100% test coverage](https://dev.to/c6z3h/from-adopting-spaghetti-code-to-100-test-coverage-5b6o)
+- [Lifehacker] [Don&#39;t Set These Bills to Autopay](https://lifehacker.com/dont-set-these-bills-to-autopay-1849156790)
 - [Dev.to/JS] [Microfrontends - uma visão geral e histórica sobre essa arquitetura.](https://dev.to/heltonss/microfrontends-uma-visao-geral-e-historica-sobre-essa-arquitetura-a45)
 - [Lifehacker] [How to Talk to Teachers and Coaches About Your Child’s Neurodivergency](https://lifehacker.com/how-to-talk-to-teachers-and-coaches-about-your-child-s-1849155910)
 - [Dev.to/JS] [Assorted Svelte demos: conditional wrappers, page transitions, actions](https://dev.to/geoffrich/assorted-svelte-demos-conditional-wrappers-page-transitions-actions-2ec4)
@@ -35,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ChainBrake: Building the world&#39;s cheapest Agricultural Robot](https://dev.to/surgbc/chainbrake-building-the-worlds-cheapest-agricultural-robot-15kk)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are &#39;Gentleminions&#39; Being Banned?](https://lifehacker.com/minions-movie-gentleminions-banned-theaters-1849155607)
 - [Lifehacker] [You Can Get Some of the Benefits of Sleeping While You&#39;re Still Awake](https://lifehacker.com/you-can-get-some-of-the-benefits-of-sleeping-while-your-1849154311)
-- [Dev.to/JS] [New Features Introduced from ES2022](https://dev.to/ambush3/new-features-introduced-from-es2022-375k)
 - [Lifehacker] [You Need These Yogurt Cup Biscuits](https://lifehacker.com/you-need-these-yogurt-cup-biscuits-1849154731)
-- [Dev.to/JS] [How to create the mysterious Digital Signatures in React Native!](https://dev.to/kai_wenzel/how-to-create-the-mysterious-digital-signatures-in-react-native-2l49)
-- [Dev.to/JS] [Matrix time](https://dev.to/imagineeeinc/matrix-time-5enn)
-- [Dev.to/JS] [Using Dark Mode in your react app! 🌙](https://dev.to/franklin030601/using-dark-mode-in-your-react-app-5364)
-- [Dev.to/JS] [Usando Modo oscuro en tu aplicación de react! 🌙](https://dev.to/franklin030601/usando-modo-oscuro-en-tu-aplicacion-de-react-m48)
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Download &#39;The Matrix Awakens&#39; Right Now](https://lifehacker.com/you-should-download-the-matrix-awakens-right-now-1849149020)
 - [Lifehacker] [The Least-Awful Social Media Sites for Anyone Who Wants to Be Less Unhappy](https://lifehacker.com/the-least-awful-social-media-sites-for-anyone-who-wants-1849149104)
 - [Lifehacker] [Avoid These &#39;Toll Fraud&#39; Apps on Android](https://lifehacker.com/avoid-these-toll-fraud-apps-on-android-1849148927)
-- [Lifehacker] [What to Do When There&#39;s an Excessive Heat Warning](https://lifehacker.com/what-to-do-when-theres-an-excessive-heat-warning-1849148961)
-- [Lifehacker] [Three Easy Ways to Lower Your Monthly Energy Bill](https://lifehacker.com/three-easy-ways-to-lower-your-monthly-energy-bill-1849147465)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
