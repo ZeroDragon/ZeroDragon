@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [ChainBrake: Building the world&#39;s cheapest Agricultural Robot](https://dev.to/surgbc/chainbrake-building-the-worlds-cheapest-agricultural-robot-15kk)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are &#39;Gentleminions&#39; Being Banned?](https://lifehacker.com/minions-movie-gentleminions-banned-theaters-1849155607)
+- [Lifehacker] [You Can Get Some of the Benefits of Sleeping While You&#39;re Still Awake](https://lifehacker.com/you-can-get-some-of-the-benefits-of-sleeping-while-your-1849154311)
+- [Dev.to/JS] [New Features Introduced from ES2022](https://dev.to/ambush3/new-features-introduced-from-es2022-375k)
+- [Lifehacker] [You Need These Yogurt Cup Biscuits](https://lifehacker.com/you-need-these-yogurt-cup-biscuits-1849154731)
+- [Dev.to/JS] [How to create the mysterious Digital Signatures in React Native!](https://dev.to/kai_wenzel/how-to-create-the-mysterious-digital-signatures-in-react-native-2l49)
 - [Dev.to/JS] [Matrix time](https://dev.to/imagineeeinc/matrix-time-5enn)
 - [Dev.to/JS] [Using Dark Mode in your react app! 🌙](https://dev.to/franklin030601/using-dark-mode-in-your-react-app-5364)
 - [Dev.to/JS] [Usando Modo oscuro en tu aplicación de react! 🌙](https://dev.to/franklin030601/usando-modo-oscuro-en-tu-aplicacion-de-react-m48)
@@ -32,13 +38,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add React to Angular app with PubSub.](https://dev.to/maparr/how-to-add-react-to-angular-app-with-pubsub-4h9k)
 - [Dev.to/JS] [Creating SVG Icons from JSON](https://dev.to/madsstoumann/creating-svg-icons-from-json-100a)
 - [Dev.to/JS] [WebRTC video performance compared to Zoom](https://dev.to/yashsrivastava176/webrtc-video-performance-compared-to-zoom-5e7a)
-- [Dev.to/JS] [BUN IS A LIGHTWEIGHT ALL-IN-ONE JAVASCRIPT RUNTIME.](https://dev.to/khansa/bun-is-a-lightweight-all-in-one-javascript-runtime-19oe)
-- [Dev.to/JS] [Life Update: Pursuing Master’s Degree](https://dev.to/yehezkielgunawan/life-update-pursuing-masters-degree-1hj8)
-- [Dev.to/JS] [Naya Tab: A NEW TAB Browser extension like Brave Browser&#39;s new tab page](https://dev.to/sharadcodes/naya-tab-a-new-tab-browser-extension-like-brave-browsers-new-tab-page-57kp)
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
-- [Lifehacker] [Please, Never Open a PDF from a Strange Text](https://lifehacker.com/please-never-open-a-pdf-from-a-strange-text-1849153405)
+- [Lifehacker] [Please, Never Open a PDF From a Strange Text](https://lifehacker.com/please-never-open-a-pdf-from-a-strange-text-1849153405)
 - [Lifehacker] [When Are Cameras Legal in an Airbnb &lpar;and How Can You Spot Them&rpar;?](https://lifehacker.com/when-are-cameras-legal-in-an-airbnb-and-how-can-you-sp-1849151842)
 - [Lifehacker] [What to Do If You&#39;re Struck by Lightning &lpar;and How to Avoid It&rpar;](https://lifehacker.com/what-to-do-if-youre-struck-by-lightning-and-how-to-avo-1849152991)
 - [Lifehacker] [How to Request House Arrest Instead of Going to Jail](https://lifehacker.com/how-to-request-house-arrest-instead-of-going-to-jail-1849152592)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Kitchen Scale&#39;s &quot;Fluid Ounces&quot; Setting Is a Lie](https://lifehacker.com/your-kitchen-scales-fluid-ounces-setting-is-a-lie-1849147616)
 - [Lifehacker] [Four Ways to Use Your Leftover Amarena Cherry Syrup](https://lifehacker.com/four-ways-to-use-your-leftover-amarena-cherry-syrup-1849144181)
 - [Lifehacker] [Update Chrome ASAP on Android and Windows](https://lifehacker.com/update-chrome-asap-on-android-and-windows-1849147018)
-- [Lifehacker] [These Credit Cards Have the Best Built-In Travel Insurance](https://lifehacker.com/these-credit-cards-have-the-best-built-in-travel-insura-1849146516)
-- [Lifehacker] [How to Never Pay Full Price for an iPhone App Again](https://lifehacker.com/how-to-never-pay-full-price-for-an-iphone-app-again-1849146728)
-- [Lifehacker] [How to Never Get Locked Out of Your Apartment Again](https://lifehacker.com/how-to-never-get-locked-out-of-your-apartment-again-1849146996)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
 
