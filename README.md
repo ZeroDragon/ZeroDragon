@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Converting strings into camelCased strings](https://dev.to/juliafmorgado/converting-strings-into-camelcased-strings-35mi)
 - [Dev.to/JS] [First Blog Post!](https://dev.to/ldakanno/first-blog-post-3gpm)
 - [Dev.to/JS] [How to use Resize Observer with React](https://dev.to/murashow/how-to-use-resize-observer-with-react-5ff5)
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-7.1 &lpar; Authenticated Routes &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-71-authenticated-routes--e88)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Experience with Codecademy&#39;s &quot;Learn JavaScript&quot; course](https://dev.to/arupv/my-experience-with-codecademys-learn-javascript-course-52j0)
 - [Dev.to/JS] [JavaScript challenges_1 🐲](https://dev.to/mahmoudessam/javascript-challenges1-3on0)
 - [Dev.to/JS] [Refactoring Redux - A clever way](https://dev.to/ashishsurana/refactoring-redux-a-clever-way-1l)
-- [Dev.to/JS] [Daily activities](https://dev.to/thedzigner/daily-activities-55f1)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
