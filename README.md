@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React native flexbox](https://dev.to/evansifyke/react-native-flexbox-4g8d)
+- [Dev.to/JS] [TypeScript Array Type](https://dev.to/smpnjn/typescript-array-type-dli)
+- [Dev.to/JS] [What is Nullish Coalescing &lpar;or ??&rpar; in Javascript](https://dev.to/smpnjn/what-is-nullish-coalescing-or-in-javascript-2g5k)
+- [Dev.to/JS] [Type Casting in TypeScript](https://dev.to/smpnjn/type-casting-in-typescript-2m2m)
+- [Dev.to/JS] [TypeScript Optional Parameters](https://dev.to/smpnjn/typescript-optional-parameters-1793)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
 - [Dev.to/JS] [Personal Portfolio Website Redesign](https://dev.to/blistakanjo604/personal-portfolio-website-redesign-209i)
 - [Dev.to/JS] [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I learned how to use Python to do backend stuff with my frontend experience.](https://dev.to/gohomewho/i-learned-how-to-use-python-to-do-backend-stuff-with-my-frontend-experience-lbk)
 - [Dev.to/JS] [React won&#39;t load images...](https://dev.to/joshwen7947/react-wont-load-images-1po9)
 - [Dev.to/JS] [React and NodeJS: A Deadly Combination for Web Application Development](https://dev.to/ameliawenham/react-and-nodejs-a-deadly-combination-for-web-application-development-2ng5)
-- [Dev.to/JS] [Deploy/Host your website for free](https://dev.to/coditdoc/deployhost-your-website-for-free-4ffi)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;09-07-2022&rpar; - Mindblowing Crypto](https://dev.to/mjgs/this-weeks-newsletter-is-out-09-07-2022-mindblowing-crypto-4l7n)
-- [Dev.to/JS] [Top 10 VS Code Extension For Your Productivity](https://dev.to/tusharhow/top-10-vs-code-extension-for-your-productivity-21l6)
-- [Dev.to/JS] [Adimin - Weight Loss Reviews, Results, Benefits &amp; Price?](https://dev.to/adimininfo/adimin-weight-loss-reviews-results-benefits-price-g4p)
-- [Dev.to/JS] [JavaScript Proxy a first introduction](https://dev.to/dailydevtips1/javascript-proxy-a-first-introduction-4hgf)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
 - [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
