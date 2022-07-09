@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Proxy a first introduction](https://dev.to/dailydevtips1/javascript-proxy-a-first-introduction-4hgf)
 - [Dev.to/JS] [Refactoring](https://dev.to/tomek_21/refactoring-3jib)
 - [Dev.to/JS] [Closure in JavaScript](https://dev.to/akalaminamin/closure-in-javascript-137h)
 - [Dev.to/JS] [Create Custom Twitch Overlays With Svelte!](https://dev.to/helloitsian/create-custom-twitch-overlays-with-svelte-2nin)
@@ -39,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Wash Silk Sheets If You Hate Wrinkles](https://lifehacker.com/how-to-wash-silk-sheets-if-you-hate-wrinkles-1849158413)
 - [Dev.to/JS] [JavaScript Conversão de tipo de dados - Parte 1](https://dev.to/h4ck3rtr4d3r/javascript-conversao-de-tipo-de-dados-parte-1-1612)
 - [Lifehacker] [Another Day, Another Dangerous Social Media Challenge](https://lifehacker.com/another-day-another-dangerous-social-media-challenge-1849157825)
-- [Dev.to/JS] [How to host Netlify CMS website on Fathym](https://dev.to/richkurtzman/how-to-host-netlify-cms-website-on-fathym-baf)
 - [Lifehacker] [5 of the Most Difficult Video Games in Recent Memory](https://lifehacker.com/5-of-the-most-difficult-video-games-in-recent-memory-1849157905)
 - [Lifehacker] [All the Ways Amazon Tricks You Into Spending More on Prime Day](https://lifehacker.com/all-the-ways-amazon-tricks-you-into-spending-more-on-pr-1849158042)
 - [Lifehacker] [6 of the Best Podcasts About Radical American Movements](https://lifehacker.com/6-of-the-best-podcasts-about-radical-american-movements-1849158055)
