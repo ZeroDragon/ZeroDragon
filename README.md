@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Deploy/Host your website for free](https://dev.to/coditdoc/deployhost-your-website-for-free-4ffi)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;09-07-2022&rpar; - Mindblowing Crypto](https://dev.to/mjgs/this-weeks-newsletter-is-out-09-07-2022-mindblowing-crypto-4l7n)
 - [Dev.to/JS] [Top 10 VS Code Extension For Your Productivity](https://dev.to/tusharhow/top-10-vs-code-extension-for-your-productivity-21l6)
 - [Dev.to/JS] [Adimin - Weight Loss Reviews, Results, Benefits &amp; Price?](https://dev.to/adimininfo/adimin-weight-loss-reviews-results-benefits-price-g4p)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [UseEffect Hook](https://dev.to/avinashvagh/useeffect-hook-28a4)
 - [Dev.to/JS] [NextJs SEO Checklist: The Ultimate Roadmap To A Fast, SEO-ready Website](https://dev.to/sashevuchkov/nextjs-seo-checklist-the-ultimate-roadmap-to-a-fast-seo-ready-website-40f6)
 - [Dev.to/JS] [Use The DEV API With This NodeJS Package](https://dev.to/elitezen/use-the-dev-api-with-this-nodejs-package-2ij)
-- [Dev.to/JS] [Routing in React with React Location](https://dev.to/asayerio_techblog/routing-in-react-with-react-location-58kd)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
 - [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
