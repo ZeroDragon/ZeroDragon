@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to HACK Nginx](https://dev.to/cyberstorm200712/how-to-hack-nginx-521l)
+- [Dev.to/JS] [Which Programming language is faster at reading?](https://dev.to/fredysandoval/which-programming-language-is-faster-at-reading-10gn)
 - [Dev.to/JS] [Converting strings into camelCased strings](https://dev.to/juliafmorgado/converting-strings-into-camelcased-strings-35mi)
 - [Dev.to/JS] [First Blog Post!](https://dev.to/ldakanno/first-blog-post-3gpm)
 - [Dev.to/JS] [How to use Resize Observer with React](https://dev.to/murashow/how-to-use-resize-observer-with-react-5ff5)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Mind-blowing websites that you as a developer will not hate.](https://dev.to/hr21don/7-mind-blowing-websites-that-you-as-a-developer-will-not-hate-2j9h)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Dev.to/JS] [My Experience with Codecademy&#39;s &quot;Learn JavaScript&quot; course](https://dev.to/arupv/my-experience-with-codecademys-learn-javascript-course-52j0)
-- [Dev.to/JS] [JavaScript challenges_1 🐲](https://dev.to/mahmoudessam/javascript-challenges1-3on0)
-- [Dev.to/JS] [Refactoring Redux - A clever way](https://dev.to/ashishsurana/refactoring-redux-a-clever-way-1l)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
