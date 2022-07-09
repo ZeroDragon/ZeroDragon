@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Do you use TypeScript with projects only you will touch?](https://dev.to/juniorbatistard/do-you-use-typescript-with-projects-only-you-will-touch-de)
+- [Dev.to/JS] [UseEffect Hook](https://dev.to/avinashvagh/useeffect-hook-28a4)
 - [Dev.to/JS] [NextJs SEO Checklist: The Ultimate Roadmap To A Fast, SEO-ready Website](https://dev.to/sashevuchkov/nextjs-seo-checklist-the-ultimate-roadmap-to-a-fast-seo-ready-website-40f6)
 - [Dev.to/JS] [Use The DEV API With This NodeJS Package](https://dev.to/elitezen/use-the-dev-api-with-this-nodejs-package-2ij)
 - [Dev.to/JS] [Routing in React with React Location](https://dev.to/asayerio_techblog/routing-in-react-with-react-location-58kd)
@@ -40,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create a Vue Dropdown Control in Your Web Application](https://dev.to/grapecity/how-to-create-a-vue-dropdown-control-in-your-web-application-2pkd)
 - [Dev.to/JS] [Using Slots with Fluent UI React v9](https://dev.to/paulgildea/using-slots-with-fluent-ui-react-v9-jf1)
 - [Lifehacker] [All the Ways Amazon Tricks You Into Spending More on Prime Day](https://lifehacker.com/all-the-ways-amazon-tricks-you-into-spending-more-on-pr-1849158042)
-- [Dev.to/JS] [How to Create a React Dropdown Control in Your Web Application](https://dev.to/grapecity/how-to-create-a-react-dropdown-control-in-your-web-application-ghk)
-- [Dev.to/JS] [Asynchronous](https://dev.to/ditaisy/asynchronous-and-callback-4gek)
 - [Lifehacker] [6 of the Best Podcasts About Radical American Movements](https://lifehacker.com/6-of-the-best-podcasts-about-radical-american-movements-1849158055)
 - [Lifehacker] [Where to Get Free Breakfast, Lunch, and Dinner on Your Birthday](https://lifehacker.com/where-to-get-free-breakfast-lunch-and-dinner-on-your-1849157226)
 - [Lifehacker] [The First Things You Need to Buy After Moving Into Your Starter Home](https://lifehacker.com/the-first-things-you-need-to-buy-after-moving-into-your-1849157065)
