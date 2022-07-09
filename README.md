@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Mind-blowing websites that you as a developer will not hate.](https://dev.to/hr21don/7-mind-blowing-websites-that-you-as-a-developer-will-not-hate-2j9h)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Dev.to/JS] [My Experience with Codecademy&#39;s &quot;Learn JavaScript&quot; course](https://dev.to/arupv/my-experience-with-codecademys-learn-javascript-course-52j0)
 - [Dev.to/JS] [JavaScript challenges_1 🐲](https://dev.to/mahmoudessam/javascript-challenges1-3on0)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Style your Nette Framework website faster with Stylify CSS](https://dev.to/machy8/style-your-nette-framework-website-faster-with-stylify-css-5cli)
 - [Dev.to/JS] [React native flexbox](https://dev.to/evansifyke/react-native-flexbox-4g8d)
 - [Dev.to/JS] [TypeScript Array Type](https://dev.to/smpnjn/typescript-array-type-dli)
-- [Dev.to/JS] [What is Nullish Coalescing &lpar;or ??&rpar; in Javascript](https://dev.to/smpnjn/what-is-nullish-coalescing-or-in-javascript-2g5k)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
