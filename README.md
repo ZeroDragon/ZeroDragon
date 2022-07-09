@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Adimin - Weight Loss Reviews, Results, Benefits &amp; Price?](https://dev.to/adimininfo/adimin-weight-loss-reviews-results-benefits-price-g4p)
 - [Dev.to/JS] [JavaScript Proxy a first introduction](https://dev.to/dailydevtips1/javascript-proxy-a-first-introduction-4hgf)
 - [Dev.to/JS] [Refactoring](https://dev.to/tomek_21/refactoring-3jib)
 - [Dev.to/JS] [Closure in JavaScript](https://dev.to/akalaminamin/closure-in-javascript-137h)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
 - [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
 - [Lifehacker] [How to Wash Silk Sheets If You Hate Wrinkles](https://lifehacker.com/how-to-wash-silk-sheets-if-you-hate-wrinkles-1849158413)
-- [Dev.to/JS] [JavaScript Conversão de tipo de dados - Parte 1](https://dev.to/h4ck3rtr4d3r/javascript-conversao-de-tipo-de-dados-parte-1-1612)
 - [Lifehacker] [Another Day, Another Dangerous Social Media Challenge](https://lifehacker.com/another-day-another-dangerous-social-media-challenge-1849157825)
 - [Lifehacker] [5 of the Most Difficult Video Games in Recent Memory](https://lifehacker.com/5-of-the-most-difficult-video-games-in-recent-memory-1849157905)
 - [Lifehacker] [All the Ways Amazon Tricks You Into Spending More on Prime Day](https://lifehacker.com/all-the-ways-amazon-tricks-you-into-spending-more-on-pr-1849158042)
