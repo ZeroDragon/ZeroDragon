@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create Custom Twitch Overlays With Svelte!](https://dev.to/helloitsian/create-custom-twitch-overlays-with-svelte-2nin)
 - [Dev.to/JS] [Do you use TypeScript with projects only you will touch?](https://dev.to/juniorbatistard/do-you-use-typescript-with-projects-only-you-will-touch-de)
 - [Dev.to/JS] [UseEffect Hook](https://dev.to/avinashvagh/useeffect-hook-28a4)
 - [Dev.to/JS] [NextJs SEO Checklist: The Ultimate Roadmap To A Fast, SEO-ready Website](https://dev.to/sashevuchkov/nextjs-seo-checklist-the-ultimate-roadmap-to-a-fast-seo-ready-website-40f6)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Create an Angular Dropdown Control in Your Web Application](https://dev.to/grapecity/how-to-create-an-angular-dropdown-control-in-your-web-application-ogh)
 - [Lifehacker] [5 of the Most Difficult Video Games in Recent Memory](https://lifehacker.com/5-of-the-most-difficult-video-games-in-recent-memory-1849157905)
 - [Dev.to/JS] [How to Create a Vue Dropdown Control in Your Web Application](https://dev.to/grapecity/how-to-create-a-vue-dropdown-control-in-your-web-application-2pkd)
-- [Dev.to/JS] [Using Slots with Fluent UI React v9](https://dev.to/paulgildea/using-slots-with-fluent-ui-react-v9-jf1)
 - [Lifehacker] [All the Ways Amazon Tricks You Into Spending More on Prime Day](https://lifehacker.com/all-the-ways-amazon-tricks-you-into-spending-more-on-pr-1849158042)
 - [Lifehacker] [6 of the Best Podcasts About Radical American Movements](https://lifehacker.com/6-of-the-best-podcasts-about-radical-american-movements-1849158055)
 - [Lifehacker] [Where to Get Free Breakfast, Lunch, and Dinner on Your Birthday](https://lifehacker.com/where-to-get-free-breakfast-lunch-and-dinner-on-your-1849157226)
