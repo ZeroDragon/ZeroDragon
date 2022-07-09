@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
+- [Dev.to/JS] [Travel Website Using Html CSS JavaScript](https://dev.to/codewithsadee/travel-website-using-html-css-javascript-2gh)
+- [Dev.to/JS] [What is Scope in JavaScript?](https://dev.to/rakshit/what-is-scope-in-javascript-b3)
+- [Dev.to/JS] [Style your Nette Framework website faster with Stylify CSS](https://dev.to/machy8/style-your-nette-framework-website-faster-with-stylify-css-5cli)
 - [Dev.to/JS] [React native flexbox](https://dev.to/evansifyke/react-native-flexbox-4g8d)
 - [Dev.to/JS] [TypeScript Array Type](https://dev.to/smpnjn/typescript-array-type-dli)
 - [Dev.to/JS] [What is Nullish Coalescing &lpar;or ??&rpar; in Javascript](https://dev.to/smpnjn/what-is-nullish-coalescing-or-in-javascript-2g5k)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
 - [Dev.to/JS] [opencodegrep : opensouce code compiler](https://dev.to/nisabmohd/opencodegrep-opensouce-code-compiler-3l5)
 - [Dev.to/JS] [How to build a Vue.js App without Node, Webpack, npm or build tools](https://dev.to/webdeasy/how-to-build-a-vuejs-app-without-node-webpack-npm-or-build-tools-2b57)
-- [Dev.to/JS] [I learned how to use Python to do backend stuff with my frontend experience.](https://dev.to/gohomewho/i-learned-how-to-use-python-to-do-backend-stuff-with-my-frontend-experience-lbk)
-- [Dev.to/JS] [React won&#39;t load images...](https://dev.to/joshwen7947/react-wont-load-images-1po9)
-- [Dev.to/JS] [React and NodeJS: A Deadly Combination for Web Application Development](https://dev.to/ameliawenham/react-and-nodejs-a-deadly-combination-for-web-application-development-2ng5)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
 - [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
 - [Lifehacker] [Please, Never Open a PDF From a Strange Text](https://lifehacker.com/please-never-open-a-pdf-from-a-strange-text-1849153405)
 - [Lifehacker] [When Are Cameras Legal in an Airbnb &lpar;and How Can You Spot Them&rpar;?](https://lifehacker.com/when-are-cameras-legal-in-an-airbnb-and-how-can-you-sp-1849151842)
-- [Lifehacker] [What to Do If You&#39;re Struck by Lightning &lpar;and How to Avoid It&rpar;](https://lifehacker.com/what-to-do-if-youre-struck-by-lightning-and-how-to-avo-1849152991)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
