@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Refactoring Redux - A clever way](https://dev.to/ashishsurana/refactoring-redux-a-clever-way-1l)
+- [Dev.to/JS] [Daily activities](https://dev.to/thedzigner/daily-activities-55f1)
+- [Dev.to/JS] [Hello World in Javascript !](https://dev.to/theamitprajapati/hello-world-in-javascript--459p)
+- [Dev.to/JS] [Closures in javascript &lpar;🔖&rpar;](https://dev.to/aishanipach/closures-in-javascript--21f0)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
 - [Dev.to/JS] [Travel Website Using Html CSS JavaScript](https://dev.to/codewithsadee/travel-website-using-html-css-javascript-2gh)
 - [Dev.to/JS] [What is Scope in JavaScript?](https://dev.to/rakshit/what-is-scope-in-javascript-b3)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Type Casting in TypeScript](https://dev.to/smpnjn/type-casting-in-typescript-2m2m)
 - [Dev.to/JS] [TypeScript Optional Parameters](https://dev.to/smpnjn/typescript-optional-parameters-1793)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
-- [Dev.to/JS] [Personal Portfolio Website Redesign](https://dev.to/blistakanjo604/personal-portfolio-website-redesign-209i)
-- [Dev.to/JS] [It&#39;s my first post](https://dev.to/minishok/its-my-first-post-2dn5)
-- [Dev.to/JS] [opencodegrep : opensouce code compiler](https://dev.to/nisabmohd/opencodegrep-opensouce-code-compiler-3l5)
-- [Dev.to/JS] [How to build a Vue.js App without Node, Webpack, npm or build tools](https://dev.to/webdeasy/how-to-build-a-vuejs-app-without-node-webpack-npm-or-build-tools-2b57)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
 - [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
