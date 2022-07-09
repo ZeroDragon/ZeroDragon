@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
+- [Dev.to/JS] [My Experience with Codecademy&#39;s &quot;Learn JavaScript&quot; course](https://dev.to/arupv/my-experience-with-codecademys-learn-javascript-course-52j0)
+- [Dev.to/JS] [JavaScript challenges_1 🐲](https://dev.to/mahmoudessam/javascript-challenges1-3on0)
 - [Dev.to/JS] [Refactoring Redux - A clever way](https://dev.to/ashishsurana/refactoring-redux-a-clever-way-1l)
 - [Dev.to/JS] [Daily activities](https://dev.to/thedzigner/daily-activities-55f1)
 - [Dev.to/JS] [Hello World in Javascript !](https://dev.to/theamitprajapati/hello-world-in-javascript--459p)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React native flexbox](https://dev.to/evansifyke/react-native-flexbox-4g8d)
 - [Dev.to/JS] [TypeScript Array Type](https://dev.to/smpnjn/typescript-array-type-dli)
 - [Dev.to/JS] [What is Nullish Coalescing &lpar;or ??&rpar; in Javascript](https://dev.to/smpnjn/what-is-nullish-coalescing-or-in-javascript-2g5k)
-- [Dev.to/JS] [Type Casting in TypeScript](https://dev.to/smpnjn/type-casting-in-typescript-2m2m)
-- [Dev.to/JS] [TypeScript Optional Parameters](https://dev.to/smpnjn/typescript-optional-parameters-1793)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
 - [Lifehacker] [Please, Never Open a PDF From a Strange Text](https://lifehacker.com/please-never-open-a-pdf-from-a-strange-text-1849153405)
-- [Lifehacker] [When Are Cameras Legal in an Airbnb &lpar;and How Can You Spot Them&rpar;?](https://lifehacker.com/when-are-cameras-legal-in-an-airbnb-and-how-can-you-sp-1849151842)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
