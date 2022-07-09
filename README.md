@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;09-07-2022&rpar; - Mindblowing Crypto](https://dev.to/mjgs/this-weeks-newsletter-is-out-09-07-2022-mindblowing-crypto-4l7n)
+- [Dev.to/JS] [Top 10 VS Code Extension For Your Productivity](https://dev.to/tusharhow/top-10-vs-code-extension-for-your-productivity-21l6)
 - [Dev.to/JS] [Adimin - Weight Loss Reviews, Results, Benefits &amp; Price?](https://dev.to/adimininfo/adimin-weight-loss-reviews-results-benefits-price-g4p)
 - [Dev.to/JS] [JavaScript Proxy a first introduction](https://dev.to/dailydevtips1/javascript-proxy-a-first-introduction-4hgf)
 - [Dev.to/JS] [Refactoring](https://dev.to/tomek_21/refactoring-3jib)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NextJs SEO Checklist: The Ultimate Roadmap To A Fast, SEO-ready Website](https://dev.to/sashevuchkov/nextjs-seo-checklist-the-ultimate-roadmap-to-a-fast-seo-ready-website-40f6)
 - [Dev.to/JS] [Use The DEV API With This NodeJS Package](https://dev.to/elitezen/use-the-dev-api-with-this-nodejs-package-2ij)
 - [Dev.to/JS] [Routing in React with React Location](https://dev.to/asayerio_techblog/routing-in-react-with-react-location-58kd)
-- [Dev.to/JS] [How to create React UIKIT components in TypeScript that extends native HTML Elements](https://dev.to/fabiobiondi/how-to-write-react-uikit-components-in-typescript-that-extends-native-elements-1f2k)
-- [Dev.to/JS] [Import external Javascript libraries with just HTML&lpar; No npm install &rpar;🔥](https://dev.to/smitterhane/import-external-javascript-libraries-with-just-html-no-npm-install--552o)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
 - [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
