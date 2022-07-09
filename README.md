@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First Blog Post!](https://dev.to/ldakanno/first-blog-post-3gpm)
+- [Dev.to/JS] [How to use Resize Observer with React](https://dev.to/murashow/how-to-use-resize-observer-with-react-5ff5)
+- [Dev.to/JS] [ECOMMERCE Website Using MERN Part-7.1 &lpar; Authenticated Routes &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-71-authenticated-routes--e88)
+- [Dev.to/JS] [How to get information of an Element on click in JS](https://dev.to/acw0415/how-to-get-information-of-an-element-on-click-in-js-1n9c)
+- [Dev.to/JS] [“this” keyword in javascript](https://dev.to/pravinkumar95/this-keyword-in-javascript-o09)
 - [Dev.to/JS] [Creating Weather App using Weather API and Node Js : Part One](https://dev.to/adolphtech/creating-weather-app-using-weather-api-and-node-js-part-one-1n49)
 - [Dev.to/JS] [JavaScript Data Type Conversion Tutorial](https://dev.to/rembertdesigns/javascript-data-type-conversion-tutorial-3o8m)
 - [Dev.to/JS] [7 Mind-blowing websites that you as a developer will not hate.](https://dev.to/hr21don/7-mind-blowing-websites-that-you-as-a-developer-will-not-hate-2j9h)
@@ -31,12 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript challenges_1 🐲](https://dev.to/mahmoudessam/javascript-challenges1-3on0)
 - [Dev.to/JS] [Refactoring Redux - A clever way](https://dev.to/ashishsurana/refactoring-redux-a-clever-way-1l)
 - [Dev.to/JS] [Daily activities](https://dev.to/thedzigner/daily-activities-55f1)
-- [Dev.to/JS] [Hello World in Javascript !](https://dev.to/theamitprajapati/hello-world-in-javascript--459p)
-- [Dev.to/JS] [Closures in javascript &lpar;🔖&rpar;](https://dev.to/aishanipach/closures-in-javascript--21f0)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
-- [Dev.to/JS] [Travel Website Using Html CSS JavaScript](https://dev.to/codewithsadee/travel-website-using-html-css-javascript-2gh)
-- [Dev.to/JS] [What is Scope in JavaScript?](https://dev.to/rakshit/what-is-scope-in-javascript-b3)
-- [Dev.to/JS] [Style your Nette Framework website faster with Stylify CSS](https://dev.to/machy8/style-your-nette-framework-website-faster-with-stylify-css-5cli)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
