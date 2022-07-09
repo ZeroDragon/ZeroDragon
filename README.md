@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating Weather App using Weather API and Node Js : Part One](https://dev.to/adolphtech/creating-weather-app-using-weather-api-and-node-js-part-one-1n49)
 - [Dev.to/JS] [JavaScript Data Type Conversion Tutorial](https://dev.to/rembertdesigns/javascript-data-type-conversion-tutorial-3o8m)
 - [Dev.to/JS] [7 Mind-blowing websites that you as a developer will not hate.](https://dev.to/hr21don/7-mind-blowing-websites-that-you-as-a-developer-will-not-hate-2j9h)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Travel Website Using Html CSS JavaScript](https://dev.to/codewithsadee/travel-website-using-html-css-javascript-2gh)
 - [Dev.to/JS] [What is Scope in JavaScript?](https://dev.to/rakshit/what-is-scope-in-javascript-b3)
 - [Dev.to/JS] [Style your Nette Framework website faster with Stylify CSS](https://dev.to/machy8/style-your-nette-framework-website-faster-with-stylify-css-5cli)
-- [Dev.to/JS] [React native flexbox](https://dev.to/evansifyke/react-native-flexbox-4g8d)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
