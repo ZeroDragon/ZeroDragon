@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Start Using JS with the DOM](https://dev.to/chabulsqu/start-using-js-with-the-dom-4acd)
 - [Dev.to/JS] [Install Bun on WSL](https://dev.to/hanancs/install-bun-on-wsl-59m1)
 - [Dev.to/JS] [Visual Studio Code For Absolute Beginner](https://dev.to/codewithmmak/visual-studio-code-for-absolute-beginner-21mm)
 - [Dev.to/JS] [How to create simple email form in your NodeJS website](https://dev.to/pavel_polivka/how-to-create-simple-email-form-in-your-nodejs-website-3end)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ultimate Node.js starter that scales with DI, native TypeScript, super fast unit tests and all batteries included](https://dev.to/bfunc/bulletproof-nodejs-starter-that-scales-with-di-native-typescript-super-fast-unit-tests-and-all-batteries-included-1a85)
 - [Dev.to/JS] [Should you use SvelteKit for your Chrome Extension?](https://dev.to/michmich112/should-you-use-sveltekit-for-your-chrome-extension-2eja)
 - [Dev.to/JS] [Create particles in 3D space using threejs to simulate visual effects](https://dev.to/smitterhane/create-particles-in-3d-space-using-threejs-to-simulate-visual-effects-o8o)
-- [Dev.to/JS] [Velo by Wix: Download your Velo code files to your computer](https://dev.to/shoonia/velo-by-wix-download-your-velo-code-files-to-your-computer-1g85)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
