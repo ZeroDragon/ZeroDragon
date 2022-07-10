@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [It’s a &lpar;Testing&rpar; trap! — Vue Amsterdam Conference 2022 Summary series — Sixth Talk](https://dev.to/mohsen_vaziri/its-a-testing-trap-vue-amsterdam-conference-2022-summary-series-sixth-talk-dkf)
 - [Dev.to/JS] [Hi, everybody, Nice to meet you.](https://dev.to/supersharktg/hi-everybody-nice-to-meet-you-4m7p)
 - [Dev.to/JS] [What&#39;s New in React 18](https://dev.to/mobinveisy/whats-new-in-react-18-4m42)
 - [Dev.to/JS] [Quiz App using Javascript](https://dev.to/smrpdl1991/quiz-app-using-javascript-58ei)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A custom right click menu on Angular : FEAT PrimeNg](https://dev.to/shrihari/a-custom-right-click-menu-on-angular-feat-primeng-4hji)
 - [Dev.to/JS] [Detect object changes with JavaScript Proxy](https://dev.to/dailydevtips1/detect-object-changes-with-javascript-proxy-1o5g)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 4 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-4-report-bl0)
-- [Dev.to/JS] [The JavaScript Time Machine](https://dev.to/omher/the-javascript-time-machine-23bl)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
