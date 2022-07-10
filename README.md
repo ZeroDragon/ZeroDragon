@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Journey](https://dev.to/shalomdauphin/js-journey-50je)
+- [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
+- [Dev.to/JS] [Online Free Web Tools](https://dev.to/picklu/online-free-web-tools-39nc)
+- [Dev.to/JS] [How To Generate 1,000 Personalized Videos With Node.js Within 1 Minute](https://dev.to/shotstack/how-to-generate-1000-personalized-videos-with-nodejs-within-1-minute-28ip)
 - [Dev.to/JS] [I couldn&#39;t solve this problem. can anyone help me with this..](https://dev.to/santoshkuchetti/i-couldnt-solve-this-problem-can-anyone-help-me-with-this-40d8)
 - [Dev.to/JS] [It’s a &lpar;Testing&rpar; trap! — Vue Amsterdam Conference 2022 Summary series — Sixth Talk](https://dev.to/mohsen_vaziri/its-a-testing-trap-vue-amsterdam-conference-2022-summary-series-sixth-talk-dkf)
 - [Dev.to/JS] [Hi, everybody, Nice to meet you.](https://dev.to/supersharktg/hi-everybody-nice-to-meet-you-4m7p)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hide a div on clicking outside it with jQuery](https://dev.to/smrpdl1991/hide-a-div-on-clicking-outside-it-with-jquery-2m54)
 - [Dev.to/JS] [React js - Filter the blog article with category using select options](https://dev.to/smrpdl1991/react-js-filter-the-blog-article-with-category-using-select-options-d3f)
 - [Dev.to/JS] [why use react-query instead of axios/fetch?](https://dev.to/iamvkm/why-use-react-query-instead-of-axiosfetch-3gp6)
-- [Dev.to/JS] [Write the code to print the even numbers ?](https://dev.to/theamitprajapati/write-the-code-to-print-the-even-numbers--1h3d)
-- [Dev.to/JS] [A custom right click menu on Angular : FEAT PrimeNg](https://dev.to/shrihari/a-custom-right-click-menu-on-angular-feat-primeng-4hji)
-- [Dev.to/JS] [Detect object changes with JavaScript Proxy](https://dev.to/dailydevtips1/detect-object-changes-with-javascript-proxy-1o5g)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Lifehacker] [The Suicide Prevention Lifeline Is Getting a New Number](https://lifehacker.com/the-suicide-prevention-lifeline-is-getting-a-new-number-1849154009)
-- [Lifehacker] [Please, Never Open a PDF From a Strange Text](https://lifehacker.com/please-never-open-a-pdf-from-a-strange-text-1849153405)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
