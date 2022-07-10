@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Keagate: Open-source, high-performance alternative to Coinbase Commerce &amp; CoinGate.](https://dev.to/mbagley1020/keagate-open-source-high-performance-alternative-to-coinbase-commerce-coingate-2h40)
+- [Dev.to/JS] [How to create Google Maps clone with Next.js, Prisma, and Postgres.](https://dev.to/isaacdyor/how-to-create-google-maps-clone-with-nextjs-prisma-and-postgres-305h)
+- [Dev.to/JS] [Some Recursion Practice Notes](https://dev.to/benboorstein/some-recursion-practice-notes-217f)
 - [Dev.to/JS] [Roadmap to Success: 3 lessons I learned from 61 of the most influential JavaScript developers](https://dev.to/sashevuchkov/roadmap-to-success-3-lessons-i-learned-from-61-of-the-most-influential-javascript-developers-53k9)
 - [Dev.to/JS] [Communicating with a JSON Server with GET, POST, DELETE, and PATCH Requests...It&#39;s Easier Than You Think](https://dev.to/nickwarren47/communicating-with-a-json-server-with-get-post-delete-and-patch-requestsits-easier-than-you-think-3ca2)
 - [Dev.to/JS] [Input Mask Algorithm](https://dev.to/calebdre/input-mask-algorithm-33am)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Start Using JS with the DOM](https://dev.to/chabulsqu/start-using-js-with-the-dom-4acd)
 - [Dev.to/JS] [Install Bun on WSL](https://dev.to/hanancs/install-bun-on-wsl-59m1)
 - [Dev.to/JS] [Visual Studio Code For Absolute Beginner](https://dev.to/codewithmmak/visual-studio-code-for-absolute-beginner-21mm)
-- [Dev.to/JS] [How to create simple email form in your NodeJS website](https://dev.to/pavel_polivka/how-to-create-simple-email-form-in-your-nodejs-website-3end)
-- [Dev.to/JS] [Decentralized Social Network, Subgraphs, IPFS - Polygon Week 4](https://dev.to/neelansh15/decentralized-social-network-subgraphs-ipfs-polygon-week-4-1ci2)
-- [Dev.to/JS] [Simon game with socket.io leaderboard table](https://dev.to/muedgar/simon-game-with-socketio-leaderboard-table-1bdb)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
