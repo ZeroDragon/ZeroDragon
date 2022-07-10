@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Doodle 0.8.0 Supports 3D](https://dev.to/pusolito/doodle-080-supports-3d-4ml4)
 - [Dev.to/JS] [746. Leetcode solution in JavaScript](https://dev.to/chiki1601/746-leetcode-solution-in-javascript-1h0i)
 - [Dev.to/JS] [Next.js Adventures: Some Blasphemy Against The Holy Image Component](https://dev.to/sashevuchkov/nextjs-adventures-some-blasphemy-against-the-holy-image-component-3ib9)
 - [Dev.to/JS] [Templating a Node.js app with EJS](https://dev.to/lebcit/templating-a-nodejs-app-with-ejs-1ac4)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ECOMMERCE Website Using MERN Part-7.1 &lpar; Authenticated Routes &rpar;](https://dev.to/bikramjeetsarmah/ecommerce-website-using-mern-part-71-authenticated-routes--e88)
 - [Dev.to/JS] [How to get information of an Element on click in JS](https://dev.to/acw0415/how-to-get-information-of-an-element-on-click-in-js-1n9c)
 - [Dev.to/JS] [“this” keyword in javascript](https://dev.to/pravinkumar95/this-keyword-in-javascript-o09)
-- [Dev.to/JS] [Creating Weather App using Weather API and Node Js : Part One](https://dev.to/adolphtech/creating-weather-app-using-weather-api-and-node-js-part-one-1n49)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
