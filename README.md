@@ -23,9 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Reasons Why React is King of JavaScript UI Frameworks](https://dev.to/kalashin1/7-reasons-why-react-is-king-of-javascript-ui-frameworks-1j76)
+- [Dev.to/JS] [Separate numbers in input with Angular Directive](https://dev.to/rezanazari/separate-numbers-in-input-with-angular-directive-p4k)
 - [Dev.to/JS] [Mass-Site-Visitor-MSV-&lpar;CRACK&rpar;](https://dev.to/seosoft/mass-site-visitor-msv-crack-lj5)
 - [Dev.to/JS] [How to upload file using expressJS](https://dev.to/aamchora/how-to-upload-file-using-expressjs-cih)
 - [Dev.to/JS] [Software Engineering Journey Update &lpar;7/3/22 - 7/9/22&rpar;](https://dev.to/nycdevethan/software-engineering-journey-update-22-22-5h0k)
+- [Dev.to/JS] [ReactJs QR Code Generator](https://dev.to/gayathri_r/reactjs-qr-code-generator-200o)
 - [Dev.to/JS] [TypeScript Library](https://dev.to/mpv55mx1/typescript-library-l87)
 - [Dev.to/JS] [JavaScript Software Development: Entrepreneur’s First Steps](https://dev.to/sandra_parker/javascript-software-development-entrepreneurs-first-steps-59ba)
 - [Dev.to/JS] [Free online Courses - July 10th, 2022](https://dev.to/theprogramminbuddyclub/free-online-courses-july-10th-2022-44no)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
 - [Dev.to/JS] [Online Free Web Tools](https://dev.to/picklu/online-free-web-tools-39nc)
 - [Dev.to/JS] [How To Generate 1,000 Personalized Videos With Node.js Within 1 Minute](https://dev.to/shotstack/how-to-generate-1000-personalized-videos-with-nodejs-within-1-minute-28ip)
-- [Dev.to/JS] [I couldn&#39;t solve this problem. can anyone help me with this..](https://dev.to/santoshkuchetti/i-couldnt-solve-this-problem-can-anyone-help-me-with-this-40d8)
-- [Dev.to/JS] [It’s a &lpar;Testing&rpar; trap! — Vue Amsterdam Conference 2022 Summary series — Sixth Talk](https://dev.to/mohsen_vaziri/its-a-testing-trap-vue-amsterdam-conference-2022-summary-series-sixth-talk-dkf)
-- [Dev.to/JS] [Hi, everybody, Nice to meet you.](https://dev.to/supersharktg/hi-everybody-nice-to-meet-you-4m7p)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
