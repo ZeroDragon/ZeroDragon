@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I couldn&#39;t solve this problem. can anyone help me with this..](https://dev.to/santoshkuchetti/i-couldnt-solve-this-problem-can-anyone-help-me-with-this-40d8)
 - [Dev.to/JS] [It’s a &lpar;Testing&rpar; trap! — Vue Amsterdam Conference 2022 Summary series — Sixth Talk](https://dev.to/mohsen_vaziri/its-a-testing-trap-vue-amsterdam-conference-2022-summary-series-sixth-talk-dkf)
 - [Dev.to/JS] [Hi, everybody, Nice to meet you.](https://dev.to/supersharktg/hi-everybody-nice-to-meet-you-4m7p)
 - [Dev.to/JS] [What&#39;s New in React 18](https://dev.to/mobinveisy/whats-new-in-react-18-4m42)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Write the code to print the even numbers ?](https://dev.to/theamitprajapati/write-the-code-to-print-the-even-numbers--1h3d)
 - [Dev.to/JS] [A custom right click menu on Angular : FEAT PrimeNg](https://dev.to/shrihari/a-custom-right-click-menu-on-angular-feat-primeng-4hji)
 - [Dev.to/JS] [Detect object changes with JavaScript Proxy](https://dev.to/dailydevtips1/detect-object-changes-with-javascript-proxy-1o5g)
-- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 4 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-4-report-bl0)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
