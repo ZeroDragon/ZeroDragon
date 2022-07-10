@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
+- [Dev.to/JS] [Peculiaridades do JS. Que não são erros! Nem esquisitice! - Null](https://dev.to/urielsouza29/peculiaridades-do-js-que-nao-sao-erros-nem-esquisitice-null-1kga)
+- [Dev.to/JS] [Weekly Digest 27/2022](https://dev.to/marcobiedermann/weekly-digest-272022-eh1)
+- [Dev.to/JS] [Ultimate Node.js starter that scales with DI, native TypeScript, super fast unit tests and all batteries included](https://dev.to/bfunc/bulletproof-nodejs-starter-that-scales-with-di-native-typescript-super-fast-unit-tests-and-all-batteries-included-1a85)
 - [Dev.to/JS] [Should you use SvelteKit for your Chrome Extension?](https://dev.to/michmich112/should-you-use-sveltekit-for-your-chrome-extension-2eja)
 - [Dev.to/JS] [Create particles in 3D space using threejs to simulate visual effects](https://dev.to/smitterhane/create-particles-in-3d-space-using-threejs-to-simulate-visual-effects-o8o)
 - [Dev.to/JS] [Velo by Wix: Download your Velo code files to your computer](https://dev.to/shoonia/velo-by-wix-download-your-velo-code-files-to-your-computer-1g85)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Reasons Why React is King of JavaScript UI Frameworks](https://dev.to/kalashin1/7-reasons-why-react-is-king-of-javascript-ui-frameworks-1j76)
 - [Dev.to/JS] [Separate numbers in input with Angular Directive](https://dev.to/rezanazari/separate-numbers-in-input-with-angular-directive-p4k)
 - [Dev.to/JS] [Mass-Site-Visitor-MSV-&lpar;CRACK&rpar;](https://dev.to/seosoft/mass-site-visitor-msv-crack-lj5)
-- [Dev.to/JS] [How to upload file using expressJS](https://dev.to/aamchora/how-to-upload-file-using-expressjs-cih)
-- [Dev.to/JS] [Software Engineering Journey Update &lpar;7/3/22 - 7/9/22&rpar;](https://dev.to/nycdevethan/software-engineering-journey-update-22-22-5h0k)
-- [Dev.to/JS] [ReactJs QR Code Generator](https://dev.to/gayathri_r/reactjs-qr-code-generator-200o)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Some of the Benefits of Sleeping While You&#39;re Still Awake](https://lifehacker.com/you-can-get-some-of-the-benefits-of-sleeping-while-your-1849154311)
 - [Lifehacker] [You Need These Yogurt Cup Biscuits](https://lifehacker.com/you-need-these-yogurt-cup-biscuits-1849154731)
 - [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
-- [Lifehacker] [How to Prepare for a Tropical Storm](https://lifehacker.com/how-to-prepare-for-a-tropical-storm-1849154063)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
