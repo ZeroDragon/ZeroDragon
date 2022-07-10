@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simon game with socket.io leaderboard table](https://dev.to/muedgar/simon-game-with-socketio-leaderboard-table-1bdb)
+- [Dev.to/JS] [What advice would you have given yourself before a job interview?](https://dev.to/ahmed_onour/what-advice-would-you-have-given-yourself-before-a-job-interview-5do3)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Dev.to/JS] [Peculiaridades do JS. Que não são erros! Nem esquisitice! - Null](https://dev.to/urielsouza29/peculiaridades-do-js-que-nao-sao-erros-nem-esquisitice-null-1kga)
 - [Dev.to/JS] [Weekly Digest 27/2022](https://dev.to/marcobiedermann/weekly-digest-272022-eh1)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use jsPDF in react and add styling to it?](https://dev.to/m3cv1no/how-to-use-jspdf-in-react-and-add-styling-to-it-36jc)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Dev.to/JS] [7 Reasons Why React is King of JavaScript UI Frameworks](https://dev.to/kalashin1/7-reasons-why-react-is-king-of-javascript-ui-frameworks-1j76)
-- [Dev.to/JS] [Separate numbers in input with Angular Directive](https://dev.to/rezanazari/separate-numbers-in-input-with-angular-directive-p4k)
-- [Dev.to/JS] [Mass-Site-Visitor-MSV-&lpar;CRACK&rpar;](https://dev.to/seosoft/mass-site-visitor-msv-crack-lj5)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
