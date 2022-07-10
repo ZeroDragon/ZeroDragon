@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React js - Filter the blog article with category using select options](https://dev.to/smrpdl1991/react-js-filter-the-blog-article-with-category-using-select-options-d3f)
+- [Dev.to/JS] [why use react-query instead of axios/fetch?](https://dev.to/iamvkm/why-use-react-query-instead-of-axiosfetch-3gp6)
+- [Dev.to/JS] [Write the code to print the even numbers ?](https://dev.to/theamitprajapati/write-the-code-to-print-the-even-numbers--1h3d)
+- [Dev.to/JS] [A custom right click menu on Angular : FEAT PrimeNg](https://dev.to/shrihari/a-custom-right-click-menu-on-angular-feat-primeng-4hji)
 - [Dev.to/JS] [Detect object changes with JavaScript Proxy](https://dev.to/dailydevtips1/detect-object-changes-with-javascript-proxy-1o5g)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 4 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-4-report-bl0)
 - [Dev.to/JS] [The JavaScript Time Machine](https://dev.to/omher/the-javascript-time-machine-23bl)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Good Morning Slack Bot](https://dev.to/danielbellmas/good-morning-slack-bot-1cl5)
 - [Dev.to/JS] [Beginner to Advanced Challenge - project 8 &amp; 9](https://dev.to/zt4ff_1/beginner-to-advanced-challenge-project-8-9-4k53)
 - [Dev.to/JS] [Doodle 0.8.0 Supports 3D](https://dev.to/pusolito/doodle-080-supports-3d-4ml4)
-- [Dev.to/JS] [746. Leetcode solution in JavaScript](https://dev.to/chiki1601/746-leetcode-solution-in-javascript-1h0i)
-- [Dev.to/JS] [Next.js Adventures: Some Blasphemy Against The Holy Image Component](https://dev.to/sashevuchkov/nextjs-adventures-some-blasphemy-against-the-holy-image-component-3ib9)
-- [Dev.to/JS] [Templating a Node.js app with EJS](https://dev.to/lebcit/templating-a-nodejs-app-with-ejs-1ac4)
-- [Dev.to/JS] [How to HACK Nginx](https://dev.to/cyberstorm200712/how-to-hack-nginx-521l)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
