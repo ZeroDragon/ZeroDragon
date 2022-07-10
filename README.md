@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Install Bun on WSL](https://dev.to/hanancs/install-bun-on-wsl-59m1)
+- [Dev.to/JS] [Visual Studio Code For Absolute Beginner](https://dev.to/codewithmmak/visual-studio-code-for-absolute-beginner-21mm)
+- [Dev.to/JS] [How to create simple email form in your NodeJS website](https://dev.to/pavel_polivka/how-to-create-simple-email-form-in-your-nodejs-website-3end)
+- [Dev.to/JS] [Decentralized Social Network, Subgraphs, IPFS - Polygon Week 4](https://dev.to/neelansh15/decentralized-social-network-subgraphs-ipfs-polygon-week-4-1ci2)
 - [Dev.to/JS] [Simon game with socket.io leaderboard table](https://dev.to/muedgar/simon-game-with-socketio-leaderboard-table-1bdb)
 - [Dev.to/JS] [What advice would you have given yourself before a job interview?](https://dev.to/ahmed_onour/what-advice-would-you-have-given-yourself-before-a-job-interview-5do3)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Should you use SvelteKit for your Chrome Extension?](https://dev.to/michmich112/should-you-use-sveltekit-for-your-chrome-extension-2eja)
 - [Dev.to/JS] [Create particles in 3D space using threejs to simulate visual effects](https://dev.to/smitterhane/create-particles-in-3d-space-using-threejs-to-simulate-visual-effects-o8o)
 - [Dev.to/JS] [Velo by Wix: Download your Velo code files to your computer](https://dev.to/shoonia/velo-by-wix-download-your-velo-code-files-to-your-computer-1g85)
-- [Dev.to/JS] [Hard time finding music to listen to while coding?](https://dev.to/coditdoc/hard-time-finding-music-to-listen-to-while-coding-h6b)
-- [Dev.to/JS] [Loop Types in JavaScript](https://dev.to/injamulcse15/loop-types-in-javascript-39jj)
-- [Dev.to/JS] [How to use jsPDF in react and add styling to it?](https://dev.to/m3cv1no/how-to-use-jspdf-in-react-and-add-styling-to-it-36jc)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
-- [Dev.to/JS] [7 Reasons Why React is King of JavaScript UI Frameworks](https://dev.to/kalashin1/7-reasons-why-react-is-king-of-javascript-ui-frameworks-1j76)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
