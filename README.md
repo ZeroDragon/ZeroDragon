@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Input Mask Algorithm](https://dev.to/calebdre/input-mask-algorithm-33am)
+- [Dev.to/JS] [Integra React TypeScript con Express.js TypeScript](https://dev.to/denisseab/integra-react-typescript-con-expressjs-typescript-1gb1)
+- [Dev.to/JS] [Important JavaScript Concepts](https://dev.to/tomek_21/important-javascript-concepts-84c)
+- [Dev.to/JS] [The Basics of JavaScript Strings Tutorial](https://dev.to/rembertdesigns/the-basics-of-javascript-strings-tutorial-1c1c)
 - [Dev.to/JS] [Start Using JS with the DOM](https://dev.to/chabulsqu/start-using-js-with-the-dom-4acd)
 - [Dev.to/JS] [Install Bun on WSL](https://dev.to/hanancs/install-bun-on-wsl-59m1)
 - [Dev.to/JS] [Visual Studio Code For Absolute Beginner](https://dev.to/codewithmmak/visual-studio-code-for-absolute-beginner-21mm)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What advice would you have given yourself before a job interview?](https://dev.to/ahmed_onour/what-advice-would-you-have-given-yourself-before-a-job-interview-5do3)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Dev.to/JS] [Peculiaridades do JS. Que não são erros! Nem esquisitice! - Null](https://dev.to/urielsouza29/peculiaridades-do-js-que-nao-sao-erros-nem-esquisitice-null-1kga)
-- [Dev.to/JS] [Weekly Digest 27/2022](https://dev.to/marcobiedermann/weekly-digest-272022-eh1)
-- [Dev.to/JS] [Ultimate Node.js starter that scales with DI, native TypeScript, super fast unit tests and all batteries included](https://dev.to/bfunc/bulletproof-nodejs-starter-that-scales-with-di-native-typescript-super-fast-unit-tests-and-all-batteries-included-1a85)
-- [Dev.to/JS] [Should you use SvelteKit for your Chrome Extension?](https://dev.to/michmich112/should-you-use-sveltekit-for-your-chrome-extension-2eja)
-- [Dev.to/JS] [Create particles in 3D space using threejs to simulate visual effects](https://dev.to/smitterhane/create-particles-in-3d-space-using-threejs-to-simulate-visual-effects-o8o)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
 - [Lifehacker] [How to Divide Perennials, and Why You Should](https://lifehacker.com/how-to-divide-perennials-and-why-you-should-1849154899)
