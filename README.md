@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Cool &amp; useful JavaScript libraries](https://dev.to/lebcit/cool-useful-javascript-libraries-16mb)
+- [Dev.to/JS] [The bun is out 🥟](https://dev.to/omher/the-bun-is-out-1ah7)
+- [Lifehacker] [10 of the Most Instagrammable Selfie Locations](https://lifehacker.com/10-of-the-most-instagrammable-selfie-locations-1849165693)
+- [Dev.to/JS] [INTRODUCTION TO JAVASCRIPT.](https://dev.to/violakithinji/introduction-to-javascript-kmn)
+- [Lifehacker] [Five of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/five-of-the-best-movies-based-on-mythology-and-folklore-1849165515)
 - [Dev.to/JS] [full stack developer](https://dev.to/abuhuraira598/full-stack-developer-25lj)
 - [Dev.to/JS] [Backticks and why the matter.](https://dev.to/lizrhodesss/backticks-and-why-the-matter-oa4)
 - [Dev.to/JS] [Learning NodeJs after 2years of not coding](https://dev.to/benjaminhiti/learning-nodejs-after-2years-of-not-coding-al6)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How To Install Vue 3 in Laravel 9 with Vite](https://dev.to/sureshramani/how-to-install-vue-3-in-laravel-9-with-vite-d9b)
 - [Lifehacker] [How to ‘Supercool’ Your Home &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-supercool-your-home-and-why-you-should-1849164074)
 - [Lifehacker] [How to See the First James Webb Telescope Images](https://lifehacker.com/how-to-see-the-first-james-webb-telescope-images-1849164081)
-- [Dev.to/JS] [Good Morning Slack Bot](https://dev.to/danielbellmas/good-morning-slack-bot-2kn2)
-- [Dev.to/JS] [How to display cart details on Stripe Terminal](https://dev.to/stripe/how-to-display-cart-details-on-stripe-terminal-jg1)
-- [Dev.to/JS] [Exactly when to shift to React from JavaScript ?](https://dev.to/aspiringdev22/exactly-when-to-shift-to-react-from-javascript--1hg2)
 - [Lifehacker] [Windows 11 Accessibility Features Everyone Can Use](https://lifehacker.com/windows-11-accessibility-features-everyone-can-use-1849163481)
 - [Lifehacker] [How to Keep Food From Sticking to Your Grill](https://lifehacker.com/how-to-keep-food-from-sticking-to-your-grill-1849162838)
 - [Lifehacker] [The Easiest Key Lime Pie Only Has Three Ingredients](https://lifehacker.com/the-easiest-key-lime-pie-only-has-three-ingredients-1849155013)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
 - [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
 - [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
-- [Lifehacker] [How to Wash Silk Sheets If You Hate Wrinkles](https://lifehacker.com/how-to-wash-silk-sheets-if-you-hate-wrinkles-1849158413)
-- [Lifehacker] [Another Day, Another Dangerous Social Media Challenge](https://lifehacker.com/another-day-another-dangerous-social-media-challenge-1849157825)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
