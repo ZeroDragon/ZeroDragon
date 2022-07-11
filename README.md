@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Never Pay Extra to Sit Next to Your Child on an Airplane](https://lifehacker.com/never-pay-extra-to-sit-next-to-your-child-on-an-airplan-1849165865)
+- [Dev.to/JS] [The last react form library you will ever need](https://dev.to/ivanms1/the-last-react-form-you-will-ever-need-2f76)
+- [Dev.to/JS] [Different ways to distribute and integrate Kotlin/JS library](https://dev.to/touchlab/different-ways-to-distribute-and-integrate-kotlinjs-library-1hg3)
+- [Dev.to/JS] [Express Middlewares](https://dev.to/andrewkwizera/express-middlewares-4982)
+- [Lifehacker] [These COVID &#39;Facts&#39; Are No Longer True](https://lifehacker.com/these-covid-facts-are-no-longer-true-1849165352)
 - [Dev.to/JS] [Cool &amp; useful JavaScript libraries](https://dev.to/lebcit/cool-useful-javascript-libraries-16mb)
 - [Dev.to/JS] [The bun is out 🥟](https://dev.to/omher/the-bun-is-out-1ah7)
 - [Lifehacker] [10 of the Most Instagrammable Selfie Locations](https://lifehacker.com/10-of-the-most-instagrammable-selfie-locations-1849165693)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
 - [Dev.to/JS] [JavaScript Submit Event Listeners for Dummies.](https://dev.to/rossonevan/javascript-submit-event-listeners-for-dummies-5f99)
 - [Lifehacker] [Prime Day Is Best for Exactly One Type of Tech](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
-- [Dev.to/JS] [JavaScript Projects You Can Build to Perfect Your Coding Skills](https://dev.to/naemazam/javascript-projects-you-can-build-to-perfect-your-coding-skills-1ldl)
-- [Dev.to/JS] [Free &amp; Discount Online Courses - July 12th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-12th-2022-55dd)
-- [Dev.to/JS] [How To Install Vue 3 in Laravel 9 with Vite](https://dev.to/sureshramani/how-to-install-vue-3-in-laravel-9-with-vite-d9b)
 - [Lifehacker] [How to ‘Supercool’ Your Home &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-supercool-your-home-and-why-you-should-1849164074)
 - [Lifehacker] [How to See the First James Webb Telescope Images](https://lifehacker.com/how-to-see-the-first-james-webb-telescope-images-1849164081)
 - [Lifehacker] [Windows 11 Accessibility Features Everyone Can Use](https://lifehacker.com/windows-11-accessibility-features-everyone-can-use-1849163481)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Decide Whether It&#39;s Cheaper to Drive or Fly This Summer](https://lifehacker.com/how-to-decide-whether-its-cheaper-to-drive-or-fly-this-1849154927)
 - [Lifehacker] [How to Stop Your HVAC Filter From Getting So Dirty So Fast](https://lifehacker.com/how-to-stop-your-hvac-filter-from-getting-so-dirty-so-f-1849154937)
 - [Lifehacker] [Don&#39;t Let Your Pandemic Travel Credits Go to Waste](https://lifehacker.com/dont-let-your-pandemic-travel-credits-go-to-waste-1849158039)
-- [Lifehacker] [The Best Tax Exclusion for Travelers and Expats](https://lifehacker.com/the-best-tax-exclusion-for-travelers-and-expats-1849157086)
-- [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
