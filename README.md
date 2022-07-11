@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to ‘Supercool’ Your Home &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-supercool-your-home-and-why-you-should-1849164074)
+- [Lifehacker] [How to See the First James Webb Telescope Images](https://lifehacker.com/how-to-see-the-first-james-webb-telescope-images-1849164081)
+- [Dev.to/JS] [Good Morning Slack Bot](https://dev.to/danielbellmas/good-morning-slack-bot-2kn2)
+- [Dev.to/JS] [How to display cart details on Stripe Terminal](https://dev.to/stripe/how-to-display-cart-details-on-stripe-terminal-jg1)
+- [Dev.to/JS] [Exactly when to shift to React from JavaScript ?](https://dev.to/aspiringdev22/exactly-when-to-shift-to-react-from-javascript--1hg2)
 - [Lifehacker] [Windows 11 Accessibility Features Everyone Can Use](https://lifehacker.com/windows-11-accessibility-features-everyone-can-use-1849163481)
 - [Dev.to/JS] [21 of the Best Javascript Tips to Master It](https://dev.to/lambdatest/21-of-the-best-javascript-tips-to-master-it-4gk1)
 - [Dev.to/JS] [JS Basic String Methods](https://dev.to/shshank/js-basic-string-methods-363b)
@@ -38,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [7 Ways to Dramatically Reduce Your Time in Code Review](https://dev.to/thawkin3/7-ways-to-dramatically-reduce-your-time-in-code-review-5cb2)
 - [Dev.to/JS] [File Database in Node Js from scratch part 3: introducing types](https://dev.to/sfundomhlungu/file-database-in-node-js-from-scratch-part-3-introducing-types-293e)
 - [Lifehacker] [You Need a Different Ice Box in Your Freezer](https://lifehacker.com/you-need-a-different-ice-box-in-your-freezer-1849157527)
-- [Dev.to/JS] [NestJS vs ExpressJS: Which is better for your project](https://dev.to/forestadmin/nestjs-vs-expressjs-which-is-better-for-your-project-bbl)
 - [Lifehacker] [You Should Pour Hot Water on Your Cake Batter](https://lifehacker.com/you-should-pour-hot-water-on-your-cake-batter-1849149520)
-- [Dev.to/JS] [Static, Unit, Integration, and End-to-End Tests Explained](https://dev.to/lucaspaganini/static-unit-integration-and-end-to-end-tests-explained-5g62)
-- [Dev.to/JS] [Callback functions &lpar;🔖&rpar;](https://dev.to/aishanipach/callback-functions-1bg3)
 - [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways Amazon Tricks You Into Spending More on Prime Day](https://lifehacker.com/all-the-ways-amazon-tricks-you-into-spending-more-on-pr-1849158042)
 - [Lifehacker] [6 of the Best Podcasts About Radical American Movements](https://lifehacker.com/6-of-the-best-podcasts-about-radical-american-movements-1849158055)
 - [Lifehacker] [Where to Get Free Breakfast, Lunch, and Dinner on Your Birthday](https://lifehacker.com/where-to-get-free-breakfast-lunch-and-dinner-on-your-1849157226)
-- [Lifehacker] [The First Things You Need to Buy After Moving Into Your Starter Home](https://lifehacker.com/the-first-things-you-need-to-buy-after-moving-into-your-1849157065)
-- [Lifehacker] [15 of the Best Foodie Movies and TV Shows That Aren&#39;t &#39;The Bear&#39;](https://lifehacker.com/15-of-the-best-foodie-movies-and-tv-shows-that-arent-th-1849154310)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
