@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Should Pour Hot Water on Your Cake Batter](https://lifehacker.com/you-should-pour-hot-water-on-your-cake-batter-1849149520)
+- [Dev.to/JS] [Static, Unit, Integration, and End-to-End Tests Explained](https://dev.to/lucaspaganini/static-unit-integration-and-end-to-end-tests-explained-5g62)
+- [Dev.to/JS] [Callback functions &lpar;🔖&rpar;](https://dev.to/aishanipach/callback-functions-1bg3)
+- [Dev.to/JS] [Ultimate guide to Crypto Payment Gateway Development](https://dev.to/thecryptoapeo/ultimate-guide-to-crypto-payment-gateway-development-43gd)
+- [Dev.to/JS] [Building a 3D obstacle avoiding game with three.js](https://dev.to/ritza/building-a-3d-obstacle-avoiding-game-with-threejs-19da)
+- [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
+- [Dev.to/JS] [Configurable Objects Properties?](https://dev.to/hermitex/writable-objects-properties-52k7)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🐻.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-208c)
 - [Dev.to/JS] [Magento Vs WooCommerce: What is Better for eCommerce?](https://dev.to/hireindianprogrammers/magento-vs-woocommerce-what-is-better-for-ecommerce-bpo)
 - [Dev.to/JS] [Build HR Management System using MongoDB and ToolJet &lpar;Part 4: Leave Requests&rpar;](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-4-leave-requests-51l4)
@@ -30,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build HR Management System using MongoDB and ToolJet &lpar;Part 2: Company Calendar&rpar;](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-2-company-calendar-1ddh)
 - [Dev.to/JS] [Build HR Management System using MongoDB and ToolJet &lpar;Part 1: Dashboard&rpar;](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-1-dashboard-3ioa)
 - [Dev.to/JS] [Arithmetic Operations In JavaScript](https://dev.to/smartduke/arithmetic-operations-in-javascript-515f)
-- [Dev.to/JS] [What libraries you use in your reactJS applications?](https://dev.to/sadiq1029/what-libraries-you-use-in-your-reactjs-applications-m4i)
-- [Dev.to/JS] [Node.js Connection to MongoDB](https://dev.to/saadh393/nodejs-connection-to-mongodb-963)
-- [Dev.to/JS] [The mystery of React Element, children, parents and re-renders](https://dev.to/adevnadia/the-mystery-of-react-element-children-parents-and-re-renders-db8)
-- [Dev.to/JS] [The full-stack CPaaS- a critical choice](https://dev.to/yashsrivastava176/the-full-stack-cpaas-a-critical-choice-4420)
-- [Dev.to/JS] [Recording WebRTC-Enabled Sessions: Server-side or Client-side?](https://dev.to/yashsrivastava176/recording-webrtc-enabled-sessions-server-side-or-client-side-56ij)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Only Good Advice for Shopping Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are &#39;Gentleminions&#39; Being Banned?](https://lifehacker.com/minions-movie-gentleminions-banned-theaters-1849155607)
 - [Lifehacker] [You Can Get Some of the Benefits of Sleeping While You&#39;re Still Awake](https://lifehacker.com/you-can-get-some-of-the-benefits-of-sleeping-while-your-1849154311)
-- [Lifehacker] [You Need These Yogurt Cup Biscuits](https://lifehacker.com/you-need-these-yogurt-cup-biscuits-1849154731)
-- [Lifehacker] [The Best Amazon Prime Benefits You Don&#39;t Know About](https://lifehacker.com/the-best-amazon-prime-benefits-you-dont-know-about-1849154312)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
