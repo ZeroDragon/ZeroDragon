@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Canvas Liquid Effect using Matter.js and SVG Filters](https://dev.to/n3r4zzurr0/canvas-liquid-effect-using-matterjs-and-svg-filters-4mlp)
+- [Dev.to/JS] [Introduction to the Basics of Functions in JavaScript](https://dev.to/kellduran/introduction-to-the-basics-of-functions-in-javascript-3hfj)
+- [Dev.to/JS] [MYA2ZSEO](https://dev.to/picklu/mya2zseo-4a7o)
 - [Dev.to/JS] [Minimal React Portfolio](https://dev.to/shehabshalan/minimal-react-portfolio-3ncp)
 - [Dev.to/JS] [Favorite String Literals](https://dev.to/kristenkinnearohlmann/favorite-string-literals-2k64)
 - [Dev.to/JS] [VS Code emmet tips to make you more productive](https://dev.to/joseprest/vs-code-emmet-tips-to-make-you-more-productive-2pla)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ToDo List &lpar;o lista de tareas&rpar; en Ionic](https://dev.to/enzotrucchi/todo-list-o-lista-de-tareas-en-ionic-2idn)
 - [Dev.to/JS] [JavaScript Path Documentation of Handy Methods](https://dev.to/rajdeepdas/javascript-path-documentation-of-handy-methods-1c66)
 - [Dev.to/JS] [Vanilla JS data cache service](https://dev.to/frozer/vanilla-js-data-cache-service-1ei2)
-- [Dev.to/JS] [Error: Missing helper: &quot;handlebars&quot;: Missing helper: &quot;handlebars&quot;. Any thought ?](https://dev.to/adityanugroho09/error-missing-helper-handlebars-missing-helper-handlebars-any-thought--37h)
-- [Dev.to/JS] [Keagate: Open-source, high-performance alternative to Coinbase Commerce &amp; CoinGate.](https://dev.to/mbagley1020/keagate-open-source-high-performance-alternative-to-coinbase-commerce-coingate-2h40)
-- [Dev.to/JS] [How to create Google Maps clone with Next.js, Prisma, and Postgres.](https://dev.to/isaacdyor/how-to-create-google-maps-clone-with-nextjs-prisma-and-postgres-305h)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
