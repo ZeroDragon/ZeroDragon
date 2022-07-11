@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Actually, Putting Your Hands on Your Knees Is the Best Recovery Position](https://lifehacker.com/actually-putting-your-hands-on-your-knees-is-the-best-1849157656)
+- [Dev.to/JS] [JavaScript by Example: Palindrome Permutations &lpar;functional&rpar;](https://dev.to/betterways/javascript-by-example-palindrome-permutations-functional-4g6o)
+- [Dev.to/JS] [7 Ways to Dramatically Reduce Your Time in Code Review](https://dev.to/thawkin3/7-ways-to-dramatically-reduce-your-time-in-code-review-5cb2)
+- [Dev.to/JS] [File Database in Node Js from scratch part 3: introducing types](https://dev.to/sfundomhlungu/file-database-in-node-js-from-scratch-part-3-introducing-types-293e)
+- [Lifehacker] [You Need a Different Ice Box in Your Freezer](https://lifehacker.com/you-need-a-different-ice-box-in-your-freezer-1849157527)
+- [Dev.to/JS] [NestJS vs ExpressJS: Which is better for your project](https://dev.to/forestadmin/nestjs-vs-expressjs-which-is-better-for-your-project-bbl)
 - [Lifehacker] [You Should Pour Hot Water on Your Cake Batter](https://lifehacker.com/you-should-pour-hot-water-on-your-cake-batter-1849149520)
 - [Dev.to/JS] [Static, Unit, Integration, and End-to-End Tests Explained](https://dev.to/lucaspaganini/static-unit-integration-and-end-to-end-tests-explained-5g62)
 - [Dev.to/JS] [Callback functions &lpar;🔖&rpar;](https://dev.to/aishanipach/callback-functions-1bg3)
@@ -33,10 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🐻.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-208c)
 - [Dev.to/JS] [Magento Vs WooCommerce: What is Better for eCommerce?](https://dev.to/hireindianprogrammers/magento-vs-woocommerce-what-is-better-for-ecommerce-bpo)
 - [Dev.to/JS] [Build HR Management System using MongoDB and ToolJet &lpar;Part 4: Leave Requests&rpar;](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-4-leave-requests-51l4)
-- [Dev.to/JS] [Build HR Management System using MongoDB and ToolJet &lpar;Part 3: Employees and Requests&rpar;](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-3-employees-and-requests-4m3e)
-- [Dev.to/JS] [Build HR Management System using MongoDB and ToolJet &lpar;Part 2: Company Calendar&rpar;](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-2-company-calendar-1ddh)
-- [Dev.to/JS] [Build HR Management System using MongoDB and ToolJet &lpar;Part 1: Dashboard&rpar;](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-1-dashboard-3ioa)
-- [Dev.to/JS] [Arithmetic Operations In JavaScript](https://dev.to/smartduke/arithmetic-operations-in-javascript-515f)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Talk to Teachers and Coaches About Your Child’s Neurodivergency](https://lifehacker.com/how-to-talk-to-teachers-and-coaches-about-your-child-s-1849155910)
 - [Lifehacker] [How to Make Silky Sous Vide Eggs Without a Sous Vide](https://lifehacker.com/how-to-make-silky-sous-vide-eggs-without-a-sous-vide-1849153289)
 - [Lifehacker] [The Only Good Advice for Shopping Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: Why Are &#39;Gentleminions&#39; Being Banned?](https://lifehacker.com/minions-movie-gentleminions-banned-theaters-1849155607)
-- [Lifehacker] [You Can Get Some of the Benefits of Sleeping While You&#39;re Still Awake](https://lifehacker.com/you-can-get-some-of-the-benefits-of-sleeping-while-your-1849154311)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
