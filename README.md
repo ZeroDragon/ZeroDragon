@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My Coding Journey Begins](https://dev.to/xauvk/my-coding-journey-begins-19ne)
+- [Dev.to/JS] [Adding Custom Anchors to Headings in Markdown - Eleventy](https://dev.to/murtuzaalisurti/adding-custom-anchors-to-headings-in-markdown-eleventy-275o)
 - [Dev.to/JS] [Canvas Liquid Effect using Matter.js and SVG Filters](https://dev.to/n3r4zzurr0/canvas-liquid-effect-using-matterjs-and-svg-filters-4mlp)
 - [Dev.to/JS] [Introduction to the Basics of Functions in JavaScript](https://dev.to/kellduran/introduction-to-the-basics-of-functions-in-javascript-3hfj)
 - [Dev.to/JS] [MYA2ZSEO](https://dev.to/picklu/mya2zseo-4a7o)
 - [Dev.to/JS] [Minimal React Portfolio](https://dev.to/shehabshalan/minimal-react-portfolio-3ncp)
 - [Dev.to/JS] [Favorite String Literals](https://dev.to/kristenkinnearohlmann/favorite-string-literals-2k64)
+- [Dev.to/JS] [Content-aware Infinite Scroll Loop using JavaScript](https://dev.to/blueset/content-aware-infinite-scroll-loop-using-javascript-184l)
 - [Dev.to/JS] [VS Code emmet tips to make you more productive](https://dev.to/joseprest/vs-code-emmet-tips-to-make-you-more-productive-2pla)
 - [Dev.to/JS] [Using GitHub Actions to Test Student Code Submissions](https://dev.to/bitproject/using-github-actions-to-test-student-code-submissions-3ef)
 - [Dev.to/JS] [JavaScript Conversão de tipo de dados - Parte 2](https://dev.to/h4ck3rtr4d3r/javascript-conversao-de-tipo-de-dados-parte-2-hio)
 - [Dev.to/JS] [Building in Public: with Virtual Coffee](https://dev.to/sadiejay/building-in-public-with-virtual-coffee-2h0a)
-- [Dev.to/JS] [ToDo List &lpar;o lista de tareas&rpar; en Ionic](https://dev.to/enzotrucchi/todo-list-o-lista-de-tareas-en-ionic-2idn)
-- [Dev.to/JS] [JavaScript Path Documentation of Handy Methods](https://dev.to/rajdeepdas/javascript-path-documentation-of-handy-methods-1c66)
-- [Dev.to/JS] [Vanilla JS data cache service](https://dev.to/frozer/vanilla-js-data-cache-service-1ei2)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
