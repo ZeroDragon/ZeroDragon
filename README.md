@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Windows 11 Accessibility Features Everyone Can Use](https://lifehacker.com/windows-11-accessibility-features-everyone-can-use-1849163481)
+- [Dev.to/JS] [21 of the Best Javascript Tips to Master It](https://dev.to/lambdatest/21-of-the-best-javascript-tips-to-master-it-4gk1)
+- [Dev.to/JS] [JS Basic String Methods](https://dev.to/shshank/js-basic-string-methods-363b)
+- [Lifehacker] [How to Keep Food From Sticking to Your Grill](https://lifehacker.com/how-to-keep-food-from-sticking-to-your-grill-1849162838)
 - [Lifehacker] [The Easiest Key Lime Pie Only Has Three Ingredients](https://lifehacker.com/the-easiest-key-lime-pie-only-has-three-ingredients-1849155013)
 - [Dev.to/JS] [How to use the contenteditable attribute in Vue 3](https://dev.to/pyrsmk/how-to-use-the-contenteditable-attribute-in-vue-3-a89)
 - [Dev.to/JS] [Paracetamol.js💊| #164: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-164-explica-este-codigo-javascript-4mm3)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Pour Hot Water on Your Cake Batter](https://lifehacker.com/you-should-pour-hot-water-on-your-cake-batter-1849149520)
 - [Dev.to/JS] [Static, Unit, Integration, and End-to-End Tests Explained](https://dev.to/lucaspaganini/static-unit-integration-and-end-to-end-tests-explained-5g62)
 - [Dev.to/JS] [Callback functions &lpar;🔖&rpar;](https://dev.to/aishanipach/callback-functions-1bg3)
-- [Dev.to/JS] [Ultimate guide to Crypto Payment Gateway Development](https://dev.to/thecryptoapeo/ultimate-guide-to-crypto-payment-gateway-development-43gd)
-- [Dev.to/JS] [Building a 3D obstacle avoiding game with three.js](https://dev.to/ritza/building-a-3d-obstacle-avoiding-game-with-threejs-19da)
 - [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Where to Get Free Breakfast, Lunch, and Dinner on Your Birthday](https://lifehacker.com/where-to-get-free-breakfast-lunch-and-dinner-on-your-1849157226)
 - [Lifehacker] [The First Things You Need to Buy After Moving Into Your Starter Home](https://lifehacker.com/the-first-things-you-need-to-buy-after-moving-into-your-1849157065)
 - [Lifehacker] [15 of the Best Foodie Movies and TV Shows That Aren&#39;t &#39;The Bear&#39;](https://lifehacker.com/15-of-the-best-foodie-movies-and-tv-shows-that-arent-th-1849154310)
-- [Lifehacker] [Don&#39;t Set These Bills to Autopay](https://lifehacker.com/dont-set-these-bills-to-autopay-1849156790)
-- [Lifehacker] [How to Talk to Teachers and Coaches About Your Child’s Neurodivergency](https://lifehacker.com/how-to-talk-to-teachers-and-coaches-about-your-child-s-1849155910)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
