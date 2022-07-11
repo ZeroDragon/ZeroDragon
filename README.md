@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Minimal React Portfolio](https://dev.to/shehabshalan/minimal-react-portfolio-3ncp)
+- [Dev.to/JS] [Favorite String Literals](https://dev.to/kristenkinnearohlmann/favorite-string-literals-2k64)
 - [Dev.to/JS] [VS Code emmet tips to make you more productive](https://dev.to/joseprest/vs-code-emmet-tips-to-make-you-more-productive-2pla)
 - [Dev.to/JS] [Using GitHub Actions to Test Student Code Submissions](https://dev.to/bitproject/using-github-actions-to-test-student-code-submissions-3ef)
 - [Dev.to/JS] [JavaScript Conversão de tipo de dados - Parte 2](https://dev.to/h4ck3rtr4d3r/javascript-conversao-de-tipo-de-dados-parte-2-hio)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Error: Missing helper: &quot;handlebars&quot;: Missing helper: &quot;handlebars&quot;. Any thought ?](https://dev.to/adityanugroho09/error-missing-helper-handlebars-missing-helper-handlebars-any-thought--37h)
 - [Dev.to/JS] [Keagate: Open-source, high-performance alternative to Coinbase Commerce &amp; CoinGate.](https://dev.to/mbagley1020/keagate-open-source-high-performance-alternative-to-coinbase-commerce-coingate-2h40)
 - [Dev.to/JS] [How to create Google Maps clone with Next.js, Prisma, and Postgres.](https://dev.to/isaacdyor/how-to-create-google-maps-clone-with-nextjs-prisma-and-postgres-305h)
-- [Dev.to/JS] [Some Recursion Practice Notes](https://dev.to/benboorstein/some-recursion-practice-notes-217f)
-- [Dev.to/JS] [Roadmap to Success: 3 lessons I learned from 61 of the most influential JavaScript developers](https://dev.to/sashevuchkov/roadmap-to-success-3-lessons-i-learned-from-61-of-the-most-influential-javascript-developers-53k9)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
