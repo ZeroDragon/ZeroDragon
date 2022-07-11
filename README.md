@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Easiest Key Lime Pie Only Has Three Ingredients](https://lifehacker.com/the-easiest-key-lime-pie-only-has-three-ingredients-1849155013)
+- [Dev.to/JS] [How to use the contenteditable attribute in Vue 3](https://dev.to/pyrsmk/how-to-use-the-contenteditable-attribute-in-vue-3-a89)
+- [Dev.to/JS] [Paracetamol.js💊| #164: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-164-explica-este-codigo-javascript-4mm3)
+- [Dev.to/JS] [Paracetamol.js💊| #163: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-163-explica-este-codigo-javascript-2ab4)
+- [Dev.to/JS] [Оптимизация React компонентов](https://dev.to/socaseinpoint/optimizatsiia-react-komponientov-2kg0)
+- [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
 - [Lifehacker] [Actually, Putting Your Hands on Your Knees Is the Best Recovery Position](https://lifehacker.com/actually-putting-your-hands-on-your-knees-is-the-best-1849157656)
 - [Dev.to/JS] [JavaScript by Example: Palindrome Permutations &lpar;functional&rpar;](https://dev.to/betterways/javascript-by-example-palindrome-permutations-functional-4g6o)
 - [Dev.to/JS] [7 Ways to Dramatically Reduce Your Time in Code Review](https://dev.to/thawkin3/7-ways-to-dramatically-reduce-your-time-in-code-review-5cb2)
@@ -35,10 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ultimate guide to Crypto Payment Gateway Development](https://dev.to/thecryptoapeo/ultimate-guide-to-crypto-payment-gateway-development-43gd)
 - [Dev.to/JS] [Building a 3D obstacle avoiding game with three.js](https://dev.to/ritza/building-a-3d-obstacle-avoiding-game-with-threejs-19da)
 - [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
-- [Dev.to/JS] [Configurable Objects Properties?](https://dev.to/hermitex/writable-objects-properties-52k7)
-- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week🐻.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-208c)
-- [Dev.to/JS] [Magento Vs WooCommerce: What is Better for eCommerce?](https://dev.to/hireindianprogrammers/magento-vs-woocommerce-what-is-better-for-ecommerce-bpo)
-- [Dev.to/JS] [Build HR Management System using MongoDB and ToolJet &lpar;Part 4: Leave Requests&rpar;](https://dev.to/tooljet/build-hr-management-system-using-mongodb-and-tooljet-part-4-leave-requests-51l4)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [15 of the Best Foodie Movies and TV Shows That Aren&#39;t &#39;The Bear&#39;](https://lifehacker.com/15-of-the-best-foodie-movies-and-tv-shows-that-arent-th-1849154310)
 - [Lifehacker] [Don&#39;t Set These Bills to Autopay](https://lifehacker.com/dont-set-these-bills-to-autopay-1849156790)
 - [Lifehacker] [How to Talk to Teachers and Coaches About Your Child’s Neurodivergency](https://lifehacker.com/how-to-talk-to-teachers-and-coaches-about-your-child-s-1849155910)
-- [Lifehacker] [How to Make Silky Sous Vide Eggs Without a Sous Vide](https://lifehacker.com/how-to-make-silky-sous-vide-eggs-without-a-sous-vide-1849153289)
-- [Lifehacker] [The Only Good Advice for Shopping Amazon Prime Day](https://lifehacker.com/the-only-good-advice-for-shopping-amazon-prime-day-1849154608)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
