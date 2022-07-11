@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
+- [Dev.to/JS] [JavaScript Submit Event Listeners for Dummies.](https://dev.to/rossonevan/javascript-submit-event-listeners-for-dummies-5f99)
+- [Lifehacker] [Prime Day Is Best for Exactly One Type of Tech](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
+- [Dev.to/JS] [JavaScript Projects You Can Build to Perfect Your Coding Skills](https://dev.to/naemazam/javascript-projects-you-can-build-to-perfect-your-coding-skills-1ldl)
+- [Dev.to/JS] [Free &amp; Discount Online Courses - July 12th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-12th-2022-55dd)
+- [Dev.to/JS] [How To Install Vue 3 in Laravel 9 with Vite](https://dev.to/sureshramani/how-to-install-vue-3-in-laravel-9-with-vite-d9b)
 - [Lifehacker] [How to ‘Supercool’ Your Home &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-supercool-your-home-and-why-you-should-1849164074)
 - [Lifehacker] [How to See the First James Webb Telescope Images](https://lifehacker.com/how-to-see-the-first-james-webb-telescope-images-1849164081)
 - [Dev.to/JS] [Good Morning Slack Bot](https://dev.to/danielbellmas/good-morning-slack-bot-2kn2)
@@ -36,12 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use the contenteditable attribute in Vue 3](https://dev.to/pyrsmk/how-to-use-the-contenteditable-attribute-in-vue-3-a89)
 - [Dev.to/JS] [Paracetamol.js💊| #164: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-164-explica-este-codigo-javascript-4mm3)
 - [Dev.to/JS] [Paracetamol.js💊| #163: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-163-explica-este-codigo-javascript-2ab4)
-- [Dev.to/JS] [Оптимизация React компонентов](https://dev.to/socaseinpoint/optimizatsiia-react-komponientov-2kg0)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
 - [Lifehacker] [Actually, Putting Your Hands on Your Knees Is the Best Recovery Position](https://lifehacker.com/actually-putting-your-hands-on-your-knees-is-the-best-1849157656)
-- [Dev.to/JS] [JavaScript by Example: Palindrome Permutations &lpar;functional&rpar;](https://dev.to/betterways/javascript-by-example-palindrome-permutations-functional-4g6o)
-- [Dev.to/JS] [7 Ways to Dramatically Reduce Your Time in Code Review](https://dev.to/thawkin3/7-ways-to-dramatically-reduce-your-time-in-code-review-5cb2)
-- [Dev.to/JS] [File Database in Node Js from scratch part 3: introducing types](https://dev.to/sfundomhlungu/file-database-in-node-js-from-scratch-part-3-introducing-types-293e)
 - [Lifehacker] [You Need a Different Ice Box in Your Freezer](https://lifehacker.com/you-need-a-different-ice-box-in-your-freezer-1849157527)
 - [Lifehacker] [You Should Pour Hot Water on Your Cake Batter](https://lifehacker.com/you-should-pour-hot-water-on-your-cake-batter-1849149520)
 - [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Another Day, Another Dangerous Social Media Challenge](https://lifehacker.com/another-day-another-dangerous-social-media-challenge-1849157825)
 - [Lifehacker] [5 of the Most Difficult Video Games in Recent Memory](https://lifehacker.com/5-of-the-most-difficult-video-games-in-recent-memory-1849157905)
 - [Lifehacker] [All the Ways Amazon Tricks You Into Spending More on Prime Day](https://lifehacker.com/all-the-ways-amazon-tricks-you-into-spending-more-on-pr-1849158042)
-- [Lifehacker] [6 of the Best Podcasts About Radical American Movements](https://lifehacker.com/6-of-the-best-podcasts-about-radical-american-movements-1849158055)
-- [Lifehacker] [Where to Get Free Breakfast, Lunch, and Dinner on Your Birthday](https://lifehacker.com/where-to-get-free-breakfast-lunch-and-dinner-on-your-1849157226)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
