@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Arithmetic Operations In JavaScript](https://dev.to/smartduke/arithmetic-operations-in-javascript-515f)
+- [Dev.to/JS] [What libraries you use in your reactJS applications?](https://dev.to/sadiq1029/what-libraries-you-use-in-your-reactjs-applications-m4i)
+- [Dev.to/JS] [Node.js Connection to MongoDB](https://dev.to/saadh393/nodejs-connection-to-mongodb-963)
+- [Dev.to/JS] [The mystery of React Element, children, parents and re-renders](https://dev.to/adevnadia/the-mystery-of-react-element-children-parents-and-re-renders-db8)
 - [Dev.to/JS] [The full-stack CPaaS- a critical choice](https://dev.to/yashsrivastava176/the-full-stack-cpaas-a-critical-choice-4420)
 - [Dev.to/JS] [Recording WebRTC-Enabled Sessions: Server-side or Client-side?](https://dev.to/yashsrivastava176/recording-webrtc-enabled-sessions-server-side-or-client-side-56ij)
 - [Dev.to/JS] [How to send an SMS using Twilio](https://dev.to/novu/how-to-send-an-sms-using-twilio-f4)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [IBUTA 677 Reviews - Best Natural Alternative To Ibutamoren](https://dev.to/ibuta677reviews/ibuta-677-reviews-best-natural-alternative-to-ibutamoren-50jk)
 - [Dev.to/JS] [Top CMS Platforms That Can Make Your Website Look Customer-Oriented](https://dev.to/agiosolution/top-cms-platforms-that-can-make-your-website-look-customer-oriented-3g2k)
 - [Dev.to/JS] [Getting Started with Tailwind CSS](https://dev.to/shreyvijayvargiya/getting-started-with-tailwind-css-2fpl)
-- [Dev.to/JS] [The Javascript Engine](https://dev.to/mateusz_janusz/the-javascript-engine-4o5f)
-- [Dev.to/JS] [StrictionD - Blood Sugar Reviews, Results, Benefits &amp; Price?](https://dev.to/strictiondfact/strictiond-blood-sugar-reviews-results-benefits-price-pkb)
-- [Dev.to/JS] [4 ways of calling an API in Javascript.](https://dev.to/talenttinaapi/4-ways-of-calling-an-api-in-javascript-27ma)
-- [Dev.to/JS] [# Day 1 | How to resolve it?](https://dev.to/weijuer/-day-1-how-to-resolve-it-948)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
