@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Errors and Angular](https://dev.to/this-is-angular/errors-and-angular-n0b)
+- [Dev.to/JS] [IBUTA 677 Reviews - Best Natural Alternative To Ibutamoren](https://dev.to/ibuta677reviews/ibuta-677-reviews-best-natural-alternative-to-ibutamoren-50jk)
+- [Dev.to/JS] [Top CMS Platforms That Can Make Your Website Look Customer-Oriented](https://dev.to/agiosolution/top-cms-platforms-that-can-make-your-website-look-customer-oriented-3g2k)
+- [Dev.to/JS] [Getting Started with Tailwind CSS](https://dev.to/shreyvijayvargiya/getting-started-with-tailwind-css-2fpl)
 - [Dev.to/JS] [The Javascript Engine](https://dev.to/mateusz_janusz/the-javascript-engine-4o5f)
 - [Dev.to/JS] [StrictionD - Blood Sugar Reviews, Results, Benefits &amp; Price?](https://dev.to/strictiondfact/strictiond-blood-sugar-reviews-results-benefits-price-pkb)
 - [Dev.to/JS] [4 ways of calling an API in Javascript.](https://dev.to/talenttinaapi/4-ways-of-calling-an-api-in-javascript-27ma)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Install Bun for Windows: A Modern JavaScript Runtime Like Node or Deno](https://dev.to/openhacking/install-bun-for-windows-a-modern-javascript-runtime-like-node-or-deno-449e)
 - [Dev.to/JS] [Try Best-Rate-Swap Feature on Your Web3.0 Site](https://dev.to/arkenfinance/try-best-rate-swap-feature-on-your-web30-site-3b1k)
 - [Dev.to/JS] [Persist your state anywhere with createPersistentItem with React examples](https://dev.to/jussinevavuori/persist-your-state-anywhere-with-createpersistentitem-with-react-examples-1acc)
-- [Dev.to/JS] [Alternative way to localize in Angular](https://dev.to/ayyash/alternative-way-to-localize-in-angular-o8d)
-- [Dev.to/JS] [Deploying Your Upgradeable Smart Contract in 5 minutes](https://dev.to/abhikbanerjee99/deploying-your-upgradeable-smart-contract-in-5-minutes-9n8)
-- [Dev.to/JS] [Strapi Plugin Development Explained](https://dev.to/strapi/strapi-plugin-development-explained-o07)
-- [Dev.to/JS] [Web Components at Big Tech Companies: Salesforce](https://dev.to/mariusbongarts/web-components-at-big-tech-companies-salesforce-5ce1)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
