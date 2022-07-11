@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to solve Fizz Buzz with an easy explanation](https://dev.to/codingwithadam/how-to-solve-fizz-buzz-with-an-easy-explanation-2d0g)
+- [Dev.to/JS] [How to Build/Publish your V3 chrome extension!✨](https://dev.to/adhamniazy/how-to-buildpublish-your-v3-chrome-extension-23no)
 - [Dev.to/JS] [Why you should find a no-code tool with hosting flexibility](https://dev.to/richkurtzman/why-you-should-find-a-no-code-tool-with-hosting-flexibility-5e7j)
 - [Lifehacker] [Why Pistol Squats Are So Hard &lpar;and How to Do Them Anyway&rpar;](https://lifehacker.com/why-pistol-squats-are-so-hard-and-how-to-do-them-anywa-1849166330)
 - [Dev.to/JS] [Style your Svelte website faster with Stylify](https://dev.to/machy8/style-your-svelte-website-faster-with-stylify-2ed3)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Five of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/five-of-the-best-movies-based-on-mythology-and-folklore-1849165515)
 - [Dev.to/JS] [full stack developer](https://dev.to/abuhuraira598/full-stack-developer-25lj)
 - [Dev.to/JS] [Backticks and why the matter.](https://dev.to/lizrhodesss/backticks-and-why-the-matter-oa4)
-- [Dev.to/JS] [Learning NodeJs after 2years of not coding](https://dev.to/benjaminhiti/learning-nodejs-after-2years-of-not-coding-al6)
 - [Lifehacker] [The Ultimate Guide to Catching a Baseball at an MLB Game](https://lifehacker.com/the-ultimate-guide-to-catching-a-baseball-at-an-mlb-gam-1849164821)
-- [Dev.to/JS] [How to run a Remix app + package with turborepo](https://dev.to/felipefreitag/how-to-run-a-remix-app-package-with-turborepo-2n56)
 - [Lifehacker] [These Ford Cars Are Being Recalled Because They Might Burst Into Flames](https://lifehacker.com/these-ford-cars-are-being-recalled-because-they-might-b-1849163907)
 - [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
 - [Lifehacker] [Prime Day Is Best for Exactly One Type of Tech](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
