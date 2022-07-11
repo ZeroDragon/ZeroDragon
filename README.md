@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Error: Missing helper: &quot;handlebars&quot;: Missing helper: &quot;handlebars&quot;. Any thought ?](https://dev.to/adityanugroho09/error-missing-helper-handlebars-missing-helper-handlebars-any-thought--37h)
 - [Dev.to/JS] [Keagate: Open-source, high-performance alternative to Coinbase Commerce &amp; CoinGate.](https://dev.to/mbagley1020/keagate-open-source-high-performance-alternative-to-coinbase-commerce-coingate-2h40)
 - [Dev.to/JS] [How to create Google Maps clone with Next.js, Prisma, and Postgres.](https://dev.to/isaacdyor/how-to-create-google-maps-clone-with-nextjs-prisma-and-postgres-305h)
 - [Dev.to/JS] [Some Recursion Practice Notes](https://dev.to/benboorstein/some-recursion-practice-notes-217f)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Basics of JavaScript Strings Tutorial](https://dev.to/rembertdesigns/the-basics-of-javascript-strings-tutorial-1c1c)
 - [Dev.to/JS] [Start Using JS with the DOM](https://dev.to/chabulsqu/start-using-js-with-the-dom-4acd)
 - [Dev.to/JS] [Free Store API for developers to Practice Front End E-commerce Development](https://dev.to/balajidharma/free-store-api-for-developers-to-practice-front-end-e-commerce-development-312)
-- [Dev.to/JS] [Install Bun on WSL](https://dev.to/hanancs/install-bun-on-wsl-59m1)
 - [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
 - [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Lifehacker] [How &lpar;and When&rpar; to Watch the Massive K2 Comet Pass Earth](https://lifehacker.com/how-and-when-to-watch-the-massive-k2-comet-pass-earth-1849155026)
