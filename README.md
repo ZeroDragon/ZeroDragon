@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [full stack developer](https://dev.to/abuhuraira598/full-stack-developer-25lj)
+- [Dev.to/JS] [Backticks and why the matter.](https://dev.to/lizrhodesss/backticks-and-why-the-matter-oa4)
+- [Dev.to/JS] [Learning NodeJs after 2years of not coding](https://dev.to/benjaminhiti/learning-nodejs-after-2years-of-not-coding-al6)
+- [Lifehacker] [The Ultimate Guide to Catching a Baseball at an MLB Game](https://lifehacker.com/the-ultimate-guide-to-catching-a-baseball-at-an-mlb-gam-1849164821)
+- [Dev.to/JS] [How to run a Remix app + package with turborepo](https://dev.to/felipefreitag/how-to-run-a-remix-app-package-with-turborepo-2n56)
+- [Dev.to/JS] [Why You Should Learn Web 2.0 Before Getting into Web 3.0](https://dev.to/aliraza/why-you-should-learn-web-20-before-getting-into-web-30-2hc4)
+- [Lifehacker] [These Ford Cars Are Being Recalled Because They Might Burst Into Flames](https://lifehacker.com/these-ford-cars-are-being-recalled-because-they-might-b-1849163907)
 - [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
 - [Dev.to/JS] [JavaScript Submit Event Listeners for Dummies.](https://dev.to/rossonevan/javascript-submit-event-listeners-for-dummies-5f99)
 - [Lifehacker] [Prime Day Is Best for Exactly One Type of Tech](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
@@ -35,13 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to display cart details on Stripe Terminal](https://dev.to/stripe/how-to-display-cart-details-on-stripe-terminal-jg1)
 - [Dev.to/JS] [Exactly when to shift to React from JavaScript ?](https://dev.to/aspiringdev22/exactly-when-to-shift-to-react-from-javascript--1hg2)
 - [Lifehacker] [Windows 11 Accessibility Features Everyone Can Use](https://lifehacker.com/windows-11-accessibility-features-everyone-can-use-1849163481)
-- [Dev.to/JS] [21 of the Best Javascript Tips to Master It](https://dev.to/lambdatest/21-of-the-best-javascript-tips-to-master-it-4gk1)
-- [Dev.to/JS] [JS Basic String Methods](https://dev.to/shshank/js-basic-string-methods-363b)
 - [Lifehacker] [How to Keep Food From Sticking to Your Grill](https://lifehacker.com/how-to-keep-food-from-sticking-to-your-grill-1849162838)
 - [Lifehacker] [The Easiest Key Lime Pie Only Has Three Ingredients](https://lifehacker.com/the-easiest-key-lime-pie-only-has-three-ingredients-1849155013)
-- [Dev.to/JS] [How to use the contenteditable attribute in Vue 3](https://dev.to/pyrsmk/how-to-use-the-contenteditable-attribute-in-vue-3-a89)
-- [Dev.to/JS] [Paracetamol.js💊| #164: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-164-explica-este-codigo-javascript-4mm3)
-- [Dev.to/JS] [Paracetamol.js💊| #163: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-163-explica-este-codigo-javascript-2ab4)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
 - [Lifehacker] [Actually, Putting Your Hands on Your Knees Is the Best Recovery Position](https://lifehacker.com/actually-putting-your-hands-on-your-knees-is-the-best-1849157656)
 - [Lifehacker] [You Need a Different Ice Box in Your Freezer](https://lifehacker.com/you-need-a-different-ice-box-in-your-freezer-1849157527)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Get Free Credits to Spend on Amazon Prime Day](https://lifehacker.com/you-can-get-free-credits-to-spend-on-amazon-prime-day-1849157648)
 - [Lifehacker] [How to Wash Silk Sheets If You Hate Wrinkles](https://lifehacker.com/how-to-wash-silk-sheets-if-you-hate-wrinkles-1849158413)
 - [Lifehacker] [Another Day, Another Dangerous Social Media Challenge](https://lifehacker.com/another-day-another-dangerous-social-media-challenge-1849157825)
-- [Lifehacker] [5 of the Most Difficult Video Games in Recent Memory](https://lifehacker.com/5-of-the-most-difficult-video-games-in-recent-memory-1849157905)
-- [Lifehacker] [All the Ways Amazon Tricks You Into Spending More on Prime Day](https://lifehacker.com/all-the-ways-amazon-tricks-you-into-spending-more-on-pr-1849158042)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)
 - [Crazy Programmer] [Python Program to Find Prime Factors of a Number](https://www.thecrazyprogrammer.com/2022/07/python-program-to-find-prime-factors-of-a-number.html)<!-- TECH-POSTS:END -->
