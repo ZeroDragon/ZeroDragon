@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
+- [Dev.to/JS] [Build an uNFT marketplace with Next.js, Cosmic and Stripe integration](https://dev.to/naira_gezhoyan/build-an-unft-marketplace-with-nextjs-cosmic-and-stripe-integration-2c9f)
+- [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
+- [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
+- [Dev.to/JS] [Expanding Cards&lpar;Not responsive as of now&rpar;](https://dev.to/nishantguleria/expanding-cardsnot-responsive-as-of-now-36gj)
 - [Lifehacker] [How Bad Is the BA.5 COVID Variant, Really?](https://lifehacker.com/how-bad-is-the-ba-5-covid-variant-really-1849170170)
 - [Dev.to/JS] [Novedades javascript 2022 📢](https://dev.to/carmenrenca/novedades-javascript-2022-ell)
 - [Lifehacker] [How to Make a Fancy Breakfast From a Jar of Salsa](https://lifehacker.com/how-to-make-a-fancy-breakfast-from-a-jar-of-salsa-1849169930)
@@ -40,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If a Nuclear Missile Hits Your City](https://lifehacker.com/what-to-do-if-a-nuclear-missile-hits-your-city-1849168965)
 - [Dev.to/JS] [Setup Module Federation in Angular using Nx](https://dev.to/nx/setup-module-federation-in-angular-using-nx-5gko)
 - [Dev.to/JS] [React toastify](https://dev.to/shubhamtiwari909/react-toastify-ic7)
-- [Dev.to/JS] [Coding Challenge Sites](https://dev.to/glowreeyah/coding-challenge-sites-20ap)
-- [Dev.to/JS] [I built 3 Hackathon projects in 3 months, and won 1500$ in Prizes 🥳🎉](https://dev.to/madza/i-built-3-hackathon-projects-in-3-months-and-won-1500-in-prizes-34fa)
 - [Lifehacker] [18 of the Best &#39;Feel-Bad&#39; Movies Ever](https://lifehacker.com/18-of-the-best-feel-bad-movies-ever-1849152192)
 - [Lifehacker] [How Much Does It Really Cost to Live in an RV for a Year?](https://lifehacker.com/how-much-does-it-really-cost-to-live-in-an-rv-for-a-yea-1849168490)
 - [Lifehacker] [How to Unhide Your Wifi Password](https://lifehacker.com/how-to-unhide-your-wifi-password-1849151134)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [10 of the Most Instagrammable Selfie Locations](https://lifehacker.com/10-of-the-most-instagrammable-selfie-locations-1849165693)
 - [Lifehacker] [Five of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/five-of-the-best-movies-based-on-mythology-and-folklore-1849165515)
 - [Lifehacker] [The Ultimate Guide to Catching a Baseball at an MLB Game](https://lifehacker.com/the-ultimate-guide-to-catching-a-baseball-at-an-mlb-gam-1849164821)
-- [Lifehacker] [These Ford Cars Are Being Recalled Because They Might Burst Into Flames](https://lifehacker.com/these-ford-cars-are-being-recalled-because-they-might-b-1849163907)
-- [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
-- [Lifehacker] [Prime Day Is Best for Exactly One Type of Tech](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
 
