@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Create a Survey Application Using Strapi and React.JS](https://dev.to/strapi/how-to-create-a-survey-application-using-strapi-and-reactjs-ih)
+- [Dev.to/JS] [5 Things You Must Consider Before Choosing A Low Code Video Embed Platform](https://dev.to/yashsrivastava176/5-things-you-must-consider-before-choosing-a-low-code-video-embed-platform-1ldc)
+- [Dev.to/JS] [Awesome SQLite](https://dev.to/sqlsite/awesome-sqlite-j76)
+- [Dev.to/JS] [map&lpar;&rpar;, filter&lpar;&rpar; &amp; reduce&lpar;&rpar; in javascript👩‍💻](https://dev.to/aishanipach/map-filter-reduce-in-javascript-3i4j)
 - [Dev.to/JS] [What Prepaid Cards Work With Cash App? For A Genuine Guide](https://dev.to/frankswindler/what-prepaid-cards-work-with-cash-app-for-a-genuine-guide-2cc3)
 - [Dev.to/JS] [What It&#39;s Like To Code For Amazon](https://dev.to/bytebodger/what-its-like-to-code-for-amazon-4nke)
 - [Dev.to/JS] [useRef, Forms, input handling in React](https://dev.to/avinashvagh/useref-forms-input-handling-in-react-11f)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make Interactable Forms &lpar;with HTML &amp; Javascript&rpar;](https://dev.to/kdliving14/how-to-make-interactable-forms-with-html-javascript-393l)
 - [Dev.to/JS] [Can You Measure the Duration of a Promise?](https://dev.to/grunet/can-you-measure-the-duration-of-a-promise-3a6h)
 - [Dev.to/JS] [React Storybook for Kotlin/JS: Basic set up](https://dev.to/asubb/react-storybook-for-kotlinjs-basic-set-up-cbc)
-- [Dev.to/JS] [Make TikToks with JavaScript 1](https://dev.to/kadeesterline/make-tiktoks-with-javascript-1-2g4l)
-- [Dev.to/JS] [Condor CBD Gummies - Pain Relief Reviews, Uses, Benefits &amp; Price?](https://dev.to/condorcbdfact/condor-cbd-gummies-pain-relief-reviews-uses-benefits-price-3f9e)
-- [Dev.to/JS] [Google Maps with React](https://dev.to/jss475/google-maps-with-react-4n1o)
-- [Dev.to/JS] [Google Maps API 學習筆記 - 2：在地圖上畫個日本結界](https://dev.to/letswrite/google-maps-api-xue-xi-bi-ji-2zai-di-tu-shang-hua-ge-ri-ben-jie-jie-41ll)
 - [Lifehacker] [Why Pistol Squats Are So Hard &lpar;and How to Do Them Anyway&rpar;](https://lifehacker.com/why-pistol-squats-are-so-hard-and-how-to-do-them-anywa-1849166330)
 - [Lifehacker] [How to Tell If a Prime Day Deal Is Really Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
 - [Lifehacker] [Never Pay Extra to Sit Next to Your Child on an Airplane](https://lifehacker.com/never-pay-extra-to-sit-next-to-your-child-on-an-airplan-1849165865)
