@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NEWS: node.js has a built-in Test Framework now](https://dev.to/adam_cyclones/news-node-has-a-built-in-test-framework-now-2lkl)
+- [Lifehacker] [How to Unhide Your Wifi Password](https://lifehacker.com/how-to-unhide-your-wifi-password-1849151134)
 - [Lifehacker] [This Experimental Feature Stops Chrome From Hogging All Your RAM](https://lifehacker.com/this-experimental-feature-stops-chrome-from-hogging-all-1849166263)
 - [Lifehacker] [How to Turn Your Garden Hose Into a Pressure Washer](https://lifehacker.com/how-to-turn-your-garden-hose-into-a-pressure-washer-1849165239)
 - [Dev.to/JS] [Drag &amp; Drop Event - HTML5 and JavaScript](https://dev.to/prateek951/drag-drop-event-html5-and-javascript-1gnb)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Demystifying JavaScript - Promise.race, Promise.all &amp; Promise.allSettled JavaScript Methods](https://dev.to/prateek951/demystifying-javascript-promiserace-promiseall-promiseallsettled-javascript-methods-3e4f)
 - [Dev.to/JS] [Hey there](https://dev.to/prabhuthewolf/hey-there-2ehi)
 - [Dev.to/JS] [Demystifying JavaScript - Understanding Promises &amp; Error Handling](https://dev.to/prateek951/demystifying-javascript-understanding-promises-error-handling-8dl)
-- [Dev.to/JS] [Demystifying JavaScript -The Event Loop, Call Stack and the Message Queue](https://dev.to/prateek951/demystifying-javascript-the-event-loop-call-stack-and-the-message-queue-38a2)
 - [Lifehacker] [Eat a Bit of Your Party Spread Before Your Guests Arrive](https://lifehacker.com/eat-a-bit-of-your-party-spread-before-your-guests-arriv-1849164309)
 - [Lifehacker] [Easy Ways to Decorate a Cake When You Suck at Decorating](https://lifehacker.com/easy-ways-to-decorate-a-cake-when-you-suck-at-decoratin-1849158643)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Actually, Putting Your Hands on Your Knees Is the Best Recovery Position](https://lifehacker.com/actually-putting-your-hands-on-your-knees-is-the-best-1849157656)
 - [Lifehacker] [You Need a Different Ice Box in Your Freezer](https://lifehacker.com/you-need-a-different-ice-box-in-your-freezer-1849157527)
 - [Lifehacker] [You Should Pour Hot Water on Your Cake Batter](https://lifehacker.com/you-should-pour-hot-water-on-your-cake-batter-1849149520)
-- [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
 
