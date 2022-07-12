@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scope Matters](https://dev.to/aiodell/scope-matters-2g71)
+- [Dev.to/JS] [Custom ESM loaders: Who, what, when, where, why, how](https://dev.to/jakobjingleheimer/custom-esm-loaders-who-what-when-where-why-how-4i1o)
+- [Dev.to/JS] [Build a real-time document contribution list in NextJS](https://dev.to/hackmamba/build-a-real-time-document-contribution-list-in-nextjs-1k93)
+- [Dev.to/JS] [Periodic table code golf](https://dev.to/edulan/periodic-table-challenge-4i63)
 - [Dev.to/JS] [How to configure a DFX project to use a React Frontend?](https://dev.to/hr21don/how-to-configure-a-dfx-project-to-use-a-react-frontend-1en2)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Dev.to/JS] [Build an uNFT marketplace with Next.js, Cosmic and Stripe integration](https://dev.to/naira_gezhoyan/build-an-unft-marketplace-with-nextjs-cosmic-and-stripe-integration-2c9f)
@@ -39,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Dirty Little Secrets of Amazon Prime Day](https://lifehacker.com/three-dirty-little-secrets-of-amazon-prime-day-1849169755)
 - [Dev.to/JS] [Truthy and Falsy Values in Javascript](https://dev.to/smpnjn/truthy-and-falsy-values-in-javascript-3261)
 - [Lifehacker] [Everything We Know About Nothing’s ‘Phone 1’](https://lifehacker.com/everything-we-know-about-nothing-s-phone-1-1849168905)
-- [Dev.to/JS] [How does the Javascript logical OR &lpar;||&rpar; operator work?](https://dev.to/smpnjn/how-does-the-javascript-logical-or-operator-work-acm)
-- [Dev.to/JS] [How to Build and Deploy a Serverless Game with DataStax Astra DB, JAMStack, Stargate, and Netlify](https://dev.to/datastax/how-to-build-and-deploy-a-serverless-game-with-datastax-astra-db-jamstack-stargate-and-netlify-2138)
-- [Dev.to/JS] [What is a Software Engineer - and How to Become One!](https://dev.to/surajondev/what-is-a-software-engineer-and-how-to-become-one-h9g)
 - [Lifehacker] [How to Tell a Good Assisted Living Facility From an Awful One](https://lifehacker.com/how-to-tell-a-good-assisted-living-facility-from-an-awf-1849169114)
 - [Lifehacker] [What to Do If a Nuclear Missile Hits Your City](https://lifehacker.com/what-to-do-if-a-nuclear-missile-hits-your-city-1849168965)
-- [Dev.to/JS] [Setup Module Federation in Angular using Nx](https://dev.to/nx/setup-module-federation-in-angular-using-nx-5gko)
 - [Lifehacker] [18 of the Best &#39;Feel-Bad&#39; Movies Ever](https://lifehacker.com/18-of-the-best-feel-bad-movies-ever-1849152192)
 - [Lifehacker] [How Much Does It Really Cost to Live in an RV for a Year?](https://lifehacker.com/how-much-does-it-really-cost-to-live-in-an-rv-for-a-yea-1849168490)
 - [Lifehacker] [How to Unhide Your Wifi Password](https://lifehacker.com/how-to-unhide-your-wifi-password-1849151134)
