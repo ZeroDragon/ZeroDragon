@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google Maps API 學習筆記 - 2：在地圖上畫個日本結界](https://dev.to/letswrite/google-maps-api-xue-xi-bi-ji-2zai-di-tu-shang-hua-ge-ri-ben-jie-jie-41ll)
+- [Dev.to/JS] [JavaScript Conversão de tipo de dados - Parte 2](https://dev.to/h4ck3rtr4d3r/javascript-conversao-de-tipo-de-dados-parte-2-2da8)
 - [Dev.to/JS] [What is a Synchronous &amp; Asynchronous Programming? 🚀](https://dev.to/namya/what-is-a-synchronous-asynchronous-programming-56m0)
 - [Dev.to/JS] [JavaScript Visualizer](https://dev.to/hoomantalakian/javascript-visualizer-3j3)
 - [Dev.to/JS] [More About Promise](https://dev.to/ayako_yk/more-about-promise-57cn)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If a Prime Day Deal Is Really Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
 - [Lifehacker] [Never Pay Extra to Sit Next to Your Child on an Airplane](https://lifehacker.com/never-pay-extra-to-sit-next-to-your-child-on-an-airplan-1849165865)
 - [Dev.to/JS] [The last react form library you will ever need](https://dev.to/ivanms1/the-last-react-form-you-will-ever-need-2f76)
-- [Dev.to/JS] [Different ways to distribute and integrate Kotlin/JS library](https://dev.to/touchlab/different-ways-to-distribute-and-integrate-kotlinjs-library-1hg3)
-- [Dev.to/JS] [Express Middlewares](https://dev.to/andrewkwizera/express-middlewares-4982)
 - [Lifehacker] [These COVID &#39;Facts&#39; Are No Longer True](https://lifehacker.com/these-covid-facts-are-no-longer-true-1849165352)
 - [Lifehacker] [10 of the Most Instagrammable Selfie Locations](https://lifehacker.com/10-of-the-most-instagrammable-selfie-locations-1849165693)
 - [Lifehacker] [Five of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/five-of-the-best-movies-based-on-mythology-and-folklore-1849165515)
