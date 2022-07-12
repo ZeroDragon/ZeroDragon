@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Setup and run Cypress Test cases In Azure DevOps Pipeline](https://dev.to/kailashpathak7/how-to-setup-and-run-cypress-test-cases-in-azure-devops-pipeline-4797)
+- [Dev.to/JS] [Implement Binary Search Using JavaScript](https://dev.to/manthanbhatt/implement-binary-search-using-javascript-34d7)
 - [Dev.to/JS] [How to Make Interactable Forms &lpar;with HTML &amp; Javascript&rpar;](https://dev.to/kdliving14/how-to-make-interactable-forms-with-html-javascript-393l)
 - [Dev.to/JS] [Can You Measure the Duration of a Promise?](https://dev.to/grunet/can-you-measure-the-duration-of-a-promise-3a6h)
 - [Dev.to/JS] [React Storybook for Kotlin/JS: Basic set up](https://dev.to/asubb/react-storybook-for-kotlinjs-basic-set-up-cbc)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Conversão de tipo de dados - Parte 2](https://dev.to/h4ck3rtr4d3r/javascript-conversao-de-tipo-de-dados-parte-2-2da8)
 - [Dev.to/JS] [What is a Synchronous &amp; Asynchronous Programming? 🚀](https://dev.to/namya/what-is-a-synchronous-asynchronous-programming-56m0)
 - [Dev.to/JS] [JavaScript Visualizer](https://dev.to/hoomantalakian/javascript-visualizer-3j3)
-- [Dev.to/JS] [More About Promise](https://dev.to/ayako_yk/more-about-promise-57cn)
-- [Dev.to/JS] [Forever Functional: Debouncing and throttling for performance](https://dev.to/asayerio_techblog/forever-functional-debouncing-and-throttling-for-performance-3p1i)
 - [Lifehacker] [Why Pistol Squats Are So Hard &lpar;and How to Do Them Anyway&rpar;](https://lifehacker.com/why-pistol-squats-are-so-hard-and-how-to-do-them-anywa-1849166330)
 - [Lifehacker] [How to Tell If a Prime Day Deal Is Really Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
 - [Lifehacker] [Never Pay Extra to Sit Next to Your Child on an Airplane](https://lifehacker.com/never-pay-extra-to-sit-next-to-your-child-on-an-airplan-1849165865)
