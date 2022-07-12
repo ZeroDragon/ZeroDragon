@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Experimental Feature Stops Chrome From Hogging All Your RAM](https://lifehacker.com/this-experimental-feature-stops-chrome-from-hogging-all-1849166263)
+- [Lifehacker] [How to Turn Your Garden Hose Into a Pressure Washer](https://lifehacker.com/how-to-turn-your-garden-hose-into-a-pressure-washer-1849165239)
+- [Dev.to/JS] [Drag &amp; Drop Event - HTML5 and JavaScript](https://dev.to/prateek951/drag-drop-event-html5-and-javascript-1gnb)
+- [Dev.to/JS] [Understanding Debouncing In JavaScript](https://dev.to/prateek951/understanding-debouncing-in-javascript-211d)
+- [Dev.to/JS] [React custom hook npm package to fetch Dev.to blogs](https://dev.to/vigneshiyergithub/react-custom-hook-npm-package-to-fetch-devto-blogs-2d0k)
+- [Dev.to/JS] [Demystifying JavaScript - Exercise - Handling Multiple Async Fetch Calls using Promise.all &amp; Promise.allSettled](https://dev.to/prateek951/demystifying-javascript-exercise-handling-multiple-async-fetch-calls-using-promiseall-promiseallsettled-4o56)
+- [Dev.to/JS] [Top 18 Free CSS3 Resources To Build Fast Lightweight Websites](https://dev.to/lambdatest/top-18-free-css3-resources-to-build-fast-lightweight-websites-468o)
+- [Dev.to/JS] [👩🏻‍💻👨🏻‍💻Project - 1 : Creating a COVID19 🦠Tracker Application using JavaScript &amp; Mapbox](https://dev.to/prateek951/project-1-creating-a-covid19-tracker-application-using-javascript-mapbox-2fpn)
 - [Lifehacker] [When to Choose Frequent Flyer Miles Over Rewards Points](https://lifehacker.com/when-to-choose-frequent-flyer-miles-over-rewards-points-1849163378)
 - [Dev.to/JS] [Demystifying JavaScript - Making JavaScript HTTP Requests with Fetch API](https://dev.to/prateek951/demystifying-javascript-making-javascript-http-requests-with-fetch-api-3k1d)
 - [Dev.to/JS] [Demystifying JavaScript - From Promises to Async Await 🔥](https://dev.to/prateek951/demystifying-javascript-from-promises-to-async-await-378j)
@@ -30,12 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hey there](https://dev.to/prabhuthewolf/hey-there-2ehi)
 - [Dev.to/JS] [Demystifying JavaScript - Understanding Promises &amp; Error Handling](https://dev.to/prateek951/demystifying-javascript-understanding-promises-error-handling-8dl)
 - [Dev.to/JS] [Demystifying JavaScript -The Event Loop, Call Stack and the Message Queue](https://dev.to/prateek951/demystifying-javascript-the-event-loop-call-stack-and-the-message-queue-38a2)
-- [Dev.to/JS] [How to build Restaurant Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-restaurant-website-using-html-css-javascript-299)
-- [Dev.to/JS] [Demystifying JavaScript -Introduction to Asynchronous JavaScript](https://dev.to/prateek951/demystifying-javascript-introduction-to-asynchronous-javascript-4bnf)
-- [Dev.to/JS] [Demystifying JavaScript -Event Capturing,Bubbling &amp; Delegation](https://dev.to/prateek951/demystifying-javascript-event-capturingbubbling-delegation-4chg)
-- [Dev.to/JS] [Testing A Communications Platform’s &lpar;CPaaS&rpar; Performance](https://dev.to/loadero/testing-a-communications-platforms-cpaas-performance-1g1d)
-- [Dev.to/JS] [Demystifying JavaScript -Events &amp; Adding and Removing Event Listeners](https://dev.to/prateek951/demystifying-javascript-events-adding-and-removing-event-listeners-4gdn)
-- [Dev.to/JS] [Koa Js : Part 5 - how to connect a caching database to your Koa Js server](https://dev.to/kachiic/koa-js-part-5-how-to-connect-a-caching-database-to-your-koa-js-server-2kf7)
 - [Lifehacker] [Eat a Bit of Your Party Spread Before Your Guests Arrive](https://lifehacker.com/eat-a-bit-of-your-party-spread-before-your-guests-arriv-1849164309)
 - [Lifehacker] [Easy Ways to Decorate a Cake When You Suck at Decorating](https://lifehacker.com/easy-ways-to-decorate-a-cake-when-you-suck-at-decoratin-1849158643)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Need a Different Ice Box in Your Freezer](https://lifehacker.com/you-need-a-different-ice-box-in-your-freezer-1849157527)
 - [Lifehacker] [You Should Pour Hot Water on Your Cake Batter](https://lifehacker.com/you-should-pour-hot-water-on-your-cake-batter-1849149520)
 - [Lifehacker] [How to Set Your Own Prices for Amazon Prime Day &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-set-your-own-prices-for-amazon-prime-day-and-wh-1849158967)
-- [Lifehacker] [Ask These Maintenance Questions Before Ever Buying a Car](https://lifehacker.com/ask-these-maintenance-questions-before-ever-buying-a-ca-1849154999)
-- [Lifehacker] [How to Remove Pet Hair From Your Washing Machine and Dryer](https://lifehacker.com/how-to-remove-pet-hair-from-your-washing-machine-and-dr-1849155006)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
 
