@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is a Synchronous &amp; Asynchronous Programming? 🚀](https://dev.to/namya/what-is-a-synchronous-asynchronous-programming-56m0)
+- [Dev.to/JS] [JavaScript Visualizer](https://dev.to/hoomantalakian/javascript-visualizer-3j3)
+- [Dev.to/JS] [More About Promise](https://dev.to/ayako_yk/more-about-promise-57cn)
+- [Dev.to/JS] [Forever Functional: Debouncing and throttling for performance](https://dev.to/asayerio_techblog/forever-functional-debouncing-and-throttling-for-performance-3p1i)
+- [Dev.to/JS] [Data fetching with Suspense in React](https://dev.to/asayerio_techblog/data-fetching-with-suspense-in-react-2n0m)
 - [Dev.to/JS] [How to solve Fizz Buzz with an easy explanation](https://dev.to/codingwithadam/how-to-solve-fizz-buzz-with-an-easy-explanation-2d0g)
 - [Dev.to/JS] [How to Build/Publish your V3 chrome extension!✨](https://dev.to/adhamniazy/how-to-buildpublish-your-v3-chrome-extension-23no)
 - [Dev.to/JS] [Why you should find a no-code tool with hosting flexibility](https://dev.to/richkurtzman/why-you-should-find-a-no-code-tool-with-hosting-flexibility-5e7j)
@@ -34,13 +39,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Different ways to distribute and integrate Kotlin/JS library](https://dev.to/touchlab/different-ways-to-distribute-and-integrate-kotlinjs-library-1hg3)
 - [Dev.to/JS] [Express Middlewares](https://dev.to/andrewkwizera/express-middlewares-4982)
 - [Lifehacker] [These COVID &#39;Facts&#39; Are No Longer True](https://lifehacker.com/these-covid-facts-are-no-longer-true-1849165352)
-- [Dev.to/JS] [Cool &amp; useful JavaScript libraries](https://dev.to/lebcit/cool-useful-javascript-libraries-16mb)
-- [Dev.to/JS] [The bun is out 🥟](https://dev.to/omher/the-bun-is-out-1ah7)
 - [Lifehacker] [10 of the Most Instagrammable Selfie Locations](https://lifehacker.com/10-of-the-most-instagrammable-selfie-locations-1849165693)
-- [Dev.to/JS] [INTRODUCTION TO JAVASCRIPT.](https://dev.to/violakithinji/introduction-to-javascript-kmn)
 - [Lifehacker] [Five of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/five-of-the-best-movies-based-on-mythology-and-folklore-1849165515)
-- [Dev.to/JS] [full stack developer](https://dev.to/abuhuraira598/full-stack-developer-25lj)
-- [Dev.to/JS] [Backticks and why the matter.](https://dev.to/lizrhodesss/backticks-and-why-the-matter-oa4)
 - [Lifehacker] [The Ultimate Guide to Catching a Baseball at an MLB Game](https://lifehacker.com/the-ultimate-guide-to-catching-a-baseball-at-an-mlb-gam-1849164821)
 - [Lifehacker] [These Ford Cars Are Being Recalled Because They Might Burst Into Flames](https://lifehacker.com/these-ford-cars-are-being-recalled-because-they-might-b-1849163907)
 - [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
