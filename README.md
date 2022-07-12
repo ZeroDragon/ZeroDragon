@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #165: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-165-explica-este-codigo-javascript-foo)
+- [Dev.to/JS] [Ultimate GET Endpoint](https://dev.to/clickpesa/ultimate-get-endpoint-486b)
+- [Lifehacker] [Three Dirty Little Secrets of Amazon Prime Day](https://lifehacker.com/three-dirty-little-secrets-of-amazon-prime-day-1849169755)
+- [Dev.to/JS] [Truthy and Falsy Values in Javascript](https://dev.to/smpnjn/truthy-and-falsy-values-in-javascript-3261)
+- [Lifehacker] [Everything We Know About Nothing’s ‘Phone 1’](https://lifehacker.com/everything-we-know-about-nothing-s-phone-1-1849168905)
 - [Dev.to/JS] [How does the Javascript logical OR &lpar;||&rpar; operator work?](https://dev.to/smpnjn/how-does-the-javascript-logical-or-operator-work-acm)
 - [Dev.to/JS] [How to Build and Deploy a Serverless Game with DataStax Astra DB, JAMStack, Stargate, and Netlify](https://dev.to/datastax/how-to-build-and-deploy-a-serverless-game-with-datastax-astra-db-jamstack-stargate-and-netlify-2138)
 - [Dev.to/JS] [What is a Software Engineer - and How to Become One!](https://dev.to/surajondev/what-is-a-software-engineer-and-how-to-become-one-h9g)
@@ -35,13 +40,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Subtly Different Results of Query Selectors](https://dev.to/angus_bowerbrown_96449f1/the-subtly-different-results-of-query-selectors-472b)
 - [Lifehacker] [18 of the Best &#39;Feel-Bad&#39; Movies Ever](https://lifehacker.com/18-of-the-best-feel-bad-movies-ever-1849152192)
 - [Dev.to/JS] [Practice Testing](https://dev.to/jesterxl/practice-testing-52n5)
-- [Dev.to/JS] [Object Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/brandonbawe/object-oriented-programming-oop-in-javascript-1kj2)
 - [Lifehacker] [How Much Does It Really Cost to Live in an RV for a Year?](https://lifehacker.com/how-much-does-it-really-cost-to-live-in-an-rv-for-a-yea-1849168490)
-- [Dev.to/JS] [✅ node.js Test Framework now in core modules](https://dev.to/adam_cyclones/news-node-has-a-built-in-test-framework-now-2lkl)
 - [Lifehacker] [How to Unhide Your Wifi Password](https://lifehacker.com/how-to-unhide-your-wifi-password-1849151134)
 - [Lifehacker] [This Experimental Feature Stops Chrome From Hogging All Your RAM](https://lifehacker.com/this-experimental-feature-stops-chrome-from-hogging-all-1849166263)
 - [Lifehacker] [How to Turn Your Garden Hose Into a Pressure Washer](https://lifehacker.com/how-to-turn-your-garden-hose-into-a-pressure-washer-1849165239)
-- [Dev.to/JS] [Drag &amp; Drop Event - HTML5 and JavaScript](https://dev.to/prateek951/drag-drop-event-html5-and-javascript-1gnb)
 - [Lifehacker] [When to Choose Frequent Flyer Miles Over Rewards Points](https://lifehacker.com/when-to-choose-frequent-flyer-miles-over-rewards-points-1849163378)
 - [Lifehacker] [Eat a Bit of Your Party Spread Before Your Guests Arrive](https://lifehacker.com/eat-a-bit-of-your-party-spread-before-your-guests-arriv-1849164309)
 - [Lifehacker] [Easy Ways to Decorate a Cake When You Suck at Decorating](https://lifehacker.com/easy-ways-to-decorate-a-cake-when-you-suck-at-decoratin-1849158643)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to ‘Supercool’ Your Home &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-supercool-your-home-and-why-you-should-1849164074)
 - [Lifehacker] [How to See the First James Webb Telescope Images](https://lifehacker.com/how-to-see-the-first-james-webb-telescope-images-1849164081)
 - [Lifehacker] [Windows 11 Accessibility Features Everyone Can Use](https://lifehacker.com/windows-11-accessibility-features-everyone-can-use-1849163481)
-- [Lifehacker] [How to Keep Food From Sticking to Your Grill](https://lifehacker.com/how-to-keep-food-from-sticking-to-your-grill-1849162838)
-- [Lifehacker] [The Easiest Key Lime Pie Only Has Three Ingredients](https://lifehacker.com/the-easiest-key-lime-pie-only-has-three-ingredients-1849155013)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
 
