@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding Challenge Sites](https://dev.to/glowreeyah/coding-challenge-sites-20ap)
+- [Dev.to/JS] [I built 3 Hackathon projects in 3 months, and won 1500$ in Prizes 🥳🎉](https://dev.to/madza/i-built-3-hackathon-projects-in-3-months-and-won-1500-in-prizes-34fa)
+- [Dev.to/JS] [The Subtly Different Results of Query Selectors](https://dev.to/angus_bowerbrown_96449f1/the-subtly-different-results-of-query-selectors-472b)
+- [Lifehacker] [18 of the Best &#39;Feel-Bad&#39; Movies Ever](https://lifehacker.com/18-of-the-best-feel-bad-movies-ever-1849152192)
+- [Dev.to/JS] [Practice Testing](https://dev.to/jesterxl/practice-testing-52n5)
+- [Dev.to/JS] [Object Oriented Programming &lpar;OOP&rpar; in JavaScript](https://dev.to/brandonbawe/object-oriented-programming-oop-in-javascript-1kj2)
+- [Lifehacker] [How Much Does It Really Cost to Live in an RV for a Year?](https://lifehacker.com/how-much-does-it-really-cost-to-live-in-an-rv-for-a-yea-1849168490)
 - [Dev.to/JS] [NEWS: node.js has a built-in Test Framework now](https://dev.to/adam_cyclones/news-node-has-a-built-in-test-framework-now-2lkl)
 - [Lifehacker] [How to Unhide Your Wifi Password](https://lifehacker.com/how-to-unhide-your-wifi-password-1849151134)
 - [Lifehacker] [This Experimental Feature Stops Chrome From Hogging All Your RAM](https://lifehacker.com/this-experimental-feature-stops-chrome-from-hogging-all-1849166263)
@@ -34,11 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 18 Free CSS3 Resources To Build Fast Lightweight Websites](https://dev.to/lambdatest/top-18-free-css3-resources-to-build-fast-lightweight-websites-468o)
 - [Dev.to/JS] [👩🏻‍💻👨🏻‍💻Project - 1 : Creating a COVID19 🦠Tracker Application using JavaScript &amp; Mapbox](https://dev.to/prateek951/project-1-creating-a-covid19-tracker-application-using-javascript-mapbox-2fpn)
 - [Lifehacker] [When to Choose Frequent Flyer Miles Over Rewards Points](https://lifehacker.com/when-to-choose-frequent-flyer-miles-over-rewards-points-1849163378)
-- [Dev.to/JS] [Demystifying JavaScript - Making JavaScript HTTP Requests with Fetch API](https://dev.to/prateek951/demystifying-javascript-making-javascript-http-requests-with-fetch-api-3k1d)
-- [Dev.to/JS] [Demystifying JavaScript - From Promises to Async Await 🔥](https://dev.to/prateek951/demystifying-javascript-from-promises-to-async-await-378j)
-- [Dev.to/JS] [Demystifying JavaScript - Promise.race, Promise.all &amp; Promise.allSettled JavaScript Methods](https://dev.to/prateek951/demystifying-javascript-promiserace-promiseall-promiseallsettled-javascript-methods-3e4f)
-- [Dev.to/JS] [Hey there](https://dev.to/prabhuthewolf/hey-there-2ehi)
-- [Dev.to/JS] [Demystifying JavaScript - Understanding Promises &amp; Error Handling](https://dev.to/prateek951/demystifying-javascript-understanding-promises-error-handling-8dl)
 - [Lifehacker] [Eat a Bit of Your Party Spread Before Your Guests Arrive](https://lifehacker.com/eat-a-bit-of-your-party-spread-before-your-guests-arriv-1849164309)
 - [Lifehacker] [Easy Ways to Decorate a Cake When You Suck at Decorating](https://lifehacker.com/easy-ways-to-decorate-a-cake-when-you-suck-at-decoratin-1849158643)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Key Lime Pie Only Has Three Ingredients](https://lifehacker.com/the-easiest-key-lime-pie-only-has-three-ingredients-1849155013)
 - [Lifehacker] [Amazon Prime Day Discounts Aren&#39;t As Big As They Seem](https://lifehacker.com/amazon-prime-day-discounts-arent-as-big-as-they-seem-1849158394)
 - [Lifehacker] [Actually, Putting Your Hands on Your Knees Is the Best Recovery Position](https://lifehacker.com/actually-putting-your-hands-on-your-knees-is-the-best-1849157656)
-- [Lifehacker] [You Need a Different Ice Box in Your Freezer](https://lifehacker.com/you-need-a-different-ice-box-in-your-freezer-1849157527)
-- [Lifehacker] [You Should Pour Hot Water on Your Cake Batter](https://lifehacker.com/you-should-pour-hot-water-on-your-cake-batter-1849149520)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
 
