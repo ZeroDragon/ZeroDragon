@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Flutter App Development? Advantages &amp; Drawbacks of Flutter](https://dev.to/robertt0321/what-is-flutter-app-development-advantages-drawbacks-of-flutter-2899)
+- [Dev.to/JS] [Queueing with BullJS](https://dev.to/clickpesa/queueing-with-bulljs-30c3)
+- [Dev.to/JS] [What&#39;s The Job Market for Big Data Professionals Like?](https://dev.to/barathmanikand1/whats-the-job-market-for-big-data-professionals-like-2ngi)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Dev.to/JS] [What exactly is JavaScript?](https://dev.to/max88git/what-exactly-is-javascript-16kl)
 - [Dev.to/JS] [Setup express with Typescript - testing and security middleware](https://dev.to/yaldram/setup-express-with-typescript-testing-and-security-middleware-2ojg)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Setup express with Typescript - controllers and routes](https://dev.to/yaldram/setup-express-with-typescript-controllers-and-routes-4542)
 - [Dev.to/JS] [Setup express with Typescript - base project setup](https://dev.to/yaldram/setup-express-with-typescript-base-project-setup-4m58)
 - [Dev.to/JS] [How to Create a Survey Application Using Strapi and React.JS](https://dev.to/strapi/how-to-create-a-survey-application-using-strapi-and-reactjs-ih)
-- [Dev.to/JS] [5 Things You Must Consider Before Choosing A Low Code Video Embed Platform](https://dev.to/yashsrivastava176/5-things-you-must-consider-before-choosing-a-low-code-video-embed-platform-1ldc)
-- [Dev.to/JS] [Awesome SQLite](https://dev.to/sqlsite/awesome-sqlite-j76)
-- [Dev.to/JS] [map&lpar;&rpar;, filter&lpar;&rpar; &amp; reduce&lpar;&rpar; in javascript👩‍💻](https://dev.to/aishanipach/map-filter-reduce-in-javascript-3i4j)
 - [Lifehacker] [Why Pistol Squats Are So Hard &lpar;and How to Do Them Anyway&rpar;](https://lifehacker.com/why-pistol-squats-are-so-hard-and-how-to-do-them-anywa-1849166330)
 - [Lifehacker] [How to Tell If a Prime Day Deal Is Really Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
 - [Lifehacker] [Never Pay Extra to Sit Next to Your Child on an Airplane](https://lifehacker.com/never-pay-extra-to-sit-next-to-your-child-on-an-airplan-1849165865)
