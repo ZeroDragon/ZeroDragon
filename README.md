@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Bad Is the BA.5 COVID Variant, Really?](https://lifehacker.com/how-bad-is-the-ba-5-covid-variant-really-1849170170)
+- [Dev.to/JS] [Novedades javascript 2022 📢](https://dev.to/carmenrenca/novedades-javascript-2022-ell)
+- [Lifehacker] [How to Make a Fancy Breakfast From a Jar of Salsa](https://lifehacker.com/how-to-make-a-fancy-breakfast-from-a-jar-of-salsa-1849169930)
+- [Dev.to/JS] [Writing custom middleware functions in NodeJS](https://dev.to/shemasurge/writing-custom-middleware-functions-in-nodejs-26ee)
+- [Lifehacker] [What Is &#39;Manhattanhenge&#39; &lpar;and Does Your City Have Its Own -Henge&rpar;?](https://lifehacker.com/what-is-manhattanhenge-and-does-your-city-have-its-own-1849169762)
 - [Dev.to/JS] [Paracetamol.js💊| #165: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-165-explica-este-codigo-javascript-foo)
 - [Dev.to/JS] [Ultimate GET Endpoint](https://dev.to/clickpesa/ultimate-get-endpoint-486b)
 - [Lifehacker] [Three Dirty Little Secrets of Amazon Prime Day](https://lifehacker.com/three-dirty-little-secrets-of-amazon-prime-day-1849169755)
@@ -37,9 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [React toastify](https://dev.to/shubhamtiwari909/react-toastify-ic7)
 - [Dev.to/JS] [Coding Challenge Sites](https://dev.to/glowreeyah/coding-challenge-sites-20ap)
 - [Dev.to/JS] [I built 3 Hackathon projects in 3 months, and won 1500$ in Prizes 🥳🎉](https://dev.to/madza/i-built-3-hackathon-projects-in-3-months-and-won-1500-in-prizes-34fa)
-- [Dev.to/JS] [The Subtly Different Results of Query Selectors](https://dev.to/angus_bowerbrown_96449f1/the-subtly-different-results-of-query-selectors-472b)
 - [Lifehacker] [18 of the Best &#39;Feel-Bad&#39; Movies Ever](https://lifehacker.com/18-of-the-best-feel-bad-movies-ever-1849152192)
-- [Dev.to/JS] [Practice Testing](https://dev.to/jesterxl/practice-testing-52n5)
 - [Lifehacker] [How Much Does It Really Cost to Live in an RV for a Year?](https://lifehacker.com/how-much-does-it-really-cost-to-live-in-an-rv-for-a-yea-1849168490)
 - [Lifehacker] [How to Unhide Your Wifi Password](https://lifehacker.com/how-to-unhide-your-wifi-password-1849151134)
 - [Lifehacker] [This Experimental Feature Stops Chrome From Hogging All Your RAM](https://lifehacker.com/this-experimental-feature-stops-chrome-from-hogging-all-1849166263)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Ford Cars Are Being Recalled Because They Might Burst Into Flames](https://lifehacker.com/these-ford-cars-are-being-recalled-because-they-might-b-1849163907)
 - [Lifehacker] [How to Install the iOS 16 and iPadOS 16 Betas](https://lifehacker.com/how-to-install-the-ios-16-and-ipados-16-betas-1849023051)
 - [Lifehacker] [Prime Day Is Best for Exactly One Type of Tech](https://lifehacker.com/prime-day-is-best-for-exactly-one-type-of-tech-1849164435)
-- [Lifehacker] [How to ‘Supercool’ Your Home &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-supercool-your-home-and-why-you-should-1849164074)
-- [Lifehacker] [How to See the First James Webb Telescope Images](https://lifehacker.com/how-to-see-the-first-james-webb-telescope-images-1849164081)
-- [Lifehacker] [Windows 11 Accessibility Features Everyone Can Use](https://lifehacker.com/windows-11-accessibility-features-everyone-can-use-1849163481)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
 
