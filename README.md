@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to configure a DFX project to use a React Frontend?](https://dev.to/hr21don/how-to-configure-a-dfx-project-to-use-a-react-frontend-1en2)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Dev.to/JS] [Build an uNFT marketplace with Next.js, Cosmic and Stripe integration](https://dev.to/naira_gezhoyan/build-an-unft-marketplace-with-nextjs-cosmic-and-stripe-integration-2c9f)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
@@ -44,7 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell a Good Assisted Living Facility From an Awful One](https://lifehacker.com/how-to-tell-a-good-assisted-living-facility-from-an-awf-1849169114)
 - [Lifehacker] [What to Do If a Nuclear Missile Hits Your City](https://lifehacker.com/what-to-do-if-a-nuclear-missile-hits-your-city-1849168965)
 - [Dev.to/JS] [Setup Module Federation in Angular using Nx](https://dev.to/nx/setup-module-federation-in-angular-using-nx-5gko)
-- [Dev.to/JS] [React toastify](https://dev.to/shubhamtiwari909/react-toastify-ic7)
 - [Lifehacker] [18 of the Best &#39;Feel-Bad&#39; Movies Ever](https://lifehacker.com/18-of-the-best-feel-bad-movies-ever-1849152192)
 - [Lifehacker] [How Much Does It Really Cost to Live in an RV for a Year?](https://lifehacker.com/how-much-does-it-really-cost-to-live-in-an-rv-for-a-yea-1849168490)
 - [Lifehacker] [How to Unhide Your Wifi Password](https://lifehacker.com/how-to-unhide-your-wifi-password-1849151134)
