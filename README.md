@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Are Your HTML5 Input Fields Cross Browser Compatible?](https://dev.to/lambdatest/are-your-html5-input-fields-cross-browser-compatible-1lnk)
+- [Dev.to/JS] [how to choose a coding course😇](https://dev.to/coditdoc/how-to-choose-a-coding-course-29fb)
+- [Dev.to/JS] [Calling all beginners - part II: Return Of The Arrays!](https://dev.to/joolsmcfly/calling-all-beginners-part-ii-return-of-the-arrays-1obd)
+- [Dev.to/JS] [dynamic loop for parameter combinations](https://dev.to/badrockk/dynamic-loop-for-parameter-combinations-2oi0)
+- [Dev.to/JS] [Web fundamentals and the importance of context](https://dev.to/sarahob/web-fundamentals-and-the-importance-of-context-3lnn)
 - [Dev.to/JS] [Titanium is alive and well!](https://dev.to/wraldpyk/titanium-is-alive-and-well-37li)
 - [Dev.to/JS] [React의 맥가이버, react-use, react-hookz!](https://dev.to/composite/reactyi-maeggaibeo-react-use-react-hookz-57hm)
 - [Dev.to/JS] [How can I remove a specific item from an array?](https://dev.to/vihanpamudya/how-can-i-remove-a-specific-item-from-an-array-4ijd)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cannabis CBD Gummies - Pain Relief Results, Uses, Reviews, Does It Work?](https://dev.to/cannabiscbdfact/cannabis-cbd-gummies-pain-relief-results-uses-reviews-does-it-work-3le)
 - [Dev.to/JS] [Getting Started with Express JS](https://dev.to/vamsitupakula_/getting-started-with-express-js-2705)
 - [Dev.to/JS] [Class Manager Django + React](https://dev.to/codingnetworks/class-manager-django-react-cf6)
-- [Dev.to/JS] [The listener function is not registered in the functional components](https://dev.to/venkatasrikanthkarri/the-listener-function-is-not-registered-in-the-functional-components-md)
-- [Dev.to/JS] [Creating a Nav bar in Reactjs](https://dev.to/talenttinaapi/creating-a-nav-bar-in-reactjs-256l)
-- [Dev.to/JS] [Lazy loading in react](https://dev.to/abhmohan/lazy-loading-in-react-dmn)
-- [Dev.to/JS] [React: Introduction to useReducer hook](https://dev.to/sanjosedennis/react-introduction-to-usereducer-hook-5461)
-- [Dev.to/JS] [Removing HTML tags in JavaScript using RegEx](https://dev.to/alvisonhunter/removing-html-tags-in-javascript-using-regex-9h3)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
