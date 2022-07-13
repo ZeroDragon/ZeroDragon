@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Reveal Priceline&#39;s Hidden Hotel Names With This Extension](https://lifehacker.com/reveal-pricelines-hidden-hotel-names-with-this-extensio-1849173602)
+- [Dev.to/JS] [Exodus Effect - Reviews, Results, Price And Benefits?](https://dev.to/exoduseffectfa1/exodus-effect-reviews-results-price-and-benefits-b6h)
+- [Lifehacker] [How to Take a Giant Pill Without Throwing Up](https://lifehacker.com/how-to-take-a-giant-pill-without-throwing-up-1849173801)
+- [Dev.to/JS] [Write a program to create a class count objects and calculate the number of objects that has been created in realtime.](https://dev.to/shiwani295/write-a-program-to-create-a-class-count-objects-and-calculate-the-number-of-objects-that-has-been-created-in-realtime-blj)
+- [Dev.to/JS] [Codewars Challenge Day2: Break camelCase](https://dev.to/qroia/codewars-challenge-day2-break-camelcase-4d3f)
 - [Lifehacker] [How to Paint Your Own Watercolor Accent Wall](https://lifehacker.com/how-to-paint-your-own-watercolor-accent-wall-1849172130)
 - [Dev.to/JS] [Mailspring/email client inverts colors in dark mode](https://dev.to/tdamer/mailspringemail-client-inverts-colors-in-dark-mode-1h4j)
 - [Dev.to/JS] [Developers Treasure Chest - Issue 1](https://dev.to/hasinhayder/developers-treasure-chest-p13)
@@ -39,12 +44,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Conway&#39;s Game Of Life](https://dev.to/prajyu/conways-game-of-life-26kp)
 - [Dev.to/JS] [[RANT] Why the hell does everything cool in JavaScript have to be locked behind needing server?](https://dev.to/baenencalin/rant-why-the-hell-does-everything-cool-javascript-related-have-to-be-locked-behind-needing-server-4ik3)
 - [Lifehacker] [Is It Ever OK to Walk Your Dog in a Cemetery?](https://lifehacker.com/is-it-ever-ok-to-walk-your-dog-in-a-cemetery-1849171034)
-- [Dev.to/JS] [Bun, the new Javascript runtime competing with Deno and Node](https://dev.to/codesphere/bun-the-new-javascript-runtime-competing-with-deno-and-node-115d)
-- [Dev.to/JS] [Roles and Responsibilities Within a Software Engineering Team](https://dev.to/michaelmangial1/roles-and-responsibilities-within-a-software-engineering-team-2agm)
 - [Lifehacker] [The 7 Deadly Sins of Job Searching](https://lifehacker.com/the-7-deadly-sins-of-job-searching-1849172124)
 - [Lifehacker] [How to Sound Less Stupid When You Talk About Gas Prices](https://lifehacker.com/how-to-sound-less-stupid-when-you-talk-about-gas-prices-1849171128)
 - [Lifehacker] [Why You Should &#39;Subtract&#39; From Your Parenting](https://lifehacker.com/why-you-should-subtract-from-your-parenting-1849168959)
-- [Dev.to/JS] [What the heck is State in React?](https://dev.to/cjreads665/what-the-heck-is-state-in-react-44c5)
 - [Lifehacker] [You Can Finally Edit and Undo Sent Messages on iPhone](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If a Nuclear Missile Hits Your City](https://lifehacker.com/what-to-do-if-a-nuclear-missile-hits-your-city-1849168965)
 - [Lifehacker] [18 of the Best &#39;Feel-Bad&#39; Movies Ever](https://lifehacker.com/18-of-the-best-feel-bad-movies-ever-1849152192)
 - [Lifehacker] [How Much Does It Really Cost to Live in an RV for a Year?](https://lifehacker.com/how-much-does-it-really-cost-to-live-in-an-rv-for-a-yea-1849168490)
-- [Lifehacker] [How to Unhide Your Wifi Password](https://lifehacker.com/how-to-unhide-your-wifi-password-1849151134)
-- [Lifehacker] [This Experimental Feature Stops Chrome From Hogging All Your RAM](https://lifehacker.com/this-experimental-feature-stops-chrome-from-hogging-all-1849166263)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
