@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My first portfolio](https://dev.to/santimenendez19/my-first-portfolio-2mdb)
+- [Dev.to/JS] [Expresiones Regulares](https://dev.to/luissalinassd/expresiones-regulares-205n)
+- [Dev.to/JS] [Ranking most-popular JavaScript frameworks for 2022](https://dev.to/richkurtzman/ranking-most-popular-javascript-frameworks-for-2022-4pnf)
+- [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
 - [Dev.to/JS] [LeetCode — Valid Parentheses](https://dev.to/anuj8126/leetcode-valid-parentheses-44a4)
 - [Lifehacker] [This Is How Much Water to Pack When You Go to the Beach](https://lifehacker.com/this-is-how-much-water-to-pack-when-you-go-to-the-beach-1849174476)
@@ -41,9 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Developers Treasure Chest - Issue 1](https://dev.to/hasinhayder/developers-treasure-chest-p13)
 - [Lifehacker] [How to Turn Your iPhone Into a Free High-Res Webcam](https://lifehacker.com/how-to-turn-your-iphone-into-a-free-high-res-webcam-1847639807)
 - [Lifehacker] [Make Candied Orange Peel the Quick Way](https://lifehacker.com/make-candied-orange-peel-the-quick-way-1849172834)
-- [Dev.to/JS] [Hello all dear Professor, I am new member. Nice too meet you all.](https://dev.to/jmakara/hello-all-dear-professor-i-am-new-member-nice-too-meet-you-all-454l)
-- [Dev.to/JS] [Still Remember IndexedDB?](https://dev.to/cyberstorm200712/still-remember-indexeddb-1ja4)
-- [Dev.to/JS] [How to Make a Charity Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-charity-website-using-html-css-javascript-5hh9)
 - [Lifehacker] [Why You Shouldn&#39;t Put Off Major Home Repairs &lpar;and How to Prioritize Them&rpar;](https://lifehacker.com/why-you-shouldnt-put-off-major-home-repairs-and-how-to-1849171504)
 - [Lifehacker] [How to Easily Copy and Paste Between Android and Windows With This App](https://lifehacker.com/how-to-easily-copy-and-paste-between-android-and-window-1849172351)
 - [Lifehacker] [What to Say After You Offend Someone &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-say-after-you-offend-someone-and-what-not-to-1849171000)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make a Fancy Breakfast From a Jar of Salsa](https://lifehacker.com/how-to-make-a-fancy-breakfast-from-a-jar-of-salsa-1849169930)
 - [Lifehacker] [What Is &#39;Manhattanhenge&#39; &lpar;and Does Your City Have Its Own -Henge&rpar;?](https://lifehacker.com/what-is-manhattanhenge-and-does-your-city-have-its-own-1849169762)
 - [Lifehacker] [Three Dirty Little Secrets of Amazon Prime Day](https://lifehacker.com/three-dirty-little-secrets-of-amazon-prime-day-1849169755)
-- [Lifehacker] [Everything We Know About Nothing’s ‘Phone 1’](https://lifehacker.com/everything-we-know-about-nothing-s-phone-1-1849168905)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
