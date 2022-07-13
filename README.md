@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Titanium is alive and well!](https://dev.to/wraldpyk/titanium-is-alive-and-well-37li)
+- [Dev.to/JS] [React의 맥가이버, react-use, react-hookz!](https://dev.to/composite/reactyi-maeggaibeo-react-use-react-hookz-57hm)
+- [Dev.to/JS] [How can I remove a specific item from an array?](https://dev.to/vihanpamudya/how-can-i-remove-a-specific-item-from-an-array-4ijd)
 - [Dev.to/JS] [I made a news feed dashboard like Instagram for React! Check it out!](https://dev.to/fredy/i-made-a-news-feed-dashboard-like-instagram-for-react-check-it-out-8l4)
 - [Dev.to/JS] [Cannabis CBD Gummies - Pain Relief Results, Uses, Reviews, Does It Work?](https://dev.to/cannabiscbdfact/cannabis-cbd-gummies-pain-relief-results-uses-reviews-does-it-work-3le)
 - [Dev.to/JS] [Getting Started with Express JS](https://dev.to/vamsitupakula_/getting-started-with-express-js-2705)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lazy loading in react](https://dev.to/abhmohan/lazy-loading-in-react-dmn)
 - [Dev.to/JS] [React: Introduction to useReducer hook](https://dev.to/sanjosedennis/react-introduction-to-usereducer-hook-5461)
 - [Dev.to/JS] [Removing HTML tags in JavaScript using RegEx](https://dev.to/alvisonhunter/removing-html-tags-in-javascript-using-regex-9h3)
-- [Dev.to/JS] [Variables:Code&#39;s Harmonizer](https://dev.to/adenaddis/variablescodes-harmonizer-5eo)
-- [Dev.to/JS] [How to open UPI Apps in React Native | UPI Integration with React Native](https://dev.to/suyashvash/how-to-open-upi-apps-in-react-native-upi-integration-with-react-native-1f5a)
-- [Dev.to/JS] [You may consider swicthing from express to aex in 2022](https://dev.to/610470416/you-may-consider-swicth-from-express-to-aex-in-2022-4kn)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
