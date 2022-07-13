@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Getting Started with Ruby - Beginner](https://dev.to/catevee/getting-started-with-ruby-beginner-f6l)
+- [Dev.to/JS] [Recursive Functions In JavaScript](https://dev.to/kalashin1/recursive-functions-in-javascript-b6a)
+- [Dev.to/JS] [Testing A Single Page Angular JS Applications](https://dev.to/lambdatest/testing-a-single-page-angular-js-applications-47bp)
 - [Dev.to/JS] [Are Your HTML5 Input Fields Cross Browser Compatible?](https://dev.to/lambdatest/are-your-html5-input-fields-cross-browser-compatible-1lnk)
+- [Dev.to/JS] [Firestore on Next.js SPA](https://dev.to/tanukiponkich/firestore-on-nextjs-spa-3f08)
 - [Dev.to/JS] [how to choose a coding course😇](https://dev.to/coditdoc/how-to-choose-a-coding-course-29fb)
 - [Dev.to/JS] [Calling all beginners - part II: Return Of The Arrays!](https://dev.to/joolsmcfly/calling-all-beginners-part-ii-return-of-the-arrays-1obd)
 - [Dev.to/JS] [dynamic loop for parameter combinations](https://dev.to/badrockk/dynamic-loop-for-parameter-combinations-2oi0)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Titanium is alive and well!](https://dev.to/wraldpyk/titanium-is-alive-and-well-37li)
 - [Dev.to/JS] [React의 맥가이버, react-use, react-hookz!](https://dev.to/composite/reactyi-maeggaibeo-react-use-react-hookz-57hm)
 - [Dev.to/JS] [How can I remove a specific item from an array?](https://dev.to/vihanpamudya/how-can-i-remove-a-specific-item-from-an-array-4ijd)
-- [Dev.to/JS] [I made a news feed dashboard like Instagram for React! Check it out!](https://dev.to/fredy/i-made-a-news-feed-dashboard-like-instagram-for-react-check-it-out-8l4)
-- [Dev.to/JS] [Cannabis CBD Gummies - Pain Relief Results, Uses, Reviews, Does It Work?](https://dev.to/cannabiscbdfact/cannabis-cbd-gummies-pain-relief-results-uses-reviews-does-it-work-3le)
-- [Dev.to/JS] [Getting Started with Express JS](https://dev.to/vamsitupakula_/getting-started-with-express-js-2705)
-- [Dev.to/JS] [Class Manager Django + React](https://dev.to/codingnetworks/class-manager-django-react-cf6)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
