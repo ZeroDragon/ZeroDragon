@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Need help with The Odin&#39;s Project, Rock Paper Scissors assignment ️](https://dev.to/taepal467/need-help-with-the-odins-project-rock-paper-scissors-assignment-19ie)
+- [Dev.to/JS] [What Dah Function?](https://dev.to/amira_demoya_2fbe3d1fa55/what-dah-function-1h5j)
 - [Dev.to/JS] [Free &amp; Discount Online Courses | July 12th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-5hb6)
 - [Dev.to/JS] [Basic Array Methods](https://dev.to/millsy64/basic-array-methods-2d97)
 - [Dev.to/JS] [An SSR Framework in 37 Lines of Code](https://dev.to/hawkticehurst/an-ssr-framework-in-37-lines-of-code-1f7m)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code Smell 148 - ToDos](https://dev.to/mcsee/code-smell-148-todos-5gn9)
 - [Dev.to/JS] [JavaScript - Comentários](https://dev.to/h4ck3rtr4d3r/javascript-comentarios-51dm)
 - [Dev.to/JS] [Data Structures: Stacks and Queues](https://dev.to/seantansey/data-structures-stacks-and-queues-90n)
-- [Dev.to/JS] [React router having an issue with correctly routing to component](https://dev.to/willfeldman/react-router-having-an-issue-with-correctly-routing-to-component-fm1)
-- [Dev.to/JS] [freash look of ‘BUN’](https://dev.to/isaacxu18/a-5g67)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
