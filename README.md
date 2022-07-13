@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Bun, the new Javascript runtime competing with Deno and Node](https://dev.to/codesphere/bun-the-new-javascript-runtime-competing-with-deno-and-node-115d)
+- [Dev.to/JS] [Roles and Responsibilities Within a Software Engineering Team](https://dev.to/michaelmangial1/roles-and-responsibilities-within-a-software-engineering-team-2agm)
+- [Lifehacker] [The 7 Deadly Sins of Job Searching](https://lifehacker.com/the-7-deadly-sins-of-job-searching-1849172124)
 - [Lifehacker] [How to Sound Less Stupid When You Talk About Gas Prices](https://lifehacker.com/how-to-sound-less-stupid-when-you-talk-about-gas-prices-1849171128)
 - [Lifehacker] [Why You Should &#39;Subtract&#39; From Your Parenting](https://lifehacker.com/why-you-should-subtract-from-your-parenting-1849168959)
 - [Dev.to/JS] [What the heck is State in React?](https://dev.to/cjreads665/what-the-heck-is-state-in-react-44c5)
@@ -36,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Async Javascript &amp; how it works👩‍💻](https://dev.to/aishanipach/async-javascript-how-it-works-16fp)
 - [Dev.to/JS] [A Step-by-Step Guide to Building a Simple Ethereum Bot](https://dev.to/alex_bobes/making-an-ethereum-bot-a-step-by-step-guide-3ol4)
 - [Dev.to/JS] [How To Watermark Videos With Node.js &amp; Shotstack API](https://dev.to/shotstack/how-to-watermark-videos-with-nodejs-1pmi)
-- [Dev.to/JS] [Make Snake with vanilla JavaScript](https://dev.to/ritzaco/make-snake-with-vanilla-javascript-2h2f)
-- [Dev.to/JS] [Getting Started with Ruby - Beginner](https://dev.to/catevee/getting-started-with-ruby-beginner-f6l)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why Pistol Squats Are So Hard &lpar;and How to Do Them Anyway&rpar;](https://lifehacker.com/why-pistol-squats-are-so-hard-and-how-to-do-them-anywa-1849166330)
 - [Lifehacker] [How to Tell If a Prime Day Deal Is Really Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
 - [Lifehacker] [Never Pay Extra to Sit Next to Your Child on an Airplane](https://lifehacker.com/never-pay-extra-to-sit-next-to-your-child-on-an-airplan-1849165865)
-- [Lifehacker] [These COVID &#39;Facts&#39; Are No Longer True](https://lifehacker.com/these-covid-facts-are-no-longer-true-1849165352)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
 
