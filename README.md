@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [First day](https://dev.to/bryant0521/first-day-9j0)
+- [Dev.to/JS] [JavaScript: Event Listeners made easy](https://dev.to/victorhaynes/javascript-event-listeners-made-easy-663)
+- [Dev.to/JS] [Console.log&lpar;&rpar; is Your BestFriend!](https://dev.to/drc7/consolelog-is-your-bestfriend-egj)
 - [Dev.to/JS] [Const , Let or Var which should you use??](https://dev.to/rvillar/const-let-or-var-which-should-you-use-45f2)
 - [Dev.to/JS] [Code Smell 148 - ToDos](https://dev.to/mcsee/code-smell-148-todos-5gn9)
 - [Dev.to/JS] [JavaScript - Comentários](https://dev.to/h4ck3rtr4d3r/javascript-comentarios-51dm)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scope Matters](https://dev.to/aiodell/scope-matters-2g71)
 - [Dev.to/JS] [Custom ESM loaders: Who, what, when, where, why, how](https://dev.to/jakobjingleheimer/custom-esm-loaders-who-what-when-where-why-how-4i1o)
 - [Dev.to/JS] [Build a real-time document contribution list in NextJS](https://dev.to/hackmamba/build-a-real-time-document-contribution-list-in-nextjs-1k93)
-- [Dev.to/JS] [Periodic table code golf](https://dev.to/edulan/periodic-table-challenge-4i63)
-- [Dev.to/JS] [How to configure a DFX project to use a React Frontend?](https://dev.to/hr21don/how-to-configure-a-dfx-project-to-use-a-react-frontend-1en2)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
-- [Dev.to/JS] [Build an uNFT marketplace with Next.js, Cosmic and Stripe integration](https://dev.to/naira_gezhoyan/build-an-unft-marketplace-with-nextjs-cosmic-and-stripe-integration-2c9f)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
 - [Lifehacker] [How Bad Is the BA.5 COVID Variant, Really?](https://lifehacker.com/how-bad-is-the-ba-5-covid-variant-really-1849170170)
