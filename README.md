@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Free &amp; Discount Online Courses | July 12th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-5hb6)
+- [Dev.to/JS] [Basic Array Methods](https://dev.to/millsy64/basic-array-methods-2d97)
+- [Dev.to/JS] [An SSR Framework in 37 Lines of Code](https://dev.to/hawkticehurst/an-ssr-framework-in-37-lines-of-code-1f7m)
 - [Dev.to/JS] [First day](https://dev.to/bryant0521/first-day-9j0)
 - [Dev.to/JS] [JavaScript: Event Listeners made easy](https://dev.to/victorhaynes/javascript-event-listeners-made-easy-663)
 - [Dev.to/JS] [Console.log&lpar;&rpar; is Your BestFriend!](https://dev.to/drc7/consolelog-is-your-bestfriend-egj)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Data Structures: Stacks and Queues](https://dev.to/seantansey/data-structures-stacks-and-queues-90n)
 - [Dev.to/JS] [React router having an issue with correctly routing to component](https://dev.to/willfeldman/react-router-having-an-issue-with-correctly-routing-to-component-fm1)
 - [Dev.to/JS] [freash look of ‘BUN’](https://dev.to/isaacxu18/a-5g67)
-- [Dev.to/JS] [Scope Matters](https://dev.to/aiodell/scope-matters-2g71)
-- [Dev.to/JS] [Custom ESM loaders: Who, what, when, where, why, how](https://dev.to/jakobjingleheimer/custom-esm-loaders-who-what-when-where-why-how-4i1o)
-- [Dev.to/JS] [Build a real-time document contribution list in NextJS](https://dev.to/hackmamba/build-a-real-time-document-contribution-list-in-nextjs-1k93)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
