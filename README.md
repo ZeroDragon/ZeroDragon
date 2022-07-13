@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
+- [Dev.to/JS] [LeetCode — Valid Parentheses](https://dev.to/anuj8126/leetcode-valid-parentheses-44a4)
+- [Lifehacker] [This Is How Much Water to Pack When You Go to the Beach](https://lifehacker.com/this-is-how-much-water-to-pack-when-you-go-to-the-beach-1849174476)
+- [Dev.to/JS] [Magic Button 🧙‍♂️](https://dev.to/eitanwaxman/magic-button-44ph)
 - [Lifehacker] [This Is the Best Butter for Browning](https://lifehacker.com/this-is-the-best-butter-for-browning-1849174807)
 - [Dev.to/JS] [A new engineering newsletter](https://dev.to/thedailyeng/a-new-engineering-newsletter-5eo)
 - [Lifehacker] [13 of the Most Perplexing Exercise &#39;Cues&#39; and What They Really Mean](https://lifehacker.com/13-of-the-most-perplexing-exercise-cues-and-what-they-r-1849170702)
@@ -41,9 +45,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Still Remember IndexedDB?](https://dev.to/cyberstorm200712/still-remember-indexeddb-1ja4)
 - [Dev.to/JS] [How to Make a Charity Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-charity-website-using-html-css-javascript-5hh9)
 - [Lifehacker] [Why You Shouldn&#39;t Put Off Major Home Repairs &lpar;and How to Prioritize Them&rpar;](https://lifehacker.com/why-you-shouldnt-put-off-major-home-repairs-and-how-to-1849171504)
-- [Dev.to/JS] [How to make a Splash Screen using HTML CSS and JavaScript](https://dev.to/saikatbishal/how-to-make-a-splash-screen-using-html-css-and-javascript-240m)
 - [Lifehacker] [How to Easily Copy and Paste Between Android and Windows With This App](https://lifehacker.com/how-to-easily-copy-and-paste-between-android-and-window-1849172351)
-- [Dev.to/JS] [5 Reasons to Use Next.js](https://dev.to/omerwow/5-reasons-to-use-nextjs-1nkn)
 - [Lifehacker] [What to Say After You Offend Someone &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-say-after-you-offend-someone-and-what-not-to-1849171000)
 - [Lifehacker] [Is It Ever OK to Walk Your Dog in a Cemetery?](https://lifehacker.com/is-it-ever-ok-to-walk-your-dog-in-a-cemetery-1849171034)
 - [Lifehacker] [The 7 Deadly Sins of Job Searching](https://lifehacker.com/the-7-deadly-sins-of-job-searching-1849172124)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is &#39;Manhattanhenge&#39; &lpar;and Does Your City Have Its Own -Henge&rpar;?](https://lifehacker.com/what-is-manhattanhenge-and-does-your-city-have-its-own-1849169762)
 - [Lifehacker] [Three Dirty Little Secrets of Amazon Prime Day](https://lifehacker.com/three-dirty-little-secrets-of-amazon-prime-day-1849169755)
 - [Lifehacker] [Everything We Know About Nothing’s ‘Phone 1’](https://lifehacker.com/everything-we-know-about-nothing-s-phone-1-1849168905)
-- [Lifehacker] [How to Tell a Good Assisted Living Facility From an Awful One](https://lifehacker.com/how-to-tell-a-good-assisted-living-facility-from-an-awf-1849169114)
-- [Lifehacker] [What to Do If a Nuclear Missile Hits Your City](https://lifehacker.com/what-to-do-if-a-nuclear-missile-hits-your-city-1849168965)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
