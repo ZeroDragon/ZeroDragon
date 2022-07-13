@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Make Candied Orange Peel the Quick Way](https://lifehacker.com/make-candied-orange-peel-the-quick-way-1849172834)
+- [Dev.to/JS] [Hello all dear Professor, I am new member. Nice too meet you all.](https://dev.to/jmakara/hello-all-dear-professor-i-am-new-member-nice-too-meet-you-all-454l)
+- [Dev.to/JS] [Still Remember IndexedDB?](https://dev.to/cyberstorm200712/still-remember-indexeddb-1ja4)
+- [Dev.to/JS] [How to Make a Charity Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-charity-website-using-html-css-javascript-5hh9)
+- [Lifehacker] [Why You Shouldn&#39;t Put Off Major Home Repairs &lpar;and How to Prioritize Them&rpar;](https://lifehacker.com/why-you-shouldnt-put-off-major-home-repairs-and-how-to-1849171504)
+- [Dev.to/JS] [How to make a Splash Screen using HTML CSS and JavaScript](https://dev.to/saikatbishal/how-to-make-a-splash-screen-using-html-css-and-javascript-240m)
 - [Lifehacker] [How to Easily Copy and Paste Between Android and Windows With This App](https://lifehacker.com/how-to-easily-copy-and-paste-between-android-and-window-1849172351)
 - [Dev.to/JS] [5 Reasons to Use Next.js](https://dev.to/omerwow/5-reasons-to-use-nextjs-1nkn)
 - [Lifehacker] [What to Say After You Offend Someone &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-say-after-you-offend-someone-and-what-not-to-1849171000)
@@ -38,10 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Edit and Undo Sent Messages on iPhone](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
 - [Dev.to/JS] [ESLint Warnings Are an Anti-Pattern](https://dev.to/thawkin3/eslint-warnings-are-an-anti-pattern-33np)
 - [Dev.to/JS] [Add vector emojis to your websites](https://dev.to/alohe/add-vector-emojis-to-your-websites-3i6f)
-- [Dev.to/JS] [I made some algorithms that generate ambient focus music for you in real-time. Perfect for programming!](https://dev.to/drewclicks/i-made-some-algorithms-that-generate-ambient-focus-music-for-you-in-real-time-perfect-for-programming-3a4h)
-- [Dev.to/JS] [Create a class name with variable and Use Constructors to Assign the value creating an object of the class Student.](https://dev.to/shiwani295/create-a-class-name-with-variable-and-use-constructors-to-assign-the-value-creating-an-object-of-the-class-student-4d26)
-- [Dev.to/JS] [✨Top premium courses to learn React.js](https://dev.to/prateek951/top-premium-courses-to-learn-reactjs-343i)
-- [Dev.to/JS] [Polyfills and Transpilers in JavaScript.](https://dev.to/aamchora/polyfills-and-transpilres-in-javascript-4ic2)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Experimental Feature Stops Chrome From Hogging All Your RAM](https://lifehacker.com/this-experimental-feature-stops-chrome-from-hogging-all-1849166263)
 - [Lifehacker] [How to Turn Your Garden Hose Into a Pressure Washer](https://lifehacker.com/how-to-turn-your-garden-hose-into-a-pressure-washer-1849165239)
 - [Lifehacker] [When to Choose Frequent Flyer Miles Over Rewards Points](https://lifehacker.com/when-to-choose-frequent-flyer-miles-over-rewards-points-1849163378)
-- [Lifehacker] [Eat a Bit of Your Party Spread Before Your Guests Arrive](https://lifehacker.com/eat-a-bit-of-your-party-spread-before-your-guests-arriv-1849164309)
-- [Lifehacker] [Easy Ways to Decorate a Cake When You Suck at Decorating](https://lifehacker.com/easy-ways-to-decorate-a-cake-when-you-suck-at-decoratin-1849158643)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
