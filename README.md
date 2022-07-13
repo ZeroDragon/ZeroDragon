@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What the heck is State in React?](https://dev.to/cjontweet/what-the-heck-is-state-in-react-44c5)
+- [Lifehacker] [You Can Finally Edit and Undo Sent Messages on iPhone](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
+- [Dev.to/JS] [ESLint Warnings Are an Anti-Pattern](https://dev.to/thawkin3/eslint-warnings-are-an-anti-pattern-33np)
+- [Dev.to/JS] [Add vector emojis to your websites](https://dev.to/alohe/add-vector-emojis-to-your-websites-3i6f)
+- [Dev.to/JS] [I made some algorithms that generate ambient focus music for you in real-time. Perfect for programming!](https://dev.to/drewclicks/i-made-some-algorithms-that-generate-ambient-focus-music-for-you-in-real-time-perfect-for-programming-3a4h)
 - [Dev.to/JS] [Create a class name with variable and Use Constructors to Assign the value creating an object of the class Student.](https://dev.to/shiwani295/create-a-class-name-with-variable-and-use-constructors-to-assign-the-value-creating-an-object-of-the-class-student-4d26)
 - [Dev.to/JS] [✨Top premium courses to learn React.js](https://dev.to/prateek951/top-premium-courses-to-learn-reactjs-343i)
-- [Dev.to/JS] [Polyfills and transpilres in JavaScript.](https://dev.to/aamchora/polyfills-and-transpilres-in-javascript-4ic2)
+- [Dev.to/JS] [Polyfills and Transpilers in JavaScript.](https://dev.to/aamchora/polyfills-and-transpilres-in-javascript-4ic2)
 - [Dev.to/JS] [Async Javascript &amp; how it works👩‍💻](https://dev.to/aishanipach/async-javascript-how-it-works-16fp)
 - [Dev.to/JS] [A Step-by-Step Guide to Building a Simple Ethereum Bot](https://dev.to/alex_bobes/making-an-ethereum-bot-a-step-by-step-guide-3ol4)
 - [Dev.to/JS] [How To Watermark Videos With Node.js &amp; Shotstack API](https://dev.to/shotstack/how-to-watermark-videos-with-nodejs-1pmi)
 - [Dev.to/JS] [Make Snake with vanilla JavaScript](https://dev.to/ritzaco/make-snake-with-vanilla-javascript-2h2f)
 - [Dev.to/JS] [Getting Started with Ruby - Beginner](https://dev.to/catevee/getting-started-with-ruby-beginner-f6l)
-- [Dev.to/JS] [Recursive Functions In JavaScript](https://dev.to/kalashin1/recursive-functions-in-javascript-b6a)
-- [Dev.to/JS] [Testing A Single Page Angular JS Applications](https://dev.to/lambdatest/testing-a-single-page-angular-js-applications-47bp)
-- [Dev.to/JS] [Are Your HTML5 Input Fields Cross Browser Compatible?](https://dev.to/lambdatest/are-your-html5-input-fields-cross-browser-compatible-1lnk)
-- [Dev.to/JS] [Firestore on Next.js SPA](https://dev.to/tanukiponkich/firestore-on-nextjs-spa-3f08)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These COVID &#39;Facts&#39; Are No Longer True](https://lifehacker.com/these-covid-facts-are-no-longer-true-1849165352)
 - [Lifehacker] [10 of the Most Instagrammable Selfie Locations](https://lifehacker.com/10-of-the-most-instagrammable-selfie-locations-1849165693)
 - [Lifehacker] [Five of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/five-of-the-best-movies-based-on-mythology-and-folklore-1849165515)
-- [Lifehacker] [The Ultimate Guide to Catching a Baseball at an MLB Game](https://lifehacker.com/the-ultimate-guide-to-catching-a-baseball-at-an-mlb-gam-1849164821)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
 
