@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [This Is the Best Butter for Browning](https://lifehacker.com/this-is-the-best-butter-for-browning-1849174807)
+- [Dev.to/JS] [A new engineering newsletter](https://dev.to/thedailyeng/a-new-engineering-newsletter-5eo)
+- [Lifehacker] [13 of the Most Perplexing Exercise &#39;Cues&#39; and What They Really Mean](https://lifehacker.com/13-of-the-most-perplexing-exercise-cues-and-what-they-r-1849170702)
+- [Dev.to/JS] [Paracetamol.js💊| #166: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-166-explica-este-codigo-javascript-5016)
 - [Lifehacker] [Reveal Priceline&#39;s Hidden Hotel Names With This Extension](https://lifehacker.com/reveal-pricelines-hidden-hotel-names-with-this-extensio-1849173602)
 - [Dev.to/JS] [Exodus Effect - Reviews, Results, Price And Benefits?](https://dev.to/exoduseffectfa1/exodus-effect-reviews-results-price-and-benefits-b6h)
 - [Lifehacker] [How to Take a Giant Pill Without Throwing Up](https://lifehacker.com/how-to-take-a-giant-pill-without-throwing-up-1849173801)
@@ -41,8 +45,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Easily Copy and Paste Between Android and Windows With This App](https://lifehacker.com/how-to-easily-copy-and-paste-between-android-and-window-1849172351)
 - [Dev.to/JS] [5 Reasons to Use Next.js](https://dev.to/omerwow/5-reasons-to-use-nextjs-1nkn)
 - [Lifehacker] [What to Say After You Offend Someone &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-say-after-you-offend-someone-and-what-not-to-1849171000)
-- [Dev.to/JS] [Conway&#39;s Game Of Life](https://dev.to/prajyu/conways-game-of-life-26kp)
-- [Dev.to/JS] [[RANT] Why the hell does everything cool in JavaScript have to be locked behind needing server?](https://dev.to/baenencalin/rant-why-the-hell-does-everything-cool-javascript-related-have-to-be-locked-behind-needing-server-4ik3)
 - [Lifehacker] [Is It Ever OK to Walk Your Dog in a Cemetery?](https://lifehacker.com/is-it-ever-ok-to-walk-your-dog-in-a-cemetery-1849171034)
 - [Lifehacker] [The 7 Deadly Sins of Job Searching](https://lifehacker.com/the-7-deadly-sins-of-job-searching-1849172124)
 - [Lifehacker] [How to Sound Less Stupid When You Talk About Gas Prices](https://lifehacker.com/how-to-sound-less-stupid-when-you-talk-about-gas-prices-1849171128)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Everything We Know About Nothing’s ‘Phone 1’](https://lifehacker.com/everything-we-know-about-nothing-s-phone-1-1849168905)
 - [Lifehacker] [How to Tell a Good Assisted Living Facility From an Awful One](https://lifehacker.com/how-to-tell-a-good-assisted-living-facility-from-an-awf-1849169114)
 - [Lifehacker] [What to Do If a Nuclear Missile Hits Your City](https://lifehacker.com/what-to-do-if-a-nuclear-missile-hits-your-city-1849168965)
-- [Lifehacker] [18 of the Best &#39;Feel-Bad&#39; Movies Ever](https://lifehacker.com/18-of-the-best-feel-bad-movies-ever-1849152192)
-- [Lifehacker] [How Much Does It Really Cost to Live in an RV for a Year?](https://lifehacker.com/how-much-does-it-really-cost-to-live-in-an-rv-for-a-yea-1849168490)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
