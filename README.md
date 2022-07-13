@@ -23,7 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [What the heck is State in React?](https://dev.to/cjontweet/what-the-heck-is-state-in-react-44c5)
+- [Lifehacker] [How to Sound Less Stupid When You Talk About Gas Prices](https://lifehacker.com/how-to-sound-less-stupid-when-you-talk-about-gas-prices-1849171128)
+- [Lifehacker] [Why You Should &#39;Subtract&#39; From Your Parenting](https://lifehacker.com/why-you-should-subtract-from-your-parenting-1849168959)
+- [Dev.to/JS] [What the heck is State in React?](https://dev.to/cjreads665/what-the-heck-is-state-in-react-44c5)
 - [Lifehacker] [You Can Finally Edit and Undo Sent Messages on iPhone](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
 - [Dev.to/JS] [ESLint Warnings Are an Anti-Pattern](https://dev.to/thawkin3/eslint-warnings-are-an-anti-pattern-33np)
 - [Dev.to/JS] [Add vector emojis to your websites](https://dev.to/alohe/add-vector-emojis-to-your-websites-3i6f)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If a Prime Day Deal Is Really Just Hype](https://lifehacker.com/how-to-tell-if-a-prime-day-deal-is-really-just-hype-1849165522)
 - [Lifehacker] [Never Pay Extra to Sit Next to Your Child on an Airplane](https://lifehacker.com/never-pay-extra-to-sit-next-to-your-child-on-an-airplan-1849165865)
 - [Lifehacker] [These COVID &#39;Facts&#39; Are No Longer True](https://lifehacker.com/these-covid-facts-are-no-longer-true-1849165352)
-- [Lifehacker] [10 of the Most Instagrammable Selfie Locations](https://lifehacker.com/10-of-the-most-instagrammable-selfie-locations-1849165693)
-- [Lifehacker] [Five of the Best Movies Based on Mythology and Folklore](https://lifehacker.com/five-of-the-best-movies-based-on-mythology-and-folklore-1849165515)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
 
