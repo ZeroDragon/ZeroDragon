@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Q2. Explain what a callback function is and provide a simple example.](https://dev.to/saiarlen/q2-explain-what-a-callback-function-is-and-provide-a-simple-example-gcf)
+- [Dev.to/JS] [Q1. How would you check if a number is an integer?](https://dev.to/saiarlen/q1-how-would-you-check-if-a-number-is-an-integer-4n73)
+- [Dev.to/JS] [Creating Weather App using Weather API and Node Js : Part Two](https://dev.to/adolphtech/creating-weather-app-using-weather-api-and-node-js-part-two-edo)
+- [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 - [Dev.to/JS] [My first portfolio](https://dev.to/santimenendez19/my-first-portfolio-2mdb)
 - [Dev.to/JS] [Expresiones Regulares](https://dev.to/luissalinassd/expresiones-regulares-205n)
 - [Dev.to/JS] [Ranking most-popular JavaScript frameworks for 2022](https://dev.to/richkurtzman/ranking-most-popular-javascript-frameworks-for-2022-4pnf)
@@ -39,10 +43,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exodus Effect - Reviews, Results, Price And Benefits?](https://dev.to/exoduseffectfa1/exodus-effect-reviews-results-price-and-benefits-b6h)
 - [Lifehacker] [How to Take a Giant Pill Without Throwing Up](https://lifehacker.com/how-to-take-a-giant-pill-without-throwing-up-1849173801)
 - [Dev.to/JS] [Write a program to create a class count objects and calculate the number of objects that has been created in realtime.](https://dev.to/shiwani295/write-a-program-to-create-a-class-count-objects-and-calculate-the-number-of-objects-that-has-been-created-in-realtime-blj)
-- [Dev.to/JS] [Codewars Challenge Day2: Break camelCase](https://dev.to/qroia/codewars-challenge-day2-break-camelcase-4d3f)
 - [Lifehacker] [How to Paint Your Own Watercolor Accent Wall](https://lifehacker.com/how-to-paint-your-own-watercolor-accent-wall-1849172130)
-- [Dev.to/JS] [Mailspring/email client inverts colors in dark mode](https://dev.to/tdamer/mailspringemail-client-inverts-colors-in-dark-mode-1h4j)
-- [Dev.to/JS] [Developers Treasure Chest - Issue 1](https://dev.to/hasinhayder/developers-treasure-chest-p13)
 - [Lifehacker] [How to Turn Your iPhone Into a Free High-Res Webcam](https://lifehacker.com/how-to-turn-your-iphone-into-a-free-high-res-webcam-1847639807)
 - [Lifehacker] [Make Candied Orange Peel the Quick Way](https://lifehacker.com/make-candied-orange-peel-the-quick-way-1849172834)
 - [Lifehacker] [Why You Shouldn&#39;t Put Off Major Home Repairs &lpar;and How to Prioritize Them&rpar;](https://lifehacker.com/why-you-shouldnt-put-off-major-home-repairs-and-how-to-1849171504)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Bad Is the BA.5 COVID Variant, Really?](https://lifehacker.com/how-bad-is-the-ba-5-covid-variant-really-1849170170)
 - [Lifehacker] [How to Make a Fancy Breakfast From a Jar of Salsa](https://lifehacker.com/how-to-make-a-fancy-breakfast-from-a-jar-of-salsa-1849169930)
 - [Lifehacker] [What Is &#39;Manhattanhenge&#39; &lpar;and Does Your City Have Its Own -Henge&rpar;?](https://lifehacker.com/what-is-manhattanhenge-and-does-your-city-have-its-own-1849169762)
-- [Lifehacker] [Three Dirty Little Secrets of Amazon Prime Day](https://lifehacker.com/three-dirty-little-secrets-of-amazon-prime-day-1849169755)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
