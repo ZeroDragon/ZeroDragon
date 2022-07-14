@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [True or False? Using variables outside functions](https://dev.to/kmyrrpen/true-or-false-using-variables-outside-functions-4a4n)
+- [Dev.to/JS] [How To Turn Images Into Interactive Slideshow Videos With Node.js &amp; Shotstack API](https://dev.to/kushal_70/how-to-turn-images-into-interactive-slideshow-videos-with-nodejs-shotstack-api-3ggo)
+- [Dev.to/JS] [What is your best IDE?](https://dev.to/cryptohive/what-is-your-best-ide-3iko)
+- [Dev.to/JS] [parseInt&lpar;&rpar; For Beginners](https://dev.to/yarixar/parseint-for-beginners-4p79)
 - [Dev.to/JS] [Which social media platform you like most as a Developer ?](https://dev.to/heydrdev/which-social-media-platform-you-like-most-as-a-developer--2cd9)
 - [Dev.to/JS] [Today i found out : optional typescript function props](https://dev.to/tigawanna/today-i-found-out-optional-typescript-function-props-48h6)
 - [Dev.to/JS] [Semver: The unknown buildMetadata](https://dev.to/ayc0/semver-the-unknown-parts-271)
@@ -32,12 +36,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Q1. How would you check if a number is an integer?](https://dev.to/saiarlen/q1-how-would-you-check-if-a-number-is-an-integer-4n73)
 - [Dev.to/JS] [Creating Weather App using Weather API and Node Js : Part Two](https://dev.to/adolphtech/creating-weather-app-using-weather-api-and-node-js-part-two-edo)
 - [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
-- [Dev.to/JS] [My first portfolio](https://dev.to/santimenendez19/my-first-portfolio-2mdb)
-- [Dev.to/JS] [Expresiones Regulares](https://dev.to/luissalinassd/expresiones-regulares-205n)
-- [Dev.to/JS] [Ranking most-popular JavaScript frameworks for 2022](https://dev.to/richkurtzman/ranking-most-popular-javascript-frameworks-for-2022-4pnf)
 - [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
-- [Dev.to/JS] [LeetCode — Valid Parentheses](https://dev.to/anuj8126/leetcode-valid-parentheses-44a4)
 - [Lifehacker] [This Is How Much Water to Pack When You Go to the Beach](https://lifehacker.com/this-is-how-much-water-to-pack-when-you-go-to-the-beach-1849174476)
 - [Lifehacker] [This Is the Best Butter for Browning](https://lifehacker.com/this-is-the-best-butter-for-browning-1849174807)
 - [Lifehacker] [13 of the Most Perplexing Exercise &#39;Cues&#39; and What They Really Mean](https://lifehacker.com/13-of-the-most-perplexing-exercise-cues-and-what-they-r-1849170702)
