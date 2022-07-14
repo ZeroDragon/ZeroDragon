@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why you should use GitHub](https://dev.to/qorncat/why-you-should-use-github-3pm4)
 - [Dev.to/JS] [Q3. What are the different types of Error Name values in JavaScript?](https://dev.to/saiarlen/q3-what-are-the-different-types-of-error-name-values-in-javascript-3kdd)
 - [Dev.to/JS] [Q2. Explain what a callback function is and provide a simple example.](https://dev.to/saiarlen/q2-explain-what-a-callback-function-is-and-provide-a-simple-example-gcf)
 - [Dev.to/JS] [Q1. How would you check if a number is an integer?](https://dev.to/saiarlen/q1-how-would-you-check-if-a-number-is-an-integer-4n73)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [13 of the Most Perplexing Exercise &#39;Cues&#39; and What They Really Mean](https://lifehacker.com/13-of-the-most-perplexing-exercise-cues-and-what-they-r-1849170702)
 - [Dev.to/JS] [Paracetamol.js💊| #166: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-166-explica-este-codigo-javascript-5016)
 - [Lifehacker] [Reveal Priceline&#39;s Hidden Hotel Names With This Extension](https://lifehacker.com/reveal-pricelines-hidden-hotel-names-with-this-extensio-1849173602)
-- [Dev.to/JS] [Exodus Effect - Reviews, Results, Price And Benefits?](https://dev.to/exoduseffectfa1/exodus-effect-reviews-results-price-and-benefits-b6h)
 - [Lifehacker] [How to Take a Giant Pill Without Throwing Up](https://lifehacker.com/how-to-take-a-giant-pill-without-throwing-up-1849173801)
 - [Lifehacker] [How to Paint Your Own Watercolor Accent Wall](https://lifehacker.com/how-to-paint-your-own-watercolor-accent-wall-1849172130)
 - [Lifehacker] [How to Turn Your iPhone Into a Free High-Res Webcam](https://lifehacker.com/how-to-turn-your-iphone-into-a-free-high-res-webcam-1847639807)
