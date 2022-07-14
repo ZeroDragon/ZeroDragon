@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Install React in Laravel 9 with Vite](https://dev.to/sureshramani/how-to-install-react-in-laravel-9-with-vite-54i8)
+- [Dev.to/JS] [CSS Tutorial 3](https://dev.to/fullstackhacker/css-tutorial-3-3628)
 - [Dev.to/JS] [CSS Tutorial 2](https://dev.to/fullstackhacker/css-tutorial-2-29gh)
 - [Dev.to/JS] [Front End Interview Question](https://dev.to/lucvankerkvoort/front-end-interview-question-5392)
 - [Dev.to/JS] [CSS Tutorial 1](https://dev.to/fullstackhacker/css-tutorial-1e5n)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which social media platform you like most as a Developer ?](https://dev.to/heydrdev/which-social-media-platform-you-like-most-as-a-developer--2cd9)
 - [Dev.to/JS] [Today i found out : optional typescript function props](https://dev.to/tigawanna/today-i-found-out-optional-typescript-function-props-48h6)
 - [Dev.to/JS] [Semver: The unknown buildMetadata](https://dev.to/ayc0/semver-the-unknown-parts-271)
-- [Dev.to/JS] [Why you should use GitHub](https://dev.to/qorncat/why-you-should-use-github-3pm4)
-- [Dev.to/JS] [Q3. What are the different types of Error Name values in JavaScript?](https://dev.to/saiarlen/q3-what-are-the-different-types-of-error-name-values-in-javascript-3kdd)
 - [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 - [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
