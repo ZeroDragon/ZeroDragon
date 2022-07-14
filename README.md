@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
 - [Dev.to/JS] [Testes com Jest - Primeiros passos](https://dev.to/andersonmalheiro/testes-com-jest-primeiros-passos-1l7p)
 - [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
 - [Dev.to/JS] [The browser console has a count method](https://dev.to/codepo8/the-browser-console-has-a-count-method-5cj7)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is How Much Water to Pack When You Go to the Beach](https://lifehacker.com/this-is-how-much-water-to-pack-when-you-go-to-the-beach-1849174476)
 - [Lifehacker] [This Is the Best Butter for Browning](https://lifehacker.com/this-is-the-best-butter-for-browning-1849174807)
 - [Lifehacker] [13 of the Most Perplexing Exercise &#39;Cues&#39; and What They Really Mean](https://lifehacker.com/13-of-the-most-perplexing-exercise-cues-and-what-they-r-1849170702)
-- [Lifehacker] [Reveal Priceline&#39;s Hidden Hotel Names With This Extension](https://lifehacker.com/reveal-pricelines-hidden-hotel-names-with-this-extensio-1849173602)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
