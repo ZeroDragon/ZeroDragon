@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Is Novavax, and Is It Better Than the Other COVID Vaccines?](https://lifehacker.com/what-is-novavax-and-is-it-better-than-the-other-covid-1849179412)
+- [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
+- [Dev.to/JS] [Hi, guys am a junior Frontend Developer](https://dev.to/deji_py/hi-guys-am-a-junior-frontend-developer-549c)
+- [Lifehacker] [The Best Way to Get Every Last Bit of Hot Sauce Out of the Bottle](https://lifehacker.com/the-best-way-to-get-every-last-bit-of-hot-sauce-out-of-1849178907)
 - [Dev.to/JS] [Bun : JavaScript just got way Faster](https://dev.to/ahmed_onour/bun-javascript-just-got-way-faster-4ofc)
 - [Dev.to/JS] [sector de la Minería](https://dev.to/juanedu98077220/sector-de-la-mineria-50k3)
 - [Dev.to/JS] [tendremos stands personalizables](https://dev.to/juanedu98077220/tendremos-stands-personalizables-9l8)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Delete Duplicate Photos on iPhone Without a Third-Party App](https://lifehacker.com/you-can-finally-delete-duplicate-photos-on-iphone-witho-1849172210)
 - [Dev.to/JS] [How to make a fetch request](https://dev.to/jgifford82/how-to-make-a-fetch-request-4hlh)
 - [Dev.to/JS] [Free &amp; Discount Online Courses - July 14th 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-14th-2022-4no0)
-- [Dev.to/JS] [The CSS classList.toggle Method &lpar;And a surprise feature of it&rpar;](https://dev.to/kaankorkmaz/the-css-classlisttoggle-method-and-a-surprise-feature-of-it-4d8i)
 - [Lifehacker] [How to Creep on Someone’s LinkedIn Profile Without Them Knowing](https://lifehacker.com/how-to-creep-on-someone-s-linkedin-profile-without-them-1849178015)
 - [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1849178083)
 - [Lifehacker] [Don&#39;t Sleep on Credit Unions for Your Mortgage](https://lifehacker.com/dont-sleep-on-credit-unions-for-your-mortgage-1849177951)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Take a Giant Pill Without Throwing Up](https://lifehacker.com/how-to-take-a-giant-pill-without-throwing-up-1849173801)
 - [Lifehacker] [How to Paint Your Own Watercolor Accent Wall](https://lifehacker.com/how-to-paint-your-own-watercolor-accent-wall-1849172130)
 - [Lifehacker] [How to Turn Your iPhone Into a Free High-Res Webcam](https://lifehacker.com/how-to-turn-your-iphone-into-a-free-high-res-webcam-1847639807)
-- [Lifehacker] [Make Candied Orange Peel the Quick Way](https://lifehacker.com/make-candied-orange-peel-the-quick-way-1849172834)
-- [Lifehacker] [Why You Shouldn&#39;t Put Off Major Home Repairs &lpar;and How to Prioritize Them&rpar;](https://lifehacker.com/why-you-shouldnt-put-off-major-home-repairs-and-how-to-1849171504)
-- [Lifehacker] [How to Easily Copy and Paste Between Android and Windows With This App](https://lifehacker.com/how-to-easily-copy-and-paste-between-android-and-window-1849172351)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
