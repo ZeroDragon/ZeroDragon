@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Q3. What are the different types of Error Name values in JavaScript?](https://dev.to/saiarlen/q3-what-are-the-different-types-of-error-name-values-in-javascript-3kdd)
 - [Dev.to/JS] [Q2. Explain what a callback function is and provide a simple example.](https://dev.to/saiarlen/q2-explain-what-a-callback-function-is-and-provide-a-simple-example-gcf)
 - [Dev.to/JS] [Q1. How would you check if a number is an integer?](https://dev.to/saiarlen/q1-how-would-you-check-if-a-number-is-an-integer-4n73)
 - [Dev.to/JS] [Creating Weather App using Weather API and Node Js : Part Two](https://dev.to/adolphtech/creating-weather-app-using-weather-api-and-node-js-part-two-edo)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Reveal Priceline&#39;s Hidden Hotel Names With This Extension](https://lifehacker.com/reveal-pricelines-hidden-hotel-names-with-this-extensio-1849173602)
 - [Dev.to/JS] [Exodus Effect - Reviews, Results, Price And Benefits?](https://dev.to/exoduseffectfa1/exodus-effect-reviews-results-price-and-benefits-b6h)
 - [Lifehacker] [How to Take a Giant Pill Without Throwing Up](https://lifehacker.com/how-to-take-a-giant-pill-without-throwing-up-1849173801)
-- [Dev.to/JS] [Write a program to create a class count objects and calculate the number of objects that has been created in realtime.](https://dev.to/shiwani295/write-a-program-to-create-a-class-count-objects-and-calculate-the-number-of-objects-that-has-been-created-in-realtime-blj)
 - [Lifehacker] [How to Paint Your Own Watercolor Accent Wall](https://lifehacker.com/how-to-paint-your-own-watercolor-accent-wall-1849172130)
 - [Lifehacker] [How to Turn Your iPhone Into a Free High-Res Webcam](https://lifehacker.com/how-to-turn-your-iphone-into-a-free-high-res-webcam-1847639807)
 - [Lifehacker] [Make Candied Orange Peel the Quick Way](https://lifehacker.com/make-candied-orange-peel-the-quick-way-1849172834)
