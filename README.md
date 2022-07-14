@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Breads Work Best for French Toast?](https://lifehacker.com/what-breads-work-best-for-french-toast-1849175684)
+- [Dev.to/JS] [Hope and Hiring: During mass layoff](https://dev.to/upskillie/hope-and-hiring-during-mass-layoff-3oip)
+- [Lifehacker] [How to Crumble Soft Cheese Without Making a Smeared Mess](https://lifehacker.com/how-to-crumble-soft-cheese-without-making-a-smeared-mes-1849176001)
 - [Dev.to/JS] [How to get Task By Id in React with mongoose](https://dev.to/iamjibinjacob/how-to-get-task-by-id-in-react-with-mongoose-4569)
 - [Lifehacker] [Avoid ATM Fees With These Debit Cards](https://lifehacker.com/avoid-atm-fees-with-these-debit-cards-1849165852)
 - [Dev.to/JS] [Social CNC and Trade](https://dev.to/justo99/social-cnc-and-trade-251g)
@@ -35,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Fetch Data From API using JavaScript](https://dev.to/chetansgit/fetch-data-from-api-using-javascript-1dc4)
 - [Dev.to/JS] [Simple guide to closures in JavaScript 😎😎](https://dev.to/ashishdonga/simple-guide-to-closures-in-javascript-1opk)
 - [Dev.to/JS] [js interview qna](https://dev.to/amritapadhy/js-interview-qna-i0k)
-- [Dev.to/JS] [The power of TypeScript Generics and Conditional Types](https://dev.to/h3mandev/the-power-of-typescript-generics-and-conditional-types-4o39)
 - [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 - [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
 - [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
-- [Lifehacker] [How Bad Is the BA.5 COVID Variant, Really?](https://lifehacker.com/how-bad-is-the-ba-5-covid-variant-really-1849170170)
-- [Lifehacker] [How to Make a Fancy Breakfast From a Jar of Salsa](https://lifehacker.com/how-to-make-a-fancy-breakfast-from-a-jar-of-salsa-1849169930)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
