@@ -29,7 +29,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Front End Interview Question](https://dev.to/lucvankerkvoort/front-end-interview-question-5392)
 - [Dev.to/JS] [CSS Tutorial 1](https://dev.to/fullstackhacker/css-tutorial-1e5n)
 - [Dev.to/JS] [True or False? Using variables outside functions](https://dev.to/kmyrrpen/true-or-false-using-variables-outside-functions-4a4n)
-- [Dev.to/JS] [How To Turn Images Into Interactive Slideshow Videos With Node.js &amp; Shotstack API](https://dev.to/kushal_70/how-to-turn-images-into-interactive-slideshow-videos-with-nodejs-shotstack-api-3ggo)
+- [Dev.to/JS] [How To Turn Images Into Interactive Slideshow Videos With Node.js &amp; Shotstack API](https://dev.to/shotstack/how-to-turn-images-into-interactive-slideshow-videos-with-nodejs-shotstack-api-3ggo)
 - [Dev.to/JS] [What is your best IDE?](https://dev.to/cryptohive/what-is-your-best-ide-3iko)
 - [Dev.to/JS] [parseInt&lpar;&rpar; For Beginners](https://dev.to/yarixar/parseint-for-beginners-4p79)
 - [Dev.to/JS] [Which social media platform you like most as a Developer ?](https://dev.to/heydrdev/which-social-media-platform-you-like-most-as-a-developer--2cd9)
