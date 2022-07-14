@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testes com Jest - Primeiros passos](https://dev.to/andersonmalheiro/testes-com-jest-primeiros-passos-1l7p)
+- [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
+- [Dev.to/JS] [The browser console has a count method](https://dev.to/codepo8/the-browser-console-has-a-count-method-5cj7)
+- [Dev.to/JS] [Multi-step forms with Transition Effects in React](https://dev.to/asayerio_techblog/multi-step-forms-with-transition-effects-in-react-1fld)
+- [Dev.to/JS] [Deploy a Netflix Clone with GraphQL and DataStax Astra DB](https://dev.to/datastax/deploy-a-netflix-clone-with-graphql-and-datastax-astra-db-3a4c)
+- [Dev.to/JS] [Join us at our next Coding Bootcamp 🦊 💻](https://dev.to/frontendfoxes/join-us-at-our-next-coding-bootcamp-4659)
+- [Lifehacker] [How to Eat Shrimp Tails and Heads &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-eat-shrimp-tails-and-heads-and-why-you-should-1849179239)
 - [Dev.to/JS] [React animation onDestroy &lpar;removed from the DOM&rpar;](https://dev.to/aspnxdd/react-animation-ondestroy-removed-from-the-dom-53pd)
 - [Lifehacker] [Three Things You Should Never Lie About in a Job Interview](https://lifehacker.com/three-things-you-should-never-lie-about-in-a-job-interv-1849179570)
 - [Lifehacker] [What Is Novavax, and Is It Better Than the Other COVID Vaccines?](https://lifehacker.com/what-is-novavax-and-is-it-better-than-the-other-covid-1849179412)
@@ -34,14 +41,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tendremos stands personalizables](https://dev.to/juanedu98077220/tendremos-stands-personalizables-9l8)
 - [Dev.to/JS] [Esta exhibición híbrida](https://dev.to/juanedu98077220/esta-exhibicion-hibrida-4o3k)
 - [Dev.to/JS] [My portofolio project](https://dev.to/jossa/my-portofolio-project-2ld5)
-- [Dev.to/JS] [How to Install Bootstrap 5 in Laravel 9 With Vite](https://dev.to/sureshramani/how-to-install-bootstrap-5-in-laravel-9-with-vite-2000)
-- [Dev.to/JS] [CYBER SECURITY; WHY YOU SHOULD LEARN IT](https://dev.to/fliptotech/cyber-security-why-you-should-learn-it-18p3)
 - [Lifehacker] [These Items Actually Got Cheaper This Month](https://lifehacker.com/these-items-actually-got-cheaper-this-month-1849179215)
 - [Lifehacker] [How to Avoid Your Car Getting Repossessed](https://lifehacker.com/how-to-avoid-your-car-getting-repossessed-1849178720)
-- [Dev.to/JS] [Future React Components: ES2022](https://dev.to/citronbrick/future-react-components-es2022-4f8j)
-- [Dev.to/JS] [Creating a Simple REST API - Part 3](https://dev.to/noopur0210/creating-a-simple-rest-api-part-3-2pfi)
 - [Lifehacker] [You Can Finally Delete Duplicate Photos on iPhone Without a Third-Party App](https://lifehacker.com/you-can-finally-delete-duplicate-photos-on-iphone-witho-1849172210)
-- [Dev.to/JS] [How to make a fetch request](https://dev.to/jgifford82/how-to-make-a-fetch-request-4hlh)
 - [Lifehacker] [How to Creep on Someone’s LinkedIn Profile Without Them Knowing](https://lifehacker.com/how-to-creep-on-someone-s-linkedin-profile-without-them-1849178015)
 - [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1849178083)
 - [Lifehacker] [Don&#39;t Sleep on Credit Unions for Your Mortgage](https://lifehacker.com/dont-sleep-on-credit-unions-for-your-mortgage-1849177951)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [This Is the Best Butter for Browning](https://lifehacker.com/this-is-the-best-butter-for-browning-1849174807)
 - [Lifehacker] [13 of the Most Perplexing Exercise &#39;Cues&#39; and What They Really Mean](https://lifehacker.com/13-of-the-most-perplexing-exercise-cues-and-what-they-r-1849170702)
 - [Lifehacker] [Reveal Priceline&#39;s Hidden Hotel Names With This Extension](https://lifehacker.com/reveal-pricelines-hidden-hotel-names-with-this-extensio-1849173602)
-- [Lifehacker] [How to Take a Giant Pill Without Throwing Up](https://lifehacker.com/how-to-take-a-giant-pill-without-throwing-up-1849173801)
-- [Lifehacker] [How to Paint Your Own Watercolor Accent Wall](https://lifehacker.com/how-to-paint-your-own-watercolor-accent-wall-1849172130)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
