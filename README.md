@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Long Does it take to Develop a Mobile Application?](https://dev.to/ameliawenham/how-long-does-it-take-to-develop-a-mobile-application-1d3b)
+- [Dev.to/JS] [Magidoc: A static documentation generator for GraphQL](https://dev.to/pelletier197/magidoc-a-static-documentation-generator-for-graphql-5a1n)
+- [Dev.to/JS] [Fetch Data From API using JavaScript](https://dev.to/chetansgit/fetch-data-from-api-using-javascript-1dc4)
 - [Dev.to/JS] [Simple guide to closures in JavaScript 😎😎](https://dev.to/ashishdonga/simple-guide-to-closures-in-javascript-1opk)
 - [Dev.to/JS] [js interview qna](https://dev.to/amritapadhy/js-interview-qna-i0k)
 - [Dev.to/JS] [The power of TypeScript Generics and Conditional Types](https://dev.to/h3mandev/the-power-of-typescript-generics-and-conditional-types-4o39)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tal y como se revela, el s](https://dev.to/juanedu98077220/tal-y-como-se-revela-el-s-49n8)
 - [Dev.to/JS] [Top 7 Best Books For Coding 👨‍💻 A Thread 🧵](https://dev.to/kshitij9896/top-7-best-books-for-coding-a-thread-3mp6)
 - [Dev.to/JS] [React Native Conditional Button styling for iOS.](https://dev.to/barksanto/react-native-conditional-button-styling-for-ios-h32)
-- [Dev.to/JS] [Explaining JavaScript&#39;s Execution Context and Stack](https://dev.to/asayerio_techblog/explaining-javascripts-execution-context-and-stack-1e3k)
-- [Dev.to/JS] [5 Helpful Website For Developer&#39;s You Must Know 👨‍💻 A Thread 🧵](https://dev.to/kshitij9896/5-helpful-website-for-developersyou-must-know-a-thread-256i)
-- [Dev.to/JS] [Power your blog with Nuxt Content](https://dev.to/asayerio_techblog/power-your-blog-with-nuxt-content-25fn)
 - [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 - [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
