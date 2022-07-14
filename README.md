@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [CSS Tutorial 2](https://dev.to/fullstackhacker/css-tutorial-2-29gh)
+- [Dev.to/JS] [Front End Interview Question](https://dev.to/lucvankerkvoort/front-end-interview-question-5392)
+- [Dev.to/JS] [CSS Tutorial 1](https://dev.to/fullstackhacker/css-tutorial-1e5n)
 - [Dev.to/JS] [True or False? Using variables outside functions](https://dev.to/kmyrrpen/true-or-false-using-variables-outside-functions-4a4n)
 - [Dev.to/JS] [How To Turn Images Into Interactive Slideshow Videos With Node.js &amp; Shotstack API](https://dev.to/kushal_70/how-to-turn-images-into-interactive-slideshow-videos-with-nodejs-shotstack-api-3ggo)
 - [Dev.to/JS] [What is your best IDE?](https://dev.to/cryptohive/what-is-your-best-ide-3iko)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Semver: The unknown buildMetadata](https://dev.to/ayc0/semver-the-unknown-parts-271)
 - [Dev.to/JS] [Why you should use GitHub](https://dev.to/qorncat/why-you-should-use-github-3pm4)
 - [Dev.to/JS] [Q3. What are the different types of Error Name values in JavaScript?](https://dev.to/saiarlen/q3-what-are-the-different-types-of-error-name-values-in-javascript-3kdd)
-- [Dev.to/JS] [Q2. Explain what a callback function is and provide a simple example.](https://dev.to/saiarlen/q2-explain-what-a-callback-function-is-and-provide-a-simple-example-gcf)
-- [Dev.to/JS] [Q1. How would you check if a number is an integer?](https://dev.to/saiarlen/q1-how-would-you-check-if-a-number-is-an-integer-4n73)
-- [Dev.to/JS] [Creating Weather App using Weather API and Node Js : Part Two](https://dev.to/adolphtech/creating-weather-app-using-weather-api-and-node-js-part-two-edo)
 - [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 - [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
