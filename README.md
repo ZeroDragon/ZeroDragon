@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React animation onDestroy &lpar;removed from the DOM&rpar;](https://dev.to/aspnxdd/react-animation-ondestroy-removed-from-the-dom-53pd)
+- [Lifehacker] [Three Things You Should Never Lie About in a Job Interview](https://lifehacker.com/three-things-you-should-never-lie-about-in-a-job-interv-1849179570)
 - [Lifehacker] [What Is Novavax, and Is It Better Than the Other COVID Vaccines?](https://lifehacker.com/what-is-novavax-and-is-it-better-than-the-other-covid-1849179412)
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
 - [Dev.to/JS] [Hi, guys am a junior Frontend Developer](https://dev.to/deji_py/hi-guys-am-a-junior-frontend-developer-549c)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Creating a Simple REST API - Part 3](https://dev.to/noopur0210/creating-a-simple-rest-api-part-3-2pfi)
 - [Lifehacker] [You Can Finally Delete Duplicate Photos on iPhone Without a Third-Party App](https://lifehacker.com/you-can-finally-delete-duplicate-photos-on-iphone-witho-1849172210)
 - [Dev.to/JS] [How to make a fetch request](https://dev.to/jgifford82/how-to-make-a-fetch-request-4hlh)
-- [Dev.to/JS] [Free &amp; Discount Online Courses - July 14th 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-14th-2022-4no0)
 - [Lifehacker] [How to Creep on Someone’s LinkedIn Profile Without Them Knowing](https://lifehacker.com/how-to-creep-on-someone-s-linkedin-profile-without-them-1849178015)
 - [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1849178083)
 - [Lifehacker] [Don&#39;t Sleep on Credit Unions for Your Mortgage](https://lifehacker.com/dont-sleep-on-credit-unions-for-your-mortgage-1849177951)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Reveal Priceline&#39;s Hidden Hotel Names With This Extension](https://lifehacker.com/reveal-pricelines-hidden-hotel-names-with-this-extensio-1849173602)
 - [Lifehacker] [How to Take a Giant Pill Without Throwing Up](https://lifehacker.com/how-to-take-a-giant-pill-without-throwing-up-1849173801)
 - [Lifehacker] [How to Paint Your Own Watercolor Accent Wall](https://lifehacker.com/how-to-paint-your-own-watercolor-accent-wall-1849172130)
-- [Lifehacker] [How to Turn Your iPhone Into a Free High-Res Webcam](https://lifehacker.com/how-to-turn-your-iphone-into-a-free-high-res-webcam-1847639807)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
