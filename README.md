@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Codewars Challenge Day 3: Moving Zeros To The End](https://dev.to/qroia/codewars-challenge-day-3-moving-zeros-to-the-end-297j)
+- [Lifehacker] [What to Do If You Ever Get Swallowed by a Humpback Whale](https://lifehacker.com/what-to-do-if-you-ever-get-swallowed-by-a-humpback-whal-1849175571)
+- [Dev.to/JS] [Sprout endless sites from a single Next.js and Umbraco instance](https://dev.to/kaspera/sprout-endless-sites-from-a-single-nextjs-and-umbraco-instance-3227)
+- [Lifehacker] [8 Ways the James Webb Space Photos Are Giving Me an Existential Crisis](https://lifehacker.com/8-ways-the-james-webb-space-photos-are-giving-me-an-exi-1849175463)
+- [Dev.to/JS] [How to Host your React App for Free. &lpar;Part 1&rpar;](https://dev.to/vamsitupakula_/how-to-host-your-react-app-for-free-part-1-2e6e)
+- [Dev.to/JS] [How to Mock the Date in Redux Toolkit](https://dev.to/robmarshall/how-to-mock-the-date-in-redux-toolkit-2b8k)
+- [Dev.to/JS] [DFS/BFS with JS](https://dev.to/jangluna/dfsbfs-with-js-3652)
 - [Lifehacker] [What Breads Work Best for French Toast?](https://lifehacker.com/what-breads-work-best-for-french-toast-1849175684)
 - [Dev.to/JS] [Hope and Hiring: During mass layoff](https://dev.to/upskillie/hope-and-hiring-during-mass-layoff-3oip)
 - [Lifehacker] [How to Crumble Soft Cheese Without Making a Smeared Mess](https://lifehacker.com/how-to-crumble-soft-cheese-without-making-a-smeared-mes-1849176001)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Make your own Blog with SvelteKit and dev.to api](https://dev.to/theether0/make-your-own-blog-with-sveltekit-and-devto-api-237d)
 - [Dev.to/JS] [Python Complex Number](https://dev.to/shiwani295/python-complex-number-4b33)
 - [Dev.to/JS] [Create CRUD using Golang and Next.js](https://dev.to/imdigitalashish/create-crud-using-golang-and-nextjs-1jdo)
-- [Dev.to/JS] [How Long Does it take to Develop a Mobile Application?](https://dev.to/ameliawenham/how-long-does-it-take-to-develop-a-mobile-application-1d3b)
-- [Dev.to/JS] [Magidoc: A static documentation generator for GraphQL](https://dev.to/pelletier197/magidoc-a-static-documentation-generator-for-graphql-5a1n)
-- [Dev.to/JS] [Fetch Data From API using JavaScript](https://dev.to/chetansgit/fetch-data-from-api-using-javascript-1dc4)
-- [Dev.to/JS] [Simple guide to closures in JavaScript 😎😎](https://dev.to/ashishdonga/simple-guide-to-closures-in-javascript-1opk)
-- [Dev.to/JS] [js interview qna](https://dev.to/amritapadhy/js-interview-qna-i0k)
 - [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 - [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Should &#39;Subtract&#39; From Your Parenting](https://lifehacker.com/why-you-should-subtract-from-your-parenting-1849168959)
 - [Lifehacker] [You Can Finally Edit and Undo Sent Messages on iPhone](https://lifehacker.com/you-can-finally-edit-and-undo-sent-messages-on-iphone-1849167883)
 - [Lifehacker] [Don’t Make This Mistake When Using an ATM Abroad](https://lifehacker.com/don-t-make-this-mistake-when-using-an-atm-abroad-1849170553)
-- [Lifehacker] [How to Pack Better When Traveling With Kids](https://lifehacker.com/how-to-pack-better-when-traveling-with-kids-1849169551)
-- [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
