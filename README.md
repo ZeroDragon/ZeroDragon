@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Future React Components: ES2022](https://dev.to/citronbrick/future-react-components-es2022-4f8j)
+- [Dev.to/JS] [Creating a Simple REST API - Part 3](https://dev.to/noopur0210/creating-a-simple-rest-api-part-3-2pfi)
+- [Lifehacker] [You Can Finally Delete Duplicate Photos on iPhone Without a Third-Party App](https://lifehacker.com/you-can-finally-delete-duplicate-photos-on-iphone-witho-1849172210)
+- [Dev.to/JS] [How to make a fetch request](https://dev.to/jgifford82/how-to-make-a-fetch-request-4hlh)
 - [Dev.to/JS] [Free &amp; Discount Online Courses - July 14th 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-14th-2022-4no0)
 - [Dev.to/JS] [The CSS classList.toggle Method &lpar;And a surprise feature of it&rpar;](https://dev.to/kaankorkmaz/the-css-classlisttoggle-method-and-a-surprise-feature-of-it-4d8i)
 - [Lifehacker] [How to Creep on Someone’s LinkedIn Profile Without Them Knowing](https://lifehacker.com/how-to-creep-on-someone-s-linkedin-profile-without-them-1849178015)
@@ -32,14 +36,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Sleep on Credit Unions for Your Mortgage](https://lifehacker.com/dont-sleep-on-credit-unions-for-your-mortgage-1849177951)
 - [Dev.to/JS] [Setup a Monorepo with PNPM workspaces and speed it up with Nx!](https://dev.to/nx/setup-a-monorepo-with-pnpm-workspaces-and-speed-it-up-with-nx-1eem)
 - [Dev.to/JS] [es6-cheatsheet](https://dev.to/avinashvagh/es6-cheatsheet-2pa8)
+- [Dev.to/JS] [Clean Code - How I&#39;m Refactoring My First Project](https://dev.to/loopdeluce/clean-code-how-im-refactoring-my-first-project-2523)
 - [Lifehacker] [Those Boring Solar Pathway Lights Can Be Made Into Something Beautiful](https://lifehacker.com/those-boring-solar-pathway-lights-can-be-made-into-some-1849176580)
 - [Dev.to/JS] [Looping is vital](https://dev.to/fikredeyas/looping-is-vital-39og)
 - [Dev.to/JS] [Programming Challenges](https://dev.to/codeteasleep/programming-challenges-2187)
-- [Dev.to/JS] [Flood Fill &lpar;Recursion&rpar;](https://dev.to/bradbieselin/flood-fill-recursion-21ob)
-- [Dev.to/JS] [684. Redundant Connection 🚀](https://dev.to/samuelhinchliffe/684-redundant-connection-33i5)
-- [Dev.to/JS] [Codewars Challenge Day 3: Moving Zeros To The End](https://dev.to/qroia/codewars-challenge-day-3-moving-zeros-to-the-end-297j)
 - [Lifehacker] [What to Do If You Ever Get Swallowed by a Humpback Whale](https://lifehacker.com/what-to-do-if-you-ever-get-swallowed-by-a-humpback-whal-1849175571)
-- [Dev.to/JS] [Sprout endless sites from a single Next.js and Umbraco instance](https://dev.to/kaspera/sprout-endless-sites-from-a-single-nextjs-and-umbraco-instance-3227)
 - [Lifehacker] [8 Ways the James Webb Space Photos Are Giving Me an Existential Crisis](https://lifehacker.com/8-ways-the-james-webb-space-photos-are-giving-me-an-exi-1849175463)
 - [Lifehacker] [What Breads Work Best for French Toast?](https://lifehacker.com/what-breads-work-best-for-french-toast-1849175684)
 - [Lifehacker] [How to Crumble Soft Cheese Without Making a Smeared Mess](https://lifehacker.com/how-to-crumble-soft-cheese-without-making-a-smeared-mes-1849176001)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Easily Copy and Paste Between Android and Windows With This App](https://lifehacker.com/how-to-easily-copy-and-paste-between-android-and-window-1849172351)
 - [Lifehacker] [What to Say After You Offend Someone &lpar;and What Not To&rpar;](https://lifehacker.com/what-to-say-after-you-offend-someone-and-what-not-to-1849171000)
 - [Lifehacker] [Is It Ever OK to Walk Your Dog in a Cemetery?](https://lifehacker.com/is-it-ever-ok-to-walk-your-dog-in-a-cemetery-1849171034)
-- [Lifehacker] [The 7 Deadly Sins of Job Searching](https://lifehacker.com/the-7-deadly-sins-of-job-searching-1849172124)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
