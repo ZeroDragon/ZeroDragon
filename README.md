@@ -23,18 +23,19 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get Task By Id in React with mongoose](https://dev.to/iamjibinjacob/how-to-get-task-by-id-in-react-with-mongoose-4569)
+- [Lifehacker] [Avoid ATM Fees With These Debit Cards](https://lifehacker.com/avoid-atm-fees-with-these-debit-cards-1849165852)
+- [Dev.to/JS] [Social CNC and Trade](https://dev.to/justo99/social-cnc-and-trade-251g)
+- [Dev.to/JS] [Implementing Silent Refresh on a React App using Typescript, setInterval, axios, and zustand](https://dev.to/iisalazar/implementing-silent-refresh-on-a-react-app-using-typescript-setinterval-axios-and-zustand-18na)
+- [Dev.to/JS] [Make your own Blog with SvelteKit and dev.to api](https://dev.to/theether0/make-your-own-blog-with-sveltekit-and-devto-api-237d)
+- [Dev.to/JS] [Python Complex Number](https://dev.to/shiwani295/python-complex-number-4b33)
+- [Dev.to/JS] [Create CRUD using Golang and Next.js](https://dev.to/imdigitalashish/create-crud-using-golang-and-nextjs-1jdo)
 - [Dev.to/JS] [How Long Does it take to Develop a Mobile Application?](https://dev.to/ameliawenham/how-long-does-it-take-to-develop-a-mobile-application-1d3b)
 - [Dev.to/JS] [Magidoc: A static documentation generator for GraphQL](https://dev.to/pelletier197/magidoc-a-static-documentation-generator-for-graphql-5a1n)
 - [Dev.to/JS] [Fetch Data From API using JavaScript](https://dev.to/chetansgit/fetch-data-from-api-using-javascript-1dc4)
 - [Dev.to/JS] [Simple guide to closures in JavaScript 😎😎](https://dev.to/ashishdonga/simple-guide-to-closures-in-javascript-1opk)
 - [Dev.to/JS] [js interview qna](https://dev.to/amritapadhy/js-interview-qna-i0k)
 - [Dev.to/JS] [The power of TypeScript Generics and Conditional Types](https://dev.to/h3mandev/the-power-of-typescript-generics-and-conditional-types-4o39)
-- [Dev.to/JS] [Con este estudio, disponible](https://dev.to/juanedu98077220/con-este-estudio-disponible-i01)
-- [Dev.to/JS] [pueden claramente identificar](https://dev.to/juanedu98077220/pueden-claramente-identificar-hnp)
-- [Dev.to/JS] [de la tecnología en el](https://dev.to/juanedu98077220/de-la-tecnologia-en-el-4de9)
-- [Dev.to/JS] [Tal y como se revela, el s](https://dev.to/juanedu98077220/tal-y-como-se-revela-el-s-49n8)
-- [Dev.to/JS] [Top 7 Best Books For Coding 👨‍💻 A Thread 🧵](https://dev.to/kshitij9896/top-7-best-books-for-coding-a-thread-3mp6)
-- [Dev.to/JS] [React Native Conditional Button styling for iOS.](https://dev.to/barksanto/react-native-conditional-button-styling-for-ios-h32)
 - [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 - [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple&#39;s New iOS 16 Photo Feature Is Straight-Up Magic](https://lifehacker.com/apples-new-ios-16-photo-feature-is-straight-up-magic-1849169945)
 - [Lifehacker] [How Bad Is the BA.5 COVID Variant, Really?](https://lifehacker.com/how-bad-is-the-ba-5-covid-variant-really-1849170170)
 - [Lifehacker] [How to Make a Fancy Breakfast From a Jar of Salsa](https://lifehacker.com/how-to-make-a-fancy-breakfast-from-a-jar-of-salsa-1849169930)
-- [Lifehacker] [What Is &#39;Manhattanhenge&#39; &lpar;and Does Your City Have Its Own -Henge&rpar;?](https://lifehacker.com/what-is-manhattanhenge-and-does-your-city-have-its-own-1849169762)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
