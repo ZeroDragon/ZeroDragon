@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explaining JavaScript&#39;s Execution Context and Stack](https://dev.to/asayerio_techblog/explaining-javascripts-execution-context-and-stack-1e3k)
+- [Dev.to/JS] [5 Helpful Website For Developer&#39;s You Must Know 👨‍💻 A Thread 🧵](https://dev.to/kshitij9896/5-helpful-website-for-developersyou-must-know-a-thread-256i)
+- [Dev.to/JS] [Power your blog with Nuxt Content](https://dev.to/asayerio_techblog/power-your-blog-with-nuxt-content-25fn)
+- [Dev.to/JS] [Understanding react hook : useRef&lpar;&rpar;](https://dev.to/srishtikprasad/understanding-react-hook-useref-21cj)
+- [Dev.to/JS] [How to configure a DFX project to use a React Frontend?](https://dev.to/hr21don/how-to-configure-a-dfx-project-to-use-a-react-frontend-1en2)
 - [Dev.to/JS] [Javascript best practices🔥](https://dev.to/devsimc/javascript-best-practices-44ll)
 - [Dev.to/JS] [Finding security vulnerabilities in JavaScript with Github&#39;s CodeQL &amp; Code Scanning](https://dev.to/akkimann/finding-security-vulnerabilities-in-javascript-with-githubs-codeql-code-scanning-2h1k)
 - [Dev.to/JS] [How to addEventListener to a list of html Elements in JavaScript](https://dev.to/jimajs/how-to-addeventlistener-to-a-list-of-html-elements-in-javascript-1m6n)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promises in javascript&lpar;🔖&rpar;](https://dev.to/aishanipach/promises-in-javascript-4d6c)
 - [Dev.to/JS] [How To Install React in Laravel 9 with Vite](https://dev.to/sureshramani/how-to-install-react-in-laravel-9-with-vite-54i8)
 - [Dev.to/JS] [CSS Tutorial 3](https://dev.to/fullstackhacker/css-tutorial-3-3628)
-- [Dev.to/JS] [CSS Tutorial 2](https://dev.to/fullstackhacker/css-tutorial-2-29gh)
-- [Dev.to/JS] [Front End Interview Question](https://dev.to/lucvankerkvoort/front-end-interview-question-5392)
-- [Dev.to/JS] [CSS Tutorial 1](https://dev.to/fullstackhacker/css-tutorial-1e5n)
-- [Dev.to/JS] [Can you solve this reference problem?](https://dev.to/kmyrrpen/true-or-false-using-variables-outside-functions-4a4n)
-- [Dev.to/JS] [How To Turn Images Into Interactive Slideshow Videos With Node.js &amp; Shotstack API](https://dev.to/shotstack/how-to-turn-images-into-interactive-slideshow-videos-with-nodejs-shotstack-api-3ggo)
 - [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 - [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
