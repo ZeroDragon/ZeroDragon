@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The most important ESLint rule: max-params](https://dev.to/gajus/the-most-important-eslint-rule-max-params-349l)
+- [Dev.to/JS] [Context API in human language](https://dev.to/cjreads665/context-api-in-human-language-2de6)
 - [Dev.to/JS] [OpenSource web software for room reservations](https://dev.to/leena25783511/opensource-web-software-for-room-reservations-1c0d)
 - [Dev.to/JS] [What Is Scikit-learn?](https://dev.to/professionalw0/what-is-scikit-learn-2ae3)
 - [Dev.to/JS] [What Is TensorFlow?](https://dev.to/professionalw0/what-is-tensorflow-4lh)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Canadian Tech Companies To Watch In 2022](https://dev.to/hersheyrosen/canadian-tech-companies-to-watch-in-2022-57gg)
 - [Dev.to/JS] [Typing API Responses With Zod](https://dev.to/dsibinski/typing-api-responses-with-zod-526f)
 - [Dev.to/JS] [Find path in given object](https://dev.to/urstrulyvishwak/find-path-in-given-object-2il8)
-- [Dev.to/JS] [How to Build Uber Clone with React &lpar;Ep. 1&rpar; [FREE &amp; DETAIL COURSE]](https://dev.to/hieptl/how-to-build-uber-clone-with-react-ep-1-gop)
-- [Dev.to/JS] [How Svelte-Native Works?](https://dev.to/deotyma/how-svelte-native-works-2pel)
 - [Lifehacker] [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
 - [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
 - [Lifehacker] [How to Eat Shrimp Tails and Heads &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-eat-shrimp-tails-and-heads-and-why-you-should-1849179239)
