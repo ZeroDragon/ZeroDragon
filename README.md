@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Find path in given object](https://dev.to/urstrulyvishwak/find-path-in-given-object-2il8)
+- [Dev.to/JS] [How to Build Uber Clone with React &lpar;Ep. 1&rpar; [FREE &amp; DETAIL COURSE]](https://dev.to/hieptl/how-to-build-uber-clone-with-react-ep-1-gop)
 - [Dev.to/JS] [How Svelte-Native Works?](https://dev.to/deotyma/how-svelte-native-works-2pel)
 - [Dev.to/JS] [JavaScript Getter and Setter](https://dev.to/professionalw0/javascript-getter-and-setter-471j)
 - [Dev.to/JS] [What the DOM?](https://dev.to/acortez8988/what-the-dom-39b0)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The browser console has a count method](https://dev.to/codepo8/the-browser-console-has-a-count-method-5cj7)
 - [Dev.to/JS] [Multi-step forms with Transition Effects in React](https://dev.to/asayerio_techblog/multi-step-forms-with-transition-effects-in-react-1fld)
 - [Dev.to/JS] [Deploy a Netflix Clone with GraphQL and DataStax Astra DB](https://dev.to/datastax/deploy-a-netflix-clone-with-graphql-and-datastax-astra-db-3a4c)
-- [Dev.to/JS] [Join us at our next Coding Bootcamp 🦊 💻](https://dev.to/frontendfoxes/join-us-at-our-next-coding-bootcamp-4659)
 - [Lifehacker] [How to Eat Shrimp Tails and Heads &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-eat-shrimp-tails-and-heads-and-why-you-should-1849179239)
-- [Dev.to/JS] [React animation onDestroy &lpar;removed from the DOM&rpar;](https://dev.to/aspnxdd/react-animation-ondestroy-removed-from-the-dom-53pd)
 - [Lifehacker] [Three Things You Should Never Lie About in a Job Interview](https://lifehacker.com/three-things-you-should-never-lie-about-in-a-job-interv-1849179570)
 - [Lifehacker] [What Is Novavax, and Is It Better Than the Other COVID Vaccines?](https://lifehacker.com/what-is-novavax-and-is-it-better-than-the-other-covid-1849179412)
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
