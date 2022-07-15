@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to test third-party React Native components using React Native Testing Library](https://dev.to/hmcodes/how-to-test-third-party-react-native-components-using-react-native-testing-library-g58)
 - [Dev.to/JS] [The Event Loop](https://dev.to/karamkoujan/the-event-loop-46dj)
 - [Dev.to/JS] [Leet Code - Roman Numeral to Integer Function in JavaScript](https://dev.to/anuj8126/leet-code-roman-numeral-to-integer-function-in-javascript-2o58)
 - [Dev.to/JS] [Finally completed Rock, Paper, Scissors&lpar;The Odin Project&rpar;](https://dev.to/taepal467/finally-completed-rock-paper-scissorsthe-odin-project-4hkl)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Search Functionality using Formik](https://dev.to/irajbhinde/search-functionality-using-formik-o9o)
 - [Dev.to/JS] [JavaScript Classes. Pt 2](https://dev.to/wonuola_w/javascript-classes-pt-2-1a6f)
 - [Dev.to/JS] [Why is JavaScript Single-Threaded and Non-Blocking](https://dev.to/elijahtrillionz/why-is-javascript-single-threaded-and-non-blocking-3m5n)
-- [Dev.to/JS] [🚀Style your Vue.js website faster with Stylify CSS](https://dev.to/machy8/style-your-vuejs-website-faster-with-stylify-css-4g3m)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
 - [Lifehacker] [Your First Aid Kit May Be Expired](https://lifehacker.com/your-first-aid-kit-may-be-expired-1849183977)
