@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
+- [Dev.to/JS] [Anunciando la JSConf Chile! 🇨🇱🎉](https://dev.to/fforres/anunciando-la-jsconf-chile-370b)
+- [Lifehacker] [Your First Aid Kit May Be Expired](https://lifehacker.com/your-first-aid-kit-may-be-expired-1849183977)
+- [Dev.to/JS] [Why React but not Vue!!](https://dev.to/sem1colons/why-react-but-not-vue-4h98)
+- [Lifehacker] [How to Keep Your Cutting Board From Sliding Around](https://lifehacker.com/how-to-keep-your-cutting-board-from-sliding-around-1849180398)
 - [Dev.to/JS] [MetaLean Complete - Is it a Scam or Legit Benefits And Ingredients?](https://dev.to/metaleancomple2/metalean-complete-is-it-a-scam-or-legit-benefits-and-ingredients-18e)
 - [Dev.to/JS] [My Time at Flatiron School](https://dev.to/loganzimm4/my-time-at-flatiron-school-2mlh)
 - [Dev.to/JS] [Check out my new programming language called - Boson, written in Rust!](https://dev.to/narasimha1997/check-out-my-new-programming-language-called-boson-written-in-rust-1bkj)
@@ -36,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Comment Code in JavaScript – Best Practices](https://dev.to/max88git/how-to-comment-code-in-javascript-best-practices-5de1)
 - [Lifehacker] [How to Use &#39;Lockdown Mode&#39; on iOS 16 and macOS Ventura](https://lifehacker.com/how-to-use-lockdown-mode-on-ios-16-and-macos-ventura-1849179969)
 - [Dev.to/JS] [Write the program to convert the binary to decimal ?](https://dev.to/theamitprajapati/write-the-program-to-convert-the-binary-to-decimal--32bo)
-- [Dev.to/JS] [Brian Holt&#39;s Calculator with Walk-through of &#39;1 + 2 = 3&#39;](https://dev.to/benboorstein/brian-holts-calculator-with-walk-through-of-123-5dno)
-- [Dev.to/JS] [How we build and deploy updated packages with Lerna and Jenkins + K8s deployments](https://dev.to/kyosifov/how-we-build-and-deploy-updated-packages-with-lerna-and-jenkins-k8s-deployments-f22)
 - [Lifehacker] [The Biggest Construction Red Flags to Look for in a Brand New Home](https://lifehacker.com/the-biggest-construction-red-flags-to-look-for-in-a-bra-1849182688)
 - [Lifehacker] [All the Best New Mail Features in iOS16](https://lifehacker.com/all-the-best-new-mail-features-in-ios16-1849181818)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Are We Meme-ing the Webb Telescope Images?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-how-are-w-1849181285)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Creep on Someone’s LinkedIn Profile Without Them Knowing](https://lifehacker.com/how-to-creep-on-someone-s-linkedin-profile-without-them-1849178015)
 - [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1849178083)
 - [Lifehacker] [Don&#39;t Sleep on Credit Unions for Your Mortgage](https://lifehacker.com/dont-sleep-on-credit-unions-for-your-mortgage-1849177951)
-- [Lifehacker] [Those Boring Solar Pathway Lights Can Be Made Into Something Beautiful](https://lifehacker.com/those-boring-solar-pathway-lights-can-be-made-into-some-1849176580)
-- [Lifehacker] [What to Do If You Ever Get Swallowed by a Humpback Whale](https://lifehacker.com/what-to-do-if-you-ever-get-swallowed-by-a-humpback-whal-1849175571)
-- [Lifehacker] [8 Ways the James Webb Space Photos Are Giving Me an Existential Crisis](https://lifehacker.com/8-ways-the-james-webb-space-photos-are-giving-me-an-exi-1849175463)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
