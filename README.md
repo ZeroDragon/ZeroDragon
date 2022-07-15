@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Keravita Pro - Is it a Scam or Legit Benefits And Results?](https://dev.to/keravitaproinf2/keravita-pro-is-it-a-scam-or-legit-benefits-and-results-1p39)
+- [Dev.to/JS] [Reasonml – A JavaScript Flavor 52% of Developers Don’t Know About](https://dev.to/lambdatest/reasonml-a-javascript-flavor-52-of-developers-dont-know-about-2hj3)
+- [Dev.to/JS] [Remix Framework Review](https://dev.to/phongnn/remix-framework-review-12ea)
 - [Dev.to/JS] [My Leetcode practice diary](https://dev.to/miccwan/my-leetcode-practice-diary-3415)
 - [Dev.to/JS] [Canadian Tech Companies To Watch In 2022](https://dev.to/hersheyrosen/canadian-tech-companies-to-watch-in-2022-57gg)
 - [Dev.to/JS] [Typing API Responses With Zod](https://dev.to/dsibinski/typing-api-responses-with-zod-526f)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript Getter and Setter](https://dev.to/professionalw0/javascript-getter-and-setter-471j)
 - [Dev.to/JS] [What the DOM?](https://dev.to/acortez8988/what-the-dom-39b0)
 - [Dev.to/JS] [Learn php oop from scratch](https://dev.to/professionalw0/learn-php-oop-from-scratch-c30)
-- [Dev.to/JS] [Difference between “ == “ and “ === “ operators](https://dev.to/professionalw0/difference-between-and-operators-2o5n)
-- [Dev.to/JS] [A Comprehensive Guide to KDevelop C++ for Beginners](https://dev.to/professionalw0/a-comprehensive-guide-to-kdevelop-c-for-beginners-fi4)
 - [Lifehacker] [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
-- [Dev.to/JS] [Testes com Jest - Primeiros passos](https://dev.to/andersonmalheiro/testes-com-jest-primeiros-passos-1l7p)
 - [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
 - [Lifehacker] [How to Eat Shrimp Tails and Heads &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-eat-shrimp-tails-and-heads-and-why-you-should-1849179239)
 - [Lifehacker] [Three Things You Should Never Lie About in a Job Interview](https://lifehacker.com/three-things-you-should-never-lie-about-in-a-job-interv-1849179570)
