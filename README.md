@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Fastest way to learn to code and get fired!](https://dev.to/codewithshahan/fastest-way-to-learn-to-code-and-get-fired-506)
+- [Dev.to/JS] [TypeScript [Capítulo 1] ¿Qué es TypeScript? Instalación y tipos básicos](https://dev.to/achamorro_dev/typescript-capitulo-1-que-es-typescript-instalacion-y-tipos-basicos-4jbl)
+- [Dev.to/JS] [4 Reasons You Should Avoid Function&#39;s Side-Effects](https://dev.to/mbarzeev/4-reasons-you-should-avoid-functions-side-effects-20ai)
+- [Dev.to/JS] [How to use Leaflet control geocoder with React](https://dev.to/prasannaemmadi/how-to-use-leaflet-control-geocoder-with-react-5e21)
+- [Dev.to/JS] [Good Morning Slack Bot 🤖](https://dev.to/danielbellmas/good-morning-slack-bot-468p)
 - [Dev.to/JS] [The most important ESLint rule: max-params](https://dev.to/gajus/the-most-important-eslint-rule-max-params-349l)
 - [Dev.to/JS] [Context API in human language](https://dev.to/cjreads665/context-api-in-human-language-2de6)
 - [Dev.to/JS] [OpenSource web software for room reservations](https://dev.to/leena25783511/opensource-web-software-for-room-reservations-1c0d)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What Is TensorFlow?](https://dev.to/professionalw0/what-is-tensorflow-4lh)
 - [Dev.to/JS] [Keravita Pro - Is it a Scam or Legit Benefits And Results?](https://dev.to/keravitaproinf2/keravita-pro-is-it-a-scam-or-legit-benefits-and-results-1p39)
 - [Dev.to/JS] [Reasonml – A JavaScript Flavor 52% of Developers Don’t Know About](https://dev.to/lambdatest/reasonml-a-javascript-flavor-52-of-developers-dont-know-about-2hj3)
-- [Dev.to/JS] [Remix Framework Review](https://dev.to/phongnn/remix-framework-review-12ea)
-- [Dev.to/JS] [My Leetcode practice diary](https://dev.to/miccwan/my-leetcode-practice-diary-3415)
-- [Dev.to/JS] [Canadian Tech Companies To Watch In 2022](https://dev.to/hersheyrosen/canadian-tech-companies-to-watch-in-2022-57gg)
-- [Dev.to/JS] [Typing API Responses With Zod](https://dev.to/dsibinski/typing-api-responses-with-zod-526f)
-- [Dev.to/JS] [Find path in given object](https://dev.to/urstrulyvishwak/find-path-in-given-object-2il8)
 - [Lifehacker] [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
 - [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
 - [Lifehacker] [How to Eat Shrimp Tails and Heads &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-eat-shrimp-tails-and-heads-and-why-you-should-1849179239)
