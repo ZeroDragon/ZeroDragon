@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Survive the Sriracha Shortage by Making Your Own](https://lifehacker.com/survive-the-sriracha-shortage-by-making-your-own-1849183082)
+- [Dev.to/JS] [Codewars Challenge Day 4: ROT13](https://dev.to/qroia/codewars-challenge-day-4-rot13-5cg8)
+- [Dev.to/JS] [How to Comment Code in JavaScript – Best Practices](https://dev.to/max88git/how-to-comment-code-in-javascript-best-practices-5de1)
+- [Lifehacker] [How to Use &#39;Lockdown Mode&#39; on iOS 16 and macOS Ventura](https://lifehacker.com/how-to-use-lockdown-mode-on-ios-16-and-macos-ventura-1849179969)
+- [Dev.to/JS] [Write the program to convert the binary to decimal ?](https://dev.to/theamitprajapati/write-the-program-to-convert-the-binary-to-decimal--32bo)
+- [Dev.to/JS] [Brian Holt&#39;s Calculator with Walk-through of &#39;1 + 2 = 3&#39;](https://dev.to/benboorstein/brian-holts-calculator-with-walk-through-of-123-5dno)
+- [Dev.to/JS] [How we build and deploy updated packages with Lerna and Jenkins + K8s deployments](https://dev.to/kyosifov/how-we-build-and-deploy-updated-packages-with-lerna-and-jenkins-k8s-deployments-f22)
+- [Dev.to/JS] [File Validation Using The FileList API in JavaScript](https://dev.to/ugorji_simon/file-validation-using-the-filelist-api-in-javascript-1kid)
 - [Lifehacker] [The Biggest Construction Red Flags to Look for in a Brand New Home](https://lifehacker.com/the-biggest-construction-red-flags-to-look-for-in-a-bra-1849182688)
 - [Dev.to/JS] [1584. Min Cost to Connect All Points 🚀](https://dev.to/samuelhinchliffe/1584-min-cost-to-connect-all-points-4k5p)
 - [Dev.to/JS] [How to use Browser location in React application](https://dev.to/prasannaemmadi/how-to-use-browser-location-in-react-application-4cb0)
@@ -31,13 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting data back from Async function in NextJS](https://dev.to/richardbridgeman/getting-data-back-from-async-function-in-nextjs-59db)
 - [Dev.to/JS] [I Create my portfolio](https://dev.to/albin_n_j/i-create-my-portfolio-2024)
 - [Dev.to/JS] [Dsa project](https://dev.to/vermaprince123/dsa-project-4k58)
-- [Dev.to/JS] [Javascript readability vs performance: a false tradeoff](https://dev.to/itstrueintheory/javascript-readability-vs-performance-a-false-tradeoff-520b)
-- [Dev.to/JS] [Server-side pagination in React JS + Material UI](https://dev.to/stephanieopala/server-side-pagination-in-react-js-material-ui-3bk)
-- [Dev.to/JS] [3 killer tools to debug your Monorepos](https://dev.to/jozsefdevs/3-killer-tools-to-debug-your-monorepos-4bph)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Are We Meme-ing the Webb Telescope Images?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-how-are-w-1849181285)
-- [Dev.to/JS] [What is Go | why it is used | All-time-dev](https://dev.to/alltimedevlopment/what-is-go-why-it-is-used-all-time-dev-4nek)
-- [Dev.to/JS] [You can actually mutate imports in Javascript](https://dev.to/ogzhanolguncu/you-can-actually-mutate-imports-in-javascript-443b)
-- [Dev.to/JS] [Teaching Cars to Drive with Neuroevolution, Tensorflow, and 500 lines of Javascript](https://dev.to/codesphere/teaching-cars-to-drive-with-neuroevolution-tensorflow-and-500-lines-of-javascript-3bh8)
 - [Lifehacker] [Why You Should Freeze Your Pop-Tarts](https://lifehacker.com/why-you-should-freeze-your-pop-tarts-1849180329)
 - [Lifehacker] [How to Adopt One of the 4,000 Beagles Rescued From a Breeding Facility](https://lifehacker.com/how-to-adopt-one-of-the-4-000-beagles-rescued-from-a-br-1849180318)
 - [Lifehacker] [Your Joke Texts With Scammers Will Backfire](https://lifehacker.com/your-joke-texts-with-scammers-will-backfire-1849178959)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do If You Ever Get Swallowed by a Humpback Whale](https://lifehacker.com/what-to-do-if-you-ever-get-swallowed-by-a-humpback-whal-1849175571)
 - [Lifehacker] [8 Ways the James Webb Space Photos Are Giving Me an Existential Crisis](https://lifehacker.com/8-ways-the-james-webb-space-photos-are-giving-me-an-exi-1849175463)
 - [Lifehacker] [What Breads Work Best for French Toast?](https://lifehacker.com/what-breads-work-best-for-french-toast-1849175684)
-- [Lifehacker] [How to Crumble Soft Cheese Without Making a Smeared Mess](https://lifehacker.com/how-to-crumble-soft-cheese-without-making-a-smeared-mes-1849176001)
-- [Lifehacker] [Avoid ATM Fees With These Debit Cards](https://lifehacker.com/avoid-atm-fees-with-these-debit-cards-1849165852)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
