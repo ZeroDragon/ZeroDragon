@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Comprehensive Guide to KDevelop C++ for Beginners](https://dev.to/professionalw0/a-comprehensive-guide-to-kdevelop-c-for-beginners-fi4)
 - [Lifehacker] [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
 - [Dev.to/JS] [Testes com Jest - Primeiros passos](https://dev.to/andersonmalheiro/testes-com-jest-primeiros-passos-1l7p)
 - [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [sector de la Minería](https://dev.to/juanedu98077220/sector-de-la-mineria-50k3)
 - [Dev.to/JS] [tendremos stands personalizables](https://dev.to/juanedu98077220/tendremos-stands-personalizables-9l8)
 - [Dev.to/JS] [Esta exhibición híbrida](https://dev.to/juanedu98077220/esta-exhibicion-hibrida-4o3k)
-- [Dev.to/JS] [My portofolio project](https://dev.to/jossa/my-portofolio-project-2ld5)
 - [Lifehacker] [These Items Actually Got Cheaper This Month](https://lifehacker.com/these-items-actually-got-cheaper-this-month-1849179215)
 - [Lifehacker] [How to Avoid Your Car Getting Repossessed](https://lifehacker.com/how-to-avoid-your-car-getting-repossessed-1849178720)
 - [Lifehacker] [You Can Finally Delete Duplicate Photos on iPhone Without a Third-Party App](https://lifehacker.com/you-can-finally-delete-duplicate-photos-on-iphone-witho-1849172210)
