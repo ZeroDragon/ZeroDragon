@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Your Joke Texts With Scammers Will Backfire](https://lifehacker.com/your-joke-texts-with-scammers-will-backfire-1849178959)
+- [Dev.to/JS] [How to Make a Real Estate Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-real-estate-website-using-html-css-javascript-1hjc)
+- [Dev.to/JS] [Information Flow in React.js](https://dev.to/spencerwmathews/information-flow-in-reactjs-2e19)
+- [Dev.to/JS] [Starting with machine learning and neural network](https://dev.to/shresthadev403/starting-with-machine-learning-and-neural-network-2hp8)
 - [Dev.to/JS] [React Native + Tensorflow.js - implementing a model](https://dev.to/aldo95/react-native-tensorflowjs-implementing-a-model-2pj6)
 - [Dev.to/JS] [Inline switch statements in javascript?](https://dev.to/balastrong/inline-switch-statements-in-javascript-23fh)
 - [Dev.to/JS] [why an entrepreneur passionate to start a crypto exchange business like localbitcoins clone script](https://dev.to/thecryptoapeo/why-an-entrepreneur-passionate-to-start-a-crypto-exchange-business-like-localbitcoins-clone-script-3j93)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Exploring HTMX: building dynamic web apps without JavaScript](https://dev.to/asayerio_techblog/exploring-htmx-building-dynamic-web-apps-without-javascript-3g94)
 - [Dev.to/JS] [Sending emails from React with EmailJS](https://dev.to/asayerio_techblog/sending-emails-from-react-with-emailjs-e3o)
 - [Dev.to/JS] [How to contribute to an Open Source project as a Beginner - The Flow](https://dev.to/surajondev/how-to-contribute-to-an-open-source-project-as-a-beginner-the-flow-5b03)
-- [Dev.to/JS] [Fastest way to learn to code and get fired!](https://dev.to/codewithshahan/fastest-way-to-learn-to-code-and-get-fired-506)
-- [Dev.to/JS] [TypeScript [Capítulo 1] ¿Qué es TypeScript? Instalación y tipos básicos](https://dev.to/achamorro_dev/typescript-capitulo-1-que-es-typescript-instalacion-y-tipos-basicos-4jbl)
-- [Dev.to/JS] [4 Reasons You Should Avoid Function&#39;s Side-Effects](https://dev.to/mbarzeev/4-reasons-you-should-avoid-functions-side-effects-20ai)
 - [Lifehacker] [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
 - [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
 - [Lifehacker] [How to Eat Shrimp Tails and Heads &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-eat-shrimp-tails-and-heads-and-why-you-should-1849179239)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
 - [Lifehacker] [This Is How Much Water to Pack When You Go to the Beach](https://lifehacker.com/this-is-how-much-water-to-pack-when-you-go-to-the-beach-1849174476)
 - [Lifehacker] [This Is the Best Butter for Browning](https://lifehacker.com/this-is-the-best-butter-for-browning-1849174807)
-- [Lifehacker] [13 of the Most Perplexing Exercise &#39;Cues&#39; and What They Really Mean](https://lifehacker.com/13-of-the-most-perplexing-exercise-cues-and-what-they-r-1849170702)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
