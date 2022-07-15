@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #168: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-168-explica-este-codigo-javascript-ej4)
+- [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
+- [Dev.to/JS] [how to make a discord bot to take screenshots of a site](https://dev.to/rtagliavia/how-to-make-a-discord-bot-to-take-screenshots-of-a-site-52aa)
+- [Dev.to/JS] [A Workaround - &quot;Uncaught TypeError: Cannot read properties of null&quot;](https://dev.to/penelopedurand/a-workaround-uncaught-typeerror-cannot-read-properties-of-null-5a80)
+- [Dev.to/JS] [Search Functionality using Formik](https://dev.to/irajbhinde/search-functionality-using-formik-o9o)
 - [Dev.to/JS] [JavaScript Classes. Pt 2](https://dev.to/wonuola_w/javascript-classes-pt-2-1a6f)
 - [Dev.to/JS] [Why is JavaScript Single-Threaded and Non-Blocking](https://dev.to/elijahtrillionz/why-is-javascript-single-threaded-and-non-blocking-3m5n)
 - [Dev.to/JS] [🚀Style your Vue.js website faster with Stylify CSS](https://dev.to/machy8/style-your-vuejs-website-faster-with-stylify-css-4g3m)
@@ -31,14 +36,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducción a JSON Web Token.](https://dev.to/gdcodev/introduccion-a-json-web-token-3mjf)
 - [Dev.to/JS] [Free &amp; Discount Online Courses - July 15th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-15th-2022-2fp5)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
-- [Dev.to/JS] [Anunciando la JSConf Chile! 🇨🇱🎉](https://dev.to/fforres/anunciando-la-jsconf-chile-370b)
+- [Dev.to/JS] [Anunciando la JSConf Chile! 🇨🇱🎉](https://dev.to/jsconfcl/anunciando-la-jsconf-chile-370b)
 - [Lifehacker] [Your First Aid Kit May Be Expired](https://lifehacker.com/your-first-aid-kit-may-be-expired-1849183977)
 - [Dev.to/JS] [Why React but not Vue!!](https://dev.to/sem1colons/why-react-but-not-vue-4h98)
 - [Lifehacker] [How to Keep Your Cutting Board From Sliding Around](https://lifehacker.com/how-to-keep-your-cutting-board-from-sliding-around-1849180398)
-- [Dev.to/JS] [MetaLean Complete - Is it a Scam or Legit Benefits And Ingredients?](https://dev.to/metaleancomple2/metalean-complete-is-it-a-scam-or-legit-benefits-and-ingredients-18e)
-- [Dev.to/JS] [My Time at Flatiron School](https://dev.to/loganzimm4/my-time-at-flatiron-school-2mlh)
-- [Dev.to/JS] [Check out my new programming language called - Boson, written in Rust!](https://dev.to/narasimha1997/check-out-my-new-programming-language-called-boson-written-in-rust-1bkj)
-- [Dev.to/JS] [Surf JS - An Insanely Small JavaScript UI Library With Reactive Element Templates](https://dev.to/bretgeek/surf-js-an-insanely-small-javascript-ui-library-with-reactive-element-templates-48bf)
 - [Lifehacker] [Delete These Sneaky Malware Apps from Your Android ASAP](https://lifehacker.com/delete-these-sneaky-malware-apps-from-your-android-asap-1849182983)
 - [Lifehacker] [Survive the Sriracha Shortage by Making Your Own](https://lifehacker.com/survive-the-sriracha-shortage-by-making-your-own-1849183082)
 - [Lifehacker] [How to Use &#39;Lockdown Mode&#39; on iOS 16 and macOS Ventura](https://lifehacker.com/how-to-use-lockdown-mode-on-ios-16-and-macos-ventura-1849179969)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Avoid Your Car Getting Repossessed](https://lifehacker.com/how-to-avoid-your-car-getting-repossessed-1849178720)
 - [Lifehacker] [You Can Finally Delete Duplicate Photos on iPhone Without a Third-Party App](https://lifehacker.com/you-can-finally-delete-duplicate-photos-on-iphone-witho-1849172210)
 - [Lifehacker] [How to Creep on Someone’s LinkedIn Profile Without Them Knowing](https://lifehacker.com/how-to-creep-on-someone-s-linkedin-profile-without-them-1849178015)
-- [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1849178083)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
