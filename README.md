@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Freeze Your Pop-Tarts](https://lifehacker.com/why-you-should-freeze-your-pop-tarts-1849180329)
+- [Dev.to/JS] [What Every Developer Must Know About Types of Browser Storage](https://dev.to/hackmamba/what-every-developer-must-know-about-types-of-browser-storage-3bb5)
+- [Dev.to/JS] [¿Cómo usar Lottie animations &amp; React JS? 🖌️](https://dev.to/franklin030601/como-usar-lottie-animations-react-js-4afj)
+- [Dev.to/JS] [How to use Lottie animations &amp; React JS? 🖌️](https://dev.to/franklin030601/how-to-use-lottie-animations-react-js-cn0)
+- [Dev.to/JS] [From one to zero: My journey into coding](https://dev.to/seyaji/from-one-to-zero-my-journey-into-coding-b20)
+- [Lifehacker] [How to Adopt One of the 4,000 Beagles Rescued From a Breeding Facility](https://lifehacker.com/how-to-adopt-one-of-the-4-000-beagles-rescued-from-a-br-1849180318)
 - [Lifehacker] [Your Joke Texts With Scammers Will Backfire](https://lifehacker.com/your-joke-texts-with-scammers-will-backfire-1849178959)
 - [Dev.to/JS] [How to Make a Real Estate Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-real-estate-website-using-html-css-javascript-1hjc)
 - [Dev.to/JS] [Information Flow in React.js](https://dev.to/spencerwmathews/information-flow-in-reactjs-2e19)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [why an entrepreneur passionate to start a crypto exchange business like localbitcoins clone script](https://dev.to/thecryptoapeo/why-an-entrepreneur-passionate-to-start-a-crypto-exchange-business-like-localbitcoins-clone-script-3j93)
 - [Dev.to/JS] [Leetcode practice &lpar;Day 1&rpar;](https://dev.to/miccwan/leetcode-practice-day-1-1k)
 - [Dev.to/JS] [Redux-Toolkit and React-Redux For App-Wide State Management](https://dev.to/mikey247/redux-toolkit-and-react-redux-for-app-wide-state-management-44i)
-- [Dev.to/JS] [Debugging Memory Leaks in JavaScript](https://dev.to/robinjangu/debugging-memory-leaks-in-javascript-lff)
-- [Dev.to/JS] [Exploring HTMX: building dynamic web apps without JavaScript](https://dev.to/asayerio_techblog/exploring-htmx-building-dynamic-web-apps-without-javascript-3g94)
-- [Dev.to/JS] [Sending emails from React with EmailJS](https://dev.to/asayerio_techblog/sending-emails-from-react-with-emailjs-e3o)
-- [Dev.to/JS] [How to contribute to an Open Source project as a Beginner - The Flow](https://dev.to/surajondev/how-to-contribute-to-an-open-source-project-as-a-beginner-the-flow-5b03)
 - [Lifehacker] [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
 - [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
 - [Lifehacker] [How to Eat Shrimp Tails and Heads &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-eat-shrimp-tails-and-heads-and-why-you-should-1849179239)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 - [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
 - [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
-- [Lifehacker] [This Is How Much Water to Pack When You Go to the Beach](https://lifehacker.com/this-is-how-much-water-to-pack-when-you-go-to-the-beach-1849174476)
-- [Lifehacker] [This Is the Best Butter for Browning](https://lifehacker.com/this-is-the-best-butter-for-browning-1849174807)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
