@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Classes. Pt 2](https://dev.to/wonuola_w/javascript-classes-pt-2-1a6f)
+- [Dev.to/JS] [Why is JavaScript Single-Threaded and Non-Blocking](https://dev.to/elijahtrillionz/why-is-javascript-single-threaded-and-non-blocking-3m5n)
+- [Dev.to/JS] [🚀Style your Vue.js website faster with Stylify CSS](https://dev.to/machy8/style-your-vuejs-website-faster-with-stylify-css-4g3m)
+- [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
+- [Dev.to/JS] [Say hello to my little &lpar;VERY helpful&rpar; friend: console.log&lpar;&rpar;](https://dev.to/btdavis300/say-hello-to-my-little-very-helpful-friend-consolelog-37fi)
+- [Dev.to/JS] [Introducción a JSON Web Token.](https://dev.to/gdcodev/introduccion-a-json-web-token-3mjf)
+- [Dev.to/JS] [Free &amp; Discount Online Courses - July 15th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-15th-2022-2fp5)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
 - [Dev.to/JS] [Anunciando la JSConf Chile! 🇨🇱🎉](https://dev.to/fforres/anunciando-la-jsconf-chile-370b)
 - [Lifehacker] [Your First Aid Kit May Be Expired](https://lifehacker.com/your-first-aid-kit-may-be-expired-1849183977)
@@ -32,15 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My Time at Flatiron School](https://dev.to/loganzimm4/my-time-at-flatiron-school-2mlh)
 - [Dev.to/JS] [Check out my new programming language called - Boson, written in Rust!](https://dev.to/narasimha1997/check-out-my-new-programming-language-called-boson-written-in-rust-1bkj)
 - [Dev.to/JS] [Surf JS - An Insanely Small JavaScript UI Library With Reactive Element Templates](https://dev.to/bretgeek/surf-js-an-insanely-small-javascript-ui-library-with-reactive-element-templates-48bf)
-- [Dev.to/JS] [Knowing the right Map🗺: .map&lpar;&rpar; vs map&lpar;&rpar;](https://dev.to/mrdebfx/knowing-the-right-map-map-vs-map-3d79)
 - [Lifehacker] [Delete These Sneaky Malware Apps from Your Android ASAP](https://lifehacker.com/delete-these-sneaky-malware-apps-from-your-android-asap-1849182983)
-- [Dev.to/JS] [#Server-Side Rendering Vs Client-Side Renderin](https://dev.to/sawdahoque234/server-side-rendering-vs-client-side-rendering-1o1i)
-- [Dev.to/JS] [How to Build Uber Clone with React &lpar;Ep. 2&rpar; [FREE &amp; DETAIL COURSE]](https://dev.to/hieptl/how-to-build-uber-clone-with-react-ep-2-free-detail-course-3aif)
 - [Lifehacker] [Survive the Sriracha Shortage by Making Your Own](https://lifehacker.com/survive-the-sriracha-shortage-by-making-your-own-1849183082)
-- [Dev.to/JS] [Codewars Challenge Day 4: ROT13](https://dev.to/qroia/codewars-challenge-day-4-rot13-5cg8)
-- [Dev.to/JS] [How to Comment Code in JavaScript – Best Practices](https://dev.to/max88git/how-to-comment-code-in-javascript-best-practices-5de1)
 - [Lifehacker] [How to Use &#39;Lockdown Mode&#39; on iOS 16 and macOS Ventura](https://lifehacker.com/how-to-use-lockdown-mode-on-ios-16-and-macos-ventura-1849179969)
-- [Dev.to/JS] [Write the program to convert the binary to decimal ?](https://dev.to/theamitprajapati/write-the-program-to-convert-the-binary-to-decimal--32bo)
 - [Lifehacker] [The Biggest Construction Red Flags to Look for in a Brand New Home](https://lifehacker.com/the-biggest-construction-red-flags-to-look-for-in-a-bra-1849182688)
 - [Lifehacker] [All the Best New Mail Features in iOS16](https://lifehacker.com/all-the-best-new-mail-features-in-ios16-1849181818)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Are We Meme-ing the Webb Telescope Images?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-how-are-w-1849181285)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Finally Delete Duplicate Photos on iPhone Without a Third-Party App](https://lifehacker.com/you-can-finally-delete-duplicate-photos-on-iphone-witho-1849172210)
 - [Lifehacker] [How to Creep on Someone’s LinkedIn Profile Without Them Knowing](https://lifehacker.com/how-to-creep-on-someone-s-linkedin-profile-without-them-1849178015)
 - [Lifehacker] [How to Have More Sex](https://lifehacker.com/how-to-have-more-sex-1849178083)
-- [Lifehacker] [Don&#39;t Sleep on Credit Unions for Your Mortgage](https://lifehacker.com/dont-sleep-on-credit-unions-for-your-mortgage-1849177951)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
