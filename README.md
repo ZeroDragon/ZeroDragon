@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Getter and Setter](https://dev.to/professionalw0/javascript-getter-and-setter-471j)
+- [Dev.to/JS] [What the DOM?](https://dev.to/acortez8988/what-the-dom-39b0)
+- [Dev.to/JS] [Learn php oop from scratch](https://dev.to/professionalw0/learn-php-oop-from-scratch-c30)
+- [Dev.to/JS] [Difference between “ == “ and “ === “ operators](https://dev.to/professionalw0/difference-between-and-operators-2o5n)
 - [Dev.to/JS] [A Comprehensive Guide to KDevelop C++ for Beginners](https://dev.to/professionalw0/a-comprehensive-guide-to-kdevelop-c-for-beginners-fi4)
 - [Lifehacker] [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
 - [Dev.to/JS] [Testes com Jest - Primeiros passos](https://dev.to/andersonmalheiro/testes-com-jest-primeiros-passos-1l7p)
@@ -38,10 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
 - [Dev.to/JS] [Hi, guys am a junior Frontend Developer](https://dev.to/deji_py/hi-guys-am-a-junior-frontend-developer-549c)
 - [Lifehacker] [The Best Way to Get Every Last Bit of Hot Sauce Out of the Bottle](https://lifehacker.com/the-best-way-to-get-every-last-bit-of-hot-sauce-out-of-1849178907)
-- [Dev.to/JS] [Bun : JavaScript just got way Faster](https://dev.to/ahmed_onour/bun-javascript-just-got-way-faster-4ofc)
-- [Dev.to/JS] [sector de la Minería](https://dev.to/juanedu98077220/sector-de-la-mineria-50k3)
-- [Dev.to/JS] [tendremos stands personalizables](https://dev.to/juanedu98077220/tendremos-stands-personalizables-9l8)
-- [Dev.to/JS] [Esta exhibición híbrida](https://dev.to/juanedu98077220/esta-exhibicion-hibrida-4o3k)
 - [Lifehacker] [These Items Actually Got Cheaper This Month](https://lifehacker.com/these-items-actually-got-cheaper-this-month-1849179215)
 - [Lifehacker] [How to Avoid Your Car Getting Repossessed](https://lifehacker.com/how-to-avoid-your-car-getting-repossessed-1849178720)
 - [Lifehacker] [You Can Finally Delete Duplicate Photos on iPhone Without a Third-Party App](https://lifehacker.com/you-can-finally-delete-duplicate-photos-on-iphone-witho-1849172210)
