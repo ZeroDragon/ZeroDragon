@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How Svelte-Native Works?](https://dev.to/deotyma/how-svelte-native-works-2pel)
 - [Dev.to/JS] [JavaScript Getter and Setter](https://dev.to/professionalw0/javascript-getter-and-setter-471j)
 - [Dev.to/JS] [What the DOM?](https://dev.to/acortez8988/what-the-dom-39b0)
 - [Dev.to/JS] [Learn php oop from scratch](https://dev.to/professionalw0/learn-php-oop-from-scratch-c30)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Things You Should Never Lie About in a Job Interview](https://lifehacker.com/three-things-you-should-never-lie-about-in-a-job-interv-1849179570)
 - [Lifehacker] [What Is Novavax, and Is It Better Than the Other COVID Vaccines?](https://lifehacker.com/what-is-novavax-and-is-it-better-than-the-other-covid-1849179412)
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
-- [Dev.to/JS] [Hi, guys am a junior Frontend Developer](https://dev.to/deji_py/hi-guys-am-a-junior-frontend-developer-549c)
 - [Lifehacker] [The Best Way to Get Every Last Bit of Hot Sauce Out of the Bottle](https://lifehacker.com/the-best-way-to-get-every-last-bit-of-hot-sauce-out-of-1849178907)
 - [Lifehacker] [These Items Actually Got Cheaper This Month](https://lifehacker.com/these-items-actually-got-cheaper-this-month-1849179215)
 - [Lifehacker] [How to Avoid Your Car Getting Repossessed](https://lifehacker.com/how-to-avoid-your-car-getting-repossessed-1849178720)
