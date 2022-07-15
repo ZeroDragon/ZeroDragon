@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Event Loop](https://dev.to/karamkoujan/the-event-loop-46dj)
+- [Dev.to/JS] [Leet Code - Roman Numeral to Integer Function in JavaScript](https://dev.to/anuj8126/leet-code-roman-numeral-to-integer-function-in-javascript-2o58)
+- [Dev.to/JS] [Finally completed Rock, Paper, Scissors&lpar;The Odin Project&rpar;](https://dev.to/taepal467/finally-completed-rock-paper-scissorsthe-odin-project-4hkl)
+- [Dev.to/JS] [How to save data in Firebase Realtime Database ? &lpar;Javascript&rpar;](https://dev.to/youssefdev98/how-to-save-data-in-firebase-realtime-database-javascript-3f4f)
+- [Dev.to/JS] [Mathematical Beauty in Action | Pursuit Curves](https://dev.to/sebcodestheweb/mathematical-beauty-in-action-pursuit-curves-5gjl)
 - [Dev.to/JS] [Paracetamol.js💊| #168: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-168-explica-este-codigo-javascript-ej4)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Dev.to/JS] [how to make a discord bot to take screenshots of a site](https://dev.to/rtagliavia/how-to-make-a-discord-bot-to-take-screenshots-of-a-site-52aa)
@@ -32,13 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why is JavaScript Single-Threaded and Non-Blocking](https://dev.to/elijahtrillionz/why-is-javascript-single-threaded-and-non-blocking-3m5n)
 - [Dev.to/JS] [🚀Style your Vue.js website faster with Stylify CSS](https://dev.to/machy8/style-your-vuejs-website-faster-with-stylify-css-4g3m)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
-- [Dev.to/JS] [Say hello to my little &lpar;VERY helpful&rpar; friend: console.log&lpar;&rpar;](https://dev.to/btdavis300/say-hello-to-my-little-very-helpful-friend-consolelog-37fi)
-- [Dev.to/JS] [Introducción a JSON Web Token.](https://dev.to/gdcodev/introduccion-a-json-web-token-3mjf)
-- [Dev.to/JS] [Free &amp; Discount Online Courses - July 15th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-15th-2022-2fp5)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
-- [Dev.to/JS] [Anunciando la JSConf Chile! 🇨🇱🎉](https://dev.to/jsconfcl/anunciando-la-jsconf-chile-370b)
 - [Lifehacker] [Your First Aid Kit May Be Expired](https://lifehacker.com/your-first-aid-kit-may-be-expired-1849183977)
-- [Dev.to/JS] [Why React but not Vue!!](https://dev.to/sem1colons/why-react-but-not-vue-4h98)
 - [Lifehacker] [How to Keep Your Cutting Board From Sliding Around](https://lifehacker.com/how-to-keep-your-cutting-board-from-sliding-around-1849180398)
 - [Lifehacker] [Delete These Sneaky Malware Apps from Your Android ASAP](https://lifehacker.com/delete-these-sneaky-malware-apps-from-your-android-asap-1849182983)
 - [Lifehacker] [Survive the Sriracha Shortage by Making Your Own](https://lifehacker.com/survive-the-sriracha-shortage-by-making-your-own-1849183082)
