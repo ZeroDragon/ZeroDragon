@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [3 killer tools to debug your Monorepos](https://dev.to/jozsefdevs/3-killer-tools-to-debug-your-monorepos-4bph)
+- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Are We Meme-ing the Webb Telescope Images?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-how-are-w-1849181285)
+- [Dev.to/JS] [What is Go | why it is used | All-time-dev](https://dev.to/alltimedevlopment/what-is-go-why-it-is-used-all-time-dev-4nek)
+- [Dev.to/JS] [You can actually mutate imports in Javascript](https://dev.to/ogzhanolguncu/you-can-actually-mutate-imports-in-javascript-443b)
+- [Dev.to/JS] [Teaching Cars to Drive with Neuroevolution, Tensorflow, and 500 lines of Javascript](https://dev.to/codesphere/teaching-cars-to-drive-with-neuroevolution-tensorflow-and-500-lines-of-javascript-3bh8)
+- [Dev.to/JS] [We raised $8M Seed round for our open source Shopify challenger](https://dev.to/medusajs/we-raised-8m-seed-round-for-our-open-source-shopify-challenger-4khk)
 - [Lifehacker] [Why You Should Freeze Your Pop-Tarts](https://lifehacker.com/why-you-should-freeze-your-pop-tarts-1849180329)
 - [Dev.to/JS] [What Every Developer Must Know About Types of Browser Storage](https://dev.to/hackmamba/what-every-developer-must-know-about-types-of-browser-storage-3bb5)
 - [Dev.to/JS] [¿Cómo usar Lottie animations &amp; React JS? 🖌️](https://dev.to/franklin030601/como-usar-lottie-animations-react-js-4afj)
@@ -33,11 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Make a Real Estate Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-real-estate-website-using-html-css-javascript-1hjc)
 - [Dev.to/JS] [Information Flow in React.js](https://dev.to/spencerwmathews/information-flow-in-reactjs-2e19)
 - [Dev.to/JS] [Starting with machine learning and neural network](https://dev.to/shresthadev403/starting-with-machine-learning-and-neural-network-2hp8)
-- [Dev.to/JS] [React Native + Tensorflow.js - implementing a model](https://dev.to/aldo95/react-native-tensorflowjs-implementing-a-model-2pj6)
-- [Dev.to/JS] [Inline switch statements in javascript?](https://dev.to/balastrong/inline-switch-statements-in-javascript-23fh)
-- [Dev.to/JS] [why an entrepreneur passionate to start a crypto exchange business like localbitcoins clone script](https://dev.to/thecryptoapeo/why-an-entrepreneur-passionate-to-start-a-crypto-exchange-business-like-localbitcoins-clone-script-3j93)
-- [Dev.to/JS] [Leetcode practice &lpar;Day 1&rpar;](https://dev.to/miccwan/leetcode-practice-day-1-1k)
-- [Dev.to/JS] [Redux-Toolkit and React-Redux For App-Wide State Management](https://dev.to/mikey247/redux-toolkit-and-react-redux-for-app-wide-state-management-44i)
 - [Lifehacker] [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
 - [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
 - [Lifehacker] [How to Eat Shrimp Tails and Heads &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-eat-shrimp-tails-and-heads-and-why-you-should-1849179239)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Avoid ATM Fees With These Debit Cards](https://lifehacker.com/avoid-atm-fees-with-these-debit-cards-1849165852)
 - [Lifehacker] [How to Use Your Roku&#39;s &#39;Private Listening&#39; Mode](https://lifehacker.com/how-to-use-your-rokus-private-listening-mode-1849174545)
 - [Lifehacker] [What to Do When Your Plane Cabin Fills With Fog](https://lifehacker.com/what-to-do-when-your-plane-cabin-fills-with-fog-1849174484)
-- [Lifehacker] [These Credit Cards Offer the Best Airport Perks](https://lifehacker.com/these-credit-cards-offer-the-best-airport-perks-1849174585)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
