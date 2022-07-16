@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Code Smell 149 - Optional Chaining](https://dev.to/mcsee/code-smell-149-optional-chaining-jk)
+- [Dev.to/JS] [WHY SHOULD KIDS LEARN APP DEVELOPMENT](https://dev.to/fliptotech/why-should-kids-learn-app-development-jo0)
 - [Dev.to/JS] [Removing Duplicate Objects from an Array](https://dev.to/kevinzcs/removing-duplicate-objects-from-an-array-pdl)
 - [Dev.to/JS] [Let&#39;s get to know what&#39;s type coercion in javascript](https://dev.to/amr_yasser/lets-get-to-know-whats-type-coercion-in-javascript-543k)
 - [Dev.to/JS] [Working with Strings in JavaScript Tutorial](https://dev.to/rembertdesigns/working-with-strings-in-javascript-tutorial-4e68)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Finally completed Rock, Paper, Scissors&lpar;The Odin Project&rpar;](https://dev.to/taepal467/finally-completed-rock-paper-scissorsthe-odin-project-4hkl)
 - [Dev.to/JS] [How to save data in Firebase Realtime Database ? &lpar;Javascript&rpar;](https://dev.to/youssefdev98/how-to-save-data-in-firebase-realtime-database-javascript-3f4f)
 - [Dev.to/JS] [Mathematical Beauty in Action | Pursuit Curves](https://dev.to/sebcodestheweb/mathematical-beauty-in-action-pursuit-curves-5gjl)
-- [Dev.to/JS] [Paracetamol.js💊| #168: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-168-explica-este-codigo-javascript-ej4)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
-- [Dev.to/JS] [how to make a discord bot to take screenshots of a site](https://dev.to/rtagliavia/how-to-make-a-discord-bot-to-take-screenshots-of-a-site-52aa)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
 - [Lifehacker] [Your First Aid Kit May Be Expired](https://lifehacker.com/your-first-aid-kit-may-be-expired-1849183977)
