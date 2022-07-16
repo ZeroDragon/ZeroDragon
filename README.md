@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/mateusz_janusz/hoisting-in-javascript-1dk6)
+- [Dev.to/JS] [Introduction to JavaScript](https://dev.to/aliyuadeniji/introduction-to-javascript-40m9)
+- [Dev.to/JS] [Prototypes](https://dev.to/hrishix6/prototypes-1pd6)
 - [Dev.to/JS] [QR code scanner app using React native](https://dev.to/codemaker2015/qr-code-scanner-app-using-react-native-eog)
 - [Dev.to/JS] [SignIn with Google according to new update](https://dev.to/201b153/signin-with-google-according-to-new-update-21kb)
 - [Dev.to/JS] [How to convert html to pdf &lpar;something like a generated invoice&rpar; and send it to an email](https://dev.to/pelsky1/how-to-convert-html-to-pdf-something-like-a-generated-invoice-and-send-it-to-an-email-728)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How can add checkbox in input from enter?](https://dev.to/ankit3131/how-can-add-checkbox-in-input-from-enter-335c)
 - [Dev.to/JS] [AWS S3?](https://dev.to/raktim_yoddha07/aws-s3-53cd)
 - [Dev.to/JS] [Portfolio Project](https://dev.to/prajyu/portfolio-project-1426)
-- [Dev.to/JS] [Avoid Else Statement In Your Function To Write a Clean Code](https://dev.to/estotriramdani/avoid-else-statement-in-your-function-to-write-a-clean-code-1l85)
-- [Dev.to/JS] [Access Files from AWS S3 Bucket Using NodeJs](https://dev.to/raktim_yoddha07/access-files-from-aws-s3-bucket-using-nodejs-1p0m)
-- [Dev.to/JS] [More then 25 Blogs On Cypress and other tools](https://dev.to/kailashpathak7/more-then-25-blogs-on-cypress-and-other-tools-1091)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
