@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [QuickBooks Desktop Mac 2021 Features](https://dev.to/amarawilliam4/quickbooks-desktop-mac-2021-features-2o8d)
+- [Dev.to/JS] [How to Build Login Component with React [FREE &amp; DETAIL COURSE]](https://dev.to/hieptl/how-to-build-login-component-with-react-free-detail-course-4nam)
 - [Dev.to/JS] [Meet BUN !!](https://dev.to/subhafx/meet-bun--5eii)
 - [Dev.to/JS] [Create a react app with bun](https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o)
 - [Dev.to/JS] [React Custom Hooks: Cómo crearlos y usarlos](https://dev.to/sebastianmaciel/react-custom-hooks-como-crearlos-y-usarlos-2bfo)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Working with Strings in JavaScript Tutorial](https://dev.to/rembertdesigns/working-with-strings-in-javascript-tutorial-4e68)
 - [Dev.to/JS] [Various ways of finding user location and showing on Leaflet maps : ReactJS](https://dev.to/manojkmishra/logic-behind-finding-user-location-via-web-apps-reactjs-57no)
 - [Dev.to/JS] [How to test third-party React Native components using React Native Testing Library](https://dev.to/hmcodes/how-to-test-third-party-react-native-components-using-react-native-testing-library-g58)
-- [Dev.to/JS] [The Event Loop](https://dev.to/karamkoujan/the-event-loop-46dj)
-- [Dev.to/JS] [Leet Code - Roman Numeral to Integer Function in JavaScript](https://dev.to/anuj8126/leet-code-roman-numeral-to-integer-function-in-javascript-2o58)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
