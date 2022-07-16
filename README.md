@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [useLazyLoad: Code-splitting in React WITHOUT Suspense](https://dev.to/tmns/uselazyload-code-splitting-in-react-without-suspense-4e2o)
+- [Dev.to/JS] [Finding Bounding Box using Mapbox GL on React Native](https://dev.to/kyle12jung/finding-bounding-box-using-mapbox-gl-on-react-native-3nma)
+- [Dev.to/JS] [🎩The Magic of || and &amp;&amp; in JavaScript](https://dev.to/mistval/the-magic-of-and-in-javascript-49k4)
+- [Dev.to/JS] [Free &amp; Discount Online Courses - July 16th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-16th-2022-442h)
+- [Dev.to/JS] [Some Newborn Open Source Repositories](https://dev.to/behnamazimi/some-newborn-open-source-repositories-1im9)
+- [Dev.to/JS] [Code-splitting in React WITHOUT Suspense: useLazyLoad](https://dev.to/tmns/uselazyload-code-splitting-in-react-without-suspense-4e2o)
 - [Dev.to/JS] [A little continuous is better than a lot that is interrupted.](https://dev.to/yousefsabealeish/a-little-continuous-is-better-than-a-lot-that-is-interrupted-h18)
 - [Dev.to/JS] [How to load website resources asynchronously](https://dev.to/tomek_21/how-to-load-website-resources-asynchronously-55ep)
 - [Dev.to/JS] [Build a TODO app using Vanilla JavaScript](https://dev.to/pettiboy/build-a-todo-app-using-vanilla-javascript-3d5)
@@ -32,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Dev.to/JS] [OpenAI with SvelteKit: Basic integration](https://dev.to/theether0/openai-with-sveltekit-basic-integration-560c)
 - [Dev.to/JS] [Using JavaScript Debounce to Only Send Network Request When User Stops Typing](https://dev.to/bran0593/using-javascript-debounce-to-only-send-network-request-when-user-stops-typing-137l)
-- [Dev.to/JS] [React + Redux](https://dev.to/mdanassabah/react-redux-4ldk)
-- [Dev.to/JS] [How to Build a Connector Map in JS](https://dev.to/andreykh1985/how-to-build-a-connector-map-in-js-4b6m)
-- [Dev.to/JS] [How to deploy Node.js projects to Heroku](https://dev.to/collegewap/how-to-deploy-nodejs-projects-to-heroku-17i2)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
-- [Dev.to/JS] [Getting started with React Dnd-Kit](https://dev.to/shubhadip/getting-started-with-react-dnd-kit-3djb)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
