@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Do Developers Prefer Linux?](https://dev.to/techmaniacc/why-do-developers-prefer-linux-32a3)
+- [Dev.to/JS] [How does Optional Chaining work in Javascript?](https://dev.to/smpnjn/how-does-optional-chaining-work-in-javascript-55ke)
+- [Dev.to/JS] [Help with integrating Angular into an Angular JS webapp](https://dev.to/triangular/help-with-integrating-angular-into-an-angular-js-webapp-4n61)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
 - [Dev.to/JS] [Functions as First-Class Citizens in Javascript](https://dev.to/rakshit/functions-as-first-class-citizens-in-javascript-26mj)
 - [Dev.to/JS] [Adding a simple Hotwire ping tool in a Rails application](https://dev.to/mansakondo/adding-a-simple-hotwire-ping-tool-in-a-rails-application-41fb)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Protected Routes In React](https://dev.to/hat52/protected-routes-in-react-2m7c)
 - [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/mateusz_janusz/hoisting-in-javascript-1dk6)
 - [Dev.to/JS] [Introduction to JavaScript](https://dev.to/aliyuadeniji/introduction-to-javascript-40m9)
-- [Dev.to/JS] [Prototypes](https://dev.to/hrishix6/prototypes-1pd6)
-- [Dev.to/JS] [QR code scanner app using React native](https://dev.to/codemaker2015/qr-code-scanner-app-using-react-native-eog)
-- [Dev.to/JS] [SignIn with Google according to new update](https://dev.to/201b153/signin-with-google-according-to-new-update-21kb)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
