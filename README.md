@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [useLazyLoad: Code-splitting in React WITHOUT Suspense](https://dev.to/tmns/uselazyload-code-splitting-in-react-without-suspense-4e2o)
+- [Dev.to/JS] [A little continuous is better than a lot that is interrupted.](https://dev.to/yousefsabealeish/a-little-continuous-is-better-than-a-lot-that-is-interrupted-h18)
 - [Dev.to/JS] [How to load website resources asynchronously](https://dev.to/tomek_21/how-to-load-website-resources-asynchronously-55ep)
 - [Dev.to/JS] [Build a TODO app using Vanilla JavaScript](https://dev.to/pettiboy/build-a-todo-app-using-vanilla-javascript-3d5)
 - [Dev.to/JS] [I’ve Launched My First Web Development Mastery Product on Gumroad](https://dev.to/nitinfab/ive-launched-my-first-web-development-mastery-product-on-gumroad-cc0)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to deploy Node.js projects to Heroku](https://dev.to/collegewap/how-to-deploy-nodejs-projects-to-heroku-17i2)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Dev.to/JS] [Getting started with React Dnd-Kit](https://dev.to/shubhadip/getting-started-with-react-dnd-kit-3djb)
-- [Dev.to/JS] [Building password validation with strength meter in React with hooks](https://dev.to/brunoelo/building-password-validation-with-strength-meter-in-react-with-hooks-2mi6)
-- [Dev.to/JS] [JavaScript Promises and Async Await](https://dev.to/endalk200/javascript-promises-and-async-await-192m)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
