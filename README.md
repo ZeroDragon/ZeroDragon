@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Dev.to/JS] [OpenAI with SvelteKit: Basic integration](https://dev.to/theether0/openai-with-sveltekit-basic-integration-560c)
 - [Dev.to/JS] [Using JavaScript Debounce to Only Send Network Request When User Stops Typing](https://dev.to/bran0593/using-javascript-debounce-to-only-send-network-request-when-user-stops-typing-137l)
 - [Dev.to/JS] [React + Redux](https://dev.to/mdanassabah/react-redux-4ldk)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
 - [Lifehacker] [The Best Way to Get Every Last Bit of Hot Sauce Out of the Bottle](https://lifehacker.com/the-best-way-to-get-every-last-bit-of-hot-sauce-out-of-1849178907)
 - [Lifehacker] [These Items Actually Got Cheaper This Month](https://lifehacker.com/these-items-actually-got-cheaper-this-month-1849179215)
-- [Lifehacker] [How to Avoid Your Car Getting Repossessed](https://lifehacker.com/how-to-avoid-your-car-getting-repossessed-1849178720)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
