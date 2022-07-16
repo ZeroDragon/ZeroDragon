@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Removing Duplicate Objects from an Array](https://dev.to/kevinzcs/removing-duplicate-objects-from-an-array-pdl)
+- [Dev.to/JS] [Let&#39;s get to know what&#39;s type coercion in javascript](https://dev.to/amr_yasser/lets-get-to-know-whats-type-coercion-in-javascript-543k)
+- [Dev.to/JS] [Working with Strings in JavaScript Tutorial](https://dev.to/rembertdesigns/working-with-strings-in-javascript-tutorial-4e68)
+- [Dev.to/JS] [Various ways of finding user location and showing on Leaflet maps : ReactJS](https://dev.to/manojkmishra/logic-behind-finding-user-location-via-web-apps-reactjs-57no)
 - [Dev.to/JS] [How to test third-party React Native components using React Native Testing Library](https://dev.to/hmcodes/how-to-test-third-party-react-native-components-using-react-native-testing-library-g58)
 - [Dev.to/JS] [The Event Loop](https://dev.to/karamkoujan/the-event-loop-46dj)
 - [Dev.to/JS] [Leet Code - Roman Numeral to Integer Function in JavaScript](https://dev.to/anuj8126/leet-code-roman-numeral-to-integer-function-in-javascript-2o58)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #168: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-168-explica-este-codigo-javascript-ej4)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Dev.to/JS] [how to make a discord bot to take screenshots of a site](https://dev.to/rtagliavia/how-to-make-a-discord-bot-to-take-screenshots-of-a-site-52aa)
-- [Dev.to/JS] [A Workaround - &quot;Uncaught TypeError: Cannot read properties of null&quot;](https://dev.to/penelopedurand/a-workaround-uncaught-typeerror-cannot-read-properties-of-null-5a80)
-- [Dev.to/JS] [Search Functionality using Formik](https://dev.to/irajbhinde/search-functionality-using-formik-o9o)
-- [Dev.to/JS] [JavaScript Classes. Pt 2](https://dev.to/wonuola_w/javascript-classes-pt-2-1a6f)
-- [Dev.to/JS] [Why is JavaScript Single-Threaded and Non-Blocking](https://dev.to/elijahtrillionz/why-is-javascript-single-threaded-and-non-blocking-3m5n)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
 - [Lifehacker] [Your First Aid Kit May Be Expired](https://lifehacker.com/your-first-aid-kit-may-be-expired-1849183977)
