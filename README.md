@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React + Redux](https://dev.to/mdanassabah/react-redux-4ldk)
+- [Dev.to/JS] [How to Build a Connector Map in JS](https://dev.to/andreykh1985/how-to-build-a-connector-map-in-js-4b6m)
+- [Dev.to/JS] [How to deploy Node.js projects to Heroku](https://dev.to/collegewap/how-to-deploy-nodejs-projects-to-heroku-17i2)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
+- [Dev.to/JS] [Getting started with React Dnd-Kit](https://dev.to/shubhadip/getting-started-with-react-dnd-kit-3djb)
 - [Dev.to/JS] [Building password validation with strength meter in React with hooks](https://dev.to/brunoelo/building-password-validation-with-strength-meter-in-react-with-hooks-2mi6)
 - [Dev.to/JS] [JavaScript Promises and Async Await](https://dev.to/endalk200/javascript-promises-and-async-await-192m)
 - [Dev.to/JS] [Why Do Developers Prefer Linux?](https://dev.to/techmaniacc/why-do-developers-prefer-linux-32a3)
@@ -33,10 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Functions as First-Class Citizens in Javascript](https://dev.to/rakshit/functions-as-first-class-citizens-in-javascript-26mj)
 - [Dev.to/JS] [Adding a simple Hotwire ping tool in a Rails application](https://dev.to/mansakondo/adding-a-simple-hotwire-ping-tool-in-a-rails-application-41fb)
 - [Dev.to/JS] [RocketGraph 🧑‍🚀 : Serverless backend for your web apps 🚀 &lpar;OPEN-SOURCE&rpar;](https://dev.to/kaushik94/rocketgraph-serverless-backend-for-your-web-apps-open-source-31j7)
-- [Dev.to/JS] [CONTEXT API &amp; UseReducer Hook in React](https://dev.to/avinashvagh/context-api-usereducer-hook-in-react-25m2)
-- [Dev.to/JS] [Deep Dive into Data structures using Javascript - Deque &lpar;Double ended Queue&rpar;](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-deque-double-ended-queue-4999)
-- [Dev.to/JS] [How does the Javascript logical AND &lpar;&amp;&amp;&rpar; operator work?](https://dev.to/smpnjn/how-does-the-javascript-logical-and-operator-work-2och)
-- [Dev.to/JS] [Protected Routes In React](https://dev.to/hat52/protected-routes-in-react-2m7c)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
