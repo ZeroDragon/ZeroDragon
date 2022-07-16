@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Create a react app with bun](https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o)
+- [Dev.to/JS] [React Custom Hooks: Cómo crearlos y usarlos](https://dev.to/sebastianmaciel/react-custom-hooks-como-crearlos-y-usarlos-2bfo)
 - [Dev.to/JS] [Code Smell 149 - Optional Chaining](https://dev.to/mcsee/code-smell-149-optional-chaining-jk)
 - [Dev.to/JS] [WHY SHOULD KIDS LEARN APP DEVELOPMENT](https://dev.to/fliptotech/why-should-kids-learn-app-development-jo0)
 - [Dev.to/JS] [Removing Duplicate Objects from an Array](https://dev.to/kevinzcs/removing-duplicate-objects-from-an-array-pdl)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Event Loop](https://dev.to/karamkoujan/the-event-loop-46dj)
 - [Dev.to/JS] [Leet Code - Roman Numeral to Integer Function in JavaScript](https://dev.to/anuj8126/leet-code-roman-numeral-to-integer-function-in-javascript-2o58)
 - [Dev.to/JS] [Finally completed Rock, Paper, Scissors&lpar;The Odin Project&rpar;](https://dev.to/taepal467/finally-completed-rock-paper-scissorsthe-odin-project-4hkl)
-- [Dev.to/JS] [How to save data in Firebase Realtime Database ? &lpar;Javascript&rpar;](https://dev.to/youssefdev98/how-to-save-data-in-firebase-realtime-database-javascript-3f4f)
-- [Dev.to/JS] [Mathematical Beauty in Action | Pursuit Curves](https://dev.to/sebcodestheweb/mathematical-beauty-in-action-pursuit-curves-5gjl)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
