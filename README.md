@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [OpenAI with SvelteKit: Basic integration](https://dev.to/theether0/openai-with-sveltekit-basic-integration-560c)
+- [Dev.to/JS] [Using JavaScript Debounce to Only Send Network Request When User Stops Typing](https://dev.to/bran0593/using-javascript-debounce-to-only-send-network-request-when-user-stops-typing-137l)
 - [Dev.to/JS] [React + Redux](https://dev.to/mdanassabah/react-redux-4ldk)
 - [Dev.to/JS] [How to Build a Connector Map in JS](https://dev.to/andreykh1985/how-to-build-a-connector-map-in-js-4b6m)
 - [Dev.to/JS] [How to deploy Node.js projects to Heroku](https://dev.to/collegewap/how-to-deploy-nodejs-projects-to-heroku-17i2)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Help with integrating Angular into an Angular JS webapp](https://dev.to/triangular/help-with-integrating-angular-into-an-angular-js-webapp-4n61)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
 - [Dev.to/JS] [Functions as First-Class Citizens in Javascript](https://dev.to/rakshit/functions-as-first-class-citizens-in-javascript-26mj)
-- [Dev.to/JS] [Adding a simple Hotwire ping tool in a Rails application](https://dev.to/mansakondo/adding-a-simple-hotwire-ping-tool-in-a-rails-application-41fb)
-- [Dev.to/JS] [RocketGraph 🧑‍🚀 : Serverless backend for your web apps 🚀 &lpar;OPEN-SOURCE&rpar;](https://dev.to/kaushik94/rocketgraph-serverless-backend-for-your-web-apps-open-source-31j7)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
