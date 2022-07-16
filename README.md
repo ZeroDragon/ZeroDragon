@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
+- [Dev.to/JS] [Building password validation with strength meter in React with hooks](https://dev.to/brunoelo/building-password-validation-with-strength-meter-in-react-with-hooks-2mi6)
+- [Dev.to/JS] [JavaScript Promises and Async Await](https://dev.to/endalk200/javascript-promises-and-async-await-192m)
 - [Dev.to/JS] [Why Do Developers Prefer Linux?](https://dev.to/techmaniacc/why-do-developers-prefer-linux-32a3)
 - [Dev.to/JS] [How does Optional Chaining work in Javascript?](https://dev.to/smpnjn/how-does-optional-chaining-work-in-javascript-55ke)
 - [Dev.to/JS] [Help with integrating Angular into an Angular JS webapp](https://dev.to/triangular/help-with-integrating-angular-into-an-angular-js-webapp-4n61)
@@ -34,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deep Dive into Data structures using Javascript - Deque &lpar;Double ended Queue&rpar;](https://dev.to/humblecoder00/deep-dive-into-data-structures-using-javascript-deque-double-ended-queue-4999)
 - [Dev.to/JS] [How does the Javascript logical AND &lpar;&amp;&amp;&rpar; operator work?](https://dev.to/smpnjn/how-does-the-javascript-logical-and-operator-work-2och)
 - [Dev.to/JS] [Protected Routes In React](https://dev.to/hat52/protected-routes-in-react-2m7c)
-- [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/mateusz_janusz/hoisting-in-javascript-1dk6)
-- [Dev.to/JS] [Introduction to JavaScript](https://dev.to/aliyuadeniji/introduction-to-javascript-40m9)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
 - [Lifehacker] [Three of the Best Substitutes for Laundry Detergent](https://lifehacker.com/three-of-the-best-substitutes-for-laundry-detergent-1849184346)
 - [Lifehacker] [How to &lpar;Maybe&rpar; Survive a Nuclear Missile Attack](https://lifehacker.com/how-to-maybe-survive-a-nuclear-missile-attack-1849183192)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Way to Get Every Last Bit of Hot Sauce Out of the Bottle](https://lifehacker.com/the-best-way-to-get-every-last-bit-of-hot-sauce-out-of-1849178907)
 - [Lifehacker] [These Items Actually Got Cheaper This Month](https://lifehacker.com/these-items-actually-got-cheaper-this-month-1849179215)
 - [Lifehacker] [How to Avoid Your Car Getting Repossessed](https://lifehacker.com/how-to-avoid-your-car-getting-repossessed-1849178720)
-- [Lifehacker] [You Can Finally Delete Duplicate Photos on iPhone Without a Third-Party App](https://lifehacker.com/you-can-finally-delete-duplicate-photos-on-iphone-witho-1849172210)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
