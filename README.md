@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Comparações - parte 1 JavaScript](https://dev.to/h4ck3rtr4d3r/comparacoes-parte-1-javascript-1hlp)
+- [Dev.to/JS] [Creating a collapsible component for React](https://dev.to/asayerio_techblog/creating-a-collapsible-component-for-react-f06)
+- [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
+- [Dev.to/JS] [Debounce is a good example of closure](https://dev.to/gohomewho/debounce-is-a-good-example-of-closure-391d)
 - [Dev.to/JS] [I Made an Automatic Color Theme Generator for Tailwind CSS](https://dev.to/jordantwells42/i-made-an-automatic-color-theme-generator-for-tailwind-css-1gbk)
 - [Dev.to/JS] [How I turned a Viral TikTok trend into a Web Application with Next.js](https://dev.to/jordantwells42/how-i-turned-a-viral-tiktok-trend-into-a-web-application-with-nextjs-18lc)
 - [Dev.to/JS] [How I created a Responsive Personal Portfolio Website with Next.js](https://dev.to/jordantwells42/how-i-created-a-responsive-personal-portfolio-website-with-nextjs-197k)
@@ -32,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Scope in JavaScript](https://dev.to/hermitex/scope-in-javascript-14hi)
 - [Dev.to/JS] [How to trigger a fail2ban action to t6 ?](https://dev.to/mathcoll/how-to-trigger-a-fail2ban-action-to-t6--o84)
 - [Dev.to/JS] [Let&#39;s learn React by building this awesome project](https://dev.to/prateek951/lets-learn-react-by-building-this-awesome-project-2noe)
-- [Dev.to/JS] [Performing Reverse Geocoding and Visualization of COVID-19 world cases using JavaScript](https://dev.to/prateek951/performing-reverse-geocoding-and-visualization-of-covid-19-world-cases-using-javascript-26k2)
-- [Dev.to/JS] [The 10 JS Projects You Need to Build in order to become a PRO !](https://dev.to/prateek951/the-10-js-projects-you-need-to-build-in-order-to-become-a-pro--44m9)
-- [Dev.to/JS] [RTP LIVE](https://dev.to/rtplivedev/rtp-live-614)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Is Novavax, and Is It Better Than the Other COVID Vaccines?](https://lifehacker.com/what-is-novavax-and-is-it-better-than-the-other-covid-1849179412)
 - [Lifehacker] [How to Return All of Your Ill-Advised Amazon Prime Day Purchases](https://lifehacker.com/how-to-return-all-of-your-ill-advised-amazon-prime-day-1849179296)
 - [Lifehacker] [The Best Way to Get Every Last Bit of Hot Sauce Out of the Bottle](https://lifehacker.com/the-best-way-to-get-every-last-bit-of-hot-sauce-out-of-1849178907)
-- [Lifehacker] [These Items Actually Got Cheaper This Month](https://lifehacker.com/these-items-actually-got-cheaper-this-month-1849179215)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
