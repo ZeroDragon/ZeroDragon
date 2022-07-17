@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [An Better way to call mui alert dialog](https://dev.to/akshaysrepo/an-better-way-to-call-mui-alert-dialog-18n7)
+- [Dev.to/JS] [Get the Zodiac Sign for a date in JavaScript](https://dev.to/besrourms/get-the-zodiac-sign-for-a-date-in-javascript-4d81)
+- [Dev.to/JS] [React Hook: useRunOnce](https://dev.to/perssondennis/react-hook-userunonce-48a8)
+- [Dev.to/JS] [A refreshing way to test the frontend](https://dev.to/noriller/a-refreshing-way-to-test-the-frontend-5a6c)
 - [Dev.to/JS] [Browser Testing With Cypress](https://dev.to/georgeoffley/browser-testing-with-cypress-33e6)
 - [Dev.to/JS] [How to make a Chrome Extension using React JS](https://dev.to/__shahidshaikh/how-to-make-a-chrome-extension-using-react-js-41bj)
 - [Dev.to/JS] [Next.js Authentication with NextAuth, tRPC and Prisma ORM](https://dev.to/franciscomendes10866/nextjs-authentication-with-next-auth-trpc-and-prisma-kgl)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
 - [Dev.to/JS] [Debounce is a good example of closure](https://dev.to/gohomewho/debounce-is-a-good-example-of-closure-391d)
 - [Dev.to/JS] [I Made an Automatic Color Theme Generator for Tailwind CSS](https://dev.to/jordantwells42/i-made-an-automatic-color-theme-generator-for-tailwind-css-1gbk)
-- [Dev.to/JS] [How I turned a Viral TikTok trend into a Web Application with Next.js](https://dev.to/jordantwells42/how-i-turned-a-viral-tiktok-trend-into-a-web-application-with-nextjs-18lc)
-- [Dev.to/JS] [How I created a Responsive Personal Portfolio Website with Next.js](https://dev.to/jordantwells42/how-i-created-a-responsive-personal-portfolio-website-with-nextjs-197k)
-- [Dev.to/JS] [Full Stack Youtube Clone &lpar;5 hours free tutorial&rpar;](https://dev.to/safak/full-stack-youtube-clone-5-hours-free-tutorial-2kfg)
-- [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/hermitex/hoisting-in-javascript-2d95)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
