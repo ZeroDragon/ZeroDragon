@@ -23,7 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Google address autocomplete api with Laravel](https://dev.to/ranjit2/google-address-autocomplete-api-with-laravel-1bd4)
+- [Dev.to/JS] [Data Structures: Hash Tables II](https://dev.to/m13ha/data-structures-hash-tables-ii-1o5m)
+- [Dev.to/JS] [Searchable Data Table in Angular &lpar;NO Material&rpar; with SCSS, Useful Directives, JS methods, and Virtual Scroll](https://dev.to/riapacheco/searchable-data-table-in-angular-no-material-with-scss-useful-directives-js-methods-and-virtual-scroll-1ilh)
 - [Dev.to/JS] [When to use ref vs reactive in Vue](https://dev.to/aschmelyun/when-to-use-ref-vs-reactive-in-vue-24el)
 - [Dev.to/JS] [Comprehensive guide on Watch in Vue 3](https://dev.to/zelig880/comprehensive-guide-on-watch-in-vue-3-27k8)
 - [Dev.to/JS] [What are the Chatbots Technologies in JavaScript?](https://dev.to/ahmedmansoor012/what-are-the-chatbots-technologies-in-javascript-4mag)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Code-splitting in React WITHOUT Suspense: useLazyLoad](https://dev.to/tmns/uselazyload-code-splitting-in-react-without-suspense-4e2o)
 - [Dev.to/JS] [A little continuous is better than a lot that is interrupted.](https://dev.to/yousefsabealeish/a-little-continuous-is-better-than-a-lot-that-is-interrupted-h18)
 - [Dev.to/JS] [How to load website resources asynchronously](https://dev.to/tomek_21/how-to-load-website-resources-asynchronously-55ep)
-- [Dev.to/JS] [Build a TODO app using Vanilla JavaScript](https://dev.to/pettiboy/build-a-todo-app-using-vanilla-javascript-3d5)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
