@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Testing 101](https://dev.to/vedanthb/javascript-testing-101-1ac)
+- [Dev.to/JS] [JavaScript find min/max from array of objects](https://dev.to/dailydevtips1/javascript-find-minmax-from-array-of-objects-142g)
+- [Dev.to/JS] [7 Tips for Clean React TypeScript Code you Must Know 🧹✨](https://dev.to/ruppysuppy/7-tips-for-clean-react-typescript-code-you-must-know-2da2)
 - [Dev.to/JS] [What is the significance of, and reason for, wrapping the entire content of a JavaScript source file in a function block?](https://dev.to/anewman15/what-is-the-significance-of-and-reason-for-wrapping-the-entire-content-of-a-javascript-source-file-in-a-function-block-3pg2)
 - [Dev.to/JS] [Let&#39;s Talk About Hooks - Part 2 &lpar;useLayoutEffect and useMemo&rpar;](https://dev.to/alserembani/lets-talk-about-hooks-part-2-uselayouteffect-and-usememo-3f5h)
 - [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/10/22 - 7/16/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-71022-71622-57i5)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Searchable Data Table in Angular &lpar;NO Material&rpar; with SCSS, Useful Directives, JS methods, and Virtual Scroll](https://dev.to/riapacheco/searchable-data-table-in-angular-no-material-with-scss-useful-directives-js-methods-and-virtual-scroll-1ilh)
 - [Dev.to/JS] [When to use ref vs reactive in Vue](https://dev.to/aschmelyun/when-to-use-ref-vs-reactive-in-vue-24el)
 - [Dev.to/JS] [Comprehensive guide on Watch in Vue 3](https://dev.to/zelig880/comprehensive-guide-on-watch-in-vue-3-27k8)
-- [Dev.to/JS] [What are the Chatbots Technologies in JavaScript?](https://dev.to/ahmedmansoor012/what-are-the-chatbots-technologies-in-javascript-4mag)
-- [Dev.to/JS] [Finding Bounding Box using Mapbox GL on React Native](https://dev.to/kyle12jung/finding-bounding-box-using-mapbox-gl-on-react-native-3nma)
-- [Dev.to/JS] [🎩The Magic of || and &amp;&amp; in JavaScript](https://dev.to/mistval/the-magic-of-and-in-javascript-49k4)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
