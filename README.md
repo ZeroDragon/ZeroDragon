@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Browser Testing With Cypress](https://dev.to/georgeoffley/browser-testing-with-cypress-33e6)
+- [Dev.to/JS] [How to make a Chrome Extension using React JS](https://dev.to/__shahidshaikh/how-to-make-a-chrome-extension-using-react-js-41bj)
+- [Dev.to/JS] [Next.js Authentication with NextAuth, tRPC and Prisma ORM](https://dev.to/franciscomendes10866/nextjs-authentication-with-next-auth-trpc-and-prisma-kgl)
+- [Dev.to/JS] [3 Javascript utility functions to show you their importance](https://dev.to/oziheb/3-javascript-utility-functions-to-show-you-the-what-why-and-when-they-are-used-59ob)
 - [Dev.to/JS] [Comparações - parte 1 JavaScript](https://dev.to/h4ck3rtr4d3r/comparacoes-parte-1-javascript-1hlp)
 - [Dev.to/JS] [Creating a collapsible component for React](https://dev.to/asayerio_techblog/creating-a-collapsible-component-for-react-f06)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How I created a Responsive Personal Portfolio Website with Next.js](https://dev.to/jordantwells42/how-i-created-a-responsive-personal-portfolio-website-with-nextjs-197k)
 - [Dev.to/JS] [Full Stack Youtube Clone &lpar;5 hours free tutorial&rpar;](https://dev.to/safak/full-stack-youtube-clone-5-hours-free-tutorial-2kfg)
 - [Dev.to/JS] [Hoisting in JavaScript](https://dev.to/hermitex/hoisting-in-javascript-2d95)
-- [Dev.to/JS] [All about typeof](https://dev.to/sagargnawali/all-about-typeof-3oe9)
-- [Dev.to/JS] [Scope in JavaScript](https://dev.to/hermitex/scope-in-javascript-14hi)
-- [Dev.to/JS] [How to trigger a fail2ban action to t6 ?](https://dev.to/mathcoll/how-to-trigger-a-fail2ban-action-to-t6--o84)
-- [Dev.to/JS] [Let&#39;s learn React by building this awesome project](https://dev.to/prateek951/lets-learn-react-by-building-this-awesome-project-2noe)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
