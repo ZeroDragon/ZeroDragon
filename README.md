@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to add Comments section for free on your website?](https://dev.to/yashkapure06/how-to-add-comments-section-for-free-on-your-website-49n5)
+- [Dev.to/JS] [Weird thing I missed about Async/Await: Implicit Returns](https://dev.to/aderchox/weird-thing-i-missed-about-asyncawait-implicit-returns-131m)
 - [Dev.to/JS] [Pixa.Pics - 16Kb NFTs in pixel art from real life images!!!](https://dev.to/vipertechofficial/pixapics-16kb-nfts-in-pixel-art-from-real-life-images-lhp)
 - [Dev.to/JS] [?Error in Substring function in react](https://dev.to/hamsof/substring-function-in-react-5daa)
 - [Dev.to/JS] [Weekly Digest 28/222](https://dev.to/marcobiedermann/weekly-digest-28222-29h0)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Dev.to/JS] [10 เรื่องของ ES6 ที่คุณควรรู้ไว้ &lpar;ตอนที่ 4 Arrow Functions&rpar;](https://dev.to/iammen/10-eruuengkhng-es6-thiikhunkhwrruuaiw-tnthii-4-arrow-functions-2j8e)
 - [Dev.to/JS] [React.StrictMode](https://dev.to/lowandslow/reactstrictmode-7gm)
-- [Dev.to/JS] [How to control the value of a Datapoint using t6 ?](https://dev.to/mathcoll/how-to-control-the-value-of-a-datapoint-using-t6--l6b)
-- [Dev.to/JS] [React Life Cycle And Hook](https://dev.to/mahin678/react-life-cycle-and-hook-5bm4)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
