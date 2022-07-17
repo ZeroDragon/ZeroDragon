@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/10/22 - 7/16/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-71022-71622-57i5)
+- [Dev.to/JS] [jQuery Introduction Tutorial](https://dev.to/rembertdesigns/jquery-introduction-tutorial-53ee)
+- [Dev.to/JS] [Software Development Best Practices&lpar;DRY, KISS and YAGNI&rpar;](https://dev.to/desmondowusudev/best-practicesdry-kiss-and-yagni-2a60)
 - [Dev.to/JS] [Data Structures: Hash Tables II](https://dev.to/m13ha/data-structures-hash-tables-ii-1o5m)
 - [Dev.to/JS] [Searchable Data Table in Angular &lpar;NO Material&rpar; with SCSS, Useful Directives, JS methods, and Virtual Scroll](https://dev.to/riapacheco/searchable-data-table-in-angular-no-material-with-scss-useful-directives-js-methods-and-virtual-scroll-1ilh)
 - [Dev.to/JS] [When to use ref vs reactive in Vue](https://dev.to/aschmelyun/when-to-use-ref-vs-reactive-in-vue-24el)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🎩The Magic of || and &amp;&amp; in JavaScript](https://dev.to/mistval/the-magic-of-and-in-javascript-49k4)
 - [Dev.to/JS] [Free &amp; Discount Online Courses - July 16th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-16th-2022-442h)
 - [Dev.to/JS] [Some Newborn Open Source Repositories](https://dev.to/behnamazimi/some-newborn-open-source-repositories-1im9)
-- [Dev.to/JS] [Code-splitting in React WITHOUT Suspense: useLazyLoad](https://dev.to/tmns/uselazyload-code-splitting-in-react-without-suspense-4e2o)
-- [Dev.to/JS] [A little continuous is better than a lot that is interrupted.](https://dev.to/yousefsabealeish/a-little-continuous-is-better-than-a-lot-that-is-interrupted-h18)
-- [Dev.to/JS] [How to load website resources asynchronously](https://dev.to/tomek_21/how-to-load-website-resources-asynchronously-55ep)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
