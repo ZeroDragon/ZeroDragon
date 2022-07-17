@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Google address autocomplete api with Laravel](https://dev.to/ranjit2/google-address-autocomplete-api-with-laravel-1bd4)
+- [Dev.to/JS] [When to use ref vs reactive in Vue](https://dev.to/aschmelyun/when-to-use-ref-vs-reactive-in-vue-24el)
+- [Dev.to/JS] [Comprehensive guide on Watch in Vue 3](https://dev.to/zelig880/comprehensive-guide-on-watch-in-vue-3-27k8)
 - [Dev.to/JS] [What are the Chatbots Technologies in JavaScript?](https://dev.to/ahmedmansoor012/what-are-the-chatbots-technologies-in-javascript-4mag)
 - [Dev.to/JS] [Finding Bounding Box using Mapbox GL on React Native](https://dev.to/kyle12jung/finding-bounding-box-using-mapbox-gl-on-react-native-3nma)
 - [Dev.to/JS] [🎩The Magic of || and &amp;&amp; in JavaScript](https://dev.to/mistval/the-magic-of-and-in-javascript-49k4)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [A little continuous is better than a lot that is interrupted.](https://dev.to/yousefsabealeish/a-little-continuous-is-better-than-a-lot-that-is-interrupted-h18)
 - [Dev.to/JS] [How to load website resources asynchronously](https://dev.to/tomek_21/how-to-load-website-resources-asynchronously-55ep)
 - [Dev.to/JS] [Build a TODO app using Vanilla JavaScript](https://dev.to/pettiboy/build-a-todo-app-using-vanilla-javascript-3d5)
-- [Dev.to/JS] [I’ve Launched My First Web Development Mastery Product on Gumroad](https://dev.to/nitinfab/ive-launched-my-first-web-development-mastery-product-on-gumroad-cc0)
-- [Dev.to/JS] [Hosting Javascript Code Online for free](https://dev.to/staticsave/hosting-javascript-code-online-for-free-3ace)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
-- [Dev.to/JS] [OpenAI with SvelteKit: Basic integration](https://dev.to/theether0/openai-with-sveltekit-basic-integration-560c)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
 - [Lifehacker] [You&#39;re Wrong About &#39;Beer Before Liquor&#39;](https://lifehacker.com/youre-wrong-about-beer-before-liquor-1849184328)
