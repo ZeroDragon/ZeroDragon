@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [RTP LIVE](https://dev.to/rtplivedev/rtp-live-614)
+- [Dev.to/JS] [Add to the DOM with JavaScript](https://dev.to/nicm42/add-to-the-dom-with-javascript-38ea)
 - [Dev.to/JS] [How to Build Uber Clone with React &lpar;Ep. 2&rpar; [FREE and DETAIL COURSE]](https://dev.to/hieptl/how-to-build-uber-clone-with-react-ep-2-free-and-detail-course-467)
 - [Dev.to/JS] [I am frusted, I yet to get an internship or a job. Please take a look](https://dev.to/hrmeheraj/i-am-frusted-i-yet-to-get-an-internship-or-a-job-please-take-a-look-4i89)
 - [Dev.to/JS] [HTML FOR BEGINNERS](https://dev.to/eoluwaseun/html-for-beginners-5efb)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What is the significance of, and reason for, wrapping the entire content of a JavaScript source file in a function block?](https://dev.to/anewman15/what-is-the-significance-of-and-reason-for-wrapping-the-entire-content-of-a-javascript-source-file-in-a-function-block-3pg2)
 - [Dev.to/JS] [Let&#39;s Talk About Hooks - Part 2 &lpar;useLayoutEffect and useMemo&rpar;](https://dev.to/alserembani/lets-talk-about-hooks-part-2-uselayouteffect-and-usememo-3f5h)
 - [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/10/22 - 7/16/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-71022-71622-57i5)
-- [Dev.to/JS] [jQuery Introduction Tutorial](https://dev.to/rembertdesigns/jquery-introduction-tutorial-53ee)
-- [Dev.to/JS] [Software Development Best Practices&lpar;DRY, KISS and YAGNI&rpar;](https://dev.to/desmondowusudev/best-practicesdry-kiss-and-yagni-2a60)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
