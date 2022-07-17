@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Build Uber Clone with React &lpar;Ep. 2&rpar; [FREE and DETAIL COURSE]](https://dev.to/hieptl/how-to-build-uber-clone-with-react-ep-2-free-and-detail-course-467)
+- [Dev.to/JS] [I am frusted, I yet to get an internship or a job. Please take a look](https://dev.to/hrmeheraj/i-am-frusted-i-yet-to-get-an-internship-or-a-job-please-take-a-look-4i89)
+- [Dev.to/JS] [HTML FOR BEGINNERS](https://dev.to/eoluwaseun/html-for-beginners-5efb)
+- [Dev.to/JS] [Svelte tips](https://dev.to/diogenesofweb/svelte-tips-hh6)
 - [Dev.to/JS] [JavaScript Testing 101](https://dev.to/vedanthb/javascript-testing-101-1ac)
 - [Dev.to/JS] [JavaScript find min/max from array of objects](https://dev.to/dailydevtips1/javascript-find-minmax-from-array-of-objects-142g)
 - [Dev.to/JS] [7 Tips for Clean React TypeScript Code you Must Know 🧹✨](https://dev.to/ruppysuppy/7-tips-for-clean-react-typescript-code-you-must-know-2da2)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/10/22 - 7/16/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-71022-71622-57i5)
 - [Dev.to/JS] [jQuery Introduction Tutorial](https://dev.to/rembertdesigns/jquery-introduction-tutorial-53ee)
 - [Dev.to/JS] [Software Development Best Practices&lpar;DRY, KISS and YAGNI&rpar;](https://dev.to/desmondowusudev/best-practicesdry-kiss-and-yagni-2a60)
-- [Dev.to/JS] [Data Structures: Hash Tables II](https://dev.to/m13ha/data-structures-hash-tables-ii-1o5m)
-- [Dev.to/JS] [Searchable Data Table in Angular &lpar;NO Material&rpar; with SCSS, Useful Directives, JS methods, and Virtual Scroll](https://dev.to/riapacheco/searchable-data-table-in-angular-no-material-with-scss-useful-directives-js-methods-and-virtual-scroll-1ilh)
-- [Dev.to/JS] [When to use ref vs reactive in Vue](https://dev.to/aschmelyun/when-to-use-ref-vs-reactive-in-vue-24el)
-- [Dev.to/JS] [Comprehensive guide on Watch in Vue 3](https://dev.to/zelig880/comprehensive-guide-on-watch-in-vue-3-27k8)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
