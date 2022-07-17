@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Starting My Coding Journey &lpar;First with JavaScript&rpar;](https://dev.to/vassovass/starting-my-coding-journey-first-with-javascript-2kf)
+- [Dev.to/JS] [How to Build A BMI Calculator in React JS - useState Hook &amp; Conditionals | Beginner](https://dev.to/ziontutorial/how-to-build-a-bmi-calculator-in-react-js-usestate-hook-conditionals-beginner-44ah)
+- [Dev.to/JS] [Lazy initial states in React](https://dev.to/angelmm/lazy-initial-states-in-react-1ca4)
+- [Dev.to/JS] [Share your ideas that never made it to production](https://dev.to/janeori/share-your-ideas-that-never-made-it-to-production-1ckl)
 - [Dev.to/JS] [styled-components](https://dev.to/samanthaelainef/styled-components-3d4g)
 - [Dev.to/JS] [LeetCode - Search in Rotated Sorted Array II](https://dev.to/_alkesh26/leetcode-search-in-rotated-sorted-array-ii-22b5)
 - [Dev.to/JS] [How to add Comments section for free on your website?](https://dev.to/yashkapure06/how-to-add-comments-section-for-free-on-your-website-49n5)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [?Error in Substring function in react](https://dev.to/hamsof/substring-function-in-react-5daa)
 - [Dev.to/JS] [Weekly Digest 28/222](https://dev.to/marcobiedermann/weekly-digest-28222-29h0)
 - [Dev.to/JS] [Using TailwindCSS in SvelteKit to make a Design System : Part One](https://dev.to/theether0/using-tailwindcss-in-sveltekit-to-make-a-design-system-part-one-4k3p)
-- [Dev.to/JS] [Dynamic Tab Title in Angular](https://dev.to/entangledcognition/dynamic-tab-title-in-angular-26jg)
-- [Dev.to/JS] [Anyone needs push notifications for changes in RavenDB](https://dev.to/topuzas/anyone-needs-push-notifications-for-changes-in-ravendb-1014)
-- [Dev.to/JS] [Imitate lodash get method](https://dev.to/machy44/own-lodash-get-method-1ji3)
-- [Dev.to/JS] [A simple NextJS blog template for developers [Open Source]](https://dev.to/devkiran/a-simple-nextjs-blog-template-for-developers-open-source-2k32)
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
