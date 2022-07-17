@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Laravel Livewire Turbolinks with Image lazyload](https://dev.to/shshank/laravel-livewire-turbolinks-with-image-lazyload-3kll)
+- [Dev.to/JS] [An Introduction to the DOM Tutorial](https://dev.to/rembertdesigns/an-introduction-to-the-dom-tutorial-3npk)
+- [Dev.to/JS] [Leetcode practice #2](https://dev.to/miccwan/leetcode-practice-2-51pg)
 - [Dev.to/JS] [An Better way to call mui alert dialog](https://dev.to/akshaysrepo/an-better-way-to-call-mui-alert-dialog-18n7)
 - [Dev.to/JS] [Get the Zodiac Sign for a date in JavaScript](https://dev.to/besrourms/get-the-zodiac-sign-for-a-date-in-javascript-4d81)
 - [Dev.to/JS] [React Hook: useRunOnce](https://dev.to/perssondennis/react-hook-userunonce-48a8)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Next.js Authentication with NextAuth, tRPC and Prisma ORM](https://dev.to/franciscomendes10866/nextjs-authentication-with-next-auth-trpc-and-prisma-kgl)
 - [Dev.to/JS] [3 Javascript utility functions to show you their importance](https://dev.to/oziheb/3-javascript-utility-functions-to-show-you-the-what-why-and-when-they-are-used-59ob)
 - [Dev.to/JS] [Comparações - parte 1 JavaScript](https://dev.to/h4ck3rtr4d3r/comparacoes-parte-1-javascript-1hlp)
-- [Dev.to/JS] [Creating a collapsible component for React](https://dev.to/asayerio_techblog/creating-a-collapsible-component-for-react-f06)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
-- [Dev.to/JS] [Debounce is a good example of closure](https://dev.to/gohomewho/debounce-is-a-good-example-of-closure-391d)
-- [Dev.to/JS] [I Made an Automatic Color Theme Generator for Tailwind CSS](https://dev.to/jordantwells42/i-made-an-automatic-color-theme-generator-for-tailwind-css-1gbk)
 - [Lifehacker] [Use This Mid-Summer Checklist to Keep Your Garden Growing](https://lifehacker.com/use-this-mid-summer-checklist-to-keep-your-garden-growi-1849184002)
 - [Lifehacker] [What to Do When Your Tire Blows Out While You&#39;re Driving](https://lifehacker.com/what-to-do-when-your-tire-blows-out-while-youre-driving-1849184011)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Toilet](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-toil-1849184056)
