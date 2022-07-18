@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Drop your JavaScript Problem Solving Questions 👇👇🧑‍💻](https://dev.to/sem1colons/drop-your-javascript-problem-solving-questions-g5l)
 - [Dev.to/JS] [Easiest way to connect database in javascript &lpar;3 simple steps&rpar;](https://dev.to/anand346/easiest-way-to-connect-database-in-javascript-3-simple-steps-2abf)
 - [Dev.to/JS] [The best marketing methods in the world](https://dev.to/professionalw0/the-best-marketing-methods-in-the-world-o1p)
 - [Dev.to/JS] [Scaling up your skill and escaping Tutorial Hell as a Frontend Developer.](https://dev.to/shege/scaling-up-your-skills-and-escaping-tutorial-hell-as-a-frontend-developer-using-free-resources-ik3)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Share your ideas that never made it to production](https://dev.to/janeori/share-your-ideas-that-never-made-it-to-production-1ckl)
 - [Dev.to/JS] [styled-components](https://dev.to/samanthaelainef/styled-components-3d4g)
 - [Dev.to/JS] [LeetCode - Search in Rotated Sorted Array II](https://dev.to/_alkesh26/leetcode-search-in-rotated-sorted-array-ii-22b5)
-- [Dev.to/JS] [How to add Comments section for free on your website?](https://dev.to/yashkapure06/how-to-add-comments-section-for-free-on-your-website-49n5)
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
