@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Two best practices of creating modals in React 18](https://dev.to/moghanbari/two-best-practices-of-creating-modals-in-react-18-4a1m)
+- [Dev.to/JS] [Dwight Schrute&#39;s Intro to Programming](https://dev.to/sebastianmaciel/dwight-schrutes-intro-to-programming-2fgl)
 - [Lifehacker] [Don&#39;t Miss the Final Supermoon of the Year](https://lifehacker.com/dont-miss-the-final-supermoon-of-the-year-1849190965)
 - [Lifehacker] [How Worried Should You Be About a Space Rock Destroying the Earth?](https://lifehacker.com/how-worried-should-you-be-about-a-space-rock-destroying-1849190978)
 - [Dev.to/JS] [Magnifying Glass for Text and more!](https://dev.to/eitanwaxman/magnifying-glass-for-text-and-more-5a57)
@@ -40,10 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Scrape HTML Tables in JavaScript [Export Table Data to a CSV]](https://dev.to/scraperapi/how-to-scrape-html-tables-in-javascript-export-table-data-to-a-csv-239b)
 - [Dev.to/JS] [Memoization in JavaScript and React](https://dev.to/akinolu52/memoization-in-javascript-and-react-4ni7)
 - [Lifehacker] [How to Get a Piece of the Monsanto Weed Killer Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-monsanto-weed-killer-settleme-1849189934)
-- [Dev.to/JS] [Getting Started with Live Transcription and Vue.js](https://dev.to/deepgram/getting-started-with-live-transcription-and-vuejs-1eba)
 - [Lifehacker] [The Easiest Way to Communicate Your Food Allergies While Traveling](https://lifehacker.com/the-easiest-way-to-communicate-your-food-allergies-whil-1849190530)
 - [Lifehacker] [You Can Win a Free Canadian National Parks Pass](https://lifehacker.com/you-can-win-a-free-canadian-national-parks-pass-1849189347)
-- [Dev.to/JS] [What is JavaScript&#39;s Anonymous and Arrow function?](https://dev.to/surajondev/what-is-javascripts-anonymous-and-arrow-function-273m)
 - [Lifehacker] [The One Thing You Should Check Before Opening Any App File](https://lifehacker.com/the-one-thing-you-should-check-before-opening-any-app-f-1849189644)
 - [Lifehacker] [How to Upscale Your Tiny Apartment Balcony](https://lifehacker.com/how-to-upscale-your-tiny-apartment-balcony-1849189659)
 - [Lifehacker] [Take These European Vacations While the Dollar Is Strong](https://lifehacker.com/take-these-european-vacations-while-the-dollar-is-stron-1849189049)
