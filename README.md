@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [What is Developer Experience?](https://dev.to/jacobandrewsky/what-is-developer-experience-2lh8)
+- [Dev.to/JS] [End-to-end Typesafe APIs with TypeScript and shared Zod schemas](https://dev.to/jussinevavuori/end-to-end-typesafe-apis-with-typescript-and-shared-zod-schemas-4jmo)
 - [Dev.to/JS] [Getting Started with Micro Frontends](https://dev.to/smapiot/getting-started-with-micro-frontends-ge9)
 - [Dev.to/JS] [One of the coolest features of Go. Embed ReactJS into a binary with Go](https://dev.to/pacholoamit/one-of-the-coolest-features-of-go-embed-reactjs-into-a-go-binary-41e9)
 - [Dev.to/JS] [Yarn upgrade version numbers in package.json](https://dev.to/olaj/yarn-upgrade-version-numbers-in-packagejson-2laf)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Amazing Pure CSS Scrolling Indicator Effect](https://dev.to/chokcoco/amazing-pure-css-scrolling-indicator-effect-5eja)
 - [Dev.to/JS] [Some valuable lessons as a Developer](https://dev.to/shshank/some-valuable-lessons-as-a-developer-152p)
 - [Dev.to/JS] [mercedes service history](https://dev.to/nicholasknight12/mercedes-service-history-15hm)
-- [Dev.to/JS] [Being a Web Developer - Programming Languages](https://dev.to/mrpaulishaili/being-a-web-developer-programming-languages-1mfj)
-- [Dev.to/JS] [Being a Web Developer - Getting Started](https://dev.to/mrpaulishaili/being-a-web-developer-getting-started-542o)
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
