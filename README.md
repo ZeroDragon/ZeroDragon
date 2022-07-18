@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Some valuable lessons as a Developer](https://dev.to/shshank/some-valuable-lessons-as-a-developer-152p)
+- [Dev.to/JS] [mercedes service history](https://dev.to/nicholasknight12/mercedes-service-history-15hm)
 - [Dev.to/JS] [Being a Web Developer - Programming Languages](https://dev.to/mrpaulishaili/being-a-web-developer-programming-languages-1mfj)
 - [Dev.to/JS] [Being a Web Developer - Getting Started](https://dev.to/mrpaulishaili/being-a-web-developer-getting-started-542o)
 - [Dev.to/JS] [What is the significance, and what are the benefits, of including &#39;use strict&#39; at the beginning of a JavaScript source file?](https://dev.to/anewman15/what-is-the-significance-and-what-are-the-benefits-of-including-use-strict-at-the-beginning-of-a-javascript-source-file-5c5l)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Drop your JavaScript Problem Solving Questions 👇👇🧑‍💻](https://dev.to/sem1colons/drop-your-javascript-problem-solving-questions-g5l)
 - [Dev.to/JS] [Easiest way to connect database in javascript &lpar;3 simple steps&rpar;](https://dev.to/anand346/easiest-way-to-connect-database-in-javascript-3-simple-steps-2abf)
 - [Dev.to/JS] [The best marketing methods in the world](https://dev.to/professionalw0/the-best-marketing-methods-in-the-world-o1p)
-- [Dev.to/JS] [Scaling up your skill and escaping Tutorial Hell as a Frontend Developer.](https://dev.to/shege/scaling-up-your-skills-and-escaping-tutorial-hell-as-a-frontend-developer-using-free-resources-ik3)
-- [Dev.to/JS] [Debugging beyond console.log](https://dev.to/soliloquizin/debugging-beyond-consolelog-4am5)
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
