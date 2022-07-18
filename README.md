@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The One Thing You Should Check Before Opening Any App File](https://lifehacker.com/the-one-thing-you-should-check-before-opening-any-app-f-1849189644)
+- [Dev.to/JS] [Using TailwindCSS in SvelteKit to make a Design System : Part Two](https://dev.to/theether0/using-tailwindcss-in-sveltekit-to-make-a-design-system-part-two-lp)
+- [Dev.to/JS] [Great progress made last week](https://dev.to/trustacks/great-progress-made-last-week-4jfg)
+- [Dev.to/JS] [Choosing Between SASS vs CSS Modules vs CSS-In-JS](https://dev.to/ndimares/choosing-between-sass-vs-css-modules-vs-css-in-js-2p9h)
+- [Lifehacker] [How to Upscale Your Tiny Apartment Balcony](https://lifehacker.com/how-to-upscale-your-tiny-apartment-balcony-1849189659)
+- [Dev.to/JS] [A universal TOAST widget for any website!](https://dev.to/2nthony/a-universal-toast-widget-for-any-website-ab5)
 - [Lifehacker] [Take These European Vacations While the Dollar Is Strong](https://lifehacker.com/take-these-european-vacations-while-the-dollar-is-stron-1849189049)
 - [Dev.to/JS] [How to show all subtasks in Asana](https://dev.to/aubreypwd/how-to-show-all-subtasks-in-asana-macos-517i)
 - [Lifehacker] [Track All of Your Travel Rewards Accounts With This App](https://lifehacker.com/track-all-of-your-travel-rewards-accounts-with-this-app-1849172848)
@@ -35,12 +41,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [JavaScript 配列によく使うメソッド](https://dev.to/kaede_io/javascript-array-methods-olk)
 - [Lifehacker] [The Bare Minimum Legal Terms That Everyone Should Know](https://lifehacker.com/the-bare-minimum-legal-terms-that-everyone-should-know-1849184696)
 - [Dev.to/JS] [Report Automation Test Results to Google Chat](https://dev.to/asaianudeep/report-automation-test-results-to-google-chat-1g7m)
-- [Dev.to/JS] [0 to 1- How JavaScript works under the hood](https://dev.to/idrazhar/0-to-1-series-how-javascript-works-under-the-hood-157f)
 - [Lifehacker] [The 7 Deadly Sins of Getting a Divorce](https://lifehacker.com/the-7-deadly-sins-of-getting-a-divorce-1849184941)
-- [Dev.to/JS] [Free &amp; Discount Online Courses - July 18th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-18th-2022-56cp)
-- [Dev.to/JS] [I create imagine dragons website !](https://dev.to/imdigitalashish/i-create-imagine-dragons-website--539d)
 - [Lifehacker] [10 Revolutionary Discoveries That Were Made More Recently Than You Think](https://lifehacker.com/10-revolutionary-discoveries-that-were-made-more-recent-1849184127)
-- [Dev.to/JS] [Web Development Vs. Android Development which is best?](https://dev.to/devcoder1432/web-development-vs-android-development-which-is-best-1bbn)
 - [Lifehacker] [How to Live-Caption Your FaceTime Calls](https://lifehacker.com/how-to-live-caption-your-facetim-calls-1849181796)
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Use &#39;Lockdown Mode&#39; on iOS 16 and macOS Ventura](https://lifehacker.com/how-to-use-lockdown-mode-on-ios-16-and-macos-ventura-1849179969)
 - [Lifehacker] [The Biggest Construction Red Flags to Look for in a Brand New Home](https://lifehacker.com/the-biggest-construction-red-flags-to-look-for-in-a-bra-1849182688)
 - [Lifehacker] [All the Best New Mail Features in iOS16](https://lifehacker.com/all-the-best-new-mail-features-in-ios16-1849181818)
-- [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Are We Meme-ing the Webb Telescope Images?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-how-are-w-1849181285)
-- [Lifehacker] [Why You Should Freeze Your Pop-Tarts](https://lifehacker.com/why-you-should-freeze-your-pop-tarts-1849180329)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
