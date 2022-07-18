@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Scaling up your skill and escaping Tutorial Hell as a Frontend Developer.](https://dev.to/shege/scaling-up-your-skills-and-escaping-tutorial-hell-as-a-frontend-developer-using-free-resources-ik3)
+- [Dev.to/JS] [Debugging beyond console.log](https://dev.to/soliloquizin/debugging-beyond-consolelog-4am5)
 - [Dev.to/JS] [Building a rock-paper-scissor game](https://dev.to/muedgar/building-a-rock-paper-scissor-game-l5k)
 - [Dev.to/JS] [Starting My Coding Journey &lpar;First with JavaScript&rpar;](https://dev.to/vassovass/starting-my-coding-journey-first-with-javascript-2kf)
 - [Dev.to/JS] [How to Build A BMI Calculator in React JS - useState Hook &amp; Conditionals | Beginner](https://dev.to/ziontutorial/how-to-build-a-bmi-calculator-in-react-js-usestate-hook-conditionals-beginner-44ah)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to add Comments section for free on your website?](https://dev.to/yashkapure06/how-to-add-comments-section-for-free-on-your-website-49n5)
 - [Dev.to/JS] [Weird thing I missed about Async/Await: Implicit Returns](https://dev.to/aderchox/weird-thing-i-missed-about-asyncawait-implicit-returns-131m)
 - [Dev.to/JS] [Pixa.Pics - 16Kb NFTs in pixel art from real life images!!!](https://dev.to/vipertechofficial/pixapics-16kb-nfts-in-pixel-art-from-real-life-images-lhp)
-- [Dev.to/JS] [?Error in Substring function in react](https://dev.to/hamsof/substring-function-in-react-5daa)
-- [Dev.to/JS] [Weekly Digest 28/222](https://dev.to/marcobiedermann/weekly-digest-28222-29h0)
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
