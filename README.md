@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Take These European Vacations While the Dollar Is Strong](https://lifehacker.com/take-these-european-vacations-while-the-dollar-is-stron-1849189049)
+- [Dev.to/JS] [How to show all subtasks in Asana](https://dev.to/aubreypwd/how-to-show-all-subtasks-in-asana-macos-517i)
+- [Lifehacker] [Track All of Your Travel Rewards Accounts With This App](https://lifehacker.com/track-all-of-your-travel-rewards-accounts-with-this-app-1849172848)
+- [Dev.to/JS] [Declaring Variables in JavaScript](https://dev.to/pjparham/declaring-variables-in-javascript-36f6)
 - [Dev.to/JS] [How to Automate Emails with Strapi CRON Jobs](https://dev.to/strapi/how-to-automate-emails-with-strapi-cron-jobs-338e)
 - [Dev.to/JS] [How to fill an array in JavaScript with initial values](https://dev.to/collegewap/how-to-fill-an-array-in-javascript-with-initial-values-1d4d)
 - [Lifehacker] [This Indian Shortbread Cookie Will Melt in Your Mouth](https://lifehacker.com/this-indian-shortbread-cookie-will-melt-in-your-mouth-1849185233)
@@ -37,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [I create imagine dragons website !](https://dev.to/imdigitalashish/i-create-imagine-dragons-website--539d)
 - [Lifehacker] [10 Revolutionary Discoveries That Were Made More Recently Than You Think](https://lifehacker.com/10-revolutionary-discoveries-that-were-made-more-recent-1849184127)
 - [Dev.to/JS] [Web Development Vs. Android Development which is best?](https://dev.to/devcoder1432/web-development-vs-android-development-which-is-best-1bbn)
-- [Dev.to/JS] [Why Node.JS](https://dev.to/mutahi97/why-nodejs-1o2h)
-- [Dev.to/JS] [How to Build a Crowdfunding Web3 Dapp – Let&#39;s Buy Twitter!](https://dev.to/thawkin3/how-to-build-a-crowdfunding-web3-dapp-lets-buy-twitter-2n48)
 - [Lifehacker] [How to Live-Caption Your FaceTime Calls](https://lifehacker.com/how-to-live-caption-your-facetim-calls-1849181796)
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Best New Mail Features in iOS16](https://lifehacker.com/all-the-best-new-mail-features-in-ios16-1849181818)
 - [Lifehacker] [The Out-of-Touch Adults&#39; Guide to Kid Culture: How Are We Meme-ing the Webb Telescope Images?](https://lifehacker.com/the-out-of-touch-adults-guide-to-kid-culture-how-are-w-1849181285)
 - [Lifehacker] [Why You Should Freeze Your Pop-Tarts](https://lifehacker.com/why-you-should-freeze-your-pop-tarts-1849180329)
-- [Lifehacker] [How to Adopt One of the 4,000 Beagles Rescued From a Breeding Facility](https://lifehacker.com/how-to-adopt-one-of-the-4-000-beagles-rescued-from-a-br-1849180318)
-- [Lifehacker] [Your Joke Texts With Scammers Will Backfire](https://lifehacker.com/your-joke-texts-with-scammers-will-backfire-1849178959)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
