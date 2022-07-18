@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The 7 Deadly Sins of Getting a Divorce](https://lifehacker.com/the-7-deadly-sins-of-getting-a-divorce-1849184941)
+- [Dev.to/JS] [Free &amp; Discount Online Courses - July 18th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-18th-2022-56cp)
+- [Dev.to/JS] [I create imagine dragons website !](https://dev.to/imdigitalashish/i-create-imagine-dragons-website--539d)
+- [Lifehacker] [10 Revolutionary Discoveries That Were Made More Recently Than You Think](https://lifehacker.com/10-revolutionary-discoveries-that-were-made-more-recent-1849184127)
+- [Dev.to/JS] [Web Development Vs. Android Development which is best?](https://dev.to/devcoder1432/web-development-vs-android-development-which-is-best-1bbn)
 - [Dev.to/JS] [Why Node.JS](https://dev.to/mutahi97/why-nodejs-1o2h)
 - [Dev.to/JS] [How to Build a Crowdfunding Web3 Dapp – Let&#39;s Buy Twitter!](https://dev.to/thawkin3/how-to-build-a-crowdfunding-web3-dapp-lets-buy-twitter-2n48)
 - [Dev.to/JS] [Pipy 0.50.0 is released!](https://dev.to/naqvis/pipy-0500-is-released-7d1)
@@ -33,9 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [20 Interesting Facts of Java Course In Bangalore for Beginners](https://dev.to/zuhas8/20-interesting-facts-of-java-course-in-bangalore-for-beginners-3e8e)
 - [Dev.to/JS] [Dev Discussions: How to Reduce your Angular Bundle Size with Google Developers Expert Santosh Yadav](https://dev.to/coderpad/dev-discussions-how-to-reduce-your-angular-bundle-size-with-google-developers-expert-santosh-yadav-2c3k)
 - [Dev.to/JS] [How To Make Personal Portfolio Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-make-personal-portfolio-using-html-css-javascript-2760)
-- [Dev.to/JS] [Who Is Buzzing About the Via Keto Capsules?](https://dev.to/gottsstevens/who-is-buzzing-about-the-via-keto-capsules-3m87)
-- [Dev.to/JS] [4 steps to add absolute imports in reactjs](https://dev.to/shreyvijayvargiya/4-steps-to-add-absolute-imports-in-reactjs-592d)
-- [Dev.to/JS] [Sending real-time notifications with Socket.io in Node.js](https://dev.to/novu/sending-real-time-notifications-with-socketio-in-nodejs-1l5j)
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your Joke Texts With Scammers Will Backfire](https://lifehacker.com/your-joke-texts-with-scammers-will-backfire-1849178959)
 - [Lifehacker] [How to Master a Sleep Routine That Actually Works](https://lifehacker.com/how-to-master-a-sleep-routine-that-actually-works-1849180354)
 - [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
-- [Lifehacker] [How to Eat Shrimp Tails and Heads &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-eat-shrimp-tails-and-heads-and-why-you-should-1849179239)
-- [Lifehacker] [Three Things You Should Never Lie About in a Job Interview](https://lifehacker.com/three-things-you-should-never-lie-about-in-a-job-interv-1849179570)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
