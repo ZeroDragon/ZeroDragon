@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why Node.JS](https://dev.to/mutahi97/why-nodejs-1o2h)
+- [Dev.to/JS] [How to Build a Crowdfunding Web3 Dapp – Let&#39;s Buy Twitter!](https://dev.to/thawkin3/how-to-build-a-crowdfunding-web3-dapp-lets-buy-twitter-2n48)
+- [Dev.to/JS] [Pipy 0.50.0 is released!](https://dev.to/naqvis/pipy-0500-is-released-7d1)
+- [Lifehacker] [How to Live-Caption Your FaceTime Calls](https://lifehacker.com/how-to-live-caption-your-facetim-calls-1849181796)
+- [Dev.to/JS] [The right way structure your react router](https://dev.to/kachiic/the-right-way-structure-your-react-router-1i3l)
+- [Dev.to/JS] [Node.js For Beginners](https://dev.to/mutahi97/nodejs-for-beginners-bhj)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week⛵.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-24o7)
 - [Dev.to/JS] [20 Interesting Facts of Java Course In Bangalore for Beginners](https://dev.to/zuhas8/20-interesting-facts-of-java-course-in-bangalore-for-beginners-3e8e)
 - [Dev.to/JS] [Dev Discussions: How to Reduce your Angular Bundle Size with Google Developers Expert Santosh Yadav](https://dev.to/coderpad/dev-discussions-how-to-reduce-your-angular-bundle-size-with-google-developers-expert-santosh-yadav-2c3k)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Who Is Buzzing About the Via Keto Capsules?](https://dev.to/gottsstevens/who-is-buzzing-about-the-via-keto-capsules-3m87)
 - [Dev.to/JS] [4 steps to add absolute imports in reactjs](https://dev.to/shreyvijayvargiya/4-steps-to-add-absolute-imports-in-reactjs-592d)
 - [Dev.to/JS] [Sending real-time notifications with Socket.io in Node.js](https://dev.to/novu/sending-real-time-notifications-with-socketio-in-nodejs-1l5j)
-- [Dev.to/JS] [Top Advantages of using Vue.JS](https://dev.to/architprajapati/top-advantages-of-using-vuejs-2ane)
-- [Dev.to/JS] [Funny Hat Day! 👒🎩 How to do face detection with your webcam and JavaScript 📸🧠](https://dev.to/thormeier/funny-hat-day-how-to-do-face-detection-with-your-webcam-and-javascript-4gkf)
-- [Dev.to/JS] [in Vue js how to convert images from dynamic table to base64 format and send it json file??](https://dev.to/geoabdrabuh/in-vue-js-how-to-convert-images-from-dynamic-table-to-base64-format-and-send-it-json-file-35bo)
-- [Dev.to/JS] [Wavy Backgrounds with CSS &amp; SVG](https://dev.to/patilganesh1010/wavy-backgrounds-with-css-svg-11ef)
-- [Dev.to/JS] [JavaScript sort array based on subarray value](https://dev.to/dailydevtips1/javascript-sort-array-based-on-subarray-value-5776)
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell When a Sore Throat Is Something Serious](https://lifehacker.com/how-to-tell-when-a-sore-throat-is-something-serious-1849180168)
 - [Lifehacker] [How to Eat Shrimp Tails and Heads &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-eat-shrimp-tails-and-heads-and-why-you-should-1849179239)
 - [Lifehacker] [Three Things You Should Never Lie About in a Job Interview](https://lifehacker.com/three-things-you-should-never-lie-about-in-a-job-interv-1849179570)
-- [Lifehacker] [What Is Novavax, and Is It Better Than the Other COVID Vaccines?](https://lifehacker.com/what-is-novavax-and-is-it-better-than-the-other-covid-1849179412)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
