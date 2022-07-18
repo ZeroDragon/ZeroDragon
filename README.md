@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 steps to add absolute imports in reactjs](https://dev.to/shreyvijayvargiya/4-steps-to-add-absolute-imports-in-reactjs-592d)
+- [Dev.to/JS] [Sending real-time notifications with Socket.io in Node.js](https://dev.to/novu/sending-real-time-notifications-with-socketio-in-nodejs-1l5j)
+- [Dev.to/JS] [Top Advantages of using Vue.JS](https://dev.to/architprajapati/top-advantages-of-using-vuejs-2ane)
+- [Dev.to/JS] [Funny Hat Day! 👒🎩 How to do face detection with your webcam and JavaScript 📸🧠](https://dev.to/thormeier/funny-hat-day-how-to-do-face-detection-with-your-webcam-and-javascript-4gkf)
 - [Dev.to/JS] [in Vue js how to convert images from dynamic table to base64 format and send it json file??](https://dev.to/geoabdrabuh/in-vue-js-how-to-convert-images-from-dynamic-table-to-base64-format-and-send-it-json-file-35bo)
 - [Dev.to/JS] [Wavy Backgrounds with CSS &amp; SVG](https://dev.to/patilganesh1010/wavy-backgrounds-with-css-svg-11ef)
 - [Dev.to/JS] [JavaScript sort array based on subarray value](https://dev.to/dailydevtips1/javascript-sort-array-based-on-subarray-value-5776)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Saving cost with timeout latches in JavaScript](https://dev.to/iostreamer/saving-cost-with-timeout-latches-in-javascript-2m19)
 - [Dev.to/JS] [I created a VS Code Extension - NPM Imported Packages Lens](https://dev.to/this-is-learning/i-created-a-vs-code-extension-npm-imported-packages-lens-17eg)
 - [Dev.to/JS] [What is NaN in JavaScript? What is its type? How can you reliably test if a value is equal to NaN?](https://dev.to/anewman15/what-is-nan-what-is-its-type-how-can-you-reliably-test-if-a-value-is-equal-to-nan-4bp3)
-- [Dev.to/JS] [What is Developer Experience?](https://dev.to/jacobandrewsky/what-is-developer-experience-2lh8)
-- [Dev.to/JS] [End-to-end Typesafe APIs with TypeScript and shared Zod schemas](https://dev.to/jussinevavuori/end-to-end-typesafe-apis-with-typescript-and-shared-zod-schemas-4jmo)
-- [Dev.to/JS] [Getting Started with Micro Frontends](https://dev.to/smapiot/getting-started-with-micro-frontends-ge9)
-- [Dev.to/JS] [One of the coolest features of Go. Embed ReactJS into a binary with Go](https://dev.to/pacholoamit/one-of-the-coolest-features-of-go-embed-reactjs-into-a-go-binary-41e9)
 - [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
 - [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
 - [Lifehacker] [Don&#39;t Do These Things When You Clean Your Glasses](https://lifehacker.com/dont-do-these-things-when-you-clean-your-glasses-1849183886)
