@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Memoization in JavaScript and React](https://dev.to/akinolu52/memoization-in-javascript-and-react-4ni7)
+- [Lifehacker] [How to Get a Piece of the Monsanto Weed Killer Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-monsanto-weed-killer-settleme-1849189934)
+- [Dev.to/JS] [Getting Started with Live Transcription and Vue.js](https://dev.to/deepgram/getting-started-with-live-transcription-and-vuejs-1eba)
+- [Lifehacker] [The Easiest Way to Communicate Your Food Allergies While Traveling](https://lifehacker.com/the-easiest-way-to-communicate-your-food-allergies-whil-1849190530)
 - [Lifehacker] [You Can Win a Free Canadian National Parks Pass](https://lifehacker.com/you-can-win-a-free-canadian-national-parks-pass-1849189347)
 - [Dev.to/JS] [What is JavaScript&#39;s Anonymous and Arrow function?](https://dev.to/surajondev/what-is-javascripts-anonymous-and-arrow-function-273m)
 - [Lifehacker] [The One Thing You Should Check Before Opening Any App File](https://lifehacker.com/the-one-thing-you-should-check-before-opening-any-app-f-1849189644)
@@ -39,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to fill an array in JavaScript with initial values](https://dev.to/collegewap/how-to-fill-an-array-in-javascript-with-initial-values-1d4d)
 - [Lifehacker] [This Indian Shortbread Cookie Will Melt in Your Mouth](https://lifehacker.com/this-indian-shortbread-cookie-will-melt-in-your-mouth-1849185233)
 - [Dev.to/JS] [Discord Lite &lpar;Again&rpar;!](https://dev.to/cyber/discord-lite-again-5fn6)
-- [Dev.to/JS] [Paracetamol.js💊| #169: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-169-explica-este-codigo-javascript-11il)
-- [Dev.to/JS] [JavaScript 配列によく使うメソッド](https://dev.to/kaede_io/javascript-array-methods-olk)
 - [Lifehacker] [The Bare Minimum Legal Terms That Everyone Should Know](https://lifehacker.com/the-bare-minimum-legal-terms-that-everyone-should-know-1849184696)
 - [Lifehacker] [The 7 Deadly Sins of Getting a Divorce](https://lifehacker.com/the-7-deadly-sins-of-getting-a-divorce-1849184941)
 - [Lifehacker] [10 Revolutionary Discoveries That Were Made More Recently Than You Think](https://lifehacker.com/10-revolutionary-discoveries-that-were-made-more-recent-1849184127)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Your Cutting Board From Sliding Around](https://lifehacker.com/how-to-keep-your-cutting-board-from-sliding-around-1849180398)
 - [Lifehacker] [Delete These Sneaky Malware Apps from Your Android ASAP](https://lifehacker.com/delete-these-sneaky-malware-apps-from-your-android-asap-1849182983)
 - [Lifehacker] [Survive the Sriracha Shortage by Making Your Own](https://lifehacker.com/survive-the-sriracha-shortage-by-making-your-own-1849183082)
-- [Lifehacker] [How to Use &#39;Lockdown Mode&#39; on iOS 16 and macOS Ventura](https://lifehacker.com/how-to-use-lockdown-mode-on-ios-16-and-macos-ventura-1849179969)
-- [Lifehacker] [The Biggest Construction Red Flags to Look for in a Brand New Home](https://lifehacker.com/the-biggest-construction-red-flags-to-look-for-in-a-bra-1849182688)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
