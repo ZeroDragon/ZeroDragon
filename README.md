@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to check Palindrome String in java?](https://dev.to/akshays81992169/how-to-check-palindrome-string-in-java-222e)
+- [Dev.to/JS] [Basic array operations combining Map, Filter &amp; Reduce in JavaScript](https://dev.to/alvisonhunter/basic-array-operations-combining-map-filter-reduce-in-javascript-37h2)
+- [Dev.to/JS] [custom Modal with javascript](https://dev.to/sababg/custom-modal-with-javascript-48ej)
 - [Dev.to/JS] [publlish a private npm package by using github packages](https://dev.to/zilinrrr/publlish-a-private-npm-package-by-using-github-packages-1gf5)
 - [Dev.to/JS] [Important Topics for Frontend Development Interview](https://dev.to/vamsitupakula_/important-topics-for-frontend-development-interview-48m4)
 - [Dev.to/JS] [Text Portrait](https://dev.to/sababg/text-portrait-1fj2)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [xLinks.pro - clone of bio.link](https://dev.to/abhidadhaniya23/xlinkspro-clone-of-biolink-2j6b)
 - [Dev.to/JS] [Best Web Developer in Bangladesh](https://dev.to/akowser/best-web-developer-in-bangladesh-1lle)
 - [Dev.to/JS] [Lesser-known CSS property](https://dev.to/devsimc/lesser-known-css-property-12ff)
-- [Dev.to/JS] [JSX for beginners &lpar;and how it differs from HTML&rpar;](https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e)
-- [Dev.to/JS] [Build your own github using Deno Fresh and Github REST API](https://dev.to/harshmangalam/build-your-own-github-using-deno-fresh-and-github-rest-api-32h6)
-- [Dev.to/JS] [GitHub Student Developer Pack...!](https://dev.to/avelinojrr/github-student-developer-pack-2m7e)
 - [Lifehacker] [Don&#39;t Miss the Final Supermoon of the Year](https://lifehacker.com/dont-miss-the-final-supermoon-of-the-year-1849190965)
 - [Lifehacker] [How Worried Should You Be About a Space Rock Destroying the Earth?](https://lifehacker.com/how-worried-should-you-be-about-a-space-rock-destroying-1849190978)
 - [Lifehacker] [How to Write the Perfect Speech Every Time](https://lifehacker.com/how-to-write-the-perfect-speech-every-time-1849191341)
