@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Simple Protected Routes Middleware in NextJS 12](https://dev.to/mhx/simple-protected-routes-middleware-in-nextjs-12-3ec7)
+- [Dev.to/JS] [What’s new in Handsontable Data Grid: July 2022](https://dev.to/chrisspilka/whats-new-in-handsontable-data-grid-july-2022-1o4)
+- [Dev.to/JS] [Learn Python as a Javascript developer](https://dev.to/kachiic/learn-python-as-a-javascript-developer-422j)
 - [Dev.to/JS] [Memoization In JavaScript](https://dev.to/vedanthb/memoization-in-javascript-11ci)
 - [Dev.to/JS] [custom Mouse with javascript](https://dev.to/sababg/custom-mouse-with-javascript-1h7d)
 - [Dev.to/JS] [I18n with Svelte and Jest Tests](https://dev.to/deotyma/i18n-with-svelte-and-jest-tests-icm)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [custom Modal with javascript](https://dev.to/sababg/custom-modal-with-javascript-48ej)
 - [Dev.to/JS] [publlish a private npm package by using github packages](https://dev.to/zilinrrr/publlish-a-private-npm-package-by-using-github-packages-1gf5)
 - [Dev.to/JS] [Important Topics for Frontend Development Interview](https://dev.to/vamsitupakula_/important-topics-for-frontend-development-interview-48m4)
-- [Dev.to/JS] [Text Portrait](https://dev.to/sababg/text-portrait-1fj2)
-- [Dev.to/JS] [Chrome extension in 20 min](https://dev.to/r7kamura/chrome-extension-in-20-minutes-47ej)
-- [Dev.to/JS] [Gradient Borders](https://dev.to/sababg/gradient-borders-1gfi)
 - [Lifehacker] [Don&#39;t Miss the Final Supermoon of the Year](https://lifehacker.com/dont-miss-the-final-supermoon-of-the-year-1849190965)
 - [Lifehacker] [How Worried Should You Be About a Space Rock Destroying the Earth?](https://lifehacker.com/how-worried-should-you-be-about-a-space-rock-destroying-1849190978)
 - [Lifehacker] [How to Write the Perfect Speech Every Time](https://lifehacker.com/how-to-write-the-perfect-speech-every-time-1849191341)
