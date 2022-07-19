@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
+- [Dev.to/JS] [Ng-News: Episode 22/28](https://dev.to/rainerhahnekamp/ng-news-episode-2228-38h1)
+- [Dev.to/JS] [I just finished building my Portfolio! Would appreciate feedback 🙏](https://dev.to/georgeisiguzo/i-just-finished-building-my-portfolio-would-appreciate-feedback-3b6l)
+- [Dev.to/JS] [Creating a GraphQL Server in Node.js](https://dev.to/honeybadger/creating-a-graphql-server-in-nodejs-25c5)
+- [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
+- [Dev.to/JS] [Animating with Vue — Vue Amsterdam Conference 2022 Summary series — Seventh Talk](https://dev.to/mohsen_vaziri/animating-with-vue-vue-amsterdam-conference-2022-summary-series-seventh-talk-42c6)
+- [Lifehacker] [How to Benefit From Meditation Even If You’re Bad at It](https://lifehacker.com/how-to-benefit-from-meditation-even-if-you-re-bad-at-it-1849196719)
 - [Dev.to/JS] [Customize Algolia React components with Tailwind classes](https://dev.to/algolia/customize-algolia-react-components-with-tailwind-classes-2di6)
 - [Lifehacker] [Should You Upgrade From Your 1080p PC Monitor to 1440p?](https://lifehacker.com/should-you-upgrade-from-your-1080p-pc-monitor-to-1440p-1849196603)
 - [Lifehacker] [11 Ways to Repurpose an Old Phone or Tablet](https://lifehacker.com/11-ways-to-repurpose-an-old-phone-or-tablet-1849190602)
@@ -37,11 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Could You Have Antisocial Personality Disorder?](https://lifehacker.com/could-you-have-antisocial-personality-disorder-1849195227)
 - [Dev.to/JS] [How to add images to IPFS with node.js and ipfs-core](https://dev.to/rtagliavia/how-to-add-images-to-ipfs-with-nodejs-and-ipfs-core-3heo)
 - [Dev.to/JS] [How to add a loading status](https://dev.to/mperon/how-to-add-a-loading-status-55fd)
-- [Dev.to/JS] [How To Structure Your NextJs Application](https://dev.to/elbarryamine/how-to-structure-your-nextjs-application-488c)
-- [Dev.to/JS] [Youtube channels to follow as a Software Engineer](https://dev.to/jorgetovar621/youtube-channels-to-follow-as-a-software-engineer-5dk7)
 - [Lifehacker] [Three Surprising Ways to Use Vinegar in Your Garden](https://lifehacker.com/three-surprising-ways-to-use-vinegar-in-your-garden-1849195416)
-- [Dev.to/JS] [Self introduction :&rpar;](https://dev.to/theshashank/self-introduction--20l3)
-- [Dev.to/JS] [Themes for Vs code IDE](https://dev.to/itskunal/themes-for-vs-code-ide-376p)
 - [Lifehacker] [You Should Be Freezing Chickpea Liquid](https://lifehacker.com/you-should-be-freezing-chickpea-liquid-1849193948)
 - [Lifehacker] [You Should Order a Bunch of Crap From Europe and Japan](https://lifehacker.com/you-should-order-a-bunch-of-shit-from-europe-and-japan-1849194362)
 - [Lifehacker] [10 of the Cheapest and Healthiest Ways to Feed a Group, According to Reddit](https://lifehacker.com/10-of-the-cheapest-and-healthiest-ways-to-feed-a-group-1849191549)
@@ -58,9 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Cheese Nuggets in Your Air Fryer](https://lifehacker.com/how-to-make-cheese-nuggets-in-your-air-fryer-1849191120)
 - [Lifehacker] [Three Underrated Uses for Your Vacuum](https://lifehacker.com/three-underrated-uses-for-your-vacuum-1849190450)
 - [Lifehacker] [Why You Should Never Skip the Egg Wash](https://lifehacker.com/why-you-should-never-skip-the-egg-wash-1849190620)
-- [Lifehacker] [How to Get a Piece of the Monsanto Weed Killer Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-monsanto-weed-killer-settleme-1849189934)
-- [Lifehacker] [The Easiest Way to Communicate Your Food Allergies While Traveling](https://lifehacker.com/the-easiest-way-to-communicate-your-food-allergies-whil-1849190530)
-- [Lifehacker] [You Can Win a Free Canadian National Parks Pass](https://lifehacker.com/you-can-win-a-free-canadian-national-parks-pass-1849189347)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
 
