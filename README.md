@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Positioning in CSS](https://dev.to/ark2002/positioning-in-css-bp3)
 - [Dev.to/JS] [change Mouse color with scroll with javascript](https://dev.to/sababg/change-mouse-color-with-scroll-with-javascript-39hc)
 - [Dev.to/JS] [Think Paxful Clone Script Is best for new business? We Have News for You](https://dev.to/thecryptoapeo/think-paxful-clone-script-is-best-for-new-business-we-have-news-for-you-2cb3)
 - [Dev.to/JS] [How to fix QuickBooks printer issue 20?](https://dev.to/amarawilliam4/how-to-fix-quickbooks-printer-issue-20-5hfl)
@@ -31,10 +32,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Find symmetric difference between two arrays in JavaScript](https://dev.to/catherineisonline/find-symmetric-difference-between-two-arrays-in-javascript-7k4)
 - [Dev.to/JS] [Scratch top image with mouse dragging](https://dev.to/farhansaqib444/scratch-top-image-with-mouse-dragging-464o)
 - [Dev.to/JS] [Simple Protected Routes Middleware in NextJS 12](https://dev.to/mhx/simple-protected-routes-middleware-in-nextjs-12-3ec7)
-- [Dev.to/JS] [What’s new in Handsontable Data Grid: July 2022](https://dev.to/chrisspilka/whats-new-in-handsontable-data-grid-july-2022-1o4)
+- [Dev.to/JS] [What’s new in Handsontable Data Grid: July 2022](https://dev.to/handsontable/whats-new-in-handsontable-data-grid-july-2022-1o4)
 - [Dev.to/JS] [Learn Python as a Javascript developer](https://dev.to/kachiic/learn-python-as-a-javascript-developer-422j)
 - [Dev.to/JS] [Memoization In JavaScript](https://dev.to/vedanthb/memoization-in-javascript-11ci)
-- [Dev.to/JS] [custom Mouse with javascript](https://dev.to/sababg/custom-mouse-with-javascript-1h7d)
 - [Lifehacker] [Don&#39;t Miss the Final Supermoon of the Year](https://lifehacker.com/dont-miss-the-final-supermoon-of-the-year-1849190965)
 - [Lifehacker] [How Worried Should You Be About a Space Rock Destroying the Earth?](https://lifehacker.com/how-worried-should-you-be-about-a-space-rock-destroying-1849190978)
 - [Lifehacker] [How to Write the Perfect Speech Every Time](https://lifehacker.com/how-to-write-the-perfect-speech-every-time-1849191341)
