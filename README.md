@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Customize Algolia React components with Tailwind classes](https://dev.to/algolia/customize-algolia-react-components-with-tailwind-classes-2di6)
+- [Lifehacker] [Should You Upgrade From Your 1080p PC Monitor to 1440p?](https://lifehacker.com/should-you-upgrade-from-your-1080p-pc-monitor-to-1440p-1849196603)
 - [Lifehacker] [11 Ways to Repurpose an Old Phone or Tablet](https://lifehacker.com/11-ways-to-repurpose-an-old-phone-or-tablet-1849190602)
 - [Dev.to/JS] [Construct a awesome JavaScript Drum stick in just 5 minutes](https://dev.to/kumarkalyan/construct-a-awesome-javascript-drum-stick-in-just-5-minutes-1fjh)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
@@ -40,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Three Surprising Ways to Use Vinegar in Your Garden](https://lifehacker.com/three-surprising-ways-to-use-vinegar-in-your-garden-1849195416)
 - [Dev.to/JS] [Self introduction :&rpar;](https://dev.to/theshashank/self-introduction--20l3)
 - [Dev.to/JS] [Themes for Vs code IDE](https://dev.to/itskunal/themes-for-vs-code-ide-376p)
-- [Dev.to/JS] [Leetcode Challenge #3](https://dev.to/miccwan/leetcode-challenge-3-1ki0)
 - [Lifehacker] [You Should Be Freezing Chickpea Liquid](https://lifehacker.com/you-should-be-freezing-chickpea-liquid-1849193948)
 - [Lifehacker] [You Should Order a Bunch of Crap From Europe and Japan](https://lifehacker.com/you-should-order-a-bunch-of-shit-from-europe-and-japan-1849194362)
 - [Lifehacker] [10 of the Cheapest and Healthiest Ways to Feed a Group, According to Reddit](https://lifehacker.com/10-of-the-cheapest-and-healthiest-ways-to-feed-a-group-1849191549)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Get a Piece of the Monsanto Weed Killer Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-monsanto-weed-killer-settleme-1849189934)
 - [Lifehacker] [The Easiest Way to Communicate Your Food Allergies While Traveling](https://lifehacker.com/the-easiest-way-to-communicate-your-food-allergies-whil-1849190530)
 - [Lifehacker] [You Can Win a Free Canadian National Parks Pass](https://lifehacker.com/you-can-win-a-free-canadian-national-parks-pass-1849189347)
-- [Lifehacker] [The One Thing You Should Check Before Opening Any App File](https://lifehacker.com/the-one-thing-you-should-check-before-opening-any-app-f-1849189644)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
 
