@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [GitHub Student Developer Pack...!](https://dev.to/avelinojrr/github-student-developer-pack-2m7e)
 - [Dev.to/JS] [🎮 Learn JavaScript while playing games👾](https://dev.to/monicafidalgo/learn-javascript-while-playing-games-4ong)
 - [Dev.to/JS] [How to add GitHub authentication to a Next.js application](https://dev.to/kizmelvin/how-to-add-github-authentication-to-a-nextjs-application-1nfi)
 - [Dev.to/JS] [¿Qué es Destructuring en Javascript?](https://dev.to/matiasfha/que-es-destructuring-en-javascript-4497)
@@ -37,7 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Architecting React Apps Like it&#39;s 2030](https://dev.to/itsrennyman/architecting-react-apps-like-its-2030-10mc)
 - [Lifehacker] [How to Write the Perfect Speech Every Time](https://lifehacker.com/how-to-write-the-perfect-speech-every-time-1849191341)
 - [Dev.to/JS] [I once tried not to use date-fns](https://dev.to/mihneasim/i-once-tried-not-to-use-date-fns-4opf)
-- [Dev.to/JS] [😲 My Top 5 List of Resources that I Wish I Knew When I Started Programming](https://dev.to/eludadev/my-top-5-list-of-resources-that-i-wish-i-knew-when-i-started-programming-j04)
 - [Lifehacker] [How to Make Cheese Nuggets in Your Air Fryer](https://lifehacker.com/how-to-make-cheese-nuggets-in-your-air-fryer-1849191120)
 - [Lifehacker] [Three Underrated Uses for Your Vacuum](https://lifehacker.com/three-underrated-uses-for-your-vacuum-1849190450)
 - [Lifehacker] [Why You Should Never Skip the Egg Wash](https://lifehacker.com/why-you-should-never-skip-the-egg-wash-1849190620)
