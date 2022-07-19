@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🎮 Learn JavaScript while playing games👾](https://dev.to/monicafidalgo/learn-javascript-while-playing-games-4ong)
+- [Dev.to/JS] [How to add GitHub authentication to a Next.js application](https://dev.to/kizmelvin/how-to-add-github-authentication-to-a-nextjs-application-1nfi)
+- [Dev.to/JS] [¿Qué es Destructuring en Javascript?](https://dev.to/matiasfha/que-es-destructuring-en-javascript-4497)
+- [Dev.to/JS] [Tutorial: communication between sibling components using state, and controlled forms](https://dev.to/williamluck/tutorial-communication-between-sibling-components-using-state-and-controlled-forms-1m77)
 - [Dev.to/JS] [Two best practices of creating modals in React 18](https://dev.to/moghanbari/two-best-practices-of-creating-modals-in-react-18-4a1m)
 - [Dev.to/JS] [Dwight Schrute&#39;s Intro to Programming](https://dev.to/sebastianmaciel/dwight-schrutes-intro-to-programming-2fgl)
 - [Lifehacker] [Don&#39;t Miss the Final Supermoon of the Year](https://lifehacker.com/dont-miss-the-final-supermoon-of-the-year-1849190965)
@@ -36,11 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [😲 My Top 5 List of Resources that I Wish I Knew When I Started Programming](https://dev.to/eludadev/my-top-5-list-of-resources-that-i-wish-i-knew-when-i-started-programming-j04)
 - [Lifehacker] [How to Make Cheese Nuggets in Your Air Fryer](https://lifehacker.com/how-to-make-cheese-nuggets-in-your-air-fryer-1849191120)
 - [Lifehacker] [Three Underrated Uses for Your Vacuum](https://lifehacker.com/three-underrated-uses-for-your-vacuum-1849190450)
-- [Dev.to/JS] [Create your own Google Chrome Extension with HTML, CSS and JS.](https://dev.to/hr21don/create-your-own-google-chrome-extension-with-html-css-and-js-2d2h)
 - [Lifehacker] [Why You Should Never Skip the Egg Wash](https://lifehacker.com/why-you-should-never-skip-the-egg-wash-1849190620)
-- [Dev.to/JS] [Concurrency Model in Javascript](https://dev.to/josharsh/concurrency-model-in-javascript-5li)
-- [Dev.to/JS] [How to Scrape HTML Tables in JavaScript [Export Table Data to a CSV]](https://dev.to/scraperapi/how-to-scrape-html-tables-in-javascript-export-table-data-to-a-csv-239b)
-- [Dev.to/JS] [Memoization in JavaScript and React](https://dev.to/akinolu52/memoization-in-javascript-and-react-4ni7)
 - [Lifehacker] [How to Get a Piece of the Monsanto Weed Killer Settlement](https://lifehacker.com/how-to-get-a-piece-of-the-monsanto-weed-killer-settleme-1849189934)
 - [Lifehacker] [The Easiest Way to Communicate Your Food Allergies While Traveling](https://lifehacker.com/the-easiest-way-to-communicate-your-food-allergies-whil-1849190530)
 - [Lifehacker] [You Can Win a Free Canadian National Parks Pass](https://lifehacker.com/you-can-win-a-free-canadian-national-parks-pass-1849189347)
