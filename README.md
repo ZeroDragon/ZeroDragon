@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Full-Stack Developer &lpar;ReactJS&rpar;](https://dev.to/cassidyois/full-stack-developer-reactjs-2d8n)
+- [Dev.to/JS] [How to insert a iframe of Youtube Music on my page](https://dev.to/ifmcode/how-to-insert-a-iframe-of-youtube-music-on-my-page-3079)
+- [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
+- [Dev.to/JS] [Trying bun for the first time](https://dev.to/benyou1969/trying-bun-for-the-first-time-4epk)
 - [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
 - [Dev.to/JS] [Ng-News: Episode 22/28](https://dev.to/rainerhahnekamp/ng-news-episode-2228-38h1)
 - [Dev.to/JS] [I just finished building my Portfolio! Would appreciate feedback 🙏](https://dev.to/georgeisiguzo/i-just-finished-building-my-portfolio-would-appreciate-feedback-3b6l)
@@ -40,10 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paracetamol.js💊| #170: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-170-explica-este-codigo-javascript-1m7k)
 - [Dev.to/JS] [Top 120+ Websites to Learn to Code for Free](https://dev.to/bcoder_76/top-120-websites-to-learn-to-code-for-free-37gb)
 - [Lifehacker] [Does Powder Sunscreen Actually Work?](https://lifehacker.com/does-powder-sunscreen-actually-work-1849195592)
-- [Dev.to/JS] [Looking for a job](https://dev.to/jameslee/looking-for-a-job-3o5k)
 - [Lifehacker] [Could You Have Antisocial Personality Disorder?](https://lifehacker.com/could-you-have-antisocial-personality-disorder-1849195227)
-- [Dev.to/JS] [How to add images to IPFS with node.js and ipfs-core](https://dev.to/rtagliavia/how-to-add-images-to-ipfs-with-nodejs-and-ipfs-core-3heo)
-- [Dev.to/JS] [How to add a loading status](https://dev.to/mperon/how-to-add-a-loading-status-55fd)
 - [Lifehacker] [Three Surprising Ways to Use Vinegar in Your Garden](https://lifehacker.com/three-surprising-ways-to-use-vinegar-in-your-garden-1849195416)
 - [Lifehacker] [You Should Be Freezing Chickpea Liquid](https://lifehacker.com/you-should-be-freezing-chickpea-liquid-1849193948)
 - [Lifehacker] [You Should Order a Bunch of Crap From Europe and Japan](https://lifehacker.com/you-should-order-a-bunch-of-shit-from-europe-and-japan-1849194362)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Write the Perfect Speech Every Time](https://lifehacker.com/how-to-write-the-perfect-speech-every-time-1849191341)
 - [Lifehacker] [How to Make Cheese Nuggets in Your Air Fryer](https://lifehacker.com/how-to-make-cheese-nuggets-in-your-air-fryer-1849191120)
 - [Lifehacker] [Three Underrated Uses for Your Vacuum](https://lifehacker.com/three-underrated-uses-for-your-vacuum-1849190450)
-- [Lifehacker] [Why You Should Never Skip the Egg Wash](https://lifehacker.com/why-you-should-never-skip-the-egg-wash-1849190620)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
 
