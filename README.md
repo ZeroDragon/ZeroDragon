@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create React Todo App](https://dev.to/vinobe21/how-to-create-react-todo-app-1j56)
+- [Dev.to/JS] [Supercharged Visual Studio Code - Part 1](https://dev.to/akinolu52/supercharged-visual-studio-code-part-1-5ffi)
+- [Lifehacker] [10 of the Cheapest and Healthiest Ways to Feed a Group, According to Reddit](https://lifehacker.com/10-of-the-cheapest-and-healthiest-ways-to-feed-a-group-1849191549)
+- [Dev.to/JS] [5 Questions I asked myself before starting my very first role as a junior developer](https://dev.to/iraamoni/5-questions-i-asked-myself-before-starting-my-very-first-role-as-a-junior-developer-61b)
+- [Dev.to/JS] [Make you own Web](https://dev.to/decker67/make-you-own-web-3c75)
+- [Dev.to/JS] [JavaScript Closure](https://dev.to/bipon68/javascript-closure-5gc)
 - [Lifehacker] [Why There&#39;s a Delay Before Your iPhone Screen Turns Off &lpar;and How to Eliminate It&rpar;](https://lifehacker.com/why-theres-a-delay-before-your-iphone-screen-turns-off-1849193703)
 - [Dev.to/JS] [addEventListener](https://dev.to/artemismars/addeventlistener-me5)
 - [Dev.to/JS] [Top 3 animation library for frontend](https://dev.to/shreyvijayvargiya/top-3-animation-library-for-frontend-4be6)
@@ -33,12 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Better npm search proposal](https://dev.to/astoilkov/better-npm-search-proposal-ka9)
 - [Dev.to/JS] [How to Make a Dental Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-dental-website-using-html-css-javascript-3k54)
 - [Dev.to/JS] [Singletons in TypeScript](https://dev.to/mdmusaibali/singletons-in-typescript-ci4)
-- [Dev.to/JS] [Next.js vs. React: A Multi-Factor Comparison](https://dev.to/maxikius/nextjs-vs-react-a-multi-factor-comparison-4a81)
-- [Dev.to/JS] [React-Redux Roadmap Zero to Advanced: Part 1 🚀](https://dev.to/rohancodes02/react-redux-roadmap-zero-to-advanced-part-1-4j3k)
 - [Lifehacker] [The Best New Reminders Features in iOS 16](https://lifehacker.com/the-best-new-reminders-features-in-ios-16-1849193410)
-- [Dev.to/JS] [Azure Cloud Resume with a visitor counter](https://dev.to/mcheath31/azure-cloud-resume-with-a-visitor-counter-3l0b)
-- [Dev.to/JS] [Why new developers should read 5000 lines of code a week](https://dev.to/calvin087/why-new-developers-should-read-5000-lines-of-code-a-week-iff)
-- [Dev.to/JS] [What is the most important rule when designing an API?](https://dev.to/decker67/what-is-the-most-important-rule-when-designing-an-api-13bo)
 - [Lifehacker] [How to Move In Together Without Breaking Up, According to a Relationship Expert](https://lifehacker.com/how-to-move-in-together-without-breaking-up-according-1849192173)
 - [Lifehacker] [Upgrade Your Hash Brown Avocado Toast](https://lifehacker.com/upgrade-your-hash-brown-avocado-toast-1849192200)
 - [Lifehacker] [10 Podcasts to Help You Stop Being Afraid of Money](https://lifehacker.com/10-podcasts-to-help-you-stop-being-afraid-of-money-1849192944)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Bare Minimum Legal Terms That Everyone Should Know](https://lifehacker.com/the-bare-minimum-legal-terms-that-everyone-should-know-1849184696)
 - [Lifehacker] [The 7 Deadly Sins of Getting a Divorce](https://lifehacker.com/the-7-deadly-sins-of-getting-a-divorce-1849184941)
 - [Lifehacker] [10 Revolutionary Discoveries That Were Made More Recently Than You Think](https://lifehacker.com/10-revolutionary-discoveries-that-were-made-more-recent-1849184127)
-- [Lifehacker] [How to Live-Caption Your FaceTime Calls](https://lifehacker.com/how-to-live-caption-your-facetim-calls-1849181796)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
