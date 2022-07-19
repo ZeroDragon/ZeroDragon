@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Firebase 9 Firestore Get A Document By ID Using getDoc&lpar;&rpar;](https://dev.to/hirajatamil/firebase-9-firestore-get-a-document-by-id-using-getdoc-3j4f)
+- [Dev.to/JS] [JAVASCRIPT CRYING](https://dev.to/qorncat/javascript-crying-2jo)
+- [Dev.to/JS] [What Is Next.js And Why Developers Love It](https://dev.to/austinshelby/what-is-nextjs-and-why-developers-love-it-42lk)
+- [Dev.to/JS] [How I Integrated Live Chat into Gatsby with Tidio and Medusa](https://dev.to/medusajs/how-i-integrated-live-chat-into-gatsby-with-tidio-and-medusa-5a3i)
+- [Dev.to/JS] [Sending Client-side Emails using EmailJs in ReactJs App](https://dev.to/adarshgoyal/sending-client-side-emails-using-emailjs-in-reactjs-app-58im)
 - [Dev.to/JS] [Positioning in CSS](https://dev.to/ark2002/positioning-in-css-bp3)
 - [Dev.to/JS] [change Mouse color with scroll with javascript](https://dev.to/sababg/change-mouse-color-with-scroll-with-javascript-39hc)
 - [Dev.to/JS] [Think Paxful Clone Script Is best for new business? We Have News for You](https://dev.to/thecryptoapeo/think-paxful-clone-script-is-best-for-new-business-we-have-news-for-you-2cb3)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Interesting box-decoration-break](https://dev.to/chokcoco/interesting-box-decoration-break-2cpd)
 - [Dev.to/JS] [5 TOP HARD SKILLS YOU MUST HAVE TO BECOME A CYBER SECURITY ANALYST](https://dev.to/fliptotech/5-top-hard-skills-you-must-have-to-become-a-cyber-security-analyst-1k62)
 - [Dev.to/JS] [Find symmetric difference between two arrays in JavaScript](https://dev.to/catherineisonline/find-symmetric-difference-between-two-arrays-in-javascript-7k4)
-- [Dev.to/JS] [Scratch top image with mouse dragging](https://dev.to/farhansaqib444/scratch-top-image-with-mouse-dragging-464o)
-- [Dev.to/JS] [Simple Protected Routes Middleware in NextJS 12](https://dev.to/mhx/simple-protected-routes-middleware-in-nextjs-12-3ec7)
-- [Dev.to/JS] [What’s new in Handsontable Data Grid: July 2022](https://dev.to/handsontable/whats-new-in-handsontable-data-grid-july-2022-1o4)
-- [Dev.to/JS] [Learn Python as a Javascript developer](https://dev.to/kachiic/learn-python-as-a-javascript-developer-422j)
-- [Dev.to/JS] [Memoization In JavaScript](https://dev.to/vedanthb/memoization-in-javascript-11ci)
 - [Lifehacker] [Don&#39;t Miss the Final Supermoon of the Year](https://lifehacker.com/dont-miss-the-final-supermoon-of-the-year-1849190965)
 - [Lifehacker] [How Worried Should You Be About a Space Rock Destroying the Earth?](https://lifehacker.com/how-worried-should-you-be-about-a-space-rock-destroying-1849190978)
 - [Lifehacker] [How to Write the Perfect Speech Every Time](https://lifehacker.com/how-to-write-the-perfect-speech-every-time-1849191341)
