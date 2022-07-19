@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JSX for beginners &lpar;and how it differs from HTML&rpar;](https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e)
+- [Dev.to/JS] [Build your own github using Deno Fresh and Github REST API](https://dev.to/harshmangalam/build-your-own-github-using-deno-fresh-and-github-rest-api-32h6)
 - [Dev.to/JS] [GitHub Student Developer Pack...!](https://dev.to/avelinojrr/github-student-developer-pack-2m7e)
 - [Dev.to/JS] [🎮 Learn JavaScript while playing games👾](https://dev.to/monicafidalgo/learn-javascript-while-playing-games-4ong)
 - [Dev.to/JS] [How to add GitHub authentication to a Next.js application](https://dev.to/kizmelvin/how-to-add-github-authentication-to-a-nextjs-application-1nfi)
@@ -35,9 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Magnifying Glass for Text and more!](https://dev.to/eitanwaxman/magnifying-glass-for-text-and-more-5a57)
 - [Dev.to/JS] [JavaScript, який потрібно знати для React](https://dev.to/hraboviyvadim/javascript-iakii-potribno-znati-dlia-react-50n7)
 - [Dev.to/JS] [Bun / the fastest Javascript runtime](https://dev.to/coderreviewio/bun-the-fastest-javascript-runtime-3kah)
-- [Dev.to/JS] [Architecting React Apps Like it&#39;s 2030](https://dev.to/itsrennyman/architecting-react-apps-like-its-2030-10mc)
 - [Lifehacker] [How to Write the Perfect Speech Every Time](https://lifehacker.com/how-to-write-the-perfect-speech-every-time-1849191341)
-- [Dev.to/JS] [I once tried not to use date-fns](https://dev.to/mihneasim/i-once-tried-not-to-use-date-fns-4opf)
 - [Lifehacker] [How to Make Cheese Nuggets in Your Air Fryer](https://lifehacker.com/how-to-make-cheese-nuggets-in-your-air-fryer-1849191120)
 - [Lifehacker] [Three Underrated Uses for Your Vacuum](https://lifehacker.com/three-underrated-uses-for-your-vacuum-1849190450)
 - [Lifehacker] [Why You Should Never Skip the Egg Wash](https://lifehacker.com/why-you-should-never-skip-the-egg-wash-1849190620)
