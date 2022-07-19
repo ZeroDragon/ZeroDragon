@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why There&#39;s a Delay Before Your iPhone Screen Turns Off &lpar;and How to Eliminate It&rpar;](https://lifehacker.com/why-theres-a-delay-before-your-iphone-screen-turns-off-1849193703)
+- [Dev.to/JS] [addEventListener](https://dev.to/artemismars/addeventlistener-me5)
+- [Dev.to/JS] [Top 3 animation library for frontend](https://dev.to/shreyvijayvargiya/top-3-animation-library-for-frontend-4be6)
+- [Lifehacker] [How to Get the Most Out of Your Frequent Flyer Miles](https://lifehacker.com/how-to-get-the-most-out-of-your-frequent-flyer-miles-1849193486)
+- [Dev.to/JS] [Scope](https://dev.to/klofnod/scope-3gi8)
+- [Dev.to/JS] [Code Smell 150 - Equal Comparison](https://dev.to/mcsee/code-smell-150-equal-comparison-ok1)
 - [Lifehacker] [11 Things We &lpar;Mostly&rpar; Don’t Need to Worry About Anymore](https://lifehacker.com/11-things-we-mostly-don-t-need-to-worry-about-anymore-1849192865)
 - [Dev.to/JS] [Better npm search proposal](https://dev.to/astoilkov/better-npm-search-proposal-ka9)
 - [Dev.to/JS] [How to Make a Dental Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-make-a-dental-website-using-html-css-javascript-3k54)
@@ -34,10 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why new developers should read 5000 lines of code a week](https://dev.to/calvin087/why-new-developers-should-read-5000-lines-of-code-a-week-iff)
 - [Dev.to/JS] [What is the most important rule when designing an API?](https://dev.to/decker67/what-is-the-most-important-rule-when-designing-an-api-13bo)
 - [Lifehacker] [How to Move In Together Without Breaking Up, According to a Relationship Expert](https://lifehacker.com/how-to-move-in-together-without-breaking-up-according-1849192173)
-- [Dev.to/JS] [Button Copy Text with JS](https://dev.to/ezehkingsleyuchenna/button-copy-text-with-js-58h)
-- [Dev.to/JS] [Javascript concepts you must know as a beginner #1](https://dev.to/sebastianmaciel/javascript-concepts-you-must-know-as-a-beginner-1-2efn)
-- [Dev.to/JS] [5 NPM Packages you can use for Drag &amp; Drop in your React app 🙌](https://dev.to/gulshanaggarwal/5-npm-packages-you-can-use-for-drag-drop-in-your-react-app-3g6g)
-- [Dev.to/JS] [Redux don&#39;t need Redux. || Redux in a nutshell.](https://dev.to/swastikyadav/redux-dont-need-redux-redux-in-a-nutshell-2peb)
 - [Lifehacker] [Upgrade Your Hash Brown Avocado Toast](https://lifehacker.com/upgrade-your-hash-brown-avocado-toast-1849192200)
 - [Lifehacker] [10 Podcasts to Help You Stop Being Afraid of Money](https://lifehacker.com/10-podcasts-to-help-you-stop-being-afraid-of-money-1849192944)
 - [Lifehacker] [Don&#39;t Miss the Final Supermoon of the Year](https://lifehacker.com/dont-miss-the-final-supermoon-of-the-year-1849190965)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Getting a Divorce](https://lifehacker.com/the-7-deadly-sins-of-getting-a-divorce-1849184941)
 - [Lifehacker] [10 Revolutionary Discoveries That Were Made More Recently Than You Think](https://lifehacker.com/10-revolutionary-discoveries-that-were-made-more-recent-1849184127)
 - [Lifehacker] [How to Live-Caption Your FaceTime Calls](https://lifehacker.com/how-to-live-caption-your-facetim-calls-1849181796)
-- [Lifehacker] [Don&#39;t Try This Potentially Dangerous TikTok Lawn Mower Hack](https://lifehacker.com/dont-try-this-potentially-dangerous-tiktok-lawn-mower-h-1849183894)
-- [Lifehacker] [Your Old Hot Water Heater Is Probably Leaking](https://lifehacker.com/your-old-hot-water-heater-is-probably-leaking-1849183869)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
