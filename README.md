@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [11 Ways to Repurpose an Old Phone or Tablet](https://lifehacker.com/11-ways-to-repurpose-an-old-phone-or-tablet-1849190602)
+- [Dev.to/JS] [Construct a awesome JavaScript Drum stick in just 5 minutes](https://dev.to/kumarkalyan/construct-a-awesome-javascript-drum-stick-in-just-5-minutes-1fjh)
+- [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
+- [Dev.to/JS] [Handling different node versions in Windows](https://dev.to/dhanushnehru/handling-different-node-versions-in-windows-54im)
+- [Lifehacker] [These Salt and Vinegar Freezer Fries Have All the Flavor and None of the Wetness](https://lifehacker.com/these-salt-and-vinegar-freezer-fries-have-all-the-flavo-1849195561)
+- [Dev.to/JS] [Paracetamol.js💊| #170: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-170-explica-este-codigo-javascript-1m7k)
+- [Dev.to/JS] [Top 120+ Websites to Learn to Code for Free](https://dev.to/bcoder_76/top-120-websites-to-learn-to-code-for-free-37gb)
+- [Lifehacker] [Does Powder Sunscreen Actually Work?](https://lifehacker.com/does-powder-sunscreen-actually-work-1849195592)
 - [Dev.to/JS] [Looking for a job](https://dev.to/jameslee/looking-for-a-job-3o5k)
 - [Lifehacker] [Could You Have Antisocial Personality Disorder?](https://lifehacker.com/could-you-have-antisocial-personality-disorder-1849195227)
 - [Dev.to/JS] [How to add images to IPFS with node.js and ipfs-core](https://dev.to/rtagliavia/how-to-add-images-to-ipfs-with-nodejs-and-ipfs-core-3heo)
@@ -34,11 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Themes for Vs code IDE](https://dev.to/itskunal/themes-for-vs-code-ide-376p)
 - [Dev.to/JS] [Leetcode Challenge #3](https://dev.to/miccwan/leetcode-challenge-3-1ki0)
 - [Lifehacker] [You Should Be Freezing Chickpea Liquid](https://lifehacker.com/you-should-be-freezing-chickpea-liquid-1849193948)
-- [Dev.to/JS] [743. Network Delay Time 🚀](https://dev.to/samuelhinchliffe/743-network-delay-time-4lho)
-- [Dev.to/JS] [Free &amp; Discount Online Courses - July 19th, 2022](https://dev.to/theprogramminbuddyclub/free-discount-online-courses-july-19th-2022-2oab)
 - [Lifehacker] [You Should Order a Bunch of Crap From Europe and Japan](https://lifehacker.com/you-should-order-a-bunch-of-shit-from-europe-and-japan-1849194362)
-- [Dev.to/JS] [How to create React Todo App](https://dev.to/vinobe21/how-to-create-react-todo-app-1j56)
-- [Dev.to/JS] [Supercharged Visual Studio Code - Part 1](https://dev.to/akinolu52/supercharged-visual-studio-code-part-1-5ffi)
 - [Lifehacker] [10 of the Cheapest and Healthiest Ways to Feed a Group, According to Reddit](https://lifehacker.com/10-of-the-cheapest-and-healthiest-ways-to-feed-a-group-1849191549)
 - [Lifehacker] [Why There&#39;s a Delay Before Your iPhone Screen Turns Off &lpar;and How to Eliminate It&rpar;](https://lifehacker.com/why-theres-a-delay-before-your-iphone-screen-turns-off-1849193703)
 - [Lifehacker] [How to Get the Most Out of Your Frequent Flyer Miles](https://lifehacker.com/how-to-get-the-most-out-of-your-frequent-flyer-miles-1849193486)
@@ -57,12 +61,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Easiest Way to Communicate Your Food Allergies While Traveling](https://lifehacker.com/the-easiest-way-to-communicate-your-food-allergies-whil-1849190530)
 - [Lifehacker] [You Can Win a Free Canadian National Parks Pass](https://lifehacker.com/you-can-win-a-free-canadian-national-parks-pass-1849189347)
 - [Lifehacker] [The One Thing You Should Check Before Opening Any App File](https://lifehacker.com/the-one-thing-you-should-check-before-opening-any-app-f-1849189644)
-- [Lifehacker] [How to Upscale Your Tiny Apartment Balcony](https://lifehacker.com/how-to-upscale-your-tiny-apartment-balcony-1849189659)
-- [Lifehacker] [Take These European Vacations While the Dollar Is Strong](https://lifehacker.com/take-these-european-vacations-while-the-dollar-is-stron-1849189049)
-- [Lifehacker] [Track All of Your Travel Rewards Accounts With This App](https://lifehacker.com/track-all-of-your-travel-rewards-accounts-with-this-app-1849172848)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
-- [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
-- [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
 
 ---
 
