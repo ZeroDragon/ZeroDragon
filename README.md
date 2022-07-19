@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Memoization In JavaScript](https://dev.to/vedanthb/memoization-in-javascript-11ci)
+- [Dev.to/JS] [custom Mouse with javascript](https://dev.to/sababg/custom-mouse-with-javascript-1h7d)
+- [Dev.to/JS] [I18n with Svelte and Jest Tests](https://dev.to/deotyma/i18n-with-svelte-and-jest-tests-icm)
+- [Dev.to/JS] [Post-review: Migrating Create-React-App to Vite](https://dev.to/wkrueger/post-review-migrating-create-react-app-to-vite-7le)
 - [Dev.to/JS] [How to check Palindrome String in java?](https://dev.to/akshays81992169/how-to-check-palindrome-string-in-java-222e)
 - [Dev.to/JS] [Basic array operations combining Map, Filter &amp; Reduce in JavaScript](https://dev.to/alvisonhunter/basic-array-operations-combining-map-filter-reduce-in-javascript-37h2)
 - [Dev.to/JS] [custom Modal with javascript](https://dev.to/sababg/custom-modal-with-javascript-48ej)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Text Portrait](https://dev.to/sababg/text-portrait-1fj2)
 - [Dev.to/JS] [Chrome extension in 20 min](https://dev.to/r7kamura/chrome-extension-in-20-minutes-47ej)
 - [Dev.to/JS] [Gradient Borders](https://dev.to/sababg/gradient-borders-1gfi)
-- [Dev.to/JS] [How to read CSV files in the typescript react app?](https://dev.to/mahdi_falamarzi/how-to-read-csv-file-in-typescript-react-app-106h)
-- [Dev.to/JS] [xLinks.pro - clone of bio.link](https://dev.to/abhidadhaniya23/xlinkspro-clone-of-biolink-2j6b)
-- [Dev.to/JS] [Best Web Developer in Bangladesh](https://dev.to/akowser/best-web-developer-in-bangladesh-1lle)
-- [Dev.to/JS] [Lesser-known CSS property](https://dev.to/devsimc/lesser-known-css-property-12ff)
 - [Lifehacker] [Don&#39;t Miss the Final Supermoon of the Year](https://lifehacker.com/dont-miss-the-final-supermoon-of-the-year-1849190965)
 - [Lifehacker] [How Worried Should You Be About a Space Rock Destroying the Earth?](https://lifehacker.com/how-worried-should-you-be-about-a-space-rock-destroying-1849190978)
 - [Lifehacker] [How to Write the Perfect Speech Every Time](https://lifehacker.com/how-to-write-the-perfect-speech-every-time-1849191341)
