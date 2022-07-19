@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Looking for a job](https://dev.to/jameslee/looking-for-a-job-3o5k)
+- [Lifehacker] [Could You Have Antisocial Personality Disorder?](https://lifehacker.com/could-you-have-antisocial-personality-disorder-1849195227)
+- [Dev.to/JS] [How to add images to IPFS with node.js and ipfs-core](https://dev.to/rtagliavia/how-to-add-images-to-ipfs-with-nodejs-and-ipfs-core-3heo)
+- [Dev.to/JS] [How to add a loading status](https://dev.to/mperon/how-to-add-a-loading-status-55fd)
 - [Dev.to/JS] [How To Structure Your NextJs Application](https://dev.to/elbarryamine/how-to-structure-your-nextjs-application-488c)
 - [Dev.to/JS] [Youtube channels to follow as a Software Engineer](https://dev.to/jorgetovar621/youtube-channels-to-follow-as-a-software-engineer-5dk7)
 - [Lifehacker] [Three Surprising Ways to Use Vinegar in Your Garden](https://lifehacker.com/three-surprising-ways-to-use-vinegar-in-your-garden-1849195416)
@@ -36,9 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to create React Todo App](https://dev.to/vinobe21/how-to-create-react-todo-app-1j56)
 - [Dev.to/JS] [Supercharged Visual Studio Code - Part 1](https://dev.to/akinolu52/supercharged-visual-studio-code-part-1-5ffi)
 - [Lifehacker] [10 of the Cheapest and Healthiest Ways to Feed a Group, According to Reddit](https://lifehacker.com/10-of-the-cheapest-and-healthiest-ways-to-feed-a-group-1849191549)
-- [Dev.to/JS] [5 Questions I asked myself before starting my very first role as a junior developer](https://dev.to/iraamoni/5-questions-i-asked-myself-before-starting-my-very-first-role-as-a-junior-developer-61b)
-- [Dev.to/JS] [Make you own Web](https://dev.to/decker67/make-you-own-web-3c75)
-- [Dev.to/JS] [JavaScript Closure](https://dev.to/bipon68/javascript-closure-5gc)
 - [Lifehacker] [Why There&#39;s a Delay Before Your iPhone Screen Turns Off &lpar;and How to Eliminate It&rpar;](https://lifehacker.com/why-theres-a-delay-before-your-iphone-screen-turns-off-1849193703)
 - [Lifehacker] [How to Get the Most Out of Your Frequent Flyer Miles](https://lifehacker.com/how-to-get-the-most-out-of-your-frequent-flyer-miles-1849193486)
 - [Lifehacker] [11 Things We &lpar;Mostly&rpar; Don’t Need to Worry About Anymore](https://lifehacker.com/11-things-we-mostly-don-t-need-to-worry-about-anymore-1849192865)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Upscale Your Tiny Apartment Balcony](https://lifehacker.com/how-to-upscale-your-tiny-apartment-balcony-1849189659)
 - [Lifehacker] [Take These European Vacations While the Dollar Is Strong](https://lifehacker.com/take-these-european-vacations-while-the-dollar-is-stron-1849189049)
 - [Lifehacker] [Track All of Your Travel Rewards Accounts With This App](https://lifehacker.com/track-all-of-your-travel-rewards-accounts-with-this-app-1849172848)
-- [Lifehacker] [This Indian Shortbread Cookie Will Melt in Your Mouth](https://lifehacker.com/this-indian-shortbread-cookie-will-melt-in-your-mouth-1849185233)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)
 - [Crazy Programmer] [Top 10 Computer Science Universities in UK 2022](https://www.thecrazyprogrammer.com/2022/07/computer-science-universities-in-uk.html)<!-- TECH-POSTS:END -->
