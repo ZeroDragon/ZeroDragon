@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best Web Developer in Bangladesh](https://dev.to/akowser/best-web-developer-in-bangladesh-1lle)
 - [Dev.to/JS] [JSX for beginners &lpar;and how it differs from HTML&rpar;](https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e)
 - [Dev.to/JS] [Build your own github using Deno Fresh and Github REST API](https://dev.to/harshmangalam/build-your-own-github-using-deno-fresh-and-github-rest-api-32h6)
 - [Dev.to/JS] [GitHub Student Developer Pack...!](https://dev.to/avelinojrr/github-student-developer-pack-2m7e)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Worried Should You Be About a Space Rock Destroying the Earth?](https://lifehacker.com/how-worried-should-you-be-about-a-space-rock-destroying-1849190978)
 - [Dev.to/JS] [Magnifying Glass for Text and more!](https://dev.to/eitanwaxman/magnifying-glass-for-text-and-more-5a57)
 - [Dev.to/JS] [JavaScript, який потрібно знати для React](https://dev.to/hraboviyvadim/javascript-iakii-potribno-znati-dlia-react-50n7)
-- [Dev.to/JS] [Bun / the fastest Javascript runtime](https://dev.to/coderreviewio/bun-the-fastest-javascript-runtime-3kah)
 - [Lifehacker] [How to Write the Perfect Speech Every Time](https://lifehacker.com/how-to-write-the-perfect-speech-every-time-1849191341)
 - [Lifehacker] [How to Make Cheese Nuggets in Your Air Fryer](https://lifehacker.com/how-to-make-cheese-nuggets-in-your-air-fryer-1849191120)
 - [Lifehacker] [Three Underrated Uses for Your Vacuum](https://lifehacker.com/three-underrated-uses-for-your-vacuum-1849190450)
