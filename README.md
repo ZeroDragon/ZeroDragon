@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [addEventListener](https://dev.to/hannaha88/addeventlistener-aof)
 - [Dev.to/JS] [Full-Stack Developer &lpar;ReactJS&rpar;](https://dev.to/cassidyois/full-stack-developer-reactjs-2d8n)
 - [Dev.to/JS] [How to insert a iframe of Youtube Music on my page](https://dev.to/ifmcode/how-to-insert-a-iframe-of-youtube-music-on-my-page-3079)
 - [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
@@ -42,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Handling different node versions in Windows](https://dev.to/dhanushnehru/handling-different-node-versions-in-windows-54im)
 - [Lifehacker] [These Salt and Vinegar Freezer Fries Have All the Flavor and None of the Wetness](https://lifehacker.com/these-salt-and-vinegar-freezer-fries-have-all-the-flavo-1849195561)
 - [Dev.to/JS] [Paracetamol.js💊| #170: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-170-explica-este-codigo-javascript-1m7k)
-- [Dev.to/JS] [Top 120+ Websites to Learn to Code for Free](https://dev.to/bcoder_76/top-120-websites-to-learn-to-code-for-free-37gb)
 - [Lifehacker] [Does Powder Sunscreen Actually Work?](https://lifehacker.com/does-powder-sunscreen-actually-work-1849195592)
 - [Lifehacker] [Could You Have Antisocial Personality Disorder?](https://lifehacker.com/could-you-have-antisocial-personality-disorder-1849195227)
 - [Lifehacker] [Three Surprising Ways to Use Vinegar in Your Garden](https://lifehacker.com/three-surprising-ways-to-use-vinegar-in-your-garden-1849195416)
