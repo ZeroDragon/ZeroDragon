@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Best of Svelte and SvelteKit](https://dev.to/theether0/best-of-svelte-and-sveltekit-5585)
+- [Dev.to/JS] [Making a Create React App template with TypeScript and static testing tools](https://dev.to/jpreagan/making-a-create-react-app-template-with-typescript-and-static-testing-tools-1aii)
 - [Dev.to/JS] [How to detect an &quot;Anagram&quot; with JavaScript?](https://dev.to/sadiq1029/how-to-detect-an-anagram-with-javascript-5ch9)
 - [Dev.to/JS] [Application Menu and Context &lpar;Right Click&rpar; Menu using Svelte](https://dev.to/dukenmarga/application-menu-and-context-right-click-menu-using-svelte-46am)
 - [Dev.to/JS] [A Voice Bot with Alan and Monaca](https://dev.to/yongasial/a-voice-bot-with-alan-and-monaca-4fim)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
 - [Dev.to/JS] [Trying bun for the first time](https://dev.to/benyou1969/trying-bun-for-the-first-time-4epk)
 - [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
-- [Dev.to/JS] [Ng-News: Episode 22/28](https://dev.to/rainerhahnekamp/ng-news-episode-2228-38h1)
-- [Dev.to/JS] [I just finished building my Portfolio! Would appreciate feedback 🙏](https://dev.to/georgeisiguzo/i-just-finished-building-my-portfolio-would-appreciate-feedback-3b6l)
 - [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
 - [Lifehacker] [How to Benefit From Meditation Even If You’re Bad at It](https://lifehacker.com/how-to-benefit-from-meditation-even-if-you-re-bad-at-it-1849196719)
 - [Lifehacker] [Should You Upgrade From Your 1080p PC Monitor to 1440p?](https://lifehacker.com/should-you-upgrade-from-your-1080p-pc-monitor-to-1440p-1849196603)
