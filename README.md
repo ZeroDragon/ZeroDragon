@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [NodeJS + Postgres DB + Passport JWT + Passport Local Login and Authentication](https://dev.to/harish_soni/nodejs-postgres-db-passport-jwt-passport-local-login-and-authentication-43jg)
+- [Dev.to/JS] [THE RELEVANCE OF CODING TO THE ACADEMICS PERFORMANCE OF YOUR CHILD](https://dev.to/fliptotech/the-relevance-of-coding-to-the-academics-performance-of-your-child-3899)
+- [Dev.to/JS] [DevOps Simplified](https://dev.to/patilganesh1010/devops-simplified-j12)
 - [Dev.to/JS] [Introdução a Promises, Async / Await no JavaScript](https://dev.to/alanfabricio/introducao-a-promises-async-await-no-javascript-4pjm)
 - [Dev.to/JS] [Using RedisJSON and RedisSearch operation in Redis](https://dev.to/ishanme/using-redisjson-and-redissearch-operation-in-redis-2ec1)
 - [Dev.to/JS] [🔥 8 full-forms that every programmer should know 🔥](https://dev.to/devsimc/8-full-forms-that-every-programmer-should-know-1hfd)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Application Menu and Context &lpar;Right Click&rpar; Menu using Svelte](https://dev.to/dukenmarga/application-menu-and-context-right-click-menu-using-svelte-46am)
 - [Dev.to/JS] [A Voice Bot with Alan and Monaca](https://dev.to/yongasial/a-voice-bot-with-alan-and-monaca-4fim)
 - [Dev.to/JS] [How to Solve the Staircase Problem with 5 Lines of JavaScript](https://dev.to/apmfree78/how-to-solve-the-staircase-problem-with-5-lines-of-javascript-50ag)
-- [Dev.to/JS] [Why we still bundle with HTTP/2 in 2022](https://dev.to/paramagicdev/why-we-still-bundle-with-http2-in-2022-3noo)
-- [Dev.to/JS] [Trying to work out when to use if-else, switch or conditional &lpar;tenary&rpar; operator - The importance of MDN](https://dev.to/vassovass/trying-to-work-out-when-to-use-if-else-switch-or-conditional-tenary-operator-the-importance-of-mdn-27on)
-- [Dev.to/JS] [addEventListener](https://dev.to/hannaha88/addeventlistener-aof)
 - [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
 - [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
 - [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
