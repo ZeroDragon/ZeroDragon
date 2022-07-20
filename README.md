@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introdução a Promises, Async / Await no JavaScript](https://dev.to/alanfabricio/introducao-a-promises-async-await-no-javascript-4pjm)
+- [Dev.to/JS] [Using RedisJSON and RedisSearch operation in Redis](https://dev.to/ishanme/using-redisjson-and-redissearch-operation-in-redis-2ec1)
+- [Dev.to/JS] [🔥 8 full-forms that every programmer should know 🔥](https://dev.to/devsimc/8-full-forms-that-every-programmer-should-know-1hfd)
 - [Dev.to/JS] [Best of Svelte and SvelteKit](https://dev.to/theether0/best-of-svelte-and-sveltekit-5585)
 - [Dev.to/JS] [Making a Create React App template with TypeScript and static testing tools](https://dev.to/jpreagan/making-a-create-react-app-template-with-typescript-and-static-testing-tools-1aii)
 - [Dev.to/JS] [How to detect an &quot;Anagram&quot; with JavaScript?](https://dev.to/sadiq1029/how-to-detect-an-anagram-with-javascript-5ch9)
@@ -32,10 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Why we still bundle with HTTP/2 in 2022](https://dev.to/paramagicdev/why-we-still-bundle-with-http2-in-2022-3noo)
 - [Dev.to/JS] [Trying to work out when to use if-else, switch or conditional &lpar;tenary&rpar; operator - The importance of MDN](https://dev.to/vassovass/trying-to-work-out-when-to-use-if-else-switch-or-conditional-tenary-operator-the-importance-of-mdn-27on)
 - [Dev.to/JS] [addEventListener](https://dev.to/hannaha88/addeventlistener-aof)
-- [Dev.to/JS] [Full-Stack Developer &lpar;ReactJS&rpar;](https://dev.to/cassidyois/full-stack-developer-reactjs-2d8n)
-- [Dev.to/JS] [How to insert a iframe of Youtube Music on my page](https://dev.to/ifmcode/how-to-insert-a-iframe-of-youtube-music-on-my-page-3079)
 - [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
-- [Dev.to/JS] [Trying bun for the first time](https://dev.to/benyou1969/trying-bun-for-the-first-time-4epk)
 - [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
 - [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
 - [Lifehacker] [How to Benefit From Meditation Even If You’re Bad at It](https://lifehacker.com/how-to-benefit-from-meditation-even-if-you-re-bad-at-it-1849196719)
