@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Voice Bot with Alan and Monaca](https://dev.to/yongasial/a-voice-bot-with-alan-and-monaca-4fim)
 - [Dev.to/JS] [How to Solve the Staircase Problem with 5 Lines of JavaScript](https://dev.to/apmfree78/how-to-solve-the-staircase-problem-with-5-lines-of-javascript-50ag)
 - [Dev.to/JS] [Why we still bundle with HTTP/2 in 2022](https://dev.to/paramagicdev/why-we-still-bundle-with-http2-in-2022-3noo)
 - [Dev.to/JS] [Trying to work out when to use if-else, switch or conditional &lpar;tenary&rpar; operator - The importance of MDN](https://dev.to/vassovass/trying-to-work-out-when-to-use-if-else-switch-or-conditional-tenary-operator-the-importance-of-mdn-27on)
@@ -38,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
 - [Dev.to/JS] [Animating with Vue — Vue Amsterdam Conference 2022 Summary series — Seventh Talk](https://dev.to/mohsen_vaziri/animating-with-vue-vue-amsterdam-conference-2022-summary-series-seventh-talk-42c6)
 - [Lifehacker] [How to Benefit From Meditation Even If You’re Bad at It](https://lifehacker.com/how-to-benefit-from-meditation-even-if-you-re-bad-at-it-1849196719)
-- [Dev.to/JS] [Customize Algolia React components with Tailwind classes](https://dev.to/algolia/customize-algolia-react-components-with-tailwind-classes-2di6)
 - [Lifehacker] [Should You Upgrade From Your 1080p PC Monitor to 1440p?](https://lifehacker.com/should-you-upgrade-from-your-1080p-pc-monitor-to-1440p-1849196603)
 - [Lifehacker] [11 Ways to Repurpose an Old Phone or Tablet](https://lifehacker.com/11-ways-to-repurpose-an-old-phone-or-tablet-1849190602)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
