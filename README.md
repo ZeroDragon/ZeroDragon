@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript Types and Values, explained](https://dev.to/asayerio_techblog/javascript-types-and-values-explained-4ii2)
+- [Dev.to/JS] [Getting started with Îles](https://dev.to/asayerio_techblog/getting-started-with-iles-21oj)
+- [Dev.to/JS] [Understanding React dynamic imports for faster websites](https://dev.to/asayerio_techblog/understanding-react-dynamic-imports-for-faster-websites-elp)
 - [Dev.to/JS] [How to Use Redux Toolkit With React Native](https://dev.to/theadultnoble_6/how-to-use-redux-toolkit-with-react-native-2dm5)
 - [Dev.to/JS] [Spotify Clone Project](https://dev.to/chiki1601/spotify-clone-project-e8)
 - [Dev.to/JS] [?Assigning Api resposne to a variable undefined error](https://dev.to/hamsof/assigning-api-resposne-to-a-variable-undefined-error-235m)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hire Blockchain Software Developer In India || Nadcab technology](https://dev.to/nadcab1/hire-blockchain-software-developer-in-india-nadcab-technology-291h)
 - [Dev.to/JS] [[Open source front-end framework]Some middle school students&#39; framework tntjs](https://dev.to/sheepbox8646/open-source-front-end-frameworksome-middle-school-students-framework-tntjs-5bl5)
 - [Dev.to/JS] [Day 3: React useRef hook to scroll to HTML elements.](https://dev.to/nicklane/day-3-react-useref-hook-to-scroll-to-html-elements-5ake)
-- [Dev.to/JS] [Express GraphQL](https://dev.to/ckmonish2000/express-graphql-n7b)
-- [Dev.to/JS] [n8n deploys campaigns 1000x faster after integrating Strapi with its workflow automation tool](https://dev.to/strapi/n8n-deploys-campaigns-1000x-faster-after-integrating-strapi-with-its-workflow-automation-tool-46fo)
-- [Dev.to/JS] [NVM set default version](https://dev.to/dailydevtips1/nvm-set-default-version-1g3f)
 - [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
 - [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
 - [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
