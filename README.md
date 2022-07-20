@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Creating a full-fledged Spotify Playlist Generator in a Weekend](https://dev.to/jordantwells42/creating-a-full-fledged-spotify-playlist-generator-in-a-weekend-137p)
+- [Dev.to/JS] [Angular with amp pages](https://dev.to/trilokrawat/angular-with-amp-pages-1b2)
+- [Dev.to/JS] [Simple Route Transitions in Next.js](https://dev.to/calinalexandru/simple-route-transitions-in-nextjs-15ck)
 - [Dev.to/JS] [JavaScript Types and Values, explained](https://dev.to/asayerio_techblog/javascript-types-and-values-explained-4ii2)
 - [Dev.to/JS] [Getting started with Îles](https://dev.to/asayerio_techblog/getting-started-with-iles-21oj)
 - [Dev.to/JS] [Understanding React dynamic imports for faster websites](https://dev.to/asayerio_techblog/understanding-react-dynamic-imports-for-faster-websites-elp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Only 3 days until the early bird tickets for the biggest tech conference in MEA are out!](https://dev.to/essaydyoumayma/only-3-days-until-the-early-bird-tickets-for-the-biggest-tech-conferences-in-mea-are-out-4k8c)
 - [Dev.to/JS] [Interview Question: Explain how `this` works in JavaScript [in 3 mins].](https://dev.to/anewman15/interview-question-explain-how-this-works-in-javascript-in-mins-1cfo)
 - [Dev.to/JS] [Multiplying numbers when they&#39;re strings](https://dev.to/mellen/multiplying-numbers-when-theyre-strings-16nk)
-- [Dev.to/JS] [Hire Blockchain Software Developer In India || Nadcab technology](https://dev.to/nadcab1/hire-blockchain-software-developer-in-india-nadcab-technology-291h)
-- [Dev.to/JS] [[Open source front-end framework]Some middle school students&#39; framework tntjs](https://dev.to/sheepbox8646/open-source-front-end-frameworksome-middle-school-students-framework-tntjs-5bl5)
-- [Dev.to/JS] [Day 3: React useRef hook to scroll to HTML elements.](https://dev.to/nicklane/day-3-react-useref-hook-to-scroll-to-html-elements-5ake)
 - [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
 - [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
 - [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
