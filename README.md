@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Notifee Setup for React Native with Firebase](https://dev.to/anasnmu/notifee-setup-for-react-native-with-firebase-1jc6)
 - [Dev.to/JS] [Coding podcasts and music!](https://dev.to/lostoneway/coding-podcasts-and-music-388p)
 - [Lifehacker] [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
 - [Dev.to/JS] [Getting started with React Router](https://dev.to/vishalgaurav/getting-started-with-react-router-j08)
@@ -40,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started with Serverless Functions using Vercel — II](https://dev.to/this-is-learning/getting-started-with-serverless-functions-using-vercel-ii-4jo7)
 - [Dev.to/JS] [Getting started with Serverless Functions using Vercel — I](https://dev.to/this-is-learning/getting-started-with-serverless-functions-using-vercel-i-52o7)
 - [Lifehacker] [How Much Cash Should You Keep in Your Checking and Savings Accounts](https://lifehacker.com/how-much-cash-should-you-keep-in-your-checking-and-savi-1849199688)
-- [Dev.to/JS] [Todo App Using A New Web Component Framework](https://dev.to/rareearth/todo-app-using-a-new-web-component-framework-4c3i)
 - [Lifehacker] [How Worried Should Parents Be About Parechovirus?](https://lifehacker.com/how-worried-should-parents-be-about-parechovirus-1849200626)
 - [Lifehacker] [You&#39;re Seasoning Your Potatoes at the Wrong Time](https://lifehacker.com/youre-seasoning-your-potatoes-at-the-wrong-time-1849200400)
 - [Lifehacker] [What&#39;s New on Hulu in August 2022](https://lifehacker.com/whats-new-on-hulu-in-august-2022-1849200451)
