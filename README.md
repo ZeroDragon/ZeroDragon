@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Coding podcasts and music!](https://dev.to/lostoneway/coding-podcasts-and-music-388p)
+- [Lifehacker] [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
+- [Dev.to/JS] [Getting started with React Router](https://dev.to/vishalgaurav/getting-started-with-react-router-j08)
 - [Dev.to/JS] [Should You Use Angular In 2022](https://dev.to/kalashin1/should-you-use-angular-in-2022-1ebm)
 - [Lifehacker] [Why You Should Reach Out to an Old Friend, According to Science](https://lifehacker.com/why-you-should-reach-out-to-an-old-friend-according-to-1849211263)
 - [Dev.to/JS] [Casino Sitelinks casinosite](https://dev.to/khon1155/casino-sitelinks-casinosite-57ge)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Getting started with Serverless Functions using Vercel — I](https://dev.to/this-is-learning/getting-started-with-serverless-functions-using-vercel-i-52o7)
 - [Lifehacker] [How Much Cash Should You Keep in Your Checking and Savings Accounts](https://lifehacker.com/how-much-cash-should-you-keep-in-your-checking-and-savi-1849199688)
 - [Dev.to/JS] [Todo App Using A New Web Component Framework](https://dev.to/rareearth/todo-app-using-a-new-web-component-framework-4c3i)
-- [Dev.to/JS] [I don&#39;t know how to think. I can&#39;t start thinking. Frontend Developer](https://dev.to/khnbzkrt/i-dont-know-how-to-think-i-cant-start-thinking-frontend-developer-32a0)
-- [Dev.to/JS] [Add a revolving word to your landing page title 🎰](https://dev.to/haug/add-a-revolving-word-to-your-landing-page-title-55ff)
 - [Lifehacker] [How Worried Should Parents Be About Parechovirus?](https://lifehacker.com/how-worried-should-parents-be-about-parechovirus-1849200626)
 - [Lifehacker] [You&#39;re Seasoning Your Potatoes at the Wrong Time](https://lifehacker.com/youre-seasoning-your-potatoes-at-the-wrong-time-1849200400)
 - [Lifehacker] [What&#39;s New on Hulu in August 2022](https://lifehacker.com/whats-new-on-hulu-in-august-2022-1849200451)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Upgrade From Your 1080p PC Monitor to 1440p?](https://lifehacker.com/should-you-upgrade-from-your-1080p-pc-monitor-to-1440p-1849196603)
 - [Lifehacker] [11 Ways to Repurpose an Old Phone or Tablet](https://lifehacker.com/11-ways-to-repurpose-an-old-phone-or-tablet-1849190602)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
-- [Lifehacker] [These Salt and Vinegar Freezer Fries Have All the Flavor and None of the Wetness](https://lifehacker.com/these-salt-and-vinegar-freezer-fries-have-all-the-flavo-1849195561)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
 
