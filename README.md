@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #171: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-171-explica-este-codigo-javascript-3d6g)
+- [Dev.to/JS] [Introduction to Monorepos with Yarn Workspaces](https://dev.to/jmalvarez/introduction-to-monorepos-with-yarn-workspaces-262c)
+- [Dev.to/JS] [React Query v4 + SSR in Next JS](https://dev.to/arianhamdi/react-query-v4-ssr-in-next-js-2ojj)
+- [Dev.to/JS] [Ecommerce Template](https://dev.to/vinobe21/ecommerce-template-39la)
 - [Dev.to/JS] [Deep dive into TypeScript Utility Types. Part 1](https://dev.to/vbrdnk/deep-dive-into-typescript-utility-types-part-1-82)
 - [Dev.to/JS] [Path.resolve](https://dev.to/masterifeanyi/pathresolve-1ime)
 - [Dev.to/JS] [Fun with JavaScipt proxies: observability, extensible chaining, and callable objects](https://dev.to/sethcalebweeks/fun-with-javascipt-proxies-observability-extensible-chaining-and-callable-objects-fdp)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build A Subscription System With Stripe and Vue.js](https://dev.to/denisseab/build-a-subscription-system-with-stripe-and-vuejs-5fpk)
 - [Dev.to/JS] [Test](https://dev.to/thisaakash/test-2bbm)
 - [Dev.to/JS] [Model web component behaviour with XState](https://dev.to/ficusjs/model-web-component-behaviour-with-xstate-2ll7)
-- [Dev.to/JS] [How to build a truly extensible low-code UI framework](https://dev.to/yuyz0112/how-to-build-a-truly-extensible-low-code-ui-framework-25l)
-- [Dev.to/JS] [Core Team vs. Contributors](https://dev.to/novu/core-team-vs-contributors-3fp0)
-- [Dev.to/JS] [Random Password Generator with Javascript | Source Code](https://dev.to/codewithayan/random-password-generator-with-javascript-source-code-2ch0)
-- [Dev.to/JS] [Make a HTML content editable in SvelteKit](https://dev.to/theether0/make-a-html-editable-in-sveltekit-5hd5)
 - [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
 - [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
 - [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
