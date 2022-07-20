@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Solve the Staircase Problem with 5 Lines of JavaScript](https://dev.to/apmfree78/how-to-solve-the-staircase-problem-with-5-lines-of-javascript-50ag)
+- [Dev.to/JS] [Why we still bundle with HTTP/2 in 2022](https://dev.to/paramagicdev/why-we-still-bundle-with-http2-in-2022-3noo)
 - [Dev.to/JS] [Trying to work out when to use if-else, switch or conditional &lpar;tenary&rpar; operator - The importance of MDN](https://dev.to/vassovass/trying-to-work-out-when-to-use-if-else-switch-or-conditional-tenary-operator-the-importance-of-mdn-27on)
 - [Dev.to/JS] [addEventListener](https://dev.to/hannaha88/addeventlistener-aof)
 - [Dev.to/JS] [Full-Stack Developer &lpar;ReactJS&rpar;](https://dev.to/cassidyois/full-stack-developer-reactjs-2d8n)
@@ -39,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Customize Algolia React components with Tailwind classes](https://dev.to/algolia/customize-algolia-react-components-with-tailwind-classes-2di6)
 - [Lifehacker] [Should You Upgrade From Your 1080p PC Monitor to 1440p?](https://lifehacker.com/should-you-upgrade-from-your-1080p-pc-monitor-to-1440p-1849196603)
 - [Lifehacker] [11 Ways to Repurpose an Old Phone or Tablet](https://lifehacker.com/11-ways-to-repurpose-an-old-phone-or-tablet-1849190602)
-- [Dev.to/JS] [Construct a awesome JavaScript Drum stick in just 5 minutes](https://dev.to/kumarkalyan/construct-a-awesome-javascript-drum-stick-in-just-5-minutes-1fjh)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
-- [Dev.to/JS] [Handling different node versions in Windows](https://dev.to/dhanushnehru/handling-different-node-versions-in-windows-54im)
 - [Lifehacker] [These Salt and Vinegar Freezer Fries Have All the Flavor and None of the Wetness](https://lifehacker.com/these-salt-and-vinegar-freezer-fries-have-all-the-flavo-1849195561)
 - [Lifehacker] [Does Powder Sunscreen Actually Work?](https://lifehacker.com/does-powder-sunscreen-actually-work-1849195592)
 - [Lifehacker] [Could You Have Antisocial Personality Disorder?](https://lifehacker.com/could-you-have-antisocial-personality-disorder-1849195227)
