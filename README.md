@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What&#39;s New on Netflix in August 2022](https://lifehacker.com/whats-new-on-netflix-in-august-2022-1849200453)
+- [Dev.to/JS] [Building the database of tomorrow](https://dev.to/surrealdb/building-the-database-of-tomorrow-58kc)
+- [Dev.to/JS] [Creating a global notifications system with superstate and React](https://dev.to/chiefgui/creating-a-global-notifications-system-with-superstate-and-react-4fa7)
+- [Lifehacker] [You Should Make Lemon-Caper Popcorn Immediately](https://lifehacker.com/you-should-make-lemon-caper-popcorn-immediately-1849201102)
 - [Dev.to/JS] [Make Videos With JavaScript 2](https://dev.to/kadeesterline/make-videos-with-javascript-2-1pfl)
 - [Dev.to/JS] [Angular Chat Application Tutorial](https://dev.to/alakkadshaw/angular-chat-application-tutorial-4him)
 - [Dev.to/JS] [Getting started with Serverless Functions using Vercel — II](https://dev.to/this-is-learning/getting-started-with-serverless-functions-using-vercel-ii-4jo7)
@@ -38,8 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in August 2022](https://lifehacker.com/whats-new-on-hulu-in-august-2022-1849200451)
 - [Dev.to/JS] [Paracetamol.js💊| #171: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-171-explica-este-codigo-javascript-3d6g)
 - [Lifehacker] [Here’s How to Get Up to $200 Off Samsung’s New Devices](https://lifehacker.com/here-s-how-to-get-up-to-200-off-samsung-s-new-devices-1849199612)
-- [Dev.to/JS] [Introduction to Monorepos with Yarn Workspaces](https://dev.to/jmalvarez/introduction-to-monorepos-with-yarn-workspaces-262c)
-- [Dev.to/JS] [React Query v4 + SSR in Next JS](https://dev.to/arianhamdi/react-query-v4-ssr-in-next-js-2ojj)
 - [Lifehacker] [How to Stop Microsoft Teams From Slowing Your Mac to a Crawl](https://lifehacker.com/how-to-stop-microsoft-teams-from-slowing-your-mac-to-a-1849198990)
 - [Lifehacker] [How You Should Respond to a Job Rejection Email](https://lifehacker.com/how-you-should-respond-to-a-job-rejection-email-1849197465)
 - [Lifehacker] [How to Make Your Own Oat Flour &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-own-oat-flour-and-why-you-should-1849197630)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Salt and Vinegar Freezer Fries Have All the Flavor and None of the Wetness](https://lifehacker.com/these-salt-and-vinegar-freezer-fries-have-all-the-flavo-1849195561)
 - [Lifehacker] [Does Powder Sunscreen Actually Work?](https://lifehacker.com/does-powder-sunscreen-actually-work-1849195592)
 - [Lifehacker] [Could You Have Antisocial Personality Disorder?](https://lifehacker.com/could-you-have-antisocial-personality-disorder-1849195227)
-- [Lifehacker] [Three Surprising Ways to Use Vinegar in Your Garden](https://lifehacker.com/three-surprising-ways-to-use-vinegar-in-your-garden-1849195416)
-- [Lifehacker] [You Should Be Freezing Chickpea Liquid](https://lifehacker.com/you-should-be-freezing-chickpea-liquid-1849193948)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
 
