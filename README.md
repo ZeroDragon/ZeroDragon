@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How Worried Should Parents Be About Parechovirus?](https://lifehacker.com/how-worried-should-parents-be-about-parechovirus-1849200626)
+- [Dev.to/JS] [Beercss tips #1: Custom progressbar](https://dev.to/leonardorafael/beercss-tips-1-custom-progressbar-jfb)
+- [Dev.to/JS] [Byte Story: What happens when you type google.com](https://dev.to/iharryd/byte-story-what-happens-when-you-type-googlecom-2co2)
 - [Dev.to/JS] [Paracetamol.js💊| #171: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-171-explica-este-codigo-javascript-3d6g)
 - [Dev.to/JS] [Introduction to Monorepos with Yarn Workspaces](https://dev.to/jmalvarez/introduction-to-monorepos-with-yarn-workspaces-262c)
 - [Dev.to/JS] [React Query v4 + SSR in Next JS](https://dev.to/arianhamdi/react-query-v4-ssr-in-next-js-2ojj)
@@ -33,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [NextJS getStaticProps With Components](https://dev.to/brewhousedigital/nextjs-getstaticprops-with-components-f25)
 - [Dev.to/JS] [778. Swim in Rising Water 🚀](https://dev.to/samuelhinchliffe/778-swim-in-rising-water-3aen)
 - [Dev.to/JS] [Build A Subscription System With Stripe and Vue.js](https://dev.to/denisseab/build-a-subscription-system-with-stripe-and-vuejs-5fpk)
-- [Dev.to/JS] [Test](https://dev.to/thisaakash/test-2bbm)
-- [Dev.to/JS] [Model web component behaviour with XState](https://dev.to/ficusjs/model-web-component-behaviour-with-xstate-2ll7)
 - [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
 - [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
 - [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Worried Should You Be About a Space Rock Destroying the Earth?](https://lifehacker.com/how-worried-should-you-be-about-a-space-rock-destroying-1849190978)
 - [Lifehacker] [How to Write the Perfect Speech Every Time](https://lifehacker.com/how-to-write-the-perfect-speech-every-time-1849191341)
 - [Lifehacker] [How to Make Cheese Nuggets in Your Air Fryer](https://lifehacker.com/how-to-make-cheese-nuggets-in-your-air-fryer-1849191120)
-- [Lifehacker] [Three Underrated Uses for Your Vacuum](https://lifehacker.com/three-underrated-uses-for-your-vacuum-1849190450)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
 
