@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [4 Simple Ways to Covert a JavaScript String to a Number](https://dev.to/apmfree78/4-simple-ways-to-covert-a-javascript-string-to-a-number-m5h)
+- [Dev.to/JS] [Usando o shepherdjs para fazer tours em sua aplicação nuxt &lpar;vue.js&rpar; &lpar;Parte 1&rpar;](https://dev.to/cesarbhering/usando-o-shepherdjs-para-fazer-tours-em-sua-aplicacao-nuxt-vuejs-parte-1-4894)
+- [Dev.to/JS] [O que é REPL Driven Development?](https://dev.to/grubba/o-que-e-repl-driven-development-2fm)
+- [Dev.to/JS] [Clojure na visão de um dev JS](https://dev.to/grubba/clojure-na-visao-de-um-dev-js-3om2)
+- [Dev.to/JS] [Criando uma extensão para o VSCode](https://dev.to/grubba/criando-uma-extensao-para-o-vscode-5h1i)
 - [Dev.to/JS] [Access the Clipboard in JavaScript](https://dev.to/saranshk/access-the-clipboard-in-javascript-2co6)
 - [Dev.to/JS] [Create A Subscription System With Stripe and Vue.js](https://dev.to/denisseab/create-a-subscription-system-with-stripe-and-vuejs-2mii)
 - [Dev.to/JS] [need help &#39;React import things &#39;](https://dev.to/abdallahag5/need-help-react-import-things--46fa)
@@ -31,14 +36,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Coding podcasts and music!](https://dev.to/lostoneway/coding-podcasts-and-music-388p)
 - [Lifehacker] [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
 - [Dev.to/JS] [Getting started with React Router](https://dev.to/vishalgaurav/getting-started-with-react-router-j08)
-- [Dev.to/JS] [Should You Use Angular In 2022](https://dev.to/kalashin1/should-you-use-angular-in-2022-1ebm)
 - [Lifehacker] [Why You Should Reach Out to an Old Friend, According to Science](https://lifehacker.com/why-you-should-reach-out-to-an-old-friend-according-to-1849211263)
-- [Dev.to/JS] [Casino Sitelinks casinosite](https://dev.to/khon1155/casino-sitelinks-casinosite-57ge)
-- [Dev.to/JS] [Multi Nested Dynamic Routes in NextJs](https://dev.to/willholmes/multi-nested-dynamic-routes-in-nextjs-30f7)
 - [Lifehacker] [Even More Android Malware Was Discovered on Google Play](https://lifehacker.com/even-more-android-malware-was-discovered-on-google-play-1849201021)
 - [Lifehacker] [What&#39;s New on Netflix in August 2022](https://lifehacker.com/whats-new-on-netflix-in-august-2022-1849200453)
-- [Dev.to/JS] [Building the database of tomorrow](https://dev.to/surrealdb/building-the-database-of-tomorrow-58kc)
-- [Dev.to/JS] [Creating a global notifications system with superstate and React](https://dev.to/chiefgui/creating-a-global-notifications-system-with-superstate-and-react-4fa7)
 - [Lifehacker] [You Should Make Lemon-Caper Popcorn Immediately](https://lifehacker.com/you-should-make-lemon-caper-popcorn-immediately-1849201102)
 - [Lifehacker] [How Much Cash Should You Keep in Your Checking and Savings Accounts](https://lifehacker.com/how-much-cash-should-you-keep-in-your-checking-and-savi-1849199688)
 - [Lifehacker] [How Worried Should Parents Be About Parechovirus?](https://lifehacker.com/how-worried-should-parents-be-about-parechovirus-1849200626)
