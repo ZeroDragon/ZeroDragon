@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [You should be able to use module scripts in the `file://` protocol!](https://dev.to/baenencalin/you-should-be-able-to-use-module-scripts-in-the-file-protocol-40ml)
+- [Dev.to/JS] [One problem with callback in Javascript](https://dev.to/vishalgaurav/one-problem-with-callback-in-javascript-4kbg)
+- [Dev.to/JS] [Rest Parameters &amp; Spread Syntax](https://dev.to/irajbhinde/rest-parameters-spread-syntax-2k92)
+- [Lifehacker] [Your iPhone Has a Hidden Haptic Keyboard](https://lifehacker.com/your-iphone-has-a-hidden-haptic-keyboard-1849315813)
+- [Dev.to/JS] [Inside Javascript Engine](https://dev.to/mihirverma7781/inside-javascript-engine-373)
 - [Lifehacker] [Four Ways to Give Your Whipped Cream a Sophisticated Edge](https://lifehacker.com/four-ways-to-give-your-whipped-cream-a-sophisticated-ed-1849315983)
 - [Dev.to/JS] [Redefining Motivation. Redefining Myself.](https://dev.to/morethan2searches/redefining-motivation-redefining-myself-3dcn)
 - [Lifehacker] [How to Start Investing](https://lifehacker.com/how-to-start-investing-1849315591)
@@ -34,15 +39,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Set Up ESLint and Prettier in a React App with Absolute Imports &lpar;2022&rpar;](https://dev.to/eshankvaish/set-up-eslint-and-prettier-in-a-react-app-with-absolute-imports-2022-4d86)
 - [Dev.to/JS] [Javascript : behind the scene](https://dev.to/surajpatil510/javascript-behind-the-scene-2jfk)
 - [Lifehacker] [How to Fix a Struggling Air Conditioner](https://lifehacker.com/how-to-fix-a-struggling-air-conditioner-1849315016)
-- [Dev.to/JS] [I made a social website dedicated to web code](https://dev.to/munch/i-made-a-social-website-dedicated-to-web-code-29b8)
 - [Dev.to/JS] [Functions in JavaScript.](https://dev.to/kamaldeenlawal/functions-in-javascript-4hji)
-- [Dev.to/JS] [GitHub Profile Finder App](https://dev.to/dabanandamitra/github-profile-finder-app-55no)
+- [Dev.to/JS] [I made a social website dedicated to web code](https://dev.to/munch/i-made-a-social-website-dedicated-to-web-code-29b8)
 - [Lifehacker] [15 Alien Abduction Movies That Paved the Way for ‘Nope’](https://lifehacker.com/15-alien-abduction-movies-that-paved-the-way-for-nope-1849218944)
-- [Dev.to/JS] [Tools for a B2B App?!](https://dev.to/diogovski/tools-for-a-b2b-app-2fae)
 - [Lifehacker] [How to Stay Calm During Your Toddler’s Tantrum, According to a Neuroscientist](https://lifehacker.com/how-to-stay-calm-during-your-toddler-s-tantrum-accordi-1849314522)
-- [Dev.to/JS] [Two years of dev.to - let&#39;s celebrate with a &quot;Dance Dance Revolution&quot; clone! 💃🕺🎉](https://dev.to/thormeier/two-years-of-devto-lets-celebrate-with-a-dance-dance-revolution-clone-4b22)
 - [Lifehacker] [How to Play &#39;MultiVersus&#39; Right Now](https://lifehacker.com/how-to-play-multiversus-right-now-1849314330)
-- [Dev.to/JS] [How to get 2000+ stars on GitHub with 11 places to promote your project](https://dev.to/ixartz/how-to-get-2000-stars-on-github-with-11-places-to-promote-your-project-2o3h)
 - [Lifehacker] [Impress Yourself &lpar;and Others&rpar; by Always Having This With You During a Heat Wave](https://lifehacker.com/impress-yourself-and-others-by-always-having-this-wit-1849314408)
 - [Lifehacker] [The Most Creative Ways to Use the Equity In Your House](https://lifehacker.com/the-most-creative-ways-to-use-the-equity-in-your-house-1849312480)
 - [Lifehacker] [You Should Add a Pudding Cup to Your Muffin Mix](https://lifehacker.com/you-should-add-a-pudding-cup-to-your-muffin-mix-1849312092)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Cash Should You Keep in Your Checking and Savings Accounts](https://lifehacker.com/how-much-cash-should-you-keep-in-your-checking-and-savi-1849199688)
 - [Lifehacker] [How Worried Should Parents Be About Parechovirus?](https://lifehacker.com/how-worried-should-parents-be-about-parechovirus-1849200626)
 - [Lifehacker] [You&#39;re Seasoning Your Potatoes at the Wrong Time](https://lifehacker.com/youre-seasoning-your-potatoes-at-the-wrong-time-1849200400)
-- [Lifehacker] [What&#39;s New on Hulu in August 2022](https://lifehacker.com/whats-new-on-hulu-in-august-2022-1849200451)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
