@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The different syntax of import packages between python and Nodejs](https://dev.to/fernandocavill/the-different-syntax-of-import-packages-between-python-and-nodejs-2ldd)
 - [Dev.to/JS] [Modern JS](https://dev.to/myleftshoe/modern-js-ohc)
 - [Dev.to/JS] [Miniminalismo com Node](https://dev.to/grubba/miniminalismo-com-node-3ioe)
 - [Dev.to/JS] [4 Simple Ways to Covert a JavaScript String to a Number](https://dev.to/apmfree78/4-simple-ways-to-covert-a-javascript-string-to-a-number-m5h)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create A Subscription System With Stripe and Vue.js](https://dev.to/denisseab/create-a-subscription-system-with-stripe-and-vuejs-2mii)
 - [Dev.to/JS] [need help &#39;React import things &#39;](https://dev.to/abdallahag5/need-help-react-import-things--46fa)
 - [Dev.to/JS] [WeakMap in Javascript](https://dev.to/l2zg7e/weakmap-in-javascript-54i3)
-- [Dev.to/JS] [Notifee Setup for React Native with Firebase](https://dev.to/anasnmu/notifee-setup-for-react-native-with-firebase-1jc6)
 - [Lifehacker] [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
 - [Lifehacker] [Why You Should Reach Out to an Old Friend, According to Science](https://lifehacker.com/why-you-should-reach-out-to-an-old-friend-according-to-1849211263)
 - [Lifehacker] [Even More Android Malware Was Discovered on Google Play](https://lifehacker.com/even-more-android-malware-was-discovered-on-google-play-1849201021)
