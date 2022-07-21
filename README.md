@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Stay Calm During Your Toddler’s Tantrum, According to a Neuroscientist](https://lifehacker.com/how-to-stay-calm-during-your-toddler-s-tantrum-accordi-1849314522)
+- [Dev.to/JS] [Two years of dev.to - let&#39;s celebrate with a &quot;Dance Dance Revolution&quot; clone! 💃🕺🎉](https://dev.to/thormeier/two-years-of-devto-lets-celebrate-with-a-dance-dance-revolution-clone-4b22)
+- [Lifehacker] [How to Play &#39;MultiVersus&#39; Right Now](https://lifehacker.com/how-to-play-multiversus-right-now-1849314330)
 - [Dev.to/JS] [How to get 2000+ stars on GitHub with 11 places to promote your project](https://dev.to/ixartz/how-to-get-2000-stars-on-github-with-11-places-to-promote-your-project-2o3h)
 - [Dev.to/JS] [What are the Three Variables in JavaScript?](https://dev.to/max88git/what-are-the-three-variables-in-javascript-3hnf)
 - [Dev.to/JS] [Binary search tree](https://dev.to/vermaprince123/binary-search-tree-mf5)
@@ -38,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [My 3rd Year school project PFE&lpar;Projects Management System&rpar;.](https://dev.to/stormsidali2001/my-3rd-year-school-project-pfeprojects-management-system-en4)
 - [Dev.to/JS] [Svelte meets Ionic + Capacitor](https://dev.to/mandrasch/svelte-meets-ionic-capacitor-332n)
 - [Lifehacker] [Do These Things Now to Keep Your Garden Blooming Until Fall](https://lifehacker.com/do-these-things-now-to-keep-your-garden-blooming-until-1849260125)
-- [Dev.to/JS] [Top 5 Chrome Extensions for developers](https://dev.to/lodstare/top-5-chrome-extensions-for-developers-221l)
 - [Lifehacker] [How to Camp With Your Partner and Actually Enjoy It](https://lifehacker.com/how-to-camp-with-your-partner-and-actually-enjoy-it-1849228629)
 - [Lifehacker] [13 More Animal Video Games to Play When You Finish &#39;Stray&#39;](https://lifehacker.com/13-more-animal-video-games-to-play-when-you-finish-stra-1849218567)
 - [Lifehacker] [This Simple Chip and Dip Combo Is a Flavor Explosion](https://lifehacker.com/this-simple-chip-and-dip-combo-is-a-flavor-explosion-1849213338)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Your Own Oat Flour &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-own-oat-flour-and-why-you-should-1849197630)
 - [Lifehacker] [You Can Now Quickly Edit Multiple Photos at Once on Your iPhone](https://lifehacker.com/you-can-now-quickly-edit-multiple-photos-at-once-on-you-1849198579)
 - [Lifehacker] [How to Stop Blossom End Rot on Your Tomatoes and Squash](https://lifehacker.com/how-to-stop-blossom-end-rot-on-your-tomatoes-and-squash-1849198429)
-- [Lifehacker] [What&#39;s New on Disney+ in August 2022](https://lifehacker.com/whats-new-on-disney-in-august-2022-1849198150)
-- [Lifehacker] [The Best New Apple Notes Features in iOS 16](https://lifehacker.com/the-best-new-apple-notes-features-in-ios-16-1849193432)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
