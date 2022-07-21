@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Quick Way to Check if 2 Arrays are Equal in JavaScript](https://dev.to/apmfree78/quick-way-to-check-if-2-arrays-are-equal-in-javascript-4ldl)
+- [Dev.to/JS] [Updates from the 91st TC39 meeting](https://dev.to/hemanth/updates-from-the-91th-tc39-meeting-779)
+- [Dev.to/JS] [React Native Tab Bar Animation](https://dev.to/anasnmu/react-native-tab-bar-animation-1mm5)
+- [Dev.to/JS] [Herança em JavaScript com prototype e function](https://dev.to/welingtoncassis/heranca-em-javascript-com-prototype-e-function-35lf)
+- [Dev.to/JS] [Super Easy &amp; Profitable “Pro Hack” For Amazing Websites With NextJs](https://dev.to/sashevuchkov/super-easy-profitable-pro-hack-for-amazing-websites-with-nextjs-pf5)
 - [Dev.to/JS] [Get Started Building CLI Tools with Node.js](https://dev.to/jmalvarez/get-started-building-cli-tools-with-nodejs-4eg7)
 - [Lifehacker] [Have You Tried Doing Nothing?](https://lifehacker.com/have-you-tried-doing-nothing-1849316346)
 - [Dev.to/JS] [Free One Page Responsive Website Templates with Slider HTML CSS](https://dev.to/hmawebdesign/free-one-page-responsive-website-templates-with-slider-html-css-1h28)
@@ -35,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to Give Your Whipped Cream a Sophisticated Edge](https://lifehacker.com/four-ways-to-give-your-whipped-cream-a-sophisticated-ed-1849315983)
 - [Dev.to/JS] [Redefining Motivation. Redefining Myself.](https://dev.to/morethan2searches/redefining-motivation-redefining-myself-3dcn)
 - [Lifehacker] [How to Start Investing](https://lifehacker.com/how-to-start-investing-1849315591)
-- [Dev.to/JS] [What You Never Learned about JavaScript Functions](https://dev.to/coderpad/what-you-never-learned-about-javascript-functions-5caj)
-- [Dev.to/JS] [JavaScript struggles - 6 | truthy &amp; falsy values](https://dev.to/abdelrahman_dwedar/javascript-struggles-6-truthy-falsy-values-1hoc)
 - [Lifehacker] [Fix Your Dripping Air Conditioner Once and for All](https://lifehacker.com/fix-your-dripping-air-conditioner-once-and-for-all-1849315453)
-- [Dev.to/JS] [How to Set up Github Actions for CI/CD in React Apps](https://dev.to/eshankvaish/how-to-set-up-github-actions-for-cicd-in-react-apps-4k91)
 - [Lifehacker] [Frozen Prunes Are Amazing, Actually](https://lifehacker.com/frozen-prunes-are-amazing-actually-1849315080)
-- [Dev.to/JS] [Set Up ESLint and Prettier in a React App with Absolute Imports &lpar;2022&rpar;](https://dev.to/eshankvaish/set-up-eslint-and-prettier-in-a-react-app-with-absolute-imports-2022-4d86)
-- [Dev.to/JS] [Javascript : behind the scene](https://dev.to/surajpatil510/javascript-behind-the-scene-2jfk)
 - [Lifehacker] [How to Fix a Struggling Air Conditioner](https://lifehacker.com/how-to-fix-a-struggling-air-conditioner-1849315016)
 - [Lifehacker] [15 Alien Abduction Movies That Paved the Way for ‘Nope’](https://lifehacker.com/15-alien-abduction-movies-that-paved-the-way-for-nope-1849218944)
 - [Lifehacker] [How to Stay Calm During Your Toddler’s Tantrum, According to a Neuroscientist](https://lifehacker.com/how-to-stay-calm-during-your-toddler-s-tantrum-accordi-1849314522)
