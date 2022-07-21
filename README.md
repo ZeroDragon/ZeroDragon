@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Access the Clipboard in JavaScript](https://dev.to/saranshk/access-the-clipboard-in-javascript-2co6)
+- [Dev.to/JS] [Create A Subscription System With Stripe and Vue.js](https://dev.to/denisseab/create-a-subscription-system-with-stripe-and-vuejs-2mii)
+- [Dev.to/JS] [need help &#39;React import things &#39;](https://dev.to/abdallahag5/need-help-react-import-things--46fa)
 - [Dev.to/JS] [WeakMap in Javascript](https://dev.to/l2zg7e/weakmap-in-javascript-54i3)
 - [Dev.to/JS] [Notifee Setup for React Native with Firebase](https://dev.to/anasnmu/notifee-setup-for-react-native-with-firebase-1jc6)
 - [Dev.to/JS] [Coding podcasts and music!](https://dev.to/lostoneway/coding-podcasts-and-music-388p)
@@ -33,12 +36,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Casino Sitelinks casinosite](https://dev.to/khon1155/casino-sitelinks-casinosite-57ge)
 - [Dev.to/JS] [Multi Nested Dynamic Routes in NextJs](https://dev.to/willholmes/multi-nested-dynamic-routes-in-nextjs-30f7)
 - [Lifehacker] [Even More Android Malware Was Discovered on Google Play](https://lifehacker.com/even-more-android-malware-was-discovered-on-google-play-1849201021)
+- [Lifehacker] [What&#39;s New on Netflix in August 2022](https://lifehacker.com/whats-new-on-netflix-in-august-2022-1849200453)
 - [Dev.to/JS] [Building the database of tomorrow](https://dev.to/surrealdb/building-the-database-of-tomorrow-58kc)
 - [Dev.to/JS] [Creating a global notifications system with superstate and React](https://dev.to/chiefgui/creating-a-global-notifications-system-with-superstate-and-react-4fa7)
 - [Lifehacker] [You Should Make Lemon-Caper Popcorn Immediately](https://lifehacker.com/you-should-make-lemon-caper-popcorn-immediately-1849201102)
-- [Dev.to/JS] [Make Videos With JavaScript 2](https://dev.to/kadeesterline/make-videos-with-javascript-2-1pfl)
-- [Dev.to/JS] [Angular Chat Application Tutorial](https://dev.to/alakkadshaw/angular-chat-application-tutorial-4him)
-- [Dev.to/JS] [Getting started with Serverless Functions using Vercel — II](https://dev.to/this-is-learning/getting-started-with-serverless-functions-using-vercel-ii-4jo7)
 - [Lifehacker] [How Much Cash Should You Keep in Your Checking and Savings Accounts](https://lifehacker.com/how-much-cash-should-you-keep-in-your-checking-and-savi-1849199688)
 - [Lifehacker] [How Worried Should Parents Be About Parechovirus?](https://lifehacker.com/how-worried-should-parents-be-about-parechovirus-1849200626)
 - [Lifehacker] [You&#39;re Seasoning Your Potatoes at the Wrong Time](https://lifehacker.com/youre-seasoning-your-potatoes-at-the-wrong-time-1849200400)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Upgrade From Your 1080p PC Monitor to 1440p?](https://lifehacker.com/should-you-upgrade-from-your-1080p-pc-monitor-to-1440p-1849196603)
 - [Lifehacker] [11 Ways to Repurpose an Old Phone or Tablet](https://lifehacker.com/11-ways-to-repurpose-an-old-phone-or-tablet-1849190602)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
-- [Lifehacker] [These Salt and Vinegar Freezer Fries Have All the Flavor and None of the Wetness](https://lifehacker.com/these-salt-and-vinegar-freezer-fries-have-all-the-flavo-1849195561)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
 
