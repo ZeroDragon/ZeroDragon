@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Explain why the following doesn&#39;t work as an IIFE: &quot;function foo&lpar;&rpar;{ }&lpar;&rpar;;&quot;. What needs to be changed to properly make it an IIFE?](https://dev.to/anewman15/explain-why-the-following-doesnt-work-as-an-iife-function-foo-what-needs-to-be-changed-to-properly-make-it-an-iife-3gab)
 - [Dev.to/JS] [HACKING A BANK](https://dev.to/paragonnoah/hacking-a-bank-5lb)
 - [Dev.to/JS] [Disadvantage of the Supplement?](https://dev.to/dereksmartinezs/disadvantage-of-the-supplement-36n9)
 - [Dev.to/JS] [Use Eclipse to instantly create, rename, and delete getters and setters](https://dev.to/professionalw0/use-eclipse-to-instantly-create-rename-and-delete-getters-and-setters-2639)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Usando o shepherdjs para fazer tours em uma aplicação nuxt &lpar;vue.js&rpar; &lpar;Parte 1&rpar;](https://dev.to/cesarbhering/usando-o-shepherdjs-para-fazer-tours-em-sua-aplicacao-nuxt-vuejs-parte-1-4894)
 - [Dev.to/JS] [O que é REPL Driven Development?](https://dev.to/grubba/o-que-e-repl-driven-development-2fm)
 - [Dev.to/JS] [Clojure na visão de um dev JS](https://dev.to/grubba/clojure-na-visao-de-um-dev-js-3om2)
-- [Dev.to/JS] [Criando uma extensão para o VSCode](https://dev.to/grubba/criando-uma-extensao-para-o-vscode-5h1i)
 - [Lifehacker] [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
 - [Lifehacker] [Why You Should Reach Out to an Old Friend, According to Science](https://lifehacker.com/why-you-should-reach-out-to-an-old-friend-according-to-1849211263)
 - [Lifehacker] [Even More Android Malware Was Discovered on Google Play](https://lifehacker.com/even-more-android-malware-was-discovered-on-google-play-1849201021)
