@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Functions in JavaScript.](https://dev.to/kamaldeenlawal/functions-in-javascript-4hji)
+- [Dev.to/JS] [GitHub Profile Finder App](https://dev.to/dabanandamitra/github-profile-finder-app-55no)
+- [Lifehacker] [15 Alien Abduction Movies That Paved the Way for ‘Nope’](https://lifehacker.com/15-alien-abduction-movies-that-paved-the-way-for-nope-1849218944)
+- [Dev.to/JS] [Tools for a B2B App?!](https://dev.to/diogovski/tools-for-a-b2b-app-2fae)
 - [Lifehacker] [How to Stay Calm During Your Toddler’s Tantrum, According to a Neuroscientist](https://lifehacker.com/how-to-stay-calm-during-your-toddler-s-tantrum-accordi-1849314522)
 - [Dev.to/JS] [Two years of dev.to - let&#39;s celebrate with a &quot;Dance Dance Revolution&quot; clone! 💃🕺🎉](https://dev.to/thormeier/two-years-of-devto-lets-celebrate-with-a-dance-dance-revolution-clone-4b22)
 - [Lifehacker] [How to Play &#39;MultiVersus&#39; Right Now](https://lifehacker.com/how-to-play-multiversus-right-now-1849314330)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cubecubed 💖 d3.js](https://dev.to/imaphatduc/cubecubed-d3js-64f)
 - [Dev.to/JS] [Getting started as a Frontend Developer](https://dev.to/shasheeshpurohit/switching-to-frontend-development-7g7)
 - [Lifehacker] [You Should Add a Pudding Cup to Your Muffin Mix](https://lifehacker.com/you-should-add-a-pudding-cup-to-your-muffin-mix-1849312092)
-- [Dev.to/JS] [Paracetamol.js💊| #172: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-172-explica-este-codigo-javascript-6c6)
-- [Dev.to/JS] [My 3rd Year school project PFE&lpar;Projects Management System&rpar;.](https://dev.to/stormsidali2001/my-3rd-year-school-project-pfeprojects-management-system-en4)
-- [Dev.to/JS] [Svelte meets Ionic + Capacitor](https://dev.to/mandrasch/svelte-meets-ionic-capacitor-332n)
 - [Lifehacker] [Do These Things Now to Keep Your Garden Blooming Until Fall](https://lifehacker.com/do-these-things-now-to-keep-your-garden-blooming-until-1849260125)
 - [Lifehacker] [How to Camp With Your Partner and Actually Enjoy It](https://lifehacker.com/how-to-camp-with-your-partner-and-actually-enjoy-it-1849228629)
 - [Lifehacker] [13 More Animal Video Games to Play When You Finish &#39;Stray&#39;](https://lifehacker.com/13-more-animal-video-games-to-play-when-you-finish-stra-1849218567)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How You Should Respond to a Job Rejection Email](https://lifehacker.com/how-you-should-respond-to-a-job-rejection-email-1849197465)
 - [Lifehacker] [How to Make Your Own Oat Flour &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-own-oat-flour-and-why-you-should-1849197630)
 - [Lifehacker] [You Can Now Quickly Edit Multiple Photos at Once on Your iPhone](https://lifehacker.com/you-can-now-quickly-edit-multiple-photos-at-once-on-you-1849198579)
-- [Lifehacker] [How to Stop Blossom End Rot on Your Tomatoes and Squash](https://lifehacker.com/how-to-stop-blossom-end-rot-on-your-tomatoes-and-squash-1849198429)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
