@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to get 2000+ stars on GitHub with 11 places to promote your project](https://dev.to/ixartz/how-to-get-2000-stars-on-github-with-11-places-to-promote-your-project-2o3h)
+- [Dev.to/JS] [What are the Three Variables in JavaScript?](https://dev.to/max88git/what-are-the-three-variables-in-javascript-3hnf)
+- [Dev.to/JS] [Binary search tree](https://dev.to/vermaprince123/binary-search-tree-mf5)
+- [Lifehacker] [Impress Yourself &lpar;and Others&rpar; by Always Having This With You During a Heat Wave](https://lifehacker.com/impress-yourself-and-others-by-always-having-this-wit-1849314408)
+- [Dev.to/JS] [JavaScript Methods](https://dev.to/ayush65/javascript-methods-3pbb)
 - [Lifehacker] [The Most Creative Ways to Use the Equity In Your House](https://lifehacker.com/the-most-creative-ways-to-use-the-equity-in-your-house-1849312480)
 - [Dev.to/JS] [Quick fix to empty page and noscript serving a Vue App](https://dev.to/mattiaorfano/quick-fix-to-empty-page-and-noscript-serving-a-vue-app-13ee)
 - [Dev.to/JS] [Simple Sticky footer Ads](https://dev.to/bianity/simple-sticky-footer-ads-3bn)
@@ -36,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Top 5 Chrome Extensions for developers](https://dev.to/lodstare/top-5-chrome-extensions-for-developers-221l)
 - [Lifehacker] [How to Camp With Your Partner and Actually Enjoy It](https://lifehacker.com/how-to-camp-with-your-partner-and-actually-enjoy-it-1849228629)
 - [Lifehacker] [13 More Animal Video Games to Play When You Finish &#39;Stray&#39;](https://lifehacker.com/13-more-animal-video-games-to-play-when-you-finish-stra-1849218567)
-- [Dev.to/JS] [In JavaScript, what&#39;s the difference between a variable that is: null, undefined and undeclared?](https://dev.to/anewman15/in-javascript-whats-the-difference-between-a-variable-that-is-null-undefined-and-undeclared-j1f)
 - [Lifehacker] [This Simple Chip and Dip Combo Is a Flavor Explosion](https://lifehacker.com/this-simple-chip-and-dip-combo-is-a-flavor-explosion-1849213338)
-- [Dev.to/JS] [Truthy and falsy values in JavaScript](https://dev.to/ashutoshbw/truthy-and-falsy-values-in-javascript-5ak4)
-- [Dev.to/JS] [Feedback widget in Docusaurus](https://dev.to/perfect7m/feedback-widget-in-docusaurus-5edg)
-- [Dev.to/JS] [NodeJS: Login with phone number or email](https://dev.to/drsimplegraffiti/nodejs-login-with-phone-number-or-email-3k58)
 - [Lifehacker] [What to Do When You Hit Your Weight-Lifting Plateau](https://lifehacker.com/what-to-do-when-you-hit-your-weight-lifting-plateau-1849212986)
 - [Lifehacker] [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
 - [Lifehacker] [Why You Should Reach Out to an Old Friend, According to Science](https://lifehacker.com/why-you-should-reach-out-to-an-old-friend-according-to-1849211263)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Stop Blossom End Rot on Your Tomatoes and Squash](https://lifehacker.com/how-to-stop-blossom-end-rot-on-your-tomatoes-and-squash-1849198429)
 - [Lifehacker] [What&#39;s New on Disney+ in August 2022](https://lifehacker.com/whats-new-on-disney-in-august-2022-1849198150)
 - [Lifehacker] [The Best New Apple Notes Features in iOS 16](https://lifehacker.com/the-best-new-apple-notes-features-in-ios-16-1849193432)
-- [Lifehacker] [The Best Way to Teach Your Kids to Recognize a &#39;Safe Adult&#39;](https://lifehacker.com/the-best-way-to-teach-your-kids-to-recognize-a-safe-adu-1849194970)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
