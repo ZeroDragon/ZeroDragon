@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Get Insanely Good at JavaScript](https://dev.to/karody_ankit/how-to-get-insanely-good-at-javascript-3el8)
+- [Dev.to/JS] [Announcing NodeSecure Vulnera](https://dev.to/fraxken/announcing-nodesecure-vulnera-22a6)
+- [Dev.to/JS] [The Best Kept Secrets About Java Courses In Bangalore](https://dev.to/speakengindia5/the-best-kept-secrets-about-java-courses-in-bangalore-jb9)
+- [Dev.to/JS] [Vue3 + TS + Vue Query + Express + tRPC: setup example](https://dev.to/alousilva/vue3-typescript-express-trpc-setup-example-2mlh)
 - [Dev.to/JS] [Revival Tonic - Reviews, Results &amp; Benefits For Fat Loss?](https://dev.to/revivaltonicfa1/revival-tonic-reviews-results-benefits-for-fat-loss-2kmc)
 - [Dev.to/JS] [Explain why the following doesn&#39;t work as an IIFE: &quot;function foo&lpar;&rpar;{ }&lpar;&rpar;;&quot;. What needs to be changed to properly make it an IIFE?](https://dev.to/anewman15/explain-why-the-following-doesnt-work-as-an-iife-function-foo-what-needs-to-be-changed-to-properly-make-it-an-iife-3gab)
 - [Dev.to/JS] [HACKING A BANK](https://dev.to/paragonnoah/hacking-a-bank-5lb)
@@ -31,10 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 things to keep in mind as a programmer](https://dev.to/devsimc/5-things-to-keep-in-mind-as-a-programmer-1c24)
 - [Dev.to/JS] [The different syntax of import packages between python and Nodejs](https://dev.to/fernandocavill/the-different-syntax-of-import-packages-between-python-and-nodejs-2ldd)
 - [Dev.to/JS] [Modern JS](https://dev.to/myleftshoe/modern-js-ohc)
-- [Dev.to/JS] [Miniminalismo com Node](https://dev.to/grubba/miniminalismo-com-node-3ioe)
-- [Dev.to/JS] [4 Simple Ways to Covert a JavaScript String to a Number](https://dev.to/apmfree78/4-simple-ways-to-covert-a-javascript-string-to-a-number-m5h)
-- [Dev.to/JS] [Usando o shepherdjs para fazer tours em uma aplicação nuxt &lpar;vue.js&rpar; &lpar;Parte 1&rpar;](https://dev.to/cesarbhering/usando-o-shepherdjs-para-fazer-tours-em-sua-aplicacao-nuxt-vuejs-parte-1-4894)
-- [Dev.to/JS] [O que é REPL Driven Development?](https://dev.to/grubba/o-que-e-repl-driven-development-2fm)
 - [Lifehacker] [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
 - [Lifehacker] [Why You Should Reach Out to an Old Friend, According to Science](https://lifehacker.com/why-you-should-reach-out-to-an-old-friend-according-to-1849211263)
 - [Lifehacker] [Even More Android Malware Was Discovered on Google Play](https://lifehacker.com/even-more-android-malware-was-discovered-on-google-play-1849201021)
