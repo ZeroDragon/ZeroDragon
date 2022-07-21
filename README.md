@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [13 More Animal Video Games to Play When You Finish &#39;Stray&#39;](https://lifehacker.com/13-more-animal-video-games-to-play-when-you-finish-stra-1849218567)
+- [Dev.to/JS] [In JavaScript, what&#39;s the difference between a variable that is: null, undefined and undeclared?](https://dev.to/anewman15/in-javascript-whats-the-difference-between-a-variable-that-is-null-undefined-and-undeclared-j1f)
+- [Lifehacker] [This Simple Chip and Dip Combo Is a Flavor Explosion](https://lifehacker.com/this-simple-chip-and-dip-combo-is-a-flavor-explosion-1849213338)
+- [Dev.to/JS] [Truthy and falsy values in JavaScript](https://dev.to/ashutoshbw/truthy-and-falsy-values-in-javascript-5ak4)
+- [Dev.to/JS] [Feedback widget in Docusaurus](https://dev.to/perfect7m/feedback-widget-in-docusaurus-5edg)
+- [Dev.to/JS] [NodeJS: Login with phone number or email](https://dev.to/drsimplegraffiti/nodejs-login-with-phone-number-or-email-3k58)
 - [Lifehacker] [What to Do When You Hit Your Weight-Lifting Plateau](https://lifehacker.com/what-to-do-when-you-hit-your-weight-lifting-plateau-1849212986)
 - [Dev.to/JS] [Bun.js - Fresh JavaScript runtime out of the oven 🧑‍🍳](https://dev.to/strift/bunjs-fresh-javascript-runtime-out-of-the-oven-536e)
 - [Dev.to/JS] [Build an elegant gallery with React-Responsive-Carousel](https://dev.to/asayerio_techblog/build-an-elegant-gallery-with-react-responsive-carousel-1mi4)
@@ -32,10 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [MUST LEARN PYTHON LIBRARIES FOR DATA SCIENCE](https://dev.to/fliptotech/must-learn-python-libraries-for-data-science-46om)
 - [Dev.to/JS] [Which JavaScript framework is right for you? Next.js vs React.js](https://dev.to/omerwow/which-javascript-framework-is-right-for-you-nextjs-vs-reactjs-58i0)
 - [Dev.to/JS] [Github Nightmare??](https://dev.to/dennis_newton/github-nightmare-4d04)
-- [Dev.to/JS] [Vue Composition API vs. React Hooks](https://dev.to/syncfusion/vue-composition-api-vs-react-hooks-1chk)
-- [Dev.to/JS] [How To Get Insanely Good at JavaScript](https://dev.to/karody_ankit/how-to-get-insanely-good-at-javascript-3el8)
-- [Dev.to/JS] [Announcing NodeSecure Vulnera](https://dev.to/fraxken/announcing-nodesecure-vulnera-22a6)
-- [Dev.to/JS] [The Best Kept Secrets About Java Courses In Bangalore](https://dev.to/speakengindia5/the-best-kept-secrets-about-java-courses-in-bangalore-jb9)
 - [Lifehacker] [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
 - [Lifehacker] [Why You Should Reach Out to an Old Friend, According to Science](https://lifehacker.com/why-you-should-reach-out-to-an-old-friend-according-to-1849211263)
 - [Lifehacker] [Even More Android Malware Was Discovered on Google Play](https://lifehacker.com/even-more-android-malware-was-discovered-on-google-play-1849201021)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
 - [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
 - [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
-- [Lifehacker] [How to Benefit From Meditation Even If You’re Bad at It](https://lifehacker.com/how-to-benefit-from-meditation-even-if-you-re-bad-at-it-1849196719)
-- [Lifehacker] [Should You Upgrade From Your 1080p PC Monitor to 1440p?](https://lifehacker.com/should-you-upgrade-from-your-1080p-pc-monitor-to-1440p-1849196603)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
