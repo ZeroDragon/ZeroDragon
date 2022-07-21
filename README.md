@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Fix Your Dripping Air Conditioner Once and for All](https://lifehacker.com/fix-your-dripping-air-conditioner-once-and-for-all-1849315453)
+- [Dev.to/JS] [How to Set up Github Actions for CI/CD in React Apps](https://dev.to/eshankvaish/how-to-set-up-github-actions-for-cicd-in-react-apps-4k91)
+- [Lifehacker] [Frozen Prunes Are Amazing, Actually](https://lifehacker.com/frozen-prunes-are-amazing-actually-1849315080)
+- [Dev.to/JS] [Set Up ESLint and Prettier in a React App with Absolute Imports &lpar;2022&rpar;](https://dev.to/eshankvaish/set-up-eslint-and-prettier-in-a-react-app-with-absolute-imports-2022-4d86)
+- [Dev.to/JS] [Javascript : behind the scene](https://dev.to/surajpatil510/javascript-behind-the-scene-2jfk)
+- [Lifehacker] [How to Fix a Struggling Air Conditioner](https://lifehacker.com/how-to-fix-a-struggling-air-conditioner-1849315016)
 - [Dev.to/JS] [Functions in JavaScript.](https://dev.to/kamaldeenlawal/functions-in-javascript-4hji)
+- [Dev.to/JS] [I made a social website dedicated to web code](https://dev.to/munch/i-made-a-social-website-dedicated-to-web-code-29b8)
 - [Dev.to/JS] [GitHub Profile Finder App](https://dev.to/dabanandamitra/github-profile-finder-app-55no)
 - [Lifehacker] [15 Alien Abduction Movies That Paved the Way for ‘Nope’](https://lifehacker.com/15-alien-abduction-movies-that-paved-the-way-for-nope-1849218944)
 - [Dev.to/JS] [Tools for a B2B App?!](https://dev.to/diogovski/tools-for-a-b2b-app-2fae)
@@ -36,10 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Impress Yourself &lpar;and Others&rpar; by Always Having This With You During a Heat Wave](https://lifehacker.com/impress-yourself-and-others-by-always-having-this-wit-1849314408)
 - [Dev.to/JS] [JavaScript Methods](https://dev.to/ayush65/javascript-methods-3pbb)
 - [Lifehacker] [The Most Creative Ways to Use the Equity In Your House](https://lifehacker.com/the-most-creative-ways-to-use-the-equity-in-your-house-1849312480)
-- [Dev.to/JS] [Quick fix to empty page and noscript serving a Vue App](https://dev.to/mattiaorfano/quick-fix-to-empty-page-and-noscript-serving-a-vue-app-13ee)
-- [Dev.to/JS] [Simple Sticky footer Ads](https://dev.to/bianity/simple-sticky-footer-ads-3bn)
-- [Dev.to/JS] [Cubecubed 💖 d3.js](https://dev.to/imaphatduc/cubecubed-d3js-64f)
-- [Dev.to/JS] [Getting started as a Frontend Developer](https://dev.to/shasheeshpurohit/switching-to-frontend-development-7g7)
 - [Lifehacker] [You Should Add a Pudding Cup to Your Muffin Mix](https://lifehacker.com/you-should-add-a-pudding-cup-to-your-muffin-mix-1849312092)
 - [Lifehacker] [Do These Things Now to Keep Your Garden Blooming Until Fall](https://lifehacker.com/do-these-things-now-to-keep-your-garden-blooming-until-1849260125)
 - [Lifehacker] [How to Camp With Your Partner and Actually Enjoy It](https://lifehacker.com/how-to-camp-with-your-partner-and-actually-enjoy-it-1849228629)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on Hulu in August 2022](https://lifehacker.com/whats-new-on-hulu-in-august-2022-1849200451)
 - [Lifehacker] [Here’s How to Get Up to $200 Off Samsung’s New Devices](https://lifehacker.com/here-s-how-to-get-up-to-200-off-samsung-s-new-devices-1849199612)
 - [Lifehacker] [How to Stop Microsoft Teams From Slowing Your Mac to a Crawl](https://lifehacker.com/how-to-stop-microsoft-teams-from-slowing-your-mac-to-a-1849198990)
-- [Lifehacker] [How You Should Respond to a Job Rejection Email](https://lifehacker.com/how-you-should-respond-to-a-job-rejection-email-1849197465)
-- [Lifehacker] [How to Make Your Own Oat Flour &lpar;and Why You Should&rpar;](https://lifehacker.com/how-to-make-your-own-oat-flour-and-why-you-should-1849197630)
-- [Lifehacker] [You Can Now Quickly Edit Multiple Photos at Once on Your iPhone](https://lifehacker.com/you-can-now-quickly-edit-multiple-photos-at-once-on-you-1849198579)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
