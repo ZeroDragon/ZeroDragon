@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Top 5 Chrome Extensions for developers](https://dev.to/lodstare/top-5-chrome-extensions-for-developers-221l)
+- [Lifehacker] [How to Camp With Your Partner and Actually Enjoy It](https://lifehacker.com/how-to-camp-with-your-partner-and-actually-enjoy-it-1849228629)
 - [Lifehacker] [13 More Animal Video Games to Play When You Finish &#39;Stray&#39;](https://lifehacker.com/13-more-animal-video-games-to-play-when-you-finish-stra-1849218567)
 - [Dev.to/JS] [In JavaScript, what&#39;s the difference between a variable that is: null, undefined and undeclared?](https://dev.to/anewman15/in-javascript-whats-the-difference-between-a-variable-that-is-null-undefined-and-undeclared-j1f)
 - [Lifehacker] [This Simple Chip and Dip Combo Is a Flavor Explosion](https://lifehacker.com/this-simple-chip-and-dip-combo-is-a-flavor-explosion-1849213338)
@@ -37,7 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Tatva - The Web Component Framework](https://dev.to/rareearth/tatva-the-web-component-framework-1pdd)
 - [Dev.to/JS] [MUST LEARN PYTHON LIBRARIES FOR DATA SCIENCE](https://dev.to/fliptotech/must-learn-python-libraries-for-data-science-46om)
 - [Dev.to/JS] [Which JavaScript framework is right for you? Next.js vs React.js](https://dev.to/omerwow/which-javascript-framework-is-right-for-you-nextjs-vs-reactjs-58i0)
-- [Dev.to/JS] [Github Nightmare??](https://dev.to/dennis_newton/github-nightmare-4d04)
 - [Lifehacker] [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
 - [Lifehacker] [Why You Should Reach Out to an Old Friend, According to Science](https://lifehacker.com/why-you-should-reach-out-to-an-old-friend-according-to-1849211263)
 - [Lifehacker] [Even More Android Malware Was Discovered on Google Play](https://lifehacker.com/even-more-android-malware-was-discovered-on-google-play-1849201021)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Secret Ingredients to Give Your Scrambled Eggs More Umami](https://lifehacker.com/four-secret-ingredients-to-give-your-scrambled-eggs-mor-1849196670)
 - [Lifehacker] [Your ‘Broken’ Switch Pro Controller Is Probably Fine, Actually](https://lifehacker.com/your-broken-switch-pro-controller-is-probably-fine-a-1849196385)
 - [Lifehacker] [What’s the Problem With 988, the New Suicide Hotline?](https://lifehacker.com/what-s-the-problem-with-988-the-new-suicide-hotline-1849196885)
-- [Lifehacker] [You Aren&#39;t the Only One Who Experienced Menstrual Changes After the COVID-19 Vaccine](https://lifehacker.com/you-arent-the-only-one-who-experienced-menstrual-change-1849196811)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
