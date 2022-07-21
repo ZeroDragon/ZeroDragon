@@ -23,8 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Modern JS](https://dev.to/myleftshoe/modern-js-ohc)
+- [Dev.to/JS] [Miniminalismo com Node](https://dev.to/grubba/miniminalismo-com-node-3ioe)
 - [Dev.to/JS] [4 Simple Ways to Covert a JavaScript String to a Number](https://dev.to/apmfree78/4-simple-ways-to-covert-a-javascript-string-to-a-number-m5h)
-- [Dev.to/JS] [Usando o shepherdjs para fazer tours em sua aplicação nuxt &lpar;vue.js&rpar; &lpar;Parte 1&rpar;](https://dev.to/cesarbhering/usando-o-shepherdjs-para-fazer-tours-em-sua-aplicacao-nuxt-vuejs-parte-1-4894)
+- [Dev.to/JS] [Usando o shepherdjs para fazer tours em uma aplicação nuxt &lpar;vue.js&rpar; &lpar;Parte 1&rpar;](https://dev.to/cesarbhering/usando-o-shepherdjs-para-fazer-tours-em-sua-aplicacao-nuxt-vuejs-parte-1-4894)
 - [Dev.to/JS] [O que é REPL Driven Development?](https://dev.to/grubba/o-que-e-repl-driven-development-2fm)
 - [Dev.to/JS] [Clojure na visão de um dev JS](https://dev.to/grubba/clojure-na-visao-de-um-dev-js-3om2)
 - [Dev.to/JS] [Criando uma extensão para o VSCode](https://dev.to/grubba/criando-uma-extensao-para-o-vscode-5h1i)
@@ -33,9 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [need help &#39;React import things &#39;](https://dev.to/abdallahag5/need-help-react-import-things--46fa)
 - [Dev.to/JS] [WeakMap in Javascript](https://dev.to/l2zg7e/weakmap-in-javascript-54i3)
 - [Dev.to/JS] [Notifee Setup for React Native with Firebase](https://dev.to/anasnmu/notifee-setup-for-react-native-with-firebase-1jc6)
-- [Dev.to/JS] [Coding podcasts and music!](https://dev.to/lostoneway/coding-podcasts-and-music-388p)
 - [Lifehacker] [How to Know If an Image Is Hogging Google Photos Storage](https://lifehacker.com/how-to-know-if-an-image-is-hogging-google-photos-storag-1849200245)
-- [Dev.to/JS] [Getting started with React Router](https://dev.to/vishalgaurav/getting-started-with-react-router-j08)
 - [Lifehacker] [Why You Should Reach Out to an Old Friend, According to Science](https://lifehacker.com/why-you-should-reach-out-to-an-old-friend-according-to-1849211263)
 - [Lifehacker] [Even More Android Malware Was Discovered on Google Play](https://lifehacker.com/even-more-android-malware-was-discovered-on-google-play-1849201021)
 - [Lifehacker] [What&#39;s New on Netflix in August 2022](https://lifehacker.com/whats-new-on-netflix-in-august-2022-1849200453)
