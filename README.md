@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀😍](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-4b7l)
+- [Dev.to/JS] [Footer Ad Sticky No Close &lpar;x&rpar;](https://dev.to/bianity/footer-ad-sticky-no-close-x-14a3)
 - [Dev.to/JS] [Take styled-components to the next level](https://dev.to/everlyhealth/take-styled-components-to-the-level-34b5)
 - [Dev.to/JS] [Object Oriented Programming &lpar;OOP&rpar;](https://dev.to/victoriaigbobi65/object-oriented-programming-oop-3og4)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
@@ -37,11 +39,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This One Tap Shortcut to Actually Turn Off Wifi and Bluetooth on Your iPhone](https://lifehacker.com/use-this-one-tap-shortcut-to-actually-turn-off-wifi-and-1849318943)
 - [Dev.to/JS] [How to Crack the Staircase Problem with JavaScript using Memoization](https://dev.to/apmfree78/how-to-crack-the-staircase-problem-with-javascript-using-memoization-1hpa)
 - [Dev.to/JS] [how to add new font in your website using Google Fonts](https://dev.to/lodstare/how-to-add-new-font-in-your-website-using-google-fonts-2999)
-- [Dev.to/JS] [#microfrontends - top down or bottom ups](https://dev.to/sushantkulkarni/microfrontends-top-down-or-bottom-ups-47do)
 - [Lifehacker] [How to Cope With Social Burnout](https://lifehacker.com/how-to-cope-with-social-burnout-1849319392)
 - [Lifehacker] [Condoms, Foot Massagers, and Other Things You Never Knew You Could Buy With Your FSA](https://lifehacker.com/condoms-foot-massagers-and-other-things-you-never-kne-1849319771)
 - [Lifehacker] [Should You Really Not Drink Beer Before Liquor?](https://lifehacker.com/should-you-really-not-drink-beer-before-liquor-1849319425)
-- [Dev.to/JS] [Interactive Image Module with Dot Inspection Buttons](https://dev.to/memorabilien/interactive-image-module-with-dot-inspection-buttons-5c4p)
 - [Lifehacker] [The Longest You Should Ever Stay at Your Job, According to Career Experts](https://lifehacker.com/the-longest-you-should-ever-stay-at-your-job-according-1849319335)
 - [Lifehacker] [How to Manage Life When You Have Poor Executive Function](https://lifehacker.com/how-to-manage-life-when-you-have-poor-executive-functio-1849318841)
 - [Lifehacker] [What&#39;s New on HBO Max in August 2022](https://lifehacker.com/whats-new-on-hbo-max-in-august-2022-1849319127)
