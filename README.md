@@ -23,8 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
+- [Dev.to/JS] [Use superstate instead of React.Context](https://dev.to/chiefgui/use-superstate-instead-of-reactcontext-8p)
+- [Dev.to/JS] [Paracetamol.js💊| #173: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-173-explica-este-codigo-javascript-4jbi)
+- [Dev.to/JS] [An Introduction To React &amp;&amp; Hooks](https://dev.to/edmund635/react-an-introduction-to-hooks-n35)
+- [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
+- [Dev.to/JS] [freeCodeCamp Recursion Example Explained](https://dev.to/benboorstein/freecodecamp-recursion-example-explained-390b)
 - [Dev.to/JS] [Solidity: What You Need to Know to Start Developing Smart Contracts](https://dev.to/techmaniacc/solidity-what-you-need-to-know-to-start-developing-smart-contracts-1mbc)
+- [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
 - [Dev.to/JS] [The 10 JS Projects You Need to Build in order to become a PRO !](https://dev.to/prateek951/the-10-js-projects-you-need-to-build-in-order-to-become-a-pro--44m9)
 - [Lifehacker] [Use This One Tap Shortcut to Actually Turn Off Wifi and Bluetooth on Your iPhone](https://lifehacker.com/use-this-one-tap-shortcut-to-actually-turn-off-wifi-and-1849318943)
 - [Dev.to/JS] [How to Crack the Staircase Problem with JavaScript using Memoization](https://dev.to/apmfree78/how-to-crack-the-staircase-problem-with-javascript-using-memoization-1hpa)
@@ -38,12 +43,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [View Padding in the ArcGIS API for JavaScript](https://dev.to/odoenet/view-padding-in-the-arcgis-api-for-javascript-4h47)
 - [Dev.to/JS] [How React flirts with data](https://dev.to/olatundeadedeji/how-react-flirts-with-data-4o2o)
 - [Lifehacker] [How to Manage Life When You Have Poor Executive Function](https://lifehacker.com/how-to-manage-life-when-you-have-poor-executive-functio-1849318841)
-- [Dev.to/JS] [Function.memo and Object.pick / omit at Stage 1 This Week](https://dev.to/jesterxl/functionmemo-and-objectpick-omit-at-stage-1-this-week-196l)
 - [Lifehacker] [What&#39;s New on HBO Max in August 2022](https://lifehacker.com/whats-new-on-hbo-max-in-august-2022-1849319127)
-- [Dev.to/JS] [How React reacts: understanding the flow of React](https://dev.to/iharryd/how-react-reacts-understanding-the-flow-of-react-3gll)
 - [Lifehacker] [You Are Not Eating Enough Mini Meatballs](https://lifehacker.com/you-are-not-eating-enough-mini-meatballs-1849318923)
-- [Dev.to/JS] [Let&#39;s create a next.js app with bun](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
-- [Dev.to/JS] [Weaning From Bad Programming Habits. How to Avoid React Anti-patterns](https://dev.to/sergeylaptick/weaning-from-bad-programming-habits-how-to-avoid-react-anti-patterns-43jk)
 - [Lifehacker] [How to Use an Auto Equity Loan When You Need the Money](https://lifehacker.com/how-to-use-an-auto-equity-loan-when-you-need-the-money-1849318889)
 - [Lifehacker] [How to Tell If Your Friend Has a Crush on You](https://lifehacker.com/how-to-tell-if-your-friend-has-a-crush-on-you-1849316415)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What the Hell Is Pink Sauce?](https://lifehacker.com/what-is-pink-sauce-1849317941)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Frozen Prunes Are Amazing, Actually](https://lifehacker.com/frozen-prunes-are-amazing-actually-1849315080)
 - [Lifehacker] [How to Fix a Struggling Air Conditioner](https://lifehacker.com/how-to-fix-a-struggling-air-conditioner-1849315016)
 - [Lifehacker] [15 Alien Abduction Movies That Paved the Way for ‘Nope’](https://lifehacker.com/15-alien-abduction-movies-that-paved-the-way-for-nope-1849218944)
-- [Lifehacker] [How to Stay Calm During Your Toddler’s Tantrum, According to a Neuroscientist](https://lifehacker.com/how-to-stay-calm-during-your-toddler-s-tantrum-accordi-1849314522)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
