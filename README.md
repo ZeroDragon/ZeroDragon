@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Testing frontend performance with Cypress](https://dev.to/filiphric/testing-frontend-performance-with-cypress-1pl1)
+- [Dev.to/JS] [Javascript Is Weird But Fun.](https://dev.to/jatinkrr/javascript-is-weird-but-fun-3o6p)
+- [Dev.to/JS] [DevJournal 2: JavaScript Tutorial Section Complete...Finally🎉](https://dev.to/vassovass/javascript-tutorial-section-completefinally-26hl)
 - [Dev.to/JS] [Quick Way to Check if 2 Arrays are Equal in JavaScript](https://dev.to/apmfree78/quick-way-to-check-if-2-arrays-are-equal-in-javascript-4ldl)
 - [Dev.to/JS] [Updates from the 91st TC39 meeting](https://dev.to/hemanth/updates-from-the-91th-tc39-meeting-779)
 - [Dev.to/JS] [React Native Tab Bar Animation](https://dev.to/anasnmu/react-native-tab-bar-animation-1mm5)
@@ -34,11 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Workouts to Do When It&#39;s Hot Out](https://lifehacker.com/the-best-workouts-to-do-when-its-hot-out-1849316676)
 - [Dev.to/JS] [You should be able to use module scripts in the `file://` protocol!](https://dev.to/baenencalin/you-should-be-able-to-use-module-scripts-in-the-file-protocol-40ml)
 - [Dev.to/JS] [One problem with callback in Javascript](https://dev.to/vishalgaurav/one-problem-with-callback-in-javascript-4kbg)
-- [Dev.to/JS] [Rest Parameters &amp; Spread Syntax](https://dev.to/irajbhinde/rest-parameters-spread-syntax-2k92)
 - [Lifehacker] [Your iPhone Has a Hidden Haptic Keyboard](https://lifehacker.com/your-iphone-has-a-hidden-haptic-keyboard-1849315813)
-- [Dev.to/JS] [Inside Javascript Engine](https://dev.to/mihirverma7781/inside-javascript-engine-373)
 - [Lifehacker] [Four Ways to Give Your Whipped Cream a Sophisticated Edge](https://lifehacker.com/four-ways-to-give-your-whipped-cream-a-sophisticated-ed-1849315983)
-- [Dev.to/JS] [Redefining Motivation. Redefining Myself.](https://dev.to/morethan2searches/redefining-motivation-redefining-myself-3dcn)
 - [Lifehacker] [How to Start Investing](https://lifehacker.com/how-to-start-investing-1849315591)
 - [Lifehacker] [Fix Your Dripping Air Conditioner Once and for All](https://lifehacker.com/fix-your-dripping-air-conditioner-once-and-for-all-1849315453)
 - [Lifehacker] [Frozen Prunes Are Amazing, Actually](https://lifehacker.com/frozen-prunes-are-amazing-actually-1849315080)
