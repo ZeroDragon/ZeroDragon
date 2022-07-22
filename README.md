@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [React Hook Dialog: use hook to master your dialog components](https://dev.to/jsun969/react-hook-dialog-use-hook-to-master-your-dialog-components-38jd)
 - [Dev.to/JS] [Testing frontend performance with Cypress](https://dev.to/filiphric/testing-frontend-performance-with-cypress-1pl1)
 - [Dev.to/JS] [Javascript Is Weird But Fun.](https://dev.to/jatinkrr/javascript-is-weird-but-fun-3o6p)
 - [Dev.to/JS] [DevJournal 2: JavaScript Tutorial Section Complete...Finally🎉](https://dev.to/vassovass/javascript-tutorial-section-completefinally-26hl)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Free One Page Responsive Website Templates with Slider HTML CSS](https://dev.to/hmawebdesign/free-one-page-responsive-website-templates-with-slider-html-css-1h28)
 - [Lifehacker] [The Best Workouts to Do When It&#39;s Hot Out](https://lifehacker.com/the-best-workouts-to-do-when-its-hot-out-1849316676)
 - [Dev.to/JS] [You should be able to use module scripts in the `file://` protocol!](https://dev.to/baenencalin/you-should-be-able-to-use-module-scripts-in-the-file-protocol-40ml)
-- [Dev.to/JS] [One problem with callback in Javascript](https://dev.to/vishalgaurav/one-problem-with-callback-in-javascript-4kbg)
 - [Lifehacker] [Your iPhone Has a Hidden Haptic Keyboard](https://lifehacker.com/your-iphone-has-a-hidden-haptic-keyboard-1849315813)
 - [Lifehacker] [Four Ways to Give Your Whipped Cream a Sophisticated Edge](https://lifehacker.com/four-ways-to-give-your-whipped-cream-a-sophisticated-ed-1849315983)
 - [Lifehacker] [How to Start Investing](https://lifehacker.com/how-to-start-investing-1849315591)
