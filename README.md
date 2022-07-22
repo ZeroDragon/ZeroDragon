@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Take styled-components to the next level](https://dev.to/everlyhealth/take-styled-components-to-the-level-34b5)
+- [Dev.to/JS] [Object Oriented Programming &lpar;OOP&rpar;](https://dev.to/victoriaigbobi65/object-oriented-programming-oop-3og4)
+- [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Dev.to/JS] [Use superstate instead of React.Context](https://dev.to/chiefgui/use-superstate-instead-of-reactcontext-8p)
 - [Dev.to/JS] [Paracetamol.js💊| #173: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-173-explica-este-codigo-javascript-4jbi)
 - [Dev.to/JS] [An Introduction To React &amp;&amp; Hooks](https://dev.to/edmund635/react-an-introduction-to-hooks-n35)
@@ -40,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Should You Really Not Drink Beer Before Liquor?](https://lifehacker.com/should-you-really-not-drink-beer-before-liquor-1849319425)
 - [Dev.to/JS] [Interactive Image Module with Dot Inspection Buttons](https://dev.to/memorabilien/interactive-image-module-with-dot-inspection-buttons-5c4p)
 - [Lifehacker] [The Longest You Should Ever Stay at Your Job, According to Career Experts](https://lifehacker.com/the-longest-you-should-ever-stay-at-your-job-according-1849319335)
-- [Dev.to/JS] [View Padding in the ArcGIS API for JavaScript](https://dev.to/odoenet/view-padding-in-the-arcgis-api-for-javascript-4h47)
-- [Dev.to/JS] [How React flirts with data](https://dev.to/olatundeadedeji/how-react-flirts-with-data-4o2o)
 - [Lifehacker] [How to Manage Life When You Have Poor Executive Function](https://lifehacker.com/how-to-manage-life-when-you-have-poor-executive-functio-1849318841)
 - [Lifehacker] [What&#39;s New on HBO Max in August 2022](https://lifehacker.com/whats-new-on-hbo-max-in-august-2022-1849319127)
 - [Lifehacker] [You Are Not Eating Enough Mini Meatballs](https://lifehacker.com/you-are-not-eating-enough-mini-meatballs-1849318923)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Fix Your Dripping Air Conditioner Once and for All](https://lifehacker.com/fix-your-dripping-air-conditioner-once-and-for-all-1849315453)
 - [Lifehacker] [Frozen Prunes Are Amazing, Actually](https://lifehacker.com/frozen-prunes-are-amazing-actually-1849315080)
 - [Lifehacker] [How to Fix a Struggling Air Conditioner](https://lifehacker.com/how-to-fix-a-struggling-air-conditioner-1849315016)
-- [Lifehacker] [15 Alien Abduction Movies That Paved the Way for ‘Nope’](https://lifehacker.com/15-alien-abduction-movies-that-paved-the-way-for-nope-1849218944)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
