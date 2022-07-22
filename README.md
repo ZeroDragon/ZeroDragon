@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Should You Really Not Drink Beer Before Liquor?](https://lifehacker.com/should-you-really-not-drink-beer-before-liquor-1849319425)
+- [Dev.to/JS] [Interactive Image Module with Dot Inspection Buttons](https://dev.to/memorabilien/interactive-image-module-with-dot-inspection-buttons-5c4p)
+- [Lifehacker] [The Longest You Should Ever Stay at Your Job, According to Career Experts](https://lifehacker.com/the-longest-you-should-ever-stay-at-your-job-according-1849319335)
+- [Dev.to/JS] [View Padding in the ArcGIS API for JavaScript](https://dev.to/odoenet/view-padding-in-the-arcgis-api-for-javascript-4h47)
+- [Dev.to/JS] [How React flirts with data](https://dev.to/olatundeadedeji/how-react-flirts-with-data-4o2o)
 - [Lifehacker] [How to Manage Life When You Have Poor Executive Function](https://lifehacker.com/how-to-manage-life-when-you-have-poor-executive-functio-1849318841)
 - [Dev.to/JS] [Function.memo and Object.pick / omit at Stage 1 This Week](https://dev.to/jesterxl/functionmemo-and-objectpick-omit-at-stage-1-this-week-196l)
 - [Lifehacker] [What&#39;s New on HBO Max in August 2022](https://lifehacker.com/whats-new-on-hbo-max-in-august-2022-1849319127)
@@ -37,9 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create any kind of app with Kotlin](https://dev.to/coder_mohan/create-any-kind-of-app-with-kotlin-2f38)
 - [Dev.to/JS] [Build this React Project to become a PRO](https://dev.to/prateek951/build-this-react-project-to-become-a-pro-3cfa)
 - [Lifehacker] [How to Tell If Your Friend Has a Crush on You](https://lifehacker.com/how-to-tell-if-your-friend-has-a-crush-on-you-1849316415)
-- [Dev.to/JS] [Only 1 day and 9 hours left before the early bird tickets expire for DevoxxMa!!!](https://dev.to/essaydyoumayma/only-1-day-and-9-hours-left-before-the-early-bird-ticket-expires-for-devoxxma-24k1)
-- [Dev.to/JS] [Web Developer Full Course - Headings, Paragraphs and Other Text Related Tags - #4](https://dev.to/prateek951/web-developer-full-course-headings-paragraphs-and-other-text-related-tags-4-404i)
-- [Dev.to/JS] [Web Developer Full Course - Introduction to HTML - #3](https://dev.to/prateek951/web-developer-full-course-introduction-to-html-3-306d)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What the Hell Is Pink Sauce?](https://lifehacker.com/what-is-pink-sauce-1849317941)
 - [Lifehacker] [12 of the Best Parenting Lessons We Can Learn From Animals](https://lifehacker.com/12-of-the-best-parenting-lessons-we-can-learn-from-anim-1849316491)
 - [Lifehacker] [All the Ways You Can Customize Your iPhone’s Lock Screen in iOS 16](https://lifehacker.com/all-the-ways-you-can-customize-your-iphone-s-lock-scree-1849310427)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Impress Yourself &lpar;and Others&rpar; by Always Having This With You During a Heat Wave](https://lifehacker.com/impress-yourself-and-others-by-always-having-this-wit-1849314408)
 - [Lifehacker] [The Most Creative Ways to Use the Equity In Your House](https://lifehacker.com/the-most-creative-ways-to-use-the-equity-in-your-house-1849312480)
 - [Lifehacker] [You Should Add a Pudding Cup to Your Muffin Mix](https://lifehacker.com/you-should-add-a-pudding-cup-to-your-muffin-mix-1849312092)
-- [Lifehacker] [Do These Things Now to Keep Your Garden Blooming Until Fall](https://lifehacker.com/do-these-things-now-to-keep-your-garden-blooming-until-1849260125)
-- [Lifehacker] [How to Camp With Your Partner and Actually Enjoy It](https://lifehacker.com/how-to-camp-with-your-partner-and-actually-enjoy-it-1849228629)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
