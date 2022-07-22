@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Are the Best Subreddits to Make Your Life Better](https://lifehacker.com/these-are-the-best-subreddits-to-make-your-life-better-1849315013)
+- [Dev.to/JS] [Understanding Scope in JavaScript](https://dev.to/sophie/understanding-scope-in-javascript-2pml)
+- [Dev.to/JS] [Uploading Images to Firebase Storage in React Native with Expo Workflow.](https://dev.to/adii9/uploading-images-to-firebase-storage-in-react-native-with-expo-workflow-24kj)
+- [Dev.to/JS] [Animated Cursor](https://dev.to/raghavbhardwaj/animated-cursor-5hcj)
+- [Dev.to/JS] [How to Integrate Cucumber with CI/CD Jenkins to Execute Cypress Test Suites.](https://dev.to/kailashpathak7/how-to-integrate-cucumber-with-cicd-jenkins-to-execute-cypress-test-suites-245l)
+- [Dev.to/JS] [Coding an extension that blocks Social Media Websites with HTML, CSS and JS.](https://dev.to/hr21don/coding-an-extension-that-blocks-social-media-websites-with-html-css-and-js-3bp)
 - [Dev.to/JS] [7 Things About Java Course In Bangalore to Enhance your Career](https://dev.to/bryanad62425126/7-things-about-java-course-in-bangalore-to-enhance-your-career-4cpj)
 - [Dev.to/JS] [Button Ripple Animation](https://dev.to/raghavbhardwaj/button-ripple-animation-3k1j)
 - [Dev.to/JS] [Guide to drag and drop in svelte from scratch](https://dev.to/theether0/guide-to-svelte-drag-and-drop-from-scratch-1n1n)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Javascript Map with Filter](https://dev.to/shubhamtiwari909/javascript-map-with-filter-2jgo)
 - [Dev.to/JS] [Building Web3 Dapps with no code tool :&lpar;Bunzz&rpar;](https://dev.to/timmydee/building-web3-dapps-with-no-code-tool-bunzz-2041)
 - [Dev.to/JS] [How to Create Powerful Visualizations Easily using Apache Echarts and React](https://dev.to/this-is-learning/how-to-create-powerful-visualizations-easily-using-apache-echarts-and-react-47l9)
-- [Dev.to/JS] [Add images to a React project with Typescript](https://dev.to/minompi/add-images-to-a-react-project-with-typescript-4gbm)
-- [Dev.to/JS] [Programming Fundamentals using JavaScript](https://dev.to/bipon68/programming-fundamentals-using-javascript-2ooi)
-- [Dev.to/JS] [Event loop and Call stack in JavaScript](https://dev.to/jeetsdev/event-loop-and-call-stack-in-javascript-32hk)
-- [Dev.to/JS] [casual-markdown: lightweight regexp-base markdown parser &lpar;+TOC, scrollspy and frontmatter&rpar;](https://dev.to/casualwriter/casual-markdown-lightweight-regexp-base-markdown-parser-toc-scrollspy-and-frontmatter-40a8)
-- [Dev.to/JS] [Build a Group Video Call System using PHP,Javascript + WebRTC Day 8](https://dev.to/benpobi/build-a-group-video-call-system-using-phpjavascript-webrtc-day-8-216o)
 - [Lifehacker] [Have You Tried Doing Nothing?](https://lifehacker.com/have-you-tried-doing-nothing-1849316346)
 - [Lifehacker] [The Best Workouts to Do When It&#39;s Hot Out](https://lifehacker.com/the-best-workouts-to-do-when-its-hot-out-1849316676)
 - [Lifehacker] [Your iPhone Has a Hidden Haptic Keyboard](https://lifehacker.com/your-iphone-has-a-hidden-haptic-keyboard-1849315813)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Even More Android Malware Was Discovered on Google Play](https://lifehacker.com/even-more-android-malware-was-discovered-on-google-play-1849201021)
 - [Lifehacker] [What&#39;s New on Netflix in August 2022](https://lifehacker.com/whats-new-on-netflix-in-august-2022-1849200453)
 - [Lifehacker] [You Should Make Lemon-Caper Popcorn Immediately](https://lifehacker.com/you-should-make-lemon-caper-popcorn-immediately-1849201102)
-- [Lifehacker] [How Much Cash Should You Keep in Your Checking and Savings Accounts](https://lifehacker.com/how-much-cash-should-you-keep-in-your-checking-and-savi-1849199688)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
