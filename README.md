@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
+- [Dev.to/JS] [Solidity: What You Need to Know to Start Developing Smart Contracts](https://dev.to/techmaniacc/solidity-what-you-need-to-know-to-start-developing-smart-contracts-1mbc)
+- [Dev.to/JS] [The 10 JS Projects You Need to Build in order to become a PRO !](https://dev.to/prateek951/the-10-js-projects-you-need-to-build-in-order-to-become-a-pro--44m9)
+- [Lifehacker] [Use This One Tap Shortcut to Actually Turn Off Wifi and Bluetooth on Your iPhone](https://lifehacker.com/use-this-one-tap-shortcut-to-actually-turn-off-wifi-and-1849318943)
+- [Dev.to/JS] [How to Crack the Staircase Problem with JavaScript using Memoization](https://dev.to/apmfree78/how-to-crack-the-staircase-problem-with-javascript-using-memoization-1hpa)
+- [Dev.to/JS] [how to add new font in your website using Google Fonts](https://dev.to/lodstare/how-to-add-new-font-in-your-website-using-google-fonts-2999)
+- [Dev.to/JS] [#microfrontends - top down or bottom ups](https://dev.to/sushantkulkarni/microfrontends-top-down-or-bottom-ups-47do)
 - [Lifehacker] [How to Cope With Social Burnout](https://lifehacker.com/how-to-cope-with-social-burnout-1849319392)
 - [Lifehacker] [Condoms, Foot Massagers, and Other Things You Never Knew You Could Buy With Your FSA](https://lifehacker.com/condoms-foot-massagers-and-other-things-you-never-kne-1849319771)
 - [Lifehacker] [Should You Really Not Drink Beer Before Liquor?](https://lifehacker.com/should-you-really-not-drink-beer-before-liquor-1849319425)
@@ -37,12 +44,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Are Not Eating Enough Mini Meatballs](https://lifehacker.com/you-are-not-eating-enough-mini-meatballs-1849318923)
 - [Dev.to/JS] [Let&#39;s create a next.js app with bun](https://dev.to/ashirbadgudu/lets-create-a-nextjs-app-with-bun-48l6)
 - [Dev.to/JS] [Weaning From Bad Programming Habits. How to Avoid React Anti-patterns](https://dev.to/sergeylaptick/weaning-from-bad-programming-habits-how-to-avoid-react-anti-patterns-43jk)
-- [Dev.to/JS] [Code Smell 151 - Commented Code](https://dev.to/mcsee/code-smell-151-commented-code-5d8l)
-- [Dev.to/JS] [Be A Better Web Designer..](https://dev.to/hazarnenni/be-a-better-web-designer-10ok)
 - [Lifehacker] [How to Use an Auto Equity Loan When You Need the Money](https://lifehacker.com/how-to-use-an-auto-equity-loan-when-you-need-the-money-1849318889)
-- [Dev.to/JS] [React Interview Q/A](https://dev.to/garvcoding/react-interview-qa-40f7)
-- [Dev.to/JS] [Create any kind of app with Kotlin](https://dev.to/coder_mohan/create-any-kind-of-app-with-kotlin-2f38)
-- [Dev.to/JS] [Build this React Project to become a PRO](https://dev.to/prateek951/build-this-react-project-to-become-a-pro-3cfa)
 - [Lifehacker] [How to Tell If Your Friend Has a Crush on You](https://lifehacker.com/how-to-tell-if-your-friend-has-a-crush-on-you-1849316415)
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What the Hell Is Pink Sauce?](https://lifehacker.com/what-is-pink-sauce-1849317941)
 - [Lifehacker] [12 of the Best Parenting Lessons We Can Learn From Animals](https://lifehacker.com/12-of-the-best-parenting-lessons-we-can-learn-from-anim-1849316491)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Fix a Struggling Air Conditioner](https://lifehacker.com/how-to-fix-a-struggling-air-conditioner-1849315016)
 - [Lifehacker] [15 Alien Abduction Movies That Paved the Way for ‘Nope’](https://lifehacker.com/15-alien-abduction-movies-that-paved-the-way-for-nope-1849218944)
 - [Lifehacker] [How to Stay Calm During Your Toddler’s Tantrum, According to a Neuroscientist](https://lifehacker.com/how-to-stay-calm-during-your-toddler-s-tantrum-accordi-1849314522)
-- [Lifehacker] [How to Play &#39;MultiVersus&#39; Right Now](https://lifehacker.com/how-to-play-multiversus-right-now-1849314330)
-- [Lifehacker] [Impress Yourself &lpar;and Others&rpar; by Always Having This With You During a Heat Wave](https://lifehacker.com/impress-yourself-and-others-by-always-having-this-wit-1849314408)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
 - [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
