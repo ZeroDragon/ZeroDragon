@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [7 Things About Java Course In Bangalore to Enhance your Career](https://dev.to/bryanad62425126/7-things-about-java-course-in-bangalore-to-enhance-your-career-4cpj)
+- [Dev.to/JS] [Button Ripple Animation](https://dev.to/raghavbhardwaj/button-ripple-animation-3k1j)
+- [Dev.to/JS] [Guide to drag and drop in svelte from scratch](https://dev.to/theether0/guide-to-svelte-drag-and-drop-from-scratch-1n1n)
+- [Dev.to/JS] [How to reflect hook state across islands 🏝](https://dev.to/bryce/how-to-reflect-hook-state-across-islands-3e99)
+- [Dev.to/JS] [Javascript Map with Filter](https://dev.to/shubhamtiwari909/javascript-map-with-filter-2jgo)
 - [Dev.to/JS] [Building Web3 Dapps with no code tool :&lpar;Bunzz&rpar;](https://dev.to/timmydee/building-web3-dapps-with-no-code-tool-bunzz-2041)
 - [Dev.to/JS] [How to Create Powerful Visualizations Easily using Apache Echarts and React](https://dev.to/this-is-learning/how-to-create-powerful-visualizations-easily-using-apache-echarts-and-react-47l9)
 - [Dev.to/JS] [Add images to a React project with Typescript](https://dev.to/minompi/add-images-to-a-react-project-with-typescript-4gbm)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Event loop and Call stack in JavaScript](https://dev.to/jeetsdev/event-loop-and-call-stack-in-javascript-32hk)
 - [Dev.to/JS] [casual-markdown: lightweight regexp-base markdown parser &lpar;+TOC, scrollspy and frontmatter&rpar;](https://dev.to/casualwriter/casual-markdown-lightweight-regexp-base-markdown-parser-toc-scrollspy-and-frontmatter-40a8)
 - [Dev.to/JS] [Build a Group Video Call System using PHP,Javascript + WebRTC Day 8](https://dev.to/benpobi/build-a-group-video-call-system-using-phpjavascript-webrtc-day-8-216o)
-- [Dev.to/JS] [How to make a URL shortner.](https://dev.to/prajyu/how-to-make-a-url-shortner-1a20)
-- [Dev.to/JS] [React Router Dom V6 Boilerplate](https://dev.to/jps27cse/react-router-dom-v6-boilerplate-2ce1)
-- [Dev.to/JS] [Recommended VSCode Extensions for Nuxt3 and Vue3 Development](https://dev.to/itsmnthn/recommended-vscode-extensions-for-nuxt3-and-vue3-development-54h0)
-- [Dev.to/JS] [How to upload file with ajax jquery : Simplest method](https://dev.to/anand346/how-to-upload-file-with-ajax-jquery-simplest-method-25cl)
-- [Dev.to/JS] [linux new hack](https://dev.to/husnain001/linux-new-hack-473p)
 - [Lifehacker] [Have You Tried Doing Nothing?](https://lifehacker.com/have-you-tried-doing-nothing-1849316346)
 - [Lifehacker] [The Best Workouts to Do When It&#39;s Hot Out](https://lifehacker.com/the-best-workouts-to-do-when-its-hot-out-1849316676)
 - [Lifehacker] [Your iPhone Has a Hidden Haptic Keyboard](https://lifehacker.com/your-iphone-has-a-hidden-haptic-keyboard-1849315813)
