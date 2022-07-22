@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [linux new hack](https://dev.to/husnain001/linux-new-hack-473p)
 - [Dev.to/JS] [0 to 1 - How JavaScript works under the hood &lpar;Part 2&rpar;](https://dev.to/idrazhar/0-to-1-how-javascript-works-under-the-hood-part-2-48l5)
 - [Dev.to/JS] [Who Is Buzzing About the Via Keto Gummies?](https://dev.to/cantusjohns/who-is-buzzing-about-the-via-keto-gummies-33jb)
 - [Dev.to/JS] [How To Make Use Of Online Platforms For Restaurant Business?](https://dev.to/jonarya10/how-to-make-use-of-online-platforms-for-restaurant-business-3j63)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Testing frontend performance with Cypress](https://dev.to/filiphric/testing-frontend-performance-with-cypress-1pl1)
 - [Dev.to/JS] [Javascript Is Weird But Fun.](https://dev.to/jatinkrr/javascript-is-weird-but-fun-3o6p)
 - [Dev.to/JS] [DevJournal 2: JavaScript Tutorial Section Complete...Finally🎉](https://dev.to/vassovass/javascript-tutorial-section-completefinally-26hl)
-- [Dev.to/JS] [Quick Way to Check if 2 Arrays are Equal in JavaScript](https://dev.to/apmfree78/quick-way-to-check-if-2-arrays-are-equal-in-javascript-4ldl)
 - [Lifehacker] [Have You Tried Doing Nothing?](https://lifehacker.com/have-you-tried-doing-nothing-1849316346)
 - [Lifehacker] [The Best Workouts to Do When It&#39;s Hot Out](https://lifehacker.com/the-best-workouts-to-do-when-its-hot-out-1849316676)
 - [Lifehacker] [Your iPhone Has a Hidden Haptic Keyboard](https://lifehacker.com/your-iphone-has-a-hidden-haptic-keyboard-1849315813)
