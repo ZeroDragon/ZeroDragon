@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Const Object In Javascript](https://dev.to/devsimc/const-object-in-javascript-2d7d)
 - [Dev.to/JS] [Fantastic CSS border animation](https://dev.to/chokcoco/fantastic-css-border-animation-5166)
 - [Dev.to/JS] [How To Disable Right Click Using jQuery](https://dev.to/techsolutionstuff/how-to-disable-right-click-using-jquery-40dg)
 - [Dev.to/JS] [Node Version Management Poll](https://dev.to/coreybutler/node-version-management-poll-5e03)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Updates from the 91th TC39 meeting](https://dev.to/hemanth/updates-from-the-91th-tc39-meeting-779)
 - [Dev.to/JS] [React Native Tab Bar Animation](https://dev.to/anasnmu/react-native-tab-bar-animation-1mm5)
 - [Dev.to/JS] [Herança em JavaScript com prototype e function](https://dev.to/welingtoncassis/heranca-em-javascript-com-prototype-e-function-35lf)
-- [Dev.to/JS] [Super Easy &amp; Profitable “Pro Hack” For Amazing Websites With NextJs](https://dev.to/sashevuchkov/super-easy-profitable-pro-hack-for-amazing-websites-with-nextjs-pf5)
 - [Lifehacker] [Have You Tried Doing Nothing?](https://lifehacker.com/have-you-tried-doing-nothing-1849316346)
 - [Lifehacker] [The Best Workouts to Do When It&#39;s Hot Out](https://lifehacker.com/the-best-workouts-to-do-when-its-hot-out-1849316676)
 - [Lifehacker] [Your iPhone Has a Hidden Haptic Keyboard](https://lifehacker.com/your-iphone-has-a-hidden-haptic-keyboard-1849315813)
