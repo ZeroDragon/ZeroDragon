@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Introducción a React Context con los Hooks de React](https://dev.to/azael_olivar/introduccion-a-react-context-con-los-hooks-de-react-3f28)
+- [Dev.to/JS] [Styled Components: Qué son y cómo se utilizan](https://dev.to/azael_olivar/styled-components-que-son-y-como-se-utilizan-58oh)
+- [Dev.to/JS] [¿Qué es React y para qué sirve?](https://dev.to/azael_olivar/que-es-react-y-para-que-sirve-254e)
+- [Dev.to/JS] [How to Auto Update Your Gravatar Icon With AWS](https://dev.to/mrtillman/how-to-auto-update-your-gravatar-icon-with-aws-1o44)
 - [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀😍](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-4b7l)
 - [Dev.to/JS] [Footer Ad Sticky No Close &lpar;x&rpar;](https://dev.to/bianity/footer-ad-sticky-no-close-x-14a3)
 - [Dev.to/JS] [Take styled-components to the next level](https://dev.to/everlyhealth/take-styled-components-to-the-level-34b5)
@@ -33,12 +37,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [An Introduction To React &amp;&amp; Hooks](https://dev.to/edmund635/react-an-introduction-to-hooks-n35)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
 - [Dev.to/JS] [freeCodeCamp Recursion Example Explained](https://dev.to/benboorstein/freecodecamp-recursion-example-explained-390b)
-- [Dev.to/JS] [Solidity: What You Need to Know to Start Developing Smart Contracts](https://dev.to/techmaniacc/solidity-what-you-need-to-know-to-start-developing-smart-contracts-1mbc)
 - [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
-- [Dev.to/JS] [The 10 JS Projects You Need to Build in order to become a PRO !](https://dev.to/prateek951/the-10-js-projects-you-need-to-build-in-order-to-become-a-pro--44m9)
 - [Lifehacker] [Use This One Tap Shortcut to Actually Turn Off Wifi and Bluetooth on Your iPhone](https://lifehacker.com/use-this-one-tap-shortcut-to-actually-turn-off-wifi-and-1849318943)
-- [Dev.to/JS] [How to Crack the Staircase Problem with JavaScript using Memoization](https://dev.to/apmfree78/how-to-crack-the-staircase-problem-with-javascript-using-memoization-1hpa)
-- [Dev.to/JS] [how to add new font in your website using Google Fonts](https://dev.to/lodstare/how-to-add-new-font-in-your-website-using-google-fonts-2999)
 - [Lifehacker] [How to Cope With Social Burnout](https://lifehacker.com/how-to-cope-with-social-burnout-1849319392)
 - [Lifehacker] [Condoms, Foot Massagers, and Other Things You Never Knew You Could Buy With Your FSA](https://lifehacker.com/condoms-foot-massagers-and-other-things-you-never-kne-1849319771)
 - [Lifehacker] [Should You Really Not Drink Beer Before Liquor?](https://lifehacker.com/should-you-really-not-drink-beer-before-liquor-1849319425)
