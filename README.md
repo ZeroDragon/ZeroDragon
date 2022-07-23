@@ -23,8 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [SOLID PRINCIPLES IN JAVASCRIPT: WHAT THEY ARE, WHY YOU SHOULD USE THEM, AND HOW TO IMPLEMENT THEM](https://dev.to/cyannrogue/solid-principles-in-javascript-what-they-are-why-you-should-use-them-and-how-to-implement-them-216j)
+- [Dev.to/JS] [Explain Aws API Gateway vulnerabilities Like I&#39;m Five](https://dev.to/shakeel0581/explain-aws-api-gateway-vulnerabilities-like-im-five-5ad0)
 - [Dev.to/JS] [META Tags to boost SEO and Page Rankings](https://dev.to/tikam02/meta-tags-to-boost-seo-and-page-rankings-h8a)
 - [Dev.to/JS] [Promise.all&lpar;&rpar; - JavaScript Function](https://dev.to/tikam02/promiseall-javascript-function-2dcn)
+- [Dev.to/JS] [Paint it Black : Toolbar App](https://dev.to/egfx/paint-it-black-gif-tool-5542)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Dev.to/JS] [Top 67 Youtube Channels for all Developers in 2022](https://dev.to/lodstare/top-67-youtube-channels-for-all-developers-in-2022-1mck)
 - [Dev.to/JS] [State Management in React.Js](https://dev.to/omohemma/state-management-in-reactjs-49m2)
@@ -34,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Dev.to/JS] [Finding Occurences of element in array in js](https://dev.to/shubhamtiwari909/finding-occurences-of-element-in-array-in-js-48e5)
 - [Dev.to/JS] [React Lifecycle methods](https://dev.to/arjun_computer_geek/react-lifecycle-methods-1051)
-- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 10&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-10-472i)
-- [Dev.to/JS] [How to Build a Digital Marketing Agency Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-digital-marketing-agency-website-using-html-css-javascript-262l)
-- [Dev.to/JS] [My personal portfolio website using Next.Js &lpar;Responsive&rpar;](https://dev.to/shivampawar/my-personal-portfolio-website-using-nextjs-responsive-1ibp)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
