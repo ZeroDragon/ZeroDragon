@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀😍](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-1kaf)
+- [Dev.to/JS] [Extract All Exif Data from media files in ReactJS and Nodejs Using Exiftool library](https://dev.to/deepakjaiswal/extract-all-exif-data-from-media-files-in-reactjs-and-nodejs-4980)
+- [Dev.to/JS] [5.1 * 100 != 510 🤯 , Why you have to be careful with Doubles and Floats !](https://dev.to/shrihari/51-100-510-why-you-have-to-be-careful-with-doubles-and-floats--29eg)
+- [Dev.to/JS] [Ripple Effect using JS animation api](https://dev.to/frankwisniewski/ripple-effect-using-js-animation-api-335)
+- [Dev.to/JS] [[PART-II] GSoC 2022 | Rocket.Chat | EmbeddedChat](https://dev.to/sidmohanty11/part-ii-gsoc-2022-rocketchat-embeddedchat-15g3)
 - [Dev.to/JS] [Awesome Shortcuts: navigate to your favorite actions on the websites you love with just one click](https://dev.to/arifszn/awesome-shortcuts-navigate-to-your-favorite-actions-on-the-websites-you-love-with-just-one-click-aen)
 - [Dev.to/JS] [Optimizing React Native Apps for Improved Performance &lpar;2022&rpar;](https://dev.to/santhoshumapathi/optimizing-react-native-apps-for-improved-performance-2022-4kk7)
 - [Dev.to/JS] [Font styling with variable fonts in React](https://dev.to/m3cv1no/font-styling-with-variable-fonts-in-react-2boi)
@@ -31,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [12 Basic Reasons to Learn JavaScript Programming Language](https://dev.to/graciousdev/12-basic-reasons-to-learn-javascript-programming-language-3lhj)
 - [Dev.to/JS] [10 interesting packages for Svelte.](https://dev.to/deotyma/10-interesting-packages-for-svelte-25bb)
 - [Dev.to/JS] [Where to Find Full-Stack Java Training courses and Why is it important for Your Career in 2022](https://dev.to/umavelu55/where-to-find-full-stack-java-training-courses-and-why-is-it-important-for-your-career-in-2022-5co7)
-- [Dev.to/JS] [12 Rarely Used JavaScript Web APIs that Will Take Your Website to THE MOON 🚀](https://dev.to/eludadev/12-rarely-used-javascript-web-apis-that-will-take-your-website-to-the-next-level-4lf1)
-- [Dev.to/JS] [Why Nobody Cares About R Programming?](https://dev.to/barathmanikand1/why-nobody-cares-about-r-programming-3p05)
-- [Dev.to/JS] [This week’s newsletter is out! &lpar;23-07-2022&rpar; - Stop bullying me peoples of Vietnam and the Network States](https://dev.to/mjgs/this-weeks-newsletter-is-out-23-07-2022-stop-bullying-me-peoples-of-vietnam-and-the-network-states-2hgk)
-- [Dev.to/JS] [Create Nginx extensions in JavaScript](https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310)
-- [Dev.to/JS] [Netflix MOD APK v8.31.1 Download &lpar;Premium 4K&rpar;](https://dev.to/sajidhuasin/netflix-mod-apk-v8311-download-premium-4k-1ag7)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
 - [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
