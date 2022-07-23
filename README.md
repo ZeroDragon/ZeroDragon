@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
+- [Dev.to/JS] [Handle errors in a NodeJS application](https://dev.to/mohammadfaisal/handle-errors-in-a-nodejs-application-2n2a)
+- [Dev.to/JS] [HashTable Data Structure](https://dev.to/fotiecodes/hashtable-data-structure-moi)
+- [Dev.to/JS] [Leet Code - Integer to Roman Numeral Function in JavaScript](https://dev.to/anuj8126/leet-code-integer-to-roman-numeral-function-in-javascript-55n4)
+- [Dev.to/JS] [I used VuePress:&rpar;](https://dev.to/himazin355/i-used-vuepress-207d)
 - [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀😍](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-1kaf)
 - [Dev.to/JS] [Extract All Exif Data from media files in ReactJS and Nodejs Using Exiftool library](https://dev.to/deepakjaiswal/extract-all-exif-data-from-media-files-in-reactjs-and-nodejs-4980)
 - [Dev.to/JS] [5.1 * 100 != 510 🤯 , Why you have to be careful with Doubles and Floats !](https://dev.to/shrihari/51-100-510-why-you-have-to-be-careful-with-doubles-and-floats--29eg)
@@ -31,11 +36,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Awesome Shortcuts: navigate to your favorite actions on the websites you love with just one click](https://dev.to/arifszn/awesome-shortcuts-navigate-to-your-favorite-actions-on-the-websites-you-love-with-just-one-click-aen)
 - [Dev.to/JS] [Optimizing React Native Apps for Improved Performance &lpar;2022&rpar;](https://dev.to/santhoshumapathi/optimizing-react-native-apps-for-improved-performance-2022-4kk7)
 - [Dev.to/JS] [Font styling with variable fonts in React](https://dev.to/m3cv1no/font-styling-with-variable-fonts-in-react-2boi)
-- [Dev.to/JS] [Check if an element is visible with React hooks](https://dev.to/jmalvarez/check-if-an-element-is-visible-with-react-hooks-27h8)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
-- [Dev.to/JS] [12 Basic Reasons to Learn JavaScript Programming Language](https://dev.to/graciousdev/12-basic-reasons-to-learn-javascript-programming-language-3lhj)
-- [Dev.to/JS] [10 interesting packages for Svelte.](https://dev.to/deotyma/10-interesting-packages-for-svelte-25bb)
-- [Dev.to/JS] [Where to Find Full-Stack Java Training courses and Why is it important for Your Career in 2022](https://dev.to/umavelu55/where-to-find-full-stack-java-training-courses-and-why-is-it-important-for-your-career-in-2022-5co7)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
 - [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Start Investing](https://lifehacker.com/how-to-start-investing-1849315591)
 - [Lifehacker] [Fix Your Dripping Air Conditioner Once and for All](https://lifehacker.com/fix-your-dripping-air-conditioner-once-and-for-all-1849315453)
 - [Lifehacker] [Frozen Prunes Are Amazing, Actually](https://lifehacker.com/frozen-prunes-are-amazing-actually-1849315080)
-- [Lifehacker] [How to Fix a Struggling Air Conditioner](https://lifehacker.com/how-to-fix-a-struggling-air-conditioner-1849315016)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
