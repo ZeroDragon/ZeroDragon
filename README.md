@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Everything You Need To Know About ARRAYS](https://dev.to/mishaeldada/everything-you-need-to-know-about-arrays-302f)
+- [Dev.to/JS] [Simple GraphQL Query Using ExpressJs](https://dev.to/mishaeldada/simple-graphql-query-using-expressjs-2n2h)
+- [Dev.to/JS] [java code](https://dev.to/karakib2k18/blogdfsdfs-77g)
+- [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Dev.to/JS] [Finding Occurences of element in array in js](https://dev.to/shubhamtiwari909/finding-occurences-of-element-in-array-in-js-48e5)
 - [Dev.to/JS] [React Lifecycle methods](https://dev.to/arjun_computer_geek/react-lifecycle-methods-1051)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 10&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-10-472i)
@@ -33,9 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HashTable Data Structure](https://dev.to/fotiecodes/hashtable-data-structure-moi)
 - [Dev.to/JS] [Leet Code - Integer to Roman Numeral Function in JavaScript](https://dev.to/anuj8126/leet-code-integer-to-roman-numeral-function-in-javascript-55n4)
 - [Dev.to/JS] [I used VuePress:&rpar;](https://dev.to/himazin355/i-used-vuepress-207d)
-- [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀😍](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-1kaf)
-- [Dev.to/JS] [Extract All Exif Data from media files in ReactJS and Nodejs Using Exiftool library](https://dev.to/deepakjaiswal/extract-all-exif-data-from-media-files-in-reactjs-and-nodejs-4980)
-- [Dev.to/JS] [5.1 * 100 != 510 🤯 , Why you have to be careful with Doubles and Floats !](https://dev.to/shrihari/51-100-510-why-you-have-to-be-careful-with-doubles-and-floats--29eg)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Four Ways to Give Your Whipped Cream a Sophisticated Edge](https://lifehacker.com/four-ways-to-give-your-whipped-cream-a-sophisticated-ed-1849315983)
 - [Lifehacker] [How to Start Investing](https://lifehacker.com/how-to-start-investing-1849315591)
 - [Lifehacker] [Fix Your Dripping Air Conditioner Once and for All](https://lifehacker.com/fix-your-dripping-air-conditioner-once-and-for-all-1849315453)
-- [Lifehacker] [Frozen Prunes Are Amazing, Actually](https://lifehacker.com/frozen-prunes-are-amazing-actually-1849315080)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
