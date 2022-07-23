@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Border radius generator](https://dev.to/thedzigner/border-radius-generator-g8d)
 - [Dev.to/JS] [How to create a simple progress bar in react native](https://dev.to/akinolu52/how-to-create-a-simple-progress-bar-in-react-native-3foe)
 - [Dev.to/JS] [Run gists using npx](https://dev.to/srele96/run-gists-using-npx-48lh)
 - [Dev.to/JS] [Closure in JavaScript Explanation done RIGHT](https://dev.to/oziheb/closure-in-javascript-explanation-done-right-4g7j)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Promise.all&lpar;&rpar; - JavaScript Function](https://dev.to/tikam02/promiseall-javascript-function-2dcn)
 - [Dev.to/JS] [Paint it Black : Toolbar App](https://dev.to/egfx/paint-it-black-gif-tool-5542)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
-- [Dev.to/JS] [Top 67 Youtube Channels for all Developers in 2022](https://dev.to/lodstare/top-67-youtube-channels-for-all-developers-in-2022-1mck)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
