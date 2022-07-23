@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
+- [Dev.to/JS] [Top 67 Youtube Channels for all Developers in 2022](https://dev.to/lodstare/top-67-youtube-channels-for-all-developers-in-2022-1mck)
+- [Dev.to/JS] [State Management in React.Js](https://dev.to/omohemma/state-management-in-reactjs-49m2)
 - [Dev.to/JS] [Everything You Need To Know About ARRAYS](https://dev.to/mishaeldada/everything-you-need-to-know-about-arrays-302f)
 - [Dev.to/JS] [Simple GraphQL Query Using ExpressJs](https://dev.to/mishaeldada/simple-graphql-query-using-expressjs-2n2h)
 - [Dev.to/JS] [java code](https://dev.to/karakib2k18/blogdfsdfs-77g)
@@ -35,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
 - [Dev.to/JS] [Handle errors in a NodeJS application](https://dev.to/mohammadfaisal/handle-errors-in-a-nodejs-application-2n2a)
 - [Dev.to/JS] [HashTable Data Structure](https://dev.to/fotiecodes/hashtable-data-structure-moi)
-- [Dev.to/JS] [Leet Code - Integer to Roman Numeral Function in JavaScript](https://dev.to/anuj8126/leet-code-integer-to-roman-numeral-function-in-javascript-55n4)
-- [Dev.to/JS] [I used VuePress:&rpar;](https://dev.to/himazin355/i-used-vuepress-207d)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Your iPhone Has a Hidden Haptic Keyboard](https://lifehacker.com/your-iphone-has-a-hidden-haptic-keyboard-1849315813)
 - [Lifehacker] [Four Ways to Give Your Whipped Cream a Sophisticated Edge](https://lifehacker.com/four-ways-to-give-your-whipped-cream-a-sophisticated-ed-1849315983)
 - [Lifehacker] [How to Start Investing](https://lifehacker.com/how-to-start-investing-1849315591)
-- [Lifehacker] [Fix Your Dripping Air Conditioner Once and for All](https://lifehacker.com/fix-your-dripping-air-conditioner-once-and-for-all-1849315453)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
