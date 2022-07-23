@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Font styling with variable fonts in React](https://dev.to/m3cv1no/font-styling-with-variable-fonts-in-react-2boi)
+- [Dev.to/JS] [Check if an element is visible with React hooks](https://dev.to/jmalvarez/check-if-an-element-is-visible-with-react-hooks-27h8)
+- [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
+- [Dev.to/JS] [12 Basic Reasons to Learn JavaScript Programming Language](https://dev.to/graciousdev/12-basic-reasons-to-learn-javascript-programming-language-3lhj)
+- [Dev.to/JS] [10 interesting packages for Svelte.](https://dev.to/deotyma/10-interesting-packages-for-svelte-25bb)
 - [Dev.to/JS] [Where to Find Full-Stack Java Training courses and Why is it important for Your Career in 2022](https://dev.to/umavelu55/where-to-find-full-stack-java-training-courses-and-why-is-it-important-for-your-career-in-2022-5co7)
 - [Dev.to/JS] [12 Rarely Used JavaScript Web APIs that Will Take Your Website to The Next Level 🚀](https://dev.to/eludadev/12-rarely-used-javascript-web-apis-that-will-take-your-website-to-the-next-level-4lf1)
 - [Dev.to/JS] [Why Nobody Cares About R Programming?](https://dev.to/barathmanikand1/why-nobody-cares-about-r-programming-3p05)
@@ -31,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Netflix MOD APK v8.31.1 Download &lpar;Premium 4K&rpar;](https://dev.to/sajidhuasin/netflix-mod-apk-v8311-download-premium-4k-1ag7)
 - [Dev.to/JS] [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
 - [Dev.to/JS] [System Color Theme Check In JavaScript](https://dev.to/bibekkakati/system-color-theme-check-in-javascript-1la9)
-- [Dev.to/JS] [JavaScript URL Objects API](https://dev.to/dailydevtips1/javascript-url-objects-api-23a6)
-- [Dev.to/JS] [Dell XPS 13 Plus Developer Edition Now Available with Ubuntu 22.04](https://dev.to/bdhint/dell-xps-13-plus-developer-edition-now-available-with-ubuntu-2204-f2a)
-- [Dev.to/JS] [what if there is no javascript in web](https://dev.to/sachinsapkota9879/what-if-there-is-no-javascript-in-web-5bff)
-- [Dev.to/JS] [Đại lý phân phối thiết bị nhà tắm...](https://dev.to/bonphongantam/dai-ly-phan-phoi-thiet-bi-nha-tam-318a)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
 - [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
@@ -61,8 +62,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Frozen Prunes Are Amazing, Actually](https://lifehacker.com/frozen-prunes-are-amazing-actually-1849315080)
 - [Lifehacker] [How to Fix a Struggling Air Conditioner](https://lifehacker.com/how-to-fix-a-struggling-air-conditioner-1849315016)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
-- [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)
-- [Crazy Programmer] [Python Check if String is Integer](https://www.thecrazyprogrammer.com/2022/07/python-check-if-string-is-integer.html)<!-- TECH-POSTS:END -->
+- [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
 ---
 
