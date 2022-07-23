@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Where to Find Full-Stack Java Training courses and Why is it important for Your Career in 2022](https://dev.to/umavelu55/where-to-find-full-stack-java-training-courses-and-why-is-it-important-for-your-career-in-2022-5co7)
+- [Dev.to/JS] [12 Rarely Used JavaScript Web APIs that Will Take Your Website to The Next Level 🚀](https://dev.to/eludadev/12-rarely-used-javascript-web-apis-that-will-take-your-website-to-the-next-level-4lf1)
+- [Dev.to/JS] [Why Nobody Cares About R Programming?](https://dev.to/barathmanikand1/why-nobody-cares-about-r-programming-3p05)
 - [Dev.to/JS] [This week’s newsletter is out! &lpar;23-07-2022&rpar; - Stop bullying me peoples of Vietnam and the Network States](https://dev.to/mjgs/this-weeks-newsletter-is-out-23-07-2022-stop-bullying-me-peoples-of-vietnam-and-the-network-states-2hgk)
 - [Dev.to/JS] [Create Nginx extensions in JavaScript](https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310)
 - [Dev.to/JS] [Netflix MOD APK v8.31.1 Download &lpar;Premium 4K&rpar;](https://dev.to/sajidhuasin/netflix-mod-apk-v8311-download-premium-4k-1ag7)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Dell XPS 13 Plus Developer Edition Now Available with Ubuntu 22.04](https://dev.to/bdhint/dell-xps-13-plus-developer-edition-now-available-with-ubuntu-2204-f2a)
 - [Dev.to/JS] [what if there is no javascript in web](https://dev.to/sachinsapkota9879/what-if-there-is-no-javascript-in-web-5bff)
 - [Dev.to/JS] [Đại lý phân phối thiết bị nhà tắm...](https://dev.to/bonphongantam/dai-ly-phan-phoi-thiet-bi-nha-tam-318a)
-- [Dev.to/JS] [Automatically generating files in your React/Next Js app](https://dev.to/sam_lukaa/automatically-generating-files-in-your-reactnext-js-app-4e0g)
-- [Dev.to/JS] [Top Visual Studio Code extensions for developers in 2022](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-developers-in-2022-4nnn)
-- [Dev.to/JS] [Using Mantine with React and Next](https://dev.to/asayerio_techblog/using-mantine-with-react-and-next-3605)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
 - [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
