@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Finding Occurences of element in array in js](https://dev.to/shubhamtiwari909/finding-occurences-of-element-in-array-in-js-48e5)
+- [Dev.to/JS] [React Lifecycle methods](https://dev.to/arjun_computer_geek/react-lifecycle-methods-1051)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 10&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-10-472i)
 - [Dev.to/JS] [How to Build a Digital Marketing Agency Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-digital-marketing-agency-website-using-html-css-javascript-262l)
 - [Dev.to/JS] [My personal portfolio website using Next.Js &lpar;Responsive&rpar;](https://dev.to/shivampawar/my-personal-portfolio-website-using-nextjs-responsive-1ibp)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀😍](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-1kaf)
 - [Dev.to/JS] [Extract All Exif Data from media files in ReactJS and Nodejs Using Exiftool library](https://dev.to/deepakjaiswal/extract-all-exif-data-from-media-files-in-reactjs-and-nodejs-4980)
 - [Dev.to/JS] [5.1 * 100 != 510 🤯 , Why you have to be careful with Doubles and Floats !](https://dev.to/shrihari/51-100-510-why-you-have-to-be-careful-with-doubles-and-floats--29eg)
-- [Dev.to/JS] [Ripple Effect using JS animation api](https://dev.to/frankwisniewski/ripple-effect-using-js-animation-api-335)
-- [Dev.to/JS] [[PART-II] GSoC 2022 | Rocket.Chat | EmbeddedChat](https://dev.to/sidmohanty11/part-ii-gsoc-2022-rocketchat-embeddedchat-15g3)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
