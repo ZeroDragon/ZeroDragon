@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Đại lý phân phối thiết bị nhà tắm...](https://dev.to/bonphongantam/dai-ly-phan-phoi-thiet-bi-nha-tam-318a)
 - [Dev.to/JS] [Automatically generating files in your React/Next Js app](https://dev.to/sam_lukaa/automatically-generating-files-in-your-reactnext-js-app-4e0g)
 - [Dev.to/JS] [Top Visual Studio Code extensions for developers in 2022](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-developers-in-2022-4nnn)
 - [Dev.to/JS] [Using Mantine with React and Next](https://dev.to/asayerio_techblog/using-mantine-with-react-and-next-3605)
@@ -35,7 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Take styled-components to the next level](https://dev.to/everlyhealth/take-styled-components-to-the-level-34b5)
 - [Dev.to/JS] [Object Oriented Programming &lpar;OOP&rpar;](https://dev.to/victoriaigbobi65/object-oriented-programming-oop-3og4)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
-- [Dev.to/JS] [Use superstate instead of React.Context](https://dev.to/chiefgui/use-superstate-instead-of-reactcontext-8p)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
 - [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
 - [Lifehacker] [Use This One Tap Shortcut to Actually Turn Off Wifi and Bluetooth on Your iPhone](https://lifehacker.com/use-this-one-tap-shortcut-to-actually-turn-off-wifi-and-1849318943)
