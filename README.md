@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
+- [Dev.to/JS] [System Color Theme Check In JavaScript](https://dev.to/bibekkakati/system-color-theme-check-in-javascript-1la9)
+- [Dev.to/JS] [JavaScript URL Objects API](https://dev.to/dailydevtips1/javascript-url-objects-api-23a6)
+- [Dev.to/JS] [Dell XPS 13 Plus Developer Edition Now Available with Ubuntu 22.04](https://dev.to/bdhint/dell-xps-13-plus-developer-edition-now-available-with-ubuntu-2204-f2a)
+- [Dev.to/JS] [what if there is no javascript in web](https://dev.to/sachinsapkota9879/what-if-there-is-no-javascript-in-web-5bff)
 - [Dev.to/JS] [Đại lý phân phối thiết bị nhà tắm...](https://dev.to/bonphongantam/dai-ly-phan-phoi-thiet-bi-nha-tam-318a)
 - [Dev.to/JS] [Automatically generating files in your React/Next Js app](https://dev.to/sam_lukaa/automatically-generating-files-in-your-reactnext-js-app-4e0g)
 - [Dev.to/JS] [Top Visual Studio Code extensions for developers in 2022](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-developers-in-2022-4nnn)
@@ -30,11 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Introducción a React Context con los Hooks de React](https://dev.to/azael_olivar/introduccion-a-react-context-con-los-hooks-de-react-3f28)
 - [Dev.to/JS] [Styled Components: Qué son y cómo se utilizan](https://dev.to/azael_olivar/styled-components-que-son-y-como-se-utilizan-58oh)
 - [Dev.to/JS] [¿Qué es React y para qué sirve?](https://dev.to/azael_olivar/que-es-react-y-para-que-sirve-254e)
-- [Dev.to/JS] [How to Auto Update Your Gravatar Icon With AWS](https://dev.to/mrtillman/how-to-auto-update-your-gravatar-icon-with-aws-1o44)
-- [Dev.to/JS] [🚀 Cocktail App - make cocktails from home 🚀😍](https://dev.to/antongustafsson/cocktail-app-make-cocktails-from-home-4b7l)
-- [Dev.to/JS] [Footer Ad Sticky No Close &lpar;x&rpar;](https://dev.to/bianity/footer-ad-sticky-no-close-x-14a3)
-- [Dev.to/JS] [Take styled-components to the next level](https://dev.to/everlyhealth/take-styled-components-to-the-level-34b5)
-- [Dev.to/JS] [Object Oriented Programming &lpar;OOP&rpar;](https://dev.to/victoriaigbobi65/object-oriented-programming-oop-3og4)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
 - [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
