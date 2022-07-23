@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 10&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-10-472i)
+- [Dev.to/JS] [How to Build a Digital Marketing Agency Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-digital-marketing-agency-website-using-html-css-javascript-262l)
+- [Dev.to/JS] [My personal portfolio website using Next.Js &lpar;Responsive&rpar;](https://dev.to/shivampawar/my-personal-portfolio-website-using-nextjs-responsive-1ibp)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
 - [Dev.to/JS] [Handle errors in a NodeJS application](https://dev.to/mohammadfaisal/handle-errors-in-a-nodejs-application-2n2a)
 - [Dev.to/JS] [HashTable Data Structure](https://dev.to/fotiecodes/hashtable-data-structure-moi)
@@ -33,9 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5.1 * 100 != 510 🤯 , Why you have to be careful with Doubles and Floats !](https://dev.to/shrihari/51-100-510-why-you-have-to-be-careful-with-doubles-and-floats--29eg)
 - [Dev.to/JS] [Ripple Effect using JS animation api](https://dev.to/frankwisniewski/ripple-effect-using-js-animation-api-335)
 - [Dev.to/JS] [[PART-II] GSoC 2022 | Rocket.Chat | EmbeddedChat](https://dev.to/sidmohanty11/part-ii-gsoc-2022-rocketchat-embeddedchat-15g3)
-- [Dev.to/JS] [Awesome Shortcuts: navigate to your favorite actions on the websites you love with just one click](https://dev.to/arifszn/awesome-shortcuts-navigate-to-your-favorite-actions-on-the-websites-you-love-with-just-one-click-aen)
-- [Dev.to/JS] [Optimizing React Native Apps for Improved Performance &lpar;2022&rpar;](https://dev.to/santhoshumapathi/optimizing-react-native-apps-for-improved-performance-2022-4kk7)
-- [Dev.to/JS] [Font styling with variable fonts in React](https://dev.to/m3cv1no/font-styling-with-variable-fonts-in-react-2boi)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
