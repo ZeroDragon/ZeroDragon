@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to create a simple progress bar in react native](https://dev.to/akinolu52/how-to-create-a-simple-progress-bar-in-react-native-3foe)
+- [Dev.to/JS] [Run gists using npx](https://dev.to/srele96/run-gists-using-npx-48lh)
+- [Dev.to/JS] [Closure in JavaScript Explanation done RIGHT](https://dev.to/oziheb/closure-in-javascript-explanation-done-right-4g7j)
+- [Dev.to/JS] [The object approach with JavaScript methods is the best for me](https://dev.to/tykok/the-object-approach-with-javascript-methods-is-the-best-for-me-1p5j)
 - [Dev.to/JS] [Paracetamol.js💊| #174: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-174-explica-este-codigo-javascript-51fd)
 - [Dev.to/JS] [How to make a URL shortner using SvelteKit.](https://dev.to/theether0/how-to-make-a-url-shortner-using-sveltekit-55kc)
 - [Dev.to/JS] [SOLID PRINCIPLES IN JAVASCRIPT: WHAT THEY ARE, WHY YOU SHOULD USE THEM, AND HOW TO IMPLEMENT THEM](https://dev.to/cyannrogue/solid-principles-in-javascript-what-they-are-why-you-should-use-them-and-how-to-implement-them-216j)
@@ -32,10 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Paint it Black : Toolbar App](https://dev.to/egfx/paint-it-black-gif-tool-5542)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Dev.to/JS] [Top 67 Youtube Channels for all Developers in 2022](https://dev.to/lodstare/top-67-youtube-channels-for-all-developers-in-2022-1mck)
-- [Dev.to/JS] [State Management in React.Js](https://dev.to/omohemma/state-management-in-reactjs-49m2)
-- [Dev.to/JS] [Everything You Need To Know About ARRAYS](https://dev.to/mishaeldada/everything-you-need-to-know-about-arrays-302f)
-- [Dev.to/JS] [Simple GraphQL Query Using ExpressJs](https://dev.to/mishaeldada/simple-graphql-query-using-expressjs-2n2h)
-- [Dev.to/JS] [java code](https://dev.to/karakib2k18/blogdfsdfs-77g)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
