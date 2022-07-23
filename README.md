@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [META Tags to boost SEO and Page Rankings](https://dev.to/tikam02/meta-tags-to-boost-seo-and-page-rankings-h8a)
+- [Dev.to/JS] [Promise.all&lpar;&rpar; - JavaScript Function](https://dev.to/tikam02/promiseall-javascript-function-2dcn)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Dev.to/JS] [Top 67 Youtube Channels for all Developers in 2022](https://dev.to/lodstare/top-67-youtube-channels-for-all-developers-in-2022-1mck)
 - [Dev.to/JS] [State Management in React.Js](https://dev.to/omohemma/state-management-in-reactjs-49m2)
@@ -36,8 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Build a Digital Marketing Agency Website Using Html CSS JavaScript](https://dev.to/codewithsadee/how-to-build-a-digital-marketing-agency-website-using-html-css-javascript-262l)
 - [Dev.to/JS] [My personal portfolio website using Next.Js &lpar;Responsive&rpar;](https://dev.to/shivampawar/my-personal-portfolio-website-using-nextjs-responsive-1ibp)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
-- [Dev.to/JS] [Handle errors in a NodeJS application](https://dev.to/mohammadfaisal/handle-errors-in-a-nodejs-application-2n2a)
-- [Dev.to/JS] [HashTable Data Structure](https://dev.to/fotiecodes/hashtable-data-structure-moi)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
