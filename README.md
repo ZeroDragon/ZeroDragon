@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #174: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-174-explica-este-codigo-javascript-51fd)
+- [Dev.to/JS] [How to make a URL shortner using SvelteKit.](https://dev.to/theether0/how-to-make-a-url-shortner-using-sveltekit-55kc)
 - [Dev.to/JS] [SOLID PRINCIPLES IN JAVASCRIPT: WHAT THEY ARE, WHY YOU SHOULD USE THEM, AND HOW TO IMPLEMENT THEM](https://dev.to/cyannrogue/solid-principles-in-javascript-what-they-are-why-you-should-use-them-and-how-to-implement-them-216j)
 - [Dev.to/JS] [Explain Aws API Gateway vulnerabilities Like I&#39;m Five](https://dev.to/shakeel0581/explain-aws-api-gateway-vulnerabilities-like-im-five-5ad0)
 - [Dev.to/JS] [META Tags to boost SEO and Page Rankings](https://dev.to/tikam02/meta-tags-to-boost-seo-and-page-rankings-h8a)
@@ -35,8 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Simple GraphQL Query Using ExpressJs](https://dev.to/mishaeldada/simple-graphql-query-using-expressjs-2n2h)
 - [Dev.to/JS] [java code](https://dev.to/karakib2k18/blogdfsdfs-77g)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
-- [Dev.to/JS] [Finding Occurences of element in array in js](https://dev.to/shubhamtiwari909/finding-occurences-of-element-in-array-in-js-48e5)
-- [Dev.to/JS] [React Lifecycle methods](https://dev.to/arjun_computer_geek/react-lifecycle-methods-1051)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
