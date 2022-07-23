@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [This week’s newsletter is out! &lpar;23-07-2022&rpar; - Stop bullying me peoples of Vietnam and the Network States](https://dev.to/mjgs/this-weeks-newsletter-is-out-23-07-2022-stop-bullying-me-peoples-of-vietnam-and-the-network-states-2hgk)
+- [Dev.to/JS] [Create Nginx extensions in JavaScript](https://dev.to/metal3d/create-nginx-extensions-in-javascript-3310)
+- [Dev.to/JS] [Netflix MOD APK v8.31.1 Download &lpar;Premium 4K&rpar;](https://dev.to/sajidhuasin/netflix-mod-apk-v8311-download-premium-4k-1ag7)
 - [Dev.to/JS] [The History of JavaScript](https://dev.to/iarchitsharma/the-history-of-javascript-5e98)
 - [Dev.to/JS] [System Color Theme Check In JavaScript](https://dev.to/bibekkakati/system-color-theme-check-in-javascript-1la9)
 - [Dev.to/JS] [JavaScript URL Objects API](https://dev.to/dailydevtips1/javascript-url-objects-api-23a6)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Automatically generating files in your React/Next Js app](https://dev.to/sam_lukaa/automatically-generating-files-in-your-reactnext-js-app-4e0g)
 - [Dev.to/JS] [Top Visual Studio Code extensions for developers in 2022](https://dev.to/asayerio_techblog/top-visual-studio-code-extensions-for-developers-in-2022-4nnn)
 - [Dev.to/JS] [Using Mantine with React and Next](https://dev.to/asayerio_techblog/using-mantine-with-react-and-next-3605)
-- [Dev.to/JS] [Introducción a React Context con los Hooks de React](https://dev.to/azael_olivar/introduccion-a-react-context-con-los-hooks-de-react-3f28)
-- [Dev.to/JS] [Styled Components: Qué son y cómo se utilizan](https://dev.to/azael_olivar/styled-components-que-son-y-como-se-utilizan-58oh)
-- [Dev.to/JS] [¿Qué es React y para qué sirve?](https://dev.to/azael_olivar/que-es-react-y-para-que-sirve-254e)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
 - [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
