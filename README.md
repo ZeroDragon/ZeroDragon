@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
+- [Dev.to/JS] [Array](https://dev.to/gohomewho/array-5gl6)
+- [Dev.to/JS] [Nodejs GraphQl Authentication with JWT, Apollo-server, MySql and Sequelize ORM.](https://dev.to/foxy17/nodejs-graphql-authentication-with-jwt-apollo-server-mysql-and-sequelize-orm-3af8)
+- [Dev.to/JS] [Event Loops in Javascript](https://dev.to/shubhamtiwari909/event-loops-in-javascript-2fk)
+- [Dev.to/JS] [React &lpar;TanStack&rpar; Query Tutorial for Beginners](https://dev.to/shahednasser/react-tanstack-query-tutorial-for-beginners-4e2f)
 - [Dev.to/JS] [Paracetamol.js💊| #175: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-175-explica-este-codigo-javascript-1ao8)
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Dev.to/JS] [Acing a coding interview](https://dev.to/kachiic/acing-a-coding-interview-57ci)
@@ -32,11 +37,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Connecting the Registration Form To Firebase](https://dev.to/spmhot/connecting-the-registration-form-to-firebase-6eb)
 - [Dev.to/JS] [How We Made Our First Web-Dev Project](https://dev.to/crazycodigo/how-we-made-our-first-web-dev-project-lae)
 - [Dev.to/JS] [What data structure is best for caching? An experiment 🧪](https://dev.to/eitanwaxman/what-data-structure-is-best-for-caching-an-experiment-ef5)
-- [Dev.to/JS] [Using the useContext hook in React](https://dev.to/lauratoddcodes/using-the-usecontext-hook-in-react-3kob)
-- [Dev.to/JS] [Smart contracts integration testing with hardhat mainnet fork](https://dev.to/gkrasulya/smart-contracts-integration-testing-with-hardhat-mainnet-fork-562m)
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
-- [Dev.to/JS] [LeetCode - Find Minimum in Rotated Sorted Array](https://dev.to/_alkesh26/leetcode-find-minimum-in-rotated-sorted-array-3ooj)
-- [Dev.to/JS] [Learn React JS by building this one Web app](https://dev.to/codewithmarish/learn-react-js-by-building-this-one-web-app-4i42)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Are the Best Subreddits to Make Your Life Better](https://lifehacker.com/these-are-the-best-subreddits-to-make-your-life-better-1849315013)
 - [Lifehacker] [Have You Tried Doing Nothing?](https://lifehacker.com/have-you-tried-doing-nothing-1849316346)
 - [Lifehacker] [The Best Workouts to Do When It&#39;s Hot Out](https://lifehacker.com/the-best-workouts-to-do-when-its-hot-out-1849316676)
-- [Lifehacker] [Your iPhone Has a Hidden Haptic Keyboard](https://lifehacker.com/your-iphone-has-a-hidden-haptic-keyboard-1849315813)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
