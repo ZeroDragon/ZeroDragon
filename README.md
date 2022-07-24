@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using the useContext hook in React](https://dev.to/lauratoddcodes/using-the-usecontext-hook-in-react-3kob)
+- [Dev.to/JS] [Smart contracts integration testing with hardhat mainnet fork](https://dev.to/gkrasulya/smart-contracts-integration-testing-with-hardhat-mainnet-fork-562m)
 - [Dev.to/JS] [LeetCode - Find Minimum in Rotated Sorted Array](https://dev.to/_alkesh26/leetcode-find-minimum-in-rotated-sorted-array-3ooj)
 - [Dev.to/JS] [Learn React JS by building this one Web app](https://dev.to/codewithmarish/learn-react-js-by-building-this-one-web-app-4i42)
 - [Dev.to/JS] [Host images on Google Drive with Svelte!](https://dev.to/hugoduprez/host-images-on-google-drive-with-svelte-51b5)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Universe will collapse before you need BIGINT for milliseconds in JavaScript](https://dev.to/_alexblokh/universe-will-collapse-before-you-need-bigint-for-milliseconds-in-javascript-3epb)
 - [Dev.to/JS] [My Portfolio created using React &amp; GSAP](https://dev.to/andaeiii/my-portfolio-created-using-react-gsap-4pkl)
 - [Dev.to/JS] [JavaScript: Currying](https://dev.to/deogadkarravina/javascript-currying-3a41)
-- [Dev.to/JS] [Prodentim Reviews- Price of Prodentim Australia NZ or Prodentim UK Scam](https://dev.to/prodentimaustr1/prodentim-reviews-price-of-prodentim-australia-nz-or-prodentim-uk-scam-2d)
-- [Dev.to/JS] [JavaScript object destructuring tips](https://dev.to/dailydevtips1/javascript-object-destructuring-tips-154c)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
