@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JavaScript: Currying](https://dev.to/deogadkarravina/javascript-currying-3a41)
+- [Dev.to/JS] [Prodentim Reviews- Price of Prodentim Australia NZ or Prodentim UK Scam](https://dev.to/prodentimaustr1/prodentim-reviews-price-of-prodentim-australia-nz-or-prodentim-uk-scam-2d)
+- [Dev.to/JS] [JavaScript object destructuring tips](https://dev.to/dailydevtips1/javascript-object-destructuring-tips-154c)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 11&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-11-3c8m)
 - [Dev.to/JS] [Worker threads made easy](https://dev.to/varvolta/worker-threads-made-easy-57ep)
 - [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 5 and 6 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-5-and-6-report-2kpp)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to set caret on a node in a contenteditable element](https://dev.to/takechamp/how-to-set-caret-on-a-node-in-a-contenteditable-element-4k46)
 - [Dev.to/JS] [Menghitung Batas Maksimal Ukuran File di JavaScript](https://dev.to/anggakswr/menghitung-batas-maksimalukuran-file-di-javascript-56p2)
 - [Dev.to/JS] [My Scrimba Front End Developer Journey — Entry 1](https://dev.to/markymark/my-scrimba-front-end-developer-journey-entry-1-3dd4)
-- [Dev.to/JS] [Calculating Maximum File Size Limit in JavaScript](https://dev.to/anggakswr/calculating-maximum-file-size-limit-in-javascript-2k1f)
-- [Dev.to/JS] [Making your own CSS Component Library](https://dev.to/iprankurpandey/making-your-own-css-component-library-k0j)
-- [Dev.to/JS] [How to check battery status with javascript &lpar; 2 simple steps &rpar;](https://dev.to/anand346/how-to-check-battery-status-with-javascript-2-simple-steps--j52)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
