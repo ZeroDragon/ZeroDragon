@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Paracetamol.js💊| #175: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-175-explica-este-codigo-javascript-1ao8)
+- [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Dev.to/JS] [Acing a coding interview](https://dev.to/kachiic/acing-a-coding-interview-57ci)
 - [Dev.to/JS] [Build Full Stack App with React, Fastify, tRPC, Prisma ORM and Turborepo](https://dev.to/franciscomendes10866/build-full-stack-app-with-react-fastify-trpc-prisma-orm-and-turborepo-k24)
 - [Dev.to/JS] [EASY STEPS IN UNDERSTANDING ARRAY REDUCE METHOD](https://dev.to/onwuemene/easy-steps-in-understanding-array-reduce-method-49fn)
@@ -35,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
 - [Dev.to/JS] [LeetCode - Find Minimum in Rotated Sorted Array](https://dev.to/_alkesh26/leetcode-find-minimum-in-rotated-sorted-array-3ooj)
 - [Dev.to/JS] [Learn React JS by building this one Web app](https://dev.to/codewithmarish/learn-react-js-by-building-this-one-web-app-4i42)
-- [Dev.to/JS] [Host images on Google Drive with Svelte!](https://dev.to/hugoduprez/host-images-on-google-drive-with-svelte-51b5)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Have You Tried Doing Nothing?](https://lifehacker.com/have-you-tried-doing-nothing-1849316346)
 - [Lifehacker] [The Best Workouts to Do When It&#39;s Hot Out](https://lifehacker.com/the-best-workouts-to-do-when-its-hot-out-1849316676)
 - [Lifehacker] [Your iPhone Has a Hidden Haptic Keyboard](https://lifehacker.com/your-iphone-has-a-hidden-haptic-keyboard-1849315813)
-- [Lifehacker] [Four Ways to Give Your Whipped Cream a Sophisticated Edge](https://lifehacker.com/four-ways-to-give-your-whipped-cream-a-sophisticated-ed-1849315983)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
