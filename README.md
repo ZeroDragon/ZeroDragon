@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Developer daily routine job Guide](https://dev.to/pawandeore/developer-daily-routine-job-guide-9k3)
+- [Dev.to/JS] [150+ Typescript one-liners [code snippets].](https://dev.to/chrisciokler/150-typescript-one-liners-code-snippets-4l51)
 - [Dev.to/JS] [Amazing! Implementing artistic graphics with CSS](https://dev.to/chokcoco/amazing-implementing-artistic-graphics-with-css-1plg)
 - [Dev.to/JS] [How to set caret on a node in a contenteditable element](https://dev.to/takechamp/how-to-set-caret-on-a-node-in-a-contenteditable-element-4k46)
 - [Dev.to/JS] [Menghitung Batas Maksimal Ukuran File di JavaScript](https://dev.to/anggakswr/menghitung-batas-maksimalukuran-file-di-javascript-56p2)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Hosting Your Blog on Vercel.](https://dev.to/zacherymorgan/hosting-your-blog-on-vercel-55be)
 - [Dev.to/JS] [JS Anagrams with Big O Notation](https://dev.to/anasnmu/js-anagrams-with-big-o-notation-2lk0)
 - [Dev.to/JS] [Border radius generator](https://dev.to/thedzigner/border-radius-generator-g8d)
-- [Dev.to/JS] [How to create a simple progress bar in react native](https://dev.to/akinolu52/how-to-create-a-simple-progress-bar-in-react-native-3foe)
-- [Dev.to/JS] [Run gists using npx](https://dev.to/srele96/run-gists-using-npx-48lh)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
