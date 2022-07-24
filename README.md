@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [JS Anagrams with Big O Notation](https://dev.to/anasnmu/js-anagrams-with-big-o-notation-2lk0)
 - [Dev.to/JS] [Border radius generator](https://dev.to/thedzigner/border-radius-generator-g8d)
 - [Dev.to/JS] [How to create a simple progress bar in react native](https://dev.to/akinolu52/how-to-create-a-simple-progress-bar-in-react-native-3foe)
 - [Dev.to/JS] [Run gists using npx](https://dev.to/srele96/run-gists-using-npx-48lh)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Explain Aws API Gateway vulnerabilities Like I&#39;m Five](https://dev.to/shakeel0581/explain-aws-api-gateway-vulnerabilities-like-im-five-5ad0)
 - [Dev.to/JS] [META Tags to boost SEO and Page Rankings](https://dev.to/tikam02/meta-tags-to-boost-seo-and-page-rankings-h8a)
 - [Dev.to/JS] [Promise.all&lpar;&rpar; - JavaScript Function](https://dev.to/tikam02/promiseall-javascript-function-2dcn)
-- [Dev.to/JS] [Paint it Black : Toolbar App](https://dev.to/egfx/paint-it-black-gif-tool-5542)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
