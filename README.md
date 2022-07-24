@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 11&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-11-3c8m)
+- [Dev.to/JS] [Worker threads made easy](https://dev.to/varvolta/worker-threads-made-easy-57ep)
+- [Dev.to/JS] [GSoC 2022 CircuitVerse | Week 5 and 6 Report](https://dev.to/vedantjain03/gsoc-2022-circuitverse-week-5-and-6-report-2kpp)
 - [Dev.to/JS] [Developer daily routine job Guide](https://dev.to/pawandeore/developer-daily-routine-job-guide-9k3)
 - [Dev.to/JS] [150+ Typescript one-liners [code snippets].](https://dev.to/chrisciokler/150-typescript-one-liners-code-snippets-4l51)
 - [Dev.to/JS] [Amazing! Implementing artistic graphics with CSS](https://dev.to/chokcoco/amazing-implementing-artistic-graphics-with-css-1plg)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Calculating Maximum File Size Limit in JavaScript](https://dev.to/anggakswr/calculating-maximum-file-size-limit-in-javascript-2k1f)
 - [Dev.to/JS] [Making your own CSS Component Library](https://dev.to/iprankurpandey/making-your-own-css-component-library-k0j)
 - [Dev.to/JS] [How to check battery status with javascript &lpar; 2 simple steps &rpar;](https://dev.to/anand346/how-to-check-battery-status-with-javascript-2-simple-steps--j52)
-- [Dev.to/JS] [Hosting Your Blog on Vercel.](https://dev.to/zacherymorgan/hosting-your-blog-on-vercel-55be)
-- [Dev.to/JS] [JS Anagrams with Big O Notation](https://dev.to/anasnmu/js-anagrams-with-big-o-notation-2lk0)
-- [Dev.to/JS] [Border radius generator](https://dev.to/thedzigner/border-radius-generator-g8d)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
