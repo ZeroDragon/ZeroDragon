@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made a tool to round corners of a polygon in a proper way](https://dev.to/foretoo/i-made-a-tool-to-round-corners-of-a-polygon-in-a-proper-way-27fg)
+- [Dev.to/JS] [Code Smell 152 - Logical Comment](https://dev.to/mcsee/code-smell-152-logical-comment-2bg0)
+- [Dev.to/JS] [How to use icons in your HTML code using fontawesome](https://dev.to/lodstare/how-to-use-icons-in-your-html-code-using-fontawesome-lhc)
+- [Dev.to/JS] [Tricks to overcome your fears while becoming a Dev!](https://dev.to/realkevinbrian/tricks-to-overcome-your-fears-while-becoming-a-dev-54pa)
 - [Dev.to/JS] [How variables get instantiated?](https://dev.to/djmsuman/how-variables-get-instantiated-1pn4)
 - [Dev.to/JS] [PLEASE SOLVE THIS ERROR](https://dev.to/codernikhil12/please-solve-this-error-3953)
 - [Dev.to/JS] [Error: Hydration failed because the initial UI does not match what was rendered on the server.](https://dev.to/rkjain119/error-hydration-failed-because-the-initial-ui-does-not-match-what-was-rendered-on-the-server-1d0f)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Linked List Data structure](https://dev.to/ericawanja/linked-list-data-structure-11l8)
 - [Dev.to/JS] [Social login OAuth with LinkedIn](https://dev.to/ashutoshdash/social-login-oauth-with-linkedin-5cg9)
 - [Dev.to/JS] [JavaScript Object Methods](https://dev.to/abidullah786/javascript-object-methods-4lic)
-- [Dev.to/JS] [CRUD App using React JS](https://dev.to/rajamanickam/crud-app-using-react-js-8bd)
-- [Dev.to/JS] [Creating A Game With ECS - Part 1](https://dev.to/rareearth/creating-a-game-with-ecs-part-1-4m60)
-- [Dev.to/JS] [Weekly Digest 29/2022](https://dev.to/marcobiedermann/weekly-digest-292022-hhi)
 - [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
-- [Dev.to/JS] [Array](https://dev.to/gohomewho/array-5gl6)
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
