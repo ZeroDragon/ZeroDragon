@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Vue Js Router and Nav CSS](https://dev.to/isaachatilima/vue-js-router-and-nav-css-10kg)
 - [Dev.to/JS] [Universe will collapse before you need BIGINT for milliseconds in JavaScript](https://dev.to/_alexblokh/universe-will-collapse-before-you-need-bigint-for-milliseconds-in-javascript-3epb)
 - [Dev.to/JS] [My Portfolio created using React &amp; GSAP](https://dev.to/andaeiii/my-portfolio-created-using-react-gsap-4pkl)
 - [Dev.to/JS] [JavaScript: Currying](https://dev.to/deogadkarravina/javascript-currying-3a41)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Developer daily routine job Guide](https://dev.to/pawandeore/developer-daily-routine-job-guide-9k3)
 - [Dev.to/JS] [150+ Typescript one-liners [code snippets].](https://dev.to/chrisciokler/150-typescript-one-liners-code-snippets-4l51)
 - [Dev.to/JS] [Amazing! Implementing artistic graphics with CSS](https://dev.to/chokcoco/amazing-implementing-artistic-graphics-with-css-1plg)
-- [Dev.to/JS] [How to set caret on a node in a contenteditable element](https://dev.to/takechamp/how-to-set-caret-on-a-node-in-a-contenteditable-element-4k46)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
