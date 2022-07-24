@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Social login OAuth with LinkedIn](https://dev.to/ashutoshdash/social-login-oauth-with-linkedin-5cg9)
+- [Dev.to/JS] [JavaScript Object Methods](https://dev.to/abidullah786/javascript-object-methods-4lic)
+- [Dev.to/JS] [Creating A Game With ECS - Part 1](https://dev.to/rareearth/creating-a-game-with-ecs-part-1-4m60)
+- [Dev.to/JS] [CRUD App using React JS](https://dev.to/rajamanickam/crud-app-using-react-js-8bd)
+- [Dev.to/JS] [Weekly Digest 29/2022](https://dev.to/marcobiedermann/weekly-digest-292022-hhi)
 - [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
 - [Dev.to/JS] [Array](https://dev.to/gohomewho/array-5gl6)
 - [Dev.to/JS] [Nodejs GraphQl Authentication with JWT, Apollo-server, MySql and Sequelize ORM.](https://dev.to/foxy17/nodejs-graphql-authentication-with-jwt-apollo-server-mysql-and-sequelize-orm-3af8)
@@ -32,11 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Dev.to/JS] [Acing a coding interview](https://dev.to/kachiic/acing-a-coding-interview-57ci)
 - [Dev.to/JS] [Build Full Stack App with React, Fastify, tRPC, Prisma ORM and Turborepo](https://dev.to/franciscomendes10866/build-full-stack-app-with-react-fastify-trpc-prisma-orm-and-turborepo-k24)
-- [Dev.to/JS] [EASY STEPS IN UNDERSTANDING ARRAY REDUCE METHOD](https://dev.to/onwuemene/easy-steps-in-understanding-array-reduce-method-49fn)
-- [Dev.to/JS] [Build and Deploy a Nuxt3 app to Netlify](https://dev.to/ravgeetdhillon/build-and-deploy-a-nuxt3-app-to-netlify-1c2k)
-- [Dev.to/JS] [Connecting the Registration Form To Firebase](https://dev.to/spmhot/connecting-the-registration-form-to-firebase-6eb)
-- [Dev.to/JS] [How We Made Our First Web-Dev Project](https://dev.to/crazycodigo/how-we-made-our-first-web-dev-project-lae)
-- [Dev.to/JS] [What data structure is best for caching? An experiment 🧪](https://dev.to/eitanwaxman/what-data-structure-is-best-for-caching-an-experiment-ef5)
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
