@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Recursion in JavaScript](https://dev.to/anasnmu/recursion-in-javascript-205n)
+- [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/18/22 - 7/24/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-71822-72422-360i)
+- [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Plus Minus](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-plus-minus-16m4)
+- [Lifehacker] [The Most Clever Ways to Use Honey &lpar;Besides Eating It&rpar;](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
+- [Dev.to/JS] [Creating Short URLs with Netlify Functions and FaunaDb](https://dev.to/michaeljolley/creating-short-urls-with-netlify-functions-and-faunadb-4bca)
+- [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Diagonal Difference](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-diagonal-difference-2e35)
+- [Dev.to/JS] [Top 5 Youtubr channels for learning JavaScript](https://dev.to/lodstare/top-5-youtubr-channels-for-learning-javascript-2lna)
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
 - [Dev.to/JS] [HIRING Sr. Software Engineers &lpar;Full Stack&rpar;](https://dev.to/technicalrecruiterfrommarz/hiring-sr-software-engineers-full-stack-17h1)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
@@ -35,15 +42,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Deploying Your CRA React App on Github Pages](https://dev.to/kathryngrayson/deploying-your-cra-react-app-on-github-pages-2614)
 - [Lifehacker] [These Things Don&#39;t Actually Make You &#39;Bad&#39; at Meditating](https://lifehacker.com/these-things-dont-actually-make-you-bad-at-meditating-1849327687)
 - [Dev.to/JS] [Entendendo objects prototypes](https://dev.to/brunopittaf/entendendo-objects-prototypes-22e4)
-- [Dev.to/JS] [Url in Javascript](https://dev.to/dhanushnehru/url-in-javascript-550d)
-- [Dev.to/JS] [Getting Started With NestJS](https://dev.to/kalashin1/getting-started-with-nestjs-1p1d)
 - [Lifehacker] [The Difference Between a Fear and a Phobia](https://lifehacker.com/the-difference-between-a-fear-and-a-phobia-1849327521)
-- [Dev.to/JS] [React.js Interview - technical submission and detailed feedback](https://dev.to/rajeshroyal/reactjs-interview-technical-submission-and-detailed-feedback-2pk7)
 - [Lifehacker] [The Five Minimum Legal Terms Everyone Should Know](https://lifehacker.com/the-five-minimum-legal-terms-everyone-should-know-1849327250)
-- [Dev.to/JS] [Paracetamol.js💊| #176: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-176-explica-este-codigo-javascript-5282)
 - [Lifehacker] [Apple Now Makes the Last Smartphone With This Feature](https://lifehacker.com/apple-now-makes-the-last-smartphone-with-this-feature-1849326967)
-- [Dev.to/JS] [Deploying React App to Netlify](https://dev.to/murtuzaalisurti/deploying-react-app-to-netlify-53hc)
-- [Dev.to/JS] [Build on Flow | Learn FCL - 13. How to Modify the State of the Chain by Signing Transactions with Wallets](https://dev.to/onflow/build-on-flow-learn-fcl-13-how-to-modify-the-state-of-the-chain-by-signing-transactions-with-wallets-3ndl)
 - [Lifehacker] [You Can Make Extra Money by Letting Dogs Play in Your Backyard](https://lifehacker.com/you-can-make-extra-money-by-letting-dogs-play-in-your-b-1849327367)
 - [Lifehacker] [How Your Teenager’s Friendships Can Impact Their Adulthood](https://lifehacker.com/how-your-teenager-s-friendships-can-impact-their-adulth-1849326001)
 - [Lifehacker] [Here&#39;s When You Should Take the Miles for a Canceled Flight](https://lifehacker.com/heres-when-you-should-take-the-miles-for-a-canceled-fli-1849320211)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
 - [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
-- [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
