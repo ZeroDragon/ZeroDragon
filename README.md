@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Using React Navigation to Pass Params](https://dev.to/theadultnoble_6/using-react-navigation-to-pass-params-n0f)
 - [Dev.to/JS] [Recursion in JavaScript](https://dev.to/anasnmu/recursion-in-javascript-205n)
 - [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/18/22 - 7/24/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-71822-72422-360i)
 - [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Plus Minus](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-plus-minus-16m4)
@@ -41,7 +42,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Don’t Always Have to Forgive, According to a Psychologist](https://lifehacker.com/why-you-don-t-always-have-to-forgive-according-to-a-ps-1849327432)
 - [Dev.to/JS] [Deploying Your CRA React App on Github Pages](https://dev.to/kathryngrayson/deploying-your-cra-react-app-on-github-pages-2614)
 - [Lifehacker] [These Things Don&#39;t Actually Make You &#39;Bad&#39; at Meditating](https://lifehacker.com/these-things-dont-actually-make-you-bad-at-meditating-1849327687)
-- [Dev.to/JS] [Entendendo objects prototypes](https://dev.to/brunopittaf/entendendo-objects-prototypes-22e4)
 - [Lifehacker] [The Difference Between a Fear and a Phobia](https://lifehacker.com/the-difference-between-a-fear-and-a-phobia-1849327521)
 - [Lifehacker] [The Five Minimum Legal Terms Everyone Should Know](https://lifehacker.com/the-five-minimum-legal-terms-everyone-should-know-1849327250)
 - [Lifehacker] [Apple Now Makes the Last Smartphone With This Feature](https://lifehacker.com/apple-now-makes-the-last-smartphone-with-this-feature-1849326967)
