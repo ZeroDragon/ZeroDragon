@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Here&#39;s When You Should Take the Miles for a Canceled Flight](https://lifehacker.com/heres-when-you-should-take-the-miles-for-a-canceled-fli-1849320211)
+- [Dev.to/JS] [Always Know When to Use Share vs. ShareReplay](https://dev.to/bitovi/always-know-when-to-use-share-vs-sharereplay-2jdf)
 - [Lifehacker] [Why Almost All of Your Instagram Videos Are Becoming Reels](https://lifehacker.com/why-almost-all-of-your-instagram-videos-are-becoming-re-1849320924)
 - [Lifehacker] [You Should Make This No-churn Pop-Tart Ice Cream](https://lifehacker.com/you-should-make-this-no-churn-pop-tart-ice-cream-1849321735)
 - [Dev.to/JS] [I benchmarked several queue algorithms](https://dev.to/pyrsmk/i-benchmarked-several-queue-algorithms-4hp6)
@@ -38,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Pareto Hypothesis for Getting Hired](https://dev.to/thewritingdev/the-pareto-hypothesis-for-getting-hired-5f)
 - [Dev.to/JS] [5 Tips to Write Clean Code in JavaScript](https://dev.to/simeg/5-tips-to-write-clean-code-in-javascript-1h7b)
 - [Lifehacker] [The 7 Deadly Sins of Surviving a Heat Wave](https://lifehacker.com/the-7-deadly-sins-of-surviving-a-heat-wave-1849320136)
-- [Dev.to/JS] [¿Cómo usar la api de Dev.to para escribir un post?](https://dev.to/matiasfha/como-usar-la-api-de-devto-para-escribir-un-post-30b4)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398)
 - [Lifehacker] [Five Unbreakable Rules of Flying](https://lifehacker.com/five-unbreakable-rules-of-flying-1849320409)
 - [Lifehacker] [The Best Ways to Declutter Your iPhone&#39;s Home Screen&lpar;s&rpar;](https://lifehacker.com/the-best-ways-to-declutter-your-iphones-home-screen-s-1849319576)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Manage Life When You Have Poor Executive Function](https://lifehacker.com/how-to-manage-life-when-you-have-poor-executive-functio-1849318841)
 - [Lifehacker] [What&#39;s New on HBO Max in August 2022](https://lifehacker.com/whats-new-on-hbo-max-in-august-2022-1849319127)
 - [Lifehacker] [You Are Not Eating Enough Mini Meatballs](https://lifehacker.com/you-are-not-eating-enough-mini-meatballs-1849318923)
-- [Lifehacker] [How to Use an Auto Equity Loan When You Need the Money](https://lifehacker.com/how-to-use-an-auto-equity-loan-when-you-need-the-money-1849318889)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
