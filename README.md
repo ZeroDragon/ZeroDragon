@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Difference Between a Fear and a Phobia](https://lifehacker.com/the-difference-between-a-fear-and-a-phobia-1849327521)
+- [Dev.to/JS] [React.js Interview - technical submission and detailed feedback](https://dev.to/rajeshroyal/reactjs-interview-technical-submission-and-detailed-feedback-2pk7)
+- [Lifehacker] [The Five Minimum Legal Terms Everyone Should Know](https://lifehacker.com/the-five-minimum-legal-terms-everyone-should-know-1849327250)
+- [Dev.to/JS] [Paracetamol.js💊| #176: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-176-explica-este-codigo-javascript-5282)
 - [Lifehacker] [Apple Now Makes the Last Smartphone With This Feature](https://lifehacker.com/apple-now-makes-the-last-smartphone-with-this-feature-1849326967)
 - [Dev.to/JS] [Deploying React App to Netlify](https://dev.to/murtuzaalisurti/deploying-react-app-to-netlify-53hc)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 13. How to Modify the State of the Chain by Signing Transactions with Wallets](https://dev.to/onflow/build-on-flow-learn-fcl-13-how-to-modify-the-state-of-the-chain-by-signing-transactions-with-wallets-3ndl)
@@ -36,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Your Teenager’s Friendships Can Impact Their Adulthood](https://lifehacker.com/how-your-teenager-s-friendships-can-impact-their-adulth-1849326001)
 - [Dev.to/JS] [Error Handling in Vue3](https://dev.to/chris1993/error-handling-in-vue3-1g89)
 - [Dev.to/JS] [Things I wish I knew as a newbie](https://dev.to/usenmfon_uko/things-i-wish-i-knew-as-a-newbie-2fd)
-- [Dev.to/JS] [What are you building?](https://dev.to/scottmuangsrichan/what-are-you-building-52l)
 - [Lifehacker] [Here&#39;s When You Should Take the Miles for a Canceled Flight](https://lifehacker.com/heres-when-you-should-take-the-miles-for-a-canceled-fli-1849320211)
-- [Dev.to/JS] [Always Know When to Use Share vs. ShareReplay](https://dev.to/bitovi/always-know-when-to-use-share-vs-sharereplay-2jdf)
 - [Lifehacker] [Why Almost All of Your Instagram Videos Are Becoming Reels](https://lifehacker.com/why-almost-all-of-your-instagram-videos-are-becoming-re-1849320924)
 - [Lifehacker] [You Should Make This No-churn Pop-Tart Ice Cream](https://lifehacker.com/you-should-make-this-no-churn-pop-tart-ice-cream-1849321735)
 - [Lifehacker] [16 Ways to Make Better Popcorn](https://lifehacker.com/16-ways-to-make-better-popcorn-1849316719)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Use This One Tap Shortcut to Actually Turn Off Wifi and Bluetooth on Your iPhone](https://lifehacker.com/use-this-one-tap-shortcut-to-actually-turn-off-wifi-and-1849318943)
 - [Lifehacker] [How to Cope With Social Burnout](https://lifehacker.com/how-to-cope-with-social-burnout-1849319392)
 - [Lifehacker] [Condoms, Foot Massagers, and Other Things You Never Knew You Could Buy With Your FSA](https://lifehacker.com/condoms-foot-massagers-and-other-things-you-never-kne-1849319771)
-- [Lifehacker] [Should You Really Not Drink Beer Before Liquor?](https://lifehacker.com/should-you-really-not-drink-beer-before-liquor-1849319425)
-- [Lifehacker] [The Longest You Should Ever Stay at Your Job, According to Career Experts](https://lifehacker.com/the-longest-you-should-ever-stay-at-your-job-according-1849319335)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
