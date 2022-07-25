@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why Almost All of Your Instagram Videos Are Becoming Reels](https://lifehacker.com/why-almost-all-of-your-instagram-videos-are-becoming-re-1849320924)
+- [Lifehacker] [You Should Make This No-churn Pop-Tart Ice Cream](https://lifehacker.com/you-should-make-this-no-churn-pop-tart-ice-cream-1849321735)
+- [Dev.to/JS] [I benchmarked several queue algorithms](https://dev.to/pyrsmk/i-benchmarked-several-queue-algorithms-4hp6)
+- [Dev.to/JS] [Why do computers suck at math?](https://dev.to/iarchitsharma/why-do-computers-suck-at-math-28gp)
 - [Dev.to/JS] [JavaScript startsWith&lpar;&rpar; and endsWith&lpar;&rpar; string methods, a brief](https://dev.to/shshank/javascript-startswith-and-endswith-string-methods-a-brief-12nk)
 - [Lifehacker] [16 Ways to Make Better Popcorn](https://lifehacker.com/16-ways-to-make-better-popcorn-1849316719)
 - [Dev.to/JS] [What happens if you mix React, Mobx and generators*? Ok, let&#39;s do it!](https://dev.to/iminside/what-happens-if-you-mix-react-mobx-and-generators-ok-lets-do-it-4fk0)
@@ -35,8 +39,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [5 Tips to Write Clean Code in JavaScript](https://dev.to/simeg/5-tips-to-write-clean-code-in-javascript-1h7b)
 - [Lifehacker] [The 7 Deadly Sins of Surviving a Heat Wave](https://lifehacker.com/the-7-deadly-sins-of-surviving-a-heat-wave-1849320136)
 - [Dev.to/JS] [¿Cómo usar la api de Dev.to para escribir un post?](https://dev.to/matiasfha/como-usar-la-api-de-devto-para-escribir-un-post-30b4)
-- [Dev.to/JS] [React Portfolio Template V3.0](https://dev.to/chetanvermaa/react-portfolio-template-v30-3i65)
-- [Dev.to/JS] [Start with Ultra, the new React web framework](https://dev.to/mercicodes/start-with-ultra-the-new-react-web-framework-be8)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398)
 - [Lifehacker] [Five Unbreakable Rules of Flying](https://lifehacker.com/five-unbreakable-rules-of-flying-1849320409)
 - [Lifehacker] [The Best Ways to Declutter Your iPhone&#39;s Home Screen&lpar;s&rpar;](https://lifehacker.com/the-best-ways-to-declutter-your-iphones-home-screen-s-1849319576)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What&#39;s New on HBO Max in August 2022](https://lifehacker.com/whats-new-on-hbo-max-in-august-2022-1849319127)
 - [Lifehacker] [You Are Not Eating Enough Mini Meatballs](https://lifehacker.com/you-are-not-eating-enough-mini-meatballs-1849318923)
 - [Lifehacker] [How to Use an Auto Equity Loan When You Need the Money](https://lifehacker.com/how-to-use-an-auto-equity-loan-when-you-need-the-money-1849318889)
-- [Lifehacker] [How to Tell If Your Friend Has a Crush on You](https://lifehacker.com/how-to-tell-if-your-friend-has-a-crush-on-you-1849316415)
-- [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What the Hell Is Pink Sauce?](https://lifehacker.com/what-is-pink-sauce-1849317941)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
