@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Sharing article](https://dev.to/snowstudios/sharing-article-1bh0)
+- [Dev.to/JS] [Who Is Buzzing About the Select Keto Gummies?](https://dev.to/billysgriffins/who-is-buzzing-about-the-select-keto-gummies-4g6n)
 - [Dev.to/JS] [How to create chat app in React Native using Expo or RN CLI?](https://dev.to/statnyk/how-to-create-chat-app-in-react-native-using-expo-or-rn-cli-345h)
 - [Dev.to/JS] [Next.js is the master of all key in frontend](https://dev.to/shreyvijayvargiya/nextjs-is-the-master-of-all-key-in-frontend-30oo)
 - [Dev.to/JS] [Implementing HowlerJs Audio In Ruby on Rails](https://dev.to/timnans/implementing-howlerjs-audio-in-ruby-on-rails-m46)
-- [Dev.to/JS] [Thinks to take care of Before Toptal Live Coding Interview](https://dev.to/shivabhusal/thinks-to-take-care-of-before-toptal-live-coding-interview-2ken)
+- [Dev.to/JS] [Before Toptal Live Coding Interview](https://dev.to/shivabhusal/thinks-to-take-care-of-before-toptal-live-coding-interview-2ken)
 - [Dev.to/JS] [A generic pre escape and post recover text tags for NLP/ML pipelines](https://dev.to/bacloud22/a-generic-pre-escape-and-post-recover-text-tags-for-nlpml-pipelines-2h4h)
 - [Dev.to/JS] [Serving the same Angular build with different URLs](https://dev.to/ayyash/serving-the-same-angular-build-with-different-urls-2aa0)
 - [Dev.to/JS] [Pure functions in javaScript](https://dev.to/hat52/pure-functions-in-javascript-e9k)
 - [Dev.to/JS] [js-sdsl - A javascript standard data structure library](https://dev.to/zly201/js-sdsl-a-javascript-standard-data-structure-library-23fh)
 - [Dev.to/JS] [Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://dev.to/dustinbrett/top-25-tips-for-building-an-extremely-fast-website-iaf)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 12&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-12-2bij)
-- [Dev.to/JS] [Features of JavaScript - That You Should Know](https://dev.to/devsimc/features-of-javascript-that-you-should-know-43hm)
-- [Dev.to/JS] [I created a Search Engine for Stock&#39;s ROI Analysis using Vue and Node JS](https://dev.to/responsivedev/i-created-a-search-engine-for-stocks-roi-analysis-1k1i)
 - [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
