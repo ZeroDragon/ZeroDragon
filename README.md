@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Does It Ever Make Sense to Live in a Hotel?](https://lifehacker.com/does-it-ever-make-sense-to-live-in-a-hotel-1849326755)
+- [Lifehacker] [So You Forgot to Reserve Some Pasta Water](https://lifehacker.com/so-you-forgot-to-reserve-some-pasta-water-1849327454)
+- [Dev.to/JS] [API Wrangling](https://dev.to/ahmaud/api-wrangling-jjb)
 - [Lifehacker] [Why You Don’t Always Have to Forgive, According to a Psychologist](https://lifehacker.com/why-you-don-t-always-have-to-forgive-according-to-a-ps-1849327432)
 - [Dev.to/JS] [Deploying Your CRA React App on Github Pages](https://dev.to/kathryngrayson/deploying-your-cra-react-app-on-github-pages-2614)
 - [Lifehacker] [These Things Don&#39;t Actually Make You &#39;Bad&#39; at Meditating](https://lifehacker.com/these-things-dont-actually-make-you-bad-at-meditating-1849327687)
@@ -40,7 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Helpful Tips for awe-inspiring Game Play Moments](https://dev.to/marshalbrock/helpful-tips-for-awe-inspiring-game-play-moments-1a33)
 - [Dev.to/JS] [Is it useful to study JavaScript in India?](https://dev.to/staticsave/is-it-useful-to-study-javascript-in-india-1cld)
 - [Lifehacker] [You Can Make Extra Money by Letting Dogs Play in Your Backyard](https://lifehacker.com/you-can-make-extra-money-by-letting-dogs-play-in-your-b-1849327367)
-- [Dev.to/JS] [Collapse / Expand Sidebar Menu Using JavaScript, HTML, &amp; CSS](https://dev.to/thedevdrawer/collapse-expand-sidebar-menu-using-javascript-html-css-3i5i)
 - [Lifehacker] [How Your Teenager’s Friendships Can Impact Their Adulthood](https://lifehacker.com/how-your-teenager-s-friendships-can-impact-their-adulth-1849326001)
 - [Lifehacker] [Here&#39;s When You Should Take the Miles for a Canceled Flight](https://lifehacker.com/heres-when-you-should-take-the-miles-for-a-canceled-fli-1849320211)
 - [Lifehacker] [Why Almost All of Your Instagram Videos Are Becoming Reels](https://lifehacker.com/why-almost-all-of-your-instagram-videos-are-becoming-re-1849320924)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
-- [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
-- [Lifehacker] [Use This One Tap Shortcut to Actually Turn Off Wifi and Bluetooth on Your iPhone](https://lifehacker.com/use-this-one-tap-shortcut-to-actually-turn-off-wifi-and-1849318943)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
