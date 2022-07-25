@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Serving the same Angular build with different URLs](https://dev.to/ayyash/serving-the-same-angular-build-with-different-urls-2aa0)
 - [Dev.to/JS] [Pure functions in javaScript](https://dev.to/hat52/pure-functions-in-javascript-e9k)
 - [Dev.to/JS] [js-sdsl - A javascript standard data structure library](https://dev.to/zly201/js-sdsl-a-javascript-standard-data-structure-library-23fh)
 - [Dev.to/JS] [Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://dev.to/dustinbrett/top-25-tips-for-building-an-extremely-fast-website-iaf)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Cloud Resume Challenge](https://dev.to/wraffaelle98/cloud-resume-challenge-3chf)
 - [Dev.to/JS] [What programming language is best for cyber security?](https://dev.to/professionalw0/what-programming-language-is-best-for-cyber-security-51df)
 - [Dev.to/JS] [What are the highest paid industries in the world?](https://dev.to/professionalw0/what-are-the-highest-paid-industries-in-the-world-18p6)
-- [Dev.to/JS] [Stripe No signatures found matching the expected signature for payload.](https://dev.to/detwiler_amy/stripe-no-signatures-found-matching-the-expected-signature-for-payload-49ba)
 - [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
