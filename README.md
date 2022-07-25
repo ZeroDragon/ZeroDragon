@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398)
+- [Dev.to/JS] [How to Deploy Strapi to Your Own VPS](https://dev.to/strapi/how-to-deploy-strapi-to-your-own-vps-l1e)
+- [Dev.to/JS] [Condicionais - parte 3](https://dev.to/h4ck3rtr4d3r/condicionais-parte-3-22ek)
+- [Dev.to/JS] [Intro to Serverless Functions](https://dev.to/brittneypostma/intro-to-serverless-functions-4nko)
+- [Lifehacker] [Five Unbreakable Rules of Flying](https://lifehacker.com/five-unbreakable-rules-of-flying-1849320409)
+- [Dev.to/JS] [🤩Value-For-Money Deal for Developers: The Celebration Big Bundle🎁](https://dev.to/devop001/value-for-money-deal-for-developers-the-celebration-big-bundle-3b66)
 - [Lifehacker] [The Best Ways to Declutter Your iPhone&#39;s Home Screen&lpar;s&rpar;](https://lifehacker.com/the-best-ways-to-declutter-your-iphones-home-screen-s-1849319576)
+- [Dev.to/JS] [Firebase 9 Firestore GET ALL DOCUMENTS Data From A Collection](https://dev.to/hirajatamil/firebase-9-firestore-get-all-documents-data-from-a-collection-6p5)
 - [Dev.to/JS] [Writing a Memoization Function from Scratch](https://dev.to/teekay/writing-a-memoization-function-from-scratch-1500)
 - [Dev.to/JS] [How to use Vite with React](https://dev.to/asapconet/how-to-use-vite-with-react-3gnf)
 - [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💝.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1b11)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to Add Facebook Authentication to a Nuxt.js Application](https://dev.to/hackmamba/how-to-add-facebook-authentication-to-a-nuxtjs-application-1jd7)
 - [Dev.to/JS] [Create a notifications system using in-app &lpar;bell icon&rpar; and emails](https://dev.to/novu/create-a-notifications-system-using-in-app-bell-icon-and-emails-5c15)
 - [Dev.to/JS] [Hosting a static site on an FTP server with Next.js examples](https://dev.to/jussinevavuori/hosting-a-static-site-on-an-ftp-server-with-nextjs-examples-2pe1)
-- [Dev.to/JS] [What exactly Just in time &lpar;JIT&rpar; compilation is in JavaScript?](https://dev.to/aamchora/what-exactly-jit-compilation-is-in-javascript-4on9)
-- [Dev.to/JS] [Why good documentation matters for Developers?](https://dev.to/jacobandrewsky/why-good-documentation-matters-for-developers-45be)
-- [Dev.to/JS] [Lifecycle of a React component 🔄](https://dev.to/garvcoding/lifecycle-of-a-react-component-23c9)
-- [Dev.to/JS] [Need help on creating a mobile-first website with quiz-like presentation &lpar;HTML CSS &amp; Javascript&rpar;](https://dev.to/eixi/need-help-on-creating-a-mobile-first-website-with-quiz-like-presentation-html-css-javascript-471n)
-- [Dev.to/JS] [Targets and Api-X are on ProductHunt now ⚠️](https://dev.to/vipsprojects/targets-and-api-x-is-on-producthunt-now-1b7j)
 - [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Out-of-Touch Adults’ Guide to Kid Culture: What the Hell Is Pink Sauce?](https://lifehacker.com/what-is-pink-sauce-1849317941)
 - [Lifehacker] [12 of the Best Parenting Lessons We Can Learn From Animals](https://lifehacker.com/12-of-the-best-parenting-lessons-we-can-learn-from-anim-1849316491)
 - [Lifehacker] [All the Ways You Can Customize Your iPhone’s Lock Screen in iOS 16](https://lifehacker.com/all-the-ways-you-can-customize-your-iphone-s-lock-scree-1849310427)
-- [Lifehacker] [These Are the Best Subreddits to Make Your Life Better](https://lifehacker.com/these-are-the-best-subreddits-to-make-your-life-better-1849315013)
-- [Lifehacker] [Have You Tried Doing Nothing?](https://lifehacker.com/have-you-tried-doing-nothing-1849316346)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
