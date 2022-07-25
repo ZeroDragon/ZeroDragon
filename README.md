@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 12&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-12-2bij)
+- [Dev.to/JS] [Features of JavaScript - That You Should Know](https://dev.to/devsimc/features-of-javascript-that-you-should-know-43hm)
+- [Dev.to/JS] [I created a Search Engine for Stock&#39;s ROI Analysis using Vue and Node JS](https://dev.to/responsivedev/i-created-a-search-engine-for-stocks-roi-analysis-1k1i)
 - [Dev.to/JS] [How To Convert HTML To PDF Using JavaScript](https://dev.to/techsolutionstuff/how-to-convert-html-to-pdf-using-javascript-1a3p)
 - [Dev.to/JS] [¿Cómo ordernar un Arreglo de arreglos con Javascript?](https://dev.to/matiasfha/como-ordernar-un-arreglo-de-arreglos-con-javascript-3g1o)
 - [Dev.to/JS] [Cloud Resume Challenge](https://dev.to/wraffaelle98/cloud-resume-challenge-3chf)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Example Post](https://dev.to/joshxyzhimself/example-post-17b2)
 - [Dev.to/JS] [Events in node.js](https://dev.to/muedgar/events-in-nodejs-1246)
 - [Dev.to/JS] [Plug and play DATASETS with ObjectScript Package Manager &lpar;ZPM&rpar;](https://dev.to/intersystems/plug-and-play-datasets-with-objectscript-package-manager-zpm-n3l)
-- [Dev.to/JS] [How to use Watch in Vue 3 with the Composition API](https://dev.to/zelig880/how-to-use-watch-in-vue-3-with-the-composition-api-5e6a)
-- [Dev.to/JS] [FHIR Patient Viewer](https://dev.to/intersystems/fhir-patient-viewer-o32)
-- [Dev.to/JS] [I made a tool to round corners of a polygon in a proper way](https://dev.to/foretoo/i-made-a-tool-to-round-corners-of-a-polygon-in-a-proper-way-27fg)
 - [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
