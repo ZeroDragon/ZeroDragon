@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Don’t Always Have to Forgive, According to a Psychologist](https://lifehacker.com/why-you-don-t-always-have-to-forgive-according-to-a-ps-1849327432)
+- [Dev.to/JS] [Deploying Your CRA React App on Github Pages](https://dev.to/kathryngrayson/deploying-your-cra-react-app-on-github-pages-2614)
+- [Lifehacker] [These Things Don&#39;t Actually Make You &#39;Bad&#39; at Meditating](https://lifehacker.com/these-things-dont-actually-make-you-bad-at-meditating-1849327687)
+- [Dev.to/JS] [Entendendo objects prototypes](https://dev.to/brunopittaf/entendendo-objects-prototypes-22e4)
+- [Dev.to/JS] [Url in Javascript](https://dev.to/dhanushnehru/url-in-javascript-550d)
+- [Dev.to/JS] [Getting Started With NestJS](https://dev.to/kalashin1/getting-started-with-nestjs-1p1d)
 - [Lifehacker] [The Difference Between a Fear and a Phobia](https://lifehacker.com/the-difference-between-a-fear-and-a-phobia-1849327521)
 - [Dev.to/JS] [React.js Interview - technical submission and detailed feedback](https://dev.to/rajeshroyal/reactjs-interview-technical-submission-and-detailed-feedback-2pk7)
 - [Lifehacker] [The Five Minimum Legal Terms Everyone Should Know](https://lifehacker.com/the-five-minimum-legal-terms-everyone-should-know-1849327250)
@@ -35,11 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is it useful to study JavaScript in India?](https://dev.to/staticsave/is-it-useful-to-study-javascript-in-india-1cld)
 - [Lifehacker] [You Can Make Extra Money by Letting Dogs Play in Your Backyard](https://lifehacker.com/you-can-make-extra-money-by-letting-dogs-play-in-your-b-1849327367)
 - [Dev.to/JS] [Collapse / Expand Sidebar Menu Using JavaScript, HTML, &amp; CSS](https://dev.to/thedevdrawer/collapse-expand-sidebar-menu-using-javascript-html-css-3i5i)
-- [Dev.to/JS] [How To Create Collections In Shopify Store | How To Create Gift Cards In Shopify Store](https://dev.to/imveernvkr/how-to-create-collections-in-shopify-store-how-to-create-gift-cards-in-shopify-store-26jd)
-- [Dev.to/JS] [Looping Over Objects.](https://dev.to/sirdigo/looping-over-objects-5hmm)
 - [Lifehacker] [How Your Teenager’s Friendships Can Impact Their Adulthood](https://lifehacker.com/how-your-teenager-s-friendships-can-impact-their-adulth-1849326001)
-- [Dev.to/JS] [Error Handling in Vue3](https://dev.to/chris1993/error-handling-in-vue3-1g89)
-- [Dev.to/JS] [Things I wish I knew as a newbie](https://dev.to/usenmfon_uko/things-i-wish-i-knew-as-a-newbie-2fd)
 - [Lifehacker] [Here&#39;s When You Should Take the Miles for a Canceled Flight](https://lifehacker.com/heres-when-you-should-take-the-miles-for-a-canceled-fli-1849320211)
 - [Lifehacker] [Why Almost All of Your Instagram Videos Are Becoming Reels](https://lifehacker.com/why-almost-all-of-your-instagram-videos-are-becoming-re-1849320924)
 - [Lifehacker] [You Should Make This No-churn Pop-Tart Ice Cream](https://lifehacker.com/you-should-make-this-no-churn-pop-tart-ice-cream-1849321735)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
 - [Lifehacker] [What Is &#39;Vaccine-Derived Polio,&#39; and How Much Should You Worry?](https://lifehacker.com/what-is-vaccine-derived-polio-and-how-much-should-you-1849319885)
 - [Lifehacker] [Use This One Tap Shortcut to Actually Turn Off Wifi and Bluetooth on Your iPhone](https://lifehacker.com/use-this-one-tap-shortcut-to-actually-turn-off-wifi-and-1849318943)
-- [Lifehacker] [How to Cope With Social Burnout](https://lifehacker.com/how-to-cope-with-social-burnout-1849319392)
-- [Lifehacker] [Condoms, Foot Massagers, and Other Things You Never Knew You Could Buy With Your FSA](https://lifehacker.com/condoms-foot-massagers-and-other-things-you-never-kne-1849319771)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
