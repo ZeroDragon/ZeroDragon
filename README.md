@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How To Convert HTML To PDF Using JavaScript](https://dev.to/techsolutionstuff/how-to-convert-html-to-pdf-using-javascript-1a3p)
 - [Dev.to/JS] [¿Cómo ordernar un Arreglo de arreglos con Javascript?](https://dev.to/matiasfha/como-ordernar-un-arreglo-de-arreglos-con-javascript-3g1o)
 - [Dev.to/JS] [Cloud Resume Challenge](https://dev.to/wraffaelle98/cloud-resume-challenge-3chf)
 - [Dev.to/JS] [What programming language is best for cyber security?](https://dev.to/professionalw0/what-programming-language-is-best-for-cyber-security-51df)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [How to use Watch in Vue 3 with the Composition API](https://dev.to/zelig880/how-to-use-watch-in-vue-3-with-the-composition-api-5e6a)
 - [Dev.to/JS] [FHIR Patient Viewer](https://dev.to/intersystems/fhir-patient-viewer-o32)
 - [Dev.to/JS] [I made a tool to round corners of a polygon in a proper way](https://dev.to/foretoo/i-made-a-tool-to-round-corners-of-a-polygon-in-a-proper-way-27fg)
-- [Dev.to/JS] [Code Smell 152 - Logical Comment](https://dev.to/mcsee/code-smell-152-logical-comment-2bg0)
 - [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
