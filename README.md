@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Ways to Declutter Your iPhone&#39;s Home Screen&lpar;s&rpar;](https://lifehacker.com/the-best-ways-to-declutter-your-iphones-home-screen-s-1849319576)
+- [Dev.to/JS] [Writing a Memoization Function from Scratch](https://dev.to/teekay/writing-a-memoization-function-from-scratch-1500)
+- [Dev.to/JS] [How to use Vite with React](https://dev.to/asapconet/how-to-use-vite-with-react-3gnf)
+- [Dev.to/JS] [Top 10 trending github repos for JavaScript developers in this week💝.](https://dev.to/ksengine/top-10-trending-github-repos-for-javascript-developers-in-this-week-1b11)
+- [Dev.to/JS] [JS detect mobile device](https://dev.to/baasmurdo/js-detect-mobile-device-b15)
+- [Dev.to/JS] [How to Add Facebook Authentication to a Nuxt.js Application](https://dev.to/hackmamba/how-to-add-facebook-authentication-to-a-nuxtjs-application-1jd7)
 - [Dev.to/JS] [Create a notifications system using in-app &lpar;bell icon&rpar; and emails](https://dev.to/novu/create-a-notifications-system-using-in-app-bell-icon-and-emails-5c15)
 - [Dev.to/JS] [Hosting a static site on an FTP server with Next.js examples](https://dev.to/jussinevavuori/hosting-a-static-site-on-an-ftp-server-with-nextjs-examples-2pe1)
 - [Dev.to/JS] [What exactly Just in time &lpar;JIT&rpar; compilation is in JavaScript?](https://dev.to/aamchora/what-exactly-jit-compilation-is-in-javascript-4on9)
@@ -30,11 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Lifecycle of a React component 🔄](https://dev.to/garvcoding/lifecycle-of-a-react-component-23c9)
 - [Dev.to/JS] [Need help on creating a mobile-first website with quiz-like presentation &lpar;HTML CSS &amp; Javascript&rpar;](https://dev.to/eixi/need-help-on-creating-a-mobile-first-website-with-quiz-like-presentation-html-css-javascript-471n)
 - [Dev.to/JS] [Targets and Api-X are on ProductHunt now ⚠️](https://dev.to/vipsprojects/targets-and-api-x-is-on-producthunt-now-1b7j)
-- [Dev.to/JS] [Recoil: the Future of State Management for React?](https://dev.to/syncfusion/recoil-the-future-of-state-management-for-react-4i8g)
-- [Dev.to/JS] [Sharing article](https://dev.to/snowstudios/sharing-article-1bh0)
-- [Dev.to/JS] [Who Is Buzzing About the Select Keto Gummies?](https://dev.to/billysgriffins/who-is-buzzing-about-the-select-keto-gummies-4g6n)
-- [Dev.to/JS] [How to create chat app in React Native using Expo or RN CLI?](https://dev.to/statnyk/how-to-create-chat-app-in-react-native-using-expo-or-rn-cli-345h)
-- [Dev.to/JS] [Next.js is the master of all key in frontend](https://dev.to/shreyvijayvargiya/nextjs-is-the-master-of-all-key-in-frontend-30oo)
 - [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
@@ -60,7 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [All the Ways You Can Customize Your iPhone’s Lock Screen in iOS 16](https://lifehacker.com/all-the-ways-you-can-customize-your-iphone-s-lock-scree-1849310427)
 - [Lifehacker] [These Are the Best Subreddits to Make Your Life Better](https://lifehacker.com/these-are-the-best-subreddits-to-make-your-life-better-1849315013)
 - [Lifehacker] [Have You Tried Doing Nothing?](https://lifehacker.com/have-you-tried-doing-nothing-1849316346)
-- [Lifehacker] [The Best Workouts to Do When It&#39;s Hot Out](https://lifehacker.com/the-best-workouts-to-do-when-its-hot-out-1849316676)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
