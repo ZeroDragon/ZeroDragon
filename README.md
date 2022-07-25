@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [js-sdsl - A javascript standard data structure library](https://dev.to/zly201/js-sdsl-a-javascript-standard-data-structure-library-23fh)
+- [Dev.to/JS] [Top 25 Tips for Building an EXTREMELY FAST Website!!!](https://dev.to/dustinbrett/top-25-tips-for-building-an-extremely-fast-website-iaf)
 - [Dev.to/JS] [Build a Messenger Clone with MERN Stack &lpar;MongoDB, Express, React, Node JS&rpar; + Socket.io &lpar;Day 12&rpar;](https://dev.to/benpobi/build-a-messenger-clone-with-mern-stack-mongodb-express-react-node-js-socketio-day-12-2bij)
 - [Dev.to/JS] [Features of JavaScript - That You Should Know](https://dev.to/devsimc/features-of-javascript-that-you-should-know-43hm)
 - [Dev.to/JS] [I created a Search Engine for Stock&#39;s ROI Analysis using Vue and Node JS](https://dev.to/responsivedev/i-created-a-search-engine-for-stocks-roi-analysis-1k1i)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are the highest paid industries in the world?](https://dev.to/professionalw0/what-are-the-highest-paid-industries-in-the-world-18p6)
 - [Dev.to/JS] [Stripe No signatures found matching the expected signature for payload.](https://dev.to/detwiler_amy/stripe-no-signatures-found-matching-the-expected-signature-for-payload-49ba)
 - [Dev.to/JS] [Example Post](https://dev.to/joshxyzhimself/example-post-17b2)
-- [Dev.to/JS] [Events in node.js](https://dev.to/muedgar/events-in-nodejs-1246)
-- [Dev.to/JS] [Plug and play DATASETS with ObjectScript Package Manager &lpar;ZPM&rpar;](https://dev.to/intersystems/plug-and-play-datasets-with-objectscript-package-manager-zpm-n3l)
 - [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
