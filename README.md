@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
+- [Dev.to/JS] [HIRING Sr. Software Engineers &lpar;Full Stack&rpar;](https://dev.to/technicalrecruiterfrommarz/hiring-sr-software-engineers-full-stack-17h1)
+- [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
+- [Dev.to/JS] [Background Processing for React Native Applications in 2022](https://dev.to/christophertdoc/background-processing-for-react-native-applications-in-2022-340g)
+- [Dev.to/JS] [Today i found out : for async of](https://dev.to/tigawanna/today-i-found-out-for-async-of-4abe)
 - [Lifehacker] [Does It Ever Make Sense to Live in a Hotel?](https://lifehacker.com/does-it-ever-make-sense-to-live-in-a-hotel-1849326755)
 - [Lifehacker] [So You Forgot to Reserve Some Pasta Water](https://lifehacker.com/so-you-forgot-to-reserve-some-pasta-water-1849327454)
 - [Dev.to/JS] [API Wrangling](https://dev.to/ahmaud/api-wrangling-jjb)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Now Makes the Last Smartphone With This Feature](https://lifehacker.com/apple-now-makes-the-last-smartphone-with-this-feature-1849326967)
 - [Dev.to/JS] [Deploying React App to Netlify](https://dev.to/murtuzaalisurti/deploying-react-app-to-netlify-53hc)
 - [Dev.to/JS] [Build on Flow | Learn FCL - 13. How to Modify the State of the Chain by Signing Transactions with Wallets](https://dev.to/onflow/build-on-flow-learn-fcl-13-how-to-modify-the-state-of-the-chain-by-signing-transactions-with-wallets-3ndl)
-- [Dev.to/JS] [Essential &quot;this&quot; concepts in JavaScript](https://dev.to/devsatasurion/essential-this-concepts-in-javascript-2g9h)
-- [Dev.to/JS] [Helpful Tips for awe-inspiring Game Play Moments](https://dev.to/marshalbrock/helpful-tips-for-awe-inspiring-game-play-moments-1a33)
-- [Dev.to/JS] [Is it useful to study JavaScript in India?](https://dev.to/staticsave/is-it-useful-to-study-javascript-in-india-1cld)
 - [Lifehacker] [You Can Make Extra Money by Letting Dogs Play in Your Backyard](https://lifehacker.com/you-can-make-extra-money-by-letting-dogs-play-in-your-b-1849327367)
 - [Lifehacker] [How Your Teenager’s Friendships Can Impact Their Adulthood](https://lifehacker.com/how-your-teenager-s-friendships-can-impact-their-adulth-1849326001)
 - [Lifehacker] [Here&#39;s When You Should Take the Miles for a Canceled Flight](https://lifehacker.com/heres-when-you-should-take-the-miles-for-a-canceled-fli-1849320211)
@@ -59,8 +61,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Lifehacker] [How to Clean the Worst Hard Water Stains From Your Sink, Tub, and Shower](https://lifehacker.com/how-to-clean-the-worst-hard-water-stains-from-your-sink-1849184792)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
-- [Lifehacker] [These Home Renovations Will Make Your House More Heat-Wave Resilient](https://lifehacker.com/these-home-renovations-will-make-your-house-more-heat-w-1849319759)
-- [Lifehacker] [Stay Cool While Putting Out Life’s Fires With a Berry Mint Sour](https://lifehacker.com/stay-cool-while-putting-out-life-s-fires-with-a-berry-m-1849320638)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
 
