@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Which kind of sessions you would love to attend most at an intl tech conference such as Devoxx Morocco?](https://dev.to/essaydyoumayma/which-kind-of-sessions-you-would-love-to-attend-most-at-an-intl-tech-conference-such-as-devoxx-morocco-pd9)
+- [Dev.to/JS] [Real Time Comment System Using Node.js, Express.js, Socket.io and MongoDB](https://dev.to/afzalimamias/real-time-comment-system-using-nodejs-expressjs-socketio-and-mongodb-1hl3)
 - [Dev.to/JS] [Why should you want to start your Crypto Exchange Business with Huobi?](https://dev.to/thecryptoapeo/why-should-you-want-to-start-your-crypto-exchange-business-with-huobi-4f87)
 - [Dev.to/JS] [What are you learning right now?](https://dev.to/pavelkeyzik/what-are-you-learning-right-now-2n0g)
 - [Dev.to/JS] [Create any type of sample data in one line of code](https://dev.to/shreyvijayvargiya/create-any-type-of-sample-data-in-one-line-of-code-47k)
@@ -33,8 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Is Bun so much faster than Node.js?](https://dev.to/danielprlo/is-bun-so-much-faster-than-nodejs-17df)
 - [Dev.to/JS] [Help: How to make money as developer ?](https://dev.to/fadhilsaheer/help-how-to-make-money-as-developer--4pic)
 - [Dev.to/JS] [Happy Friendship Day Greeting image With Name - HTML Canvas](https://dev.to/mskian/happy-friendship-day-greeting-image-with-name-html-canvas-4cli)
-- [Dev.to/JS] [Add Picture-In-Picture To Your Videos With Node.js](https://dev.to/shotstack/add-picture-in-picture-to-your-videos-with-nodejs-56ph)
-- [Dev.to/JS] [Using React Navigation to Pass Params](https://dev.to/theadultnoble_6/using-react-navigation-to-pass-params-n0f)
 - [Lifehacker] [The Most Clever Ways to Use Honey &lpar;Besides Eating It&rpar;](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
