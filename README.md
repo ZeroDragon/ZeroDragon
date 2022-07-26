@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Why should you want to start your Crypto Exchange Business with Huobi?](https://dev.to/thecryptoapeo/why-should-you-want-to-start-your-crypto-exchange-business-with-huobi-4f87)
+- [Dev.to/JS] [What are you learning right now?](https://dev.to/pavelkeyzik/what-are-you-learning-right-now-2n0g)
+- [Dev.to/JS] [Create any type of sample data in one line of code](https://dev.to/shreyvijayvargiya/create-any-type-of-sample-data-in-one-line-of-code-47k)
+- [Dev.to/JS] [M.Tech Projects On Embedded Systems](https://dev.to/arunprakash142/mtech-projects-on-embedded-systems-5eo5)
 - [Dev.to/JS] [I made a second video on my channel /dev](https://dev.to/bazilsafronov/i-made-a-second-video-on-my-channel-dev-125l)
 - [Dev.to/JS] [Firebase Authentication on Cloudflare Workers](https://dev.to/marplex/firebase-authentication-on-cloudflare-workers-24o3)
 - [Dev.to/JS] [How to Pass Take Home Coding Challenge](https://dev.to/devpool3000/how-to-pass-take-home-coding-challenge-1c9o)
@@ -31,11 +35,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Happy Friendship Day Greeting image With Name - HTML Canvas](https://dev.to/mskian/happy-friendship-day-greeting-image-with-name-html-canvas-4cli)
 - [Dev.to/JS] [Add Picture-In-Picture To Your Videos With Node.js](https://dev.to/shotstack/add-picture-in-picture-to-your-videos-with-nodejs-56ph)
 - [Dev.to/JS] [Using React Navigation to Pass Params](https://dev.to/theadultnoble_6/using-react-navigation-to-pass-params-n0f)
-- [Dev.to/JS] [Recursion in JavaScript](https://dev.to/anasnmu/recursion-in-javascript-205n)
-- [Dev.to/JS] [Ethan&#39;s Weekly Software Engineering Journal &lpar;Week of 7/18/22 - 7/24/22&rpar;](https://dev.to/nycdevethan/ethans-weekly-software-engineering-journal-week-of-71822-72422-360i)
-- [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Plus Minus](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-plus-minus-16m4)
 - [Lifehacker] [The Most Clever Ways to Use Honey &lpar;Besides Eating It&rpar;](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
-- [Dev.to/JS] [Creating Short URLs with Netlify Functions and FaunaDb](https://dev.to/michaeljolley/creating-short-urls-with-netlify-functions-and-faunadb-4bca)
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
 - [Lifehacker] [Does It Ever Make Sense to Live in a Hotel?](https://lifehacker.com/does-it-ever-make-sense-to-live-in-a-hotel-1849326755)
