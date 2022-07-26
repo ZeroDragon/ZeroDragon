@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [You Can Make This Cheater&#39;s Hollandaise Sauce in the Microwave](https://lifehacker.com/you-can-make-this-cheaters-hollandaise-sauce-in-the-mic-1849328593)
+- [Dev.to/JS] [Operadores Lógicos - parte 1](https://dev.to/h4ck3rtr4d3r/operadores-logicos-parte-1-2j7j)
+- [Dev.to/JS] [Looking for Python content writer.](https://dev.to/scrapingdog/looking-for-python-content-writer-3p6b)
+- [Dev.to/JS] [15+ Must have VS Code Extensions for Web Developers](https://dev.to/eshankvaish/15-must-have-vs-code-extensions-for-web-developers-3gln)
+- [Dev.to/JS] [Getting started with Cypress Studio](https://dev.to/asayerio_techblog/getting-started-with-cypress-studio-4b3j)
+- [Lifehacker] [How Much Do Small, Daily Purchases Really Affect Your Long-Term Finances?](https://lifehacker.com/how-much-do-small-daily-purchases-really-affect-your-l-1849328048)
+- [Dev.to/JS] [Group Video Watching with Laravel](https://dev.to/kornatzky/group-video-watching-with-laravel-5gp)
+- [Lifehacker] [What Movie Did You See in the Theater at Way Too Young an Age?](https://lifehacker.com/what-movie-did-you-see-in-the-theater-at-way-too-young-1849328440)
 - [Dev.to/JS] [Which kind of sessions you would love to attend most at an intl tech conference such as Devoxx Morocco?](https://dev.to/essaydyoumayma/which-kind-of-sessions-you-would-love-to-attend-most-at-an-intl-tech-conference-such-as-devoxx-morocco-pd9)
 - [Dev.to/JS] [Real Time Comment System Using Node.js, Express.js, Socket.io and MongoDB](https://dev.to/afzalimamias/real-time-comment-system-using-nodejs-expressjs-socketio-and-mongodb-1hl3)
 - [Dev.to/JS] [Why should you want to start your Crypto Exchange Business with Huobi?](https://dev.to/thecryptoapeo/why-should-you-want-to-start-your-crypto-exchange-business-with-huobi-4f87)
@@ -30,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Create any type of sample data in one line of code](https://dev.to/shreyvijayvargiya/create-any-type-of-sample-data-in-one-line-of-code-47k)
 - [Dev.to/JS] [M.Tech Projects On Embedded Systems](https://dev.to/arunprakash142/mtech-projects-on-embedded-systems-5eo5)
 - [Dev.to/JS] [I made a second video on my channel /dev](https://dev.to/bazilsafronov/i-made-a-second-video-on-my-channel-dev-125l)
-- [Dev.to/JS] [Firebase Authentication on Cloudflare Workers](https://dev.to/marplex/firebase-authentication-on-cloudflare-workers-24o3)
-- [Dev.to/JS] [How to Pass Take Home Coding Challenge](https://dev.to/devpool3000/how-to-pass-take-home-coding-challenge-1c9o)
-- [Dev.to/JS] [Is Bun so much faster than Node.js?](https://dev.to/danielprlo/is-bun-so-much-faster-than-nodejs-17df)
-- [Dev.to/JS] [Help: How to make money as developer ?](https://dev.to/fadhilsaheer/help-how-to-make-money-as-developer--4pic)
-- [Dev.to/JS] [Happy Friendship Day Greeting image With Name - HTML Canvas](https://dev.to/mskian/happy-friendship-day-greeting-image-with-name-html-canvas-4cli)
 - [Lifehacker] [The Most Clever Ways to Use Honey &lpar;Besides Eating It&rpar;](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Best Ways to Declutter Your iPhone&#39;s Home Screen&lpar;s&rpar;](https://lifehacker.com/the-best-ways-to-declutter-your-iphones-home-screen-s-1849319576)
 - [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
 - [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
-- [Lifehacker] [You&#39;re Probably Using Too Much Laundry Detergent](https://lifehacker.com/youre-probably-using-too-much-laundry-detergent-1849199657)
-- [Lifehacker] [How to Keep Your Car Running in Extreme Heat](https://lifehacker.com/how-to-keep-your-car-running-in-extreme-heat-1849214753)
-- [Lifehacker] [No, Your AC Unit Doesn&#39;t Need an Umbrella](https://lifehacker.com/no-your-ac-unit-doesnt-need-an-umbrella-1849199566)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
