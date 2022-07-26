@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [¿Cómo leer todos los archivos de un directorio con Node?](https://dev.to/matiasfha/como-leer-todos-los-archivos-de-un-directorio-con-node-mbp)
+- [Lifehacker] [How to Turn a Landline Telephone Into a Cell Phone Bluetooth Receiver](https://lifehacker.com/how-to-turn-a-landline-telephone-into-a-cell-phone-blue-1849329883)
+- [Dev.to/JS] [React beginners tutorial Part -1 Playing](https://dev.to/ishanpro/react-beginners-tutorial-part-1-playing-1gpc)
+- [Dev.to/JS] [Document Object Model](https://dev.to/prateek85165206/document-object-model-3ka2)
 - [Lifehacker] [Will Delivery Services Let Your Kids Order Alcohol?](https://lifehacker.com/will-delivery-services-let-your-kids-order-alcohol-1849328630)
 - [Dev.to/JS] [Sign in using your web3 wallet, authenticate &amp; authorize](https://dev.to/pjijin/sign-in-using-your-web3-wallet-authenticate-authorize-1k30)
 - [Lifehacker] [How to Disable Twitter&#39;s Startling New Refresh Sound](https://lifehacker.com/how-to-disable-twitters-startling-new-refresh-sound-1849327818)
@@ -37,9 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Which kind of sessions you would love to attend most at an intl tech conference such as Devoxx Morocco?](https://dev.to/essaydyoumayma/which-kind-of-sessions-you-would-love-to-attend-most-at-an-intl-tech-conference-such-as-devoxx-morocco-pd9)
 - [Dev.to/JS] [Real Time Comment System Using Node.js, Express.js, Socket.io and MongoDB](https://dev.to/afzalimamias/real-time-comment-system-using-nodejs-expressjs-socketio-and-mongodb-1hl3)
 - [Dev.to/JS] [Why should you want to start your Crypto Exchange Business with Huobi?](https://dev.to/thecryptoapeo/why-should-you-want-to-start-your-crypto-exchange-business-with-huobi-4f87)
-- [Dev.to/JS] [What are you learning right now?](https://dev.to/pavelkeyzik/what-are-you-learning-right-now-2n0g)
-- [Dev.to/JS] [Create any type of sample data in one line of code](https://dev.to/shreyvijayvargiya/create-any-type-of-sample-data-in-one-line-of-code-47k)
-- [Dev.to/JS] [M.Tech Projects On Embedded Systems](https://dev.to/arunprakash142/mtech-projects-on-embedded-systems-5eo5)
 - [Lifehacker] [The Most Clever Ways to Use Honey &lpar;Besides Eating It&rpar;](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The 7 Deadly Sins of Surviving a Heat Wave](https://lifehacker.com/the-7-deadly-sins-of-surviving-a-heat-wave-1849320136)
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398)
 - [Lifehacker] [Five Unbreakable Rules of Flying](https://lifehacker.com/five-unbreakable-rules-of-flying-1849320409)
-- [Lifehacker] [The Best Ways to Declutter Your iPhone&#39;s Home Screen&lpar;s&rpar;](https://lifehacker.com/the-best-ways-to-declutter-your-iphones-home-screen-s-1849319576)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
