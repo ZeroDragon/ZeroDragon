@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Help: How to make money as developer ?](https://dev.to/fadhilsaheer/help-how-to-make-money-as-developer--4pic)
+- [Dev.to/JS] [Happy Friendship Day Greeting image With Name - HTML Canvas](https://dev.to/mskian/happy-friendship-day-greeting-image-with-name-html-canvas-4cli)
 - [Dev.to/JS] [Add Picture-In-Picture To Your Videos With Node.js](https://dev.to/shotstack/add-picture-in-picture-to-your-videos-with-nodejs-56ph)
 - [Dev.to/JS] [Using React Navigation to Pass Params](https://dev.to/theadultnoble_6/using-react-navigation-to-pass-params-n0f)
 - [Dev.to/JS] [Recursion in JavaScript](https://dev.to/anasnmu/recursion-in-javascript-205n)
@@ -36,10 +38,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HIRING Sr. Software Engineers &lpar;Full Stack&rpar;](https://dev.to/technicalrecruiterfrommarz/hiring-sr-software-engineers-full-stack-17h1)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
 - [Dev.to/JS] [Background Processing for React Native Applications in 2022](https://dev.to/christophertdoc/background-processing-for-react-native-applications-in-2022-340g)
-- [Dev.to/JS] [Today i found out : for async of](https://dev.to/tigawanna/today-i-found-out-for-async-of-4abe)
 - [Lifehacker] [Does It Ever Make Sense to Live in a Hotel?](https://lifehacker.com/does-it-ever-make-sense-to-live-in-a-hotel-1849326755)
 - [Lifehacker] [So You Forgot to Reserve Some Pasta Water](https://lifehacker.com/so-you-forgot-to-reserve-some-pasta-water-1849327454)
-- [Dev.to/JS] [API Wrangling](https://dev.to/ahmaud/api-wrangling-jjb)
 - [Lifehacker] [Why You Don’t Always Have to Forgive, According to a Psychologist](https://lifehacker.com/why-you-don-t-always-have-to-forgive-according-to-a-ps-1849327432)
 - [Lifehacker] [These Things Don&#39;t Actually Make You &#39;Bad&#39; at Meditating](https://lifehacker.com/these-things-dont-actually-make-you-bad-at-meditating-1849327687)
 - [Lifehacker] [The Difference Between a Fear and a Phobia](https://lifehacker.com/the-difference-between-a-fear-and-a-phobia-1849327521)
