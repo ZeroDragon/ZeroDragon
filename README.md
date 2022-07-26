@@ -23,6 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [When to Purge All Those Mementos From Your Last Relationship](https://lifehacker.com/when-to-purge-all-those-mementos-from-your-last-relatio-1849200671)
+- [Dev.to/JS] [Configure your Apache server to allow Service Workers](https://dev.to/kallnasty/configure-your-apache-server-to-allow-service-workers-35ad)
+- [Dev.to/JS] [FastifyError- Request body is too large](https://dev.to/stackblogger/fastifyerror-request-body-is-too-large-l50)
+- [Dev.to/JS] [Bun: o novo runtime para Javascript](https://dev.to/cristuker/bun-o-novo-runtime-para-javascript-58m9)
+- [Lifehacker] [Make Any Vegetable More Enticing With the Caesar Salad Treatment](https://lifehacker.com/make-any-vegetable-more-enticing-with-the-caesar-salad-1849332871)
+- [Dev.to/JS] [Netflix MOD APK v8.31.1 Download &lpar;Premium 4K&rpar; 2022](https://dev.to/sajidhuasin/netflix-mod-apk-v8311-download-premium-4k-2022-6ke)
+- [Dev.to/JS] [Send data using JSONP](https://dev.to/srele96/send-data-using-jsonp-2fcc)
+- [Lifehacker] [How Hard &lpar;and Painful&rpar; Is It to Get a Tattoo Removed?](https://lifehacker.com/how-hard-and-painful-is-it-to-get-a-tattoo-removed-1849333285)
 - [Dev.to/JS] [𝗘𝗹𝗲𝗺𝗲𝗻𝘁.𝗴𝗲𝘁𝗕𝗼𝘂𝗻𝗱𝗶𝗻𝗴𝗖𝗹𝗶𝗲𝗻𝘁𝗥𝗲𝗰𝘁&lpar;&rpar; 𝘮𝘦𝘵𝘩𝘰𝘥](https://dev.to/talenttinaapi/-52ic)
 - [Lifehacker] [Okay, Which MacBook Should You Buy?](https://lifehacker.com/okay-which-macbook-should-you-buy-1849330413)
 - [Dev.to/JS] [Top 13 IDE &amp; Tools for Flutter Development in 2022.](https://dev.to/dreamyplayer/top-13-ide-tools-for-flutter-development-in-2022-20pm)
@@ -34,12 +42,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [ProDentim Australia - Reviews, Price, Results, Uses And Benefits?](https://dev.to/prodentimau/prodentim-australia-reviews-price-results-uses-and-benefits-3l9)
 - [Dev.to/JS] [Cypress Basics - Understanding Test Automation &amp; setting up your Cypress Test project](https://dev.to/monijesuloluwa/cypress-basics-understanding-test-automation-setting-up-your-cypress-test-project-56h)
 - [Dev.to/JS] [[TFG] Herramienta para el control y monitorización de entornos inmersivos.](https://dev.to/jesusalbarca/tfg-herramienta-para-el-control-y-monitorizacion-de-entornos-inmersivos-4imh)
-- [Dev.to/JS] [TWISTING ANGULAR LOCALIZATION Serving a different index.html in an Angular build for different languages](https://dev.to/ayyash/twisting-angular-localizationserving-a-different-indexhtml-in-an-angular-build-for-different-languages-2ekd)
-- [Dev.to/JS] [MELT: La observabilidad web](https://dev.to/roremdev/melt-la-observabilidad-web-4h5h)
 - [Lifehacker] [How to Identify and Combat Grocery Store &#39;Shrinkflation&#39;](https://lifehacker.com/how-to-identify-and-deal-with-grocery-store-shrinkflati-1849332746)
-- [Dev.to/JS] [🍂Open-source Headless CMS Review: Strapi, Directus, and Payload](https://dev.to/hunghvu/open-source-headless-cms-review-strapi-directus-and-payload-2p79)
-- [Dev.to/JS] [DOES CODING REALLY INCREASE THE IQ OF KIDS](https://dev.to/fliptotech/does-coding-really-increase-the-iq-of-kids-12ej)
-- [Dev.to/JS] [Preparing the code interview... on the other side of the table &lpar;Part I&rpar;](https://dev.to/manuartero/preparing-the-code-interview-on-the-other-side-of-the-table-part-i-511h)
 - [Lifehacker] [Don&#39;t Overpay for Your Passport Photo](https://lifehacker.com/dont-overpay-for-your-passport-photo-1849332419)
 - [Lifehacker] [How to Make Your House the Teen Hangout Spot](https://lifehacker.com/how-to-make-your-house-the-teen-hangout-spot-1849326989)
 - [Lifehacker] [How to Find an Ant Nest](https://lifehacker.com/how-to-find-an-ant-nest-1849331778)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Why You Don’t Always Have to Forgive, According to a Psychologist](https://lifehacker.com/why-you-don-t-always-have-to-forgive-according-to-a-ps-1849327432)
 - [Lifehacker] [These Things Don&#39;t Actually Make You &#39;Bad&#39; at Meditating](https://lifehacker.com/these-things-dont-actually-make-you-bad-at-meditating-1849327687)
 - [Lifehacker] [The Difference Between a Fear and a Phobia](https://lifehacker.com/the-difference-between-a-fear-and-a-phobia-1849327521)
-- [Lifehacker] [The Five Minimum Legal Terms Everyone Should Know](https://lifehacker.com/the-five-minimum-legal-terms-everyone-should-know-1849327250)
-- [Lifehacker] [Apple Now Makes the Last Smartphone With This Feature](https://lifehacker.com/apple-now-makes-the-last-smartphone-with-this-feature-1849326967)
-- [Lifehacker] [You Can Make Extra Money by Letting Dogs Play in Your Backyard](https://lifehacker.com/you-can-make-extra-money-by-letting-dogs-play-in-your-b-1849327367)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
