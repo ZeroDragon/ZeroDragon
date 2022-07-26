@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [💡 Observable Mutable Wrapper Object](https://dev.to/jcbhmr/observable-mutable-wrapper-object-4e26)
+- [Dev.to/JS] [Task List React.js](https://dev.to/jesusalbarca/task-list-reactjs-4f67)
 - [Dev.to/JS] [💡 Per-file Logger Filter](https://dev.to/jcbhmr/per-file-logger-filter-p43)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 - [Dev.to/JS] [Getting Started with Next.js - Typescript](https://dev.to/abdulwaqar844/getting-started-with-nextjs-typescript-68i)
@@ -38,9 +40,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Bun: o novo runtime para Javascript](https://dev.to/cristuker/bun-o-novo-runtime-para-javascript-58m9)
 - [Lifehacker] [Make Any Vegetable More Enticing With the Caesar Salad Treatment](https://lifehacker.com/make-any-vegetable-more-enticing-with-the-caesar-salad-1849332871)
 - [Dev.to/JS] [Netflix MOD APK v8.31.1 Download &lpar;Premium 4K&rpar; 2022](https://dev.to/sajidhuasin/netflix-mod-apk-v8311-download-premium-4k-2022-6ke)
-- [Dev.to/JS] [Send data using JSONP](https://dev.to/srele96/send-data-using-jsonp-2fcc)
 - [Lifehacker] [How Hard &lpar;and Painful&rpar; Is It to Get a Tattoo Removed?](https://lifehacker.com/how-hard-and-painful-is-it-to-get-a-tattoo-removed-1849333285)
-- [Dev.to/JS] [𝗘𝗹𝗲𝗺𝗲𝗻𝘁.𝗴𝗲𝘁𝗕𝗼𝘂𝗻𝗱𝗶𝗻𝗴𝗖𝗹𝗶𝗲𝗻𝘁𝗥𝗲𝗰𝘁&lpar;&rpar; 𝘮𝘦𝘵𝘩𝘰𝘥](https://dev.to/talenttinaapi/-52ic)
 - [Lifehacker] [Okay, Which MacBook Should You Buy?](https://lifehacker.com/okay-which-macbook-should-you-buy-1849330413)
 - [Lifehacker] [The Five Unbreakable Rules of Driving Etiquette](https://lifehacker.com/the-five-unbreakable-rules-of-driving-etiquette-1849333282)
 - [Lifehacker] [How to Make Flying on a Low-Cost Airline Less Soul-Killing](https://lifehacker.com/how-to-make-flying-on-a-low-cost-airline-less-soul-kill-1849331060)
