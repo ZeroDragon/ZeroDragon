@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Will Delivery Services Let Your Kids Order Alcohol?](https://lifehacker.com/will-delivery-services-let-your-kids-order-alcohol-1849328630)
+- [Dev.to/JS] [Sign in using your web3 wallet, authenticate &amp; authorize](https://dev.to/pjijin/sign-in-using-your-web3-wallet-authenticate-authorize-1k30)
+- [Lifehacker] [How to Disable Twitter&#39;s Startling New Refresh Sound](https://lifehacker.com/how-to-disable-twitters-startling-new-refresh-sound-1849327818)
 - [Lifehacker] [You Can Make This Cheater&#39;s Hollandaise Sauce in the Microwave](https://lifehacker.com/you-can-make-this-cheaters-hollandaise-sauce-in-the-mic-1849328593)
 - [Dev.to/JS] [Operadores Lógicos - parte 1](https://dev.to/h4ck3rtr4d3r/operadores-logicos-parte-1-2j7j)
 - [Dev.to/JS] [Looking for Python content writer.](https://dev.to/scrapingdog/looking-for-python-content-writer-3p6b)
@@ -37,7 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [What are you learning right now?](https://dev.to/pavelkeyzik/what-are-you-learning-right-now-2n0g)
 - [Dev.to/JS] [Create any type of sample data in one line of code](https://dev.to/shreyvijayvargiya/create-any-type-of-sample-data-in-one-line-of-code-47k)
 - [Dev.to/JS] [M.Tech Projects On Embedded Systems](https://dev.to/arunprakash142/mtech-projects-on-embedded-systems-5eo5)
-- [Dev.to/JS] [I made a second video on my channel /dev](https://dev.to/bazilsafronov/i-made-a-second-video-on-my-channel-dev-125l)
 - [Lifehacker] [The Most Clever Ways to Use Honey &lpar;Besides Eating It&rpar;](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398)
 - [Lifehacker] [Five Unbreakable Rules of Flying](https://lifehacker.com/five-unbreakable-rules-of-flying-1849320409)
 - [Lifehacker] [The Best Ways to Declutter Your iPhone&#39;s Home Screen&lpar;s&rpar;](https://lifehacker.com/the-best-ways-to-declutter-your-iphones-home-screen-s-1849319576)
-- [Lifehacker] [The Cheapest Places to Buy an Acre of Land in the U.S.](https://lifehacker.com/the-cheapest-places-to-buy-an-acre-of-land-in-the-u-s-1849199586)
-- [Lifehacker] [How to Legally Dispose of Old Tires](https://lifehacker.com/how-to-legally-dispose-of-old-tires-1849199642)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
