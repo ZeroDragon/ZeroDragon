@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [𝗘𝗹𝗲𝗺𝗲𝗻𝘁.𝗴𝗲𝘁𝗕𝗼𝘂𝗻𝗱𝗶𝗻𝗴𝗖𝗹𝗶𝗲𝗻𝘁𝗥𝗲𝗰𝘁&lpar;&rpar; 𝘮𝘦𝘵𝘩𝘰𝘥](https://dev.to/talenttinaapi/-52ic)
+- [Lifehacker] [Okay, Which MacBook Should You Buy?](https://lifehacker.com/okay-which-macbook-should-you-buy-1849330413)
+- [Dev.to/JS] [Top 13 IDE &amp; Tools for Flutter Development in 2022.](https://dev.to/dreamyplayer/top-13-ide-tools-for-flutter-development-in-2022-20pm)
 - [Lifehacker] [The Five Unbreakable Rules of Driving Etiquette](https://lifehacker.com/the-five-unbreakable-rules-of-driving-etiquette-1849333282)
 - [Dev.to/JS] [Vitest is fast, jest is faster *](https://dev.to/neophen/vitest-is-fast-jest-is-faster--ln1)
 - [Lifehacker] [How to Make Flying on a Low-Cost Airline Less Soul-Killing](https://lifehacker.com/how-to-make-flying-on-a-low-cost-airline-less-soul-kill-1849331060)
@@ -38,9 +41,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [DOES CODING REALLY INCREASE THE IQ OF KIDS](https://dev.to/fliptotech/does-coding-really-increase-the-iq-of-kids-12ej)
 - [Dev.to/JS] [Preparing the code interview... on the other side of the table &lpar;Part I&rpar;](https://dev.to/manuartero/preparing-the-code-interview-on-the-other-side-of-the-table-part-i-511h)
 - [Lifehacker] [Don&#39;t Overpay for Your Passport Photo](https://lifehacker.com/dont-overpay-for-your-passport-photo-1849332419)
-- [Dev.to/JS] [The Magical Use of Uncommon Labels Fieldset and Legend](https://dev.to/chokcoco/the-magical-use-of-uncommon-labels-fieldset-and-legend-1flf)
 - [Lifehacker] [How to Make Your House the Teen Hangout Spot](https://lifehacker.com/how-to-make-your-house-the-teen-hangout-spot-1849326989)
-- [Dev.to/JS] [Paracetamol.js💊| #177: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-177-explica-este-codigo-javascript-17pn)
 - [Lifehacker] [How to Find an Ant Nest](https://lifehacker.com/how-to-find-an-ant-nest-1849331778)
 - [Lifehacker] [How to Turn a Landline Telephone Into a Cell Phone Bluetooth Receiver](https://lifehacker.com/how-to-turn-a-landline-telephone-into-a-cell-phone-blue-1849329883)
 - [Lifehacker] [Will Delivery Services Let Your Kids Order Alcohol?](https://lifehacker.com/will-delivery-services-let-your-kids-order-alcohol-1849328630)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Five Minimum Legal Terms Everyone Should Know](https://lifehacker.com/the-five-minimum-legal-terms-everyone-should-know-1849327250)
 - [Lifehacker] [Apple Now Makes the Last Smartphone With This Feature](https://lifehacker.com/apple-now-makes-the-last-smartphone-with-this-feature-1849326967)
 - [Lifehacker] [You Can Make Extra Money by Letting Dogs Play in Your Backyard](https://lifehacker.com/you-can-make-extra-money-by-letting-dogs-play-in-your-b-1849327367)
-- [Lifehacker] [How Your Teenager’s Friendships Can Impact Their Adulthood](https://lifehacker.com/how-your-teenager-s-friendships-can-impact-their-adulth-1849326001)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
