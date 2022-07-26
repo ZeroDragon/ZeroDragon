@@ -23,6 +23,10 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [💡 Per-file Logger Filter](https://dev.to/jcbhmr/per-file-logger-filter-p43)
+- [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
+- [Dev.to/JS] [Getting Started with Next.js - Typescript](https://dev.to/abdulwaqar844/getting-started-with-nextjs-typescript-68i)
+- [Dev.to/JS] [Ng-News: Episode 22/29](https://dev.to/rainerhahnekamp/ng-news-episode-2229-271m)
 - [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Dev.to/JS] [Build a MDX-powered blog with Contentlayer and Next](https://dev.to/asayerio_techblog/build-a-mdx-powered-blog-with-contentlayer-and-next-2oai)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
@@ -38,11 +42,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Hard &lpar;and Painful&rpar; Is It to Get a Tattoo Removed?](https://lifehacker.com/how-hard-and-painful-is-it-to-get-a-tattoo-removed-1849333285)
 - [Dev.to/JS] [𝗘𝗹𝗲𝗺𝗲𝗻𝘁.𝗴𝗲𝘁𝗕𝗼𝘂𝗻𝗱𝗶𝗻𝗴𝗖𝗹𝗶𝗲𝗻𝘁𝗥𝗲𝗰𝘁&lpar;&rpar; 𝘮𝘦𝘵𝘩𝘰𝘥](https://dev.to/talenttinaapi/-52ic)
 - [Lifehacker] [Okay, Which MacBook Should You Buy?](https://lifehacker.com/okay-which-macbook-should-you-buy-1849330413)
-- [Dev.to/JS] [Top 13 IDE &amp; Tools for Flutter Development in 2022.](https://dev.to/dreamyplayer/top-13-ide-tools-for-flutter-development-in-2022-20pm)
 - [Lifehacker] [The Five Unbreakable Rules of Driving Etiquette](https://lifehacker.com/the-five-unbreakable-rules-of-driving-etiquette-1849333282)
-- [Dev.to/JS] [Vitest is fast, jest is faster *](https://dev.to/neophen/vitest-is-fast-jest-is-faster--ln1)
 - [Lifehacker] [How to Make Flying on a Low-Cost Airline Less Soul-Killing](https://lifehacker.com/how-to-make-flying-on-a-low-cost-airline-less-soul-kill-1849331060)
-- [Dev.to/JS] [Nên dùng bếp ga mini giá rẻ không Tìm mua bếp ga mini du lịch ở đâu?](https://dev.to/dorislaelia/nen-dung-bep-ga-mini-gia-re-khong-tim-mua-bep-ga-mini-du-lich-o-dau-267f)
 - [Lifehacker] [12 Essential Podcasts for Gamers](https://lifehacker.com/12-of-the-best-video-game-podcasts-1849333059)
 - [Lifehacker] [How to Identify and Combat Grocery Store &#39;Shrinkflation&#39;](https://lifehacker.com/how-to-identify-and-deal-with-grocery-store-shrinkflati-1849332746)
 - [Lifehacker] [Don&#39;t Overpay for Your Passport Photo](https://lifehacker.com/dont-overpay-for-your-passport-photo-1849332419)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
 - [Lifehacker] [Does It Ever Make Sense to Live in a Hotel?](https://lifehacker.com/does-it-ever-make-sense-to-live-in-a-hotel-1849326755)
 - [Lifehacker] [So You Forgot to Reserve Some Pasta Water](https://lifehacker.com/so-you-forgot-to-reserve-some-pasta-water-1849327454)
-- [Lifehacker] [Why You Don’t Always Have to Forgive, According to a Psychologist](https://lifehacker.com/why-you-don-t-always-have-to-forgive-according-to-a-ps-1849327432)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
