@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [I made a second video on my channel /dev](https://dev.to/bazilsafronov/i-made-a-second-video-on-my-channel-dev-125l)
+- [Dev.to/JS] [Firebase Authentication on Cloudflare Workers](https://dev.to/marplex/firebase-authentication-on-cloudflare-workers-24o3)
 - [Dev.to/JS] [How to Pass Take Home Coding Challenge](https://dev.to/devpool3000/how-to-pass-take-home-coding-challenge-1c9o)
 - [Dev.to/JS] [Is Bun so much faster than Node.js?](https://dev.to/danielprlo/is-bun-so-much-faster-than-nodejs-17df)
 - [Dev.to/JS] [Help: How to make money as developer ?](https://dev.to/fadhilsaheer/help-how-to-make-money-as-developer--4pic)
@@ -34,8 +36,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Plus Minus](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-plus-minus-16m4)
 - [Lifehacker] [The Most Clever Ways to Use Honey &lpar;Besides Eating It&rpar;](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
 - [Dev.to/JS] [Creating Short URLs with Netlify Functions and FaunaDb](https://dev.to/michaeljolley/creating-short-urls-with-netlify-functions-and-faunadb-4bca)
-- [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Diagonal Difference](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-diagonal-difference-2e35)
-- [Dev.to/JS] [Top 5 Youtubr channels for learning JavaScript](https://dev.to/lodstare/top-5-youtubr-channels-for-learning-javascript-2lna)
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
 - [Lifehacker] [Does It Ever Make Sense to Live in a Hotel?](https://lifehacker.com/does-it-ever-make-sense-to-live-in-a-hotel-1849326755)
