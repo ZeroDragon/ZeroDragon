@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
+- [Dev.to/JS] [Build a MDX-powered blog with Contentlayer and Next](https://dev.to/asayerio_techblog/build-a-mdx-powered-blog-with-contentlayer-and-next-2oai)
+- [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
+- [Dev.to/JS] [Leet Code - Longest Common Prefix](https://dev.to/anuj8126/leet-code-longest-common-prefix-onf)
+- [Dev.to/JS] [Making React less stupid: automatic `useMemo` and `useCallback` insertions are coming!](https://dev.to/domiii/making-react-less-stupid-automatic-usememo-and-usecallback-insertions-are-coming-8ek)
 - [Lifehacker] [When to Purge All Those Mementos From Your Last Relationship](https://lifehacker.com/when-to-purge-all-those-mementos-from-your-last-relatio-1849200671)
 - [Dev.to/JS] [Configure your Apache server to allow Service Workers](https://dev.to/kallnasty/configure-your-apache-server-to-allow-service-workers-35ad)
 - [Dev.to/JS] [FastifyError- Request body is too large](https://dev.to/stackblogger/fastifyerror-request-body-is-too-large-l50)
@@ -39,9 +44,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Make Flying on a Low-Cost Airline Less Soul-Killing](https://lifehacker.com/how-to-make-flying-on-a-low-cost-airline-less-soul-kill-1849331060)
 - [Dev.to/JS] [Nên dùng bếp ga mini giá rẻ không Tìm mua bếp ga mini du lịch ở đâu?](https://dev.to/dorislaelia/nen-dung-bep-ga-mini-gia-re-khong-tim-mua-bep-ga-mini-du-lich-o-dau-267f)
 - [Lifehacker] [12 Essential Podcasts for Gamers](https://lifehacker.com/12-of-the-best-video-game-podcasts-1849333059)
-- [Dev.to/JS] [ProDentim Australia - Reviews, Price, Results, Uses And Benefits?](https://dev.to/prodentimau/prodentim-australia-reviews-price-results-uses-and-benefits-3l9)
-- [Dev.to/JS] [Cypress Basics - Understanding Test Automation &amp; setting up your Cypress Test project](https://dev.to/monijesuloluwa/cypress-basics-understanding-test-automation-setting-up-your-cypress-test-project-56h)
-- [Dev.to/JS] [[TFG] Herramienta para el control y monitorización de entornos inmersivos.](https://dev.to/jesusalbarca/tfg-herramienta-para-el-control-y-monitorizacion-de-entornos-inmersivos-4imh)
 - [Lifehacker] [How to Identify and Combat Grocery Store &#39;Shrinkflation&#39;](https://lifehacker.com/how-to-identify-and-deal-with-grocery-store-shrinkflati-1849332746)
 - [Lifehacker] [Don&#39;t Overpay for Your Passport Photo](https://lifehacker.com/dont-overpay-for-your-passport-photo-1849332419)
 - [Lifehacker] [How to Make Your House the Teen Hangout Spot](https://lifehacker.com/how-to-make-your-house-the-teen-hangout-spot-1849326989)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Does It Ever Make Sense to Live in a Hotel?](https://lifehacker.com/does-it-ever-make-sense-to-live-in-a-hotel-1849326755)
 - [Lifehacker] [So You Forgot to Reserve Some Pasta Water](https://lifehacker.com/so-you-forgot-to-reserve-some-pasta-water-1849327454)
 - [Lifehacker] [Why You Don’t Always Have to Forgive, According to a Psychologist](https://lifehacker.com/why-you-don-t-always-have-to-forgive-according-to-a-ps-1849327432)
-- [Lifehacker] [These Things Don&#39;t Actually Make You &#39;Bad&#39; at Meditating](https://lifehacker.com/these-things-dont-actually-make-you-bad-at-meditating-1849327687)
-- [Lifehacker] [The Difference Between a Fear and a Phobia](https://lifehacker.com/the-difference-between-a-fear-and-a-phobia-1849327521)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
