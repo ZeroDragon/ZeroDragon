@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [How to Pass Take Home Coding Challenge](https://dev.to/devpool3000/how-to-pass-take-home-coding-challenge-1c9o)
 - [Dev.to/JS] [Is Bun so much faster than Node.js?](https://dev.to/danielprlo/is-bun-so-much-faster-than-nodejs-17df)
 - [Dev.to/JS] [Help: How to make money as developer ?](https://dev.to/fadhilsaheer/help-how-to-make-money-as-developer--4pic)
 - [Dev.to/JS] [Happy Friendship Day Greeting image With Name - HTML Canvas](https://dev.to/mskian/happy-friendship-day-greeting-image-with-name-html-canvas-4cli)
@@ -36,7 +37,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HackerRank — Problem Solving — JavaScript — Diagonal Difference](https://dev.to/abusalehfaysal/hackerrank-problem-solving-javascript-diagonal-difference-2e35)
 - [Dev.to/JS] [Top 5 Youtubr channels for learning JavaScript](https://dev.to/lodstare/top-5-youtubr-channels-for-learning-javascript-2lna)
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
-- [Dev.to/JS] [HIRING Sr. Software Engineers &lpar;Full Stack&rpar;](https://dev.to/technicalrecruiterfrommarz/hiring-sr-software-engineers-full-stack-17h1)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
 - [Lifehacker] [Does It Ever Make Sense to Live in a Hotel?](https://lifehacker.com/does-it-ever-make-sense-to-live-in-a-hotel-1849326755)
 - [Lifehacker] [So You Forgot to Reserve Some Pasta Water](https://lifehacker.com/so-you-forgot-to-reserve-some-pasta-water-1849327454)
