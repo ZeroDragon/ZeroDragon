@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [The Magical Use of Uncommon Labels Fieldset and Legend](https://dev.to/chokcoco/the-magical-use-of-uncommon-labels-fieldset-and-legend-1flf)
+- [Lifehacker] [How to Make Your House the Teen Hangout Spot](https://lifehacker.com/how-to-make-your-house-the-teen-hangout-spot-1849326989)
+- [Dev.to/JS] [Paracetamol.js💊| #177: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-177-explica-este-codigo-javascript-17pn)
+- [Dev.to/JS] [pnpm: --inspect-publish-uid= is not allowed in NODE_OPTIONS](https://dev.to/randomengy/pnpm-inspect-publish-uid-is-not-allowed-in-nodeoptions-1j5b)
+- [Lifehacker] [How to Find an Ant Nest](https://lifehacker.com/how-to-find-an-ant-nest-1849331778)
 - [Dev.to/JS] [¿Cómo leer todos los archivos de un directorio con Node?](https://dev.to/matiasfha/como-leer-todos-los-archivos-de-un-directorio-con-node-mbp)
 - [Lifehacker] [How to Turn a Landline Telephone Into a Cell Phone Bluetooth Receiver](https://lifehacker.com/how-to-turn-a-landline-telephone-into-a-cell-phone-blue-1849329883)
 - [Dev.to/JS] [React beginners tutorial Part -1 Playing](https://dev.to/ishanpro/react-beginners-tutorial-part-1-playing-1gpc)
@@ -38,9 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How Much Do Small, Daily Purchases Really Affect Your Long-Term Finances?](https://lifehacker.com/how-much-do-small-daily-purchases-really-affect-your-l-1849328048)
 - [Dev.to/JS] [Group Video Watching with Laravel](https://dev.to/kornatzky/group-video-watching-with-laravel-5gp)
 - [Lifehacker] [What Movie Did You See in the Theater at Way Too Young an Age?](https://lifehacker.com/what-movie-did-you-see-in-the-theater-at-way-too-young-1849328440)
-- [Dev.to/JS] [Which kind of sessions you would love to attend most at an intl tech conference such as Devoxx Morocco?](https://dev.to/essaydyoumayma/which-kind-of-sessions-you-would-love-to-attend-most-at-an-intl-tech-conference-such-as-devoxx-morocco-pd9)
-- [Dev.to/JS] [Real Time Comment System Using Node.js, Express.js, Socket.io and MongoDB](https://dev.to/afzalimamias/real-time-comment-system-using-nodejs-expressjs-socketio-and-mongodb-1hl3)
-- [Dev.to/JS] [Why should you want to start your Crypto Exchange Business with Huobi?](https://dev.to/thecryptoapeo/why-should-you-want-to-start-your-crypto-exchange-business-with-huobi-4f87)
 - [Lifehacker] [The Most Clever Ways to Use Honey &lpar;Besides Eating It&rpar;](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
 - [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Should Make This No-churn Pop-Tart Ice Cream](https://lifehacker.com/you-should-make-this-no-churn-pop-tart-ice-cream-1849321735)
 - [Lifehacker] [16 Ways to Make Better Popcorn](https://lifehacker.com/16-ways-to-make-better-popcorn-1849316719)
 - [Lifehacker] [The 7 Deadly Sins of Surviving a Heat Wave](https://lifehacker.com/the-7-deadly-sins-of-surviving-a-heat-wave-1849320136)
-- [Lifehacker] [How to Tell If It&#39;s Really Too Hot to Work Out](https://lifehacker.com/how-to-tell-if-its-really-too-hot-to-work-out-1849321398)
-- [Lifehacker] [Five Unbreakable Rules of Flying](https://lifehacker.com/five-unbreakable-rules-of-flying-1849320409)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
