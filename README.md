@@ -23,7 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Five Unbreakable Rules of Driving Etiquette](https://lifehacker.com/the-five-unbreakable-rules-of-driving-etiquette-1849333282)
+- [Dev.to/JS] [Vitest is fast, jest is faster *](https://dev.to/neophen/vitest-is-fast-jest-is-faster--ln1)
+- [Lifehacker] [How to Make Flying on a Low-Cost Airline Less Soul-Killing](https://lifehacker.com/how-to-make-flying-on-a-low-cost-airline-less-soul-kill-1849331060)
 - [Dev.to/JS] [Nên dùng bếp ga mini giá rẻ không Tìm mua bếp ga mini du lịch ở đâu?](https://dev.to/dorislaelia/nen-dung-bep-ga-mini-gia-re-khong-tim-mua-bep-ga-mini-du-lich-o-dau-267f)
+- [Lifehacker] [12 Essential Podcasts for Gamers](https://lifehacker.com/12-of-the-best-video-game-podcasts-1849333059)
 - [Dev.to/JS] [ProDentim Australia - Reviews, Price, Results, Uses And Benefits?](https://dev.to/prodentimau/prodentim-australia-reviews-price-results-uses-and-benefits-3l9)
 - [Dev.to/JS] [Cypress Basics - Understanding Test Automation &amp; setting up your Cypress Test project](https://dev.to/monijesuloluwa/cypress-basics-understanding-test-automation-setting-up-your-cypress-test-project-56h)
 - [Dev.to/JS] [[TFG] Herramienta para el control y monitorización de entornos inmersivos.](https://dev.to/jesusalbarca/tfg-herramienta-para-el-control-y-monitorizacion-de-entornos-inmersivos-4imh)
@@ -37,7 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The Magical Use of Uncommon Labels Fieldset and Legend](https://dev.to/chokcoco/the-magical-use-of-uncommon-labels-fieldset-and-legend-1flf)
 - [Lifehacker] [How to Make Your House the Teen Hangout Spot](https://lifehacker.com/how-to-make-your-house-the-teen-hangout-spot-1849326989)
 - [Dev.to/JS] [Paracetamol.js💊| #177: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-177-explica-este-codigo-javascript-17pn)
-- [Dev.to/JS] [pnpm: --inspect-publish-uid= is not allowed in NODE_OPTIONS](https://dev.to/randomengy/pnpm-inspect-publish-uid-is-not-allowed-in-nodeoptions-1j5b)
 - [Lifehacker] [How to Find an Ant Nest](https://lifehacker.com/how-to-find-an-ant-nest-1849331778)
 - [Lifehacker] [How to Turn a Landline Telephone Into a Cell Phone Bluetooth Receiver](https://lifehacker.com/how-to-turn-a-landline-telephone-into-a-cell-phone-blue-1849329883)
 - [Lifehacker] [Will Delivery Services Let Your Kids Order Alcohol?](https://lifehacker.com/will-delivery-services-let-your-kids-order-alcohol-1849328630)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Apple Now Makes the Last Smartphone With This Feature](https://lifehacker.com/apple-now-makes-the-last-smartphone-with-this-feature-1849326967)
 - [Lifehacker] [You Can Make Extra Money by Letting Dogs Play in Your Backyard](https://lifehacker.com/you-can-make-extra-money-by-letting-dogs-play-in-your-b-1849327367)
 - [Lifehacker] [How Your Teenager’s Friendships Can Impact Their Adulthood](https://lifehacker.com/how-your-teenager-s-friendships-can-impact-their-adulth-1849326001)
-- [Lifehacker] [Here&#39;s When You Should Take the Miles for a Canceled Flight](https://lifehacker.com/heres-when-you-should-take-the-miles-for-a-canceled-fli-1849320211)
-- [Lifehacker] [Why Almost All of Your Instagram Videos Are Becoming Reels](https://lifehacker.com/why-almost-all-of-your-instagram-videos-are-becoming-re-1849320924)
-- [Lifehacker] [You Should Make This No-churn Pop-Tart Ice Cream](https://lifehacker.com/you-should-make-this-no-churn-pop-tart-ice-cream-1849321735)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
