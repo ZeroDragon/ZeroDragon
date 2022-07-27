@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [HostListener + Output = 🤔](https://dev.to/mmuscat/hostlistener-output--2dhe)
 - [Dev.to/JS] [Algunos métodos más allá del console.log en Javascript](https://dev.to/khriztianmoreno/algunos-metodos-mas-alla-del-consolelog-en-javascript-48e2)
 - [Dev.to/JS] [How to Match a Phone Number with Regex and JavaScript](https://dev.to/apmfree78/how-to-match-a-phone-number-with-regex-and-javascript-od0)
 - [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
@@ -45,7 +46,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [6 of the Best Countries for Americans to Retire in &lpar;That Aren&#39;t America Because LOL&rpar;](https://lifehacker.com/6-of-the-best-countries-for-americans-to-retire-in-tha-1849337427)
 - [Dev.to/JS] [HOW TO USE SCROLL TO ELEMENT IN REACTJS](https://dev.to/rahul__/how-to-use-scroll-to-element-in-reactjs-41jc)
 - [Dev.to/JS] [Avoiding large ternary operator statements in React](https://dev.to/gax97/avoiding-large-ternary-operator-statements-in-react-4i19)
-- [Dev.to/JS] [AG Grid Cell Rendering Pipeline with TypeScript](https://dev.to/blove/ag-grid-cell-rendering-pipeline-with-typescript-c5c)
 - [Lifehacker] [The Best Apps to Plan an Outdoor Adventure](https://lifehacker.com/the-best-apps-to-plan-an-outdoor-adventure-1849336541)
 - [Lifehacker] [10 Household Objects That Are &#39;Dirtier&#39; Than a Toilet Seat](https://lifehacker.com/10-household-objects-that-are-dirtier-than-a-toilet-sea-1849335524)
 - [Lifehacker] [What&#39;s New on Prime Video in August 2022](https://lifehacker.com/whats-new-on-prime-video-in-august-2022-1849337437)
