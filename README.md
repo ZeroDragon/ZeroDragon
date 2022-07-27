@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Algunos métodos más allá del console.log en Javascript](https://dev.to/khriztianmoreno/algunos-metodos-mas-alla-del-consolelog-en-javascript-48e2)
+- [Dev.to/JS] [How to Match a Phone Number with Regex and JavaScript](https://dev.to/apmfree78/how-to-match-a-phone-number-with-regex-and-javascript-od0)
+- [Lifehacker] [If You&#39;re Planning to Buy a Meta Quest 2, Better Do It Fast](https://lifehacker.com/if-youre-planning-to-buy-a-meta-quest-2-better-do-it-f-1849338662)
 - [Lifehacker] [Why You Should Never Use a Screen Protector on a MacBook](https://lifehacker.com/why-you-should-never-use-a-screen-protector-on-a-macboo-1849338523)
 - [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
 - [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
@@ -43,9 +46,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [HOW TO USE SCROLL TO ELEMENT IN REACTJS](https://dev.to/rahul__/how-to-use-scroll-to-element-in-reactjs-41jc)
 - [Dev.to/JS] [Avoiding large ternary operator statements in React](https://dev.to/gax97/avoiding-large-ternary-operator-statements-in-react-4i19)
 - [Dev.to/JS] [AG Grid Cell Rendering Pipeline with TypeScript](https://dev.to/blove/ag-grid-cell-rendering-pipeline-with-typescript-c5c)
-- [Dev.to/JS] [So you want to implement a visitor/viewer count without crashing your server?](https://dev.to/britneycodes/so-you-want-to-implement-a-visitorviewer-count-without-crashing-your-server-396p)
 - [Lifehacker] [The Best Apps to Plan an Outdoor Adventure](https://lifehacker.com/the-best-apps-to-plan-an-outdoor-adventure-1849336541)
-- [Dev.to/JS] [tsParticles React and Vue packages are changing!](https://dev.to/matteobruni/tsparticles-react-and-vue-packages-are-changing-i1n)
 - [Lifehacker] [10 Household Objects That Are &#39;Dirtier&#39; Than a Toilet Seat](https://lifehacker.com/10-household-objects-that-are-dirtier-than-a-toilet-sea-1849335524)
 - [Lifehacker] [What&#39;s New on Prime Video in August 2022](https://lifehacker.com/whats-new-on-prime-video-in-august-2022-1849337437)
 - [Lifehacker] [How to Network When You Have Social Anxiety](https://lifehacker.com/how-to-network-when-you-have-social-anxiety-1849335852)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
 - [Lifehacker] [When to Purge All Those Mementos From Your Last Relationship](https://lifehacker.com/when-to-purge-all-those-mementos-from-your-last-relatio-1849200671)
 - [Lifehacker] [Make Any Vegetable More Enticing With the Caesar Salad Treatment](https://lifehacker.com/make-any-vegetable-more-enticing-with-the-caesar-salad-1849332871)
-- [Lifehacker] [How Hard &lpar;and Painful&rpar; Is It to Get a Tattoo Removed?](https://lifehacker.com/how-hard-and-painful-is-it-to-get-a-tattoo-removed-1849333285)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
