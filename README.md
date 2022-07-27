@@ -23,6 +23,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Por qué y cómo postular a la JSConf Chile](https://dev.to/jsconfcl/por-que-y-como-postular-a-la-jsconf-chile-1meb)
+- [Dev.to/JS] [Building a Fantasy Basketball App](https://dev.to/lucvankerkvoort/building-a-fantasy-basketball-app-4i24)
 - [Dev.to/JS] [Airtable: a low-code solution for building modern apps](https://dev.to/asayerio_techblog/airtable-a-low-code-solution-for-building-modern-apps-217a)
 - [Dev.to/JS] [React Router V6 Tips+Examples](https://dev.to/kyle12jung/react-router-v6-tipsexamples-3egk)
 - [Dev.to/JS] [Getting started with Angular Material UI](https://dev.to/asayerio_techblog/getting-started-with-angular-material-ui-207o)
@@ -36,9 +38,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Build a MDX-powered blog with Contentlayer and Next](https://dev.to/asayerio_techblog/build-a-mdx-powered-blog-with-contentlayer-and-next-2oai)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
 - [Dev.to/JS] [Leet Code - Longest Common Prefix](https://dev.to/anuj8126/leet-code-longest-common-prefix-onf)
-- [Dev.to/JS] [Making React less stupid: automatic `useMemo` and `useCallback` insertions are coming!](https://dev.to/domiii/making-react-less-stupid-automatic-usememo-and-usecallback-insertions-are-coming-8ek)
 - [Lifehacker] [When to Purge All Those Mementos From Your Last Relationship](https://lifehacker.com/when-to-purge-all-those-mementos-from-your-last-relatio-1849200671)
-- [Dev.to/JS] [Configure your Apache server to allow Service Workers](https://dev.to/kallnasty/configure-your-apache-server-to-allow-service-workers-35ad)
 - [Lifehacker] [Make Any Vegetable More Enticing With the Caesar Salad Treatment](https://lifehacker.com/make-any-vegetable-more-enticing-with-the-caesar-salad-1849332871)
 - [Lifehacker] [How Hard &lpar;and Painful&rpar; Is It to Get a Tattoo Removed?](https://lifehacker.com/how-hard-and-painful-is-it-to-get-a-tattoo-removed-1849333285)
 - [Lifehacker] [Okay, Which MacBook Should You Buy?](https://lifehacker.com/okay-which-macbook-should-you-buy-1849330413)
