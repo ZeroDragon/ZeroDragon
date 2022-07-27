@@ -23,6 +23,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [A Powerful Story AboutThe Eagle. 🦅](https://dev.to/dreamyplayer/a-powerful-story-aboutthe-eagle-56gi)
 - [Dev.to/JS] [My First Post....](https://dev.to/anzaladar/my-first-post-3d59)
 - [Dev.to/JS] [Via Keto Gummies - Price, Pros, Cons, Benefits &amp; Results?](https://dev.to/viaketobuys/via-keto-gummies-price-pros-cons-benefits-results-45da)
 - [Dev.to/JS] [Who Is Buzzing About the Arctos Portable AC?](https://dev.to/cookspault/who-is-buzzing-about-the-arctos-portable-ac-566k)
@@ -34,7 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Por qué y cómo postular a la JSConf Chile](https://dev.to/jsconfcl/por-que-y-como-postular-a-la-jsconf-chile-1meb)
 - [Dev.to/JS] [Building a Fantasy Basketball App](https://dev.to/lucvankerkvoort/building-a-fantasy-basketball-app-4i24)
 - [Dev.to/JS] [Airtable: a low-code solution for building modern apps](https://dev.to/asayerio_techblog/airtable-a-low-code-solution-for-building-modern-apps-217a)
-- [Dev.to/JS] [React Router V6 Tips+Examples](https://dev.to/kyle12jung/react-router-v6-tipsexamples-3egk)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 - [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
