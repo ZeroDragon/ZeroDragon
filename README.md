@@ -23,6 +23,11 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Cook When You Have Too Much Zucchini](https://lifehacker.com/what-to-cook-when-you-have-too-much-zucchini-1849338829)
+- [Lifehacker] [Total Voice Control, and Other Mac Accessibility Features Anyone Can Use](https://lifehacker.com/total-voice-control-and-other-mac-accessibility-featur-1849337914)
+- [Dev.to/JS] [Introduction to Next.js - a personal opinion](https://dev.to/rukshanjs/introduction-to-nextjs-a-personal-opinion-emn)
+- [Dev.to/JS] [Paracetamol.js💊| #178: Explica este código JavaScript](https://dev.to/duxtech/paracetamoljs-178-explica-este-codigo-javascript-381i)
+- [Lifehacker] [Can This TikTok Hack Make Your Cinnamon Rolls Taste Like Cinnabon?](https://lifehacker.com/can-this-tiktok-hack-make-your-cinnamon-rolls-taste-lik-1849338141)
 - [Lifehacker] [What to Do If You Have COVID Symptoms but Your At-Home Test Is Negative](https://lifehacker.com/what-to-do-if-you-have-covid-symptoms-but-your-at-home-1849338479)
 - [Dev.to/JS] [How to Start Working with CSS Grid](https://dev.to/devsatasurion/how-to-start-working-with-css-grid-4h7k)
 - [Dev.to/JS] [My first project done with React-JS!](https://dev.to/igorbrizack/my-first-project-done-with-react-js-4i21)
@@ -38,8 +43,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [tsParticles React and Vue packages are changing!](https://dev.to/matteobruni/tsparticles-react-and-vue-packages-are-changing-i1n)
 - [Dev.to/JS] [Bouncing Shapes Background With Canvas](https://dev.to/maurerkrisztian/bouncing-shapes-background-with-canvas-30pf)
 - [Lifehacker] [10 Household Objects That Are &#39;Dirtier&#39; Than a Toilet Seat](https://lifehacker.com/10-household-objects-that-are-dirtier-than-a-toilet-sea-1849335524)
-- [Dev.to/JS] [Chapter 1. Setting up 3D website using Three.js &lpar;fiber&rpar; - React - web3 and Vite as Bundler.](https://dev.to/uigla/setting-up-3d-website-using-threejs-fiber-react-web3-and-vite-as-bundler-f1f)
-- [Dev.to/JS] [How to upload files with multer in your MERN App](https://dev.to/ragnarcodes/how-to-upload-files-with-multer-in-your-mern-app-jbg)
 - [Lifehacker] [What&#39;s New on Prime Video in August 2022](https://lifehacker.com/whats-new-on-prime-video-in-august-2022-1849337437)
 - [Lifehacker] [How to Network When You Have Social Anxiety](https://lifehacker.com/how-to-network-when-you-have-social-anxiety-1849335852)
 - [Lifehacker] [How to Keep Your Kids Safe During a Heat Wave](https://lifehacker.com/how-to-keep-your-kids-safe-during-a-heat-wave-1849334729)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [The Five Unbreakable Rules of Driving Etiquette](https://lifehacker.com/the-five-unbreakable-rules-of-driving-etiquette-1849333282)
 - [Lifehacker] [How to Make Flying on a Low-Cost Airline Less Soul-Killing](https://lifehacker.com/how-to-make-flying-on-a-low-cost-airline-less-soul-kill-1849331060)
 - [Lifehacker] [12 Essential Podcasts for Gamers](https://lifehacker.com/12-of-the-best-video-game-podcasts-1849333059)
-- [Lifehacker] [How to Identify and Combat Grocery Store &#39;Shrinkflation&#39;](https://lifehacker.com/how-to-identify-and-deal-with-grocery-store-shrinkflati-1849332746)
-- [Lifehacker] [Don&#39;t Overpay for Your Passport Photo](https://lifehacker.com/dont-overpay-for-your-passport-photo-1849332419)
-- [Lifehacker] [How to Make Your House the Teen Hangout Spot](https://lifehacker.com/how-to-make-your-house-the-teen-hangout-spot-1849326989)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
