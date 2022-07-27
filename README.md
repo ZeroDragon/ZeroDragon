@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do With Your Kids This Summer When You’ve Run Out of Ideas](https://lifehacker.com/what-to-do-with-your-kids-this-summer-when-you-ve-run-o-1849332390)
+- [Dev.to/JS] [How to Build an eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-an-ecommerce-website-using-html-css-javascript-1h6d)
+- [Dev.to/JS] [Hapi Js: Part 1 - How to make a Hapi Js server in 10 minutes!](https://dev.to/kachiic/hapi-js-part-1-how-to-make-a-hapi-js-server-in-10-minutes-12kc)
+- [Dev.to/JS] [call&lpar;&rpar;, bind&lpar;&rpar; &amp; apply&lpar;&rpar; in javascript](https://dev.to/aishanipach/call-bind-apply-in-javascript-5401)
+- [Dev.to/JS] [⚡10 JavaScript Projects Every Beginner Should Build](https://dev.to/prateek951/10-javascript-projects-every-beginner-should-build-23c2)
+- [Dev.to/JS] [Why I&#39;m Learning Typescript](https://dev.to/annabaker/why-im-learning-typescript-2gjh)
+- [Lifehacker] [Barbra Streisand&#39;s Retro Ice Cream Hack Is Pretty Incredible](https://lifehacker.com/barbra-streisands-retro-ice-cream-hack-is-pretty-incred-1849335394)
 - [Lifehacker] [What Are the Most Underrated Fast Food Menu Items?](https://lifehacker.com/what-are-the-most-underrated-fast-food-menu-items-1849332459)
 - [Dev.to/JS] [Prevent spam and detect bots with ReCAPTCHA](https://dev.to/asayerio_techblog/prevent-spam-and-detect-bots-with-recaptcha-6l0)
 - [Dev.to/JS] [Improving code quality in Typescript with compiler options - Part 2](https://dev.to/asayerio_techblog/improving-code-quality-in-typescript-with-compiler-options-part-2-4fk2)
@@ -31,11 +38,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Operadores Lógicos - parte 2](https://dev.to/h4ck3rtr4d3r/operadores-logicos-parte-2-4ach)
 - [Dev.to/JS] [10 Best Data Scientist Employers for This Recession - [2022 UPDATE]](https://dev.to/datascientist987/10-best-data-scientist-employers-for-this-recession-2022-update-26dd)
 - [Dev.to/JS] [Using Vite on an existing React project](https://dev.to/asapconet/using-vite-on-an-existing-react-project-208p)
-- [Dev.to/JS] [Dialogs in 2022](https://dev.to/jmalvarez/dialogs-in-2022-4glm)
-- [Dev.to/JS] [A Powerful Story AboutThe Eagle. 🦅](https://dev.to/dreamyplayer/a-powerful-story-aboutthe-eagle-56gi)
-- [Dev.to/JS] [My First Post....](https://dev.to/anzaladar/my-first-post-3d59)
-- [Dev.to/JS] [Via Keto Gummies - Price, Pros, Cons, Benefits &amp; Results?](https://dev.to/viaketobuys/via-keto-gummies-price-pros-cons-benefits-results-45da)
-- [Dev.to/JS] [Who Is Buzzing About the Arctos Portable AC?](https://dev.to/cookspault/who-is-buzzing-about-the-arctos-portable-ac-566k)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 - [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Movie Did You See in the Theater at Way Too Young an Age?](https://lifehacker.com/what-movie-did-you-see-in-the-theater-at-way-too-young-1849328440)
 - [Lifehacker] [The Most Clever Ways to Use Honey &lpar;Besides Eating It&rpar;](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
 - [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
-- [Lifehacker] [Do DIY Air Conditioners Actually Work?](https://lifehacker.com/do-diy-air-conditioners-actually-work-1849327468)
-- [Lifehacker] [Does It Ever Make Sense to Live in a Hotel?](https://lifehacker.com/does-it-ever-make-sense-to-live-in-a-hotel-1849326755)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
