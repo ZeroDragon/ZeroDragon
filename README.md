@@ -23,18 +23,18 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [My First Post....](https://dev.to/anzaladar/my-first-post-3d59)
 - [Dev.to/JS] [Via Keto Gummies - Price, Pros, Cons, Benefits &amp; Results?](https://dev.to/viaketobuys/via-keto-gummies-price-pros-cons-benefits-results-45da)
 - [Dev.to/JS] [Who Is Buzzing About the Arctos Portable AC?](https://dev.to/cookspault/who-is-buzzing-about-the-arctos-portable-ac-566k)
 - [Dev.to/JS] [The most dominant tools for NodeJS developers.](https://dev.to/meetthakkar/the-most-dominant-tools-for-nodejs-developers-l22)
 - [Dev.to/JS] [Construyendo un Workflow Designer basado en plugins con Angular y Module Federation](https://dev.to/ngcontent/construyendo-un-workflow-designer-basado-en-plugins-con-angular-y-module-federation-2oae)
+- [Dev.to/JS] [How You Can Expand Your Content Skills to Get Closer to Tech](https://dev.to/how-to-dev/how-you-can-expand-your-content-skills-to-get-closer-to-tech-4h1f)
 - [Dev.to/JS] [Module Federation Dinámico con Angular](https://dev.to/ngcontent/module-federation-dinamico-con-angular-4go1)
 - [Dev.to/JS] [La Revolución del Micro Frontend: Module Federation en Webpack 5](https://dev.to/ngcontent/la-revolucion-del-micro-frontend-module-federation-en-webpack-5-1jl5)
 - [Dev.to/JS] [Por qué y cómo postular a la JSConf Chile](https://dev.to/jsconfcl/por-que-y-como-postular-a-la-jsconf-chile-1meb)
 - [Dev.to/JS] [Building a Fantasy Basketball App](https://dev.to/lucvankerkvoort/building-a-fantasy-basketball-app-4i24)
 - [Dev.to/JS] [Airtable: a low-code solution for building modern apps](https://dev.to/asayerio_techblog/airtable-a-low-code-solution-for-building-modern-apps-217a)
 - [Dev.to/JS] [React Router V6 Tips+Examples](https://dev.to/kyle12jung/react-router-v6-tipsexamples-3egk)
-- [Dev.to/JS] [Getting started with Angular Material UI](https://dev.to/asayerio_techblog/getting-started-with-angular-material-ui-207o)
-- [Dev.to/JS] [💡 Observable Mutable Wrapper Object](https://dev.to/jcbhmr/observable-mutable-wrapper-object-4e26)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 - [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
