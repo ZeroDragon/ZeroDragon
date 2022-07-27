@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [What to Do If You Have COVID Symptoms but Your At-Home Test Is Negative](https://lifehacker.com/what-to-do-if-you-have-covid-symptoms-but-your-at-home-1849338479)
+- [Dev.to/JS] [How to Start Working with CSS Grid](https://dev.to/devsatasurion/how-to-start-working-with-css-grid-4h7k)
+- [Dev.to/JS] [My first project done with React-JS!](https://dev.to/igorbrizack/my-first-project-done-with-react-js-4i21)
 - [Lifehacker] [This Malware Was Installed 10 Million Times on Android](https://lifehacker.com/this-malware-was-installed-10-million-times-on-android-1849337396)
 - [Dev.to/JS] [5 Flutter Dart Tips.](https://dev.to/dreamyplayer/5-flutter-dart-tips-28pn)
 - [Dev.to/JS] [EXPO vs CLI, Which is preferrable for building ReactNative Mobile Apps](https://dev.to/andaeiii/expo-vs-cli-which-is-preferrable-for-building-reactnative-mobile-apps-2flb)
@@ -38,8 +41,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Chapter 1. Setting up 3D website using Three.js &lpar;fiber&rpar; - React - web3 and Vite as Bundler.](https://dev.to/uigla/setting-up-3d-website-using-threejs-fiber-react-web3-and-vite-as-bundler-f1f)
 - [Dev.to/JS] [How to upload files with multer in your MERN App](https://dev.to/ragnarcodes/how-to-upload-files-with-multer-in-your-mern-app-jbg)
 - [Lifehacker] [What&#39;s New on Prime Video in August 2022](https://lifehacker.com/whats-new-on-prime-video-in-august-2022-1849337437)
-- [Dev.to/JS] [Building a CRUD app with Material UI and Strapi](https://dev.to/pankod/building-a-crud-app-with-material-ui-and-strapi-5gcn)
-- [Dev.to/JS] [React Tutorial For beginners - Part 2 -&gt; Getting reactive](https://dev.to/ishanpro/react-tutorial-for-beginners-part-2-getting-reactive-2m70)
 - [Lifehacker] [How to Network When You Have Social Anxiety](https://lifehacker.com/how-to-network-when-you-have-social-anxiety-1849335852)
 - [Lifehacker] [How to Keep Your Kids Safe During a Heat Wave](https://lifehacker.com/how-to-keep-your-kids-safe-during-a-heat-wave-1849334729)
 - [Lifehacker] [You Can Make Your Smartphone Read Out Loud to You](https://lifehacker.com/you-can-make-your-smartphone-read-out-loud-to-you-1849333216)
@@ -59,7 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Identify and Combat Grocery Store &#39;Shrinkflation&#39;](https://lifehacker.com/how-to-identify-and-deal-with-grocery-store-shrinkflati-1849332746)
 - [Lifehacker] [Don&#39;t Overpay for Your Passport Photo](https://lifehacker.com/dont-overpay-for-your-passport-photo-1849332419)
 - [Lifehacker] [How to Make Your House the Teen Hangout Spot](https://lifehacker.com/how-to-make-your-house-the-teen-hangout-spot-1849326989)
-- [Lifehacker] [How to Find an Ant Nest](https://lifehacker.com/how-to-find-an-ant-nest-1849331778)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
