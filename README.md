@@ -23,7 +23,14 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
-- [Dev.to/JS] [Improve your product notifications with Digest, Separate Feeds, and Feeds action buttons](https://dev.to/novu/improve-your-product-notifications-with-digest-separate-feeds-and-feeds-action-buttons-1l6k)
+- [Lifehacker] [What&#39;s New on Prime Video in August 2022](https://lifehacker.com/whats-new-on-prime-video-in-august-2022-1849337437)
+- [Dev.to/JS] [Building a CRUD app with Material UI and Strapi](https://dev.to/pankod/building-a-crud-app-with-material-ui-and-strapi-5gcn)
+- [Dev.to/JS] [React Tutorial For beginners - Part 2 -&gt; Getting reactive](https://dev.to/ishanpro/react-tutorial-for-beginners-part-2-getting-reactive-2m70)
+- [Lifehacker] [How to Network When You Have Social Anxiety](https://lifehacker.com/how-to-network-when-you-have-social-anxiety-1849335852)
+- [Dev.to/JS] [Write Browser Compatible JavaScript Code using BabelJS](https://dev.to/robinjangu/write-browser-compatible-javascript-code-using-babeljs-2on9)
+- [Dev.to/JS] [How to fix &quot;SyntaxError: Unexpected token &lt; in JSON at position 0&quot; and &quot;Unexpected end of JSON input&quot;](https://dev.to/collegewap/how-to-fix-syntaxerror-unexpected-token-in-json-at-position-0-and-unexpected-end-of-json-input-3595)
+- [Dev.to/JS] [How I host my Full-stack Application SaaS for Free on AWS](https://dev.to/ixartz/how-i-host-my-full-stack-application-saas-for-free-on-aws-41ij)
+- [Dev.to/JS] [Improve your product notifications with Digest, Separate Feeds, and Notification Action Buttons](https://dev.to/novu/improve-your-product-notifications-with-digest-separate-feeds-and-feeds-action-buttons-1l6k)
 - [Lifehacker] [How to Keep Your Kids Safe During a Heat Wave](https://lifehacker.com/how-to-keep-your-kids-safe-during-a-heat-wave-1849334729)
 - [Dev.to/JS] [React JS - Clase 2](https://dev.to/joshuacba08/react-js-clase-2-50eh)
 - [Dev.to/JS] [787. Cheapest Flights Within K Stops 🚀](https://dev.to/samuelhinchliffe/787-cheapest-flights-within-k-stops-3bp4)
@@ -33,13 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What to Do With Your Kids This Summer When You’ve Run Out of Ideas](https://lifehacker.com/what-to-do-with-your-kids-this-summer-when-you-ve-run-o-1849332390)
 - [Dev.to/JS] [How to Build an eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-an-ecommerce-website-using-html-css-javascript-1h6d)
 - [Dev.to/JS] [Hapi Js: Part 1 - How to make a Hapi Js server in 10 minutes!](https://dev.to/kachiic/hapi-js-part-1-how-to-make-a-hapi-js-server-in-10-minutes-12kc)
-- [Dev.to/JS] [call&lpar;&rpar;, bind&lpar;&rpar; &amp; apply&lpar;&rpar; in javascript](https://dev.to/aishanipach/call-bind-apply-in-javascript-5401)
-- [Dev.to/JS] [⚡10 JavaScript Projects Every Beginner Should Build](https://dev.to/prateek951/10-javascript-projects-every-beginner-should-build-23c2)
-- [Dev.to/JS] [Why I&#39;m Learning Typescript](https://dev.to/annabaker/why-im-learning-typescript-2gjh)
 - [Lifehacker] [Barbra Streisand&#39;s Retro Ice Cream Hack Is Pretty Incredible](https://lifehacker.com/barbra-streisands-retro-ice-cream-hack-is-pretty-incred-1849335394)
 - [Lifehacker] [What Are the Most Underrated Fast Food Menu Items?](https://lifehacker.com/what-are-the-most-underrated-fast-food-menu-items-1849332459)
-- [Dev.to/JS] [Prevent spam and detect bots with ReCAPTCHA](https://dev.to/asayerio_techblog/prevent-spam-and-detect-bots-with-recaptcha-6l0)
-- [Dev.to/JS] [Improving code quality in Typescript with compiler options - Part 2](https://dev.to/asayerio_techblog/improving-code-quality-in-typescript-with-compiler-options-part-2-4fk2)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 - [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [Will Delivery Services Let Your Kids Order Alcohol?](https://lifehacker.com/will-delivery-services-let-your-kids-order-alcohol-1849328630)
 - [Lifehacker] [How to Disable Twitter&#39;s Startling New Refresh Sound](https://lifehacker.com/how-to-disable-twitters-startling-new-refresh-sound-1849327818)
 - [Lifehacker] [You Can Make This Cheater&#39;s Hollandaise Sauce in the Microwave](https://lifehacker.com/you-can-make-this-cheaters-hollandaise-sauce-in-the-mic-1849328593)
-- [Lifehacker] [How Much Do Small, Daily Purchases Really Affect Your Long-Term Finances?](https://lifehacker.com/how-much-do-small-daily-purchases-really-affect-your-l-1849328048)
-- [Lifehacker] [What Movie Did You See in the Theater at Way Too Young an Age?](https://lifehacker.com/what-movie-did-you-see-in-the-theater-at-way-too-young-1849328440)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
