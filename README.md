@@ -23,6 +23,13 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Improve your product notifications with Digest, Separate Feeds, and Feeds action buttons](https://dev.to/novu/improve-your-product-notifications-with-digest-separate-feeds-and-feeds-action-buttons-1l6k)
+- [Lifehacker] [How to Keep Your Kids Safe During a Heat Wave](https://lifehacker.com/how-to-keep-your-kids-safe-during-a-heat-wave-1849334729)
+- [Dev.to/JS] [React JS - Clase 2](https://dev.to/joshuacba08/react-js-clase-2-50eh)
+- [Dev.to/JS] [787. Cheapest Flights Within K Stops 🚀](https://dev.to/samuelhinchliffe/787-cheapest-flights-within-k-stops-3bp4)
+- [Dev.to/JS] [50+ RLC Circuits and Resonance MCQ Test and Online Quiz - MCQPoint](https://dev.to/jack30832968/50-rlc-circuits-and-resonance-mcq-test-and-online-quiz-mcqpoint-hml)
+- [Lifehacker] [You Can Make Your Smartphone Read Out Loud to You](https://lifehacker.com/you-can-make-your-smartphone-read-out-loud-to-you-1849333216)
+- [Dev.to/JS] [Manipulating / Accessing HTML element using JavaScript pt 1](https://dev.to/victoriaigbobi65/manipulating-accessing-html-element-using-javascript-pt-1-3ong)
 - [Lifehacker] [What to Do With Your Kids This Summer When You’ve Run Out of Ideas](https://lifehacker.com/what-to-do-with-your-kids-this-summer-when-you-ve-run-o-1849332390)
 - [Dev.to/JS] [How to Build an eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-an-ecommerce-website-using-html-css-javascript-1h6d)
 - [Dev.to/JS] [Hapi Js: Part 1 - How to make a Hapi Js server in 10 minutes!](https://dev.to/kachiic/hapi-js-part-1-how-to-make-a-hapi-js-server-in-10-minutes-12kc)
@@ -33,11 +40,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [What Are the Most Underrated Fast Food Menu Items?](https://lifehacker.com/what-are-the-most-underrated-fast-food-menu-items-1849332459)
 - [Dev.to/JS] [Prevent spam and detect bots with ReCAPTCHA](https://dev.to/asayerio_techblog/prevent-spam-and-detect-bots-with-recaptcha-6l0)
 - [Dev.to/JS] [Improving code quality in Typescript with compiler options - Part 2](https://dev.to/asayerio_techblog/improving-code-quality-in-typescript-with-compiler-options-part-2-4fk2)
-- [Dev.to/JS] [Cookies, I hardy knew ye.](https://dev.to/brunnock/cookies-i-hardy-knew-ye-2pjp)
-- [Dev.to/JS] [Useful tools, libraries and resources for developer to speed up the development](https://dev.to/devsimc/useful-tools-libraries-and-resources-for-developer-to-speed-up-the-development-3eb1)
-- [Dev.to/JS] [Operadores Lógicos - parte 2](https://dev.to/h4ck3rtr4d3r/operadores-logicos-parte-2-4ach)
-- [Dev.to/JS] [10 Best Data Scientist Employers for This Recession - [2022 UPDATE]](https://dev.to/datascientist987/10-best-data-scientist-employers-for-this-recession-2022-update-26dd)
-- [Dev.to/JS] [Using Vite on an existing React project](https://dev.to/asapconet/using-vite-on-an-existing-react-project-208p)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 - [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [You Can Make This Cheater&#39;s Hollandaise Sauce in the Microwave](https://lifehacker.com/you-can-make-this-cheaters-hollandaise-sauce-in-the-mic-1849328593)
 - [Lifehacker] [How Much Do Small, Daily Purchases Really Affect Your Long-Term Finances?](https://lifehacker.com/how-much-do-small-daily-purchases-really-affect-your-l-1849328048)
 - [Lifehacker] [What Movie Did You See in the Theater at Way Too Young an Age?](https://lifehacker.com/what-movie-did-you-see-in-the-theater-at-way-too-young-1849328440)
-- [Lifehacker] [The Most Clever Ways to Use Honey &lpar;Besides Eating It&rpar;](https://lifehacker.com/the-most-clever-ways-to-use-honey-besides-eating-it-1849329120)
-- [Lifehacker] [These Types of Social Media Posts Might Get You Fired](https://lifehacker.com/these-types-of-social-media-posts-might-get-you-fired-1849328785)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
