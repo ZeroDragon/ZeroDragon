@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Useful tools, libraries and resources for developer to speed up the development](https://dev.to/devsimc/useful-tools-libraries-and-resources-for-developer-to-speed-up-the-development-3eb1)
+- [Dev.to/JS] [Operadores Lógicos - parte 2](https://dev.to/h4ck3rtr4d3r/operadores-logicos-parte-2-4ach)
+- [Dev.to/JS] [10 Best Data Scientist Employers for This Recession - [2022 UPDATE]](https://dev.to/datascientist987/10-best-data-scientist-employers-for-this-recession-2022-update-26dd)
 - [Dev.to/JS] [Using Vite on an existing React project](https://dev.to/asapconet/using-vite-on-an-existing-react-project-208p)
 - [Dev.to/JS] [Dialogs in 2022](https://dev.to/jmalvarez/dialogs-in-2022-4glm)
 - [Dev.to/JS] [A Powerful Story AboutThe Eagle. 🦅](https://dev.to/dreamyplayer/a-powerful-story-aboutthe-eagle-56gi)
@@ -32,9 +35,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [The most dominant tools for NodeJS developers.](https://dev.to/meetthakkar/the-most-dominant-tools-for-nodejs-developers-l22)
 - [Dev.to/JS] [Construyendo un Workflow Designer basado en plugins con Angular y Module Federation](https://dev.to/ngcontent/construyendo-un-workflow-designer-basado-en-plugins-con-angular-y-module-federation-2oae)
 - [Dev.to/JS] [How You Can Expand Your Content Skills to Get Closer to Tech](https://dev.to/how-to-dev/how-you-can-expand-your-content-skills-to-get-closer-to-tech-4h1f)
-- [Dev.to/JS] [Module Federation Dinámico con Angular](https://dev.to/ngcontent/module-federation-dinamico-con-angular-4go1)
-- [Dev.to/JS] [La Revolución del Micro Frontend: Module Federation en Webpack 5](https://dev.to/ngcontent/la-revolucion-del-micro-frontend-module-federation-en-webpack-5-1jl5)
-- [Dev.to/JS] [Por qué y cómo postular a la JSConf Chile](https://dev.to/jsconfcl/por-que-y-como-postular-a-la-jsconf-chile-1meb)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
 - [Lifehacker] [These Family Dollar Personal Care Products Are Part of a Massive Recall](https://lifehacker.com/these-family-dollar-personal-care-products-are-part-of-1849334059)
 - [Lifehacker] [These Apps Will Help You Make Any Difficult Decision](https://lifehacker.com/these-apps-will-help-you-make-any-difficult-decision-1849334264)
