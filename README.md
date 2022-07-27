@@ -23,6 +23,12 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [The Best Apps to Plan an Outdoor Adventure](https://lifehacker.com/the-best-apps-to-plan-an-outdoor-adventure-1849336541)
+- [Dev.to/JS] [tsParticles React and Vue packages are changing!](https://dev.to/matteobruni/tsparticles-react-and-vue-packages-are-changing-i1n)
+- [Dev.to/JS] [Bouncing Shapes Background With Canvas](https://dev.to/maurerkrisztian/bouncing-shapes-background-with-canvas-30pf)
+- [Lifehacker] [10 Household Objects That Are &#39;Dirtier&#39; Than a Toilet Seat](https://lifehacker.com/10-household-objects-that-are-dirtier-than-a-toilet-sea-1849335524)
+- [Dev.to/JS] [Setting up 3D website using Three.js &lpar;fiber&rpar; - React - web3 and Vite as Bundler](https://dev.to/uigla/setting-up-3d-website-using-threejs-fiber-react-web3-and-vite-as-bundler-f1f)
+- [Dev.to/JS] [How to upload files with multer in your MERN App](https://dev.to/ragnarcodes/how-to-upload-files-with-multer-in-your-mern-app-jbg)
 - [Lifehacker] [What&#39;s New on Prime Video in August 2022](https://lifehacker.com/whats-new-on-prime-video-in-august-2022-1849337437)
 - [Dev.to/JS] [Building a CRUD app with Material UI and Strapi](https://dev.to/pankod/building-a-crud-app-with-material-ui-and-strapi-5gcn)
 - [Dev.to/JS] [React Tutorial For beginners - Part 2 -&gt; Getting reactive](https://dev.to/ishanpro/react-tutorial-for-beginners-part-2-getting-reactive-2m70)
@@ -34,12 +40,8 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Keep Your Kids Safe During a Heat Wave](https://lifehacker.com/how-to-keep-your-kids-safe-during-a-heat-wave-1849334729)
 - [Dev.to/JS] [React JS - Clase 2](https://dev.to/joshuacba08/react-js-clase-2-50eh)
 - [Dev.to/JS] [787. Cheapest Flights Within K Stops 🚀](https://dev.to/samuelhinchliffe/787-cheapest-flights-within-k-stops-3bp4)
-- [Dev.to/JS] [50+ RLC Circuits and Resonance MCQ Test and Online Quiz - MCQPoint](https://dev.to/jack30832968/50-rlc-circuits-and-resonance-mcq-test-and-online-quiz-mcqpoint-hml)
 - [Lifehacker] [You Can Make Your Smartphone Read Out Loud to You](https://lifehacker.com/you-can-make-your-smartphone-read-out-loud-to-you-1849333216)
-- [Dev.to/JS] [Manipulating / Accessing HTML element using JavaScript pt 1](https://dev.to/victoriaigbobi65/manipulating-accessing-html-element-using-javascript-pt-1-3ong)
 - [Lifehacker] [What to Do With Your Kids This Summer When You’ve Run Out of Ideas](https://lifehacker.com/what-to-do-with-your-kids-this-summer-when-you-ve-run-o-1849332390)
-- [Dev.to/JS] [How to Build an eCommerce Website Using HTML CSS JavaScript](https://dev.to/codewithsadee/how-to-build-an-ecommerce-website-using-html-css-javascript-1h6d)
-- [Dev.to/JS] [Hapi Js: Part 1 - How to make a Hapi Js server in 10 minutes!](https://dev.to/kachiic/hapi-js-part-1-how-to-make-a-hapi-js-server-in-10-minutes-12kc)
 - [Lifehacker] [Barbra Streisand&#39;s Retro Ice Cream Hack Is Pretty Incredible](https://lifehacker.com/barbra-streisands-retro-ice-cream-hack-is-pretty-incred-1849335394)
 - [Lifehacker] [What Are the Most Underrated Fast Food Menu Items?](https://lifehacker.com/what-are-the-most-underrated-fast-food-menu-items-1849332459)
 - [Lifehacker] [Never Use This TikTok Travel &#39;Hack&#39;](https://lifehacker.com/never-use-this-tiktok-travel-hack-1849333796)
@@ -58,8 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [How to Find an Ant Nest](https://lifehacker.com/how-to-find-an-ant-nest-1849331778)
 - [Lifehacker] [How to Turn a Landline Telephone Into a Cell Phone Bluetooth Receiver](https://lifehacker.com/how-to-turn-a-landline-telephone-into-a-cell-phone-blue-1849329883)
 - [Lifehacker] [Will Delivery Services Let Your Kids Order Alcohol?](https://lifehacker.com/will-delivery-services-let-your-kids-order-alcohol-1849328630)
-- [Lifehacker] [How to Disable Twitter&#39;s Startling New Refresh Sound](https://lifehacker.com/how-to-disable-twitters-startling-new-refresh-sound-1849327818)
-- [Lifehacker] [You Can Make This Cheater&#39;s Hollandaise Sauce in the Microwave](https://lifehacker.com/you-can-make-this-cheaters-hollandaise-sauce-in-the-mic-1849328593)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
