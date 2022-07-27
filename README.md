@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Dev.to/JS] [Airtable: a low-code solution for building modern apps](https://dev.to/asayerio_techblog/airtable-a-low-code-solution-for-building-modern-apps-217a)
+- [Dev.to/JS] [React Router V6 Tips+Examples](https://dev.to/kyle12jung/react-router-v6-tipsexamples-3egk)
+- [Dev.to/JS] [Getting started with Angular Material UI](https://dev.to/asayerio_techblog/getting-started-with-angular-material-ui-207o)
 - [Dev.to/JS] [💡 Observable Mutable Wrapper Object](https://dev.to/jcbhmr/observable-mutable-wrapper-object-4e26)
 - [Dev.to/JS] [Task List React.js](https://dev.to/jesusalbarca/task-list-reactjs-4f67)
 - [Dev.to/JS] [💡 Per-file Logger Filter](https://dev.to/jcbhmr/per-file-logger-filter-p43)
@@ -36,10 +39,7 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Dev.to/JS] [Making React less stupid: automatic `useMemo` and `useCallback` insertions are coming!](https://dev.to/domiii/making-react-less-stupid-automatic-usememo-and-usecallback-insertions-are-coming-8ek)
 - [Lifehacker] [When to Purge All Those Mementos From Your Last Relationship](https://lifehacker.com/when-to-purge-all-those-mementos-from-your-last-relatio-1849200671)
 - [Dev.to/JS] [Configure your Apache server to allow Service Workers](https://dev.to/kallnasty/configure-your-apache-server-to-allow-service-workers-35ad)
-- [Dev.to/JS] [FastifyError- Request body is too large](https://dev.to/stackblogger/fastifyerror-request-body-is-too-large-l50)
-- [Dev.to/JS] [Bun: o novo runtime para Javascript](https://dev.to/cristuker/bun-o-novo-runtime-para-javascript-58m9)
 - [Lifehacker] [Make Any Vegetable More Enticing With the Caesar Salad Treatment](https://lifehacker.com/make-any-vegetable-more-enticing-with-the-caesar-salad-1849332871)
-- [Dev.to/JS] [Netflix MOD APK v8.31.1 Download &lpar;Premium 4K&rpar; 2022](https://dev.to/sajidhuasin/netflix-mod-apk-v8311-download-premium-4k-2022-6ke)
 - [Lifehacker] [How Hard &lpar;and Painful&rpar; Is It to Get a Tattoo Removed?](https://lifehacker.com/how-hard-and-painful-is-it-to-get-a-tattoo-removed-1849333285)
 - [Lifehacker] [Okay, Which MacBook Should You Buy?](https://lifehacker.com/okay-which-macbook-should-you-buy-1849330413)
 - [Lifehacker] [The Five Unbreakable Rules of Driving Etiquette](https://lifehacker.com/the-five-unbreakable-rules-of-driving-etiquette-1849333282)
