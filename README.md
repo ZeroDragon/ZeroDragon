@@ -23,6 +23,9 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 
 ### 👨‍💻 Noticias random de tecnología
 <!-- TECH-POSTS:START -->
+- [Lifehacker] [Why You Should Never Use a Screen Protector on a MacBook](https://lifehacker.com/why-you-should-never-use-a-screen-protector-on-a-macboo-1849338523)
+- [Lifehacker] [15 Norman Lear Episodes That Changed TV History](https://lifehacker.com/15-norman-lear-episodes-that-changed-tv-history-1849337456)
+- [Lifehacker] [Where to Place Fans in Your Home for Maximum Cooling](https://lifehacker.com/where-to-place-fans-in-your-home-for-maximum-cooling-1849338791)
 - [Dev.to/JS] [I created a framework with JSX components on generators*, a fast mobx-like state management and an exclusive cssx styling system](https://dev.to/iminside/i-created-a-framework-with-jsx-components-on-generators-a-fast-mobx-like-state-management-and-an-exclusive-cssx-styling-system-4mln)
 - [Lifehacker] [How to Survive Sleeping in the Heat With No Air Conditioning](https://lifehacker.com/how-to-survive-sleeping-in-the-heat-with-no-air-conditi-1849338591)
 - [Lifehacker] [What to Cook When You Have Too Much Zucchini](https://lifehacker.com/what-to-cook-when-you-have-too-much-zucchini-1849338829)
@@ -57,9 +60,6 @@ Si buscas chamba, mandame un mensaje en [telegram](https://t.me/zerodragon).
 - [Lifehacker] [When to Purge All Those Mementos From Your Last Relationship](https://lifehacker.com/when-to-purge-all-those-mementos-from-your-last-relatio-1849200671)
 - [Lifehacker] [Make Any Vegetable More Enticing With the Caesar Salad Treatment](https://lifehacker.com/make-any-vegetable-more-enticing-with-the-caesar-salad-1849332871)
 - [Lifehacker] [How Hard &lpar;and Painful&rpar; Is It to Get a Tattoo Removed?](https://lifehacker.com/how-hard-and-painful-is-it-to-get-a-tattoo-removed-1849333285)
-- [Lifehacker] [Okay, Which MacBook Should You Buy?](https://lifehacker.com/okay-which-macbook-should-you-buy-1849330413)
-- [Lifehacker] [The Five Unbreakable Rules of Driving Etiquette](https://lifehacker.com/the-five-unbreakable-rules-of-driving-etiquette-1849333282)
-- [Lifehacker] [How to Make Flying on a Low-Cost Airline Less Soul-Killing](https://lifehacker.com/how-to-make-flying-on-a-low-cost-airline-less-soul-kill-1849331060)
 - [Crazy Programmer] [Types of Ciphers in Cryptography](https://www.thecrazyprogrammer.com/2022/07/types-of-ciphers-in-cryptography.html)
 - [Crazy Programmer] [Dennis Ritchie Biography](https://www.thecrazyprogrammer.com/2022/07/dennis-ritchie-biography.html)
 - [Crazy Programmer] [Bjarne Stroustrup Biography](https://www.thecrazyprogrammer.com/2022/07/bjarne-stroustrup-biography.html)<!-- TECH-POSTS:END -->
